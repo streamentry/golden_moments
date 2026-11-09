@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pari ta' stampi",
+    "seoTitle": "Logħba ta' Taqbil għad-Demenzja: Pari ta' Stampi",
+    "h1": "Pari ta' Stampi: Logħba Ħafifa ta' Taqbil",
+    "description": "Logħba ħielsa u ħafifa ta' taqbil għal persuni li qed jgħixu bid-demenzja. L-istampi kbar jibqgħu murija, m'hemm ebda kronometru jew punteġġ, u tista' tagħżel minn 4 sa 12 kartell.",
+    "short": "Sib iż-żewġ stampi li huma l-istess. L-istampi jistgħu jibqgħu murija.",
+    "players": "1 jew 2 persuni, ħdejn xulxin",
+    "intro": "Agħfsu stampa, imbagħad agħfsu dik li taqbel magħha. B'mod awtomatiku l-istampi jibqgħu murija, allura m'hemm xejn x'tiftakar. Meta żewġ stampi jmorru flimkien, jieħdu bordura tad-deheb u sinjal ta' tikka.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Agħżlu kemm kartelli tridu tużaw. Erba' kartelli huma post kwiet biex tibdew.",
+      "Agħfsu kwalunkwe stampa. Din tieħu bordura tad-deheb.",
+      "Agħfsu l-istampa li tidher l-istess. Il-par jibqa' flimkien b'sinjal ta' tikka.",
+      "Jekk iż-żewġ stampi huma differenti, ma jiġri xejn ħażin. Agħfsu mill-ġdid meta tkunu lesti.",
+      "Ixgħlu “Stampi moħbija” biss jekk iż-żewġ naħat jgawdu l-verżjoni klassika bl-wiċċ 'l isfel."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Ismu l-istampi b'leħen għoli flimkien u kellmu dwarhom: “Tazza tè ħamra. Tieħu l-ħalib fit-te tiegħek?”",
+      "Ħalli l-persuna li tieħu ħsiebha tagħfas hi, anke jekk jieħu ż-żmien. Tista' tindika flok tagħfas għaliha.",
+      "Żomm erba' kartelli sakemm jibqa' pjaċevoli. Aktar kartelli huma għażla, qatt mhux livell biex tilħaq.",
+      "Ieqaf waqt li għadu pjaċevoli. Logħba waħda hija attività sħiħa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm kronometru jew punteġġ?",
+        "a": "Le. M'hemm ebda arloġġ, punteġġ, għadd ta' mossi jew telf. Tista' tieqaf fi kwalunkwe mument, u li tieqaf f'nofs il-logħba huwa mod tajjeb biss biex tispiċċa."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Għaliex l-istampi jibqgħu murija?",
+        "a": "Li l-istampi jibqgħu murija jagħmel il-logħba aktar dwar li tara u taqbel milli tiftakar. Ħafna nies isibuha aktar kwieta. Tista' tibdel għal stampi moħbija b'taptiet waħda jekk tippreferi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u trid tirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-internet fuq telefon, tablet jew kompjuter."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Nistgħu nużaw ir-ritratti tal-familja tagħna?",
+        "a": "Iva. Ipprovaw “Pari ta' ritratti”, li jippermettilkom tagħżlu ritratti mill-apparat tagħkom. Ir-ritratti jibqgħu fil-browser tagħkom u ma jitgħabbewx fuq l-internet."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Sib l-istess",
+    "seoTitle": "Sib l-Istampa l-Istess: Logħba Sempliċi għad-Demenzja",
+    "h1": "Sib l-Istampa l-Istess",
+    "description": "Stampa waħda fuq nett, tnejn sa erba' isfel. Agħfas dik l-istess. Logħba ħielsa u kwieta ta' stampi għal persuni li qed jgħixu bid-demenzja, mingħajr kronometru.",
+    "short": "Ħares lejn l-istampa fuq nett u agħfas l-istess waħda isfel.",
+    "players": "1 jew 2 persuni",
+    "intro": "Stampa waħda tinsab fuq nett tal-iskrin. Taħtha hemm tnejn, tlieta jew erba' stampi. Agħfas dik li hija l-istess. Hija għażla sempliċi waħda kull darba, b'ħafna spazju biex titkellmu.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Agħżlu tnejn, tlieta jew erba' stampi biex tagħżlu minnhom. Tnejn huma l-aktar sempliċi.",
+      "Ħarsu flimkien lejn l-istampa fuq nett.",
+      "Agħfsu l-istess stampa isfel. Tkun immarkata b'tikka u ftit kliem sabiħ.",
+      "Jekk tintgħażel stampa differenti, il-logħba sempliċiment issemmiha u tistenna. Ħudu ż-żmien tagħkom.",
+      "Agħfsu “Stampa li jmiss” meta tkunu lesti għal oħra."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Kellmu dwar kull stampa qabel tagħżlu: kuluri, forom, fejn tista' tarawha.",
+      "Żewġ għażliet mhumiex “faċli wisq”. L-għan huwa mument sabiħ, mhux sfida.",
+      "Jekk it-taptip ikun iebes, il-persuna tista' tindika u int tagħfas għaliha."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm kronometru jew punteġġ?",
+        "a": "Le. M'hemm ebda arloġġ, punteġġ, għadd ta' mossi jew telf. Tista' tieqaf fi kwalunkwe mument, u li tieqaf f'nofs il-logħba huwa mod tajjeb biss biex tispiċċa."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "X'jiġri jekk tintgħażel stampa ħażina?",
+        "a": "Ma jiġri xejn ta' ħażin. Ebda ħoss ta' twissija, ebda salib aħmar u ebda tħazhiż. Il-logħba ssemmi l-istampa li ġiet imgħafsa u tistenna t-taptiet li jmiss."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u trid tirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-internet fuq telefon, tablet jew kompjuter."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Taqbil tad-dell",
+    "seoTitle": "Logħba ta' Taqbil tad-Dell għad-Demenzja: Online b'Xejn",
+    "h1": "Taqbil tad-Dell: Logħba Ħafifa ta' Stampi",
+    "description": "Dell skur fuq nett, tnejn sa erba' stampi isfel. Agħfas l-istampa li tagħmel id-dell. Logħba ħielsa u kwieta ta' taqbil tad-dell għad-demenzja, mingħajr kronometru.",
+    "short": "Ħares lejn id-dell u agħfas l-istampa li tagħmlu.",
+    "players": "1 jew 2 persuni",
+    "intro": "It-taqbil tad-dell huwa attività magħrufa minn folji ta' xogħol stampati, hawnhekk b'stampi kbar u mingħajr ma tistampa xejn. Dell ħafif jinsab fuq nett tal-iskrin, u tnejn, tlieta jew erba' stampi jistennew isfel. Agħfas dik li tagħmel id-dell. Formi bħal roti tar-rota, umbrella jew tazza tè huma faċli biex titkellmu dwarhom ukoll.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Agħżlu tnejn, tlieta jew erba' stampi biex tagħżlu minnhom. Tnejn huma l-aktar sempliċi.",
+      "Ħarsu flimkien lejn id-dell. Liema forma għandu? Huwa twil jew tond?",
+      "Agħfsu l-istampa li tagħmel id-dell. Ismha jidher taħt id-dell.",
+      "Jekk tintgħażel stampa differenti, il-logħba sempliċiment issemmiha u tistenna. Ħudu ż-żmien tagħkom.",
+      "Agħfsu “Dell li jmiss” meta tkunu lesti għal ieħor."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Ittraċċa l-kontorn tad-dell b'subgħajk u kellmu dwar il-forma.",
+      "Jekk id-dell ikun iebes llum, aqleb għal Sib l-istess, fejn l-istampi jixbhu lil xulxin.",
+      "Kellmu dwar l-istampa ladarba tinstab: “Kellna umbrella bħal din.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm kronometru jew punteġġ?",
+        "a": "Le. M'hemm ebda arloġġ, punteġġ, għadd ta' mossi jew telf. Tista' tieqaf fi kwalunkwe mument, u li tieqaf f'nofs il-logħba huwa mod tajjeb biss biex tispiċċa."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Il-logħba tat-tpaċija hija tajba għal persuni li qed jgħixu bid-demenzja?",
+        "a": "Tista' tkun attività sabiħa u sempliċi għal xi nies, speċjalment fl-istadji bikrija. Il-forom huma aktar faċli biex jinftiehmu milli l-kliem. Hija għall-pjaċir u l-konverżazzjoni, mhux għal test, u ma tfejjaqx u lanqas ma tnaqqas id-demenzja. Jekk tikkaġuna frustrazzjoni, ippruvaw “Sib l-istess” jew sempliċement ħarsu lejn ritratti flimkien."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "X'jiġri jekk jiġi mgħafas ritratt ħażin?",
+        "a": "Xejn ta' ħażin. M'hemm ebda ħoss, salib aħmar jew tħazhiż. Il-logħba ssemmi l-isem tar-ritratt li ġie mgħafas u tistenna l-mgħafsa li jmiss."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u jeħtieġ li nirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-internet fuq telefon, tablet jew kompjuter."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Iqassmu flimkien",
+    "seoTitle": "Logħba ta' Tqassim għad-Demenzja: Iqassmu Flimkien",
+    "h1": "Iqassmu Flimkien: Attività ta' Tqassim ta' Ritratti",
+    "description": "Agħfas ritratt, imbagħad agħfas il-kannestru fejn jappartjeni: il-kċina jew il-ġnien, il-frott jew l-annimali. Attività kalma u b'xejn ta' tqassim għal persuni li qed jgħixu bid-demenzja.",
+    "short": "Poġġi kull ritratt fil-kannestru tiegħu: il-kċina jew il-ġnien, u aktar.",
+    "players": "1 jew 2 persuni",
+    "intro": "It-tqassim huwa xogħol familjari u sodisfacenti, bħal meta tpoġġi l-ikel fil-kabinett jew taqbel iż-żwiemel. Agħfas ritratt, imbagħad agħfas il-kannestru fejn jappartjeni. M'hemm l-ebda għaġla u m'hemm l-ebda żball.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Agħżel tema: il-kċina u l-ġnien, il-frott u l-annimali, jew id-dar u l-vjaġġi.",
+      "Agħfas ritratt. Jingħata bordura tad-deheb.",
+      "Agħfas il-kannestru fejn jappartjeni. Ir-ritratt jitqiegħed f'dak il-kannestru.",
+      "Jekk ikun ta' l-kannestru l-ieħor, il-logħba tgħid dan b'mod delikat u tistenna.",
+      "Meta jkun hemm kull ritratt maqsum, ħarsu flimkien lejn il-kannestri."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Fil-ħajja reali ħafna drabi m'hemm l-ebda tweġiba ħażina. Jekk xi ħadd jgħid li l-bott tal-ilma għandu jmur fil-kċina, staqsih għaliex. Jista' jkollkom storja sabiħa.",
+      "Uża r-ritratti biex tibda ħadita: “X'kont tiżra' fil-ġnien tiegħek?”",
+      "Qsim oġġetti veri, bħal mgħaref u forketti jew bottuni skont il-kulur, huwa segwitu tajjeb barra mill-iskrin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm xi arloġġ jew punteġġ?",
+        "a": "Le. M'hemm l-ebda arloġġ, punteġġ, għadd ta' mossi jew telf. Tista' tieqaf fi kwalunkwe ħin, u li tieqaf f'nofs it-triq huwa mod tajjeb biss biex tlesti."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Għaliex it-tqassim?",
+        "a": "Ħafna nies jieħdu pjaċir fit-tqassim għax iħossu bħala xogħol utli u familjari. Huwa wkoll faċli li titkellmu dwar ir-ritratti hekk kif tmorru."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u jeħtieġ li nirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-internet fuq telefon, tablet jew kompjuter."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle tar-ritratt",
+    "seoTitle": "Puzzle Faċli għad-Demenzja: 4 jew 9 Biċċiet",
+    "h1": "Puzzle tar-Ritratt: Puzzle Faċli",
+    "description": "Puzzle online faċli għal persuni li qed jgħixu bid-demenzja: 4 jew 9 biċċiet kbar, ir-ritratt kollu jibqa' jidher, u tagħfas żewġ biċċiet biex tbiddilhom il-post.",
+    "short": "Agħfas żewġ biċċiet biex tbiddel il-post tagħhom sakemm ir-ritratt jitlesta.",
+    "players": "1 jew 2 persuni",
+    "intro": "Ritratt sabiħ jinqasam f'erba' jew disa' biċċiet kbar u jitħawwad. Ir-ritratt kollu jibqa' jidher bħala gwida. Agħfas biċċa, imbagħad oħra, u jibdlu l-post. M'hemmx bżonn ġibda.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Agħżel ritratt u 4 jew 9 biċċiet. Erba' huma bidu ħafif.",
+      "Ħares lejn ir-ritratt kollu fil-quċċata.",
+      "Agħfas biċċa, imbagħad agħfas il-post fejn għandha tmur. Iż-żewġ biċċiet jinbidlu l-post.",
+      "Il-biċċiet fil-post it-tajjeb jieħdu tikka żgħira.",
+      "Meta r-ritratt ikun kollu, ħudu pjaċir flimkien, imbagħad agħżlu ieħor."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Li tagħfas żewġ biċċiet biex tbiddilhom il-post huwa ħafna aktar faċli mill-ġibda għal ħafna nies.",
+      "Tkellmu dwar ir-ritratt hekk kif jingħaqad: “Hemm is-saqaf l-aħmar.”",
+      "Puzzle tal-injam veru b'12 sa 24 biċċa kbira huwa attività sabiħa wkoll fuq il-mejda."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm xi arloġġ jew punteġġ?",
+        "a": "Le. M'hemm l-ebda arloġġ, punteġġ, għadd ta' mossi jew telf. Tista' tieqaf fi kwalunkwe ħin, u li tieqaf f'nofs it-triq huwa mod tajjeb biss biex tlesti."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Irid nigbed il-biċċiet?",
+        "a": "Le. Agħfas biċċa, imbagħad oħra, u jibdlu l-post. Dan huwa aktar faċli b'id li tirtogħod jew fuq skrin żgħir."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u jeħtieġ li nirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-internet fuq telefon, tablet jew kompjuter."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Lesti s-sentenza",
+    "seoTitle": "Lesti s-Sentenza: Logħba ta' Provverbji għall-Anzjani",
+    "h1": "Lesti s-Sentenza",
+    "description": "Sentenzi familjari Maltin b'kelma nieqsa fl-aħħar, bħal “Min jiżra' ___”. Agħfas għażla jew uri t-tmiem, imbagħad tkellmu dwaru.",
+    "short": "Lestu sentenzi familjari flimkien, imbagħad tkellmu dwarhom.",
+    "players": "1, 2 jew grupp",
+    "intro": "Is-sentenzi antiki spiss jibqgħu magħrufa għal ħajja sħiħa. Kull karta turi sentenza familjari bil-kelma tal-aħħar nieqsa, tliet għażliet, u buttuna “Uri t-tmiem”. Wara t-tmiem, mistoqsija delikata tistieden konverżazzjoni.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Aqraw is-sentenza b'leħen wieħed flimkien.",
+      "Agħfsu l-kelma li ttemm is-sentenza, jew agħfsu “Uri t-tmiem”.",
+      "Aqraw is-sentenza kollha mill-ġdid u tkellmu dwarha bl-użu tal-mistoqsija.",
+      "Agħfsu “Is-sentenza li jmiss” meta tkunu lesti."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Aqraw bil-mod u ħallu ftit ħin qabel il-kelma tal-aħħar. Ħafna drabi n-nies jgħidu l-kelma qabel ma tlestu.",
+      "Jekk xi ħadd jagħti tmiem differenti, ħudu pjaċir minnu. Xi verżjonijiet ta' sentenzi jvarjaw skont il-familja jew ir-reġjun.",
+      "F'grupp, persuna waħda taqra u kulħadd jingħaqad fit-tmiem."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm xi arloġġ jew punteġġ?",
+        "a": "Le. M'hemm l-ebda arloġġ, punteġġ, għadd ta' mossi jew telf. Tista' tieqaf fi kwalunkwe ħin, u li tieqaf f'nofs it-triq huwa wkoll mod tajjeb biex ttemm."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "X'jiġri jekk nagħżlu kelma oħra?",
+        "a": "Il-logħba turi t-tmiem tas-soltu u tgħaddi għal konverżazzjoni. M'hemm l-ebda punteġġ, u tweġiba differenti hija tajba."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u jeħtieġ li nirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm l-ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-web fuq it-telefon, it-tablet jew il-kompjuter."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Tfittxija ta' kliem b'ittri kbar",
+    "seoTitle": "Tfittxija ta' Kliem b'Ittri Kbar għal Persuni bid-Demenzja, Stampabbli",
+    "h1": "Tfittxija ta' Kliem b'Ittri Kbar",
+    "description": "Tfittxija ta' kliem b'xejn b'ittri kbar għal persuni anzjani u għal persuni li jgħixu bid-demenzja. Ftit kliem, ittri kbar, u kliem li jinqara biss minn xellug għal lemin jew minn fuq 'l isfel. Tista' tilagħab online jew tistampa.",
+    "short": "Ittri kbar, ftit kliem, minn xellug għal lemin u minn fuq 'l isfel biss. Stampaha wkoll.",
+    "players": "1 jew 2 persuni",
+    "intro": "Grilja żgħira b'ittri kbar u ftit kliem biss, kollha jinqraw minn xellug għal lemin jew minn fuq 'l isfel. Agħfas l-ewwel ittra ta' kelma, imbagħad l-aħħar ittra tagħha. Tippreferi l-karta? Stampa puzzle ġdid b'lingwetta waħda.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Agħżel tema u daqs tal-grilja.",
+      "Ara l-lista tal-kliem. Il-kliem jinqraw minn xellug għal lemin jew minn fuq 'l isfel.",
+      "Agħfas l-ewwel ittra ta' kelma, imbagħad agħfas l-aħħar ittra tagħha.",
+      "Kelma misjuba tiġi mmarkata u titneħħa mill-lista.",
+      "Agħfas “Stampa dan il-puzzle” biex tilgħab fuq il-karta b'lapes jew marker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Uri kelma fil-lista u ħares lejn l-ewwel ittra tagħha flimkien.",
+      "Fuq il-karta, marker bil-kulur huwa aktar faċli biex jinżamm milli lapes.",
+      "Itkellmu dwar il-kliem tat-tema. Kliem dwar il-frott huwa mod naturali biex wieħed jiftakar fil-ġbir, il-ħami jew is-suq."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm arloġġ jew punteġġ?",
+        "a": "Le. M'hemm l-ebda arloġġ, punteġġ, għadd ta' mossi jew telf. Tista' tieqaf fi kwalunkwe ħin, u li tieqaf f'nofs it-triq huwa wkoll mod tajjeb biex ttemm."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Nista' nistampa t-tfittxija tal-kliem?",
+        "a": "Iva. Agħfas “Stampa dan il-puzzle” biex tistampa l-grilja attwali b'kitba kbira, bil-lista tal-kliem taħtha. Kull puzzle ġdid huwa differenti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u jeħtieġ li nirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm l-ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-web fuq it-telefon, it-tablet jew il-kompjuter."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Paġni biex tikkuluraw",
+    "seoTitle": "Paġni biex Tikkuluraw għal Adulti bid-Demenzja (B'xejn)",
+    "h1": "Paġni biex Tikkuluraw",
+    "description": "Paġni sempliċi għal adulti b'partijiet kbar: agħfas kulur, imbagħad agħfas l-istampa. M'hemm l-ebda tqarqix, l-ebda kulur ħażin, u kull paġna tista' tiġi stampata b'xejn.",
+    "short": "Agħfas kulur, imbagħad parti mill-istampa. Stampa wkoll il-paġni.",
+    "players": "1 jew 2 persuni",
+    "intro": "Paġni b'forom kbar u sempliċi: fjura f'pot, dar, tazza tat-tè, farfalla u dgħajsa bil-vela. Agħfas kulur, imbagħad agħfas parti mill-istampa biex timlieha. M'hemm l-ebda kulur ħażin.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Agħżel paġna.",
+      "Agħfas kulur. Kull kulur għandu l-isem miktub fuqu.",
+      "Agħfas parti mill-istampa biex timlieha bil-kulur.",
+      "Ibdel fehmtek kull ħin billi timlieha mill-ġdid.",
+      "Agħfas “Stampa din il-paġna” għal paġna vojta biex tikkulura bil-lapes jew bil-markers."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Offri żewġ kuluri biex jagħżel minnhom, aktar milli s-sett kollu, jekk l-għażla tidher iebsa.",
+      "Siġar vjola u xemxijiet blu huma milqugħa. Dan huwa dwar it-tgawdija tal-kulur, mhux dwar il-preċiżjoni.",
+      "Il-paġni stampati jaħdmu tajjeb ma' markers ħoxnin jew krajons, li huma aktar faċli biex jinqabdu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm arloġġ jew punteġġ?",
+        "a": "Le. M'hemm l-ebda arloġġ, punteġġ, għadd ta' mossi jew telf. Tista' tieqaf fi kwalunkwe ħin, u li tieqaf f'nofs it-triq huwa wkoll mod tajjeb biex ttemm."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Dawn il-paġni huma tat-tfal wisq?",
+        "a": "Iddisinjajna oġġetti kalmi u sempliċi minflok karikaturi, għalhekk il-paġni huma xierqa għall-adulti. Forom kbar jagħmlu l-kulur faċli mingħajr ma jsir infantili."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u jeħtieġ li nirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm l-ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-web fuq it-telefon, it-tablet jew il-kompjuter."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kartolini tal-konverżazzjoni",
+    "seoTitle": "Bidu ta' Konverżazzjoni għad-Demenzja: Kartolini bl-Istampi",
+    "h1": "Kartolini tal-Konverżazzjoni",
+    "description": "Kartolini bl-istampi b'mistoqsijiet ġentili biex jibdew konverżazzjoni għal persuni li jgħixu bid-demenzja: m'hemm l-ebda eżami, m'hemm l-ebda tweġiba waħda tajba. Uża fuq l-iskrin jew stampa s-sett kollu.",
+    "short": "Kartolini bl-istampi b'mistoqsijiet miftuħa u ġentili. M'hemm l-ebda eżami.",
+    "players": "2 persuni jew grupp",
+    "intro": "Kull kartolin jaqbel stampa familjari ma' stedina miftuħa biex titkellem, bħal “X'inhu l-aħjar tip ta' temp għalik?” M'hemm l-ebda tweġiba tajba u ma jeħtieġx tiftakar xi ħaġa. Agħżel tema jew ħallat dawn kollha.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Agħżel tema, jew żomm “Il-kartolini kollha”.",
+      "Aqra l-mistoqsija b'leħen għoli u ħares lejn l-istampa flimkien.",
+      "Isma', aqsam it-tweġiba tiegħek, u ħalli l-kelma timxi fejn tmur.",
+      "Agħfas “Kartolin li jmiss” meta tkun lest, jew oqgħod ma' kartolin wieħed kemm trid.",
+      "Agħfas “Stampa l-kartolini kollha” biex taqta' sett tal-karta."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Wieġeb int ukoll il-mistoqsija. Iħossu bħal konverżazzjoni, mhux bħal intervista.",
+      "Segwi l-istorja, mhux il-fatti. Jekk id-dettalji jinbidlu, dan huwa tajjeb.",
+      "Jekk kartolin jilmes xi ħaġa tristi, agħraf is-sentiment u ibdel ġentilment għal kartolin ieħor."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Għala m'hemm l-ebda mistoqsijiet “Tiftakar…?”",
+        "a": "Mistoqsijiet li jittestjaw il-memorja jistgħu jħossuhom bħal eżami u jikkawżaw mbarazz. Stedini miftuħa bħal “Għidli dwar…” jippermettu lil kulħadd jieħu sehem, skont dak li jiftakar."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Nista' nistampa l-kartolini?",
+        "a": "Iva. “Stampa l-kartolini kollha” tistampa s-sett sħiħ b'kitba kbira, diversi kartolini f'paġna, lesti biex jinqatgħu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u jeħtieġ li nirreġistra?",
+        "a": "Iva, huwa b’xejn, u m’hemmx bżonn kont, reġistrazzjoni jew tniżżil. Jaħdem fil-brawżer tal-web fuq mowbajl, tablet jew kompjuter."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Pari ta’ ritratti",
+    "seoTitle": "Oħloq logħba ta’ tqabbil mir-ritratti tal-familja",
+    "h1": "Pari ta’ ritratti: qabbel ir-ritratti tiegħek stess",
+    "description": "Biddel ir-ritratti tal-familja tiegħek f’logħba kalma ta’ tqabbil. Agħżel bejn 2 u 6 ritratti mill-apparat tiegħek; dawn jibqgħu fil-brawżer tiegħek u qatt ma jittellgħu fuq l-internet.",
+    "short": "Agħżel ir-ritratti tiegħek stess u qabbilhom. Xejn ma jittella’ fuq l-internet.",
+    "players": "2 persuni, ħdejn xulxin",
+    "intro": "Agħżel bejn żewġ ritratti u sitta mill-mowbajl, tablet jew kompjuter tiegħek, u jinbidlu f’logħba ta’ tqabbil bi stampi kbar u ċari. Ir-ritratti jidhru biss ġewwa din il-paġna. La jittellgħu, la jiġu ssejvjati u lanqas jinqasmu ma’ ħadd, u jisparixxu malli tagħlaq il-paġna.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Agħfas \"Agħżel ir-ritratti\" u aqbad bejn żewġ ritratti u sitta.",
+      "Kull ritratt jidher darbtejn. Agħfas fuq wieħed, imbagħad agħfas fuq il-par tiegħu.",
+      "Tkellmu dwar kull ritratt hekk kif issibuh.",
+      "Meta tlestu, agħlaq il-paġna jew agħfas \"Ħassar ir-ritratti\". Xejn ma jinżamm."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Agħżel ritratti ċari ta’ affarijiet sbieħ u familjari: annimal tal-post, ġnien, post għall-qalb, jew jum ta’ tieġ.",
+      "Stampi ta’ postijiet u oġġetti jistgħu jkunu eħfef minn uċuħ, u jevitaw kwalunkwe pressjoni biex wieħed jiftakar ismijiet tan-nies.",
+      "Tinkludix ritratti ta’ persuni li m’għadhomx magħna jekk jistgħu jqanqlu dwejjaq għal għarrieda, sakemm ma tkunx taf fiċ-ċert li jġibu faraġ."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ir-ritratti tiegħi jittellgħu xi mkien?",
+        "a": "Le. Il-paġna taqra r-ritratti li tagħżel direttament fil-brawżer tiegħek u turihom fuq l-iskrin tiegħek. Ma jintbagħtu la lilna u lanqas lil ħaddieħor, u jitħassru malli tagħlaq jew terġa’ tgħabbi l-paġna."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hemm arloġġ jew punteġġ?",
+        "a": "Le. M’hemm l-ebda arloġġ, punteġġ, għadd ta’ mossi jew telf. Tista’ tieqaf f’kull ħin, u li tieqaf f’nofs il-logħba huwa mod tajjeb daqs li kieku lestejtha kollha."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Nista’ nissejvja l-logħba għal darba oħra?",
+        "a": "Mhux fil-brawżer, u dan b’għażla biex xejn privat ma jinżamm. L-app b’xejn ta’ Golden Moments għall-iPhone u l-iPad tista’ żżomm kopji tar-ritratti magħżula fuq l-apparat tiegħek."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo bl-istampi",
+    "seoTitle": "Bingo bl-istampi għall-anzjani li jgħixu bid-dimensja: tista’ tipprintjah",
+    "h1": "Bingo bl-istampi għall-gruppi",
+    "description": "Bingo bl-istampi b’xejn li tista’ tipprintja għal gruppi ta’ anzjani u djar tal-kura, b’sistema li turi l-istampi b’mod ċar fuq l-iskrin. Stampi kbar bil-kliem, 9 jew 16-il kaxxa, mingħajr ebda bżonn ta’ qari.",
+    "short": "Karti tal-bingo bl-istampi biex tipprintjahom u skrin kbir li juri l-istampi għall-gruppi.",
+    "players": "Grupp ta’ bejn 2 u 30 persuna",
+    "intro": "Bingo tradizzjonali bl-istampi minflok bin-numri, biex ħadd ma jkollu għalfejn jaqra kitba żgħira. Ipprintja sett ta’ karti differenti, imbagħad uża l-iskrin biex turi kull stampa kbira fuq televixin, laptop jew tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Agħżel 9 jew 16-il kaxxa f’kull karta u n-numru ta’ plejers.",
+      "Agħfas \"Ipprintja l-karti\". Kull karta tkun differenti.",
+      "Iftaħ il-paġna tal-istampi fuq skrin kbir. Agħfas \"L-istampa li jmiss\" biex turi kull stampa b’isimha.",
+      "Il-plejers jgħattu l-istampa li taqbel fuq il-karta tagħhom b’munita, buttuna jew marka.",
+      "Kull min jimla ringiela, jew il-karta kollha, jaqla’ ċapċipa. M’hemmx min jitlef f’din il-verżjoni: komplu ilgħabu sakemm kulħadd jagħmel linja."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Użaw oġġetti kbar bħal tappijiet tal-fliexken jew biċċiet tad-dammi. Buttuni żgħar jistgħu jkunu diffiċli biex jinġabru.",
+      "Semmu l-istampa u għidu xi ħaġa dwarha: \"Dgħajsa tal-qlugħ. Min minnkom qatt rikeb dgħajsa?\"",
+      "Qiegħdu lil dawk li jsibu diffikultà fil-vista l-aktar viċin tal-iskrin, u laqqgħu helpers ma’ dawk il-plejers li jkollhom bżonnhom.",
+      "Disa’ kaxxi huma biżżejjed għall-biċċa l-kbira tal-gruppi. Żommu l-ħin tal-attività madwar 20 sa 30 minuta."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kif nista’ norganizza bingo bl-istampi f’dar tal-anzjani?",
+        "a": "Ipprintja karta għal kull plejer, poġġi l-istampi fuq l-ikbar skrin li għandek, u sejjaħ l-istampi bil-mod, filwaqt li ssemmi kull waħda. Ilgħabu sakemm kulħadd ikollu linja, biex ħadd ma jibqa’ barra."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Huwa b’xejn biex tipprintjah?",
+        "a": "Iva. Ipprintja kemm għandek bżonn karti, kull meta trid, kemm għal użu personali kif ukoll għall-gruppi."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Jistgħu n-nies jilagħbu mingħajr ma jaqraw?",
+        "a": "Iva. Kull kaxxa fiha stampa kbira, bl-isem miktub taħtha għal dawk li jieħdu pjaċir jaraw il-kliem."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Nifs kalm",
+    "seoTitle": "Pawża ta’ nifs kalm għall-anzjani u dawk li jieħdu ħsiebhom",
+    "h1": "Pawża ta’ nifs kalm",
+    "description": "Pawża kwieta u bil-mod biex tieħdu n-nifs flimkien: ċirku ġentili jikber u jiċkien għal sitt darbiet. Tibdieh int, u tista’ twaqqfu f’kull ħin.",
+    "short": "Ċirku bil-mod biex tieħu n-nifs miegħu. Ibda u waqqaf meta trid.",
+    "players": "Persuna jew 2",
+    "intro": "Kultant l-aqwa attività tkun pawża kwieta. Agħfas \"Ibda\", imbagħad ħu nifs ’il ġewwa waqt li ċ-ċirku jikber u oħorġu hekk kif jiċkien. Agħżel pass aktar bil-mod jew aktar mgħaġġel. Dan mhuwiex kura, iżda sempliċement mument ta’ serħan x’taqsmu flimkien.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Poġġu bilqiegħda komdi ħdejn xulxin.",
+      "Agħżel pass: bil-mod jew ġentili.",
+      "Agħfas \"Ibda\". Ħu nifs ’il ġewwa waqt li ċ-ċirku jikber, u oħroġ in-nifs waqt li jiċkien.",
+      "Jieqaf waħdu wara sitt nifsijiet, jew agħfas \"Waqqaf\" meta trid."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Żommu idejn xulxin jew serraħ idek fuq driegħ il-persuna jekk tħoss li tieħu pjaċir b’hekk.",
+      "Qatt tinsisti. Jekk tippreferi toqgħod tħares biss, tajjeb ukoll.",
+      "Jekk xi ħadd għandu problemi biex jieħu n-nifs, ħudu n-nifs b’mod normali u sempliċement segwu ċ-ċirku. Kellem tabib dwar kwalunkwe tħassib marbut man-nifs."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Dan huwa eżerċizzju mediku tan-nifs?",
+        "a": "Le. Hija pawża sempliċi u fakultattiva għall-kalma u l-kumpanija. Mhijiex kura għall-ansjetà jew għal xi kundizzjoni oħra. Kellem tabib dwar kwalunkwe tħassib dwar is-saħħa."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Iċ-ċirku jiċċaqlaq mingħajr ma nibdieh jien?",
+        "a": "Le. Ma jiċċaqlaq xejn sakemm tagħfas \"Start\", u jieqaf wara sitt nifsijiet jew meta tagħfas \"Stop\". Jekk l-apparat tiegħek ikun impostat biex inaqqas il-moviment, il-kliem jinbidel mingħajr ma ċ-ċirku jikber."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hija b'xejn, u trid tirreġistra?",
+        "a": "Iva, hija b'xejn, u m'hemm l-ebda kont, reġistrazzjoni jew tniżżil. Taħdem fil-browser tal-internet fuq it-telefon, it-tablet jew il-kompjuter."
       }
     ]
   }

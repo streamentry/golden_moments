@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Les høgt",
+      "stopReading": "Stopp lesing",
+      "region": "Spel",
+      "restart": "Start på nytt",
+      "soundOn": "Dempa lydar på",
+      "soundOff": "Dempa lydar av",
+      "done": "Ferdig for no",
+      "feedbackQuestion": "Var dette til hjelp i dag?",
+      "feedbackYes": "Ja",
+      "feedbackNo": "Ikkje heilt",
+      "feedbackThanks": "Takk for at du seier ifrå."
+    },
+    "tile": {
+      "named": "{name}, brikke {n}",
+      "hidden": "Gøymt bilete, brikke {n}",
+      "withState": "{label}, {state}",
+      "matched": "Para saman",
+      "selected": "Vald",
+      "picture": "Bilete",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Alle para er samla. Spel igjen, eller ta ein pause.",
+      "photoPair": "Eit fotopar, samla.",
+      "picturePair": "To bilete av {name|lower}, samla.",
+      "selected": "{name}. Finn biletet som høyrer til.",
+      "mismatch": "Ta tida til hjelp. Trykk på eit bilete for å gå vidare.",
+      "mismatchNamed": "{a} og {b}. Ta tida til hjelp. Trykk på eit bilete for å gå vidare."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Trykk på eit bilete, og trykk så på det som er likt.",
+      "guidanceHidden": "Trykk på to brikker for å snu dei. Sjå etter to like.",
+      "restart": "Nye bilete",
+      "sizeLegend": "Kor mange brikker",
+      "size": {
+        "one": "{n} brikke",
+        "other": "{n} brikker"
+      },
+      "viewLegend": "Korleis spela",
+      "viewShowing": "Synlege bilete",
+      "viewHidden": "Gøymde bilete",
+      "playAgain": "Spel igjen med nye bilete",
+      "talk": "Prat saman om bileta"
+    },
+    "choose": {
+      "countLegend": "Kor mange bilete",
+      "count": "{n} å velja mellom",
+      "thatOne": "Det der er {name|lower}. Ta tida til hjelp."
+    },
+    "findTheSame": {
+      "guidance": "Sjå på biletet øvst. Trykk på det same biletet nedanfor.",
+      "yes": "Ja, same {name|lower}.",
+      "next": "Neste bilete"
+    },
+    "shadowMatch": {
+      "guidance": "Sjå på skuggen øvst. Trykk på biletet som høyrer til.",
+      "yes": "Ja, det er {name|lower} som lagar den skuggen.",
+      "next": "Neste skugge",
+      "shadowAlt": "Ein skugge å kjenna att",
+      "foundAlt": "Skuggen av {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Trykk på eit bilete, og trykk så på korga det høyrer heime i.",
+      "restart": "Nye bilete",
+      "themeLegend": "Tema",
+      "selected": "{name}. Trykk no på korga det skal i.",
+      "pickFirst": "Trykk fyrst på eit bilete, og trykk så på ei korg.",
+      "hint": "{name|lower} kan passa i «{basket}». Trykk på den korga for å leggja det der.",
+      "placed": "{name|lower} er lagt i «{basket}».",
+      "sorted": "Alt er sortert. Sjå gjennom korgene saman, eller prøv eit anna tema.",
+      "basket": {
+        "one": "Korg for {basket}, {count} bilete oppi",
+        "other": "Korg for {basket}, {count} bilete oppi"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Trykk på ei brikke, og trykk så på ei anna. Dei byter plass.",
+      "restart": "Bland brikkene på nytt",
+      "pictureLegend": "Bilete",
+      "pictures": {
+        "sailboat": "Seglbåt",
+        "house": "Hus",
+        "balloon": "Luftballong",
+        "sunflower": "Solsikke",
+        "lighthouse": "Fyrtårn",
+        "cat": "Katt"
+      },
+      "sizeLegend": "Brikker",
+      "size": {
+        "one": "{n} brikke",
+        "other": "{n} brikker"
+      },
+      "pickedUp": "Brikka er vald. Trykk der ho skal liggja.",
+      "whole": "{name|lower} er heilt att. Vel eit nytt bilete når du vil.",
+      "swapped": {
+        "one": "Bytt om. {correct} av {total} brikke er på rett plass.",
+        "other": "Bytt om. {correct} av {total} brikker er på rett plass."
+      },
+      "guideAlt": "Heile biletet: {name}",
+      "guideText": "Slik ser biletet ut når det er heilt.",
+      "piece": "Brikke {place}",
+      "pieceInPlace": ", på rett plass",
+      "piecePickedUp": ", vald",
+      "places4": [
+        "øvst til venstre",
+        "øvst til høgre",
+        "nedst til venstre",
+        "nedst til høgre"
+      ],
+      "places9": [
+        "øvst til venstre",
+        "øvst i midten",
+        "øvst til høgre",
+        "midt på til venstre",
+        "i midten",
+        "midt på til høgre",
+        "nedst til venstre",
+        "nedst i midten",
+        "nedst til høgre"
+      ],
+      "done": "Biletet er heilt att. Spel ein gong til, eller ta ein pause.",
+      "playAgain": "Bland brikkene på nytt"
+    },
+    "finishTheSaying": {
+      "guidance": "Les ordtaket saman, og trykk så på ordet som fullfører det.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ja, «{start} {end}.»",
+      "otherEnding": "«{word}» passar òg fint. Det vanlege ordtaket endar med «{end}».",
+      "revealed": "Ordtaket lyder «{start} {end}.»",
+      "choicesLabel": "Vel det siste ordet",
+      "show": "Vis slutten",
+      "talk": "Prat saman om dette: ",
+      "next": "Neste ordtak"
+    },
+    "wordSearch": {
+      "guidance": "Orda går vassrett eller loddrett. Trykk på den fyrste bokstaven i ordet, og så på den siste.",
+      "restart": "Nytt ordsøk",
+      "themeLegend": "Tema",
+      "sizeLegend": "Storleik på rutenettet",
+      "size": {
+        "one": "{n} gonger {n} ({words} ord)",
+        "other": "{n} gonger {n} ({words} ord)"
+      },
+      "print": "Skriv ut dette ordsøket",
+      "letterChosen": "Bokstaven {letter} er vald. Trykk no på den siste bokstaven i ordet.",
+      "found": "Fann {word}.",
+      "foundAll": "Fann {word}. No er alle orda funne. Spel igjen, eller ta ein pause.",
+      "tryAgain": "Ta tida til hjelp. Trykk på den fyrste bokstaven i eit ord, og så på den siste.",
+      "gridLabel": "Rutenett med bokstavar, {n} rader med {n} bokstavar. Bruk piltastane til å gå mellom bokstavane.",
+      "cell": "{letter}, rad {row}, kolonne {col}",
+      "cellFound": ", del av eit ord som er funne",
+      "wordsHeading": "Ord å finna",
+      "wordFound": " (funne)",
+      "sheetTitle": "Ordsøk: {theme}",
+      "sheetNote": "Orda går vassrett eller loddrett.",
+      "unavailable": "Eit rutenett med bokstavar høver ikkje for dette språket, så ordsøk er ikkje med her. Prøv biletspela i staden."
+    },
+    "coloring": {
+      "guidance": "Trykk på ein farge, og trykk så på ein del av biletet.",
+      "restart": "Fjern fargane",
+      "cleared": "Teikninga er kvit att.",
+      "pageLegend": "Side",
+      "print": "Skriv ut denne sida",
+      "colorsLabel": "Fargar",
+      "paintChosen": "Valde {paint}.",
+      "painted": "{part} er no {paint|lower}.",
+      "artLabel": "{page}, {count} felt å fargeleggja",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ikkje fargelagd",
+      "paints": {
+        "red": "Raud",
+        "orange": "Oransje",
+        "yellow": "Gul",
+        "green": "Grøn",
+        "blue": "Blå",
+        "purple": "Lilla",
+        "pink": "Rosa",
+        "brown": "Brun",
+        "sky-blue": "Himmelblå",
+        "cream": "Kremkvit",
+        "gray": "Grå",
+        "white": "Kvit"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Les kortet høgt saman. Det finst ingen rette eller gale svar.",
+      "position": "Kort {n} av {total}",
+      "themeLegend": "Tema",
+      "next": "Neste kort",
+      "previous": "Førre kort",
+      "print": "Skriv ut alle korta",
+      "sheetTitle": "Samtalskort"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Byrja med å velja bilete.",
+      "guidance": "Trykk på eit bilete, og trykk så på det som er likt.",
+      "restart": "Bland dei på nytt",
+      "intro": "**Vel 2 til 6 bilete** frå denne eininga. Dei vert berre viste på denne sida og vert aldri lasta opp eller lagra.",
+      "choose": "Vel bilete",
+      "chooseDifferent": "Vel andre bilete",
+      "clear": "Fjern bilete",
+      "cleared": "Bileta er fjerna frå denne sida.",
+      "atLeastTwo": "Ver venleg og vel minst to bilete.",
+      "usingFirst": "Brukar dei fyrste {max} bileta.",
+      "skipped": {
+        "one": "{count} fil var ikkje eit foto me kan visa.",
+        "other": "{count} filer var ikkje foto me kan visa."
+      },
+      "playAgain": "Spel igjen med desse bileta",
+      "empty": "Bileta dine kjem opp her, kvart av dei to gonger."
+    },
+    "pictureBingo": {
+      "guidance": "Skriv ut korta fyrst. Vis så denne opplesaren på den største skjermen de har.",
+      "called": {
+        "one": "{name}. {called} av {total} bilete er ropa opp.",
+        "other": "{name}. {called} av {total} bilete er ropa opp."
+      },
+      "start": "Trykk på «Neste bilete» for å ropa opp det fyrste biletet.",
+      "restart": "Start eit nytt spel",
+      "squaresLegend": "Ruter på kvart kort",
+      "squares": "{n} ruter ({side} gonger {side})",
+      "cardsLegend": "Kor mange kort som skal skrivast ut",
+      "cards": {
+        "one": "{n} kort",
+        "other": "{n} kort"
+      },
+      "print": {
+        "one": "Skriv ut {n} bingokort",
+        "other": "Skriv ut {n} bingokort"
+      },
+      "ready": "Klart når de er klare",
+      "next": "Neste bilete",
+      "allCalled": "Alle bileta er ropa opp",
+      "alreadyCalled": "Allereie ropa opp",
+      "sheetTitle": "Biletbingo · kort {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Pust inn medan sirkelen veks, og pust ut når ho blir mindre. Øvinga stoppar av seg sjølv etter seks pust.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Roleg (5 sekund kvar veg)",
+      "paceGentle": "Mjuk (4 sekund kvar veg)",
+      "ready": "Klar når du er.",
+      "in": "Pust inn",
+      "hold": "Kvil",
+      "out": "Pust ut",
+      "start": "Start",
+      "stop": "Stopp",
+      "started": "I gang. Pust inn medan sirkelen veks.",
+      "stopped": "Stoppa.",
+      "finished": "Det var seks roleg pust. Start på nytt når du vil."
+    }
+  },
+  "pictures": {
+    "teacup": "Tekopp",
+    "kettle": "Kjele",
+    "bread": "Brød",
+    "frying-pan": "Steikepanne med egg",
+    "cake": "Bursdagskake",
+    "sunflower": "Solsikke",
+    "tulip": "Raud tulipan",
+    "watering-can": "Vatningskanne",
+    "potted-plant": "Potteplante",
+    "tree": "Tre",
+    "bird": "Rødstrupe på ei grein",
+    "butterfly": "Sommarfugl",
+    "dog": "Hund",
+    "cat": "Katt",
+    "fish": "Gullfisk",
+    "apple": "Eple",
+    "pear": "Pære",
+    "strawberry": "Jordbær",
+    "banana": "Banan",
+    "lemon": "Sitron",
+    "cherries": "Kirsebær",
+    "house": "Hus",
+    "lamp": "Bordlampe",
+    "armchair": "Lenestol",
+    "key": "Nøkkel",
+    "umbrella": "Paraply",
+    "sailboat": "Seglbåt",
+    "car": "Veteranbil",
+    "bicycle": "Sykkel",
+    "balloon": "Varmluftballong",
+    "lighthouse": "Fyrtårn",
+    "sun": "Sol",
+    "moon": "Måne og stjerner",
+    "teapot": "Tekanne",
+    "apple-pie": "Eplepai",
+    "honey-jar": "Honningglas",
+    "boiled-egg": "Egg i eggeglas",
+    "toaster": "Brødrister",
+    "cheese": "Ostebit",
+    "milk-jug": "Mjølkekanne",
+    "cupcake": "Cupcake",
+    "orange": "Appelsin",
+    "grapes": "Drueklase",
+    "watermelon": "Vassmelonskive",
+    "pineapple": "Ananas",
+    "peach": "Fersken",
+    "rose": "Rose",
+    "daisies": "Tusenfryd",
+    "mushroom": "Sopp",
+    "wheelbarrow": "Trillebår",
+    "birdhouse": "Fuglekasse",
+    "cactus": "Kaktus i potte",
+    "acorn": "Eikenøtt",
+    "autumn-leaf": "Haustblad",
+    "rabbit": "Kanin",
+    "duck": "And",
+    "hen": "Høne",
+    "sheep": "Sau",
+    "owl": "Ugle",
+    "ladybird": "Marihøne",
+    "snail": "Snegl",
+    "frog": "Frosk",
+    "bee": "Bie",
+    "clock": "Peisklokke",
+    "vase-of-flowers": "Blomevase",
+    "radio": "Gammal radio",
+    "books": "Bunke med bøker",
+    "candle": "Lys",
+    "glasses": "Lesebriller",
+    "telephone": "Telefon",
+    "ball-of-wool": "Ullnøste",
+    "straw-hat": "Solhatt",
+    "train": "Damptog",
+    "bus": "Buss",
+    "airplane": "Fly",
+    "suitcase": "Koffert",
+    "tractor": "Traktor",
+    "rowing-boat": "Robåt",
+    "rainbow": "Regnbogen",
+    "rain-cloud": "Regnsky",
+    "snowflake": "Snøfnugg",
+    "kite": "Drake",
+    "sunrise": "Soloppgang over haugane"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGHKLMNOPRSTUVÆØÅ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frukt",
+          "words": [
+            "EPLE",
+            "PÆRE",
+            "PLOMME",
+            "SITRON",
+            "DRUE",
+            "BANAN",
+            "MELON",
+            "MANGO",
+            "FIKEN"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Hage",
+          "words": [
+            "ROSE",
+            "BLOM",
+            "FRØ",
+            "JORD",
+            "BLAD",
+            "TRE",
+            "TJERN",
+            "SPADE",
+            "GRES"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kjøkken",
+          "words": [
+            "KOPP",
+            "SKJE",
+            "BRØD",
+            "PANNE",
+            "SKÅL",
+            "FAT",
+            "OVN",
+            "GAFFEL",
+            "KNIV"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Vêr",
+          "words": [
+            "SOL",
+            "REGN",
+            "SNØ",
+            "VIND",
+            "SKY",
+            "STORM",
+            "TÅKE",
+            "FROST",
+            "VARME"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Dyr",
+          "words": [
+            "HUND",
+            "KATT",
+            "FUGL",
+            "FISK",
+            "HEST",
+            "GEIT",
+            "AND",
+            "HØNE",
+            "GRIS"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Heim",
+          "words": [
+            "DØR",
+            "STOL",
+            "LAMPE",
+            "SENG",
+            "TEPPE",
+            "SOFA",
+            "KLOKKE",
+            "PULT",
+            "NØKKEL"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Alle kort",
+        "food": "Mat",
+        "home": "Heim",
+        "outdoors": "Ute",
+        "animals": "Dyr",
+        "travel": "Reiser",
+        "work": "Arbeid og hobbyar",
+        "music": "Musikk og moro",
+        "seasons": "Årstider"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kva lukt frå eit kjøkken liker du best?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kva slags kake ville du valt til ei feiring?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Fortel meg om ein fruktpai eller dessert du likar godt."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Korleis likar du teen eller kaffien din?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Kva gjer ein frukost skikkeleg god?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Har du nokon gong plukka frukt rett frå planten?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Søtt eller surt: kva liker du best?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kva mat smakar sommar for deg?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Fortel meg om eit hus du likte å bu i."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Kvar sit du helst og kviler deg?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Kva likar du å gjere ein stille kveld?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kva er ein skatt du ville lagt i ein spesiell kasse?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kven ville du invitert på ein kopp te?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Kva likar du å gjere på ein regnfull dag?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kva blomar ville du plante i ein hage?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Fortel meg om eit tre eller ein park du likar."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kva er det beste med å vere i hagen?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kva fargar på blomar likar du best?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Likar du å ha planter i huset?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kva er den perfekte solskinsdagen for deg?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Fortel meg om ein hund du har kjent."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katter eller hundar, eller ingen av delane? Kva likar du med dei?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kva fuglar ser eller høyrer du ute?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Har du nokon gong fiska, eller hatt eit akvarium?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kva er det vakraste dyret du har sett?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Fortel meg om ein bil du likte."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ville du heller brukt ein dag på stranda eller i fjella?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kvar ville du helst sykla hen?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Viss du kunne flyge over kva stad som helst, kvar ville det vore?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Kva tur har du likt godt?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kva slags arbeid har du likt å gjere?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Kva slags hobby kunne du brukt timar på?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Kva var du kjend for å lage eller reparere?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Kva råd ville du gitt ein ung person som nettopp har byrja i arbeid?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kva slags musikk får deg til å ville takte med føtene?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kva gjer eit skikkeleg bra selskap?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kven er ein sangar du likar å høyre på?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kva er ein favorittfilm eller TV-serie du likar å sjå om att?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kva likar du mest med sommaren?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kva likar du med hausten?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Kva er ein koseleg ting å gjere ein vinterkveld?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kva er dei første teikna på våren for deg?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Snø, regn eller solskin: kva føretrekk du?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Blom i potte",
+          "regions": {
+            "sky": "Bakgrunn",
+            "table": "Bord",
+            "stem": "Stilk",
+            "leaf-left": "Venstre blad",
+            "leaf-right": "Høgre blad",
+            "petal-1": "Kronblad 1",
+            "petal-2": "Kronblad 2",
+            "petal-3": "Kronblad 3",
+            "petal-4": "Kronblad 4",
+            "petal-5": "Kronblad 5",
+            "petal-6": "Kronblad 6",
+            "petal-7": "Kronblad 7",
+            "petal-8": "Kronblad 8",
+            "center": "Midten av blomen",
+            "pot": "Potte",
+            "pot-rim": "Kanten på potta"
+          }
+        },
+        "house": {
+          "name": "Hus",
+          "regions": {
+            "sky": "Himmel",
+            "sun": "Sol",
+            "grass": "Gras",
+            "chimney": "Skorstein",
+            "walls": "Veggar",
+            "roof": "Tak",
+            "door": "Dør",
+            "window-left": "Venstre vindauge",
+            "window-right": "Høgre vindauge",
+            "path": "Gangsti"
+          }
+        },
+        "teacup": {
+          "name": "Tekopp",
+          "regions": {
+            "background": "Bakgrunn",
+            "saucer": "Fat",
+            "handle": "Hank",
+            "cup": "Kopp",
+            "band": "Stripe på koppen",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Sommarfugl",
+          "regions": {
+            "background": "Bakgrunn",
+            "wing-top-left": "Venstre øvre vengje",
+            "wing-top-right": "Høgre øvre vengje",
+            "wing-bottom-left": "Venstre nedre vengje",
+            "wing-bottom-right": "Høgre nedre vengje",
+            "spot-left": "Flekk på venstre vengje",
+            "spot-right": "Flekk på høgre vengje",
+            "body": "Kropp"
+          }
+        },
+        "sailboat": {
+          "name": "Seglbåt",
+          "regions": {
+            "sky": "Himmel",
+            "sea": "Havet",
+            "sail-big": "Storseglet",
+            "sail-small": "Lite segl",
+            "mast": "Mast",
+            "hull": "Båten",
+            "flag": "Flagg"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kjøkken og hage",
+          "baskets": [
+            "På kjøkkenet",
+            "I hagen"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frukt og dyr",
+          "baskets": [
+            "Frukt",
+            "Dyr"
+          ]
+        },
+        "home-travel": {
+          "label": "Heim og reise",
+          "baskets": [
+            "Heime",
+            "Ute på tur"
+          ]
+        }
+      }
+    }
+  }
+}

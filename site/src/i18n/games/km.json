@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "ផ្គូផ្គងរូបភាព",
+    "seoTitle": "ល្បែងផ្គូផ្គងសម្រាប់អ្នកមានបញ្ហាភ្លេចភ្លាំង៖ ផ្គូផ្គងរូបភាព",
+    "h1": "ផ្គូផ្គងរូបភាព៖ ល្បែងផ្គូផ្គងដ៏ស្រាលស្រទន់",
+    "description": "ល្បែងផ្គូផ្គងដ៏ស្រាលស្រទន់និងឥតគិតថ្លៃ សម្រាប់អ្នកដែលមានបញ្ហាភ្លេចភ្លាំង។ រូបភាពធំៗនៅតែបង្ហាញឱ្យឃើញជានិច្ច គ្មានការកំណត់ម៉ោង ឬដាក់ពិន្ទុឡើយ ហើយអ្នកអាចជ្រើសរើសផ្ទាំងរូបភាពពី 4 ដល់ 12 សន្លឹក។",
+    "short": "ស្វែងរករូបភាពពីរដែលដូចគ្នា។ រូបភាពអាចបន្តបង្ហាញឱ្យឃើញជានិច្ច។",
+    "players": "1 ឬ 2 នាក់ អង្គុយក្បែរគ្នា",
+    "intro": "ចុចលើរូបភាពមួយ បន្ទាប់មកចុចលើរូបភាពមួយទៀតដែលដូចគ្នា។ តាមការកំណត់ដើម រូបភាពនៅតែបង្ហាញឱ្យឃើញជានិច្ច ដូច្នេះមិនចាំបាច់ត្រូវចងចាំអ្វីទាំងអស់។ នៅពេលរូបភាពពីរត្រូវគ្នា វានឹងមានស៊ុមពណ៌មាស និងសញ្ញាធីក។",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "ជ្រើសរើសចំនួនផ្ទាំងរូបភាពដែលត្រូវលេង។ ផ្ទាំងរូបភាពចំនួន 4 គឺជាការចាប់ផ្តើមដ៏ស្រួលនិងស្ងប់ចិត្ត។",
+      "ចុចលើរូបភាពណាមួយ។ រូបភាពនោះនឹងមានស៊ុមពណ៌មាស។",
+      "ចុចលើរូបភាពដែលមានទម្រង់ដូចគ្នា។ រូបភាពទាំងពីរនឹងនៅជាប់គ្នាជាមួយសញ្ញាធីក។",
+      "ប្រសិនបើរូបភាពទាំងពីរខុសគ្នា គឺគ្មានបញ្ហាអ្វីឡើយ។ អ្នកអាចចុចម្តងទៀតនៅពេលណាដែលអ្នករួចរាល់។",
+      "បើក «Hidden pictures» លុះត្រាតែអ្នកទាំងពីរចូលចិត្តទម្រង់ផ្កាប់មុខបែបបុរាណប៉ុណ្ណោះ។"
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "ហៅឈ្មោះរូបភាពឮៗជាមួយគ្នា ហើយជជែកលេងអំពីរូបភាពទាំងនោះ៖ «ពែងតែពណ៌ក្រហម។ តើអ្នកចូលចិត្តដាក់ទឹកដោះគោក្នុងតែដែរទេ?»",
+      "ទុកឱ្យមនុស្សជាទីស្រឡាញ់ដែលអ្នកមើលថែជាអ្នកចុច ទោះបីជាត្រូវចំណាយពេលបន្តិចក៏ដោយ។ គ្រាន់តែចង្អុលបង្ហាញ ប្រសើរជាងចុចជំនួសគាត់។",
+      "បន្តលេងត្រឹម 4 ផ្ទាំងរូបភាព ដរាបណាមានអារម្មណ៍ថាល្អនិងសមស្រប។ ការបន្ថែមផ្ទាំងរូបភាពគឺជាជម្រើស មិនមែនជាកម្រិតដែលត្រូវតែឈានទៅដល់នោះទេ។",
+      "បញ្ចប់ការលេងនៅពេលដែលកំពុងមានភាពរីករាយ។ ការលេងត្រឹមមួយចប់ គឺជាសកម្មភាពដ៏ពេញលេញមួយហើយ។"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ម៉ោង ឬដាក់ពិន្ទុដែរឬទេ?",
+        "a": "គ្មានទេ។ មិនមានការកំណត់ម៉ោង គ្មានពិន្ទុ គ្មានការរាប់ចំនួនដងនៃការចុច ហើយក៏គ្មានការចាញ់នោះដែរ។ អ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្តាលទី ក៏ជាការបញ្ចប់ដ៏ល្អមួយដែរ។"
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "ហេតុអ្វីបានជារូបភាពនៅតែផ្ងារបង្ហាញជានិច្ច?",
+        "a": "ការបើកបង្ហាញរូបភាពឱ្យឃើញ ជួយបង្វែរល្បែងនេះទៅជាការសម្លឹងមើលនិងការផ្គូផ្គង ជាជាងការទាមទារឱ្យចងចាំ។ មនុស្សជាច្រើនយល់ឃើញថា របៀបនេះជួយឱ្យមានអារម្មណ៍ស្ងប់ល្អជាង។ អ្នកក៏អាចប្តូរទៅជារូបភាពលាក់បានយ៉ាងងាយ ដោយគ្រាន់តែចុចមួយដង ប្រសិនបើអ្នកចង់។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើល្បែងនេះឥតគិតថ្លៃដែរឬទេ ហើយតើខ្ញុំត្រូវចុះឈ្មោះដែរទេ?",
+        "a": "បាទ/ចាស ល្បែងនេះគឺឥតគិតថ្លៃ ហើយមិនទាមទារឱ្យមានគណនី ចុះឈ្មោះ ឬទាញយកឡើយ។ ល្បែងនេះដំណើរការនៅលើកម្មវិធីរុករកគេហទំព័រ ទាំងលើទូរស័ព្ទ ថេប្លេត ឬកុំព្យូទ័រ។"
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "តើយើងអាចយករូបថតគ្រួសារផ្ទាល់ខ្លួនមកលេងបានទេ?",
+        "a": "បាន។ សូមសាកល្បងលេង Photo pairs ដែលអនុញ្ញាតឱ្យអ្នកជ្រើសរើសរូបថតពីឧបករណ៍របស់អ្នក។ រូបថតទាំងនោះរក្សាទុកក្នុងកម្មវិធីរុករករបស់អ្នកប៉ុណ្ណោះ ហើយមិនត្រូវបានបង្ហោះទៅទីណាឡើយ។"
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "ស្វែងរករូបភាពដូចគ្នា",
+    "seoTitle": "ស្វែងរករូបភាពដូចគ្នា៖ ល្បែងដ៏សាមញ្ញសម្រាប់អ្នកមានបញ្ហាភ្លេចភ្លាំង",
+    "h1": "ស្វែងរករូបភាពដូចគ្នា",
+    "description": "រូបភាពមួយនៅខាងលើ និងពីរទៅបួនសន្លឹកនៅខាងក្រោម។ ចុចលើរូបភាពដែលដូចគ្នា។ ជាល្បែងរូបភាពដ៏ស្ងប់ស្ងាត់និងឥតគិតថ្លៃ សម្រាប់អ្នកដែលមានបញ្ហាភ្លេចភ្លាំង ដោយគ្មានការកំណត់ម៉ោងឡើយ។",
+    "short": "សម្លឹងមើលរូបភាពនៅខាងលើ ហើយចុចលើរូបភាពដែលដូចគ្នានៅខាងក្រោម។",
+    "players": "1 ឬ 2 នាក់",
+    "intro": "រូបភាពមួយសន្លឹកស្ថិតនៅផ្នែកខាងលើនៃអេក្រង់។ នៅខាងក្រោមមានរូបភាពពីរ បី ឬបួនសន្លឹក។ ចុចលើរូបភាពណាដែលដូចគ្នា។ នេះជាជម្រើសដ៏សាមញ្ញម្តងមួយៗ ដែលផ្តល់ឱកាសយ៉ាងច្រើនសម្រាប់ជជែកគ្នាលេង។",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "ជ្រើសរើសរូបភាពចំនួនពីរ បី ឬបួនសន្លឹកសម្រាប់ជ្រើសរើស។ ពីរគឺសាមញ្ញបំផុត។",
+      "សម្លឹងមើលរូបភាពនៅខាងលើជាមួយគ្នា។",
+      "ចុចលើរូបភាពដែលដូចគ្នានៅខាងក្រោម។ រូបភាពនោះនឹងមានសញ្ញាធីក រួមជាមួយពាក្យលើកទឹកចិត្តដ៏កក់ក្តៅពីរបីម៉ាត់។",
+      "ប្រសិនបើចុចលើរូបភាពខុសគ្នា ល្បែងនឹងគ្រាន់តែបង្ហាញឈ្មោះរូបភាពនោះ ហើយរង់ចាំ។ មិនបាច់ប្រញាប់ឡើយ។",
+      "ចុច «Next picture» នៅពេលអ្នករួចរាល់សម្រាប់រូបភាពថ្មីមួយទៀត។"
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "ជជែកអំពីរូបភាពនីមួយៗមុនពេលជ្រើសរើស៖ ពណ៌ រូបរាង ឬកន្លែងដែលអ្នកធ្លាប់បានឃើញវា។",
+      "ជម្រើសពីរមិនមែន «ងាយស្រួលពេក» នោះទេ។ គោលបំណងគឺដើម្បីបង្កើតពេលវេលាដ៏រីករាយ មិនមែនជាការប្រកួតប្រជែងឡើយ។",
+      "ប្រសិនបើការចុចមានការពិបាក មនុស្សជាទីស្រឡាញ់របស់អ្នកអាចគ្រាន់តែចង្អុល ហើយអ្នកអាចចុចជំនួសគាត់បាន។"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ម៉ោង ឬដាក់ពិន្ទុដែរឬទេ?",
+        "a": "គ្មានទេ។ មិនមានការកំណត់ម៉ោង គ្មានពិន្ទុ គ្មានការរាប់ចំនួនដងនៃការចុច ហើយក៏គ្មានការចាញ់នោះដែរ។ អ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្តាលទី ក៏ជាការបញ្ចប់ដ៏ល្អមួយដែរ។"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "តើមានអ្វីកើតឡើង ប្រសិនបើចុចលើរូបភាពដែលមិនត្រូវគ្នា?",
+        "a": "គ្មានអ្វីដែលមិនគាប់ចិត្តកើតឡើងឡើយ។ មិនមានសំឡេងរោទិ៍រំខាន គ្មានសញ្ញាខ្វែងក្រហម ឬការញ័រអេក្រង់ឡើយ។ ល្បែងនឹងគ្រាន់តែប្រាប់ឈ្មោះរូបភាពដែលបានចុចនោះ ហើយរង់ចាំការចុចបន្ទាប់។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើល្បែងនេះឥតគិតថ្លៃដែរឬទេ ហើយតើខ្ញុំត្រូវចុះឈ្មោះដែរទេ?",
+        "a": "បាទ/ចាស ល្បែងនេះគឺឥតគិតថ្លៃ ហើយមិនទាមទារឱ្យមានគណនី ចុះឈ្មោះ ឬទាញយកឡើយ។ ល្បែងនេះដំណើរការនៅលើកម្មវិធីរុករកគេហទំព័រ ទាំងលើទូរស័ព្ទ ថេប្លេត ឬកុំព្យូទ័រ។"
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "ផ្គូផ្គងស្រមោល",
+    "seoTitle": "ល្បែងផ្គូផ្គងស្រមោលសម្រាប់អ្នកមានបញ្ហាភ្លេចភ្លាំង៖ លេងលើអ៊ីនធឺណិតឥតគិតថ្លៃ",
+    "h1": "ផ្គូផ្គងស្រមោល៖ ល្បែងរូបភាពដ៏ស្រាលស្រទន់",
+    "description": "ស្រមោលពណ៌ខ្មៅមួយនៅខាងលើ និងរូបភាពពីរទៅបួនសន្លឹកនៅខាងក្រោម។ ចុចលើរូបភាពដែលត្រូវគ្នានឹងស្រមោលនោះ។ ជាល្បែងផ្គូផ្គងស្រមោលដ៏ស្ងប់ស្ងាត់និងឥតគិតថ្លៃ សម្រាប់អ្នកមានបញ្ហាភ្លេចភ្លាំង ដោយគ្មានការកំណត់ម៉ោងឡើយ។",
+    "short": "សម្លឹងមើលស្រមោល ហើយចុចលើរូបភាពដែលត្រូវគ្នានឹងស្រមោលនោះ។",
+    "players": "1 ឬ 2 នាក់",
+    "intro": "ការផ្គូផ្គងស្រមោលគឺជាសកម្មភាពដ៏ស៊ាំធ្លាប់ពីសន្លឹកកិច្ចការក្រដាស ប៉ុន្តែនៅទីនេះគឺមានរូបភាពធំៗ ហើយមិនចាំបាច់បោះពុម្ពឡើយ។ ស្រមោលដ៏ស្រទន់មួយស្ថិតនៅផ្នែកខាងលើនៃអេក្រង់ ហើយមានរូបភាពពីរ បី ឬបួនសន្លឹកនៅខាងក្រោម។ ចុចលើរូបភាពដែលត្រូវគ្នានឹងស្រមោលនោះ។ រូបរាងដូចជា កង់ ឆ័ត្រ ឬពែងតែ ក៏ងាយស្រួលក្នុងការជជែកគ្នាលេងផងដែរ។",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "ជ្រើសរើសរូបភាពចំនួនពីរ បី ឬបួនសន្លឹកសម្រាប់ជ្រើសរើស។ ពីរគឺសាមញ្ញបំផុត។",
+      "សម្លឹងមើលស្រមោលជាមួយគ្នា។ តើវាជារូបរាងអ្វី? តើវាខ្ពស់ ឬមូល?",
+      "ចុចលើរូបភាពដែលត្រូវគ្នានឹងស្រមោលនោះ។ ឈ្មោះរបស់វានឹងបង្ហាញនៅខាងក្រោមស្រមោល។",
+      "ប្រសិនបើចុចលើរូបភាពខុសគ្នា ល្បែងនឹងគ្រាន់តែបង្ហាញឈ្មោះរូបភាពនោះ ហើយរង់ចាំ។ មិនបាច់ប្រញាប់ឡើយ។",
+      "ចុច «Next shadow» នៅពេលអ្នករួចរាល់សម្រាប់រូបភាពថ្មីមួយទៀត។"
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "យកម្រាមដៃគូសតាមទ្រង់ទ្រាយស្រមោល ហើយជជែកលេងអំពីរូបរាងនោះ។",
+      "ប្រសិនបើថ្ងៃនេះការផ្គូផ្គងស្រមោលមានអារម្មណ៍ថាពិបាក សូមប្តូរទៅលេង «ស្វែងរករូបភាពដូចគ្នា» ដែលរូបភាពមើលទៅដូចគ្នាទាំងស្រុង។",
+      "ជជែកអំពីរូបភាពនោះនៅពេលដែលរកឃើញហើយ៖ «កាលពីមុន យើងធ្លាប់មានឆ័ត្របែបនេះមួយដែរ។»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ម៉ោង ឬដាក់ពិន្ទុដែរឬទេ?",
+        "a": "គ្មានទេ។ មិនមានការកំណត់ម៉ោង គ្មានពិន្ទុ គ្មានការរាប់ចំនួនដងនៃការចុច ហើយក៏គ្មានការចាញ់នោះដែរ។ អ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្តាលទី ក៏ជាការបញ្ចប់ដ៏ល្អមួយដែរ។"
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "តើល្បែងផ្គូផ្គងស្រមោលល្អសម្រាប់អ្នកដែលមានបញ្ហាភ្លេចភ្លាំងដែរឬទេ?",
+        "a": "វាអាចជាសកម្មភាពដ៏សាមញ្ញ និងរីករាយមួយសម្រាប់មនុស្សមួយចំនួន ជាពិសេសនៅក្នុងដំណាក់កាលដំបូងៗ។ រូបរាងគឺងាយស្រួលចំណាំជាងពាក្យសម្ដី។ ល្បែងនេះគឺសម្រាប់កម្សាន្ត និងជជែកគ្នាលេងប៉ុណ្ណោះ មិនមែនជាការធ្វើតេស្តនោះទេ ហើយវាក៏មិនជួយព្យាបាល ឬពន្យឺតជំងឺភ្លេចភ្លាំងឡើយ។ ប្រសិនបើវាធ្វើឱ្យមានការធុញថប់ សូមសាកល្បងលេង «ស្វែងរករូបដូចគ្នា» ឬគ្រាន់តែមើលរូបភាពជាមួយគ្នាក៏បាន។"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "តើមានអ្វីកើតឡើង ប្រសិនបើចុចលើរូបភាពខុស?",
+        "a": "គ្មានអ្វីដែលធ្វើឱ្យមិនសប្បាយចិត្តនោះទេ។ មិនមានសំឡេងរោទ៍ សញ្ញាខ្វែងក្រហម ឬការញ័រអ្វីឡើយ។ ល្បែងនឹងប្រាប់ឈ្មោះរូបភាពដែលបានចុច រួចរង់ចាំការចុចបន្ទាប់ទៀត។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើល្បែងនេះឥតគិតថ្លៃដែរឬទេ ហើយខ្ញុំចាំបាច់ត្រូវចុះឈ្មោះដែរឬទេ?",
+        "a": "បាទ/ចាស ល្បែងនេះគឺឥតគិតថ្លៃ ហើយមិនចាំបាច់មានគណនី ចុះឈ្មោះ ឬទាញយកអ្វីឡើយ។ លោកអ្នកអាចលេងបានតាមរយៈកម្មវិធីរុករកវិបសាយនៅលើទូរស័ព្ទ ថេប្លេត ឬកុំព្យូទ័រ។"
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "រៀបចំជាមួយគ្នា",
+    "seoTitle": "ល្បែងបែងចែករបស់របរសម្រាប់អ្នកមានបញ្ហាភ្លេចភ្លាំង៖ រៀបចំជាមួយគ្នា",
+    "h1": "រៀបចំជាមួយគ្នា៖ សកម្មភាពបែងចែករូបភាព",
+    "description": "ចុចលើរូបភាព រួចចុចលើកន្ត្រកដែលត្រូវដាក់៖ ផ្ទះបាយ ឬសួនច្បារ ផ្លែឈើ ឬសត្វ។ ជាសកម្មភាពបែងចែករូបភាពដ៏ស្ងប់ស្ងាត់ និងឥតគិតថ្លៃ សម្រាប់អ្នកដែលមានបញ្ហាភ្លេចភ្លាំង។",
+    "short": "ដាក់រូបភាពនីមួយៗចូលទៅក្នុងកន្ត្រកដែលត្រូវគ្នា៖ ផ្ទះបាយ ឬសួនច្បារ និងផ្សេងៗទៀត។",
+    "players": "1 ឬ 2 នាក់",
+    "intro": "ការរៀបចំទុកដាក់ គឺជាការងារប្រចាំថ្ងៃដ៏ស៊ាំធ្លាប់ និងផ្ដល់នូវភាពកក់ក្តៅ ដូចជាការទុកដាក់អីវ៉ាន់ទិញពីផ្សារ ឬការផ្គូផ្គងស្រោមជើង។ ចុចលើរូបភាព រួចចុចលើកន្ត្រកដែលត្រូវដាក់។ មិនចាំបាច់ប្រញាប់ប្រញាល់ ហើយក៏គ្មានការលេងខុសអ្វីឡើយ។",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "ជ្រើសរើសប្រធានបទមួយ៖ ផ្ទះបាយ និងសួនច្បារ, ផ្លែឈើ និងសត្វ, ឬគេហដ្ឋាន និងការធ្វើដំណើរ។",
+      "ចុចលើរូបភាពមួយ។ រូបនោះនឹងបង្ហាញស៊ុមពណ៌មាស។",
+      "ចុចលើកន្ត្រកដែលត្រូវដាក់។ រូបភាពនឹងរំកិលចូលទៅក្នុងកន្ត្រកនោះ។",
+      "ប្រសិនបើរូបនោះត្រូវដាក់ក្នុងកន្ត្រកមួយទៀត ល្បែងនឹងប្រាប់យ៉ាងទន់ភ្លន់ ហើយរង់ចាំ។",
+      "នៅពេលរៀបចំរូបភាពទាំងអស់រួចរាល់ហើយ សូមមើលរបស់របរនៅក្នុងកន្ត្រកទាំងអស់ជាមួយគ្នា។"
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "នៅក្នុងជីវិតជាក់ស្តែង ជារឿយៗមិនមានចម្លើយណាដែលខុសនោះឡើយ។ ប្រសិនបើគាត់និយាយថា ប៉ោតស្រោចទឹកគួរតែនៅក្នុងផ្ទះបាយ សូមសួរគាត់ពីមូលហេតុ។ លោកអ្នកប្រហែលជានឹងទទួលបានរឿងរ៉ាវល្អៗជាច្រើន។",
+      "ប្រើប្រាស់រូបភាពទាំងនេះដើម្បីជាប្រធានបទសន្ទនា ដូចជា៖ «តើពីមុនលោកអ្នកធ្លាប់ដាំអ្វីខ្លះនៅក្នុងសួន?»",
+      "ការរៀបចំវត្ថុពិតៗ ដូចជាស្លាបព្រានិងសម ឬឡេវអាវតាមពណ៌ គឺជាសកម្មភាពបន្ទាប់ដ៏ល្អមួយដោយមិនបាច់ប្រើអេក្រង់។"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ពេល ឬការរាប់ពិន្ទុដែរឬទេ?",
+        "a": "ទេ មិនមានការកំណត់ម៉ោង ពិន្ទុ ការរាប់ចំនួនដង ឬការចាញ់ឈ្នះអ្វីឡើយ។ លោកអ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្តាលផ្លូវក៏ជារឿងល្អធម្មតាដែរ។"
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "ហេតុអ្វីបានជាជ្រើសរើសការរៀបចំទុកដាក់?",
+        "a": "មនុស្សជាច្រើនចូលចិត្តការរៀបចំទុកដាក់ ពីព្រោះវាផ្ដល់អារម្មណ៍ដូចជាការងារដ៏មានប្រយោជន៍ និងស៊ាំធ្លាប់។ ម៉្យាងទៀត វាក៏ងាយស្រួលក្នុងការជជែកគ្នាអំពីរូបភាពទាំងនោះនៅពេលកំពុងលេងផងដែរ។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើល្បែងនេះឥតគិតថ្លៃដែរឬទេ ហើយខ្ញុំចាំបាច់ត្រូវចុះឈ្មោះដែរឬទេ?",
+        "a": "បាទ/ចាស ល្បែងនេះគឺឥតគិតថ្លៃ ហើយមិនចាំបាច់មានគណនី ចុះឈ្មោះ ឬទាញយកអ្វីឡើយ។ លោកអ្នកអាចលេងបានតាមរយៈកម្មវិធីរុករកវិបសាយនៅលើទូរស័ព្ទ ថេប្លេត ឬកុំព្យូទ័រ។"
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "ល្បែងផ្គុំរូបភាព",
+    "seoTitle": "ល្បែងផ្គុំរូបភាពងាយស្រួលសម្រាប់អ្នកមានបញ្ហាភ្លេចភ្លាំង៖ 4 ឬ 9 ចំណែក",
+    "h1": "ល្បែងផ្គុំរូបភាព៖ ការផ្គុំរូបដ៏សាមញ្ញ",
+    "description": "ល្បែងផ្គុំរូបភាពតាមអនឡាញដ៏ងាយស្រួលសម្រាប់អ្នកដែលមានបញ្ហាភ្លេចភ្លាំង៖ មាន 4 ឬ 9 ចំណែកធំៗ រូបភាពពេញលេញនៅតែបន្តបង្ហាញឱ្យឃើញ ហើយគ្រាន់តែចុចលើចំណែកពីរដើម្បីផ្លាស់ប្តូរទីតាំងគ្នា។",
+    "short": "ចុចលើចំណែកពីរដើម្បីផ្លាស់ប្តូរទីតាំងគ្នា រហូតទាល់តែបានរូបភាពពេញលេញ។",
+    "players": "1 ឬ 2 នាក់",
+    "intro": "រូបភាពដ៏ស្រស់ស្អាតមួយត្រូវបានកាត់ជាបួន ឬប្រាំបួនចំណែកធំៗ ហើយច្របល់ចូលគ្នា។ រូបភាពពេញលេញនៅតែបង្ហាញឱ្យឃើញជាជំនួយ។ ចុចលើចំណែកមួយ រួចចុចលើចំណែកមួយទៀត នោះវានឹងផ្លាស់ប្តូរទីតាំងគ្នា។ មិនចាំបាច់ទាញអូសអ្វីឡើយ។",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "ជ្រើសរើសរូបភាពមួយ និងចំនួន 4 ឬ 9 ចំណែក។ ការចាប់ផ្តើមជាមួយ 4 ចំណែកគឺស្រួលជាង។",
+      "ក្រឡេកមើលរូបភាពពេញលេញនៅផ្នែកខាងលើ។",
+      "ចុចលើចំណែកមួយ រួចចុចលើទីតាំងដែលត្រូវដាក់។ ចំណែកទាំងពីរនឹងផ្លាស់ប្តូរទីតាំងគ្នា។",
+      "ចំណែកដែលនៅចំកន្លែងត្រឹមត្រូវ នឹងមានសញ្ញាធិកតូចមួយ។",
+      "នៅពេលរូបភាពពេញលេញហើយ សូមរីករាយទស្សនាជាមួយគ្នា បន្ទាប់មកជ្រើសរើសរូបភាពផ្សេងទៀត។"
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "ការចុចលើចំណែកពីរដើម្បីផ្លាស់ប្តូរទីតាំងគ្នា គឺងាយស្រួលជាងការទាញអូសសម្រាប់មនុស្សជាច្រើន។",
+      "ជជែកគ្នាអំពីរូបភាពនៅពេលដែលវាចាប់ផ្តើមចេញជារូបរាង ដូចជា៖ «នោះនែ ដំបូលពណ៌ក្រហម»។",
+      "ផ្ទាំងរូបផ្គុំធ្វើពីឈើពិតៗដែលមាន 12 ទៅ 24 ចំណែកធំៗ ក៏ជាសកម្មភាពលើតុដ៏រីករាយមួយផងដែរ។"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ពេល ឬការរាប់ពិន្ទុដែរឬទេ?",
+        "a": "ទេ មិនមានការកំណត់ម៉ោង ពិន្ទុ ការរាប់ចំនួនដង ឬការចាញ់ឈ្នះអ្វីឡើយ។ លោកអ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្តាលផ្លូវក៏ជារឿងល្អធម្មតាដែរ។"
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "តើខ្ញុំចាំបាច់ត្រូវទាញអូសចំណែករូបភាពដែរឬទេ?",
+        "a": "ទេ គ្រាន់តែចុចលើចំណែកមួយ រួចចុចលើចំណែកមួយទៀត នោះវានឹងផ្លាស់ប្តូរទីតាំងគ្នា។ វិធីនេះគឺងាយស្រួលជាងសម្រាប់អ្នកដែលមានដៃញ័រ ឬលេងនៅលើអេក្រង់តូច។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើល្បែងនេះឥតគិតថ្លៃដែរឬទេ ហើយខ្ញុំចាំបាច់ត្រូវចុះឈ្មោះដែរឬទេ?",
+        "a": "បាទ/ចាស ល្បែងនេះគឺឥតគិតថ្លៃ ហើយមិនចាំបាច់មានគណនី ចុះឈ្មោះ ឬទាញយកអ្វីឡើយ។ លោកអ្នកអាចលេងបានតាមរយៈកម្មវិធីរុករកវិបសាយនៅលើទូរស័ព្ទ ថេប្លេត ឬកុំព្យូទ័រ។"
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "បំពេញសុភាសិត",
+    "seoTitle": "បំពេញសុភាសិត៖ ល្បែងសុភាសិតសម្រាប់មនុស្សចាស់",
+    "h1": "បំពេញសុភាសិត",
+    "description": "សុភាសិតស៊ាំធ្លាប់ដែលបាត់ពាក្យចុងក្រោយ ដូចជា «A penny saved is a penny ___»។ ចុចលើជម្រើសមួយ ឬបង្ហាញពាក្យបញ្ចប់ បន្ទាប់មកជជែកគ្នាអំពីរឿងនោះ។",
+    "short": "បំពេញសុភាសិតដែលធ្លាប់ស្គាល់ជាមួយគ្នា បន្ទាប់មកជជែកលេងអំពីរឿងនោះ។",
+    "players": "1 នាក់, 2 នាក់ ឬជាក្រុម",
+    "intro": "ពាក្យចាស់បុរាណ ឬសុភាសិត ជារឿយៗតែងតែដក់ជាប់ក្នុងការចងចាំពេញមួយជីវិត។ ប័ណ្ណនីមួយៗបង្ហាញពីសុភាសិតដែលធ្លាប់ស្គាល់ដោយខ្វះពាក្យចុងក្រោយ ជម្រើសចំនួន 3 និងប៊ូតុង «បង្ហាញពាក្យបញ្ចប់»។ បន្ទាប់ពីបង្ហាញពាក្យបញ្ចប់ហើយ សំណួរដ៏ទន់ភ្លន់មួយនឹងលើកឡើងដើម្បីជាការសន្ទនា។",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "អានសុភាសិតឱ្យឮៗជាមួយគ្នា។",
+      "ចុចលើពាក្យដែលត្រូវបំពេញ ឬចុច «បង្ហាញពាក្យបញ្ចប់»។",
+      "អានសុភាសិតពេញលេញម្តងទៀត ហើយជជែកគ្នាដោយប្រើសំណួរដែលបានផ្ដល់ជូន។",
+      "ចុច «សុភាសិតបន្ទាប់» នៅពេលដែលលោកអ្នករួចរាល់។"
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "អានយឺតៗ ហើយផ្អាកបន្តិចមុនពាក្យចុងក្រោយ។ ជារឿយៗ គាត់អាចនឹងនិយាយពាក្យនោះមុនពេលលោកអ្នកអានចប់ទៅទៀត។",
+      "ប្រសិនបើគាត់ឆ្លើយពាក្យបញ្ចប់ផ្សេងពីនេះ សូមរីករាយទទួលយក។ សុភាសិតខ្លះអាចមានទម្រង់ខុសៗគ្នាតាមគ្រួសារ ឬតាមតំបន់។",
+      "ប្រសិនបើលេងជាក្រុម ម្នាក់ជាអ្នកអាន ហើយអ្នកផ្សេងទៀតចូលរួមឆ្លើយពាក្យបញ្ចប់ទាំងអស់គ្នា។"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ពេល ឬការរាប់ពិន្ទុដែរឬទេ?",
+        "a": "ទេ មិនមានការកំណត់ម៉ោង ពិន្ទុ ការរាប់ចំនួនលើក ឬការចាញ់ឈ្នះឡើយ។ លោកអ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្តាលផ្លូវ ក៏ជាការបញ្ចប់ដ៏ល្អមួយដែរ។"
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "ចុះបើពួកយើងជ្រើសរើសពាក្យផ្សេងវិញ?",
+        "a": "ល្បែងនេះនឹងបង្ហាញពាក្យបញ្ចប់ទូទៅ រួចបន្តទៅការសន្ទនា។ មិនមានការរាប់ពិន្ទុទេ ហើយការឆ្លើយខុសពីនេះ ក៏មិនជាបញ្ហាដែរ។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើវាឥតគិតថ្លៃទេ ហើយតើខ្ញុំចាំបាច់ត្រូវចុះឈ្មោះដែរឬទេ?",
+        "a": "ពិតណាស់ វាឥតគិតថ្លៃទេ ហើយមិនចាំបាច់មានគណនី ចុះឈ្មោះ ឬទាញយកអ្វីឡើយ។ លោកអ្នកអាចលេងនៅលើកម្មវិធីរុករកវិបសាយ តាមទូរស័ព្ទ ថេប្លេត ឬកុំព្យូទ័របាន។"
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "ល្បែងស្វែងរកពាក្យ អក្សរធំៗ",
+    "seoTitle": "ល្បែងស្វែងរកពាក្យ អក្សរធំៗ សម្រាប់អ្នករស់នៅជាមួយជំងឺភ្លេចភ្លាំង អាចព្រីនបាន",
+    "h1": "ល្បែងស្វែងរកពាក្យ អក្សរធំៗ",
+    "description": "ល្បែងស្វែងរកពាក្យ អក្សរធំៗ ដោយឥតគិតថ្លៃ សម្រាប់មនុស្សចាស់ និងអ្នករស់នៅជាមួយជំងឺភ្លេចភ្លាំង។ ពាក្យតិច អក្សរធំៗ មានតែជួរដេក និងជួរឈរប៉ុណ្ណោះ។ អាចលេងតាមអនឡាញ ឬព្រីនចេញមកក្រៅបាន។",
+    "short": "អក្សរធំៗ ពាក្យពីរបីម៉ាត់ មានតែជួរដេក និងជួរឈរប៉ុណ្ណោះ។ អាចព្រីនបានផងដែរ។",
+    "players": "មនុស្ស 1 ឬ 2 នាក់",
+    "intro": "តារាងតូចមួយដែលមានអក្សរធំៗ និងពាក្យតែពីរបីម៉ាត់ប៉ុណ្ណោះ ដែលរៀបជាជួរដេក ឬជួរឈរ។ ចុចលើអក្សរដំបូងនៃពាក្យ រួចចុចលើអក្សរចុងក្រោយរបស់វា។ ចង់លេងលើក្រដាសមែនទេ? គ្រាន់តែចុចមួយដង លោកអ្នកអាចព្រីនល្បែងផ្គុំពាក្យថ្មីមួយសន្លឹកបានភ្លាមៗ។",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "ជ្រើសរើសប្រធានបទ និងទំហំតារាង។",
+      "មើលបញ្ជីពាក្យ។ ពាក្យត្រូវបានអានពីឆ្វេងទៅស្តាំ (ជួរដេក) ឬពីលើចុះក្រោម (ជួរឈរ)។",
+      "ចុចលើអក្សរដំបូងនៃពាក្យ រួចចុចលើអក្សរចុងក្រោយរបស់វា។",
+      "ពាក្យដែលរកឃើញ នឹងត្រូវបន្លិចពណ៌ ហើយគូសឆូតចេញពីបញ្ជី។",
+      "ចុចលើ «ព្រីនល្បែងនេះ» ដើម្បីលេងលើក្រដាសជាមួយខ្មៅដៃ ឬប៊ិចហ្វឺត។"
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "ចង្អុលទៅពាក្យណាមួយក្នុងបញ្ជី ហើយស្វែងរកអក្សរដំបូងរបស់វាជាមួយគ្នា។",
+      "ពេលលេងលើក្រដាស ប៊ិចហ្វឺតគូសចំណាំ ងាយស្រួលកាន់ជាងខ្មៅដៃ។",
+      "ជជែកគ្នាលេងអំពីពាក្យតាមប្រធានបទនីមួយៗ។ ឧទាហរណ៍ ពាក្យអំពីផ្លែឈើ អាចនាំឱ្យនឹកឃើញដល់ការបេះផ្លែឈើ ការធ្វើនំ ឬការដើរផ្សារជាដើម។"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ម៉ោង ឬការរាប់ពិន្ទុដែរឬទេ?",
+        "a": "ទេ មិនមានការកំណត់ម៉ោង ពិន្ទុ ការរាប់ចំនួនលើក ឬការចាញ់ឈ្នះឡើយ។ លោកអ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្តាលផ្លូវ ក៏ជាការបញ្ចប់ដ៏ល្អមួយដែរ។"
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "តើខ្ញុំអាចព្រីនល្បែងស្វែងរកពាក្យនេះបានទេ?",
+        "a": "បាន។ ចុចលើ «ព្រីនល្បែងនេះ» ដើម្បីព្រីនតារាងបច្ចុប្បន្នជាអក្សរធំៗ ដោយមានបញ្ជីពាក្យនៅពីក្រោម។ ល្បែងផ្គុំពាក្យថ្មីនីមួយៗសុទ្ធតែប្លែកៗពីគ្នា។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើវាឥតគិតថ្លៃទេ ហើយតើខ្ញុំចាំបាច់ត្រូវចុះឈ្មោះដែរឬទេ?",
+        "a": "ពិតណាស់ វាឥតគិតថ្លៃទេ ហើយមិនចាំបាច់មានគណនី ចុះឈ្មោះ ឬទាញយកអ្វីឡើយ។ លោកអ្នកអាចលេងនៅលើកម្មវិធីរុករកវិបសាយ តាមទូរស័ព្ទ ថេប្លេត ឬកុំព្យូទ័របាន។"
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "ទំព័ររូបភាពសម្រាប់ផាត់ពណ៌",
+    "seoTitle": "ទំព័ររូបភាពផាត់ពណ៌សម្រាប់មនុស្សធំដែលមានបញ្ហាភ្លេចភ្លាំង (ឥតគិតថ្លៃ)",
+    "h1": "ទំព័ររូបភាពសម្រាប់ផាត់ពណ៌",
+    "description": "ទំព័ររូបភាពផាត់ពណ៌ដ៏សាមញ្ញសម្រាប់មនុស្សធំ ដែលមានផ្ទៃធំៗ៖ គ្រាន់តែចុចលើពណ៌ រួចចុចលើរូបភាព។ មិនប្រឡាក់ដៃ គ្មានពណ៌ណាដែលខុសនោះឡើយ ហើយគ្រប់ទំព័រទាំងអស់សុទ្ធតែអាចព្រីនបានដោយឥតគិតថ្លៃ។",
+    "short": "ចុចលើពណ៌ រួចចុចលើផ្នែកណាមួយនៃរូបភាព។ អាចព្រីនរូបភាពចេញមកក្រៅបានផងដែរ។",
+    "players": "មនុស្ស 1 ឬ 2 នាក់",
+    "intro": "ទំព័រដែលមានក្បូរក្បាច់ធំៗ និងសាមញ្ញ៖ ផ្កាក្នុងផើង ផ្ទះ ពែងតែ មេអំបៅ និងទូកក្តោង។ ចុចលើពណ៌ រួចចុចលើផ្នែកណាមួយនៃរូបភាពដើម្បីចាក់ពណ៌។ គ្មានពណ៌ណាដែលខុសនោះឡើយ។",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "ជ្រើសរើសទំព័ររូបភាពណាមួយ។",
+      "ចុចលើពណ៌។ ពណ៌នីមួយៗមានឈ្មោះសរសេរនៅលើនោះ។",
+      "ចុចលើផ្នែកណាមួយនៃរូបភាព ដើម្បីចាក់ពណ៌នោះចូល។",
+      "អាចប្តូរចិត្តនៅពេលណាក៏បាន ដោយគ្រាន់តែចាក់ពណ៌ម្តងទៀត។",
+      "ចុចលើ «ព្រីនទំព័រនេះ» ដើម្បីទទួលបានទំព័រទទេសម្រាប់ផាត់ជាមួយខ្មៅដៃពណ៌ ឬប៊ិចហ្វឺត។"
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "ប្រសិនបើការជ្រើសរើសពណ៌ច្រើនពេកធ្វើឱ្យពិបាកចិត្ត សូមលើកយកពណ៌តែពីរមកឱ្យគាត់រើសបានហើយ។",
+      "ដើមឈើពណ៌ស្វាយ ឬព្រះអាទិត្យពណ៌ខៀវ សុទ្ធតែកក់ក្តៅ និងត្រឹមត្រូវទាំងអស់ ព្រោះការលេងនេះគឺដើម្បីភាពរីករាយជាមួយពណ៌ មិនមែនដើម្បីភាពប្រាកដប្រជានោះទេ។",
+      "ទំព័រដែលព្រីនចេញមកក្រៅ គឺស័ក្តិសមបំផុតជាមួយប៊ិចហ្វឺតធំៗ ឬដីក្រមួនពណ៌ ដែលងាយស្រួលកាន់។"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ម៉ោង ឬការរាប់ពិន្ទុដែរឬទេ?",
+        "a": "ទេ មិនមានការកំណត់ម៉ោង ពិន្ទុ ការរាប់ចំនួនលើក ឬការចាញ់ឈ្នះឡើយ។ លោកអ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្តាលផ្លូវ ក៏ជាការបញ្ចប់ដ៏ល្អមួយដែរ។"
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "តើទំព័ររូបភាពទាំងនេះមើលទៅក្មេងពេកដែរឬទេ?",
+        "a": "ពួកយើងបានគូររូបវត្ថុសាមញ្ញៗដែលផ្ដល់អារម្មណ៍ស្ងប់ស្ងាត់ មិនមែនជារូបតុក្កតានោះឡើយ ដូច្នេះទំព័រទាំងនេះពិតជាស័ក្តិសមសម្រាប់មនុស្សធំ។ ទម្រង់ធំៗជួយឱ្យការផាត់ពណ៌មានភាពងាយស្រួល ដោយមិនមានអារម្មណ៍ដូចជារបស់កូនក្មេងឡើយ។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើវាឥតគិតថ្លៃទេ ហើយតើខ្ញុំចាំបាច់ត្រូវចុះឈ្មោះដែរឬទេ?",
+        "a": "ពិតណាស់ វាឥតគិតថ្លៃទេ ហើយមិនចាំបាច់មានគណនី ចុះឈ្មោះ ឬទាញយកអ្វីឡើយ។ លោកអ្នកអាចលេងនៅលើកម្មវិធីរុករកវិបសាយ តាមទូរស័ព្ទ ថេប្លេត ឬកុំព្យូទ័របាន។"
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "កាតសន្ទនា",
+    "seoTitle": "ប្រធានបទផ្តួចផ្តើមការសន្ទនាសម្រាប់អ្នកមានបញ្ហាភ្លេចភ្លាំង៖ កាតរូបភាព",
+    "h1": "កាតសន្ទនា",
+    "description": "កាតរូបភាពដែលមានប្រធានបទផ្តួចផ្តើមការសន្ទនាបែបស្រាលៗ សម្រាប់អ្នករស់នៅជាមួយជំងឺភ្លេចភ្លាំង៖ គ្មានការសួរដេញដោល គ្មានចម្លើយណាត្រូវឬខុស។ អាចប្រើនៅលើអេក្រង់ ឬព្រីនមួយឈុតទាំងមូលក៏បាន។",
+    "short": "កាតរូបភាពដែលមានសំណួរបែបបើកចំហ និងទន់ភ្លន់។ គ្មានការសួរដេញដោលឡើយ។",
+    "players": "មនុស្ស 2 នាក់ ឬមួយក្រុម",
+    "intro": "កាតនីមួយៗមានរូបភាពដែលធ្លាប់ស្គាល់ ភ្ជាប់ជាមួយការអញ្ជើញសន្ទនាបែបបើកចំហ ដូចជា «តើលោកអ្នកចូលចិត្តអាកាសធាតុបែបណាជាងគេ?»។ មិនមានចម្លើយណាដែលត្រូវ ហើយក៏គ្មានអ្វីដែលត្រូវចងចាំដែរ។ លោកអ្នកអាចជ្រើសរើសប្រធានបទណាមួយ ឬច្របល់កាតទាំងអស់ចូលគ្នាក៏បាន។",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "ជ្រើសរើសប្រធានបទណាមួយ ឬទុក «កាតទាំងអស់»។",
+      "អានសំណួរឮៗ ហើយមើលរូបភាពជាមួយគ្នា។",
+      "ស្តាប់ ចែករំលែកចម្លើយផ្ទាល់ខ្លួនរបស់អ្នក ហើយបណ្តោយឱ្យការជជែកដំណើរការទៅតាមធម្មជាតិ។",
+      "ចុចលើ «កាតបន្ទាប់» នៅពេលលោកអ្នករួចរាល់ ឬអាចជជែកលើកាតមួយនោះឱ្យយូរប៉ុណ្ណាក៏បានតាមចិត្ត។",
+      "ចុចលើ «ព្រីនកាតទាំងអស់» ដើម្បីកាត់ចេញជាឈុតក្រដាស។"
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "ឆ្លើយសំណួរនោះដោយខ្លួនឯងផងដែរ។ ធ្វើបែបនេះនឹងផ្តល់អារម្មណ៍ដូចជាការជជែកគ្នាលេង មិនមែនជាការសម្ភាសន៍ឡើយ។",
+      "ផ្តោតលើដំណើររឿង មិនបាច់ខ្វល់រឿងខុសត្រូវនៃការពិតនោះទេ។ ទោះបីជាព័ត៌មានលម្អិតប្រែប្រួលខ្លះ ក៏មិនអីដែរ។",
+      "ប្រសិនបើកាតណាមួយធ្វើឱ្យប៉ះពាល់ដល់រឿងក្រៀមក្រំ សូមយល់ចិត្ត និងទទួលស្គាល់អារម្មណ៍នោះ រួចប្តូរទៅកាតមួយផ្សេងទៀតថ្នមៗ។"
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "ហេតុអ្វីបានជាមិនមានសំណួរ «តើអ្នកចាំទេ...?»?",
+        "a": "សំណួរដែលសាកល្បងការចងចាំ អាចធ្វើឱ្យមានអារម្មណ៍ដូចជាកំពុងប្រឡង និងបង្កការទើសទាល់អៀនខ្មាស។ ការផ្តួចផ្តើមបែបបើកចំហ ដូចជា «សូមរៀបរាប់អំពី...» អនុញ្ញាតឱ្យមនុស្សគ្រប់គ្នាអាចចូលរួមបាន ទោះបីជាពួកគេចងចាំបានកម្រិតណាក៏ដោយ។"
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "តើខ្ញុំអាចព្រីនកាតទាំងនេះបានទេ?",
+        "a": "បាន។ «ព្រីនកាតទាំងអស់» នឹងព្រីនកាតមួយឈុតទាំងមូលជាអក្សរធំៗ ដោយមានកាតជាច្រើនក្នុងមួយទំព័រ រួចជាស្រេចសម្រាប់កាត់។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើវាឥតគិតថ្លៃទេ ហើយតើខ្ញុំចាំបាច់ត្រូវចុះឈ្មោះដែរឬទេ?",
+        "a": "មែនហើយ ល្បែងនេះឥតគិតថ្លៃទេ ហើយមិនចាំបាច់មានគណនី ចុះឈ្មោះ ឬទាញយកអ្វីឡើយ។ វាដំណើរការនៅលើកម្មវិធីរុករកវេបតាមទូរសព្ទ ថេប្លេត ឬកុំព្យូទ័រ។"
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "ផ្គូផ្គងរូបថត",
+    "seoTitle": "បង្កើតល្បែងផ្គូផ្គងពីរូបថតគ្រួសារផ្ទាល់ខ្លួន",
+    "h1": "ផ្គូផ្គងរូបថត៖ ផ្គូផ្គងរូបថតផ្ទាល់ខ្លួនរបស់អ្នក",
+    "description": "ផ្លាស់ប្តូររូបថតគ្រួសាររបស់អ្នកទៅជាល្បែងផ្គូផ្គងដ៏រីករាយនិងស្រាលស្រទន់។ ជ្រើសរើសរូបថតពី ២ ទៅ ៦ សន្លឹកពីឧបករណ៍របស់អ្នក រូបថតទាំងនោះនឹងស្ថិតនៅក្នុងកម្មវិធីរុករករបស់អ្នក ហើយមិនត្រូវបានផ្ទុកឡើងលើអ៊ីនធឺណិតឡើយ។",
+    "short": "ជ្រើសរើសរូបថតផ្ទាល់ខ្លួនរបស់អ្នកហើយផ្គូផ្គងវា។ គ្មានរូបថតណាមួយត្រូវបានផ្ទុកឡើងឡើយ។",
+    "players": "មនុស្ស ២ នាក់ អង្គុយក្បែរគ្នា",
+    "intro": "ជ្រើសរើសរូបថតពីពីរទៅប្រាំមួយសន្លឹកពីទូរសព្ទ ថេប្លេត ឬកុំព្យូទ័ររបស់អ្នក ដើម្បីបង្កើតជាល្បែងផ្គូផ្គងដែលមានរូបភាពធំៗច្បាស់ៗ។ រូបថតទាំងនេះបង្ហាញតែនៅលើទំព័រនេះប៉ុណ្ណោះ។ ពួកវាមិនត្រូវបានផ្ទុកឡើង រក្សាទុក ឬចែករំលែកឡើយ ហើយនឹងបាត់ទៅវិញនៅពេលអ្នកបិទទំព័រនេះ។",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "ចុចលើ «ជ្រើសរើសរូបថត» រួចរើសរូបថតពីពីរទៅប្រាំមួយសន្លឹក។",
+      "រូបថតនីមួយៗនឹងបង្ហាញឡើងពីរដង។ ចុចលើរូបមួយ រួចចុចលើរូបគូរបស់វា។",
+      "ជជែកគ្នាលេងអំពីរូបថតនីមួយៗនៅពេលអ្នករកវាឃើញ។",
+      "នៅពេលលេងចប់ សូមបិទទំព័រ ឬចុចលើ «លុបរូបថតចេញ»។ គ្មានអ្វីត្រូវបានរក្សាទុកឡើយ។"
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "ជ្រើសរើសរូបថតច្បាស់ៗដែលបង្ហាញពីរឿងរ៉ាវសប្បាយៗ និងធ្លាប់ស្គាល់ ដូចជា សត្វចិញ្ចឹម សួនផ្កា ទីកន្លែងដែលចូលចិត្ត ឬថ្ងៃអាពាហ៍ពិពាហ៍។",
+      "រូបភាពទីកន្លែង និងវត្ថុផ្សេងៗ អាចងាយស្រួលជាងរូបមុខមនុស្ស ហើយមិនបង្កសម្ពាធក្នុងការចាំឈ្មោះមនុស្សឡើយ។",
+      "សូមកុំយករូបថតអ្នកដែលបានចែកឋានទៅ ប្រសិនបើរូបទាំងនោះអាចធ្វើឱ្យកើតទុក្ខសោកភ្លាមៗ លើកលែងតែអ្នកដឹងច្បាស់ថារូបទាំងនោះផ្ដល់ការលួងលោមចិត្ត។"
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "តើរូបថតរបស់ខ្ញុំត្រូវបានផ្ទុកឡើងទៅកន្លែងណាមួយដែរឬទេ?",
+        "a": "មិនផ្ទុកឡើងទេ។ ទំព័រនេះអានរូបថតដែលអ្នកបានជ្រើសរើសដោយផ្ទាល់នៅក្នុងកម្មវិធីរុករករបស់អ្នក ហើយបង្ហាញវានៅលើអេក្រង់ប៉ុណ្ណោះ។ រូបថតទាំងនោះមិនត្រូវបានផ្ញើមកកាន់យើង ឬទៅកាន់អ្នកផ្សេងឡើយ ហើយវានឹងបាត់ទៅវិញនៅពេលអ្នកបិទ ឬផ្ទុកទំព័រឡើងវិញ។"
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "តើមានការកំណត់ពេល ឬការរាប់ពិន្ទុដែរឬទេ?",
+        "a": "មិនមានទេ។ គ្មានការកំណត់ម៉ោង គ្មានពិន្ទុ គ្មានការរាប់ចំនួនដងនៃការចុច និងគ្មានការចាញ់ឡើយ។ អ្នកអាចឈប់នៅពេលណាក៏បាន ហើយការឈប់នៅពាក់កណ្ដាលទីក៏ជាការបញ្ចប់ដ៏ល្អមួយដែរ។"
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "តើខ្ញុំអាចរក្សាទុកល្បែងនេះសម្រាប់លេងលើកក្រោយបានទេ?",
+        "a": "មិនអាចរក្សាទុកក្នុងកម្មវិធីរុករកបានទេ ដោយសារប្រព័ន្ធត្រូវបានរៀបចំឡើងមិនឱ្យរក្សាទុកទិន្នន័យផ្ទាល់ខ្លួន។ ប៉ុន្តែកម្មវិធីឥតគិតថ្លៃ Golden Moments សម្រាប់ iPhone និង iPad អាចរក្សាទុកច្បាប់ចម្លងនៃរូបថតដែលបានជ្រើសរើសនៅលើឧបករណ៍របស់អ្នកបាន។"
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "ប៊ីងហ្គោរូបភាព",
+    "seoTitle": "ប៊ីងហ្គោរូបភាពសម្រាប់មនុស្សចាស់ដែលមានបញ្ហាភ្លេចភ្លាំង៖ អាចបោះពុម្ពបាន",
+    "h1": "ប៊ីងហ្គោរូបភាពសម្រាប់លេងជាក្រុម",
+    "description": "ប៊ីងហ្គោរូបភាពឥតគិតថ្លៃដែលអាចបោះពុម្ពបាន សម្រាប់ក្រុមមនុស្សចាស់ និងការថែទាំការចងចាំ ជាមួយផ្ទាំងហៅរូបភាពធំនៅលើអេក្រង់។ រូបភាពធំៗមានអមដោយពាក្យ មាន ៩ ឬ ១៦ ក្រឡា មិនចាំបាច់ចេះអក្សរក៏លេងបាន។",
+    "short": "សន្លឹកបៀរប៊ីងហ្គោរូបភាពអាចបោះពុម្ពបាន និងផ្ទាំងហៅរូបភាពលើអេក្រង់ធំសម្រាប់លេងជាក្រុម។",
+    "players": "ក្រុមមនុស្សពី ២ ទៅ ៣០ នាក់",
+    "intro": "ល្បែងប៊ីងហ្គោបែបបុរាណដែលប្រើរូបភាពជំនួសឱ្យលេខ ដូច្នេះមិនចាំបាច់មាននរណាម្នាក់ពិបាកមើលអក្សរតូចៗឡើយ។ សូមបោះពុម្ពសន្លឹកបៀរដែលមិនដូចគ្នា រួចប្រើផ្ទាំងហៅរូបភាពនៅលើអេក្រង់ ដើម្បីបង្ហាញរូបភាពនីមួយៗឱ្យធំច្បាស់នៅលើទូរទស្សន៍ កុំព្យូទ័រយួរដៃ ឬថេប្លេត។",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "ជ្រើសរើសចំនួន ៩ ឬ ១៦ ក្រឡាក្នុងមួយសន្លឹក និងចំនួនអ្នកលេង។",
+      "ចុចលើ «បោះពុម្ពសន្លឹកបៀរ»។ សន្លឹកបៀរនីមួយៗគឺខុសៗគ្នា។",
+      "បើកផ្ទាំងហៅរូបភាពនៅលើអេក្រង់ធំ។ ចុចលើ «រូបភាពបន្ទាប់» ដើម្បីបង្ហាញរូបភាពនីមួយៗជាមួយឈ្មោះរបស់វា។",
+      "អ្នកលេងយកកាក់ គ្រាប់ឡេវ ឬវត្ថុចំណាំ មកដាក់គ្របលើរូបភាពដែលត្រូវគ្នានៅលើសន្លឹករបស់ខ្លួន។",
+      "អ្នកណាដែលបំពេញបានមួយជួរ ឬពេញមួយសន្លឹក នឹងទទួលបានការអបអរសាទរ។ នៅក្នុងទម្រង់នេះគឺគ្មានអ្នកចាញ់ឡើយ ដោយបន្តលេងរហូតដល់គ្រប់គ្នាបំពេញបានមួយជួរដូចៗគ្នា។"
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "ប្រើវត្ថុចំណាំធំៗ ដូចជា គ្រាប់អុក ឬគម្របដប។ គ្រាប់ឡេវតូចៗអាចពិបាកចាប់កាន់។",
+      "អានឈ្មោះរូបភាព ហើយនិយាយអ្វីមួយអំពីរូបនោះ ដូចជា៖ «ទូកក្ដោង។ តើមានអ្នកណាខ្លះធ្លាប់ជិះទូកលេងកម្សាន្ត?»",
+      "រៀបចំឱ្យអ្នកដែលមានបញ្ហាភ្នែកពិបាកមើល អង្គុយក្បែរអេក្រង់បំផុត ហើយចាត់អ្នកជួយមើលថែឱ្យនៅក្បែរអ្នកលេងដែលត្រូវការជំនួយ។",
+      "ក្រឡាចំនួន ៩ គឺគ្រប់គ្រាន់ណាស់ទៅហើយសម្រាប់ក្រុមភាគច្រើន។ សូមរក្សាពេលលេងប្រហែលពី ២០ ទៅ ៣០ នាទី។"
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "តើខ្ញុំអាចរៀបចំលេងប៊ីងហ្គោរូបភាពនៅក្នុងមណ្ឌលថែទាំយ៉ាងដូចម្ដេច?",
+        "a": "បោះពុម្ពសន្លឹកបៀរមួយសន្លឹកសម្រាប់អ្នកលេងម្នាក់ ដាក់ផ្ទាំងហៅរូបភាពនៅលើអេក្រង់ធំបំផុតដែលអ្នកមាន ហើយហៅរូបភាពយឺតៗដោយអានឈ្មោះរូបនីមួយៗ។ លេងរហូតដល់គ្រប់គ្នាបំពេញបានមួយជួរ ដើម្បីកុំឱ្យមាននរណាម្នាក់មានអារម្មណ៍ថាគេទុកចោល។"
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "តើការបោះពុម្ពនេះឥតគិតថ្លៃទេ?",
+        "a": "ឥតគិតថ្លៃទេ។ អ្នកអាចបោះពុម្ពសន្លឹកបៀរបានច្រើនតាមតម្រូវការ និងញឹកញាប់តាមការចូលចិត្ត សម្រាប់ការប្រើប្រាស់ផ្ទាល់ខ្លួន ឬលេងជាក្រុម។"
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "តើអាចលេងបានទេដោយមិនបាច់អានអក្សរ?",
+        "a": "លេងបាន។ គ្រប់ក្រឡាទាំងអស់សុទ្ធតែជារូបភាពធំៗ ដោយមានឈ្មោះនៅពីក្រោមសម្រាប់អ្នកដែលចូលចិត្តអានពាក្យ។"
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "ដកដង្ហើមស្ងប់អារម្មណ៍",
+    "seoTitle": "ការផ្អាកដកដង្ហើមស្ងប់អារម្មណ៍សម្រាប់មនុស្សចាស់ និងអ្នកមើលថែ",
+    "h1": "ការផ្អាកដកដង្ហើមស្ងប់អារម្មណ៍",
+    "description": "ការផ្អាកដកដង្ហើមវែងៗនិងស្ងប់ស្ងាត់ជាមួយគ្នា៖ រង្វង់មូលដ៏ស្រទន់មួយរីកធំឡើង និងរួមតូចទៅវិញសម្រាប់ដង្ហើមចំនួនប្រាំមួយដង។ អ្នកជាអ្នកចាប់ផ្ដើម ហើយអ្នកអាចឈប់នៅពេលណាក៏បាន។",
+    "short": "រង្វង់មូលដើរយឺតៗសម្រាប់ដកដង្ហើមតាម។ ចាប់ផ្ដើម និងបញ្ឈប់នៅពេលណាដែលអ្នកចង់។",
+    "players": "មនុស្ស ១ ឬ ២ នាក់",
+    "intro": "ជួនកាល សកម្មភាពដ៏ល្អបំផុតគឺការផ្អាកសម្រាកឱ្យស្ងប់ចិត្ត។ ចុចលើ «ចាប់ផ្ដើម» រួចដកដង្ហើមចូលនៅពេលរង្វង់រីកធំ និងដកដង្ហើមចេញនៅពេលរង្វង់រួមតូច។ ជ្រើសរើសល្បឿនយឺត ឬលឿនល្មម។ នេះមិនមែនជាការព្យាបាលនោះទេ គ្រាន់តែជាពេលវេលាដ៏ស្ងប់សុខមួយដើម្បីចំណាយជាមួយគ្នា។",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "អង្គុយក្បែរគ្នាឱ្យបានស្រួលខ្លួន។",
+      "ជ្រើសរើសចង្វាក់៖ យឺត ឬស្រាលស្រទន់។",
+      "ចុចលើ «ចាប់ផ្ដើម»។ ដកដង្ហើមចូលពេលរង្វង់រីកធំ ហើយដកដង្ហើមចេញពេលរង្វង់រួមតូច។",
+      "វានឹងឈប់ដោយខ្លួនឯងបន្ទាប់ពីដកដង្ហើមបានប្រាំមួយដង ឬចុចលើ «បញ្ឈប់» នៅពេលណាដែលអ្នកចង់។"
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "កាន់ដៃគ្នា ឬដាក់ដៃលើដើមដៃរបស់គាត់ថ្នមៗ ប្រសិនបើគាត់ពេញចិត្ត។",
+      "កុំបង្ខំឱ្យសោះ។ ប្រសិនបើគាត់គ្រាន់តែចង់មើល នោះក៏មិនអីដែរ។",
+      "ប្រសិនបើមាននរណាម្នាក់មានបញ្ហាពិបាកដកដង្ហើម សូមដកដង្ហើមជាធម្មតា ហើយគ្រាន់តែមើលរង្វង់នោះទៅបានហើយ។ សូមពិគ្រោះជាមួយគ្រូពេទ្យប្រសិនបើមានការបារម្ភអំពីការដកដង្ហើម។"
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "តើនេះជាលំហាត់ប្រាណដកដង្ហើមបែបវេជ្ជសាស្ត្រមែនទេ?",
+        "a": "មិនមែនទេ។ នេះគ្រាន់តែជាការផ្អាកសម្រាកដ៏សាមញ្ញមួយដើម្បីឱ្យស្ងប់ចិត្ត និងនៅក្បែរគ្នា ដែលលោកអ្នកអាចជ្រើសរើសធ្វើឬអត់ក៏បាន។ វាមិនមែនជាការព្យាបាលសម្រាប់ជំងឺថប់បារម្ភ ឬស្ថានភាពជំងឺណាមួយឡើយ។ សូមពិគ្រោះជាមួយគ្រូពេទ្យប្រសិនបើមានការបារម្ភអំពីសុខភាព។"
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "តើរង្វង់នោះមានចលនាដោយខ្លួនឯងទេ បើខ្ញុំមិនទាន់ចុចចាប់ផ្ដើម?",
+        "a": "ទេ គ្មានអ្វីមានចលនាឡើយ រហូតទាល់តែលោកអ្នកចុច «ចាប់ផ្ដើម» ហើយវានឹងឈប់បន្ទាប់ពីដកដង្ហើមបាន 6 ដង ឬនៅពេលលោកអ្នកចុច «បញ្ឈប់»។ ប្រសិនបើឧបករណ៍របស់លោកអ្នកត្រូវបានកំណត់ឱ្យកាត់បន្ថយចលនា អក្សរនឹងផ្លាស់ប្តូរដោយមិនមានរង្វង់រីកធំឡើយ។"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "តើវាឥតគិតថ្លៃដែរឬទេ ហើយតើខ្ញុំចាំបាច់ត្រូវចុះឈ្មោះដែរឬទេ?",
+        "a": "ពិតណាស់ វាឥតគិតថ្លៃ ហើយមិនតម្រូវឱ្យមានគណនី ចុះឈ្មោះ ឬទាញយកអ្វីឡើយ។ លោកអ្នកអាចប្រើប្រាស់វាបាននៅលើកម្មវិធីរុករកតាមអ៊ីនធឺណិត (browser) ទាំងនៅលើទូរសព្ទ ថេប្លេត ឬកុំព្យូទ័រ។"
       }
     ]
   }

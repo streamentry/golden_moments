@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Karatə fəlangin",
+      "stopReading": "Karatə dənga",
+      "region": "Biske",
+      "restart": "Walangə badingə",
+      "soundOn": "Kuma fətəkkə kuro",
+      "soundOff": "Kuma fətəkkə kolangə",
+      "done": "Kərmaro daji",
+      "feedbackQuestion": "Adə kuro bananzəna ba?",
+      "feedbackYes": "Iyi",
+      "feedbackNo": "Awo dəro ba",
+      "feedbackThanks": "Wurano gulluwumaro kuro ye godiya."
+    },
+    "tile": {
+      "named": "{name}, foti {n}",
+      "hidden": "Hoto asirdəna, foti {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kalanzəro waltəna",
+      "selected": "Karradəna",
+      "picture": "Hoto",
+      "photoNumber": "Hoto {n}"
+    },
+    "pairs": {
+      "allTogether": "Kalaso kəlanzaro waltəna. Bisketə walangə ba roftə kəluro.",
+      "photoPair": "Hotowa indi kəlanzaro gade.",
+      "picturePair": "Hotowa indi {name|lower} be, kəlanzaro gade.",
+      "selected": "{name}. Kərma kalanzə matəngə.",
+      "mismatch": "Kəla kaskunəro diwun. Hoto laa tanyigo fuwuro letəro.",
+      "mismatchNamed": "{a} kuru {b}. Kəla kaskunəro diwun. Hoto laa tanyigo fuwuro letəro."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Hoto laa tanyigo, daji kalanzəro gadedə tanyigo.",
+      "guidanceHidden": "Fotiwa indi tanyigo kəlanzaro waljin. Indi falan kalanzaduro matəngə.",
+      "restart": "Hotowa bəlin",
+      "sizeLegend": "Fotiwa ndagu",
+      "size": {
+        "one": "Foti {n}",
+        "other": "Fotiwa {n}"
+      },
+      "viewLegend": "Futu biskeyindobe",
+      "viewShowing": "Hotowa cidan",
+      "viewHidden": "Hotowa asirdəna",
+      "playAgain": "Hotowa bəlin-a walangə biskeyin",
+      "talk": "Hotowa kəlan manatəngə roftən"
+    },
+    "choose": {
+      "countLegend": "Hotowa ndagu",
+      "count": "{n} karratəro gade",
+      "thatOne": "Shidə shima {name|lower}. Kəla kaskunəro diwun."
+    },
+    "findTheSame": {
+      "guidance": "Hoto kəlabe dəro kuttəngə. Gadedə cidin shiduro tanyigo.",
+      "yes": "Iyi, shidə shima {name|lower} kəlanzə.",
+      "next": "Hoto fuwube"
+    },
+    "shadowMatch": {
+      "guidance": "Shilliwu kəla lan kuttəngə. Hoto shidə sədinduro tanyigo.",
+      "yes": "Iyi, {name|lower} də shima shilliwu də sədina.",
+      "next": "Shilliwu fuwube",
+      "shadowAlt": "Shilliwu kalatəro gade",
+      "foundAlt": "Shilliwu {name|lower} be"
+    },
+    "sortTogether": {
+      "guidance": "Hoto laa tanyigo, daji ngəmi shiro gadedə tanyigo.",
+      "restart": "Hotowa bəlin",
+      "themeLegend": "Kəlanzə",
+      "selected": "{name}. Kərma ngəmi shiro gadeduro tanyigo.",
+      "pickFirst": "Buroye hoto tanyigo, daji ngəmi tanyigo.",
+      "hint": "{name|lower} də \"{basket}\" ro lejin. Ngəmi də tanyigo cidən gənatəro.",
+      "placed": "{name|lower} də \"{basket}\" lan kərma nabsəna.",
+      "sorted": "Sammaso sətərəna. Ngəmiwa kəlanzaro kuttəngə, awo gade kəlanzə badingə.",
+      "basket": {
+        "one": "Ngəmi {basket} be, hoto {count} cidən kara",
+        "other": "Ngəmi {basket} be, hotowa {count} cidən kara"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Foti fal tanyigo, kuru foti gade tanyigo. Kəlanzaro faljin.",
+      "restart": "Walangə kəlanzaro laptəngə",
+      "pictureLegend": "Hoto",
+      "pictures": {
+        "sailboat": "Kulum",
+        "house": "Fato",
+        "balloon": "Balon",
+        "sunflower": "Fawa kəngalbe",
+        "lighthouse": "Fato nuroye",
+        "cat": "Musi"
+      },
+      "sizeLegend": "Fotiwa",
+      "size": {
+        "one": "Foti {n}",
+        "other": "Fotiwa {n}"
+      },
+      "pickedUp": "Foti ngawotəna. Kərma na shiro gadeduro tanyigo.",
+      "whole": "{name|lower} də kəlanzaro waltə kalazəna. Sa raayindən hoto gade karrangə.",
+      "swapped": {
+        "one": "Kəlanzaro falzəna. Foti {total} lan {correct} na shiro gadeduro gənadəna.",
+        "other": "Kəlanzaro falzəna. Fotiwa {total} lan {correct} na sando gadeduro gənadəna."
+      },
+      "guideAlt": "Hoto kəlanzaro kalazənadə: {name}",
+      "guideText": "Hoto də kəlanzaro kalazəna sa futu kuttənzəbedə adə.",
+      "piece": "Foti {place} lan",
+      "pieceInPlace": ", na gadeduro gənadəna",
+      "piecePickedUp": ", ngawotəna",
+      "places4": [
+        "kəla buro",
+        "kəla ngawun",
+        "cidi buro",
+        "cidi ngawun"
+      ],
+      "places9": [
+        "kəla buro",
+        "kəla dawo",
+        "kəla ngawun",
+        "dawo buro",
+        "dawo",
+        "dawo ngawun",
+        "cidi buro",
+        "cidi dawo",
+        "cidi ngawun"
+      ],
+      "done": "Hoto də kəlanzaro waltəna. Walangə biskeyin ba roftə kəluro.",
+      "playAgain": "Walangə kəlanzaro laptəngə"
+    },
+    "finishTheSaying": {
+      "guidance": "Karatə də kəlanzaro karangə, daji kalima shiro kəlanzə dəptinduro tanyigo.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Iyi, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" də ye kalazəna. Daji manadə ngawunzə də \"{end}\" lan dəpcin.",
+      "revealed": "Manadə shima \"{start} {end}.\"",
+      "choicesLabel": "Kalima ngawube də karrangə",
+      "show": "Ngawunzə fəlangə",
+      "talk": "Kəlanzan manatəngə: ",
+      "next": "Mana fuwube"
+    },
+    "wordSearch": {
+      "guidance": "Kalimawa fuwuro ba cidin lejin. Buroye haraf faldə tanyigo, daji ngawube tanyigo.",
+      "restart": "Biske bəlin",
+      "themeLegend": "Kəlanzə",
+      "sizeLegend": "Kura zandəbe",
+      "size": {
+        "one": "{n} lan {n} (kalima {words})",
+        "other": "{n} lan {n} (kalimawa {words})"
+      },
+      "print": "Biske adə fətəkkə",
+      "letterChosen": "Haraf {letter} karradəna. Kərma haraf kalimadəbe ngawunduro tanyigo.",
+      "found": "{word} tətəna.",
+      "foundAll": "{word} tətəna. Kalimawa sammaso tətəna. Walangə biskeyin ba roftə kəluro.",
+      "tryAgain": "Kəla kaskunəro diwun. Haraf kalimaye burobe tanyigo, daji ngawube tanyigo.",
+      "gridLabel": "Harafwa zanzəna, zande {n} kuru haraf {n}. Alama kuliye lan harafwa cidən kəluro lewun.",
+      "cell": "{letter}, sətər {row}, zande {col}",
+      "cellFound": ", foti kalima tətənabe",
+      "wordsHeading": "Kalimawa matəro gade",
+      "wordFound": " (tətəna)",
+      "sheetTitle": "Kalima matə: {theme}",
+      "sheetNote": "Kalimawa fuwuro ba cidin lejin.",
+      "unavailable": "Zande harafye adə koro təlame aduro gadeba, kuru biske kalimaye adə na lan ba. Hoto biske kəlanzaro jaraptəngə."
+    },
+    "coloring": {
+      "guidance": "Launi laa tanyigo, daji hoto dəbe foti laaduro tanyigo.",
+      "restart": "Launiwa kolangə",
+      "cleared": "Karafia də walangə bəlinro wallena.",
+      "pageLegend": "Karafia",
+      "print": "Karafia adə fətəkkə",
+      "colorsLabel": "Launiwa",
+      "paintChosen": "{paint} karradəna.",
+      "painted": "{part} də kərma {paint|lower} ro waltəna.",
+      "artLabel": "{page}, fotiwa {count} launi gənatəro gade",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, launi gənadəba",
+      "paints": {
+        "red": "Kime",
+        "orange": "Lemun",
+        "yellow": "Dila",
+        "green": "Kəji",
+        "blue": "Kuli",
+        "purple": "Zarni",
+        "pink": "Kime fətəkkə",
+        "brown": "Cidi",
+        "sky-blue": "Kuli samibe",
+        "cream": "Bul-dila",
+        "gray": "Buwu",
+        "white": "Bul"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Kati də kəla lan karangə. Karatə də lan jabu gade ba.",
+      "position": "Kati {n} lan {total}",
+      "themeLegend": "Kəlanzə",
+      "next": "Kati fuwube",
+      "previous": "Kati ngawube",
+      "print": "Katiwa sammaso fətəkkə",
+      "sheetTitle": "Katiwa manatəbe"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Buroye hotonəm karratə lan badingə.",
+      "guidance": "Hoto laa tanyigo, daji kalanzəro gadedə tanyigo.",
+      "restart": "Walangə kəlanzaro laptəngə",
+      "intro": "**Hotowa 2 lan 6 ro lejin karrangə** fati adəlan. Karafia adə kəlan bas fəlando kuru wuro gənadəba ba awo kəluro kəlazəba.",
+      "choose": "Hotowa karrangə",
+      "chooseDifferent": "Hotowa gade karrangə",
+      "clear": "Hotowa kolangə",
+      "cleared": "Hotowa karafia adə lan koladəna.",
+      "atLeastTwo": "Godiya lan hotowa indi ba sonzo karrangə.",
+      "usingFirst": "Hotowa burobe {max} citin cidan.",
+      "skipped": {
+        "one": "Awo fal {count} hoto fəlangatəro gadedə gənyi.",
+        "other": "Awowa {count} hotowa fəlangatəro gadedə gənyi."
+      },
+      "playAgain": "Hotowa adə-a walangə biskeyin",
+      "empty": "Hotonəm na lan fəlangin, falkə falkə inde inde."
+    },
+    "pictureBingo": {
+      "guidance": "Buroye katiwadə fətəkkə. Daji hoto bowoma adə karafia kura ngəladən fəlangə.",
+      "called": {
+        "one": "{name}. Hoto {total} lan {called} bowotəna.",
+        "other": "{name}. Hotowa {total} lan {called} bowotəna."
+      },
+      "start": "\"Hoto fuwube\" tanyigo hoto burobe bowotəro.",
+      "restart": "Biske bəlin badingə",
+      "squaresLegend": "Fotiwa falan kati fal kəlan",
+      "squares": "Fotiwa {n} ({side} lan {side})",
+      "cardsLegend": "Katiwa ndagu fətəktəro gade",
+      "cards": {
+        "one": "Kati {n}",
+        "other": "Katiwa {n}"
+      },
+      "print": {
+        "one": "Bingo kati {n} fətəkkə",
+        "other": "Bingo katiwa {n} fətəkkə"
+      },
+      "ready": "Kəlanzaro sətərəna sa raayindən",
+      "next": "Hoto fuwube",
+      "allCalled": "Hotowa sammaso bowotəna",
+      "alreadyCalled": "Bowotəna kəluro",
+      "sheetTitle": "Hoto bingo · kati {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Sa daawu kura watena yeyi njiwu yayiye, sa gana watena yeyi njiwu koljiye. Shi kəlanzən sa njiwu rakkə saanyiro daawin.",
+      "paceLegend": "Zande",
+      "paceSlow": "Laye (sakan 5 fado tilon)",
+      "paceGentle": "Kalaŋanyi (sakan 4 fado tilon)",
+      "ready": "Sa raaro gəratana",
+      "in": "Njiwu yayiye",
+      "hold": "Mazaaye",
+      "out": "Njiwu koljiye",
+      "start": "Badiye",
+      "stop": "Daaye",
+      "started": "Baditəna. Sa daawu kuruwatenan njiwu yayiye.",
+      "stopped": "Daatəna.",
+      "finished": "Adə njiwu laye rakkə. Sa raayiro walte badiye."
+    }
+  },
+  "pictures": {
+    "teacup": "Kofi",
+    "kettle": "Katili",
+    "bread": "Burodi",
+    "frying-pan": "Tawa kəla kwasolan",
+    "cake": "Kek",
+    "sunflower": "Fulawa kaŋuube",
+    "tulip": "Fulawa kime",
+    "watering-can": "Gada njibe",
+    "potted-plant": "Kuskwa kaskolan",
+    "tree": "Kəsga",
+    "bird": "Karege kəla caliyan",
+    "butterfly": "Kulaŋgəla",
+    "dog": "Kəri",
+    "cat": "Ngəmso",
+    "fish": "Bənyi",
+    "apple": "Tufaha kime",
+    "pear": "Kuskwa piyar",
+    "strawberry": "Suturoberi",
+    "banana": "Ayaba",
+    "lemon": "Lemu ngalaŋa",
+    "cherries": "Kuskwa ceri",
+    "house": "Fato",
+    "lamp": "Fitila tebulbe",
+    "armchair": "Kursa kura",
+    "key": "Saabi kurebe",
+    "umbrella": "Leda",
+    "sailboat": "Kwalgal mbejiye",
+    "car": "Mota kurebe",
+    "bicycle": "Kekeye",
+    "balloon": "Balun kawube",
+    "lighthouse": "Bəla fitilabe",
+    "sun": "Kəŋgu",
+    "moon": "Kəmbu kəla simawanlan",
+    "teapot": "Barki shabe",
+    "apple-pie": "Burodi tufahabe",
+    "honey-jar": "Kəmba kumusube",
+    "boiled-egg": "Kwaso kofinlan",
+    "toaster": "Naa burodi kalube",
+    "cheese": "Chizi cidaabe",
+    "milk-jug": "Kəle cibe",
+    "cupcake": "Kek gana",
+    "orange": "Lemu",
+    "grapes": "Inabi",
+    "watermelon": "Kangal",
+    "pineapple": "Ananas",
+    "peach": "Pici",
+    "rose": "Fulawa roz",
+    "daisies": "Fulawa dezi",
+    "mushroom": "Jiji",
+    "wheelbarrow": "Kurun kəskaabe",
+    "birdhouse": "Fato karegebe",
+    "cactus": "Kuskwa gərwaabe",
+    "acorn": "Kwaso kəsgabe",
+    "autumn-leaf": "Kəla kəsgabe cibe",
+    "rabbit": "Kənyerko",
+    "duck": "Burogo",
+    "hen": "Kuwi",
+    "sheep": "Dima",
+    "owl": "Zəne",
+    "ladybird": "Gurgur kime",
+    "snail": "Kokoli",
+    "frog": "Kogo",
+    "bee": "Kumusu",
+    "clock": "Agogo fatobe",
+    "vase-of-flowers": "Kwaskwa fulawabe",
+    "radio": "Rediyo kurebe",
+    "books": "Kətabuwa kəskulan",
+    "candle": "Kyandil",
+    "glasses": "Gilas karayebe",
+    "telephone": "Telifon",
+    "ball-of-wool": "Zəli gowobe",
+    "straw-hat": "Malafa kaŋuube",
+    "train": "Jirgi kənjaube",
+    "bus": "Bəsi",
+    "airplane": "Jirgi samibe",
+    "suitcase": "Akwati",
+    "tractor": "Tirakto",
+    "rowing-boat": "Kwalgal ganaye",
+    "rainbow": "Bisa kəŋgube",
+    "rain-cloud": "Luwel samibe",
+    "snowflake": "Kalaŋgə kibe",
+    "kite": "Pefeto kawube",
+    "sunrise": "Kəŋgu tuluro kəla kərigolan"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ADEGIKLMNORSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Nyawa",
+          "words": [
+            "LEMU",
+            "GOBA",
+            "INABI",
+            "AYABA",
+            "DIBIN",
+            "KASU",
+            "PICI",
+            "MANGU",
+            "GURJI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Kəlwa",
+          "words": [
+            "KƏSGA",
+            "KALA",
+            "KIDU",
+            "NJE",
+            "CIMA",
+            "ROZ",
+            "BEE",
+            "KULI",
+            "GURA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kusugu",
+          "words": [
+            "KOFI",
+            "SAJI",
+            "TAWA",
+            "KWASO",
+            "LEFA",
+            "SHA",
+            "KAYE",
+            "DAWU",
+            "BURO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Sami",
+          "words": [
+            "KƏŊGU",
+            "BISA",
+            "KAWU",
+            "LUWEL",
+            "KENJA",
+            "GARA",
+            "JIRI",
+            "LAFE",
+            "DALA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Dabbawa",
+          "words": [
+            "KƏRI",
+            "NGƏM",
+            "KUWI",
+            "BƏNYI",
+            "FIR",
+            "FE",
+            "KƏLA",
+            "DIMA",
+            "KOGO"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Fato",
+          "words": [
+            "FATO",
+            "KURSA",
+            "SAABI",
+            "KƏLA",
+            "LEDA",
+            "KULU",
+            "TULA",
+            "DALA",
+            "KATI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Karta sammaso",
+        "food": "Bari",
+        "home": "Fato",
+        "outdoors": "Dawa",
+        "animals": "Dabbawa",
+        "travel": "Leziya",
+        "work": "Cida ro ngəlaro",
+        "music": "Kaiya ro shawa",
+        "seasons": "Gərəwawa kurebe"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Bari awo ngondu kuskulan zaye ngonduwa kuruwuma?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kek awo kura baran yero kareye?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Nyawa dulin awo raayina tilon fuleye."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Sha au kofi kəlanzən nankaro yaa raaye?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Bari subabe ngəla awo yayi bəla gənayi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Nyawa kəla kəsgabelan kəlanzəro yisənaa?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Kumu au gwa: nduma raaro ngəla?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Bari kangebe kəlanzən gəna kəlan manatəna awo?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Fato kurelan napsənaa ngəla tilon fuleye."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Naa napsə raye kəlanzən ngəla fatolan ndara?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Duno kərmulan awo diwo raaye?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Awo rəwa kura akwati ganalan kəlanzən koljiye?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Sha yaye nankaro ndu bolesa fatolan?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Kou bisalan awo diwo raaye?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Fulawa awo kəlwalankaye gəna kəlan diwuma?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kəsga kura raayina tilon fuleye."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kəlwalan dazəna awo kəlanzən ngəla?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Fulawa kalanza nduma kəlanzən raaye?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Kuskwa fatolan gənawu raaye?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kou kaŋuube ngəla kəlan awo manasaa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kəri noona tilon kəlan fuleye."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Ngəmso au kəri: nduma raaye, awo nankaro?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Karege dawa kuruwuma au kurwuma?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Bənyi yikənaa au kuskulan rəgənaa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Dabba kəlanzən kərəngə kurunaa kəla manaye."
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Mota kəlanzən raayina tilon fuleye."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Kou nji kura fado lan dazə yaye kərigolan?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kekeyen lezaa raaye ndara?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Samilan fariyasaa, naa ndara kəlanzən kuruma?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Leziya raayina tilon fuleye."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Cida nduma kəlanzən diwo raayina?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Cida mazaabe sa ngəwu kəlanzən diwo raaye?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Awo kəlanzən tətənaa au garəna kəlan noonasa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Tadawa cidaro badisa nankaro wasiya awo yisə?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kaiya nduma shi kəlanzən shi zandero diyo raaye?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Karuwa ngəla awo yayi bəla gənaji?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kaimaye kəlanzən kurwo raayina tilon fuleye."
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Fim au shiri televisinbe walte kuruma nduma?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kange kəlanzən awo kuruwuma raaye?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kou binəmbe awo raaye?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Duno kəmbu kurebe awo mazaabe fatolan diwuma?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Gərəwa falan fəletəna awo kəlanzən buro?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Ki, bisa au kaŋgu: nduma kəlanzən raaye?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fulawa kaskolan",
+          "regions": {
+            "sky": "Kari fatobe",
+            "table": "Tebul",
+            "stem": "Kəlbu",
+            "leaf-left": "Kala waune",
+            "leaf-right": "Kala shimde",
+            "petal-1": "Kari fulawabe 1",
+            "petal-2": "Kari fulawabe 2",
+            "petal-3": "Kari fulawabe 3",
+            "petal-4": "Kari fulawabe 4",
+            "petal-5": "Kari fulawabe 5",
+            "petal-6": "Kari fulawabe 6",
+            "petal-7": "Kari fulawabe 7",
+            "petal-8": "Kari fulawabe 8",
+            "center": "Dawu fulawabe",
+            "pot": "Kwasko",
+            "pot-rim": "Ciri kwaskobe"
+          }
+        },
+        "house": {
+          "name": "Fato",
+          "regions": {
+            "sky": "Sami",
+            "sun": "Kəŋgu",
+            "grass": "Kaji",
+            "chimney": "Futu kənjaube",
+            "walls": "Karuwa",
+            "roof": "Fato cibe",
+            "door": "Gəna fato",
+            "window-left": "Dala waune",
+            "window-right": "Dala shimde",
+            "path": "Dabal"
+          }
+        },
+        "teacup": {
+          "name": "Kofi",
+          "regions": {
+            "background": "Kari fatobe",
+            "saucer": "Tasa gana",
+            "handle": "Ciri",
+            "cup": "Kofi",
+            "band": "Kari kofibe",
+            "tea": "Sha"
+          }
+        },
+        "butterfly": {
+          "name": "Kulaŋgəla",
+          "regions": {
+            "background": "Kari fatobe",
+            "wing-top-left": "Gəba sami waune",
+            "wing-top-right": "Gəba sami shimde",
+            "wing-bottom-left": "Gəba cidi waune",
+            "wing-bottom-right": "Gəba cidi shimde",
+            "spot-left": "Dala waune",
+            "spot-right": "Dala shimde",
+            "body": "Ruwo"
+          }
+        },
+        "sailboat": {
+          "name": "Kwalgal",
+          "regions": {
+            "sky": "Sami",
+            "sea": "Nji kura",
+            "sail-big": "Leda kura",
+            "sail-small": "Leda gana",
+            "mast": "Kəsga ledaabe",
+            "hull": "Kwalgal",
+            "flag": "Tuta"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kusugu ro kəlwa",
+          "baskets": [
+            "Kusuwulan",
+            "Karamgalan"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Tutuwa kuru dabbawa",
+          "baskets": [
+            "Tutuwa",
+            "Dabbawa"
+          ]
+        },
+        "home-travel": {
+          "label": "Fato kuru letə",
+          "baskets": [
+            "Fatolan",
+            "Dəgan"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Werengani mokweza",
+      "stopReading": "Lekani kuwerenga",
+      "region": "Masewera",
+      "restart": "Yambaninso",
+      "soundOn": "Phokoso lofewa latsegulidwa",
+      "soundOff": "Phokoso lofewa lazimitsidwa",
+      "done": "Zatha pano",
+      "feedbackQuestion": "Kodi izi zakuthandizani lero?",
+      "feedbackYes": "Inde",
+      "feedbackNo": "Ayi, si kwenikweni",
+      "feedbackThanks": "Zikomo potiuza."
+    },
+    "tile": {
+      "named": "{name}, chithunzi {n}",
+      "hidden": "Chithunzi chobisika, chithunzi {n}",
+      "withState": "{label}, {state}",
+      "matched": "Chafanana",
+      "selected": "Chasankhidwa",
+      "picture": "Chithunzi",
+      "photoNumber": "Chithunzi {n}"
+    },
+    "pairs": {
+      "allTogether": "Mapeya onse pamodzi. Sewerani kachiwiri kapena pumulani.",
+      "photoPair": "Awiri a zithunzi, pamodzi.",
+      "picturePair": "Zithunzi ziwiri za {name|lower}, pamodzi.",
+      "selected": "{name}. Tsopano pezani awiri ake.",
+      "mismatch": "Tengani nthawi yanu. Dinani chithunzi kuti mupitirize.",
+      "mismatchNamed": "{a} ndi {b}. Tengani nthawi yanu. Dinani chithunzi kuti mupitirize."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Dinani chithunzi, kenako dinani chimene chikufanana nacho.",
+      "guidanceHidden": "Dinani matailo awiri kuti muwatembenuze. Yang'anani awiri ofanana.",
+      "restart": "Zithunzi zatsopano",
+      "sizeLegend": "Matailo angati",
+      "size": {
+        "one": "{n} tailo",
+        "other": "{n} matailo"
+      },
+      "viewLegend": "Momwe mungasewerere",
+      "viewShowing": "Zithunzi zikuonekera",
+      "viewHidden": "Zithunzi zobisika",
+      "playAgain": "Sewerani kachiwiri ndi zithunzi zatsopano",
+      "talk": "Kambiranani za zithunzi pamodzi"
+    },
+    "choose": {
+      "countLegend": "Zithunzi zingati",
+      "count": "{n} zoti musankhe",
+      "thatOne": "Ameneyo ndi {name|lower}. Tengani nthawi yanu."
+    },
+    "findTheSame": {
+      "guidance": "Yang'anani chithunzi chili pamwamba. Dinani chofanana nacho chili pansi.",
+      "yes": "Inde, ndi {name|lower} yomweyo.",
+      "next": "Chithunzi chotsatira"
+    },
+    "shadowMatch": {
+      "guidance": "Yang'anani mthunzi uli pamwamba. Dinani chithunzi chimene chimapanga mthunzi umenewu.",
+      "yes": "Inde, {name|lower} imapanga mthunzi umenewo.",
+      "next": "Mthunzi wotsatira",
+      "shadowAlt": "Mthunzi woti ufanane nawo",
+      "foundAlt": "Mthunzi wa {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Dinani chithunzi, kenako dinani dengu limene chili nalo.",
+      "restart": "Zithunzi zatsopano",
+      "themeLegend": "Mutu",
+      "selected": "{name}. Tsopano dinani dengu limene chikalowamo.",
+      "pickFirst": "Choyamba dinani chithunzi, kenako dinani dengu.",
+      "hint": "{name|lower} ikhoza kukhala mu \"{basket}\". Dinani dengulo kuti muiike.",
+      "placed": "{name|lower} ili mu \"{basket}\".",
+      "sorted": "Zonse zasanjidwa. Yang'anani madengu pamodzi, kapena yesani mutu wina.",
+      "basket": {
+        "one": "Dengu la {basket}, chithunzi {count} mkati",
+        "other": "Dengu la {basket}, zithunzi {count} mkati"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Dinani chidutswa chimodzi, kenako dinani china. Zidzasinthana malo.",
+      "restart": "Sakanizaninso",
+      "pictureLegend": "Chithunzi",
+      "pictures": {
+        "sailboat": "Bwato lamphepo",
+        "house": "Nyumba",
+        "balloon": "Buloni",
+        "sunflower": "Mpendadzuwa",
+        "lighthouse": "Nyumba yowunikira",
+        "cat": "Mphaka"
+      },
+      "sizeLegend": "Zidutswa",
+      "size": {
+        "one": "{n} chidutswa",
+        "other": "{n} zidutswa"
+      },
+      "pickedUp": "Chidutswa chatengedwa. Tsopano dinani pamene chiyenera kukhala.",
+      "whole": "{name|lower} yabwerera yonse. Sankhani chithunzi china nthawi iliyonse mukafuna.",
+      "swapped": {
+        "one": "Zasinthana. {correct} mwa {total} chidutswa chili pamalo oyenera.",
+        "other": "Zasinthana. {correct} mwa {total} zidutswa zili pamalo oyenera."
+      },
+      "guideAlt": "Chithunzi chonse: {name}",
+      "guideText": "Chithunzicho chimaoneka motere chikakhala chonse.",
+      "piece": "Chidutswa chili ku {place}",
+      "pieceInPlace": ", chili pamalo oyenera",
+      "piecePickedUp": ", chatengedwa",
+      "places4": [
+        "kumanzere kwapamwamba",
+        "kumanja kwapamwamba",
+        "kumanzere kumunsi",
+        "kumanja kumunsi"
+      ],
+      "places9": [
+        "kumanzere kwapamwamba",
+        "pakati pa pamwamba",
+        "kumanja kwapamwamba",
+        "kumanzere kwapakati",
+        "pakati",
+        "kumanja kwapakati",
+        "kumanzere kumunsi",
+        "pakati pa pansi",
+        "kumanja kumunsi"
+      ],
+      "done": "Chithunzicho chabwerera chonse. Sewerani kachiwiri kapena pumulani.",
+      "playAgain": "Sakanizaninso"
+    },
+    "finishTheSaying": {
+      "guidance": "Werengani mwambi pamodzi, kenako dinani mawu omaliza amene amaukwaniritsa.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Inde, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nayonso ikugwira ntchito. Mwambi wodziwika umatha ndi \"{end}\".",
+      "revealed": "Mwambiwo ndi \"{start} {end}.\"",
+      "choicesLabel": "Sankhani mawu omaliza",
+      "show": "Onetsani kutha kwake",
+      "talk": "Kambiranani za izo: ",
+      "next": "Mwambi wotsatira"
+    },
+    "wordSearch": {
+      "guidance": "Mawu amayenda mopingasa kapena molunjika. Dinani kalata yoyamba ya mawu, kenako kalata yake yomaliza.",
+      "restart": "Pepala latsopano",
+      "themeLegend": "Mutu",
+      "sizeLegend": "Kukula kwa gridi",
+      "size": {
+        "one": "{n} ndi {n} ({words} liwu limodzi)",
+        "other": "{n} ndi {n} ({words} mawu)"
+      },
+      "print": "Sindikizani pepalali",
+      "letterChosen": "Kalata {letter} yasankhidwa. Tsopano dinani kalata yomaliza ya mawu.",
+      "found": "{word} yapezeka.",
+      "foundAll": "{word} yapezeka. Imeneyo ndi mawu onse. Sewerani kachiwiri kapena pumulani.",
+      "tryAgain": "Tengani nthawi yanu. Dinani kalata yoyamba ya mawu, kenako kalata yake yomaliza.",
+      "gridLabel": "Gridi ya makalata, mizere {n} ya makalata {n}. Gwiritsani mivi ya kiyibodi kusuntha pakati pa makalata.",
+      "cell": "{letter}, mzere {row}, kolamu {col}",
+      "cellFound": ", mbali ya mawu wopezeka",
+      "wordsHeading": "Mawu oti mupeze",
+      "wordFound": " (wapezeka)",
+      "sheetTitle": "Mawu obisika: {theme}",
+      "sheetNote": "Mawu amayenda mopingasa kapena molunjika.",
+      "unavailable": "Gridi ya makalata siyoyenera chinenero ichi, choncho mawu obisika sakupezeka pano. Yesani masewera a zithunzi m'malo mwake."
+    },
+    "coloring": {
+      "guidance": "Dinani mtundu, kenako dinani mbali ya chithunzi.",
+      "restart": "Chotsani mitundu",
+      "cleared": "Tsamba labwerera loyera.",
+      "pageLegend": "Tsamba",
+      "print": "Sindikizani tsamba ili",
+      "colorsLabel": "Mitundu",
+      "paintChosen": "{paint} yasankhidwa.",
+      "painted": "{part} tsopano ndi {paint|lower}.",
+      "artLabel": "{page}, mbali {count} zoti zipakidwe mtundu",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, sinapakidwe mtundu",
+      "paints": {
+        "red": "Wofiira",
+        "orange": "Lalanje",
+        "yellow": "Wachikasu",
+        "green": "Wobiriwira",
+        "blue": "Wabuluu",
+        "purple": "Wofiirira",
+        "pink": "Wapinki",
+        "brown": "Bulauni",
+        "sky-blue": "Wabuluu wa thambo",
+        "cream": "Wakhirimu",
+        "gray": "Wotuwa",
+        "white": "Woyera"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Werengani kadi mokweza. Palibe mayankho olondola.",
+      "position": "Kadi {n} mwa {total}",
+      "themeLegend": "Mutu",
+      "next": "Kadi yotsatira",
+      "previous": "Kadi yapitayi",
+      "print": "Sindikizani makadi onse",
+      "sheetTitle": "Makadi okambirana"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Yambani posankha zithunzi zanu.",
+      "guidance": "Dinani chithunzi, kenako dinani chimene chikufanana nacho.",
+      "restart": "Sakanizaninso",
+      "intro": "**Sankhani zithunzi 2 mpaka 6** kuchokera pa chipangizo ichi. Zimaonekera patsamba ili lokha ndipo sizikwezedwa kapena kusungidwa.",
+      "choose": "Sankhani zithunzi",
+      "chooseDifferent": "Sankhani zithunzi zina",
+      "clear": "Chotsani zithunzi",
+      "cleared": "Zithunzi zachotsedwa patsamba ili.",
+      "atLeastTwo": "Chonde sankhani zithunzi zosachepera ziwiri.",
+      "usingFirst": "Tikugwiritsa ntchito zithunzi {max} zoyambirira.",
+      "skipped": {
+        "one": "Fayilo {count} sinali chithunzi tingathe kuonetsa.",
+        "other": "Mafayilo {count} sanali zithunzi tingathe kuonetsa."
+      },
+      "playAgain": "Sewerani kachiwiri ndi zithunzizi",
+      "empty": "Zithunzi zanu zidzaoneka apa, chilichonse kawiri."
+    },
+    "pictureBingo": {
+      "guidance": "Sindikizani makadi poyamba. Kenako onetsani wowerengayo pa sikirini yayikulu kwambiri imene muli nayo.",
+      "called": {
+        "one": "{name}. Chithunzi {called} mwa {total} chayitanidwa.",
+        "other": "{name}. Zithunzi {called} mwa {total} zayitanidwa."
+      },
+      "start": "Dinani \"Chithunzi chotsatira\" kuti muyitane chithunzi choyamba.",
+      "restart": "Yambani masewera atsopano",
+      "squaresLegend": "Mabokosi pa khadi lililonse",
+      "squares": "Mabokosi {n} ({side} ndi {side})",
+      "cardsLegend": "Makadi angati osindikiza",
+      "cards": {
+        "one": "{n} kadi",
+        "other": "{n} makadi"
+      },
+      "print": {
+        "one": "Sindikizani kadi {n} ya bingo",
+        "other": "Sindikizani makadi {n} a bingo"
+      },
+      "ready": "Wakonzeka pamene mwakonzeka",
+      "next": "Chithunzi chotsatira",
+      "allCalled": "Zithunzi zonse zayitanidwa",
+      "alreadyCalled": "Zayitanidwa kale",
+      "sheetTitle": "Bingo ya zithunzi · kadi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Kokani mpweya pamene bwalo likukula, ndipo tulutsani pamene likucheperachepera. Lidzayima lokha pambuyo pa mpweya sikisi.",
+      "paceLegend": "Liwiro",
+      "paceSlow": "Pang'onopang'ono (masekondi 5 mbali iliyonse)",
+      "paceGentle": "Modekha (masekondi 4 mbali iliyonse)",
+      "ready": "Tiyambe pamene mwakonzeka",
+      "in": "Kokani mpweya",
+      "hold": "Pumulani",
+      "out": "Tulutsani mpweya",
+      "start": "Yambani",
+      "stop": "Imani",
+      "started": "Mwayamba. Kokani mpweya pamene bwalo likukula.",
+      "stopped": "Mwayima.",
+      "finished": "Imeneyo inali mpweya sikisi wodekha. Yambani kachiwiri nthawi iliyonse mukafuna."
+    }
+  },
+  "pictures": {
+    "teacup": "Kapu ya tiyi",
+    "kettle": "Ketulo",
+    "bread": "Mkate",
+    "frying-pan": "Chiwaya ndi dzira",
+    "cake": "Keke ya tsiku lobadwa",
+    "sunflower": "Duwa la dzuwa",
+    "tulip": "Tulipi yofiira",
+    "watering-can": "Chitini chothirira",
+    "potted-plant": "Chomera mumphika",
+    "tree": "Mtengo",
+    "bird": "Mbalame pa nthambi",
+    "butterfly": "Gulugufe",
+    "dog": "Galu",
+    "cat": "Mphaka",
+    "fish": "Nsomba yagolide",
+    "apple": "Apulo wofiira",
+    "pear": "Peyala",
+    "strawberry": "Sitiroberi",
+    "banana": "Nthochi",
+    "lemon": "Ndimu",
+    "cherries": "Zitumbuwa",
+    "house": "Nyumba",
+    "lamp": "Nyali ya patebulo",
+    "armchair": "Mpando wa mkono",
+    "key": "Kiyi wakale",
+    "umbrella": "Ambulera",
+    "sailboat": "Bwato la matanga",
+    "car": "Galimoto yakale",
+    "bicycle": "Njinga",
+    "balloon": "Buloni ya mpweya wotentha",
+    "lighthouse": "Nyali ya kunyanja",
+    "sun": "Dzuwa",
+    "moon": "Mwezi ndi nyenyezi",
+    "teapot": "Mphika wa tiyi",
+    "apple-pie": "Pai ya apulo",
+    "honey-jar": "Mtsuko wa uchi",
+    "boiled-egg": "Dzira mu kapu ya dzira",
+    "toaster": "Chowotchera mkate",
+    "cheese": "Chidutswa cha tchizi",
+    "milk-jug": "Mtsuko wa mkaka",
+    "cupcake": "Keke yaying'ono",
+    "orange": "Lalanje",
+    "grapes": "Mphesa",
+    "watermelon": "Chidutswa cha vwende",
+    "pineapple": "Chinanazi",
+    "peach": "Pichesi",
+    "rose": "Duwa la rozi",
+    "daisies": "Maluwa a daisi",
+    "mushroom": "Bowa",
+    "wheelbarrow": "Ngolo",
+    "birdhouse": "Nyumba ya mbalame",
+    "cactus": "Kakitasi mumphika",
+    "acorn": "Mtedza wa mtengo",
+    "autumn-leaf": "Tsamba lakugwa",
+    "rabbit": "Kalulu",
+    "duck": "Bakha",
+    "hen": "Nkhuku",
+    "sheep": "Nkhosa",
+    "owl": "Kadzidzi",
+    "ladybird": "Kachilombo kofiira",
+    "snail": "Nkhono",
+    "frog": "Chule",
+    "bee": "Njuchi",
+    "clock": "Wotchi ya pashelufu",
+    "vase-of-flowers": "Vaasi ya maluwa",
+    "radio": "Wailesi wakale",
+    "books": "Mulu wa mabuku",
+    "candle": "Kandulo",
+    "glasses": "Magalasi owerengera",
+    "telephone": "Foni",
+    "ball-of-wool": "Mpira wa ubweya",
+    "straw-hat": "Chipewa cha dzuwa",
+    "train": "Sitima ya nthunzi",
+    "bus": "Basi",
+    "airplane": "Ndege",
+    "suitcase": "Sutikesi",
+    "tractor": "Trakita",
+    "rowing-boat": "Bwato lopalasa",
+    "rainbow": "Utawaleza",
+    "rain-cloud": "Mtambo wa mvula",
+    "snowflake": "Chipale chofewa",
+    "kite": "Kaiti",
+    "sunrise": "Kutuluka kwa dzuwa pamwamba pa mapiri"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIJKLMNOPRSTUVWYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Zipatso",
+          "words": [
+            "APULO",
+            "PEYALA",
+            "MANGO",
+            "NDIMU",
+            "MPHESA",
+            "NKHUYU",
+            "VWENDE",
+            "NDIZI",
+            "KIWI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Dimba",
+          "words": [
+            "ROZI",
+            "TULIPI",
+            "MBEWU",
+            "NTHAKA",
+            "TSAMBA",
+            "MTENGO",
+            "DAISI",
+            "DZIWE",
+            "NJUCHI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Khitchini",
+          "words": [
+            "KAPU",
+            "SUPUNI",
+            "MKATE",
+            "POTO",
+            "MBIYA",
+            "MBALE",
+            "TIYI",
+            "UVUNI",
+            "FOLOKO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Nyengo",
+          "words": [
+            "DZUWA",
+            "MVULA",
+            "MPHEPO",
+            "MTAMBO",
+            "BINGU",
+            "NYENGO",
+            "UTSI",
+            "MPWEYA",
+            "DZINJA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Zinyama",
+          "words": [
+            "GALU",
+            "MPHAKA",
+            "NKHUKU",
+            "NSOMBA",
+            "KAVALO",
+            "NGOMBE",
+            "BAKHA",
+            "MBUZI",
+            "NYANI"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Kunyumba",
+          "words": [
+            "KHOMO",
+            "MPANDO",
+            "NYALI",
+            "BEDI",
+            "MPHASA",
+            "SOFA",
+            "WOTCHI",
+            "DESIKI",
+            "KIYI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Makhadi onse",
+        "food": "Chakudya",
+        "home": "Kunyumba",
+        "outdoors": "Kunja",
+        "animals": "Zinyama",
+        "travel": "Kuyenda",
+        "work": "Ntchito ndi zosangalatsa",
+        "music": "Nyimbo ndi zosangalatsa",
+        "seasons": "Nyengo"
+      },
+      "cards": [
+        {
+          "theme": "chakudya",
+          "picture": "bread",
+          "prompt": "Ndi fungo liti la kukhitchini lomwe mumakonda kwambiri?"
+        },
+        {
+          "theme": "chakudya",
+          "picture": "cake",
+          "prompt": "Mungasankhe keke yamtundu wanji pa phwando?"
+        },
+        {
+          "theme": "chakudya",
+          "picture": "apple",
+          "prompt": "Mundiuze za pai ya zipatso kapena chakudya chotsekemera chimene mumakonda."
+        },
+        {
+          "theme": "chakudya",
+          "picture": "teacup",
+          "prompt": "Mumakonda tiyi kapena khofi bwanji?"
+        },
+        {
+          "theme": "chakudya",
+          "picture": "frying-pan",
+          "prompt": "Nchiyani chimapangitsa chakudya cham'mawa kukhala chabwino?"
+        },
+        {
+          "theme": "chakudya",
+          "picture": "strawberry",
+          "prompt": "Kodi munayamba mwathyola zipatso mwachindunji pamtengo?"
+        },
+        {
+          "theme": "chakudya",
+          "picture": "lemon",
+          "prompt": "Chotsekemera kapena chowawasa: chiti chimene mumakonda kwambiri?"
+        },
+        {
+          "theme": "chakudya",
+          "picture": "cherries",
+          "prompt": "Ndi chakudya chiti chomwe chimakukumbutsani chilimwe?"
+        },
+        {
+          "theme": "kunyumba",
+          "picture": "house",
+          "prompt": "Mundiuze za nyumba yomwe munkakonda kukhalamo."
+        },
+        {
+          "theme": "kunyumba",
+          "picture": "armchair",
+          "prompt": "Ndi malo ati omwe mumakonda kukhalapo kuti mupumule?"
+        },
+        {
+          "theme": "kunyumba",
+          "picture": "lamp",
+          "prompt": "Mumakonda kuchita chiyani madzulo abata?"
+        },
+        {
+          "theme": "kunyumba",
+          "picture": "key",
+          "prompt": "Ndi chuma chiti chimene mungasunge m'bokosi lapadera?"
+        },
+        {
+          "theme": "kunyumba",
+          "picture": "kettle",
+          "prompt": "Mungaitane ndani kudzamwa tiyi?"
+        },
+        {
+          "theme": "kunyumba",
+          "picture": "umbrella",
+          "prompt": "Mumakonda kuchita chiyani pa tsiku lamvula?"
+        },
+        {
+          "theme": "kunja",
+          "picture": "sunflower",
+          "prompt": "Mungadzale maluwa otani m'munda?"
+        },
+        {
+          "theme": "kunja",
+          "picture": "tree",
+          "prompt": "Mundiuze za mtengo kapena paki yomwe mumakonda."
+        },
+        {
+          "theme": "kunja",
+          "picture": "watering-can",
+          "prompt": "Ndi mbali iti yabwino kwambiri yokhala m'munda?"
+        },
+        {
+          "theme": "kunja",
+          "picture": "tulip",
+          "prompt": "Maluwa amtundu wanji omwe mumakonda kwambiri?"
+        },
+        {
+          "theme": "kunja",
+          "picture": "potted-plant",
+          "prompt": "Kodi mumakonda kukhala ndi zomera m'nyumba?"
+        },
+        {
+          "theme": "kunja",
+          "picture": "sun",
+          "prompt": "Mukuganiza kuti tsiku ladzuwa labwino ndi lotani?"
+        },
+        {
+          "theme": "zinyama",
+          "picture": "dog",
+          "prompt": "Mundiuze za galu yemwe mudamudziwapo."
+        },
+        {
+          "theme": "zinyama",
+          "picture": "cat",
+          "prompt": "Amphaka kapena agalu, kapena palibe? Mumakonda chiyani mwa iwo?"
+        },
+        {
+          "theme": "zinyama",
+          "picture": "bird",
+          "prompt": "Ndi mbalame ziti zomwe mumaona kapena kumva kunja?"
+        },
+        {
+          "theme": "zinyama",
+          "picture": "fish",
+          "prompt": "Kodi munayamba mwapita kukasodza nsomba, kapena kusunga thanki ya nsomba?"
+        },
+        {
+          "theme": "zinyama",
+          "picture": "butterfly",
+          "prompt": "Ndi nyama iti yokongola kwambiri yomwe mudayiwonapo?"
+        },
+        {
+          "theme": "kuyenda",
+          "picture": "car",
+          "prompt": "Mundiuze za galimoto yomwe mumakonda."
+        },
+        {
+          "theme": "kuyenda",
+          "picture": "sailboat",
+          "prompt": "Mungakonde kukhala tsiku limodzi kugombe kapena kumapiri?"
+        },
+        {
+          "theme": "kuyenda",
+          "picture": "bicycle",
+          "prompt": "Mungakonde kupita kuti mukayende?"
+        },
+        {
+          "theme": "kuyenda",
+          "picture": "balloon",
+          "prompt": "Mukanatha kuwuluka pa malo aliwonse, ndi kuti kumene mukanapita?"
+        },
+        {
+          "theme": "kuyenda",
+          "picture": "lighthouse",
+          "prompt": "Ndi ulendo uti womwe munasangalala nawo?"
+        },
+        {
+          "theme": "ntchito",
+          "picture": "key",
+          "prompt": "Ndi ntchito yamtundu wanji yomwe munasangalala kuchita?"
+        },
+        {
+          "theme": "ntchito",
+          "picture": "watering-can",
+          "prompt": "Ndi chosangalatsa chiti chomwe mungathe kuchitapo maola ambiri?"
+        },
+        {
+          "theme": "ntchito",
+          "picture": "bread",
+          "prompt": "Ndi chinthu chiti chimene anthu ankakudziwani nacho chifukwa chopanga kapena kukonza?"
+        },
+        {
+          "theme": "ntchito",
+          "picture": "house",
+          "prompt": "Mungapatse malangizo ati munthu wachichepere yemwe akuyamba ntchito?"
+        },
+        {
+          "theme": "nyimbo",
+          "picture": "balloon",
+          "prompt": "Nyimbo zamtundu wanji zimakupangitsani kufuna kuponda phazi?"
+        },
+        {
+          "theme": "nyimbo",
+          "picture": "cake",
+          "prompt": "Nchiyani chimapangitsa phwando kukhala labwino?"
+        },
+        {
+          "theme": "nyimbo",
+          "picture": "lamp",
+          "prompt": "Ndi woimba uti yemwe mumakonda kumvetsera?"
+        },
+        {
+          "theme": "nyimbo",
+          "picture": "armchair",
+          "prompt": "Ndi kanema kapena pulogalamu ya pa TV iti yomwe mumakonda kuonanso?"
+        },
+        {
+          "theme": "nyengo",
+          "picture": "sun",
+          "prompt": "Mumakonda kwambiri chiyani pa chilimwe?"
+        },
+        {
+          "theme": "nyengo",
+          "picture": "tree",
+          "prompt": "Mumakondwera ndi chiyani pa nthawi yamasamba akugwa?"
+        },
+        {
+          "theme": "nyengo",
+          "picture": "moon",
+          "prompt": "Ndi chinthu chiti chosangalatsa kuchita madzulo a nthawi yozizira?"
+        },
+        {
+          "theme": "nyengo",
+          "picture": "tulip",
+          "prompt": "Kodi zizindikiro zoyamba za masika kwa inu ndi ziti?"
+        },
+        {
+          "theme": "nyengo",
+          "picture": "umbrella",
+          "prompt": "Chipale chofewa, mvula kapena dzuwa: chiti chimene mumakonda kwambiri?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Duwa mumphika",
+          "regions": {
+            "sky": "Kumbuyo",
+            "table": "Tebulo",
+            "stem": "Tsinde",
+            "leaf-left": "Tsamba lakumanzere",
+            "leaf-right": "Tsamba lakumanja",
+            "petal-1": "Tsamba la duwa 1",
+            "petal-2": "Tsamba la duwa 2",
+            "petal-3": "Tsamba la duwa 3",
+            "petal-4": "Tsamba la duwa 4",
+            "petal-5": "Tsamba la duwa 5",
+            "petal-6": "Tsamba la duwa 6",
+            "petal-7": "Tsamba la duwa 7",
+            "petal-8": "Tsamba la duwa 8",
+            "center": "Pakati pa duwa",
+            "pot": "Mphika",
+            "pot-rim": "Mphepete mwa mphika"
+          }
+        },
+        "house": {
+          "name": "Nyumba",
+          "regions": {
+            "sky": "Thambo",
+            "sun": "Dzuwa",
+            "grass": "Udzu",
+            "chimney": "Chitoliro cha utsi",
+            "walls": "Makoma",
+            "roof": "Denga",
+            "door": "Khomo",
+            "window-left": "Zenera lakumanzere",
+            "window-right": "Zenera lakumanja",
+            "path": "Njira"
+          }
+        },
+        "teacup": {
+          "name": "Kapu ya tiyi",
+          "regions": {
+            "background": "Kumbuyo",
+            "saucer": "Mbale ya kapu",
+            "handle": "Chogwirira",
+            "cup": "Kapu",
+            "band": "Mzere pa kapu",
+            "tea": "Tiyi"
+          }
+        },
+        "butterfly": {
+          "name": "Gulugufe",
+          "regions": {
+            "background": "Kumbuyo",
+            "wing-top-left": "Phiko lakumanzere lakumwamba",
+            "wing-top-right": "Phiko lakumanja lakumwamba",
+            "wing-bottom-left": "Phiko lakumanzere lakumunsi",
+            "wing-bottom-right": "Phiko lakumanja lakumunsi",
+            "spot-left": "Banga la phiko lakumanzere",
+            "spot-right": "Banga la phiko lakumanja",
+            "body": "Thupi"
+          }
+        },
+        "sailboat": {
+          "name": "Bwato la matanga",
+          "regions": {
+            "sky": "Thambo",
+            "sea": "Nyanja",
+            "sail-big": "Matanga akulu",
+            "sail-small": "Matanga ang'ono",
+            "mast": "Mtengo wa matanga",
+            "hull": "Bwato",
+            "flag": "Mbendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kukhitchini ndi kumunda",
+          "baskets": [
+            "M'khitchini",
+            "M'munda"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Zipatso ndi zinyama",
+          "baskets": [
+            "Zipatso",
+            "Zinyama"
+          ]
+        },
+        "home-travel": {
+          "label": "Kunyumba ndi maulendo",
+          "baskets": [
+            "Panyumba",
+            "Poyendayenda"
+          ]
+        }
+      }
+    }
+  }
+}

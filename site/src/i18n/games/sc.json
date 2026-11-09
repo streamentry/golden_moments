@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Càpias de figuras",
+    "seoTitle": "Giogu de assòtziu pro sa demèntzia: Càpias de figuras",
+    "h1": "Càpias de figuras: unu giogu delicadu de assòtziu",
+    "description": "Unu giogu de assòtziu de balàngiu e trancuillu pro sas persones chi bivent cun sa demèntzia. Sas figuras mannas abarrant semper visìbiles, no b'at rrellògiu nen puntegiu, e podides seberare dae 4 a 12 tacheddas.",
+    "short": "Agatade sas duas figuras chi sunt pretzisas. Sas figuras podent abarrare a bista.",
+    "players": "1 o 2 persones, a costadu a costadu",
+    "intro": "Tocade una figura, a pustis tocade cussa chi b'acàpiat paris. De règula sas figuras abarrant visìbiles, gasi no b'at bisonzu de si regordare nudda. Cando duas figuras andant paris, pigant una corsa dorada e unu sinnu de cunfirma.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Seberade cantas tacheddas impreare. Bator tacheddas est una manera trancuilla de comintzare.",
+      "Tocade una figura calesisiat. S'at a prenare de una corsa dorada.",
+      "Tocade sa figura chi paret sa matessi. Sa càpia abarrat paris cun unu sinnu de cunfirma.",
+      "Si sas duas figuras sunt diferentes, no acontesset nudda de malu. Torrade a tocare cando seis prontos.",
+      "Allumade «Figuras cuadas» petzi si a ambos bos praghet sa versione clàssica a cara a giosso."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Nomenade sas figuras a boghe arta paris e arresonade-nde: «Una tatzighedda russa pro su te. B'aghidides late a su te?»",
+      "Lassade chi siat sa persona chi azudades a tocare, fintzas si pigat unu pagu de tempus. Inditade a pìgiu imbetzes de tocare pro issa.",
+      "Abarrade cun bator tacheddas finas a cando bos paret bene. Pònnere prus tacheddas est un'iscòberu, mai unu livellu de cròmpere.",
+      "Acabade cando s'ativitate est galu praghentosa. Fintzas unu giogu solu est un'ativitate cumprida."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu rrellògiu o unu puntegiu?",
+        "a": "Nono. No b'at rrellògiu, puntegiu, contadore de mòvidas nen derrota. Podides firmare in cale si siat momentu, e si firmare a mesu caminu est una manera òtima de acabbare."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Proite sas figuras abarrant a bista?",
+        "a": "Mantènnere sas figuras visìbiles faghet bènnere su giogu un'ocasione de mirare e acumpagnare, imbetzes de si dèvere regordare. Medas persones lu agàtant prus serenu. Podides colare a sas figuras cuadas cun unu tocu solu, si preferides."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est de balàngiu, e b'at bisonzu de si registrare?",
+        "a": "Eja, est de balàngiu, e no b'at bisonzu de contu, registratzione o iscarrigamentu. Funtzionat in su navigadore web de unu telèfonu, tablet o computadore."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Podimus impreare sas fotos nostras de famìlia?",
+        "a": "Eja. Proade Càpias de fotos, chi bos permitet de seberare fotos dae su dispositivu bostru. Sas fotos abarrant in su navigadore bostru e no benint carrigadas a niunu logu."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Agatare sa matessi",
+    "seoTitle": "Agatare sa matessi figura: Giogu sèmplitze pro sa demèntzia",
+    "h1": "Agatare sa matessi figura",
+    "description": "Una figura in artu, dae duas a bator a suta. Tocade cussa chi est pretzisa. Unu giogu trancuillu e de balàngiu cun figuras pro persones chi bivent cun sa demèntzia, sena rrellògiu.",
+    "short": "Mirade sa figura in artu e tocade sa matessi a suta.",
+    "players": "1 o 2 persones",
+    "intro": "Una figura sola s'agatat in pitzu de s'ischermu. A suta b'at duas, tres o bator figuras. Tocade cussa chi est pretzisa. Est un'iscòberu sèmplitze a sa borta, cun meda tempus e ispàtziu pro faeddare.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Seberade duas, tres o bator figuras dae ue ischertare. Duas est sa manera prus sèmplitze.",
+      "Mirade sa figura in artu paris.",
+      "Tocade sa matessi figura a suta. Est sinnada cun una cunfirma e pagas paràulas de coru.",
+      "Si benit tocada una figura diferente, su giogu si lìmitat a la numenare e a abetare. Pigade-bos totu su tempus bostru.",
+      "Tocade «Figura imbeniente» cando seis prontos pro nch'inviare un'àtera."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Faeddade de cada figura prima de seberare: sos colores, sas formas, in ue si diat pòdere bìdere.",
+      "Duas alternativas no sunt «massa fàtziles». S'obietivu est unu momentu praghentosu, no una proa o una sfida.",
+      "Si tocare est difìtzile, sa persona podet inditare cun su pìgiu e bois podides tocare pro issa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu rrellògiu o unu puntegiu?",
+        "a": "Nono. No b'at rrellògiu, puntegiu, contadore de mòvidas nen derrota. Podides firmare in cale si siat momentu, e si firmare a mesu caminu est una manera òtima de acabbare."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ite acontesset si si tocat sa figura isballiada?",
+        "a": "Nudda de malu. No b'at suonos infadosos, rughes rùbias nen tremuladas. Su giogu nùmenat sa figura chi est istada tocada e abetat su tocu imbeniente."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est de balàngiu, e b'at bisonzu de si registrare?",
+        "a": "Eja, est de balàngiu, e no b'at bisonzu de contu, registratzione o iscarrigamentu. Funtzionat in su navigadore web de unu telèfonu, tablet o computadore."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Assòtziu de umbras",
+    "seoTitle": "Giogu de assòtziu de umbras pro sa demèntzia: De balàngiu in lìnia",
+    "h1": "Assòtziu de umbras: unu giogu trancuillu cun figuras",
+    "description": "Un'umbra iscura in artu, dae duas a bator figuras a suta. Tocade sa figura chi format s'umbra. Unu giogu de balàngiu e serenu de assòtziu de umbras pro sa demèntzia, sena rrellògiu.",
+    "short": "Mirade s'umbra e tocade sa figura chi la format.",
+    "players": "1 o 2 persones",
+    "intro": "S'assòtziu de umbras est un'ativitate connòschida dae sas fògias imprentadas, cunsertada inoghe cun figuras mannas e sena bisonzu de imprentare nudda. Un'umbra delicada s'agatat in pitzu de s'ischermu e duas, tres o bator figuras abetant a suta. Tocade cussa chi format s'umbra. Formas comente una bitzicleta, unu paràcua o una tatzighedda de te sunt fintzas fàtziles pro nde arresonare paris.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Seberade duas, tres o bator figuras dae ue ischertare. Duas est sa manera prus sèmplitze.",
+      "Mirade s'umbra paris. Ite forma tenet? Est arta o tunda?",
+      "Tocade sa figura chi format s'umbra. Su nùmene suo cumpartsit a suta de s'umbra.",
+      "Si benit tocada una figura diferente, su giogu si lìmitat a la numenare e a abetare. Pigade-bos totu su tempus bostru.",
+      "Tocade «Umbra imbeniente» cando seis prontos pro nch'inviare un'àtera."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Sighide sa lìnia de s'umbra cun su pìgiu e chistionade de sa forma.",
+      "Si oe sas umbras parent difìtziles, colade a Agatare sa matessi, in ue sas figuras sunt pretzisas.",
+      "Chistionade de sa figura a pustis chi l'azis agatada: «Nde tenìamus unu paris, de paràcua.»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu rrellògiu o unu puntegiu?",
+        "a": "Nono. No b'at rrellògiu, puntegiu, contadore de mòvidas nen derrota. Podides firmare in cale si siat momentu, e si firmare a mesu caminu est una manera òtima de acabbare."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Sa cumpanzia de ombras est bona pro persones chi biven cun sa dementzia?",
+        "a": "Pro calchi persone podet èssere un'afetzione piaghevole e semplitze, mancu si est in sos printzipios. Sas fromas si reconnoschent prus fàtzile de sas paraulas. Est pro gosu e pro cuntierru, no pro un'esàmene, e no curat nen rallentat sa dementzia. Si càusat fastìdiu, proa «Agata su matessi» o mira imàgines paritzos, in paghe."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ite faghet si si toccat un'imàgine sballiada?",
+        "a": "Nudda chi disgustet. Non b'at campanellu, cruche ruja nen tremu. Su zogu nomenat s'imàgine toccada e isettat s'àtera toccada."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est gratis, e tocat a m'iscrier?",
+        "a": "Eja, est gratis, e non b'at contu, iscritzione nen iscarrega. Funtzionat in su navigadore de sa rete in su telefonu, in sa tablet o in s'ordinadore."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Ordinare impare",
+    "seoTitle": "Zogu de ordinamentu pro dementzia: Ordinare impare",
+    "h1": "Ordinare impare: un'attividade de ordinamentu de imàgines",
+    "description": "Toca una imàgine, e pustis toca sa cesta in ue b'appartenet: sa cozina o s'ortu, sa frutta o sos animales. Un'attividade calma e gratis de ordinamentu pro persones chi biven cun sa dementzia.",
+    "short": "Pone cada imàgine in sa cesta sua: cozina o ortu, e àteras.",
+    "players": "1 o 2 persones",
+    "intro": "Ordinare est una faina familiare e sodisfatoria, comente a collocare sa ispesa o a paritzare carsettos. Toca una imàgine, e pustis toca sa cesta in ue b'appartenet. Non b'at fritta e non b'at isbàllu.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Sèbera unu tema: cozina e ortu, frutta e animales, o domo e viàgiu.",
+      "Toca una imàgine. Si cuberit de un'orla de oro.",
+      "Toca sa cesta in ue b'appartenet. Sa imàgine si moet in cudda cesta.",
+      "Si b'appartenet a s'àtera cesta, su zogu lu narat cun dulzura e isettat.",
+      "Cando onni imàgine est ordinada, bidete paritzos sas cestas."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "In sa vida reale no sunt semper rispostas faltas. Si calchi persone narat chi un'annaffiadora b'appartenet a sa cozina, pregunta proite. Podes intèndere una bella istòria.",
+      "Imprea sas imàgines comente incitu: «Ite as sèminadu in s'ortu?»",
+      "Ordinare cosas beras, comente cucchiaos e furchettas o butones pro colore, est un'ottima continuidade foras de s'ischermu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu cronòmetru o unu puntu?",
+        "a": "Nono. Non b'at rellògiu, puntu, contadore de movimentos nen perda. Podes firmare in cale si siat momentu, e firmare a mesu est un'manera pienamente bona de acabare."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Proite ordinare?",
+        "a": "Medas persones gosant ordinare ca paret una faina útile e familiare. Est fàtzile fàeddare de sas imàgines in su mentre chi s'ordinat."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est gratis, e tocat a m'iscrier?",
+        "a": "Eja, est gratis, e non b'at contu, iscritzione nen iscarrega. Funtzionat in su navigadore de sa rete in su telefonu, in sa tablet o in s'ordinadore."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle de imàgine",
+    "seoTitle": "Puzzle fàtzile pro dementzia: 4 o 9 petzos",
+    "h1": "Puzzle de imàgine: unu puzzle fàtzile",
+    "description": "Unu puzzle fàtzile in lìnia pro persones chi biven cun sa dementzia: 4 o 9 petzos mannos, s'imàgine intrea abarrat bida, e toccas duos petzos pro los cambiare.",
+    "short": "Toca duos petzos pro los cambiare fintzas a chi s'imàgine siat intrea.",
+    "players": "1 o 2 persones",
+    "intro": "Un'imàgine piaghevole est tallada in 4 o 9 petzos mannos e mìschida. S'imàgine intrea abarrat bida comente guia. Toca unu petzu, pustis un'àteru, e si cambiant de positzione. Non serve tirare.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Sèbera un'imàgine e 4 o 9 petzos. Cuatro est un'incumintzu dolche.",
+      "Mira s'imàgine intrea in subra.",
+      "Toca unu petzu, pustis toca su logu in ue depet andare. Sos duos petzos si cambiant.",
+      "Sos petzos in su logu giustu tenent unu signu de controllu piticu.",
+      "Cando s'imàgine est intrea, gòdala paritzos, pustis sèbera un'àtera."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Toccare duos petzos pro los cambiare est meda prus fàtzile de tirare pro tantas persones.",
+      "Fàeddade de s'imàgine in su mentre chi si cumpletat: «Bi est su tetu ruju.»",
+      "Unu puzzle de linnu betzu cun 12 a 24 petzos mannos est puru una bella faina de mesa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu cronòmetru o unu puntu?",
+        "a": "Nono. Non b'at rellògiu, puntu, contadore de movimentos nen perda. Podes firmare in cale si siat momentu, e firmare a mesu est un'manera pienamente bona de acabare."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Depo tirare sos petzos?",
+        "a": "Nono. Toca unu petzu, pustis un'àteru, e si cambiant de positzione. Est prus fàtzile cun sa manu chi tremat o in un'ischermu pitzinnu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est gratis, e tocat a m'iscrier?",
+        "a": "Eja, est gratis, e non b'at contu, iscritzione nen iscarrega. Funtzionat in su navigadore de sa rete in su telefonu, in sa tablet o in s'ordinadore."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Acabare su detu",
+    "seoTitle": "Acabare su detu: zogu de detos pro ancianos",
+    "h1": "Acabare su detu",
+    "description": "Detos inglesos familiares cun s'ultima paraula chi mancat, comente «A penny saved is a penny ___». Toca una risposta o ammustra sa fine, e pustis fàeddade de·nde.",
+    "short": "Acabade paritzos detos familiares, e pustis fàeddade de issos.",
+    "players": "1, 2 o unu grupu",
+    "intro": "Sos detos betzos sunt ispissu connotos pro totu sa vida. Gai carta ammustrat unu detu familiare cun s'ultima paraula chi mancat, tres rispostas, e unu butone «Ammustra sa fine». Dae sa fine, una pregunta dulze invitat a fàeddare.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lege in boche paritzos su detu.",
+      "Toca sa paraula chi l'acabat, o toca «Ammustra sa fine».",
+      "Lege torra su detu intreu e fàeddade de·nde cun sa pregunta.",
+      "Toca «Detu sighente» cando ses prontu."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lege a pagu a pagu e lassa una pausa innantis de s'ultima paraula. Ispissu sa persona la narat innantis de chi acabes tue.",
+      "Si calchi persone narat un'àtera fine, gòdala. Calchi versione de sos detos càmbiat pro familia o pro regione.",
+      "In unu grupu, una persona leghet e totus s'agiùnghent in sa fine."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu cronòmetru o unu puntu?",
+        "a": "Nono. Non b'at relògiu, puntegiu, contafatas o pèrdida. Si podet firmare in cale si siat momentu, e firmare a metade est una manera perfeta pro acabbare."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "E si sèberamus una paràula diferente?",
+        "a": "Su giogu ammostat s'acabu sòlitu e sighit cun sa conversatzione. Non b'at puntegiu, e una resposta diferente andat bene su matessi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est de balde, e tocat a s'iscriere?",
+        "a": "Eja, est de balde, e non b'at contu, iscrizione o iscàrrigu de programmas. Funtzionat in su navigadore web de unu telèfonu, tablet o carculadore."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Chircaparàulas a caràteres mannos",
+    "seoTitle": "Chircaparàulas a caràteres mannos pro sa demèntzia, de istampare",
+    "h1": "Chircaparàulas a caràteres mannos",
+    "description": "Unu chircaparàulas de balde a caràteres mannos pro personas antzianas e personas chi bivent cun sa demèntzia. Pagu paràulas, lìteras mannas, paràulas petzi in orizontale e in verticale. Giogade in lìnia o istampade.",
+    "short": "Lìteras mannas, pagu paràulas, petzi in orizontale e in verticale. Si podet fintzas istampare.",
+    "players": "1 o 2 personas",
+    "intro": "Una grìllia minore cun lìteras mannas e petzi pagas paràulas, totus de lèghere in orizontale o in verticale. Tocade sa prima lìtera de una paràula e a pustis s'ùrtima. Preferides sa carta? Istampade unu giogu nou cun unu tocu sceti.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Sèberade unu tema e sa grandesa de sa grìllia.",
+      "Castiade sa lista de sas paràulas. Sas paràulas si lèghent in orizontale (dae manca a dereta) o in verticale (dae subra a suta).",
+      "Tocade sa prima lìtera de una paràula, a pustis tocade s'ùrtima lìtera sua.",
+      "Una paràula agatada benit evidenziada e cantzellada dae sa lista.",
+      "Tocade \"Istampa custu puzzle\" pro giogare in sa carta cun unu làpis o unu pennareddu."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Inditade una paràula in sa lista e chircade sa prima lìtera sua impare.",
+      "In sa carta, un'evidenziadore est prus fàtzile de tènnere in manu de unu làpis.",
+      "Chistionade de sas paràulas de su tema. Sas paràulas subra de sa fruta sunt una manera naturale pro ammentare sa collida, sas retzetas de forru o sos mèrcios."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu cronòmetru o unu puntegiu?",
+        "a": "Nono. Non b'at relògiu, puntegiu, contafatas o pèrdida. Si podet firmare in cale si siat momentu, e firmare a metade est una manera perfeta pro acabbare."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Si podet istampare su chircaparàulas?",
+        "a": "Eja. Tocade \"Istampa custu puzzle\" pro istampare sa grìllia currente a caràteres mannos, cun sa lista de sas paràulas a suta. Ònnia puzzle nou est diferente."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est de balde, e tocat a s'iscriere?",
+        "a": "Eja, est de balde, e non b'at contu, iscrizione o iscàrrigu de programmas. Funtzionat in su navigadore web de unu telèfonu, tablet o carculadore."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Disinnos de colorare",
+    "seoTitle": "Disinnos de colorare pro adultos cun demèntzia (de balde)",
+    "h1": "Disinnos de colorare",
+    "description": "Disinnos sèmplitzes pro adultos cun àreas mannas de colorare: tocade una colore, a pustis tocade sa figura. Chena alladare nudda, chena colores faddidos, e ònnia fògiu si podet istampare de balde.",
+    "short": "Tocade una colore, a pustis una parte de sa figura. Si podent fintzas istampare sos fògios.",
+    "players": "1 o 2 personas",
+    "intro": "Fògios cun formas mannas e sèmplitzes: unu frore in su vasu, una domo, una tatzita de te, una mariposa e una barca a vela. Tocade una colore, a pustis tocade una parte de sa figura pro la prenare. Non b'at colores faddidos.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Sèberade unu fògiu.",
+      "Tocade una colore. Ònnia colore tenet su nùmene suo iscritu a subra.",
+      "Tocade una parte de sa figura pro la prenare cun cussa colore.",
+      "Podides mudare idea in cale si siat momentu prenende·la de nou.",
+      "Tocade \"Istampa custu fògiu\" pro tènnere una pàgina bianca de colorare cun làpis o pennareddos."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Proponide duas colores de sèberare imbetzes de totu su conzuntu si sèberare paret tropu difìtzile.",
+      "Àrbures biolas e solos biaitos sunt benebènnidos. Su puntu est a si gosare sas colores, no sa precisione.",
+      "Sos fògios istampados andant bene meda cun pennareddos grossos o pastellos a chera, chi sunt prus fàtziles de impunnare."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu cronòmetru o unu puntegiu?",
+        "a": "Nono. Non b'at relògiu, puntegiu, contafatas o pèrdida. Si podet firmare in cale si siat momentu, e firmare a metade est una manera perfeta pro acabbare."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Custos fògios sunt tropu infantiles?",
+        "a": "Amus disinnadu ogetos carmos e sèmplitzes imbetzes de fumetos, pro chi sos fògios siant adatos a personas adultas. Sas formas mannas faghent fàtzile su colorare chena pàrrere cosas de criaduras."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est de balde, e tocat a s'iscriere?",
+        "a": "Eja, est de balde, e non b'at contu, iscrizione o iscàrrigu de programmas. Funtzionat in su navigadore web de unu telèfonu, tablet o carculadore."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Cartas de conversatzione",
+    "seoTitle": "Ispuntos de conversatzione pro sa demèntzia: cartas cun figuras",
+    "h1": "Cartas de conversatzione",
+    "description": "Cartas cun figuras e ispuntos delicados de conversatzione pro personas chi bivent cun sa demèntzia: perunu introgheddu o esàmene, peruna resposta bona o faddida. Usade·las in s'ischermu o istampade su conzuntu intreu.",
+    "short": "Cartas cun figuras e preguntas abertas e delicadas. Chena preguntas de esàmene.",
+    "players": "2 personas o unu grupu",
+    "intro": "Ònnia carta ponet impare una figura connota cun un'invitu abertu a chistionare, comente «Cale est su tempus chi bos praghet de prus?». Non b'at respostadas giustas e nudda de si dèpere ammentare. Sèberade unu tema o ammisturade·las totus.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Sèberade unu tema, o lassade \"Totu sas cartas\".",
+      "Lèghede sa pregunta a boghe arta e castiade sa figura impare.",
+      "Iscurtade, narade sa resposta bosta, e lassade chi su chistionu currat lìberu.",
+      "Tocade \"Carta imbeniente\" cando seis prontos, o abarrade in sa matessi carta finas a cando bos praghet.",
+      "Tocade \"Istampa totu sas cartas\" pro segare unu conzuntu de carta."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Rispondide fintzas bois a sa pregunta. Paret una conversatzione e no un'intervista.",
+      "Sighide su contu, no sos fatos pretzisos. Si sos detàllios mudant, andat bene su matessi.",
+      "Si una carta tocat carchi cosa de tristu, acollide su sentimentu e colade a bellu a un'àtera carta."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Proite non b'at preguntas comente \"Bos ammentades de...?\"?",
+        "a": "Sas preguntas chi ponent a proa sa memòria podent pàrrere un'esàmene e dare afrenta. Invitos abertos comente «Contade·mi de...» permitint a chie si siat de pigare parte, cale si siat cosa s'ammentet."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Si podent istampare sas cartas?",
+        "a": "Eja. \"Istampa totu sas cartas\" istampat su conzuntu intreu a caràteres mannos, unas cantas cartas pro fògiu, prontos de segare."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est de balde, e tocat a s'iscriere?",
+        "a": "Eja, est gratuita, e non serbit contu, registru o iscarrigamentu. Funziunat in su navigadore de sa rete in su telefonu, sa tablet o s'ordenadore."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Parzos de fotos",
+    "seoTitle": "Faghe unu zogu de paris cun fotos de familia",
+    "h1": "Parzos de fotos: Paris sas fotos tuas",
+    "description": "Tramuda sas fotos de familia tuas in unu zogu de paris lene e dolche. Sèbera 2 a 6 fotos in su dispositivu tuo; restant in su navigadore tuo e no ddas carrigant mai.",
+    "short": "Sèbera sas fotos tuas e paris·las. Non si carrigat nudda.",
+    "players": "2 persones, un'a pare de s'àtera",
+    "intro": "Sèbera dae duas a ses fotos dae su telefonu, sa tablet o s'ordenadore, e diventant unu zogu de paris cun immagines mannas e craras. Sas fotos si bident isceti in custa pàgina. Non si carrigant, non si sarvant e non si cumpartzint, e isparessint cando serras sa pàgina.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Toca « Sèbera fotos » e sèbera dae duas a ses fotos.",
+      "Ogni foto paressit duas bortas. Toca una, poi toca sa parija sua.",
+      "Faeddade de cada foto cando dda agatas.",
+      "Cando as acabadu, serra sa pàgina o toca « Cantzella fotos ». Non si sarvat nudda."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Sèbera fotos craras de cosas connotas e de gustu: un animale, unu giardinu, unu logu preferidu, unu die de festa.",
+      "Fotos de logos e de oggetos sunt sòlitu prus fàciles de fàghere chi sas caras, e non pesant a nemos chi depet nòmenare persones.",
+      "Lassa foras fotos de persones mortas si podent dare dolore subitu, si no ischis chi dant cunfortu."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Sunt carrigadas in logu sas fotos mias?",
+        "a": "Non. Sa pàgina leghet sas fotos chi as sèberadu direttamente in su navigadore tuo e las amostat in s'ischermu. Non las mandamus a nois nè a nemos àteru, e isparessint cando serras o torras a carrigare sa pàgina."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "B'at unu rellozu o unu puntèggiu?",
+        "a": "Nono. Non b'at rellozu, puntèggiu, contadore de mossas nè perdida. Podes fermare in cale si momentu, e a fermare a mesu est unu modu bonu de acabare."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Pos sarvare su zogu pro sa borta chi benit?",
+        "a": "Non in su navigadore, pro custa ragione: chi nudda privadu si sarvet. S'aplicatzione Golden Moments gratuita pro iPhone e iPad podet cunservare copias de fotos sèberadas in su dispositivu tuo."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo de imàgines",
+    "seoTitle": "Bingo de imàgines pro anzianos cun dementzia: istampabile",
+    "h1": "Bingo de imàgines pro grupos",
+    "description": "Bingo de imàgines istampabile gratuitu pro grupos de anzianos e de cura de sa memòria, cun unu chiamadore mannu in s'ischermu. Imàgines mannas cun paràulas, 9 o 16 casellas, chene bisonzu de leghere.",
+    "short": "Cartones de bingo de imàgines istampabiles e chiamadore mannu pro grupos.",
+    "players": "Unu grupu de 2 a 30",
+    "intro": "Bingo klàssicu cun imàgines in logu de nùmeros, pro chi nemos depat leghere letras pitichinas. Istampa una serie de cartones diferentes, e imprea su chiamadore in s'ischermu pro amostare cada imagine manna in una televisione, unu laptop o una tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Sèbera 9 o 16 casellas pro cartone e cantos giogadores b'at.",
+      "Toca « Istampa cartones ». Cada cartone est diferente.",
+      "Aberi su chiamadore in un'ischermu mannu. Toca « Imagine sighente » pro amostare cada imagine cun su nomen sou.",
+      "Sos giogadores coèrrent sa imagine sua in su cartone cun una moneda, unu butone o unu marcadore.",
+      "Chie cumpletat una fila, o totu su cartone, sèberat unu aplàusu. In custa versione non b'at perdedores: sighide a giogare finas a chi tottus tenent una fila."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Imprea fichas mannas, comente dames o tapos de butiglia. Butones pitichinos faghent difficultade a los pigare.",
+      "Nomina s'imagine e narat unu pagu de cosa tua: « Unu barcu a vela. Chie est istadu in barcu? »",
+      "Pone in primu sas persones chi bident pagu, a pustis de s'ischermu, e acumpagna cun agiudu a chie nd'at bisonzu.",
+      "Noe casellas bastant pro sos prus grupos. Sa sessione dureret 20 a 30 minutos."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Comente fato a fàghere su bingo de imàgines in una domo de cura?",
+        "a": "Istampa unu cartone pro giogadore, pone su chiamadore in s'ischermu prus mannu chi tenes, e chiama sas imàgines a pacu a pacu, nomenende cada una. Sighi a giogare finas a chi tottus tenent una fila, gai chi nemos resessat foras."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Est gratuitu a istampare?",
+        "a": "Eja. Istampa cantos cartones ti serbint, cantas bortas bolis, pro usu personale o de grupu."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Podent giogare sas persones chene leghere?",
+        "a": "Eja. Onni casella est una imagine manna, cun su nomen a suta pro cussos chi preferint paràulas."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Respiru calmu",
+    "seoTitle": "Una pausa de respiru calmu pro anzianos e pro chi los curat",
+    "h1": "Una pausa de respiru calmu",
+    "description": "Una pausa de respiru lenta e chieta de cumpartzire: unu tundu lene crescet e minorat pro ses respiros. Tue l'incumintzas, e podes fermare cando boles.",
+    "short": "Unu tundu lentu pro respirare a pare. Cumintza e ferma cando ti praxit.",
+    "players": "1 o 2 persones",
+    "intro": "Medas bortas sa mezus atividade est una pausa chieta. Toca « Cumintza », e respira in cantu su tundu crescet, e òbila cantu si minorat. Podes sèberare unu ritmu prus lentu o prus lestru. Non est unu tratamentu, ma unu momentu serenu de cumpartzire.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sièntate a comodu, unu a costazu de s'àteru.",
+      "Sèbera unu ritmu: lentu o delicadu.",
+      "Toca « Cumintza ». Respira in cantu su tundu crescet, e òbila in cantu minorat.",
+      "Si fermat dae solu a fine de ses respiros, o toca « Ferma » cando boles."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Tene is manos o pone una manu in su bratzu de sa persona, si l'est gradida.",
+      "Mai a l'imponere. Si preferit a mirare, est bene gai.",
+      "Si unu tenet problemas de respiru, respira a sa normale e mira su tundu. Chere a unu mèdicu pro ogni preocupatzione de sa respiratzione."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Est un'esercitzu mèdicu de respiru?",
+        "a": "Nono. Est una pausa simpla e voluntària pro calmare e pro istare in cumpagnia. Non est unu tratamentu pro ansietate nè pro peruna malàida. Chere a unu mèdicu pro preocupatziones de salude."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Su tundu si movet chene chi l'incumintzo deo?",
+        "a": "No. No si movet nudda fintzas a tocare Start, e si firmat a pustis de ses respiradas o cando tocas Stop. Si su dispositivu tuo est impostadu pro reduire su movimentu, sas paràulas càmbiant sena chi su chircu crescat."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Est de balde, e tocat a m'iscrìere?",
+        "a": "Eja, est de balde, e no b'at bisòngiu de perunu contu, iscritzione o iscàrriga. Funtzionat deretu in su navigadore web de unu telèfonu, tablet o computadore."
       }
     ]
   }

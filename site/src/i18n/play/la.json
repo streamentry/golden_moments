@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Clare recita",
+      "stopReading": "Desine legere",
+      "region": "Ludus",
+      "restart": "Rursus incipe",
+      "soundOn": "Soni lenes aperti",
+      "soundOff": "Soni lenes clausi",
+      "done": "In praesens satis",
+      "feedbackQuestion": "Placuitne hoc hodie?",
+      "feedbackYes": "Ita",
+      "feedbackNo": "Non valde",
+      "feedbackThanks": "Gratias agimus quod sententiam dixisti."
+    },
+    "tile": {
+      "named": "{name}, tessera {n}",
+      "hidden": "Imago tecta, tessera {n}",
+      "withState": "{label}, {state}",
+      "matched": "Coniuncta",
+      "selected": "Electa",
+      "picture": "Imago",
+      "photoNumber": "Photographia {n}"
+    },
+    "pairs": {
+      "allTogether": "Omnia paria coniuncta sunt. Potes iterum ludere vel paulisper requiescere.",
+      "photoPair": "Duae photographiae coniunctae.",
+      "picturePair": "Duae imagines {name|lower} coniunctae.",
+      "selected": "{name}. Nunc alteram similem quaere.",
+      "mismatch": "Sine festinatione. Tange imaginem ut pergas.",
+      "mismatchNamed": "{a} et {b}. Sine festinatione. Tange imaginem ut pergas."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tange imaginem, deinde alteram similem tange.",
+      "guidanceHidden": "Tange duas tesseras ut vertantur. Duas similes quaere.",
+      "restart": "Novae imagines",
+      "sizeLegend": "Quot tesserae",
+      "size": {
+        "one": "{n} tessera",
+        "other": "{n} tesserae"
+      },
+      "viewLegend": "Quomodo ludatur",
+      "viewShowing": "Imagines apertae",
+      "viewHidden": "Imagines tectae",
+      "playAgain": "Iterum lude novis imaginibus",
+      "talk": "Una de imaginibus colloqui"
+    },
+    "choose": {
+      "countLegend": "Quot imagines",
+      "count": "{n} ex quibus eligere potes",
+      "thatOne": "Illa est {name|lower}. Sine festinatione."
+    },
+    "findTheSame": {
+      "guidance": "Aspice summam imaginem. Eandem infra tange.",
+      "yes": "Ita, eadem {name|lower}.",
+      "next": "Proxima imago"
+    },
+    "shadowMatch": {
+      "guidance": "Aspice summam umbram. Tange imaginem congruentem.",
+      "yes": "Ita, {name|lower} hanc umbram efficit.",
+      "next": "Proxima umbra",
+      "shadowAlt": "Umbra quaerenda",
+      "foundAlt": "Umbra: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tange imaginem, deinde corbem ad quem pertinet.",
+      "restart": "Novae imagines",
+      "themeLegend": "Argumentum",
+      "selected": "{name}. Nunc corbem aptum tange.",
+      "pickFirst": "Primum tange imaginem, deinde corbem.",
+      "hint": "{name|lower} in \"{basket}\" poni potest. Tange illum corbem ut ibi ponas.",
+      "placed": "{name|lower} in \"{basket}\" posita est.",
+      "sorted": "Omnia disposita sunt. Inspicite una corbes, vel aliud argumentum temptate.",
+      "basket": {
+        "one": "Corbis {basket}, {count} imago intus",
+        "other": "Corbis {basket}, {count} imagines intus"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tange unum frustum, deinde aliud. Loca inter se mutabunt.",
+      "restart": "Rursus permisce",
+      "pictureLegend": "Imago",
+      "pictures": {
+        "sailboat": "Navicula",
+        "house": "Domus",
+        "balloon": "Follis aërius",
+        "sunflower": "Helianthus",
+        "lighthouse": "Pharos",
+        "cat": "Feles"
+      },
+      "sizeLegend": "Frusta",
+      "size": {
+        "one": "{n} frustum",
+        "other": "{n} frusta"
+      },
+      "pickedUp": "Frustum sublatum est. Nunc tange locum quo poni debet.",
+      "whole": "{name|lower} rursus integra est. Aliam imaginem elige cum voles.",
+      "swapped": {
+        "one": "Mutatum est. {correct} ex {total} frusto in loco est.",
+        "other": "Mutatum est. {correct} ex {total} frustis in loco sunt."
+      },
+      "guideAlt": "Imago integra: {name}",
+      "guideText": "Haec est species imaginis integrae.",
+      "piece": "Frustum in {place}",
+      "pieceInPlace": ", in loco suo",
+      "piecePickedUp": ", sublatum",
+      "places4": [
+        "parte sinistra summa",
+        "parte dextra summa",
+        "parte sinistra ima",
+        "parte dextra ima"
+      ],
+      "places9": [
+        "parte sinistra summa",
+        "parte media summa",
+        "parte dextra summa",
+        "parte sinistra media",
+        "medio",
+        "parte dextra media",
+        "parte sinistra ima",
+        "parte media ima",
+        "parte dextra ima"
+      ],
+      "done": "Imago rursus integra est. Potes iterum ludere vel paulisper requiescere.",
+      "playAgain": "Rursus permisce"
+    },
+    "finishTheSaying": {
+      "guidance": "Una proverbium legite, deinde tange verbum quod id complet.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ita, \"{start} {end}.\"",
+      "otherEnding": "Etiam \"{word}\" convenit. Proverbium autem vulgo desinit in \"{end}\".",
+      "revealed": "Proverbium est \"{start} {end}.\"",
+      "choicesLabel": "Elige ultimum verbum",
+      "show": "Finem monstra",
+      "talk": "Colloquimini de hoc: ",
+      "next": "Proximum proverbium"
+    },
+    "wordSearch": {
+      "guidance": "Verba transverso aut deorsum spectant. Tange primam litteram verbi, deinde ultimam.",
+      "restart": "Novum aenigma",
+      "themeLegend": "Argumentum",
+      "sizeLegend": "Magnitudo cancellorum",
+      "size": {
+        "one": "{n} per {n} ({words} verbum)",
+        "other": "{n} per {n} ({words} verba)"
+      },
+      "print": "Imprime hoc aenigma",
+      "letterChosen": "Littera {letter} electa. Nunc ultimam litteram verbi tange.",
+      "found": "{word} inventum.",
+      "foundAll": "{word} inventum. Omnia verba inventa sunt. Potes iterum ludere vel paulisper requiescere.",
+      "tryAgain": "Sine festinatione. Tange primam litteram verbi, deinde ultimam.",
+      "gridLabel": "Cancellus litterarum, {n} ordines {n} litterarum. Clavibus sagittatis utere ad movendum inter litteras.",
+      "cell": "{letter}, ordo {row}, columna {col}",
+      "cellFound": ", pars verbi inventi",
+      "wordsHeading": "Verba quaerenda",
+      "wordFound": " (inventum)",
+      "sheetTitle": "Quaestio verborum: {theme}",
+      "sheetNote": "Verba transverso aut deorsum spectant.",
+      "unavailable": "Cancellus litterarum huic linguae minus convenit, ideo quaestio verborum hic non praebetur. Imagines potius temptate."
+    },
+    "coloring": {
+      "guidance": "Tange colorem, deinde partem imaginis.",
+      "restart": "Colores remove",
+      "cleared": "Pagina rursus pura est.",
+      "pageLegend": "Pagina",
+      "print": "Imprime hanc paginam",
+      "colorsLabel": "Colores",
+      "paintChosen": "{paint} electus.",
+      "painted": "{part} nunc {paint|lower} picta est.",
+      "artLabel": "{page}, {count} partes colorandae",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, non colorata",
+      "paints": {
+        "red": "Ruber",
+        "orange": "Aurantius",
+        "yellow": "Flavus",
+        "green": "Viridis",
+        "blue": "Caeruleus",
+        "purple": "Purpureus",
+        "pink": "Roseus",
+        "brown": "Fuscus",
+        "sky-blue": "Caelestis",
+        "cream": "Eburneus",
+        "gray": "Cinereus",
+        "white": "Albus"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Charta clara voce legatur. Responsa recta aut falsa non sunt.",
+      "position": "Charta {n} ex {total}",
+      "themeLegend": "Argumentum",
+      "next": "Proxima charta",
+      "previous": "Prior charta",
+      "print": "Imprime omnes chartas",
+      "sheetTitle": "Chartae colloquii"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Incipe photographias eligendo.",
+      "guidance": "Tange photographiam, deinde alteram similem tange.",
+      "restart": "Rursus permisce",
+      "intro": "**Elige 2 ad 6 photographias** ex hoc instrumento. In hac tantum pagina monstrantur neque umquam imponuntur aut servantur.",
+      "choose": "Elige photographias",
+      "chooseDifferent": "Alias photographias elige",
+      "clear": "Photographias remove",
+      "cleared": "Photographiae ex hac pagina remotae sunt.",
+      "atLeastTwo": "Quaesumus, saltem duas photographias elige.",
+      "usingFirst": "Primae {max} photographiae adhibentur.",
+      "skipped": {
+        "one": "{count} fasciculus non erat photographia quam monstrare possumus.",
+        "other": "{count} fasciculi non erant photographiae quas monstrare possumus."
+      },
+      "playAgain": "Iterum his photographiis lude",
+      "empty": "Hic apparebunt photographiae tuae, unaquaeque bis."
+    },
+    "pictureBingo": {
+      "guidance": "Primum chartas imprime. Deinde has imagines in maximo quem habes scrinio monstra.",
+      "called": {
+        "one": "{name}. {called} ex {total} imagine vocata.",
+        "other": "{name}. {called} ex {total} imaginibus vocatae."
+      },
+      "start": "Tange \"Proxima imago\" ut primam imaginem voces.",
+      "restart": "Novum ludum incipe",
+      "squaresLegend": "Quadra in quaque charta",
+      "squares": "{n} quadra ({side} per {side})",
+      "cardsLegend": "Quot chartae imprimendae sint",
+      "cards": {
+        "one": "{n} charta",
+        "other": "{n} chartae"
+      },
+      "print": {
+        "one": "Imprime {n} chartam bingo",
+        "other": "Imprime {n} chartas bingo"
+      },
+      "ready": "Paratum cum volueris",
+      "next": "Proxima imago",
+      "allCalled": "Omnes imagines vocatae sunt",
+      "alreadyCalled": "Iam vocata",
+      "sheetTitle": "Bingo imaginum · charta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspira lente dum circulus crescit, et exspira dum minor fit. Post sex spiritus sua sponte consistit.",
+      "paceLegend": "Modus",
+      "paceSlow": "Lentus (5 secundae utrimque)",
+      "paceGentle": "Lenis (4 secundae utrimque)",
+      "ready": "Paratus cum vis",
+      "in": "Inspira",
+      "hold": "Quiesce",
+      "out": "Exspira",
+      "start": "Incipe",
+      "stop": "Consiste",
+      "started": "Inceptum est. Inspira dum circulus crescit.",
+      "stopped": "Consistit.",
+      "finished": "Sex lenti spiritus perfecti sunt. Iterum incipe cum vis."
+    }
+  },
+  "pictures": {
+    "teacup": "Poculum theae",
+    "kettle": "Cucuma",
+    "bread": "Panis",
+    "frying-pan": "Sartago cum ovo",
+    "cake": "Torta natalicia",
+    "sunflower": "Helianthus",
+    "tulip": "Tulipa rubra",
+    "watering-can": "Nasiterna",
+    "potted-plant": "Planta in olla",
+    "tree": "Arbor",
+    "bird": "Rubecula in ramo",
+    "butterfly": "Papilio",
+    "dog": "Canis",
+    "cat": "Feles",
+    "fish": "Piscis aureus",
+    "apple": "Malum rubrum",
+    "pear": "Pirum",
+    "strawberry": "Fragum",
+    "banana": "Musa",
+    "lemon": "Limon",
+    "cherries": "Cerasa",
+    "house": "Domus",
+    "lamp": "Lucerna mensae",
+    "armchair": "Sella commoda",
+    "key": "Clavis vetus",
+    "umbrella": "Umbella",
+    "sailboat": "Navicula velifera",
+    "car": "Autocinetum vetus",
+    "bicycle": "Birota",
+    "balloon": "Globus aerostaticus",
+    "lighthouse": "Pharus",
+    "sun": "Sol",
+    "moon": "Luna et stellae",
+    "teapot": "Thearium",
+    "apple-pie": "Crustum mali",
+    "honey-jar": "Vas mellis",
+    "boiled-egg": "Ovum in ovivase",
+    "toaster": "Tostrum",
+    "cheese": "Caseus",
+    "milk-jug": "Urceus lactis",
+    "cupcake": "Placenta parva",
+    "orange": "Aurantium",
+    "grapes": "Racemus uvae",
+    "watermelon": "Frustum citrulli",
+    "pineapple": "Ananas",
+    "peach": "Persicum",
+    "rose": "Rosa",
+    "daisies": "Bellides",
+    "mushroom": "Fungus",
+    "wheelbarrow": "Pabo",
+    "birdhouse": "Nidus aviarius",
+    "cactus": "Cactus in olla",
+    "acorn": "Glans",
+    "autumn-leaf": "Folium autumnale",
+    "rabbit": "Cuniculus",
+    "duck": "Anas",
+    "hen": "Gallina",
+    "sheep": "Ovis",
+    "owl": "Bubo",
+    "ladybird": "Coccinella",
+    "snail": "Cochlea",
+    "frog": "Rana",
+    "bee": "Apis",
+    "clock": "Horologium mensae",
+    "vase-of-flowers": "Vas florum",
+    "radio": "Radiophonum vetus",
+    "books": "Aceruus librorum",
+    "candle": "Candela",
+    "glasses": "Perspicilla legendi",
+    "telephone": "Telephonum",
+    "ball-of-wool": "Glomus lanae",
+    "straw-hat": "Petasus solis",
+    "train": "Tramen vaporarium",
+    "bus": "Laophorium",
+    "airplane": "Aeroplanum",
+    "suitcase": "Vidulus",
+    "tractor": "Tractorium",
+    "rowing-boat": "Navicula remigii",
+    "rainbow": "Arcus caelestis",
+    "rain-cloud": "Nubes pluvia",
+    "snowflake": "Floccus nivis",
+    "kite": "Miluus chartaceus",
+    "sunrise": "Ortus solis super colles"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVX",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fructus",
+          "words": [
+            "MALUM",
+            "PIRUM",
+            "PRUNA",
+            "FICUS",
+            "CITRUM",
+            "UVA",
+            "MELO",
+            "MORUM",
+            "BACCA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Hortus",
+          "words": [
+            "ROSA",
+            "LILIUM",
+            "SEMEN",
+            "HUMUS",
+            "FOLIUM",
+            "ARBOR",
+            "HERBA",
+            "LACUS",
+            "APIS"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Culina",
+          "words": [
+            "CALIX",
+            "PANIS",
+            "OLLA",
+            "LANX",
+            "FURCA",
+            "SAL",
+            "OVA",
+            "VAS",
+            "MEL"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tempestas",
+          "words": [
+            "SOL",
+            "PLUVIA",
+            "NIX",
+            "VENTUS",
+            "NUBES",
+            "IMBER",
+            "NEBULA",
+            "TEPOR",
+            "AESTUS"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animalia",
+          "words": [
+            "CANIS",
+            "FELES",
+            "AVIS",
+            "PISCIS",
+            "EQUUS",
+            "VACCA",
+            "ANAS",
+            "CAPRA",
+            "OVIS"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Domus",
+          "words": [
+            "IANUA",
+            "SELLA",
+            "LAMPAS",
+            "LECTUS",
+            "TAPES",
+            "MENSA",
+            "CLAVIS",
+            "FOCUS",
+            "CUBILE"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Omnes chartae",
+        "food": "Cibus",
+        "home": "Domus",
+        "outdoors": "Sub divo",
+        "animals": "Animalia",
+        "travel": "Itinera",
+        "work": "Labor et studia",
+        "music": "Musica et oblectamenta",
+        "seasons": "Tempora anni"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Quis odor e culina tibi maxime placet?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Qualem tortam ad celebrationem eligeres?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Narra de placenta aut dulci fructuum quod tibi placet."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Quomodo theam aut caffeam bibere soles?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Quid ientaculum bonum facit?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Numquamne fructus ex ipsa planta legisti?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dulce an acidum: utrum magis tibi placet?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Quis cibus tibi aestatem in memoriam revocat?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Narra de domo in qua libenter habitavisti."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ubi libentissime sedes ut quiescas?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Quid facere amas vespere tranquillo?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Quid carum in cista propria servares?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Quem ad poculum theae invitares?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Quid facere amas die pluvio?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Quos flores in horto sereres?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Narra de arbore aut loco viridi quem amas."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Quid tibi maxime placet in horto esse?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Quorum colorum flores tibi maxime placent?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Placetne tibi plantas in domo habere?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Qualis dies apricus tibi optimus videtur?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Narra de cane quem novisti."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Feles an canes, an neutri? Quid de eis tibi placet?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Quas aves foris vides aut audis?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Numquamne pisces cepisti, aut piscinam parvam habuisti?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Quod animal pulcherrimum vidisti?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Narra de autocineto quod tibi placuit."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Mallesne diem ad litus an in montibus agere?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Quo vehi libenter velles?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Si super quemlibet locum volare posses, quo ires?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Narra de itinere quod tibi placuit."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Quale opus libenter fecisti?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Quod studium est in quo multas horas agere potes?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Quid facere aut reficere bene solebas?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Quod consilium iuveni opus incipienti dares?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Qualis musica te movet ut pedes pulses?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Quid convivium bonum facit?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Quis cantor est quem libenter audis?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Quae pellicula aut series televisifica tibi iterum spectanda placet?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Quid tibi maxime de aestate placet?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Quid tibi de autumno placet?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Quid suave facere potes vespere hiberno?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Quae sunt prima veris signa tibi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nix, pluvia an sol: quid mavis?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flos in olla",
+          "regions": {
+            "sky": "Fundus",
+            "table": "Mensa",
+            "stem": "Caulis",
+            "leaf-left": "Folium sinistrum",
+            "leaf-right": "Folium dextrum",
+            "petal-1": "Petalum 1",
+            "petal-2": "Petalum 2",
+            "petal-3": "Petalum 3",
+            "petal-4": "Petalum 4",
+            "petal-5": "Petalum 5",
+            "petal-6": "Petalum 6",
+            "petal-7": "Petalum 7",
+            "petal-8": "Petalum 8",
+            "center": "Medium floris",
+            "pot": "Olla",
+            "pot-rim": "Ora ollae"
+          }
+        },
+        "house": {
+          "name": "Domus",
+          "regions": {
+            "sky": "Caelum",
+            "sun": "Sol",
+            "grass": "Herba",
+            "chimney": "Caminus",
+            "walls": "Parietes",
+            "roof": "Tectum",
+            "door": "Ianua",
+            "window-left": "Fenestra sinistra",
+            "window-right": "Fenestra dextra",
+            "path": "Semita"
+          }
+        },
+        "teacup": {
+          "name": "Poculum theae",
+          "regions": {
+            "background": "Fundus",
+            "saucer": "Patella",
+            "handle": "Ansa",
+            "cup": "Poculum",
+            "band": "Linea in poculo",
+            "tea": "Thea"
+          }
+        },
+        "butterfly": {
+          "name": "Papilio",
+          "regions": {
+            "background": "Fundus",
+            "wing-top-left": "Ala superior sinistra",
+            "wing-top-right": "Ala superior dextra",
+            "wing-bottom-left": "Ala inferior sinistra",
+            "wing-bottom-right": "Ala inferior dextra",
+            "spot-left": "Macula alae sinistrae",
+            "spot-right": "Macula alae dextrae",
+            "body": "Corpus"
+          }
+        },
+        "sailboat": {
+          "name": "Navicula velifera",
+          "regions": {
+            "sky": "Caelum",
+            "sea": "Mare",
+            "sail-big": "Velum magnum",
+            "sail-small": "Velum parvum",
+            "mast": "Malus",
+            "hull": "Navicula",
+            "flag": "Vexillum"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Culina et hortus",
+          "baskets": [
+            "In culina",
+            "In horto"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fructus et animalia",
+          "baskets": [
+            "Fructus",
+            "Animalia"
+          ]
+        },
+        "home-travel": {
+          "label": "Domus et itinera",
+          "baskets": [
+            "Domi",
+            "Foris"
+          ]
+        }
+      }
+    }
+  }
+}

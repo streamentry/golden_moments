@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Diitsʼaʼgo yíníłtaʼ",
+      "stopReading": "Kʼad doo yíníłtaʼ da",
+      "region": "Naané",
+      "restart": "Áłtséédą́ą́ʼ náánádoodlííł",
+      "soundOn": "Hazhóʼógo diitsʼaʼígíí hólǫ́",
+      "soundOff": "Hazhóʼógo diitsʼaʼígíí dooda",
+      "done": "Kʼad díí ałtso",
+      "feedbackQuestion": "Díísh díí jį́ níká eelwod?",
+      "feedbackYes": "Aooʼ",
+      "feedbackNo": "Tʼáadoo ałtso daatsʼí",
+      "feedbackThanks": "Ahéheeʼ bee nihił hodíilnih."
+    },
+    "tile": {
+      "named": "{name}, yisdzo {n}",
+      "hidden": "Eʼelyaaígíí nanilkaad, yisdzo {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ałhą́ą́h aheeltʼé",
+      "selected": "Bikʼi nidiilwod",
+      "picture": "Eʼelyaaígíí",
+      "photoNumber": "Eʼelyaaígíí {n}"
+    },
+    "pairs": {
+      "allTogether": "Ałtsogóó ałhą́ą́h ahihilyaa. Náánáodaah doodaiiʼ hanáádahoołtsʼih.",
+      "photoPair": "Eʼelyaaígíí ałhą́ą́h aheeltʼéego naakigo ahihilyaa.",
+      "picturePair": "{name|lower} naakigo ahihilyaa.",
+      "selected": "{name}. Kʼad baʼałhą́ą́h aheeltʼéhígíí háadíshį́į́ hánítá.",
+      "mismatch": "Tʼáadoo yiníłhíní. Eʼelyaaígíí bikʼi dah didíilnihgo tʼóó náádiidáał dooleeł.",
+      "mismatchNamed": "{a} dóó {b}. Tʼáadoo yiníłhíní. Eʼelyaaígíí bikʼi dah didíilnih."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Eʼelyaaígíí tʼááłáʼí bikʼi dah didíilnih, áádóó aheeltʼéhígíí ałdóʼ bikʼi dah didíilnih.",
+      "guidanceHidden": "Yisdzo naakigo bikʼi dah didíilnihgo nídiidáał. Naakigo ałhą́ą́h aheeltʼéhígíí hánítá.",
+      "restart": "Eʼelyaaígíí ániidígíí",
+      "sizeLegend": "Díkwíí yisdzo átʼé",
+      "size": {
+        "one": "{n} yisdzo átʼé",
+        "other": "{n} yisdzo átʼé"
+      },
+      "viewLegend": "Kótʼéego nidaʼanée dooleeł",
+      "viewShowing": "Eʼelyaaígíí yitʼį́",
+      "viewHidden": "Eʼelyaaígíí tʼóó nanilkaad",
+      "playAgain": "Eʼelyaaígíí ániidígíí bee náánáodaah",
+      "talk": "Eʼelyaaígíí ałhą́ą́h baa yádadiiltih"
+    },
+    "choose": {
+      "countLegend": "Díkwíí eʼelyaaígíí hólǫ́",
+      "count": "{n} bitsʼą́ą́dóó náhódidooltsił",
+      "thatOne": "Díí éí {name|lower} átʼé. Tʼáadoo yiníłhíní."
+    },
+    "findTheSame": {
+      "guidance": "Wódahdi eʼelyaaígíí yishʼį́. Wóyahgigo aheeltʼéhígíí bikʼi dah didíilnih.",
+      "yes": "Aooʼ, tʼáá aheeltʼéhígíí {name|lower} átʼé.",
+      "next": "Eʼelyaaígíí náánáłaʼ"
+    },
+    "shadowMatch": {
+      "guidance": "Wódahdi chahaʼohígíí yishʼį́. Eʼelyaaígíí chahaʼoh áyósinígíí bikʼi dah didíilnih.",
+      "yes": "Aooʼ, {name|lower} éí díí chahaʼoh áyósin.",
+      "next": "Chahaʼoh náánáłaʼ",
+      "shadowAlt": "Chahaʼoh aheeltʼéego hánítá",
+      "foundAlt": "{name|lower} bichahaʼoh"
+    },
+    "sortTogether": {
+      "guidance": "Eʼelyaaígíí tʼááłáʼí bikʼi dah didíilnih, áádóó tsʼil bąąh siláa dooleełígíí bikʼi dah didíilnih.",
+      "restart": "Eʼelyaaígíí ániidígíí",
+      "themeLegend": "Baa dahaneʼígíí",
+      "selected": "{name}. Kʼad tsʼil biiʼ dooleełígíí bikʼi dah didíilnih.",
+      "pickFirst": "Áłtsé eʼelyaaígíí bikʼi dah didíilnih, ákóndi tsʼil bikʼi dah didíilnih.",
+      "hint": "{name|lower} éí \"{basket}\" biiʼ dooleeł átʼé. Ákweʼé tsʼil bikʼi dah didíilnih.",
+      "placed": "{name|lower} éí \"{basket}\" biiʼ silá.",
+      "sorted": "Tʼáá ałtso hazhóʼó ałhą́ą́h aheeltʼéego ałtso ahihilyaa. Tsʼil biiʼ tʼáá ałtsoní nidaazhbaʼ, doodaiiʼ náánáłaʼ baa dahaneʼígíí naʼaah.",
+      "basket": {
+        "one": "Tsʼil \"{basket}\" wolyéhígíí, {count} eʼelyaaígíí biiʼ silá",
+        "other": "Tsʼil \"{basket}\" wolyéhígíí, {count} eʼelyaaígíí biiʼ silá"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tʼááłáʼí bił aheedleehígíí bikʼi dah didíilnih, áádóó náánáłaʼ bikʼi dah didíilnih. Ałkʼi nináʼaash.",
+      "restart": "Nááná bił táidooltsiis",
+      "pictureLegend": "Eʼelyaaígíí",
+      "pictures": {
+        "sailboat": "Tsinaaʼeeł",
+        "house": "Kin",
+        "balloon": "Dah naatʼaʼí",
+        "sunflower": "Ndaayai",
+        "lighthouse": "Kin diltłiʼí",
+        "cat": "Mósí"
+      },
+      "sizeLegend": "Ałtsʼádaaztʼiʼígíí",
+      "size": {
+        "one": "{n} aheedleehígíí",
+        "other": "{n} aheedleehígíí"
+      },
+      "pickedUp": "Tʼááłáʼí dah nidiitą́. Kʼad háadíshį́į́ siʼą́ą dooleełígíí bikʼi dah didíilnih.",
+      "whole": "{name|lower} ałtso aheehootʼé. Tʼáá nínizinígíí bikʼehgo náánáłaʼ eʼelyaaígíí nídidooltsił.",
+      "swapped": {
+        "one": "Ałchin nahaasneʼ. {correct} / {total} yisdzo tʼáá ákótʼéego aheehootʼé.",
+        "other": "Ałchin nahaasneʼ. {correct} / {total} yisdzo tʼáá ákótʼéego aheehootʼé."
+      },
+      "guideAlt": "Tʼáá ałtso aheehootʼéhígíí: {name}",
+      "guideText": "Ałtso ahididzaago kótʼéego eʼelyaaígíí yitʼį́.",
+      "piece": "{place} góneʼ siláa dooleełígíí",
+      "pieceInPlace": ", tʼáá ákótʼéego hazhóʼó aheehootʼé",
+      "piecePickedUp": ", dah nidiitą́",
+      "places4": [
+        "wódahgo nishʼnáajigo",
+        "wódahgo nishtłʼahjigo",
+        "wóyahgo nishʼnáajigo",
+        "wóyahgo nishtłʼahjigo"
+      ],
+      "places9": [
+        "wódahgo nishʼnáajigo",
+        "wódahgo ałnííʼ góneʼ",
+        "wódahgo nishtłʼahjigo",
+        "ałnííʼ góneʼ nishʼnáajigo",
+        "tʼáá ałnííʼ góneʼ",
+        "ałnííʼ góneʼ nishtłʼahjigo",
+        "wóyahgo nishʼnáajigo",
+        "wóyahgo ałnííʼ góneʼ",
+        "wóyahgo nishtłʼahjigo"
+      ],
+      "done": "Eʼelyaaígíí tʼáá ałtso aheehootʼé náánádzaa. Náánáodaah doodaiiʼ hanáádahoołtsʼih.",
+      "playAgain": "Nááná bił aheedoohnił"
+    },
+    "finishTheSaying": {
+      "guidance": "Saad ałhą́ą́h yíníłtaʼ, áádóó saad bee ałtso nídidooltsiłígíí bikʼi dah didíilnih.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Aooʼ, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" ałdóʼ yáʼátʼééh. Ndi tʼáá ahąąh bee haʼoodzíʼígíí éí \"{end}\" átʼé.",
+      "revealed": "Saad kótʼéego haʼoodzíʼ: \"{start} {end}.\"",
+      "choicesLabel": "Saad akééʼgóó bee ałtsonígíí nídidooltsił",
+      "show": "Kótʼéego nitsé bee ałtso haʼní",
+      "talk": "Díí baa yádaatiʼ: ",
+      "next": "Saad bee haʼoodzíʼ náánáłaʼ"
+    },
+    "wordSearch": {
+      "guidance": "Saad naniigo doodaiiʼ yaago naazhchʼąąʼ. Saad biłtséhígíí saad bee naazhchʼąʼígíí bikʼi dah didíilnih, áádóó akééʼdóóígíí bikʼi dah didíilnih.",
+      "restart": "Saad naané ániidígíí",
+      "themeLegend": "Baa dahaneʼígíí",
+      "sizeLegend": "Bikááʼ naazhchʼąʼígíí",
+      "size": {
+        "one": "{n} dóó {n} ({words} saad hólǫ́)",
+        "other": "{n} dóó {n} ({words} saad dahólǫ́)"
+      },
+      "print": "Díí saad naané naaltsoos bee hadidoolíił",
+      "letterChosen": "Saad naazhchʼąʼígíí {letter} bikʼi nidiilwod. Kʼad saad bee ałtso naniigo bikʼi dah didíilnih.",
+      "found": "{word} bikʼíhooltsą́.",
+      "foundAll": "{word} bikʼíhooltsą́. Tʼáá ałtso saad bikʼíhooltsą́. Náánáodaah doodaiiʼ hanáádahoołtsʼih.",
+      "tryAgain": "Tʼáadoo yiníłhíní. Saad biłtséhígíí bikʼi dah didíilnih, ákóndi akééʼdóóígíí ałdóʼ bikʼi dah didíilnih.",
+      "gridLabel": "Saad bee naazhchʼąʼígíí, {n} naniigo dóó {n} yaago silá. Saad bitsʼą́ą́dóó naʼadáago bighánítʼiʼ.",
+      "cell": "{letter}, naniigo {row}, yaago {col}",
+      "cellFound": ", saad bikʼíhooltsą́ʼígíí bił silá",
+      "wordsHeading": "Saad hánítáhígíí",
+      "wordFound": " (bikʼíhooltsą́)",
+      "sheetTitle": "Saad hánítáhígíí: {theme}",
+      "sheetNote": "Saad naniigo doodaiiʼ yaago naazhchʼąąʼ.",
+      "unavailable": "Díí bizaad kótʼéego saad bee aheedleehígíí doo aheełtʼéeda, éí bąą saad hánítáhígíí kwéʼé doo hólǫ́ da. Tʼáá shǫǫdí eʼelyaaígíí bee nidaʼanéhígíí ninaah."
+    },
+    "coloring": {
+      "guidance": "Bikʼi dah ndoolhoshígíí bikʼi dah didíilnih, áádóó eʼelyaaígíí łaʼ dah didíilnihgo bikʼi dínóolhosh.",
+      "restart": "Bikʼi nahashchʼąąʼígíí tʼáá ałtso tʼóó kótʼéego ánáádlįįh",
+      "cleared": "Naaltsoos bikááʼ tʼáadoo bikʼi nahashchʼąąʼí da ánáádzaa.",
+      "pageLegend": "Naaltsoos bikááʼ",
+      "print": "Díí naaltsoos bee hadidoolíił",
+      "colorsLabel": "Nidaashchʼą́ąʼígíí",
+      "paintChosen": "{paint} bikʼi nidiilwod.",
+      "painted": "{part} éí kʼad {paint|lower} átʼéego nahooshchʼąąʼ.",
+      "artLabel": "{page}, {count} dah shijaaʼígíí bikʼi dah ndoolhosh",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, tʼáadoo nahooshchʼąąʼí da",
+      "paints": {
+        "red": "Łichííʼ",
+        "orange": "Łitsxo",
+        "yellow": "Łitso",
+        "green": "Tátłʼid / Chʼilgo dootłʼizh",
+        "blue": "Dootłʼizh",
+        "purple": "Tsédídééh",
+        "pink": "Dinilchííʼ",
+        "brown": "Yishtłizh",
+        "sky-blue": "Yágo dootłʼizh",
+        "cream": "Łigai diniltsxo",
+        "gray": "Łibá",
+        "white": "Łigai"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Naaltsoos yisdzoígíí diitsʼaʼgo yíníłtaʼ. Tʼáadoo aheełtʼéego tʼáá ákótʼéhígíí hólǫ́ǫ da.",
+      "position": "Naaltsoos yisdzo {n} / {total}",
+      "themeLegend": "Baa dahaneʼígíí",
+      "next": "Naaltsoos náánáłaʼ",
+      "previous": "Naaltsoos bee azeełtʼéédą́ą́ʼ",
+      "print": "Tʼáá ałtso naaltsoos hadidoolíił",
+      "sheetTitle": "Ałhą́ą́h yádaatiʼ naaltsoos"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Áłtsé eʼelyaaígíí nídidooltsił.",
+      "guidance": "Eʼelyaaígíí tʼááłáʼí bikʼi dah didíilnih, áádóó aheeltʼéhígíí ałdóʼ bikʼi dah didíilnih.",
+      "restart": "Nááná ałkʼi bił táidooltsiis",
+      "intro": "Díí bił nidaʼanishígíí bitsʼą́ą́dóó **eʼelyaaígíí 2 dóó 6 nídidooltsił**. Kwéʼé tʼéiyá yitʼį́ dooleeł áádóó doo nidiilyéed da doodaiiʼ doo ałahjįʼ ninádahodoołtʼeeł da.",
+      "choose": "Eʼelyaaígíí nídidooltsił",
+      "chooseDifferent": "Eʼelyaaígíí náánáłaʼ nídidooltsił",
+      "clear": "Eʼelyaaígíí kʼad doo yitʼį́į da dooleeł",
+      "cleared": "Eʼelyaaígíí kwéʼé bitsʼą́ą́dóó ałtso ąąh aalyAA.",
+      "atLeastTwo": "Tʼáá shǫǫdí eʼelyaaígíí tʼáá naakidóó nídidooltsił.",
+      "usingFirst": "Eʼelyaaígíí áłtsé {max} chooʼį́.",
+      "skipped": {
+        "one": "{count} eʼelyaaígíí doo díkwíishį́į́ bee ádaatʼéhígíí átʼée da.",
+        "other": "{count} eʼelyaaígíí doo díkwíishį́į́ bee ádaatʼéhígíí átʼée da."
+      },
+      "playAgain": "Díí eʼelyaaígíí bee náánáodaah",
+      "empty": "Neeʼelyaaígíí kwéʼé yitʼį́ dooleeł, tʼáá ałhą́ą́h naakigo aheehootʼée dooleeł."
+    },
+    "pictureBingo": {
+      "guidance": "Áłtsé naaltsoos nidaʼanishígíí ałtso bee hadidoolíił. Ákóndi bee hólneʼí yitsʼáłchíʼígíí wótságóó bikáaʼgi yitʼį́įgo ánánídlįįh.",
+      "called": {
+        "one": "{name}. {called} / {total} eʼelyaaígíí baa haneʼ silá.",
+        "other": "{name}. {called} / {total} eʼelyaaígíí baa haneʼ silá."
+      },
+      "start": "\"Eʼelyaaígíí náánáłaʼ\" bikʼi dah didíilnihgo áłtséígíí baa hodoolnih.",
+      "restart": "Naané ániidígíí oodáał",
+      "squaresLegend": "Naaltsoos yisdzo bikááʼ dajiilaaígíí",
+      "squares": "{n} naniigo ({side} dóó {side})",
+      "cardsLegend": "Díkwíí naaltsoos hadidoolíił",
+      "cards": {
+        "one": "{n} naaltsoos yisdzo",
+        "other": "{n} naaltsoos yisdzo"
+      },
+      "print": {
+        "one": "{n} bingo naaltsoos hadidoolíił",
+        "other": "{n} bingo naaltsoos hadidoolíił"
+      },
+      "ready": "Tʼáá hashtʼeʼítʼéego",
+      "next": "Eʼelyaaígíí náánáłaʼ",
+      "allCalled": "Tʼáá ałtso eʼelyaaígíí baa dahoolneʼ",
+      "alreadyCalled": "Baa dahoolneʼ kʼad",
+      "sheetTitle": "Eʼelyaa bingo · naaltsoos {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Jóhoołtsoh nízaadgóó níbaalgo yidziih, áádóó ałchʼįʼ kʼezdeezgo chʼíhidziih. Hastą́ą́di jidziihgo tʼáá bí nánísdlı̨́įʼ dooleeł.",
+      "paceLegend": "Átʼéego jidziih",
+      "paceSlow": "Tʼáá hazhóʼógo (ashdlaʼ dahkodidootsʼiłgo)",
+      "paceGentle": "Tʼáá hazhóʼígo (dı̨́ı́ʼ dahkodidootsʼiłgo)",
+      "ready": "Nił tʼáá áko nahalin",
+      "in": "Yidziih",
+      "hold": "Hanááná",
+      "out": "Chʼíhidziih",
+      "start": "Hoolzhiizh",
+      "stop": "Kʼad ákódzaa",
+      "started": "Hoolzhiizh. Jóhoołtsoh ntsaago yiilwodgo yidziih.",
+      "stopped": "Kʼad ákódzaa.",
+      "finished": "Hastą́ą́di tʼáá hazhóʼígo jidziihgo ałtso azlı̨́ı́ʼ. Hádą́ą́ʼ da ánáádeeshłííł nínízingo bee átʼé."
+    }
+  },
+  "pictures": {
+    "teacup": "Béésh bitooʼ bibeʼestłʼó",
+    "kettle": "Béésh bitooʼ yoołbéezhí",
+    "bread": "Bááh",
+    "frying-pan": "Béésh tsʼaaʼ bee ayęęzhii sitʼéego",
+    "cake": "Bááh łikaní baa hózhǫ́",
+    "sunflower": "Ndaʼałkaahii biniinaa",
+    "tulip": "Chʼil bilátah hózhóón łichíʼígíí",
+    "watering-can": "Tó bee akałí",
+    "potted-plant": "Chʼil leetsʼaaʼ biiʼ háshtłʼish",
+    "tree": "Tsin",
+    "bird": "Tsídii tsin yikáaʼgi dah sidá",
+    "butterfly": "Kʼaalógii",
+    "dog": "Łééchąąʼí",
+    "cat": "Mósí",
+    "fish": "Łóóʼ łitsooígíí",
+    "apple": "Bilasáana łichíʼígíí",
+    "pear": "Bilasáana bitsiiʼ nineezí",
+    "strawberry": "Dahsání bilasáana",
+    "banana": "Hashkʼaan",
+    "lemon": "Chʼil łitsooí díchʼíiʼii",
+    "cherries": "Didzétsoh yázhí",
+    "house": "Kin",
+    "lamp": "Bikááʼ adání bikááʼ kǫʼ",
+    "armchair": "Bikááʼ dah asdáhí ntsaaígíí",
+    "key": "Béésh bee ąą ánídaʼdoolníłí niteelí",
+    "umbrella": "Nahałtin bee bikʼistíní",
+    "sailboat": "Tsinaaʼeeł bítsáhadisdís",
+    "car": "Chidí tʼáá bíyó sání",
+    "bicycle": "Dzidzé bee bikeeʼ",
+    "balloon": "Jóhoołtsoh kǫʼ bee naatʼaʼí",
+    "lighthouse": "Kin ditsʼózí kǫʼ bee deezʼáhí",
+    "sun": "Jóhonaaʼéí",
+    "moon": "Ooljééʼ dóó sǫʼ",
+    "teapot": "Béésh bitooʼ bitooʼ biiʼ siʼání",
+    "apple-pie": "Bilasáana bááh sitʼéego",
+    "honey-jar": "Tsísʼná bitłʼizh biiʼ dah siʼání",
+    "boiled-egg": "Ayęęzhii shibéezhgo biiʼ siʼání",
+    "toaster": "Bááh yiłdzoozí",
+    "cheese": "Géeso",
+    "milk-jug": "Abeʼ bee daʼadloʼí",
+    "cupcake": "Bááh łikaní yázhí",
+    "orange": "Chʼil łitsxooí",
+    "grapes": "Chʼil naʼatłʼoʼii",
+    "watermelon": "Chʼééhjiyáán",
+    "pineapple": "Didzétsoh dikʼǫ́zhí",
+    "peach": "Didzétsoh",
+    "rose": "Chʼil bilátah hózhóon łichíʼígíí",
+    "daisies": "Chʼil bilátah hózhóon łigaaígíí",
+    "mushroom": "Ałchin",
+    "wheelbarrow": "Chidí naaldlooshii bighaałí",
+    "birdhouse": "Tsídii bighan",
+    "cactus": "Hosh leetsʼaaʼ biiʼ háshtłʼish",
+    "acorn": "Téchįįh",
+    "autumn-leaf": "Tʼąąʼ aakʼeed biʼáłchíní",
+    "rabbit": "Gahtsoh",
+    "duck": "Naalʼeełí",
+    "hen": "Náhálchíidii baʼáád",
+    "sheep": "Dibé",
+    "owl": "Néʼéshjaaʼ",
+    "ladybird": "Chʼosh łichííʼ bee bił dah alzhiní",
+    "snail": "Chʼosh chʼééh digháhii",
+    "frog": "Chʼał",
+    "bee": "Tsísʼná",
+    "clock": "Bikááʼ adání bikááʼ náʼoolkiłí",
+    "vase-of-flowers": "Leetsʼaaʼ biiʼ chʼil bilátah hózhóón",
+    "radio": "Béésh nitsikeesí biiʼ daholníihii sání",
+    "books": "Naaltsoos ałkʼidahaasdzo",
+    "candle": "Akʼah kǫʼ",
+    "glasses": "Anááʼ bee adaʼiiltsohí",
+    "telephone": "Béésh bił haneʼé",
+    "ball-of-wool": "Aghaaʼ bizaaz",
+    "straw-hat": "Chʼah chʼil biyaadoo bee ályaaii",
+    "train": "Kǫʼ naʼałbąąsii",
+    "bus": "Chidí ntsaaígíí",
+    "airplane": "Chidí naatʼaʼí",
+    "suitcase": "Teesitłʼé bibeʼézo",
+    "tractor": "Chidí nihichʼįʼ naalnishí",
+    "rowing-boat": "Tsinaaʼeeł haaltsiłí",
+    "rainbow": "Náátsʼíilid",
+    "rain-cloud": "Kʼos nahałtinígíí",
+    "snowflake": "Yasatłʼééʼ",
+    "kite": "Béésh naatʼaʼí tááʼgóó deezʼáhí",
+    "sunrise": "Haʼaʼaahjí jóhonaaʼéí haaleeh"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ADEGHIKLMNOTWZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Tsin bineestʼąʼ",
+          "words": [
+            "DIDZÉ",
+            "HASHK",
+            "BILAS",
+            "CHIL",
+            "AYEEZH",
+            "ATSI",
+            "NEESH",
+            "TLOI",
+            "LITSO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Kʼéédídlééh",
+          "words": [
+            "TSIN",
+            "TAAN",
+            "CHIL",
+            "LEEZH",
+            "KOS",
+            "HOZHON",
+            "NEESH",
+            "TOOH",
+            "TSIS"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Chʼiyáán ádaalʼı̨́įʼgi",
+          "words": [
+            "BAAH",
+            "BEESH",
+            "TOOH",
+            "LITSO",
+            "TSAA",
+            "LEETS",
+            "GEESO",
+            "CHIL",
+            "AYEEZH"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Níyol dóó deesdoí",
+          "words": [
+            "JOHO",
+            "YAS",
+            "TIN",
+            "KOS",
+            "NIYOL",
+            "NAHAL",
+            "CHIL",
+            "SHIIN",
+            "DOOI"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Naaldlooshii",
+          "words": [
+            "MOSI",
+            "DIBE",
+            "LOOH",
+            "CHAL",
+            "TSIN",
+            "TEEH",
+            "GAH",
+            "NEESH",
+            "BIZHI"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ghan",
+          "words": [
+            "CHAH",
+            "KONG",
+            "BEESH",
+            "TSIN",
+            "LEETS",
+            "KIN",
+            "DAAN",
+            "BIDA",
+            "AHAH"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tʼáá átʼé naaltsoos nátʼą́ą́ʼ",
+        "food": "Chʼiyáán",
+        "home": "Hooghan",
+        "outdoors": "Tłʼóoʼdi",
+        "animals": "Naaldlooshii",
+        "travel": "Tádiikáahgo",
+        "work": "Iina dóó naanish",
+        "music": "Dahoogho dóó sin",
+        "seasons": "Nááhaiigi"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Chʼiyáán alnééhgi haʼátʼíísh nilchʼihgo tʼáá íiyisí baa bił honeeni?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Hózhǫ́ náhodleezhgo bááh łikanígíí haʼátʼíísh da nilínígi átʼéego néidiiłtsooz?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Tsin bineestʼąʼ bee bááh alnéhígíí haʼátʼíísh tʼáá íiyisí nił łikan?"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Béésh bitooʼ doodaiiʼ gohwééh haash yitʼéego nił łikan?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Abínígo chʼiyáán alnéhígíí haʼátʼíísh tʼáá íiyisí bee iina?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Tsin bineestʼąʼ tʼáá kʼéédídleehgi haash łaʼ kʼisínísdood lá?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Łikaní doodaiiʼ díchʼíiʼii: háidígíísh tʼáá íiyisí nilínígi átʼé?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Shį́įgo chʼiyáán yiyaanígíí haʼátʼíísh tʼáá íiyisí bee haʼaʼaah?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Hooghan da biiʼ dahonohłóonée łaʼ baa nahwiilnih."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Dah asdáhígi haʼátʼíísh tʼáá íiyisí hazhóʼígo jidáahgi nił yáʼátʼééh?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Hííłchʼįʼgo tʼóó hazhóʼí dadeezzizgo haʼátʼíísh bee naʼanishgi nił hózhǫ́?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Tʼáadoo leʼé ayóó nilínígíí haʼátʼíísh tsitsʼaaʼ nizhónígi biiʼ siʼą́ą dooleeł?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Háidígíí kʼis béésh bitooʼ yididlį́į́ł biniiyé hákágóó náníshtʼash?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Nahałtingo hooghandi haʼátʼíísh ájítʼéego nił yáʼátʼééh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kʼéédídleehgi chʼil bilátah hózhóón haʼátʼíísh kʼididílyééł?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Tsin da nizhónígo siʼánígíí łaʼ baa nahwiilnih."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kʼéédídleehgi tłʼóoʼdi jízhą́ągo haʼátʼíísh tʼáá íiyisí yáʼátʼéehii átʼé?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Chʼil bilátah hózhóón haash yitʼéego nilchinígíí nił yáʼátʼééh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Hooghan biiʼ chʼil dahanólíingoosh nił yáʼátʼééh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Jóhonaaʼéí deesdoi bee joołtʼiʼgo haʼátʼíísh nizhónígo jidáahgo átʼé?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Łééchąąʼí łaʼ bee nééhólnihée baa nahwiilnih."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Mósí doodaiiʼ łééchąąʼí: haʼátʼíísh baa ntsikees?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Tsídii tłʼóoʼdi daaztʼiʼígíí haʼátʼíísh da jóʼı̨́ doodaiiʼ dazhdiitsʼaʼ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Łóóʼ haaltséhée doodaiiʼ łóóʼ leetsʼaaʼ biiʼ hólónée daʼ bee nééhóshnííh lá?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Naaldlooshii nizhóní ayóo baa hołtsʼéhedleehii haʼátʼíísh jíʼı̨́?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Chidí łaʼ ayóó nił yáʼátʼéehii baa nahwiilnih."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Tónteel bibąąhgi doodaiiʼ dziłtahgi: háidígíísh tʼáá íiyisí nilínígi átʼé?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Haagóósh bee dididáałgo nił hózhǫ́?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Tʼóó naatʼaʼgo hooghan daʼałkʼi dajiiltséhgo haagóó da jíyáa dooleeł?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Nízahgóó tázhdiikáahgo haʼátʼíísh tʼáá íiyisí baa hózhǫ́ǫ́ lá?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Naanish haʼátʼíísh da alnééhgo bił nizhóní lá?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Haʼátʼíísh biniiyé nízahjįʼ nideiilyéhígíí tʼáá bił hózhǫ́?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Tʼáadoo leʼé ánáshdlíiłgo bee bééhonisinée haʼátʼíísh átʼé?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Dineʼé ániid nidaalnishígíí haʼátʼíísh bikʼee naʼnitin bąąh nidootʼááł?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Sin haʼátʼíísh da bee adaa hozhǫ́ǫgo jidáahgo átʼé?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Dahoolghoʼgi haʼátʼíísh tʼáá íiyisí bee baa hózhǫ́?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Sin haʼahááhí háidígíísh tʼáá íiyisí bił nizhónígo jiditsʼaʼ?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Naalkidígíí doodaiiʼ nídaʼalkidí háidígíísh baa nánáázhdiiltsos?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Shį́įgo haʼátʼíísh tʼáá íiyisí nił yáʼátʼééh?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Aakʼeedgo haʼátʼíísh baa nił hózhǫ́?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Haigo hííłchʼįʼgo hooghandi haʼátʼíísh tʼáá hazhóʼígo jidáahgo átʼé?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Dąągo haʼátʼíísh bee nééhózin?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Yáshtłʼééʼ, nahałtin doodaiiʼ deesdoí: háidígíísh tʼáá íiyisí nił yáʼátʼééh?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Chʼil bilátah hózhóón leetsʼaaʼ biiʼ háshtłʼish",
+          "regions": {
+            "sky": "Bikʼi dah siʼání",
+            "table": "Bikááʼ adání",
+            "stem": "Bitsiin",
+            "leaf-left": "Nishʼnáájí atʼąąʼ",
+            "leaf-right": "Nishtłʼají atʼąąʼ",
+            "petal-1": "Bilátah 1",
+            "petal-2": "Bilátah 2",
+            "petal-3": "Bilátah 3",
+            "petal-4": "Bilátah 4",
+            "petal-5": "Bilátah 5",
+            "petal-6": "Bilátah 6",
+            "petal-7": "Bilátah 7",
+            "petal-8": "Bilátah 8",
+            "center": "Alníiʼgi siʼání",
+            "pot": "Leetsʼaaʼ",
+            "pot-rim": "Leetsʼaaʼ bąąhgi"
+          }
+        },
+        "house": {
+          "name": "Kin",
+          "regions": {
+            "sky": "Yá dilhił",
+            "sun": "Jóhonaaʼéí",
+            "grass": "Tłʼoh",
+            "chimney": "Łid biih yíyol",
+            "walls": "Kin bibąąh",
+            "roof": "Kin bikááʼ",
+            "door": "Dáadílkał",
+            "window-left": "Nishtłʼají tsésǫʼ",
+            "window-right": "Nishʼnáájí tsésǫʼ",
+            "path": "Atiin yázhí"
+          }
+        },
+        "teacup": {
+          "name": "Béésh bitooʼ bibeʼestłʼó",
+          "regions": {
+            "background": "Bikʼi dah siʼání",
+            "saucer": "Tsʼaaʼ yázhí",
+            "handle": "Bee dah jooltsoodí",
+            "cup": "Bibeʼestłʼó",
+            "band": "Bikáaʼgi dah adidzo",
+            "tea": "Béésh bitooʼ"
+          }
+        },
+        "butterfly": {
+          "name": "Kʼaalógii",
+          "regions": {
+            "background": "Bikʼi dah siʼání",
+            "wing-top-left": "Wóshdę́ę́ʼ nishtłʼají bitʼaʼ",
+            "wing-top-right": "Wóshdę́ę́ʼ nishʼnáájí bitʼaʼ",
+            "wing-bottom-left": "Wóyaají nishtłʼají bitʼaʼ",
+            "wing-bottom-right": "Wóyaají nishʼnáájí bitʼaʼ",
+            "spot-left": "Nishtłʼají bitʼaʼ dah alzhin",
+            "spot-right": "Nishʼnáájí bitʼaʼ dah alzhin",
+            "body": "Bitsʼíís"
+          }
+        },
+        "sailboat": {
+          "name": "Tsinaaʼeeł bítsáhadisdís",
+          "regions": {
+            "sky": "Yá dilhił",
+            "sea": "Tónteel",
+            "sail-big": "Bítsáhadisdís ntsaaígíí",
+            "sail-small": "Bítsáhadisdís yázhí",
+            "mast": "Tsin ditsʼózí",
+            "hull": "Tsinaaʼeeł",
+            "flag": "Dah naatʼaʼí"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Chʼiyáán alnééhgi dóó kʼéédídleehgi",
+          "baskets": [
+            "Tʼááłáhígíí bii'",
+            "Ch'il bii'"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Ch'il yázhí dóó honáághaʼí",
+          "baskets": [
+            "Ch'il yázhí",
+            "Honáághaʼí"
+          ]
+        },
+        "home-travel": {
+          "label": "Kin dóó naasháa",
+          "baskets": [
+            "Kin bii'",
+            "Naasháa"
+          ]
+        }
+      }
+    }
+  }
+}

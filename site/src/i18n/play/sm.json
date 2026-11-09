@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Faitau leo",
+      "stopReading": "Taofi le faitau",
+      "region": "Taaloga",
+      "restart": "Amata foi",
+      "soundOn": "Leo malūlū e ola",
+      "soundOff": "Leo malūlū e tapunia",
+      "done": "Ua uma mo lenei taimi",
+      "feedbackQuestion": "Na fesoasoani lenei i le aso?",
+      "feedbackYes": "Ioe",
+      "feedbackNo": "Leai lava",
+      "feedbackThanks": "Faafetai mo le fai mai i matou."
+    },
+    "tile": {
+      "named": "{name}, pusa {n}",
+      "hidden": "Ata natia, pusa {n}",
+      "withState": "{label}, {state}",
+      "matched": "Fetaui",
+      "selected": "Filifilia",
+      "picture": "Ata",
+      "photoNumber": "Ata {n}"
+    },
+    "pairs": {
+      "allTogether": "Ua fetaui uma paga. Taalo toe pe malolo se taimi.",
+      "photoPair": "Se paga o ata, faatasi.",
+      "picturePair": "Ata e lua o le {name|lower}, faatasi.",
+      "selected": "{name}. Ia saili lona paga.",
+      "mismatch": "Ia faamalie le taimi. Pa'i i se ata e faaauau ai.",
+      "mismatchNamed": "{a} ma {b}. Ia faamalie le taimi. Pa'i i se ata e faaauau ai."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Pa'i i se ata, ona pa'i lea i le e fetaui ma ia.",
+      "guidanceHidden": "Pa'i i pusa e lua e liliu ai. Saili ni e lua tutusa.",
+      "restart": "Ata fou",
+      "sizeLegend": "Pusa e fia",
+      "size": {
+        "one": "E {n} pusa.",
+        "other": "E {n} pusa."
+      },
+      "viewLegend": "Auala e taalo ai",
+      "viewShowing": "Ata e vaaia",
+      "viewHidden": "Ata natia",
+      "playAgain": "Taalo toe ma ata fou",
+      "talk": "Talanoa e uiga i ata faatasi"
+    },
+    "choose": {
+      "countLegend": "Ata e fia",
+      "count": "{n} e filifili mai ai",
+      "thatOne": "O lena le {name|lower}. Ia faamalie le taimi."
+    },
+    "findTheSame": {
+      "guidance": "Va'ai i le ata i luga. Pa'i i le tasi tutusa i lalo.",
+      "yes": "Ioe, o le {name|lower} tutusa lava.",
+      "next": "Ata e sosoo mai"
+    },
+    "shadowMatch": {
+      "guidance": "Va'ai i le malu i luga. Pa'i i le ata e faia ai lena malu.",
+      "yes": "Ioe, o le {name|lower} e faia ai lena malu.",
+      "next": "Malu e sosoo mai",
+      "shadowAlt": "Se malu e fetaui ma ia",
+      "foundAlt": "Le malu o le {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Pa'i i se ata, ona pa'i lea i le fagu e tatau ai ona tuu ai.",
+      "restart": "Ata fou",
+      "themeLegend": "Autu",
+      "selected": "{name}. Ia pa'i lea i le fagu e tatau ona tuu ai.",
+      "pickFirst": "Muamua pa'i i se ata, ona pa'i lea i se fagu.",
+      "hint": "O le {name|lower} e mafai ona tuu i le fagu \"{basket}\". Pa'i i lena fagu e tuu ai.",
+      "placed": "O le {name|lower} o i totonu o le fagu \"{basket}\".",
+      "sorted": "Ua uma ona vasevase mea uma. Va'ai faatasi i fagu, po'o se isi autu.",
+      "basket": {
+        "one": "Fagu {basket}, {count} ata i totonu",
+        "other": "Fagu {basket}, {count} ata i totonu"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Pa'i i se vaega, ona pa'i lea i se isi. E suia tulaga.",
+      "restart": "Faafefiloi toe",
+      "pictureLegend": "Ata",
+      "pictures": {
+        "sailboat": "Va'a folau",
+        "house": "Fale",
+        "balloon": "Polone",
+        "sunflower": "Fugalā",
+        "lighthouse": "Fale mālamalama",
+        "cat": "Pusi"
+      },
+      "sizeLegend": "Vaega",
+      "size": {
+        "one": "E {n} vaega.",
+        "other": "E {n} vaega."
+      },
+      "pickedUp": "Ua ave le vaega. Ia pa'i ite nofoaga e tatau ona tuu ai.",
+      "whole": "Ua toe atoa le {name|lower}. Filifili se isi ata pe a fia.",
+      "swapped": {
+        "one": "Ua suia. {correct} o le {total} vaega ua i lona nofoaga.",
+        "other": "Ua suia. {correct} o le {total} vaega ua i o latou nofoaga."
+      },
+      "guideAlt": "Le ata atoa: {name}",
+      "guideText": "O lenei le auala e vaaia ai le ata pe a atoa.",
+      "piece": "Vaega i le {place}",
+      "pieceInPlace": ", i le nofoaga sa tatau ai",
+      "piecePickedUp": ", ua ave",
+      "places4": [
+        "luga agavaa",
+        "luga taumatau",
+        "lalo agavaa",
+        "lalo taumatau"
+      ],
+      "places9": [
+        "luga agavaa",
+        "luga ogatotonu",
+        "luga taumatau",
+        "agavaa ogatotonu",
+        "ogatotonu",
+        "taumatau ogatotonu",
+        "lalo agavaa",
+        "lalo ogatotonu",
+        "lalo taumatau"
+      ],
+      "done": "Ua toe atoa le ata. Taalo toe pe malolo se taimi.",
+      "playAgain": "Faafefiloi toe"
+    },
+    "finishTheSaying": {
+      "guidance": "Faitau le faataoto faatasi, ona pa'i lea i le upu e faaiu ai.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ioe, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" e ao foi. O le faataoto masani e faaiu i le \"{end}\".",
+      "revealed": "O le faataoto o le \"{start} {end}.\"",
+      "choicesLabel": "Filifili le upu mulimuli",
+      "show": "Faaali le faaiuga",
+      "talk": "Talanoa e uiga i ai: ",
+      "next": "Faataoto isi"
+    },
+    "wordSearch": {
+      "guidance": "Upu e alu i le itu po'o i lalo. Pa'i i le mataitusi muamua o se upu, ona pa'i lea i le mulimuli.",
+      "restart": "Taaloga fou",
+      "themeLegend": "Autu",
+      "sizeLegend": "Tele o le laulau",
+      "size": {
+        "one": "{n} x {n} ({words} upu)",
+        "other": "{n} x {n} ({words} upu)"
+      },
+      "print": "Lolomi lenei taaloga",
+      "letterChosen": "Mataitusi {letter} ua filifilia. Ia pa'i lea i le mataitusi mulimuli o le upu.",
+      "found": "Ua maua le {word}.",
+      "foundAll": "Ua maua le {word}. O ia uma upu. Taalo toe pe malolo se taimi.",
+      "tryAgain": "Ia faamalie le taimi. Pa'i i le mataitusi muamua o se upu, ona pa'i lea i le mulimuli.",
+      "gridLabel": "Laulau o mataitusi, {n} laina ma {n} mataitusi i laina taitasi. Faaaoga pusa o auala e feoa'i ai i mataitusi.",
+      "cell": "{letter}, laina {row}, koluma {col}",
+      "cellFound": ", o se vaega o se upu ua maua",
+      "wordsHeading": "Upu e saili",
+      "wordFound": " (ua maua)",
+      "sheetTitle": "Taaloga upu: {theme}",
+      "sheetNote": "Upu e alu i le itu po'o i lalo.",
+      "unavailable": "E le fetaui se laulau mataitusi ma lenei gagana, o lea e le ofo ai le taaloga upu iinei. Taumafai i taaloga ata."
+    },
+    "coloring": {
+      "guidance": "Pa'i i se lanu, ona pa'i lea i se vaega o le ata.",
+      "restart": "Fa'amama lanu",
+      "cleared": "Ua toe sa lava le pepa.",
+      "pageLegend": "Itulau",
+      "print": "Lolomi lenei itulau",
+      "colorsLabel": "Lanu",
+      "paintChosen": "Ua filifilia le {paint}.",
+      "painted": "O le {part} ua {paint|lower}.",
+      "artLabel": "{page}, {count} vaega e lanu ai",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, e leai se lanu",
+      "paints": {
+        "red": "Mumu",
+        "orange": "Moli",
+        "yellow": "Samasama",
+        "green": "Lanumeamata",
+        "blue": "Lanumoana",
+        "purple": "Vaiolesi",
+        "pink": "Pinika",
+        "brown": "Enaena",
+        "sky-blue": "Lanulagi",
+        "cream": "Pa'epa'e mālulu",
+        "gray": "Efuefu",
+        "white": "Pa'epa'e"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Faitau le pepa leo tele. E leai ni tali sa'o.",
+      "position": "Pepa {n} o le {total}",
+      "themeLegend": "Autu",
+      "next": "Pepa e sosoo mai",
+      "previous": "Pepa muamua",
+      "print": "Lolomi pepa uma",
+      "sheetTitle": "Pepa talanoaga"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Amata i le filifilia o au ata.",
+      "guidance": "Pa'i i se ata, ona pa'i lea i le e fetaui ma ia.",
+      "restart": "Faafefiloi toe",
+      "intro": "**Filifili 2 i le 6 ata** mai lenei masini. E faaalia i lenei itulau naʻo, e le lafoina pe teuina.",
+      "choose": "Filifili ata",
+      "chooseDifferent": "Filifili ata eseese",
+      "clear": "Aveese ata",
+      "cleared": "Ua aveesea ata mai lenei itulau.",
+      "atLeastTwo": "Fai mai ia filifili ni ata e lua a le itiiti.",
+      "usingFirst": "Ua faaaogaina ata muamua e {max}.",
+      "skipped": {
+        "one": "E {count} faila e le o se ata e mafai ona matou faaalia.",
+        "other": "E {count} faila e le o ni ata e mafai ona matou faaalia."
+      },
+      "playAgain": "Taalo toe ma nei ata",
+      "empty": "O au ata o le a aliali iinei, e tasi e lua."
+    },
+    "pictureBingo": {
+      "guidance": "Lolomi muamua pepa. Ona faaali lea o le taitai i le faitau ata e sili ona tele lau faaaliga.",
+      "called": {
+        "one": "{name}. Ua valaaulia {called} o le {total} ata.",
+        "other": "{name}. Ua valaaulia {called} o le {total} ata."
+      },
+      "start": "Pa'i i le \"Ata e sosoo mai\" e valaaulia ai le ata muamua.",
+      "restart": "Amata se taaloga fou",
+      "squaresLegend": "Faitusi i pepa taitasi",
+      "squares": "{n} faitusi ({side} x {side})",
+      "cardsLegend": "Pepa e fia e lolomi",
+      "cards": {
+        "one": "{n} pepa",
+        "other": "{n} pepa"
+      },
+      "print": {
+        "one": "Lolomi {n} pepa bingo",
+        "other": "Lolomi {n} pepa bingo"
+      },
+      "ready": "E sauni pe a e manatu",
+      "next": "Ata e sosoo mai",
+      "allCalled": "Ua valaaulia ata uma",
+      "alreadyCalled": "Ua valaaulia muamua",
+      "sheetTitle": "Bingo ata · pepa {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Manava i totonu pe a tupu le taamilo, ma tuʻu le manava pe a laʻitiiti. E taofi lava e ia pe a uma ona ono manava.",
+      "paceLegend": "Saisaitaga",
+      "paceSlow": "Gau (5 sekone i itu taʻitasi)",
+      "paceGentle": "Malie (4 sekone i itu taʻitasi)",
+      "ready": "Ua sauni pe a ua e manaʻo",
+      "in": "Manava i totonu",
+      "hold": "Malolo",
+      "out": "Tuʻu le manava",
+      "start": "Amata",
+      "stop": "Taofi",
+      "started": "Ua amata. Manava i totonu pe a tupu le taamilo.",
+      "stopped": "Ua taofi.",
+      "finished": "Ua uma le ono manava malie. Amata toe pe a e manaʻo."
+    }
+  },
+  "pictures": {
+    "teacup": "Ipu tī",
+    "kettle": "Ketolo",
+    "bread": "Falaoa",
+    "frying-pan": "Pane ma le fuamoa",
+    "cake": "Keke o le aso fanau",
+    "sunflower": "Fuga o le la",
+    "tulip": "Tulipi mumu",
+    "watering-can": "Ipu vai",
+    "potted-plant": "Laau i totonu o le ipu",
+    "tree": "Laau",
+    "bird": "Manu i luga o le lālā",
+    "butterfly": "Pepe",
+    "dog": "Ilio",
+    "cat": "Pusi",
+    "fish": "Iʻa auro",
+    "apple": "Aplo mumu",
+    "pear": "Pea",
+    "strawberry": "Sitoroberi",
+    "banana": "Faʻi",
+    "lemon": "Lemoni",
+    "cherries": "Seri",
+    "house": "Fale",
+    "lamp": "Lamepa i luga o le tēpolo",
+    "armchair": "Nofoa",
+    "key": "Ki tuai",
+    "umbrella": "Pelu",
+    "sailboat": "Vaʻa folau",
+    "car": "Taʻavale tuai",
+    "bicycle": "Pasikala",
+    "balloon": "Pulu vevela",
+    "lighthouse": "Fale malamalama",
+    "sun": "La",
+    "moon": "Masina ma fetū",
+    "teapot": "Ketolo tī",
+    "apple-pie": "Pai aplo",
+    "honey-jar": "Ipu meli",
+    "boiled-egg": "Fuamoa i luga o le ipu",
+    "toaster": "Tosta",
+    "cheese": "Sisi",
+    "milk-jug": "Ipu susu",
+    "cupcake": "Keke iti",
+    "orange": "Moli",
+    "grapes": "Fua vine",
+    "watermelon": "Vatimeloni",
+    "pineapple": "Painapolo",
+    "peach": "Pisi",
+    "rose": "Lose",
+    "daisies": "Fuga tesi",
+    "mushroom": "Mūsū",
+    "wheelbarrow": "Taʻavale lima",
+    "birdhouse": "Fale manu",
+    "cactus": "Kaketo i totonu o le ipu",
+    "acorn": "Fua oka",
+    "autumn-leaf": "Lau o le tau",
+    "rabbit": "Lapiti",
+    "duck": "Pato",
+    "hen": "Moa",
+    "sheep": "Sipi",
+    "owl": "Lulu",
+    "ladybird": "Pepe mamaʻa",
+    "snail": "Feʻe",
+    "frog": "Pōlo",
+    "bee": "Piʻo",
+    "clock": "Uati fale",
+    "vase-of-flowers": "Ipu fuga",
+    "radio": "Leitio tuai",
+    "books": "Tusi tele",
+    "candle": "Kanesa",
+    "glasses": "Ataata mo le faitau",
+    "telephone": "Telefoni",
+    "ball-of-wool": "Pōlu uolo",
+    "straw-hat": "Pulou lā",
+    "train": "Tiraina tuai",
+    "bus": "Pasi",
+    "airplane": "Vaʻalele",
+    "suitcase": "Pusa folauga",
+    "tractor": "Taktor",
+    "rowing-boat": "Vaʻa e lafo",
+    "rainbow": "Pologa",
+    "rain-cloud": "Ao o le ua",
+    "snowflake": "Fuʻa aisa",
+    "kite": "Kaiti",
+    "sunrise": "Ata o le lā i luga o mauga"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AEFGLMNOPSTU",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fualaau",
+          "words": [
+            "APLO",
+            "FEI",
+            "LAIMA",
+            "LEMONI",
+            "MAGO",
+            "MOLI",
+            "NIU",
+            "ESI",
+            "ULU"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Faatoaga",
+          "words": [
+            "LAAU",
+            "FATU",
+            "LAU",
+            "ELEELE",
+            "VAI",
+            "VAO",
+            "FUGA",
+            "MALU",
+            "FUE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Faleumu",
+          "words": [
+            "IPU",
+            "SIPUNI",
+            "FALAOA",
+            "PANE",
+            "PLETI",
+            "TEA",
+            "OVINI",
+            "UMU",
+            "TANOA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Vaitau",
+          "words": [
+            "MATAGI",
+            "AFA",
+            "TIMU",
+            "LAGI",
+            "MALULU",
+            "VEVELA",
+            "UILA",
+            "AISA",
+            "MALAMA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Manu",
+          "words": [
+            "ILIO",
+            "PUSI",
+            "MANU",
+            "ATU",
+            "PUAA",
+            "POVI",
+            "MOA",
+            "PATO",
+            "LUPE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Fale",
+          "words": [
+            "NOFOA",
+            "LAMEPA",
+            "MOEGA",
+            "FALA",
+            "SOFA",
+            "UATI",
+            "TEPOLO",
+            "FALE",
+            "PUIPUI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Pepa uma",
+        "food": "Meaʻai",
+        "home": "Fale",
+        "outdoors": "I fafo",
+        "animals": "Manu",
+        "travel": "Malaga",
+        "work": "Galuega ma fiafiaga",
+        "music": "Musika ma fiafia",
+        "seasons": "Tausaga"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "O le ā le manogi e sili ona outou fiafia i ai mai le faleumu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "O le ā le keke e filifili ai outou mo se faafiafiaga?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ia taʻu mai i le pai fualaau po o le mea ʻai e sili ona outou fiafia i ai."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "E faapefea le tī po o le kofe e sili ona outou fiafia i ai?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "O le ā e sili ai le taeao lelei?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ua outou tipi se fualaau mai le laau lava ia?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "E mili pe ʻona: o le ā e sili ona outou fiafia i ai?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "O le ā le mea ʻai e foliga mai e pei o le taumafanafana ia te outou?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ia taʻu mai i se fale na outou fiafia i le nofo ai."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "O fea e sili ona outou fiafia ai e nofo ai ma malolo?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "O le ā e sili ona outou fiafia ai i se afiafi filemu?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "O le ā se mea taua e teuina e outou i se pusa faapitoa?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "O ai e sili ona outou fiafia ai e valaaulia mo se ipu tī?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "O le ā e sili ona outou fiafia ai i se aso timu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "O fuga fea e sili ona outou fia totoina i le faatoaga?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ia taʻu mai i se laau po o se faatoaga e sili ona outou fiafia i ai."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "O le ā le mea sili i le nofo i se faatoaga?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "O fea lanu fuga e sili ona outou fiafia i ai?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "E fiafia outou i laau i totonu o le fale?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "O le ā lau manatu i se aso la matagofie?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ia taʻu mai i se ilio na outou iloa."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pusi po o ilio, po o le leai? O le ā e sili ona outou fiafia ai i ai?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "O manu fea e outou vaʻai pe faalogo i fafo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ua outou faia se faiʻa iʻa, po o le tausia o se vai iʻa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "O le ā le manu matagofie sili na outou vaʻai ai?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ia taʻu mai i se taʻavale na outou fiafia i ai."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "E sili ona outou fiafia i le gataifale po o le mauga i se aso?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "O fea e sili ona outou fia alu ai i le pasikala?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Afai e mafai ona outou lele i luga o soo se nuu, o fea?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "O le ā se malaga na outou fiafia ai?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "O le ā le galuega na outou fiafia ai?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "O le ā se fiafiaga e mafai ai ona outou faia i le taimi tele?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "O le ā se mea na outou silisili ai i le faia po o le toe faaleleia?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "O le ā le fautua e foai atu ai i se tamaititi o loo amata lana galuega?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "O le ā le musika e mafai ona faia ai ou vae e taʻalo?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "O le ā e sili ai le pati lelei?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "O ai le tagata pese e sili ona outou fiafia e faalogo i ai?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "O le ā se ata pe polokalame televise e sili ona outou fiafia e toe matamata ai?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "O le ā e sili ona outou fiafia i ai i le taumafanafana?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "O le ā e fiafia ai outou i le taimi o le tau?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "O le ā se mea e fiafia ai i se afiafi o le taumalulu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "O le ā mea muamua e vaʻaia e outou e faailoa mai ai le tau tupu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Aisa, timu, po o le lā: o fea e sili ona outou filifili ai?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fuga i totonu o le ipu",
+          "regions": {
+            "sky": "Tua",
+            "table": "Tēpolo",
+            "stem": "Fuaʻ laau",
+            "leaf-left": "Lau agavale",
+            "leaf-right": "Lau agatonu",
+            "petal-1": "Petala 1",
+            "petal-2": "Petala 2",
+            "petal-3": "Petala 3",
+            "petal-4": "Petala 4",
+            "petal-5": "Petala 5",
+            "petal-6": "Petala 6",
+            "petal-7": "Petala 7",
+            "petal-8": "Petala 8",
+            "center": "Totonu o le fuga",
+            "pot": "Ipu",
+            "pot-rim": "Pito o le ipu"
+          }
+        },
+        "house": {
+          "name": "Fale",
+          "regions": {
+            "sky": "Lagi",
+            "sun": "La",
+            "grass": "Mutia",
+            "chimney": "Paipu afi",
+            "walls": "Puipui",
+            "roof": "Taualuga",
+            "door": "Faitotoa",
+            "window-left": "Faamalama agavale",
+            "window-right": "Faamalama agatonu",
+            "path": "Ala"
+          }
+        },
+        "teacup": {
+          "name": "Ipu tī",
+          "regions": {
+            "background": "Tua",
+            "saucer": "Ipu laiti",
+            "handle": "Mau",
+            "cup": "Ipu",
+            "band": "Taʻiala i luga o le ipu",
+            "tea": "Tī"
+          }
+        },
+        "butterfly": {
+          "name": "Pepe",
+          "regions": {
+            "background": "Tua",
+            "wing-top-left": "Lapalapa agavale i luga",
+            "wing-top-right": "Lapalapa agatonu i luga",
+            "wing-bottom-left": "Lapalapa agavale i lalo",
+            "wing-bottom-right": "Lapalapa agatonu i lalo",
+            "spot-left": "Togi lapalapa agavale",
+            "spot-right": "Togi lapalapa agatonu",
+            "body": "Tino"
+          }
+        },
+        "sailboat": {
+          "name": "Vaʻa folau",
+          "regions": {
+            "sky": "Lagi",
+            "sea": "Moana",
+            "sail-big": "Fola tele",
+            "sail-small": "Fola laiti",
+            "mast": "Pou",
+            "hull": "Vaʻa",
+            "flag": "Fuʻa"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Faleumu ma le faatoaga",
+          "baskets": [
+            "I le potu kuka",
+            "I le faatoaga"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fua ma manu",
+          "baskets": [
+            "Fua",
+            "Manu"
+          ]
+        },
+        "home-travel": {
+          "label": "Fale ma malaga",
+          "baskets": [
+            "I le fale",
+            "Malaga i fafo"
+          ]
+        }
+      }
+    }
+  }
+}

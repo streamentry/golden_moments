@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Ба мундариҷаи асосӣ гузаред",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Фаъолиятҳо барои деменсия",
+    "homeLabel": "Саҳифаи асосии Golden Moments",
+    "mainNav": "Асосӣ",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Тоҷикӣ",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: расмҳои калон ва меҳрубон аз пиёлаи чой, офтобпараст ва саг",
+    "languages": "Забон",
+    "englishOnly": "(англисӣ)",
+    "machineTranslated": "Ин саҳифа бо роҳи автоматӣ тарҷума шудааст ва ҳанӯз аз ҷониби хонандаи забони модарӣ санҷида нашудааст.",
+    "readOriginal": "Матни аслиро ба забони англисӣ бихонед",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Бозиҳо",
+      "activities": "Фаъолиятҳо",
+      "caregiving": "Ғамхорӣ",
+      "brainHealth": "Саломатии мағз"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Саволу ҷавобҳо",
+    "breadcrumb": "Роҳнамои саҳифа",
+    "home": "Асосӣ",
+    "lastUpdated": "Охирин навсозӣ",
+    "topics": "Мавзӯъҳо",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Андозаи матн",
+      "smaller": "Матни стандартӣ",
+      "larger": "Матни калонтар",
+      "contrast": "Контрасти баландтар"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Бозӣ",
+    "picturePairs": "Ҷуфти расмҳо",
+    "conversationCards": "Корташкаҳои суҳбат",
+    "pictureBingo": "Бинго бо расмҳо",
+    "allGames": "Ҳамаи бозиҳо",
+    "pictures": "Расмҳо барои чопкунӣ",
+    "activityIdeas": "Ғояҳои фаъолият",
+    "ideas101": "101 ғояи фаъолият",
+    "lateStage": "Фаъолиятҳо барои марҳилаи охирин",
+    "printable": "Фаъолиятҳои барои чоп",
+    "allActivities": "Ҳамаи фаъолиятҳо",
+    "forCaregivers": "Барои ғамхорон",
+    "playTogether": "Чӣ тавр якҷоя бозӣ кардан",
+    "selfCare": "Ғамхорӣ аз худ",
+    "brainHealth": "Тадқиқоти саломатии мағз",
+    "faq": "Саволу ҷавобҳо",
+    "about": "Дар бораи мо",
+    "approach": "Равиши мо",
+    "howWeWrite": "Чӣ тавр менависем",
+    "organizations": "Барои ташкилотҳо",
+    "app": "Барномаи Golden Moments",
+    "appHelp": "Кумак дар барнома",
+    "support": "Дастгирӣ",
+    "legal": "Ҳуқуқӣ",
+    "sitePrivacy": "Махфияти сайт",
+    "appPrivacy": "Сиёсати махфияти барнома",
+    "privacyChoices": "Интихоби махфият",
+    "terms": "Шартҳо ва иҷозатномаи барнома",
+    "safety": "Бехатарӣ ва истифодаи мақсаднок",
+    "accessibility": "Дастрасӣ",
+    "healthNotice": "Огоҳии иттилооти тиббӣ",
+    "allLegal": "Ҳамаи иттилооти ҳуқуқӣ",
+    "note": "Golden Moments фаъолиятҳои соддаи якҷоя барои лаззат бурдан пешниҳод мекунад. Ин маслиҳати тиббӣ, санҷиш ё табобат нест ва ҳеҷ кас таҳлил, чен ё баҳо намекунад. Барои саволҳои саломатӣ бо духтур маслиҳат кунед. Дар ҳолати фавқулодда ба 112 занг занед.",
+    "publisher": "Нашр аз ҷониби Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Бозиҳо ва фаъолиятҳо барои деменсия ва Алсгеймер | Golden Moments",
+    "description": "Бозиҳои ройгон ва мулоим бо расм барои бозӣ дар интернет ва ғояҳои фаъолият барои одамоне, ки бо деменсия ё Алсгеймер зиндагӣ мекунанд, ва ғамхорони онҳо. Бе сабти ном, вақтсанҷ ва холҳо.",
+    "eyebrow": "Ройгон · Бе реклама · Бе сабти ном · Бе вақтсанҷ ва холҳо",
+    "h1": "Бозиҳо ва фаъолиятҳои мулоим барои одамони бо деменсия",
+    "lede": "Бозиҳои соддаи бо расм, аксҳои ошно ва фаъолиятҳо барои якҷоя лаззат бурдан — бо суръати худатон.",
+    "playGame": "Бозиро оғоз кунед",
+    "findIdeas": "Ёфтани ғояҳои фаъолият",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Дар телефон, планшет ва компютер кор мекунад",
+      "Расмҳои калон, ки то охир намоиш дода мешаванд",
+      "Ҳар вақт бас кунед; ҳеҷ чиз хато намешавад"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Инчунин барномаи ройгон барои iPhone, iPad ва Android бо аксҳои оилаи шумо",
+    "albumNote": "«Ду расми пиёлаи чой, якҷоя.»",
+    "gamesEyebrow": "Дар браузер бозӣ кунед",
+    "gamesTitle": "Бозиҳое, ки ҳоло бозӣ карда метавонед",
+    "gamesLede": "Ҳар кадом ором, барои калонсолон ва зуд оғоз мешавад. Яктоашро интихоб кунед, кэнор-кэнор нишинед ва навбатан ламс кунед.",
+    "seeAllGames": "Ҳамаи {count} бозиро бинед",
+    "howTitle": "Чӣ тавр кор мекунад",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Чизи ошноро интихоб кунед",
+        "text": "Расмҳои пиёлаи чой, боғ, ҳайвонҳои хонагӣ ва киштиҳои бодбонӣ. Барои оғоз хондан ё қоидаҳоро омӯхтан лозим нест."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Якҷоя нишинед",
+        "text": "Бигузоред, ки онҳо ламс кунанд. Дар бораи расмҳо сӯҳбат кунед. Расми нодуруст танҳо то ламси навбатӣ мемонад."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Вақте ки хуш аст, бас кунед",
+        "text": "Як бозӣ худ фаъолияти пурра аст. «Ҳоло бас» ҳамеша дар экран аст."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Берун аз экран",
+    "stageTitle": "Ғояҳои фаъолият барои ҳар марҳила",
+    "stageLede": "Мусиқӣ, корҳои ҳаррӯза, ёдоварӣ аз гузашта ва лаҳзаҳои ором бо ҳиссиёт, мутобиқ ба он чи ҳоло қулай аст.",
+    "ideas101": "101 ғояи фаъолият",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Марҳилаи аввал",
+        "text": "Он чи дӯст медоранд, бо тағйироти хурд идома диҳед: машғулиятҳо, сайругашт, бозиҳои калимаҳо ва нақшаи якҷоя.",
+        "label": "Ғояҳо барои марҳилаи аввал"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Марҳилаи миёна",
+        "text": "Корҳои соддаву ошно, ба қадамҳо тақсимшуда: ба ҳам печондан, ҷудо кардан, мусиқӣ, бозиҳо бо расм ва сайругаштҳои кӯтоҳ.",
+        "label": "Ғояҳо барои марҳилаи миёна"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Марҳилаи охирин",
+        "text": "Ороиш ва робита тавассути ламс, садо ва дидан: парасторӣ аз даст, суруди дӯстдошта, аксҳо ва бо ҳам будан.",
+        "label": "Ғояҳо барои марҳилаи охирин"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Чизи мушаххас меҷӯед? Фаъолиятҳо ва бозиҳо барои <a href=\"/activities/alzheimers/\">Алсгеймер</a>, <a href=\"/activities/memory-games/\">бозиҳои мулоими хотира</a>, <a href=\"/activities/trivia/\">викторинаи осон</a> ё <a href=\"/activities/puzzles/\">пазлҳо</a>-ро санҷед.",
+    "approachEyebrow": "Равиши мо",
+    "approachTitle": "Фаъолияти якҷоя, на санҷиши хотира",
+    "approachLede": "Бисёре аз «бозиҳои мағз» дар атрофи суръат, холҳо ва пай дар пай ғолибият сохта шудаанд. Барои одаме, ки бо деменсия зиндагӣ мекунад, ин метавонад мисли имтиҳон бошад. Мо баръакс сохтем.",
+    "approachLink": "Чаро мо онро ин тавр тарроҳӣ кардем",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ҳеҷ чиз хато намешавад",
+        "text": "Вақтсанҷ, ҳисоб, ҷон ё бохтан нест. Расми нодуруст таваққуф аст, на хато."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Расмҳо намоиш дода мешаванд",
+        "text": "Шинохтан бар ёдоварӣ афзалият дорад. Мувофиқат аз рӯи рӯ оғоз мешавад, пас ҳеҷ чиз ба ёд овардан нест."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Калонсол ва боихтиром",
+        "text": "Калимаҳои гарм ва содда, расмҳои воқеии ҳаёт. Ҳаргиз карикатура ё суханҳои кӯдаконаро не."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Тарроҳӣ барои махфият",
+        "text": "Бе ҳисоб ва реклама. Аксҳои шумо ҳеҷ гоҳ дастгоҳро тарк намекунанд."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Барои ғамхорон",
+    "guidesTitle": "Роҳнамоҳои амалӣ барои ғамхории ҳаррӯза",
+    "allCaregiving": "Ҳамаи роҳнамоҳои ғамхорӣ",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Чӣ тавр якҷоя бозӣ кардан",
+        "text": "Омодагӣ, суръат ва он чи кардан лозим аст, вақте ки бозӣ дилгир мекунад."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Вақте ки онҳо ба фаъолият «не» мегӯянд",
+        "text": "Сабабҳои маъмули рад ва роҳҳои мулоим барои кӯшиши дубора дар вақти дигар."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Танзими планшет",
+        "text": "Матни калонтар, вақфаҳои кам ва як экрани хонагии содда."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Фаъолиятҳои ройгон барои чоп",
+        "text": "Ҷустуҷӯи калимаҳо бо хатти калон, варақаҳои рангкорӣ, бинго ва корташкаҳои суҳбат."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Саломатии мағз: тадқиқот воқеан чиро нишон медиҳад",
+    "researchText": "Оё деменсияро пешгирӣ кардан мумкин аст? Оё бозиҳои мағз кӯмак мекунанд? Дар бораи рӯза, парҳез, хоб ва шунавоӣ чӣ гуфтан мумкин аст? Ҷавобҳои содда бо сарчашма, аз ҷумла он ҷое, ки далелҳо суст аст.",
+    "researchLink": "Роҳнамоҳои тадқиқотро хонед",
+    "appEyebrow": "Инчунин барнома",
+    "appTitle": "Golden Moments дар iPhone, iPad ва Android",
+    "appText": "Барномаи ройгон бе интернет кор мекунад ва метавонад аксҳои оилавии интихобкардаи шуморо истифода барад, ки ҳамчун нусхаҳо дар дастгоҳ нигоҳ дошта мешаванд. Ҳамон тарроҳии ором: чор плитаи калон, бе вақтсанҷ, бе ҳисоб.",
+    "aboutApp": "Дар бораи барнома",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Барои одамони бо деменсия кадом бозиҳо хубанд?",
+        "a": "Бозиҳои хуб содда, ошно ва бе фишор ҳастанд: тасвирҳои калон барои мувофиқ кардан, ҷудо кардан, пазлҳои осон, ба охир расонидани гуфтаҳои маъмул, рангкорӣ, бингои тасвирӣ ва кортҳои суханронӣ. Беҳтарин интихоб он бозие аст, ки имрӯз ба шахс маъқул аст. Вақтсанҷ, холҳо ва ҳар чизе, ки ба имтиҳон монанд аст, худдорӣ кунед."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Оё ин бозиҳои деменсия ройгонанд?",
+        "a": "Бале. Ҳар бозӣ ва ҳар чопшаванда дар Golden Moments ройгон аст, бе ҳисоб, бе бақайдгирӣ ва бе зеркашӣ. Бозиҳо дар браузери веб дар телефон, планшет ё компютер кушода мешаванд."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Оё бозиҳои мағз деменсияро пешгирӣ мекунанд?",
+        "a": "Не, ҳеҷ бозие нишон дода нашудааст, ки деменсияро пешгирӣ кунад ва Golden Moments даъво намекунад, ки ягон чизро табобат ё пешгирӣ мекунад. Бозиҳои мо барои шодмонӣ ва вақти якҷоя ҳастанд. Бахши саломатии мағз мо шарҳ медиҳад, ки тадқиқот чиро нишон медиҳад ва чиро не."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Оё ин бозиҳо барои касе бо беморii Алсгеймер мувофиқанд?",
+        "a": "Бале. Беморii Алсгеймер маъмултарин сабаби деменсия аст ва бозиҳо барои он сохта шудаанд: тасвирҳои калон, ки дар назар мemonанд, интихоби кам ва чизе барои ба ёд доштан ё хато кардан нест. Мувофиқ кардан, ҷудо кардан ва ба охир расонидани гуфтаҳои маъмул ба дониши дерина такя мекунанд, на ба омӯзиши нав."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Оё одаме, ки деменсияи дар марҳилаи дертар бударо дорад, ин фаъолиятҳоро истифода бурда метавонад?",
+        "a": "Аксар вақт бале, агар касе дар паҳлӯяш бошад. Бо «Ёфтани ҳамонро бо ду тасвир», «Ҷуфти тасвирҳо бо чор плитка», саҳифаи рангкорӣ ё танаффуси ороми нафаскашӣ оғоз кунед. Онро кӯтоҳ нигоҳ доред, аз ӯ пайравӣ кунед ва вақте ки хаста мешавад, бас кунед."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Оё маълумоти ман махфӣ аст?",
+        "a": "Сайт ҳисоб ва реклама надорад. Мо Google Analytics-ро истифода мебарем, то бифаҳмем, кадом саҳифаҳо дида мешаванд. Аксҳое, ки шумо барои «Ҷуфти аксҳо» интихоб мекунед, танҳо дар браузери шумо нишон дода мешаванд ва ҳеҷ гоҳ боргузорӣ намешаванд."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Golden Moments-ро кӣ месозад?",
+        "a": "Golden Moments дастаи хурде аст, ки фаъолиятҳои оромбахши тасвирии калонсолонро барои оилаҳо ва парасторон дар веб ва ҳамчун барномаи ройгон месозад. Мо мутахассисони тиббӣ нестем ва ҳеҷ чизи инҷо маслиҳати тиббӣ нест."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "ибтидоӣ",
+    "middle": "миёна",
+    "late": "дертар",
+    "hintOne": "Аксар вақт ба марҳилаи {list} мувофиқ аст",
+    "hintMany": "Аксар вақт ба марҳилаҳои {list} мувофиқ аст",
+    "labelEarly": "Марҳилаи ибтидоӣ",
+    "labelMiddle": "Марҳилаи миёна",
+    "labelLate": "Марҳилаи дертар"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Дар бораи ин бозӣ",
+    "printable": "Барои чоп",
+    "play": "Бозии {name} →",
+    "readGuide": "Роҳнаморо хонед"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Барои бозии оромбахш омодаед?",
+    "text": "Тасвирҳои калон, бе вақтсанҷ, бе холҳо ва бе бақайдгирӣ. Дар браузери худ якҷоя бозӣ кунед.",
+    "play": "Бозӣ кунед",
+    "all": "Ҳамаи бозиҳоро бинед",
+    "aria": "Бозӣ кардан"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Ин бозиҳоро бо худ гиред",
+    "text": "Барномаи ройгони Golden Moments барои iPhone, iPad ва Android: хонаҳои тасвирии калон, бозиҳо бо аксҳои оилаи шумо ва бастаҳои тасвирӣ, ки бе Wi‑Fi кор мекунанд. Бе ҳисоб, реклама, вақтсанҷ ё холҳо.",
+    "appStore": "Дар App Store гиред",
+    "googlePlay": "Дар Google Play гиред",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Дар бораи барнома",
+    "aria": "Барномаро гиред"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Фаъолиятҳо",
+      "title": "Фаъолиятҳо барои одамоне, ки бо деменсия зиндагӣ мекунанд",
+      "seo": "Фаъолиятҳо барои одамоне, ки бо деменсия зиндагӣ мекунанд: ғояҳо аз рӯи марҳила",
+      "description": "Ғояҳои фаъолият барои одамоне, ки бо деменсия зиндагӣ мекунанд, дар ҳар марҳила: мусиқӣ, ёдоварӣ, корҳои ҳаррӯза, лаҳзаҳои ҳиссиётӣ, ҳунарҳои дастӣ, берун аз хона ва чопҳои ройгон.",
+      "lede": "Фаъолияти аҳамиятнок ҳар чизест, ки осоиш, мақсад ё лаҳзаи пайвастагӣ меорад. Бо он чизе оғоз кунед, ки шахс ҳамеша дӯст медошт ва онро ба имрӯз мутобиқ кунед."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Парасторӣ",
+      "title": "Роҳнамоҳо барои парасторон",
+      "seo": "Роҳнамоҳо барои парасторони деменсия: кӯмаки амалии ҳаррӯза",
+      "description": "Роҳнамоҳои амалӣ ва меҳрубонона барои парасторони деменсия: бозии якҷоя, муошират, рад кардан, безориҳои охири рӯз, планшетҳо, интихоби барномаҳо ва худпарастӣ.",
+      "lede": "Кӯмаки содда ва амалӣ барои лаҳзаҳои ҳаррӯзаи парастории касе, ки бо деменсия зиндагӣ мекунад, аз ҷумла худатонро парастан."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Саломатии мағз",
+      "title": "Саломатии мағз: тадқиқот чӣ мегӯяд",
+      "seo": "Саломатии мағз ва хатари деменсия: тадқиқот чӣ мегӯяд",
+      "description": "Оё деменсияро пешгирӣ кардан мумкин аст? Роҳнамоҳои содиқона ва бо манбаъҳо барои омилҳои хатар, бозиҳои мағз, рӯзадорӣ, парҳез, варзиш, хоб, шунавоӣ ва нишонаҳои ибтидоии огоҳкунанда.",
+      "lede": "Таҳқиқоти калон дар асл чиро нишон медиҳад, ки хатари деменсияро паст мекунад, ба таври содда шарҳ дода шудааст, аз ҷумла он ҷо, ки далелҳо заиф ё омехтаанд. Маълумоти умумӣ, на маслиҳати тиббӣ."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Навшуда",
+    "minuteRead": "Хондан: {n} дақиқа",
+    "byTeam": "Аз ҷониби дастаи Golden Moments",
+    "howWeWrite": "Мо чӣ тавр менависем",
+    "shortAnswer": "Ҷавоби кӯтоҳ",
+    "onThisPage": "Дар ин саҳифа ({n} бахш)",
+    "commonQuestions": "Саволҳои маъмул",
+    "sources": "Манбаъҳо",
+    "sourcesNote": "Мо ба ташкилотҳо ва омӯзишҳое, ки ин саҳифа ба онҳо такя мекунад, пайванд медиҳем. Ҳар кадоми онҳо ҳангоми навсозии саҳифа санҷида шуд.",
+    "tryTogether": "Якҷоя санҷед",
+    "relatedGuides": "Роҳнамоҳои марбут",
+    "related": "Марбут",
+    "startHere": "Аз ин ҷо оғоз кунед"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Огоҳии маълумоти тиббӣ",
+    "title": "Маълумоти умумӣ, на маслиҳати тиббӣ",
+    "textHtml": "Ин саҳифа тадқиқоти нашршударо барои оилаҳо ҷамъбаст мекунад. Он наметавонад бигӯяд, ки барои як нафар чӣ дуруст аст. Пеш аз тағйир додани парҳез, варзиш, хоб, доруҳо ё иловаҳои ғизоӣ бо духтур маслиҳат кунед. Барои ногаҳонӣ гум шудани ҳуш ё дигар тағйироти ногаҳонӣ, фавран ёрии тиббӣ гиред. <a href=\"/medical-disclaimer/\">Огоҳии маълумоти тиббии моро хонед</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Фаъолияти якҷоя, на санҷиши хотира",
+      "seoTitle": "Дар бораи Golden Moments: равиши мо",
+      "description": "Чаро бозиҳои Golden Moments вақтсанҷ, холҳо ё сериҳо надоранд, чаро тасвирҳо дар назар мемонанд ва дар бораи деменсия чиро даъво мекунем ва чиро не.",
+      "crumb": "Равиши мо",
+      "lede": "Golden Moments фаъолиятҳои оромбахши тасвирии калонсолонро месозад, ки парастор ва касе, ки бо деменсия зиндагӣ мекунад, метавонанд якҷоя аз онҳо лаззат баранд.",
+      "bodyHtml": "<h2>Мо чӣ бовар дорем</h2><p>Мақсади фаъолият худи лаҳза аст: гуфтугӯ, табассум, хушнудии ба ҳам гузоштани ду тасвир ё танҳо дар наздикии ҳам нишастан. Он барои санҷидан, тела додан ё исботи чизе нест.</p><p>Бисёр барномаҳои машқи хотира бар асоси суръат, холҳо, лентаҳои рӯзона ва сатҳҳо сохта шудаанд. Барои шахсе, ки бо деменсия зиндагӣ мекунад, ин метавонад ба имтиҳоне монанд бошад, ки ӯ гузашта наметавонад. Мо баръакс сохтаем ва худамонро ба ин қоидаҳо пойбанд медонем:</p><ul><li><strong>Чизе нест, ки шикаст диҳад.</strong> Дар ҳеҷ экран соат, хол, шумораи ҳаракат, ҷонҳо, лентаи рӯзона, конфетти ё ҳисоби вақти додашуда нест.</li><li><strong>Шинохтан бартарӣ дорад аз ба ёд овардан.</strong> Тасвирҳо пешфарз намоён мемонанд. Ишораҳо гуфтугӯро даъват мекунанд ва ҳеҷ гоҳ номҳо ё хотираҳоро имтиҳон намекунанд.</li><li><strong>Калон, сода ва устувор.</strong> Матни калон ва тасвирҳои калон, контрасти баланд ва тугмаҳое, ки дар як ҷой мемонанд.</li><li><strong>Арзиши инсонӣ.</strong> Тасвирҳои воқеии зиндагӣ ва сухани сода ва меҳрубон. Бе мультфильм, ситоиши кӯдакона ва мукофоти рамзӣ.</li><li><strong>Роҳи осон барои баромадан.</strong> «Ҳоло бас» ҳамеша намоён аст. Қатъ кардан дар нимароҳ натиҷаи хуб аст.</li><li><strong>Пешфарз хусусӣ.</strong> Ҳеҷ ҳисоб ва реклама нест. Аксҳое, ки шумо интихоб мекунед, дар дастгоҳи шумо мемонанд.</li></ul><h2>Чиро мо даъво намекунем</h2><p>Бозиҳои мо барои лаззат ва робита ҳастанд. Онҳо деменсия ё бемории Алсгеймерро ташхис, санҷиш, чен, табобат, суст ё пешгирӣ намекунанд ва касе набояд онҳоро барои ин сабаб интихоб кунад. Вақте ки дар саҳифаҳои <a href=\"/brain-health/\">тандурустии мағз</a> дар бораи тадқиқот менависем, мо равшан мегӯем, ки далелҳо суст ҳастанд ва ҳеҷ гоҳ онро ба бозиҳои худамон пайваст намекунем.</p><h2>Мо кистем</h2><p>Golden Moments дастаи хурди мустақили мост. Мо табибон нестем. Роҳнамоҳои мо аз дастурҳои нашршудаи ташкилотҳое, ба монанди National Institute on Aging ва Alzheimer’s Association, навишта шудаанд ва ҳар роҳнамо манбаъҳои худро номбар мекунад. Бихонед <a href=\"/editorial-policy/\">чӣ гуна саҳифаҳоро менависем ва месанҷем</a>.</p><h2>Ба мо бигӯед, ки чӣ кӯмак мекунад</h2><p>Мо мехоҳем бидонем, ки барои шумо чӣ кор мекунад ва чӣ не, хусусан аз одамони бо деменсия зиндагикунанда, парасторони оилавӣ ва кормандони фаъолият. Ба <a href=\"mailto:{email}\">{email}</a> нависед.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Чӣ гуна мо саҳифаҳоро менависем ва месанҷем",
+      "seoTitle": "Сиёсати таҳририявӣ",
+      "description": "Golden Moments чӣ гуна саҳифаҳои фаъолият ва тандурустии мағзи худро барои одамони бо деменсия таҳқиқ, навишта, манбаъ медиҳад ва навсозӣ мекунад ва чиро ҳеҷ гоҳ нашр намекунад.",
+      "crumb": "Сиёсати таҳририявӣ",
+      "bodyHtml": "<h2>Манбаъҳои мо</h2><p>Роҳнамоҳои мо ба дастурҳои ҷамъиятии ташкилотҳо, ба монанди National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ва NHS, ва ба тадқиқоти ҳамсолнашршуда, ба монанди шарҳҳои Cochrane ва кӯшишҳои калони клиникӣ асос ёфтаанд. Ҳар роҳнамо манбаъҳоеро, ки ба онҳо такя мекунад, номбар мекунад. Мо пеш аз иқтибос овардани ҳар манбаъ онро мекушоем ва танҳо он чизеро мегӯем, ки дар он воқеан омадааст.</p><h2>Чӣ гуна менависем</h2><ul><li>Аввал амалӣ: ҳоло чӣ бояд кард, бо забони сода.</li><li>Росткӯй дар бораи далелҳо: вақте ки ин ҳақиқат аст, мо «алоқаманд аст», «шояд» ва «далелҳо омехтаанд» мегӯем.</li><li>Бо эҳтиром: дар бораи одамони бо деменсия ҳамчун калонсолон менависем ва ҳеҷ гоҳ забони имтиҳон ё шармсозӣ истифода намебарем.</li><li>Мундариҷаи бесаббоб не: оморҳо, иқтибосҳо, мутахассисон, тадқиқотҳо, шарҳҳо ё шаҳодатҳои сохташуда нест.</li></ul><h2>Кӣ саҳифаҳои моро месанҷад</h2><p>Саҳифаҳоро дастаи Golden Moments менависад ва месанҷад, бо кӯмаки воситаҳои AI барои таҳқиқ ва лоиҳакашӣ. Ҳар саҳифаро дастаа бар асоси манбаъҳояш месанҷад. Саҳифаҳои мо <strong>аз ҷониби духтур ё дигар табиб</strong> санҷида нашудаанд ва мо чунин гуфта наметавонем. Онҳо маълумоти умумианд, на маслиҳати тиббӣ.</p><h2>Чиро мо ҳеҷ гоҳ нашр намекунем</h2><ul><li>Даъвоҳо, ки бозӣ, хӯрок, ғизои иловагӣ, рӯза ё тартиби рӯзона деменсияро пешгирӣ, табобат, суст ё шифо мекунад.</li><li>Озмунҳо, санҷишҳо ё холҳое, ки нишон медиҳанд, ки касе деменсия дорад ё надорад.</li><li>Маслиҳат дар бораи оғоз, қатъ ё тағйир додани ҳар доруе.</li><li>Таблиғ ё мундариҷаи пардохташуда, ки ба шакли маслиҳат пӯшида шудааст.</li></ul><h2>Навсозӣ ва ислоҳ</h2><p>Ҳар саҳифа санаи охирин навсозиашро нишон медиҳад. Агар хатогӣ ё манбаи кӯҳна ёфтед, лутфан ба <a href=\"mailto:{email}\">{email}</a> нависед ва мо онро зуд месанҷем.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Саволу ҷавобҳо",
+      "seoTitle": "Бозиҳо ва фаъолиятҳои деменсия: саволу ҷавобҳо",
+      "description": "Ҷавобҳо ба саволҳои маъмул дар бораи бозиҳо ва фаъолиятҳо барои деменсия: кадом бозиҳоро санҷидан, чӣ қадар бозӣ кардан, ғояҳо барои марҳилаҳои баъдӣ, тандурустии мағз ва махфият.",
+      "crumb": "Саволу ҷавобҳо",
+      "lede": "Ҷавобҳои кӯтоҳ ва сода ба саволҳое, ки парасторон бештар мепурсанд.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Дар бораи бозиҳо",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Барои шахсе, ки бо деменсия зиндагӣ мекунад, беҳтарин бозиҳо кадомҳоанд?",
+              "a": "Беҳтарин бозиҳо ошно, сода ва бе фишор ҳастанд ва бозии дуруст он аст, ки шахс имрӯз аз он лаззат мебарад. Мувофиқ кардани тасвирҳои намоён, ҷудокунӣ, ҷигсои осон, идома додани ибораҳои маъмул, рангкорӣ ва бинго бо тасвирҳо барои бисёриҳо хуб аст. Аз вақтсанҷ, холҳо ва ҳар чизе, ки ба имтиҳон монанд аст, худдорӣ кунед."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Оё бозиҳо воқеан ройгон ҳастанд?",
+              "a": "Ҳа. Ҳамаи бозиҳо ва чопшавандаҳо ройгонанд, бе ҳисоб, бе бақайдгирӣ, бе зеркашӣ ва бе реклама."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Чаро дар бозиҳо холҳо, сатҳҳо ва вақтсанҷ нест?",
+              "a": "Суръат ва холҳо фаъолияти хушро ба имтиҳон табдил медиҳанд, ки метавонад шарму ногуворӣ ё ноумедӣ орад. Мо диққатро ба лаззат ва вақти якҷоя нигоҳ медорем, аз ин рӯ ҳеҷ чиз нест, ки шикаст хӯрад, ва шумо ҳар лаҳза метавонед қатъ кунед."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Кадом дастгоҳҳо беҳтар кор мекунанд?",
+              "a": "Ҳар телефон, планшет ё компютере, ки браузери муосир дорад. Планшет дар пойгоҳ дар болои миз аксар вақт барои ду нафаре, ки паҳлӯ ба паҳлӯ бозӣ мекунанд, роҳаттарин усул аст. Ноутбуке, ки ба телевизор пайваст аст, барои гурӯҳҳо хуб кор мекунад."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Оё мо метавонем бо аксҳои оилавии худамон бозӣ кунем?",
+              "a": "Ҳа. «Ҷуфти аксҳо» 2 то 6 аксеро, ки шумо интихоб мекунед, ба бозии мувофиқат табдил медиҳад. Аксҳо дар браузери шумо мемонанд ва боргузорӣ ё захира намешаванд."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Фаъолиятҳо ва парасторӣ",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Фаъолият чанд вақт бояд давом кунад?",
+              "a": "Аксар вақт 10 то 20 дақиқа кифоя аст ва баъзан 2 дақиқа ҳам муваффақият аст. Нишонаҳои хастагӣ ё ноумедиро пайгирӣ кунед ва вақте қатъ кунед, ки ҳанӯз хуш аст. Миқдори дуруст вуҷуд надорад."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Агар онҳо фаъолиятеро иҷро кардан нахоҳанд, чӣ кор кунем?",
+              "a": "Рад кардани онҳоро эҳтиром кунед ва баъдтар ё бо роҳи дигар бори дигар кӯшиш кунед. Рад кардан аз хастагӣ, дард, ба худ боварӣ надоштан ё сода набудани alоқа ба фаъолият метавонад бошад. Ба роҳнамои мо дар бораи он, ки чӣ тавр бояд вақте «не» мегӯянд рафтор кард, нигаред."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Кадом фаъолиятҳо барои марҳалаи охири деменсия мувофиқанд?",
+              "a": "Роҳат ва ҳиссиёт: гӯш кардани мусиқии дӯстдошта, мулоимкунии дастҳо бо равған, дидани аксҳо якҷоя, нигоҳ доштани болишти нарм, нишастан дар кӯча ё бозии оддии тасвирӣ бо касе дар паҳлӯяшон. Роҳнамои мо барои марҳалаи охир ғояҳои бештар дорад."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Оё фаъолиятҳо барои гурӯҳҳо дар хонаи парасторӣ ҳастанд?",
+              "a": "Ҳа. Бинго бо тасвирҳо корти чопшаванда ва ҳаками онлайн дар экран дорад, ва «Ҷумларо анҷом диҳед» ва корти «Суҳбат» ҳангоми баланд хондан хуб кор мекунанд. Роҳнамои гурӯҳҳои хонаи парасторӣ дар бораи шумораи иштирокчиён, нишаст ва мутобиқ кардан барои қобилиятҳои гуногун маълумот медиҳад."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Саломатии мағз",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Оё бозиҳо метавонанд деменсияро пешгирӣ ё суст кунанд?",
+              "a": "Ҳеҷ бозие нишон дода нашудааст, ки деменсияро пешгирӣ мекунад, ва бозиҳои мо чунин даъво намекунанд. Фаъолгардонии маърифатӣ дар муҳити иҷтимоӣ дар таҳқиқотҳо барои шахсоне, ки деменсияи сабук то миёна доранд, фоидаи хурде нишон додааст, аммо ин бо пешгирии беморӣ тавассути бозӣ фарқ мекунад. Мо бозиҳоро барои лаззат ва робита пешниҳод мекунем."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Оё деменсияро пешгирӣ кардан мумкин аст?",
+              "a": "Бо итминони комил не. Таҳқиқотҳо 14 омили саломатӣ ва тарзи ҳаётро бо хавфи деменсия алоқаманд мебинанд, масалан нашунавоӣ, фишори баланди хун, набудани фаъолияти ҷисмонӣ ва танҳоӣ аз ҷамъият. Бартараф кардани онҳо метавонад хавфро барои баъзеҳо кам кунад, аммо бисёре аз одамоне, ки ҳамаи корҳоро дуруст иҷро мекунанд, ҳанӯз ҳам деменсия мегиранд. Ин ҳеҷ гоҳ айби касе нест."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Оё рӯзадории ба фосилаҳо тақсимшуда барои саломатии мағз хуб аст?",
+              "a": "Далелҳо дар одамон маҳдуд ва ибтидоӣ ҳастанд, ва бисёре аз таҳқиқотҳо дар ҳайвонот гузаронида шудаанд. Рӯзадорӣ барои калонсолон, хусусан бо доруҳои диабет ё коҳиши нохостаи вазн, метавонад хатарнок бошад ва барои шахсоне, ки бо деменсия зиндагӣ мекунанд, тавсия дода намешавад. Пеш аз тағйир додани тарзи хӯрокхӯрӣ бо духтур маслиҳат кунед."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Махфият ва амният",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Оё шумо ягон маълумот ҷамъ меоваред?",
+              "a": "Ҳисоб ва реклама нест. Мо Google Analytics-ро барои шумурдани боздидҳо ва дидани он, ки кадом саҳифаҳо кӯмак мекунанд, истифода мebарем. Браузери шумо дар хотир дорад, ки оё садои мулоимро фаъол кардаед. Аксҳое, ки барои «Ҷуфти аксҳо» интихоб мекунед, ҳеҷ гоҳ боргузорӣ намешаванд. Барои тафсилот ба эъломияи махфият нигаред."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Оё ин маслиҳати тиббӣ аст?",
+              "a": "Не. Golden Moments барои истироҳат ва маълумоти умумӣ аст. Барои саволҳои саломатӣ бо духтур сӯҳбат кунед ва дар ҳолати фавқулодда ба 112 занг занед."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Тафсилоти бештар: <a href=\"/caregiving/how-to-play-together/\">чӣ тавр якҷоя бозӣ кардан</a>, <a href=\"/caregiving/when-they-say-no/\">вақте ки «не» мегӯянд</a>, <a href=\"/activities/late-stage/\">фаъолиятҳо барои марҳалаи охир</a> ва <a href=\"/brain-health/can-dementia-be-prevented/\">оё деменсияро пешгирӣ кардан мумкин аст?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Бозиҳои ройгон ва мулоим барои шахсоне, ки бо деменсия зиндагӣ мекунанд",
+      "seoTitle": "Варақаи чопӣ: бозиҳои ройгони деменсия дар интернет",
+      "description": "Варақаи чопии як сафҳа барои оилаҳо ва парасторон дар бораи бозиҳои ройгон ва мулоими тасвирӣ барои шахсоне, ки бо деменсия зиндагӣ мекунанд, барои гурӯҳҳои дастгирӣ ва бастаҳои парасторӣ.",
+      "crumb": "Варақаи чопӣ",
+      "lede": "Ин саҳифаро барои гурӯҳи дастгирӣ, бастаи парасторӣ ё дари яхдон чоп кунед. Фармони Чопро дар браузери худ истифода баред; менюҳо ва тугмаҳо дар нусхаи чопшуда нишон дода намешаванд.",
+      "introHtml": "<p>Тасвирҳои калон, калимаҳои сода ва ҳеҷ чизи шикастанӣ нест. Ройгон дар телефон, планшет ё компютер, бе бақайдгирӣ, бе реклама, бе вақтсанҷ ва бе холҳо. Паҳлӯ ба паҳлӯ нишинед ва навбатӣ бозӣ кунед.</p>",
+      "gamesTitle": "Бозиҳо барои якҷоя кӯшиш кардан",
+      "restHtml": "<h2>Чанд маслиҳат</h2><ul><li>Вақти рӯзеро интихоб кунед, ки шахс дар ҳолати беҳтарини худ аст.</li><li>Бо осонтарин танзимот оғоз кунед. Чор кошча кифоя аст.</li><li>Дар бораи тасвирҳо сухан гӯед. Суҳбат аксар вақт беҳтарин қисмат аст.</li><li>Вақте қатъ кунед, ки ҳанӯз хуш аст. Барвақт қатъ кардан натиҷаи хуб аст.</li></ul><h2>Инчунин дар сайт</h2><ul><li>Чопшавандаҳои ройгон: ҷадвали калонхати калимаҳо, варақаҳои рангкорӣ, корти суҳбат ва бинго бо тасвирҳо.</li><li>Ғояҳои фаъолият барои ҳар марҳала, ва роҳнамоҳо дар бораи якҷоя бозӣ кардан ва парастории худатон.</li></ul><p class=\"muted\">Барои лаззат ва вақти якҷоя. Маслиҳати тиббӣ, санҷиш ё табобат нест. Golden Moments аз ҷониби Cloudjet Solutions Pte. Ltd. нашр мешавад.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Барои хонаҳои парасторӣ, китобхонаҳо ва гурӯҳҳои дастгирӣ",
+      "seoTitle": "Фаъолиятҳои ройгони деменсия барои хонаҳои нигоҳубин ва гурӯҳҳо",
+      "description": "Чӣ тавр хонаҳои нигоҳубини пиронсолон, барномаҳои рӯзонаи калонсолон, китобхонаҳо, муассисаҳои пиронсолон ва гурӯҳҳои дастгирӣ бозиҳои ройгони деменсияи моро истифода мебаранд, ва матне барои илова кардани мо ба рӯйхати захираҳо.",
+      "crumb": "Барои ташкилотҳо",
+      "lede": "Ҳама чизи ин сайт барои истифода бо сокинон, аъзоён ва муроҷиаткунандагон ройгон аст, бе ҳисоб, иҷозатнома ё пардохт. Ин саҳифа мегӯяд, ки дар он чӣ ҳаст ва чӣ тавр онро паҳн кардан мумкин аст.",
+      "shortText": "{name}: бозиҳои ройгон ва мулоим бо расм ва роҳнамои фаъолиятҳо барои одамони гирифтори деменсия ва нигоҳубинкунандагонашон. Бе сабти ном, бе вақтсанҷ, бе холҳо.",
+      "longText": "{name} ({domain}) {count} бозии браузерии ройгонро пешниҳод мекунад, ки барои одамони гирифтори деменсия сохта шудаанд: ҷуфткунии расмҳо бо расмҳои кушодашуда, пазли осон, ҷудокунӣ, ибораҳои маъруф ва бинго бо расм бо варақаҳои чопшаванда. Ҳисоб, реклама, вақтсанҷ ё хол нест. Сайт инчунин роҳнамоҳои содаи фаъолият барои ҳар марҳилаи деменсия дорад, ки ба National Institute on Aging ва Alzheimer's Association истинод мекунанд.",
+      "useTitle": "Чӣ метавонанд ташкилотҳо истифода баранд",
+      "gamesItemHtml": "<strong>{count} бозии браузерӣ</strong>, ки дар ноутбук, планшет ё телевизори бо компютер пайвастшуда кор мекунанд. Насб, ҳисоб ё зеркашӣ лозим нест. Ҳамаи бозиҳоро бинед: <a href=\"/games/\">ҳамаи бозиҳо</a>.",
+      "printablesLabel": "{count} варақаи чопшаванда:",
+      "printablesAfter": "Дар ҳар саҳифа тугмаи чопро истифода баред.",
+      "moreItemsHtml": "<li><strong>Шаклҳои гурӯҳӣ:</strong> <a href=\"/games/picture-bingo/\">Бинго бо расм</a> варақаҳои чопшаванда ва хонандаи дар экран дорад, ва <a href=\"/activities/trivia/\">викторинаи осон</a> 50 савол бо вариантҳои ҷавоб ва нуқтаҳои сӯҳбат дорад.</li><li><strong>Роҳнамоҳои фаъолият</strong> барои кормандон ва оилаҳо, аз рӯи марҳила ва намуд, ба забони содда бо манбаъҳо. Аз <a href=\"/activities/ideas/\">101 ғояи фаъолият</a> ё <a href=\"/activities/care-home-groups/\">фаъолиятҳои гурӯҳӣ барои хонаҳои нигоҳубин</a> оғоз кунед.</li>",
+      "restHtml": "<h2>Гурӯҳҳо чӣ гуна истифода мебаранд</h2><ul><li><strong>Хонаҳои нигоҳубин ва нигоҳубини хотира:</strong> бинго бо расм ё ибораро бо охир расонидан дар телевизори толори умумӣ, ки як нафар барои гурӯҳ тугмаро пахш мекунад.</li><li><strong>Барномаҳои рӯзонаи калонсолон:</strong> истгоҳи планшет бо «Ҷуфти расмҳо» дар чаҳор хона барои сессияҳои кӯтоҳи як-ба-як.</li><li><strong>Китобхонаҳои ҷамъиятӣ:</strong> ҷустуҷӯи калимаҳо ва кортҳои сӯҳбат дар қуттиҳои хотира, ва сайт дар планшетҳои китобхона дар хатбаркҳо сабт шудааст.</li><li><strong>Гурӯҳҳои дастгирии нигоҳубинкунандагон ва «қаҳвахонаҳои хотира»:</strong> <a href=\"/handout/\">варақаи яксаҳифагии чопшаванда</a> барои оилаҳо, ки ба хона мебаранд.</li><li><strong>Беморхонаҳо ва нақшабандони баромадан аз беморхона:</strong> варақа дар бастаҳои нигоҳубинкунандагон, барои кори ором дар хона ё назди бистар.</li></ul><h2>Мо чиро анҷом намедиҳем</h2><p>Бозиҳо барои лаззат ва вақти якҷоя ҳастанд. Онҳо деменсияро ташхис, санҷиш, холгузорӣ, табобат ё суст намекунанд, ва мо аз ташкилотҳо мехоҳем, ки онҳоро ин тавр тавсиф накунанд. Реклама нест, ва бозиҳо ном, маълумоти саломатӣ ё боргузории расмҳоро талаб намекунанд. Сайт барои шумурдани боздидҳо Google Analytics-ро истифода мебарад; <a href=\"/privacy/\">изҳороти махфияти мо</a> шарҳ медиҳад, ки чӣ ҷамъ оварда мешавад. Расмҳои истифодашуда дар <a href=\"/games/photo-pairs/\">Ҷуфти суратҳо</a> дар браузер мемонанд.</p><h2>Моро ба рӯйхати захираҳои худ илова кунед</h2><p>Агар шумо рӯйхати захираҳо барои нигоҳубинкунандагон нигоҳ доред, шумо метавонед ба <a href=\"/\">{domain}</a> пайванд диҳед. Ҳар кадом аз тавсифҳоро нусхабардорӣ карда метавонед.</p>",
+      "shortTitle": "Тавсифи кӯтоҳ",
+      "longTitle": "Тавсифи муфассал",
+      "linksHtml": "<p>Саҳифаҳои муфид барои пайванди мустақим: <a href=\"/games/\">бозиҳои ройгон</a>, <a href=\"/activities/printable/\">варақаҳои ройгони чопшаванда</a>, <a href=\"/activities/alzheimers/\">фаъолиятҳо барои бемории Алсгеймер</a> ва <a href=\"/caregiving/how-to-play-together/\">чӣ гуна якҷоя бозӣ кардан</a>.</p><h2>Савол ё ислоҳ</h2><p>Агар дар сайт чизе нодуруст ё норавшан бошад, ё ниёзҳои сокин бо он чи ҳаст қонеъ нашаванд, лутфан ба мо дар <a href=\"mailto:{email}\">{email}</a> хабар диҳед. Лутфан маълумоти шахсӣ ё саломатии сокинон ё муроҷиаткунандагонро нафиристед.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Барномаи Golden Moments",
+      "seoTitle": "Барномаи Golden Moments барои iPhone ва Android",
+      "description": "Барномаи ройгони Golden Moments: ҷуфткунии мулоими расмҳо бо чаҳор хонаи калон, суратҳои оилавӣ дар дастгоҳи шумо, бастаҳои расмҳо бе интернет ва бе ҳисоб.",
+      "crumb": "Барнома",
+      "lede": "Ҳамон чизе ки дар сайт дӯст медоред, дар барномае, ки бе интернет кор мекунад ва метавонад суратҳои оилавии интихобкардаи шуморо истифода барад.",
+      "worksOn": "Дар {platforms} кор мекунад ({requirements}).",
+      "bodyHtml": "<h2>Оромона оғоз кунед</h2><p>Бо чор плиткаи калон ва расмҳои ошно оғоз кунед. Расмҳоро нишон диҳед, ё агар шумо роҳат ҳис кунед, пинҳон кунед. Ҳолати оромона вақтсанҷ, холдиҳӣ ё ҷарима надорад. Аз 4, 6, 8 ё 12 плитка интихоб кунед.</p><h2>Онро ба худ наздик кунед</h2><p>Бо интихобгари аксҳои дастгоҳи худ аксҳои оилавиро интихоб кунед. Барнома барои фаъолиятҳояш нусхаҳои хурдтарашро нигоҳ медорад. Он китобхонаи шуморо скан намекунад ва аксҳои аслиро иваз намекунад, ва дар як маҷмуа то 24 акс нигоҳ медорад.</p><h2>Якҷоя тамошо кунед</h2><p>Ҳар дафъа як расмро тамошо кунед. Ишораҳои ихтиёрӣ суҳбатро дастгирӣ мекунанд, бе он ки касеро ба ёд овардани ном ё додани ҷавоби дуруст водор кунанд. Танҳо тамошо кардан кифоя аст.</p><h2>Офлайн, ҳар ҷое ки лозим аст</h2><p>Расмҳои оғозӣ ва ҳар ҳашт маҷмуаи расмҳо дар барнома дохил шудаанд. Нусхаҳои аксҳои воридшуда офлайн кор мекунанд. Агар аксҳои аслиеро интихоб кунед, ки танҳо дар iCloud нигоҳ дошта мешаванд, ба пайвастшавӣ ба интернет ниёз шуда метавонад.</p><h2>Бе ҳисоб, бе сервери ҳамоҳангсозии аксҳо</h2><p>Нусхаҳои аксҳои оилавӣ дар дастгоҳ, дар дохили барнома мемонанд. Шумо метавонед нусхаҳоро бе нест кардани аслҳо хориҷ кунед. Нусхаҳои эҳтиётии дастгоҳ метавонанд маълумоти барномаро дар бар гиранд. Бо <a href=\"/app-privacy/\">сиёсати махфияти барнома</a> шинос шавед, ва <a href=\"/help/\">кумаки барнома</a> ҳар қадамро шарҳ медиҳад.</p>",
+      "disclaimer": "Golden Moments барои истироҳат ва суҳбати якҷоягӣ сохта шудааст. Он деменсия ё бемории Алсгеймерро ташхис, табобат, пешгирӣ ё чен намекунад.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Бозиҳои ройгон барои деменсия ва Алсгеймер дар интернет",
+    "description": "Бозиҳои ройгони онлайн барои пиронсолоне, ки бо деменсия ё Алсгеймер зиндагӣ мекунанд: мувофиқ кардани расмҳо, пазлҳои осон, ҷудокунӣ, мақолҳо, ранг кардан, бинго. Бе бақайдгирӣ, вақтсанҷ ё холдиҳӣ.",
+    "crumb": "Бозиҳо",
+    "h1": "Бозиҳои оромбахш барои одамони гирифтори деменсия",
+    "lede": "{count} бозии ройгон барои якҷоя бозӣ кардан дар браузери шумо. Расмҳои калон, калимаҳои сода ва ҳеҷ гуна шикаст нест: бе вақтсанҷ, бе холдиҳӣ, бе бақайдгирӣ.",
+    "listName": "Бозиҳои оромбахш барои одамони гирифтори деменсия",
+    "byStageTitle": "Интихоби бозӣ аз рӯи марҳила",
+    "byStageLede": "Марҳилаҳо танҳо роҳнамои тақрибӣ мебошанд. Аз он пайravӣ кунед, ки шахс дӯст медорад ва имрӯз нисбат ба ӯ роҳат аст.",
+    "stageCol": "Марҳила",
+    "gamesCol": "Бозиҳое, ки аксар вақт мувофиқанд",
+    "moreHtml": "Ғояҳо берун аз экран: <a href=\"/activities/ideas/\">101 фаъолият барои одамони гирифтори деменсия</a>, <a href=\"/activities/alzheimers/\">фаъолият ва бозиҳо барои Алсгеймер</a>, <a href=\"/activities/memory-games/\">бозиҳои оромбахши хотира</a> ва <a href=\"/activities/puzzles/\">пазлҳо</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Бо кадом бозӣ оғоз кунем?",
+        "a": "Ҷуфтҳои расм бо чор плитка интихоби оромонаи аввал аст. Агар интихоб байни расмҳо барои шумо зиёд бошад, «Ҳамонро пайдо кунед»-ро бо ду расм санҷед. Барои гурӯҳ «Бинго бо расмҳо» мувофиқ аст."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Оё бозиҳо дар iPad ё телефон кор мекунанд?",
+        "a": "Ҳа. Ҳар бозӣ дар браузер дар телефонҳо, планшетҳо ва компютерҳо кор мекунад, ва расмҳо тамоми экранро пур мекунанд. Барои ду нафар планшет дар истода аксар вақт роҳаттарин аст."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Оё ин бозиҳо барои шахси гирифтори Алсгеймер мувофиқанд?",
+        "a": "Ҳа. Онҳо барои одамони гирифтори деменсия, аз ҷумла Алсгеймер, ки сабаби маъмултарини деменсия аст, сохта шудаанд. Расмҳо намоён мемонанд, интихобҳо кам аст ва вақт ё холдиҳӣ нест, бинобар ин бозиҳо ба шинохтани чизҳои ошно такя мекунанд, на ба ёд доштани чизҳои нав."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Оё ин бозиҳои хотира барои пиронсолон ҳастанд?",
+        "a": "Онҳо бозиҳои ҷуфткунӣ ва расмӣ мебошанд, ки ҳар пиронсол метавонад аз онҳо лаззат барад, аммо сохта шудаанд, ки хотираро наозмоянд: дар «Ҷуфтҳои расм» расмҳо, агар шумо дигар интихоб накунед, рӯ ба боло мемонанд. Роҳнамои мо оид ба бозиҳои хотира барои пиронсолони гирифтори деменсия шарҳ медиҳад, ки чӣ гуна ҳар бозии хотираро оромбахш нигоҳ доштан мумкин аст."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Оё барои гурӯҳ дар хонаи нигоҳубин бозӣ ҳаст?",
+        "a": "Ҳа. «Бинго бо расмҳо» кортҳои чопшаванда ва ҷарчии дар экран дорад, ва «Ибораро тамом кунед» ва кортҳои «Суҳбат» барои хондан бо овози баланд ба гурӯҳ хуб мувофиқанд."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ва Android",
+    "requirements": "iOS 15 ё баландтар; Android 7.0 ё баландтар",
+    "summary": "Барномаи ройгон барои iPhone, iPad ва Android бо мувофиқкунии оромбахши расмҳо дар чор то дувоздаҳ плиткаи калон, мувофиқкунӣ ва тамошои аксҳои оилавии интихобкардаи шумо, ва ҳашт маҷмуаи расмҳо, ки бе интернет кор мекунанд. Бе ҳисоб, реклама, вақтсанҷ ё холдиҳӣ.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Мувофиқкунии оромбахши расмҳо бо 4, 6, 8 ё 12 плиткаи калон; расмҳо намоён мемонанд, магар шумо пинҳон кардани онҳоро интихоб кунед",
+      "Аксҳои оилавии интихобкардаи шумо барои мувофиқкунӣ ва тамошои якҷоя ба барнома нусхабардорӣ мешаванд",
+      "Якҷоя тамошо кунед: ҳар дафъа як расм бо ишораҳои ихтиёрии суҳбат",
+      "Ҳашт маҷмуаи расмҳо дар барнома дохил аст; онҳо офлайн кор мекунанд",
+      "Бе ҳисоб, реклама, харидҳои дохилбарномавӣ, вақтсанҷ, холдиҳӣ ё ҷарима"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Оё барномаи фаъолияти деменсия ҳаст?",
+        "a": "Ҳа. Golden Moments (ки дар феҳрист «{storeName}» ном дорад) дар App Store ва Google Play ройгон аст. Он мувофиқкунии оромбахши расмҳо бо плиткаҳои калон, бозиҳо бо аксҳои оилавии интихобкардаи шумо ва маҷмуаҳои расмҳоро пешниҳод мекунад, ки офлайн кор мекунанд."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Оё барномаи Golden Moments ройгон аст?",
+        "a": "Ҳа. Зеркашии он ройгон аст, бе реклама, ҳисоб ё харидҳои дохилбарномавӣ."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Оё барнома бе интернет кор мекунад?",
+        "a": "Ҳа. Расмҳои оғозӣ ва ҳар ҳашт маҷмуаи расмҳо дар барнома дохил аст, ва аксҳои оилавӣ пас аз нусхабардорӣ ба барнома офлайн кор мекунанд. Интихоби аксе, ки танҳо дар iCloud нигоҳ дошта мешавад, шояд пайвастшавиро талаб кунад."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Оё метавонам аксҳои оилаи худро истифода барам?",
+        "a": "Ҳа. Аксҳоро бо интихобгари аксҳои дастгоҳи худ интихоб кунед. Барнома нусхаҳои хурдтари аксҳоро барои фаъолиятҳои худ дар дастгоҳ нигоҳ медорад, онҳоро ба сервер бор намекунад ва аслҳоро ҳеҷ гоҳ тағйир намедиҳад. Шумо нусхаҳоро дар ҳар вақт нест карда метавонед."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Оё ин барномаи машқи мағз ё санҷиши хотира аст?",
+        "a": "Не. Golden Moments барои лаззат ва вақти якҷоя гузаронидан аст. Дар он холҳо ва санҷишҳо нестанд, ва он деменсия ё бемории Алсгеймерро ташхис, табобат, пешгирӣ ё чен намекунад."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Дар кадом дастгоҳҳо кор мекунад?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Оё ин бозӣ дар шакли барнома мавҷуд аст?",
+      "a": "Ҳа. Барномаи ройгони Golden Moments барои iPhone, iPad ва Android ҳамон мувофиқаткунии оромбахши аксҳоро дорад, метавонад аксҳои оилавии интихобкардаи шуморо истифода барад ва бе интернет кор мекунад. Ҳеҷ ҳисоб, реклама ё холҳо нест."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Оё ин бозӣ дар шакли барнома мавҷуд аст?",
+      "a": "Не аз ҳамин бозӣ. Барномаи ройгони Golden Moments барои iPhone, iPad ва Android мувофиқаткунии оромбахши аксҳоро бо плиткаҳои калон ва аксҳои оилавии интихобкардаи шумо дорад ва бе интернет кор мекунад. Ин бозӣ дар ин ҷо, дар браузери шумо, ройгон боқӣ мемонад."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: аксҳои калон ва дилнишин",
+    "noscript": "Барои ин бозӣ дар браузери шумо JavaScript фаъол бошад лозим аст. Маслиҳатҳои зер бе он кор мекунанд.",
+    "about": "Дар бораи {name}",
+    "aboutAria": "Дар бораи ин бозӣ",
+    "noTimer": "Бе вақтсанҷ ва холҳо",
+    "printable": "Барои чоп",
+    "howTo": "Чӣ тавр {name} бозед",
+    "tips": "Маслиҳатҳо барои бозӣ якҷоя",
+    "newToPlayingHtml": "Оё шумо бори аввал бо касе, ки деменсия дорад, бозӣ мекунед? <a href=\"/caregiving/how-to-play-together/\">Чӣ тавр якҷоя бозӣ кардан</a>-ро хонед, аз ҷумла он ки агар онҳо бозиро дӯст надошта бошанд, чӣ кор кардан лозим аст.",
+    "moreAria": "Бештар барои кашф кардан",
+    "helpfulGuides": "Роҳнамоҳои муфид",
+    "appTitle": "Онро дар барнома бозед",
+    "appText": "Барномаи ройгони Golden Moments мувофиқаткунии оромбахши аксҳоро бо плиткаҳои калон ва аксҳои оилаи шумо дорад ва бе Wi‑Fi кор мекунад. iPhone, iPad ва Android.",
+    "photoAppTitle": "Аксҳои худро омода нигоҳ доред",
+    "photoAppText": "Дар барномаи ройгони Golden Moments аксҳое, ки шумо интихоб мекунед, барои дафъаи дигар дар дастгоҳ мемонанд ва бозиҳо бе Wi‑Fi кор мекунанд. iPhone, iPad ва Android.",
+    "goodToKnow": "Донистани муҳим",
+    "goodToKnowText": "Ин бозӣ барои лаззат ва вақти якҷоя гузаронидан аст. Он ҷизеро наметавонад санҷад, чен кунад ё табобат кунад.",
+    "moreGames": "Бозиҳои оромбахши бештар",
+    "crumb": "Бозиҳо"
   }
 }

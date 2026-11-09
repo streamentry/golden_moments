@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Haere i te vāhi matamua",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Ohipa no te maʻi mana‘o ‘ore",
+    "homeLabel": "Fare matamua Golden Moments",
+    "mainNav": "Matamua",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Reo Tahiti",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: mau hoho‘a rahi e pāpū, o te tīpē, te ‘ā‘ā tōrōfai e te ‘urī",
+    "languages": "Reo",
+    "englishOnly": "(Reo Beretāne)",
+    "machineTranslated": "Ua unuhia teie api e te fare rorohiko, e aita â i tāmǎ‘ihia e te taata reo tahiti.",
+    "readOriginal": "Taio i te reo Beretāne",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Ta‘aʻa",
+      "activities": "Ohipa",
+      "caregiving": "Tauturu i te taata",
+      "brainHealth": "Ora mana‘o"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Ui e te pahono",
+    "breadcrumb": "Mau vāhi",
+    "home": "Fare",
+    "lastUpdated": "Haamauhia i te hopea",
+    "topics": "Mau tumu parau",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Rahi o te tuhi",
+      "smaller": "Tuhi haamǎta‘ihia",
+      "larger": "Tuhi rahi atu",
+      "contrast": "Ānāīhia teitei"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Ta‘a‘a",
+    "picturePairs": "Mau hoho‘a tūtau",
+    "conversationCards": "Mau pepa parau",
+    "pictureBingo": "Bingo hoho‘a",
+    "allGames": "Mau ta‘aʻa atoʻa",
+    "pictures": "Mau hoho‘a e tōpi‘ihia",
+    "activityIdeas": "Mau manaʻo ohipa",
+    "ideas101": "101 manaʻo ohipa",
+    "lateStage": "Ohipa no te taime hopea",
+    "printable": "Ohipa e tōpi‘ihia",
+    "allActivities": "Mau ohipa atoʻa",
+    "forCaregivers": "No te mau taata tauturu",
+    "playTogether": "Mea nafea ia ta‘a‘a tahi",
+    "selfCare": "Te haapao ia ‘oe iho",
+    "brainHealth": "Te ‘imi‘ara no te ora mana‘o",
+    "faq": "Ui e te pahono",
+    "about": "No mātou",
+    "approach": "To mātou huru",
+    "howWeWrite": "Mea nafea mātou e papai",
+    "organizations": "No te mau faʻatereraʻa",
+    "app": "Te api Golden Moments",
+    "appHelp": "Tauturu no te api",
+    "support": "Tauturu",
+    "legal": "Ture",
+    "sitePrivacy": "Huna ‘ī‘ī no te pūtā",
+    "appPrivacy": "Parau huna no te api",
+    "privacyChoices": "Mau ‘ōti‘a huna",
+    "terms": "Mau tītau e te raiʻraʻa api",
+    "safety": "Haapao e te faaohiparaa tano",
+    "accessibility": "Ohipa tano e tae i te taata",
+    "healthNotice": "Parau no te ora",
+    "allLegal": "Mau parau ture atoʻa",
+    "note": "Golden Moments e mau ohipa ohie no te fariʻi e te oaoa. E ‘aita â faaoraraʻa, e ‘aita â tāmǎ‘ihia, e ‘aita hoʻi e tapa‘o i te taata. No te mau parau no te ora, parau i te taote. I te pohe‘a ohie, tāmǎ i te 15.",
+    "publisher": "Tāpǔ‘ahia e Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Ta‘aʻa e te ohipa no te maʻi mana‘o ‘ore e te Alzheimer | Golden Moments",
+    "description": "Mau ta‘aʻa hoho‘a ‘ōmuʻa, ‘ǎ‘ē, e mau manaʻo ohipa no te taata e ora nei i te maʻi mana‘o ‘ore e te Alzheimer e te mau taata tauturu. Aita e tāmǎ‘ihia, aita e taime, aita e tapa‘o.",
+    "eyebrow": "Ohie · Aita e tāpǔ‘ahia · Aita e tāmǎ‘ihia · Aita e taime e aita e tapa‘o",
+    "h1": "Ta‘aʻa mǎrū e te mau ohipa no te taata e ora nei i te maʻi mana‘o ‘ore",
+    "lede": "Mau ta‘aʻa hoho‘a ‘ohie, mau hoho‘a ‘ī‘ī, e te mau ohipa e ta‘a‘a tahi ai, i tō ‘oe tere iho.",
+    "playGame": "Ta‘a‘a i te hoʻe ta‘aʻa",
+    "findIdeas": "Imi‘a i te mau manaʻo ohipa",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Ohie i te pūtā, i te tapa‘o e i te ordinateur",
+      "Mau hoho‘a rahi e tū tonu i nia i te ‘ǎ‘ǎ",
+      "Haapau i te taime atoʻa; aita e ohipa e pohe ai"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "E api ta‘aʻa āhiri no te iPhone, iPad e Android, e te mau hoho‘a o to ‘oe utuafare",
+    "albumNote": "“Ā piti hoho‘a no te tīpē, i te hoʻe tahi.”",
+    "gamesEyebrow": "Ta‘a‘a i roto i te pūtā",
+    "gamesTitle": "Mau ta‘aʻa e ta‘a‘a ai i teie nei",
+    "gamesLede": "Te hoʻe e mǎrū, e ‘ō‘ō no te taata rahi, e ohie i te haamata. Mǐ hoʻe, e nohopū‘a i te pae, e tāmāʻa i te mau taime.",
+    "seeAllGames": "Hi‘o i te mau ta‘aʻa {count} atoʻa",
+    "howTitle": "Mea nafea e ohipa ai",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Mǐ i te mea e ‘ite-ātu-hia",
+        "text": "Mau hoho‘a o te tīpē, te māra, te animara e te vaʻa. Aita e heʻa i te tuhi‘a e te mau faaueraa i mua."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Nohopū‘a i te pae",
+        "text": "Tuʻu ia tāmāʻa rātou. Parau i nia i te mau hoho‘a. Te hoʻe hoho‘a ‘ē e tatari noa i te tāmāʻa i muri a‘e."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Haapau i te taime e ‘ī‘ī ai",
+        "text": "Te hoʻe ta‘aʻa e hoʻe ohipa atoʻa. “Ua pau no teie nei” e ‘ō‘ō tonu i nia i te ‘ǎ‘ǎ."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "I muri i te ‘ā‘ā",
+    "stageTitle": "Mau manaʻo ohipa no tā‘ǎ‘ǎ mau taime atoʻa",
+    "stageLede": "Te tārǐ‘ā, te mau ohipa mau i te fare, te haamanaʻoraa e te mau mana‘o ‘ē‘ē mǎrū, e tātǎ i tei ‘ī‘ī i teie nei.",
+    "ideas101": "101 manaʻo ohipa",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Taime matamua",
+        "text": "Ia tiai i ta rātou mea e here ai, e ‘iti ‘ōti‘a: ‘ohipa rahi, haerera‘a, ta‘aʻa parau e te faaʻoti tahi.",
+        "label": "Manaʻo ohipa taime matamua"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Taime tātǎ",
+        "text": "Mau ohipa ‘ohie e mau, mahi‘ai i te mau tapa‘o: patu, faataa, tārǐ‘ā, ta‘aʻa hoho‘a e te haerera‘a poto.",
+        "label": "Manaʻo ohipa taime tātǎ"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Taime hopea",
+        "text": "Te mafatu e te faaroo‘a i te rima, te pārau, te hoho‘a e te tū faʻatahi.",
+        "label": "Manaʻo ohipa taime hopea"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "E hi‘o ana‘e anei i te hoʻe mea taa ê? Ā ‘ite i <a href=\"/activities/alzheimers/\">te mau ohipa e te mau ta‘aʻa no te Alzheimer</a>, <a href=\"/activities/memory-games/\">te mau ta‘aʻa mana‘o mǎrū</a>, <a href=\"/activities/trivia/\">te mau parau ohie</a> e <a href=\"/activities/puzzles/\">te mau tāmǎ‘ihia</a>.",
+    "approachEyebrow": "To mātou huru",
+    "approachTitle": "Hoʻe ohipa faʻatahi, aita e hoʻe tamataraʻa mana‘o",
+    "approachLede": "E rahi te mau “ta‘aʻa mana‘o” e faatupu‘ahia i nia i te tere, te mau tapa‘o e te mau faaʻoti fariʻi. No te taata e ora nei i te maʻi mana‘o ‘ore, e ‘ō‘ō mai te reira mai te hoʻe tamataraʻa. Ua ‘ī‘ī mātou i te mea ‘ē‘ē.",
+    "approachLink": "Eaha te tumu o to mātou haamǎʻi‘ihia",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Aita e pohe ai",
+        "text": "Aita e taime, aita e tapa‘o, aita e ‘ō‘ō. E hoʻe hoho‘a ‘ē, e tāmǎ noa, aita e hara."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Te mau hoho‘a e tū tonu",
+        "text": "Te ‘ite‘a i mua i te haamanaʻo. Te tūtau e tīmata i te pae ‘ī‘ē, no reira aita e mea e haamanaʻo ai."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Pāpū e te faaʻoti",
+        "text": "Parau ‘ohie e te mau hoho‘a o te ao mau. Aita e hoho‘a ‘ōrā, aita e parau ‘ī‘ī."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Huna i te mea tae",
+        "text": "Aita e faatura, aita e tāpūʻa. Ta‘u mau hoho‘a e ‘ī‘ī i to ‘oe fare."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "No te mau taata tauturu",
+    "guidesTitle": "Mau ‘ǎ‘ǎ tauturu no te ohipa i te mau mahana",
+    "allCaregiving": "Mau ‘ǎ‘ǎ tauturu atoʻa",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Mea nafea ia ta‘aʻa tahi",
+        "text": "Te haamǎta‘ā, te tere, e te mea e ohipa ai ia aita e ‘oi‘oi te ta‘aʻa."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Ia pāhono ‘ore rātou i te ohipa",
+        "text": "Te mau tumu o te pāhono ‘ore, e te mau tuʻuraa mǎrū no te haapuʻa faaʻaʻe i muri a‘e."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Te faatāʻa i te tapa‘o",
+        "text": "Tuhi rahi, ‘ǎ‘ǎ ‘ohie ‘ē, e hoʻe fare matamua ‘ohie."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Mau ohipa e tōpi‘i ‘ia",
+        "text": "Mau ‘ā‘ā tuhi rahi, mau tāʻa hoho‘a, bingo e mau pepa parau."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Ora mana‘o: eaha te mea tuʻu ‘ǎ no te ‘imi‘ara",
+    "researchText": "E nafea ia pāruru i te maʻi mana‘o ‘ore? E ‘ōhie anei te mau ta‘aʻa mana‘o? E nafea te mau ‘ǎ‘ē ʻamu, te ‘ī‘ī‘ā e te faaroo? Te mau pāhono māʻ‘ā, e te mau tumu tūtau, e tei ‘ōrā‘ē te ‘imi‘ara.",
+    "researchLink": "Tāmāʻa i te mau ‘ǎ‘ǎ ‘imi‘ara",
+    "appEyebrow": "E api hoʻi",
+    "appTitle": "Golden Moments i nia i te iPhone, iPad e Android",
+    "appText": "Te api ‘ore e ohipa i te aʻa‘e ‘ore, e ‘ōti‘a e te mau hoho‘a o to ‘oe utuafare e tāpū‘ahia i te fare. Te hoʻe huru faʻatahi: e ‘ā‘ā rahi e vāhi, aita e taime, aita e tapa‘o.",
+    "aboutApp": "No te api",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Eaha te mau ta‘aʻa maitai no te taata e ora nei i te maʻi mana‘o ‘ore?",
+        "a": "Ko te mau tapao maitai, e mea hāmani rahi, e mea ʻāmuiraa ore e e mea ʻaiʻa ʻore: mau hotu rahi no te haʻapūraa, te faʻaʻohiraa, mau paʻi tāʻaʻa e tuʻu ai, te faʻaʻotiraa i te mau parau mātau, te pena, te tapao hotu bingo, e mau pāpaʻa parau. Te mea maitai roa ʻaʻe, o tei oaoa ai te taata i teie mahana. A pāruru i te mau taime, te mau fetii e te mau mea e mea hōʻuʻa ʻaʻe i te hoʻomaʻitaʻa."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "E tapao dementia anei teie mau tapao, e aita e utu?",
+        "a": "Ioe. O te mau tapao e te mau paʻi atoa i nia i Golden Moments e aita e utu, e aita e hinaaro i te haamāʻitiraa, te faʻatūraa aore ra te tiʻaraa. E haere te mau tapao i roto i te browser i nia i te pūʻa rima, te papa rahi aore ra te ʻōpuʻu."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "E pāruru anei te mau tapao haʻapiʻi roro i te dementia?",
+        "a": "Aita hoʻi tapao i faaitehia e pāruru i te dementia, e aita Golden Moments e faahiti e faaora aore ra e pāruru i te hoʻi mea. Te mau tapao no te oaoa e te tamaʻiraa tahi. Te pene haʻapiʻiraa o te haʻapiʻi roro e faataa i te mea e te mea aita e faaitehia e te ʻimiraa."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "E mea maitai anei teie mau tapao no te taata e maʻi Alzheimer?",
+        "a": "Ioe. O te Alzheimer te tumu rahi o te dementia, e no reira ua hāmanihia te mau tapao no reira: mau hotu rahi e tuʻu tiʻa, mau mātiti iti, e aita e haamanaʻo aore ra e hape ai. O te haʻapūraa, te faʻaʻohiraa e te faaotiraa i te mau parau mātau e tauturu i te mau mea o te aau i haapiihia i te matahiti roa."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "E nehenehe anei te taata e maʻi dementia i te pae hopea e faaohipa i teie mau ohipa?",
+        "a": "Auê te nehenehe, ia tiaʻi te hoa ia ratou. Haamata i te Imi te mea tahi e piti hotu, te Hotu piti e maha mau paʻi, te pepa pena aore ra te faaʻaʻuraa ahu fifi. A faaiti i te taime, a haere i to ratou hinaaro, e a faaoti ia hinaaro ratou e tiʻa ai."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "E huna anei to ʻoe mau parau?",
+        "a": "Aita te pae nei e faaiteraa i te konetā e te fāʻiʻiraa. E faaohipa matou i Google Analytics no te ite i te mau pae e haere ai te taata. Te mau hotu ta ʻoe e faaroo no te Hotu piti e faaitehia noa i roto i to ʻoe browser e aita e tuʻu i nia i te ʻūpapa."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Na vai e haamau i Golden Moments?",
+        "a": "Golden Moments te hoê ʻutuafare iti e haamau i te mau ohipa tāʻiʻa, pūai ʻore, no te mau fetii e te feia tiaʻi, i nia i te pae e i roto i te faaʻohipa maitai ore. Aita matou he taote, e aita te mea i teie nei e tauturu i te faaoraraa."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "mātāmua",
+    "middle": "waenga",
+    "late": "hopea",
+    "hintOne": "E mea maitai i te pae {list}",
+    "hintMany": "E mea maitai i te mau pae {list}",
+    "labelEarly": "Pae mātāmua",
+    "labelMiddle": "Pae waenga",
+    "labelLate": "Pae hopea"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "No teie tapao",
+    "printable": "Paʻi",
+    "play": "Haamata {name} →",
+    "readGuide": "Taiʻo i te aratai"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "E mea haʻiha anei no te tapao hohonu?",
+    "text": "Mau hotu rahi, aita e taime, aita e tāʻaʻa e aita e mea e faaʻōhiʻa ai. A tapao tahi i roto i to ʻoe browser.",
+    "play": "Haamata i te tapao",
+    "all": "Hiʻo i te mau tapao atoa",
+    "aria": "Haamata i te tapao"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Afai i teie mau tapao ia ʻoe",
+    "text": "Te faaʻohipa Golden Moments noa no iPhone, iPad e Android: mau hotu rahi, tapao e mau paʻi to ʻoe fetii iho, e mau pūʻa e ore e hinaaro i te Wi‑Fi. Aita e konetā, aita e faaʻōhiʻa, aita e taime, aita e tāʻaʻa.",
+    "appStore": "Rave i te App Store",
+    "googlePlay": "Rave i te Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "No te faaʻohipa",
+    "aria": "Rave i te faaʻohipa"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Mau ohipa",
+      "title": "Mau ohipa no te mau taata e ora nei i te dementia",
+      "seo": "Mau ohipa no te mau taata e ora nei i te dementia: Mau manaʻo e te pae",
+      "description": "Mau manaʻo ohipa no te mau taata e ora nei i te dementia i te mau pae atoa: pāpaʻa, haamanaʻoraa, ohipa o te mahana, mau mea e ite ai, rimarima, i waho, e mau paʻi noa.",
+      "lede": "Te ohipa tāʻiʻa o te mea e faaite i te oaoa, te tiʻaraa aore ra te hoê taime tamaʻiraa. Haamata i te mea ta te taata i oaoa i mua, e haapūai ia i teie mahana."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Tiaʻiraa",
+      "title": "Aratai no te tiaʻiraa",
+      "seo": "Aratai tiaʻiraa no te dementia: Tauturu maitai o te mahana",
+      "description": "Mau aratai maitai e mea aroha no te feia tiaʻi i te dementia: te tapao tahi, te parau, te faaʻoreraa, te hoʻi o te pō, te tablet, te mau faaʻohiparaa, e te tiaʻi ia ʻoe iho.",
+      "lede": "Tauturu maitai e mea papu no te mau mahana o te tiaʻiraa i te taata e ora nei i te dementia, e te tiaʻi ia ʻoe iho hoʻi."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Haʻapiʻi roro",
+      "title": "Haʻapiʻi roro: Eaha ta te haʻapiʻiraa e faaite",
+      "seo": "Haʻapiʻi roro e te tupuraa o te dementia: Eaha ta te haʻapiʻiraa e parau",
+      "description": "E nehenehe anei e pāruru i te dementia? Aratai mau e te mau puna no te mau tumu tupuraa, tapao haʻapiʻi roro, te ʻaʻeʻaʻe, te ʻai, te faaʻohiparaa tino, te moe, te faaroo e te mau tapao hoʻomataʻu.",
+      "lede": "Eaha ta te mau haʻapiʻiraa rahi e faaite no te faaiti i te tupuraa o te dementia, e faataa papu, e faaite i te mau vahi aita e papu ai. Parau rahi no te ora, aita e tauturu taote."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Haapaʻohia",
+    "minuteRead": "{n} minute no te taiʻo",
+    "byTeam": "Na te ʻutuafare Golden Moments",
+    "howWeWrite": "Eaha ta mātou e tāʻiʻa",
+    "shortAnswer": "Te pahonoraa poto",
+    "onThisPage": "I nia i teie pae ({n} tuhaʻa)",
+    "commonQuestions": "Mau ui pinepine",
+    "sources": "Mau puna",
+    "sourcesNote": "Te faaʻa‘i nei mātou i te mau ʻutuafare e te mau haʻapiʻiraa e tiaʻi teie pae. Ua haamāʻitihia tataitahi i te taime o te haapaʻoraa.",
+    "tryTogether": "Tāmata tahi",
+    "relatedGuides": "Mau aratai faaʻiʻi",
+    "related": "Faaʻiʻi",
+    "startHere": "Haamata i reira"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Faaiteraa no te ora",
+    "title": "Parau rahi, aita e tauturu taote",
+    "textHtml": "Teie pae e faataa i te mau haʻapiʻiraa i tuuhia no te mau fetii. E nehenehe ʻaʻore e faataa i te mea tano no hoê taata. Parau i te taote ma mai te hoʻi i te ʻai, te faaʻohiparaa tino, te moe, te rāʻau aore ra te mau mea faʻaʻoraa. No te hape ohie aore ra te hoʻi ohie, a imi i te tauturu taote i reira tonu. <a href=\"/medical-disclaimer/\">Taiʻo i ta mātou faaiteraa no te ora</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Te hoê ohipa tāʻiʻa, aita e tapao haamanaʻo",
+      "seoTitle": "No Golden Moments: To mātou tiʻaraa",
+      "description": "Eaha te tumu e aita ai te tapao e taime, e tāʻaʻa aore ra e faaiteraa hoʻi, eaha te tumu e tuʻu tiʻa ai te mau hotu, e eaha ta mātou e parau aore ra e ore e parau no te dementia.",
+      "crumb": "To mātou tiʻaraa",
+      "lede": "Golden Moments e haamau i te mau ohipa tāʻiʻa, pūai ʻore, no te tiaʻi e te taata e ora nei i te dementia e nehenehe e oaoa ai tahi.",
+      "bodyHtml": "<h2>Ta mātou manaʻo</h2><p>Te faufaa o te ohipa iho, o te hetaʻa ïa: te parau, te ʻata, te oaoa i te faaʻamuraa i piti piʻi, aore ra te nofo tata noa. Aita e faataʻa i te taata, aore ra e haapiʻi ia ’na, aore ra e faaite i te tahi mea.</p><p>E rave rahi porotarama haapiiraa no te manaʻo e tiaʻi i te vitiviti, i te mau piti e i te mau taahiraa. No te taata e ora nei i te démence, e nehenehe ïa e riro te reira ei tamataraa e ore e taea. Ua hamani matou i te mea taa ê, e te ua faaoti matou i teie mau tumu:</p><ul><li><strong>Aita e tupuraa hape.</strong> Aita te hetaʻa, te piti, te mau tapao, te mau ohipa o te mau taime, te mau taahiraa, te confetti aore ra te mau faaʻoraa taime, i nia i te mau faaʻiteraa atoa.</li><li><strong>Te ite, eiaha te haamanaʻo.</strong> E faaite tamau te mau pīcha. Te mau parau faaitoito e haamata i te parau, aita ïa e ui i te mau iŕa aore ra te mau manaʻo.</li><li><strong>Rahi, maramarama e tamau.</strong> Te mau parau rahi e te mau pīcha rahi, te faaʻiteraa maitai, e te mau pātana e tamau i te vahi hoê.</li><li><strong>Te faufaa o te taata pakeke.</strong> Te mau pīcha o te ao mau ra e te mau parau maoro e mahana. Aita te mau kiritia parau, te mau faaʻamu e te mau ʻata.</li><li><strong>Te ara faaora.</strong> “Ua pau no teie taime” e faaʻite tamau. Te faaoti i te taime, e mea maitai ïa.</li><li><strong>Huna i te mau taime atoa.</strong> Aita te faatoroa, aita te mau faaʻiteraa. Te mau pīcha ta outou i fifi, e tamau i ni‘a i to outou fare.</li></ul><h2>Ta mātou e ore e faaite</h2><p>Ta mātou mau ohipa no te oaoa e no te faaʻaʻu. Aita ïa e faataʻa, e faaite, e ani, e tiaʻi aore ra e tamata i te démence aore ra i te maʻi Alzheimer, e aita hoi e tia i te taata ia faaoti i te reira no teie tumu. Aia i ni‘a i ta matou mau api <a href=\"/brain-health/\">no te manaʻo</a>, e faaite mātou e mea ino te haapuraa, e aita mātou e faaʻaau i ta matou mau ohipa.</p><h2>O mātou</h2><p>Golden Moments e pǔpū ohipa iti e tuatapapa. Aita mātou e taote. Ta mātou mau faaʻiteraa e tia mai i te mau parau tuhituhi a te mau faʻanahoraa e pee ra i te National Institute on Aging e te Alzheimer’s Association, e ua faaite te mau faaʻiteraa atoa i ta raua mau puna. Taio i <a href=\"/editorial-policy/\">pehea mātou e papai ai e e haamau ai i ta mātou mau api</a>.</p><h2>Ia parau mai outou i te mea e tauturu</h2><p>E hinaaro matou e faaroo i te mea e ohie e te mea e ore, e taa ihoa mai te mau taata e ora nei i te démence, te mau taata tauturu o te fare e te mau taata ohipa i te mau tuhaa. Tuʻu mai i te <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Pehea Mātou e Papai ai e e Haamau ai i ta Mātou mau Pāge",
+      "seoTitle": "Te Faanahoraa Papai Parau",
+      "description": "Pehea Golden Moments e rave ai i te haapiiraa, e papai, e faaite i te puna e e faaapu i ta mātou mau pāge no te ohipa no te démence e te manaʻo, e te mau mea e ore mātou e tuu.",
+      "crumb": "Te faanahoraa papai parau",
+      "bodyHtml": "<h2>Ta mātou mau puna</h2><p>E tuatapapa ta mātou mau faaʻiteraa i te mau tumu parau a te mau faʻanahoraa e pee ra i te National Institute on Aging, te CDC, te Alzheimer’s Association, te Alzheimer’s Foundation of America, te Family Caregiver Alliance e te NHS, e i te mau haapiiraa tei haapaohia e te mau tuhituhi, mai te Cochrane reviews e te mau haamataraa rahi. Te mau faaʻiteraa atoa e faaite i ta raua mau puna. Ua taio matou i te mau puna atoa i mua i to matou faaiteraa, e ua faaite noa matou i te mea tei parau ra.</p><h2>Pehea mātou e papai ai</h2><ul><li>Te mea tano ïa: te mea e rave i teie mahana, i roto i te reo maramarama.</li><li>Parau mau no te haapuraa: ua faaohipa matou i te “e faaite ra”, “e nehenehe” e “te haapuraa e mea ’ē” ia mea mau.</li><li>Te faaʻuriraa: ua papai matou no te mau taata e ora nei i te démence ei taata pakeke, e aita matou e faaohipa i te reo e haamanaʻo ai, aore ra e haamǎtaʻu ai.</li><li>Aita e ohipa haapiiraa hape: aita te mau tatararaa, te mau parau, te mau tapao, te mau faatororaa, te mau tuhituhi, te mau tauturu aore ra te mau faaiteraa haamǎuhiraa.</li></ul><h2>O vai te haapiʻi i ta mātou mau pāge</h2><p>Te haapiʻi e te haapaoraa a te ohipa o Golden Moments, e tauturu te mau fāri’i AI no te tuʻu tupuraa e te papai. Ua haapiʻi te ohipa atoa i te mau puna. Aita ta mātou mau pāge i <strong>haapiʻihia</strong> e te taote aore ra e te tahi atu taote, e aita matou e parau e te reira. E parau ïa no te faaiteraa rahi, aita ïa e tauturu no te rongoa.</p><h2>Te mea e ore mātou e tuʻu</h2><ul><li>Te parau e te rave ra te tahi ohipa, te tahi mea ʻai, te tahi faaʻano, te tahi faʻaʻoraa aore ra te tahi faanahoraa e haamaitai, e haapuʻa, e faaʻaʻu aore ra e faaora i te démence.</li><li>Te mau tamataraa, te mau ui, e te mau tapao e parau ra e e démence aore ra e aita te démence i te taata.</li><li>Te faaueraa e faaohipa aore ra e faaore i te tahi rongoa.</li><li>Te faaʻoraa e te haamaramaraa e huna i te faaʻiteraa.</li></ul><h2>Te mau faaʻanaʻanaraa e te faatitiaifaraa</h2><p>E faaite te pāge i te mahana i faaʻanaʻanahia ’i. Mai te ite outou i te hape aore ra te puna tei pāruru, e tuʻu mai i te <a href=\"mailto:{email}\">{email}</a> e e haamaramaʻa matou i te reira tere.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Te mau Ui e te mau Pahono",
+      "seoTitle": "Te mau Ohipa no te Démence: Te mau Ui e te mau Pahono",
+      "description": "Te mau pahono no te mau ui e tupu noa no te mau ohipa no te démence: e aha te mau ohipa e tamata ai, e aha te taime, te mau ohipa no te mau tau hopea, te manaʻo e te huna.",
+      "crumb": "Te mau ui e te pahono",
+      "lede": "Mau pahono poto e maramarama no te mau ui a te mau taata tauturu i te rahi.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "No te mau ohipa",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "E aha te mau ohipa maitai no te taata e ora nei i te démence?",
+              "a": "E maitai te mau ohipa e mǎrû, e itoito e aita e haamauiui, e te mea e oaoa ai te taata i teie mahana. Te faaʻiteraa pīcha e faanaʻo i te mau pīcha e ite-ihoa, te faaʻanaʻanaraa, te mau pāzela ohie, te faaʻoti i te mau parau mau, te tātaʻu e te tuʻu i te mau pīcha, e ohie no te rahi o te taata. Eiaha e faaohipa i te taime, te mau tapao e te mea e riro ei tamataraa."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "E ore anei e utu te mau ohipa?",
+              "a": "Ē. Nā jeux e nā imprimés atoʻa e ore e utuhia, e aita hoʻi e hinaaro i te compte, i te faʻatororaa, aore ra i te haʻapiʻiraa moni."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "No te aha e aita ai e ʻāʻī, e aita ai e taime, e aita ai e ʻāpī?",
+              "a": "Te vave e te compte e huri i te rave pīpī ei ʻōpuaraa tāʻaraʻa, e nehenehe e riro te taata ei hoʻohaʻa e te māuiui. Te faʻaineine nei mātou i te oʻoraa ia ʻoe e tāʻi, e te tōʻ ʻōhimi iho ra, e aita e tia ia hāmani, e nehenehe ʻoe e faaoti i te taime atoʻa."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "E aha te mau faʻaʻohipaa e maitai roa ai?",
+              "a": "Te tāʻi, te tablette, aore ra te ordinateur e faaohipahia te browser maoro. Te tablette i nia i te tapuaʻe i nia i te ʻāpura, e riro te ʻāmuiraa maitai roa no te piti taata e tāʻoʻa ʻe ʻia. Te ordinateur hoʻi i te television e maitai i te pūpūraa."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "E nehenehe anei tatou e tāʻoʻa i te mau pātuʻu o te ʻohana?",
+              "a": "Ē. Photo pairs e faʻahiʻi i te 2 ē 6 pātuʻu tāʻi ā ʻoe e fifi ai ei jeu tāʻoʻa. E tiamaʻa te mau pātuʻu i roto i tō browser, e aita e uuhia aore ra e vai ʻoe ia ʻia."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Te mau ʻāmuiraa e te tautururaa",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "E hia te taime e tia ai i te hoʻohaʻa?",
+              "a": "Te maha o te mau taime, e 10 ē 20 minuti e rahi roa, e i te tahi taime, e 2 minuti e ʻāʻī ia maitai. Hāʻapa ʻoe i te māʻū aore ra te hōhonu, e faaoti i te taime e maitai ai te oraraa. Aita e tia e tōʻ taime tūʻati."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Mai te peu e aita ratou e hinaaro i te hoʻohaʻa?",
+              "a": "Faaʻite i te faaʻiteraa ʻore, e haʻamata faahou i muri aʻe, aore ra i te tuatapapa ʻē. Te faaʻiteraa ʻore e nehenehe e riro mai i te māʻū, i te māuiui, i te ʻaʻu ʻore, aore ra i te aita e hinaaro ai. A hāmani i te tapauraa ʻo ta mātou api, Ia faaʻite ʻoe i te mau mea e rave ai ia ratou e faaʻite ʻore ai."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "E aha te mau hoʻohaʻa e tano i te hoʻomaʻi i te hopea?",
+              "a": "Te faaʻoʻaʻoʻa e te mau aʻu: te faaroo i te pātiʻi ō ratou e hinaaro ai, te hoʻohaʻa i te rima e te pītoraa, te matahiti i te mau pātuʻu ʻia, te ʻaʻaʻa i te ʻāʻa, aore ra te tāʻaraʻa pātiʻi tano i te taata e tiaʻi ai ia ʻoe. Tō mātou taʻiraa no te hopea e rahi roa te mau faʻaʻohipaa."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "E ʻāpī anei no te mau pūpūraa i roto i te fare māʻi?",
+              "a": "Ē. Picture bingo e ʻāpī i te mau pāpa ʻo te mau mea i nia i te ʻaʻai, e Finish the saying e Conversation cards e maitai roa ia faaʻiteʻia. Tō mātou taʻiraa i te pūpūraa i te fare māʻi e faaʻite i te rahi o te pūpūraa, te nohoraa, e te faʻarahiraa no te mau taata e ʻē te haʻapuraa."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Te oraraa maitai o te ʻōpū",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "E nehenehe anei te jeux e pāruru aore ra e faʻaʻiʻi i te démence?",
+              "a": "Aita te jeux e faaitehia ei pāruru i te démence, e aita hoʻi tā mātou jeux e faʻaʻite i te reo tāʻiʻi ia. Te faʻaohipaa i te ʻōpū i roto i te pūpūraa ua faaitehia i te rahi iti i roto i te tiʻaʻiraa no te taata e tei tupu te démence ā mātou, e te hoʻohaʻa taʻu i te pūpū ō ratou. Ua ʻē ia mai te jeux e pāruru i te maʻi. Ē, mātou e tuʻu i te jeux no te oʻoraa e te pūpūraa."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "E nehenehe anei te démence e pāruruhia?",
+              "a": "Aita e pīpī ʻia. Ua faaitehia te 14 mau tumu o te ora e te oraraa e faaʻite ai i te haʻapiʻiraa o te démence, mai te faʻaroo ʻore, te māʻū toto, te ʻaʻu ʻore, e te tupu-ʻore i te pūpūraa. Te faʻaineineraa iho i te mau mea nei e nehenehe e faaiti i te haʻapiʻiraa no te tahi taata, e te rahi o te mau taata e rave maitai ra e tupu tonu ia ratou te démence. E ʻaʻore hoʻi te hara o te taata."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "E maitai anei te aufaʻaʻa i te ʻaʻai ʻiʻoa no te ʻōpū?",
+              "a": "Ua iti e ua āmuʻi te faʻaitoraa a te taata, e te rahi o te haʻapiʻiraa i roto i te mau puaʻa. Te aufaʻaʻa e nehenehe e riro ei mea ʻino no te mau taata matahiti rahi, mai te mau tāʻi māuiui diabète, aore ra te tupu-ʻore ō te taata. E ʻaʻore e faaʻite ʻia no te mau taata e ora nei i te démence. A parau i te taata haʻapiʻi i mua i te hoʻi ʻoe i tō ʻaʻai."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Te huna e te haumāruraa",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "E tuʻu anei outou i te mau mea parau?",
+              "a": "Aita e compte e aita e tāʻi. E faaohipa mātou i Google Analytics no te faʻatupu i te mau haerea e te ʻite i te mau pāpa e tauturu ai, e faaʻite te browser i to ʻoe faaohipaa i te pāruru ʻōhimi. Te mau pātuʻu ā ʻoe e fifi ai no Photo pairs, e aita e uuhia. A hāmani i te faʻaʻitoraa huna no te mau parau taʻa."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "E faʻaʻitoraa māuiui anei tēnei?",
+              "a": "Aita. Golden Moments no te faʻaohipaa e te faʻaʻitoraa rahi noa. No te mau parau māuiui, a parau i te taote, e no te mau tāmāʻi, a tāʻi i te 15."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Te mau parau atoʻa: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> e <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Jeux atoʻa e maʻi, no te taata tei ora i te démence",
+      "seoTitle": "Pāpaʻi tāʻi: Jeux atoʻa no te démence i te internet",
+      "description": "Hoʻi pāpaʻi tāʻi hoʻo hoʻi no te ʻohana e te taata tauturu, no te jeux pātuʻu atoʻa e maʻi no te taata tei ora i te démence, no te pūpū tauturu e te pūtu tauturu.",
+      "crumb": "Pāpaʻi tāʻi",
+      "lede": "Tāʻi i teie pāpaʻi no te pūpū tauturu, te pūtu tauturu aore ra te hoʻohaʻa i nia i te ʻaʻai. Faaohipa i te faʻaʻohipaa Print i tō browser; e ore te mau pūtu e te mau pātuʻu e tāʻi.",
+      "introHtml": "<p>Te mau pātuʻu rahi, te reo maʻi e aita e mea ʻino. Atoʻa i te tāʻi, te tablette aore ra te ordinateur, e aita e compte, e aita e taime, e aita e ʻāʻī. Nohoʻi ʻia e taʻuʻa, e tāʻoʻa.</p>",
+      "gamesTitle": "Te mau jeux e tāʻoʻa",
+      "restHtml": "<h2>Mau tauturu iti</h2><ul><li>Fifi i te taime o te mahana e maitai roa ai te taata.</li><li>Haʻamata i te faʻaineinehia i te mea e fāʻu ʻāmui. E 4 tuʻa e rahi roa.</li><li>Parau i te mau pātuʻu. Te parau-ʻāʻī te mea maitai roa.</li><li>Faaoti i te taime e maitai ai te oraraa. Te faaoti i mua, e mea maitai.</li></ul><h2>Te mau mea atoʻa i te pūtu</h2><ul><li>Mau pāpaʻi tāʻi atoʻa: te tātaʻi parau rahi, te mau pātuʻu tāʻi taʻa, te mau pāpaʻi parau, e te picture bingo.</li><li>Te mau tuʻuraa hoʻohaʻa no te mau tuʻuraa atoʻa, e te mau taʻiraa no te tāʻoʻa e no te tauturu ia ʻoe iho.</li></ul><p class=\"muted\">No te oʻoraa e te taime tāʻoʻa. E aita e tōʻ māuiui, e aita e tātaraʻa, e aita e rāʻau faʻaʻōraʻa. Golden Moments e tāʻi-faʻahiʻi-hia e Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "No te mau fare māʻi, te mau fare pukapuka e te mau pūpū tauturu",
+      "seoTitle": "Ohipa ore no te maʻi o te manatu no te mau fare tauturu e te mau pūpū",
+      "description": "Mea nafea te mau fare tauturu, te mau faanahoraa no te mau taata pakeke, te mau fare buka, te mau faatereraa tauturu e te mau pūpū e faaohipa ai i ta matou mau tāʻaʻa ore no te maʻi o te manatu, e te mau parau e tāpiri ai outou ia matou i to outou faarahiraa mau.",
+      "crumb": "No te mau faatereraa",
+      "lede": "Te mau mea atoa i teie pae e nehenehe e faaohipa ore i te pae o te mau taata o to outou fare, te mau melo e te mau taata tauturuhia, aita e hinaaro i te konto, te raiʻa aore ra te moni. Teie pae e faataa i te mau mea o reira e te nafea e faaite ai i te reira.",
+      "shortText": "{name}: mau tāʻaʻa hoho'a ore e mârû e te mau buka ohipa no te mau taata e ora nei i te maʻi o te manatu e to ratou mau tauturu. Aita e hinaaro i te faaiteraa, aita te taime, aita te mau amuraa.",
+      "longText": "{name} ({domain}) e horoa i {count} tāʻaʻa ore i roto i te browser no te mau taata e ora nei i te maʻi o te manatu, e tae atu i te mau tāʻaʻa e faatupu ai i te mau hoho'a piti me te mau hoho'a e ite-noa-hia, te tāʻaʻa tuʻu-tuʻu i te mau hoho'a, te faataʻa-parau, te mau parau tuatua e te bingo hoho'a me te mau pepa e tāpiri ai. Aita te konto, te faaʻiteraa, te taime aore ra te mau amuraa. E horoa atoa te pae i te mau buka ohipa parau mǎrama no te mau tuhaa atoa o te maʻi, e faaite ana i te National Institute on Aging e te Alzheimer's Association.",
+      "useTitle": "Te mau mea e nehenehe e faaohipa e te mau faatereraa",
+      "gamesItemHtml": "<strong>{count} tāʻaʻa browser</strong> e ohipa i nia i te ordinateur rima, te tablet, aore ra te TV e faaohipahia ai te ordinateur. Aita e tapiri, konto aore ra hoʻo e hinaaro ai. A hi'o i <a href=\"/games/\">te mau tāʻaʻa atoa</a>.",
+      "printablesLabel": "{count} mau mea e tāpiri ai:",
+      "printablesAfter": "E faaohipa i te buto Print i nia i te api atoa.",
+      "moreItemsHtml": "<li><strong>Te mau faanahoraa no te pūpū:</strong> <a href=\"/games/picture-bingo/\">Bingo hoho'a</a> e horoa i te mau ʻāʻī tāpiri e te faanahoraa i nia i te mata, e <a href=\"/activities/trivia/\">Trivia ore</a> e 50 uiraa e te mau pāpā pāpū e te mau manaʻo no te parau.</li><li><strong>Te mau buka ohipa</strong> no te feia tauturu e te mau melo, mau tuhaa e mau faanahoraa, parau mǎrama e te mau faatiamaraa. Haʻapii i te <a href=\"/activities/ideas/\">101 mau manaʻo ohipa</a> aore ra te <a href=\"/activities/care-home-groups/\">mau ohipa pūpū no te mau fare tauturu</a>.</li>",
+      "restHtml": "<h2>Mea nafea te mau pūpū e faaohipa ai</h2><ul><li><strong>Te mau fare tauturu e te tauturu i te manatu:</strong> bingo hoho'a aore ra te faaoti i te parau i nia i te TV o te piha pūpū, e hoʻi te hoê taata e patipati no te pūpū.</li><li><strong>Te mau faanahoraa i te mahana:</strong> te hoê tabula e faaohipa ai i te Hoho'a piti e faataa i te mau tuhaa e maha, no te mau tāʻaʻa poto hoʻi taata e taata.</li><li><strong>Te mau fare buka i te nuu:</strong> te mau tāʻaʻa parau tuʻu e te mau pepa parau i roto i te mau pūpū manatu, e te api i te tablet o te fare buka.</li><li><strong>Te mau pūpū tauturu no te feia tauturu e te mau pūpū manatu:</strong> <a href=\"/handout/\">te pepa hoho'a hoê api</a> no te mau melo e afai i te fare.</li><li><strong>Te mau fare maʻi e te feia faaineine i te faaoraraa:</strong> te pepa i roto i te mau pūpū no te feia tauturu, no te mea e mârû ai te tāʻaʻa i te fare aore ra i te pae o te moe.</li></ul><h2>Te mea e ore matou e rave</h2><p>Te mau tāʻaʻa no te oʻoaʻo e te faaʻa-atoa i te taime. Aita ratou e haapapu, e tamata, e faatiamaraa, e faaora aore ra e faaiti i te maʻi o te manatu, e e titau matou i te mau faatereraa eiaha e faataa ia ratou mai te reira. Aita te faaiteraa, e aita te tāʻaʻa e titau i te mau i‘oa, te mau parau o te maʻi aore ra te mau hoho'a e tuatua i nia i te pae. E faaohipa te pae i te Google Analytics no te tātau i te mau haerea; to outou <a href=\"/privacy/\">faaiteraa aniraa</a> e faataa i te mea e tātauhia. Te mau hoho'a e faaohipa i roto i <a href=\"/games/photo-pairs/\">Photo pairs</a> e tiamaraa i roto i te browser.</p><h2>Tapiri i to outou faarahiraa pūpū</h2><p>Mai te mea e faaʻohipa outou i te faarahiraa no te feia tauturu, e ao ia outou e faaite i <a href=\"/\">{domain}</a>. E nehenehe outou e faaohipa i te hoʻi parau o teie mau parau.</p>",
+      "shortTitle": "Parau poto",
+      "longTitle": "Parau roa",
+      "linksHtml": "<p>Te mau pae e tano ai outou i te tuatiʻa: <a href=\"/games/\">te mau tāʻaʻa ore</a>, <a href=\"/activities/printable/\">te mau mea e tāpiri ore</a>, <a href=\"/activities/alzheimers/\">te mau ohipa no te Alzheimer's</a> e <a href=\"/caregiving/how-to-play-together/\">nafea te tāʻaʻa pūpū</a>.</p><h2>Te mau uiraa aore ra te mau faatitiaifaro</h2><p>Mai te mea e ere i te mau parau i nia i te pae, aore ra e ere i te mau hinaaro o te taata tauturuhia e te mau mea i reira, e ono mai ia matou i <a href=\"mailto:{email}\">{email}</a>. E aroha mai, eiaha e tono mai i te mau parau no te taata aore ra te maʻi i te fare.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Te app Golden Moments",
+      "seoTitle": "Te app Golden Moments no te iPhone e te Android",
+      "description": "Te app ore Golden Moments: te faaʻitoraa hoho'a e tiamaraa e nehenehe, e faaohipa i te mau hoho'a ohipa i nia i te mea faaohipa a outou, e te mau pūpū hoho'a aita e faaohipa i te raiʻa e aita e hinaaro i te konto.",
+      "crumb": "Te app",
+      "lede": "Te mau mea atoa a outou e hinaaro ra i te pae, i roto i te app e ohipa ai aita te raiʻa e nehenehe e faaohipa i te mau hoho'a ohipa ta outou i fifi.",
+      "worksOn": "E ohipa i nia i {platforms} ({requirements}).",
+      "bodyHtml": "<h2>E haamata iti</h2><p>E haamata i te mau papa rahi e rave rahi e te mau hoho‘a mātaʻu. E faaite i te mau hoho‘a, aore ra e huna ia mai te mea e maitaʻi ia outou. Te mode hāmanīnī aita e tāima, aita e faatupuraa, aita e tāʻiraa. Maiti i te 4, 6, 8 aore ra 12 papa.</p><h2>E faaineine no outou iho</h2><p>Maiti i te mau hoho‘a fare ma te faaohipa i te hoho‘a maiti o to outou pahu. Te faaohipa ra te hoho‘a i te mau hoho‘a iti no ta ʻratou mau ohipa. Aita e hi‘o i to outou pū hoho‘a, e aita e faarahi i to outou mau hoho‘a tumu, e e faaʻaʻu 24 hoho‘a i roto i hoʻu pahu hōʻē.</p><h2>Hi‘o faatahi</h2><p>Hi‘o i te hoho‘a hōʻē i te taime. Te mau parau faaarahi e faaʻohipa-hia ia faaite i te parau, aita e titau ia haamanaʻo i te mau i‘oa aore ra ia pāʻi i te pahonoraa tia. Te hi‘o noa e rahi ai.</p><h2>Ia ore e hinaaro i te internet, e tia i te mea tano</h2><p>Te mau hoho‘a matamua e te 8 pōpoi hoho‘a e tāpiri-hia i roto i te hoho‘a. Te mau hoho‘a fare i haamataʻia e ohipa ore i te internet. Te maiti i te hoho‘a tumu e rave ai i te internet mai te mea e tia.</p><h2>Aita e konte, aita e rave-hia te hoho‘a i te faatupuraa</h2><p>Te mau hoho‘a fare e tiʻa i roto i te hoho‘a i nia i te pahu. E nehenehe outou e faaore i te mau hoho‘a faaiteʻa aita e faaore ai i te mau hoho‘a tumu. E nehenehe te mau pūʻaʻa e haapuʻe i te mau faaohipa hoho‘a. Taʻi i te <a href=\"/app-privacy/\">parau faaitoito no te hoho‘a</a>, e te <a href=\"/help/\">tauturu no te hoho‘a</a> e faaite ia ʻoe i ia tāʻahi.</p>",
+      "disclaimer": "Golden Moments no te pāʻina e te parau faʻatahi. Aita e faaʻite i te maʻi, aita e haamaʻi, aita e faatupu, aita e ana‘e i te dementia aore ra te maʻi Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Mau tāʻere dementia e Alzheimer ore utu i nia i te internet",
+    "description": "Mau tāʻere ore utu i nia i te internet no te mau taata rahi e ora nei e te dementia aore ra te Alzheimer: faʻatiaʻa hoho‘a, faʻatoʻa pāʻina papa, faʻaʻoti, parau, faʻaʻurai, bingo. Aita e konte, aita e tāima, aita e faatupuraa.",
+    "crumb": "Tāʻere",
+    "h1": "Mau tāʻere māʻurʻuru no te mau taata e ora nei e te dementia",
+    "lede": "{count} mau tāʻere ore utu e pāʻina faatahi i roto i te browser. Mau hoho‘a rahi, parau māʻohi, e aita e tāʻe: aita e tāima, aita e faatupuraa, aita e konte.",
+    "listName": "Mau tāʻere māʻurʻuru no te mau taata e ora nei e te dementia",
+    "byStageTitle": "Te maiti i te tāʻere e ʻau i te pae",
+    "byStageLede": "Te mau pae, e faaʻiteʻa iti noa ïa. Faaohipa i te mea e haʻapiʻi ai te taata e te mea e māʻoʻa i teie mahana.",
+    "stageCol": "Pae",
+    "gamesCol": "Mau tāʻere e ʻau maitaʻi",
+    "moreHtml": "Mau faaiteraa aore i nia i te hoho‘a: <a href=\"/activities/ideas/\">101 ohipa no te mau taata e ora nei e te dementia</a>, <a href=\"/activities/alzheimers/\">mau ohipa e te mau tāʻere no te Alzheimer</a>, <a href=\"/activities/memory-games/\">mau tāʻere haamanaʻo māʻurʻuru</a> e <a href=\"/activities/puzzles/\">mau tāʻere tāʻaʻe</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ē tāʻere te tia ia haamata tātou?",
+        "a": "Te Mau hoho‘a piti me te 4 papa, o te maʻi matamua ïa e māuruuru. Mai te mea e fifi outou i te maiti i te mau hoho‘a, faaohipa i Hi‘o i te mea ʻaʻa me te 2 hoho‘a. No te pǖpǖ, faaohipa i Bingo hoho‘a."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "E ohipa anei te mau tāʻere i nia i te iPad aore ra i te pūʻaʻa?",
+        "a": "Ē. Te mau tāʻere atoʻa e ohipa i te browser i nia i te pūʻaʻa, te iPad e te ordinateur, e te mau hoho‘a e rahi i te mata. Te iPad i nia i te hāʻapūʻa e maitaʻi roa no te piti taata."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "E maitaʻi anei te mau tāʻere no te taata e ora nei e te maʻi Alzheimer?",
+        "a": "Ē. Ua haamataʻia no te mau taata e ora nei e te dementia, e te Alzheimer, te maʻi o te rahi. Te mau hoho‘a e tiʻa noa, e iti te maiti, e aita e tāima e aita e tāʻiraa, no reira te mau tāʻere e tāʻi i te haʻapiʻiraa i te mau mea ʻaʻa, aita i te haamanaʻo i te mau mea apī."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "E mau tāʻere haamanaʻo anei no te mau taata rahi?",
+        "a": "Te mau tāʻere piti e te hoho‘a e pāʻina ai te taata rahi atoʻa, teie râ ua haamataʻia ʻaore ʻātoʻa e tāʻi i te haamanaʻo: i roto i te Mau hoho‘a piti, te mau hoho‘a e tiʻa i nia i te mata mai te mea aore outou e maiti ē. Ta matou tauiraa i te mau tāʻere haamanaʻo no te taata e ora nei e te dementia e faaite ia ʻoe e nafea ia faaʻohipa i te tāʻere haamanaʻo māʻurʻuru."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "E mau tāʻere no te pǖpǖ i roto i te fare tauturu anei?",
+        "a": "Ē. Bingo hoho‘a e mau kāati e tāpiri-hia, e te taata e ‘āʻaʻa i nia i te mata. Haapau i te parau e te mau pepa parau e maitaʻi roa ia taʻi-faahia i te pǖpǖ."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad e Android",
+    "requirements": "iOS 15 aore ra i muri; Android 7.0 aore ra i muri",
+    "summary": "Te hoho‘a ore utu no te iPhone, iPad e Android, me te faatiaʻa hoho‘a māʻurʻuru i nia i te 4 e te 12 papa rahi, te faatiaʻa e te hi‘o i te mau hoho‘a fare ta outou i maiti, e te 8 pōpoi hoho‘a e ohipa ore i te internet. Aita e konte, aita e haamataʻa, aita e tāima, aita e tāʻiraa.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Faatiaʻa hoho‘a māʻurʻuru me te 4, 6, 8 aore ra 12 papa rahi; te mau hoho‘a e tiʻa noa, mai te mea aore outou e hinaaro e huna",
+      "Te mau hoho‘a fare ta outou e maiti ia faaʻohipa-hia i roto i te hoho‘a no te faatiaʻa e te hi‘o faatahi",
+      "Hi‘o faatahi: hoho‘a hōʻē i te taime, e te mau parau faaarahi e maiti ai outou",
+      "E 8 pōpoi hoho‘a e tāpiri i roto i te hoho‘a; e ohipa ore i te internet",
+      "Aita e konte, aita e faaʻohipa-hia i te tāima, aita e tāʻiraa, aita e haamauiui"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "E hoho‘a ohipa no te dementia anei?",
+        "a": "Ē. Golden Moments (ua faaitehia ei \"{storeName}\") ore utu i nia i te App Store e te Google Play. E mau tāʻere faatiaʻa hoho‘a me te mau papa rahi, mau tāʻere me te mau hoho‘a fare ta outou e maiti ai, e te mau pōpoi hoho‘a e ohipa ore i te internet."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "E ore utu anei te hoho‘a Golden Moments?",
+        "a": "Ē. E ore utu te faaohipa, aita e tāʻi, aita e konte, aita e hoʻo i roto i te hoho‘a."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "E ohipa anei te hoho‘a i te internet ore?",
+        "a": "Ē. Te mau hoho‘a matamua e te 8 pōpoi hoho‘a e tāpiri-hia i roto i te hoho‘a, e te mau hoho‘a fare e ohipa ore i muri a‘e i to ratou tāpiriraa i roto i te hoho‘a. Te hoho‘a i roto i te iCloud anaʻe e hinaaro paha i te internet."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "E nehenehe anei e faaohipa i te mau hoho‘a fare ta matou?",
+        "a": "Ē. E fifi ʻoe i te mau ʻata ma te hoʻo fifi a tō pahi. E tāupiʻi te tāʻaʻa i te mau ʻata iti no tāna mau haʻuti i nia i te pahi, e ʻore e tuʻu i te mau ʻata i ni ʻōpūtuʻu, e ʻore hoʻi e tāmau i te mau ʻata tumu. E nehenehe ʻoe e tāpē i te mau ʻata iti i nā taime atoʻa."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "E pahi haʻapiʻi hinaaro anei, e pahi tamataʻa hinaaro ?",
+        "a": "ʻAʻore. Golden Moments no te oaoa e te tōʻeʻe pamu. ʻAʻore he mau fana, e mau tamataʻa ʻore hoʻi, e ʻore hoʻi e haʻapiʻi, e ʻore e tāʻaʻa, e ʻore e haʻapapu i te maʻi dementia e te maʻi Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "E aha te mau pūtuʻu e ohipa ai ?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "E ʻāpi tāʻaʻa anei no tēnei pāʻani ?",
+      "a": "Ē. Te pahi Golden Moments tāuʻa no iPhone, iPad e Android e faaʻōʻō i te mau ʻata iti e te mau ʻata ʻohipa i fifi ai ʻoe, e ohipa ʻoia ʻore i te Ruʻa. ʻAʻore he faatiʻa, ʻaʻore he tuʻuʻa, ʻaʻore he fana."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "E ʻāpi tāʻaʻa anei no tēnei pāʻani ?",
+      "a": "ʻAʻore no tēnei pāʻani. Te pahi Golden Moments tāuʻa no iPhone, iPad e Android e faaʻōʻō i te mau ʻata iti rahi e te mau ʻata ʻohipa i fifi ai ʻoe, e ohipa ʻoia ʻore i te Ruʻa. Tēnei pāʻani e tāuʻa noa i tō ʻoe pūtuʻu."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: mau ʻata rahi, maitai",
+    "noscript": "E hinaaro tēnei pāʻani i te JavaScript i hoʻo ʻia i tō pūtuʻu. E ohipa te mau tōʻeʻe i raro nei ʻaʻore te JavaScript.",
+    "about": "No {name}",
+    "aboutAria": "No tēnei pāʻani",
+    "noTimer": "ʻAʻore he tīmā e he fana",
+    "printable": "E tāpeʻa ʻia",
+    "howTo": "Mea nafea e pāʻani ai i {name}",
+    "tips": "Mau tōʻeʻe no te pāʻani tahitahi",
+    "newToPlayingHtml": "Eiaha ʻoe i ʻāpi i te pāʻani e te taata e ora nei ma te dementia ? E taiʻa <a href=\"/caregiving/how-to-play-together/\">mea nafea e pāʻani tahitahi ai</a>, e te mea ā e ʻohipa ai ʻoe ināhea e ʻore ai te taata e hinaaro faahou.",
+    "moreAria": "Te tahi atu e tīmātā ai",
+    "helpfulGuides": "Mau faatereraa tauturu",
+    "appTitle": "E pāʻani i roto i te pahi",
+    "appText": "Te pahi Golden Moments tāuʻa e faaʻōʻō i te mau ʻata iti rahi e te mau ʻata ʻohipa i fifi ai ʻoe, e ohipa ʻoia ʻore i te Wi‑Fi. iPhone, iPad e Android.",
+    "photoAppTitle": "E tāuʻa i ō ʻata",
+    "photoAppText": "I roto i te pahi Golden Moments tāuʻa, e tāmau te mau ʻata ā fifi ai ʻoe i tō pūtuʻu no te hoʻi faahou, e ohipa te mau pāʻani ʻaʻore te Wi‑Fi. iPhone, iPad e Android.",
+    "goodToKnow": "E hiʻo maitai",
+    "goodToKnowText": "Tēnei pāʻani no te oaoa e te tōʻeʻe pamu. ʻAʻore ia e haʻapapu, e fana ʻore hoʻi e tāʻaʻa i tetahi mea.",
+    "moreGames": "Mau pāʻani maitai atu",
+    "crumb": "Mau pāʻani"
   }
 }

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Bifukanyi bia muomumwe",
+    "seoTitle": "Manaya a Kufuanyikija Bifukanyi bua Bantu Badi ne Lutatu lua Kupua Muoyo: Bifukanyi bia Muomumwe",
+    "h1": "Bifukanyi bia muomumwe: manaya a bupole a kufikisha bifukanyi",
+    "description": "Manaya a tshianana a bupole a kufuanangaja bifukanyi bua bantu badi ne lutatu lua kupua muoyo. Bifukanyi binene bishala bimueneka, kakuena diba dia kubadika anyi bipeta, ne udi usungula bifukanyi 4 too ne 12.",
+    "short": "Keba bifukanyi bibidi bidi bia muomumwe. Bifukanyi bidi mua kushala bimueneka.",
+    "players": "Muntu 1 anyi bantu 2, luseke ku luseke",
+    "intro": "Tua munue pa tshifukanyi, pashishe utue pa tshidi tshifuanangane natsho. Bifukanyi bishala bimueneka pa tshibidilu, nunku kakuena bualu bua kulama ku muoyo to. Padi bifukanyi bibidi bipetangana, bidi bipeta mukaba wa ngolo ne kamanyinu ka diteka.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Sungula bungi bua bifukanyi biudi musue kuenza nabi. Bifukanyi binayi ndutendelu luimpe lua bupole lua kutuadila.",
+      "Tua munue pa tshifukanyi tshionso. Tshidi tshipeta mukaba wa ngolo.",
+      "Tua munue pa tshifukanyi tshidi tshimueneka bia muomumwe. Bifukanyi bibidi abi bishala pamue ne kamanyinu ka diteka.",
+      "Biotshila ne bifukanyi bibidi abi bidi bishilangane, kakuena tshibi tshidi tshienzeka to. Tua kabidi munue dîba dionso diudi mudiakaje.",
+      "Teeka \"Bifukanyi bisokoka\" anu biobi ne nuenu bonso babidi nudi basue mushindu wa kale wa bifukanyi bikudimuna kumpala."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Telayi mêna a bifukanyi pamue ne kuyukila bualu buabi: \"Lupanza lua kayi lukunze. Utukuuela mabele mu kayi yebe anyi?\"",
+      "Lekela muntu uudi utabalela atue munue nkayende, nansha bikalabi biambula tshikondo. Mulee ne munue pamutu pa kumutuila.",
+      "Shalayi ne bifukanyi binayi munkatshi mua tshikondo tshionso tshinudi badiumvua bimpe. Kuvudija bifukanyi ndisungula dienu, ki ndupapu lua kufika to.",
+      "Jikijayi patshidi manaya masankisha. Manaya amue nkajikijilu kalumbuluke ka mudimu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudiku tshibadilu tshia diba anyi bungi bua manaya anyi?",
+        "a": "To. Kakuena montrɛ, bungi bua manaya, tshibadilu tshia bishima anyi kutshimbibua to. Udi mua kuimana dîba dionso, ne kuimana munkatshi mmushindu muimpe menemene wa kujikija."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Bua tshinyi bifukanyi bishala bileja kumpala?",
+        "a": "Kushiya bifukanyi bimueneka kudi kuvuija manaya mikalo ya kutangila ne kufuanangaja pamutu pa kulama ku meji. Bantu ba bungi badi bamona bualu ebu bu bupole menemene. Udi mua kualukila ku bifukanyi bisokoka ne ditua dimue patupu biawikala musue."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Manaya aa nga tshianana anyi, ne bidi bikengela kudifundisha anyi?",
+        "a": "Eyowa, nga tshianana, ne kakuena konte, didifundisha anyi kutentula bintu to. Adi alua mu programe wa Enternete pa telefone, tabulete anyi ordinatere."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Tudi mua kuenza mudimu ne bifoto bietu bia bena mu dîku anyi?",
+        "a": "Eyowa. Teta Bifoto bia muomumwe, bidi bikuitabila kusungula bifoto bidi mu tshiamu tshiebe. Bifoto bidi bishala mu programe webe wa Enternete ne kabiena bipatuka bua kuya kundi to."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Keba tshidi tshia muomumwe",
+    "seoTitle": "Keba Tshifukanyi Tshia Muomumwe: Manaya Mapepele bua Bantu Badi ne Lutatu lua Kupua Muoyo",
+    "h1": "Keba tshifukanyi tshia muomumwe",
+    "description": "Tshifukanyi tshimue kulu, bibidi too ne binayi kuinshi. Tua pa tshidi tshia muomumwe. Manaya a tshianana a bupole a bifukanyi bua bantu badi ne lutatu lua kupua muoyo, kakuyi diba dia kubadika.",
+    "short": "Tangila tshifukanyi tshidi kulu ne tua pa tshidi tshia muomumwe kuinshi.",
+    "players": "Muntu 1 anyi bantu 2",
+    "intro": "Tshifukanyi tshimue tshidi kulu kua skrini. Kuinshi kuatsho kudi bifukanyi bibidi, bisatu anyi binayi. Tua pa tshidi tshia muomumwe. Ndisungula dimue dipepele pa musangu umue, ne mushindu muakane wa kuyukila pamue.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Sungula bifukanyi bibidi, bisatu anyi binayi bua kusungulamu. Bibidi mbimpe bitambe bualu bidi bipepele.",
+      "Tangilayi tshifukanyi tshidi kulu pamue.",
+      "Tua pa tshifukanyi tshia muomumwe kuinshi. Badi batshiteka kamanyinu ka diteka ne mêyi a bupole a disanka.",
+      "Biotshila ne udi mutue pa tshifukanyi tshikuabu, manaya adi patupu atela dîna diatsho ne bindila. Nuangate tshikondo tshienu.",
+      "Tua pa \"Tshifukanyi tshilondolodi\" pawikala mudiakaje bua tshikuabu."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Akulayi bua tshifukanyi tshionso kumpala kua kusungula: biseba bia langi, bule buatsho, ne muaba unudi mua kutshimona.",
+      "Masungula abidi ki ndiambila ne bidi \"bipepele pitshitshi\" to. Tshipatshila nkuikala ne tshikondo tshimpe pamue, ki nkutangila buata to.",
+      "Biotshila ne kutua kudi bikole, muntu udi mua kuleja ne munue ne wewe udi mua kumutuila."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudiku tshibadilu tshia diba anyi bungi bua manaya anyi?",
+        "a": "To. Kakuena montrɛ, bungi bua manaya, tshibadilu tshia bishima anyi kutshimbibua to. Udi mua kuimana dîba dionso, ne kuimana munkatshi mmushindu muimpe menemene wa kujikija."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ntshinyi tshidi tshienzeka biobi ne udi mutue pa tshifukanyi tshishilangane?",
+        "a": "Kakuena tshintu tshibi to. Kakuena tshiona, kamanyinu kakunze anyi lukanka to. Manaya adi atela patupu dîna dia tshifukanyi tshiudi mutue ne bindila ditua dikuabu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Manaya aa nga tshianana anyi, ne bidi bikengela kudifundisha anyi?",
+        "a": "Eyowa, nga tshianana, ne kakuena konte, didifundisha anyi kutentula bintu to. Adi alua mu programe wa Enternete pa telefone, tabulete anyi ordinatere."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kufuanangaja mundidimbi",
+    "seoTitle": "Manaya a Kufuanangaja Mundidimbi bua Bantu Badi ne Lutatu lua Kupua Muoyo: Tshianana ku Enternete",
+    "h1": "Kufuanangaja mundidimbi: manaya a bupole a bifukanyi",
+    "description": "Mundidimbi mufike kulu, bifukanyi bibidi too ne binayi kuinshi. Tua pa tshifukanyi tshidi tshienza mundidimbi au. Manaya a tshianana a bupole a kufuanangaja mundidimbi bua bantu badi ne lutatu lua kupua muoyo, kakuyi diba dia kubadika.",
+    "short": "Tangila mundidimbi ne tua pa tshifukanyi tshidi tshitutshitu.",
+    "players": "Muntu 1 anyi bantu 2",
+    "intro": "Kufuanangaja mundidimbi mmudimu mumanyike bimpe wa mu mikanda mifunda, kadi apa udi ne bifukanyi binene kakuyi tshintu tshia kupatula ku tshiamu to. Mundidimbi wa bupole udi kulu kua skrini ne bifukanyi bibidi, bisatu anyi binayi bidi bindila kuinshi. Tua pa tshidi tshienza mundidimbi au. Bintu bidi ne nseke bu mudi kakinga, mangunza anyi lupanza lua kayi bidi bipepele kabidi bua kuyukila bualu buabi.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Sungula bifukanyi bibidi, bisatu anyi binayi bua kusungulamu. Bibidi mbimpe bitambe bualu bidi bipepele.",
+      "Tangilayi mundidimbi pamue. Mbua mushindu kayi? Mmutshilame anyi mmubulungana?",
+      "Tua pa tshifukanyi tshidi tshienza mundidimbi au. Dîna diatsho didi dimueneka kuinshi kua mundidimbi.",
+      "Biotshila ne udi mutue pa tshifukanyi tshikuabu, manaya adi patupu atela dîna diatsho ne bindila. Nuangate tshikondo tshienu.",
+      "Tua pa \"Mundidimbi mulondolodi\" pawikala mudiakaje bua mukuabu."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Londa mikalo ya mundidimbi ne munue ne nuakule bua mushindu udiye.",
+      "Bikala mundidimbi umueneka mukole lelu, nualukile ku Keba tshidi tshia muomumwe, muaba udi bifukanyi bifuanangane bimpe.",
+      "Akulayi bua tshifukanyi panyima pa dimonika diatsho: \"Tuvua ne mangunza a nunku kale.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudiku tshibadilu tshia diba anyi bungi bua manaya anyi?",
+        "a": "To. Kakuena montrɛ, bungi bua manaya, tshibadilu tshia bishima anyi kutshimbibua to. Udi mua kuimana dîba dionso, ne kuimana munkatshi mmushindu muimpe menemene wa kujikija."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Kulingakanya bimvule kudi kwimpe kudi bantu badi ne lutatu lwa kwilwa malu anyi?",
+        "a": "Bidi bibwanya kwikala mudimu musengelele kabidi mwipele kudi bantu bamo, nangananga mu bitupa bya ku mbangilo. Mbidi ya bintu idi yambula kumanyikwa kupita bishima. Bidi bwa disanka ne kwisambila pamwe, ke bwa kuteta muntu to, kabidi kabidiko byondopa anyi kulesha lubilo lwa disama dya kwilwa malu to. Shi bidi bifikitsa munda, tombelai Keba bya mutyindo umo anyi talai patupu bifwatulo pamwe."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Bidi bipita namani shi muntu afinya pa kifwatulo kishi kyashikila?",
+        "a": "Kakwena kintu kibi kipita to. Kakwena lubila lwa kusaula, musalaba mukunze anyi kwelakana. Mulangwe utela difuku dya kifwatulo kifinye ne kwilaija muntu afinye dikwabo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bidi bya bitupu anyi, ne bidi bilomba kwikwatyija anyi?",
+        "a": "Iyo, bidi bya bitupu, ne kakwena kompte, kwikwatyija anyi kutentula kintu to. Bidi byenda mu musoko wa entelenete pa foni, tablo anyi ordinatere."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Tulanya pamwe",
+    "seoTitle": "Mulangwe wa Kutulanya bwa Bantu badi ne Lutatu lwa Kwilwa Malu: Tulanya Pamwe",
+    "h1": "Tulanya Pamwe: Mudimu wa Kutulanya Bifwatulo",
+    "description": "Finya pa kifwatulo, kashika finya pa kisaka mwafwaninwa kwenda: kizuku anyi budimi, bikeno anyi banyama. Mudimu utukile kabidi wa bitupu wa kutulanya bwa bantu badi ne lutatu lwa kwilwa malu.",
+    "short": "Tula kifwatulo ne kifwatulo mu kisaka kyako: kizuku anyi budimi, ne bikwabo.",
+    "players": "Muntu 1 anyi 2",
+    "intro": "Kutulanya bintu i mudimu wijiwe kabidi usangaja wa moba onso, pamo bwa kulongolola bintu bya ku ngenda anyi kuluka masose. Finya pa kifwatulo, kashika finya pa kisaka mwafwaninwa kutwela. Kakwena lubilo ne kakwena kilubo to.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Tonga mutwe wa mwanda: kizuku ne budimi, bikeno ne banyama, anyi ku nshibo ne kwenda mwendo.",
+      "Finya pa kifwatulo. Kibwanya mutshila wa oolo.",
+      "Finya pa kisaka mwafwaninwa kutwela. Kifwatulo kitwela mu kisaka kyo kine.",
+      "Shi kibwanya kutwela mu kisaka kikwabo, mulangwe wisamba bipepele ne kwilaija.",
+      "Ponso papwa kutulanywa bifwatulo, talai bidi mu bisaka pamwe."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mu bwikalo bwa moba onso, kantu kabi kakokeji kwikala ponso to. Shi muntu wanena amba kisuki kya mema kifwaninwe kwikala mu kizuku, mwipangule kine kyawanenena namino. Ubwanya kwivwana mwanda mulenga.",
+      "Ingidijai bifwatulo bwa kushilula kwisamba: \"I bika byowadimi mu budimi bwobe?\"",
+      "Kutulanya bintu bya binebine, pamo bwa bitwelo ne masumu anyi buto pa mutyindo wa langi, i kantu kampe kakwabo kashikila kutaluka ku kilonji."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudi nsaa anyi manota anyi?",
+        "a": "Mhm. Kakwena nsaa, manota, kubala misusa anyi kukimbwa to. Ubwanya kwimana pa kyaba kyonso, ne kwimana pa bukata i muswelo mwimpe wa kupwija."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Mwanda waka kutulanya?",
+        "a": "Bantu bavule basenswe kutulanya mwanda bimwekanga pamo bwa mudimu wijiwe kabidi wa kamweno. Bidi kabidi byambula kwisamba pa bifwatulo pomukidi mu mudimu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bidi bya bitupu anyi, ne bidi bilomba kwikwatyija anyi?",
+        "a": "Iyo, bidi bya bitupu, ne kakwena kompte, kwikwatyija anyi kutentula kintu to. Bidi byenda mu musoko wa entelenete pa foni, tablo anyi ordinatere."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzle wa bifwatulo",
+    "seoTitle": "Puzle Mwipele bwa Bantu badi ne Lutatu lwa Kwilwa Malu: Bitupa 4 anyi 9",
+    "h1": "Puzle wa Bifwatulo: Puzle Mwipele",
+    "description": "Puzle mwipele wa pa entelenete bwa bantu badi ne lutatu lwa kwilwa malu: bitupa bikatampe 4 anyi 9, kifwatulo kyonso kimwekanga, kabidi ufinya pa bitupa bibidi bwa kwibishinta.",
+    "short": "Finya pa bitupa bibidi bwa kwibishinta kufika ne pabwanya kifwatulo kyonso.",
+    "players": "Muntu 1 anyi 2",
+    "intro": "Kifwatulo kisangaja kitetwe mu bitupa bikatampe binaneyi anyi kitema ne kubulakanibwa. Kifwatulo kyonso kimwekanga bwa kwimukwasha. Finya pa kitupa kimo, kashika pa kikwabo, bishinta byaba. Kakwena mwanda wa kukoka kitupa to.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Tonga kifwatulo ne bitupa 4 anyi 9. Bitupa binaneyi i kibangilo kimpe kitukile.",
+      "Tala kifwatulo kyonso kimwekanga peulu.",
+      "Finya pa kitupa, kashika finya pa kifuko pafwaninwe kwenda. Bitupa bibidi bishinta byaba.",
+      "Bitupa bitwelanga pa kifuko kyabyo bipanwanga kano kalambula katyetye.",
+      "Pabwanya kifwatulo kyonso, sangalai nako pamwe, kashika tongai kikwabo."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kufinya pa bitupa bibidi bwa kwibishinta kudi kwipele nakampata kudi bantu bavule kupita kukoka.",
+      "Isambai pa kifwatulo ponso pokibungila pamwe: \"Talapo musaka mukunze awu.\"",
+      "Puzle wa binebine wa mityi wa bitupa bikatampe 12 kufika ku 24 nandi i mudimu mulenga wa pa meza."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudi nsaa anyi manota anyi?",
+        "a": "Mhm. Kakwena nsaa, manota, kubala misusa anyi kukimbwa to. Ubwanya kwimana pa kyaba kyonso, ne kwimana pa bukata i muswelo mwimpe wa kupwija."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Bidi bilomba kukoka bitupa anyi?",
+        "a": "Mhm. Finya pa kitupa kimo, kashika finya pa kikwabo, bishinta byaba. Kino kipepele nakampata shi kuboko kudi kutetema anyi pa kilonji katyetye."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bidi bya bitupu anyi, ne bidi bilomba kwikwatyija anyi?",
+        "a": "Iyo, bidi bya bitupu, ne kakwena kompte, kwikwatyija anyi kutentula kintu to. Bidi byenda mu musoko wa entelenete pa foni, tablo anyi ordinatere."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Kumbaja nkindi",
+    "seoTitle": "Kumbaja Nkindi: Mulangwe wa Nkindi bwa Bakulumpe",
+    "h1": "Kumbaja Nkindi",
+    "description": "Nkindi yijiwe ya bwikalo idi ibudilwe kishima kya mfulo, pamo bwa \"Bupeta bwa muntu i bupeta bwa ___\". Finya pa bishima byakutonga anyi lomboja mfulo, kashika isambai pa kyo kine.",
+    "short": "Kumbajai nkindi yijiwe pamwe, kashika isambai pa yo mine.",
+    "players": "Muntu 1, 2 anyi kibumbo",
+    "intro": "Nkindi ya kala ivudile kwijikwa mu bwikalo bonso bwa muntu. Mukanda ne mukanda ulomboja nkindi yijiwe ibudilwe kishima kya mfulo, bishima bisatu byakutonga, ne buto wa \"Lomboja mfulo\". Papwa kulomboja mfulo, kwiipangula kutukile kutambula mwanda wa kwisamba.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Tangai nkindi peulu pamwe na diwi.",
+      "Finya pa kishima kipwija mwanda, anyi finya pa \"Lomboja mfulo\".",
+      "Tangai nkindi yonso monka ne kwisamba pa yo kwingidija kwiipangula kudinako.",
+      "Finya pa \"Nkindi ilonda\" pomukidi beteakanye."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Tangai kapepele ne kusha kakaba katyetye kumeso kwa kishima kya mfulo. Misusa mivule bantu batelanga kyo kishima kumeso kwa mfulo yobe.",
+      "Shi muntu wapa mfulo ingi, sangalai nayo. Myendele ya nkindi imo ishintanga mungya bisaka anyi bifuko.",
+      "Mu kibumbo, muntu umo utanganga kashika bonso babungila pa mfulo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudi nsaa anyi manota anyi?",
+        "a": "To. Kakwena dwele dia dîba, bungi bwa manota, mbadilu wa misangu anyi kutshimbibwa to. Nudi mua kwimana pa dîba dionso didi dinusankisha, ne kwimanyina munkatshi kudi bimpe be mudi nkomenu mulenga."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Kadi bitwasungula muaku mushilangane nansha?",
+        "a": "Manaya aa adi aleja nshikidilu udi mumanyike ne kupita ku diyakula. Kakwena bungi bwa manota to, ne diandamuna dishilangane didi bimpe bikole."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbidia tshianana anyi, ne bidi bikengela kudifundisha anyi?",
+        "a": "Eyowa, mbidia tshianana, ne kakwena konte, didifundisha anyi kutentula bintu to. Bidi byenda bimpe mu konteinateur wa Enternete pa telefone, tabuleti anyi ku ordinatere."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Kukeba miaku ne maleta manene",
+    "seoTitle": "Kukeba miaku ne maleta manene bua bantu bapua bintu muoyo, bidi mua kupulintshibwa",
+    "h1": "Kukeba Miaku ne Maleta Manene",
+    "description": "Kukeba miaku dia tshianana ne maleta manene bua bakulumpe ne bantu badi ne lutatu lua kupua bintu muoyo. Miaku yidi mikese, maleta manene, miaku idi ya kulama ku buseke ne kutula panshi patupu. Nayi pa Enternete anyi pulintshi pa kapepela.",
+    "short": "Maleta manene, miaku mikese, ku buseke ne kutula panshi patupu. Bidi mua kupulintshibwa kabidi.",
+    "players": "Muntu 1 anyi bantu 2",
+    "intro": "Kakatshila kakese ka maleta manene ne miaku mikese patupu, yonsu idi ibadika ku buseke anyi ku mutu kutula panshi. Finya pa dileta dia kumpala dia muaku, pashishe finya pa dileta diandi dia ndekelu. Nudi basue kapepela anyi? Pulintshayi kakatshila kapia-kapia mu difinya dimwe patupu.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Sungulayi tshiena-bualu ne bunene bua kakatshila.",
+      "Tangilayi mulongo wa miaku. Miaku idi ibadika ku buseke (kumbukila ku dia bakaji mutangile ku dia balume) anyi ku mutu kutula panshi.",
+      "Finyayi pa dileta dia kumpala dia muaku, pashishe finyayi pa dileta diandi dia ndekelu.",
+      "Muaku unudi bapete udi utemeshibwa langi ne batusa pa mulongo.",
+      "Finyayi \"Pulintsha dinaya edi\" bua kunaya pa kapepela ne kreyon anyi feti."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Lejayi muaku mu mulongo ne kebayi dileta diawu dia kumpala pamwe chete.",
+      "Pa kapepela, felete wa kuleja malangi udi mwipepele bua kukwata kupita kreyon.",
+      "Yakulayi pa miaku ya tshiena-bualu. Miaku ya bimuma idi nshindamenu mulenga bua kuvuluka dipuola dia bimuma, kulamba anyi bikadilu bia ku tshisalu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudiku dwele dia dîba anyi bungi bwa manota anyi?",
+        "a": "To. Kakwena dwele dia dîba, bungi bwa manota, mbadilu wa misangu anyi kutshimbibwa to. Nudi mua kwimana pa dîba dionso didi dinusankisha, ne kwimanyina munkatshi kudi bimpe be mudi nkomenu mulenga."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ndi mua kupulintsha dinaya dia kukeba miaku edi anyi?",
+        "a": "Eyowa. Finyayi \"Pulintsha dinaya edi\" bua kupulintsha kakatshila ka katataka ne maleta manene, kusangisha mulongo wa miaku kuinshi kwaku. Dinaya dipia-dionso didi dishilangane ne dikwabu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbidia tshianana anyi, ne bidi bikengela kudifundisha anyi?",
+        "a": "Eyowa, mbidia tshianana, ne kakwena konte, didifundisha anyi kutentula bintu to. Bidi byenda bimpe mu konteinateur wa Enternete pa telefone, tabuleti anyi ku ordinatere."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Mabeji a kuela malangi",
+    "seoTitle": "Mabeji a kuela malangi bua bakulumpe badi bapua bintu muoyo (Tshianana)",
+    "h1": "Mabeji a Kuela Malangi",
+    "description": "Mabeji mapepele a kuela malangi bua bakulumpe ne bitupa binene: finyayi langi, pashishe finyayi pa tshimfuanyi. Kakwena difiika anyi bukoya, kakwena langi mubi to, ne dibeji dionso didi mua kupulintshibwa tshianana.",
+    "short": "Finyayi langi, pashishe pa tshitupa tshia tshimfuanyi. Nudi mua kupulintsha mabeji kabidi.",
+    "players": "Muntu 1 anyi bantu 2",
+    "intro": "Mabeji adi ne bimfuanyi binene ne bipepele: bilongo mu kanu, nzubu, lupasa lua tiyi, tshimpumpu ne buatu bua mpepele. Finyayi langi, pashishe finyayi pa tshitupa tshia tshimfuanyi bua kuwuja langi. Kakwena langi mubi to.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Sungulayi dibeji.",
+      "Finyayi langi. Langi yonso udi ne dîna diandi difunda pawu.",
+      "Finyayi pa tshitupa tshia tshimfuanyi bua kuujapu langi au.",
+      "Nudi mua kushintulula meji pa dîba dionso pa kuelapu kabidi langi mukwabu.",
+      "Finyayi \"Pulintsha dibeji edi\" bua kupeta dibeji ditoke dia kuela malangi ne kreyon anyi feti."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Fidilayi malangi abidi patupu bua kusungula pamutu pa kuafila onso pamwe bitwikala kusungula kudi ne kapepele kakese.",
+      "Miti ya langi wa dikalala ne dîba dia langi wa buloba mbidianyakidila. Tshipatshila nkusanka ne malangi, ki ndilondolola bimpe to.",
+      "Mabeji mapulintsha adi enda bimpe bikole ne feti minene anyi kreyon idi mipite bunene, bualu idi mipepele bua kukwata."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudiku dwele dia dîba anyi bungi bwa manota anyi?",
+        "a": "To. Kakwena dwele dia dîba, bungi bwa manota, mbadilu wa misangu anyi kutshimbibwa to. Nudi mua kwimana pa dîba dionso didi dinusankisha, ne kwimanyina munkatshi kudi bimpe be mudi nkomenu mulenga."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Mabeji aa adi mafwanangane ne bintu bia bana batekete anyi?",
+        "a": "Tuvua bela bintu bipepele ne bia bupole pamutu pa bimfuanyi bia manaya a bana, bua mabeji aa akumbanyine bakulumpe. Bimfuanyi binene bidi bifwila kuela malangi kupepele kakuyi kufwanangana ne bia bana to."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbidia tshianana anyi, ne bidi bikengela kudifundisha anyi?",
+        "a": "Eyowa, mbidia tshianana, ne kakwena konte, didifundisha anyi kutentula bintu to. Bidi byenda bimpe mu konteinateur wa Enternete pa telefone, tabuleti anyi ku ordinatere."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Karta ya miyuki",
+    "seoTitle": "Kutwadija miyuki bua bantu badi bapua bintu muoyo: Karta ya bimfuanyi",
+    "h1": "Karta ya Miyuki",
+    "description": "Karta ya bimfuanyi ne ntwadijilu ya bupole bua miyuki bua bantu badi ne lutatu lua kupua bintu muoyo: kakwena makonka a mukolo, kakwena mandamuna a malulame to. Nzulayi pa kilejelu anyi pulintshayi karta yonso mijima.",
+    "short": "Karta ya bimfuanyi ne nkonko mikanguke ya bupole. Kakwena makonka a mateta to.",
+    "players": "Bantu 2 anyi tshisumbu tshia bantu",
+    "intro": "Karta yonso idi ne tshimfuanyi tshimanyike pamwe ne dibikila dia bupole bua kuyukila, bu mudi \"Mpepele kayi idibi inusankisha bikole?\" Kakwena mandamuna makane a kulonda to, ne kakwena tshia kuvuluka to. Sungulayi tshiena-bualu anyi sangishayi karta yonso pamwe.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Sungulayi tshiena-bualu, anyi lekayi \"Karta yonso\".",
+      "Badikayi lukonko ne dîyi dia kuleja patoke ne tangilayi tshimfuanyi pamwe chete.",
+      "Telejayi, sambilayi diandamuna dienu nuenu, ne lekayi miyuki yende mudiyi yenda.",
+      "Finyayi \"Karta udi ulonda\" panudi badiakaje, anyi shalayiku ne karta umwe dîba dionso dinudi basue.",
+      "Finyayi \"Pulintsha karta yonso\" bua kukosa kapepela ka karta."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Andamunayi lukonko nuenu bine kabidi. Ebi bidi bivuija muyuki, ki ndilondolola dia nkonko to.",
+      "Londayi mufundu anyi luseku, ki mbualu bujima bua malulame to. Bikalabi ne bualu bushilangane, bidiku bimpe patupu.",
+      "Bikala karta udi ulenga bualu bwa kanyinganyinga, itabayi kanyinganyinga ako ne pitayi ne bupole buonso ku karta mukwabu."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Bua tshinyi kakwena nkonko ya mudi \"Nudi bavuluke… ?\"",
+        "a": "Nkonko idi yeta meji a lungenyi idi mua kumvwika bu mateta a ku kalasa ne kupetesha bumvwu. Mabikila makanguke bu mudi \"Mbundilayi bualu bwa…\" adi apetesha muntu yonso mushindu wa kubwelamu, bionso bidiye mua kuvuluka."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ndi mua kupulintsha karta eyi anyi?",
+        "a": "Eyowa. \"Pulintsha karta yonso\" udi upulintsha karta yonso ne maleta manene, karta ya bungi pa dibeji dimwe, idi midiakaje bua kuyikosa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbidia tshianana anyi, ne bidi bikengela kudifundisha anyi?",
+        "a": "Eyowa, ki mbafute kantu to, kabiena bikengela konte, didifundisha peshi ditentula to. Bidi bienzeka bimpe mu mutebuji wa ku enterneete wa ku telefone, katelebite peshi kumpita."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Mabidi a foto",
+    "seoTitle": "Kuenza manaya a kufuanyikija ne foto ya mu dîku",
+    "h1": "Mabidi a foto: Fuanyikija foto yebe webe",
+    "description": "Kudimuna foto ya dîku diebe bua kuikala manaya mapole a kufuanyikija. Sungula foto 2 too ne 6 mu tshiamu tshiebe; idi ishala patupu mu mutebuji webe, kabayi bayituma kaba kakuabu to.",
+    "short": "Sungula foto yebe nkayebe ne uyifuanyikije. Kakuena tshintu tshidi tshitumibua to.",
+    "players": "Bantu 2, banyingamane ku luseke",
+    "intro": "Sungula foto ibidi too ne isambombo mu telefone, katelebite peshi kumpita webe, ne ilua manaya a kufuanyikija ne bindidimbi binene bimueneka bimpe. Foto idi imueneka anu munda mua dibeji edi. Kabayi bayituma, bayilama peshi bayabanya to, ne idi ijmina dîba diudi ujika dibeji.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tua pa \"Sungula foto\" ne sungula foto ibidi too ne isambombo.",
+      "Foto yonso idi imueneka misangu ibidi. Tua pa imue, pashishe tua pa mukwabo wayo.",
+      "Yukilayi pa foto yonso panudi nuyipeta.",
+      "Panudi bajikije, jikai dibeji peshi tua pa \"Jima foto\". Kakuena tshintu tshidi tshishala to."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Sungula foto mitoke ya bintu bia disanka bidi bimanyike: nyama wa mu nzubu, budimi, muaba unudi banange, dîba dia dibaka.",
+      "Bindidimbi bia miaba ne bia bintu bidi mua kuikala bipepele kupita mpala ya bantu, ne bidi bipepesha lutatu lua kuvuluka mêna a bantu.",
+      "Lekelayi foto ya bantu bakadi bafue bikala bidi mua kufikisha muntu munda ne kanyinganyinga, anu bienu bamanye ne idi imupetesha ditalala."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Badi batuma foto yanyi kaba kakuabu anyi?",
+        "a": "To. Dibeji didi dibala foto iuudi musungule anu mu mutebuji webe ne diyiyeleja pa tshiadi tshiebe. Kabayi batutumina yo peshi kuyituma kudi muntu mukuabu to, ne idi ijmina paudi ujika peshi ubulula kabidi dibeji."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kudi dîba dia kubala peshi bumanina anyi?",
+        "a": "To. Kakuena montre, bumanina, dikumbaja bia bienzedi peshi ditshimbibua to. Nudi mua kuimanyika dîba dionso, ne kuimana pa luseke kudi nkayako mushindu muimpe wa kujikija."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ndi mua kulama manaya aa bua musangu walua anyi?",
+        "a": "Mu mutebuji emu to, bidi bienzeka nunku bua tshintu tshia muntu nkayende katshishadi tshilama to. Porograme ya tshianana ya Golden Moments bua iPhone ne iPad idi mua kulama bikopo bia foto biudi musungule mu tshiamu tshiebe."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo wa bindidimbi",
+    "seoTitle": "Bingo wa bindidimbi bua bakulumpe badi ne lutatu lua kupua muoyo: wa kupatula",
+    "h1": "Bingo wa bindidimbi bua bisumbu",
+    "description": "Bingo wa bindidimbi wa kupatula wa tshianana bua bisumbu bia bakulumpe ne badi batabalela muoyo, ne tshileji tshinene pa tshiadi. Bindidimbi binene bidi ne mêyi, ma kashon 9 peshi 16, kabiena bikengela kubala to.",
+    "short": "Bikartone bia bingo wa bindidimbi bia kupatula ne tshileji tshinene pa tshiadi bua bisumbu.",
+    "players": "Tshisumbu tshia bantu 2 too ne 30",
+    "intro": "Bingo wa tshibidilu udi ne bindidimbi pa muaba wa bungi bua nomba, nunku muntu nansha umue kakengela kubala bilembo bikese to. Patula bikartone bishilangane, pashishe tumika ne tshileji tshia pa tshiadi bua kuleja tshididimbi tshionso tshinene ku televizion, kumpita peshi katelebite.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Sungula ma kashon 9 peshi 16 pa kartone ne bungi bua banayi.",
+      "Tua pa \"Patula bikartone\". Kartone yonso mmushilangane.",
+      "Bulula tshileji pa tshiadi tshinene. Tua pa \"Tshididimbi tshialua\" bua kuleja tshididimbi tshionso ne dîna diatsho.",
+      "Banayi badi babuikila tshididimbi tshidi tshikumbana pa kartone wabo ne makuta a mbemba, buto peshi tshimanyinu.",
+      "Muntu yonso udi uuja mulongo umue, peshi kartone mujima, badi bamutumbisha. Kakuena utshimbibua mu manaya aa to: tungunukayi ne kunaya too ne pamona muntu yonso mulongo umue."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Tumikayi ne bimanyinu binene bu mudi bibuikilu bia bintu peshi tûpu tua mabote. Mabuto makese adi mua kukolela kuambula.",
+      "Tela dîna dia tshididimbi ne amba kantu kampanda padiatsho: \"Mazuwa a lupuishi. Nnganyi ukadi mubande mu mazuwa?\"",
+      "Sombeshayi bantu badi ne lutatu lua kumona pabuipi ne tshiadi, ne sangishayi bambuluishi ne banayi badi bakeba diambuluisha.",
+      "Ma kashon tshitema mmakumbane bimpe bua bisumbu bia bungi. Lamayi tshikondo tshia manaya munkatshi mua minite 20 too ne 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Mmunyi mundi mua kuendesha bingo wa bindidimbi mu nzubu wa ditabalela bakulumpe?",
+        "a": "Patula kartone umue bua munayi yonso, teka tshileji pa tshiadi tshinene tshiudi natsho, ne tela bindidimbi bimpe bitekete bitekete ne kuleja dina dia tshimue ne tshimue. Nayayi too ne pamona muntu yonso mulongo umue, bua muntu nansha umue kashadi ku luseke to."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Kupatula nkuanafu anyi?",
+        "a": "Eyowa. Patula bikartone bungi buonso buudi nabuo dijinga, misangu yonso iudi musue, bua webe nkayebe peshi bua tshisumbu."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Bantu badi mua kunaya kabayi babala anyi?",
+        "a": "Eyowa. Kashon konso ntshididimbi tshinene, tshidi ne dîna diatsho kuinshi bua badi banange miaku."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Dieyeka ditalala",
+    "seoTitle": "Dikuatshisha ditalala dia kuikisha bua bakulumpe ne batabaledi",
+    "h1": "Dikuatshisha ditalala dia kuikisha",
+    "description": "Ditukija dipepele dia kueyeka ditalala dia kuabanya: tshijingidilu tshipole tshidi tshitanta ne tshikepela bua mupuya misangu isambombo. Wewe udi utshibangisha, ne udi mua kutshimanyika dîba dionso.",
+    "short": "Tshijingidilu tshikese tshia kueyeka natsho pamue. Bangisha ne imanyika dîba diudi musue.",
+    "players": "Muntu 1 peshi bantu 2",
+    "intro": "Imue misangu mudimu mutambe buimpe nditukija dia ditalala. Tua pa \"Banga\", pashishe ela mupuya munda padi tshijingidilu tshitanta ne upatule mupuya padi tshitshikepela. Sungula lubilu ludi lushême peshi ludi lupole. Kabiena bu manga to, kadi ndîba patupu dia ditalala dia kusangila pamue.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sombayi bimpe ku luseke lua mukuabu.",
+      "Sungula lubilu: lupole peshi lutekete.",
+      "Tua pa \"Banga\". Ela mupuya munda padi tshijingidilu tshitanta, ne patula mupuya padi tshitshikepela.",
+      "Tshidi tshimana nkayatsho panyima pa mupuya misangu isambombo, peshi tua pa \"Imanyika\" dîba dionso diudi musue."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Kuatanganyi bianza peshi teka tshianza pa diboko dia muntu biikala bidi bimumusankisha.",
+      "Kuenzeji muntu to. Bikala musue patupu kutangila, bidi bimpe be.",
+      "Bikala muntu ne lutatu lua kueyeka, eyekayi bu pa tshibidilu ne tangilayi patupu tshijingidilu. Yukilayi ne munganga bua malu onso a dieyeka."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ebi mbidibidibi bia luondapu bia kueyeka anyi?",
+        "a": "To. Nditukija patupu dipepele dia kusungula bua kupeta ditalala ne kusangila pamue. Ki mbukole bua kuondapa kanyinganyinga peshi disama nansha dimue to. Yukilayi ne munganga bua bualu buonso bua makanda a mubidi."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Tshijingidilu tshidi tshinyunguluka nkayatsho koku nshiyi mutshibangishe anyi?",
+        "a": "Tò. Kakuena tshintu tshidi tshinyunguka too ne panufina pa Start, ne bidi bimana kunyima kua kuela mupuya misangu 6 anyi panufina pa Stop. Bikala tshiamu tshienu tshilongolola bua kukepesha dinyunguka, miaku idi ishintuluka kadi tshijengu katshiyi tshidiunda."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbua tshianana anyi, ne bidi bilomba kudifundisha anyi?",
+        "a": "Eyo, mbua tshianana, ne kakuena konte, kudifundisha anyi kutentula tshintu. Bidi bienza mudimu mu browser wa web pa telefone, tabuleti anyi ordinatere."
       }
     ]
   }

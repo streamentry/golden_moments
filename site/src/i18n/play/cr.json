@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "ᑮᐦᐃᐟ ᑭᓀᐦᐃᔭᐍᐏᐣ",
+      "stopReading": "ᐴᓂᐦᐃᐟ ᑭᓀᐦᐃᔭᐍᐏᐣ",
+      "region": "ᒥᑖᐦᑕᒧᐏᐣ",
+      "restart": "ᒦᓇ ᒫᑕᔭ",
+      "soundOn": "ᐴᓀᐦᐃᑲᑌᐤ ᓇᐦᑕᐍᐏᐣ",
+      "soundOff": "ᑲᐴᓂᐦᐃᑲᑌᐤ ᓇᐦᑕᐍᐏᐣ",
+      "done": "ᐁᑿ ᐊᓂᒪ ᒣᑿᐨ",
+      "feedbackQuestion": "ᓇ ᑭᐏᒋᐦᐃᑯᐣ ᐊᓄᐦᐨ?",
+      "feedbackYes": "ᐁᐦᐁ",
+      "feedbackNo": "ᓇᒨᔭ ᒥᓯᐍ",
+      "feedbackThanks": "ᑭᓇᓈᐢᑯᒥᑎᐣ ᑭᐏᐦᑕᒪᑕᐏᐣ."
+    },
+    "tile": {
+      "named": "{name}, ᒪᓯᓇᐦᐃᑲᐣ {n}",
+      "hidden": "ᑲᑭᐦᐋᑲᑌᐠ ᒪᓯᓇᐦᐃᑲᐣ, ᒪᓯᓇᐦᐃᑲᐣ {n}",
+      "withState": "{label}, {state}",
+      "matched": "ᓃᓱᐏᐣ ᒥᐦᑯ",
+      "selected": "ᑲᐅᓇᐦᐋᐱᐟ",
+      "picture": "ᒪᓯᓇᐦᐃᑲᐣ",
+      "photoNumber": "ᒪᓯᓇᐦᐃᑲᐣ {n}"
+    },
+    "pairs": {
+      "allTogether": "ᑲᑭᓇ ᓃᓱᐏᓇ ᒫᒪᐏ ᐊᐦᑭᐦᑭ. ᒦᓇ ᒥᑖᐦᑕᒧ ᒨᐢᑕ ᓇᑲᓯᐣ.",
+      "photoPair": "ᓃᓱ ᒪᓯᓇᐦᐃᑲᓇ, ᒫᒪᐏ.",
+      "picturePair": "ᓃᓱ ᒪᓯᓇᐦᐃᑲᓇ {name|lower}, ᒫᒪᐏ.",
+      "selected": "{name}. ᒣᑿᐨ ᓂᑕᐏ ᓃᓱᐏᐣ.",
+      "mismatch": "ᐯᔭᐠ ᐃᑖ. ᓵᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ ᑭᐊᔭᒥᐦᒋᐦᑖᐣ.",
+      "mismatchNamed": "{a} ᒥᓇ {b}. ᐯᔭᐠ ᐃᑖ. ᓵᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ ᑭᐊᔭᒥᐦᒋᐦᑖᐣ."
+    },
+    "picturePairs": {
+      "guidanceShowing": "ᓵᒥᓇ ᐯᔭᐠ ᒪᓯᓇᐦᐃᑲᐣ, ᒥᓇ ᓵᒥᓇ ᑳ ᓃᓱᐏᐟ.",
+      "guidanceHidden": "ᓵᒥᓇ ᓃᓱ ᒪᓯᓇᐦᐃᑲᓇ ᑭᑭᐍᐱᓇᒪᐣ. ᓂᑕᐏ ᓃᓱ ᑳ ᐯᔭᑯᓯᐦᑭ.",
+      "restart": "ᐅᐦᒋ ᒪᓯᓇᐦᐃᑲᓇ",
+      "sizeLegend": "ᑖᓂᑕᐦᐃ ᒪᓯᓇᐦᐃᑲᓇ",
+      "size": {
+        "one": "{n} ᒪᓯᓇᐦᐃᑲᐣ ᐊᐦᑭᐤ.",
+        "other": "{n} ᒪᓯᓇᐦᐃᑲᓇ ᐊᐦᑭᐘᐠ."
+      },
+      "viewLegend": "ᑖᓂᓯ ᒥᑖᐦᑕᒧᐏᐣ",
+      "viewShowing": "ᒪᓯᓇᐦᐃᑲᓇ ᓅᐦᑕᐏᓇᐘᐠ",
+      "viewHidden": "ᑲᑭᐦᐋᑲᑌᑭ ᒪᓯᓇᐦᐃᑲᓇ",
+      "playAgain": "ᒦᓇ ᒥᑖᐦᑕᒧ ᐅᐦᒋ ᒪᓯᓇᐦᐃᑲᓇ",
+      "talk": "ᒫᒪᐏ ᐊᔭᐦᒋᒧᐠ ᒪᓯᓇᐦᐃᑲᓇ ᐅᐦᒋ"
+    },
+    "choose": {
+      "countLegend": "ᑖᓂᑕᐦᐃ ᒪᓯᓇᐦᐃᑲᓇ",
+      "count": "{n} ᑭᐅᓇᐦᐋᐸᐣ",
+      "thatOne": "ᐊᓂᒪ ᒪᐘ {name|lower}. ᐯᔭᐠ ᐃᑖ."
+    },
+    "findTheSame": {
+      "guidance": "ᐅᓵᐱᐦᑕ ᒪᓯᓇᐦᐃᑲᐣ ᐃᐢᐱᒥᐦᐠ. ᓵᒥᓇ ᑳ ᐯᔭᑯᓯᐟ ᒋᐸᐦᒋ.",
+      "yes": "ᐁᐦᐁ, ᐯᔭᑯᐣ {name|lower}.",
+      "next": "ᑭᐦᒋ ᒪᓯᓇᐦᐃᑲᐣ"
+    },
+    "shadowMatch": {
+      "guidance": "ᐅᓵᐱᐦᑕ ᐊᒐᐦᒁᐣ ᐃᐢᐱᒥᐦᐠ. ᓵᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ ᑳ ᐅᐦᒋ ᐊᒐᐦᒁᐤ.",
+      "yes": "ᐁᐦᐁ, {name|lower} ᐅᐦᒋ ᐊᒐᐦᒁᐤ.",
+      "next": "ᑭᐦᒋ ᐊᒐᐦᒁᐣ",
+      "shadowAlt": "ᐊᒐᐦᒁᐣ ᑭᓃᓱᐦᑖᐣ",
+      "foundAlt": "ᐊᒐᐦᒁᐣ {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "ᓵᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ, ᒥᓇ ᓵᒥᓇ ᐘᑖᐱᐢᑯᐣ ᐃᑌ ᑭᐃᑖᐦᐟ.",
+      "restart": "ᐅᐦᒋ ᒪᓯᓇᐦᐃᑲᓇ",
+      "themeLegend": "ᐃᓯ ᐃᑖᐏᐣ",
+      "selected": "{name}. ᒣᑿᐨ ᓵᒥᓇ ᐘᑖᐱᐢᑯᐣ ᐃᑌ ᑭᐃᑖᐦᐟ.",
+      "pickFirst": "ᓂᑲᓐ ᓵᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ, ᒥᓇ ᓵᒥᓇ ᐘᑖᐱᐢᑯᐣ.",
+      "hint": "{name|lower} ᑭᐃᑖᐤ \"{basket}\". ᓵᒥᓇ ᐊᓂᒪ ᐘᑖᐱᐢᑯᐣ ᑭᐊᐦᑖᐣ.",
+      "placed": "{name|lower} ᐊᐦᑖᐤ \"{basket}\".",
+      "sorted": "ᑲᑭᓇ ᐅᓯᐦᒋᑲᑌᐘ. ᒫᒪᐏ ᐅᓵᐱᐦᑕᒧᐠ ᐘᑖᐱᐢᑯᓇ, ᒨᐢᑕ ᑯᑕᐠ ᐃᓯ ᐃᑖᐏᐣ ᑿᒋᐦᑖ.",
+      "basket": {
+        "one": "{basket} ᐘᑖᐱᐢᑯᐣ, {count} ᒪᓯᓇᐦᐃᑲᐣ ᐱᐦᒋ ᐊᐦᑖᐤ.",
+        "other": "{basket} ᐘᑖᐱᐢᑯᐣ, {count} ᒪᓯᓇᐦᐃᑲᓇ ᐱᐦᒋ ᐊᐦᑖᐘᐠ."
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "ᓵᒥᓇ ᐯᔭᐠ ᐴᓂᑲᐣ, ᒥᓇ ᓵᒥᓇ ᑯᑕᐠ. ᒫᒪᐏ ᒥᐢᑿᓇᒧᐘᐠ.",
+      "restart": "ᒦᓇ ᐃᐢᑯᓇᒧ",
+      "pictureLegend": "ᒪᓯᓇᐦᐃᑲᐣ",
+      "pictures": {
+        "sailboat": "ᐲᒥᐦᑯᓈᐹᐣ",
+        "house": "ᐚᐢᑲᐦᐃᑲᐣ",
+        "balloon": "ᐸᐦᐠᐘᑌᐤ",
+        "sunflower": "ᐲᓯᒧᐘᐢᑲᐟ",
+        "lighthouse": "ᐚᐢᑌᓇᒪᐏᐣ",
+        "cat": "ᒥᓂᐢ"
+      },
+      "sizeLegend": "ᐴᓂᑲᓇ",
+      "size": {
+        "one": "{n} ᐴᓂᑲᐣ ᐊᐦᑭᐤ.",
+        "other": "{n} ᐴᓂᑲᓇ ᐊᐦᑭᐘᐠ."
+      },
+      "pickedUp": "ᐴᓂᑲᐣ ᐅᑎᓂᑲᑌᐤ. ᒣᑿᐨ ᓵᒥᓇ ᐃᑌ ᑭᐃᑖᐦᐟ.",
+      "whole": "{name|lower} ᒦᓇ ᒫᒪᐏ ᑲᓯᐦᑭᐣ. ᑯᑕᐠ ᒪᓯᓇᐦᐃᑲᐣ ᐅᓇᐦᐋᐱ ᑭᑭᐢᐱᓂᐘᒋ.",
+      "swapped": {
+        "one": "ᒥᐢᑿᓇᒧᐘᐠ. {correct} ᐅᐦᒋ {total} ᐴᓂᑲᐣ ᒥᔪ ᐊᐦᑖᐤ.",
+        "other": "ᒥᐢᑿᓇᒧᐘᐠ. {correct} ᐅᐦᒋ {total} ᐴᓂᑲᓇ ᒥᔪ ᐊᐦᑖᐘᐠ."
+      },
+      "guideAlt": "ᑲᑭᓇ ᒪᓯᓇᐦᐃᑲᐣ: {name}",
+      "guideText": "ᐁᑯᓯ ᐃᓯᓈᑯᐢᐠ ᒪᓯᓇᐦᐃᑲᐣ ᑳ ᒫᒪᐏ ᑲᓯᐦᑭᐟ.",
+      "piece": "ᐴᓂᑲᐣ {place}",
+      "pieceInPlace": ", ᒥᔪ ᐃᑌ ᐊᐦᑖᐤ",
+      "piecePickedUp": ", ᐅᑎᓂᑲᑌᐤ",
+      "places4": [
+        "ᐃᐢᐱᒥᐦᐠ ᓇᒥᑎᓂᐦᐠ",
+        "ᐃᐢᐱᒥᐦᐠ ᑭᒋᓂᐦᐠ",
+        "ᒋᐸᐦᒋ ᓇᒥᑎᓂᐦᐠ",
+        "ᒋᐸᐦᒋ ᑭᒋᓂᐦᐠ"
+      ],
+      "places9": [
+        "ᐃᐢᐱᒥᐦᐠ ᓇᒥᑎᓂᐦᐠ",
+        "ᐃᐢᐱᒥᐦᐠ ᑖᐘᐦᐠ",
+        "ᐃᐢᐱᒥᐦᐠ ᑭᒋᓂᐦᐠ",
+        "ᑖᐘᐦᐠ ᓇᒥᑎᓂᐦᐠ",
+        "ᑖᐘᐦᐠ",
+        "ᑖᐘᐦᐠ ᑭᒋᓂᐦᐠ",
+        "ᒋᐸᐦᒋ ᓇᒥᑎᓂᐦᐠ",
+        "ᒋᐸᐦᒋ ᑖᐘᐦᐠ",
+        "ᒋᐸᐦᒋ ᑭᒋᓂᐦᐠ"
+      ],
+      "done": "ᒪᓯᓇᐦᐃᑲᐣ ᒦᓇ ᒫᒪᐏ ᑲᓯᐦᑭᐣ. ᒦᓇ ᒥᑖᐦᑕᒧ ᒨᐢᑕ ᓇᑲᓯᐣ.",
+      "playAgain": "ᒦᓇ ᐃᐢᑯᓇᒧ"
+    },
+    "finishTheSaying": {
+      "guidance": "ᒫᒪᐏ ᐊᔭᒥᐦᒋ ᐃᑌᐏᐣ, ᒥᓇ ᓵᒥᓇ ᐃᑌᐏᐣ ᑳ ᑭᐦᒋᐦᐃᑭᒪᑲᐠ.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "ᐁᐦᐁ, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" ᒥᓇ ᒥᔪ ᐃᑌᐏᐣ. ᒫᑲ ᒧᓇ ᐁᑯᓯ ᐃᑌᐘᐠ \"{end}\".",
+      "revealed": "ᐃᑌᐏᐣ ᐁᑯᒪ \"{start} {end}.\"",
+      "choicesLabel": "ᐅᓇᐦᐋᐱ ᐃᐢᑵᔭᐦᐠ ᐃᑌᐏᐣ",
+      "show": "ᐚᐸᐦᑕ ᐃᐢᑵᔭᐦᐠ",
+      "talk": "ᐊᔭᐦᒋᒧᐠ ᐅᐦᒋ: ",
+      "next": "ᑭᐦᒋ ᐃᑌᐏᐣ"
+    },
+    "wordSearch": {
+      "guidance": "ᐃᑌᐏᓇ ᓵᐹᐦᑭᐦᒋᐘᐣ ᒨᐢᑕ ᒋᐸᐦᒋ ᐃᑐᐦᑌᐘᐣ. ᓵᒥᓇ ᓂᑲᓂᐦᐠ ᒪᓯᓇᐦᐃᑲᓱᐏᐣ, ᒥᓇ ᐃᐢᑵᔭᐦᐠ ᒪᓯᓇᐦᐃᑲᓱᐏᐣ.",
+      "restart": "ᐅᐦᒋ ᒥᑖᐦᑕᒧᐏᐣ",
+      "themeLegend": "ᐃᓯ ᐃᑖᐏᐣ",
+      "sizeLegend": "ᑖᓂᓯ ᐃᐢᐸᓂᐠ",
+      "size": {
+        "one": "{n} ᐊᐦᐱᐦᒋ {n} ({words} ᐃᑌᐏᐣ).",
+        "other": "{n} ᐊᐦᐱᐦᒋ {n} ({words} ᐃᑌᐏᓇ)."
+      },
+      "print": "ᒪᓯᓇᐦᐃᑭᓇ ᐅᒪ ᒥᑖᐦᑕᒧᐏᐣ",
+      "letterChosen": "ᒪᓯᓇᐦᐃᑲᓱᐏᐣ {letter} ᐅᓇᐦᐋᐱᐘᐤ. ᒣᑿᐨ ᓵᒥᓇ ᐃᐢᑵᔭᐦᐠ ᒪᓯᓇᐦᐃᑲᓱᐏᐣ.",
+      "found": "{word} ᒥᑭᑲᑌᐤ.",
+      "foundAll": "{word} ᒥᑭᑲᑌᐤ. ᑲᑭᓇ ᐃᑌᐏᓇ ᒥᑭᑲᑌᐘᐣ. ᒦᓇ ᒥᑖᐦᑕᒧ ᒨᐢᑕ ᓇᑲᓯᐣ.",
+      "tryAgain": "ᐯᔭᐠ ᐃᑖ. ᓵᒥᓇ ᓂᑲᓂᐦᐠ ᒪᓯᓇᐦᐃᑲᓱᐏᐣ, ᒥᓇ ᐃᐢᑵᔭᐦᐠ ᒪᓯᓇᐦᐃᑲᓱᐏᐣ.",
+      "gridLabel": "ᒪᓯᓇᐦᐃᑲᓱᐏᓇ ᐃᐢᐸᓂᐦᐠ, {n} ᑎᐱᐢᑯᐦᒋᐘᓇ {n} ᒪᓯᓇᐦᐃᑲᓱᐏᓇ. ᐊᐸᒋᐦᑖ ᐊᑖᐦᑯᓂᑲᓇ ᐃᑖᐱ ᐃᑐᐦᑌ.",
+      "cell": "{letter}, ᑎᐱᐢᑯᐦᐠ {row}, ᐊᐦᑯᐢᑭ {col}",
+      "cellFound": ", ᐃᑌᐏᐣ ᑳ ᒥᑭᑲᑌᐠ ᐅᐦᒋ",
+      "wordsHeading": "ᐃᑌᐏᓇ ᑭᓂᑕᐏᓇᐣ",
+      "wordFound": " (ᒥᑭᑲᑌᐤ)",
+      "sheetTitle": "ᐃᑌᐏᓇ ᓂᑕᐏᐣ: {theme}",
+      "sheetNote": "ᐃᑌᐏᓇ ᓵᐹᐦᑭᐦᒋᐘᐣ ᒨᐢᑕ ᒋᐸᐦᒋ ᐃᑐᐦᑌᐘᐣ.",
+      "unavailable": "ᒪᓯᓇᐦᐃᑲᓱᐏᓇ ᐃᐢᐸᓂᐣ ᓇᒨᔭ ᒥᔪ ᐃᑖᐢᑎᐣ ᐅᒪ ᐃᓯ ᐃᑌᐏᐣ, ᐁᑿ ᓇᒨᔭ ᐅᒪ ᐚᐸᐦᑕᐦᐃᑲᑌᐤ. ᑿᒋᐦᑖ ᒪᓯᓇᐦᐃᑲᓇ ᒥᑖᐦᑕᒧᐏᓇ."
+    },
+    "coloring": {
+      "guidance": "ᓵᒥᓇ ᐊᐢᑭᐦᑯᐣ, ᒥᓇ ᓵᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ ᐱᐦᒋ.",
+      "restart": "ᑲᓯᐦᑲ ᐊᐢᑭᐦᑯᓇ",
+      "cleared": "ᒪᓯᓇᐦᐃᑲᐣ ᒦᓇ ᐘᐹᐦᑌᐤ.",
+      "pageLegend": "ᒪᓯᓇᐦᐃᑲᐣ",
+      "print": "ᒪᓯᓇᐦᐃᑭᓇ ᐅᒪ ᒪᓯᓇᐦᐃᑲᐣ",
+      "colorsLabel": "ᐊᐢᑭᐦᑯᓇ",
+      "paintChosen": "{paint} ᐅᓇᐦᐋᐱᐘᐤ.",
+      "painted": "{part} ᒣᑿᐨ {paint|lower} ᐃᓯᓈᑯᓯᐤ.",
+      "artLabel": "{page}, {count} ᐴᓂᑲᓇ ᑭᐊᐢᑭᐦᑯᐦᐋᐣ",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ᓇᒨᔭ ᐊᐢᑭᐦᑯᐦᐋᐤ",
+      "paints": {
+        "red": "ᒥᐦᑯᓱ",
+        "orange": "ᐅᓵᐚᐤ",
+        "yellow": "ᐅᓵᐚᐤ ᐚᐱᐢᑿᐤ",
+        "green": "ᐊᐢᑭᐸᑿᐤ",
+        "blue": "ᓯᐱᐦᑯᐤ",
+        "purple": "ᐏᐢᑵᐦᑯᐤ",
+        "pink": "ᐘᐱᐢᑿᐤ ᒥᐦᑯ",
+        "brown": "ᑲᐢᑭᑌᐚᐤ",
+        "sky-blue": "ᑮᓯᑳᐤ ᓯᐱᐦᑯ",
+        "cream": "ᐘᐱᐢᑿᐤ",
+        "gray": "ᐏᐱᐦᑯᐤ",
+        "white": "ᐚᐱᐢᑲᐤ"
+      }
+    },
+    "conversationCards": {
+      "guidance": "ᑮᐦᐃᐟ ᐊᔭᒥᐦᒋ ᒪᓯᓇᐦᐃᑲᐣ. ᓇᒨᔭ ᐯᔭᑯᐣ ᓈᐢᐯᐘᒧᐏᐣ ᐃᑕᐢᑌᐤ.",
+      "position": "ᒪᓯᓇᐦᐃᑲᐣ {n} ᐅᐦᒋ {total}",
+      "themeLegend": "ᐃᓯ ᐃᑖᐏᐣ",
+      "next": "ᑭᐦᒋ ᒪᓯᓇᐦᐃᑲᐣ",
+      "previous": "ᑳ ᐊᓂᐢᑯᐢᐨ ᒪᓯᓇᐦᐃᑲᐣ",
+      "print": "ᒪᓯᓇᐦᐃᑭᓇ ᑲᑭᓇ ᒪᓯᓇᐦᐃᑲᓇ",
+      "sheetTitle": "ᐊᔭᐦᒋᒧᐏᐣ ᒪᓯᓇᐦᐃᑲᓇ"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "ᒫᑕᔭ ᐅᓇᐦᐋᐱ ᑭᒪᓯᓇᐦᐃᑲᓇ.",
+      "guidance": "ᓵᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ, ᒥᓇ ᓵᒥᓇ ᑳ ᓃᓱᐏᐟ.",
+      "restart": "ᒦᓇ ᐃᐢᑯᓇᒧ",
+      "intro": "**ᐅᓇᐦᐋᐱ 2 ᐃᐢᑯ 6 ᒪᓯᓇᐦᐃᑲᓇ** ᐅᒪ ᒪᓯᓇᐦᐃᑲᓐ ᐅᐦᒋ. ᐅᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐱᐦᒋ ᐴᑭ ᐚᐸᐦᑕᐦᐃᑲᑌᐘᐣ, ᓇᒨᔭ ᐏᐦᒋ ᐃᐢᐸᒋᐦᐃᑲᑌᐘᐣ ᒨᐢᑕ ᑲᓇᐍᔭᐦᑕᐦᐃᑲᑌᐘᐣ.",
+      "choose": "ᐅᓇᐦᐋᐱ ᒪᓯᓇᐦᐃᑲᓇ",
+      "chooseDifferent": "ᐅᓇᐦᐋᐱ ᑯᑕᑭᔭ ᒪᓯᓇᐦᐃᑲᓇ",
+      "clear": "ᑲᓯᐦᑲ ᒪᓯᓇᐦᐃᑲᓇ",
+      "cleared": "ᒪᓯᓇᐦᐃᑲᓇ ᑲᓯᐦᑲᑌᐘᐣ ᐅᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐅᐦᒋ.",
+      "atLeastTwo": "ᒫᑲ ᓂᓯᐢᑕᐣ ᓃᓱ ᒪᓯᓇᐦᐃᑲᓇ ᐅᓇᐦᐋᐱ.",
+      "usingFirst": "ᓂᑲᓂᐦᐠ {max} ᒪᓯᓇᐦᐃᑲᓇ ᐊᐸᒋᐦᑖᐣ.",
+      "skipped": {
+        "one": "{count} ᒪᓯᓇᐦᐃᑲᐣ ᓇᒨᔭ ᑭᐚᐸᐦᑕᐦᐃᑲᑌᐤ.",
+        "other": "{count} ᒪᓯᓇᐦᐃᑲᓇ ᓇᒨᔭ ᑭᐚᐸᐦᑕᐦᐃᑲᑌᐘᐣ."
+      },
+      "playAgain": "ᒦᓇ ᒥᑖᐦᑕᒧ ᐅᑭ ᒪᓯᓇᐦᐃᑲᓇ",
+      "empty": "ᑭᒪᓯᓇᐦᐃᑲᓇ ᐅᑌ ᑭᓅᐦᑕᐏᓇᐘᐣ, ᐯᔭᑯᐣ ᓃᓱᐤ."
+    },
+    "pictureBingo": {
+      "guidance": "ᓂᑲᓐ ᒪᓯᓇᐦᐃᑭᓇ ᒪᓯᓇᐦᐃᑲᓇ. ᒣᑿᐨ ᐚᐸᐦᑕ ᐅᒪ ᐚᐸᐦᑕᐦᐃᑲᐣ ᒥᓯᐍ ᑳ ᒥᓯᑲᐠ ᐚᐸᐦᑕᐦᐃᑲᐣ.",
+      "called": {
+        "one": "{name}. {called} ᐅᐦᒋ {total} ᒪᓯᓇᐦᐃᑲᐣ ᐏᐦᑕᒪᑲᑌᐤ.",
+        "other": "{name}. {called} ᐅᐦᒋ {total} ᒪᓯᓇᐦᐃᑲᓇ ᐏᐦᑕᒪᑲᑌᐘᐣ."
+      },
+      "start": "ᓵᒥᓇ \"ᑭᐦᒋ ᒪᓯᓇᐦᐃᑲᐣ\" ᑭᓂᑲᓂᐦᐠ ᒪᓯᓇᐦᐃᑲᐣ ᐏᐦᑕᒪᐣ.",
+      "restart": "ᒫᑕᔭ ᐅᐦᒋ ᒥᑖᐦᑕᒧᐏᐣ",
+      "squaresLegend": "ᒪᓯᓇᐦᐃᑲᓇ ᐯᔭᑯ ᒪᓯᓇᐦᐃᑲᐣ",
+      "squares": "{n} ᒪᓯᓇᐦᐃᑲᓇ ({side} ᐊᐦᐱᐦᒋ {side})",
+      "cardsLegend": "ᑖᓂᑕᐦᐃ ᒪᓯᓇᐦᐃᑲᓇ ᑭᒪᓯᓇᐦᐃᑭᓇᐣ",
+      "cards": {
+        "one": "{n} ᒪᓯᓇᐦᐃᑲᐣ ᐊᐦᑭᐤ.",
+        "other": "{n} ᒪᓯᓇᐦᐃᑲᓇ ᐊᐦᑭᐘᐠ."
+      },
+      "print": {
+        "one": "ᒪᓯᓇᐦᐃᑭᓇ {n} ᒪᓯᓇᐦᐃᑲᐣ.",
+        "other": "ᒪᓯᓇᐦᐃᑭᓇ {n} ᒪᓯᓇᐦᐃᑲᓇ."
+      },
+      "ready": "ᑭᑭᐢᑭᐦᑖᐣ ᒣᑿᐨ",
+      "next": "ᑭᐦᒋ ᒪᓯᓇᐦᐃᑲᐣ",
+      "allCalled": "ᑲᑭᓇ ᒪᓯᓇᐦᐃᑲᓇ ᐏᐦᑕᒪᑲᑌᐘᐣ",
+      "alreadyCalled": "ᐊᓯ ᐏᐦᑕᒪᑲᑌᐤ",
+      "sheetTitle": "ᒪᓯᓇᐦᐃᑲᐣ ᒥᑖᐦᑕᒧᐏᐣ · ᒪᓯᓇᐦᐃᑲᐣ {n}"
+    },
+    "calmBreathing": {
+      "guidance": "ᓀᐦᑕᐏ ᐯᐦᑖᑭᐣ, ᐁᑲ ᒥᓯᑲᐠ ᐊᐘ ᐘᐏᔭᐤ. ᓀᐦᑕᐏ ᐘᔭᐏ, ᐁᑲ ᐊᐱᓯᓯᐠ. ᓃᑲᑌ ᓀᐦᑕᐏᐏᐣ ᒥᐢᑕᐦᐃ ᐴᓂᐸᔭᐤ ᐊᐘ ᐘᐏᔭᐤ.",
+      "paceLegend": "ᐃᑖᐱᐢᑳᐏᐣ",
+      "paceSlow": "ᐹᐦᑭᐢ (ᓃᔭᓇᐣ ᐱᒧᐦᑌᐠ ᐊᔭᓯᐢᑳᐠ)",
+      "paceGentle": "ᔭᐦᑭᐢ (ᓀᐓ ᐱᒧᐦᑌᐠ ᐊᔭᓯᐢᑳᐠ)",
+      "ready": "ᑭᐢᐱᓇ ᑭᑕᐦᑖᐏᐣ ᑮᐢᐱᐣ, ᒫᑲ ᒪᒋᐦᑖᐣ.",
+      "in": "ᓀᐦᑕᐏ ᐯᐦᑖᑭᐣ",
+      "hold": "ᐊᔭᐦᐯᐣ",
+      "out": "ᓀᐦᑕᐏ ᐘᔭᐏ",
+      "start": "ᒪᒋᐦᑖᐣ",
+      "stop": "ᐴᓂᐦᑖᐣ",
+      "started": "ᒪᒋᐦᑖᐤ. ᓀᐦᑕᐏ ᐯᐦᑖᑭᐣ, ᐁᑲ ᒥᓯᑲᐠ ᐊᐘ ᐘᐏᔭᐤ.",
+      "stopped": "ᐴᓂᐦᑖᐤ.",
+      "finished": "ᓃᑲᑌ ᐹᐦᑭᐢ ᓀᐦᑕᐏᐏᓇ ᑭᑭ ᑖᐱᐦᑖᐣ. ᑭᐢᐱᓇ ᓇᑕᐍᔭᐣ, ᒥᓇ ᒪᒋᐦᑖᐣ."
+    }
+  },
+  "pictures": {
+    "teacup": "ᒥᓂᐦᑿᒋᑲᐣ",
+    "kettle": "ᓂᐱᐦᑲᐦᑯᐣ",
+    "bread": "ᐸᐦᑵᓯᑲᐣ",
+    "frying-pan": "ᓵᓵᐸᐢᑿᐦᐃᑲᐣ ᐊᐢᑭᐦᑭ ᐘᐏ",
+    "cake": "ᓂᐱᑭᓯᑲᐣ ᐸᐦᑵᓯᑲᐣ",
+    "sunflower": "ᐱᓯᒧᐘᐢᑲᐟ",
+    "tulip": "ᒥᐦᑯᐘᐢᑲᐟ",
+    "watering-can": "ᓂᐱ ᐊᐸᒋᐦᑲᐣ",
+    "potted-plant": "ᐊᐢᑭᐦᑯᐦᑲᓇᐠ ᓂᐱᐢᑎᐠ",
+    "tree": "ᒥᐢᑎᐠ",
+    "bird": "ᐱᐦᔭᓯᐤ ᐘᐦᑎᑿᓂᕽ",
+    "butterfly": "ᑲᒥᒧᐤ",
+    "dog": "ᐊᑎᒼ",
+    "cat": "ᒥᓂᐢ",
+    "fish": "ᐅᓵᐏᑭᓄᓭᐤ",
+    "apple": "ᒥᐦᑯᒥᐣ",
+    "pear": "ᐯᕒ",
+    "strawberry": "ᐅᑌᐦᐃᒥᐣ",
+    "banana": "ᐸᓈᓇ",
+    "lemon": "ᓭᒧᐣ",
+    "cherries": "ᐅᑭᓯᐢ",
+    "house": "ᐘᐢᑳᐦᐃᑲᐣ",
+    "lamp": "ᐘᐢᑕᐍᐏᐣ",
+    "armchair": "ᐊᐱᐏᐣ ᑕᐦᑯᒋᑲᐣ",
+    "key": "ᐊᐸᐦᑲᐦᐃᑲᐣ",
+    "umbrella": "ᐸᑲᐦᐊᐦᐠᐘᐣ",
+    "sailboat": "ᐸᐢᑭᓯᑲᐣ ᓇᐹᐩ",
+    "car": "ᓭᐦᑫᐯᐦᑖᐤ",
+    "bicycle": "ᐱᒥᐸᔨᐦᐃᑲᐣ",
+    "balloon": "ᐃᐢᐸᒥᕽ ᐘᔭᐏᐣ",
+    "lighthouse": "ᐘᐢᑕᐍᐏᐣ ᓂᐱᕽ",
+    "sun": "ᐱᓯᒼ",
+    "moon": "ᑎᐱᐢᑳᐏᐱᓯᒼ ᐊᒑᐦᑯᓱᐠ",
+    "teapot": "ᓂᐱᐦᑲᐦᑯᐣ ᒥᓂᐦᑿᒋᑲᐣ",
+    "apple-pie": "ᒥᐦᑯᒥᐣ ᐘᔭᐢ",
+    "honey-jar": "ᐊᒼᐅ ᒨᑐᐘᐠ",
+    "boiled-egg": "ᐘᐏ ᒥᓂᐦᑿᒋᑲᓂᕽ",
+    "toaster": "ᐸᐦᑵᓯᑲᐣ ᐊᐸᓯᐢᑯᐦᐃᑲᐣ",
+    "cheese": "ᑐᒪᐦᑲᐣ",
+    "milk-jug": "ᑐᑐᐢᐘᐳᐩ ᒨᑐᐘᐠ",
+    "cupcake": "ᐊᐱᓯᐢ ᐸᐦᑵᓯᑲᐣ",
+    "orange": "ᐅᓵᐘᐢᑿᐤ",
+    "grapes": "ᓲᒥᓂᓇᐣ",
+    "watermelon": "ᐊᐢᑮ ᐸᑫᐦᑯᓵᑲᐣ",
+    "pineapple": "ᐸᐃᓈᐱᓬ",
+    "peach": "ᐲᒋᐤ",
+    "rose": "ᐅᑭᓃᐘᐢᑲᐟ",
+    "daisies": "ᐘᐸᐢᑿᐘᐢᑲᐟᐠ",
+    "mushroom": "ᐘᐦᑭᓯᐤ",
+    "wheelbarrow": "ᐸᐦᐱᐦᐃᑲᐣ ᐱᒥᐸᔨᐦᐃᑲᐣ",
+    "birdhouse": "ᐱᐦᔦᓯᐢ ᐘᐢᑳᐦᐃᑲᓂᐢ",
+    "cactus": "ᑲᐦᑕᐢ ᐊᐢᑭᐦᑯᐦᑲᓂᕽ",
+    "acorn": "ᒥᑎᑯᒥᐣ",
+    "autumn-leaf": "ᑕᑿᑭᕽ ᓃᐱᐩ",
+    "rabbit": "ᐘᐳᐢ",
+    "duck": "ᓰᓰᑊ",
+    "hen": "ᐸᐦᑳᐦᑿᐣ",
+    "sheep": "ᒫᔭᑎᐠ",
+    "owl": "ᐅᐦᐅᐤ",
+    "ladybird": "ᐊᐱᓯᐢ ᒪᓂᐦᒋᐢ",
+    "snail": "ᐱᒥᐢᑭᓯᐤ",
+    "frog": "ᐊᓕᑭᐠ",
+    "bee": "ᐋᒧᐤ",
+    "clock": "ᐱᓯᒧᐦᑲᐣ",
+    "vase-of-flowers": "ᐘᐢᑲᐟᐠ ᒨᑐᐘᑲᓂᕽ",
+    "radio": "ᓈᑐᐦᑲᐦᐃᑲᐣ",
+    "books": "ᒪᓯᓇᐦᐃᑲᓇ",
+    "candle": "ᐘᐢᑕᐍᐏᐣ ᐱᒥᐩ",
+    "glasses": "ᐊᔭᐱᒋᐦᑯᓇ",
+    "telephone": "ᐱᒧᐦᑌᐘᐱᐦᑲᐣ",
+    "ball-of-wool": "ᒫᔭᑎᐠ ᐊᐱᔨᐢ",
+    "straw-hat": "ᒪᐢᑲᓯᐩ ᐊᐢᑐᑎᐣ",
+    "train": "ᐃᐢᑯᑌᐤ ᐅᑖᐸᓯᐢᐠ",
+    "bus": "ᐅᑖᐸᓯᐢᐠ",
+    "airplane": "ᐱᒥᐦᐋᒼ",
+    "suitcase": "ᐸᐦᑵᓯᑲᐣ ᒥᐢᑎᑯᐟ",
+    "tractor": "ᑕᕒᐊᐠᑐᕒ",
+    "rowing-boat": "ᐊᐸᒧᐦᐃᑲᐣ ᓇᐹᐩ",
+    "rainbow": "ᐱᒥᐦᑖᑯᐣ",
+    "rain-cloud": "ᑭᒧᐘᐣ ᐘᐢᑿᐤ",
+    "snowflake": "ᑯᓇᐢ",
+    "kite": "ᐸᐸᒥᐦᐋᒼ",
+    "sunrise": "ᐘᐸᓂᐩ ᐃᐢᐸᑎᓇᕽ"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ᐊᐃᐅᐁᐠᒼᓂᐱᓯᑎᐘᔭ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "ᒥᓂᓯᐤ",
+          "words": [
+            "ᒥᐦᑯᒥᐣ",
+            "ᐯᕒ",
+            "ᐱᓫᒼ",
+            "ᓭᒧᐣ",
+            "ᓲᒥᐣ",
+            "ᐲᒋᐤ",
+            "ᐸᑫᐤ",
+            "ᓵᐃᒼ",
+            "ᐹᑿᐟ"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "ᑭᐢᑎᑲᐣ",
+          "words": [
+            "ᐅᑭᓃᐤ",
+            "ᑐᓕᑊ",
+            "ᐸᑲᐣ",
+            "ᐊᐢᑭᐩ",
+            "ᓃᐱᐩ",
+            "ᒥᐢᑎᐠ",
+            "ᐘᐸᐢᐠ",
+            "ᓰᐱᐩ",
+            "ᐋᒧᐤ"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "ᐅᑭᐦᓯᑭᐘᐠ",
+          "words": [
+            "ᒥᓂᐦᐠ",
+            "ᐁᒥᐦᐋᐣ",
+            "ᐸᐦᑵᐣ",
+            "ᐸᓵᐠ",
+            "ᐅᔭᑲᐣ",
+            "ᑐᑲᐣ",
+            "ᒪᐢᑭᐦᑭ",
+            "ᑯᑖᐘᐣ",
+            "ᒌᐢᑕᐦᐋᐣ"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "ᑭᓯᐘᐣ",
+          "words": [
+            "ᐱᓯᒼ",
+            "ᑭᒧᐘᐣ",
+            "ᑯᓇᐢ",
+            "ᔫᑎᐣ",
+            "ᐘᐢᑿᐤ",
+            "ᐱᐦᑯᐣ",
+            "ᐸᑭᐢᑌᐤ",
+            "ᔭᐦᑭᐣ",
+            "ᑭᓱᐘᐣ"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "ᐱᓯᐢᑭᐤᐠ",
+          "words": [
+            "ᐊᑎᒼ",
+            "ᒥᓂᐢ",
+            "ᐱᐦᔦᐢ",
+            "ᑭᓄᓭᐤ",
+            "ᒥᐢᑕᑎᒼ",
+            "ᒧᐢᑐᐢ",
+            "ᓰᓰᑊ",
+            "ᐊᐸᐸᒼ",
+            "ᐸᐦᑳᐤ"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "ᐘᐢᑳᐦᐃᑲᐣ",
+          "words": [
+            "ᐃᐢᑿᐦᑌᒼ",
+            "ᐊᐱᐏᐣ",
+            "ᐘᐢᑕᐍᐣ",
+            "ᓂᐸᐏᐣ",
+            "ᐊᓂᐱᐩ",
+            "ᓲᐸᐤ",
+            "ᐱᓯᒧᐣ",
+            "ᒪᓯᓇᐣ",
+            "ᐊᐸᐦᑲᐣ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "ᑲᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓇ",
+        "food": "ᒥᒋᓱᐏᐣ",
+        "home": "ᐘᐢᑳᐦᐃᑲᐣ",
+        "outdoors": "ᐘᔭᐑᑎᒥᕽ",
+        "animals": "ᐱᓯᐢᑭᐤᐠ",
+        "travel": "ᐃᑐᐦᑌᐏᐣ",
+        "work": "ᐊᑐᐢᑫᐏᐣ ᒥᓇ ᓀᐦᐃᔭᐍᐏᐣ",
+        "music": "ᓂᑲᒧᐏᐣ ᒥᓇ ᒥᔭᐘᑎᓯᐏᐣ",
+        "seasons": "ᐱᐳᐣ"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "ᑖᓂ ᒥᔭᒧᐢᑳᒪᐣ ᐅᑭᐦᓯᑭᐘᕽ ᐅᐦᒋ ᒫᐘᐨ ᑭᒥᔭᐘᐣ?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "ᑖᓂ ᐸᐦᑵᓯᑲᐣ ᑲ ᓇᐘᓯᔭᐣ ᒥᔭᐘᑎᓯᐏᑭᓯᑳᕽ?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "ᐋᒋᒧ ᒥᓂᓯᐤ ᐘᔭᐢ ᓇᐣᑕ ᓭᐘᐠ ᑲ ᒥᔭᐘᐣ."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "ᑖᓂᓯ ᑲ ᒥᓂᐦᑵᔭᐣ ᒪᐢᑭᐦᑭᐤ ᓇᐣᑕ ᐱᐦᑲᑌᐤ?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᐅᐦᒋ ᒥᔪᓯᐣ ᑭᑭᓭᐹ ᒥᒋᓱᐏᐣ?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "ᑭᑭ ᒧᐢᑭᓇᐣ ᓇ ᒥᓂᓯᐤ ᓂᐱᐢᑎᕽ ᐅᐦᒋ?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "ᓭᐘᐣ ᓇᐣᑕ ᓰᐘᐣ: ᑖᓂ ᒫᐘᐨ ᑭᒥᔭᐘᐣ?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "ᑖᓂ ᒥᒋᓱᐏᐣ ᓃᐱᐣ ᑲ ᒥᑖᑿᐢᑕᒧᓯᐠ?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "ᐋᒋᒧ ᐘᐢᑳᐦᐃᑲᐣ ᑲ ᒥᔭᐘᐣ ᐁ ᐃᑖᔭᐣ."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "ᑖᓂᑌ ᒫᐘᐨ ᑭᒥᔭᐘᐣ ᐁ ᐊᐱᔭᐣ ᒥᓇ ᐁ ᐊᔭᐦᐯᔭᐣ?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᒥᔭᐘᐣ ᐁ ᑖᐱᓯᐣ ᐱᓯᒥᐦᑭ ᑭᓯᑳᕽ?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᑲᓇᐍᔭᐦᑕᒪᐣ ᐊᐱᓯᐢ ᒥᐢᑎᑯᐦᑳᑌᕽ?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "ᐊᐍᓇ ᑲ ᐘᐃᑯᒪᐟ ᒪᐢᑭᐦᑭᐤ ᐁ ᒥᓂᐦᑵᔭᐣ?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᒥᔭᐘᐣ ᐁ ᑖᐱᓯᐣ ᑭᒧᐘᐣ ᑭᓯᑳᕽ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "ᑖᓂ ᐘᐢᑲᐟᐠ ᑲ ᐸᑭᑎᓇᐣ ᑭᐢᑎᑲᓂᕽ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "ᐋᒋᒧ ᒥᐢᑎᐠ ᓇᐣᑕ ᐃᐢᑯᑌᐤ ᑲ ᒥᔭᐘᐣ."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "ᑮᑿᔭᐣ ᒫᐘᐨ ᑲ ᒥᔪᓯᐣ ᑭᐢᑎᑲᓂᕽ ᐁ ᐃᑖᔭᐣ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "ᑖᓂ ᐃᑕᐢᐅᐏᐣ ᐘᐢᑲᐟ ᒫᐘᐨ ᑭᒥᔭᐘᐣ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "ᑭᒥᔭᐘᐣ ᓇ ᓂᐱᐢᑎᐠ ᐘᐢᑳᐦᐃᑲᓂᕽ ᐁ ᐊᔭᐊᐟ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "ᑖᓂᓯ ᐁ ᐃᓯᓇᑿᐠ ᒥᔪ ᐘᐢᑭᐣ ᑭᓯᑳᐤ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "ᐋᒋᒧ ᐊᑎᒼ ᑲ ᑭᐢᑫᔭᐣ."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "ᒥᓂᐢᐠ ᓇᐣᑕ ᐊᑎᒧᐠ, ᓇᐣᑕ ᓇᒨᓇ? ᑮᑿᔭᐣ ᑲ ᒥᔭᐘᐟ ᐊᐘ ᐱᓯᐢᑭᐤ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "ᑖᓂ ᐱᐦᔦᓯᓴᐠ ᑲ ᐘᐸᒪᐟ ᓇᐣᑕ ᑲ ᐯᐦᑕᐘᐟ ᐘᔭᐑᑎᒥᕽ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "ᑭᑭ ᐸᑭᑎᓇᐣ ᓇ ᑭᓄᓭᐤ, ᓇᐣᑕ ᑭᑭ ᑲᓇᐍᔭᐘᐣ ᓇ ᑭᓄᓭᐤ ᓂᐱᕽ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "ᑖᓂ ᐱᓯᐢᑭᐤ ᒫᐘᐨ ᑲ ᒥᔪᓯᐣ ᑲ ᐘᐸᒪᐟ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "ᐋᒋᒧ ᓭᐦᑫᐯᐦᑖᐤ ᑲ ᒥᔭᐘᐣ."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "ᔮᐦᑲᑎᕽ ᓇᐣᑕ ᐃᐢᐸᑎᓇᕽ: ᑖᓂᑌ ᑲ ᐃᑖᔭᐣ ᐯᔭᐠ ᑭᓯᑳᐤ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "ᑖᓂᑌ ᑲ ᓇᑕᐍᔭᐣ ᐁ ᐱᒥᐸᔨᐦᐃᔭᐣ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "ᑭᐢᐱᓇ ᑭᐢᐸᒥᐦᐋᔭᐣ ᑖᓂᑌ ᐃᑖ, ᑖᓂᑌ ᑲ ᐃᑐᐦᑌᔭᐣ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "ᑖᓂ ᐃᑐᐦᑌᐏᐣ ᑲ ᒥᔭᐘᐣ ᐁ ᑖᐱᓯᐣ?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "ᑖᓂ ᐊᑐᐢᑫᐏᐣ ᑲ ᒥᔭᐘᐣ ᐁ ᐊᑐᐢᑫᔭᐣ?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "ᑖᓂ ᓀᐦᐃᔭᐍᐏᐣ ᑲ ᑭᐢᐱᓇ ᒥᐢᑕᐦᐃ ᐊᔭᐸᒋᐦᑖᔭᐣ?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᑭᐢᑫᔭᐣ ᐁ ᐅᓯᐦᑖᔭᐣ ᓇᐣᑕ ᐁ ᒥᔪᓯᐦᑖᔭᐣ?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᐃᑎᐟ ᐅᐢᑭᓇᐦᐃᑭᐢ ᐁ ᒪᒋᐊᑐᐢᑫᐟ?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "ᑖᓂ ᓂᑲᒧᐏᐣ ᑲ ᐅᐦᒋ ᓇᑕᐍᔭᐣ ᐁ ᒫᒫᑕᐦᑲᒥᔭᐣ?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᐅᐦᒋ ᒥᔪᓯᐣ ᒥᔭᐘᑎᓯᐏᐣ?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "ᐊᐍᓇ ᓂᑲᒧᐘᐢᑭᐤ ᑲ ᒥᔭᐘᐣ ᐁ ᐯᐦᑕᐘᐟ?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "ᑖᓂ ᒪᓯᓇᐦᐃᑲᓐ ᓇᐣᑕ ᐘᐸᐦᑕᒧᐏᐣ ᑲ ᒥᔭᐘᐣ ᒥᓇ ᐁ ᐘᐸᐦᑕᒪᐣ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "ᑮᑿᔭᐣ ᒫᐘᐨ ᑲ ᒥᔭᐘᐣ ᓃᐱᐣ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᒥᔭᐘᐣ ᑕᑿᑭᕽ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "ᑮᑿᔭᐣ ᑲ ᑭᓯᐘᐣ ᐁ ᑖᐱᓯᐣ ᐱᐳᐣ ᑭᓯᑳᕽ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "ᑖᓂ ᓂᐢᑕᒻ ᑲ ᐘᐸᐦᑕᒪᐣ ᓯᑿᐣ ᐁ ᒪᒋᐸᔭᐠ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "ᑯᓇᐢ, ᑭᒧᐘᐣ, ᓇᐣᑕ ᐘᐢᑭᐣ: ᑖᓂ ᒫᐘᐨ ᑭᒥᔭᐘᐣ?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "ᐘᐢᑲᐟ ᐊᐢᑭᐦᑯᐦᑲᓂᕽ",
+          "regions": {
+            "sky": "ᐊᐢᐸᐦᑭᐤ",
+            "table": "ᐊᑐᐢᐸᐏᐣ",
+            "stem": "ᐅᐢᑳᐟ",
+            "leaf-left": "ᓇᒧᑎᓇᐦᐠ ᓃᐱᐩ",
+            "leaf-right": "ᑭᐦᒋᓇᐦᐠ ᓃᐱᐩ",
+            "petal-1": "ᐸᐢᑿᐣ ᐯᔭᐠ",
+            "petal-2": "ᐸᐢᑿᐣ ᓃᓱ",
+            "petal-3": "ᐸᐢᑿᐣ ᓂᐢᑐ",
+            "petal-4": "ᐸᐢᑿᐣ ᓀᐓ",
+            "petal-5": "ᐸᐢᑿᐣ ᓃᔭᓇᐣ",
+            "petal-6": "ᐸᐢᑿᐣ ᓂᑯᑤᓯᐠ",
+            "petal-7": "ᐸᐢᑿᐣ ᑌᐸᑯᐦᑊ",
+            "petal-8": "ᐸᐢᑿᐣ ᐊᔨᓈᓀᐤ",
+            "center": "ᐘᐢᑲᐟ ᑖᐏᐦᐠ",
+            "pot": "ᐊᐢᑭᐦᑯᐦᑲᐣ",
+            "pot-rim": "ᐊᐢᑭᐦᑯᐦᑲᐣ ᒥᑎᐦᐋᐣ"
+          }
+        },
+        "house": {
+          "name": "ᐘᐢᑳᐦᐃᑲᐣ",
+          "regions": {
+            "sky": "ᑫᔮᐢᐠ",
+            "sun": "ᐱᓯᒼ",
+            "grass": "ᒪᐢᑫᐠ",
+            "chimney": "ᑯᑕᐘᐣ",
+            "walls": "ᐊᓯᓂᔭ",
+            "roof": "ᐊᐸᑯᐦᐠ",
+            "door": "ᐃᐢᑿᐦᑌᒼ",
+            "window-left": "ᓇᒧᑎᓇᐦᐠ ᐘᓭᐦᒋᑲᐣ",
+            "window-right": "ᑭᐦᒋᓇᐦᐠ ᐘᓭᐦᒋᑲᐣ",
+            "path": "ᒣᐢᑲᓇᐤ"
+          }
+        },
+        "teacup": {
+          "name": "ᒥᓂᐦᑿᒋᑲᐣ",
+          "regions": {
+            "background": "ᐊᐢᐸᐦᑭᐤ",
+            "saucer": "ᐊᐦᑎᑿᐣ",
+            "handle": "ᒥᑎᐦᐋᐣ",
+            "cup": "ᒥᓂᐦᑿᒋᑲᐣ",
+            "band": "ᒥᓂᐦᑿᒋᑲᐣ ᐱᒧᐦᑕᐦᐃᑲᐣ",
+            "tea": "ᒪᐢᑭᐦᑭᐤ"
+          }
+        },
+        "butterfly": {
+          "name": "ᑲᒥᒧᐤ",
+          "regions": {
+            "background": "ᐊᐢᐸᐦᑭᐤ",
+            "wing-top-left": "ᐃᐢᐸᒥᐦᐠ ᓇᒧᑎᓇᐦᐠ ᒥᑎᐦᑿᐣ",
+            "wing-top-right": "ᐃᐢᐸᒥᐦᐠ ᑭᐦᒋᓇᐦᐠ ᒥᑎᐦᑿᐣ",
+            "wing-bottom-left": "ᓀᒋᐦᐠ ᓇᒧᑎᓇᐦᐠ ᒥᑎᐦᑿᐣ",
+            "wing-bottom-right": "ᓀᒋᐦᐠ ᑭᐦᒋᓇᐦᐠ ᒥᑎᐦᑿᐣ",
+            "spot-left": "ᓇᒧᑎᓇᐦᐠ ᐊᐢᑭᓱᐣ",
+            "spot-right": "ᑭᐦᒋᓇᐦᐠ ᐊᐢᑭᓱᐣ",
+            "body": "ᒥᔪᐤ"
+          }
+        },
+        "sailboat": {
+          "name": "ᐸᐢᑭᓯᑲᐣ ᓇᐹᐩ",
+          "regions": {
+            "sky": "ᑫᔮᐢᐠ",
+            "sea": "ᓃᐱᐩ",
+            "sail-big": "ᒥᓯᐠ ᐸᐢᑭᓯᑲᐣ",
+            "sail-small": "ᐊᐱᓯᐢ ᐸᐢᑭᓯᑲᐣ",
+            "mast": "ᓇᐸᑳᐣ",
+            "hull": "ᓇᐹᐩ",
+            "flag": "ᐅᑭᐦᓯᒋᑲᐣ"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "ᐅᑭᐦᓯᑭᐘᐠ ᒥᓇ ᑭᐢᑎᑲᐣ",
+          "baskets": [
+            "ᑭᓯᓱᐘᑲᒥᑯᐦᐠ",
+            "ᑭᐢᑎᑲᓂᐦᐠ"
+          ]
+        },
+        "fruit-animals": {
+          "label": "ᒥᓂᓴ ᒥᓇ ᐱᓯᐢᑭᐘᐠ",
+          "baskets": [
+            "ᒥᓂᓴ",
+            "ᐱᓯᐢᑭᐘᐠ"
+          ]
+        },
+        "home-travel": {
+          "label": "ᐚᐢᑲᐦᐃᑲᐣ ᒥᓇ ᐸᐦᐧᒋᐦᐆᐏᐣ",
+          "baskets": [
+            "ᐚᐢᑲᐦᐃᑲᓂᐦᐠ",
+            "ᐘᔭᐘᑎᒥᐦᐠ"
+          ]
+        }
+      }
+    }
+  }
+}

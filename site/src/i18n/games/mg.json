@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Sary tsiroaroa",
+    "seoTitle": "Lalao fampifanarahana sary ho an'ny dementia: Sary tsiroaroa",
+    "h1": "Sary tsiroaroa: lalao fampifanarahana milamina",
+    "description": "Lalao fampifanarahana sary maimaimpoana sy milamina ho an'ireo olona miaina miaraka amin'ny dementia. Mijanona ho hita foana ireo sary lehibe, tsy misy famantaranandro na isa, ary afaka misafidy vato 4 ka hatramin'ny 12 ianao.",
+    "short": "Tadiavo ireo sary roa mitovy. Afaka mijanona miseho foana ireo sary.",
+    "players": "Olona 1 na 2, mifanila",
+    "intro": "Kitiho ny sary iray, avy eo kitiho ilay sary mitovy aminy. Mijanona miseho foana ireo sary amin'ny voalohany, ka tsy voatery hotadidiana na inona na inona. Rehefa mifanaraka ireo sary roa dia mahazo sisiny miloko volamena sy marika famantarana marina.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Safidio ny isan'ny vato tianao hampiasaina. Vato efatra no toerana milamina hanombohana.",
+      "Kitiho izay sary tianao. Hahazo sisiny miloko volamena izy.",
+      "Kitiho ilay sary mitovy aminy. Mijanona mitambatra ireo sary roa miaraka amin'ny marika marina.",
+      "Raha samy hafa ireo sary roa, tsy misy olana mitranga. Kitiho indray rehefa vonona ianao.",
+      "Alefaso ny « Sary miafina » raha samy mankafy ilay fomba mahazatra mifotitra ianareo roa."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Tonony mafy miaraka ny anaran'ireo sary ary ifampiresaho: « Kaopy dite mena. Moa ve ianao tia asiana ronono ny diteo? »",
+      "Avelao ilay olona karakarainao no mikitika, na dia maka fotoana aza izany. Tondroy fotsiny fa aza kitihina eo amin'ny toerany.",
+      "Mijanona amin'ny vato efatra raha mbola mahatsapa fifaliana amin'izany. Safidy fotsiny ny fampitomboana vato, fa tsy dingana tsy maintsy tratrarina velively.",
+      "Farano ny lalao raha mbola mahafinaritra. Efa asa feno sy mahafa-po ny lalao iray."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, isa, fanisana fihetsika na faharesena. Afaka mijanona amin'ny fotoana rehetra ianao, ary fomba tena tsara hamaranana azy koa ny fijanonana eo antenatenany."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Nahoana no mijanona miseho ireo sary?",
+        "a": "Ny fitazonana ireo sary ho hita dia mahatonga ny lalao ho fijerena sy fampitoviana sary fa tsy fitadidiana. Olona maro no mahatsapa izany ho milamina kokoa. Afaka mifindra amin'ny sary miafina amin'ny kitika iray monja ianao raha tianao kokoa izany."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaimpoana izany, ary tsy mila kaonty, fisoratana anarana na fampidinana rindranasa. Mandeha avy hatrany amin'ny mpitety tranonkala amin'ny finday, takelaka na solosaina izany."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Afaka mampiasa ny sarin'ny fianakavianay manokana ve izahay?",
+        "a": "Eny. Andramo ny Photo pairs, izay ahafahanao misafidy sary avy amin'ny fitaovanao. Mijanona ao amin'ny mpitety tranonkalanao ireo sary fa tsy alefa any amin'ny aterineto."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Tadiavo ny mitovy",
+    "seoTitle": "Tadiavo ny sary mitovy: lalao tsotra ho an'ny dementia",
+    "h1": "Tadiavo ny sary mitovy",
+    "description": "Sary iray eo ambony, roa ka hatramin'ny efatra eo ambany. Kitiho ilay sary mitovy aminy. Lalao sary maimaimpoana sy milamina ho an'ireo olona miaina miaraka amin'ny dementia, tsy misy famantaranandro.",
+    "short": "Jereo ilay sary eo ambony ary kitiho ilay mitovy aminy eo ambany.",
+    "players": "Olona 1 na 2",
+    "intro": "Misy sary tokana mipetraka eo an-tampon'ny efijery. Eo ambaniny dia misy sary roa, telo na efatra. Kitiho ilay sary mitovy aminy. Safidy tsotra iray isaky ny mandeha izany, miaraka amin'ny fotoana malalaka hiresahana.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Safidio raha sary roa, telo na efatra no hisafidianana. Ny roa no tsotra indrindra.",
+      "Miaraha mijery ilay sary eo ambony.",
+      "Kitiho ilay sary mitovy aminy eo ambany. Asiana marika marina sy teny fankaherezana vitsivitsy izany.",
+      "Raha sary hafa no voakitika, tononin'ny lalao fotsiny ny anarany ary miandry izy. Aza maika.",
+      "Kitiho ny « Sary manaraka » rehefa vonona amin'ny manaraka ianao."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Resaho ny momba ny sary tsirairay alohan'ny hisafidianana: ny loko, ny bika, na ny toerana mety hahitana azy.",
+      "Tsy hoe « mora loatra » ny safidy roa. Ny tanjona dia fotoana mahafinaritra, fa tsy fitsapana.",
+      "Raha sarotra ny mikitika, afaka manondro ilay olona ary ianao no mikitika ho azy."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, isa, fanisana fihetsika na faharesena. Afaka mijanona amin'ny fotoana rehetra ianao, ary fomba tena tsara hamaranana azy koa ny fijanonana eo antenatenany."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Inona no mitranga raha sary tsy izy no voakitika?",
+        "a": "Tsy misy zavatra mahasosotra. Tsy misy feo mampihorohoro, lakroa mena na fihovitrovitra. Tononin'ny lalao fotsiny ny anaran'ilay sary voakitika ary miandry ny kitika manaraka izy."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaimpoana izany, ary tsy mila kaonty, fisoratana anarana na fampidinana rindranasa. Mandeha avy hatrany amin'ny mpitety tranonkala amin'ny finday, takelaka na solosaina izany."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Fampifanarahana aloka",
+    "seoTitle": "Lalao fampifanarahana aloka ho an'ny dementia: maimaimpoana amin'ny aterineto",
+    "h1": "Fampifanarahana aloka: lalao sary milamina",
+    "description": "Aloka mainty eo ambony, sary roa ka hatramin'ny efatra eo ambany. Kitiho ilay sary tompon'ilay aloka. Lalao fampifanarahana aloka maimaimpoana sy milamina ho an'ny dementia, tsy misy famantaranandro.",
+    "short": "Jereo ilay aloka ary kitiho ilay sary tompony.",
+    "players": "Olona 1 na 2",
+    "intro": "Asa mahazatra avy amin'ny taratasy fanaovan-draharaha ny fampifanarahana aloka, saingy eto dia atolotra amin'ny sary lehibe ary tsy mila pirintiana. Misy aloka malefaka mipetraka eo an-tampon'ny efijery ary sary roa, telo na efatra no miandry eo ambany. Kitiho ilay sary mifanaraka amin'ilay aloka. Mora ifampiresahana koa ireo bika toy ny bisikileta, elo na kaopy dite.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Safidio raha sary roa, telo na efatra no hisafidianana. Ny roa no tsotra indrindra.",
+      "Miaraha mijery ilay aloka. Manahoana ny bikany? Lava ve sa boribory?",
+      "Kitiho ilay sary tompon'ilay aloka. Hiseho eo ambanin'ilay aloka ny anarany.",
+      "Raha sary hafa no voakitika, tononin'ny lalao fotsiny ny anarany ary miandry izy. Aza maika.",
+      "Kitiho ny « Aloka manaraka » rehefa vonona amin'ny manaraka ianao."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Araho amin'ny rantsantanana ny sisin'ilay aloka ary ifampiresaho ny bikany.",
+      "Raha tsapa ho sarotra ny aloka anio, mifindrà amin'ny Tadiavo ny mitovy, izay ahitana sary mitovy tanteraka.",
+      "Ifampiresaho ilay sary rehefa hita: « Nanana elo tahaka an'io isika taloha. »"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, isa, fanisana fihetsika na faharesena. Afaka mijanona amin'ny fotoana rehetra ianao, ary fomba tena tsara hamaranana azy koa ny fijanonana eo antenatenany."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Moa ve mahasoa ho an'ny olona miaina miaraka amin'ny fahaverezan'ny fitadidiana ny fampitoviana aloka?",
+        "a": "Mety ho hetsika mahafinaritra sy tsotra ho an'ny olona sasany izany, indrindra amin'ny dingana voalohandohany. Mora fantarina kokoa noho ny teny ny endrika. Natao hialana voly sy hiresahana izany fa tsy fizahana toetra, ary tsy mitsabo na mampiadana ny fahaverezan'ny fitadidiana. Raha miteraka fahasosorana izany, andramo ny Tadiavo ny mitovy na mijere sary miaraka fotsiny."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Inona no mitranga raha voakitika ny sary tsy izy?",
+        "a": "Tsy misy zavatra mahasosotra. Tsy misy feo mampitahotra, lakroa mena na fihovitrovitra. Milaza ny anaran'ilay sary voakitika ny lalao ary miandry ny fikitihana manaraka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaimpoana izany, ary tsy misy kaonty, fisoratana anarana na fampidinana fampiharana. Mandeha mivantana amin'ny tranonkala amin'ny finday, takelaka na solosaina izany."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sokajio miaraka",
+    "seoTitle": "Lalao fanasokajiana ho an'ny fahaverezan'ny fitadidiana: Sokajio miaraka",
+    "h1": "Sokajio miaraka: hetsika fanasokajiana sary",
+    "description": "Kitio ny sary iray, avy eo kitio ny harona tokony hisy azy: lakozia na zaridaina, voankazo na biby. Hetsika fanasokajiana milamina sy maimaimpoana ho an'ny olona miaina miaraka amin'ny fahaverezan'ny fitadidiana.",
+    "short": "Apetraho ao anatin'ny harona mifanaraka aminy ny sary tsirairay: lakozia na zaridaina, sy ny maro hafa.",
+    "players": "Olona 1 na 2",
+    "intro": "Ny fanasokajiana dia asa mahazatra sy mahafa-po eo amin'ny fiainana andavanandro, toy ny fandaminana entana avy miantsena na fampiarahana ba kiraro. Kitio ny sary iray, avy eo kitio ny harona tokony hisy azy. Tsy misy maika ary tsy misy diso.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Mifidiana lohahevitra iray: lakozia sy zaridaina, voankazo sy biby, na trano sy dia.",
+      "Kitio ny sary iray. Hahazo sisiny miloko volamena izany.",
+      "Kitio ny harona tokony hisy azy. Hifindra ao amin'io harona io ilay sary.",
+      "Raha any amin'ilay harona hafa no tokony hisy azy, dia milaza izany amim-pahalemem-panahy ny lalao ary miandry.",
+      "Rehefa voasokajy ny sary rehetra, jereo miaraka ny ao anatin'ireo harona."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Matetika tsy misy valiny diso eo amin'ny fiainana tena izy. Raha misy milaza fa any an-dakozia no tokony hisy ny fitaovam-panondrahana voninkazo, anontanio ny antony. Mety hahazo tantara mahafinaritra ianao.",
+      "Ampiasao ho fiaingana hiresahana ny sary: « Inona avy no nambolenao tao an-jaridaina? »",
+      "Ny fanasokajiana zavatra tena izy, toy ny sotro sy sotrorovitra na bokotra araka ny lokony, dia hetsika tsara tokoa azo tohizana ivelan'ny efijery."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, isa, fanisana fihetsika na faharesena. Afaka mijanona amin'ny fotoana rehetra ianao, ary ny fijanonana eo antenatenany dia fomba tsara tanteraka hamaranana azy."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Nahoana no fanasokajiana?",
+        "a": "Maro ny olona mankafy ny fanasokajiana satria tsapa ho toy ny asa mahazatra sy mahasoa izany. Mora ihany koa ny miresaka momba ireo sary eo am-panaovana azy."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaimpoana izany, ary tsy misy kaonty, fisoratana anarana na fampidinana fampiharana. Mandeha mivantana amin'ny tranonkala amin'ny finday, takelaka na solosaina izany."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Piozila misy sary",
+    "seoTitle": "Piozila mora ho an'ny fahaverezan'ny fitadidiana: Silaka 4 na 9",
+    "h1": "Piozila misy sary: piozila mora",
+    "description": "Piozila an-tserasera mora ho an'ny olona miaina miaraka amin'ny fahaverezan'ny fitadidiana: silaka lehibe 4 na 9, mijanona ho hita foana ny sary manontolo, ary manindry silaka roa fotsiny ianao hifanakalozana ny toeran'izy ireo.",
+    "short": "Kitio ny silaka roa hifanakalo toerana mandra-pahafenon'ny sary.",
+    "players": "Olona 1 na 2",
+    "intro": "Sary mahafinaritra no nozarazaraina ho silaka lehibe efatra na sivy ary nafangaro. Mijanona ho hita eo foana ny sary manontolo mba ho fitarihana. Kitio ny silaka iray, avy eo ny silaka iray hafa, dia mifanakalo toerana izy ireo. Tsy ilaina ny mitarika amin'ny tanana.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Mifidiana sary iray sy silaka 4 na 9. Fiantombohana malefaka tsara ny silaka efatra.",
+      "Jereo eo ambony ny sary manontolo.",
+      "Kitio ny silaka iray, avy eo kitio ny toerana tokony hisy azy. Mifanakalo toerana ireo silaka roa.",
+      "Mahazo marika kely manamarina ireo silaka tafiditra amin'ny toerana mety.",
+      "Rehefa feno ny sary, iaraho mifaly ny fijerena azy, avy eo mifidiana hafa indray."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ny fipihana silaka roa hifanakalo toerana dia mora kokoa ho an'ny maro noho ny fitarihana azy.",
+      "Resaho ny momba ilay sary eo am-pivoriany: « Iny ilay tafo mena. »",
+      "Ny piozila hazo tena izy misy silaka lehibe 12 hatramin'ny 24 dia hetsika mahafinaritra ihany koa ambony latabatra."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, isa, fanisana fihetsika na faharesena. Afaka mijanona amin'ny fotoana rehetra ianao, ary ny fijanonana eo antenatenany dia fomba tsara tanteraka hamaranana azy."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Mila taritina ve ireo silaka?",
+        "a": "Tsia. Kitio ny silaka iray, avy eo kitio ny silaka iray hafa, dia mifanakalo toerana izy ireo. Mora kokoa izany raha mangovitra ny tanana na amin'ny efijery kely."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaimpoana izany, ary tsy misy kaonty, fisoratana anarana na fampidinana fampiharana. Mandeha mivantana amin'ny tranonkala amin'ny finday, takelaka na solosaina izany."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Fenoy ny ohabolana",
+    "seoTitle": "Fenoy ny ohabolana: Lalao ohabolana ho an'ny zokiolona",
+    "h1": "Fenoy ny ohabolana",
+    "description": "Fitenenana mahazatra amerikanina misy teny farany tsy ampy, toy ny « A penny saved is a penny ___ ». Kitio ny safidy iray na asehoy ny famaranana, avy eo resaho izany.",
+    "short": "Fenoy miaraka ireo fitenenana mahazatra, avy eo resaho.",
+    "players": "Olona 1, 2 na maromaro",
+    "intro": "Matetika mitoetra ao an-tsaina mandritra ny androm-piainana ny ohabolana tranainy. Ny karatra tsirairay dia mampiseho fitenenana mahazatra misy teny farany tsy ampy, safidy telo, ary bokotra « Asehoy ny famaranana ». Rehefa miseho ny famaranana, misy fanontaniana tsotra manasa hiresaka.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Iaraho mamaky mafy ilay fitenenana.",
+      "Kitio ny teny mamarana azy, na kitio ny « Asehoy ny famaranana ».",
+      "Vakio indray ilay fitenenana manontolo ary resaho amin'ny alalan'ilay fanontaniana fiaingana.",
+      "Kitio ny « Fitenenana manaraka » rehefa vonona ianao."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Vakio miadana ary miato kely alohan'ny teny farany. Matetika ny olona no efa manonona azy alohan'ny hamarananao azy.",
+      "Raha misy manome famaranana hafa, ankafizo izany. Ny fomba fiteny sasany dia mety hiova arakaraka ny fianakaviana na ny faritra.",
+      "Raha miaraka amin'olona maromaro, olona iray no mamaky ary ny rehetra kosa miara-manonona ny famaranana."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, isa, fanisana fihetsika, na faharesena. Afaka mijanona amin'ny fotoana rehetra ianao, ary ny fijanonana eo antenatenany dia fomba mety tsara hamaranana azy."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ahoana raha mifidy teny hafa isika?",
+        "a": "Mampiseho ny fiafarana mahazatra ny lalao ary miroso amin'ny resaka. Tsy misy isa, ary mety tsara ny valiny hafa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaimpoana izany, ary tsy misy kaonty, fisoratana anarana, na fampidinana rindrambaiko. Mandeha mivantana amin'ny mpitety tranonkala amin'ny finday, takelaka, na solosaina izy io."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Fikarohan-teny soratra vaventy",
+    "seoTitle": "Fikarohan-teny soratra vaventy ho an'ny fahaverezan'ny fitadidiana, azo atonta",
+    "h1": "Fikarohan-teny soratra vaventy",
+    "description": "Fikarohan-teny soratra vaventy maimaimpoana ho an'ny zokiolona sy ireo olona miaina miaraka amin'ny fahaverezan'ny fitadidiana. Vitsy ny teny, lehibe ny litera, mitsivalana sy mitsangana ihany. Milalaova an-tserasera na atonto.",
+    "short": "Litera lehibe, teny vitsivitsy, mitsivalana sy mitsangana ihany. Azo atonta ihany koa.",
+    "players": "Olona 1 na 2",
+    "intro": "Karatra kely misy litera vaventy sy teny vitsivitsy monja, izay vakina mitsivalana na mitsangana avokoa. Tsindrio ny litera voalohany amin'ilay teny, avy eo ny litera farany. Tianao kokoa ve ny taratasy? Manonta lalao vaovao amin'ny tsindry iray monja.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Mifidiana lohahevitra sy haben'ny efajoro.",
+      "Jereo ny lisitry ny teny. Vakina mitsivalana (ankavia miankavanana) na mitsangana (ambony midina) ny teny.",
+      "Tsindrio ny litera voalohany amin'ilay teny, avy eo tsindrio ny litera farany.",
+      "Hivoaka miavaka ny teny hita ary voafafa ao amin'ny lisitra.",
+      "Tsindrio ny \"Atonto ity piozila ity\" mba hilalaovana amin'ny taratasy miaraka amin'ny penisilihazo na feutre."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Tondroy ny teny iray ao amin'ny lisitra ary iaraho mitady ny litera voalohany aminy.",
+      "Raha amin'ny taratasy, ny penina fanasongadinana loko dia mora hazonina kokoa noho ny penisilihazo.",
+      "Resaho ireo teny mifandray amin'ny lohahevitra. Ohatra, ny anaran'ny voankazo dia fomba tsara itondrana amin'ny fahatsiarovana ny fiotazana, ny fandrahoana, na ny tsena."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, isa, fanisana fihetsika, na faharesena. Afaka mijanona amin'ny fotoana rehetra ianao, ary ny fijanonana eo antenatenany dia fomba mety tsara hamaranana azy."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Azoko atonta ve ny fikarohan-teny?",
+        "a": "Eny. Tsindrio ny \"Atonto ity piozila ity\" mba hanontana ilay efajoro ankehitriny amin'ny soratra vaventy, miaraka amin'ny lisitry ny teny eo ambaniny. Samy hafa foana ny piozila vaovao tsirairay."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaimpoana izany, ary tsy misy kaonty, fisoratana anarana, na fampidinana rindrambaiko. Mandeha mivantana amin'ny mpitety tranonkala amin'ny finday, takelaka, na solosaina izy io."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Pejy fandokoana",
+    "seoTitle": "Pejy fandokoana ho an'ny olon-dehibe miaina miaraka amin'ny fahaverezan'ny fitadidiana (Maimaimpoana)",
+    "h1": "Pejy fandokoana",
+    "description": "Pejy fandokoana tsotra ho an'ny olon-dehibe misy faritra lehibe: tsindrio ny loko iray, avy eo tsindrio ny sary. Tsy misy fandotoana, tsy misy loko diso, ary ny pejy rehetra dia azo atonta maimaimpoana.",
+    "short": "Tsindrio ny loko iray, avy eo ny ampahany amin'ny sary. Azo atonta koa ny pejy.",
+    "players": "Olona 1 na 2",
+    "intro": "Pejy misy endrika lehibe sy tsotra: voninkazo anaty vilany, trano, kaopy dite, lolo, ary sambokely. Tsindrio ny loko iray, avy eo tsindrio ny ampahany amin'ny sary mba handokoana azy. Tsy misy loko diso izany.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Mifidiana pejy iray.",
+      "Tsindrio ny loko iray. Voasoratra eo aminy ny anaran'ny loko tsirairay.",
+      "Tsindrio ny ampahany amin'ny sary mba handokoana azy amin'io loko io.",
+      "Afaka manova hevitra amin'ny fotoana rehetra amin'ny alalan'ny fandokoana azy indray.",
+      "Tsindrio ny \"Atonto ity pejy ity\" hahazoana pejy tsy mbola misy loko mba handokoana azy amin'ny penisilihazo na feutre."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Manomeza loko roa hisafidianana toy izay ny loko rehetra indray miaraka raha toa ka manahirana ny safidy.",
+      "Tonga soa ny hazo volomparasy sy ny masoandro manga. Ny fahafinaretana amin'ny loko no zava-dehibe fa tsy ny fitoviana amin'ny tena izy.",
+      "Mety tsara amin'ny feutre lehibe na tsaoka fandokoana ny pejy vita printy, satria mora hazonina kokoa ireny."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, isa, fanisana fihetsika, na faharesena. Afaka mijanona amin'ny fotoana rehetra ianao, ary ny fijanonana eo antenatenany dia fomba mety tsara hamaranana azy."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Moa ve natao ho an'ny ankizy loatra ireto pejy ireto?",
+        "a": "Nanao sary zavatra milamina sy tsotra izahay fa tsy sarimihetsika sariitatra, mba hifanaraka amin'ny olon-dehibe ny pejy. Ny endrika lehibe dia mahatonga ny fandokoana ho mora nefa tsy toy ny an-jaza."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaimpoana izany, ary tsy misy kaonty, fisoratana anarana, na fampidinana rindrambaiko. Mandeha mivantana amin'ny mpitety tranonkala amin'ny finday, takelaka, na solosaina izy io."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Karatra firesahana",
+    "seoTitle": "Fanombohan-dresaka ho an'ny fahaverezan'ny fitadidiana: Karatra misy sary",
+    "h1": "Karatra firesahana",
+    "description": "Karatra misy sary manolotra fanombohan-dresaka malefaka ho an'ny olona miaina miaraka amin'ny fahaverezan'ny fitadidiana: tsy misy fanadinana, tsy misy valiny tsy maintsy marina. Ampiasao eo amin'ny efijery na atonto ny andiany manontolo.",
+    "short": "Karatra misy sary sy fanontaniana misokatra sady malefaka. Tsy misy fanadinana.",
+    "players": "Olona 2 na vondrona",
+    "intro": "Ny karatra tsirairay dia mampiaraka sary mahazatra amin'ny fanasana misokatra hiresaka, toy ny hoe \"Manao ahoana ny toetrandro tianao indrindra?\" Tsy misy valiny marina tsy maintsy tadiavina ary tsy misy zavatra tokony hotsaroana. Mifidiana lohahevitra iray na afangaroy izy rehetra.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Mifidiana lohahevitra, na avelao eo amin'ny \"Karatra rehetra\".",
+      "Vakio mafy ilay fanontaniana ary iaraho mijery ny sary.",
+      "Mihainoa, zarao koa ny valin-teninao, ary avelao hivoatra malalaka ny resaka.",
+      "Tsindrio ny \"Karatra manaraka\" rehefa vonona ianao, na mijanòna amin'ny karatra iray araka izay tianao.",
+      "Tsindrio ny \"Atonto ny karatra rehetra\" mba hetezana andian-karatra vita amin'ny taratasy."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Valio koa ny fanontaniana. Izany dia mahatonga azy ho toy ny resaka mahazatra fa tsy fakana am-bavany.",
+      "Araho ny fitantarana fa aza mifantoka loatra amin'ny zava-misy marina. Raha miova ny antsipiriany, tsy mampaninona izany.",
+      "Raha misy karatra mampahatsiaro zavatra mampalahelo, ekeo am-pitiavana ilay fihetseham-po ary midira moramora amin'ny karatra hafa."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Nahoana no tsy misy fanontaniana toy ny hoe \"Tadidinao ve...?\"?",
+        "a": "Ny fanontaniana mizaha toetra ny fitadidiana dia mety ho tsapa toy ny fanadinana ka hiteraka henatra. Ny fanasana misokatra toy ny hoe \"Tantarao amiko ny momba ny...\" dia mamela ny rehetra handray anjara, na inona na inona tadidiny."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Azoko atonta ve ireo karatra?",
+        "a": "Eny. Ny \"Atonto ny karatra rehetra\" dia manonta ny andiany manontolo amin'ny soratra vaventy, karatra maromaro isaky ny pejy, vonona hetezana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaimpoana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaim-poana izy ity, ary tsy mila kaonty, fisoratana anarana na fampidinana rakitra. Mandeha mivantana amin'ny mpitety tranonkala amin'ny finday, takelaka na solosaina izy ity."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Sary mampiaraka",
+    "seoTitle": "Mamorona lalao fampiarahana avy amin'ny sarin'ny fianakaviana",
+    "h1": "Sary mampiaraka: Ampifandraiso ireo sarinao manokana",
+    "description": "Avadiho ho lalao fampiarahana milamina ireo sarin'ny fianakavianao. Misafidiana sary 2 ka hatramin'ny 6 ao amin'ny fitaovanao; mijanona ao amin'ny mpitety tranonkalanao izy ireo ary tsy alefa amin'ny aterineto mihitsy.",
+    "short": "Misafidiana ireo sarinao manokana ary ampifandraiso. Tsy misy zavatra alefa amin'ny aterineto.",
+    "players": "Olona 2, mifanila",
+    "intro": "Misafidiana sary roa ka hatramin'ny enina avy amin'ny findainao, takelaka na solosainao, dia lasa lalao fampiarahana misy sary lehibe sy mazava tsara izy ireo. Ao anatin'ity pejy ity ihany no isehoan'ireo sary. Tsy alefa any amin'ny aterineto, tsy tahirizina na zaraina izy ireo, ary manjavona rehefa manidy ny pejy ianao.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Kitiho ny « Misafidiana sary » ary mifidiana sary roa ka hatramin'ny enina.",
+      "Miseho indroa ny sary tsirairay. Kitiho ny iray, avy eo kitiho ny namany.",
+      "Resaho ny momba ny sary tsirairay rehefa mahita azy ianao.",
+      "Rehefa vita ianao, akimpio ny pejy na kitiho ny « Fafao ny sary ». Tsy misy na inona na inona tahirizina."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Misafidiana sary mazava maneho zavatra mahafaly sy mahazatra: biby fiompy, zaridaina, toerana tiana indrindra, na andro fampakaram-bady.",
+      "Mety ho mora kokoa noho ny sarin'olona ny sarin-toerana sy zavatra, ary misoroka ny fahasahiranana amin'ny fitadidiana anaran'olona.",
+      "Aza ampiasaina ny sarin'ireo olona efa nodimandry raha mety hitondra alahelo tampoka izany, afa-tsy raha fantatrao fa mitondra fampiononana ho azy ireo."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Misy alefa amin'ny aterineto ve ny sariko?",
+        "a": "Tsia. Vakian'ny pejy mivantana ao amin'ny mpitety tranonkalanao ireo sary nofidinao ary aseho eo amin'ny efijery. Tsy alefa atỳ aminay na any amin'olon-kafa izany, ary manjavona tanteraka rehefa manidy na manavao ny pejy ianao."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Misy famantaranandro na isa ve?",
+        "a": "Tsia. Tsy misy famantaranandro, tsy misy isa, tsy misy fanisana fihetsika, ary tsy misy resy. Azonao atao ny mijanona amin'ny fotoana rehetra, ary ny fijanonana eny antenatenany dia fomba tsara sy mety tanteraka hamaranana azy."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Azoko tahirizina ve ny lalao ho amin'ny manaraka?",
+        "a": "Tsy azo atao ao amin'ny mpitety tranonkala izany, noho ny fandaminana natao mba tsy hisy zava-miafina voatahiry. Ny rindranasa maimaim-poana Golden Moments ho an'ny iPhone sy iPad kosa dia afaka mitahiry dika mitovy amin'ireo sary nofidina ao amin'ny fitaovanao."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo misy sary",
+    "seoTitle": "Bingo misy sary ho an'ny zokiolona miaina miaraka amin'ny dementia: Azo atonta printy",
+    "h1": "Bingo misy sary ho an'ny vondron'olona",
+    "description": "Bingo misy sary maimaim-poana azo atonta printy ho an'ny fiahiana ny fitadidiana sy ny vondron'ny zokiolona, miaraka amin'ny mpitarika lalao amin'ny efijery lehibe. Sary lehibe miaraka amin'ny teny, efajoro 9 na 16, tsy mila fahaizana mamaky teny.",
+    "short": "Karatra bingo misy sary azo atonta printy sy mpitarika lalao amin'ny efijery lehibe ho an'ny vondrona.",
+    "players": "Vondrona misy olona 2 ka hatramin'ny 30",
+    "intro": "Bingo mahazatra mampiasa sary fa tsy isa, ka tsy misy olona mila mamaky soratra madinika. Manotà andiana karatra samy hafa, avy eo ampiasao ny mpitarika lalao eo amin'ny efijery mba hanehoana ny sary tsirairay amin'ny habeny lehibe eo amin'ny fahitalavitra, solosaina entin-tanana na takelaka.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Fidio na efajoro 9 na 16 isaky ny karatra ary ny isan'ny mpilalao.",
+      "Kitiho ny « Manonta karatra ». Samy hafa ny karatra tsirairay.",
+      "Sokafy amin'ny efijery lehibe ny mpitarika lalao. Kitiho ny « Sary manaraka » mba hanehoana ny sary tsirairay miaraka amin'ny anarany.",
+      "Saroman'ireo mpilalao amin'ny vola madinika, bokotra na marika ny sary mifanitsy amin'ny karatrany.",
+      "Ireo rehetra mahafeno andalana iray, na ny karatra manontolo, dia mahazo tehaka sy fankasitrahana. Tsy misy resy amin'ity lalao ity: tohizo ny lalao mandra-pahazoan'ny rehetra andalana iray."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Mampiasà zavatra lehibe hanaronana toy ny vato damy na saron-tavoahangy. Mety ho sarotra raisina ny bokotra madinika.",
+      "Tonony ny anaran'ny sary ary miresaha kely momba azy: « Sambokely misy lay. Iza no efa nandeha sambo? »",
+      "Apetraho eo akaikin'ny efijery indrindra ireo olona manana fahasahiranana amin'ny fahitana, ary ampiarao amin'ny mpanampy ireo mpilalao mila fanampiana.",
+      "Ampy tsara ho an'ny ankamaroan'ny vondrona ny efajoro sivy. Tano ho eo amin'ny 20 ka hatramin'ny 30 minitra eo ny fotoana hilalaovana."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ahoana no fomba fampandehanana ny bingo misy sary any amin'ny trano fitaizana be antitra?",
+        "a": "Manotà karatra iray isaky ny mpilalao, apetraho amin'ny efijery lehibe indrindra anananao ny mpitarika lalao, ary lazao miadana ireo sary sady tononina ny anarany tsirairay. Milalaova mandra-pahazoan'ny rehetra andalana iray, mba tsy hisy olona ho diso anjara."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Maimaim-poana ve ny fanontana azy printy?",
+        "a": "Eny. Manotà karatra araka izay ilainao, matetika araka izay tianao, na ho an'ny tena manokana na ho an'ny vondrona."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Afaka milalao ve ny olona na dia tsy mahay mamaky teny aza?",
+        "a": "Eny. Sary lehibe ny efajoro tsirairay, misy ny anarany eo ambaniny ho an'ireo tia teny."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Fisefoana milamina",
+    "seoTitle": "Fiatoana fisefoana milamina ho an'ny zokiolona sy ny mpikarakara",
+    "h1": "Fiatoana fisefoana milamina",
+    "description": "Fiatoana fisefoana miadana sy mangina iaraha-manao: boribory milamina mihalehibe sy mihaheniheny mandritra ny fisefoana enina. Ianao no manomboka azy, ary afaka mijanona amin'ny fotoana rehetra ianao.",
+    "short": "Boribory miadana arahina rehefa misefo. Manomboka sy mijanona araka izay tianao.",
+    "players": "Olona 1 na 2",
+    "intro": "Indraindray ny asa tsara indrindra atao dia fiatoana mangina. Kitiho ny « Manomboka », avy eo mifohaza rivotra rehefa mihalehibe ny boribory ary mamoaha rivotra rehefa mihaheniheny izy. Misafidiana gadona miadana na haingana kokoa. Tsy fitsaboana akory izy ity, fa fotoana milamina fotsiny ifampizarana.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Mipetraha tsara mifanila.",
+      "Mifidiana gadona: miadana na malefaka.",
+      "Kitiho ny « Manomboka ». Mifohaza rivotra rehefa mihalehibe ny boribory, ary mamoaha rivotra rehefa mihaheniheny izy.",
+      "Mijanona hoazy izy aorian'ny fisefoana enina, na kitiho ny « Mijanona » amin'ny fotoana rehetra tianao."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Mifandraisa tanana na apetraho eo amin'ny sandrin'ilay olona ny tanana raha mahafinaritra azy izany.",
+      "Aza manery mihitsy. Raha aleony mijery fotsiny, dia mety tsara izany.",
+      "Raha misy olona manana fahasahiranana amin'ny fisefoana, miainà ara-dalàna fotsiny ary jereo ny boribory. Manontania dokotera momba izay olana rehetra amin'ny fisefoana."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Fanazaran-tena ara-pitsaboana momba ny fisefoana ve ity?",
+        "a": "Tsia. Fiatoana tsotra sy azo isafidianana fotsiny izy ity mba hitondra fitoniana sy fiarahana. Tsy fitsaboana ny tebiteby na aretina hafa akory izany. Miresaha amin'ny dokotera momba ny olana ara-pahasalamana."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Mihetsika ve ny boribory raha tsy atompoko?",
+        "a": "Tsia. Tsy misy mihetsika raha tsy manindry ny Start ianao, ary mijanona izany aorian'ny fofonaina enina na rehefa manindry ny Stop ianao. Raha voalamina hampihena ny fihetsika ny fitaovanao, dia miova ireo teny nefa tsy mihalehibe ilay boribory."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Maimaim-poana ve izany, ary mila misoratra anarana ve aho?",
+        "a": "Eny, maimaim-poana izany, ary tsy misy kaonty, fisoratana anarana, na fampidinana. Mandeha amin'ny mpitety tranonkala amin'ny finday, takelaka, na solosaina izany."
       }
     ]
   }

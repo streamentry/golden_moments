@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Alu i le ituaiga autu o le itulau",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Gaioiga mo le dementia",
+    "homeLabel": "Fale o Golden Moments",
+    "mainNav": "Autu",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Gagana fa'a Samoa",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: ata tetele e faafiafia, o se ipu tī, se lāʻau lanumeamata ma se ʻuli",
+    "languages": "Gagana",
+    "englishOnly": "(Igilisi)",
+    "machineTranslated": "Ua faaliliuina lenei itulau e masini, ma e leʻi iloiloina pea e se tagata e gagana lava ia.",
+    "readOriginal": "Faitau le tusi moni i le gagana Igilisi",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Taʻaloga",
+      "activities": "Gaioiga",
+      "caregiving": "Tausiga",
+      "brainHealth": "Soifua maloloina o le mafaufau"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Fesili ma tali",
+    "breadcrumb": "Ala o itulau",
+    "home": "Fale",
+    "lastUpdated": "Na faafouina mulimuli",
+    "topics": "Mataupu",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Tele o tusi",
+      "smaller": "Tusi masani",
+      "larger": "Tusi tetele",
+      "contrast": "Eseesega sili atu"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Taʻalo",
+    "picturePairs": "Paaga ata",
+    "conversationCards": "Pepa talanoaga",
+    "pictureBingo": "Bingo ata",
+    "allGames": "Taʻaloga uma",
+    "pictures": "Ata e mafai ona lolomi",
+    "activityIdeas": "Manatu i gaioiga",
+    "ideas101": "101 manatu i gaioiga",
+    "lateStage": "Gaioiga mo le vaitaimi mulimuli",
+    "printable": "Gaioiga e mafai ona lolomi",
+    "allActivities": "Gaioiga uma",
+    "forCaregivers": "Mo tagata tausi",
+    "playTogether": "Faafefea ona taʻalo faatasi",
+    "selfCare": "Tausia oe lava",
+    "brainHealth": "Suʻesuʻega o le soifua maloloina o le mafaufau",
+    "faq": "Fesili ma tali",
+    "about": "E uiga i matou",
+    "approach": "Auala matou te faia ai",
+    "howWeWrite": "Auala matou te tusia ai",
+    "organizations": "Mo faalapotopotoga",
+    "app": "Le app a Golden Moments",
+    "appHelp": "Fesoasoani i le app",
+    "support": "Lagolago",
+    "legal": "Tulafono",
+    "sitePrivacy": "Faalilolilo o le upegatafa",
+    "appPrivacy": "Faavaega faalilolilo o le app",
+    "privacyChoices": "Filifiliga faalilolilo",
+    "terms": "Tuutuuga ma laisene o le app",
+    "safety": "Saogalemu ma le faamoemoe o le faaaogaina",
+    "accessibility": "Faaaogaina e tagata uma",
+    "healthNotice": "Faamatalaga o le soifua maloloina",
+    "allLegal": "Faamatalaga tulafono uma",
+    "note": "Golden Moments e ofoina mai ai gaioiga faigofie ma faatasi mo le fiafia. E le o fautuaga faafomaʻi, le suʻega poʻo le togafitiga, ma e le suʻesuʻeina, e le fuafuaina foʻi se tagata. Mo fesili e uiga i le soifua maloloina, talanoa i se foma'i. I se faafitauli faafuasei, vala'au i le numera faafuasei o lou atunuu.",
+    "publisher": "Lolomiina e Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Taʻaloga ma Gaioiga mo le Dementia ma Alzheimer | Golden Moments",
+    "description": "Taʻaloga ata faamafanafana ma faigofie e taʻalo i luga o le initaneti, ma manatu i gaioiga mo tagata o loo ola ma le dementia poʻo Alzheimer ma o latou tagata tausi. Ua sala, e leai se faaigoaga, taimi poʻo fua.",
+    "eyebrow": "Sala · E leai ni faasalalauga · E leai se faaigoaga · E leai ni taimi poʻo fua",
+    "h1": "Taʻaloga ma Gaioiga Faamafanafana mo Tagata o loo Ola ma le Dementia",
+    "lede": "Taʻaloga ata faigofie, ata e iloa, ma gaioiga e fiafia ai faatasi, i lou lava saosaoa.",
+    "playGame": "Taʻalo se taʻaloga",
+    "findIdeas": "Suʻe manatu i gaioiga",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "E galue i luga o le telefoni, pelu ma komepiuta",
+      "Ata tetele e tumau ai le vaai",
+      "Faamavae i so o se taimi; e leai se mea e le manuia ai"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "E iai foi se app sala mo iPhone, iPad ma Android, ma ata o le aiga e te filifilia",
+    "albumNote": "“Ata e lua o le ipu tī, faatasi.”",
+    "gamesEyebrow": "Taʻalo i lou polauisa",
+    "gamesTitle": "Taʻaloga e mafai ona e taʻalo i le taimi nei",
+    "gamesLede": "O nei taʻaloga e filemu, mo tagata matutua, ma e vave ona amata. Filifili se taʻaloga, nofo ma le tasi i le isi, ma tapotapo i taimi e sui ai.",
+    "seeAllGames": "Vaʻai i taʻaloga uma e {count}",
+    "howTitle": "Auala e galue ai",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Filifili se mea e masani ai",
+        "text": "Ata o ipu tī, faatoʻaga, manu fafine ma vaʻa faamalama. E leai se faitau poʻo tulafono e aʻoaʻoina muamua."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Nofo ma le tasi i le isi",
+        "text": "Ia tapotapo e latou. Talanoa e uiga i ata. O se ata e le tutusa e faatali seia oo i le tapotapo isi."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Faamavae pe a lelei lava",
+        "text": "O se taʻaloga e tasi o se gaioiga atoatoa. “Ua uma mo le taimi” o loo i luga o le mata i taimi uma."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "I fafo atu o le mata",
+    "stageTitle": "Manatu i gaioiga mo vaitaimi uma",
+    "stageLede": "Musika, galuega o aso uma, manatu i aso ua mavae, ma ni lagona filemu, ua faagaoioia i mea e lelei ai i le taimi nei.",
+    "ideas101": "101 manatu i gaioiga",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Vaitaimi muamua",
+        "text": "Ia faaauau ona faia mea latou te fiafia i ai, ma suiga laitiiti: faafiafiaga, malaga, taʻaloga upu ma fuafuaga faatasi.",
+        "label": "Manatu i gaioiga o le vaitaimi muamua"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Vaitaimi ogatotonu",
+        "text": "Galuega faigofie ma e masani, vaevaeina i laasaga: faafuli, filifilia, musika, taʻaloga ata ma malaga puupuu.",
+        "label": "Manatu i gaioiga o le vaitaimi ogatotonu"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Vaitaimi mulimuli",
+        "text": "Filemu ma se faafeagaiga e ala i le pa'i, leo ma le vaai: tausiga o lima, pese e fiafia ai, ata ma le nofo faatasi.",
+        "label": "Manatu i gaioiga o le vaitaimi mulimuli"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Mo se mea faapitoa? Vaʻai i <a href=\"/activities/alzheimers/\">gaioiga ma taʻaloga mo Alzheimer</a>, <a href=\"/activities/memory-games/\">taʻaloga faamanatu filemu</a>, <a href=\"/activities/trivia/\">fesili faigofie</a> poʻo <a href=\"/activities/puzzles/\">puzzle</a>.",
+    "approachEyebrow": "Auala matou te faia ai",
+    "approachTitle": "Se gaioiga e fiafia ai faatasi, e le o se suʻega o le mafaufau",
+    "approachLede": "E tele o “taʻaloga o le mafaufau” e faavae i le saosaoa, fua ma faasologa manuia. Mo se tasi e ola ma le dementia, e mafai ona foliga o se suʻega. Matou te faia le mea e ese.",
+    "approachLink": "Aisea matou te faia ai i lenei auala",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "E leai se mea e le manuia ai",
+        "text": "E leai se uati, fua, ola poʻo le faaumatia. O se ata e ese o se taofiga, e le o se sese."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Ata e tumau ai le vaai",
+        "text": "Faailoa mai ma le manatua. Faapipiiina e amata i luga ae e leai se mea e manatua ai."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Matua ma le faaaloalo",
+        "text": "Upu filemu ma faigofie, ma ata o le lalolagi moni. E le mafai ona faia ata tala poʻo upu e pei o le tamaiti."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Faalilolilo e faapea ona faia",
+        "text": "E leai ni faiga poʻo faasalalauga. O au ata e le alu ese mai lau masini."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Mo tagata tausi",
+    "guidesTitle": "Taʻiala faigofie mo tausiga o aso uma",
+    "allCaregiving": "Taʻiala uma o le tausiga",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Auala e taʻalo ai faatasi",
+        "text": "Sauniga, saosaoa, ma le mea e faia pe a le fiafia ai le taʻaloga."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Pe a teʻa e latou se gaioiga",
+        "text": "Mafuaaga masani o le teteʻa, ma auala faamalie e toe taumafai ai mulimuli ane."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Faatuina se pelu",
+        "text": "Tusi tetele, faalavelave laitiiti ma se itulau faigofie e tasi."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Gaioiga sala e mafai ona lolomi",
+        "text": "Suʻega upu ma tusi tetele, ata e lanu ai, bingo ma pepa talanoaga."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Soifua maloloina o le mafaufau: o le mea moni e faapea mai ai suʻesuʻega",
+    "researchText": "E mafai ona puipuia le dementia? E fesoasoani taʻaloga o le mafaufau? Ia te le o le faamalosi i le ola, moe ma le faalogo? Tali faigofie ma faavae i suʻesuʻega, e aofia ai pe a vaivai le faamaoniga.",
+    "researchLink": "Faitau taʻiala o suʻesuʻega",
+    "appEyebrow": "E iai foi se app",
+    "appTitle": "Golden Moments i iPhone, iPad ma Android",
+    "appText": "O le app sala e galue e aunoa ma le initaneti ma e mafai ona faaaogaina ata o le aiga e te filifilia, o loo teuina e fai ma kopi i lou masini. Faapena le mamanu filemu: fa tile tetele, e leai se taimi, e leai se fua.",
+    "aboutApp": "E uiga i le app",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "O ā taʻaloga lelei mo tagata o loo ola ma le dementia?",
+        "a": "O taʻaloga lelei e faigofie, e masani ai, ma e leai ni faamamafa: ata tetele e fetaui ai, faavasegaina, puzzle faigofie, faauma upu masani, faamaʻa ata lanu, bingo o ata ma pepa feutagaiga. O le filifiliga sili o le taʻaloga e fiafia ai le tagata i lenei aso. Ia taʻalo ese mai taimi, sikoa ma mea e lagona ai e pei o se suʻesuʻega."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "E leai ni totogi nei taʻaloga mo le dementia?",
+        "a": "Ioe. O taʻaloga uma ma pepa e lolomi i Golden Moments e leai ni totogi, e leai se tala, lesitala po se download. E taʻalo taʻaloga i le upega tafaʻilagi i le telefoni, teuteu po komepiuta."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "E puipuia ea e taʻaloga o le mafaufau le dementia?",
+        "a": "Leai se taʻaloga ua faaalia e puipuia ai le dementia, ma e le fai mai Golden Moments e faamaʻi pe puipuia so o se mea. O a matou taʻaloga mo le fiafia ma le taimi faatasi. O le vaega o le soifua maloloina o le mafaufau e faamatala ai le mea e faaalia e suʻesuʻega ma le mea e le o faaalia."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "E fetaui ea nei taʻaloga mo se tagata ua ma'i i le Alzheimer's?",
+        "a": "Ioe. O le Alzheimer's o le mea e sili ona masani ai le dementia, ma o taʻaloga ua faia mo ai: ata tetele e tumau ai le vaaiga, filifiliga itiiti, ma le leai o mea e manatua pe sese ai. Fetaʻi, faavasegaina ma le faauma o upu masani e faalagolago i le poto ua aoga mai e umi, nai lo le aʻoaʻoina o mea fou."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "E mafai ea e tagata i le vaitaimi mulimuli o le dementia ona faaaogā nei galuega?",
+        "a": "Masani ai, ioe, pe a i ai se tasi e nofo latou. Amata i le Find the same ma ata e lua, Picture pairs ma pusa e fa, se pepa lanu po se faamalologa o le manava e filemu. Ia puupuu, mulimuli i lona taʻitaʻi, ma faamuta pe a ua mamao lava."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "E filemu ea faamatalaga o aʻu?",
+        "a": "E leai ni tala ma e leai ni faasalalauga i le upega. E matou faaaogā le Google Analytics e iloa ai itulau e asiasia ai tagata. Ata e te filifilia mo Photo pairs e faaaliaina naʻo i lau polokalame o le tafaʻilagi ma e le uluina lava."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "O ai e faia Golden Moments?",
+        "a": "O Golden Moments o se vaega itiiti e faia ai gaioiga filemu ma mo tagata matutua mo aiga ma tausitagata, i luga o le upega tafaʻilagi ma o se polokalame e leai ni totogi. Matou te le o ni fomaʻi, ma e leai se fautuaga faafomaʻi i mea uma iinei."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "amata",
+    "middle": "ogatotonu",
+    "late": "mulimuli",
+    "hintOne": "Masani ona fetaui ma le vaitaimi {list}",
+    "hintMany": "Masani ona fetaui ma vaitaimi {list}",
+    "labelEarly": "Vaitaimi amata",
+    "labelMiddle": "Vaitaimi ogatotonu",
+    "labelLate": "Vaitaimi mulimuli"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Faamatalaga e uiga i lenei taʻaloga",
+    "printable": "Pepa e mafai ona lolomi",
+    "play": "Taʻalo {name} →",
+    "readGuide": "Faitau le taʻiala"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Sa e sauni mo se taʻaloga filemu?",
+    "text": "Ata tetele, e leai se taimi, e leai se sikoa ma e leai se mea e tatau ona e lesitala ai. Taʻalo faatasi i lau polokalame o le tafaʻilagi.",
+    "play": "Taʻalo se Taʻaloga",
+    "all": "Vaʻai i taʻaloga uma",
+    "aria": "Taʻalo se taʻaloga"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Ave nei taʻaloga ma oe",
+    "text": "O le polokalame o Golden Moments e leai ni totogi mo iPhone, iPad ma Android: ata tetele, taʻaloga ma ata o lou aiga, ma pusa ata e mafai ona faaaogā e leai le Wi‑Fi. E leai se tala, faasalalauga, taimi po sikoa.",
+    "appStore": "Maua i le App Store",
+    "googlePlay": "Maua i le Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Faamatalaga e uiga i le polokalame",
+    "aria": "Maua le polokalame"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Gaioiga",
+      "title": "Gaioiga mo Tagata e Ola ma le Dementia",
+      "seo": "Gaioiga mo Tagata e Ola ma le Dementia: Manatu e Ala i Vaitaimi",
+      "description": "Manatu o gaioiga mo tagata e ola ma le dementia i vaitaimi uma: musika, faamanatuga, galuega o aso uma, taimi o le lagona, galuega lima, le tau i fafo ma pepa e mafai ona lolomi e leai se totogi.",
+      "lede": "O gaioiga e aoga o mea uma e avatu ai le filemu, se mea e taua po o se taimi o le feso'ota'iga. Amata i mea ua fiafia i ai le tagata talu ai, ma faafetaiaina i le aso nei."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Tausiga",
+      "title": "Taʻiala mo le Tausiga",
+      "seo": "Taʻiala mo le Tausiga o le Dementia: Fesoasoani Faigofie i Aso Uma",
+      "description": "Taʻiala faigofie ma alofa mo le tausiga o le dementia: taʻaloga faatasi, feutagaiga, musuia, faalavelave i le afiafi, teuteu, filifiliga o polokalame ma le tausiga o oe lava.",
+      "lede": "Fesoasoani faigofie ma aoga mo taimi masani o le tausiga o se tasi e ola ma le dementia, e aofia ai le tausiga o oe lava."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Soifua maloloina o le mafaufau",
+      "title": "Soifua Maloloina o le Mafaufau: O le Mea e Faaalia e le Suʻesuʻega",
+      "seo": "Soifua Maloloina o le Mafaufau ma le Lamatia o le Dementia: O le Mea e Faaalia e Suʻesuʻega",
+      "description": "E mafai ea ona puipuia le dementia? Taʻiala moni e faavaeina i faamaoniga e uiga i mea e faalavelave ai le lamatia o le dementia, taʻaloga o le mafaufau, faasaʻa, meaʻai, gaioiga tino, moe, faalogo ma faailoga muamua.",
+      "lede": "O le mea e faaalia e suʻesuʻega tetele e uiga i le faaitiitia o le lamatia o le dementia, faamatalaina faigofie, e aofia ai le mea e vaivai ai le faamaoniga po o le le manino. Faamatalaga lautele, ae le o fautuaga faafomaʻi."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Faafouina",
+    "minuteRead": "Faitau i le {n} minute",
+    "byTeam": "E le au a Golden Moments",
+    "howWeWrite": "Auala o matou tusitusi",
+    "shortAnswer": "Tali puupuu",
+    "onThisPage": "I lenei itulau ({n} vaega)",
+    "commonQuestions": "Fesili masani",
+    "sources": "Faamaoniga",
+    "sourcesNote": "Matou te faafeso'ota'i atu i faalapotopotoga ma suʻesuʻega o loo faalagolago ai lenei itulau. O mea uma na siaki i le taimi na faafouina ai le itulau.",
+    "tryTogether": "Faataʻitaʻi faatasi",
+    "relatedGuides": "Taʻiala e fesootai",
+    "related": "E fesootai",
+    "startHere": "Amata iinei"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Faamatalaga e uiga i le soifua maloloina",
+    "title": "Faamatalaga lautele, ae le o fautuaga faafomaʻi",
+    "textHtml": "O lenei itulau o se aotelega o suʻesuʻega ua lomia mo aiga. E le mafai ona faamatala mai e uiga i le mea sa'o mo se tagata. Ia talanoa i se fomaʻi a e le'i suia le meaʻai, gaioiga tino, moe, vailaʻau po faaopoopo. Mo le faalavelave vave o le le malamalama po isi suiga vave, ia maua le fesoasoani faafomaʻi i le taimi lava lea. <a href=\"/medical-disclaimer/\">Faitau la matou faamatalaga e uiga i le soifua maloloina</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "O se Gaioiga Faatasi, ae Le o se Suʻesuʻega o le Mafaufau",
+      "seoTitle": "E uiga i Golden Moments: O Matou Auala",
+      "description": "Aisea e leai ai ni taimi, sikoa po faasologa o taʻaloga a Golden Moments, aisea e tumau ai ata i le vaaiga, ma le mea matou te le faamaoniaina e uiga i le dementia.",
+      "crumb": "O matou auala",
+      "lede": "Golden Moments e faia ai gaioiga filemu ma ata mo tagata matutua, e mafai ona fiafia ai le tausitagata ma le tagata e ola ma le dementia faatasi.",
+      "bodyHtml": "<h2>O le mea e talitonu ai matou</h2><p>O le uiga autū o se gaoioiga o le taimi lava lea: se talanoaga, se susū, le fiafia o le faʻatasiga o ata e lua, pe na o le nofo latalata. E lē o le mea lea e fuafua ai se tagata, faʻamalosi atu i luma, pe faʻamaonia ni mea.</p><p>E toatele pulega o taʻaloga e faʻavaeina i le saoasaoa, sikoa, faasologa o manumalo ma tulaga. Mo se tagata e ola ma le dementia, o lena mea e mafai ona foliga o se suʻesuʻega e lē mafai ona manumalo ai. Ua matou fuafua le mea e eseese, ma ua matou tausisia nei tulafono:</p><ul><li><strong>E leai se mea e faaseseina ai.</strong> E leai se uati, sikoa, faitaimi, sootaga o faʻaiʻuga, faiʻai fou, faʻailoga pepe po o faitaimi i so o se mata.</li><li><strong>Ata mo le manatu faʻaaogā, e lē o le manatua.</strong> O ata e tumau ona faʻaalia e masani ai. O fesili e faʻafeiloaʻi ai talanoaga ma e lē faʻasalalau fesili e uiga i igoa po manatu.</li><li><strong>Tetele, faigofie ma tumau.</strong> Tusitusi ma ata tetele, faʻaaliga maualuga, ma pine e tumau i le mea lava lea.</li><li><strong>Faʻaaloalo i le tagata matua.</strong> Ata moni o le olaga ma upu faigofie ma mafanafana. E lē o ni ata tala, pese faʻafiafia po faʻailoga emoji.</li><li><strong>Auala faigofie e tuʻu ai.</strong> “E faʻamaeʻa mo le taimi ini” o loo faʻaalia i taimi uma. O le taofi i le ogatotonu o se taʻaloga o se iʻuga lelei.</li><li><strong>Faufale i le faʻalilolilo.</strong> E leai ni tala po faʻasalalauga. O ata e filifilia e oe o loo tumau i lou masini.</li></ul><h2>O mea matou te lē finau ai</h2><p>O a matou taʻaloga e mo le fiafia ma le sootaga. E lē faʻamaonia, suʻesuʻeina, fuafuaina, togafitia, faʻaitiitia po puipuiina le dementia po le Alzheimer’s disease, ma e lē tatau ona filifilia i latou mo lena mafuaʻaga. Pe a matou tusi e uiga i suʻesuʻega i <a href=\"/brain-health/\">itulau o le soifua maloloina o le mafaufau</a>, matou te taʻu manino pe a vaivai le faamaoniga, ma e lē matou faafesoʻotaʻi ia mea i a matou taʻaloga.</p><h2>O ai matou</h2><p>Golden Moments o se vaega laʻititi tuʻufaʻatasi e lē tuʻuina i se pule. E lē o matou foma’i. O a matou taʻiala e tusia mai i taʻiala lomiga mai faʻalapotopotoga e pei o le National Institute on Aging ma le Alzheimer’s Association, ma o taʻiala uma e lisi ai a latou punavai. Faitau le <a href=\"/editorial-policy/\">auala matou te tusi ai ma siaki ai a matou itulau</a>.</p><h2>Ia faʻailoa mai le mea e aoga</h2><p>E matuā fiafia matou e faʻalogo i mea e aoga ma mea e lē aoga ia te oe, aemaise lava mai tagata e ola ma le dementia, tausi aiga ma tagata faigaluega o gaoioiga. Imeli i <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Auala Matou te Tusi ai ma Siaki ai a Matou Itulau",
+      "seoTitle": "Faiga Tusitusi",
+      "description": "Auala Golden Moments e suʻesuʻe, tusi, faʻamaonia punavai ma faʻafou ai ana itulau o gaoioiga mo le dementia ma le soifua maloloina o le mafaufau, ma mea matou te lē lomia lava.",
+      "crumb": "Faiga tusitusi",
+      "bodyHtml": "<h2>O a matou punavai</h2><p>E faavae a matou taʻiala i faʻatonuga lautele mai faʻalapotopotoga e pei o le National Institute on Aging, le CDC, le Alzheimer’s Association, le Alzheimer’s Foundation of America, le Family Caregiver Alliance ma le NHS, ma i suʻesuʻega tusitala o loo faʻamaonia e pei o iloiloga Cochrane ma suʻesuʻega tetele o togafitiga. O taʻiala uma e lisi ai punavai latou te faalagolago ai. Matou te tatala muamua i se punavai aʻo lei taʻua, ma matou te taʻu naʻo le mea e faapea mai ai.</p><h2>Auala matou te tusi ai</h2><ul><li>Faʻaaogaina muamua: le mea e faia i aso nei, i upu faigofie.</li><li>Moni i faamaoniga: matou te faaaogaina “e faafesoʻotaʻi ma”, “e mafai” ma “o faamaoniga e eseese” pe a faapea moni.</li><li>Faʻaaloalo: matou te tusi e uiga i tagata e ola ma le dementia e pei o tagata matutua, ma e lē faaaogaina ai upu faʻasalalau po faʻamaʻaʻa.</li><li>E leai ni mea faʻatupu: e leai ni fuainumera, upu, tagata poʻo suʻesuʻega, iloiloga po molimau faʻatupu.</li></ul><h2>O ai e iloilo a matou itulau</h2><p>E tusia ma siakiina itulau e le vaega o Golden Moments, faatasi ai ma le fesoasoani a meafaigaluega AI mo suʻesuʻega ma le tusitusi. O itulau uma e siakiina e le vaega i a latou punavai. O a matou itulau <strong>e lē</strong> o iloilo e se foma’i po se isi tagata foma’i, ma matou te lē taʻua faapea. O loo i ai nei faʻamatalaga lautele, e lē o ni fautua faafomaʻi.</p><h2>O mea matou te lē lomia lava</h2><ul><li>Finauga e faapea o se taʻaloga, meaʻai, faʻaopoopoga, faasaga po faiga o le aso e puipuia, togafitia, faaitiitia po faaola ai le dementia.</li><li>Suʻesuʻega, fesili po sikoa e faaalia ai pe o loo i ai pe leai le dementia i se tagata.</li><li>Fautua e amata, taofi po suia ai so o se vaaiga.</li><li>Faʻasalalauga po mea faʻatau nanu i totonu o taʻiala.</li></ul><h2>Faafouga ma toe faasaʻo</h2><p>O itulau uma e faaalia ai le aso na faafouina ai mulimuli. Afai e te iloa se sese po se punavai ua tuai, faamolemole imeli i <a href=\"mailto:{email}\">{email}</a> ma matou te siaki vave ai.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Fesili ma Tali",
+      "seoTitle": "Taʻaloga ma Gaoioiga mo le Dementia: Fesili ma Tali",
+      "description": "Tali i fesili masani e uiga i taʻaloga ma gaoioiga mo le dementia: o taʻaloga e tau tofotofo, e fia le umi o le taʻaloga, manatu mo tulaga mulimuli, soifua maloloina o le mafaufau ma le puipuiga o faamatalaga patino.",
+      "crumb": "Fesili ma tali",
+      "lede": "Tali puupuu ma faigofie i fesili e sili ona fesiligia e tausi aiga.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "E uiga i taʻaloga",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "O taʻaloga sili mo se tagata e ola ma le dementia o ā?",
+              "a": "O taʻaloga sili ona lelei o ni taʻaloga masani, faigofie ma e leai se faʻamalosiaga, ma o le taʻaloga sili mo le aso lava lea o le mea e fiafia ai le tagata. O le tatau o ata e faaaliga, faʻasologa, tapuni faigofie, faʻaiʻuina o upu masani, faʻaloaloa lanu ma le bingo o ata e aoga mo le toatele. Ia alu ese mai taimi, sikoa ma mea e foliga o se suʻesuʻega."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "E moni lava ea e leai se totogi o taʻaloga?",
+              "a": "Ioe. O taaloga uma ma pepa e ata e saoloto, e leai ni konte, ni lesitala, ni download po ni faasalalauga."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Aisea e leai ai ni sikoa, ni tulaga po ni taimi?",
+              "a": "O le saoasaoina ma sikoa e liliu ai se gaioiga fiafia i se suega, lea e mafai ona oo ai i le maasiasi po le faanoanoa. Matou te faamautu le taulaʻi i le fiafia ma le taimi faatasi, ina ia leai se mea e le manuia ai, ma e mafai ona e taofi i so o se taimi."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "O ā masini e sili ona lelei?",
+              "a": "O so o se telefoni, teleti po komepiuta e iai se polaseli fou o le initaneti. O le teleti e tu i luga o se faamau i le laulau e masani ona sili ona faafiafia mo tagata e lua e taaloga tutasi. O se laptop e fesoʻotaʻi i se TV e lelei mo vaega tetele."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "E mafai ea ona matou taaloga ma ata a lo matou aiga?",
+              "a": "Ioe. Faatusa ata e liliu ai ata e 2 i le 6 ua e filifilia i se taaloga faatusa. O ata e nofo i lou polaseli, e le lafoina ma e le teuina."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Gaioiga ma le tausiga",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Pe fia taimi e tatau ona faaauau ai se gaioiga?",
+              "a": "E masani ona lava le 10 i le 20 minute, ma i nisi taimi o le 2 minute e avea ma manuia. Matamata mo faailoga o le vaivai po le faanoanoa ma taofi ae lelei pea le lagona. E leai se aofaʻi sa'o."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "E faapefea pe a le fia faia e le tagata se gaioiga?",
+              "a": "Faaaloalo i le le fiafia ma taumafai i se isi taimi po i se isi auala. O le le talia e mafai ona mai i le vaivai, le tiga, le lagona e le mautinoa po le le fiafia lava. Va'ai i lo matou taʻiala e uiga i le tulaga o le faaali mai e le fiafia."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "O ā gaioiga e fetaui ma le tulaga mulimuli o le dementia?",
+              "a": "Faafiafia ma lagona: faalogo i pese e fiafia ai, faamasaʻi lima i le suāvai, vaʻai faatasi i ata, faamau se ie vevela, nofo i fafo, po se taaloga faigofie o ata ma se tasi e nofo i le itu. O lo matou taʻiala mo le tulaga mulimuli e iai ni manatu atili."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "E iai ea gaioiga mo vaega i fale tausiga?",
+              "a": "Ioe. E iai le Bingo ata ma pepa e lolomi ai ma se tagata e vala'au i luga o le skrin, ma o le Faamaeaina le upu o le faaupuga ma Kata talanoaga e lelei pe a faitau leoleo. O lo matou taʻiala mo vaega i fale tausiga o loo faamatala ai le aofaʻi o le vaega, nofoaga ma le faaliliu mo tagata e eseese le malosi."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Soifua maloloina o le mafaufau",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "E mafai ea ona puipuia pe faaitiitia e taaloga le dementia?",
+              "a": "Leai se taaloga ua faaalia e puipuia ai le dementia, ma o matou taaloga e leai se faapaupau faapena. O le faaosoosoina o le mafaufau i se nofoaga faʻaleagaga ua faaali mai i suesuega o ni manuia laʻititi mo tagata i le tulaga laʻititi e oo i le ogatotonu o le dementia, ae o lena e eseese mai le taaloga e puipuia ai le faamaʻi. Matou te tuʻuina atu taaloga mo le fiafia ma le sosoo faatasi."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "E mafai ea ona puipuia le dementia?",
+              "a": "Leai se mea e mautinoa. Suesuega e fesoʻotaʻi ai le 14 mea o le soifua maloloina ma le olaga ma le tulaga o le dementia, e pei o le faaleaogaina o le faalogo, le toto maualuga, le le gaoioia o le tino ma le tuʻufaʻatasia ma tagata. O le toe faaleleia o nei mea e mafai ona faaitiitia ai le tulaga o le lamatia mo nisi tagata, ae o le tele o tagata e faia uma mea sa tatau e maua pea i le dementia. E le o se sese o se tasi lava."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "E lelei ea le fasting taimi-taimi mo le soifua maloloina o le mafaufau?",
+              "a": "O faamaoniga mai tagata e itiiti ma e amata pea, ma o le tele o suesuega i manu. O le aunoa mai meaʻai e lamatia mo tagata matutua, aemaise lava pe a faatasi ma vailaʻau mo le suka po le paʻu o le tino e le manaʻomia. E le fautuaina mo tagata e ola ma le dementia. Talanoa ma se fomai a'o le liliu lau auala o le ʻai."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Faalagolago ma le saogalemu",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "E te aoina ea ni faamatalaga?",
+              "a": "Leai ni konte po ni faasalalauga. Matou te faaaogā le Google Analytics e faitau ai asiasiga ma iloa ai o itulau e fesoasoani, ma o lau polaseli e manatua pe na e filifili e ave le leo malulu. O ata e filifilia mo Faatusa ata e le lafoina lava. Va'ai i le faamatalaga o le faalilolilo mo faamatalaga atili."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "E ose fautuaga fomai ea lenei?",
+              "a": "Leai. O Golden Moments mo le taaloga ma faamatalaga lautele. Mo fesili e uiga i le soifua maloloina, talanoa ma se fomai, ma mo faalavelave faafuasei, valaau i le numera faafuasei o lou atunuu."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Faamatalaga atili: <a href=\"/caregiving/how-to-play-together/\">o le auala e taaloga ai faatasi</a>, <a href=\"/caregiving/when-they-say-no/\">a o le le fia faia</a>, <a href=\"/activities/late-stage/\">gaioiga mo le tulaga mulimuli</a> ma <a href=\"/brain-health/can-dementia-be-prevented/\">e mafai ea ona puipuia le dementia?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Taaloga Saoloto ma Malulu mo Tagata e Ola ma le Dementia",
+      "seoTitle": "Lomiga Lolomi: Taaloga Saoloto o le Dementia i luga o le Initaneti",
+      "description": "Itulau e tasi e mafai ona lolomi mo aiga ma tausimea, e uiga i taaloga ata saoloto ma malulu mo tagata e ola ma le dementia, mo vaega lagolago ma ofeina tausiga.",
+      "crumb": "Lomiga lolomi",
+      "lede": "Lolomi lenei itulau mo se vaega lagolago, se ofeina tausiga po le faitoto o le aisa. Faaaoga le fuafuaga Lolomi o lau polaseli; o mea faʻafoʻi ma pulouga e aveesea mai le lomiga.",
+      "introHtml": "<p>Ata tetele, upu faigofie, ma e leai se mea e le manuia ai. E saoloto i luga o se telefoni, teleti po komepiuta, e leai se sainiga, se faasalalauga, se taimi po ni sikoa. Nofo tutasi ma liliu le sui.</p>",
+      "gamesTitle": "Taaloga e taaloga faatasi",
+      "restHtml": "<h2>Ni fautuaga laʻititi</h2><ul><li>Filifili se taimi o le aso pe a sili ona lelei le tagata.</li><li>Amata i le faigofie sili. Fa faʻailoga e lava.</li><li>Talanoa e uiga i ata. O le talanoaga e masani ona sili ona lelei.</li><li>Taofi a'o lelei pea le lagona. O le faaiʻuina i le vave o se iʻuga lelei.</li></ul><h2>Isi mea i lenei nofoaga</h2><ul><li>Lomiga saoloto: upu e tafi i pepa tetele, itulau e lanu, kata talanoaga ma bingo ata.</li><li>Manatu e uiga i gaioiga mo tulaga uma, ma taʻiala e uiga i le taaloga faatasi ma le tausiaina o oe lava.</li></ul><p class=\"muted\">Mo le fiafia ma le taimi faatasi. E le o se fautuaga fomai, se suega po se togafitiga. Golden Moments e lomia e Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Mo Fale Tausiga, Faletusi ma Vaega Lagolago",
+      "seoTitle": "Gaoioiga e Leai se Totogi mo le Dementia mo Fale Tausi ma Vaega",
+      "description": "Pe faapefea ona faaaogā e fale tausi, polokalame o le aso mo tagata matutua, faletusi, ofisa o tagata matutua ma vaega lagolago a matou taaloga e leai se totogi mo le dementia, faapea ma upu e faaopoopo ai matou i lau lisi o punavai.",
+      "crumb": "Mo faalapotopotoga",
+      "lede": "O mea uma i lenei upega e leai se totogi e faaaogā ma tagata nofo i fale, sui o vaega ma tagata e tausia, e leai se faaigoaga, laisene po o totogi. O lenei itulau o loo faamatalaina ai mea o loo iai ma pe faapefea ona faasoa atu.",
+      "shortText": "{name}: taaloga ata e fiafia ai ma taʻiala faigofie o gaoioiga mo tagata o loo ola ma le dementia ma e tausia i latou. E leai se faaigoaga, e leai ni tauaofi, e leai ni fua.",
+      "longText": "{name} ({domain}) o loo ofoina mai ai taaloga {count} e leai se totogi i le browser, na faia mo tagata o loo ola ma le dementia. E aofia ai le faatapulaaina o ata paaga ma ata o loo tumau ona vaaia, puzzle faigofie, faavasegaina, upu masani ma bingo o ata ma pepa e mafai ona lolomi. E leai se faamaumauga, faasalalauga, tauaofi po o fua. O le upega foi o loo i ai taʻiala faigofie o gaoioiga mo itu taʻitasi o le dementia, o loo faalagolago i le National Institute on Aging ma le Alzheimer's Association.",
+      "useTitle": "Mea e mafai ona faaaogā e faalapotopotoga",
+      "gamesItemHtml": "<strong>taaloga i le browser {count}</strong> e mafai ona taʻavale i le laptop, male po o le TV e fesoʻotaʻi ma le komepiuta. E leai se faapipiiina, faamaumauga po o le download. Vaai i <a href=\"/games/\">taaloga uma</a>.",
+      "printablesLabel": "pepa e mafai ona lolomi e {count}:",
+      "printablesAfter": "Faaaogā le pātene Print i itulau taʻitasi.",
+      "moreItemsHtml": "<li><strong>Faiga o vaega:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> o loo i ai pepa e mafai ona lolomi ma se tagata e valaaulia numera i luga o le sikalini, ma <a href=\"/activities/trivia/\">easy trivia</a> o loo i ai fesili e 50 ma filifiliga o tali ma mataupu e talanoa ai.</li><li><strong>Taʻiala o gaoioiga</strong> mo tagata faigaluega ma aiga, faasolo i itu o le ola ma ituaiga, tusia i upu faigofie ma punavai. Amata i <a href=\"/activities/ideas/\">101 manatu o gaoioiga</a> po o <a href=\"/activities/care-home-groups/\">gaoioiga mo vaega i fale tausi</a>.</li>",
+      "restHtml": "<h2>Pe faapefea ona faaaogā e vaega</h2><ul><li><strong>Fale tausi ma tausiga o le manatu:</strong> picture bingo po o le faaiʻuina o upu masani i le TV o le potu e tele ai tagata, ma se tasi e pa'i le sikalini mo le vaega.</li><li><strong>Polokalame o le aso mo tagata matutua:</strong> nofoaga ma se tablet ma Picture pairs e fa mea o ata, mo feiloaiga puupuu le tasi-i-le-tasi.</li><li><strong>Faletusi a le lautele:</strong> pepa o taaloga upu ma pepa talanoa i pusa o manatu, ma le upega o loo saienia i tablets o faletusi.</li><li><strong>Vaega lagolago a tagata tausi ma fale kofe o le manatu:</strong> <a href=\"/handout/\">pepa tusi e itulau e tasi e mafai ona lolomi</a> mo aiga e ave i le fale.</li><li><strong>Falemaʻi ma tagata fuafuaina o le toe foi i le fale:</strong> pepa lea i totonu o fagota o tausiga, mo se mea e filemu ai e faia i le fale po i tafatafa o le moega.</li></ul><h2>O mea matou te le faia</h2><p>O taaloga o loo mo le fiafia ma le taimi faatasi. E le faamaonia, suʻesuʻeina, faitaulaina, togafitia po faaitiitia le dementia, ma matou te fai atu i faalapotopotoga aua neʻi faamatala i lea auala. E leai ni faasalalauga, ma taaloga e le fesili mo igoa, faamatalaga o le soifua maloloina po o ata e uluina. O le upega e faaaogā le Google Analytics e faitau ai asiasiga; o lo matou <a href=\"/privacy/\">faamatalaga o le puipuiga</a> o loo faamatalaina ai le mea e aoina. O ata e faaaogā i <a href=\"/games/photo-pairs/\">Photo pairs</a> e tumau i totonu o le browser.</p><h2>Faaopoopo i matou i lau lisi o punavai</h2><p>Afai e te tausia se lisi o punavai mo tagata tausi, e malu e te faafesoʻotaʻi atu i <a href=\"/\">{domain}</a>. E mafai ona e kopiina so o se tasi o faamatalaga.</p>",
+      "shortTitle": "Faamatalaga puupuu",
+      "longTitle": "Faamatalaga atoatoa",
+      "linksHtml": "<p>Itulau aoga e mafai ona e fesoʻotaʻi atu i ai: <a href=\"/games/\">taaloga e leai se totogi</a>, <a href=\"/activities/printable/\">pepa e mafai ona lolomi e leai se totogi</a>, <a href=\"/activities/alzheimers/\">gaoioiga mo le Alzheimer's</a> ma <a href=\"/caregiving/how-to-play-together/\">pe faapefea ona taaloga faatasi</a>.</p><h2>Fesili pe toe faasaʻo</h2><p>Afai e sese pe le manino se mea i le upega, pe e le fetaui manaoga o se tagata i mea o loo iai, faamolemole faafesoʻotaʻi mai ia matou i <a href=\"mailto:{email}\">{email}</a>. Faamolemole aua le auina mai faamatalaga o le soifua maloloina po o faamatalaga patino e uiga i tagata.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Le App a Golden Moments",
+      "seoTitle": "Le App a Golden Moments mo iPhone ma Android",
+      "description": "Le app e leai se totogi a Golden Moments: faʻatatau faigofie o ata ma pusa tele e fa, ata aiga e teuina i lou masini, pusa o ata e mafai ona faaaogā e leai se upega, ma e leai se faaigoaga.",
+      "crumb": "Le app",
+      "lede": "O mea uma e te fiafia i ai i le upega, i se app e galue e leai se upega ma e mafai ona faaaogā ai ata aiga na e filifilia.",
+      "worksOn": "E galue i {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Amata i le laʻititi</h2><p>Amata i ni fasi tetele e fa ma ata e iloa lelei e le tagata. Ia tumau ona vaaia ata, pe natia pe a lelei ai i lou tagata. E leai se taimi, se fua poʻo se faasalaga i le auala malu. Filifili 4, 6, 8 pe 12 fasi.</p><h2>Faia e pei o lo outou aiga</h2><p>Filifili ata o le aiga e ala i le filifilia a lau masini. O le app e teuina ai kopi laʻititi mo ana gaioiga. E le suʻesuʻeina lau faaputuga o ata, e le suia foi ata moni, ma e oo i le 24 ata i le tasi faaputuga.</p><h2>Matou vaai faatasi</h2><p>Vaai i se ata i le taimi. Ua filifilia ni fesili e faaauau ai le talanoa, e aunoa ma le fai atu i se tasi ia manatua igoa poʻo ia tali saʻo. O le vaai faatasi e lava.</p><h2>Faaaogaina e aunoa ma le initaneti, pe a taua</h2><p>O ata amata ma faaputuga e valu o ata ua aofia i le app. O kopi o ata o le aiga e galue e aunoa ma le initaneti. O le filifiliina o ata o loo teuina na o le iCloud e ono manaʻomia ai le initaneti.</p><h2>E leai se account, e leai se sapalai o ata i luga o le initaneti</h2><p>O kopi o ata o le aiga e tumau i totonu o le app i le masini. E mafai ona e aveese kopi e aunoa ma le faaumatia o ata moni. O faasaoga o masini e ono aofia ai faamatalaga o le app. Faitau le <a href=\"/app-privacy/\">faamatalaga o le faalilolilo o le app</a>, ma o le <a href=\"/help/\">fesoasoani o le app</a> e taʻitaʻia ai i each laasaga.</p>",
+      "disclaimer": "Golden Moments e mo le fiafia ma talanoaga faatasi. E le suʻesuʻeina, le togafitia, le puipuiina pe le fuaina le dementia poʻo le Alzheimer’s.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Taʻaloga Dementia ma Alzheimer’s e Aunoa ma Totogi i luga o le Initaneti",
+    "description": "Taʻaloga e aunoa ma totogi i luga o le initaneti mo toeaina e ola ma le dementia poʻo le Alzheimer’s: fetaiga ata, faʻapipiʻi faigofie, faavasegaina, upu faataoto, vali, bingo. E leai se resitala, taimi poʻo fua.",
+    "crumb": "Taʻaloga",
+    "h1": "Taʻaloga Malu mo Tagata e Ola ma le Dementia",
+    "lede": "{count} taʻaloga e aunoa ma totogi e taʻalo faatasi i lau polokalame o le initaneti. Ata tetele, upu faigofie, ma e leai se mea e faaseseina ai: e leai ni taimi, fua poʻo le resitala.",
+    "listName": "Taʻaloga malu mo tagata e ola ma le dementia",
+    "byStageTitle": "Filifiliga o taʻaloga e tusa ma le tulaga",
+    "byStageLede": "O tulaga o se taʻiala laʻititi lava. Mulimuli i mea e fiafia ai le tagata ma mea e lelei ai i lenei aso.",
+    "stageCol": "Tulaga",
+    "gamesCol": "Taʻaloga e masani ona fetaui",
+    "moreHtml": "Isi manatu e aunoa ma le screen: <a href=\"/activities/ideas/\">101 gaioiga mo tagata e ola ma le dementia</a>, <a href=\"/activities/alzheimers/\">gaioiga ma taʻaloga mo le Alzheimer’s</a>, <a href=\"/activities/memory-games/\">taʻaloga faamanatu malu</a> ma <a href=\"/activities/puzzles/\">faʻafitauli</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "O le taʻaloga faʻapitoa e amata ai?",
+        "a": "Picture pairs ma fasi e fa o se filifiliga malie muamua. Afai e foliga ua faigata le filifili i ata, taumafai i le Find the same ma ata e lua. Mo se vaega, taumafai i le Picture bingo."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "E galue taʻaloga i le iPad poʻo le telefoni?",
+        "a": "Ioe. O taʻaloga uma e galue i le polokalame o le initaneti i telefoni, talafaʻasolo ma komepiuta, ma o ata e tupu e faatumu ai le screen. O se talafaʻasolo i luga o se faavae e masani ona sili mo tagata e lua."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "E lelei taʻaloga lenei mo se tasi e ma’i i le Alzheimer’s?",
+        "a": "Ioe. Na faia mo tagata e ola ma le dementia, e aofia ai le Alzheimer’s, o le mea e sili ona masani ai. Ata e tumau ona vaaia, e itiiti filifiliga, ma e leai se taimi poʻo fua, o lea e faalagolago ai taʻaloga i le iloaina o mea masani nai lo le faamanatu o mea fou."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "O taʻaloga faamanatu lenei mo toeaina?",
+        "a": "O ni taʻaloga fetaiga ma ata e mafai ona fiafia ai so o se toeaina, ae na faia e aunoa ma le suʻesuʻe faamanatu: i Picture pairs e tumau ata i luga pe a le filifilia e se tasi. O la matou taʻiala i taʻaloga faamanatu mo toeaina e ola ma le dementia e faamatala ai pe faapefea ona faafiafia so o se taʻaloga faamanatu."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "E i ai taʻaloga mo vaega i se fale tausi?",
+        "a": "Ioe. Picture bingo e i ai kateti e mafai ona lolomi ma se tasi e vala mai i luga o le screen, ma Finish the saying ma Conversation cards e lelei ina ua faitauina leoleo i se vaega."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ma Android",
+    "requirements": "iOS 15 pe sili atu; Android 7.0 pe sili atu",
+    "summary": "O se app e aunoa ma totogi mo iPhone, iPad ma Android, e ofo mai ai faatusatusa ata faigofie i fasi tetele e 4 e oo i le 12, faatusatusa ma vaaiga o ata o le aiga e te filifilia, ma faaputuga e valu o ata e galue e aunoa ma le initaneti. E leai se account, faasalalauga, taimi, fua poʻo faasalaga.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Faatusatusa ata faigofie ma fasi tetele e 4, 6, 8 pe 12; o ata e tumau ona vaaia pe a le filifilia e natia",
+      "O ata o le aiga e te filifilia e kopiina i totonu o le app mo le faatusatusa ma le vaai faatasi",
+      "Vaai faatasi: se ata i le taimi ma fesili filifili e faaauau ai le talanoa",
+      "Faaputuga e valu o ata ua aofia i le app; e galue e aunoa ma le initaneti",
+      "E leai se account, faasalalauga, faatauga i totonu o le app, taimi, fua poʻo faasalaga"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "E i ai se app mo gaioiga dementia?",
+        "a": "Ioe. Golden Moments (o loo lisiina o le \"{storeName}\") e aunoa ma totogi i le App Store ma Google Play. E ofo mai ai faatusatusa ata faigofie ma fasi tetele, taʻaloga ma ata o le aiga e te filifilia, ma faaputuga o ata e galue e aunoa ma le initaneti."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "E aunoa ma totogi le app o Golden Moments?",
+        "a": "Ioe. E aunoa ma totogi le download, e leai ni faasalalauga, account poʻo faatauga i totonu o le app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "E mafai ona galue le app e aunoa ma le initaneti?",
+        "a": "Ioe. O ata amata ma faaputuga e valu o ata ua aofia i le app, ma o ata o le aiga e galue e aunoa ma le initaneti pe a uma ona kopiina i totonu o le app. O le filifiliina o se ata o loo teuina na o le iCloud e ono manaʻomia ai se sootaga."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "E mafai ona ou faaaogaina ata o le matou aiga?",
+        "a": "Io. Filifili ata e faʻaaoga ai le filifiliga o ata i lau masini. O le polokalame e teuina ai kopi laiti o ata mo ana game i luga o le masini, e lē lafo atu i se mea, ma e lē suia ai ata moni. E mafai ona e aveese kopi i so o se taimi."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "E o se polokalame mo le faʻamalosia o le mafaufau poʻo se suega o le manatu?",
+        "a": "Leai. O Golden Moments mo le fiafia ma le taimi faʻatasi. E leai ni sikoa poʻo suega, ma e lē faʻamaonia, togafitia, puipuia poʻo fuaina le dementia poʻo le faʻamaʻi o Alzheimer’s."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "O ā masini e galue ai?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "E iai se faʻamatalaga o lenei taaloga i le polokalame?",
+      "a": "Io. O le polokalame saʻoloto o Golden Moments mo iPhone, iPad ma Android e iai le faʻafefe o ata e tutusa, e mafai ona faʻaaoga ai ata o le aiga e te filifilia, ma galue e aunoa ma le initaneti. E leai se faʻamaumauga o le tagata, faʻasalalauga poʻo sikoa."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "E iai se faʻamatalaga o lenei taaloga i le polokalame?",
+      "a": "E lē o lenei taaloga. O le polokalame saʻoloto o Golden Moments mo iPhone, iPad ma Android e iai le faʻafefe o ata ma tapulaʻa tetele ma ata o le aiga e te filifilia, ma galue e aunoa ma le initaneti. O lenei taaloga e tumau saʻoloto iinei i lou polokalame o le initaneti."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: ata tetele ma alofa",
+    "noscript": "E manaʻomia e lenei taaloga le JavaScript ua ieʻ i lau polokalame o le initaneti. O faʻamatalaga o loo i lalo e galue e aunoa ma lena.",
+    "about": "E uiga i {name}",
+    "aboutAria": "E uiga i lenei taaloga",
+    "noTimer": "Leai se taimi poʻo sikoa",
+    "printable": "E mafai ona lolomi",
+    "howTo": "Faʻafefea ona taʻalo {name}",
+    "tips": "Faʻamatalaga mo le taʻaloina faʻatasi",
+    "newToPlayingHtml": "E te fou i le taʻalo ma se tasi o loo ma le dementia? Faitau <a href=\"/caregiving/how-to-play-together/\">auala o le taʻalo faʻatasi</a>, e aofia ai le mea e tatau ona e faia pe a le fiafia mai o ia.",
+    "moreAria": "Isi mea e suʻesuʻe",
+    "helpfulGuides": "Taʻiala e aoga",
+    "appTitle": "Taʻalo i le polokalame",
+    "appText": "O le polokalame saʻoloto o Golden Moments e iai le faʻafefe o ata ma tapulaʻa tetele ma ata a lou aiga, ma galue e aunoa ma Wi‑Fi. iPhone, iPad ma Android.",
+    "photoAppTitle": "Taofi ata ua e filifilia ua sauni",
+    "photoAppText": "I le polokalame saʻoloto o Golden Moments, o ata ua e filifilia e tumau i lou masini mo le taimi e sosoʻo ai, ma taʻaloga e galue e aunoa ma Wi‑Fi. iPhone, iPad ma Android.",
+    "goodToKnow": "Mea e aoga ona e iloa",
+    "goodToKnowText": "O lenei taaloga mo le fiafia ma le taimi faʻatasi. E lē suʻesuʻe, fuaina poʻo togafitia so o se mea.",
+    "moreGames": "Isi taʻaloga faʻafefe",
+    "crumb": "Taʻaloga"
   }
 }

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "ጥንዲ ስእልታት",
+    "seoTitle": "ጸወታ ምምሳል ንዲመንሺያ፡ ጥንዲ ስእልታት",
+    "h1": "ጥንዲ ስእልታት፡ ዝለዓለ ሓጎስ ዘለዎ ጸወታ ምምሳል",
+    "description": "ነጻ፡ ንሰባት ዝነብሩ ብዲመንሺያ ዝለዓለ ሓጎስ ዘለዎ ጸወታ ምምሳል። ዓበይቲ ስእልታት ክረአዩ ይኽእሉ፡ ሰዓት ወይ ነጥቢ የለን፡ ካብ 4 ክሳብ 12 ስእልታት ትመርጹ።",
+    "short": "ሓደ ዓይነት ዝኾኑ ክልተ ስእልታት ኣርኪብኩም ጠውቑ። ስእልታት ክረአዩ ይኽእሉ።",
+    "players": "1 ወይ 2 ሰባት፡ ኣብ ጎኒ-ጎኒ",
+    "intro": "ሓደ ስእሊ ጠውቑ፡ ድሕሪኡ እቲ ዝመስሎ ስእሊ ጠውቑ። ብነባሪ ስእልታት ክርአ ስለዝኾኑ፡ ዝኾነ ነገር ምዝካር ኣይግደድን። ክልተ ስእልታት ዝሰማምዑ እንተ ኮይኖም፡ ወርቃዊ ጠርዚ ን ምልክት ቼክ ይረኽቡ።",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "ክንደይ ስእልታት ክትጥቀሙ ምረጹ። ኣርባዕተ ስእልታት ንመጀመርታ ሰላማዊ ቦታ እዩ።",
+      "ዝኾነ ስእሊ ጠውቑ። ወርቃዊ ጠርዚ ይወጽእ።",
+      "እቲ ዝመስል ስእሊ ጠውቑ። ክልቲኦም ብምልክት ቼክ ብሓባር ይጸንሑ።",
+      "ክልተ ስእልታት ፍሉያት እንተ ኮይኖም፡ ዝኾነ ሕማቕ ነገር የለን። ምስ ተዳልየ ድጋሚ ጠውቑ።",
+      "« ዝተሓብኡ ስእልታት » ንዓኻትኩም ክልቲኡ ብዘዋህል ናይ ጥንታዊ ኣገባብ እንተ ደስ ኣሎ ጥራይ ኣብ ምምራጽ ክፈቱዎ።"
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "ስእልታቱ ብሓባር ብቃል ኣውጽኡ፡ ተዛረቡ፡ ንኣብነት፡ «ቀይሕ ኩባያ ሻሂ። ኣብ ሻሂኹም ወተት ትሰትዩ ዶ?»",
+      "ዝሕሎ ሰብ ብገዛእ ርእሱ ይጠውቅ፡ ዝወስዶ ግዜ ኣይትቸኩሉ። ከምኡ እንተ ኣድለየ፡ ኣብ ስእሊ ብኣጻብዕኹም ኣመልክቱ።",
+      "ክሳብ ዝሰማዕ ሓጎስ ዝህብ፡ ኣርባዕተ ስእልታት ኣቐምጡ። ዝበዝሑ ስእልታት ዝመረጽዎ ምርጫ እዩ እምበር ዘብጽሕዎ ደረጃ ኣይኮነን።",
+      "ሓጎስ ገና ከለዎ ኣቋርጽዎ። ሓደ ጸወታ ብዝኾነ ምሉእ ንጥፈት እዩ።"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ሰዓት ወይ ነጥቢ ኣሎ ዶ?",
+        "a": "የለን። ሰዓት፡ ነጥቢ፡ ቍጽሪ ስጉምትታት ወይ ምስዓር የለን። ብዝኾነ ግዜ ክትቆሙ ትኽእሉ ኢኹም፡ ንግማሽ ቆሞም እውን ብሓጎስ ዝውዳእ ኣገባብ እዩ።"
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "ስእልታት ስለምንታይ ክርአዩ ይጸንሑ?",
+        "a": "ስእልታት ክርአዩ ምግባር ጸወታ ካብ ምዝካር ናብ ምርኣይን ምምሳልን ይቕይር። ብዙሓት ሰባት ከም ዝሓጎሰ ይረኽብዎ። ተሓቢኦም ዝነብሩ ስእልታት ዝደልዩ እንተ ኮይኖም፡ ብሓደ ጠውቒ ክቕየሩ ይኽእሉ።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፡ ምምዝጋብ ይደሊ ዶ?",
+        "a": "እወ፡ ነጻ እዩ፡ ኣካውንት፡ ምምዝጋብ ወይ ምውራድ የድልን። ኣብ ድር ዝለዓለ ስልኪ፡ ታብሌት ወይ ኮምፒዩተር ይሰርሕ።"
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "ናይ ገዛና ስእልታት ክንጥቀም ንኽእል ዶ?",
+        "a": "እወ። « ጥንዲ ፎቶታት » ፈትኑ፡ ካብ መሳርሒኹም ዝመረጽኩምዎ ፎቶታት ክትጥቀሙ ይኽእሉ። ስእልታት ኣብ ብራውዘርኩም ይጸንሑ እምበር ኣይጽዓኑን።"
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "ዝመስል ድለዩ",
+    "seoTitle": "ዝመስል ስእሊ ድለዩ፡ ቀሊል ጸወታ ዲመንሺያ",
+    "h1": "ዝመስል ስእሊ ድለዩ",
+    "description": "ሓደ ስእሊ ኣብ ላዕሊ፡ ካብ ክልተ ክሳብ ኣርባዕተ ድማ ታሕቲ። እቲ ዝመስሎ ጠውቑ። ነጻ፡ ዝለዓለ ሰዓት ዘይብሉ፡ ንሰባት ዝነብሩ ብዲመንሺያ ቀሊል ጸወታ ስእልታት።",
+    "short": "ላዕሊ ዘሎ ስእሊ ርአ፡ ታሕቲ ዝመስሎ ጠውቕ።",
+    "players": "1 ወይ 2 ሰባት",
+    "intro": "ሓደ ስእሊ ኣብ ላዕሊ ናይ ስክሪን ይቐመጥ። ታሕቲኡ ክልተ፡ ሰለስተ ወይ ኣርባዕተ ስእልታት ይህሉ። እቲ ዝመስሎ ጠውቑ። ሓደ ቀሊል ምርጫ ኣብ ግዜ ሓደ ኮይኑ፡ ንዝዛረብ ዝኾነ ቦታ ዘለዎ እዩ።",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "ክልተ፡ ሰለስተ ወይ ኣርባዕተ ስእልታት ኣብ ምምራጽ ምረጹ። ክልተ ቀሊል እዩ።",
+      "ብሓባር እቲ ላዕሊ ስእሊ ርአዩ።",
+      "ታሕቲ ዝመስል ስእሊ ጠውቑ። ብምልክት ቼክን ሓደ-ክልተ ዓረፍተ ነገራት ሓጎስ ይምልክት።",
+      "ዝተጠውቀ ፍሉይ ስእሊ እንተ ኮይኑ፡ ጸወታ ብቀሊሉ ስሙ ይሰምዖ ይጽበ። ግዜኹም ውሰዱ።",
+      "« ቀጺልካ ስእሊ » ንምቕጻል ድሉው ኮይኑ ጠውቑ።"
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "ቅድሚ ምምራጽ ብሓፈሻ ስእሊ ተዛረቡ፡ ከም ቀለማት፡ ቅርጺ፡ ኣበይ ክትርኣዩዎ ትኽእሉ ኢኹም።",
+      "ክልተ ምርጫታት « ቀሊል ጥራይ » ኣይኮነን። ዕላማ ሓጎስ ዝህብ እዋን እዩ እምበር ፈተና ኣይኮነን።",
+      "ጠውቕ ቸጋር እንተ ኮነ፡ ዝሕሎ ሰብ ክጠቍም ይኽእል፡ ንስኹም ድማ ንኣዩ ጠውቕዎ።"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ሰዓት ወይ ነጥቢ ኣሎ ዶ?",
+        "a": "የለን። ሰዓት፡ ነጥቢ፡ ቍጽሪ ስጉምትታት ወይ ምስዓር የለን። ብዝኾነ ግዜ ክትቆሙ ትኽእሉ ኢኹም፡ ንግማሽ ቆሞም እውን ብሓጎስ ዝውዳእ ኣገባብ እዩ።"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "ዘይቅኑ ስእሊ እንተ ተጠውቀ ምንታይ ይኸውን?",
+        "a": "ዘሕዝን ነገር የለን። ድምጺ፡ መስቀል ወይ ምንቅጥቃጥ የለን። ጸወታ እቲ ዝተጠውቀ ስእሊ ብስሙ ይሰምዖ፡ ንቀጻሊ ጠውቒ ይጽበ።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፡ ምምዝጋብ ይደሊ ዶ?",
+        "a": "እወ፡ ነጻ እዩ፡ ኣካውንት፡ ምምዝጋብ ወይ ምውራድ የድልን። ኣብ ድር ዝለዓለ ስልኪ፡ ታብሌት ወይ ኮምፒዩተር ይሰርሕ።"
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "ምምሳል ጽላል",
+    "seoTitle": "ጸወታ ምምሳል ጽላል ንዲመንሺያ፡ ነጻ ኦንላይን",
+    "h1": "ምምሳል ጽላል፡ ለስላሳ ጸወታ ስእልታት",
+    "description": "ጸልማት ጽላል ኣብ ላዕሊ፡ ካብ ክልተ ክሳብ ኣርባዕተ ስእልታት ታሕቲ። እቲ ጽላል ዝፈጥሮ ስእሊ ጠውቑ። ነጻ፡ ዝለዓለ ሰዓት ዘይብሉ፡ ንሰባት ዝነብሩ ብዲመንሺያ ለስላሳ ጸወታ ምምሳል ጽላል።",
+    "short": "ጽላል ርአ፡ እቲ ዝፈጥሮ ስእሊ ጠውቕ።",
+    "players": "1 ወይ 2 ሰባት",
+    "intro": "ምምሳል ጽላል ካብ ዝታተሙ ወረቐታት ዝፍለጥ ንጥፈት እዩ፡ እዚ ግን ዓበይቲ ስእልታት ዘለዎን ዝታተም ዘይብሉን እዩ። ለስላሳ ጽላል ኣብ ላዕሊ ናይ ስክሪን ይቐመጥ፡ ክልተ፡ ሰለስተ ወይ ኣርባዕተ ስእልታት ድማ ታሕቲ ይጽበዩ። እቲ ጽላል ዝፈጥሮ ስእሊ ጠውቑ። ከም ብስክሌት፡ ጃንጥላ ወይ ኩባያ ሻሂ ዝኣመሰሉ ቅርጺታት ድማ ብቀሊሉ ክትዛረቡሉ ይኽእሉ።",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "ክልተ፡ ሰለስተ ወይ ኣርባዕተ ስእልታት ኣብ ምምራጽ ምረጹ። ክልተ ቀሊል እዩ።",
+      "ብሓባር እቲ ጽላል ርአዩ። ቅርጹ እንታይ እዩ? ረዚም ዶ ክብ?",
+      "እቲ ጽላል ዝፈጥሮ ስእሊ ጠውቑ። ስሙ ኣብ ታሕቲ ጽላል ይወጽእ።",
+      "ዝተጠውቀ ፍሉይ ስእሊ እንተ ኮይኑ፡ ጸወታ ብቀሊሉ ስሙ ይሰምዖ ይጽበ። ግዜኹም ውሰዱ።",
+      "« ቀጺልካ ጽላል » ንምቕጻል ድሉው ኮይኑ ጠውቑ።"
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "ኣብ ጽላል ጣትኹም ቅርጹ ኣስመሩ፡ ስለ ቅርጹ ተዛረቡ።",
+      "ዛሬ ጽላል ጸገም እንተ ኮነ፡ ናብ « ዝመስል ስእሊ ድለዩ » ተመለሱ፡ ስእልታት ብቐሊሉ ዝመሰሉሉ ኢዮም።",
+      "ዝተረኽበ ስእሊ ድሕሪ ምርካቡ ተዛረቡ፡ ንኣብነት፡ «ከምዚ ዓይነት ጃንጥላ ነበረና።»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ሰዓት ወይ ነጥቢ ኣሎ ዶ?",
+        "a": "የለን። ሰዓት፡ ነጥቢ፡ ቍጽሪ ስጉምትታት ወይ ምስዓር የለን። ብዝኾነ ግዜ ክትቆሙ ትኽእሉ ኢኹም፡ ንግማሽ ቆሞም እውን ብሓጎስ ዝውዳእ ኣገባብ እዩ።"
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "ጥላ ምጥማር ንሰባት ጥፍኣት ኣእምሮ ዘጋጠሞም ጽቡቕ ድዩ፧",
+        "a": "ንገሌ ሰባት ብፍላይ ኣብ ቀዳማይ ደረጃ ቀሊልን ዘሐጉስን ስራሕ ክኸውን ይኽእል። ቅርጺታት ካብ ቃላት ቀሊል ንምርኣይ ዝዀኑ እዮም። ንሓጎስን ዘረባን እዩ፣ ፈተነ ኣይኮነን፣ ጥፍኣት ኣእምሮ ኣይፈውስን ኣይዘግይን። ጸገም እንተ ፈጠረ፣ «ተመሳሳሊ ምርካብ» ፈትኑ ወይ ብቐሊሉ ስእልታት ብሓባር ጠመቱ።"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "ጌጋ ዝኾነ ስእሊ እንተ ጠውቕካ እንታይ ይኸውን፧",
+        "a": "ዝጸግም ነገር የልቀቕን። ደወል፣ ቀይሕ ምልክት ወይ ምንቕጥቃጥ የለን። ጸወታ ዝጠወቕካዮ ስእሊ ይሰምዮ፣ ቀጺሉ ንዝቕጽል ጠውቕ ይጽበ።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፣ ምዝገባ ይደልየኒ ድዩ፧",
+        "a": "እወ፣ ነጻ እዩ፣ ኣካውንት፣ ምዝገባን ምውራድን ኣይደልዩን። ኣብ ናይ ዌብ ብራውዘር ኣብ ተሌፎን፣ ታብሌት ወይ ኮምፒዩተር ይሰርሕ።"
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "ብሓባር ፍለዩ",
+    "seoTitle": "ጸወታ ምፍላይ ንሰባት ጥፍኣት ኣእምሮ ዘጋጠሞም፦ ብሓባር ፍለዩ",
+    "h1": "ብሓባር ፍለዩ፦ ስእልታት ዝፍለየሉ ስራሕ",
+    "description": "ስእሊ ጠውቕ፣ ቀጺልካ እቲ ዝኾነሉ ቅርጫት ጠውቕ፦ ቤት ምብሳል ወይ ኣትክልቲ፣ ፍረ ወይ ኣንስሳ። ንሰባት ጥፍኣት ኣእምሮ ዘጋጠሞም ዝኸውን ሓዊስን ነጻን ናይ ምፍላይ ስራሕ።",
+    "short": "ነፍሲ ወከፍ ስእሊ ኣብ ቅርጫቱ ኣእቱ፦ ቤት ምብሳልን ኣትክልትን፣ ከምኡ እውን ካልኦትን።",
+    "players": "1 ወይ 2 ሰባት",
+    "intro": "ምፍላይ ብዙሕ ግዜ ዝፍለጥ፣ ዕለታዊ ዝሓሸ ስራሕ እዩ፣ ከም ቁሳቁስ ምእታው ወይ ኩናት ምጥማር። ስእሊ ጠውቕ፣ ቀጺልካ ናብቲ ዝኸውን ቅርጫት ጠውቕ። ቅልጥፍና የድልን፣ ጌጋ መገዲ የለን።",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "ርእሲ ምረጽ፦ ቤት ምብሳልን ኣትክልትን፣ ፍረን ኣንስሳን፣ ወይ ቤትን ጉዕዞን።",
+      "ስእሊ ጠውቕ። ወርቃዊ ጠርዚ ይለብስ።",
+      "እቲ ዝኸውን ቅርጫት ጠውቕ። ስእሊ ናብኡ ይኣቱ።",
+      "ኣብ ካልኣይ ቅርጫት እንተ ዀነ፣ ጸወታ ብቐስታ ይነግር፣ ይጽበ።",
+      "ኩሎም ስእልታት ምስ ተፈለዩ፣ ቅርጫታት ብሓባር ጠምቱ።"
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "ኣብ ህይወት ብዙሕ ግዜ መልሲ ጌጋ የለን። ሓደ ሰብ ጎምቦ ማይ ኣብ ቤት ምብሳል ይኸውን ኢሉ እንተ ኣዘራረበ፣ ስለምንታይ ምኽንያቱ ሕተቶ። ጽቡቕ ታሪኽ ክትረኽብ ትኽእል።",
+      "ስእልታት ከም ምልክት ተጠቐመሎም፦ «ኣብ ኣትክልትካ እንታይ ዘርእካ፧»",
+      "ኣብ ገሌ ጊዜ ዝርከብ ነገራት ምፍላይ፣ ከም ማንኪያን ሹካን ወይ ኣዝራርን ብቀለም፣ ካብ ስክሪን ወጻኢ ዝሓሸ ተኸታተልቲ ስራሕ እዩ።"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ሰዓት ወይ ነጥቢ ኣሎ ድዩ፧",
+        "a": "የለን። ሰዓት፣ ነጥቢ፣ ቁጽሪ ስጉምቲ ወይ ምስዓር የለን። ኣብ ዝኾነ ግዜ ክትቐዱ ትኽእል፣ ብማእከል ምቅዳድ ድማ ብቐጥታ ምዝዛም ጽቡቕ መገዲ እዩ።"
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "ስለምንታይ ምፍላይ፧",
+        "a": "ብዙሓት ሰባት ምፍላይ ይፈትውዎ፣ ከምቲ ጠቓሚን ዝፈለጥዎን ስራሕ ስለ ዝስመዖም። ኣብ ምስራሕ ብዛዕባ ስእልታት ብቐሊሉ ዘራረብ ይከኣል።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፣ ምዝገባ ይደልየኒ ድዩ፧",
+        "a": "እወ፣ ነጻ እዩ፣ ኣካውንት፣ ምዝገባን ምውራድን ኣይደልዩን። ኣብ ናይ ዌብ ብራውዘር ኣብ ተሌፎን፣ ታብሌት ወይ ኮምፒዩተር ይሰርሕ።"
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "ፈትሊ ስእሊ",
+    "seoTitle": "ቀሊል ፈትሊ ስእሊ ንሰባት ጥፍኣት ኣእምሮ ዘጋጠሞም፦ 4 ወይ 9 ቁርጺ",
+    "h1": "ፈትሊ ስእሊ፦ ቀሊል ፈትሊ",
+    "description": "ቀሊል ፈትሊ ኦንላይን ንሰባት ጥፍኣት ኣእምሮ ዘጋጠሞም፦ 4 ወይ 9 ዓበይቲ ቁርጺ፣ ምሉእ ስእሊ ይርአ፣ ክልተ ቁርጺ ጠውቕ ንምቕያር።",
+    "short": "ክልተ ቁርጺ ጠውቕ ንምቕያር፣ ስእሊ ምሉእ ክኸውን ክሳዕ ዝኸውን።",
+    "players": "1 ወይ 2 ሰባት",
+    "intro": "ሓደ ብሩህ ስእሊ ናብ 4 ወይ 9 ዓበይቲ ቁርጺ ተቖሪጹ ተሓዊሱ። ምሉእ ስእሊ ከምቲ መምርሒ ይርአ። ሓደ ቁርጺ ጠውቕ፣ ቀጺልካ ካልእ ጠውቕ፣ ቦታታቶም ይቕያየሩ። ምጎታት ኣየድልን።",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "ስእሊን 4 ወይ 9 ቁርጺን ምረጽ። 4 ቀሊል ጅምር እዩ።",
+      "ኣብ ላዕሊ ምሉእ ስእሊ ርአ።",
+      "ቁርጺ ጠውቕ፣ ቀጺልካ ናይቲ ክኸውን ዝግባእ ቦታ ጠውቕ። ክልቲኦም ቁርጺታት ይቕያየሩ።",
+      "ኣብ ቦታኦም ዘለዉ ቁርጺታት ንኣሽቱ ምልክት ሓቂ ይረኽቡ።",
+      "ስእሊ ምሉእ ምስ ኮነ ብሓባር ተሓጐሱሉ፣ ድሕሪኡ ካልእ ምረጽ።"
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "ብዙሓት ሰባት ካብ ምጎታት፣ ክልተ ቁርጺ ጠውቕ ንምቕያር ቀሊል እዩ።",
+      "ስእሊ ምስ ይተኣኻኸብ ዕላል ግበር፦ «ኣብኣ ቀይሕ ጣርሲ ኣሎ።»",
+      "ዕንጨይቲ ፈትሊ ስእሊ ካብ 12 ክሳዕ 24 ዓበይቲ ቁርጺ ብኣዝማናት ናይ ጠረጴዛ ስራሕ እውን ጽቡቕ እዩ።"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ሰዓት ወይ ነጥቢ ኣሎ ድዩ፧",
+        "a": "የለን። ሰዓት፣ ነጥቢ፣ ቁጽሪ ስጉምቲ ወይ ምስዓር የለን። ኣብ ዝኾነ ግዜ ክትቐዱ ትኽእል፣ ብማእከል ምቅዳድ ድማ ብቐጥታ ምዝዛም ጽቡቕ መገዲ እዩ።"
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "ቁርጺታት ክጎትት ይደልየኒ ድዩ፧",
+        "a": "የለን። ሓደ ቁርጺ ጠውቕ፣ ቀጺልካ ካልእ ጠውቕ፣ ቦታታቶም ይቕያየሩ። እዚ ኢድ ዝንቕጥቀጥ ንዘለዎም ወይ ኣብ ንኣሽቲ ስክሪን ንዝኸውን ቀሊል እዩ።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፣ ምዝገባ ይደልየኒ ድዩ፧",
+        "a": "እወ፣ ነጻ እዩ፣ ኣካውንት፣ ምዝገባን ምውራድን ኣይደልዩን። ኣብ ናይ ዌብ ብራውዘር ኣብ ተሌፎን፣ ታብሌት ወይ ኮምፒዩተር ይሰርሕ።"
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "ዘረባ ምውዳእ",
+    "seoTitle": "ዘረባ ምውዳእ፦ ጸወታ ምስላት ንዕድመኛታት",
+    "h1": "ዘረባ ምውዳእ",
+    "description": "ዝፍለጡ ምስላት፣ ኣብ መወዳእታኡ ቃል ዝጎደለሉ። ምርጫ ጠውቕ ወይ «መወዳእታ ኣርእይ» ጠውቕ፣ ቀጺልካ ብዛዕባኡ ዘራረብ።",
+    "short": "ዝፍለጡ ምስላት ብሓባር ምዕዋት፣ ቀጺልካ ብዛዕባኦም ዘራረብ።",
+    "players": "1፣ 2 ወይ ጉጅለ",
+    "intro": "ዝፍለጡ ምስላት ብዝሓለፈ ህይወት ብዙሕ ግዜ ይፍለጡ። ነፍሲ ወከፍ ካርድ ዝፍለጥ ምስላት ኣብ መወዳእታኡ ቃል ዝጎደለሉ፣ ሰለስተ ምርጫታት፣ ከምኡ እውን «መወዳእታ ኣርእይ» ዝብል ቁልፊ የርኢ። ድሕሪ መወዳእታ፣ ሓጋዚ ሕቶ ዕላል ይሓትት።",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "ሓደ ምስላት ብሓባር ብድምጺ ኣንብቡ።",
+      "እቲ ዝውድኦ ቃል ጠውቕ፣ ወይ «መወዳእታ ኣርእይ» ጠውቕ።",
+      "ምሉእ ምስላት ደጊምካ ኣንብብ፣ ብዛዕባኡ ብእቲ ሕቶ ዘራረብ።",
+      "ድልው ምስ ኮንካ «ቀጺሉ ምስላት» ጠውቕ።"
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "ብቐስታ ኣንብብ፣ ኣብ ቀዳማይ ቃል ቦታ ድርብ ኣቑም። ብዙሕ ግዜ ሰባት ንቃል ቀዲሞም የዛርቡ።",
+      "ሓደ ሰብ ካልእ መወዳእታ እንተ ሂቡ፣ ሓጐሱ። ናይ ምስላት ልዕሊ ቤተሰብ ወይ ዞባ ይፈላለ።",
+      "ኣብ ጉጅለ፣ ሓደ ሰብ ያንብብ፣ ኩሎም ኣብ መወዳእታ ይሳተፉ።"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ሰዓት ወይ ነጥቢ ኣሎ ድዩ፧",
+        "a": "ኣይኮነን። ኣብ ዝኾነ ግዜ ሰዓት፣ ነጥቢ፣ ቆጺሮ ስግር ወይ ምስዓር የለን። ኣብ ዝኾነ ግዜ ክትቁሙ ትኽእሉ ኢኹም፣ ብማእከል ምቁም ድማ ጽቡቕ መወዳእታ እዩ።"
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "ካልእ ቃል ብንመርጽስ፧",
+        "a": "ጸወታ ነቲ ዝለመደ መወዳእታ ኣርእዩ ናብ ዘተ ይሰግር። ነጥቢ የለን፣ ካልእ መልሲ ድማ ጽቡቕ እዩ።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፣ ምምዝጋብ ድማ ይደልየኒ ድዩ፧",
+        "a": "ወይ ነጻ እዩ፣ ኣካውንት፣ ምምዝጋብን ምውራድን ኣይደልዩን። ኣብ ድር ብራውዘር ኣብ ስልኪ፣ ታብሌት ወይ ኮምፒዩተር ይሰርሕ።"
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "ቃላት ምድላይ ብዓቢ ፊደል",
+    "seoTitle": "ቃላት ምድላይ ብዓቢ ፊደል ንዴመንሽያ፣ ንምህታም (ነጻ)",
+    "h1": "ቃላት ምድላይ ብዓቢ ፊደል",
+    "description": "ነጻ ቃላት ምድላይ ብዓቢ ፊደል ንኣረጋውያንን ንዴመንሽያ ዘለዎም ሰባትን። ቃላት ትሑቲ፣ ፊደላት ዓብያ፣ ን ጎድኒን ን ታሕቲን ጥራይ። ኣብ ድር ጸውቱ ወይ ኣትሙ።",
+    "short": "ዓብያ ፊደላት፣ ሓጺር ዝርዝር ቃላት፣ ን ጎድኒን ን ታሕቲን ጥራይ። ኣብ ወረቐት ኸኣ ኣትሙ።",
+    "players": "1 ወይ 2 ሰባት",
+    "intro": "ሓጺር ግሪድ ብዓብያ ፊደላትን ብሓደ ክልተ ቃላትን ጥራይ፣ ኩላቶም ን ጎድኒን ን ታሕቲን ዝነበቡ። ቀዳማይ ፊደል ቃል ጠውቑ፣ ደሓር ድማ ናይ መወዳእታ ፊደሉ ጠውቑ። ኣብ ወረቐት ትመርጹ ዶ፧ ሓድሽ ጸወታ ብሓደ ጠውቕ ኣትሙ።",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "ኣርእስቲን መጠን ግሪድን ምረጹ።",
+      "ዝርዝር ቃላት ርኣዩ። ቃላት ን ጎድኒ (ካብ ጸጋም ናብ የማን) ወይ ን ታሕቲ (ካብ ላዕሊ ናብ ታሕቲ) ይነበቡ።",
+      "ቀዳማይ ፊደል ቃል ጠውቑ፣ ደሓር ድማ ናይ መወዳእታ ፊደሉ ጠውቑ።",
+      "ዝተረኽበ ቃል ይሰመረሉ፣ ካብ ዝርዝር ድማ ይሰረዝ።",
+      "ብብዕሊን ብወረቐትን ንኽትጻወቱ «ነዚ ጸወታ ኣትሙ» ጠውቑ።"
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "ኣብ ዝርዝር ናብ ቃል ኣመልክቱ፣ ቀዳማይ ፊደሉ ኣብ ግሪድ ብሓባር ድለዩ።",
+      "ኣብ ወረቐት፣ ናይ ምልክት ብዕሊ ካብ ቀለም ዝኣመረ ንምኽያድ ይቕለል።",
+      "ብዛዕባ ቃላት ኣርእስቲ ተዛረቡ። ናይ ፍረ ቃላት ብዛዕባ ምክርካር፣ ምስራሕ ወይ ዕዳጋ ዝተዛረበ ትዝታ ንምኽፋት ጽቡቕ መገዲ እዩ።"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ሰዓት ወይ ነጥቢ ኣሎ ድዩ፧",
+        "a": "ኣይኮነን። ኣብ ዝኾነ ግዜ ሰዓት፣ ነጥቢ፣ ቆጺሮ ስግር ወይ ምስዓር የለን። ኣብ ዝኾነ ግዜ ክትቁሙ ትኽእሉ ኢኹም፣ ብማእከል ምቁም ድማ ጽቡቕ መወዳእታ እዩ።"
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "ቃላት ምድላይ ክሕተም ይኽእል ድዩ፧",
+        "a": "ይኽእል። «ነዚ ጸወታ ኣትሙ» ጠውቑ፣ ነቲ ሕጂ ዘሎ ግሪድ ብዓብያ ጽሑፍ፣ ዝርዝር ቃላት ታሕቲኡ ኣብ ወረቐት ንኽትኣትሙ። እያንዳንዱ ሓድሽ ጸወታ ፈሊይ እዩ።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፣ ምምዝጋብ ድማ ይደልየኒ ድዩ፧",
+        "a": "ወይ ነጻ እዩ፣ ኣካውንት፣ ምምዝጋብን ምውራድን ኣይደልዩን። ኣብ ድር ብራውዘር ኣብ ስልኪ፣ ታብሌት ወይ ኮምፒዩተር ይሰርሕ።"
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "ገጻት ምቅዓም",
+    "seoTitle": "ገጻት ምቅዓም ንአዋቐ ዘለዎም ዴመንሽያ (ነጻ)",
+    "h1": "ገጻት ምቅዓም",
+    "description": "ቀሊል ናይ ኣዋቐ ገጻት ምቅዓም ብዓብያ ክፍልታት። ቀለም ጠውቑ፣ ደሓር ስእሊ ጠውቑ። ጭቃ የለን፣ ጌጋ ቀለም የለን፣ ኩሎም ገጻት ድማ ብነጻ ክትሕትሙ ትኽእሉ ኢኹም።",
+    "short": "ቀለም ጠውቑ፣ ደሓር ክፋል ስእሊ። ገጻት ድማ ክትሕትሙ ትኽእሉ።",
+    "players": "1 ወይ 2 ሰባት",
+    "intro": "ገጻት ብቀሊልን ዓብያን ቅርጺታት፦ ኣበባ ኣብ ሽግላ፣ ገዛ፣ ኩባያ ሻሂ፣ ቢራቢሮን ጀልባ ብሸራን። ቀለም ጠውቑ፣ ደሓር ክፋል ስእሊ ጠውቑ ንምምላእ። ጌጋ ቀለም የለን።",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "ገጽ ምረጹ።",
+      "ቀለም ጠውቑ። ስም ነፍሲ ወከፍ ቀለም ኣብ ላዩ ተጻሒፉ ኣሎ።",
+      "ብቀለም ንምምላእ ክፋል ስእሊ ጠውቑ።",
+      "ዝኾነ ግዜ ሓድሽ ቀለም ብምጥቃም ቀይርዎ ትኽእሉ ኢኹም።",
+      "ብሓዊ ወይ ብብዕሊ ንምቅዓም ባዶ ገጽ ንኽትሕትሙ «ነዚ ገጽ ኣትሙ» ጠውቑ።"
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "ኩሉ ቀለም ካብ ምምራጽ ክልተ ቀለማት ኣቕርቡ፣ ምምራጽ ምስ ኮነ ዝከበድ እንተ ኮነ።",
+      "ሓምራዊ ዕፅዊን ሰማያዊ ጸሓይን ብጽቡቕ ይቐበል። እዚ ንቀለም ምርኣይ እንጂ ትክክለኛነት ኣይኮነን።",
+      "ዝተሓትመ ገጻት ብዓብያ ብዕሊ ወይ ብሸኮር ቀለም ክሳብ ኣዝዩ ጽቡቕ ይሰርሑ፣ ብቐሊሉ ንምሕዝ ይቕለሉ።"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ሰዓት ወይ ነጥቢ ኣሎ ድዩ፧",
+        "a": "ኣይኮነን። ኣብ ዝኾነ ግዜ ሰዓት፣ ነጥቢ፣ ቆጺሮ ስግር ወይ ምስዓር የለን። ኣብ ዝኾነ ግዜ ክትቁሙ ትኽእሉ ኢኹም፣ ብማእከል ምቁም ድማ ጽቡቕ መወዳእታ እዩ።"
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "ገጻቱ ዝኣክል ህጻን ዝመስሉ ድዮም፧",
+        "a": "ካርቱን ዘይኮነ ቀሊልን ሰላማዊን ነገራት ኢና ዝሳዕና፣ ስለዚ ንዓበይቲ ዝሰማማዕ እዩ። ዓብያ ቅርጺታት ቀሊል ምቅዓም ይገብር፣ ህጻናዊ ግን ኣይገብሮን።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፣ ምምዝጋብ ድማ ይደልየኒ ድዩ፧",
+        "a": "ወይ ነጻ እዩ፣ ኣካውንት፣ ምምዝጋብን ምውራድን ኣይደልዩን። ኣብ ድር ብራውዘር ኣብ ስልኪ፣ ታብሌት ወይ ኮምፒዩተር ይሰርሕ።"
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "ካርታታት ዘተ",
+    "seoTitle": "ጅምራት ዘተ ንዴመንሽያ፦ ስእላዊ ካርታታት",
+    "h1": "ካርታታት ዘተ",
+    "description": "ስእላዊ ካርታታት ብቀሊል ጅምራት ዘተ ንዝነብሩ ዴመንሽያ ዘለዎም ሰባት። ፈተና የለን፣ ቅኑዕ መልሲ የለን። ኣብ ስክሪን ተጠቐሙ ወይ ኩሉ ስብስብ ኣትሙ።",
+    "short": "ስእላዊ ካርታታት ብኽፉት ዝኾኑ ሕቶታት። ፈተና የለን።",
+    "players": "2 ሰባት ወይ ጉጅለ",
+    "intro": "እያንዳንዱ ካርታ ዝፈለጥ ስእሊ ምስ ዝኾነ ናይ ዘተ ጸዋዒ ሕቶ ይራኽብ፣ ከም «ዝበለጸ ዓይነት ኣየር እንታይ እዩ፧» ዝበለ። ቅኑዕ መልሲ የለን፣ ክትዝክሮ ድማ ኣየድልን። ኣርእስቲ ምረጹ ወይ ኩሎም ተሓዋወሱ።",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "ኣርእስቲ ምረጹ፣ ወይ «ኩሎም ካርታታት» ብዝብል ኣቐምጡ።",
+      "ሕቶ ብዓቢ ድምጺ ኣንብቡ፣ ስእሊ ብሓባር ርኣዩ።",
+      "ተዓዘቡ፣ ናይ ገዛእ ርእስኹም መልሲ ኣካፍሉ፣ ዘተ ብሓጎስ ይኺድ።",
+      "ድሉው ምስ ኮንኩም «ዝቕጽል ካርታ» ጠውቑ፣ ወይ ብዝደልይዎ ግዜ ብሓደ ካርታ ጸንሑ።",
+      "ኣብ ወረቐት ብምቁራጽ ስብስብ ንኽትገብሩ «ኩሎም ካርታታት ኣትሙ» ጠውቑ።"
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "ንርእስኹምውን መልሲ ሃቡ። ከም ቃለ መሕተት ዘይኮነ ከም ዘተ ይስመዓ።",
+      "ኣብ ታሪኽ ተኸተሉ እንጂ ኣብ ሓቂ ኣይኮነን። ዝርዝራት እንተ ተለዊጡ ጽቡቕ እዩ።",
+      "ካርታ ሓዘንታዊ ነገር እንተ ዘንቀሰ፣ ስምዒቱ ኣኽብሩ፣ ብሓጺን ናብ ካልእ ካርታ ቐይሩ።"
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "ስለምንታይ «ትዝክር ዶ...፧» ዝበሉ ሕቶታት የለን፧",
+        "a": "ትዝታ ዝፍትን ሕቶታት ከም ፈተና ክስማዕ ይኽእል፣ ሓፍረት ድማ ክፈጥር ይኽእል። ከም «ብዛዕባ... ንገረኒ» ዝበሉ ክፉት ጸዋዒታት፣ ዝዝክሮ ዘበለ ዝኾነ ሰብ ክሳተፍ ይፈቅድ።"
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "ካርታታት ክሕተም ይኽእል ድዩ፧",
+        "a": "ይኽእል። «ኩሎም ካርታታት ኣትሙ» ኩሉ ስብስብ ብዓብያ ጽሑፍ፣ ብብዙሕ ካርታ ኣብ ሓደ ገጽ፣ ንምቁራጽ ድሉው ኮይኑ ይሕትም።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፣ ምምዝጋብ ድማ ይደልየኒ ድዩ፧",
+        "a": "እወ፣ ነጻ እዩ፣ ኣካውንት፣ ምዝገባን ምውራድን ኣየድልን። ኣብ ብራውዘር ኣብ ተሌፎን፣ ታብሌትን ኮምፒዩተርን ይሰርሕ።"
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "ጥንድ ፎቶታት",
+    "seoTitle": "ካብ ፎቶታት ስድራቤት ናይ ምምሳል ጨዋታ ምግባር",
+    "h1": "ጥንድ ፎቶታት፡ ናትካ ፎቶታት ኣመሳስል",
+    "description": "ናትካ ፎቶታት ስድራቤት ናብ ዘይጭነቕ ናይ ምምሳል ጨዋታ ቀይርዎም። ኣብ መሳርሒኻ 2 ክሳብ 6 ፎቶታት ምረጽ፤ ኣብ ብራውዘርካ ይጸንሑ፣ ኣይተሰቐሉን።",
+    "short": "ናትካ ፎቶታት ምረጽ ኣመሳስሎም። ኣይተሰቐለን።",
+    "players": "2 ሰባት፣ ጎን ጎን",
+    "intro": "ካብ ተሌፎን፣ ታብሌት ወይ ኮምፒዩተርካ ካብ 2 ክሳብ 6 ፎቶታት ምረጽ፣ ንዓቢ ዝረኣዩ ስእልታት ናይ ምምሳል ጨዋታ ኪኾኑ እዮም። ፎቶታት ኣብዚ ገጽ ጥራይ ይረኣዩ። ኣይተሰቐሉን፣ ኣይተዓቀቡን፣ ኣይተካፈሉን እዮም፣ ገጹ ምስ ዓጸውካ ድማ ይጠፍኡ።",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "ብ«ፎቶታት ምረጽ» ጠውቕ፣ ካብ 2 ክሳብ 6 ፎቶታት ምረጽ።",
+      "ነፍሲ ወከፍ ፎቶ ክልተ ግዜ ይርአ። ሓደ ጠውቕ፣ ድሕሪኡ ድማ ጥንዱ ጠውቕ።",
+      "ነፍሲ ወከፍ ፎቶ ምስ ረኸብካ፣ ብዛዕባኡ ተዛረብ።",
+      "ምስ ወዲእካ፣ ገጹ ዕጸው ወይ «ፎቶታት ኣጥፍእ» ጠውቕ። ዝተዓቀበ ነገር የለን።"
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "ንጹሃት፣ ዝፈለጥካዮም ጽቡቕ ነገራት ምረጽ፦ ሓንቲ እንስሳ፣ ኣትክልቲ፣ ዝፈትዎ ቦታ፣ ናይ መርዓ ዕለት።",
+      "ናይ ቦታታትን ነገራትን ስእልታት ካብ ገጽታ ቀሊል ክኾኑ ይኽእሉ፣ ሰባት ብስም ክጽውዑ ጸቕጢ ከይህሉ ድማ ይሓግዙ።",
+      "ናይ ዝሞቱ ሰባት ፎቶታት ድንገተኛ ሓዘን ክመጽእ ይኽእል፣ ስለዚ ጽንዓት ዝህበካ ምኸን ጥራይ ተጠቐመሉ።"
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "ፎቶታተይ ኣበይ ተሰቒለን ዶ?",
+        "a": "ኣይተሰቐሉን። ገጹ ዝመረጽካዮም ፎቶታት ብቐጥታ ኣብ ብራውዘርካ ይነብብ፣ ኣብ ስክሪንካ ድማ ያርኢ። ናባና ወይ ናብ ካልእ ሰብ ኣይተለኣኹን፣ ገጹ ምስ ዓጸውካ ወይ ደጊምካ ድማ ይጠፍኡ።"
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ዝደረት ወይ ነጥቢ ኣሎ ዶ?",
+        "a": "የለን። ሰዓት፣ ነጥቢ፣ ቆጸራ ስጉምቲ ወይ ምስዓር የለን። ኩሉ ግዜ ክትቆም ትኽእል፣ ብማእከል ምቁም ድማ ቅኑዕ ኣዛርባ ምውዳእ እዩ።"
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "ንቀጻላይ ግዜ ጨዋታ ክዓቅብ ይከኣል ዶ?",
+        "a": "ኣብ ብራውዘር ከምኡ ኣይከኣልን፣ ብዝኾነ ውልቃዊ ነገር ከይተዓቀበ ኪኸውን ኣብ ዝተመደበ። ነጻ ናይ Golden Moments ኣፕ ንኣይፎንን ንኣይፓድን፣ ዝመረጽካዮም ቅዳሕ ፎቶታት ኣብ መሳርሒኻ ክዕቅብ ይኽእል።"
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "ስእሊ ቢንጎ",
+    "seoTitle": "ስእሊ ቢንጎ ንዓረጋውያንን ንዲመንሺያ ዘለዎም ሰባትን፣ ዝሕተም",
+    "h1": "ስእሊ ቢንጎ ንጉጅለታት",
+    "description": "ነጻ ዝሕተም ስእሊ ቢንጎ ንክፍሊ ክብካቤ ትዝክር ከምኡ ድማ ንዓረጋውያን ጉጅለታት፣ ብዓቢ ዝረኣይ ጸዋዒ ኣብ ስክሪን። ዓበይቲ ስእልታትን ቃላትን፣ 9 ወይ 16 ኣዋሕዊ፣ ምንባብ ኣየድልን።",
+    "short": "ንጉጅለታት ዝሕተም ናይ ስእሊ ቢንጎ ካርድታትን ብዓቢ ስክሪን ዝጽውዕ ጸዋዒ።",
+    "players": "ካብ 2 ክሳብ 30 ሰባት ዘለዉ ጉጅለ",
+    "intro": "ብቁጽርታት ዘይኮነ ብስእልታት ዝግበር ክላሲካዊ ቢንጎ እዩ፣ ስለዚ ጸቢብ ጽሑፍ ንምንባብ ኣየድልን። ልዕሊ ሓደ ዝፍለ ካርድታት ሓትም፣ ድሕሪኡ ድማ ኣብ ቲቪ፣ ላፕቶፕ ወይ ታብሌት ዓቢ ኮይኑ ነፍሲ ወከፍ ስእሊ ዝርእይ ጸዋዒ ተጠቐም።",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "ኣብ ነፍሲ ወከፍ ካርድ 9 ወይ 16 ኣዋሕዊ፣ ከምኡ ድማ ዝኣክል ተጻዋቲ ምረጽ።",
+      "«ካርድታት ሓትም» ጠውቕ። ነፍሲ ወከፍ ካርድ ፍሉይ እዩ።",
+      "ዓቢ ስክሪን ዘለዎ ጸዋዒ ክፈት። «ቀጺሉ ስእሊ» ጠውቕ፣ ነፍሲ ወከፍ ስእሊ ብስሙ ንምርኣይ።",
+      "ተጻዋቲ ብሳንቲም፣ ብዓጣ ወይ ብማርከር ተመሳሳሊ ስእሊ ኣብ ካርዶም ይሽፍኑ።",
+      "ሓደ ሰልፊ ወይ ኩሉ ካርድ ዝመልእ ኩሉ ሰብ ብዕወቱ ይሕጎስ። ኣብዚ ስሪዔት ዝስዕር የለን፤ ኩሉ ሰብ ሰልፊ ክረኽብ ክሳብ ዝቐጽል ጸወት።"
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "ዓበይቲ ቶክናት ተጠቐም፣ ከም ቼከርስ ወይ ቆብታት ቦቶል። ንኣሽቱ ዓጣታት ክእከቡ ይጽገም።",
+      "ስእሊ ጸውዕ ብዛዕባኡ ሓንቲ ነገር ተዛረብ፦ «ጀልባ። መን እዩ ብጀልባ ዝሰኣለ?»",
+      "ንዝጸገሞም ኣብ ቅድሚ ስክሪን ኣቐምጦም፣ ሓጋዚ ድማ ምስ ዘድልዮም ተጻዋቲ ኣራኽብ።",
+      "ዘኽኢ 9 ኣዋሕዊ ብዙሓት ጉጅለታት ዝኣክል እዩ። ክፍለ ግዜ ኣብ 20 ክሳብ 30 ደቒቕ ኣቐምጦ።"
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "ኣብ ቤት ክብካቤ ስእሊ ቢንጎ ከመይ ክካይድ?",
+        "a": "ነፍሲ ወከፍ ተጻዋቲ ሓደ ካርድ ሓትም፣ ጸዋዒ ኣብ ዝዓበየ ስክሪን ኣቐምጥ፣ ነፍሲ ወከፍ ስእሊ ብስሙ ብዘይ ቅልጡፍ ጸውዕ። ኩሉ ሰብ ሰልፊ ክረኽብ ክሳብ ዝቐጽል ጸወት፣ ከምኡ ኣይተረፈን።"
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "ንምሕታም ነጻ ዶ?",
+        "a": "እወ። ዝደለኻ ዝኣክል ካርድ ብዝደለኻ ግዜ ሓትም፣ ንውልቃዊ ወይ ንጉጅለ ጥቕሚ።"
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "ሰባት ብዘይ ምንባብ ክጻወቱ ይኽእሉ ዶ?",
+        "a": "እወ። ነፍሲ ወከፍ ኣዋሕዊ ዓቢ ስእሊ እዩ፣ ንዝፈትው ቃላት ድማ ኣብ ታሕቲ ስሙ ኣሎ።"
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "ዕረፍቲ ትንፋስ",
+    "seoTitle": "ቀሊል ዕረፍቲ ትንፋስ ንዓረጋውያንን ንክብካበኛታትን",
+    "h1": "ቀሊል ዕረፍቲ ትንፋስ",
+    "description": "ብሓባር ንምውሳድ ዝኾነ ቀስ ዝበለ፣ ጸጥ ዝበለ ዕረፍቲ ትንፋስ፦ ሓደ ቀስ ዝብል ክብ ንሽዱሽተ ትንፋሳት ይዓብን ይንእስን። ንስኻ ትጅምሮ፣ ዝደለኻ ግዜ ድማ ክትቆም ትኽእል።",
+    "short": "ንምስትንፋስ ዝኾነ ቀስ ዝብል ክብ። ዝደለኻ ግዜ ጀምር ወይ ቁም።",
+    "players": "1 ወይ 2 ሰባት",
+    "intro": "ብዙ ግዜ ኣዝዩ ጽቡቕ ዕዮ ጸጥታዊ ዕረፍቲ እዩ። «ጀምር» ጠውቕ፣ ክቡ ምስ ዝዓቢ ትንፍስ፣ ምስ ዝንእስ ድማ ፍታ። ቀረባ ወይ ቀልጣፊ ፍጥነት ምረጽ። ሕክምና ኣይኮነን፤ ጥራይ ብሰላም ዝሓበርካዮ ግዜ እዩ።",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "ብቐሊሉ ኣብ ጎን ጎን ተቐመጥ።",
+      "ፍጥነት ምረጽ፦ ቀስ ወይ ምቹዕ።",
+      "«ጀምር» ጠውቕ። ክቡ ዝዓቢ ከሎ ተንፈስ፣ ክቡ ዝንእስ ከሎ ድማ ፍታ።",
+      "ድሕሪ ሽዱሽተ ትንፋሳት ብባህርያኡ ይቁም፣ ወይ ዝደለኻ ግዜ «ቁም» ጠውቕ።"
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "ክኣዕጽዎ እንተ ተሓቲትካ፣ ወይ ኢድካ ኣብ ኢድ ሰብ ኣቐምጣ፣ እንተ ተቐቢሉ።",
+      "ኣይትግደድ። ክቡ ጥራይ እንተ ተመልከቱ ድማ ጽቡቕ እዩ።",
+      "ብዛዕባ ትንፋስ ጸገም እንተ ኣለዎ፣ ብኣግባቡ ተንፈስ፣ ክቡ ድማ ጥራይ ተመልከት። ብዛዕባ ዝኾነ ጸገም ትንፋስ ምስ ሓኪም ተዛረብ።"
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "ሕክምናዊ ናይ ትንፋስ ልምምድ ዲዩ?",
+        "a": "ኣይኮነን። ቀሊል፣ ዝመረጽካዮ ዕረፍቲ ንምሕዳእን ንምሕዋይን እዩ። ንዝኾነ ጭንቀት ወይ ኩነታት ሕክምና ኣይኮነን። ብዛዕባ ጥዕናኻ ምስ ሓኪም ተዛረብ።"
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "ኣነ ከይጀመርኩ ክቡ ይንቀሳቐስ ዶ?",
+        "a": "ኣይ። ንስኻ “ጀምር” ኣብ ዝጠውቕ ክሳብ ዝኾነ ዝኾነ ነገር ኣይንቀሳቐስን እዩ፣ ድሕሪ ስድስተ እስትንፋስ ወይ ንስኻ “ኣቁም” ኣብ ዝጠውቕ ድማ ይቁም። መሳርሒኻ እንቅስቃሴ ንምቕናስ ዝተሰርዐ እንተ ኮይኑ፣ ቃላት ይቕየር እንጂ ክቢ ኣይዓቢን።"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ነጻ ድዩ፧ ምዝገባ ክገብር ይግባእ ድዩ፧",
+        "a": "እወ፣ ነጻ እዩ። ኣካውንት፣ ምዝገባን ምውራድ ፕሮግራምን ኣይድልይን። ኣብ ተሌፎን፣ ታብሌት ወይ ኮምፒዩተር ኣብ ዌብ ብራውዘር ይሰርሕ።"
       }
     ]
   }

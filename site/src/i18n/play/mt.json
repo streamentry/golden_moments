@@ -1,0 +1,798 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Aqra b’leħen għoli",
+      "stopReading": "Waqqaf il-qari",
+      "region": "Logħba",
+      "restart": "Erġa’ ibda",
+      "soundOn": "Ħsejjes ħfief mixgħula",
+      "soundOff": "Ħsejjes ħfief mitfija",
+      "done": "Nieqfu għalissa",
+      "feedbackQuestion": "Dan għenkom illum?",
+      "feedbackYes": "Iva",
+      "feedbackNo": "Mhux tassew",
+      "feedbackThanks": "Grazzi talli għidtulna."
+    },
+    "tile": {
+      "named": "{name}, kaxxa {n}",
+      "hidden": "Stampa moħbija, kaxxa {n}",
+      "withState": "{label}, {state}",
+      "matched": "Imqabbel",
+      "selected": "Magħżul",
+      "picture": "Stampa",
+      "photoNumber": "Ritratt {n}"
+    },
+    "pairs": {
+      "allTogether": "Il-pari kollha flimkien. Erġa’ ilgħab jew ħu waqfa.",
+      "photoPair": "Par ritratti, flimkien.",
+      "picturePair": "Żewġ stampi tal-{name|lower}, flimkien.",
+      "selected": "{name}. Issa sib il-par tiegħu.",
+      "mismatch": "Ħudu ż-żmien tagħkom. Ippressaw stampa biex tkomplu.",
+      "mismatchNamed": "{a} u {b}. Ħudu ż-żmien tagħkom. Ippressaw stampa biex tkomplu."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Ippressaw stampa, imbagħad ippressaw dik li taqbel magħha.",
+      "guidanceHidden": "Ippressaw żewġ kaxxi biex tqalbuhom. Fittxu żewġ kaxxi tal-istess.",
+      "restart": "Stampi ġodda",
+      "sizeLegend": "Kemm kaxxa",
+      "size": {
+        "one": "{n} kaxxa",
+        "two": "{n} kaxxi",
+        "few": "{n} kaxxi",
+        "many": "{n} kaxxa",
+        "other": "{n} kaxxa"
+      },
+      "viewLegend": "Kif tilgħab",
+      "viewShowing": "Stampi murija",
+      "viewHidden": "Stampi moħbija",
+      "playAgain": "Erġa’ ilgħab b’stampi ġodda",
+      "talk": "Itkellmu flimkien dwar l-istampi"
+    },
+    "choose": {
+      "countLegend": "Kemm stampa",
+      "count": "{n} biex tagħżlu minnhom",
+      "thatOne": "Dik hija l-{name|lower}. Ħudu ż-żmien tagħkom."
+    },
+    "findTheSame": {
+      "guidance": "Ħarsu lejn l-istampa ta’ fuq. Ippressaw l-istess waħda hawn taħt.",
+      "yes": "Iva, l-istess {name|lower}.",
+      "next": "Stampa li jmiss"
+    },
+    "shadowMatch": {
+      "guidance": "Ħarsu lejn id-dell ta’ fuq. Ippressaw l-istampa li tagħmel dak id-dell.",
+      "yes": "Iva, il-{name|lower} jagħmel dak id-dell.",
+      "next": "Dell li jmiss",
+      "shadowAlt": "Dell biex taqbel miegħu",
+      "foundAlt": "Id-dell tal-{name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Ippressaw stampa, imbagħad ippressaw il-qoffa fejn tmur.",
+      "restart": "Stampi ġodda",
+      "themeLegend": "Tema",
+      "selected": "{name}. Issa ippressaw il-qoffa fejn tmur.",
+      "pickFirst": "L-ewwel ippressaw stampa, imbagħad qoffa.",
+      "hint": "Il-{name|lower} jista’ jmur fil-qoffa “{basket}”. Ippressaw dik il-qoffa biex titqiegħed hemm.",
+      "placed": "Il-{name|lower} qiegħda fil-qoffa “{basket}”.",
+      "sorted": "Kollox hu ordnat. Ħarsu flimkien lejn il-qfief, jew ippruvaw tema oħra.",
+      "basket": {
+        "one": "Qoffa {basket}, fiha {count} stampa.",
+        "two": "Qoffa {basket}, fiha {count} stampi.",
+        "few": "Qoffa {basket}, fiha {count} stampi.",
+        "many": "Qoffa {basket}, fiha {count} stampa.",
+        "other": "Qoffa {basket}, fiha {count} stampa."
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Ippressaw biċċa waħda, imbagħad oħra. Jiskambjaw il-postijiet.",
+      "restart": "Ħawwad mill-ġdid",
+      "pictureLegend": "Stampa",
+      "pictures": {
+        "sailboat": "Dgħajsa bil-qlugħ",
+        "house": "Dar",
+        "balloon": "Ballun",
+        "sunflower": "Girasol",
+        "lighthouse": "Fanal",
+        "cat": "Qattus"
+      },
+      "sizeLegend": "Biċċiet",
+      "size": {
+        "one": "{n} biċċa",
+        "two": "{n} biċċiet",
+        "few": "{n} biċċiet",
+        "many": "{n} biċċa",
+        "other": "{n} biċċa"
+      },
+      "pickedUp": "Biċċa mehuda. Issa ippressaw fejn għandha tmur.",
+      "whole": "Il-{name|lower} reġgħet sħiħa. Agħżlu stampa oħra kull meta tridu.",
+      "swapped": {
+        "one": "Inbidel. {correct} minn {total} biċċa hija fil-post tagħha.",
+        "two": "Inbidlu. {correct} minn {total} biċċiet huma fil-post tagħhom.",
+        "few": "Inbidlu. {correct} minn {total} biċċiet huma fil-post tagħhom.",
+        "many": "Inbidel. {correct} minn {total} biċċa hija fil-post tagħha.",
+        "other": "Inbidel. {correct} minn {total} biċċa hija fil-post tagħha."
+      },
+      "guideAlt": "Ir-ritratt sħiħ: {name}",
+      "guideText": "Hekk jidher ir-ritratt meta jkun sħiħ.",
+      "piece": "Biċċa {place}",
+      "pieceInPlace": ", fil-post it-tajjeb",
+      "piecePickedUp": ", mehuda",
+      "places4": [
+        "fil-quċċata xellugija",
+        "fil-quċċata tal-lemin",
+        "fl-isfel xellugi",
+        "fl-isfel tal-lemin"
+      ],
+      "places9": [
+        "fil-quċċata xellugija",
+        "fil-quċċata f’nofs",
+        "fil-quċċata tal-lemin",
+        "fin-nofs xellugi",
+        "fiċ-ċentru",
+        "fin-nofs tal-lemin",
+        "fl-isfel xellugi",
+        "fl-isfel f’nofs",
+        "fl-isfel tal-lemin"
+      ],
+      "done": "Ir-ritratt reġa’ sħiħ. Erġa’ ilgħab jew ħu waqfa.",
+      "playAgain": "Ħawwad mill-ġdid"
+    },
+    "finishTheSaying": {
+      "guidance": "Aqraw il-proverbju flimkien, imbagħad ippressaw il-kelma li tlestih.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Iva, “{start} {end}.”",
+      "otherEnding": "“{word}” jaħdem ukoll. Il-proverbju komuni jispiċċa b’“{end}”.",
+      "revealed": "Il-proverbju huwa “{start} {end}.”",
+      "choicesLabel": "Agħżel l-aħħar kelma",
+      "show": "Uri t-tmiem",
+      "talk": "Itkellmu dwaru: ",
+      "next": "Proverbju li jmiss"
+    },
+    "wordSearch": {
+      "guidance": "Il-kelmiet jaqraw minn xellug għal lemin jew minn fuq għal isfel. Ippressaw l-ewwel ittra ta’ kelma, imbagħad l-aħħar ittra tagħha.",
+      "restart": "Puzzle ġdid",
+      "themeLegend": "Tema",
+      "sizeLegend": "Daqs tal-grilja",
+      "size": {
+        "one": "{n} b’{n} ({words} kelma)",
+        "two": "{n} b’{n} ({words} kelmiet)",
+        "few": "{n} b’{n} ({words} kelmiet)",
+        "many": "{n} b’{n} ({words} kelma)",
+        "other": "{n} b’{n} ({words} kelma)"
+      },
+      "print": "Stampaw dan il-puzzle",
+      "letterChosen": "Ittra {letter} magħżula. Issa ippressaw l-aħħar ittra tal-kelma.",
+      "found": "{word} instab.",
+      "foundAll": "{word} instab. Dik hija l-kelma kollha. Erġa’ ilgħab jew ħu waqfa.",
+      "tryAgain": "Ħudu ż-żmien tagħkom. Ippressaw l-ewwel ittra ta’ kelma, imbagħad l-aħħar tagħha.",
+      "gridLabel": "Grilja ta’ ittri, {n} ringieli ta’ {n} ittri. Użaw il-vleġġa tat-tastiera biex timxu bejn l-ittri.",
+      "cell": "{letter}, ringiela {row}, kolonna {col}",
+      "cellFound": ", parti minn kelma misjuba",
+      "wordsHeading": "Kliem biex tsib",
+      "wordFound": " (instab)",
+      "sheetTitle": "Puzzle ta’ kliem: {theme}",
+      "sheetNote": "Il-kelmiet jaqraw minn xellug għal lemin jew minn fuq għal isfel.",
+      "unavailable": "Grilja ta’ ittri ma taqbilx ma’ din il-lingwa, allura l-puzzle tal-kliem mhux offert hawn. Ipprovaw il-logħbiet bl-istampi minflok."
+    },
+    "coloring": {
+      "guidance": "Ippressaw kulur, imbagħad ippressaw parti mir-ritratt.",
+      "restart": "Ineħħu l-kuluri",
+      "cleared": "Il-paġna reġgħet vojta.",
+      "pageLegend": "Paġna",
+      "print": "Stampaw din il-paġna",
+      "colorsLabel": "Kuluri",
+      "paintChosen": "{paint} magħżul.",
+      "painted": "{part} issa hija {paint|lower}.",
+      "artLabel": "{page}, {count} partijiet biex jiġu kkuluriti",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, mhux ikkuluriti",
+      "paints": {
+        "red": "Aħmar",
+        "orange": "Oranġjo",
+        "yellow": "Isfar",
+        "green": "Aħdar",
+        "blue": "Blu",
+        "purple": "Vjola",
+        "pink": "Roża",
+        "brown": "Kannella",
+        "sky-blue": "Blu tas-sema",
+        "cream": "Krema",
+        "gray": "Griż",
+        "white": "Abjad"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Aqraw il-karta b’leħen għoli. M’hemm l-ebda tweġiba sewwa.",
+      "position": "Karta {n} minn {total}",
+      "themeLegend": "Tema",
+      "next": "Karta li jmiss",
+      "previous": "Karta ta’ qabel",
+      "print": "Stampaw il-karti kollha",
+      "sheetTitle": "Karti ta’ konverżazzjoni"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Ibdew billi tagħżlu r-ritratti tagħkom.",
+      "guidance": "Ippressaw ritratt, imbagħad ippressaw dak li jaqbel magħhu.",
+      "restart": "Ħawwduhom mill-ġdid",
+      "intro": "**Agħżlu 2 sa 6 ritratti** minn dan l-apparat. Jidhru biss f’din il-paġna u qatt ma jitgħabbew jew jinħażnu.",
+      "choose": "Agħżlu r-ritratti",
+      "chooseDifferent": "Agħżlu ritratti oħra",
+      "clear": "Neħħu r-ritratti",
+      "cleared": "Ir-ritratti tneħħew minn din il-paġna.",
+      "atLeastTwo": "Jekk jogħġbok agħżlu mill-inqas żewġ ritratti.",
+      "usingFirst": "Qed nużaw l-ewwel {max} ritratti.",
+      "skipped": {
+        "one": "{count} fajl ma kienx ritratt li nistgħu nuruh.",
+        "two": "{count} fajls ma kinux ritratti li nistgħu nuruhom.",
+        "few": "{count} fajls ma kinux ritratti li nistgħu nuruhom.",
+        "many": "{count} fajl ma kienx ritratt li nistgħu nuruh.",
+        "other": "{count} fajl ma kienx ritratt li nistgħu nuruh."
+      },
+      "playAgain": "Erġa’ ilgħab bl-istess ritratti",
+      "empty": "Ir-ritratti tagħkom jidhru hawn, kull wieħed darbtejn."
+    },
+    "pictureBingo": {
+      "guidance": "Stampaw il-kartelli l-ewwel. Imbagħad uri din il-paġna fuq l-akbar skrin li għandkom.",
+      "called": {
+        "one": "{name}. {called} minn {total} stampa msejħa.",
+        "two": "{name}. {called} minn {total} stampi msejħa.",
+        "few": "{name}. {called} minn {total} stampi msejħa.",
+        "many": "{name}. {called} minn {total} stampa msejħa.",
+        "other": "{name}. {called} minn {total} stampa msejħa."
+      },
+      "start": "Ippressaw “Stampa li jmiss” biex tisejħu l-ewwel stampa.",
+      "restart": "Ibda logħba ġdida",
+      "squaresLegend": "Kwadri fuq kull kartell",
+      "squares": "{n} kwadri ({side} b’{side})",
+      "cardsLegend": "Kemm kartell biex tistampa",
+      "cards": {
+        "one": "{n} kartell",
+        "two": "{n} kartelli",
+        "few": "{n} kartelli",
+        "many": "{n} kartell",
+        "other": "{n} kartell"
+      },
+      "print": {
+        "one": "Stampaw {n} kartell tal-bingo.",
+        "two": "Stampaw {n} kartelli tal-bingo.",
+        "few": "Stampaw {n} kartelli tal-bingo.",
+        "many": "Stampaw {n} kartell tal-bingo.",
+        "other": "Stampaw {n} kartell tal-bingo."
+      },
+      "ready": "Lesti meta tkunu",
+      "next": "Stampa li jmiss",
+      "allCalled": "Ġiet imsejħa kull stampa",
+      "alreadyCalled": "Diġà msejħa",
+      "sheetTitle": "Bingo bl-istampi · kartell {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Ħu nifs waqt li ċ-ċirku jikber, u eħles in-nifs waqt li jiżgħar. Jieqaf waħdu wara sitt nifsijiet.",
+      "paceLegend": "Ritmu",
+      "paceSlow": "Bil-mod (5 sekondi kull direzzjoni)",
+      "paceGentle": "Ġentili (4 sekondi kull direzzjoni)",
+      "ready": "Lest meta tkun lest",
+      "in": "Ħu nifs",
+      "hold": "Waqfa",
+      "out": "Eħles in-nifs",
+      "start": "Ibda",
+      "stop": "Ieqaf",
+      "started": "Bdejna. Ħu nifs waqt li ċ-ċirku jikber.",
+      "stopped": "Twaqqaf.",
+      "finished": "Dawk kienu sitt nifsijiet bil-mod. Erġa' ibda kull meta tixtieq."
+    }
+  },
+  "pictures": {
+    "teacup": "Tazza tat-te",
+    "kettle": "Bramel",
+    "bread": "Ħobża",
+    "frying-pan": "Taġen b'bajda",
+    "cake": "Kejk tat-twelid",
+    "sunflower": "Girasol",
+    "tulip": "Tulipan aħmar",
+    "watering-can": "Bromla tal-ilma",
+    "potted-plant": "Pjanta f'pott",
+    "tree": "Siġra",
+    "bird": "Pettirossu fuq fergħa",
+    "butterfly": "Farfett",
+    "dog": "Kelb",
+    "cat": "Qattus",
+    "fish": "Ħuta tad-deheb",
+    "apple": "Tuffieħa ħamra",
+    "pear": "Lanġa",
+    "strawberry": "Frawla",
+    "banana": "Banana",
+    "lemon": "Lumi",
+    "cherries": "Ċereġi",
+    "house": "Dar",
+    "lamp": "Lampa tal-mejda",
+    "armchair": "Poltrona",
+    "key": "Ċavetta antika",
+    "umbrella": "Ombrella",
+    "sailboat": "Dgħajsa bil-qlugħ",
+    "car": "Karozza klassika",
+    "bicycle": "Bajsikleta",
+    "balloon": "Ballun bl-arja sħuna",
+    "lighthouse": "Fanal",
+    "sun": "Xemx",
+    "moon": "Qamar u stilel",
+    "teapot": "Brokka tat-te",
+    "apple-pie": "Torta tat-tuffieħ",
+    "honey-jar": "Barmil tal-għasel",
+    "boiled-egg": "Bajda f'kopp tal-bajd",
+    "toaster": "Toster",
+    "cheese": "Biċċa ġobon",
+    "milk-jug": "Brokka tal-ħalib",
+    "cupcake": "Kejkina",
+    "orange": "Larinġ",
+    "grapes": "Angħuda tal-għeneb",
+    "watermelon": "Biċċa dellieħ",
+    "pineapple": "Ananas",
+    "peach": "Ġiżwa",
+    "rose": "Ward",
+    "daisies": "Margeriti",
+    "mushroom": "Fungu",
+    "wheelbarrow": "Karrettun",
+    "birdhouse": "Kenn għall-għasafar",
+    "cactus": "Kattus f'pott",
+    "acorn": "Ballut",
+    "autumn-leaf": "Werqa tal-ħarifa",
+    "rabbit": "Fenek",
+    "duck": "Battala",
+    "hen": "Tiġieġa",
+    "sheep": "Nagħġa",
+    "owl": "Kuwat",
+    "ladybird": "Bebbuxa",
+    "snail": "Lumaka",
+    "frog": "Rana",
+    "bee": "Naħla",
+    "clock": "Arloġġ tal-kamin",
+    "vase-of-flowers": "Vażun tal-fjuri",
+    "radio": "Radju antik",
+    "books": "Munzell ta' kotba",
+    "candle": "Xemgħa",
+    "glasses": "Nuċċali tal-qari",
+    "telephone": "Telefon",
+    "ball-of-wool": "Ballun tas-suf",
+    "straw-hat": "Kappell tax-xemx",
+    "train": "Ferrovija bil-fwar",
+    "bus": "Awtobus",
+    "airplane": "Ajruplan",
+    "suitcase": "Valiġja",
+    "tractor": "Tratturi",
+    "rowing-boat": "Dgħajsa b'muġdafa",
+    "rainbow": "Qaws quzaħ",
+    "rain-cloud": "Sħaba bix-xita",
+    "snowflake": "Silġa",
+    "kite": "Tajra",
+    "sunrise": "Tlugħ tax-xemx fuq il-għoljiet"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFIKLMNORSTUW",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frott",
+          "words": [
+            "TIN",
+            "LUMI",
+            "BANANA",
+            "ANANAS",
+            "FRAWLA",
+            "TUT",
+            "KIWI",
+            "MELLUN",
+            "ĊEREĠA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Ġnien",
+          "words": [
+            "WARD",
+            "NAĦLA",
+            "SIĠRA",
+            "BIRKA",
+            "ORTU",
+            "ĠNIEN",
+            "RAMLA",
+            "ART",
+            "ĦAXIX"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kċina",
+          "words": [
+            "ĦOBŻ",
+            "TAĠEN",
+            "PLATT",
+            "FORN",
+            "TAZZA",
+            "ĦALIB",
+            "FRIĠĠ",
+            "KĊINA",
+            "TORTA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Temp",
+          "words": [
+            "XEMX",
+            "XITA",
+            "SILĠ",
+            "RIĦ",
+            "SĦAB",
+            "SĦUN",
+            "KIESAĦ",
+            "SEMA",
+            "XITWA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Annimali",
+          "words": [
+            "KELB",
+            "TAJR",
+            "ĦUTA",
+            "ŻIEMEL",
+            "BAQRA",
+            "BATTAL",
+            "ĦANŻIR",
+            "FENEK",
+            "NEMLA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Id-dar",
+          "words": [
+            "BIEB",
+            "SIĠĠU",
+            "LAMPA",
+            "SODDA",
+            "TAPIT",
+            "SUFAN",
+            "ARLOĠĠ",
+            "MEJDA",
+            "TIEQA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Il-kartuni kollha",
+        "food": "Ikel",
+        "home": "Id-dar",
+        "outdoors": "Barra",
+        "animals": "Annimali",
+        "travel": "Vjaġġi u postijiet",
+        "work": "Xogħol u ħobbiet",
+        "music": "Mużika u divertiment",
+        "seasons": "L-istaġuni"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "X'inhi l-aħjar riħa tal-kċina għalikom?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Liema tip ta' kejk tagħżlu għal festa?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Għidulna dwar torta tal-frott jew ħelu li tħobbu."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kif tħobbu t-te jew il-kafè?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "X'jagħmel kolazzjon tajjeb ħafna għalikom?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Qatt qtajtu frott direttament mill-pjanta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Ħelu jew ħamuż: liema tgħġbu aktar?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "X'ikel ifakkarkom fis-sajf?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Għidulna dwar dar li għoġbitkom tgħixu fiha."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Fejn tħobbu tiqgħdu u tistrieħu?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "X'tħobbu tagħmlu f'lejl kwiet?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "X'jkun it-teżor li tżommu f'kaxxa speċjali?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Lil min tistiedu għal tazza te?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "X'tħobbu tagħmlu f'jum xita?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Liema fjuri tippjantaw fil-ġnien?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Għidulna dwar siġra jew park li tgħoġbu."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "X'inhi l-aħjar parti mill-ġnien għalikom?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Liema kulur ta' fjuri tgħoġbu l-aktar?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Tħobbu jkollkom pjanti fid-dar?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "X'inhi l-idea tagħkom ta' ġurnata xemxija perfetta?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Għidulna dwar kelb li kellkom."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Qtates jew klieb, jew xejn minnhom? X'tgħoġbukom fihom?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Liema għasafar tarawhom jew tisimgħuhom barra?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Qatt morkom sajd, jew kellkom akkwarju bil-ħut?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "X'inhu l-aktar annimal sabiħ li rajtu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Għidulna dwar karozza li għoġbitkom."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Tfaddlu jum fuq il-bajja jew fil-muntanji?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Fejn tixtiequ tmorru bir-rota?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Kieku setgħetu tgħaddu fuq kwalunkwe post, liema kien ikun?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Liema vjaġġ tgħoġbukom?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Liema tip ta' xogħol għoġbukom tagħmlu?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "X'hobby tistgħu tqattgħu sigħat fuqu?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "X'haġa kontu magħrufin li tagħmlu jew tirranġaw?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "X'parir tagħtu lil żagħżugħ li jibda x-xogħol?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Liema mużika tagħmilkom tridu tiżfnu?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "X'jagħmel festa tajba?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Min hu kantant li tgħoġbukom tisimgħu?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "X'film jew programm tat-TV tgħoġbukom terġgħu tarawhom?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "X'tgħoġbukom l-aktar fis-sajf?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "X'tgħoġbukom fil-ħarifa?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "X'tagħmlu b'mod komdu f'lejla tax-xitwa?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "X'inhuma l-ewwel sinjali tar-rebbiegħa għalikom?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Silġ, xita jew xemx: liema tippreferu?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fjura f'pott",
+          "regions": {
+            "sky": "Sfond",
+            "table": "Mejda",
+            "stem": "Zokk",
+            "leaf-left": "Werqa tax-xellug",
+            "leaf-right": "Werqa tal-lemin",
+            "petal-1": "Petala 1",
+            "petal-2": "Petala 2",
+            "petal-3": "Petala 3",
+            "petal-4": "Petala 4",
+            "petal-5": "Petala 5",
+            "petal-6": "Petala 6",
+            "petal-7": "Petala 7",
+            "petal-8": "Petala 8",
+            "center": "Qalba tal-fjura",
+            "pot": "Pott",
+            "pot-rim": "Tarf tal-pott"
+          }
+        },
+        "house": {
+          "name": "Dar",
+          "regions": {
+            "sky": "Sema",
+            "sun": "Xemx",
+            "grass": "Ħaxixa",
+            "chimney": "Kamin",
+            "walls": "Ħitan",
+            "roof": "Saqaf",
+            "door": "Bieb",
+            "window-left": "Tieqa tax-xellug",
+            "window-right": "Tieqa tal-lemin",
+            "path": "Triq"
+          }
+        },
+        "teacup": {
+          "name": "Tazza tat-te",
+          "regions": {
+            "background": "Sfond",
+            "saucer": "Platt tat-tazza",
+            "handle": "Maniglja tat-tazza",
+            "cup": "Tazza",
+            "band": "Strixxa fuq it-tazza",
+            "tea": "It-te"
+          }
+        },
+        "butterfly": {
+          "name": "Farfett",
+          "regions": {
+            "background": "Sfond",
+            "wing-top-left": "Ġwienaħ fuq tax-xellug",
+            "wing-top-right": "Ġwienaħ fuq tal-lemin",
+            "wing-bottom-left": "Ġwienaħ isfel tax-xellug",
+            "wing-bottom-right": "Ġwienaħ isfel tal-lemin",
+            "spot-left": "Tikka tal-ġwienaħ tax-xellug",
+            "spot-right": "Tikka tal-ġwienaħ tal-lemin",
+            "body": "Ġisem"
+          }
+        },
+        "sailboat": {
+          "name": "Dgħajsa bil-qlugħ",
+          "regions": {
+            "sky": "Sema",
+            "sea": "Baħar",
+            "sail-big": "Qlugħ kbir",
+            "sail-small": "Qlugħ żgħir",
+            "mast": "Maste",
+            "hull": "Dgħajsa",
+            "flag": "Bandiera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kċina u ġnien",
+          "baskets": [
+            "Fil-kċina",
+            "Fil-ġnien"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frott u annimali",
+          "baskets": [
+            "Frott",
+            "Annimali"
+          ]
+        },
+        "home-travel": {
+          "label": "Id-dar u s-safar",
+          "baskets": [
+            "Fid-dar",
+            "Barra mid-dar"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Zithunzi zofanana",
+    "seoTitle": "Masewera Olinganiza Zithunzi a Dementia: Zithunzi Zofanana",
+    "h1": "Zithunzi Zofanana: Masewera Odekha Olinganiza Zithunzi",
+    "description": "Masewera aulere komanso odekha olinganiza zithunzi a anthu okhala ndi vuto la dementia. Zithunzi zazikulu zimangokhala zooneka, palibe wotchi kapena masikoro, ndipo mumasankha zithunzi 4 mpaka 12.",
+    "short": "Pezani zithunzi ziwiri zofanana. Zithunzi zitha kungokhalabe zooneka.",
+    "players": "Munthu 1 kapena 2, mbali ndi mbali",
+    "intro": "Khudzani chithunzi chimodzi, kenako khudzani china chofanana nacho. Zithunzi zimakhala zooneka nthawi zonse, motero sipafunika kukumbukira chilichonse. Zithunzi ziwiri zikafanana, pakhala mzere wa golide m'mbali pamodzi ndi chizindikiro chovomereza.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Sankhani kuchuluka kwa zithunzi zimene mukufuna kugwiritsa ntchito. Zithunzi zinayi ndi malo abwino komanso odekha oyambira.",
+      "Khudzani chithunzi chilichonse. Chikhala ndi mzere wa golide m'mbali.",
+      "Khudzani chithunzi china chofanana nacho. Zithunzi zofananazo zizikhala pamodzi zokhala ndi chizindikiro chovomereza.",
+      "Ngati zithunzi ziwirizo zili zosiyana, palibe vuto lililonse. Khudzaninso nthawi ina iliyonse mukakhala okonzeka.",
+      "Yatsani \"Zithunzi zobisika\" pokhapokha ngati nonsenu mumakonda mtundu wodziwika bwino wozondotsa zithunzi pansi."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Tchulani mayina a zithunzizo mofuula limodzi ndikukambirana za izo: \"Kapu yofiira ya tiyi. Kodi mumathira mkaka mu tiyi mwanu?\"",
+      "Lolani munthu amene mukumusamalira kuti azikhudza yekha, ngakhale zitenga kanthawi. Mungomuloza m'malo momukhudzira.",
+      "Pitirizani ndi zithunzi zinayi bola ngati zikukusangalatsani. Kuonjezera zithunzi ndi kusankha kwanu, sikuti ndi gawo limene mukuyenera kukwaniritsa.",
+      "Malizani pamene mukusangalalabe. Masewera amodzi okha ndi ntchito yokwanira bwino."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena masikoro?",
+        "a": "Ayi. Palibe wotchi, masikoro, kuwerengera mayendedwe kapena kulephera. Mutha kusiya nthawi ina iliyonse, ndipo kusiya pakati ndi njira yabwino kwambiri yomalizira."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "N'chifukwa chiyani zithunzi zimakhalabe zooneka?",
+        "a": "Kusiya zithunzi zikuoneka kumachititsa masewerawa kukhala oyang'ana ndi kulinganiza m'malo mokumbukira. Anthu ambiri amaona kuti izi zimakhala zodekha kwambiri. Mutha kusintha kuti zithunzi zizibisika pakungokhudza kamodzi ngati mukufuna."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi ndi zaulere, nanga ndikufunika kulembetsa?",
+        "a": "Inde, ndi zaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa. Zimagwira ntchito mu msakatuli pa foni, tabuleti kapena kompyuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Kodi tingathe kugwiritsa ntchito zithunzi za banja lathu?",
+        "a": "Inde. Yesani Photo pairs, zomwe zimakulolani kusankha zithunzi kuchokera pa chipangizo chanu. Zithunzizo zimakhalabe mu msakatuli mwanu ndipo sizitumizidwa kwina kuli konse."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Pezani chofanana",
+    "seoTitle": "Pezani Chithunzi Chofanana: Masewera Osavuta a Dementia",
+    "h1": "Pezani Chithunzi Chofanana",
+    "description": "Chithunzi chimodzi pamwamba, ziwiri kapena zinayi pansi. Khudzani chimene chili chofanana nacho. Masewera odekha komanso aulere a zithunzi a anthu okhala ndi vuto la dementia, opanda wotchi.",
+    "short": "Yang'anani chithunzi chapamwamba ndikukhudza chofanana nacho pansi.",
+    "players": "Munthu 1 kapena 2",
+    "intro": "Chithunzi chimodzi chimakhala pamwamba pa sikirini. Pansi pake pamakhala zithunzi ziwiri, zitatu kapena zinayi. Khudzani chithunzi chimene chili chofanana. Ndi kusankha kumodzi kosavuta pa nthawi imodzi, kukhala ndi mwayi wokwanira wocheza.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Sankhani zithunzi ziwiri, zitatu kapena zinayi zoti musankhepo. Ziwiri ndiye zosavuta kwambiri.",
+      "Yang'anirani limodzi chithunzi chapamwamba.",
+      "Khudzani chithunzi chofanana nacho pansi. Chimayikidwa chizindikiro chovomereza pamodzi ndi mawu ochepa ofunda.",
+      "Ngati chakhudzidwa chithunzi chosiyana, masewerawa amangotchula dzina lake ndikudikirira. Tengani nthawi yanu.",
+      "Khudzani \"Chithunzi chotsatira\" mukakhala okonzeka kupita pa china."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Kambiranani za chithunzi chilichonse musanasankhe: mitundu, maonekedwe, kapena komwe mungachione.",
+      "Zosankha ziwiri sizitanthauza kuti ndi \"zosavuta mopitirira\". Cholinga ndi kukhala ndi nthawi yosangalatsa, osati mayeso.",
+      "Ngati kukhudza kuli kovuta, munthuyo akhoza kuloza ndipo inu n'kumukhudzira."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena masikoro?",
+        "a": "Ayi. Palibe wotchi, masikoro, kuwerengera mayendedwe kapena kulephera. Mutha kusiya nthawi ina iliyonse, ndipo kusiya pakati ndi njira yabwino kwambiri yomalizira."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kodi chimachitika n'chiyani ngati chakhudzidwa chithunzi cholakwika?",
+        "a": "Palibe chosasangalatsa chilichonse. Palibe phokoso lochenjeza, mtanda wofiira kapena kugwedezeka. Masewerawa amangotchula chithunzi chimene chakhudzidwacho ndikudikirira kukhudzidwanso kwina."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi ndi zaulere, nanga ndikufunika kulembetsa?",
+        "a": "Inde, ndi zaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa. Zimagwira ntchito mu msakatuli pa foni, tabuleti kapena kompyuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kufananiza mthunzi",
+    "seoTitle": "Masewera Olinganiza Mthunzi a Dementia: Zaulere pa Intaneti",
+    "h1": "Kufananiza Mthunzi: Masewera Odekha a Zithunzi",
+    "description": "Mthunzi wakuda pamwamba, zithunzi ziwiri kapena zinayi pansi. Khudzani chithunzi chimene chikupanga mthunziwo. Masewera aulere komanso odekha olinganiza mthunzi a anthu okhala ndi dementia, opanda wotchi.",
+    "short": "Yang'anani mthunziwo ndikukhudza chithunzi chimene chikupanga mthunziwo.",
+    "players": "Munthu 1 kapena 2",
+    "intro": "Kufananiza mthunzi ndi ntchito yodziwika bwino yopezeka pamapepala osindikiza, koma pano pali zithunzi zazikulu ndipo palibe chosindikiza. Mthunzi wooneka bwino umakhala pamwamba pa sikirini ndipo zithunzi ziwiri, zitatu kapena zinayi zimakhala pansi. Khudzani chithunzi chimene chikupanga mthunziwo. Zinthu monga njinga, ambulera kapena kapu ya tiyi n'zosavuta kukambirananso.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Sankhani zithunzi ziwiri, zitatu kapena zinayi zoti musankhepo. Ziwiri ndiye zosavuta kwambiri.",
+      "Yang'anirani limodzi mthunziwo. Ndi wooneka bwanji? Ndi woutali kapena wozungulira?",
+      "Khudzani chithunzi chimene chikupanga mthunziwo. Dzina lake lidzaonekera pansi pa mthunziwo.",
+      "Ngati chakhudzidwa chithunzi chosiyana, masewerawa amangotchula dzina lake ndikudikirira. Tengani nthawi yanu.",
+      "Khudzani \"Mthunzi wotsatira\" mukakhala okonzeka kupita pa wina."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Tsatani m'mbali mwa mthunziwo ndi chala ndikukambirana mmene ulili.",
+      "Ngati mithunzi ikuoneka yovuta lero, sinthani n'kupita pa Pezani chofanana, komwe zithunzi zake zimakhala zofanana.",
+      "Kambiranani za chithunzicho chikapezeka: \"Tinalinso ndi ambulera yotere.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena masikoro?",
+        "a": "Ayi. Palibe wotchi, masikoro, kuwerengera mayendedwe kapena kulephera. Mutha kusiya nthawi ina iliyonse, ndipo kusiya pakati ndi njira yabwino kwambiri yomalizira."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Kodi kufananiza mithunzi n'kwabwino kwa anthu omwe ali ndi dementia?",
+        "a": "Ikhoza kukhala masewera osangalatsa komanso osavuta kwa anthu ena, makamaka m'magawo oyambirira. Maonekedwe ndi osavuta kuzindikira kuposa mawu. Ndi a chisangalalo ndi kukambirana, osati mayeso, ndipo sichichiritsa, kuchepetsa kapena kuteteza dementia. Ngati zikukhumudwitsa, yesani Pezani zofanana kapena ingoyang'anani zithunzi pamodzi."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Nanga chimachitika chiyani ngati wina wasindikiza chithunzi cholakwika?",
+        "a": "Palibe chosasangalatsa. Palibe phokoso, chizindikiro chofiira kapena kugwedezeka. Masewerawa amatchula chithunzi chimene chasindikizidwa ndipo amadikira kusindikiza kotsatira."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi n'kwaulere, ndipo ndiyenera kulembetsa?",
+        "a": "Inde, n'kwaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa chilichonse. Imagwira ntchito mu msakatuli wa pa webusaiti pa foni, tabuleti kapena kompyuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Konzani pamodzi",
+    "seoTitle": "Masewera Okonza Zithunzi a Dementia: Konzani Pamodzi",
+    "h1": "Konzani Pamodzi: Ntchito Yokonza Zithunzi",
+    "description": "Sindikizani chithunzi, kenako sindikizani dengu limene n'kugwirizana nalo: khitchini kapena munda, zipatso kapena nyama. Masewera odekha komanso aulere okonza zithunzi kwa anthu omwe akukhala ndi dementia.",
+    "short": "Ikani chithunzi chilichonse m'dengu lake: khitchini kapena munda, ndi zina.",
+    "players": "Munthu 1 kapena 2",
+    "intro": "Kukonza zinthu ndi ntchito yodziwika ya tsiku ndi tsiku yomwe imakondweretsa, monga kuika zinthu za kukhitchini kapena kufananiza masokisi. Sindikizani chithunzi, kenako sindikizani dengu limene chiyenera kukhala. Palibe chifukwa chothamangira, ndipo palibe njira yolakwika.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Sankhani mutu: khitchini ndi munda, zipatso ndi nyama, kapena kwathu ndi ulendo.",
+      "Sindikizani chithunzi. Chidzalandira malire agolide.",
+      "Sindikizani dengu limene chithunzicho chiyenera kukhala. Chidzalowa m'dengulo.",
+      "Ngati chiyenera kukhala m'dengu linalo, masewerawo adzanena izi modekha ndipo adzadikira.",
+      "Zithunzi zonse zikakonzedwa, yang'anani madengu pamodzi."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "M'moyo weniweni, nthawi zambiri palibe yankho lolakwika. Ngati wina akuti chothirira madzi chiyenera kukhala kukhitchini, mufunseni chifukwa chake. Mwina mudzamva nkhani yabwino.",
+      "Gwiritsani ntchito zithunzi ngati chiyambi cha kukambirana: \"Munkalima chiyani m'munda mwanu?\"",
+      "Kukonza zinthu zenizeni, monga supuni ndi mafoloko kapena mabatani ndi mtundu wake, ndi njira yabwino yotsatira kunja kwa chinsalu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena mphambu?",
+        "a": "Ayi. Palibe wotchi, mphambu, kuwerengera mayendedwe kapena kugonja. Mutha kusiya nthawi iliyonse, ndipo kusiya pakati ndi njira yabwino yomalizira."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "N'chifukwa chiyani kukonza?",
+        "a": "Anthu ambiri amakonda kukonza chifukwa kumamveka ngati ntchito yothandiza komanso yodziwika. Ndiponso n'kosavuta kukambirana za zithunzi pamene mukupitiriza."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi n'kwaulere, ndipo ndiyenera kulembetsa?",
+        "a": "Inde, n'kwaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa chilichonse. Imagwira ntchito mu msakatuli wa pa webusaiti pa foni, tabuleti kapena kompyuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ya zithunzi",
+    "seoTitle": "Puzzle Yosavuta ya Dementia: Zidutswa 4 kapena 9",
+    "h1": "Puzzle ya Zithunzi: Puzzle Yosavuta",
+    "description": "Puzzle yosavuta ya pa intaneti kwa anthu omwe akukhala ndi dementia: zidutswa 4 kapena 9 zazikulu, chithunzi chonse chimakhalabe chowoneka, ndipo mumasindikiza zidutswa ziwiri kuti musinthane.",
+    "short": "Sindikizani zidutswa ziwiri kuti musinthane mpaka chithunzi chikhale chokwanira.",
+    "players": "Munthu 1 kapena 2",
+    "intro": "Chithunzi chokongola chimadulidwa kukhala zidutswa zinayi kapena zisanu ndi zinayi zazikulu ndi kusakanizidwa. Chithunzi chonse chimakhalabe chowoneka ngati chitsogozo. Sindikizani chidutswa chimodzi, kenako china, ndipo zidzasinthana malo. Sikofunikira kukokera.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Sankhani chithunzi ndi zidutswa 4 kapena 9. Zinayi ndi chiyambi chodekha.",
+      "Yang'anani chithunzi chonse pamwamba.",
+      "Sindikizani chidutswa, kenako sindikizani malo kumene chiyenera kukhala. Zidutswa ziwiri zidzasinthana.",
+      "Zidutswa zomwe zili pamalo oyenera zidzalandira chizindikiro chaching'ono cha tiki.",
+      "Chithunzi chikakhala chokwanira, sangalalani pamodzi, kenako sankhani china."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kusindikiza zidutswa ziwiri kuti musinthane n'kosavuta kwambiri kuposa kukokera, kwa anthu ambiri.",
+      "Kambiranani za chithunzi pamene chikukonzedwa: \"Apa pali denga lofiira.\"",
+      "Puzzle yeniyeni ya matabwa ya zidutswa 12 mpaka 24 zazikulu ndi chinthu chokongola cha patebulo nayonso."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena mphambu?",
+        "a": "Ayi. Palibe wotchi, mphambu, kuwerengera mayendedwe kapena kugonja. Mutha kusiya nthawi iliyonse, ndipo kusiya pakati ndi njira yabwino yomalizira."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Kodi ndiyenera kukokera zidutswa?",
+        "a": "Ayi. Sindikizani chidutswa chimodzi, kenako china, ndipo zidzasinthana malo. Izi n'zosavuta ngati dzanja likunjenjemera kapena pa chinsalu chaching'ono."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi n'kwaulere, ndipo ndiyenera kulembetsa?",
+        "a": "Inde, n'kwaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa chilichonse. Imagwira ntchito mu msakatuli wa pa webusaiti pa foni, tabuleti kapena kompyuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Malizitsani mwambi",
+    "seoTitle": "Malizitsani Mwambi: Masewera a Miyambi kwa Okalamba",
+    "h1": "Malizitsani Mwambi",
+    "description": "Miyambi yodziwika ndi mawu otsiriza osowa. Sankhani yankho kapena onetsani mathero, kenako kambiranani za iyo.",
+    "short": "Malizitsani miyambi yodziwika pamodzi, kenako kambiranani za iyo.",
+    "players": "1, 2 kapena gulu",
+    "intro": "Miyambi yakale nthawi zambiri imadziwika kwa moyo wonse. Khadi lililonse limasonyeza mwambi wodziwika ndi mawu otsiriza osowa, zisankho zitatu, ndi batani la \"Onetsani mathero\". Mathero akawonekera, funso lodekha limakuitanani kukambirana.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Werengani mwambiwo mokweza pamodzi.",
+      "Sankhani mawu omalizitsa kapena sindikizani \"Onetsani mathero\".",
+      "Werengani mwambi wonse kachiwiri ndipo kambiranani pogwiritsa ntchito funsoli.",
+      "Sindikizani \"Mwambi wotsatira\" mukakonzeka."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Werengani pang'onopang'ono ndipo siyani kaleka pang'ono musanatchule mawu omaliza. Nthawi zambiri anthu amanena mawuwo musanamalize.",
+      "Ngati wina apereka mathero osiyana, sangalalani nawo. Mitundu ina ya miyambi imasiyana malinga ndi banja kapena dera.",
+      "Mu gulu, munthu m'modzi amawerenga ndipo onse amalowa nawo pomaliza."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena mphambu?",
+        "a": "Ayi. Palibe wotchi, mfundo, kauntala ya masitepe kapena kutaya. Mukhoza kuyimitsa nthawi iliyonse, ndipo kuyimitsa pakati ndi njira yabwino yomalizira."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Nanga ngati tisankha mawu ena?",
+        "a": "Masewerawa amaonetsa kutha kwake kwanthawi zonse ndipo amapitiriza ku kukambirana. Palibe mfundo, ndipo yankho lina ndi lolandirika."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi ndi kwaulere, ndipo ndiyenera kulembetsa?",
+        "a": "Inde, ndi kwaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa. Imagwira ntchito pa msakatuli wa pa foni, tabuleti kapena kompyuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Masewera a mawu a zilembo zazikulu",
+    "seoTitle": "Masewera a Mawu a Zilembo Zazikulu kwa Dementia, Osindikizidwa",
+    "h1": "Masewera a Mawu a Zilembo Zazikulu",
+    "description": "Masewera aulere a mawu a zilembo zazikulu kwa okalamba ndi anthu omwe ali ndi dementia. Mawu ochepa, zilembo zazikulu, mawu olembedwa molunjika kapena pansi pokha. Sewerani pa intaneti kapena sindikizani.",
+    "short": "Zilembo zazikulu, mawu ochepa, molunjika kapena pansi pokha. Sindikizaninso.",
+    "players": "Anthu 1 kapena 2",
+    "intro": "Gridi yaing'ono yokhala ndi zilembo zazikulu ndi mawu ochepa chabe, onse olembedwa molunjika kapena pansi. Dinani chilembo choyamba cha mawu, kenako chilembo chake chomaliza. Mukonda pepala? Sindikizani puzzle yatsopano ndi dinani limodzi.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Sankhani mutu ndi kukula kwa gridi.",
+      "Yang'anani mndandanda wa mawu. Mawu amawerengedwa molunjika (kumanzere kupita kumanja) kapena pansi (kuchokera pamwamba kupita pansi).",
+      "Dinani chilembo choyamba cha mawu, kenako dinani chilembo chake chomaliza.",
+      "Mawu opezeka amaonekera mwamtundu ndipo amachotsedwa pamndandanda.",
+      "Dinani \"Sindikizani puzzle iyi\" kuti musewere pa pepala ndi pensulo kapena cholembera."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Lozerani mawu pamndandanda ndipo fufuzani chilembo chake choyamba pamodzi.",
+      "Pa pepala, cholembera chowunikira n'chosavuta kugwira kusiyana ndi pensulo.",
+      "Kambiranani mawu a mutu. Mawu a zipatso ndi njira yachilengedwe yobweretsera kukumbukira za kukolola, kuphika kapena msika."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena mfundo?",
+        "a": "Ayi. Palibe wotchi, mfundo, kauntala ya masitepe kapena kutaya. Mukhoza kuyimitsa nthawi iliyonse, ndipo kuyimitsa pakati ndi njira yabwino yomalizira."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Kodi ndingasindikize masewera a mawu?",
+        "a": "Inde. Dinani \"Sindikizani puzzle iyi\" kuti musindikize gridi yomwe ilipo mu zilembo zazikulu, ndi mndandanda wa mawu pansi pake. Puzzle iliyonse yatsopano ndi yosiyana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi ndi kwaulere, ndipo ndiyenera kulembetsa?",
+        "a": "Inde, ndi kwaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa. Imagwira ntchito pa msakatuli wa pa foni, tabuleti kapena kompyuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Mapepala ojambula",
+    "seoTitle": "Mapepala Ojambula kwa Akuluakulu Omwe Ali ndi Dementia (Aulere)",
+    "h1": "Mapepala Ojambula",
+    "description": "Mapepala ojambula osavuta kwa akulu, okhala ndi malo akulu: dinani mtundu, kenako dinani chithunzi. Palibe chisokonezo, palibe mitundu yolakwika, ndipo tsamba lililonse likhoza kusindikizidwa kwaulere.",
+    "short": "Dinani mtundu, kenako mbali ya chithunzi. Sindikizaninso mapepala.",
+    "players": "Anthu 1 kapena 2",
+    "intro": "Mapepala okhala ndi mawonekedwe akulu komanso osavuta: duwa mu mphika, nyumba, kapu ya tiyi, gulugufe ndi bwato lapanyanja. Dinani mtundu, kenako dinani mbali ya chithunzi kuti mudzaze. Palibe mitundu yolakwika.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Sankhani tsamba.",
+      "Dinani mtundu. Mtundu uliwonse uli ndi dzina lake lolembedwa pamenepo.",
+      "Dinani mbali ya chithunzi kuti mudzaze ndi mtundu umenewo.",
+      "Sinthani maganizo nthawi iliyonse mwa kudzazanso.",
+      "Dinani \"Sindikizani tsamba ili\" kuti mupeze tsamba lopanda kanthu lojambulira ndi pensulo kapena cholembera."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Perekani mitundu iwiri yosankha m'malo mwa seti yonse ngati kusankha kukuoneka kovuta.",
+      "Mitengo yofiirira ndi dzuwa labuluu ndi zolandirika. Cholinga ndi kusangalala ndi mitundu, osati kulondola.",
+      "Mapepala osindikizidwa amagwira bwino ntchito ndi zolembera zokhuthala kapena makrayoni, zomwe nzosavuta kugwira."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena mfundo?",
+        "a": "Ayi. Palibe wotchi, mfundo, kauntala ya masitepe kapena kutaya. Mukhoza kuyimitsa nthawi iliyonse, ndipo kuyimitsa pakati ndi njira yabwino yomalizira."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Kodi mapepalawa ndi a ana kwambiri?",
+        "a": "Tajambula zinthu zodekha komanso zosavuta m'malo mwa zithunzi zojambula, kotero mapepalawa ndi oyenera akulu. Mawonekedwe akulu amapangitsa kujambula kukhala kosavuta popanda kukhala ngati cha makanda."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi ndi kwaulere, ndipo ndiyenera kulembetsa?",
+        "a": "Inde, ndi kwaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa. Imagwira ntchito pa msakatuli wa pa foni, tabuleti kapena kompyuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Makadi okambirana",
+    "seoTitle": "Zoyambitsa Kukambirana kwa Dementia: Makadi a Zithunzi",
+    "h1": "Makadi Okambirana",
+    "description": "Makadi a zithunzi okhala ndi mafunso ofatsa oyambitsa kukambirana kwa anthu omwe ali ndi dementia: palibe mafunso oyesa, palibe mayankho olondola. Gwiritsani ntchito pa sikilini kapena sindikizani seti yonse.",
+    "short": "Makadi a zithunzi okhala ndi mafunso otseguka, ofatsa. Palibe mafunso oyesa.",
+    "players": "Anthu 2 kapena gulu",
+    "intro": "Khadi lililonse limaphatikiza chithunzi chodziwika ndi kuitana kotseguka kukambirana, monga \"Ndi nyengo yanji yomwe mumakonda kwambiri?\" Palibe mayankho olondola ndipo palibe chofunika kukumbukira. Sankhani mutu kapena sakanizani zonse.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Sankhani mutu, kapena sungani \"Makadi onse\".",
+      "Werengani funso mokweza ndipo yang'anani chithunzicho pamodzi.",
+      "Mvetserani, gawani yankho lanu, ndipo lolani kukambirana kuyende momasuka.",
+      "Dinani \"Khadi lotsatira\" mukakonzeka, kapena khalani pakhadi limodzi nthawi yayitali momwe mukufunira.",
+      "Dinani \"Sindikizani makadi onse\" kuti mudule seti ya pepala."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Yankhani funsoli nokha. Zimamveka ngati kukambirana, osati kufunsa mafunso.",
+      "Tsatirani nkhaniyo, osati zoona. Ngati tsatanetsatane wasintha, ndi bwino.",
+      "Ngati khadi likhudza chinthu chachisoni, vomerezani maganizo ndipo sunthani pang'onopang'ono ku khadi lina."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Chifukwa chiyani palibe mafunso akuti \"Mukukumbukira…?\"",
+        "a": "Mafunso oyesa kukumbukira angaoneke ngati mayeso ndipo angayambitse manyazi. Kuitana kotseguka monga \"Ndiuzeni za…\" kumalola aliyense kulowa nawo, mosasamala kanthu zomwe akukumbukira."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kodi ndingasindikize makadi?",
+        "a": "Inde. \"Sindikizani makadi onse\" imasindikiza seti yonse mu zilembo zazikulu, makadi angapo pa tsamba, okonzeka kudulidwa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi ndi kwaulere, ndipo ndiyenera kulembetsa?",
+        "a": "Inde, ndi zaulere, ndipo sipafunika kukhala ndi akaunti, kulembetsa kapena kutsitsa pulogalamu iliyonse. Zimagwira ntchito pa msakatuli wa pa foni, tabuleti kapena kompyuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Zithunzi zofananitsa",
+    "seoTitle": "Pangani Masewera Ofananitsa Pogwiritsa Ntchito Zithunzi za Banja",
+    "h1": "Zithunzi Zofananitsa: Fananitsani Zithunzi Zanu",
+    "description": "Sinthani zithunzi za banja lanu kukhala masewera osavuta ofananitsa zithunzi. Sankhani zithunzi 2 mpaka 6 pa chipangizo chanu; sizichoka pa msakatuli wanu ndipo sizikwezedwa pena paliponse.",
+    "short": "Sankhani zithunzi zanu nʼkuzifananitsa. Palibe chomwe chimakwezedwa pa intaneti.",
+    "players": "Anthu 2, atakhala limodzi pambali ndi pambali",
+    "intro": "Sankhani zithunzi ziwiri mpaka zisanu ndi chimodzi kuchokera pa foni, tabuleti kapena kompyuta yanu, ndipo zikhala masewera ofananitsa okhala ndi zithunzi zazikulu komanso zooneka bwino. Zithunzizi zimaonekera patsamba lino lokha. Sizikwezedwa pa intaneti, sizisungidwa kapena kugawidwa, ndipo zimazimiriratu mukatseka tsambali.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Dinani \"Sankhani zithunzi\" ndipo sankhani zithunzi ziwiri mpaka zisanu ndi chimodzi.",
+      "Chithunzi chilichonse chimatuluka kawiri. Dinani chimodzi, kenako dinani chinzake chofanana nacho.",
+      "Kambilanani za chithunzi chilichonse mukachipeza.",
+      "Mukamaliza, tsekani tsambali kapena dinani \"Chotsani zithunzi\". Palibe chomwe chimasungidwa."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Sankhani zithunzi zooneka bwino za zinthu zosangalatsa komanso zodziwika bwino: chiweto, dimba, malo omwe mumawakonda, kapena tsiku la ukwati.",
+      "Zithunzi za malo ndi zinthu zitha kukhala zosavuta kuposa nkhope za anthu, ndipo zimathandiza kupewa kuumiriza munthu kutchula mayina a anthu.",
+      "Pewani zithunzi za anthu omwe anamwalira ngati zingadzutse chisoni mwadzidzidzi, pokhapokha mutadziwa kuti zimawabweretsera mtendere mumtima."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Kodi zithunzi zanga zikukwezedwa pena paliponse?",
+        "a": "Ayi. Tsambali limangowerenga zithunzi zomwe mwasankha mwachindunji mu msakatuli wanu ndikuzionetsa pa chophimba chanu. Sizitumizidwa kwa ife kapena kwa wina aliyense, ndipo zimachoka mukatseka kapena kutsitsimutsa tsambali."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kodi pali wotchi kapena kuwerengera mfundo za zotsatira?",
+        "a": "Ayi. Palibe wotchi, kulemba mfundo, kuwerengera mayendedwe kapena kuluza. Mutha kuyima nthawi iliyonse, ndipo kusiyira panjira ndi njira yabwino kwambiri yomalizira."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Kodi ndingasunge masewerawa kuti tidzasewerenso nthawi ina?",
+        "a": "Ayi, sitingachite zimenezo mu msakatuli pofuna kuteteza zinsinsi zanu, kotero palibe chilichonse chachinsinsi chomwe chimasungidwa. Pulogalamu yaulere ya Golden Moments ya iPhone ndi iPad imatha kusunga makope a zithunzi zomwe mwasankha pa chipangizo chanu."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ya zithunzi",
+    "seoTitle": "Bingo ya Zithunzi ya Anthu Achikulire Amene Ali ndi Vuto Loiwalaiwala: Yosindikiza",
+    "h1": "Bingo ya Zithunzi ya Magulu",
+    "description": "Bingo ya zithunzi yaulere yosindikiza ya magulu a anthu achikulire ndi omwe ali ndi vuto la kukumbukira, yokhala ndi chionetsero chachikulu pa chophimba. Zithunzi zazikulu zokhala ndi mawu, mabokosi 9 kapena 16, popanda kufunika koti munthu adziwe kuwerenga.",
+    "short": "Makhadi a bingo ya zithunzi osindikiza komanso chionetsero cha pa chophimba chachikulu cha magulu.",
+    "players": "Gulu la anthu 2 mpaka 30",
+    "intro": "Masewera a bingo achizolowezi okhala ndi zithunzi m'malo mwa manambala, kuti pasakhale aliyense wofunika kuwerenga zilembo zazing'ono. Sindikizani makhadi osiyanasiyana, kenako gwiritsani ntchito chionetsero cha pa chophimba kuti muonetse chithunzi chilichonse chachikulu pa TV, laputopu kapena tabuleti.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Sankhani mabokosi 9 kapena 16 pa khadi lililonse komanso chiwerengero cha osewera.",
+      "Dinani \"Sindikizani makhadi\". Khadi lililonse ndi losiyana ndi linzake.",
+      "Tsegulani chionetserocho pa chophimba chachikulu. Dinani \"Chithunzi chotsatira\" kuti muonetse chithunzi chilichonse pamodzi ndi dzina lake.",
+      "Osewera amaphimba chithunzi chofanana pa khadi lawo pogwiritsa ntchito ndalama yachitsulo, batani kapena cholembera.",
+      "Aliyense amene wamaliza mzere, kapena khadi lonselo, amamuchomera mʼmanja mosangalala. Palibe woluza m'masewerawa: pitirizani kusewera mpaka aliyense atamaliza mzere."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Gwiritsani ntchito zinthu zazikulu monga zotsekera mabotolo kapena zidutswa za drafti. Mabatani aang'ono amatha kukhala ovuta kuwanyamula m'manja.",
+      "Tchulani chithunzicho ndi kufotokozapo kanthu: \"Bwato lamatanga. Ndani anakwerapo bwato mʼmbuyomu?\"",
+      "Khalitsani anthu omwe ali ndi vuto loona pafupi kwambiri ndi chophimba, ndipo phatikizani othandizira ndi osewera omwe akufunika thandizo.",
+      "Mabokosi asanu ndi anayi ndi okwanira bwino kwa magulu ambiri. Chitani masewerawa kwa pafupifupi mphindi 20 mpaka 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kodi ndingatsogolere bwanji bingo ya zithunzi m'nyumba yosamalira anthu achikulire?",
+        "a": "Sindikizani khadi limodzi pa wosewera aliyense, ikani chionetserocho pa chophimba chachikulu kwambiri chimene muli nacho, ndipo tchulani zithunzizo modekha, kutchula chilichonse ndi dzina lake. Sewerani mpaka aliyense atamaliza mzere, kuti pasakhale wotsalira."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Kodi ndi zaulere kusindikiza?",
+        "a": "Inde. Sindikizani makhadi ochuluka mmene mukufunira, pafupipafupi mmene mukufunira, kuti mugwiritse ntchito panokha kapena m'gulu."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Kodi anthu angasewere popanda kudziwa kuwerenga?",
+        "a": "Inde. Bokosi lililonse lili ndi chithunzi chachikulu, chokhala ndi dzina lake pansi pake kwa iwo amene amakonda kuwerenga mawu."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Kupuma modekha",
+    "seoTitle": "Kupumula Modekha kwa Anthu Achikulire ndi Owasamalira",
+    "h1": "Kupumula Modekha",
+    "description": "Nthawi yabata yopumira limodzi modekha: bwalo losavuta limakula ndikuchepa pa maulendo 6 a kupuma. Mumaliyambitsa nokha, ndipo mutha kuyimitsa nthawi iliyonse.",
+    "short": "Bwalo lomwe limayenda modekha kuti muzipumira limodzi nalo. Yambitsani ndi kuyimitsa nthawi iliyonse yomwe mukufuna.",
+    "players": "Munthu 1 kapena anthu 2",
+    "intro": "Nthawi zina chinthu chabwino kwambiri chimangokhala kupumula mwabata. Dinani \"Yambani\", kenako pumirani mkati pamene bwalo likukula ndi kutulutsa mpweya pamene likuchepa. Sankhani kayendedwe kocheperapo kapena kofulumirapo. Si chithandizo chamankhwala, koma ndi mphindi yabata yongogawana limodzi.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Khalani bwino pambali ndi pambali.",
+      "Sankhani kayendedwe: wodekha kapena wofatsa.",
+      "Dinani \"Yambani\". Pumirani mkati pamene bwalo likukula, ndipo tulutsani mpweya pamene likuchepa.",
+      "Limayima lokha pakapita maulendo 6 opuma, kapena dinani \"Imitsani\" nthawi iliyonse yomwe mukufuna."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Gwirani m'manja kapena ikani dzanja pa mkono wa munthu amene mukumusamalirayo ngati akusangalala nazo.",
+      "Musaumirize nʼkomwe. Ngati akufuna kungopenyerera, zilibe vuto lililonse.",
+      "Ngati wina ali ndi vuto la kupuma, apume mwachizolowezi ndikungopenyerera bwalolo. Funsani dokotala pa vuto lililonse lokhudza kupuma."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Kodi uku ndi masewera olimbitsa thupi a kupuma a kuchipatala?",
+        "a": "Ayi. Ndi mpumulo wosavuta komanso wosakakamiza wofuna kubweretsa bata ndi kukhala limodzi. Si chithandizo cha nkhawa kapena vuto lililonse la thanzi. Lankhulani ndi dokotala ngati muli ndi nkhawa iliyonse yokhudza thanzi."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Kodi bwaloli limayenda popanda ine kulyambitsa?",
+        "a": "Ayi. Palibe chimene chimayenda mpaka mutakhudza Yambani, ndipo chimasiya pambuyo pa mpweya sikisi kapena mukakhudza Imani. Ngati chipangizo chanu chakhazikitsidwa kuti chepetse kuyenda, mawu amasintha popanda bwalo kukula."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kodi ndi kwaulere, ndipo ndiyenera kulembetsa?",
+        "a": "Inde, ndi kwaulere, ndipo palibe akaunti, kulembetsa kapena kutsitsa. Imagwira ntchito mu msakatuli (browser) pa foni, piritsi kapena kompyuta."
       }
     ]
   }

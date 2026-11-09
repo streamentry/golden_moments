@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Пређи на главни садржај",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Активности за особе с деменцијом",
+    "homeLabel": "Golden Moments, почетна страница",
+    "mainNav": "Главна навигација",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Српски",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: велике, пријатне слике шоље чаја, сунцокрета и пса",
+    "languages": "Језик",
+    "englishOnly": "(енглески)",
+    "machineTranslated": "Ова страница је преведена аутоматски и још је није прегледао изворни говорник.",
+    "readOriginal": "Прочитајте оригинал на енглеском",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Игре",
+      "activities": "Активности",
+      "caregiving": "Брига о другима",
+      "brainHealth": "Здравље мозга"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Питања и одговори",
+    "breadcrumb": "Путања",
+    "home": "Почетна",
+    "lastUpdated": "Последње ажурирање",
+    "topics": "Теме",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Величина текста",
+      "smaller": "Стандардни текст",
+      "larger": "Већи текст",
+      "contrast": "Већи контраст"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Игре",
+    "picturePairs": "Парови слика",
+    "conversationCards": "Картице за разговор",
+    "pictureBingo": "Бинго са сликама",
+    "allGames": "Све игре",
+    "pictures": "Слике за штампање",
+    "activityIdeas": "Идеје за активности",
+    "ideas101": "101 идеја за активности",
+    "lateStage": "Активности за поодмакли стадијум",
+    "printable": "Активности за штампање",
+    "allActivities": "Све активности",
+    "forCaregivers": "За негаваоце",
+    "playTogether": "Како се заједно играти",
+    "selfCare": "Брига о себи",
+    "brainHealth": "Истраживања о здрављу мозга",
+    "faq": "Питања и одговори",
+    "about": "О нама",
+    "approach": "Наш приступ",
+    "howWeWrite": "Како пишемо",
+    "organizations": "За организације",
+    "app": "Апликација Golden Moments",
+    "appHelp": "Помоћ за апликацију",
+    "support": "Подршка",
+    "legal": "Правне информације",
+    "sitePrivacy": "Приватност на сајту",
+    "appPrivacy": "Политика приватности апликације",
+    "privacyChoices": "Избори у вези с приватношћу",
+    "terms": "Услови и лиценца за апликацију",
+    "safety": "Безбедност и намена",
+    "accessibility": "Приступачност",
+    "healthNotice": "Обавештење о здравственим информацијама",
+    "allLegal": "Све правне информације",
+    "note": "Golden Moments нуди једноставне заједничке активности за уживање. То није медицински савет, тест или лечење и никога не дијагностикује, не мери и не оцењује. За здравствена питања обратите се лекару. У хитном случају позовите 112.",
+    "publisher": "Издавач: Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Игре и активности за деменцију и Алцхајмерову болест | Golden Moments",
+    "description": "Бесплатне, нежне игре са сликама за играње на мрежи и идеје за активности за особе које живе с деменцијом или Алцхајмеровом болешћу и за њихове негаваоце. Без регистрације, тајмера и бодова.",
+    "eyebrow": "Бесплатно · Без реклама · Без регистрације · Без тајмера и бодова",
+    "h1": "Нежне игре и активности за особе са деменцијом",
+    "lede": "Једноставне игре са сликама, познате фотографије и активности које можете заједно да уживате, својим темпом.",
+    "playGame": "Играјте игру",
+    "findIdeas": "Пронађите идеје за активности",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Ради на телефону, таблету и рачунару",
+      "Велике слике остају видљиве",
+      "Прекините кад год желите; нема грешака"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Такође бесплатна апликација за iPhone, iPad и Android, са вашим породичним фотографијама",
+    "albumNote": "„Две слике шоље чаја, заједно.“",
+    "gamesEyebrow": "Играјте у прегледачу",
+    "gamesTitle": "Игре које можете одмах да играте",
+    "gamesLede": "Свака је смирена, намењена одраслима и брзо се покреће. Изаберите једну, седите једно поред другог и наизменично додирујте слике.",
+    "seeAllGames": "Погледајте свих {count} игара",
+    "howTitle": "Како функционише",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Изаберите нешто познато",
+        "text": "Слике шоља, башти, кућних љубимаца и једрилица. Не треба прво учити читање или правила."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Седите једно поред другог",
+        "text": "Нека они додирују. Причајте о сликама. Слика која не одговара само чека следећи додир."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Станите кад је добро",
+        "text": "Једна игра је цела активност. Дугме „За сада је доста“ је увек на екрану."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Изван екрана",
+    "stageTitle": "Идеје за активности за сваки стадијум",
+    "stageLede": "Музика, свакодневни послови, сећања и тихи чулни тренуци, прилагођени ономе што је сада пријатно.",
+    "ideas101": "101 идеја за активности",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Рани стадијум",
+        "text": "Наставите да радите оно што воле, уз мала прилагођавања: хобији, излети, игре речи и заједничко планирање.",
+        "label": "Идеје за рани стадијум"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Средњи стадијум",
+        "text": "Једноставни, познати послови подељени на кораке: слагање, разврставање, музика, игре са сликама и кратке шетње.",
+        "label": "Идеје за средњи стадијум"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Поодмакли стадијум",
+        "text": "Удобност и повезаност кроз додир, звук и вид: нега руку, омиљене песме, фотографије и заједничко бивање.",
+        "label": "Идеје за поодмакли стадијум"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Тражите нешто посебно? Пробајте <a href=\"/activities/alzheimers/\">активности и игре за Алцхајмерову болест</a>, <a href=\"/activities/memory-games/\">нежне игре памћења</a>, <a href=\"/activities/trivia/\">лака квиз питања</a> или <a href=\"/activities/puzzles/\">слагалице</a>.",
+    "approachEyebrow": "Наш приступ",
+    "approachTitle": "Заједничка активност, а не тест памћења",
+    "approachLede": "Многе „игре за мозак“ засноване су на брзини, бодовима и низовима. За особу са деменцијом то може да делује као испит. Ми смо направили супротно.",
+    "approachLink": "Зашто дизајнирамо овако",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Нема грешке",
+        "text": "Нема сата, бодова, живота ни губљења. Друга слика је пауза, а не грешка."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Слике остају видљиве",
+        "text": "Препознавање уместо присећања. Упаривање почиње са окренутим лицем, па нема шта да се памти."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "За одрасле и с достојанством",
+        "text": "Топле, једноставне речи и стварне слике. Никад цртани филмови или детињаста прича."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Приватно по дизајну",
+        "text": "Без налога и реклама. Ваше фотографије никад не напуштају ваш уређај."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "За негаваоце",
+    "guidesTitle": "Практични водичи за свакодневну негу",
+    "allCaregiving": "Сви водичи за негу",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Како заједно играти игре",
+        "text": "Припрема, темпо и шта радити кад игра престане да буде пријатна."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Кад кажу „не“ активности",
+        "text": "Чести разлози за одбијање и нежни начини да се поново покуша касније."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Подешавање таблета",
+        "text": "Већи текст, мање прекида и један једноставан почетни екран."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Бесплатне активности за штампање",
+        "text": "Тестови речи великим словима, бојанке, бинго и картице за разговор."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Здравље мозга: шта истраживања заиста кажу",
+    "researchText": "Може ли се деменција спречити? Помажу ли игре за мозак? Шта је са постом, исхраном, сном и слухом? Једноставни одговори са изворима, укључујући и места где су докази слаби.",
+    "researchLink": "Прочитајте водиче о истраживањима",
+    "appEyebrow": "И апликација",
+    "appTitle": "Golden Moments на iPhone-у, iPad-у и Android-у",
+    "appText": "Бесплатна апликација ради без интернета и може да користи породичне фотографије које изаберете, сачуване као копије на вашем уређају. Исти смирен дизајн: четири велика поља, без тајмера и без бодова.",
+    "aboutApp": "О апликацији",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Које су добре игре за особе са деменцијом?",
+        "a": "Добре игре су једноставне, познате и без притиска: велике слике за упаривање, разврставање, лаке слагалице, допуњавање познатих изрека, бојење, бинго са сликама и картице за разговор. Најбољи избор је онај који особи данас прија. Избегавајте тајмере, бодове и све што личи на тест."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Да ли су ове игре за деменцију бесплатне?",
+        "a": "Да. Свака игра и штампани материјал на Golden Moments је бесплатна, без налога, регистрације или преузимања. Игре раде у веб прегледачу на телефону, таблету или рачунару."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Да ли игре за мозак спречавају деменцију?",
+        "a": "Ниједна игра није показала да спречава деменцију, а Golden Moments не тврди да лечи или спречава било шта. Наше игре служе за уживање и заједничко време. Наш одељак о здрављу мозга објашњава шта истраживања показују, а шта не."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Да ли су ове игре погодне за особу са Алцхајмеровом болешћу?",
+        "a": "Да. Алцхајмерова болест је најчешћи узрок деменције, а игре су направљене баш за то: велике слике које остају видљиве, мало избора и ништа што треба запамтити или погрешно урадити. Упаривање, разврставање и допуњавање познатих изрека ослањају се на дугогодишње знање, а не на учење нечега новог."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Могу ли особе у касној фази деменције да користе ове активности?",
+        "a": "Често могу, уз некога ко је поред њих. Почните са играма „Пронађи исто са две слике“, „Парови слика са четири плочице“, страницом за бојење или смиреним предахом уз дисање. Држите то кратко, пратите њихов ритам и станите кад им је доста."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Да ли су моји подаци приватни?",
+        "a": "Сајт нема налоге и нема реклама. Користимо Google Analytics да бисмо разумели које странице се посећују. Фотографије које изаберете за „Парове фотографија“ приказују се само у вашем прегледачу и никад се не отпремају."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Ко прави Golden Moments?",
+        "a": "Golden Moments је мали тим који прави мирне активности са сликама за одрасле, за породице и неговатеље, на вебу и као бесплатну апликацију. Ми нисмо лекари и ништа овде није медицински савет."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "рана",
+    "middle": "средња",
+    "late": "касна",
+    "hintOne": "Често одговара {list} фази",
+    "hintMany": "Често одговара {list} фазама",
+    "labelEarly": "Рана фаза",
+    "labelMiddle": "Средња фаза",
+    "labelLate": "Касна фаза"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "О овој игри",
+    "printable": "За штампу",
+    "play": "Играј {name} →",
+    "readGuide": "Прочитајте водич"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Спремни за нежну игру?",
+    "text": "Велике слике, без тајмера, без бодова и без ичега за регистровање. Играјте заједно у прегледачу.",
+    "play": "Играј игру",
+    "all": "Погледајте све игре",
+    "aria": "Играј игру"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Понесите ове игре са собом",
+    "text": "Бесплатна апликација Golden Moments за iPhone, iPad и Android: велике плочице са сликама, игре са вашим породичним фотографијама и пакети слика који раде без Wi‑Fi везе. Без налога, реклама, тајмера и бодова.",
+    "appStore": "Преузмите на App Store-у",
+    "googlePlay": "Преузмите на Google Play-у",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "О апликацији",
+    "aria": "Преузмите апликацију"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Активности",
+      "title": "Активности за особе са деменцијом",
+      "seo": "Активности за особе са деменцијом: идеје по фазама",
+      "description": "Идеје за активности за особе са деменцијом у свакој фази: музика, присећање, свакодневни задаци, чулна искуства, рукотворине, боравак напољу и бесплатни штампани материјали.",
+      "lede": "Смислена активност је све што доноси утеху, сврху или тренутак повезаности. Почните од онога што је особа одувек волела и прилагодите то данашњем дану."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Нега",
+      "title": "Водичи за негу",
+      "seo": "Водичи за негу особа са деменцијом: практична свакодневна помоћ",
+      "description": "Практични и љубазни водичи за неговатеље особа са деменцијом: заједничке игре, комуникација, одбијања, немир у касним поподневним сатима, таблети, избор апликација и брига о себи.",
+      "lede": "Јасна, практична помоћ за свакодневне тренутке неговања особе са деменцијом, укључујући и бригу о себи."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Здравље мозга",
+      "title": "Здравље мозга: шта кажу истраживања",
+      "seo": "Здравље мозга и ризик од деменције: шта кажу истраживања",
+      "description": "Може ли се деменција спречити? Искрени водичи са изворима о факторима ризика за деменцију, играма за мозак, посту, исхрани, вежбању, сну, слуху и раним упозорењима.",
+      "lede": "Шта велике студије заиста показују о смањењу ризика од деменције, објашњено једноставно, укључујући и места где су докази слаби или мешовити. Општи подаци, не медицински савет."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Ажурирано",
+    "minuteRead": "Читање: {n} мин",
+    "byTeam": "Од тима Golden Moments",
+    "howWeWrite": "Како пишемо",
+    "shortAnswer": "Кратак одговор",
+    "onThisPage": "На овој страни ({n} одељака)",
+    "commonQuestions": "Често постављана питања",
+    "sources": "Извори",
+    "sourcesNote": "Линкујемо на организације и студије на којима се ова страна заснива. Свака је проверена када је страна ажурирана.",
+    "tryTogether": "Пробајте заједно",
+    "relatedGuides": "Слични водичи",
+    "related": "Слично",
+    "startHere": "Почните овде"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Обавештење о здравственим информацијама",
+    "title": "Општи подаци, не медицински савет",
+    "textHtml": "Ова страна сажима објављена истраживања за породице. Не може да вам каже шта је исправно за једну особу. Пре промене исхране, вежбања, сна, лекова или додатака исхрани, разговарајте са лекаром. За изненадну збуњеност или друге нагле промене, одмах потражите медицинску помоћ. <a href=\"/medical-disclaimer/\">Прочитајте наше обавештење о здравственим информацијама</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Заједничка активност, а не тест памћења",
+      "seoTitle": "О Golden Moments: наш приступ",
+      "description": "Зашто игре Golden Moments немају тајмере, бодове ни низове успеха, зашто слике остају видљиве и шта ћемо, а шта нећемо тврдити о деменцији.",
+      "crumb": "Наш приступ",
+      "lede": "Golden Moments прави мирне активности са сликама за одрасле, које неговатељ и особа са деменцијом могу да уживају једно поред другог.",
+      "bodyHtml": "<h2>У чему верујемо</h2><p>Смисао активности јесте сам тренутак: разговор, осмех, задовољство што сложите две слике или једноставно заједнички седите. Циљ није да некога мерите, гурате даље или нешто доказујете.</p><p>Многе апликације за вежбање мозга праве се око брзине, поена, низова узастопних успеха и нивоа. За особу која живи са деменцијом то може да буде као испит који не може да положи. Ми смо направили супротно и држимо се ових правила:</p><ul><li><strong>Нема неуспеха.</strong> Нема сата, поена, бројача потеза, живота, низова, конфетија ни одбројавања, ни на једном екрану.</li><li><strong>Препознавање уместо присећања.</strong> Слике су подразумевано видљиве. Подстицаји позивају на разговор и никада не испитују имена или успомене.</li><li><strong>Велико, јасно и стабилно.</strong> Велики текст и слике, јак контраст и дугмад која стоје на истом месту.</li><li><strong>Достојанство одраслог човека.</strong> Стварне фотографије и једноставне, топле речи. Без цртаћа, певушећих похвала и емотикона као награда.</li><li><strong>Лак излазак.</strong> „Довољно за сада” је увек видљиво. Прекид на пола пута је добар исход.</li><li><strong>Приватност подразумевано.</strong> Без налога и реклама. Фотографије које изаберете остају на вашем уређају.</li></ul><h2>Шта не тврдимо</h2><p>Наше игре служе за уживање и дружење. Не постављају дијагнозу, не испитују, не мере, не лече, не успоравају и не спречавају деменцију или Алцхајмерову болест, и нико их не би требало бирати из тог разлога. Када пишемо о истраживањима на нашим <a href=\"/brain-health/\">страницама о здрављу мозга</a>, јасно кажемо где су докази слаби и никада их не повезујемо са нашим игрицама.</p><h2>Ко смо</h2><p>Golden Moments је мали независни тим. Нисмо лекари. Наши водичи су написани на основу објављених смерница организација као што су National Institute on Aging и Alzheimer’s Association, а сваки водич наводи своје изворе. Прочитајте <a href=\"/editorial-policy/\">како пишемо и проверавамо наше странице</a>.</p><h2>Реците нам шта би помогло</h2><p>Волели бисмо да чујемо шта вам одговара, а шта не, посебно од особа које живе са деменцијом, чланова породице који брину о њима и особља у активностима. Пишите нам на <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Како пишемо и проверавамо наше странице",
+      "seoTitle": "Уређивачка политика",
+      "description": "Како Golden Moments истражује, пише, наводи изворе и ажурира своје странице о активностима за особе са деменцијом и о здрављу мозга, и шта никада нећемо објавити.",
+      "crumb": "Уређивачка политика",
+      "bodyHtml": "<h2>Наши извори</h2><p>Наше водиче заснивамо на јавним смерницама организација као што су National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance и NHS, као и на рецензираним истраживањима, на пример Cochrane прегледима и великим клиничким студијама. Сваки водич наводи изворе на које се ослања. Пре навођења отворимо сваки извор и пренесемо само оно што он заиста каже.</p><h2>Како пишемо</h2><ul><li>Прво практично: шта можете да урадите данас, простим језиком.</li><li>Искрени о доказима: користимо „повезано је са”, „може” и „докази нису једнозначни” када је то истина.</li><li>Уважавајући: о особама које живе са деменцијом пишемо као о одраслим људима и никада не користимо језик испитивања или стида.</li><li>Без измишљеног садржаја: без смишљене статистике, цитата, стручњака, студија, прегледа или препорука.</li></ul><h2>Ко проверава наше странице</h2><p>Странице пише и проверава тим Golden Moments, уз помоћ AI алата за писање, за истраживање и нацрте. Тим сваку страницу проверава у односу на изворе. Наше странице <strong>нису</strong> прегледали лекар или други клиничар и не тврдимо супротно. Оне су општа информација, а не медицински савет.</p><h2>Шта никада нећемо објавити</h2><ul><li>Тврдње да игра, храна, додатак исхрани, пост или рутина спречава, лечи, успорава или излечује деменцију.</li><li>Тестове, квизове или поене који сугеришу да неко има или нема деменцију.</li><li>Савете да се било који лек почне, прекине или промени.</li><li>Оглашавање или спонзорисани садржај који се представља као савет.</li></ul><h2>Ажурирања и исправке</h2><p>Свака страница показује датум последњег ажурирања. Ако нађете грешку или застарели извор, пишите нам на <a href=\"mailto:{email}\">{email}</a> и брзо ћемо проверити.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Питања и одговори",
+      "seoTitle": "Игре и активности за деменцију: питања и одговори",
+      "description": "Одговори на честа питања о играма и активностима за деменцију: које игре пробати, колико дуго играти, идеје за касније фазе, здравље мозга и приватност.",
+      "crumb": "Питања и одговори",
+      "lede": "Кратки, једноставни одговори на питања која неговатељи најчешће постављају.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "О играма",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Које су најбоље игре за особу са деменцијом?",
+              "a": "Најбоље игре су познате, једноставне и без притиска, а права је она која особи данас прија. Упаривање слика са видљивим сликама, разврставање, лаке слагалице, допуњавање познатих изрека, бојење и бинго са сликама добро функционишу за многе људе. Избегавајте тајмере, поене и све што личи на испит."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Да ли су игре заиста бесплатне?",
+              "a": "Да. Све игре и штампани материјали су бесплатни, без налога, пријаве, преузимања и огласа."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Зашто нема бодова, нивоа и тајмера?",
+              "a": "Брзина и бодови претварају пријатну активност у испит, а то може изазвати непријатност или фрустрацију. Ми се фокусирамо на уживање и заједничко време, тако да нема ничега у чему се може погрешити и можете стати у било ком тренутку."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Који уређаји су најпогоднији?",
+              "a": "Сваки телефон, таблет или рачунар са савременим интернет прегледачем. Таблет на постољу за столом је често најудобнији начин да две особе играју једна поред друге. Лаптоп повезан са телевизором добро функционише за групе."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Можемо ли да играмо са нашим породичним фотографијама?",
+              "a": "Да. Игра Парови фотографија претвара 2 до 6 фотографија које изаберете у игру упаривања. Фотографије остају у вашем прегледачу и не отпремају се нити чувају."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Активности и нега",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Колико треба да траје активност?",
+              "a": "Често су довољна 10 до 20 минута, а понекад је 2 минута већ успех. Пазите на знаке умора или фрустрације и станите док је још пријатно. Нема тачне мере."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Шта ако не жели да учествује у активности?",
+              "a": "Поштујте одбијање и покушајте поново касније или на други начин. Одбијање може доћи од умора, бола, несигурности или једноставно зато што није заинтересован. Погледајте наш водич о томе шта да радите када каже „не“."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Које активности одговарају касној фази деменције?",
+              "a": "Утеху и чула: слушање омиљене музике, масажу руку лосионом, заједничко гледање фотографија, држање меког ћебета, седење на ваздуху или веома једноставну игру са сликама уз некога ко седи поред. Наш водич за касну фазу садржи много више идеја."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Постоје ли активности за групе у дому за старе?",
+              "a": "Да. Слikovни бинго има штампане картице и вођу на екрану, а Довршите изреку и Картице за разговор добро функционишу када се читају наглас. Наш водич за групе у домовима за старе покрива величину групе, распоред седења и прилагођавање за различите способности."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Здравље мозга",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Могу ли игре да спрече деменцију или је успоре?",
+              "a": "Nijedna igra nije pokazala da sprečava demenciju, i naše igre ne daju takvo obećanje. Kognitivna stimulacija u društvenom okruženju pokazala je male koristi u istraživanjima za osobe sa blagom do umerenom demencijom, ali to je nešto drugo od toga da igra sprečava bolest. Mi nudimo igre za uživanje i druženje."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Може ли се деменција спречити?",
+              "a": "Не са сигурношћу. Истраживања повезују 14 здравствених и животних фактора са ризиком од деменције, на пример губитак слуха, висок крвни притисак, физичку неактивност и друштвену изолованост. Њихово решавање може смањити ризик за неке особе, али многи људи који раде све како треба ипак оболе од деменције. Никада није ничија кривица."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Да ли је испрекидано гладовање добро за здравље мозга?",
+              "a": "Докази на људима су ограничени и рани, а велики део истраживања је на животињама. Пост може бити ризичан за старије особе, посебно уз лекове за дијабетес или непланирани губитак тежине, и не препоручује се особама са деменцијом. Пре него што промените начин исхране, разговарајте са лекаром."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Приватност и безбедност",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Да ли прикупљате неке податке?",
+              "a": "Нема налога ни огласа. Користимо Google Analytics да бисмо бројали posete и видели које странице су корисне, а ваш прегледач памти да ли сте укључили благе звукове. Фотографије које изаберете за Парове фотографија никада се не отпремају. Погледајте обавештење о приватности за детаље."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Да ли је ово медицински савет?",
+              "a": "Не. Golden Moments је намењен рекреацији и општим информацијама. За здравствена питања разговарајте са лекаром, а у хитним случајевима позовите 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Више детаља: <a href=\"/caregiving/how-to-play-together/\">како играти заједно</a>, <a href=\"/caregiving/when-they-say-no/\">када каже не</a>, <a href=\"/activities/late-stage/\">активности за касну фазу</a> и <a href=\"/brain-health/can-dementia-be-prevented/\">може ли се деменција спречити?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Бесплатне, нежне игре за особе са деменцијом",
+      "seoTitle": "Штампана брошура: бесплатне игре за деменцију на мрежи",
+      "description": "Једностра штампана брошура за породице и неговатеље о бесплатним, нежним сликовним играма за особе са деменцијом, за групе подршке и пакете за негу.",
+      "crumb": "Штампана брошура",
+      "lede": "Одштампајте ову страницу за групу подршке, пакет за негу или фрижидер. Користите команду Штампај у прегледачу; менији и дугмад не улазе у штампани примерак.",
+      "introHtml": "<p>Велике слике, једноставне речи и ништа у чему се може погрешити. Бесплатно на телефону, таблету или рачунару, без пријаве, без огласа, без тајмера и без бодова. Седите једно поред другог и смењујте се.</p>",
+      "gamesTitle": "Игре које можете испробати заједно",
+      "restHtml": "<h2>Неколико савета</h2><ul><li>Изаберите доба дана када се особа најбоље осећа.</li><li>Почните са најлакшим подешавањем. Четири поља су довољна.</li><li>Причајте о сликама. Разговор је често најлепши део.</li><li>Станите док је још пријатно. Раније завршавање је добар исход.</li></ul><h2>Такође на сајту</h2><ul><li>Бесплатни штампани материјали: претрага речи великим словима, странице за бојење, картице за разговор и сликовни бинго.</li><li>Идеје за активности за сваку фазу, и водичи о заједничкој игри и бризи о себи.</li></ul><p class=\"muted\">За уживање и заједничко време. Није медицински савет, тест ни терапија. Golden Moments објављује Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "За домове за старе, библиотеке и групе подршке",
+      "seoTitle": "Бесплатне активности за особе са деменцијом за домове и групе",
+      "description": "Како домови за старе, дневни програми за одрасле, библиотеке, агенције за бригу о старима и групе подршке користе наше бесплатне игре за деменцију, и текст којим нас можете додати на листу ресурса.",
+      "crumb": "За организације",
+      "lede": "Све на овом сајту можете бесплатно користити са штићеницима, члановима и корисницима, без налога, лиценце или накнаде. Ова страница објашњава шта се овде налази и како то можете делити.",
+      "shortText": "{name}: бесплатне, нежне игре са сликама и водичи за активности за особе које живе са деменцијом и њихове неговатеље. Без регистрације, без тајмера и без бодова.",
+      "longText": "{name} ({domain}) нуди {count} бесплатних игара у прегледачу, направљених за особе које живе са деменцијом. Међу њима су упаривање слика с видљивим сликама, лака слагалица, разврставање, познате изреке и бинго са сликама и штампаним картицама. Нема налога, огласа, тајмера ни бодова. Сајт има и водиче о активностима, написане једноставним језиком, за сваку фазу деменције, а они се позивају на National Institute on Aging и Alzheimer's Association.",
+      "useTitle": "Шта организације могу да користе",
+      "gamesItemHtml": "<strong>{count} игара у прегледачу</strong> које раде на лаптопу, таблету или телевизору повезаном на рачунар. Без инсталације, налога или преузимања. Погледајте <a href=\"/games/\">све игре</a>.",
+      "printablesLabel": "{count} материјала за штампање:",
+      "printablesAfter": "Користите дугме за штампање на свакој страници.",
+      "moreItemsHtml": "<li><strong>Облици за групе:</strong> <a href=\"/games/picture-bingo/\">Бинго са сликама</a> има картице за штампање и водитеља игре на екрану, а <a href=\"/activities/trivia/\">лака квиз игра</a> има 50 питања с понуђеним одговорима и темама за разговор.</li><li><strong>Водичи о активностима</strong> за особље и породице, по фази и по врсти, написани простим језиком и с изворима. Почните са <a href=\"/activities/ideas/\">101 идејом за активности</a> или са <a href=\"/activities/care-home-groups/\">групним активностима за домове за старе</a>.</li>",
+      "restHtml": "<h2>Како групе користе сајт</h2><ul><li><strong>Домови за старе и нега памћења:</strong> бинго са сликама или довршавање изреке на телевизору у заједничкој соби, а један човек додирује екран за целу групу.</li><li><strong>Дневни програми за одрасле:</strong> станица са таблетом и играма Упаривање слика подешеним на четири плочице, за кратке сесије један на један.</li><li><strong>Јавне библиотеке:</strong> штампане слагалице са речима и картице за разговор у комплетима за сећање, а сајт сачуван као обележивач на библиотечким таблетима.</li><li><strong>Групе подршке неговатељима и кафићи за памћење:</strong> <a href=\"/handout/\">једностранични летак за штампање</a> који породице могу да понесу кући.</li><li><strong>Болнице и координатори отпуста:</strong> летак у пакетима за неговатеље, као нешто смирено што се може радити код куће или уз кревет.</li></ul><h2>Шта не радимо</h2><p>Игре су за уживање и заједничко проведено време. Оне не дијагностикују, не тестирају, не бодују, не лече и не успоравају деменцију, и молимо вас да организације тако не их не описују. Нема огласа, а игре не траже имена, здравствене податке ни отпремање фотографија. Сајт користи Google Analytics за бројање посета; наша <a href=\"/privacy/\">политика приватности</a> објашњава шта се тиме прикупља. Фотографије коришћене у игри <a href=\"/games/photo-pairs/\">Упаривање фотографија</a> остају у прегледачу.</p><h2>Додајте нас на своју листу ресурса</h2><p>Ако водите листу ресурса за неговатеље, слободно можете повезати <a href=\"/\">{domain}</a>. Можете копирати било који од ова два описа.</p>",
+      "shortTitle": "Кратак опис",
+      "longTitle": "Дужи опис",
+      "linksHtml": "<p>Корисне странице за директно повезивање: <a href=\"/games/\">бесплатне игре</a>, <a href=\"/activities/printable/\">бесплатни материјали за штампање</a>, <a href=\"/activities/alzheimers/\">активности за Алцхајмерову болест</a> и <a href=\"/caregiving/how-to-play-together/\">како заједно играти</a>.</p><h2>Питања или исправке</h2><p>Ако је нешто на сајту погрешно или нејасно, или потребе корисника нису задовољене оним што је овде, јавите нам на <a href=\"mailto:{email}\">{email}</a>. Молимо вас да не шаљете личне или здравствене податке о штићеницима или корисницима.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Апликација Golden Moments",
+      "seoTitle": "Апликација Golden Moments за iPhone и Android",
+      "description": "Бесплатна апликација Golden Moments: нежно упаривање фотографија са четири велике плочице, породичне фотографије чуване на вашем уређају, пакети слика за рад без интернета и без налога.",
+      "crumb": "Апликација",
+      "lede": "Све што вам се допада на сајту, у апликацији која ради без интернета и може да користи породичне фотографије које сами изаберете.",
+      "worksOn": "Ради на {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Почните полако</h2><p>Почните са четири велика поља и познатим сликама. Слике можете оставити видљивим или их сакрити када вам је тако пријатније. Благи режим нема тајмер, бодове ни казне. Изаберите 4, 6, 8 или 12 поља.</p><h2>Учините то личним</h2><p>Изаберите породичне фотографије помоћу алата за избор фотографија на уређају. Апликација чува мање копије за своје активности. Не претражује вашу библиотеку и не мења оригиналне фотографије, а у једној збирци задржава до 24 фотографије.</p><h2>Само погледајте заједно</h2><p>Гледајте по једну слику. Изборни подсетници могу подстаћи разговор, без захтева да се неко сети имена или да да тачан одговор. Само гледање је довољно.</p><h2>Ван мреже тамо где је важно</h2><p>Почетне слике и свих осам пакета слика укључени су у апликацију. Увезене копије фотографија раде ван мреже. Избор оригинала који су сачувани само у iCloud-у може захтевати интернет везу.</p><h2>Без налога, без сервера за синхронизацију фотографија</h2><p>Копије породичних фотографија остају у апликацији на уређају. Копије можете уклонити, а да не избришете оригинале. Резервне копије уређаја могу укључивати податке апликације. Прочитајте <a href=\"/app-privacy/\">политику приватности апликације</a>, а <a href=\"/help/\">помоћ за апликацију</a> води вас кроз сваки корак.</p>",
+      "disclaimer": "Golden Moments је намењена рекреацији и заједничком разговору. Не дијагностикује, не лечи, не спречава и не мери деменцију или Алцхајмерову болест.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Бесплатне игре за деменцију и Алцхајмерову болест на мрежи",
+    "description": "Бесплатне игре на мрежи за старије особе које живе са деменцијом или Алцхајмеровом болешћу: спајање слика, лако слагање слагалица, разврставање, изреке, бојење, бинго. Без регистрације, тајмера и бодова.",
+    "crumb": "Игре",
+    "h1": "Благе игре за особе са деменцијом",
+    "lede": "{count} бесплатних игара које можете играти заједно у прегледачу. Велике слике, једноставне речи и ништа што се може изгубити: без тајмера, бодова и регистрације.",
+    "listName": "Благе игре за особе са деменцијом",
+    "byStageTitle": "Избор игре према фази",
+    "byStageLede": "Фазе су само груб водич. Пратите шта особи прија и шта јој је данас пријатно.",
+    "stageCol": "Фаза",
+    "gamesCol": "Игре које често одговарају",
+    "moreHtml": "Још идеја ван екрана: <a href=\"/activities/ideas/\">101 активност за особе са деменцијом</a>, <a href=\"/activities/alzheimers/\">активности и игре за Алцхајмерову болест</a>, <a href=\"/activities/memory-games/\">благе игре памћења</a> и <a href=\"/activities/puzzles/\">слагалице</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Којом игром да почнемо?",
+        "a": "Парови слика са четири поља су миран први избор. Ако бирање између слика делује превише, пробајте „Нађи исто” са две слике. За групу пробајте „Бинго са сликама”."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Да ли игре раде на iPad-у или телефону?",
+        "a": "Да. Свака игра ради у прегледачу на телефонима, таблетима и рачунарима, а слике се шире да испуне екран. Таблет на постољу је често најудобнији за двоје."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Да ли су ове игре добре за особу са Алцхајмеровом болешћу?",
+        "a": "Да. Направљене су за особе које живе са деменцијом, укључујући Алцхајмерову болест, која је најчешћи узрок. Слике остају видљиве, има само неколико избора и ништа се не мери временом ни бодовима, па се игре ослањају на препознавање познатих ствари, а не на памћење нових."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Да ли су ово игре памћења за старије?",
+        "a": "То су игре спајања и игре са сликама које може да ужива свака старија особа, али су направљене тако да не испитују памћење: у „Паровима слика” слике остају окренуте лицем нагоре, осим ако не изаберете друкчије. Наш водич о играма памћења за старије особе са деменцијом објашњава како било коју игру памћења учинити благом."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Постоје ли игре за групе у домовима за старије?",
+        "a": "Да. „Бинго са сликама” има штампане картице и водитеља на екрану, а „Допуни изреку” и картице за разговор добро функционишу када се читају наглас групи."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad и Android",
+    "requirements": "iOS 15 или новији; Android 7.0 или новији",
+    "summary": "Бесплатна апликација за iPhone, iPad и Android са благим спајањем слика на четири до дванаест великих поља, спајањем и прегледањем са породичним фотографијама које сами изаберете и осам укључених пакета слика који раде без интернета. Без налога, огласа, тајмера и бодова.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Благо спајање слика са 4, 6, 8 или 12 великих поља; слике остају видљиве осим ако не изаберете да их сакријете",
+      "Породичне фотографије које изаберете копирају се у апликацију за спајање и за заједничко гледање",
+      "Гледајте заједно: по једна слика са изборним подсетницима за разговор",
+      "Осам пакета слика укључено у апликацију; раде ван мреже",
+      "Без налога, огласа, куповина у апликацији, тајмера, бодова и казни"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Постоји ли апликација са активностима за деменцију?",
+        "a": "Да. Golden Moments (на листи као „{storeName}”) је бесплатна у App Store-у и Google Play-у. Нуди благо спајање слика на великим пољима, игре са породичним фотографијама које сами изаберете и пакете слика који раде ван мреже."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Да ли је апликација Golden Moments бесплатна?",
+        "a": "Да. Може се бесплатно преузети, без огласа, налога и куповина у апликацији."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Да ли апликација ради без интернета?",
+        "a": "Да. Почетне слике и свих осам пакета слика укључени су у апликацију, а породичне фотографије раде ван мреже када се копирају у апликацију. Избор фотографије сачуване само у iCloud-у може захтевати везу."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Могу ли да користим наше породичне фотографије?",
+        "a": "Да. Фотографије бирате помоћу бирача фотографија на уређају. Апликација за активности чува мање копије на уређају, не отпрема их на друго место и никада не мења оригиналне фотографије. Копије можете уклонити у било ком тренутку."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Да ли је то апликација за тренинг мозга или тест памћења?",
+        "a": "Не. Golden Moments је за уживање и заједничко време. Нема бодова ни тестова, и не дијагностикује, не лечи, не спречава и не мери деменцију или Алцхајмерову болест."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "На којим уређајима ради?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Постоји ли верзија ове игре у облику апликације?",
+      "a": "Да. Бесплатна апликација Golden Moments за iPhone, iPad и Android има исто нежно упаривање слика, може да користи породичне фотографије које сами изаберете и ради без интернета. Без налога, огласа и бодова."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Постоји ли верзија ове игре у облику апликације?",
+      "a": "Не за ову игру. Бесплатна апликација Golden Moments за iPhone, iPad и Android има нежно упаривање слика са великим плочицама и породичним фотографијама које сами изаберете, и ради без интернета. Ова игра остаје бесплатна овде, у вашем прегледачу."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: велике, пријатне слике",
+    "noscript": "За ову игру потребно је да JavaScript буде укључен у вашем прегледачу. Савети испод раде и без тога.",
+    "about": "О игри {name}",
+    "aboutAria": "О овој игри",
+    "noTimer": "Без тајмера и бодова",
+    "printable": "За штампање",
+    "howTo": "Како се игра {name}",
+    "tips": "Савети за заједничку игру",
+    "newToPlayingHtml": "Први пут играте са неким ко живи са деменцијом? Прочитајте <a href=\"/caregiving/how-to-play-together/\">како се игра заједно</a>, укључујући шта да радите ако изгуби интересовање.",
+    "moreAria": "Још за истраживање",
+    "helpfulGuides": "Корисни водичи",
+    "appTitle": "Играјте у апликацији",
+    "appText": "Бесплатна апликација Golden Moments има нежно упаривање слика са великим плочицама и вашим породичним фотографијама и ради без Wi‑Fi везе. За iPhone, iPad и Android.",
+    "photoAppTitle": "Држите фотографије при руци",
+    "photoAppText": "У бесплатној апликацији Golden Moments фотографије које изаберете остају на уређају за следећи пут, а игре раде без Wi‑Fi везе. За iPhone, iPad и Android.",
+    "goodToKnow": "Добро је знати",
+    "goodToKnowText": "Ова игра је за уживање и заједничко време. Ништа не тестира, не мери и не лечи.",
+    "moreGames": "Још нежних игара",
+    "crumb": "Игре"
   }
 }

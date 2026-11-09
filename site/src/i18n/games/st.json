@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Lipaere tsa ditšoantšo",
+    "seoTitle": "Papali ea ho tšoana bakeng sa Dementia: Lipaere tsa Ditšoantšo",
+    "h1": "Lipaere tsa Ditšoantšo: Papali e Bonolo ea ho Tšoana",
+    "description": "Papali ea mahala, e bonolo ea ho tšoana bakeng sa batho ba phelang le dementia. Ditšoantšo tse kholo li lula li bonahala, ha ho na sebali kapa lintlha, ’me u khetha ditaele tse 4 ho ea ho tse 12.",
+    "short": "Fumana ditšoantšo tse peli tse tšoanang. Ditšoantšo li ka lula li bonahala.",
+    "players": "Batho ba 1 kapa ba 2, ka thoko ho e mong",
+    "intro": "Tobetsa setšoantšo, ebe u tobetsa se tšoanang le sona. Ka tlwaelo ditšoantšo li lula li bonahala, kahoo ha ho hlokahale hore ho hopolwe letho. Ha ditšoantšo tse peli li kopana, li fumana moeli oa khauta le letšoao la ho netefatsa.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Khetha palo ea ditaele tse sebelisoang. Ditaele tse 4 ke sebaka se khutsitseng sa ho qala.",
+      "Tobetsa setšoantšo sefe kapa sefe. Se fumana moeli oa khauta.",
+      "Tobetsa setšoantšo se shebahalang se tšoana. Pheo e lula e kopane, e na le letšoao la ho netefatsa.",
+      "Haeba ditšoantšo tse peli ke tse fapaneng, ha ho letho le mabe le etsahalang. Tobetsa hape ha u se u itokiselitse.",
+      "Sebelisa “Ditšoantšo tse patiloeng” feela haeba lona ka bobeli le rata mokhoa oa khale oa ho bea ditšoantšo ka tlase."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Bitsang ditšoantšo ka lentsoe hammoho ’me le buisane ka tsona: “Kopi e khubelu ea tee. Na u kenya lebese thekeng ea hau?”",
+      "Hlokomelang hore motho eo le mo hlokometsang a tobetse ka boeena, esita le haeba ho nka nako. Mo supe ka monoana ho fapana le ho mo tobetsetsa.",
+      "Sala ka ditaele tse 4 nako eohle ha e ntse e le monate. Ditaele tse ngata ke khetho, eseng boemo ba ho fihlela.",
+      "Qeta ha e ntse e monate. Papali e le ’ngoe ke ketsahalo e feletseng."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le sebali kapa lintlha?",
+        "a": "Che. Ha ho na nako ea sebali, lintlha, palo ea mekhahlelo kapa ho lahleha. U ka emisa nako leha e le efe, ’me ho emisa halofo ke tsela e loketseng ea ho qeta."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Ditšoantšo li lula li bonahala ka lebaka la eng?",
+        "a": "Ho boloka ditšoantšo li bonahala ho etsa hore papali e be ho shebeha le ho tšoana, e seng ho hopola. Batho ba bangata ba fumana sena se khutsitse haholoanyane. U ka fetola ho Ditšoantšo tse patiloeng ka ho tobetsa ka makhetlo a le mong haeba u khetha joalo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ke mahala, ’me ke hloka ho ingodisa?",
+        "a": "Ee, ke mahala, ’me ha ho hlokahale akhaonte, ho ingodisa kapa ho kenya sesebelisoa. E sebetsa ka browser ea marang-rang ho fono, tablete kapa komporo."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Na re ka sebelisa lifoto tsa lelapa la rona?",
+        "a": "Ee. Leka Lipaere tsa lifoto, e u lumellang ho khetha lifoto ho sesebelisoa sa hao. Lifoto li lula ho browser ea hao ’me ha lia kenngoa marang-rang."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Fumana se tšoanang",
+    "seoTitle": "Fumana Setšoantšo se Tšoanang: Papali e Bonolo ea Dementia",
+    "h1": "Fumana Setšoantšo se Tšoanang",
+    "description": "Setšoantšo se le seng holimo, tse peli ho ea ho tse ’nne tlase. Tobetsa se tšoanang. Papali e khutsitseng, ea mahala ea ditšoantšo bakeng sa batho ba phelang le dementia, ntle le sebali.",
+    "short": "Sheba setšoantšo se holimo ’me u tobetse se tšoanang tlase.",
+    "players": "Batho ba 1 kapa ba 2",
+    "intro": "Setšoantšo se le seng se eme holimo ho skrine. Tlase ho sona ho na le tse peli, tse tharo kapa tse ’nne. Tobetsa se tšoanang. Ke khetho e bonolo ka nako e ’ngoe, e nang le sebaka se lekaneng sa ho bua.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Khetha ditšoantšo tse peli, tse tharo kapa tse ’nne ho tsoa ho tsona. Tse peli ke tse bonolo ka ho fetisisa.",
+      "Shebang setšoantšo se holimo hammoho.",
+      "Tobetsa setšoantšo se tšoanang tlase. Se tšoailoe ka letšoao la ho netefatsa le mantsoe a monate a seng makae.",
+      "Haeba setšoantšo se fapaneng se tobetsoa, papali e bitsa feela lebitso la sona ’me e emela. Nka nako ea hao.",
+      "Tobetsa “Setšoantšo se latelang” ha u se u itokiselitse ho se seng."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Buang ka setšoantšo se seng le se seng pele u khetha: mebala, libopeho, moo u ka ba u bonang sona teng.",
+      "Ho khetha tse peli ha ho bolele hore ke “bonolo haholo”. Sepheo ke ho ba le nako e monate, e seng phephetso.",
+      "Haeba ho tobetsa ho le thata, motho a ka supa ’me lona u ka mo tobetsetsa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le sebali kapa lintlha?",
+        "a": "Che. Ha ho na nako ea sebali, lintlha, palo ea mekhahlelo kapa ho lahleha. U ka emisa nako leha e le efe, ’me ho emisa halofo ke tsela e loketseng ea ho qeta."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ho etsahala’ng haeba setšoantšo se fosahetseng se tobetsoa?",
+        "a": "Ha ho letho le hlabang maikutlo. Ha ho na molumo oa ho lemosa, lefapha le khubelu kapa ho sisinyeha. Papali e bitsa setšoantšo se tobelitsoeng ’me e emela tobetso e latelang."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ke mahala, ’me ke hloka ho ingodisa?",
+        "a": "Ee, ke mahala, ’me ha ho hlokahale akhaonte, ho ingodisa kapa ho kenya sesebelisoa. E sebetsa ka browser ea marang-rang ho fono, tablete kapa komporo."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Ho tšoana ha moriti",
+    "seoTitle": "Papali ea ho Tšoana ha Moriti bakeng sa Dementia: Mahala Marang-rang",
+    "h1": "Ho Tšoana ha Moriti: Papali e Khutsitseng ea Ditšoantšo",
+    "description": "Moriti o moputsoa holimo, ditšoantšo tse peli ho ea ho tse ’nne tlase. Tobetsa setšoantšo se etsang moriti. Papali ea mahala, e khutsitseng ea ho tšoana moriti bakeng sa dementia, ntle le sebali.",
+    "short": "Sheba moriti ’me u tobetse setšoantšo se o etsang.",
+    "players": "Batho ba 1 kapa ba 2",
+    "intro": "Ho tšoana ha moriti ke papali e tsebahalang ho tsoa lipepeng tse hatisitsoeng, mona e le ditšoantšo tse kholo ’me ha ho hlokahale ho hatisa letho. Moriti o bonolo o eme holimo ho skrine, ’me ditšoantšo tse peli, tse tharo kapa tse ’nne li emetse tlase. Tobetsa se etsang moriti. Libopeho tse kang baesekele, sekoahelo sa pula kapa kopi ea tee le tsona li bonolo ho buisana ka tsona.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Khetha ditšoantšo tse peli, tse tharo kapa tse ’nne. Tse peli ke tse bonolo ka ho fetisisa.",
+      "Shebang moriti hammoho. Ke sebopeho sefe? Na o telele kapa o potolohile?",
+      "Tobetsa setšoantšo se etsang moriti. Lebitso la sona le hlaha tlasa moriti.",
+      "Haeba setšoantšo se fapaneng se tobetsoa, papali e bitsa feela lebitso la sona ’me e emela. Nka nako ea hao.",
+      "Tobetsa “Moriti o latelang” ha u se u itokiselitse ho se seng."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Latela moeli oa moriti ka monoana ’me le buisane ka sebopeho.",
+      "Haeba moriti o le thata kajeno, fetohela ho Fumana se tšoanang, moo ditšoantšo li shebahalang li tšoana.",
+      "Buang ka setšoantšo ha se fumanoe: “Re ne re e-na le sekoahelo sa pula se joalo.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le sebali kapa lintlha?",
+        "a": "Che. Ha ho na nako ea sebali, lintlha, palo ea mekhahlelo kapa ho lahleha. U ka emisa nako leha e le efe, ’me ho emisa halofo ke tsela e loketseng ea ho qeta."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Na ho kopanya meriti ho molemo bakeng sa batho ba phelang le dementia?",
+        "a": "E ka ba ketsahalo e monate le e bonolo bakeng sa batho ba bang, haholo ha lefu le sa le qalong. Libopeho li bonolo ho li tseba ho feta mantsoe. E bakeng sa thabo le puisano, eseng teko, 'me ha e phekole kapa ho liehisa dementia. Haeba e baka tšepo e fokolang, lekang “Fumana tse tšoanang” kapa le shebe lifoto hammoho feela."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ho etsahala eng ha setšoantšo se fosahetseng se tobetsoa?",
+        "a": "Ha ho letho le ka hlolohang. Ha ho molumo, ha ho lebone le khubelu, ha ho sisinyeho. Papali e bitsa setšoantšo se tobetsoeng 'me e emela tobetso e latelang."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ke mahala, 'me ke hloka ho ingolisa?",
+        "a": "Ee, ke mahala, 'me ha ho hloke akhaonto, ho ingolisa kapa ho jarolla. E sebetsa ho sebatli sa webo selefounong, thebeleteng kapa khomphuteng."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Hlophisang hammoho",
+    "seoTitle": "Papali ea ho Hlophisa bakeng sa Dementia: Hlophisang Hammoho",
+    "h1": "Hlophisang Hammoho: Ketsahalo ea ho Hlophisa Lifoto",
+    "description": "Tobetsang setšoantšo, ebe le tobetsa seroki sa sona: kichineng kapa serapeng, litholoana kapa liphoofolo. Ketsahalo e khutsitseng, e sa lefelloe ea ho hlophisa bakeng sa batho ba phelang le dementia.",
+    "short": "Behang setšoantšo se seng le se seng seroking sa sona: kichineng kapa serapeng, le tse ling.",
+    "players": "Batho ba 1 kapa ba 2",
+    "intro": "Ho hlophisa ke mosebetsi o tloaelehileng, o khahlisang, joalo ka ho beha lijo ka har'a kabo kapa ho kopanya mesoko. Tobetsang setšoantšo, ebe le tobetsa seroki moo se lokelang ho ea teng. Ha ho na potlako 'me ha ho na mohato o fosahetseng.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Khethang sehlooho: kichine le serapa, litholoana le liphoofolo, kapa ntlo le leeto.",
+      "Tobetsang setšoantšo. Se fumana moeli o motle oa khauta.",
+      "Tobetsang seroki moo se lokelang ho ea teng. Setšoantšo se tsamaea ho ea seroking seo.",
+      "Haeba se lokela seroki se seng, papali e bolela ka bonolo 'me e emela.",
+      "Ha setšoantšo se seng le se seng se hlophisitsoe, shebang seroki ka seng hammoho."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Bophelong ba sebele hangata ha ho na karabo e fosahetseng. Haeba motho a re mokotla oa metsi o lokela kichineng, botsang hore na ke hobane'ng. Le ka utloa pale e monate.",
+      "Sebelisang lifoto e le tataiso ea puisano: “U hōlisitse eng serapeng sa lona?”",
+      "Ho hlophisa lintho tsa sebele, joalo ka likhaba le lipuno kapa likonopo ka mebala, ke tšebetso e molemo ka ntle ho skrine."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le sebali kapa sekoere?",
+        "a": "Tjena. Ha ho na nako, sekoere, palo ea mehato kapa ho lahleha. U ka emisa ka nako efe kapa efe, 'me ho emisa ha ho le halofo ke tsela e ntle ea ho qetela."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Hobaneng ho hlophisa?",
+        "a": "Batho ba bangata ba thabela ho hlophisa hobane ho bonahala e le mosebetsi o sebetsang o tloaelehileng. Ho boetse ho bonolo ho bua ka lifoto ha le ntse le tsoela pele."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ke mahala, 'me ke hloka ho ingolisa?",
+        "a": "Ee, ke mahala, 'me ha ho hloke akhaonto, ho ingolisa kapa ho jarolla. E sebetsa ho sebatli sa webo selefounong, thebeleteng kapa khomphuteng."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ea setšoantšo",
+    "seoTitle": "Puzzle e Bonolo bakeng sa Dementia: Likotoana tse 4 kapa tse 9",
+    "h1": "Puzzle ea Setšoantšo: Puzzle e Bonolo",
+    "description": "Puzzle e bonolo ka inthaneteng bakeng sa batho ba phelang le dementia: likotoana tse 4 kapa tse 9 tse kholo, setšoantšo sohle se lula se bonahala, 'me le tobetsa likotoana tse peli ho li fetolla sebaka.",
+    "short": "Tobetsang likotoana tse peli ho li fetolla sebaka ho fihlela setšoantšo se feletse.",
+    "players": "Batho ba 1 kapa ba 2",
+    "intro": "Setšoantšo se khahlisang se arotsoa ka likotoana tse nne kapa tse robong tse kholo 'me se sisintsoe. Setšoantšo sohle se lula se bonahala e le tataiso. Tobetsang lekotoana le leng, ebe le tobetsa le leng, 'me li fetolana sebaka. Ha ho hlokahale ho koloha.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Khethang setšoantšo le likotoana tse 4 kapa tse 9. Tse 4 ke qalo e bonolo.",
+      "Shebang setšoantšo sohle ka holimo.",
+      "Tobetsang lekotoana, ebe le tobetsa sebaka moo le lokelang ho ea teng. Likotoana tse peli li fetolana sebaka.",
+      "Likotoana tse behiloeng sebakeng sa tsona li fumana letšoao la ho netefatsa le lenyenyane.",
+      "Setšoantšo ha se se feletse, se thabeleng hammoho, ebe le khetha se seng."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ho tobetsa likotoana tse peli ho li fetolla ho bonolo ho feta ho li koloha bakeng sa batho ba bangata.",
+      "Buang ka setšoantšo ha se ntse se kopana: “Ke lebitla le lefubelu moo.”",
+      "Puzzle ea lehong e nang le likotoana tse 12 ho ea ho tse 24 tse kholo ke ketsahalo e monate ka tafoleng hape."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le sebali kapa sekoere?",
+        "a": "Tjena. Ha ho na nako, sekoere, palo ea mehato kapa ho lahleha. U ka emisa ka nako efe kapa efe, 'me ho emisa ha ho le halofo ke tsela e ntle ea ho qetela."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Na ke hloka ho koloha likotoana?",
+        "a": "Tjena. Tobetsang lekotoana le leng, ebe le tobetsa le leng, 'me li fetolana sebaka. Ho bonolo ho feta haholo ha letsoho le hlabaloa kapa ha skrine e nyane."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ke mahala, 'me ke hloka ho ingolisa?",
+        "a": "Ee, ke mahala, 'me ha ho hloke akhaonto, ho ingolisa kapa ho jarolla. E sebetsa ho sebatli sa webo selefounong, thebeleteng kapa khomphuteng."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Qetellang maele",
+    "seoTitle": "Qetella Maele: Papali ea Maele bakeng sa Batho ba Baholo",
+    "h1": "Qetellang Maele",
+    "description": "Maele a tloaelehileng a Sesotho a nang le lentsoe la ho qetela le sa hlophisoa, joalo ka “Motho ke motho ka ___”. Tobetsang khetho kapa bontšang qetello, ebe le bua ka eona.",
+    "short": "Qetellang maele a tloaelehileng hammoho, ebe le bua ka ona.",
+    "players": "Batho ba 1, ba 2 kapa sehlopha",
+    "intro": "Maele a khale hangata a tsebahala ka bophelo bohle. Karete e 'ngoe le e 'ngoe e bonts'a seane se tsebahalang se se nang lentsoe la ho qetela, likhetho tse tharo, le konopo ea “Bontša qetello”. Ka mor'a qetello, potso e bonolo e memela puisano.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Balang seane ka lentsoe le phahameng hammoho.",
+      "Tobetsang lentsoe le qetellang seane, kapa tobetsang “Bontša qetello”.",
+      "Balang seane sohle hape, 'me le bue ka eona ho sebelisa potso.",
+      "Tobetsang “Seane se latelang” ha le se le loketse."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Balang ka bonolo 'me le eme nakoana pele ho lentsoe la ho qetela. Hangata batho ba le bolela pele u le qeta.",
+      "Haeba motho a fana ka qetello e fapaneng, e thabeleng. Mefuta ea maele e fapana ka lelapa kapa ka sebaka.",
+      "Sehlopheng, motho e mong o bala 'me bohle ba kenya letsoho qetellong."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le sebali kapa sekoere?",
+        "a": "Che. Ha ho na nako, ha ho na lintlha, ha ho na palo ea mekhahlelo, 'me ha ho na ho lahleha. U ka emisa ka nako efe kapa efe, 'me ho emisa u sa le bohareng ke tsela e loketseng ea ho qeta."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ho ka etsahala joang haeba re khetha lentsoe le fapaneng?",
+        "a": "Papali e bontsha qetello e tloaelehileng, 'me e tsoela pele ho puisano. Ha ho na lintlha, 'me karabo e fapaneng e lekane."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ho a lefelloa, 'me na ke hloka ho ingolisa?",
+        "a": "Ee, ha e lefelloe, 'me ha ho na akhaonte, ho ingolisa kapa ho jarolla. E sebetsa ka browser ea webo ho mohala, theipi kapa khomphutha."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Papali ea mantsoe ka mongolo o moholo",
+    "seoTitle": "Papali ea Mantsoe ka Mongolo o Moholo bakeng sa Dementia, e ka Hatisoang",
+    "h1": "Papali ea Mantsoe ka Mongolo o Moholo",
+    "description": "Papali ea mantsoe ka boithaopo ka mongolo o moholo bakeng sa batho ba baholo le batho ba phelang le dementia. Mantsoe a seng makae, mekhahlo e meholo, a balloa ho ea pele kapa ka tlase feela. Bapala inthaneteng kapa u hatise.",
+    "short": "Mekhahlo e meholo, mantsoe a seng makae, ho ea pele le ka tlase feela. Le hatise.",
+    "players": "batho ba 1 kapa ba 2",
+    "intro": "Grid e nyane e nang le mekhahlo e meholo le mantsoe a seng makae feela, 'me kaofela a balloa ho ea pele kapa ka tlase. Tobetsa letlapa la pele la lentsoe, ebe u tobetsa la ho qetela. U rata pampiri? Hatisa puzzle e ncha ka tobetso e le 'ngoe.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Khetha sehlooho le boholo ba grid.",
+      "Sheba lenane la mantsoe. Mantsoe a balloa ho ea pele (ho tloha letsohong la letona ho ea letsohong la letšehali) kapa ka tlase (ho tloha holimo ho ea tlase).",
+      "Tobetsa letlapa la pele la lentsoe, ebe u tobetsa la ho qetela.",
+      "Lentsoe le fumanoeng le totobatsoa 'me le tlosoa lenaneng.",
+      "Tobetsa “Hatisa puzzle ena” ho bapala ka pampiri le pensele kapa marker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Supa lentsoe lenaneng 'me le lebelle hammoho le letlapa la lona la pele.",
+      "Ka pampiri, highlighter e bonolo ho e tšoara ho feta pensele.",
+      "Bua ka mantsoe a sehlooho. Mantsoe a litholoana ke tsela e monate ea ho qala ho hopola ho ea ho khetha, ho baka kapa mamaketeng."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le nako kapa lintlha?",
+        "a": "Che. Ha ho na nako, ha ho na lintlha, ha ho na palo ea mekhahlelo, 'me ha ho na ho lahleha. U ka emisa ka nako efe kapa efe, 'me ho emisa u sa le bohareng ke tsela e loketseng ea ho qeta."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Na ke ka hatisa papali ea mantsoe?",
+        "a": "Ee. Tobetsa “Hatisa puzzle ena” ho hatisa grid ea hajoale ka mongolo o moholo, le lenane la mantsoe tlasa eona. Puzzle e 'ngoe le e 'ngoe e ncha e fapane."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ho a lefelloa, 'me na ke hloka ho ingolisa?",
+        "a": "Ee, ha e lefelloe, 'me ha ho na akhaonte, ho ingolisa kapa ho jarolla. E sebetsa ka browser ea webo ho mohala, theipi kapa khomphutha."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Maqephe a mebala",
+    "seoTitle": "Maqephe a Mebala bakeng sa Batho ba Baholo ba nang le Dementia (Mahala)",
+    "h1": "Maqephe a Mebala",
+    "description": "Maqephe a bonolo a batho ba baholo, a nang le libaka tse kholo: tobetsa mebala, ebe u tobetsa setšoantšo. Ha ho na lerotholi, ha ho na mebala e fosahetseng, 'me leqephe le leng le le leng le ka hatisoa mahala.",
+    "short": "Tobetsa mebala, ebe karolo ea setšoantšo. Le maqephe a hatisoa.",
+    "players": "batho ba 1 kapa ba 2",
+    "intro": "Maqephe a nang le libopeho tse kholo le tse bonolo: palesa ka pitsong, ntlo, kopi ea tee, pepe le sekepe se tsamaeang ka moea. Tobetsa mebala, ebe u tobetsa karolo ea setšoantšo ho e tlatsa. Ha ho na mebala e fosahetseng.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Khetha leqephe.",
+      "Tobetsa mebala. Mebala e 'ngoe le e 'ngoe e ngotsoe lebitso la eona ho eona.",
+      "Tobetsa karolo ea setšoantšo ho e tlatsa ka mmala oo.",
+      "Fetola maikutlo ha ho ka nako efe ka ho e tlatsa hape.",
+      "Tobetsa “Hatisa leqephe ena” bakeng sa leqephe le sa ngoloang leo u ka le penyang ka pensele kapa marker."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Fana ka mebala e mebeli eo u ka khethang ho e-na le setlolo sohle haeba ho khetha ho bonahala ho le boima.",
+      "Lifate tse mebala e metsho le letsatsi le bohlooho ke tse amohelehang. Sena ke ho thabela mebala, eseng ho nepahala.",
+      "Maqephe a hatisitsoeng a sebetsa hantle ka li-marker tse tenyane kapa li-crayon, tse bonolo ho li tšoara."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le nako kapa lintlha?",
+        "a": "Che. Ha ho na nako, ha ho na lintlha, ha ho na palo ea mekhahlelo, 'me ha ho na ho lahleha. U ka emisa ka nako efe kapa efe, 'me ho emisa u sa le bohareng ke tsela e loketseng ea ho qeta."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Na maqephe ana a nyane haholo?",
+        "a": "Re bapisitse lintho tse khutsitseng le tse bonolo, eseng liphoso tsa katuno, kahoo maqephe a loketse batho ba baholo. Libopeho tse kholo li etsa hore ho penta ho be bonolo ntle le ho ba ntho ea bana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ho a lefelloa, 'me na ke hloka ho ingolisa?",
+        "a": "Ee, ha e lefelloe, 'me ha ho na akhaonte, ho ingolisa kapa ho jarolla. E sebetsa ka browser ea webo ho mohala, theipi kapa khomphutha."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Likarata tsa puisano",
+    "seoTitle": "Lintlha tsa Puisano bakeng sa Dementia: Likarata tsa Setšoantšo",
+    "h1": "Likarata tsa Puisano",
+    "description": "Likarata tsa setšoantšo tse nang le lipotso tse bonolo tsa puisano bakeng sa batho ba phelang le dementia: ha ho na lipotso tsa tlhahlobo, ha ho na likarabo tse nepahetseng. Sebelisa ka skrineng kapa u hatise sete eohle.",
+    "short": "Likarata tsa setšoantšo le lipotso tse bulehileng, tse bonolo. Ha ho na tlhahlobo.",
+    "players": "batho ba 2 kapa sehlopha",
+    "intro": "Karata e 'ngoe le e 'ngoe e kopanya setšoantšo se tloaelehileng le kopo e bulehileng ea ho bua, joalo ka “Ke mofuta ofe oa leholimo o o ratang?” Ha ho na likarabo tse nepahetseng, 'me ha ho na letho la ho hopola. Khetha sehlooho kapa u qhwalele tsohle.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Khetha sehlooho, kapa u boloke “Likarata tsohle”.",
+      "Bala potso ka lentsoe le phahameng 'me le sheba setšoantšo hammoho.",
+      "Mamela, abelana karabo ea hao, 'me u lumelle puisano e tsamaee.",
+      "Tobetsa “Karata e latelang” ha u se u itokisitse, kapa u lule karateng e le 'ngoe nako e ngata ha u rata.",
+      "Tobetsa “Hatisa likarata tsohle” ho itšeha sete ea pampiri."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Araba potso ka boeona. Ho utloahala joaloka puisano, eseng puisano ea lipotso.",
+      "Latela pale, eseng lintlha. Haeba lintlha li fetoha, ho lokile.",
+      "Haeba karata e ama ntho e hlabang, amohela maikutlo ka hloko 'me u fetohele karata e 'ngoe ka bonolo."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Hobaneng ha ho na lipotso tsa “Na u hopola…?”",
+        "a": "Lipotso tse hlahloba mohopolo li ka utloahala joaloka tlhahlobo 'me li baka matšoenyeho. Mehala e bulehileng joalo ka “Mpolelle ka…” e lumella mang kapa mang ho kenya letsoho, ho sa tsotellehe seo a hopolang."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Na ke ka hatisa likarata?",
+        "a": "Ee. “Hatisa likarata tsohle” e hatisa sete eohle ka mongolo o moholo, likarata tse 'maloa leqepheng le leng, e loketse ho itšeha."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ho a lefelloa, 'me na ke hloka ho ingolisa?",
+        "a": "Ee, ke mahala, ’me ha ho hlokahale akhaonte, ho ingolisa kapa ho jarolla. E sebetsa ka sebatli sa marang-rang selefounong, thebolete kapa komporong."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Lipaate tsa lifoto",
+    "seoTitle": "Etsa Papali ea Ho Lekanya Lifoto tsa Lelapa",
+    "h1": "Lipaate tsa Lifoto: Lekanya Lifoto tsa Hao",
+    "description": "Fetolela lifoto tsa lelapa la hao papali e bonolo ea ho lekanya. Khetha lifoto tse 2 ho isa ho tse 6 sesebelisoa sa hao; li lula sebatlising sa hao ’me ha lia kenngoa marang-rang.",
+    "short": "Khetha lifoto tsa hao ’me u li lekanye. Ha ho letho le kenngoang marang-rang.",
+    "players": "Batho ba 2, ka thoko ho e ’ngoe",
+    "intro": "Khetha lifoto tse 2 ho isa ho tse 6 selefounong, thebolete kapa komporong ea hao, ’me di be papali ea ho lekanya e nang le lifoto tse kholo le tse bonahalang hantle. Lifoto li bontšoa feela ka hare ho leqephe lena. Ha lia kenngoa marang-rang, ha lia bolokoa, ha lia abeloa, ’me li nyamela ha u koala leqephe.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tobetsa “Khetha lifoto” ’me u khethe lifoto tse 2 ho isa ho tse 6.",
+      "Foto e ’ngoe le e ’ngoe e hlaha habeli. Tobetsa e ’ngoe, ebe u tobetsa paate ea eona.",
+      "Bua ka foto e ’ngoe le e ’ngoe ha u e fumana.",
+      "Ha u qetile, koala leqephe kapa tobetsa “Hlakola lifoto”. Ha ho letho le bolokoang."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Khetha lifoto tse hlakileng tsa lintho tse thabisang le tse tsebahalang: phoofolo ea lapeng, serapa, sebaka se ratoang, letsatsi la lenyalo.",
+      "Lifoto tsa libaka le lintho li ka ba bonolo ho feta lisefahleho, ’me ha li tlisetse khatello ea ho bitsa batho ka mabitso.",
+      "Hlola lifoto tsa batho ba seng ba shoele haeba li ka tlisa lisoabiso tse tsoang ka tšohanyetso, ntle haeba u tseba hore li khothaletsa."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Na lifoto tsa ka li kenngoa kae kapa kae marang-rang?",
+        "a": "Che. Leqephe le bala lifoto tseo u li khethileng ka kotloloho sebatlising sa hao ’me le li bontša sekrineng sa hao. Ha lia romelloa ho rona kapa ho motho ofe kapa ofe, ’me li nyamela ha u koala kapa u ntlafatsa leqephe."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Na ho na le nako kapa lintlha?",
+        "a": "Che. Ha ho na nako, lintlha, palo ea mekhahlelo kapa ho hloleha. U ka emisa ka nako efe kapa efe, ’me ho emisa halohoa ke tsela e ntle ea ho qetella."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Na nka boloka papali bakeng sa nako e latelang?",
+        "a": "Che sebatlising, ka lebaka la moralo oa sona, e le hore ho se bolokoe letho la sekhukhu. Sesebelisoa sa mahala sa Golden Moments bakeng sa iPhone le iPad se ka boloka likopi tse khethiloeng tsa lifoto selefounong ea hao."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ea lifoto",
+    "seoTitle": "Bingo ea Lifoto bakeng sa Batho ba Baholo ba nang le Dementia: E ka Hatisoang",
+    "h1": "Bingo ea Lifoto bakeng sa Lihlopha",
+    "description": "Bingo ea lifoto e mahala e ka hatisoang bakeng sa tlhokomelo ea kelello le lihlopha tsa batho ba baholo, e na le mobitsi e moholo sekrineng. Lifoto tse kholo le mabitso, likhutlo tse 9 kapa tse 16, ha ho hlokahale ho bala.",
+    "short": "Likarete tsa bingo ea lifoto tse ka hatisoang le mobitsi ea sekrine se seholo bakeng sa lihlopha.",
+    "players": "Lihlopha tsa batho ba 2 ho isa ho ba 30",
+    "intro": "Bingo e tloaelehileng ka lifoto ho e-na le linomoro, e le hore ho se hlokahale hore motho a bale mongolo o monyane. Hatisa sete ea likarete tse fapaneng, ebe u sebelisa mobitsi sekrineng ho bontša foto e ’ngoe le e ’ngoe e kholo ho TV, laptop kapa thebolete.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Khetha likhutlo tse 9 kapa tse 16 karete e ’ngoe le e ’ngoe, le palo ea batho ba bapalang.",
+      "Tobetsa “Hatisa likarete”. Karete e ’ngoe le e ’ngoe e fapane.",
+      "Bula mobitsi sekrineng se seholo. Tobetsa “Setšoantšo se latelang” ho bontša foto e ’ngoe le e ’ngoe le lebitso la eona.",
+      "Bapali ba koahela setšoantšo se tšoanang karetong ea bona ka chelete, konopo kapa letšoao.",
+      "Mang kapa mang ea tlatsang mola, kapa karete eohle, a amohele thoriso e monate. Mokhoa ona ha o na ba hlolehang: tsoela pele ho bapala ho fihlela bohle ba na le mola."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Sebelisa lintho tse kholo tse kang lipapali tsa checkers kapa likhapa tsa lebotlolo. Likonopo tse nyane li ka ba thata ho tšoara.",
+      "Reha lebitso la setšoantšo ’me u bue ka sona: “Sekepe sa mafolofolo. Ke mang ea seng a kile a tsamaea ka sekepe?”",
+      "Hlophisa batho ba nang le bothata ba ho bona haufi le sekrine, ’me u kopanye bathusi le bapali ba hlokang thuso.",
+      "Likhutlo tse robong li lekane lihlopheng tse ngata. Boloka seboka hoo e ka bang metsotso e 20 ho isa ho e 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ke tsamaise bingo ea lifoto ntlong ea tlhokomelo joang?",
+        "a": "Hatisa karete e le ’ngoe bakeng sa mobapali e mong le e mong, beha mobitsi sekrineng se seholo ho feta seo u nang le sona, ’me u biletse lifoto ka bonya, u reha lebitso la e ’ngoe le e ’ngoe. Bapala ho fihlela bohle ba na le mola, e le hore ho se be motho ea siloang kantle."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Na ho hatisa ho a lefella?",
+        "a": "Ee. Hatisa likarete tse hlokahalang, ka linako tse ngata kamoo u ratang kateng, bakeng sa tšebeliso ea motho ka mong kapa ea lihlopha."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Na batho ba ka bapala ntle le ho bala?",
+        "a": "Ee. Sekwere e ’ngoe le e ’ngoe ke setšoantšo se seholo, ’me lebitso le ngotsoe tlasa sona bakeng sa ba ratang mantsoe."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ho hema ka khutso",
+    "seoTitle": "Phomolo e Khutsitsoeng ea ho Hema bakeng sa Batho ba Baholo le Batlhokomeli",
+    "h1": "Phomolo e Khutsitsoeng ea ho Hema",
+    "description": "Phomolo e bonolo, e liehang le e khutsitseng ea ho hema e arolelanoang: sediko se sebotsoa se atamela ebe se fokotseha bakeng sa ho hema habeli ho ea ho tse tšeletseng. U e qala, ’me u ka e emisa nako efe kapa efe.",
+    "short": "Sediko se liehang ho hema le sona. Qala le ho emisa ha u rata.",
+    "players": "Batho ba 1 kapa ba 2",
+    "intro": "Ka linako tse ling mosebetsi o molemo ka ho fetisisa ke phomolo e khutsitseng. Tobetsa “Qala”, ebe u hema ha sediko se atamela, ’me u hemise ha se fokotseha. Khetha sekhahla se liehang kapa se potlakileng. Ha ke kalafo; ke feela nako e khutsitseng e arolelanoang.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Lulang ka khutso ka thoko ho e ’ngoe.",
+      "Khetha sekhahla: se liehang kapa se bonolo.",
+      "Tobetsa “Qala”. Hema ha sediko se atamela, ’me u hemise ha se fokotseha.",
+      "E emisa ka boyona kamora ho hema habeli ho ea ho tse tšeletseng, kapa tobetsa “Emisa” ha u rata."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Tšoarang matsoho kapa beha letsoho holim’a letsoho la motho haeba ho amohelehile.",
+      "Ha ho hlokahale ho khothaletsa. Haeba a rata ho shebella feela, ho lokile.",
+      "Haeba motho a na le mathata a ho hema, hema ka tloaelo ’me u shebelle sediko feela. Buisanang le ngaka ka mathata afe kapa afe a ho hema."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Na ke phefumoloho ea bongaka?",
+        "a": "Che. Ke phomolo e bonolo, e khethoang, bakeng sa khutso le khampani. Ha ke kalafo ea tšabo kapa tlhokahalo efe kapa efe. Buisana le ngaka ka mathata a bophelo."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Na sediko se sisinyeha ntle le ha ke se qala?",
+        "a": "Che. Ha ho letho le tsamaeang ho fihlela u tobetsa Qala, 'me e emisa kamora mahemo a tšeletseng kapa ha u tobetsa Emisa. Haeba sesebelisoa sa hao se beehile ho fokotsa motsamao, mantsoe a fetoha ntle le hore sekhutlo se hole."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Na ke mahala, 'me ke hloka ho ingodisa?",
+        "a": "Ee, ke mahala, 'me ha ho hlokahale akhaonte, ho ingodisa kapa ho kenya sesebelisoa. E sebetsa ka browser ea marang-rang fonong, theblenteng kapa khomphutheng."
       }
     ]
   }

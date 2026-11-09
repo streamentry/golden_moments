@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Mbica ciĩhuanĩte",
+    "seoTitle": "Ithaako rĩa Kũringithania rĩa Andũ arĩa marĩ na Mũrimũ wa Kũriganĩrwo: Mbica Ciĩhuanĩte",
+    "h1": "Mbica Ciĩhuanĩte: Ithaako Rĩhoreri rĩa Kũringithania",
+    "description": "Ithaako rĩa tũhũ na rĩhoreri rĩa kũringithania mbica harĩ andũ arĩa marĩ na mũrimũ wa kũriganĩrwo. Mbica nene ciikaraga cionekete, gũtĩrĩ thaa kana marũa, na no mũthure tubau 4 nginya 12.",
+    "short": "Caria mbica igĩrĩ ciĩhuanĩte. Mbica no itũũre cionekete.",
+    "players": "Mũndũ 1 kana 2, mariganĩtie mwena kwa mwena",
+    "intro": "Hutia mbica ĩmwe, ũcoke ũhutie ĩrĩa ĩhuanĩte nayo. Mbica ciikaraga cionekete o ro ũrĩa kũrĩ, kwoguo gũtĩrĩ kĩndũ kĩrabatara kũririkanwo. Rĩrĩa mbica igĩrĩ ciahana, igĩaga na mũhaka wa rangi wa thahabu hamwe na rũũri rwa gwĩtĩkĩria.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Thura ũigana wa tubau iria mũkwenda kũhũthĩra. Tubau inya nĩ handũ hega na harĩ thayũ ha kwambĩrĩria.",
+      "Hutia mbica o yothe. Nĩĩkũgĩa na mũhaka wa rangi wa thahabu.",
+      "Hutia mbica ĩrĩa ĩhaana ta ĩyo. Mbica icio igĩrĩ nĩ ciikaraga hamwe irĩ na rũũri rwa gwĩtĩkĩria.",
+      "Angĩkorwo mbica icio igĩrĩ nĩ ngũrani, gũtĩrĩ ũũru o na ũmwe ũkũgĩa. Hutia rĩngĩ rĩrĩa rĩothe ũkwigua wĩhaarĩirie.",
+      "Hingũra \"Mbica hĩthe\" o rĩrĩa tu inywĩ eerĩ mwakenera mũthemba ũcio wa kũhũnja mbica na thĩ."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Gwetai mbica icio na mĩgambo hamwe na mũrie ũhoro wacio: \"Gĩkombe gĩkĩ gĩtune gĩa cai. Wee nĩũnyuaga cai na iria?\"",
+      "Rekereria mũndũ ũrĩa ũrarũmbwiya ahutie mbica, o na angĩkorwo nĩ ũndũ ũkũhũthĩra kahinda. Muonie na kĩara handũ ha kũmũhutĩria.",
+      "Tũũrai na tubau inya ihinda rĩrĩa rĩothe mũrĩiguĩte wega. Kũongerera tubau nĩ ũthuri wanyu, ti kĩara kĩrabatara gũkinyĩrwo.",
+      "Rĩkĩriai rĩrĩa ithaako rĩrĩ o rĩgĩkenerwo. Ithaako rĩmwe nĩ ũndũ mũiganu biũ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hihi nĩ kũrĩ na thaa kana ũtari wa marũa?",
+        "a": "Aca. Gũtĩrĩ thaa, marũa, ũtari wa kũhutia, kana kũhootwo. No mũtige ithaako ihinda o rĩrĩa mũkwenda, na gũtiga gatagatĩ-inĩ nĩ njĩra njega mũno ya kũrĩkĩria."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Kĩrĩkĩ gĩtũmaga mbica itũũre cionekete?",
+        "a": "Gũtũũria mbica cionekete kũgarũraga ithaako rĩkagia rĩa kũrora na kũringithania handũ ha kũririkana. Andũ aingĩ monaga ũndũ ũyũ ũrĩ na thayũ makĩria. No mũcenjie kũrĩ mbica hĩthe o na kũhutia rĩmwe mũngĩenda."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hihi nĩ ya tũhũ, na nĩ ndĩrabatara kwĩyandĩkĩtha?",
+        "a": "Ĩĩ, nĩ ya tũhũ, na gũtĩrĩ akaunti, kwĩyandĩkĩtha kana gũkuha kĩndũ (download). Ĩrutaga wĩra thĩinĩ wa kĩheeni gĩa intaneti (browser) thĩinĩ wa thimũ, tabuleti kana kompiuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Hihi no tũhũthĩre mbica citũ cia famĩlĩ?",
+        "a": "Ĩĩ. Gerai Photo pairs, ĩrĩa ĩmũrekagĩrĩria gũthura mbica kuuma thĩinĩ wa kĩhũthĩro kĩanyu. Mbica ciikaraga o thĩinĩ wa browser yanyu na ititũmagwo handũ hangĩ."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Caria ĩrĩa ĩhuanĩte",
+    "seoTitle": "Caria Mbica Ĩrĩa Ĩhuanĩte: Ithaako Rĩhũthũ harĩ Andũ arĩa marĩ na Mũrimũ wa Kũriganĩrwo",
+    "h1": "Caria Mbica Ĩrĩa Ĩhuanĩte",
+    "description": "Mbica ĩmwe igũrũ, na mbica igĩrĩ nginya inya rungu. Hutia ĩrĩa ĩhuanĩte nayo. Ithaako rĩa mbica rĩa thayũ na rĩa tũhũ harĩ andũ arĩa marĩ na mũrimũ wa kũriganĩrwo, gũtarĩ na thaa.",
+    "short": "Rora mbica ĩrĩa ĩrĩ igũrũ ũcoke ũhutie ĩrĩa ĩhaana nayo rungu.",
+    "players": "Mũndũ 1 kana 2",
+    "intro": "Mbica ĩmwe ĩikaraga igũrũ rĩa kĩrorero. Rungu rwayo he mbica igĩrĩ, ithatũ kana inya. Hutia ĩrĩa ĩhuanĩte nayo. Nĩ ũthuri ũmwe mũhũthũ ihinda o rĩmwe, ũrĩ na mweke mwega mũno wa kwaranĩria.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Thura mbica igĩrĩ, ithatũ kana inya cia gũthurĩra kwo. Mbica igĩrĩ nĩcio hũthũ makĩria.",
+      "Rorai mbica ĩrĩa ĩrĩ igũrũ hamwe.",
+      "Hutia mbica ĩyo ĩhuanĩte nayo rungu. Nĩĩkũgĩa na rũũri rwa gwĩtĩkĩria na ciugo nini cia kwendana.",
+      "Angĩkorwo mbica ĩngĩ ngũrani nĩyahutio, ithaako nĩrĩgweta o rĩĩtwa rwayo na rĩetereire. Hoyai ihinda rĩanyu wega.",
+      "Hutia \"Mbica ĩrĩa ĩrũmĩrĩire\" rĩrĩa mũkũigua mwĩhaarĩirie kũgĩa na ĩngĩ."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Arai ũhoro wa o mbica mbere ya gũthura: rangi, mĩhianĩre yayo, na kũrĩa mũngĩmĩona.",
+      "Gũthura gatagatĩ-inĩ ka mbica igĩrĩ ti ũndũ \"mũhũthũ mũno\". Muoroto nĩ kũgĩa na ihinda rĩega rĩa gĩkeno, ti kũgerio.",
+      "Angĩkorwo kũhutia nĩ kũritũ, mũndũ ũcio no arute kĩara nawe ũmũhutĩrie."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hihi nĩ kũrĩ na thaa kana ũtari wa marũa?",
+        "a": "Aca. Gũtĩrĩ thaa, marũa, ũtari wa kũhutia, kana kũhootwo. No mũtige ithaako ihinda o rĩrĩa mũkwenda, na gũtiga gatagatĩ-inĩ nĩ njĩra njega mũno ya kũrĩkĩria."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Gũkĩgĩaga atĩa angĩkorwo mbica ĩrĩa ĩtagĩrĩire nĩyahutio?",
+        "a": "Gũtĩrĩ ũũru o na ũmwe ũkũgĩa. Gũtĩrĩ mũgambo wa kũrigariga, mũthalaba mũtune, kana kũinaina. Ithaako nĩrĩgweta rĩĩtwa rĩa mbica ĩrĩa yahutio na rĩgeterera kũhutio kũngĩ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hihi nĩ ya tũhũ, na nĩ ndĩrabatara kwĩyandĩkĩtha?",
+        "a": "Ĩĩ, nĩ ya tũhũ, na gũtĩrĩ akaunti, kwĩyandĩkĩtha kana gũkuha kĩndũ (download). Ĩrutaga wĩra thĩinĩ wa kĩheeni gĩa intaneti (browser) thĩinĩ wa thimũ, tabuleti kana kompiuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kũringithania kĩruru",
+    "seoTitle": "Ithaako rĩa Kũringithania Kĩruru harĩ Andũ arĩa marĩ na Mũrimũ wa Kũriganĩrwo: Rĩa Tũhũ Kĩheeni-inĩ",
+    "h1": "Kũringithania Kĩruru: Ithaako Rĩhoreri rĩa Mbica",
+    "description": "Kĩruru kĩirũ igũrũ, na mbica igĩrĩ nginya inya rungu. Hutia mbica ĩrĩa ĩratũma kĩruru kĩu kĩgĩe. Ithaako rĩa tũhũ na rĩa thayũ rĩa kũringithania kĩruru harĩ andũ arĩa marĩ na mũrimũ wa kũriganĩrwo, gũtarĩ na thaa.",
+    "short": "Rora kĩruru ũcoke ũhutie mbica ĩrĩa ĩrakĩrehe.",
+    "players": "Mũndũ 1 kana 2",
+    "intro": "Kũringithania kĩruru nĩ ithaako rĩũĩkaine kuuma maratathi-inĩ marĩa macabĩtwo, no haha rĩrĩ na mbica nene na gũtĩrĩ kĩndũ kĩrabatara gũcabwo. Kĩruru kĩororo kĩikaraga igũrũ rĩa kĩrorero na mbica igĩrĩ, ithatũ kana inya iketerera rungu. Hutia ĩrĩa ĩratũma kĩruru kĩu kĩgĩe. Mĩhianĩre ta baisikiri, thambũreria, kana gĩkombe gĩa cai nĩ mĩhũthũ gũteterwo nĩ ũhoro o nayo.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Thura mbica igĩrĩ, ithatũ kana inya cia gũthurĩra kwo. Mbica igĩrĩ nĩcio hũthũ makĩria.",
+      "Rorai kĩruru kĩu hamwe. Kĩhaana atĩa? Nĩ kĩraihu kana nĩ gĩthiũrũrũke?",
+      "Hutia mbica ĩrĩa ĩratũma kĩruru kĩu kĩgĩe. Rĩĩtwa rwayo nĩ rĩoneke rungu rwa kĩruru.",
+      "Angĩkorwo mbica ĩngĩ ngũrani nĩyahutio, ithaako nĩrĩgweta o rĩĩtwa rwayo na rĩetereire. Hoyai ihinda rĩanyu wega.",
+      "Hutia \"Kĩruru kĩrĩa gĩkũrũmĩrĩra\" rĩrĩa mũkũigua mwĩhaarĩirie kũgĩa na kĩngĩ."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Thingĩrĩriai mĩhaka ya kĩruru na kĩara na mwarĩrie ũrĩa gĩhaana.",
+      "Angĩkorwo makĩruru nĩ maroneka maritũ ũmũthĩ, cenjiai mũthiĩ kũrĩ Caria ĩrĩa ĩhuanĩte, kũrĩa mbica ciĩhuanĩte.",
+      "Arai ũhoro wa mbica ĩyo rĩrĩa yoneka: \"Twarĩ na thambũreria ĩhaana ta ĩyo.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hihi nĩ kũrĩ na thaa kana ũtari wa marũa?",
+        "a": "Aca. Gũtĩrĩ thaa, marũa, ũtari wa kũhutia, kana kũhootwo. No mũtige ithaako ihinda o rĩrĩa mũkwenda, na gũtiga gatagatĩ-inĩ nĩ njĩra njega mũno ya kũrĩkĩria."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Hihi kũhianania kĩĩgunyĩ nĩ kwega harĩ andũ arĩa marĩ na thĩna wa kũriganĩrwo nĩ maũndũ?",
+        "a": "No ũkorwo ũrĩ ũndũ mwega na mũhũthũ harĩ andũ amwe, makĩria kĩambĩrĩria-inĩ. Mĩhianĩre nĩ mĩhũthũ kũmenya gũkĩra ciugo. Nĩ ya gĩkeno na kwaranĩria, ti kĩgeranyo, na ndĩrigagĩrĩria kana kũhonia kũriganĩrwo nĩ maũndũ. Angĩkorwo ĩkũrehe kũnoga ngoro, geriai Cethai ĩrĩa ĩhianĩte nayo kana o kũrora mbica hamwe."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Gũkaga atĩa mbica ĩrĩa ĩtagĩrĩire yahinyĩrĩrio?",
+        "a": "Gũtirĩ ũndũ mũru wokaga. Gũtirĩ mũgambo wa kũhũũra, mũtharaba mũtune, kana kũinaina gwa kĩara. Ithako nĩ rĩĩtaga rĩĩtwa rĩa mbica ĩrĩa yahinyĩrĩrio na rĩgeterera kũhinyĩrĩrio rĩngĩ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hihi nĩ ya kũhũthĩra tũhũ, na nĩ ngũbatara kwĩyandĩkithia?",
+        "a": "Ĩĩ, nĩ ya kũhũthĩra tũhũ, na gũtirĩ akaunti, kwĩyandĩkithia, kana kũbuthũra kĩndũ. Ĩrutaga wĩra thĩinĩ wa web browser thĩinĩ wa thimũ, tablet, kana kompiuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Mũranĩrai hamwe",
+    "seoTitle": "Ithako rĩa Kũmũrania harĩ Andũ arĩa marĩ na Kũriganĩrwo nĩ Maũndũ: Mũranĩrai Hamwe",
+    "h1": "Mũranĩrai Hamwe: Ũndũ wa Kũmũrania Mbica",
+    "description": "Hinyĩrĩria mbica, ũcoke ũhinyĩrĩrie gĩkabu kĩrĩa ĩgwĩkĩrwo: kĩgĩna-inĩ kana mũgũnda-inĩ, matunda kana nyamũ. Ũndũ mũhooreri na wa tũhũ wa kũmũrania mbica harĩ andũ arĩa marĩ na thĩna wa kũriganĩrwo nĩ maũndũ.",
+    "short": "Ĩkĩra o mbica gĩkabu-inĩ gĩakĩo: kĩgĩna-inĩ kana mũgũnda-inĩ, na mangĩ maingĩ.",
+    "players": "Mũndũ 1 kana 2",
+    "intro": "Kũmũrania maũndũ nĩ wĩra ũyũĩkĩte na ũrehagĩre ngoro gĩkeno o mũthenya, ta kũiga indo cia thoko wega kana kũbanga thogithi. Hinyĩrĩria mbica, ũcoke ũhinyĩrĩrie gĩkabu kĩrĩa ĩgwĩkĩrwo. Gũtirĩ kũhiũha na gũtirĩ mahĩtia.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Thuura mũthemba ũmwe: kĩgĩna na mũgũnda, matunda na nyamũ, kana mũciĩ na rũgendo.",
+      "Hinyĩrĩria mbica. Nĩ ĩgĩaga na mũhaka wa rangi wa thahabu.",
+      "Hinyĩrĩria gĩkabu kĩrĩa ĩgwĩkĩrwo. Mbica nĩ ĩrathaama ĩgathiĩ gĩkabu-inĩ kĩu.",
+      "Angĩkorwo ĩgĩrĩire gĩkabu-inĩ kĩrĩa kĩngĩ, ithako rĩonanagia ũhoro ũcio na njĩra ya ũhooreri na rĩgeterera.",
+      "Mbica ciothe ciamũranio, rorai thĩinĩ wa ikabu icio hamwe."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mũtũũrĩre-inĩ wa o mũthenya, ti kaingĩ gũkoragwo na macokio maru. Mũndũ angĩuga gĩkombe gĩa kũitĩrĩria maĩ kĩagĩrĩire kĩgĩna-inĩ, mũũrie kĩtũmi. No mũgĩe na rũgano rwega.",
+      "Hũthĩrai mbica ta kĩambĩrĩria gĩa kwaria: \"Nĩ kĩĩ wahandĩte mũgũnda-inĩ waku?\"",
+      "Kũmũrania indo cia kũhũthĩra cia biũ, ta thihaani na marũma kana thithiro kũringana na rangi, nĩ ũndũ mwega mũno wa kũhũthĩra mũtegũkorwo mbere ya kĩara kĩa thimũ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hihi nĩ kũrĩ thaa kana ũtari wa pointi?",
+        "a": "Aca. Gũtirĩ thaa, pointi, kĩndũ gĩa gũtara mathiĩro, kana kũhũũrwo. No mũtige rĩrĩa rĩothe mwendete, o na kũtigĩrĩria gatagatĩ nĩ njĩra njega biũ ya kũrĩkĩa."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Nĩ kĩĩ gĩtũmaga tũmũranie?",
+        "a": "Andũ aingĩ nĩ mendete kũmũrania indo tondũ kũiguĩkaga ta wĩra wa bata na ũyũĩkĩte. Ningĩ nĩ ũhũthũ kwaranĩria ũhoro wa mbica icio o mũgĩthiĩ na mbere."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hihi nĩ ya kũhũthĩra tũhũ, na nĩ ngũbatara kwĩyandĩkithia?",
+        "a": "Ĩĩ, nĩ ya kũhũthĩra tũhũ, na gũtirĩ akaunti, kwĩyandĩkithia, kana kũbuthũra kĩndũ. Ĩrutaga wĩra thĩinĩ wa web browser thĩinĩ wa thimũ, tablet, kana kompiuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pazuru ya mbica",
+    "seoTitle": "Pazuru Hũthũ ya Mbica harĩ Andũ arĩa marĩ na Kũriganĩrwo nĩ Maũndũ: Icunjĩ 4 kana 9",
+    "h1": "Pazuru ya Mbica: Pazuru Hũthũ",
+    "description": "Pazuru hũthũ ya kĩ-ndani harĩ andũ arĩa marĩ na thĩna wa kũriganĩrwo nĩ maũndũ: icunjĩ nene 4 kana 9, mbica ĩrĩa yothe nĩ ĩkoragwo ĩroneka, na ũhinyĩrĩria icunjĩ igĩrĩ nĩguo ichenjanie handũ.",
+    "short": "Hinyĩrĩria icunjĩ igĩrĩ nĩguo ichenjanie nginya mbica ĩhĩnge yothe.",
+    "players": "Mũndũ 1 kana 2",
+    "intro": "Mbica njega nĩ ĩtemanagwo gũtũĩka icunjĩ nene inya kana kenda na igatukanio. Mbica yothe ĩtũũraga ĩroneka ta kĩonereria. Hinyĩrĩria gĩcunjĩ kĩmwe, ũcoke ũhinyĩrĩrie kĩngĩ, nacio nĩ iragarũrana handũ. Gũtirĩ bata wa gũkũria kĩndũ kĩara-inĩ.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Thuura mbica na icunjĩ 4 kana 9. Inya nĩ kĩambĩrĩria kĩhooreri wega.",
+      "Rora mbica ĩrĩa yothe ĩrĩ igũrũ.",
+      "Hinyĩrĩria gĩcunjĩ kĩmwe, ũcoke ũhinyĩrĩrie handũ harĩa gĩagĩrĩire gũthiĩ. Icunjĩ icio igĩrĩ nĩ iracenjania handũ.",
+      "Icunjĩ iria irĩ handũ hacio harĩa hagĩrĩire nĩ igĩaga na karũru kanini ka kuonania nĩ wega.",
+      "Rĩrĩa mbica ĩngĩhĩnga yothe, mĩkenerei hamwe, mũcoke mũthuure ĩngĩ."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kũhinyĩrĩria icunjĩ igĩrĩ nĩguo ichenjanie nĩ ũndũ mũhũthũ mũno harĩ andũ aingĩ gũkĩra gũgĩkũria kĩara-inĩ.",
+      "Arianĩrai ũhoro wa mbica ĩyo o ĩgĩkorwo ĩkĩbangarĩka: \"Rora, kĩu nĩ gĩthaka kĩtune kĩa nyũmba.\"",
+      "Pazuru ya mbaũ ya biũ ya icunjĩ nene 12 nginya 24 o nayo nĩ ũndũ mwega mũno wa gũthakĩra metha-inĩ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hihi nĩ kũrĩ thaa kana ũtari wa pointi?",
+        "a": "Aca. Gũtirĩ thaa, pointi, kĩndũ gĩa gũtara mathiĩro, kana kũhũũrwo. No mũtige rĩrĩa rĩothe mwendete, o na kũtigĩrĩria gatagatĩ nĩ njĩra njega biũ ya kũrĩkĩa."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Hihi nĩ ngũbatara gũkũria icunjĩ kĩara-inĩ?",
+        "a": "Aca. Hinyĩrĩria gĩcunjĩ kĩmwe, ũcoke ũhinyĩrĩrie kĩngĩ, nacio nĩ iragarũrana handũ. Ũndũ ũyũ nĩ mũhũthũ makĩria harĩ mũndũ ũrĩa ũkũinaina moko kana thĩinĩ wa kĩara kĩnini kĩa thimũ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hihi nĩ ya kũhũthĩra tũhũ, na nĩ ngũbatara kwĩyandĩkithia?",
+        "a": "Ĩĩ, nĩ ya kũhũthĩra tũhũ, na gũtirĩ akaunti, kwĩyandĩkithia, kana kũbuthũra kĩndũ. Ĩrutaga wĩra thĩinĩ wa web browser thĩinĩ wa thimũ, tablet, kana kompiuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Rĩkĩria thimo",
+    "seoTitle": "Rĩkĩria Thimo: Ithako rĩa Thimo harĩ Athuri na Atumia",
+    "h1": "Rĩkĩria Thimo",
+    "description": "Thimo ciĩkĩte kũmenyeka cia Amerika iria ciagĩte kiugo kĩa mũico, ta \"A penny saved is a penny ___\". Hinyĩrĩria kĩrĩa ũgũthuura kana wonanie kĩrĩkĩrĩro, mũcoke mwarĩrie ũhoro wakĩo.",
+    "short": "Rĩkĩriai thimo iria mũũĩ hamwe, mũcoke mwarĩrie ũhoro wacio.",
+    "players": "Mũndũ 1, 2 kana gĩkundi",
+    "intro": "Thimo cia tene kaingĩ nĩ ikoragwo ciĩkĩte kũmenyeka mũtũũrĩre wothe. O karatathi koonanagia thimo ĩĩkĩte kũmenyeka ĩtegũkorwo na kiugo kĩa mũico, mathuuro matatũ, hamwe na kabatĩ kĩa \"Onania kĩrĩkĩrĩro\". Thutha wa kĩrĩkĩrĩro kuoneka, kĩũria kĩhooreri nĩ gĩtũmaga mũgĩe na ndeereti njega.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Thomai thimo ĩyo na mũgambo mũnene hamwe.",
+      "Hinyĩrĩria kiugo kĩrĩa kĩrĩmĩrĩkia, kana ũhinyĩrĩrie \"Onania kĩrĩkĩrĩro\".",
+      "Thomai thimo ĩyo yothe rĩngĩ na mwarĩrie ũhoro wayo kũringana na kĩũria kĩu.",
+      "Hinyĩrĩria \"Thimo ĩrĩa ĩrũmĩrĩire\" rĩrĩa mwahaarĩrĩka."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Thoma kahora na ũtige kamwanya kanini mbere ya kiugo kĩa mũico. Kaingĩ andũ nĩ makĩugaga o ũtanarĩkĩa.",
+      "Mũndũ angĩheana kĩrĩkĩrĩro kĩngĩ ngũrani, kĩkenerei. Thimo imwe nĩ ikoragwo na mĩario ĩngĩ kũringana na mĩhĩrĩga kana icigo ciacio.",
+      "Thĩinĩ wa gĩkundi, mũndũ ũmwe athomaga na andũ arĩa angĩ othe makamĩrĩkĩria hamwe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hihi nĩ kũrĩ thaa kana ũtari wa pointi?",
+        "a": "Aca. Gũtirĩ thaa, marama, kũtara mathambũrio kana gũtoorio. No ũtige hĩndĩ o yothe, na gũtĩrĩria gatagatĩ nĩ njĩra njega biũ ya kũrĩkia."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Gũkaahaana atĩa twathũũra kiugo kĩngĩ ngũrani?",
+        "a": "Ithaako nĩ rĩonanagia mũthia ũrĩa ũmenyerekete na rĩkaheana mwanya wa kwaria. Gũtirĩ marama, na macokio mangĩ ngũrani nĩ meega o wega."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Nĩ ya tũhũ, na nĩ ngũbatara kwĩyandĩkithia?",
+        "a": "Ĩĩ, nĩ ya tũhũ, na gũtirĩ akaunti, kwĩyandĩkithia kana gũkuua kĩndũ kũgerera intaneti. Ĩrutaga wĩra thĩinĩ wa browser ya thimũ, tebuleti kana kompiuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Gũcaria ciugo cia maandĩko manene",
+    "seoTitle": "Gũcaria Ciugo cia Maandĩko Manene kũrĩ Andũ arĩa Marĩ na Kũriganĩrwo, cia Gũcabĩka",
+    "h1": "Gũcaria Ciugo cia Maandĩko Manene",
+    "description": "Ithaako rĩa tũhũ rĩa gũcaria ciugo ciandĩkĩtwo na maandĩko manene kũrĩ andũ akũrũ na arĩa marĩ na kũriganĩrwo nĩ meciria. Ciugo nĩ nini, ndemwa nene, na ciugo nĩ cia kũgĩa mwena kũrĩ mwena kana kuuma igũrũ gũthiĩ thĩ tu. Thaaka kũgerera intaneti kana ũcabe.",
+    "short": "Ndemwa nene, ciugo nini, kuuma mwena kũrĩ mwena na igũrũ gũthiĩ thĩ tu. O na no ũcabe.",
+    "players": "Mũndũ 1 kana 2",
+    "intro": "Kanyomoko kanini karĩ na ndemwa nene na ciugo nini tu, ciothe ithomagwo kuuma mwena kũrĩ mwena kana igũrũ gũthiĩ thĩ. Hũnya ndemwa ya mbere ya kiugo, ũcoke ũhũnye ndemwa yakĩo ya mũthia. Nĩ wendete karatathi? Caba ithaako rĩerũ o na kũhũnya rĩmwe tu.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Thuura kĩongo kĩa maũndũ na ũnene wa kanyomoko.",
+      "Rora mũkũkũ wa ciugo. Ciugo ithomagwo kuuma ũmotho gũthiĩ ũrĩo (across) kana kuuma igũrũ gũthiĩ thĩ (down).",
+      "Hũnya ndemwa ya mbere ya kiugo, ũcoke ũhũnye ndemwa yakĩo ya mũthia.",
+      "Kiugo kĩrĩa kĩooneka nĩ gĩkũhithũrio na kĩgathario kuuma mũkũkũ-inĩ.",
+      "Hũnya \"Caba ithaako rĩrĩ\" nĩguo ũthaakĩre karatathi-inĩ na karamu kana rũbuku."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Toria kiugo mũkũkũ-inĩ na mũcarie ndemwa yakĩo ya mbere mũrĩ hamwe.",
+      "Karatathi-inĩ, karamu kanene ka rangi nĩ kahũthũ kũnyita gũkĩra karamu ga gĩtĩ.",
+      "Ariiagĩrai ũhoro wa ciugo cia kĩongo kĩu. Ciugo cia matunda nĩ njĩra njega ya kũririkana gũtua, kũruga kana thoko."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gũrĩ thaa kana marama?",
+        "a": "Aca. Gũtirĩ thaa, marama, kũtara mathambũrio kana gũtoorio. No ũtige hĩndĩ o yothe, na gũtĩrĩria gatagatĩ nĩ njĩra njega biũ ya kũrĩkia."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "No njabe ithaako rĩrĩ rĩa gũcaria ciugo?",
+        "a": "Ĩĩ. Hũnya \"Caba ithaako rĩrĩ\" nĩguo ũcabe kanyomoko kau karĩ na ndemwa nene, hamwe na mũkũkũ wa ciugo rungu rwako. O ithaako rĩerũ rĩkoragwo rĩrĩ rĩngĩ ngũrani."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Nĩ ya tũhũ, na nĩ ngũbatara kwĩyandĩkithia?",
+        "a": "Ĩĩ, nĩ ya tũhũ, na gũtirĩ akaunti, kwĩyandĩkithia kana gũkuua kĩndũ kũgerera intaneti. Ĩrutaga wĩra thĩinĩ wa browser ya thimũ, tebuleti kana kompiuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Mabuthĩ ma gũhaka rangi",
+    "seoTitle": "Mabuthĩ ma Gũhaka Rangi kũrĩ Andũ Agima arĩa Marĩ na Kũriganĩrwo (Ma Tũhũ)",
+    "h1": "Mabuthĩ ma Gũhaka Rangi",
+    "description": "Mabuthĩ mahũthũ ma andũ agima ma gũhaka rangi marĩ na kũndũ kũnene: hũnya rangi, ũcoke ũhũnye mbica. Gũtirĩ gĩtitiro, gũtirĩ rangi mũhĩtanu, na o ithangu no rĩcabwo gwa tũhũ.",
+    "short": "Hũnya rangi, ũcoke ũhũnye gĩcunjĩ kĩa mbica. O na no ũcabe mabuthĩ maya.",
+    "players": "Mũndũ 1 kana 2",
+    "intro": "Mabuthĩ marĩ na mbica hũthũ na nene: ihũa rĩrĩ thĩinĩ wa nyũngũ, nyũmba, gĩkombe kĩa caai, ngĩũngũhũ, na marikabu. Hũnya rangi, ũcoke ũhũnye gĩcunjĩ kĩa mbica nĩguo ũkĩiyũrie rangi. Gũtirĩ rangi o na ũmwe mũhĩtanu.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Thuura ithangu.",
+      "Hũnya rangi. O rangi nĩ wandĩkĩtwo rĩĩtwa rĩaguo igũrũ rĩaguo.",
+      "Hũnya gĩcunjĩ kĩa mbica nĩguo ũkĩiyũrie rangi ũcio.",
+      "No ũcenjie meciria hĩndĩ o yothe na kũhaka rangi ũngĩ rĩngĩ.",
+      "Hũnya \"Caba ithangu rĩrĩ\" nĩguo wone ithangu rĩtarĩ ihake ũhake na karamu kana rangi."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Heana marangi merĩ tu ma gũthuura handũ ha marangi mothe angĩkorwo gũthuura kũrotetheka nĩ kũritũha.",
+      "Mĩtĩ ya rangi wa barũbũ na riũa rĩa buruu nĩ mikĩrĩre ngoro. Ũndũ ũrĩa ũrendekana nĩ gũkenera rangi, ti gũkorwo maũndũ me ma biũ.",
+      "Mabuthĩ marĩa macabĩtwo nĩ mega mũno ũkĩhũthĩra makara manene ma rangi, tondũ nĩ mahũthũ kũnyita moko-inĩ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gũrĩ thaa kana marama?",
+        "a": "Aca. Gũtirĩ thaa, marama, kũtara mathambũrio kana gũtoorio. No ũtige hĩndĩ o yothe, na gũtĩrĩria gatagatĩ nĩ njĩra njega biũ ya kũrĩkia."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Hihi mabuthĩ maya nĩ ma twana mũno?",
+        "a": "Twacũnire indo hũthũ na cia thaayũ handũ ha mbica cia mĩthaako ya ciana, nĩguo mabuthĩ maya magĩrĩre andũ agima. Indo iria nene itũmaga kũhaka rangi gũkorwo kũhũthũ hatarĩ gũtuĩka ta kĩndũ kĩa twana tũnini."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Nĩ ya tũhũ, na nĩ ngũbatara kwĩyandĩkithia?",
+        "a": "Ĩĩ, nĩ ya tũhũ, na gũtirĩ akaunti, kwĩyandĩkithia kana gũkuua kĩndũ kũgerera intaneti. Ĩrutaga wĩra thĩinĩ wa browser ya thimũ, tebuleti kana kompiuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kathi cia ndeereti",
+    "seoTitle": "Kĩambĩrĩria kĩa Ndeereti kũrĩ Andũ arĩa Marĩ na Kũriganĩrwo: Kathi cia Mbica",
+    "h1": "Kathi cia Ndeereti",
+    "description": "Kathi cia mbica irĩ na ciũria cia thaayũ cia kwambĩrĩria ndeereti kũrĩ andũ arĩa marĩ na kũriganĩrwo: gũtirĩ kũũrio ciũria ta kĩgeranio, gũtirĩ macokio marĩa magĩrĩire ma kĩene. Hũthĩra thĩinĩ wa kĩrũrũmĩrwo kana ũcabe mũkũkũ wothe.",
+    "short": "Kathi cia mbica irĩ na ciũria ihũthũ cia thaayũ. Gũtirĩ ciũria ta kĩgeranio.",
+    "players": "Andũ 2 kana gĩkundi",
+    "intro": "O gathi ĩkoragwo na mbica ĩmenyerekete hamwe na kĩũria kĩega kĩa kwaria, ta \"Nĩ rĩera rĩrĩkũ ũrĩa wendete mũno?\" Gũtirĩ macokio mathuure ma kĩene na gũtirĩ ũndũ ũkũbatarĩka kũririkana. Thuura kĩongo kĩa maũndũ kana ũtukanie ciothe.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Thuura kĩongo kĩa maũndũ, kana ũtige \"Kathi ciothe\".",
+      "Thoma kĩũria na mũgambo mũnene na mũrore mbica ĩyo mũrĩ hamwe.",
+      "Thikĩrĩria, heana macokio maku mwene, na ũreke ndeereti ĩthiĩ ũrĩa ĩkwenda.",
+      "Hũnya \"Gathi ĩrĩa ĩrũmĩrĩire\" rĩrĩa mwĩhaarĩirie, kana mũikare na gathi ĩmwe ihinda rĩrĩa mothe mwendete.",
+      "Hũnya \"Caba kathi ciothe\" nĩguo ũtĩnie gĩkundi kĩa kathi cia karatathi."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "O nawe mwene cokia kĩũria kĩu. Ũguo nĩ ũtũmaga kũhaane ta ndeereti, ti kũũrio ciũria ta ũhoro wa wĩra.",
+      "Rũmĩrĩra rũgano, ti kũrũmĩrĩra maũndũ kũrũmana ci biũ. Maũndũ mangĩcenjia, ũcio nĩ wega o wega.",
+      "Gathi ĩngĩtuma mũndũ aririkane ũndũ wa kĩeha, menyagĩrĩra kĩeha kĩu na ũthiĩ gathi-inĩ ĩngĩ na ũhoreri."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Nĩ kĩĩ gĩtũmaga gũtikaagĩe ciũria ta \"Nĩ ũraririkana...?\"?",
+        "a": "Ciũria iria igeragia kĩririkano no ithaane ta kĩgeranio na itũme mũndũ agĩe na thoni. Mĩario ya kũnyita ũgeni ta \"Ndeerera ũhoro wa...\" nĩ ĩrekagĩrĩria mũndũ o wothe aingĩre ndeereti-inĩ, kũringana na kĩrĩa arĩkia kũririkana."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "No njabe kathi ici?",
+        "a": "Ĩĩ. \"Caba kathi ciothe\" nĩ ĩcabaga kathi ciothe irĩ na maandĩko manene, kathi cigana ũna thĩinĩ wa o ithangu, cihaarĩirie gũtĩnio."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Nĩ ya tũhũ, na nĩ ngũbatara kwĩyandĩkithia?",
+        "a": "Ĩĩ, nĩ ya tũhũ, na gũtirĩ kũhingũra akaunti, kwĩandĩkithia kana gũkobia kĩndũ. Ĩrutaga wĩra thĩinĩ wa kĩrorero gĩa intaneti (browser) thĩinĩ wa thimũ, tabuleti kana kompiuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Mbica cia kũringithania",
+    "seoTitle": "Thondeka Ithako rĩa Kũringithania kuuma kũrĩ Mbica cia Famĩlĩ",
+    "h1": "Mbica cia Kũringithania: Ringithania Mbica Cianyu Mwene",
+    "description": "Garũrai mbica cianyu cia famĩlĩ ituĩke ithako rĩororo rĩa kũringithania. Thuurai mbica 2 nginya 6 thĩinĩ wa thimũ kana kompiuta yanyu; itigĩraga thĩinĩ wa kĩrorero kĩa intaneti na itiamũkagio kũndũ kũngĩ.",
+    "short": "Thuurai mbica cianyu mwene mũciringithanie. Gũtirĩ kĩndũ kĩamũkagio.",
+    "players": "Andũ 2, maikarĩte hamwe",
+    "intro": "Thuurai mbica igĩrĩ nginya ithathatũ kuuma thĩinĩ wa thimũ, tabuleti kana kompiuta yanyu, nacio ituĩke ithako rĩa kũringithania rĩrĩ na mbica nene cionekaga wega. Mbica ici cionanagio o thĩinĩ wa rũkũngũ rũrũ basi. Itiamũkagio kũndũ, itigaagĩtwo kana kũgayagio na mũndũ, na nĩciũraga rĩrĩa mwahinga rũkũngũ rũrũ.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Hũtha \"Thuura mbica\" ũcoke ũthuure mbica igĩrĩ nginya ithathatũ.",
+      "O mbica yonekaga maita merĩ. Hũtha ĩmwe, ũcoke ũhũthe ĩrĩa ĩhianĩte nayo.",
+      "Ariiagĩrai ũhoro wa o mbica rĩrĩa mwamĩona.",
+      "Rĩrĩa mwarĩkia, hingai rũkũngũ rũrũ kana ũhũthe \"Eheria mbica\". Gũtirĩ kĩndũ kĩigagwo."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Thuurai mbica theru cia maũndũ me gĩkeno na marĩa moĩkaine wega: nyamũ ya mũciĩ, mũgũnda, handũ hendetwo mũno, kana mũthenya wa kĩhĩko.",
+      "Mbica cia kũndũ na indo no ikorũo irĩ hũthũ gũkĩra cia mothiũ, na nĩciũragagia mũthĩnĩko wa kũgeria kũririkana marĩĩtwa ma andũ.",
+      "Tiganĩriai mbica cia andũ arĩa matũire gĩkuũ angĩkorũo no irehe kĩeha kĩa kĩhũũnĩko, tiga rĩrĩa mũĩ wega atĩ nĩirehe ũkiriikano mwega."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Mbica ciakwa nĩ kũrĩ kũndũ ciamũkagio?",
+        "a": "Aca. Rũkũngũ rũrũ rũthomaga mbica iria mwathuura thĩinĩ wa kĩrorero kĩanyu gĩa intaneti o rĩo na ikonanio kĩharo-inĩ kĩanyu. Ititũmagĩrwo ithuĩ kana mũndũ ũngĩ o na ũrĩkũ, na nĩciũraga rĩrĩa mwahinga kana mũgacokia rũkũngũ rũrũ rĩngĩ."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Nĩ harĩ thaa kana ũtari wa mbointi?",
+        "a": "Aca. Gũtirĩ thaa, mbointi, kũtara mĩthiire kana gũtoorwo. No mũtige rĩrĩa o ryothe mwangĩenda, na gũtiga gatagatĩ-inĩ nĩ njĩra njega biũ ya kũrĩkia."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "No njĩge ithako rĩrĩ nĩgetha tũkarĩhaka rĩngĩ?",
+        "a": "Aca thĩinĩ wa kĩrorero gĩa intaneti, tondũ mĩbango ĩkĩtwo ũguo nĩguo gũtikanagĩe ũhoro wa hitho ũigĩtwo. O na kũrĩ ũguo, apu ya tũhũ ya Golden Moments ya iPhone na iPad no ĩige mbica iria ithuurĩtwo thĩinĩ wa thimũ kana tabuleti yanyu."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ya mbica",
+    "seoTitle": "Bingo ya Mbica ya Andũ Akũrũ arĩa marĩ na Mũrimũ wa Kũriganĩrwo: No Ĩcabĩke",
+    "h1": "Bingo ya Mbica ya Ikundi",
+    "description": "Bingo ya mbica ya tũhũ ĩrĩa ĩngĩcabĩka nĩ ũndũ wa ikundi cia kũrũmbũiya meciria na andũ akũrũ, ĩrĩ na kĩonereria kĩnene gĩa kĩharo-inĩ. Mbica nene ciĩ na ciugo, tũcunjĩ 9 kana 16, hatarĩ bata wa gũthoma.",
+    "short": "Tũkathi twa bingo ya mbica tũrĩa tũngĩcabĩka na kĩonereria gĩa kĩharo kĩnene kĩa ikundi.",
+    "players": "Gĩkundi kĩa andũ 2 nginya 30",
+    "intro": "Ithako rĩa bingo rĩrĩa rĩoĩkaine rĩkĩhũthĩra mbica handũ ha ndamba, nĩguo gũtikanagĩe mũndũ ũrabatara gũthoma maandĩko manini. Cabai tũkathi twa mwanya, mũcoke mũhũthĩre kĩonereria gĩa kĩharo kuonania o mbica ĩrĩ nene thĩinĩ wa TV, laptop kana tabuleti.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Thuurai tũcunjĩ 9 kana 16 harĩ o gathĩ na ũigana wa athaki.",
+      "Hũtha \"Caba tũkathi\". O gathĩ nĩ ka mwanya.",
+      "Hingũrai kĩonereria thĩinĩ wa kĩharo kĩnene. Hũtha \"Mbica ĩrĩa ĩrũmĩrĩire\" nĩguo muonanie o mbica hamwe na rĩĩtwa rĩayo.",
+      "Athaki mahumbĩre mbica ĩrĩa ĩhianĩte nayo thĩinĩ wa gathĩ kao makĩhũthĩra mbeca ya kĩbaba, igoti kana kĩndũ kĩa kũrũra.",
+      "Mũndũ o wothe ũkũhingia mũhari, kana gathĩ gothe, nĩagagĩkĩrũo ngurũ. Gũtirĩ mũndũ ũtooragwo gĩkundi-inĩ gĩkĩ: thiĩi na mbere gũthaka nginya rĩrĩa o mũndũ akaagĩa na mũhari."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Hũthĩrai tũndũ tũnene ta ngatheti cia mathako kana ngothi cia cuba. Magoti manini no makorũo marĩ maritũ kũnyita.",
+      "Gwetai rĩĩtwa rĩa mbica na mwario ũndũ ũmwe wĩgiĩ yo: \"Meli ya rũhuho. Nũ ũrĩ watambũrũka na gatarũ?\"",
+      "Ikariei andũ arĩa marĩ na thĩna wa kuona hakuhĩ mũno na kĩharo, na mũtume ateithĩrĩria maikarane na athaki arĩa marabatara ũteithio.",
+      "Tũcunjĩ kenda nĩ tũiganu nĩ ũndũ wa ikundi nyingĩ. Rekei ihinda rĩa gũthaka rĩkorũo kũrĩ ndagĩka ta 20 nginya 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ingĩtoria atĩa gũtongoria bingo ya mbica thĩinĩ wa nyũmba ya kũrũmbũiya andũ akũrũ?",
+        "a": "Cabai gathĩ kamwe harĩ o mũthaki, mwĩkĩre kĩonereria thĩinĩ wa kĩharo kĩrĩa kĩnene mũno mũrĩ nakĩo, na mũgwete mbica o kahora, mũkĩhetaga o ĩmwe rĩĩtwa. Thakagai nginya rĩrĩa o mũndũ akaagĩa na mũhari, nĩguo gũtikanagĩe mũndũ ũtiganĩirio."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Nĩ ya tũhũ gũcaba?",
+        "a": "Ĩĩ. Cabai tũkathi twingĩ ũrĩa mũrabatara, na maita maingĩ ũrĩa mũkwenda, nĩ ũndũ wa mũhũthĩre wanyu mwene kana wa gĩkundi."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Andũ no mathake gũtekũbatarania gũthoma?",
+        "a": "Ĩĩ. O gacunjĩ nĩ mbica nene, ĩrĩ na rĩĩtwa rĩayo rungu nĩ ũndũ wa arĩa mendete ciugo."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Kũheera kwa hooreri",
+    "seoTitle": "Kũhurũka gwa Kũheera kwa Hooreri nĩ ũndũ wa Andũ Akũrũ na Arũmbũiya ao",
+    "h1": "Kũhurũka gwa Kũheera kwa Hooreri",
+    "description": "Kũhurũka gwa kahora na kĩhooto kĩa kũheera mũrĩ hamwe: gĩthiũrũrĩ kĩororo nĩgĩkũraga na gĩkaniniha maita mathathatũ ma kũheera. Wee mwene nĩwe ũkĩambagĩrĩria, na no ũkĩrũgamie ihinda o rĩothe.",
+    "short": "Gĩthiũrũrĩ kĩa kahora gĩa kũheeranĩra nakĩo. Ambĩrĩria na ũrũgamie rĩrĩa wenda.",
+    "players": "Mũndũ 1 kana andũ 2",
+    "intro": "Rĩmwe na rĩmwe ũndũ ũrĩa mwega mũno nĩ kũhurũka na kĩhooto. Hũtha \"Ambĩrĩria\", ũcoke ũheere thĩinĩ rĩrĩa gĩthiũrũrĩ kĩraneneha na ũhũhe nja rĩrĩa kĩraniniha. Thuura mĩthiĩre ya kahora kana ya gũteng'era hanini. Ti ũrigiti, nĩ ihinda rĩa thaayũ rĩa kũgĩa hamwe tu.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Ikarai wega mũikaranĩte hakuhĩ.",
+      "Thuurai mĩthiĩre: ya kahora kana ĩrĩa ĩhorereire.",
+      "Hũtha \"Ambĩrĩria\". Heera thĩinĩ rĩrĩa gĩthiũrũrĩ kĩraneneha, na ũhũhe nja rĩrĩa kĩraniniha.",
+      "Gĩtũgamaga kĩo kĩene thuutha wa kũheera maita mathathatũ, kana ũhũthe \"Rũgamia\" rĩrĩa o ryothe ũngĩenda."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Nyitanai moko kana ũigĩrĩre guoko igũrũ rĩa guoko kwa mũndũ ũrĩa ũrarũmbũiya angĩkorũo nĩarakenio nĩ ũndũ ũcio.",
+      "Ndũkanathing'ĩrĩrie o na hanini. Angĩkorũo no kwĩrorera angĩenda, ũcio nĩ ũndũ mwega biũ.",
+      "Mũndũ angĩkorũo arĩ na thĩna wa kũheera, naheere o ũrĩa amenyerete na erorere o gĩthiũrũrĩ. Ũria ndagĩtarĩ ũhoro wa thĩna o wothe wĩgiĩ kũheera."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Gũkũ nĩ wĩrutanĩria wa kĩĩndagĩtarĩ wa kũheera?",
+        "a": "Aca. Nĩ kũhurũka kũhũthũ gwa kwĩyenyera nĩ ũndũ wa ũhooreri na gũkorũo hamwe. Ti ũrigiti wa mĩtangĩko ya ngoro kana mũrimũ o na ũrĩkũ. Aria na ndagĩtarĩ wĩgiĩ maũndũ o mothe ma ũgima wa mwĩrĩ."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Gĩthiũrũrĩ nĩ gĩthiaga gĩtekũmbĩrĩrio nĩ niĩ?",
+        "a": "Aaca. Gũtirĩ kĩndũ kĩenyenyaga nginya ũhinyĩrĩrie Start, na nĩ ĩrũgamaga thutha wa mĩhũmũ ĩtandatũ kana rĩrĩa wahinyĩrĩria Stop. Angĩkorwo kĩhũũro gĩaku nĩ gĩthondeketwo kũnyihia mwĩnyenye, ciugo nĩ ichenjagia gĩthiũrũrĩ gĩtekũneneha."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Nĩ ya tũhũ, na no nginya njĩyandĩkĩthe?",
+        "a": "Ĩĩ, nĩ ya tũhũ, na gũtirĩ akaunti, kwĩyandĩkithia, kana kũdownload kĩndũ. Nĩ ĩrutaga wĩra burausa-inĩ ya thimũ, tabuleti, kana kompiuta."
       }
     ]
   }

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pares ng larawan",
+    "seoTitle": "Larong Pagtutugma para sa Dementia: Pares ng Larawan",
+    "h1": "Pares ng Larawan: Isang Mahinahong Larong Pagtutugma",
+    "description": "Libre at mahinahong larong pagtutugma para sa mga taong may dementia. Nananatiling nakikita ang malalaking larawan, walang timer o iskor, at pumipili ka ng 4 hanggang 12 na tile.",
+    "short": "Hanapin ang dalawang larawang magkapareho. Puwedeng nakalitaw ang mga larawan.",
+    "players": "1 o 2 tao, magkatabi",
+    "intro": "Pindutin ang isang larawan, saka pindutin ang katulad nito. Nakalitaw ang mga larawan bilang default, kaya walang kailangang tandaan. Kapag magkapares ang dalawang larawan, nagkakaroon sila ng gintong hangganan at tsek.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Piliin kung ilang tile ang gagamitin. Ang apat na tile ay mahinahong panimula.",
+      "Pindutin ang alinmang larawan. Magkakaroon ito ng gintong hangganan.",
+      "Pindutin ang larawang mukhang pareho. Mananatili silang magkasama na may tsek.",
+      "Kung magkaiba ang dalawang larawan, walang masamang mangyayari. Pindutin muli kapag handa na kayo.",
+      "I-on ang “Nakatagong larawan” kung gusto ninyo ang klasikong bersyon na nakaharap pababa."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Sabay ninyong pangalanan ang mga larawan at pag-usapan ang mga ito: “Isang pulang tasa. Nilalagyan ba ninyo ng gatas ang tsaa?”",
+      "Hayaang ang taong inaalagaan mo ang pumindot, kahit matagal. Ituro ang larawan sa halip na ikaw ang pumindot para sa kanya.",
+      "Manatili sa apat na tile hangga't maganda ang pakiramdam. Ang mas maraming tile ay pagpili lamang, hindi antas na kailangang abutin.",
+      "Tapusin habang masaya pa. Isang laro ay buo nang gawain."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Wala. Walang orasan, iskor, bilang ng galaw, o pagkatalo. Puwede kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isa ring magandang paraan para tapusin."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Bakit nananatiling nakalitaw ang mga larawan?",
+        "a": "Ang pagpapanatiling nakikita ng mga larawan ay ginagawang pagtingin at pagtutugma ang laro, hindi pag-alala. Maraming tao ang mas kalmado rito. Puwede ninyong palitan sa nakatagong larawan sa isang pindot kung mas gusto ninyo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, pag-sign up, o pag-download. Gumagana ito sa web browser sa telepono, tablet, o kompyuter."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Puwede ba naming gamitin ang sarili naming mga larawan ng pamilya?",
+        "a": "Oo. Subukan ang Mga pares ng sariling larawan, na nagpapahintulot na pumili ng mga larawan mula sa inyong device. Nananatili ang mga larawan sa inyong browser at hindi ina-upload."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Hanapin ang magkapareho",
+    "seoTitle": "Hanapin ang Magkaparehong Larawan: Simpleng Laro para sa Dementia",
+    "h1": "Hanapin ang Magkaparehong Larawan",
+    "description": "Isang larawan sa itaas, dalawa hanggang apat sa ibaba. Pindutin ang magkaparehong larawan. Isang kalmado at libreng laro ng larawan para sa mga taong may dementia, walang timer.",
+    "short": "Tingnan ang larawan sa itaas at pindutin ang magkaparehong larawan sa ibaba.",
+    "players": "1 o 2 tao",
+    "intro": "Isang larawan ang nasa itaas ng screen. Sa ibaba nito ay dalawa, tatlo, o apat na larawan. Pindutin ang magkaparehong larawan. Isang simpleng pagpili ang bawat pagkakataon, at maraming espasyo para mag-usap.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Piliin kung dalawa, tatlo, o apat na larawan ang pagpipilian. Ang dalawa ang pinakasimple.",
+      "Tingnan nang sabay ang larawan sa itaas.",
+      "Pindutin ang parehong larawan sa ibaba. Mamarkahan ito ng tsek at ilang mainit na salita.",
+      "Kung ibang larawan ang napindot, sasabihin lang ng laro ang pangalan nito at maghihintay. Dahan-dahan lang.",
+      "Pindutin ang “Susunod na larawan” kapag handa na kayo para sa isa pa."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Pag-usapan ang bawat larawan bago pumili: mga kulay, hugis, at kung saan ninyo ito makikita.",
+      "Ang dalawang pagpipilian ay hindi “masyadong madali”. Ang layunin ay kaaya-ayang sandali, hindi hamon.",
+      "Kung mahirap pumindot, puwedeng ituro ng tao ang larawan, at puwede kayong pumindot para sa kanya."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Wala. Walang orasan, iskor, bilang ng galaw, o pagkatalo. Puwede kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isa ring magandang paraan para tapusin."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ano ang mangyayari kung maling larawan ang mapindot?",
+        "a": "Walang nakakainis na mangyayari. Walang buzzer, pulang krus, o pagyanig. Sasabihin ng laro ang pangalan ng larawang napindot at maghihintay sa susunod na pindot."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, pag-sign up, o pag-download. Gumagana ito sa web browser sa telepono, tablet, o kompyuter."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Pagtutugma ng anino",
+    "seoTitle": "Laro ng Pagtutugma ng Anino para sa Dementia: Libre Online",
+    "h1": "Pagtutugma ng Anino: Isang Mahinahong Larong Larawan",
+    "description": "Madilim na anino sa itaas, dalawa hanggang apat na larawan sa ibaba. Pindutin ang larawang gumagawa ng anino. Libre, kalmado, at walang timer na larong pagtutugma ng anino para sa dementia.",
+    "short": "Tingnan ang anino at pindutin ang larawang bumubuo nito.",
+    "players": "1 o 2 tao",
+    "intro": "Ang pagtutugma ng anino ay pamilyar na gawain mula sa mga nakalimbag na worksheet, dito ay may malalaking larawan at walang kailangang i-print. Isang malambot na anino ang nasa itaas ng screen, at dalawa, tatlo, o apat na larawan ang naghihintay sa ibaba. Pindutin ang larawang gumagawa ng anino. Madali ring pag-usapan ang mga hugis gaya ng bisikleta, payong, o tasa.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Piliin kung dalawa, tatlo, o apat na larawan ang pagpipilian. Ang dalawa ang pinakasimple.",
+      "Tingnan nang sabay ang anino. Anong hugis ito? Mataas ba o bilog?",
+      "Pindutin ang larawang gumagawa ng anino. Lalabas ang pangalan nito sa ilalim ng anino.",
+      "Kung ibang larawan ang napindot, sasabihin lang ng laro ang pangalan nito at maghihintay. Dahan-dahan lang.",
+      "Pindutin ang “Susunod na anino” kapag handa na kayo para sa isa pa."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Sundan ng daliri ang balangkas ng anino at pag-usapan ang hugis.",
+      "Kung mahirap ang mga anino ngayon, lumipat sa Hanapin ang magkapareho, kung saan magkakamukha ang mga larawan.",
+      "Pag-usapan ang larawan kapag nahanap na: “May ganitong payong kami dati.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Wala. Walang orasan, iskor, bilang ng galaw, o pagkatalo. Puwede kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isa ring magandang paraan para tapusin."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Maganda ba ang shadow matching para sa mga taong may dementia?",
+        "a": "Maaaring maging kasiya-siya at simpleng gawain ito para sa ilang tao, lalo na sa mga unang yugto. Mas madaling makilala ang mga hugis kaysa sa mga salita. Para ito sa kasiyahan at pag-uusap, hindi pagsusulit, at hindi nito ginagamot o pinabagal ang dementia. Kung nakakainis ito, subukan ang Hanapin ang magkapareho, o tingnan na lang ang mga larawan nang magkasama."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ano ang mangyayari kung mali ang larawang napindot?",
+        "a": "Walang masamang mangyayari. Walang tunog ng buzzer, pulang krus, o pagyanig. Binabanggit ng laro ang larawang napindot at naghihintay sa susunod na pindot."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan ko bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up, o download. Gumagana ito sa web browser sa telepono, tablet, o computer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Pag-uri-uriin nang magkasama",
+    "seoTitle": "Laro sa Pag-uuri para sa Dementia: Pag-uri-uriin Nang Magkasama",
+    "h1": "Pag-uri-uriin Nang Magkasama: Gawain sa Pag-uuri ng Larawan",
+    "description": "Pindutin ang isang larawan, saka pindutin ang basket kung saan ito nabibilang: kusina o hardin, prutas o hayop. Isang payapa at libreng gawain sa pag-uuri para sa mga taong may dementia.",
+    "short": "Ilagay ang bawat larawan sa tamang basket: kusina o hardin, at iba pa.",
+    "players": "1 o 2 tao",
+    "intro": "Ang pag-uuri ay pamilyar at nakakatuwang gawaing pang-araw-araw, tulad ng pag-aayos ng mga pinamili o pagpapares ng medyas. Pindutin ang isang larawan, saka pindutin ang basket kung saan ito nararapat. Walang pagmamadali at walang maling daan.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Pumili ng tema: kusina at hardin, prutas at hayop, o bahay at biyahe.",
+      "Pindutin ang isang larawan. Magkakaroon ito ng gintong hangganan.",
+      "Pindutin ang basket kung saan ito nabibilang. Lilipat ang larawan sa basket na iyon.",
+      "Kung nasa kabilang basket ito dapat, sasabihin ng laro iyon nang marahan at maghihintay.",
+      "Kapag naayos na ang lahat ng larawan, tingnan nang magkasama ang mga basket."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Sa totoong buhay, madalas walang maling sagot. Kung may magsabing sa kusina dapat ang pandilig, magtanong kung bakit. Baka makakuha ka ng magandang kuwento.",
+      "Gamitin ang mga larawan bilang gabay: “Ano ang itinanim ninyo sa hardin?”",
+      "Ang pag-uuri ng totoong bagay, tulad ng kutsara at tinidor o butones ayon sa kulay, ay magandang sunod na gawain na malayo sa screen."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Wala. Walang orasan, iskor, bilang ng galaw, o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isa ring magandang paraan para tapusin."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Bakit pag-uuri?",
+        "a": "Maraming tao ang nasisiyahan sa pag-uuri dahil parang kapaki-pakinabang at pamilyar na gawain ito. Madali ring pag-usapan ang mga larawan habang ginagawa ito."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan ko bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up, o download. Gumagana ito sa web browser sa telepono, tablet, o computer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ng larawan",
+    "seoTitle": "Madaling Jigsaw Puzzle para sa Dementia: 4 o 9 na Piraso",
+    "h1": "Puzzle ng Larawan: Madaling Jigsaw",
+    "description": "Madaling online jigsaw para sa mga taong may dementia: 4 o 9 na malalaking piraso, nananatiling nakikita ang buong larawan, at nagpapalitan ng puwesto ang dalawang piraso kapag pinindot mo ang bawat isa.",
+    "short": "Pindutin ang dalawang piraso para magpalitan ng puwesto hanggang mabuo ang larawan.",
+    "players": "1 o 2 tao",
+    "intro": "Ang isang magiliw na larawan ay hinihiwa sa apat o siyam na malalaking piraso at hinahalo. Nananatiling nakikita ang buong larawan bilang gabay. Pindutin ang isang piraso, saka ang isa pa, at magpapalitan sila ng puwesto. Hindi kailangang i-drag.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Pumili ng larawan at 4 o 9 na piraso. Ang apat ay magandang panimula.",
+      "Tingnan ang buong larawan sa itaas.",
+      "Pindutin ang isang piraso, saka pindutin ang lugar kung saan ito dapat pumunta. Magpapalitan ang dalawang piraso.",
+      "Ang mga piraso na nasa tamang lugar ay may maliit na tsek na marka.",
+      "Kapag buo na ang larawan, pagmasdan ito nang magkasama, saka pumili ng iba."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Mas madali para sa maraming tao ang pagpindot sa dalawang piraso para magpalitan kaysa sa pag-drag.",
+      "Pag-usapan ang larawan habang nabubuo ito: “Ayan ang pulang bubong.”",
+      "Ang totoong kahoy na jigsaw na may 12 hanggang 24 na malalaking piraso ay magandang gawain din sa mesa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Wala. Walang orasan, iskor, bilang ng galaw, o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isa ring magandang paraan para tapusin."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Kailangan ko bang i-drag ang mga piraso?",
+        "a": "Hindi. Pindutin ang isang piraso, saka pindutin ang isa pa, at magpapalitan sila ng puwesto. Mas madali ito kapag nanginginig ang kamay o maliit ang screen."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan ko bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up, o download. Gumagana ito sa web browser sa telepono, tablet, o computer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Tapusin ang kasabihan",
+    "seoTitle": "Tapusin ang Kasabihan: Laro ng Kasabihan para sa Nakatatanda",
+    "h1": "Tapusin ang Kasabihan",
+    "description": "Pamilyar na kasabihan na may nawawalang huling salita, tulad ng “Kapag may tiyaga, may ___”. Pumili ng sagot o ipakita ang wakas, saka pag-usapan ito.",
+    "short": "Kumpletuhin nang magkasama ang mga pamilyar na kasabihan, saka pag-usapan ang mga ito.",
+    "players": "1, 2, o grupo",
+    "intro": "Madalas ay kilala na ng matagal nang panahon ang mga lumang kasabihan. Ipinapakita ng bawat card ang pamilyar na kasabihan na may nawawalang huling salita, tatlong pagpipilian, at pindutang “Ipakita ang wakas”. Pagkatapos ng wakas, may magiliw na tanong para sa pag-uusap.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Basahin nang malakas ang kasabihan nang magkasama.",
+      "Pindutin ang salitang tatapos dito, o pindutin ang “Ipakita ang wakas”.",
+      "Basahin muli ang buong kasabihan at pag-usapan ito gamit ang tanong.",
+      "Pindutin ang “Susunod na kasabihan” kapag handa na kayo."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Basahin nang dahan-dahan at mag-iwan ng saglit na pahinga bago ang huling salita. Madalas, sasabihin na ito ng tao bago mo pa matapos.",
+      "Kung may magbigay ng ibang wakas, pahalagahan ito. May iba-ibang bersyon ng kasabihan depende sa pamilya o rehiyon.",
+      "Sa grupo, isang tao ang magbabasa at lahat ay sasabay sa wakas."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Hindi. Walang orasan, iskor, bilang ng galaw, o pagkatalo. Maaari ninyong ihinto kahit kailan, at ang paghinto sa kalagitnaan ay isa ring maayos na paraan para tapusin ito."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Paano kung pumili kami ng ibang salita?",
+        "a": "Ipinapakita ng laro ang karaniwang pagtatapos at lumilipat sa usapan. Walang iskor, at maayos lang ang ibang sagot."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up, o pag-download. Gumagana ito sa web browser ng telepono, tablet, o kompyuter."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Paghahanap ng salita na malalaking letra",
+    "seoTitle": "Paghahanap ng Salita na Malalaking Letra para sa Dementia, Maaaring I-print",
+    "h1": "Paghahanap ng Salita na Malalaking Letra",
+    "description": "Libreng paghahanap ng salita na malalaking letra para sa mga nakatatanda at mga taong may dementia. Kaunting salita, malalaking letra, pahalang at pababa lamang. Maglaro online o mag-print.",
+    "short": "Malalaking letra, ilang salita, pahalang at pababa lamang. Maaari ring i-print.",
+    "players": "1 o 2 tao",
+    "intro": "Maliit na grid na may malalaking letra at ilang salita lamang, na pawang nababasa pahalang o pababa. I-tap ang unang letra ng isang salita, at pagkatapos ang huling letra nito. Mas gusto ninyo ang papel? I-print ang bagong puzzle sa isang tap.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Pumili ng tema at laki ng grid.",
+      "Tingnan ang listahan ng salita. Nababasa ang mga salita pahalang (kaliwa pakanan) o pababa (itaas pababa).",
+      "I-tap ang unang letra ng isang salita, pagkatapos i-tap ang huling letra nito.",
+      "Mamamarkahan ng highlight at tatanggalin sa listahan ang salitang natagpuan.",
+      "I-tap ang \"I-print ang puzzle na ito\" para maglaro sa papel gamit ang lapis o marker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ituro ang isang salita sa listahan at hanapin nang sabay ang unang letra nito.",
+      "Sa papel, mas madaling hawakan ang highlighter kaysa lapis.",
+      "Pag-usapan ang mga salita ng tema. Ang mga salitang prutas ay natural na daan pabalik sa mga alaala ng pamimitas, pagluluto, o palengke."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Hindi. Walang orasan, iskor, bilang ng galaw, o pagkatalo. Maaari ninyong ihinto kahit kailan, at ang paghinto sa kalagitnaan ay isa ring maayos na paraan para tapusin ito."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Maaari ko bang i-print ang paghahanap ng salita?",
+        "a": "Oo. I-tap ang \"I-print ang puzzle na ito\" para i-print ang kasalukuyang grid sa malalaking letra, kasama ang listahan ng salita sa ibaba. Iba ang bawat bagong puzzle."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up, o pag-download. Gumagana ito sa web browser ng telepono, tablet, o kompyuter."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Mga pahinang kukulayan",
+    "seoTitle": "Mga Pahinang Kukulayan para sa Matatandang may Dementia (Libre)",
+    "h1": "Mga Pahinang Kukulayan",
+    "description": "Simple at para sa matatanda, mga pahinang kukulayan na may malalaking bahagi: i-tap ang isang kulay, pagkatapos ang larawan. Walang kalat, walang maling kulay, at maaaring i-print nang libre ang bawat pahina.",
+    "short": "I-tap ang kulay, pagkatapos ang bahagi ng larawan. Maaari ring i-print ang mga pahina.",
+    "players": "1 o 2 tao",
+    "intro": "Mga pahinang may malalaki at simpleng hugis: bulaklak sa paso, bahay, tasa ng tsaa, paruparo, at bangkang may layag. I-tap ang isang kulay, pagkatapos i-tap ang bahagi ng larawan para punan ito. Walang maling kulay.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Pumili ng pahina.",
+      "I-tap ang isang kulay. Nakasulat ang pangalan ng bawat kulay sa ibabaw nito.",
+      "I-tap ang bahagi ng larawan para punan ito ng kulay na iyon.",
+      "Maaari ninyong palitan ang kulay anumang oras sa pamamagitan ng muling pagpuno.",
+      "I-tap ang \"I-print ang pahinang ito\" para sa blankong pahina na kukulayan gamit ang lapis o marker."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Mag-alok ng dalawang kulay na mapipili sa halip na buong set kung nakakalito ang pumili.",
+      "Malugod na tinatanggap ang lilang puno at asul na araw. Ang layunin ay ang pag-enjoy sa kulay, hindi ang katumpakan.",
+      "Mas madaling hawakan ang makapal na marker o crayon, kaya magandang gamitin ang mga naprint na pahina."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Hindi. Walang orasan, iskor, bilang ng galaw, o pagkatalo. Maaari ninyong ihinto kahit kailan, at ang paghinto sa kalagitnaan ay isa ring maayos na paraan para tapusin ito."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Masyado bang pambata ang mga pahinang ito?",
+        "a": "Gumuhit kami ng mahinahon at simpleng mga bagay sa halip na cartoon, kaya bagay ito sa mga adulto. Ang malalaking hugis ay nagpapadali sa pagkukulay nang hindi nagiging parang pambata."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, sign-up, o pag-download. Gumagana ito sa web browser ng telepono, tablet, o kompyuter."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Mga kard para sa usapan",
+    "seoTitle": "Mga Panimulang Tanong para sa Dementia: Mga Kard na may Larawan",
+    "h1": "Mga Kard para sa Usapan",
+    "description": "Mga kard na may larawan at mahinahong panimulang tanong para sa mga taong may dementia: walang pagsusulit, walang tamang sagot. Gamitin sa screen o i-print ang buong set.",
+    "short": "Mga kard na may larawan at bukas, mahinahong tanong. Walang pagsusulit.",
+    "players": "2 tao o isang grupo",
+    "intro": "Bawat kard ay pinagsasama ang pamilyar na larawan at isang bukas na imbitasyong magkuwentuhan, gaya ng \"Ano ang paborito ninyong uri ng panahon?\" Walang tamang sagot at walang kailangang tandaan. Pumili ng tema o haluin silang lahat.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Pumili ng tema, o itira ang \"Lahat ng kard\".",
+      "Basahin nang malakas ang tanong at tingnan nang sabay ang larawan.",
+      "Makinig, ibahagi ang sarili ninyong sagot, at hayaang gumala ang usapan.",
+      "I-tap ang \"Susunod na kard\" kapag handa na kayo, o manatili sa iisang kard hangga't gusto ninyo.",
+      "I-tap ang \"I-print ang lahat ng kard\" para makagupit ng papel na set."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Sagutin din ninyo ang tanong. Parang usapan ito, hindi panayam.",
+      "Sundan ang kuwento, hindi ang mga katotohanan. Ayos lang kung magbago ang mga detalye.",
+      "Kung may kard na nakakahipo ng malungkot na alaala, kilalanin ang damdamin at marahang lumipat sa ibang kard."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Bakit walang mga tanong na \"Naaalala mo ba…?\"",
+        "a": "Ang mga tanong na sumusubok sa alaala ay maaaring maramdamang pagsusulit at magdulot ng hiya. Ang mga bukas na imbitasyon gaya ng \"Ikuwento ninyo sa akin ang tungkol sa…\" ay nagbibigay-daan sa sinuman na sumali, anuman ang naaalala niya."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Maaari ko bang i-print ang mga kard?",
+        "a": "Oo. Ang \"I-print ang lahat ng kard\" ay nagpi-print ng buong set sa malalaking letra, ilang kard bawat pahina, handa nang gupitin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan bang mag-sign up?",
+        "a": "Oo, libre ito, at walang account, pagpaparehistro o pag-download. Gumagana ito sa web browser sa telepono, tablet o computer."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Mga pares ng larawan",
+    "seoTitle": "Gumawa ng Larong Pagtutugma mula sa Mga Larawan ng Pamilya",
+    "h1": "Mga Pares ng Larawan: Itugma ang Sarili ninyong mga Larawan",
+    "description": "Gawing banayad na larong pagtutugma ang sarili ninyong mga larawan ng pamilya. Pumili ng 2 hanggang 6 na larawan sa inyong device; mananatili ang mga ito sa inyong browser at hindi kailanman ina-upload.",
+    "short": "Pumili ng sarili ninyong mga larawan at itugma ang mga ito. Walang ina-upload.",
+    "players": "2 tao, magkatabi",
+    "intro": "Pumili ng dalawa hanggang anim na larawan mula sa inyong telepono, tablet o computer, at magiging larong pagtutugma ito na may malalaki at madaling makitang larawan. Ipinapakita lamang ang mga larawan sa loob ng pahinang ito. Hindi ito ina-upload, sine-save o ibinabahagi, at mawawala ang mga ito kapag isinara ninyo ang pahina.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "I-tap ang \"Pumili ng mga larawan\" at pumili ng dalawa hanggang anim na larawan.",
+      "Lalabas ang bawat larawan nang dalawang beses. I-tap ang isa, saka i-tap ang kapares nito.",
+      "Pag-usapan ang bawat larawan habang nahahanap ninyo ito.",
+      "Kapag tapos na kayo, isara ang pahina o i-tap ang \"Burahin ang mga larawan\". Walang itinatabi."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Pumili ng malilinaw na larawan ng mga bagay na masaya at pamilyar: alagang hayop, hardin, paboritong lugar, araw ng kasal.",
+      "Minsan mas madali ang mga larawan ng lugar at bagay kaysa sa mukha, at hindi nito pinipilit na banggitin ang pangalan ng mga tao.",
+      "Iwasan ang mga larawan ng taong pumanaw na kung maaaring magdulot ng biglaang lungkot, maliban na lang kung alam ninyong nagbibigay ito ng ginhawa."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ina-upload ba ang mga larawan ko kahit saan?",
+        "a": "Hindi. Direktang binabasa ng pahina ang mga larawang pipiliin ninyo sa inyong browser at ipinapakita ang mga ito sa screen ninyo. Hindi ito ipinapadala sa amin o kaninuman, at nawawala ang mga ito kapag isinara oni-reload ang pahina."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "May timer ba o iskor?",
+        "a": "Wala. Walang orasan, iskor, bilang ng galaw o pagkatalo. Maaari kayong huminto anumang oras, at ang paghinto sa kalagitnaan ay isa ring magandang paraan para tapusin."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Maisasave ko ba ang laro para sa susunod?",
+        "a": "Hindi sa browser, sinadya iyon para walang pribadong bagay na maiimbak. Ang libreng Golden Moments app para sa iPhone at iPad ay maaaring magtago ng piniling kopya ng mga larawan sa inyong device."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ng larawan",
+    "seoTitle": "Bingo ng Larawan para sa Nakatatanda na may Dementia: Maaaring I-print",
+    "h1": "Bingo ng Larawan para sa Grupo",
+    "description": "Libreng bingo ng larawan na maaaring i-print para sa mga grupo sa pangangalaga ng memorya at nakatatanda, na may malaking tagatawag sa screen. Malalaking larawan na may salita, 9 o 16 na kahon, walang kailangang basahin.",
+    "short": "Mga bingo card ng larawan na maaaring i-print, at isang tagatawag sa malaking screen para sa grupo.",
+    "players": "Grupo ng 2 hanggang 30",
+    "intro": "Klasikong bingo na may larawan sa halip na numero, kaya walang kailangang magbasa ng maliliit na letra. I-print ang hanay ng mga natatanging card, saka gamitin ang tagatawag sa screen para ipakita ang bawat larawan nang malaki sa TV, laptop o tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Pumili ng 9 o 16 na kahon bawat card at kung ilan ang manlalaro.",
+      "I-tap ang \"I-print ang mga card\". Iba-iba ang bawat card.",
+      "Buksan ang tagatawag sa malaking screen. I-tap ang \"Susunod na larawan\" para ipakita ang bawat larawan kasama ang pangalan nito.",
+      "Tatakpan ng mga manlalaro ang katugmang larawan sa kanilang card gamit ang barya, butones o marker.",
+      "Papalakpakan ang sinumang makakumpleto ng isang hanay, o ng buong card. Walang talo sa bersyong ito: ipagpatuloy ang laro hanggang may hanay na ang lahat."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Gumamit ng malalaking pamalit tulad ng checkers o takip ng bote. Mahirap kunin ang maliliit na butones.",
+      "Banggitin ang pangalan ng larawan at magsabi ng isang bagay tungkol dito: \"Isang bangkang may layag. Sino na ang nakasakay sa bangka?\"",
+      "Paupuin nang pinakamalapit sa screen ang mga may hirap makakita, at ipares ang mga katulong sa mga manlalarong nangangailangan nito.",
+      "Sapat na ang siyam na kahon para sa karamihan ng grupo. Panatilihing mga 20 hanggang 30 minuto ang sesyon."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Paano ko patatakbuhin ang bingo ng larawan sa care home?",
+        "a": "I-print ang isang card bawat manlalaro, ilagay ang tagatawag sa pinakamalaking screen na mayroon kayo, at tawagin ang mga larawan nang dahan-dahan, binabanggit ang bawat isa. Ipagpatuloy ang laro hanggang may hanay na ang lahat, para walang maiwan."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Libre bang i-print?",
+        "a": "Oo. I-print ang kasing dami ng card na kailangan ninyo, kahit ilang beses, para sa personal o pangkat na gamit."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Puwede bang maglaro nang hindi nagbabasa?",
+        "a": "Oo. Bawat kahon ay malaking larawan, na may pangalan sa ilalim para sa mga mas gustong may salita."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Mahinahong paghinga",
+    "seoTitle": "Isang Mahinahong Pahinga sa Paghinga para sa Nakatatanda at Tagapag-alaga",
+    "h1": "Isang Mahinahong Pahinga sa Paghinga",
+    "description": "Mabagal at tahimik na pahinga sa paghinga na maaaring pagsaluhan: lumalaki at lumiliit nang anim na beses ang banayad na bilog. Kayo ang magsisimula nito, at maaari ninyong itigil anumang oras.",
+    "short": "Mabagal na bilog na masasabayan sa paghinga. Simulan at itigil kung kailan ninyo gusto.",
+    "players": "1 o 2 tao",
+    "intro": "Minsan ang pinakamainam na aktibidad ay isang tahimik na pahinga. I-tap ang \"Simulan\", saka huminga nang papasok habang lumalaki ang bilog at palabas habang lumiliit ito. Pumili ng mas mabagal o mas mabilis na bilis. Hindi ito panggamot, isang mapayapang sandaling pagsasaluhan lamang.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Umupo nang komportable, magkatabi.",
+      "Pumili ng bilis: mabagal o banayad.",
+      "I-tap ang \"Simulan\". Huminga nang papasok habang lumalaki ang bilog, at palabas habang lumiliit ito.",
+      "Titigil ito mag-isa pagkatapos ng anim na paghinga, o i-tap ang \"Itigil\" kahit kailan ninyo gusto."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Magkahawak-kamay, o ilagay ang kamay sa braso ng tao kung katanggap-tanggap ito.",
+      "Huwag pilitin. Kung mas gusto nilang manood, ayos lang iyon.",
+      "Kung may problema sa paghinga ang isang tao, huminga nang normal at tingnan lamang ang bilog. Kumonsulta sa doktor tungkol sa anumang alalahanin sa paghinga."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Isa bang medikal na ehersisyo sa paghinga ito?",
+        "a": "Hindi. Ito ay simpleng pahinga para sa katahimikan at kasama, at opsyonal lamang. Hindi ito panggamot sa pagkabalisa o anumang kondisyon. Makipag-usap sa doktor tungkol sa mga alalahanin sa kalusugan."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Gumagalaw ba ang bilog nang hindi ko ito sinisimulan?",
+        "a": "Hindi. Walang gumagalaw hanggang pindutin mo ang Start, at titigil ito pagkatapos ng anim na paghinga o kapag pinindot mo ang Stop. Kung naka-set ang iyong device na bawasan ang galaw, magbabago ang mga salita nang hindi lumalaki ang bilog."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ito, at kailangan ko bang mag-sign up?",
+        "a": "Opo, libre ito, at walang account, sign-up o download. Gumagana ito sa web browser sa telepono, tablet o computer."
       }
     ]
   }

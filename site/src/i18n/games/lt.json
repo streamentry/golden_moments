@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Paveikslėlių poros",
+    "seoTitle": "Poravimo žaidimas žmonėms su demencija: paveikslėlių poros",
+    "h1": "Paveikslėlių poros: ramus poravimo žaidimas",
+    "description": "Nemokamas, ramus poravimo žaidimas žmonėms, gyvenantiems su demencija. Dideli paveikslėliai lieka atversti, nėra jokio laikmačio ar taškų, o pasirinkti galima nuo 4 iki 12 kortelių.",
+    "short": "Raskite du vienodus paveikslėlius. Paveikslėliai gali likti atversti.",
+    "players": "1 ar 2 žmonės, greta vienas kito",
+    "intro": "Palieskite paveikslėlį, o tada – jam tinkantį. Paveikslėliai iš karto lieka atversti, todėl nieko nereikia prisiminti. Radus porą, paveikslėliai apvedami auksiniu rėmeliu ir pažymimi varnele.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Pasirinkite, kiek kortelių norite naudoti. Pradėti nuo 4 kortelių – ramiausias pasirinkimas.",
+      "Palieskite bet kurį paveikslėlį. Jis bus apvestas auksiniu rėmeliu.",
+      "Palieskite tokį patį paveikslėlį. Pora liks kartu, pažymėta varnele.",
+      "Jei du paveikslėliai skiriasi, nieko blogo nenutiks. Palieskite dar kartą, kai tik būsite pasiruošę.",
+      "Parinktį „Paslėpti paveikslėliai“ įjunkite tik tada, jei jums abiem patinka klasikinis žaidimas užverstomis kortelėmis."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Kartu garsiai įvardykite paveikslėlius ir pasikalbėkite apie juos: „Raudonas arbatos puodelis. Ar mėgstate arbatą su pienu?“",
+      "Leiskite žmogui, kuriuo rūpinatės, pačiam liesti ekraną, net jei tai užtrunka. Geriau parodykite pirštu, užuot palietę už jį.",
+      "Žaiskite su 4 kortelėmis tiek, kiek norisi. Didesnis kortelių skaičius – tik pasirinkimas, o ne lygis, kurį būtina pasiekti.",
+      "Užbaikite žaidimą, kol jis teikia džiaugsmo. Viena partija yra visavertis užsiėmimas."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar yra laikmatis arba taškai?",
+        "a": "Ne. Čia nėra laikrodžio, taškų, ėjimų skaičiuoklės ar pralaimėjimo. Galite sustoti bet kurią akimirką, o sustoti įpusėjus – visiškai tinkama žaidimo pabaiga."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Kodėl paveikslėliai lieka atversti?",
+        "a": "Kai paveikslėliai matomi, žaidimas tampa stebėjimu ir poravimu, o ne prisiminimu. Daugeliui žmonių taip žaisti ramiau. Jei norite, vienu prisilietimu galite įjungti paslėptus paveikslėlius."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama, ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama, nereikia jokios paskyros, registracijos ar atsisiuntimo. Žaidimas veikia interneto naršyklėje telefone, planšetėje ar kompiuteryje."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Ar galime naudoti savo šeimos nuotraukas?",
+        "a": "Taip. Išbandykite žaidimą „Nuotraukų poros“, leidžiantį pasirinkti nuotraukas iš savo įrenginio. Nuotraukos lieka jūsų naršyklėje ir niekur neįkeliamos."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Raskite tokį patį",
+    "seoTitle": "Raskite tokį patį paveikslėlį: paprastas žaidimas žmonėms su demencija",
+    "h1": "Raskite tokį patį paveikslėlį",
+    "description": "Vienas paveikslėlis viršuje, nuo dviejų iki keturių apačioje. Palieskite tokį patį. Tai ramus, nemokamas paveikslėlių žaidimas žmonėms, gyvenantiems su demencija, be jokio laikmačio.",
+    "short": "Pažiūrėkite į paveikslėlį viršuje ir palieskite tokį patį apačioje.",
+    "players": "1 ar 2 žmonės",
+    "intro": "Ekrano viršuje rodomas vienas paveikslėlis. Po juo – du, trys arba keturi paveikslėliai. Palieskite tokį patį. Tai vienas paprastas pasirinkimas vienu metu, paliekantis daug erdvės pokalbiui.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Pasirinkite du, tris arba keturis paveikslėlius. Du – pats paprasčiausias pasirinkimas.",
+      "Kartu pažiūrėkite į paveikslėlį viršuje.",
+      "Apačioje palieskite tokį patį paveikslėlį. Jis bus pažymėtas varnele ir keliais šiltais žodžiais.",
+      "Palietus kitą paveikslėlį, žaidimas tiesiog jį įvardija ir laukia. Neskubėkite.",
+      "Kai būsite pasiruošę kitam, palieskite „Kitas paveikslėlis“."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Prieš pasirinkdami, pasikalbėkite apie kiekvieną paveikslėlį: spalvas, formas, kur galbūt esate tai matę.",
+      "Du pasirinkimai nėra „per lengva“. Tikslas – maloni akimirka, o ne iššūkis.",
+      "Jei paliesti ekraną sunku, žmogus gali parodyti pirštu, o jūs galite paliesti už jį."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar yra laikmatis arba taškai?",
+        "a": "Ne. Čia nėra laikrodžio, taškų, ėjimų skaičiuoklės ar pralaimėjimo. Galite sustoti bet kurią akimirką, o sustoti įpusėjus – visiškai tinkama žaidimo pabaiga."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kas nutinka palietus ne tą paveikslėlį?",
+        "a": "Nieko nemalonaus. Nėra jokio perspėjimo garso, raudono kryželio ar ekrano suvirpėjimo. Žaidimas tiesiog įvardija paliestą paveikslėlį ir laukia kito prisilietimo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama, ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama, nereikia jokios paskyros, registracijos ar atsisiuntimo. Žaidimas veikia interneto naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Šešėlių derinimas",
+    "seoTitle": "Šešėlių derinimo žaidimas žmonėms su demencija: nemokamai internetu",
+    "h1": "Šešėlių derinimas: ramus paveikslėlių žaidimas",
+    "description": "Tamsus šešėlis viršuje, nuo dviejų iki keturių paveikslėlių apačioje. Palieskite paveikslėlį, atitinkantį šį šešėlį. Tai nemokamas, ramus šešėlių derinimo žaidimas žmonėms, turintiems demenciją, be jokio laikmačio.",
+    "short": "Pažiūrėkite į šešėlį ir palieskite jam tinkantį paveikslėlį.",
+    "players": "1 ar 2 žmonės",
+    "intro": "Šešėlių derinimas – gerai pažįstama veikla iš spausdintų užduočių lapų, tik čia pateikiami dideli paveikslėliai ir nieko nereikia spausdinti. Ekrano viršuje matomas neryškus šešėlis, o apačioje laukia du, trys arba keturi paveikslėliai. Palieskite tą, kuris atitinka šešėlį. Apie tokius daiktus kaip dviratis, skėtis ar puodelis taip pat lengva pasikalbėti.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Pasirinkite du, tris arba keturis paveikslėlius. Du – pats paprasčiausias pasirinkimas.",
+      "Kartu pažiūrėkite į šešėlį. Kokios jis formos? Ar jis pailgas, ar apvalus?",
+      "Palieskite paveikslėlį, atitinkantį šešėlį. Po šešėliu pasirodys jo pavadinimas.",
+      "Palietus kitą paveikslėlį, žaidimas tiesiog jį įvardija ir laukia. Neskubėkite.",
+      "Kai būsite pasiruošę kitam, palieskite „Kitas šešėlis“."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Pirštu apveskite šešėlio kontūrus ir pasikalbėkite apie jo formą.",
+      "Jei šiandien šešėliai atrodo per sunkūs, perjunkite žaidimą „Raskite tokį patį“, kuriame paveikslėliai yra vienodi.",
+      "Suradę paveikslėlį, pasikalbėkite apie jį: „Mes turėjome tokį skėtį.“"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar yra laikmatis arba taškai?",
+        "a": "Ne. Čia nėra laikrodžio, taškų, ėjimų skaičiuoklės ar pralaimėjimo. Galite sustoti bet kurią akimirką, o sustoti įpusėjus – visiškai tinkama žaidimo pabaiga."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ar šešėlių derinimas tinka žmonėms, gyvenantiems su demencija?",
+        "a": "Kai kuriems žmonėms tai gali būti maloni ir paprasta veikla, ypač ankstyvesnėse stadijose. Formas atpažinti lengviau nei žodžius. Tai skirta džiaugsmui ir pokalbiui, o ne patikrinimui, ir tai negydo bei nestabdo demencijos. Jei veikla kelia nerimą ar susierzinimą, išbandykite „Rask tokį patį“ arba tiesiog kartu žiūrėkite paveikslėlius."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kas nutinka palietus ne tą paveikslėlį?",
+        "a": "Nieko nemalonaus. Nėra jokio garso signalo, raudono kryželio ar ekrano drebėjimo. Žaidimas įvardija paliestą paveikslėlį ir ramiai laukia kito prisilietimo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama, nereikia jokios paskyros, registracijos ar atsisiuntimo. Viskas veikia interneto naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Rūšiuojame kartu",
+    "seoTitle": "Rūšiavimo žaidimas žmonėms su demencija: Rūšiuojame kartu",
+    "h1": "Rūšiuojame kartu: paveikslėlių rūšiavimo veikla",
+    "description": "Palieskite paveikslėlį, tada krepšelį, kuriam jis priklauso: virtuvė ar sodas, vaisiai ar gyvūnai. Rami, nemokama rūšiavimo veikla žmonėms, gyvenantiems su demencija.",
+    "short": "Sudėkite kiekvieną paveikslėlį į jo krepšelį: virtuvės, sodo ir kitus.",
+    "players": "1 arba 2 žmonės",
+    "intro": "Rūšiavimas yra pažįstamas, malonus kasdienis užsiėmimas, panašiai kaip pirkinių susidėjimas į vietas ar kojinių rūšiavimas poromis. Palieskite paveikslėlį, tada krepšelį, kuriam jis priklauso. Nereikia skubėti, ir čia nėra klaidingų žingsnių.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Pasirinkite temą: virtuvė ir sodas, vaisiai ir gyvūnai arba namai ir kelionės.",
+      "Palieskite paveikslėlį. Aplink jį atsiras auksinis rėmelis.",
+      "Palieskite krepšelį, kuriam jis priklauso. Paveikslėlis persikels į tą krepšelį.",
+      "Jei jis priklauso kitam krepšeliui, žaidimas švelniai apie tai praneša ir laukia.",
+      "Kai visi paveikslėliai surūšiuoti, kartu peržiūrėkite krepšelius."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Kasdieniame gyvenime dažnai nebūna vieno teisingo atsakymo. Jei žmogus sako, kad laistytuvas tinka virtuvei, paklauskite kodėl. Galbūt išgirsite gražią istoriją.",
+      "Naudokite paveikslėlius pokalbiui pradėti: „Ką auginote savo sode?“",
+      "Tikrų daiktų rūšiavimas, pavyzdžiui, šaukštų ir šakučių ar sagų pagal spalvą, yra puikus tęsinys atsitraukus nuo ekrano."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar yra laiko matuoklis ar taškai?",
+        "a": "Ne. Čia nėra laikrodžio, taškų, ėjimų skaičiavimo ar pralaimėjimo. Galite sustoti bet kurią akimirką, o baigti veiklą pusiaukelėje yra visiškai gerai."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Kodėl rūšiavimas?",
+        "a": "Daugeliui žmonių patinka rūšiuoti, nes tai primena naudingą, pažįstamą veiklą. Be to, kartu rūšiuojant lengva pasikalbėti apie matomus paveikslėlius."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama, nereikia jokios paskyros, registracijos ar atsisiuntimo. Viskas veikia interneto naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Paveikslėlių dėlionė",
+    "seoTitle": "Lengva dėlionė žmonėms su demencija: 4 arba 9 detalės",
+    "h1": "Paveikslėlių dėlionė: paprasta dėlionė",
+    "description": "Lengva internetinė dėlionė žmonėms, gyvenantiems su demencija: 4 arba 9 didelės detalės, visas paveikslėlis lieka matomas, o detalės sukeičiamos vietomis tiesiog jas palietus.",
+    "short": "Palieskite dvi detales, kad sukeistumėte jas vietomis, kol sudėsite visą paveikslėlį.",
+    "players": "1 arba 2 žmonės",
+    "intro": "Jaukus paveikslėlis padalytas į keturias arba devynias dideles detales ir sumaišytas. Visas paveikslėlis lieka matomas kaip pavyzdys. Palieskite vieną detalę, tada kitą, ir jos susikeis vietomis. Detalių tempti nereikia.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Pasirinkite paveikslėlį ir 4 arba 9 detales. Keturios detalės – švelni pradžia.",
+      "Pažvelkite į viršuje esantį visą paveikslėlį.",
+      "Palieskite detalę, tada vietą, kurioje ji turėtų būti. Abi detalės susikeis vietomis.",
+      "Teisingoje vietoje esančios detalės pažymimos maža varnele.",
+      "Sudėję visą paveikslėlį, kartu pasidžiaukite juo, o tada pasirinkite kitą."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Daugeliui žmonių paliesti dvi detales ir sukeisti jas vietomis yra daug lengviau nei tempti.",
+      "Dėliodami kalbėkite apie paveikslėlį: „Štai ir raudonas stogas“.",
+      "Tikra medinė dėlionė iš 12–24 didelių detalių taip pat yra puikus užsiėmimas prie stalo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar yra laiko matuoklis ar taškai?",
+        "a": "Ne. Čia nėra laikrodžio, taškų, ėjimų skaičiavimo ar pralaimėjimo. Galite sustoti bet kurią akimirką, o baigti veiklą pusiaukelėje yra visiškai gerai."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ar reikia tempti detales?",
+        "a": "Ne. Palieskite vieną detalę, tada kitą, ir jos susikeis vietomis. Taip žymiai patogiau, jei virpa ranka ar žaidžiama mažesniame ekrane."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama, nereikia jokios paskyros, registracijos ar atsisiuntimo. Viskas veikia interneto naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Užbaikite posakį",
+    "seoTitle": "Užbaikite posakį: patarlių žaidimas senjorams",
+    "h1": "Užbaikite posakį",
+    "description": "Pažįstami posakiai, kuriuose trūksta paskutinio žodžio, pavyzdžiui, „Ką pasėsi, tą ir ___“. Palieskite atsakymo variantą arba atverkite pabaigą, o tada pasikalbėkite.",
+    "short": "Kartu užbaikite žinomus posakius ir pasikalbėkite apie juos.",
+    "players": "1, 2 žmonės arba grupė",
+    "intro": "Geri seni posakiai dažnai įstringa atmintyje visam gyvenimui. Kiekvienoje kortelėje pateikiamas gerai žinomas posakis be paskutinio žodžio, trys pasirinkimai ir mygtukas „Rodyti pabaigą“. Atskleidus pabaigą, švelnus klausimas pakviečia pasikalbėti.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Kartu garsiai perskaitykite posakį.",
+      "Palieskite žodį, kuris jį užbaigia, arba palieskite „Rodyti pabaigą“.",
+      "Dar kartą perskaitykite visą posakį ir pasikalbėkite remdamiesi klausimu.",
+      "Kai būsite pasiruošę, palieskite „Kitas posakis“."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Skaitykite lėtai ir padarykite pauzę prieš paskutinį žodį. Dažnai žmogus jį pasako dar jums nespėjus baigti.",
+      "Jei pasiūloma kitokia pabaiga, pasidžiaukite tuo. Kai kurie posakių variantai skiriasi priklausomai nuo šeimos ar krašto.",
+      "Grupėje vienas žmogus gali skaityti, o visi kiti kartu ištarti pabaigą."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar yra laiko matuoklis ar taškai?",
+        "a": "Ne. Čia nėra laikmačio, taškų, ėjimų skaičiavimo ar pralaimėjimo. Galite sustoti bet kurią akimirką, o sustoti įpusėjus – visiškai tinkama pabaiga."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "O jeigu pasirinksime kitą žodį?",
+        "a": "Žaidimas parodo įprastą pabaigą ir kviečia pasikalbėti. Taškai neskaičiuojami, todėl kitoks atsakymas yra visiškai tinkamas."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama – nereikia nei paskyros, nei registracijos, nei ką nors atsisiųsti. Viskas veikia tiesiog naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Žodžių paieška stambiu šriftu",
+    "seoTitle": "Žodžių paieška stambiu šriftu žmonėms su demencija (spausdinama)",
+    "h1": "Žodžių paieška stambiu šriftu",
+    "description": "Nemokama žodžių paieška stambiu šriftu, skirta senjorams ir žmonėms, gyvenantiems su demencija. Nedaug žodžių, didelės raidės, žodžiai tik horizontaliai ir vertikaliai. Žaiskite internete arba atsispausdinkite.",
+    "short": "Didelės raidės, vos keli žodžiai, tik horizontaliai ir vertikaliai. Galima ir atsispausdinti.",
+    "players": "1 ar 2 žmonės",
+    "intro": "Nedidelis tinklelis su didelėmis raidėmis ir vos keliais žodžiais, kurie surašyti tik iš kairės į dešinę arba iš viršaus į apačią. Bakstelėkite pirmąją žodžio raidę, o tada – paskutinę. Mėgstate popierių? Naują galvosūkį atspausdinsite vienu paspaudimu.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Pasirinkite temą ir tinklelio dydį.",
+      "Pažvelkite į žodžių sąrašą. Žodžiai skaitomi horizontaliai (iš kairės į dešinę) arba vertikaliai (iš viršaus į apačią).",
+      "Bakstelėkite pirmąją žodžio raidę, o tada – paskutinę.",
+      "Surastas žodis paryškinamas ir išbraukiamas iš sąrašo.",
+      "Bakstelėkite „Spausdinti šį galvosūkį“, jei norite žaisti ant popieriaus su pieštuku ar flomasteriu."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Parodykite žodį sąraše ir kartu ieškokite jo pirmosios raidės.",
+      "Žaidžiant ant popieriaus, teksto žymeklį dažnai lengviau nulaikyti nei pieštuką.",
+      "Pasikalbėkite apie temos žodžius. Pavyzdžiui, vaisių pavadinimai gali natūraliai pažadinti prisiminimus apie uogavimą, kepinius ar turgų."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar yra laikmatis arba taškai?",
+        "a": "Ne. Čia nėra laikmačio, taškų, ėjimų skaičiavimo ar pralaimėjimo. Galite sustoti bet kurią akimirką, o sustoti įpusėjus – visiškai tinkama pabaiga."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ar galiu atsispausdinti žodžių paiešką?",
+        "a": "Taip. Bakstelėkite „Spausdinti šį galvosūkį“, ir atspausdinsite esamą tinklelį stambiu šriftu su žodžių sąrašu apačioje. Kiekvienas naujas galvosūkis yra vis kitoks."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama – nereikia nei paskyros, nei registracijos, nei ką nors atsisiųsti. Viskas veikia tiesiog naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Spalvinimo lapai",
+    "seoTitle": "Spalvinimo lapai suaugusiesiems su demencija (nemokamai)",
+    "h1": "Spalvinimo lapai",
+    "description": "Paprasti, suaugusiesiems pritaikyti spalvinimo lapai su dideliais plotais: bakstelėkite spalvą, o tada – paveikslėlį. Jokios netvarkos, jokių netinkamų spalvų, o kiekvieną lapą galima nemokamai atsispausdinti.",
+    "short": "Bakstelėkite spalvą, o tada – paveikslėlio dalį. Lapus galima ir atsispausdinti.",
+    "players": "1 ar 2 žmonės",
+    "intro": "Lapai su didelėmis, paprastomis formomis: gėlė vazone, namas, arbatos puodelis, drugelis ir burlaivis. Bakstelėkite spalvą, tada – paveikslėlio dalį, kad ją nuspalvintumėte. Neteisingų spalvų čia nebūna.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Pasirinkite lapą.",
+      "Bakstelėkite spalvą. Ant kiekvienos spalvos užrašytas jos pavadinimas.",
+      "Bakstelėkite paveikslėlio dalį, kad nuspalvintumėte ją ta spalva.",
+      "Bet kada galite persigalvoti ir nuspalvinti iš naujo.",
+      "Bakstelėkite „Spausdinti šį lapą“, jei norite tuščio lapo spalvinimui pieštukais ar flomasteriais."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Pasiūlykite rinktis iš dviejų spalvų, o ne iš viso rinkinio, jei pasirinkti atrodo per sunku.",
+      "Violetiniai medžiai ir mėlynos saulės čia labai tinka. Svarbiausia – džiaugsmas spalvomis, o ne tikslumas.",
+      "Atspausdintus lapus patogu spalvinti storais flomasteriais ar vaškinėmis kreidelėmis, kurias lengviau suimti."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar yra laikmatis arba taškai?",
+        "a": "Ne. Čia nėra laikmačio, taškų, ėjimų skaičiavimo ar pralaimėjimo. Galite sustoti bet kurią akimirką, o sustoti įpusėjus – visiškai tinkama pabaiga."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Ar šie lapai nėra pernelyg vaikiški?",
+        "a": "Piešėme ramius, paprastus daiktus, o ne animacinių filmų personažus, kad lapai tiktų suaugusiesiems. Dėl didelių formų spalvinti paprasta, tačiau piešiniai neatrodo vaikiški."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama – nereikia nei paskyros, nei registracijos, nei ką nors atsisiųsti. Viskas veikia tiesiog naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Pokalbių kortelės",
+    "seoTitle": "Kortelės pokalbiams su žmonėmis, gyvenančiais su demencija: su paveikslėliais",
+    "h1": "Pokalbių kortelės",
+    "description": "Kortelės su paveikslėliais ir švelniomis temomis pokalbiui su žmonėmis, gyvenančiais su demencija: jokių egzaminavimų, jokių teisingų atsakymų. Naudokite ekrane arba atsispausdinkite visą rinkinį.",
+    "short": "Kortelės su paveikslėliais ir atvirais, švelniais klausimais. Jokio egzaminavimo.",
+    "players": "2 žmonės arba grupė",
+    "intro": "Kiekvienoje kortelėje pažįstamas paveikslėlis suderintas su atviru kvietimu pasikalbėti, pavyzdžiui: „Koks jūsų mėgstamiausias oras?“ Čia nėra teisingų atsakymų ir nieko nereikia prisiminti. Pasirinkite temą arba sumaišykite visas korteles.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Pasirinkite temą arba palikite „Visos kortelės“.",
+      "Garsiai perskaitykite klausimą ir kartu pažiūrėkite į paveikslėlį.",
+      "Išklausykite, pasidalykite savo atsakymu ir leiskite pokalbiui laisvai tekėti.",
+      "Kai būsite pasirengę, bakstelėkite „Kita kortelė“ arba likite prie tos pačios kortelės tiek, kiek norisi.",
+      "Bakstelėkite „Spausdinti visas korteles“, jei norite išsikirpti popierinį rinkinį."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Į klausimą atsakykite ir jūs patys. Taip viskas atrodys kaip jaukus pokalbis, o ne interviu.",
+      "Sekite pasakojimą, o ne faktus. Jei detalės keičiasi, tai visiškai natūralu.",
+      "Jei kortelė paliečia liūdną temą, priimkite tą jausmą ir švelniai pereikite prie kitos kortelės."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Kodėl čia nėra klausimų „Ar prisimenate...?“?",
+        "a": "Atmintį tikrinantys klausimai gali atrodyti kaip egzaminas ir kelti nejaukumą. Atviri pasiūlymai, tokie kaip „Papasakokite apie...“, leidžia įsitraukti kiekvienam, nepriklausomai nuo to, ką pavyksta prisiminti."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ar galiu atsispausdinti korteles?",
+        "a": "Taip. Paspaudę „Spausdinti visas korteles“, atspausdinsite visą rinkinį stambiu šriftu, po kelias korteles lape, kurias beliks išsikirpti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama ir ar reikia užsiregistruoti?",
+        "a": "Taip, tai nemokama, nereikia susikurti paskyros, registruotis ar nieko atsisiųsti. Viskas veikia naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Nuotraukų poros",
+    "seoTitle": "Sukurkite porų ieškojimo žaidimą iš šeimos nuotraukų",
+    "h1": "Nuotraukų poros: raskite savo nuotraukų poras",
+    "description": "Paverskite savo šeimos nuotraukas ramiu porų ieškojimo žaidimu. Pasirinkite nuo 2 iki 6 nuotraukų savo įrenginyje – jos lieka jūsų naršyklėje ir niekur nėra įkeliamos.",
+    "short": "Pasirinkite savo nuotraukas ir ieškokite porų. Niekas nėra niekur įkeliama.",
+    "players": "2 žmonės, vienas šalia kito",
+    "intro": "Pasirinkite nuo dviejų iki šešių nuotraukų iš telefono, planšetės ar kompiuterio, ir jos virs porų ieškojimo žaidimu su dideliais, aiškiais paveikslėliais. Nuotraukos rodomos tik šiame puslapyje. Jos nėra įkeliamos, saugomos ar kam nors siunčiamos, o užvėrus puslapį – pranyksta.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Paspauskite „Pasirinkti nuotraukas“ ir išsirinkite nuo dviejų iki šešių nuotraukų.",
+      "Kiekviena nuotrauka pasirodo du kartus. Paspauskite vieną, o tada – jos porą.",
+      "Radę nuotrauką, pasikalbėkite apie tai, kas joje pavaizduota.",
+      "Baigę žaisti, užverkite puslapį arba paspauskite „Išvalyti nuotraukas“. Nieko neišsaugoma."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Rinkitės aiškias nuotraukas su džiugiais, pažįstamais dalykais: augintiniu, sodu, mėgstama vieta ar vestuvių diena.",
+      "Vietų ir daiktų nuotraukos gali būti lengvesnės nei veidai, be to, jos nekelia spaudimo prisiminti žmonių vardus.",
+      "Nenaudokite išėjusių artimųjų nuotraukų, jei jos gali sukelti staigų liūdesį, nebent žinote, kad jos teikia paguodą."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ar mano nuotraukos kur nors įkeliamos?",
+        "a": "Ne. Puslapis nuskaito jūsų pasirinktas nuotraukas tiesiogiai jūsų naršyklėje ir parodo jas ekrane. Jos nesiunčiamos nei mums, nei kam nors kitam, o užvėrus ar atnaujinus puslapį – iškart pranyksta."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ar čia skaičiuojamas laikas arba taškai?",
+        "a": "Ne. Čia nėra laikmačio, taškų, ėjimų skaičiavimo ar pralaimėjimo. Galite sustoti bet kurią akimirką, o sustoti įpusėjus – visiškai tinkama pabaiga."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ar galiu išsaugoti žaidimą kitam kartui?",
+        "a": "Naršyklėje to padaryti negalima specialiai, kad nebūtų saugoma jokia asmeninė informacija. Nemokama „Golden Moments“ programėlė, skirta „iPhone“ ir „iPad“, gali išsaugoti pasirinktų nuotraukų kopijas jūsų įrenginyje."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Paveikslėlių bingo",
+    "seoTitle": "Spausdinamas paveikslėlių bingo senjorams, turintiems demenciją",
+    "h1": "Paveikslėlių bingo grupėms",
+    "description": "Nemokamas spausdinamas paveikslėlių bingo senjorų grupėms ir globos namams su dideliu vedėjo ekranu. Dideli paveikslėliai su žodžiais, 9 arba 16 langelių, skaityti nebūtina.",
+    "short": "Spausdinamos paveikslėlių bingo kortelės ir vedėjo ekranas grupėms.",
+    "players": "Grupė nuo 2 iki 30 žmonių",
+    "intro": "Klasikinis bingo su paveikslėliais vietoj skaičių, kad niekam nereikėtų įskaityti smulkaus šrifto. Atsispausdinkite skirtingų kortelių rinkinį ir naudokite vedėjo ekraną, rodantį kiekvieną paveikslėlį dideliu formatu televizoriuje, nešiojamajame kompiuteryje ar planšetėje.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Pasirinkite 9 arba 16 langelių kortelėje ir žaidėjų skaičių.",
+      "Paspauskite „Spausdinti korteles“. Kiekviena kortelė yra skirtinga.",
+      "Atidarykite vedėjo langą dideliame ekrane. Paspauskite „Kitas paveikslėlis“, kad parodytumėte kiekvieną paveikslėlį su jo pavadinimu.",
+      "Žaidėjai uždengia atitinkamą paveikslėlį savo kortelėje moneta, saga ar žymekliu.",
+      "Kiekvienas, užpildęs eilutę ar visą kortelę, sulaukia palaikymo. Šioje versijoje pralaimėtojų nėra: žaiskite tol, kol kiekvienas surinks bent vieną eilutę."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Naudokite didelius žetonus, pavyzdžiui, šaškių figūrėles ar butelių kamštelius. Mažas sagas gali būti sunku paimti.",
+      "Įvardykite paveikslėlį ir ką nors apie jį pasakykite: „Burlaivis. Kas iš jūsų yra plaukęs laivu?“",
+      "Žmones, kuriems sunkiau matyti, pasodinkite arčiau ekrano, o tiems žaidėjams, kuriems reikia pagalbos, paskirkite pagalbininką.",
+      "Daugumai grupių visiškai pakanka devynių langelių. Žaidimui skirkite maždaug 20–30 minučių."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kaip organizuoti paveikslėlių bingo globos namuose?",
+        "a": "Atsispausdinkite po vieną kortelę kiekvienam žaidėjui, atidarykite vedėjo langą didžiausiame turimame ekrane ir lėtai rodykite paveikslėlius, garsiai įvardydami kiekvieną. Žaiskite, kol visi surinks po eilutę, kad niekas neliktų nuošalyje."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Ar spausdinimas nemokamas?",
+        "a": "Taip. Spausdinkite tiek kortelių, kiek reikia, ir taip dažnai, kaip norite, asmeniniam naudojimui ar grupėms."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ar galima žaisti neskaitant?",
+        "a": "Taip. Kiekviename langelyje yra didelis paveikslėlis, o po juo – pavadinimas tiems, kurie mėgsta žodžius."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ramus kvėpavimas",
+    "seoTitle": "Rami kvėpavimo pertraukėlė senjorams ir artimiesiems",
+    "h1": "Rami kvėpavimo pertraukėlė",
+    "description": "Lėta, rami kvėpavimo pertraukėlė kartu: švelnus apskritimas plečiasi ir traukiasi šešis įkvėpimus. Jūs ją pradedate ir galite sustabdyti bet kada.",
+    "short": "Lėtai judantis apskritimas, padedantis kvėpuoti kartu. Pradėkite ir sustabdykite kada norite.",
+    "players": "1 arba 2 žmonės",
+    "intro": "Kartais geriausia veikla yra rami pertraukėlė. Paspauskite „Pradėti“, tada įkvėpkite apskritimui didėjant ir iškvėpkite jam mažėjant. Pasirinkite lėtesnį arba greitesnį tempą. Tai nėra gydymo priemonė, o tiesiog rami akimirka kartu.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Patogiai atsisėskite vienas šalia kito.",
+      "Pasirinkite tempą: lėtą arba ramų.",
+      "Paspauskite „Pradėti“. Įkvėpkite apskritimui didėjant ir iškvėpkite jam mažėjant.",
+      "Apskritimas sustoja pats po šešių įkvėpimų, arba paspauskite „Sustabdyti“, kada panorėsite."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Palaikykite už rankos arba švelniai padėkite ranką ant kito žmogaus rankos, jei jam tai malonu.",
+      "Niekada neverskite. Jei žmogus nori tik stebėti, tai visiškai tinka.",
+      "Jei kyla kvėpavimo sunkumų, kvėpuokite įprastai ir tiesiog stebėkite apskritimą. Dėl bet kokių su kvėpavimu susijusių klausimų pasitarkite su gydytoju."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ar tai medicininis kvėpavimo pratimas?",
+        "a": "Ne. Tai paprasta, neprivaloma pertraukėlė nusiraminimui ir buvimui kartu. Tai nėra nerimo ar kitos būklės gydymas. Dėl sveikatos klausimų pasitarkite su gydytoju."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Ar apskritimas juda pats, man jo nepradėjus?",
+        "a": "Ne. Niekas nejuda, kol nepaliečiate „Pradėti“, o sustoja po šešių įkvėpimų arba kai paliečiate „Sustabdyti“. Jei jūsų įrenginyje nustatyta sumažinti judesį, žodžiai keičiasi apskritimui nedidėjant."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ar tai nemokama ir ar reikia registruotis?",
+        "a": "Taip, tai nemokama, nereikia jokios paskyros, registracijos ar atsisiuntimo. Veikia interneto naršyklėje telefone, planšetėje ar kompiuteryje."
       }
     ]
   }

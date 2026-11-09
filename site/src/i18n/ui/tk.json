@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Esasy mazmuna geç",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Demensiýa işjeňlikleri",
+    "homeLabel": "Golden Moments baş sahypasy",
+    "mainNav": "Esasy",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Türkmen",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: çäýnek, günebakar we it suratlary, uly we dostlukly suratlar",
+    "languages": "Dil",
+    "englishOnly": "(iňlis dili)",
+    "machineTranslated": "Bu sahypa awtomatiki terjime edildi we heniz ana dilli okyjy tarapyndan barlanmady.",
+    "readOriginal": "Asyl nusgasyny iňlis dilinde okaň",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Oýunlar",
+      "activities": "Işjeňlikler",
+      "caregiving": "Ideg",
+      "brainHealth": "Beýnäniň saglygy"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Soraglar we jogaplar",
+    "breadcrumb": "Ýol görkezijisi",
+    "home": "Baş sahypa",
+    "lastUpdated": "Iň soňky täzelenen senesi",
+    "topics": "Temalar",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Tekstiň ululygy",
+      "smaller": "Adaty tekst",
+      "larger": "Uly tekst",
+      "contrast": "Ýokary kontrast"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Oýna",
+    "picturePairs": "Suratly jübütler",
+    "conversationCards": "Söhbet kartoçkalary",
+    "pictureBingo": "Suratly bingo",
+    "allGames": "Ähli oýunlar",
+    "pictures": "Çap etmek üçin suratlar",
+    "activityIdeas": "Işjeňlik pikirleri",
+    "ideas101": "101 işjeňlik pikiri",
+    "lateStage": "Soňky basgançakdaky işjeňlikler",
+    "printable": "Çap edip bolýan işjeňlikler",
+    "allActivities": "Ähli işjeňlikler",
+    "forCaregivers": "Ideg edýänler üçin",
+    "playTogether": "Bilelikde nädip oýnamaly",
+    "selfCare": "Özüňizi ideg ediň",
+    "brainHealth": "Beýnäniň saglygy barada gözlegler",
+    "faq": "Soraglar we jogaplar",
+    "about": "Biz barada",
+    "approach": "Biziň çemeleşmämiz",
+    "howWeWrite": "Biz nädip ýazýarys",
+    "organizations": "Guramalar üçin",
+    "app": "Golden Moments programmasy",
+    "appHelp": "Programma boýunça kömek",
+    "support": "Goldaw",
+    "legal": "Hukuk maglumatlary",
+    "sitePrivacy": "Sahypanyň gizlinligi",
+    "appPrivacy": "Programmanyň gizlinlik syýasaty",
+    "privacyChoices": "Gizlinlik saýlawlary",
+    "terms": "Şertler we programma lisenziýasy",
+    "safety": "Howpsuzlyk we niýetlenen ulanyş",
+    "accessibility": "Elýeterlilik",
+    "healthNotice": "Saglyk maglumatlary barada duýduryş",
+    "allLegal": "Ähli hukuk maglumatlary",
+    "note": "Golden Moments ýönekeý, bilelikde lezzet almak üçin niýetlenen işjeňlikleri hödürleýär. Bu lukmançylyk maslahaty, synag ýa-da bejeriş däl, we hiç kimi kesgitlemeýär, ölçemeýär ýa-da baha bermeýär. Saglyk meseleleri barada lukman bilen maslahatlaşyň. Garaşsyz ýagdaýda 03 belgisine jaň ediň.",
+    "publisher": "Neşir eden: Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Demensiýa we Alzgeýmer oýunlary we işjeňlikleri | Golden Moments",
+    "description": "Demensiýa ýa-da Alzgeýmer bilen ýaşaýan adamlar we olary ideg edýänler üçin mugt, ýumşak suratly oýunlar we işjeňlik pikirleri. Hasaba alyş, sagat ýa-da bal ýok.",
+    "eyebrow": "Mugt · Reklamasyz · Hasaba alyşsyz · Sagat ýa-da bal ýok",
+    "h1": "Demensiýaly adamlar üçin ýumşak oýunlar we işjeňlikler",
+    "lede": "Ýönekeý suratly oýunlar, tanyş suratlar we bilelikde lezzet almak üçin işjeňlikler — öz tizligiňiz bilen.",
+    "playGame": "Oýun oýna",
+    "findIdeas": "Işjeňlik pikirlerini tapyň",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Telefonda, planşetde we kompýuterde işleýär",
+      "Uly suratlar açyk galýar",
+      "Islendik wagt togtadyp bolýar; ýalňyşmak ýok"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Şeýle hem iPhone, iPad we Android üçin mugt programma, siziň öz maşgala suratlaryňyz bilen",
+    "albumNote": "«Çäýnekiň iki suraty, birlikde.»",
+    "gamesEyebrow": "Brauzerde oýnaň",
+    "gamesTitle": "Häzir oýnap boljak oýunlar",
+    "gamesLede": "Her biri sakit, ulular üçin niýetlenen we çalt başlamak üçin ýönekeý. Birini saýlaň, ýanaşyk oturyň we nobatma-nobat basyň.",
+    "seeAllGames": "{count} oýunyň hemmesine serediň",
+    "howTitle": "Nähili işleýär",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Tanyş zady saýlaň",
+        "text": "Çäýnekleriň, bagyň, haýwanlaryň we ýelkenli gämileriň suratlary. Ilki bilen okamak ýa-da düzgünleri öwrenmek gerek däl."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Ýanaşyk oturyň",
+        "text": "Olara basmaga rugsat beriň. Suratlar barada gürleşiň. Gabat gelmedik surat bolsa, indiki basmaga garaşylýar."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Gowy duýulanda togtadyň",
+        "text": "Bir oýun doly işjeňlikdir. «Häzirlik üçin tamam» düwmesi elmydama ekranda."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ekrandan daşarda",
+    "stageTitle": "Her basgançak üçin işjeňlik pikirleri",
+    "stageLede": "Häzirki wagtda rahat duýulýanlara görä uýgunlaşdyrylan aýdym-saz, gündelik işler, geçmiş ýatlamalary we dynç sensor pursatlary.",
+    "ideas101": "101 işjeňlik pikiri",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Başlangyç basgançak",
+        "text": "Halaýan işleriňizi käbir kiçi üýtgeşmeler bilen dowam etdiriň: meşgulaýyklar, syýahatlar, sözlem oýunlary we bilelikde meýilnama düzmek.",
+        "label": "Başlangyç basgançakdaky pikirler"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Orta basgançak",
+        "text": "Ädimlere bölünen ýönekeý, tanyş işler: katlamak, saýlamak, aýdym-saz, suratly oýunlar we gysga gezelençler.",
+        "label": "Orta basgançakdaky pikirler"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Soňky basgançak",
+        "text": "Eliň bilen degmek, ses we görüş arkaly rahatlyk we aragatnaşyk: el ideg etmek, halaýan aýdymlar, suratlar we bilelikde bolmak.",
+        "label": "Soňky basgançakdaky pikirler"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Aýratyn zat gözleýärsiňizmi? <a href=\"/activities/alzheimers/\">Alzgeýmer üçin işjeňlikler we oýunlar</a>, <a href=\"/activities/memory-games/\">ýumşak ýatda saklaýyş oýunlary</a>, <a href=\"/activities/trivia/\">ýönekeý wiktorina</a> ýa-da <a href=\"/activities/puzzles/\">tapmaca</a> synap görüň.",
+    "approachEyebrow": "Biziň çemeleşmämiz",
+    "approachTitle": "Ýatda saklamak synagy däl, bilelikdäki işjeňlik",
+    "approachLede": "Köp «beýni oýunlary» tizlige, ballara we yzygiderli üstünliklere esaslanýar. Demensiýaly adam üçin bu synag ýaly bolup biler. Biz beýleki ýoly saýladyk.",
+    "approachLink": "Biz muny näme üçin şeýle döredýäris",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ýalňyşmak ýok",
+        "text": "Sagat, bal, ömür ýa-da utulmak ýok. Başga surat ýalňyşlyk däl, diňe bir pauza."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Suratlar açyk galýar",
+        "text": "Ýatda saklamakdan däl, tanamakdan. Gabat getirmek ýüzi ýokarda başlaýar, şonuň üçin ýatda saklamaly zat ýok."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Ulular üçin we hormatly",
+        "text": "Ýylylyk, ýönekeý sözler we hakykat suratlar. Hiç wagt multfilm ýa-da çaga gepleşigi däl."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Dizaýn boýunça gizlin",
+        "text": "Hasaba alyş ýok, reklama ýok. Siziň suratlaryňyz hiç wagt enjamyňyzdan çykmaýar."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ideg edýänler üçin",
+    "guidesTitle": "Gündelik ideg üçin ýönekeý gollanmalar",
+    "allCaregiving": "Ideg boýunça ähli gollanmalar",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Oýunlary bilelikde nädip oýnamaly",
+        "text": "Taýýarlyk, tizlik we oýun lezzetsiz bolanda näme etmeli."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Işjeňlikden ret edeniňizde",
+        "text": "Ret etmegiň umumy sebäpleri we soňra ýumşak usulda ýene synap görmek."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Planşeti sazlamak",
+        "text": "Uly tekst, az bölünme we ýeke-täk ýönekeý baş ekran."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Mugt çap ediljek işjeňlikler",
+        "text": "Uly harply sözleri gözleýiş, reňkleme sahypalary, bingo we söhbet kartoçkalary."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Beýnäniň saglygy: gözlegler hakykatda näme diýýär",
+    "researchText": "Demensiýanyň öňüni almak mümkinmi? Beýni oýunlary kömek edýärmi? Açlyk, iýmit, uky we eşidiş barada näme diýilýär? Düşnükli, çeşmeli jogaplar, şol bir wagtda subutnamanyň zaýyf bolan ýerleri hem görkezilýär.",
+    "researchLink": "Gözleg gollanmalaryny okaň",
+    "appEyebrow": "Şeýle hem programma",
+    "appTitle": "Golden Moments iPhone, iPad we Android-da",
+    "appText": "Mugt programma internetsiz işleýär we siziň saýlan maşgala suratlaryňyzy ulanyp bilýär, olar enjamyňyzda nusga görnüşinde saklanýar. Şol bir ýumşak dizaýn: dört uly kafel, sagat ýok, bal ýok.",
+    "aboutApp": "Programma barada",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Demensiýaly adamlar üçin haýsy oýunlar gowy?",
+        "a": "Gowy oýunlar sada, tanyş we basyşsyz bolýar: uly suratlary gabat getirmek, saýlamak, ýeňil bölekleýin suratlar, belli nakyllary tamamlamak, reňklemek, surat bingo we söhbet kartlary. Iň gowy saýlaw — şu gün adamyň halaýan oýny. Sagat, upuç we synag ýaly zatlardan saklanyň."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Demensiýa oýunlary mugtmy?",
+        "a": "Hawa. Golden Moments-daki her oýun we çap ediljek material mugt, hasaba alyş, çüýşirme ýa-da ýüklemek talap etmeýär. Oýunlar telefonda, planşetde ýa-da kompýuterde web brauzerinde işleýär."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Aň oýunlary demensiýanyň öňüni alýarmy?",
+        "a": "Hiç bir oýunyň demensiýanyň öňüni alýandygy görkezilmedi, Golden Moments bolsa hiç zady bejerýändigini ýa-da öňüni alýandygyny aýtmaýar. Biziň oýunlarymyz lezzet we bilelikdäki wagt üçin. Aň saglygy bölümimiz gözlegleriň näme görkezýändigini we näme görkezmeýändigini düşündirýär."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Bu oýunlar Alzgeýmer keseli bolan adama laýykmy?",
+        "a": "Hawa. Alzgeýmer keseli demensiýanyň iň köp ýaýran sebäbi, we oýunlar şoňa görä niýetlenen: uly suratlar görnüp durýar, saýlaw az, ýatda saklamaly ýa-da ýalňyşmaly zat ýok. Gabat getirmek, saýlamak we tanyş nakyllary tamamlamak uzak ýyllar ýygnalan bilimlere daýanýar, täze öwrenmä däl."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Demensiýanyň soňky derejesindäki adam bu işjeňliklerden peýdalanyp bilermi?",
+        "a": "Köplenç bolup biler, ýanynda biri bolsa. Iki surat bilen «Şol birmeňzeşini tap», dört kwadrat bilen «Surat jübütleri», reňklemek sahypasy ýa-da rahat demini alyş pauzasy bilen başlaň. Gysga saklaň, ýolbaşçylygy özüne beriň we ýeterlik bolanda durduryň."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Maglumatlarym hususy saklanýarmy?",
+        "a": "Sahypada hasaba alyş ýok we reklama ýok. Haýsy sahypalaryň görülýändigini bilmek üçin Google Analytics ulanýarys. «Surat jübütleri» üçin saýlan suratlar diňe siziň brauzeriňizde görkezilýär we hiç haçan ýüklenmeýär."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Golden Moments kim tarapyndan döredilýär?",
+        "a": "Golden Moments web we mugt programma görnüşinde maşgalalar we ideg edijiler üçin rahat, ulular üçin niýetlenen surat işjeňliklerini döredýän kiçi topar. Biz lukmanlar däl, we bu ýerde lukmançylyk maslahaty ýok."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "başlangyç",
+    "middle": "orta",
+    "late": "soňky",
+    "hintOne": "Köplenç {list} derejä laýyk gelýär",
+    "hintMany": "Köplenç {list} derejelere laýyk gelýär",
+    "labelEarly": "Başlangyç derejesi",
+    "labelMiddle": "Orta derejesi",
+    "labelLate": "Soňky derejesi"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Bu oýun hakda",
+    "printable": "Çap ediljek",
+    "play": "{name} oýnamak →",
+    "readGuide": "Gollanmany okamak"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Ýumşak oýuna taýynmysyňyz?",
+    "text": "Uly suratlar, sagat ýok, upuç ýok we hasaba alynmak talap edilmeýär. Brauzeriňizde bilelikde oýnaň.",
+    "play": "Oýun oýnamak",
+    "all": "Ähli oýunlary görmek",
+    "aria": "Oýun oýnamak"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Bu oýunlary özüňiz bilen alyň",
+    "text": "Mugt Golden Moments programmasy iPhone, iPad we Android üçin: uly surat kwadratlary, maşgalaňyzyň öz suratlary bilen oýunlar we Wi‑Fi-siz işleýän surat toplumlary. Hasaba alyş, reklama, sagat ýa-da upuç ýok.",
+    "appStore": "App Store-dan alyň",
+    "googlePlay": "Google Play-den alyň",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Programma hakda",
+    "aria": "Programmany alyň"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Işjeňlikler",
+      "title": "Demensiýasy bolan adamlar üçin işjeňlikler",
+      "seo": "Demensiýasy bolan adamlar üçin işjeňlikler: derejelere görä pikirler",
+      "description": "Demensiýa bilen ýaşaýan adamlar üçin her derejede işjeňlik pikirleri: aýdym-saz, ýatlamak, adaty işler, duýgy pursatlary, senetçilik, açyk howa we mugt çap ediljek materiallar.",
+      "lede": "Manyly işjeňlik — rahatlyk, maksat ýa-da birleşmek pursatyny getirýän her zat. Adamyň hemişe halaýan zadyndan başlaň we ony şu güne uýgunlaşdyryň."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Ideg",
+      "title": "Ideg gollanmalary",
+      "seo": "Demensiýa idegi boýunça gollanmalar: amaly gündelik kömek",
+      "description": "Demensiýa idegijileri üçin amaly, mähirli gollanmalar: bilelikde oýun oýnamak, aragatnaşyk, ret etmeler, agşamky tolgunyşyk, planşetler, programma saýlamak we özüňize seredişmek.",
+      "lede": "Demensiýa bilen ýaşaýan adamy idegläniň gündelik pursatlary üçin sada, amaly kömek, şol sanda özüňize seredişiň hem."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Aň saglygy",
+      "title": "Aň saglygy: gözlegler näme diýýär",
+      "seo": "Aň saglygy we demensiýa töwekgelçiligi: gözlegler näme diýýär",
+      "description": "Demensiýanyň öňüni alyp bolýarmy? Demensiýa töwekgelçilik faktorlary, aň oýunlary, agyz bekleýiş, iýmit, hereket, uky, eşitmek we ilkinji duýduryş alamatlary boýunça çeşmeli, çynlakaý gollanmalar.",
+      "lede": "Uly gözlegler demensiýa töwekgelçiligini azaltmak barada hakykatda näme görkezýär — ýönekeý düşündirilen, şol sanda güýjiniň ýetmezligi ýa-da garyşyk netijeleriň bardygy. Umumy maglumat, lukmançylyk maslahaty däl."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Täzelenen",
+    "minuteRead": "{n} minutlyk okamak",
+    "byTeam": "Golden Moments topary tarapyndan",
+    "howWeWrite": "Biz nädip ýazýarys",
+    "shortAnswer": "Gysgaça jogap",
+    "onThisPage": "Bu sahypada ({n} bölüm)",
+    "commonQuestions": "Köp berilýän soraglar",
+    "sources": "Çeşmeler",
+    "sourcesNote": "Bu sahypanyň daýanýan guramalaryna we gözleglerine baglanyşyk berýäris. Her biri sahypa täzelenende barlandy.",
+    "tryTogether": "Bilelikde synap görüň",
+    "relatedGuides": "Degişli gollanmalar",
+    "related": "Degişli",
+    "startHere": "Ilki bilen şu ýerden başlaň"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Saglyk maglumaty duýduryşy",
+    "title": "Umumy maglumat, lukmançylyk maslahaty däl",
+    "textHtml": "Bu sahypa maşgalalar üçin neşir edilen gözlegleri jemleýär. Bir adam üçin näme dogrydygyny aýdyp bilmeýär. Iýmit, hereket, uky, derman ýa-da goşundylary üýtgetmezden ozal lukman bilen maslahatlaşyň. Birden aňyň çaşmagy ýa-da beýleki birden üýtgemeler üçin derrew lukman kömegi alyň. <a href=\"/medical-disclaimer/\">Saglyk maglumaty duýduryşymyzy okaň</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Bilelikdäki işjeňlik, ýatda saklamak synagy däl",
+      "seoTitle": "Golden Moments hakda: biziň çemeleşmämiz",
+      "description": "Golden Moments oýunlarynda näme üçin sagat, upuç ýa-da yzygiderli üstünlik ýok, suratlar näme üçin görnüp durýar we demensiýa barada nämä ynanýandygymyz we nämä ynanmaýandygymyz.",
+      "crumb": "Çemeleşmämiz",
+      "lede": "Golden Moments ideg edijiniň we demensiýa bilen ýaşaýan adamyň bilelikde, ýan-ýanaşyk lezzet alyp biljek rahat, ulular üçin surat işjeňliklerini döredýär.",
+      "bodyHtml": "<h2>Biz näme ynanýarys</h2><p>Işjeňligiň esasy maksady şol pursatdyr: söhbetdeşlik, ýylgyryş, iki suratlary birleşdirmegiň şatlygy ýa-da ýanyňda parahat oturmak. Onuň maksady hiç kimi ölçemek, ondan köp zat talap etmek ýa-da bir zady subut etmek däldir.</p><p>Köp beýni tälimi programmalary tizlik, bal, yzygiderli üstünlik we derejelere esaslanýar. Demensiýa bilen ýaşaýan adam üçin bu geçip bolmaýan imtihan ýaly bolup biler. Biz tersini döredip, özümize şu düzgünleri berk goýarys:</p><ul><li><strong>Ýeňilmeli zat ýok.</strong> Hiç bir ekranda sagat, bal, hereket sanawy, jan, yzygiderli üstünlik, konfeti ýa-da yzyna sanamak ýok.</li><li><strong>Ýatlamakdan köp, tanamak.</strong> Suratlar esasy görnüşde görünýär. Ündewler söhbeti çagyrýar we adlary ýa-da ýatlamalary synamaýar.</li><li><strong>Uly, aňsat we durnukly.</strong> Uly tekst we suratlar, ýokary kontrast we düwmeler hemişe öz ornunda durýar.</li><li><strong>Ulularyň abraýy.</strong> Hakyky dünýä suratlary we sada, mylaýym sözler. Karikatura, çagalaýyn öwgi ýa-da emoji sylaglar ýok.</li><li><strong>Aňsat çykyş.</strong> «Häzir ýeterlik» düwmesi hemişe görünýär. Ýarym ýolda durmak hem gowy netijedir.</li><li><strong>Esasan şahsy.</strong> Hasaplar ýa-da reklamalar ýok. Saýlan suratlaryňyz enjamyňyzda galýar.</li></ul><h2>Näme diýmeýändigimiz</h2><p>Oýunlarymyz lezzet we aragatnaşyk üçindir. Olar demensiýany ýa-da Alzheimer keseliniň ýüze çykmagyny kesgitlemeýär, synamaýar, ölçemeýär, bejermeýär, haýallatmaýar we öňüni almaýar, hiç kim olary şu sebäp bilen saýlamaly däldir. <a href=\"/brain-health/\">Beýniň sagdynlygy sahifelerimizde</a> gözleg barada ýazanymyzda, subutnamalaryň zaýyf ýerlerini açyk görkezýäris we olary hiç wagt öz oýunlarymyz bilen baglanyşdyrmaýarys.</p><h2>Biz kim</h2><p>Golden Moments kiçi, garaşsyz topardyr. Biz lukman däris. Gollanmalarymyz National Institute on Aging we Alzheimer’s Association ýaly guramalaryň çap edilen görkezmelerine esaslanýar, we her gollanma çeşmelerini sanaýar. <a href=\"/editorial-policy/\">Sahifelerimizi nähili ýazýandygymyzy we barlaýandygymyzy</a> okaň.</p><h2>Bize kömek edýän zatlaryňyzy aýdyň</h2><p>Nämäniň işleýändigini we nämäniň işlemeýändigini eşitmek bize örän ýakymly bolar, esasanam demensiýa bilen ýaşaýan adamlardan, maşgala idegini edýänlerden we işjeňlik işgärlerinden. Email: <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Sahifelerimizi nähili ýazýarys we barlaýarys",
+      "seoTitle": "Redaksiýa syýasaty",
+      "description": "Golden Moments demensiýa işjeňlikleri we beýniň sagdynlygy sahifelerini nähili gözleýär, ýazýar, çeşmelerini görkezýär we täzeleýär, hem-de biz nämäni hiç wagt çap etmejekdigimizi düşündirýär.",
+      "crumb": "Redaksiýa syýasaty",
+      "bodyHtml": "<h2>Çeşmelerimiz</h2><p>Gollanmalarymyzy National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance we NHS ýaly guramalaryň jemgyýetçilik görkezmelerine, şeýle hem Cochrane reviews we uly klinik synaglar ýaly ylmy seljerilen gözleglere esaslanýarys. Her gollanma ulanan çeşmelerini görkezýär. Her çeşmäni ýatlamazdan öň açyp okaýarys we ol näme diýýän bolsa, diňe şony habar berýäris.</p><h2>Nähili ýazýarys</h2><ul><li>Ilki amaly: şu gün näme etmelidigi sada dilde.</li><li>Subutnamalara dürs: hakykat şeýle bolanda «baglanyşykly», «bolup biler» we «subutnamalar garyşyk» diýýäris.</li><li>Hormatly: demensiýa bilen ýaşaýan adamlar barada ulular hökmünde ýazýarys, hiç wagt synag ýa-da utandyryjy dil ulanmaýarys.</li><li>Oýdan düzülen mazmun ýok: uydurma statistika, sitata, hünärmen, gözleg, syn ýa-da subutnama ýok.</li></ul><h2>Sahifelerimizi kim barlaýar</h2><p>Sahifeleri Golden Moments topary ýazýar we barlaýar. Gözleg we taslama üçin AI ýazuw gurallary kömek edýär. Her sahifäni topar çeşmeleri bilen deňeşdirip barlaýar. Sahifelerimiz lukmanlar ýa-da beýleki klinisistler tarapyndan <strong>seredilmedi</strong>, we biz başgaça aýtmaýarys. Olar umumy maglumat, lukman maslahaty däldir.</p><h2>Hiç wagt çap etmejek zatlarymyz</h2><ul><li>Oýun, iýmit, goşundy, aç-iýmek ýa-da tertip demensiýany saklaýar, bejerýär, haýallatýar ýa-da bejerýär diýen dawalar.</li><li>Kimdir birinde demensiýanyň bardygyny ýa-da ýokdugyny aňladýan synaglar, sorawnamalar ýa-da ballar.</li><li>Haýsydyr bir dermany başlamak, bes etmek ýa-da üýtgetmek barada maslahat.</li><li>Gollanma bolup görünýän, emma reklama ýa-da spons mazmuny.</li></ul><h2>Täzelenmeler we düzedişler</h2><p>Her sahifede iň soňky täzelenen senesi görkezilýär. Ýalňyşlyk ýa-da köne çeşme görseňiz, <a href=\"mailto:{email}\">{email}</a> salgysyna ýazyň, biz ony derrew barlarys.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Soraglar we jogaplar",
+      "seoTitle": "Demensiýa oýunlary we işjeňlikleri: soraglar we jogaplar",
+      "description": "Demensiýa oýunlary we işjeňlikleri barada iň köp berilýän soraglara jogaplar: haýsy oýunlary synap görmeli, näçe wagt oýnamaly, soňky basgançakdaky pikirler, beýniň sagdynlygy we gizlinlik.",
+      "crumb": "Soraglar we jogaplar",
+      "lede": "Idegini edýänleriň iň köp berýän soraglaryna gysga, sada jogaplar.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Oýunlar barada",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Demensiýa bilen ýaşaýan adam üçin iň gowy oýunlar haýsylar?",
+              "a": "Iň gowy oýunlar tanyş, ýönekeý we basyşsyz bolýar; dogry oýun bolsa şu gün adamyň halaýanydyr. Görnüp duran suratlar bilen laýyklaşdyrmak, saýlamak, aňsat terkibi ýygnamak, tanyş nakyllary tamamlamak, reňk berip boýamak we surat bingo köp adamlar üçin gowy işleýär. Sagatlardan, ballardan we synag ýaly zatlardan saklanyň."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Oýunlar hakykatdanam mugtymy?",
+              "a": "Hawa. Ähli oýunlar we çap ediljek materiallar mugtdyr, hasap açmak, agza bolmak, ýüklemek ýa-da mahabat bolmazdan."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Näme üçin upuçlar, derejeler ýa-da sagatlar ýok?",
+              "a": "Çalasynlyk we upuçlar ýakymly işi synaga öwürýär, bu bolsa utanç ýa-da gynanç getirip biler. Biz ünsi lezzete we bile geçirilen wagta gönükdirýäris, şonuň üçin ýeňiliş ýok we islän wagtyňyz togtadyp bilersiňiz."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Haýsy enjamlar iň amatly?",
+              "a": "Häzirki zaman web brauzeri bolan islendik telefon, planşet ýa-da kompýuter. Stolda diregi bolan planşet, köplenç iki adamyň ýanaşyk oýnamagy üçin iň rahat usul. Telewizora birikdirilen noutbuk toparlar üçin gowy işleýär."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Öz maşgala suratlarymyz bilen oýnap bilerismi?",
+              "a": "Hawa. Surat jübütleri siziň saýlan 2-den 6-a çenli suratyňyzy gabat gelýän oýna öwürýär. Suratlar brauzeriňizde galýar, ýüklenmeýär we saklanmaýar."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Işjeňlik we ideg",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Işjeňlik näçe wagt dowam etmeli?",
+              "a": "Köplenç 10-dan 20 minut ýeterlik, käwagt bolsa 2 minut hem üstünlik. Ýadamaklygy ýa-da gynanmagy görüň we ýakymly duýulýarka togtadyň. Dogry möçberi ýok."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Olar işjeňlige gatnaşmak islemese näme etmeli?",
+              "a": "Ret jogabyna hormat goýuň we soňrak ýa-da başga usul bilen synanyşyň. Ret ýadamaklykdan, agyrydan, ynamsyzlykdan ýa-da ýönekeý gyzyksynmazlykdan gelip biler. «Ýok» diýlende näme etmelidigi barada gollanmamyza serediň."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Soňky basgançakdaky demensiýa üçin haýsy işjeňlikler amatly?",
+              "a": "Rahatlyk we duýgular: halan sazyňyzy diňlemek, losýon bilen eliň massažy, suratlara bilelikde seredip oturmak, ýumşak ýorgan saklamak, daşarda oturmak ýa-da ýanynda biri bolanda örän ýönekeý surat oýny. Soňky basgançak gollanmamyzda has köp pikir bar."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Garaşylýan öýlerde toparlar üçin işjeňlikler barmy?",
+              "a": "Hawa. Surat bingosynda çap ediljek kartalar we ekrandaky çagyryjy bar. «Sözi dowam etdir» we «Söhbet» kartalary bolsa ýokary sesli okalanda gowy işleýär. Topar ululygy, oturgyçlar we dürli ukyplara laýyklaşdyrmak barada toparlar gollanmamyzda ýazylýar."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Beýni saglygy",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Oýunlar demensiýanyň öňüni alyp ýa-da haýalladyp bilermi?",
+              "a": "Hiç bir oýunyň demensiýanyň öňüni alýandygy görkezilmedi, biziň oýunlarymyz hem beýle delil bermeýär. Jemgyýetçilik şertinde kognitiw stimulýasiýanyň ýeňil-orta demensiýaly adamlar üçin kiçi peýdalary gözleglerde görkezilipdir, ýöne bu oýunyň keselligiň öňüni almagy bilen tapawutlanýar. Biz oýunlary lezzet we aragatnaşyk üçin hödürleýäris."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Demensiýanyň öňüni almak mümkinmi?",
+              "a": "Kepillik bilen däl. Gözlegler 14 saglyk we durmuş ýagdaýyny demensiýa töwekgelçiligi bilen baglanyşdyrýar, mysal üçin eşitmek kemligi, ýokary gan basyşy, hereketsizlik we jemgyýetden çetleşme. Olara üns bermek käbir adamlar üçin töwekgelçiligi azaldyp biler, ýöne ähli zady dogry edýän köp adam hem demensiýa ýüz tutýar. Muny hiç kimiň günäsi diýip bolmaz."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Aralykly ac durmak beýni saglygy üçin peýdalymy?",
+              "a": "Adamlarda subut çäkli we entek başlangyç, gözlegleriň köp bölegi haýwanlarda geçirilýär. Ac durmak, aýratyn-da şekeriň derman bilen bejerilýän ýa-da bilmän çişen ýagdaýynda, uly ýaşlylar üçin töwekgelçilikli bolup biler, şonuň üçin demensiýa bilen ýaşaýan adamlara maslahat berilmeýär. Iýmit tertibiňizi üýtgetmezden ozal doktor bilen maslahatlaşyň."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Gizlinlik we howpsuzlyk",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Siz haýsy maglumaty ýygnaýarsyňyz?",
+              "a": "Hasap ýa-da mahabat ýok. Biz saýta girişleri sanamak we haýsy sahypalaryň kömek edýänini görmek üçin Google Analytics ulanýarys, brauzeriňiz bolsa ýumşak sesleri açanyňyzy ýatda saklaýar. Surat jübütleri üçin saýlan suratlaryňyz hiç wagt ýüklenmeýär. Jikme-jik maglumat üçin gizlinlik düzgünine serediň."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Bu lukmançylyk maslahatymy?",
+              "a": "Ýok. Golden Moments dynç alyş we umumy maglumat üçin niýetlenendir. Saglyk soraglary üçin doktor bilen maslahatlaşyň, gyssagly ýagdaýda bolsa 03 belgisine jaň ediň."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Has köp jikme-jiklik: <a href=\"/caregiving/how-to-play-together/\">bile oýnamagyň usuly</a>, <a href=\"/caregiving/when-they-say-no/\">«ýok» diýlende näme etmeli</a>, <a href=\"/activities/late-stage/\">soňky basgançakdaky işjeňlikler</a> we <a href=\"/brain-health/can-dementia-be-prevented/\">demensiýanyň öňüni almak mümkinmi?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Demensiýa bilen ýaşaýan adamlar üçin mugt, ýumşak oýunlar",
+      "seoTitle": "Çap ediljek görkezme: Onlaýn mugt demensiýa oýunlary",
+      "description": "Maşgalalar we ideg edýänler üçin bir sahypalyk çap ediljek görkezme: demensiýa bilen ýaşaýan adamlar üçin mugt, ýumşak surat oýunlary, goldaw toparlary we ideg paketleri üçin.",
+      "crumb": "Çap ediljek görkezme",
+      "lede": "Bu sahypany goldaw toparyna, ideg paketine ýa-da ýaragyňyza ýelmemek üçin çap ediň. Brauzeriňiziň Çap et buýrugyny ulanyň; menýular we düwmeler çap edilende görünmez.",
+      "introHtml": "<p>Uly suratlar, ýönekeý sözler we utanmaly zat ýok. Telefonda, planşetde ýa-da kompýuterde mugt, hasap açmazdan, mahabatsyz, sagatsyz we upuçsyz. Ýanaşyk oturyň we nobatma-nobat oýnaň.</p>",
+      "gamesTitle": "Bile synap görjek oýunlar",
+      "restHtml": "<h2>Birnäçe maslahat</h2><ul><li>Adamyň iň gowy ýagdaýda bolan wagtyny saýlaň.</li><li>Iň ýeňil sazlamadan başlaň. Dört kwadrat ýeterlik.</li><li>Suratlar barada gepleşiň. Söhbet köplenç iň gowy bölek bolýar.</li><li>Ýakymly duýulýarka togtadyň. Ir togtatmak hem oňat netijedir.</li></ul><h2>Saýtda başga-da</h2><ul><li>Mugt çap ediljekler: uly harply sözleri tapmak oýny, reňk berýän sahypalar, söhbet kartalary we surat bingosy.</li><li>Ähli basgançaklar üçin işjeňlik pikirleri, bile oýnamak we özüňize alada etmek barada gollanmalar.</li></ul><p class=\"muted\">Lezzet we bile geçirilen wagt üçin. Lukmançylyk maslahaty, synag ýa-da bejergi däl. Golden Moments Cloudjet Solutions Pte. Ltd. tarapyndan çap edilýär.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Garaşylýan öýler, kitaphanalar we goldaw toparlary üçin",
+      "seoTitle": "Ideg jaýlary we toparlar üçin mugt demensiýa işjeňlikleri",
+      "description": "Ideg jaýlary, gündizki işjeňlik merkezleri, kitaphanalar, ýaşulylar bilen işleýän guramalar we goldaw toparlary bu mugt demensiýa oýunlaryny nädip ulanýarlar we bizi resurslar sanawyna goşmak üçin tekst.",
+      "crumb": "Guramalar üçin",
+      "lede": "Bu saýtdaky ähli zatlar ýaşaýjylar, agzalar we müşderiler bilen ulanmak üçin mugtdyr; hasap, rugsat ýa-da töleg gerek däl. Bu sahypada näme barlygy we ony nädip paýlaşmalydygy düşündirilýär.",
+      "shortText": "{name}: demensiýa bilen ýaşaýan adamlar we olary ideg edýänler üçin mugt, ýumşak surat oýunlary we işjeňlik gollanmalary. Hasaba alynmak ýok, wagt ölçegi ýok, bal ýok.",
+      "longText": "{name} ({domain}) demensiýa bilen ýaşaýan adamlar üçin edilen {count} sany mugt brauzer oýunyny hödürleýär: suratlary açyk galýan surat jübütlerini gözleýän oýun, ýönekeý go-kelleme, yzygiderlilikde saýlamak, belli nakyllary dowam etdirmek we çap edilip bilinýän kartlary bolan surat bingo. Hasap, reklama, wagt ölçegi ýa-da bal ýok. Saýtda, şeýle hem, demensiýanyň her derejesi boýunça sada dilde ýazylan işjeňlik gollanmalary bar; olar National Institute on Aging we Alzheimer's Association çeşmelerine salgylanýar.",
+      "useTitle": "Guramalar näme ulanyp biler",
+      "gamesItemHtml": "<strong>{count} brauzer oýuny</strong> noutbukda, planşetde ýa-da kompýuter bilen baglanyşykly telewizorda işleýär. Gurnamak, hasap ýa-da ýükleme gerek däl. <a href=\"/games/\">Ähli oýunlara</a> serediň.",
+      "printablesLabel": "{count} çap ediljek material:",
+      "printablesAfter": "Her sahypadaky Çap et düwmesini ulanyň.",
+      "moreItemsHtml": "<li><strong>Topar formatlary:</strong> <a href=\"/games/picture-bingo/\">Surat bingosy</a> çap ediljek kartlary we ekrandaky çagyryjysy bar, <a href=\"/activities/trivia/\">ýönekeý triwiýa</a> bolsa jogap saýlamaly 50 sorag we pikir alyşmak üçin nokatlary bar.</li><li><strong>Işjeňlik gollanmalary</strong> işgärler we maşgalalar üçin, derejesi we görnüşi boýunça, çeşmeleri bilen sada dilde. <a href=\"/activities/ideas/\">101 işjeňlik pikiri</a> ýa-da <a href=\"/activities/care-home-groups/\">ideg jaýlary üçin topar işjeňlikleri</a> bilen başlaň.</li>",
+      "restHtml": "<h2>Toparlar ony nädip ulanýar</h2><ul><li><strong>Ideg jaýlary we ýatdan çykma bölümleri:</strong> umumy otagdaky telewizorda surat bingosy ýa-da nakylyň ahyryny tamamlamak; toparyň biri hemmeler üçin basýar.</li><li><strong>Gündizki işjeňlik merkezleri:</strong> gysga birbetbaş sessiýalar üçin planşetde Surat jübütleri, dört plitka bilen.</li><li><strong>Jemgyýetçilik kitaphanalary:</strong> ýatdan çykma enjamlarynda çap edilen sözleri gözleýiş we söhbet kartlary, şeýle hem saýtyň kitaphana planşetlerindäki belliklerde.</li><li><strong>Ideg edijileriň goldaw toparlary we ýatdan çykma kafeleri:</strong> maşgalalaryň öýüne alyp gitmek üçin <a href=\"/handout/\">bir sahypalyk çap ediljek makulat</a>.</li><li><strong>Hassahanalar we çykarylyş meýilnamaçylary:</strong> makulat ideg edijileriň paketlerinde, öýde ýa-da keseliniň ýanynda rahat meşgullanmak üçin.</li></ul><h2>Biz nämäni etmeýäris</h2><p>Oýunlar lezzet we bilelikdäki wagt üçin niýetlenendir. Olar demensiýany kesgitlemeýär, barlamaýar, bal bermeýär, bejermeýär we haýal etmeýär, we guramalardan olary şeýle suratlandyrmazlygy haýyş edýäris. Reklama ýok, oýunlar ady, saglyk maglumatlaryny ýa-da suratlary ýüklemegi talap etmeýär. Saýt baryp görmekleri sanamak üçin Google Analytics ulanýar; <a href=\"/privacy/\">gizlinlik düzgünnamasy</a> onuň näme ýygnaýanyny düşündirýär. <a href=\"/games/photo-pairs/\">Surat jübütleri</a> oýnunda ulanylýan suratlar brauzerde galýar.</p><h2>Biziň ady resurs sanawyňyza goşuň</h2><p>Ideg edijiler üçin resurslar sanawy saklaýan bolsaňyz, <a href=\"/\">{domain}</a> salgysyny goşmaga hoş geldiňiz. Iki düşündirişiň haýsydyr birini göçürip bilersiňiz.</p>",
+      "shortTitle": "Gysga düşündiriş",
+      "longTitle": "Uzyn düşündiriş",
+      "linksHtml": "<p>Göni salgy bermek üçin peýdaly sahypalar: <a href=\"/games/\">mugt oýunlar</a>, <a href=\"/activities/printable/\">mugt çap ediljek materiallar</a>, <a href=\"/activities/alzheimers/\">Alzheimer keseli üçin işjeňlikler</a> we <a href=\"/caregiving/how-to-play-together/\">bilelikde nädip oýnamaly</a>.</p><h2>Soraglar ýa-da düzediş</h2><p>Saýtdaky zatlaryň haýsydyr biri nädogry ýa-da düşnüksiz bolsa, ýa-da ýaşaýjynyň zerurlyklary bu ýerdäki zatlar bilen ödenmese, <a href=\"mailto:{email}\">{email}</a> salgysyna ýazyň. Ýaşaýjylar ýa-da müşderiler barada şahsy ýa-da saglyk maglumatlaryny iberməň.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments programmasy",
+      "seoTitle": "iPhone we Android üçin Golden Moments programmasy",
+      "description": "Mugt Golden Moments programmasy: dört uly plitka bilen ýumşak surat gabat getirmek, siz saýlan maşgala suratlary enjamyňyzda saklanýar, internetsiz surat toplumlary we hasap ýok.",
+      "crumb": "Programma",
+      "lede": "Saýtda halaýan zadyňyz, internet bolmasa-da işleýän we siziň saýlan maşgala suratlaryňyzy ulanyp bilýän programmada.",
+      "worksOn": "{platforms} üstünde işleýär ({requirements}).",
+      "bodyHtml": "<h2>Kiçi başlaň</h2><p>Dört uly plitka we tanyş suratlar bilen başlaň. Suratlar görnüp dursun, ýa-da rahat bolsa gizlemek mümkin. Ýumşak režimde wagt ölçegi, bal ýa-da jerime ýok. 4, 6, 8 ýa-da 12 plitka saýlaň.</p><h2>Öz maşgalaňyz üçin</h2><p>Enjamyňyzyň surat saýlaýjysy bilen maşgalaňyzyň suratlaryny saýlaň. Programma özüniň işleri üçin kiçi nusgalary saklaýar. Ol kitaphanaňyzy barlamaýar we asyl suratlaryňyzy üýtgetmeýär, bir ýygyndyda 24 surata çenli saklaýar.</p><h2>Bile seredeliň</h2><p>Bir wagtda bir surata serediň. Islege görä soraglar söhbeti goldaýar, ýöne hiç kimden at ýatlamagy ýa-da dogry jogap bermegi talap etmeýär. Diňe bile seredip durmak ýeterlikdir.</p><h2>Gerek ýerlerde internetsiz</h2><p>Başlangyç suratlar we sekiz surat paketiniň hemmesi programma bilen birlikde gelýär. Enjama göçürilen maşgala suratlary internetsiz işleýär. Diňe iCloud-da saklanýan asyl suratlary saýlasaňyz, internet gerek bolup biler.</p><h2>Hasap ýok, suratlary sinhronlaýan serwer ýok</h2><p>Maşgalaňyzyň suratlarynyň nusgalary diňe enjamda saklanýar. Nusgalary aýyryp bilersiňiz, asyl suratlaryňyz galýar. Enjamyň maglumatlary ätiýaçlyk nusgasyna girip biler. <a href=\"/app-privacy/\">Programmanyň maglumat gizligi syýasatyny</a> okaň, <a href=\"/help/\">programmanyň kömek bölümi</a> her ädimi düşündirýär.</p>",
+      "disclaimer": "Golden Moments diňe dynç almak we bilelikde söhbetdeş bolmak üçin niýetlenendir. Ol demensiýa ýa-da Alzgeýmer keseline diagnoz goýmaýar, bejermeýär, öňüni almaýar we ölçemeýär.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Mugt demensiýa we Alzgeýmer oýunlary onlaýn",
+    "description": "Demensiýa ýa-da Alzgeýmer bilen ýaşaýan ýaşuly adamlar üçin mugt onlaýn oýunlar: suratlary gabat getirmek, ýönekeý pazllar, saýlamak, nakyllar, reňklemek, bingo. Hasap açmak talap edilmeýär, wagt ölçegi ýa-da bal ýok.",
+    "crumb": "Oýunlar",
+    "h1": "Demensiýa bilen ýaşaýan adamlar üçin ýumşak oýunlar",
+    "lede": "Brauzerde bilelikde oýnamak üçin {count} mugt oýun. Uly suratlar, ýönekeý sözler we ýeňilmek ýok: wagt ölçegi ýok, bal ýok, hasap açmak ýok.",
+    "listName": "Demensiýa bilen ýaşaýan adamlar üçin ýumşak oýunlar",
+    "byStageTitle": "Sahna boýunça oýun saýlamak",
+    "byStageLede": "Sahnalar diňe takmyny görkezmedir. Adamyň halaýan zadyny we şu gün rahat bolýan zadyny yzarlaň.",
+    "stageCol": "Sahna",
+    "gamesCol": "Köplenç laýyk gelýän oýunlar",
+    "moreHtml": "Ekrandan daşarda has köp pikirler: <a href=\"/activities/ideas/\">demensiýa bilen ýaşaýan adamlar üçin 101 işjeňlik</a>, <a href=\"/activities/alzheimers/\">Alzgeýmer üçin işjeňlikler we oýunlar</a>, <a href=\"/activities/memory-games/\">ýumşak ýat oýunlary</a> we <a href=\"/activities/puzzles/\">pazllar</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Haýsy oýundan başlamaly?",
+        "a": "Dört plitkaly surat jübütleri rahat birinji saýlawdyr. Suratlaryň arasynda saýlamak kynlyk getirse, iki surat bilen «Şol bir zady tap» oýnuny synap görüň. Topar üçin «Surat bingo» oýnuny saýlaň."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Oýunlar iPad ýa-da telefonda işleýärmi?",
+        "a": "Hawa. Her oýun telefonlarda, planşetlerde we kompýuterlerde brauzerde işleýär, suratlar ekrany doldurýança uly bolýar. Iki adam üçin standdaky planşet köplenç iň rahat bolýar."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Bu oýunlar Alzgeýmer keseli bolan adama laýykmy?",
+        "a": "Hawa. Olar demensiýa, şol sanda iň köp ýaýran sebäbi bolan Alzgeýmer bilen ýaşaýan adamlar üçin döredildi. Suratlar görnüp durýar, saýlaw az, wagt ölçegi ýa-da bal ýok, şonuň üçin oýunlar täze zatlary ýatda saklamakdan has, tanyş zatlary tanamaga daýanýar."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Bular ýaşulylar üçin ýat oýunlarymy?",
+        "a": "Olar islendik ýaşuly adamyň lezzet alyp biljek gabat getirme we surat oýunlary, ýöne ýat synamak üçin däl: «Surat jübütleri» oýunynda suratlar, siz başgaça saýlamasaňyz, ýüzi ýokarda galýar. Demensiýa bilen ýaşaýan ýaşulylar üçin ýat oýunlary boýunça gollanmamyz islendik ýat oýnuny nähili ýumşak saklamalydygyny düşündirýär."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Hemaýat merkezindäki topar üçin oýunlar barmy?",
+        "a": "Hawa. «Surat bingo» çap edilip bilinýän kartlary we ekrandaky çagyryjysy bar, «Nakyly tamamlaň» we «Söhbet kartlary» bolsa topara sesli okalanda gowy işleýär."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad we Android",
+    "requirements": "iOS 15 ýa-da soňky; Android 7.0 ýa-da soňky",
+    "summary": "iPhone, iPad we Android üçin mugt programma: dört-on iki uly plitkada ýumşak surat gabat getirmek, saýlan maşgalaňyz suratlary bilen gabat getirmek we seretmek, internetsiz işleýän sekiz surat paketi. Hasap, reklama, wagt ölçegi ýa-da bal ýok.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "4, 6, 8 ýa-da 12 uly plitka bilen ýumşak surat gabat getirmek; siz gizlemegi saýlamasaňyz, suratlar görnüp durýar",
+      "Saýlan maşgalaňyz suratlary gabat getirmek we bilelikde seretmek üçin programmaya göçürilýär",
+      "Bilelikde seretmek: bir wagtda bir surat, islege görä söhbet soraglary bilen",
+      "Programma bilen gelýän sekiz surat paketi; internetsiz işleýär",
+      "Hasap, reklama, programma içindäki satyn alyş, wagt ölçegi, bal ýa-da jerime ýok"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Demensiýa işjeňlikleri üçin programma barmy?",
+        "a": "Hawa. Golden Moments («{storeName}» ady bilen) App Store-da we Google Play-de mugt. Ol uly plitkalar bilen ýumşak surat gabat getirmek, saýlan maşgalaňyz suratlary bilen oýunlar we internetsiz işleýän surat paketlerini hödürleýär."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Golden Moments programmasy mugtmy?",
+        "a": "Hawa. Ony mugt ýüklemek bolýar, reklama, hasap ýa-da programma içindäki satyn alyş ýok."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Programma internetsiz işleýärmi?",
+        "a": "Hawa. Başlangyç suratlar we sekiz surat paketiniň hemmesi programma bilen gelýär, maşgalaňyz suratlary programmaya göçürilenden soň internetsiz işleýär. iCloud-da diňe saklanýan surat saýlasaňyz, birikme gerek bolup biler."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Öz maşgalamyzyň suratlaryny ulanyp bilerismi?",
+        "a": "Hawa. Enjamyňyzyň surat saýlaýjysy bilen suratlary saýlaň. Programma işjeňlikler üçin kiçi nusgalaryny enjamda saklaýar, olary ýükleýän däl we asyl suratlary hiç wagt üýtgetmeýär. Nusgalary islendik wagt pozup bilersiňiz."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Bu zehin tälimi ýa-da ýat synagy programmasymy?",
+        "a": "Ýok. Golden Moments lezzet almak we bile geçirilen wagt üçin niýetlenendir. Onda baha ýa-da synag ýok, demensiýany ýa-da Alzgeýmer keseline anyklamaýar, bejermeýär, öňüni almaýar we ölçemeýär."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Haýsy enjamlarda işleýär?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Bu oýunyň programma görnüşi barmy?",
+      "a": "Hawa. Mugt Golden Moments programmasy iPhone, iPad we Android üçin şol bir ýumşak surat utgaşdyrmagyny berýär, siz saýlan maşgala suratlaryny ulanyp bilýär we internetsiz işleýär. Hasap, reklama ýa-da bal ýok."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Bu oýunyň programma görnüşi barmy?",
+      "a": "Bu oýunyň däl. Mugt Golden Moments programmasy iPhone, iPad we Android üçin uly plitkaly ýumşak surat utgaşdyrmagyny we siz saýlan maşgala suratlaryny berýär, internetsiz işleýär. Bu oýun şu ýerde, brauzeriňizde mugt galýar."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: uly, dostana suratlar",
+    "noscript": "Bu oýun brauzeriňizde JavaScript açylmagyny talap edýär. Aşakdaky maslahatlar onsuz hem işleýär.",
+    "about": "{name} hakda",
+    "aboutAria": "Bu oýun hakda",
+    "noTimer": "Sagat ýa-da bal ýok",
+    "printable": "Çap etmek üçin",
+    "howTo": "{name} nädip oýnalýar",
+    "tips": "Bilelikde oýnamak üçin maslahatlar",
+    "newToPlayingHtml": "Demensiýasy bolan adam bilen oýnamaga täzemi? <a href=\"/caregiving/how-to-play-together/\">Bilelikde oýnamak</a> hakda okaň, şol sanda olar gyzyklanmasa näme etmelidigini.",
+    "moreAria": "Ýene görüň",
+    "helpfulGuides": "Peýdaly gollanmalar",
+    "appTitle": "Programmada oýnaň",
+    "appText": "Mugt Golden Moments programmasynda ýumşak surat utgaşdyrmagy, uly plitkalar we öz maşgala suratlaryňyz bar we Wi‑Fi-siz işleýär. iPhone, iPad we Android.",
+    "photoAppTitle": "Suratlaryňyzy taýyn saklaň",
+    "photoAppText": "Mugt Golden Moments programmasynda saýlan suratlaryňyz indiki gezek üçin enjamda galýar, oýunlar Wi‑Fi-siz işleýär. iPhone, iPad we Android.",
+    "goodToKnow": "Bilmeli zatlar",
+    "goodToKnowText": "Bu oýun lezzet almak we bile geçirilen wagt üçin niýetlenendir. Hiç zady synamaýar, ölçemeýär we bejermeýär.",
+    "moreGames": "Ýumşak oýunlar köp",
+    "crumb": "Oýunlar"
   }
 }

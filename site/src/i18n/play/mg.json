@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Vakio mafy",
+      "stopReading": "Atsaharo ny famakiana",
+      "region": "Lalao",
+      "restart": "Avereno atombohy",
+      "soundOn": "Feo malefaka mandeha",
+      "soundOff": "Feo malefaka maty",
+      "done": "Vita aloha hatreto",
+      "feedbackQuestion": "Nanampy ve ity androany?",
+      "feedbackYes": "Eny",
+      "feedbackNo": "Tsy dia nanampy loatra",
+      "feedbackThanks": "Misaotra anao nampahafantatra anay."
+    },
+    "tile": {
+      "named": "{name}, efajoro {n}",
+      "hidden": "Sary miafina, efajoro {n}",
+      "withState": "{label}, {state}",
+      "matched": "Mifanaraka",
+      "selected": "Voafidy",
+      "picture": "Sary",
+      "photoNumber": "Sary {n}"
+    },
+    "pairs": {
+      "allTogether": "Tafahaona daholo ny tsiroaroa mitovy. Afaka manomboka indray na maka aina kely.",
+      "photoPair": "Sary roa mitovy, tafahaona.",
+      "picturePair": "Sary roa maneho ny {name|lower}, tafahaona.",
+      "selected": "{name}. Tadiavo indray izao ny namany mitovy aminy.",
+      "mismatch": "Aza maika, milamina tsara. Tsindrio ny sary iray hanohizana.",
+      "mismatchNamed": "{a} sy {b}. Aza maika, milamina tsara. Tsindrio ny sary iray hanohizana."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tsindrio ny sary iray, avy eo tsindrio ilay sary mitovy aminy.",
+      "guidanceHidden": "Tsindrio ny efajoro roa hamadihana azy. Tadiavo izay roa mitovy.",
+      "restart": "Sary vaovao",
+      "sizeLegend": "Isan'ny efajoro",
+      "size": {
+        "one": "Efajoro {n}",
+        "other": "Efajoro {n}"
+      },
+      "viewLegend": "Fomba filalaovana",
+      "viewShowing": "Sary miseho",
+      "viewHidden": "Sary miafina",
+      "playAgain": "Hilalao indray miaraka amin'ny sary vaovao",
+      "talk": "Miaraha miresaka momba ireo sary"
+    },
+    "choose": {
+      "countLegend": "Isan'ny sary",
+      "count": "{n} azo isafidianana",
+      "thatOne": "Io ilay {name|lower}. Aza maika, milamina tsara."
+    },
+    "findTheSame": {
+      "guidance": "Jereo ny sary eo ambony. Tsindrio ny sary mitovy aminy eo ambany.",
+      "yes": "Eny, io ilay {name|lower} mitovy aminy.",
+      "next": "Sary manaraka"
+    },
+    "shadowMatch": {
+      "guidance": "Jereo ny aloka eo ambony. Tsindrio ny sary mifanitsy amin'io aloka io.",
+      "yes": "Eny, aloky ny {name|lower} io.",
+      "next": "Aloka manaraka",
+      "shadowAlt": "Aloka tadiavina ny namany",
+      "foundAlt": "Aloky ny {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tsindrio ny sary iray, avy eo tsindrio ny harona tokony hisy azy.",
+      "restart": "Sary vaovao",
+      "themeLegend": "Lohahevitra",
+      "selected": "{name}. Tsindrio indray izao ny harona tokony hidirany.",
+      "pickFirst": "Tsindrio aloha ny sary iray, vao manindry harona.",
+      "hint": "Mety ao anaty \"{basket}\" ny {name|lower}. Tsindrio io harona io hametrahana azy ao.",
+      "placed": "Tafiditra ao anaty \"{basket}\" ny {name|lower}.",
+      "sorted": "Voasokajy daholo ny zavatra rehetra. Miaraha mijery ny ao anatin'ireo harona, na manandrama lohahevitra hafa.",
+      "basket": {
+        "one": "Harona \"{basket}\", sary {count} no ao anatiny",
+        "other": "Harona \"{basket}\", sary {count} no ao anatiny"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tsindrio ny sombiny iray, avy eo tsindrio ny sombiny hafa. Mifanakalo toerana izy ireo.",
+      "restart": "Afangaro indray",
+      "pictureLegend": "Sary",
+      "pictures": {
+        "sailboat": "Sambo lay",
+        "house": "Trano",
+        "balloon": "Balonina",
+        "sunflower": "Vonin-tsirasoly",
+        "lighthouse": "Tilikambo fanazavana",
+        "cat": "Saka"
+      },
+      "sizeLegend": "Sombiny",
+      "size": {
+        "one": "Sombiny {n}",
+        "other": "Sombiny {n}"
+      },
+      "pickedUp": "Voaray ny sombiny. Tsindrio indray izao ny toerana tokony hisy azy.",
+      "whole": "Tafapetraka tanteraka indray ny {name|lower}. Misafidiana sary hafa amin'ny fotoana tianao.",
+      "swapped": {
+        "one": "Voafanakalo. Sombiny {correct} amin'ny {total} no efa eo amin'ny toerany marina.",
+        "other": "Voafanakalo. Sombiny {correct} amin'ny {total} no efa eo amin'ny toerany marina."
+      },
+      "guideAlt": "Ny sary feno: {name}",
+      "guideText": "Toy izao ny endriky ny sary rehefa tafapetraka tanteraka.",
+      "piece": "Sombiny eo amin'ny {place}",
+      "pieceInPlace": ", eo amin'ny toerany marina",
+      "piecePickedUp": ", voaray",
+      "places4": [
+        "ambony havia",
+        "ambony havanana",
+        "ambany havia",
+        "ambany havanana"
+      ],
+      "places9": [
+        "ambony havia",
+        "ambony afovoany",
+        "ambony havanana",
+        "afovoany havia",
+        "afovoany",
+        "afovoany havanana",
+        "ambany havia",
+        "ambany afovoany",
+        "ambany havanana"
+      ],
+      "done": "Tafapetraka tanteraka indray ny sary. Afaka manomboka indray na maka aina kely.",
+      "playAgain": "Afangaro indray"
+    },
+    "finishTheSaying": {
+      "guidance": "Miaraha mamaky ilay ohabolana, avy eo tsindrio ny teny mamarana azy.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Eny, \"{start} {end}.\"",
+      "otherEnding": "Mety tsara koa ny \"{word}\". Ny ohabolana mahazatra kosa dia mifarana amin'ny hoe \"{end}\".",
+      "revealed": "Toy izao ilay ohabolana: \"{start} {end}.\"",
+      "choicesLabel": "Safidio ny teny farany",
+      "show": "Asehoy ny famaranana",
+      "talk": "Miresaha momba izany: ",
+      "next": "Ohabolana manaraka"
+    },
+    "wordSearch": {
+      "guidance": "Mandeha mitsivalana na mitsangana ny teny. Tsindrio ny litera voalohany amin'ilay teny, avy eo ny litera farany.",
+      "restart": "Lalao teny vaovao",
+      "themeLegend": "Lohahevitra",
+      "sizeLegend": "Haben'ny fafana",
+      "size": {
+        "one": "{n} amin'ny {n} (teny {words})",
+        "other": "{n} amin'ny {n} (teny {words})"
+      },
+      "print": "Atao pirinty ity lalao ity",
+      "letterChosen": "Voafidy ny litera {letter}. Tsindrio indray izao ny litera farany amin'ilay teny.",
+      "found": "Hita ny teny {word}.",
+      "foundAll": "Hita ny teny {word}. Hita avokoa ny teny rehetra. Afaka manomboka indray na maka aina kely.",
+      "tryAgain": "Aza maika, milamina tsara. Tsindrio ny litera voalohany amin'ilay teny, avy eo ny litera farany.",
+      "gridLabel": "Fafana misy litera, andalana {n} misy litera {n}. Ampiasao ny bokotra zana-tsipìka fivezivezena amin'ireo litera.",
+      "cell": "{letter}, andalana {row}, tsanganana {col}",
+      "cellFound": ", ampahany amin'ny teny efa hita",
+      "wordsHeading": "Teny hotadiavina",
+      "wordFound": " (hita)",
+      "sheetTitle": "Teny tadiavina: {theme}",
+      "sheetNote": "Mandeha mitsivalana na mitsangana ny teny.",
+      "unavailable": "Tsy mifanaraka loatra amin'ity fiteny ity ny fafana misy litera, ka tsy misy eto ny fikarohan-teny. Andramo kosa ireo lalao misy sary."
+    },
+    "coloring": {
+      "guidance": "Tsindrio ny loko iray, avy eo tsindrio ny faritra holokoina amin'ny sary.",
+      "restart": "Fafao ny loko",
+      "cleared": "Madio tsy misy loko indray ny pejy.",
+      "pageLegend": "Pejy",
+      "print": "Atao pirinty ity pejy ity",
+      "colorsLabel": "Loko",
+      "paintChosen": "Voafidy ny loko {paint}.",
+      "painted": "Lasa {paint|lower} izao ny {part}.",
+      "artLabel": "{page}, faritra {count} holokoina",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, tsy misy loko",
+      "paints": {
+        "red": "Mena",
+        "orange": "Volomboasary",
+        "yellow": "Mavo",
+        "green": "Maitso",
+        "blue": "Manga",
+        "purple": "Volomparasy",
+        "pink": "Mavokely",
+        "brown": "Volon-tany",
+        "sky-blue": "Manga lanitra",
+        "cream": "Krema",
+        "gray": "Lavenona",
+        "white": "Fotsy"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Vakio mafy ilay karatra. Tsy misy valiny diso na marina izany.",
+      "position": "Karatra faha-{n} amin'ny {total}",
+      "themeLegend": "Lohahevitra",
+      "next": "Karatra manaraka",
+      "previous": "Karatra teo aloha",
+      "print": "Atao pirinty ny karatra rehetra",
+      "sheetTitle": "Karatra fampiresahana"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Atombohy amin'ny fisafidianana ireo sarinao.",
+      "guidance": "Tsindrio ny sary iray, avy eo tsindrio ilay sary mitovy aminy.",
+      "restart": "Afangaro indray",
+      "intro": "**Misafidiana sary 2 ka hatramin'ny 6** avy amin'ity fitaovana ity. Eto amin'ity pejy ity ihany no hanehoana azy ireo ary tsy alefa an-tserasera na tehirizina na oviana na oviana.",
+      "choose": "Misafidiana sary",
+      "chooseDifferent": "Misafidiana sary hafa",
+      "clear": "Esory ireo sary",
+      "cleared": "Voaala teo amin'ity pejy ity ireo sary.",
+      "atLeastTwo": "Misafidiana sary roa farafahakeliny azafady.",
+      "usingFirst": "Mampiasa ireo sary {max} voalohany.",
+      "skipped": {
+        "one": "Ny rakitra {count} dia tsy sary azonay aseho.",
+        "other": "Misy rakitra {count} tsy sary azonay aseho."
+      },
+      "playAgain": "Hilalao indray miaraka amin'ireto sary ireto",
+      "empty": "Eto no hisehoan'ireo sarinao, samy hiseho indroa avy."
+    },
+    "pictureBingo": {
+      "guidance": "Ataovy pirinty aloha ireo karatra. Avy eo asehoy eo amin'ny efijery lehibe indrindra anananao ity mpitarika lalao ity.",
+      "called": {
+        "one": "{name}. Sary {called} amin'ny {total} no efa voantso.",
+        "other": "{name}. Sary {called} amin'ny {total} no efa voantso."
+      },
+      "start": "Tsindrio ny \"Sary manaraka\" hiantsoana ny sary voalohany.",
+      "restart": "Manomboha lalao vaovao",
+      "squaresLegend": "Efajoro isaky ny karatra",
+      "squares": "Efajoro {n} ({side} amin'ny {side})",
+      "cardsLegend": "Isan'ny karatra hatao pirinty",
+      "cards": {
+        "one": "Karatra {n}",
+        "other": "Karatra {n}"
+      },
+      "print": {
+        "one": "Manaova pirinty karatra bingo {n}",
+        "other": "Manaova pirinty karatra bingo {n}"
+      },
+      "ready": "Vonona rehefa vonona ianao",
+      "next": "Sary manaraka",
+      "allCalled": "Voantso avokoa ny sary rehetra",
+      "alreadyCalled": "Efa voantso",
+      "sheetTitle": "Bingo misy sary · karatra {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Mifohaza rivotra rehefa mihalehibe ny boribory, ary mamoaha rivotra rehefa mihakely izany. Mijanona ho azy izy aorian'ny fofonaina enina.",
+      "paceLegend": "Hafainganana",
+      "paceSlow": "Miadana (5 segondra avy)",
+      "paceGentle": "Milamina (4 segondra avy)",
+      "ready": "Vonona rehefa vonona ianao",
+      "in": "Mifohaza rivotra",
+      "hold": "Mialà sasatra",
+      "out": "Mamoaha rivotra",
+      "start": "Atombohy",
+      "stop": "Atsaharo",
+      "started": "Efa nanomboka. Mifohaza rivotra rehefa mihalehibe ny boribory.",
+      "stopped": "Najanona.",
+      "finished": "Fofonaina miadana enina izay. Afaka manomboka indray ianao amin'ny fotoana tianao."
+    }
+  },
+  "pictures": {
+    "teacup": "Kaopy dite",
+    "kettle": "Fandrahon-drano",
+    "bread": "Mofo dipaina",
+    "frying-pan": "Lapoinily misy atody",
+    "cake": "Mofomamy fety",
+    "sunflower": "Voninkazo tanamasoandro",
+    "tulip": "Tulipe mena",
+    "watering-can": "Fandrarahan-drano",
+    "potted-plant": "Zavamaniry anaty vilany",
+    "tree": "Hazo",
+    "bird": "Vorona eo amin'ny sampana",
+    "butterfly": "Lolo",
+    "dog": "Alika",
+    "cat": "Saka",
+    "fish": "Trondro volamena",
+    "apple": "Paoma mena",
+    "pear": "Poara",
+    "strawberry": "Frezy",
+    "banana": "Akondro",
+    "lemon": "Voasarimakirana",
+    "cherries": "Serizy",
+    "house": "Trano",
+    "lamp": "Jiro latabatra",
+    "armchair": "Seza fipetrahana",
+    "key": "Fanalahidy tranainy",
+    "umbrella": "Elo",
+    "sailboat": "Sambo lay",
+    "car": "Fiara tranainy",
+    "bicycle": "Bisikileta",
+    "balloon": "Balaonina lehibe",
+    "lighthouse": "Tilikambo fanazavana",
+    "sun": "Masoandro",
+    "moon": "Volana sy kintana",
+    "teapot": "Fitaovana fanaovana dite",
+    "apple-pie": "Mofomamy paoma",
+    "honey-jar": "Sinibe misy tantely",
+    "boiled-egg": "Atody anaty fitoerany",
+    "toaster": "Fitaovana fanendasana mofo",
+    "cheese": "Fromazy sombiny",
+    "milk-jug": "Fitoeran-dronono",
+    "cupcake": "Mofomamy kely",
+    "orange": "Voasary",
+    "grapes": "Voaloboka",
+    "watermelon": "Voazavo",
+    "pineapple": "Mananasy",
+    "peach": "Paiso",
+    "rose": "Raozy",
+    "daisies": "Voninkazo marguerite",
+    "mushroom": "Holatra",
+    "wheelbarrow": "Borety",
+    "birdhouse": "Tranom-borona",
+    "cactus": "Kaktisy anaty vilany",
+    "acorn": "Voan-kazo oaka",
+    "autumn-leaf": "Ravinkazo maina",
+    "rabbit": "Bitro",
+    "duck": "Ganagana",
+    "hen": "Akoho vavy",
+    "sheep": "Ondry",
+    "owl": "Vorondolo",
+    "ladybird": "Koksinela",
+    "snail": "Sifotra",
+    "frog": "Sahona",
+    "bee": "Renitantely",
+    "clock": "Famantaranandro",
+    "vase-of-flowers": "Vazy misy voninkazo",
+    "radio": "Radio tranainy",
+    "books": "Toko-boky",
+    "candle": "Labozia",
+    "glasses": "Solomaso famakian-teny",
+    "telephone": "Telefaonina",
+    "ball-of-wool": "Baolina volon'ondry",
+    "straw-hat": "Satroka mololo",
+    "train": "Lamasinina etona",
+    "bus": "Aotobisy",
+    "airplane": "Fiaramanidina",
+    "suitcase": "Valizy",
+    "tractor": "Traktera",
+    "rowing-boat": "Lakana fivoy",
+    "rainbow": "Avana",
+    "rain-cloud": "Rahona mandatsak'orana",
+    "snowflake": "Flokon-dranomandry",
+    "kite": "Vorompelana",
+    "sunrise": "Fiposahan'ny masoandro eny an-tendrombohitra"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGHIKLMNOPRSTVYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Voankazo",
+          "words": [
+            "PAOMA",
+            "POARA",
+            "PAISO",
+            "FREZY",
+            "MANGO",
+            "GOAVY",
+            "PAPAY",
+            "LITCHI",
+            "KAKI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Zaridaina",
+          "words": [
+            "RAOZY",
+            "HAZO",
+            "TANY",
+            "RAVINA",
+            "AHITRA",
+            "RANO",
+            "VATO",
+            "VOA",
+            "LOLO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Lakozia",
+          "words": [
+            "KAOPY",
+            "SOTRO",
+            "MOFO",
+            "LOVIA",
+            "ANTSY",
+            "VILANY",
+            "SIRA",
+            "VARY",
+            "DITE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Toetrandro",
+          "words": [
+            "ORANA",
+            "RAHONA",
+            "ZAVONA",
+            "TADIO",
+            "AVANA",
+            "HAFANA",
+            "ALOKA",
+            "ANDRO",
+            "TSOKA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Biby",
+          "words": [
+            "ALIKA",
+            "SAKA",
+            "BITRO",
+            "ONDRY",
+            "AKOHO",
+            "OSY",
+            "OMBY",
+            "KISOA",
+            "VORONA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Trano",
+          "words": [
+            "SEZA",
+            "JIRO",
+            "TAFO",
+            "EFITRA",
+            "LAKILE",
+            "SARY",
+            "BOKY",
+            "VAZY",
+            "SOFA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Karatra rehetra",
+        "food": "Sakafo",
+        "home": "Trano",
+        "outdoors": "Any an-kalamanjana",
+        "animals": "Biby",
+        "travel": "Dia sy fitsangatsanganana",
+        "work": "Asa sy fialam-boly",
+        "music": "Mozika sy haravoana",
+        "seasons": "Fizaran-taona"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Inona ny fofon-tsakafo ankafizinao indrindra avy ao an-dakozia?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Karazana mofomamy manao ahoana no tianao hisafidianana amin'ny fankalazana fety?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Mba tantarao ahy ange ny tsindrin-tsakafo na mofomamy misy voankazo tena ankafizinao e."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Ahoana no fomba itiavanao ny dite na kafe hosotroinao?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Inona no sakafo maraina tena mahafinaritra anao?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Efa mba nioty voankazo avy teny amin'ny fotony ve ianao?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Ny mamy sa ny marikivy: iza amin'ireo no tianao kokoa?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Inona no sakafo mampahatsiahy anao ny vanin-taona mafana?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Mba tantarao ahy ange ny trano iray nahafinaritra anao nipetrahana."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Aiza no toerana tena tianao hipetrahana sy hialana sasatra?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Inona no tianao hatao amin'ny hariva milamina toy izao?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Inona no zava-tsarobidy tianao hotehirizina ao anaty boaty manokana?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Iza no olona tianao hasaina hiara-misotro dite aminao?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Inona no tianao hatao rehefa avy ny orana?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Voninkazo manao ahoana no tianao hambolena ao an-jaridaina?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Mba tantarao ahy ange ny hazo na zaridaina iray tena tianao."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Inona no tena mahafinaritra anao rehefa eny an-jaridaina?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Voninkazo miloko inona no tena ankafizinao?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Tianao ve ny mampiditra zavamaniry ao an-trano?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ahoana aminao ny andro mahafinaritra misy masoandro mamirapiratra?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Mba tantarao ahy ange ny tantaran'ny alika iray fantatrao na nahazatra anao."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Ny saka sa ny alika, sa tsy misy amin'ireo? Inona no mahafinaritra anao amin'izy ireo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Vorona manao ahoana no hitanao na hefonao feo eny ivelany?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Efa mba nandeha manjono ve ianao, na nitaiza trondro anaty fitoerana fitaratra?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Inona no biby tsara tarehy indrindra efa hitanao?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Mba tantarao ahy ange ny fiara iray tena tianao."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Aleonao ve mandany andro eny amoron-dranomasina sa eny an-tendrombohitra?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Aiza no toerana tianao haleha hitsangantsangana?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Raha afaka manidina mitety toerana ianao, aiza no tianao hojerena avy eny ambony?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Mba tantarao ange ny dia na fitsangatsanganana iray tena nahafinaritra anao."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Asa manao ahoana no tena nahafinaritra anao natao?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Inona no fialam-boly mety hahavitanao mandany ora maro tsy mahatsiaro tena?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Inona no zavatra tena nahafantarana anao tamin'ny fanamboarana na fanarenana azy?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Torohevitra inona no homenao ny tanora vao manomboka miasa?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Mozika manao ahoana no mahatonga anao hanetsiketsika tongotra sy handihy?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Inona no mahatonga ny fety iray tena hahafinaritra?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Iza no mpihira tianao henoina?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Inona no sarimihetsika na fandaharana amin'ny fahitalavitra tianao hojerena indray?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Inona no tena tianao amin'ny vanim-potoana mafana?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Inona no mahafinaritra anao amin'ny fararano?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Inona no zavatra mahafinaritra sy mahamay tianao hatao amin'ny takarivan'ny ririnina?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Inona avy ireo famantarana voalohany fa efa manomboka ny lohataona aminao?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Ranomandry, orana, sa masoandro mamirapiratra: iza amin'ireo no tianao kokoa?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Voninkazo anaty vilany",
+          "regions": {
+            "sky": "Aoriana",
+            "table": "Latabatra",
+            "stem": "Taho",
+            "leaf-left": "Ravina ankavia",
+            "leaf-right": "Ravina ankavanana",
+            "petal-1": "Felam-boninkazo 1",
+            "petal-2": "Felam-boninkazo 2",
+            "petal-3": "Felam-boninkazo 3",
+            "petal-4": "Felam-boninkazo 4",
+            "petal-5": "Felam-boninkazo 5",
+            "petal-6": "Felam-boninkazo 6",
+            "petal-7": "Felam-boninkazo 7",
+            "petal-8": "Felam-boninkazo 8",
+            "center": "Afovoan'ny voninkazo",
+            "pot": "Vilany",
+            "pot-rim": "Sisiny ambony amin'ny vilany"
+          }
+        },
+        "house": {
+          "name": "Trano",
+          "regions": {
+            "sky": "Lanitra",
+            "sun": "Masoandro",
+            "grass": "Ahitra",
+            "chimney": "Fivoahan-tsetroka",
+            "walls": "Rindrina",
+            "roof": "Tafo",
+            "door": "Varavarana",
+            "window-left": "Varavarankely ankavia",
+            "window-right": "Varavarankely ankavanana",
+            "path": "Lalankely"
+          }
+        },
+        "teacup": {
+          "name": "Kaopy dite",
+          "regions": {
+            "background": "Aoriana",
+            "saucer": "Lovia kely fitoeran-kaopy",
+            "handle": "Tantana",
+            "cup": "Kaopy",
+            "band": "Tsipika amin'ny kaopy",
+            "tea": "Dite"
+          }
+        },
+        "butterfly": {
+          "name": "Lolo",
+          "regions": {
+            "background": "Aoriana",
+            "wing-top-left": "Elatra ambony ankavia",
+            "wing-top-right": "Elatra ambony ankavanana",
+            "wing-bottom-left": "Elatra ambany ankavia",
+            "wing-bottom-right": "Elatra ambany ankavanana",
+            "spot-left": "Teboka amin'ny elatra ankavia",
+            "spot-right": "Teboka amin'ny elatra ankavanana",
+            "body": "Vatana"
+          }
+        },
+        "sailboat": {
+          "name": "Sambo lay",
+          "regions": {
+            "sky": "Lanitra",
+            "sea": "Ranomasina",
+            "sail-big": "Lay lehibe",
+            "sail-small": "Lay kely",
+            "mast": "Andrin-tsambo",
+            "hull": "Sambo",
+            "flag": "Saina"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Lakozia sy zaridaina",
+          "baskets": [
+            "Ao an-dakozia",
+            "Ao an-jaridaina"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Voankazo sy biby",
+          "baskets": [
+            "Voankazo",
+            "Biby"
+          ]
+        },
+        "home-travel": {
+          "label": "Trano sy dia",
+          "baskets": [
+            "Ao an-trano",
+            "Eny ivelany"
+          ]
+        }
+      }
+    }
+  }
+}

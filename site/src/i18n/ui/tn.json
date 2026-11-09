@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Ya kwa tirong e kgolo",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Ditiro tsa dementia",
+    "homeLabel": "Lehae la Golden Moments",
+    "mainNav": "Kgolo",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Setswana",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: ditshwantsho tse dikgolo, tse di itumedisang, tsa kopi ya tee, letlhoba le ntša",
+    "languages": "Puo",
+    "englishOnly": "(Sekgoa)",
+    "machineTranslated": "Tsebe ye e fetotswe ka mochini, mme ga e a ka e lekwa ke mongwe yo o buang Setswana ka tlhamalalo.",
+    "readOriginal": "Bala tlhaloso ya Sekgoa",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Dipapadi",
+      "activities": "Ditiro",
+      "caregiving": "Tlhokomelo",
+      "brainHealth": "Bophelo jwa boko"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Dipotso le dikarabo",
+    "breadcrumb": "Tsela ya go fitlha",
+    "home": "Gae",
+    "lastUpdated": "Bo fetotswe ka bofelo",
+    "topics": "Dikgang",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Bogolo jwa mokwalo",
+      "smaller": "Mokwalo wa tlwaelo",
+      "larger": "Mokwalo o o kgolo",
+      "contrast": "Phapano e e kgolo ya mebala"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Bapala",
+    "picturePairs": "Dipaire tsa ditshwantsho",
+    "conversationCards": "Dikarata tsa puisano",
+    "pictureBingo": "Bingo ya ditshwantsho",
+    "allGames": "Dipapadi tsotlhe",
+    "pictures": "Ditshwantsho tse di ka gatisiwang",
+    "activityIdeas": "Dikgopolo tsa ditiro",
+    "ideas101": "Dikgopolo tsa ditiro tse 101",
+    "lateStage": "Ditiro tsa kgato ya bofelo",
+    "printable": "Ditiro tse di ka gatisiwang",
+    "allActivities": "Ditiro tsotlhe",
+    "forCaregivers": "Ba ba tlhokomelang",
+    "playTogether": "Go bapala mmogo",
+    "selfCare": "Go itlhokomela",
+    "brainHealth": "Dipatlisiso tsa bophelo jwa boko",
+    "faq": "Dipotso le dikarabo",
+    "about": "Ka rona",
+    "approach": "Tsela ya rona",
+    "howWeWrite": "Ka fa re kwalang ka teng",
+    "organizations": "Ba ba dikgwebo le mekgatlho",
+    "app": "Application ya Golden Moments",
+    "appHelp": "Thuso ya application",
+    "support": "Thuso",
+    "legal": "Molao",
+    "sitePrivacy": "Sephiri sa webosaete",
+    "appPrivacy": "Tshireletso ya sephiri ya application",
+    "privacyChoices": "Dikgetho tsa sephiri",
+    "terms": "Melao le laesense ya application",
+    "safety": "Polokelo le tiro e e tshwanetseng",
+    "accessibility": "Go dirisega ga botlhe",
+    "healthNotice": "Tsebiso ya tshedimosetso ya boitekanelo",
+    "allLegal": "Tshedimosetso yotlhe ya molao",
+    "note": "Golden Moments e neela ditiro tse di bonolo tse di tlhomamisang go itumelela. Ga se keletso ya boitekanelo, tlhatlhobo kgotsa kalafi, ga e akanye kgotsa e lekanye mang kapa mang. Fa o na dipotso tsa boitekanelo, bua le ngaka. Mo tshoganyetsong, letsa nomoro ya tshoganyetso ya kwa gae.",
+    "publisher": "Gatisitswe ke Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Dipapadi le ditiro tsa Dementia le Alzheimer's | Golden Moments",
+    "description": "Dipapadi tse di bonolo tsa ditshwantsho tse di ka bapalwang mo inthaneteng, le dikgopolo tsa ditiro tsa batho ba ba nang le dementia kgotsa Alzheimer's le ba ba ba tlhokomelang. Ga go na go ikwadisa, nako ya go tshwaya kgotsa dipontsho.",
+    "eyebrow": "Mahala · Ga go dikgangiso · Ga go ikwadisa · Ga go dinako kgotsa dipontsho",
+    "h1": "Dipapadi le Ditiro tse di Bonolo tsa Batho ba ba nang le Dementia",
+    "lede": "Dipapadi tse di bonolo tsa ditshwantsho, ditshwantsho tse o di itseng, le ditiro tse o ka di itumelelang mmogo—ka go tsamaya ka lebelo la gago.",
+    "playGame": "Bapala papadi",
+    "findIdeas": "Batla dikgopolo tsa ditiro",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "E dirisiwa mo mogaleng, mo thebolete le mo khomputareng",
+      "Ditshwantsho tse dikgolo di nna di bonala",
+      "Ema nako nngwe le nngwe; ga go na sepe se se ka palelang"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Gape ke application e mahala ya iPhone, iPad le Android, e nang le ditshwantsho tsa lelapa la gago",
+    "albumNote": "“Ditshwantsho tse pedi tsa kopi ya tee, mmogo.”",
+    "gamesEyebrow": "Bapala mo browseng ya gago",
+    "gamesTitle": "Dipapadi tse o ka di bapalang jaanong",
+    "gamesLede": "Nngwe le nngwe e a itumedisa, e bonolo mme e a simolola ka lebelo. Tlhopha nngwe, dulang fa thoko ga go le ngwe, mme le ntshe ka go tsaya dikgetho.",
+    "seeAllGames": "Bona dipapadi tsotlhe tse {count}",
+    "howTitle": "Go direga jang",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Tlhopha sengwe se o se itseng",
+        "text": "Ditshwantsho tsa dikopi tsa tee, marapo, diphologolo le dikepe tsa mekgabiso. Ga go tlhokege go ithuta go bala kgotsa melao pele."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Dulang fa thoko ga go le ngwe",
+        "text": "Ba leke go tobetsa. Buang ka ditshwantsho. Ditshwantsho tse di sa tshwaneng di emela tobetso e e latelang."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Ema fa go ntse go monate",
+        "text": "Papadi e le nngwe ke ditiro tse di feletseng. “Ke tlogela jaanong” e nna mo skrineng ka metlha."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Kwa ntle ga skrine",
+    "stageTitle": "Dikgopolo tsa ditiro tsa kgato nngwe le nngwe",
+    "stageLede": "Mmino, ditiro tsa letsatsi le letsatsi, go gopola dikgang tsa kgale le metlhala e e thusang go itumelela ka dinako tse di khutshwane, e e tsamaisanang le se se phepafetseng jaanong.",
+    "ideas101": "Dikgopolo tsa ditiro tse 101",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Kgato ya pele",
+        "text": "Tswelela go dira se ba se ratang, ka diphetogo tse nnye: dikgatlhego, go tsamaya kwa ntle, dipapadi tsa mafoko le go rera mmogo.",
+        "label": "Dikgopolo tsa kgato ya pele"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Kgato ya bogare",
+        "text": "Ditiro tse di bonolo, tse di tlwaelegileng, di kgaolwa dikgato: go phuthela, go aroganya, mmino, dipapadi tsa ditshwantsho le go tsamaya ka dinyana.",
+        "label": "Dikgopolo tsa kgato ya bogare"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Kgato ya bofelo",
+        "text": "Go itumedisa le go kopana ka go ama, modumo le pono: tlhokomelo ya diatla, dipina tse ba di ratang, ditshwantsho le go nna mmogo.",
+        "label": "Dikgopolo tsa kgato ya bofelo"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "A o batla sengwe se se tlhomologileng? Leka <a href=\"/activities/alzheimers/\">ditiro le dipapadi tsa Alzheimer's</a>, <a href=\"/activities/memory-games/\">dipapadi tse di bonolo tsa gopolo</a>, <a href=\"/activities/trivia/\">dipotso tse di bonolo tsa kitso</a> kgotsa <a href=\"/activities/puzzles/\">dipapadi tsa go rarabolola</a>.",
+    "approachEyebrow": "Tsela ya rona",
+    "approachTitle": "Ketelo e e tshwaraganang, e seng tlhatlhobo ya gopolo",
+    "approachLede": "Dipapadi tse dintsi tsa “boko” di agelwa go lebelela, dipontsho le dikgwedi tse di latelanang. Mo batho ba ba nang le dementia seo se ka bonala e le tlhatlhobo. Rona re dirile se se fapaanang le seo.",
+    "approachLink": "Ke ka go reng re dira ka tsela eno",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ga go na se se ka palelang",
+        "text": "Ga go na nako, dipontsho, ditshwetso kgotsa go lahlega. Ditshwantsho tse di farologaneng ke go ema, e seng phoso."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Ditshwantsho di nna di bonala",
+        "text": "Go gopola ka go bona go feta go gopola ka thata. Go tshwaisa go simolola ka ditshwantsho di bonala, ka jalo ga go na sepe se o tlhokang go se gopola."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Ba bagolo le ba tlotlwa",
+        "text": "Mafoko a bonolo, a a boitshepo le ditshwantsho tsa lefatshe la nnete. Ga go ke ditshwantsho tsa katuni kgotsa puo ya bana."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Sephiri ka tlhamalalo",
+        "text": "Ga go dikgangiso, ga go akhaonto. Ditshwantsho tsa gago ga di tlogele sedirisiwa sa gago."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ba ba tlhokomelang",
+    "guidesTitle": "Dikaelo tse di tlhamalalo tsa tlhokomelo ya letsatsi le letsatsi",
+    "allCaregiving": "Dikaelo tsotlhe tsa tlhokomelo",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Go bapala dipapadi mmogo",
+        "text": "Go tlhopha, go lebelela go tsamaya ga dilo, le se se tshwanetseng go dirwa fa papadi e tlhoka go itumedisa."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Fa ba gana go dira ditiro",
+        "text": "Mabaka a a tlwaelegileng a go gana, le ditsela tse di boleta tsa go leka gape ka nako e e tlang."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Go beha thebolete",
+        "text": "Mokwalo o o kgolo, dikgoreletso tse di nnye le skrine e le nngwe e e bonolo ya gae."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Ditiro tse di ka gatisiwang tsa mahala",
+        "text": "Dipatlisiso tsa mafoko a a kgolo, ditshwantsho tsa go tlhaela mebala, bingo le dikarata tsa puisano."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Bophelo jwa boko: dipatlisiso di bolela eng ka nnete",
+    "researchText": "A dementia e ka thibiwa? A dipapadi tsa boko di thusa? Ka fa go tlhapa, go tlhoka dijo, boroko le go utlwa? Dikarabo tse di tlhomamisitsweng, di bontsha le fa bopaki bo le bofokodi.",
+    "researchLink": "Bala dikaelo tsa dipatlisiso",
+    "appEyebrow": "Gape ke application",
+    "appTitle": "Golden Moments mo iPhone, iPad le Android",
+    "appText": "Application e mahala e dirisiwa fa e se mo inthaneteng, mme e ka dirisa ditshwantsho tsa lelapa tse o di tlhophileng, tse di bolokilweng jaaka dikopi mo sedirisiweng sa gago. Rulaganyo e e tshwanang e e thulaganyang: matlapa a mane a a kgolo, ga go nako, ga go dipontsho.",
+    "aboutApp": "Ka application",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ke dipapadi dife tse di siameng ba ba nang le dementia?",
+        "a": "Dipapali tse di siameng ke tse di bonolo, tse di tlwaelegileng, tse di sa tlhaelelwang ke kgatelelo: ditshwantsho tse dikgolo tsa go tshwanya, go beakanya, dipuzzle tse di bonolo, go feleletsa maele a a itsegeng, go tlhoma mebala, bingo ya ditshwantsho le dikarata tsa puisano. Kgetho e e siameng ke e motho a e itumelelang gompieno. Tlogela dinako, dipoelo le sepe se se tshwanang le tlhatlhobo."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "A dipapali tsa dementia di a sa duelwe?",
+        "a": "Ee. Papali nngwe le nngwe le sengwe le sengwe sa go gatisa mo Golden Moments se a sa duelwe, ga go na akhaonto, ga go na go ikwadisa kgotsa go itsenya. Dipapali di sebediwa mo browser ya inthanete mo mogaleng, mo thapuleteng kgotsa mo komputareng."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "A dipapali tsa boko di thibela dementia?",
+        "a": "Ga go papali le e ontsweng e bontshitse gore e thibela dementia, mme Golden Moments ga e ikaelele go alafa kgotsa go thibela sepe. Dipapali tsa rona ke tsa go itumela le go nna le nako e e tlhomologileng mmogo. Karolo ya rona ya tlhokomelo ya boko e tlhalosa se dinyakisiso di se bontshang le se di sa se bontsheng."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "A dipapali tse di loketse motho yo o nang le Alzheimer's?",
+        "a": "Ee. Alzheimer's ke yone e e bakang dementia thata go feta tse dingwe, mme dipapali di dirilwe go e loketsa: ditshwantsho tse dikgolo tse di tshwarang go bonala, dikgetho tse dimmalwa, le ga go na sepe se o tshwanetseng go se gopola kgotsa go se fosa. Go tshwanya, go beakanya le go feleletsa maele a a itsegeng di ikaega mo tsebong e e tlhomilweng ka nako e telele, e seng go ithuta sepe se sesha."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "A batho ba ba nang le dementia e e godileng ba ka dirisa ditiro tse?",
+        "a": "Gantsi ba ka dirisa, fa go na le motho yo o nnang fa gare ga bone. Simolola ka Batla se se tshwanang ka ditshwantsho tse pedi, Dibapa tsa ditshwantsho ka ditaele tse nne, pampiri ya go tlhoma mebala kgotsa sebaka sa go phefogela ka khutso. Dira gore e nne ya nakwana, latela se ba se batlang, mme o emise fa ba kgora."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "A tshedimosetso ya me e a ipoloka?",
+        "a": "Webosaete ga e na dikakanyo tsa akhaonto kgotsa dikgatiso. Re dirisa Google Analytics go tlhaloganya dikarolo tse batho ba di tsenngwang. Ditshwantsho tse o di tlhophang tsa Dibapa tsa ditshwantsho tsa lelapa di bonwa mo browser ya gago fela, mme ga di kitla di tsenngwa mo inthaneteng."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Golden Moments e dirwa ke mang?",
+        "a": "Golden Moments ke setlhopha se sennye se se dirang ditiro tse di kgutsafetseng tsa ditshwantsho tsa batho ba bagolo, tsa malapa le batlhokomedi, mo inthaneteng le e le app ya mahala. Re ga se dingaka, mme ga go sepe mo go bone se se keletsang tlhokomelo ya bongaka."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "pele",
+    "middle": "magareng",
+    "late": "morago",
+    "hintOne": "Gantsi e loketse mophato wa {list}",
+    "hintMany": "Gantsi e loketse mephato ya {list}",
+    "labelEarly": "Mophato wa pele",
+    "labelMiddle": "Mophato wa magareng",
+    "labelLate": "Mophato wa morago"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ka papali eno",
+    "printable": "Ya go gatisa",
+    "play": "Bapala {name} →",
+    "readGuide": "Bala tataiso"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "A o ikemiseditse papali e e bonolo?",
+    "text": "Ditshwantsho tse dikgolo, ga go na nako, ga go na dipoelo le ga go na sepe se o tshwanetseng go ikwadisa go sone. Bapalang mmogo mo browser ya gago.",
+    "play": "Bapala papali",
+    "all": "Bona dipapali tsotlhe",
+    "aria": "Bapala papali"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Tsaya dipapali tseno nao",
+    "text": "App ya mahala ya Golden Moments ya iPhone, iPad le Android: dikgetho tse dikgolo tsa ditshwantsho, dipapali tse di nang le ditshwantsho tsa lelapa la gago, le dipaki tsa ditshwantsho tse di sebetsang ntle le Wi‑Fi. Ga go na akhaonto, dikgatiso, nako kgotsa dipoelo.",
+    "appStore": "Bona mo App Store",
+    "googlePlay": "Bona mo Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ka ga app",
+    "aria": "Bona app"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Ditiro",
+      "title": "Ditiro tsa Batho ba ba nang le Dementia",
+      "seo": "Ditiro tsa Batho ba ba nang le Dementia: Dikakanyo ka Mophato",
+      "description": "Dikakanyo tsa ditiro tsa batho ba ba nang le dementia mo mephatong yotlhe: mmino, go gopola, ditiro tsa letsatsi le letsatsi, dikutlo, boitlhamelo, kantle ga ntlo le ditshwantsho tsa mahala tsa go gatisa.",
+      "lede": "Tiro e e nang le kgalo ke sepe se se tlisang kagiso, maikarabelo kgotsa sebaka sa go kopana ka pelo. Simolola ka se motho a neng a se itumelela ka nako tsotlhe, mme o se fetolele go gompieno."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Tlhokomelo",
+      "title": "Ditataiso tsa Tlhokomelo",
+      "seo": "Ditataiso tsa Tlhokomelo ya Dementia: Thuso e e Sebediwang ka Letsatsi le Letsatsi",
+      "description": "Ditataiso tse di tlhomologileng le tse di nang le mogopolo ya batlhokomedi ba dementia: go bapala dipapali mmogo, puisano, go gana, go tshwenyega ka dinako tsa mantsiboa, dithaepa, go tlhopha ma-app le tlhokomelo ya bowena.",
+      "lede": "Thuso e e tlhomologileng le e e sebediwang ka dinako tsa letsatsi le letsatsi tsa go tlhokomela motho yo o nnang le dementia, go akaretsa le go itlhokomela."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Tlhokomelo ya boko",
+      "title": "Tlhokomelo ya Boko: Dinyakisiso di Bolelang",
+      "seo": "Tlhokomelo ya Boko le Kotsi ya Dementia: Dinyakisiso di Bolelang",
+      "description": "A dementia e ka thibelwa? Dikakanyo tse di nang le dikgang tse di tlhomologileng ka dibaka tsa kotsi ya dementia, dipapali tsa boko, go itlhaba, dijo, boitapoloso, boroko, kutlo le matshwao a pele a a supang.",
+      "lede": "Dithuto tse dikgolo di bontshang ka se go fokotsa kotsi ya dementia se se kayang go dira, di tlhalosiwa ka botlhaka, go akaretsa gore bopaki ga bo tlhomame kgotsa bo a farologana. Ke tshedimosetso ya kakaretso, e seng keletso ya bongaka."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Go tokafaditswe",
+    "minuteRead": "Bala ka metsotso e {n}",
+    "byTeam": "Ka setlhopha sa Golden Moments",
+    "howWeWrite": "Re kwala jang",
+    "shortAnswer": "Karabo e e kwala",
+    "onThisPage": "Mo tsamaisong eno ({n} dikarolo)",
+    "commonQuestions": "Dipotso tse di tlwaelegileng",
+    "sources": "Mesola",
+    "sourcesNote": "Re tshwaya dikhuduego tsa mekgatlho le dithuto tse tsebe e ikaegileng mo go tsone. Nngwe le nngwe e ne e lekolwa fa tsebe e tokafadiwa.",
+    "tryTogether": "Leka mmogo",
+    "relatedGuides": "Ditataiso tse di amanang",
+    "related": "Tse di amanang",
+    "startHere": "Simolola fa"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Tsebiso ya tshedimosetso ya boitekanelo",
+    "title": "Tshedimosetso ya kakaretso, e seng keletso ya bongaka",
+    "textHtml": "Tsebe e e fa dinyakisiso tse di phatlaladitsweng malapa. E ke ka se go bolelele se se siameng ka motho yo mongwe. Bua le ngaka pele o fetola dijo, go tsamaya ka dinao, boroko, dithuso kgotsa ditlhare tsa tlhokomelo. Fa go na le go lebala ka tshoganyetso kgotsa diphetogo tse di tshoganyetsang, batla thuso ya bongaka ka bonako. <a href=\"/medical-disclaimer/\">Bala tsebiso ya rona ya tshedimosetso ya boitekanelo</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Ntlha e e Kopanwang, e seng Tlhatlhobo ya Go Gopola",
+      "seoTitle": "Ka ga Golden Moments: Mokgwa wa Rona",
+      "description": "Gore ke ka ntlha yang dipapali tsa Golden Moments di se na dinako, dipoelo kgotsa dipalo tsa go tswelela, gore ke ka ntlha yang ditshwantsho di tshwara go bonala, le se re se tla bolelang kgotsa se re se sa tla bolelang ka dementia.",
+      "crumb": "Mokgwa wa rona",
+      "lede": "Golden Moments e dira ditiro tse di kgutsafetseng, tsa batho ba bagolo tsa ditshwantsho tse motlhokomedi le motho yo o nnang le dementia ba ka di itumelelang mmogo ka gare ga go nna gaufi.",
+      "bodyHtml": "<h2>Tumelo ya rona</h2><p>Sepe sa ntlha ya papadi ke ka ene: puisano, go itumelela ga motho, boitumelo jwa go tlhobola dinepe tse pedi mmogo, kgotsa go nna gaufi. Ga se go lekanya motho, go mo patelela go dira go feta fa a kgona, kgotsa go bontsha sepe.</p><p>Dipapadi tse dintsi tsa go tlhabisa monagano di agelwa ka lebelo, dipalo, dinaledi le maemo. Mo motho yo o nnang le dementia, seo se ka nna tlhatlhobo e e sa kgonegeng go e feta. Re dirile tse di farologaneng, mme re ikaega ka melao e:</p><ul><li><strong>Ga go na sepe sa go palelwa.</strong> Ga go na nako, dipalo, dinaledi, dibaise, dikgetlho tsa go palelwa kgotsa dipalo tsa dikgato, mo skerineng epe.</li><li><strong>Go gakologelwa ka go lebelela.</strong> Ditshwantsho di dula di bonala ka tlwaelo. Ditaelo di tlhohletsa puisano, mme ga di botse motho ka maina kgotsa ka dikakanyo tsa gagwe.</li><li><strong>Tse dikgolo, tse di bonolo le tse di tsepameng.</strong> Mafoko le ditshwantsho tse dikgolo, mmala o o bonalang sentle, le dikonopo tse di nna mo go tsone ka nako tsotlhe.</li><li><strong>Botho jwa batho ba bagolo.</strong> Ditshwantsho tsa nnete le mafoko a a bonolo, a a botlhokwa. Ga go na katuni, go bua ka mokgwa wa bana, kgotsa dipontsho tsa emoji tse di nang le dikeletso.</li><li><strong>Tsela e e bonolo ya go tlogela.</strong> “Re tlogela fa gompieno” e dula e bonala. Go emisa fa gare ke sephetho se se siameng.</li><li><strong>Sephiri ka go ikaelela.</strong> Ga go na dikakanyo kgotsa dikgwetlho tsa kgwebo. Dipitse tse o di tlhophang di dula mo sedirisong sa gago.</li></ul><h2>Se re sa ikanyeng ka sone</h2><p>Dipapadi tsa rona ke tsa go itumelela le go kopana. Ga di tlhatlhobe, ga di lekanye, ga di alafe, ga di ntsha dipholo kgotsa ga di thibele dementia kgotsa bolwetse jwa Alzheimer’s. Ga go tshwanela gore motho a di tlhophe ka lebaka leo. Fa re kwala ka dipatlisiso mo <a href=\"/brain-health/\">matlhakoreng a rona a botlhe jwa monagano</a>, re bolela ka tlhamalalo gore bopaki bo fokola kae, mme ga re di golagantshe le dipapadi tsa rona.</p><h2>Re ke bo mang</h2><p>Golden Moments ke setlhopha se se nnye, se se ikemetseng. Ga re badiri ba tsa dikalafo. Dikgakololo tsa rona di kwadiwa ka go ikaega mo ditaelong tse di gatisitsweng ke mekgatlho e jaaka National Institute on Aging le Alzheimer’s Association, mme tlhaeletso nngwe le nngwe e bontsha mesola ya yone. Bala <a href=\"/editorial-policy/\">ka fa re kwalang ka fa re tlhatlhobang ka teng matlhakore a rona</a>.</p><h2>Re bolelele se se thusang</h2><p>Re tla itumela go utlwa se se dirang sentle le se se sa dirang sentle ka go lona, segolo go batho ba ba nnang le dementia, balesedi ba lapa, le badirisi ba dipapadi. Romela lengwalo ko <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Ka Fa Re Kwalang le Ka Fa Re Tlhatlhobang Matlhakore a Rona",
+      "seoTitle": "Melao ya Dikwalo",
+      "description": "Ka fa Golden Moments e batlisisang, kwalang, e fang dikgang tsa yone ka teng le ka fa e ntlafatsang matlhakore a yone a dipapadi tsa dementia le botlhe jwa monagano, le se re sa ke ra se gatisa.",
+      "crumb": "Melao ya dikwalo",
+      "bodyHtml": "<h2>Dikgang tsa rona</h2><p>Re theilwe ka dikaelo tsa setšhaba tse di tswang mo mekgatlhong jaaka National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance le NHS, le ka dipatlisiso tse di tlhatlhobilweng ke ba bangwe, tse di jaaka dipuo tsa Cochrane le dithuto tse dikgolo tsa dikalafo. Tlhaeletso nngwe le nngwe e bontsha dikgang tse e ikaegileng ka tsone. Re bula kgang nngwe le nngwe pele ga re e bolela, mme re bolela fela se e se buang.</p><h2>Ka fa re kwalang</h2><ul><li>Ke tsa tiro ka tsa pele: se se tshwanetseng go dirwa gompieno, ka mafoko a a bonolo.</li><li>Re bolela nnete ka bopaki: re dirisa “go golaganngwa le”, “go ka nna” le “bopaki bo a farologana” fa seo e le nnete.</li><li>Re hlompha: re kwala ka batho ba ba nnang le dementia e le batho ba bagolo, mme ga re dirise mafoko a go tlhoa kgotsa a go nyatsa.</li><li>Ga re tlhame sepe: ga go na dipalo tsa maaka, dikgang tsa maaka, batsamaisi ba maaka, dithuto tsa maaka, ditlhatlhobo kgotsa maikutlo a maaka a batho.</li></ul><h2>Ba tlhatlhobang matlhakore a rona</h2><p>Matlhakore a kwalwa, a tlhatlhobiwa ke setlhopha sa Golden Moments, ka thuso ya ditiro tsa AI tsa go batlisisa le go kwala. Matlhakore otlhe a tlhatlhobiwa ke setlhopha ka dikgang tsa one. Matlhakore a rona <strong>ga a ise</strong> a tlhatlhobiwe ke ngaka kgotsa mongwe yo o dirang mo tlhokomelong ya dikalafo, mme ga re ikanye gore go dirilwe jalo. Ke tshedimosetso ya kakanyo, ga se kgakololo ya dikalafo.</p><h2>Se re ke ra se gatisa</h2><ul><li>Dikakanyo tsa gore papadi, dijo, dithlatlhalatsi, go ikotla dijo kgotsa tshwanelo ya letsatsi le letsatsi e thibela, alafa, dikela kgotsa fedisa dementia.</li><li>Diteko, dipotso kgotsa dipalo tse di supang gore motho o na le dementia kgotsa ga a na le yone.</li><li>Kgakololo ya go simolola, go emisa kgotsa go fetola dikalafo dife kgotsa dife.</li><li>Dikwalo tsa kgwebo tse di apesitsweng jaaka dikgakololo.</li></ul><h2>Dikgaogano le dikagiso</h2><p>Tlhaeletso nngwe le nngwe e bontsha letsatsi la go tlhatlhobiwa ka lone ka nako e e fetileng. Fa o bona phoso kgotsa motswedi o o felang nako, romela lengwalo ko <a href=\"mailto:{email}\">{email}</a> mme re tla e tlhatlhoba ka bonako.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Dipotso le Dikarabo",
+      "seoTitle": "Dipapadi le Ditiro tsa Dementia: Dipotso le Dikarabo",
+      "description": "Dikarabo tsa dipotso tse di tlwaelegileng ka dipapadi le ditiro tsa dementia: dipapadi tse di leka, nako ya go bapala, dikakanyo tse di thusang fa botshelo jwa motho bo fetoga, botlhe jwa monagano le sephiri.",
+      "crumb": "Dipotso le dikarabo",
+      "lede": "Dikarabo tse dikhutshwane, tse di bonolo go tswa mo dipotsong tse balesedi ba di botsang gantsi.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ka dipapadi",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Ke dipapadi dife tse di siameng go motho yo o nnang le dementia?",
+              "a": "Dipapadi tse di siameng ke tse di tlwaelegileng, tse di bonolo, tse di sa tlhokeng patelelo, mme tse di siameng ke tse motho a di itumelelang gompieno. Go tlhopha ditshwantsho tse di bonalang, go beya, dipuzzle tse di bonolo, go tlatsa mafoko a a tlwaelegileng, go kgaoletsa dipitse le bingo ya ditshwantsho di dirisega sentle ke batho ba le bantsi. Tlogela dinako, dipalo le sepe se se bonalang jaaka teko."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "A dipapadi tse di fitlhelelwa ka mahala?",
+              "a": "Ee. Dipapadi tsotlhe le ditshwantsho tse di ka gatisiwang ke tsa mahala. Ga go tlhokege akhaonte, go ikwadisa, go tsenya kgotsa dikgwebo."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Ke eng fa go se na dikgwaokwa, maemo kgotsa dinako?",
+              "a": "Lebelo le dikgwaokwa di fetolela mosebetsi o o itumedisang go nna tlhatlhobo, mme seo se ka tlisa go tlhoname kgotsa go tshwenyega. Re tsepamisa maikutlo mo go itumelelang le go nna le nako mmogo. Ga go na sepe se se tlhokang go fetsa, mme o ka emisa ka nako efe kgotsa efe."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ke dikarolo dife tse di dirang sentle thata?",
+              "a": "Mogala ofe kgotsa ofe, thelefono e e nang le sebatlisi sa Inthanete sa segompieno, tabolete kgotsa komputara. Tabolete e e mo setlhoeng mo tafoleng gantsi ke tsela e e itumedisang go nna le batho ba babedi ba bapala ka tlhamalalo. Laptop e e kopantsweng le thelebishene e dira sentle mo dihuduwaneng."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "A re ka bapala ka difoto tsa rona tsa lelapa?",
+              "a": "Ee. Dipapadi tsa difoto di fetolela difoto tse 2 go ya go tse 6 tse o di tlhophang go nna papadi e e kopanyang. Difoto di nna mo sebatlising sa gago, ga di romelwe kgotsa go bolokwa."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Mesebetsi le tlhokomelo",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Mosebetsi o tshwanetse go tsaya nako e kae?",
+              "a": "Gantsi metsotso e le 10 go ya go e le 20 e a lekana, mme dinako tse dingwe metsotso e le 2 ke katlego. Lebelela matshwao a go lapa kgotsa go tlhoka mogopolo, mme o emise fa go ntse go utlwala sentle. Ga go na palo e e siameng."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Go tlhaga eng fa ba sa batle go dira mosebetsi?",
+              "a": "Amogela go gana ga bone, mme o leke gape ka nako e nngwe kgotsa ka tsela e nngwe. Go gana go ka tsiwa ke go lapa, bolwetsi, go se itse sentle, kgotsa go se kgathalale fela. Bala tataiso ya rona ka se o ka se dirang fa ba gana."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Ke mesebetsi efe e e siameng dikgatlhong tsa bofelo tsa dementia?",
+              "a": "Go itumelela le go utlwa: go reetsa melodi e ba e ratang, go tlhapisa diatla ka lotion, go lebelela difoto mmogo, go tshwara kobo e e bonolo, go nna kwa ntle, kgotsa papadi e e bonolo ya ditshwantsho fa motho a le mo gare. Tataiso ya rona ya dikgatlhong tsa bofelo e na le dikakanyo tse dintsi."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "A go na mesebetsi ya setlhopha mo ntlong ya tlhokomelo?",
+              "a": "Ee. Bingo ya ditshwantsho e na le dikarata tse di ka gatisiwang le motlhankedi wa mo skrineng, mme Tlatsa polelo le Dikarata tsa puisano di dira sentle fa di balelwa ka godimo. Tataiso ya rona ya dihuduwana tsa ntlo ya tlhokomelo e tlhalosa palo ya batho, go nna mo dihutsaneng le go dirisa mesebetsi go batho ba ba nang le dikgono tse di farologaneng."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Boitekanelo jwa kelo",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "A dipapadi di ka thibela kgotsa go diega dementia?",
+              "a": "Ga go papadi e e kileng ya bontshiwa e thibela dementia, mme dipapadi tsa rona ga di dire kgang e e jalo. Go tsosa kelo mo setlhopheng go bontshitse melemo e e nnye mo dinyakisisong tsa batho ba ba nang le dementia e e bonnye go bogolo, mme seo se farologana le papadi e e thibelang bolwetsi. Re fa dipapadi go itumelela le go nna mmogo."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "A go ka thibelwa dementia?",
+              "a": "Ga go kgonege go tlhomamisa. Dinyakisiso di kopanya dintlha tse 14 tsa boitekanelo le tsela ya botshelo le kotsi ya dementia, tse kang go senyega ga kutlo, kgatelelo ya madi, go se tsamaye ka mmele le go se kopane le batho. Go tlhokomela tseno go ka fokotsa kotsi ya batho bangwe, mme batho ba le bantsi ba ba dirang tsotlhe ka tsela e e siameng ba tswa ba simolola dementia. Ga e ope molato."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "A go itlhoka dijo ka dinako go molemo mo boitekanelong jwa kelo?",
+              "a": "Bosupi jwa batho bo sa ntse bo le kwa tshimologong mme bo lekanyeditswe, gape dinyakisiso di le dintsi di dirilwe mo diphofung. Go itlhoka dijo go ka nna kotsi go batho ba ba godileng, go tlhokomelwa thata fa ba nwa dithuo tsa sukiri kgotsa fa ba fokotsa boima jwa mmele ka go sa tlhoke. Ga e gakololelwe batho ba ba nang le dementia. Bua le ngaka pele o fetola tsela ya go ja."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Sephiri le polokego",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "A lo bokella tshedimosetso efe?",
+              "a": "Ga go na dikaonte kgotsa dikgwebo tsa ditshwantsho. Re dirisa Google Analytics go bala ditsenelo le go bona dikhutlo tse di thusang, mme sebatlisi sa gago se gakologelwa fa o tlhomile dikgwele tse di bonolo. Difoto tse o di tlhophang tsa Dipapadi tsa difoto ga di kgone go romelwa. Bala Tshedimosetso ya Sephiri go bona dintlha."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "A ke keletso ya boitekanelo?",
+              "a": "Aowa. Golden Moments e ya boikgatiso le tshedimosetso e e tlhamaletseng. Ka dipotso tsa boitekanelo, bua le ngaka, mme ka maemo a tshoganyetso bitsa 999."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Dintlha tse dintsi: <a href=\"/caregiving/how-to-play-together/\">go bapala mmogo</a>, <a href=\"/caregiving/when-they-say-no/\">fa ba gana</a>, <a href=\"/activities/late-stage/\">mesebetsi ya dikgatlhong tsa bofelo</a> le <a href=\"/brain-health/can-dementia-be-prevented/\">a dementia e ka thibelwa?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Dipapadi tse di bonolo, tsa mahala, tsa batho ba ba nang le dementia",
+      "seoTitle": "Lokwalo lo le ka gatisiwang: Dipapadi tsa mahala tsa dementia mo inthaneteng",
+      "description": "Lokwalo lo le le ka gatisiwang la leng le le tee la lelapa le ba ba tlhokomelang ka dipapadi tse di bonolo, tsa mahala tsa ditshwantsho tsa batho ba ba nang le dementia, go dikopano tsa thuso le dipakete tsa tlhokomelo.",
+      "crumb": "Lokwalo lo le ka gatisiwang",
+      "lede": "Gatisa tsebe eno go dikopano tsa thuso, pakete ya tlhokomelo kgotsa lebati la sejanaga. Dirisa taelo ya Gatisa ya sebatlisi sa gago; dikhutlo le dikonopo di tlogelwa mo go gatisitsweng.",
+      "introHtml": "<p>Ditshwantsho tse dikgolo, mafoko a a bonolo le ga go na sepe se se tlhokang go fetsa. Di mahala mo thelefoneng, taboleteng kgotsa komputareng, ga go na go ikwadisa, dikgwebo, dinako kgotsa dikgwaokwa. Dulang fa thoko ga wa mongwe le mongwe, le fetolane.</p>",
+      "gamesTitle": "Dipapadi go leka mmogo",
+      "restHtml": "<h2>Dikeletso tse dingwe</h2><ul><li>Tlhopa nako ya letsatsi fa motho a le sentle thata.</li><li>Simolola ka tsela e e bonolo thata. Dithaele tse nne di a lekana.</li><li>Bua ka ditshwantsho. Puisano gantsi ke karolo e e kgolo thata.</li><li>Emisa fa go ntse go utlwala sentle. Go emisa pele ke bokhutlo jo bo siameng.</li></ul><h2>Le mo sebakeng sa rona</h2><ul><li>Ditshwantsho tse di ka gatisiwang tsa mahala: lepapatsa la mafoko a a kgolo, ditshwantsho tsa go tlatsa mebala, dikarata tsa puisano le bingo ya ditshwantsho.</li><li>Dikakanyo tsa mesebetsi ya dikgatlhong tsotlhe, le dikaelo tsa go bapala mmogo le go itlhokomela.</li></ul><p class=\"muted\">Go itumelela le go nna le nako mmogo. Ga se keletso ya boitekanelo, tlhatlhobo kgotsa kalafi. Golden Moments e gatisitswe ke Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ka Ntlo ya Tlhokomelo, Dilaeborari le Dikopano tsa Thuso",
+      "seoTitle": "Dikaelo tsa dementia tse di sa lefelwe tsa ntlo ya tlhokomelo le dihlopha",
+      "description": "Ka fa dikgaolo tsa tlhokomelo, mananeo a letsatsi a batho ba bagolo, dilaebrari, dikgwebo tsa botsofe le dihlopha tsa thuso di dirisang dipapali tsa rona tse di sa lefelwe tsa dementia, le mafoko a go tsenya rona mo lenaneng la dibaka.",
+      "crumb": "Dikgwebo",
+      "lede": "Sotlhe se se mo webosaiteng se a dirisiwa ka boyona le batho ba ba dulang kwa ntlong, ba dihlopha le ba ba ba tlhokomelwang, ntle le akhaonto, laesense kgotsa tefo. Tsamaiso e e tlhalosa se se teng gone le ka fa o ka se abelanang ka teng.",
+      "shortText": "{name}: dipapali tse di sa lefelwe tse di boleta ka ditshwantsho le dikaelo tsa mananeo tsa batho ba nang le dementia le ba ba ba tlhokomelang. Ga go ikwadiwe, ga go na diure, ga go na dipoelo.",
+      "longText": "{name} ({domain}) e na le dipapali tse {count} tse di sa lefelwe tse di dirilweng batho ba nang le dementia, go akaretsa go nonofa ditshwantsho tse di bonalang, boitlhamelo bo bonolo, go tlhopha, mafoko a a tlwaelegileng le picture bingo e e nang le dikaate tse di ka gatisiwang. Ga go na akhaonto, kwadiso, diure kgotsa poelo. Webosaiti e na le dikaelo tsa mafoko a a bonolo ka dikgato tsa dementia, tse di tsweletseng go tswa mo National Institute on Aging le Alzheimer's Association.",
+      "useTitle": "Se dikgwebo di ka se dirisang",
+      "gamesItemHtml": "<strong>dipapali tse {count} tsa browser</strong> tse di dirang mo laptop, thebolete kgotsa TV e e golaganeditsweng le komputara. Ga go tsenngwa, ga go akhaonto, ga go kgoeletsiwe. Bona <a href=\"/games/\">dipapali tsotlhe</a>.",
+      "printablesLabel": "dikgatiso tse {count}:",
+      "printablesAfter": "Dirisa konopo ya Gatisa mo tsebeng nngwe le nngwe.",
+      "moreItemsHtml": "<li><strong>Dibopego tsa dihlopha:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> e na le dikaate tse di ka gatisiwang le mmoki wa mo screen, mme <a href=\"/activities/trivia/\">dipotso tsa kitso tse di bonolo</a> di na le dipotso tse 50 tse di nang le dikarabo tsa go tlhopha le dintlha tsa puisano.</li><li><strong>Dikaelo tsa mananeo</strong> tsa ba ba tlhokomelang le malapa, ka dikgato le ka mofuta wa tiro, di kwadilwe ka mafoko a bonolo le dithomo tsa tsone. Simolola ka <a href=\"/activities/ideas/\">dikakanyo tsa mananeo tse 101</a> kgotsa <a href=\"/activities/care-home-groups/\">mananeo a dihlopha a dintlo tsa tlhokomelo</a>.</li>",
+      "restHtml": "<h2>Dihlopha di di dirisa jang</h2><ul><li><strong>Dintlo tsa tlhokomelo le tlhokomelo ya dementia:</strong> picture bingo kgotsa go feletsa mafoko mo TV ya phaphatlhana, le motho mongwe a tobetsa ka bothoko jwa bone.</li><li><strong>Mananeo a letsatsi a batho ba bagolo:</strong> seteishene ya thebolete e na le Picture pairs e e beilweng go nna ditlhaka tse nne, bakeng sa dipuisano tse dikhutshwane tsa mongwe le mongwe.</li><li><strong>Dilaebrari tsa setšhaba:</strong> di-word search tse di gatisitsweng le dikaate tsa puisano mo dikitong tsa gopolo, le webosaiti e kaelwa mo dithebolete tsa laebrari.</li><li><strong>Dihlopha tsa thuso ba ba tlhokomelang le dikopano tsa gopolo:</strong> <a href=\"/handout/\">pampiri e le nngwe e e ka gatisiwang</a> ya malapa go isa gae.</li><li><strong>Dipetlele le ba ba rulaganyang go tswa mo petleleng:</strong> pampiri mo dikitong tsa ba ba tlhokomelang, go thusa ka sepe se se bolokang kagiso fa gae kgotsa mo thoko ga bolwetse jwa motho.</li></ul><h2>Se re sa se dirang</h2><p>Dipapali di tsa boitumelo le go nna le nako mmogo. Ga di bone, ga di tlhatlhobe, ga di lekanye, ga di alafe kgotsa ga di dire gore dementia e dikadiege, mme re kopa dikgwebo gore di se ke tsa di tlhalosa ka tsela eo. Ga go na dikwadiso, mme dipapali ga di kope maina, tshedimosetso ya bophelo kgotsa go tsenya ditshwantsho. Webosaiti e dirisa Google Analytics go bala ditseno; <a href=\"/privacy/\">tsebeletso ya poifo ya rona</a> e tlhalosa se se kokoanyediwang ka yone. Ditshwantsho tse di dirisiwang mo <a href=\"/games/photo-pairs/\">Photo pairs</a> di nna mo browser.</p><h2>Re tsenye mo lenaneng la gago la dibaka</h2><p>Fa o na le lenaneng la dibaka tsa ba ba tlhokomelang, o amogelesegile go golagana le <a href=\"/\">{domain}</a>. O ka kopolola tlhalosetso nngwe kgotsa e nngwe.</p>",
+      "shortTitle": "Tlhalosetso e khutshwane",
+      "longTitle": "Tlhalosetso e telele",
+      "linksHtml": "<p>Diphasa tse di mo tlhaloganyong tse o ka di golaganyang thata: <a href=\"/games/\">dipapali tse di sa lefelwe</a>, <a href=\"/activities/printable/\">dikgatiso tse di sa lefelwe</a>, <a href=\"/activities/alzheimers/\">mananeo a Alzheimer's</a> le <a href=\"/caregiving/how-to-play-together/\">ka fa o ka bapalang ka teng mmogo</a>.</p><h2>Dipotso kgotsa dikaelo</h2><p>Fa go na sepe mo webosaiteng se se phoso kgotsa se se sa tlhaloganyesegeng, kgotsa tlhokego ya mogolo mongwe e sa fitlhelelwe ke se se mo go one, lo tswee-tswee re itse ka <a href=\"mailto:{email}\">{email}</a>. Lo kopiwa gore lo se ka lo romela tshedimosetso ya botho kgotsa ya bophelo ya batho ba ba tlhokomelwang.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Lenaneo la Golden Moments",
+      "seoTitle": "Lenaneo la Golden Moments la iPhone le Android",
+      "description": "Lenaneo le le sa lefelwe la Golden Moments: go nonofa ditshwantsho ka bonolo ka ditlhaka tse nne tse dikgolo, ditshwantsho tsa lelapa di bolokilwe mo sedirisong sa gago, dipakete tsa ditshwantsho tse di dirisiwang ntle le inthanete le ntle le akhaonto.",
+      "crumb": "Lenaneo",
+      "lede": "Sotlhe se o se ratang mo webosaiteng, mo lenaneng le le dirang ntle le inthanete le le ka dirisang ditshwantsho tsa lelapa tse o di tlhophileng.",
+      "worksOn": "E dira mo {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Simolola ka bonnye</h2><p>Simolola ka dipopego tse nne tse dikgolo le difoto tse o di itseng. Difoto di ka nna di bonala, kgotsa di ka fitlhelwa fa seo se lo siela. Mokgwa o o bonolo ga o na nako, palo kgotsa kotlo. Tlhopha dipopego tse 4, 6, 8 kgotsa 12.</p><h2>Dira gore e nne ya gago</h2><p>Tlhopha difoto tsa malapa o dirisa thulaganyo ya difoto ya sedirisa sa gago. App e boloka dikopi tse dinnye tsa difoto dipapadi tsa yone. Ga e tlhaelele difoto tsa gago kgotsa e di fetole, mme e boloka go fitlha difoto di le 24 mo kopanong e le nngwe.</p><h2>Lebang mmogo fela</h2><p>Lebelelang setshwantsho se le sengwe ka nako. Ditlhagiso tse o di tlhophang di thusa go bua mmogo, mme ga go kopiwe motho gore a gakologelwe maina kgotsa a fe karabo e e nepagetseng. Go lebelela fela go lekane.</p><h2>Go dirisa ntle le inthanete fa go tlhokega</h2><p>Difoto tsa tshimologo le dipolokelo tsa difoto tse robedi di akaretswa mo app. Dikopi tsa difoto tse o di tlisitseng di dirisiwa ntle le inthanete. Go tlhopha difoto tse di bolokilweng mo iCloud fela go ka tlhoka inthanete.</p><h2>Ga go tlhokege akhaonto, ga go na seraboa sa go kopanya difoto</h2><p>Dikopi tsa difoto tsa malapa di nna mo app mo sedirisong. O ka tlosa dikopi ntle le go phimola difoto tsa gago tsa mathomo. Dipoloko tsa sedirisa di ka akaretsa tshedimosetso ya app. Bala <a href=\"/app-privacy/\">tshireletso ya tshedimosetso ya app</a>, mme <a href=\"/help/\">thuso ya app</a> e tsamaisa go nna mo go nngwe le nngwe.</p>",
+      "disclaimer": "Golden Moments e tlhomilwe go ikhutsa le go bua mmogo. Ga e tlhatlhobe, e alafe, e thibele kgotsa e lekanye dementia kgotsa bolwetsi jwa Alzheimer’s.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Dipapadi tsa mahala tsa Dementia le Alzheimer’s mo inthaneteng",
+    "description": "Dipapadi tsa mahala mo inthaneteng tsa baagolo ba nang le dementia kgotsa Alzheimer’s: go tsenya difoto mmogo, dipuzzle tse di bonolo, go tlhopha dilo, dikgang, go tlaola ka mebala, bingo. Ga go tlhokege go ikwadisa, nako kgotsa dipontsho.",
+    "crumb": "Dipapadi",
+    "h1": "Dipapadi tse di Bonolo tsa Batho ba nang le Dementia",
+    "lede": "Dipapadi tse {count} tsa mahala tse lo ka di bapalang mmogo mo browser. Difoto tse dikgolo, mafoko a a bonolo, mme ga go na sepe se se palelwang: ga go na nako, dipontsho kgotsa go ikwadisa.",
+    "listName": "Dipapadi tse di bonolo tsa batho ba nang le dementia",
+    "byStageTitle": "Go tlhopha papadi ka mokgatlho wa bolwetsi",
+    "byStageLede": "Dikgatlho ke tataiso e e kwalo fela. Latela se motho a se ratang le se se siameng gompieno.",
+    "stageCol": "Kgatlho",
+    "gamesCol": "Dipapadi tse gantsi di siametseng",
+    "moreHtml": "Dikakanyo tse dingwe kwantle ga sekrini: <a href=\"/activities/ideas/\">mekgwa e le 101 ya batho ba nang le dementia</a>, <a href=\"/activities/alzheimers/\">mekgwa le dipapadi tsa Alzheimer’s</a>, <a href=\"/activities/memory-games/\">dipapadi tse di bonolo tsa gakologelo</a> le <a href=\"/activities/puzzles/\">dipuzzle</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Re tshwanetse go simolola ka papadi efe?",
+        "a": "Dipaere tsa difoto tse nne ke tshimologo e e bonolo. Fa go tlhopha pakaretso ya difoto go tlhoka thata, leka Bona se se tshwanang ka difoto tse pedi. Mo sekgoeng, leka bingo ya difoto."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "A dipapadi di dirisiwa mo iPad kgotsa mo fone?",
+        "a": "Ee. Papadi nngwe le nngwe e dirisiwa mo browser mo mafoneng, ditableteng le dikhomputareng, mme difoto di oketsega go tlatsa sekrini. Tablete e e emisitsweng ka go lebega e a siama thata go batho ba babedi."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "A dipapadi di siamela motho yo o nang le Alzheimer’s?",
+        "a": "Ee. Di dirilwe batho ba nang le dementia, go akaretsa Alzheimer’s, e leng yone e e tlwaelegileng thata. Difoto di nna di bonala, go na le dikgetho di se kae fela, mme ga go na nako kgotsa dipontsho, ka jalo dipapadi di tshwaetse go lemoga dilo tse di tlwaelegileng go na le go gakologelwa tse disha."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "A ke dipapadi tsa gakologelo tsa baagolo?",
+        "a": "Ke dipapadi tsa go tshwana le tsa difoto tseo baagolo ba ka di takang, mme di agilwe go se leke gakologelo: mo Dipaere tsa difoto difoto di nna di bonala fa o sa tlhophe ka mokgwa o mongwe. Tataiso ya rona ya dipapadi tsa gakologelo ya baagolo ba nang le dementia e tlhalosa gore papadi nngwe le nngwe ya gakologelo e ka dirwa jang ka bonolo."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "A go na le dipapadi tsa dihlopha mo ntlong ya tlhokomelo?",
+        "a": "Ee. Bingo ya difoto e na le dikarata tse di ka gatisiwang le motho yo o bitsang mo sekrining, mme Tlatsa polelo le Dikarata tsa puisano di siama thata fa di balelwa ka lentswe le le phagameng go sehlopha."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad le Android",
+    "requirements": "iOS 15 kgotsa go feta; Android 7.0 kgotsa go feta",
+    "summary": "App ya mahala ya iPhone, iPad le Android e nang le papadi e e bonolo ya go tsenya difoto mo dipopegong tse 4 go ya go tse 12 tse dikgolo, go tsenya le go lebelela ka difoto tsa malapa tse o di tlhophang, le dipolokelo tse robedi tsa difoto tse di dirang ntle le inthanete. Ga go tlhokege akhaonto, dipapatso, nako kgotsa dipontsho.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Papadi e e bonolo ya go tsenya difoto ka dipopego tse 4, 6, 8 kgotsa 12 tse dikgolo; difoto di nna di bonala fa o sa tlhophe go di fitlhela",
+      "Difoto tsa malapa tse o di tlhophang di kopiwa mo app go tsenya le go lebelela",
+      "Lebang mmogo: setshwantsho se le sengwe ka nako le ditlhagiso tse o di tlhophang tsa puisano",
+      "Dipolokelo tse robedi tsa difoto di akaretswa mo app; di dirisiwa ntle le inthanete",
+      "Ga go na akhaonto, dipapatso, dithengo mo app, nako, dipontsho kgotsa kotlo"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "A go na app ya dibapadi tsa dementia?",
+        "a": "Ee. Golden Moments (e e tlhalositsweng e le “{storeName}”) ke ya mahala mo App Store le Google Play. E na le papadi e e bonolo ya go tsenya difoto ka dipopego tse dikgolo, dipapadi tse di nang le difoto tsa malapa tse o di tlhophang, le dipolokelo tsa difoto tse di dirang ntle le inthanete."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "A app ya Golden Moments ke ya mahala?",
+        "a": "Ee. E ka tlhatlhobiwa ka mahala, mme ga go na dipapatso, akhaonto kgotsa dithengo mo app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "A app e dirisiwa ntle le inthanete?",
+        "a": "Ee. Difoto tsa tshimologo le dipolokelo tse robedi tsa difoto di akaretswa mo app, mme difoto tsa malapa di dirisiwa ntle le inthanete fa di kopiwa mo app. Go tlhopha setshwantsho se se bolokilweng mo iCloud fela go ka tlhoka kgokagano."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "A ke ka dirisa difoto tsa rona tsa malapa?",
+        "a": "Ee. Tlhopha difoto o dirisa setlhopha sa difoto sa sediriswa sa gago. Lenaneo le boloka dikopi tse dinnye mo sedirisong ka dipapali tsa lone, ga le di romele kwa godimo mme ga le fetole difoto tsa tshimologo. O ka tlosa dikopi nako nngwe le nngwe."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "A ke lenaneo la go tlhatlhoba kgopolo kgotsa la tlhatlhobo ya go gopola?",
+        "a": "Nnyaa. Golden Moments ke ya go itumela le go nna le nako mmogo. Ga e na dipalo kgotsa diteko, mme ga e tlhatlhobe, e alafe, e thibele kgotsa e ele bolwetsi jwa dementia kgotsa jwa Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "E dirisiwa mo ditlhobeng dife?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "A go na le mofuta wa lenaneo la papali eno?",
+      "a": "Ee. Lenaneo la mahala la Golden Moments la iPhone, iPad le Android le na le papali e e tshwanang ya go tlhopha difoto ka bonolo, le ka dirisa difoto tsa lelapa tse o di tlhophileng, mme le dirisiwa ntle le inthanete. Ga go na akhaonto, dikgwebo kgotsa dipalo."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "A go na le mofuta wa lenaneo la papali eno?",
+      "a": "Ga go na mofuta wa papali eno. Lenaneo la mahala la Golden Moments la iPhone, iPad le Android le na le go tlhopha difoto ka bonolo, ka dithaelo tse dikgolo le difoto tsa lelapa tse o di tlhophileng, mme le dirisiwa ntle le inthanete. Papali eno e tlaa nna mahala fano mo browseng ya gago."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: difoto tse dikgolo, tse di itumedisang",
+    "noscript": "Papali eno e tlhoka gore JavaScript e bulelwe mo browseng ya gago. Dikeletso tse di fa tlase di dirisa ntle le yone.",
+    "about": "Ka {name}",
+    "aboutAria": "Ka papali eno",
+    "noTimer": "Ga go na nako kgotsa dipalo",
+    "printable": "Go ka tlhatlosiwa",
+    "howTo": "Tsela ya go bapala {name}",
+    "tips": "Dikeletso tsa go bapala mmogo",
+    "newToPlayingHtml": "A o sa tsene go bapala le motho yo o nang le dementia? Bala <a href=\"/caregiving/how-to-play-together/\">tsela ya go bapala dipapali mmogo</a>, go akaretsa se o ka se dirang fa a sa sa kgatlhegele papali.",
+    "moreAria": "Go bona tse dingwe",
+    "helpfulGuides": "Ditaelo tse di thusang",
+    "appTitle": "Bapala mo lenaneong",
+    "appText": "Lenaneo la mahala la Golden Moments le na le go tlhopha difoto ka bonolo, ka dithaelo tse dikgolo le difoto tsa lelapa la gago, mme le dirisiwa ntle le Wi‑Fi. iPhone, iPad le Android.",
+    "photoAppTitle": "Dira gore difoto tsa gago di nne gone",
+    "photoAppText": "Mo lenaneong la mahala la Golden Moments, difoto tse o di tlhophileng di nna mo sedirisong sa gago gore di nne teng nako e e tlang, mme dipapali di dirisiwa ntle le Wi‑Fi. iPhone, iPad le Android.",
+    "goodToKnow": "Se se botoka go se itse",
+    "goodToKnowText": "Papali eno ke ya go itumela le go nna le nako mmogo. Ga e tlhatlhobe, e lekanye kgotsa e alafe sepe.",
+    "moreGames": "Dipapali tse dingwe tse di bonolo",
+    "crumb": "Dipapali"
   }
 }

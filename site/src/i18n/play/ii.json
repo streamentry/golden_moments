@@ -1,0 +1,666 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "ꒌꐚ",
+      "stopReading": "ꒌꄐ",
+      "region": "ꏦꑳ",
+      "restart": "ꏢꄸꑟ",
+      "soundOn": "ꉘꏦꊿꂷ ꑋ",
+      "soundOff": "ꉘꏦꊿꂷ ꄐ",
+      "done": "ꃅꄿꄐ",
+      "feedbackQuestion": "ꀎꑋꌠꃅꇬꄹꐯꑌ?",
+      "feedbackYes": "ꉢꑌ",
+      "feedbackNo": "ꀋꄹꑌ",
+      "feedbackThanks": "ꉠꑴꇬꑟꈬꄻꄹꑟꄜ."
+    },
+    "tile": {
+      "named": "{name}, ꈾ {n}",
+      "hidden": "ꄷꇬꒉꄹ ꂷꏂ, ꈾ {n}",
+      "withState": "{label}, {state}",
+      "matched": "ꄸꑌ",
+      "selected": "ꏢꐛꑌ",
+      "picture": "ꂷꏂ",
+      "photoNumber": "ꂷꏂ {n}"
+    },
+    "pairs": {
+      "allTogether": "ꅑꂷꂿꄸꄹ ꐛꑌ. ꏢꄸꑟ ꏦ ꒉꑌ, ꉘꄶ ꃅꄿ ꒉꑌ.",
+      "photoPair": "ꂷꏂ ꋍꑍ ꂿꄸ ꐛꑌ.",
+      "picturePair": "{name|lower} ꂷꏂ ꑍꂷ ꂿꄸ ꐛꑌ.",
+      "selected": "{name}. ꂿꄸ ꋍꂷ ꏢꑌ.",
+      "mismatch": "ꅐꅐꉘ ꏦ. ꂷꏂ ꋍꂷ ꐛꌠꇬ ꏦꑟ.",
+      "mismatchNamed": "{a} ꐰ {b}. ꅐꅐꉘ ꏦ. ꂷꏂ ꋍꂷ ꐛꌠꇬ ꏦꑟ."
+    },
+    "picturePairs": {
+      "guidanceShowing": "ꂷꏂ ꋍꂷ ꐛ, ꂿꄸꄹ ꋍꂷ ꒈꐛ.",
+      "guidanceHidden": "ꈾ ꑍꂷ ꐛꌠ ꇶꑌ. ꋍꈎ ꄸꄹ ꑍꂷ ꏢꑌ.",
+      "restart": "ꂷꏂ ꌠꒉ",
+      "sizeLegend": "ꈾ ꂯ꒐",
+      "size": {
+        "other": "ꈾ {n} ꂷ"
+      },
+      "viewLegend": "ꏦꒉ ꌠꏦ",
+      "viewShowing": "ꂷꏂ ꐛꐚꄹ",
+      "viewHidden": "ꂷꏂ ꄷꇬꒉꄹ",
+      "playAgain": "ꂷꏂ ꌠꒉ ꏢꄸꑟ ꏦ",
+      "talk": "ꂷꏂ ꇬꑟ ꋍꌠ ꒌꐚ"
+    },
+    "choose": {
+      "countLegend": "ꂷꏂ ꂯ꒐",
+      "count": "{n} ꂷ ꏢꅉ",
+      "thatOne": "ꋍꂷ {name|lower} ꑌ. ꅐꅐꉘ ꏦ."
+    },
+    "findTheSame": {
+      "guidance": "ꀉꄸꅉ ꂷꏂ ꈬ. ꀉꒉꅉ ꋍꈎ ꄸꄹ ꋍꂷ ꐛ.",
+      "yes": "ꉢꑌ, ꋍꈎ ꄸꄹ {name|lower} ꑌ.",
+      "next": "ꂷꏂ ꌠꒉ ꋍꂷ"
+    },
+    "shadowMatch": {
+      "guidance": "ꀉꄸꅉ ꌩꏦ ꈬ. ꌩꏦ ꄹꐯꄹ ꂷꏂ ꋍꂷ ꐛ.",
+      "yes": "ꉢꑌ, {name|lower} ꋍꂷ ꌩꏦ ꄹꐯꑌ.",
+      "next": "ꌩꏦ ꌠꒉ ꋍꂷ",
+      "shadowAlt": "ꂿꄸꄹ ꌩꏦ",
+      "foundAlt": "{name|lower} ꌩꏦ"
+    },
+    "sortTogether": {
+      "guidance": "ꂷꏂ ꋍꂷ ꐛ, ꅑꋍꈎ ꂌꒉ ꇬꑌ.",
+      "restart": "ꂷꏂ ꌠꒉ",
+      "themeLegend": "ꂴ꒿",
+      "selected": "{name}. ꅑꋍꈎ ꂌꒉ ꇬ ꐛ.",
+      "pickFirst": "ꀉꄸ ꂷꏂ ꐛ, ꀉꑌ ꂌꒉ ꐛ.",
+      "hint": "{name|lower} ꋍꂷ \"{basket}\" ꂌꒉ ꇬꑟ ꑋ. ꂌꒉ ꋍꂷ ꐛꌠ ꇬꑟ.",
+      "placed": "{name|lower} ꋍꂷ \"{basket}\" ꂌꒉ ꇬ ꑋꑌ.",
+      "sorted": "ꅑꂷꂿ ꇬꑟꄐ. ꂌꒉ ꇬꑟ ꋍꌠ ꈬ ꒉꑌ, ꂴ꒿ ꌠꒉ ꏢ ꒉꑌ.",
+      "basket": {
+        "other": "\"{basket}\" ꂌꒉ, ꇬꑟ ꂷꏂ {count} ꂷ ꑋ"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "ꋍꈾ ꐛ, ꌠꒉ ꋍꈾ ꐛ. ꑍꈾ ꑲꐛ ꑌ.",
+      "restart": "ꏢꄸꑟ ꇶꑌ",
+      "pictureLegend": "ꂷꏂ",
+      "pictures": {
+        "sailboat": "ꏎꃄ",
+        "house": "꒞",
+        "balloon": "꒜ꑘ",
+        "sunflower": "ꑍꎵꎭ",
+        "lighthouse": "ꁍꂴꄿ",
+        "cat": "ꀉꂷ"
+      },
+      "sizeLegend": "ꈾꂷ",
+      "size": {
+        "other": "{n} ꈾ"
+      },
+      "pickedUp": "ꈾ ꏢꐛꑌ. ꅉꒉ ꇬ ꐛ.",
+      "whole": "{name|lower} ꋍꈎ ꄸꑌ. ꌠꒉ ꂷꏂ ꏢ ꒉꑌ.",
+      "swapped": {
+        "other": "ꑲꐛꑌ. {total} ꈾ ꇬ {correct} ꈾ ꅉꒉ ꑋꑌ."
+      },
+      "guideAlt": "ꂷꏂ ꅑꂿ: {name}",
+      "guideText": "ꂷꏂ ꅑꂿ ꄸꄹ ꋍꈎ ꈬ.",
+      "piece": "{place} ꈾ",
+      "pieceInPlace": ", ꅉꒉ ꑋ",
+      "piecePickedUp": ", ꏢꐛꑌ",
+      "places4": [
+        "ꀉꄸ ꀉꂰ",
+        "ꀉꄸ ꀉꃅ",
+        "ꀉꒉ ꀉꂰ",
+        "ꀉꒉ ꀉꃅ"
+      ],
+      "places9": [
+        "ꀉꄸ ꀉꂰ",
+        "ꀉꄸ ꐚꈌ",
+        "ꀉꄸ ꀉꃅ",
+        "ꐚꈌ ꀉꂰ",
+        "ꐚꈌ",
+        "ꐚꈌ ꀉꃅ",
+        "ꀉꒉ ꀉꂰ",
+        "ꀉꒉ ꐚꈌ",
+        "ꀉꒉ ꀉꃅ"
+      ],
+      "done": "ꂷꏂ ꅑꂿ ꄸꑌ. ꏢꄸꑟ ꏦ ꒉꑌ, ꉘꄶ ꃅꄿ ꒉꑌ.",
+      "playAgain": "ꏢꄸꑟ ꇶꑌ"
+    },
+    "finishTheSaying": {
+      "guidance": "ꋍꌠ ꒌꐚ, ꀉꑌ ꂿꄸꄹ ꒿ꂷ ꋍꂷ ꐛ.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "ꉢꑌ, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" ꐚꅉꄚꄹ。꒿ꈬꌠꂿꂷ \"{end}\" ꑌꁳꄮꊪꃅꄹ。",
+      "revealed": "꒿ꈬꌠ \"{start} {end}\" ꑌꑟꄹ。",
+      "choicesLabel": "ꁳꄮꊪ꒿ꋒꂻ",
+      "show": "ꁳꄮꊪ꒿ꈬꑟ",
+      "talk": "꒿ꃅꒈꐚ: ",
+      "next": "꒿ꈬꌠꄮꊪꅪ"
+    },
+    "wordSearch": {
+      "guidance": "꒿ꋍꑌꊪꑋꆤꑴꌕ。꒿ꄮꂷꌠꁱꂷꑌꄲꐚꄉꑘꄚ，ꄮꊪꄲꐚꄉꑘꄚꊿ。",
+      "restart": "ꏢꄮꊪꅪꄤ",
+      "themeLegend": "ꋍꑌꂓ",
+      "sizeLegend": "ꑍꄮꂷꂷ",
+      "size": {
+        "other": "{n} × {n} (꒿ {words} ꂷ)"
+      },
+      "print": "ꏢꋍꂷꄮꊭ",
+      "letterChosen": "ꁱꂷ {letter} ꋒꁧꄹ。꒿ꌠꁳꄮꊪꁱꂷꐚꄉꑘꄚꊿ。",
+      "found": "{word} ꐛꁧꄹ。",
+      "foundAll": "{word} ꐛꁧꄹ。꒿ꎭꐛꁧꄹ。ꄮꊪꅪꄤꄚꒌꈬꇫꆈꄹ。",
+      "tryAgain": "ꎺꎺꄚꐚꄮꂾ。꒿ꄮꂷꌠꁱꂷꑌꄲꐚꄉꑘꄚ，ꄮꊪꄲꐚꄉꑘꄚꊿ。",
+      "gridLabel": "ꁱꂷꑍꄮ，{n} ꑋ {n} ꁱꂷ。ꑴꌒꑘꆏꁱꂷꈬꆏꄮꌒꑴꄹ。",
+      "cell": "{letter}，ꑋ {row}，ꆤ {col}",
+      "cellFound": "，ꐛꁧ꒿ꌠꄮꊪ",
+      "wordsHeading": "ꐛꄹ꒿ꌠ",
+      "wordFound": " (ꐛꁧꄹ)",
+      "sheetTitle": "꒿ꐛ: {theme}",
+      "sheetNote": "꒿ꋍꑌꊪꑋꆤꑴꌕ。",
+      "unavailable": "ꁱꂷꑍꄮꋍꂷꆈꌠ꒿ꋋꈬꄹꂴꌕ，ꏢꐛꋍꂷꋋꈬꆍꄹ。ꈾꈳꄤꌠꐚꄮꂾ。"
+    },
+    "coloring": {
+      "guidance": "ꎭꄮꋒꐚꄉꑘꄚ，ꈾꈳꄮꊪꐚꄉꑘꄚꊿ。",
+      "restart": "ꎭꄮꎥ",
+      "cleared": "ꈾꈳꎔꏃꁧꄹ。",
+      "pageLegend": "ꈾꈳ",
+      "print": "ꈾꈳꋍꂷꄮꊭ",
+      "colorsLabel": "ꎔꎭ",
+      "paintChosen": "{paint} ꋒꁧꄹ。",
+      "painted": "{part} ꋍꈬ {paint|lower} ꎭꁧꄹ。",
+      "artLabel": "{page}，ꎭꈬ {count} ꊪ",
+      "partPainted": "{part}，{paint|lower}",
+      "partBlank": "{part}，ꎭꆍꎔ",
+      "paints": {
+        "red": "ꆓꆓ",
+        "orange": "ꏝꎭ",
+        "yellow": "ꇖꇖ",
+        "green": "ꃄꃄ",
+        "blue": "ꇐꇐ",
+        "purple": "ꋒꎭ",
+        "pink": "ꆓꑳ",
+        "brown": "ꌺꎭ",
+        "sky-blue": "ꃅꄮꇐ",
+        "cream": "ꑘꎭ",
+        "gray": "ꊮꎭ",
+        "white": "ꏃꏃ"
+      }
+    },
+    "conversationCards": {
+      "guidance": "ꇖꄔꈬꌠ꒿꒠ꄮꊭ。ꄚꌴꃅꄯꒉꆍꄹ。",
+      "position": "ꇖꄔ {n} / {total}",
+      "themeLegend": "ꋍꑌꂓ",
+      "next": "ꇖꄔꄮꊪꅪ",
+      "previous": "ꇖꄔꄮꂷꁰ",
+      "print": "ꇖꄔꎭꄮꊭ",
+      "sheetTitle": "꒿ꃅꒈꇖꄔ"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "ꈾꈳꋒꂻꄉꐚꄮꂾ。",
+      "guidance": "ꈾꈳꄮꂷꐚꄉꑘꄚ，ꑌꈬꅉꌠꐚꄉꑘꄚꊿ。",
+      "restart": "ꄮꊪꅪꒉꎥ",
+      "intro": "ꋋꈬꆏ **ꈾꈳ 2 ꂷ ꅐ 6 ꂷ ꋒꂻ**。ꈾꈳꋋꈬꆏꈾꈳꋍꂷꈬꄮꑟꄹ，ꆍꊭꑋꆍꎥꄹ。",
+      "choose": "ꈾꈳꋒꂻ",
+      "chooseDifferent": "ꈾꈳꄮꊪꅪꋒꂻ",
+      "clear": "ꈾꈳꄮꎥ",
+      "cleared": "ꈾꈳꎔꎥꁧꄹ。",
+      "atLeastTwo": "ꈾꈳ 2 ꂷ ꆔꋒꂻꄚꊿ。",
+      "usingFirst": "ꑌꄲꐚ {max} ꂷ ꈾꈳ ꄤꄹ。",
+      "skipped": {
+        "other": "{count} ꂷ ꈾꈳ ꆍꑟꄹ。"
+      },
+      "playAgain": "ꈾꈳꋋꈬꐚꄮꊪꅪꄤ",
+      "empty": "ꈾꈳꋋꈬꑟꄹ，ꄮꂷꐚꑍꂷꄮꑟꄹ。"
+    },
+    "pictureBingo": {
+      "guidance": "ꇖꄔꄮꊭꄲꐚ。ꑌꈬꋍꈬꋋꌠꈾꈳꂷꂷꈬꑟꄚꊿ。",
+      "called": {
+        "other": "{name}。ꈾꈳ {total} ꂷ ꈬ {called} ꂷ ꑟꁧꄹ。"
+      },
+      "start": "\"ꈾꈳꄮꊪꅪ\" ꐚꄉꑘꄚꊿ。",
+      "restart": "ꄤꄮꊪꅪꄤ",
+      "squaresLegend": "ꇖꄔꈬꑍꄮ",
+      "squares": "{n} ꑍꄮ ({side} × {side})",
+      "cardsLegend": "ꇖꄔꄮꊭꂷ",
+      "cards": {
+        "other": "{n} ꇖꄔ"
+      },
+      "print": {
+        "other": "ꇖꄔ {n} ꂷ ꄮꊭ"
+      },
+      "ready": "ꑘꅉꁧꄹ",
+      "next": "ꈾꈳꄮꊪꅪ",
+      "allCalled": "ꈾꈳꎭꑟꁧꄹ",
+      "alreadyCalled": "ꑟꁧꄹ",
+      "sheetTitle": "ꈾꈳꇖꄔ · ꇖꄔ {n}"
+    },
+    "calmBreathing": {
+      "guidance": "ꒈꌊꑲꀉꉬꉌꋏꃅꄹꄹꀑꅐꁏꒈꌊꌐꀉꉬꉌꅐꃅꄹꄹꀑꅐꁏꄻ ꉌꋏꅐꈬꑍꇁꃅꑍꄻꇬꄸꁧꃅꊈꄻ",
+      "paceLegend": "ꉌꋏꅐꈀꄸ",
+      "paceSlow": "ꃅꂿ (ꑍꇬꁧꂵ 5 ꂮ)",
+      "paceGentle": "ꃅꄹꄹ (ꑍꇬꁧꂵ 4 ꂮ)",
+      "ready": "ꋍꑍꌋꈬꄹꄹꄻ",
+      "in": "ꉌꋏ",
+      "hold": "ꃅꈬ",
+      "out": "ꉌꅐ",
+      "start": "ꄸꄹ",
+      "stop": "ꊈ",
+      "started": "ꄸꄹꄻꄻ ꒈꌊꑲꀉꉬꉌꋏꄻ",
+      "stopped": "ꊈꄻꄻ",
+      "finished": "ꉌꋏꅐꈬꑍꇁꃅꑍꄻꄻ ꋍꑍꉌꀋꄹꄸꄹꄻ"
+    }
+  },
+  "pictures": {
+    "teacup": "ꌎꈤ",
+    "kettle": "ꌎꃚ",
+    "bread": "ꃪꃪ",
+    "frying-pan": "ꁒꈿ",
+    "cake": "ꏦꑍꃪꃪ",
+    "sunflower": "ꑍꆏꃅꉙ",
+    "tulip": "ꃅꏦꆜꒉ",
+    "watering-can": "ꒌꐘꃚ",
+    "potted-plant": "ꐘꌠꏦ",
+    "tree": "ꑌꂷ",
+    "bird": "ꆈꏢ",
+    "butterfly": "ꂵꐚ",
+    "dog": "ꈌ",
+    "cat": "ꀬꂿ",
+    "fish": "ꍮꑊ",
+    "apple": "ꀶꇤ",
+    "pear": "ꌌꂷ",
+    "strawberry": "ꐂꂷ",
+    "banana": "ꏢꏤ",
+    "lemon": "ꆏꃶ",
+    "cherries": "ꑵꄩꂷ",
+    "house": "ꑡꈳ",
+    "lamp": "ꄤꄩꄶ",
+    "armchair": "ꐚꏦ",
+    "key": "ꇩꌐꌦꂥ",
+    "umbrella": "ꒌꈵ",
+    "sailboat": "ꇱꈞꑌꈯ",
+    "car": "ꐙꌠ",
+    "bicycle": "ꈞꑵꐙ",
+    "balloon": "ꉌꑵꀡ",
+    "lighthouse": "ꌘꄶ",
+    "sun": "ꑍꆏ",
+    "moon": "ꈭꑍ ꈎꆪ",
+    "teapot": "ꌎꃚ",
+    "apple-pie": "ꀶꇤꃪ",
+    "honey-jar": "ꑵꃬꃚ",
+    "boiled-egg": "ꑍꃰ",
+    "toaster": "ꃪꃪꏂꃚ",
+    "cheese": "ꑍꈵ",
+    "milk-jug": "ꑍꃚ",
+    "cupcake": "ꃪꃪꌐ",
+    "orange": "ꇤꂷ",
+    "grapes": "ꏦꄩꂷ",
+    "watermelon": "ꏂꈢꂷ",
+    "pineapple": "ꌒꆏꂷ",
+    "peach": "ꂥꂷ",
+    "rose": "ꃅꏦ",
+    "daisies": "ꃅꏦꌐ",
+    "mushroom": "ꃚ",
+    "wheelbarrow": "ꑌꐙ",
+    "birdhouse": "ꆈꏢꑡ",
+    "cactus": "ꐘꌠꄈꏦ",
+    "acorn": "ꑌꂷꐚ",
+    "autumn-leaf": "ꑌꄤꏦ",
+    "rabbit": "ꄸꑌ",
+    "duck": "ꀱ",
+    "hen": "ꑍꂿ",
+    "sheep": "꒦",
+    "owl": "ꃅꑌꆈ",
+    "ladybird": "ꈭꂵ",
+    "snail": "ꋓꇉ",
+    "frog": "ꈬꄩ",
+    "bee": "ꑵꃬ",
+    "clock": "ꂮꈤ",
+    "vase-of-flowers": "ꃅꏦꃚ",
+    "radio": "ꈌꂿꄶ",
+    "books": "ꏝꅉ",
+    "candle": "ꄶꃀ",
+    "glasses": "ꂮꋒ",
+    "telephone": "ꄶꀊ",
+    "ball-of-wool": "꒦ꈤ",
+    "straw-hat": "ꑌꒌꃀ",
+    "train": "ꃀꐙ",
+    "bus": "ꐙꌠ",
+    "airplane": "ꃀꈞ",
+    "suitcase": "ꇤꑡ",
+    "tractor": "ꐙꑍ",
+    "rowing-boat": "ꑌꈯ",
+    "rainbow": "ꑍꃰꏦ",
+    "rain-cloud": "ꒌꈵꐘ",
+    "snowflake": "ꈌꏦ",
+    "kite": "ꃀꆈ",
+    "sunrise": "ꑍꆏꄸꑵ"
+  },
+  "content": {
+    "conversation": {
+      "themes": {
+        "all": "ꏝꅉꐚꂵ",
+        "food": "ꃪꂷ",
+        "home": "ꑡꈳ",
+        "outdoors": "ꆐꑌ",
+        "animals": "ꉢꈌ",
+        "travel": "ꇱꃅ",
+        "work": "ꋒꑌ",
+        "music": "ꋋꄤ",
+        "seasons": "ꂵꑍ"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "ꊈꑡꈳꇬ ꋍꑍꄹꄹꁏꀋꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "ꏦꑍꇁꃅꄹꄹ ꋍꑍꃪꃪꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "ꋍꑍꄹꄹꃪꂷꑌꌠꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "ꋍꑍꌎꈤꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "ꃅꑍꃪꂷꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "ꑌꂷꏦꇬꐂꂷꄹꄹꑊꇁꃅꄻ"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "ꋍꑍꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "ꑌꈭꇁꃅꄹꄹꃪꂷꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "ꋍꑍꑡꈳꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "ꋍꑍꐚꏦꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "ꆍꈬꇁꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "ꋍꑍꇤꑡꇬ ꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "ꌎꈤꌋꈬꇁ ꋍꑍꑌꌠꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "ꒌꈵꇁꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "ꐘꏦꇬ ꋍꑍꃅꏦꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "ꑌꂷꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "ꐘꏦꇬ ꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "ꃅꏦꆜꒉꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "ꑡꈳꇬꐘꌠꏦꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "ꑍꆏꇁꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "ꈌꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "ꀬꂿꄹ ꈌ ꋍꑍꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "ꆈꏢꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "ꍮꑊꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "ꂵꐚꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "ꐙꌠꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "ꒌꌠꄹ ꐘꏦ ꋍꑍꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "ꈞꑵꐙꇱꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "ꃀꈞꇱꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "ꇱꃅꇁꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "ꋒꑌꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "ꋍꑍꌋꈬꄹꄹꋒꑌꄻ"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "ꋍꑍꄹꄹꋒꑌꄻ"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "ꋍꑍꑡꈳꋒꑌꄻ"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "ꋋꄤꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "ꏦꑍꋋꄤꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "ꋋꄤꑌꌠꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "ꋋꄤꄶꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "ꑌꈭꇁꃅ ꋍꑍꌋꈬꄹꄹꄩꄶꂿꄻ"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "ꂵꑍꇁꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "ꈭꑍꇁꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "ꃅꏦꇁꃅ ꋍꑍꌋꈬꄹꄹꄻ"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "ꒌꈵꄹ ꑍꆏ ꋍꑍꌋꈬꄹꄹꄩꄶꂿꄻ"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "ꐘꌠꏦ",
+          "regions": {
+            "sky": "ꀭꃅ",
+            "table": "ꄤꄩ",
+            "stem": "ꑌꄤ",
+            "leaf-left": "ꏦꈬꑍ",
+            "leaf-right": "ꏦꈬꑍ",
+            "petal-1": "ꃅꏦ 1",
+            "petal-2": "ꃅꏦ 2",
+            "petal-3": "ꃅꏦ 3",
+            "petal-4": "ꃅꏦ 4",
+            "petal-5": "ꃅꏦ 5",
+            "petal-6": "ꃅꏦ 6",
+            "petal-7": "ꃅꏦ 7",
+            "petal-8": "ꃅꏦ 8",
+            "center": "ꃅꏦꂷ",
+            "pot": "ꐘꌠ",
+            "pot-rim": "ꐘꌠꅑ"
+          }
+        },
+        "house": {
+          "name": "ꑡꈳ",
+          "regions": {
+            "sky": "ꀭꃅ",
+            "sun": "ꑍꆏ",
+            "grass": "ꒌꏦ",
+            "chimney": "ꃀꌺ",
+            "walls": "ꑡꈳꑌ",
+            "roof": "ꑡꈳꀭ",
+            "door": "ꇩꌐ",
+            "window-left": "ꆫꈬꑍ",
+            "window-right": "ꆫꈬꑍ",
+            "path": "ꑍꌠ"
+          }
+        },
+        "teacup": {
+          "name": "ꌎꈤ",
+          "regions": {
+            "background": "ꀭꃅ",
+            "saucer": "ꌎꈤꐘ",
+            "handle": "ꌎꈤꌺ",
+            "cup": "ꌎꈤ",
+            "band": "ꌎꈤꑌ",
+            "tea": "ꌎꈤꒌ"
+          }
+        },
+        "butterfly": {
+          "name": "ꂵꐚ",
+          "regions": {
+            "background": "ꀭꃅ",
+            "wing-top-left": "ꂵꐚꏦ ꀭꈬꑍ",
+            "wing-top-right": "ꂵꐚꏦ ꀭꈬꑍ",
+            "wing-bottom-left": "ꂵꐚꏦ ꅑꈬꑍ",
+            "wing-bottom-right": "ꂵꐚꏦ ꅑꈬꑍ",
+            "spot-left": "ꂵꐚꂷ ꈬꑍ",
+            "spot-right": "ꂵꐚꂷ ꈬꑍ",
+            "body": "ꂵꐚꄤ"
+          }
+        },
+        "sailboat": {
+          "name": "ꇱꈞꑌꈯ",
+          "regions": {
+            "sky": "ꀭꃅ",
+            "sea": "ꒌꌠ",
+            "sail-big": "ꇱꈞꑌ",
+            "sail-small": "ꇱꈞꌐ",
+            "mast": "ꑌꄤ",
+            "hull": "ꑌꈯ",
+            "flag": "ꃅꏦ"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "ꊈꑡꄹ ꐘꏦ",
+          "baskets": [
+            "ꊈꑡꈳꇬ",
+            "ꐘꏦꇬ"
+          ]
+        },
+        "fruit-animals": {
+          "label": "ꐂꂷꄹ ꉢꈌ",
+          "baskets": [
+            "ꐂꂷ",
+            "ꉢꈌ"
+          ]
+        },
+        "home-travel": {
+          "label": "ꑡꈳꄹ ꇱꃅ",
+          "baskets": [
+            "ꑡꈳꇬ",
+            "ꆐꑌꇬ"
+          ]
+        }
+      }
+    }
+  }
+}

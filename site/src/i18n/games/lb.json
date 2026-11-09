@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Billerpuerer",
+    "seoTitle": "Pärelspill bei Demenz: Billerpuerer",
+    "h1": "Billerpuerer: e rouegt Pärelspill",
+    "description": "E gratis, rouegt Pärelspill fir Mënsche mat Demenz. Grouss Biller bleiwen ze gesinn, et gëtt keng Zäitbegrenzung a kee Score, an Dir kënnt tëscht 4 an 12 Kaarte wielen.",
+    "short": "Fannt déi zwee Biller, déi d'selwecht sinn. D'Biller kënnen opgedeckt bleiwen.",
+    "players": "1 oder 2 Persounen, niewenteneen",
+    "intro": "Tippt op e Bild, an dann op dat, wat dozou passt. D'Biller bleiwen automatesch opgedeckt, sou datt ee sech näischt mierke muss. Wann zwee Biller zesummegehéieren, kréie se e gëllene Rand an en Haken.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Wielt aus, wéi vill Kaarten Dir benotze wëllt. Véier Kaarten ass e rouegen Ufank.",
+      "Tippt op iergendee Bild. Et kritt e gëllene Rand.",
+      "Tippt op dat Bild, dat d'selwecht ausgesäit. D'Koppel bleift zesumme mat engem Haken stoen.",
+      "Wann déi zwee Biller verschidde sinn, geschitt näischt Schlemms. Tippt einfach nach eng Kéier, wann Dir bereet sidd.",
+      "Schalt „Verstoppte Biller“ nëmmen an, wann Dir zwee déi klassesch Variant mat zougedeckte Kaarte gär hutt."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Benennt d'Biller zesummen haart a schwätzt driwwer: „Eng rout Taass Téi. Drénkt Dir Ären Téi mat Mëllech?“",
+      "Loosst déi Persoun, ëm déi Dir Iech këmmert, selwer tippen, och wann et e Moment dauert. Weist éischter drop amplaz fir si ze tippen.",
+      "Bleift bei véier Kaarten, soulaang wéi et sech gutt ufillt. Méi Kaarte sinn eng Wiel, ni e Niveau, deen ee packe muss.",
+      "Halt op, soulaang wéi et nach Freed mécht. Eent Spill ass scho voll a ganz genuch."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et eng Zäitbegrenzung oder e Score?",
+        "a": "Nee. Et gëtt keng Auer, kee Score, keen Zich-Zieler a kee Verléieren. Dir kënnt zu all Moment ophale mat spillen, an op der Halschent opzehalen ass genee sou gutt."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Firwat bleiwen d'Biller opgedeckt?",
+        "a": "Wann d'Biller ze gesi bleiwen, geet et am Spill éischter ëm d'Kucken an d'Fanne wéi ëm d'Erënneren. Fir vill Leit ass dat méi roueg. Dir kënnt mat engem Tipp op verstoppte Biller wiesselen, wann Dir dat léiwer hutt."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et brauch ee kee Kont, keng Umeldung a keen Download. Et funktionéiert am Webbrowser um Smartphone, Tablet oder Computer."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Kënne mir eis eege Familljefotoe benotzen?",
+        "a": "Jo. Probéiert Fotopuerer, wou Dir Fotoe vun Ärem Apparat eraussiche kënnt. D'Fotoe bleiwen an Ärem Browser a ginn net eropgelueden."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Dat selwecht fannen",
+    "seoTitle": "Dat selwecht Bild fannen: Einfacht Spill bei Demenz",
+    "h1": "Dat selwecht Bild fannen",
+    "description": "E Bild uewen, zwee bis véier drënner. Tippt op dat, wat d'selwecht ass. E rouegt, gratis Billerspill fir Mënsche mat Demenz, ouni Zäitbegrenzung.",
+    "short": "Kuckt d'Bild uewen un an tippt op dat selwecht Bild drënner.",
+    "players": "1 oder 2 Persounen",
+    "intro": "En eenzelt Bild steet uewen um Bildschierm. Drënner sinn zwee, dräi oder véier Biller. Tippt op dat, wat d'selwecht ass. Et ass ëmmer nëmmen eng einfach Entscheedung op eemol, mat vill Plaz fir mateneen ze schwätzen.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Wielt zwee, dräi oder véier Biller fir erauszesichen. Zwee ass am einfachsten.",
+      "Kuckt d'Bild uewen zesummen un.",
+      "Tippt op dat selwecht Bild drënner. Et gëtt mat engem Haken an e puer léiwe Wierder markéiert.",
+      "Wann en anert Bild getippt gëtt, nennt d'Spill einfach deem säin Numm a waart. Huelt Iech Zäit.",
+      "Tippt op „Nächst Bild“, wann Dir prett sidd fir en neit."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Schwätzt iwwer all Bild ier Dir wielt: Faarwen, Formen, a wou een et gesi kéint.",
+      "Zwee Méiglechkeete sinn net „ze einfach“. D'Zil ass en agreabele Moment, keng Erausfuerderung.",
+      "Wann d'Tippe schwéier fällt, kann d'Persoun drop weisen an Dir tippt fir si."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et eng Zäitbegrenzung oder e Score?",
+        "a": "Nee. Et gëtt keng Auer, kee Score, keen Zich-Zieler a kee Verléieren. Dir kënnt zu all Moment ophale mat spillen, an op der Halschent opzehalen ass genee sou gutt."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Wat geschitt, wann op dat falscht Bild getippt gëtt?",
+        "a": "Näischt Onangenehmes. Et gëtt kee Brummton, kee rout Kräiz a kee Rëselen. D'Spill nennt d'Bild, op dat getippt gouf, a waart op den nächsten Tipp."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et brauch ee kee Kont, keng Umeldung a keen Download. Et funktionéiert am Webbrowser um Smartphone, Tablet oder Computer."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Schietspill",
+    "seoTitle": "Schietspill bei Demenz: Gratis online",
+    "h1": "Schietspill: e rouegt Billerspill",
+    "description": "Een donkele Schiet uewen, zwee bis véier Biller drënner. Tippt op d'Bild, wat de Schiet mécht. E gratis, rouegt Schietspill bei Demenz, ouni Zäitbegrenzung.",
+    "short": "Kuckt de Schiet un an tippt op d'Bild, wat de Schiet mécht.",
+    "players": "1 oder 2 Persounen",
+    "intro": "Schietspiller sinn eng vertrauten Aktivitéit vu gedréckten Aarbechtsblieder, hei mat grousse Biller an ouni eppes ze drécken. E mëlle Schiet steet uewen um Bildschierm an zwee, dräi oder véier Biller waarden drënner. Tippt op dat, wat de Schiet mécht. Iwwer Forme wéi e Vëlo, e Regeschirm oder eng Taass Téi léisst et sech och gutt schwätzen.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Wielt zwee, dräi oder véier Biller fir erauszesichen. Zwee ass am einfachsten.",
+      "Kuckt de Schiet zesummen un. Wéi eng Form huet en? Ass en héich oder ronn?",
+      "Tippt op d'Bild, wat de Schiet mécht. Säin Numm kënnt ënner dem Schiet ze stoen.",
+      "Wann en anert Bild getippt gëtt, nennt d'Spill einfach deem säin Numm a waart. Huelt Iech Zäit.",
+      "Tippt op „Nächste Schiet“, wann Dir prett sidd fir en neien."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Fuert d'Kontur vum Schiet mat engem Fanger no a schwätzt iwwer d'Form.",
+      "Wann d'Schieter haut ze schwéier falen, wiesselt op „Dat selwecht fannen“, wou d'Biller d'selwecht ausgesinn.",
+      "Schwätzt iwwer d'Bild, soubal et fonnt ass: „Mir hate sou e Regeschirm.“"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et eng Zäitbegrenzung oder e Score?",
+        "a": "Nee. Et gëtt keng Auer, kee Score, keen Zich-Zieler a kee Verléieren. Dir kënnt zu all Moment ophale mat spillen, an op der Halschent opzehalen ass genee sou gutt."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ass Schietematchen eng gutt Aktivitéit fir Mënschen, déi mat Demenz liewen?",
+        "a": "Et kann fir e puer Leit eng agreabel an einfach Aktivitéit sinn, besonnesch an de fréie Stadien. Formen si méi liicht ze erkennen wéi Wierder. Et geet ëm Freed a Gespréicher, net ëm en Test, an et behandelt oder verlangsamt keng Demenz. Wann et frustréierend gëtt, probéiert „Fannt dat selwecht“ oder kuckt einfach zesumme Biller un."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Wat geschitt, wann op dat falscht Bild getippt gëtt?",
+        "a": "Näischt Onangenehmes. Et gëtt kee Summer, kee rout Kräiz a kee Rëselen. D’Spill nennt d’Bild, op dat getippt gouf, a waart op den nächsten Tipp."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis, a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et gëtt kee Kont, keng Umeldung a keen Download. Et funktionnéiert am Browser op engem Handy, Tablet oder Computer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Zesumme sortéieren",
+    "seoTitle": "Sortéierspill fir Demenz: Zesumme sortéieren",
+    "h1": "Zesumme sortéieren: eng Bildersortéieraktivitéit",
+    "description": "Tippt op e Bild an dann op de Kuerf, an deen et passt: Kichen oder Gaart, Uebst oder Déieren. Eng roueg, gratis Sortéieraktivitéit fir Mënschen, déi mat Demenz liewen.",
+    "short": "Leet all Bild a säi Kuerf: Kichen oder Gaart, a méi.",
+    "players": "1 oder 2 Persounen",
+    "intro": "Sortéieren ass eng vertraut, zefriddestellend alldeeglech Aufgab, wéi Akaf auszepaken oder Socken zesummenzeleeën. Tippt op e Bild an dann op de Kuerf, wou et hi gehéiert. Et gëtt keen Drock a kee falsche Wee.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Wielt en Thema: Kichen a Gaart, Uebst an Déieren, oder Doheem a Reesen.",
+      "Tippt op e Bild. Et kritt e gëllene Rand.",
+      "Tippt op de Kuerf, an deen et passt. D’Bild réckelt an dee Kuerf.",
+      "Wann et an den anere Kuerf gehéiert, seet d’Spill dat sanft a waart.",
+      "Wann all d’Biller sortéiert sinn, kuckt zesummen d’Kierf duerch."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Am richtege Liewen gëtt et dacks keng falsch Äntwerten. Wann een seet, datt eng Gësskan an d’Kichen gehéiert, frot firwat. Villäicht kritt Dir eng schéin Geschicht.",
+      "Benotzt d’Biller als Ustouss fir e Gespréich: „Wat hutt Dir an Ärem Gaart ugebaut?“",
+      "Richteg Saachen ze sortéieren, wéi Läffelen a Forschetten oder Knäppercher no Faarf, ass och eng schéi Aktivitéit ouni Ecran."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et en Timer oder eng Punktzuel?",
+        "a": "Nee. Et gëtt keng Auer, keng Punktzuel, kee Beweegungsteller a kee Verléieren. Dir kënnt zu all Moment ophalen, an op halbem Wee ophalen ass och eng ganz gutt Manéier fir fäerdeg ze sinn."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Firwat sortéieren?",
+        "a": "Vill Leit hu Freed um Sortéieren, well et sech wéi eng nëtzlech, vertraut Aarbecht ufëllt. Et ass och einfach, iwwert d’Biller ze schwätzen, wärend Dir sortéiert."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis, a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et gëtt kee Kont, keng Umeldung a keen Download. Et funktionnéiert am Browser op engem Handy, Tablet oder Computer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Billerpuzzel",
+    "seoTitle": "Einfache Puzzel fir Demenz: 4 oder 9 Deeler",
+    "h1": "Billerpuzzel: en einfache Puzzel",
+    "description": "En einfachen Online-Puzzel fir Mënschen, déi mat Demenz liewen: 4 oder 9 grouss Deeler, dat ganzt Bild bleift sichtbar, an Dir tippt op zwee Deeler fir se ze tauschen.",
+    "short": "Tippt op zwee Deeler, fir se ze tauschen, bis d’Bild komplett ass.",
+    "players": "1 oder 2 Persounen",
+    "intro": "E frëndlecht Bild gëtt a véier oder néng grouss Deeler geschnidden a gemëscht. Dat ganzt Bild bleift als Hëllef sichtbar. Tippt op een Deel an dann op en aneren, an déi zwee tausche Plaz. Zéien ass net néideg.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Wielt e Bild an 4 oder 9 Deeler. Véier ass e sanften Ufank.",
+      "Kuckt dat ganzt Bild uewen un.",
+      "Tippt op en Deel an dann op d’Plaz, wou et soll sinn. Déi zwee Deeler tausche Plaz.",
+      "Deeler op der richteger Plaz kréien e klengt Häkchen.",
+      "Wann d’Bild komplett ass, genéisst et zesummen a wielt dann en anert."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Op zwee Deeler tippen, fir se ze tauschen, ass fir vill Leit vill méi einfach wéi zéien.",
+      "Schwätzt iwwert d’Bild, wärend et zesumme kënnt: „Do ass den rouden Daach.“",
+      "E richtegen Holzpuzzel mat 12 bis 24 grousse Deeler ass och eng schéin Aktivitéit um Dësch."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et en Timer oder eng Punktzuel?",
+        "a": "Nee. Et gëtt keng Auer, keng Punktzuel, kee Beweegungsteller a kee Verléieren. Dir kënnt zu all Moment ophalen, an op halbem Wee ophalen ass och eng ganz gutt Manéier fir fäerdeg ze sinn."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Muss ech d’Deeler zéien?",
+        "a": "Nee. Tippt op een Deel an dann op en aneren, an déi zwee tausche Plaz. Dat ass méi einfach mat enger zëttereger Hand oder op engem klengen Ecran."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis, a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et gëtt kee Kont, keng Umeldung a keen Download. Et funktionnéiert am Browser op engem Handy, Tablet oder Computer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Maacht de Sproch fäerdeg",
+    "seoTitle": "Maacht de Sproch fäerdeg: Sprochwierderspill fir eeler Leit",
+    "h1": "Maacht de Sproch fäerdeg",
+    "description": "Bekannte Sprochwierder, bei deenen dat lescht Wuert feelt, wéi „Muerge Stonn huet Gold am ___“. Tippt op eng Auswiel oder weist d’Enn, a schwätzt dann doriwwer.",
+    "short": "Maacht bekannte Sprochwierder zesumme fäerdeg a schwätzt dann doriwwer.",
+    "players": "1, 2 oder eng Grupp",
+    "intro": "Al Sprochwierder kennt een dacks scho ganz laang. All Kaart weist e bekannte Sproch mat engem feelende leschte Wuert, dräi Méiglechkeeten an e Knäppchen „D’Enn weisen“. Nom Enn invitéiert eng sanft Fro zu engem Gespréich.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Liest de Sproch zesumme haart vir.",
+      "Tippt op d’Wuert, dat en fäerdeg mécht, oder tippt op „D’Enn weisen“.",
+      "Liest de ganze Sproch nach eng Kéier vir a schwätzt mat Hëllef vun der Fro doriwwer.",
+      "Tippt op „Nächste Sproch“, wann Dir prett sidd."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Liest lues a maacht eng Paus virum leschte Wuert. Oft soen d’Leit et, ier Dir fäerdeg sidd.",
+      "Wann een en anert Enn seet, genéisst et. Verschidde Versioune vu Sprochwierder kënne jee no Famill oder Regioun variéieren.",
+      "An enger Grupp liest eng Persoun vir, an all maachen beim Enn mat."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et en Timer oder eng Punktzuel?",
+        "a": "Nee. Et gëtt keng Auer, kee Score, keen Zuchzieler a kee Verléieren. Dir kënnt zu all Moment ophalen, an op hallwer Streck opzehalen ass grad esou gutt."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Wat geschitt, wa mir en anert Wuert wielen?",
+        "a": "D'Spill weist dat gewinnt Enn a geet weider an d'Gespréich iwwer. Et gëtt kee Score, an eng aner Äntwert ass ganz an der Rei."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis, a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et gëtt kee Kont, keng Umeldung a keen Download. Et funktionéiert am Webbrowser um Smartphone, Tablet oder Computer."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Wierdersich mat grousse Buschtawen",
+    "seoTitle": "Wierdersich mat grousse Buschtawe fir Mënsche mat Demenz, zum Ausdrécken",
+    "h1": "Wierdersich mat grousse Buschtawen",
+    "description": "Eng gratis Wierdersich mat grousse Buschtawe fir Senioren a Mënsche mat Demenz. Wéineg Wierder, grouss Buschtawen, Wierder nëmme vu lénks no riets a vun uewe no ënnen. Online spillen oder ausdrécken.",
+    "short": "Grouss Buschtawen, wéineg Wierder, nëmme vu lénks no riets a vun uewe no ënnen. Och zum Ausdrécken.",
+    "players": "1 oder 2 Persounen",
+    "intro": "E klengt Raster mat grousse Buschtawen an nëmmen enger Handvoll Wierder, déi all vu lénks no riets oder vun uewe no ënne gelies ginn. Tippt op deen éischte Buschtaf vun engem Wuert, duerno op dee leschten. Léiwer op Pabeier? Dréckt en neit Rätsel mat engem Klick aus.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Wielt en Theema an eng Rastergréisst aus.",
+      "Kuckt Iech d'Wierderlëscht un. D'Wierder gi vu lénks no riets oder vun uewe no ënne gelies.",
+      "Tippt op deen éischte Buschtaf vun engem Wuert an duerno op dee leschten.",
+      "E fonnt Wuert gëtt faarweg markéiert an op der Lëscht duerchgestrach.",
+      "Tippt op „Dëst Rätsel ausdrécken“, fir um Pabeier mat engem Bläistëft oder Filzstëft ze spillen."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Weist op e Wuert an der Lëscht a sicht zesummen no sengem éischte Buschtaf.",
+      "Um Pabeier ass en Textmarker dacks méi einfach ze halen wéi e Bläistëft.",
+      "Schwätzt iwwer d'Wierder vum Theema. Uebstwierder brénge ganz natierlech Erënnerungen un d'Plécken, d'Baken oder de Maart ervir."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et eng Auer oder e Score?",
+        "a": "Nee. Et gëtt keng Auer, kee Score, keen Zuchzieler a kee Verléieren. Dir kënnt zu all Moment ophalen, an op hallwer Streck opzehalen ass grad esou gutt."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Kann ech d'Wierdersich ausdrécken?",
+        "a": "Jo. Tippt op „Dëst Rätsel ausdrécken“, fir dat aktuellt Raster a grousser Schrëft mat der Wierderlëscht drënner auszedrécken. All neit Rätsel ass anescht."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis, a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et gëtt kee Kont, keng Umeldung a keen Download. Et funktionéiert am Webbrowser um Smartphone, Tablet oder Computer."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Ausmoolbiller",
+    "seoTitle": "Ausmoolbiller fir Erwuessener mat Demenz (Gratis)",
+    "h1": "Ausmoolbiller",
+    "description": "Einfach Ausmoolbiller fir Erwuessener mat grousse Flächen: tippt op eng Faarf, duerno op d'Bild. Keng Schmiererei, keng falsch Faarwen, an all Bild kann gratis ausgedréckt ginn.",
+    "short": "Tippt op eng Faarf, duerno op en Deel vum Bild. Biller kënnen och ausgedréckt ginn.",
+    "players": "1 oder 2 Persounen",
+    "intro": "Biller mat grousse, einfache Formen: eng Blumm an engem Dëppen, en Haus, eng Taass Téi, e Päiperlek an e Seegelboot. Tippt op eng Faarf, duerno op en Deel vum Bild, fir et auszefëllen. Et gëtt keng falsch Faarwen.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Wielt e Bild aus.",
+      "Tippt op eng Faarf. Op all Faarf steet hiren Numm.",
+      "Tippt op en Deel vum Bild, fir et mat där Faarf auszefëllen.",
+      "Dir kënnt Iech zu all Moment anescht entscheeden an d'Fläch nach eng Kéier fëllen.",
+      "Tippt op „Dëst Bild ausdrécken“, fir en eidelt Bild ze kréien, dat Dir mat Bläistëfter oder Filzstëfter ausmoole kënnt."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Bitt éischter zwou Faarwen zur Auswiel un amplaz vum ganze Set, wann d'Wielen ze vill gëtt.",
+      "Mof Beem a blo Sonne si wëllkomm. Hei geet et ëm d'Freed un de Faarwen, net ëm Richtegkeet.",
+      "Ausgedréckt Biller loosse sech gutt mat décke Filzstëfter oder Wuesmoolstëfter ausmoolen, déi méi einfach ze gräife sinn."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et eng Auer oder e Score?",
+        "a": "Nee. Et gëtt keng Auer, kee Score, keen Zuchzieler a kee Verléieren. Dir kënnt zu all Moment ophalen, an op hallwer Streck opzehalen ass grad esou gutt."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Sinn dës Biller ze kanneresch?",
+        "a": "Mir hu roueg, einfach Géigestänn gezeechent amplaz vu Comicfiguren, sou datt d'Biller fir Erwuessener passen. Déi grouss Forme maachen d'Ausmoolen einfach, ouni kanneresch ze wierken."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis, a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et gëtt kee Kont, keng Umeldung a keen Download. Et funktionéiert am Webbrowser um Smartphone, Tablet oder Computer."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Gespréichskaarten",
+    "seoTitle": "Gespréichsufäng fir Mënsche mat Demenz: Bildkaarten",
+    "h1": "Gespréichskaarten",
+    "description": "Bildkaarte mat sanfte Gespréichsufäng fir Mënsche mat Demenz: kee Quizzen, keng richteg Äntwerten. Um Bildschierm benotzen oder de ganze Set ausdrécken.",
+    "short": "Bildkaarte mat oppenen, sanfte Froen. Kee Quizzen.",
+    "players": "2 Persounen oder eng Grupp",
+    "intro": "All Kaart verbënnt e vertraut Bild mat enger oppener Invitatioun zum Gespréich, wéi „Wat fir e Wieder hutt Dir am léifsten?“ Et gëtt keng richteg Äntwerten an näischt, wat ee sech merke muss. Wielt en Theema oder mëscht all d'Kaarten duercherneen.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Wielt en Theema aus, oder loosst „All Kaarten“ stoen.",
+      "Liest d'Fro haart vir a kuckt Iech d'Bild zesummen un.",
+      "Lauschtert no, deelt Är eegen Äntwert a loosst dem Gespréich säi fräie Laf.",
+      "Tippt op „Nächst Kaart“, wann Dir prett sidd, oder bleift sou laang bei enger Kaart, wéi Dir wëllt.",
+      "Tippt op „All Kaarten ausdrécken“, fir e Pabeierset zum Ausschneiden ze kréien."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Äntwert och selwer op d'Fro. Dat fillt sech wéi e Gespréich un an net wéi en Interview.",
+      "Gitt mat der Geschicht mat, net mat de Fakten. Wann Detailer änneren, ass dat ganz an der Rei.",
+      "Wann eng Kaart eppes Traureges beréiert, huelt d'Gefill eescht a wiesselt sanft op eng aner Kaart."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Firwat gëtt et keng Froen ewéi „Erënnert Dir Iech un…?“?",
+        "a": "Froen, déi d'Gediechtnes testen, kënne sech wéi en Exame fillen a Verleeënheet ausléisen. Oppent Ureegunge wéi „Erzielt emol vun…“ erlaben et jidderengem matzemaachen, egal un wat ee sech erënnert."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kann ech d'Kaarten ausdrécken?",
+        "a": "Jo. „All Kaarten ausdrécken“ dréckt de ganze Set a grousser Schrëft aus, mat e puer Kaarten pro Säit, prett fir auszeschneiden."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis, a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et brauch ee kee Kont, keng Umeldung a keen Download. Et funktionéiert am Webbrowser um Handy, Tablet oder Computer."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Fotopueren",
+    "seoTitle": "E Puerespill aus Familljefotoe maachen",
+    "h1": "Fotopueren: Fannt Är eege Fotoen zesummen",
+    "description": "Maacht aus Ären eegene Familljefotoen e rouegt Puerespill. Wielt 2 bis 6 Fotoen op Ärem Apparat aus; si bleiwen an Ärem Browser a ginn ni eropgelueden.",
+    "short": "Wielt Är eege Fotoen a fannt d'Pueren. Et gëtt näischt eropgelueden.",
+    "players": "2 Persounen, niewenteneen",
+    "intro": "Wielt zwou bis sechs Fotoe vun Ärem Handy, Tablet oder Computer aus, an et entsteet e Puerespill mat grousse, gutt siichtbare Biller. D'Fotoe ginn nëmmen op dëser Säit ugewisen. Si ginn net eropgelueden, gespäichert oder gedeelt, a si verschwannen, wann Dir d'Säit zoumaacht.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tippt op „Fotoen auswielen“ a sicht zwou bis sechs Fotoen eraus.",
+      "All Foto kënnt zweemol vir. Tippt op eng Foto an dann op déi passend zweet.",
+      "Schwätzt iwwer all Foto, soubal Dir se fannt.",
+      "Wann Dir fäerdeg sidd, maacht d'Säit zou oder tippt op „Fotoe läschen“. Et gëtt näischt behalen."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Wielt kloer Fotoe vu schéinen, vertraute Saachen: en Hausdéier, e Gaart, eng Liblingsplaz, en Hochzäitsdag.",
+      "Biller vu Plazen a Saache kënne méi einfach si wéi Gesiichter, an et gëtt keen Drock, Nimm ze nennen.",
+      "Verzielt op Fotoe vu Leit, déi verstuerwe sinn, wa si op eemol Trauer kéinten ausléisen – ausser Dir wësst, datt si Trouscht bréngen."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ginn meng Fotoen iergendwou eropgelueden?",
+        "a": "Nee. D'Säit liest déi Fotoen, déi Dir auswielt, direkt an Ärem Browser a weist se op Ärem Bildschierm un. Si ginn net un eis oder un iergendeen anere geschéckt, a si si fort, wann Dir d'Säit zoumaacht oder nei lued."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gëtt et eng Zäitbegrenzung oder e Punktestand?",
+        "a": "Nee. Et gëtt keng Auer, kee Punktestand, keen Zielteller a kee Verléieren. Dir kënnt zu all Moment ophalen, an et ass och vollkommen an der Rei, schonn an der Hallschent opzehalen."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Kann ech d'Spill fir déi nächst Kéier späicheren?",
+        "a": "Am Browser geet dat bewosst net, fir datt näischt Privates gespäichert gëtt. Déi gratis App Golden Moments fir iPhone an iPad ka gewielte Fotokopien op Ärem Apparat behalen."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Billerbingo",
+    "seoTitle": "Billerbingo fir Senioren mat Demenz: Zum Ausdrécken",
+    "h1": "Billerbingo fir Gruppen",
+    "description": "Gratis Billerbingo zum Ausdrécke fir d'Betreiung vu Mënsche mat Demenz a Senioregruppen, mat engem grousse Bildschierm-Uruffer. Grouss Biller mat Wierder, 9 oder 16 Felder, kee Liese noutwendeg.",
+    "short": "Billerbingo-Kaarten zum Ausdrécken an e grousse Bildschierm-Uruffer fir Gruppen.",
+    "players": "Eng Grupp vun 2 bis 30",
+    "intro": "Klassesche Bingo mat Biller amplaz vun Zuelen, fir datt kee kleng Schrëft liese muss. Dréckt eng Serie vun ënnerschiddleche Kaarten aus, a benotzt dann de groussen Ecran, fir all Bild op engem Fernseh, Laptop oder Tablet ze weisen.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Wielt 9 oder 16 Felder pro Kaart an d'Zuel vun de Matspiller.",
+      "Tippt op „Kaarten ausdrécken“. All Kaart ass anescht.",
+      "Maacht den Uruffer op engem groussen Ecran op. Tippt op „Nächst Bild“, fir all Bild mat sengem Numm ze weisen.",
+      "D'Matspiller decken dat passend Bild op hirer Kaart mat enger Mënz, engem Knäppchen oder engem Spillsteech of.",
+      "Jiddereen, deen eng Rei oder déi ganz Kaart voll huet, gëtt gefeiert. Bei dëser Versioun gëtt et keng Verléierer: spillt einfach weider, bis jiddereen eng Rei huet."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Benotzt grouss Spillsteng wéi Damesteng oder Fläschedeckelen. Kleng Knäppercher kënne schwéier ze gräife sinn.",
+      "Nennt d'Bild a sot eppes dozou: „E Seegelboot. Wien ass da scho mat engem Boot gefuer?“",
+      "Setzt Leit, déi net méi sou gutt gesinn, am nooste bei den Ecran, an deelt deene Matspiller, déi Hëllef brauchen, eng Begleetpersoun zou.",
+      "Néng Felder si fir déi meescht Gruppe vollkomme genuch. Haalt d'Ronn bei ongeféier 20 bis 30 Minutten."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Wéi maachen ech e Billerbingo an engem Fleegeheem?",
+        "a": "Dréckt eng Kaart pro Matspiller aus, maacht den Uruffer um gréisste Bildschierm op, deen Dir hutt, a weist d'Biller lues vir, wärend Dir se nennt. Spillt weider, bis jiddereen eng Rei voll huet, fir datt keen iwwergaange gëtt."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Ass d'Ausdrécke gratis?",
+        "a": "Jo. Dréckt esou vill Kaarten aus, wéi Dir braucht, an esou dacks, wéi Dir wëllt, sief et fir Iech privat oder fir eng Grupp."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Kënnen d'Leit matspillen, ouni liesen ze kënnen?",
+        "a": "Jo. All Feld ass e grousst Bild, mat der Bezeechnung drënner fir déi, déi gäre Wierder hunn."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Rouegt Otmen",
+    "seoTitle": "Eng roueg Otempaus fir Senioren a Betreier",
+    "h1": "Eng roueg Otempaus",
+    "description": "Eng lues, roueg Otempaus fir zesummen ze maachen: e rouege Krees gëtt méi grouss a méi kleng fir sechs Otemzich. Dir start et, an Dir kënnt zu all Moment ophalen.",
+    "short": "E luese Krees fir matzeootmen. Start an haalt op, wéini Dir wëllt.",
+    "players": "1 oder 2 Persounen",
+    "intro": "Heiansdo ass eng roueg Paus déi bescht Aktivitéit. Tippt op „Start“, ootmt dann an, wärend de Krees méi grouss gëtt, an aus, wärend e méi kleng gëtt. Wielt e méi luest oder méi séiert Tempo. Et ass keng Behandlung, mee einfach e friddleche Moment fir ze deelen.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Setzt Iech gemittlech niewenteneen.",
+      "Wielt en Tempo: lues oder sanft.",
+      "Tippt op „Start“. Ootmt an, wärend de Krees méi grouss gëtt, an aus, wärend e méi kleng gëtt.",
+      "Et hält no sechs Otemzich vu selwer op, oder tippt op „Stopp“, wéini ëmmer Dir wëllt."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Haalt d'Hänn oder leet eng Hand op den Aarm vun der Persoun, wann dat agreabel ass.",
+      "Drängt ni drop. Wann d'Persoun léiwer just nokuckt, ass dat ganz an der Rei.",
+      "Wann d'Persoun Otemproblemer huet, ootmt normal weider a kuckt einfach de Krees un. Frot en Dokter bei Froen oder Bedenken zum Otmen."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ass dat eng medezinesch Otemübung?",
+        "a": "Nee. Et ass eng einfach, fräiwëlleg Paus fir Rou an Zesummesäin. Et ass keng Behandlung géint Angscht oder aner Gesondheetsproblemer. Schwätzt mat engem Dokter bei gesondheetleche Froen."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Beweegt de Krees sech, ouni datt ech e starten?",
+        "a": "Nee. Et beweegt sech näischt, bis Dir op Start tippt, an et hält no sechs Otemzich op oder wann Dir op Stop tippt. Wann op Ärem Apparat agestallt ass, datt Beweegunge reduzéiert ginn, wiesselen d'Wierder, ouni datt de Krees méi grouss gëtt."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ass et gratis, a muss ech mech umellen?",
+        "a": "Jo, et ass gratis, an et gëtt kee Kont, keng Umeldung a keen Download. Et funktionéiert am Webbrowser op engem Handy, Tablet oder Computer."
       }
     ]
   }

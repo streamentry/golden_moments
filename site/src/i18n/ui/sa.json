@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "मुख्यसामग्रीं प्रति गच्छतु",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "स्मृतिभ्रंशक्रियाः",
+    "homeLabel": "Golden Moments गृहपृष्ठम्",
+    "mainNav": "मुख्यम्",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "संस्कृतम्",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: चषकस्य, सूर्यमुख्याः श्वानस्य च बृहन्ति सौम्यानि चित्राणि",
+    "languages": "भाषा",
+    "englishOnly": "(आङ्ग्लभाषा)",
+    "machineTranslated": "एतत् पृष्ठं स्वयंचलितरूपेण अनूदितम् अस्ति, मूलभाषी-जनेन अद्यापि न परीक्षितम्।",
+    "readOriginal": "मूलपाठं आङ्ग्लभाषायां पठतु",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "क्रीडाः",
+      "activities": "क्रियाः",
+      "caregiving": "परिचर्या",
+      "brainHealth": "मस्तिष्कस्वास्थ्यम्"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "प्रश्नोत्तराणि",
+    "breadcrumb": "मार्गपथः",
+    "home": "गृहम्",
+    "lastUpdated": "अन्तिमं नवीकृतम्",
+    "topics": "विषयाः",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "अक्षरमानम्",
+      "smaller": "सामान्यम् अक्षरमानम्",
+      "larger": "बृहत्तरम् अक्षरमानम्",
+      "contrast": "उच्चतरः वर्णभेदः"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "क्रीडतु",
+    "picturePairs": "चित्रयुग्मानि",
+    "conversationCards": "सम्भाषणपत्रकाणि",
+    "pictureBingo": "चित्रबिङ्गो",
+    "allGames": "सर्वाः क्रीडाः",
+    "pictures": "मुद्रणयोग्यानि चित्राणि",
+    "activityIdeas": "क्रियाकल्पनाः",
+    "ideas101": "101 क्रियाकल्पनाः",
+    "lateStage": "उत्तरावस्थायाः क्रियाः",
+    "printable": "मुद्रणयोग्याः क्रियाः",
+    "allActivities": "सर्वाः क्रियाः",
+    "forCaregivers": "परिचारकाणां कृते",
+    "playTogether": "एकत्र कथं क्रीडितव्यम्",
+    "selfCare": "स्वस्य परिचर्या",
+    "brainHealth": "मस्तिष्कस्वास्थ्यस्य अनुसन्धानम्",
+    "faq": "प्रश्नोत्तराणि",
+    "about": "विषये",
+    "approach": "अस्माकं दृष्टिकोणः",
+    "howWeWrite": "कथं लिखामः",
+    "organizations": "संस्थाभ्यः",
+    "app": "Golden Moments अनुप्रयोगः",
+    "appHelp": "अनुप्रयोगसाहाय्यम्",
+    "support": "साहाय्यम्",
+    "legal": "विधिविषयाः",
+    "sitePrivacy": "जालस्थलस्य गोपनीयता",
+    "appPrivacy": "अनुप्रयोगस्य गोपनीयतानीतिः",
+    "privacyChoices": "गोपनीयतायाः विकल्पाः",
+    "terms": "नियमाः तथा अनुप्रयोगानुज्ञा",
+    "safety": "सुरक्षा तथा अभिप्रेतः उपयोगः",
+    "accessibility": "सुगम्यता",
+    "healthNotice": "स्वास्थ्यसूचनायाः सूचना",
+    "allLegal": "सर्वाणि विधिसूचनानि",
+    "note": "Golden Moments आनन्दार्थं सरलाः सहक्रियाः प्रस्तौति। एतत् चिकित्सामार्गदर्शनं, परीक्षा वा चिकित्सा वा नास्ति, न च कस्यापि रोगनिदानं, मापनं वा अङ्कनं वा करोति। स्वास्थ्यविषयकप्रश्नेषु चिकित्सकेन सह सम्भाषतु। आपत्काले 112 इत्यस्मिन् आह्वानं कुरु।",
+    "publisher": "प्रकाशकः: Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "स्मृतिभ्रंश तथा आल्त्सहाइमर्स् क्रीडाः तथा क्रियाः | Golden Moments",
+    "description": "स्मृतिभ्रंशेन अथवा आल्त्सहाइमर्स्-रोगेण पीडितानां जनानां तथा तेषां परिचारकाणां कृते निःशुल्काः सौम्याः चित्रक्रीडाः क्रियाकल्पनाश्च। पञ्जीकरणं, कालमापकाः वा अङ्काः वा नहि।",
+    "eyebrow": "निःशुल्कम् · विज्ञापनरहितम् · पञ्जीकरणं नास्ति · कालमापकः अङ्काः वा नहि",
+    "h1": "स्मृतिभ्रंशयुक्तानां जनानां कृते सौम्याः क्रीडाः तथा क्रियाः",
+    "lede": "सरलाः चित्रक्रीडाः, परिचिताः चित्राणि, एकत्र आनन्दार्थं क्रियाः — स्वीयया गत्या।",
+    "playGame": "एकां क्रीडां क्रीडतु",
+    "findIdeas": "क्रियाकल्पनाः अन्विष्यतु",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "चलदूरभाष, पट्टिका तथा सङ्गणके कार्यं करोति",
+      "बृहन्ति चित्राणि दृश्यमानानि तिष्ठन्ति",
+      "यदा इच्छा तदा विरमतु; विफलता नास्ति"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "iPhone, iPad तथा Android इत्येतयोः निःशुल्कम् अनुप्रयोगम् अपि, स्वकीयैः परिवारचित्रैः सह",
+    "albumNote": "“चषकस्य द्वे चित्रे, एकत्र।”",
+    "gamesEyebrow": "स्वीये ब्राउज़रे क्रीडतु",
+    "gamesTitle": "अधुना क्रीडितुं शक्याः क्रीडाः",
+    "gamesLede": "प्रत्येका शान्ता, प्रौढोचिता, शीघ्रम् आरब्धुं शक्या। एकां वृणुत, पार्श्वे उपविशत, पर्यायेण स्पर्शं कुरुत।",
+    "seeAllGames": "सर्वाः {count} क्रीडाः पश्यतु",
+    "howTitle": "कथं कार्यं करोति",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "परिचितं किञ्चित् चिनोतु",
+        "text": "चषकानां, उद्यानानां, पशूनां, नौकानां च चित्राणि। पूर्वं पठनं वा नियमाः शिक्षितव्याः न सन्ति।"
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "पार्श्वे उपविशतु",
+        "text": "तान् स्पर्शं कर्तुं ददतु। चित्रेषु सम्भाषतु। असमानं चित्रं अग्रिमस्य स्पर्शस्य प्रतीक्षां करोति।"
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "सुखं यदा अनुभवथ तदा विरमतु",
+        "text": "एका क्रीडा पूर्णा क्रिया अस्ति। “अद्य एतावत्” इति बटनं सर्वदा पटले तिष्ठति।"
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "पटलात् परम्",
+    "stageTitle": "सर्वावस्थायोग्याः क्रियाकल्पनाः",
+    "stageLede": "सङ्गीतं, दैनन्दिनानि कार्याणि, पूर्वस्मृतिः, शान्ताः इन्द्रियानुभवाः — अधुना सुखकरं यत् तदनुसारम्।",
+    "ideas101": "101 क्रियाकल्पनाः",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "प्रारम्भिका अवस्था",
+        "text": "यत् प्रियं तत् अनवरतं कुर्वन्तु, अल्पैः परिवर्तनैः: हॉबी, भ्रमणम्, शब्दक्रीडाः, एकत्र योजना।",
+        "label": "प्रारम्भिकावस्थायाः क्रियाकल्पनाः"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "मध्यमा अवस्था",
+        "text": "सरलानि परिचितानि कार्याणि पदशः विभक्तानि: भञ्जनम्, वर्गीकरणम्, सङ्गीतम्, चित्रक्रीडाः, लघु भ्रमणानि।",
+        "label": "मध्यमावस्थायाः क्रियाकल्पनाः"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "उत्तरावस्था",
+        "text": "स्पर्शेन, ध्वनिना, दर्शनेन सान्त्वनं सम्पर्कश्च: हस्तपरिचर्या, प्रियगीतानि, चित्राणि, सहवासः।",
+        "label": "उत्तरावस्थायाः क्रियाकल्पनाः"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "कस्यचित् विशेषस्य अन्वेषणं? प्रयतस्व <a href=\"/activities/alzheimers/\">आल्त्सहाइमर्स्-रोगस्य क्रियाः तथा क्रीडाः</a>, <a href=\"/activities/memory-games/\">सौम्याः स्मृतिक्रीडाः</a>, <a href=\"/activities/trivia/\">सरलाः प्रश्नक्रीडाः</a> वा <a href=\"/activities/puzzles/\">प्रहेलिकाः</a>।",
+    "approachEyebrow": "अस्माकं दृष्टिकोणः",
+    "approachTitle": "परीक्षा नहि, सहक्रिया",
+    "approachLede": "बहवः “मस्तिष्कक्रीडाः” वेगे, अङ्केषु, क्रमागतविजये निर्मिताः। स्मृतिभ्रंशयुक्तस्य कृते तत् परीक्षेव प्रतीयते। वयं विपरीतम् निर्मितवन्तः।",
+    "approachLink": "वयम् एवं किमर्थं कल्पयामः",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "विफलता नास्ति",
+        "text": "न कालमापकः, न अङ्काः, न जीवनानि, न पराजयः। भिन्नं चित्रं विरामः, न दोषः।"
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "चित्राणि दृश्यमानानि तिष्ठन्ति",
+        "text": "स्मरणात् पूर्वं परिचयः। मेलनं मुखोपरि आरभते, अतः स्मरणीयं किमपि नास्ति।"
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "प्रौढं सगौरवम्",
+        "text": "सौम्याः सरलाः शब्दाः, वास्तविकानि चित्राणि। कदापि कार्टूनानि बालभाषा वा नहि।"
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "स्वभावतः गोपनीयम्",
+        "text": "खातानि विज्ञापनानि वा नहि। भवतः चित्राणि कदापि भवतः यन्त्रात् न बहिर्गच्छन्ति।"
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "परिचारकेभ्यः",
+    "guidesTitle": "दैनन्दिनपरिचर्यायै व्यावहारिकानि मार्गदर्शकानि",
+    "allCaregiving": "सर्वाणि परिचर्यामार्गदर्शकानि",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "एकत्र क्रीडितुं कथम्",
+        "text": "आयोजनं, गतिः, यदा क्रीडा आनन्ददा न भवति तदा किं कर्तव्यम्।"
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "यदा ते क्रियायै निषेधं कुर्वन्ति",
+        "text": "निषेधस्य सामान्यानि कारणानि, पश्चात् पुनः प्रयत्नस्य सौम्या उपायाः।"
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "पट्टिकां स्थापयतु",
+        "text": "बृहत्तरः अक्षरमानम्, न्यूनाः व्याघाताः, एकं सरलं गृहपटलम्।"
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "निःशुल्काः मुद्रणयोग्याः क्रियाः",
+        "text": "बृहदक्षराः शब्दान्वेषणानि, रङ्गपत्राणि, बिङ्गो, सम्भाषणपत्रकाणि च।"
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "मस्तिष्कस्वास्थ्यम्: अनुसन्धानं यथार्थतः किं वदति",
+    "researchText": "स्मृतिभ्रंशः निवारयितुं शक्यते वा? मस्तिष्कक्रीडाः साहाय्यन्ते वा? उपवासः, आहारः, निद्रा, श्रवणं वा? स्पष्टाः, स्रोतसहिताः उत्तराणि, यत्र प्रमाणं दुर्बलं तत्रापि।",
+    "researchLink": "अनुसन्धानमार्गदर्शकान् पठतु",
+    "appEyebrow": "अनुप्रयोगोऽपि",
+    "appTitle": "iPhone, iPad तथा Android इत्येतयोः Golden Moments",
+    "appText": "निःशुल्कः अनुप्रयोगः ऑफ़लाइन कार्यं करोति, भवता चितानि परिवारचित्राणि उपयोक्तुं शक्नोति, यानि भवतः यन्त्रे प्रतिलिपिरूपेण तिष्ठन्ति। सैव शान्ता रचना: चत्वारि बृहन्ति फलकानि, कालमापकः नहि, अङ्काः नहि।",
+    "aboutApp": "अनुप्रयोगविषये",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "स्मृतिभ्रंशयुक्तानां जनानां कृते उत्तमाः क्रीडाः काः?",
+        "a": "उत्तमाः क्रीडाः सरलाः परिचिताः च भवन्ति, दबावरहिताः च: मेलनाय बृहत्-चित्राणि, क्रमीकरणम्, सुगमाः चित्र-प्रहेलिकाः, प्रसिद्धानां वाक्यानां पूरणम्, वर्णलेपनम्, चित्र-बिङ्गो च, संवाद-पत्राणि च। श्रेष्ठः चयनः स एव यः अद्य जनाय रोचते। समयमापकान्, अङ्कान् च परीक्षासदृशं यत् किमपि वर्जयत।"
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "किं स्मृतिभ्रंश-क्रीडाः निःशुल्काः सन्ति?",
+        "a": "आम्। Golden Moments इत्यस्मिन् प्रत्येका क्रीडा मुद्रणयोग्यं पत्रं च निःशुल्कम्, खाता, पञ्जीकरणं वा अवतरणं वा विना। क्रीडाः दूरभाषे, फलके वा सङ्गणके जालब्राउज़रे चलन्ति।"
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "किं मस्तिष्क-क्रीडाः स्मृतिभ्रंशं निवारयन्ति?",
+        "a": "न। कापि क्रीडा स्मृतिभ्रंशं निवारयितुं प्रदर्शिता नास्ति, Golden Moments च कमपि उपचारं वा निवारणं वा दावयति न। अस्माकाः क्रीडाः आनन्दाय सहवासाय च सन्ति। अस्माकं मस्तिष्कस्वास्थ्य-विभागः वदति यत् अनुसन्धानं किं दर्शयति किं न दर्शयति च।"
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "किम् एताः क्रीडाः आल्ट्सहाइमर-रोगयुक्तस्य जनस्य कृते उपयुक्ताः सन्ति?",
+        "a": "आम्। आल्ट्सहाइमर-रोगः स्मृतिभ्रंशस्य सर्वाधिकं सामान्यं कारणम् अस्ति, क्रीडाश्च तदर्थम् एव रचिताः: स्थिरं दृश्यमानानि बृहत्-चित्राणि, अल्पाः विकल्पाः, स्मरणीयं किमपि वा विफलतायाः भयं वा नास्ति। मेलनं, क्रमीकरणं, परिचितवाक्यानां पूरणं च दीर्घकालिकं ज्ञानम् आश्रयति, नूतनम् अधिगमं न।"
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "किं उत्तरावस्थायां स्मृतिभ्रंशयुक्तः जनः एताः क्रियाः कर्तुं शक्नोति?",
+        "a": "प्रायः आम्, समीपे कश्चित् सहचरः सह। आरभत “द्वयोः चित्रयोः समानं सन्धानम्”, “चतुर्भिः फलकैः चित्र-युग्मानि”, वर्णलेपन-पृष्ठं वा शान्तं श्वसन-विरामं वा। क्रीडां लघुं कुरुत, तस्य जनस्य रुचिम् अनुसरत, यदा सः परिश्रान्तः भवति तदा विरमत।"
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "किं मम सूचना गोपनीया अस्ति?",
+        "a": "जालस्थले खाताः वा विज्ञापनानि वा न सन्ति। कानि पृष्ठानि दृश्यन्ते इति अवगन्तुं Google Analytics उपयुज्यते। Photo pairs इत्यत्र भवता चयनितानि फोटो-युग्मानि केवलं भवतः जालब्राउज़रे दृश्यन्ते, कदापि अपलोड्यन्ते न।"
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Golden Moments कः निर्माति?",
+        "a": "Golden Moments इति लघुदलम् अस्ति, यत् कुटुम्बाय परिचारकेभ्यः च जालस्थले तथा निःशुल्कस्य अनुप्रयोगरूपेण शान्ताः प्रौढ-चित्रक्रियाः निर्माति। वयं चिकित्सकाः न स्मः, अत्र किमपि चिकित्सासल्लाहः नास्ति।"
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "आरम्भिका",
+    "middle": "मध्यमा",
+    "late": "उत्तरा",
+    "hintOne": "{list} अवस्थायै प्रायः उपयुक्तम्",
+    "hintMany": "{list} अवस्थाभ्यः प्रायः उपयुक्तम्",
+    "labelEarly": "आरम्भिका अवस्था",
+    "labelMiddle": "मध्यमा अवस्था",
+    "labelLate": "उत्तरा अवस्था"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "अस्याः क्रीडायाः विषये",
+    "printable": "मुद्रणयोग्यम्",
+    "play": "{name} क्रीडत →",
+    "readGuide": "मार्गदर्शिकां पठत"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "सौम्यां क्रीडां कर्तुं सज्जाः किम्?",
+    "text": "बृहत्-चित्राणि, समयमापकं नास्ति, अङ्काः नास्ति, पञ्जीकरणस्य आवश्यकता च नास्ति। भवतः जालब्राउज़रे मिलित्वा क्रीडत।",
+    "play": "क्रीडां कर्तुम् आरभत",
+    "all": "सर्वाः क्रीडाः पश्यत",
+    "aria": "क्रीडां कर्तुम् आरभत"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "एताः क्रीडाः सह नयत",
+    "text": "iPhone, iPad तथा Android-कृते निःशुल्कम् Golden Moments अनुप्रयोगम्: बृहत्-चित्रफलकानि, स्वकुटुम्ब-चित्रैः क्रीडाः, Wi‑Fi विना चलन्तः चित्र-सञ्चयाः च। खाता नास्ति, विज्ञापनं नास्ति, समयमापकं वा अङ्काः वा नास्ति।",
+    "appStore": "App Store इत्यत्र प्राप्नुत",
+    "googlePlay": "Google Play इत्यत्र प्राप्नुत",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "अनुप्रयोगविषये",
+    "aria": "अनुप्रयोगं प्राप्नुत"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "क्रियाकलापाः",
+      "title": "स्मृतिभ्रंशयुक्तानां जनानां कृते क्रियाकलापाः",
+      "seo": "स्मृतिभ्रंशयुक्तानां जनानां कृते क्रियाकलापाः: अवस्थानुसारं विचाराः",
+      "description": "स्मृतिभ्रंशेन जीवतां जनानां कृते प्रत्येकायाम् अवस्थायां क्रियाकलाप-विचाराः: सङ्गीतम्, स्मरणम्, दैनन्दिनकार्याणि, इन्द्रियानुभवाः, शिल्पकर्म, बहिर्वायुसेवनं, निःशुल्कानि मुद्रणपत्राणि च।",
+      "lede": "सार्थकः क्रियाकलापः स एव यः सान्त्वनां, प्रयोजनं वा सम्बन्धस्य क्षणं वा आनयति। यत् जनः सर्वदा रोचितवान् तत्रैव आरभत, अद्यतनरूपेण च समायोजयत।"
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "परिचर्या",
+      "title": "परिचर्या-मार्गदर्शिकाः",
+      "seo": "स्मृतिभ्रंश-परिचर्या-मार्गदर्शिकाः: दैनन्दिनं व्यावहारिकं साहाय्यम्",
+      "description": "स्मृतिभ्रंश-परिचारकेभ्यः व्यावहारिकाः सदयाः मार्गदर्शिकाः: मिलित्वा क्रीडा, संवादः, अस्वीकारः, सायंकालीना अस्वस्थता, टैब्लेट्-यन्त्राणि, अनुप्रयोग-चयनम्, आत्मपरिचर्या च।",
+      "lede": "स्मृतिभ्रंशेन जीवतः जनस्य परिचर्यायाः दैनन्दिनक्षणेषु सरलं व्यावहारिकं साहाय्यम्, स्वपरिचर्यासहितम्।"
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "मस्तिष्कस्वास्थ्यम्",
+      "title": "मस्तिष्कस्वास्थ्यम्: अनुसन्धानं किं वदति",
+      "seo": "मस्तिष्कस्वास्थ्यं स्मृतिभ्रंश-जोखिमश्च: अनुसन्धानं किं वदति",
+      "description": "किं स्मृतिभ्रंशः निवारयितुं शक्यते? स्मृतिभ्रंश-जोखिमकारकाणां, मस्तिष्क-क्रीडानाम्, उपवासस्य, आहारस्य, व्यायामस्य, निद्रायाः, श्रवणस्य आरम्भिकचेतावनीनां च विषये सत्यनिष्ठाः, स्रोतसहिताः मार्गदर्शिकाः।",
+      "lede": "बृहत्-अध्ययनाः स्मृतिभ्रंश-जोखिमं न्यूनीकर्तुं विषये वस्तुतः किं दर्शयन्ति, सरलतया व्याख्यातम्, यत्र प्रमाणं दुर्बलं मिश्रितं वा तत्रापि। सामान्यसूचना, न तु चिकित्सासल्लाहः।"
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "अद्यतनीकृतम्",
+    "minuteRead": "{n} निमेषाणां पठनम्",
+    "byTeam": "Golden Moments दलेन",
+    "howWeWrite": "वयं कथं लिखामः",
+    "shortAnswer": "सङ्क्षिप्तम् उत्तरम्",
+    "onThisPage": "अस्मिन् पृष्ठे ({n} विभागाः)",
+    "commonQuestions": "सामान्यप्रश्नाः",
+    "sources": "स्रोताः",
+    "sourcesNote": "येषां संस्थानां अध्ययनानां च आधारेण अयं पृष्ठः अस्ति, तेषां सम्पर्कं दद्मः। पृष्ठस्य अद्यतनीकरणकाले प्रत्येकं परीक्षितम्।",
+    "tryTogether": "मिलित्वा प्रयत्नं कुरुत",
+    "relatedGuides": "सम्बद्धाः मार्गदर्शिकाः",
+    "related": "सम्बद्धम्",
+    "startHere": "अत्र आरभत"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "स्वास्थ्यसूचना",
+    "title": "सामान्यसूचना, न तु चिकित्सासल्लाहः",
+    "textHtml": "अयं पृष्ठः कुटुम्बेभ्यः प्रकाशितानाम् अनुसन्धानानां सारांशं ददाति। एकस्य जनस्य कृते किं उचितम् इति वक्तुं न शक्नोति। आहारं, व्यायामं, निद्रां, औषधानि वा पूरकद्रव्याणि वा परिवर्तयितुं पूर्वं चिकित्सकेन सह वदत। अकस्मात् भ्रमः वा अन्यः अकस्मात् परिवर्तनः वा भवति चेत् तत्क्षणम् चिकित्सासाहाय्यं लभत। <a href=\"/medical-disclaimer/\">अस्माकं स्वास्थ्यसूचनां पठत</a>।"
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "स्मृतिपरीक्षा न, किन्तु सहभागी क्रिया",
+      "seoTitle": "Golden Moments विषये: अस्माकः दृष्टिकोणः",
+      "description": "Golden Moments क्रीडासु समयमापकं, अङ्काः, शृङ्खलाः च किमर्थं न सन्ति, चित्राणि किमर्थं दृश्यमानानि तिष्ठन्ति, स्मृतिभ्रंशविषये वयं किं दावयामः न दावयामः च।",
+      "crumb": "अस्माकः दृष्टिकोणः",
+      "lede": "Golden Moments सौम्याः प्रौढ-चित्रक्रियाः निर्माति, याः परिचारकः स्मृतिभ्रंशयुक्तः जनश्च पार्श्वे उपविश्य रमेरन्।",
+      "bodyHtml": "<h2>अस्माकं विश्वासः</h2><p>कस्यापि कार्यकलापस्य मुख्यमुद्देश्यं स एव क्षणः—संभाषणम्, मन्दहास्यम्, द्वयोः चित्रयोः संयोजनेन लब्धः संतोषः, अथवा केवलं निकटे उपवेशनम्। अस्योद्देश्यं कस्यापि मापनं, तेषां नोदनं, किमपि प्रमाणीकरणं वा नास्ति।</p><p>मस्तिष्क-प्रशिक्षणस्य बहवः अनुप्रयोगाः वेगं, अंकाङ्कनं, सतताभ्यासं, स्तरांश्च आधृत्य निर्मिताः भवन्ति। स्मृतिलोपेन सह जीवतां जनानां कृते एतत् अनुत्तीर्णायाः परीक्षायाः इव भासेत। वयं तु अस्य विपरीतं विरचितवन्तः, एतेषां नियमानां च पालनं कुर्मः—</p><ul><li><strong>अनुत्तीर्णतायाः भयं नास्ति।</strong> कस्मिन्नपि फलके घटिका, अंकाः, चाल-गणना, जीवाः, अविच्छिन्न-मालाः, उत्सव-पुष्पाणि, अथवा विलोम-गणना न सन्ति।</li><li><strong>स्मरणस्य अपेक्षया प्रत्यभिज्ञा।</strong> चित्राणि सर्वदा दृश्यमानानि एव तिष्ठन्ति। सूचकाः केवलं संवादाय प्रेरयन्ति, न तु कदापि नामानि स्मृतीः वा परीक्षन्ते।</li><li><strong>स्थूलं, सरलं, स्थिरं च।</strong> बृहदक्षराणि बृहन्ति चित्राणि च, सुस्पष्टः वर्णभेदः, नियन्त्रण-कुञ्चिकाः च सर्वदा एकस्मिन्नेव स्थाने तिष्ठन्ति।</li><li><strong>प्रौढ-गौरवम्।</strong> वास्तवालोकस्य चित्राणि सरलाः स्नेहमयाः शब्दाश्च। न कानिचित् व्यङ्ग्यचित्राणि, न बालसुलभं संकीर्तनं, न वा इमोजि-पुरस्काराः।</li><li><strong>सरलः विराममार्गः।</strong> “अद्य एतावदेव पर्याप्तम्” इति सर्वदा दृश्यते। अर्धमार्गे एव विरमणमपि उत्तमः एव परिणामः।</li><li><strong>व्यक्तिगतगोपनीयता।</strong> न कुत्रापि लेखाः, न वा विज्ञापनानि। भवद्भिः चयनितानि चित्राणि भवतां उपकरणे एव सुरक्षितानि तिष्ठन्ति।</li></ul><h2>वयं किं न प्रतिजानीमः</h2><p>अस्माकं क्रीडाः आनन्दाय आत्मीयसंबन्धाय च सन्ति। एताः स्मृतिलोपस्य अथवा अल्ज़ाइमर्-रोगस्य निदानं, परीक्षणं, मापनं, चिकित्सां, मन्दतां, निवारणं वा न कुर्वन्ति, नैव केनापि अस्मात् कारणात् एताः चोतव्याः। यदा वयं स्वस्य <a href=\"/brain-health/\">मस्तिष्कस्वास्थ्य-पृष्ठेषु</a> अनुसन्धानविषये लिखामः, तदा यत्र प्रमाणं दुर्बलं वर्तते तत् वयं स्पष्टतया वदामः, तच्च कदापि अस्माकं क्रीडाभिः सह न संयोजयामः।</p><h2>वयं के स्मः</h2><p>Golden Moments इति लघु स्वतन्त्रं च दलम् अस्ति। वयं वैद्याः न स्मः। अस्माकं मार्गदर्शिकाः National Institute on Aging तथा Alzheimer’s Association सदृशैः संस्थानैः प्रकाशितैः निर्देशैः रचिताः सन्ति, प्रत्येकं मार्गदर्शिका च स्वस्य आधारांशान् निर्दिशति। <a href=\"/editorial-policy/\">वयं कथं स्वपृष्ठानि रचयामः परीक्षामहे च</a> इति पठन्तु।</p><h2>किं साहाय्यकरं भवेत् इति अस्मान् वदन्तु</h2><p>भवतां कृते किं फलप्रदं किञ्च न इति ज्ञातुं वयं सानन्दं प्रतीक्षामहे, विशेषतः स्मृतिलोपेन सह जीवद्भ्यः जनेभ्यः, पारिवारिक-परिचारकेभ्यः, कार्यकलाप-कार्यकर्तृभ्यश्च। अत्र ईमेल् प्रेषयन्तु—<a href=\"mailto:{email}\">{email}</a>।</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "वयं कथं स्वपृष्ठानि रचयामः परीक्षामहे च",
+      "seoTitle": "सम्पादकीयनीतिः",
+      "description": "Golden Moments कथं स्मृतिलोप-क्रियाकलापान् मस्तिष्कस्वास्थ्य-पृष्ठानि च अनुसन्धत्ते, लिखति, आधारांशैः योजयति, नवीकरोति च, किञ्च वयं कदापि न प्रकाशयिष्यामः।",
+      "crumb": "सम्पादकीयनीतिः",
+      "bodyHtml": "<h2>अस्माकम् आधारांशाः</h2><p>अस्माकं मार्गदर्शिकानाम् आधारः National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance तथा NHS इत्यादिभिः संस्थाभिः प्रदत्तानि मार्गदर्शनानि, तथैव Cochrane reviews तथा बृहच्चिकित्सापरीक्षणानां सदृशानि समीक्षितानि अनुसन्धानानि च सन्ति। प्रत्यैका मार्गदर्शिका स्वकीयान् आधारांशान् सूचयति। उद्धरणात् पूर्वं वयं प्रत्येकं मूलग्रन्थं परिशीलामः, यच्च तत्र वस्तुतः उक्तं तदेव केवलं कथयामः।</p><h2>वयं कथं लिखामः</h2><ul><li>व्यावहारिकता प्रथमा—अद्य किं करणीयम् इति सरलभाषायाम्।</li><li>प्रमाणविषये निष्कपटता—यदा यथार्थं भवति तदा वयं “संबद्धम् अस्ति”, “स्यात्”, तथा “प्रमाणानि मिश्रितानि सन्ति” इति वदामः।</li><li>सादरम्—वयं स्मृतिलोपेन सह जीवतां जनानां विषये प्रौढरूपेण लिखामः, कदापि च परीक्षां लज्जां वा जनयन्त्याः भाषायाः प्रयोगं न कुर्मः।</li><li>काल्पनिकं किमपि नास्ति—न काल्पनिकाः सांख्यिकीयाः अंशाः, न वचनानि, न तज्ज्ञाः, न अध्ययनानि, न वा प्रशंसापत्राणि।</li></ul><h2>अस्माकं पृष्ठानां समीक्षकः कः</h2><p>पृष्ठानि Golden Moments दलेन अनुसन्धानार्थं प्रारूपलेखनार्थं च AI-लेखनोपकरणानां साहाय्येन लिखितानि परीक्षितानि च सन्ति। प्रत्येकं पृष्ठं दलेन स्वमूलस्रोतैः सह परीक्ष्यते। अस्माकं पृष्ठानि चिकित्सकेन अन्येन वा वैद्याधिकारिणा <strong>न</strong> परीक्षितानि, वयं तथा न प्रतिजानीमः च। एतानि केवलं सामान्यानि सूचनानि, न तु वैद्यकीयः परामर्शः।</p><h2>वयं कदापि किं न प्रकाशयिष्यामः</h2><ul><li>कापि क्रीडा, आहारः, पोषकद्रव्यं, उपवासः, दिनचर्या वा स्मृतिलोपं निवारयति, उपशमयति, मन्दयति, वा शमयति इति दावान्।</li><li>परीक्षणानि, प्रश्नावल्यः, अंकाः वा ये सूचयन्ति यत् कस्यचित् स्मृतिलोपः अस्ति वा नास्ति वा।</li><li>कस्यचिदपि औषधस्य प्रारम्भं, स्थगनं, परिवर्तनं वा कर्तुं परामर्शम्।</li><li>मार्गदर्शनरूपेण प्रच्छन्नानि विज्ञापनानि प्रायोजितानि वा वस्तूनि।</li></ul><h2>नवीकरणानि संशोधनानि च</h2><p>प्रत्येकं पृष्ठम् अन्तिमनवीकरणस्य दिनाङ्कं दर्शयति। यदि भवन्तः काञ्चित् त्रुटिं कालबाह्यं मूलं वा पश्यन्ति, तर्हि कृपया <a href=\"mailto:{email}\">{email}</a> इत्यत्र ईमेल् प्रेषयन्तु, वयं च तत् शीघ्रं परीक्षामहे।</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "प्रश्नोत्तराणि",
+      "seoTitle": "स्मृतिलोप-क्रीडाः कार्यकलापाश्च: प्रश्नोत्तराणि",
+      "description": "स्मृतिलोप-क्रीडानां कार्यकलापानां च विषये सामान्यानां प्रश्नानाम् उत्तराणि—काः क्रीडाः प्रयोक्तव्याः, कियत्कालं क्रीडनीयम्, अग्रेतन-स्तरे काः योजनाः, मस्तिष्कस्वास्थ्यं, गोपनीयता च।",
+      "crumb": "प्रश्नोत्तराणि",
+      "lede": "परिचारकाः ये प्रश्नान् प्रायशः पृच्छन्ति, तेषां लघूनि सरलानि च उत्तराणि।",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "क्रीडाविषये",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "स्मृतिलोपेन सह जीवतः जनस्य कृते काः उत्तमाः क्रीडाः?",
+              "a": "उत्तमाः क्रीडाः परिचिताः, सरलाः, दबावरहिताश्च भवन्ति; यां च जनः अद्य रोचयते, सैव योग्या क्रीडा। दृश्यमानैः चित्रैः सह चित्रमेलम्, वर्गीकरणम्, सरलाः खण्डसंयोजनक्रीडाः, परिचितलोकोक्तीनां पूर्तिः, चित्राङ्कनं, चित्र-बिङ्गो च बहूनां कृते उपयुक्ताः भवन्ति। समयमापकान्, अङ्कान्, यच्च परीक्षा इव भासते तत् सर्वं परिहरन्तु।"
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "किम् एताः क्रीडाः वस्तुतः निःशुल्काः सन्ति?",
+              "a": "आम्। सर्वाणि क्रीडाः मुद्रणयोग्यानि च निःशुल्कानि सन्ति। कोऽपि खातं, पञ्जीकरणं, डाउनलोड वा विज्ञापनं नास्ति।"
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "अङ्काः, स्तराः वा समयनियामकाः किमर्थं न सन्ति?",
+              "a": "वेगः अङ्काश्च सुखदं कार्यं परीक्षा इव कुर्वन्ति, येन लज्जा वा असन्तोषः भवेत्। अतः वयं आनन्दे समयसहवासे च ध्यानं दद्मः। तत्र विफलता नास्ति, यदा इच्छा तदा विरमितुं शक्यते।"
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "कीदृशानि यन्त्राणि उत्तमानि सन्ति?",
+              "a": "आधुनिक ब्राउज़रयुक्तः कोऽपि दूरभाषः, फलकयन्त्रं वा सङ्गणकः। मेजोपरि स्थापके स्थितं फलकयन्त्रं प्रायः द्वयोः पार्श्वे उपविश्य क्रीडितुं सुखदम्। समूहाय दूरदर्शनेन सह संयोजितः सङ्गणकः उत्तमः।"
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "किं वयं स्वकीयैः कुटुम्बचित्रैः क्रीडितुं शक्नुमः?",
+              "a": "आम्। ‘चित्रयुग्मानि’ इत्यत्र भवद्भिः चितानि २ तः ६ चित्राणि मेलनक्रीडायै परिवर्तन्ते। चित्राणि भवतः ब्राउज़रे एव तिष्ठन्ति, न प्रेष्यन्ते न च सञ्चीयन्ते।"
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "क्रियाकलापाः परिचर्या च",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "क्रियाकलापः कियत्कालं चलेत्?",
+              "a": "प्रायः १० तः २० निमेषाः पर्याप्ताः, कदाचित् २ निमेषाः अपि सफलता। श्रान्तेः वा असन्तोषस्य लक्षणानि पश्यत, यदा सुखं भवति तदा विरमत। सम्यक् कालः नास्ति।"
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "यदि ते कस्मिंश्चित् क्रियाकलापे भागं ग्रहीतुं न इच्छन्ति तर्हि किम्?",
+              "a": "तेषां निषेधम् आदरयत, पश्चात् अन्यथा वा पुनः प्रयतत। अनिच्छा श्रान्त्या, वेदनया, अनिश्चयेन वा केवलं रुचेरभावेन वा भवति। ‘यदा ते ना वदन्ति’ इति मार्गदर्शिकां पश्यत।"
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "उत्तरावस्थायाः स्मृतिभ्रंशाय कीदृशाः क्रियाकलापाः उचिताः?",
+              "a": "सान्त्वनं इन्द्रियसुखं च: प्रियसङ्गीतश्रवणम्, लेपेन हस्तमर्दनम्, एकत्र चित्रावलोकनम्, मृदु कम्बलधारणम्, बहिः उपवेशनम्, अथवा समीपे कस्यचित् सह अतिसरलः चित्रक्रीडा। उत्तरावस्थामार्गदर्शिकायां बहवः अन्ये विचाराः सन्ति।"
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "परिचर्यागृहेषु समूहक्रियाकलापाः सन्ति किम्?",
+              "a": "आम्। ‘चित्र-बिङ्गो’ इत्यत्र मुद्रणयोग्यानि पत्राणि पटले आह्वानकश्च अस्ति। ‘वाक्यं पूरयत’ तथा ‘सम्भाषणपत्राणि’ उच्चैः पठितुं सुखदानि। समूहसङ्ख्या, आसनव्यवस्था, भिन्नसामर्थ्ययुक्तानां अनुकूलनं च अस्माकं समूहमार्गदर्शिकायां वर्तते।"
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "मस्तिष्कस्वास्थ्यम्",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "क्रीडाः स्मृतिभ्रंशं निवारयितुं मन्दयितुं वा शक्नुवन्ति किम्?",
+              "a": "कोऽपि क्रीडा स्मृतिभ्रंशं निवारयति इति न दर्शितम्, अस्माकं क्रीडासु तादृशः दावा नास्ति। सामाजिके परिवेशे मानसिक-उत्तेजनायाः अल्पलाभाः शोधेषु मृदु-मध्यम-स्मृतिभ्रंशयुक्तानां जनानां कृते दृष्टाः। किन्तु तत् रोगं निवारयितुं क्रीडायाः भिन्नम्। वयं आनन्दाय सम्पर्काय च क्रीडाः प्रददामः।"
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "स्मृतिभ्रंशः निवारयितुं शक्यते किम्?",
+              "a": "निश्चयेन न। शोधाः स्वास्थ्यजीवनशैलीकारकान् १४ कारणान् स्मृतिभ्रंशजोखिमेन सह सम्बद्धान् दर्शयन्ति, यथा श्रवणह्रासः, उच्चरक्तचापः, शारीरिकनिष्क्रियता, सामाजिकैकाकीपनं च। एतेषां सम्बोधनं केषाञ्चित् जनानां जोखिमं न्यूनीकर्तुं शक्नोति, परन्तु सर्वं यथावत् कुर्वन्तोऽपि बहवः स्मृतिभ्रंशं प्राप्नुवन्ति। कस्यापि दोषः नास्ति।"
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "अन्तरालीय-उपवासः मस्तिष्कस्वास्थ्याय हितकरः किम्?",
+              "a": "मानवेषु प्रमाणं सीमितं प्रारम्भिकं च, शोधस्य बहुभागः पशुषु अस्ति। उपवासः वृद्धानां कृते विपज्जनकः भवितुं शक्नोति, विशेषतः मधुमेहौषधैः अथवा अनभिप्रेतभारहान्या सह, अतः स्मृतिभ्रंशयुक्तानां कृते न सूचितः। भोजनक्रमं परिवर्तयितुं पूर्वं चिकित्सकेन सह वदत।"
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "गोपनीयता सुरक्षा च",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "भवन्तः किमपि सूचनां सङ्गृह्णन्ति किम्?",
+              "a": "न खातानि, न विज्ञापनानि। दर्शनसङ्ख्यां गणयितुं कानि पृष्ठानि सहायकानि इति ज्ञातुं Google Analytics उपयुज्यते। भवतः ब्राउज़रः स्मरति यत् मृदुध्वनयः चालिताः वा न। ‘चित्रयुग्मानि’ कृते चितानि चित्राणि कदापि न प्रेष्यन्ते। विवरणार्थं गोपनीयताविज्ञप्तिं पश्यत।"
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "किम् एतत् चिकित्साविषयकं परामर्शः?",
+              "a": "न। Golden Moments मनोरञ्जनाय सामान्यसूचनायै च अस्ति। स्वास्थ्यप्रश्नेषु चिकित्सकेन सह वदत, आपत्कालीने तु ११२ इत्यत्र आह्वयत।"
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "अधिकं विवरणम्: <a href=\"/caregiving/how-to-play-together/\">सह क्रीडनविधिः</a>, <a href=\"/caregiving/when-they-say-no/\">यदा ते ना वदन्ति</a>, <a href=\"/activities/late-stage/\">उत्तरावस्थाक्रियाकलापाः</a> तथा <a href=\"/brain-health/can-dementia-be-prevented/\">किं स्मृतिभ्रंशः निवारयितुं शक्यते?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "निःशुल्काः सौम्याः क्रीडाः स्मृतिभ्रंशयुक्तानां जनानां कृते",
+      "seoTitle": "मुद्रणयोग्यं पत्रकम्: निःशुल्काः स्मृतिभ्रंशक्रीडाः ऑनलाइन",
+      "description": "कुटुम्बाय परिचारकेभ्यश्च एकपृष्ठीयं मुद्रणयोग्यं पत्रकम्, निःशुल्काः सौम्याः चित्रक्रीडाः स्मृतिभ्रंशयुक्तानां जनानां कृते, साहाय्यसमूहेभ्यः परिचर्यापुटेभ्यश्च।",
+      "crumb": "मुद्रणयोग्यं पत्रकम्",
+      "lede": "साहाय्यसमूहाय, परिचर्यापुटाय अथवा शीतकपाटद्वारे लगितुं इदं पृष्ठं मुद्रयत। ब्राउज़रस्य ‘मुद्रण’ आदेशं प्रयुङ्क्त; मुद्रणे मेनू तथा बटनानि न भवन्ति।",
+      "introHtml": "<p>बृहत् चित्राणि, सरलाः शब्दाः, विफलतायाः अभावः। दूरभाषे, फलकयन्त्रे अथवा सङ्गणके निःशुल्कम्, न खातं, न विज्ञापनानि, न समयनियामकाः, न अङ्काः। पार्श्वे उपविश्य पालीक्रमेण क्रीडत।</p>",
+      "gamesTitle": "एकत्र प्रयत्नार्हाः क्रीडाः",
+      "restHtml": "<h2>कतिपयाः सूचनाः</h2><ul><li>दिनस्य तं समयं चिनुत यदा व्यक्तिः श्रेष्ठा भवति।</li><li>सरलतमविकल्पेन आरभत। चत्वारि फलकानि पर्याप्तानि।</li><li>चित्रेषु विषये वदत। सम्भाषणं प्रायः श्रेष्ठः भागः भवति।</li><li>सुखदं यावत् तिष्ठत, यदा विरमत। शीघ्रं समाप्तिः अपि शुभफलम्।</li></ul><h2>स्थले अन्यदपि</h2><ul><li>निःशुल्काः मुद्रणयोग्याः: बृहन्मुद्रणशब्दान्वेषणम्, वर्णचित्राणि, सम्भाषणपत्राणि तथा चित्र-बिङ्गो।</li><li>सर्वेषु चरणेषु क्रियाकलापविचाराः, तथा एकत्र क्रीडने व स्वपरिचर्यायाः मार्गदर्शिकाः।</li></ul><p class=\"muted\">आनन्दाय समययापनाय च। न चिकित्साविषयकं परामर्शः, परीक्षा वा चिकित्सा वा। Golden Moments प्रकाशयति Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "परिचर्यागृहेभ्यः, पुस्तकालयेभ्यः साहाय्यसमूहेभ्यश्च",
+      "seoTitle": "परिचर्यागृहेभ्यः समूहेभ्यश्च निःशुल्काः स्मृतिसम्बद्धाः क्रियाकलापाः",
+      "description": "परिचर्यागृहाणि, प्रौढदिवाकार्यक्रमाः, ग्रन्थालयाः, वार्धक्यसहायता-संस्थाः, समर्थकसमूहाश्च कथम् अस्माकं निःशुल्क-स्मृतिक्रीडानाम् उपयोगं कुर्वन्ति, तथा च स्वसाधनसूच्याम् अस्मान् योजयितुं विवरणम्।",
+      "crumb": "संस्थाभ्यः",
+      "lede": "अस्मिन् जालगृहे विद्यमानं सर्वमपि आवासिभिः, सदस्यैः, ग्राहकैश्च सह उपयोक्तुं निःशुल्कम् अस्ति, यत्र न तु कश्चन वृत्तान्तः, न अनुज्ञापत्रं, न वा किमपि शुल्कम् अपेक्ष्यते। अत्र किं वर्तते, कथं च अस्य संविभागः करणीयः इति अस्मिन् पृष्ठे विवृतम्।",
+      "shortText": "{name}: स्मृतिभ्रंशेन सह जीवतां जनानां तेषां परिचारकाणां च कृते निःशुल्काः, सहजाः चित्रक्रीडाः क्रियाकलापमार्गदर्शिकाश्च। न पञ्जीकरणम्, न समयसीमा, न च अङ्काः।",
+      "longText": "{name} ({domain}) स्मृतिभ्रंशेन सह जीवतां जनानां कृते निर्मिताः {count} निःशुल्काः जालक्रीडाः प्रस्तौति, यासु दृश्यमानचित्रैः सह युगलमेलनम्, सरलं खण्डचित्रमेलनम्, वर्गीकरणम्, परिचिताः सूक्तयः, मुद्रणयोग्यपत्रैः सह चित्र-बिङ्गो च समाविष्टानि सन्ति। अत्र न कोऽपि वृत्तान्तः, न विज्ञापनम्, न समयमापकम्, न वा अङ्काः सन्ति। अस्मिन् जालगृहे स्मृतिभ्रंशस्य प्रत्येकचरणस्य कृते सरलभाषायां रचिताः क्रियाकलापमार्गदर्शिकाः अपि सन्ति, यासु National Institute on Aging तथा Alzheimer's Association इत्येतयोः आधारः गृहीतः अस्ति।",
+      "useTitle": "संस्थाः यस्य उपयोगं कर्तुं शक्नुवन्ति",
+      "gamesItemHtml": "<strong>{count} जालक्रीडाः</strong> याः अङ्कगणके, पट्टिकागणके अथवा सङ्गणकेन सह योजिते दूरदर्शने चलन्ति। न संस्थापनम्, न वृत्तान्तः, न वा अवतरणम्। <a href=\"/games/\">सर्वाः क्रीडाः</a> पश्यन्तु।",
+      "printablesLabel": "{count} मुद्रणयोग्यानि साधनानि:",
+      "printablesAfter": "प्रत्येकस्मिन् पृष्ठे मुद्रण-कुञ्जीं प्रयुञ्जन्तु।",
+      "moreItemsHtml": "<li><strong>सामूहिकरूपाणि:</strong> <a href=\"/games/picture-bingo/\">चित्र-बिङ्गो</a> इत्यस्मिन् मुद्रणयोग्यानि पत्राणि फलके दृश्यमानः उद्घोषकश्च सन्ति, तथा च <a href=\"/activities/trivia/\">सरलप्रश्नोत्तरी</a> इत्यस्याम् उत्तरविकल्पैः सम्भाषणबिन्दुभिः च सह 50 प्रश्नाः सन्ति।</li><li><strong>क्रियाकलापमार्गदर्शिकाः</strong> कर्मचारिभ्यः कुटुम्बेभ्यश्च, चरणानुसारं प्रकारानुसारं च, सप्रमाणं सरलभाषायां लिखिताः। <a href=\"/activities/ideas/\">101 क्रियाकलापविचाराः</a> अथवा <a href=\"/activities/care-home-groups/\">परिचर्यागृहाणां सामूहिकक्रियाकलापाः</a> इत्यस्मात् आरभन्ताम्।</li>",
+      "restHtml": "<h2>कथं समूहाः अस्योपयोगं कुर्वन्ति</h2><ul><li><strong>परिचर्यागृहाणि स्मृतिकक्ष्याश्च:</strong> सामान्यकक्ष्यस्य दूरदर्शने चित्र-बिङ्गो अथवा सूक्तिपूर्तिः, यत्र एकः जनः समग्रसमूहस्य कृते स्पर्शं करोति।</li><li><strong>प्रौढदिवाकार्यक्रमाः:</strong> चतुर्षु फलकेषु व्यवस्थिता चित्रयुगलानां क्रीडा, लघूनां वैयक्तिकसत्राणां कृते पट्टिकागणकस्थाने।</li><li><strong>सार्वजनिकग्रन्थालयाः:</strong> स्मृतिपेटिकासु मुद्रिताः शब्दशोधकाः सम्भाषणपत्राणि च, ग्रन्थालयस्य पट्टिकागणकेषु च अस्य जालस्थलस्य सञ्चितलिङ्काः।</li><li><strong>परिचारकसमर्थकसमूहाः स्मृतिकफे-केन्द्राणि च:</strong> कुटुम्बानां गृहं नेतुं <a href=\"/handout/\">एकपृष्ठीयं मुद्रणयोग्यं पत्रकम्</a>।</li><li><strong>चिकित्सालयाः विसर्जनयोजकाश्च:</strong> गृहे शय्यापार्श्वे वा शान्तिपूर्णक्रियाकलापाय परिचारकसम्पुटे तत् पत्रकम्।</li></ul><h2>वयं किं न कुर्मः</h2><p>एताः क्रीडाः आनन्दाय सहवाससमययापनाय च सन्ति। एताः स्मृतिभ्रंशस्य निदानं, परीक्षणं, मापनं, चिकित्सां वा तस्य गतिमन्दतां वा न कुर्वन्ति, तथा च संस्थाभ्यः अस्माकं निवेदनम् अस्ति यत् ताः एतादृशं वर्णनं न कुर्युः। अत्र न कानिचिद् विज्ञापनानि सन्ति, क्रीडासु च नामानि, स्वास्थ्यविवरणं, छायाचित्राणि वा उपारोपयितुं न याच्यते। आगन्तुकगणनायै इदं जालगृहं Google Analytics इत्यस्य उपयोगं करोति; अस्माकं <a href=\"/privacy/\">गोपनीयतासूचना</a> विवृणोति यत् तत् किं सङ्गृह्णाति। <a href=\"/games/photo-pairs/\">Photo pairs</a> इत्यत्र प्रयुक्तानि चित्राणि जालदर्शके एव तिष्ठन्ति।</p><h2>स्वसाधनसूच्याम् अस्मान् योजयन्तु</h2><p>यदि भवन्तः परिचारकाणां कृते साधनसूचीं धारयन्ति, तर्हि <a href=\"/\">{domain}</a> इत्यस्य सम्पर्कतन्तुं योजयितुं स्वागताः सन्ति। भवन्तः द्वयोः विवरणयोः यत्किञ्चिद् अनुलेखितुं शक्नुवन्ति।</p>",
+      "shortTitle": "संक्षिप्तं विवरणम्",
+      "longTitle": "विस्तृतं विवरणम्",
+      "linksHtml": "<p>साक्षात् सम्बन्धीकर्तुं पृष्ठानि: <a href=\"/games/\">निःशुल्कक्रीडाः</a>, <a href=\"/activities/printable/\">निःशुल्कमुद्रणयोग्यानि साधनानि</a>, <a href=\"/activities/alzheimers/\">Alzheimer's इत्यस्य कृते क्रियाकलापाः</a>, <a href=\"/caregiving/how-to-play-together/\">कथं सह क्रीडितव्यम्</a> च।</p><h2>प्रश्नाः संशोधनानि वा</h2><p>यदि जालस्थाने किमपि अशुद्धम् अस्पष्टं वा अस्ति, अथवा आवासिनः आवश्यकताः अत्रत्यानां द्वारा पूर्णाः न भवन्ति, तर्हि कृपया अस्मान् <a href=\"mailto:{email}\">{email}</a> इत्यत्र सूचयन्तु। कृपया आवासिनां ग्राहकाणां वा वैयक्तिकं स्वास्थ्यसम्बद्धं वा विवरणं मा प्रेषयन्तु।</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments अनुप्रयोगः",
+      "seoTitle": "iPhone तथा Android इत्यनयोः कृते Golden Moments अनुप्रयोगः",
+      "description": "निःशुल्कः Golden Moments अनुप्रयोगः: चतुर्भिः बृहत्फलकैः सह सुखदं छायाचित्रमेलनम्, भवतां यन्त्रे एव सुरक्षितानि पारिवारिकचित्राणि, अन्तर्जालं विना अपि उपलभ्यानि चित्रसङ्ग्रहाणि, न कोऽपि वृत्तान्तः।",
+      "crumb": "अनुप्रयोगः",
+      "lede": "जालस्थलस्य यद्यद् भवद्भ्यः रोचते तत्सर्वम्, अन्तर्जालं विना अपि कार्यरते अस्मिन् अनुप्रयोगे, यत्र भवद्भिः चितानां कौटुम्बिकचित्राणाम् उपयोगः कर्तुं शक्यते।",
+      "worksOn": "{platforms} ({requirements}) इत्यत्र कार्यं करोति।",
+      "bodyHtml": "<h2>सरलेन आरभताम्</h2><p>चत्वारि बृहन्ति फलकानि परिचितचित्रैः सह आरभताम्। चित्राणि दृश्यानि स्थापयतु, अथवा सुखकरं चेत् तानि गोपयतु। मृदुविधौ कालमापकः, अङ्कः अथवा दण्डः नास्ति। ४, ६, ८ अथवा १२ फलकानि चिनोतु।</p><h2>व्यक्तिगतं कुरुत</h2><p>यन्त्रस्य चित्रचयनसाधनेन कुटुम्बचित्राणि चिनोतु। अनुप्रयोगः स्वकार्याणां कृते लघुप्रतिलिपीः रक्षति। सः भवतः चित्रसंग्रहं न अन्विष्यति, मूलचित्राणि न परिवर्तयति, एकस्मिन् सङ्ग्रहे चतुर्विंशतिः चित्राणि यावत् धारयति।</p><h2>सहैव पश्यन्तु</h2><p>एकदा एकं चित्रं पश्यन्तु। ऐच्छिकाः प्रश्नाः सम्भाषणाय आमन्त्रयन्ति, किन्तु कस्मैचित् नामानि स्मर्तुं वा सम्यक् उत्तरं दातुं न याचन्ते। केवलं दर्शनम् अपि पर्याप्तम्।</p><h2>यत्र आवश्यकं तत्र विना जालम्</h2><p>आरम्भचित्राणि सर्वे अष्ट चित्रसंग्रहाश्च अनुप्रयोगेन सह समाविष्टाः सन्ति। आयातितानां चित्रप्रतिलिपीनां उपयोगः विना जालं सम्भवति। केवलं iCloud-मध्ये सञ्चितानां मूलचित्राणां चयनाय जालसंयोगः आवश्यकः स्यात्।</p><h2>न खाता, न चित्रसमकालन-सेवा</h2><p>कुटुम्बचित्रप्रतिलिपयः यन्त्रे अनुप्रयोगे एव तिष्ठन्ति। मूलचित्राणि अविनष्टानि रक्षित्वा प्रतिलिपीः हर्तुं शक्यते। यन्त्रस्य प्रतिलिप्यः अनुप्रयोगदत्तानि आँकडानि अपि धारयेयुः। <a href=\"/app-privacy/\">अनुप्रयोगस्य गोपनीयतानीतिः</a> पठतु, तथा <a href=\"/help/\">अनुप्रयोगसाहाय्यम्</a> प्रत्येकं पदं मार्गदर्शयति।</p>",
+      "disclaimer": "Golden Moments केवलं विनोदाय परस्परसम्भाषणाय च अस्ति। स्मृतिभ्रंशं वा अल्झाइमर-रोगं वा न निदाति, न चिकित्सति, न निवारयति, न मापयति।",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "निःशुल्काः स्मृतिभ्रंश तथा अल्झाइमर-क्रीडाः अन्तर्जाले",
+    "description": "वृद्धानां कृते स्मृतिभ्रंशेन वा अल्झाइमर-रोगेण पीडितानां कृते निःशुल्काः अन्तर्जालक्रीडाः: चित्रमेलनम्, सरलाः प्रहेलिकाः, वर्गीकरणम्, लोकोक्तयः, वर्णलेपनम्, बिङ्गो। पञ्जीकरणं नास्ति, कालमापकाः अङ्काः वा न सन्ति।",
+    "crumb": "क्रीडाः",
+    "h1": "स्मृतिभ्रंशयुक्तानां जनानां कृते मृदवः क्रीडाः",
+    "lede": "{count} निःशुल्काः क्रीडाः भवतः अन्तर्जालविहारके सह क्रीडितुम्। बृहत् चित्राणि, सरलाः शब्दाः, विफलतायाः अवसरः नास्ति: कालमापकः नास्ति, अङ्काः नास्ति, पञ्जीकरणं नास्ति।",
+    "listName": "स्मृतिभ्रंशयुक्तानां जनानां कृते मृदवः क्रीडाः",
+    "byStageTitle": "अवस्थानुसारं क्रीडा-चयनम्",
+    "byStageLede": "अवस्थाः केवलं स्थूलमार्गदर्शिका सन्ति। यः व्यक्तिः रोचते यच्च अद्य सुखकरं भवति, तदनुसरतु।",
+    "stageCol": "अवस्था",
+    "gamesCol": "प्रायः उपयुक्ताः क्रीडाः",
+    "moreHtml": "पर्दात् दूरे अधिकाः कल्पनाः: <a href=\"/activities/ideas/\">स्मृतिभ्रंशयुक्तानां जनानां कृते एकशतम् एकम् क्रियाकलापाः</a>, <a href=\"/activities/alzheimers/\">अल्झाइमर-रोगस्य क्रियाकलापाः क्रीडाश्च</a>, <a href=\"/activities/memory-games/\">मृदवः स्मृतिक्रीडाः</a> तथा <a href=\"/activities/puzzles/\">प्रहेलिकाः</a>।",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "कां क्रीडां प्रथमं आरभामहे?",
+        "a": "चत्वारि फलकानि सहितानि चित्रयुग्मानि शान्तं प्रथमं चयनम् अस्ति। यदि चित्रेषु चयनं भारः इव भवति, तर्हि द्वाभ्यां चित्राभ्यां ‘समानं चित्रं विन्दतु’ इति प्रयतस्व। समूहार्थं चित्रबिङ्गो प्रयतस्व।"
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "किं क्रीडाः आइपैड् अथवा दूरभाषे कार्यं कुर्वन्ति?",
+        "a": "आम्। प्रत्येकं क्रीडा दूरभाष, पट्टिका तथा सङ्गणके जालविहारके कार्यं करोति, चित्राणि च पर्दां पूरयन्ति। स्थापके स्थिता पट्टिका प्रायः द्वयोः जनयोः कृते सर्वाधिकं सुखकरा भवति।"
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "किम् एताः क्रीडाः अल्झाइमर-रोगयुक्तस्य व्यक्तेः कृते उत्तमाः सन्ति?",
+        "a": "आम्। एताः स्मृतिभ्रंशेन सह जीवतां जनानां कृते, अल्झाइमर-रोगेऽपि, यः सर्वाधिकं प्रचलितः हेतुः अस्ति, निर्मिताः सन्ति। चित्राणि दृश्यमानानि तिष्ठन्ति, विकल्पाः अल्पाः सन्ति, कालः अङ्काश्च न गण्यन्ते; अतः क्रीडाः नवीनस्मरणात् परिचितवस्तूनां पहिचानं प्रति झुकन्ति।"
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "किम् एताः वृद्धानां कृते स्मृतिक्रीडाः सन्ति?",
+        "a": "एताः मेलनक्रीडाः चित्रक्रीडाश्च सन्ति, याः कोऽपि वृद्धः रोचयितुं शक्नोति, किन्तु स्मृतिं परीक्षितुं न निर्मिताः। चित्रयुग्मक्रीडायां चित्राणि भवतः इच्छाविना अन्यथा कृते सति दृश्यमानानि तिष्ठन्ति। स्मृतिभ्रंशयुक्तानां वृद्धानां कृते स्मृतिक्रीडानां मार्गदर्शिका कथयति यत् कीदृशीमपि स्मृतिक्रीडां मृदु कर्तुं शक्यते।"
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "किम् परिचर्यागृहे समूहार्थं क्रीडाः सन्ति?",
+        "a": "आम्। चित्रबिङ्गो मुद्रणयोग्यानि पत्राणि तथा पर्दे आह्वानकर्ता च धारयति। ‘लोकोक्तिं पूरयतु’ तथा ‘सम्भाषणपत्राणि’ समूहाय उच्चैः पठितुं उत्तमानि सन्ति।"
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad तथा Android",
+    "requirements": "iOS 15 अथवा ततः परम्; Android 7.0 अथवा ततः परम्",
+    "summary": "iPhone, iPad तथा Android-कृते निःशुल्कः अनुप्रयोगः, यत्र बृहत्सु चतुर्षु द्वादशपर्यन्तेषु फलकेषु मृदु चित्रमेलनम्, भवतः चयनितैः कुटुम्बचित्रैः मेलनं दर्शनं च, तथा विना जालं कार्यकारिणः अष्ट चित्रसंग्रहाः सन्ति। खाता, विज्ञापनं, कालमापकः अथवा अङ्काः नास्ति।",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "४, ६, ८ अथवा १२ बृहत्फलकैः मृदु चित्रमेलनम्; चित्राणि भवतः इच्छाविना दृश्यमानानि तिष्ठन्ति",
+      "भवतः चयनितानि कुटुम्बचित्राणि मेलनाय तथा एकत्र दर्शनाय अनुप्रयोगे प्रतिलिप्यन्ते",
+      "एकत्र पश्यन्तु: एकदा एकं चित्रम्, ऐच्छिकैः सम्भाषणप्रश्नैः सह",
+      "अनुप्रयोगेन सह अष्ट चित्रसंग्रहाः समाविष्टाः; विना जालं कार्यकारिणः",
+      "खाता नास्ति, विज्ञापनं नास्ति, अन्तःक्रयः नास्ति, कालमापकः नास्ति, अङ्कः अथवा दण्डः नास्ति"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "किम् स्मृतिभ्रंशक्रियाकलापानाम् अनुप्रयोगः अस्ति?",
+        "a": "आम्। Golden Moments (“{storeName}” इति सूचीकृतम्) App Store तथा Google Play इत्यत्र निःशुल्कम् अस्ति। अस्मिन् बृहत्फलकैः मृदु चित्रमेलनं, भवतः चयनितैः कुटुम्बचित्रैः क्रीडाः, तथा विना जालं कार्यकारिणः चित्रसंग्रहाः सन्ति।"
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "किं Golden Moments अनुप्रयोगः निःशुल्कः अस्ति?",
+        "a": "आम्। अवतरणं निःशुल्कम्; विज्ञापनं, खाता अथवा अन्तःक्रयाः न सन्ति।"
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "किम् अनुप्रयोगः जालं विना कार्यं करोति?",
+        "a": "आम्। आरम्भचित्राणि सर्वे अष्ट चित्रसंग्रहाश्च अनुप्रयोगेन सह समाविष्टाः सन्ति, कुटुम्बचित्राणि च प्रतिलिप्य अनुप्रयोगे स्थापितानि चेत् विना जालं कार्यं कुर्वन्ति। केवलं iCloud-मध्ये सञ्चितं चित्रं चिनोतु चेत् जालसंयोगः आवश्यकः स्यात्।"
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "किं वयं स्वकीयानि कुटुम्बचित्राणि उपयोक्तुं शक्नुमः?",
+        "a": "आम्। भवतः उपकरणस्य चित्र-चयनकेन चित्राणि चिनोतु। अनुप्रयोगः क्रीडार्थं लघुप्रतिलिपीः उपकरणे रक्षति, ताः न अपलोडयति, मूलचित्राणि च कदापि न परिवर्तयति। यदा इच्छा तदा प्रतिलिपीः निष्कासयितुं शक्यते।"
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "किम् एषः मस्तिष्क-प्रशिक्षण-अनुप्रयोगः स्मृति-परीक्षा वा?",
+        "a": "न। Golden Moments आनन्दार्थं परस्परं समययापनार्थं च अस्ति। अत्र अङ्काः परीक्षाः वा नास्ति, न च स्मृतिभ्रंशस्य वा अल्जाइमर्-रोगस्य निदानं, चिकित्सा, निवारणं वा मापनं वा करोति।"
       },
       {
-        "q": "Which devices does it work on?",
-        "a": "{platforms}: {requirements}."
+        "q": "कस्मिन् उपकरणे अयम् अनुप्रयोगः कार्यं करोति?",
+        "a": "{platforms}: {requirements}।"
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "अस्य क्रीडायाः अनुप्रयोग-संस्करणम् अस्ति किम्?",
+      "a": "आम्। iPhone, iPad तथा Android-कृते निःशुल्कः Golden Moments अनुप्रयोगः समानं सौम्यं चित्र-मेलनं प्रदाति, भवता चितानि कौटुम्बिकचित्राणि उपयोक्तुं शक्नोति, ऑफलाइन च कार्यं करोति। खाता, विज्ञापनानि, अङ्काः च न सन्ति।"
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "अस्य क्रीडायाः अनुप्रयोग-संस्करणम् अस्ति किम्?",
+      "a": "अस्य क्रीडायाः नहि। iPhone, iPad तथा Android-कृते निःशुल्कः Golden Moments अनुप्रयोगः सौम्यं चित्र-मेलनं बृहत्-टाइल्सयुक्तं भवता चितानि कौटुम्बिकचित्राणि च प्रदाति, ऑफलाइन च कार्यं करोति। अयं क्रीडा अत्र भवतः ब्राउज़रे निःशुल्का तिष्ठति।"
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: बृहत्, सौम्यानि चित्राणि",
+    "noscript": "अस्य क्रीडायाः कृते ब्राउज़रे JavaScript सक्रियं करणीयम्। नीचे दत्ताः सूचनाः तत् विना अपि उपयुज्यन्ते।",
+    "about": "{name} विषये",
+    "aboutAria": "अस्याः क्रीडायाः विषये",
+    "noTimer": "न समयः, न अङ्काः",
+    "printable": "मुद्रणयोग्यम्",
+    "howTo": "{name} कथं क्रीडितव्यम्",
+    "tips": "सह क्रीडनस्य सूचनाः",
+    "newToPlayingHtml": "स्मृतिभ्रंशयुक्तेन जनेन सह क्रीडने नवीनः किम्? <a href=\"/caregiving/how-to-play-together/\">सह क्रीडनस्य विधयः</a> पठतु, यत्र तस्य रुचिः क्षीणा चेत् किं कर्तव्यम् इत्यपि उक्तम् अस्ति।",
+    "moreAria": "अधिकम् अन्वेष्टुम्",
+    "helpfulGuides": "उपयोगिनः मार्गदर्शकाः",
+    "appTitle": "अनुप्रयोगे क्रीडतु",
+    "appText": "निःशुल्कः Golden Moments अनुप्रयोगः बृहत्-टाइल्सयुक्तं सौम्यं चित्र-मेलनं भवतः स्वकीयानि कौटुम्बिकचित्राणि च प्रदाति, Wi‑Fi विना अपि कार्यं करोति। iPhone, iPad तथा Android।",
+    "photoAppTitle": "चित्राणि सज्जानि रक्षतु",
+    "photoAppText": "निःशुल्के Golden Moments अनुप्रयोगे भवता चितानि चित्राणि पुनः उपयोगाय उपकरणे तिष्ठन्ति, क्रीडाः च Wi‑Fi विना कार्यन्ति। iPhone, iPad तथा Android।",
+    "goodToKnow": "ज्ञातव्यम्",
+    "goodToKnowText": "अयं क्रीडा आनन्दार्थं परस्परं समययापनार्थं च अस्ति। किमपि परीक्षते, न मापयते, न चिकित्सति वा।",
+    "moreGames": "अधिकाः सौम्याः क्रीडाः",
+    "crumb": "क्रीडाः"
   }
 }

@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Bala ka lentswe",
+      "stopReading": "Emisa go bala",
+      "region": "Motshameko",
+      "restart": "Simolola gape",
+      "soundOn": "Modumo o bonolo o bulegile",
+      "soundOff": "Modumo o bonolo o timetse",
+      "done": "Go lekane ka jaana",
+      "feedbackQuestion": "A go thusitse gompieno?",
+      "feedbackYes": "Ee",
+      "feedbackNo": "Nnyaa, ga go a thusa thata",
+      "feedbackThanks": "Re leboga gore o re bolelela."
+    },
+    "tile": {
+      "named": "{name}, lepene {n}",
+      "hidden": "Setshwantsho se se patilweng, lepene {n}",
+      "withState": "{label}, {state}",
+      "matched": "Di tshwana",
+      "selected": "E tlhophilwe",
+      "picture": "Setshwantsho",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Dipeeletso tsotlhe di kopane. Bapa gape kgotsa iphomolele.",
+      "photoPair": "Peeletso ya difoto, mmogo.",
+      "picturePair": "Ditshwantsho tse pedi tsa {name|lower}, mmogo.",
+      "selected": "{name}. Jaanong batla e e tshwanang nayo.",
+      "mismatch": "Tsaya nako ya gago. Tlhola setshwantsho go tswelela.",
+      "mismatchNamed": "{a} le {b}. Tsaya nako ya gago. Tlhola setshwantsho go tswelela."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tlhola setshwantsho, gona o tlhole se se tshwanang nayo.",
+      "guidanceHidden": "Tlhola dilepene di le pedi go di fetolela. Batla tse pedi tse di tshwanang.",
+      "restart": "Ditshwantsho tse dišwa",
+      "sizeLegend": "Dilepene tse kae",
+      "size": {
+        "one": "lepene le le {n}",
+        "other": "dilepene tse {n}"
+      },
+      "viewLegend": "Tsela ya go bapala",
+      "viewShowing": "Ditshwantsho di bonala",
+      "viewHidden": "Ditshwantsho tse di patilweng",
+      "playAgain": "Bapala gape ka ditshwantsho tse dišwa",
+      "talk": "Bua ka ditshwantsho mmogo"
+    },
+    "choose": {
+      "countLegend": "Ditshwantsho tse kae",
+      "count": "{n} tse o ka di tlhophang",
+      "thatOne": "Eo ke {name|lower}. Tsaya nako ya gago."
+    },
+    "findTheSame": {
+      "guidance": "Lebelela setshwantsho se se kwa godimo. Tlhola se se tshwanang se se kwa tlase.",
+      "yes": "Ee, {name|lower} e e tshwanang.",
+      "next": "Setshwantsho se se latelang"
+    },
+    "shadowMatch": {
+      "guidance": "Lebelela moriti o o kwa godimo. Tlhola setshwantsho se se dirang moriti oo.",
+      "yes": "Ee, {name|lower} e dira moriti oo.",
+      "next": "Moriti o o latelang",
+      "shadowAlt": "Moriti o o tshwanetseng go tshwanelwa",
+      "foundAlt": "Moriti wa {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tlhola setshwantsho, gona o tlhole kgetlho e se tshwanetseng go nna mo go yone.",
+      "restart": "Ditshwantsho tse dišwa",
+      "themeLegend": "Setlhogo",
+      "selected": "{name}. Jaanong tlhola kgetlho e e tshwanetseng go nna mo go yone.",
+      "pickFirst": "Tlhola setshwantsho pele, gona o tlhole kgetlho.",
+      "hint": "{name|lower} e ka nna mo kgetlhong ya \"{basket}\". Tlhola kgetlho eo go e beya mo go yone.",
+      "placed": "{name|lower} e mo kgetlhong ya \"{basket}\".",
+      "sorted": "Tsotlhe di beilwe mo go tshwanetseng. Lebelelang dikgetlho mmogo, kgotsa leka setlhogo se sengwe.",
+      "basket": {
+        "one": "Kgetlho ya {basket}, setshwantsho se le {count} mo teng",
+        "other": "Kgetlho ya {basket}, ditshwantsho tse {count} di mo teng"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tlhola karolo e le nngwe, gona o tlhole e nngwe. Di a fetolana.",
+      "restart": "Tsosolosa gape",
+      "pictureLegend": "Setshwantsho",
+      "pictures": {
+        "sailboat": "Sekepe",
+        "house": "Ntlo",
+        "balloon": "Bolone",
+        "sunflower": "Letlhajwa",
+        "lighthouse": "Lebone",
+        "cat": "Katse"
+      },
+      "sizeLegend": "Dikarolo",
+      "size": {
+        "one": "karolo e le {n}",
+        "other": "dikarolo tse {n}"
+      },
+      "pickedUp": "Karolo e tlhomilwe. Jaanong tlhola moo e tshwanetseng go nna gone.",
+      "whole": "{name|lower} e feditse gape. Tlhopha setshwantsho sepe se o se batlang ka nako nngwe le nngwe.",
+      "swapped": {
+        "one": "Di fetotswe. {correct} ya {total} karolo e mo go tshwanetseng.",
+        "other": "Di fetotswe. {correct} ya {total} dikarolo di mo go tshwanetseng."
+      },
+      "guideAlt": "Setshwantsho sotlhe: {name}",
+      "guideText": "Setshwantsho se se bonala jaana fa se feletse.",
+      "piece": "Karolo mo {place}",
+      "pieceInPlace": ", e mo go tshwanetseng",
+      "piecePickedUp": ", e tlhomilwe",
+      "places4": [
+        "godimo ka molema",
+        "godimo ka katlhegelo",
+        "tlase ka molema",
+        "tlase ka katlhegelo"
+      ],
+      "places9": [
+        "godimo ka molema",
+        "godimo bogareng",
+        "godimo ka katlhegelo",
+        "bogareng ka molema",
+        "bogareng",
+        "bogareng ka katlhegelo",
+        "tlase ka molema",
+        "tlase bogareng",
+        "tlase ka katlhegelo"
+      ],
+      "done": "Setshwantsho se feditse gape. Bapala gape kgotsa iphomolele.",
+      "playAgain": "Tsosolosa gape"
+    },
+    "finishTheSaying": {
+      "guidance": "Bala polelo mmogo, gona o tlhole lefoko le le e fedisang.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ee, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" le one o siame. Polelo e e tlwaelegileng e fela ka \"{end}\".",
+      "revealed": "Polelo ke \"{start} {end}.\"",
+      "choicesLabel": "Tlhopha lefoko la mafelelo",
+      "show": "Bontsha mafelelo",
+      "talk": "Bua ka yone: ",
+      "next": "Polelo e e latelang"
+    },
+    "wordSearch": {
+      "guidance": "Mafoko a tsamaya kwa go ya kwa ntlheng kgotsa fa tlase. Tlhola tlhaku ya ntlha ya lefoko, gona o tlhole ya bofelo.",
+      "restart": "Potso e ntšha",
+      "themeLegend": "Setlhogo",
+      "sizeLegend": "Bogolo jwa lekgapetla",
+      "size": {
+        "one": "{n} ka {n} ({words} lefoko)",
+        "other": "{n} ka {n} ({words} mafoko)"
+      },
+      "print": "Tlhatlhosa potso eno",
+      "letterChosen": "Tlhaku {letter} e tlhophilwe. Jaanong tlhola tlhaku ya bofelo ya lefoko.",
+      "found": "{word} e fitlhilwe.",
+      "foundAll": "{word} e fitlhilwe. Ke mafoko otlhe. Bapa gape kgotsa iphomolele.",
+      "tryAgain": "Tsaya nako ya gago. Tlhola tlhaku ya ntlha ya lefoko, gona ya bofelo.",
+      "gridLabel": "Lekgapetla la ditlhaku, mela e {n} e na le ditlhaku tse {n}. Dirisa dinumo tsa go tsamaya go ya ditlhakong tse dingwe.",
+      "cell": "{letter}, mola {row}, kholomo {col}",
+      "cellFound": ", karolo ya lefoko le le fitlhilweng",
+      "wordsHeading": "Mafoko a go batlwa",
+      "wordFound": " (fitlhilwe)",
+      "sheetTitle": "Potso ya mafoko: {theme}",
+      "sheetNote": "Mafoko a tsamaya kwa go ya kwa ntlheng kgotsa fa tlase.",
+      "unavailable": "Lekgapetla la ditlhaku ga le dire sentle puo eno, ka jalo potso ya mafoko ga e fano kwano. Leka motshameko wa ditshwantsho go na le moo."
+    },
+    "coloring": {
+      "guidance": "Tlhola mmala, gona o tlhole karolo ya setshwantsho.",
+      "restart": "Tlosa ditebelo",
+      "cleared": "Letlhaka le tlhaka gape.",
+      "pageLegend": "Letlhaka",
+      "print": "Tlhatlhosa letlhaka le",
+      "colorsLabel": "Ditebelo",
+      "paintChosen": "{paint} e tlhophilwe.",
+      "painted": "{part} e fetogile {paint|lower}.",
+      "artLabel": "{page}, dikarolo tse {count} go tebelwa",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ga e a tebelwa",
+      "paints": {
+        "red": "Khubedu",
+        "orange": "Namune",
+        "yellow": "Serolwana",
+        "green": "Botala",
+        "blue": "Bolou",
+        "purple": "Pepeneng",
+        "pink": "Pinki",
+        "brown": "Mmala wa mosetla",
+        "sky-blue": "Bolou jwa leoto",
+        "cream": "Mašwi",
+        "gray": "Gerei",
+        "white": "Tshweu"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Bala karata ka lentswe le le godimo. Ga go na dikarabo tse di phoso.",
+      "position": "Karata {n} ya {total}",
+      "themeLegend": "Setlhogo",
+      "next": "Karata e e latelang",
+      "previous": "Karata e e fetileng",
+      "print": "Tlhatlhosa dikarata tsotlhe",
+      "sheetTitle": "Dikarata tsa puisano"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tswelela ka go tlhopha difoto tsa gago.",
+      "guidance": "Tlhola foto, gona o tlhole e e tshwanang nayo.",
+      "restart": "Di kopanye gape",
+      "intro": "**Tlhopha difoto tse 2 go ya go tse 6** go tswa mo sedirisong se. Di bonala mo tsamaisong eno fela, mme ga di kgoniwe go romelwa kgotsa go bolokwa.",
+      "choose": "Tlhopha difoto",
+      "chooseDifferent": "Tlhopha difoto tse dingwe",
+      "clear": "Tlosa difoto",
+      "cleared": "Difoto di tlositswe mo letlhakong le.",
+      "atLeastTwo": "Tsweetswee tlhopha difoto tse pedi go feta.",
+      "usingFirst": "Go dirisiwa difoto tse {max} tsa ntlha.",
+      "skipped": {
+        "one": "Faele e le {count} ga se setshwantsho se re ka se bontshang.",
+        "other": "Difaele tse {count} ga se difoto tse re ka di bontshang."
+      },
+      "playAgain": "Bapala gape ka difoto tseno",
+      "empty": "Difoto tsa gago di tla bonala fano, e nngwe le e nngwe makgetlo a mabedi."
+    },
+    "pictureBingo": {
+      "guidance": "Tlhatlhosa dikarata pele. Ke moo o bontshe mmoki yo go mo mogolo kwa o nang le one.",
+      "called": {
+        "one": "{name}. {called} ya {total} setshwantsho se bidiwa.",
+        "other": "{name}. {called} ya {total} ditshwantsho di bidiwa."
+      },
+      "start": "Tlhola \"Setshwantsho se se latelang\" go bitsa setshwantsho sa ntlha.",
+      "restart": "Simolola motshameko o mošwa",
+      "squaresLegend": "Dikhutlhwana mo karateng nngwe le nngwe",
+      "squares": "{n} dikhutlhwana ({side} ka {side})",
+      "cardsLegend": "Dikarata tse kae go tlhatlhosiwa",
+      "cards": {
+        "one": "karata e le {n}",
+        "other": "dikarata tse {n}"
+      },
+      "print": {
+        "one": "Tlhatlhosa karata e le {n} ya bingo",
+        "other": "Tlhatlhosa dikarata tse {n} tsa bingo"
+      },
+      "ready": "Re tla simolola fa o ikemiseditse",
+      "next": "Setshwantsho se se latelang",
+      "allCalled": "Setshwantsho sotlhe se bidiwa",
+      "alreadyCalled": "Se bidiwa pele",
+      "sheetTitle": "Bingo ya ditshwantsho · karata {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hema fa potlokwana e golela, o ntšhe fa e nyenyana. E tla emisa ka boyone morago ga dihema tse thataro.",
+      "paceLegend": "Lebelo",
+      "paceSlow": "Butle (disekene tse 5 ka nngwe)",
+      "paceGentle": "Bonolo (disekene tse 4 ka nngwe)",
+      "ready": "O ka simolola fa o ikutlwa o le gone",
+      "in": "Hema go tsena",
+      "hold": "Itapolose",
+      "out": "Hema go tswa",
+      "start": "Simolola",
+      "stop": "Emisa",
+      "started": "Re simolotse. Hema go tsena fa potlokwana e golela.",
+      "stopped": "Re emisitse.",
+      "finished": "Ke dihema tse thataro tse di butle. Simolola gape fa o rata."
+    }
+  },
+  "pictures": {
+    "teacup": "Kopi ya tee",
+    "kettle": "Kitli",
+    "bread": "Borotho",
+    "frying-pan": "Pane e e nang le lee",
+    "cake": "Keke ya letsatsi la matsalo",
+    "sunflower": "Lebone la letsatsi",
+    "tulip": "Tulipe e e khubelu",
+    "watering-can": "Kene ya go nosetsa",
+    "potted-plant": "Setlhare mo mopotong",
+    "tree": "Setlhare",
+    "bird": "Nonyane mo lekaleng",
+    "butterfly": "Serurubele",
+    "dog": "Ntša",
+    "cat": "Katse",
+    "fish": "Tlhapi ya khauta",
+    "apple": "Apole e e khubelu",
+    "pear": "Pere",
+    "strawberry": "Sitirobheri",
+    "banana": "Panana",
+    "lemon": "Lemone",
+    "cherries": "Dichere",
+    "house": "Ntlo",
+    "lamp": "Lamphe ya tafole",
+    "armchair": "Setulo sa matsogo",
+    "key": "Senotlolo sa kgale",
+    "umbrella": "Kgaretla",
+    "sailboat": "Sekepe",
+    "car": "Koloi ya kgale",
+    "bicycle": "Baesekele",
+    "balloon": "Balone ya moya",
+    "lighthouse": "Tora ya lesedi",
+    "sun": "Letsatsi",
+    "moon": "Kgwedi le dinaledi",
+    "teapot": "Pitsa ya tee",
+    "apple-pie": "Pai ya apole",
+    "honey-jar": "Sekotlo sa dinotshe",
+    "boiled-egg": "Lee mo koping ya lee",
+    "toaster": "Tosta",
+    "cheese": "Karolo ya chisi",
+    "milk-jug": "Jeke ya mashi",
+    "cupcake": "Keke e nnye",
+    "orange": "Lamunu",
+    "grapes": "Setlhopha sa diberi",
+    "watermelon": "Karolo ya mosekisi",
+    "pineapple": "Pinapole",
+    "peach": "Pishi",
+    "rose": "Rose",
+    "daisies": "Dipalesa",
+    "mushroom": "Mosomo",
+    "wheelbarrow": "Kere ya mabili",
+    "birdhouse": "Ntlo ya dinonyane",
+    "cactus": "Kaktase mo mopotong",
+    "acorn": "Ekone",
+    "autumn-leaf": "Letlhare la lehuma",
+    "rabbit": "Sepudu",
+    "duck": "Tuku",
+    "hen": "Kgogo",
+    "sheep": "Nku",
+    "owl": "Setshedi",
+    "ladybird": "Ladibede",
+    "snail": "Kgare",
+    "frog": "Sekgwere",
+    "bee": "Pitse",
+    "clock": "Ura ya mo shelofeng",
+    "vase-of-flowers": "Kgetsi ya dipalesa",
+    "radio": "Rediyo ya kgale",
+    "books": "Dibuka tse di bokelelweng",
+    "candle": "Kandele",
+    "glasses": "Dikhalase tsa go bala",
+    "telephone": "Mogala",
+    "ball-of-wool": "Bolo ya boya",
+    "straw-hat": "Kepe ya letsatsi",
+    "train": "Terene ya mogote",
+    "bus": "Bese",
+    "airplane": "Sefofane",
+    "suitcase": "Sutkeise",
+    "tractor": "Tarekitara",
+    "rowing-boat": "Sekepe sa go rowa",
+    "rainbow": "Mmaroba",
+    "rain-cloud": "Leru la pula",
+    "snowflake": "Letlhapa la lehloa",
+    "kite": "Kaiti",
+    "sunrise": "Letsatsi le tlhaba mo dithabeng"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AEIKLMOSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Dienyo",
+          "words": [
+            "APOLE",
+            "PERE",
+            "LEMONE",
+            "LAMUNU",
+            "DIBERI",
+            "PISHI",
+            "POPAYA",
+            "PANANA",
+            "MANGO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Serala",
+          "words": [
+            "ROSE",
+            "PEO",
+            "MMU",
+            "SERALA",
+            "PITSE",
+            "METSI",
+            "TSHIMO",
+            "TSHEGO",
+            "NOKA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kichene",
+          "words": [
+            "KOPI",
+            "SEPONE",
+            "PANE",
+            "PITSA",
+            "TEE",
+            "OFEN",
+            "PLEITE",
+            "DIJO",
+            "NAMA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Boso",
+          "words": [
+            "PULA",
+            "LEHLOA",
+            "MOYA",
+            "LERU",
+            "SERAME",
+            "KGWEDI",
+            "BOSIGO",
+            "PHEFO",
+            "LESEDI"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Diphologolo",
+          "words": [
+            "KATSE",
+            "TLHAPI",
+            "PHOLO",
+            "KGOMO",
+            "TUKU",
+            "PODI",
+            "KGOGO",
+            "TAU",
+            "KOLOBE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ntlo",
+          "words": [
+            "KGORO",
+            "SETULO",
+            "BESE",
+            "SOFA",
+            "URA",
+            "TAFOLE",
+            "NTLO",
+            "LAMPE",
+            "KOBO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Dikaroto tsotlhe",
+        "food": "Dijo",
+        "home": "Ntlo",
+        "outdoors": "Kwa ntle",
+        "animals": "Diphologolo",
+        "travel": "Go tsamaya",
+        "work": "Tiro le dikgatlhego",
+        "music": "Mmino le boitumelo",
+        "seasons": "Dinako tsa selemo"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ke monkgo ofe wa kichene o o go ratang thata?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Keke ya mofuta ofe o o ka go tlhophelang go keteka?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "O ka mpolela ka pai ya apole kgotsa monate o o go ratang?"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Tee kgotsa kofi o e rata jang?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ke eng se se dirang lijo tsa mosong di nne monate?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "A o kile wa ipopela dienyo mo sedirining?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Monate kgotsa bogale: ke ofe o o go ratang go feta?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ke dijo dife tse di go gopotsang nako ya segonyana?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "O ka mpolela ka ntlo e o neng o e rata?"
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ke kae o ratang go ikhutsa gone?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "O ratang go dira eng ka maitsholo a a khutseng?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ke boitshepo bofe jo o bo bolokang mo pokisong e e kgethegileng?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ke mang yo o ka go rateng go mo laletsa go nwa tee?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "O ratang go dira eng ka letsatsi la pula?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ke dipalesa dife tse o di ka rutang mo serala?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "O ka mpolela ka setlhare kgotsa pareke e o e ratang?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ke eng se se molemo go feta mo go nna mo serala?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ke dimmala dife tsa dipalesa tse o di ratang thata?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "A o rata go nna le dimela mo ntlong?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ke eng se o se akanyang e le letsatsi le le monate?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "O ka mpolela ka ntša e o e itseng?"
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Dikatse kgotsa dintša, kgotsa ga go le ka tsone? O di rata ka eng?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ke dinonyane dife tse o di bonang kgotsa o di utlwang kwa ntle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "A o kile wa tsaya tlhapi kgotsa wa nna le sejana sa ditlhapi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ke phologolo efe e e molemo go feta tse o di kileng wa di bona?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "O ka mpolela ka koloi e o neng o e rata?"
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "O ka rata go tsaya letsatsi mo lewatleng kgotsa kwa dithabeng?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "O ratang go ya kae ka baesekele?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Fa o ka fofela kwa kae kwa lefatsheng?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ke eteletso efe e o e itumeletseng?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "O kile wa rata tiro efe?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ke sekgatlho sefe se o ka se dirang diura tse dintsi?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ke eng se o neng o itsewe ka go se dira kgotsa go se lokisa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "O ka eletsa eng motho yo o simololang tiro?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ke mmino ofe o o go dirang o rate go tsopola maoto?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ke eng se dirang pitso e nne monate?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ke mongwe ofe yo o ratang go mo utlwa a bina?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ke mooko kgotsa lenaneo la thelebishene lo o lo ratang go lebelela gape?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ke eng se o se ratang go feta ka nako ya seruo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "O itumelela eng ka nako ya lehuma?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ke eng se se monate go se dira ka maitsholo a mariga?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ke dipontsho dife tsa ntlha tsa selemo sa ntšha?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Bopula, pula kgotsa letsatsi: ke fe o o go ratang go feta?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Setlhare mo mopotong",
+          "regions": {
+            "sky": "Morago",
+            "table": "Tafole",
+            "stem": "Kala",
+            "leaf-left": "Letlhare la ka lehudu",
+            "leaf-right": "Letlhare la ka molema",
+            "petal-1": "Lepetlana 1",
+            "petal-2": "Lepetlana 2",
+            "petal-3": "Lepetlana 3",
+            "petal-4": "Lepetlana 4",
+            "petal-5": "Lepetlana 5",
+            "petal-6": "Lepetlana 6",
+            "petal-7": "Lepetlana 7",
+            "petal-8": "Lepetlana 8",
+            "center": "Bogare jwa palesa",
+            "pot": "Mopoto",
+            "pot-rim": "Molomo wa mopoto"
+          }
+        },
+        "house": {
+          "name": "Ntlo",
+          "regions": {
+            "sky": "Legodimo",
+            "sun": "Letsatsi",
+            "grass": "Joro",
+            "chimney": "Tshimo ya ntlo",
+            "walls": "Dipapatla",
+            "roof": "Motlhokwa",
+            "door": "Monyako",
+            "window-left": "Fensetere ya ka lehudu",
+            "window-right": "Fensetere ya ka molema",
+            "path": "Tsela"
+          }
+        },
+        "teacup": {
+          "name": "Kopi ya tee",
+          "regions": {
+            "background": "Morago",
+            "saucer": "Sosara",
+            "handle": "Sebopego",
+            "cup": "Kopi",
+            "band": "Moela wa kopi",
+            "tea": "Tee"
+          }
+        },
+        "butterfly": {
+          "name": "Serurubele",
+          "regions": {
+            "background": "Morago",
+            "wing-top-left": "Phuka ya godimo ya ka lehudu",
+            "wing-top-right": "Phuka ya godimo ya ka molema",
+            "wing-bottom-left": "Phuka ya tlase ya ka lehudu",
+            "wing-bottom-right": "Phuka ya tlase ya ka molema",
+            "spot-left": "Lekgabe la phuka ya ka lehudu",
+            "spot-right": "Lekgabe la phuka ya ka molema",
+            "body": "Mmele"
+          }
+        },
+        "sailboat": {
+          "name": "Sekepe",
+          "regions": {
+            "sky": "Legodimo",
+            "sea": "Lewatle",
+            "sail-big": "Seilo se segolo",
+            "sail-small": "Seilo se senyane",
+            "mast": "Moseto",
+            "hull": "Sekepe",
+            "flag": "Folaga"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kichene le serala",
+          "baskets": [
+            "Mo kitchen-eng",
+            "Mo tshimong"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Dienyo le diphologolo",
+          "baskets": [
+            "Dienyo",
+            "Diphologolo"
+          ]
+        },
+        "home-travel": {
+          "label": "Gae le leeto",
+          "baskets": [
+            "Kwa gae",
+            "Ko ntle le go tsamaya"
+          ]
+        }
+      }
+    }
+  }
+}

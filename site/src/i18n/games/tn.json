@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Dipaa tsa ditshwantsho",
+    "seoTitle": "Papadi ya go Tlhakanya ya Dementia: Dipaa tsa Ditshwantsho",
+    "h1": "Dipaa tsa Ditshwantsho: Papadi e e Bonolo ya go Tlhakanya",
+    "description": "Papadi e e mahala, e e bonolo ya go tlhakanya batho ba ba nang le dementia. Ditshwantsho tse dikgolo di tlhala di bonala, ga go na tshupanako ya nako kgotsa dipoelo, mme o ikgethela ditshwantsho tse 4 go ya go tse 12.",
+    "short": "Batla ditshwantsho tse pedi tse di tshwanang. Ditshwantsho di ka tlhala di bonala.",
+    "players": "Batho ba le 1 kgotsa ba le 2, ba dutse thoko ga thoko",
+    "intro": "Tshaa setshwantsho, o bo o tshware se se tshwanang le sone. Ditshwantsho di tlhala di bonala ka go itsege, ka jalo ga go na sepe se o tshwanetseng go se gopola. Fa ditshwantsho tse pedi di tshwana, di bona letlapa la gauta le letlhaku.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Ikgethele palo ya ditshwantsho e o batlang go e dirisa. Ditshwantsho tse nne ke tsela e e bonolo ya go simolola.",
+      "Tshaa setshwantsho sepe. Se tla bona letlapa la gauta.",
+      "Tshaa setshwantsho se se tshwanang le sone. Dipaa di tla nna mmogo, di na le letlhaku.",
+      "Fa ditshwantsho tse di sa tshwaneng, ga go na sepe se se maswe se se diragalang. Tshaa gape fa o ikutloa o le gone.",
+      "Tlhoma “Ditshwantsho tse di patilweng” fela fa lo rata go dira papadi ya kgale ya go lebisa ditshwantsho fatshe."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Bidiang ditshwantsho ka dinoko mmogo, lo bue ka tsone: “Kopi e e khibidu ya tee. A o tsenya lebese mo tee ya gago?”",
+      "Dumelela motho yo lo mo tlhokomelang go tshwara ka boene, le fa go ka tsaya nako. Mo supe, o se ka wa tshwara ka gagwe.",
+      "Dula mo ditshwantsho tse nne fela fa go ntse go siame. Ditshwantsho tse dintsi ke tshwetso, eseng maemo a go fitlhelela.",
+      "Fedisa ka nako e e ntseng e itumedisa. Papadi e le nngwe ke tiro e e feletseng."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A go na le tshupanako ya nako kgotsa dipoelo?",
+        "a": "Nnyaa. Ga go na sekgwama sa nako, dipoelo, palo ya dikgato kgotsa go tlhola. O ka emisa ka nako nngwe le nngwe, mme go emisa o sa ntse o le bogare ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Ke ka eng ditshwantsho di sala di bonala?",
+        "a": "Go dira gore ditshwantsho di bonale go fetola papadi go nna go lebelela le go tlhakanya, e seng go gopola. Batho ba le bantsi ba fitlhela go le bonolo ka tsela eno. O ka fetolela go ditshwantsho tse di patilweng ka tshwaetso e le nngwe fa o ikakanya."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le go tlhoka go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go tlhokege akhaunte, go ikwadisa kgotsa go tsenya sepe. E dirisa browsara ya inthanete mo fone, thabulete kgotsa khomphutha."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "A re ka dirisa difoto tsa lelapa la rona?",
+        "a": "Ee. Leka Dipaa tsa difoto, e go dumelang go tlhopha difoto go tswa mo sedirisweng sa gago. Difoto di nna mo browsareng ya gago, mme ga di tsenngwe kwa godimo."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Batla se se tshwanang",
+    "seoTitle": "Batla Setshwantsho se se Tshwanang: Papadi e e Bonolo ya Dementia",
+    "h1": "Batla Setshwantsho se se Tshwanang",
+    "description": "Setshwantsho se le sengwe kwa godimo, tse pedi go ya go tse nne kwa tlase. Tshaa se se tshwanang. Ke papadi e e mahala, e e bolokang ya ditshwantsho ya batho ba ba nang le dementia, ga go na tshupanako ya nako.",
+    "short": "Lebelela setshwantsho se se kwa godimo, o tshware se se tshwanang se se kwa tlase.",
+    "players": "Batho ba le 1 kgotsa ba le 2",
+    "intro": "Setshwantsho se le sengwe se nna kwa godimo ga skrine. Kwa tlase ga sone go na le tse pedi, tse tharo kgotsa tse nne. Tshaa se se tshwanang. Ke tshwetso e le nngwe ka nako, le nako e e lekanang ya go bua.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Ikgethele tse pedi, tse tharo kgotsa tse nne tsa go tlhopha go tswa mo go tsone. Tse pedi ke tsela e e bonolo ka go fetisisa.",
+      "Lebelelang setshwantsho se se kwa godimo mmogo.",
+      "Tshaa setshwantsho se se tshwanang kwa tlase. Se tla nna le letlhaku le mafoko a mabotlana a a monate.",
+      "Fa go tshwarwa setshwantsho se se sa tshwaneng, papadi e bua fela ka lebitso la sone e bo e emela. Tsaya nako ya gago.",
+      "Tshaa “Setshwantsho se se latelang” fa o ikutloa o le gone go lebelela se sengwe."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Bua ka setshwantsho se sengwe le se sengwe pele ga go tlhopha: mebala, dibopeho, gore o ka se bona kae.",
+      "Ditlhopho tse pedi ga se “tse di bonolo thata”. Maikaelelo ke nako e e itumedisang, e seng tlhohomiso.",
+      "Fa go tshwara go le thata, motho a ka supa mme wena o ka tshwara ka gagwe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A go na le tshupanako ya nako kgotsa dipoelo?",
+        "a": "Nnyaa. Ga go na sekgwama sa nako, dipoelo, palo ya dikgato kgotsa go tlhola. O ka emisa ka nako nngwe le nngwe, mme go emisa o sa ntse o le bogare ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Go diragala eng fa setshwantsho se se phoso se tshwarwa?",
+        "a": "Ga go na sepe se se maswe. Ga go na molumo, kgetla e e khibidu kgotsa go sisimega. Papadi e bua ka lebitso la setshwantsho se se tshwerweng e bo e emela tshwaetso e e latelang."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le go tlhoka go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go tlhokege akhaunte, go ikwadisa kgotsa go tsenya sepe. E dirisa browsara ya inthanete mo fone, thabulete kgotsa khomphutha."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Go tshwana ga moriti",
+    "seoTitle": "Papadi ya go Tshwana ga Moriti ya Dementia: Mahala Mo Inthaneteng",
+    "h1": "Go Tshwana ga Moriti: Papadi e e Bolokang ya Ditshwantsho",
+    "description": "Moriti o o lefifi kwa godimo, ditshwantsho tse pedi go ya go tse nne kwa tlase. Tshaa setshwantsho se se dirang moriti. Ke papadi e e mahala, e e bolokang ya go tshwana ga moriti ya dementia, ga go na tshupanako ya nako.",
+    "short": "Lebelela moriti o o tshware setshwantsho se se o dirang.",
+    "players": "Batho ba le 1 kgotsa ba le 2",
+    "intro": "Go tshwana ga moriti ke papadi e e tlwaelegileng mo dipampiring tse di gatisitsweng, mme fa go dirwa ka ditshwantsho tse dikgolo le ntlha ya go e gatisa ga go na. Moriti o o bonolo o nna kwa godimo ga skrine, mme ditshwantsho tse pedi, tse tharo kgotsa tse nne di emela kwa tlase. Tshaa se se dirang moriti. Dibopeho tse jaaka baesekele, senbrela kgotsa kopi ya tee le tsone di bonolo go bua ka tsone.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Ikgethele tse pedi, tse tharo kgotsa tse nne tsa go tlhopha. Tse pedi ke tsela e e bonolo ka go fetisisa.",
+      "Lebelelang moriti mmogo. Sebopeho se ke sefe? A o telele kgotsa o potlana?",
+      "Tshaa setshwantsho se se dirang moriti. Leina la sone le tla bonala fa tlase ga moriti.",
+      "Fa go tshwarwa setshwantsho se se sa tshwaneng, papadi e bua fela ka lebitso la sone e bo e emela. Tsaya nako ya gago.",
+      "Tshaa “Moriti o o latelang” fa o ikutloa o le gone go lebelela se sengwe."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Latela molaleko wa moriti ka monwana o bo o bue ka sebopeho.",
+      "Fa moriti o le thata gompieno, fetolela go Tshwana ga ditshwantsho, moo ditshwantsho di tshwanang.",
+      "Bua ka setshwantsho fa se bonwa: “Re ne re na le senbrela se se tshwanang.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A go na le tshupanako ya nako kgotsa dipoelo?",
+        "a": "Nnyaa. Ga go na sekgwama sa nako, dipoelo, palo ya dikgato kgotsa go tlhola. O ka emisa ka nako nngwe le nngwe, mme go emisa o sa ntse o le bogare ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "A go tshwanya ditshwantsho go siame batho ba ba nnang le dementia?",
+        "a": "Go ka nna tiro e e monate le e e bonolo ho batho bangwe, bogolo fa e sale fela ka go simolola. Ditshwantsho di bonolo go di tlhaloganya go feta mafoko. Ke ya go itumelela le go bua mmogo, e seng tlhatlhobo, mme ga e alafe dementia kgotsa go dira gore e diege. Fa e tlisa go tshwenyega, leka Batla se se tshwanang kgotsa lebang ditshwantsho mmogo fela."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Go direga eng fa setshwantsho se se phoso se tobetswa?",
+        "a": "Ga go direge sepe se se maswabi. Ga go na letsatsi la go lla, ga go na seteraka, ga go na go thothoba. Mothalo o bua leina la setshwantsho se se tobetsweng, mme o emela tobetso e e latelang."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le gona a ke tlhokege go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go na akhaonto, go ikwadisa kgotsa go tsenya sepe. E dirisiwa mo browser ya marang ya selefono, tablete kgotsa khomphutha."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Tlhopha mmogo",
+    "seoTitle": "Papadi ya Dementia: Tlhopha Mmogo",
+    "h1": "Tlhopha Mmogo: Tiro ya go Tlhopha Ditshwantsho",
+    "description": "Tobetsa setshwantsho, ke moka o tobetse lenkgwa le se tshwanetseng go ya mo go lone: kichineng kgotsa serapeng, dienywa kgotsa diphologolo. Ke tiro e e bonya le e e mahala ya go tlhopha, ya batho ba ba nnang le dementia.",
+    "short": "Tlhopha setshwantsho se sengwe le se sengwe mo lenkgweng la sone: kichineng kgotsa serapeng, le tse dingwe.",
+    "players": "Batho ba le 1 kgotsa ba le 2",
+    "intro": "Go tlhopha ke tiro e e tlwaelegileng, e e itumedisang ya letsatsi le letsatsi, jaaka go beya dijo fa lo tswa kwa mmarakeng kgotsa go tlhophela masokisi. Tobetsa setshwantsho, ke moka o tobetse lenkgwa le se tshwanetseng go ya teng. Ga go na go nyelela, ga go na phoso e e tshwenyang.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Tlhopha setlhogo: kichine le serapa, dienywa le diphologolo, kgotsa gae le loeto.",
+      "Tobetsa setshwantsho. Se tla nna le lerotlo la gold.",
+      "Tobetsa lenkgwa le se tshwanetseng go ya teng. Setshwantsho se tla tsena mo lenkgweng leo.",
+      "Fa se tshwanetse go ya mo lenkgweng le lengwe, lenaneo le bua ka boleng bo bonolo mme le emela.",
+      "Fa setshwantsho sengwe le sengwe se beilwe, lebang dilenkgwa mmogo."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mo botshelong jwa letsatsi le letsatsi gantsi ga go na karabo e e phoso. Fa motho a re sekgo sa go nosetsa se mo kichineng, botsa gore ke ka ntlha yang. Mme lo ka utlwa pale e e molemo.",
+      "Dirisa ditshwantsho go tsosa puo: \"O ne o lemile eng mo serapeng sa gago?\"",
+      "Go tlhopha dilo tsa nnete, jaaka dipune le diforoko, kgotsa dikgong ka mmala, ke tiro e e molemo e e latelang kwa ntle ga skrine."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A go na le sekhwama sa nako kgotsa dintlha?",
+        "a": "Nnyaa. Ga go na ola, dintlha, palo ya dikgato kgotsa go tlhoka. O ka emisa ka nako nngwe le nngwe, mme go emisa fa e sale fela ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Ke ka ntlha yang go tlhopha?",
+        "a": "Batho bantsi ba itumela ka go tlhopha ka gore ke tiro e e bonolo, e e tlwaelegileng le e e nang le thuso. Go bonolo go bua ka ditshwantsho fa lo tswelela."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le gona a ke tlhokege go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go na akhaonto, go ikwadisa kgotsa go tsenya sepe. E dirisiwa mo browser ya marang ya selefono, tablete kgotsa khomphutha."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pazele ya setshwantsho",
+    "seoTitle": "Pazele e Bonolo ya Dementia: Dikarolo tse 4 kgotsa tse 9",
+    "h1": "Pazele ya Setshwantsho: Pazele e Bonolo",
+    "description": "Pazele e bonolo ya inthanete ya batho ba ba nnang le dementia: dikarolo tse 4 kgotsa tse 9 tse dikgolo, setshwantsho sohle se bonala ka nako yotlhe, mme o tobetsa dikarolo tse pedi go di fetolana.",
+    "short": "Tobetsa dikarolo tse pedi go di fetolana go fitlha setshwantsho se tletse.",
+    "players": "Batho ba le 1 kgotsa ba le 2",
+    "intro": "Setshwantsho se se thata se se ratiwang se gagolwa go nna dikarolo tse nne kgotsa tse robongwe tse dikgolo, mme se a kgubedisiwa. Setshwantsho sohle se nna le bonno jwa go lebelela. Tobetsa karolo e le nngwe, ke moka o tobetse e nngwe, mme di a fetolana. Ga go tlhokege go gogola.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Tlhopha setshwantsho le dikarolo tse 4 kgotsa tse 9. Tse 4 ke tsela e bonolo ya go simolola.",
+      "Lebelelang setshwantsho sohle mo godimo.",
+      "Tobetsa karolo, ke moka o tobetse lefelo le le tshwanetseng go ya teng. Dikarolo tse pedi di a fetolana.",
+      "Dikarolo tse di mo lefelong le le siameng di bontsha tshupo e nnye ya go siama.",
+      "Fa setshwantsho se tletse, se itumelelang mmogo, ke moka o tlhophe e nngwe."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Go tobetsa dikarolo tse pedi go di fetolana go bonolo go feta go di tsaya ka go ntsha ho batho bantsi.",
+      "Bua ka setshwantsho fa se tletse: \"Go na le marulelo a a khibidu.\"",
+      "Pazele ya mapolanka ya nnete ya dikarolo tse 12 go ya go tse 24 tse dikgolo le yone ke tiro e e monate ya tafoleng."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A go na le sekhwama sa nako kgotsa dintlha?",
+        "a": "Nnyaa. Ga go na ola, dintlha, palo ya dikgato kgotsa go tlhoka. O ka emisa ka nako nngwe le nngwe, mme go emisa fa e sale fela ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "A ke tlhokega go gogola dikarolo?",
+        "a": "Nnyaa. Tobetsa karolo e le nngwe, ke moka o tobetse e nngwe, mme di a fetolana. Seno se a bonolela fa seatla se sisimoga kgotsa fa skrine e nnye."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le gona a ke tlhokege go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go na akhaonto, go ikwadisa kgotsa go tsenya sepe. E dirisiwa mo browser ya marang ya selefono, tablete kgotsa khomphutha."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Tlatsa polelo",
+    "seoTitle": "Tlatsa Polelo: Papadi ya Maele a Batho ba Bagolo",
+    "h1": "Tlatsa Polelo",
+    "description": "Maele a a tlwaelegileng a Setswana a le a sa tlatsegang lentswe la mafelelo, jaaka \"Motho ke motho ka ___\". Tobetsa karabo kgotsa bontsha mafelelo, ke moka o bue ka one.",
+    "short": "Tlatsa maele a a tlwaelegileng mmogo, ke moka o bue ka one.",
+    "players": "Batho ba le 1, ba le 2 kgotsa sehlopha",
+    "intro": "Maele a tlwaelegileng gantsi batho ba a itse ka botlhe jwa botshelo. Karata nngwe le nngwe e bontsha polelo e e tlwaelegileng e e nang le lentswe la mafelelo le le sa tlatsegang, dikarabo tse tharo, le konopo ya \"Bontsha mafelelo\". Ka morago ga mafelelo, potso e e bonolo e tsenya puo.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Bala polelo ka lentswe le le godisang mmogo.",
+      "Tobetsa lentswe le le tlatsang polelo, kgotsa tobetsa \"Bontsha mafelelo\".",
+      "Bala polelo yotlhe gape, ke moka o bue ka yone o dirisa potso.",
+      "Tobetsa \"Polelo e e latelang\" fa o itekanetse."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Bala ka bonya, o tlogele nako pele ga lentswe la mafelelo. Gantsi batho ba bua pele o feditse.",
+      "Fa motho a fana ka mafelelo a a farologanyang, a itumelele. Maele a a farologana ka lelapa kgotsa sebaka.",
+      "Mo sehlopheng, motho o mongwe a bala mme botlhe ba kopanye mafelelo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A go na le sekhwama sa nako kgotsa dintlha?",
+        "a": "Nnyaa. Ga go na kiloko, ga go na dipoints, ga go na palo ya dikgato, le ga go na go palelwa. O ka emisa ka nako nngwe le nngwe, mme go emisa o sa ntse o le bogareng ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Go bo go le jang fa re tlhopha lefoko le lengwe?",
+        "a": "Mothaladi o bontsha go fetsa ga tlwaelo, mme o tsamaisa go ya go buisana. Ga go na dipoints, mme karabo e nngwe le e nngwe e a siama."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le tlhoka go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go na akhaonto, ikwadiso kgotsa go tsenya. E dirisa mo browser ya webo mo mogaleng, mo thaplete kgotsa mo khomputareng."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Lenaane la mafoko ka matlhaka a magolo",
+    "seoTitle": "Lenaane la Mafoko ka Matlhaka a Magolo ya Dementia, la go Gatisa",
+    "h1": "Lenaane la Mafoko ka Matlhaka a Magolo",
+    "description": "Lenaane la mafoko le le mahala ka matlhaka a magolo, la batho ba bagolo le batho ba ba nang le dementia. Mafoko a seka, matlhaka a magolo, mafoko a a balwang fela ka go tshelela le fa tlase. Bapala mo inthaneteng kgotsa gatisa.",
+    "short": "Matlhaka a magolo, mafoko a seka, a a balwang fela ka go tshelela le fa tlase. Gatisa le one.",
+    "players": "Batho ba le 1 kgotsa ba le 2",
+    "intro": "Mokoro o monnye o o nang le matlhaka a magolo le mafoko a seka fela, mme otlhe a balwa ka go tshelela kgotsa fa tlase. Tobetsa letlhaka la ntlha la lefoko, ebe o tobetsa letlhaka la bofelo la lone. O rata go dirisa pampiri? Gatisa lenaane le lesha ka tapelo e le nngwe.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Tlhopha setlhogo le boleng jwa mokoro.",
+      "Lebelela lenane la mafoko. Mafoko a balwa ka go tshelela (go tswa kwa molemeng go ya kwa moja) kgotsa fa tlase (go tswa kwa godimo go ya kwa tlase).",
+      "Tobetsa letlhaka la ntlha la lefoko, ebe o tobetsa letlhaka la bofelo la lone.",
+      "Lefoko le le fitlhetsweng le a bontshiwa, le tlosiwa ka tlhamo mo lenaaneng.",
+      "Tobetsa \"Gatisa lenaane leno\" go bapala ka pampiri le pensele kgotsa marker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Supa lefoko mo lenaaneng, o lebelele letlhaka la lone la ntlha mmogo.",
+      "Mo pampiring, highlighter e bonolo go e tshwara go feta pensele.",
+      "Buisanang ka mafoko a setlhogo. Mafoko a dijo e ka nna tsela e e bonolo ya go tsena mo dikgopolong tsa go tlhoma, go rekisa kgotsa mo mmarakeng."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A go na le nako kgotsa dipoints?",
+        "a": "Nnyaa. Ga go na kiloko, ga go na dipoints, ga go na palo ya dikgato, le ga go na go palelwa. O ka emisa ka nako nngwe le nngwe, mme go emisa o sa ntse o le bogareng ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "A ke ka gatisa lenaane la mafoko?",
+        "a": "Ee. Tobetsa \"Gatisa lenaane leno\" go gatisa mokoro o o teng ka mokwalo o mogolo, le lenane la mafoko fa tlase. Lenaane le lengwe le le lengwe le farologana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le tlhoka go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go na akhaonto, ikwadiso kgotsa go tsenya. E dirisa mo browser ya webo mo mogaleng, mo thaplete kgotsa mo khomputareng."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Diphaposi tsa go tlhaba ka mebala",
+    "seoTitle": "Diphaposi tsa go Tlhaba ka Mebala ya Batho ba Bagolo ba ba nang le Dementia (ka Mahala)",
+    "h1": "Diphaposi tsa go Tlhaba ka Mebala",
+    "description": "Diphaposi tse di bonolo tsa batho ba bagolo go tlhaba ka mebala, di na le dikarolo tse dikgolo: tobetsa mmala, ebe o tobetsa setshwantsho. Ga go na go tshotlha, ga go na mebala e e fosagetseng, mme phaposi nngwe le nngwe e ka gatisiwa ka mahala.",
+    "short": "Tobetsa mmala, ebe o tobetsa karolo ya setshwantsho. Gatisa diphaposi le tsone.",
+    "players": "Batho ba le 1 kgotsa ba le 2",
+    "intro": "Diphaposi tse di nang le dibopa tse dikgolo, tse di bonolo: setlhare mo setshweng, ntlo, kopi ya tee, sekgoa le sekepe sa go palama. Tobetsa mmala, ebe o tobetsa karolo ya setshwantsho go e tlatsa. Ga go na mebala e e fosagetseng.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Tlhopha phaposi.",
+      "Tobetsa mmala. Mmala o mongwe le o mongwe o kwadilwe leina la one mo go one.",
+      "Tobetsa karolo ya setshwantsho go e tlatsa ka mmala oo.",
+      "Fetola maikutlo a gago nako nngwe le nngwe ka go e tlatsa gape.",
+      "Tobetsa \"Gatisa phaposi e\" go bona pampiri e e sa kwalwang go tlhaba ka dipensele kgotsa dimarker."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Fa go tlhopha go le thata, neela dimmala tse pedi go na le setlhopha sotlhe.",
+      "Ditlhare tsa mmala wa pepelana le matsatsi a mmala wa bolou di amogelesegile. Se ke go itumelela mmala, e seng go nepagala.",
+      "Diphaposi tse di gatisitsweng di siama le dimarker tse dithata kgotsa dikraione, tse di bonolo go di tshwara."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A go na le nako kgotsa dipoints?",
+        "a": "Nnyaa. Ga go na kiloko, ga go na dipoints, ga go na palo ya dikgato, le ga go na go palelwa. O ka emisa ka nako nngwe le nngwe, mme go emisa o sa ntse o le bogareng ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "A diphaposi tse di ntse jaaka tsa bana?",
+        "a": "Re tlhabile dilo tse di bonolo, tse di tsidifetseng, e seng dikartuni, ka jalo diphaposi di tshwanetse batho ba bagolo. Dibopa tse dikgolo di dira gore go tlhaba go nne bonolo, go sa dire gore go nne jaaka go bana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le tlhoka go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go na akhaonto, ikwadiso kgotsa go tsenya. E dirisa mo browser ya webo mo mogaleng, mo thaplete kgotsa mo khomputareng."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Dikarata tsa go buisana",
+    "seoTitle": "Mafoko a go Thoma Puisano ya Dementia: Dikarata tsa Setshwantsho",
+    "h1": "Dikarata tsa go Buisana",
+    "description": "Dikarata tsa setshwantsho tse di nang le dipotso tse di bonolo tsa go thoma puisano, ya batho ba ba nang le dementia: ga go botsiwe ka go tlhatlhobiwa, ga go na dikarabo tse di nepagetseng. Dirisa mo skrineng kgotsa gatisa setlhopha sotlhe.",
+    "short": "Dikarata tsa setshwantsho tse di nang le dipotso tse di bulegileng, tse di bonolo. Ga go tlhatlhobiwe.",
+    "players": "Batho ba le 2 kgotsa setlhopha",
+    "intro": "Karata nngwe le nngwe e tsenya setshwantsho se se tlwaelegileng mmogo le kgakololo e e bulegileng ya go buisana, jaaka \"Ke mofuta ofe wa sefefo o o ratang go feta?\" Ga go na dikarabo tse di nepagetseng, mme ga go na sepe sa go gopola. Tlhopha setlhogo kgotsa tsenya dikarata tsotlhe mmogo.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Tlhopha setlhogo, kgotsa tswelela ka \"Dikarata tsotlhe\".",
+      "Bala potso ka lentswe le le godisang, mme lo lebelele setshwantsho mmogo.",
+      "Utlwa, abelana karabo ya gago, mme dumelela puisano e tsamaye.",
+      "Tobetsa \"Karata e e latelang\" fa o ikutlwa o siame, kgotsa tswelela ka karata e le nngwe nako e e ntsi fela fa o rata.",
+      "Tobetsa \"Gatisa dikarata tsotlhe\" go bona setlhopha sa pampiri se se gaisiwang."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Araba potso ka boitshepo le wena. E tla nna puisano, e seng tlhatlhobo.",
+      "Latela pale, e seng dintlha. Fa dintlha di fetoga, ga go kgathale.",
+      "Fa karata e tshwara sa go utlwisa bohloko, amogela maikutlo a motho eo, mme o fetele karata e nngwe ka bonolo."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Ke eng fa go se na dipotso tsa \"A o a gopola…?\"",
+        "a": "Dipotso tse di lekang gopolo di ka dira gore go nne jaaka tlhatlhobo, mme di ka tlisa tlhoo. Dipotso tse di bulegileng jaaka \"Ntlhalosetse…\" di dumelela mongwe le mongwe go tsenelela, go sa kgathalesege gore o gopola eng."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "A ke ka gatisa dikarata?",
+        "a": "Ee. \"Gatisa dikarata tsotlhe\" e gatisa setlhopha sotlhe ka mokwalo o mogolo, dikarata tse dintsi mo letlhakoreng le le lengwe, di le gore di gaisiwe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, le tlhoka go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go tlhokege akhaunte, kwadiso kgotsa go tsenya sengwe. E dirisa mo browseng ya inthanete mo mogopolong, thebolete kgotsa khomputareng."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Dipaki tsa ditshwantsho",
+    "seoTitle": "Dira Motshameko wa Go Tshwana ka Ditshwantsho tsa Lelapa",
+    "h1": "Dipaki tsa Ditshwantsho: Tshwana Ditshwantsho tsa Gago",
+    "description": "Fetola ditshwantsho tsa lelapa la gago gore e nne motshameko o o bonolo wa go tshwana. Tlhopha ditshwantsho tse 2 go ya go tse 6 mo sereng sa gago; di nna mo browseng ya gago mme ga di romelwe.",
+    "short": "Tlhopha ditshwantsho tsa gago o di tshwane. Ga go na sepe se se romelwang.",
+    "players": "Batho ba le babedi, ba dutse ka tlhomo e le nngwe",
+    "intro": "Tlhopha ditshwantsho tse pedi go ya go tse tshwe mo mogopolong, thebolete kgotsa khomputareng, gore di nne motshameko wa go tshwana ka ditshwantsho tse dikgolo, tse di bonalang sentle. Ditshwantsho di bonwa fela mo letlakaleng le. Ga di romelwe, ga di bolokwe, ga di abelanngwe. Di nyelela fa o tswa mo letlakaleng.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tobetsa “Tlhopha ditshwantsho” o tlhophe ditshwantsho tse pedi go ya go tse tshwe.",
+      "Setshwantsho se sengwe le se sengwe se tla bonala ka makgetlho a mabedi. Tobetsa se le sengwe, ebe o tobetsa paki ya sone.",
+      "Bua ka setshwantsho se sengwe le se sengwe fa o se bona.",
+      "Fa o feditse, tswa mo letlakaleng kgotsa tobetsa “Phimola ditshwantsho”. Ga go sa bolokwa sepe."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Tlhopha ditshwantsho tse di phepafetseng tsa dilo tse di itsegang le tse di thabisang: phologolo ya gago, serapa, lefelo le o le ratang, kgotsa letsatsi la lenyalo.",
+      "Ditshwantsho tsa dilo le mafelo di ka nna bonolo go feta tsa batho, mme ga di tlise kgatelelo ya go bitsa batho ka maina.",
+      "Tlogela ditshwantsho tsa batho ba ba suleng fa di ka tlisa go nyatsega ka tshoganetso, fa o sa ntse o itse gore di tlisa kagiso."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Naa ditshwantsho tsa me di romelwa kae?",
+        "a": "Nnyaa. Letlakala le bala ditshwantsho tse o di tlhophileng ka tlhamalalo mo browseng ya gago, mme le di bontsha mo sekrineng sa gago. Ga di romelwe kwa go rona kgotsa kwa go ope, mme di nyelela fa o tswa kgotsa o ntshafatsa letlakala."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Naa go na le nako kgotsa mopoelo?",
+        "a": "Nnyaa. Ga go na sekgwa sa nako, mopoelo, palo ya dikgato, kgotsa go oa. O ka emisa ka nako nngwe le nngwe, mme go emisa fa gare ke tsela e e siameng ya go fedisa."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "A ke ka boloka motshameko go ya go sa latelang?",
+        "a": "Nnyaa, mo browseng ga go bolokwe, ka ntlha ya go sireletsa dilo tsa poifo. Motshameko wa mahala wa Golden Moments wa iPhone le iPad o ka boloka dikopi tsa ditshwantsho tse o di tlhophileng mo sereng sa gago."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ya ditshwantsho",
+    "seoTitle": "Bingo ya Ditshwantsho ya Batho ba Godileng ba ba nang le Dementia: E ka Gatisiwa",
+    "h1": "Bingo ya Ditshwantsho ya Dikopano",
+    "description": "Bingo ya ditshwantsho e e ka gatisiwang ka mahala, e e thusang dikopano tsa batho ba ba tlhokomelwang le ba ba godileng, e na le mopitsi wa mo sekrineng se segolo. Ditshwantsho tse dikgolo le mafoko, dikgwele tse 9 kgotsa 16, ga go tlhokege go bala.",
+    "short": "Dikarata tsa bingo ya ditshwantsho tse di ka gatisiwang le mopitsi wa sekrine se segolo sa dikopano.",
+    "players": "Sehuba sa batho ba le 2 go ya go 30",
+    "intro": "Bingo e e tlwaelegileng, fela e na le ditshwantsho go e na le dinomoro, gore ga go ope yo o tlhokang go bala dikwalo tse di nnye. Gatisa seti ya dikarata tse di farologaneng, ebe o dirisa mopitsi wa mo sekrineng go bontsha setshwantsho se sengwe le se sengwe se segolo mo TV, laptop kgotsa thebolete.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Tlhopha dikgwele tse 9 kgotsa 16 mo karateng e nngwe le e nngwe, le palo ya batho ba ba tla tshameka.",
+      "Tobetsa “Gatisa dikarata”. Karata nngwe le nngwe e farologane.",
+      "Bula mopitsi mo sekrineng se segolo. Tobetsa “Setshwantsho se se latelang” go bontsha setshwantsho se sengwe le se sengwe le leina la sone.",
+      "Batshameki ba koala setshwantsho se se tshwanang mo karateng ya bone ka sekgwama, konopo kgotsa sesupo.",
+      "Mongwe le mongwe yo o tlatsang mola, kgotsa karata yotlhe, o amogela thoriso ya go goeletsa. Mo motshamekong wo ga go na yo o oketsegang: tswelela go tshameka go fitlha mongwe le mongwe a na le mola."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Dirisa dilo tse dikgolo tse di tshwarang ka bonolo, tse di jaaka dipapadi kgotsa dikapa tsa dibotlolo. Konopo tse dinnye di ka nna thata go tshwara.",
+      "Bitsa setshwantsho leina la sone, o bue ka sone: “Sekepe sa go tsamaya mo metsing. Ke mang yo o kileng a tsamaya ka sekepe?”",
+      "Batho ba ba bonang thata ba dule kgauswi le sekrine, mme o beye batho ba ba thusang le batho ba ba tlhokang thuso.",
+      "Dikgwele tse 9 di lekane go le dikopano tse dintsi. Dikopano di nne mo go ka metsotso e 20 go ya go e 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ke tshameka bingo ya ditshwantsho jang mo ntlong ya tlhokomelo?",
+        "a": "Gatisa karata e le nngwe ya mongwe le mongwe, beya mopitsi mo sekrineng se se kgolo go feta se o nang le sone, mme o bitse ditshwantsho ka bonya, o bua leina la nngwe le nngwe. Tswelela go tshameka go fitlha mongwe le mongwe a na le mola, gore ga go ope yo o tlogelwang."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "A go gatisa go a ntshiwa?",
+        "a": "Ee. Gatisa dikarata tse o di tlhokang, ka makgetlho a mantsi fa o rata, mo tirisong ya gago kgotsa ya dikopano."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "A batho ba ka tshameka ba sa bale?",
+        "a": "Ee. Sekgwele se sengwe le se sengwe ke setshwantsho se segolo, leina la sone le kwadilwe fa tlase go ba ba ratang mafoko."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Go hema ka kagiso",
+    "seoTitle": "Nako ya go Hema ka Kagiso ya Batho ba Godileng le Batho ba ba Tlhokomelang",
+    "h1": "Nako ya go Hema ka Kagiso",
+    "description": "Nako e e bonolo, e e tlhwafalang ya go hema e go abelanwang: sediko se se bonolo se a godisega le go nyelela ka makgetlho a thataro. Wena o e simolola, mme o ka e emisa nako nngwe le nngwe.",
+    "short": "Sediko se se tlhwafalang go hema go tshwana le sone. Simolola kgotsa o emise fa o rata.",
+    "players": "Batho ba le 1 kgotsa ba le 2",
+    "intro": "Ka dinako tse dingwe motshameko o o molemo ke nako ya kagiso. Tobetsa “Simolola”, ebe o hema o tsena fa sediko se gola, o tswa fa se nyelela. O ka tlhopha lebelo le le tlhwafalang kgotsa le le potlana. Ga se kalafi, ke nako fela ya kagiso e o ka e abelanang.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Dulang ka bonolo, ka thoko ga e mongwe.",
+      "Tlhopha lebelo: le le tlhwafalang kgotsa le le bonolo.",
+      "Tobetsa “Simolola”. Hema o tsena fa sediko se gola, o tswa fa se nyelela.",
+      "Se emisa ka nosi fa go fitlha makgetlho a thataro, kgotsa tobetsa “Emisa” nako nngwe le nngwe fa o rata."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Tshwarana matsogo kgotsa beya seatla mo letsogong la motho fa a amogela seo.",
+      "Se ka wa tlhoka. Fa a rata go leba fela, go siame.",
+      "Fa mongwe a na le mathata a go hema, hema ka tsela e e tlwaelegileng, mme o lebe fela sediko. Botsa ngaka ka ditshwenyo tsa go hema."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "A ke tiragatso ya go hema ya kalafi?",
+        "a": "Nnyaa. Ke nako e e bonolo, e e tlhophang, ya kagiso le go nna le batho. Ga se kalafi ya kgatelelo ya maikutlo kgotsa bolwetsi bo bo leng bone. Bua le ngaka ka ditshwenyo tsa bophelo."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Naa sediko se a tsamaya fa ke sa se simolola?",
+        "a": "Nnyaa. Ga go na sepe se se tsamayang go fitlhela lo tobetsa Simologa, mme se emisa morago ga dikhemo tse thataro kgotsa fa lo tobetsa Emisa. Fa sedirisiwa sa lona se tlhomilwe go fokotsa tshisinyo, mafoko a fetoga fela, mme sekaele ga se gole."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A ke mahala, mme lo tlhoka go ikwadisa?",
+        "a": "Ee, ke mahala, mme ga go tlhokege akhaunte, go ikwadisa kgotsa go itsenya. E dirisa mo browseng ya weborong mo mogaleng, thebuleteng kgotsa khomphiuteng."
       }
     ]
   }

@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Pita ku bidi munda bikulu",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Midimu ya bantu badi ne lutatu lwa kuvuluka",
+    "homeLabel": "Dibeji dia kumpala dia Golden Moments",
+    "mainNav": "Bikulu",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Tshiluba",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: bimfuanyi binene bishême bia lupasa lua tiyi, bilongo bia kashidishi ne mbwa",
+    "languages": "Muakulu",
+    "englishOnly": "(Anglais)",
+    "machineTranslated": "Dibeji edi ndikudimuna kudi tshiamu, muntu mudiila muakulu katshiyi muanji kutangila to.",
+    "readOriginal": "Bala malu mu Anglais tshivua tshifundibue",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Manaya",
+      "activities": "Midimu",
+      "caregiving": "Ditabalela muntu",
+      "brainHealth": "Bukole bua bongondo"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Nkonko ne mandamuna",
+    "breadcrumb": "Njila wa kutangila",
+    "home": "Ku nzubu",
+    "lastUpdated": "Malu mashintulula katataka",
+    "topics": "Bienzedi",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Bunene bua maleta",
+      "smaller": "Maleta a tshibidilu",
+      "larger": "Maleta manene",
+      "contrast": "Tshitoke ne tshifike bitokele"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Kaya",
+    "picturePairs": "Bimfuanyi bishale bibidi bibidi",
+    "conversationCards": "Karte a miyuki",
+    "pictureBingo": "Bingo ya bimfuanyi",
+    "allGames": "Manaya onso",
+    "pictures": "Bimfuanyi bia kupatula mu mashinyi",
+    "activityIdeas": "Meji a midimu",
+    "ideas101": "Meji 101 a midimu",
+    "lateStage": "Midimu ya matuku a kunyima",
+    "printable": "Midimu ya kupatula ku mikanda",
+    "allActivities": "Midimu yonso",
+    "forCaregivers": "Bua badi batabalela bakuabu",
+    "playTogether": "Mushindu wa kunaya pamue",
+    "selfCare": "Kuditabalela wewe mwine",
+    "brainHealth": "Makebulula pa bukole bua bongondo",
+    "faq": "Nkonko ne mandamuna",
+    "about": "Bualu buetu",
+    "approach": "Mushindu utudi tuenza midimu",
+    "howWeWrite": "Mushindu utudi tufunda",
+    "organizations": "Bua bibambalu",
+    "app": "Programe wa telefone wa Golden Moments",
+    "appHelp": "Dikuatshisha bua programe",
+    "support": "Dikuatshisha",
+    "legal": "Mikenji",
+    "sitePrivacy": "Kulamina malu a muntu ku site",
+    "appPrivacy": "Mikenji ya kulamina malu a muntu mu programe",
+    "privacyChoices": "Masungula ebe pa kulamina malu ebe",
+    "terms": "Mikenji ya diambula programe",
+    "safety": "Bupole ne tshipatshila tshia mudimu",
+    "accessibility": "Mupeteka bua bantu bonso",
+    "healthNotice": "Dimanyisha pa bualu bua makanda a mubidi",
+    "allLegal": "Malu onso a mikenji",
+    "note": "Golden Moments udi upesha midimu ya bupole ya kuenza pamue bua disanka. Ki mmibelu ya kudi munganga, teke peshi buondapi to, ne katshiena upima peshi usungula muntu to. Bua malu a makanda ebe a mubidi, yukila ne munganga. Padi lukanu lukole lufika, bikila nimero wa lusalapu lwa lukasa 112.",
+    "publisher": "Dipatula kudi Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Manaya ne midimu bua bantu badi ne lutatu lwa kuvuluka ne disama dia Alzheimer | Golden Moments",
+    "description": "Manaya a bimfuanyi a bupole a tshianana a kunaya ku Enternete ne meji a midimu bua bantu badi ne lutatu lwa kuvuluka peshi Alzheimer pamue ne badi babatabalela. Kakuyi difunda dina, matuku a tshiseki peshi bishima bia kuluangana.",
+    "eyebrow": "Tshianana · Kakuyi bintu bia bupalakeshi · Kakuyi difunda dina · Kakuyi matuku a tshiseki peshi bishima",
+    "h1": "Manaya ne midimu ya bupole bua bantu badi ne lutatu lwa kuvuluka",
+    "lede": "Manaya mapepele a bimfuanyi, foto ya pa nzubu, ne midimu ya kusankila pamue—bilondeshile lubilu luenu nuenu bine.",
+    "playGame": "Kaya manaya",
+    "findIdeas": "Keba meji a midimu",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Udi wenza mudimu mu telefone, mu tablète ne mu ordinatere",
+      "Bimfuanyi binene bidi bishala bimueneka",
+      "Imanyika dîba dionso diudi musue; kakuyi bualu bua kupanga"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Programe kabidi wa tshianana bua iPhone, iPad ne Android, ne foto yenu ya pa nzubu",
+    "albumNote": "“Bimfuanyi bibidi bia lupasa lua tiyi, pamue.”",
+    "gamesEyebrow": "Kaya ku buanza buebe bua Enternete",
+    "gamesTitle": "Manaya audi mua kunaya mpindieu",
+    "gamesLede": "Tshionso tshidi tshitalale, tshia bakulumpe kabidi tshidi tshituadija lukasa. Sungula tshimue, sombayi pamue luseke ku luseke, ne nuikale nulenga pa tshiamu umue kunyima kua mukuabu.",
+    "seeAllGames": "Tshimonayi manaya onso {count}",
+    "howTitle": "Mushindu udiye wenza mudimu",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Sungula tshintu tshimanyike bimpe",
+        "text": "Bimfuanyi bia bipasa bia tiyi, budimi, nyama ya pa nzubu ne mazuwa a matela. Kakuyi dibala dikole peshi mikenji ya kuanji kulonga to."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Sombayi luseke ku luseke",
+        "text": "Balekela balenge pa tshiamu. Yukilayi pa bidi mu bimfuanyi. Padi tshimfuanyi katshiyi tshikumbane, tshidi tshindila patupu dilenga didi dilonda."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Imanyikayi patshidi disanka dipeta",
+        "text": "Kanaya kamue nkadikumbane bu mudimu mujima. Tshiambidilu tshia “Nkadi muenze bualu mpindieu” tshidi tshimueneka kumpala kua mêsu misangu yonso."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Bupite pamutu pa tshiamu",
+    "stageTitle": "Meji a midimu bua bitupa bionso bia lupanda",
+    "stageLede": "Misambu, midimu ya ku nzubu ya dituku dionso, divuluka dia kale ne bikondo bia bupole bidi biakula ku mêsu ne kumatshi, bisangisha ku tshidibo bumvua bimpe mpindieu.",
+    "ideas101": "Meji 101 a midimu",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Tshitupa tshia kumpala",
+        "text": "Tungunukayi ne malu adibo banange, ne mashintuluka makese: bintu bia disanka, dipatuka pambelu, manaya a miaku ne kulongolola pamue.",
+        "label": "Meji a tshitupa tshia kumpala"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Tshitupa tshia munkatshi",
+        "text": "Midimu mipepele ya tshibidilu mitapulula mu bitupa: kupetula bilamba, kusungula bintu, misambu, manaya a bimfuanyi ne kuendakana kakese.",
+        "label": "Meji a tshitupa tshia munkatshi"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Tshitupa tshia kunyima",
+        "text": "Kusamba ne kusangisha mutshima kupitshila ku dilenga, ku miadi ne ku dimona: dilama dia bianza, misambu ya kumpala, foto ne kuikala nansha pambidi pamue.",
+        "label": "Meji a tshitupa tshia kunyima"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Udi ukeba tshintu tshisunguluke anyi? Teta <a href=\"/activities/alzheimers/\">midimu ne manaya bua disama dia Alzheimer</a>, <a href=\"/activities/memory-games/\">manaya a bupole a kuvuluka</a>, <a href=\"/activities/trivia/\">nkonko mipepele ya meji</a> peshi <a href=\"/activities/puzzles/\">manaya a kusangisha bitupa</a>.",
+    "approachEyebrow": "Mushindu utudi tuenza midimu",
+    "approachTitle": "Mudimu wa kuenza pamue, ki ntshitatshisha tshia kuvuluka to",
+    "approachLede": "Manaya mivule a “kadiisha lungenyi” mmanzuluka pa lubilu, bishima ne kuluangana. Bua muntu udi ne lutatu lwa kuvuluka bidi mua kumueneka bu mateta a ku kalasa. Tuetu tuakenza bualu bua dishilangana.",
+    "approachLink": "Bualu kayi tuvua balongolole bualu mushindu eu",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Kakuyi tshia kupanga",
+        "text": "Kakuyi montre, bishima, mioyo ya kujimija peshi kupangila. Tshimfuanyi tshishilangana nkidikija kakese patupu, ki mbilema to."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Bimfuanyi bishala bimueneka",
+        "text": "Kumanya kumpala kua mêsu kupita kukeba mu lungenyi. Kufuanyikija kudi kutuadijila bimfuanyi bitanduluke, kakuena tshia kuvuluka ku bupika to."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Bua bakulumpe ne buneme",
+        "text": "Miaku mishême ya patoke ne bimfuanyi bia bushuwa bia pa buloba. Kakuyi bimfuanyi bia bana peshi miaku ya tusensu."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Dilamina malu ebe ku mfundilu mwine",
+        "text": "Kakuyi mikanda ya kudiundisha peshi bintu bia bupalakeshi. Foto yebe kayiena yumuka mu tshiamu tshiebe nansha kakese."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Bua badi batabalela bakuabu",
+    "guidesTitle": "Bilejilu bia mushindu wa kutabalela bantu dituku dionso",
+    "allCaregiving": "Bilejilu bionso bia ditabalela muntu",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Mushindu wa kunaya manaya pamue",
+        "text": "Kulongolola, lubilu lua kunkuna nalu, ne tshiakwenza padi kanaya kashala kakayi disanka kabidi."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Padi muntu ubenga kuenza mudimu",
+        "text": "Bualu budi bubapangisha bua kuitaba, ne mishindu ya bupole ya kuteta kabidi kumpala."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Kulongolola tablète",
+        "text": "Maleta manene, bipumbishi bishale bikese ne tshimfuanyi tshimue tshipole tshia dibeji dia kumpala."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Midimu ya tshianana ya kupatula ku mikanda",
+        "text": "Kukeba miaku ne maleta manene, meji a kutula langi, bingo ne karte a miyuki."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Bukole bua bongondo: bidi makebulula amba menemene",
+    "researchText": "Lutatu lwa kuvuluka ludi mua kukandikibua anyi? Manaya a meji adi mua kuambuluisha anyi? Kujila biakudia, biakudia bipepele, tulu ne ditumvua bidi nkayi? Mandamuna atoke kudi bualu bupatukila, nansha pa bidi bijadiki bishala bitekete.",
+    "researchLink": "Bala malu mafunda a makebulula",
+    "appEyebrow": "Programe kabidi wa mu telefone",
+    "appTitle": "Golden Moments mu iPhone, iPad ne Android",
+    "appText": "Programe eu wa tshianana udi wenza mudimu nansha kakuyi Enternete, udi mua kuenza mudimu ne foto ya pa nzubu iuudi musungule, mikale milamibue anu mu tshiamu tshiebe. Mupangadike anu wa lutulu: bimfuanyi binene binayi, kakuyi matuku a tshiseki, kakuyi bishima.",
+    "aboutApp": "Bualu bua programe",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Manaya kayi mimpe bua bantu badi ne lutatu lwa kuvuluka?",
+        "a": "Manaya mimpe adi mapepele, mamanyike bimpe ne kaayi ne lupandu anyi kanyinganyinga: bimfuanyi binene bia kufuanyikija, kutungununa bintu bilondeshile mishindu, bipese bia bikata bipepele bia kulamakaja, kujikija tusumu tumanyike, kulaba mikabu, bingo ya bimfuanyi ne tukarte tua diyukidila. Tshisungula tshipite buimpe ntshidi muntu musue lelu. Epu dipole-pole bikondo bia bupuwe, manemba a bintu biapeta ne tshionso tshidi tshiumvuika bu diteta."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Manaya aa a bua bantu badi ne dijimija dia lungenyi adi a tshianana anyi?",
+        "a": "Eyowa. Dinaya dionso ne bintu bidi bipatuka ku biamu bia kulekesha mikanda mu Golden Moments bidi bia tshianana, kakuena disomba compte, kudifundisha anyi kutentula tshintu nansha tshimue. Manaya aa adi enda mu navigatere wa ku Enternete mu telefone, tablete anyi ordinatere."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Manaya a lungenyi adi mua kupangisha dijimija dia lungenyi anyi?",
+        "a": "Kakuena dinaya nansha dimue didibu baleje ne didi dipangisha dijimija dia lungenyi to, ne Golden Moments kena wamba ne udi wondopa anyi upangisha tshintu nansha tshimue. Manaya etu adi anu bua kusankisha ne kusombesha pamue. Tshikoso tshietu tshia makanda a bongo tshidi tshiumvuija tshidi makebulula maleje ne tshidiwu kaayi maleje."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Manaya aa adi makanyine muntu udi ne disama dia Alzheimer anyi?",
+        "a": "Eyowa. Disama dia Alzheimer ke tshipumbishi tshinene tshidi tshikebesha dijimija dia lungenyi, ne manaya aa mbamalongolole bua bualu ebu: bimfuanyi binene bidi bishala bimueneka, masungula makeese, ne kakuena tshia kuvuluka ku bukole anyi tshia kuenza bibi. Kufuanyikija, kutungununa bintu ne kujikija tusumu tumanyike bidi bitangila dimanya dia kale pamutu pa dilonga bintu bipiabipia."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Muntu udi mu mutate mukole wa dijimija dia lungenyi udi mua kuenza midimu eyi anyi?",
+        "a": "Misangu ya bungi, eyowa, padi muntu pabuipi nende. Tuadijayi ne Keba tshimfuanyi tshia buena etshi ne bimfuanyi bibidi, Bipese bia bimfuanyi bia bungi ne tubuledi tunayi, dibeji dia kulaba mikabu anyi kakuasa ka kuela lupuya talala. Enzayi bua tshikondo tshikale tshipi, londelayi bidi muntu musue, ne lekelayi padiye mumone ne mbikumbane."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Malu anyi a panshi adi malama bimpe anyi?",
+        "a": "Site eu kena ne compte nansha mishinga ya mumanyishi to. Tudi tuenza mudimu ne Google Analytics bua kumanya mabeji adibu batamba kutangila. Foto inudi nusungula bua Foto bia bintu bibidi bidi bimueneka anu mu navigatere wenu ne kabena babiambula ku Enternete to."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Nganyi udi wenza Golden Moments?",
+        "a": "Golden Moments nkasumbu kakese kadi kalongolola midimu ya talala ya bimfuanyi bua bakulumpe, bua mêku ne badi batabalela muntu, ku Enternete ne mu aplikasion wa tshianana. Katuena baminganga to, ne kakuena tshintu nansha tshimue apa tshidi mubelu wa baminganga."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "tshikondo tshia kumpala",
+    "middle": "tshikondo tshia munkatshi",
+    "late": "tshikondo tshia ku ndekelu",
+    "hintOne": "Misangu ya bungi bidi bikumbana bua tshikondo tshia {list}",
+    "hintMany": "Misangu ya bungi bidi bikumbana bua bikondo bia {list}",
+    "labelEarly": "Tshikondo tshia kumpala",
+    "labelMiddle": "Tshikondo tshia munkatshi",
+    "labelLate": "Tshikondo tshia ku ndekelu"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Bua dinaya edi",
+    "printable": "Tshia kupatula ku tshiamu",
+    "play": "Aya {name} →",
+    "readGuide": "Bala mukanda wa buludiki"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Mudi badilongolole bua dinaya dipepele anyi?",
+    "text": "Bimfuanyi binene, kakuena tshikondo tshia lupandu, kakuena bipeta bia manemba ne kakuena tshia kudifundisha to. Nayanayi pamue mu navigatere wenu.",
+    "play": "Aya dinaya",
+    "all": "Tangila manaya onso",
+    "aria": "Aya dinaya"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Yayi ne manaya aa kunudi naya",
+    "text": "Aplikasion wa tshianana wa Golden Moments bua iPhone, iPad ne Android: tubuledi tua bimfuanyi binene, manaya ne foto ya bena mu dîku dienu bine, ne tusumbu tua bimfuanyi bidi bienza mudimu kakuyi Wi‑Fi. Kakuyi compte, mumanyishi, tshikondo tshia lupandu anyi bipeta bia manemba.",
+    "appStore": "Peta mu App Store",
+    "googlePlay": "Peta mu Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Bua aplikasion",
+    "aria": "Peta aplikasion"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Midimu",
+      "title": "Midimu bua bantu badi ne dijimija dia lungenyi",
+      "seo": "Midimu bua bantu badi ne dijimija dia lungenyi: ngenyi bilondeshile bikondo",
+      "description": "Ngenyi ya midimu bua bantu badi ne dijimija dia lungenyi mu bikondo bionso: misambu, malu a kuvuluka, midimu ya ku dituku ne dituku, bikondo bia didiumvua, midimu ya bianza, pambelu ne mikanda ya kupatula ku tshiamu ya tshianana.",
+      "lede": "Mudimu muimpe ntshionso tshidi tshikebesha kanyinganyinga kupua, dipeta tshipatshila anyi kakuasa ka diumvuangana. Tuadijayi ne tshivua muntu munange misangu yonso, ne nushintululeke bilondeshile lelu."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Dilama muntu",
+      "title": "Mikanda ya buludiki bua dilama muntu",
+      "seo": "Mikanda ya buludiki bua dilama muntu udi ne dijimija dia lungenyi: diambuluisha dia ku dituku ne dituku",
+      "description": "Mikanda ya buludiki mipiluke ne ya luse bua balami ba bantu badi ne dijimija dia lungenyi: kuaya manaya pamue, diyukidila, dibenga kuenza bintu, kanyinganyinga ka ku dilolo, tubuledi tua tablete, disungula aplikasion ne kuditabalela webe mwine.",
+      "lede": "Diambuluisha dipepele ne dimpe bua bikondo bia ku dituku ne dituku bia kulama muntu udi ne dijimija dia lungenyi, kabidi ne mua kuditabalela webe mwine."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Makanda a bongo",
+      "title": "Makanda a bongo: tshidi makebulula amba",
+      "seo": "Makanda a bongo ne njiwu ya dijimija dia lungenyi: tshidi makebulula amba",
+      "description": "Dijimija dia lungenyi didi mua kupangishibua anyi? Mikanda milulame idi yambila malu malelela bua bintu bidi bikebesha dijimija dia lungenyi, manaya a lungenyi, dijila biakudia, biakudia bimpe, dikolesha mubidi, tulu, diumvua ne bimanyinu bia kumpala bia didimuja.",
+      "lede": "Tshidi makebulula manene aleja bimpe bua kukepesha njiwu ya dijimija dia lungenyi, biumvuija mu mushindu mupepele, kusangisha ne miaba idi bijadiki bitekete anyi bishilangane. Bualu bua kumanya patupu, ki mbubelu bua baminganga to."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Bialongolola tshipiatshipia",
+    "minuteRead": "Dibala dia minite {n}",
+    "byTeam": "Kudi kasumbu ka Golden Moments",
+    "howWeWrite": "Mushindu utudi tufunda",
+    "shortAnswer": "Diandamuna dipepele",
+    "onThisPage": "Mu dibeji edi (bitupa {n})",
+    "commonQuestions": "Nkonko itubu batamba kuela",
+    "sources": "Miaba ya biambilo",
+    "sourcesNote": "Tudi tuela nkanu ya miaba ya malu a tusumbu ne makebulula adi dibeji edi dianyishile. Tuvua bakebulule tshitupa tshionso pavuabu balongolole dibeji edi.",
+    "tryTogether": "Teta pamue",
+    "relatedGuides": "Mikanda ya buludiki ya bualu ebu",
+    "related": "Bidi bitangila",
+    "startHere": "Tuadijila apa"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Dimanyisha dia makanda a mubidi",
+    "title": "Malu a kumanya patupu, ki mbubelu bua baminganga to",
+    "textHtml": "Dibeji edi didi dikosa tshikoso tshia makebulula apatula bua bena mu mêku. Kadiena mua kukuambila tshidi tshimpe bua muntu umue to. Yukidilayi ne munganga kumpala kua kushintulula biakudia, dikolesha mubidi, tulu, manga anyi bintu bia kukolesha mubidi. Bua difila dia lungenyi dia tshipulukila anyi mashintuluka makuabo a tshipulukila, kebayi diambuluisha dia munganga diakamue. <a href=\"/medical-disclaimer/\">Badilayi dimanyisha dietu dia makanda a mubidi</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Mudimu wa kuenza pamue, ki nditeta dia lungenyi to",
+      "seoTitle": "Bua Golden Moments: mushindu wetu wa kuenza",
+      "description": "Tshidi tshikebesha bua manaya a Golden Moments kaayi ne bikondo bia lupandu, manemba a bintu anyi kutungunuka ne kupeta bintu, bua tshinyi bimfuanyi bidi bishala bimueneka, ne tshitudi mua kuamba ne tshitudi katuyi mua kuamba bua dijimija dia lungenyi.",
+      "crumb": "Mushindu wetu wa kuenza",
+      "lede": "Golden Moments udi wenza midimu ya talala ya bimfuanyi bua bakulumpe idi muntu udi utabalela bakuabo ne muntu udi ne dijimija dia lungenyi mua kusankila pamue batanangane.",
+      "bodyHtml": "<h2>Bitudi tuitabila</h2><p>Tshipatshila tshia tshikondo tshia manaya netshi tshidi mu tshitupa tshia dîba tshiene: muyuki, mumwemwe, disanka dia kubumbakaja bindidimbi bibidi, anyi anu kusomba pabuipi ne muntu. Ki nkupima muntu, kumusaka ku makanda anyi kuleja tshintu nansha tshimue to.</p><p>Programe ya ordinatere ya bungi ya kulongesha bongo idi yenza bua lubilu, manoti, nkatshila ne bupatshila bua pamulu. Kudi muntu udi ne disama dia dipanga kuvuluka, bidi mua kumueneka bu diteta didiye kayi mua kupita. Tuetu tuakalongolola bintu bishilangane menemene, ne tudi tulonda mikenji eyi:</p><ul><li><strong>Kakuena tshia kupanga to.</strong> Kakuena montro, manoti, mbalu ya malu madia, muoyo, nkatshila, bilumbulumbu anyi dibala dia kunyima, pa tshilola nansha tshimue.</li><li><strong>Kujingulula kumpala kua kuvuluka ku meji.</strong> Bindidimbi bidi bishala bimueneka anu ku tshibidilu. Mêyi adi abikila ku muyuki ne katuena tuteta mêna anyi bivulukilu nansha kakese to.</li><li><strong>Binene, bitekete ne bimane bimpe.</strong> Dîyi ne bindidimbi binene, dishilangana dia mikabu dia bimpe, ne bipese bia dikwata bidi bishala mu muaba umue.</li><li><strong>Buneme bua muntu mukulumpe.</strong> Bindidimbi bia bushuwa bia pa buloba ne mêyi matekete a kanemu. Kakuena bindidimbi bia bimunyika, mitshima ya kuimba milambu anyi difutu dia bilumbu to.</li><li><strong>Njila mupepele wa kupatukila.</strong> “Mbiashikila bua lelu” bidi bimueneka misangu yonso. Kuimana munkatshi mmudimu muimpe.</li><li><strong>Bia kusokoka anu ku tshibidilu.</strong> Kakuena konte anyi bintu bia dipanyisha to. Bindidimbi biudi usungula bidi bishala mu tshiamu tshiebe.</li></ul><h2>Tshitudi katuyi tuamba</h2><p>Manaya etu adi bua disanka ne dimanyiana. Kaena amanya disama, ateta, apima, ondopa, akepesha anyi akanda disama dia dipanga kuvuluka anyi disama dia Alzheimer to, ne kakuena muntu udi ne bua kuasungula bua tshipatshila etshi to. Patudi tufunda bua makebulula mu <a href=\"/brain-health/\">mabeji etu a makanda a bongo</a>, tudi tuamba patoke muaba udi bijadiki bikese, ne katuena tubibumbakaja ne manaya etu nansha kakese to.</p><h2>Tudi banganyi</h2><p>Golden Moments nkasumbu kakese kadi kadilekelela. Katuena baminganga to. Nyindu yetu ya bulombodi idi mifundibue bilondeshile mibelu miipatuke kudi bibambalu bu mudi National Institute on Aging ne Alzheimer’s Association, ne mukanda wonso udi uleja miaba idiye mupetele malu. Badilayi <a href=\"/editorial-policy/\">mutudi tufunda ne tutangila mabeji etu</a>.</p><h2>Tuambilaikayi tshidi mua kunwambuluisha</h2><p>Tudi basue kumvua tshidi tshiakane buenu ne tshidi katshiyi tshiakane, nangananga kudi bantu badi ne disama dia dipanga kuvuluka, bena dîku badi babatabalela ne bena mudimu ba midimu ya disanka. Tumina mesaje ku <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Mutudi Tufunda ne Tutangila Mabeji Etu",
+      "seoTitle": "Mikenji ya Difunda",
+      "description": "Mutudi mu Golden Moments tukeba, tufunda, tupetela miaba ya malu ne tupitulula mabeji etu a manaya bua disama dia dipanga kuvuluka ne makanda a bongo, ne bitudi katuyi mua kupatula nansha kakese.",
+      "crumb": "Mikenji ya difunda",
+      "bodyHtml": "<h2>Miaba itudi tupetela malu</h2><p>Tudi tuimanyika nyindu yetu pa mibelu ya patoke ya bibambalu bu mudi National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ne NHS, ne pa makebulula a ba-santientifique bu mudi mikanda ya Cochrane reviews ne mateta manene a baminganga. Mukanda wonso udi uleja miaba idiye mupetele malu adiye mueyemene. Tudi tubulula muaba wonso wa bualu kumpala kua kubutela, ne tudi tuamba anu tshidi muaba au muambe bulelela.</p><h2>Mutudi tufunda</h2><ul><li>Malu a kuenza kumpala: tshia kuenza lelu, mu muakulu mupepele.</li><li>Bulelela pa bijadiki: tudi tuamba ne “bidi bipetangana ne”, “bidi pamuapa” ne “bijadiki kabiena biumvwana bimpe to” patudi tumona ne ke bidi bulelela.</li><li>Kanemu: tudi tufunda bua bantu badi ne disama dia dipanga kuvuluka bu bantu bakulumpe, ne katuena tuteta anyi kufikisha muntu bundu nansha kakese to.</li><li>Kakuena bintu bia kudifundila to: kakuena mbalu ya bianza, mêyi mafuka, bamanyi ba lungenyi ba dishima, makebulula anyi bimanyinu bia dishima to.</li></ul><h2>Badi bakonkonona mabeji etu</h2><p>Mabeji adi mafundibue ne makonkonona kudi kasumbu ka Golden Moments, ne diambuluisha dia biamu bia ordinatere bia AI bua kukeba malu ne kufunda tshitupa tshia kumpala. Dibeji dionso didi dikonkononyibue bilondeshile miaba yadidi dipetele malu kudi kasumbu ketu. Mabeji etu <strong>kaena</strong> makonkononyibue kudi munganga nansha umue to, ne katuena tuamba mushindu mukuabu to. Bidi bintu bia kumanya patupu, ki mibelu ya munganga to.</p><h2>Bitudi katuyi mua kupatula nansha kakese</h2><ul><li>Mêyi a diamba ne manaya, biakudia, bintu bia kukolesha mubidi, kutshina biakudia anyi bibidilu bidi bikanda, biondopa, bikepesha anyi bijikija disama dia dipanga kuvuluka.</li><li>Mateta, nkonko anyi manoti adi aleja ne muntu udi ne disama dia dipanga kuvuluka anyi kayi nadyo to.</li><li>Mibelu ya kutuadija, kuimanyika anyi kushintulula manga nansha amue.</li><li>Bintu bia bupanyishi bua bubidishi bidibu balongolole bu mibelu.</li></ul><h2>Dipitulula ne diongola dia bilema</h2><p>Dibeji dionso didi dileja dituku diakadipitululabu bua dekelu. Wewe mumone tshilema anyi muaba wa malu mukadi mukulakaje, tusakidila utumine mesaje ku <a href=\"mailto:{email}\">{email}</a> ne netuakonkonone lukasa luonso.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Nkonko ne Mandamuna",
+      "seoTitle": "Manaya ne Midimu ya Disanka bua Bantu Badi ne Disama dia Dipanga Kuvuluka: Nkonko ne Mandamuna",
+      "description": "Mandamuna ku nkonko idibu belela misangu ya bungi bua manaya ne midimu ya disanka bua bantu badi ne disama dia dipanga kuvuluka: manaya a kuteta, dîba dia kuimana, meji bua bitupa bia ndekelu bia disama, makanda a bongo ne busokoko bua muntu.",
+      "crumb": "Nkonko ne mandamuna",
+      "lede": "Mandamuna mapepele ne mîpi ku nkonko idi bena dîku badi batabalela bakwabo batamba kuela.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Bualu bua manaya",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Manaya kayi adi matambe buimpe bua muntu udi ne disama dia dipanga kuvuluka?",
+              "a": "Manaya matambe buimpe ng’owu amanyike, mapepele ne kaena ne njiwu anyi lutatu lwa kuluangana nalu to, ne dinaya dimpe n’diina didi muntu usanka nadyo lelu. Kubumbakaja bindidimbi bidi bimueneka bimpe, kutosha bintu, manaya a bipese bia bindidimbi bia kukuatshisha bipepele, kujikija tusumu tumanyike, kutula mikabu ne bingo wa bindidimbi bionso ebi bidi biakane bimpe bua bantu ba bungi. Epuka montro ya kubala dîba, manoti ne tshintu tshionso tshidi tshimueneka bu diteta."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Manaya aa nga tshianana bulelela anyi?",
+              "a": "Eyowa. Manaya onso ne mikanda ya kupatula idi ya bianza bitupu, kakuyi konte, didifundisha, dikopolola anyi mamanyisha a bintu."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Bua tshinyi kakuena bipeta, mankenda anyi tshikondo tshia dîba?",
+              "a": "Lukasa ne bipeta bidi bikudimuna mudimu muimpe bu ekzamene, bualu budi mua kukebesha bumvua bua bundu anyi difika munda. Tudi tuteka ntema pa disanka ne tshikondo tshia kuikala pamue, ke bualu kakuena tshintu tshia kupanga to, ne udi mua kuimanyika dîba dionso diudi musue."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Mbia-mudimu kayi bidi bienza bimpe be?",
+              "a": "Telefone yonso, tablete anyi ordinatere idi ne programe wa enterete wa lelu. Tablete miteka pa mesa ke mushindu mutambe kuikala muimpe bua bantu babidi banaye pamue pabuipi ne pabuipi. Ordinatere ya maboko ikuatajangana ne televizio itu yenza bimpe menemene bua bisumbu bia bantu."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Tudi mua kunaya ne binfuanyi bietu bia mu dîku anyi?",
+              "a": "Eyowa. Binfuanyi bia bibidi-bibidi (Photo pairs) bidi bikudimuna binfuanyi 2 too ne 6 biudi musungule mu manaya a kufuanyikija. Binfuanyi bidi bishala anu mu programe webe wa enterete, kabatu babibandisha anyi kubilama to."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Midimu ne ditabalela dia bantu",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Mudimu udi mua kuenza dîba bungi kayi?",
+              "a": "Misangu mivule minite 10 too ne 20 idi mikumbane, ne imue misangu minite 2 nansha idi dikumbana dimpe. Tangila bimanyinu bia kutshioka anyi difika munda, ne imanyika kumpala kua disanka kujika. Kakuena bungi bua dîba busunguluke budi bilenga to."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Biotshia ne kabena basue kuenza mudimu kampanda tshinyi?",
+              "a": "Nemeka dibenga edi, ne kuateja kabidi panyima anyi mu mushindu mukuabu. Dibenga didi mua kufuma ku ditshioka, bisama, kudimona kayi mutuishibue, anyi anu dipanga dijinga. Tangila bulombodi buetu bua bualu bua kuenza padi muntu ubenga."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Mmidimu kayi idi mikumbane bua tshikondo tshia kule tshia disama dia dipanga lungenyi?",
+              "a": "Kutalaja ne kuteleja bimvumvua: kuteleja misambu idiye mutambe kunanga, kukuba bianza ne lopoloso, kutangila binfuanyi pamue, kukuata bulanketi bupole, kusomba pambelu, anyi manaya mapepele menemene a binfuanyi ne muntu muikalapu pabuipi nandi. Bulombodi buetu bua tshikondo tshia kule budi ne ngenyi mikuabu mivule."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Kudiku midimu bua bisumbu bia bantu mu nzubu ya bulami anyi?",
+              "a": "Eyowa. Bingo wa binfuanyi (Picture bingo) udi ne mikanda ya kupatula ne muakudi udi umueneka pa skrene, ne manaya a Kumbaja lukumu (Finish the saying) ne mikanda ya diyukidila (Conversation cards) itu yenza bimpe padi bantu bayibadila mu dîyi dia kule. Bulombodi buetu bua bisumbu mu nzubu ya bulami budi buakula bua bungi bua bantu mu tshisumbu, mushindu wa kusomba, ne mudi mua kulengeja mudimu bua bukole bua dishilangana."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Makanda a bongo",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Manaya adi mua kukanda anyi kutalaja disama dia dipanga lungenyi anyi?",
+              "a": "Kakuena dinaya nansha dimue didi dimueneshibue bua dikanda disama dia dipanga lungenyi to, ne manaya etu kaena aleja bualu bua nanku to. Dijula dia lungenyi mu tshisumbu tshia bantu didi dimueneshe bipeta bidi mua kuikala bipepele mu makebulula bua bantu badi ne disama ditshidi dikese anyi pa pankatshi, kadi bualu ebu budi bushilangane ne dinaya dikanda disama. Tudi bafila manaya bua disanka ne kusangila pamue."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Badi mua kukanda disama dia dipanga lungenyi anyi?",
+              "a": "Ki mbua kueyemena kashidi to. Makebulula adi asuikakaja nsongelo 14 ya makanda a mubidi ne ya nsombelu ku njiwu ya disama dia dipanga lungenyi, bu mudi dipanga dia kumvua, mashipa a mashi mabande, dipanga kuenza mudimu wa mubidi, ne dishala nkayende kule ne bantu. Kujikija malu aa kudi mua kupuekesha njiwu bua bantu bakuabu, kadi bantu bavule badi benza bionso bimpe batu anu bapeta disama edi. Kabiena nansha kakese bu bualu bua muntu to."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Kujikija mutantshi kayi udia kudi kuimpe bua makanda a bongo anyi?",
+              "a": "Bijadiki kudi bantu bitshidi bikese ne bia ntuadijilu, ne makebulula a bungi mmenzeka kudi nyama. Kujila biakudia kudi mua kuikala ne njiwu bua bakulumpe, nangananga ne manga a disama dia sukadi anyi dipanga bujitu bua mubidi kayi musue, ne kabena babuela pa bualu ebu bua bantu badi ne disama dia dipanga lungenyi to. Yukidila ne munganga kumpala kua kushintulula mushindu uudi udia."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Malu a kunsokoko ne bukubi",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Nutu nulama ngumu anyi lumu lua bantu anyi?",
+              "a": "Kakuyi konte anyi mamanyisha a bintu to. Tudi tuenza mudimu ne Google Analytics bua kubala ngenyi ya bantu ne kumona mabeji adi ambulwisha, ne programe webe wa enterete utu uvuluka biwikala mulekele miadi mipepele ya bintu. Binfuanyi biudi musungule bua Photo pairs kabena babibandisha ku enterete to. Tangila dimanyisha dia malu a kunsokoko bua kumanya bimpe."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ebi mbidimu bia bulombodi bua luondapu anyi?",
+              "a": "Tòo. Golden Moments udi bua dijikija lutetuku ne lumu lua bungi patupu. Bua nkonko ya makanda a mubidi, yukidila ne munganga webe, ne bua malu a lukasa bikila 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Lumu luvule: <a href=\"/caregiving/how-to-play-together/\">mushindu wa kunaya pamue</a>, <a href=\"/caregiving/when-they-say-no/\">padi muntu ubenga</a>, <a href=\"/activities/late-stage/\">midimu ya tshikondo tshia kule</a> ne <a href=\"/brain-health/can-dementia-be-prevented/\">badi mua kukanda disama dia dipanga lungenyi anyi?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Manaya a Bianza Bitupu ne Mapepele bua Bantu Badi ne Disama dia Dipanga Lungenyi",
+      "seoTitle": "Mukanda wa Kupatula: Manaya a Bianza Bitupu a Disama dia Dipanga Lungenyi ku Enterete",
+      "description": "Mukanda wa dibeji dimue wa kupatula bua bena mêku ne balami pa bualu bua manaya a binfuanyi mapepele ne a bianza bitupu bua bantu badi ne disama dia dipanga lungenyi, bua bisumbu bia diambuluishangana ne bintu bia bulami.",
+      "crumb": "Mukanda wa kupatula",
+      "lede": "Patula dibeji edi bua tshisumbu tshia diambuluishangana, bintu bia bulami anyi ku tshibi tshia frigo. Enza mudimu ne dîyi dia kupatula (Print) dia programe webe wa enterete; menyu ne buto bidi bishala pambelu pa mukanda mupatula.",
+      "introHtml": "<p>Binfuanyi binene, mêyi mapepele ne kakuena tshintu tshia kupanga to. Bianza bitupu pa telefone, tablete anyi ordinatere, kakuyi didifundisha, kakuyi mamanyisha, kakuyi bikondo bia dîba ne kakuyi bipeta. Sombayi pabuipi ne pabuipi ne nuyenze mudimu ku luseke ku luseke.</p>",
+      "gamesTitle": "Manaya a kuteja pamue",
+      "restHtml": "<h2>Mibelu mikese</h2><ul><li>Sungula tshikondo tshia dituku tshidi muntu umvua bimpe be.</li><li>Tuadija ne mushindu mupepele mutambe. Tulongu tunayi ntukumbane menemene.</li><li>Yukidilayi pa binfuanyi. Diyukidila ke tshitupa tshitambe bulenga misangu mivule.</li><li>Imanyika patshidi disanka dipite bulenga. Kujikija kumpala kudi tshikadilu tshimpe.</li></ul><h2>Bidi kabidi mu tshitupa etshi tshia enterete</h2><ul><li>Bintu bia kupatula bia bianza bitupu: dikeba dia mêyi ne bualu bunene, mabeji a kulaba langi, mikanda ya diyukidila ne bingo wa binfuanyi.</li><li>Ngenyi ya midimu bua nseke yonso, ne bulombodi bua mushindu wa kunaya pamue ne kudilama webe nkayebe.</li></ul><p class=\"muted\">Bua disanka ne tshikondo tshia kuikala pamue. Ki mbulombodi bua luondapu, diteta anyi dipandisha to. Golden Moments mupatula kudi Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Bua Nzubu ya Bulami, Nzubu ya Mikanda ne Bisumbu bia Diambuluishangana",
+      "seoTitle": "Malu a manaya a tshianana bua bantu badi ne disama dia kupua muoyo bua nzubu ya balami ne bisumbu",
+      "description": "Mushindu udi nzubu ya balami, ndongamu ya bakulumpe ya dituku, bibidieteke, biro bia bakulumpe ne bisumbu bia diambuluishangana bitumika ne manaya etu a tshianana bua bantu badi ne disama dia kupua muoyo, pamue ne mêyi a kututentekela mu mulongo wa bintu bia kuambuluisha nabi.",
+      "crumb": "Bua bisumbu ne bitongoji",
+      "lede": "Tshionso tshidi mu site eu tshidi tshia tshianana bua kukuatshila mudimu ne banyike ba mu nzubu, bena mu tshisumbu ne bantu banudi nukuatshila mudimu, kakuyi konte, mukanda wa mikalu anyi difuta nansha dimue. Dibeji edi didi diumvuija bintu bidi emu ne mushindu wa kubiabanya.",
+      "shortText": "{name}: manaya a bindidimbi a tshianana ne a bupole pamue ne mikanda ya malu a kuenza bua bantu badi ne disama dia kupua muoyo ne balami babu. Kakuyi didifundisha, kakuyi bikondo bia lungenyi, kakuyi bimanina.",
+      "longText": "{name} ({domain}) udi ufila manaya a mu browser {count} a tshianana malongolola bua bantu badi ne disama dia kupua muoyo, kusangisha bindidimbi bidi bishala bimueneka, puzzle mupepele, kutungununa bintu, nsese ya kale imanyike ne bingo wa bindidimbi udi ne mikanda ya kupatula ku mashinyi. Kakuena konte, mamanyisha, tshikondo tshitua anyi mananukilu. Site eu udi kabidi ne mikanda ya malu a kuenza mu muakulu mupepele bua tshitupa tshionso tshia disama dia kupua muoyo idi yambila malu a ku National Institute on Aging ne Alzheimer's Association.",
+      "useTitle": "Tshidi bisumbu ne bitongoji mua kukuatshila mudimu",
+      "gamesItemHtml": "<strong>Manaya a mu browser {count}</strong> adi enda mu ordinatere ya mu tshianza, tablete anyi televizion musuika ku ordinatere. Kakuena kuela mu mashinyi, konte anyi kutentula. Tangila <a href=\"/games/\">manaya onso</a>.",
+      "printablesLabel": "Bintu {count} bia kupatula ku mashinyi:",
+      "printablesAfter": "Kuatshila mudimu ne buto wa Kumpatula udi pa dibeji dionso.",
+      "moreItemsHtml": "<li><strong>Malu a bisumbu:</strong> <a href=\"/games/picture-bingo/\">Bingo wa bindidimbi</a> udi ne karte ya kupatula ku mashinyi ne mubikidi udi umueneka pa skrini, ne <a href=\"/activities/trivia/\">makonka mapepele</a> adi ne nkonko 50 idi ne mandamuna a kusungula ne malu a kuyukidilapu.</li><li><strong>Mikanda ya malu a kuenza</strong> bua bena mudimu ne bena dîku, bilondeshile tshitupa ne mushindu, mifunda mu muakulu mupepele ne miaba yakangata mêyi. Tuadija ne <a href=\"/activities/ideas/\">nngenyi 101 ya malu a kuenza</a> anyi <a href=\"/activities/care-home-groups/\">malu a kuenza mu tshisumbu bua nzubu ya balami</a>.</li>",
+      "restHtml": "<h2>Mushindu udi bisumbu bikuate nabi mudimu</h2><ul><li><strong>Nzubu ya balami ne ya ditabalela lungenyi:</strong> bingo wa bindidimbi anyi kujikija kasumu pa televizion wa mu nzubu munene, muntu umue utua bintu bua tshisumbu tshionso.</li><li><strong>Ndongamu ya bakulumpe ya dituku:</strong> muaba wa tablete ne manaya a kusangisha bindidimbi bateka pa tubalu tuinayi, bua bikondo bikese bia muntu ne mukwabo.</li><li><strong>Bibidieteke ya bantu bonso:</strong> bikeba miaku bipatula ku mashinyi ne karte ya diyukidilapu mu bintu bia kuvuluka nabi, ne site eu mushala mulama mu tablete ya bibidieteke.</li><li><strong>Bisumbu bia diambuluishangana bia balami ne café ya dilama lungenyi:</strong> <a href=\"/handout/\">dibeji dimue dia kupatula ku mashinyi</a> bua bena dîku kuya nabi kumbelu.</li><li><strong>Mpitadi ne balongolodi ba dipingaja kumbelu:</strong> dibeji edi mu bikwata bia balami, bua tshintu tshia ditalala tshia kuenza kumbelu anyi ku bulalu bua musamedi.</li></ul><h2>Tshitudi katuyi tuenza</h2><p>Manaya aa adi bua kusanka ne kusomba pamue. Kaena akeba disama, ajinga lungenyi, afila bimanina, ondopa anyi akepesha lukasa lua disama dia kupua muoyo, ne tudi tulomba bisumbu bua kabatumikidi mêyi a nunku to. Kakuena mamanyisha, ne manaya kaena alomba mêna, malu a makanda a mubidi anyi bindidimbi bia kuela mu mashinyi to. Site eu udi ukuata mudimu ne Google Analytics bua kubala bantu badi babuelamu; <a href=\"/privacy/\">mukanda wetu wa malu masokoka</a> udi umvuija tshidiye usangisha. Bindidimbi bidibu batumika nabi mu <a href=\"/games/photo-pairs/\">Bifoto bibidi-bibidi</a> bidi bishala mu browser.</p><h2>Tutentekela mu mulongo webe wa bintu bia kuambuluisha nabi</h2><p>Biwikala ne mulongo wa bintu bia kuambuluisha balami, udi mua kusuika lianye ku <a href=\"/\">{domain}</a>. Udi mua kukopa lumue lua ku ngumvuilu eyi.</p>",
+      "shortTitle": "Ngumvuilu muîpi",
+      "longTitle": "Ngumvuilu mule",
+      "linksHtml": "<p>Mabeji a mushinga a kusuika diakamue koku: <a href=\"/games/\">manaya a tshianana</a>, <a href=\"/activities/printable/\">bintu bia kupatula ku mashinyi bia tshianana</a>, <a href=\"/activities/alzheimers/\">malu a kuenza bua disama dia Alzheimer</a> ne <a href=\"/caregiving/how-to-play-together/\">mushindu wa kunaya pamue</a>.</p><h2>Nkonko anyi diakaja</h2><p>Bikala tshintu tshidi mu site katshiyi tshimpe anyi katshiyi tshiumvuika bimpe, anyi bikala bidi emu kabiyi bikumbana bua majinga a muntu udi musombele munda, tudi banulombe bua kutuambila ku <a href=\"mailto:{email}\">{email}</a>. Tudi tunulomba bua kanututuminyi malu a panshi anyi malu a makanda a mubidi a banyike anyi bena mudimu nansha.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Aplikasyon wa Golden Moments",
+      "seoTitle": "Aplikasyon wa Golden Moments bua iPhone ne Android",
+      "description": "Aplikasyon wa Golden Moments wa tshianana: kusangisha bindidimbi bia bupole ne tubalu tunene tuinayi, bindidimbi bia dîku bishale mu tshiamu tshiebe, bintu bia bindidimbi bidi bikuata mudimu kakuyi internet ne kakuyi konte.",
+      "crumb": "Aplikasyon",
+      "lede": "Bionso biudi musue pa site eu, mu aplikasyon udi ukuata mudimu kakuyi internet ne udi mua kukuata mudimu ne bindidimbi bia dîku biudi musungule.",
+      "worksOn": "Udi ukuata mudimu pa {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Tuadijayi kakese</h2><p>Tuadijayi ne bimanyinu binene binayi ne binfuanyikijilu bimanyike bimpe. Lekelayi binfuanyikijilu bimueneke, anyi bisokoyayi panudi numona se mbiakane. Mushindu wa bupole kawena ne tshikondo tshia kupima, kaye ka manaya anyi dinyoka to. Sungulayi bimanyinu 4, 6, 8 anyi 12.</p><h2>Bivuijayi bia mu dîku dienu</h2><p>Sungulayi binfuanyikijilu bia mu dîku dienu ne tshisunguidi tshia binfuanyikijilu tshia mu tshiamu tshienu. Porograme eu udi ulamina binfuanyikijilu bishale bikese bua manaya ende. Kena ukebelela mu bintu bienu bilongeka to, katu ushintulula binfuanyikijilu bienu bia nshindamenu to, ne udi mua kulama too ne binfuanyikijilu 24 mu tshisumbu tshimue.</p><h2>Tangilayi anu pamue</h2><p>Tangilayi tshimfuanyikijilu tshimue ku tshikuabu. Nsombelu ya malu a kutangila idi ijula muyuki kakuyi kulomba muntu bua kuvuluka mêna anyi kupeshangana diandamuna diakane to. Kutangila patupu kukadi kukumbane.</p><h2>Bidi bikuata mudimu kakuyi kudiunda kua ku rezo</h2><p>Binfuanyikijilu bia ntuadijilu ne bisumbu bionso muanda-mukulu bia binfuanyikijilu bidi mu porograme eu. Binfuanyikijilu bidibu bapingaje munda bidi bikuata mudimu kakuyi rezo. Kusungula binfuanyikijilu bidi bilamibue anu mu iCloud kudi mua kulomba rezo wa internet.</p><h2>Kakuyi konte, kakuyi tshiamu tshia kulamina binfuanyikijilu</h2><p>Binfuanyikijilu bia mu dîku bidi bishala mu porograme mu tshiamu tshienu. Nudi mua kumbusha binfuanyikijilu ebi kakuyi dijimija binfuanyikijilu bienu binene to. Dienza kopi ya tshiamu tshienu didi mua kulama bintu bia mu porograme eu. Badilayi <a href=\"/app-privacy/\">mikenji ya bualu bua kusokoka</a>, ne <a href=\"/help/\">diambuluisha dia mu porograme</a> didi diumvuija ditabuja dionso ku dimue ku dimue.</p>",
+      "disclaimer": "Golden Moments udi bua kuikisha lungenyi ne kuyukila pamue. Kena usungula masama, wondopa, ukanda anyi upima disama dia kupua muoyo anyi dia Alzheimer to.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Manaya a ku rezo a tshianana bua lutatu lua kupua muoyo ne dia Alzheimer",
+    "description": "Manaya a tshianana a ku rezo bua bakulumpe badi ne lutatu lua kupua muoyo anyi dia Alzheimer: kusuikakaja binfuanyikijilu, manaya matekete a bikese bia foto, kutungununa, bikandikilu bia mêyi, kulaba mikabu, bingo. Kakuyi difunda dîna, dîba anyi kaye ka manaya.",
+    "crumb": "Manaya",
+    "h1": "Manaya a bupole bua bantu badi ne lutatu lua kupua muoyo",
+    "lede": "Manaya a tshianana {count} anudi mua kunaya pamue mu tshiamu tshienu tshia ku rezo. Binfuanyikijilu binene, miaku mitekete, ne kakuyi bualu bua kupangila: kakuyi dîba, kakuyi kaye, kakuyi difunda dîna.",
+    "listName": "Manaya a bupole bua bantu badi ne lutatu lua kupua muoyo",
+    "byStageTitle": "Kusungula dinaya bilondeshile tshitupa tshidi muntu",
+    "byStageLede": "Bitupa ebi bidi anu tshilejilu tshianana tshia diambuluisha. Londelayi tshidi tshisankisha muntu ne tshidi tshimupepejila lungenyi lelu.",
+    "stageCol": "Tshitupa",
+    "gamesCol": "Manaya atu akumbana misangu mivule",
+    "moreHtml": "Ngenyi mikuabu ya kunaya kule ne skrini: <a href=\"/activities/ideas/\">midimu 101 ya kuenza bua bantu badi ne lutatu lua kupua muoyo</a>, <a href=\"/activities/alzheimers/\">midimu ne manaya bua disama dia Alzheimer</a>, <a href=\"/activities/memory-games/\">manaya a bupole a kuvuluka</a> ne <a href=\"/activities/puzzles/\">manaya a bupale</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Tudi mua kutuadija ne dinaya kayi?",
+        "a": "Bisumbu bia binfuanyikijilu bibidi bibidi bidi ne bimanyinu binayi tshidi tshisungula tshimpe tshia bupole tshia kumpala. Biobi se kusungula pankatshi pa binfuanyikijilu kudi kutonda muntu, eyelayi Keba tshimfuanyikijilu tshimue ne binfuanyikijilu bibidi. Bua tshisumbu tshia bantu, eyelayi Bingo ya binfuanyikijilu."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Manaya aa adi akuata mudimu mu iPad anyi telefone anyi?",
+        "a": "Eyowa. Dinaya dionso didi dikuata mudimu mu rezo mu telefone, ordinatere ya mu tshanza ne ordinatere minene, ne binfuanyikijilu bidi bivula bua kuwula pa skrini. Ordinatere ya mu tshanza mishindamija pamue itu misangu mivule mipite buimpe bua bantu babidi."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Manaya aa adi makane bua muntu udi ne disama dia Alzheimer anyi?",
+        "a": "Eyowa. Bakamaenza bua bantu badi ne lutatu lua kupua muoyo, pamue ne disama dia Alzheimer didi ditamba kumueneka. Binfuanyikijilu bitu bishala patoke, bisungula bidi anu bikese, ne kakuena tshikondo tshidi tshibala dîba anyi kaye to; nanku manaya adi mashindamene pa kumanya bintu bimanyike pamutu pa kuvuluka bintu bipiabipia."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Manaya aa nga kuvuluka meji bua bakulumpe anyi?",
+        "a": "Aa adi manaya a kufuanyikijilu ne a binfuanyikijilu adi mukulumpe yonso mua kusanka nawu, kadi mabenze bua kabateta lungenyi lua muntu to: mu dinaya dia Kufuanyikija bimanyinu, binfuanyikijilu bitu bishala bitangile kulu pa kumbusha panudi nulekela nkayenu. Mukanda wetu wa buludiki bua manaya a lungenyi bua bakulumpe badi ne lutatu lua kupua muoyo udi umvuija mua kulama dinaya dionso mu bupole."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Kudi manaya bua bisumbu bia bantu mu nzubu ya bulami anyi?",
+        "a": "Eyowa. Bingo ya binfuanyikijilu idi ne makartone a kupatula ne mubikidi wa pa skrini, ne manaya a Kujikija tsumu ne manaya a Makartone a muyuki adi akuata mudimu bimpe panudi nuabala ne dîyi dikole kumpala kua tshisumbu."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ne Android",
+    "requirements": "iOS 15 anyi mupite apu; Android 7.0 anyi mupite apu",
+    "summary": "Porograme wa tshianana bua iPhone, iPad ne Android udi ne dinaya dia kufuanyikija binfuanyikijilu mu bupole pa bimanyinu binene binayi too ne dikumi ne bibidi, kufuanyikija ne kutangila binfuanyikijilu bia mu dîku binudi basungule, ne bisumbu muanda-mukulu bia binfuanyikijilu bidi munda bidi bikuata mudimu kakuyi internet. Kakuyi konte, mamanyisha, dîba anyi kaye.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Kufuanyikija binfuanyikijilu mu bupole ne bimanyinu binene 4, 6, 8 anyi 12; binfuanyikijilu bidi bishala bimueneka pa kumbusha panudi basungule bua kubisoka",
+      "Binfuanyikijilu bia mu dîku binudi basungule bidi bipiululua munda mua porograme bua kufuanyikija ne bua kutangila pamue",
+      "Tangilayi pamue: tshimfuanyikijilu tshimue ku tshikuabu ne ngenyi ya miyuki idi kayiyi mikose",
+      "Bisumbu muanda-mukulu bia binfuanyikijilu bidi munda mua porograme; bidi bikuata mudimu kakuyi internet",
+      "Kakuyi konte, mamanyisha, bintu bia kusumba mu porograme, dîba, kaye anyi dinyoka"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Kudi porograme wa midimu ya kupua muoyo anyi?",
+        "a": "Eyowa. Golden Moments (mudifunde mu dîna dia \"{storeName}\") udi wa tshianana mu App Store ne Google Play. Udi upesha mushindu wa kufuanyikija binfuanyikijilu mu bupole ne bimanyinu binene, manaya ne foto ya mu dîku inudi basungule, ne bisumbu bia binfuanyikijilu bidi bikuata mudimu kakuyi internet."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Porograme wa Golden Moments udi wa tshianana anyi?",
+        "a": "Eyowa. Udi wa tshianana bua kuupatula, kakuyi mamanyisha, konte anyi bintu bia kusumba munda muende to."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Porograme eu udi ukuata mudimu kakuyi internet anyi?",
+        "a": "Eyowa. Binfuanyikijilu bia ntuadijilu ne bisumbu bionso muanda-mukulu bia binfuanyikijilu bidi mu porograme eu, ne binfuanyikijilu bia mu dîku bidi bikuata mudimu kakuyi internet padibu bamane kubipingaja mu porograme. Kusungula tshimfuanyikijilu tshilama anu mu iCloud kudi mua kulomba rezo wa internet."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Ndi mua kuenza mudimu ne binfuanyikijilu bia mu dîku dietu nkayetu anyi?",
+        "a": "Eyo. Sungula bafoto na kitola-foto kya tshiamu kyobe. Porograme ulamanga kopi mityetye mu tshiamu mwanda wa manaya ande, kebaitumejangapo pa Enternete kadi keishintanga bafoto ba kashaa to. Ubwanya kutalula kopi zino pa kyaba kyonso."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Lelo ino i porograme ya kufundija bongo nansha ya kutompa kuvuluka?",
+        "a": "Nansha. Golden Moments i ya kusangala ne kupitshisha kitatyi pamo. Keinapo manompi nansha matompo, kadi keilopolepo, keibundepo, keikankikepo nansha kupima disama dya kuvulaminyana nansha dya Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Le ingilanga pa byombelo’ka?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Lelo kudi muswelo wa porograme wa kano kayo?",
+      "a": "Eyo. Porograme wa bitupu wa Golden Moments mwanda wa iPhone, iPad ne Android udi na kukwatañanya bafoto mu ndoe, ubwanya kwingidija bafoto ba kisaka bossungula, kadi wingilanga pampikwa Enternete. Kutupu konte, byabupata nansha manompi."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Lelo kudi muswelo wa porograme wa kano kayo?",
+      "a": "Ke wa kano kayopo. Porograme wa bitupu wa Golden Moments mwanda wa iPhone, iPad ne Android udi na kukwatañanya bafoto mu ndoe na bipese bikata ne bafoto ba kisaka bossungula, kadi wingilanga pampikwa Enternete. Kano kayo kashalanga ka bitupu pano mu mukwashi wobe wa Enternete."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: bafoto bakata kadi ba lusekelo",
+    "noscript": "Kano kayo kasakilwa JavaScript yetekelwa mu navigatere wobe. Madingi adi munshi mwino engilanga nansha pampikwa nayo.",
+    "about": "Mwanda utala {name}",
+    "aboutAria": "Mwanda utala kano kayo",
+    "noTimer": "Kutupu luteko lwa kitatyi nansha manompi",
+    "printable": "Biprintwa",
+    "howTo": "Muswelo wa kukaya {name}",
+    "tips": "Madingi a kukaya pamo",
+    "newToPlayingHtml": "Lelo udi mupya mu kukaya na muntu udi na lutatu lwa kuvulaminyana? Tanga <a href=\"/caregiving/how-to-play-together/\">muswelo wa kukaya makayo pamo</a>, kubadila’mo ne bintu bya kulonga shi ashimba mutyima.",
+    "moreAria": "Bintu bikwabo bya kutala",
+    "helpfulGuides": "Bulombodi bwa bukwashi",
+    "appTitle": "Kaya’ko mu porograme",
+    "appText": "Porograme wa bitupu wa Golden Moments udi na kukwatañanya bafoto mu ndoe na bipese bikata ne bafoto bobe ba kisaka, kadi wingilanga pampikwa Wi‑Fi. iPhone, iPad ne Android.",
+    "photoAppTitle": "Lama bafoto bobe bateakanye",
+    "photoAppText": "Mu porograme wa bitupu wa Golden Moments, bafoto bousungula bashalanga mu aparaye wobe mwanda wa kitatyi kīya, ne makayo engilanga pampikwa Wi‑Fi. iPhone, iPad ne Android.",
+    "goodToKnow": "Kiyampe kuyuka",
+    "goodToKnowText": "Kano kayo i ka kusangala ne kupitshisha kitatyi pamo. Ke katompangapo, ke kapimangapo nansha kubunda kintu nakimo.",
+    "moreGames": "Makayo makwabo a ndoe",
+    "crumb": "Makayo"
   }
 }

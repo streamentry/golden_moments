@@ -1,0 +1,807 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Redya yn ughel",
+      "stopReading": "Hedhi redya",
+      "region": "Gwari",
+      "restart": "Dalleth arta",
+      "soundOn": "Sonyow kosel yw byw",
+      "soundOff": "Sonyow kosel yw marow",
+      "done": "Lowr lemmyn",
+      "feedbackQuestion": "A wrug hemma gweres hedhyw?",
+      "feedbackYes": "Gwrug",
+      "feedbackNo": "Na wrug, yn hwir",
+      "feedbackThanks": "Meur ras a’gas kows orthyn."
+    },
+    "tile": {
+      "named": "{name}, prileghen {n}",
+      "hidden": "Skeusen gudhys, prileghen {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kevrynnys",
+      "selected": "Dewisys",
+      "picture": "Skeusen",
+      "photoNumber": "Foten {n}"
+    },
+    "pairs": {
+      "allTogether": "Pub kopel yw war-barth. Gwrewgh gwari arta po kemeres powes.",
+      "photoPair": "Kopel a fotos, war-barth.",
+      "picturePair": "Dew skeusen a’n {name|lower}, war-barth.",
+      "selected": "{name}. Lemmyn kevowgh y bar.",
+      "mismatch": "Kemerowgh agas termyn. Tappyowgh skeusen rag pesya.",
+      "mismatchNamed": "{a} ha {b}. Kemerowgh agas termyn. Tappyowgh skeusen rag pesya."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tappyowgh unn skeusen, hag ena tappyowgh an huni a dhalleth gans hi.",
+      "guidanceHidden": "Tappyowgh dew brileghen rag aga threlya. Hwilewgh dew an keth.",
+      "restart": "Skeusennow nowydh",
+      "sizeLegend": "Niver a brileghennow",
+      "size": {
+        "zero": "Yma {n} prileghen.",
+        "one": "Yma {n} prileghen.",
+        "two": "Yma {n} brileghen.",
+        "few": "Yma {n} prileghen.",
+        "many": "Yma {n} prileghen.",
+        "other": "Yma {n} prileghen."
+      },
+      "viewLegend": "Fatel wari",
+      "viewShowing": "Skeusennow ow tyskwedhes",
+      "viewHidden": "Skeusennow kudhys",
+      "playAgain": "Gwrewgh gwari arta gans skeusennow nowydh",
+      "talk": "Kowsel a-dro dhe skeusennow war-barth"
+    },
+    "choose": {
+      "countLegend": "Niver a skeusennow",
+      "count": "{n} dhe dhewis anedha",
+      "thatOne": "An huni na yw an {name|lower}. Kemerowgh agas termyn."
+    },
+    "findTheSame": {
+      "guidance": "Mirewgh orth an skeusen a-wartha. Tappyowgh an keth huni a-woles.",
+      "yes": "Ya, an keth {name|lower}.",
+      "next": "An nessa skeusen"
+    },
+    "shadowMatch": {
+      "guidance": "Mirewgh orth an skeus a-wartha. Tappyowgh an skeusen a’n gwrer.",
+      "yes": "Ya, an {name|lower} a wra an skeus na.",
+      "next": "An nessa skeus",
+      "shadowAlt": "Skeus dhe dhallath",
+      "foundAlt": "Skeus an {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tappyowgh unn skeusen, hag ena tappyowgh an gisten mayth yw hi.",
+      "restart": "Skeusennow nowydh",
+      "themeLegend": "Testen",
+      "selected": "{name}. Lemmyn tappyowgh an gisten mayth a.",
+      "pickFirst": "Kynsa tappyowgh skeusen, hag ena tappyowgh kisten.",
+      "hint": "An {name|lower} a yll mos y’n gisten «{basket}». Tappyowgh an gisten na rag hy gorra ena.",
+      "placed": "Yma an {name|lower} y’n gisten «{basket}».",
+      "sorted": "Pub tra yw arayys. Gwrewgh mires der an kistow war-barth, po assaya testen aral.",
+      "basket": {
+        "zero": "Kisten {basket}, {count} skeusen a-berth.",
+        "one": "Kisten {basket}, {count} skeusen a-berth.",
+        "two": "Kisten {basket}, {count} skeusen a-berth.",
+        "few": "Kisten {basket}, {count} skeusen a-berth.",
+        "many": "Kisten {basket}, {count} skeusen a-berth.",
+        "other": "Kisten {basket}, {count} skeusen a-berth."
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tappyowgh unn darn, hag ena tappyowgh darn aral. I a janj le.",
+      "restart": "Kemmyska arta",
+      "pictureLegend": "Skeusen",
+      "pictures": {
+        "sailboat": "Skath gool",
+        "house": "Chi",
+        "balloon": "Ayrydh",
+        "sunflower": "Bleujen howlek",
+        "lighthouse": "Golowji",
+        "cat": "Kath"
+      },
+      "sizeLegend": "Darnow",
+      "size": {
+        "zero": "{n} darn.",
+        "one": "{n} darn.",
+        "two": "{n} dharn.",
+        "few": "{n} darn.",
+        "many": "{n} darn.",
+        "other": "{n} darn."
+      },
+      "pickedUp": "Darn kemerys. Lemmyn tappyowgh le may tal dalleth.",
+      "whole": "Yma an {name|lower} dien arta. Dewisewgh skeusen aral pan vynnowgh.",
+      "swapped": {
+        "zero": "Keschanjys. Yma {correct} a {total} darn yn le.",
+        "one": "Keschanjys. Yma {correct} a {total} darn yn le.",
+        "two": "Keschanjys. Yma {correct} a {total} dharn yn le.",
+        "few": "Keschanjys. Yma {correct} a {total} darn yn le.",
+        "many": "Keschanjys. Yma {correct} a {total} darn yn le.",
+        "other": "Keschanjys. Yma {correct} a {total} darn yn le."
+      },
+      "guideAlt": "An skeusen dien: {name}",
+      "guideText": "Hemma yw fatel hevel an skeusen pan yw dien.",
+      "piece": "Darn y’n {place}",
+      "pieceInPlace": ", y’n le ewn",
+      "piecePickedUp": ", kemerys",
+      "places4": [
+        "kledh a-wartha",
+        "dyghow a-wartha",
+        "kledh a-woles",
+        "dyghow a-woles"
+      ],
+      "places9": [
+        "kledh a-wartha",
+        "kres a-wartha",
+        "dyghow a-wartha",
+        "kledh y’n kres",
+        "kres",
+        "dyghow y’n kres",
+        "kledh a-woles",
+        "kres a-woles",
+        "dyghow a-woles"
+      ],
+      "done": "Yma an skeusen dien arta. Gwrewgh gwari arta po kemeres powes.",
+      "playAgain": "Kemmyska arta"
+    },
+    "finishTheSaying": {
+      "guidance": "Redyowgh an lavar war-barth, hag ena tappyowgh an ger a’n gorfen.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ya, «{start} {end}».",
+      "otherEnding": "Yma «{word}» owth oberi ynwedh. An lavar usadow a worfen gans «{end}».",
+      "revealed": "An lavar yw «{start} {end}».",
+      "choicesLabel": "Dewisewgh an ger diwettha",
+      "show": "Diskwedhes an diwedh",
+      "talk": "Kowsel a-dro dhodho: ",
+      "next": "An nessa lavar"
+    },
+    "wordSearch": {
+      "guidance": "Geryow a dhe a-dreus po a-woles. Tappyowgh an kynsa lytheren a er, hag ena hy lytheren dhiwettha.",
+      "restart": "Tosl nowydh",
+      "themeLegend": "Testen",
+      "sizeLegend": "Mens an roos",
+      "size": {
+        "zero": "{n} gans {n} ({words} ger).",
+        "one": "{n} gans {n} ({words} ger).",
+        "two": "{n} gans {n} ({words} er).",
+        "few": "{n} gans {n} ({words} ger).",
+        "many": "{n} gans {n} ({words} ger).",
+        "other": "{n} gans {n} ({words} ger)."
+      },
+      "print": "Pryntya an tosl ma",
+      "letterChosen": "Lytheren {letter} dewisys. Lemmyn tappyowgh an lytheren dhiwettha a’n ger.",
+      "found": "{word} kevys.",
+      "foundAll": "{word} kevys. Henn yw pub ger. Gwrewgh gwari arta po kemeres powes.",
+      "tryAgain": "Kemerowgh agas termyn. Tappyowgh an kynsa lytheren a er, hag ena hy lytheren dhiwettha.",
+      "gridLabel": "Roos a lytherennow, {n} rew a {n} lytheren. Usyewgh an gw arrow rag movya ynter lytherennow.",
+      "cell": "{letter}, rew {row}, koloven {col}",
+      "cellFound": ", rann a er kevys",
+      "wordsHeading": "Geryow dhe gavoes",
+      "wordFound": " (kevys)",
+      "sheetTitle": "Hwilas geryow: {theme}",
+      "sheetNote": "Geryow a dhe a-dreus po a-woles.",
+      "unavailable": "Nyns yw roos a lytherennow gwiw rag an yeth ma, ytho ny brofynnir an hwilas geryow omma. Assayewgh an gwariow skeusen yn y le."
+    },
+    "coloring": {
+      "guidance": "Tappyowgh liw, hag ena tappyowgh rann a’n skeusen.",
+      "restart": "Klerhe an liwyow",
+      "cleared": "Yma an folen gwag arta.",
+      "pageLegend": "Folen",
+      "print": "Pryntya an folen ma",
+      "colorsLabel": "Liwyow",
+      "paintChosen": "{paint} dewisys.",
+      "painted": "Yma {part} lemmyn {paint|lower}.",
+      "artLabel": "{page}, {count} rann dhe liwa",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, heb liw",
+      "paints": {
+        "red": "Rudh",
+        "orange": "Rudhvelyn",
+        "yellow": "Melyn",
+        "green": "Gwyrdh",
+        "blue": "Glas",
+        "purple": "Purpur",
+        "pink": "Rudhgwynn",
+        "brown": "Gell",
+        "sky-blue": "Glas an ebron",
+        "cream": "Dehen",
+        "gray": "Loos",
+        "white": "Gwynn"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Redyowgh an garten yn ughel. Nyns eus gorthebow ewn.",
+      "position": "Karten {n} a {total}",
+      "themeLegend": "Testen",
+      "next": "An nessa karten",
+      "previous": "An garten gyns",
+      "print": "Pryntya pub karten",
+      "sheetTitle": "Kartennow kescows"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Dallethowgh dre dhewis agas fotos.",
+      "guidance": "Tappyowgh unn foten, hag ena tappyowgh an huni a dhalleth gans hi.",
+      "restart": "Kemmyska arta",
+      "intro": "**Dewisewgh 2 dhe 6 foten** a’n devis ma. I a vydh diskwedhys war an folen ma yn unnik ha ny vydhons byth ughkargys po gwithys.",
+      "choose": "Dewis fotos",
+      "chooseDifferent": "Dewis fotos dyffrans",
+      "clear": "Klerhe an fotos",
+      "cleared": "Fotos klerhes a’n folen ma.",
+      "atLeastTwo": "Mar pleg, dewisewgh dhe’n lyha dew foten.",
+      "usingFirst": "Owth usya an kynsa {max} foten.",
+      "skipped": {
+        "zero": "Nyns o {count} restren skeusen a allon diskwedhes.",
+        "one": "Nyns o {count} restren skeusen a allon diskwedhes.",
+        "two": "Nyns o {count} restren skeusen a allon diskwedhes.",
+        "few": "Nyns o {count} restren skeusen a allon diskwedhes.",
+        "many": "Nyns o {count} restren skeusen a allon diskwedhes.",
+        "other": "Nyns o {count} restren skeusen a allon diskwedhes."
+      },
+      "playAgain": "Gwrewgh gwari arta gans an fotos ma",
+      "empty": "Agas fotos a wra omdhiskwedhes omma, pub huni diwys."
+    },
+    "pictureBingo": {
+      "guidance": "Pryntyowgh an kartennow kynsa. Ena diskwedhewgh an gelwel ma war an skrin moyha a’gas bo.",
+      "called": {
+        "zero": "{name}. {called} a {total} skeusen gelwys.",
+        "one": "{name}. {called} a {total} skeusen gelwys.",
+        "two": "{name}. {called} a {total} skeusen gelwys.",
+        "few": "{name}. {called} a {total} skeusen gelwys.",
+        "many": "{name}. {called} a {total} skeusen gelwys.",
+        "other": "{name}. {called} a {total} skeusen gelwys."
+      },
+      "start": "Tappyowgh «Nessa skeusen» rag gelwel an kynsa skeusen.",
+      "restart": "Dalleth gwari nowydh",
+      "squaresLegend": "Karegow war bub karten",
+      "squares": "{n} karr ({side} gans {side})",
+      "cardsLegend": "Niver a gartennow dhe brintya",
+      "cards": {
+        "zero": "{n} karten.",
+        "one": "{n} garten.",
+        "two": "{n} garten.",
+        "few": "{n} karten.",
+        "many": "{n} karten.",
+        "other": "{n} karten."
+      },
+      "print": {
+        "zero": "Pryntya {n} karten bingo.",
+        "one": "Pryntya {n} garten bingo.",
+        "two": "Pryntya {n} garten bingo.",
+        "few": "Pryntya {n} karten bingo.",
+        "many": "Pryntya {n} karten bingo.",
+        "other": "Pryntya {n} karten bingo."
+      },
+      "ready": "Parys pan vowgh hwi",
+      "next": "Nessa skeusen",
+      "allCalled": "Pub skeusen re beu gelwys",
+      "alreadyCalled": "Gelwys seulabrys",
+      "sheetTitle": "Bingo skeusennow · karten {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Anella a-bervedh ha’n kylgh ow tevi, hag yn-mes ha’n kylgh ow lehe. Ev a hedha yn y honan wosa hwegh anell.",
+      "paceLegend": "Tooth",
+      "paceSlow": "Lent (5 eylen pub tu)",
+      "paceGentle": "Kosel (4 eylen pub tu)",
+      "ready": "Parys pan vynnydh",
+      "in": "Anella a-bervedh",
+      "hold": "Powes",
+      "out": "Anella yn-mes",
+      "start": "Dalleth",
+      "stop": "Hedhi",
+      "started": "Dallethys. Anella a-bervedh ha’n kylgh ow tevi.",
+      "stopped": "Hedhys.",
+      "finished": "Hwegh anell lent re beu. Dalleth arta pan vynnydh."
+    }
+  },
+  "pictures": {
+    "teacup": "Hanafas te",
+    "kettle": "Kettel",
+    "bread": "Torth bara",
+    "frying-pan": "Padell frians gans oy",
+    "cake": "Tesenn penn-bloedh",
+    "sunflower": "Bleujen an howl",
+    "tulip": "Tulyfan rudh",
+    "watering-can": "Kann dhowrhe",
+    "potted-plant": "Losowen yn pot",
+    "tree": "Gwedhen",
+    "bird": "Rudhik war barren",
+    "butterfly": "Tegeskol",
+    "dog": "Ki",
+    "cat": "Kath",
+    "fish": "Pysk owrek",
+    "apple": "Aval rudh",
+    "pear": "Peren",
+    "strawberry": "Sevien",
+    "banana": "Banana",
+    "lemon": "Lymmen",
+    "cherries": "Keres",
+    "house": "Chi",
+    "lamp": "Lamp voos",
+    "armchair": "Kador-vregh",
+    "key": "Alhwedh koth",
+    "umbrella": "Glawlen",
+    "sailboat": "Gorhel",
+    "car": "Karr koth",
+    "bicycle": "Diwros",
+    "balloon": "Ayryskyn tomm",
+    "lighthouse": "Goleudy",
+    "sun": "Howl",
+    "moon": "Loor ha ster",
+    "teapot": "Teghot",
+    "apple-pie": "Hogen aval",
+    "honey-jar": "Jarr mel",
+    "boiled-egg": "Oy bryjys yn hanafas oy",
+    "toaster": "Tostyer",
+    "cheese": "Tamm keus",
+    "milk-jug": "Joug leth",
+    "cupcake": "Tesennik",
+    "orange": "Owraval",
+    "grapes": "Bagas grappys",
+    "watermelon": "Tregh pompyon dhowr",
+    "pineapple": "Ananas",
+    "peach": "Pechen",
+    "rose": "Rosen",
+    "daisies": "Briallen",
+    "mushroom": "Skavel-gronek",
+    "wheelbarrow": "Kruv",
+    "birdhouse": "Chi ydhyn",
+    "cactus": "Kaktus yn pot",
+    "acorn": "Mesen",
+    "autumn-leaf": "Delen kynnyav",
+    "rabbit": "Konin",
+    "duck": "Hos",
+    "hen": "Yar",
+    "sheep": "Davas",
+    "owl": "Kowla",
+    "ladybird": "Bugh-las",
+    "snail": "Melhwesen",
+    "frog": "Krogen",
+    "bee": "Gwenenen",
+    "clock": "Klock mantel",
+    "vase-of-flowers": "Fias bleujennow",
+    "radio": "Radyo koth",
+    "books": "Bern lyvrow",
+    "candle": "Kantol",
+    "glasses": "Dewedhow redya",
+    "telephone": "Pellgowser",
+    "ball-of-wool": "Pel gwlan",
+    "straw-hat": "Hatt howlek",
+    "train": "Tren ethenn",
+    "bus": "Karr-bus",
+    "airplane": "Jynn-ebron",
+    "suitcase": "Bagh viaj",
+    "tractor": "Traktor",
+    "rowing-boat": "Skath revya",
+    "rainbow": "Kammneves",
+    "rain-cloud": "Komolen law",
+    "snowflake": "Pluven ergh",
+    "kite": "Taylel",
+    "sunrise": "Howldrehevel a-ugh an breow"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frutys",
+          "words": [
+            "AVAL",
+            "PEREN",
+            "PLYMEN",
+            "LYMMEN",
+            "GRAP",
+            "PECHEN",
+            "MELON",
+            "FIGYS",
+            "ORES"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jardin",
+          "words": [
+            "ROSEN",
+            "HASEN",
+            "DOR",
+            "DELEN",
+            "GWEDH",
+            "POLL",
+            "GWEN",
+            "BLEU",
+            "PRYS"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kegin",
+          "words": [
+            "HANA",
+            "LOIVA",
+            "BARA",
+            "PADEL",
+            "BOL",
+            "PLATT",
+            "TE",
+            "FOURN",
+            "FORGH"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Awel",
+          "words": [
+            "HOWL",
+            "GLAW",
+            "ERGH",
+            "GWYN",
+            "KOMOL",
+            "TEWEDH",
+            "NIWL",
+            "KLOAR",
+            "TOMM"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Enyvales",
+          "words": [
+            "KI",
+            "KATH",
+            "EDHEN",
+            "PYSK",
+            "MARGH",
+            "BUGH",
+            "HOS",
+            "GAVER",
+            "YAR"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Tre",
+          "words": [
+            "DARAS",
+            "KADOR",
+            "LAMP",
+            "GWELI",
+            "LEUR",
+            "KELMI",
+            "KLOCK",
+            "DESK",
+            "ALWEDH"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Oll an gartennow",
+        "food": "Boos",
+        "home": "Tre",
+        "outdoors": "Yn-mes",
+        "animals": "Enyvales",
+        "travel": "Mos dhe dylleryow",
+        "work": "Ober ha didhanyow",
+        "music": "Ilow ha lowender",
+        "seasons": "Sesonyow"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Py fler a gar’ta moyha dhyworth kegin?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Py par tesenn a dhewissa’ta rag solempnita?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Lever dhymm a hogen frutys po didhan a gar’ta."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Fatell gar’ta dha de po dha goffy?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Pandr’a wra hansel pur dha?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "A wruss’ta kuntel frutys yn ewn dhyworth an losowen?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Hweg po trenk: pyneyl a gar’ta gwell?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Py boos a wra dhis perthi kov a hav?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Lever dhymm a ji a gar’ta trig ynno."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ple’ma dha le moyha kerys rag esedha ha powes?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Pandr’a gar’ta gul yn gorthugher kosel?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Py tra arvorek a withsa’ta yn kist arbennek?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Piw a elossa’ta dhe dhos rag hanafas te?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Pandr’a gar’ta gul yn jydh gleb?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Py bleujennow a blansa’ta yn lowarth?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Lever dhymm a wedhen po park a gar’ta."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Pyth yw an gwella rann a vos yn lowarth?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Py liw bleujennow a gar’ta moyha?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "A gar’ta kavos losow yn chi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Fatell vydh jydh howlek perfydh dhis?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Lever dhymm a gi a wodhes’ta."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kathes po keun, po nagonan? Pandr’a gar’ta ynna i?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Py ydhyn a wel’ta po a glyw’ta yn-mes?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "A wruss’ta mos dhe byskessa, po gwitha tank pysk?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Py enyval yw an moyha teg a welis’ta?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Lever dhymm a garr a gar’ta."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "A gar’ta gwell spena jydh war dreth po y’n menydhyow?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ple vynsa’ta mos rag ros?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Mar kalsa’ta nija a-ugh neb le, ple via ev?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Py viaj a enjoyas’ta?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Py par ober a gar’ta gul?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Py didhan a allsa’ta spena ouryow warno?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Pyth o neppyth a aswonys’ta rag y wul po y ewnhe?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Py kusul a ressa’ta dhe den yowynk ow talleth ober?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Py par ilow a wra dhis mynnes tappya dha dreys?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Pandr’a wra kevewi pur dha?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Piw yw kaner a gar’ta goslowes orto?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Py fylm po towlen bellwolok a gar’ta gweles arta?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Pandr’a gar’ta moyha a-dro dhe hav?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Pandr’a enjoya’ta a-dro dhe gynnyav?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Pyth yw neppyth toemm ha kosel dhe wul yn gorthugher gwav?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Pyth yw an kynsa sinys a wenton dhis?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Ergh, glaw po howlsplann: pyneyl a gar’ta gwell?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Bleujen yn pot",
+          "regions": {
+            "sky": "Kilva",
+            "table": "Moos",
+            "stem": "Garr",
+            "leaf-left": "Delen gleth",
+            "leaf-right": "Delen dhyhow",
+            "petal-1": "Bleujenken 1",
+            "petal-2": "Bleujenken 2",
+            "petal-3": "Bleujenken 3",
+            "petal-4": "Bleujenken 4",
+            "petal-5": "Bleujenken 5",
+            "petal-6": "Bleujenken 6",
+            "petal-7": "Bleujenken 7",
+            "petal-8": "Bleujenken 8",
+            "center": "Kres an vleujen",
+            "pot": "Pot",
+            "pot-rim": "Amal an bot"
+          }
+        },
+        "house": {
+          "name": "Chi",
+          "regions": {
+            "sky": "Ebron",
+            "sun": "Howl",
+            "grass": "Gwels",
+            "chimney": "Chymbla",
+            "walls": "Fosow",
+            "roof": "To",
+            "door": "Daras",
+            "window-left": "Fenester gleth",
+            "window-right": "Fenester dhyhow",
+            "path": "Hyns"
+          }
+        },
+        "teacup": {
+          "name": "Hanafas te",
+          "regions": {
+            "background": "Kilva",
+            "saucer": "Askel",
+            "handle": "Dornla",
+            "cup": "Hanafas",
+            "band": "Brith war an hanafas",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Tegeskol",
+          "regions": {
+            "background": "Kilva",
+            "wing-top-left": "Askel a-ugh kleth",
+            "wing-top-right": "Askel a-ugh dhyhow",
+            "wing-bottom-left": "Askel a-woles kleth",
+            "wing-bottom-right": "Askel a-woles dhyhow",
+            "spot-left": "Brithen askel gleth",
+            "spot-right": "Brithen askel dhyhow",
+            "body": "Korf"
+          }
+        },
+        "sailboat": {
+          "name": "Gorhel",
+          "regions": {
+            "sky": "Ebron",
+            "sea": "Mor",
+            "sail-big": "Goul vras",
+            "sail-small": "Goul vyghan",
+            "mast": "Gwern",
+            "hull": "Korf an gorhel",
+            "flag": "Baner"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kegin ha lowarth",
+          "baskets": [
+            "Y'n gegin",
+            "Y'n lowarth"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frut hag enevales",
+          "baskets": [
+            "Frut",
+            "Enevales"
+          ]
+        },
+        "home-travel": {
+          "label": "Y'n tre ha viajya",
+          "baskets": [
+            "Y'n tre",
+            "Yn-mes"
+          ]
+        }
+      }
+    }
+  }
+}

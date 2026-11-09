@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Bi deng bixwîne",
+      "stopReading": "Xwendinê rawestîne",
+      "region": "Lîstik",
+      "restart": "Ji nû ve dest pê bike",
+      "soundOn": "Dengên nerm vekirî ne",
+      "soundOff": "Dengên nerm girtî ne",
+      "done": "Ji bo niha qediya",
+      "feedbackQuestion": "Gelo vê îro alîkarî kir?",
+      "feedbackYes": "Erê",
+      "feedbackNo": "Ne pir",
+      "feedbackThanks": "Spas ku we ji me re got."
+    },
+    "tile": {
+      "named": "{name}, parçe {n}",
+      "hidden": "Wêneyê veşartî, parçe {n}",
+      "withState": "{label}, {state}",
+      "matched": "Hevhatî",
+      "selected": "Hate hilbijartin",
+      "picture": "Wêne",
+      "photoNumber": "Wêne {n}"
+    },
+    "pairs": {
+      "allTogether": "Hemû cot li hev hatin. Dîsa bilîzin an jî bêhna xwe vedin.",
+      "photoPair": "Cotek wêne, bi hev re.",
+      "picturePair": "Du wêneyên {name|lower}, bi hev re.",
+      "selected": "{name}. Niha cota wê bibînin.",
+      "mismatch": "Bêlez bin. Ji bo berdewamiyê li ser wêneyekê bixin.",
+      "mismatchNamed": "{a} û {b}. Bêlez bin. Ji bo berdewamiyê li ser wêneyekê bixin."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Li ser wêneyekê bixin, paşê li ser ya hevahenga wê bixin.",
+      "guidanceHidden": "Li ser du parçeyan bixin da ku bizivirin. Li du wêneyên wekhev bigerin.",
+      "restart": "Wêneyên nû",
+      "sizeLegend": "Hejmara parçeyan",
+      "size": {
+        "one": "{n} parçe",
+        "other": "{n} parçe"
+      },
+      "viewLegend": "Awayê lîstinê",
+      "viewShowing": "Wêneyên vekirî",
+      "viewHidden": "Wêneyên veşartî",
+      "playAgain": "Bi wêneyên nû dîsa bilîzin",
+      "talk": "Bi hev re li ser wêneyan bipeyivin"
+    },
+    "choose": {
+      "countLegend": "Hejmara wêneyan",
+      "count": "{n} wêne ji bo hilbijartinê",
+      "thatOne": "Ew {name|lower} ye. Bêlez bin."
+    },
+    "findTheSame": {
+      "guidance": "Li wêneyê li jor binêrin. Li jêr li ser heman wêneyî bixin.",
+      "yes": "Erê, heman {name|lower}.",
+      "next": "Wêneyê din"
+    },
+    "shadowMatch": {
+      "guidance": "Li siya li jor binêrin. Li ser wêneyê ku wê çêdike bixin.",
+      "yes": "Erê, {name|lower} wê siyê çêdike.",
+      "next": "Siya din",
+      "shadowAlt": "Siyek ji bo hevrûkirinê",
+      "foundAlt": "Siya {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Li ser wêneyekê bixin, paşê li ser selika ku jê re guncaw e bixin.",
+      "restart": "Wêneyên nû",
+      "themeLegend": "Mijar",
+      "selected": "{name}. Niha li ser selika ku tê de cih digire bixin.",
+      "pickFirst": "Pêşî li ser wêneyekê bixin, paşê li ser selikekê bixin.",
+      "hint": "{name|lower} dikare têkeve nav «{basket}». Li ser wê selikê bixin da ku têxin navê.",
+      "placed": "{name|lower} di nav «{basket}» de ye.",
+      "sorted": "Her tişt hate rêzkirin. Bi hev re li selikan binêrin, an jî mijareke din biceribînin.",
+      "basket": {
+        "one": "Selika {basket}, {count} wêne tê de ye",
+        "other": "Selika {basket}, {count} wêne tê de ne"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Li ser parçeyekê bixin, paşê li ser parçeyekî din bixin. Ew ê cihên xwe biguherin.",
+      "restart": "Dîsa tevlihev bike",
+      "pictureLegend": "Wêne",
+      "pictures": {
+        "sailboat": "Keştiya bano",
+        "house": "Xanî",
+        "balloon": "Balon",
+        "sunflower": "Berberojk",
+        "lighthouse": "Birca ronahiyê",
+        "cat": "Pisîk"
+      },
+      "sizeLegend": "Parçe",
+      "size": {
+        "one": "{n} parçe",
+        "other": "{n} parçe"
+      },
+      "pickedUp": "Parçe hate hilgirtin. Niha li cihê ku divê biçe bixin.",
+      "whole": "{name|lower} dîsa bû yek parçe. Kengî bixwazin wêneyekî din hilbijêrin.",
+      "swapped": {
+        "one": "Cih hatin guhertin. {correct} ji {total} parçeyî di cihê xwe de ye.",
+        "other": "Cih hatin guhertin. {correct} ji {total} parçeyan di cihê xwe de ne."
+      },
+      "guideAlt": "Wêneyê temam: {name}",
+      "guideText": "Dema wêne temam dibe, bi vî rengî xuya dike.",
+      "piece": "Parçeyê li {place}",
+      "pieceInPlace": ", di cihê rast de",
+      "piecePickedUp": ", hatiye hilgirtin",
+      "places4": [
+        "jorê li çepê",
+        "jorê li rastê",
+        "jêrê li çepê",
+        "jêrê li rastê"
+      ],
+      "places9": [
+        "jorê li çepê",
+        "jorê li navendê",
+        "jorê li rastê",
+        "navînê li çepê",
+        "navend",
+        "navînê li rastê",
+        "jêrê li çepê",
+        "jêrê li navendê",
+        "jêrê li rastê"
+      ],
+      "done": "Wêne dîsa temam bû. Dîsa bilîzin an jî bêhna xwe vedin.",
+      "playAgain": "Dîsa tevlihev bike"
+    },
+    "finishTheSaying": {
+      "guidance": "Gotinê bi hev re bixwînin, paşê li ser peyva ku wê temam dike bixin.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Erê, «{start} {end}.»",
+      "otherEnding": "«{word}» jî dibe. Gotina naskirî bi «{end}» diqede.",
+      "revealed": "Gotin ev e: «{start} {end}.»",
+      "choicesLabel": "Peyva dawî hilbijêrin",
+      "show": "Dawiya wê nîşan bide",
+      "talk": "Li ser vê bipeyivin: ",
+      "next": "Gotina din"
+    },
+    "wordSearch": {
+      "guidance": "Peyv ber bi kêlekê an ber bi jêr ve diçin. Pêşî li ser tîpa yekem a peyvê, paşê li ser tîpa dawî bixin.",
+      "restart": "Lîstika nû",
+      "themeLegend": "Mijar",
+      "sizeLegend": "Mezinahiya qadê",
+      "size": {
+        "one": "{n} li ser {n} ({words} peyv)",
+        "other": "{n} li ser {n} ({words} peyv)"
+      },
+      "print": "Vê lîstikê çap bike",
+      "letterChosen": "Tîpa {letter} hate hilbijartin. Niha li ser tîpa dawî ya peyvê bixin.",
+      "found": "{word} hate dîtin.",
+      "foundAll": "{word} hate dîtin. Hemû peyv hatin dîtin. Dîsa bilîzin an jî bêhna xwe vedin.",
+      "tryAgain": "Bêlez bin. Li ser tîpa yekem a peyvê, paşê li ser tîpa dawî bixin.",
+      "gridLabel": "Tora tîpan, {n} rêz ji {n} tîpan pêk tê. Ji bo gerandina di navbera tîpan de tîşên arasteyê bikar bînin.",
+      "cell": "{letter}, rêza {row}, stûna {col}",
+      "cellFound": ", parçeyek ji peyva dîtî",
+      "wordsHeading": "Peyvên ku bên dîtin",
+      "wordFound": " (hate dîtin)",
+      "sheetTitle": "Dîtina peyvan: {theme}",
+      "sheetNote": "Peyv ber bi kêlekê an ber bi jêr ve diçin.",
+      "unavailable": "Tora tîpan ji bo vê zimanê guncan nîne, ji ber vê yekê lîstika dîtina peyvan li vir nîne. Li şûna wê lîstikên bi wêneyan biceribînin."
+    },
+    "coloring": {
+      "guidance": "Li ser rengekî bixin, paşê li ser parçeyekî wêneyî bixin.",
+      "restart": "Rengan paqij bike",
+      "cleared": "Rûpel dîsa spî bû.",
+      "pageLegend": "Rûpel",
+      "print": "Vê rûpelê çap bike",
+      "colorsLabel": "Reng",
+      "paintChosen": "{paint} hate hilbijartin.",
+      "painted": "{part} niha bû {paint|lower}.",
+      "artLabel": "{page}, {count} parçe ji bo rengdankirinê",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, nehatiye boyaxkirin",
+      "paints": {
+        "red": "Sor",
+        "orange": "Porteqalî",
+        "yellow": "Zer",
+        "green": "Kesk",
+        "blue": "Şîn",
+        "purple": "Mor",
+        "pink": "Pembe",
+        "brown": "Qehweyî",
+        "sky-blue": "Şîna ezmanî",
+        "cream": "Krem",
+        "gray": "Gewr",
+        "white": "Spî"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Qertê bi dengê bilind bixwînin. Bersiveke rast an şaş nîne.",
+      "position": "Qerta {n} ji {total}",
+      "themeLegend": "Mijar",
+      "next": "Qerta din",
+      "previous": "Qerta berê",
+      "print": "Hemû qertan çap bike",
+      "sheetTitle": "Qertên axaftinê"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Bi hilbijartina wêneyên xwe dest pê bikin.",
+      "guidance": "Li ser wêneyekê bixin, paşê li ser ya hevahenga wê bixin.",
+      "restart": "Dîsa tevlihev bike",
+      "intro": "Ji vê cîhazê **2 heta 6 wêneyan hilbijêrin**. Ew tenê li ser vê rûpelê tên nîşandan û tu carî nayên barkirin an tomarkirin.",
+      "choose": "Wêneyan hilbijêre",
+      "chooseDifferent": "Wêneyên cuda hilbijêre",
+      "clear": "Wêneyan jê bibe",
+      "cleared": "Wêne ji vê rûpelê hatin paqijkirin.",
+      "atLeastTwo": "Ji kerema xwe herî kêm du wêneyan hilbijêrin.",
+      "usingFirst": "{max} wêneyên pêşîn tên bikaranîn.",
+      "skipped": {
+        "one": "{count} pel ne wêneyek bû ku em karibin nîşan bidin.",
+        "other": "{count} pel ne wêne bûn ku em karibin nîşan bidin."
+      },
+      "playAgain": "Bi van wêneyan dîsa bilîzin",
+      "empty": "Wêneyên we dê li vir xuya bibin, her yek du caran."
+    },
+    "pictureBingo": {
+      "guidance": "Pêşî qertan çap bikin. Paşê vê rûpelê li ser mezintirîn ekrana xwe nîşan bidin.",
+      "called": {
+        "one": "{name}. {called} ji {total} wêneyî hate xwendin.",
+        "other": "{name}. {called} ji {total} wêneyan hatin xwendin."
+      },
+      "start": "Ji bo xwendina wêneyê yekem li ser «Wêneyê din» bixin.",
+      "restart": "Lîstikeke nû dest pê bike",
+      "squaresLegend": "Xaneyên li ser her qertê",
+      "squares": "{n} xane ({side} li ser {side})",
+      "cardsLegend": "Çend qert bên çapkirin",
+      "cards": {
+        "one": "{n} qert",
+        "other": "{n} qert"
+      },
+      "print": {
+        "one": "{n} qerta bîngoyê çap bike",
+        "other": "{n} qertên bîngoyê çap bike"
+      },
+      "ready": "Dema hûn amade bin em amade ne",
+      "next": "Wêneyê din",
+      "allCalled": "Hemû wêne hatin xwendin",
+      "alreadyCalled": "Beriya niha hate xwendin",
+      "sheetTitle": "Bîngoya bi wêneyan · qerta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Gava xelek mezin dibe bêhna xwe bikişînin, gava biçûk dibe jî berdin. Piştî şeş caran bi serê xwe disekine.",
+      "paceLegend": "Lez",
+      "paceSlow": "Hêdî (ji bo her aliyekî 5 çirke)",
+      "paceGentle": "Hêmin (ji bo her aliyekî 4 çirke)",
+      "ready": "Kengî hûn amade bin",
+      "in": "Bêhna xwe bikişînin",
+      "hold": "Bêhnvedan",
+      "out": "Bêhna xwe berdin",
+      "start": "Dest pê bike",
+      "stop": "Bisekine",
+      "started": "Dest pê kir. Gava xelek mezin dibe bêhna xwe bikişînin.",
+      "stopped": "Sekinî.",
+      "finished": "Ev şeş bêhnhildanên hêdî bûn. Kengî bixwazin dîsa dest pê bikin."
+    }
+  },
+  "pictures": {
+    "teacup": "Fîncan",
+    "kettle": "Ketil",
+    "bread": "Nan",
+    "frying-pan": "Tawa bi hêk",
+    "cake": "Kêka rojbûnê",
+    "sunflower": "Gulberoj",
+    "tulip": "Laleya sor",
+    "watering-can": "Avdank",
+    "potted-plant": "Riweka nav kûpikê",
+    "tree": "Dar",
+    "bird": "Çûkê ser çiqil",
+    "butterfly": "Perperik",
+    "dog": "Kûçik",
+    "cat": "Pisîk",
+    "fish": "Masiyê zêrîn",
+    "apple": "Sêva sor",
+    "pear": "Hirmî",
+    "strawberry": "Tûfiringî",
+    "banana": "Mûz",
+    "lemon": "Lîmon",
+    "cherries": "Gêlaz",
+    "house": "Xanî",
+    "lamp": "Lampeya maseyê",
+    "armchair": "Qoltuq",
+    "key": "Mifteya kevn",
+    "umbrella": "Sîwan",
+    "sailboat": "Belema bi bader",
+    "car": "Otomobîla kevnar",
+    "bicycle": "Bisîklet",
+    "balloon": "Balona hewayê",
+    "lighthouse": "Birca deryayê",
+    "sun": "Roj",
+    "moon": "Heyv û stêrk",
+    "teapot": "Çaydank",
+    "apple-pie": "Şîraniya sêvan",
+    "honey-jar": "Kûpê hingiv",
+    "boiled-egg": "Hêka keliya",
+    "toaster": "Makîneya tostê",
+    "cheese": "Perçeyek penêr",
+    "milk-jug": "Kûpika şîr",
+    "cupcake": "Kêkik",
+    "orange": "Porteqal",
+    "grapes": "Milê tirî",
+    "watermelon": "Qetê zebeş",
+    "pineapple": "Ananas",
+    "peach": "Xox",
+    "rose": "Gul",
+    "daisies": "Beybûn",
+    "mushroom": "Kivark",
+    "wheelbarrow": "Elerebe",
+    "birdhouse": "Hêlîna çûkan",
+    "cactus": "Kaktûsa nav kûpikê",
+    "acorn": "Belût",
+    "autumn-leaf": "Pelê payizê",
+    "rabbit": "Kerguh",
+    "duck": "Werdek",
+    "hen": "Mirîşk",
+    "sheep": "Pez",
+    "owl": "Kund",
+    "ladybird": "Xalxalok",
+    "snail": "Kezik",
+    "frog": "Beq",
+    "bee": "Mêşa hingiv",
+    "clock": "Saeta maseyê",
+    "vase-of-flowers": "Guldanka bi kulîlk",
+    "radio": "Radyoya kevn",
+    "books": "Koma pirtûkan",
+    "candle": "Mom",
+    "glasses": "Berçavkên xwendinê",
+    "telephone": "Telefon",
+    "ball-of-wool": "Girikê hirî",
+    "straw-hat": "Kilaşê tavê",
+    "train": "Trêna bi dûkêl",
+    "bus": "Otobus",
+    "airplane": "Balafir",
+    "suitcase": "Bawul",
+    "tractor": "Traktor",
+    "rowing-boat": "Belema bi kûrek",
+    "rainbow": "Keskesor",
+    "rain-cloud": "Ewrê baranê",
+    "snowflake": "Kuliya berfê",
+    "kite": "Bafirok",
+    "sunrise": "Hilatina rojê li ser çiyayan"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCÇDEÊFGHIÎKLMNOPRSŞTUÛVWXYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fêkî",
+          "words": [
+            "SÊV",
+            "HIRMÎ",
+            "XOX",
+            "MÛZ",
+            "TIRÎ",
+            "HÊJÎR",
+            "ZEBEŞ",
+            "GÊLAZ",
+            "LÎMON"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Baxçe",
+          "words": [
+            "GUL",
+            "DAR",
+            "PEL",
+            "TOXIM",
+            "XAK",
+            "GOL",
+            "BEYBÛN",
+            "MÊŞ",
+            "LALE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Mitbax",
+          "words": [
+            "NAN",
+            "ÇAY",
+            "TAWA",
+            "TAS",
+            "SÊNÎ",
+            "KÊR",
+            "KEVÇÎ",
+            "ÇENGAL",
+            "FIRIN"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Hewa",
+          "words": [
+            "ROJ",
+            "BARAN",
+            "BERF",
+            "EWR",
+            "BAHÔZ",
+            "TAV",
+            "MIJ",
+            "GERMA",
+            "SERMA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Ajal",
+          "words": [
+            "KÛÇIK",
+            "PISÎK",
+            "ÇÛK",
+            "MASÎ",
+            "HESP",
+            "ÇÊLEK",
+            "BIZIN",
+            "MIH",
+            "MIRÎŞK"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Mal",
+          "words": [
+            "DERÎ",
+            "KURSÎ",
+            "MASE",
+            "LAMPE",
+            "RAXER",
+            "MÎFTE",
+            "SAET",
+            "NIVÎN",
+            "QOLTUQ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Hemû qert",
+        "food": "Xwarin",
+        "home": "Mal",
+        "outdoors": "Li derve",
+        "animals": "Ajal",
+        "travel": "Geryan",
+        "work": "Kar û mijûlahî",
+        "music": "Muzîk û şahî",
+        "seasons": "Werzên salê"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Bîhna çi ya ji mitbaxê herî zêde kêfa we tîne?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ji bo rojeke şahî û pîrozbahiyê, hûn ê kîjan cure kêkê hilbijêrin?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Hûn dikarin behsa şîraniyeke ku hûn pir jê hez dikin bikin?"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Hûn çay an qehweya xwe çawa hez dikin vexwin?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Taştêyeke pir xweş li gorî we çawa ye?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Gelo heta niha we fêkî rasterast ji ser darê an riwekê çinîye?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Şêrîn an tirş: kîjan bêtir bi dilê we ye?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kîjan xwarin an fêkî havînê tîne bîra we?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Hûn dikarin behsa maleke ku we ji jiyana tê de hez dikir bikin?"
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Cihê we yê herî xweş ji bo rûniştin û bêhnvedanê li ku ye?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Di êvareke aram û bêdeng de, hûn ji çi hez dikin bikin?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Hûn ê kîjan tiştê xwe yê hêja di qutiyeke taybet de biparêzin?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Hûn ê kê ji bo fîncanek çayê vexwînin mala xwe?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Di rojeke baranî de, çi kêfa we tîne?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Heke baxçeyek we hebûya, we ê kîjan kulîlkan biçanda?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Hûn dikarin behsa darekê an parkeke ku hûn jê hez dikin bikin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Aliyê herî xweş ê mayîna li nav baxçeyekî çi ye?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Hûn herî zêde ji kîjan rengê kulîlkan hez dikin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Gelo mayîna kulîlk û riwekan li nav malê bi dilê we ye?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Li gorî we rojeke xweş a tavî çawa ye?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Hûn dikarin behsa kûçikekî ku we naskiriye bikin?"
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pisîk an kûçik, an jî yek ji wan na? Çi tiştê wan bi dilê we ye?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Li derve dengê kîjan çûkan dibihîzin an wan dibînin?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Gelo heta niha we masiyên akwaryûmê xwedî kirine an çûne masîgirtinê?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Heywanê herî bedew ê ku we heta niha dîtiye kîjan e?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Hûn dikarin behsa erebeyekê ku we jê hez dikir bikin?"
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Hûn bêtir hez dikin rojekê li ber deryayê derbas bikin an li serê çiya?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ji bo geryanekê hûn ê bixwazin biçin ku derê?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Heke derfeta we hebûya ku hûn li ser cihekî bifirin, we ê kîjan der hilbijarta?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Gelo sefera ku we pir jê hez kir kîjan bû?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kîjan kar an pîşeyê herî zêde kêfa we dianî?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Kîjan mijûlahî an sergermî dikare saetan bala we bikişîne?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Hûn bi çêkirin an temîrkirina kîjan tiştî dihatin naskirin?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "We ê çi şîret li ciwanekî bikira ku nû dest bi kar dike?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kîjan cureyê muzîkê dihêle hûn bi rîtma wê bilivin?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Şahiyeke pir xweş li gorî we çawa çêdibe?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Hunermend an stranbêjekî ku hûn hez dikin lê guhdarî bikin kî ye?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kîjan fîlm an bernameya televîzyonê heye ku hûn dixwazin dîsa lê temaşe bikin?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Di demsala havînê de çi herî zêde bi dilê we ye?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Di demsala payizê de çi herî zêde kêfa we tîne?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Di êvareke zivistanê ya germik de çi tê kirin ku xweş e?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Li ba we nîşanên pêşîn ên biharê çi ne?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Berf, baran an tava germ: kîjan bêtir bi dilê we ye?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Kulîlka nav kûpikê",
+          "regions": {
+            "sky": "Paşxane",
+            "table": "Mase",
+            "stem": "Qed",
+            "leaf-left": "Pelê çepê",
+            "leaf-right": "Pelê rastê",
+            "petal-1": "Pelk 1",
+            "petal-2": "Pelk 2",
+            "petal-3": "Pelk 3",
+            "petal-4": "Pelk 4",
+            "petal-5": "Pelk 5",
+            "petal-6": "Pelk 6",
+            "petal-7": "Pelk 7",
+            "petal-8": "Pelk 8",
+            "center": "Nava kulîlkê",
+            "pot": "Guldank",
+            "pot-rim": "Lêva guldankê"
+          }
+        },
+        "house": {
+          "name": "Xanî",
+          "regions": {
+            "sky": "Asman",
+            "sun": "Roj",
+            "grass": "Giya",
+            "chimney": "Dûkêlkêş",
+            "walls": "Dîwar",
+            "roof": "Ban",
+            "door": "Derî",
+            "window-left": "Pencereya çepê",
+            "window-right": "Pencereya rastê",
+            "path": "Rêç"
+          }
+        },
+        "teacup": {
+          "name": "Fîncan",
+          "regions": {
+            "background": "Paşxane",
+            "saucer": "Binika fîncanê",
+            "handle": "Destik",
+            "cup": "Fîncan",
+            "band": "Xêza ser fîncanê",
+            "tea": "Çay"
+          }
+        },
+        "butterfly": {
+          "name": "Perperik",
+          "regions": {
+            "background": "Paşxane",
+            "wing-top-left": "Baskê jor ê çepê",
+            "wing-top-right": "Baskê jor ê rastê",
+            "wing-bottom-left": "Baskê jêr ê çepê",
+            "wing-bottom-right": "Baskê jêr ê rastê",
+            "spot-left": "Xala baskê çepê",
+            "spot-right": "Xala baskê rastê",
+            "body": "Laş"
+          }
+        },
+        "sailboat": {
+          "name": "Belema bi bader",
+          "regions": {
+            "sky": "Asman",
+            "sea": "Derya",
+            "sail-big": "Badera mezin",
+            "sail-small": "Badera biçûk",
+            "mast": "Sitûna baderê",
+            "hull": "Belem",
+            "flag": "Ala"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Mitbax û baxçe",
+          "baskets": [
+            "Di mitbaxê de",
+            "Di baxçê de"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fêkî û ajal",
+          "baskets": [
+            "Fêkî",
+            "Ajal"
+          ]
+        },
+        "home-travel": {
+          "label": "Mal û rêwîtî",
+          "baskets": [
+            "Li malê",
+            "Li derve"
+          ]
+        }
+      }
+    }
+  }
+}

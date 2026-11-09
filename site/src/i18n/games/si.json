@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "චිත්‍ර යුගල",
+    "seoTitle": "ඩිමෙන්ශියා සඳහා ගැලපීමේ ක්‍රීඩාව: චිත්‍ර යුගල",
+    "h1": "චිත්‍ර යුගල: සැහැල්ලු ගැලපීමේ ක්‍රීඩාවක්",
+    "description": "ඩිමෙන්ශියාව සමඟ ජීවත් වන පුද්ගලයන් සඳහා නොමිලේ ලැබෙන, සැහැල්ලු ගැලපීමේ ක්‍රීඩාවකි. විශාල චිත්‍ර දෘශ්‍යමානව පවතී, කාලමානයක් හෝ ලකුණු නැත, ඔබට ටයිල් 4 සිට 12 දක්වා තෝරා ගත හැක.",
+    "short": "එකම චිත්‍ර දෙක සොයන්න. චිත්‍ර පෙනෙන ලෙසම තබා ගත හැක.",
+    "players": "පුද්ගලයන් 1 හෝ 2 දෙනෙක්, එකට අසුනක වාඩි වී",
+    "intro": "චිත්‍රයක් ස්පර්ශ කරන්න, ඉන්පසු ඊට ගැලපෙන චිත්‍රය ස්පර්ශ කරන්න. පෙරනිමියෙන් චිත්‍ර පෙනෙන ලෙස පවතින නිසා මතක තබා ගැනීමට කිසිවක් නැත. චිත්‍ර දෙකක් එකට ගැලපුණු විට ඒවාට රන්වන් මායිමක් සහ හරි ලකුණක් ලැබේ.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "ටයිල් කීයක් භාවිත කරන්නදැයි තෝරන්න. ටයිල් හතරක් සන්සුන් ආරම්භයකි.",
+      "ඕනෑම චිත්‍රයක් ස්පර්ශ කරන්න. එයට රන්වන් මායිමක් ලැබේ.",
+      "එකම ආකාරයෙන් පෙනෙන චිත්‍රය ස්පර්ශ කරන්න. යුගලය හරි ලකුණ සමඟ එකට පවතී.",
+      "චිත්‍ර දෙක වෙනස් නම්, කිසිවක් වැරදී නොයයි. ඔබ සූදානම් වූ විට නැවත ස්පර්ශ කරන්න.",
+      "“සඟවන ලද චිත්‍ර” ක්‍රියාත්මක කරන්න, ඔබ දෙදෙනාම සාම්ප්‍රදායික, මුහුණු පහළට හරවන අනුවාදය රසවිඳින්නේ නම් පමණි."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "චිත්‍ර එකට උච්චාරණය කර ඒ ගැන කතා කරන්න: “රත් පැහැති තේ කෝප්පයක්. ඔබ තේවලට කිරි දමන්නේද?”",
+      "ස්පර්ශ කිරීම ඔවුන්ටම කරන්න ඉඩ දෙන්න, කාලය ගත වුවද. ඔවුන් වෙනුවට ස්පර්ශ කරනවා වෙනුවට ඇඟිල්ලෙන් පෙන්වන්න.",
+      "ප්‍රසන්න අයුරින් දැනෙන තාක් ටයිල් හතරේ ම රැඳෙන්න. වැඩි ටයිල් යනු තේරීමක් මිස ළඟා විය යුතු මට්ටමක් නොවේ.",
+      "තවමත් රසවත්ව ඇති විටම නවත්වන්න. එක් ක්‍රීඩාවක් සම්පූර්ණ ක්‍රියාකාරකමකි."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාලමානයක් හෝ ලකුණු තිබේද?",
+        "a": "නැත. කාලමානයක්, ලකුණු, චලන ගණනය කිරීමක් හෝ පරාජයක් නැත. ඕනෑම මොහොතක නවත්විය හැක, මැද දී නැවතීමද ක්‍රීඩාව අවසන් කිරීමට හොඳ ක්‍රමයකි."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "චිත්‍ර මුහුණු ඉහළට හරවා තබන්නේ ඇයි?",
+        "a": "චිත්‍ර දෘශ්‍යමානව තැබීමෙන් ක්‍රීඩාව මතක තබා ගැනීමට වඩා බැලීමට සහ ගැලපීමට යොමු වේ. බොහෝ දෙනෙකු මෙය සන්සුන් යැයි සොයයි. ඔබ කැමති නම් එක ස්පර්ශයකින් සඟවන ලද චිත්‍ර වෙත මාරු විය හැක."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, ලියාපදිංචි විය යුතුද?",
+        "a": "ඔව්, එය නොමිලේ ය. ගිණුමක්, ලියාපදිංචියක් හෝ බාගැනීමක් අවශ්‍ය නොවේ. ජංගම දුරකථනයේ, ටැබ්ලට් එකේ හෝ පරිගණකයේ වෙබ් බ්‍රව්සරයෙන් ක්‍රියා කරයි."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "අපේ පවුලේ ඡායාරූප භාවිත කළ හැකිද?",
+        "a": "ඔව්. ඔබේ උපාංගයෙන් ඡායාරූප තෝරා ගැනීමට ඉඩ දෙන “ඡායාරූප යුගල” උත්සාහ කරන්න. ඡායාරූප ඔබේ බ්‍රව්සරය තුළ පවතින අතර උඩුගත කරනු නොලැබේ."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "එකම එක සොයන්න",
+    "seoTitle": "එකම චිත්‍රය සොයන්න: ඩිමෙන්ශියා සඳහා සරල ක්‍රීඩාව",
+    "h1": "එකම චිත්‍රය සොයන්න",
+    "description": "ඉහළ එක් චිත්‍රයක්, පහළ චිත්‍ර දෙකක් සිට හතරක් දක්වා. එකම එක ස්පර්ශ කරන්න. ඩිමෙන්ශියාව සමඟ ජීවත් වන පුද්ගලයන් සඳහා සන්සුන්, නොමිලේ චිත්‍ර ක්‍රීඩාවකි, කාලමානයක් නැත.",
+    "short": "තිරයේ ඉහළ චිත්‍රය බලා පහළ ඇති එකම එක ස්පර්ශ කරන්න.",
+    "players": "පුද්ගලයන් 1 හෝ 2 දෙනෙක්",
+    "intro": "තිරයේ ඉහළ මැද එක් චිත්‍රයක් පිහිටයි. එහි පහළ චිත්‍ර දෙකක්, තුනක් හෝ හතරක් ඇත. ඉන් එකම එක ස්පර්ශ කරන්න. එක විට එක සරල තේරීමක් වන අතර කතා කිරීමට බොහෝ ඉඩ ඇත.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "තේරීමට චිත්‍ර දෙකක්, තුනක් හෝ හතරක් තෝරන්න. දෙකක් වඩාත් සරලයි.",
+      "ඉහළ චිත්‍රය එකට බලන්න.",
+      "පහළ ඇති එකම චිත්‍රය ස්පර්ශ කරන්න. එයට හරි ලකුණක් සහ උණුසුම් වචන කිහිපයක් ලැබේ.",
+      "වෙනස් චිත්‍රයක් ස්පර්ශ කළහොත්, ක්‍රීඩාව එය නම් කර රැඳී සිටී. කාලය ගන්න.",
+      "ඊළඟ චිත්‍රයට සූදානම් වූ විට “ඊළඟ චිත්‍රය” ස්පර්ශ කරන්න."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "තේරීමට පෙර සෑම චිත්‍රයක් ගැනම කතා කරන්න: වර්ණ, හැඩ, එය ඔබ දකින්නේ කොතැනදීද.",
+      "තේරීම් දෙකක් “ඉතා පහසු” නොවේ. අරමුණ වන්නේ ප්‍රසන්න මොහොතක් මිස අභියෝගයක් නොවේ.",
+      "ස්පර්ශ කිරීම අපහසු නම්, ඔවුන්ට ඇඟිල්ලෙන් පෙන්විය හැකි අතර ඔබට ඔවුන් වෙනුවෙන් ස්පර්ශ කළ හැක."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාලමානයක් හෝ ලකුණු තිබේද?",
+        "a": "නැත. කාලමානයක්, ලකුණු, චලන ගණනය කිරීමක් හෝ පරාජයක් නැත. ඕනෑම මොහොතක නවත්විය හැක, මැද දී නැවතීමද ක්‍රීඩාව අවසන් කිරීමට හොඳ ක්‍රමයකි."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "වැරදි චිත්‍රයක් ස්පර්ශ කළොත් කුමක් වේද?",
+        "a": "අප්‍රසන්න කිසිවක් වන්නේ නැත. බ්සර් ශබ්දයක්, රතු කුරුසයක් හෝ කම්පනයක් නැත. ස්පර්ශ කළ චිත්‍රය ක්‍රීඩාව නම් කර ඊළඟ ස්පර්ශය සඳහා රැඳී සිටී."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, ලියාපදිංචි විය යුතුද?",
+        "a": "ඔව්, එය නොමිලේ ය. ගිණුමක්, ලියාපදිංචියක් හෝ බාගැනීමක් අවශ්‍ය නොවේ. ජංගම දුරකථනයේ, ටැබ්ලට් එකේ හෝ පරිගණකයේ වෙබ් බ්‍රව්සරයෙන් ක්‍රියා කරයි."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "සෙවනැලි ගැලපීම",
+    "seoTitle": "ඩිමෙන්ශියා සඳහා සෙවනැලි ගැලපීමේ ක්‍රීඩාව: නොමිලේ ඔන්ලයින්",
+    "h1": "සෙවනැලි ගැලපීම: සැහැල්ලු චිත්‍ර ක්‍රීඩාවක්",
+    "description": "ඉහළ අඳුරු සෙවනැල්ලක්, පහළ චිත්‍ර දෙකක් සිට හතරක් දක්වා. සෙවනැල්ල සාදන චිත්‍රය ස්පර්ශ කරන්න. ඩිමෙන්ශියාව සඳහා නොමිලේ, සන්සුන් සෙවනැලි ගැලපීමේ ක්‍රීඩාවකි, කාලමානයක් නැත.",
+    "short": "සෙවනැල්ල බලා එය සාදන චිත්‍රය ස්පර්ශ කරන්න.",
+    "players": "පුද්ගලයන් 1 හෝ 2 දෙනෙක්",
+    "intro": "සෙවනැලි ගැලපීම මුද්‍රිත වැඩ පත්‍රිකාවලින් හුරු පුරුදු ක්‍රියාකාරකමකි. මෙහි විශාල චිත්‍ර භාවිත කරන අතර මුද්‍රණය කිරීමට කිසිවක් නැත. මෘදු සෙවනැල්ලක් තිරයේ ඉහළ පවතින අතර චිත්‍ර දෙකක්, තුනක් හෝ හතරක් පහළ බලා සිටී. සෙවනැල්ල සාදන එක ස්පර්ශ කරන්න. බයිසිකලය, කුඩය හෝ තේ කෝප්පය වැනි හැඩ ගැන කතා කිරීමද පහසුය.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "තේරීමට චිත්‍ර දෙකක්, තුනක් හෝ හතරක් තෝරන්න. දෙකක් වඩාත් සරලයි.",
+      "සෙවනැල්ල එකට බලන්න. එහි හැඩය කුමක්ද? උස ද, වටකුරු ද?",
+      "සෙවනැල්ල සාදන චිත්‍රය ස්පර්ශ කරන්න. එහි නම සෙවනැල්ල යටින් දිස් වේ.",
+      "වෙනස් චිත්‍රයක් ස්පර්ශ කළහොත්, ක්‍රීඩාව එය නම් කර රැඳී සිටී. කාලය ගන්න.",
+      "ඊළඟ සෙවනැල්ලට සූදානම් වූ විට “ඊළඟ සෙවනැල්ල” ස්පර්ශ කරන්න."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "සෙවනැල්ලේ දාරය ඇඟිල්ලෙන් ඇඳ, හැඩය ගැන කතා කරන්න.",
+      "අද සෙවනැලි අපහසු නම්, චිත්‍ර සමාන පෙනෙන “එකම එක සොයන්න” වෙත මාරු වන්න.",
+      "චිත්‍රය සොයාගත් පසු ඒ ගැන කතා කරන්න: “අපට එවැනි කුඩයක් තිබුණා.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාලමානයක් හෝ ලකුණු තිබේද?",
+        "a": "නැත. කාලමානයක්, ලකුණු, චලන ගණනය කිරීමක් හෝ පරාජයක් නැත. ඕනෑම මොහොතක නවත්විය හැක, මැද දී නැවතීමද ක්‍රීඩාව අවසන් කිරීමට හොඳ ක්‍රමයකි."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "ඩිමෙන්ශියා ඇති අයට සෙවනැලි ගැලපීම හොඳද?",
+        "a": "ඇතැම් අයට මෙය සුවදායක, සරල ක්‍රියාකාරකමක් විය හැක, විශේෂයෙන් මුල් අවස්ථාවල. වචන වලට වඩා හැඩතල හඳුනා ගැනීම පහසුය. මෙය විනෝදය සහ සංවාදය සඳහා වන්නකි, පරීක්ෂණයක් නොවේ. ඩිමෙන්ශියාව සුව කරන හෝ මන්දගාමී කරන දෙයක් නොවේ. කලකිරීමක් ඇති කළහොත්, “එකම එක සොයන්න” උත්සාහ කරන්න, නැතහොත් එකට පින්තූර බලන්න."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "වැරදි පින්තූරයක් තට්ටු කළොත් කුමක් වේද?",
+        "a": "අප්‍රිය දෙයක් සිදු නොවේ. නාද කරන ශබ්දයක්, රතු කුරුසක් හෝ කම්පනයක් නැත. ක්‍රීඩාව තට්ටු කළ පින්තූරයේ නම කියා ඊළඟ තට්ටුව සඳහා රැඳී සිටී."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, සහ ලියාපදිංචි වීම අවශ්‍යද?",
+        "a": "ඔව්, මෙය නොමිලේය, ගිණුමක්, ලියාපදිංචියක් හෝ බාගත කිරීමක් අවශ්‍ය නොවේ. ජංගම දුරකථනය, ටැබ්ලට් හෝ පරිගණකය මත වෙබ් බ්‍රව්සරයෙන් ක්‍රියා කරයි."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "එකට වර්ග කරමු",
+    "seoTitle": "ඩිමෙන්ශියා සඳහා වර්ග කිරීමේ ක්‍රීඩාව: එකට වර්ග කරමු",
+    "h1": "එකට වර්ග කරමු: පින්තූර වර්ග කිරීමේ ක්‍රියාකාරකම",
+    "description": "පින්තූරයක් තට්ටු කර, එය අයිති කූඩය තට්ටු කරන්න: මුළුතැන්ගෙය හෝ මල්වත්ත, පලතුරු හෝ සත්තු. ඩිමෙන්ශියා සහිත පුද්ගලයන් සඳහා සන්සුන්, නොමිලේ වර්ග කිරීමේ ක්‍රියාකාරකමකි.",
+    "short": "සෑම පින්තූරයක්ම එහි කූඩයේ තබන්න: මුළුතැන්ගෙය හෝ මල්වත්ත, තවත් බොහෝ දේ.",
+    "players": "පුද්ගලයන් 1 හෝ 2",
+    "intro": "වර්ග කිරීම හුරු පුරුදු, තෘප්තිමත් දෛනික කාර්යයකි, බඩු ගබඩාවේ තැබීම හෝ සොක්ස් යුගල කිරීම වැනි. පින්තූරයක් තට්ටු කර, එය අයිති කූඩය තට්ටු කරන්න. කඩිමුඩියක් නැත, වැරදි මගක් නැත.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "තේමාවක් තෝරන්න: මුළුතැන්ගෙය සහ මල්වත්ත, පලතුරු සහ සත්තු, හෝ ගෙය සහ ගමන.",
+      "පින්තූරයක් තට්ටු කරන්න. එයට රන්වන් මායිමක් ලැබේ.",
+      "එය අයිති කූඩය තට්ටු කරන්න. පින්තූරය එම කූඩයට යයි.",
+      "එය අනෙක් කූඩයට අයිති නම්, ක්‍රීඩාව එය මෘදුව කියා රැඳී සිටී.",
+      "සියලු පින්තූර වර්ග කළ පසු, කූඩ එකට බලන්න."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "සැබෑ ජීවිතයේ බොහෝ විට නිවැරදි හෝ වැරදි පිළිතුරු නොමැත. වතුර ඉසින බදුනක් මුළුතැන්ගෙයට අයිති යයි කෙනෙක් කිවහොත්, හේතුව ඇසුවොත් හොඳ කතාවක් ලැබේ.",
+      "පින්තූර ප්‍රශ්න සඳහා භාවිත කරන්න: “ඔබ ඔබේ මල්වත්තේ මොනවාද වැව්වේ?”",
+      "හැඳි සහ උළෙල, හෝ බොත්තම් වර්ණය අනුව වර්ග කිරීම වැනි සැබෑ වස්තූන් තිරයෙන් ඔබ්බට කරන හොඳ අනුගාමික ක්‍රියාකාරකමකි."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාල මානයක් හෝ ලකුණු ඇත්තේද?",
+        "a": "නැත. ඔරලෝසුවක්, ලකුණු, චලන ගණනයක් හෝ පරාජයක් නැත. ඕනෑම මොහොතක නතර කළ හැක, මැද නතර කිරීම ද සම්පූර්ණ කිරීමක් වේ."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "ඇයි වර්ග කිරීම?",
+        "a": "බොහෝ අය වර්ග කිරීම ප්‍රිය කරන්නේ එය ප්‍රයෝජනවත්, හුරු පුරුදු වැඩක් ලෙස දැනෙන නිසාය. ඔබ යන අතරතුර පින්තූර ගැන කථා කිරීම ද පහසුය."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, සහ ලියාපදිංචි වීම අවශ්‍යද?",
+        "a": "ඔව්, මෙය නොමිලේය, ගිණුමක්, ලියාපදිංචියක් හෝ බාගත කිරීමක් අවශ්‍ය නොවේ. ජංගම දුරකථනය, ටැබ්ලට් හෝ පරිගණකය මත වෙබ් බ්‍රව්සරයෙන් ක්‍රියා කරයි."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "පින්තූර ප්‍රහේලිකාව",
+    "seoTitle": "ඩිමෙන්ශියා සඳහා පහසු ජිග්සෝ ප්‍රහේලිකාව: කෑලි 4 හෝ 9",
+    "h1": "පින්තූර ප්‍රහේලිකාව: පහසු ජිග්සෝ ප්‍රහේලිකාවක්",
+    "description": "ඩිමෙන්ශියා සහිත පුද්ගලයන් සඳහා පහසු සබැඳි ජිග්සෝ ප්‍රහේලිකාවක්: විශාල කෑලි 4 හෝ 9, සම්පූර්ණ පින්තූරය දෘශ්‍යමානව පවතී, කෑලි දෙකක් මාරු කිරීමට ඒවා දෙකක් තට්ටු කරන්න.",
+    "short": "පින්තූරය සම්පූර්ණ වන තුරු කෑලි දෙකක් තට්ටු කර මාරු කරන්න.",
+    "players": "පුද්ගලයන් 1 හෝ 2",
+    "intro": "මිත්‍රශීලී පින්තූරයක් විශාල කෑලි හතරකට හෝ නවයකට කපා මිශ්‍ර කර ඇත. සම්පූර්ණ පින්තූරය මාර්ගෝපදේශයක් ලෙස දෘශ්‍යමානව පවතී. එක් කෑල්ලක් තට්ටු කර, ඉන්පසු තවත් එකක් තට්ටු කරන්න, ඒවා ස්ථාන මාරු වේ. අදින්න අවශ්‍ය නොවේ.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "පින්තූරයක් සහ කෑලි 4 හෝ 9ක් තෝරන්න. හතර මෘදු ආරම්භයකි.",
+      "ඉහළ ඇති සම්පූර්ණ පින්තූරය බලන්න.",
+      "කෑල්ලක් තට්ටු කර, ඉන්පසු එය යා යුතු ස්ථානය තට්ටු කරන්න. කෑලි දෙක මාරු වේ.",
+      "නිවැරදි ස්ථානයේ ඇති කෑලිවලට කුඩා ලකුණක් ලැබේ.",
+      "පින්තූරය සම්පූර්ණ වූ විට, එකට එය භුක්ති විඳින්න, ඉන්පසු තවත් එකක් තෝරන්න."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "බොහෝ අයට කෑලි අදින්නට වඩා කෑලි දෙකක් තට්ටු කර මාරු කිරීම බෙහෙවින් පහසුය.",
+      "පින්තූරය එකතු වන විට එය ගැන කථා කරන්න: “එන්න රතු වහලය.”",
+      "කෑලි 12ත් 24ත් අතර විශාල දැව ජිග්සෝ ප්‍රහේලිකාවක් ද මේසය මත සුන්දර ක්‍රියාකාරකමකි."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාල මානයක් හෝ ලකුණු ඇත්තේද?",
+        "a": "නැත. ඔරලෝසුවක්, ලකුණු, චලන ගණනයක් හෝ පරාජයක් නැත. ඕනෑම මොහොතක නතර කළ හැක, මැද නතර කිරීම ද සම්පූර්ණ කිරීමක් වේ."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "කෑලි අදින්න අවශ්‍යද?",
+        "a": "නැත. එක් කෑල්ලක් තට්ටු කර, ඉන්පසු තවත් එකක් තට්ටු කරන්න, ඒවා ස්ථාන මාරු වේ. අත කම්පා වන විට හෝ කුඩා තිරයක දී මෙය පහසුය."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, සහ ලියාපදිංචි වීම අවශ්‍යද?",
+        "a": "ඔව්, මෙය නොමිලේය, ගිණුමක්, ලියාපදිංචියක් හෝ බාගත කිරීමක් අවශ්‍ය නොවේ. ජංගම දුරකථනය, ටැබ්ලට් හෝ පරිගණකය මත වෙබ් බ්‍රව්සරයෙන් ක්‍රියා කරයි."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "කීම අවසන් කරමු",
+    "seoTitle": "කීම අවසන් කරමු: වැඩිහිටියන් සඳහා කීම් ක්‍රීඩාව",
+    "h1": "කීම අවසන් කරමු",
+    "description": "අවසාන වචනය නැති, ඔබ දන්නා සුප්‍රසිද්ධ කීම්. කාඩ්පතෙහි ඇති විකල්පයක් තට්ටු කරන්න, හෝ අවසානය පෙන්වා ඒ ගැන කථා කරන්න.",
+    "short": "හුරු පුරුදු කීම් එකට සම්පූර්ණ කර, ඉන්පසු ඒවා ගැන කථා කරන්න.",
+    "players": "පුද්ගලයන් 1, 2 හෝ කණ්ඩායමක්",
+    "intro": "පැරණි කීම් බොහෝ විට ජීවිත කාලයක් පුරා හොඳින් දන්නා ඒවාය. සෑම කාඩ්පතකම හුරු පුරුදු කීමක් අවසාන වචනය නැතිව, විකල්ප තුනක් සහ “අවසානය පෙන්වන්න” බොත්තමක් ඇත. අවසානයෙන් පසු, මෘදු ප්‍රශ්නයක් සංවාදය ආරාධනා කරයි.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "කීම එකට උච්චාරණය කර කියවන්න.",
+      "එය අවසන් කරන වචනය තට්ටු කරන්න, හෝ “අවසානය පෙන්වන්න” තට්ටු කරන්න.",
+      "සම්පූර්ණ කීම නැවත කියවා, ඇති ප්‍රශ්නය භාවිතා කර ඒ ගැන කථා කරන්න.",
+      "ඔබ සූදානම් වූ විට “ඊළඟ කීම” තට්ටු කරන්න."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "සෙමින් කියවා අවසාන වචනයට පෙර විරාමයක් දෙන්න. බොහෝ විට ඔබ අවසන් කිරීමට පෙර ඔවුන් එය කියයි.",
+      "වෙනත් අවසානයක් කෙනෙක් දුන්නොත්, ඒ ගැන සතුටු වන්න. කීම්වල සමහර අනුවාද පවුල හෝ ප්‍රදේශය අනුව වෙනස් වේ.",
+      "කණ්ඩායමක දී, එක් අයෙක් කියවා සියල්ලෝම අවසානයට එක්වන්න."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාල මානයක් හෝ ලකුණු ඇත්තේද?",
+        "a": "නැත. ඔරලෝසුවක්, ලකුණු, චලන ගණනයක් හෝ පරාජයක් නැත. ඕනෑම වේලාවක නවත්වා ගත හැක, මැද දී නවත්වීමත් සම්පූර්ණ කිරීමට හොඳ ක්‍රමයකි."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "අපි වෙනත් වචනයක් තෝරා ගත්තොත් කුමක් වේද?",
+        "a": "ක්‍රීඩාව සාමාන්‍ය අවසානය පෙන්වා සංවාදය වෙත යයි. ලකුණු නැත, වෙනස් පිළිතුරක් ද ඔක්කොම හරියි."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, ලියාපදිංචි විය යුතුද?",
+        "a": "ඔව්, මෙය නොමිලේය, ගිණුමක්, ලියාපදිංචියක් හෝ බාගත කිරීමක් අවශ්‍ය නැත. දුරකථනයේ, ටැබ්ලටයේ හෝ පරිගණකයේ වෙබ් බ්‍රව්සරයෙන් ක්‍රියා කරයි."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "විශාල අකුරු වචන සෙවුම",
+    "seoTitle": "ඩිමෙන්ශියාව සඳහා විශාල අකුරු වචන සෙවුම, මුද්‍රණය කළ හැකි",
+    "h1": "විශාල අකුරු වචන සෙවුම",
+    "description": "වැඩිහිටියන් සහ ඩිමෙන්ශියාව සමග ජීවත් වන පුද්ගලයන් සඳහා නොමිලේ විශාල අකුරු වචන සෙවුමක්. වචන කිහිපයක්, විශාල අකුරු, තිරස් සහ සිරස් පමණි. මාර්ගගතව ක්‍රීඩා කරන්න, නැතහොත් මුද්‍රණය කරන්න.",
+    "short": "විශාල අකුරු, වචන කිහිපයක්, තිරස් සහ සිරස් පමණි. එය මුද්‍රණය ද කළ හැක.",
+    "players": "පුද්ගලයන් 1 හෝ 2",
+    "intro": "විශාල අකුරු සහිත කුඩා දැලක් සහ මුටි කිහිපයක වචන ලැයිස්තුවක් ඇත, ඒවා සියල්ල තිරස් හෝ සිරස් ලෙස කියවේ. වචනයක පළමු අකුර ස්පර්ශ කර, පසුව එහි අවසාන අකුර ස්පර්ශ කරන්න. කඩදාසි ප්‍රිය ද? එක් ස්පර්ශයකින් නව ප්‍රහේලිකාවක් මුද්‍රණය කරන්න.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "තේමාවක් සහ දැලේ ප්‍රමාණයක් තෝරන්න.",
+      "වචන ලැයිස්තුව බලන්න. වචන වමේ සිට දකුණට (තිරසට) හෝ ඉහළ සිට පහළට (සිරසට) කියවේ.",
+      "වචනයක පළමු අකුර ස්පර්ශ කර, පසුව එහි අවසාන අකුර ස්පර්ශ කරන්න.",
+      "හමු වූ වචනය උද්දීපනය වී ලැයිස්තුවෙන් ඉරකින් ඉවත් වේ.",
+      "පැන්සලක් හෝ පෑනක් සමඟ කඩදාසියේ ක්‍රීඩා කිරීමට \"මෙම ප්‍රහේලිකාව මුද්‍රණය කරන්න\" ස්පර්ශ කරන්න."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "ලැයිස්තුවේ වචනයක් වෙත ඔබ සමඟ යොමු වී එහි පළමු අකුර එකට සොයන්න.",
+      "කඩදාසියේ නම්, ඉස්මතු කරන පෑනක් (highlighter) පැන්සලට වඩා ඇල්ලීමට පහසුය.",
+      "තේමාවේ වචන ගැන කතා කරන්න. පලතුරු වචන, කෙත්වතුවල කැඩීම, බේක් කිරීම හෝ වෙළඳපොළ ගැන මතකයන් අවදි කිරීමට ස්වාභාවික ක්‍රමයකි."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාල මානයක් හෝ ලකුණු තිබේද?",
+        "a": "නැත. ඔරලෝසුවක්, ලකුණු, චලන ගණනයක් හෝ පරාජයක් නැත. ඕනෑම වේලාවක නවත්වා ගත හැක, මැද දී නවත්වීමත් සම්පූර්ණ කිරීමට හොඳ ක්‍රමයකි."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "වචන සෙවුම මුද්‍රණය කළ හැකිද?",
+        "a": "ඔව්. වත්මන් දැල, යටින් වචන ලැයිස්තුව සමඟ විශාල අකුරින් මුද්‍රණය කිරීමට \"මෙම ප්‍රහේලිකාව මුද්‍රණය කරන්න\" ස්පර්ශ කරන්න. සෑම නව ප්‍රහේලිකාවක්ම වෙනස් වේ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, ලියාපදිංචි විය යුතුද?",
+        "a": "ඔව්, මෙය නොමිලේය, ගිණුමක්, ලියාපදිංචියක් හෝ බාගත කිරීමක් අවශ්‍ය නැත. දුරකථනයේ, ටැබ්ලටයේ හෝ පරිගණකයේ වෙබ් බ්‍රව්සරයෙන් ක්‍රියා කරයි."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "වර්ණ ගැන්වීමේ පිටු",
+    "seoTitle": "ඩිමෙන්ශියාව සහිත වැඩිහිටියන් සඳහා වර්ණ ගැන්වීමේ පිටු (නොමිලේ)",
+    "h1": "වර්ණ ගැන්වීමේ පිටු",
+    "description": "සරල, වැඩිහිටියන් සඳහා විශාල ප්‍රදේශ සහිත වර්ණ ගැන්වීමේ පිටු: වර්ණයක් ස්පර්ශ කර, පසුව චිත්‍රය ස්පර්ශ කරන්න. අවුලක් නැත, වැරදි වර්ණ නැත, සෑම පිටුවක්ම නොමිලේ මුද්‍රණය කළ හැක.",
+    "short": "වර්ණයක් ස්පර්ශ කර, පසුව චිත්‍රයේ කොටසක් ස්පර්ශ කරන්න. පිටු ද මුද්‍රණය කරන්න.",
+    "players": "පුද්ගලයන් 1 හෝ 2",
+    "intro": "විශාල, සරල හැඩතල සහිත පිටු: මල් බඳුනක්, ගෙයක්, තේ කෝප්පයක්, සමනලයෙක් සහ යාත්‍රා නැවක්. වර්ණයක් ස්පර්ශ කර, පසුව එය පිරවීමට චිත්‍රයේ කොටසක් ස්පර්ශ කරන්න. වැරදි වර්ණ නැත.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "පිටුවක් තෝරන්න.",
+      "වර්ණයක් ස්පර්ශ කරන්න. සෑම වර්ණයකටම එහි නම ලියා ඇත.",
+      "එම වර්ණයෙන් පිරවීමට චිත්‍රයේ කොටසක් ස්පර්ශ කරන්න.",
+      "ඕනෑම වේලාවක වෙනස් කළ හැක: නැවත වර්ණයෙන් පුරවන්න.",
+      "පැන්සල් හෝ පෑන් සමඟ වර්ණ ගැන්වීමට හිස් පිටුවක් සඳහා \"මෙම පිටුව මුද්‍රණය කරන්න\" ස්පර්ශ කරන්න."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "තේරීම අධික නම්, සම්පූර්ණ කට්ටලය වෙනුවට වර්ණ දෙකක් පමණක් ඉදිරිපත් කරන්න.",
+      "දම් පැහැති ගස් සහ නිල් පැහැති හිරු සාදරයෙන් පිළිගනී. මෙය නිරවද්‍යතාවය ගැන නොව, වර්ණ භුක්ති විඳීම ගැන ය.",
+      "ඝන පෑන් හෝ ක්‍රේයෝන් සමඟ මුද්‍රිත පිටු හොඳින් ක්‍රියා කරයි, ඒවා ඇල්ලීමට පහසුය."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාල මානයක් හෝ ලකුණු තිබේද?",
+        "a": "නැත. ඔරලෝසුවක්, ලකුණු, චලන ගණනයක් හෝ පරාජයක් නැත. ඕනෑම වේලාවක නවත්වා ගත හැක, මැද දී නවත්වීමත් සම්පූර්ණ කිරීමට හොඳ ක්‍රමයකි."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "මේ පිටු ළමයින්ට සුදුසු වැඩිද?",
+        "a": "අපි කාටූන් වෙනුවට සන්සුන්, සරල වස්තූන් ඇඳ ඇත, එබැවින් පිටු වැඩිහිටියන්ට ගැළපේ. විශාල හැඩතල නිසා ළමා ස්වභාවයක් නැතිව වර්ණ ගැන්වීම පහසු වේ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, ලියාපදිංචි විය යුතුද?",
+        "a": "ඔව්, මෙය නොමිලේය, ගිණුමක්, ලියාපදිංචියක් හෝ බාගත කිරීමක් අවශ්‍ය නැත. දුරකථනයේ, ටැබ්ලටයේ හෝ පරිගණකයේ වෙබ් බ්‍රව්සරයෙන් ක්‍රියා කරයි."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "සංවාද කාඩ්පත්",
+    "seoTitle": "ඩිමෙන්ශියාව සඳහා සංවාද ආරම්භක: චිත්‍ර කාඩ්පත්",
+    "h1": "සංවාද කාඩ්පත්",
+    "description": "ඩිමෙන්ශියාව සමග ජීවත් වන පුද්ගලයන් සඳහා සෞම්‍ය සංවාද ආරම්භක සහිත චිත්‍ර කාඩ්පත්: ප්‍රශ්න කිරීමක් නැත, නිවැරදි පිළිතුරු නැත. තිරය මත භාවිතා කරන්න, නැතහොත් සම්පූර්ණ කට්ටලය මුද්‍රණය කරන්න.",
+    "short": "විවෘත, සෞම්‍ය ප්‍රශ්න සහිත චිත්‍ර කාඩ්පත්. ප්‍රශ්න කිරීමක් නැත.",
+    "players": "පුද්ගලයන් 2 දෙනෙක් හෝ කණ්ඩායමක්",
+    "intro": "සෑම කාඩ්පතකම හුරුපුරුදු චිත්‍රයක් සහ \"ඔබ වඩාත් කැමති කාලගුණය කුමක්ද?\" වැනි කතා කිරීමට විවෘත ආරාධනාවක් ඇත. නිවැරදි පිළිතුරු නැත, මතක තබා ගැනීමට කිසිවක් නැත. තේමාවක් තෝරන්න, නැතහොත් ඒ සියල්ල මිශ්‍ර කරන්න.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "තේමාවක් තෝරන්න, නැතහොත් \"සියලු කාඩ්පත්\" තබා ගන්න.",
+      "ප්‍රශ්නය උස් හඬින් කියවා චිත්‍රය එකට බලන්න.",
+      "සවන් දෙන්න, ඔබේම පිළිතුර බෙදා ගන්න, සංවාදය ඕනෑ ලෙස ඇදෙන්න ඉඩ දෙන්න.",
+      "ඔබ සූදානම් වූ විට \"ඊළඟ කාඩ්පත\" ස්පර්ශ කරන්න, නැතහොත් ඕනෑ තරම් වේලාවක් එක කාඩ්පතක රැඳෙන්න.",
+      "කඩදාසි කට්ටලයක් කපා ගැනීමට \"සියලු කාඩ්පත් මුද්‍රණය කරන්න\" ස්පර්ශ කරන්න."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "ප්‍රශ්නයට ඔබම ද පිළිතුරු දෙන්න. එය සම්මුඛ පරීක්ෂණයක් නොව සංවාදයක් ලෙස දැනේ.",
+      "කථාවට අනුගමනය කරන්න, කරුණුවලට නොව. විස්තර වෙනස් වුවත් එය හරියි.",
+      "කාඩ්පතක් දුක් දෙන දෙයකට ස්පර්ශ වුවහොත්, හැඟීම පිළිගෙන සෞම්‍යෙන් වෙනත් කාඩ්පතකට යන්න."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "\"ඔබට මතකද…?\" වැනි ප්‍රශ්න ඇත්තේ මන්ද නැත්තේ?",
+        "a": "මතකය පරීක්ෂා කරන ප්‍රශ්න විභාගයක් මෙන් දැනී ලජ්ජාවට හේතු විය හැක. \"ඔබ ගැන මට කියන්න…\" වැනි විවෘත ආරාධනා ඕනෑම කෙනෙකුට, ඔවුන් මතක තබා ගන්නා දේ කුමක් වුවත්, සහභාගී වීමට ඉඩ දෙයි."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "කාඩ්පත් මුද්‍රණය කළ හැකිද?",
+        "a": "ඔව්. \"සියලු කාඩ්පත් මුද්‍රණය කරන්න\" මගින් සම්පූර්ණ කට්ටලය විශාල අකුරින්, පිටුවකට කාඩ්පත් කිහිපයක් වශයෙන්, කපා ගැනීමට සූදානම්ව මුද්‍රණය කරයි."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද, ලියාපදිංචි විය යුතුද?",
+        "a": "ඔව්, මෙය නොමිලේය. ගිණුමක්, ලියාපදිංචියක් හෝ බාගැනීමක් අවශ්‍ය නැත. දුරකථනයේ, ටැබ්ලටයේ හෝ පරිගණකයේ වෙබ් බ්‍රව්සරයෙන් මෙය ක්‍රියා කරයි."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "ඡායාරූප යුගල",
+    "seoTitle": "ඔබේ පවුලේ ඡායාරූපවලින් ගැලපීමේ ක්‍රීඩාවක් සාදන්න",
+    "h1": "ඡායාරූප යුගල: ඔබේම ඡායාරූප ගළපන්න",
+    "description": "ඔබේම පවුලේ ඡායාරූප මෘදු ගැලපීමේ ක්‍රීඩාවක් බවට හරවන්න. ඔබේ උපාංගයේ ඡායාරූප 2ක් සිට 6ක් දක්වා තෝරන්න; ඒවා ඔබේ බ්‍රව්සරයේම පවතින අතර කිසිවිටෙක උඩුගත නොවේ.",
+    "short": "ඔබේම ඡායාරූප තෝරා ඒවා ගළපන්න. කිසිවක් උඩුගත නොවේ.",
+    "players": "පුද්ගලයින් 2ක්, අතල් අතල්ව",
+    "intro": "ඔබේ දුරකථනයෙන්, ටැබ්ලටයෙන් හෝ පරිගණකයෙන් ඡායාරූප දෙකක් සිට හයක් දක්වා තෝරන්න. ඒවා විශාල, පැහැදිලිව පෙනෙන පින්තූර සහිත ගැලපීමේ ක්‍රීඩාවක් බවට පත්වේ. ඡායාරූප මෙම පිටුව තුළ පමණක් පෙන්වයි. ඒවා උඩුගත කරන, සුරකින හෝ බෙදාගන්නේ නැත, සහ පිටුව වසන විට ඒවා අතුරුදහන් වේ.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "“ඡායාරූප තෝරන්න” ස්පර්ශ කර ඡායාරූප දෙකක් සිට හයක් දක්වා තෝරන්න.",
+      "සෑම ඡායාරූපයක්ම දෙවරක් දිස්වේ. එකක් ස්පර්ශ කර, ඊට යුගලයක් ස්පර්ශ කරන්න.",
+      "එක් එක් ඡායාරූපය සොයාගන්නා විට එය ගැන කතා කරන්න.",
+      "අවසන් වූ විට පිටුව වසන්න හෝ “ඡායාරූප මකන්න” ස්පර්ශ කරන්න. කිසිවක් තබා ගනු නොලැබේ."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "සතුටු, හුරුපුරුදු දේවල් පිළිබඳ පැහැදිලි ඡායාරූප තෝරන්න: සුරතලෙක්, උයනක්, ප්‍රියතම ස්ථානයක්, මංගල දිනයක්.",
+      "ස්ථාන සහ වස්තූන්ගේ ඡායාරූප මුහුණුවරවලට වඩා පහසු විය හැකි අතර, කිසිවෙකුගේ නම කියන්නට ඇති පීඩනය ඉවත් කරයි.",
+      "මියගිය අයගේ ඡායාරූප අකස්මාත් ශෝකයක් ගෙන ආ හැකි නම් ඒවා ඉවත් කරන්න, ඒවා සැනසීමක් ගෙන දෙන බව ඔබ දන්නේ නැත්නම්."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "මගේ ඡායාරූප කොහේ හෝ උඩුගත වෙනවාද?",
+        "a": "නැත. පිටුව ඔබ තෝරන ඡායාරූප ඔබේ බ්‍රව්සරයේ සෘජුවම කියවා ඔබේ තිරයේ පෙන්වයි. ඒවා අපට හෝ වෙන කිසිවෙකුට යවන්නේ නැත, සහ ඔබ පිටුව වසන හෝ නැවත පූරණය කරන විට ඒවා නොපවතී."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "කාල ගණකයක් හෝ ලකුණු තිබේද?",
+        "a": "නැත. ඔරලෝසුවක්, ලකුණුයක්, චලන ගණකයක් හෝ පරාජයක් නැත. ඕනෑම මොහොතක නතර විය හැක, සහ මැද දී නතර වීම ද ක්‍රීඩාව අවසන් කිරීමේ හොඳ ක්‍රමයකි."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "ඊළඟ වතාවේ සඳහා ක්‍රීඩාව සුරැකිය හැකිද?",
+        "a": "සැලසුමට අනුව බ්‍රව්සරයේ සුරැකිය නොහැක, එවිට පෞද්ගලික කිසිවක් ගබඩා නොවේ. iPhone සහ iPad සඳහා නොමිලේ Golden Moments යෙදුමට ඔබ තෝරන ඡායාරූප පිටපත් ඔබේ උපාංගයේ තබා ගත හැක."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "පින්තූර බින්ගෝ",
+    "seoTitle": "මුද්‍රණය කළ හැකි පින්තූර බින්ගෝ: ඩිමෙන්ශියා ඇති වැඩිහිටියන් සඳහා",
+    "h1": "කණ්ඩායම් සඳහා පින්තූර බින්ගෝ",
+    "description": "මතක රැකවරණ සහ වැඩිහිටි කණ්ඩායම් සඳහා නොමිලේ මුද්‍රණය කළ හැකි පින්තූර බින්ගෝ, තිරය මත විශාල ඇමතුම්කරුවා සහිතව. පින්තූර සහ වචන සහිත විශාල කොටු 9ක් හෝ 16ක්, කියවීමක් අවශ්‍ය නොවේ.",
+    "short": "මුද්‍රණය කළ හැකි පින්තූර බින්ගෝ කාඩ්පත් සහ කණ්ඩායම් සඳහා විශාල තිර ඇමතුම්කරුවා.",
+    "players": "2 සිට 30 දක්වා කණ්ඩායමක්",
+    "intro": "අංක වෙනුවට පින්තූර සහිත සම්භාව්‍ය බින්ගෝ, එබැවින් කුඩා අකුරු කියවීමට කිසිවෙකුට අවශ්‍ය නැත. අද්විතීය කාඩ්පත් කට්ටලයක් මුද්‍රණය කර, තිර ඇමතුම්කරුවා භාවිතා කර සෑම පින්තූරයක්ම රූපවාහිනියක, පරිගණකයක හෝ ටැබ්ලටයක විශාලව පෙන්වන්න.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "කාඩ්පතකට කොටු 9ක් හෝ 16ක් සහ ක්‍රීඩකයින් කී දෙනාද යන්න තෝරන්න.",
+      "“කාඩ්පත් මුද්‍රණය කරන්න” ස්පර්ශ කරන්න. සෑම කාඩ්පතක්ම වෙනස් වේ.",
+      "විශාල තිරයක ඇමතුම්කරුවා විවෘත කරන්න. සෑම පින්තූරයක්ම එහි නම සමග පෙන්වීමට “ඊළඟ පින්තූරය” ස්පර්ශ කරන්න.",
+      "ක්‍රීඩකයින් තමන්ගේ කාඩ්පතේ ගැළපෙන පින්තූරය කාසියකින්, බොත්තමකින් හෝ ලකුණු කරන්නෙකුගෙන් ආවරණය කරයි.",
+      "පේළියක් හෝ සම්පූර්ණ කාඩ්පත පුරවන සෑම කෙනෙකුටම අත්පොළසන් දීමක් ලැබේ. මෙම අනුවාදයේ පරාජිතයින් නැත: සෑම කෙනෙකුටම පේළියක් ලැබෙන තුරු ක්‍රීඩා කරන්න."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "චෙකර් හෝ බෝතල් ඉඩ වැනි විශාල ටෝකන භාවිතා කරන්න. කුඩා බොත්තම් ගැනීමට අපහසු විය හැක.",
+      "පින්තූරයට නම් කර එය ගැන යමක් කියන්න: “නැවක්. කවුරුන් හෝ බෝට්ටුවක ගොස් තිබේද?”",
+      "දෑසින් දැකීමට අපහසු අයව තිරයට ළඟින් වාඩි කර, අවශ්‍ය අයට උදව්කරුවන් ඔවුන් සමග යොදන්න.",
+      "බොහෝ කණ්ඩායම්වලට කොටු 9ක් ප්‍රමාණවත්ය. සැසිය මිනිත්තු 20ක් සිට 30ක් පමණ තබන්න."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "රැකවරණ නිවාසයක පින්තූර බින්ගෝ කෙසේ පවත්වන්නද?",
+        "a": "සෑම ක්‍රීඩකයෙකුටම එක් කාඩ්පතක් මුද්‍රණය කරන්න, ඇමතුම්කරුවා ඔබට ඇති විශාලතම තිරයේ තබන්න, සෑම පින්තූරයක්ම නම් කරමින් සෙමින් කියන්න. කිසිවෙකු පිටතින් නොසිටින පරිදි සෑම කෙනෙකුටම පේළියක් ලැබෙන තුරු ක්‍රීඩා කරන්න."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "මුද්‍රණය කිරීම නොමිලේද?",
+        "a": "ඔව්. පුද්ගලික හෝ කණ්ඩායම් භාවිතය සඳහා ඔබට අවශ්‍ය තරම් කාඩ්පත් ඕනෑම විටක මුද්‍රණය කරන්න."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "මිනිසුන්ට කියවීමෙන් තොරව ක්‍රීඩා කළ හැකිද?",
+        "a": "ඔව්. සෑම කොටුවක්ම විශාල පින්තූරයක් වන අතර, වචන කැමති අයට එහි නම එය යටින් ඇත."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "සන්සුන් හුස්ම ගැනීම",
+    "seoTitle": "වැඩිහිටියන් සහ රැකබලා ගන්නන් සඳහා සන්සුන් හුස්ම ගැනීමේ විවේකයක්",
+    "h1": "සන්සුන් හුස්ම ගැනීමේ විවේකයක්",
+    "description": "එකට බෙදාගත හැකි මන්දගාමී, නිශ්ශබ්ද හුස්ම ගැනීමේ විවේකයක්: මෘදු කවයක් හුස්ම හයක් සඳහා විශාල වී කුඩා වේ. ඔබ එය ආරම්භ කරන අතර, ඕනෑම විටක නතර කළ හැක.",
+    "short": "ඔබ සමග හුස්ම ගැනීමට මන්දගාමී කවයක්. ඔබට අවශ්‍ය විට ආරම්භ කර නතර කරන්න.",
+    "players": "පුද්ගලයින් 1 හෝ 2",
+    "intro": "සමහර විට හොඳම ක්‍රියාකාරකම වන්නේ නිශ්ශබ්ද විවේකයකි. “ආරම්භ කරන්න” ස්පර්ශ කර, කවය විශාල වන විට ආශ්වාස කර, කුඩා වන විට ප්‍රශ්වාස කරන්න. මන්දගාමී හෝ වේගවත් වේගයක් තෝරන්න. මෙය ප්‍රතිකාරයක් නොවේ, එකට බෙදාගත හැකි සාමකාමී මොහොතක් පමණි.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "එකිනෙකා ළඟ සුවපහසුව වාඩි වන්න.",
+      "වේගයක් තෝරන්න: මන්දගාමී හෝ මෘදු.",
+      "“ආරම්භ කරන්න” ස්පර්ශ කරන්න. කවය විශාල වන විට ආශ්වාස කර, කුඩා වන විට ප්‍රශ්වාස කරන්න.",
+      "හුස්ම හයකින් පසු එය තනිවම නතර වේ, නැතහොත් ඔබ කැමති විට “නතර කරන්න” ස්පර්ශ කරන්න."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "පිළිගැනේ නම් අතින් අල්ලා ගන්න, නැතහොත් ඔවුන්ගේ අතට අත තබන්න.",
+      "කිසිවිටෙක බල කරන්න එපා. ඔවුන් බලා සිටීමට කැමති නම්, එයද හොඳයි.",
+      "යමෙකුට හුස්ම ගැනීමේ ගැටලු ඇත්නම්, සාමාන්‍ය ලෙස හුස්ම ගෙන කවය දෙස බලන්න. හුස්ම ගැනීම පිළිබඳ ඕනෑම කරදරයක් ගැන වෛද්‍යවරයෙකුගෙන් විමසන්න."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "මෙය වෛද්‍ය හුස්ම ගැනීමේ ව්‍යායාමයක්ද?",
+        "a": "නැත. එය සන්සුන්කම සහ සහකාරිත්වය සඳහා සරල, විකල්ප විවේකයකි. එය කිසිදු කම්පනයකට හෝ තත්වයකට ප්‍රතිකාරයක් නොවේ. සෞඛ්‍ය ගැටලු ගැන වෛද්‍යවරයෙකු සමග කතා කරන්න."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "ඔබ ආරම්භ නොකර කවය තනිවම චලනය වේද?",
+        "a": "නැහැ. ඔබ ආරම්භ කරන්න ඔබන තෙක් කිසිවක් චලනය නොවේ. හුස්ම හයක් ගැනීමෙන් පසු, හෝ ඔබ නවත්වන්න ඔබන විට එය නවතී. ඔබේ උපාංගය චලනය අඩු කර ඇත්නම්, රවුම විශාල නොවී වචන පමණක් වෙනස් වේ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "මෙය නොමිලේද? ලියාපදිංචි වීම අවශ්‍යද?",
+        "a": "ඔව්, මෙය නොමිලේ ය. ගිණුමක්, ලියාපදිංචියක් හෝ බාගැනීමක් අවශ්‍ය නොවේ. ජංගම දුරකථනයක, ටැබ්ලටයක් හෝ පරිගණකයක වෙබ් බ්‍රව්සරයේ මෙය ක්‍රියා කරයි."
       }
     ]
   }

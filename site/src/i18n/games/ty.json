@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Te mau hoho'a tauiraa",
+    "seoTitle": "Tāʻaʻa tauiraa no te dementia: Te mau hoho'a tauiraa",
+    "h1": "Te mau hoho'a tauiraa: he tāʻaʻa tauiraa e mauruuru ia",
+    "description": "He tāʻaʻa tauiraa ohie, ore e utu, no te mau taata e ora nei ma te dementia. E tiaturi-ahiri te mau hoho'a rahi, aita e taima, aita e mana, e e fifi outou i te 4 e tae atu i te 12 tīpē.",
+    "short": "Imi i te mau hoho'a e rua e tutava. E nehenehe e faaite-tū-noa te mau hoho'a.",
+    "players": "1 e 2 taata, e tu-atoa-hia",
+    "intro": "Pātiti i te hoho'a, e i muri iho pātiti i te hoho'a e tutava ia ’na. I te mau mana'o paha, aita e titau-hia ia haamana'o. Ina e tutava te mau hoho'a e rua, e fa‘aitehia ïa e te pāpaʻa ʻōro e te tīki.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Mātara i te numero o te mau tīpē e faaohipa ai. E tiaturi-ahiri te mau tīpē e ʻā e no te haamata.",
+      "Pātiti i te hoho'a e ǎ‘i. E ʻōro te pāpaʻa ia ’na.",
+      "Pātiti i te hoho'a e mātara ia ’na e tutava ia. E tū-tahi te tauiraa e te tīki.",
+      "Ina e ‘ore e tutava te mau hoho'a, aita e mea ʻino. Pātiti i muri a‘e ina e hinaaro ai outou.",
+      "Faaohipa i te \"Te mau hoho'a ē haruhia\" noa ’tu ina e hinaaro outou e te taata ia tāʻaʻa i te ‘āʻau tuhaa ʻī."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Parau hau e te mau hoho'a e fa'aitoitoi ai e parau-tahi outou: \"Te hoho'a tīti ʻulaʻa. Hinaaro ʻoe i te pape‘ē‘ē i tō ‘oe tī?\"",
+      "A tuu i te taata ia pātiti, e ǎ‘i te roa. Tuu i te tōʻeʻa i ta ‘ōna pātiti, eiaha e pātiti no ’na.",
+      "Tāmau i te mau tīpē e fa, e rahi noa ’tu ē e hinaaro ai. Te mau tīpē rahi, te hinaaro noa ’tu, eiaha e fifi i te taime faaohie.",
+      "Hopea i te tāʻaʻa e ia hau ǎ‘e e ‘ōro. Hoê tāʻaʻa e tōʻeʻa tā ‘oe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E taima anei, e totaiete anei?",
+        "a": "‘Aita. Aita e taima, e totaiete, e tātauri tāʻaʻa, e ‘ore e hinaaro i te ‘ore. E nehenehe outou e hopea i te taime atoa, e hopea i te haʻapaʻo ‘ore ē, e ti‘a ia."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "No te aha te mau hoho'a e ‘ati-ahi i nia?",
+        "a": "Te mau hoho'a e ʻite-ai-hia ra, e nehenehe e tāʻaʻa, eiaha e haamana'o. E rave-rahi te taata e ‘ātoʻa i te reira. E nehenehe e hoʻi i te mau hoho'a ē haruhia i te hoʻi-hia a‘e ina e hinaaro ai outou."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E ‘ātoʻa anei, e ti‘a anei ia haere i te faaiteraa?",
+        "a": "Ē, e ‘ātoʻa, aita e titau-hia i te faaiteraa, aita e tāʻaʻa e ‘ore e tātauri. E ohipa i te piha'i‘i i nia i te tāʻaʻa‑rima, te papa‑ǎ‘i e te ‘ōro‑rima."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "E nehenehe anei e faaohipa i ta tātou mau hoho'a utuafare?",
+        "a": "Ē. Tāmau i te Tauiraa hoho'a, e nehenehe outou e fifi i te mau hoho'a no tō ‘oe ‘āʻau. E tiaturi-ahiri te mau hoho'a i tō ‘oe piha'i‘i, aita e tuʻu-atu-hia."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Tāʻaʻa tauiraa",
+    "seoTitle": "Imi i te hoho'a tū-tahi: Tāʻaʻa ohie no te dementia",
+    "h1": "Imi i te hoho'a tū-tahi",
+    "description": "Hoho'a hoê i nia, e piti e e toru e e fa i raro. Pātiti i tā tū-tahi. Tāʻaʻa hoho'a ohie e mauruuru, ore e utu, no te mau taata e ora nei ma te dementia, aita e taima.",
+    "short": "Hi‘o i te hoho'a i nia e pātiti i te tū-tahi i raro.",
+    "players": "1 e 2 taata",
+    "intro": "Hoho'a hoê e tū i nia i te fa‘ahiti. I raro e piti, e toru, e fa hoho'a. Pātiti i te mea tū-tahi. E hoʻi ïa i te hoʻi-tahi e te parau-tahi.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Mātara i te piti, te toru, te fa hoho'a e tutava ai. E piti te mea ohie roa.",
+      "Hi‘o i te hoho'a i nia e‘ tahi.",
+      "Pātiti i te hoho'a tū-tahi i raro. E tīki e te mau parau iti e mauruuru.",
+      "Ina e pātiti-hia te hoho'a ‘ē, te tāʻaʻa e faaite noa i te hoho'a e tatari ai. Tuu i te taime.",
+      "Pātiti i te \"Te hoho'a i muri a'e\" ina e hinaaro ai outou no te hoho'a ‘apī."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Parau i te mau hoho'a i mua i te mātara: te mau tāʻaʻa, te mau ‘ōpani, tei hea ‘ōe e ‘ite ai.",
+      "E piti mātara e ohie. Te ti'a, eiaha e fa‘ahiti. E hopea te hau e te mauruuru.",
+      "Ina e ‘ore e fifi te pātiti, e nehenehe te taata e tuu i te hopea, e pātiti outou no ‘ōna."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E taima anei, e totaiete anei?",
+        "a": "‘Aita. Aita e taima, e totaiete, e tātauri tāʻaʻa, e ‘ore e hinaaro i te ‘ore. E nehenehe outou e hopea i te taime atoa, e hopea i te haʻapaʻo ‘ore ē, e ti‘a ia."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "E aha te tupu ina e pātiti-hia te hoho'a ‘ē?",
+        "a": "‘Aita e mea ‘ino. Aita e tāʻaʻa, aita e ‘ati‘ati. Te tāʻaʻa e faaite noa i te hoho'a i pātiti-hia e e tatari i te pātiti i muri a‘e."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E ‘ātoʻa anei, e ti‘a anei ia haere i te faaiteraa?",
+        "a": "Ē, e ‘ātoʻa, aita e titau-hia i te faaiteraa, aita e tāʻaʻa e ‘ore e tātauri. E ohipa i te piha'i‘i i nia i te tāʻaʻa‑rima, te papa‑ǎ‘i e te ‘ōro‑rima."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Tauiraa atahi",
+    "seoTitle": "Tāʻaʻa tauiraa atahi no te dementia: ‘ātoʻa i te Tāʻaʻa Ti‘a",
+    "h1": "Tauiraa atahi: he tāʻaʻa hoho'a e mauruuru ia",
+    "description": "He ata pōuri i nia, e piti e e toru e e fa hoho'a i raro. Pātiti i te hoho'a e hamani i te ata. He tāʻaʻa tauiraa ata ohie e mauruuru no te dementia, ore e utu, aita e taima.",
+    "short": "Hi‘o i te ata e pātiti i te hoho'a e hamani ia ’na.",
+    "players": "1 e 2 taata",
+    "intro": "Te tauiraa ata, he tāʻaʻa e rave-rahi e ‘ite-hia i te mau pepa tāʻaʻa, e hoho'a rahi ē, aita e tāi-hia. E ata mārō i nia i te mata‘i, e piti, toru, fa hoho'a i raro. Pātiti i te hoho'a e hamani i te ata. E mea ohie e parau ai no te pereō, te pārasō, te tīpē tī.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Mātara i te piti, te toru, te fa hoho'a e tutava ai. E piti te mea ohie roa.",
+      "Hi‘o i te ata e‘ tahi. E aha te ‘ahu? E teitei ‘ōe e tōʻeʻa?",
+      "Pātiti i te hoho'a e hamani i te ata. E ‘ite-hia te iʻoa i raro i te ata.",
+      "Ina e pātiti-hia te hoho'a ‘ē, te tāʻaʻa e faaite noa i te hoho'a e tatari ai. Tuu i te taime.",
+      "Pātiti i te \"Te ata i muri a‘e\" ina e hinaaro ai outou no te ata ‘apī."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Tiaʻi i te ‘ahu o te ata e te matirima, e parau i te ‘ahu.",
+      "Ina e fifi te ata i teie mahana, hoʻi i te Imi i te tū-tahi, tei ‘ite-ai-hia te mau hoho'a.",
+      "Parau i te hoho'a i muri a‘e i te ‘ite-hia: \"E pārasō tā tātou i te mea ‘ē.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E taima anei, e totaiete anei?",
+        "a": "‘Aita. Aita e taima, e totaiete, e tātauri tāʻaʻa, e ‘ore e hinaaro i te ‘ore. E nehenehe outou e hopea i te taime atoa, e hopea i te haʻapaʻo ‘ore ē, e ti‘a ia."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "E maitai anei te shadow matching no te mau taata e ora nei i te dementia?",
+        "a": "E ohipa ma‘ohi‘ohi e fa‘ahiahia ai te mau taata, i te tau matamua o te maʻi. E ara‘a noa ā te mau hoho‘a i te mau parau. E no te oaoa e te parau tahi, e ore e no te tamataraa. E ore e haamaitai, e ore e faaiti i te dementia. Mai te mea e faaruru ana, tamau i te Find the same aore ra i te hi‘o tahi i te mau hoho‘a."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Eaha te tupu mai ia pātō‘ihia te hoho‘a hape?",
+        "a": "Aita e mea ino. Aita e pūhiri, aita e pure‘a‘a‘a, aita e ‘oti‘oti. Te ohipa tāmā‘a e parau i te hoho‘a i pātō‘ihia e tatari i te pātō‘ihia i muri iho."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E ore anei e utu, e mea titau anei i te haapiiraa?",
+        "a": "E, e ore e utu, e ore e titau i te konturā, i te haapiiraa, aore ra i te faaohiparaa. E ohipa i roto i te browser o te pūtau rima, te papa‘a rima, aore ra te rorohu."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Faaiti tahi",
+    "seoTitle": "Ohipa faaiti no te dementia: Faaiti tahi",
+    "h1": "Faaiti tahi: te ohipa faaiti i te mau hoho‘a",
+    "description": "Pātō‘i i te hoho‘a, e i muri iho pātō‘i i te tahiri e tano ai: te fare tunu e te māra, te hotu e te animara. He ohipa faaiti hau‘a, e ore e utu, no te mau taata e ora nei i te dementia.",
+    "short": "Faaiti i te hoho‘a i roto i tōna tahiri: te fare tunu e te māra, e atu noa.",
+    "players": "1 aore ra 2 taata",
+    "intro": "Te faaiti, he ohipa mau o te mahana, mai te fa‘aputu i te mau mea mai te fare hoko, aore ra te haamau i te ‘ātoro. Pātō‘i i te hoho‘a, e i muri iho pātō‘i i te tahiri i tano ai. Aita e faufaa‘a, aita e hape e rave ‘ia.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Fifi i te tumu parau: te fare tunu e te māra, te hotu e te animara, aore ra te fare e te haerea.",
+      "Pātō‘i i te hoho‘a. E ‘ahu ‘ōro‘a tei te hoho‘a.",
+      "Pātō‘i i te tahiri e tano ai. E haere te hoho‘a i roto i taua tahiri.",
+      "Mai te mea e tano ia i te tahiri ē atu, e parau māmā te ohipa e tatari.",
+      "I te mea e faaitihia te mau hoho‘a atoa, hi‘o tahi i te mau tahiri."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Aita e pahonoraa hape i te oraraa mau. Mai te mea e parau te hoho‘a i te tahiri tōroa e tano i te fare tunu, ui i te tumu. E ‘ōro‘a maitai ta outou e ‘ōro‘a.",
+      "Faaohipa i te mau hoho‘a mai te parau tōhuhu: \"Eaha tā outou i tupu i tō outou māra?\"",
+      "Te faaiti i te mau mea mau, mai te mau nini e te mau fork, aore ra te mau tapa‘a e te tae, he ohipa maitai i muri, i pihai i te ‘a‘ai‘ā."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tōroa anei, e ‘ōro‘a anei?",
+        "a": "Aita. Aita e tōroa, aita e ‘ōro‘a, aita e mea e tahi i te mea hape. E tia ia outou ia faaoti i te hora atoa, e faaoti i te hāhā‘a e riro ai i te mea maitai."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Te aha ia faaiti?",
+        "a": "E rahi te taata e oaoa i te faaiti no te mea e ohipa faufaa e mau ia ratou. E māmā hoʻi te parau i te mau hoho‘a i te faaitiraa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E ore anei e utu, e mea titau anei i te haapiiraa?",
+        "a": "E, e ore e utu, e ore e titau i te konturā, i te haapiiraa, aore ra i te faaohiparaa. E ohipa i roto i te browser o te pūtau rima, te papa‘a rima, aore ra te rorohu."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Hoho‘a faaroro",
+    "seoTitle": "Faaroro hoho‘a māmā no te dementia: 4 aore ra 9 māta‘a",
+    "h1": "Faaroro hoho‘a: te faaroro māmā",
+    "description": "He faaroro hoho‘a māmā i te pūpū no te mau taata e ora nei i te dementia: 4 aore ra 9 māta‘a rahi, e hi‘ohia atoa te hoho‘a, e pātō‘i i te piti o te māta‘a e faarurihia ai.",
+    "short": "Pātō‘i i te piti māta‘a e faarurihia ai, tae roa ’te hoho‘a e tia.",
+    "players": "1 aore ra 2 taata",
+    "intro": "E ‘ōa‘a te hoho‘a maitai i roto i te 4 aore ra 9 māta‘a rahi e fāri‘ihia. E hi‘ohia atoa te hoho‘a, mai te tauturu. Pātō‘i i te hō‘ē māta‘a, e i muri iho te tahi, e faarurihia. Aita e tia ia tōtō.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Fifi i te hoho‘a e te 4 aore ra 9 māta‘a. E 4 te mea māmā no te tīmata.",
+      "Hi‘o i te hoho‘a atoa i te pae i nīa.",
+      "Pātō‘i i te hō‘ē māta‘a, e i muri iho pātō‘i i te vahi e tano ai. E faarurihia e piti na māta‘a.",
+      "E ‘ahu iti te māta‘a i tano i te vahi maitai.",
+      "I te mea e tae roa te hoho‘a, oaoa tahi, e i muri iho fifi i te tahi ‘ē atu."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Te pātō‘i i piti māta‘a no te faarurihia, e māmā roa ā i te tōtō no te rahi o te taata.",
+      "Parau i te hoho‘a i te mea e tupu haere ai: \"Te ‘ā‘ai‘a te tahua ‘ura.\"",
+      "Te faaroro vahie mau e 12 aore ra 24 māta‘a rahi, e ohipa maitai ïa i nīa i te ‘ōhie‘a."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tōroa anei, e ‘ōro‘a anei?",
+        "a": "Aita. Aita e tōroa, aita e ‘ōro‘a, aita e mea e tahi i te mea hape. E tia ia outou ia faaoti i te hora atoa, e faaoti i te hāhā‘a e riro ai i te mea maitai."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "E tia anei ia tōtō i te mau māta‘a?",
+        "a": "Aita. Pātō‘i i te hō‘ē māta‘a, e i muri iho te tahi, e faarurihia. E māmā ïa mai te rima e pītīpītī ai, aore ra i nīa i te rorohu iti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E ore anei e utu, e mea titau anei i te haapiiraa?",
+        "a": "E, e ore e utu, e ore e titau i te konturā, i te haapiiraa, aore ra i te faaohiparaa. E ohipa i roto i te browser o te pūtau rima, te papa‘a rima, aore ra te rorohu."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Faaoti i te parau",
+    "seoTitle": "Faaoti i te parau: Ohipa parau paari no te mau taata matahiti",
+    "h1": "Faaoti i te parau",
+    "description": "Mau parau paari ‘ōro‘a, e ‘ore te pau‘a hopea, mai te \"Te moni i vai‘ia, e moni i te ___\". Pātō‘i i te pahonoraa aore ra faaite i te pau‘a, e i muri iho parau i te mea.",
+    "short": "Faaoti tahi i te mau parau ‘ōro‘a, e i muri iho parau i te mea.",
+    "players": "1, 2 aore ra te pǖpǖ",
+    "intro": "E ‘ōro‘a te mau parau paari i te mau matahiti atoa. E hō‘ē pepa e faaite i te parau ‘ōro‘a e ‘ore te pau‘a hopea, e toru pahonoraa, e te pātene \"Faaite i te pau‘a\". I muri i te pau‘a, e ui māmā e tauturu i te parau.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Heihei i te parau tahi, teie‘ ‘ōro‘a.",
+      "Pātō‘i i te parau e faaoti ai, aore ra pātō‘i i te \"Faaite i te pau‘a\".",
+      "Heihei i te parau atoa i te tahi taime, e parau i te mea e te ui.",
+      "Pātō‘i i te \"Parau i muri\" i te mea e mau ai outou."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Heihei hohonu e tōtō i te hopea. Te rahi o te taata e parau i mua i to outou ‘ōro‘a.",
+      "Mai te mea e parau te taata i te hopea ‘ē atu, faaoaoa. E rau mau parau e tae‘a i te fare, aore ra i te fenua.",
+      "I roto i te pǖpǖ, hō‘ē taata e heihei e te pae atoa e tāmau i te hopea."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tōroa anei, e ‘ōro‘a anei?",
+        "a": "Aita. Aita te hora, aita te pointu, aita hoʻi e hāʻuti. E nehenehe ʻoe e haapau i te taime atoʻa, e mea maitai roa ïa te haapauraa i te afa."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "E nafea ia tapa‘o ʻē i te ʻōro‘a ʻē atu?",
+        "a": "Te faaite ra te pāpūraa i te hopea mau, e haere atu ïa i te parau faaroo. Aita e pointu, e maitai te ʻōro‘a ʻē atu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E moni anei, e hinaaro anei ʻoe e hāpono?",
+        "a": "Ᾱe, e moni ʻore. Aita e faatiaraa, aita e hāpono, aita e tāpiʻi. E ohipa i roto i te pūtāʻi ʻōrama i nia i te pūtuatiʻi, te papa‘i, e te ʻōrenetē."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Te patu parau rahi",
+    "seoTitle": "Te Patu Parau Rahi no te Taata e Ora nei me te Maʻi Démence, e Tapi‘i",
+    "h1": "Te Patu Parau Rahi",
+    "description": "Te patu parau rahi, noa ʻore, no te mau taata pāpū e te mau taata e ora nei me te maʻi démence. Mau parau iti, mau tā‘ata rahi, mai te ‘ā‘ai e te ‘ā‘ai‘ai. Ohipa i nia i te ‘ōrenetē, aore ra tapi‘i.",
+    "short": "Mau tā‘ata rahi, mau parau iti, mai te ‘ā‘ai e te ‘ā‘ai‘ai noa. E tapi‘i hoʻi.",
+    "players": "1 aore ra 2 taata",
+    "intro": "Hō‘ē ‘ūpe iti e mau tā‘ata rahi e mau parau ‘ītoto, e tae atu i te ‘ā‘ai aore ra i raro. Tāpiʻi i te tā‘ata matamua o te parau, e i muri iho tāpiʻi i te tā‘ata hopea. E hinaaro ʻoe i te pepa? E tapi‘i i te patu API hō‘ē taime.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Mǎ‘iti i te tumu parau e te nui o te ʻūpe.",
+      "Tāpiʻi i te papa‘i parau. E faaitehia te mau parau i te ‘ā‘ai (mai te pae ‘ātau i te pae ‘ā‘au) aore ra i raro (mai te ‘ōpiti i te ‘ōhia).",
+      "Tāpiʻi i te tā‘ata matamua o te parau, e i muri iho tāpiʻi i te tā‘ata hopea.",
+      "E faaitehia te parau i‘ītia e e tapi‘i ‘ia ‘ore i te papa‘i.",
+      "Tāpiʻi « Tapi‘i te patu ‘ō » no te pāpū i nia i te pepa e te pene aore ra te pene ‘ūpi."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Tōʻu i hō‘ē parau i te papa‘i e hiʻo tātou i te tā‘ata matamua o te parau.",
+      "I nia i te pepa, e mea maitai aʻe te pene ‘ūpi i te pene.",
+      "Tāpaʻo i te mau parau o te tumu. Te mau parau o te ‘ōhipa rā e fa‘aara i te mana‘o o te tipi, te tunu, e te ‘ōpuaraa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E hora anei, e pointu anei?",
+        "a": "Aita. Aita te hora, aita te pointu, aita te tāʻa. E nehenehe ʻoe e haapau i te taime atoʻa, e mea maitai roa ïa te haapauraa i te afa."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "E nehenehe anei e tapi‘i i te patu parau?",
+        "a": "Ᾱe. Tāpiʻi « Tapi‘i te patu ‘ō » no te tapi‘i i te ‘ūpe o taʻi nei i te tā‘ata rahi, e te papa‘i parau i raro. E ‘ē‘ē te patu ‘āpī i ‘ia taʻi hō‘ē."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E moni anei, e hinaaro anei ʻoe e hāpono?",
+        "a": "Ᾱe, e moni ʻore. Aita e faatiaraa, aita e hāpono, aita e tāpiʻi. E ohipa i roto i te pūtāʻi ʻōrama i nia i te pūtuatiʻi, te papa‘i, e te ʻōrenetē."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Tā‘u‘u ‘ūpe",
+    "seoTitle": "Te Mau ‘Ūpe Tā‘u‘u no te Taata Rahi e Ora nei me te Maʻi Démence (Moni ʻore)",
+    "h1": "Te Mau ‘Ūpe Tā‘u‘u",
+    "description": "Te mau ‘ūpe tā‘u‘u rahi, noa, no te taata rahi, mau vāhi rahi: tāpiʻi i te tāʻu‘a, e i muri iho tāpiʻi i te ‘ata. Aita e ‘ati, aita e tāʻu‘a hape, e tapi‘ihia te ‘ūpe atoʻa no te moni ʻore.",
+    "short": "Tāpiʻi i te tāʻu‘a, e i muri iho tāpiʻi i te vahi o te ‘ata. E tapi‘i i te mau ‘ūpe hoʻi.",
+    "players": "1 aore ra 2 taata",
+    "intro": "Te mau ‘ūpe e mau tāʻu‘a rahi, noa: te tīare i roto i te ‘ōpuʻu, te fare, te tāʻa‘a tī, te purotu pape‘e, e te vaʻa tāʻi‘a. Tāpiʻi i te tāʻu‘a, e i muri iho tāpiʻi i te vahi o te ‘ata no te tāʻu‘a. Aita e tāʻu‘a hape.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Mǎ‘iti i hō‘ē ‘ūpe.",
+      "Tāpiʻi i hō‘ē tāʻu‘a. E papa‘ihia te i‘oa o te tāʻu‘a i nia iho.",
+      "Tāpiʻi i te vahi o te ‘ata no te tāʻu‘a i taʻi.",
+      "E nehenehe ʻoe e hoʻi i te tāʻu‘a ‘ē atu i te taime atoʻa.",
+      "Tāpiʻi « Tapi‘i te ‘ūpe ‘ō » no te pepa mǎ‘ohi e tā‘u‘u ai i te pene ‘ūpi aore ra te pene."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "E nehenehe e tāʻu‘a e rua tāʻu‘a no te mǎ‘iti, mai te ‘ātoʻa, mai te ‘ātoʻa tātou ‘ia rahi ‘ore.",
+      "E maitai te raʻau pāpaʻu e te ‘ā‘au pōt‘i. Ētē te tāʻu‘a, aita e tiʻa‘i i te tāʻu‘a tia‘i.",
+      "E maitai i te pene ‘ūpi rahi e te ‘ūpi, no te mea e ‘ōhie te ‘ōhipa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E hora anei, e pointu anei?",
+        "a": "Aita. Aita te hora, aita te pointu, aita te tāʻa. E nehenehe ʻoe e haapau i te taime atoʻa, e mea maitai roa ïa te haapauraa i te afa."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "E rahi anei te mau ‘ūpe no te tamarii?",
+        "a": "Ua tā‘u‘u mātou i te mau mea ‘ōrama, noa, aita i te mau ‘ata tamarii, no reira e tau te mau ‘ūpe no te taata rahi. Te mau tāʻu‘a rahi e fa‘aʻōhie i te tāʻu‘a, aita e mea tamarii."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E moni anei, e hinaaro anei ʻoe e hāpono?",
+        "a": "Ᾱe, e moni ʻore. Aita e faatiaraa, aita e hāpono, aita e tāpiʻi. E ohipa i roto i te pūtāʻi ʻōrama i nia i te pūtuatiʻi, te papa‘i, e te ʻōrenetē."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Te mau pepa parau",
+    "seoTitle": "Te Mau Parau Tōʻu no te Maʻi Démence: Pepa ‘Ata",
+    "h1": "Te Mau Pepa Parau",
+    "description": "Te mau pepa ‘ata e te mau parau tōʻu noa no te mau taata e ora nei me te maʻi démence: aita e mǎ‘iti, aita e pāhono tia‘i. E ohipa i nia i te ‘ōrenetē, aore ra e tapi‘i i te pepa atoʻa.",
+    "short": "Te mau pepa ‘ata e te mau parau tōʻu noa, tuwhera. Aita e mǎ‘iti.",
+    "players": "2 taata aore ra te pǔpǔ",
+    "intro": "Hō‘ē pepa e hō‘ē ‘ata ‘ōrama e hō‘ē parau no te parau, mai te « E aha tō ‘oe ‘ā‘ai‘a i te tau? » Aita e pāhono tia‘i, aita e mea hinaaro e haamanaʻo. Mǎ‘iti i hō‘ē tumu, aore ra fa‘apōtai i te mau pepa atoʻa.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Mǎ‘iti i hō‘ē tumu, aore ra e tāmau i te « Te mau pepa atoʻa ».",
+      "Faaʻi i te parau i te reo teitei e hiʻo tātou i te ‘ata i te pae o te taata.",
+      "Faarongo, faaite i tō ‘oe iho pāhono, e fa‘arahi i te parau ia haere.",
+      "Tāpiʻi « Pepa ‘ē atu » ia mau tō ‘oe, aore ra e tāmau i hō‘ē pepa ia hinaaro ‘oe.",
+      "Tāpiʻi « Tapi‘i te mau pepa atoʻa » no te ‘ō‘ti i te pepa mǎ‘ohi."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Pāhono hoʻi ‘oe i te parau. E mea parau tātou, aita e mea ‘ōhipa ‘ōrama.",
+      "Tǎ‘i‘a i te mau parau, aita i te mau ‘ōhipa. Ia ‘ore ‘ōhie ‘oe, e maitai.",
+      "Ia tāʻa mai te pepa i te mau mana‘o ‘ino, e faaʻiti i te mana‘o e e fa‘arahi ‘ē atu i te pepa ‘ē atu."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "No te aha ‘ore ai i te mau parau « E haamanaʻo anei ʻoe…? »",
+        "a": "E mea e nehenehe te mau parau no te haamanaʻo e mea ‘ōhipa e ‘ino ai te taata. Te mau parau tuwhera mai « Parau mai ia ‘oe… » e tia i te taata atoʻa ia tomo, noa ‘ē te mea e haamanaʻo ai."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "E nehenehe anei e tapi‘i i te mau pepa?",
+        "a": "Ᾱe. « Tapi‘i te mau pepa atoʻa » e tapi‘i i te pepa atoʻa i te reo rahi, e rave rahi pepa i hō‘ē ‘āpī, e tia ia ‘ō‘ti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E moni anei, e hinaaro anei ʻoe e hāpono?",
+        "a": "’Ē, e ’ore e utu ’oia, e ’ore e titau ’oe i te ’ātikāuta, i te fa’ahitiraa, aore ra i te ’ōpuaraa. E ohipa ’oia i nī’a i te pūtāraa, i te ’ōrīnatere, aore ra i te papa ’ā’au."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Hi’o tāua",
+    "seoTitle": "Te Hōroa Hi’o Tāua mai te mau Hi’o o te Utuafare",
+    "h1": "Hi’o Tāua: Ha’apūpū i tā ’outou iho mau hi’o",
+    "description": "Fa’ahohoa tā ’outou iho mau hi’o o te utuafare ei ’ohipa ha’apūpū ’ā’ai. Fifi i te piti e tae atu i te ono hi’o i tō ’outou pūtāraa, i tō ’outou ’ōrīnatere, aore ra i tō ’outou papa ’ā’au; e tiai ’ratou i roto i tō ’outou ’ātoro, e ’ore e ’āmuhia i nī’a i te ’ētēnēti.",
+    "short": "Fifi i tā ’outou iho mau hi’o e ha’apūpū. E ’ore e tuku ’ia.",
+    "players": "2 taata, e nohora ’ōtā’i",
+    "intro": "Fifi i te piti e tae atu i te ono hi’o mai tō ’outou pūtāraa, tō ’outou ’ōrīnatere, aore ra tō ’outou papa ’ā’au, e e ’ohipa ’ratou ei ’ohipa ha’apūpū e hi’o rahi, e hi’o ’ite maoro. E hōho’a ’ia ’ratou noa i roto i tēnei ’āpo’i. E ’ore ’ratou e tuku ’ia, e ’ore e fa’aruru ’ia, e ’ore e fa’aroa ’ia; e ’ore ’ratou e ’ea i muri i te ’āpo’i ’inaha e fa’ati’a ’ia ’oe.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tāpī i te “Fifi i te mau hi’o” e fifi i te piti e tae atu i te ono hi’o.",
+      "E hō’ī pae piti te hi’o rā. Tāpī i te hi’o hōho’a, e tāpī i tōna hoa.",
+      "Parau i ni’a i te hi’o rā i tā ’outou ’ite-’ana’e i te tahi.",
+      "I te pau-’ātu, fa’aore i te mau hi’o aore ra tāpī i te “Fa’aore i te mau hi’o”. E ’ore e fa’aruru ’ia."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Fifi i te mau hi’o marū, e hi’o ’ite maoro: hōho’a, tō ’outou nohoraa ’ā’ai, te vahi ’oa’oa, te mahana i te fa’aipoiporaa.",
+      "E ’ā’ai te hi’o o te mau vahi e te mau mea ’ore i te ’ā’ai te tiaturiraa e i te mau mata, e ’ore hoi e ’ati’a ’ia i te ’ī’ai i te ’iote o te taata.",
+      "E fa’a’ore i te mau hi’o o te mau taata ’ua pō’ī ’ratou, inaha e ’ati’a ’ia ’ratou i te mauiui ’ē’ā, mai te peu e ’ite ’oe e ’āmui ’ratou i te ’āmuiraa."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "E tuku-’ē-’ia anei tā’u mau hi’o i ni’a i te ’ētēnēti?",
+        "a": "’Aore. E taio te pāge i te mau hi’o tā ’oe e fifi ra i roto i tō ’outou ’ātoro, e fa’aite ’oia ia ’outou i nī’a i tō ’outou mata. E ’ore ’ratou e tuku ’ia ’ia matou, aore ra ’ia ’ē’ā atu; e ’ea ’ratou i te hopea o te fa’ataaraa aore ra te fa’aho’iraa o te pāge."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E ’ati anei te tārahu aore ra te fa’aotiraa?",
+        "a": "’Aore. E ’ore e tārahu, e ’ore e fa’aotiraa, e ’ore e fa’ahiti i te ’ōpu’u, e ’ore hoi e hinaarohia ’oe ’ia hinaaro ’oe i te hope. E ’ā’ai ’oe i te taime e hinaaro ’oe, e ’ā’ai te ha’afifiraa i te ’afa’ā o te ’ohipa e ’ohipa maitai ïa."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "E ti’a anei ia ’ū’ai ’ia’u i te ’ohipa no te tau i muri mai?",
+        "a": "’Aore, i te pāge ’ore, ’inaha ’oia tā mātou ’ohipa, ’ia ’ore ai e ’ū’ai ’ia te mau mea ’ī’ai tiāmāruraa. E ti’a i te ’ōrīnatere ’āpī a Golden Moments no te iPhone e te iPad ’ia ’ū’ai i te mau hi’o fifi ’ua fa’ati’a ’ia ’oe i tō ’outou ’ōrīnatere."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo hi’o",
+    "seoTitle": "Bingo Hi’o no te mau Tūpuna e te Mau Taata ’Ua Pō’ī Te Mana’o: Ta’ipi’i",
+    "h1": "Bingo Hi’o no te Mau Pūpū Taata",
+    "description": "Bingo hi’o ta’ipi’i ’ore utu no te mau ’ōhipa ’āmuiraa o te mau tūpuna e te mau pūpū taata, e te hi’o rahi i ni’a i te mata. Mau hi’o rahi e te mau parau, 9 aore ra 16 pātūpa, e ’ore e tītau ’ia i te taio.",
+    "short": "Mau pepa bingo hi’o ta’ipi’i e te mata rahi no te mau pūpū.",
+    "players": "Pūpū o te 2 e tae atu i te 30",
+    "intro": "Bingo tāpa’o i te mau hi’o ’ā’ai i te mau numera, ’ia ’ore ai e ’ati’a ’ia taata i te taio i te mau parau iti. Ta’ipi’i i te mau pepa ’ere-’ē-’ia, e fa’aite i te hi’o rahi i ni’a i te TV, i te ’ōrīnatere aore ra i te papa ’ā’au.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Fifi i te 9 aore ra 16 pātūpa no tō ’ō’ō pepa e te numera o te mau taata.",
+      "Tāpī i “Ta’ipi’i i te mau pepa”. E ’ere-’ē-’ia tō ’ō’ō pepa.",
+      "Fa’ati’a i te fa’aite i te mata rahi. Tāpī i “Hi’o i muri” e fa’aite i te hi’o e tōna parau.",
+      "Te mau taata e tāpa’o i te hi’o e tūpu ra i tō ’ratou pepa, ma te mātaiʻa, te pātone aore ra te tai’i.",
+      "Te taata o te fa’aopuraa i te ’ōtāi aore ra te pepa ’atoa, e ’ō’oa ’ia. E ’ore e tātara ’ia i te taata; e ha’apūpū tātou tae noa ’atu i te ’ā’ai o te ’ōtāi."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "E fa’aohipa i te mau mea rahi, mai te mau pere ’ōtā’i aore ra te mau tai’i ’ōtu’i. E ’ore e ’ati’a ’ia taata ’ia ’ō’ō i te mau pātone iti.",
+      "Parau i te hi’o e fa’ahiti i tō ’ratou mana’o: “Te ’ōtā’ā ’o’ota. ’Ai’a te taata ’ua ’ō’ō i te ’ō’ō?”",
+      "Fa’ati’a i te taata ’ua ’ore e ’ite maitai ’ia nohora ’ia ’ratou i te pae o te mata, e fa’ati’a i te ’ōpuaraa ’ia taata i te mau taata e tauturu ra ’ratou.",
+      "E 9 pātūpa, e ’ā’ai maitai no te mau pūpū ’ā’ai. E fa’a’ā’ai i te fa’aotiraa i te 20 e tae atu i te 30 minute."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "E nafea e fa’ati’a ai i te bingo hi’o i te fare tāuturu?",
+        "a": "E ta’ipi’i i te hō’ī pepa no te taata-tahi, e fa’aite i te mata rahi ā’au, e fa’aite-’ē-’ia i te hi’o, e parau i te i’oa o tāna. E ha’apūpū tātou tae noa ’atu i te ’ā’ai o te ’ōtāi, ’ia ’ore ai e ’ea tētahi."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "E ’ati anei te ta’ipi’i ’ore utu?",
+        "a": "’Ē. E ta’ipi’i ’oe i te mau pepa ’ā’ai e hinaaro ’oe, e te ’ā’ai o te hinaaro ’oe, no tō ’oe iho ’ohipa aore ra no te pūpū."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "E ti’a anei i te mau taata ’ia ha’apūpū ’ore i te taio?",
+        "a": "’Ē. Ei hi’o rahi te ’āu pātūpa ’atoa, e tōna i’oa i raro, no te mau taata e hinaaro i te mau parau."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ha’amārū ’ā’ai",
+    "seoTitle": "Te Ha’ere’ere Ha’amārū ’ā’ai no te mau Tūpuna e te mau Tauturu",
+    "h1": "Te Ha’ere’ere Ha’amārū ’ā’ai",
+    "description": "Te ha’ere’ere ’ā’ai maru, e fa’aite i te ’ōtā’ā maiti e tōtō ra e ’apa ra no te ono ’ā’ai. ’Oe e fa’ati’a, e ’ā’ai ’oe e fa’aoti i te taime e hinaaro ’oe.",
+    "short": "Tā ’oe ’ōtā’ā ’ā’ai e ’ā’ai ’ia. Fa’ati’a e fa’aoti i te taime e hinaaro ’oe.",
+    "players": "1 aore ra 2 taata",
+    "intro": "Te mau taime, o te ha’ere’ere maru te mea maitai roa. Tāpī i “Fa’ati’a”, e ’ā’ai i te ’ā’ai i te ’ōtā’ā e tōtō ra, e ’ā’ai i te ’ā’ai ’ā’ai i te ’ōtā’ā e ’ā’ai ra. Fifi i te tere ’ā’ai aore ra te tere maoro. ’Aore ’oia he ’ohipa rāʻau, ’ā’ai ïa te taime maru e fa’aū ’ia.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Nohora maitai tahi ’oe e te taata.",
+      "Fifi i te tere: maoro aore ra ha’amārū.",
+      "Tāpī i “Fa’ati’a”. ’Ā’ai ’oe i te ’ā’ai i te ’ōtā’ā e tōtō ra, e ’ā’ai i te ’ā’ai ’ā’ai i te ’ōtā’ā e ’apa ra.",
+      "’Oia iho e fa’aoti i muri i te ono ’ā’ai, aore ra tāpī i “Fa’aoti” i te taime e hinaaro ’oe."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Ha’ō’ō i te rima, aore ra tuu i tō rima i nī’a i te ’ā’ai o te taata, mai te peu e ’ā’ai ’ia.",
+      "E ’ore e fa’ahaehae ’ia taata. Mai te peu e hinaaro ratou e hi’o noa, e maitai ïa.",
+      "Mai te peu e ’ā’ai te taata i te mauiui i te ’ā’ai, ’ā’ai i te ’ā’ai ’ōhie e hi’o noa i te ’ōtā’ā. E ui i te taote no tō ’ratou mau mauiui i te ’ā’ai."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "E ’ohipa rāʻau ’ā’ai anei tēnei?",
+        "a": "’Aore. ’Ē, e ha’ere’ere ’ā’ai iti, e ’ore e tītau ’ia, no te maru e te pūpū. ’Aore ’oia he rāʻau no te mana’o ’ino aore ra no tētahi mauiui. E parau i te taote no te mau mauiui o te tino."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "E hāpāpa anei te ’ōtā’ā ’ore ’ia ’oe e fa’ati’a?",
+        "a": "Aita. Aita tahi e haere ia ʻoe e tāpī ai i te Start, e e pau i muri a‘e i te ono ha‘a, aore ra ia tāpī ʻoe i te Stop. Mai te peu e faaitehia tō ʻoe pūtuutuu no te ʻōhie ʻore, e rave noa te mau parau, ʻaita te ʻōhie e rahi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E mea ʻore anei te utu, e e tia anei ia ʻoe te haamau i te ʻāpī‘ī?",
+        "a": "Ē, e mea ʻore te utu, e ʻaita e ʻāpī‘ī, e ʻaita e tuʻuraa, e ʻaita e tāmau. E ohipa ʻoia i roto i te tārere pūpūʻai i nia i te pū, i te papa‘ā, aore ra i te ʻōrīnetē."
       }
     ]
   }

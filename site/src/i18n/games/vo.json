@@ -1,111 +1,111 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pikunapärs",
+    "seoTitle": "Ludöl pärolik mi demenz: Pikunapärs",
+    "h1": "Pikunapärs: ludöl pärolik, lenöpik",
+    "description": "Ludöl pärolik, libik e lenöpik, für pöpüls kels livoms me demenz. Pikuns grandik stayons vidik, no binon tim u poäns, e ob cödob 4 ni 12 tiles.",
+    "short": "Tuv a pikuns kels binons seimik. Pikuns possöls stayön vidik.",
+    "players": "1 u 2 pöpüls, sidikum",
+    "intro": "Klinöd pikuni, e klinöd pikuni kel binon seimik. Pikuns binons vidik ofen, nosä ob mefi memön ni yet. Ven pikuns pärons, gelbik kadr e marag ti kömon.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Cödolöd kismi tiles of dalöd. Fofik tiles binon plödik vegö.",
+      "Klinöd pikuni valik. Ol gelbon kadri.",
+      "Klinöd pikuni kel binon seimik. Pär stayon kobik me marag.",
+      "If pikuns binons nosimik, nothing bad fälon. Klinöd ayi, ven ob volon.",
+      "Ativön \"Pikuns kevik\" sis if ob e ob pleasöl gamön pikuni tuvöl kevik."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Nemöd pikunis sonöfik sisi e sprekön: \"Kup red teeja. Ob drinkon mili me tee?\"",
+      "Lasöd pöpül obas klinön, yet if it kosöl tim. Poinön, no klinön, for el.",
+      "Stayöd me fofik tiles so long as it binon gudik. Mo tiles binons volem, nosä nivel ad reakön.",
+      "Finöd ven it stil binon plisik. Ün ludöl binon ün dun aktivam."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ye, binom timed u poäns?",
+        "a": "No. No binon klok, poäns, kalkulam u lusöl. Ob kanon stopön valtime, e stopöl halfe binon wel-gudik wegs ad finön."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Gleg pikuns stayons vidik?",
+        "a": "Vidik pikuns geton ludi lukön e pärön, no memön. Mans pöpüls finon at kalmik. Ob kanon ativön pikunis kevik ün klin, if ob volon."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Binom it libik, e dalob ob logön?",
+        "a": "Ya, it binon libik, e no binon konto, logam u dolöd. It vorkon in vebanalyz ini fon, tablet u komputil."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Kanobs gebön oms famil pikunis?",
+        "a": "Ya. Provolöd Pärapikuns, kel lasos ob cödön pikunis fa ob fomot. Pikuns stayons in ob vebanalyz e no binons sedilöl."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Findön seimik",
+    "seoTitle": "Findön seimi pikun: Ludöl dementi, simpel",
+    "h1": "Findön seimi pikun",
+    "description": "Ün pikun ini top, du u fol bevü. Klinöd seimi. Ludöl pikunas kalmik e libik, für pöpüls kels livoms me demenz, no me tim.",
+    "short": "Lukölöd pikuni ini top e klinöd seimi bevü.",
+    "players": "1 u 2 pöpüls",
+    "intro": "Ün pikun binon ini top ekrana. Bevü binons du, tri u fol pikuns. Klinöd seimi. It binon ün simpel välam valik vegö, me mödikum tim ad sprekön.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Cödolöd du, tri u fol pikunis ad välön. Du binon simplikum.",
+      "Lukölöd pikuni top tügeton.",
+      "Klinöd seimi pikuni bevü. It binon markölöl me marag e some värm vods.",
+      "If pikun nosik klinon, ludöl tu nemon oni e vartön. Tim zeitölöd.",
+      "Klinöd \"Pikun sekun\" ven ob volon pikun ya."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Sprekölöd pri vegö pikun balid välön: kolis, forms, kisi ob kanon vidön.",
+      "Du välots no binons \"tu lätik\". Yüm binon plesöl moment, no defi.",
+      "If klinön binon difik, pöpül kanon poinön e ob klinön for el."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Binom timed u poäns?",
+        "a": "No. No binon klok, poäns, kalkulam u lusöl. Ob kanon stopön valtime, e stopöl halfe binon wel-gudik wegs ad finön."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "No kelös if nosik pikun klinon?",
+        "a": "Nothing nevedik. No binon sumön, kros red u tremön. Ludöl nemon pikuni klinöl e vartöl sekuni klinadi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Binom it libik, e dalob ob logön?",
+        "a": "Ya, it binon libik, e no binon konto, logam u dolöd. It vorkon in vebanalyz ini fon, tablet u komputil."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Skadun seimik",
+    "seoTitle": "Ludöl seimikoda skadune mi demenz: Libik online",
+    "h1": "Skadunaseimik: ün lenöpik pikunaludöl",
+    "description": "Skadun dunik ini top, du u fol pikuns bevü. Klinöd pikunis kel bundon skaduni. Ludöl skadunas seimik libik e kalmik, für demenz, no me tim.",
+    "short": "Lukölöd skaduni e klinöd pikuni kel bundon oni.",
+    "players": "1 u 2 pöpüls",
+    "intro": "Seimikodön skadunas binon konosöl aktivam de papel-tabeles, ana me grandik pikuns e no printam. Mölik skadun sidon ini top ekrana e du, tri u fol pikuns vartons bevü. Klinöd pikuni kel bundon skaduni. Forms kes bicikel, unbrel u teeja binons leikik sprekön pri.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Cödolöd du, tri u fol pikunis ad välön. Du binon simplikum.",
+      "Lukölöd skaduni tügeton. Kelo form it binon? Dalo it binon ledik u rud?",
+      "Klinöd pikuni kel bundon skaduni. Nem es ai ini bevü skadun.",
+      "If pikun nosik klinon, ludöl tu nemon oni e vartön. Tim zeitölöd.",
+      "Klinöd \"Skadun sekun\" ven ob volon skadun ya."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Sekömöd kontur skaduna me finger e sprekön pri form.",
+      "If skaduns binons difik adelo, ativön \"Findön seimi\", kelo pikuns binons seimik.",
+      "Sprekölöd pri pikun ven it binon findöl: \"Hobs unbrel ninik.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Binom timed u poäns?",
+        "a": "No. No binon klok, poäns, kalkulam u lusöl. Ob kanon stopön valtime, e stopöl halfe binon wel-gudik wegs ad finön."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Vegeton fägik pipelis kels labons dementiai?",
+        "a": "Ya, it may be a plesan, simpl aktivabül for some pipels, especially in the eldest stages. Shapes are easi to recognize than vods. It is for fun and talk, not a test, and it does not kur or slov dementia. If it gives frustration, try Find the same or simply look at piks together."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "What happens if the wrong pik is klikoned?",
+        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the pik that was klikoned and waits for the next klik."
       },
       {
         "q": "Is it free, and do I need to sign up?",
@@ -114,24 +114,24 @@
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sortön vemo",
+    "seoTitle": "Sortöl Spelet for Dementia: Sortön Vemo",
+    "h1": "Sortön Vemo: a Pik Sortöl Aktivabül",
+    "description": "Klikön pik, then klikön korb where it belongs: kitän or gäd, frut or animals. A kalm, free sortöl aktivabül for pipels kels labons dementiai.",
+    "short": "Put each pik in its korb: kitän or gäd, and more.",
+    "players": "1 u 2 pipels",
+    "intro": "Sortön is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Klikön pik, then klikön the korb where it belongs. There is no hurry and no wrong turn.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Choose a theme: kitän and gäd, frut and animals, or dom and vegön.",
+      "Klikön pik. It gets a gold border.",
+      "Klikön the korb it belongs in. The pik moves into that korb.",
+      "If it belongs in the other korb, the game says so gently and waits.",
+      "When every pik is sorted, look through the korbs together."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitän, ask why. You may get a good story.",
+      "Use the piks as a prompt: \"What did you grow in your gäd?\"",
+      "Sortön real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
     ],
     "faq": [
       {
@@ -139,8 +139,8 @@
         "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Why sortön?",
+        "a": "Many pipels enjoy sortön because it feels like useful, familiar work. It is also easy to talk about the piks as you go."
       },
       {
         "q": "Is it free, and do I need to sign up?",
@@ -149,24 +149,24 @@
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pik puzl",
+    "seoTitle": "Simpl Jigsaw Puzl for Dementia: 4 u 9 Pieces",
+    "h1": "Pik Puzl: a Simpl Jigsaw",
+    "description": "A simpl online jigsaw for pipels kels labons dementiai: 4 u 9 big pieces, the whole pik stays vizibl, and you klikön two pieces to svapön them.",
+    "short": "Klikön two pieces to svapön them until the pik is whole.",
+    "players": "1 u 2 pipels",
+    "intro": "A friendly pik is cut into four or nine big pieces and mixed up. The whole pik stays vizibl as a guide. Klikön one piece, then another, and they svapön places. No dragging is needed.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
+      "Choose a pik and 4 or 9 pieces. Four is a gentle start.",
+      "Look at the whole pik at the top.",
+      "Klikön a piece, then klikön the place where it should go. The two pieces svapön.",
       "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "When the pik is whole, enjoy it together, then choose another."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Klikön two pieces to svapön them is much easier than dragging for many pipels.",
+      "Talk about the pik as it comes together: \"There is the red roof.\"",
+      "A real wooden jigsaw with 12 ko 24 big pieces is a lovely table aktivabül too."
     ],
     "faq": [
       {
@@ -175,7 +175,7 @@
       },
       {
         "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "a": "No. Klikön one piece, then klikön another, and they svapön places. This is easier with a shaky hand or on a small screen."
       },
       {
         "q": "Is it free, and do I need to sign up?",
@@ -184,245 +184,245 @@
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
+    "name": "Finishön the saying",
+    "seoTitle": "Finishön the Saying: Proverbs Spelet for Seniors",
+    "h1": "Finishön the Saying",
+    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Klikön a choice or show the ending, then talk about it.",
     "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "players": "1, 2 u a group",
+    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites talk.",
     "howTo": [
       "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
+      "Klikön the word that finishes it, or klikön \"Show the ending\".",
       "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Klikön \"Next saying\" when you are ready."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
+      "Read slowly and leave a pause before the last word. Often pipels say it before you finish.",
       "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "In a group, one pipel reads and everyone joins in on the ending."
     ],
     "faq": [
       {
         "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "a": "Ne. Binon no klok, no poäng, no kalkül e no lösöl. Ol kanon stopön vegadi, e stopön dilo binon gudik vegad pro finön."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ka if vod votikön mödi votik?",
+        "a": "Spiel binon dinin ko fin vädik e pluon a paspik. No binon poäng, e votik votik binon gudik."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Binon it ledadik, e dovob vedön sisbim?",
+        "a": "Jö, binon ledadik, e no binon konto, sisbim u dönlod. It vegon in breuzer di vebs su fon, tablet u komp."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Lüklet vödabüks lärgabüka",
+    "seoTitle": "Lärgabüka vödabüks pro demensiyal, mögon prinön",
+    "h1": "Lärgabüka vödabüks",
+    "description": "Vödabüks lärgabüka ledadik pro gilöds e pöp, kels binons demensiyal. Vödik nemik, büks lärgik, vödis dö ladöm e dö at sö. Pleigön in vebs u prinön.",
+    "short": "Büks lärgik, vödik nemik, dö ladöm e dö at sö. Prinön it.",
+    "players": "1 u 2 pöp",
+    "intro": "Gridön small e büks lärgik e nur vödik nemik, ka dels vödas dö ladöm u dö at sö. Klapön fomi vöda, pos klapön fomi lätik. Vilol paperi? Prinön nulan puzl pro klapöd.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Volös tem e gridanöd.",
+      "Lookön listi vödas. Vödas lenon dö ladöm (from levob dö ladöm) u dö at sö (dö supöm dö nedön).",
+      "Klapön fomi vöda, pos klapön lätiki vöda.",
+      "Vöd famonöl binon lukön e geton dronöl dö listi.",
+      "Klapön “Prinön dis puzl” pro pleigön ini paperi ko pen u markör."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Votön vödi in listi e lookön fomi lätik fa mo.",
+      "In paperi, hilaitör binon ufiklik a holdön ol pen.",
+      "Tokön dö tem-vödas. Frutavödas binon natik vegad in memoris di pikön, bakön u markets."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Binon tim u poäng?",
+        "a": "Ne. Binon no klok, no poäng, no kalkül e no lösöl. Ol kanon stopön vegadi, e stopön dilo binon gudik vegad pro finön."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Kanon prinön vödabüksi?",
+        "a": "Jö. Klapön “Prinön dis puzl” pro prinön gridi ela in büks lärgik, ko vödalist ad bot. Vödik puzl vegad binon nulik."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Binon it ledadik, e dovob vedön sisbim?",
+        "a": "Jö, binon ledadik, e no binon konto, sisbim u dönlod. It vegon in breuzer di vebs su fon, tablet u komp."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Pads pro kolorön",
+    "seoTitle": "Pads pro kolorön pro gilöds ko demensiyal (ledadik)",
+    "h1": "Pads pro kolorön",
+    "description": "Pads pro kolorön, simpl e gilödik, ko grands suafs: klapön kolori, pos klapön piki. No dirt, no kolori fagik, e kelik pad binon prinöbik ledadiko.",
+    "short": "Klapön kolori, pos pöti pikas. Prinön pads it.",
+    "players": "1 u 2 pöp",
+    "intro": "Pads ko grands, simpl figurs: blom in pot, dom, tekup, papilon e segbot. Klapön kolori, pos klapön pöti pikas pro fülön. No binons kolori fagik.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Volös pad.",
+      "Klapön kolori. Kelik kolor binon nem bepenön.",
+      "Klapön pöti pikas pro fülön de kolor at.",
+      "Votikön vegadi ko fülön nulo.",
+      "Klapön “Prinön dis pad” pro pad vakik pro kolorön ko pensils u markörs."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Lodön du kolori pro volön, no ola set, if volön binon tu mödik.",
+      "Bims violets e suns blues binons welkomik. It binon pro fruön kolori, no pro vielik.",
+      "Prinöl pads labon gudiko ko tikis markörs u krayons, kels binons ufikliks pro holdön."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Binon tim u poäng?",
+        "a": "Ne. Binon no klok, no poäng, no kalkül e no lösöl. Ol kanon stopön vegadi, e stopön dilo binon gudik vegad pro finön."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Binons pads tu babik?",
+        "a": "Obs pladon kalmik, simpl objets no bilds fanik, so pads volons gilödas. Grands figurs kepon kolorön ledik, no babik."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Binon it ledadik, e dovob vedön sisbim?",
+        "a": "Jö, binon ledadik, e no binon konto, sisbim u dönlod. It vegon in breuzer di vebs su fon, tablet u komp."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kartis pro tokön",
+    "seoTitle": "Tokasöls pro demensiyal: bildakartis",
+    "h1": "Kartis pro tokön",
+    "description": "Bildakartis ko suaföl tokasöls pro pöp kels binons demensiyal: no testöl, no jusik vödas. Plegön in ekran u prinön ela set.",
+    "short": "Bildakartis ko öpik, suaföl küpöls. No testöl.",
+    "players": "2 pöp u grup",
+    "intro": "Vegikal kartet kombinon bildi ini familik ko invit öpik pro tokön, lilo “Kel binon voliköp vetul fa?” Nülös jusiks no binons, e no binon yel pro memorön. Volös tem u miksöl ola.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Volös tem, u tenön “Ola kartis”.",
+      "Lesön küpi loudo e lookön bildi togeth.",
+      "Fredön, dälön oli sveti jeki, e lätön tok fagön.",
+      "Klapön “Kart nekstik” if vilol, u stayön ko kart jelo vegad votik.",
+      "Klapön “Prinön ola kartis” pro katön paperi set."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Ansvedön küpi ola svetiko. It binon tok, no examen.",
+      "Pelön stori, no faktis. If detils votons, it binon gudik.",
+      "If kart tuton bi sad, kofedön sentimi e lunedo fägön kartis votik."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Dare no binons küpis “Ta ledon…?”",
+        "a": "Küpis, kels testons memori, kanons feelön lik examen e kauzön bedajöli. Öpik invits lilo “Tokolös…” lälons ümi jonön, valikum kelo ledon."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kanon prinön kartis?",
+        "a": "Jö. “Prinön ola kartis” prinon set lakalik ko grands büks, plu kartis pro pad, redik pro katön."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Binon it ledadik, e dovob vedön sisbim?",
+        "a": "Jö, it binon no pelon, e no nedon konto, nog registrapöl u dawnelodöl. It vegon in suf vebsaitöl ibi telefon, tablet u komputil."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Fotas pelik",
+    "seoTitle": "Pelöd Lüdik Ko Fotas Benik",
+    "h1": "Fotas Pelik: Jonön Fotas Obik",
+    "description": "Tönön fotas obik gelik dö lüdik pelik flenik. Velolön 2 ad 6 fotas ibi telefon, tablet u komputil; oms stons in bevebsaitöl e no flatons.",
+    "short": "Velolön fotas obik e jonön. No flatöl ninik.",
+    "players": "2 pips, nebas",
+    "intro": "Velolön tu ad sixs fotas ex telefon, tablet u komputil, e fotas binons pelik lüdik flenik ko pikons gleiks. Fotas paines tel in pad at ninik. No flatons, no sevons, e pesmelons ven klosol pad.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Sudön „Velolön fotas“ e velolön tu ad sixs fotas.",
+      "Each foto paines ids. Sudön unik, pelä sudön peli sekü.",
+      "Spikön fotas vü vi jonon olik.",
+      "Ven yufik, klosön pad u sudön „Peladön fotas“. No stons."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Velolön fotas klinik fomik: bod, gad, leng fovik, dog balid.",
+      "Pikons e fomas dalik binons fasilikum ol mans, e no ledons ad nemön pipis.",
+      "Oblivön fotas pipas obinöl, if vilolös sorovi nunik; ni if ol sevol dö gudiks."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ëd fotas flatons ini ba?",
+        "a": "No. Pad lijön fotas kel velolös dadirekiko in bevebsaitöl e sowon oes in ekran. Oms no sendons de obs u de ola, e stons ven klosol u relodöl pad."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Binon tima u poin?",
+        "a": "No. Binon no klok, poin, numer dö muvs u lösöl. Kanol stopön su alik tim, e stopön dilofik binon gudik flinis."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Kanol konservön pelöli bio?",
+        "a": "No in bevebsaitöl, plan binön, do nothing privat stored. Golden Moments-ik app fredik dö iPhone e iPad kanon konservön fotakopis velöl in apparat."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo pikonik",
+    "seoTitle": "Bingo Pikonik Dö Senior Ko Dementiyam: Printabl",
+    "h1": "Bingo Pikonik Dö Grupams",
+    "description": "Bingo pikonik fredik printabl dö kur-vatam e grupams senior, ko kaler gretik on ekran. Pikons big ko vods, 9 u 16 kadrs, no nedon lesön.",
+    "short": "Bingo-kartas pikonik printabl e kaler gretik dö grupams.",
+    "players": "Grup 2 ad 30",
+    "intro": "Bingo klasik ko pikons vemiko numeris, do no pipen nedon lesön lüdis smalik. Printolön kartas unik, e den lüdön kaler ekranik oki pikon gretiko on TV, laptop u tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Velolön 9 u 16 kadrs ini karton e nums dö pipis.",
+      "Sudön „Printolön kartas“. Each karton binon dönik.",
+      "Open kaleri on ekran gretik. Sudön „Nekstik pikon“ dö pikonön vilik ko nem.",
+      "Pipis kovedons pikonis gleik on kartas ko monet, knop u markel.",
+      "Ols kel fulons lini u kart ole gelons e loi. No binons fallers in versyon at: pelolön ven ols habons lini."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Jonön tokens gretik, lus däms u kapul botilas. Knops smalik kanons binön difik pikön.",
+      "Nemolön pikoni e sagolön binoti dö ol: „Bot-sail. Kö binon sevon bote?“",
+      "Votolön pipis kel vidons difiko ninu ekran, e sokolös helperis ko pipis kel nedons.",
+      "Nine kadrs binon nog dö mödikum grupams. Stön sesion ad 20 ad 30 minüts."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kiöpo bingo pikonik in dömüs vatama?",
+        "a": "Printolön ein karton dö pip, büjolön kaleri on gretikum ekran kel labol, e kalolön pikonis slovo, nemölöl each. Pelolön ven ols habons lini, do no pip binon leföl ana."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Binon fri dö printön?",
+        "a": "Jö. Printolön kartas so mödik kelis nedons, kelo vegöl, dö yusöm personik u grupik."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Kanons pips pelön no lesöli?",
+        "a": "Jö. Ek kadr binon pikon gretik, ko nem sub it dö ops kels likons vods."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Kalik ventön",
+    "seoTitle": "Kalik Pauz Ventik Dö Senior e Vatans",
+    "h1": "Kalik Pauz Ventik",
+    "description": "Pauz ventik slov e silik dö sharön: kirkel gudik gofon e lesön ad sixs ventöls. Jon ons, e kanol stopön alik tim.",
+    "short": "Kirkel slov dö ventön ko it. Stopön u jonön ven vilol.",
+    "players": "1 u 2 pips",
+    "intro": "Yel binon best aktivad pauz silik. Sudön „Jonön“, e ventön in ven kirkel gofon e out ven lesön. Velolön slovikum u kvikikum pasi. It no binon kur, nu moment peadik dö sharön.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sidön comfortabik nebas.",
+      "Velolön pasi: slov u gentik.",
+      "Sudön „Jonön“. Ventön in ven kirkel gofon, e out ven lesön.",
+      "It stopon oli bi ventöls sixs, u sudön „Stopön“ alik tim vilol."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Holön hands u lögön hand on arm dö pip if it binon welkom.",
+      "No insistön nevo. If vilons vidön, it binon fin.",
+      "If pip habon breathing problems, ventön normaliko e tu vidön kirkel. Askolön doktoris dö kalik breathing concerns."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Binon at medik ventik exercise?",
+        "a": "No. It binon simpl, opsional pauz dö kalik e kompani. It no binon kur dö angxiety u kelüd kondision. Talolön ko doktor dö healtyh concerns."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Kirkel mufon bi no ob jonöl it?",
+        "a": "Ne. Ninik no movon, dono ol klikol 'Stat'. Ot stopon aftr sils fresans u dono ol klikol 'Stop'. Ef aparät obas binon fixöl ad no movön, vödis pläns binons, ibe sirkel no kreskon."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Binon lilik, e äs bezol ob registrön?",
+        "a": "Jö, binom lilik, e no binon kont, registrön u nedöl. Ot vadom in tapased-ledinik ün fon, tablet u komputil."
       }
     ]
   }

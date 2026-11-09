@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Ndoro âpe-âpe",
+    "seoTitle": "Jeu ti kêtê ndoro pour dementia: Ndoro âpe-âpe",
+    "h1": "Ndoro âpe-âpe: jeu ti kêtê ndoro na lege",
+    "description": "Jeu ti kêtê ndoro, pëpe a mû ndâ, na lege, mbeni azo so a yeke na dementia. Ndoro ti kpe ayeke sô a yeke bê tî ala, pëpe montre, pëpe point. A lingbi a sara 4 na 12 ndoro.",
+    "short": "Hon ndoro ôko-ôko so ayeke tî kêtê. Ndoro lo lingbi aga ni ti lo ayeke tî ndoro.",
+    "players": "Azo 1 wala 2, na lo tî ala",
+    "intro": "Tâ ndoro ôko, na tâ ndoro so ayeke tî lo. Ndoro ayeke bê na ndoro tî lo, ni la mbi ayeke sara ti hinga ndoro pëpe. Tongana ndoro ôko-ôko ayeke tî kêtê, a yeke na kpâ wâ tî wâ na ayeke na « ✓ ».",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Sara ndoro so a yeke lingbi a sara. Ndoro 4 ayeke sô tî ngangu ti kpe.",
+      "Tâ ndoro ôko. A yeke na kpâ wâ tî wâ.",
+      "Tâ ndoro so ayeke tî lo sô ayeke bê tî ndoro ôko. Ndoro âpe-âpe ayeke ti kêtê na ✓.",
+      "Tongana ndoro âpe-âpe ayeke tî lo pëpe, ngoi ti ala ayeke ndâ pëpe. Tâ lo kîri tongana mo lingbi.",
+      "Hunda « Ndoro ti hinga » ti tâ tongana mo yeke sô a sara ti jeu ti ndoro ti hinga."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Tara tî ndoro ti kpe na ala, na sara tënë tî lo: « Kondo ti thé wâ. Mo yeke na lait na thé ti mo ?»",
+      "Lâ azo so mo yeke sô ti lo nga tâ, tongana ngoi aga ndali. Tara ti tâ ndoro ti lo, na sara ngangu na tâ ti lo.",
+      "Mo yeke na ndoro 4 sô ti ngoi so ayeke nzoni ti ala. Ndoro so ayeke ca ayeke tî ala tongana ala ayeke sô, ayeke lâ pëpe tî gbu ni.",
+      "Hunda na ngoi so jeu ayeke nzoni lâ. Jeu ôko ayeke jeu ti ndo ti ala."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ayeke na montre wala point ?",
+        "a": "Pëpe. Ayeke na montre pëpe, point pëpe, kêtê pëpe, wala ngoi ti bâ pëpe. Mo lingbi a hunda ngoi kue, na hunda na mbeni ngoi ayeke jeu so a yeke sara nzoni."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Mbîtî ndoro ayeke bê tî ala ?",
+        "a": "Tongana ndoro ayeke bê tî ala, jeu ayeke tî tara na kêtê, pëpe tî hinga. Azo mingi ayeke sara a yeke nzoni. Mo lingbi a sara ndoro ti hinga na tâ ôko tongana mo yeke sô."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ayeke pëpe mû ndâ, na lingbi a sara compte wala a hinga ?",
+        "a": "Ee, ayeke pëpe mû ndâ, na a yeke sara compte pëpe, a yeke hinga pëpe, wala a yeke ga ni pëpe. A lingbi a sara na navigateur ti web na telephone, tablette wala ordinateur."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Mo lingbi a sara ndoro ti ngangu ti mbi ?",
+        "a": "Ee. Sara Ndoro âpe, ayeke so a lingbi a sara ndoro ti mo tî appareil. Ndoro ayeke na navigateur ti mo, a yeke tî ndoro pëpe."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Hon tî lo",
+    "seoTitle": "Hon ndoro tî lo: Jeu ti dementia nzoni pëpe",
+    "h1": "Hon ndoro tî lo",
+    "description": "Ndoro ôko na kâ ti ekrân, ndoro 2 na 4 na ngbâ ti yê. Tâ ndoro so ayeke tî lo. Jeu ti ndoro ti kpe, pëpe a mû ndâ, mbeni azo so a yeke na dementia, pëpe montre.",
+    "short": "Tara ndoro so ayeke na kâ, na tâ ndoro so ayeke tî lo na ngbâ ti yê.",
+    "players": "Azo 1 wala 2",
+    "intro": "Ndoro ôko ayeke na kâ ti ekrân. Ngbâ ti yê ayeke ndoro 2, 3 wala 4. Tâ ndoro so ayeke tî lo. Ayeke tî ala, na ngoi ti tara ayeke, na ayeke sara tënë mingi.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Sara ndoro 2, 3 wala 4 so a yeke lingbi a tâ. Ndoro 2 ayeke nzoni ngbanga ti jeu ti tâ.",
+      "Tara ndoro ti kâ na ala.",
+      "Tâ ndoro tî lo ti ngbâ ti yê. A yeke na ✓ na tënë ti nzoni.",
+      "Tongana ndoro ti lo pëpe ayeke tâ, jeu ayeke tene nga ndoro ayeke, na ayeke ngbâ. Mo lingbi a hunda ngoi.",
+      "Hunda « Ndoro ti kîri » tongana mo yeke sô ndoro ti kîri."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Sara tënë na tî ndoro kue kîri a tâ: kpe tî ndoro, kpe tî ngu ti ndoro, na ndo ye so mo lingbi a bâ ndoro.",
+      "Ndoro 2 ayeke « kpe ti ngbanga » pëpe. Ngangu ti jeu ayeke ti sara tongana ayeke nzoni.",
+      "Tongana tâ ayeke ti gbu ngangu, azo ayeke sô ti tara na kpâ wâ, na mo lingbi a tâ ti lo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ayeke na montre wala point ?",
+        "a": "Pëpe. Ayeke na montre pëpe, point pëpe, kêtê pëpe, wala ngoi ti bâ pëpe. Mo lingbi a hunda ngoi kue, na hunda na mbeni ngoi ayeke jeu so a yeke sara nzoni."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ti nyen ayeke sara tongana mo tâ ndoro ti lo pëpe ?",
+        "a": "Ayeke sara tënë so ayeke gbu ala pëpe. Ayeke na sonnerie pëpe, croix rouge pëpe, wala gbâ pëpe. Jeu ayeke tene nga ndoro so a tâ, na ayeke ngbâ ti tâ so ngoi ayeke."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ayeke pëpe mû ndâ, na lingbi a sara compte wala a hinga ?",
+        "a": "Ee, ayeke pëpe mû ndâ, na a yeke sara compte pëpe, a yeke hinga pëpe, wala a yeke ga ni pëpe. A lingbi a sara na navigateur ti web na telephone, tablette wala ordinateur."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Tîtî tî ndoro",
+    "seoTitle": "Jeu ti kêtê tîtî pour dementia: Nzoni na web pëpe mû ndâ",
+    "h1": "Tîtî tî ndoro: jeu ti ndoro na lege",
+    "description": "Tîtî ti kôrô na kâ ti ekrân, ndoro 2 na 4 na ngbâ ti yê. Tâ ndoro so ayeke sara tîtî. Jeu ti kêtê tîtî, pëpe a mû ndâ, na lege mbeni azo so a yeke na dementia, pëpe montre.",
+    "short": "Tara tîtî, na tâ ndoro so ayeke sara tîtî.",
+    "players": "Azo 1 wala 2",
+    "intro": "Kêtê tîtî ayeke jeu so azo ayeke sara na papier ti kpe ti tî. Awe, ndoro ti kpe ayeke, na a lingbi a sara pëpe a tî papier. Tîtî ti lege ayeke na kâ ti ekrân, na ndoro 2, 3 wala 4 ayeke na ngbâ ti yê. Tâ ndoro so ayeke sara tîtî. Ndoro tongana vélo, parasol wala kondo ti thé ayeke na tënë ti sara na ala nzoni.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Sara ndoro 2, 3 wala 4 so a yeke lingbi a tâ. Ndoro 2 ayeke nzoni ngbanga ti jeu ti tâ.",
+      "Tara tîtî na ala. Lo ayeke ti nyen ? A yeke kpâ ti nyen ? A yeke tongo wala a yeke kpâkpâ ?",
+      "Tâ ndoro so ayeke sara tîtî. Tî ndoro ayeke na nduru tî tîtî.",
+      "Tongana ndoro ti lo pëpe ayeke tâ, jeu ayeke tene nga ndoro ayeke, na ayeke ngbâ. Mo lingbi a hunda ngoi.",
+      "Hunda « Tîtî ti kîri » tongana mo yeke sô tîtî ti kîri."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Kpê na ndo ti mo kpe ti tîtî na tara ti ala na tënë ti kpâ ti lo.",
+      "Tongana tîtî ayeke gbu ngangu lâ, sara Hon tî lo, ndoro ayeke na kpâ tî lo.",
+      "Tënë ti ndoro ti tâ: « Tî mbi ayeke ni parasol tî lo wâ. »"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ayeke na montre wala point ?",
+        "a": "Pëpe. Ayeke na montre pëpe, point pëpe, kêtê pëpe, wala ngoi ti bâ pëpe. Mo lingbi a hunda ngoi kue, na hunda na mbeni ngoi ayeke jeu so a yeke sara nzoni."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Tingbingo gbe ti foto ayeke nzoni teti azo so ayeke na kpale ti girisango ye?",
+        "a": "A lingbi ti duti mbeni kete ngia so anzere na ambeni zo, mbilimbili na tongo nda ni. A yeke kete ye ti hinga forme ti aye ahon atënë so a sû na mbeti. A yeke teti ngia nga na lisoro, a yeke tara zo ape, nga a sö zo ape wala a kanga lege na kpale ti girisango ye ape. Tongana a sara si bê ti zo ason, tara Find the same wala gi ti bâ afoto ni legeoko."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ye nyen ayeke si tongana a ndu foto so ayeke ni ape?",
+        "a": "Mbeni sioni ye ayeke si ape. Kûngba ti dëngo sese, croix rouge wala yengingo ti ecran ayeke dä ape. Ngia ni ayeke diko iri ti foto so a ndu ni na pekoni lo ku ti tene a ndu mbeni nde."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yeke senge senge, nga a lingbi mbi sû iri ti mbi dä?",
+        "a": "En, a yeke senge senge, a hunda compte ape, sungo iri ape wala lungo mbeni ye ape. A yeke tambela na yâ ti navigateur web na ndö ti téléphone, tablette wala ordinateur."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Kangbi aye legeoko",
+    "seoTitle": "Ngia ti kangbingo aye teti azo so ayeke na kpale ti girisango ye: Kangbi aye legeoko",
+    "h1": "Kangbi aye legeoko: mbeni kete ngia ti kangbingo afoto",
+    "description": "Ndu mbeni foto, na pekoni ndu sakpa so a lingbi lo lï dä: cuisine wala yaka, lê ti keke wala anyama. Mbeni ngia ti siriri nga ti senge senge ti kangbingo aye teti azo so ayeke na kpale ti girisango ye.",
+    "short": "Zia foto oko oko na yâ ti sakpa ti lo: cuisine wala yaka, na ambeni nde.",
+    "players": "Zo 1 wala 2",
+    "intro": "Kangbingo aye ayeke mbeni kete kua ti lâ oko oko so ahinga ni nzoni nga anzere na bê, tongana zingo aye ti gale wala tingbingo amasokisi. Ndu mbeni foto, na pekoni ndu sakpa so a lingbi lo lï dä. Hio hio ayeke dä ape, nga faute ayeke dä ape.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Soro mbeni tënë: cuisine na yaka, lê ti keke na anyama, wala da na tambela.",
+      "Ndu mbeni foto. Terê ti lo ayeke ga couleur ti lor.",
+      "Ndu sakpa so a lingbi lo gue dä. Foto ni ayeke lï na yâ ti sakpa ni.",
+      "Tongana a lingbi lo gue na yâ ti mbeni sakpa nde, ngia ni ayeke fa ni na dëngö bê na lo yeke ku.",
+      "Tongana a kangbi afoto kue awe, bâ yâ ti asakpa ni legeoko."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Na yâ ti fini ti lâ oko oko, sioni kiringo tënë ayeke dä mingi ape. Tongana mbeni zo atene arrosoir ayeke na yâ ti cuisine, hunda lo ngbanga ti nyen. Lo lingbi ti fa mbeni nzoni mbaï na mo.",
+      "Sara kua na afoto ni ti to nda ti lisoro: \"Mo lu giriso nyen na yâ ti yaka ti mo?\"",
+      "Kangbingo atâ ye ti maboko, tongana apendere kûyêre na afourchette wala abouton alingbi na akoulëre ti ala, ayeke mbeni nzoni ye ti sara na peko ni ayo na ecran."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbeni ngbonga ti diko ngoi wala a-point ayeke dä?",
+        "a": "Ên-ën. Mbeni montre, a-point, dikongo ti a-tour wala ti hon na sese ayeke dä ape. Mo lingbi ti zia ni na ngoi kue so mo ye, nga ti zia ni na popo ni ayeke nzoni lege ti hunzi ni."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Ngbanga ti nyen kangbingo aye?",
+        "a": "Azo mingi aye kangbingo aye ngbanga ti so a yeke tongana mbeni kua so ahinga ni nzoni nga so amû maboko. Nga a yeke kete ye ti sara lisoro na ndö ti afoto ni na ngoi so ala yeke sara ni."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yeke senge senge, nga a lingbi mbi sû iri ti mbi dä?",
+        "a": "En, a yeke senge senge, a hunda compte ape, sungo iri ape wala lungo mbeni ye ape. A yeke tambela na yâ ti navigateur web na ndö ti téléphone, tablette wala ordinateur."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ti afoto",
+    "seoTitle": "Kete Puzzle teti azo so ayeke na kpale ti girisango ye: kete mbage 4 wala 9",
+    "h1": "Puzzle ti afoto: mbeni puzzle so ayeke kete ye ti sara",
+    "description": "Mbeni puzzle ti internet so ayeke kete ye teti azo so ayeke na kpale ti girisango ye: akete mbage 4 wala 9 so akono, gbâ ti foto ni kue angbâ ti bâ ni, na mo ndu ambage use ti changé ndo ti ala.",
+    "short": "Ndu ambage use ti changé ndo ti ala juska foto ni aga kue.",
+    "players": "Zo 1 wala 2",
+    "intro": "A fâ mbeni pendere foto na akete mbage osio wala huingo so akono na a mélangé ala. Gbâ ti foto ni kue angbâ ti bâ ni ti fa lege na zo. Ndu mbeni mbage ni, na pekoni ndu mbeni nde, na ala yeke changé ndo ti ala. Gboto ti ye na maboko ayeke dä ape.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Soro mbeni foto nga na ambage 4 wala 9. Osio ayeke nzoni ti to nda ni na yâ ti siriri.",
+      "Bâ gbâ ti foto ni kue na li ni.",
+      "Ndu mbeni mbage ni, na pekoni ndu ndo so a lingbi lo gue dä. Ambage use ni ayeke changé ndo ti ala.",
+      "Ambage so alï na tâ ndo ti ala ayeke wara mbeni kete marque ti fa so ayeke nzoni.",
+      "Tongana foto ni aga kue awe, bâ ni na ngia legeoko, na pekoni soro mbeni nde."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ndungo ambage use ti changé ndo ti ala ayeke kete ye mingi teti azo mingi ahon ti gboto ni na maboko.",
+      "Sara lisoro na ndö ti foto ni tongana a yeke ga oko: \"Li ti da ti bengba koulëre ayeke kâ.\"",
+      "Mbeni tâ puzzle ti keke so ayeke na akete mbage 12 ti si na 24 so akono ayeke nga mbeni pendere kua ti sara na ndö ti table."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbeni ngbonga ti diko ngoi wala a-point ayeke dä?",
+        "a": "Ên-ën. Mbeni montre, a-point, dikongo ti a-tour wala ti hon na sese ayeke dä ape. Mo lingbi ti zia ni na ngoi kue so mo ye, nga ti zia ni na popo ni ayeke nzoni lege ti hunzi ni."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "A lingbi mbi gboto ambage ni na maboko?",
+        "a": "Ên-ën. Ndu mbeni mbage ni, na pekoni ndu mbeni nde, na ala yeke changé ndo ti ala. Ye so ayeke kete ye teti maboko so ayeke yengi wala na ndö ti kete ecran."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yeke senge senge, nga a lingbi mbi sû iri ti mbi dä?",
+        "a": "En, a yeke senge senge, a hunda compte ape, sungo iri ape wala lungo mbeni ye ape. A yeke tambela na yâ ti navigateur web na ndö ti téléphone, tablette wala ordinateur."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Hunzi fango tënë ni",
+    "seoTitle": "Hunzi fango tënë ni: Ngia ti a-proverbe teti ambakoro",
+    "h1": "Hunzi fango tënë ni",
+    "description": "Afango tënë so ahinga ni nzoni so ndangba tënë ni amanke, tongana \"Kete nginza so a bata ayeke kete nginza so a ___\". Ndu mbeni kiringo tënë wala fa ndangba ni, na pekoni sara lisoro na ndö ni.",
+    "short": "Hunzi afango tënë so ahinga ni legeoko, na pekoni sara lisoro na ndö ni.",
+    "players": "Zo 1, 2 wala gbâ ti azo",
+    "intro": "A-kôtä fango tënë ayeke aye so ahinga ni mingi na yâ ti fini ti zo kue. Carte oko oko afa mbeni fango tënë so ahinga ni so ndangba tënë ni amanke, asorongo ye ota, nga na bouton \"Fa ndangba ni\". Na peko ti ndangba ni, mbeni kete hundango ndo ayeke mû lege ti sara lisoro.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Diko fango tënë ni na kôtä go legeoko.",
+      "Ndu tënë so ahunzi ni, wala ndu \"Fa ndangba ni\".",
+      "Diko fango tënë ni kue mbeni kute na sara lisoro na ndö ni na lege ti kete tënë so a hunda.",
+      "Ndu \"Fango tënë so aga na peko\" tongana mo leke terê ti mo awe."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Diko ni yeke yeke na zia kete ngoi kozoni si mo tene ndangba tënë ni. Mingi ni azo ayeke tene ni kozoni si mo hunzi.",
+      "Tongana mbeni zo amû mbeni ndangba tënë nde, bâ ni na ngia. Ambeni fango tënë ayeke changé alingbi na afamille wala ambage ti kodoro.",
+      "Na popo ti gbâ ti azo, zo oko adiko na azo kue amû maboko ti tene ndangba ni."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbeni ngbonga ti diko ngoi wala a-point ayeke dä?",
+        "a": "Ape. Ayeke ape ngu ti lâ, ape ye ti sïgî, ape ye ti kpe. Mo lingbi ti sïgî na lâ kue, na sïgî na ndö ayeke nzoni ti zia ti gbu."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Tongana e gbu ye so ape, nye ayeke?",
+        "a": "Jeu ayeke ti fa tene ti lo na yanga ti kpe, lo sara na fini ti tene. Ape ye ti kpengba, na ye so e gbu ape ayeke nzoni."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ayeke ti kö wala a lingbi ti sara compte ape?",
+        "a": "Ee, ayeke ti kö, na ape compte, ape hinga, ape ndö ti download. Ayeke na navigateur ti web na telephone, tablette wala ordinateur."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Jeu ti mots cachés ni lêtre ti gbâ mingi",
+    "seoTitle": "Jeu ti mots cachés ni lêtre ti gbâ mingi ti azo so maladi ti kiri, ti printer ayeke ti kö",
+    "h1": "Jeu ti mots cachés ni lêtre ti gbâ mingi",
+    "description": "Jeu ti mots cachés ni lêtre ti gbâ mingi ti kö ti azo ti ngu wala azo so ayeke na maladi ti kiri. Mots ti ndu, lêtre ti gbâ, ti ndö na pekoro wala na kozo kpe. Gbu na internet wala printer.",
+    "short": "Lêtre ti gbâ, mots ti ndu, na pekoro wala na kozo kpe. Printer nga.",
+    "players": "1 wala 2 azo",
+    "intro": "Kpêrê ti ndu ni lêtre ti gbâ mingi, na mots ti ndu, ti kpe ayeke ndö na pekoro wala na kozo. Hon ye ti mots na tele ti lêtre ti ye, na tele ti lêtre ti kpe ti mots ni. Mo yeke printer kpe? Printer kpe ti kpêrê ti tongaso na tele ti lo.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Mû thème na kpêrê ti ye.",
+      "Bi liste ti mots. Mots ayeke ndö na pekoro (ti ndu na ti zo) wala na kozo (ti kozo na ti pekoro).",
+      "Hon ye ti mots na tele ti lêtre ti ye, pastä tele ti lêtre ti kpe ti mots ni.",
+      "Mots so a hinga ayeke ti gbâ na liste ayeke ti kpe.",
+      "Hon « Printer kpêrê ni » ti gbu jeu na papier na crayon wala stylo."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Fa ye ti mots na liste, na bi lêtre ti ye na azo ti gbu.",
+      "Na papier, surligneur ayeke sioni ti mû ti ngbâ crayon.",
+      "Tene na mots ti thème. Mots ti fruits ayeke lege ti hinga ti ye ti ngbâ, ti kabu, wala ti marché."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ayeke na timer wala score ape?",
+        "a": "Ape. Ayeke ape ngu ti lâ, ape score, ape ye ti sala ti gbâ ye, ape ye ti kpe. Mo lingbi ti sïgî na lâ kue, na sïgî na ndö ayeke nzoni ti zia ti gbu."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "A lingbi ti printer jeu ti mots cachés ape?",
+        "a": "Ee. Hon « Printer kpêrê ni » ti printer kpêrê so ayeke na lêtre ti gbâ mingi, na liste ti mots na pekoro. Kpêrê ti kue ayeke ti yeke tongaso."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ayeke ti kö wala a lingbi ti sara compte ape?",
+        "a": "Ee, ayeke ti kö, na ape compte, ape hinga, ape ndö ti download. Ayeke na navigateur ti web na telephone, tablette wala ordinateur."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Kpêrê ti yâ ti kolorïe",
+    "seoTitle": "Kpêrê ti yâ ti kolorïe ti azo so maladi ti kiri ayeke na (ti kö)",
+    "h1": "Kpêrê ti yâ ti kolorïe",
+    "description": "Kpêrê ti kolorïe ti azo ti ngu, ni ye ti gbâ mingi: hon couleur, na bi tele ti kpêrê. Ape bê, ape couleur ti ngbâ ape, na kpêrê kue ayeke printer ti kö.",
+    "short": "Hon couleur, na bi tele ti kpêrê. Printer kpêrê kpe.",
+    "players": "1 wala 2 azo",
+    "intro": "Kpêrê ni ye ti gbâ na ye ti ndu: fleur na pot, ndo, tasse ti thé, papillon na bateau ti mer. Hon couleur, na bi tele ti kpêrê ti fa ye ti sara ni na couleur ni. Ape couleur ti ngbâ ape.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Mû kpêrê.",
+      "Hon couleur. Couleur kue ayeke na nom ti lo na ye.",
+      "Bi tele ti kpêrê ti sara ni na couleur ti hon ni.",
+      "A lingbi ti sara ye ti kpe tongana e bâ ye kue, na sara ni tele.",
+      "Hon « Printer kpêrê ti pekoro » ti kpêrê ti ngbâ ti kolorïe na crayon wala stylo."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Fa couleur mbi ti mû na ye tongana ti mû ye mingi ayeke gbâ mingi.",
+      "Arbre ti couleur ti yâ na soleil ti bleu ayeke nzoni. Ayeke ti sara couleur ni, ape ti gbâ ni ape.",
+      "Kpêrê ti printer ayeke sioni na crayon wala marqueur ti gbâ, ti mû ni ayeke sioni."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ayeke na timer wala score ape?",
+        "a": "Ape. Ayeke ape ngu ti lâ, ape score, ape ye ti sala ti gbâ ye, ape ye ti kpe. Mo lingbi ti sïgî na lâ kue, na sïgî na ndö ayeke nzoni ti zia ti gbu."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Kpêrê so ayeke ti azo ti ngu ape?",
+        "a": "Mbi sara ye ti kpe na ye so ayeke ti kiri, ape dessin ti pipi, tongana azo ti ngu a lingbi ti yeke. Ye ti gbâ ayeke sara ti kolorïe sioni, na ape ti sara ni ti ngu ape."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ayeke ti kö wala a lingbi ti sara compte ape?",
+        "a": "Ee, ayeke ti kö, na ape compte, ape hinga, ape ndö ti download. Ayeke na navigateur ti web na telephone, tablette wala ordinateur."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kaadi ti tene",
+    "seoTitle": "Kaadi ti tene ti azo so maladi ti kiri: kaadi ni ayeke ni ye",
+    "h1": "Kaadi ti tene",
+    "description": "Kaadi ni ye ni ayeke ti tene na kpe ti azo so ayeke na maladi ti kiri: ape kiri, ape ye ti nzoni ti tene. Gbu na ekran wala printer kaadi kue.",
+    "short": "Kaadi ni ye ni, na kpe ti tene ti ayeke sioni. Ape kiri.",
+    "players": "2 azo wala gbungbo azo",
+    "intro": "Kaadi kue ayeke na ye ti lege, na tene ti mbi ni, tongana « Ye nzoni mingi na tongaso ayeke nyen? » Ape ye ti nzoni ti tene, ape ye ti hinga ape. Mû thème wala bi kaadi kue.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Mû thème, wala ga « Kaadi kue ».",
+      "Tene kpe ti sioni, na bi ye ti kaadi ni azo ti gbu.",
+      "Mbeni, tene na tene ti mo, na fa tene ti lo ti sara na tele.",
+      "Hon « Kaadi ti sioni » tongana mo ga na ngbâ, wala ga na kaadi kue na ngbâ ti mo.",
+      "Hon « Printer kaadi kue » ti kö kaadi na papier."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Tene na tene ti mo kpe. Ayeke tene ti azo wala tene ti kpe, ape kiri ti ngu.",
+      "Tene na tene ti kpe, ape ti sara ye ti ye. Tongana ye ti ngu, ayeke nzoni.",
+      "Tongana kaadi ayeke fa ye ti nzi ti mo, hunda na kpe ti lo, na gbu na kaadi ti kpe ti lo kiri."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Ngbanga nye ape kaadi « Hinga mo ...? » ?",
+        "a": "Tene ti fa ye ti hinga ayeke tongana examen, na ayeke sara azo ti ngangu. Tene ti hinga na yanga ti kpe, tongana « Tene mbi na ... », ayeke lege ti azo kue ti gbu, na ye ti hinga ti lo ayeke ti ngbâ."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "A lingbi ti printer kaadi ape?",
+        "a": "Ee. « Printer kaadi kue » ayeke printer kaadi kue na lêtre ti gbâ, kaadi ti mingi na papier kpe, na ayeke ti kö ti bi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ayeke ti kö wala a lingbi ti sara compte ape?",
+        "a": "Awe, ayeke ndo. Ala ayeke na kâ ti kiri pëpe, ala ayeke na nzapa ti tene ti mo pëpe, na ala ayeke na ti dë pëpe. A sara na navigateur ti web na telefon, tablette wala ordinateur."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Ngbâ tî foto",
+    "seoTitle": "Sara jeu ti ngbâ tî foto ti mo",
+    "h1": "Ngbâ tî foto: Ngbâ foto ti mo",
+    "description": "Zia foto ti mo ti ndo ti jeu ti ngbâ na yâ ti sëndä. Ngbâ 2 to 6 foto na telefon, tablette wala ordinateur ti mo; a ga na navigateur ti mo, a wara ti tene ti sara pëpe.",
+    "short": "Ngbâ foto ti mo na tongana. A tene ti sara pëpe.",
+    "players": "2 zo, na yângâ ti lo",
+    "intro": "Ngbâ 2 to 6 foto na telefon, tablette wala ordinateur ti mo, a sara jeu ti ngbâ na foto ti yeke ti dä. Foto aga ti sû ala gi na page aga kêtê. A tene ti sara pëpe, a wara ti tene ti sara pëpe, na a yeke ti kpe tongana ala ti page aga.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Zia « Ngbâ foto » na ngbâ 2 to 6 foto.",
+      "Foto kue ayeke na lêgô mbâ. Zia mbeni, na zia ngbâ ti lo.",
+      "Sara tënë na foto kue tongana mo ye lo.",
+      "Tongana mo mû ti sala, kpe page wala zia « Zia foto ti kpe ». A tene ti sara pëpe."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Ngbâ foto ti yeke ti sö na zo ti yeke ti mo: awe ti yanga, sese ti kiri, yâ so mo yeke ti mbeni, wala yâ ti mbâ ti mo.",
+      "Foto ti kiri na yâ wala aköngö ayeke ti dë ti sala mbeni na tongana foto ti zo, na ti kpe ti tene zo ti ngbâ ti lo tënë pëpe.",
+      "Tongana foto ti zo so ayeke kue, a wara ti yeke ti mbi ti lo sïä na nzo, tongana a sara ti nzoni pëpe."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Foto ti mbi ayeke sara na ndo kue?",
+        "a": "Ahã. Page aga ayeke ti sara foto so mo zia na navigateur ti mo na sü na ekran ti mo. A tene ti të mbi wala zo mbeni pëpe, na a kpe tongana mo kpe wala mo ga pêpe page aga."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ayeke na ngu wala na ti ngbâ?",
+        "a": "Ahã. Ayeke na ngu ti ngbâ, ngu ti kiri pëpe, ngu ti kongo pëpe, na ayeke na yeke ti hon pëpe. Mo lingbi ti kpe na ngoi kue, na kpe na nzoni ti jeu ayeke tongana ti mo mbeni."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Mbi lingbi ti tene jeu aga na ngoi ti nga?",
+        "a": "Ahã, na navigateur ayeke so a tene ti sara ti mo pëpe. Application Golden Moments ti iPhone na iPad ayeke ti ndo, a lingbi ti tene foto kue so mo zia na telefon ti mo."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ti foto",
+    "seoTitle": "Bingo ti foto ti zo ti maladi ti sü: ti tene na papier",
+    "h1": "Bingo ti foto ti ngu",
+    "description": "Bingo ti foto ti ndo, ti a lingbi ti tene na papier, ti zo ti yeke na centre ti kpe maladi ti sü na ngu ti zo. Foto kue ayeke ngangu na tî ngbâ, 9 wala 16 bâ, a yeke ti tene pëpe.",
+    "short": "Kâdo bingo ti foto ti tene na papier, na zo ti yeke ti hon na ekran ti ngu.",
+    "players": "Ngu ti 2 to 30 zo",
+    "intro": "Bingo ti tongana, aka foto ayeke na nombre. Zo kue lingbi ti tene pëpe ti ngbâ na ngbâ ti sïngö. Tene kâdo ti ngbâ ti yeke tî ngbâ, na zo ti hon ekran na bâ ti TV, laptop wala tablette, a sara foto kue na ngangu.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Zia 9 wala 16 bâ na kâdo mbeni, na ngu ti zo.",
+      "Zia « Tene kâdo ». Kâdo kue ayeke ti yeke mbeni.",
+      "Fa ekran na bâ ti ngangu. Zia « Foto so aga » ti sara foto kue na yâ ti lo.",
+      "Zo ayeke ti dë foto so tongana na kâdo ti lo, na mbeni kpa, bouton wala marqueur.",
+      "Zo kue so ayeke na lêgô wala kâdo kue, a sara ye ti ngangu. Ngu aga ayeke ti ngu pëpe, a yeke ti zia tënë kue hon ti zo kue awe."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Zia tokën ti ngangu tongana damier wala kpâ ti bière. Bouton ti ndakâ ayeke ti dë ti zi pëpe.",
+      "Tënë na foto na sara tënë ti lo: « Bateau ti mer. Zo nyen so ayeke na bateau? »",
+      "Zo so ayeke ti yeke ti mbi ti tene lo na ekran, a ga na ndo ti ekran, na zo so ayeke ti dë, a ga na ngu ti lo.",
+      "9 bâ ayeke ngangu na ngu ayeke. Tene ngoi ti jeu na 20 to 30 minute."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Mbi lingbi ti sala bingo ti foto na nzo ti kpe zo?",
+        "a": "Tene kâdo mbeni na zo kue, fa ekran so ngangu na bâ ti mo, na hon foto na yeke, na tënë na foto kue. Jeu na ngoi kue ti zo kue ayeke na ligne, zo kue lingbi ti yeke na jeu."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Ayeke ngu ti tene na papier?",
+        "a": "Awe. Tene kâdo so mo mä na ngoi kue, na ngoi kue mo ga, pour ti mo wala ti ngu."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Zo lingbi ti jeu na ti ngbâ tënë pëpe?",
+        "a": "Awe. Bâ kue ayeke foto ngangu, na tënë ti lo ayeke na yâ ti lo, ti zo so ayeke ti yeke ti tënë."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ngangu ti lo",
+    "seoTitle": "Ngoi ti lo na ngangu ti zo ti yeke ti kpe na ti zo so ayeke ti yeke ti mo",
+    "h1": "Ngoi ti lo na ngangu",
+    "description": "Ngoi ti lo ti mbi ti tene ti yeke ti mbi ti sö na lo: kpâ ti yeke ti tele na tongana ti lo ti mbi ti tene ti mbi tâ 6 ti ngangu. A kpe na zo ti tene, a lingbi ti kpe ngoi kue.",
+    "short": "Kpâ ti mbi ti tene ti yeke ti mbi na lo. Tene na kpe ngoi so mo mû.",
+    "players": "1 wala 2 zo",
+    "intro": "Tongana aka ngoi ti lo ayeke ti nzoni tongana. Zia « Tene », na tene ti mo na kpâ ti tele. Zia ndo ti ngangu ti mbi ti tene na tele ti lo. A lingbi ti zia ndo ti lo wala ti kpâ tongana ti mo. Ayeke pëpe ti ngangu, ayeke ngoi ti lo ti sö na zo kue.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Yeke na sëndä na yâ ti lo na tongana ti sö.",
+      "Zia ndo ti ngoi: lô wala ngangu.",
+      "Zia « Tene ». Tene na kpâ ti tele, na tene na kpâ ti kpe.",
+      "Ayeke kpe na mbeni 6 ti tene, wala zia « Kpe » na ngoi kue mo mû."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Kpe loko wala tî yâ na bâ ti zo, tongana a mû ti nzoni.",
+      "Mbi ti sala ti lo tënë pëpe. Tongana lo mû ti tene ti mbi, ayeke nzoni.",
+      "Tongana zo ayeke na gbe ti tene pëpe, tene na tene tongana tongana, na mbi kpâ tongana ti tene. Tënë na doktor na tënë kue ti gbe ti tene."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ayeke ngoi ti tene ti maladi ti tene?",
+        "a": "Ahã. Ayeke ngoi ti lo na ngangu na ti sö, a lingbi ti mû wala ti ga pëpe. Ayeke pëpe ti sara ngangu ti maladi ti ngangu wala maladi ti nga. Tënë na doktor tënë kue ti gbe ti yeke ti sara na mo."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Kpâ ti tele ayeke ti tele tongana mbi zia ti yeke?",
+        "a": "Mbï. Nzoni ayeke ngangu pëpe ti sô lo tâ « Tâ », na lo ga ngu ndâ ti ndo wala tongana lo tâ « Hon ». Tongana aparey ti lo ayeke mä ngangu ti ndo, mbï-ti nzoni ayeke kîri pëpe, mbeni ngangu gi ayeke pâ tâ ti kpengbi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ayeke ye ngbâ wala mo ga sïn ti kanga ?",
+        "a": "Ë, ayeke ye ngbâ, na kanga ti kanga, sïn ti kanga, wala ti tâ mbï pëpe. Ayeke mä na yâ ti web ti téléphone, tablette wala ordinateur."
       }
     ]
   }

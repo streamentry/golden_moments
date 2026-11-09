@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Lumaktaw sa pangunahing nilalaman",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Mga gawain para sa demensya",
+    "homeLabel": "Pahina ng Golden Moments",
+    "mainNav": "Pangunahin",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Tagalog",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: malalaki at magiliw na larawan ng tasa ng tsaa, bulaklak na mirasol at aso",
+    "languages": "Wika",
+    "englishOnly": "(Ingles)",
+    "machineTranslated": "Awtomatikong isinalin ang pahinang ito at hindi pa nasusuri ng isang katutubong nagsasalita.",
+    "readOriginal": "Basahin ang orihinal sa Ingles",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Mga laro",
+      "activities": "Mga gawain",
+      "caregiving": "Pag-aalaga",
+      "brainHealth": "Kalusugan ng utak"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Mga tanong at sagot",
+    "breadcrumb": "Landas ng pahina",
+    "home": "Tahanan",
+    "lastUpdated": "Huling na-update",
+    "topics": "Mga paksa",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Laki ng teksto",
+      "smaller": "Karaniwang teksto",
+      "larger": "Mas malaking teksto",
+      "contrast": "Mas malinaw na kaibahan"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
+    "play": "Maglaro",
+    "picturePairs": "Magkapares na larawan",
+    "conversationCards": "Mga kard para sa usapan",
+    "pictureBingo": "Bingo ng larawan",
+    "allGames": "Lahat ng laro",
+    "pictures": "Mga larawang maaaring i-print",
+    "activityIdeas": "Mga ideya sa gawain",
+    "ideas101": "101 ideya sa gawain",
+    "lateStage": "Mga gawain para sa huling yugto",
+    "printable": "Mga gawaing maaaring i-print",
+    "allActivities": "Lahat ng gawain",
+    "forCaregivers": "Para sa mga tagapag-alaga",
+    "playTogether": "Paano maglaro nang magkasama",
+    "selfCare": "Pag-aalaga sa sarili",
+    "brainHealth": "Pananaliksik tungkol sa kalusugan ng utak",
+    "faq": "Mga tanong at sagot",
+    "about": "Tungkol sa amin",
+    "approach": "Ang aming paraan",
+    "howWeWrite": "Paano kami sumusulat",
+    "organizations": "Para sa mga organisasyon",
+    "app": "Ang app na Golden Moments",
+    "appHelp": "Tulong sa app",
+    "support": "Suporta",
     "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "sitePrivacy": "Privacy ng website",
+    "appPrivacy": "Patakaran sa privacy ng app",
+    "privacyChoices": "Mga pagpipilian sa privacy",
+    "terms": "Mga tuntunin at lisensya ng app",
+    "safety": "Kaligtasan at nilalayong gamit",
+    "accessibility": "Pagiging accessible",
+    "healthNotice": "Paunawa tungkol sa impormasyong pangkalusugan",
+    "allLegal": "Lahat ng impormasyong legal",
+    "note": "Nag-aalok ang Golden Moments ng mga simpleng gawaing pinagsasaluhan para sa kasiyahan. Hindi ito payo medikal, pagsusuri o gamot, at hindi nito dina-diagnose, sinusukat o binibigyan ng iskor ang sinuman. Para sa mga tanong tungkol sa kalusugan, makipag-usap sa doktor. Sa emergency, tumawag sa 911.",
+    "publisher": "Inilathala ng Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Mga Laro at Gawain para sa Demensya at Alzheimer's | Golden Moments",
+    "description": "Libre at banayad na mga larong may larawan na maaaring laruin online, at mga ideya sa gawain para sa mga taong may demensya o Alzheimer's at sa kanilang mga tagapag-alaga. Walang kailangang i-sign up, walang timer o iskor.",
+    "eyebrow": "Libre · Walang ad · Walang sign-up · Walang timer o iskor",
+    "h1": "Mga Banayad na Laro at Gawain para sa mga Taong may Demensya",
+    "lede": "Mga simpleng larong may larawan, pamilyar na litrato, at mga gawaing masayang gawin nang magkasama, ayon sa sarili ninyong bilis.",
+    "playGame": "Maglaro ng isang laro",
+    "findIdeas": "Maghanap ng ideya sa gawain",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Gumagana sa telepono, tablet at kompyuter",
+      "Malalaking larawang nananatiling nakikita",
+      "Huminto anumang oras; walang dapat mabigo"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Mayroon ding libreng app para sa iPhone, iPad at Android, kasama ang sarili ninyong mga litrato ng pamilya",
+    "albumNote": "“Dalawang larawan ng tasa ng tsaa, magkasama.”",
+    "gamesEyebrow": "Maglaro sa inyong browser",
+    "gamesTitle": "Mga larong maaari ninyong laruin ngayon",
+    "gamesLede": "Bawat isa ay payapa, angkop para sa mga adulto, at madaling simulan. Pumili ng isa, umupo nang magkatabi, at magpalitan sa pagpindot.",
+    "seeAllGames": "Tingnan ang lahat ng {count} laro",
+    "howTitle": "Paano ito gumagana",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Pumili ng pamilyar",
+        "text": "Mga larawan ng tasa ng tsaa, hardin, alagang hayop at bangkang de-layag. Walang kailangang basahin o aralin muna."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Umupo nang magkatabi",
+        "text": "Hayaan silang pumindot. Pag-usapan ang mga larawan. Ang hindi pagtutugma ay maghihintay lang sa susunod na pindot."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Huminto kapag masarap pa ang pakiramdam",
+        "text": "Ang isang laro ay kumpletong gawain na. Nasa screen palagi ang “Tapos muna sa ngayon”."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Higit pa sa screen",
+    "stageTitle": "Mga ideya sa gawain para sa bawat yugto",
+    "stageLede": "Musika, mga gawaing pang-araw-araw, pag-alala sa nakaraan, at tahimik na mga sandaling pandama, ayon sa kung ano ang komportable ngayon.",
+    "ideas101": "101 ideya sa gawain",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Maagang yugto",
+        "text": "Ipagpatuloy ang mga bagay na gustong-gusto nila, na may maliliit na pagbabago: mga libangan, lakad sa labas, larong salita at magkasamang pagpaplano.",
+        "label": "Mga ideya para sa maagang yugto"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Gitnang yugto",
+        "text": "Simple at pamilyar na mga gawain na hinati sa mga hakbang: pagtutupi, pag-uuri, musika, larong larawan at maiikling lakad.",
+        "label": "Mga ideya para sa gitnang yugto"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Huling yugto",
+        "text": "Ginhawa at koneksyon sa pamamagitan ng haplos, tunog at paningin: pag-aalaga ng kamay, paboritong kanta, mga litrato at pagsasama.",
+        "label": "Mga ideya para sa huling yugto"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Naghahanap ng partikular? Subukan ang <a href=\"/activities/alzheimers/\">mga gawain at laro para sa Alzheimer's</a>, <a href=\"/activities/memory-games/\">banayad na larong pang-alaala</a>, <a href=\"/activities/trivia/\">madaling trivia</a> o <a href=\"/activities/puzzles/\">mga puzzle</a>.",
+    "approachEyebrow": "Ang aming paraan",
+    "approachTitle": "Isang pinagsasaluhang gawain, hindi pagsusulit sa alaala",
+    "approachLede": "Maraming “brain game” ang nakabatay sa bilis, iskor at sunod-sunod na panalo. Para sa taong may demensya, maaari itong maging parang pagsusulit. Ginawa namin ang kabaligtaran.",
+    "approachLink": "Bakit namin dinisenyo ito nang ganito",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Walang dapat mabigo",
+        "text": "Walang orasan, iskor, buhay o pagkatalo. Ang ibang larawan ay pahinga, hindi pagkakamali."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Nananatiling nakikita ang mga larawan",
+        "text": "Pagkilala ang inuuna, hindi pag-alala. Nagsisimula ang pagtutugma na nakaharap ang mga larawan, kaya walang kailangang tandaan."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Pang-adulto at may dignidad",
+        "text": "Mainit at simpleng salita, at totoong larawan sa mundo. Hindi kailanman cartoon o pagsasalitang pambata."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Pribado sa disenyo",
+        "text": "Walang account o ad. Hindi kailanman umaalis sa inyong device ang inyong mga litrato."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Para sa mga tagapag-alaga",
+    "guidesTitle": "Praktikal na gabay sa araw-araw na pag-aalaga",
+    "allCaregiving": "Lahat ng gabay sa pag-aalaga",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Paano maglaro nang magkasama",
+        "text": "Paghahanda, bilis, at kung ano ang gagawin kapag hindi na masaya ang laro."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Kapag tumanggi sila sa isang gawain",
+        "text": "Mga karaniwang dahilan ng pagtanggi, at banayad na paraan para subukan ulit sa ibang pagkakataon."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Pag-aayos ng tablet",
+        "text": "Mas malaking teksto, mas kaunting abala, at iisang simpleng home screen."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Mga gawaing maaaring i-print nang libre",
+        "text": "Mga word search na malaki ang letra, pangkulay, bingo at mga kard para sa usapan."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Kalusugan ng utak: ano ba talaga ang sinasabi ng pananaliksik",
+    "researchText": "Maiiwasan ba ang demensya? Nakatutulong ba ang mga brain game? Paano naman ang pag-aayuno, diyeta, tulog at pandinig? Malinaw at may batayang sagot, kasama kung saan mahina ang ebidensya.",
+    "researchLink": "Basahin ang mga gabay sa pananaliksik",
+    "appEyebrow": "Mayroon ding app",
+    "appTitle": "Golden Moments sa iPhone, iPad at Android",
+    "appText": "Gumagana ang libreng app nang offline at maaaring gumamit ng mga litrato ng pamilya na pipiliin ninyo, na itinatago bilang kopya sa inyong device. Parehong payapang disenyo: apat na malalaking tile, walang timer, walang iskor.",
+    "aboutApp": "Tungkol sa app",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ano ang mga magandang laro para sa mga taong may demensya?",
+        "a": "Ang mabubuting laro ay payak, pamilyar at walang pilit: malalaking larawang itutugma, pag-uuri, madaling jigsaw, pagtatapos ng mga kilalang kasabihan, pagkukulay, picture bingo at mga conversation card. Ang pinakamainam na pagpipilian ay ang larong gusto ng tao ngayon. Iwasan ang timer, iskor at anumang parang pagsusulit."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Libre ba ang mga larong ito para sa dementia?",
+        "a": "Oo. Lahat ng laro at printable sa Golden Moments ay libre, walang account, sign-up o download. Tumatakbo ang mga laro sa web browser ng telepono, tablet o kompyuter."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Napipigilan ba ng brain games ang dementia?",
+        "a": "Walang larong napatunayang nakapipigil ng dementia, at hindi inaangkin ng Golden Moments na nagagamot o napipigilan ng alinman. Para sa kasiyahan at pagsasama ang aming mga laro. Ipinaliliwanag ng aming seksyon tungkol sa kalusugan ng utak kung ano ang ipinapakita at hindi ipinapakita ng pananaliksik."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Angkop ba ang mga larong ito para sa taong may Alzheimer's?",
+        "a": "Oo. Ang Alzheimer's disease ang pinakakaraniwang sanhi ng dementia, at ginawa ang mga laro para dito: malalaking larawang nananatiling nakikita, kakaunting pagpipilian, at walang kailangang tandaan o maling gawin. Ang pagtutugma, pag-uuri at pagtatapos ng pamilyar na kasabihan ay umaasa sa kaalamang matagal nang taglay ng tao, hindi sa bagong pagkatuto."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Magagamit ba ng taong nasa huling yugto ng dementia ang mga aktibidad na ito?",
+        "a": "Madalas, oo, basta may kasama sila sa tabi. Simulan sa Find the same na may dalawang larawan, Picture pairs na may apat na tile, pahina ng pagkukulay, o tahimik na paghinga. Panatilihing maikli, sundin ang kanilang gusto at huminto kapag pagod na sila o ayaw na."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Pribado ba ang aking impormasyon?",
+        "a": "Walang account at walang advertising ang site. Gumagamit kami ng Google Analytics para malaman kung aling mga pahina ang binibisita. Ang mga larawang pipiliin mo para sa Photo pairs ay ipinapakita lamang sa iyong browser at hindi kailanman ina-upload."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Sino ang gumawa ng Golden Moments?",
+        "a": "Ang Golden Moments ay maliit na team na gumagawa ng mahinahon at pang-adultong picture activities para sa mga pamilya at tagapag-alaga, sa web at bilang libreng app. Hindi kami mga clinician, at walang medikal na payo rito."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "maaga",
+    "middle": "gitna",
+    "late": "huli",
+    "hintOne": "Madalas na angkop sa {list} na yugto",
+    "hintMany": "Madalas na angkop sa mga {list} na yugto",
+    "labelEarly": "Maagang yugto",
+    "labelMiddle": "Gitnang yugto",
+    "labelLate": "Huling yugto"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Tungkol sa larong ito",
+    "printable": "Maaaring i-print",
+    "play": "Laruin ang {name} →",
+    "readGuide": "Basahin ang gabay"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Handa ka na para sa isang mahinahong laro?",
+    "text": "Malalaking larawan, walang timer, walang iskor at walang kailangang pirmahan. Maglaro nang magkasama sa iyong browser.",
+    "play": "Maglaro",
+    "all": "Tingnan ang lahat ng laro",
+    "aria": "Maglaro ng laro"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Dalhin ang mga larong ito saan ka man pumunta",
+    "text": "Ang libreng Golden Moments app para sa iPhone, iPad at Android: malalaking picture tile, mga larong gamit ang sarili ninyong larawan ng pamilya, at mga picture pack na gumagana nang walang Wi‑Fi. Walang account, ad, timer o iskor.",
+    "appStore": "Kunin sa App Store",
+    "googlePlay": "Kunin sa Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Tungkol sa app",
+    "aria": "Kunin ang app"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Mga Aktibidad",
+      "title": "Mga Aktibidad para sa Taong may Dementia",
+      "seo": "Mga Aktibidad para sa Taong may Dementia: Mga Ideya ayon sa Yugto",
+      "description": "Mga ideya ng aktibidad para sa mga taong may dementia sa bawat yugto: musika, pag-alala sa nakaraan, mga araw-araw na gawain, pandama, sining, labas at libreng printable.",
+      "lede": "Ang makabuluhang aktibidad ay anumang nagbibigay ng ginhawa, layunin o sandali ng pagkakaugnay. Magsimula sa kung ano ang laging nagugustuhan ng tao, at iangkop ito sa kasalukuyan."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Pag-aalaga",
+      "title": "Mga Gabay sa Pag-aalaga",
+      "seo": "Mga Gabay sa Pag-aalaga sa Dementia: Praktikal na Tulong sa Araw-araw",
+      "description": "Praktikal at maawaing gabay para sa mga tagapag-alaga ng may dementia: paglalaro nang magkasama, komunikasyon, pagtanggi, pagkabalisa sa gabi, tablet, pagpili ng app at pag-aalaga sa sarili.",
+      "lede": "Simple at praktikal na tulong para sa araw-araw na sandali ng pag-aalaga sa taong may dementia, kasama na ang pag-aalaga sa iyong sarili."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Kalusugan ng utak",
+      "title": "Kalusugan ng Utak: Ano ang Sinasabi ng Pananaliksik",
+      "seo": "Kalusugan ng Utak at Panganib ng Dementia: Ano ang Sinasabi ng Pananaliksik",
+      "description": "Maaari bang maiwasan ang dementia? Tapat at may sanggunian na mga gabay tungkol sa mga salik ng panganib, brain games, pag-aayuno, pagkain, ehersisyo, tulog, pandinig at mga maagang babala.",
+      "lede": "Ano talaga ang ipinapakita ng malalaking pag-aaral tungkol sa pagbaba ng panganib ng dementia, ipinaliwanag nang payak, kasama kung saan mahina o magkahalo ang ebidensya. Pangkalahatang impormasyon ito, hindi medikal na payo."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Na-update",
+    "minuteRead": "{n} minutong pagbasa",
+    "byTeam": "Ng team ng Golden Moments",
+    "howWeWrite": "Paano kami sumusulat",
+    "shortAnswer": "Ang maikling sagot",
+    "onThisPage": "Sa pahinang ito ({n} na seksyon)",
+    "commonQuestions": "Mga karaniwang tanong",
+    "sources": "Mga sanggunian",
+    "sourcesNote": "Nagli-link kami sa mga organisasyon at pag-aaral na pinagbabatayan ng pahinang ito. Sinuri ang bawat isa noong na-update ang pahina.",
+    "tryTogether": "Subukan nang magkasama",
+    "relatedGuides": "Mga kaugnay na gabay",
+    "related": "Kaugnay",
+    "startHere": "Magsimula dito"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Paunawa tungkol sa kalusugan",
+    "title": "Pangkalahatang impormasyon, hindi medikal na payo",
+    "textHtml": "Ibinubuod ng pahinang ito ang nailathalang pananaliksik para sa mga pamilya. Hindi nito masasabi kung ano ang tama para sa isang tao. Makipag-usap sa doktor bago baguhin ang diyeta, ehersisyo, tulog, gamot o supplement. Para sa biglaang pagkalito o iba pang biglaang pagbabago, humingi kaagad ng medikal na tulong. <a href=\"/medical-disclaimer/\">Basahin ang aming paunawa tungkol sa impormasyong pangkalusugan</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Isang Pinagsasaluhang Aktibidad, Hindi Pagsusulit sa Memorya",
+      "seoTitle": "Tungkol sa Golden Moments: Ang Aming Pamamaraan",
+      "description": "Bakit walang timer, iskor o streak ang mga laro ng Golden Moments, bakit nananatiling nakikita ang mga larawan, at ano ang hindi namin ipinapangakong magagawa tungkol sa dementia.",
+      "crumb": "Ang aming pamamaraan",
+      "lede": "Gumagawa ang Golden Moments ng mahinahon at pang-adultong picture activities na masisiyahan nang magkatabi ang tagapag-alaga at ang taong may dementia.",
+      "bodyHtml": "<h2>Ang aming paniniwala</h2><p>Ang layunin ng isang aktibidad ay ang sandaling mismo: isang usapan, isang ngiti, ang kasiyahan ng pagpapares ng dalawang larawan, o simpleng pag-upo nang malapit sa isa’t isa. Hindi ito para sukatin ang sinuman, itulak sila nang higit pa, o patunayan ang anuman.</p><p>Maraming app para sa pagsasanay ng utak ang ginawa batay sa bilis, puntos, sunod-sunod na panalo at antas. Para sa taong may dementia, maaaring maramdaman itong parang pagsusulit na hindi niya kayang pumasa. Kabaligtaran ang idinisenyo namin, at sinusunod namin ang mga tuntuning ito:</p><ul><li><strong>Walang dapat ikabigo.</strong> Walang orasan, puntos, bilang ng galaw, buhay, sunod-sunod na panalo, confetti o countdown, sa anumang screen.</li><li><strong>Pagkilala, hindi pag-alala.</strong> Nananatiling nakikita ang mga larawan bilang default. Ang mga paalala ay nag-iimbita ng usapan at hindi kailanman nagtatanong ng mga pangalan o alaala.</li><li><strong>Malaki, simple at matatag.</strong> Malalaking teksto at larawan, matingkad na kaibahan, at mga kontrol na nananatili sa parehong lugar.</li><li><strong>Dignidad ng nasa hustong gulang.</strong> Mga totoong larawan at simple, mainit na salita. Walang cartoon, pagpuring parang awit o gantimpalang emoji.</li><li><strong>Madaling paraan para huminto.</strong> Laging nakikita ang “Tapos muna sa ngayon”. Ang pagtigil sa kalagitnaan ay magandang resulta.</li><li><strong>Pribado bilang default.</strong> Walang account o ad. Ang mga larawang pipiliin ninyo ay nananatili sa inyong device.</li></ul><h2>Ang hindi namin sinasabi</h2><p>Ang aming mga laro ay para sa kasiyahan at pakikipag-ugnayan. Hindi nila dina-diagnose, sinusuri, sinusukat, ginagamot, pinabagal o pinipigilan ang dementia o Alzheimer’s disease, at walang dapat pumili sa mga ito para sa ganoong dahilan. Kapag sumusulat kami tungkol sa pananaliksik sa aming <a href=\"/brain-health/\">mga pahina tungkol sa kalusugan ng utak</a>, malinaw naming sinasabi kung mahina ang ebidensya, at hindi namin ito kailanman iniuugnay sa aming sariling mga laro.</p><h2>Sino kami</h2><p>Ang Golden Moments ay isang maliit at independiyenteng koponan. Hindi kami mga clinician. Ang aming mga gabay ay isinulat batay sa mga nailathalang gabay ng mga organisasyon tulad ng National Institute on Aging at Alzheimer’s Association, at nakalista sa bawat gabay ang mga pinagkukunan nito. Basahin ang <a href=\"/editorial-policy/\">kung paano namin isinusulat at sinusuri ang aming mga pahina</a>.</p><h2>Sabihin ninyo sa amin kung ano ang makatutulong</h2><p>Gusto naming marinig kung ano ang gumagana para sa inyo at kung ano ang hindi, lalo na mula sa mga taong may dementia, mga pamilyang tagapag-alaga at mga staff ng aktibidad. Mag-email sa <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Paano Namin Sinusulat at Sinusuri ang Aming mga Pahina",
+      "seoTitle": "Patakaran sa Editoryal",
+      "description": "Paano sinasaliksik, isinusulat, pinagkukunan at ina-update ng Golden Moments ang aming mga pahina tungkol sa mga aktibidad para sa dementia at kalusugan ng utak, at kung ano ang hindi namin kailanman ilalathala.",
+      "crumb": "Patakaran sa editoryal",
+      "bodyHtml": "<h2>Aming mga pinagkukunan</h2><p>Batay ang aming mga gabay sa mga pampublikong gabay ng mga organisasyon tulad ng National Institute on Aging, ang CDC, ang Alzheimer’s Association, ang Alzheimer’s Foundation of America, ang Family Caregiver Alliance at ang NHS, at sa mga pananaliksik na sinuri ng mga eksperto tulad ng mga Cochrane review at malalaking klinikal na pagsubok. Nakalista sa bawat gabay ang mga pinagkukunang ginamit nito. Binubuksan namin ang bawat pinagkukunan bago ito banggitin, at iniuulat lamang namin ang tunay na sinasabi nito.</p><h2>Paano kami sumusulat</h2><ul><li>Praktikal muna: ang dapat gawin ngayon, sa simpleng wika.</li><li>Tapat tungkol sa ebidensya: sinasabi namin ang “nauugnay sa”, “maaaring” at “halo-halo ang ebidensya” kapag iyon ang totoo.</li><li>Magalang: isinusulat namin ang tungkol sa mga taong may dementia bilang mga nasa hustong gulang, at hindi kailanman gumagamit ng wikang mapanlait o nakahihiya.</li><li>Walang gawa-gawang nilalaman: walang imbentong estadistika, sipi, eksperto, pag-aaral, pagsusuri o patotoo.</li></ul><h2>Sino ang nagsusuri ng aming mga pahina</h2><p>Isinusulat at sinusuri ang mga pahina ng koponan ng Golden Moments, na tinutulungan ng mga AI na kasangkapan sa pagsulat para sa pananaliksik at pag-draft. Sinusuri ng koponan ang bawat pahina laban sa mga pinagkukunan nito. Ang aming mga pahina ay <strong>hindi</strong> pa nasuri ng doktor o ng ibang clinician, at hindi namin ito inaangkin. Pangkalahatang impormasyon ang mga ito, hindi medikal na payo.</p><h2>Ano ang hindi namin kailanman ilalathala</h2><ul><li>Mga pahayag na ang laro, pagkain, supplement, pag-aayuno o nakagawiang gawain ay pumipigil, gumagamot, nagpapabagal o nagpapagaling ng dementia.</li><li>Mga pagsusulit, quiz o puntos na nagpapahiwatig na may dementia o wala ang isang tao.</li><li>Payo na simulan, itigil o baguhin ang anumang gamot.</li><li>Patalastas o bayad na nilalaman na nagkukunwaring gabay.</li></ul><h2>Mga update at pagwawasto</h2><p>Ipinapakita ng bawat pahina ang petsa ng huling update nito. Kung may makita kayong mali o lipas nang pinagkukunan, mangyaring mag-email sa <a href=\"mailto:{email}\">{email}</a> at agad naming titingnan.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Mga Tanong at Sagot",
+      "seoTitle": "Mga Laro at Aktibidad para sa Dementia: Mga Tanong at Sagot",
+      "description": "Mga sagot sa karaniwang tanong tungkol sa mga laro at aktibidad para sa dementia: aling mga laro ang subukan, gaano katagal maglaro, mga ideya para sa mas huling yugto, kalusugan ng utak at privacy.",
+      "crumb": "Mga tanong at sagot",
+      "lede": "Maikli at simpleng sagot sa mga tanong na madalas itanong ng mga tagapag-alaga.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Tungkol sa mga laro",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Ano ang pinakamahusay na mga laro para sa taong may dementia?",
+              "a": "Ang pinakamahusay na mga laro ay pamilyar, simple at walang pressure, at ang tamang laro ay ang nagugustuhan ng tao sa araw na iyon. Ang pagpapares ng larawan gamit ang nakikitang mga larawan, pag-uuri, madaling jigsaw, pagtatapos ng pamilyar na kasabihan, pagkukulay at picture bingo ay gumagana para sa maraming tao. Iwasan ang timer, puntos at anumang parang pagsusulit."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Talaga bang libre ang mga laro?",
+              "a": "Opo. Libre ang lahat ng laro at printable, walang kailangang account, pagpaparehistro, pag-download o advertising."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Bakit walang iskor, antas o timer?",
+              "a": "Ang bilis at iskor ay nagpapabago sa isang masayang gawain na parang pagsusulit, na maaaring magdulot ng hiya o pagkadismaya. Ang tinututukan namin ay ang saya at ang oras na magkasama, kaya walang dapat ipasa o ibagsak, at maaari po kayong huminto anumang oras."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Aling mga device ang pinakamainam?",
+              "a": "Anumang telepono, tablet o kompyuter na may modernong web browser. Madalas na pinakakomportable para sa dalawang taong naglalaro nang magkatabi ang tablet na nakapatong sa stand sa mesa. Mainam din ang laptop na nakakonekta sa TV para sa grupo."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Maaari ba kaming maglaro gamit ang sarili naming mga larawan ng pamilya?",
+              "a": "Opo. Ginagawang larong pagtutugma ng Pares ng Larawan ang 2 hanggang 6 na larawang pipiliin ninyo. Nananatili ang mga larawan sa inyong browser at hindi ina-upload o sine-save."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Mga gawain at pag-aalaga",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Gaano dapat katagal ang isang gawain?",
+              "a": "Kadalasan ay sapat na ang 10 hanggang 20 minuto, at minsan ang 2 minuto ay isa nang tagumpay. Bantayan ang senyales ng pagod o pagkainis at huminto habang maayos pa ang pakiramdam. Walang tamang haba."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Paano kung ayaw nilang gawin ang isang gawain?",
+              "a": "Igalang po ang pagtanggi, at subukan muli sa ibang pagkakataon o sa ibang paraan. Ang pagtanggi ay maaaring galing sa pagod, sakit, pag-aalinlangan, o simpleng kawalan ng interes. Tingnan ang aming gabay tungkol sa dapat gawin kapag sinabi nilang ayaw nila."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Anong mga gawain ang angkop sa mas malalang yugto ng dementia?",
+              "a": "Ginhawa at mga pandama: pakikinig sa paboritong musika, masahe sa kamay na may lotion, pagtingin sa mga larawan nang magkasama, paghawak sa malambot na kumot, pag-upo sa labas, o isang napakasimpleng laro ng larawan kasama ang taong nasa tabi nila. Marami pang ideya sa aming gabay para sa mas malalang yugto."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "May mga gawain ba para sa grupo sa care home?",
+              "a": "Mayroon. Ang Bingo ng Larawan ay may mga printable na card at tagatawag sa screen, at mahusay gamitin ang Tapusin ang Kasabihan at Mga Card ng Usapan kapag binabasa nang malakas. Sakop ng aming gabay para sa mga grupo sa care home ang laki ng grupo, pag-upo, at pag-aangkop para sa magkakaibang kakayahan."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Kalusugan ng utak",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Napipigilan o napapabagal ba ng mga laro ang dementia?",
+              "a": "Walang laro ang napatunayang nakapipigil sa dementia, at ang aming mga laro ay hindi nag-aangkin nito. Ipinakita ng ilang pananaliksik na ang cognitive stimulation sa grupo ay may maliliit na benepisyo para sa mga taong may banayad hanggang katamtamang dementia, ngunit iba iyon sa paniniwalang napipigilan ng laro ang sakit. Ang aming mga laro ay para sa kasiyahan at pakikipag-ugnayan."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Maiiwasan ba ang dementia?",
+              "a": "Hindi ito tiyak. Iniuugnay ng pananaliksik ang 14 na salik sa kalusugan at pamumuhay sa panganib ng dementia, tulad ng pagkawala ng pandinig, mataas na presyon ng dugo, kawalan ng pisikal na galaw, at pag-iisa sa lipunan. Ang pagtugon sa mga ito ay maaaring magpababa ng panganib para sa ilang tao, ngunit marami ang nagawa ang lahat ng tama at nagkaroon pa rin ng dementia. Hindi kailanman kasalanan ninuman ito."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Mabuti ba ang intermittent fasting para sa kalusugan ng utak?",
+              "a": "Limitado at maaga pa ang ebidensya sa tao, at karamihan ng pananaliksik ay nasa hayop. Maaaring mapanganib ang pag-aayuno para sa mga nakatatanda, lalo na kung umiinom ng gamot sa diabetes o kung hindi sinasadyang pumayat, at hindi ito inirerekomenda para sa mga taong may dementia. Makipag-usap po sa doktor bago baguhin ang inyong pagkain."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Privacy at kaligtasan",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Nangongolekta ba kayo ng anumang impormasyon?",
+              "a": "Walang account at walang ad. Gumagamit kami ng Google Analytics para bilangin ang mga bisita at makita kung aling mga pahina ang nakakatulong, at inaalala ng inyong browser kung naka-on ang malambot na tunog. Hindi kailanman ina-upload ang mga larawang pipiliin ninyo para sa Pares ng Larawan. Tingnan ang abiso sa privacy para sa mga detalye."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Medikal na payo ba ito?",
+              "a": "Hindi po. Ang Golden Moments ay para lamang sa libangan at pangkalahatang impormasyon. Para sa mga tanong sa kalusugan, makipag-usap sa doktor, at sa mga emergency, tumawag sa 911."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Higit pang detalye: <a href=\"/caregiving/how-to-play-together/\">paano maglaro nang magkasama</a>, <a href=\"/caregiving/when-they-say-no/\">kapag ayaw nila</a>, <a href=\"/activities/late-stage/\">mga gawain sa mas malalang yugto</a> at <a href=\"/brain-health/can-dementia-be-prevented/\">maiiwasan ba ang dementia?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Libre at Banayad na Laro para sa mga Taong may Dementia",
+      "seoTitle": "Printable na Handout: Libreng Laro para sa Dementia Online",
+      "description": "Isang pahinang printable na handout para sa mga pamilya at tagapag-alaga tungkol sa libre at banayad na larong may larawan para sa mga taong may dementia, para sa mga support group at care packet.",
+      "crumb": "Printable na handout",
+      "lede": "I-print ang pahinang ito para sa support group, care packet, o sa pinto ng ref. Gamitin ang Print command ng inyong browser; wala sa printout ang mga menu at button.",
+      "introHtml": "<p>Malalaking larawan, simpleng salita, at walang dapat ipasa. Libre sa telepono, tablet o kompyuter, walang kailangang pagpaparehistro, walang ad, walang timer at walang iskor. Magkatabi kayong umupo at magpalitan ng turn.</p>",
+      "gamesTitle": "Mga larong subukan nang magkasama",
+      "restHtml": "<h2>Ilang paalala</h2><ul><li>Pumili ng oras ng araw kung kailan pinakamaayos ang pakiramdam ng taong inaalagaan ninyo.</li><li>Magsimula sa pinakamadaling setting. Sapat na ang apat na tile.</li><li>Pag-usapan ang mga larawan. Madalas, ang usapan ang pinakamagandang bahagi.</li><li>Huminto habang maganda pa ang pakiramdam. Magandang resulta ang maagang pagtatapos.</li></ul><h2>Makikita rin sa site</h2><ul><li>Mga libreng printable: word search na malalaking letra, coloring page, card ng usapan, at bingo ng larawan.</li><li>Mga ideya ng gawain para sa bawat yugto, at mga gabay sa paglalaro nang magkasama at sa pag-aalaga sa sarili.</li></ul><p class=\"muted\">Para sa kasiyahan at oras na magkasama. Hindi ito medikal na payo, pagsusuri, o lunas. Ang Golden Moments ay inilathala ng Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Para sa Care Home, Aklatan at Support Group",
+      "seoTitle": "Libreng Aktibidad sa Demensya para sa mga Tahanan ng Pangangalaga at mga Grupo",
+      "description": "Paano ginagamit ng mga tahanan ng pangangalaga, programa para sa matatanda tuwing araw, aklatan, ahensya para sa nakatatanda at grupo ng suporta ang aming libreng laro para sa demensya, at teksto para idagdag kami sa listahan ng mga sanggunian.",
+      "crumb": "Para sa mga organisasyon",
+      "lede": "Lahat ng nasa site na ito ay libre gamitin kasama ang mga residente, miyembro at kliyente, walang account, lisensya o bayad. Ipinapaliwanag ng pahinang ito kung ano ang narito at kung paano ito ibahagi.",
+      "shortText": "{name}: libre, banayad na larong may larawan at mga gabay sa aktibidad para sa mga taong may demensya at sa kanilang mga tagapag-alaga. Walang sign-up, walang timer, walang iskor.",
+      "longText": "Ang {name} ({domain}) ay may {count} libreng larong pang-browser na ginawa para sa mga taong may demensya, kabilang ang pagtutugma ng magkapares na larawan na nananatiling nakikita ang mga larawan, isang madaling jigsaw, pag-uuri, mga pamilyar na kasabihan at picture bingo na may mga card na maaaring i-print. Walang account, patalastas, timer o iskor. May mga gabay sa aktibidad na nakasulat sa simpleng wika para sa bawat yugto ng demensya ang site, na tumutukoy sa National Institute on Aging at sa Alzheimer's Association.",
+      "useTitle": "Ano ang maaaring gamitin ng mga organisasyon",
+      "gamesItemHtml": "<strong>{count} larong pang-browser</strong> na gumagana sa laptop, tablet o TV na nakakonekta sa computer. Walang pag-install, account o pag-download. Tingnan ang <a href=\"/games/\">lahat ng laro</a>.",
+      "printablesLabel": "{count} na maaaring i-print:",
+      "printablesAfter": "Gamitin ang Print button sa bawat pahina.",
+      "moreItemsHtml": "<li><strong>Mga format para sa grupo:</strong> ang <a href=\"/games/picture-bingo/\">Picture bingo</a> ay may mga card na maaaring i-print at tagatawag sa screen, at ang <a href=\"/activities/trivia/\">madaling trivia</a> ay may 50 tanong na may mga pagpipilian ng sagot at mga puntong maaaring pag-usapan.</li><li><strong>Mga gabay sa aktibidad</strong> para sa staff at pamilya, ayon sa yugto at uri, nakasulat sa simpleng wika na may mga sanggunian. Magsimula sa <a href=\"/activities/ideas/\">101 ideya sa aktibidad</a> o sa <a href=\"/activities/care-home-groups/\">aktibidad para sa grupo sa mga care home</a>.</li>",
+      "restHtml": "<h2>Paano ginagamit ng mga grupo</h2><ul><li><strong>Mga care home at pangangalaga sa alaala:</strong> picture bingo o pagtatapos ng kasabihan sa TV ng common room, kung saan isang tao ang nagpipindot para sa buong grupo.</li><li><strong>Mga programa para sa matatanda tuwing araw:</strong> istasyon sa tablet na may Picture pairs na nakatakda sa apat na tile, para sa maiikling sesyon na one-to-one.</li><li><strong>Mga pampublikong aklatan:</strong> mga naka-print na word search at card ng usapan sa mga memory kit, at ang site ay naka-bookmark sa mga tablet ng aklatan.</li><li><strong>Mga grupo ng suporta sa tagapag-alaga at memory café:</strong> isang <a href=\"/handout/\">isang pahinang handout na maaaring i-print</a> para maiuwi ng mga pamilya.</li><li><strong>Mga ospital at tagaplano ng paglabas:</strong> ang handout sa mga packet para sa tagapag-alaga, para may tahimik na gawin sa bahay o sa tabi ng kama.</li></ul><h2>Ang hindi namin ginagawa</h2><p>Ang mga laro ay para sa kasiyahan at para sa oras na magkasama. Hindi nila dinidiagnose, sinusubok, binibigyan ng iskor, ginagamot o pinapabagal ang demensya, at hinihiling namin sa mga organisasyon na huwag itong ilarawan sa ganoong paraan. Walang patalastas, at hindi humihingi ang mga laro ng pangalan, detalye sa kalusugan o pag-upload ng larawan. Gumagamit ang website ng Google Analytics para bilangin ang mga bisita; ipinapaliwanag ng aming <a href=\"/privacy/\">abiso sa privacy</a> kung ano ang kinokolekta nito. Ang mga larawang ginagamit sa <a href=\"/games/photo-pairs/\">Photo pairs</a> ay nananatili sa browser.</p><h2>Idagdag kami sa inyong listahan ng sanggunian</h2><p>Kung may listahan kayo ng sanggunian para sa mga tagapag-alaga, malugod kayong mag-link sa <a href=\"/\">{domain}</a>. Maaari ninyong kopyahin ang alinman sa dalawang paglalarawan.</p>",
+      "shortTitle": "Maikling paglalarawan",
+      "longTitle": "Mas mahabang paglalarawan",
+      "linksHtml": "<p>Mga kapaki-pakinabang na pahina na direktang i-link: <a href=\"/games/\">libreng laro</a>, <a href=\"/activities/printable/\">libreng mga maaaring i-print</a>, <a href=\"/activities/alzheimers/\">aktibidad para sa Alzheimer's</a> at <a href=\"/caregiving/how-to-play-together/\">paano maglaro nang magkasama</a>.</p><h2>Mga tanong o pagwawasto</h2><p>Kung may mali o hindi malinaw sa site, o kung hindi natutugunan ng narito ang pangangailangan ng isang residente, pakisabi sa amin sa <a href=\"mailto:{email}\">{email}</a>. Pakiusap, huwag magpadala ng personal o impormasyong pangkalusugan tungkol sa mga residente o kliyente.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Ang Golden Moments App",
+      "seoTitle": "Ang Golden Moments App para sa iPhone at Android",
+      "description": "Ang libreng Golden Moments app: banayad na pagtutugma ng larawan na may apat na malalaking tile, mga larawan ng pamilya na nasa inyong device, offline na picture pack at walang account.",
+      "crumb": "Ang app",
+      "lede": "Lahat ng gusto ninyo sa website, sa isang app na gumagana offline at maaaring gumamit ng mga larawan ng pamilya na inyong pinili.",
+      "worksOn": "Gumagana sa {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Magsimula nang dahan-dahan</h2><p>Magsimula sa apat na malalaking kahon na may pamilyar na larawan. Panatilihing nakikita ang mga larawan, o itago ang mga ito kung mas komportable iyon. Ang banayad na mode ay walang timer, iskor o parusa. Pumili ng 4, 6, 8 o 12 na kahon.</p><h2>Gawing personal</h2><p>Pumili ng mga larawan ng pamilya gamit ang photo picker ng inyong device. Gumagawa ang app ng mas maliliit na kopya para sa mga gawain nito. Hindi nito ini-scan ang inyong library at hindi nito binabago ang inyong orihinal na larawan. Hanggang 24 na larawan ang kayang itago nito sa isang koleksyon.</p><h2>Tingnan nang magkasama</h2><p>Tingnan ang isang larawan sa bawat pagkakataon. Ang mga opsyonal na tanong ay nag-iimbita ng usapan nang hindi humihingi ng pag-alala sa mga pangalan o ng tamang sagot. Sapat na ang simpleng pagtingin.</p><h2>Walang internet kapag mahalaga</h2><p>Kasama sa app ang mga panimulang larawan at lahat ng walong pakete ng larawan. Gumagana nang walang internet ang mga kopya ng larawang na-import. Ang pagpili ng orihinal na nakaimbak lamang sa iCloud ay maaaring mangailangan ng koneksyon sa internet.</p><h2>Walang account, walang photo-sync server</h2><p>Nananatili sa app sa device ang mga kopya ng larawan ng pamilya. Maaari ninyong alisin ang mga kopya nang hindi binubura ang mga orihinal. Maaaring kasama sa backup ng device ang datos ng app. Basahin ang <a href=\"/app-privacy/\">patakaran sa privacy ng app</a>, at ginagabayan kayo ng <a href=\"/help/\">tulong ng app</a> sa bawat hakbang.</p>",
+      "disclaimer": "Ang Golden Moments ay para sa libangan at pinagsasaluhang usapan. Hindi ito nagdidiagnose, gumagamot, pumipigil o sumusukat ng dementia o sakit na Alzheimer’s.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Libreng Laro para sa Dementia at Alzheimer's Online",
+    "description": "Libreng online na laro para sa mga nakatatandang may dementia o Alzheimer's: pagtutugma ng larawan, madaling jigsaw, pag-uuri, kasabihan, pagkukulay, bingo. Walang pag-sign up, timer o iskor.",
+    "crumb": "Mga Laro",
+    "h1": "Mahinahong Laro para sa Taong may Dementia",
+    "lede": "{count} libreng laro na masayang laruin nang magkasama sa inyong browser. Malalaking larawan at simpleng salita, at walang mabibigo: walang timer, walang iskor, walang pag-sign up.",
+    "listName": "Mahinahong laro para sa taong may dementia",
+    "byStageTitle": "Pagpili ng laro ayon sa yugto",
+    "byStageLede": "Magaspang na gabay lamang ang mga yugto. Sundin ang gustong gawin ng taong inaalagaan ninyo at kung ano ang komportable ngayon.",
+    "stageCol": "Yugto",
+    "gamesCol": "Mga larong kadalasang angkop",
+    "moreHtml": "Mas maraming ideya na hindi kailangan ng screen: <a href=\"/activities/ideas/\">101 gawain para sa mga taong may dementia</a>, <a href=\"/activities/alzheimers/\">mga gawain at laro para sa Alzheimer's</a>, <a href=\"/activities/memory-games/\">mahinahong laro sa alaala</a> at <a href=\"/activities/puzzles/\">puzzle</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Aling laro ang dapat naming simulan?",
+        "a": "Ang Magkapares na larawan na may apat na kahon ay mahinahong unang pagpipilian. Kung sobra na ang pagpili sa pagitan ng mga larawan, subukan ang Hanapin ang magkaparehas na may dalawang larawan. Para sa grupo, subukan ang Bingo ng larawan."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Gumagana ba ang mga laro sa iPad o telepono?",
+        "a": "Oo. Gumagana ang bawat laro sa browser sa telepono, tablet at kompyuter, at lumalaki ang mga larawan para punuin ang screen. Kadalasan, ang tablet na nakatayo sa stand ang pinakakomportable para sa dalawang tao."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Mabuti ba ang mga larong ito para sa taong may Alzheimer's?",
+        "a": "Oo. Ginawa ang mga ito para sa mga taong nabubuhay na may dementia, kabilang ang Alzheimer's, ang pinakakaraniwang sanhi. Nananatiling nakikita ang mga larawan, iilan lamang ang pagpipilian, at walang oras o iskor. Kaya umaasa ang mga laro sa pagkilala ng pamilyar na bagay sa halip na pag-alala ng bago."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Mga laro ba ito sa alaala para sa nakatatanda?",
+        "a": "Mga larong pagtutugma at larawan ang mga ito na maaaring tangkilikin ng sinumang nakatatanda, pero ginawa ang mga ito para hindi subukin ang alaala. Sa Magkapares na larawan, nananatiling nakaharap ang mga larawan maliban kung piliin ninyong iba. Ipinaliliwanag ng aming gabay sa mga laro sa alaala para sa nakatatandang may dementia kung paano panatilihing mahinahon ang anumang laro sa alaala."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "May mga laro ba para sa grupo sa care home?",
+        "a": "Mayroon. May mga card na maaaring i-print ang Bingo ng larawan, at may tagatawag sa screen. Mahusay gamitin ang Tapusin ang kasabihan at mga Baraha ng usapan kapag binabasa nang malakas sa grupo."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad at Android",
+    "requirements": "iOS 15 o mas bago; Android 7.0 o mas bago",
+    "summary": "Libreng app para sa iPhone, iPad at Android na may mahinahong pagtutugma ng larawan sa apat hanggang labindalawang malalaking kahon, pagtutugma at pagtingin gamit ang mga larawan ng pamilyang pinili ninyo, at walong kasamang pakete ng larawan na gumagana nang walang internet. Walang account, ads, timer o iskor.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Mahinahong pagtutugma ng larawan na may 4, 6, 8 o 12 malalaking kahon; nananatiling nakikita ang mga larawan maliban kung piliin ninyong itago ang mga ito",
+      "Ang mga larawan ng pamilya na pipiliin ninyo ay kinokopya sa app para sa pagtutugma at pagtingin nang magkasama",
+      "Tingnan nang magkasama: isang larawan sa bawat pagkakataon na may opsyonal na tanong para sa usapan",
+      "Walong pakete ng larawan na kasama sa app; gumagana ang mga ito nang walang internet",
+      "Walang account, ads, in-app purchase, timer, iskor o parusa"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Mayroon bang app para sa mga gawain sa dementia?",
+        "a": "Mayroon. Ang Golden Moments (nakalista bilang \"{storeName}\") ay libre sa App Store at Google Play. Nag-aalok ito ng mahinahong pagtutugma ng larawan na may malalaking kahon, mga laro gamit ang mga larawan ng pamilyang pinili ninyo, at mga pakete ng larawan na gumagana nang walang internet."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Libre ba ang app na Golden Moments?",
+        "a": "Oo. Libre itong i-download, at walang ads, account o in-app purchase."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Gumagana ba ang app nang walang internet?",
+        "a": "Oo. Kasama sa app ang mga panimulang larawan at lahat ng walong pakete ng larawan. Gumagana rin nang walang internet ang mga larawan ng pamilya kapag nakopya na sa app. Ang pagpili ng larawang nakaimbak lamang sa iCloud ay maaaring mangailangan ng koneksyon."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Maaari ko bang gamitin ang sarili naming mga larawan ng pamilya?",
+        "a": "Opo. Pumili ng mga larawan gamit ang photo picker ng inyong device. Nag-iimbak ang app ng mas maliliit na kopya sa device para sa mga aktibidad nito, hindi ito nag-a-upload ng mga ito, at hindi nito binabago ang mga orihinal. Maaari ninyong alisin ang mga kopya anumang oras."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ito ba ay app para sa pagsasanay ng utak o pagsusulit sa alaala?",
+        "a": "Hindi po. Ang Golden Moments ay para sa kasiyahan at pagsasama-sama ng oras. Walang iskor o pagsusulit, at hindi nito dini-diagnose, ginagamot, pinipigilan o sinusukat ang dementia o sakit na Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Sa aling mga device ito gumagana?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "May bersyon ba ng larong ito bilang app?",
+      "a": "Opo. Ang libreng app na Golden Moments para sa iPhone, iPad at Android ay may parehong banayad na pagtutugma ng larawan, maaaring gumamit ng mga larawan ng pamilya na inyong pipiliin, at gumagana nang walang internet. Walang account, ads o iskor."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "May bersyon ba ng larong ito bilang app?",
+      "a": "Hindi ng larong ito mismo. Ang libreng app na Golden Moments para sa iPhone, iPad at Android ay may banayad na pagtutugma ng larawan na may malalaking tile at mga larawan ng pamilya na inyong pipiliin, at gumagana ito nang walang internet. Mananatiling libre ang larong ito rito sa inyong browser."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: malalaki at magiliw na mga larawan",
+    "noscript": "Kailangang naka-on ang JavaScript sa inyong browser para gumana ang larong ito. Gumagana nang wala ito ang mga tip sa ibaba.",
+    "about": "Tungkol sa {name}",
+    "aboutAria": "Tungkol sa larong ito",
+    "noTimer": "Walang timer o iskor",
+    "printable": "Maaaring i-print",
+    "howTo": "Paano laruin ang {name}",
+    "tips": "Mga tip sa paglalaro nang magkasama",
+    "newToPlayingHtml": "Bago pa lang sa paglalaro kasama ang taong may dementia? Basahin ang <a href=\"/caregiving/how-to-play-together/\">kung paano maglaro nang magkasama</a>, kasama ang dapat gawin kung mawalan sila ng interes.",
+    "moreAria": "Iba pang mapagtutuklasan",
+    "helpfulGuides": "Mga kapaki-pakinabang na gabay",
+    "appTitle": "Laruin ito sa app",
+    "appText": "Ang libreng app na Golden Moments ay may banayad na pagtutugma ng larawan na may malalaking tile at sarili ninyong mga larawan ng pamilya, at gumagana nang walang Wi‑Fi. iPhone, iPad at Android.",
+    "photoAppTitle": "Ihanda ang inyong mga larawan",
+    "photoAppText": "Sa libreng app na Golden Moments, nananatili sa inyong device ang mga larawang inyong pinili para sa susunod na pagkakataon, at gumagana ang mga laro nang walang Wi‑Fi. iPhone, iPad at Android.",
+    "goodToKnow": "Magandang malaman",
+    "goodToKnowText": "Ang larong ito ay para sa kasiyahan at pagsasama-sama ng oras. Hindi ito nagsusubok, sumusukat o gumagamot ng kahit ano.",
+    "moreGames": "Iba pang banayad na laro",
+    "crumb": "Mga Laro"
   }
 }

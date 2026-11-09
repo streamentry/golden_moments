@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Ałtsé yisdzohígíí bichʼįʼ diidááł",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Dementia bee naʼanishígíí",
+    "homeLabel": "Golden Moments ałtsé siʼánígíí",
+    "mainNav": "Alą́ąjįʼ",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Diné bizaad",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: deeyingo nitsxogo eʼelyaaígíí, chʼil łitsooí, tééh yidlání, dóó łééchąąʼí",
+    "languages": "Saad",
+    "englishOnly": "(Bilagáana bizaad)",
+    "machineTranslated": "Díí naaltsoos tʼáá bí nitsékeesgo bee bééhózin silį́į́ʼ, tʼah doo tʼáá Diné bizaad yee yáłtiʼígíí yinéłʼį́į́h da.",
+    "readOriginal": "Bilagáana bizaad yee ályaaígíí wóltaʼ",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Daʼaneʼígíí",
+      "activities": "Nidaʼanishígíí",
+      "caregiving": "Aa áhályą́",
+      "brainHealth": "Atsiighąąʼ baa áhályą́"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Naʼídíkid dóó bee hanáánítʼiʼígíí",
+    "breadcrumb": "Kóneʼ dah siʼánígíí",
+    "home": "Ałtsé siʼánígíí",
+    "lastUpdated": "Níłchʼih yoołkááłgóó ánályaa",
+    "topics": "Baa yátʼiʼígíí",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Saad áníłtsohígíí",
+      "smaller": "Saad tʼáá kótʼéego áníłtsoh",
+      "larger": "Saad nitsxogo áníłtsoh",
+      "contrast": "Tʼóó yitʼį́įgo nidadiníłdin"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "Daʼaneʼ",
+    "picturePairs": "Eʼelyaaígíí aheeníłtʼéego",
+    "conversationCards": "Baa yátiʼ biniyé naaltsoos yázhí",
+    "pictureBingo": "Eʼelyaa bee bingo",
+    "allGames": "Tʼáá ałtso daʼaneʼígíí",
+    "pictures": "Eʼelyaaígíí bee ádaalyéeh dooleełígíí",
+    "activityIdeas": "Nidaʼanish biniyé nitsáhákees",
+    "ideas101": "101 nidaʼanish biniyé nitsáhákees",
+    "lateStage": "Kʼad akééʼdę́ę́ʼ bee nidaʼanishígíí",
+    "printable": "Nidaʼanish nídadoolyéełii",
+    "allActivities": "Tʼáá ałtso nidaʼanishígíí",
+    "forCaregivers": "Aa ádahalyánígíí bá",
+    "playTogether": "Haash yitʼéego ałhił jineʼ dooleeł",
+    "selfCare": "Tʼáá hójiyaanii baa áhojilyą́",
+    "brainHealth": "Atsiighąąʼ baa áhályą́ biniyé naʼalkaah",
+    "faq": "Naʼídíkid dóó bee hanáánítʼiʼígíí",
+    "about": "Baa haneʼ",
+    "approach": "Kótʼéego baa nitséíkeesígíí",
+    "howWeWrite": "Haash yitʼéego akʼedaʼashchínígíí",
+    "organizations": "Ałah nídaadleehígíí bá",
+    "app": "Golden Moments app",
+    "appHelp": "App bee anáʼálwoʼ",
+    "support": "Bíkaʼ anáʼálwoʼ",
+    "legal": "Bee hazʼáanii",
+    "sitePrivacy": "Website bikʼehgo nanitinígíí doo łaʼ yaa hodoolnih da",
+    "appPrivacy": "App tʼáá hojiyáanii baa haneʼ bee baa áhályą́",
+    "privacyChoices": "Bee tʼáá hojiyáanii yóóʼadahideezhʼeezígíí",
+    "terms": "Bee lą́ asłį́į́ʼígíí dóó app bee hazʼáanii",
+    "safety": "Tʼáadoo átʼéhégóó dóó biniyé ályaaígíí",
+    "accessibility": "Tʼáá ałtsoní yá ahootʼiʼígíí",
+    "healthNotice": "Atsʼíís baa áhályą́ baa haneʼ baa ákodzisin dooleełígíí",
+    "allLegal": "Tʼáá ałtso bee hazʼáanii baa haneʼ",
+    "note": "Golden Moments éí ałhił nidaʼaʼnéego baa hózhǫ́ dooleeł biniyé ályaa. Díí éí doo azeeʼííłʼíní binitsahakees, bąąh nidahadiitłʼiní, doodaiiʼ azheʼeełtʼeʼ da, áádóó doo łaʼ bee néelʼą́ da. Atsʼíís baa naʼídíkid hólǫ́ǫgo, azeeʼííłʼíní bił chʼíhodíítʼį́į́ł. Tʼáadoo hooshchʼįʼ tʼáadoo leʼé baa nahózhishgo, 911 bichʼįʼ hodíilnih.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
     "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "description": "Tʼáá jííkʼeh, hazhóʼógo eʼelyaa bee daʼaneʼígíí diné dementia doodaiiʼ Alzheimer's bił dahazʼánígíí dóó baa ádahalyánígíí bá. Doo bízhiʼ áháníłʼį́į́h da, doo bee ahééʼílkid da, doo bee ádaaníłtʼé da.",
+    "eyebrow": "Tʼáá jííkʼeh · Doo achʼįʼ yátiʼ hólǫ́ǫ da · Doo yisdzo da · Doo ahééʼílkid dóó doo óola néelʼą́ da",
+    "h1": "Hazhóʼógo Daʼaneʼ dóó Nidaʼanish Diné Dementia Bił Dahazʼánígíí Bá",
+    "lede": "Eʼelyaa yáʼátʼéehii, bééhózinígíí eʼelyaa, dóó ałhił nidaʼanish tʼáá hózhǫ́ǫgo—tʼáá ni bił yáʼátʼéehgo.",
+    "playGame": "Naʼané Baa Diidááł",
+    "findIdeas": "Nidaʼanish biniyé nitsáhákees hanítʼį́",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Béésh bee haneʼé, tablet, dóó béésh nitsikeesí bikááʼ yáʼátʼéehgo naalnish",
+      "Eʼelyaa nitsxogo tʼáá dah siʼą́ągo yitʼį́",
+      "Tʼáá hágóorida ałchʼįʼ kódoolnííł; doo tʼáadoo bąąh chʼééh ájiilaa da"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "iPhone, iPad, dóó Android yee tʼáá jííkʼeh app hólǫ́, nitsʼáádę́ę́ʼ bee naashchʼąąʼígíí bee bíka anáʼálwoʼ",
+    "albumNote": "“Tééh yidlání naakigo ałhą́ą́ʼ kódoolnííł.”",
+    "gamesEyebrow": "Níłchʼih naalkidí biyiʼ jineʼ",
+    "gamesTitle": "Kʼad daʼaneʼ baa jíídáałii",
+    "gamesLede": "Tʼáá ałtso hazhóʼógo, hastiingo ályaa, dóó tʼáá ákweʼé baa didooltsʼį́į́ł. Łaʼ bíídiiltłʼish, ahą́h dadinóobįįł, dóó ałkʼééʼ tʼáadoo leʼé bee bídidinóhłchʼįįd.",
+    "seeAllGames": "Tʼáá ałtso {count} daʼaneʼígíí dínóołʼįįł",
+    "howTitle": "Haash yitʼéego naalnish",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Tʼáá bééhoozinígíí łaʼ haníłtʼį́",
+        "text": "Tééh yidlání, kʼéédídoolyééł, naaldlooshii, dóó tsinaaʼeeł eʼelyaaígíí. Doo ałtsé wóltaʼ da doodaiiʼ bee hazʼáanii bídahwiidoołʼáał da."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Ahą́h dinóobįįł",
+        "text": "Tʼáá bí hidinółchʼįįd. Eʼelyaa baa yádaałtiʼ. Doo aheeníłtʼée da ndi tʼóó baa náahódoolzhiizh."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Tʼáá hózhǫ́ǫgo tʼáá kʼad kótʼé",
+        "text": "Tʼááłáʼí naʼané éí tʼáá ałtso ałnííł. “Kʼad kótʼé” tʼáá áłahjįʼ bikááʼ siʼą́."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Béésh naalkidí biláahdi",
+    "stageTitle": "Tʼáá ałtso ałkʼidą́ą́ʼ kótʼéejí biniyé nitsáhákees",
+    "stageLede": "Sin, tʼáá ákwíí jį́ naʼanish, ałkʼidą́ą́ʼ baa nitsáhákees, dóó hazhóʼógo hání bił yáʼátʼéehii, kʼad bíighahígíí bikʼehgo ánályaa.",
+    "ideas101": "101 nidaʼanish biniyé nitsáhákees",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Ałtséhígíí yoołkáałgo",
+        "text": "Tʼáá bił yáʼátʼéehii tʼáá tʼáadoo bąąh chʼééh ádaahnéhí tʼáá kóníshghánígo ánádaahłʼįįh: bił yáʼátʼéehgo naalnish, chʼízhdiiłdas, saad bee daʼaneʼ, dóó ałhił nahatʼá.",
+        "label": "Ałtséhígíí biniyé nitsáhákees"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Ałnííʼjįʼ yoołkáałgo",
+        "text": "Naʼanish ashjaʼ ádaalyaago: ałchʼįʼ kólneʼ, ałtsʼą́ą́h yíláah, sin, eʼelyaa bee daʼaneʼ, dóó tʼáá kónígháníjįʼ chʼéjiláago.",
+        "label": "Ałnííʼjįʼ biniyé nitsáhákees"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Akééʼdę́ę́ʼ yoołkáałgo",
+        "text": "Ajoobaʼ dóó ahééhózin hádidilnihgo, azhditsʼaʼgo, dóó jooʼį́įgo: bílaʼ baa áhályą́, sin bił yáʼátʼéehii, eʼelyaa, dóó ałhił kééhatʼį́įgo.",
+        "label": "Akééʼdę́ę́ʼ biniyé nitsáhákees"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Tʼáá leʼé tʼáadoo biniyé hanítʼį́į́sh? Díí <a href=\"/activities/alzheimers/\">Alzheimer's bá daʼaneʼ dóó nidaʼanish</a>, <a href=\"/activities/memory-games/\">hazhóʼógo bénáshniih bee daʼaneʼ</a>, <a href=\"/activities/trivia/\">tʼáá aashiiqgo naʼídíkid</a> doodaiiʼ <a href=\"/activities/puzzles/\">puzzles</a> bee nídaʼdííłʼįįł.",
+    "approachEyebrow": "Kótʼéego baa nitséíkeesígíí",
+    "approachTitle": "Ałhił baa naʼanishígíí, doo bénáshniih bąąh nidahadiitłʼin da",
+    "approachLede": "Ląʼí “atsiighąąʼ bee daʼaneʼígíí” éí tsxį́įłgo, óola néelʼą́, dóó ahééníłtʼéego ádaalyaa. Diné dementia bił hazʼánígíí bá éí tʼáá ohooʼaah tʼáá kótʼéego yitʼį́į łeh. Nihí éí tʼáá ałkʼéigo ádeiilyaa.",
+    "approachLink": "Haʼátʼéego kótʼéego ádeiilyaa",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Doo bąąh chʼééh áhojíłʼį́ da",
+        "text": "Doo ahééʼílkid da, doo óola neelʼą́ da, doo yóóʼílí da. Eʼelyaa ałtsʼáʼ silį́į́ʼgóó éí tʼóó hanáánítʼiʼ, doo hashtʼenaʼídoolkʼid da."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Eʼelyaa tʼáá dah siʼą́",
+        "text": "Jooʼį́įgo bééhojísin. Eʼelyaa haadeetʼiʼgo dah siʼą́, tʼáadoo bénáhojilniihígíí átʼée da."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Hastoi dóó sáanii yáʼátʼéehii dóó ił idliin",
+        "text": "Saad yáʼátʼéehii, doo nanitłʼahígíí, dóó tʼáá aaníí eʼelyaaígíí. Doo cartoons doodaiiʼ awééʼ bizaad da."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Tʼáá ni bá hashtʼehodilyaa",
+        "text": "Doo account da, doo achʼįʼ yátiʼ da. Neʼelyaa éí tʼáá nitsʼą́ą́ʼ béésh yázhí biyiʼ tʼáá hólǫ́."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Aa ádahalyánígíí bá",
+    "guidesTitle": "Tʼáá ákwíí jį́ aa áhályą́ bá bee anáʼálwoʼ naaltsoos",
+    "allCaregiving": "Tʼáá ałtso aa áhályą́ naaltsoosígíí",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Haash yitʼéego ałhił jineʼ dooleeł",
+        "text": "Hashtʼeʼnééh, hazhóʼógo, dóó naʼané doo bił yáʼátʼéeh da silį́įʼgo haa jíitʼįįh."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Nidaʼanish dooda hadíʼníigo",
+        "text": "Biniinaa dooda haʼnínígíí, dóó hazhóʼógo náánáhodoolzhiizhgo ánídoolnííł."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Tablet hashtʼedoolnííł",
+        "text": "Saad nitsxogo, doo nitsʼáʼídíłʼįįh da, dóó tʼááłáʼí ałtsé naaltsoos siʼánígíí."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Tʼáá jííkʼeh nidaʼanish nídadoolyéełii",
+        "text": "Saad nitsxogo haneeltáago, eʼelyaa nidaashchʼąąʼí, bingo, dóó ałhił yátiʼ biniyé naaltsoos."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Atsiighąąʼ baa áhályą́: naʼalkaah tʼáá aaníí yee haadzíʼígíí",
+    "researchText": "Dementia-ísh doo baa hidoolyáał da átʼée doo? Atsiighąąʼ bee daʼaneʼígíísh aa anáʼálwoʼ? Dóó daʼatʼį́į́h, iłhosh, dóó aditsʼaʼ baa haneʼígíísh? Saad tʼáadoo nanitłʼahgóó bee bikʼehgo hanáánítʼiʼ, ałdóʼ tʼáadoo bee haʼazhóoz da yę́ę baa haneʼ.",
+    "researchLink": "Naʼalkaah naaltsoos wóltaʼ",
+    "appEyebrow": "Ałdóʼ app hólǫ́",
+    "appTitle": "Golden Moments díí iPhone, iPad dóó Android bikáaʼgi",
+    "appText": "Díí app tʼáá jííkʼeh internet doo bił hólǫ́ǫ da ndi naalnish, dóó ninhizhéʼé bee naashchʼąąʼí choidíiłʼįįł, neʼéʼelyaa éí tʼáá nitsʼą́ą́ʼ béésh biyiʼ silá. Tʼáá kótʼéego hazhóʼógo ályaa: dį́į́ʼ nitsxogo dah siʼą́, doo bee ahééʼílkid da, doo bee óola néelʼą́ da.",
+    "aboutApp": "App baa haneʼ",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Haʼátʼíísh daʼaneʼ yáʼátʼééh diné dementia bił dahazʼánígíí bá?",
+        "a": "Hózhǫ́ jinídą́ą́ʼ bee áhoot'é: bitahgo bee ádaatʼáago bíighah, bééʼdéé’ hodíílnih dóó nitsʼáá’ bááh ádaaʼ ádaʼahóót’jį́ʼ. Bidiʼ naʼáłtsoh bee ádaaʼ ádaʼahóót’jį́ʼ, bíhoodzá dóó ninááyá nitsʼáá’ bááh nilínígíí. Ádaaʼ ádaaʼ nóhóót’jį́ʼ, ałtsʼís bééʼ doo jiní ałtsʼísí ádaaʼ, bee hanii’ dóó nidaʼa’ bééʼdéé’ bik’ehgo bídaʼ. Hózhǫ́ ałtsʼísí ádaaʼ jiní ałtsʼísí ałtsʼísí ádaaʼ, bíhoodzá yílį́ bee nikʼáá’ nisin."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Dementia bee bááh ałtsʼįs háadi nitsʼáá’ ałtsʼįs?",
+        "a": "Éí, ałtsʼísí. Golden Moments bee bááh ałtsʼįs nitsʼáá’ dóó bééʼdéé’ bááh ádaaʼ bíhoodzá ałtsʼįs, nizhónígo nidaʼa. Bibee nidaʼa, bééʼdéé’ bááh ádaaʼ ałtsʼįs bee yáázh dóó nitsʼáá’ bááh ádaaʼ, bídaʼ ałtsʼįs dóó nitsʼáá’ hodíílnih bééʼ ádaaʼ. Bééʼdéé’ ałtsʼįs ádaaʼ nizhónígo dóó bíhoodzá ałtsʼįs bídaʼ yiyiskaad."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Bitahgo ádaaʼ, bíhoodzá dóó dementia bídaʼ ałtsʼįs?",
+        "a": "Áádóó, ádaaʼ bééʼ dementia bídaʼ ałtsʼįs nahat'á, dóó Golden Moments bééʼ ádaaʼ ádaʼahóót’jį́ʼ bídaʼ bééʼ bééʼdéé’ ałtsʼįs. Bee hanii’ nitsʼáá’ nisin dóó ninááyá nitsʼáá’ bááh nilínígíí. Bidiʼ bíhoodzá yílį́ bééʼ ádaaʼ nitsʼáá’ bééʼ nidaʼa, dóó bééʼdéé’ bááh ałtsʼįs."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Hanii’ ádaaʼ Alzheimer’s bídaʼ ałtsʼįs bééʼ doo ałtsʼįs?",
+        "a": "Éí. Alzheimer’s bééʼ dementia bééʼdéé’ ádaaʼ bíhoodzá ałtsʼįs, dóó bee ádaaʼ nitsʼáá’ ałtsʼįs. Bééʼdéé’ nitsʼáá’ bááh nilínígíí, ádaaʼ ałtsʼįs bééʼ ádaaʼ, dóó bééʼdéé’ ałtsʼįs bááh ádaaʼ hodíílnih. Ádaaʼ ałtsʼįs bééʼ dóó bíhoodzá yílį́ bééʼ nitsʼáá’ bááh ałtsʼįs ádaaʼ nitsʼáá’ bááh nahat'á."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Dementia ádaaʼ bééʼ ádaaʼ nitsʼáá’ bááh nilínígíí, háadi naalníih bééʼ ádaaʼ ałtsʼįs?",
+        "a": "Éí, ádaaʼ bééʼdéé’ bíhoodzá yílį́ bééʼ nahaí. Ninááyá nitsʼáá’ bááh ałtsʼįs: Find the same bééʼ ádaaʼ naaki, Picture pairs bééʼ ádaaʼ dį́ʼ, ałtsʼįs bééʼ ádaaʼ, dóó nitsʼáá’ bééʼ ádaaʼ hóló. Bééʼdéé’ bááh ádaaʼ ałtsʼįs, nizhónígo ádaaʼ, dóó bíhoodzá nitsʼáá’ bááh ałtsʼįs."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Bídaʼ nitsʼáá’ hólǫ̨́ bééʼ ádaaʼ bíhoodzá?",
+        "a": "Ádaaʼ bééʼ ádaaʼ bááh bíighah dóó bíhoodzá yílį́ bééʼ ałtsʼįs. Google Analytics bééʼ ádaaʼ bíghah ádaaʼ bééʼdéé’ ałtsʼįs. Picture pairs bééʼ ádaaʼ bídaʼ nitsʼáá’ bééʼ bááh ałtsʼįs, bééʼdéé’ bíhoodzá yílį́ dóó bááh ádaaʼ bééʼ naʼiinił ałtsʼįs."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Golden Moments háadi ádaaʼ ádaʼahóót’jį́ʼ?",
+        "a": "Golden Moments bééʼ nitsʼáá’ bááh ádaaʼ ałtsʼįs, bíhoodzá yílį́ bééʼ ádaaʼ dóó ádaaʼ bééʼ bááh ałtsʼįs, bééʼdéé’ bee nizaad ałtsʼįs. Bééʼdéé’ nitsʼáá’ ádaaʼ bééʼ bidiʼ naaki, dóó ádaaʼ bééʼ bááh ałtsʼįs bééʼ ádaaʼ bíhoodzá yílį́ bééʼ nidaʼa. Bééʼdéé’ bááh ádaaʼ ádaʼahóót’jį́ʼ bídaʼ bíighah bééʼ nahaí dóó bééʼ bidiʼ hodíílnih."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "ádaaʼ ałtsʼįs",
+    "middle": "naaki",
+    "late": "nitsʼáá’",
+    "hintOne": "Ádaaʼ bééʼ {list} bééʼ nahaí",
+    "hintMany": "Ádaaʼ bééʼ {list} bééʼ nahaí",
+    "labelEarly": "Ádaaʼ ałtsʼįs bééʼ",
+    "labelMiddle": "Naaki bééʼ",
+    "labelLate": "Nitsʼáá’ bééʼ"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ádaaʼ bééʼ bíhoodzá",
+    "printable": "Bídaʼ ádaaʼ ałtsʼįs",
+    "play": "{name} bééʼ ádaaʼ nidaʼa →",
+    "readGuide": "Bíhoodzá bééʼ ałtsʼįs"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Ninááyá nitsʼáá’ bééʼ ádaaʼ nidaʼa?",
+    "text": "Ádaaʼ nitsʼáá’ bááh ałtsʼįs, bééʼdéé’ bááh ádaaʼ dóó bááh nilínígíí. Bíghah bééʼ bidiʼ ádaaʼ nidaʼa.",
+    "play": "Ninááyá bééʼ nidaʼa",
+    "all": "Ádaaʼ nitsʼáá’ bééʼ nahaí",
+    "aria": "Ninááyá bééʼ nidaʼa"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Ádaaʼ bééʼ bídaʼ nidaʼa",
+    "text": "Golden Moments bééʼ ádaaʼ bíhoodzá yílį́ iPhone, iPad dóó Android bééʼ: nitsʼáá’ bééʼ ádaaʼ, bídaʼ bíighah ninááyá, dóó Wi‑Fi bááh bééʼ nidaʼa. Bááh ádaaʼ, bíhoodzá, ałtsʼįs dóó nilínígíí bááh.",
+    "appStore": "App Store bééʼ naaʼí",
+    "googlePlay": "Google Play bééʼ naaʼí",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ádaaʼ bééʼ bíhoodzá",
+    "aria": "Ádaaʼ bééʼ naaʼí"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Ádaaʼ bééʼ nidaʼa",
+      "title": "Dementia bééʼ bíighah ádaaʼ nidaʼa",
+      "seo": "Dementia bééʼ bíighah ádaaʼ nidaʼa: Ádaaʼ bééʼ naaki bééʼ",
+      "description": "Dementia bééʼ bíighah ádaaʼ nidaʼa, ádaaʼ bééʼ bíhoodzá: dįį́ʼ, bíhoodzá, nitsʼáá’ ádaaʼ, bídaʼ ádaaʼ, bídaʼ ałtsʼįs dóó bídaʼ bééʼ bááh ałtsʼįs.",
+      "lede": "Ádaaʼ bééʼ nitsʼáá’ bééʼ nilínígíí, bídaʼ hodíílnih dóó nizhónígo bíhoodzá. Ádaaʼ bééʼ bááh ałtsʼįs dóó bééʼdéé’ nidaʼa."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Nitsʼáá’ bééʼ hodíílnih",
+      "title": "Nitsʼáá’ bééʼ Hodíílnih Bíhoodzá",
+      "seo": "Dementia bééʼ Nitsʼáá’ Hodíílnih: Bíighah Ádaaʼ Ałtsʼįs",
+      "description": "Dementia bééʼ nitsʼáá’ bééʼ hodíílnih bíhoodzá: ninááyá bééʼ nidaʼa, nilínígíí, bááh nahaí, dóó bídaʼ bééʼ bááh ałtsʼįs.",
+      "lede": "Ádaaʼ bééʼ bíhoodzá bééʼ nitsʼáá’ bééʼ dementia bééʼ bíighah nilínígíí, bídaʼ bééʼ bááh ałtsʼįs dóó bíhoodzá yílį́."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Bíhoodzá bééʼ bááh",
+      "title": "Bíhoodzá: Nahat'á Bééʼ Háadi Nahaí",
+      "seo": "Bíhoodzá dóó Dementia Bééʼ Háadi: Nahat'á Bééʼ Nahaí",
+      "description": "Dementia bééʼ bááh ałtsʼįs háadi? Bíhoodzá bééʼ nahat'á, ninááyá, ádaaʼ, bídaʼ, dįį́ʼ dóó bééʼ ádaaʼ dóó bíhoodzá bééʼ nahat'á.",
+      "lede": "Nahat'á bééʼ dementia bééʼ bááh ałtsʼįs háadi, ádaaʼ bééʼ bíhoodzá. Bééʼdéé’ bááh ádaaʼ bééʼ nahat'á bééʼ, nizhónígo ádaaʼ. Bíhoodzá bééʼ bááh ałtsʼįs, ádaaʼ bééʼ bidiʼ ałtsʼįs."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Bééʼ ádaaʼ",
+    "minuteRead": "{n} minute bééʼ naaʼí",
+    "byTeam": "Golden Moments bééʼ nitsʼáá’ bééʼ",
+    "howWeWrite": "Háadi bíhoodzá",
+    "shortAnswer": "Bééʼ ádaaʼ bíghah",
+    "onThisPage": "Bííʼ bééʼ ({n} bíghah)",
+    "commonQuestions": "Ádaaʼ bééʼ bíhoodzá",
+    "sources": "Nahat'á",
+    "sourcesNote": "Bééʼdéé’ nahat'á bééʼ dóó nitsʼáá’ bééʼ bíhoodzá. Ádaaʼ bééʼ nahat'á bééʼ ałtsʼįs dóó bíhoodzá bééʼ ádaaʼ.",
+    "tryTogether": "Bíighah bééʼ nidaʼa",
+    "relatedGuides": "Bééʼdéé’ bíhoodzá",
+    "related": "Bééʼdéé’",
+    "startHere": "Háadi bééʼ"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Bíhoodzá bééʼ bááh ałtsʼįs",
+    "title": "Nahat'á bééʼ ałtsʼįs, bíhoodzá bééʼ bááh",
+    "textHtml": "Bééʼdéé’ bíhoodzá bééʼ nahat'á bééʼ ałtsʼįs. Bééʼ bíhoodzá bééʼ nitsʼáá’ bééʼ bááh ałtsʼįs bééʼ dóó bíhoodzá bééʼ. Ádaaʼ bééʼ nidaʼa bídaʼ bééʼ bááh nilínígíí bééʼ naaʼí. Ádaaʼ bééʼ bááh bíhoodzá: <a href=\"/medical-disclaimer/\">Bíhoodzá bééʼ bááh nahat'á bééʼ</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Bíighah Ádaaʼ, Bééʼ Bíhoodzá Bááh",
+      "seoTitle": "Golden Moments bééʼ bíhoodzá: Bééʼ Ádaaʼ",
+      "description": "Golden Moments ninááyá bééʼ bááh ałtsʼįs, dóó bééʼdéé’ bíhoodzá bééʼ dementia bééʼ bááh ałtsʼįs.",
+      "crumb": "Bééʼ ádaaʼ",
+      "lede": "Golden Moments bééʼ ádaaʼ ałtsʼįs bíighah dóó nitsʼáá’ bééʼ dementia bééʼ bááh nilínígíí, nitsʼáá’ dóó nilínígíí bééʼ nidaʼa.",
+      "bodyHtml": "<h2>Díí nihi bee ałtsoh deesdlįįh</h2><p>Ayóó'ánííł'į́' bąąh deesdlį́: yiyííl'ąąh, nizhóní bąąh ádaa'ííshą́ą́, tó dóó nihi ałtsoh bee ájíní, łahgo tó bee dah dahiil. Ánííkeed doo naaki yiłtsoh hózhǫ́ doo dooleeł ałtsoh...</p><p>Dooda' bee nahat'á dinéé áyiilnaaʼ dóó sáanii bééhózin ... Nihi bee ájíní ... </p><ul><li><strong>Ałtsoh yázhí doo dooleeł.</strong> Tó, bee ájíní, nahaghąąh... </li><li><strong>Yiyííl'ąąh, nánídíkááh doo.</strong> Ałtsoh bee ííł'ą́ą́...</li><li><strong>Ałtsoh, nizhóní dóó hózhǫ́.</strong> Yiyííl'ąąh...</li><li><strong>Diné ałtsoh.</strong> Nihi bee ałtsoh...</li><li><strong>Ałts'áá' dooleeł.</strong> “Done for now” ...</li><li><strong>Nihi bee dah yázhí.</strong> Ch'ééh doo bee ... </li></ul><h2>Díí doo bąąh nihi bee bááh doo...</h2><p>Nihi ałtsoh bee yázhí ... <a href=\"/brain-health/\">brain health pages</a> ... Bee ałtsoh ... </p><h2>Díí nihi yázhí</h2><p>Golden Moments díí ... <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Ałtsoh bee yiyííl'ąąh</h2><p>Nihi bee ałtsoh ... Email <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Nihi Bee Ch'ééh dóó Nihi Yiyííl'ąąh Ałtsoh",
+      "seoTitle": "Bee Ałtsoh Bee Yiyííl'ąąh",
+      "description": "Golden Moments bąąh deesdlį́ nihi ałtsoh bee dementia dóó ałtsoh bee yázhí ... bee naaki ayóó'ánííł'į́' ... dóó díí doo nihi yiyííl'ąąh.",
+      "crumb": "Bee yiyííl'ąąh",
+      "bodyHtml": "<h2>Nihi bee ałtsoh</h2><p>Nihi ałtsoh bee ... National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance dóó NHS ... Cochrane reviews dóó clinical trials ... Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>Díí nihi bee yiyííl'ąąh</h2><ul><li>Practical first: díí ... </li><li>Honest about evidence: “linked with”, “may” dóó “the evidence is mixed” ... </li><li>Respectful: ałtsoh yázhí ... </li><li>No invented content: doo bee ... </li></ul><h2>Díí nihi ałtsoh ííłtsoh</h2><p>Golden Moments ... <strong>not</strong> ... doctor dóó clinician ... General information, not medical advice.</p><h2>Díí doo nihi ałtsoh ... </h2><ul><li>Claims ... dementia.</li><li>Tests, quizzes dóó scores ... </li><li>Advice ... medicine.</li><li>Advertising ... </li></ul><h2>Ałtsoh dóó ch'ééh ... </h2><p>Each page shows the date ... <a href=\"mailto:{email}\">{email}</a> ... </p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Bee Ádaa'ííshą́ą́ dóó Bee Ałtsoh",
+      "seoTitle": "Dementia Bee Naaki dóó Ałtsoh: Bee Ádaa'ííshą́ą́",
+      "description": "Dementia bee naaki dóó ałtsoh bee ádaa'ííshą́ą́ ... which games ... how long ... later-stage ideas ... brain health dóó privacy.",
+      "crumb": "Ádaa'ííshą́ą́ dóó ałtsoh",
+      "lede": "Yiyííl'ąąh, nizhóní ádaa'ííshą́ą́ ... bee ałtsoh ... caregivers ... ",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Naaki bááh",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Dementia bááh ... naaki ... ?",
+              "a": "Naaki ... familiar, simple dóó free of pressure ... Picture matching ... sorting ... jigsaws ... sayings ... coloring dóó picture bingo ... Avoid timers, scores dóó anything that feels like a test."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Naaki ... free ... ?",
+              "a": "Hą́ą́'. Bee naalkaadgo ádóó ʼáłtsé ałdó' bíhoo'aah yiníłkááł. Bááh ʼáłtsé ałtsoh bibee ʼáłtsé, ʼáadę́ę́' ʼáłtsé tó dahdiniiłtsą́ą́ę́ę́' bíhoo'aah. Bee ʼáłchʼí ʼáłtsé ádaaʼ ʼádóó bee nahalin ałch'ííʼ."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Ayóó bééhoo'nil dóó kʼéé dóó ńtsįįs doo bííh nááhadoo ʼádaaʼ?",
+              "a": "Ńtsįįs dóó kʼéé ałtsé ałk'ee bik'ídaa'góó ʼádaaʼ biʼ ʼaʼaʼ ádaaʼ, dóó éí ʼaʼóó naazhnéé dóó dahólǫ́ bee haalingo. Ayóó nisin yee ʼáłtsé bik'ee shá nihit shíyá'. Nihaa ʼaʼ bee hane' yílį́ ʼáłtsé, dóó nánéé ʼáłtsé ʼéí nahalingo ʼanii ʼádaaʼ, dóó ʼáłtsé ʼaʼ ʼáłtsé ałk'ídą́ą́' aʼ ʼáłtsé haʼaʼ dooleeł ʼáłtsé."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Dóó bee ʼáłtsé ʼáłtsoh bidaʼ biniinaa ʼádaaʼ?",
+              "a": "Kʼéé ʼáłtsé modern web browser bee yiʼą́ą́ę́ę́' tééʼ ʼáłtsé, ałtsé ałdó' tééʼ naʼáłtsoh, tábaah, dóó bee ʼaʼ ʼáłtsé. Bááh ʼaʼ ʼáłtsé tó nahalin tábaah ʼáłtsé ʼádaaʼ, bee tahatsoh ʼáłtsé. Bík'ee nihił bee ʼáłtsé tábaah tééʼ naʼáłtsoh dóó tsoh tádídíní ʼáłtsé ałdó' ałtsoh bibee."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Ayóó bééhoo'nil dóó ʼáłtsé nizhóní ʼaʼ bee ʼáłtsé ʼałdó' yee?",
+              "a": "Hą́ą́'. Photo pairs ʼáłtsé nihitsaah ʼáłtsé 2 yílį́ 6 nizhóní bee yiʼą́ą́ę́ę́' ʼáłtsé, dóó éí ʼáłtsé ałdó' ʼáłtsé yee. Nizhóní yee nááhóó tééʼ browser bik'ee bik'é yee ʼáłtsé, ʼáłtsé ʼánaa'ǫ́ǫ́' dóó ʼáłtsé dááh ʼadahoot'ííł ʼádaaʼ."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Ayóó ʼáłtsé dóó ʼádaaʼ ʼanaʼí dóó ʼaʼ",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Ayóó ʼáłtsé ʼaʼ bik'ee ʼádaaʼ nááʼ yee ʼáłtsé?",
+              "a": "Ałdó' 10 yílį́ 20 ʼałhééʼ ʼáłtsé, dóó hólǫ́ 2 ʼałhééʼ ʼáłtsé ʼaʼ ʼáłtsé ʼádaaʼ. Dooleeł ʼáłtsé ʼaʼ tsoh yilį́ ʼáłtsé ʼaʼ ʼaʼí, dóó ʼaʼ bik'ídaa'góó nááhóó nisin ʼałdó' ʼaʼ ʼáłtsé haʼaʼ. Ałhiʼ ʼaʼ ʼaʼ ʼáłtsé ʼaʼ bik'ee hayóó ʼaʼ."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Ayóó bééhoo'nil dóó ʼáłtsé ʼaʼ ʼadaaʼ ʼaʼ ʼáłtsé nizhóní ʼádaaʼ?",
+              "a": "ʼaʼ dooda ʼáłtsé bee ałk'ee yínílííł, dóó ʼaʼ nááhóó bee haalingo ʼádaaʼ dóó ʼáłtsé ʼaʼ ʼáłtsé bee yiʼą́ą́ę́ę́' ʼáłtsé. Dooda ʼaʼ ʼáłtsé tsoh yílį́, bááh ʼáłtsé ʼáadę́ę́', ʼaʼ ʼáłtsé dóó ʼaʼ bik'ee nisin ʼaʼ ʼáłtsé ʼaʼ ʼádaaʼ. Ayóó Dooda 'ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼaʼ ałk'ídą́ą́' ʼáłtsé bee ʼaʼ."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Ayóó ʼádaaʼ dóó ʼaʼ ʼáłtsé bik'ee dooleeł ʼałtsé ʼaʼ bee ʼádaaʼ?",
+              "a": "Ałk'ídą́ą́' dóó ʼáłtsé ʼaʼ: ʼaʼ nizhóní bee ʼaʼ ʼáłtsé ʼádaaʼ bee haalingo, bee ʼaʼ ʼałtso yíkʼeed ʼaʼ bik'ee ʼadaaʼ, nizhóní ʼaʼ ʼáłtsé ʼaʼ ʼádaaʼ, bee ʼaʼ ʼaʼ ʼáłtsé tábaah ʼaʼ bik'ee ʼádaaʼ, tsʼę́ę́h ʼaʼ bee ʼáłtsé ʼaʼ ʼádaaʼ, tábaah ʼaʼ ʼáłtsé bik'ee dóó ʼaʼ nááhóó yiʼą́ą́ę́ę́' ʼaʼ ʼáłtsé. Nizhóní ʼaʼ ʼaʼ ʼáłtsé ʼaʼ ʼadaaʼ ʼaʼ bee ʼaʼ ʼáłtsé."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Ayóó ʼaʼ nááhóó ʼaʼ ʼáłtsé ʼaʼ dóó ʼaʼ bee ʼadaaʼ ʼaʼ?",
+              "a": "Hą́ą́'. Picture bingo ʼáłtsé nizhóní ʼaʼ bee ʼaʼ ʼáłtsé tééʼ naʼáłtsoh, dóó ʼaʼ ʼáłtsé ʼaʼ ʼadaaʼ. Finish the saying dóó Conversation cards ʼaʼ ʼáłtsé bee yiʼą́ą́ę́ę́' ʼaʼ ʼáłtsé ʼádaaʼ. Ayóó ʼaʼ ʼáłtsé ʼaʼ ʼaʼ bik'ee ʼádaaʼ dóó ʼaʼ ʼaʼ ʼáłtsé ʼaʼ tó ʼaʼ bik'ee ʼaʼ ʼadaaʼ."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Ałk'ídą́ą́' bééhoo'nil",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Ayóó ʼaʼ ʼáłtsé ʼaʼ dóó ʼáłtsé ʼaʼ ʼadaaʼ bik'ee ʼádaaʼ?",
+              "a": "Ałtsé ʼaʼ ʼaʼ ʼáłtsé ʼáadę́ę́' ʼaʼ bee ʼaʼ ʼáłtsé ʼádaaʼ, dóó nizhóní ʼaʼ ʼaʼ ʼáłtsé ʼádaaʼ. Ayóó ʼaʼ tó bee ʼaʼ ʼaʼ ʼáłtsé nááhóó bik'ídaa'góó ʼaʼ bee ʼaʼ ʼáłtsé ʼadaaʼ, dóó éí dooleeł ʼaʼ ʼáłtsé bik'ee ʼádaaʼ. Ayóó ʼaʼ nizhóní bee ʼaʼ ʼáłtsé dóó ʼaʼ ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼádaaʼ."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Ayóó ʼádaaʼ ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼadaaʼ?",
+              "a": "Bik'ídaa'góó ʼaʼ ʼáłtsé ʼaʼ. Ayóó 14 bee ʼaʼ ʼáłtsé dóó nizhóní ʼaʼ ʼadaaʼ bee haalingo, dóó éí ʼaʼ ʼáłtsé ʼádaaʼ, dooleeł ʼaʼ ʼáłtsé ʼaʼ ʼádaaʼ, ʼaʼ ʼáłtsé ʼaʼ ʼádaaʼ, tábaah ʼaʼ ʼáłtsé ʼaʼ ʼádaaʼ. Ayóó ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼádaaʼ, dóó ʼaʼ nááhóó ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼádaaʼ, ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼaʼ ʼádaaʼ. Ayóó ʼádaaʼ ʼaʼ ʼáłtsé ʼaʼ ʼaʼ bik'ee ʼádaaʼ. Éí ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼádaaʼ."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Ayóó ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼádaaʼ ʼáłtsé ʼaʼ dóó ʼaʼ ʼáłtsé ʼaʼ ʼadaaʼ?",
+              "a": "Ayóó ʼaʼ ʼáłtsé ʼaʼ bee ʼaʼ ʼáłtsé ʼaʼ ʼaʼ ʼadaaʼ, dóó nááhóó ʼaʼ ʼáłtsé ʼaʼ bee ʼaʼ ʼadaaʼ. Ayóó ʼaʼ ʼáłtsé ʼaʼ dóó ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼadaaʼ. Ayóó ʼaʼ ʼadaaʼ ʼaʼ bik'ee ʼaʼ ʼádaaʼ, dóó ʼaʼ ʼáłtsé ʼaʼ dóó ʼaʼ ʼadaaʼ. Ayóó ʼaʼ ʼáłtsé ʼaʼ bee ʼáłtsé ʼaʼ ʼadaaʼ ʼaʼ ʼáłtsé. Ayóó dooda ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼádaaʼ."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Bik'ee dóó ʼaʼ bik'ee ʼádaaʼ",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Ayóó ʼaʼ ʼáłtsé ʼaʼ ʼadaaʼ ʼaʼ bee ʼaʼ ʼáłtsé?",
+              "a": "Dooda ʼaʼ ʼáłtsé ʼaʼ ʼadaaʼ. Google Analytics ʼaʼ ʼáłtsé ʼaʼ tó ʼaʼ bee ʼaʼ ʼáłtsé ʼaʼ dóó ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼadaaʼ, dóó tó ʼaʼ browser ʼaʼ bee ʼáłtsé ʼaʼ ʼadaaʼ. Photo pairs ʼáłtsé bee yiʼą́ą́ę́ę́' nizhóní ʼaʼ ʼaʼ ʼáłtsé ʼaʼ ʼádaaʼ. Ayóó ʼaʼ bee ʼaʼ ʼáłtsé ʼaʼ ʼadaaʼ, bee bik'ídaa'góó ʼaʼ ʼáłtsé ʼaʼ bee ʼaʼ ʼáłtsé ʼádaaʼ."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ayóó ʼaʼ ʼáłtsé ʼaʼ bee ʼadaaʼ ʼaʼ ʼáłtsé ʼaʼ?",
+              "a": "Dooda. Golden Moments ʼaʼ ʼáłtsé ʼaʼ dóó ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼadaaʼ ʼaʼ bee ʼaʼ ʼáłtsé ʼádaaʼ. Ayóó ʼaʼ ʼáłtsé bik'ee dooleeł ʼaʼ, dóó ʼaʼ ʼáłtsé ʼaʼ bik'ee 911 bee yiʼą́ą́ę́ę́' ʼaʼ ʼáłtsé."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Ayóó ʼaʼ ʼáłtsé: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> dóó <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Bee Naalkaadgo, Nizhóní Ałk'ídą́ą́' Bééhoo'nil Ádaaʼ Ałtsé Bąąh Ałk'ídą́ą́'",
+      "seoTitle": "Bee Yiʼą́ą́ę́ę́' Nááhóó: Ałdó' Bééhoo'nil Ałtsé Ałk'ídą́ą́' Ádaaʼ Ałtsé Bąąh Ałk'ídą́ą́'",
+      "description": "Bee yiʼą́ą́ę́ę́' ałtsé ałdó' bíhoo'aah bee ʼaʼ ʼáłtsé ʼaʼ, ałdó' ʼaʼ ʼadaaʼ ʼaʼ bik'ee ʼáłtsé, dóó nizhóní bee ʼaʼ ʼadaaʼ ʼaʼ ʼáłtsé, bíhoo'aah bee ʼaʼ ʼáłtsé ʼaʼ ʼádaaʼ.",
+      "crumb": "Bee yiʼą́ą́ę́ę́' nááhóó",
+      "lede": "ʼaʼ bee ʼaʼ ʼáłtsé bíhoo'aah bee ʼáłtsé nááhóó, ʼaʼ ʼáłtsé, dóó ʼaʼ ʼáłtsé ʼaʼ bee ʼaʼ ʼáłtsé ʼaʼ. Browser bee Print ʼaʼ bee yiʼą́ą́ę́ę́'; menus dóó buttons ʼaʼ bik'ee ʼadaaʼ.",
+      "introHtml": "<p>Nizhóní ʼaʼ tsoh, bizaad ʼaʼ ʼáłtsé, dóó ʼaʼ ʼáłtsé ʼaʼ ʼaʼ bee ʼadaaʼ. Ałdó' tábaah, tééʼ naʼáłtsoh, tábaah ʼáłtsé ʼaʼ, dóó dooda ʼaʼ bik'ee ʼadaaʼ, dooda timers dóó dooda scores. Tó ʼaʼ ʼaʼ bee dooleeł, dóó dááh ʼáłtsé ʼaʼ bik'ee.</p>",
+      "gamesTitle": "Ałk'ídą́ą́' bééhoo'nil ʼaʼ bee ʼáłtsé",
+      "restHtml": "<h2>Ałdó' ʼaʼ ʼáłtsé</h2><ul><li>Ayóó bik'ee nááhóó ʼaʼ ʼáłtsé nizhóní ʼaʼ bee ʼadaaʼ.</li><li>Ałtso bee ʼaʼ ʼáłtsé ʼadaaʼ bee ʼaʼ ʼáłtsé ʼaʼ. Ałdó' 4 tiles ʼaʼ ʼáłtsé.</li><li>Nizhóní ʼaʼ ʼáłtsé ʼaʼ bee ʼadaaʼ. Bizaad ʼaʼ ʼáłtsé ʼaʼ ʼadaaʼ.</li><li>Ałk'ídą́ą́' ʼaʼ ʼáłtsé ʼaʼ bee ʼadaaʼ. Ałtso ʼaʼ ʼáłtsé ʼaʼ bee ʼaʼ ʼadaaʼ.</li></ul><h2>Ałdó' bee ʼaʼ ʼáłtsé</h2><ul><li>Bee yiʼą́ą́ę́ę́' nááhóó: large-print word search, coloring pages, conversation cards dóó picture bingo.</li><li>Ałk'ídą́ą́' ʼaʼ ʼáłtsé ʼaʼ bee ʼadaaʼ, dóó bee ʼaʼ ʼáłtsé ʼaʼ bik'ee ʼadaaʼ.</li></ul><p class=\"muted\">Ałk'ídą́ą́' dóó tó ʼaʼ bee ʼáłtsé ʼaʼ. Dooda bizaad ʼaʼ ʼáłtsé, dooda test, dooda treatment. Golden Moments ʼaʼ bee Cloudjet Solutions Pte. Ltd. yiʼą́ą́ę́ę́'.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ałtsoh Bik'ee, Ałtsoh Bee Naʼáłtsoh dóó Bee Ałdó' Bíhoo'aah",
+      "seoTitle": "Bááh Ádaat'éego Dementia Ałtsé Naaltsoos bee Hooghan Dóó Bik'ehgo Nahat'á",
+      "description": "Hooghan, éí nahasdzaan bee Dementia Ałtsé Naaltsoos Bik'ehgo ádaa nahat'á doo ałtsé ádaat'éego bee hane' bééhózin nááná dóó nahat'á; dóó naaltsoos bee iinitsoos bee nahat'á.",
+      "crumb": "Bik'ehgo Ádaat'éego",
+      "lede": "Díí biká'í bíká'í bééhózin dóó hooghandi, bíká'í ałtsé bee hadahane'í, ałhooghan dóó doo bééhózin bik'ehgo nahat'á. Díí bááh éí nahat'á éí hwiidzááʼ dóó bee nánáʼ ádaat'éego.",
+      "shortText": "{name}: bééhózin, nahasdzaan ałtsé Dementia nahat'á dóó ałtsé nidahane' bee ádaat'éego. Doo ałhooghan bee hane' ádaat'éego, doo bąąh nidahane' bee nááhoot'ááh.",
+      "longText": "{name} ({domain}) ádaat'éego {count} bééhózin Dementia naaltsoos bee nahat'á, dóó ałtsé Dementia bąąh ádaat'éego, bee ałtsé nidahane' bee nahat'á; bee bik'ehgo naaltsoos bee iinitsoos, kéyah ádaat'éego bee naaltsoos bee nahat'á. Doo ałhooghan, doo ałtsé nidahane', doo ałtsé nidahane' bee nááhoot'ááh. Bééhózin Naaltsoos bee nahat'á ádaat'éego, Dementia bąąh nahat'á Natsoos bee National Institute on Aging dóó Alzheimer's Association bee ádaat'éego.",
+      "useTitle": "Naaltsoos bee Ádaat'éego Bik'ehgo Nahat'á",
+      "gamesItemHtml": "<strong>{count} bééhózin naaltsoos</strong> bee laptop, tablet dóó computer bee ałhooghan TV bee ádaat'éego. Ałhooghan doo ádaat'éego, doo ałhooghan bee hane' dóó doo bééhózin ádaat'éego. Bee nahat'á <a href=\"/games/\">naaltsoos ałdóó'</a>.",
+      "printablesLabel": "{count} bee yiłneest'í:",
+      "printablesAfter": "Ádaat'éego Print bee nahat'á bee ałdóó' bee bááh.",
+      "moreItemsHtml": "<li><strong>Naaltsoos bee ádaat'éego:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> bee yiłneest'í cards dóó screen bee caller, dóó <a href=\"/activities/trivia/\">easy trivia</a> bee 50 questions bee answer choices dóó talking points.</li><li><strong>Ádaat'éego bááh nahat'á</strong> bee bik'ehgo dóó bee nááhoot'ááh, bee ałtsé nidahane' bee bąąh ádaat'éego, bee natsoos bee sources. Hooghan <a href=\"/activities/ideas/\">101 activity ideas</a> ałdóó' dóó <a href=\"/activities/care-home-groups/\">group activities for care homes</a> ałdóó'.</li>",
+      "restHtml": "<h2>Naaltsoos bee ádaat'éego ałdóó'</h2><ul><li><strong>Ałhooghan dóó memory care:</strong> picture bingo ałdóó' finish-the-saying bee common room TV bee ádaat'éego, bee ałtsé nidahane' bee tap bee nahat'á.</li><li><strong>Adult day programs:</strong> tablet station bee Picture pairs bee tiles naaki, bee ałtsé dóó bee ałtsé ádaat'éego nááná.</li><li><strong>Public libraries:</strong> yiłneest'í word searches dóó conversation cards bee memory kits, dóó hooghan bookmarked bee library tablets.</li><li><strong>Caregiver support groups dóó memory cafés:</strong> <a href=\"/handout/\">one-page printable handout</a> bee naaki nidahane' bee hooghan bee ádaat'éego.</li><li><strong>Hospitals dóó discharge planners:</strong> handout bee caregiver packets, bee hooghan bee ałtsé dóó bee hooghan bee bąąh ádaat'éego.</li></ul><h2>Díí doo nahat'á da</h2><p>Naaltsoos éí bee ałtsé dóó bee bąąh bik'ehgo. Doo Dementia bee diagnose, test, score, treat, dóó slow nahat'á da; dóó hooghan bee nidahane' díí bee doo bééhózin ádaat'éego. Doo ałhooghan da, dóó naaltsoos doo ałtsé nidahane' bee hane', bee ałhooghan, bee ádaat'éego photos doo nidahane' da. Website bee Google Analytics bee ałtsé nahat'á; <a href=\"/privacy/\">privacy notice</a> bee éí bee hane'. Photos bee <a href=\"/games/photo-pairs/\">Photo pairs</a> bee browser bee nááná.</p><h2>Hooghan bee resource list bee ádaat'éego</h2><p>Nidahane' caregiver resources list bee ádaat'éego, <a href=\"/\">{domain}</a> bee ałtsé nidahane'. Bee description bee ałdóó' bee doo ádaat'éego.</p>",
+      "shortTitle": "Bee yiłneest'í description",
+      "longTitle": "Bee naaki description",
+      "linksHtml": "<p>Ałtsé bee nidahane' bee link bee ádaat'éego: <a href=\"/games/\">bééhózin naaltsoos</a>, <a href=\"/activities/printable/\">bééhózin yiłneest'í</a>, <a href=\"/activities/alzheimers/\">Alzheimer's bee ádaat'éego</a> dóó <a href=\"/caregiving/how-to-play-together/\">bee ałtsé naaltsoos</a>.</p><h2>Ádaat'éego bee hane' dóó bee bąąh</h2><p>Hooghan bee nidahane' bee ałtsé bąąh bééhózin, ałtsé bee nidahane' doo bee bąąh bee, bee hooghan bee ałtsé ádaat'éego doo nidahane' bee hane', <a href=\"mailto:{email}\">{email}</a> bee hane' bee nidahane'. Doo ałtsé ádaat'éego ałtsé bee nidahane' bee bąąh nidahane' bee bee hane' bee doo nidahane'.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments Ałhooghan",
+      "seoTitle": "Golden Moments Ałhooghan bee iPhone dóó Android",
+      "description": "Bééhózin Golden Moments ałhooghan: ałtsé photo matching bee tiles naaki, ałtsé family photos bee device bee nahat'á, offline picture packs dóó doo ałhooghan bee hane'.",
+      "crumb": "Ałhooghan",
+      "lede": "Website bee ałtsé ádaat'éego bee hooghan, ałhooghan bee offline bee nahat'á dóó ałtsé family photos bee nidahane' bee ádaat'éego.",
+      "worksOn": "Bee nahat'á {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Áłtsé áłtsʼíísígo bidiilnih</h2><p>Dį́įʼgo ntsxaaí bee eʼelyaaígíí dóó eʼelyaa bééhózinígíí bee hahodiilnih. Eʼelyaaígíí tʼáá daʼníłtsééh dooleeł, doodaiiʼ bił yáʼátʼéehgo nanilkaadgo bee nidaʼaneʼ dooleeł. Hazhóʼógo bee eʼeʼaahígíí bee ahééʼílkid ádin, bídinooltłʼiłii dóó atíʼélʼį́ ádin. 4, 6, 8, doodaiiʼ 12 bee eʼelyaaígíí łaʼ nináhdidohłeeł.</p><h2>Nihí nihígi átʼéego áyiilaa</h2><p>Nihibéésh bee haneʼé bee eʼelyaa háʼníłtsosí choidoołʼįįłgo nihikʼéí binaaltsoos bikááʼ eʼelyaa łaʼ nináhdidohłeeł. Díí app éí eʼelyaa áłtsʼíísígo yóóʼánéididoodlííł bee naʼanish dooleeł biniyé. Nihinaaltsoos bikááʼ eʼelyaa doo naaneeskaad da doo ałdóʼ łahgo ánéidoodlíił da, áádóó eʼelyaa 24jįʼ bił ahíínilgo yaa áhályą́ dooleeł.</p><h2>Tʼáá bił tʼéí yidiiltsééł</h2><p>Tʼáá tʼááłáʼígo eʼelyaaígíí baa nídéididoodlííł. Saad łaʼ bee yátiʼ dooleeł biniyé bikʼeʼashchínígíí éí bee ałchʼįʼ yátiʼ bee hahodoolnih, diné bízhiʼ bénáhooʼnįįh doodaiiʼ tʼáá ákótʼéego bee haneʼ doo bee nahideeskid da. Tʼáá daʼjíłtséhígíí tʼéí bee yáʼátʼééh.</p><h2>Internet ádingo tʼáá chooʼį́</h2><p>Eʼelyaa bee hahoditʼéhígíí dóó tseebíí ałʼąą átʼéego eʼelyaa bił nahazʼánígíí díí app biyiʼ bił sinil. Kʼéí binaaltsoos bikááʼ eʼelyaa biyiʼjįʼ ahítʼeʼígíí éí internet ádingo chooʼį́. Eʼelyaa tʼáá bíighahí iCloud biyiʼ tʼéí sinilígi nináhodeetą́ągo éí internet choidoołʼįįł daatsʼí.</p><h2>Account dóó photo-sync bee chooʼínígi ádin</h2><p>Nihikʼéí binaaltsoos bikááʼ eʼelyaa díí béésh bee haneʼé biyiʼ appgóó tʼéí sinil dooleeł. Eʼelyaa bikʼidiiltsʼilígíí nahjįʼ kódoolnííł átʼé, áko tʼáá bí eʼelyaaígíí doo nahjįʼ kódoolníił da. Béésh bee haneʼé biyiʼ naaltsoos ahítʼeʼígíí díí app bitsʼą́ą́dóó haneʼ ałdóʼ biyiʼ dooleeł daatsʼí. <a href=\"/app-privacy/\">App bee baa áháyáagi bee hazʼáanii</a> baa nídadínoołtah, áádóó <a href=\"/help/\">app bee aká anáʼálwoʼ</a> éí tʼáá ałtsoní tʼááłáʼí nídílyéehgo bił bééhózin.</p>",
+      "disclaimer": "Golden Moments éí baa hózhǫ́ dóó ałchʼįʼ yátiʼ biniyé ályaa. Díí éí bitsiitsʼiin bee bichʼįʼ anídahaztʼiʼígíí doodaiiʼ Alzheimer’s disease doo bee aa néíkáah da, doo bee azeeʼ áłʼį́į da, doo bee bikʼéstiʼ da, áádóó doo bee néálkid da.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Tʼáá Jíkʼe Internet Bikáaʼgi Bitsiitsʼiin Bee Bichʼįʼ Anídahaztʼiʼígíí dóó Alzheimer's Bee Daʼanéhígíí",
+    "description": "Hastóí dóó sáanii bitsiitsʼiin bee bichʼįʼ anídahaztʼiʼígíí doodaiiʼ Alzheimer's yee bichʼįʼ anídahaztʼiʼígíí bá internet bikáaʼgi tʼáá jíkʼe daʼanéhígíí: eʼelyaa aheełtʼéego ałhíítʼéhé, jigsaws doo nanitłʼahígíí, eʼelyaa ałtsʼą́ą́ʼ nídalyéhígíí, saad bee dahaneʼígíí, naʼachʼąąh, dóó bingo. Bee aʼdiizhdooltsiłii, ahééʼílkid, doodaiiʼ bídinooltłʼiłii ádin.",
+    "crumb": "Daʼanéhígíí",
+    "h1": "Diné Bitsiitsʼiin Bee Bichʼįʼ Anídahaztʼiʼígíí Bá Daʼanéhígíí Hazhóʼógo Ályaa",
+    "lede": "{count} tʼáá jíkʼe daʼanéhígíí nihibrowser biyiʼ bił nidaʼahneʼ dooleeł. Eʼelyaa nitsxaa, saad doo nanitłʼah da, áádóó doo atíʼjilʼíi da dooleeł: ahééʼílkid ádin, bídinooltłʼiłii ádin, bee aʼdiizhdooltsiłii ałdóʼ ádin.",
+    "listName": "Diné bitsiitsʼiin bee bichʼįʼ anídahaztʼiʼígíí bá daʼanéhígíí hazhóʼógo ályaa",
+    "byStageTitle": "Daʼaneʼ tʼáá bikʼehgo hahodiilnihígíí nináhodoohtį́į́ł",
+    "byStageLede": "Áłʼąą átʼéego bee bichʼįʼ anídahaztʼiʼígíí éí tʼóó bee naʼnitin. Hastóí doodaiiʼ asdzáán díí jį́ bił yáʼátʼééh dóó bił hazhóʼó nízinígíí bikʼehgo ánéelʼį́.",
+    "stageCol": "Bikʼehgo átʼéhígíí",
+    "gamesCol": "Daʼanéhígíí lą́ʼígo bił yáʼádaatʼéehígíí",
+    "moreHtml": "Béésh bikááʼdóó nahjįʼ nitsáhákees łaʼ: <a href=\"/activities/ideas/\">101 baa naʼadaah diné bitsiitsʼiin bee bichʼįʼ anídahaztʼiʼígíí bá</a>, <a href=\"/activities/alzheimers/\">Alzheimer's bá baa naʼadaah dóó daʼanéhígíí</a>, <a href=\"/activities/memory-games/\">bénáhooʼnįįh bá daʼanéhígíí hazhóʼógo ályaa</a> dóó <a href=\"/activities/puzzles/\">puzzles</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Háiidígíí daʼaneʼ bee hahodiilnih?",
+        "a": "Dį́įʼgo eʼelyaa ałhíítʼéhé bee naʼaʼneʼ éí áłtsé choidoołʼįįłgo tsʼídá hazhóʼógo átʼé. Eʼelyaa bitaʼ nináhodeetʼą́ągo nanitłʼah nahalin daatsʼí, naaki eʼelyaa aheełtʼéego hánaazhchʼilígíí choidoołʼįįł. Ląʼí nilį́įgo, Picture bingo choidoołʼįįł."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Díí daʼanéhígíísh iPad doodaiiʼ béésh bee haneʼé bikáaʼgi chooʼį́?",
+        "a": "Aooʼ. Tʼáá ałtso daʼanéhígíí béésh bee haneʼé, tablets, dóó béésh nitsikeesí biyiʼ browser yee naalnish, áádóó eʼelyaaígíí nitsxaa silį́įʼgo screen biiʼ hadadoodzoh. Tablet bidah siláago naaki diné bił hazhóʼó baa nidaʼaneʼ dooleeł."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Díí daʼanéhígíísh łaʼ Alzheimer's bee bichʼįʼ anídahaztʼiʼígíí bá yáʼátʼééh?",
+        "a": "Aooʼ. Diné bitsiitsʼiin bee bichʼįʼ anídahaztʼiʼígíí bá ályaa, díí Alzheimer's ałdóʼ bił, éí tsʼídá ląʼígo diné yee bichʼįʼ anídahaztʼiʼ. Eʼelyaaígíí tʼáá daʼníłtsééh dooleeł, tʼóó díkwhíhí bitaʼ nináhodoohtį́į́ł, áádóó ahééʼílkid dóó bídinooltłʼiłii ádin, áko díí daʼanéhígíí éí ádahooníłígíí bééhózinígíí yee choidoołʼįįł, doo áníidígo bee nitsáhákeesígíí da."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Díí daʼanéhígíísh hastóí dóó sáanii bá bénáhooʼnįįh bee daʼanéhígíí átʼé?",
+        "a": "Díí éí eʼelyaa aheełtʼéego ałhíítʼéhé dóó eʼelyaa yee daʼaneʼ átʼé áko tʼáá háiida hastiin doodaiiʼ asdzáán bił yáʼátʼééh dooleeł, nidi bénáhooʼnįįh doo bee néálkid da biniyé ályaa: Picture pairs biyiʼ eʼelyaaígíí tʼáá daʼníłtsééh dooleeł tʼáá nihí doo dííłtséł da dadidoohniiłjįʼ. Hastóí dóó sáanii bitsiitsʼiin bee bichʼįʼ anídahaztʼiʼígíí bá bénáhooʼnįįh daʼanéhígíí binahjįʼ naaltsoos bikááʼ haneʼígíí éí daʼaneʼ tʼáá ałtso hazhóʼó áshłééh dooleełgi yaa halneʼ."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Care home biyiʼ daʼałtsoojįʼ diné bá daʼanéhígíísh hólǫ́?",
+        "a": "Aooʼ. Picture bingo éí naaltsoos bikʼidiilyeedígíí dóó screen yikááʼ yáłtiʼígíí hólǫ́, áádóó Finish the saying dóó Conversation cards éí diné ląʼí nilį́įgo diitsʼaʼgo yídóoltahgo yáʼátʼééh."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad dóó Android",
+    "requirements": "iOS 15 doodaiiʼ tʼah biláahgo; Android 7.0 doodaiiʼ tʼah biláahgo",
+    "summary": "iPhone, iPad dóó Android bá app tʼáá jíkʼe átʼéhígíí, dį́į́ʼ dóó naakitsʼáadahjįʼ ntsxaaí bee eʼelyaa aheełtʼéego ałhíítʼéhé hazhóʼógo ályaa, nihikʼéí binaaltsoos bikááʼ eʼelyaa nináhodeetą́ągo aheełtʼéego dóó bił dééstʼįįł, áádóó tseebíí ałʼąą átʼéego eʼelyaa bił nahazʼánígíí internet ádingo chooʼį́. Account, bee eʼenaʼílígíí, ahééʼílkid, doodaiiʼ bídinooltłʼiłii ádin.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "4, 6, 8 doodaiiʼ 12 ntsxaaí bee eʼelyaa aheełtʼéego ałhíítʼéhé hazhóʼógo ályaa; eʼelyaa tʼáá daʼníłtsééh dooleeł tʼáá nihí doo dííłtséł da dadidoohniiłjįʼ",
+      "Nihikʼéí binaaltsoos bikááʼ eʼelyaa nináhdidohłeełígíí app biyiʼjįʼ kólaa dooleeł áko aheełtʼéego dóó bił dééstʼįįł bá chooʼį́",
+      "Bił dééstʼįįł: tʼáá tʼááłáʼígo eʼelyaa baa nídéididoodlííł áádóó saad łaʼ bee yátiʼ dooleełgo bikʼeʼashchí",
+      "Tseebíí ałʼąą átʼéego eʼelyaa app biyiʼ bił sinil; internet ádingo naalnish",
+      "Account, bee éʼéhozinígíí, app biyiʼ nahalniih, ahééʼílkid, bídinooltłʼiłii doodaiiʼ atíʼélʼį́ ádin"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Diné bitsiitsʼiin bee bichʼįʼ anídahaztʼiʼígíí bá baa naʼadaah app hólǫ́ǫ́sh?",
+        "a": "Aooʼ. Golden Moments (wolyéego bee bikʼeʼashchí \"{storeName}\") éí App Store dóó Google Play bikáaʼgi tʼáá jíkʼe. Ntsxaaí bee eʼelyaa aheełtʼéego ałhíítʼéhé hazhóʼógo ályaa, nihikʼéí binaaltsoos bikááʼ eʼelyaa nináhodeetą́ągo bee daʼanéhígíí, dóó eʼelyaa bił nahazʼánígíí internet ádingo chooʼį́."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Golden Moments app tʼáá jíkʼee átʼéésh?",
+        "a": "Aooʼ. Tʼáá jíkʼe ahanítʼeeh átʼé, bee eʼenaʼílígíí, account doodaiiʼ app biyiʼ nahalniih ádin."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Díí app internet ádingo chooʼínísh?",
+        "a": "Aooʼ. Eʼelyaa bee hahoditʼéhígíí dóó tseebíí eʼelyaa ałʼąą átʼéego bił nahazʼánígíí app biyiʼ bił sinil, áádóó nihikʼéí binaaltsoos bikááʼ eʼelyaa app biyiʼjįʼ ahítʼeʼgo éí internet ádingo chooʼį́. Eʼelyaa iCloud biyiʼ tʼéí sinilígi nináhodeetą́ągo internet choidoołʼįįł daatsʼí."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Nihí nihikʼéí binaaltsoos bikááʼ eʼelyaa chodeidiyoołʼįįł daatsʼí?",
+        "a": "Hą́ą́'. Naaltsoos bikʼehgo photo picker bééhózin bee naaltsoos bikʼeh nídaaʼ. Díí app bee yidííłtsʼą́ą́ʼ naaltsoos ałtsoʼ bee nídaaʼ bee ałtsoʼ ádaat'éii, ndi bee nidaaʼ bee dooda ałnáanii naaltsoos bąąh ádaat'éii. Bitsʼą́ą́ naaltsoos bąąh nídaʼ, ndi bee nidaaʼ ałtsoʼ nínídaʼ ní'ní'."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Díí brain-training dooda memory test app da?",
+        "a": "Dooda. Golden Moments bee yee' nááhojí bee ałtsoʼ yee' ałtsoʼ bąąh ádaat'éii. Díí app bee dooda bee ałtsoʼ dah yee'hózin, ndi dementia dooda Alzheimer’s bee dooda ałtsoʼ bidaadáʼ, ni' dooda bee ałtsoʼ nááhoot'éé."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Ha'át'íí bééhózin díí app bee nááhoot'éé?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Díí game bee app ałtsoʼ bee nááhoot'éé ánaaʼ?",
+      "a": "Hą́ą́'. Golden Moments app bee iPhone, iPad dooda Android bee ałtsoʼ bąąh ádaat'éii nídaaʼ, ndi díí app bee ałtsoʼ ałnáanii naaltsoos bikʼeh bee photo ałtsoʼ dah nídaaʼ. Díí app bee account, ads dooda score bąąh dooda. Bee ałtsoʼ ndi nááhoot'éé wiifi bąąh dooda."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Díí game bee app ałtsoʼ bee nááhoot'éé ánaaʼ?",
+      "a": "Díí game bee dooda. Golden Moments app bee iPhone, iPad dooda Android bee ałtsoʼ bąąh ádaat'éii, ndi díí app bee ałtsoʼ ałnáanii naaltsoos bikʼeh bee photo ałtsoʼ dah nídaaʼ, ndi wiifi bąąh dooda nááhoot'éé. Díí game bee ałtsoʼ ałnáanii nááhoot'éé bee browser bikʼehgo bąąh nídaaʼ."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
+    "imageAlt": "{name}: ałtsoʼ bąąh ádaat'éii, bááh dah nídaaʼ naaltsoos",
+    "noscript": "Díí game bee JavaScript bee nááhoot'éé bee browser bikʼehgo bééhózin. Díí ałtsoʼ bąąh dooda bee ałtsoʼ nááhoot'éé.",
+    "about": "{name} bikʼehgo",
+    "aboutAria": "Díí game bikʼehgo",
+    "noTimer": "Timer dooda score bąąh dooda",
+    "printable": "Ádaa' bee nááhoot'éé",
+    "howTo": "{name} bee ałtsoʼ nááhoot'éé",
+    "tips": "Ałnáanii nááhoot'éé bee bááh ałtsoʼ",
+    "newToPlayingHtml": "Dementia bee ałtsoʼ nááhoot'éé bąąh? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, ndi ałtsoʼ bee ałnáanii nááhoot'éé, ndi nít'ááʼ ałtsoʼ bee nááhoot'éé nóółʼ.",
+    "moreAria": "Ałtsoʼ bee nídaaʼ",
+    "helpfulGuides": "Bééhózin bee bidaadáʼ",
+    "appTitle": "App bikʼehgo nááhoot'éé",
+    "appText": "Díí free Golden Moments app bee ałtsoʼ ałnáanii naaltsoos bikʼeh bee photo ałtsoʼ dah nídaaʼ, ndi wiifi bąąh dooda nááhoot'éé. iPhone, iPad dooda Android.",
+    "photoAppTitle": "Naaltsoos bikʼeh bééhózin",
+    "photoAppText": "Free Golden Moments app bikʼehgo, naaltsoos bee nídaaʼ bee ałtsoʼ bee nídaaʼ bee ałtsoʼ ádaat'éii, ndi games wiifi bąąh dooda nááhoot'éé. iPhone, iPad dooda Android.",
+    "goodToKnow": "Bee ałtsoʼ ádaat'éii",
+    "goodToKnowText": "Díí game bee yee' nááhojí dooda ałnáanii nááhoot'éé ałtsoʼ. Ałtsoʼ bąąh dooda bee nídaaʼ, dooda bee ałtsoʼ nídaaʼ.",
+    "moreGames": "Ałtsoʼ bee nítsʼóósgo games",
     "crumb": "Games"
   }
 }

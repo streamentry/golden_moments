@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pares de images",
+    "seoTitle": "Lude de parificar por dementia: Pares de images",
+    "h1": "Pares de images: un dulci lude de parificar",
+    "description": "Un gratuit e dulci lude de parificar por persones vivent con dementia. Grand images resta visibil, ne hay temporisator ni punte, e vu selecte inter 4 e 12 cartes.",
+    "short": "Trova li du images identic. Li images posse restar visibil.",
+    "players": "1 o 2 persones, un apu li altri",
+    "intro": "Tocca un image, e poy tocca ti quel acorda con it. Secun li costum li images resta visibil, dunc on ne deve memorar alquicos. Quande du images va junt, ili recive un borde aurin e un marca de aprobation.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Selecte quant cartes a usar. Quar cartes es un comensa quiet e comod.",
+      "Tocca quelcunc image. It recive un borde aurin.",
+      "Tocca li image quel sembla identic. Li par resta junt con un marca de aprobation.",
+      "Si li du images es diferent, nequi mal eveni. Tocca denov quande vu es pret.",
+      "Activa «Images celat» solmen si vu ambi prefere li classic version con cartes inversat."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Nomina li images altivocimen junt e babilie pri ili: «Un te-tasse rubi. Esque vu prende latte in vor te?»",
+      "Lassa li person de qui vu cura far li toccas, mem si it dura un poc témpor. Monstra con li digite vice toccar por le.",
+      "Resta con quar cartes tant long quam it sembla agreabil. Plu cartes es un option, nequande un nivelle a atinger.",
+      "Fini durant que it ancor fa plesura. Un singul lude es ja un activitá complet."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un temporisator o un punte?",
+        "a": "No. Ne hay horloge, punte, computator de moves ni defete. Vu posse haltar a omni moment, e haltar a demí-via es un perfetmen bon maniere de finir."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Pro quo li images resta visibil?",
+        "a": "Gardar li images visibil transmuta li lude a un spectar e acordar vice un memorar. Multi persones trova to plu quiet. Vu posse passar a images celat per un singul tocca si vu prefere."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Esque it es gratuit, e deve yo registrar me?",
+        "a": "Yes, it es gratuit, e ne hay conto, registration ni descarga. It functiona in li navigator web sur un telefon, un tablette o un computator."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Esque noi posse usar nor propri fotos de familie?",
+        "a": "Yes. Tenta Pares de fotos, quel permisse vos selecter fotos ex vor aparate. Li fotos resta in vor navigator e ne es cargat al retele."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Trova li sam",
+    "seoTitle": "Trova li sam image: un simplic lude por dementia",
+    "h1": "Trova li sam image",
+    "description": "Un image in alt, du til quar in bass. Tocca ti quel es identic. Un quiet e gratuit lude de images por persones vivent con dementia, sin temporisator.",
+    "short": "Regarda li image in alt e tocca ti identic in bass.",
+    "players": "1 o 2 persones",
+    "intro": "Un singul image trova se al somite del ecran. Infra it es du, tri o quar images. Tocca ti quel es identic. To es un sol simplic selection a un vez, con mult spacie por conversar.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Selecte du, tri o quar images por chouser. Du es li max simplic.",
+      "Regarda li image in alt junt.",
+      "Tocca li sam image in bass. It es marcat con un marca de aprobation e quelc calid paroles.",
+      "Si un diferent image es toccat, li lude simplimen nomina it e atende. Prende vor témpor.",
+      "Tocca «Sequent image» quande vu es pret por un altri."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Parla pri chascun image ante de selecter: colores, formes, u on vell posser vider it.",
+      "Du optiones ne es «tro facil». Li scope es un agreabil moment, ne un desfidie.",
+      "Si toccar es desfacil, li person posse monstrar con li digite e vu posse toccar in su loc."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un temporisator o un punte?",
+        "a": "No. Ne hay horloge, punte, computator de moves ni defete. Vu posse haltar a omni moment, e haltar a demí-via es un perfetmen bon maniere de finir."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Quo eveni si on tocca li fals image?",
+        "a": "Ne necós desagreabil. Ne hay sonori signal, cruce rubi ni tremblament. Li lude nomina li image quel esset toccat e atende li sequent tocca."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Esque it es gratuit, e deve yo registrar me?",
+        "a": "Yes, it es gratuit, e ne hay conto, registration ni descarga. It functiona in li navigator web sur un telefon, un tablette o un computator."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Acorda de ombres",
+    "seoTitle": "Lude de acordar ombres por dementia: gratuit in linea",
+    "h1": "Acorda de ombres: un dulci lude de images",
+    "description": "Un obscur ombre in alt, du til quar images in bass. Tocca li image quel crea li ombre. Un gratuit e quiet lude de acordar ombres por dementia, sin temporisator.",
+    "short": "Regarda li ombre e tocca li image quel crea it.",
+    "players": "1 o 2 persones",
+    "intro": "Acordar ombres es un activitá familiar ex imprimet folies de exercitie, ci con grand images e sin beson de imprimer. Un dulci ombre reposa al somite del ecran e du, tri o quar images atende in bass. Tocca ti quel crea li ombre. Formes quam un bicicle, un parapluvie o un te-tasse es anc facil por conversar.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Selecte du, tri o quar images por chouser. Du es li max simplic.",
+      "Regarda li ombre junt. Quel forme it have? Esque it es alt o rond?",
+      "Tocca li image quel crea li ombre. Su nómine apari sub li ombre.",
+      "Si un diferent image es toccat, li lude simplimen nomina it e atende. Prende vor témpor.",
+      "Tocca «Sequent ombre» quande vu es pret por un altri."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Seque li contur del ombre con un digite e parla pri li forme.",
+      "Si ombres sembla desfacil hodie, passa a Trova li sam, u li images sembla identic.",
+      "Parla pri li image pos que it es trovat: «Noi hat un tal parapluvie.»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un temporisator o un punte?",
+        "a": "No. Ne hay horloge, punte, computator de moves ni defete. Vu posse haltar a omni moment, e haltar a demí-via es un perfetmen bon maniere de finir."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Esque acoplar umbres es bon por persones vivent con dementia?",
+        "a": "It posse esser un agreabil e simplic activitá por alcun persones, precipue in li unesmi stadies. Formas es plu facil a reconosser quam paroles. It es por plesura e conversation, ne un prova, e it ne tracta ni ralentisa li dementia. Si it causa frustration, prova Trova li sam o simplicmen regarda images juntmen."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Quo eveni si on tucca li íncorect image?",
+        "a": "Necós desagreabil. Ne hay sonette, rubi cruce o tremblada. Li lude nómina li image quel esset tuccat e atende li proxim tuccada."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Esque it es gratuit, e esque yo deve inscrir me?",
+        "a": "Yes, it es gratuit, e ne hay conto, inscription ni descargada. It functiona in li navigator web sur un telefon, un tablete o un computator."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sortar juntmen",
+    "seoTitle": "Lude de sortation por dementia: Sortar juntmen",
+    "h1": "Sortar juntmen: un activitá de sortar images",
+    "description": "Tucca un image, e poy tucca li corb a quel it apartene: cuisine o jardin, fructes o animales. Un calmi e gratuit activitá de sortation por persones vivent con dementia.",
+    "short": "Mitte chascun image in su corb: cuisine o jardin, e plu.",
+    "players": "1 o 2 persones",
+    "intro": "Sortar es un taree cotidian familiari e satifatori, quam ordinar li provisias o acoplar caucetes. Tucca un image, e poy tucca li corb a quel it apartene. Ne hay pressa e null íncorect passu.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Selecte un tema: cuisine e jardin, fructes e animales, o hem e viages.",
+      "Tucca un image. It recive un aureat borde.",
+      "Tucca li corb a quel it apartene. Li image move se ad-in ti corb.",
+      "Si it apartene al altri corb, li lude di it dulcimen e atende.",
+      "Quande chascun image es sortat, regarda tra li corbes juntmen."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Sovente ne hay íncorect responses in li ver vive. Si un person di que un arrosator apartene al cuisine, questiona pro quo. Vu posse audir un bon raconta.",
+      "Usa li images quam tema de conversation: «Quo vu cultivat in vor jardin?»",
+      "Sortar real objectes, quam cocleares e furchettes o botones secun color, es un tre bon activitá for del ecran."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un temporisator o un punctuacion?",
+        "a": "No. Ne hay horloge, punctuacion, computator de moves ni defete. Vu posse haltar a omni moment, e haltar a medial via es un totmen bon maniere de finir."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Pro quo sortar?",
+        "a": "Multi persones ama sortar pro que it sembla un labor util e familiari. It es anc facil conversar pri li images durante li lude."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Esque it es gratuit, e esque yo deve inscrir me?",
+        "a": "Yes, it es gratuit, e ne hay conto, inscription ni descargada. It functiona in li navigator web sur un telefon, un tablete o un computator."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle de images",
+    "seoTitle": "Facil puzzle por dementia: 4 o 9 peces",
+    "h1": "Puzzle de images: un facil puzzle",
+    "description": "Un facil puzzle in linea por persones vivent con dementia: 4 o 9 grand peces, li complet image resta visibil, e on tucca du peces por permutar les.",
+    "short": "Tucca du peces por permutar les til que li image es complet.",
+    "players": "1 o 2 persones",
+    "intro": "Un agreabil image es decuplat in quar o nin grand peces e mixet. Li complet image resta visibil quam guide. Tucca un pece, e poy un altri, e ili permuta lor locs. Null traentation es besonat.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Selecte un image e 4 o 9 peces. Quar es un dulci comensa.",
+      "Regarda li complet image al somite.",
+      "Tucca un pece, e poy tucca li loc ú it deve ear. Li du peces permuta lor locs.",
+      "Peces in li corect loc recive un micri marca de controle.",
+      "Quande li image es complet, joya pri it juntmen, e poy selecte un altri."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tuccar du peces por permutar les es mult plu facil por multi persones quam traentar les.",
+      "Conversa pri li image durante que it complese se: «Ec li rubi téctite.»",
+      "Un real lignean puzzle con 12 a 24 grand peces es anc un bell activitá sur table."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un temporisator o un punctuacion?",
+        "a": "No. Ne hay horloge, punctuacion, computator de moves ni defete. Vu posse haltar a omni moment, e haltar a medial via es un totmen bon maniere de finir."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Esque yo deve traentar li peces?",
+        "a": "No. Tucca un pece, e poy tucca un altri, e ili permuta lor locs. To es plu facil con un tremblant manu o sur un micri ecran."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Esque it es gratuit, e esque yo deve inscrir me?",
+        "a": "Yes, it es gratuit, e ne hay conto, inscription ni descargada. It functiona in li navigator web sur un telefon, un tablete o un computator."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Completer li proverbio",
+    "seoTitle": "Completer li proverbio: Lude de proverbies por seniores",
+    "h1": "Completer li proverbio",
+    "description": "Familiari proverbies con li ultim parol mancant, quam «Un centime sparnat es un centime ___». Tucca un selection o monstra li fin, e poy conversa pri it.",
+    "short": "Completer familiari proverbies juntmen, e poy conversar pri ili.",
+    "players": "1, 2 o un gruppe",
+    "intro": "Ancian proverbies es sovente bon conosset durante un tot vive. Chascun carte monstra un familiari proverbio con li ultim parol mancant, tri optiones, e un buton «Monstra li fin». Pos li fin, un dulci question incita a conversar.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lee li proverbio juntmen in alt voce.",
+      "Tucca li parol quel fini it, o tucca «Monstra li fin».",
+      "Lee li complet proverbio denov e conversa pri it con li tema proposit.",
+      "Tucca «Proxim proverbio» quande vu es pret."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lee lentimen e fa un pause ante li ultim parol. Sovente li persones di it ante que vu fini.",
+      "Si un person da un altri fin, joya pri it. Alcun versiones de proverbies varia secun familie o region.",
+      "In un gruppe, un person lee e omnes juntmen pronuncia li fin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un temporisator o un punctuacion?",
+        "a": "No. Ne hay horlogio, punctage, computator de moves o perder. Vu posse haltar a omni moment, e haltar a demi-via es un bon maniere de finir."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Quo si noi selecte un altri parol?",
+        "a": "Li lude monstra li costumat fin e continua vers li conversation. Ne hay punctage, e un altri response es totmen acceptabil."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Es it gratuit, e deve yo registrar me?",
+        "a": "Yes, it es gratuit, e ne hay conto, registration o descargament. It functiona in li navigator web sur un telefon, un tablete o un computator."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Sercha de paroles con grand lítteres",
+    "seoTitle": "Sercha de paroles in grand lítteres por persones con dementia, imprimibil",
+    "h1": "Sercha de paroles con grand lítteres",
+    "description": "Un gratuit sercha de paroles con grand lítteres por seniores e persones con dementia. Póc paroles, grand lítteres, paroles solmen horizontal e vertical. Lude online o imprima it.",
+    "short": "Grand lítteres, póc paroles, solmen horizontal e vertical. Imprima it anc.",
+    "players": "1 o 2 persones",
+    "intro": "Un micri grille con grand lítteres e solmen quelc paroles, omni leibil horizontalmen o verticalmen. Toca li prim líttere de un parol, pos to su ultim líttere. Prefere papere? Imprima un nov enigma con un sol tocca.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Selecte un tema e un grandore de grille.",
+      "Regarda li liste de paroles. Li paroles leter se horizontalmen (de levul a dextri) o verticalmen (de alt a bass).",
+      "Toca li prim líttere de un parol, pos to toca su ultim líttere.",
+      "Un trovat parol es marcat e barat sur li liste.",
+      "Toca «Imprimer ti enigma» por luder sur papere con un creyono o un feutre."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Monstra un parol sur li liste e sercha su prim líttere ensemble.",
+      "Sur papere, un marchiero fluorescent es plu facil a tener quam un creyono.",
+      "Parla pri li paroles del tema. Paroles pri fructes es un natural via vers recordas de recolta, panification o mercates."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un horlogio o un punctage?",
+        "a": "No. Ne hay horlogio, punctage, computator de moves o perder. Vu posse haltar a omni moment, e haltar a demi-via es un bon maniere de finir."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Esque yo posse imprimer li sercha de paroles?",
+        "a": "Yes. Toca «Imprimer ti enigma» por imprimer li actual grille in grand lítteres, con li liste de paroles sub it. Omni nov enigma es different."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Es it gratuit, e deve yo registrar me?",
+        "a": "Yes, it es gratuit, e ne hay conto, registration o descargament. It functiona in li navigator web sur un telefon, un tablete o un computator."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Págines por colorar",
+    "seoTitle": "Págines por colorar por persones adult con dementia (gratuit)",
+    "h1": "Págines por colorar",
+    "description": "Simplic págines por colorar por adultes con grand zonos: toca un color, pos to toca li pictura. Nequo desordinat, null fals colores, e omni págine posse esser imprimet gratuitmen.",
+    "short": "Toca un color, pos to un parte del pictura. Imprima anc li págines.",
+    "players": "1 o 2 persones",
+    "intro": "Págines con grand e simplic formes: un flore in un potte, un dom, un tasse de té, un papilion e un barca a veles. Toca un color, pos to toca un parte del pictura por plenar it. Ne hay fals colores.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Selecte un págine.",
+      "Toca un color. Chascun color have su nómine scrit sur it.",
+      "Toca un parte del pictura por plenar it con ti color.",
+      "Change vor opinion a omni moment per plenar it denov.",
+      "Toca «Imprimer ti págine» por un blanc págine a colorar con creyonos o feutres."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Proposi du colores vice li complet gruppe si far un selection sembla tro desfacil.",
+      "Arbores purpur e soles blu es tre bonvenit. Li scope es juir li colores, ne li exactitá.",
+      "Págines imprimet functiona bon con spess feutres o creyonos de cera, queles es plu facil a prender."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un horlogio o un punctage?",
+        "a": "No. Ne hay horlogio, punctage, computator de moves o perder. Vu posse haltar a omni moment, e haltar a demi-via es un bon maniere de finir."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Esque ti págines es tro infantin?",
+        "a": "Noi dessinat calmi, simplic objectes vice dessines animat, talmen que li págines conveni a adultes. Grand formes mantene li colorisation facil sin far it infantin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Es it gratuit, e deve yo registrar me?",
+        "a": "Yes, it es gratuit, e ne hay conto, registration o descargament. It functiona in li navigator web sur un telefon, un tablete o un computator."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Cartes de conversation",
+    "seoTitle": "Iniciatores de conversation por dementia: Cartes con images",
+    "h1": "Cartes de conversation",
+    "description": "Cartes con images con mansueti temas de conversation por persones con dementia: sin interogation, sin just responses. Usa sur li ecran o imprima li complet gruppe.",
+    "short": "Cartes con images e apert, mansueti questiones. Sin interogation.",
+    "players": "2 persones o un gruppe",
+    "intro": "Chascun carte combina un conosset pictura con un apert invitation a conversar, quam «Quel es vor preferet témpor meteorologic?» Ne hay just responses e nequo a memorar. Selecte un tema o misce omnes.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Selecte un tema, o mantene «Omni cartes».",
+      "Lete li question a alt voce e regarda li pictura ensemble.",
+      "Escuta, partiprende con vor propri response, e lassa li conversation cursar libermen.",
+      "Toca «Sequent carte» quande vu es pret, o resta con un carte tant longmen quam vu vole.",
+      "Toca «Imprimer omni cartes» por tiliar un gruppe sur papere."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Responde al question self anc. It sembla un conversation, ne un entrevista.",
+      "Seque li raconta, ne li factes. Si detallies changea, to es totmen bon.",
+      "Si un carte tucha un subjecte trist, reconosce li sentiment e passa mansuetmen a un altri carte."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Pro quo ne hay questiones «Esque vu memora…?»",
+        "a": "Questiones quel prova li memorie posse semblar un examen e causar perplexitá. Apert invitationes quam «Raconte me pri…» permisse a omnicun participar, quelcunc es li recordas."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Esque yo posse imprimer li cartes?",
+        "a": "Yes. «Imprimer omni cartes» imprima li complet gruppe in grand lítteres, pluri cartes per págine, pret a tiliar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Es it gratuit, e deve yo registrar me?",
+        "a": "Yes, it es gratuit, e hay ni conto, ni inscription, ni descarga. It functiona in li navigator web sur un telefon, tablete o computator."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Pares de fotos",
+    "seoTitle": "Crear un lude de apareament con fotos de familie",
+    "h1": "Pares de fotos: aparear vor propri fotos",
+    "description": "Transforma vor propri fotos de familie in un dulci lude de apareament. Selecte 2 til 6 fotos sur vor aparate; ili remane in vor navigator e nequam es cargat a un servitor.",
+    "short": "Selecte vor propri fotos e aparea les. Nequó es cargat.",
+    "players": "2 persones, costat a costat",
+    "intro": "Selecte du til six fotos de vor telefon, tablete o computator, e ili deveni un lude de apareament con images grand e clar. Li fotos es monstrat solmen intra ti-ci págine. Ili ne es cargat, gardat ni partit, e ili disapari quande vu clude li págine.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Toca «Selecter fotos» e selecte du til six fotos.",
+      "Chascun foto apari duvez. Toca un, poy toca su pare.",
+      "Parla pri chascun foto quande vu trova it.",
+      "Quande vu ha finit, clude li págine o toca «Efaciar fotos». Nequó es conservat."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Selecte clar fotos de cosas felici e familiar: un domestic animale, un jardin, un loc preferet, un die de nuptie.",
+      "Images de locs e de obrectes posse esser plu facil quam visages, e ili evita omni pression de nominar persones.",
+      "Omisse fotos de persones qui ha morit si ili vell posser causar subitan tristetá, excepte si vu save que ili aporta reconfort."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Esque mi fotos es cargat ad unquocun loc?",
+        "a": "No. Li págine leye li fotos que vu selecte directmen in vor navigator e monstra les sur vor ecran. Ili ne es inviat a noi ni a altri persones, e ili disapari quande vu clude o recarga li págine."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Esque hay un temporisator o punctuation?",
+        "a": "No. Hay ni horloge, ni punctus, ni contator de tornes, ni perde. Vu posse haltar a omni moment, e haltar a medial via es un totmen bon maniere de finir."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Esque yo posse conservar li lude por li proxim vez?",
+        "a": "Ne in li navigator, pro intention, por que nequó privat es gardat. Li gratuit application Golden Moments por iPhone e iPad posse conservar copies del fotos selectet sur vor aparate."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo con images",
+    "seoTitle": "Bingo con images por seniores vivent con dementia: imprimibil",
+    "h1": "Bingo con images por gruppes",
+    "description": "Gratuit bingo con images imprimibil por gruppes de curation e de seniores, con un grand clamator sur ecran. Grand images con paroles, 9 o 16 quadretes, sin beson de saver leyer.",
+    "short": "Cartas imprimibil de bingo con images e un clamator sur grand ecran por gruppes.",
+    "players": "Un gruppe de 2 til 30 persones",
+    "intro": "Li classic bingo con images in vice de numros, por que nequi besona leyer micri textu. Imprime un serie de cartas unic, poy utilisa li clamator sur ecran por monstrar chascun image in grand dimension sur un television, computator portatil o tablete.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Selecte 9 o 16 quadretes por carta e li númere de jocatores.",
+      "Toca «Imprimer cartas». Chascun carta es diferent.",
+      "Aperte li clamator sur un grand ecran. Toca «Proxim image» por monstrar chascun image con su nómine.",
+      "Li jocatores covri li image corespondent sur lor carta con un monete, buton o marca.",
+      "Chascun qui completa un linea, o li tot carta, recive aplaudiment. Hay ni perdetores in ti-ci version: continua luder til que omni persones have un linea."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Utilisa grand jetones quam jetones de dames o tapes de botele. Micri butones posse esser desfacil a prender.",
+      "Nomina li image e di alquel cose pri it: «Un veliere. Qui ha ja esset sur un barca?»",
+      "Sede li persones con desfacilitás visual plu proxim al ecran, e asocia auxiliatores con jocatores qui besona les.",
+      "Noy quadretes es sat mult por li pluparte del gruppes. Mantenete li sesion circum 20 til 30 minutes."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Qualmen organisar li bingo con images in un hem de residentia por seniores?",
+        "a": "Imprime un carta por chascun jocator, mitte li clamator sur li max grand ecran disponibil, e proclama li images lentmen, nominand chascun de ili. Lude til que omni persones have un linea, por que nequi es obliviat."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Esque it es gratuit a imprimer?",
+        "a": "Yes. Imprime tant cartas quam vu besona, tam sovente quam vu vole, por usu personal o de gruppe."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Esque on posse luder sin saver leyer?",
+        "a": "Yes. Chascun quadrete es un grand image, con su nómine sub it por tis qui ama li paroles."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Respiration calmi",
+    "seoTitle": "Un calmi pause de respiration por seniores e auxiliatores",
+    "h1": "Un calmi pause de respiration",
+    "description": "Un lent e tranquill pause de respiration a compartir: un dulci circul cresse e decresse durante six respirationes. Vu comensa it, e vu posse haltar a omni témpor.",
+    "short": "Un lent circul por respirar juntmen. Comensa e halta quande vu vole.",
+    "players": "1 o 2 persones",
+    "intro": "Quelvez li max bon activitá es un tranquill pause. Toca «Comensar», poy inspira durante que li circul cresse e expira durante que it decresse. Selecte un ritme plu lent o plu rapid. It ne es un tractament, solmen un paciosi moment a compartir.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sede comodmen costat a costat.",
+      "Selecte un ritme: lent o dulci.",
+      "Toca «Comensar». Inspira durante que li circul cresse, e expira durante que it decresse.",
+      "It halta per se pos six respirationes, o toca «Haltar» quande vu vole."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Tene li manus o posa un manu sur li bracie del persona si to es agreabil.",
+      "Nequam insiste. Si la persona prefere solmen regardar, to es totmen bon.",
+      "Si un person have problemas respiratori, respira normalmen e regarda simplicmen li circul. Consulta un medico pri omni sucie concernent li respiration."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Esque to es un medical exercicie de respiration?",
+        "a": "No. It es un simplic e facultativ pause por calmitá e companie. It ne es un tractament por anxietá o altri afecion. Parla con un medico pri omni sucie de sanitá."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Esque li circul move sin que yo comensa it?",
+        "a": "No. Nullicos move se til que vu tucha Start, e it cessa pos six respirationes o quande vu tucha Stop. Si vor aparate es configurat por reducter li moviment, li paroles changea sin que li circul cresce."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Es it gratuit, e deve yo registrar me?",
+        "a": "Yes, it es gratuit, e hay necun conto, registration o descarga. It functiona in li navigator web sur un telefon, tablette o computator."
       }
     ]
   }

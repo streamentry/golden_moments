@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lektez laute",
+      "stopReading": "Cesez lektar",
+      "region": "Ludo",
+      "restart": "Rikomencez",
+      "soundOn": "Milda soni aktiva",
+      "soundOff": "Milda soni neaktiva",
+      "done": "Finita por nun",
+      "feedbackQuestion": "Kad to helpis cadie?",
+      "feedbackYes": "Yes",
+      "feedbackNo": "Ne reale",
+      "feedbackThanks": "Dankon pro dicar to a ni."
+    },
+    "tile": {
+      "named": "{name}, plako {n}",
+      "hidden": "Celita imajo, plako {n}",
+      "withState": "{label}, {state}",
+      "matched": "Konkordanta",
+      "selected": "Selektita",
+      "picture": "Imajo",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Omna pari kune. Ludez itere o reposez.",
+      "photoPair": "Paro de foti, kune.",
+      "picturePair": "Du imaji de la {name|lower}, kune.",
+      "selected": "{name}. Nun trovez olua paro.",
+      "mismatch": "Prenez vua tempo. Tuchez imajo por durar.",
+      "mismatchNamed": "{a} e {b}. Prenez vua tempo. Tuchez imajo por durar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tuchez imajo, pose tuchez la konkordanta.",
+      "guidanceHidden": "Tuchez du plaki por inversigar oli. Serchez du sama.",
+      "restart": "Nova imaji",
+      "sizeLegend": "Quanta plaki",
+      "size": {
+        "one": "{n} plako",
+        "other": "{n} plaki"
+      },
+      "viewLegend": "Quale ludar",
+      "viewShowing": "Imaji videbla",
+      "viewHidden": "Celita imaji",
+      "playAgain": "Ludez itere kun nova imaji",
+      "talk": "Parolez pri la imaji kune"
+    },
+    "choose": {
+      "countLegend": "Quanta imaji",
+      "count": "{n} por selektar",
+      "thatOne": "Ita esas la {name|lower}. Prenez vua tempo."
+    },
+    "findTheSame": {
+      "guidance": "Regardez la imajo supre. Tuchez la sama infre.",
+      "yes": "Yes, la sama {name|lower}.",
+      "next": "Sequanta imajo"
+    },
+    "shadowMatch": {
+      "guidance": "Regardez la ombro supre. Tuchez la imajo qua kreas ol.",
+      "yes": "Yes, la {name|lower} kreas ita ombro.",
+      "next": "Sequanta ombro",
+      "shadowAlt": "Ombro por parigar",
+      "foundAlt": "La ombro de la {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tuchez imajo, pose tuchez la korbo a qua ol apartenas.",
+      "restart": "Nova imaji",
+      "themeLegend": "Temo",
+      "selected": "{name}. Nun tuchez la korbo en qua ol devas irar.",
+      "pickFirst": "Unesme tuchez imajo, pose tuchez korbo.",
+      "hint": "La {name|lower} povus irar aden \"{basket}\". Tuchez ita korbo por pozar ol ibe.",
+      "placed": "La {name|lower} esas en \"{basket}\".",
+      "sorted": "Omno esas ordigita. Regardez tra la korbi kune, o probez altra temo.",
+      "basket": {
+        "one": "Korbo {basket}, {count} imajo interne",
+        "other": "Korbo {basket}, {count} imaji interne"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tuchez un peco, pose tuchez altra. Oli kambias plasi.",
+      "restart": "Rimiksez itere",
+      "pictureLegend": "Imajo",
+      "pictures": {
+        "sailboat": "Seglobato",
+        "house": "Domo",
+        "balloon": "Balono",
+        "sunflower": "Sunfloro",
+        "lighthouse": "Faro",
+        "cat": "Kato"
+      },
+      "sizeLegend": "Peci",
+      "size": {
+        "one": "{n} peco",
+        "other": "{n} peci"
+      },
+      "pickedUp": "Peco prenita. Nun tuchez ube ol devas irar.",
+      "whole": "La {name|lower} esas itere integra. Selektez altra imajo kande vu deziras.",
+      "swapped": {
+        "one": "Kambiita. {correct} ek {total} peco esas en justa plaso.",
+        "other": "Kambiita. {correct} ek {total} peci esas en justa plaso."
+      },
+      "guideAlt": "La integra imajo: {name}",
+      "guideText": "Yen quale la imajo aspektas kande ol esas integra.",
+      "piece": "Peco en la {place}",
+      "pieceInPlace": ", en la justa plaso",
+      "piecePickedUp": ", prenita",
+      "places4": [
+        "supre sinistre",
+        "supre dextre",
+        "infre sinistre",
+        "infre dextre"
+      ],
+      "places9": [
+        "supre sinistre",
+        "supre centre",
+        "supre dextre",
+        "meze sinistre",
+        "centre",
+        "meze dextre",
+        "infre sinistre",
+        "infre centre",
+        "infre dextre"
+      ],
+      "done": "La imajo esas itere integra. Ludez itere o reposez.",
+      "playAgain": "Rimiksez itere"
+    },
+    "finishTheSaying": {
+      "guidance": "Lektez la dicajo kune, pose tuchez la vorto qua finas ol.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yes, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" anke funcionas. La kustumala dicajo finas per \"{end}\".",
+      "revealed": "La dicajo esas \"{start} {end}.\"",
+      "choicesLabel": "Selektez la lasta vorto",
+      "show": "Montrez la fino",
+      "talk": "Parolez pri to: ",
+      "next": "Sequanta dicajo"
+    },
+    "wordSearch": {
+      "guidance": "Vorti iras horizontale o vertikale. Tuchez la unesma litero di vorto, pose olua lasta litero.",
+      "restart": "Nova enigmo",
+      "themeLegend": "Temo",
+      "sizeLegend": "Grandeso dil greto",
+      "size": {
+        "one": "{n} per {n} ({words} vorto)",
+        "other": "{n} per {n} ({words} vorti)"
+      },
+      "print": "Imprimez ca enigmo",
+      "letterChosen": "Litero {letter} selektita. Nun tuchez la lasta litero dil vorto.",
+      "found": "{word} trovita.",
+      "foundAll": "{word} trovita. To esas omna vorti. Ludez itere o reposez.",
+      "tryAgain": "Prenez vua tempo. Tuchez la unesma litero di vorto, pose olua lasta litero.",
+      "gridLabel": "Greto de literi, {n} linei de {n} literi. Uzez la flecho-klavi por movar inter literi.",
+      "cell": "{letter}, lineo {row}, kolono {col}",
+      "cellFound": ", parto di trovita vorto",
+      "wordsHeading": "Vorti por trovar",
+      "wordFound": " (trovita)",
+      "sheetTitle": "Vortosercho: {theme}",
+      "sheetNote": "Vorti iras horizontale o vertikale.",
+      "unavailable": "Greto de literi ne konvenas a ca linguo, do la vortosercho ne esas ofertata hike. Probez la imajo-ludi vice to."
+    },
+    "coloring": {
+      "guidance": "Tuchez koloro, pose tuchez parto dil imajo.",
+      "restart": "Efacez la kolori",
+      "cleared": "La pagino esas itere blanka.",
+      "pageLegend": "Pagino",
+      "print": "Imprimez ca pagino",
+      "colorsLabel": "Kolori",
+      "paintChosen": "{paint} selektita.",
+      "painted": "{part} nun esas {paint|lower}.",
+      "artLabel": "{page}, {count} parti por kolorizar",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ne kolorizita",
+      "paints": {
+        "red": "Reda",
+        "orange": "Oranjea",
+        "yellow": "Flava",
+        "green": "Verda",
+        "blue": "Blua",
+        "purple": "Purpura",
+        "pink": "Rozea",
+        "brown": "Bruna",
+        "sky-blue": "Cielblua",
+        "cream": "Krema",
+        "gray": "Griza",
+        "white": "Blanka"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lektez la karto laute. Ne existas korekta respondi.",
+      "position": "Karto {n} ek {total}",
+      "themeLegend": "Temo",
+      "next": "Sequanta karto",
+      "previous": "Antea karto",
+      "print": "Imprimez omna karti",
+      "sheetTitle": "Konversado-karti"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Komencez per selektar vua foti.",
+      "guidance": "Tuchez foto, pose tuchez la konkordanta.",
+      "restart": "Rimiksez oli itere",
+      "intro": "**Selektez 2 til 6 foti** de ca aparato. Oli montresas nur sur ca pagino e nultempe sendesas o salvesas.",
+      "choose": "Selektar foti",
+      "chooseDifferent": "Selektar altra foti",
+      "clear": "Efacar foti",
+      "cleared": "Foti efacita de ca pagino.",
+      "atLeastTwo": "Voluntez selektar adminime du foti.",
+      "usingFirst": "Uzanta la unesma {max} foti.",
+      "skipped": {
+        "one": "{count} arkivo ne esis foto quan ni povas montrar.",
+        "other": "{count} arkivi ne esis foti quin ni povas montrar."
+      },
+      "playAgain": "Ludez itere kun ca foti",
+      "empty": "Vua foti aparos hike, singla dufoye."
+    },
+    "pictureBingo": {
+      "guidance": "Unesme imprimez la karti. Pose montrez ca anuncero sur la maxim granda skreno quan vu havas.",
+      "called": {
+        "one": "{name}. {called} ek {total} imajo anuncita.",
+        "other": "{name}. {called} ek {total} imaji anuncita."
+      },
+      "start": "Tuchez \"Sequanta imajo\" por anoncar la unesma imajo.",
+      "restart": "Komencez nova ludo",
+      "squaresLegend": "Quadreti sur singla karto",
+      "squares": "{n} quadreti ({side} per {side})",
+      "cardsLegend": "Quanta karti por imprimir",
+      "cards": {
+        "one": "{n} karto",
+        "other": "{n} karti"
+      },
+      "print": {
+        "one": "Imprimez {n} bingo-karto",
+        "other": "Imprimez {n} bingo-karti"
+      },
+      "ready": "Preta kande vu esas",
+      "next": "Sequanta imajo",
+      "allCalled": "Omna imaji esas anuncita",
+      "alreadyCalled": "Ja anuncita",
+      "sheetTitle": "Imajo-bingo · karto {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Enspirez dum ke la cirklo grandeskas, ed ekspirez dum ke ol mikreskas. Ol haltas ipsa pos sis respiri.",
+      "paceLegend": "Ritmo",
+      "paceSlow": "Lenta (5 sekundi po foyo)",
+      "paceGentle": "Trankvila (4 sekundi po foyo)",
+      "ready": "Preta kande vu volas",
+      "in": "Enspirez",
+      "hold": "Repozez",
+      "out": "Ekspirez",
+      "start": "Komencez",
+      "stop": "Haltez",
+      "started": "Komencita. Enspirez dum ke la cirklo grandeskas.",
+      "stopped": "Haltita.",
+      "finished": "To esis sis lenta respiri. Rikomencez kande vu volas."
+    }
+  },
+  "pictures": {
+    "teacup": "Teotaso",
+    "kettle": "Boliero",
+    "bread": "Bulo de pano",
+    "frying-pan": "Fritopelvo kun ovo",
+    "cake": "Kuko di naskodio",
+    "sunflower": "Sunfloro",
+    "tulip": "Tulipo reda",
+    "watering-can": "Irigilo",
+    "potted-plant": "Planto en poto",
+    "tree": "Arboro",
+    "bird": "Pekorubiero sur brancho",
+    "butterfly": "Papiliono",
+    "dog": "Hundo",
+    "cat": "Kato",
+    "fish": "Fisho ora",
+    "apple": "Pomo reda",
+    "pear": "Piro",
+    "strawberry": "Frago",
+    "banana": "Banano",
+    "lemon": "Citrono",
+    "cherries": "Cerizi",
+    "house": "Domo",
+    "lamp": "Lampo di tablo",
+    "armchair": "Foyelo",
+    "key": "Klefo anciena",
+    "umbrella": "Parapluvo",
+    "sailboat": "Seglobatelo",
+    "car": "Automobilo klasika",
+    "bicycle": "Biciklo",
+    "balloon": "Balono varmaera",
+    "lighthouse": "Faro",
+    "sun": "Suno",
+    "moon": "Luno e steli",
+    "teapot": "Tetiero",
+    "apple-pie": "Tarto de pomi",
+    "honey-jar": "Bokalo de mielo",
+    "boiled-egg": "Ovo en ovuyo",
+    "toaster": "Pan-rostilo",
+    "cheese": "Peco de fromajo",
+    "milk-jug": "Krucho di lakto",
+    "cupcake": "Kuketo",
+    "orange": "Oranjo",
+    "grapes": "Vitberi",
+    "watermelon": "Tranco de pasteko",
+    "pineapple": "Ananaso",
+    "peach": "Persiko",
+    "rose": "Rozo",
+    "daisies": "Margariti",
+    "mushroom": "Fungo",
+    "wheelbarrow": "Brueto",
+    "birdhouse": "Dometo por uceli",
+    "cactus": "Kaktuso en poto",
+    "acorn": "Glando",
+    "autumn-leaf": "Folio autunala",
+    "rabbit": "Kuniklo",
+    "duck": "Anado",
+    "hen": "Hanino",
+    "sheep": "Mutono",
+    "owl": "Strigo",
+    "ladybird": "Kokcinelo",
+    "snail": "Heliko",
+    "frog": "Rano",
+    "bee": "Abelo",
+    "clock": "Horlojo di kameno",
+    "vase-of-flowers": "Vazo kun flori",
+    "radio": "Radio anciena",
+    "books": "Amaso de libri",
+    "candle": "Kandelo",
+    "glasses": "Okulvitri por lektar",
+    "telephone": "Telefonilo",
+    "ball-of-wool": "Bulo de lano",
+    "straw-hat": "Chapelo kontre suno",
+    "train": "Vaportreno",
+    "bus": "Autobuso",
+    "airplane": "Aeroplano",
+    "suitcase": "Valizo",
+    "tractor": "Traktoro",
+    "rowing-boat": "Rembatelo",
+    "rainbow": "Arko-ciela",
+    "rain-cloud": "Pluvonubo",
+    "snowflake": "Nivofloko",
+    "kite": "Flugdrako",
+    "sunrise": "Sunolevo super la kolini"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frukto",
+          "words": [
+            "POMO",
+            "PIRO",
+            "PRUNO",
+            "FRAGO",
+            "FIGO",
+            "MELONO",
+            "ORANJO",
+            "BANANO",
+            "CERIZO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Gardeno",
+          "words": [
+            "ROZO",
+            "TULIPO",
+            "SEMINO",
+            "TERO",
+            "FOLIO",
+            "ARBORO",
+            "FLORO",
+            "LAGETO",
+            "ABELO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kuzino",
+          "words": [
+            "TASO",
+            "PANO",
+            "POTO",
+            "BOLO",
+            "TELERO",
+            "TEO",
+            "FORNO",
+            "FORKO",
+            "KUTELO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Vetero",
+          "words": [
+            "SUNO",
+            "PLUVO",
+            "NIVO",
+            "VENTO",
+            "NUBO",
+            "STORMO",
+            "NEBULO",
+            "GLACEO",
+            "FROSTO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animali",
+          "words": [
+            "HUNDO",
+            "KATO",
+            "UCELO",
+            "FISHO",
+            "KAVALO",
+            "BOVO",
+            "ANADO",
+            "KABRO",
+            "HANO"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Hemo",
+          "words": [
+            "PORTO",
+            "SEGO",
+            "LAMPO",
+            "LITO",
+            "TAPISO",
+            "TABLO",
+            "DOMO",
+            "MURO",
+            "KLEFO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Omna karti",
+        "food": "Manjajo",
+        "home": "Hemo",
+        "outdoors": "En libera aero",
+        "animals": "Animali",
+        "travel": "Voyajado",
+        "work": "Laboro e diletado",
+        "music": "Muziko e plezuro",
+        "seasons": "Sezoni"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kala odoro de la kuzino vu maxim prizas?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kala kuko vu selektus por festo?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Rakontez a me pri frukto-tarto o desero quan vu prizas."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Quale vu prizas drinkar vua teo o kafeo?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Quo igas matenmanjo vere bona?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ka vu koliis frukto direte de la planto?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Sukroza od acida: quan vu preferas?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kala manjajo havas por vu la saporo di somero?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Rakontez a me pri domo en qua vu prizis lojar."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ube esas vua maxim prizata loko por sidar e repozar?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Quon vu prizas facar dum quieta vespero?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kala trezoreto vu gardus en specala buxeto?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ken vu invitus por taso de teo?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Quon vu prizas facar dum pluvoza dio?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kala flori vu plantacus en gardeno?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Rakontez a me pri arboro o parko quan vu prizas."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Quo esas la maxim agrabla parto di esar en gardeno?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kala koloron di flori vu maxim prizas?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ka vu prizas havar planti en la domo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Quale esas por vu perfekta sunoza dio?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Rakontez a me pri hundo quan vu konocis."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kati o hundi, o nula de li? Quon vu prizas pri li?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kala uceli vu vidas od audas extere?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ka vu uafoye fishkaptis, o havis akvario?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kala esas la maxim bela animalo quan vu vidis?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Rakontez a me pri automobilo quan vu prizis."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ka vu preferus pasar dio che la plajo o che la monti?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Adube vu prizus irar por promenado?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Se vu povus flugar super irga loko, quo ol esus?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Rakontez pri voyajo quan vu prizis."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kala laboron vu prizis facar?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Pri kala diletado vu povus pasar hori?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Pri quo facita o reparita vu esis konocata?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Kala konsilo vu donus ad yuno qua komencas laborar?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kala muziko incitas vu frapetar per la pedi?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Quo igas festo vere agreabla?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kala kantisto vu prizas askoltar?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kala filmo o televizion-programo vu prizus rividar?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Quon vu maxim prizas pri la somero?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Quon vu prizas pri l'autuno?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Quo esas agrabla kozo facenda dum vintrala vespero?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kala esas la unesma signi di printempo por vu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nivo, pluvo o sunbrilo: quan vu preferas?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Floro en poto",
+          "regions": {
+            "sky": "Fundo",
+            "table": "Tablo",
+            "stem": "Tigo",
+            "leaf-left": "Sinistra folio",
+            "leaf-right": "Dextra folio",
+            "petal-1": "Petalo 1",
+            "petal-2": "Petalo 2",
+            "petal-3": "Petalo 3",
+            "petal-4": "Petalo 4",
+            "petal-5": "Petalo 5",
+            "petal-6": "Petalo 6",
+            "petal-7": "Petalo 7",
+            "petal-8": "Petalo 8",
+            "center": "Centro di la floro",
+            "pot": "Poto",
+            "pot-rim": "Bordo di la poto"
+          }
+        },
+        "house": {
+          "name": "Domo",
+          "regions": {
+            "sky": "Cielo",
+            "sun": "Suno",
+            "grass": "Herbo",
+            "chimney": "Kameno",
+            "walls": "Muri",
+            "roof": "Tegmento",
+            "door": "Porto",
+            "window-left": "Sinistra fenestro",
+            "window-right": "Dextra fenestro",
+            "path": "Voyeto"
+          }
+        },
+        "teacup": {
+          "name": "Teotaso",
+          "regions": {
+            "background": "Fundo",
+            "saucer": "Subtaso",
+            "handle": "Anso",
+            "cup": "Taso",
+            "band": "Strio sur la taso",
+            "tea": "Teo"
+          }
+        },
+        "butterfly": {
+          "name": "Papiliono",
+          "regions": {
+            "background": "Fundo",
+            "wing-top-left": "Supra sinistra alo",
+            "wing-top-right": "Supra dextra alo",
+            "wing-bottom-left": "Infra sinistra alo",
+            "wing-bottom-right": "Infra dextra alo",
+            "spot-left": "Makulo di sinistra alo",
+            "spot-right": "Makulo di dextra alo",
+            "body": "Korpo"
+          }
+        },
+        "sailboat": {
+          "name": "Seglobatelo",
+          "regions": {
+            "sky": "Cielo",
+            "sea": "Maro",
+            "sail-big": "Granda seglo",
+            "sail-small": "Mikra seglo",
+            "mast": "Masto",
+            "hull": "Batelo",
+            "flag": "Flago"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kuzino e gardeno",
+          "baskets": [
+            "En la koqueyo",
+            "En la gardeno"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frukti ed animali",
+          "baskets": [
+            "Frukti",
+            "Animali"
+          ]
+        },
+        "home-travel": {
+          "label": "Hemo e voyajo",
+          "baskets": [
+            "Heme",
+            "Extere"
+          ]
+        }
+      }
+    }
+  }
+}

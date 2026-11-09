@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Foto inde kəlanzani",
+    "seoTitle": "Bisa kəlanzani fando am hangalnzani yejina ro: Foto inde kəlanzani",
+    "h1": "Foto inde kəlanzani: Bisa hankaliye kəlanzani kalkaltəbero",
+    "description": "Bisa mehedə am hangalnzani yejina ro kəlanzani kalkaltəbe. Fotowa kurakura mbeji, loktu au lamba ba, kuru kuskuroti 4 har 12 kashiluwono.",
+    "short": "Fotowa inde kəlanzani kalkalladə fando. Fotowadə daji mbeji.",
+    "players": "Kam 1 au 2, kəlanzani kərawuro",
+    "intro": "Foto fal kəla taptə, daji foto kalkalnzadə kəla taptə. Fotowadə tərən daji mbeji, adəro awo fando baye. Sa fotowa inde kəlanzani fandiye ma, kəlanza kando zinabedə kuru alama bəlangabedə kowozin.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Kuskuroti awo ndagudo kashiluwonadə karratə. Kuskuroti diya (4) ngəlawa baditəro.",
+      "Foto ndasoniro kəla taptə. Kando zinabe kəlanza kowozin.",
+      "Foto kalkalnzadə kəla taptə. Kəlanzani fandiye ma alama bəlangabedə kəlanzan kowozin.",
+      "Fotowa indidə tuka kəlanzani kalkal baye ma, awo dibi ba. Loktu nyi karrəmman fotowadə kəla taptə.",
+      "\"Fotowa asirtə\" dəga kasatsəro waltəye ma, kəlanza daktə karrata ro kəla taptə."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Fotowadə sunzadə manatə kuru kəlanza mana: \"Kopi shayi kime. Nyi shayi nonobe kam mbejiya?\"",
+      "Kam nyi kurunəmdə shima kəla taptəgə, loktu ngəwu ye kowosa ma. Nyi muskowonzə təmbutə kəla taptənzəga.",
+      "Kuskuroti diya (4) lan kərəwono har loktu wando ngəla gənyiro. Kuskuroti ngəwu dəga karratəbe awo, bisaye kəladə gənyi.",
+      "Bisa kəladə ngəlaro dazəgə. Bisa fal nza kəlanzaro awo kuraduro."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Agogo au lamba hisawube mbejiya?",
+        "a": "A'a. Agogo, lamba, au bisalan baretə ba. Loktu ndasoniye daptəgə mbeji, kuru dawulan daptəgəro awo ngəla."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Afigəro fotowadə asirtanyi?",
+        "a": "Fotowadə tərən mbejiyadə bisadəga fando kuru kalkaltəro kalakcin, hangallan fando gənyi. Am ngəwuro adədə hankali. Nyi fotowa asirtəro waltə karrəm ma tap fal lan kalaktin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bisa mehediya, kuru su gərtə mbejiya?",
+        "a": "Aha, bisa mehe, kuru su gərtə au kakkadə tartə ba. Na'ura waya, tabulət au komfyutalan cittin."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Fotowa fatobewa baretə mbejiya?",
+        "a": "Aha. Foto inde kəlanzani fatobelan təmbutə, na'uranzəmman fotowadə kashiluwo. Fotowadə na'uranzəmlan kərawuro dəwandəzin."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Kalkalnzadə fando",
+    "seoTitle": "Foto kalkalnzadə fando: Bisa am hangalnzani yejina ro",
+    "h1": "Foto kalkalnzadə fando",
+    "description": "Foto fal cidinzən, kuru fotowa inde har diya cididəlan. Foto kalkalnzadə kəla taptə. Bisa hankaliye mehe am hangalnzani yejina ro, agogo ba.",
+    "short": "Foto kəladəlan kuru cididəlan kalkalnzadə kəla taptə.",
+    "players": "Kam 1 au 2",
+    "intro": "Foto fal kəladəlan mbeji. Cididəlan fotowa inde, yaskə au diya mbeji. Foto kalkalnzadə kəla taptə. Karratə gadi fal kəlanza mana ngəwu mbeji.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Fotowa inde, yaskə au diya kashiluwonadə karratə. Inde dəga ngəlawa.",
+      "Foto kəladəlan kərawuro kuruwono.",
+      "Foto cididəlan kalkalnzadə kəla taptə. Alama bəlangabedə kuru mana ngəladə tərən turozin.",
+      "Foto gade kəla taptiya ma, bisadə sunzə mana kuru kərawuro dəgazin. Hankalnzəmman lewono.",
+      "\"Foto gadedə\" kəla taptə sa wando gade karrəmman."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Foto ndasoniye kəla mana karratəro: launi, kəla, kuru na fando wando mbejiyadə.",
+      "Karratə indidə \"ngawa gənyi\". Karadədə loktu ngəla fando, bisa kasatsə gənyi.",
+      "Taptə də bibi ma, kamdə kəla təmbutə daji nyi kəla taptənzəga."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Agogo au lamba hisawube mbejiya?",
+        "a": "A'a. Agogo, lamba, au bisalan baretə ba. Loktu ndasoniye daptəgə mbeji, kuru dawulan daptəgəro awo ngəla."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Afi wazə foto gadedə kəla taptiya?",
+        "a": "Awo dibi ba. Beli alama kime au dərəktə ba. Bisadə foto taptənadə sunzə mana kuru kərawuro taptə gadero dəgazin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bisa mehediya, kuru su gərtə mbejiya?",
+        "a": "Aha, bisa mehe, kuru su gərtə au kakkadə tartə ba. Na'ura waya, tabulət au komfyutalan cittin."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Shiddo kəlanzani",
+    "seoTitle": "Bisa shiddo kəlanzani am hangalnzani yejina ro: Mehe intanəslan",
+    "h1": "Shiddo kəlanzani: Bisa hankaliye fotobe",
+    "description": "Shiddo tullum kəladəlan, fotowa inde har diya cididəlan. Foto shiddo gəranadə kəla taptə. Bisa hankaliye mehe shiddo kəlanzanibe am hangalnzani yejina ro, agogo ba.",
+    "short": "Shiddodəga kuruwono kuru foto shiddo gəranadə kəla taptə.",
+    "players": "Kam 1 au 2",
+    "intro": "Shiddo kəlanzanidə awo kakkadəlan nowata, fotowa kurakura kuru awo tartə ba. Shiddo tullum kəladəlan mbeji kuru fotowa inde, yaskə au diya cididəlan dəgawono. Foto shiddo gəranadə kəla taptə. Kakkadəwa basikur, kashashuwa au kopi shayi kəlanza mana ngəladu.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Fotowa inde, yaskə au diya kashiluwonadə karratə. Inde dəga ngəlawa.",
+      "Shiddodə kərawuro kuruwono. Kəlanzadə afigəro? Kura au tullun?",
+      "Foto shiddo gəranadə kəla taptə. Sunzədə shiddodə cidinzən tərən turozin.",
+      "Foto gade kəla taptiya ma, bisadə sunzə mana kuru kərawuro dəgazin. Hankalnzəmman lewono.",
+      "\"Shiddo gadedə\" kəla taptə sa wando gade karrəmman."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Shiddodə kəlanza muskolan kəlatə kuru kəlanzadə kəla mana.",
+      "Shiddodə bibiro təwandin kwaya, Kalkalnzadə fandoro waltə, fotowadə kəlanzani kalkalla.",
+      "Foto fandiye ma kəlanza mana: \"Andaye kashashu adəga mbejiye kura.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Agogo au lamba hisawube mbejiya?",
+        "a": "A'a. Agogo, lamba, au bisalan baretə ba. Loktu ndasoniye daptəgə mbeji, kuru dawulan daptəgəro awo ngəla."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Biske yille kəllatəbe am hangalnza tədənawaro ngəla ba?",
+        "a": "Shi cida kəji kuru kəmbuliro kəla am laaro waljin, musammoman kəndawu burotəben. Suro hoto kərawatəye manawa kərawatəro kəmbuli. Shi nəm-kəji kuru mana kəltəro, jarrabtə gənyi, kuru nəm-kutu hangalbetə kəljinba awo basjinba. Kaduwa kutturo waljiya, Awo kalkal matə kuron, awo hotowa kəla kalak kəlanzalan kuron."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hoto kalkal gənyi taptiya afi wajin?",
+        "a": "Awo laa kutturo waljinba. Karaye, katim kime awowa yaktə bā. Biskede sunzə hoto taptənadəye manajin kuru tapkuro taganajin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kərəwa ba, kuru kəlanyi kəskəro curo gənatə dawartə ba?",
+        "a": "Iyo, kərəwa kuli, kuru lamba gənatə, kəlanyi bəlatə awowa katə bā. Taratara web lan waya, tablet awo komfuta lan cidajin."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Kəla fartə",
+    "seoTitle": "Biske Fartəbe am Hangalnza Tədənawaro: Kəla Fartə",
+    "h1": "Kəla Fartə: Cida Hoto Fartəbe",
+    "description": "Hoto tapnə, kuru kusulu shimanzəro kəllanə: kusugu awowa karangai, təmornza awowa dabbawa. Cida fartəbe kəjiri kuru kərəwabe am hangalnza tədənawaro.",
+    "short": "Hoto kura kura kusulu shimanzəro gənane: kusugu awowa karangai, kuru gadewa.",
+    "players": "Am 1 awowa 2",
+    "intro": "Fartətə cida kəji yim kəlabe, awo suro fatobetə fartə awo soksi kəllatəro kəla kalkal. Hoto tapnə, kuru kusulu shimazuro gənane. Nəm-kayi ba kuru dabu kutturo waljinba.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Kalo falan kowonə: kusugu kuru karangai, təmornza kuru dabbawa, awowa fātobe kuru nəm-lawa.",
+      "Hoto falan tapnə. Kaltə dinar fətojin.",
+      "Kusulu shimanzəro tapnə. Hotode kusulu shimadəro kaljin.",
+      "Kusulu gaderoben waljiya, biskede mananzə ngəlalan manajin kuru taganajin.",
+      "Hoto sammaso faltiya, kusuluwade kəla kalak kəlanzalan kuron."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Duniya adəlan dabu kalkal gənyi bawo ngəwuso. Kam laaye awo nji tusotəbedə kusuguro waljin sawaya, korone dalilnzə. Mana ngəla fanyiwon.",
+      "Hotowade mana fətəro faidatene: \"Afi karangai nəmyilan kətamin?\"",
+      "Awo fātobe ngəla fartətə, awo cuka kuru soksi awowa kəla kəlanzalan faltə, cida kəjiro kəla kwaye katəbero waljin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sa'a awowa lamba biskebetə mbeji ba?",
+        "a": "Bā. Sa'a, lamba, awo kəlatəye awowa daburo waljin bā. Sa'a sawaminben baksamin, kuru dəgəmbilan baksatə faltə kəjiro waljin."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Afigəro fartətə?",
+        "a": "Am ngəwuso fartətə kəjijin dalilnzə cida yim kəjinzetə sowa. Kuru hotowa kəla mana kəltə kəmbuli yim fartəben."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kərəwa ba, kuru kəlanyi kəskəro curo gənatə dawartə ba?",
+        "a": "Iyo, kərəwa kuli, kuru lamba gənatə, kəlanyi bəlatə awowa katə bā. Taratara web lan waya, tablet awo komfuta lan cidajin."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Biske hoto fasaltəbe",
+    "seoTitle": "Biske Fasaltəbe Kəmbuli am Hangalnza Tədənawaro: Kətələk 4 awowa 9",
+    "h1": "Biske Hoto Fasaltəbe: Biske Kəmbuli",
+    "description": "Biske intanetbe kəmbuli am hangalnza tədənawaro: kətələk kura kura 4 awowa 9, hoto sammaso təbandin, kuru kətələk indi tapmin falzumin.",
+    "short": "Kətələk indi tapne falzune har hoto sammade kəllajin.",
+    "players": "Am 1 awowa 2",
+    "intro": "Hoto ngəla kətələk 4 awowa 9 kura kuraro kəpsana kuru kəllana. Hoto sammade kəlanzan təbandin awo kuronye. Kətələk fal tapnə, kuru gadedə tapnə, nannza falzajin. Kalatə kəskəro dawartə ba.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Hoto fal kuru kətələk 4 awowa 9 kowonə. Fəte 4 lan kəmbuli.",
+      "Hoto sammade kəla kəlanzan kuron.",
+      "Kətələk fal tapnə, kuru dabu kaljinmadəro tapnə. Kətələk indidə falzajin.",
+      "Kətələk dabu kalkalbedə katim kəli laa təbandin.",
+      "Hoto sammade kalkaljiya, kəla kalak kəlanzalan kuron, kuru gadedə kowonə."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kətələk indi tapte falzətə kalatəro kəmbuli am ngəwuro.",
+      "Hoto kəllajinmadə kəla manatene: \"Dala kime mbeji yaye.\"",
+      "Biske yirbe kura kura kətələk 12 səta 24 ro cida tebulbe ngəla."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sa'a awowa lamba biskebetə mbeji ba?",
+        "a": "Bā. Sa'a, lamba, awo kəlatəye awowa daburo waljin bā. Sa'a sawaminben baksamin, kuru dəgəmbilan baksatə faltə kəjiro waljin."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Kətələkde kalatə dawartə ba?",
+        "a": "Bā. Kətələk fal tapnə, kuru gadedə tapnə, nannza falzajin. Adə musamman musko kutturo awowa waya gana lan kəmbuli."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kərəwa ba, kuru kəlanyi kəskəro curo gənatə dawartə ba?",
+        "a": "Iyo, kərəwa kuli, kuru lamba gənatə, kəlanyi bəlatə awowa katə bā. Taratara web lan waya, tablet awo komfuta lan cidajin."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Karangə təmowotə",
+    "seoTitle": "Karangə Təmowotə: Biske Karangəbe am Kurawaro",
+    "h1": "Karangə Təmowotə",
+    "description": "Karangəwa kura kura kalma darəyede bawo, awo \"Kalma ngəla shi ___\". Kowonə awowa darəyede fətəne, kuru kəlanzan manatene.",
+    "short": "Karangəwa kəla kalak təmowone, kuru kəlanzan manatene.",
+    "players": "1, 2 awowa jamā",
+    "intro": "Karangəwa kurawa amye kənji ngəla kəla kəlanzalan nowana. Karta kura kura karangə kalma darəyede bawo, awo kowotə yakkə, kuru butur \"Darəyede fətəne\" mbeji. Darəyedelan, koro ngəla mana kəltəro kadijin.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Karangəde kəla kalak kəlanzalan karangəye karone.",
+      "Kalma təmowotəmadedə tapne, awowa \"Darəyede fətəne\" tapne.",
+      "Karangə sammade karone kuru korodə lan manatene.",
+      "\"Karangə gade\" tapne sa'a sawaminben."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Kəjiro karone kuru darəyede gənyiro gana ganawa baksane. Amye darəyede sanin sa'a tədinba.",
+      "Kam laaye darəye gade suliya, kəjiyene. Karangə laawa fātowa awowa lardəbedə kəlanzan gadegade.",
+      "Jamālan, kam fal karojin kuru sammaso darəyeden kəllajin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sa'a awowa lamba biskebetə mbeji ba?",
+        "a": "A'a. Loktu, lamba, hisap au kəntawa bawo. Loktu rawa dən bultu mbeji, kuru dawuro daltəye shidoni kuro ngəla ro tamotəye."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ayi do kalma gade kalyiye ma?",
+        "a": "Biske ye tamowonzə ashirro kalaptin kuru manaro lejin. Lamba hisaptə ba, kuru kalma gade yitəye ngəla."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Shidoni ladu bawo, kuru sunyi kəskəro gənatə mbejiyawa?",
+        "a": "E, melemele ladu bawo, kuru sunyi gənatə au kakkaduro sətə bawo. Waya, tablət au kofuta lan intanət lajin."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Kalma matə harfu kurakura lan",
+    "seoTitle": "Kalma Matə Harfu Kurakura Am Kwasu Tətəgəyero, Takardaro Burtə",
+    "h1": "Kalma Matə Harfu Kurakura Lan",
+    "description": "Kalma matə melemele harfu kurakura lan am kurawa kwasu tətəgəye sətandənaro. Kalma gana, harfu kurakura, duliye fowon kuru dawalanno basi. Intanət lan bisketə au takardaro fərintitə.",
+    "short": "Harfu kurakura, kalma gana, duliye fowon kuru dawalanno basi. Takardaro burtə yaye mbeji.",
+    "players": "Kam 1 au 2",
+    "intro": "Tirantə gana harfu kurakura kəlan kuru kalma gana kəlan, fowon kuru dawalanno kəratəye basi. Kalma harfu burwotəye sapsə, daji harfu kərtəyeyi sapsə. Takarda ragawa? Biske bəlinto sapsə kuru fərinti wuro.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Biske kəlan mana kuru kura kuruwonzə kalyi.",
+      "Daptə kalmaye kuro guri. Kalma fowon (kəla kəmburo) au dawalanno (kəla kərtəro) kəratin.",
+      "Kalmaye harfu burwotəye sapsə, daji harfu kərtəyeyi sapsə.",
+      "Kalma sətandənaye shidoni fetiye kuru daptə kalmaye la koltin.",
+      "Takardaro bisketəro kalam au alkalamu lan, \"Biske adə fərinti wuro\" sapsə."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Daptə kalmaye la kalma kəlan musko gəna kuru harfu burwotəye kəlan sawa ro matə.",
+      "Takarda kəlan, kalam kura kəsatəye gərtəye alkalamu kəlaye kəljin.",
+      "Kalma biskeyero hawartə. Kəmbalye sunzə manatəye shidoni kəskawa taptə, buleti altə au kəsuwuro letə kəlan hankal tətəgəro kalwojin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sa'a loktuye au lamba mbejiyawa?",
+        "a": "A'a. Loktu, lamba, hisap au kəntawa bawo. Loktu rawa dən bultu mbeji, kuru dawuro daltəye shidoni kuro ngəla ro tamotəye."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Kalma matəye takardaro fərinti turo rakiyawa?",
+        "a": "E. Harfu kurakura lan takardaro fərinti turo kuru daptə kalmaye dawalan mbejiyero \"Biske adə fərinti wuro\" sapsə. Biske bəlinto wosoni gade gade."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Shidoni ladu bawo, kuru sunyi kəskəro gənatə mbejiyawa?",
+        "a": "E, melemele ladu bawo, kuru sunyi gənatə au kakkaduro sətə bawo. Waya, tablət au kofuta lan intanət lajin."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Takardawa launiro kalaptəye",
+    "seoTitle": "Takardawa Launiro Kalaptəye Am Kurawa Kwasu Tətəgəyero (Ladu Ba)",
+    "h1": "Takardawa Launiro Kalaptəye",
+    "description": "Takardawa launiro kalaptəye kəla kəlawa am kurawaye nasha kurakura kəlan: launi sapsə, daji foto sapsə. Kəske bawo, launi kəlkatə bawo, kuru takarda wosoni ladu ba takardaro fərinti turo mbeji.",
+    "short": "Launi sapsə, daji fotoye nasha la sapsə. Takardawa yaye fərinti wuro.",
+    "players": "Kam 1 au 2",
+    "intro": "Takardawa shidoni fasal kurakura kəlan: fur kuluwulan mbeji, fato, fiyala shaye, dabdaba kuru kulum bultu. Launi sapsə, daji fotoye nasha la sapsə kuru launi kalapi. Launi kəlkatə bawo.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Takarda la kalyi.",
+      "Launi sapsə. Launi wosoni sunzə kəlan ruwotəna.",
+      "Launi dən fotoye nasha la sapsə kuru launi təturo.",
+      "Loktu rawa dən kəranəm falliyi kuru launi gade kalapi.",
+      "Takarda fariro fərinti turo kuru alkalamu au kalam lan launiro kalaptəro \"Takarda adə fərinti wuro\" sapsə."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Kaltəye ngawu gərtəye kəlaye, launi sammaye kuro launi ndi basi kalyiro yiko.",
+      "Kəska alwasa kuru kəngal shiye ngəla. Adə kəlan launi kəskəltəro manajin, duli ngəlatəro gənyi.",
+      "Takardawa fərinti təna kəlan kalam kurakura au fenti kəlan biskeyetə ngəla, gərtəye kəljin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sa'a loktuye au lamba mbejiyawa?",
+        "a": "A'a. Loktu, lamba, hisap au kəntawa bawo. Loktu rawa dən bultu mbeji, kuru dawuro daltəye shidoni kuro ngəla ro tamotəye."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Takardawa adəye tatayero kuro kəskəuwa?",
+        "a": "Andiye karewa kalakalatə fafaro kuruwonye gənyi fotowa fannin, adəye am kurawaro gasajin. Fasal kurakura launiro kalaptəye kəljin kuru tatayero koljin ba."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Shidoni ladu bawo, kuru sunyi kəskəro gənatə mbejiyawa?",
+        "a": "E, melemele ladu bawo, kuru sunyi gənatə au kakkaduro sətə bawo. Waya, tablət au kofuta lan intanət lajin."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Katowa manaye",
+    "seoTitle": "Manaro Falanduro Katowa Fotoyelan Am Kwasu Tətəgəyero",
+    "h1": "Katowa Manaye",
+    "description": "Katowa fotoye kəlan manaro falanduro ngəla am kwasu tətəgəye sətandənaro: korotə kura ba, jawap sətandəna kəlkatə ba. Waya kəlan kəratə au sammazə takardaro fərinti turo mbeji.",
+    "short": "Katowa fotoye kəlan koro ngəlangəla manatəye. Koro kəska kəlatə bawo.",
+    "players": "Am 2 au jamawa",
+    "intro": "Kato wosoni foto noatəna mbeji kuru manaro kolyitə ngəla mbeji, futu \"Nyiya kəl kəndoye kani ayi do kalyi?\" Jawap kəlkatə bawo kuru awo tətəgəro matəye bawo. Mana la kalyi au sammazə kalapi.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Mana kuro kalyi, au \"Katowa samma\" kuro gənyi.",
+      "Koro dən kuliya kəla kuru foto dən sawa ro guri.",
+      "Kəskal kuro kəmo, jawapnəm yiko, kuru manaye ledəro kollo.",
+      "Loktu shawa ro kalyidən \"Kato fowoyendə\" sapsə, au kato tilon dən kəlan sawa ro dabuwo futu ragowon.",
+      "Takarda katowa sətandənaro shaptəro \"Katowa samma fərinti wuro\" sapsə."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Koro dən kəlan nyi kəlanzə yaye jawap yiko. Adəye mana ro kalwojin, korotə kura gənyi.",
+      "Hawar dən kuro kəno, awo zortə gənyi. Awo gana kuro fallitin yaye, shidoni ngəla.",
+      "Kato la hankal gənatə kəmburo zowon, awo kəlan tənambə dən kuro kəmo kuru gade kato kəlan kalyiro leko."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Afigəro koro \"Tətəgəmiya...?\" bawo?",
+        "a": "Koro awo tətəgətəye gurtəye jare kuro kalwojin kuru duli kəndoro kalwojin. Koro ngəla futu \"Kəlan wuro hawartə...\" sətəye kam samma manaro kalwojin, awo do tətəgənadən yayero."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Katowa dən takardaro fərinti turo rakiyawa?",
+        "a": "E. \"Katowa samma fərinti wuro\" sapsə kuru sammazə harfu kurakura lan fərinti tin, takarda tilon kəlan kato gana mbeji, shaptəro kəla."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Shidoni ladu bawo, kuru sunyi kəskəro gənatə mbejiyawa?",
+        "a": "Aa, ladə ba, kuru akawunti, sunyi kərutə au sabtə baji. Talafon, tabəlet au kwamfuta lan barawuza kəla yanaye lan cida sadin."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Hotowa indiro gartə",
+    "seoTitle": "Hotowa Fandobe lan Kasuwu Hotowa Gartəbe Tədə",
+    "h1": "Hotowa Indiro Gartə: Hotowa Nəmbe Gartə",
+    "description": "Hotowa fandondo be karrə hotowa indiro gartəbe nəmtutuu ro kalaktə. Kwamfuta au talafonndo lan hotowa 2 ro sa 6 ro gənyiye karrə; barawuzando lan dabin kuru fula ro kalaktinba.",
+    "short": "Hotondo karrə kuru sandiro gartə. Fula ro kalaktinba.",
+    "players": "Am 2, kowando kowalan",
+    "intro": "Talafonndo, tabəletndo au kwamfutando lan hotowa indi ro sa arakko ro karrə, kuru sandi kasuwu hotowa gartəbe hotowa kura-kura fəletəyin maro kalaktin. Hotowa də kəla faye adin kəlan fəletin. Fula ro gashitənba, kərutənba au am gaduro kalaktənba, kuru sa fa də kowamin də kwasotin.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Hotowa karrə\" də lan taptə kuru hotowa indi ro sa arakko ro karrə.",
+      "Hoto kəlanzo indi ro fəletin. Fal də lan taptə, kuru sandiro gartənaduro taptə.",
+      "Hoto də kuro fandin sa kəlan mana tədə.",
+      "Sa tamozawa də, faye də kowo au \"Hotowa bowatə\" də lan taptə. Awo fal yayi kəlan təttəba."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Hotowa fando nəmsobe kuru notənaye karrə: daba fando, kuli, daji sobe, kawu nəmkəmbube.",
+      "Hotowa njiwabe kuru awoawayebe də kəla fuwu ambelan gənyiye ngəla, kuru am sunza bowatəbe nəmkura sədinba.",
+      "Hotowa am nozaye nozawana bedə kowotə ngəla kəla nəmkutə kando səsəyero, sə ganyiro nəmkəji suwudinno nowuaro."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Hotowanyi fula gaduro kalaktimbawa?",
+        "a": "A'a. Faye adiye hotowa karrəmin də barawuzando lan fəletin kuru sikirinndo lan fəletin. Andiro au am gaduro kalaktinba, kuru sa fa də kowamin au waltəm kurumin də shiye kwasotin."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Loktu au lamba nəmngəlayebe mbarawa?",
+        "a": "A'a. Kogo, lamba nəmngəlayebe, kəla laktəbe au kənzəmbə baji. Loktu soben datəmin, kuru dawalan datə yayi awo ngəla tamowatəye."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Kasuwu də kəlanzən kərmaro kərutə fandinwa?",
+        "a": "Barawuza lan tədinba, adəye awo nəmbe kərutəyinba. Ap Golden Moments be kəla iPhone kuru iPad be ladə badeye fotowa karrəmin də talafonndo lan kərutə fando."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Hotowa bingo",
+    "seoTitle": "Hotowa Bingo Am Kura Hangalnzaye Kəlanzə Kalaktənaye: Chapətəye",
+    "h1": "Hotowa Bingo Majalisaro",
+    "description": "Hotowa bingo chapətəye ladə ba am kura hangal kərmubeye kuru majalisaro, kuru bowowu kura sikirin kəlan fəletin ma. Hotowa kura kəlan kalima so, dabil 9 au 16, karatə awo tədənba.",
+    "short": "Katiwa hotowa bingo chapətəye kuru bowowu sikirin kurabe majalisaro.",
+    "players": "Majalisa am 2 ro sa 30 ro",
+    "intro": "Bingo buroye kəlan hotowa lamba'a kəlantən, adəye kam fal yayi karatə ganado karajinba. Katiwa kəlanzaye chapəgə, kuru bowowu sikirin kəlan fəletin də kəlan hoto kura lan TV, komfuta au tabəlet lan fəle.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Dabil 9 au 16 kati kəlan karrə kuru am kasuwu sadin ma somi.",
+      "\"Katiwa chapə\" lan taptə. Kati kəlan gadegade.",
+      "Bowowu də sikirin kura lan kənji. \"Hoto fuwube\" lan taptə hoto'a sunzo'a fəlewuro.",
+      "Am kasuwu sadin ma hotonzo kati lan fandin də kurwo, anap, au tambari lan kəlan təwono.",
+      "Kam sərə fal au kati də samma tamosana də tawatə fandin. Kasuwu adilan kam kənzəmbənama ba: sawi kam samma sərə fal sətana koro kasuwu tədə."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Awoawaye kura kura kəlan təwosəye kurwo kura au kofur kalwoye gəna. Anap gana gana kəla kowatə kəji gənyi.",
+      "Hoto də su bowotə kuru awo laa kəlan mana tədə: \"Kogowa. Nyiye kəla kogowaye fəlemiya?\"",
+      "Am kəskari kərutəye ngəla gənyiye sikirin kowolan napkono, kuru am banaye am awo kando dəwa kowolan napkono.",
+      "Dabil ləgar am ngəwuro ngəla. Loktu də minti 20 ro sa 30 ro dabin."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Wuro hotowa bingo fando am kurawaye lan wuye kasuwu də yitagayekono?",
+        "a": "Kati fal kam fal ro chapə, bowowu də sikirin kura fando lan mbejiduro gəna, kuru hotowa nətəktə lan bowotə, hoto kəlan sunzo bowotə. Sawi kam samma sərə fal sətana koro tədə, adəye kam fal yayi kalaktinba."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Chapətə ladə bajiwa?",
+        "a": "Aa. Katiwa somi raami yayi chapə, sa sobi yayi, kəlando ro au majalisaro."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Am karatə ba kasuwu adə sadinwa?",
+        "a": "Aa. Dabil kəlan hoto kura mbeji, kuru cidi lan sunzo mbeji am kalima ro raana yero."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Yimbu nəmtəmbe",
+    "seoTitle": "Yimbu Nəmtəmbe Datə Am Kura kuru Am Kərəna Mayero",
+    "h1": "Yimbu Nəmtəmbe Datə",
+    "description": "Yimbu nəmtəmbe nətəktə kəlan sadin ma: dawuri nəmtutuu kura jin kuru gana jin yimbu arakko ro. Nyiye fəletəmin, kuru loktu raami yayi datəmin.",
+    "short": "Dawuri nətəktə kəlan yimbu tədən ma. Raami fəletə kuru datə.",
+    "players": "Kam 1 au 2",
+    "intro": "Loktu laa cida ngəla də nəmtutuu lan datə. \"Fəle\" lan taptə, kuru sa dawuri də kura jindo yimbu yiwusə kuru sa gana jindo yimbu fufusə. Nətəktə au kəji karrə. Adə kura kəskabe gənyi, nəmtutuu kəlanzan kando maro gəna.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Kowando kowalan nəmtutuu lan napkono.",
+      "Kəmbundo karrə: nətəktə au nəmtutuu.",
+      "\"Fəle\" lan taptə. Yimbu yiwusə sa dawuri də kura jindo, kuru yimbu fufusə sa gana jindo.",
+      "Kəlanzən yimbu arakko daji datin, au \"Daji\" lan taptə loktu raami yayi."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Musko kamdəye təgəna au musko muskonzə lan gəna raajia.",
+      "Kamro kəmbuli gəna nyi. Raajiya kəlan kərəjin də awo ngəla.",
+      "Kam laa yimbu lan kəskari sadia, yimbu kalkal lan tədə kuru dawuri də kərəjin. Likitaro yimbu kəskari kəlan mana tədə."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Adə cida likitaye yimbubewa?",
+        "a": "A'a. Adə datə nəmburwobe nəmtutuuro kuru kalanzan kandoro. Karaye au kəji ro kura kəskabe gənyi. Nəmlafiyando kəlan likita'a mana sadin."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Dawuri də kəlanzən kəlatəyimba wuye fəletəyinbaya?",
+        "a": "A'a. Awo laa cizənyin sai nyi Start təmtəro, kuru yiman arakkə ngawo ra nyi Stop təmtəro daazin. Kərəngə nauranəm cizətə gantəro gərtəna daji, manawa dən faltəjin kərwa dən kuratə baaro."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Shi kudiba wa, kuru su gərtə matana wa?",
+        "a": "Iye, shi kudiba, kuru akaun, su gərtə ra daulod ba. Shi web browser kəla waya, tebulet ra kompyuta lan cidajin."
       }
     ]
   }

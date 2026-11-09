@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Leger a voce alte",
+      "stopReading": "Cessar de leger",
+      "region": "Joco",
+      "restart": "Recommenciar",
+      "soundOn": "Sonos dulce activate",
+      "soundOff": "Sonos dulce deactivate",
+      "done": "Finite pro ora",
+      "feedbackQuestion": "Esseva isto utile hodie?",
+      "feedbackYes": "Si",
+      "feedbackNo": "Non vermente",
+      "feedbackThanks": "Gratias pro haber nos informate."
+    },
+    "tile": {
+      "named": "{name}, tegula {n}",
+      "hidden": "Imagine celate, tegula {n}",
+      "withState": "{label}, {state}",
+      "matched": "Associate",
+      "selected": "Seligite",
+      "picture": "Imagine",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Tote le pares es insimul. Joca de novo o prende un pausa.",
+      "photoPair": "Un par de fotos, insimul.",
+      "picturePair": "Duo imagines del {name|lower}, insimul.",
+      "selected": "{name}. Ora trova su par.",
+      "mismatch": "Prende vostre tempore. Tocca un imagine pro continuar.",
+      "mismatchNamed": "{a} e {b}. Prende vostre tempore. Tocca un imagine pro continuar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tocca un imagine, postea tocca illo que le corresponde.",
+      "guidanceHidden": "Tocca duo tegulas pro retornar los. Cerca duo que es identic.",
+      "restart": "Nove imagines",
+      "sizeLegend": "Quante tegulas",
+      "size": {
+        "one": "{n} tegula",
+        "other": "{n} tegulas"
+      },
+      "viewLegend": "Modo de joco",
+      "viewShowing": "Imagines visibile",
+      "viewHidden": "Imagines celate",
+      "playAgain": "Joca de novo con nove imagines",
+      "talk": "Conversa super le imagines insimul"
+    },
+    "choose": {
+      "countLegend": "Quante imagines",
+      "count": "{n} a eliger",
+      "thatOne": "Isto es le {name|lower}. Prende vostre tempore."
+    },
+    "findTheSame": {
+      "guidance": "Regarda le imagine in alto. Tocca le mesme imagine a basso.",
+      "yes": "Si, le mesme {name|lower}.",
+      "next": "Imagine sequente"
+    },
+    "shadowMatch": {
+      "guidance": "Regarda le umbra in alto. Tocca le imagine que la produce.",
+      "yes": "Si, le {name|lower} produce ille umbra.",
+      "next": "Umbra sequente",
+      "shadowAlt": "Un umbra a associar",
+      "foundAlt": "Le umbra del {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tocca un imagine, postea tocca le paniero ubi illo pertine.",
+      "restart": "Nove imagines",
+      "themeLegend": "Thema",
+      "selected": "{name}. Ora tocca le paniero ubi illo va.",
+      "pickFirst": "Primo tocca un imagine, postea tocca un paniero.",
+      "hint": "Le {name|lower} poterea ir in «{basket}». Tocca ille paniero pro poner lo ibi.",
+      "placed": "Le {name|lower} es in «{basket}».",
+      "sorted": "Toto es ordinate. Regarda le panieros insimul, o proba un altere thema.",
+      "basket": {
+        "one": "Paniero {basket}, {count} imagine a su interior",
+        "other": "Paniero {basket}, {count} imagines a su interior"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tocca un pecia, postea tocca un altere. Illos excambia de loco.",
+      "restart": "Remiscer de novo",
+      "pictureLegend": "Imagine",
+      "pictures": {
+        "sailboat": "Veliero",
+        "house": "Domo",
+        "balloon": "Balon",
+        "sunflower": "Girasol",
+        "lighthouse": "Pharo",
+        "cat": "Gatto"
+      },
+      "sizeLegend": "Pecias",
+      "size": {
+        "one": "{n} pecia",
+        "other": "{n} pecias"
+      },
+      "pickedUp": "Pecia prendite. Ora tocca ubi illo debe ir.",
+      "whole": "Le {name|lower} es complete de novo. Elige un altere imagine quando vos vole.",
+      "swapped": {
+        "one": "Excambiate. {correct} de {total} pecia es in su loco.",
+        "other": "Excambiate. {correct} de {total} pecias es in su loco."
+      },
+      "guideAlt": "Le imagine complete: {name}",
+      "guideText": "Ecce como le imagine se presenta quando illo es complete.",
+      "piece": "Pecia in le {place}",
+      "pieceInPlace": ", in le loco correcte",
+      "piecePickedUp": ", prendite",
+      "places4": [
+        "in alto a sinistra",
+        "in alto a dextra",
+        "a basso a sinistra",
+        "a basso a dextra"
+      ],
+      "places9": [
+        "in alto a sinistra",
+        "in alto al centro",
+        "in alto a dextra",
+        "al medio a sinistra",
+        "al centro",
+        "al medio a dextra",
+        "a basso a sinistra",
+        "a basso al centro",
+        "a basso a dextra"
+      ],
+      "done": "Le imagine es complete de novo. Joca de novo o prende un pausa.",
+      "playAgain": "Remiscer lo de novo"
+    },
+    "finishTheSaying": {
+      "guidance": "Lege le proverbio insimul, postea tocca le parola que lo completa.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Si, «{start} {end}.»",
+      "otherEnding": "«{word}» functiona anque. Le proverbio habitual fini con «{end}».",
+      "revealed": "Le proverbio es «{start} {end}.»",
+      "choicesLabel": "Elige le ultime parola",
+      "show": "Monstrar le fin",
+      "talk": "Conversa super isto: ",
+      "next": "Proverbio sequente"
+    },
+    "wordSearch": {
+      "guidance": "Le parolas va horizontalmente o verticalmente. Tocca le prime littera de un parola, postea su ultime littera.",
+      "restart": "Nove enigma",
+      "themeLegend": "Thema",
+      "sizeLegend": "Dimension del grillia",
+      "size": {
+        "one": "{n} per {n} ({words} parola)",
+        "other": "{n} per {n} ({words} parolas)"
+      },
+      "print": "Imprimer iste enigma",
+      "letterChosen": "Littera {letter} seligite. Ora tocca le ultime littera del parola.",
+      "found": "{word} trovate.",
+      "foundAll": "{word} trovate. Toto es trovate. Joca de novo o prende un pausa.",
+      "tryAgain": "Prende vostre tempore. Tocca le prime littera de un parola, postea su ultime littera.",
+      "gridLabel": "Grillia de litteras, {n} lineas de {n} litteras. Usa le flechas pro mover inter le litteras.",
+      "cell": "{letter}, linea {row}, columna {col}",
+      "cellFound": ", parte de un parola trovate",
+      "wordsHeading": "Parolas a trovar",
+      "wordFound": " (trovate)",
+      "sheetTitle": "Cerca de parolas: {theme}",
+      "sheetNote": "Le parolas va horizontalmente o verticalmente.",
+      "unavailable": "Un grillia de litteras non conveni a iste lingua, ergo le cerca de parolas non es offerite hic. Proba le jocos con imagines."
+    },
+    "coloring": {
+      "guidance": "Tocca un color, postea tocca un parte del imagine.",
+      "restart": "Deler le colores",
+      "cleared": "Le pagina es blanc de novo.",
+      "pageLegend": "Pagina",
+      "print": "Imprimer iste pagina",
+      "colorsLabel": "Colores",
+      "paintChosen": "{paint} seligite.",
+      "painted": "{part} es ora {paint|lower}.",
+      "artLabel": "{page}, {count} partes a colorar",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, non colorate",
+      "paints": {
+        "red": "Rubie",
+        "orange": "Orange",
+        "yellow": "Jalne",
+        "green": "Verde",
+        "blue": "Blau",
+        "purple": "Purpura",
+        "pink": "Rosa",
+        "brown": "Brun",
+        "sky-blue": "Azur celeste",
+        "cream": "Crema",
+        "gray": "Gris",
+        "white": "Blanc"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lege le carta a voce alte. Il non ha responsas juste o false.",
+      "position": "Carta {n} de {total}",
+      "themeLegend": "Thema",
+      "next": "Carta sequente",
+      "previous": "Carta precedente",
+      "print": "Imprimer tote le cartas",
+      "sheetTitle": "Cartas de conversation"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Comencia per eliger vostre fotos.",
+      "guidance": "Tocca un foto, postea tocca illo que le corresponde.",
+      "restart": "Remiscer los de novo",
+      "intro": "**Elige 2 a 6 fotos** de iste apparato. Illos es monstrate solmente in iste pagina e nunquam incargate o salvate.",
+      "choose": "Eliger fotos",
+      "chooseDifferent": "Eliger altere fotos",
+      "clear": "Deler fotos",
+      "cleared": "Fotos delite de iste pagina.",
+      "atLeastTwo": "Per favor elige al minus duo fotos.",
+      "usingFirst": "Usante le prime {max} fotos.",
+      "skipped": {
+        "one": "{count} archivo non esseva un foto que nos pote monstrar.",
+        "other": "{count} archivos non esseva fotos que nos pote monstrar."
+      },
+      "playAgain": "Joca de novo con iste fotos",
+      "empty": "Vostre fotos apparera hic, cata un duo vices."
+    },
+    "pictureBingo": {
+      "guidance": "Primo imprime le cartas. Postea monstra iste annunciator sur le plus grande schermo que vos ha.",
+      "called": {
+        "one": "{name}. {called} de {total} imagine annunciate.",
+        "other": "{name}. {called} de {total} imagines annunciate."
+      },
+      "start": "Tocca «Imagine sequente» pro annunciar le prime imagine.",
+      "restart": "Comenciar un nove joco",
+      "squaresLegend": "Quadratos sur cata carta",
+      "squares": "{n} quadratos ({side} per {side})",
+      "cardsLegend": "Quante cartas a imprimer",
+      "cards": {
+        "one": "{n} carta",
+        "other": "{n} cartas"
+      },
+      "print": {
+        "one": "Imprimer {n} carta de bingo",
+        "other": "Imprimer {n} cartas de bingo"
+      },
+      "ready": "Preste quando vos lo vole",
+      "next": "Imagine sequente",
+      "allCalled": "Cata imagine ha essite annunciate",
+      "alreadyCalled": "Jam annunciate",
+      "sheetTitle": "Bingo con imagines · carta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspira durante que le circulo cresce, e expira quando illo diminue. Illo cessa de se post sex respirationes.",
+      "paceLegend": "Rhythmo",
+      "paceSlow": "Lente (5 secundas in cata phase)",
+      "paceGentle": "Suave (4 secundas in cata phase)",
+      "ready": "Preste quando vos lo es",
+      "in": "Inspira",
+      "hold": "Pausa",
+      "out": "Expira",
+      "start": "Initiar",
+      "stop": "Arrestar",
+      "started": "Initiate. Inspira durante que le circulo cresce.",
+      "stopped": "Arrestate.",
+      "finished": "Isto esseva sex respirationes lente. Recomencia quando vos vole."
+    }
+  },
+  "pictures": {
+    "teacup": "Tassa de the",
+    "kettle": "Caldiera",
+    "bread": "Pan",
+    "frying-pan": "Patella con un ovo",
+    "cake": "Torta de anniversario",
+    "sunflower": "Girasol",
+    "tulip": "Tulipa rubie",
+    "watering-can": "Arrosatorio",
+    "potted-plant": "Planta in vaso",
+    "tree": "Arbore",
+    "bird": "Rubecula sur un ramo",
+    "butterfly": "Papilion",
+    "dog": "Can",
+    "cat": "Gatto",
+    "fish": "Pisce auree",
+    "apple": "Pomo rubie",
+    "pear": "Pira",
+    "strawberry": "Fraga",
+    "banana": "Banana",
+    "lemon": "Limon",
+    "cherries": "Ceresas",
+    "house": "Casa",
+    "lamp": "Lampa de tabula",
+    "armchair": "Poltrona",
+    "key": "Clave antique",
+    "umbrella": "Parapluvia",
+    "sailboat": "Barca a veles",
+    "car": "Automobile classic",
+    "bicycle": "Bicycletta",
+    "balloon": "Mongolfiera",
+    "lighthouse": "Pharo",
+    "sun": "Sol",
+    "moon": "Luna e stellas",
+    "teapot": "Theiera",
+    "apple-pie": "Torta de pomos",
+    "honey-jar": "Vaso de melle",
+    "boiled-egg": "Ovo in un coquetiero",
+    "toaster": "Tostator",
+    "cheese": "Portion de caseo",
+    "milk-jug": "Broc de lacte",
+    "cupcake": "Torta parve",
+    "orange": "Arange",
+    "grapes": "Racemo de uvas",
+    "watermelon": "Trancha de pasteca",
+    "pineapple": "Ananas",
+    "peach": "Persica",
+    "rose": "Rosa",
+    "daisies": "Margaritas",
+    "mushroom": "Fungo",
+    "wheelbarrow": "Carretta",
+    "birdhouse": "Nidatorio pro aves",
+    "cactus": "Cacto in un vaso",
+    "acorn": "Glande",
+    "autumn-leaf": "Folio autumnal",
+    "rabbit": "Conilio",
+    "duck": "Anate",
+    "hen": "Gallina",
+    "sheep": "Ove",
+    "owl": "Strige",
+    "ladybird": "Coccinella",
+    "snail": "Limace",
+    "frog": "Rana",
+    "bee": "Ape",
+    "clock": "Horologio de camino",
+    "vase-of-flowers": "Vaso de flores",
+    "radio": "Radio antique",
+    "books": "Pila de libros",
+    "candle": "Candela",
+    "glasses": "Lentes de lectura",
+    "telephone": "Telephono",
+    "ball-of-wool": "Pelotta de lana",
+    "straw-hat": "Cappello de sol",
+    "train": "Treno a vapor",
+    "bus": "Autobus",
+    "airplane": "Aeroplano",
+    "suitcase": "Valise",
+    "tractor": "Tractor",
+    "rowing-boat": "Barca a remos",
+    "rainbow": "Arco celestial",
+    "rain-cloud": "Nube de pluvia",
+    "snowflake": "Flocco de nive",
+    "kite": "Draco volante",
+    "sunrise": "Levata de sol super le collinas"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fructos",
+          "words": [
+            "POMO",
+            "PIRA",
+            "PRUNA",
+            "LIMON",
+            "UVA",
+            "MELON",
+            "FIGO",
+            "FRAGA",
+            "BANANA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jardino",
+          "words": [
+            "ROSA",
+            "TULIPA",
+            "SEME",
+            "TERRA",
+            "FOLIO",
+            "ARBORE",
+            "HERBA",
+            "FLOR",
+            "APE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cucina",
+          "words": [
+            "TASSA",
+            "PAN",
+            "THE",
+            "PLATTO",
+            "FORNO",
+            "POTTO",
+            "FORCA",
+            "LACTE",
+            "OVO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tempore",
+          "words": [
+            "SOL",
+            "PLUVIA",
+            "NIVE",
+            "VENTO",
+            "NUBE",
+            "NEBULA",
+            "CALOR",
+            "GLACIE",
+            "TRONO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animales",
+          "words": [
+            "CAN",
+            "GATTO",
+            "AVE",
+            "PISCE",
+            "EQUO",
+            "VACCA",
+            "ANATE",
+            "CAPRA",
+            "RANA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Casa",
+          "words": [
+            "PORTA",
+            "SEDIA",
+            "LAMPA",
+            "LECTO",
+            "TAPETE",
+            "SOFA",
+            "CLAVE",
+            "TABULA",
+            "MURO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tote le cartas",
+        "food": "Alimento",
+        "home": "Casa",
+        "outdoors": "Aere libere",
+        "animals": "Animales",
+        "travel": "Viages",
+        "work": "Travalio e passatempos",
+        "music": "Musica e amusamento",
+        "seasons": "Sasones"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Qual aroma de cocina vos place le plus?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Qual typo de torta vos seligerea pro un festa?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Conta me de un torta de fructos o de un dessert que vos ama."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Como vos prende vostre the o caffe?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Que face un vermente bon jentaculo?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ha vos unquam colligite fructos directemente del planta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dulce o acre: qual vos place le plus?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Qual alimento ha pro vos le gusto del estate?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Conta me de un casa ubi vos amava habitar."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ubi es vostre loco favorite pro seder e reposar?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Que vos place facer durante un vespere tranquille?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Qual tresor vos guardarea in un cassa special?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "A qui vos invitarea pro prender un tassa de the?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Que vos place facer durante un die de pluvia?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Qual flores vos plantarea in un jardino?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Conta me de un arbore o de un parco que vos place."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Que es lo que vos place le plus in un jardino?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Flores de qual color vos place le plus?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Vos place haber plantas in casa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Como esserea pro vos un die de sol perfecte?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Conta me de un can que vos ha cognoscite."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gattos o canes, o necun del duo? Que vos place in illos?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Qual aves vos vide o audi foras?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ha vos unquam piscate, o habite un aquario?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Qual es le animal le plus belle que vos ha vidite?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Conta me de un automobile que vos ha amate."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Prefere vos passar un die al plagia o in le montanias?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "A ubi vos placerea ir pro un excursion?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Si vos poterea volar super un loco, qual loco vos seligerea?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Conta me de un viage que vos ha appreciate."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Qual typo de travalio vos ha placite facer?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Qual es un passatempo al qual vos poterea dedicar horas?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Que es qualcosa que vos sapeva preparar o reparar ben?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Qual consilio vos darea a un persona juvene qui comencia a travaliar?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Qual typo de musica vos face haber desiro de batter le pede?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Que face un festa vermente bon?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Qual cantator o cantatrice vos place ascoltar?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Qual film o programma de television vos place revider?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Que vos place le plus durante le estate?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Que vos place in le autumno?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Que es un cosa confortabile a facer durante un vespere de hiberno?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Qual es le prime signos del primavera pro vos?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nive, pluvia o sol: qual vos prefere?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flor in un vaso",
+          "regions": {
+            "sky": "Fundo",
+            "table": "Tabula",
+            "stem": "Talle",
+            "leaf-left": "Folio sinistre",
+            "leaf-right": "Folio dextre",
+            "petal-1": "Petalo 1",
+            "petal-2": "Petalo 2",
+            "petal-3": "Petalo 3",
+            "petal-4": "Petalo 4",
+            "petal-5": "Petalo 5",
+            "petal-6": "Petalo 6",
+            "petal-7": "Petalo 7",
+            "petal-8": "Petalo 8",
+            "center": "Centro del flor",
+            "pot": "Vaso",
+            "pot-rim": "Bordo del vaso"
+          }
+        },
+        "house": {
+          "name": "Casa",
+          "regions": {
+            "sky": "Cielo",
+            "sun": "Sol",
+            "grass": "Herba",
+            "chimney": "Chiminea",
+            "walls": "Muros",
+            "roof": "Tecto",
+            "door": "Porta",
+            "window-left": "Fenestra sinistre",
+            "window-right": "Fenestra dextre",
+            "path": "Sentiero"
+          }
+        },
+        "teacup": {
+          "name": "Tassa de the",
+          "regions": {
+            "background": "Fundo",
+            "saucer": "Subtassa",
+            "handle": "Ansa",
+            "cup": "Tassa",
+            "band": "Banda sur le tassa",
+            "tea": "The"
+          }
+        },
+        "butterfly": {
+          "name": "Papilion",
+          "regions": {
+            "background": "Fundo",
+            "wing-top-left": "Ala superior sinistre",
+            "wing-top-right": "Ala superior dextre",
+            "wing-bottom-left": "Ala inferior sinistre",
+            "wing-bottom-right": "Ala inferior dextre",
+            "spot-left": "Macula del ala sinistre",
+            "spot-right": "Macula del ala dextre",
+            "body": "Corpore"
+          }
+        },
+        "sailboat": {
+          "name": "Barca a veles",
+          "regions": {
+            "sky": "Cielo",
+            "sea": "Mar",
+            "sail-big": "Vela grande",
+            "sail-small": "Vela parve",
+            "mast": "Masto",
+            "hull": "Barca",
+            "flag": "Bandiera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cucina e jardino",
+          "baskets": [
+            "In le cocina",
+            "In le jardin"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fructos e animales",
+          "baskets": [
+            "Fructos",
+            "Animales"
+          ]
+        },
+        "home-travel": {
+          "label": "Casa e viages",
+          "baskets": [
+            "A casa",
+            "Foras de casa"
+          ]
+        }
+      }
+    }
+  }
+}

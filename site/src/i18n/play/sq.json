@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lexo me zë",
+      "stopReading": "Ndalo leximin",
+      "region": "Loja",
+      "restart": "Fillo përsëri",
+      "soundOn": "Tingujt e butë të ndezur",
+      "soundOff": "Tingujt e butë të fikur",
+      "done": "Mbaro për tani",
+      "feedbackQuestion": "A ndihmoi kjo sot?",
+      "feedbackYes": "Po",
+      "feedbackNo": "Jo fare",
+      "feedbackThanks": "Faleminderit që na thoni."
+    },
+    "tile": {
+      "named": "{name}, pllaka {n}",
+      "hidden": "Figurë e fshehur, pllaka {n}",
+      "withState": "{label}, {state}",
+      "matched": "I përputhur",
+      "selected": "E zgjedhur",
+      "picture": "Figurë",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Të gjitha çiftet janë gjetur. Luani përsëri ose merrni një pushim.",
+      "photoPair": "Një çift fotografish, bashkë.",
+      "picturePair": "Dy figura: {name|lower}, bashkë.",
+      "selected": "{name}. Tani gjeni çiftin e tij.",
+      "mismatch": "Merrni kohën tuaj. Prekni një figurë për të vazhduar.",
+      "mismatchNamed": "{a} dhe {b}. Merrni kohën tuaj. Prekni një figurë për të vazhduar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Prekni një figurë, pastaj prekni atë që i përngjan.",
+      "guidanceHidden": "Prekni dy pllaka për t’i kthyer. Kërkoni dy të njëjta.",
+      "restart": "Figura të reja",
+      "sizeLegend": "Sa pllaka",
+      "size": {
+        "one": "{n} pllakë",
+        "other": "{n} pllaka"
+      },
+      "viewLegend": "Si luhet",
+      "viewShowing": "Figurat të shfaqura",
+      "viewHidden": "Figurat të fshehura",
+      "playAgain": "Luaj përsëri me figura të reja",
+      "talk": "Flisni bashkë për figurat"
+    },
+    "choose": {
+      "countLegend": "Sa figura",
+      "count": "{n} për të zgjedhur",
+      "thatOne": "Ajo është {name|lower}. Merrni kohën tuaj."
+    },
+    "findTheSame": {
+      "guidance": "Shikoni figurën lart. Prekni të njëjtën më poshtë.",
+      "yes": "Po, kjo është e njëjta: {name|lower}.",
+      "next": "Figura tjetër"
+    },
+    "shadowMatch": {
+      "guidance": "Shikoni hijen lart. Prekni figurën që e bën atë hije.",
+      "yes": "Po, ja: {name|lower}, që e bën atë hije.",
+      "next": "Hija tjetër",
+      "shadowAlt": "Një hije për t’u përputhur",
+      "foundAlt": "Hija: {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Prekni një figurë, pastaj prekni shportën ku i takon.",
+      "restart": "Figura të reja",
+      "themeLegend": "Tema",
+      "selected": "{name}. Tani prekni shportën ku shkon.",
+      "pickFirst": "Prekni së pari një figurë, pastaj një shportë.",
+      "hint": "{name|lower} mund të shkojë në „{basket}“. Prekni atë shportë për ta vendosur atje.",
+      "placed": "{name|lower} është në „{basket}“.",
+      "sorted": "Gjithçka është renditur. Shikoni shportat bashkë, ose provoni një temë tjetër.",
+      "basket": {
+        "one": "Shporta {basket}, {count} figurë brenda",
+        "other": "Shporta {basket}, {count} figura brenda"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Prekni një copë, pastaj prekni një tjetër. Ato ndërrojnë vendet.",
+      "restart": "Përziej përsëri",
+      "pictureLegend": "Figura",
+      "pictures": {
+        "sailboat": "Varkë me vela",
+        "house": "Shtëpi",
+        "balloon": "Balonë",
+        "sunflower": "Lulediell",
+        "lighthouse": "Far",
+        "cat": "Mace"
+      },
+      "sizeLegend": "Copat",
+      "size": {
+        "one": "{n} copë",
+        "other": "{n} copë"
+      },
+      "pickedUp": "Copa u mor. Tani prekni ku duhet të shkojë.",
+      "whole": "{name|lower}: figura është përsëri e plotë. Zgjidhni një tjetër kur të doni.",
+      "swapped": {
+        "one": "U ndërrua. {correct} nga {total} copë është në vendin e saj.",
+        "other": "U ndërrua. {correct} nga {total} copë janë në vendin e tyre."
+      },
+      "guideAlt": "Figura e plotë: {name}",
+      "guideText": "Kështu duket figura kur është e plotë.",
+      "piece": "Copa në {place}",
+      "pieceInPlace": ", në vendin e duhur",
+      "piecePickedUp": ", e marrë",
+      "places4": [
+        "lart majtas",
+        "lart djathtas",
+        "poshtë majtas",
+        "poshtë djathtas"
+      ],
+      "places9": [
+        "lart majtas",
+        "lart në mes",
+        "lart djathtas",
+        "mesi majtas",
+        "në qendër",
+        "mesi djathtas",
+        "poshtë majtas",
+        "poshtë në mes",
+        "poshtë djathtas"
+      ],
+      "done": "Figura është përsëri e plotë. Luani përsëri ose merrni një pushim.",
+      "playAgain": "Përzieni përsëri"
+    },
+    "finishTheSaying": {
+      "guidance": "Lexoni thënien bashkë, pastaj prekni fjalën që e mbyll.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Po, „{start} {end}.“",
+      "otherEnding": "„{word}“ është gjithashtu e saktë. Thënia e zakonshme mbaron me „{end}“.",
+      "revealed": "Thënia është „{start} {end}.“",
+      "choicesLabel": "Zgjidhni fjalën e fundit",
+      "show": "Shfaq fundin",
+      "talk": "Flisni për të: ",
+      "next": "Thënia tjetër"
+    },
+    "wordSearch": {
+      "guidance": "Fjalët shkojnë anash ose poshtë. Prekni shkronjën e parë të një fjale, pastaj shkronjën e fundit.",
+      "restart": "Enigmë e re",
+      "themeLegend": "Tema",
+      "sizeLegend": "Madhësia e rrjetës",
+      "size": {
+        "one": "{n} me {n} ({words} fjalë)",
+        "other": "{n} me {n} ({words} fjalë)"
+      },
+      "print": "Printo këtë enigmë",
+      "letterChosen": "Shkronja {letter} u zgjodh. Tani prekni shkronjën e fundit të fjalës.",
+      "found": "{word} u gjet.",
+      "foundAll": "{word} u gjet. Kjo është çdo fjalë. Luani përsëri ose merrni një pushim.",
+      "tryAgain": "Merrni kohën tuaj. Prekni shkronjën e parë të një fjale, pastaj shkronjën e fundit.",
+      "gridLabel": "Rrjeta e shkronjave, {n} rreshta me {n} shkronja. Përdorni shigjetat për të lëvizur mes shkronjave.",
+      "cell": "{letter}, rreshti {row}, kolona {col}",
+      "cellFound": ", pjesë e një fjale të gjetur",
+      "wordsHeading": "Fjalët për t’u gjetur",
+      "wordFound": " (gjetur)",
+      "sheetTitle": "Gjej fjalën: {theme}",
+      "sheetNote": "Fjalët shkojnë anash ose poshtë.",
+      "unavailable": "Një rrjetë shkronjash nuk i përshtatet kësaj gjuhe, prandaj gjetja e fjalëve nuk ofrohet këtu. Provoni lojërat me figura."
+    },
+    "coloring": {
+      "guidance": "Prekni një ngjyrë, pastaj prekni një pjesë të figurës.",
+      "restart": "Pastro ngjyrat",
+      "cleared": "Faqja është përsëri e bardhë.",
+      "pageLegend": "Faqja",
+      "print": "Printo këtë faqe",
+      "colorsLabel": "Ngjyrat",
+      "paintChosen": "{paint} u zgjodh.",
+      "painted": "{part} tani ka ngjyrë {paint|lower}.",
+      "artLabel": "{page}, {count} pjesë për t’u ngjyrosur",
+      "partPainted": "{part}, ngjyrë {paint|lower}",
+      "partBlank": "{part}, pa ngjyrë",
+      "paints": {
+        "red": "E kuqe",
+        "orange": "Portokalli",
+        "yellow": "E verdhë",
+        "green": "E gjelbër",
+        "blue": "Blu",
+        "purple": "Vjollcë",
+        "pink": "Rozë",
+        "brown": "Kafe",
+        "sky-blue": "Blu qielli",
+        "cream": "Krem",
+        "gray": "Gri",
+        "white": "E bardhë"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lexoni kartën me zë. Nuk ka përgjigje të sakta.",
+      "position": "Karta {n} nga {total}",
+      "themeLegend": "Tema",
+      "next": "Karta tjetër",
+      "previous": "Karta e mëparshme",
+      "print": "Printo të gjitha kartat",
+      "sheetTitle": "Karta bisede"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Filloni duke zgjedhur fotografitë tuaja.",
+      "guidance": "Prekni një foto, pastaj prekni atë që i përngjan.",
+      "restart": "Përzieni përsëri",
+      "intro": "**Zgjidhni 2 deri në 6 fotografi** nga kjo pajisje. Ato shfaqen vetëm në këtë faqe dhe nuk ngarkohen apo ruhen kurrë.",
+      "choose": "Zgjidhni fotografitë",
+      "chooseDifferent": "Zgjidhni fotografi të tjera",
+      "clear": "Hiq fotografitë",
+      "cleared": "Fotografitë u hoqën nga kjo faqe.",
+      "atLeastTwo": "Ju lutem zgjidhni të paktën dy fotografi.",
+      "usingFirst": "Përdoren {max} fotografitë e para.",
+      "skipped": {
+        "one": "{count} skedar nuk ishte një foto që mund ta shfaqim.",
+        "other": "{count} skedarë nuk ishin foto që mund t’i shfaqim."
+      },
+      "playAgain": "Luaj përsëri me këto fotografi",
+      "empty": "Fotografitë tuaja do të shfaqen këtu, secila dy herë."
+    },
+    "pictureBingo": {
+      "guidance": "Printoni kartelat më parë. Pastaj tregojeni thirrësin në ekranin më të madh që keni.",
+      "called": {
+        "one": "{name}. {called} nga {total} figurë e thirrur.",
+        "other": "{name}. {called} nga {total} figura të thirrura."
+      },
+      "start": "Prekni „Figura tjetër“ për të thirrur figurën e parë.",
+      "restart": "Nis një lojë të re",
+      "squaresLegend": "Katrorët në çdo kartelë",
+      "squares": "{n} katrorë ({side} me {side})",
+      "cardsLegend": "Sa kartela të printohen",
+      "cards": {
+        "one": "{n} kartelë",
+        "other": "{n} kartela"
+      },
+      "print": {
+        "one": "Printo {n} kartelë bingo",
+        "other": "Printo {n} kartela bingo"
+      },
+      "ready": "Gati kur të jeni ju",
+      "next": "Figura tjetër",
+      "allCalled": "Çdo figurë është thirrur",
+      "alreadyCalled": "Thirret tashmë",
+      "sheetTitle": "Bingo me figura · kartela {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Merrni frymë ndërsa rrethi zmadhohet, dhe nxirrni frymë ndërsa ai zvogëlohet. Ndalet vetë pas gjashtë frymëmarrjeve.",
+      "paceLegend": "Ritmi",
+      "paceSlow": "Ngadalë (5 sekonda secila anë)",
+      "paceGentle": "Me butësi (4 sekonda secila anë)",
+      "ready": "Gati kur të dëshironi",
+      "in": "Merrni frymë",
+      "hold": "Pushoni",
+      "out": "Nxirrni frymë",
+      "start": "Fillo",
+      "stop": "Ndalo",
+      "started": "Filluar. Merrni frymë ndërsa rrethi zmadhohet.",
+      "stopped": "U ndal.",
+      "finished": "Ishin gjashtë frymëmarrje të ngadalta. Filloni përsëri kurdo që dëshironi."
+    }
+  },
+  "pictures": {
+    "teacup": "Filxhan çaji",
+    "kettle": "Çajnik",
+    "bread": "Bukë",
+    "frying-pan": "Tigan me vezë",
+    "cake": "Tortë ditëlindjeje",
+    "sunflower": "Lule dielli",
+    "tulip": "Tulipan i kuq",
+    "watering-can": "Kanaçe për ujitje",
+    "potted-plant": "Bimë në vazo",
+    "tree": "Pemë",
+    "bird": "Zog në degë",
+    "butterfly": "Flutur",
+    "dog": "Qen",
+    "cat": "Mace",
+    "fish": "Peshk ari",
+    "apple": "Mollë e kuqe",
+    "pear": "Dardhë",
+    "strawberry": "Fragë",
+    "banana": "Banane",
+    "lemon": "Limon",
+    "cherries": "Qershi",
+    "house": "Shtëpi",
+    "lamp": "Llambë tavoline",
+    "armchair": "Kolltuk",
+    "key": "Çelës i vjetër",
+    "umbrella": "Çadër",
+    "sailboat": "Varkë me vela",
+    "car": "Makinë e vjetër",
+    "bicycle": "Biçikletë",
+    "balloon": "Balonë me ajër të nxehtë",
+    "lighthouse": "Far",
+    "sun": "Diell",
+    "moon": "Hëna dhe yjet",
+    "teapot": "Çajnik çaji",
+    "apple-pie": "Tortë me mollë",
+    "honey-jar": "Kavanoz mjalte",
+    "boiled-egg": "Vezë në kupë",
+    "toaster": "Tostjerë",
+    "cheese": "Copë djathë",
+    "milk-jug": "Kanaçe qumështi",
+    "cupcake": "Kek i vogël",
+    "orange": "Portokall",
+    "grapes": "Tufë rrushi",
+    "watermelon": "Fetë shalqi",
+    "pineapple": "Ananas",
+    "peach": "Pjeshkë",
+    "rose": "Trëndafil",
+    "daisies": "Margaritë",
+    "mushroom": "Kërpudhë",
+    "wheelbarrow": "Karrocë",
+    "birdhouse": "Shtëpi zogjsh",
+    "cactus": "Kaktus në vazo",
+    "acorn": "Ftua e lisit",
+    "autumn-leaf": "Gjethe vjeshte",
+    "rabbit": "Lepur",
+    "duck": "Rosë",
+    "hen": "Pulë",
+    "sheep": "Dele",
+    "owl": "Bufe",
+    "ladybird": "Mollëkuqe",
+    "snail": "Kërmill",
+    "frog": "Bretkosë",
+    "bee": "Bletë",
+    "clock": "Orë kamini",
+    "vase-of-flowers": "Vazo me lule",
+    "radio": "Radio e vjetër",
+    "books": "Pirg librash",
+    "candle": "Qiri",
+    "glasses": "Syze leximi",
+    "telephone": "Telefon",
+    "ball-of-wool": "Top leshi",
+    "straw-hat": "Kapelë dielli",
+    "train": "Tren me avull",
+    "bus": "Autobus",
+    "airplane": "Aeroplan",
+    "suitcase": "Valixhe",
+    "tractor": "Traktor",
+    "rowing-boat": "Varkë me rrema",
+    "rainbow": "Ylber",
+    "rain-cloud": "Re me shi",
+    "snowflake": "Flok bore",
+    "kite": "Kometë",
+    "sunrise": "Lindja e diellit mbi kodra"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCÇDEËFGHIKLMNOPRSTUVY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruta",
+          "words": [
+            "LIMON",
+            "FIK",
+            "KIWI",
+            "BANANE",
+            "PJEPËR",
+            "MANGO",
+            "ANANAS",
+            "DATËL",
+            "KOKOS"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Kopshti",
+          "words": [
+            "VARDE",
+            "FARË",
+            "TOKË",
+            "PEMË",
+            "BLETË",
+            "LULE",
+            "BAR",
+            "BOSTAN",
+            "FIDAN"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kuzhina",
+          "words": [
+            "KUPË",
+            "LUGË",
+            "BUKË",
+            "TAVA",
+            "ENÇ",
+            "PJATË",
+            "ÇAJ",
+            "PIRUNI",
+            "GOTA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Moti",
+          "words": [
+            "MJEGË",
+            "STUHI",
+            "BORË",
+            "ERA",
+            "VAPË",
+            "FTOHTË",
+            "BUTË",
+            "MOTI",
+            "VERË"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Kafshët",
+          "words": [
+            "QEN",
+            "MACE",
+            "ZOGU",
+            "KALI",
+            "LOPË",
+            "PATË",
+            "PULË",
+            "DELE",
+            "LEPUR"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Shtëpia",
+          "words": [
+            "DERË",
+            "KOLTUK",
+            "KREVAT",
+            "QILIM",
+            "DIVAN",
+            "ORË",
+            "BANAK",
+            "ÇELËS",
+            "LAMPË"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Të gjitha kartat",
+        "food": "Ushqimi",
+        "home": "Shtëpia",
+        "outdoors": "Në natyrë",
+        "animals": "Kafshët",
+        "travel": "Udhëtimet",
+        "work": "Puna dhe hobet",
+        "music": "Muzika dhe argëtimi",
+        "seasons": "Stinët"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Më tregoni cila është era juaj e preferuar nga kuzhina."
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Më tregoni çfarë lloj torte do të zgjidhnit për një festë."
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Më tregoni për një tortë ose ëmbëlsirë me fruta që ju pëlqen."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Më tregoni si ju pëlqen çaji ose kafeja."
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Më tregoni çfarë e bën një mëngjes me të vërtetë të mirë."
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Më tregoni nëse keni mbledhur ndonjëherë fruta direkt nga bima."
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Më tregoni nëse ju pëlqen më shumë e ëmbla apo e thartë."
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Më tregoni për një ushqim që ju kujton verën."
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Më tregoni për një shtëpi ku ju ka pëlqyer të jetoni."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Më tregoni cili është vendi juaj i preferuar për t'u ulur dhe çlodhur."
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Më tregoni si ju pëlqen të kaloni një mbrëmje të qetë."
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Më tregoni për një gjë të çmuar që do ta mbanit në një kuti të veçantë."
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Më tregoni kë do të ftonit për një filxhan çaj."
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Më tregoni çfarë ju pëlqen të bëni në një ditë me shi."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Më tregoni çfarë lulesh do të mbillnit në një kopsht."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Më tregoni për një pemë ose park që ju pëlqen."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Më tregoni cila është pjesa më e mirë e të qenit në kopsht."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Më tregoni cilat lule me ngjyrë ju pëlqejnë më shumë."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Më tregoni nëse ju pëlqen të keni bimë në shtëpi."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Më tregoni si e imagjinoni një ditë të përsosur me diell."
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Më tregoni për një qen që keni njohur."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Më tregoni për qentë ose macet, ose për asnjërin prej tyre, dhe çfarë ju pëlqen te ta."
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Më tregoni për zogjtë që shihni ose dëgjoni jashtë."
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Më tregoni nëse keni shkuar ndonjëherë për peshkim ose keni mbajtur një akuarium."
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Më tregoni për kafshën më të bukur që keni parë."
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Më tregoni për një makinë që ju ka pëlqyer."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Më tregoni nëse do të preferonit një ditë në plazh apo në male."
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Më tregoni ku do t'ju pëlqente të shkonit me biçikletë."
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Më tregoni mbi cilin vend do të fluturonit, nëse mund të zgjidhnit."
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Më tregoni për një udhëtim që ju ka pëlqyer."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Më tregoni për llojin e punës që ju ka pëlqyer ta bënit."
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Më tregoni për një hobi me të cilin mund të merreshit orë të tëra."
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Më tregoni për diçka që ishit i njohur për ta bërë ose riparuar."
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Më tregoni për një këshillë që do t'i jepnit një të riu që fillon punën."
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Më tregoni për llojin e muzikës që ju bën të dëshironi të trokitni me këmbë."
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Më tregoni çfarë e bën një festë me të vërtetë të mirë."
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Më tregoni për një këngëtar ose këngëtare që ju pëlqen të dëgjoni."
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Më tregoni për një film ose seri televizive që do ta shikonit përsëri."
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Më tregoni çfarë ju pëlqen më shumë te vera."
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Më tregoni çfarë ju pëlqen në vjeshtë."
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Më tregoni për diçka të ngrohtë që bëni në një mbrëmje dimri."
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Më tregoni cilat janë shenjat e para të pranverës për ju."
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Më tregoni nëse preferoni borën, shiun apo diellin."
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Lule në vazo",
+          "regions": {
+            "sky": "Sfondi",
+            "table": "Tavolina",
+            "stem": "Kërcelli",
+            "leaf-left": "Gjethja e majtë",
+            "leaf-right": "Gjethja e djathtë",
+            "petal-1": "Petali 1",
+            "petal-2": "Petali 2",
+            "petal-3": "Petali 3",
+            "petal-4": "Petali 4",
+            "petal-5": "Petali 5",
+            "petal-6": "Petali 6",
+            "petal-7": "Petali 7",
+            "petal-8": "Petali 8",
+            "center": "Qendra e lules",
+            "pot": "Vazoja",
+            "pot-rim": "Buza e vazos"
+          }
+        },
+        "house": {
+          "name": "Shtëpia",
+          "regions": {
+            "sky": "Qielli",
+            "sun": "Dielli",
+            "grass": "Bari",
+            "chimney": "Oxhaku",
+            "walls": "Muret",
+            "roof": "Çatia",
+            "door": "Dera",
+            "window-left": "Dritarja e majtë",
+            "window-right": "Dritarja e djathtë",
+            "path": "Shtegu"
+          }
+        },
+        "teacup": {
+          "name": "Filxhan çaji",
+          "regions": {
+            "background": "Sfondi",
+            "saucer": "Pjatica",
+            "handle": "Doreza",
+            "cup": "Filxhani",
+            "band": "Vija në filxhan",
+            "tea": "Çaji"
+          }
+        },
+        "butterfly": {
+          "name": "Flutur",
+          "regions": {
+            "background": "Sfondi",
+            "wing-top-left": "Krahu i sipërm i majtë",
+            "wing-top-right": "Krahu i sipërm i djathtë",
+            "wing-bottom-left": "Krahu i poshtëm i majtë",
+            "wing-bottom-right": "Krahu i poshtëm i djathtë",
+            "spot-left": "Njolla në krahun e majtë",
+            "spot-right": "Njolla në krahun e djathtë",
+            "body": "Trupi"
+          }
+        },
+        "sailboat": {
+          "name": "Varkë me vela",
+          "regions": {
+            "sky": "Qielli",
+            "sea": "Deti",
+            "sail-big": "Vela e madhe",
+            "sail-small": "Vela e vogël",
+            "mast": "Direku",
+            "hull": "Varka",
+            "flag": "Flamuri"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kuzhina dhe kopshti",
+          "baskets": [
+            "Në kuzhinë",
+            "Në kopsht"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruta dhe kafshë",
+          "baskets": [
+            "Fruta",
+            "Kafshë"
+          ]
+        },
+        "home-travel": {
+          "label": "Shtëpia dhe udhëtimi",
+          "baskets": [
+            "Në shtëpi",
+            "Jashtë shtëpisë"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Tânga na ndînga ya ngolo",
+      "stopReading": "Bika kutânga",
+      "region": "Nsaka",
+      "restart": "Yantika diaka",
+      "soundOn": "Tula makelele ya malembe",
+      "soundOff": "Katula makelele ya malembe",
+      "done": "Me fwana sambu na ntangu yayi",
+      "feedbackQuestion": "Keti dyambu yayi me sadisa bubu?",
+      "feedbackYes": "Ee",
+      "feedbackNo": "Ve mpenza",
+      "feedbackThanks": "Matondo na kusonga beto."
+    },
+    "tile": {
+      "named": "{name}, kitini {n}",
+      "hidden": "Kifwanisu ya me bumbana, kitini {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ya kufwana",
+      "selected": "Me solama",
+      "picture": "Kifwanisu",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Bipare nionso me vukana. Sakana diaka to baka pema.",
+      "photoPair": "Bafoto zole ya kufwana, kumosi.",
+      "picturePair": "Bifwanisu zole ya {name|lower}, kumosi.",
+      "selected": "{name}. Bubu yayi sosa ya zole ya kufwana na yo.",
+      "mismatch": "Baka ntangu na nge. Finika kifwanisu sambu na kulanda.",
+      "mismatchNamed": "{a} ti {b}. Baka ntangu na nge. Finika kifwanisu sambu na kulanda."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Finika kifwanisu mosi, na nima finika yina me fwana na yo.",
+      "guidanceHidden": "Finika bitini zole sambu na kubalula yo. Sosa bifwanisu zole ya mutindu mosi.",
+      "restart": "Bifwanisu ya mpa",
+      "sizeLegend": "Ntalu ya bitini",
+      "size": {
+        "one": "{n} kitini",
+        "other": "{n} bitini"
+      },
+      "viewLegend": "Mutindu ya kusakana",
+      "viewShowing": "Bifwanisu ke monika",
+      "viewHidden": "Bifwanisu ya me bumbana",
+      "playAgain": "Sakana diaka ti bifwanisu ya mpa",
+      "talk": "Solula sambu na bifwanisu kumosi"
+    },
+    "choose": {
+      "countLegend": "Ntalu ya bifwanisu",
+      "count": "{n} sambu na kupona",
+      "thatOne": "Yina kele {name|lower}. Baka ntangu na nge."
+    },
+    "findTheSame": {
+      "guidance": "Tala kifwanisu yina kele na zulu. Finika kifwanisu ya mutindu mosi na nsi.",
+      "yes": "Ee, {name|lower} ya mutindu mosi.",
+      "next": "Kifwanisu ya ke landa"
+    },
+    "shadowMatch": {
+      "guidance": "Tala kizunzudi yina kele na zulu. Finika kifwanisu yina ke sala yo.",
+      "yes": "Ee, {name|lower} ke sala kizunzudi yina.",
+      "next": "Kizunzudi ya ke landa",
+      "shadowAlt": "Kizunzudi ya kusosa ya kufwana na yo",
+      "foundAlt": "Kizunzudi ya {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Finika kifwanisu, na nima finika kitunga yina me fwana na yo.",
+      "restart": "Bifwanisu ya mpa",
+      "themeLegend": "Ntu-dyambu",
+      "selected": "{name}. Bubu yayi finika kitunga yina yo fwete kota.",
+      "pickFirst": "Ntete finika kifwanisu, na nima finika kitunga.",
+      "hint": "{name|lower} lenda kota na \"{basket}\". Finika kitunga yina sambu na kutula yo kuna.",
+      "placed": "{name|lower} kele na \"{basket}\".",
+      "sorted": "Bima nionso me kabwana mbote. Tala na bitunga kumosi, to meka ntu-dyambu ya nkaka.",
+      "basket": {
+        "one": "Kitunga ya {basket}, kifwanisu {count} na kati",
+        "other": "Kitunga ya {basket}, bifwanisu {count} na kati"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Finika kitini mosi, na nima finika ya nkaka. Yo ke sobana bisika.",
+      "restart": "Vukisa diaka",
+      "pictureLegend": "Kifwanisu",
+      "pictures": {
+        "sailboat": "Boti ya mpeve",
+        "house": "Nzo",
+        "balloon": "Balon",
+        "sunflower": "Mfolo ya ntangu",
+        "lighthouse": "Nzo ya mwinda",
+        "cat": "Niawu"
+      },
+      "sizeLegend": "Bitini",
+      "size": {
+        "one": "{n} kitini",
+        "other": "{n} bitini"
+      },
+      "pickedUp": "Kitini me bakama. Bubu yayi finika kisika yo fwete kwenda.",
+      "whole": "{name|lower} me vukana diaka ya mvimba. Pona kifwanisu ya nkaka na ntangu nionso ya nge me zola.",
+      "swapped": {
+        "one": "Me sobana. Kitini {correct} na kati ya {total} kele na kisika na yo.",
+        "other": "Me sobana. Bitini {correct} na kati ya {total} kele na bisika na yo."
+      },
+      "guideAlt": "Kifwanisu ya mvimba: {name}",
+      "guideText": "Yayi mutindu kifwanisu ke monikaka kana yo kele ya mvimba.",
+      "piece": "Kitini ya {place}",
+      "pieceInPlace": ", na kisika ya mbote",
+      "piecePickedUp": ", ya me bakama",
+      "places4": [
+        "zulu na diboko ya nkento",
+        "zulu na diboko ya bakala",
+        "nsi na diboko ya nkento",
+        "nsi na diboko ya bakala"
+      ],
+      "places9": [
+        "zulu na diboko ya nkento",
+        "zulu na kati-kati",
+        "zulu na diboko ya bakala",
+        "kati-kati na diboko ya nkento",
+        "kati-kati",
+        "kati-kati na diboko ya bakala",
+        "nsi na diboko ya nkento",
+        "nsi na kati-kati",
+        "nsi na diboko ya bakala"
+      ],
+      "done": "Kifwanisu me vukana diaka ya mvimba. Sakana diaka to baka pema.",
+      "playAgain": "Vukisa diaka"
+    },
+    "finishTheSaying": {
+      "guidance": "Tânga kingana kumosi, na nima finika ngogo yina ke sukisa yo.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ee, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" mpi lenda vanda mbote. Kansi kingana ya mbala mingi ke sukaka na \"{end}\".",
+      "revealed": "Kingana kele \"{start} {end}.\"",
+      "choicesLabel": "Pona ngogo ya nsuka",
+      "show": "Songa nsuka na yo",
+      "talk": "Solula sambu na yo: ",
+      "next": "Kingana ya ke landa"
+    },
+    "wordSearch": {
+      "guidance": "Bangogo ke kwendaka na lweka to na nsi. Finika soni ya ntete ya ngogo, na nima soni ya nsuka na yo.",
+      "restart": "Nsaka ya mpa",
+      "themeLegend": "Ntu-dyambu",
+      "sizeLegend": "Nene ya tablo",
+      "size": {
+        "one": "{n} na {n} (ngogo {words})",
+        "other": "{n} na {n} (bangogo {words})"
+      },
+      "print": "Nyata nsaka yayi",
+      "letterChosen": "Soni {letter} me solama. Bubu yayi finika soni ya nsuka ya ngogo.",
+      "found": "{word} me monana.",
+      "foundAll": "{word} me monana. Bangogo nionso me monana. Sakana diaka to baka pema.",
+      "tryAgain": "Baka ntangu na nge. Finika soni ya ntete ya ngogo, na nima soni ya nsuka na yo.",
+      "gridLabel": "Tablo ya bisoni, milôngâ {n} ya bisoni {n}. Sadila bafleshe sambu na kutambula na kati ya bisoni.",
+      "cell": "{letter}, mulôngâ {row}, kolone {col}",
+      "cellFound": ", kitini ya ngogo ya me monana",
+      "wordsHeading": "Bangogo ya kusosa",
+      "wordFound": " (me monana)",
+      "sheetTitle": "Kusosa bangogo: {theme}",
+      "sheetNote": "Bangogo ke kwendaka na lweka to na nsi.",
+      "unavailable": "Tablo ya bisoni me fwana ve sambu na ndînga yayi, yo yina nsaka ya kusosa bangogo kele ve awa. Meka bansaka ya bifwanisu na kisika na yo."
+    },
+    "coloring": {
+      "guidance": "Finika langi mosi, na nima finika kitini ya kifwanisu.",
+      "restart": "Katula balangi nionso",
+      "cleared": "Lupapula me vutuka mpamba.",
+      "pageLegend": "Lupapula",
+      "print": "Nyata lupapula yayi",
+      "colorsLabel": "Balangi",
+      "paintChosen": "Langi {paint} me solama.",
+      "painted": "{part} me kuma {paint|lower} bubu yayi.",
+      "artLabel": "{page}, bitini {count} sambu na kutula langi",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, me tula langi ve",
+      "paints": {
+        "red": "Mbwaki",
+        "orange": "Oranze",
+        "yellow": "Lubanzi",
+        "green": "Ya matiti",
+        "blue": "Ble",
+        "purple": "Viole",
+        "pink": "Rose",
+        "brown": "Ya ntoto",
+        "sky-blue": "Ble ya zulu",
+        "cream": "Krem",
+        "gray": "Putulu",
+        "white": "Mpembe"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Tânga kalati na ndînga ya ngolo. Mvutu ya mbi kele ve.",
+      "position": "Kalati {n} na kati ya {total}",
+      "themeLegend": "Ntu-dyambu",
+      "next": "Kalati ya ke landa",
+      "previous": "Kalati ya me luta",
+      "print": "Nyata bakalati nionso",
+      "sheetTitle": "Bakalati ya masolo"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Yantika na kupona bafoto na nge.",
+      "guidance": "Finika foto mosi, na nima finika yina me fwana na yo.",
+      "restart": "Vukisa yo diaka",
+      "intro": "**Pona bafoto 2 tii 6** na apareyi yayi. Yo ke monika kaka na lupapula yayi mpi yo ke kotisama ve ata fyoti na internet to kubumbama.",
+      "choose": "Pona bafoto",
+      "chooseDifferent": "Pona bafoto ya nkaka",
+      "clear": "Katula bafoto",
+      "cleared": "Bafoto me katuka na lupapula yayi.",
+      "atLeastTwo": "Pardo, pona ata bafoto zole.",
+      "usingFirst": "Ke sadila bafoto {max} ya ntete.",
+      "skipped": {
+        "one": "Fishe {count} vwandaka ve foto yina beto lenda songa.",
+        "other": "Bafishe {count} vwandaka ve bafoto yina beto lenda songa."
+      },
+      "playAgain": "Sakana diaka ti bafoto yayi",
+      "empty": "Bafoto na nge ta monika awa, konso foto mbala zole."
+    },
+    "pictureBingo": {
+      "guidance": "Nyata ntete bakalati. Na nima songa nsaka yayi na ekra ya kuluta nene yina nge kele na yo.",
+      "called": {
+        "one": "{name}. Kifwanisu {called} na kati ya {total} me bingama.",
+        "other": "{name}. Bifwanisu {called} na kati ya {total} me bingama."
+      },
+      "start": "Finika \"Kifwanisu ya ke landa\" sambu na kubinga kifwanisu ya ntete.",
+      "restart": "Yantika nsaka ya mpa",
+      "squaresLegend": "Bakare na konso kalati",
+      "squares": "Bakare {n} ({side} na {side})",
+      "cardsLegend": "Ntalu ya bakalati ya kunyata",
+      "cards": {
+        "one": "Kalati {n}",
+        "other": "Bakalati {n}"
+      },
+      "print": {
+        "one": "Nyata kalati {n} ya bingo",
+        "other": "Nyata bakalati {n} ya bingo"
+      },
+      "ready": "Beto me yilama kana nge me zola",
+      "next": "Kifwanisu ya ke landa",
+      "allCalled": "Bifwanisu nionso me bingama",
+      "alreadyCalled": "Me bingamaka dezia",
+      "sheetTitle": "Bingo ya bifwanisu · kalati {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Benda mupepe ntangu kizungidila ke na kuyela, mpe bimisa yo ntangu yo ke na kufiana. Yo ke telama yo mosi na nima ya kupema mbala sambanu.",
+      "paceLegend": "Ntinu",
+      "paceSlow": "Malembe (segondi 5 na konso lweka)",
+      "paceGentle": "Pima (segondi 4 na konso lweka)",
+      "ready": "Tuyilami ntangu nge me yilama",
+      "in": "Benda mupepe",
+      "hold": "Pema",
+      "out": "Bimisa mupepe",
+      "start": "Yantika",
+      "stop": "Telama",
+      "started": "Me yantika. Benda mupepe ntangu kizungidila ke yela.",
+      "stopped": "Me telama.",
+      "finished": "Yina vandaka kupema mbala sambanu na malembe. Yantika diaka ntangu yonso nge zola."
+    }
+  },
+  "pictures": {
+    "teacup": "Kopo ya ti",
+    "kettle": "Bwindi",
+    "bread": "Mampa",
+    "frying-pan": "Sapo ti diaki",
+    "cake": "Gato ya feti",
+    "sunflower": "Fulele ya ntangu",
+    "tulip": "Tilipe ya mbwaki",
+    "watering-can": "Kazware ya masa",
+    "potted-plant": "Nti na nzungu",
+    "tree": "Nti",
+    "bird": "Nuni na lutangu",
+    "butterfly": "Lumpemba",
+    "dog": "Mbwa",
+    "cat": "Pusi",
+    "fish": "Mbisi ya wolo",
+    "apple": "Pome ya mbwaki",
+    "pear": "Pwere",
+    "strawberry": "Frez",
+    "banana": "Dinkondo",
+    "lemon": "Ndimo",
+    "cherries": "Mbuma ya serize",
+    "house": "Nzo",
+    "lamp": "Mwinda ya meza",
+    "armchair": "Kiti ya nene",
+    "key": "Sabi ya ntama",
+    "umbrella": "Ndongala ya mvula",
+    "sailboat": "Bwato ya mupepe",
+    "car": "Mutuka ya ntama",
+    "bicycle": "Velo",
+    "balloon": "Balon ya nene ya mupepe",
+    "lighthouse": "Mwinda ya kalunga",
+    "sun": "Ntangu",
+    "moon": "Ngonda ti bambwetete",
+    "teapot": "Bwindi ya ti",
+    "apple-pie": "Gato ya bapome",
+    "honey-jar": "Mulangi ya bwiki",
+    "boiled-egg": "Diaki na kopo",
+    "toaster": "Masini ya mampa",
+    "cheese": "Fromaji",
+    "milk-jug": "Mulangi ya mabele",
+    "cupcake": "Gato ya fioti",
+    "orange": "Lilala",
+    "grapes": "Mbuma ya vinu",
+    "watermelon": "Pasteki",
+    "pineapple": "Nanasi",
+    "peach": "Pesi",
+    "rose": "Roze",
+    "daisies": "Bafulele ya mpembe",
+    "mushroom": "Bukoko",
+    "wheelbarrow": "Bruketi",
+    "birdhouse": "Nzo ya banuni",
+    "cactus": "Kaktisi na nzungu",
+    "acorn": "Mbuma ya muti",
+    "autumn-leaf": "Lukaya ya mbwaki",
+    "rabbit": "Lulembwe",
+    "duck": "Kwakwa",
+    "hen": "Nsusu",
+    "sheep": "Meme",
+    "owl": "Esukulu",
+    "ladybird": "Kokoti ya mbwaki",
+    "snail": "Nkodi",
+    "frog": "Kiula",
+    "bee": "Nyosi",
+    "clock": "Nganzi ya meza",
+    "vase-of-flowers": "Vaze ya bafulele",
+    "radio": "Radio ya ntama",
+    "books": "Mukanda ya kutedika",
+    "candle": "Buzi",
+    "glasses": "Luneti ya kutanga",
+    "telephone": "Telefoni",
+    "ball-of-wool": "Nkutu ya lene",
+    "straw-hat": "Mpu ya titi",
+    "train": "Treni ya midinga",
+    "bus": "Bisi",
+    "airplane": "Mpepo",
+    "suitcase": "Valizi",
+    "tractor": "Traktore",
+    "rowing-boat": "Bwato ya nkasi",
+    "rainbow": "Mukungu",
+    "rain-cloud": "Dituti ya mvula",
+    "snowflake": "Ditono ya mvula-mpembe",
+    "kite": "Kite",
+    "sunrise": "Ntangu ya kubima vana miongo"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Mbuma",
+          "words": [
+            "LILALA",
+            "SAFU",
+            "NDIMO",
+            "MANGU",
+            "AVOKA",
+            "NKONDO",
+            "POME",
+            "ANANA",
+            "PAPAI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Mpatu",
+          "words": [
+            "FULELE",
+            "NTI",
+            "LUKAYA",
+            "NTOTO",
+            "MBONGO",
+            "TITI",
+            "NYOSI",
+            "MASA",
+            "ROZE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kuku",
+          "words": [
+            "MAMPA",
+            "KOPO",
+            "LUTU",
+            "NZUNGU",
+            "MWELE",
+            "TIYA",
+            "MESA",
+            "BWINDI",
+            "SANI"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Kitembo",
+          "words": [
+            "NTANGU",
+            "MVULA",
+            "MUPEPE",
+            "DITUTI",
+            "MBUNDU",
+            "MADIDI",
+            "TIYA",
+            "ZULU",
+            "NGONDA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Banyama",
+          "words": [
+            "MBWA",
+            "PUSI",
+            "NUNI",
+            "MBISI",
+            "NGOMBE",
+            "NKOMBO",
+            "NSUSU",
+            "MEME",
+            "NGULU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Nzo",
+          "words": [
+            "KITI",
+            "MESA",
+            "MBETO",
+            "KIELO",
+            "MWINDA",
+            "SABI",
+            "TAPI",
+            "RIDO",
+            "NZO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Bakarita yonso",
+        "food": "Madia",
+        "home": "Nzo",
+        "outdoors": "Kibansala",
+        "animals": "Banyama",
+        "travel": "Nzietolo",
+        "work": "Kisalu ti bima ya kiese",
+        "music": "Miziki ti kiese",
+        "seasons": "Bantangu ya mvula"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Inki nsunga ya kitoko nge me lutaka kuzola na kuku?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Inki mutindu ya gato nge zolaka kupona sambu na feti?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Tubila mono mwa mambu ya mbuma to gato ya kitoko yina nge vandaka kuzola."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Inki mutindu nge me zolaka kunwa ti to kafe na nge?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Inki kima ke salaka ti madia ya suka kuvanda ya kitoko kibeni?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Nge me yikaka kubuka mbuma mbala mosi vana nti to vana titi?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Kima ya sukadi to ya nganzi: inki nge me lutaka kuzola?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Inki madia ke yibukisaka nge ntangu ya mwini to ya mbote?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Tubila mono mwa mambu ya nzo mosi yina nge vandaka na kiese ya kuvanda mwisi."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Wapi kisika nge me lutaka kuzola sambu na kuvwanda mpe kupema?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Inki nge me zolaka kusala na nkokila mosi ya pima?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Inki kima ya ntalu nge lenda bumba na sanduku mosi ya mbote?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Nani nge zolaka kubikila sambu na kunwa mwa ti ya kiese na nzo?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Inki nge me zolaka kusala na kilumbu ya mvula?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Inki bafulele nge zolaka kukuna na mpatu na nge?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Tubila mono mwa nti to kisika ya kitoko ya bibansala yina nge zolaka."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Inki kima ke pesaka kiese ya mingi ntangu nge kele na mpatu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Inki langi ya bafulele nge me lutaka kuzola?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Keti nge me zolaka kubikisa mwa bati na kati ya nzo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Inki mutindu kilumbu ya kitoko kibeni ya mwini ke vandaka sambu na nge?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Tubila mono mwa mambu ya mbwa mosi yina nge zabanaka na yo."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Bapusi to bambwa, to mosi ve na kati na bo? Inki nge me zolaka na bo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Inki banuni nge me monaka to me waka na nganda?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Keti nge me kwendaka kuloba bambisi, to kubumba bambisi na nzo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Inki nyama ya kitoko kibeni nge me monaka na luzingu na nge?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Tubila mono mwa mambu ya mutuka mosi yina nge vandaka kuzola."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Nge zolaka kulutisa kilumbu na simu ya masa to vana ngomba?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Wapi kisika nge zolaka kukwenda sambu na kutambula mwa fioti?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Kana nge lendaka kupumbuka na zulu ya konso kisika, wapi kisika nge zolaka kupona?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Inki nzietolo mosi yina pesaka nge kiese ya mingi?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Inki mutindu ya kisalu pesaka nge kiese ya kusala?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Inki kima ya kiese nge lendaka kusala bantangu ya mingi kukonda kulemba?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Inki kima bantu zabaka nge na kusala to na kuyidika?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Inki ndongisila nge zolaka kupesa na toko mosi yina ke yantika kisalu?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Inki mutindu ya miziki ke pesaka nge nzala ya kubula makulu na ntoto?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Inki kima ke salaka ti feti kuvanda ya kitoko kibeni?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Nani muyimbi mosi yina nge me zolaka kuwila miziki na yandi?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Inki sinema to emision ya televizio nge zolaka kutala diaka na kiese?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Inki nge me lutaka kuzola na ntangu ya mwini?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Inki nge me zolaka na ntangu ya matiti ke bwa na banti?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Inki kima ya kiese ya kusala na nkokila ya madidi vana nzo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Inki bidimbu ya ntete ke monisaka nge ti nsungi ya sika me kuma?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Mvula ya madidi, mvula ya masa to mwini: inki nge me lutaka kuzola?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fulele na nzungu",
+          "regions": {
+            "sky": "Mwa nima",
+            "table": "Meza",
+            "stem": "Nti ya fulele",
+            "leaf-left": "Lukaya ya kimosi",
+            "leaf-right": "Lukaya ya lubakala",
+            "petal-1": "Lukaya ya fulele 1",
+            "petal-2": "Lukaya ya fulele 2",
+            "petal-3": "Lukaya ya fulele 3",
+            "petal-4": "Lukaya ya fulele 4",
+            "petal-5": "Lukaya ya fulele 5",
+            "petal-6": "Lukaya ya fulele 6",
+            "petal-7": "Lukaya ya fulele 7",
+            "petal-8": "Lukaya ya fulele 8",
+            "center": "Kati-kati ya fulele",
+            "pot": "Nzungu",
+            "pot-rim": "Munoko ya nzungu"
+          }
+        },
+        "house": {
+          "name": "Nzo",
+          "regions": {
+            "sky": "Zulu",
+            "sun": "Ntangu",
+            "grass": "Titi",
+            "chimney": "Kisika ya midinga",
+            "walls": "Bibaka",
+            "roof": "Ludi",
+            "door": "Kielo",
+            "window-left": "Feneti ya kimosi",
+            "window-right": "Feneti ya lubakala",
+            "path": "Nzila"
+          }
+        },
+        "teacup": {
+          "name": "Kopo ya ti",
+          "regions": {
+            "background": "Mwa nima",
+            "saucer": "Sani ya kopo",
+            "handle": "Kisiminu",
+            "cup": "Kopo",
+            "band": "Mulongo vana kopo",
+            "tea": "Ti"
+          }
+        },
+        "butterfly": {
+          "name": "Lumpemba",
+          "regions": {
+            "background": "Mwa nima",
+            "wing-top-left": "Dipapu ya zulu ya kimosi",
+            "wing-top-right": "Dipapu ya zulu ya lubakala",
+            "wing-bottom-left": "Dipapu ya nsi ya kimosi",
+            "wing-bottom-right": "Dipapu ya nsi ya lubakala",
+            "spot-left": "Ditono ya kimosi",
+            "spot-right": "Ditono ya lubakala",
+            "body": "Nitu"
+          }
+        },
+        "sailboat": {
+          "name": "Bwato ya mupepe",
+          "regions": {
+            "sky": "Zulu",
+            "sea": "Kalunga",
+            "sail-big": "Dilemba ya nene",
+            "sail-small": "Dilemba ya fioti",
+            "mast": "Nti ya dilemba",
+            "hull": "Bwato",
+            "flag": "Bandela"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kuku ti mpatu",
+          "baskets": [
+            "Mu kuku",
+            "Mu bilanga"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Mbuma ye bibulu",
+          "baskets": [
+            "Mbuma",
+            "Bibulu"
+          ]
+        },
+        "home-travel": {
+          "label": "Nzo ye nzietolo",
+          "baskets": [
+            "Ku nzo",
+            "Ku nganda"
+          ]
+        }
+      }
+    }
+  }
+}

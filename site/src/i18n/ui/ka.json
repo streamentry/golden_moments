@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "ძირითად შინაარსზე გადასვლა",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "აქტივობები დემენციის მქონე ადამიანებისთვის",
+    "homeLabel": "Golden Moments-ის მთავარი გვერდი",
+    "mainNav": "მთავარი",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Ქართული",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: ჩაის ფინჯნის, მზესუმზირისა და ძაღლის დიდი, ნაცნობი სურათები",
+    "languages": "ენა",
+    "englishOnly": "(ინგლისურად)",
+    "machineTranslated": "ეს გვერდი თარგმნილია ავტომატურად და ჯერ არ არის შემოწმებული მშობლიური ენის მცოდნის მიერ.",
+    "readOriginal": "ორიგინალის წაკითხვა ინგლისურად",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "თამაშები",
+      "activities": "აქტივობები",
+      "caregiving": "ზრუნვა",
+      "brainHealth": "ტვინის ჯანმრთელობა"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "კითხვები და პასუხები",
+    "breadcrumb": "ნავიგაციის ბილიკი",
+    "home": "მთავარი",
+    "lastUpdated": "ბოლოს განახლდა",
+    "topics": "თემები",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "ტექსტის ზომა",
+      "smaller": "სტანდარტული ტექსტი",
+      "larger": "დიდი ტექსტი",
+      "contrast": "მაღალი კონტრასტი"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "თამაში",
+    "picturePairs": "სურათების წყვილები",
+    "conversationCards": "ბარათები სასაუბროდ",
+    "pictureBingo": "ბინგო სურათებით",
+    "allGames": "ყველა თამაში",
+    "pictures": "სურათები ამოსაბეჭდად",
+    "activityIdeas": "იდეები აქტივობებისთვის",
+    "ideas101": "101 იდეა აქტივობებისთვის",
+    "lateStage": "აქტივობები გვიანი ეტაპისთვის",
+    "printable": "ამოსაბეჭდი აქტივობები",
+    "allActivities": "ყველა აქტივობა",
+    "forCaregivers": "მზრუნველებისთვის",
+    "playTogether": "როგორ ვითამაშოთ ერთად",
+    "selfCare": "საკუთარ თავზე ზრუნვა",
+    "brainHealth": "კვლევები ტვინის ჯანმრთელობაზე",
+    "faq": "კითხვები და პასუხები",
+    "about": "ჩვენ შესახებ",
+    "approach": "ჩვენი მიდგომა",
+    "howWeWrite": "როგორ ვწერთ",
+    "organizations": "ორგანიზაციებისთვის",
+    "app": "აპლიკაცია Golden Moments",
+    "appHelp": "დახმარება აპლიკაციასთან დაკავშირებით",
+    "support": "მხარდაჭერა",
+    "legal": "სამართლებრივი ინფორმაცია",
+    "sitePrivacy": "ვებსაიტის კონფიდენციალურობა",
+    "appPrivacy": "აპლიკაციის კონფიდენციალურობის პოლიტიკა",
+    "privacyChoices": "კონფიდენციალურობის არჩევანი",
+    "terms": "წესები და აპლიკაციის ლიცენზია",
+    "safety": "უსაფრთხოება და მიზნობრივი გამოყენება",
+    "accessibility": "ხელმისაწვდომობა",
+    "healthNotice": "შეტყობინება ჯანმრთელობის შესახებ ინფორმაციაზე",
+    "allLegal": "სრული სამართლებრივი ინფორმაცია",
+    "note": "Golden Moments გთავაზობთ მარტივ საერთო აქტივობებს სასიამოვნო დროის გასატარებლად. ის არ წარმოადგენს სამედიცინო რჩევას, ტესტს ან მკურნალობას, და არ ისახავს მიზნად დიაგნოსტირებას, უნარების გაზომვას ან შეფასებას. ჯანმრთელობასთან დაკავშირებულ საკითხებზე მიმართეთ ექიმს. გადაუდებელ სიტუაციაში დარეკეთ 112-ზე.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "თამაშები და აქტივობები დემენციისა და ალცჰაიმერის დროს | Golden Moments",
+    "description": "უფასო, მშვიდი ონლაინ თამაშები სურათებით და აქტივობების იდეები დემენციის ან ალცჰაიმერის მქონე ადამიანებისა და მათი მზრუნველებისთვის. რეგისტრაციის, ტაიმერებისა და ქულების გარეშე.",
+    "eyebrow": "უფასო · რეკლამის გარეშე · რეგისტრაციის გარეშე · ტაიმერებისა და ქულების გარეშე",
+    "h1": "მშვიდი თამაშები და აქტივობები დემენციის მქონე ადამიანებისთვის",
+    "lede": "მარტივი თამაშები სურათებით, ნაცნობი ფოტოები და აქტივობები ერთად დროის სასიამოვნოდ გასატარებლად — თქვენთვის მოსახერხებელი ტემპით.",
+    "playGame": "თამაშის დაწყება",
+    "findIdeas": "იდეების ნახვა აქტივობებისთვის",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "მუშაობს ტელეფონზე, პლანშეტსა და კომპიუტერზე",
+      "დიდი სურათები, რომლებიც ეკრანზე რჩება",
+      "შეწყვიტეთ ნებისმიერ დროს; აქ შეცდომა არ არსებობს"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "ასევე ხელმისაწვდომია უფასო აპლიკაცია iPhone-ისთვის, iPad-ისთვის და Android-ისთვის, თქვენი ოჯახური ფოტოებით",
+    "albumNote": "„ჩაის ფინჯნის ორი სურათი, ერთად.“",
+    "gamesEyebrow": "ითამაშეთ ბრაუზერში",
+    "gamesTitle": "თამაშები, რომელთა თამაშიც ახლავე შეგიძლიათ",
+    "gamesLede": "თითოეული თამაში არის მშვიდი, ზრდასრულზე მორგებული და მარტივად დასაწყები. აირჩიეთ ერთი, დასხედით გვერდიგვერდ და რიგრიგობით შეეხეთ ეკრანს.",
+    "seeAllGames": "იხილეთ ყველა {count} თამაში",
+    "howTitle": "როგორ მუშაობს",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "აირჩიეთ რამე ნაცნობი",
+        "text": "ჩაის ფინჯნების, ბაღების, შინაური ცხოველებისა და იალქნიანი ნავების სურათები. წაკითხვის ან წინასწარ წესების შესწავლის გარეშე."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "დასხედით გვერდიგვერდ",
+        "text": "მიეცით საშუალება, თავად შეეხოს ეკრანს. ისაუბრეთ სურათებზე. თუ სურათები არ ემთხვევა, თამაში უბრალოდ მშვიდად ელოდება შემდეგ შეხებას."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "შეწყვიტეთ მანამ, სანამ პროცესი სასიამოვნოა",
+        "text": "ერთი თამაში უკვე სრულფასოვანი აქტივობაა. ღილაკი „დღეისთვის საკმარისია“ ყოველთვის ეკრანზეა."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "ეკრანს მიღმა",
+    "stageTitle": "იდეები აქტივობებისთვის ყველა ეტაპზე",
+    "stageLede": "მუსიკა, ყოველდღიური საქმეები, მოგონებების გაზიარება და მშვიდი შეგრძნებები — მორგებული იმაზე, რაც ამჟამად კომფორტულია.",
+    "ideas101": "101 იდეა აქტივობებისთვის",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "ადრეული ეტაპი",
+        "text": "განაგრძეთ საყვარელი საქმეების კეთება მცირე ცვლილებებით: ჰობი, გასეირნება, სიტყვებით თამაშები და ერთად დაგეგმვა.",
+        "label": "იდეები ადრეული ეტაპისთვის"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "შუა ეტაპი",
+        "text": "მარტივი, ნაცნობი საქმეები ნაბიჯ-ნაბიჯ: დაკეცვა, დახარისხება, მუსიკა, თამაშები სურათებით და მოკლე გასეირნება.",
+        "label": "იდეები შუა ეტაპისთვის"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "გვიანი ეტაპი",
+        "text": "სიმშვიდე და სიახლოვე შეხების, ხმისა და მზერის მეშვეობით: ხელების მოვლა, საყვარელი სიმღერები, ფოტოები და უბრალოდ ერთად ყოფნა.",
+        "label": "იდეები გვიანი ეტაპისთვის"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "ეძებთ რამე კონკრეტულს? სცადეთ <a href=\"/activities/alzheimers/\">აქტივობები და თამაშები ალცჰაიმერის დროს</a>, <a href=\"/activities/memory-games/\">მშვიდი თამაშები მეხსიერებისთვის</a>, <a href=\"/activities/trivia/\">მარტივი ვიქტორინები</a> ან <a href=\"/activities/puzzles/\">ფაზლები</a>.",
+    "approachEyebrow": "ჩვენი მიდგომა",
+    "approachTitle": "საერთო აქტივობა და არა მეხსიერების ტესტი",
+    "approachLede": "ბევრი „ტვინის სავარჯიშო თამაში“ აგებულია სისწრაფეზე, ქულებსა და მიჯრით გამარჯვებებზე. დემენციის მქონე ადამიანისთვის ეს შეიძლება გამოცდას ჰგავდეს. ჩვენ სრულიად საპირისპირო რამ შევქმენით.",
+    "approachLink": "რატომ შევქმენით ასე",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "აქ შეცდომა არ არსებობს",
+        "text": "ტაიმერის, ქულების, „სიცოცხლეების“ ან წაგების გარეშე. განსხვავებული სურათი მხოლოდ პაუზაა და არა შეცდომა."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "სურათები ეკრანზე რჩება",
+        "text": "ამოცნობა და არა გახსენება. შეხამება იწყება გახსნილი ბარათებით, ამიტომ არაფრის დამახსოვრება არაა საჭირო."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "ზრდასრულზე მორგებული და ღირსეული",
+        "text": "თბილი, მარტივი სიტყვები და რეალური სამყაროს სურათები. არავითარი ანიმაცია ან ბავშვური ენა."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "თავიდანვე კონფიდენციალური",
+        "text": "ანგარიშებისა და რეკლამების გარეშე. თქვენი ფოტოები არასდროს ტოვებს თქვენს მოწყობილობას."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "მზრუნველებისთვის",
+    "guidesTitle": "პრაქტიკული სახელმძღვანელოები ყოველდღიური ზრუნვისთვის",
+    "allCaregiving": "ყველა სახელმძღვანელო ზრუნვის შესახებ",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "როგორ ვითამაშოთ ერთად",
+        "text": "მომზადება, ტემპი და რა უნდა გააკეთოთ, როცა თამაში აღარ არის სასიამოვნო."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "როდესაც აქტივობაზე უარს გეუბნებიან",
+        "text": "უარის თქმის ხშირი მიზეზები და მშვიდი გზები მოგვიანებით ხელახლა საცდელად."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "პლანშეტის გამართვა",
+        "text": "დიდი ტექსტი, ნაკლები შეტყობინება და ერთი მარტივი მთავარი ეკრანი."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "უფასო ამოსაბეჭდი აქტივობები",
+        "text": "დიდი შრიფტით დაბეჭდილი სიტყვების საპოვნელები, გასაფერადებლები, ბინგო და ბარათები სასაუბროდ."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "ტვინის ჯანმრთელობა: რას ამბობს სინამდვილეში კვლევები",
+    "researchText": "შესაძლებელია თუ არა დემენციის თავიდან აცილება? ეხმარება თუ არა ტვინის სავარჯიშო თამაშები? რას ვიტყვით კვებაზე, ძილსა და სმენაზე? მარტივი, სანდო წყაროებზე დაფუძნებული პასუხები, მათ შორის იქაც, სადაც მტკიცებულებები მწირია.",
+    "researchLink": "კვლევების სახელმძღვანელოების წაკითხვა",
+    "appEyebrow": "ასევე ხელმისაწვდომია აპლიკაცია",
+    "appTitle": "Golden Moments iPhone-ზე, iPad-სა და Android-ზე",
+    "appText": "უფასო აპლიკაცია მუშაობს ინტერნეტის გარეშეც და შეუძლია გამოიყენოს თქვენ მიერ არჩეული ოჯახური ფოტოები, რომლებიც ასლების სახით ინახება თქვენს მოწყობილობაში. იგივე მშვიდი დიზაინი: ოთხი დიდი ბარათი, ტაიმერისა და ქულების გარეშე.",
+    "aboutApp": "აპლიკაციის შესახებ",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "რომელი თამაშებია კარგი დემენციის მქონე ადამიანებისთვის?",
+        "a": "კარგი თამაშები მარტივი, ნაცნობი და ყოველგვარი დაძაბულობისგან თავისუფალია: დიდი სურათების შეხამება, დახარისხება, იოლი ფაზლები, ნაცნობი ანდაზების დასრულება, გაფერადება, სურათებიანი ბინგო და სასაუბრო ბარათები. საუკეთესო არჩევანი ისაა, რაც ადამიანს დღეს ანიჭებს სიამოვნებას. მოერიდეთ ტაიმერებს, ქულებს და ყველაფერს, რაც გამოცდას ჰგავს."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "უფასოა ეს თამაშები დემენციის მქონე ადამიანებისთვის?",
+        "a": "დიახ. Golden Moments-ის ყველა თამაში და ამოსაბეჭდი მასალა უფასოა, ანგარიშის შექმნის, რეგისტრაციისა და ჩამოტვირთვის გარეშე. თამაშები იხსნება პირდაპირ ბრაუზერში, ტელეფონზე, ტაბლეტსა თუ კომპიუტერზე."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "იცავს თუ არა გონების სავარჯიშო თამაშები დემენციისგან?",
+        "a": "არ არსებობს კვლევა, რომელიც დაადასტურებდა, რომ რომელიმე თამაში დემენციას თავიდან აგაცილებთ, და Golden Moments არ აცხადებს, რომ რაიმეს მკურნალობს ან აფერხებს. ჩვენი თამაშები განკუთვნილია სიამოვნებისთვის და ერთად დროის გასატარებლად. ტვინის ჯანმრთელობის განყოფილებაში დაწვრილებით ვხსნით, თუ რას აჩვენებს და რას არა სამეცნიერო კვლევები."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "შეეფერება თუ არა ეს თამაშები ალცჰაიმერის მქონე ადამიანს?",
+        "a": "დიახ. ალცჰაიმერის დაავადება დემენციის ყველაზე გავრცელებული მიზეზია და თამაშები სწორედ ამის გათვალისწინებითაა შექმნილი: დიდი სურათები, რომლებიც ეკრანზე რჩება, რამდენიმე არჩევანი და არაფერი, რაც აუცილებლად უნდა დაიმახსოვროთ ან შეგეშალოთ. შეხამება, დახარისხება და ნაცნობი ანდაზების დასრულება ეყრდნობა დიდი ხნის წინ დაგროვილ ცოდნას და არა ახლის სწავლას."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "შეუძლია თუ არა დემენციის გვიან ეტაპზე მყოფ ადამიანს ამ აქტივობებით სარგებლობა?",
+        "a": "ხშირად კი, თუ გვერდით ვინმე ჰყავთ. დაიწყეთ თამაშით „იპოვე ერთნაირი“ ორი სურათით, „სურათების წყვილები“ ოთხი ბარათით, გასაფერადებელი გვერდით ან მშვიდი სუნთქვის პაუზით. აქტივობა იყოს ხანმოკლე, მიჰყევით მათ განწყობას და შეჩერდით, როგორც კი დაიღლებიან."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "დაცულია თუ არა ჩემი მონაცემების კონფიდენციალურობა?",
+        "a": "საიტზე არ არის მომხმარებლის ანგარიშები და რეკლამა. ჩვენ ვიყენებთ Google Analytics-ს მხოლოდ იმის გასაგებად, თუ რომელ გვერდებს სტუმრობენ. ფოტოები, რომლებსაც თამაშისთვის „ფოტოების წყვილები“ ირჩევთ, ჩანს მხოლოდ თქვენს ბრაუზერში და არსად იტვირთება."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "ვინ ქმნის Golden Moments-ს?",
+        "a": "Golden Moments არის პატარა გუნდი, რომელიც ქმნის მშვიდ, უფროსებისთვის განკუთვნილ ილუსტრირებულ აქტივობებს ოჯახებისა და მზრუნველებისთვის, როგორც ვებსაიტზე, ისე უფასო აპლიკაციაში. ჩვენ არ ვართ ექიმები და აქ მოცემული ინფორმაცია არ წარმოადგენს სამედიცინო რჩევას."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "ადრეული",
+    "middle": "საშუალო",
+    "late": "გვიანი",
+    "hintOne": "ხშირად შეეფერება {list} ეტაპს",
+    "hintMany": "ხშირად შეეფერება {list} ეტაპებს",
+    "labelEarly": "ადრეული ეტაპი",
+    "labelMiddle": "საშუალო ეტაპი",
+    "labelLate": "გვიანი ეტაპი"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "ამ თამაშის შესახებ",
+    "printable": "ამოსაბეჭდი",
+    "play": "ითამაშეთ {name} →",
+    "readGuide": "წაიკითხეთ გზამკვლევი"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "მზად ხართ მშვიდი თამაშისთვის?",
+    "text": "დიდი სურათები, ტაიმერისა და ქულების გარეშე, რეგისტრაციის გარეშე. ითამაშეთ ერთად პირდაპირ ბრაუზერში.",
+    "play": "ითამაშეთ",
+    "all": "ყველა თამაშის ნახვა",
+    "aria": "ითამაშეთ თამაში"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "თან იქონიეთ ეს თამაშები",
+    "text": "უფასო აპლიკაცია Golden Moments iPhone-ისთვის, iPad-ისთვის და Android-ისთვის: დიდი ილუსტრირებული ბარათები, თამაშები თქვენი ოჯახის ფოტოებით და სურათების კოლექციები, რომლებიც მუშაობს ინტერნეტის გარეშეც. ანგარიშის, რეკლამის, ტაიმერისა და ქულების გარეშე.",
+    "appStore": "ჩამოტვირთეთ App Store-იდან",
+    "googlePlay": "ჩამოტვირთეთ Google Play-დან",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "აპლიკაციის შესახებ",
+    "aria": "აპლიკაციის ჩამოტვირთვა"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "აქტივობები",
+      "title": "აქტივობები დემენციის მქონე ადამიანებისთვის",
+      "seo": "აქტივობები დემენციის მქონე ადამიანებისთვის: იდეები ეტაპების მიხედვით",
+      "description": "აქტივობის იდეები დემენციით მცხოვრები ადამიანებისთვის ყოველ ეტაპზე: მუსიკა, მოგონებები, ყოველდღიური საქმეები, სენსორული მომენტები, ხელსაქმე, სუფთა ჰაერზე ყოფნა და უფასო ამოსაბეჭდი მასალები.",
+      "lede": "აზრიანი აქტივობა არის ყველაფერი, რასაც მოაქვს სიმშვიდე, მიზნის შეგრძნება ან ურთიერთობის თბილი წამი. დაიწყეთ იმით, რაც ადამიანს ყოველთვის უყვარდა, და მოარგეთ დღევანდელ დღეს."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "ზრუნვა",
+      "title": "გზამკვლევები მზრუნველებისთვის",
+      "seo": "დემენციის მქონე ადამიანზე ზრუნვის გზამკვლევები: პრაქტიკული ყოველდღიური დახმარება",
+      "description": "პრაქტიკული და გულისხმიერი გზამკვლევები მზრუნველებისთვის: ერთად თამაში, კომუნიკაცია, უარის თქმის შემთხვევები, საღამოს მოუსვენრობა, პლანშეტები, აპლიკაციების შერჩევა და საკუთარ თავზე ზრუნვა.",
+      "lede": "მარტივი და პრაქტიკული დახმარება დემენციის მქონე ადამიანზე ზრუნვის ყოველდღიური წუთებისთვის, მათ შორის საკუთარ თავზე ზრუნვისთვისაც."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "ტვინის ჯანმრთელობა",
+      "title": "ტვინის ჯანმრთელობა: რას ამბობს კვლევები",
+      "seo": "ტვინის ჯანმრთელობა და დემენციის რისკი: რას ამბობს კვლევები",
+      "description": "შესაძლებელია თუ არა დემენციის თავიდან აცილება? სანდო, წყაროებზე დაფუძნებული გზამკვლევები დემენციის რისკ-ფაქტორებზე, გონების სავარჯიშო თამაშებზე, კვებაზე, ვარჯიშზე, ძილზე, სმენასა და ადრეულ ნიშნებზე.",
+      "lede": "რას აჩვენებს რეალურად მასშტაბური კვლევები დემენციის რისკის შემცირების შესახებ, მარტივი ენით ახსნილი, მათ შორის იქაც, სადაც მტკიცებულებები მწირი ან არაერთგვაროვანია. ზოგადი ინფორმაცია და არა სამედიცინო რჩევა."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "განახლებულია",
+    "minuteRead": "{n} წუთი წასაკითხად",
+    "byTeam": "Golden Moments-ის გუნდისგან",
+    "howWeWrite": "როგორ ვწერთ",
+    "shortAnswer": "მოკლე პასუხი",
+    "onThisPage": "ამ გვერდზე ({n} განყოფილება)",
+    "commonQuestions": "ხშირად დასმული კითხვები",
+    "sources": "წყაროები",
+    "sourcesNote": "ჩვენ ვუთითებთ იმ ორგანიზაციებსა და კვლევებს, რომლებსაც ეს გვერდი ეყრდნობა. თითოეული მათგანი გადამოწმებულია გვერდის განახლებისას.",
+    "tryTogether": "სცადეთ ერთად",
+    "relatedGuides": "მსგავსი გზამკვლევები",
+    "related": "დაკავშირებული",
+    "startHere": "დაიწყეთ აქედან"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "შეტყობინება ჯანმრთელობის შესახებ ინფორმაციაზე",
+    "title": "ზოგადი ინფორმაცია და არა სამედიცინო რჩევა",
+    "textHtml": "ეს გვერდი აჯამებს გამოქვეყნებულ კვლევებს ოჯახებისთვის. ის ვერ გეტყვით, რა არის სწორი კონკრეტული ადამიანისთვის. კვების, ფიზიკური აქტივობის, ძილის რეჟიმის, მედიკამენტების ან დანამატების შეცვლამდე მიმართეთ ექიმს. უეცარი დაბნეულობის ან სხვა მოულოდნელი ცვლილებების შემთხვევაში დაუყოვნებლივ მიმართეთ გადაუდებელ სამედიცინო დახმარებას. <a href=\"/medical-disclaimer/\">წაიკითხეთ ჩვენი შეტყობინება სამედიცინო პასუხისმგებლობის შეზღუდვის შესახებ</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "ერთობლივი აქტივობა და არა მეხსიერების გამოცდა",
+      "seoTitle": "Golden Moments-ის შესახებ: ჩვენი მიდგომა",
+      "description": "რატომ არ აქვს Golden Moments-ის თამაშებს ტაიმერი, ქულები ან მიღწევების სერიები, რატომ რჩება სურათები ეკრანზე და რას ვამბობთ და რას არ ვამბობთ დემენციის შესახებ.",
+      "crumb": "ჩვენი მიდგომა",
+      "lede": "Golden Moments ქმნის მშვიდ, უფროსებისთვის განკუთვნილ ილუსტრირებულ აქტივობებს, რომლებითაც მზრუნველს და დემენციის მქონე ადამიანს შეუძლიათ ერთად, გვერდიგვერდ ისიამოვნონ.",
+      "bodyHtml": "<h2>რისი გვჯერა</h2><p>აქტივობის მთავარი აზრი თავად ეს წუთია: საუბარი, ღიმილი, ორი სურათის შეერთებით გამოწვეული სიამოვნება თუ უბრალოდ გვერდიგვერდ ჯდომა. აქ არაფერია ვინმეს შესაფასებლად, დასაძალებლად ან რამის დასამტკიცებლად.</p><p>ტვინის სავარჯიშო მრავალი აპლიკაცია აგებულია სისწრაფეზე, ქულებზე, უწყვეტ სერიებსა და დონეებზე. დემენციის მქონე ადამიანისთვის ეს შეიძლება ჩაუბარებელ გამოცდას ჰგავდეს. ჩვენ სრულიად საპირისპირო შევქმენით და შემდეგ წესებს ვიცავთ:</p><ul><li><strong>ვერაფერში ჩაიჭრებით.</strong> არცერთ ეკრანზე არ არის ტაიმერი, ქულა, სვლების მთვლელი, სიცოცხლეები, სერიები, კონფეტი თუ დროის ათვლა.</li><li><strong>ამოცნობა და არა გახსენება.</strong> სურათები თავიდანვე გახსნილია. მინიშნებები საუბრისკენ უბიძგებს და არასდროს ამოწმებს სახელებსა თუ მოგონებებს.</li><li><strong>დიდი, სადა და უცვლელი.</strong> დიდი ზომის ტექსტი და გამოსახულებები, მკვეთრი კონტრასტი და მართვის ღილაკები, რომლებიც ყოველთვის ერთსა და იმავე ადგილზე რჩება.</li><li><strong>ზრდასრული ადამიანის ღირსება.</strong> რეალური ცხოვრებისეული სურათები და სადა, თბილი სიტყვები. არავითარი ანიმაციები, ზედმეტი ქება თუ ემოჯი-ჯილდოები.</li><li><strong>მარტივი გამოსავალი.</strong> ღილაკი „დღეისთვის საკმარისია“ ყოველთვის ჩანს. თამაშის შუა გზაზე შეწყვეტაც მშვენიერი შედეგია.</li><li><strong>პირადი სივრცე დაცულია.</strong> არ არის ანგარიშები ან რეკლამები. თქვენ მიერ არჩეული ფოტოები მხოლოდ თქვენს მოწყობილობაში რჩება.</li></ul><h2>რას არ ვამტკიცებთ</h2><p>ჩვენი თამაშები შექმნილია სიამოვნებისა და ურთიერთობისთვის. ისინი არ სვამენ დიაგნოზს, არ ამოწმებენ, არ ზომავენ, არ მკურნალობენ, არ ანელებენ და არ აფერხებენ დემენციას ან ალცჰაიმერის დაავადებას, და არავინ უნდა აირჩიოს ისინი ამ მიზნით. როდესაც კვლევების შესახებ ვწერთ <a href=\"/brain-health/\">ტვინის ჯანმრთელობის გვერდებზე</a>, პირდაპირ ვამბობთ, სად არის მტკიცებულებები სუსტი, და მათ არასდროს ვუკავშირებთ ჩვენს თამაშებს.</p><h2>ვინ ვართ ჩვენ</h2><p>Golden Moments პატარა, დამოუკიდებელი გუნდია. ჩვენ არ ვართ ექიმები. ჩვენი გზამკვლევები ეყრდნობა ისეთი ორგანიზაციების მიერ გამოქვეყნებულ რეკომენდაციებს, როგორიცაა National Institute on Aging და Alzheimer’s Association, და თითოეულ გზამკვლევს მითითებული აქვს წყაროები. წაიკითხეთ, <a href=\"/editorial-policy/\">როგორ ვწერთ და ვამოწმებთ ჩვენს გვერდებს</a>.</p><h2>გვითხარით, რა დაგეხმარებოდათ</h2><p>სიამოვნებით მოვისმენთ, რა გამოდგება თქვენთვის და რა არა — განსაკუთრებით დემენციის მქონე ადამიანებისგან, ოჯახის მზრუნველებისა და აქტივობების პერსონალისგან. მოგვწერეთ ელფოსტაზე: <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "როგორ ვწერთ და ვამოწმებთ ჩვენს გვერდებს",
+      "seoTitle": "სარედაქციო პოლიტიკა",
+      "description": "როგორ იკვლევს, წერს, ამოწმებს წყაროებსა და ანახლებს Golden Moments დემენციის აქტივობებისა და ტვინის ჯანმრთელობის გვერდებს, და რას არ გამოვაქვეყნებთ არასდროს.",
+      "crumb": "სარედაქციო პოლიტიკა",
+      "bodyHtml": "<h2>ჩვენი წყაროები</h2><p>ჩვენი გზამკვლევები ეფუძნება ისეთი ორგანიზაციების საჯარო რეკომენდაციებს, როგორიცაა National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance და NHS, ასევე რეცენზირებულ კვლევებს, მათ შორის Cochrane-ის მიმოხილვებსა და ფართომასშტაბიან კლინიკურ კვლევებს. თითოეულ გზამკვლევს თან ახლავს გამოყენებული წყაროების ჩამონათვალი. ჩვენ ვეცნობით თითოეულ წყაროს მის მითითებამდე და გადმოვცემთ მხოლოდ იმას, რაც მასში რეალურადაა ნათქვამი.</p><h2>როგორ ვწერთ</h2><ul><li>უპირველესად პრაქტიკული: რა უნდა გააკეთოთ დღეს, მარტივი ენით.</li><li>გულწრფელობა მტკიცებულებებთან დაკავშირებით: ჩვენ ვამბობთ „დაკავშირებულია“, „შეიძლება“ და „მტკიცებულებები არაერთგვაროვანია“, როცა ეს სიმართლეა.</li><li>პატივისცემა: დემენციის მქონე ადამიანებზე ვწერთ, როგორც სრულფასოვან ზრდასრულებზე, და არასდროს ვიყენებთ გამოსაცდელ ან დამამცირებელ ტონს.</li><li>არავითარი გამოგონილი შინაარსი: არანაირი მოგონილი სტატისტიკა, ციტატა, ექსპერტი, კვლევა, მიმოხილვა თუ შეფასება.</li></ul><h2>ვინ განიხილავს ჩვენს გვერდებს</h2><p>გვერდებს წერს და ამოწმებს Golden Moments-ის გუნდი, კვლევისა და პირველადი მონახაზებისთვის ხელოვნური ინტელექტის ინსტრუმენტების დახმარებით. თითოეულ გვერდს გუნდი ამოწმებს წყაროებთან მიმართებით. ჩვენი გვერდები <strong>არ</strong> შემოწმებულა ექიმის ან სხვა კლინიცისტის მიერ და საპირისპიროს არც ვამტკიცებთ. ეს არის ზოგადი ინფორმაცია და არა სამედიცინო რჩევა.</p><h2>რას არ გამოვაქვეყნებთ არასდროს</h2><ul><li>მტკიცებებს, რომ რომელიმე თამაში, საკვები, დანამატი, შიმშილობა თუ ყოველდღიური რუტინა თავიდან აგაცილებთ, განკურნავს, შეანელებს ან უმკურნალებს დემენციას.</li><li>ტესტებს, გამოკითხვებს ან ქულებს, რომლებიც მიანიშნებს, რომ ადამიანს აქვს ან არ აქვს დემენცია.</li><li>რჩევებს რომელიმე მედიკამენტის დაწყების, შეწყვეტის ან შეცვლის შესახებ.</li><li>რეკლამას ან სპონსორულ კონტენტს, რომელიც რჩევადაა შენიღბული.</li></ul><h2>განახლებები და შესწორებები</h2><p>თითოეულ გვერდზე მითითებულია ბოლო განახლების თარიღი. თუ შეამჩნევთ შეცდომას ან მოძველებულ წყაროს, გთხოვთ, მოგვწეროთ ელფოსტაზე: <a href=\"mailto:{email}\">{email}</a> და ჩვენ მას დაუყოვნებლივ გადავამოწმებთ.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "კითხვები და პასუხები",
+      "seoTitle": "თამაშები და აქტივობები დემენციის დროს: კითხვები და პასუხები",
+      "description": "პასუხები ხშირად დასმულ კითხვებზე დემენციის თამაშებისა და აქტივობების შესახებ: რომელი თამაშები სცადოთ, რამდენ ხანს ითამაშოთ, იდეები გვიანი ეტაპისთვის, ტვინის ჯანმრთელობა და პირადი სივრცე.",
+      "crumb": "კითხვები და პასუხები",
+      "lede": "მოკლე და მარტივი პასუხები კითხვებზე, რომლებსაც მზრუნველები ყველაზე ხშირად სვამენ.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "თამაშების შესახებ",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "რომელი თამაშებია საუკეთესო დემენციის მქონე ადამიანისთვის?",
+              "a": "საუკეთესო თამაშები ნაცნობი, მარტივი და დაუძალებელია, ხოლო სწორი არჩევანი ისაა, რაც ადამიანს დღეს ანიჭებს სიამოვნებას. სურათების დაკავშირება (როცა სურათები თავიდანვე ჩანს), დახარისხება, მარტივი ფაზლები, ნაცნობი ანდაზების დასრულება, გაფერადება და ნახატებიანი ბინგო ბევრისთვის კარგად მუშაობს. მოერიდეთ ტაიმერებს, ქულებს და ყველაფერს, რაც გამოცდას ჰგავს."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "თამაშები ნამდვილად უფასოა?",
+              "a": "დიახ. ყველა თამაში და ამოსაბეჭდი მასალა უფასოა, ანგარიშის შექმნის, რეგისტრაციის, ჩამოტვირთვის ან რეკლამის გარეშე."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "რატომ არ არის ქულები, დონეები ან ტაიმერი?",
+              "a": "სისწრაფე და ქულები სასიამოვნო საქმიანობას გამოცდად აქცევს, რამაც შეიძლება უხერხულობა ან იმედგაცრუება გამოიწვიოს. ჩვენ ყურადღებას სიამოვნებასა და ერთად ყოფნაზე ვამახვილებთ, ამიტომ აქ შეცდომის დაშვება შეუძლებელია და შეგიძლიათ ნებისმიერ დროს შეჩერდეთ."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "რომელი მოწყობილობებია საუკეთესო?",
+              "a": "ნებისმიერი ტელეფონი, პლანშეტი ან კომპიუტერი თანამედროვე ბრაუზერით. მაგიდაზე სადგამზე მოთავსებული პლანშეტი ხშირად ყველაზე მოსახერხებელია ორ ადამიანს გვერდიგვერდ სათამაშოდ. ტელევიზორთან შეერთებული ლეპტოპი კი კარგად ერგება ჯგუფებს."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "შეგვიძლია საკუთარი ოჯახური ფოტოებით ვითამაშოთ?",
+              "a": "დიახ. „ფოტო წყვილები“ თქვენ მიერ არჩეულ 2-დან 6-მდე ფოტოს დამთხვევის თამაშად აქცევს. ფოტოები რჩება თქვენს ბრაუზერში და არსად იტვირთება ან ინახება."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "აქტივობები და ზრუნვა",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "რამდენ ხანს უნდა გაგრძელდეს აქტივობა?",
+              "a": "ხშირად 10-დან 20 წუთამდე სრულიად საკმარისია, ზოგჯერ კი 2 წუთიც წარმატებაა. დააკვირდით დაღლილობის ან გაღიზიანების ნიშნებს და შეწყვიტეთ მანამ, სანამ პროცესი ჯერ კიდევ სასიამოვნოა. აქ სწორი ან არასწორი დრო არ არსებობს."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "რა ვქნათ, თუ მათ არ სურთ აქტივობაში მონაწილეობა?",
+              "a": "პატივი ეცით უარს და სცადეთ მოგვიანებით ან სხვაგვარად. უარი შეიძლება გამოწვეული იყოს დაღლილობით, ტკივილით, გაურკვევლობის განცდით ან უბრალოდ ინტერესის ნაკლებობით. იხილეთ ჩვენი გზამკვლევი იმის შესახებ, თუ როგორ მოიქცეთ, როცა ისინი უარს ამბობენ."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "რომელი აქტივობებია შესაფერისი დემენციის გვიან ეტაპზე?",
+              "a": "სიმყუდროვე და შეგრძნებები: საყვარელი მუსიკის მოსმენა, ხელების მასაჟი კრემით, ფოტოების ერთად დათვალიერება, რბილი პლედის შეხება, გარეთ ჯდომა ან ძალიან მარტივი სურათებიანი თამაში გვერდით მყოფ ადამიანთან ერთად. ჩვენს გზამკვლევში გვიანი ეტაპისთვის კიდევ ბევრ იდეას ნახავთ."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "არის აქტივობები მზრუნველობის სახლის ჯგუფებისთვის?",
+              "a": "დიახ. „სურათებიან ბინგოს“ აქვს ამოსაბეჭდი ბარათები და ეკრანზე გამომცხადებელი, ხოლო „დაასრულე ანდაზა“ და სასაუბრო ბარათები ძალიან კარგია ხმამაღლა წასაკითხად. ჩვენი გზამკვლევი მზრუნველობის სახლის ჯგუფებისთვის მოიცავს ჯგუფის ზომას, დასხდომის განლაგებასა და აქტივობების მორგებას განსხვავებულ შესაძლებლობებზე."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "ტვინის ჯანმრთელობა",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "შეუძლია თამაშებს დემენციის პრევენცია ან მისი შენელება?",
+              "a": "არ არსებობს მტკიცებულება, რომ რომელიმე თამაშს შეუძლია დემენციის პრევენცია, და ჩვენს თამაშებს ასეთი პრეტენზია არ აქვთ. კვლევებმა აჩვენა, რომ კოგნიტურ სტიმულაციას სოციალურ გარემოში მცირე სარგებელი აქვს მსუბუქი და ზომიერი დემენციის მქონე ადამიანებისთვის, თუმცა ეს სულ სხვა რამეა და არ ნიშნავს თამაშის მიერ დაავადების პრევენციას. ჩვენი თამაშების მიზანი სიამოვნება და ურთიერთობაა."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "შესაძლებელია დემენციის თავიდან აცილება?",
+              "a": "არა დანამდვილებით. კვლევები ჯანმრთელობისა და ცხოვრების წესის 14 ფაქტორს აკავშირებს დემენციის რისკთან, როგორიცაა სმენის დაქვეითება, მაღალი არტერიული წნევა, უმოძრაო ცხოვრების წესი და სოციალური იზოლაცია. მათზე ყურადღების მიქცევამ შესაძლოა შეამციროს რისკი ზოგიერთი ადამიანისთვის, მაგრამ ბევრს, ვინც ყველაფერს სწორად აკეთებს, მაინც უვითარდება დემენცია. ეს არასდროს არავის ბრალი არ არის."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "სასარგებლოა პერიოდული შიმშილი ტვინის ჯანმრთელობისთვის?",
+              "a": "ადამიანებზე ჩატარებული კვლევების მტკიცებულებები მცირეა და საწყის ეტაპზეა, კვლევების უმეტესობა კი ცხოველებზეა ჩატარებული. შიმშილი შესაძლოა სარისკო იყოს ასაკოვანი ადამიანებისთვის, განსაკუთრებით დიაბეტის მედიკამენტების მიღებისას ან წონის უნებლიე კლების დროს, და ის არ არის რეკომენდებული დემენციის მქონე ადამიანებისთვის. კვების რეჟიმის შეცვლამდე გაესაუბრეთ ექიმს."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "კონფიდენციალურობა და უსაფრთხოება",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "აგროვებთ თუ არა რაიმე ინფორმაციას?",
+              "a": "არანაირი ანგარიშები ან რეკლამები. ჩვენ ვიყენებთ Google Analytics-ს ვიზიტების დასათვლელად და იმის სანახავად, თუ რომელი გვერდებია სასარგებლო, ხოლო თქვენი ბრაუზერი იმახსოვრებს, ჩართული გაქვთ თუ არა რბილი ხმები. „ფოტო წყვილებისთვის“ არჩეული ფოტოები არასდროს იტვირთება. დეტალებისთვის იხილეთ კონფიდენციალურობის პოლიტიკა."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "არის ეს სამედიცინო რჩევა?",
+              "a": "არა. Golden Moments განკუთვნილია დასვენებისა და ზოგადი ინფორმაციისთვის. ჯანმრთელობასთან დაკავშირებული კითხვებისთვის მიმართეთ ექიმს, ხოლო გადაუდებელ შემთხვევებში დარეკეთ 112-ში."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "დამატებითი დეტალები: <a href=\"/caregiving/how-to-play-together/\">როგორ ვითამაშოთ ერთად</a>, <a href=\"/caregiving/when-they-say-no/\">როცა ისინი უარს ამბობენ</a>, <a href=\"/activities/late-stage/\">აქტივობები გვიანი ეტაპისთვის</a> და <a href=\"/brain-health/can-dementia-be-prevented/\">შესაძლებელია დემენციის თავიდან აცილება?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "უფასო, მშვიდი თამაშები დემენციის მქონე ადამიანებისთვის",
+      "seoTitle": "ამოსაბეჭდი მასალა: უფასო ონლაინ თამაშები დემენციისთვის",
+      "description": "ერთგვერდიანი ამოსაბეჭდი მასალა ოჯახებისა და მზრუნველებისთვის დემენციის მქონე ადამიანებისთვის განკუთვნილ უფასო, მშვიდ სურათებიან თამაშებზე, მხარდამჭერი ჯგუფებისა და საინფორმაციო პაკეტებისთვის.",
+      "crumb": "ამოსაბეჭდი მასალა",
+      "lede": "ამობეჭდეთ ეს გვერდი მხარდამჭერი ჯგუფისთვის, საინფორმაციო პაკეტისთვის ან მაცივარზე გასაკრავად. გამოიყენეთ თქვენი ბრაუზერის ბეჭდვის ბრძანება; მენიუები და ღილაკები ამონაბეჭდში არ გამოჩნდება.",
+      "introHtml": "<p>დიდი სურათები, მარტივი სიტყვები და არანაირი შეცდომის დაშვების შიში. უფასო ტელეფონზე, პლანშეტზე ან კომპიუტერზე, რეგისტრაციის, რეკლამების, ტაიმერებისა და ქულების გარეშე. დასხედით გვერდიგვერდ და ითამაშეთ რიგრიგობით.</p>",
+      "gamesTitle": "თამაშები ერთად გამოსაცდელად",
+      "restHtml": "<h2>რამდენიმე რჩევა</h2><ul><li>შეარჩიეთ დღის ის მონაკვეთი, როდესაც ადამიანი თავს ყველაზე კარგად გრძნობს.</li><li>დაიწყეთ ყველაზე მარტივი პარამეტრით. ოთხი ფილა სრულიად საკმარისია.</li><li>ისაუბრეთ სურათებზე. საუბარი ხშირად საუკეთესო ნაწილია.</li><li>შეწყვიტეთ მანამ, სანამ პროცესი ჯერ კიდევ სასიამოვნოა. ადრე დასრულებაც კარგი შედეგია.</li></ul><h2>ასევე საიტზე</h2><ul><li>უფასო ამოსაბეჭდი მასალები: სიტყვების ძიება მსხვილი შრიფტით, გასაფერადებლები, სასაუბრო ბარათები და სურათებიანი ბინგო.</li><li>აქტივობის იდეები ყველა ეტაპისთვის, ასევე გზამკვლევები ერთად თამაშისა და საკუთარ თავზე ზრუნვის შესახებ.</li></ul><p class=\"muted\">სიამოვნებისა და ერთად დროის გასატარებლად. არ წარმოადგენს სამედიცინო რჩევას, ტესტს ან მკურნალობას. Golden Moments-ის გამომცემელია Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "მზრუნველობის სახლების, ბიბლიოთეკებისა და მხარდამჭერი ჯგუფებისთვის",
+      "seoTitle": "უფასო აქტივობები დემენციის მქონე ადამიანებისთვის: მზრუნველობის სახლებისა და ჯგუფებისთვის",
+      "description": "როგორ იყენებენ მზრუნველობის სახლები, დღის ცენტრები, ბიბლიოთეკები, ხანდაზმულთა ორგანიზაციები და მხარდამჭერი ჯგუფები ჩვენს უფასო თამაშებს დემენციის მქონე ადამიანებისთვის, და ტექსტი ჩვენი რესურსების სიაში დასამატებლად.",
+      "crumb": "ორგანიზაციებისთვის",
+      "lede": "ამ საიტზე ყველაფერი უფასოა მობინადრეებთან, წევრებთან და ბენეფიციარებთან გამოსაყენებლად – ანგარიშის, ლიცენზიისა და გადასახადის გარეშე. ეს გვერდი განმარტავს, რა რესურსებია აქ და როგორ შეგიძლიათ მათი გაზიარება.",
+      "shortText": "{name}: უფასო, მშვიდი ილუსტრირებული თამაშები და აქტივობების გზამკვლევები დემენციით მცხოვრები ადამიანებისა და მათზე მზრუნველებისთვის. რეგისტრაციის, ტაიმერებისა და ქულების გარეშე.",
+      "longText": "{name} ({domain}) გთავაზობთ {count} უფასო ბრაუზერის თამაშს, რომელიც შექმნილია დემენციის მქონე ადამიანებისთვის. მათ შორისაა წყვილების პოვნა ღია სურათებით, მარტივი ფაზლი, დახარისხება, ნაცნობი ანდაზები და ნახატებიანი ბინგო ამოსაბეჭდი ბარათებით. აქ არ არის რეგისტრაცია, რეკლამა, ტაიმერი ან ქულები. საიტზე ასევე იპოვით გასაგებ ენაზე დაწერილ აქტივობების გზამკვლევებს დემენციის თითოეული ეტაპისთვის, რომლებიც ეყრდნობა National Institute on Aging-ისა და Alzheimer's Association-ის მასალებს.",
+      "useTitle": "რა რესურსების გამოყენება შეუძლიათ ორგანიზაციებს",
+      "gamesItemHtml": "<strong>{count} ბრაუზერის თამაში</strong>, რომლებიც იხსნება ლეპტოპზე, ტაბლეტზე ან კომპიუტერთან შეერთებულ ტელევიზორზე. ინსტალაციის, ანგარიშისა და ჩამოტვირთვის გარეშე. იხილეთ <a href=\"/games/\">ყველა თამაში</a>.",
+      "printablesLabel": "{count} ამოსაბეჭდი მასალა:",
+      "printablesAfter": "გამოიყენეთ ბეჭდვის ღილაკი თითოეულ გვერდზე.",
+      "moreItemsHtml": "<li><strong>ჯგუფური ფორმატები:</strong> <a href=\"/games/picture-bingo/\">ნახატებიან ბინგოს</a> აქვს ამოსაბეჭდი ბარათები და ეკრანზე გამომცხადებელი, ხოლო <a href=\"/activities/trivia/\">მარტივ ვიქტორინას</a> აქვს 50 კითხვა სავარაუდო პასუხებითა და სასაუბრო თემებით.</li><li><strong>აქტივობების გზამკვლევები</strong> პერსონალისა და ოჯახებისთვის, ეტაპებისა და ტიპის მიხედვით, დაწერილი გასაგებ ენაზე და მითითებული წყაროებით. დაიწყეთ <a href=\"/activities/ideas/\">აქტივობის 101 იდეით</a> ან გაეცანით <a href=\"/activities/care-home-groups/\">ჯგუფურ აქტივობებს მზრუნველობის სახლებისთვის</a>.</li>",
+      "restHtml": "<h2>როგორ იყენებენ ჯგუფები</h2><ul><li><strong>მზრუნველობის სახლები და მეხსიერების მოვლის განყოფილებები:</strong> ნახატებიანი ბინგო ან ანდაზის დასრულება საერთო ოთახის ტელევიზორზე, სადაც ერთი ადამიანი მართავს ეკრანს მთელი ჯგუფისთვის.</li><li><strong>დღის ცენტრები:</strong> ტაბლეტის კუთხე „სურათების წყვილებით“ ოთხ ბარათზე, მოკლე ინდივიდუალური შეხვედრებისთვის.</li><li><strong>საჯარო ბიბლიოთეკები:</strong> ამობეჭდილი სიტყვების ძებნა და სასაუბრო ბარათები მეხსიერების ნაკრებებში, ხოლო საიტი – შენახული ბიბლიოთეკის ტაბლეტებში.</li><li><strong>მზრუნველთა მხარდამჭერი ჯგუფები და „მეხსიერების კაფეები“:</strong> <a href=\"/handout/\">ერთგვერდიანი ამოსაბეჭდი საინფორმაციო ფურცელი</a> ოჯახებისთვის სახლში წასაღებად.</li><li><strong>საავადმყოფოები და გაწერის კოორდინატორები:</strong> საინფორმაციო ფურცელი მზრუნველთა პაკეტებში, სახლში ან საწოლთან მშვიდი დროის გასატარებლად.</li></ul><h2>რას არ ვაკეთებთ</h2><p>ეს თამაშები განკუთვნილია სიამოვნებისთვის და ერთად დროის გასატარებლად. ისინი არ ახდენენ დემენციის დიაგნოსტირებას, ტესტირებას, შეფასებას, მკურნალობას ან შენელებას, და ვთხოვთ ორგანიზაციებს, არც აღწერონ ისინი ამგვარად. საიტზე არ არის რეკლამები და თამაშები არ ითხოვს სახელების, ჯანმრთელობის შესახებ მონაცემების ან ფოტოების ატვირთვას. ვებსაიტი იყენებს Google Analytics-ს ვიზიტების დასათვლელად; ჩვენი <a href=\"/privacy/\">კონფიდენციალურობის პოლიტიკა</a> განმარტავს, თუ რას აგროვებს ის. <a href=\"/games/photo-pairs/\">ფოტოების წყვილებში</a> გამოყენებული ფოტოები რჩება ბრაუზერში.</p><h2>დაგვამატეთ თქვენს რესურსების სიაში</h2><p>თუ გაქვთ მზრუნველთათვის განკუთვნილი რესურსების სია, შეგიძლიათ მიუთითოთ ბმული <a href=\"/\">{domain}</a>. შეგიძლიათ დააკოპიროთ ნებისმიერი აღწერა.</p>",
+      "shortTitle": "მოკლე აღწერა",
+      "longTitle": "ვრცელი აღწერა",
+      "linksHtml": "<p>სასარგებლო გვერდები პირდაპირი ბმულისთვის: <a href=\"/games/\">უფასო თამაშები</a>, <a href=\"/activities/printable/\">უფასო ამოსაბეჭდი მასალები</a>, <a href=\"/activities/alzheimers/\">აქტივობები ალცჰაიმერის დროს</a> და <a href=\"/caregiving/how-to-play-together/\">როგორ ვითამაშოთ ერთად</a>.</p><h2>კითხვები ან შენიშვნები</h2><p>თუ საიტზე რაიმე შეცდომითაა, გაუგებარია ან არ პასუხობს მობინადრის საჭიროებებს, გთხოვთ მოგვწეროთ მისამართზე <a href=\"mailto:{email}\">{email}</a>. გთხოვთ, ნუ გამოგზავნით მობინადრეების ან ბენეფიციარების პირად ან სამედიცინო ინფორმაციას.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "აპლიკაცია Golden Moments",
+      "seoTitle": "აპლიკაცია Golden Moments iPhone-ისა და Android-ისთვის",
+      "description": "უფასო აპლიკაცია Golden Moments: მშვიდი ფოტოების პოვნა ოთხი დიდი ბარათით, ოჯახური ფოტოები თქვენს მოწყობილობაში, სურათების ნაკრებები ინტერნეტის გარეშე და ანგარიშის შექმნის გარეშე.",
+      "crumb": "აპლიკაცია",
+      "lede": "ყველაფერი, რაც მოგწონთ ვებსაიტზე – აპლიკაციაში, რომელიც მუშაობს ინტერნეტის გარეშე და შეუძლია გამოიყენოს თქვენ მიერ არჩეული ოჯახური ფოტოები.",
+      "worksOn": "მუშაობს {platforms}-ზე ({requirements}).",
+      "bodyHtml": "<h2>დაიწყეთ მცირედით</h2><p>დაიწყეთ ოთხი დიდი ბარათით და ნაცნობი სურათებით. დატოვეთ სურათები ხილული, ან დამალეთ ისინი, როცა ეს უფრო მოსახერხებელი იქნება. მშვიდ რეჟიმში არ არის ტაიმერი, ქულები ან ჯარიმები. აირჩიეთ 4, 6, 8 ან 12 ბარათი.</p><h2>გახადეთ თქვენზე მორგებული</h2><p>აირჩიეთ ოჯახური ფოტოები თქვენი მოწყობილობის ფოტოალბომიდან. აპლიკაცია ინახავს მათ პატარა ასლებს აქტივობებისთვის. ის არ ამოწმებს თქვენს გალერეას და არ ცვლის ორიგინალ ფოტოებს, ხოლო ერთ კოლექციაში ინახავს 24-მდე ფოტოს.</p><h2>უბრალოდ დაათვალიერეთ ერთად</h2><p>დაათვალიერეთ თითო სურათი. სურვილისამებრ, შეგიძლიათ გამოიყენოთ კითხვები საუბრის დასაწყებად — სახელების გახსენების ან სწორი პასუხის მოთხოვნის გარეშე. უბრალოდ ერთად ყურებაც სრულიად საკმარისია.</p><h2>მუშაობს ინტერნეტის გარეშეც</h2><p>საწყისი სურათები და რვავე თემატური ნაკრები უკვე ჩაშენებულია აპლიკაციაში. დამატებული ფოტოების ასლები ინტერნეტის გარეშეც იხსნება. მხოლოდ iCloud-ში შენახული ორიგინალი ფოტოების ასარჩევად შეიძლება დაგჭირდეთ ინტერნეტთან კავშირი.</p><h2>არ საჭიროებს ანგარიშს და სერვერზე სინქრონიზაციას</h2><p>ოჯახური ფოტოების ასლები რჩება მხოლოდ თქვენს მოწყობილობაში, აპლიკაციის შიგნით. ასლების წაშლა შეგიძლიათ ორიგინალების წაშლის გარეშე. მოწყობილობის სარეზერვო ასლებში შეიძლება მოხვდეს აპლიკაციის მონაცემებიც. გაეცანით <a href=\"/app-privacy/\">აპლიკაციის კონფიდენციალურობის პოლიტიკას</a>, ხოლო <a href=\"/help/\">აპლიკაციის დახმარების გვერდი</a> დეტალურად აგიხსნით თითოეულ ნაბიჯს.</p>",
+      "disclaimer": "Golden Moments განკუთვნილია დასვენებისა და სასიამოვნო საუბრისთვის. ის არ ახდენს დემენციის ან ალცჰაიმერის დაავადების დიაგნოსტირებას, მკურნალობას, პრევენციას ან შეფასებას.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "უფასო ონლაინ თამაშები დემენციისა და ალცჰაიმერის მქონე ადამიანებისთვის",
+    "description": "უფასო ონლაინ თამაშები დემენციით ან ალცჰაიმერით მცხოვრები ხანდაზმულებისთვის: სურათების შეხამება, მარტივი ფაზლები, დახარისხება, ანდაზები, გაფერადება, ბინგო. რეგისტრაციის, ტაიმერებისა და ქულების გარეშე.",
+    "crumb": "თამაშები",
+    "h1": "მშვიდი თამაშები დემენციის მქონე ადამიანებისთვის",
+    "lede": "{count} უფასო თამაში ბრაუზერში ერთად სათამაშოდ. დიდი სურათები, მარტივი სიტყვები და არანაირი მარცხი: ტაიმერის, ქულებისა და რეგისტრაციის გარეშე.",
+    "listName": "მშვიდი თამაშები დემენციის მქონე ადამიანებისთვის",
+    "byStageTitle": "თამაშის შერჩევა ეტაპის მიხედვით",
+    "byStageLede": "ეტაპები მხოლოდ ზოგადი ორიენტირია. დააკვირდით, რა ანიჭებს ადამიანს სიამოვნებას და რა არის მისთვის კომფორტული დღეს.",
+    "stageCol": "ეტაპი",
+    "gamesCol": "თამაშები, რომლებიც ხშირად შეეფერებათ",
+    "moreHtml": "მეტი იდეა ეკრანს მიღმა აქტივობებისთვის: <a href=\"/activities/ideas/\">101 აქტივობა დემენციის მქონე ადამიანებისთვის</a>, <a href=\"/activities/alzheimers/\">აქტივობები და თამაშები ალცჰაიმერის დროს</a>, <a href=\"/activities/memory-games/\">მშვიდი თამაშები მეხსიერებისთვის</a> და <a href=\"/activities/puzzles/\">ფაზლები</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "რომელი თამაშით დავიწყოთ?",
+        "a": "„სურათების წყვილები“ ოთხი ბარათით მშვიდი პირველი არჩევანია. თუ სურათებს შორის არჩევანის გაკეთება დამღლელი აღმოჩნდება, სცადეთ „იპოვე იგივე“ ორი სურათით. ჯგუფისთვის კი სცადეთ „სურათების ბინგო“."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "მუშაობს თუ არა თამაშები iPad-ზე ან ტელეფონზე?",
+        "a": "დიახ. ყველა თამაში მუშაობს ბრაუზერში — ტელეფონზე, პლანშეტსა და კომპიუტერზე, ხოლო სურათები ეკრანის ზომაზე იშლება. სადგამზე დადებული პლანშეტი ხშირად ყველაზე მოსახერხებელია ორნი ერთად ყოფნისას."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "გამოდგება თუ არა ეს თამაშები ალცჰაიმერის მქონე ადამიანისთვის?",
+        "a": "დიახ. ისინი შეიქმნა დემენციით, მათ შორის მისი ყველაზე გავრცელებული ფორმით — ალცჰაიმერით მცხოვრები ადამიანებისთვის. სურათები რჩება ხილული, არჩევანი მცირეა, დრო და ქულები კი არ ითვლება, ამიტომ თამაშები ეყრდნობა ნაცნობი საგნების ამოცნობას და არა ახლის დამახსოვრებას."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "არის ეს მეხსიერების თამაშები ხანდაზმულებისთვის?",
+        "a": "ეს არის სურათებისა და შეხამების თამაშები, რომლებითაც ნებისმიერ ხანდაზმულს შეუძლია ისიამოვნოს, თუმცა ისინი შექმნილია ისე, რომ არ გამოსცადოს მეხსიერება: თამაშში „სურათების წყვილები“ სურათები რჩება პირაღმა, თუ სხვაგვარად არ აირჩევთ. ჩვენი გზამკვლევი დემენციის მქონე ხანდაზმულთათვის განმარტავს, თუ როგორ შეიძლება ნებისმიერი მეხსიერების თამაში იყოს მშვიდი და სასიამოვნო."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "არის თუ არა თამაშები მზრუნველობის სახლში ჯგუფური აქტივობებისთვის?",
+        "a": "დიახ. „სურათების ბინგოს“ აქვს დასაბეჭდი ბარათები და ეკრანზე გამომცხადებელი, ხოლო „დაასრულე ანდაზა“ და „სასაუბრო ბარათები“ ძალიან კარგია ჯგუფში ხმამაღლა წასაკითხად."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad და Android",
+    "requirements": "iOS 15 ან უფრო ახალი; Android 7.0 ან უფრო ახალი",
+    "summary": "უფასო აპლიკაცია iPhone-ისთვის, iPad-ისა და Android-ისთვის მშვიდი სურათების შეხამებით ოთხიდან თორმეტამდე დიდ ბარათზე, თქვენ მიერ შერჩეული ოჯახური ფოტოების შეხამებითა და დათვალიერებით, და რვა ჩაშენებული თემატური ნაკრებით, რომლებიც ინტერნეტის გარეშეც მუშაობს. ანგარიშის, რეკლამების, ტაიმერისა და ქულების გარეშე.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "მშვიდი სურათების შეხამება 4, 6, 8 ან 12 დიდ ბარათზე; სურათები რჩება ხილული, თუ მათ დამალვას არ აირჩევთ",
+      "თქვენ მიერ შერჩეული ოჯახური ფოტოები კოპირდება აპლიკაციაში შესახამებლად და ერთად დასათვალიერებლად",
+      "ერთად დათვალიერება: თითო სურათი სურვილისამებრ გამოსაყენებელი სასაუბრო კითხვებით",
+      "რვა თემატური ნაკრები უკვე ჩაშენებულია აპლიკაციაში და მუშაობს ინტერნეტის გარეშე",
+      "არ საჭიროებს ანგარიშს, რეკლამების, აპლიკაციის შიდა შესყიდვების, ტაიმერის, ქულებისა და ჯარიმების გარეშე"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "არსებობს თუ არა აპლიკაცია დემენციის დროს აქტივობებისთვის?",
+        "a": "დიახ. Golden Moments (აპლიკაციების მაღაზიაში: „{storeName}“) უფასოა App Store-სა და Google Play-ზე. ის გთავაზობთ სურათების მშვიდ შეხამებას დიდი ბარათებით, თამაშებს თქვენ მიერ შერჩეული ოჯახური ფოტოებით და თემატურ ნაკრებებს, რომლებიც ინტერნეტის გარეშეც მუშაობს."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "უფასოა თუ არა აპლიკაცია Golden Moments?",
+        "a": "დიახ. მისი ჩამოტვირთვა უფასოა — რეკლამების, ანგარიშისა და აპლიკაციის შიდა შესყიდვების გარეშე."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "მუშაობს თუ არა აპლიკაცია ინტერნეტის გარეშე?",
+        "a": "დიახ. საწყისი სურათები და რვავე თემატური ნაკრები უკვე ჩაშენებულია აპლიკაციაში, ხოლო ოჯახური ფოტოები აპლიკაციაში კოპირების შემდეგ ინტერნეტის გარეშეც ხელმისაწვდომია. მხოლოდ iCloud-ში შენახული ფოტოს ასარჩევად შეიძლება დაგჭირდეთ ინტერნეტთან კავშირი."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "შემიძლია გამოვიყენო ჩვენი ოჯახური ფოტოები?",
+        "a": "დიახ. აირჩიეთ ფოტოები თქვენი მოწყობილობის ფოტოების ამრჩევით. აპლიკაცია მოწყობილობაში ინახავს მათ პატარა ასლებს აქტივობებისთვის, არსად არ ტვირთავს მათ და არასოდეს ცვლის ორიგინალებს. ასლების წაშლა ნებისმიერ დროს შეგიძლიათ."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "ეს ტვინის სავარჯიშო ან მეხსიერების შესამოწმებელი აპლიკაციაა?",
+        "a": "არა. Golden Moments შექმნილია სიამოვნებისთვის და ერთად დროის გასატარებლად. მასში არ არის ქულები ან ტესტები და ის არ სვამს დიაგნოზს, არ კურნავს, არ აფერხებს და არ ზომავს დემენციას ან ალცჰაიმერის დაავადებას."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "რომელ მოწყობილობებზე მუშაობს?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "არსებობს ამ თამაშის აპლიკაციის ვერსია?",
+      "a": "დიახ. Golden Moments-ის უფასო აპლიკაციას iPhone-ის, iPad-ისა და Android-ისთვის აქვს სურათების იგივე მშვიდი შესაბამისობის თამაში, შეუძლია თქვენ მიერ შერჩეული ოჯახური ფოტოების გამოყენება და მუშაობს ინტერნეტის გარეშეც. არ საჭიროებს ანგარიშს, არ აქვს რეკლამები ან ქულები."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "არსებობს ამ თამაშის აპლიკაციის ვერსია?",
+      "a": "ამ თამაშის არა. Golden Moments-ის უფასო აპლიკაციას iPhone-ის, iPad-ისა და Android-ისთვის აქვს სურათების მშვიდი შესაბამისობის თამაში დიდი ფილებითა და თქვენ მიერ არჩეული ოჯახური ფოტოებით და ის ინტერნეტის გარეშეც მუშაობს. ეს თამაში კი კვლავ უფასო რჩება აქ, თქვენს ბრაუზერში."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: დიდი, სასიამოვნო სურათები",
+    "noscript": "ამ თამაშისთვის საჭიროა, რომ თქვენს ბრაუზერში ჩართული იყოს JavaScript. ქვემოთ მოცემული რჩევები მის გარეშეც ხელმისაწვდომია.",
+    "about": "{name}-ის შესახებ",
+    "aboutAria": "ამ თამაშის შესახებ",
+    "noTimer": "ტაიმერისა და ქულების გარეშე",
+    "printable": "დასაბეჭდი ვერსია",
+    "howTo": "როგორ ვითამაშოთ {name}",
+    "tips": "რჩევები ერთად თამაშისთვის",
+    "newToPlayingHtml": "პირველად თამაშობთ დემენციის მქონე ადამიანთან ერთად? წაიკითხეთ, <a href=\"/caregiving/how-to-play-together/\">როგორ ვითამაშოთ ერთად</a>, მათ შორის, რა უნდა გააკეთოთ, თუ მან ინტერესი დაკარგა.",
+    "moreAria": "სხვა მასალები",
+    "helpfulGuides": "სასარგებლო გზამკვლევები",
+    "appTitle": "ითამაშეთ აპლიკაციაში",
+    "appText": "Golden Moments-ის უფასო აპლიკაციას აქვს სურათების მშვიდი შესაბამისობის თამაში დიდი ფილებითა და თქვენი ოჯახური ფოტოებით და მუშაობს Wi‑Fi-ს გარეშეც. iPhone, iPad და Android.",
+    "photoAppTitle": "მოამზადეთ თქვენი ფოტოები",
+    "photoAppText": "Golden Moments-ის უფასო აპლიკაციაში თქვენ მიერ შერჩეული ფოტოები თქვენს მოწყობილობაში რჩება შემდეგი ჯერისთვის, თამაშები კი Wi‑Fi-ს გარეშეც მუშაობს. iPhone, iPad და Android.",
+    "goodToKnow": "კარგია იცოდეთ",
+    "goodToKnowText": "ეს თამაში განკუთვნილია სიამოვნებისთვის და ერთად დროის გასატარებლად. ის არაფერს ამოწმებს, არ ზომავს და არ კურნავს.",
+    "moreGames": "სხვა მშვიდი თამაშები",
+    "crumb": "თამაშები"
   }
 }

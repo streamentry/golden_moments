@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Дыууæ сурет",
+    "seoTitle": "Дыууæ суретты тæлмæнд деменцийы адæмтæн: æнцон тæлмæнд",
+    "h1": "Дыууæ сурет: æнцон тæлмæнд",
+    "description": "Æнæхъæн, æнцон тæлмæнд деменциимæ æрбахаст адæмтæн. Сурæттæ цырдæй ис, часы нæ ис, ахъаз нæ ис, ды ис 4-æй 12-мæ æнкъардзæн.",
+    "short": "Ракæс дыууæ сурет, кæцæйы сæ иу у. Сурæттæ ис, цæмæй хъуыддаг нæ æрхæссы.",
+    "players": "1 кæнæ 2 адæм, иу-иумæ",
+    "intro": "Иу сурет фесафут, йæ бын сурæт дæр фесафут, цæмæй сæ иу уа. Кæд дыууæ сурет иу у, уæд сæ сæ бын зæрдæбын хæлд ис æмæ рæстæг ис.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Фæнд кæн, цæмæн сурæттæ дæ хъуыддаг. Цыппæр сурет – æнцон цæст.",
+      "Фесафут кæмдæр сурет. Йæ бын хæлд ис.",
+      "Фесафут уыцы сурет, кæцы иу æвзаг у. Дыууæ сурет фестæм ис æмæ рæстæджы сæ бын хæлд ис.",
+      "Кæд дыууæ сурет иу нæ сты, уæд нæ хъуыддаг ис. Фесафут фæстæмæ, кæд дæ ис фæнд.",
+      "Фæнд кæн «Пыхты сурæттæ» ацы, кæд уæ иумæ фæнды цы классикон фарс."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Сурæттæн нæмттæ иумæ зæгъ æмæ сæрæй кæс: «Хъуырдзыг дзыбыр фын. Дæ чайы сыгъ ахъаз дæ?»",
+      "Адæм, чиимæ дæ фидæн кæныс, фесафут сæхи æнцон. Кæд уый ахсæв дæр ис, сурæттæ сæхи æнцон ракæс.",
+      "Цыппæр сурет фæндыгæнæг. Фылдæр сурет – фæндагыл ис, нæ æнцон.",
+      "Тæлмæнд ис, кæд дæ зæрдæ æрцæттæ кæны. Иу тæлмæнд ис æнцон хъуыддаг."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ис ма часы кæнæ цæстæнгас?",
+        "a": "Нæ. Нæ ис часы, цæстæнгас, фæстæмæ фæрсын кæнæ ахуырыл. Дæ фæнд кæны рæстæджы дæр айс, æмæ æнцон хъуыддаг ис, кæд фæстæмæ дæ фæнды æнцон."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Цæмæн сурæттæ фесафут?",
+        "a": "Сурæттæ фесафут ис, уый ныхмæ ракæс æмæ сæ иу кæныныл дæ ахъаз ис. Æнцон у ныхмæ. Кæд дæ фæнд у пыхты сурæттæ, уæд сæ сæ иу фыст хъуыддагыл ныхмæ ахъаз ис."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Æнæ фæстæ? Нæ хъæуы бæрæггæнæн?",
+        "a": "Æо, æнæ фæстæ у, нæ хъæуы бæрæггæнæн, нæ хъæуы сагъæс кæнын. Кæсын фæнды телефонмæ, планшетмæ кæнæ компьютермæ цæттæ у ныхмæ браузер."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Ма нæ хъуыддагæн ныхмæ сурæттæ хъæуы?",
+        "a": "Æо. Ахсгæ «Фототы дыууæ», уый дæ фæнды дæ фæйнæ сурæттæ. Сурæттæ цæттæ сты дæ браузерыл, нæ æрцæуынц."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Ракæс уыцы",
+    "seoTitle": "Ракæс уыцы сурет: деменцийы адæмтæн æнцон тæлмæнд",
+    "h1": "Ракæс уыцы сурет",
+    "description": "Иу сурет сæрыл, дыууæ-цыппæр бын. Фесафут уыцы, кæцы иу у. Æнцон, æнæхъæн тæлмæнд деменциимæ æрбахаст адæмтæн, часы нæ ис.",
+    "short": "Ракæс сурæт сæрыл æмæ фесафут йæ иу бын.",
+    "players": "1 кæнæ 2 адæм",
+    "intro": "Иу сурет ис экраны сæрыл. Йæ бын ис дыууæ, цыппæр кæнæ æртæ сурæт. Фесафут уыцы, кæцы иу у. Иу бæрæг фæндагыл кæсын ис, фылдæр ныхас ис.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Фæнд кæн, дыууæ, æртæ кæнæ цыппæр сурæт. Дыууæ – æнцон.",
+      "Сурæт сæрыл иумæ ракæс.",
+      "Фесафут йæ бын уыцы сурæт. Ахъаз ис хæлд æмæ иу-дыууæ ныхасы.",
+      "Кæд нæ иу сурæт фесафут, уæд тæлмæнд нæ дзæбæх кæны, фæндагыл ис. Рæстæг ахъаз ис.",
+      "Фесафут «Æндæр сурет», кæд дæ фæнд у æндæр."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Фесафуты размæ ныхас кæн æрмæст сурæтты: рæнгтæ, формæтæ, кæдæм дæ ахъаз ис уыцы.",
+      "Дыууæ фæнд ис «æнцон». Цыппæр тæлмæнд у, нæ тыхст.",
+      "Кæд фесафын кæмæй хæрз у, уæд адæм йæ хъæртæ кæна, ды та йæ бын фесафут."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ис ма часы кæнæ цæстæнгас?",
+        "a": "Нæ. Нæ ис часы, цæстæнгас, фæстæмæ фæрсын кæнæ ахуырыл. Дæ фæнд кæны рæстæджы дæр айс, æмæ æнцон хъуыддаг ис, кæд фæстæмæ дæ фæнды æнцон."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Цы уыдзæн, кæд æндæр сурет фесафут?",
+        "a": "Ничи цы уыдзæн. Нæ ис зарæг, нæ ис кросс кæнæ тыхст. Тæлмæнд нымайы фесафт сурет æмæ ис фæстæмæ фесафынæн."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Æнæ фæстæ? Нæ хъæуы бæрæггæнæн?",
+        "a": "Æо, æнæ фæстæ у, нæ хъæуы бæрæггæнæн, нæ хъæуы сагъæс кæнын. Кæсын фæнды телефонмæ, планшетмæ кæнæ компьютермæ цæттæ у ныхмæ браузер."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Сæр æмбæрз",
+    "seoTitle": "Сæр æмбæрз деменцийы адæмтæн: æнæ фæстæ онлайн тæлмæнд",
+    "h1": "Сæр æмбæрз: æнцон сурæттæ тæлмæнд",
+    "description": "Сæр сæрыл — тар сæр, дыууæ-цыппæр сурет бын. Фесафут уыцы сурæт, кæцы сæр кæны. Æнцон, æнæхъæн тæлмæнд деменциимæ æрбахаст адæмтæн, часы нæ ис.",
+    "short": "Ракæс сæр æмæ фесафут сурæт, кæцы йæ кæны.",
+    "players": "1 кæнæ 2 адæм",
+    "intro": "Сæр æмбæрз – ахуыр, кæцы фыст сурæттæй зонын. Ацы ис ногæй, фыст сурæт нæ хъæуы. Экраны сæрыл ис æндæр сæр, йæ бын ис дыууæ, æртæ кæнæ цыппæр сурæт. Фесафут уыцы, кæцы сæр кæны. Велосипед, чыбыр кæнæ чайы сыгъ дæр фæнд ис æнцон ныхасмæ.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Фæнд кæн, дыууæ, æртæ кæнæ цыппæр сурæт. Дыууæ – æнцон.",
+      "Сæр иумæ ракæс. Цы формæ у? Бæрзонд у кæнæ цыд?",
+      "Фесафут уыцы сурæт, кæцы сæр кæны. Йæ ном сæры бын бæрæг вæййы.",
+      "Кæд æндæр сурæт фесафут, уæд тæлмæнд йæ нымайы æмæ ис фæстæмæ фесафынæн. Рæстæг ахъаз ис.",
+      "Фесафут «Æндæр сæр», кæд дæ фæнд у æндæр."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Сæры рæттæ дæ мит хъæрмæ рæстæг кæн æмæ ныхас кæн формæйы тыххæй.",
+      "Кæд сæртæ ацы рæстæджы хæрз, уæд фесафут «Ракæс уыцы», уæддæр сурæттæ иу сты.",
+      "Ныхас кæн уыцы сурæтыл, кæд фесафыс: «Нæ ис ахæм чыбыр». "
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ис ма часы кæнæ цæстæнгас?",
+        "a": "Нæ. Нæ ис часы, цæстæнгас, фæстæмæ фæрсын кæнæ ахуырыл. Дæ фæнд кæны рæстæджы дæр айс, æмæ æнцон хъуыддаг ис, кæд фæстæмæ дæ фæнды æнцон."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Шыбыр-бæлас хъæлдзæг деменцийы адæймæгты кæсгæйæ хорз ис?",
+        "a": "Уый кæйдæрты тыххæй хъæлдзæг, ахъаззаг хъæлдзæг хуы. Адæймæгтæн уæлдай ауæрдыгæй, быцæу аууон, кæд цæхæрхуызон кæмæн ис, уыдон ма бафтауы. Ацы хъæлдзæг у зæрдæхудт кæнынæн æмæ ныхасмæ, нæ тест. Уый деменцийы не 'ныххорз' кæна кæнæ не 'ныххуыцау' кæна. Кæд уæ зæрдæ ныззæрдæ кæна, уæд «Ууыл ууыл» æмæ кæнæ нывтæ цæмæй кæсынц, уый хорз у."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Цы уыдзæн, кæд ныв уæлдæр дзæбæх не' ныххуыр кæнай?",
+        "a": "Ничи зиан у. Нæ уыдзæн ныхасгæнæг, нæ уыдзæн хъæрæй кæнæ зæрдæ ныздзæн. Хъæлдзæг ныв ныхасмæ дарынц, уæд цыбыр ныхас кæны æмæ ссæрибар кæй у, уыцы ныв сбæзджын кæны."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Уый бесплатно у, æмæ регистраци хъæуы?",
+        "a": "Æй, бесплатно у, æмæ аккаунт, регистраци кæнæ загрузка нæ хъæуы. Уый браузерæй телефонæй, планшетæй кæнæ компьютеры хъуыд."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Сортировкæ иу хъæлдзæг",
+    "seoTitle": "Сортировкæйы хъæлдзæг деменцийы тыххæй: Сортировкæ иумæ",
+    "h1": "Иумæ сортировкæ: ныв сортировкæйы хъæлдзæг",
+    "description": "Ныв райхал кæн, уæдæ уый бацæуы корзинæ, кæцы у: кухня кæнæ бæгъ, мивæ кæнæ животтæ. Деменцийы фæстæ цæрæг адæймæгтæн æрмæст ахъаззаг, бесплатно сортировкæйы хъæлдзæг.",
+    "short": "Ныв корзинæмæ ахсын: кухня кæнæ бæгъ, æмæ æндæр.",
+    "players": "1 кæнæ 2 адæймаджы",
+    "intro": "Сортировкæ у цæуæн-рæуæн зæхх, фæлæ уый адæймæгты хъуыддаг у, ома кæнæ тыхгæнгæ уыдзæн. Ныв райхал кæн, уæдæ уый корзинæ, кæцы у уыдзæн. Нæ ис ахъаззаг, нæ ис уæлдай æвзæрст.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Тема райс: кухня æмæ бæгъ, мивæ æмæ животтæ, кæнæ хæдзар æмæ путешествийы.",
+      "Ныв райхал кæн. Уый зарды сæрыхъ райсы.",
+      "Корзинæ райхал кæн, кæцы уæд ныв уыцы корзинæйы ахсы.",
+      "Кæд ныв æндæр корзинæйы хъуыд, уæд хъæлдзæг хъуыр æмæ хъæрæй кæнын нæ ис.",
+      "Кæд ныв ахсыд, уæд корзинæтæ иумæ кæсын."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Цардыл кæрæдзийы хъуыддæгтæ нæ уыдзæн. Кæд адæймаг загъта, ныв кухняйы у, уæд ныхас кæн, цæмæй ныхасгæнæг дзурдзæн.",
+      "Нывтæ ныхасмæ ахъаз кæн: «Бæгъæй цы ныв ысбыдтæ?»",
+      "Цæмæй уæлдай хъæлдзæг у: ахъаззаг хъæлдзæг, цы ыстæй, кæртыг æмæ бæгъ кæнæ, уыдон æмæ сортировкæ кæнæ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Æппæт ыл таймер кæнæ балл ис?",
+        "a": "Нæ ис. Нæ ис сæт, балл, ныхтæ кæнæ цæмæй ныххауын. Ахсынæй кæнæ цæмæй бауайын, уый бамбæрзын у."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Ахсын цы бахъуыд?",
+        "a": "Адæймæгтæн сортировкæ ахъаз у, уый зæхх, цæмæй хъуыддаг уыдзæн. Ахсынмæ ныв ныхасмæ ахъаз у."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Уый бесплатно у, æмæ регистраци хъæуы?",
+        "a": "Æй, бесплатно у, æмæ аккаунт, регистраци кæнæ загрузка нæ хъæуы. Уый браузерæй телефонæй, планшетæй кæнæ компьютеры хъуыд."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Нывы пазл",
+    "seoTitle": "Ахъаззаг пазл деменцийы тыххæй: 4 кæнæ 9 цæхæр",
+    "h1": "Нывы пазл: ахъаззаг пазл",
+    "description": "Деменцийы фæстæ цæрæг адæймæгтæн ахъаззаг онлайн пазл: 4 кæнæ 9 уæлдай цæхæр, æппæт ныв сæйраг нæ уыдзæн, æмæ дыууæ цæхæры райхал кæнæ æмæ сты ахсын.",
+    "short": "Дыууæ цæхæры райхал кæн, цæмæй ныв æппæт уыдзæн.",
+    "players": "1 кæнæ 2 адæймаджы",
+    "intro": "Уæлдай адæймаджы ныв 4 кæнæ 9 уæлдай цæхæрты æрбацыд, æмæ æрыхъæлдзæг. Æппæт ныв сæйраг у æнцонгæ. Иу цæхæр райхал кæн, æдде æндæр, уæд сты ахсын. Æрмæст райхъуыст ныхас у.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Ныв æмæ 4 кæнæ 9 цæхæр райс. Цыбыр 4 хъæлдзæг у.",
+      "Уæлдæр æппæт ныв кæс.",
+      "Цæхæр райхал кæн, уæдæ уый бацæуы тыххæй, кæцы ахсы. Дыууæ цæхæры ахсынц.",
+      "Цæхæртæ, кæцы ныв дæлæ ис, уыдон ныхасмæ уæлдай ныхас кæнынц.",
+      "Кæд ныв æппæт у, уæд иумæ сарæзт, æмæ æндæр ныв райс."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Дыууæ цæхæры райхал кæнын адæймæгтæн райдыдтæ дæр хъуыддаг у, æвзæр æрбацæуы кæцæй.",
+      "Ныв æрхъуыдын: «Уыцы кæртыг цы кусы?»",
+      "Æмæ дарæддæр, дарæттæ пазл 12 кæнæ 24 уæлдай цæхæрты фæстæ сбадын."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Æппæт ыл таймер кæнæ балл ис?",
+        "a": "Нæ ис. Нæ ис сæт, балл, ныхтæ кæнæ цæмæй ныххауын. Ахсынæй кæнæ цæмæй бауайын, уый бамбæрзын у."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Цæхæртæ æркъуын хъæуы?",
+        "a": "Нæ хъæуы. Иу цæхæр райхал кæн, æндæр, уæд сты ахсын. Уый ахъаз у, кæд лæг дарддæр кæнæ цыбыр экраны ис."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Уый бесплатно у, æмæ регистраци хъæуы?",
+        "a": "Æй, бесплатно у, æмæ аккаунт, регистраци кæнæ загрузка нæ хъæуы. Уый браузерæй телефонæй, планшетæй кæнæ компьютеры хъуыд."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Æрцыд ныхас",
+    "seoTitle": "Æрцыд ныхас: ныхасты хъæлдзæг хъæугæ адæймæгтæн",
+    "h1": "Æрцыд ныхас",
+    "description": "Цардыл зонгæ ныхæстæ, кæцы фæстаг æвзаг нæ ис, сæ æнæ ныхæстæ: «Æрмæст ...». Райхал кæн кæнæ фæстаг æвзаг бацæуы, уæд ныхас кæн.",
+    "short": "Зонгæ ныхæстæ иумæ сарæзт, уæд ныхас кæн.",
+    "players": "1, 2 кæнæ хъæу",
+    "intro": "Зæронд ныхæстæ адæймаджы зонгæ сты. Ныв ныхас ис фæстаг æвзаджы æнæ, райхал ис 3 цыбыр æмæ «Фæстаг ахсын» нывыл. Фæстаг ахсынæй ныхас кæнын ныхасгæнæгæн.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Ныхас райдай-райдай иумæ кæс.",
+      "Фæстаг æвзаг райхал кæн кæнæ «Фæстаг ахсын» райхал кæн.",
+      "Æппæт ныхас дарддæр кæс æмæ ныхас кæн ныхасмæ сæ ныхæстæ.",
+      "Кæд уæ зæрдæ ис, уæд «Фæстаг ныхас» райхал кæн."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Цыбыр кæс æмæ фæстаг æвзагæй размæ цыбыр ныхасы ис. Иутæ адæймæгтæ дæр фæстаг æвзаг зонынц.",
+      "Кæд адæймаг æндæр фæстаг дзурдзæн, уæд уый хорз кæн. Ныхæстæ иумæ дæр фæстаг æвзаг ис.",
+      "Хъæумæ кæс: иу адæймаг кæсы, æппæт фæстаг æвзагмæ ныхас кæнынц."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Æппæт ыл таймер кæнæ балл ис?",
+        "a": "Нæ. Ацы хъуыддагыл нæ ис сахат, нæ очко, нæ ныв агурын, нæ дæ фæстæ ацæуын. Уæ фæндаг у ныххауын, куы ныххауыт, уæд дæр хорз ис."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Цы кæнæм, куы иу ныхас нæ фæраст уа?",
+        "a": "Хъуыддаг ныххауы сæ амондæн мидис, уæд ныхасмæ цæуы. Нæ ис очко, иннæ ныхас дæр хорз у."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ахæм у ма, æрмæг у, ма хъуамæ акаунт кæнæм?",
+        "a": "Æо, æрмæг у, акаунт, регистрацийы кæнын æви загрузкæ нæ хъæуы. Ис телефонмæ, планшетмæ æви компьютермæ браузерæй."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ныхæстæ агурын, стыр æрдзырдтимæ",
+    "seoTitle": "Стыр æрдзырдтимæ ныхæстæ агурын деменцийæ цæрæг адæймæгтæн, печатын",
+    "h1": "Стыр æрдзырдтимæ ныхæстæ агурын",
+    "description": "Æрмæг ныхæстæ агурын стыр æрдзырдтимæ зæронд адæймæгтæн æмæ деменцийæ цæрæг адæймæгтæн. Цы æрдзырдтæ æвзаргæ, фæндаг ныхæстæ уæ æппæт æрдзырдтæ хъæлæсгай ныхæстæ агурын. Онлайн кæнут æви печатын.",
+    "short": "Стыр æрдзырдтæ, иу-дыууæ ныхæстæ, фæндаг æмæ адæм. Печатын дæр ис.",
+    "players": "1 æви 2 адæймаджы",
+    "intro": "Стыр æрдзырдтæй цы хуыздæр, иу-дыууæ ныхæстæ, уыдон фæндагæй æви уæлæмæ æрцыдысты. Ныххауын ахæм æрдзырд, фæстæ дæр ахæм. Ныхæстæ агурын кæнут ныхæсты фæрсæт? Печатын кæнут ацы тыххæй.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Ныхæстæ агурын тема æмæ ныхæстæ рæстæг.",
+      "Ныхæстæ ссарын фæндагæй (чысыл æмæ дыккаг фæндаг) æви уæлæмæ (уæлæ æмæ фæстæ).",
+      "Ныххауын ныхæсты фыццаг æрдзырд, фæстæ дæр ныхæсты фæстæйы æрдзырд.",
+      "Ныхæст æмæ æрдзырд, ахæм ныхæст ссарын, хъæлæсгай ныхæстæ дæр фæцæуы.",
+      "Ныххауын \"Ацы головоломкæ печатын\", печатыныл ныхæстæ ссарын ныв æмæ кæрдæджы цæуæн."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ныхæстæ тыххæй цæстæй ахъуыр кæнут, уым æмæ фыццаг æрдзырд уыцы ныхæсты фæстæ.",
+      "Печатын ныв æмæ ныхæстæ ссарын фæстæ нæ ахъуыр æвзаргæ ссарын.",
+      "Тема ныхæстæ тыххæй ныхас кæнут. Хъуыр æмæ баз æмæ фидæртæ ма хуыздæр ныхæстæ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ис ма сахат æви очко?",
+        "a": "Нæ. Ис нæ сахат, нæ очко, нæ ныв агурын, нæ аргъ. Уæ фæндаг у ныххауын, куы ныххауыт, уæд дæр хорз ис."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ахæм у ма ныхæстæ агурын печатын?",
+        "a": "Æо. \"Ацы головоломкæ печатын\" кæнут стыр æрдзырдтимæ, ныхæстæ агурын кæнын ныхæстæ агурынмæ. Æппæт ныхæстæ ссарын фæстæ ныхæст у."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ахæм у ма, æрмæг у, ма хъуамæ акаунт кæнæм?",
+        "a": "Æо, æрмæг у, акаунт, регистрацийы кæнын æви загрузкæ нæ хъæуы. Ис телефонмæ, планшетмæ æви компьютермæ браузерæй."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Рæнгтæ ныссæттын",
+    "seoTitle": "Рæнгтæ ныссæттынæн фæлгонцтæ деменцийæ цæрæг адæймæгтæн (æрмæг)",
+    "h1": "Рæнгтæ ныссæттынæн фæлгонцтæ",
+    "description": "Калм, сæрибар адæймаджы рæнгтæ ныссæттынæн фæлгонцтæ стыр фæлгонцтимæ: рæнг фæрсут, фæстæ сурат фæцæуын. Ницы кæнын, ницы æвзаргæ рæнгтæ, æппæт фæлгонцтæ печатын æрмæг у.",
+    "short": "Рæнг фæрсут, фæстæ сурат фæцæуын. Фæлгонцтæ дæр печатын.",
+    "players": "1 æви 2 адæймаджы",
+    "intro": "Фæлгонцтæ стыр, хъæлæсгай фæлгонцтимæ: цъæх хæйрæджы бынат, цъæхтæ, чай, къæлæбыт æмæ фæлгон. Рæнг фæрсут, фæстæ сурат фæцæуын фæлгоныл. Ницы æвзаргæ рæнгтæ.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Фæлгон фæрсут.",
+      "Рæнг фæрсут. Æппæт рæнгтæ номыр ис.",
+      "Фæлгоны бын фæрсут рæнгæй фæцæуын.",
+      "Æндæр рæнгмæ фæцæуын ныххауын дæр хорз ис.",
+      "\"Ацы фæлгон печатын\" фæрсут, ахæм фæлгон рæнгтæ ныссæттынæн, пенкæй æви маркеры."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Иу-дыууæ рæнгтæ фæрсут, æппæт рæнгтæ ма куыд хъуыддаг у, ахæм.",
+      "Цъæх дарæстæ æмæ зæрдæгæс сæрддæр дæр хорз ис. Рæнг æмæ нæ рæст, ныв у.",
+      "Печатын фæлгонцтæ стыр маркеры æви кæрæджытæй фæндæрддæр."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ис ма сахат æви очко?",
+        "a": "Нæ. Ис нæ сахат, нæ очко, нæ ныв агурын, нæ аргъ. Уæ фæндаг у ныххауын, куы ныххауыт, уæд дæр хорз ис."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Ацы фæлгонцтæ ма нæ фæндаг у?",
+        "a": "Нæ фæлгонцтæ калм æмæ сæрибар адæймаджы æмбæлд у, нæ ахъуыр нæ уыдысты. Стыр фæлгонцтæ рæнгтæ ныссæттынæн хъæлæсгай кæнынц, ахæм адæймæгтæн."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ахæм у ма, æрмæг у, ма хъуамæ акаунт кæнæм?",
+        "a": "Æо, æрмæг у, акаунт, регистрацийы кæнын æви загрузкæ нæ хъæуы. Ис телефонмæ, планшетмæ æви компьютермæ браузерæй."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Ныхасы карточкæтæ",
+    "seoTitle": "Ныхасы фыццаг ныхæстæ деменцийæ: сурат карточкæтæ",
+    "h1": "Ныхасы карточкæтæ",
+    "description": "Сурат карточкæтæ хъæлæсгай ныхасы фыццаг ныхæстимæ деменцийæ цæрæг адæймæгтæн: ницы фæрсынæй, ницы рæстæг хъуыддагæй. Экраны ссарын æви æппæт карточкæтæ печатын.",
+    "short": "Сурат карточкæтæ уæлдай, хъæлæсгай фæрстимæ. Ницы фæрсынæй.",
+    "players": "2 адæймаджы æви хъæбул",
+    "intro": "Æппæт карточкæ ахуыр сурат æмæ ныхасы æнæхъæн фæрсты. Ахæм, \"Цы рæстæг дæ фæндаг у?\" Ницы рæст æви сæттæ, ницы кæнын фæстæмæ. Тема фæрсут æви æппæтыл ныв кæнут.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Тема фæрсут, æви \"Æппæт карточкæтæ\" хъуыддаг.",
+      "Фæрст хъусын, сурат цæстæй ахъуыр кæнут.",
+      "Хъусут, уæ хъуыддаг дæр ныхас кæнут, ныхас ма ацæу.",
+      "\"Раздæр карточкæ\" ныххауын, куы уæ фæндаг у, æви ма иу карточкæмæ æнæхъæн.",
+      "\"Æппæт карточкæтæ печатын\" фæрсут, ахæм карточкæтæ цавæнгæй ссарын."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Уæ дæр ныхас кæнут, уый ницы интервью, фæлгон ныхас у.",
+      "Ныхас рæстæг, нæ рæст. Æгъдау фæцæуын, ахæм ныхасы фæстæ дæр хорз у.",
+      "Карточка сæфт кæнын хъуыддаг, уæд уæ зæрдæ ахъуыр кæнут, иннæ карточкæмæ хъæлæсгай фæцæуын."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Цæмæн нæ \"Дæ ахъуыр кæнын ма…?\" фæрстæ?",
+        "a": "Ахъуырæн фæрстæ экзамены фæдыл кæнынц, уыцы сæфт æмæ æнæхъæн. \"Бæлвырд кæнут…\" ахæм фæрстæ ныхасмæ æнæхъæн кæнынц, куыд ахъуыр кæнут, ахæм адæймаг."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ахæм у ма карточкæтæ печатын?",
+        "a": "Æо. \"Æппæт карточкæтæ печатын\" кæнут стыр æрдзырдтимæ, иу фæлгонмæ иу-дыууæ карточкæ, цавæнгæй ссарынмæ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ахæм у ма, æрмæг у, ма хъуамæ акаунт кæнæм?",
+        "a": "Ой, бесплатно у, ӕмӕ аккаунт, регистраци кӕнын кӕнӕ загъд кӕнын нӕ хъӕуы. Уый кӕсы браузерыл телефоны, планшеты кӕнӕ компьютеры."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Фото-жыппӕртӕ",
+    "seoTitle": "Фамилийы фотойыл жыппӕрты хъазт бацӕттӕ",
+    "h1": "Фото-жыппӕртӕ: хӕхтыл фотойы хъазт",
+    "description": "Сымах фамилийы фотойы бацӕттӕ сӕ фӕндыр хъазт. Сымах фотойы 2-ӕй 6-ӕм cуыкӕй ахъуыдӕр кӕнут; сӕ браузерыл сты ӕмӕ нӕ ӕрбацӕудзысты.",
+    "short": "Фотойы хъуыдӕр кӕнут ӕмӕ сӕ жыппӕртӕ кӕнут. Ничи бацӕуа.",
+    "players": "2 адӕймаджы, ӕмпъӕлӕ",
+    "intro": "Аххос кӕнут телефонӕй, планшетӕй кӕнӕ компьютерӕй 2-ӕй 6-ӕм фотойы, ӕмӕ сӕ иу хъазт кӕнӕнт, стъалӕ ӕмӕ фӕстӕмӕ уӕлӕ-хуызӕнӕ фотойы. Фотойы фӕкӕнут ацы фӕйнӕ дзӕвгӕйы, ӕмӕ нӕ сӕ айхъусут кӕнӕ ӕрбацӕудзысты. Ацы фӕйнӕ фӕхъуыстӕ, фотойы фӕкъӕнӕ.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Фӕлӕ «Фотойы аххос кӕнут» ӕмӕ аххос кӕнут 2-ӕй 6-ӕм фотойы.",
+      "Иу фото ӕмӕ иу хъуыддаг фӕкъӕнӕ. Иу фотойы ахъуыдӕр кӕнут, фӕстӕ сӕ жыппӕрыл ахъуыдӕр кӕнут.",
+      "Фотойы бафтӕ кӕнӕ цӕттӕ, ӕмӕ уый тыххӕй фӕдзурут.",
+      "Ацы фӕхъуыстӕ кӕнӕ, фӕлӕ «Фотойы фӕхъуыст кӕнут» кӕнӕ фӕхъуыст кӕнут. Ничи фӕмӕхъӕр."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Аххос кӕнут хъуыдӕр фотойы адӕмы хъуыддӕгтӕ, ӕмӕ уыдзысты: цӕрыхъӕн, бӕлӕс, раст фӕлӕ хъуыдӕр, ӕвзаг.",
+      "Ныхъӕ ӕмӕ хъуыддӕгтӕ фыццаг кӕнӕ, фӕлӕ адӕмы сывӕнкӕ уӕ нӕ кӕсынц ӕмӕ уӕ нӕ кӕнынц хъуыддаг.",
+      "Фотойы ацы адӕмты, кӕцы уӕ сӕ фӕрсынц ӕмӕ сӕ хъуыды ӕнӕ кӕнынц, ӕнӕнхъӕн нӕ баххуыс кӕнут, фӕлӕ уӕ хъуыд кӕнӕ уӕ ӕххуыс кӕнӕ."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Мӕ фотойы кӕцыйы ахъуыдӕр кӕнӕнт?",
+        "a": "Нӕ. Фотойы сӕ браузерыл дзурынц ӕмӕ сӕ экраныл кӕсӕнт. Уыдонӕ нӕ ӕрбадзырд кӕнынц, ничиыл нӕ ныццавынц, ӕмӕ сӕ фӕхъуыст кӕнӕ кӕнӕ фӕстӕ-хуыз кӕнӕ фӕндзырд кӕнӕ ничи уым ӕрбацӕудзысты."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Цъӕх хъазт ӕмӕ хъуыддаг нӕй?",
+        "a": "Нӕй. Нӕ цъӕхӕ, хъуыддаг, фӕндыр ӕмӕ фӕфӕлӕ нӕй. Сымах хъуыдӕр фӕфӕлӕ нӕ, ӕмӕ фӕфӕлӕ фӕхъуыст кӕнын уый хорз у."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ӕндӕр хатт хъазтӕн схъӕуы ацы хъазтыл?",
+        "a": "Браузерыл нӕ, уымӕн ӕмӕ уӕ цӕст кӕнын нӕ хъӕуы. Фӕлӕ Golden Moments ӕппӕт iPhone ӕмӕ iPad-ӕн фӕйнӕ ахъуыдӕр фотойы хъуыдӕр кӕнӕ уӕ ӕмӕ уӕ сымах телефоныл кӕнӕ сӕ аххос кӕнын кӕнӕ."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Фотойы бинго",
+    "seoTitle": "Фотойы бинго фамилийы адӕмты тыххӕй: бацӕттӕ",
+    "h1": "Фотойы бинго ӕппӕтӕн",
+    "description": "Бацӕттӕ ӕнӕхъӕн фотойы бинго ӕппӕтӕн ӕмӕ хӕдзарты кӕнынц, экраныл стъалӕ фӕрсынц. Стъалӕ фотойы ӕмӕ нӕмттӕ, 9 ӕмӕ 16 хъуыддӕгтӕ, нӕ хъӕуы ӕвзаг кӕнын.",
+    "short": "Бацӕттӕ фотойы бинго кӕнын ӕмӕ экраныл фӕрсынц ӕппӕтӕн.",
+    "players": "2-ӕй 30-ӕм адӕймаджы ӕппӕт",
+    "intro": "Кӕсгӕ бинго фотойы, ӕмӕ цифрӕтты бацӕттӕ нӕ, ӕмӕ нӕ кӕй хъӕуы ӕвзаг кӕнын. Бацӕттӕ бацӕттӕ фотойы кӕнут, фӕстӕ экраныл фӕрсынц тэлевизорыл, ноутбукыл кӕнӕ планшетыл.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Фӕрсут 9 кӕнӕ 16 хъуыддӕгтӕ ӕмӕ адӕмты фӕрсынц.",
+      "Фӕлӕ «Бацӕттӕ чъиныг кӕнут». Иу бацӕттӕ иу хуызӕн нӕ сты.",
+      "Фӕлӕ стъалӕ экраныл. Фӕлӕ «Ныртӕккӕ фотойы» ӕмӕ фӕрсынц фотойы ӕмӕ уыдонӕн нӕмттӕ.",
+      "Адӕмтӕ сӕ бацӕттӕ фотойы фӕкъӕнынц сӕ тыхтаки, тӕнгӕ кӕнӕ ӕмӕ фӕндыр кӕнынц.",
+      "Ацы ӕппӕт, кӕцы ӕмбӕхсӕнӕг ӕмӕ ӕппӕт хуызӕн фотойы бацӕттӕ фӕкъӕнӕ, уыдонӕн фӕлӕ ракӕнут. Ничи ныццавы: хъазт кӕнут, цӕмӕй ӕппӕт тӕрхӕгыл хъӕуы."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Бацӕттӕ ӕнӕхъӕн тыхтаки кӕнут, ӕмӕ уыдзысты: шашкӕ кӕнӕ тъаргӕ. Бурӕ тыхтаки кӕнӕ нӕ хъӕуы.",
+      "Фотойы нӕмттӕ кӕнут ӕмӕ уым ӕвзаг кӕнут: «Сӕрхъӕ. Кӕй уыд сӕрхъӕ?»",
+      "Адӕмтӕ, кӕцы цӕст кӕнӕ ӕнӕхъӕн, экраныл ӕрцӕтӕ ӕмӕ, кӕцы хъуыды кӕнынц, уыдонӕн ӕххуыс кӕнут.",
+      "9 хъуыддӕгтӕ ӕппӕт хъазтӕн ӕнӕхъӕн. Хъазт 20-30 минутыл сӕфт кӕнут."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Чи кӕнын кӕнӕ фотойы бинго хӕдзарты?",
+        "a": "Иу тӕрхӕг адӕймагӕн бацӕттӕ кӕнут, стъалӕ ӕмӕ экраныл бирӕ цъӕх фӕрсут, ӕмӕ фотойы фӕрсынц, нӕмттӕ фӕкъӕнӕ. Хъазт кӕнут, цӕмӕй ӕппӕт тӕрхӕгыл хъӕуы, ӕмӕ ничи фӕхъуыст уа."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Бацӕттӕ фӕкъӕнӕ бесплатно?",
+        "a": "Ой. Фӕрсут, цъӕх тӕрхӕгтӕ сымах хъӕуы, ӕмӕ хъуыды кӕнут, адӕмӕн кӕнӕ хъазтӕн."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Адӕмтӕ ӕвзаг нӕ кӕнынц, фотойы кӕнӕ хъазтӕ кӕнынц?",
+        "a": "Ой. Ӕппӕт хъуыддаг иу бӕрӕг фотойы у, ӕмӕ уыдонӕн нӕмттӕ кӕсӕнт, цӕмӕй уӕ, кӕцы ӕвзаг кӕнынц, ӕмӕ уыдонӕн ӕххуыс кӕнӕ."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Цъӕх ӕнӕхъӕн",
+    "seoTitle": "Цъӕх ӕнӕхъӕн, кӕцы адӕмты ӕмӕ хъуыдӕр кӕнынц",
+    "h1": "Цъӕх ӕнӕхъӕн",
+    "description": "Цъӕх, фӕндыр ӕнӕхъӕн, кӕцы ӕмбӕхсӕнӕг: кӕрон хӕрӕй, ӕмӕ уыдонӕн ӕнӕхъӕнтӕ кӕнынц 6 хатт. Сымах фыццаг кӕнут, ӕмӕ кӕнӕ сты кӕнӕ фӕхъуыст кӕнут хъуыддаг.",
+    "short": "Цъӕх кӕрон, кӕцы ӕнӕхъӕн кӕнут. Сымах кӕнут, кӕнӕ фӕхъуыст кӕнут.",
+    "players": "1 кӕнӕ 2 адӕймаджы",
+    "intro": "Цъӕх хъазт нӕ, фӕлӕ цъӕх ӕнӕхъӕн уыдзысты. «Фыццаг» ахъуыдӕр кӕнут, ӕмӕ кӕрон ӕнӕхъӕн, ӕмӕ цъӕхӕй ӕнӕхъӕн кӕнут. Уый фӕлӕ нӕ, фӕлӕ цъӕх ӕнӕхъӕн, кӕцы ӕмбӕхсӕнӕг у.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Ныххӕст кӕнут, ӕмӕ уӕ цъӕхӕй ӕнӕхъӕн.",
+      "Фӕрсут ӕнӕхъӕн: цъӕх кӕнӕ фӕндыр.",
+      "Фӕлӕ «Фыццаг». Ӕнӕхъӕн, кӕрон ӕфсӕрмы ӕмӕ цъӕхӕй фӕндыр.",
+      "Ӕнӕхъӕн фӕхъуыст кӕнӕ 6 хатт, кӕнӕ «Фӕхъуыст» кӕнут, кӕнӕ сымах хъуыды кӕнут."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Тыхтаки фӕкъӕнут кӕнӕ адӕймагӕн цъӕхӕй фӕкъӕнут, кӕнӕ уыдонӕн хъуыддаг кӕнӕ.",
+      "Нӕ ныццавут. Кӕнӕ фӕхъуыст кӕнут, сымах цъӕх ӕмӕ фӕкӕсут, уый хорз у.",
+      "Кӕнӕ адӕймаджы ӕнӕхъӕн хъуыддаг ӕмӕ уӕ ӕнӕхъӕн, цъӕх ӕнӕхъӕн кӕнут, ӕмӕ кӕрон кӕсут. Ӕнӕхъӕн хъуыддӕгтыл дохтыры фӕрсут."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ацы ӕнӕхъӕн дохтыры ӕнӕхъӕн у?",
+        "a": "Нӕ. Уый цъӕх, фӕндыр фӕфӕлӕ нӕ, ӕмӕ уыдонӕн цъӕх ӕнӕхъӕн. Уый нӕ фӕлӕ ӕмӕ нӕ хъуыддаг кӕнӕ. Сымах дохтыры фӕрсут сывӕллоны хъуыддӕгтыл."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Кӕрон сымах фыццаг кӕнын нӕ, уый кӕнӕ?",
+        "a": "Нæ. Start-ы фæстæ ницы фæзылдзæн. Æртæ æнæхъæнмæ фæстæ, кæд Stop-ы тыххæй уæ ныффыст кæнут, уæд сæ ныффыст кæндзæн. Кæд уæ устройство æрлæууыд, æмæ тыхстæй ныууыл ма кæнæд, уæд цыдæр бирæ уæ иу ныффыст кæнут, ныр цæлхдæр цæрдæй бацæуæн нæ уыдзæн."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Уый фæсдзæн ли, æмæ хицауы номыл ныффыст кæнын хъæуы ли?",
+        "a": "Ау, фæсдзæн, æмæ хицауы номыл, ныффыст кæнынæн, кæнæ ныффыстмæ фæстæмæ чи ныффыст кæнд, уыцы ницы хъæуы. Уый аивазы веб-браузерæй телефонæй, планшетæй кæнæ компьютерæй."
       }
     ]
   }

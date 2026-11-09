@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Pular para o conteúdo principal",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Atividades para pessoas com demência",
+    "homeLabel": "Página inicial do Golden Moments",
+    "mainNav": "Principal",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Português",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: imagens grandes e acolhedoras de uma xícara de chá, um girassol e um cão",
+    "languages": "Idioma",
+    "englishOnly": "(Inglês)",
+    "machineTranslated": "Esta página foi traduzida automaticamente e ainda não foi revisada por um falante nativo.",
+    "readOriginal": "Ler o original em inglês",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Jogos",
+      "activities": "Atividades",
+      "caregiving": "Cuidar",
+      "brainHealth": "Saúde cerebral"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Perguntas frequentes",
+    "breadcrumb": "Caminho de navegação",
+    "home": "Início",
+    "lastUpdated": "Última atualização",
+    "topics": "Tópicos",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Tamanho do texto",
+      "smaller": "Texto padrão",
+      "larger": "Texto maior",
+      "contrast": "Mais contraste"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Jogar",
+    "picturePairs": "Pares de imagens",
+    "conversationCards": "Cartões de conversa",
+    "pictureBingo": "Bingo de imagens",
+    "allGames": "Todos os jogos",
+    "pictures": "Imagens para imprimir",
+    "activityIdeas": "Ideias de atividades",
+    "ideas101": "101 ideias de atividades",
+    "lateStage": "Atividades para a fase avançada",
+    "printable": "Atividades para imprimir",
+    "allActivities": "Todas as atividades",
+    "forCaregivers": "Para quem cuida",
+    "playTogether": "Como jogar juntos",
+    "selfCare": "Cuidando de si",
+    "brainHealth": "Pesquisas sobre saúde cerebral",
+    "faq": "Perguntas frequentes",
+    "about": "Sobre",
+    "approach": "Nossa abordagem",
+    "howWeWrite": "Como escrevemos",
+    "organizations": "Para organizações",
+    "app": "O aplicativo Golden Moments",
+    "appHelp": "Ajuda com o aplicativo",
+    "support": "Apoio",
+    "legal": "Informações legais",
+    "sitePrivacy": "Privacidade do site",
+    "appPrivacy": "Política de privacidade do aplicativo",
+    "privacyChoices": "Opções de privacidade",
+    "terms": "Termos e licença do aplicativo",
+    "safety": "Segurança e uso previsto",
+    "accessibility": "Acessibilidade",
+    "healthNotice": "Aviso sobre informações de saúde",
+    "allLegal": "Todas as informações legais",
+    "note": "O Golden Moments oferece atividades compartilhadas simples para momentos de lazer. Não constitui aconselhamento médico, teste ou tratamento, e não diagnostica, mede nem avalia ninguém. Para dúvidas de saúde, converse com um médico. Em caso de emergência, ligue 192 ou 112.",
+    "publisher": "Publicado por Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Jogos e atividades para pessoas com demência e Alzheimer | Golden Moments",
+    "description": "Jogos de imagens tranquilos e gratuitos para jogar online e ideias de atividades para pessoas que vivem com demência ou Alzheimer e para quem cuida delas. Sem cadastro, sem limites de tempo e sem pontuações.",
+    "eyebrow": "Gratuito · Sem anúncios · Sem cadastro · Sem limites de tempo nem pontuações",
+    "h1": "Jogos e atividades tranquilos para pessoas com demência",
+    "lede": "Jogos simples de imagens, fotos conhecidas e atividades para aproveitar juntos — no seu próprio ritmo.",
+    "playGame": "Começar a jogar",
+    "findIdeas": "Ver ideias de atividades",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Funciona no celular, tablet e computador",
+      "Imagens grandes que continuam visíveis",
+      "Pare quando quiser; não há como errar"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Também em aplicativo gratuito para iPhone, iPad e Android, com as suas próprias fotos de família",
+    "albumNote": "“Duas fotos da xícara de chá, juntas.”",
+    "gamesEyebrow": "Jogue no seu navegador",
+    "gamesTitle": "Jogos para começar agora mesmo",
+    "gamesLede": "Cada atividade é serena, pensada para adultos e rápida de iniciar. Escolha uma, sente-se lado a lado e alternem os toques na tela.",
+    "seeAllGames": "Ver todos os {count} jogos",
+    "howTitle": "Como funciona",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Escolha algo familiar",
+        "text": "Imagens de xícaras de chá, jardins, animais de estimação e barcos a vela. Sem necessidade de leitura nem regras para aprender antes."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Sente-se lado a lado",
+        "text": "Deixe a pessoa tocar na tela. Conversem sobre as imagens. Se as figuras forem diferentes, o jogo apenas espera pelo próximo toque."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Termine enquanto ainda for agradável",
+        "text": "Uma partida já é uma atividade completa. A opção “Chega por hoje” está sempre visível na tela."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Além da tela",
+    "stageTitle": "Ideias de atividades para todas as fases",
+    "stageLede": "Música, tarefas do dia a dia, lembranças e momentos sensoriais tranquilos, adaptados ao que for confortável no momento.",
+    "ideas101": "101 ideias de atividades",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Fase inicial",
+        "text": "Continuem fazendo o que a pessoa mais gosta, com pequenos ajustes: passatempos, passeios, jogos de palavras e planejamento conjunto.",
+        "label": "Ideias para a fase inicial"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Fase intermediária",
+        "text": "Tarefas simples e conhecidas divididas em etapas: dobrar roupas, organizar objetos, música, jogos de imagens e caminhadas curtas.",
+        "label": "Ideias para a fase intermediária"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Fase avançada",
+        "text": "Conforto e conexão pelo toque, som e visão: cuidados com as mãos, músicas favoritas, fotografias e simplesmente estar por perto.",
+        "label": "Ideias para a fase avançada"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Procura algo específico? Conheça as <a href=\"/activities/alzheimers/\">atividades e jogos para Alzheimer</a>, os <a href=\"/activities/memory-games/\">jogos suaves de memória</a>, o <a href=\"/activities/trivia/\">jogo de perguntas simples</a> ou os <a href=\"/activities/puzzles/\">quebra-cabeças</a>.",
+    "approachEyebrow": "Nossa abordagem",
+    "approachTitle": "Uma atividade compartilhada, não um teste de memória",
+    "approachLede": "Muitos “jogos para o cérebro” giram em torno de velocidade, pontuações e sequências de acertos. Para quem vive com demência, isso pode parecer uma prova. Criamos exatamente o oposto.",
+    "approachLink": "Por que criamos o jogo dessa forma",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Não há como errar",
+        "text": "Sem relógio, pontuação, vidas ou derrotas. Escolher uma imagem diferente é apenas uma pausa, não um erro."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "As imagens continuam visíveis",
+        "text": "Reconhecer em vez de lembrar. O jogo começa com as imagens viradas para cima, para que não seja preciso memorizar nada."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Adulto e respeitoso",
+        "text": "Linguagem acolhedora e direta, com imagens reais do dia a dia. Sem desenhos infantis nem linguagem condescendente."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Privacidade em primeiro lugar",
+        "text": "Sem contas nem anúncios. As suas fotos nunca saem do seu aparelho."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Para quem cuida",
+    "guidesTitle": "Guias práticos para o dia a dia",
+    "allCaregiving": "Todos os guias para quem cuida",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Como jogar juntos",
+        "text": "Preparação, ritmo e o que fazer quando a atividade deixar de ser agradável."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Quando a pessoa recusa uma atividade",
+        "text": "Motivos comuns para a recusa e maneiras acolhedoras de tentar de novo mais tarde."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Como configurar um tablet",
+        "text": "Texto maior, menos interrupções e uma tela inicial simples e desobstruída."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Atividades gratuitas para imprimir",
+        "text": "Caça-palavras com letras grandes, desenhos para colorir, bingo e cartões de conversa."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Saúde cerebral: o que as pesquisas realmente mostram",
+    "researchText": "É possível prevenir a demência? Jogos para o cérebro ajudam? E quanto ao jejum, alimentação, sono e audição? Respostas claras e baseadas em fontes, indicando também onde as evidências ainda são limitadas.",
+    "researchLink": "Ler os guias de pesquisa",
+    "appEyebrow": "Também em aplicativo",
+    "appTitle": "Golden Moments para iPhone, iPad e Android",
+    "appText": "O aplicativo gratuito funciona offline e pode usar fotos de família escolhidas por você, salvas apenas no seu aparelho. O mesmo formato tranquilo: quatro blocos grandes, sem limite de tempo e sem pontuação.",
+    "aboutApp": "Sobre o aplicativo",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Quais são bons jogos para pessoas com demência?",
+        "a": "Bons jogos são simples, familiares e sem pressão: figuras grandes para combinar, separar por categorias, quebra-cabeças fáceis, completar frases conhecidas, pintar, bingo de figuras e cartas para conversar. A melhor escolha é a que a pessoa gosta hoje. Evite cronômetros, pontuações e tudo o que pareça uma prova."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Os jogos para demência são gratuitos?",
+        "a": "Sim. Todos os jogos e materiais para imprimir no Golden Moments são gratuitos, sem conta, cadastro ou download. Os jogos funcionam no navegador do celular, do tablet ou do computador."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Jogos de estimulação mental previnem a demência?",
+        "a": "Nenhum jogo comprovadamente previne a demência, e o Golden Moments não afirma tratar nem prevenir nada. Nossos jogos servem para diversão e para momentos juntos. Nossa seção sobre saúde do cérebro explica o que a pesquisa mostra e o que não mostra."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Esses jogos são adequados para quem tem Alzheimer?",
+        "a": "Sim. A doença de Alzheimer é a causa mais comum de demência, e os jogos foram feitos pensando nela: figuras grandes que permanecem visíveis, poucas opções e nada para lembrar ou errar. Combinar, separar e completar frases conhecidas se apoiam em conhecimentos antigos, e não em aprendizado novo."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Alguém em fase avançada da demência pode fazer estas atividades?",
+        "a": "Muitas vezes, sim, com alguém ao lado. Comece com Encontre o igual, com duas figuras, Pares de figuras com quatro peças, uma página para pintar ou uma pausa calma para respirar. Mantenha tudo curto, siga o ritmo da pessoa e pare quando ela já tiver se cansado."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Minhas informações são privadas?",
+        "a": "O site não tem contas nem publicidade. Usamos o Google Analytics para entender quais páginas são visitadas. As fotos que você escolher para os Pares de fotos são mostradas apenas no seu navegador e nunca são enviadas."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Quem faz o Golden Moments?",
+        "a": "O Golden Moments é uma pequena equipe que cria atividades calmas com figuras, para adultos, para famílias e cuidadores, na web e como aplicativo gratuito. Não somos profissionais de saúde, e nada aqui é aconselhamento médico."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "inicial",
+    "middle": "intermediária",
+    "late": "avançada",
+    "hintOne": "Costuma combinar com a fase {list}",
+    "hintMany": "Costuma combinar com as fases {list}",
+    "labelEarly": "Fase inicial",
+    "labelMiddle": "Fase intermediária",
+    "labelLate": "Fase avançada"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Sobre este jogo",
+    "printable": "Para imprimir",
+    "play": "Jogar {name} →",
+    "readGuide": "Leia o guia"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Pronto para um jogo tranquilo?",
+    "text": "Figuras grandes, sem cronômetro, sem pontuação e sem nada para se cadastrar. Joguem juntos no seu navegador.",
+    "play": "Jogar agora",
+    "all": "Ver todos os jogos",
+    "aria": "Jogar um jogo"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Leve estes jogos com você",
+    "text": "O aplicativo gratuito Golden Moments para iPhone, iPad e Android: peças grandes com figuras, jogos com as fotos da sua família e pacotes de figuras que funcionam sem Wi‑Fi. Sem conta, sem anúncios, sem cronômetro e sem pontuação.",
+    "appStore": "Baixar na App Store",
+    "googlePlay": "Disponível no Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Sobre o aplicativo",
+    "aria": "Baixe o aplicativo"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Atividades",
+      "title": "Atividades para pessoas com demência",
+      "seo": "Atividades para pessoas com demência: ideias por fase",
+      "description": "Ideias de atividades para pessoas que vivem com demência em todas as fases: música, lembranças, tarefas do dia a dia, momentos sensoriais, artesanato, atividades ao ar livre e materiais gratuitos para imprimir.",
+      "lede": "Atividade significativa é tudo o que traz conforto, sentido ou um momento de conexão. Comece pelo que a pessoa sempre gostou e adapte ao momento atual."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Cuidados",
+      "title": "Guias para cuidadores",
+      "seo": "Guias para cuidadores de pessoas com demência: ajuda prática no dia a dia",
+      "description": "Guias práticos e gentis para cuidadores de pessoas com demência: como jogar juntos, comunicação, recusas, inquietação no fim do dia, tablets, escolha de aplicativos e autocuidado.",
+      "lede": "Ajuda simples e prática para os momentos do dia a dia de quem cuida de uma pessoa que vive com demência, incluindo o cuidado com você mesmo."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Saúde do cérebro",
+      "title": "Saúde do cérebro: o que diz a pesquisa",
+      "seo": "Saúde do cérebro e risco de demência: o que dizem as pesquisas",
+      "description": "A demência pode ser prevenida? Guias honestos e com fontes sobre fatores de risco, jogos de estimulação mental, jejum, alimentação, exercícios, sono, audição e sinais de alerta precoces.",
+      "lede": "O que grandes estudos realmente mostram sobre a redução do risco de demência, explicado de forma simples, inclusive quando as evidências são fracas ou contraditórias. Informação geral, não é aconselhamento médico."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Atualizado",
+    "minuteRead": "Leitura de {n} min",
+    "byTeam": "Pela equipe do Golden Moments",
+    "howWeWrite": "Como escrevemos",
+    "shortAnswer": "Resposta curta",
+    "onThisPage": "Nesta página ({n} seções)",
+    "commonQuestions": "Perguntas frequentes",
+    "sources": "Fontes",
+    "sourcesNote": "Indicamos as organizações e os estudos em que esta página se baseia. Cada um foi verificado quando a página foi atualizada.",
+    "tryTogether": "Experimentem juntos",
+    "relatedGuides": "Guias relacionados",
+    "related": "Relacionado",
+    "startHere": "Comece aqui"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Aviso de informação de saúde",
+    "title": "Informação geral, não é aconselhamento médico",
+    "textHtml": "Esta página resume pesquisas publicadas para famílias. Ela não pode dizer o que é certo para uma pessoa específica. Converse com um médico antes de mudar a alimentação, os exercícios, o sono, os remédios ou os suplementos. Em caso de confusão repentina ou outras mudanças súbitas, procure atendimento médico imediatamente. <a href=\"/medical-disclaimer/\">Leia nosso aviso de informações de saúde</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Uma atividade compartilhada, não um teste de memória",
+      "seoTitle": "Sobre o Golden Moments: nossa abordagem",
+      "description": "Por que os jogos do Golden Moments não têm cronômetros, pontuações nem sequências, por que as figuras ficam visíveis e o que afirmamos e o que não afirmamos sobre a demência.",
+      "crumb": "Nossa abordagem",
+      "lede": "O Golden Moments cria atividades calmas, para adultos, com figuras, que um cuidador e uma pessoa que vive com demência podem aproveitar lado a lado.",
+      "bodyHtml": "<h2>O que acreditamos</h2><p>O sentido de uma atividade está no próprio momento: uma conversa, um sorriso, a satisfação de juntar duas fotos ou simplesmente ficar sentado perto um do outro. Não serve para medir ninguém, exigir mais ou provar alguma coisa.</p><p>Muitos aplicativos de treino cerebral são feitos em torno de velocidade, pontuações, sequências de acertos e níveis. Para uma pessoa que vive com demência, isso pode parecer uma prova que ela não consegue passar. Fizemos o oposto e seguimos estas regras:</p><ul><li><strong>Nada para errar.</strong> Sem relógio, pontuação, contador de jogadas, vidas, sequências, confete ou contagem regressiva, em nenhuma tela.</li><li><strong>Reconhecer, não lembrar.</strong> As fotos ficam visíveis por padrão. As perguntas convidam à conversa e nunca cobram nomes ou lembranças.</li><li><strong>Grande, simples e estável.</strong> Textos e imagens grandes, alto contraste e botões que ficam sempre no mesmo lugar.</li><li><strong>Dignidade de adulto.</strong> Fotos do mundo real e palavras simples e carinhosas. Sem desenhos infantis, elogios exagerados ou recompensas com emoji.</li><li><strong>Uma saída fácil.</strong> “Encerrar por agora” fica sempre visível. Parar no meio é um bom resultado.</li><li><strong>Privado por padrão.</strong> Sem contas e sem anúncios. As fotos que você escolhe ficam no seu aparelho.</li></ul><h2>O que não afirmamos</h2><p>Nossos jogos servem para diversão e conexão. Eles não diagnosticam, não testam, não medem, não tratam, não retardam nem previnem a demência ou a doença de Alzheimer, e ninguém deve escolhê-los por esse motivo. Quando escrevemos sobre pesquisas nas nossas <a href=\"/brain-health/\">páginas de saúde cerebral</a>, dizemos claramente onde as evidências são fracas e nunca as ligamos aos nossos próprios jogos.</p><h2>Quem somos</h2><p>A Golden Moments é uma equipe pequena e independente. Não somos profissionais de saúde. Nossos guias são escritos com base em orientações publicadas por organizações como o National Institute on Aging e a Alzheimer’s Association, e cada guia lista suas fontes. Leia <a href=\"/editorial-policy/\">como escrevemos e revisamos nossas páginas</a>.</p><h2>Conte para nós o que ajudaria</h2><p>Gostaríamos de saber o que funciona para você e o que não funciona, especialmente de pessoas que vivem com demência, familiares cuidadores e equipes de atividades. Escreva para <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Como escrevemos e revisamos nossas páginas",
+      "seoTitle": "Política editorial",
+      "description": "Como a Golden Moments pesquisa, escreve, cita fontes e atualiza suas páginas sobre atividades para demência e saúde cerebral, e o que nunca publicaremos.",
+      "crumb": "Política editorial",
+      "bodyHtml": "<h2>Nossas fontes</h2><p>Baseamos nossos guias em orientações públicas de organizações como o National Institute on Aging, os CDC, a Alzheimer’s Association, a Alzheimer’s Foundation of America, a Family Caregiver Alliance e o NHS, e em pesquisas revisadas por pares, como revisões da Cochrane e grandes ensaios clínicos. Cada guia lista as fontes em que se baseia. Abrimos cada fonte antes de citá-la e relatamos apenas o que ela realmente diz.</p><h2>Como escrevemos</h2><ul><li>Primeiro o prático: o que fazer hoje, em linguagem simples.</li><li>Honestos sobre as evidências: usamos “está associado a”, “pode” e “as evidências são mistas” quando isso for a verdade.</li><li>Respeitosos: tratamos as pessoas que vivem com demência como adultos e nunca usamos linguagem de cobrança ou de constrangimento.</li><li>Sem conteúdo inventado: nada de estatísticas, citações, especialistas, estudos, revisões ou depoimentos fabricados.</li></ul><h2>Quem revisa nossas páginas</h2><p>As páginas são escritas e revisadas pela equipe da Golden Moments, com ajuda de ferramentas de IA para pesquisa e redação. A equipe confere cada página com as suas fontes. Nossas páginas <strong>não</strong> foram revisadas por médico ou outro profissional de saúde, e não afirmamos o contrário. São informações gerais, não aconselhamento médico.</p><h2>O que nunca publicaremos</h2><ul><li>Afirmações de que um jogo, alimento, suplemento, jejum ou rotina previne, trata, retarda ou cura a demência.</li><li>Testes, questionários ou pontuações que sugiram que alguém tem ou não tem demência.</li><li>Orientações para começar, parar ou mudar qualquer medicamento.</li><li>Publicidade ou conteúdo patrocinado disfarçado de orientação.</li></ul><h2>Atualizações e correções</h2><p>Cada página mostra a data da última atualização. Se você encontrar um erro ou uma fonte desatualizada, escreva para <a href=\"mailto:{email}\">{email}</a> e nós verificaremos com prioridade.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Perguntas e respostas",
+      "seoTitle": "Jogos e atividades para demência: perguntas e respostas",
+      "description": "Respostas para perguntas comuns sobre jogos e atividades para demência: quais jogos experimentar, por quanto tempo jogar, ideias para fases mais avançadas, saúde cerebral e privacidade.",
+      "crumb": "Perguntas e respostas",
+      "lede": "Respostas curtas e simples para as perguntas que os cuidadores mais fazem.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Sobre os jogos",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Quais são os melhores jogos para uma pessoa com demência?",
+              "a": "Os melhores jogos são familiares, simples e sem pressão, e o ideal é o que a pessoa gosta naquele dia. Combinar figuras com as imagens visíveis, separar objetos por categoria, quebra-cabeças fáceis, completar frases conhecidas, pintar e bingo de figuras funcionam bem para muitas pessoas. Evite cronômetros, pontuações e tudo o que pareça uma prova."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Os jogos são mesmo gratuitos?",
+              "a": "Sim. Todos os jogos e materiais para imprimir são gratuitos, sem necessidade de conta, cadastro, download ou anúncios."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Por que não há pontuações, níveis ou cronômetros?",
+              "a": "A rapidez e as pontuações transformam uma atividade agradável em um teste, o que pode causar constrangimento ou frustração. O nosso foco é a convivência e o prazer do momento, por isso não há como errar nem perder, e você pode parar a qualquer instante."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Quais dispositivos funcionam melhor?",
+              "a": "Qualquer celular, tablet ou computador com um navegador de internet moderno. Um tablet apoiado em um suporte sobre a mesa costuma ser a opção mais confortável para duas pessoas jogarem lado a lado. Para grupos, um computador conectado à televisão funciona muito bem."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Podemos jogar com fotos da nossa própria família?",
+              "a": "Sim. O jogo Photo pairs transforma de 2 a 6 fotos escolhidas por você em um jogo de pares. As fotos ficam apenas no seu navegador e não são enviadas nem salvas."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Atividades e cuidados",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Quanto tempo deve durar uma atividade?",
+              "a": "Muitas vezes, de 10 a 20 minutos são suficientes, e às vezes 2 minutos já são um sucesso. Fique atento a sinais de cansaço ou frustração e pare enquanto a experiência ainda for agradável. Não existe um tempo determinado."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "E se a pessoa não quiser participar de uma atividade?",
+              "a": "Respeite a recusa e tente novamente mais tarde ou de uma maneira diferente. O desinteresse pode acontecer por cansaço, dor, insegurança ou apenas falta de vontade no momento. Consulte o nosso guia sobre o que fazer quando a pessoa disser não."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Quais atividades são indicadas para fases mais avançadas da demência?",
+              "a": "Atividades sensoriais e de acolhimento: ouvir as músicas preferidas, receber uma massagem nas mãos com creme hidratante, olhar fotos juntos, segurar uma manta macia, sentar-se ao ar livre ou acompanhar um jogo de imagens bem simples ao lado de alguém. O nosso guia para fases avançadas reúne muitas outras sugestões."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Existem atividades voltadas para grupos em lares de idosos?",
+              "a": "Sim. O Picture bingo conta com cartelas para imprimir e sorteio na tela, e os jogos Finish the saying e Conversation cards funcionam muito bem lidos em voz alta. O nosso guia para grupos em lares de idosos traz orientações sobre tamanho do grupo, disposição dos assentos e adaptações para diferentes capacidades."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Saúde do cérebro",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Os jogos podem prevenir ou retardar a demência?",
+              "a": "Nenhum jogo comprovou prevenir a demência, e os nossos jogos não prometem isso. Pesquisas indicam que a estimulação cognitiva em um contexto de convívio social pode trazer pequenos benefícios para pessoas com demência leve a moderada, mas isso é diferente de prevenir uma doença. Oferecemos jogos voltados para o lazer e a aproximação entre as pessoas."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "É possível prevenir a demência?",
+              "a": "Não com certeza. Pesquisas associam 14 fatores de saúde e de estilo de vida ao risco de demência, como perda auditiva, hipertensão arterial, inatividade física e isolamento social. Cuidar desses fatores pode diminuir o risco para algumas pessoas, mas muitas que cuidam de tudo ainda assim desenvolvem demência. Isso nunca é culpa de ninguém."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "O jejum intermitente faz bem para a saúde do cérebro?",
+              "a": "As evidências em humanos são preliminares e limitadas, e grande parte dos estudos foi feita em animais. O jejum pode trazer riscos para pessoas idosas, especialmente em tratamento com remédios para diabetes ou em caso de perda involuntária de peso, e não é indicado para pessoas que vivem com demência. Converse com um médico antes de fazer qualquer mudança na alimentação."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Privacidade e segurança",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Vocês coletam algum dado pessoal?",
+              "a": "Não há contas nem anúncios. Utilizamos o Google Analytics apenas para contabilizar visitas e entender quais páginas são úteis, e o navegador salva sua preferência caso ative os sons suaves. As fotos selecionadas para o Photo pairs nunca são enviadas para servidores. Consulte o aviso de privacidade para mais informações."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Este conteúdo substitui uma consulta médica?",
+              "a": "Não. O Golden Moments destina-se a recreação e informações gerais. Para dúvidas sobre saúde, consulte um médico, e em casos de emergência ligue para o número de emergência local (como 192 ou 112)."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Mais detalhes: <a href=\"/caregiving/how-to-play-together/\">como jogar juntos</a>, <a href=\"/caregiving/when-they-say-no/\">quando a pessoa disser não</a>, <a href=\"/activities/late-stage/\">atividades para fases avançadas</a> e <a href=\"/brain-health/can-dementia-be-prevented/\">a demência pode ser prevenida?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Jogos tranquilos e gratuitos para pessoas que vivem com demência",
+      "seoTitle": "Material para imprimir: jogos online gratuitos para demência",
+      "description": "Um folheto de uma página para impressão, voltado a famílias e cuidadores, com jogos de imagens tranquilos e gratuitos para pessoas que vivem com demência, ideal para grupos de apoio e kits de acolhimento.",
+      "crumb": "Folheto para imprimir",
+      "lede": "Imprima esta página para levar a um grupo de apoio, incluir em um kit de acolhimento ou fixar na porta da geladeira. Utilize a opção Imprimir do seu navegador; os botões e menus do site não aparecem na impressão.",
+      "introHtml": "<p>Imagens nítidas, palavras simples e nada com que errar. Gratuito pelo celular, tablet ou computador, sem necessidade de cadastro, sem anúncios, sem cronômetros e sem pontuações. Sentem-se lado a lado e joguem um de cada vez.</p>",
+      "gamesTitle": "Jogos para experimentar juntos",
+      "restHtml": "<h2>Algumas dicas</h2><ul><li>Escolha um momento do dia em que a pessoa se sinta mais disposta.</li><li>Comece pela configuração mais simples. Quatro peças já são suficientes.</li><li>Conversem sobre as imagens. A conversa costuma ser a melhor parte do momento.</li><li>Parem enquanto a atividade ainda estiver agradável. Encerrar mais cedo é uma ótima escolha.</li></ul><h2>Outros recursos do site</h2><ul><li>Materiais gratuitos para imprimir: caça-palavras em letras grandes, páginas para colorir, cartas de conversa e bingo de imagens.</li><li>Ideias de atividades para todas as fases, além de guias sobre como jogar juntos e como cuidar de si.</li></ul><p class=\"muted\">Desenvolvido para momentos de lazer e conexão. Não constitui aconselhamento médico, teste ou tratamento. Golden Moments é uma publicação da Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Para lares de idosos, bibliotecas e grupos de apoio",
+      "seoTitle": "Atividades gratuitas para demência em casas de repouso e grupos",
+      "description": "Como casas de repouso, centros-dia para adultos, bibliotecas, agências de apoio ao envelhecimento e grupos de apoio usam nossos jogos gratuitos para demência, além de um texto para incluir nosso site em uma lista de recursos.",
+      "crumb": "Para organizações",
+      "lede": "Tudo neste site é gratuito para uso com residentes, membros e clientes, sem conta, licença ou taxa. Esta página explica o que há aqui e como compartilhar.",
+      "shortText": "{name}: jogos de imagens gentis e gratuitos e guias de atividades para pessoas com demência e seus cuidadores. Sem cadastro, sem cronômetros, sem pontuação.",
+      "longText": "{name} ({domain}) oferece {count} jogos gratuitos para navegador, criados para pessoas com demência, incluindo pares de imagens com as figuras sempre visíveis, um quebra-cabeça fácil, jogos de classificação, frases conhecidas e bingo de imagens com cartelas para imprimir. Não há conta, publicidade, cronômetro nem pontuação. O site também tem guias de atividades em linguagem simples para cada estágio da demência, com citações do National Institute on Aging e da Alzheimer's Association.",
+      "useTitle": "O que as organizações podem usar",
+      "gamesItemHtml": "<strong>{count} jogos para navegador</strong> que funcionam em notebook, tablet ou em uma TV conectada a um computador. Sem instalação, conta ou download. Veja <a href=\"/games/\">todos os jogos</a>.",
+      "printablesLabel": "{count} materiais para imprimir:",
+      "printablesAfter": "Use o botão Imprimir em cada página.",
+      "moreItemsHtml": "<li><strong>Formatos para grupos:</strong> o <a href=\"/games/picture-bingo/\">bingo de imagens</a> tem cartelas para imprimir e um sorteador na tela, e o <a href=\"/activities/trivia/\">quiz fácil</a> tem 50 perguntas com opções de resposta e pontos para conversar.</li><li><strong>Guias de atividades</strong> para equipes e familiares, por estágio e por tipo, escritos em linguagem simples e com fontes. Comece com <a href=\"/activities/ideas/\">101 ideias de atividades</a> ou com <a href=\"/activities/care-home-groups/\">atividades em grupo para casas de repouso</a>.</li>",
+      "restHtml": "<h2>Como os grupos usam</h2><ul><li><strong>Casas de repouso e cuidados de memória:</strong> bingo de imagens ou completar frases conhecidas na TV da sala de convivência, com uma pessoa tocando para o grupo.</li><li><strong>Centros-dia para adultos:</strong> uma estação com tablet e o jogo Pares de imagens configurado com quatro peças, para sessões individuais curtas.</li><li><strong>Bibliotecas públicas:</strong> caça-palavras impressos e cartões de conversa em kits de memória, além do site salvo nos favoritos dos tablets da biblioteca.</li><li><strong>Grupos de apoio a cuidadores e cafés da memória:</strong> um <a href=\"/handout/\">folheto de uma página para imprimir</a> para as famílias levarem para casa.</li><li><strong>Hospitais e equipes de alta:</strong> o folheto nos kits para cuidadores, para algo tranquilo de fazer em casa ou ao lado do leito.</li></ul><h2>O que não fazemos</h2><p>Os jogos são para diversão e tempo juntos. Eles não diagnosticam, não testam, não pontuam, não tratam nem retardam a demência, e pedimos às organizações que não os descrevam dessa forma. Não há anúncios, e os jogos não pedem nomes, informações de saúde nem envio de fotos. O site usa o Google Analytics para contar visitas; nosso <a href=\"/privacy/\">aviso de privacidade</a> explica o que ele coleta. As fotos usadas em <a href=\"/games/photo-pairs/\">Pares de fotos</a> ficam apenas no navegador.</p><h2>Inclua-nos na sua lista de recursos</h2><p>Se você mantém uma lista de recursos para cuidadores, pode incluir um link para <a href=\"/\">{domain}</a>. Você pode copiar qualquer uma das descrições.</p>",
+      "shortTitle": "Descrição curta",
+      "longTitle": "Descrição longa",
+      "linksHtml": "<p>Páginas úteis para linkar diretamente: <a href=\"/games/\">jogos gratuitos</a>, <a href=\"/activities/printable/\">materiais gratuitos para imprimir</a>, <a href=\"/activities/alzheimers/\">atividades para Alzheimer</a> e <a href=\"/caregiving/how-to-play-together/\">como brincar juntos</a>.</p><h2>Perguntas ou correções</h2><p>Se algo no site estiver errado ou pouco claro, ou se as necessidades de um residente não forem atendidas pelo que está aqui, avise-nos em <a href=\"mailto:{email}\">{email}</a>. Por favor, não envie informações pessoais ou de saúde de residentes ou clientes.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "O app Golden Moments",
+      "seoTitle": "O app Golden Moments para iPhone e Android",
+      "description": "O app gratuito Golden Moments: combinação gentil de fotos com quatro peças grandes, fotos da família guardadas no seu aparelho, pacotes de imagens offline e sem conta.",
+      "crumb": "O app",
+      "lede": "Tudo o que você gosta no site, em um app que funciona offline e pode usar fotos da família que você escolher.",
+      "worksOn": "Funciona em {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Comece aos poucos</h2><p>Comece com quatro peças grandes e imagens familiares. Mantenha as imagens visíveis ou oculte-as quando for mais confortável. O modo tranquilo não tem temporizador, pontuação nem penalizações. Escolha 4, 6, 8 ou 12 peças.</p><h2>Dê um toque pessoal</h2><p>Escolha fotos de família através da galeria do seu dispositivo. A aplicação guarda cópias mais pequenas para as atividades. Não analisa a sua biblioteca nem altera as fotos originais, e guarda até 24 fotos numa mesma coleção.</p><h2>Vejam fotos em conjunto</h2><p>Veja uma imagem de cada vez. As sugestões opcionais convidam à conversa sem pedir a ninguém que se lembre de nomes ou dê uma resposta certa. Ver as imagens já é suficiente.</p><h2>Funciona sem internet onde mais importa</h2><p>As imagens iniciais e todos os oito pacotes de imagens vêm incluídos na aplicação. As cópias das fotos importadas funcionam sem ligação à internet. Escolher fotos originais guardadas apenas em iCloud pode necessitar de ligação à internet.</p><h2>Sem conta e sem servidores de sincronização de fotos</h2><p>As cópias das fotos de família permanecem na aplicação, no próprio dispositivo. Pode remover as cópias sem apagar as fotos originais. As cópias de segurança do dispositivo podem incluir dados da aplicação. Leia a <a href=\"/app-privacy/\">política de privacidade da aplicação</a> e consulte a <a href=\"/help/\">ajuda da aplicação</a> para conhecer cada passo.</p>",
+      "disclaimer": "O Golden Moments destina-se ao lazer e a conversas partilhadas. Não diagnostica, trata, previne nem avalia a demência ou a doença de Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Jogos Online Gratuitos para Demência e Alzheimer",
+    "description": "Jogos online gratuitos para pessoas idosas que vivem com demência ou Alzheimer: pares de imagens, quebra-cabeças simples, categorias, provérbios, colorir e bingo. Sem registo, sem temporizadores e sem pontuações.",
+    "crumb": "Jogos",
+    "h1": "Jogos Tranquilos para Pessoas com Demência",
+    "lede": "{count} jogos gratuitos para jogar em conjunto no seu navegador. Imagens grandes, palavras simples e sem como errar: sem temporizadores, sem pontuações e sem registo.",
+    "listName": "Jogos tranquilos para pessoas com demência",
+    "byStageTitle": "Escolher um jogo por fase",
+    "byStageLede": "As fases servem apenas como orientação geral. Siga o que a pessoa aprecia e o que parecer mais confortável no dia de hoje.",
+    "stageCol": "Fase",
+    "gamesCol": "Jogos habitualmente adequados",
+    "moreHtml": "Mais ideias fora do ecrã: <a href=\"/activities/ideas/\">101 atividades para pessoas com demência</a>, <a href=\"/activities/alzheimers/\">atividades e jogos para Alzheimer</a>, <a href=\"/activities/memory-games/\">jogos de memória tranquilos</a> e <a href=\"/activities/puzzles/\">quebra-cabeças</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Por qual jogo devemos começar?",
+        "a": "O jogo de pares de imagens com quatro peças é uma primeira escolha tranquila. Se escolher entre várias imagens parecer cansativo, experimente Encontrar o igual com duas imagens. Para um grupo, experimente o Bingo de imagens."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Os jogos funcionam num iPad ou num telemóvel?",
+        "a": "Sim. Todos os jogos funcionam diretamente no navegador em telemóveis, tablets e computadores, e as imagens aumentam para preencher o ecrã. Um tablet apoiado num suporte costuma ser a opção mais confortável para duas pessoas."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Estes jogos são adequados para quem tem Alzheimer?",
+        "a": "Sim. Foram pensados para pessoas que vivem com demência, incluindo Alzheimer, a causa mais frequente. As imagens permanecem visíveis, há poucas opções de cada vez e nada tem tempo nem pontuação, pelo que as atividades se apoiam no reconhecimento de coisas familiares em vez de exigir a memorização de coisas novas."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "São jogos de memória para pessoas idosas?",
+        "a": "São jogos de imagens e de associação que qualquer pessoa de mais idade pode apreciar, mas foram feitos para não colocar a memória à prova: no jogo Pares de imagens, as figuras ficam viradas para cima, a não ser que escolha o contrário. O nosso guia de jogos de memória para pessoas idosas com demência explica como manter qualquer jogo de memória sereno."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Existem jogos para grupos num lar de idosos?",
+        "a": "Sim. O Bingo de imagens tem cartões para imprimir e um sorteio no ecrã, e jogos como Concluir o provérbio e Cartões de conversa funcionam muito bem lidos em voz alta para um grupo."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad e Android",
+    "requirements": "iOS 15 ou posterior; Android 7.0 ou posterior",
+    "summary": "Uma aplicação gratuita para iPhone, iPad e Android com correspondência tranquila de imagens em quatro a doze peças grandes, jogos e visualização com fotos de família à sua escolha, e oito pacotes de imagens incluídos que funcionam sem ligação à internet. Sem necessidade de conta, sem anúncios, sem temporizadores e sem pontuações.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Correspondência tranquila de imagens com 4, 6, 8 ou 12 peças grandes; as imagens mantêm-se visíveis a não ser que prefira ocultá-las",
+      "As fotos de família que selecionar são copiadas para a aplicação para jogos de pares ou para verem em conjunto",
+      "Ver em conjunto: uma imagem de cada vez com sugestões opcionais de conversa",
+      "Oito pacotes de imagens incluídos na aplicação que funcionam sem internet",
+      "Sem conta, sem anúncios, sem compras na aplicação, sem temporizador, pontuação ou penalizações"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Existe alguma aplicação de atividades para a demência?",
+        "a": "Sim. O Golden Moments (com o nome \"{storeName}\") é gratuito na App Store e no Google Play. Oferece jogos tranquilos de pares com peças grandes, atividades com fotos de família que escolher e pacotes de imagens que funcionam sem internet."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "A aplicação Golden Moments é gratuita?",
+        "a": "Sim. O download é gratuito, sem anúncios, sem necessidade de conta e sem compras na aplicação."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "A aplicação funciona sem internet?",
+        "a": "Sim. As imagens iniciais e todos os oito pacotes de imagens vêm incluídos na aplicação, e as fotos de família funcionam offline assim que são copiadas para a aplicação. Escolher uma foto guardada apenas em iCloud pode exigir ligação à internet."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Posso utilizar as nossas próprias fotos de família?",
+        "a": "Sim. Escolha as fotos com o seletor de fotos do seu aparelho. O app guarda cópias menores no aparelho para as suas atividades, não envia essas fotos para lugar nenhum e nunca altera os originais. Você pode apagar as cópias a qualquer momento."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "É um app de treino de memória ou de testes de memória?",
+        "a": "Não. O Golden Moments é para diversão e para passar um tempo juntos. Ele não tem pontuações nem testes, e não diagnostica, trata, previne nem mede a demência ou a doença de Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Em quais aparelhos ele funciona?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Existe uma versão deste jogo para aplicativo?",
+      "a": "Sim. O aplicativo gratuito Golden Moments para iPhone, iPad e Android tem o mesmo jogo suave de combinar imagens, pode usar as fotos da família que você escolher e funciona offline. Sem conta, sem anúncios e sem pontuação."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Existe uma versão deste jogo para aplicativo?",
+      "a": "Não deste jogo em si. O aplicativo gratuito Golden Moments para iPhone, iPad e Android tem o jogo suave de combinar imagens, com peças grandes e fotos da família que você escolher, e funciona offline. Este jogo continua gratuito aqui, no seu navegador."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: imagens grandes e acolhedoras",
+    "noscript": "Este jogo precisa que o JavaScript esteja ativado no seu navegador. As dicas abaixo funcionam sem ele.",
+    "about": "Sobre {name}",
+    "aboutAria": "Sobre este jogo",
+    "noTimer": "Sem cronômetro nem pontuação",
+    "printable": "Para imprimir",
+    "howTo": "Como jogar {name}",
+    "tips": "Dicas para jogar juntos",
+    "newToPlayingHtml": "Nunca jogou com alguém que tem demência? Leia <a href=\"/caregiving/how-to-play-together/\">como jogar juntos</a>, incluindo o que fazer se a pessoa perder o interesse.",
+    "moreAria": "Mais para explorar",
+    "helpfulGuides": "Guias úteis",
+    "appTitle": "Jogue no aplicativo",
+    "appText": "O aplicativo gratuito Golden Moments tem o jogo suave de combinar imagens, com peças grandes e fotos da sua família, e funciona sem Wi‑Fi. iPhone, iPad e Android.",
+    "photoAppTitle": "Deixe suas fotos prontas",
+    "photoAppText": "No aplicativo gratuito Golden Moments, as fotos que você escolher ficam no aparelho para a próxima vez, e os jogos funcionam sem Wi‑Fi. iPhone, iPad e Android.",
+    "goodToKnow": "Bom saber",
+    "goodToKnowText": "Este jogo é para diversão e para passar um tempo juntos. Ele não testa, não mede e não trata nada.",
+    "moreGames": "Mais jogos suaves",
+    "crumb": "Jogos"
   }
 }

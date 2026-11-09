@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Omathano ge thike pamwe",
+    "seoTitle": "Uudhano wokutsakanitha omathano gombili: Omathano ge thike pamwe",
+    "h1": "Omathano ge thike pamwe: Uudhano wombili wokutsakanitha",
+    "description": "Uudhano wongushi wombiili wokutsakanitha omathano kaantu mboka taye lumbu nuudhigu wokudhimbwa. Omathano omanene ohaga kala taga monika, kapu na oshipala shethimbo nenge oondondo dhonomola, nohamu hogolola omathano 4 sigo 12.",
+    "short": "Konga omathano gaali ge thike pamwe. Omathano otaga vulu okukala ga patuluka.",
+    "players": "Omuntu 1 nenge 2, ya kuutumba pamwe",
+    "intro": "Thinya kethano limwe, e to thinya kwekwawo lye li fa. Omathano ohaga kala ga patuluka opo paaha kale sha sha pumbiwa okudhimbulukwa komutse. Uuna omathano gaali ge li kumwe, ohaga mono omunkulo gwangodhi yoshingoli noshidhindikitho sheuvathano.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Hogolola kutya owala omathano gangapi mwa hala okulongitha. Omathano gane ogo ehala ewanawa lyombili okutameka.",
+      "Thinya kethano kehe. Otali ka mona omunkulo gwoshilaingoli.",
+      "Thinya kethano ndyoka lya faathana nalyo. Omathano ngoka gaali otaga kala kumwe ye na oshilongitho shokutala.",
+      "Ngele omathano gaali inaga faathana, kapu na sha sha puka tashi ningwa. Thinya natango monkatu yoye uuna wa longekidha.",
+      "Patulula \"Omathano ga holekwa\" owala ngele mwa hala okuuvite nawa uudhano wokukonga kombinga yokupatulula omathano konima."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Lukeni omathano pombanda pamwe nomu popye kombinga yago: \"Okapu koote kokatiligane. Oho tula mo omashini mote yoye?\"",
+      "Etha omuntu ngoka to sile oshimpwiyo a thinye komashina, nonando otashi kutha ethimbo lile. Ulika nomunwe pehala lyokutsinya pehala lye.",
+      "Kalei nomathano gane ethimbo ele ngele otashi mu ningitha mu kale mu uvite nawa. Omathano ogendji ehogololo owala, hoshikondo sha pumbiwa okutsikilwa.",
+      "Maneni manga mu uvite nawa. Uudhano wumwe owala oshi li oshinyangadhalwa sha gwana nawa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Openi pu na osho ethimbo nenge oondondo?",
+        "a": "Aaye. Kapu na ovili, oondondo dhonomola, okukonga iinano nenge okukanitha. Oto vulu okukankama ethimbo kehe, nokukankama mokati otashi vulu okukala omukalo omwaanawa gokuhulitha."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Omolwashike omathano haga kala ga patuluka?",
+        "a": "Okukaleka omathano taga monika ohaku ningi uudhano wu kale wokutala nokutsakanitha pehala lyokudhimbulukwa. Aantu oyendji ohaye shi tala shi na ombili oyindji. Oto vulu okupingena komathano ga holekwa methinyo limwe ngele owe shi hala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Owongushi tuu, nandi pumbwa tuu okuninga eishangitho?",
+        "a": "Eeno, owongushi, na kapu na ombalambele yoinyolwa, eishangitho nenge okukutha ko sha. Ohawu longo kombinga yepandja lyointaneta mongodhi, motableta nenge mokompiyuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Otatu vulu tuu okulongitha omathano getu geni gosegeli?",
+        "a": "Eeno. Yeleka Omathano gomapandja, hoka taku ku pitike wu hogolole omathano moshikwaelektronika shoye. Omathano ohaga kala mowindowa yoye na ihaga londo kointaneta yopombanda."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Konga ethano lya faathana",
+    "seoTitle": "Konga Ethano Lya Faathana: Uudhano Wuupupu Womadhiladhilo",
+    "h1": "Konga Ethano Lya Faathana",
+    "description": "Ethano limwe pombanda, gaali sigo gane kohi. Thinya kwekwawo ndyoka li thike pamwe nalyo. Uudhano wombili wongushi wokutsakanitha omathano kaantu mboka taye lumbu nuudhigu wokudhimbwa, kawa na oshipala shethimbo.",
+    "short": "Tala kethano ndyoka li li pombanda e to thinya kulyo ndyoka lya faathana nalyo kohi.",
+    "players": "Omuntu 1 nenge 2",
+    "intro": "Ethano limwe oli li kombinga yopombanda yoshiwiliki. Kohi yalyo opu na omathano gaali, gatatu nenge gane. Thinya kwekwawo ndyoka lye li fa. Oshiningwanima shimwe sha yela poshikando, shi na ethimbo lya gwana lyokupopya.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Hogolola omathano gaali, gatatu nenge gane gokuhogolola mo. Gaali ogo omapu noonkondo.",
+      "Taleni pamwe kethano ndyoka li li pombanda.",
+      "Thinya kethano ndyoka lya faathana nalyo kohi. Otali dhimbulukwa nawa nomushangwa gweuvathano noohapu dhomwenyo omwaanawa.",
+      "Ngele pwa thinywa kethano lyi ili, uudhano otawu tumbula owala edhina lyalyo e tawu tegelele. Kutha ethimbo lyoye.",
+      "Thinya \"Ethano li landula\" uuna mwa longekidha okumona limwe."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Popyeni kombinga ya kehe ethano manga inamu li hogolola: omalwaalo, omaumbililo, naampoka tamu vulu oku li mona.",
+      "Omahoololo gaali kage shi \"okaapu unene\". Eshilongo olyo ethimbo ewanawa lyombili, hoshikumungu shuudhigu.",
+      "Ngele okuthinya okwa kaka, omuntu ngoka ota vulu okuulika nomunwe e to mu thinyine."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Openi pu na osho ethimbo nenge oondondo?",
+        "a": "Aaye. Kapu na ovili, oondondo dhonomola, okukonga iinano nenge okukanitha. Oto vulu okukankama ethimbo kehe, nokukankama mokati otashi vulu okukala omukalo omwaanawa gokuhulitha."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Oshike tashi ningwa ngele pwa thinywa kethano lya puka?",
+        "a": "Kapu na sha shi nayi tashi ningwa. Kapu na ondungidha, omushigakano omutiligane nenge okukakama. Uudhano ohawu tumbula owala ethano ndyoka lya thinywa e tawu tegelele ethinyo li landula."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Owongushi tuu, nandi pumbwa tuu okuninga eishangitho?",
+        "a": "Eeno, owongushi, na kapu na ombalambele yoinyolwa, eishangitho nenge okukutha ko sha. Ohawu longo kombinga yepandja lyointaneta mongodhi, motableta nenge mokompiyuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Tsakanitha nomuzizimba",
+    "seoTitle": "Uudhano Wokutsakanitha Nomuzizimba: Wongushi Kointaneta",
+    "h1": "Tsakanitha Nomuzizimba: Uudhano Wombili Womathano",
+    "description": "Omuzizimba omuluudhe pombanda, omathano gaali sigo gane kohi. Thinya kethano ndyoka tali ningi omuzizimba ngoka. Uudhano wongushi wombiili wokutsakanitha omuzizimba kaantu mboka taye lumbu nuudhigu wokudhimbwa, kawa na oshipala shethimbo.",
+    "short": "Tala komuzizimba e to thinya kethano ndyoka tali gu ningi.",
+    "players": "Omuntu 1 nenge 2",
+    "intro": "Okutsakanitha omuzizimba oshityalonga shi shiwiki nawa koombapila dhoinyangadhalwa, ngashingeyi shi na omathano omanene nokwaa na sha sha pumbiwa okunyanyangidhwa. Omuzizimba omwaanawa ogu li pombanda yoshiwiliki nomathano gaali, gatatu nenge gane oge li metegelo kohi. Thinya kwekwawo ndyoka tali ningi omuzizimba. Omaumbililo ngaashi obasikela, okagumbo komvula nenge okapu koote oshipu okupopya kombinga yago wo.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Hogolola omathano gaali, gatatu nenge gane gokuhogolola mo. Gaali ogo omapu noonkondo.",
+      "Taleni komuzizimba pamwe. Ogu na olupe luni? Ogu li omule nenge omungungumanu?",
+      "Thinya kethano ndyoka tali ningi omuzizimba. Edhina lyalyo otali holoka kohi yomuzizimba.",
+      "Ngele pwa thinywa kethano lyi ili, uudhano otawu tumbula owala edhina lyalyo e tawu tegelele. Kutha ethimbo lyoye.",
+      "Thinya \"Omuzizimba gukwawwo\" uuna mwa longekidha okumona gulwe."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Shileni omunkulo gwomuzizimba nomunwe e tamu popi kombinga yoolupe lwayo.",
+      "Ngele omizizimba odha fa odhidhigu nena, pingena ku Konga ethano lya faathana, mpoka omathano ga yela ga faathana.",
+      "Popya kombinga yethano uuna lya monika: \"Otwa li tu na okagumbo komvula ka fa nkene.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Openi pu na osho ethimbo nenge oondondo?",
+        "a": "Aaye. Kapu na ovili, oondondo dhonomola, okukonga iinano nenge okukanitha. Oto vulu okukankama ethimbo kehe, nokukankama mokati otashi vulu okukala omukalo omwaanawa gokuhulitha."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Okukonga shadow matching oku na okuwa kovanhu ovo ve na dementia?",
+        "a": "Oku nokuwa oshinima shiwa sha tya ngoo kovamwe, unene mesiku lyopambelepo. Iifano ohai kwatwa nokuziwa unene kuposhi yomashiwa. Oshinima oshi shi shi pewa okutsiwa nokuyandja omukumwe, kohaashi okulinga ondjelelo. Oshi kahai ondje dementia nokai kwatwa. Ngele oshi ta tula omahepeko, ove nkamwe mu kolelele \"Kongeni ofano yefano\" nkamwe mu tale iifano pamwe."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ngele ota tendeleka ifano yi ka inayi, ota ka ihala shike?",
+        "a": "Ohaashi kukala shiwa shi shi shi tihe. Ihaaku na eyuvo lyoosinda, nokapitale ka, nokupula. Omukumwe ogu ota popi ifano yi tendelekwa nota kongela ondjadi yokutendeleka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oshi na ondyelelo, nolyi yo ku ninga omunyoli?",
+        "a": "Eehe, oshi na ondyelelo, kaku na ekonto, kaku na okuninga omunyoli nokuvatuka. Ota ka shi kwatwa mo mo web browser mo fone, tablet nomo computer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Kulanduluka pamwe",
+    "seoTitle": "Omukumwe gwo kulanduluka dementia: Kulanduluka pamwe",
+    "h1": "Kulanduluka pamwe: omashiwa gokulanduluka iifano",
+    "description": "Tendeleka ifano, opo to kuthike mo mohoto yalyo: kokudhiginini nomutunda, omaketama nomadhiva. Oshinima shi shi li shi shi tulaho, shi shi na ondyelelo, kovanhu ovo ve na dementia.",
+    "short": "Kulanduluka ifano mo mohoto yayo: kokudhiginini, komutunda nokuli.",
+    "players": "1 nomuntu 2",
+    "intro": "Okulanduluka oshinima shi shi tya ngoo, shi shi kwatwa unene, ngaashi okuthika oiwiyo mo kiinka, nokukonga omalaka. Tendeleka ifano, opo tho ka kuthike mo mohoto yalyo. Ihaku na ondjila yo kukala nokuya nokwiyelela.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Sokoleka omulandu: kokudhiginini nomutunda, omaketama nomadhiva, nomukuta nomukuhewa.",
+      "Tendeleka ifano. Oyo ota ka kala ina ondjia yegolide.",
+      "Tendeleka mohoto yayo ifano ei i li mo. Ifano oyo ota ka yi mo mohoto yayo.",
+      "Ngele ifano ei i li mohoto yimwe, omukumwe ogu ota ka popi nokupewa omukumwe nokukonga.",
+      "Ifano ayihe ikwatwa, tala omahoto pamwe."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mo nawa kohaashi kakuna omaeshiwa ga yandjwa ga ka. Ngele omuntu a popi ngoo ondyulo yomvuthu i li mo kiinka, kopa omukumwe kapa tulike ngoo. Ota ka kala ngoo nomauyelele maupu.",
+      "Kwatha iifano ngaashi ondjelelo: \"Oho hi kwakwe elyulo lyoshi?\"",
+      "Okulanduluka oihinyo yomaumbo ngaashi omathala nomakele nomakuta oshi ikala omukumwe gwa tuka nawa kohaashi ko kunyoka tyo ketiyoko."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Oku na okaunda nokukwaniseka?",
+        "a": "Kakuna. Kakuna okaunda, okukwaniseka, omadhiginino gokutendeleka nokupya. Ota kwata okusiya nekuku ngeyi, nokusiya kokati ohaku kala omukumwe gwa tya nawa okupwaka."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Ongaho oshi lande?",
+        "a": "Ovanhu vamwe ohaa kwatwa nokulanduluka, ngoo oshi shi shi shi ina omukumwe nawa nokushi ziwa. Oshi shi shi ohayi ondjelelo, unene ngeyi ota popi iifano."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oshi na ondyelelo, nolyi yo ku ninga omunyoli?",
+        "a": "Eehe, oshi na ondyelelo, kaku na ekonto, kaku na okuninga omunyoli nokuvatuka. Ota ka shi kwatwa mo mo web browser mo fone, tablet nomo computer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Ifano yokutula pamwe",
+    "seoTitle": "Omutula gwefano gwo dementia: 4 nomo 9 omadhina",
+    "h1": "Ifano yokutula pamwe: omutula gu gwa tuka nawa",
+    "description": "Omutula gwefano gu gwa tuka kovanhu ovo ve na dementia: omadhina 4 nomo 9 ga kulu, efano lyoshili otali monika, nota pindi omadhina mawili opo ga kwafaneke.",
+    "short": "Pindi omadhina mawili opo ga kwafaneke, kuza kompolo efano lyoshili lya kala.",
+    "players": "1 nomuntu 2",
+    "intro": "Efano lyo kutwima lyanyanyukwa kuma kumwe oshi shi kumwe, shi shi pondo 4 nomo 9 ga kulu, nalyo lyokongela. Efano lyoshili otali monika ngaashi ondjelelo. Pindi edhina limwe, opo ota pindi limwe, nagwa kwafaneke. Ihaashi tiwa.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Sokoleka efano nomadhina 4 nomo 9. Mane ya 4 ohaayi kwatwa nawa.",
+      "Tala efano lyoshili kombinga.",
+      "Pindi edhina, opo ota pindi moshikumwe shishi edhina ei ta ka ina okukala. Omadhina mawili ota ka kwafanekwa.",
+      "Omadhina ei i li mo mekumbo lyawo ota ka kala ina ekwatho lipi.",
+      "Efano kompolo lyoshili lya kala, lipite pamwe, opo mu sokoleke efano lingwe."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Okupindi omadhina mawili opo ga kwafaneke oku ikala kupupu kovanhu vamwe kohaashi okutiwa.",
+      "Popi kefano ngeyi lyu tula: \"Oho hi kwakwe ondjapo yoka ndyoyo.\"",
+      "Omutula gwefano gwa mapuva ngaashi ogwa mamu gu na omadhina 12 nomo 24 ga kulu oshi ikala omukumwe gwa tuka nawa pehi lyomeza."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Oku na okaunda nokukwaniseka?",
+        "a": "Kakuna. Kakuna okaunda, okukwaniseka, omadhiginino gokutendeleka nokupya. Ota kwata okusiya nekuku ngeyi, nokusiya kokati ohaku kala omukumwe gwa tya nawa okupwaka."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Otandi kwata okutiha omadhina?",
+        "a": "Ihaashi. Pindi edhina limwe, opo ota pindi limwe, nagwa kwafaneke. Oshi shi shi shi ohayi kohaashi ngoo ombwanda ei i tila shi, nokuli elalakanyo lyoshi lyoshi lyo mapuva."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oshi na ondyelelo, nolyi yo ku ninga omunyoli?",
+        "a": "Eehe, oshi na ondyelelo, kaku na ekonto, kaku na okuninga omunyoli nokuvatuka. Ota ka shi kwatwa mo mo web browser mo fone, tablet nomo computer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Pwanesa ondjovela",
+    "seoTitle": "Pwanesa ondjovela: omukumwe gwomaindjovela gwo vanhu vamanenene",
+    "h1": "Pwanesa ondjovela",
+    "description": "Iindjovela ya ziwa, ngaashi \"Omulenge gu li moningwe ota gu kala omulenge gu nawa ...\" ihe ngoo ondjovela yomukuda ya thigwa. Tendeleka ondjovela, nokonga ondjovela ngeyi, nopopi.",
+    "short": "Pwanesa iindjovela ya ziwa pamwe, nopopi pakaathi.",
+    "players": "1, 2 nomo omuvi",
+    "intro": "Iindjovela ya kala nayi kukwatwa muuyuni washo. Okalata nokaindjovela kamwe kaina omuthigo gwa thigwa, ondjovela ei i li mo nomakongo matatu, nomakwatho \"Monika ondjovela\". Opo pauyuvo gwondjovela, omulandu ta ka ulikwa.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Popa ondjovela moshitsa pamwe.",
+      "Tendeleka ondjovela ei ya pwanesa, nkamwe monika ondjovela.",
+      "Popa ondjovela nokuya popi kombinga yayo.",
+      "Pindi \"Ondjovela ilwe\" ngeyi mu mono kutya mu na okuya."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Popa nokukala nokonga mo kakai ko kulingeka ndyoka lyopomhito ndjoka. Shingaho ohaa popitha nokuli ko kwiyuda.",
+      "Ngele omuntu a tula ondjovela ngoo ya shuna, hwahwa. Iindjovela oyo ya kala ya shuna kovanhu ovo kovalumbo nomaumbo.",
+      "Omuvi vonga oshi shi shi ndi popa, nomuntu yomwe nomukuta ota ka inyanyuka mo ondjovela."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Oku na okaunda nokukwaniseka?",
+        "a": "Aaye. Kapu na o-wili, oondondo, etalelo lyoomwenyo nenge esindiko. Oto vulu okukankama pethimbo kehe, nokuhulila pokati oko wo omukalo omwaanawa gokumanitha."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ongiini ngele otwa hogolola oshitya shi ili?",
+        "a": "Uudhano otau ulike ehulilo ndyoka li shiwike e tau tsikile noonkundathana. Kapu na oondondo, neyamukulo lya yooloka oli li nawa lela."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oshali tuu, nenge onda pumbwa okwishangitha?",
+        "a": "Eeno, oshali lela, no kapu na okaaunda, okwishangitha nenge okulonga mo sha. Ohawu longo kombinga yokukonga komapandja go-ngodhi, kotablete nenge kokompiyuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Omakongo giitya yoondanda oonenene",
+    "seoTitle": "Omakongo giitya yoondanda oonenene yuuvu wokudhimbwa, taga vulu okunyanyangidhwa",
+    "h1": "Omakongo giitya yoondanda oonenene",
+    "description": "Omakongo giitya gowala goondanda oonenene gaakokele naantu mboka taya lumbu nuuvu wokudhimbwa. Iitya iishona, oondanda oonenene, iitya ya thikama noya lala owala. Dhana ko-intaneta nenge u nyanyangidhe.",
+    "short": "Oondanda oonenene, iitya iishona, ya lala noya thikama owala. Nyanyangidha wo.",
+    "players": "Omuntu 1 nenge 2",
+    "intro": "Okagolomba okapewa koondanda oonenene niitya iishona yowala, ayihe otai leshwa ya lala nenge ya thikama. Thinina kondanda yotango yoshitya, opo ihe to thinine kondanda yasho yahugunina. Owa hala yopombapila? Nyanyangidha uudhano uupe nethinino limwe owala.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Hogolola oshipalanyolo noonkondo dhokagolomba.",
+      "Tala komusholondondo gwiitya. Iitya otai leshwa ya lala (kombinga yokolumoho sigo oyokolulyo) nenge ya thikama (kombanda sigo opevi).",
+      "Thinina kondanda yotango yoshitya, opo ihe to thinine kondanda yasho yahugunina.",
+      "Oshitya sha monika otashi ningi erangano e tashi kuthwa ko komusholondondo.",
+      "Thinina \"Nyanyangidha uudhano mbuka\" opo mu dhane kombapila nepensela nenge okapeniko."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ulikileni oshitya shi li momusholondondo e tamu kongo ondanda yasho yotango pamwe.",
+      "Kombapila, okapeniko okapukululi ohaka kwatwa nuupu shi vulithe opensela.",
+      "Kundathaneni kombinga yiitya yoshipalanyolo. Iitya yiiyimati oyo omukalo omuwanawa gwokutampeka omadhimbuluko gokuteya, okulonga iikuki nenge omahala gomalandithilo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Opu na tuu o-wili nenge oondondo?",
+        "a": "Aaye. Kapu na o-wili, oondondo, etalelo lyoomwenyo nenge esindiko. Oto vulu okukankama pethimbo kehe, nokuhulila pokati oko wo omukalo omwaanawa gokumanitha."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ondi vulu tuu okunyanyangidha uudhano wokukonga iitya?",
+        "a": "Eeno. Thinina \"Nyanyangidha uudhano mbuka\" opo u nyanyangidhe okagolomba koondanda oonenene, nomusholondondo gwiitya pevi lyako. Kehe uudhano uupe owa yooloka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oshali tuu, nenge onda pumbwa okwishangitha?",
+        "a": "Eeno, oshali lela, no kapu na okaaunda, okwishangitha nenge okulonga mo sha. Ohawu longo kombinga yokukonga komapandja go-ngodhi, kotablete nenge kokompiyuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Omapandja gomalwaala",
+    "seoTitle": "Omapandja gomalwaala gaakokele mboka ye na uuvu wokudhimbwa (Gowala)",
+    "h1": "Omapandja gomalwaala",
+    "description": "Omapandja gomalwaala omapu gaakokele ge na omahala omanene: thinina elwaala, opo ihe to thinine pethano. Kapu na evundakano, kapu na elwaala lya puka, no kehe epandja otali vulu okunyanyangidhwa gowala.",
+    "short": "Thinina elwaala, opo ihe to thinine koshitopolwa shethano. Nyanyangidha wo omapandja.",
+    "players": "Omuntu 1 nenge 2",
+    "intro": "Omapandja ge na omathano omapu omanene: ongala mondjaye, egumbo, okakopi kotee, embiimbili nowato yomeya. Thinina elwaala, opo ihe to thinine koshitopolwa shethano oku shi udhitha. Kapu na omalwaala ga puka.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Hogolola epandja.",
+      "Thinina elwaala. Kehe elwaala oli na edhina lyalyo lya nyolwa ko.",
+      "Thinina koshitopolwa shethano oku shi udhitha nelwaala ndyoka.",
+      "Lundulula edhiladhilo lyoye ethimbo kehe mokutula mo elwaala limwe.",
+      "Thinina \"Nyanyangidha epandja ndika\" opo mu mone epandja lyaa na sha lyokuhola noopensela nenge nookapeniko."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Gandja omalwaala gaali ga hogololwe mo pehala lyokugandja agehe ngele okuhogolola otaku monika oshidhigu.",
+      "Omiti dhuuludhe nomatango gomambulau oga taambwa ko nawa. Shika oshi na sha nokunyanyukilwa omalwaala, ha kukala we shi ninga mondjila lela.",
+      "Omapandja ga nyanyangidhwa ohaga longo nawa nookapeniko oomanene nenge noomoni, ndhoka oondjato dhadho dhuupu okukwata."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Opu na tuu o-wili nenge oondondo?",
+        "a": "Aaye. Kapu na o-wili, oondondo, etalelo lyoomwenyo nenge esindiko. Oto vulu okukankama pethimbo kehe, nokuhulila pokati oko wo omukalo omwaanawa gokumanitha."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Omapandja ngaka oga fa tuu guunona unene?",
+        "a": "Otwa thaneka iinima iipu ya ngungumana pehala lyoomanga dhuunona, opo omapandja ga opalela aakokele. Omathano omanene ohaga ningi elwaala li kale epepu lyaa shi shuunona."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oshali tuu, nenge onda pumbwa okwishangitha?",
+        "a": "Eeno, oshali lela, no kapu na okaaunda, okwishangitha nenge okulonga mo sha. Ohawu longo kombinga yokukonga komapandja go-ngodhi, kotablete nenge kokompiyuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Uukalata woonkundathana",
+    "seoTitle": "Omatameko goonkundathana guuvu wokudhimbwa: Uukalata womathano",
+    "h1": "Uukalata Woonkundathana",
+    "description": "Uukalata womathano ye na omatameko omawanawa goonkundathana gaantu mboka taya lumbu nuuvu wokudhimbwa: kapu na omakonakono, kapu na omayamukulo gomondjila. Longitha posikilini nenge u nyanyangidhe uukalata auhe.",
+    "short": "Uukalata womathano ge na omapulo omawanawa ga patuluka. Kapu na omakonakono.",
+    "players": "Aantu 2 nenge ongundu",
+    "intro": "Kehe okakalata oke na ethano li shiwike pamwe nehitho ewanawa lyokupopya, ngaashi \"Ombepo yini yoombepo dhuunshitwe wu hole unene?\" Kapu na omayamukulo gomondjila nenge sha shoka sha pumbwa okudhimbulukwa. Hogolola oshipalanyolo nenge u piagule agehe kumwe.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Hogolola oshipalanyolo, nenge u thige po \"Uukalata auhe\".",
+      "Lesha epulo mokule e tamu tala kethano pamwe.",
+      "Pulakena, gandja eyamukulo lyoye gwoye, e tamu etha oonkundathana dhi pumbuluke.",
+      "Thinina \"Okakalata taka landula\" ngele mwa pyakudhukwa, nenge mu kale nokakalata kamwe ethimbo ele ngaashi mwa hala.",
+      "Thinina \"Nyanyangidha uukalata auhe\" opo mu tete mo uukalata wopombapila."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Yamukula wo epulo nangoye mwene. Shika ohashi ningi shi kale oonkundathana dhashili, kashi shi epulapulo.",
+      "Landula ehokololo, hamauyelele gomondjila lela. Ngele uuyelele owu lunduluka, oshi li tuu nawa.",
+      "Ngele okakalata oka gumu sha shoka shi lulilwe, taamba ko eiyuvo ndyoka e tamu lundulukile kokakalata kamwe nombili."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Omolwashike kaapu na omapulo ga tya \"Oto dhimbulukwa tuu…?\"",
+        "a": "Omapulo ngoka taga konakona edhimbuluko otaga vulu okukala ga fa ekonakono nokweetitha ehuliloko. Omahitho ga patuluka ngaashi \"Hokololela ndje kombinga ya…\" ohaga pe kehe gumwe ompito yokukutha ombinga, kashi na ndando kutya oshike ta dhimbulukwa."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ondi vulu tuu okunyanyangidha uukalata?",
+        "a": "Eeno. \"Nyanyangidha uukalata auhe\" otaku nyanyangidha uukalata auhe mondanda onene, uukalata uundji kepandja kehe, wa pyakudhukwa okutetwa mo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oshali tuu, nenge onda pumbwa okwishangitha?",
+        "a": "Eeno, oshali lela, noinaapu pumbiwa okukala no-akhaunda, okwiishangitha nenge okuninika sha (download). Otashi longo kobrawusa yongodhi, yotableta nenge yokompiuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Oothano dhomataele",
+    "seoTitle": "Ninga uudhano wokukonga omataele okuza moothano dhuukwanegumbo",
+    "h1": "Oothano dhomataele: Konga omataele goothano dhoye yene",
+    "description": "Ningitha oothano dhoye dhuukwanegumbo uudhano uuwanawa wokukonga omataele. Hoolola oothano 2 sigo 6 moshikwaelektronika shoye; otadhi kala mobrawusa yoye noitadhi tuminwa nando kointaneta.",
+    "short": "Hoolola oothano dhoye yene e to dhi hanganitha. Kape na sha tashi tuminwa kointaneta.",
+    "players": "Aantu 2, pooha nooha",
+    "intro": "Hoolola oothano mbali sigo hamano okuza mongodhi, motableta nenge mokompiuta yoye, opo dhi ninge uudhano wokuhanganitha oothano dhi li oonenene nodhi wetike nawa. Oothano otadhi ulikwa ashike meni lyepandja ndika. Itadhi tuminwa kointaneta, itadhi pungulwa nenge dhi taandelithwe, notadhi kana po uuna to pata epandja.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Thinda \"Hoolola oothano\" e to kutha mo oothano mbali sigo hamano.",
+      "Kehe ethano otali holoka luwali. Thinda limwe, opo nduno to thinda etaele lyalyo.",
+      "Popyani kombinga yakehe ethano sho tamu li mono.",
+      "Uuna mwa mana, pata epandja nenge u thinde \"Kutha mo oothano\". Kape na sha tashi pungulwa."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Hoolola oothano dhi li nawa dhiinima yinyanyudha noyoshiwike: oshinamwenyo shomegumbo, oshikunino, ehala eholike, nenge esiku lyohango.",
+      "Oothano dhomahala nodhiinima otadhi vulu okukala oompu dhi vulithe oshipala shomuntu, noitadhi tula omuntu monkalo yokuthiminikwa a tye omadhina gaantu.",
+      "Yanda oothano dhaantu mboka ya hulitha ngele otadhi vulu okueta oluhodhi lwoombaadhilila, kakele ngele owu shi shi kutya otadhi eta ehekeleko."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Oothano dhandje otadhi tuminwa tuu pehala li ili kointaneta?",
+        "a": "Aawe. Epandja ndika otali lesha oothano ndhoka wa hoolola mondjila oyo tuu ndjoka mobrawusa yoye e tali dhi ulike kosikrina yoye. Itadhi tuminwa kutse nenge komuntu gumwe e lili, notadhi kana po uuna to pata nenge to shunitha epandja pevi."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Opu na tuu owili nenge oondondo?",
+        "a": "Aawe. Kape na owili, oondondo, okuyalula oonkatu nenge okusindwa. Oto vulu okukankama pokathimbo kehe, nokukankama mokati oku li lela omukalo omwaanawa gwokumana."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ondi vulu tuu okupungula uudhano mbuka opo tu ka dhane koshikando tashi landula?",
+        "a": "Hasho mobrawusa, osho sha ningwa ngaho opo ku shilipalekwe kutya kape na uuyelele wopaumwene tawu pungulwa. Okapulikeishina koshali kaGolden Moments ko-iPhone noko-iPad otaka vulu okupungula oothano ndhoka wa hoolola moshikwaelektronika shoye."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo yoothano",
+    "seoTitle": "Bingo yoothano yaakulupe mboka ye na uupyakadhi wokudhimbwa: Oyi li yokunyanyangidhwa",
+    "h1": "Bingo yoothano yoongundu",
+    "description": "Bingo yoothano yoshali yokunyanyangidhwa ya nuninwa aakulupe naamboka taya silwa oshimpwiyo shoompadhilila, yi na omwiithani omunene kosikrina. Oothano oonenene kumwe niitya, uukololo 9 nenge 16, noinaapu pumbiwa okulesha.",
+    "short": "Uukalata woobingo yoothano wokunyanyangidhwa nomwiithani gokosikrina onene ya nuninwa oongundu.",
+    "players": "Ongundu yaantu 2 sigo 30",
+    "intro": "Obingo yoshito ya ningwa noothano pehala lyonomola, opo kapu kale gumwe ta pumbwa okulesha uushona. Nyanyangidha uukalata wi ili nowi ili, opo nduno to longitha omwiithani gwokosikrina okuulika kehe ethano li li enene kotiivii, kokompiuta nenge kotableta.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Hoolola uukololo 9 nenge 16 kekalata kehe nongundu yaadhaneni.",
+      "Thinda \"Nyanyangidha uukalata\". Kehe ekalata oli ili.",
+      "Egula omwiithani kosikrina onene. Thinda \"Ethano tali landula\" okuulika kehe ethano kumwe nedhina lyalyo.",
+      "Aadhaneni otaya siikile ethano ndyoka lye ya pamwe kekalata lyawo noshimaliwa shoshiyela, ombatona nenge oshikwatha shokundhindhilikitha.",
+      "Kehe ngoka ta gwanitha omukweyo, nenge ekalata alihe, oha pandulwa. Kape na aasindwa molupe nduka: tsikileni okudhana sigo kehe gumwe a mono omukweyo."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Longitheni iinima iinenene ngaashi omitonho dhomakende. Oombatona ooshona otadhi vulu okukala oodhigu okukwatwa.",
+      "Tumbula ethano e to popi sha kombinga yalyo: \"Oskepa yombepo. Olye a li nale moskepa?\"",
+      "Kuutumbikeni aantu mboka ye na uupyakadhi wokumona po popepi lela nosikrina, e tamu tula aakwathi pamwe naadhaneni mboka ye ya pumbwa.",
+      "Uukololo omugoyi owu gwana lela koongundu odhindji. Kalekeni ethimbo lyokudhana pokati kominiti 20 sigo 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ongiini tandi vulu okudhanitha obingo yoothano megumbo lyesiloshimpwiyo lyakulupe?",
+        "a": "Nyanyangidha ekalata limwe komudhaneni kehe, tula omwiithani kosikrina onenenene ndjoka wu na, e to ithana oothano kashona nakashona, to tumbula edhina lyakehe shimwe. Dhaneni sigo kehe gumwe a mono omukweyo, opo kapu kale ngoka a thigwa pevi."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Oshali tuu okunyanyangidha?",
+        "a": "Eeno. Nyanyangidha uukalata wu thike pomwaalu ngoka wa pumbwa, olundji ngaashi wa hala, wu li gwopeke nenge gwokulongithwa mongundu."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Aantu otaya vulu tuu okudhana nando inaaya lesha?",
+        "a": "Eeno. Kehe okakololo oke na ethano enene, li na edhina lyalyo pevi lyalyo kwaamboka ye hole iitya."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Efudho lyokungungumana",
+    "seoTitle": "Okathimbo kokufudha kwangungumana kaakulupe naamboka taye ya sile oshimpwiyo",
+    "h1": "Okathimbo kokufudha kwangungumana",
+    "description": "Okathimbo kokufudha kashona nowonakuzi hoka tamu vulu okukala pamwe: onguluvi yi li ombili otayi koko notayi shuna pevi luhamano lwomifudho. Ngoye to shi tameke, notowu vulu okukankama pokathimbo kehe.",
+    "short": "Onguluvi tayi ende kashona yokufudha nayo. Tameka e to kankama uuna wa hala.",
+    "players": "Omuntu 1 nenge aantu 2",
+    "intro": "Omathimbo gamwe oshilonga oshiwanawa lela oko ashike okukala mwamwena uule wokathimbo. Thinda \"Tameka\", opo nduno to futila mo sho onguluvi tayi koko, e to fudhila pondje sho tayi shuna pevi. Hoolola okweenda kashona nenge mbala. Kashi shi epango lyasha, oshi li ashike ethimbo lyombili lyokukala pamwe.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Kuutumbeni monkalo yuuwanawa pooha nooha.",
+      "Hoololeni ondapo: kashona nenge ombili.",
+      "Thinda \"Tameka\". Futila mo manga onguluvi tayi koko, e to fudhila pondje manga tayi shuna pevi.",
+      "Otayi kankama yoyene konima yomifudho hamano, nenge u thinde \"Kankama\" pokathimbo kehe wa hala."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Kwatathani komake nenge u tule eke lyoye kokwooko kwomuntu ngoka to sile oshimpwiyo ngele osho a hala.",
+      "Ino thiminika nando. Ngele oya hala ashike okutala, oshi li nawa.",
+      "Ngele omuntu oku na uupyakadhi wokufudha, na fudhe ngaashi shito e ta tala ashike konguluvi. Puleni kundohotola kombinga yuupyakadhi kehe wokufudha."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Shika oshinyangadhalwa tuu shopaundjolowele shokufudha?",
+        "a": "Aawe. Oshi li ashike okathimbo omapu kehalo lyoye kokukala nombili nokweetathana pamwe. Kashi shi epango lyomaipulo nenge lyuukolele washa. Popya nandohotola kombinga yuupyakadhi kehe wuundjolowele."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Onguluvi ohayi inyenge tuu nando inandi yi tameka?",
+        "a": "Aame. Inashi kukala mbela wa tiya \"Start\", nokuli omahepo 6 ota kwatha, nenge ngeno wa tiya \"Stop\". Ngele edhiyaminwa lyoye li shiva okuhuka kwouyelele, omashongo ota yandjagulwa ihe ekuli inali kundjidhwa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ohaa pumbwa okulipa, nosho ohaa pumbwa okudhiginina?",
+        "a": "Ee, oha lipwa keshi, nosho ihaa pumbwa konto, okudhiginina nenge okulanduka. Ota shi kwathela mo webrauza yefoni, tabuleti nenge komputa."
       }
     ]
   }

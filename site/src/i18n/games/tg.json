@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Ҷуфти расмҳо",
+    "seoTitle": "Бозии мувофиқкунӣ барои деменсия: Ҷуфти расмҳо",
+    "h1": "Ҷуфти расмҳо: бозии ороми мувофиқкунӣ",
+    "description": "Бозии ороми ройгон барои мувофиқкунӣ барои одамоне, ки бо деменсия зиндагӣ мекунанд. Расмҳои калон дидашаванда мemонанд, соат ва холҳо нестанд, шумо аз 4 то 12 плитка интихоб мекунед.",
+    "short": "Ду расмеро ёбед, ки якхелаанд. Расмҳо метавонанд дар намоиш бошанд.",
+    "players": "1 ё 2 нафар, паҳлӯ ба паҳлӯ",
+    "intro": "Як расмро пахш кунед, сипас расме, ки ба он мувофиқ аст. Расмҳо аз рӯи пешфарз дар намоиш мemонанд, пас чизе ба ёд овардан лозим нест. Вақте ки ду расм якҷоя мешаванд, онҳо ҳошияи тиллоӣ ва нишони санҷиш мегиранд.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Шумораи плиткаҳоро интихоб кунед. Чор плитка барои оғоз ҷои ором аст.",
+      "Ягон расмро пахш кунед. Он ҳошияи тиллоӣ мегирад.",
+      "Расмеро пахш кунед, ки ба он монанд аст. Ҷуфт бо нишони санҷиш якҷоя мemонад.",
+      "Агар ду расм гуногунанд, ҳеҷ чиз бад намешавад. Ҳар вақте ки омодаед, дубора пахш кунед.",
+      "«Расмҳои пинҳон»-ро танҳо он гоҳ фаъол кунед, ки шумо ду нафар версияи классикии рӯ-поёнро дӯст доред."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Якҷоя номи расмҳоро баланд гӯед ва дар бораашон сӯҳбат кунед: «Пиёлаи сурхи чой. Шумо чойро бо шир менӯшед?»",
+      "Бигзоред, ки касе, ки шумо ғамхорӣ мекунед, худаш пахш кунад, гарчанде вақт гирад. Ба ҷои пахш кардан барояш, ба расм ишора кунед.",
+      "То он даме, ки ба шумо хуш аст, бо чор плитка монед. Плиткаҳои бештар интихоб аст, ҳеҷ гоҳ сатҳе нест, ки ба он расед.",
+      "Вақте ки ҳанӯз писанд аст, бозиро тамом кунед. Як бозӣ ҳамчун фаъолияти комил аст."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Соат ё ҳисоб ҳаст?",
+        "a": "Не. Соат, ҳисоб, шумораи ҳаракатҳо ва мағлубшавӣ нест. Шумо дар ҳар лаҳза метавонед бас кунед, ва нимароҳ бас кардан роҳи комилан хуби хатм кардан аст."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Чаро расмҳо рӯ ба боло мemонанд?",
+        "a": "Нигоҳ доштани расмҳо дар намоиш бозиро ба дидан ва мувофиқкунӣ табдил медиҳад, на ба ёдоварӣ. Бисёр одамон инро оромтар меёбанд. Агар хоҳед, бо як пахш ба «Расмҳои пинҳон» гузаред."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ройгон аст ва бояд сабти ном кунем?",
+        "a": "Бале, ройгон аст ва ҳисоб, сабти ном ё зеркашӣ лозим нест. Дар браузер дар телефон, планшет ё компютер кор мекунад."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Оё метавонем аксҳои оилавии худро истифода барем?",
+        "a": "Бале. «Ҷуфти аксҳо»-ро санҷед, ки имкон медиҳад аксҳоро аз дастгоҳи худ интихоб кунед. Аксҳо дар браузери шумо мemонанд ва боршуда намешаванд."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Ҳамонро ёбед",
+    "seoTitle": "Ёфтани расми якхела: бозии оддии деменсия",
+    "h1": "Расми якхеларо ёбед",
+    "description": "Як расм дар боло, ду то чор расм дар поён. Расмеро пахш кунед, ки якхела аст. Бозии оромбахши ройгони расмҳо барои одамоне, ки бо деменсия зиндагӣ мекунанд, бе соат.",
+    "short": "Ба расм дар боло нигаред ва ҳамон расмро дар поён пахш кунед.",
+    "players": "1 ё 2 нафар",
+    "intro": "Як расм дар боло аст. Дар поён дута, се ё чор расм мебошад. Расме, ки якхела аст, пахш кунед. Ҳар бор як интихоби оддӣ, бо ҷои зиёд барои сӯҳбат.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Аз ду, се ё чор расм барои интихоб интихоб кунед. Ду соддатарин аст.",
+      "Якҷоя ба расм дар боло нигаред.",
+      "Расми якхелаеро дар поён пахш кунед. Он бо нишони санҷиш ва чанд калимаи гарм қайд мешавад.",
+      "Агар расми дигаре пахш шавад, бозӣ танҳо номи онро мегӯяд ва интизор мешавад. Вақти худро гиред.",
+      "Вақте ки омодаед барои расми дигар, «Расми навбатӣ»-ро пахш кунед."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Пеш аз интихоб дар бораи ҳар расм сӯҳбат кунед: ранг, шакл, ки онро куҷо дидан мумкин аст.",
+      "Ду интихоб «хеле осон» нест. Мақсад лаҳзаи хушоянд аст, на мушкилӣ.",
+      "Агар пахш кардан душвор бошад, шахс метавонад ишора кунад ва шумо барояш пахш кунед."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Соат ё ҳисоб ҳаст?",
+        "a": "Не. Соат, ҳисоб, шумораи ҳаракатҳо ва мағлубшавӣ нест. Шумо дар ҳар лаҳза метавонед бас кунед, ва нимароҳ бас кардан роҳи комилан хуби хатм кардан аст."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Агар расми нодуруст пахш шавад, чӣ мешавад?",
+        "a": "Ҳеҷ чизи ногувор. Садо, салиби сурх ё ларзиш нест. Бозӣ номи расми пахшшударо мегӯяд ва пахши навбатиро интизор мешавад."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ройгон аст ва бояд сабти ном кунем?",
+        "a": "Бале, ройгон аст ва ҳисоб, сабти ном ё зеркашӣ лозим нест. Дар браузер дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Мувофиқкунии сояҳо",
+    "seoTitle": "Бозии мувофиқкунии сояҳо барои деменсия: ройгон онлайн",
+    "h1": "Мувофиқкунии сояҳо: бозии ороми расмҳо",
+    "description": "Сояи торик дар боло, ду то чор расм дар поён. Расмеро пахш кунед, ки сояро ба вуҷуд овардааст. Бозии ройгону ороми мувофиқкунии сояҳо барои деменсия, бе соат.",
+    "short": "Ба сояи расм нигаред ва расмеро пахш кунед, ки онро ба вуҷуд овардааст.",
+    "players": "1 ё 2 нафар",
+    "intro": "Мувофиқкунии сояҳо фаъолияти шинос аз варақаҳои чопӣ аст, ин ҷо бо расмҳои калон ва бе чопкардан. Сояи мулоим дар боло ва ду, се ё чор расм дар поён интизоранд. Расмеро пахш кунед, ки сояро ба вуҷуд овардааст. Шаклҳо, ба монанди дучарха, чатр ё пиёла, инчунин барои сӯҳбат осон мебошанд.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Аз ду, се ё чор расм интихоб кунед. Ду соддатарин аст.",
+      "Якҷоя ба соя нигаред. Шакли он чӣ гуна аст? Баланд аст ё гирд?",
+      "Расмеро пахш кунед, ки сояро ба вуҷуд овардааст. Номи он зери соя пайдо мешавад.",
+      "Агар расми дигаре пахш шавад, бозӣ танҳо номи онро мегӯяд ва интизор мешавад. Вақти худро гиред.",
+      "Вақте ки омодаед барои соя дигар, «Сояи навбатӣ»-ро пахш кунед."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Бо ангушт ҳошияи сояро пайгирӣ кунед ва дар бораи шакл сӯҳбат кунед.",
+      "Агар имрӯз сояҳо душвор бошанд, ба «Ҳамонро ёбед» гузаред, ки дар он расмҳо ба ҳам монанданд.",
+      "Пас аз ёфтани расм дар бораи он сӯҳбат кунед: «Мо чатре доштем, мисли ин.»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Соат ё ҳисоб ҳаст?",
+        "a": "Не. Соат, ҳисоб, шумораи ҳаракатҳо ва мағлубшавӣ нест. Шумо дар ҳар лаҳза метавонед бас кунед, ва нимароҳ бас кардан роҳи комилан хуби хатм кардан аст."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Оё бозии мувофиқкунии соя барои одамоне, ки бо деменсия зиндагӣ мекунанд, мувофиқ аст?",
+        "a": "Барои баъзе одамон, бахусус дар марҳалаҳои аввал, ин метавонад як фаъолияти хушоянд ва содда бошад. Шаклҳоро нисбат ба калимаҳо осонтар шинохтан мумкин аст. Ин бозӣ барои лаззат ва сӯҳбат аст, на барои озмоиш, ва деменсияро табобат ё суст намекунад. Агар он боиси ноороми шавад, «Ҳамонро ёбед» ё танҳо бо ҳам ба тасвирҳо нигаред."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Агар тасвири нодуруст пахш шавад, чӣ мешавад?",
+        "a": "Ҳеҷ чизи нохуш рӯй намедиҳад. Садои зангдор, салиби сурх ё ларзиш нест. Бозӣ номи тасвири пахшшударо мегӯяд ва пахши навбатиро интизор мешавад."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Оё он ройгон аст ва ба бақайдгирӣ ниёз ҳаст?",
+        "a": "Ҳа, он ройгон аст ва ҳисоб, бақайдгирӣ ё зеркашӣ лозим нест. Он дар браузери веб дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Якҷоя ҷудо кунед",
+    "seoTitle": "Бозии ҷудокунӣ барои деменсия: Якҷоя ҷудо кунед",
+    "h1": "Якҷоя ҷудо кунед: машқи ҷудокунии тасвирҳо",
+    "description": "Тасвирро пахш кунед, сипас сабадеро, ки ба он тааллуқ дорад, пахш кунед: ошхона ё боғ, мева ё ҳайвонот. Машқи ороми ройгон барои одамоне, ки бо деменсия зиндагӣ мекунанд.",
+    "short": "Ҳар тасвирро ба сабади худ гузоред: ошхона ё боғ ва ғайра.",
+    "players": "1 ё 2 нафар",
+    "intro": "Ҷудокунӣ як корест, ки одатан осон ва писандида аст, мисли ҷойгир кардани хӯрокворӣ ё ҷуфт кардани ҷуробҳо. Тасвирро пахш кунед, сипас сабадеро, ки ба он мувофиқ аст, пахш кунед. Шитоб лозим нест ва роҳи нодуруст вуҷуд надорад.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Мавзӯъро интихоб кунед: ошхона ва боғ, мева ва ҳайвонот, ё хона ва сафар.",
+      "Тасвирро пахш кунед. Он ҳошияи заррин мегирад.",
+      "Сабадеро, ки ба он тааллуқ дорад, пахш кунед. Тасвир ба ҳамон сабад меравад.",
+      "Агар он ба сабади дигар тааллуқ дошта бошад, бозӣ ба таври мулоим мегӯяд ва интизор мешавад.",
+      "Вақте ки ҳамаи тасвирҳо ҷудо шуданд, сабадҳоро якҷоя бинед."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Дар зиндагии воқеӣ ҷавобҳои нодуруст аксар вақт нестанд. Агар касе гӯяд, ки обпош ба ошхона тааллуқ дорад, пурсед, чаро. Шояд ҳикояи ҷолибе шунавед.",
+      "Тасвирҳоро ҳамчун сабаб барои сӯҳбат истифода баред: «Шумо дар боғи худ чӣ мекоштед?»",
+      "Ҷудо кардани ашёи воқеӣ, мисли қошуқ ва чангча ё тугмаҳо бо ранг, берун аз экран машқи хуб аст."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Оё таймер ё холҳо ҳастанд?",
+        "a": "Не. Соат, ҳисоб, шумораи ҳаракатҳо ё бохтан нест. Шумо дар ҳар лаҳза метавонед қатъ кунед, ва қатъ кардан дар миёнаи роҳ низ роҳи комилан хуби анҷом додан аст."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Чаро ҷудокунӣ?",
+        "a": "Бисёре аз одамон ҷудокуниро дӯст медоранд, зеро он кори муфид ва ошно ба назар мерасад. Инчунин ҳангоми кор дар бораи тасвирҳо сӯҳбат кардан осон аст."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Оё он ройгон аст ва ба бақайдгирӣ ниёз ҳаст?",
+        "a": "Ҳа, он ройгон аст ва ҳисоб, бақайдгирӣ ё зеркашӣ лозим нест. Он дар браузери веб дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Пазли тасвирӣ",
+    "seoTitle": "Пазли осон барои деменсия: 4 ё 9 порча",
+    "h1": "Пазли тасвирӣ: пазли осон",
+    "description": "Пазли онлайни осон барои одамоне, ки бо деменсия зиндагӣ мекунанд: 4 ё 9 порчаи калон, тасвири пурра намоён мемонад ва барои иваз кардани ду порча онҳоро пахш мекунед.",
+    "short": "Барои иваз кардани ду порча онҳоро пахш кунед, то тасвир пурра шавад.",
+    "players": "1 ё 2 нафар",
+    "intro": "Тасвири дӯстона ба чор ё нӯҳ порчаи калон бурида ва омехта мешавад. Тасвири пурра ҳамчун роҳнамо намоён мемонад. Як порчаро пахш кунед, сипас дигарашро, ва онҳо ҷойи худро иваз мекунанд. Кашидан лозим нест.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Тасвир ва 4 ё 9 порчаро интихоб кунед. Чор оғози мулоим аст.",
+      "Тасвири пурраро дар боло бинед.",
+      "Порчаро пахш кунед, сипас ҷоеро, ки бояд бошад, пахш кунед. Ду порча иваз мешаванд.",
+      "Порчаҳое, ки дар ҷои дуруст ҳастанд, нишони хурди санҷишӣ мегиранд.",
+      "Вақте ки тасвир пурра шуд, якҷоя аз он лаззат баред, сипас дигарашро интихоб кунед."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Барои бисёриҳо иваз кардани ду порча бо пахш кардан нисбат ба кашидан хеле осонтар аст.",
+      "Ҳангоми пурра шудани тасвир дар бораи он сӯҳбат кунед: «Инак боми сурх.»",
+      "Пазли воқеии чӯбин бо 12 то 24 порчаи калон низ фаъолияти хуб дар мизи корӣ аст."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Оё таймер ё холҳо ҳастанд?",
+        "a": "Не. Соат, ҳисоб, шумораи ҳаракатҳо ё бохтан нест. Шумо дар ҳар лаҳза метавонед қатъ кунед, ва қатъ кардан дар миёнаи роҳ низ роҳи комилан хуби анҷом додан аст."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Оё лозим аст порчаҳоро бикашам?",
+        "a": "Не. Як порчаро пахш кунед, сипас дигарашро пахш кунед, ва онҳо ҷойи худро иваз мекунанд. Ин бо дасти лаппон ё дар экрани хурд осонтар аст."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Оё он ройгон аст ва ба бақайдгирӣ ниёз ҳаст?",
+        "a": "Ҳа, он ройгон аст ва ҳисоб, бақайдгирӣ ё зеркашӣ лозим нест. Он дар браузери веб дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Мақолро анҷом диҳед",
+    "seoTitle": "Мақолро анҷом диҳед: бозии мақолҳо барои пиронсолон",
+    "h1": "Мақолро анҷом диҳед",
+    "description": "Мақолҳои маъмули англисзабонон бо калимаи охирини пинҳон, мисли «A penny saved is a penny ___». Интихобро пахш кунед ё анҷомро нишон диҳед, сипас дар бораи он сӯҳбат кунед.",
+    "short": "Мақолҳои маъмулро якҷоя анҷом диҳед, сипас дар бораи онҳо сӯҳбат кунед.",
+    "players": "1, 2 ё гурӯҳ",
+    "intro": "Мақолҳои кӯҳна аксар вақт тамоми умр маълуманд. Ҳар корт мақоли маъмулро бо калимаи охирини пинҳон, се интихоб ва тугмаи «Охирро нишон деҳед» нишон медиҳад. Пас аз анҷом, саволи мулоим барои сӯҳбат пешниҳод мешавад.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Мақолро якҷоя баланд хонед.",
+      "Калимаи анҷомдиҳандаро пахш кунед ё тугмаи «Охирро нишон деҳед»-ро пахш кунед.",
+      "Мақолро пурра бори дигар хонед ва бо кӯмаки савол дар бораи он сӯҳбат кунед.",
+      "Вақте ки тайёр ҳастед, «Мақоли навбатӣ»-ро пахш кунед."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Оҳиста хонед ва пеш аз калимаи охирин каме таваққуф кунед. Аксар вақт одамон пеш аз шумо онро мегӯянд.",
+      "Агар касе анҷоми дигаре диҳад, онро қадр кунед. Баъзе варианти мақолҳо аз оила ё минтақа фарқ мекунанд.",
+      "Дар гурӯҳ як нафар мехонад ва ҳама дар анҷом ба ӯ ҳамроҳ мешаванд."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Оё таймер ё холҳо ҳастанд?",
+        "a": "Не. Соат, ҳисоби холҳо, шумораи ҳаракатҳо ва мағлубшавӣ вуҷуд надорад. Шумо дар ҳар лаҳза метавонед бозиро қатъ кунед, ва қатъ кардан дар миёнаи роҳ ҳам роҳи хуби анҷом додан аст."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Агар мо калимаи дигарро интихоб кунем-чӣ?",
+        "a": "Бозӣ ҷавоби маъмулии охирро нишон медиҳад ва ба сӯҳбат мегузарад. Ҳисоби холҳо нест ва ҷавоби дигар ҳам дуруст аст."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Оё ройгон аст ва ба қайд гирифтан лозим аст?",
+        "a": "Бале, ройгон аст ва ҳисоб, қайд ё зеркашӣ лозим нест. Он дар браузери веб дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ҷадвали калимаҳо бо ҳарфҳои калон",
+    "seoTitle": "Ҷадвали калимаҳо бо ҳарфҳои калон барои деменсия, барои чоп",
+    "h1": "Ҷадвали калимаҳо бо ҳарфҳои калон",
+    "description": "Ҷадвали ройгони калимаҳо бо ҳарфҳои калон барои пиронсолон ва одамоне, ки бо деменсия зиндагӣ мекунанд. Калимаҳои кам, ҳарфҳои калон, танҳо уфуқӣ ва амудӣ. Онлайн бозӣ кунед ё чоп кунед.",
+    "short": "Ҳарфҳои калон, чанд калима, танҳо уфуқӣ ва амудӣ. Онро ҳамчунин чоп кунед.",
+    "players": "1 ё 2 нафар",
+    "intro": "Ҷадвали хурд бо ҳарфҳои калон ва танҳо чанд калима, ки ҳамаашон уфуқӣ ё амудӣ навишта шудаанд. Ба ҳарфи аввали калима, сипас ба ҳарфи охиринаш ламс кунед. Ба коғаз майл доред? Бо як ламс ҷадвали нави калимаҳоро чоп кунед.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Мавзӯъ ва андозаи ҷадвалро интихоб кунед.",
+      "Рӯйхати калимаҳоро бинед. Калимаҳо аз чап ба рост (уфуқӣ) ё аз боло ба поён (амудӣ) хонда мешаванд.",
+      "Ба ҳарфи аввали калима ламс кунед, сипас ба ҳарфи охиринаш ламс кунед.",
+      "Калимаи ёфташуда ранг мегирад ва аз рӯйхат хат мехӯрад.",
+      "Тугмаи «Ин ҷадвалро чоп кунед»-ро ламс кунед, то бо қалам ё маркер бар коғаз бозӣ кунед."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ба калимаи дар рӯйхат нишон диҳед ва якҷоя ба ҳарфи аввалаш нигаред.",
+      "Дар коғаз, маркер бо дастон нигоҳ доштан аз қалам осонтар аст.",
+      "Дар бораи калимаҳои мавзӯъ сӯҳбат кунед. Калимаҳои меваҷот роҳи табиӣ ба ёдоварии чиниш, пухтан ё бозорҳо мебошанд."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Оё соат ё ҳисоби холҳо вуҷуд дорад?",
+        "a": "Не. Соат, ҳисоби холҳо, шумораи ҳаракатҳо ва мағлубшавӣ вуҷуд надорад. Шумо дар ҳар лаҳза метавонед бозиро қатъ кунед, ва қатъ кардан дар миёнаи роҳ ҳам роҳи хуби анҷом додан аст."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Оё ман ҷадвали калимаҳоро чоп карда метавонам?",
+        "a": "Бале. Тугмаи «Ин ҷадвалро чоп кунед»-ро ламс кунед, то ҷадвали ҷорӣ бо ҳарфҳои калон ва рӯйхати калимаҳо дар поёнаш чоп шавад. Ҳар ҷадвали нав фарқ мекунад."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Оё ройгон аст ва ба қайд гирифтан лозим аст?",
+        "a": "Бале, ройгон аст ва ҳисоб, қайд ё зеркашӣ лозим нест. Он дар браузери веб дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Варақаҳои рангкорӣ",
+    "seoTitle": "Варақаҳои рангкорӣ барои калонсолон бо деменсия (ройгон)",
+    "h1": "Варақаҳои рангкорӣ",
+    "description": "Варақаҳои соддаи рангкорӣ барои калонсолон бо соҳаҳои калон: ранг интихоб кунед, сипас ба расм ламс кунед. Ифлосӣ нест, ранги нодуруст нест ва ҳар варақро ройгон чоп кардан мумкин аст.",
+    "short": "Ранг интихоб кунед, сипас қисми расмро ламс кунед. Варақаҳоро ҳам чоп кунед.",
+    "players": "1 ё 2 нафар",
+    "intro": "Варақаҳо бо шаклҳои калон ва сода: гул дар гулдон, хона, пиёлаи чой, парвона ва қаиқи бодбонӣ. Ранг интихоб кунед, сипас қисми расмро ламс кунед, то онро пur кунед. Ранги нодуруст вуҷуд надорад.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Варақаро интихоб кунед.",
+      "Рангро ламс кунед. Номи ҳар ранг дар он навишта шудааст.",
+      "Барои пур кардани он бо ҳамин ранг, қисми расмро ламс кунед.",
+      "Ҳар вақт фикратонро тағйир диҳед: бори дигар пур кунед.",
+      "Тугмаи «Ин варақро чоп кунед»-ро ламс кунед, то варақи холӣ барои рангкорӣ бо қалам ё маркер гиред."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Агар интихоби ҳамаи рангҳо душвор бошад, ба шумо ду ранг пешниҳод кунед.",
+      "Дарахтҳои бунафш ва офтобҳои кабуд хуш қабул мешаванд. Ин барои лаззат бурдан аз ранг аст, на барои дақиқӣ.",
+      "Варақаҳои чопшуда бо маркерҳои ғафс ё қаламҳои ранга хуб кор мекунанд, ки гирифтанашон осонтар аст."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Оё соат ё ҳисоби холҳо вуҷуд дорад?",
+        "a": "Не. Соат, ҳисоби холҳо, шумораи ҳаракатҳо ва мағлубшавӣ вуҷуд надорад. Шумо дар ҳар лаҳза метавонед бозиро қатъ кунед, ва қатъ кардан дар миёнаи роҳ ҳам роҳи хуби анҷом додан аст."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Оё ин варақаҳо кӯдаканаанд?",
+        "a": "Мо предметҳои ором ва сода кашидем, на мультфилмҳо, то варақаҳо ба калонсолон мувофиқ бошанд. Шаклҳои калон рангкориро осон мекунанд, бе он ки кӯдаконаи шавад."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Оё ройгон аст ва ба қайд гирифтан лозим аст?",
+        "a": "Бале, ройгон аст ва ҳисоб, қайд ё зеркашӣ лозим нест. Он дар браузери веб дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Кортҳои суҳбат",
+    "seoTitle": "Оғози суҳбат барои деменсия: кортҳои тасвирӣ",
+    "h1": "Кортҳои суҳбат",
+    "description": "Кортҳои тасвирӣ бо саволҳои мулоими оғози суҳбат барои одамоне, ки бо деменсия зиндагӣ мекунанд: бе имтиҳон, бе ҷавоби дуруст. Дар экран истифода баред ё маҷмӯи пурраро чоп кунед.",
+    "short": "Кортҳои тасвирӣ бо саволҳои кушода ва мулоим. Бе имтиҳон.",
+    "players": "2 нафар ё гурӯҳ",
+    "intro": "Ҳар корт тасвири ошноро бо даъвати кушода ба сӯҳбат пайваст мекунад, мисли «Кадом ҳавои аз ҳама писандидаатон аст?». Ҷавоби дуруст вуҷуд надорад ва чизе ба ёд овардан лозим нест. Мавзӯъро интихоб кунед ё ҳамаро омехта кунед.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Мавзӯъ интихоб кунед ё «Ҳамаи кортҳо»-ро нигоҳ доред.",
+      "Саволро баландовоз хонед ва якҷоя ба тасвир нигаред.",
+      "Гӯш кунед, ҷавоби худро нақл кунед ва изоз диҳед, ки сӯҳбат озодона пеш равад.",
+      "Вақте омода будед, тугмаи «Корти навбатӣ»-ро ламс кунед ё ба як корт то ҳар қадар хоҳед, бимонед.",
+      "Тугмаи «Ҳамаи кортҳоро чоп кунед»-ро ламс кунед, то маҷмӯи коғазиро бурида гиред."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Худатон ҳам ба савол ҷавоб диҳед. Ин ба сӯҳбат монанд аст, на ба аз болои саволҳо гузаронидани имтиҳон.",
+      "Ба ҳикоя диққат диҳед, на ба далелҳо. Агар тафсилот тағйир ёбад, ин ҳам хуб аст.",
+      "Агар корт ба чизи ғамангез расад, эҳсосро эътироф кунед ва мулоимона ба корти дигар гузаред."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Чаро саволҳои «Ба ёд доред…?» нест?",
+        "a": "Саволҳое, ки хотираро месанҷанд, метавонанд ба имтиҳон монанд шаванд ва шармсорӣ ба бор оранд. Даъватҳои кушода, мисли «Дар бораи … нақл кунед», ба ҳар кас имкон медиҳанд, ки ҳамроҳ шавад, ҳар он чизе ки ба ёд дорад."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Оё ман кортҳоро чоп карда метавонам?",
+        "a": "Бале. «Ҳамаи кортҳоро чоп кунед» маҷмӯи пурраро бо ҳарфҳои калон, чандин корт дар ҳар саҳифа, барои бурида гирифтан чоп мекунад."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Оё ройгон аст ва ба қайд гирифтан лозим аст?",
+        "a": "Ҳа, ройгон аст ва ба ҳисоб, қайдгирӣ ё зеркашӣ ниёз нест. Он дар браузери вебӣ дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Ҷуфти аксҳо",
+    "seoTitle": "Бозии мувофиқкунӣ аз аксҳои оилавӣ созед",
+    "h1": "Ҷуфти аксҳо: аксҳои худро мувофиқ кунед",
+    "description": "Аксҳои оилаи худро ба бозии мулоими мувофиқкунӣ табдил диҳед. Аз 2 то 6 аксро дар дастгоҳи худ интихоб кунед; онҳо дар браузери шумо мемонанд ва ҳеҷ гоҳ фиристода намешаванд.",
+    "short": "Аксҳои худро интихоб кунед ва онҳоро мувофиқ кунед. Ҳеҷ чиз фиристода намешавад.",
+    "players": "2 нафар, дар паҳлӯи ҳам",
+    "intro": "Аз телефон, планшет ё компютери худ ду то шаш аксро интихоб кунед, ва онҳо ба бозии мувофиқкунӣ бо тасвирҳои калон ва равшан табдил меёбанд. Аксҳо танҳо дар ҳамин саҳифа нишон дода мешаванд. Онҳо барқ карда намешаванд, нигоҳ дошта ё дигарон бо онҳо шарик карда намешаванд ва ҳангоми пӯшидани саҳифа нопадид мешаванд.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Тугмаи «Аксҳоро интихоб кунед»-ро пахш кунед ва аз ду то шаш аксро интихоб кунед.",
+      "Ҳар акс ду маротиба пайдо мешавад. Яке аз онҳоро пахш кунед, сипас ҷуфти онро пахш кунед.",
+      "Ҳангоми ёфтани ҳар акс дар бораи он сӯҳбат кунед.",
+      "Вақте ки кор тамом шуд, саҳифаро пӯшед ё тугмаи «Аксҳоро тоза кунед»-ро пахш кунед. Ҳеҷ чиз нигоҳ дошта намешавад."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Аксҳои равшан ва чизҳои хушоянд ва ошноро интихоб кунед: ҳайвони хонагӣ, боғ, ҷои дӯстдоштаатон, рӯзи тӯй.",
+      "Аксҳои ҷойҳо ва предметҳо аз рӯи чеҳра осонтар буда метавонанд ва фишор барои ном бурдани одамонро надоранд.",
+      "Аксҳои одамоне, ки аллакай вафот кардаанд, агар ногаҳон андӯҳ оваранд, бекор кунед, магар ки шумо медонед, ки онҳо тасаллӣ медиҳанд."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Оё аксҳои ман ҷое бор карда мешаванд?",
+        "a": "Не. Саҳифа аксҳои интихобкардаи шуморо мустақиман дар браузери шумо мехонад ва дар экрани шумо нишон медиҳад. Онҳо ба мо ё ба касе дигар фиристода намешаванд ва ҳангоми пӯшидан ё аз нав боргирӣ кардани саҳифа нопадид мешаванд."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Оё вақтсанҷ ё хол ҳаст?",
+        "a": "Не. Соат, хол, шумораи ҳаракатҳо ё шикаст нест. Шумо дар ҳар лаҳза метавонед қатъ кунед, ва нимароҳ истодан ҳам роҳи комили анҷоми бозӣ аст."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Оё метавон бозиро барои дафъаи дигар нигоҳ дошт?",
+        "a": "Дар браузер не, аз рӯи тарҳ, то ки ҳеҷ маълумоти шахсӣ нигоҳ дошта нашавад. Барномаи ройгони Golden Moments барои iPhone ва iPad метавонад нусхаҳои интихобшудаи аксро дар дастгоҳи шумо нигоҳ дорад."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Бинго бо тасвирҳо",
+    "seoTitle": "Бинго бо тасвирҳо барои пиронсолон бо деменсия: барои чоп",
+    "h1": "Бинго бо тасвирҳо барои гурӯҳҳо",
+    "description": "Бинги бо тасвирҳо барои чоп, ройгон, барои марказҳои парасторӣ ва гурӯҳҳои пиронсолон, бо нишондиҳандаи калон дар экран. Тасвирҳои калон бо номҳо, 9 ё 16 хона, бе ниёз ба хондан.",
+    "short": "Варақаҳои бинго бо тасвирҳо барои чоп ва нишондиҳандаи калон барои гурӯҳҳо.",
+    "players": "Гурӯҳи аз 2 то 30 нафар",
+    "intro": "Бинги классикӣ бо тасвирҳо ба ҷои рақамҳо, то ки ҳеҷ кас матни хурдро хондан лозим набошад. Варақаҳои беназиреро чоп кунед, сипас нишондиҳандаи дар экран бударо истифода баред, то ки ҳар тасвир дар телевизор, ноутбук ё планшет калон нишон дода шавад.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Барои ҳар варақ 9 ё 16 хона ва шумораи иштирокчиёнро интихоб кунед.",
+      "Тугмаи «Варақаҳоро чоп кунед»-ро пахш кунед. Ҳар варақ гуногун аст.",
+      "Нишондиҳандаро дар экрани калон кушоед. Барои нишон додани ҳар тасвир бо номаш тугмаи «Тасвири навбатӣ»-ро пахш кунед.",
+      "Иштирокчиён тасвири мувофиқро дар варақи худ бо тангача, тугма ё нишонгузор мепӯшонанд.",
+      "Ҳар кас, ки сатрро пур мекунад ё тамоми варақро, табрик мегирад. Дар ин версия мағлубкунанда нест: то он даме ки ҳама сатр надоранд, бозиро давом диҳед."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Аз ашёҳои калон, мисли доначаҳои шашкаба ё сарпӯши шишаҳо истифода баред. Тугмаҳои хурд гирифтанашон душвор аст.",
+      "Номи тасвирро гӯед ва дар бораи он чизе гӯед: «Қаиқи бодбонӣ. Кӣ дар қаиқ сайр карда буд?»",
+      "Одамонеро, ки дидашон суст аст, ба экран наздиктар нишинонед ва ёрдамгарон ба онҳое, ки ба ёрӣ ниёз доранд, ҷуфт кунед.",
+      "Нӯҳ хона барои аксари гурӯҳҳо кифоя аст. Ҷаласаро тақрибан 20 то 30 дақиқа нигоҳ доред."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Чӣ тавр бинго бо тасвирҳоро дар хонаи парасторӣ гузаронам?",
+        "a": "Барои ҳар иштирокчӣ як варақ чоп кунед, нишондиҳандаро дар калонтарин экрани худ гузоред ва тасвирҳоро оҳиста, бо номи ҳар яке, баррасӣ кунед. Бозиро давом диҳед, то ки ҳама сатр дошта бошанд ва ҳеҷ кас аз он берун намонад."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Оё чопаш ройгон аст?",
+        "a": "Ҳа. Ҳар қадар варақ, ки лозим аст, ва ҳар қадар хоҳед, барои истифодаи шахсӣ ё гурӯҳӣ чоп кунед."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Оё одамон бе хондан бозӣ карда метавонанд?",
+        "a": "Ҳа. Ҳар хона тасвири калон аст, ва номаш дар зери он навишта шудааст, барои онҳое, ки калимаҳоро дӯст медоранд."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Нафаскашии ором",
+    "seoTitle": "Таваққуфи ором бо нафаскашӣ барои пиронсолон ва парастандагон",
+    "h1": "Таваққуфи ором бо нафаскашӣ",
+    "description": "Таваққуфи оҳиста ва ором бо нафаскашӣ барои якҷоя: доираи мулоим барои шаш нафас калон ва хурд мешавад. Шумо оғоз мекунед ва ҳар вақт метавонед қатъ кунед.",
+    "short": "Доираи оҳиста барои нафас кашидан ҳамроҳи он. Ҳар вақт, ки хоҳед, оғоз ва қатъ кунед.",
+    "players": "1 ё 2 нафар",
+    "intro": "Баъзан беҳтарин фаъолият таваққуфи ором аст. Тугмаи «Оғоз»-ро пахш кунед, сипас ҳангоми калон шудани доира нафас гиред ва ҳангоми хурд шуданаш нафас бароред. Суръати оҳиста ё тезро интихоб кунед. Ин табобат нест, танҳо лаҳзаи ороми якҷоя.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Якҷоя, дар паҳлӯи ҳам, роҳат нишинед.",
+      "Суръатро интихоб кунед: оҳиста ё мулоим.",
+      "Тугмаи «Оғоз»-ро пахш кунед. Ҳангоми калон шудани доира нафас гиред ва ҳангоми хурд шуданаш нафас бароред.",
+      "Бозӣ пас аз шаш нафас худ қатъ мешавад ё ҳар вақт, ки хоҳед, тугмаи «Қатъ»-ро пахш кунед."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Агар мувофиқ бошад, дастҳоятонро гиред ё дасти худро ба бозуи шахс гузоред.",
+      "Ҳеҷ гоҳ исрор накунед. Агар онҳо тамошо кардан хоҳанд, ин ҳам хуб аст.",
+      "Агар касе мушкилии нафаскашӣ дорад, оддӣ нафас гиред ва танҳо доираро тамошо кунед. Дар бораи ҳар мушкилии нафаскашӣ бо духтур маслиҳат кунед."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Оё ин машқи тиббии нафаскашӣ аст?",
+        "a": "Не. Ин як таваққуфи содда ва ихтиёрӣ барои ороми ва ҳамроҳӣ аст. Ин табобати изтироб ё ягон бемории дигар нест. Дар бораи мушкилоти саломатӣ бо духтур сӯҳбат кунед."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Оё доира бе оғоз кардани ман ҳаракат мекунад?",
+        "a": "Не. То он даме, ки «Оғоз» ро пахш накунед, ҳеҷ чиз ҳаракат намекунад ва пас аз шаш нафас ё вақте ки «Қатъ» ро пахш кунед, бозмеистад. Агар дастгоҳи шумо коҳиши ҳаракатро фаъол карда бошад, матнҳо иваз мешаванд, вале доира калон намешавад."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Оё ин ройгон аст ва бақайдгирӣ лозим аст?",
+        "a": "Ҳа, ин ройгон аст ва ҳисоб, бақайдгирӣ ё зеркашӣ лозим нест. Он дар браузери вебӣ дар телефон, планшет ё компютер кор мекунад."
       }
     ]
   }

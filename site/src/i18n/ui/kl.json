@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Imarisaanut pingaarnermut ingerlaagit",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Puigortunngorsimasunut sammisassat",
+    "homeLabel": "Golden Moments saqqaa",
+    "mainNav": "Pingaarnertut",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Kalaallisut",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: tiitortarfiup, seqernup naasuata qimmillu assingi angisuut nuannersullu",
+    "languages": "Oqaatsit",
+    "englishOnly": "(Tuluttooq)",
+    "machineTranslated": "Una qupperneq nammineertumik nutserneqarsimavoq oqaatsinillu atuisumit suli misissorneqarsimanani.",
+    "readOriginal": "Tuluttoorneqqaarfia atuaruk",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Pinnguaatit",
+      "activities": "Sammisassat",
+      "caregiving": "Paaqqinninneq",
+      "brainHealth": "Qaratsap peqqissusia"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Apeqqutit akissutillu",
+    "breadcrumb": "Sumiippit",
+    "home": "Saqqaa",
+    "lastUpdated": "Kingullermik nutarterneqarpoq",
+    "topics": "Sammisat",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Allassimasut angissusaat",
+      "smaller": "Allassimasut nalinginnaasut",
+      "larger": "Allassimasut anginerit",
+      "contrast": "Qalipaatit erseqqarinnerit"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "Pinnguarit",
+    "picturePairs": "Assit aappariit",
+    "conversationCards": "Oqaloqatigiinnissamut kortit",
+    "pictureBingo": "Assinik bingo",
+    "allGames": "Pinnguaatit tamarmik",
+    "pictures": "Assit naqitassat",
+    "activityIdeas": "Sammisassanut isumassarsiat",
+    "ideas101": "Sammisassanut isumassarsiat 101-t",
+    "lateStage": "Kingusinnerusukkut killiffimmi sammisassat",
+    "printable": "Sammisassat naqitassat",
+    "allActivities": "Sammisassat tamarmik",
+    "forCaregivers": "Paaqqutarinnittunut",
+    "playTogether": "Qanoq ataatsimoorluni pinnguartoqartarnersoq",
+    "selfCare": "Imminut isumagineq",
+    "brainHealth": "Qaratsap peqqissusia pillugu ilisimatusarneq",
+    "faq": "Apeqqutit akissutillu",
+    "about": "Uagut pilluta",
+    "approach": "Isumarput",
+    "howWeWrite": "Qanoq allattarnersugut",
+    "organizations": "Suliffeqarfinnut kattuffinnullu",
+    "app": "Golden Moments appi",
+    "appHelp": "Appimut ikiorsiissutit",
+    "support": "Ikorfartuineq",
+    "legal": "Inatsisitigut paasissutissat",
+    "sitePrivacy": "Nittartakkami paasissutissanik illersuineq",
+    "appPrivacy": "Appimi paasissutissat illersugaanerat",
+    "privacyChoices": "Paasissutissanut toqqakkat",
+    "terms": "Piumasaqaatit appimillu atuisinnaanermut akuersissut",
+    "safety": "Isumannaallisaaneq atorneqarnissaalu naatsorsuutigisaq",
+    "accessibility": "Tikikkuminassuseq",
+    "healthNotice": "Peqqissuseq pillugu paasissutissat",
+    "allLegal": "Inatsisitigut paasissutissat tamarmik",
+    "note": "Golden Moments nuannaaruteqarluni ataatsimoorluni sammisassanik pisariitsunik neqerooruteqarpoq. Nakorsaatitigut siunnersuinerunngilaq, misilitsinnerunngilaq imaluunniit katsorsaanerunngilaq, aammalu kinaluunniit nappaateqarnersoq suussusersinngilaa, uuttortarnagu imaluunniit karakterilersornagu. Peqqissuseq pillugu apeqqutissaqaruit nakorsiassaatit. Ajornartoorfimmi 112 sianerfigiuk.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Puigortunngornermut Alzheimerimullu pinnguaatit sammisassallu | Golden Moments",
+    "description": "Inunnut puigortunngorsimasunut imaluunniit Alzheimerimik nappaatilinnut paaqqutarinnittuinullu qarasaasiakkut pinnguaatit assinik sammisallit akeqanngitsut eqqissisimasullu kiisalu sammisassanut isumassarsiat. Nalunaarnissaq, piffissamik killeqartitsineq imaluunniit pointit pisariaqanngillat.",
+    "eyebrow": "Akeqanngilaq · Usseqanngilaq · Nalunaartoqassanngilaq · Piffissamut killeqanngilaq pointitaqaranilu",
+    "h1": "Inunnut puigortunngorsimasunut pinnguaatit sammisassallu eqqissisimasut",
+    "lede": "Assinik pinnguaatit pisariitsut, assit ilisarisimasat, ataatsimoorlunilu nammineq piffissamik atorluaalluni nuannersumik sammisassat.",
+    "playGame": "Pinnguarit",
+    "findIdeas": "Sammisassanut isumassarsiuk",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Oqarasuaammi, tabletimi qarasaasiamilu atorneqarsinnaavoq",
+      "Assit angisuut saqqumiinnartut",
+      "Qaqugukkulluunniit unitsinneqarsinnaavoq; ajutoorfeqanngilaq"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Aamma iPhone-mut, iPad-imut Android-imullu appi akeqanngitsoq, ilaqutariit namminneq assiutaannik atuisinnaasoq",
+    "albumNote": "”Tiitortarfiup assingi marluk, ataatsimoortut.”",
+    "gamesEyebrow": "Qarasaasiap quppernerani pinnguarit",
+    "gamesTitle": "Pinnguaatit massakkorpiaq pinnguarsinnaasatit",
+    "gamesLede": "Tamarmik eqqissisimasuupput, inersimasunullu tulluarlutik aallartikkuminarlutillu. Ataaseq toqqarsiuk, sanileriillusi ingillusi, paarlakaallusilu toortaallusi.",
+    "seeAllGames": "Pinnguaatit {count}-t tamarmik takukkit",
+    "howTitle": "Qanoq ingerlanneqartarnersoq",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Ilisarisimasamik toqqagarlit",
+        "text": "Tiitortarfiit, naatsiivinnik, uumasuutinik umiatsianillu assit. Siullermik atuaqqaarnissaq malittarisassanilluunniit ilinniarnissaq pisariaqanngilaq."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Sanileriillusi ingigitsi",
+        "text": "Nammineq toortaatigik. Assit oqaluuserisigik. Assigiinngitsut toorneqarpata unitsiarneqassaaq tullianillu toortaanissamut utaqqiinnarluni."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Suli nuannertillugu unitsitsi",
+        "text": "Pinnguaat ataaseq tassaavoq sammisaq naammassisoq. ”Maannakkumut naammattoq” skærmimi saqqumiuartarpoq."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Skærmi kisiat pinnagu",
+    "stageTitle": "Nappaatip killiffiinut tamanut sammisassanut isumassarsiat",
+    "stageLede": "Nipilersukkat, ulluinnarni suliassat, eqqaamasat eqqissillunilu malugisaqarnerit, massakkut tulluartumut naleqqussakkat.",
+    "ideas101": "Sammisassanut isumassarsiat 101-t",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Aallartinnerani killiffik",
+        "text": "Nuannarisaannik ingerlatsiinnaritsi, annikitsumik naleqqussarlugu: sammisat nuannarisat, aneernerit, oqaatsinik pinnguaatit ataatsimoorlunilu pilersaarusiornerit.",
+        "label": "Aallartinnerani killiffimmut isumassarsiat"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Qeqqani killiffik",
+        "text": "Suliassat pisariitsut ilisarisimasallu immikkoortukkuutaakkat: peqiterineq, immikkoortiterineq, nipilersorneq, assinik pinnguarneq pisuttuatsiarnerillu.",
+        "label": "Qeqqani killiffimmut isumassarsiat"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Kingusinnerusukkut killiffik",
+        "text": "Attuuneq, nipit takusallu aqqutigalugit toqqissisimaneq atassuteqarnerlu: assannik paaqqinninneq, erinarssuutit nuannarisat, assit ataatsimoornerlu.",
+        "label": "Kingusinnerusukkut killiffimmut isumassarsiat"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Aalajangersimasumik ujaasivit? Misilikkit <a href=\"/activities/alzheimers/\">Alzheimerimut sammisassat pinnguaatillu</a>, <a href=\"/activities/memory-games/\">eqqaamasassanik pinnguaatit eqqissisimasut</a>, <a href=\"/activities/trivia/\">apeqqutit oqitsut</a> imaluunniit <a href=\"/activities/puzzles/\">puissilit</a>.",
+    "approachEyebrow": "Isumarput",
+    "approachTitle": "Ataatsimoorluni sammisaq, eqqaamasaqassutsimik misilitsinnerunngitsoq",
+    "approachLede": "”Qaratsamut pinnguaatit” amerlasuut sukkassutsimik, pointinik periarfissanillu aallaaveqartarput. Inummut puigortunngorsimasumut tamanna misilitsinnertut misinnarsinnaavoq. Uagut akerlia sanavarput.",
+    "approachLink": "Sooq taama aaqqissuutigineripput",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ajutoorfeqanngilaq",
+        "text": "Ulloqeqqaqanngilaq, pointitaqanngilaq, inuuneqanngilaq ajorsartoqaranilu. Assi allaaneroqqusoq unitsiarneruvoq, kukkunerunngitsoq."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Assit saqqumiinnartarput",
+        "text": "Ilisarsineq eqqaamasassamiit salliutinneqarpoq. Nassaarniartarneq ammasunik aallartittarpoq, taamaammat eqqaamasassaqanngilaq."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Inersimasunut naleqquttoq ataqqinartorlu",
+        "text": "Oqaatsit asannittut paasiuminartullu silarsuarmillu piviusumit assit. Meeqqatulluunniit assiliartartaqanngisaannarpoq oqaaseqaranilu."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Nammineq pigisaq qitiutillugu suliarineqartoq",
+        "text": "Ilaasortanngortoqassanngilaq usseqaranilu. Assitit atortorissaarutinnit aninngisaannarput."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Paaqqutarinnittunut",
+    "guidesTitle": "Ulluinnarni isumaginninnermut ilitsersuutit atoruminartut",
+    "allCaregiving": "Paaqqutarinninnermut ilitsersuutit tamarmik",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Qanoq ataatsimoorluni pinnguartoqartarnersoq",
+        "text": "Piareersarneq, ingerlanera, aammalu pinnguaat nuannerunnaarpat susoqassanersoq."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Sammisassamut naaggaartoqaraangat",
+        "text": "Naaggaarnermut pissutaakkajuttut, kingusinnerusukkullu eqaatsumik misileeqqinnissamut periarfissat."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Tabletimik aaqqissuineq",
+        "text": "Allassimasut anginerit, akornusersuutit ikinnerit saqqarlu ataaseq pisariitsoq."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Sammisassat akeqanngitsut naqitassat",
+        "text": "Oqaatsinik ujaasinerit allannertaat angisuut, qalipattakkat, bingo oqaloqatigiinnissamullu kortit."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Qaratsap peqqissusia: ilisimatusarnermi sunarpiaq ersersinneqarpa",
+    "researchText": "Puigortunngorneq pinngitsoortinneqarsinnaava? Qaratsamut pinnguaatit iluaqutaappat? Nerisaqarnermut, sininnermut tusaasamullu tunngasut qanoq ippat? Paasiuminartunik aallaaveqartunillu akissutit, aamma ilisimatusarnikkut uppernarsaataat ersernerluffiani.",
+    "researchLink": "Ilisimatusarneq pillugu ilitsersuutit atuakkit",
+    "appEyebrow": "Aamma appiuvoq",
+    "appTitle": "Golden Moments iPhone-mi, iPad-imi Android-imilu",
+    "appText": "Appi akeqanngitsoq interneteqarani atorneqarsinnaavoq, ilaqutariillu assinginik toqqakkannik atortorissaarutinni assilillugit toqqortarineqartunik atuisinnaalluni. Aaqqissugaanera taamatut eqqissisimatigaaq: ilitsiviit angisuut sisamat, piffissamut killeqanngilaq, pointitaqanngilaq.",
+    "aboutApp": "Appi pillugu",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Inunnut puigortunngorsimasunut pinnguaatit suut pitsaasuuppat?",
+        "a": "Pinnguaatit pitsaasut pisariitsuuput, ilisimaneqarlutik tatineqaranilu sammineqarsinnaallutik: assit angisuut imminnut naleqquttut nassaarinissaat, immikkoortiterineq, pusslit pisariitsut, oqariartaatsinik ilisimaneqartunik naammassinninneq, qalipaaneq, assilisanik bingo oqaloqatigiinnissamullu kortit. Pitsaanerpaaq tassaavoq ullumi inuup nuannarisarisinnaasaa. Sukkaniunnaveersaarit, pointinik katersinaveersaarit misilitsinnertullu misinnarsinnaasut pinaveersaarlugit."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Puigortunngorsimasunut pinnguaatit uku akeqanngillat?",
+        "a": "Aap. Golden Momentsimi pinnguaatit anillatsitassallu tamarmik akeqanngillat, kontomik pilersitsinani, nalunaarsornani aamma aallernani. Pinnguaatit oqarasuaammi, tabletimi imaluunniit qarasaasiami browserikkut toqqaannartumik ingerlanneqarsinnaapput."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Qaratsamik pinnguaatit puigortunngornissamik pinaveersaartitsisinnaappat?",
+        "a": "Pinnguaammik puigortunngornissamik pinaveersaartitsisinnaasumik takussutissaqanngilaq, Golden Momentsilu suugaluartumilluunniit katsorsaanermik pinaveersaartitsinermilluunniit neriorsuinngilaq. Pinnguaatitta nuannisaqatigiinneq ataatsimoornerlu siunertaraat. Qaratsap peqqissusia pillugu immikkoortortatta ilisimatusarnerup suut takutinnerai suullu takutinnginnerai nassuiarpai."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Pinnguaatit uku inummut Alzheimerimik nappaatilimmut naleqquppat?",
+        "a": "Aap. Alzheimersip nappaataa puigortunngornermut patsisaanerpaavoq, pinnguaatillu tamatumunnga naleqqussagaapput: assit angisuut takuneqarsinnaajuartut, toqqagassat ikittut, aammalu eqqaamamasassanik kukkussutigineqarsinnaasunilluunniit peqanngilaq. Assit imminnut naleqquttut nassaarinissaat, immikkoortiterineq oqariartaatsillu ilisimaneqartut naammassineqarnissaat nutaamik ilinniarnermut taarsiullugu ilisimasatoqqanik atuinermik toqqammaveqarput."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Inuk puigortunngornermi ingerlarngani siuarsimasumiittoq sammisassanik ukuninnga atuisinnaava?",
+        "a": "Akulikitsumik aap, saneqqaniittoqarpat. Assit marluk atorlugit Assigiimmik nassaarit, qallersuutit sisamat atorlugit Assit aappariit, qalipagassaq imaluunniit eqqissilluni anersaartorneq aallarniutigikkit. Sivikitsuutikkit, inuup ingerlarnga maliuk naammattoorneqarpatalu unitsillugu."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Paasissutissakka isertuussaappat?",
+        "a": "Nittartakkami kontomik pilersitsisoqarsinnaanngilaq ussassaaruteqaranilu. Quppernerit suut pulaarneqartarnersut paasiniarlugu Google Analytics atortarparput. Assit Assit aappariinnut toqqakkatit browserinni taamaallaat takuneqarsinnaapput aammalu qaffanneqarneq ajorput."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Kikkut Golden Moments pilersippaat?",
+        "a": "Golden Moments tassaavoq suleqatigiit ikittut, ilaqutariinnut paarsisunullu inersimasunut naleqquttunik assilissanillu eqqissinartunik nittartakkakkut akeqanngitsumillu appikkut sammisassanik pilersitsisartut. Nakorsaanngilagut, matumanilu allassimasut nakorsamit siunnersuutitut isigineqassanngillat."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "siusissumi",
+    "middle": "akullermi",
+    "late": "siuarsimasumi",
+    "hintOne": "Akulikitsumik {list} inissisimasunut naleqquppoq",
+    "hintMany": "Akulikitsumik {list} inissisimasunut naleqqupput",
+    "labelEarly": "Siusissumi inissisimaffik",
+    "labelMiddle": "Akullermi inissisimaffik",
+    "labelLate": "Siuarsimasumi inissisimaffik"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Pinnguaat una pillugu",
+    "printable": "Anillatsitassaq",
+    "play": "Pinnguaruk {name} →",
+    "readGuide": "Ilitsersuut atuaruk"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Pinnguaammik eqqissinartumik piareerpisi?",
+    "text": "Assit angisuut, sukkaniuttoqanngilaq, pointinik katersisoqanngilaq aammalu nalunaarsorfeqanngilaq. Browserinni ataatsimoorlusi pinnguaritsi.",
+    "play": "Pinnguarit",
+    "all": "Pinnguaatit tamaasa takukkit",
+    "aria": "Pinnguarit"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Pinnguaatit uku nassakkit",
+    "text": "Golden Momentsip iPhone-mut, iPad-imut Android-imullu appia akeqanngitsoq: assit angisuut qallersuutit, ilaquttat assingi atorlugit pinnguaatit aammalu assilissat Wi‑Fi-qaranilu atorneqarsinnaasut. Kontorqanngilaq, ussassaaruteqanngilaq, sukkaniuttoqanngilaq pointinilluunniit katersisoqanngilaq.",
+    "appStore": "App Store-mi aaguk",
+    "googlePlay": "Google Play-mi aaguk",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Appi pillugu",
+    "aria": "Appi aaguk"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Sammisassat",
+      "title": "Puigortunngorsimasunut sammisassat",
+      "seo": "Puigortunngorsimasunut sammisassat: Inissisimaffiit malillugit isumassarsiat",
+      "description": "Puigortunngorsimasunut inissisimaffinni tamani sammisassanut isumassarsiat: nipilersorneq, eqqaamanninneq, ulluinnarni suliassat, malugisaqarneq, assammik suliaqarneq, silamiinneq anillatsitassallu akeqanngitsut.",
+      "lede": "Sammisassaq isumalik tassaavoq toqqissisimanermik, siunertamik imaluunniit attaveqatigiinnermik pilersitsisoq sunaluunniit. Inuup nuannarisarisimasaannit aallarniigit, ullumikkullu pissutsinut naleqqussarlugu."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Paarinninneq",
+      "title": "Paarinninnermut ilitsersuutit",
+      "seo": "Puigortunngorsimasunik paarinninnermut ilitsersuutit: Ulluinnarni ikorfartuutitut atorneqarsinnaasut",
+      "description": "Puigortunngorsimasunik paarsisunut ilitsersuutit atoruminartut inussiarnersullu: ataatsimoorluni pinnguarneq, attaveqatigiinneq, itigartitsinerit, ualikkut ualilluarneranilu eqqissiviilliorneq, tabletit, appinik toqqaaneq imminullu isumagineq.",
+      "lede": "Inummut puigortunngorsimasumut ulluinnarni paaqqutarinninnermi pisariitsumik atoruminartumillu ikorfartuutit, aammalu imminut isumaginissamut."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Qaratsap peqqissusia",
+      "title": "Qaratsap peqqissusia: Ilisimatusarnerup suut takutinnerai",
+      "seo": "Qaratsap peqqissusia puigortunngornissamullu navianartut: Ilisimatusarnerup suut takutinnerai",
+      "description": "Puigortunngorneq pinaveersaarneqarsinnaava? Puigortunngornissamut navianartut, qaratsamik pinnguaatit, nerisaqarnaveersaarneq, nerisassat, timersorneq, sininneq, tusaaneq siusissukkullu kalerrisaarutit pillugit ilitsersuutit unneqqarissut najoqqutallillu.",
+      "lede": "Misissuinerit annertuut puigortunngornissamut navianartunik annikillisitsineq pillugu qanoq takutitsinersut pisariitsumik nassuiarneqarput, aamma uppernarsaatit amigarfii paasiuminaaffiilu ilanngullugit. Paasissutissat nalinginnaasut, nakorsamit siunnersuutaanngitsut."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Nutarterneqarpoq",
+    "minuteRead": "Atuarnissaanut minutsit {n}",
+    "byTeam": "Golden Momentsip suleqatigiivinit",
+    "howWeWrite": "Qanoq allattarnersugut",
+    "shortAnswer": "Akissut naatsoq",
+    "onThisPage": "Quppernermi matumani (immikkoortut {n})",
+    "commonQuestions": "Apeqqutit nalinginnaasut",
+    "sources": "Najoqqutat",
+    "sourcesNote": "Suliniaqatigiiffiit misissuinerillu quppernerup matuma toqqammavigisaasa innersuussutaat ilannguppavut. Quppernerup nutarterneqarnerani tamarmik misissorneqarput.",
+    "tryTogether": "Ataatsimoorlusi misiliguk",
+    "relatedGuides": "Ilitsersuutit allat attuumassutillit",
+    "related": "Attuumassutillit",
+    "startHere": "Uani aallarniigit"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Peqqissuseq pillugu paasissutissanut kalerrisaarut",
+    "title": "Paasissutissat nalinginnaasut, nakorsamit siunnersuutaanngitsut",
+    "textHtml": "Quppernermi matumani ilisimatusarnerit saqqummiunneqarsimasut ilaqutariinnut eqikkarneqarput. Inummut aalajangersimasumut suna eqqortuunersoq oqaatigisinnaanngilaa. Nerisatit, timersornerit, sininnerit, nakorsaatitit imaluunniit tapertat allanngortitsinnagit nakorsaq oqaloqatigiuk. Tassanngaannartumik paatsiveeruttoqartillugu allanilluunniit tassanngaannartunik allanngortoqartillugu piaartumik nakorsamik ikioqqugit. <a href=\"/medical-disclaimer/\">Peqqissuseq pillugu paasissutissanut kalerrisaaruterput atuaruk</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Ataatsimoorluni sammisaq, eqqaamasassanik misilitsinnani",
+      "seoTitle": "Golden Moments pillugu: Periusivut",
+      "description": "Sooq Golden Momentsimi pinnguaatit sukkaniuffigineqassanngitsut, pointinik katersiffiunngitsut imaluunniit ingerlatiinnagassanik piumasaqaateqanngitsut, sooq assit takuneqarsinnaajuartarnersut, aammalu puigortunngorneq pillugu suut neriorsuutigisinnaanerivut neriorsuutigisinnaannginnerivullu.",
+      "crumb": "Periusivut",
+      "lede": "Golden Momentsip assilissat atorlugit sammisassat eqqissinartut inersimasunullu naleqquttut, paarsisup inuullu puigortunngorsimasup sanileriillutik nuannaarutigisinnaasaat, suliarisarpai.",
+      "bodyHtml": "<h2>Upperisarput</h2><p>Sammisap siunertaraa piffissap tassaniinnera: oqaloqatigiinneq, qungujunneq, assit marluk katinneranni nuannaarneq, imaluunniit qanillugu eqqissilluni ingimanerinnap nuannersua. Siunertaanngilaq kinaluunniit uuttussallugu, pisussaaffilersussallugu imaluunniit sunilluunniit uppernarsaanissaq.</p><p>Qaratsamik sungiusaatit qarasaasiakkut appit amerlasuut sukkassutsimut, pointinut, ingerlaannartunut qaffasissutsinullu aaqqissugaapput. Inummut puigortunngorsimasumut tamanna misilitsinnertut anigorneqarsinnaanngitsutut misinnarsinnaavoq. Uagut akerlia ineriartortipparput, maleruagassanullu ukununnga piumasaqaateqarluta:</p><ul><li><strong>Ajutoorfissaqanngitsoq.</strong> Nalunaaqutaqanngilaq, pointitaqanngilaq, killiffilersuuteqanngilaq, inuuneqanngilaq, tulleriiaartoqanngilaq, konfettinik imaluunniit unitsitsinermut nalunaaquttanik quppernermi sumiluunniit peqanngilaq.</li><li><strong>Ilaqarsinnaaneq eqqaamasassanut taarsiullugu.</strong> Assit saqqummiinnarneqartarput. Oqaloqatigiinnissamut kajumissaaruteqarpoq, aqqa imaluunniit eqqaamasaat apeqquteqarfiginagit misilinneqartanngillat.</li><li><strong>Angisooq, paasinartoq aalaakkaasorlu.</strong> Allattut assillu angisuut, erseqqissut, aqussutillu inissisimaffimminniit aalajangersimasut.</li><li><strong>Inersimasut ataqqinaatilikkaat.</strong> Silarsuarmit piviusumit assit aammalu oqaatsit paasinartut kissaattullu. Titartakkat meeqqanut naleqquttut, erinarsortutut nersualaarinerit imaluunniit emojinik akissarsiassat atorneqanngillat.</li><li><strong>Ajornaatsumik qimagunneq.</strong> “Maanakkorpiaq naammavoq” takuneqarsinnaajuaannarpoq. Qiteqqussimallugu unitsitsineq pitsaasuuvoq.</li><li><strong>Isumannaatsuutitsineq aallaavigalugu.</strong> Kontorseqanngilaq ussassaaruteqaranilu. Assit toqqakkatit atortunniiginnassapput.</li></ul><h2>Suna neriorsuutiginngilarput</h2><p>Pinnguaativut nuannaarnissamut ataqatigiinnissamullu sammisaapput. Taakkua puigortunngornermik imaluunniit Alzheimerip nappaataanik paasiniaanngillat, misiliinngillat, uuttuussinngillat, katsorsaanngillat, kigaallatsitsinngillat imaluunniit pinngitsoortitsinngillat, taamalu pissuteqarluni kinaluunniit taakkuninnga toqqaasussaanngilaq. Uagut misissuinernik <a href=\"/brain-health/\">qaratsap peqqissusianut quppernerput</a> allakkatsinni, erseqqissumik oqaatigisarparput sumi uppernarsaatit killeqarnersut, pinnguaatitsinnullu atatinnagit.</p><h2>Kinaavugut</h2><p>Golden Moments tassaavoq namminersortut suleqatigiit mikisut. Nakorsaassanngilagut. Ilitsersuutivut kattuffiit soorlu National Institute on Aging aamma Alzheimer’s Association saqqummersitaat tunngavigalugit allataapput, ilitsersuutillu tamarmik suminngaanneernerminik nalunaarsuisarlutik. Atuaruk <a href=\"/editorial-policy/\">qanoq quppernerit allattarlugillu misissortarnerivut</a>.</p><h2>Oqaluttuugut suna iluaqutaasinnaanersoq</h2><p>Suna ilinnut iluaqutaanersoq sunalu iluaqutaannginnersoq tusarfigissallugu kissaatigaarput, ingammik inunnit puigortunngorsimasunit, ilaqutariinnit paarsisunit aammalu sammisassaqartitsisunit. Uunga allagit <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Qanoq quppernerput allattarlugillu misissortarnerivut",
+      "seoTitle": "Aaqqissuisut politikkiat",
+      "description": "Qanoq Golden Moments misissuisarnersoq, allattarnersoq, suminngaanneernerinik nalunaarsuisarnersoq aammalu puigortunngornermi sammisanut qaratsallu peqqissusianut quppernernik nutarterisarnersoq, aammalu suna saqqummersinngisaannassaneripput.",
+      "crumb": "Aaqqissuisut politikkiat",
+      "bodyHtml": "<h2>Najoqqutarisavut</h2><p>Ilitsersuutivut kattuffiit soorlu National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance aamma NHS tamanut ilitsersuutaannik tunngaveqarput, aammalu ilisimatuussutsikkut misissuinernik misileraanernillu soorlu Cochrane reviews-inik tunngaveqarlutik. Ilitsersuutit tamarmik najoqqutarisaminnik allattuisarput. Najoqqutarisaq tamatigut issuannginnerani misissortarparput, taamaallaallu tassani allassimasoq nalunaarutigisarlugu.</p><h2>Qanoq allattarpugut</h2><ul><li>Suliassaq siulliullugu: ullumi suna suliarineqarsinnaava, oqaatsit paasinartut atorlugit.</li><li>Uppernarsaatit pillugit unneqqarilluta: oqartarpugut “atatillugu”, “immaqa” aamma “uppernarsaatit assigiinngissuteqarput”, tamanna ilumoortillugu.</li><li>Ataqqinninneq: inuit puigortunngorsimasut pillugit inersimasutut allattarpugut, apeqqutinillu misiliisunik imaluunniit kanngusutsitsisunik oqaaseqartanngilagut.</li><li>Piviusuunngitsunik akoqanngitsoq: kisitsisit, oqaatigineqartut, ilisimasallit, misissuinerit, naliliinerit imaluunniit oqariartuutit sanilliussat atorneqanngillat.</li></ul><h2>Kina quppernernik misissuisarpa</h2><p>Quppernerit Golden Moments-imi suleqatigiinnit allanneqarlutillu misissorneqarput, misissuinermut allannissamullu AI-mik allannermut atortut ikiorsiullugit. Qupperneq tamatigut najoqqutarisaanut suleqatigiinnit misissorneqartarpoq. Quppernerput nakorsamit imaluunniit allamit peqqissaanermik sulialimmit <strong>misissorneqarsimanngillat</strong>, allatullu oqariartuuteqanngilagut. Paasissutissaapput nalinginnaasut, nakorsap siunnersuutaanatik.</p><h2>Suna saqqummersinngisaannassavarput</h2><ul><li>Oqariartuutit pinnguaatip, nerisassap, tapertat, iisinaveersaarnerup imaluunniit ileqqup puigortunngorneq pinngitsoortikkaa, katsorsaraa, kigaallatsikkaa imaluunniit aaqqikkaa.</li><li>Misiliinerit, apeqqutit imaluunniit pointit inummik puigortunngorsimanerminik, imaluunniit puigortunngorsimannginnerminik tikkuussisut.</li><li>Nakorsaatit aallartinnissaanut, unitsinnissaanut imaluunniit allanngortinnissaanut siunnersuutit.</li><li>Ussassaarutit imaluunniit aningaasaliisunit imaqartut ilitsersuutitut iluseqartillugit.</li></ul><h2>Nutarterinerit iluarsiissutillu</h2><p>Qupperneq tamatigut kingullermik ullulerneqarfini takutittarpaa. Kukkunermik imaluunniit najoqqutamillu pisoqqamik nassaaruit, uunga allagit <a href=\"mailto:{email}\">{email}</a> erngertumillu misissussavarput.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Apeqqutit akissutillu",
+      "seoTitle": "Puigortunngornermi pinnguaatit sammisallu: Apeqqutit akissutillu",
+      "description": "Puigortunngornermi pinnguaatit sammisallu pillugit apeqqutinut nalinginnaasunut akissutit: pinnguaatit suut misilinneqassanersut, qanoq sivisutigisumik pinnguarneqassanersoq, kingusinnerusukkut isumassarsiat, qaratsap peqqissusia aammalu paasissutissanik isumannaatsuutitsineq.",
+      "crumb": "Apeqqutit akissutillu",
+      "lede": "Apeqqutinut paarsisut apeqqutigikulasaannut akissutit naatsut paasinartullu.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Pinnguaatit pillugit",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Pinnguaatit suut inummut puigortunngorsimasumut pitsaanersiuppat?",
+              "a": "Pinnguaatit pitsaanersaat ilisimaneqarluarlutillu, paasinartuupput tatineqarnatillu, eqqortorlu tassaavoq ullumi inuup nuannarisarisaa. Assinik ersittunik tulluarsisineq, immikkoortiterineq, puslit eqaatsut, oqariartaatsinik nalunngisanik naammassinninneq, qalipaaneq assinillu bingorneq amerlasuunut iluaqutaalluarput. Piffissalersuutit, pointit suulluunniit misilitsinnertut misinnartut pinngitsoorneqassapput."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Pinnguaatit ilumut akeqanngillat?",
+              "a": "Aap. Pinnguaatit anillatsitassallu tamarmik akeqanngillat, kontomik pilersitsinani, nalunaarsornani, aallernani ussassaaruteqaraniluunniit."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Sooq pointinik, qaffasissutsinik piffissamilluunniit uuttortaateqanngila?",
+              "a": "Sukkassuseq pointillu sammisamik nuannersumik misilitsinninngortitsisinnaapput, tamannalu kanngusunneqalersitsisinnaavoq imaluunniit pakatsititsisinnaalluni. Nuannaarneq peqatigiinnerlu pingaartippavut, taamaattumik kukkusoqarsinnaanngilaq qaqugukkulluunniit unittoqarsinnaalluni."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Atortut suut atorneqarnissaat pitsaanerpaava?",
+              "a": "Oqarasuaat, tableti qarasaasiarluunniit nutaamik internetimut quppersagaateqartoq (browseri) killeqanngitsumik atorneqarsinnaavoq. Tableti nerrivimmi napparneqarsimasoq inunnut marlunnut sanileriilluni pinnguarnissamut amerlanertigut pitsaanerpaasarpoq. Qarasaasiaq nassartagaq tv-mut atasoq ataatsimoortunut atorneqarluarsinnaavoq."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Ilaqutariit asseqatigiissitsinermut nammineq assitsinnik atuisinnaavugut?",
+              "a": "Aap. Photo pairs-imi assit toqqakkasi marlunniit arfinilinnut asseqatigiissitsinermut atorneqartarput. Assit internetimi quppersakkanniiginnassapput, toqqorneqaratillu nassiunneqassanngillat."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Sammisassat paaqqinninnerlu",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Sammisaq qanoq sivisutigisumik ingerlanneqartassava?",
+              "a": "Amerlanertigut minutsinik 10-20-nik sivisussuseqarnera naammalluarpoq, ilaannilu minutsinik marlunninnguamik ingerlatsineq iluatsilluarnartarpoq. Qasulersimanermut pakatsinermullu malussarniarlutit suli nuannertillugu unitsiguk. Piffissaq eqqortoq aalajangersimasoqanngilaq."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Sammisassaq peqataaffigerusunngippassuk qanoq iliussaagut?",
+              "a": "Naaggaarneq ataqqiguk, kingusinnerusukkulluunniit allatut iliorlutit misileqqillugu. Qasuersaarneq, annernarneq, qularneq imaluunniit soqutiginninnginneq naaggaarnermut pissutaasinnaapput. Naaggaartoqartillugu qanoq iliortoqarsinnaaneranut ilitsersuuterput takuuk."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Puigortunngornerup sakkortunerulernerani sammisassat suut tulluuppat?",
+              "a": "Toqqissisimaneq malugisallu: nipilersukkanik nuannarisamik tusarnaarneq, tanermik assammik tagiartuineq, assit peqatigalugit takusarneri, qipimmik aqitsumik tigumminneq, silami issianeq, imaluunniit saniliani inoqarluni assitalimmik oqitsunnguamik pinnguarneq. Sivisunerusumik puigortunngorsimasunut ilitsersuutitsinni isumassarsiat amerlanerusut takuneqarsinnaapput."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Utoqqaat illuanni ataatsimoortunut sammisassaqarpa?",
+              "a": "Aap. Assitalimmik bingornermi pappialanik anillatsitassanik skærmimilu taasisoqarpoq, oqaaseqatigiinnillu naggasiineq (Finish the saying) aamma oqaloqatigiinnermut kortit nillilluni atuarneqarlutik atorneqarsinnaalluarlutik. Utoqqaat illuanni ataatsimoortunut ilitsersuutitsinni peqataasut amerlassusaat, inissinneqarnerat piginnaasanullu assigiinngitsunut naleqqussaanerit pineqarput."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Qaratsap peqqissusia",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Pinnguaatit puigortunngorneq pinaveersaartissinnaavaat kigaallatsilluguluunniit?",
+              "a": "Pinnguaat ataaserluunniit puigortunngorneq pinaveersaartissinnaagaa uppernarsarneqarnikuunngilaq, pinnguaativullu taama neriorsuinngillat. Inoqatinik peqateqarluni qaratsamik aallussineq ilisimatusarnikkut inunnut suli sakkortuunngitsumik puigortunngortunut iluaqutaalaarsinnaanera takuneqarsinnaasimavoq, kisianni tamanna nappaammik pinaveersaartitsinermit allaaneruvoq. Pinnguaatit nuannaarnissamut attaveqaqatigiinnissamullu neqeroorutigaavut."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Puigortunngorneq pinaveersaartinneqarsinnaava?",
+              "a": "Qulakkeerneqarsinnaanngilaq. Ilisimatusarnermi peqqissutsimut inuunerluunniit qanoq ingerlanneranut tunngasut 14-it puigortunngorsinnaanermut atassuteqartinneqarput, soorlu tusaaniarnerlulerneq, aammik taqamiutit qaffasinnerat, aalavannginneq inoqatillu qanillinaveersaarneri. Taakkununnga iliuuseqarneq inunnut ilaatigut aarlerinartumik annikillisitsisinnaavoq, kisianni inuppassuit eqqortumik iliortuusut aamma puigortunngortarput. Tamanna kiallulluunniit pisuussutiginngisaannarpaa."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Piffissani aalajangersimasuni nerinaveersaarneq qaratsap peqqissusianut iluaqutaava?",
+              "a": "Inunnut tunngatillugu uppernarsaatit killeqarput aallartisarlutillu, misissuisimanerillu amerlanerit uumasunut tunngapput. Nerinaveersaarneq utoqqarnut aarlerinartortaqarsinnaavoq, ingammik sukkornermut nakorsaatit atorneqarpata imaluunniit nammineq piumassuserinngisamik oqilisartoqartillugu, inunnullu puigortunngorsimasunut inassutigineqanngilaq. Nerisaatsit allanngortinnginnerani nakorsaq oqaloqatigiuk."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Inummut paasissutissat isumannaallisaanerlu",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Paasissutissanik katersivisi?",
+              "a": "Kontonik pilersitsisoqanngilaq ussassaaruteqaranilu. Google Analytics atorlugu pulaartut amerlassusaat quppernerillu sorliit iluaqutaanerat malinnaaffigaavut, aamma nipi qitusersoq atorsimanerit browserivit eqqaamasarpaa. Assit Photo pairs-imut toqqakkatit nassiunneqanngisaannarput. Paasissutissat pillugit paasissutissiissummi erseqqinnerusut takukkit."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Una nakorsap siunnersuutaatut ippa?",
+              "a": "Naamik. Golden Moments sunngiffimmi aliikkutassatut nalinginnaasumillu paasissutissiissutitut saqqummiunneqarpoq. Peqqissutsimut tunngasunik apeqqutissaqaruit nakorsaq oqaloqatigiuk, tassanngaannartumillu pisoqartillugu 112-imut sianerit."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Paasissutissat amerlanerusut: <a href=\"/caregiving/how-to-play-together/\">qanoq peqatigiilluni pinnguartoqartarnersoq</a>, <a href=\"/caregiving/when-they-say-no/\">naaggaartoqartillugu</a>, <a href=\"/activities/late-stage/\">puigortunngornerup sakkortunerulernerani sammisassat</a> aamma <a href=\"/brain-health/can-dementia-be-prevented/\">puigortunngorneq pinaveersaartinneqarsinnaava?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Inunnut puigortunngorsimasunut pinnguaatit akeqanngitsut eqqissinartullu",
+      "seoTitle": "Allagartarsuaq anillatsitassaq: Internetimi puigortunngortunut pinnguaatit akeqanngitsut",
+      "description": "Ilaqutariinnut paarsisunullu allagartarsuaq ataatsimik quppernilik anillatsitassaq, inunnut puigortunngorsimasunut assitalinnik pinnguaatit akeqanngitsut eqqissinartullu pillugit, tapersersoqatigiinnut paaqqinninnermilu atugassanut tulluarsagaq.",
+      "crumb": "Allagartarsuaq anillatsitassaq",
+      "lede": "Qupperneq una tapersersoqatigiinnut, paaqqinninnermi atugassanut nillataartitsiviulluunniit matuanut anillatseqquneqarpoq. Qarasaasiap naqiterinermut peqqussutaa (Print) atoruk; quppernerup toortagai menuluilu anillatsitamut ilaanngillat.",
+      "introHtml": "<p>Assit angisuut, oqaatsit paasiuminartut kukkusoqarsinnaananilu. Oqarasuaammi, tabletimi qarasaasiamiluunniit akeqanngilaq, nalunaarsorani, ussassaaruteqaratik, piffissamillu uuttortaateqaratik pointitaqaratillu. Sanileriillusi issiavusi paarisaattarlusilu.</p>",
+      "gamesTitle": "Pinnguaatit peqatigiilluni misilinneqarsinnaasut",
+      "restHtml": "<h2>Siunnersuutit marlussuit</h2><ul><li>Ullup ingerlanerani inuup nukissaqarfiginerpaasaani piffissaq toqqaruk.</li><li>Ajornaannerpaamik aallartigit. Qallunaarsaatit sisamat naammalluarput.</li><li>Assit oqaluuserikkit. Oqaloqatigiinneq amerlanertigut pitsaanerpaasarpoq.</li><li>Suli nuannertillugu unitsiguk. Siusinaarluni unillatsiarneq angusalluataavoq.</li></ul><h2>Aamma nittartakkami</h2><ul><li>Akeqanngitsumik anillatsitassat: oqaatsinik ujaasineq naqinnernik angisuunik, qalipagassat, oqaloqatigiinnermut kortit assitalillu bingo.</li><li>Killiffinni tamani sammisassanut isumassarsiat, aamma peqatigiilluni pinnguarnissamut imminullu isumaginissamut ilitsersuutit.</li></ul><p class=\"muted\">Nuannaarnissamut peqatigiinnissamullu tulluarsagaavoq. Nakorsamit siunnersuutaanngilaq, misilitsinniaanngilaq katsorsaanerunaranilu. Golden Moments Cloudjet Solutions Pte. Ltd.-mit saqqummersinneqarpoq.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Utoqqaat illuinut, Atuagaateqarfinnut Tapersersoqatigiinnullu",
+      "seoTitle": "Paaqqinnittarfinnut ataatsimoorfinnullu puigortunngortunut akeqanngitsumik sammisassat",
+      "description": "Utoqqaat illuisa, ulluunerani sammisassaqartitsisarfiit, atuakkanik atorniartarfiit, utoqqarnut immikkoortortaqarfiit tapersersoqatigiillu puigortunngortunut pinnguaatitsinnik akeqanngitsunik qanoq atuisinnaanerat, aammalu najoqqutassanut allattorsimaffimmut ilanngussinissamut oqaasertat.",
+      "crumb": "Suliffeqarfinnut peqatigiiffinnullu",
+      "lede": "Nittartakkami matumani sunaluunniit najugaqartunut, ilaasortanut sullitanullu atorneqarsinnaavoq akeqanngitsumik, isissutissamik pilersitsinertaqanngilaq, akuersissuteqartariaqanngilaq akiliisitsisoqaranilu. Quppernermi matumani nassuiarneqarpoq suna maani pineqarsinnaanersoq qanorlu ingerlateqqinneqarsinnaanersoq.",
+      "shortText": "{name}: inunnut puigortunngortunut paaqqinnittunullu assitalinnik pinnguaatit qajannaatsut sammisassanullu ilitsersuutit akeqanngitsut. Nalunaarsortariaqanngilaq, piffissamik killilersuisoqaraniluunniit point-iliisoqarneq ajorpoq.",
+      "longText": "{name}-p ({domain}) inunnut puigortunngortunut qarasaasiami atorneqarsinnaasunik akeqanngitsunik {count}-nik pinnguaateqarpoq, ilaatigut makitsisitsilluni assiliartanik tulluartunik nassaarniarnerit assit saqqummiutiinnarlugit, puzleq ajornanngitsoq, immikkoortiterinerit, oqariartaatsit ilisarisimasat assilissallu atorlugit bingo anillatsinneqarsinnaasunik pappialartalik. Isissutissamik pilersitsinertaqanngilaq, ussassaaruteqanngilaq, piffissamilluunniit killilersuisoqarani point-iliisoqarneq ajorluni. Aammattaaq nittartakkami puigortunngornerup immikkoortuinut tamanut sammisassanut ilitsersuutit paasiuminartumik allatat nassaassaapput, National Institute on Aging aamma Alzheimer's Association najoqqutaralugit.",
+      "useTitle": "Suliffeqarfiit peqatigiiffiillu atorsinnaasaat",
+      "gamesItemHtml": "<strong>Browserikkut pinnguaatit {count}</strong> qarasaasiami nassatarineqarsinnaasumi, tabletimi imaluunniit qarasaasiamut attavilikkami fjernsynimi ingerlanneqarsinnaasut. Ikkussinertaqanngillat, isissutissamik pisariaqartitsinatik aatsitsisariaqaratillu. Takuuk <a href=\"/games/\">pinnguaatit tamaasa</a>.",
+      "printablesLabel": "Naqitigassat {count}:",
+      "printablesAfter": "Quppernermi pineqartumi toorneq Naqiguk atoruk.",
+      "moreItemsHtml": "<li><strong>Ataatsimoorluni sammisassat:</strong> <a href=\"/games/picture-bingo/\">Assiliartalerlugu bingomi</a> pappialat anillatsitassat saqqummersitsissullu qarasaasiap saaniittoq pigineqarput, aammalu <a href=\"/activities/trivia/\">ajornanngitsumik eqquiniaatitsinermi</a> apeqqutit 50-it akissutissanik toqqagassartallit oqaloqatigiissutigineqarsinnaasullu ilaallutik.</li><li><strong>Sammisassanut ilitsersuutit</strong> sulisunut ilaqutariinnullu, killiffiit suussuserlu naapertorlugit, paasiuminartumik najoqqutallillu allatat. Aallarniutigisinnaavatit <a href=\"/activities/ideas/\">sammisassanut siunnersuutit 101-it</a> imaluunniit <a href=\"/activities/care-home-groups/\">utoqqaat illuini eqimattanut sammisassat</a>.</li>",
+      "restHtml": "<h2>Ataatsimoorfinnit qanoq atorneqartarpa</h2><ul><li><strong>Utoqqaat illui puigortunngorsimasunullu immikkoortortaqarfiit:</strong> inimi ataatsimoorfiusumi fjernsynikkut assiliartalimmik bingorneq imaluunniit oqariartaatsimik naammassinninneq, ataatsip ataatsimoortunut toortaaffigisaanik.</li><li><strong>Inersimasunut ulluunerani sammisassaqartitsisarfiit:</strong> tablet-eqarfik Assit nassaariniakkat sisamanik qallersuusertalimmik aaqqissugaq, marluulluni sivikitsumik sammisassatut.</li><li><strong>Atuakkanik atorniartarfiit tamanit orninneqartartut:</strong> oqaatsinik ujaasinerit naqitat oqaloqatigiinnissamullu kortit eqqaamasassanut poortukkaniittut, nittartagarlu atuakkanik atorniartarfiup tablet-iini toqqorneqarsimasoq.</li><li><strong>Paaqqinnittunut tapersersoqatigiit eqqaamanninniartarfimmilu kaffisortarfiit:</strong> <a href=\"/handout/\">qupperneq ataaseq anillatsitassaq</a> ilaqutariit angerlaattagaat.</li><li><strong>Napparsimmaviit anisitsinermilu pilersaarusiorfiit:</strong> paaqqinnittut poortugaanni allagartaq, angerlarsimaffimmi imaluunniit siniffiup eqqaani eqqissilluni sammisassaqqissutut.</li></ul><h2>Suna iliuuserinngilarput</h2><p>Pinnguaatit nuannaarnissamut ataatsimoorfeqarnissamullu atorneqartussaapput. Puigortunngorneq suussusersinngilaat, misilinneq ajorpaat, nalilersuineq ajorpaat, katsorsaanatillu kigaallatsitsinngillat, suliffeqarfiillu qinnuigissavavut taamatut nassuiartanngilluinnaraat. Ussassaaruteqanngilaq, pinnguaatinilu aqqit, peqqissutsimut paasissutissat imaluunniit assit qummut nuunneqarnissaat qinnutigineqarneq ajorpoq. Nittartakkap takusarneqarnerit kisitsisitalerniarlugit Google Analytics atorpaa; uagutta <a href=\"/privacy/\">paasissutissanik illersuineq pillugu nalunaarutitsinni</a> nassuiarneqarpoq sumik katersisoqartarnersoq. Assit <a href=\"/games/photo-pairs/\">Assinik nassaariniakkani</a> atorneqartut qarasaasiap atuaataani uninngatiinnarneqartarput.</p><h2>Paaqqinnittunut najoqqutassat allattorsimaffiannut uagutsinnik ilanngussigit</h2><p>Paaqqinnittunut najoqqutassat allattorsimaffiannik peqarussi, <a href=\"/\">{domain}</a>-mut innersuussinissarsi tikilluaqqunarpoq. Nassuiaatit arlaat kopeersinnaavarsi.</p>",
+      "shortTitle": "Nassuiaat naatsoq",
+      "longTitle": "Nassuiaat takinerusoq",
+      "linksHtml": "<p>Quppernerit toqqaannartumik innersuussiffigissallugit iluaqutaasut: <a href=\"/games/\">pinnguaatit akeqanngitsut</a>, <a href=\"/activities/printable/\">naqitigassat akeqanngitsut</a>, <a href=\"/activities/alzheimers/\">Alzheimerimik nappaatilinnut sammisassat</a> aammalu <a href=\"/caregiving/how-to-play-together/\">qanoq ataatsimoorluni pinnguartoqartarnersoq</a>.</p><h2>Apeqqutit aaqqiissutissalluunniit</h2><p>Nittartakkami suna tamarmi kukkusimappat paasinarpallaanngippalluunniit, imaluunniit maaniittut najugaqartup pisariaqartitaanik naammasinninngippata, ugguuna nalunaarfigitsigut: <a href=\"mailto:{email}\">{email}</a>. Najugaqartut sullitalluunniit pillugit inummut namminermut imaluunniit peqqissutsimut tunngasunik nassiussinaveersaassaasi.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments Appi",
+      "seoTitle": "iPhone-mut Android-imullu Golden Moments Appi",
+      "description": "Golden Moments appi akeqanngitsoq: assinik eqquiniut qajannaatsoq angisuunik sisamanik qallersuutilik, ilaqutariit assingi atortorissaarutissinniitinneqartut, interneteqanngikkaluarluni assit poortukkat isissutissamillu pilersitsinertaqanngitsoq.",
+      "crumb": "Appi",
+      "lede": "Nittartakkami nuannarisatit tamaasa appimi interneteqarani atorneqarsinnaasumi ilaqutariillu assingi nammineq toqqakkatit atorlugit atorsinnaavatit.",
+      "worksOn": "Ukunani atorneqarsinnaavoq {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Mikiinnarmit aallarit</h2><p>Allagartat angisuut sisamat assillu ilisarisimasat aallarniutigikkit. Assit ersiinnartikkit, imaluunniit tulluussorigukku toqqorlugit. Eqqissisimasumik pinnguarnermi piffissamik uuttortaateqanngilaq, pointinik kisinneqanngilaq imaluunniit ajorsartoqarsinnaanani. Allagartat 4, 6, 8 imaluunniit 12 toqqakkit.</p><h2>Nammineq pigisannik akoqartiguk</h2><p>Atortorissappit assiisivianit ilaquttat assingi toqqakkit. Appip assit mikinerusutut nuunneqarneri sammisassani atugassatut toqqortarpai. Assiisivinnik misissuisanngilaq assilluunniit aallaqqaataasut allanngortinnagit, ataatsimullu katersani 24-t tikillugit toqqorsinnaallugit.</p><h2>Ataatsimut isiginnaariinnaritsi</h2><p>Assi ataaseq ataatsikkut qissimeruk. Oqaloqatigiinnissamut siunnersuutit nammineq toqqarneqarsinnaasut oqaloqatigiinnermik pilersitsipput, aqqinik eqqaamasassartaqanngitsumik eqqortumilluunniit akisassartaqanngitsumik. Isiginnaariinnarneq naammatpoq.</p><h2>Internetteqanngikkaluarluni atorneqarsinnaasoq</h2><p>Assit aallarniutit assillu poortat arfineq-pingasut tamarmik appimi ilaareerput. Assit nuunneqarsimasut internetteqarnani atorneqarsinnaapput. Assit aallaqqaataasut taamaallaat iCloudimi toqqorsimasut toqqaraanni internetteqarnissaq pisariaqarsinnaavoq.</p><h2>Kontoqanngilaq, assillu ingerlateqqinneqartarfeqaratik</h2><p>Ilaquttat assingi nuunneqarsimasut atortorissami appimiipput. Assit nuussat peerneqarsinnaapput assit aallaqqaataasut piiarnagit. Atortorissap paasissutissaatai toqqorneqartut appip paasissutissaataanik ilaqarsinnaapput. Atuaruk <a href=\"/app-privacy/\">appip paasissutissanik illersuinermut malittarisassai</a>, aammalu <a href=\"/help/\">appimi ikiuutit</a> alloriarnermi ataasiakkaani ilitsersuusiivoq.</p>",
+      "disclaimer": "Golden Moments aliikkutassatut ataatsimullu oqaloqatigiissutissatut suliarineqarpoq. Puigortunngornermik imaluunniit Alzheimerip nappaataanik paasiniaanermut, katsorsaanermut, pinaveersaartitsinermut uuttortaanermulluunniit atorneqarsinnaanngilaq.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Puigortunngorsimasunut Alzheimerimilluunniit eqqugaasimasunut qarasaasiakkut pinnguaatit akeqanngitsut",
+    "description": "Inersimasunut utoqqasaanut puigortunngorsimasunut Alzheimerimilluunniit eqqugaasimasunut qarasaasiakkut pinnguaatit akeqanngitsut: assit nassaarineqartarneri, puslit pisariitsut, immikkoortiterineq, oqaaseqatigiit, qalipaaneq, bingo. Nalunaarnissaq, piffissamik uuttortaatit pointillu pisariaqanngillat.",
+    "crumb": "Pinnguaatit",
+    "h1": "Inunnut puigortunngorsimasunut pinnguaatit eqqissisimasut",
+    "lede": "Ataatsimoorluni qarasaasiap quppernerani pinnguarneqarsinnaasut {count}-t akeqanngitsut. Assit angisuut, oqaatsit paasiuminartut, kukkusoorfissartaqaranilu: piffissamik uuttortaateqanngilaq, pointitaqanngilaq, nalunaarnissaqanngilaq.",
+    "listName": "Inunnut puigortunngorsimasunut pinnguaatit eqqissisimasut",
+    "byStageTitle": "Inissisimaffik malillugu pinnguaammik toqqaaneq",
+    "byStageLede": "Inissisimaffiit taamaallaat siunnersuutaannaapput. Inummut nuannersoq ullumilu tulluarluartoq maliguk.",
+    "stageCol": "Inissisimaffik",
+    "gamesCol": "Pinnguaatit tulluartuusartut",
+    "moreHtml": "Skærmi qimallugu isumassarsiat allat: <a href=\"/activities/ideas/\">inunnut puigortunngorsimasunut sammisassat 101-t</a>, <a href=\"/activities/alzheimers/\">Alzheimerimik eqqugaasimasunut sammisassat pinnguaatillu</a>, <a href=\"/activities/memory-games/\">eqqaamasaqarniarnermut pinnguaatit eqqissisimasut</a> aammalu <a href=\"/activities/puzzles/\">puslit eqqarsaatigillagassallu</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Pinnguaat sorleq aallarniutigissavarput?",
+        "a": "Assinik aappariilersuineq allagartanik sisamanik atuisoq siullertut eqqissisimasumik toqqagassaavoq. Assit akornanni toqqaaniarneq ulappunnarpallaarpat, assit marluk atorlugit assinganik nassaarniarneq misiguk. Katersuussimasunut assit atorlugit bingo misiguk."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Pinnguaatit iPadimi oqarasuaammiluunniit atorneqarsinnaappat?",
+        "a": "Aap. Pinnguaatit tamarmik oqarasuaatit, tabletit qarasaasiillu browseriini atorneqarsinnaapput, assillu annerulerlutik skærmi tamakkerpaat. Tableti toqqaviligaq inunnut marlunnut tulluarluarnerusarpoq."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Pinnguaatit taakkua inummut Alzheimerimik eqqugaasimasumut tulluarpat?",
+        "a": "Aap. Inunnut puigortunngorsimasunut tulluarsagaapput, aammalu Alzheimerimut, nalinginnaanerpaasumut. Assit ersiinnarput, toqqagassat ikittuinnaapput, piffissarlu kisinneqanngilaq pointitaqaranilu, taamaattumik pinnguaatit nutaanik eqqaamasaqarniarneq pinnagu ilisarisimasanik ilisarinninnermik tunngaveqarput."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Taakkua utoqqasaanut eqqaamasaqarniarnermut pinnguaataappat?",
+        "a": "Assigiissitsiniarluni assinillu pinnguaataapput inersimasut utoqqasaat kikkulluunniit nuannaarutigisinnaasaat, kisianni eqqaamasaqassutsimik misilinnginnissaat siunertaralugu suliarineqarput: assinik aappariilersuinermi assit saqqumiinnarput allatut toqqaanngikkaanni. Utoqqasaanut puigortunngorsimasunut eqqaamasaqarniarnermut ilitsersuutitta nassuiarpaa qanoq eqqaamasaqarniarnermut pinnguaatit suulluunniit eqqissisimasuutinneqarsinnaanersut."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Utoqqaat illuanni katersuussimasunut pinnguaateqarpa?",
+        "a": "Aap. Assit atorlugit bingomi pladit naqitassat skærmimilu taasisartoq ilaapput, aammalu oqaaseqatigiinnik naammassinninneq oqaloqatigiinnissamullu kortit katersuussimasunut tusaatillugit atuarneqarnerminni tulluarluarput."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad aamma Android",
+    "requirements": "iOS 15 kingusinnerusorluunniit; Android 7.0 kingusinnerusorluunniit",
+    "summary": "iPhone, iPad aamma Androidimut appi akeqanngitsoq, allagartanik angisuunik sisamanit aqqaneq-marlunnut assinik aappariilersitsinermik eqqissisimasumik imalik, ilaquttat assingi nammineq toqqakkat atorlugit aappariilersitsiviusinnaasoq isiginnaarneqarsinnaasorlu, aammalu assit poortat arfineq-pingasut ilanngunneqarsimasut internetteqarnani atorneqarsinnaallutik. Kontoqanngilaq, ussassaaruteqanngilaq, piffissamilluunniit uuttortaateqarnani pointitaqaranilu.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Allagartat angisuut 4, 6, 8 imaluunniit 12 atorlugit assinik aappariilersitsineq eqqissisimasoq; assit saqqumiinnarput toqqornissaat toqqanngikkaanni",
+      "Ilaquttat assingi toqqakkatit aappariilersitsinermut ataatsimullu isiginnaarnermut appimut nuunneqartarput",
+      "Ataatsimut isiginnaarneq: assi ataaseq ataatsikkut oqaloqatigiinnissamullu siunnersuutit toqqarneqarsinnaasut",
+      "Assit poortat arfineq-pingasut appimi ilaareerput; internetteqarnani atorneqarsinnaallutik",
+      "Kontoqanngilaq, ussassaaruteqanngilaq, appimi pisiassaqanngilaq, piffissamik uuttortaateqanngilaq, pointitaqanngilaq imaluunniit ajorsartoqarsinnaanani"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Inunnut puigortunngorsimasunut sammisassanik appeqarpa?",
+        "a": "Aap. Golden Moments (taaguuteqartoq \"{storeName}\") App Storemi Google Playmilu akeqanngilaq. Allagartat angisuut atorlugit assinik aappariilersitsinermik eqqissisimasumik, ilaquttat assingi toqqakkatit atorlugit pinnguaatinik, assillu poortaanik internetteqarnani atorneqarsinnaasunik neqerooruteqarpoq."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Golden Moments appi akeqanngila?",
+        "a": "Aap. Aatsitsineq akeqanngilaq, ussassaaruteqanngilaq, kontoqartariaqanngilaq appimiluunniit pisiassaqarnani."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Appi internetteqanngikkaluarluni atorneqarsinnaava?",
+        "a": "Aap. Assit aallarniutit assillu poortat arfineq-pingasut tamarmik appimi ilaareerput, ilaquttallu assingi appimut nuunneqareeraangata internetteqarnani atorneqarsinnaapput. Assi taamaallaat iCloudimi toqqorsimasoq toqqaraanni internetteqarnissaq pisariaqarsinnaavoq."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Nammineq ilaquttatta assingi atorsinnaavavut?",
+        "a": "Aap. Assit atortorissavit assiisivianit toqqakkit. Appip sammisaqartitsinermini assit mikinerusut atortorissamut toqqortarai, aallartinneq ajorpai aammalu assit aallaqqaammut pigineqartut allanngortinneq ajorpai. Assit toqqortaatit qaqugukkulluunniit piiarsinnaavatit."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Qaratsamik sungiusaanermut imaluunniit eqqaamasinnaassutsimik misissuinermut app-iuva?",
+        "a": "Naamik. Golden Moments nuannisaarnissamut peqatigiinnissamullu atugassaavoq. Pointiliineq ajorpoq misilitsissutinillu imaqarani, aammalu puigortunngornermik imaluunniit Alzheimerip nappaataanik suussusersiineq ajorpoq, katsorsaaneq ajorpoq, pinaveersaartitsineq ajorpoq uuttuineq ajorluniluunniit."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Atortorissani sorlerni atorneqarsinnaava?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Pinnguamut uunnga app-itaqarpa?",
+      "a": "Aap. Akeqanngitsumik Golden Moments app-i iPhone-mut, iPad-imut Android-imullu pigineqartoq taamatulli eqqissisimasumik assilisartunik pinnguaataavoq, ilaqutariit assinginik toqqakkanik atuisinnaavoq aammalu interneteqanngikkaluarluni atorneqarsinnaalluni. Kontomik pilersitsinissaq, ussassaarutit pointillu amigaatiginngilai."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Pinnguamut uunnga app-itaqarpa?",
+      "a": "Pinnguamut uunnga naamik. Golden Moments akeqanngitsoq iPhone-mut, iPad-imut Android-imullu pigineqartoq eqqissisimasumik assilisartunik angisuunik ilaqutariillu assinginik toqqakkanik pinnguaataavoq, interneteqanngikkaluarlunilu atorneqarsinnaalluni. Pinnguaq una maani nittartakkanni akeqanngitsuussaaq."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: assit angisuut toqqissisimanartullu",
+    "noscript": "Pinnguup uuma atorneqarnissaanut nittartakkami JavaScript-ip ammasuunissaa pisariaqarpoq. Siunnersuutit ataaniittut taanna pinnagu aamma atorneqarsinnaapput.",
+    "about": "{name} pillugu",
+    "aboutAria": "Pinnguaq una pillugu",
+    "noTimer": "Piffissamut killiliussaqaranilu pointitaqanngilaq",
+    "printable": "Anillatsinneqarsinnaasoq",
+    "howTo": "{name} qanoq pinnguarneqartartoq",
+    "tips": "Peqatigiilluni pinnguarnissamut siunnersuutit",
+    "newToPlayingHtml": "Inummik puigortunngorsimasumik pinnguaqateqarnermik aallarteqqaarpit? Atuakkit <a href=\"/caregiving/how-to-play-together/\">peqatigiilluni qanoq pinnguartoqartarnersoq</a>, aammalu soqutiginnikkunnaarpat qanoq iliortoqarsinnaanersoq.",
+    "moreAria": "Allanik paasisaqarfissat",
+    "helpfulGuides": "Ilitsersuutit iluaqutaasut",
+    "appTitle": "App-ikkut pinnguaruk",
+    "appText": "Akeqanngitsumik Golden Moments app-i eqqissisimasumik assilisartunik angisuunik ilaqutariillu assinginik toqqakkanik pinnguaataavoq, Wi‑Fi-qanngikkaluarlunilu atorneqarsinnaalluni. iPhone, iPad aamma Android.",
+    "photoAppTitle": "Assitit piareersimatikkit",
+    "photoAppText": "Akeqanngitsumi Golden Moments app-imi, assit toqqakkatit tullissaanut atugassatut atortorissanniitiinnarneqartarput, pinnguaatillu Wi‑Fi-qanngikkaluarluni atorneqarsinnaallutik. iPhone, iPad aamma Android.",
+    "goodToKnow": "Ilisimasassat pitsaasut",
+    "goodToKnowText": "Pinnguaq una nuannisaarnissamut peqatigiinnissamullu atugassaavoq. Sunilluunniit misilitsissutaanngilaq, uuttuutaassanngilaq katsorsaataanaraniluunniit.",
+    "moreGames": "Pinnguaatit allat eqqissisimanartut",
+    "crumb": "Pinnguaatit"
   }
 }
