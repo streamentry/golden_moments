@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "डिमेंशिया वाला व्यक्ति संगे खेल कइसे खेलीं"
+description: "डिमेंशिया के साथ जीयत लोगन संगे खेल खेलल के व्यावहारिक गाइड: तइयारी, रफ्तार, गलती पर ना टोकल, खेल आसान बनावल आ कब रुकल ठीक बा, एह सब के बारे में।"
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  खेल के इम्तिहान ना, साथ बितावल समय मानीं। दिन के कवनो शांत समय चुनीं, शांत
+  कमरा में बगल-बगल बइठीं, आ एक आसान खेल सुझाईं। जेकर देखभाल रउआ करत बानी उनकर
+  रफ्तार उनही के तय करे दीं, हानिरहित गलती पर ना टोकीं, तनाव के पहिला संकेत पर
+  खेल आसान कर दीं, आ तस्वीर से बातचीत शुरू करीं। जब तक मन ठीक लागे तब तक रुकीं।
+  जल्दी रुक जाइल, या बस साथ बइठल भी, एगो बढ़िया नतीजा बा।
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "मकसद मन बहलावे आ साथ के बा, खेल खतम करे या सही जवाब देबे के ना।"
+  - "पहिले तइयारी: शांत कमरा, ठीक रोशनी, चश्मा आ सुनने वाली मशीन लगल, टीवी बंद, एक खेल तइयार।"
+  - "हानिरहित गलती पर ना टोकीं। कहीं, \"चलीं, एहिजा अइसे करत बानी\" या बस आगे बढ़ जाईं।"
+  - "निराशा बढ़े से पहिले खेल आसान कर दीं: कम तस्वीर, कम विकल्प, तस्वीर देखत रहे दीं।"
+  - "तस्वीर के बात शुरू करे खातिर इस्तेमाल करीं, \"तनी बताईं...\" कहीं, \"का इयाद बा?\" ना।"
+  - "थकान या परेशानी के पहिला संकेत पर रुक जाईं। जल्दी रुकल भी सफलता ह, असफलता ना।"
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "खेल केतना देर चलावे के चाहीं?"
+    a: "कवनो सही लंबाई नइखे। बहुत लोग खातिर कुछ मिनट काफी होला, आ कुछ दिन एगो दौर भी बहुत बा। घड़ी ना, उनका के देखीं, आ जब तक उ आराम में लागत बाड़न तब तक रुकीं।"
+  - q: "उनके जितल दीं या गलती देखला के बहाना करीं?"
+    a: "साझा, बिना दबाव वाला खेल में कुछ जीते-हारे के ना होखे। अगर गलती से उनका कवनो फरक ना पड़त, त जाए दीं। अगर उनका परेशानी होत बा, त चुपचाप मदद करीं या खेल आसान कर दीं, गलती के ओर इशारा मत करीं।"
+  - q: "अगर उ हमरा के खेलत देखल चाहत होखस त?"
+    a: "ठीक बा। National Institute on Aging सुझावे ला कि अगर उनका देखे में आनंद मिलत होखे, त बस देखे दीं। जे देखत बानी ओकरा के बात करीं आ जब मन करे तब इशारा करे या चुने खातिर कहीं।"
+  - q: "का ई खेल याददाश्त के जांच ह?"
+    a: "ना। हमरा खेल साधारण साझा गतिविधि हवें, मन बहलावे आ बातचीत खातिर। ई याददाश्त के जांच ना हवें, कवनो चीज ना नापेलें, आ डिमेंशिया के इलाज ना हवें।"
+  - q: "शुरू करे खातिर कवन खेल सबसे बढ़िया बा?"
+    a: "जवन खेल व्यक्ति के हिसाब से सबसे आसान होखे, ओही से शुरू करीं। चार टाइल वाला Picture Pairs, जहां तस्वीर देखत रहल जाला, या दू विकल्प वाला Find the Same, दुनो नरम शुरुआत हवें। अगर उनका टैप करे से ज्यादा बात करे में मन लागेला, त Conversation Cards बढ़िया बा।"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+डिमेंशिया वाला व्यक्ति संगे बढ़िया खेल इम्तिहान जइसन ना लागेला। ई दू गो लोग के नजदीक बइठल, तस्वीर पर इशारा करल, कवनो कहावत पर हँसल, आ जवन बात उठे ओ पर गप्प कइल लागेला। खेल त बस साथ समय बितावे के बहाना ह।
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+ए गाइड में बतावल गइल बा कि तइयारी कइसे करीं, खेल के रफ्तार कइसे रखीं, "गलत" होखला पर का कहीं, कवनो खेल आसान या थोड़ा कठिन कइसे बनाईं, ओके बातचीत में कइसे बदलीं, आ कब रुके के बा। ई हमरा [खेल](/games/) खातिर भी बा, आ ओह कार्ड, पहेली आ बोर्ड गेम खातिर भी जवन रउआ पहिलहीं से बा।
 
-## What is the best way to play a game with someone who has dementia?
+## डिमेंशिया वाला व्यक्ति संगे खेल खेले के सबसे बढ़िया तरीका का ह?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+जीत पर ना, मन बहलावे पर ध्यान दीं। [Alzheimer's Association के गतिविधि मार्गदर्शन](https://www.alz.org/help-support/caregiving/daily-care/activities) के इहे मूल सलाह बा: उनका लगे जवन हुनर अभियो बा ओकरा पर काम करीं, शुरू करे में मदद करीं, मुश्किल हिस्सा खुद पूरा करीं, आ हानिरहित गतिविधि पर ना टोकीं या ना आलोचना करीं।
 
-In practice that means:
+व्यवहार में इसका मतलब बा:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **सामने ना, बगल में बइठीं।** बगल में बइठला से दुनो जने स्क्रीन या मेज देख सकेनी, आ मदद करल सहयोग जइसन लागेला, निगरानी जइसन ना।
+- **एक बेरा में एक खेल दीं।** बहुत विकल्प देखला से शुरुआत से पहिले ही इम्तिहान जइसन लागेला।
+- **उनका पीछे चलीं।** अगर उ तस्वीर अपना मन से क्रम में टैप करे चाहत बाड़न, एगो तस्वीर पर दस मिनट बात करे चाहत बाड़न, या दू बारी के बाद रुके चाहत बाड़न, त आज के खेल उहे ह।
+- **गिनीं अच्छा पल, पूरा भइल दौर ना।** मुस्कान, कवनो कहानी या शांत आधा घंटा, इहे नतीजा ह जवना के खोजत बानी।
 
-## How do I set up before we start?
+## शुरू करे से पहिले तइयारी कइसे करीं?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+कुछ मिनट के तइयारी से ज्यादातर परेशानी रुक जाला, जवना के लोग अक्सर खेल पर दोष देवेला।
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **उनकर सबसे बढ़िया समय चुनीं।** [National Institute on Aging (NIA) के गतिविधि मार्गदर्शन](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) सुझावे ला कि बाहर जाए या गतिविधि के समय उहे चुनीं जब व्यक्ति सबसे ठीक रहेलन। बहुत लोग खातिर ई दिन के बीच के समय होला। दुपहरिया के बाद अक्सर मुश्किल होला; देखीं [शाम के शांत गतिविधि](/caregiving/late-day-restlessness/)।
+2. **कमरा शांत राखीं।** अगर हो सके त टीवी आ रेडियो बंद कर दीं आ दरवाजा बंद कर दीं। [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) बात शुरू करे से पहिले शोर आ ध्यान भटकावे वाली चीज कम करे के सलाह देला।
+3. **आराम पहिले जांच लीं।** पास में पानी हो, पहिलहीं शौचालय हो आइल होखे, आरामदायक कुर्सी हो, आ चश्मा आ सुनने वाली मशीन लागल होखे।
+4. **जगह के ठीक से रोशनी दीं।** साफ, एक समान रोशनी, जवना से स्क्रीन पर चमक ना होखे, तस्वीर देखल आसान बनावेला।
+5. **बइठे से पहिले खेल तइयार कर लीं।** खोलीं, सेटिंग चुनीं, आवाज खुद ठीक कर लीं। फेर स्क्रीन उनका ओर घुमा दीं। टैबलेट के टिप खातिर देखीं [टैबलेट या फोन सेट करल](/caregiving/tablets-and-screens/)।
+6. **यंत्र टिका दीं।** स्टैंड या केस जवना में टैबलेट सीधा खड़ा रहे, त केहु के पकड़े के ना पड़ी, आ इशारा करल आसान रही।
 
-## How do I invite them without pressure?
+## दबाव दिहले बिना उनका के कइसे बोलाईं?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+बोलावे के अंदाज आसान आ मना करे लायक राखीं। कुछ बात जवन अक्सर ठीक लागेला:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "हमरा बगइचा के कुछ तस्वीर मिलल बा। हमरा संगे देखब?"
+- "ई पहेली में हमरा मदद करब? हम अटक गइल बानी।"
+- "आज फूल चाहत बानी कि चिरई? " (दू में से चुनल सवाल, खुला सवाल से आसान होला)
+- "रउआ बहिन खातिर एगो कार्ड बनावत बानी। ई कवन रंग होखे?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association सुझावे ला कि गतिविधि के मकसद बतावल जाव, जइसे कवनो दोस्त खातिर कार्ड बनावल, काहे कि कारण से ओकर मतलब बनेला। मदद मांगल भी काम करेला, काहे कि एमे व्यक्ति के लागेला कि उ कामके बा।
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+अगर उ ना कहस, त मान लीं। बाद में फेर कोशिश करीं या कुछ अलग दीं। हमार गाइड [जब उ ना कहस तब का करीं](/caregiving/when-they-say-no/) में आउर बात बा।
 
-## How long should a game last, and how fast should we go?
+## खेल केतना देर चलावे के चाहीं, आ रफ्तार कतना तेज होखे?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+रफ्तार उनही के तय करे दीं, आ छोट सत्र के योजना बनाईं। साझा खेल खातिर कवनो पक्का सबूत-आधारित सही लंबाई नइखे। दू से पांच शांत मिनट भी पूरा गतिविधि हो सकेला।
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **जेतना स्वाभाविक लागे ओसे थोड़ा ज्यादा इंतजार करीं।** NIA सुझावे ला कि जवाब दे खातिर ज्यादा समय दीं आ बीच में टोके से बचीं। मदद करे से पहिले मन में दस गिनीं।
+- **एक बेरा में एक कदम।** एगो छोट निर्देश दीं ("एगो तस्वीर टैप करीं"), फेर रुकीं। समझावे के बजाय देखाईं: जहां टैप करे के बा उहां इशारा करीं।
+- **जब मन करे तब रुकीं।** अगर उ कवनो तस्वीर पर बात करे खातिर रुक जासु, त खेल रुक सकेला। हड़बड़ी के जरूरत नइखे।
+- **देखे दीं।** NIA बतावेला कि कुछ लोग देखे पसंद करेलन, आ उ एगो सही चुनाव ह।
 
-## Should I correct wrong answers?
+## गलत जवाब पर टोकीं का?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+ना। बेर-बेर धीरे से टोकला से लागेला कि उ फेल हो गइल बाड़न, भले रउआ नीक नियत से करत होखीं। Alzheimer's Association सलाह देला कि हानिरहित गतिविधि पर ना टोकीं आ ना आलोचना करीं। खेल में लगभग हर गलती हानिरहित होखेला।
 
-| Instead of | Try |
+| इ मत कहीं | इ कहल बढ़िया बा |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "ना, ई गलत बा।" | "चलीं, एहिजा अइसे करत बानी।" (NIA के देहल उदाहरण) |
+| "ई मिलान नइखे। फेर से देखीं।" | कुछ मत कहीं, अगिला बारी लीं, या "अरे, ई दुनो लाल बा।" |
+| "इयाद बा ई के ह?" | "ए तस्वीर के बारे में तनी बताईं।" |
+| "ई त पहिलहीं कर चुकल बानी।" | "ई बढ़िया रहल। आवा फेर से करत बानी।" |
+| "अरे, रउआ त ई जानत बानी।" | "देखाईं अंत कइसे होई?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+अगर कवनो गलती से उ साफ परेशान होखस, त चुपचाप मदद करीं। सही तस्वीर पर इशारा करीं, खुद बारी लीं, या अगिला दौर में खेल आसान कर दीं। अगर कवनो कहावत के अंत मजेदार गलत हो जाव, त संगे हँसीं। उनकर अंत शायद अउर बढ़िया होखे।
 
-## How do I make a game easier or harder?
+## खेल आसान या थोड़ा कठिन कइसे बनाईं?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+खेल के व्यक्ति के आज के हिसाब से सजाईं, कवनो अवस्था के लेबल के हिसाब से ना। एके व्यक्ति के सुबह से शाम तक अलग-अलग आसानी के जरूरत हो सकेला। NIA के पहिला सलाह बा कि गतिविधि उनकर क्षमता से मेल खाव आ उ सफल महसूस करस।
 
-| Game | Make it easier | Make it a little harder |
+| खेल | आसान बनाईं | थोड़ा कठिन बनाईं |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 टाइल से शुरू करीं आ तस्वीर देखत रहे दीं | ज्यादा टाइल, या अगर आराम लागे त तस्वीर छुपा दीं |
+| [Find the Same](/games/find-the-same/) | 2 विकल्प | 4 तक विकल्प |
+| [Sort Together](/games/sort-together/) | रउआ तस्वीर पकड़ीं, उ टोकरी ओर इशारा करस | उ अपने से तस्वीर आ टोकरी दुनो टैप करस |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 टुकड़ा, पहिले पूरा तस्वीर पर बात करीं | 9 टुकड़ा |
+| [Finish the Saying](/games/finish-the-saying/) | अंत देखाईं, फेर संगे बोलीं | टैप करे से पहिले उ अंत खुद बोलस |
+| [Word Search](/games/word-search/) | छाप लीं, एगो शब्द संगे खोजीं, पहिला अक्षर पर इशारा करीं | अगिला शब्द उ खुद चुनस |
+| [Coloring](/games/coloring/) | रउआ दू रंग चुनीं, उ दुनो में से चुनस | सब रंग उ खुद चुनस |
+| [Conversation Cards](/games/conversation-cards/) | बस संगे तस्वीर देखीं | कार्ड पर खुला सवाल इस्तेमाल करीं |
+| [Photo Pairs](/games/photo-pairs/) | कुछ पसंदीदा परिवार के फोटो | अउर फोटो जोड़ीं |
+| [Picture Bingo](/games/picture-bingo/) | हर खिलाड़ी के संगे एगो मददगार बइठे | खिलाड़ी अपने कार्ड पर निशान लगावस |
+| [Calm Breathing](/games/calm-breathing/) | बस बइठ के संगे देखीं | धीरे-धीरे संगे सांस लीं |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+खेल बहुत कठिन होखे के संकेत: चिंता वाला लंबा चुप्पी, बार-बार "हम ना कर सकत", डिवाइस दूर ठेल दिहल, या गलती से परेशानी होखल। खेल बहुत आसान होखे के संकेत: ऊब, या उनकर कहल कि ई बच्चा खेल बा। अइसन होखे त उनकर बात मानीं आ कवनो अइसन चीज पर जाईं जवन बड़ लोग खातिर लागे, जइसे शब्द खोज, असली फोटो के पहेली, या उनकर पुरान काम के तस्वीर पर बात।
 
-## How do I turn a game into a conversation?
+## खेल के बातचीत में कइसे बदलीं?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+हर तस्वीर के बात करे के न्योता मानीं, आ उ जवन कहस ओके अच्छा जवाब मानीं। बहुत परिवार खातिर खेल के इहे सबसे बढ़िया हिस्सा होखेला।
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **खुला, गलत जवाब ना वाला सवाल पूछीं।** "का देखत बानी?" "कवन पसंद बा?" "अइसन रसोई के बारे में बताईं।"
+- **पहिले आपन कहानी सुनाईं।** "हमार नानी लगे अइसने कुत्ता रहे।" रउआ कहानी से उनका खातिर भी अपन कहानी कहल आसान होखी।
+- **बात के पीछे चलीं।** अगर कार के तस्वीर से सड़क यात्रा के कहानी शुरू हो जाव, त कहानी ही गतिविधि ह। खेल रोक दीं।
+- **तथ्य मत जांचीं।** याद के बात में सुखद बातचीत, सही ब्योरा से जादा जरूरी होखेला। अगर कहानी पिछला बेर से अलग होखे, त नया रूप के मजा लीं।
+- **बनल बनावल सवाल इस्तेमाल करीं।** [Finish the Saying](/games/finish-the-saying/) हर कहावत के बाद बात करे वाला सवाल देवेला, आ [Conversation Cards](/games/conversation-cards/) इहे खातिर बनल बा। [Photo Pairs](/games/photo-pairs/) रउआ आपन परिवार के फोटो इस्तेमाल करेला, जवन अक्सर सबसे गहिर कहानी जगावेला।
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+अउर विचार हमार [याद के गतिविधि](/activities/reminiscence/) आ [बातचीत के टिप](/caregiving/communication-tips/) वाला गाइड में बा।
 
-## When should we stop?
+## कब रुकल चाहीं?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+थकान या परेशानी के पहिला संकेत पर रुकीं, आ आदर्श रूप से तनी पहिलहीं। Alzheimer's Association सलाह देला कि जब ध्यान घटे या निराशा बढ़े, तब गतिविधि रोक दीं या बदल दीं।
 
-Watch for:
+इ सब पर ध्यान दीं:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- जम्हाई, ढीला बइठल, या आँख स्क्रीन से दूर भटकल;
+- बेचैनी, उठ के खड़ा होखल, या जाए के कहल;
+- आह भरल, छोट जवाब, या "हम एहमे ठीक नइखी";
+- बेमतलब टैप करल या डिवाइस दूर ठेलल;
+- रोवल, चिढ़ल, या मूड अचानक बदलल।
 
-How to stop well:
+ठीक से कइसे रुकीं:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **कवनो आसान चीज पर खतम करीं।** एगो आखिरी मिलान जवन उ कर सकस, या एगो आखिरी तस्वीर देखे खातिर।
+- **बात रउआ पर राखीं।** "हमरा एक कप चाय चाहीं। एहिजा रुकल जाव?" इ उनका खराब कइल के कवनो इशारा से बचावेला।
+- **कवनो शारीरिक या शांत काम पर जाईं।** थोड़ा टहल, नाश्ता, कपड़ा तहियावल या गाना।
+- **कुछ नीक कहीं।** "ई तोहरा संगे करल हमरा अच्छा लागल।" "सही कइल" खातिर बड़ाई ना, बस साथ के समय के खुशी।
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+जल्दी रुकल, योजना बदलल, या खेल छोड़ के बस संगे बइठल, इ सब बढ़िया नतीजा बा।
 
-## Can we play in a group or over a video call?
+## का हम समूह में या वीडियो कॉल पर खेल सकत बानी?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+हाँ, थोड़ा अतिरिक्त तइयारी के साथ। समूह में कुछ लोग रखीं, जिनके मदद चाहीं उनका बगल में मददगार बइठाईं, आ एगो साफ साझा मकसद वाला खेल चुनीं। [Picture Bingo](/games/picture-bingo/) में समूह खातिर छपे वाला कार्ड आ स्क्रीन पर बोले वाला सहायक बा। अउर खातिर [देखभाल केंद्र के समूह गतिविधि](/activities/care-home-groups/) देखीं।
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+वीडियो कॉल पर कॉल वाला व्यक्ति तस्वीर के बारे में बता सकेला, आ कमरा में कोई इशारा करे या टैप करे। कॉल छोट आ जाना-पहचाना राखीं। हमार [फोन आ वीडियो कॉल](/activities/phone-and-video-calls/) वाला गाइड में अउर टिप बा।
 
-## What if a game just isn't working?
+## अगर खेल ठीक से ना चले त का करीं?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+कुछ दिन कुछो काम ना करे, आ इ ना रउआ के दोष ह ना उनकर। खेल रख दीं, आ कवनो दूसरा समय, दूसर खेल, या बिना खेल के कोशिश करीं। बहुत अच्छा गतिविधि स्क्रीन से बाहर भी होखेला: गाना, तउलिया तहियावल, फोटो एलबम देखल, या थोड़ा टहल। अउर विचार खातिर [गतिविधि के विचार](/activities/ideas/) देखीं।

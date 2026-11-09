@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "डिमेंशिया वाला मनई से मेमोरी केयर या अस्पताल में भेंट"
+seoTitle: "डिमेंशिया वाला मनई से भेंट: का करीं आ का ले जाईं"
+description: "मेमोरी केयर, नर्सिंग होम या अस्पताल में डिमेंशिया वाला मनई से मिलत घरी का करीं, का ले जाईं, आसान गतिविधि, छोट-छोट भेंट आ विदा होखे के सही तरीका।"
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  जब रउरा मेमोरी केयर या अस्पताल में डिमेंशिया वाला मनई से मिलीं, त बात सरल रखीं: पहुंचते घरी अपन नाम बताईं, कुछ साझा करे खातिर ले जाईं जइसे फोटो, गाना या उनकर मन पसंद नाश्ता, आ साथ में एक आसान काम करीं। लंबा, कबहूँ-कबहूँ होखे वाला भेंट के बजाय छोट-छोट, नियमित भेंट अक्सर बेहतर होला। विदाई शांत आ एक जइसन रखीं, जेसे दुनु जने खातिर जाए के घड़ी आसान होखे।
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "मनई के नाम ले के नमस्ते करीं आ बताईं कि रउरा के हईं, जेसे उन्हनी के अंदाजा लगावे के ना पड़े: ‘नमस्ते माई, हम सुसैन बानी, रउरा बेटी।’"
+  - "एक या दू चीज साझा करे खातिर ले जाईं, जइसे फोटो के एलबम, मन पसंद गाना, नरम कंबल या स्टाफ से मंजूर नाश्ता।"
+  - "छोट-छोट, नियमित भेंट अक्सर लंबा, कबहूँ-कबहूँ होखे वाला भेंट से बेहतर होला। रउरा के मौजूदगी जतना मायने रखेले, उतना रउरा का कहत बानी ओकर ना।"
+  - "अस्पताल में स्टाफ के मरीज के बारे में एक पन्ना के जानकारी दीं आ कौनो अचानक बदलाव होखे त तुरंत डॉक्टर के बताईं।"
+  - "जाए के योजना बनाईं: बतावल कि कतना देर रुकब, हर बेर एक जइसन विदाई कहीं आ बेसी देर ना रुकीं।"
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "डिमेंशिया वाला मनई से भेंट में का ले जाईं?"
+    a: "कुछ साझा करे खातिर ले जाईं, बात करे खातिर ना। छोट फोटो एलबम, उनकर मन पसंद गानन के प्लेलिस्ट, नरम कंबल, हाथ में लगावे वाला क्रीम, कौनो पुरान शौक के पत्रिका या स्टाफ से मंजूर नाश्ता सब ठीक रही। केयर होम में परिवार के फोटो आ जानल-पहचानल चीज कमरा के घर जइसन बना सकेला।"
+  - q: "डिमेंशिया वाला मनई से भेंट कतना देर के होखे?"
+    a: "कौनो तय समय नइखे। बहुत परिवार पावेला कि छोट-छोट, बेर-बेर भेंट लंबा, कबहूँ-कबहूँ भेंट से बेहतर होला, काहे कि मनई जल्दी थक सकेला आ ई याद ना रही कि रउरा कतना देर रुकलीं। थकावट के संकेत देखीं आ भेंट अच्छा लागत रहला पर निकल जाईं।"
+  - q: "जब ऊ घर जाए के कहें, त का कहीं?"
+    a: "शब्द के बजाय भावना पर ध्यान दीं। ‘हम घर जाए के चाहत बानी’ अक्सर के मतलब होला ‘हम असहज या असुरक्षित महसूस करत बानी।’ कहे के कोशिश करीं, ‘हमरा से घर के बारे में बताईं’, साथ में फोटो देखीं, या टहले या नाश्ता के प्रस्ताव दीं। बहस कइल या समझावे कि ऊ काहे ना जा सकेलें, अक्सर परेशानी बढ़ावेला।"
+  - q: "अगर ऊ रउरा के पहचान ना पावें त?"
+    a: "ई दुख दे सकेला, बाकिर उन्हनी के सुधारे या ‘का रउरा हमरा के ना पहचानत बानी?’ ना पूछीं। प्रेम से अपन परिचय दीं आ साथ में समय बिताईं। बहुत लोग तबो संगत के आनंद लेलें आ भेंट के गरमाहट महसूस करेलें, भले ऊ पहचान ना पावें कि रउरा के हईं।"
+  - q: "अस्पताल में रहत घरी हम कइसे मदद कर सकीं?"
+    a: "जब हो सके त साथ रहीं, उनके खाए-पीए में मदद करीं आ फोटो जइसन जानल-पहचानल चीज ले जाईं। स्टाफ के एक पन्ना दीं जेमे उनकर दिनचर्या, पसंद के नाम, मन पसंद आ ना पसंद चीज, आ दर्द के संकेत लिखल होखे। मनई अचानक बेसी बीमार लागे या अलग व्यवहार करे त तुरंत डॉक्टर के बताईं, काहे कि अचानक भ्रम बीमारी के संकेत हो सकेला।"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+रउरा प्रियजन से मेमोरी केयर, नर्सिंग होम या अस्पताल में मिले के बात मन में बहुत भावना उठा सकेला। रउरा सोचत होखब कि का कहीं, का ले जाईं, या भेंट के कौनो मतलब बा कि ना, जब उन्हनी के ओ भेंट याद ना रही। बाकिर मतलब बा। नेशनल इंस्टीट्यूट ऑन एजिंग बतावत बा कि अल्जाइमर वाला लोग [अक्सर संगत के आनंद लेलें](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), भले ऊ पहचान ना पावें कि भेंट करे वाला के हवे। ई पन्ना भेंट से पहिले, भेंट के समय आ बाद में के व्यावहारिक कदम बतावेला, साथ में अस्पताल में रहे खातिर खास सुझाव भी।
 
-## How do I get ready for a visit?
+## भेंट खातिर तइयारी कइसे करीं?
 
-A little planning makes the visit easier for both of you.
+थोड़ा योजना बनावला से भेंट दुनु जने खातिर आसान हो जाला।
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **सही समय चुनीं।** डिमेंशिया ऑस्ट्रेलिया सुझावेला कि मनई जब आम तौर पर सबसे बेसी चेतन रहेलें, ओह समय जाईं, जे बहुत लोग खातिर सुबह या दुपहरिया के आस-पास होला। फैमिली केयरगिवर एलायंस सुझावेला कि केंद्र के समय-सारणी जानीं आ [गतिविधि के समय के बजाय खाली समय में](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) भेंट करीं।
+- **स्टाफ से बात करीं।** पूछीं कि आज उनकर हाल कइसन रहल, आ खाना, जानवर या बाहर घूमे के नियम जांच लीं।
+- **छोट भेंट के झोला तइयार करीं।** एक या दू चीज साझा करे खातिर काफी बा (नीचे सूची देखीं)।
+- **कुछ बात पहिले से सोच लीं।** मनई के शायद कौनो ताजा खबर ना होखे, त रउरा आपन बात ले जाईं: परिवार के हाल, मौसम, कौनो खेल, कौनो मजेदार किस्सा।
+- **अपन उम्मीद ठीक रखीं।** कुछ भेंट गर्मजोशी से भरल आ बतकही वाला होई। कुछ चुप्पी वाला या कठिन होई। दुनु सामान्य बा।
 
-## What should I bring?
+## का ले जाईं?
 
-Bring things to share, not things that test. Good choices include:
+ऐसन चीज ले जाईं जे साझा होखे, परखे वाला ना। ई सब ठीक रही:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **छोट फोटो एलबम,** जेमे बड़ा आ साफ फोटो होखे। स्टाफ खातिर पीछे नाम लिख दीं।
+- **मन पसंद गानन के प्लेलिस्ट,** फोन पर, साथे सादा हेडफोन या छोट स्पीकर के साथ।
+- **कुछ नरम चीज पकड़े खातिर,** जइसे जानल-पहचानल कंबल, दुपट्टा या स्वेटर।
+- **हाथ में लगावे वाला क्रीम,** अगर मनई के छूअल-छुआवल अच्छा लागेला त हल्का हाथ मालिश खातिर।
+- **पत्रिका या चित्र वाली किताब** कौनो पुरान शौक पर, जइसे बागवानी, गाड़ी, चिरई, या खाना बनावल।
+- **मन पसंद नाश्ता,** अगर स्टाफ कहे कि ई सुरक्षित बा।
+- **कमरा खातिर जानल-पहचानल चीज।** फैमिली केयरगिवर एलायंस सुझावेला फूल, पौधा, परिवार के फोटो आ कलाकृति, या पुरान परिवार के फोटो वाला बड़ा पोस्टर।
+- **एक टैबलेट,** परिवार के फोटो देखे या कौनो नरम खेल साथ में खेले खातिर।
 
-## What can we do together during a visit?
+## भेंट में साथे का कर सकीलें?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+साथे कौनो काम करला से बतकही के दबाव कम हो जाला। डिमेंशिया ऑस्ट्रेलिया सुझावेला कि फोटो देखीं, कौनो आसान हस्तकला करीं, पौधा लगाईं, गाना सुनीं, नाश्ता बांटीं, या मैदान में टहलीं। कुछ आउर विचार:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **फोटो देखीं।** जे रउरा देखत बानी ओकर वर्णन करीं: “ऊ टोपी देखत बानी।” “ई समुंदर के किनारा बड़ा सुंदर लागेला।” मनई के आगे चलत दीं। “ई के हवे?” से बचीं।
+2. **गाना बजाईं आ गाईं।** जानल-पहचानल गाना मन के खुश कर सकेला आ बात कहल मुश्किल होखो तबो साथ के एक पल दे सकेला।
+3. **छोट टहल करीं।** फैमिली केयरगिवर एलायंस सुझावेला कि केंद्र में, खासकर बगइचा होखे त ओमे घूमीं। व्हीलचेयर से घुमावल भी गिनल जाला।
+4. **हाथ के मालिश करीं।** थोड़ा क्रीम आ धीरे-धीरे हाथ सहलावल शांत कर सकेला।
+5. **सिंगार में मदद करीं।** डिमेंशिया ऑस्ट्रेलिया बाल कंघी करे, नह रंगे या मन पसंद कपड़ा पहिनावे में मदद के बात करेला, अगर ऊ इ सब पसंद करें।
+6. **कौनो सरल खेल खेलीं।** फैमिली केयरगिवर एलायंस सुझावेला ताश, डॉमिनो, या जे खेल मनई पहिले खेलत रहलें। टैबलेट पर [Picture Pairs](/games/picture-pairs/) चित्र दिखत रहत बिना घड़ी के खेलल जा सकेला। [Photo Pairs](/games/photo-pairs/) रउरा चुनल फोटो के मिलान वाला खेल बना देला, आ फोटो रउरा ब्राउज़र में ही रहेला।
+7. **साथे कुछ देखीं।** फैमिली केयरगिवर एलायंस हास्य आ पुरान फिल्म सुझावेला। कहानी ऊ ना समझ पावें तबो रउरा नजदीक बैठ के समय बांट सकीलें।
+8. **जोर से पढ़ीं।** एक छोट कविता, मन पसंद अंश, या परिवार के कौनो सदस्य के चिट्ठी।
+9. **बस साथ बैठीं।** हाथ पकड़ल या चुपचाप बइठल भी असली भेंट बा। अल्जाइमर्स एसोसिएशन बतावेला कि ई ठीक बा कि रउरा के पता ना होखे कि का कहीं, आ रउरा के मौजूदगी सबसे बेसी मायने रखेला।
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+जब बात खतम हो जाव, त [Conversation Cards](/games/conversation-cards/) मदद कर सकेला। हर कार्ड में एगो चित्र आ खुला सवाल होला।
 
-## How should I talk during the visit?
+## भेंट में कइसे बात करीं?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **हर बेर अपन परिचय दीं।** “नमस्ते बाबूजी, हम मार्क बानी, रउरा बेटा।” NIA सुझावेला कि भेंट करे वाला बातचीत शुरू करे खातिर संक्षेप में अपन परिचय दीं।
+- **सामने से जाईं** आ उनकर आंख के सीधा में बइठीं।
+- **सुधारीं मत, बहस मत करीं।** NIA सलाह देला कि मनई से गलती या भूले पर सुधारे से बचीं।
+- **धैर्य रखीं** जब शब्द खोजल मुश्किल होखे। खूब समय दीं।
+- **भावना पर ध्यान दीं।** मनई उदास या चिंतित लागे त विषय बदले से पहिले ओकरा मानीं।
+- **परीक्षा जइसन सवाल से बचीं,** जइसे “का रउरा हमरा के याद बानी?” या “दुपहरिया में का खइनी?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+अधिक जानकारी खातिर हमार [संवाद के सुझाव](/caregiving/communication-tips/) देखीं।
 
-## What do I do when they say "I want to go home"?
+## जब ऊ कहें “हम घर जाए के चाहत बानी” त का करीं?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+शब्द के पीछे छुपल भावना पर ध्यान दीं (जब कोई बार-बार घर जाए के पूछे, त हमार गाइड [कब कोई बार-बार घर जाए के पूछे](/caregiving/asking-to-go-home/) आगे बताला)। फैमिली केयरगिवर एलायंस बतावेला कि “हम घर जाए के चाहत बानी” अक्सर ई कहे के तरीका होला कि “हम असहज बानी,” आ सुझावेला जवाब जइसे “हमरा से रउरा घर के बारे में बताईं” या “घर में रउरा के सबसे मन पसंद चीज का रहल?” डिमेंशिया ऑस्ट्रेलिया जोड़ेला कि “घर” कौनो समय या जगह के मतलब हो सकेला जहां मनई सुरक्षित महसूस करत रहलें, जइसे बचपन।
 
-Try:
+कोशिश करीं:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- भावना मानीं: “लागत बा रउरा घर के याद आवत बा।”
+- स्पर्श से आराम दीं, अगर मनई के मन होखे
+- फोटो देखीं या परिवार के पुरान घर के बारे में बतियाईं
+- टहले, पानी या नाश्ता के प्रस्ताव दीं
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+बहस करे या समझावे से बचीं कि ऊ काहे ना जा सकेलें। एसे शायद ही मदद होखे आ अक्सर परेशानी बढ़ेला।
 
-## How long should a visit be?
+## भेंट कतना देर के होखे?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+छोट आ बेर-बेर भेंट अक्सर बेहतर होला। फैमिली केयरगिवर एलायंस बतावेला कि मनई आम तौर पर ई याद ना रखेलें कि रउरा पांच मिनट रुकलीं कि पांच घंटा, आ सुझावेला कि हफ्ता में तीन छोट भेंट एक लंबा भेंट से बेहतर हो सकेला। डिमेंशिया ऑस्ट्रेलिया कहेला कि भेंट के कौनो तय संख्या या तय लंबाई नइखे।
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+मेमोरी केयर में जाए के पहिला हफ्ता में फैमिली केयरगिवर एलायंस सुझावेला कि बेर-बेर भेंट करीं, फेर धीरे-धीरे एक नियमित रूटीन बना लीं। स्टाफ से पूछीं कि ऊ का देखत बानी।
 
-## How do I leave without upsetting them?
+## बिना उन्हनी के दुखी कइले कइसे जाईं?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+जाए के घड़ी सबसे कठिन लागेला। डिमेंशिया ऑस्ट्रेलिया सुझावेला:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **पहुंचते घरी बतावल कि कतना देर रुकब।** “हम एक घंटा रुकब, फेर बाजार जाएब।”
+- **कौनो गतिविधि के स्वाभाविक अंत बनाईं।** “ई गाना खतम होई, त हम निकलब।”
+- **भोजन या गतिविधि के साथे समय तय करीं,** या स्टाफ से कहीं कि मनई के कौनो दूसर काम में लगा दीं।
+- **विदाई छोट आ हर बेर एक जइसन रखीं।** देर तक रुकल, माफी मांगल या “बस थोड़ा अउर” कहल आगे के विदाई अउर कठिन बना सकेला।
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+जाए के बाद मन उदास होखल सामान्य बा। आराम करीं। अगर मनई परेशान भइल रहलें, त स्टाफ आम तौर पर थोड़ा देर बाद उन्हनी के शांत करे में मदद कर सकेला।
 
-## Visiting someone with dementia in the hospital
+## डिमेंशिया वाला मनई से अस्पताल में भेंट
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+अस्पताल शोरगुल वाला, अनजान आ अजनबी लोग से भरल होला, जे डिमेंशिया वाला मनई खातिर बहुत कठिन हो सकेला। NIA के गाइड [अल्जाइमर वाला मनई के अस्पताल ले जाइल](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) सिफारिश करेला:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **जहां तक हो सके, कोई साथ रहे:** परिवार के सदस्य, भरोसेमंद दोस्त या रखल गइल देखभालकर्ता।
+- **स्टाफ के एक निजी जानकारी के पन्ना दीं,** जेमे मनई के दिनचर्या, पसंद के नाम, मन पसंद आ ना पसंद चीज, संभावित ट्रिगर, आ दर्द के बिना शब्द वाला संकेत होखे। कमरा में आ नर्स स्टेशन पर प्रतिलिपि रखीं।
+- **खाए-पीए में मदद करीं।** बुजुर्ग लोग अस्पताल में कुपोषित हो सकेलें। बरतन खोलीं, भोजन में मदद करीं, साथे खाईं, आ पानी दीं।
+- **आराम देवे वाला चीज ले जाईं,** जइसे फोटो या धार्मिक वस्तु।
+- **शोर कम करीं।** टीवी बंद करीं आ फोन आ इंटरकॉम के आवाज घटाईं।
+- **शांत करे वाला रिवाज आजमाईं,** जइसे मधुर गाना, पढ़ाई, प्रार्थना, गाना या पुरान फोटो देखल।
+- **स्टाफ के मंजूरी से, जतना सुरक्षित होखे, चलत-फिरत के प्रोत्साहन दीं।**
+- **मनई अचानक बेसी बीमार या अलग लागे त तुरंत डॉक्टर के बताईं।** NIA बतावेला कि अचानक तेज भ्रम, जेके डेलिरियम कहल जाला, संक्रमण, बुखार, पानी के कमी या दवा के दुष्प्रभाव जइसन कारण से हो सकेला आ ओकर इलाज जरूरी बा।
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+एगो छोट, शांत भेंट, जानल-पहचानल चेहरा आ मन पसंद गाना के साथे, अस्पताल के दिन में सबसे बेसी आराम दे सकेला।
 
-## Bringing children on a visit
+## भेंट में बच्चा के लेके जाइल
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+बच्चा बहुत गरमाहट ला सकेलें। पहिले से सरल, सच्चा शब्द में उन्हनी के तइयार करीं, भेंट छोट रखीं, आ उन्हनी के कौनो काम दीं, जइसे कौनो चित्र देखावल या फोटो थमावल। NIA सुझावेला कि बच्चा आ अल्जाइमर वाला मनई साथे सरल गतिविधि के आनंद ले सकेलें, जइसे फोटो एलबम देखल या गाना सुनल। डिमेंशिया ऑस्ट्रेलिया सुझावेला कि छोट बच्चा के व्यस्त राखे खातिर छोट झोला में नाश्ता या शांत खेल के सामान ले जाईं।
 
-## Take care of yourself too
+## अपनो ख्याल रखीं
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+भेंट थका देवे वाला आ भावुक हो सकेला, खासकर जब मनई बहुत बदल गइल होखे। जरूरत पड़े त कम भेंट करीं, सहारा खातिर कौनो दोस्त के साथे ले जाईं, या कठिन दिन पर जल्दी निकल जाईं, ई सब ठीक बा। अपन ख्याल रखे के सुझाव खातिर [देखभालकर्ता के आत्म-देखभाल](/caregiving/caregiver-self-care/) देखीं। अगर रउरा दूर रहत बानी, त हमार गाइड [फोन आ वीडियो कॉल](/activities/phone-and-video-calls/) देखीं।

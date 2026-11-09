@@ -1,34 +1,33 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: डिमेंशिया वाला लोगन खातिर शाम के शांत गतिविधि"
+seoTitle: "Sundowning: शाम के शांत गतिविधि"
+description: "कोमल दिनचर्या, कमरा में बदलाव आ शांत गतिविधि से दिन ढले के बेचैनी कम हो सकेला। नया या बढ़त लक्षण पर डॉक्टर से कब बात करे के चाहीं, ई भी बतावल गइल बा।"
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning मतलब बेचैनी, उलझन या चिड़चिड़ापन जवन दिन ढले, यानी देर दुपहरिया
+  या साँझ में शुरू होखेला या बढ़ेला। कुछ व्यावहारिक उपाय से मदद मिल सकेला, जइसे
+  रोज़ के तय दिनचर्या, सुबह में धूप आ गतिविधि, देर के झपकी कम, कम चाय-कॉफी,
+  साँझ से पहिले घर में रोशनी, शांत माहौल, आ संगीत, फोटो या कपड़ा तहियावे जइसन
+  आराम के काम। नया या बढ़त लक्षण में डॉक्टर से जाँच करावे के चाहीं।
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning मतलब दिन ढलला पर शुरू होखे or बढ़े वाली बेचैनी या उलझन।"
+  - "कठिन काम, बाहर जाए आ नहवावे के काम सुबह या दुपहरिया के शुरू में रखीं।"
+  - "धूप, रोज़ के टहलल, देर के झपकी कम आ साँझ में चाय-कॉफी कम कइला से साँझ आसान हो सकेला।"
+  - "साँझ से पहिले बत्ती जला दीं, आवाज़ कम करीं, आ शांत, जानल-पहचानल काम पर आईं।"
+  - "बेचैनी के कारन समझे खातिर लॉग रखीं, आ बेचैनी शुरू होखला पर शांत रहीं आ भरोसा दिलाईं।"
+  - "नया या बढ़त लक्षण खातिर डॉक्टर से मिलीं: दर्द, संक्रमण या दवा से भी फरक पड़ सकेला।"
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Sundowning आम तौर पर दिन के कवन समय होखेला?"
+    a: "ई आम तौर पर देर दुपहरिया या साँझ के शुरू में, धूप घटे लागला पर शुरू होखेला या बढ़ेला। समय हर आदमी खातिर अलग होला, एही से एक-दू हफ्ता तक छोट लॉग रखला से मदद मिल सकेला।"
+  - q: "Sundowning में कवन गतिविधि मदद कर सकेला?"
+    a: "देर दुपहरिया में शांत, जानल-पहचानल आ कम मेहनत वाला काम अक्सर बढ़िया रहेला: मधुर संगीत, फोटो देखल, मनपसंद टीवी शो या फिल्म, कपड़ा तहियावल, छोट टहलल, या साथ में हल्का नाश्ता। नया या कठिन काम दिन के शुरू खातिर रखीं।"
+  - q: "का Sundowning कवनो बीमारी के संकेत हो सकेला?"
+    a: "दर्द, पेशाब के संक्रमण जइसन संक्रमण, नींद के दिक्कत या दवा के साइड इफेक्ट से ई बढ़ सकेला। बेचैनी नया, अचानक या बढ़त होखे त उनकर डॉक्टर से संपर्क करीं।"
+  - q: "का Sundowning खातिर डॉक्टर से दवा के बारे में पूछे के चाहीं?"
+    a: "ई डॉक्टर से बात करे वाली बात ह। Alzheimer's Association कहता कि पहिले बिना दवा वाला तरीका आमतौर पर बेहतर मानल जाला, आ साँझ के बेचैनी खातिर दवा पर फायदा आ नुकसान तौलला के बाद ही विचार कइल जाए। ई पन्ना दवा के सलाह ना देला।"
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +46,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+कई परिवार में एक्के तरह के बात देखल जाला: सुबह त सब ठीक-ठाक रहेला, बाकिर दुपहरिया बीतत-बीतत जेकर देखभाल करत बानी ऊ बेचैन, चिंतित, उलझन में या चिड़चिड़ा हो जालें। ऊ कमरा में इधर-उधर घूमे लागेलें, घर में रहला पर भी “घरे चलल जाव” कहे लागेलें, या जल्दी नाराज़ हो जालें। एकरा के अक्सर sundowning कहल जाला।
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+एकरा खातिर कवनो एक उपाय नइखे, बाकिर दिन के रफ़्तार, कमरा आ गतिविधि में बदलाव से देर दुपहरिया शांत हो सकेला। ई पन्ना National Institute on Aging आ Alzheimer's Association से लिहल बिना दवा वाला व्यावहारिक सुझाव जुटावत बा। ई चिकित्सा सलाह ना ह। अगर लक्षण नया, अचानक या बढ़त बा, त उनकर डॉक्टर से बात करीं।
 
-## What is sundowning?
+## Sundowning ह का?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning मतलब बेचैनी, घबराहट, चिड़चिड़ापन या उलझन जवन दिन ढले, यानी देर दुपहरिया या साँझ के शुरू में, शुरू होखेला या बढ़ेला। [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) बतावेला कि बहुत थकल रहला से देर दिन के बेचैनी बढ़ सकेला।
 
-## What can make late-day restlessness worse?
+## देर दिन के बेचैनी का बढ़ा सकेला?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+कई चीज़ एक साथ मिलके असर डाल सकेली। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ई सब कारन गिनावेला:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- पूरा दिन के बाद थकान;
+- नया या उलझावे वाला माहौल;
+- “अंदर के बॉडी क्लॉक” बिगड़ल, जवना से दिन में नींद आवे आ रात में जागल रहे;
+- कम रोशनी आ छाया, जवन उलझन पैदा कर सकेला;
+- आसपास के लोग के तनाव या झुंझलाहट भाँप लेवे के आदत;
+- कम नींद, जवन बड़ उम्र के लोग में आम बा।
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA बेचैनी के आउर कारन भी बतावेला, जइसे दर्द, उदासी या तनाव, आराम के कमी, कब्ज़, ज़्यादा शोर या ढेर लोग, आ कुछ दवा या दवा के आपसी असर।
 
-## How can I plan the day to make evenings calmer?
+## दिन के योजना कइसे बनाईं, जिससे साँझ शांत हो?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+भारी काम पहिले कर लीं आ देर दुपहरिया के हल्का आ तय रखीं। NIA आ Alzheimer's Association दोनों नियमित दिनचर्या के सलाह देलें। अपना हिसाब से बदल लीं, एगो नमूना दिन:
 
-| Time | What may help |
+| समय | का मदद कर सकेला |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| सुबह | अपॉइंटमेंट, नहावल, बाहर जाए आ मेहनत वाला काम, जब ज़्यादातर लोग सबसे चौकस रहेलें |
+| देर सुबह | बाहर या धूप वाला खिड़की के पास समय; टहलल या कवनो आउर गतिविधि |
+| दुपहरिया | बड़ खाना (Alzheimer's Association बड़ दुपहरिया खाना आ हल्का रात के खाना सुझावेला) |
+| दुपहरिया के शुरू | ज़रूरत पड़े त आराम, बाकिर दिन ढले लंबा झपकी से बचीं |
+| दुपहरिया से देर दुपहरिया | शांत, जानल-पहचानल गतिविधि; नाश्ता आ पानी; चाय-कॉफी ना |
+| साँझ से पहिले | घर में बत्ती जला दीं आ अन्हार होखे से पहिले परदा बंद कर दीं |
+| साँझ | हल्का खाना, धीमा संगीत, कम हलचल, आ रोज़ के एक जइसन सोए के तरीका |
 
-A few specific points from the sources:
+सोर्स से कुछ ख़ास बात:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **धूप।** NIA सुझावेला कि रोज़ कुछ समय बाहर या खिड़की के पास धूप में बिताईं।
+- **रोज़ के हलचल, बाकिर ज़्यादा ना।** NIA कहेला कि रोज़ शारीरिक रूप से सक्रिय रहीं, बाकिर बहुत सारा काम ना ठूँसीं।
+- **देर दिन के पेय।** देर दुपहरिया में शराब आ कैफीन वाला पेय, जइसे कॉफी या कोला, से बचीं (NIA)। Alzheimer's Association निकोटीन के बारे में भी बोलेला।
+- **झपकी।** देर दिन में लंबा झपकी आ ऊँघल रोकीं (NIA)। Alzheimer's Association कहेला कि रात में नींद के दिक्कत होखे त दिन के झपकी सीमित करीं।
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+एगो स्थिर दिन बनावे पर अउर जानकारी खातिर [रोज़ के दिनचर्या वाला गतिविधि](/activities/daily-routine/) देखीं।
 
-## How can I make the home calmer in the late afternoon?
+## देर दुपहरिया में घर के माहौल कइसे शांत करीं?
 
-Reduce noise, add light and keep familiar things close.
+शोर कम करीं, रोशनी बढ़ाईं आ जानल-पहचानल चीज़ पास रखीं।
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **तेज़ आ बराबर रोशनी।** Alzheimer's Association सुझावेला कि साँझ में घर अच्छा उजास में रहे। छाया आवे से पहिले जगह में रोशनी कर दीं।
+- **कम शोर।** टीवी आ रेडियो बंद या धीमा करीं, आ एह समय मेहमान या घर के भारी काम सीमित करीं। Alzheimer's Association साँझ के टीवी, काम-धंधा आ तेज़ संगीत जइसन उत्तेजना घटावे के सुझाव देला।
+- **जानल-पहचानल आराम।** NIA धीमा संगीत आ प्रिय चीज़ आ फोटो घर में रखे के सुझावेला।
+- **आराम के जाँच।** Alzheimer's Association दर्द, भूख, प्यास, कब्ज़, भरल पेशाब के थैली, थकान, संक्रमण आ त्वचा में जलन देखे, आ कमरा के आरामदायक तापमान रखे के सुझावेला।
+- **अपना मन के हाल।** लोग तनाव भाँप लेलें। NIA कहेला कि अगर आपके अपना चिंता से माहौल तनावपूर्ण हो रहल बा, त धीमा होखीं आ आराम करे के कोशिश करीं।
 
-## What calm activities can we do in the late afternoon?
+## देर दुपहरिया में कवन शांत गतिविधि कइल जा सकेला?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+जानल-पहचानल, बिना हड़बड़ी के आ आसानी से रोकल जाए वाला काम चुनीं। Alzheimer's Association शांत संगीत, फोटो या मनपसंद फिल्म, आ साथ में टहलल जइसन आराम वाला गतिविधि सुझावेला। NIA हल्का नाश्ता या पेय, मनपसंद टीवी शो, संगीत, टहलल, पढ़ल, या कपड़ा तहियावे जइसन सरल घरेलू काम सुझावेला।
 
-Ideas to try:
+आज़माए लायक बात:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **साथ में कपड़ा तहियावल।** NIA अइसन सरल घरेलू काम सुझावेला। तौलिया सँभारल आसान होखेला, आ काम के साफ़ अंत होखेला।
+2. **मनपसंद संगीत बजावल।** उनकर जवानी के जानल-पहचानल गाना, धीमा आवाज़ में। गुनगुनाइल भी गिनल जाई। अउर विचार खातिर [संगीत गतिविधि](/activities/music/) देखीं।
+3. **फोटो देखल।** फोटो एलबम, या [Photo Pairs](/games/photo-pairs/) में कुछ परिवारिक फोटो जवन दिखत रहे, से शांत बातचीत शुरू हो सकेला।
+4. **छोट टहलल।** अन्हार होखे से पहिले बगीचा, गली या घर के गलियारा में।
+5. **साथ में नाश्ता आ पानी।** कुछ सरल, गरम आ बिना कैफीन वाला, मेज़ पर साथ में।
+6. **धीमा मिलान।** [Picture Pairs](/games/picture-pairs/) चार टाइल आ दिखत तस्वीर के साथ, जेकरा शुरू करल आ रोकल आसान बा।
+7. **रंग भरल।** [Coloring](/games/coloring/) स्क्रीन पर या छपल पन्ना पर, बिना पूरा करे के लक्ष्य के।
+8. **देखल आ बोलल।** [Conversation Cards](/games/conversation-cards/) एगो तस्वीर आ खुला सवाल देवेला। खाली देखलो काफी बा।
+9. **साँस लेवे के ठहराव।** [Calm Breathing](/games/calm-breathing/) धीमा, शांत ठहराव ह जवना के आप खुद शुरू आ बंद करीं।
+10. **हाथ के काम।** बटन या मोज़ा छाँटल, मुलायम कंबल ठीक करल, या कवनो जानल-पहचानल चीज़ थामल। [सेंसरी गतिविधि](/activities/sensory/) देखीं।
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+देर दिन में नया खेल, भीड़-भाड़ वाला बाहर जाए आ जादा याद या ध्यान माँगे वाला काम से बचीं। ओकरा सुबह खातिर रखीं।
 
-## What should I do when restlessness starts?
+## बेचैनी शुरू होखे त का करीं?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+शांत रहीं, भरोसा दिलाईं आ धीरे से ध्यान बदलीं। NIA शांत आवाज़ में बोले, उनकर चिंता सुने, बहस से बचे, उनके भरोसा दिलावे कि ऊ सुरक्षित बाड़ें, आ जरूरत पड़े त कोमल स्पर्श के सुझावेला। फेर ध्यान बँटावे खातिर कुछ कइल जाव: नाश्ता, पेय, संगीत या टहलल।
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association “आप एहिजा सुरक्षित बानी” आ “हमरा अफ़सोस बा कि आप परेशान बानी” जइसन वाक्य सुझावेला, आ रोशनी बढ़ावे, धीमा होखे आ उत्तेजना कम करे के सलाह देला। उनकर रास्ता मत रोकीं, घेरीं मत, ना ज़बरदस्ती पकड़ीं, आ ना उनसे बहस करीं।
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+अगर उ आक्रामक हो जालें, त NIA सलाह देला कि व्यवहार रुके तक सुरक्षित दूरी पर रहीं। आपातकाल में 112 पर फोन करीं आ बतावीं कि उन्हनी के डिमेंशिया बा।
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+[संवाद](/caregiving/communication-tips/) आ [मना करला पर क्या करें](/caregiving/when-they-say-no/) वाला हमार गाइड में शांत करे वाला शब्द के बारे में आउर बात बा।
 
-## How do I find the triggers?
+## ट्रिगर कइसे पहचानीं?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+एक-दू हफ्ता तक छोट लॉग रखीं। Alzheimer's Association सलाह देला कि sundowning के घटना से पहिले का होखत रहे, ओकर ट्रैक राखीं, ताकि ट्रिगर पहचानल जा सके। लिखीं कि बेचैनी कब शुरू भइल, ओकरा से एक घंटा पहिले का भइल, झपकी, खाना आ पेय, मेहमान, शोर आ रोशनी। ई लॉग डॉक्टर के दिखाईं। NIA कहेला कि व्यवहार में बदलाव के ध्यान से दर्ज कइला से देखभाल करे वाला आ स्वास्थ्यकर्मी के पैटर्न पहचाने में मदद मिल सकेला।
 
-## When should I call a doctor about sundowning?
+## sundowning पर डॉक्टर से कब बात करीं?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+अगर बेचैनी नया बा, अचानक बढ़ गइल बा, या दूसरा बदलाव साथे आवत बा, त उनकर डॉक्टर से संपर्क करीं। NIA कहेला कि व्यवहार में अचानक या तेज़ी से बदलत उतार-चढ़ाव, खासकर संक्रमण या हाल में दवा बदलला के बाद, तुरंत डॉक्टर के बतावे के चाहीं।
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+डॉक्टर से ओन्ह चीज़ के जाँच करावे के कहीं जवन साँझ के मुश्किल बना सकेला। Alzheimer's Association पेशाब के संक्रमण, पेशाब पर नियंत्रण में दिक्कत, बेचैन पैर (restless legs) आ स्लीप एप्निया जइसन शारीरिक दिक्कत गिनावेला, आ ई पूछे के सुझावेला कि हर दवा दिन के कवन समय सबसे बढ़िया रही। NIA दर्द, कब्ज़ आ दवा के साइड इफेक्ट या आपसी असर के बेचैनी के संभावित कारन में गिनावेला।
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association कहेला कि Alzheimer's से जुड़ल नींद के दिक्कत खातिर बिना दवा वाला तरीका आमतौर पर पहिले अपनावल जाला, आ देर दिन के बेचैनी खातिर दवा तबे सोचल जाए जब ओह तरीका से फायदा ना होखे, आ फायदा-नुकसान तौलला के बाद। ई फैसला डॉक्टर के होखेला। डॉक्टरी सलाह बिना कवनो दवा, नींद के गोली या सप्लीमेंट शुरू, बंद या बदलल मत कीं।
 
-## How do I get through the evenings myself?
+## शाम में खुद के कइसे सँभारीं?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+देखभाल करे वाला खातिर देर दुपहरिया सबसे कठिन समय हो सकेला। अगर हो सके त परिवार के सदस्य, दोस्त या भुगतान पर मदद करे वाला से हफ्ता में कुछ दिन देर दुपहरिया सँभारे के कहीं, भले एक घंटा खातिर ही। [देखभाल करे वाला के अपना ख्याल](/caregiving/caregiver-self-care/) वाला गाइड में राहत के विकल्प आ मुफ़्त Alzheimer's Association 24/7 Helpline के बारे में बतावल गइल बा।

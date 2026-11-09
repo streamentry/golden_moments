@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Video Kol mo Telefon Activities long Dementia"
+seoTitle: "Video Kol Activities long Dementia"
+description: "Video kol mo telefon activities blong famle we oli stap longwe: soem samting blong soem, ridim stori, singsing, gem long wan screen we yumi sherem mo tips blong helper."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Kol wetem man we i stap laef wetem dementia i gud moa taem oli sot, oli kamap
+  regula, mo oli gat wan samting blong mekem tugeta, olsem soem pet o gaden,
+  lukluk long foto, ridim stori, singsing long wan sing we hem i laekem, o gem
+  wan gentol gem long wan screen we yumi sherem. Kolem long sem taem long ded
+  sipos yu save, talem wan man nomo long wan taem, mo askem wan man we i stap
+  long ples blong help.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Wan activity i mekem kol i gat shep mo i rimuvum presa long toktok. Planem wan simpol samting blong sherem."
+  - "Short kol we oli kamap regula long sem taem long ded oli save wok moa i gud than longfala kol we oli kamap samfala taem nomo."
+  - "Wan man nomo i toktok long wan taem. Grup kol we ol man oli toktok tugeta oli hard blong folem, espesli sipos man i harem no gud."
+  - "Wan helper long ples i save setemap divaes, sidaon klosap long man, mo i wok olsem 'han' blong ol gem o foto."
+  - "Sipos kol i no wok long dei ya, finisim hem wetem kaen tingting. Traem gen tumoro i oraet."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Wat samting mi save mekem long video kol wetem man we i gat dementia?"
+    a: "Planem wan simpol activity: soem gaden, pet o kitchen blong yu; lukluk long ol old foto tugeta; ridim wan short poem o leta long laod; singsing wan singsing we hem i laekem; kukum sem resipe long sem taem; o gem wan gentol picture gem long wan screen we yumi sherem. Activities i givim kol wan fokes, so man i no nidim karem wan bigfala toktok."
+  - q: "Hao long nao wan video kol i sud stap?"
+    a: "Usually i sot moa than wanem yu tingting. Sam warm minit i inaf, espesli sipos man i kwiktaem i tajem. Kolem regula long sem taem long ded i save impoten moa than hao longfala wan kol i stap."
+  - q: "Sipos oli kanfius o oli wari long video kol?"
+    a: "Sam man oli kanfius long fes long wan screen. Traem wan plen telefon kol, wan video mesej we yu recordem mo helper i save pleyem long wan kwaet taem, o ol kad mo foto we i kam long post. Sipos wan kol i no gud, finisim hem gud mo traem gen long narafala dei o long narafala taem."
+  - q: "Hao long mi save helpem mama blong mi long video kol sipos hem i no save yusum telefon?"
+    a: "Askem wan famle memba, home aide o staff long care home blong stat kol mo holem o sapotem divaes. Planti care setting i helpem famle long video kol, so askem wanem oli ofarem. Wan tablet long stand, we screen i bigfala mo saon i strong, i mekem i isi long everyone."
+  - q: "Ka yumi save gem wan gem tugeta long video?"
+    a: "Yes. Isi wei hemia se wan man i sherem screen blong hem long video app, mo narafala i talem hem i tajem wanem pikja. O helper long ples i save opem sem gem long wan tablet mo tajem blong man, wetem yu i talem hem long step-step. Jusum gem we i no gat taem o skor."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Stap longwe long wan man we i gat dementia i save mekem yu filim yu no save helpem. Video kol mo telefon kol i no save tekem plas blong wan hag, be oli save mekem ol gud taem blong konektem tingting taem yu setemap hem gud. Trik i stap long from we yu no traem toktok olsem wan normal toktok, be yu planem wan simpol samting blong sherem. Pej ya i talem ol activity we oli wok long video mo telefon, hao blong setemap kol, mo wanem nao man we i stap long ples i save helpem.
 
-## Why plan an activity for a call?
+## Wae yumi nidim plan wan activity blong kol?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Wan activity i mekem kol i gat shep. "Yu orait? Wanem nao yu mekem tedei?" i askem man blong rimemba mo ripot, wanem i save hard mo i stresem hem. "Lukim, ol tomato oli redi nao" i no askem hem wan samting nating.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association i talem se toktok wetem bigfala grup long video i save hard, mo i sajestem blong [adem stretja long kol](https://www.alz.org/help-support/caregiving/holidays) wetem ol samting olsem singsing o sherem ol pikja.
 
-## What activities work on a video call?
+## Wanem activities i wok long video kol?
 
-### Show and tell
+### Soem mo talem
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Karem wol blong yu i kam long hem. Walemaot kemera i slou aroun long gaden blong yu, introdusum dog, soem wanem yu kukum, holem drowing blong pikinini blong yu, o pointem fon i luk aot long windo long snow. Talem ol samting we yu lukim long simpol wod mo lego ol taem blong hem i ridi blong ritoem. No nid askem kwestin.
 
-### Look at photos together
+### Lukluk long foto tugeta
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Holem wan old foto i kam klosap long kemera, o sherem screen blong soem sam bigfala foto wan-wan. Talem wanem yu lukim: "Lukim hat blong Grandpa." Lego "Hu nao ya?" o "Yu rimembam?" Sipos man i talem wan nem we i no stret, yu agree wetem hem. Lukim [gaed blong reminiscence](/activities/reminiscence/) blong ol gud tingting.
 
-### Read aloud
+### Ridim stori long laod
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Ridim wan short poem, wan sam from Baebol, wan gudfala buk blong pikinini we yu ridim long pikinini blong yu long sem kol, wan leta from wan famle, o wan pej long buk we hem i laekem. Ridim long laod i givim man samting we kwaet blong harem, wetem no nid ansarem.
 
-### Sing or listen to music together
+### Singsing o harem miusik tugeta
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Singsing wan singsing we hem i save gud, o pleim wan fevret rekod long saet blong yu. Singsing wetem i isi moa than toktok long planti man. Lukim [gaed blong miusik activities](/activities/music/).
 
-### Cook or bake at the same time
+### Kukum o bekem long sem taem
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association i sajestem blong planem wan video kol blong kukum o bekem wan spesol resipe tugeta. Setemap kol long bot kitchen. Man we i stap long ples i save stirim o tastem samting, wetem yu i folem old resipe kad blong hem.
 
-### Watch something together
+### Lukluk long wan samting tugeta
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association i sajestem tu blong lukim wan fevret muvi long sem taem long despala haus, wetem toktok long telefon o video. Long man we i gat dementia, wan sotfala klip, wan old TV episod, o wan ball gem i save moa gud than wan fulfala muvi.
 
-### Play a gentle game on a shared screen
+### Gem wan gentol gem long wan screen we yumi sherem
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Planti video kol app i letem yu sherem screen. Yu opem gem mo tajem; man i talem o pointem wanem pikja i blong jusum. O helper long ples i save opem sem gem long wan tablet mo tajem blong man, we yu toktok wetem hem.
 
-Games that work well this way:
+Ol gem we oli wok gud long fasin ya:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finisim Tok](/games/finish-the-saying/):** yu ridim wan famle tok, man i talem end blong hem, mo wan toktok prompt i folem.
+- **[Pea Pikja](/games/picture-pairs/):** wan gentol matjing gem wetem ol bigfala pikja we i save stap luk, no taem, no skor.
+- **[Kad blong Toktok](/games/conversation-cards/):** wan pikja mo wan open prompt blong toktok tugeta.
+- **[Foto Pea](/games/photo-pairs/):** wan matjing gem we i mekem long ol foto we yu jusum long divaes blong yu. Ol foto oli stap long browser blong yu, mo man i lukim tru long screen we yu sherem.
 
-### Recorded messages
+### Mesej we yu recordem
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Taem ol live kol i hard, recordem wan short video: wan greeting, wan singsing, wan wakabaot long yad blong yu. Helper i save pleyem long wan kwaet taem, plante taem we man i laekem. Alzheimer's Association i talem long recordem mo sendem ol spesol momen, olsem taem pikinini oli opem ol presen.
 
-## What about plain phone calls?
+## Olsem wanem long ol plen telefon kol?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Telefon kol i stap impoten. Dementia Australia i sajestem [kolem long sem taem long ded](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) mo no hurry, from man we i gat dementia i save tekem taem blong kasem toktok. Long telefon:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Talem nem blong yu mo wanem relesan blong yu long fastaem: "Hae Dad, mi Jenny, pikinini blong yu."
+- Toktok slou, long short sentens, wan aedia long wan taem.
+- Givim nyus, no askem nyus: "Mi kukum resipe blong pot roast blong yu lastnaet."
+- Ridim wan short poem, o singsing wan vas blong wan fevret singsing.
+- Keepem i short mo finisim long wan warm tingting.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia i talem tu se video kol i save helpem taem toktok i kamap i hard, from man i save lukim fes blong yu. Sipos telefon kol i kanfius, traem video, o long narafala wei.
 
-## How do I set up a video call that works?
+## Hao nao mi save setemap wan video kol we i wok?
 
-**Before the call:**
+**Bifo long kol:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Jusum wan regula taem** we man i usually i restem, mo stap long hem. Rutin i helpem.
+2. **Wok wetem helper long ples.** Wan tekis long dei bifo i helpem ol blong planem.
+3. **Jekem divaes.** Tablet long stand i isi moa than telefon we yu holem long han. Mekem sua se i gat jaj, screen i brait, mo saon i strong inaf. Opem ol kaption sipos app i gat, mo man i ridim gud.
+4. **Planem wan activity** mo mekem evri samting i redi.
 
-**During the call:**
+**Long taem blong kol:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sidaon klosap long kemera** long gud laet, fes long windo, no wetem windo i stap behaen yu.
+- **Introdusum yu wan** long evri taem, long nem mo relesan.
+- **Wan voes long wan taem.** Alzheimer's Association i talem se kros toktok i hard long man we i gat dementia mo long man we i no save harem gud. Sipos sam famle oli joinim, tanem tanem, o kipim i stap long tu o tri man nomo.
+- **Askem wan kwestin long wan taem.** Family Caregiver Alliance i sajestem [simpol kwestin we ansa blong hem i yes o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), mo soem jus sipos yu save.
+- **Letem long pos we i long.** Wet blong ansa. I oraet blong sajestem wan wod sipos hem i stap serjem.
+- **Yusum fes mo vois blong yu.** Smael, nod, mo kipim tone i warm. Fes i ofen i talem moa than tokgud.
+- **No korektem.** Sipos man i talem samting we i no tru, letem i stap olsem.
 
-**Ending the call:**
+**Taem blong finisim kol:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Finisim bifo man i taed, long gudfala taem ideally.
+- Yusum sem gudbae evri taem: "Mi bambae mi kolem yu tumoro long lanj. Mi lav yu."
+- No drag i go longfala.
 
-## Tips for the helper on site
+## Tips blong helper long ples
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Sipos yu wan husben o waef, aide, brata o staff memba we i helpem long kol, yu mekem i posibol.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Setemap wan kwaet ples.** Ston TV mo lokem dua.
+- **Stat kol yu wan,** then givim man tablet long stand o holem long level blong ai.
+- **Sidaon klosap long hem, no long fran.** Presens blong yu i givim fiding gud. Sipos i nid, givim hint isi: "Lukim, hemi Jenny."
+- **Bi han blong hem.** Holem ap pikja, tajem gem, tanem tablet blong soem rum.
+- **Lukaot sipos hem i taed o i upset,** mo talem man we i kolem taem blong finisim.
+- **Talem man we i kolem wanem i wok.** "Hem i laekem dog nogud" i helpem blong planem nekis kol.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA i talem se famle we oli stap longwe oli save helpem wan olfala man blong [lanem ol fitja blong fon blong hem](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), olsem video kol. Long leta stej, helper bambae usually i nidim karem divaes olgeta. Hemia i oraet.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Sipos man i stap long wan care home, Alzheimer's Foundation of America i sajestem askem sipos fasiliti i helpem famle long video jat. AFA i talem tu long famle we oli sendem foto i go kam wetem staff, mo sendem ol fevret snak o ol smol komfot, afta we oli jekem wanem fasiliti i alaoem.
 
-## What if the call doesn't go well?
+## Wanem nao sipos kol i no wok gud?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Sam kol bambae i kanfius, i no gat laef, o i mekem man i upset. Hemia i no fol blong yu, mo i no minim se ol kol oli no gat velyu.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Sipos man i lukluk i kanfius long screen, switjim i go long plen telefon kol o recordem mesej.
+- Sipos hem i upset, akseptem filin, talem wan samting we i givim fiding gud, mo finisim gud.
+- Sipos kol i ofen i no gud long wan taem blong dei, traem wan narafala taem.
+- Sipos hem i tingting se yu wan narafala man, folem hem gud.
 
-It is fine to end early. A short, warm call is a good outcome.
+I oraet blong finisim ero. Wan short, warm kol i wan gud rizalt.
 
-## Between calls
+## Long taem blong ol kol
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Stap wetem hem long ol narafala wei. Dementia Australia i sajestem sendem kad, imel, foto o ol smol presen. Wan postkad long wik wetem wan bigfala foto mo wan short nout i save ridim bakegen mo bakegen. Ol [kad blong toktok we yu save printem](/games/conversation-cards/) we yu mailem long helper i save givim nekis kol wan redi topik.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Blong ol tips long jusum mo setemap tablet, lukim [tablets and screens](/caregiving/tablets-and-screens/). Blong taem long ples, lukim gaed blong yumi long [visiting](/activities/visiting/).

@@ -1,33 +1,28 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Ol gem blong tingting i stopem dementia o nogat?"
+seoTitle: "Ol gem blong tingting i stopem dementia? Ol proof"
+description: "Wanem ol risej i talemaot long ol gem blong tingting mo dementia: stimulesen blong tingting, kompiuta tren, tesis ACTIVE mo kes blong FTC long Lumosity, i eksplenem klia."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  No gem blong tingting i bin prove yet se i save stopem dementia. Kompiuta tren blong tingting i moa i helpem ol tingting we man i praktisim. Wan stadi long tesis ACTIVE i konektem wan spesol kaen spid tren mo ol booster sesen wetem fewfala dementia dae long 20 yia, wan narrow fàndin. Long ol man we oldaready i laef wetem dementia, grup kognitiv stimulesen i soem smol mo short-taem benefit. Ol gem i gud blong fanem mo blong kampani.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Ol stadi long tren blong tingting i soem se man i kan winim ol tingting we hem praktisim, be i gat smol pruf se dat i go long laef blong ol de."
+  - "Long tesis ACTIVE, nomo ol man we i bin mekem spesol spid tren plus ol booster sesen i gat fewfala dementia dae long 20 yia. Spid tren we i nogat booster, mo tren long memori mo risonin, i no soem dat."
+  - "Long 2016, man we i mekem Lumosity i peim $2 million blong setem kes FTC we i blong ol klem we oli nogat sans long saen blong sapotem klem long dilei long dementia."
+  - "Long ol man we oli gat smol to midol dementia, grup kognitiv stimulesen i soem smol, short-taem benefit long tingting mo klia gud fasin long tok mo long sosol intarakson."
+  - "Ol gem blong Golden Moments i blong fanem mo blong sherem taem. Oli no tritmen mo oli no stopem o slowem dementia."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Ol gem blong tingting i save stopem Alzheimer's?"
+    a: "Nogat gem blong tingting we i bin prove yet se i save stopem Alzheimer's o narafala dementia. National Institute on Aging i talem se i no gat enaf pruf se ol komesol kompiuta app blong tingting i gat sem efekt olsem we i kamaot long ol tesis. Ol gem i save stap olsem wan gud wei blong spendem taem."
+  - q: "Wanem tesis ACTIVE i faendem long spid tren mo dementia?"
+    a: "Wan analisis long 2026 i konektem ol man long tesis ACTIVE wetem ol rikodem blong Medicare long 20 yia. Ol man we i mekem spid tren mo i gat seven wan booster sesen i gat smol reit blong dementia we i bin daknoa, i kamda long grup we oli no bin trening. Spid tren we i nogat booster, mo tren long memori o risonin, i no soem ol kaen efekt we i impoten."
+  - q: "Ol puzol mo ol gem i gud long man we i already gat dementia?"
+    a: "I save gud, sipos man i enjoem. Grup kognitiv stimulesen, we i gat ol gem blong wod, puzol, singsing mo tok, i soem smol short-taem benefit long tingting mo klia benefit long komunikesen mo sosol intarakson. Enjoyment, no wan test risol, i rait gol."
+  - q: "Wanem rong we FTC i mekem Lumosity i peim fain?"
+    a: "Long 2016, Federal Trade Commission i klemem Lumos Labs se hem i mekem klem long ol gem blong hem, inkludim klem se i save dilei age-related dikline mo dementia, be hem i nogat saen blong sapotem. Kompani i agri blong peim $2 million mo blong gat stret saen pruf bifo i mekem sem klem long fiuja."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +53,88 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Ol gem blong tingting i stap everiwea, mo planti oli promis se bae i mekem tingting blong yu i stap yang. Sipos yu keakem wan man we i gat dementia, o yu wari long memori blong yu wan, hem i naturel blong askem se playim ol gem ia i save helpem o nogat. Hia i wanem ol risej i soem stret, inkludim ol pat we i gud mo ol pat we i nogat gud.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Hia i jeneral save nomo, i no medikol advaes. Lukim [medikol disklema blong mifala](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Ol gem blong tingting i stopem dementia o nogat?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Nogat gem blong tingting we i bin prove yet se i stopem dementia. National Institute on Aging (NIA) i advaesem ol man blong wari long ol klem se ol kompiuta mo ol gem long intanet i save improvem memori, mo hem i talem se i no gat enaf pruf se nogat wan komesol kompiuta app blong tingting i gat sem efekt olsem tren we oli testem long ol klinikol stadi ([NIA long wei blong stopem Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Hemia i no talem se ol gem i no gat valiu. I min se valiu blong olgeta i stap long fanem, long kampani mo long rutin, nogat long protektem wan man long dementia.
 
-## What is "near transfer", and why does it matter?
+## Wanem "near transfer" i minim, mo wanem i impoten long hem?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Taem yu praktisim wan wok, yu usually i kam gud moa long wok ia. Ol risesas i kolem hemia wan trening efek. Kwestin we i harad moa, i wan: sipos ol improvemen ia i "transfer" i go long ol narafala samting, olsem long ol wok we i olsem, (near transfer) o long laef blong ol de, olsem ting blong ol apointmen o blong ol mane (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Wan bigfala risiu long 2016 i lukluk long ol stadi we ol kampani blong tren blong tingting i yusum olsem ol bes pruf blong olgeta. Hem i faenem plante pruf se ol man i kam gud long ol wok we oli bin praktisim, be smol pruf nomo se oli kam gud long ol wok we i klosap, mo i nogat gud pruf se tren i helpem tingting blong laef blong ol de. Planti stadi tu i gat ol problem long dizaen we i mekem i no posibol blong mekem strong konklusen ([Simons mo ol kolik, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Wanem ol risiu long Cochrane i talem long kompiuta tren blong tingting?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Ol risiu blong Cochrane, we i kolektem ol gud tesis we i stap, oli lukluk long kompiuta tren we i go long wan taem we i no les long 12 wik:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Ol hel adalt we oli 65 o moa:** eit tesis wetem 1,183 man. Ol pruf oli low o very low kwaliti. I save gat wan smol benefit klostu afta long tren, be i nogat klia pruf se hemia i stap.
+  ([Cochrane risiu, ol hel olfala man](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Ol man we oli gat mail kognitiv impeiment:** eit tesis wetem 660 man. Nogat wan tesis i ripotem sipos ol man oli kam gat dementia, mo ol pruf oli wik tumas blong mekem konklusen ([Cochrane risiu, mail kognitiv impeiment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Wanem tesis ACTIVE i faendem?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE i wan bigfala tesis long USA we i stat long 1998 wetem 2,802 adalt we oli 65 o moa, we oli stap oli stap wetem tumas nomo, mo oli nogat bigfala problem long memori o tingting. Ol man oli bin rendemli putum long wan long tri kaen smol grup tren (spid blong prosesing, memori, o risonin) o long wan grup we i nogat kontakt. Tren i stap go antap long ten sesen long faev o sikis wik. Sam man we i kamplitim moa long ol sesen oli bin rendemli ofem tu ol **booster sesen** long klostu wan mo tri yia afta.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Spid tren i involvem long lukluk mo prosesing blong ol visuol samting long ol sot-sot lukluk, we i kam wan wan sot moa, long level we i jenjem taem man i stat gud moa.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Long 2026, ol risejman oli konektem 2,021 man we oli bin join long Medicare rikodem blong 20 yia ([ACTIVE 20-year analisis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Hia i wanem olgeta i faendem:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Spid tren wetem at least wan booster sesen:** wan lo reit blong dementia we i bin daknoa, i kamda long grup we i nogat kontakt (hazard reisio 0.75, we i min klostu 25% lo reit).
+- **Spid tren we i nogat booster:** nogat lo reit.
+- **Tren long memori o risonin:** nogat signifikan efekt long ol dementia dae.
+- **Olgeta grup blong tren, we oli kompea wetem grup we i nogat kontakt:** wan tendensi blong i gat lo reit, be i no signifikan.
 
-### The limits of this finding
+### Ol limit blong faending ia
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- I aplae nomo long **wan spesol kaen spid tren we i gat sipovisen wetem booster sesen**, no long ol gem blong tingting long jeneral.
+- Signifikan risol i kamaot long wan **sabgrup** (ol man we i finis long ol faswan sesen mo oli bin ofa booster), no long olgeta spid grup.
+- Dementia i bin mesurem long **dagnosis kod long Medicare klem**, no long wan-wan man i lukluk long hem. Abaot wan kwota blong ol orijinol man oli bin lusum, from oli bin stap long Medicare Advantage, we i nogat ful klem rikodem.
+- Ol man oli nogat signifikan problem long tingting taem oli stat. Ol risej oli nogat tok long gem blong ol man we **oli laef finis wetem dementia**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Hemia i wan intristing risol we i nidim moa risej. I no pruf se wan app i stopem dementia.
 
-## What did the FTC say about Lumosity?
+## Wanem FTC i talem long Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Long Janueri 2016, Lumos Labs, we i mekem Lumosity, i agri blong peim $2 million blong setem kes blong Federal Trade Commission long fol advaertising. FTC i talem se kompani i mekem klem, wetem nogat gud saen, se ol gem blong hem i save improvem wok mo skul perfomans, mo i save delei age-related dikline, mail kognitiv impeiment, dementia mo Alzheimer's. Oda i talem se kompani i mas gat kompetent mo relaebol saen pruf bifo i mekem sem klem long fiuja ([FTC presrilis](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Lesin blong famili: no tristem wan gem, app o program we i promis se bae i protektem memori o stopem dementia.
 
-## Can games help someone who already has dementia?
+## Ol gem i save helpem wan man we oli already gat dementia?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+I save ademap wan gud de, mo hemia i impoten tumas. Ol wei we oli stadi gud moa long hem i **stimulesen blong tingting**: ol grup aktiviti we man i enjoem, olsem diskasen, tingting bak long ol taem we i pas, ol gem blong wod, puzol mo singsing, usually long wan smol grup we wan fasilitetor i lidim.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Wan Cochrane risiu long 2023 i lukluk long 37 tesis wetem 2,766 man we oli gat mail mo midol dementia, mo i faenem ([Cochrane risiu blong stimulesen blong tingting](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- wan **smol, short-taem benefit** long ol tesis blong tingting (pruf we i midol kwaliti);
+- **impoten improvemen long komunikesen mo sosol intarakson** (pruf we i hae kwaliti, from wan smol namba blong ol stadi);
+- **smol benefit** long kwaliti blong laef, fil mo fasin.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Ol benefit oli bin mesurem moslot klostu afta long program we i gat abaot ten wik, mo sam stadi nomo i lukluk sipos ol ia i stap. Stimulesen blong tingting i wan program long grup we i gat strokja, so ol risej ia i no aotomatik i aplae long wan man we i playim gem olem wan long tablet.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission long 2024 i talem tu se ol aktiviti program oli impoten long ol man we oli laef wetem dementia, blong mekem oli stap enjoem laef mo oli gat peles ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Wanem ol gem i save gud long hem?
 
-When chosen well, games can offer:
+Taem ol gem oli jusum gud, oli save givim:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Enjoyment.** Wan nice hap haoa i gud long hem wetem hemseleva.
+- **Konekson.** Taem yu playim i stap saed bae saed, yu gat wan samting we i isi blong sherem taem tok i had. Lukim [hao blong playim tugeta](/caregiving/how-to-play-together/).
+- **Rutin.** Wan familiar aktiviti long sem taem evri de i save kasem komfot.
+- **Konfidens.** Aktiviti we i fitim long wanem man i save gud yet, i letem hem fil se hem i save, i no fil se hem i stap tesem.
+- **Tok.** Wan piksa o wan familiar saeng i save opem wan stori. Traem [kadi blong tok](/games/conversation-cards/) o [finish the saying](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Samting we i betta blong avoidem: taem, skor, strik mo eni samting we i olsem wan memori tes. Sipos man i kros o i wari, stopem. Stopem erli, o jus sidaon tugeta, i wan gud aot-kam. Gaed blong mifala long [jusum app mo gem](/caregiving/choosing-apps-and-games/) i gat wan jekslis.
 
-## Where Golden Moments fits
+## Wea Golden Moments i stap
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Ol gem blong Golden Moments, olsem [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) mo [large-print word search](/games/word-search/), oli mekem blong fanem mo blong sherem taem. Oli nogat klok mo oli nogat skor. Oli **no** trisment, mo oli **no** stopem o slowem dementia. Mifala i wantem talem yu long klia fasin, long hem i moa gud, from mifala i no wantem promis wanem we nogat gem i save mekem.
 
-## Talk with a doctor
+## Tok wetem dokta
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Sipos yu wari long ol jenji long memori blong yu wan o long man we yu keakem, lukim dokta, i no ikis nomo long wan app. Dokta i save lukluk long ol kosis we oli save fiksim, mo tok long ol step we i gat ol bes pruf, olsem kontrolem presa blong blad mo jekem hiaring. Lukim [Ibaed dementia i save stopem?](/brain-health/can-dementia-be-prevented/) long moa samting. Sipos i gat sudden konfiuson o narafala sudden jenji, go kasem urgent medikol helb.

@@ -1,31 +1,29 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "सुनने में कमी और डिमेंशिया का खतरा: रिसर्च का कहत बा"
+seoTitle: "सुनने में कमी और डिमेंशिया: रिसर्च का कहत बा"
+description: "सुनने में कमी डिमेंशिया के एगो बड़ खतरा से जुड़ल बा। जानीं कि ACHIEVE श्रवण यंत्र जाँच में का निकलल, कान कइसे जँचवावे के बा, आ बात-चीत कइसे आसान कइल जा सकेला।"
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  साल 2024 के लैंसेट आयोग सुनने में कमी के डिमेंशिया के सबसे बड़ बदलल जा सकेवाला खतरा में से एक बतावत बा।
+  ACHIEVE जाँच में श्रवण यंत्र से कुल मिला के दिमाग के गिरावट धीमा ना भइल, लेकिन ज्यादा खतरा वाला एगो छोटा समूह में गिरावट कम देखाइल। फिर भी श्रवण यंत्र से बात-चीत आ रोज के काम आसान होला। कान के जाँच करवाईं, नुस्खा वाला या बिना नुस्खा वाला यंत्र पर विचार करीं, आ डॉक्टर से बात करीं।
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "लैंसेट आयोग के अनुमान बा कि दुनिया भर में डिमेंशिया के लगभग 7% मामला सुनने में कमी से जुड़ल बा। 14 कारक में ई सबसे बड़ हिस्सा वाला कारक में बराबर पर बा।"
+  - "977 बुजुर्ग लोग पर भइल ACHIEVE जाँच में श्रवण यंत्र से तीन साल में कुल मिला के दिमाग के गिरावट में कवनो बदलाव ना आइल।"
+  - "ACHIEVE के एगो छोटा, ज्यादा खतरा वाला समूह में श्रवण यंत्र से दिमाग के गिरावट 48% धीमा देखाइल; एकरा के पक्का करे के जरूरत बा।"
+  - "अक्टूबर 2022 से अमेरिका में जेकरा हल्का से मध्यम सुनने में कमी महसूस होला, उ FDA से नियंत्रित श्रवण यंत्र बिना नुस्खा के खरीद सकेला।"
+  - "2024 में बिना इलाज वाला आँख के कमजोरी भी डिमेंशिया के खतरा में जोड़ल गइल, एसे आँख के जाँच भी जरूरी बा।"
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "का श्रवण यंत्र से डिमेंशिया रुकेला?"
+    a: "एकर अबहिन तक पक्का प्रमाण नइखे। ACHIEVE जाँच में तीन साल में दिमाग के गिरावट पर कुल मिला के कवनो असर ना मिलल, हालाँकि ज्यादा खतरा वाला एगो समूह के फायदा भइल। फिर भी बात-चीत, सुरक्षा आ रोज के काम आसान होखे खातिर श्रवण यंत्र पर विचार करे लायक बा।"
+  - q: "बिना नुस्खा वाला श्रवण यंत्र केकरा खरीदे के बा?"
+    a: "FDA 18 साल या ओकरा से ऊपर के उ वयस्क के, जेकरा हल्का से मध्यम सुनने में कमी महसूस होला, दुकान या ऑनलाइन से बिना नुस्खा के यंत्र खरीदे के इजाजत देला। ई गंभीर सुनने में कमी खातिर ना बनल बा। कान में दरद, कान से पानी या खून निकलल, चक्कर या अचानक सुनाई में बदलाव होखे पर पहिले डॉक्टर के देखाईं।"
+  - q: "का सुनने में कमी डिमेंशिया जइसन लउकेला?"
+    a: "कबो-कबो अइसन होला। नेशनल इंस्टीट्यूट ऑन एजिंग बतावेला कि जे बुजुर्ग ठीक से सुन ना पावेलन, उनकरा के कबो-कबो गलती से भ्रमित या बात ना माने वाला समझ लिहल जाला। जब केहू अलग-थलग लागे या कहल बात ना समझे, त कान के जाँच करावे के समझदारी भरल कदम बा।"
+  - q: "बुजुर्ग लोग के आँख कतना बेर जँचावे के चाहीं?"
+    a: "नेशनल इंस्टीट्यूट ऑन एजिंग के सलाह बा कि 60 साल के बाद हर एक या दू साल पर फैली हुई पुतली वाली आँख के जाँच होखे, या जइसन आँख के डॉक्टर बतावस। मधुमेह या हाई ब्लड प्रेशर वाला लोग के आमतौर पर साल में कम से कम एक बेर जाँच करावे के पड़ेला।"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +48,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+सुनने में कमी बुढ़ापा में आम बात बा, आ रिसर्चर लोग एकरा के डिमेंशिया के खतरा के रूप में गंभीरता से लेले बा। लेकिन एकर मतलब ई नइखे कि श्रवण यंत्र डिमेंशिया रोके के पक्का तरीका बा; अब तक के सबसे बड़ जाँच के नतीजा मिला-जुला रहल बा। ई पन्ना बतावेला कि रिसर्च का कहत बा, कान कइसे जँचवावल जाला, अमेरिका के बिना नुस्खा वाला श्रवण यंत्र का होला, आ बात-चीत कइसे आसान कइल जा सकेला।
 
-## Why does hearing matter for brain health?
+## दिमाग की सेहत खातिर सुनल काहे जरूरी बा?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+सुनने में कमी डिमेंशिया के खतरा से जुड़ल बा। [2024 लैंसेट आयोग](https://doi.org/10.1016/S0140-6736(24)01296-0) के अनुमान बा कि दुनिया भर में डिमेंशिया के लगभग 7% मामला एकरा से जुड़ल बा। [UCL के रिपोर्ट के सारांश](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) के मुताबिक, आयोग के मॉडल में 14 बदलल जा सकेवाला कारक में ई बराबर रूप से सबसे बड़ हिस्सा वाला कारक बा, जेकरा साथे उच्च LDL कोलेस्ट्रॉल भी बराबर पर बा।
 
-Key findings from the Commission:
+आयोग के मुख्य बात:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **सुनने में कमी से ज्यादा खतरा।** छह अच्छा स्तर के अध्ययन के संयुक्त विश्लेषण में, सुनने में कमी वाला लोग में डिमेंशिया के खतरा सामान्य सुनने वाला लोग से लगभग 37% ज्यादा पावल गइल।
+- **कमी जेतना ज्यादा, खतरा ओतना ज्यादा।** जेकरा में कमी के गंभीरता पर अध्ययन भइल, ओहमें सुनाई जेतना खराब भइल, खतरा ओतना बढ़ल।
+- **संभावित कारण, जे अभी तक पक्का नइखे।** इहाँ अकेलापन आ अलग-थलग पड़ल, उदासी, दिमाग के कम उत्तेजना, आ सुने में लागे वाला अतिरिक्त मानसिक मेहनत के बात होला।
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+सुनने में कमी आम बा। [नेशनल इंस्टीट्यूट ऑन एजिंग (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) के कहनाम बा कि बुजुर्ग लोग में लगभग एक-तिहाई के ई दिक्कत होला, आ उमिर बढ़े के साथे एकर संभावना बढ़ेला।
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE श्रवण यंत्र जाँच में का निकलल?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE सुनने के यंत्र आ दिमाग के गिरावट पर पहिल रैंडम जाँच रहल। एकर नतीजा अक्सर गलत ढंग से बतावल जाला, एसे [प्रकाशित जाँच रिपोर्ट](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) से पूरा ब्यौरा इहाँ बा।
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **कउन लोग शामिल रहल:** अमेरिका के चार सामुदायिक केंद्र में 70 से 84 साल के 977 वयस्क, जिनकर सुनने में कमी बिना इलाज के रहल आ सोचे-समझे में कवनो बड़ दिक्कत ना रहल।
+- **तुलना का रहल:** आधा लोग के श्रवण यंत्र आ ऑडियोलॉजिस्ट साथे परामर्श सत्र मिलल। बाकी आधा लोग के स्वस्थ बुढ़ापा पर स्वास्थ्य शिक्षा कार्यक्रम मिलल।
+- **मुख्य नतीजा:** तीन साल बाद दुनों समूह में कुल मिला के दिमाग के गिरावट में **कवनो फरक ना** देखाइल।
+- **उप-समूह के नतीजा:** जाँच में लोग दू स्रोत से लिहल गइल। 238 लोग एगो लंबा चले वाला हृदय स्वास्थ्य अध्ययन (ARIC) से रहल, आ ई समूह के दिमाग के गिरावट के ज्यादा खतरा रहल। एह समूह में श्रवण यंत्र से गिरावट **48% धीमा** भइल। 739 स्वस्थ सामुदायिक स्वयंसेवक में कवनो साफ असर ना देखाइल।
 
-How to read this honestly:
+एकरा ईमानदारी से कइसे पढ़ल जाव:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- कुल मिला के जवाब रहल कि कवनो असर ना भइल।
+- उप-समूह वाला नतीजा पहिले से तय रहल, लेकिन ई छोटा समूह के दूसरका विश्लेषण से आइल बा। एकरा के दूसरा अध्ययन में पक्का करे के जरूरत बा।
+- भाग लेवे वाला लोग जानत रहल कि उ कवन कार्यक्रम में बा, आ ई नतीजा पर असर डाल सकेला।
+- लैंसेट आयोग के पढ़ाई ई बतावेला कि श्रवण यंत्र उ लोग खातिर खास तौर पर मददगार लागत बा, जिनकर सुनने में कमी के साथे डिमेंशिया के दूसरा खतरा भी बा।
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+सार बात ई बा कि श्रवण यंत्र डिमेंशिया रोके के पक्का तरीका नइखे। लेकिन ई लोग के सुनवे में मदद करेला, बात-चीत में शामिल होखे में मदद करेला, आ लोग से जुड़ल रहे में मदद करेला। एही खातिर एकर पर विचार करे लायक बा।
 
-## How do I know if hearing should be checked?
+## कब लागे कि कान के जाँच होखे के चाहीं?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA के सुझाव बा कि अगर आप या जेकर देखभाल आप करतानी, उ लोग में ई बात होखे, त डॉक्टर से मिलीं:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- फोन पर बात समझे में दिक्कत होखे
+- दू या ओकरा से जादा लोग बोलत होखे त बात-चीत के पालन करे में कठिनाई होखे
+- बार-बार दोहरावे खातिर कहे के पड़े
+- टीवी इतना तेज चलावे के पड़े कि दूसरा लोग शिकायत करे
+- पृष्ठभूमि में शोर होखे त बोली समझे में कठिनाई होखे
+- लागे कि लोग धीरे-धीरे या अस्पष्ट बोलत बा
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+पहिले प्राथमिक चिकित्सक (प्राइमरी केयर डॉक्टर) से मिलीं, जे आप के ऑडियोलॉजिस्ट (सुनने के विशेषज्ञ) या कान, नाक आ गला के डॉक्टर के पास भेज सकत बाड़न। कान के मैल जमल भी सुनने में कमी के एगो आम कारण ह, जेकरा डॉक्टर जाँच सकेलन। **अचानक सुनाई कम होखल एगो मेडिकल इमरजेंसी ह**, आ NIA के सलाह बा कि तुरंत डॉक्टर के देखाईं।
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+सुनने में कमी के कबो-कबो भ्रम समझ लिहल जाला। NIA बतावेला कि जे बुजुर्ग ठीक से सुन ना पावेलन, उनकरा के कबो-कबो गलती से भ्रमित, ना जवाब देवे वाला या सहयोग ना करे वाला समझ लिहल जाला। अगर केहू अलग-थलग लागे या कहल बात ना समझे, त कान के जाँच शुरुआत में उठावे लायक अच्छा कदम बा।
 
-## What are over-the-counter hearing aids?
+## बिना नुस्खा वाला श्रवण यंत्र का होला?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+23 अक्टूबर 2022 के बाद से, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) बिना नुस्खा (ओवर-द-काउंटर या OTC) श्रवण यंत्र के एगो श्रेणी के अनुमति देले बा। नुस्खा वाला यंत्र से एकर तुलना इहाँ बा:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| विशेषता | बिना नुस्खा वाला यंत्र | नुस्खा वाला यंत्र |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| एकरा केकरा खातिर बा | 18 साल या ओकरा से ऊपर के वयस्क, जेकरा हल्का से मध्यम सुनने में कमी महसूस होला | कउनो भी उमिर आ सुनने में कमी के कवनो स्तर |
+| कहाँ से मिली | दुकान या ऑनलाइन से, जाँच या नुस्खा के जरूरत ना | लाइसेंसधारी सुनने के विशेषज्ञ के जरिए |
+| फिटिंग | आप खुद सेटिंग ठीक करेनी, अक्सर ऐप से | एगो पेशेवर आप के सुनाई के हिसाब से सेट करेला |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA कहत बा कि बिना नुस्खा वाला यंत्र गंभीर या बहुत गहरा सुनने में कमी खातिर ना बनल बा। अगर आप में ई लक्षण बा, त खरीदे से पहिले, खासकर कान, नाक आ गला के विशेषज्ञ से, डॉक्टर के देखाईं:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- कान में दरद या बेचैनी
+- पिछला छह महीना में कान से पानी, मवाद या खून निकलल
+- अचानक या घटत-बढ़त वाला सुनाई में बदलाव
+- एक कान में सुनाई ज्यादा कम होखल, या सिर्फ एक कान में घंटी जइसन आवाज
+- चक्कर या घुमरी
+- कान में बहुत मैल
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+श्रवण यंत्र के आदत डालेके में समय लागेला, एसे FDA के सलाह मानीं आ खरीदे से पहिले वापसी नीति जाँच लीं। NIA सुझावेला कि पूछीं कि आप के बीमा से खरचा के कुछ हिस्सा मिली कि ना। डिमेंशिया वाला इंसान खातिर, ऑडियोलॉजिस्ट मदद कर सकेलन कि कवन तरह के यंत्र आ फिटिंग रोज के इस्तेमाल में सबसे आसान रही।
 
-## How can I talk more easily with someone who has hearing loss?
+## सुनने में कमी वाला इंसान से आसानी से बात कइसे कइल जाव?
 
-The NIA suggests:
+NIA के सुझाव बा:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **सामने मुँह करीं आ आँख से आँख मिलाईं**, अच्छा रोशनी में, ताकि उ होंठ आ चेहरा के भाव देख सकस।
+2. **शांत जगह खोजीं।** टीवी बंद करीं या शोर से दूर चलल जाव।
+3. **थोड़ा तेज बोलीं, लेकिन चिल्लाईं मत।** सहज ढंग से आ ठीक रफ्तार से बोलीं।
+4. **मुँह साफ दिखे दीं।** बोलत घरी कुछ खाईं मत, च्युइंग गम मत चबाईं, मुँह मत ढकीं।
+5. **जब कउनो बात छूट जाव, त दोहरावे के जगह दूसरा शब्द में कहीं।**
+6. **एक बेरा में एक आदमी बोले।** समूह में बोले घरी जान-बूझ के उ इंसान के भी बात में शामिल करीं।
+7. **धैर्य रखीं आ पूछीं कि हम का मदद कर सकत बानी।**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+ई सुझाव [डिमेंशिया से बात-चीत के सुझाव](/caregiving/communication-tips/) साथे बढ़िया काम करेला। तस्वीर वाला गतिविधि भी सुनने के दबाव कम करेला। [पिक्चर पेयर्स](/games/picture-pairs/) आ [कन्वर्सेशन कार्ड्स](/games/conversation-cards/) में देखल चीज पर बात होखेला, आ [फिनिश द सेइंग](/games/finish-the-saying/) में अंत बोले के जगह देखा के बतावल जाला। फोन या वीडियो कॉल खातिर हमार [फोन और वीडियो कॉल](/activities/phone-and-video-calls/) वाला गाइड देखीं।
 
-## Vision matters too
+## आँख के भी ध्यान रखल जरूरी बा
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 में लैंसेट आयोग बिना इलाज वाला आँख के कमजोरी के नया खतरा के रूप में जोड़ले रहल। UCL के सारांश के मुताबिक एकर हिस्सा डिमेंशिया के लगभग 2% मामला में बा, आ आयोग सलाह देले बा कि आँख के समस्या के जाँच आ इलाज सबके मिले के इंतजाम होखे। [NIA के सलाह](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) बा कि 60 साल के बाद हर एक या दू साल पर फैली हुई पुतली वाली आँख के जाँच करवावल जाव, आ चश्मा के नुस्खा भी जाँचल जाव। आँख में थोड़ बदलाव भी गिरे के खतरा बढ़ा सकेला।
 
-## Talk with a doctor
+## डॉक्टर से बात करीं
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+ऊपर वाला कउनो लक्षण दिखे त सुनने आ आँख के जाँच खातिर डॉक्टर से पूछीं। अचानक सुनाई कम होखे, कान में दरद होखे, या कान से पानी निकले त तुरंत इलाज करावीं। अगर आप कउनो डिमेंशिया वाला इंसान के देखभाल करत बानी, त उनकर डॉक्टर के सुनने या आँख में आइल बदलाव के बारे में बताईं, काहे कि एसे मन, सुरक्षा आ लोग के गतिविधि में शामिल होखे के क्षमता पर असर पड़ सकेला।
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+ई पन्ना सामान्य जानकारी ह, चिकित्सा सलाह ना। हमार [मेडिकल डिस्क्लेमर](/medical-disclaimer/) देखीं। [सामाजिक जुड़ाव और दिमाग की सेहत](/brain-health/social-connection/) के बारे में अउर पढ़ल जा सकेला।

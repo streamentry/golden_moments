@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Intermittent fasting mo dementia: Wanem ol risej i talem"
+seoTitle: "Intermittent fasting mo dementia: Wanem risej i talem"
+description: "Pruf long intermittent fasting mo dementia i no plenti. Lanem ol risk long ol olfala, mo wae kakae mo dring i moa important long ol persin we oli gat dementia."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  I no gat gud pruf se intermittent fasting i save stopem o slowem dementia.
+  Plenti risej i stap long ol animol, mo ol stadi long ol olfala long ol man mo
+  woman i smol mo i short. Fasting i ken i danis long ol olfala: lus long wet
+  mo muskol, sugar long blud i go daon tumas wetem sam medisin blong sugar,
+  drae, mo foldaon. Long ol persin we oli gat dementia, kakae mo dring i enaf i
+  usually i moa bigfala wari. Toktok wetem dokta fastaem.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Nasonal Institute on Aging i talem se i no gat pruf i enaf blong ritim ani fasting o kalori-restriction diet, espesol long ol olfala."
+  - "Plenti risej long fasting mo ageing i kam long ol animol, mo ol rizalt ia i no nesesari i stret long ol man mo woman."
+  - "Ol posibol risk long ol olfala i gat lus long wet we oli no plan, lus long muskol, sugar long blud i go daon tumas wetem sam medisin blong sugar, drae, dizzines mo foldaon."
+  - "Ol persin we oli gat dementia oli oltaem fogetem blong kakae o dring, o oli tingting se oli kakae finis. Haoem oli kakae mo dring i enaf i moa important bigwan taem we oli kakae."
+  - "No yusum fasting long persin we i gat dementia. Toktok wetem dokta o wan spesialis long kakae bifo yu jenisim ani fasin blong kakae."
 faq:
   - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
+    a: "I no gat gud pruf se i save. Plenti risej i stap long ol animol, mo ol tes long ol man mo woman i stap sot taem nomo, oli stap long ol yangfala o ol fat tumas, mo oli fokas long lus long wet. Nasonal Institute on Aging i talem se i no gat pruf i enaf blong ritim ol fasting diet long ol pablik."
   - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
+    a: "Maet i no sef. Fasting i ken i mekem lus long wet mo muskol we oli no plan, drae, dizzines mo foldaon, mo i ken mekem sugar long blud i go daon tumas long ol persin we oli yusum insulin o sam narafala medisin blong sugar. Mayo Clinic i talem se i mey i no gud long ol persin we oli gat bigfala risk blong lus long bon mo foldaon. Toktok wetem dokta bifo yu traem."
   - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
+    a: "Nogat. Ol persin we oli gat dementia oli oltaem gat hard long kakae mo dring i enaf, mo kakae we i no gud i ken mekem ol janis long fasin i bigwan mo i mekem lus long wet. Fasting i karem risk i moa, mo i no gat pruf we i gud. Fokas long ol kakae we i stret, ol snak we oni laekem, mo dring i enaf."
   - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+    a: "Lukaot long lus long wet, klos we i lous moa, i tair, i wik, bel i hard (constipation), o i refusem kakae. Ol sain blong drae we National Institute on Aging i lisim i inkludim drae maot, dizzines, hat we i fas, mo ol lukluk long samting we i no stap. Talem dokta blong hem sapos yu lukim ol samting ia."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Intermittent fasting, olsem kakae nomo long wan taem long eit aoa, o kasem daon tumas long kalori tu dei long wik, i kasem plenti tingting, mo sam atikol i talem se i save protectem bren. Sapos yu wan olfala, o yu lukaotem wan persin we i gat dementia, dae nao i stret blong lukim wanem risej i soem, mo wae i nid blong kea.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Hemia i jenerol infomesen nomo, i no medikol advaes. Yu no gat fasting, o jenisim fasin blong kakae blong persin we yu lukaotem, sapos yu no toktok fastaem wetem dokta o wan spesialis long kakae. Luk tu long [disklemer blong medikol](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Eniwe intermittent fasting i save stopem dementia?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+I no gat gud pruf se intermittent fasting i save stopem o slowem dementia. Nasonal Institute on Aging (NIA) i talem se i no gat pruf i enaf blong ritim ani kaen calorie-restriction o fasting diet, mo plante moa i nid blong lanem long wanem i wok mo i sef, espesol long ol olfala ([NIA long calorie restriction mo fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Wae pruf i no plenti
 
-The NIA gives several reasons:
+NIA i givim sam risen:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Plenti stadi i stap long ol animol.** Ol risej long ol vom, ol fly, ol mausi mo ol monkey i soem sam intristing rizalt, be ol rizalt ia i no nesesari i stret long ol man mo woman. Even long ol animol, ol rizalt i no seem; long sam kaen mausi, kalori restriction i mekem laef i sot.
+- **Ol tes long man mo woman i short.** Plenti long olgeta i laes nomo sam wik o sam manis.
+- **Plenti tes long man mo woman i fokas long lus long wet** long ol man mo woman we i fat tumas, i no fokas long memori o dementia.
+- **Ol olfala oli no kasem long ol tes.** Plenti tes i kasem nomo ol persin we oli 60 yia o smol.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Wan systematic review long 2026 i lukluk spesel long intermittent fasting long ol man mo woman we oli 60 yia o moa. I faenem se pruf long grup ia i stap smol nomo, wetem ol smol stadi, sot follow-up mo ol defren desen. Ol faending long tingting mo memori i kam long ol individual stadi, no long wan bigfala tes. Review ia i talem tu se sam stadi i linkem ol smol kakae windo o ol longfala fasting wetem ol nogud resalt, mo ol man we oli raetem i talem se olfala oli mas kea ([review long 2026 long Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Sam risej i tingting se taem bodi i jenisim fat blong save long taem blong fasting i ken i afektem brein, be hemia i stap nomo wan tiori we oli stadi yet. NIA i talem se saens i no sua yet.
 
-## What are the risks of fasting for older adults?
+## Wanem ol risk blong fasting long ol olfala?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Fasting i no wan seif eksperimen long plenti olfala. Ol posibol risk i inkludim:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Lus long wet we oli no plan.** Kakae i no enaf long wanem bodi i nidim i ken mekem lus long wet mo muskol i wik, mo persin i ken i wik moa.
+- **Lus long muskol mo bon.** Long wan tu-yia tes we NIA i sapotem, long ol yangfala mo ol man mo woman we oli midol eis, ol man mo woman i lus smol long bon denses mo lean bodi mas.
+- **Sugar long blud i go daon tumas wetem medisin blong sugar.** Ol persin we oli yusum insulin o sam narafala medisin blong sugar oli ken i gat sugar long blud i go daon tumas sapos oli skipem o slowem kakae, olsem ol talem long [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Sugar i go daon i ken mekem dizzines, konfiusen mo kros.
+- **Drae.** Sapos oli skipem dring wetem kakae, persin i ken i drae.
+- **Dizzines mo foldaon.** Mayo Clinic i talem se intermittent fasting i ken mekem ol persin i tair tumas mo i dizzi, mo i no wan gud fasin long ol persin we oli gat bigfala risk blong lus long bon mo foldaon ([Mayo Clinic long intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Ol narafala efek.** Mayo Clinic i listimap tu hed-hed, janis long fil mo hard long bel, mo i talem se sam pruf i soem se 16-aua fasting wetem 8-aua kakae windo i ken i raes risk blong heart disis, komperem long ol narafala kakae windo. Pruf ia i no sua yet.
 
-## Why is eating enough the bigger concern with dementia?
+## Wae kakae i enaf i bigfala wari long dementia?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Long ol persin we oli gat dementia, usually problem i blong **kasem** kakae mo dring i enaf, i no blong kakae tumas. Alzheimer's Association i talem se ol persin long midol mo laste stej oli ken i feel se oli no save long ol jous blong kakae, oli fogetem blong kakae, o oli tingting se oli kakae finis. I talem tu se kakae we i no gud i ken mekem ol janis long fasin i bigwan mo i mekem lus long wet ([Alzheimer's Association long fud mo kakae](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society i talem se kakae we i no enaf i ken mekem lus long wet, lus long muskol, tair mo wik, mo persin i kam wik moa mo i no save kam bak kwiktaem long sik ([Alzheimer's Society long laef blong kakae](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Long ol rison ia, fasting i no gud fasin long persin we i gat dementia.** Ol kakae we oli skipem i ken isi i kam ol kakae we oli miss. Eni janis long hao persin we i gat dementia i kakae i mas i kam long dokta blong hem o wan spesialis long kakae.
 
-## What are the warning signs of poor eating or drinking?
+## Wanem ol sain blong wan persin we i no kakae o dring i enaf?
 
-Watch for:
+Lukaot long:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Lus long wet**, o klos we i lous moa.
+- **Livim kakae o refusem kakae**, o holem kakae long maot.
+- **Tair o wik.**
+- **Hard long bel (constipation)**, we i ken i gat konek wetem kakae mo drae.
+- **Sain blong drae.** NIA i lisim drae maot, dizzines, hat we i fas, mo ol lukluk long samting we i no stap, we dementia tu i ken i mekem ([NIA long ol komon medikol problem](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Oltaem i gat plante samting we i ken mekem persin i no wantem kakae: tut we i sot o denja we i lous, nu medisin, sik we i stap long hed, hard long bel, i no movum bodi tumas, o janis long tes mo smel. Talem dokta blong persin ia long ol sain ia. Oli save lukluk long wanem i kosem, mo oli save sajestem wan spesialis long kakae o ol sapliment.
 
-## How can you help someone eat and drink enough?
+## Hao yu save helpem wan persin i kakae mo dring i enaf?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Givim smol kakae mo snak plante taem**, i gat moa gud dan tri bigfala kakae.
+- **Serve ol kakae we oli laekem**, mo oli no ken stret long janis long tes we i jenis. Ol switi kakae i ken i gud sapos appetite i no gud; askem dokta sapos i gat helt risen blong limitim sugar.
+- **Putum dring long ples we i kolsap**, mo givim smol kap long wan dei. Sup, fruit, smoothie mo milkshake oli kaontem tu.
+- **Kakae wetem ol narafala sapos yu save.** Taem blong kakae i wan taem blong kompani, no wan wok we yu mas rasim.
+- **Traem ol finga fud**, olsem sanwij, fruit slaes o chicken pisis, sapos ol naef mo fok i hard long ol.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+[Gaed blong kakae](/brain-health/diet/) blong yumi i gat moa aedia long taem blong kakae. Helpem long redi kakae i ken tu i wan hapi joen akti; luk [ol haos wok](/activities/household-tasks/).
 
-## Talk with a doctor
+## Toktok wetem dokta
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Bifo yu traem eni fasting plan yu wan, toktok wetem dokta blong yu o wan spesialis long kakae, espesol sapos yu yusum medisin blong sugar o blong blad presa, yu lus long wet long sot taem, o yu bin foldaon. Long wan persin we i gat dementia, askem dokta blong hem long hamas hem i mas kakae mo dring long wan dei, i nomo askem long fasting.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Go kasem hely long hospitol kwiktaem sapos i gat sudden konfiusen, pelet, o sain blong sugar long blud we i low tumas we i no kam gud kwiktaem.

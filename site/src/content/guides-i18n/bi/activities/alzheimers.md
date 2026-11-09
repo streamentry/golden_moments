@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Ol Aktiviti mo Gem blong Ol Man we Gat Alzheimer's"
+seoTitle: "Ol Aktiviti mo Gem blong Alzheimer's: Aedia long Evri Stej"
+description: "Ol aktiviti mo gem blong ol man we gat Alzheimer's long evri stej, we oli yusum ol skil mo memori we oli stap longfala, wetem ol fri gem blong pleiem wantem."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Ol gud aktiviti blong wan man we gat Alzheimer's oli depen long ol samting we
+  oli stap longfala: ol skil we oli bin praktisim longtaem, ol olfala singsing,
+  ol wok we oli wok long hom, mo ol sens. Long fastaem, ol kadi, ol bod gem,
+  kukim kaikai mo ol trip we oli ofen i gud yet. Long midol stej, traem fouj,
+  sortem, singsing, buk foto mo ol simpol pikja gem. Taem sik i kam bigfala, miusik,
+  tas mo kampani i moa important. Go long wanem man ya i stap long naoia.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer's i wan long ol sakspela kost blong dementia, so ol aedia blong aktiviti long dementia i apllae long hem tu."
+  - "Nyufala infomesen i moa had long fastaem, be ol skil mo ol singsing we oli lem longtaem bifo oli ofen stap moa longfala. Yusum ol samting ya olsem bisin."
+  - "Ol stej oli overlap mo ol gud dei mo ol hard dei i nomol. Jusum long wanem man ya i save duim mo i laekem naoia."
+  - "Jusum ol gem we i no gat taem, skor o kwestin, mo lusum ol pikja i stap sraed."
+  - "Lukluk, holem wan samting o jas sidaon wetem i olsem yu wetem long aktiviti."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Wanem ol aktiviti we i gud long wan man we gat Alzheimer's?"
+    a: "Ol fomiliar aktiviti we i wan smol simpol: fouj ol klos, setem tebol, kukim kaikai wetem, miusik mo singsing, lukluk ol foto, wokabaot, gaden mo taem wetem wan pet. Ol simpol pikja gem, ol isi jigsoo mo ol kadi blong toktok tu i gud long plante man. Jusum wanem man ya i bin laekem longtaem mo duim wetem hem."
+  - q: "Ol gem i gud long ol man we gat Alzheimer's?"
+    a: "Ol gem i save kasem gud taem blong stap wetem, sipos man ya i laekem. Nogat gem we i bin prufum se i save heled, slowem o stopem Alzheimer's, so jusum ol gem blong pleja nomo: ol bigfala pikja, ol fyu jus, mo nogat taem, skor o saon we i kasem rong ansa."
+  - q: "Ol aktiviti blong dementia mo ol aktiviti blong Alzheimer's i gat difren?"
+    a: "Moa samting i nogat. Alzheimer's i wan long ol sakspela kost blong dementia, mo ol aedia blong aktiviti i apllae sem. Wanem i helpem long Alzheimer's i save we ol nyuspla memori usually i fed fastaem, so ol aktiviti we oli bil long ol olfala skil, singsing mo rutin, oli ofen go gud moa."
+  - q: "Wanem samting man we i gat Alzheimer's long laswan stej i save laekem yet?"
+    a: "Miusik we i laekem, wan smol soft masej long han, ol soft samting blong holem, man i ridim buk long hem, sidaon aotsaed, mo kampani blong wan man we hem i trastem. Mekem i sot mo kwaet, mo lukluk long fes mo bodi blong hem blong save wanem i laekem."
+  - q: "Hao blong mekem wan man we gat Alzheimer's i intrest long wan aktiviti?"
+    a: "Askem hem blong helpem yu, no talem stret wan aktiviti, setem evri samting i stap fastaem, mo yu stat long hem blong hem i save joenem. Jusum taem long dei we hem i stap long gud stet i mekem bigfala difrens. Sipos hem i talem no, traem bakegen lata o ofrem wan smoluan ver."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Sipos man we yu lavem i gat Alzheimer's, yu prabli i sose finis se sam samting i lus kwik, be sam narafala samting i stap longfala. Hem i ken lusum tingting long kol we i kasem hem tedei, be hem i stil singsing evri wod blong wan hymn, fouj wan taol olsem we hem i bin fouj longtaem, o hem i divaet wan han kad witaot i tingting. Ol gud aktiviti oli bildim long ol skil ya we oli stap longfala. Pej ya i eksplenem wae, mo i givim ol aedia long eac stej mo ol fri gem long sanvsaet we i sut long ol stej ya.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Eni Alzheimer's i defren long dementia long saed blong aktiviti?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+I no defren plante. Dementia i wan bigfala tingting we i kavrem evri samting, mo Alzheimer's disease i wan long ol sakspela kost blong hem: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) i talem se i kasem 60 long 80 pesen blong ol kes blong dementia. Klosap evri samting we oli raetem long aktiviti blong dementia i apllae long Alzheimer's, inkludim [101 aedia blong aktiviti](/activities/ideas/) blong yumi.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Wanem i yusful blong save, hem ol usual oda blong jenjen. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) i eksplenem se Alzheimer's fastaem i damejem ol pat blong bren we i yusum long memori, mo afta i kasem langwis, tingting mo ol soso fasin. Alzheimer's Association i talem se fastaem sign we i ofen kamaot i hadwan blong tingbaut nyuspla infomesen we oli jes lenem. Evri man i defren, mo plante man i gat ol vaerios kos, be fasin ya i fomem wanem i tende blong wok gud.
 
-## What kinds of activities suit Alzheimer's best?
+## Wanem kaen aktiviti i sut moa long Alzheimer's?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Ol aktiviti we oli bisin long ol olfala save we oli bin praktisim gud longtaem, usually i go smoth moa winim ol samting we i nidim blong lenem wan samting nyu mo holem long tingting.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Ol skil we oli bin praktisim longtaem.** Alzheimer's Association i talem se wan man i save stil pleiem ol simpol singsing we hem i bin lenem long piano longfala bifo. Nitim, rabem wud, sifaelem ol kad, nidim dof mo fouj ol klos, oli sem.
+- **Ol olfala singsing mo fomiliar miusik.** Plante man i stil save evri wod blong ol singsing long taem blong yut mo twenti yiа blong hem, ol hymn mo ol singsing long bigfala dei blong marit. Lukim [ol aktiviti blong miusik](/activities/music/).
+- **Ol ded blong ol wok long hom we i gat wan presis.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i lisim ol wok olsem wasim dis, setem tebol, sotem sok mo fouj ol klos long ol aktiviti we ol man i save laekem. Fasin blong save se hem i yusful i impoten.
+- **Ridim, no ridembred.** Pointem long matjing pikja i isi moa winim taem we yu mas talem nem blong hem long memori. From samting ya, ol pikja gem we evri samting i stap long vyu i gud moa winim ol kwis.
+- **Ol sens.** Tas, smel, hitnes, kaikai mo saon oli stap i gat minin longtaem afta ol wod oli hadwan. Lukim [ol sensori aktiviti](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Ol samting we i ofen i no gud: wan klok, ol nyu rul blong lenem, plante step blong tingbaut, o ol kwestin we i testem memori, olsem "Yu tingbaut hu i man ya?" Ol samting olsem i putum hard pat blong Alzheimer's i stap long fastfrant.
 
-## Activities for early-stage Alzheimer's
+## Aktiviti long fastaem stej blong Alzheimer's
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Long fastaem stej, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) i talem se wan man i save stil draevem motokaa, wok mo joen ol soso aktiviti, be hem i ka lukaot ol taem we memori i faelem, olsem i foget ol fomiliar wod o ples we ol samting oli stap. Bes fasin i partnaship: askem wanem hem i wantem blong stap duim mo wanem help hem i wantem.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Stap duim ol hobi we i stap finis.** Golf, bridge, kwilting, kwaea mo jijis grup, wetem ol smol jenjen olsem smolwan grup mo kwaet taem.
+2. **Pleiem ol kad mo bod gem we oli fomiliar.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i lisim trivia, wod faenem, kad gem mo bod gem blong fastaem stej. Pleiem olsem tim sipos skoa i stat i wari hem, o lusum skoa nomo.
+3. **Kukim kaikai wetem.** Letem hem i ridim wan resipi we hem i save bigwan, mo yu i hanglem ridim ol step.
+4. **Stat wan projek blong laef stori.** Foto, resipi mo stori long wan skrapbuk we hem i direktem. Lukim [ol aktiviti blong tingbaut ol taem bifo](/activities/reminiscence/).
+5. **Go long ol trip.** Wan fevrit resturan long wan kwaet taem, wan miusiem blong wan smol taem, wan wokabaot long pak.
+6. **Traem ol pasol we hem i jusum.** Bigfala-prin kraswod, wod sej mo jigsoo. Lukim [ol pasol blong dementia](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Moa aedia: [aktiviti long fastaem stej](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktiviti long midol stej blong Alzheimer's
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association i diskraebem midol stej olsem wan we i usually i longfala moa, mo i talem se hem i save stap plante yia. Ol wod oli mikisem, i isi moa blong hem i kros, mo man ya i nidim moa kea. Alzheimer's Foundation of America i addem se plante man i nidim help blong stat o kontinum ol aktiviti. Rol blong yu i jenis i go long setemap ol samting, soem winim eksplen, mo tekem ol hard pat.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Fouj, sortem mo matjem.** Ol tauel, sok, sinkas, ol bitn blong ol kala. Ol ri wok, duim saed bae saed.
+2. **Singsing mo muv long miusik.** Klepem han, swae o danis long kitjin. Stat singsing yu wan mo letem hem i joenem.
+3. **Lukluk long ol foto buk.** Describem wanem yu luk mo askem ol stori: "Wanem wan kar. Talem mi long hem." Folem wanem nem we hem i yusum.
+4. **Pleiem ol simpol pikja gem.** [Picture pairs](/games/picture-pairs/) wetem fo long sikis tael mo ol pikja we oli stap soem, o [Find the same](/games/find-the-same/) wetem tu o tri jus.
+5. **Finisem ol fomiliar tok.** "Wan aple long ea dei i kipim dokta..." Ol tok we oli lenem longtaem bifo oli ofen kam isi. Traem [Finish the saying](/games/finish-the-saying/), we yu save soem eni ending wetem wan tap.
+6. **Wota mo lukaotem ol plant.** Ol pot insaet o wan raesd bed, wetem wan smol wota kan.
+7. **Mekem wan matjing gem long ol famili foto.** [Photo pairs](/games/photo-pairs/) i yusum ol pikja we yu jusum long divaes blong yu, mo oli nevre aot long hem.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Moa aedia: [aktiviti long midol stej](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktiviti long laswan stej blong Alzheimer's
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Long laswan stej, Alzheimer's Association i talem se ol man oli lusum abiliti blong ridim ol samting raon long olgeta mo blong kasem wan toktok, hemi se oli save stap talem sam wod o fraes. Aktiviti naoia i minim kamfot mo kanekson, we i kasem wea man ya i stap resis.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Pleiem fevrit miusik blong hem** i kwaet, witaot TV i kasem.
+2. **Givim wan masej long han** wetem wan losen we i gat smel we hem i laekem.
+3. **Givim ol soft samting blong holem:** wan blanket we i wom, wan flis, wan smol smut ston.
+4. **Ridim long loud** ol sam, ol poem o wan fomiliar stori. Ritm i impoten moa winim minin.
+5. **Sidaon aotsaed** long saed blong seed, o long wan windo wetem ol bed we i stap lukaot.
+6. **Lukluk long wan bigfala pikja togeta.** Wan sanflaoa o wan dog we i fulum wan tablet skrin, wetem yu i talem wanem yu lukim.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Moa aedia: [aktiviti long laswan stej](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Wanem gem i gud long wan man we gat Alzheimer's?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Jusum ol gem we nating i save fel. Evri gem long saet ya i fri, i ranem long brawza mo i nogat taem, skoa o sainap.
 
-| Game | What you do | Often suits |
+| Gem | Wanem yu duim | Ofen i gud long |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Matjem ol bigfala pikja; oli save stap fes i go antap | Fastaem mo midol stej |
+| [Find the same](/games/find-the-same/) | Tap long pikja we i matj wan we i stap antap | Midol mo laswan stej, wetem help |
+| [Finish the saying](/games/finish-the-saying/) | Jusum laswan wod blong wan fomiliar tok, o soem hem | Fastaem mo midol stej |
+| [Picture puzzle](/games/picture-puzzle/) | Swap 4 o 9 pis bak long ples, wetem pikja i soem | Fastaem mo midol stej |
+| [Conversation cards](/games/conversation-cards/) | Wan pikja mo wan opin kwestin blong toktok long hem | Eni stej, wetem wan man blong toktok wetem |
+| [Photo pairs](/games/photo-pairs/) | Wan matjing gem we i mekem long ol yu oan foto | Fastaem mo midol stej |
+| [Coloring](/games/coloring/) | Tap wan kala, then wan pat blong pikja; o printem | Eni stej, wetem help |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Blong save hao blong sidaon togeta, hao moa help blong givim mo wanem taem blong stopem, ridim [hao blong pleiem gem wetem wan man we gat dementia](/caregiving/how-to-play-together/). Sipos yu wonder long "memori gem", lukim [memori gem blong ol olfala we gat dementia](/activities/memory-games/).
 
-## How to make any activity easier
+## Hao blong mekem eni aktiviti i isi moa
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Ol advaes blong NIA i kam daon long sam fasin: matjem aktiviti long wanem man i save duim, helpem hem blong stat, lukaot long frastresen, mekem sua hem i filim i sakses, mo letem hem i jes lukluk sipos hemi laekem.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Jusum taem long dei we hem i stap long gud stet,** mo mekem ol sesen i sot.
+- **Setem evri samting fastaem** blong yu save stat kwik.
+- **Invaetem, no ordarem.** "Yu save helpem mi?" i gud moa winim "Taem blong wan aktiviti."
+- **Duim fastfas step yu wan** mo letem hem i joenem.
+- **Ofrem wan step mo wan jes long wan taem.**
+- **Letem i kasem wei blong hem.** Taol we i no stret i oltaet.
+- **Stopem taem i stil plesan.** Stopem ran nomo i wan gud rijal, i no wan fel. Sipos hem i ridim, lukim [wanem blong duim taem wan man wetem dementia i talem no](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i talem long wan simpol wei: fokas long plesan, no long wanem i kasem.

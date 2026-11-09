@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Лёгкая віктарына для людзей з дэментыяй, без напружання"
+seoTitle: "Пытанні віктарыны для людзей з дэментыяй, з адказамі"
+description: "50 простых пытанняў віктарыны для людзей з дэментыяй: варыянты адказаў, тэмы для размовы і як весці гульню, каб ніхто не адчуваў сябе выпрабаваным."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Лёгкая віктарына для людзей з дэментыяй добра працуе, калі нагадвае размову, а не экзамен. Пытайцеся пра тое, што засвоілі даўно: старыя песні, прыказкі, святы і паўсядзённае жыццё. Заўсёды прапануйце два-тры варыянты. Адказ называйце адкрыта, нікога не выдзяляйце, не лічыце балы і выкарыстоўвайце кожны адказ, каб пачаць расповед. Пытанні «гэта ці тое», дзе няма няправільнага адказу, падыдуць на пазнейшых стадыях.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Пытайцеся пра добра знаёмае: песні, прыказкі, святы, ежу і паўсядзённае жыццё гадоў таму."
+  - "Прапануйце два-тры варыянты, каб адказ можна было пазнаць, а не прыгадваць."
+  - "Скажыце адказ па-добраму і рухайцеся далей. Любая здагадка, якая пачынае расповед, — добрая здагадка."
+  - "Без балаў, без спаборніцтва каманд і без выклікання аднаго чалавека. Няхай адказы даюць усе ў пакоі."
+  - "Калі выбіраць адказ стае цяжка, пераходзьце да пытанняў «гэта ці тое», дзе няма правільнага адказу."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Ці добры від актыўнасці — віктарына — для людзей з дэментыяй?"
+    a: "Можа быць, калі весці яе мякка. Alzheimer's Foundation of America пералічвае віктарыну сярод заняткаў для ранняй стадыі. Задавайце пытанні пра добра знаёмыя тэмы, прапануйце варыянты, ніколі не ставіце аднаго чалавека ў няёмкае становішча і глядзіце на адказы як на нагоду для размовы, а не як на выпрабаванне."
+  - q: "Якія тэмы лепш за ўсё падыходзяць для віктарыны пра дэментыю?"
+    a: "Лепш за ўсё працуюць тое, што засвоілі даўно: папулярныя песні і спевакі з юнацтва чалавека, знаёмыя прыказкі, святы, ежа, спорт і паўсядзённае жыццё, напрыклад малочнік, які прыносіў малако, і дыскавы тэлефон. Пазбягайце навін і ўсяго, што патрабуе ўспомніць нешта, сказанае раней на тым жа занятку."
+  - q: "Як весці віктарыну ў доме догляду, каб ні да каго не ставілася няёмка?"
+    a: "Чытайце кожнае пытанне ўсёй групе, паказвайце або прагаворвайце варыянты і прымайце адказы ад любога. Не выклікайце людзей паасобку і не ведайце лікаў. Незалежна ад таго, што назвалі, скажыце адказ з усмешкай і спытайце далей, напрыклад: «Хто тут калі-небудзь хадзіў у кінатэатр пад адкрытым небам?» — каб гэта перарасло ў расказы."
+  - q: "Што можна рабіць замест віктарыны на позніх стадыях?"
+    a: "Пераходзьце да пытанняў без няправільнага адказу, напрыклад: «Кава ці чай?» або «Пляж ці горы?», а таксама да разам дакончаных знаёмых песень і прыказак. Добра працуе і разглядванне фатаграфій з апісаннем таго, што на іх."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Віктарына — адна з самых запатрабаваных групавых актыўнасцей у domах догляду і дзённых цэнтрах, і многія сем'і гуляюць у яе і за кухонным сталом. Калі праводзіць яе звычайным спосабам, з балямі і адным чалавекам, які адказвае, чалавек з дэментыяй можа адчуць, што яго паставілі ў няёмкае становішча. Калі весці мякка, гэта жывы спосаб пачуць расказы. Ніжэй 50 простых пытанняў з варыянтамі адказаў і тэмамі для размовы да кожнага, а пасля — як весці занятак.
 
-## How do you make trivia work for someone with dementia?
+## Як зрабіць віктарыну карыснай для чалавека з дэментыяй?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Зрабіце яе пра ўспамін і пазнаванне даўніх рэчаў і прымайце кожны адказ.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Пытайцеся пра далёкае мінулае.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) кажа, што найбольш частым ранім сімптомам хваробы Альцгеймера з'яўляецца цяжкасць з успамінам нядаўна засвоенай інфармацыі. Песні, прыказкі і паўсядзённае жыццё з дзесяцігоддзяў таму часта лягчэй прыгадваюцца.
+2. **Заўсёды давайце варыянты.** Выбраць правільны адказ з двух-трох прасцей, чым назваць яго без падказкі.
+3. **Чытайце пытанні ўслых і паказвайце іх буйна.** Дошка або планшэт, які трымаюць перад групай, дапамагаюць людзям, якія дрэнна чуюць.
+4. **Называйце адказ адкрыта.** Калі ніхто не ведае, скажыце яго ласкава і рухайцеся далей. Ніколі не кажыце: «Ну давайце, вы ж ведаеце».
+5. **Без балаў.** Ні для асобных людзей, ні для сталоў. Калі людзі хочуць лік, вядзіце адзін агульны падлік для групы.
+6. **Ніколі не выклікайце аднаго чалавека.** Дайце адказваць любому. Пры індывідуальнай размове адказвайце разам: «Мне здаецца, гэта фартэпіяна. А вы што думаеце?»
+7. **Карыстайцеся тэмай для размовы.** Адказ — гэта пачатак, а не канец. Галоўная мэта — расказы.
+8. **Не зацягвайце.** Дзесяць пытанняў з расказамі паміж імі — дастаткова.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) фармулюе галоўнае правіла проста: сачыце, ці не расчароўваецца чалавек, і падтрымлівайце ў ім адчуванне поспеху. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) пералічвае віктарыну сярод заняткаў для ранняй стадыі. На сярэдняй стадыі трымайцеся двух варыянтаў і спадзявайцеся на тэмы для размовы. Пазней пераходзьце да пытанняў «гэта ці тое», пра якія ніжэй.
 
-## Music and entertainment trivia
+## Віктарына пра музыку і забавы
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Адказ вылучаны **тлустым**. Падбірайце пытанні пад канкрэтнага чалавека: той, хто расцёў на песнях Motown, захоча іншых спевакоў, чым той, хто слухаў аркестры біг-бэнду.
 
-| Question | Choices | Talk about |
+| Пытанне | Варыянты | Пра што пагаварыць |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Каго называлі каралём рок-н-ролу? | **Элвіс Прэслі**, Фрэнк Сінатра, Бінг Кросбі | Ці бачылі вы Элвіса па тэлевізары? |
+| Які спявак меў мянушку Ol' Blue Eyes? | Дын Марцін, **Фрэнк Сінатра**, Пэры Комо | Якая песня Сінатры вам падабаецца больш за ўсё? |
+| Бінг Кросбі марыў пра белае... | **Раство**, вяселле, дом | Праспявайце разам радок |
+| Луіс Армстранг спяваў «What a Wonderful...» | Дзень, **Свет**, Жыццё | Што ў свеце здаецца вам цудоўным? |
+| «Over the Rainbow» спявала Джудзі Гарленд у якім фільме? | ***The Wizard of Oz***, *Gone with the Wind*, *Singin' in the Rain* | Дзе вы глядзелі свае любімыя фільмы? |
+| Хто іграў Люсі ў «I Love Lucy»? | **Люсіл Бол**, Дорыс Дэй, Бэці Уайт | Якія перадачы вашая сям'я глядзела разам? |
+| Які каўбой ездзіў на кані Трыгер? | **Рой Роджэрс**, Джын Отры, Джон Уэйн | Вы ў дзяцінстве гулялі ў каўбояў? |
+| Хто вёў «The Tonight Show» 30 гадоў? | Эд Саліван, **Джоні Карсан**, Боб Хоуп | Вы калі-небудзь не спалі, каб паглядзець тэлевізар? |
+| На якім інструменце 88 клавіш? | Гітара, **фартэпіяна**, труба | Хто ў вашай сям'і іграў? |
+| Які танец лічыцца адзін-два-тры, адзін-два-тры? | **Вальс**, твіст, танга | Дзе вы хадзілі на танцы? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Больш пра музыку — у [музычных заняттах для людзей з дэментыяй](/activities/music/).
 
-## Everyday life trivia
+## Віктарына пра паўсядзённае жыццё
 
-| Question | Choices | Talk about |
+| Пытанне | Варыянты | Пра што пагаварыць |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Перад халадзільнікамі многія дамы трымалі ежу халоднай у... | **ледніку**, духоўцы, гарышчы | Хто прывозіў лёд? |
+| Хто прыносіў малако да дзвярэй у шклянных бутэльках? | Паштальён, **малочнік**, разнасчык газет | Што яшчэ прыносілі ў дом? |
+| Як вы набіралі нумар на дыскавым тэлефоне? | Націскалі кнопкі, **круцілі дыск**, размаўлялі з ім | Раскажыце пра тэлефон у вашым доме |
+| Якая кампанія выпускала аўтамабіль Model T? | **Ford**, Chevrolet, Buick | Раскажыце пра машыну, якая вам падабалася |
+| Хто за прылаўкам газіраванай бары прыгатоўваў напоі? | **Бармен газіраванай бары**, пякар, банкір | Што вы заказвалі за прылаўкам? |
+| Якая цацка — металічная спружына, што можа спускацца па прыступках? | Ёё-ёё, **Slinky**, абруч | Якія цацкі вы любілі? |
+| Drive-in — гэта месца, дзе глядзелі... | **фільмы са свайго аўто**, матчы, парады | З кім вы хадзілі? |
+| Чый твар на купюры ў адзін долар? | Лінкальн, **Джордж Вашынгтан**, Джэферсан | Што можна было купіць на долар тады? |
+| Чый твар на манеце ў адзін цэнт? | **Аўраам Лінкальн**, Вашынгтан, Франклін | Вы ў тыя часы складалі цэнты ў слоік? |
+| Які звычайна колер школьнага аўтобуса? | Чырвоны, **жоўты**, сіні | Як вы дабіраліся да школы? |
 
-## Holidays, nature and places
+## Святы, прырода і месцы
 
-| Question | Choices | Talk about |
+| Пытанне | Варыянты | Пра што пагаварыць |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| У які свята ў чацвёрты чацвер лістапада ўсе дзякуюць? | Дзень працы, **Дзень падзякі**, Дзень памяці | Што заўсёды было на вашым стале? |
+| Гарбузовыя ліхтары робяць да якога свята? | **Хэлаўін**, Вялікдзень, Раство | Раскажыце пра Хэлаўін там, дзе вы выраслі |
+| Чацвёрты ліпеня адзначаюць Дэкларацыю... | Правоў, **Незалежнасці**, Свабоды | Дзе вы глядзелі салюты? |
+| Дзень маці ў якім месяцы? | Красавік, **май**, чэрвень | Як ваша сям'я адзначала? |
+| Колькі зорак на амерыканскім сцягу? | 48, **50**, 52 | Да 1959 года на сцягу было 48 зорак. Любы з адказаў — добры ўспамін |
+| Які акіян на ўсходнім узбярэжжы? | Ціхі, **Атлантычны**, Паўночны Ледавіты | Вы калі-небудзь былі на пляжы? |
+| У якім горадзе Статуя Свабоды? | Бостан, **Нью-Ёрк**, Філадэльфія | Вы былі ў Нью-Ёрку? |
+| Што робяць пчолы? | Малако, **мёд**, шоўк | Мёд на тосце або ў гарбатзе? |
+| Як называецца маленькае цяля? | Жарабя, **цяля**, казляня | Вы калі-небудзь жылі побач з фермай? |
+| Якая высокая жоўтая кветка вядомая тым, што паварочваецца да сонца? | Ружа, **сланечнік**, цюльпан | Што расло ў вашым садзе? |
+| Колькі дзён у високасным годзе? | 365, **366**, 360 | Раскажыце пра дзень нараджэння, які вы памятаеце |
+| Які сезон ідзе пасля зімы? | Восень, **вясна**, лета | Які ваш любімы сезон? |
 
-## Food and sports trivia
+## Ежа і спорт
 
-| Question | Choices | Talk about |
+| Пытанне | Варыянты | Пра што пагаварыць |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Ізюм — гэта сушаны... | Сліва, **вінаград**, вішня | Вы клалі ізюм у дзіцячыя скрынкі з ядой? |
+| Чарнасліў — гэта сушаная... | **Сліва**, інжыр, яблык | Хто ў вашай сям'і любіў чарнасліў? |
+| Арахісавае масла і... | **джэм**, сыр, шынка | З крупінкамі ці гладкае? |
+| Гуакамолі робяць у асноўным з... | гарошку, **авакада**, агуркоў | Якія закускі падавалі на вечарынах? |
+| Які пірог — любімы на Дзень падзякі? | **гарбузовы**, лімонны, вішнёвы | Які пірог вы пяклі? |
+| Колькі гульцоў бейсбольнай каманды на полі? | 7, **9**, 11 | За якую каманду вы болелі? |
+| Колькі страйкаў у бейсболе — гэта аўт? | Два, **тры**, чатыры | Вы калі-небудзь гулялі ў мяч? |
+| Бэйб Рут быў знакаміты ў якім відзе спорту? | Бокс, **бейсбол**, гольф | Вы хадзілі на матчы? |
+| Колькі лункаў на стандартным полі для гольфа? | 9, **18**, 24 | Вы калі-небудзь гулялі ў гольф або міні-гольф? |
+| У якім відзе спорту забіваюць тачдаўн? | **амерыканскі футбол**, хакей, баскетбол | Хто ў вас дома глядзеў футбол? |
 
-## Familiar sayings
+## Знаёмыя прыказкі
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Дакончыць прыказку звычайна лёгка, бо мова засвоена даўно. У нашай гульні [«Дакончы прыказку»](/games/finish-the-saying/) ёсць больш такіх, з магчымасцю паказаць любое заканчэнне.
 
-| Saying | Choices | Talk about |
+| Прыказка | Варыянты | Пра што пагаварыць |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Яблык на дзень — і доктара... | **не спатрэбіцца**, дождж не пойдзе, кот не прыйдзе | Хто вам такое казаў? |
+| Ранняя птушка злавіць... | **чарвяка**, аўтобус, цягнік | Вы ранішні чалавек? |
+| Не лічы курэй, пакуль яйкі не... | **вылупяцца**, спяць, заспяваюць | Ці трымала ваша сям'я курэй? |
+| Капейка, адкладзеная, — капейка... | **заробленая**, страчаная, выдаткаваная | Хто ў вашай сям'і быў ашчаднікам? |
+| Дом там, дзе... | сад, **сэрца**, кухня | Што робіць месца домам? |
+| Лепш позна, чым... | раней, **ніколі**, прабач | Хто заўсёды спазняўся? |
+| Кожная хмара мае срэбную... | **аблямоўку**, лыжку, манету | Раскажыце пра шчаслівы выпадак |
+| Учынкі гавораць гучней за... | **словы**, музыку, гром | Раскажыце пра таго, хто так казаў |
 
-## This-or-that questions with no wrong answer
+## Пытанні «гэта ці тое» без няправільнага адказу
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Яны падыходзяць на любым этапе, нават на позніх, бо тут нічога не трэба памыляць. Пытайцеся, слухайце і дзяліцеся і сваім адказам.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Кава ці чай?
+- Пляж ці горы?
+- Сабакі ці коткі?
+- Лета ці зіма?
+- Пірог ці торт?
+- Танцаваць ці глядзець?
+- Світанак ці захад?
+- Ганак ці двор?
+- Радыё ці пласцінкі?
+- Бліны ці яечня?
+- Ружы ці маргарыткі?
+- Цягнік ці падарожжа на машыне?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Для размовы па карцінках паспрабуйце нашы друкаваныя [Карткі для размовы](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Як весці занятак па віктарыне ў доме догляду або ў групе?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Размесціце людзей так, каб яны бачылі і чулі.** Слухавыя апараты ўключаны, акуляры надзеты, тэлевізар выключаны.
+2. **Прадстаўце гульню як размову.** «Я хачу задаць вам некалькі пытанняў пра старыя часы, і думаю, вы ведаеце больш за мяне».
+3. **Чытайце кожнае пытанне двойчы і паказвайце варыянты буйна.**
+4. **Прымайце адказы з любога месца ў пакоі.** Паўтарайце добрыя адказы, каб усе пачулі.
+5. **Скажыце адказ для ўсіх,** потым задайце тэму для размовы ўсяму пакою.
+6. **Ідзіце за настроем групы.** Калі адно пытанне пачынае дзесяць хвілін расказаў, дайце яму працягвацца.
+7. **Скончыце песняй або раўндам «гэта ці тое»,** каб усе завяршылі на чымсьці лёгкім.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Іншыя групавыя фарматы, у тым ліку картачныя гульні з карцінкамі і спевы, апісаны ў [групавых занятках для дамоў догляду](/activities/care-home-groups/).
 
-## When to change the plan
+## Калі мяняць план
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Калі чалавек выглядае занепакоеным, маўчыць або больш за адзін раз кажа «не ведаю», зрабіце гульню прасцейшай: пакіньце два варыянты, адказвайце разам або пераходзьце да пытанняў «гэта ці тое». Калі група хоча ўвесь дзень гаварыць пра адно пытанне, гэта ўжо поспех. Мэта ніколі не была ў правільных адказах. Яна была ў тым, каб добра правесці час у добрай кампаніі.

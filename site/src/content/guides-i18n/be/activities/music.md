@@ -1,32 +1,28 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Музычныя заняткі для людзей з дэменцыяй"
+seoTitle: "Музыка пры дэменцыі: плэйлісты і ідэі"
+description: "Як дзяліцца музыкай з чалавекам, які жыве з дэменцыяй: асабісты плэйліст па эпохах і жанрах, 15 простых музычных заняткаў і парады для кожнага этапу."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Музыка — адзін з самых простых заняткаў, якім можна падзяліцца з чалавекам, які жыве з дэменцыяй. Складзіце асабісты плэйліст з музыкі яго юнацтва, веры і сям'і, гуляйце яе без рэкламы і фонавага шуму, і спявайце, пляскайце, пагойдвайцеся або проста слухайце разам. Выбірайце спакойную ці весялейшую музыку ў залежнасці ад моманту, трымайце гучнасць мяккай і спыніцеся, калі нейкая песня яго засмучае.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Найлепш працуе асабістая музыка: стылі, якія чалавек любіў у маладосці, а таксама музыка з яго веры, культуры і сямейных святаў."
+  - "Гуляйце адну рэч за раз, без рэклам і з выключаным тэлевізарам."
+  - "Спяваць, пляскаць, пагойдвацца і проста слухаць — усё гэта спосабы ўдзельнічаць."
+  - "Выкарыстоўвайце больш спакойную музыку, каб супакоіць, і больш энергічную, каб падняць настрой, і сачыце, як рэагуе чалавек."
+  - "Даследаванняў структураваных музычных сесій мала; мы прапаноўваем музыку як прыемнае супольнае занятак, а не як лячэнне."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Якая музыка лепш за ўсё падыходзіць чалавеку з дэменцыяй?"
+    a: "Музыка, якую чалавек ведае і любіць даўно, часта з ягоных падлеткавых і дваццаці гадоў, а таксама музыка з веры, культуры і сямейных святаў. Калі магчыма, дайце яму выбраць. Глядзіце на твар і рухі, каб зразумець, што яму падабаецца, і прыбярыце тое, што, здаецца, засмучае."
+  - q: "Ці варта выкарыстоўваць навушнікі?"
+    a: "Некаторым людзям навушнікі падабаюцца, бо яны глушаць шум, а іншым яны нязручныя або збіваюць з толку. Спачатку паспрабуйце калонку, каб слухаць разам. Калі карыстаецеся навушнікамі, трымайце гучнасць нізкай і будзьце побач."
+  - q: "Ці можа музыка дапамагчы пры неспакойстве або расстрою?"
+    a: "Спакойная знаёмая музыка можа дапамагчы стварыць ціхі настрой, а Альцгеймераўская асацыяцыя прапануе выкарыстоўваць музыку, каб задаць патрэбную атмасферу. Яна не спрацоўвае кожны раз. Калі чалавек моцна хвалюецца, праверце таксама, ці няма болю, голаду, шуму або стомленасці."
+  - q: "Ці могуць людзі на познім этапе дэменцыі і далей атрымліваць асалоду ад музыкі?"
+    a: "Многія могуць. Альцгеймераўская асацыяцыя адзначае, што чалавек на познім этапе можа рытмічна пастукваць або спяваць разам з песняй з дзяцінства. Сядзьце побач, гуляйце музыку ціха і трымайце за руку або пагойдвайцеся разам."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +41,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Музыка — адна з самых простых рэчаў, якімі можна падзяліцца з чалавекам, які жыве з дэменцыяй. Яна не патрабуе нічога: ні правільных адказаў, ні крокаў, якім трэба сачыць. Знаёмая песня можа выклікаць усмешку, рытмічны рух нагой або некалькі словаў, праспеўных разам, нават у дзень, калі размова даецца цяжка. Патрэбна толькі музыка, якая падыходзіць менавіта гэтаму чалавеку, і ціхая хвіліна, каб яе ўключыць.
 
-## What music activities work for people with dementia?
+## Якія музычныя заняткі падыходзяць людзям з дэменцыяй?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Слуханне, спевы, пляскі, пагойдванне і размовы пра музыку — усё гэта добра працуе. [Нацыянальны інстытут старэння](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) раіць ставіць музыку, гаварыць пра яе і выканаўцу, спяваць або танцаваць пад вядомыя песні і хадзіць на канцэрты ці музычныя праграмы ў супольнасці. [Альцгеймераўская асацыяцыя](https://www.alz.org/help-support/caregiving/daily-care/art-music) дадае, што рух, напрыклад пляскі ці танцы, можа дадаць радасці, а музыка — спосаб заставацца на сувязі, калі словы даюцца цяжка.
 
-## How do you build a personal playlist?
+## Як скласці асабісты плэйліст?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Найбольш карысная рэч, якую вы можаце зрабіць, — гэта плэйліст з музыкі, што важная для гэтага чалавека. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) таксама падкрэслівае музыку з асабістым сэнсам. Вось просты спосаб скласці такі плэйліст.
 
-### Start with their life
+### Пачніце з ягонага жыцця
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Падлеткавыя гады і дваццаць.** Успомніце, што гучала па радыё, на танцах і ў кіно, калі чалавек быў малады.
+- **Вялікія моманты.** Музыка на вяселлі, першы танец, любімы альбом у сямейнай паездцы.
+- **Вера і культура.** Гімны, госпел, духоўная музыка або песні на роднай мове.
+- **Праца і служба.** Маршавыя аркестры, працоўныя песні або музыка, звязаная з часам у войску.
+- **Што памятае сям'я.** Спытайце братоў і сясцёр, дзяцей і старых сяброў, што ён заўсёды слухаў або спяваў.
 
-### Think in genres, not just songs
+### Думайце жанрамі, а не толькі песнямі
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Калі не ведаеце, з чаго пачаць, паспрабуйце некалькі хвілін з кожнага з гэтых напрамкаў і назірайце за рэакцыяй: біг-бэнд і свінг, doo-wop, Motown і соўл, ранні рок-н-рол, кантры, блюграс, госпел і гімны, песні з брадвейскіх мюзіклаў, джазавыя стандарты, латынаамерыканская музыка, напрыклад болеро ці мар'ячы, полька, фолк і класіка. Пакідайце тое, што выклікае ўсмешку або рытмічны рух нагі; прыбірайце тое, што выклікае хмурны выраз твару.
 
-### Make it easy to play
+### Зрабіце, каб было лёгка ўключыць
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Без рэкламы.** Альцгеймераўская асацыяцыя папярэджвае, што рэклама можа збіваць з толку. Выкарыстоўвайце запісы, кампакт-дыскі, пласцінкі або сэрвіс без рэкламы.
+- **Адна простая прылада.** Калонка з адной вялікай кнопкай або плэйліст, які захаваны і гатовы, каб любы мог яго запусціць.
+- **Два кароткія спісы.** Спакойны для супакаення і весялейшы для падняцця настрою.
+- **Падпішыце.** Напішыце імя чалавека і «любімая музыка» на прыладзе, каб госці-сваякі і персанал маглі ёю карыстацца.
 
-## 15 music activities to try
+## 15 музычных заняткаў для пробы
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Слухайце разам.** Сядзьце побач, без іншых справаў. Слуханне — самастойны занятак.
+2. **Спявайце разам.** Пачніце спяваць самі. Пагуканне або артыкуляцыя слоў таксама лічыцца.
+3. **Пляскайце або адбівайце рытм.** Пляскайце па каленях, пастукайце па стале або выкарыстайце невялікі ручны барабан ці шэйкер.
+4. **Павольны танец.** Трымайцеся за рукі і пагойдвайцеся на кухні або танцуйце сядзячы, рухаючы рукамі разам.
+5. **Танец з шалікамі.** Махайце лёгкімі шалікамі ў такт музыцы, стоячы або сядзячы.
+6. **Пагаварыце пра музыку.** Запрашайце, а не праверайце: «Гэта гучыць як танцавальная зала. Раскажыце мне пра танцы». Ніколі не пытайцеся: «Вы памятаеце гэту песню?»
+7. **Пракруціце цэлы альбом.** Уключыце пласцінку, якую ён любіў, ад пачатку да канца, з кавай.
+8. **Паглядзіце вокладкі альбомаў.** Старыя канверты пласцінак добра падыходзяць для размовы пра модны стыль, машыны і твары.
+9. **Паглядзіце мюзікл.** Запісаны мюзікл або канцэрт з ягонай эпохі — добры вечар. Рабіце паўзы.
+10. **Гуляйце на знаёмым інструменце.** Былы піяніст або гітарыст можа атрымаць асалоду ад простай гульні. Пазней дастаткова разам падабраць некалькі нот.
+11. **Музыка падчас працы.** Ставьце любімыя песні, пакуль складаеце бялізну або накрываеце стол.
+12. **Раніцяя песня.** Пачынайце кожны дзень з той самай вясёлай песні як часткі распарадку.
+13. **Спявайце гімны або духоўную музыку.** Гуляйце музыку з ягонай рэлігійнай традыцыі і спявайце разам.
+14. **Далучыцеся да спеўнай групы.** NHS апісвае спеўныя групы як карысныя для настрою і дабрабыту. Спытайцеся мясцова пра хоры, дружалюбныя да людзей з дэменцыяй.
+15. **Хадзіце на жывую музыку.** Кароткі суседскі канцэрт або гурт на вуліцы. Сядзьце блізка да выхаду і сыходзьце, калі захочаце.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Для лёгкай гульні са знаёмымі фразамі паспрабуйце [дапоўніць прыказку](/games/finish-the-saying/), дзе вы заўсёды можаце паказаць канец.
 
-## Matching music to the moment
+## Падбор музыкі да моманту
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Альцгеймераўская асацыяцыя раіць выкарыстоўваць музыку, каб ствараць патрэбны настрой: спакойную для ціхай атмасферы і вясёлую песню з юнацтва, каб падняць дух.
 
-| Moment | Try | Tip |
+| Момант | Што паспрабаваць | Порада |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Уставанне | Знаёмая, вясёлая песня | Адна і тая ж песня кожны ранак становіцца мяккім сігналам |
+| Хатняя праца | Любімае, энергічнае | Музыка можа зрабіць працу падобнай на кампанію |
+| Ежа | Мяккая інструментальная музыка | Трымайце ціха, каб яна не перашкаджала есці |
+| Позні дзень | Спакойная знаёмая музыка пры добрым святле | Гл. [неспакойства ў другой палове дня](/caregiving/late-day-restlessness/) |
+| Зыходжанне спаць | Павольная, мяккая музыка | Памяншайце гучнасць і святло разам |
+| Познія этапы | Найулюбёнейшыя песні, вельмі ціха | Сядзьце побач і трымайце за руку |
 
-## Tips for a good experience
+## Парады для добрага досведу
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Выключыце іншы шум.** Альцгеймераўская асацыяцыя раіць зачыніць вокны і дзверы і выключыць тэлевізар, каб музыка была адзіным гукам.
+- **Трымайце гучнасць мяккай.** Музыка павінна быць зручнай, а не гучнай. Калі чалавек карыстаецца слыхавымі апаратамі, пераканайцеся, што яны ўключаны і працуюць; гл. [слых](/brain-health/hearing/).
+- **Сачыце за сумнымі асацыяцыямі.** Некаторыя песні прыносяць смутак, вайну або страту. Калі песня засмучае, суцешце чалавека і змяніце яе.
+- **Дайце яму весці.** Калі магчыма, дайце чалавеку выбраць музыку і прымайце «не».
+- **Спыніцеся ў любы час.** Пяць хвілін музыкі — добры занятак. Добра і выключыць яе, і проста пасядзець у цішыні.
 
-## What does the research say about music and dementia?
+## Што кажуць даследаванні пра музыку і дэменцыю?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Доказаў мала. [Агляд Cochrane 2025 года](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) разгледзеў 30 даследаванняў структураваных музычных сесій, пераважна з групамі ў дамах догляду. Ён выявіў, што такія сесіі, хутчэй за ўсё, трохі зменшылі дэпрэсіўныя сімптомы ў параўнанні са звычайным доглядам, але не паказалі выразнага ўплыву на ўзбуджэнне, дабрабыт, мысленне і памяць, і эфекту, які б захаваўся пасля заканчэння сесій, не было.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Мы дзелімся музыкай, бо яна — прыемны, ненапружаны спосаб праводзіць час разам, а не як лячэнне. Для групавых занятак гл. [групавыя заняткі ў доме догляду](/activities/care-home-groups/); каб выкарыстоўваць музыку разам з фота і гісторыямі, гл. [заняткі з узгадваннем](/activities/reminiscence/).

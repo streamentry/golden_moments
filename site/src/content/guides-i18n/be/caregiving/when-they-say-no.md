@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Калі чалавек з дэменцыяй адмаўляецца ад заняткаў або злуецца"
+seoTitle: "Калі чалавек з дэменцыяй адмаўляецца ад заняткаў"
+description: "Чаму чалавек з дэменцыяй можа адмаўляцца ад заняткаў або засмучацца, што паспрабаваць замест гэтага, чаго пазбягаць і калі раптоўныя змены патрабуюць ўрача."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Калі чалавек з дэменцыяй кажа «не», прымайце гэта спакойна і паспрабуйце пазней
+  або прапануйце што-небудзь іншае. Адмова часта мае прычыну: заданне здаецца
+  занадта цяжкім ці дзіцячым, чалавек стаміўся, яму баліць, ён голадны або
+  перагружаны шумам. Не спрачайцеся і не настойвайце. Спрасціце заданне,
+  прапануйце два варыянты або папрасіце дапамогі. Раптоўныя ці хутка змяняюцца
+  паводзіны, асабліва пасля інфекцыі або новага лекарства, патрабуюць хуткай
+  кансультацыі ўрача.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Не» — гэта адказ, які трэба паважаць, а не праблема, якую трэба пераадолець."
+  - "Адмова звычайна мае прычыну: занадта складана, занадта дзіцячае, стомленасць, нездаровы стан, дыскамфорт або перагрузка."
+  - "Адступіцеся, пачакайце і паспрабуйце пазней, у іншы час або ў больш простай версіі."
+  - "Просьба аб дапамозе працуе лепш, чым прапанова паказаць сваё ўменне."
+  - "Ніколі не спрачайцеся, не настойвайце, не выпытвайце і не папраўляйце. Праверце, ці не спяшаецеся вы і ці не ствараеце ціск."
+  - "Раптоўныя або хутка змяняюцца паводзіны, асабліва пры інфекцыі ці новых лекарствах, трэба неадкладна паказаць урачу."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ці добра дазваляць чалавеку зусім прапускаць заняткі?"
+    a: "Так, у любы адзін дзень. Пасядзець разам, паслухаць музыку ці паглядзець на свет вакол можа быць дастаткова. Калі чалавек на працягу некалькіх тыдняў перастае атрымліваць задавальненне ад усяго, раскажыце пра гэта ўрачу: прычынай могуць быць сумны настрой, боль або іншыя праблемы са здароўем."
+  - q: "Чаму яны адмаўляюцца ад таго, што раней вельмі любілі?"
+    a: "Любімае захапленне можа стаць цяжкім, калі цяпер патрабуе навыкаў, якія дэменцыя зрабіла складанымі, і чалавек можа адчуваць сорам. Паспрабуйце прасцейшую частку таго ж занятку, напрыклад, перабіранне гузікаў замест шыцця або разгляд фотаздымкаў саду замест садзення."
+  - q: "Ці варта мне намагацца іх пераканаць?"
+    a: "Не. Ціск на чалавека, каб ён зрабіў тое, што дэменцыя зрабіла цяжкім, вядомы як прычына трывогі і ўзбуджэння. Прымайце «не», змяніце тэму і прапануйце зноў пазней або іншым спосабам."
+  - q: "Калі змена паводзін — гэта надзвычайная сітуацыя?"
+    a: "Тэлефануйце 112, калі чалавеку пагражае небяспека або ёсць прыкметы неадкладнага медыцынскага стану. Пры раптоўным збянтэжанні або паводзінах, якія хутка змяняюцца на працягу гадзін ці дзён, асабліва з тэмпературай, інфекцыяй або новым лекарствам, неадкладна звярніцеся да ўрача."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Вы ўсё падрыхтавалі, прапанавалі гульню ці прагулку і пачулі «Не». Або заняткі пачаліся добра і скончыліся планшэтам, які адсунулі, і рэзкім словам. Гэта засмучае, і such здарваецца вельмі часта. Адмова і раздражненне звычайна — гэта сігнал, а не ўпартасць. Калі зразумець, што ён азначае, часта відаць, што паспрабаваць далей.
 
-## Why does someone with dementia refuse activities?
+## Чаму чалавек з дэменцыяй адмаўляецца ад заняткаў?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Звычайна ёсць прычына, нават калі чалавек не можа яе выказаць словамі. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) адзначае, што супраціў можа азначаць, што чалавек не можа выканаць заданне або баіцца паспрабаваць. Найбольш частыя прычыны:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Здаецца занадта цяжкім.** Заняткі цяпер патрабуюць навыкаў, якія дэменцыя зрабіла складанымі, і няўдача на вачах у іншага чалавека можа быць сорамнай.
+- **Здаецца дзіцячым.** Дарослыя заўважаюць мультыплікацыйныя малюнкі, пяяўны голас і заняткі, якія нібы зроблены для дзяцей.
+- **Стомленасць.** У многіх людзей да вечара менш сілаў. Гл. [спакойныя заняткі ў другой палове дня](/caregiving/late-day-restlessness/).
+- **Фізічны дыскамфорт.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) называе магчымымі прычынамі трывогі боль, недасып, праблемы са зрокам ці слыхам, запор, голад, смагу і пабочныя эфекты новых лекарстваў.
+- **Занадта шмат адбываецца.** Гучны тэлевізар, некалькі размоў ці людны пакой могуць перагрузіць.
+- **Адчуванне ціску.** NIA называе прымус рабіць тое, што хвароба зрабіла вельмі цяжкім, або ўспамінаць падзеі і людзей прычынай узбуджэння.
+- **Сумны настрой.** Страта цікавасці да рэчаў можа быць прыкметай дэпрэсіі, пра што варта сказаць урачу.
+- **Проста не хочуць.** Дарослыя маюць права сказаць «не».
 
-## What should I try when they say no?
+## Што паспрабаваць, калі яны кажуць «не»?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Прымайце «не» спакойна, а потым зменіце нешта: час, занятак, складанасць або спосаб звароту.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Адпусціце справу на зараз.** «Гэта нічога. Можа, пазней.» Потым перайдзіце да чаго-небудзь іншага без уздыху.
+2. **Паспрабуйце пазней.** Alzheimer's Association раіць паўтарыць спробу пазней або ў іншы час дня.
+3. **Зрабіце меншым.** Адна запалка замест цэлай гульні. Адзін ручнік замест кошыка з бялізнай. Менш малюнкаў, менш выбару, малюнкі заставаліся бачнымі.
+4. **Прапануйце два варыянты.** «Вы хочаце паглядзець на птушак ці паслухаць музыку?» Выбар вяртае адчуванне кантролю.
+5. **Прасіце дапамогі, а не выканання.** «Вы не маглі б дапамагчы мне разабраць гэтыя?» або «Які колер, на вашу думку, лепшы?» Адчуваць, што вы патрэбныя, зусім іншае, чым адчуваць, што вас праверяюць.
+6. **Пачніце самі.** Пачніце заняткі побач з чалавекам, не пытаючыся. Многія далучаюцца, калі нешта ўжо адбываецца. А калі не, вы ўсё роўна правялі час разам.
+7. **Пераключыцеся на фізічнае або супакойвальнае.** Кароткая прагулка, музыка, перакус, складанне бялізны ці агульная паўза з [спакойным дыханнем](/games/calm-breathing/). NIA раіць пераключыць увагу на музыку, кнігу або прагулку.
+8. **Дазвольце зрабіць па-свойму.** Калі чалавек хоча гуляць не паводле правілаў, пагодзьцеся. Alzheimer's Association раіць быць гнуткім.
 
-## What should I say when they get frustrated?
+## Што сказаць, калі яны злуюцца?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Гаварыце павольней, ніжэй і спакойна. [Указанні Alzheimer's Association пра ўзбуджэнне](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) раяць адысці, спытаць дазволу, казаць спакойныя станоўчыя словы і прапанаваць выбар з двух варыянтаў. Словы ў гэтым духу:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Мне шкада, гэта надакучвае. Давайце спынімся.»
+- «Вы добра справіліся. Я побач.»
+- «Ці ёсць у вас час дапамагчы мне з чым-небудзь іншым?»
+- «Давайце лепш выпіем гарбаты?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Потым завершыце заняткі без лішняга шуму. У нашых [парадах па зносінах](/caregiving/communication-tips/) больш пра тое, што казаць.
 
-## What should I avoid?
+## Чаго пазбягаць?
 
-Some natural reactions tend to make things worse.
+Некаторыя натуральныя рэакцыі звычайна пагаршаюць сітуацыю.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Спрэчкі і настойванне.** «Ну давай, яшчэ адзін раз» або «Ты ж любіш гэта» рэдка дапамагаюць.
+- **Выпытванне і папраўленне.** «Ты ж ведаеш, што гэта» або «Не, вось гэта няправільна» дадае ціску.
+- **Успрыманне асабіста.** NIA нагадвае даглядальнікам, што змены выклікае хвароба, а не чалавек.
+- **Націск і спешка.** Alzheimer's Association раіць не павышаць голас, не паказваць трывогі, не прыціскаць, не ўтрымліваць сілай, не крытыкаваць, не ігнараваць і не спрачацца з чалавекам, а таксама не рабіць рэзкіх рухаў па-за полем зроку.
+- **Ужыванне віны.** «Я ўсё гэта наладзіла для цябе» робіць горш абодвум.
+- **Навешванне ярлыкоў.** «Упарты» або «цяжкі» хавае сапраўдную прычыну і ўскладняе вырашэнне.
 
-## How can I find out what is behind repeated refusals?
+## Як даведацца, што стаіць за паўторнымі адмовамі?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Вядзіце просты запіс на працягу тыдня ці двух. NIA кажа, што адсочванне змен у паводзінах дапамагае даглядальнікам і медыкам заўважыць заканамернасць і высветліць прычыну.
 
-Jot down:
+Запішыце:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- час дня;
+- што вы прапанавалі і як пыталіся;
+- што адбывалася вакол (шум, госці, тэлевізар);
+- як чалавек спаў, еў і піў, і калі апошні раз хадзіў у туалет;
+- новыя лекарствы або нядаўнюю хваробу.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Заканамернасці часта праяўляюцца хутка: адмовы толькі пасля 16:00, толькі з пэўнай гульнёй або толькі пры ўключаным тэлевізары. [Caregiver's Guide to Understanding Dementia Behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ад Family Caregiver Alliance кажа проста: мы не можам змяніць чалавека, але можам змяніць сваё паводзіны і асяроддзе.
 
-## When should I talk to a doctor about refusal or frustration?
+## Калі трэба гаварыць з урачом пра адмову або злосць?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Звяртайцеся да ўрача, калі паводзіны рэзка змяняюцца, хутка або разам з прыкметамі хваробы. NIA кажа, што раптоўныя або хутка змяняюцца паводзіны, асабліва калі ў чалавека была інфекцыя або нядаўна мяняліся лекарствы, трэба неадкладна паведаміць урачу.
 
-Contact their doctor promptly if you notice:
+Звярніцеся да ўрача хутка, калі заўважылі:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- раптоўнае збянтэжанне або вялікую змену на працягу гадзін ці дзён;
+- прыкметы болю, напрыклад, скрыўленне твару, абарону нейкай часткі цела або новыя цяжкасці з рухам;
+- тэмпературу або іншыя прыкметы інфекцыі;
+- новыя або зменяныя лекарствы, пасля якіх змяніліся паводзіны;
+- страту цікавасці практычна да ўсяго, слёзы або адыход у сябе, якія цягнуцца больш за пару тыдняў;
+- адмову ад ежы або піцця.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association рэкамендуе поўны медыцынскі агляд для кожнага, у каго ёсць паводзінныя сімптомы, асабліва калі яны з'яўляюцца раптам. Family Caregiver Alliance таксама раіць спачатку праверыцца ў урача, бо праблемы з паводзінамі могуць мець медыцынскую прычыну. Не пачынайце, не спыняйце і не мяняйце ніякія лекарствы без кансультацыі з урачом або фармацэўтам.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Калі хто-небудзь у небяспецы або ёсць прыкметы неадкладнай медыцынскай дапамогі, тэлефануйце 112. NIA раіць сказаць дыспетчару, што ў чалавека дэменцыя.
 
-## Is it okay if we do nothing at all?
+## Ці добра, калі мы зусім нічога не робім?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Так. Некаторыя дні лепшы занятак — гэта адсутнасць заняткаў: сядзець разам, трымаць за руку, слухаць любімую пласцінку або назіраць за птушкамі за акном. Гэта не няўдача. Наш [даведнік па сумеснай гульні](/caregiving/how-to-play-together/) тлумачыць, чаму спыніцца раней або ўвогуле не пачынаць можа быць правільным рашэннем.

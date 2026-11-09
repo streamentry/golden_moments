@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "जब भुलाए के बीमारी वाला आदमी एक ही सवाल बार-बार पूछे"
+seoTitle: "भुलाए के बीमारी: बार-बार पूछल सवाल पर का कहीं"
+description: "भुलाए के बीमारी (डिमेंशिया) वाला आदमी एक ही सवाल बार-बार काहे पूछेला, शांति से जवाब देवे के तरीका, काम आवे वाला आसान उपाय, आ कब अचानक बदलाव पर डाक्टर से मिलल जरूरी बा।"
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  भुलाए के बीमारी में सवाल बार-बार दोहरावल आम बात बा। अक्सर उ आदमी के याद
+  ना रहेला कि उ पहिले पूछ चुकल बा, आ सवाल के पीछे कवनो चिंता छिपल रहेला।
+  शांति से आ थोड़ा में जवाब दीं, जइसे पहिली बार पूछल गइल होखे। सवाल के पीछे
+  के भावना पर ध्यान दीं, आ कबहूँ मत कहीं “रउआ त ई पहिलही पूछ चुकल बानी।”
+  जवाब लिख के उ जगह पर टांग दीं जहाँ उ अक्सर देखेला। कवनो तनाव वाली घटना
+  के बस कुछ देर पहिले बतावल जाव। कवनो मन लगावे वाला काम दीं। अचानक बदलाव
+  होखे त डाक्टर से बात करीं।
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "उ आदमी के अक्सर याद ना रहेला कि उ सवाल पूछले बा; ई जान-बूझ के ना होखे।"
+  - "सवाल के पीछे अक्सर कवनो भावना होखेला, जइसे डाक्टर के मुलाकात के चिंता या सुरक्षित महसूस करे के चाह।"
+  - "शांति से, थोड़ा में आ प्यार से जवाब दीं, जइसे पहिली बार पूछल गइल होखे। कबहूँ मत कहीं “रउआ त ई पहिलही पूछ चुकल बानी।”"
+  - "नजर के सामने लिखल नोट, व्हाइटबोर्ड, घड़ी या कैलेंडर आपके बदले सवाल के जवाब दे सकेला।"
+  - "तनाव वाली घटना के बस कुछ देर पहिले बतावल जाव।"
+  - "जब थकावट लागे त थोड़ा आराम लीं, आ अचानक बदलाव पर डाक्टर से बात करीं।"
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "हमार पापा के भुलाए के बीमारी बा, उ एके सवाल बार-बार काहे पूछेले?"
+    a: "भुलाए के बीमारी से छोट समय वाली याददाश्त पर असर पड़ेला, एसे हो सकता उ सच्चो भुला जाले कि पूछले बा या जवाब सुनले बा। अक्सर सवाल के पीछे कवनो भावना भी होखेला, जइसे आगे का होई उ चिंता या भरोसा के जरूरत। अइसना में भावना के जवाब देवल आमतौर पर बात दोहरावे से जादा काम आवेला।"
+  - q: "का हमरा उनका से कहे के चाहीं कि उ पहिलही पूछ चुकल बा?"
+    a: "ना। एसे उनका याद ना होखी आ ई सुधार जइसन लाग सकेला। भुलाए के बीमारी के संस्था सलाह देलें कि हर बार शांति से जवाब दीं, जइसे पहिली बार पूछल गइल होखे, आ जवाब छोटा रखीं।"
+  - q: "का जवाब लिख के रखला से मदद होखेला?"
+    a: "जब तक उ पढ़ सकेला, तब तक ई मदद कर सकेला। एगो नोट, आज के योजना वाला व्हाइटबोर्ड, बड़ घड़ी या कैलेंडर जहाँ उ अक्सर देखेला, ओहिजा रखला से उ खुद जवाब देख सकेला। “हम त बतइले रहनी” कहला के बजाय धीरे से ओह ओर इशारा करीं।"
+  - q: "डाक्टर के मुलाकात या घूमे-फिरे के बारे में कब बात करीं?"
+    a: "समय के नजदीक। डाक्टर के मुलाकात या यात्रा के बारे में दिन पहिले बतावल से घंटन तक चिंता वाला सवाल शुरू हो सकेला। बस कुछ देर पहिले शांति से बतावीं, आ आगे का होई उ भी बताईं।"
+  - q: "कब दोहराव के कारण डाक्टर से मिलल जरूरी बा?"
+    a: "अगर सवाल, भ्रम या व्यवहार अचानक बदल जाए, या घंटा-दिन में बहुत बिगड़ जाए, त तुरंत उनकर डाक्टर से बात करीं। संक्रमण, नया दवाई, दर्द, कब्ज या पानी के कमी से अचानक भ्रम हो सकेला, जेके डेलिरियम कहल जाला, आ एकरा खातिर जल्दी इलाज चाहीं।"
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“डाक्टर कब आवेलें?” दस मिनिट बाद फेर वही सवाल: “डाक्टर कब आवेलें?” एके सवाल बार-बार सुनल, भुलाए के बीमारी वाला आदमी के देखभाल में सबसे थकावे वाला बात बा। ई बहुत आम बा, जान-बूझ के ना होखे, आ जवाब देवे के शांत तरीका बा जवना से दिन दुनो जने खातिर आसान हो जाला।
 
-## Why does someone with dementia ask the same question over and over?
+## भुलाए के बीमारी वाला आदमी एके सवाल बार-बार काहे पूछेला?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+ज्यादातर याददाश्त के वजह से। भुलाए के बीमारी छोट समय वाली याददाश्त पर असर डालेला, एसे उ आदमी अक्सर भूल जाला कि उ पूछले बा, या जवाब याद ना रहेला। [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) बतावत बा कि कई बार एके सवाल पूछल आम आ उम्मीद के बात बा।
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+सवाल के साथ अक्सर भावना भी जुड़ल रहेला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) समझावत बा कि बार-बार पूछल सवाल चिंता, मदद के चाह, या बेचैनी आ असुरक्षा के इशारा हो सकेला, आ उ आदमी अक्सर आराम आ जानल-पहचानल चीज के खोजत रहेला। “हम कब निकलब?” के असल मतलब हो सकेला “हमरा निकले में घबराहट बा।” ऊब, डर, शोर आ दिनचर्या में बदलाव से भी ई शुरू हो सकेला। कई बार बार-बार पूछल सवाल कवनो जरूरत के भी संकेत होखेला, जइसे शौचालय जाए के मन ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/))।
 
-## What should I say?
+## हम का कहीं?
 
-Answer calmly and briefly, as if it were the first time.
+शांति से आ थोड़ा में जवाब दीं, जइसे पहिली बार पूछल गइल होखे।
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **जवाब छोटा आ एके तरह के रखीं।** “डाक्टर दुपहरिया दू बजे बाड़न। हम रउआ साथे रहब।” एक नियम वाला जवाब आसानी से समझ में आवेला।
+- **सवाल के पीछे के भावना के जवाब दीं।** “रउआ डाक्टर के बारे में सोचत बानी। उ आज दुपहरिया बा, आ हम गाड़ी चलाएब। रउआ के कुछ करे के जरूरत नइखे।”
+- **प्यार वाला आवाज आ कोमल छुअन रखीं,** अगर उ छुअन पसंद करेला। Alzheimer's Association सलाह देवेला कि शांत रहीं आ तर्क या बहस से बचीं।
+- **जतना बेर जरूरी होखे, उ जवाब दीं जवन उ खोजत बा।** Alzheimer's Association कहेला कि जतना बेर पूछे, ओतना बेर जवाब दोहराईं।
 
-## What should I avoid?
+## का से बचे के चाहीं?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“रउआ त ई पहिलही पूछ चुकल बानी।”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) एसे मना करेला कि उ अभी पूछले बा, ई बता के सुधारल। एसे उनका याद ना होखी, आ ई डांट जइसन लाग सकेला।
+- **लमहर बखान।** जादा शब्द से भूले के जादा चीज हो जाला।
+- **लंबा साँस, आँख घुमावल या कड़ा आवाज।** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) धीरज रखे आ नाराजगी ना देखावे के सलाह देवेला। ई मुश्किल बा; नीचे आराम वाला हिस्सा देखीं।
 
-## Simple tools that answer the question for you
+## अइसन आसान उपाय जे सवाल के जवाब आपके बदले दे दे
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+जब तक उ आदमी पढ़ सकेला, तब तक लिखल जवाब अक्सर बोलल जवाब से जादा मदद करेला।
 
-| Tool | How to use it |
+| उपाय | कइसे इस्तेमाल करीं |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| बड़ अक्षर में नोट | “आज डाक्टर दू बजे। मेरी जी गाड़ी चलाएँगी।” उ जहाँ सबसे जादा देखेला, ओहिजा रखीं |
+| व्हाइटबोर्ड | आज के योजना तीन-चार लाइन में; हर सबेरे मिटा के फेर लिखीं |
+| तारीख आ दिन वाली बड़ घड़ी | “आज कवन दिन बा?” आ “का अब समय भइल?” वाला सवाल में मदद करेला |
+| कैलेंडर | हर दिन पर निशान लगाईं; अगिला मुलाकात के गोल घेरा बनाईं |
+| जानल-पहचानल फोटो | जे आवे वाला बा, उनकर फोटो “के आवत बा?” वाला सवाल के जवाब दे सकेला |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+ई उपाय [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) आ [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) से लिहल गइल बा। नोट के धीरे से इशारा करीं (“चलीं, बोर्ड साथे देखल जाव”), “हम रउआ खातिर लिख के रखले बानी” मत कहीं।
 
-## Tell them about events close to the time
+## घटना के बारे में समय के नजदीक बतावीं
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+कवनो मुलाकात या यात्रा के बारे में दिन पहिले बतावल से घंटन तक चिंता वाला सवाल शुरू हो सकेला। Family Caregiver Alliance आ Alzheimer's Los Angeles दुनो सलाह देवेले कि योजना के बात, खास करके तनाव वाली चीज जइसे डाक्टर के मुलाकात या नहाए के बात, बस कुछ देर पहिले कहल जाव। फेर आगे का होई उ एक-एक करके बतावीं।
 
-## Activities that can shift attention
+## ध्यान बँटावे वाला मन लगावे के काम
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+जवाब दे के आ भावना पर ध्यान देला के बाद, कवनो शांत आ मन लगावे वाला काम मदद कर सकेला, खास करके जब ऊब सवाल के वजह होखे। ऊपर के सब स्रोत कहेला कि उ चीज पर ध्यान लगावल जाव जवन उ आदमी के पसंद होखे।
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **एक छोट, आसान खेल साथे।** [तस्वीर के जोड़ी](/games/picture-pairs/) में तस्वीर सामने रहेली, त कुछ याद रखे के जरूरत ना पड़ेला।
+2. **जानल-पहचानल काम।** तौलिया तहियावल, मोजा छाँटल या थरिया लगावल। [मिल के छाँटीं](/games/sort-together/) ओकर स्क्रीन वाला रूप बा।
+3. **उनका मन के बात पर बोलल।** [बातचीत के कार्ड](/games/conversation-cards/) खुला सवाल देवेला जेकर कवनो सही जवाब नइखे।
+4. **गाना, टहलल या नाश्ता।** National Institute on Aging ई सब आसान तरीका में गिनावेला।
+5. **शांत ठहराव।** साथे बइठीं, खिड़की से बाहर देखीं, या साथे [शांत साँस](/games/calm-breathing/) लीं।
 
-If they return to the question, answer it again, kindly. That is fine.
+अगर उ फेर सवाल पर लौटे त शांति से फेर जवाब दीं। ई ठीक बा।
 
-## Look for patterns
+## पैटर्न पर ध्यान दीं
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association सलाह देवेला कि देखीं कि सवाल कवनो खास समय, खास लोग या खास जगह पर त ना आवेला। अगर उ हमेशा मेहमान आवे से पहिले या साँझ के देर में शुरू करेला, त पहिले से योजना बनावल जा सकेला: मुलाकात के बारे में नोट, कवनो जानल-पहचानल काम तइयार, या शांत कमरा। साँझ सबसे कठिन होखे त हमार गाइड [साँझ के शांत काम](/caregiving/late-day-restlessness/) मदद कर सकेला।
 
-## Take care of yourself
+## अपना के भी देखीं
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+एके सवाल के बीसवीं बार जवाब देवल थका देवेला। अगर धीरज खतम होखे लागे आ उ आदमी सुरक्षित होखे, त कुछ मिनिट दोसरा कमरा में जाईं आ साँस लीं, जइसन [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) सुझावेला। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) देखभाल करे वाला लोग के मदद माँगे आ राहत देखभाल (respite care) पर विचार करे के प्रोत्साहन देवेला। आउर उपाय हमार [देखभाल करे वाला के अपना ख्याल गाइड](/caregiving/caregiver-self-care/) में बा।
 
-## When should I call a doctor?
+## डाक्टर के कब बोलाईं?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+अगर सवाल, भ्रम या व्यवहार अचानक बदल जाए, या घंटा-दिन में बहुत बिगड़ जाए, त तुरंत उनकर डाक्टर से बात करीं। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) कहेला कि अचानक या तेजी से बदलत व्यवहार, खास करके संक्रमण या दवाई बदले के बाद, तुरंत डाक्टर के ध्यान में लावे के चाहीं। [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) समझावत बा कि संक्रमण, दवाई, पानी के कमी, दर्द या कब्ज से डेलिरियम हो सकेला, यानी अचानक आ गंभीर भ्रम, जेकरा जल्दी इलाज चाहीं। कवनो आदमी खतरा में होखे त 112 पर फोन करीं।

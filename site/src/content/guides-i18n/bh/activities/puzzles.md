@@ -1,32 +1,28 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "डिमेंशिया वाला लोग खातिर पहेली: जिगसॉ, शब्द पहेली अउर आसान ऑनलाइन पहेली"
+seoTitle: "डिमेंशिया खातिर पहेली: जिगसॉ अउर शब्द पहेली"
+description: "जिगसॉ, शब्द पहेली अउर आसान ऑनलाइन पहेली कइसे चुनीं: टुकड़ा के साइज, तस्वीर, बड़ अक्षर, साथ मिल के करे के तरीका अउर कब आसान करे के बा।"
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  डिमेंशिया वाला लोग खातिर सबसे बढ़िया पहेली ऊ होई जेकरा के ऊ थोड़ा मदद से पूरा कर सकस अउर रास्ता में मन लगा सकस। कम अउर बड़ टुकड़ा वाला जिगसॉ चुनीं, साफ वयस्क तस्वीर वाला, डिब्बा के ढक्कन पर के तस्वीर सामने रखीं, अउर पहिले किनारा वाला टुकड़ा छांटीं। बड़ अक्षर में शब्द खोज अउर क्रॉसवर्ड सबसे आसान होला। चार टुकड़ा वाला आसान ऑनलाइन पहेली बीच के अवस्था खातिर ठीक बा। जब तक मजा आवत होखे तब तक रुकीं।
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "अवस्था के नाम पर ना, बल्कि कइसे चलत बा ओ हिसाब से चुनीं: अगर पहेली बोझ लागे त कम टुकड़ा वाली आज़माईं।"
+  - "बड़ अउर मजबूत टुकड़ा, अउर साफ रंग वाला हिस्सा वाली तस्वीर, छोट टुकड़ा अउर बड़ आसमान वाली तस्वीर से आसान होखेली।"
+  - "वयस्क तस्वीर जरूरी बा। बगइचा, रसोई, गाड़ी अउर जानवर, कार्टून ना।"
+  - "साथ मिल के करे में ही असली बात बा। टुकड़ा थमाईं, किनारा छांटीं, डिब्बा के ढक्कन सामने रखीं।"
+  - "बड़ अक्षर वाली शब्द खोज अउर 4 या 9 टुकड़ा वाली आसान ऑनलाइन पहेली ए साइट पर मुफ्त बा।"
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "डिमेंशिया वाला लोग खातिर कतना टुकड़ा वाली पहेली सबसे बढ़िया बा?"
+    a: "कवनो एक तय संख्या नइखे। जे पहिले 1,000 टुकड़ा वाली पहेली करत रहल, उ शुरू में कुछ सौ टुकड़ा से भी खुश हो सकत बा, जबकि कुछ लोग एक दर्जन के आसपास बड़ टुकड़ा से सबसे बढ़िया करेलन। अगर पहेली बोझ लागे या झुंझलाहट होखे त कम टुकड़ा पर जाईं। हमार ऑनलाइन चित्र पहेली 4 या 9 टुकड़ा वाली बा।"
+  - q: "का जिगसॉ पहेली डिमेंशिया वाला लोग खातिर फायदेमंद बा?"
+    a: "बहुत लोग एहके पसंद करेलन, खासकर उ जे पहिले भी पहेली करत रहलन। पहेली से हाथ के कुछ काम मिलेला, एगो साफ लक्ष्य मिलेला अउर बतियावे खातिर तस्वीर मिलेले। कवनो पहेली डिमेंशिया के इलाज या धीमा करे खातिर देखावल नइखे गइल, त ओकरा मन बहलावे अउर साथ खातिर चुनीं।"
+  - q: "जब कवनो व्यक्ति जिगसॉ ना संभाल पावे त का करीं?"
+    a: "एकरा छोट करीं अउर बाकी ज्यादा खुद करीं: एक बेर में एक टुकड़ा थमाईं, या आखिर के कुछ टुकड़ा उनका खातिर छोड़ दीं। 4 टुकड़ा वाली ऑनलाइन पहेली आज़माईं, रंग से टुकड़ा छांटीं, या बस पूरा तस्वीर साथ मिल के देखीं।"
+  - q: "का क्रॉसवर्ड अउर शब्द खोज डिमेंशिया खातिर ठीक बा?"
+    a: "शुरू के अवस्था में बड़ अक्षर में ठीक हो सकेला। जेमे शब्द बस आड़ा अउर खड़ा होखे, उ तिरछा या उल्टा शब्द वाली से आसान होखेली। सुराग या शब्द सूची जोर से पढ़ीं अउर साथ मिल के काम करीं।"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +41,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+एक जिगसॉ पहेली डाइनिंग टेबल पर फइलल होखे त उ साथ में करे खातिर सबसे आसान काम में से एक बा। बिना बात कइले भी साथ बइठल जा सकेला, तस्वीर बतियावे खातिर विषय देले, अउर आखिरी टुकड़ा लगावल अच्छा लागेला। लेकिन पहेली के डिमेंशिया बदलला का हिसाब से बदले के पड़ेला। जरूरत से जादा कठिन पहेली शांत दुपहरिया के परेशानी में बदल सकेला। ए पन्ना में बतावल गइल बा कि जिगसॉ, शब्द पहेली अउर आसान ऑनलाइन पहेली कइसे चुनल अउर सेट कइल जाला, अउर कठिन होखे पर का कइल जाला।
 
-## Are puzzles good for people with dementia?
+## का पहेली डिमेंशिया वाला लोग खातिर बढ़िया बा?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+बहुत लोग एहके पसंद करेलन, खासकर उ जे पहिले पहेली करत रहलन। [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) शुरू के अवस्था खातिर शब्द खोज, पत्ता वाला खेल अउर बोर्ड गेम के गतिविधि में गिनावेले, अउर [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) टैबलेट पर ऑनलाइन खेल अउर पहेली के जुड़ल रहे के एगो तरीका बतावेला।
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+पहेली इलाज ना ह। कवनो पहेली डिमेंशिया के धीमा या रोके खातिर देखावल नइखे गइल; [डिमेंशिया अउर दिमाग वाला खेल](/brain-health/brain-games/) पर हमार गाइड शोध के बारे में बतावेला। पहेली करे के कारन बस ई बा कि एक घंटा साथ मिल के मन लगावे वाला अउर सुख देवे वाला हो सकेला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) एकरा ई कह के बतावेला: उपलब्धि ना, मजा पर ध्यान दीं।
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## डिमेंशिया वाला व्यक्ति खातिर जिगसॉ पहेली कइसे चुनीं?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+अवस्था के नाम पर ना, बल्कि जेकरा मजा आवेला अउर पिछिला पहेली कइसन गइल, ओकरा हिसाब से चुनीं।
 
-### Number of pieces
+### टुकड़ा के संख्या
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+कवनो सही संख्या नइखे। जिनके जिनगी भर पहेली के शौक रहल, उनका शुरू में कुछ सौ टुकड़ा भी अच्छा लाग सकेला, जबकि दूसरा कुछ लोग एक दर्जन टुकड़ा में सबसे खुश रहेलन। एगो व्यावहारिक नियम: अगर पिछिला पहेली बोझ लागल, त लगभग आधा टुकड़ा वाली चुनीं। अगर उ जल्दी पूरा हो गइल अउर उ अउर चाहत रहलन, त थोड़ा बढ़ा सकेनी।
 
-### Piece size and feel
+### टुकड़ा के साइज अउर बनावट
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **बड़ टुकड़ा** देखे, उठावे अउर घुमावे में आसान होखेला।
+- **मोटा, मजबूत टुकड़ा** अपना जगह पर टिकेला अउर गिरला पर भी बचेला।
+- **मैट फिनिश** लैंप या खिड़की के रोशनी के चमक कम करेला।
+- **छोट टुकड़ा से बचीं** अगर व्यक्ति चीज मुंह में डाल सकेला, जे डिमेंशिया बढ़ला पर हो सकेला।
 
-### The picture
+### तस्वीर
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **वयस्क विषय।** बगइचा, रसोई, पुरान गाड़ी, खेत के जानवर, समुंदर किनारे के गांव, कवनो मनपसंद खेल। कार्टून या बच्चा लोग के खिलौना जइसन कुछ ना।
+- **रंग के अलग-अलग हिस्सा।** लाल खलिहान, नीला नाव अउर हरा खेत आसान बा, बनिस्पत उ तस्वीर जेमे आधा पहेली में आसमान भरल होखे।
+- **जाना-पहचाना अउर निजी।** उ जगह के तस्वीर जहां उ रहल, या कवनो शौक जेके उ बहुत पसंद करत रहलन, बतियावे खातिर खूब कुछ देला। कुछ प्रिंट दुकान परिवार के फोटो के जिगसॉ बना सकेली।
 
-## How do you do a puzzle together?
+## साथ में पहेली कइसे करीं?
 
-Set it up so the person can get straight to the enjoyable part.
+एकरा अइसे सेट करीं कि व्यक्ति सीधे मजा वाला हिस्सा पर पहुंच सको।
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **बढ़िया जगह चुनीं।** अच्छा उजाला, हाथ रखे वाला कुर्सी, अउर अइसन टेबल या ट्रे जहां पहेली रख सकीं।
+2. **डिब्बा के ढक्कन खड़ा करीं** जहां रउआ दुनु लोग देख सकीं।
+3. **शुरू करे से पहिले टुकड़ा के चेहरा ऊपर करीं।**
+4. **किनारा खुद छांटीं**, या पहिले बॉर्डर बनाईं अउर बीच के हिस्सा उनका खातिर छोड़ दीं।
+5. **टुकड़ा के रंग से समूह बनाईं** कुछ उथला ट्रे या प्लेट में।
+5. **ढेर बहुत भारी लागे त एक बेर में एक टुकड़ा थमाईं।** "हमरा लागत बा ई खलिहान के हिस्सा ह।"
+7. **प्रगति ना, तस्वीर के बारे में बतियाईं।** "ई त हमार बाबूजी के नाव जइसन लागत बा।"
+8. **छोड़ दीं।** कई दिन में फेर लौट के आईं। कवनो जल्दी ना बा।
+9. **कउनो अच्छा बात पर रुकीं,** जब कवनो टुकड़ा लग गइल अउर अबहियों सुखद लागत होखे।
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) सलाह देले कि व्यक्ति के शुरू करे में मदद करीं, झुंझलाहट पर नजर राखीं, अउर अगर उ देखे में ज्यादा खुश होखस त उनका के बस देखे दीं। आप के टुकड़ा लगावत देखल, अउर कहां कउनो टुकड़ा जा सकेला ओकरा ओर इशारा कइल, तबो शामिल होखल ह।
 
-## Easy online puzzles
+## आसान ऑनलाइन पहेली
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+टैबलेट वाला पहेली के कुछ साफ फायदा बा: कवनो टुकड़ा ना खोवेला, बड़ तस्वीर स्क्रीन भर देवेली, अउर टेबल साफ करे के जरूरत ना होखेला।
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+हमार मुफ्त [चित्र पहेली](/games/picture-puzzle/) तस्वीर के 4 या 9 टुकड़ा में काटेला। दु गो टुकड़ा दबा के बदलीं जब तक पूरा तस्वीर ना बन जाए। पूरा तस्वीर मार्गदर्शन खातिर स्क्रीन पर रहेला, कवनो टाइमर ना होखेला, अउर कउनो बेरा रुक सकीं। चार टुकड़ा बीच के अवस्था में केतना लोग खातिर ठीक बा, जब बगल में कउनो साथी होखे।
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+अउर सरल तस्वीर खेल खातिर [एक जइसन खोजीं](/games/find-the-same/) आज़माईं, जहां ऊपर वाला तस्वीर से मिलत तस्वीर दबाईं, या [एक साथ छांटीं](/games/sort-together/), जहां तस्वीर रसोई या बगइचा जइसन टोकरी में जाला।
 
-## Word puzzles: word searches and crosswords
+## शब्द पहेली: शब्द खोज अउर क्रॉसवर्ड
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+शब्द पहेली उन लोग खातिर बढ़िया बा जे हमेशा एकरा पसंद करत रहलन, आमतौर पर डिमेंशिया के शुरू में।
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **बड़ अक्षर वाली शब्द खोज।** हमार मुफ्त [शब्द खोज](/games/word-search/) में बड़ अक्षर अउर कुछ शब्द बा, जे आड़ा अउर खड़ा चलेला, कबो तिरछा या उल्टा ना। स्क्रीन पर खेलीं या छाप लीं।
+- **सूची जोर से पढ़ीं।** एक जन शब्द पढ़स, दूसर जन खोजस। बस पहिला अक्षर घेरल भी ठीक बा।
+- **बड़ अक्षर वाली क्रॉसवर्ड** पुस्तक से शुरू में काम कर सकेली। सुराग जोर से पढ़ीं, कलम बांट के जवाब भरीं। कठिन क्रिप्टिक के बजाय आसान, विषय वाला क्रॉसवर्ड बढ़िया बा।
+- **शब्द पर बात करीं।** "बगइचा" से दस मिनट टमाटर के बात हो सकेला।
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+कागज वाला अउर गतिविधि खातिर, अउर उ कइसे छापल जाव कि आसानी से देखल अउर पकड़ल जा सको, ई देखीं [मुफ्त छापे लायक डिमेंशिया गतिविधि](/activities/printable/)।
 
-## Which puzzles suit each stage?
+## कवन पहेली कवन अवस्था खातिर ठीक बा?
 
-Stages overlap, and good and hard days are normal.
+अवस्था आपस में मिलल रहेला, अउर अच्छा अउर कठिन दिन दुनु सामान्य बा।
 
-| Stage | Puzzles that often fit | Your role |
+| अवस्था | जे पहेली अक्सर ठीक बइठेली | रउआ के भूमिका |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| शुरू | पहिले से कम टुकड़ा वाली जानल-पहचानल जिगसॉ, बड़ अक्षर वाली क्रॉसवर्ड अउर शब्द खोज, 9 टुकड़ा वाली ऑनलाइन पहेली | साथी: चुने दीं, पूछला पर मदद करीं |
+| बीच | एक दर्जन के आसपास बड़ टुकड़ा वाली जिगसॉ, 4 टुकड़ा वाली ऑनलाइन पहेली, शब्द खोज साथ मिल के पढ़ के | सेट करीं, टुकड़ा छांटीं, एक बेर में एक थमाईं |
+| आखिरी | पूरा तस्वीर साथ देखल, दु तस्वीर वाला एक जइसन खोजीं, कुछ बड़ टुकड़ा संभालल | उनका लगे ले जाईं; रउआ के साथ ही गतिविधि ह |
 
-## When should you make a puzzle easier, or stop?
+## कब पहेली आसान करीं, या रोकीं?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+ठंडा साँस, टुकड़ा दूर ढकेलल, बार-बार "हमरा से ना होई" या चिंतित चेहरा पर ध्यान दीं। ई बदलाव करे के संकेत ह, जोर देवे के ना।
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **छोट करीं।** कम टुकड़ा, या उनका खातिर बस आखिर के कुछ टुकड़ा छोड़ दीं।
+- **बाकी खुद करीं** अउर आसान हिस्सा में उनका के मदद खातिर बोलाईं।
+- **नजीक वाला कुछ अउर पर जाईं:** रंग से टुकड़ा छांटल, 4 टुकड़ा वाली ऑनलाइन पहेली, या [रंग भरल](/games/coloring/)।
+- **रुकीं।** पहेली अलग रख के चाय पीं। फेर कुछ दिन बाद लौट सकीला, या कबो ना भी।
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+अगर पहेली कठिन बात के याद दिलावे लागे, त ओकरा छोड़ देल ठीक बा। साथ में अच्छा समय बितावे के कई तरीका बा; हमार [101 गतिविधि के विचार](/activities/ideas/) देखल बढ़िया होई।

@@ -1,35 +1,30 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "अल्ज़ाइमर वाला लोगन खातिर गतिविधि आ खेल"
+seoTitle: "अल्ज़ाइमर खातिर गतिविधि आ खेल: अवस्था के हिसाब से विचार"
+description: "अल्ज़ाइमर वाला लोगन खातिर हर अवस्था में गतिविधि आ खेल, जवन पुरान हुनर आ यादन पर टिकल बा, जवन अक्सर बनल रहेला। साथ में खेले खातिर मुफ्त खेल।"
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  अल्ज़ाइमर वाला लोगन खातिर अच्छा गतिविधि ओह चीज पर टिकल होला, जवन सबसे देर तक बनल रहेला: बहुत दिन से करत आइल हुनर, पुरान गाना, जाना-पहचाना घर के काम आ इंद्रिय। शुरू के अवस्था में ताश, बोर्ड गेम, खाना बनावल आ घूमे-फिरे के काम अक्सर चल जाला। बीच के अवस्था में तह लगावल, छाँटल, गाना, फोटो एलबम आ आसान चित्र वाला खेल आज़माईं। बीमारी के आखिरी अवस्था में संगीत, स्पर्श आ साथ सबसे जरूरी होला। ई देखीं कि व्यक्ति आज कइसन बा, ओही हिसाब से चलीं।
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "अल्ज़ाइमर डिमेंशिया के सबसे आम कारण ह, एहसे डिमेंशिया वाला गतिविधि के विचार एकरो पर लागू होला।"
+  - "नया जानकारी आम तौर पर सबसे पहिले कठिन होला, जबकि बहुत पहिले सीखल हुनर आ गाना अक्सर देर तक बनल रहेला। ओही पर आधार बनाईं।"
+  - "अवस्था आपस में मिलल रहेला आ अच्छा आ कठिन दिन दुनो सामान्य बात ह। आज व्यक्ति का कर सकत बा आ का पसंद करत बा, ओही से चुनीं।"
+  - "बिना घड़ी, अंक या सवाल वाला खेल चुनीं, आ चित्र साफ-साफ दिखत रहे।"
+  - "देखल, कुछ पकड़ल या बस साथ बइठल भी भाग लेना मानल जाला।"
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "अल्ज़ाइमर वाला व्यक्ति खातिर कवन गतिविधि अच्छा होला?"
+    a: "जाना-पहचाना काम थोड़ा आसान करके: कपड़ा तह लगावल, मेज सजावल, साथ में खाना बनावल, संगीत आ गायन, फोटो देखल, टहलल, बगइचा के काम आ पालतू जानवर के साथ समय बिताावल। आसान चित्र वाला खेल, सरल जिगसा आ बातचीत के कार्ड भी बहुत लोगन खातिर चल जाला। जवन व्यक्ति हमेशा से पसंद करत आइल बा, उहे चुनीं आ ओकरा साथ मिलके करीं।"
+  - q: "का खेल अल्ज़ाइमर वाला लोगन खातिर फायदा के होला?"
+    a: "अगर व्यक्ति के खेल पसंद होखे त खेल साथ में समय बिताावे के सुहावन तरीका हो सकेला। कवनो खेल के बारे में ई साबित नइखे भईल कि ऊ अल्ज़ाइमर के ठीक करेला, धीमा करेला या रोकेला। एहसे आनंद खातिर खेल चुनीं: बड़ा चित्र, कम विकल्प, आ बिना घड़ी, अंक या गलत जवाब वाला आवाज के।"
+  - q: "डिमेंशिया वाला गतिविधि आ अल्ज़ाइमर वाला गतिविधि में कवनो फरक बा?"
+    a: "ज्यादातर ना। अल्ज़ाइमर रोग डिमेंशिया के सबसे आम कारण ह, आ गतिविधि के विचार एक्के लेखा लागू होला। अल्ज़ाइमर में मदद ई जान के मिलेला कि हाल के यादें आम तौर पर पहिले मिटेला, एहसे पुरान हुनर, गाना आ रोज के आदत पर बनल गतिविधि अक्सर बढ़िया चलेला।"
+  - q: "अल्ज़ाइमर के आखिरी अवस्था वाला व्यक्ति अब भी का पसंद कर सकत बा?"
+    a: "मनपसंद संगीत, हल्का हाथ के मालिश, नरम चीज पकड़े खातिर, कोई उनके किताब पढ़ के सुनावे, बाहर बइठे, आ कवनो भरोसा वाला आदमी के साथ। बात छोट आ शांत रखीं, आ चेहरा आ देह देखत रहीं कि उनका का पसंद बा।"
+  - q: "अल्ज़ाइमर वाला व्यक्ति के कवनो गतिविधि में मन कइसे लगाईं?"
+    a: "गतिविधि के ऐलान करे के बजाय मदद मांगीं, पहिले सब सामान सजा के रखीं, आ खुद शुरू करीं ताकि उहो जुड़ सकसु। दिन के उ समय चुनीं जब उ सबसे बढ़िया स्थिति में होखस, ई बड़ा फरक डाले ला। अगर उ मना करस त बाद में फेर कोशिश करीं या छोट रूप में पेश करीं।"
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +49,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+अगर रउआ के कवनो अपना के अल्ज़ाइमर बा, त रउआ शायद ई देख चुकल होखब कि कुछ बात तुरंत छूट जाला, आ कुछ बात बनल रहेला। उ शायद आज सुबह के फोन कॉल भुला जास, बाकिर भजन के हर शब्द गा लेस, तउलिया उहे तरह से तह लगा दीं जइसे हमेशा लगावत रहलीं, या बिना सोचले ताश बांट दीं। बढ़िया गतिविधि इहे बचल हुनर पर बनल होला। ई पन्ना बतावत बा कि काहे, आ हर अवस्था खातिर विचार देत बा, साथे इहाँ के मुफ्त खेल भी जवन ओकरा लायक बा।
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## गतिविधि के मामला में अल्ज़ाइमर डिमेंशिया से अलग बा का?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+बहुत ना। डिमेंशिया एगो छतरी जइसन शब्द ह, आ अल्ज़ाइमर रोग ओकर सबसे आम कारण ह: [अल्ज़ाइमर्स एसोसिएशन](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) के कहनाम ह कि ई 60 से 80 प्रतिशत डिमेंशिया के मामला में होला। डिमेंशिया के गतिविधि के बारे में लिखल लगभग सब कुछ अल्ज़ाइमर पर भी लागू होला, हमरा [101 गतिविधि के विचार](/activities/ideas/) समेत।
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+जवन जानल फायदा के बा, उ ह बदलाव के आम क्रम। [नेशनल इंस्टीट्यूट ऑन एजिंग](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) बतावत बा कि अल्ज़ाइमर पहिले दिमाग के यादाश्त वाला हिस्सा के नुकसान पहुंचावे ला, आ बाद में भाषा, सोच-विचार आ सामाजिक व्यवहार पर असर डालेला। अल्ज़ाइमर्स एसोसिएशन कहत बा कि सबसे आम शुरुआती लक्षण नया सीखल जानकारी याद रखे में कठिनाई ह। हर आदमी अलग होला, आ कई लोगन में कई तरह के कारण मिल जाला, बाकिर ई क्रम ही तय करेला कि का चल सकेला।
 
-## What kinds of activities suit Alzheimer's best?
+## अल्ज़ाइमर खातिर कवन तरह के गतिविधि सबसे बढ़िया होला?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+जवन गतिविधि पुरान, बहुत अभ्यास कइल ज्ञान पर टिकल होला, उ अक्सर ओह गतिविधि से ज्यादा आसानी से चलेला, जवना में कुछ नया सीखे आ मन में रखे के जरूरत पड़े।
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **बहुत दिन से अभ्यास कइल हुनर।** अल्ज़ाइमर्स एसोसिएशन बतावत बा कि व्यक्ति अभियो जवानी में सीखल सरल धुन बजा सकेला। बुनाई, लकड़ी घिसल, ताश फेंटल, आटा गूंथल आ कपड़ा तह लगावल भी ओइसने बा।
+- **पुरान गाना आ जाना-पहचाना संगीत।** बहुत लोग किशोरावस्था आ जवानी के गाना, भजन आ शादी के गाना के हर शब्द अभियो याद रखेला। देखीं [संगीत गतिविधि](/activities/music/)।
+- **रोज के काम जेकर कवनो मकसद होखे।** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) बर्तन धोवे, मेज सजावे, मोजा छांटे आ कपड़ा तह लगावे के उ काम गिनावत बा जवन लोग पसंद कर सकेला। उपयोगी महसूस होखल मायने रखेला।
+- **याद करे के बजाय पहचानल।** याद से नाम बतावे से आसान बा मिलत चित्र पर अंगुरी रखल। एहसे चित्र वाला खेल, जहाँ सब कुछ सामने दिखे, सवाल-जवाब वाला खेल से बढ़िया काम करेला।
+- **इंद्रिय।** बनावट, गंध, गर्मी, स्वाद आ आवाज शब्द कठिन होला तबो बहुत देर तक अर्थ रखेला। देखीं [इंद्रिय गतिविधि](/activities/sensory/)।
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+जवन चीज कम चलेला: घड़ी वाला काम, नया नियम सीखे के बात, याद रखे खातिर बहुत कदम, या ई तरह के सवाल जवन यादाश्त के जांच करे, जइसे “इनका पहचानत बानी?” ओकरा से बीमारी के कठिन हिस्सा सामने आ जाला।
 
-## Activities for early-stage Alzheimer's
+## अल्ज़ाइमर के शुरू के अवस्था खातिर गतिविधि
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+शुरू के अवस्था में [अल्ज़ाइमर्स एसोसिएशन](https://www.alz.org/alzheimers-dementia/stages) कहत बा कि व्यक्ति अभियो गाड़ी चला सकेला, काम कर सकेला आ सामाजिक गतिविधि में भाग ले सकेला, बाकिर जानल शब्द या चीज कहाँ रखल बा, ई भूले लागेला। सबसे बढ़िया तरीका साझेदारी के बा: पूछीं कि उ का करत रहल चाहेलें आ उनका कवन तरह के मदद चाही।
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **पहिले वाला शौक जारी रखीं।** गोल्फ, ब्रिज, रजाई-कढ़ाई, कोरस आ चर्च के समूह, छोट-छोट बदलाव के साथ, जइसे छोट समूह आ शांत समय।
+2. **जाना-पहचाना ताश आ बोर्ड गेम खेलीं।** [अल्ज़ाइमर्स फाउंडेशन ऑफ अमेरिका](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) शुरू के अवस्था खातिर ट्रिविया, शब्द खोज, ताश आ बोर्ड गेम गिनावत बा। अगर अंक जोड़ला से उ परेशान होखस, त टीम में खेलीं, या अंक जोड़ल बंद कर दीं।
+3. **साथ में खाना बनावल।** जवन रेसिपी उ मन से जानत होखस, ओकरा उनके चलावे दीं, आ रउआ पढ़े के काम संभालीं।
+4. **जीवन के कहानी वाला काम शुरू करीं।** फोटो, रेसिपी आ कहानी एगो स्क्रैपबुक में, जेकरा उ खुद दिशा देस। देखीं [यादें ताजा करे वाला गतिविधि](/activities/reminiscence/)।
+5. **घूमे-फिरे के जाईं।** कवनो मनपसंद होटल में शांत समय पर, कवनो म्यूजियम में थोड़ देर खातिर, पार्क में टहलल।
+6. **उनके पसंद के पहेली आज़माईं।** बड़ा अक्षर वाला क्रॉसवर्ड, शब्द खोज आ जिगसा। देखीं [डिमेंशिया खातिर पहेली](/activities/puzzles/)।
 
-More ideas: [early-stage activities](/activities/early-stage/).
+अउर विचार खातिर: [शुरू के अवस्था के गतिविधि](/activities/early-stage/)।
 
-## Activities for middle-stage Alzheimer's
+## अल्ज़ाइमर के बीच के अवस्था खातिर गतिविधि
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+अल्ज़ाइमर्स एसोसिएशन बीच के अवस्था के आम तौर पर सबसे लंबा बतावत बा, आ कहत बा कि ई कई साल चल सकेला। शब्द गड़बड़ाए लागेला, झुंझलाहट जल्दी आवेला, आ व्यक्ति के जादा देखभाल चाही। अल्ज़ाइमर्स फाउंडेशन ऑफ अमेरिका जोड़त बा कि बहुत लोग के गतिविधि शुरू करे या जारी रखे में मदद चाही। रउआ के भूमिका बदल जाला: सब कुछ सजा के रखल, समझावे के बजाय देखा के बतावल, आ कठिन हिस्सा खुद संभाल लेवल।
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **तह लगावल, छांटल आ मिलावल।** तउलिया, मोजा, चम्मच, रंग के हिसाब से बटन। असली काम, साथ-साथ कइल।
+2. **गाना गावल आ संगीत पर हिलल-डोलल।** रसोई में ताली बजावल, झूमल या नाच लेल। खुद गावल शुरू करीं आ उनके भी जुड़े दीं।
+3. **फोटो एलबम देखल।** जवन देखत बानी, ओकर बखान करीं आ कहानी पूछीं: “केतना बढ़िया गाड़ी रहे। ओकरे बारे में बताईं।” उ जवन नाम लेस, ओही में साथ दीं।
+4. **आसान चित्र वाला खेल खेलीं।** [चित्र जोड़ी](/games/picture-pairs/) चार से छह टाइल के साथ, चित्र सामने दिखत रहे, या [एक जइसन खोजीं](/games/find-the-same/) दू-तीन विकल्प के साथ।
+5. **जाना-पहचाना कहावत पूरा करीं।** “जहाँ चाह वहाँ...” पुरान कहावत अक्सर आसानी से याद आ जाला। [कहावत पूरा करीं](/games/finish-the-saying/) आज़माईं, जहाँ रउआ एक टैप में कवनो अंत देखा सकीले।
+6. **पौधा के देखभाल।** घर के गमला या ऊँचा क्यारी, छोट पानी के बर्तन के साथ।
+7. **परिवार के फोटो से मिलान वाला खेल बनाईं।** [फोटो जोड़ी](/games/photo-pairs/) रउआ के डिवाइस पर चुनल फोटो इस्तेमाल करेला, आ ऊ फोटो कबो डिवाइस से बाहर ना जाला।
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+अउर विचार खातिर: [बीच के अवस्था के गतिविधि](/activities/middle-stage/)।
 
-## Activities for late-stage Alzheimer's
+## अल्ज़ाइमर के आखिरी अवस्था खातिर गतिविधि
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+आखिरी अवस्था में अल्ज़ाइमर्स एसोसिएशन कहत बा कि लोग आसपास के माहौल पर प्रतिक्रिया देवे आ बातचीत जारी रखे के क्षमता खो देलें, हालांकि उ अभियो कुछ शब्द या वाक्यांश बोल सकेलें। अब गतिविधि के मतलब आराम आ जुड़ाव बा, जवन उहाँ लाएल जाव जहाँ व्यक्ति आराम करत होखे।
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **उनके मनपसंद संगीत** शांत आवाज में बजाईं, टीवी के शोर के बिना।
+2. **हाथ के मालिश** कर दीं, उ तेल या लोशन से जवन खुशबू उनके पसंद होखे।
+3. **नरम चीज पकड़े खातिर दीं:** गरम कंबल, फ्लीस, चिकना पत्थर।
+4. **ज़ोर से पढ़ के सुनाईं।** भजन, कविता या कवनो जाना-पहचाना कहानी। लय अर्थ से ज्यादा मायने रखेला।
+5. **बाहर बइठीं।** छांव में, या खिड़की के पास जहाँ चिरई देखल जा सके।
+6. **एक बड़ा चित्र साथ में देखीं।** सूरजमुखी या टैबलेट के स्क्रीन भरत कुकुर, आ रउआ बतावत जाईं कि का देखात बा।
 
-More ideas: [late-stage activities](/activities/late-stage/).
+अउर विचार खातिर: [आखिरी अवस्था के गतिविधि](/activities/late-stage/)।
 
-## Which games work for someone with Alzheimer's?
+## अल्ज़ाइमर वाला व्यक्ति खातिर कवन खेल चल सकेला?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+अइसन खेल चुनीं जवना में कवनो हार ना होखे। एह साइट के हर खेल मुफ्त बा, ब्राउज़र में चलेला, आ ओकरा में घड़ी, अंक या साइन-अप ना होला।
 
-| Game | What you do | Often suits |
+| खेल | का करे के बा | अक्सर उपयुक्त |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [चित्र जोड़ी](/games/picture-pairs/) | बड़ा चित्र मिलावल; ऊ सामने ऊपर दिखत रह सकेला | शुरू आ बीच के अवस्था |
+| [एक जइसन खोजीं](/games/find-the-same/) | ऊपर वाला चित्र से मेल खात चित्र पर टैप करीं | बीच आ आखिरी अवस्था, मदद के साथ |
+| [कहावत पूरा करीं](/games/finish-the-saying/) | जाना-पहचाना कहावत के आखिरी शब्द चुनीं, या देखा दीं | शुरू आ बीच के अवस्था |
+| [चित्र पहेली](/games/picture-puzzle/) | चित्र देखावत रहे, आ 4 या 9 टुकड़ा अपना जगह पर लगावल | शुरू आ बीच के अवस्था |
+| [बातचीत के कार्ड](/games/conversation-cards/) | एक चित्र आ बात करे खातिर खुला सवाल | कवनो अवस्था, बात करे वाला के साथ |
+| [फोटो जोड़ी](/games/photo-pairs/) | रउआ के अपना फोटो से बनल मिलान वाला खेल | शुरू आ बीच के अवस्था |
+| [रंग भरल](/games/coloring/) | एगो रंग चुनीं, फेर चित्र के हिस्सा पर टैप करीं; या छाप लीं | कवनो अवस्था, मदद के साथ |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+साथ कइसे बइठल जाव, कतना मदद देवे के बा, आ कब रुके के बा, एकरे खातिर पढ़ीं [डिमेंशिया वाला व्यक्ति के साथ खेल कइसे खेलल जाव](/caregiving/how-to-play-together/)। अगर रउआ “याददाश्त वाला खेल” के बारे में सोचत बानी, त देखीं [डिमेंशिया वाला बुजुर्ग खातिर याददाश्त वाला खेल](/activities/memory-games/)।
 
-## How to make any activity easier
+## कवनो गतिविधि के आसान कइसे बनाईं
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA के सलाह कुछ आदत पर आधारित बा: गतिविधि ओह चीज से मिलाईं जवन व्यक्ति कर सकेला, शुरू करे में मदद करीं, झुंझलाहट पर नजर राखीं, पक्का करीं कि उ सफल महसूस करस, आ अगर उ सिर्फ देखल पसंद करस त उनके देखे दीं।
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **दिन के उ समय चुनीं जब उ सबसे बढ़िया होखस,** आ सत्र छोट रखीं।
+- **पहिले सब सामान सजा के रखीं** ताकि तुरंत शुरू कर सकीं।
+- **न्योता दीं, हुकुम ना।** “का रउआ हमरा हाथ बटा देब?” “अब गतिविधि के समय बा” से बढ़िया काम करेला।
+- **पहिला कदम खुद करीं** आ उनके जुड़े दीं।
+- **एक बार में एक कदम आ एक विकल्प दीं।**
+- **उनके तरीका से होखे दीं।** टेढ़ा-मेढ़ा तउलिया तह भईल भी ठीक बा।
+- **जब तक सुहावन लागे तब तक रुकीं।** जल्दी रुक जाएब कवनो असफलता ना, बल्कि अच्छा नतीजा ह। अगर उ मना करस, त देखीं [जब डिमेंशिया वाला व्यक्ति “ना” कहे](/caregiving/when-they-say-no/)।
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[अल्ज़ाइमर्स एसोसिएशन](https://www.alz.org/help-support/caregiving/daily-care/activities) एकरा सरल ढंग से कहत बा: उपलब्धि पर ना, आनंद पर ध्यान दीं।

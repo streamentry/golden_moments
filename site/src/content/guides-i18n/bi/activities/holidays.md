@@ -1,33 +1,35 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Ol Aktiviti blong Hol-dei blong Man we i gat Dementia"
+seoTitle: "Aedia blong Hol-dei mo Krismas long Dementia"
+description: "Ol simpol aktiviti blong hol-dei blong man we i gat dementia: wok long kitjen, dekoresen, muzik, foto mo video kol, mo hao blong plan wan Krismas we i kwaet moa."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Keepem hol-dei i smol moa, i kam bifo long dei mo i stap klos long ol usual
+  rutin blong man ya. Givim hem wan rial mo sef wok olsem setem tebol, wasem ol
+  vegetebol, raepem wan presen o hangem wan dekoresen. Sherem ol muzik mo ol olfala
+  foto we hem i save finis, prepem ol ges bifo, mo setemaot wan kwaet rum. Mekem
+  nomo wanem yu save managem long fasin we i rili, wan smol mo kwaet selebrasen i gud
+  finis.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Mekem selebrasen bifo long dei, olsem lanj o brantj, sipos konfiuson long aftenun i kamaot ofen."
+  - "Ofarem ol rial wok: setem tebol, wasem kakae blong garen, raepem, dekoretem o putum sit long plet."
+  - "Ol muzik we oli familia, ol kerol mo ol olfala album blong foto oli ol isi wei blong sherem sisen."
+  - "Talem ol ges wanem nao oli bon blong ekspektem, mo soem long man ya ol foto blong ol man we oli kam."
+  - "Setemaot wan kwaet rum wetem wan blanket o sweta we hem i laekem, mo kipim ol visitas long smol grup nomo."
+  - "Skipem eni samting we i bigfala tumas, inkludim ol dekorasen we i lukem olsem kakae mo ol laet we i blinkem plenti."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Wanem man we i gat dementia i save mekem long Krismas?"
+    a: "Givim hem wan simpol mo sef wok we i fitim wanem hem i save mekem long dei ya: wasem ol vegetebol, stirim sos blong kranbeli, setem tebol, foldem ol napkin o putum ol sweit long plet. Afta, lukluk ol olfala foto blong famili o singsing ol song we hem i save finis. Hem i impoten moa blong hem i stap insaed long dei, bitim fasin we wok i kamaot."
+    a_note: ""
+  - q: "Eniwe, yumi mas gat wan bigfala famili miting?"
+    a: "Nomo, sipos hem i isi blong managem. Ol bigfala krowd mo nois i save mekem man i fraet o i pressa, so plenti famili oli jenisim long wan smol mo isi miting, wan kakae we i kam bifo, o ol visitas we oli kam long smol grup. Alzheimer's Association i sapotem ol man we oli karem kea blong mekem nomo wanem oli save managem long fasin we i rili mo sef."
+  - q: "Hao mi save prepem famili we oli no bin kam long wan taem?"
+    a: "Talem olgeta bifo oli kam long ol jenis we oli save lukim, mo talemaot se ol jenis ya oli kam long sik, not long man ya. Askem olgeta nomo blong oli no korektem o kwestin, blong oli toktok wan wan, mo blong oli givim taem blong ansa. Soem long man ya ol foto blong ol gest bifo, hemia i save helpem tu."
+  - q: "Wanem ol presen blong hol-dei i gud blong man we i gat dementia?"
+    a: "Ol simpol mo sef samting we hem i save enjoyem distaem: wan snak we hem i laekem, wan soft blanket o sweta, ol muzik we oli familia, o wan album blong ol famili foto. Lusum ol kompliketed elektronik, tul mo ol gem blong bod we i had. Mekem hem i stap insaed long givim presen, olsem raepem wan presen o pakem ol kuki we hem i wan helpem blong mekem, hemia i ken i wan presen long hem seleveret."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Ol hol-dei oli save bringim ol gudfala tingting blong taem we i pas, be tu oli save bringim nois, ol man we oli plenti, mo jenis long usual dei. Blong man we i gat dementia, ol gudfala selebrasen oli usually i smol moa, i slo moa, mo oli bilt long ol samting we hem i stap save enjoyem yet. Ol aedia ya oli fitim Krismas, Niu Yia, bataday blong famili, mo ol hol-dei narafala we oli semsem.
 
-## How do I plan a calmer holiday?
+## Hao mi save plan wan hol-dei we i kwaet moa?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Stat long rutin blong man ya mo plan dei ya i stap long rutin ya. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) i tokbaot se i gud blong holem selebrasen bifo long dei, from konfiuson mo nogat paentem i save kamaot ofen long aftenun mo long naet (wan samting we ol man oli kolem sundowning). Wan lanj o brantj long hol-dei i save isi moa tan wan leit dina.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Kipim i stap long rait saes.** Wan smol mo isi miting, o ol gest we oli kam long smol grup, i isi moa tan wan krowd tebol.
+- **Givim ol wok.** Askem ol relatif blong karem wan kakae, mekem ol shopping, o spendem taem wetem man ya taem yu stap kukum. Talemaot klia wanem we i ken helpem yu.
+- **Kipim ol dekorasen i simpol.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) i talem se ol laet we i blinkem i save konfiusem, mo ol kanol o ol fruit we oli fake we oli usem blong dekorasen i save wok olsem kakae.
+- **Disaedem wanem blong lusum.** Sipos wan kastom i kamap wan stres o i risk, i oraet blong skipem o trae wan kwaet narafala.
 
-## What holiday activities can we do together?
+## Wanem ol aktiviti blong hol-dei we mitufala i save mekem tugeta?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Jusum ol wok mo ol plesa we i fitim wanem man ya i save mekem distaem. Hem i impoten moa blong hem i stap insaed long dei, bitim fasin we samting i kamaot.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Setem tebol tugeta.** Putum ol plet fastaem, afta ol napkin, afta ol kap. Foldem ol napkin hemi wan gud wok blong sidaon long hem.
+2. **Wasem mo sotem ol vegetebol.** Wasem ol patet o brokem ol bin long tebol blong kakae hemi sef mo familia long plante man we oli bin kukum long bifo.
+3. **Stirim, mikisim o putum long plet.** Stirim sos blong kranbeli, mikisim wan simpol batter, o putum ol kuki long plet, hemia i kipim han i bisi, i kasem fas long stov mo naef.
+4. **Raepem wan presen.** Katem pepa mo tep bifo, mo letem man ya foldem mo smoothem. Gud raep i no impoten.
+5. **Hangem sam dekorasen.** Jusum ol ornament we i no save brok mo wan smol ples nomo, olsem wan wreath o wan smol tri.
+6. **Mekem wan simpol kraf.** Pepa jeen, wan leaf kolaj, o wan hol-dei kad we yu putum stamp long hem i gud. [Arts and crafts guide](/activities/arts-and-crafts/) blong mifala i gat moa aedia.
+7. **Singsing mo lisin.** Ol familia kerol mo ol hol-dei song i isi blong joenem, evenif man ya i no toktok plenti distaem. Lukluk [music guide](/activities/music/) blong mifala blong wokem wan playlist.
+8. **Lukluk ol olfala hol-dei foto.** Karem ol album blong ol selebrasen blong bifo mo askem stori ("Tellem mi abaot dis tebol") i gud moa tan askem hu i hu. [Reminiscence guide](/activities/reminiscence/) blong mifala i eksplenem hao.
+9. **Plei wan gentle grup gem.** [Picture bingo](/games/picture-bingo/) i prins long ol minit mo i wok long evri ej, mo [conversation cards](/games/conversation-cards/) i givim evriwan wan samting blong toktok abaot.
+10. **Kalarem tugeta.** Ol simpol [coloring pages](/games/coloring/) oli save prin blong ol pikinini mo ol grenfala blong sherem long tebol.
+11. **Lukim wan fevret hol-dei muvi.** Wan familia muvi hemi restful, mo i oraet blong lukim nomo wan pat blong hem.
+12. **Drive i go lukim ol laet long wan smol taem.** Wan kwaet drive pas long ol haos we oli dekoretem i save isi moa tan wan krowd ivent.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Sipos kukim i wan bigfala pat blong laef blong man ya, [household tasks as activities](/activities/household-tasks/) blong mifala i gat moa aedia blong mekem ol kitjen wok i sef mo i gat gudfala filing.
 
-## How do I prepare guests?
+## Hao mi save prepem ol gest?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Talemaot ol gest wanem nao oli bon blong ekspektem bifo oli kam, speseli ol relatif we oli no bin kam long wan taem. Alzheimer's Association i sajesten blong eksplenem se ol jenis long memori mo fasin oli kam long sik, not long man ya.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Sherem sam simpol tips:** toktok wan wan, givim taem blong finisim wan tingting, no korektem o kwestin, mo ansarem long ton blong man ya sipos ol wod oli had blong folem.
+- **Talem wanem i helpem mo wanem i save hatem.** Sipos ol bigfala vois, ol man we oli pusum yu, o sam topik oli mekem hem i pressa, talem klia.
+- **Introdiusum ol gest bifo.** Soem long man ya ol foto blong ol man we oli kam mo sherem wan o tufala stori, o setemaot wan smol fon o video kol bifo dei.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[Communication tips](/caregiving/communication-tips/) blong mifala i gat moa detel.
 
-## What if it gets to be too much?
+## Wanem sapos i kamap tumas?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Setemaot wan kwaet rum bifo ol gest oli kam, i stap wei long nois, wetem ol komfot samting we i familia, olsem wan fevret blanket, sweta, o wan simpol aktiviti. Ofarem long hem erly mo oftn: "Yumi go sidaon long wan kwaet ples wan taem?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Lusum tebol, go slip erly, o skipem sam pat blong dei, hemia i wan gud aotkam, no wan fel. Sipos man ya i kamap i kros o i sore, wan kwaet vois, wan fevret song, o wan wok blong go long narafala rum i ofen i helpem moa tan toktok long sins. [Late-day restlessness guide](/caregiving/late-day-restlessness/) blong mifala i gat moa aedia blong ol aftenun.
 
-## How can family far away take part?
+## Hao famili we i stap longwe i save joen?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Video kol i letem ol relatif joen withaot blong adem long krowd. Alzheimer's Association i sajesten blong givim ol kol sam strakja, olsem singsing ol seasonal song, sherem ol foto long ol bifo miting, kukum sem resipe tugeta, o lukim wan hol-dei muvi long sem taem. Kipim ol kol i sotwan, mo askem ol man blong toktok wan wan, from ol man oli toktok olgeta i had blong folem. [Phone and video call guide](/activities/phone-and-video-calls/) blong mifala i gat ol step-bae-step aedia.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Sipos man ya i stap long memory care, jekem ol rul blong visit mo askem staff blong helpem setemaot wan kol. [Visiting someone in memory care](/activities/visiting/) blong mifala i kavarem wanem blong karem mo hao blong lusum gud.
 
-## What gifts suit someone with dementia?
+## Wanem presen i fitim man we i gat dementia?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Ol simpol mo sef presen we hem i save enjoyem distaem oli gud moa: wan fevret snak, wan soft blanket o kadigan, ol familia muzik, wan large-print kalenda, o wan album blong famili foto. Alzheimer's Association i advaesem blong avoidem ol danjeras tul, ol kompliketed elektronik mo ol gem blong bod we i had.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Givim i impoten semsem olsem risivim. Pakem ol kuki we man ya i helpem blong mekem, o letem hem raepem wan presen we yu bae long hem, hemia i letem hem i joenem long season. Wan famili foto gem hemi narafala aedia: [photo pairs](/games/photo-pairs/) i jenisim sam foto we yu jusum i kam wan isi matjing gem long browser.
 
-## Look after yourself too
+## Lukaotem yu tu
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Hol-dei i ademap wok long karegiving. Letem sampla narafala i hostem o kukum kakae, talem no long ol ivent we i bae hard, mo tekem brek sipos ol narafala oli spendem taem wetem man ya. Sipos yu o man we yu karem kea i sik, wan wef long drivwe o wan video kol i wan gud visit. [Caregiver self-care guide](/caregiving/caregiver-self-care/) blong mifala i gat moa sapot.

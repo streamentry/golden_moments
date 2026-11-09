@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Празнични дейности при деменция, от Деня на благодарността"
+seoTitle: "Празнични и благодарствени идеи при деменция"
+description: "Прости празнични дейности за човек с деменция: кухненски задачи, украса, музика, снимки и видеообаждания, и как да планирате по-спокойно празнуване."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Направете празниците по-малки, по-рано през деня и близки до обичайния ритъм
+  на човека. Дайте му истинска, безопасна задача, например да подреди масата,
+  да измие зеленчуци, да опакова подарък или да закачи украса. Споделете
+  познатата музика и стари снимки, подгответе гостите предварително и уредете
+  тиха стая. Правете само онова, което можете разумно да поемете; кратко и
+  спокойно празнуване е добро.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Празнувайте по-рано през деня, например с обяд или закуска-обяд, ако объркването късно следобед е често."
+  - "Давайте истински задачи: подреждане на масата, миене на продукти, опаковане, украсяване или сервиране на десерт."
+  - "Познатата музика, коледарските песни и стари албуми със снимки са лесни начини да споделите празничното настроение."
+  - "Кажете на гостите какво да очакват и покажете на човека снимки на идващите."
+  - "Уредете тиха стая с любимо одеяло или пуловер и приемайте гости по няколко наведнъж."
+  - "Избягвайте всичко, което може да претовари: украса, която прилича на храна, и много мигащи лампички."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Какво може да прави човек с деменция на Деня на благодарността?"
+    a: "Дайте му проста и безопасна задача, която отговаря на това, което може да прави днес: да измие зеленчуци, да разбърка сос от боровинки, да подреди масата, да сгъне салфетки или да сложи десерти в чинии. После разгледайте стари семейни снимки или заедно пейте познати песни. Участието в деня е по-важно от това как ще излезе задачата."
+  - q: "Трябва ли все още да правим голямо семейно събиране?"
+    a: "Само ако е по силите ви. Тълпите и шумът могат да претоварят, затова много семейства избират по-малко и по-непринудено събиране, по-ранен обяд или гости, които идват на малки групи. Alzheimer's Association съветва близките да правят само онова, което могат разумно и безопасно да поемат."
+  - q: "Как да подготвим роднини, които отдавна не са идвали?"
+    a: "Кажете им преди идването за промените, които може да забележат, и че те се дължат на болестта, а не на човека. Помолете ги да не поправят и да не задават въпроси като на проверка, да говорят един по един и да дават време за отговор. Показването на снимки на гостите предварително също може да помогне."
+  - q: "Какви празнични подаръци подхождат на човек с деменция?"
+    a: "Прости и безопасни неща, с които може да се радва сега: любима закуска, мека завивка или пуловер, познata музика или семеен албум със снимки. Избягвайте сложна електроника, инструменти и трудни настолни игри. Включването му в даряването, например опаковане на подарък или пакетиране на бисквити, които е помогнал да се изпекат, може само по себе си да е подарък."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Празниците могат да върнат топли спомени, но могат да донесат и шум, навалица и промени в обичайния ден. За човек, който живее с деменция, най-добрите празненства обикновено са по-малки, по-бавни и изградени около неща, с които той все още може да се радва. Тези идеи важат за Деня на благодарността, Коледа, Ханука, Нова година и семейни рождени дни.
 
-## How do I plan a calmer holiday?
+## Как да планирам по-спокойен празник?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Започнете с ежедневния ритъм на човека и планирайте деня около него. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) предлага празненството да се проведе по-рано през деня, защото объркването и безпокойството често се засилват късно следобед и вечерта (понякога наричано „залезен синдром“). Празничен обяд или закуска-обяд може да е по-лесен от късна вечеря.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Пазете подходящ размер.** По-малко и по-непринудено събиране или гости, които идват по няколко наведнъж, често е по-лесно от пълна маса.
+- **Раздайте задачи.** Помолете роднините да донесат ястие, да пазаруват или да прекарат време с човека, докато вие готвите. Бъдете конкретни за това, което би помогнало.
+- **Дръжте украсата проста.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) отбелязва, че мигащите светлини могат да объркат, а бонбони или изкуствени плодове като украса може да бъдат сбъркани с храна.
+- **Решете какво да пропуснете.** Ако дадена традиция е станала стресираща или рискова, няма проблем да я пропуснете или да изберете по-тиха.
 
-## What holiday activities can we do together?
+## Какви празнични дейности можем да правим заедно?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Изберете задачи и занимания, които отговарят на това, което човекът може да прави днес. Участието в деня е по-важно от това как ще се получи.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Подредете масата заедно.** Първо сложете чинии, после салфетки, после чаши. Сгъването на салфетки е добра задача, за която може да седнете.
+2. **Измийте и подредете зеленчуци.** Измиването на картофи или късането на зелен фасул на кухненската маса е безопасно и познато за много хора, които са готвили.
+3. **Бъркайте, смесвайте или сервирайте.** Бъркането на сос от боровинки, смесването на просто тесто или поставянето на бисквити в чиния държи ръцете заети, далеч от печката и ножовете.
+4. **Опаковайте подарък.** Предварително отрежете хартията и лентата и оставете човека да сгъва и изглажда. Спретнатото опаковане не е целта.
+5. **Закачете няколко украси.** Изберете неща, които не се чупят, и една малка зона, например венец или малка елха.
+6. **Направете проста занаятчийска работа.** Хартиени синджири, колаж от листа или празнична картичка с печати вършат добра работа. Нашето [ръководство за изкуства и занаяти](/activities/arts-and-crafts/) има още идеи.
+7. **Пейте и слушайте.** Познатите коледарски песни и празнични мелодии са лесни за пеене, дори за човек, който сега говори по-малко. Вижте нашето [ръководство за музика](/activities/music/), за да съставите плейлист.
+8. **Разгледайте стари празнични снимки.** Извадете албуми от минали празненства и поканете към разкази („Разкажи ми за тази маса“), вместо да питате кой е кой. Нашето [ръководство за спомени](/activities/reminiscence/) обяснява как.
+9. **Играйте спокойна групова игра.** [Снимков бинго](/games/picture-bingo/) се отпечатва за минути и подхожда на всички възрасти, а [картички за разговор](/games/conversation-cards/) дават на всички нещо, за което да говорят.
+10. **Оцветявайте заедно.** Прости [страници за оцветяване](/games/coloring/) могат да се отпечатат за децата и за бабите и дядовците, които да споделят на масата.
+11. **Гледайте любим празничен филм.** Познат филм е успокояващ и е добре да гледате само част от него.
+12. **Направете кратка разходка с кола, за да видите светлините.** Тиха разходка покрай украсени къщи може да е по-лесна от многолюдно събитие.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Ако готвенето е била голяма част от живота на човека, нашето ръководство за [домакински задачи като занимание](/activities/household-tasks/) има още начини кухненските задачи да са безопасни и удовлетворяващи.
 
-## How do I prepare guests?
+## Как да подготвя гостите?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Кажете на гостите какво да очакват, преди да дойдат, особено на роднини, които отдавна не са идвали. Alzheimer's Association предлага да обясните, че промените в паметта и поведението идват от болестта, а не от човека.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Споделете няколко прости съвета:** говорете един по един, дайте време да довършат мисълта, не поправяйте и не задавайте въпроси като на проверка, и реагирайте на тона на човека, ако думите са трудни за проследяване.
+- **Кажете какво помага и какво разстройва.** Ако високите гласове, бързането или определени теми причиняват притеснение, кажете го.
+- **Запознайте гостите предварително.** Покажете на човека снимки на идващите и споделете една-две истории, или уредете кратък телефонен или видеоразговор преди деня.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Нашите [съвети за общуване](/caregiving/communication-tips/) разглеждат темата по-подробно.
 
-## What if it gets to be too much?
+## Какво да правя, ако стане твърде много?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Уредете тиха стая преди гостите да дойдат, далеч от шума, с познати неща за уют като любима завивка, пуловер или проста дейност. Предложете я рано и често: „Да седнем ли малко на по-тихо място?“
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Напускането на масата, по-ранното лягане или пропускането на част от деня е добър изход, не провал. Ако човекът се разстрои, спокоен глас, позната песен или разходка до друга стая често помагат повече от обясненията. Нашето ръководство за [безпокойство късно през деня](/caregiving/late-day-restlessness/) има още идеи за вечерите.
 
-## How can family far away take part?
+## Как може семейството, което живее далеч, да участва?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Видеообажданията позволяват на роднините да се присъединят, без да увеличават навалицата. Alzheimer's Association предлага обажданията да имат някаква структура, например пеене на сезонни песни, споделяне на снимки от минали събирания, готвене по една и съща рецепта или гледане на празничен филм едновременно. Пазете обажданията кратки и помолете хората да говорят един по един, защото едновременният разговор е трудно за проследяване. Нашето [ръководство за телефонни и видеообаждания](/activities/phone-and-video-calls/) има стъпка по стъпка идеи.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Ако човекът живее в център за грижи за памет, проверете правилата за посещения и помолете персонала да помогне за уреждане на разговор. Нашето ръководство за [посещение на човек в грижа за памет](/activities/visiting/) обяснява какво да донесете и как да си тръгнете добре.
 
-## What gifts suit someone with dementia?
+## Какви подаръци подхождат на човек с деменция?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Прости и безопасни подаръци, с които може да се радва сега, обикновено работят най-добре: любима закуска, мека завивка или пуловер, познata музика, голям календар с едри букви или албум със семейни снимки. Alzheimer's Association съветва да се избягват опасни инструменти, сложна електроника и трудни настолни игри.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Даването може да е също толкова важно, колкото получаването. Опаковането на бисквити, които човекът е помогнал да изпечете, или поверяването на опаковането на подарък, който сте купили, му позволява да участва в сезона. Една идея е и семейна игра със снимки: [двойки снимки](/games/photo-pairs/) превръщат няколко избрани снимки в нежна игра за съчетаване в браузъра.
 
-## Look after yourself too
+## Грижете се и за себе си
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Празниците добавят работа към грижата. Оставете някой друг да е домакин или да готви печеното, откажете се от събития, които ще са трудни, и си починете, докато други прекарват време с човека. Ако вие или човекът, за когото се грижите, сте болни, махане от входа или видеообаждане е напълно добро посещение. Нашето ръководство за [грижа за себе си](/caregiving/caregiver-self-care/) има повече подкрепа.

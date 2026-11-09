@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "डिमेंशिया वाला के खातिर एक नरम रोज़ाना दिनचर्या"
+seoTitle: "डिमेंशिया दिनचर्या: एक लचीला नमूना दिन"
+description: "डिमेंशिया के साथ जी रहल कोई खातिर लचीला नमूना दिन: भोजन, गतिविधि अउर आराम ठहराव वाला क्रम में। अपना दिनचर्या बनावे अउर कठिन दिन में ओकरा बदले के तरीका।"
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  एक नरम दिनचर्या में जागल, भोजन, निजी देखभाल अउर सूतल लगभग एके बेरा पर रहेला।
+  मुख्य गतिविधि ऊ समय पर राखल जाला जब व्यक्ति सबसे जागल रहेला, अउर गतिविधि
+  अउर आराम में संतुलन रहेला। एके व्यक्ति के जिनगी भर के आदत से बनावल जाला,
+  भरल ना बल्कि ढीला राखल जाला, हर दिन धूप अउर चलल-फिरल जाला, अउर जब दिन माँगे
+  तब योजना बदलल जाला।
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "जागे, भोजन, देखभाल अउर सूते के समय एक निश्चित बेरा पर रहला से दिन जाना-पहचाना लागेला।"
+  - "मुख्य गतिविधि व्यक्ति के सबसे बढ़िया समय पर राखीं, अक्सर सुबह।"
+  - "हर मिनट मत भरीं। आराम अउर शांत समय भी दिनचर्या के हिस्सा बा।"
+  - "धूप, रोज़ चलल-फिरल अउर देर शाम के लंबा झपकी अउर कैफीन वाला चाय-कॉफी से बचाव, शाम के बेचैनी में मदद कर सकेला।"
+  - "दिनचर्या एगो मार्गदर्शक ह, नियम ना। कठिन दिन में कुछु बदलीं, छोटा करीं या छोड़ दीं।"
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "डिमेंशिया वाला खातिर दिनचर्या काहे मदद करेला?"
+    a: "अनुमान लगे वाला दिन में कम फैसला करे पड़ेला अउर कम अचरज होला, एहसे डिमेंशिया के साथ जी रहल बहुत लोग के आराम मिलेला। Alzheimer's Association कहेला कि योजना वाला दिन में रउवा ई सोचे में कम समय लगाईब कि का करे के बा, अउर जउन चीज़ दुनो जने के पसंद बा ओकरा खातिर जादा समय मिली। एहसे देखभाल करे वाला के अपना दिन के रफ्तार भी ठीक रहेला।"
+  - q: "डिमेंशिया वाला खातिर रोज़ के सही कार्यक्रम कवन होला?"
+    a: "कउनो एक सही कार्यक्रम नइखे। अच्छा कार्यक्रम जागे, भोजन अउर सूते के समय लगभग एके बेरा पर रखेला, निजी देखभाल अउर मुख्य गतिविधि ओह समय पर राखेला जब व्यक्ति सबसे बढ़िया होखे, बाहर या खिड़की के पास समय देला, अउर आराम खातिर जगह छोड़ेला। एके ओह जिनगी के ढंग से बनाईं जेवन व्यक्ति हमेशा से जियत आइल बा।"
+  - q: "का डिमेंशिया वाला व्यक्ति दिन में झपकी ले सकेला?"
+    a: "थोड़ा आराम मदद कर सकेला, खासकर दुपहरिया के खाना के बाद। National Institute on Aging सलाह देला कि लंबा झपकी अउर दिन के देर में ऊँघे से बचल जाव, काहे कि थकल या ठीक से ना सूतल होखला से शाम के बेचैनी बढ़ सकेला। अगर नींद सच में बड़ समस्या बा त उनकर डॉक्टर से बात करीं।"
+  - q: "अगर ऊ दिनचर्या माने से मना कर देस त?"
+    a: "अभी ओके छोड़ दीं अउर बाद में या दोसरा तरीका से फेर कोशिश करीं। मना करे के मतलब हो सकेला कि ऊ थाकल बाड़ें, तबियत ठीक नइखे, दर्द में बाड़ें या बस तइयार नइखे। दिनचर्या दिन आसान बनावे खातिर बा, एहसे ओके जबरदस्ती मत करीं, मोड़ लीं।"
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+एगो नरम दिनचर्या दिन के एगो जाना-पहचाना रूप देले: उठल, खाना, थोड़ा काम-धाम, आराम, अउर लगभग एके बेरा पर सूतल। एहसे फैसला कम करे पड़ेला अउर अचरज कम होखेला, अउर उ घड़ी खातिर योजना मिलेला जब रउवा सोचत रहेब कि अगिला का करे के बा। नीचे के दिनचर्या एगो नमूना ह, नियम ना। एके शुरुआत के रूप में लेईं, फेर जेकर देखभाल रउवा करत बानी ओकरा हिसाब से बनाईं।
 
-## Why does a daily routine help?
+## दिनचर्या से मदद काहे मिलेला?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+जाना-पहचाना ढर्रा नया ढर्रा से आसान लागेला, एहसे नियमित दिनचर्या मदद करेला। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) कहेला कि योजना वाला दिन में कम सोचे पड़ेला कि का करे के बा, अउर जादा समय अच्छा लागे वाला काम खातिर बचेला। ऊ इहो कहेला कि जागे अउर सूते के नियमित समय से नींद के दिक्कत अउर शाम के बेचैनी में कुछ आराम मिल सकेला। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) सलाह देला कि रोज़ एके बेरा पर नहाईं, कपड़ा पहिनीं अउर खाईं, जेसे घर में शांति रहे। [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) भी एके नियमित दिनचर्या रखे के सिफारिश करेला।
 
-## A sample gentle day
+## एगो नरम नमूना दिन
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+समय खाली उदाहरण ह। पूरा दिन पहिले या बाद में खिसका लीं, व्यक्ति के अपना लय के हिसाब से।
 
-| Time | What happens | Ideas | On a harder day |
+| समय | का होला | सुझाव | कठिन दिन में |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| सुबह 8:00 | जागल, हाथ-मुँह धोवल, कपड़ा पहिनल | हर दिन एके क्रम में; पहिने के कपड़ा पहिनला के क्रम में रख दीं | देखभाल सरल राखीं; एगो साफ कमीज़ काफी बा |
+| सुबह 8:45 | नाश्ता | चाय अउर अखबार ज़ोर से पढ़ीं, या रेडियो | साथे चुपचाप खाईं, बोले खातिर दबाव मत दीं |
+| सुबह 9:30 | मुख्य गतिविधि | कपड़ा तह करीं, खाना बनावल, बागवानी, छोटा बाहर जाए या टहले | छोट रूप, या ऊ रउवा के करत देखस |
+| सुबह 10:30 | शांत समय | संगीत, फोटो एलबम, या खिड़की के पास बइठल | मनपसंद कुर्सी पर आराम |
+| सुबह 11:00 | दुपहरिया के खाना में मदद | सब्जी धोवल, मेज़ सजावल | रउवा खाना बनाईं; ऊ साथ बइठस |
+| दुपहर 12:00 | खाना अउर सफाई | मेज़ पोंछल, कुछ बर्तन सुखावल | काम छोड़ दीं |
+| दुपहर 1:00 | थोड़ा आराम | पैर उठा के बइठल, धीमा संगीत | वही |
+| दुपहर 2:00 | बाहर या सक्रिय | टहल, बरामदा में बइठल, पौधा में पानी, गुब्बारा उछालल | धूप वाला खिड़की के पास बइठल |
+| दुपहर 3:00 | मेल-जोल या रचनात्मक | मिले-जुले आवल, फोन, [तस्वीर के जोड़ी](/games/picture-pairs/), रंग भरल, ताश | साथे एगो पेय अउर नाश्ता |
+| शाम 4:30 | शांत होखे के समय | परदा गिरा दीं, बत्ती जला दीं, छोट काम जइसे रुमाल तह करल | जाना-पहचाना संगीत, कम शोर |
+| शाम 5:30 | रात के खाना | चम्मच चलावे या मेज़ सजावे में मदद | सरल, जाना-पहचाना खाना |
+| शाम 6:30 | साथे शाम | मीठा के साथे पुरानी बात याद करल, ताश, मनपसंद सीरियल, हाथ दबावल | शांत साथ |
+| रात 8:00 | सूते के तइयारी | नहाइल या हाथ-मुँह धोवल, रात के कपड़ा, धीमा संगीत, कम रोशनी | सब कुछ छोट करीं; आराम पहिले |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+ई नमूना Alzheimer's Association के अपना नमूना योजना के ढंग पर बा, जेमें शुरुआती अउर बीच के अवस्था खातिर निजी देखभाल अउर नाश्ता से शुरू होके काम-धाम, टहल, संगीत, आराम अउर मेल-जोल होत रात के खाना, पुरानी बात याद करल अउर सूते के तइयारी तक चलेला।
 
-## How do you build your own routine?
+## आपन दिनचर्या कइसे बनाईं?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+पहिले चार्ट मत बनाईं, व्यक्ति हमेशा से कइसे जियत आइल बा ओकरा से शुरू करीं। Alzheimer's Association योजना से पहिले ई बात सोचे के सलाह देला:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **उनकर पसंद-नापसंद, ताकत अउर रुचि।**
+- **ऊ दिन कइसे बिताव करत रहस।** जे भोर में उठत रहे अउर कुकुर के टहलावत रहे, ऊ अबो भोर में टहल सकेला। रात में जागे वाला के सुबह 8 बजे के शुरुआत शायद कब्बो ना भाई।
+- **उनकर सबसे बढ़िया समय।** नहाइल, बाहर जाइल अउर मुख्य गतिविधि ओही समय राखीं।
+- **काफी समय**, भोजन, हाथ-मुँह धोवे अउर कपड़ा पहिने खातिर, जेसे कुछ हड़बड़ी ना होखे।
+- **नियमित जागे अउर सूते के समय।**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+ओही स्रोत के कहना बा कि घर के काम, खाना, निजी देखभाल, रचनात्मक गतिविधि, शारीरिक सक्रियता, मेल-जोल, आध्यात्मिक गतिविधि अउर अचानक के पल, जइसे कवनो दोस्त के आ जाए, सब के मेल रखीं।
 
-### Try it for a week, then adjust
+### एक हफ्ता आजमाईं, फेर बदलीं
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+हर दिन एगो छोट नोट रखीं। Alzheimer's Association सलाह देला कि पूछीं कि कवन गतिविधि सबसे बढ़िया रहल अउर काहे, कब्बो बहुत कुछ चलत रहल या कुछ ना रहल, अउर अचानक वाला योजना अच्छा लागल कि चिंता के कारण बनल। जउन काम करे ओके रखीं, जउन ना करे ओके बदलीं।
 
-### Make it visible
+### दिखावे वाला बनाईं
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+अगर व्यक्ति अबो पढ़ सकेले त दिन के योजना वाला व्हाइटबोर्ड या बड़ अक्षर वाला कार्ड आश्वस्त कर सकेला। छोट रखीं: “नाश्ता। सीता संगे टहल। दुपहर के खाना। आराम।” कुछ लोग पहिले से बहुत कुछ जानला पर ठीक ना रहेले। Family Caregiver Alliance सलाह देला कि अगर चिंता होखे त योजना के बारे में ठीक पहिले तक बात मत करीं।
 
-## How to adapt the routine
+## दिनचर्या कइसे अनुकूल करीं
 
-### Leave room to breathe
+### साँस लेवे खातिर जगह छोड़ीं
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+पूरा मिनट मत भरीं। Alzheimer's Association जोर देला कि व्यक्ति के गतिविधि अउर आराम के संतुलन चाही, अउर अक्सर बीच-बीच में विराम जरूरी होला। अगर ऊ ऊब गइल, ध्यान भटकल या चिढ़ल लागस त गतिविधि बदलीं या आराम कराईं।
 
-### Protect the late afternoon
+### शाम के समय के ख्याल राखीं
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+बहुत लोग दिन के रोशनी घटला पर जादा बेचैन हो जालें। NIA सलाह देला कि रोज़ धूप खातिर बाहर या खिड़की के पास समय बितावल जाव, रोज़ सक्रिय रहल जाव बिना जादा योजना बनवले, शाम में कैफीन अउर शराब से बचल जाव, अउर दिन के देर में लंबा झपकी से बचल जाव। कुछ परिवार के इहो मदद मिलेला कि साँझ से पहिले परदा गिरा के बत्ती जला दीहल जाव। देखीं [शाम के बेचैनी](/caregiving/late-day-restlessness/) अउर [नींद](/brain-health/sleep/)।
 
-### Change it as needs change
+### जरूरत बदलला पर दिनचर्या बदलीं
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **शुरुआती अवस्था:** दिनचर्या साथे मिलके बनाईं। व्यक्ति चाहत होखें कि लिखल योजना उनके अपने हाथ में रहे।
+- **बीच के अवस्था:** रउवा जादा अगुवाई करीं। छोट गतिविधि, जादा आराम अउर जाना-पहचाना बहुत काम; देखीं [बीच के अवस्था की गतिविधि](/activities/middle-stage/)।
+- **आखिरी अवस्था:** दिनचर्या आराम, भोजन अउर देखभाल पर टिकेला, बीच-बीच में संगीत या हाथ दबावल जइसन छोट इंद्रिय वाला पल रखल जाला; देखीं [आखिरी अवस्था की गतिविधि](/activities/late-stage/)।
 
-### Vary the activities, not the frame
+### गतिविधि बदलीं, ढांचा ना
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+भोजन, आराम अउर सूते के समय एके रखीं, बीच के गतिविधि घुमावत रहीं। [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) सलाह देला कि अलग-अलग दिन अलग-अलग गतिविधि कइल जाव, जेसे मन लागल रहे। जइसे सोमवार के बेकिंग, मंगलवार के बागवानी अउर बुधवार के फोटो देखल। हमर [101 गतिविधि के विचार](/activities/ideas/) अउर [घर के काम](/activities/household-tasks/) ई खाली समय भर सकेला।
 
-## When the day goes sideways
+## जब दिन गड़बड़ा जाए
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+कुछ दिन कवनो योजना के ना मानी। बीमारी, खराब रात, डॉक्टर के आवे या मौसम के बदलाव सब कुछ उलट-पुलट कर सकेला। योजना छोड़ दीं, बुनियादी चीज़ (खाना, पानी, आराम, आराम के सुविधा) बनल रहे, अउर अगिला दिन फेर कोशिश करीं। अगर व्यक्ति कवनो चीज़ से मना करस त [जब ऊ ना कहस](/caregiving/when-they-say-no/) देखीं। साथे धीरे-धीरे साँस लेवे के विराम, जइसे [शांत साँस](/games/calm-breathing/), दुनो जने के फेर से ठीक करे में मदद कर सकेला।
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+आपन दिनचर्या भी जरूरी बा। अपना खातिर भी आराम के समय रखीं, अउर परिवार या राहत सेवा से नियमित छुट्टी खातिर पूछ लीं। देखीं [देखभाल करे वाला के अपन ख्याल](/caregiving/caregiver-self-care/)।

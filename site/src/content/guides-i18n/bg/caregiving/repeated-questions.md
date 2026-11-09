@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Когато човек с деменция пита едно и също"
+seoTitle: "Повтарящи се въпроси при деменция: какво да кажете"
+description: "Защо човек с деменция задава един и същи въпрос, спокойни начини за отговор, прости помощни средства и кога внезапната промяна изисква лекар."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Повтарящите се въпроси са често срещани при деменция: обикновено човекът не
+  помни, че вече е питал, а зад въпроса често стои тревога. Отговаряйте
+  спокойно и кратко, сякаш е за първи път, отговорете на чувството зад въпроса
+  и никога не казвайте „Вече ме попита.“ Запишете отговора там, където може да
+  го види. Споменавайте събития само малко преди да се случат и предложете
+  приятна дейност. Внезапната промяна изисква лекар.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Човекът обикновено не помни, че е питал; не го прави нарочно."
+  - "Зад въпроса често стои чувство, например тревога за посещение или желание да се почувства в безопасност."
+  - "Отговаряйте спокойно, кратко и любезно, сякаш е за първи път. Никога не казвайте „Вече ме попита.“"
+  - "Бележка, бяла дъска, часовник или календар на видно място може да отговорят на въпроса вместо вас."
+  - "Споменавайте стресиращи събития само малко преди да настъпят."
+  - "Направете кратка почивка, когато имате нужда, и се обадете на лекар за всяка внезапна промяна."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Защо баща ми с деменция продължава да задава един и същи въпрос?"
+    a: "Деменцията засяга краткотрайната памет, затова той може наистина да не помни, че е питал, или че е чул отговора. Често въпросът носи и чувство, например тревога за това какво ще се случи или нужда от успокоение. Отговорът на това чувство обикновено помага повече от повтарянето на фактите."
+  - q: "Трябва ли да им кажа, че вече са питали?"
+    a: "Не. Това не може да им помогне да запомнят и може да прозвучи като упрек. Организации за деменция съветват да отговаряте спокойно всеки път, сякаш е за първи път, и да държите отговора кратък."
+  - q: "Помага ли да запишете отговора?"
+    a: "Може да помогне, докато човекът все още може да чете. Бележка, бяла дъска с плана за деня, голям часовник или календар на място, където често поглежда, му позволяват сам да провери отговора. Посочете го нежно, вместо да кажете „Казах ви.“"
+  - q: "Кога да говоря за прегледи или излизания?"
+    a: "Близо до момента. Споменаването на посещение при лекар или пътуване няколко дни по-рано може да се превърне в часове тревожни въпроси. Кажете му малко преди това, спокойно, с това, което ще се случи след това."
+  - q: "Кога повтарянето е причина да се обадите на лекар?"
+    a: "Ако въпросите, объркването или промяната в поведението се появят внезапно или се влошат много за часове или дни, обадете се бързо на лекаря. Инфекция, ново лекарство, болка, запек или дехидратация могат да причинят внезапно объркване, наречено делириум, което изисква бърза помощ."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„Кога е прегледът?“ Десет минути по-късно: „Кога е прегледът?“ Да чувате един и същи въпрос отново и отново е една от най-изтощителните части от грижата за човек с деменция. Това е много често, не се прави нарочно и има спокойни начини за отговор, които правят деня по-лесен и за двама ви.
 
-## Why does someone with dementia ask the same question over and over?
+## Защо човек с деменция задава един и същи въпрос отново и отново?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Основно заради паметта. Деменцията засяга краткотрайната памет, затова човекът често не помни, че е питал, или не помни отговора. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) описва многократното задаване на въпроси като често срещано и очаквано явление.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Въпросът често носи и чувство. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) обяснява, че повтарящ се въпрос може да изразява тревога, молба за помощ или безпокойство и несигурност, а човекът често търси утеха и познатост. „Кога тръгваме?“ може всъщност да означава „Нервен съм за пътуването.“ Скуката, страхът, шумът и промените в ежедневието могат да предизвикат това, а повтарящ се въпрос може да сигнализира и за нужда, например за тоалетна ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Какво да кажа?
 
-Answer calmly and briefly, as if it were the first time.
+Отговаряйте спокойно и кратко, сякаш е за първи път.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Дръжте отговора кратък и еднакъв.** „Прегледът е в два часа. Ще бъда с вас.“ Последователният отговор е по-лесен за възприемане.
+- **Отговорете на чувството.** „Мислите за прегледа. Той е днес следобед и ще ви закарам. Нямате нищо да правите.“
+- **Говорете топло и с нежен допир,** ако на човека това му харесва. Alzheimer's Association съветва да запазвате спокойствие и да не използвате логика или спорове.
+- **Дайте отговора, който търси,** колкото пъти е нужно. Alzheimer's Association казва да го повтаряте толкова пъти, колкото пита.
 
-## What should I avoid?
+## Какво да избягвате?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„Вече ме попита това.“** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) съветва да не посочвате, че току-що са питали. Това не може да им помогне да запомнят и може да прозвучи като скарване.
+- **Дълги обяснения.** Повече думи означават повече неща за забравяне.
+- **Въздишки, завъртане на очи или рязък тон.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) препоръчва търпение и да не показвате раздразнение. Това е трудно; вижте раздела за почивките по-долу.
 
-## Simple tools that answer the question for you
+## Прости помощни средства, които отговарят вместо вас
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Докато човекът все още може да чете, написаният отговор, който вижда, често помага повече от устния.
 
-| Tool | How to use it |
+| Средство | Как да го използвате |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Бележка с големи букви | „Преглед днес в 14:00. Мария ще кара.“ Сложете я там, където най-често гледа |
+| Бяла дъска | Планът за деня в три или четири реда; изтривайте и пишете наново всяка сутрин |
+| Голям часовник с деня и датата | Помага при „Какъв ден е?“ и „Време ли е вече?“ |
+| Календар | Задрасквайте всеки ден; обградете следващото посещение |
+| Познати снимки | Снимка на човека, който идва, може да отговори на „Кой идва на гости?“ |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Тези идеи идват от [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) и [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Посочете бележката нежно („Нека да я погледнем заедно“), вместо да казвате „Записах го за вас.“
 
-## Tell them about events close to the time
+## Казвайте за събития близо до момента
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Споменаването на преглед или излизане няколко дни предварително може да се превърне в часове тревожни въпроси. Family Caregiver Alliance и Alzheimer's Los Angeles предлагат да говорите за плановете, особено за стресиращи като посещения при лекар или къпане, само малко преди да се случат. После казвайте какво ще се случи, една стъпка наведнъж.
 
-## Activities that can shift attention
+## Дейности, които могат да отклонят вниманието
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+След като сте отговорили и сте признали чувството, спокойна и приятна дейност може да помогне, особено ако зад въпросите стои скуката. Всички източници по-горе предлагат да пренасочите към нещо, което човекът харесва.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Кратка, лесна игра заедно.** [Картинни двойки](/games/picture-pairs/) оставя снимките видими, така че нищо не трябва да се помни.
+2. **Познато занимание.** Сгъване на кърпи, сортиране на чорапи или подреждане на масата. [Сортирайте заедно](/games/sort-together/) е версия на екрана.
+3. **Говорете за нещо, което обича.** [Карти за разговор](/games/conversation-cards/) дават отворени въпроси без правилни отговори.
+4. **Музика, разходка или закуска.** National Institute on Aging включва тези неща сред простите начини за пренасочване.
+5. **Тиха пауза.** Седнете заедно, погледнете през прозореца или направете споделен момент с [успокоително дишане](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+Ако се върнат към въпроса, отговорете отново, с обич. Това е наред.
 
-## Look for patterns
+## Търсете закономерности
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association предлага да забележите дали въпросите идват в определено време на деня, около определени хора или на определени места. Ако винаги започват преди пристигането на гости или късно следобед, можете да се подготвите предварително: бележка за посещението, позната дейност готова, по-тиха стая. Нашето ръководство за [спокойни дейности късно следобед](/caregiving/late-day-restlessness/) може да помогне, ако вечерите са най-трудни.
 
-## Take care of yourself
+## Грижете се и за себе си
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Отговарянето на един и същи въпрос за двадесети път е изтощително. Ако усетите, че търпението ви свършва, а човекът е в безопасност, излезте за няколко минути в друга стая и поемете дъх, както предлага [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) насърчава близките да търсят помощ и да обмислят кратковременна грижа за почивка. Повече идеи има в нашето ръководство за [грижа за себе си](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Кога да се обадя на лекар?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Обадете се бързо на лекаря, ако въпросите, объркването или промяната в поведението се появят внезапно или се влошат много за часове или дни. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) казва, че внезапно или бързо променящо се поведение, особено след инфекция или промяна на лекарство, трябва веднага да се съобщи на лекар. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) обяснява, че инфекция, лекарства, дехидратация, болка или запек могат да причинят делириум – внезапно и силно объркване, което изисква бързо лечение. Обадете се на 112, ако някой е в опасност.

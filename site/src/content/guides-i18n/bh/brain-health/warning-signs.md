@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "डिमेंशिया के शुरुआती लक्षण आ डॉक्टर से कब मिलल जाव"
+seoTitle: "डिमेंशिया के शुरुआती लक्षण आ डॉक्टर से कब मिलल जाव"
+description: "डिमेंशिया के आम शुरुआती लक्षण, उम्र के सामान्य बदलाव से ओकर अंतर, इलाज हो सके वाला याददाश्त के कारण, आ डॉक्टर से मुलाकात खातिर तइयारी कइसे कइल जाव।"
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  याददाश्त में अइसन कमी जवन रोज के काम में बाधा डाले, जाना-पहचाना काम करे में दिक्कत, समय या जगह के बारे में भ्रम, आ मन या फैसला लेवे के ढंग में बदलाव, डिमेंशिया के शुरुआती संकेत हो सकेला। कई दूसरा हालत, जइसे थायरॉइड के दिक्कत, विटामिन B12 के कमी, दवा के दुष्प्रभाव, उदासी आ नींद के दिक्कत, भी ई तरह के बदलाव ला सकेला। सिर्फ योग्य डॉक्टर ही पहचान कर सकेलें। अचानक भ्रम होखे त तुरंत इलाज जरूरी बा।
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "उम्र के साथ कबो-कबो भूल जाइल आम बात बा; बाकिर अइसन बदलाव जवन रोज के जिनगी में बाधा डाले, ओकर जांच होखे के चाहीं।"
+  - "अल्ज़ाइमर्स एसोसिएशन 10 चेतावनी संकेत बतावेला, हर एक के साथ उम्र के साथ होखे वाला सामान्य बदलाव के तुलना भी दिहल गइल बा।"
+  - "थायरॉइड के दिक्कत, विटामिन B12 के कमी, दवा के दुष्प्रभाव, उदासी, संक्रमण आ नींद के दिक्कत, ई सब याददाश्त पर असर डाल सकेला, आ कुछ के इलाज हो सकेला।"
+  - "डिमेंशिया के पहचान सिर्फ योग्य डॉक्टर ही कर सकेलें; ऑनलाइन क्विज़ आ खुद के जांच से ई ना हो सकेला।"
+  - "अचानक घंटा या दिन भर में आवे वाला भ्रम डेलिरियम (delirium) हो सकेला, आ एकरा खातिर तुरंत डॉक्टरी मदद चाहीं।"
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "का भुलाइल उम्र के सामान्य हिस्सा बा?"
+    a: "कुछ हद तक हाँ। नेशनल इंस्टीट्यूट ऑन एजिंग (NIA) कहेला कि कबो-कबो चीज इधर-उधर रख देवल या बिल भुला जाइल आमतौर पर हल्का, उम्र से जुड़ल भुलक्कड़पन होला। डिमेंशिया उम्र का सामान्य हिस्सा ना ह। अगर याददाश्त के दिक्कत से गाड़ी चलावे, फोन चलावे या घर के रास्ता खोजे में मुश्किल होखे, त डॉक्टर से जांच करवावल ठीक रही।"
+  - q: "का याददाश्त के दिक्कत डिमेंशिया के अलावा कवनो दूसरा कारण से हो सकेला?"
+    a: "हाँ। NIA थायरॉइड, किडनी या लिवर के दिक्कत, दवा के दुष्प्रभाव, उदासी आ चिंता, विटामिन B12 के कमी, शराब के गलत इस्तेमाल, नींद के दिक्कत, संक्रमण आ सिर पर चोट, अउर कई कारण गिनावेला। इनमें से कुछ के इलाज भइला पर सुधार हो सकेला, एही से डॉक्टरी जांच जरूरी बा।"
+  - q: "का हम घर पर केहू के डिमेंशिया खातिर जांच कर सकेनी?"
+    a: "ना। सिर्फ योग्य डॉक्टर ही डिमेंशिया के पहचान कर सकेलें। ऊ मेडिकल हिस्ट्री, शारीरिक जांच, याददाश्त आ सोच के जांच, खून के जांच आ कभी-कभी दिमाग के स्कैन से जांच करेलें। डॉक्टर के इस्तेमाल होखे वाली छोटी जांच भी अकेले डिमेंशिया के पक्का ना कर सकेली।"
+  - q: "अगर केहू अचानक भ्रमित हो जाव त का करीं?"
+    a: "तुरंत डॉक्टरी मदद लीं। अचानक भ्रम डेलिरियम हो सकेला, जेकरा अमेरिका के वेटरन्स अफेयर्स विभाग (VA) मेडिकल इमरजेंसी बतावेला। तुरंत उनकर स्वास्थ्य सेवा देवे वाला से संपर्क करीं या अपना इलाका के आपातकालीन नंबर (भारत में 112) पर फोन करीं, उनका साथे रहीं, आ ऊ जवन दवाई खात बाड़े ओकर ध्यान राखीं।"
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+केहू के याददाश्त में आपन बदलाव, या जेकर देखभाल रउआ करत बानी ओकरा में बदलाव देखल डेरावे वाला बात हो सकेला। ई पन्ना रउआ के ई तय करे में मदद कर सकेला कि डॉक्टर से कब मुलाकात करीं आ ओकर तइयारी कइसे करीं। ई ना बता सकेला कि केहू के डिमेंशिया बा कि ना। **डिमेंशिया के पहचान सिर्फ कवनो योग्य डॉक्टर ही कर सकेलें**, आ याददाश्त के दिक्कत के बहुत कारण डिमेंशिया ना होला। कृपया ऑनलाइन क्विज़ या खुद के जांच पर भरोसा मत करीं।
 
-## What are the early signs of dementia?
+## डिमेंशिया के शुरुआती लक्षण कवन-कवन ह?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[अल्ज़ाइमर्स एसोसिएशन](https://www.alz.org/alzheimers-dementia/10_signs) 10 शुरुआती लक्षण बतावेला। ऊ हर एक के साथ उम्र के साथ होखे वाला सामान्य बदलाव के तुलना खातिर भी रखेला। हमरा आपन शब्द में:
 
-| Sign worth checking | More typical with age |
+| जांच के लायक लक्षण | उम्र के साथ आम तौर पर होखे वाला |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| याददाश्त में अइसन कमी जवन रोज के काम में बाधा डाले, जइसे हाल के बात भूल जाइल या एके बात बार-बार पूछल | कबो-कबो कवनो नाम या अपाइंटमेंट भूल जाइल, फेरु बाद में याद आ जाइल |
+| योजना बनावे या समस्या सुलझावे में दिक्कत, जइसे जाना-पहचाना खाना बनावे या बिल के हिसाब रखे में मुश्किल | घर के बिल में कबो-कबो गलती हो जाइल |
+| घर, काम या बाहर जाना-पहचाना काम पूरा करे में दिक्कत | कबो-कबो माइक्रोवेव के सेटिंग या टीवी प्रोग्राम रिकॉर्ड करे में मदद लेवे के जरूरत पड़ल |
+| तारीख, मौसम या अपना जगह के भूल जाइल | हफ्ता के दिन गलत बतावल, फेरु सोच के ठीक कर लेवल |
+| दूरी के अंदाजा लगावे, पढ़े या रंग पहचाने में नया दिक्कत | मोतियाबिंद से नजर में बदलाव |
+| शब्द में नया दिक्कत, जइसे बात के बीच में रुक जाइल या चीज के गलत नाम लेवल | कबो-कबो सही शब्द खोजे में मुश्किल होखल |
+| चीज अजीब जगह पर रख देवल आ अपना कदम वापस सोच ना पावल | कबो-कबो चीज रखा के भूल जाइल आ कदम याद करके खोज लेवल |
+| फैसला लेवे में खराब सोच, जइसे पइसा या अपना साफ-सफाई में | कबो-कबो कवनो गलत फैसला हो जाइल |
+| शौक, काम या सामाजिक कार्यक्रम से दूर होखल | कबो-कबो परिवार या समाज के कार्यक्रम में जाए के मन ना होखल |
+| मन या स्वभाव में बदलाव, जइसे भ्रमित, शक्की, डरल या चिंतित हो जाइल | तय तरीका से काम करे के आदत होखल आ रूटीन टूटला पर चिढ़ जाइल |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+एगो लक्षण से डिमेंशिया के मतलब ना होला। असली बात ई बा कि **ऊ व्यक्ति के सामान्य हालत से बदलाव** होखे, खासकर अइसन जवन रोज के जिनगी के मुश्किल बना देवे।
 
-## How is normal aging different from dementia?
+## उम्र के सामान्य बदलाव आ डिमेंशिया में का अंतर बा?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[नेशनल इंस्टीट्यूट ऑन एजिंग (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) कहेला कि बहुत बुजुर्ग लोग देखेलें कि ऊ चीज धीरे याद करेलें, या कबो-कबो चीज रख के भूल जाएलें या बिल भुला जाएलें। ई आमतौर पर हल्का भुलक्कड़पन के संकेत होला। **डिमेंशिया उम्र का सामान्य हिस्सा ना ह।** गंभीर याददाश्त के दिक्कत से रोज के काम मुश्किल हो जाला, जइसे गाड़ी चलावल, फोन चलावल या घर के रास्ता खोजल।
 
-The NIA suggests talking with a doctor if someone:
+NIA के मुताबिक, अगर केहू में ई बात दिखे त डॉक्टर से बात करीं:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- एके सवाल बार-बार पूछल
+- ओह जगह पर भटक जाइल जहाँ ऊ पहिले अच्छा से जानत रहलन
+- खाना या निर्देश के पालन करे में दिक्कत
+- समय, लोग आ जगह के बारे में ज्यादा भ्रम
+- अपना देखभाल में कमी, जइसे ठीक से खाना ना खाइल, नहाना ना, या असुरक्षित व्यवहार
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+कुछ लोग में **हल्का संज्ञानात्मक दोष (MCI)** होला। मतलब उनकर उम्र के दूसरा लोग से ज्यादा याददाश्त या सोच के दिक्कत होला, बाकिर ऊ फिर भी रोज के काम संभाल लेवेलें। NIA कहेला कि MCI अल्ज़ाइमर्स के शुरुआती संकेत हो सकेला, बाकिर MCI वाला हर आदमी के ई बीमारी ना होखे।
 
-## What else can cause memory problems?
+## याददाश्त के दिक्कत के और का कारण हो सकेला?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+डिमेंशिया के अलावा भी कई चीज याददाश्त पर असर डाल सकेली, आ कुछ के इलाज से सुधार हो सकेला। NIA ई सब गिनावेला:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **थायरॉइड, किडनी या लिवर के दिक्कत**
+- **दवा के दुष्प्रभाव**
+- **उदासी आ चिंता**
+- **विटामिन B12 के कमी** या ठीक से पौष्टिक खाना ना खाइल
+- **नींद के दिक्कत**
+- **शराब या नशा के गलत इस्तेमाल**
+- **संक्रमण, खून के थक्का या दिमाग में गांठ (ट्यूमर)**
+- **सिर पर चोट**, जइसे कंकशन
+- **भारी तनाव या दुख**, जइसे रिटायरमेंट या जीवनसाथी के खो देवल
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+सुनाई आ नजर के दिक्कत भी भ्रम जइसन लाग सकेला; देखीं हमर [सुनाई के गाइड](/brain-health/hearing/)। एहि से डॉक्टरी जांच जरूरी बा। [अल्ज़ाइमर्स एसोसिएशन](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) के मुताबिक, डॉक्टर अक्सर थायरॉइड के दिक्कत, विटामिन की कमी आ संक्रमण जांचे खातिर खून के जांच कराएलें। अच्छा [नींद](/brain-health/sleep/) आ उदासी के इलाज पर भी बात करे लायक बा।
 
-## Sudden confusion is an emergency
+## अचानक भ्रम इमरजेंसी ह
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**घंटा या दिन भर में जल्दी आवे वाला भ्रम तुरंत डॉक्टरी इलाज माँगेला।** ई डेलिरियम हो सकेला। [VA डेलिरियम के बारे में बतावेला](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) कि ई मेडिकल इमरजेंसी ह, आ सलाह देवेला कि तुरंत उनकर स्वास्थ्य सेवा देवे वाला से या 911 पर फोन करीं। (भारत में आपातकालीन नंबर 112 ह।) एकर लक्षण बा:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- साफ सोच में कबो ठीक, कबो गड़बड़
+- ध्यान देवे में दिक्कत
+- विचार बेतरतीब होखल
+- असामान्य रूप से बहुत नींद आवल, या असामान्य रूप से बेचैनी आ गुस्सा
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+ई केहू के हो सकेला, जवन पहिलहीं डिमेंशिया के साथ जी रहल बा ओकरो। [NHS](https://www.nhs.uk/symptoms/confusion/) के मुताबिक, आम कारण में संक्रमण (बुजुर्गन में पेशाब के रास्ता के संक्रमण आम होला), स्ट्रोक, मधुमेह वाला लोग में कम ब्लड शुगर, सिर पर चोट आ कुछ दवा शामिल बा। मदद आवे तक उनका साथे रहीं, छोटा आ आसान शब्द में भरोसा दीं। बहुत सवाल मत पूछीं, आ ऊ जवन दवाई खात बाड़े ओकर ध्यान राखीं।
 
-## How do I prepare for the doctor's appointment?
+## डॉक्टर से मुलाकात खातिर कइसे तइयारी करीं?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+अच्छा मुलाकात अच्छा नोट से शुरू होला। [अल्ज़ाइमर्स एसोसिएशन](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ई सब लेके चले के सलाह देवेला:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **बदलाव के सूची**, याददाश्त, मन आ व्यवहार में, खास उदाहरण के साथ आ लगभग कब से शुरू भइल
+2. **पुरान आ अभी के स्वास्थ्य समस्या**, परिवार में याददाश्त के दिक्कत के इतिहास समेत
+3. **सब नुस्खा आ काउंटर पर मिले वाली दवा**
+4. **कवनो विटामिन या सप्लीमेंट**
+5. **रउआ के सवाल**, जइसे कवन जांच होई, ओकर कितना समय लागी, आ रिपोर्ट कब मिली
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+जे व्यक्ति के नीक से जानत होखे, ओह परिवार के सदस्य या दोस्त के साथ लावल भी मदद करेला। [NIA बतावेला](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) कि डॉक्टर व्यक्ति आ परिवार के सदस्य दुनु से सेहत, दवा, रोज के काम आ व्यवहार में बदलाव के बारे में पूछ सकेलें। डॉक्टर ई भी कर सकेलें:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- याददाश्त, समस्या सुलझावे, ध्यान, गिनती आ भाषा के जांच
+- दूसरा कारण खोजे खातिर खून, पेशाब आ दूसरा जांच
+- उदासी या दूसरा मानसिक स्वास्थ्य हालत के जांच
+- CT या MRI जइसन दिमाग के स्कैन
+- जेरियाट्रिशियन, न्यूरोलॉजिस्ट, जेरियाट्रिक मनोचिकित्सक या न्यूरोसाइकोलॉजिस्ट जइसन विशेषज्ञ के पास भेजल
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA कहेला कि संज्ञानात्मक जांच अमेरिका के Medicare की सालाना स्वास्थ्य जांच (Medicare Annual Wellness Visit) के जरूरी हिस्सा ह, जवन चिंता उठावे के अच्छा मौका हो सकेला। रउआ अपना देश के नियमित स्वास्थ्य जांच में भी ई बात उठा सकीले। डॉक्टर के इस्तेमाल होखे वाली छोटी जांच अकेले डिमेंशिया के पक्का ना कर सकेली। ई पूरा जांच के पहिला कदम ह, आ पक्का पहचान में एक से जादा मुलाकात लाग सकेला। NIA सलाह देवेला कि याददाश्त के दिक्कत वाला लोग हर 6 से 12 महीना में डॉक्टर के पास लौटस।
 
-## Raising the subject kindly
+## बात के नरमी से उठावल
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+अगर रउआ केहू दूसरा खातिर चिंतित बानी, त शांत आ निजी समय चुनीं। जवन खास बात रउआ देखले बानी, ओकर चर्चा करीं, आ ई जतावे के कोशिश करीं कि ई उनकर सेहत खातिर चिंता ह, आलोचना ना। कवनो सामान्य स्वास्थ्य जांच के सुझाव देवल कम डेरावे वाला लाग सकेला। फैसला में ऊ व्यक्ति के भी शामिल करीं, आ उनका साथे वयस्क के तरह बात करीं। हमर [बात करे के सुझाव](/caregiving/communication-tips/) मदद कर सकेला।
 
-## Talk with a doctor
+## डॉक्टर से बात करीं
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+अगर याददाश्त, सोच, मन या रोज के काम करे के क्षमता में नया बदलाव दिखे आ ई बार-बार होखे, त प्राइमरी केयर डॉक्टर से मुलाकात तय करीं। अचानक भ्रम होखे त तुरंत 112 या ऊ व्यक्ति के स्वास्थ्य सेवा देवे वाला से संपर्क करीं। जल्दी जांच से इलाज हो सके वाला कारण मिल सकेला, आ अगर ई डिमेंशिया बा त योजना बनावे आ मदद खोजे खातिर जादा समय मिल जाला। एह दौरान अपना ख्याल भी रखीं; देखीं हमर [देखभाल करे वाला खातिर खुद के ख्याल गाइड](/caregiving/caregiver-self-care/)।
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ई पन्ना आम जानकारी ह, डॉक्टरी सलाह ना। देखीं हमर [मेडिकल अस्वीकरण](/medical-disclaimer/)।

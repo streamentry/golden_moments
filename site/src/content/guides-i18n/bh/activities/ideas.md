@@ -1,34 +1,30 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "डिमेंशिया वाला लोगन खातिर गतिविधि: 101 आसान विचार"
+seoTitle: "डिमेंशिया गतिविधि के विचार: 101 आसान गतिविधि"
+description: "डिमेंशिया के साथ जियत लोगन खातिर 101 आसान, वयस्क गतिविधि, तौलिया तहियावे से लेके संगीत आ फोटो तक, आ हर एक के कठिन होखला पर ओकरा आसान करे के तरीका।"
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  डिमेंशिया वाला लोगन खातिर नीमन गतिविधि जाना-पहचाना, वयस्क लायक आ साथ में करे में आसान होला: कपड़ा तहियावल, छाँटल, खाना बनावल, संगीत, फोटो देखल, टहलल, बगइचा के काम, पालतू जानवर संगे समय आ आसान खेल। ओकर जिनगी में जवन ऊ हमेशा से पसंद करत आइल बा, उ चुनीं। कठिन हिस्सा रउरा संभार लीं, आ जब ऊ थाक जाव त रुक जाईं। कवनो काम पूरा करे से जादा जरूरी बा साथ में सुख से बितावल समय।
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "ओकर अपना जिनगी से शुरू करीं: ओकर काम, शौक, आस्था आ मनपसंद गाना सबसे नीमन रास्ता देखावेला।"
+  - "जरूरत पड़ला पर गतिविधि छोट कर दीं: कम कदम, कम चुनाव, कठिन काम रउरा करीं।"
+  - "देखल, कुछ पकड़ल, भा बस पास में बइठल भी हिस्सा लेवल मानल जाला।"
+  - "थकान, झुंझलाहट भा ऊब देखीं त रुक जाईं भा बदल दीं। जल्दी खतम कइल भी नीमन नतीजा बा।"
+  - "साथ में करल, सही ढंग से करे से जादा जरूरी बा।"
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "डिमेंशिया वाला आदमी खातिर कवन गतिविधि नीमन बा?"
+    a: "जाना-पहचाना गतिविधि जवन ऊ बरिसन से करत आइल बा, थोड़ा आसान कर के: कपड़ा तहियावल, टेबल सजावल, खाना बनावल, संगीत, फोटो देखल, टहलल, बगइचा आ पालतू जानवर संगे समय। अइसन काम चुनीं जवन वयस्क आ उपयोगी लागे, आ साथ में करीं।"
+  - q: "गतिविधि केतना देर चले के चाही?"
+    a: "कवनो तय लंबाई नइखे। एक दिन तौलिया तहियावत कुछ मिनट काफी हो सकेला, दोसरा दिन बगइचा में एक घंटा आसान लग सकेला। ऊ आदमी के गति तय करे दीं, आ जब सुख लागत रहे तब्बे खतम करीं।"
+  - q: "अगर ऊ कवनो गतिविधि करे से मना कर दे त?"
+    a: "जबरदस्ती मत करीं। ना के मतलब हो सकेला कि काम कठिन लागत बा, समय गलत बा, भा ऊ थाकल या असहज बा। बाद में कोशिश करीं, छोट रूप दीं, भा काम खुद पास में शुरू करीं आ ओकरा मदद खातिर बोलीं।"
+  - q: "दिमागी खेल डिमेंशिया वाला लोगन खातिर नीमन होला का?"
+    a: "खेल साथ में समय बितावे के सुख वाला तरीका हो सकेला, बाकिर कवनो खेल डिमेंशिया के इलाज, धीमा या रोके खातिर साबित नइखे भइल। अइसन खेल चुनीं जवना में घड़ी, अंक या गलत जवाब पर आवाज ना होखे, आ ओकरा एगो साथ के गतिविधि मानीं, परीक्षा ना।"
+  - q: "गतिविधि के बच्चा जइसन लागे से कइसे बचाईं?"
+    a: "असली, वयस्क सामान इस्तेमाल करीं: असली तौलिया, असली रेसिपी, बड़का लोगन के संगीत आ कला सामान, आ वयस्क विषय वाला फोटो। काम के रूप अइसन दीं कि ऊ सच्चो मदद होखे, आ ऊ आदमी से वयस्क जइसन बात करीं।"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +46,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+डिमेंशिया वाला लोगन खातिर सबसे नीमन गतिविधि अक्सर ऊ होला जवन ऊ पहिलहीं से जानत बा, थोड़ा आसान कर के, आ कवनो भरोसेमंद आदमी संगे। नीचे 101 विचार बा, प्रकार के हिसाब से समूहित, हर एक में सेट करे के तरीका आ कठिन होखला पर आसान करे के उपाय। कवनो खास सामान के जरूरत नइखे, आ कुछुओ पूरा करे के जरूरत नइखे। एगो नीमन दुपहरिया में एगो टोकरी तौलिया आ साथ में एक कप कॉफी भी हो सकेला।
 
-## How do you choose the right activity?
+## गतिविधि कइसे चुनीं?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+सूची से ना, आदमी से चुनीं: ऊ हमेशा से का पसंद करत आइल बा आ आज आराम से का कर सकेला, उहे से शुरू करीं।
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **ओकर काम आ शौक सोचीं।** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) के कहनाम बा कि कवनो पहिले के दफ्तर वाला आदमी सिक्का छाँटल या डाक के सामान जोड़ल पसंद कर सकेला, आ माली बगइचा के काम।
+- **ऊ पहिलहीं का करत बा, ओकरा देखीं।** अगर रउरा बाबूजी बिना कहले रोज सुबह बरंडा बहारत बाड़न, त ओके दिन में जोड़ीं।
+- **सीमा के हिसाब से योजना बनाईं।** थकान, आँख, कान, दुखत हाथ आ संतुलन, सब मायने रखेला।
+- **ओकर मूड देखीं।** शोरगुल वाला, हलचल वाला गतिविधि कुछ लोगन के सुहाला, कुछ लोग के डेरा देला।
+- **ओकरा कवनो मकसद दीं।** चर्च के भोज खातिर नैपकिन तहियावल ओकरा खातिर ज्यादा मायने राखी, बनिस्पत बस कसरत खातिर कसरत के।
 
-### A rough guide by stage
+### चरण के हिसाब से मोटा गाइड
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+डिमेंशिया के अक्सर शुरू, बीच आ आखिर के चरण में बाँटल जाला। ई ढीला नाम बा, डिब्बा ना। बहुत लोग के कुछ दिन नीमन आ कुछ दिन कठिन होला, तो आज रउरा जवन देखत बानी ओकरा हिसाब से चलीं। [Alzheimer's Foundation of America के चरण वाला सूची](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) भी लगभग एही ढंग के बा।
 
-| Topic | Early stage | Middle stage | Late stage |
+| विषय | शुरू के चरण | बीच के चरण | आखिर के चरण |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| का देखल जा सकेला | ज्यादातर खुद से काम करत बा; योजना, नया नाम आ भीड़ वाला जगह में मुश्किल होला | शुरू करे आ कदम उठावे में मदद चाहीं; शब्द कम आसानी से आवेला | ज्यादातर रोज के काम में मदद चाहीं; इंद्रिय सबसे जादा मायने राखेला |
+| अक्सर फिट होखे वाला गतिविधि | ताश, बोर्ड गेम, खाना बनावल, बगइचा, डायरी लिखल, घूमल, क्लब | कपड़ा तहियावल, छाँटल, खाना के आसान काम, गाना, फोटो एलबम, निर्देशित टहलल | मनपसंद संगीत, हाथ मलल, मुलायम चीज पकड़े खातिर, पढ़ के सुनावल, बाहर बइठल |
+| रउरा के भूमिका | साथी: पूछीं कवन सहारा चाहीं | सेट करीं, देखाईं, कठिन काम संभार लीं | गतिविधि उनका लगे ले जाईं; रउरा संगत ही गतिविधि बा |
+| अउर विचार | [शुरू के चरण](/activities/early-stage/) | [बीच के चरण](/activities/middle-stage/) | [आखिर के चरण](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## डिमेंशिया वाला आदमी संगे गतिविधि कइसे शुरू करीं?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+छोट से शुरू करीं, उनका संगे शुरू करीं, आ हाँ कहल आसान बनाईं। बहुत लोग अभियो हिस्सा लेवे चाहेला, बाकिर योजना बनावे या शुरू करे में मुश्किल होला।
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **उनकर नीमन समय चुनीं,** अक्सर सुबह।
+2. **पहिले सब कुछ सामने सजा दीं,** ताकि तुरंत शुरू हो सके।
+3. **मदद माँगीं, तमाशा ना:** “का रउरा हमरा संगे ई सब में हाथ बँटा सकीलें?”
+4. **खुद शुरू करीं।** पहिला तौलिया तहिया के देखाईं, आ ओकरा शामिल होवे दीं। देखावल बतावला से नीमन होला।
+5. **एक बार में एक कदम दीं।**
+6. **सबसे कठिन हिस्सा खुद लीं।** Alzheimer's Association के सुझाव बा कि सामग्री खुद नापीं, फेर चम्मच ओकरा हाथ में दीं चलावे खातिर।
+7. **उनका तरीका से होखे दीं।** अलग ढंग से तहियावल तौलिया भी ठीक बा।
+8. **जब सुख ना लागे त रुक जाईं।** अकुलाहट, भौं सिकुड़ल, या “हमरा से ना होई” संकेत बा कि बदलीं या आराम करीं।
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+अउर देखीं [साथ में कइसे खेलीं](/caregiving/how-to-play-together/) आ [बात करे के तरीका](/caregiving/communication-tips/)।
 
-## Everyday tasks at home
+## घर के रोजमर्रा के काम
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+घर के काम जाना-पहचाना आ उपयोगी होला, ईहे से शुरू करे के नीमन जगह होला। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) बर्तन, टेबल सजावल, झाड़ू, डाक छाँटल आ कपड़ा तहियावल के उ गतिविधि में गिनलें जवन लोग पसंद कर सकेला। अउर [घर के काम](/activities/household-tasks/) में।
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **गरम तौलिया तहियाईं।** डरायर से टोकरी टेबल पर उलटीं आ साथ-साथ तहियाईं। बाद में चिकना करे आ ढेर लगावल भी उतने ही मदद के होई।
+2. **मोजा मिलाईं।** बहुत अलग रंग से शुरू करीं। बाद में हल्का आ गाढ़ा छाँटल भी काफी बा।
+3. **टेबल सजाईं।** एक बार में एक तरह के सामान दीं। एक थाली खुद लगा के नमूना देखाईं।
+4. **बर्तन धोईं या पोंछीं।** गरम, साबुन वाला पानी आ न टूटे वाला बर्तन। बइठ के सुखावल गोड़ खातिर आसान होला।
+5. **टेबल पोंछीं।** खाना के बाद भींगल कपड़ा दीं। बेचैन हाथ खातिर ई असली काम बा।
+6. **डाक छाँटीं।** कैटलॉग आ बेकार डाक “रखे” आ “रीसायकल” में। असली बिल अलग रखीं।
+7. **कूपन काटीं।** गोल सिरा वाला कैंची आ किराना के परचा। बाद में मनपसंद खाना के गोला बनावल भी ठीक बा।
+8. **सिक्का छाँटीं।** पैसा कप में छाँटीं या कागज में लपेटीं। अगर ऊ चीज मुँह में डाले त छोट सामान छोड़ दीं।
+9. **झाड़ू या धूल झाड़ीं।** बरंडा में हल्का झाड़ू, या कुर्सी पर बइठ के लंबा हाथ वाला झाड़न।
+10. **खाना बनावे में मदद करीं।** सब्जी धोवल, सलाद तोड़ल, चलावल। चाकू आ आँच रउरा सँभारीं।
+11. **परिवार के रेसिपी बनाईं।** अगर उनकर हाथ के लिखल कार्ड बा त ओकर इस्तेमाल करीं। बाद में ऊ स्वाद बतावे वाला बन सकेलें।
+12. **दफ्तर के काम करीं।** चिट्ठी तहियावल, लिफाफा भरल आ टिकट लगावल, या साथ में खरीदारी के सूची लिखल।
 
-## Music
+## संगीत
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+जाना-पहचाना संगीत तब भी पहुँच सकेला जब शब्द मुश्किल होखे। [Alzheimer's Association के संगीत सुझाव](https://www.alz.org/help-support/caregiving/daily-care/art-music) कहेला कि जाना-पहचाना गाना, बिना विज्ञापन के, आ टीवी बंद। [संगीत गतिविधि](/activities/music/) देखीं।
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **निजी प्लेलिस्ट बनाईं।** ऊ जवानी के संगीत, उनकर शादी, चर्च आ उनकर संस्कृति के गाना।
+14. **संगे गाईं।** पहिले खुद गाईं। गुनगुनावल या सुनल भी गिनल जाई।
+15. **ताल धरीं।** ताली बजाईं, घुटना थपथपाईं या हाथ के ढोलक पर थाप दीं। बइठ के आ आखिर के चरण में भी होला।
+16. **नाचीं।** रसोई में धीमा नाच, या हाथ पकड़ के बइठले-बइठले झूलीं।
+17. **पूरा एलबम बजाईं।** मनपसंद रिकॉर्ड शुरू से अंत तक, कॉफी के साथ, आ कवनो दोसर शोर ना।
+18. **गाना के बारे में बात करीं।** कहानी पूछीं, तथ्य ना: “हमरा बताईं, रउरा कवन डांस में जात रहनी?”
+19. **फिल्म या कन्सर्ट देखीं।** जवन शो ऊ पसंद करत रहल, ओकर फिल्म शाम खातिर नीमन होला। कब्बो भी रोक सकीलें।
+20. **जाना-पहचाना वाद्य बजाईं।** पहिले के पियानो बजावे वाला सरल धुन पसंद कर सकेले; बाद में कुछ सुर साथ में।
+21. **लाइव संगीत सुनीं।** छोट सामुदायिक कन्सर्ट या कोरस के रिहर्सल। निकास के नजदीक बइठीं।
 
-## Reminiscence: photos, objects and stories
+## पुरान याद: फोटो, सामान आ कहानी
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+बिना परखे अतीत साथ में आनंद लीं। “क इयाद बा...?” आ “ई के ह?” से बचीं, खुला न्योता दीं। [याद वाला गतिविधि](/activities/reminiscence/) देखीं।
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **फोटो एलबम देखीं।** जवन देखत बानी ओकरा के बोलीं: “कइसन सुंदर फ्रॉक बा। ई दिन के बारे में बताईं।” ऊ जवन नाम लें ओकरा संगे चलीं।
+23. **याद के बक्सा बनाईं।** जूता के डब्बा में उनका जिनगी के सामान, जइसे नोकरी के बैज या रेसिपी कार्ड। एक-एक करके बाहर निकालीं।
+24. **जिनगी के कहानी वाला किताब शुरू करीं।** हर पेज पर कुछ फोटो आ बड़ा अक्षर में नीचे लिखल। नया मददगार लोग के उनका बारे में जानकारी मिली।
+25. **बातचीत के कार्ड इस्तेमाल करीं।** [बातचीत के कार्ड](/games/conversation-cards/) में एगो तस्वीर आ खुला सवाल होला।
+26. **परिवार के फोटो के खेल बनाईं।** [फोटो जोड़ी](/games/photo-pairs/) रउरा अपना फोटो से मिलान वाला खेल बनावेला।
+27. **घर के वीडियो या पुरान टीवी देखीं।** सवाल पूछे के जगह साथ में टिप्पणी करीं।
+28. **काम वाला जिनगी के सामान छूईं।** पाना, स्टेथोस्कोप, खाता-बही। हाथ अक्सर कहानी के रास्ता देखावेला।
+29. **बचपन के खाना बनाईं।** ऊ चम्मच चला सकेले, चख सकेले, या बस रसोई में रउरा संगे बइठ सकेले।
+30. **उनका रहल जगह के नक्शा देखीं।** बड़ नक्शा में जाना-पहचाना रास्ता अंगुरी से देखीं, बात करत।
 
-## Creative activities
+## रचनात्मक गतिविधि
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+कला बनावे के बारे में होला, तैयार चीज के ना। सामान वयस्क आ सुरक्षित रखीं। [कला आ शिल्प](/activities/arts-and-crafts/) देखीं।
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **वॉटरकलर से रंग भरीं।** मोटा कागज, कुछ रंग। शुरू करे में मुश्किल होखे त पहिला रेखा साथ में खींचीं।
+32. **वयस्क डिज़ाइन रंगीं।** फूल या रजाई के नक्शा, कार्टून ना। हमार [रंगीन पन्ना](/games/coloring/) स्क्रीन पर या छपल, दुनो में काम करेला।
+33. **कोलाज बनाईं।** पत्रिका से बगइचा, गाड़ी या खाना के तस्वीर फाड़ के चिपकाईं। बाद में बस तस्वीर चुनल भी काफी बा।
+34. **फूल सजाईं।** किराना दुकान के गुच्छा आ एगो गुलदान। बाद में बस कुछ डंठल एगो शीशी में।
+35. **साथ में बुनाई या क्रोशिया करीं।** बड़ सलाई पर सरल फंदा। बाद में ऊन के गोला बनावल।
+36. **परिवार खातिर कार्ड बनाईं।** जन्मदिन आ हाल-चाल के कार्ड पर असली लोग खातिर ठप्पा, दस्तखत या सजावट।
+37. **हवा में सूखे वाला मिट्टी के आकार दीं।** छोट कटोरी दबा के बनावल। गैर-जहरीला सामान इस्तेमाल करीं आ नजदीक रहीं।
+38. **लकड़ी चिकना करीं।** पहिले से कटल चिड़िया घर के किट आ रेती, कवनो बिजली के औजार ना। [पुरुषन खातिर गतिविधि](/activities/for-men/) देखीं।
+39. **चिट्ठी लिखीं या बोलल लिखीं।** नाती या पुरान दोस्त के। लिखल कठिन होखे त ऊ बोलस, रउरा लिखीं।
 
-## Outdoors and gardening
+## बाहर आ बगइचा
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+ताजा हवा आ रोशनी भी नीमन साथी होला। [बाहर आ बगइचा के गतिविधि](/activities/outdoor-and-gardening/) देखीं।
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **पौधा में पानी दीं।** एगो छोट डिब्बा आ कुछ गमला। रोज पानी देला से दिन के एगो ताल बनेला।
+41. **गमला में पौधा लगाईं।** टेबल पर रखीं ताकि कवनो झुके के ना पड़े। बीज से पौधा लगावल आसान होला।
+42. **घास निकालीं या फूल तोड़ीं।** दस्ताना पहिन के, एक बार में एक छोट क्यारी।
+43. **पत्ता बटोरीं।** एगो छोट कोना। बाद में थैला खोल के पकड़ल भी असली काम होला।
+44. **जाना-पहचाना रास्ता पर टहलीं।** मोहल्ला के चक्कर या चिट्ठी के डब्बा तक। छोट हो त भी ठीक बा।
+45. **बाहर संगे बइठीं।** हल्का दिन में बरंडा के कुर्सी पर। बादर या राहगीर देखीं।
+46. **चिड़िया के दाना दीं।** दाना के डिब्बा साथ में भरीं आ खिड़की के पास बइठ के देखीं।
+47. **गाड़ी धोईं।** बाल्टी, स्पंज, गरम दुपहरिया। पहिया के ढक्कन धोवल एगो आसान काम बा।
 
-## Sensory activities
+## इंद्रिय के गतिविधि
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+छूवल, गंध, स्वाद, आवाज आ रोशनी डिमेंशिया बढ़े पर जादा मायने राखेला। [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) आखिर के चरण खातिर संगीत, सामान छूवल आ हाथ मलल के जिक्र करेला। पहिले एलर्जी आ घोंटे के खतरा जाँच लीं; [इंद्रिय गतिविधि](/activities/sensory/) देखीं।
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **हाथ मलीं।** पहिले पूछीं आ थोड़ा लोशन लगाईं। चमड़ी या एलर्जी के चिंता होखे त बिना गंध वाला चुनीं।
+49. **कपड़ा छूईं।** मखमल, कॉर्डराय, ऊन आ साटन के टोकरी, सहलावे आ तहियावे खातिर।
+50. **जड़ी-बूटी आ कॉफी के गंध लीं।** ताजा पुदीना या रोजमेरी अंगुरी में मसल के। साँस के तकलीफ होखे त तेज गंध से बचीं।
+51. **बाल काढ़ीं।** धीरे आ नरम, अगर ऊ पसंद करत होखे।
+52. **गरम कपड़ा छुवाईं।** ठंडा दिन में हाथ आ मुँह खातिर। पहिले तापमान जाँच लीं।
+53. **गतिविधि वाला एप्रन देखीं।** बड़ बटन आ जिप मजबूती से सिलल। जाँच लीं कि कुछ ढील ना होखे।
+54. **मनपसंद मिठाई चखीं।** छोट चम्मच भर, ओह बनावट में जवन ऊ सुरक्षित खा सकस।
+55. **प्रकृति के आवाज बजाईं।** बरखा, लहर या चिरई के बोली, धीमा आवाज में।
+56. **धीमा कुछ देखीं।** मछली के टैंक, प्रकृति के वीडियो या गिरत बरफ।
 
-## Games and puzzles
+## खेल आ पहेली
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+खेल तब नीमन होला जब घड़ी, अंक या दबाव ना होखे। कवनो खेल परीक्षा जइसन लागे त ओके हटा दीं। [एप आ खेल चुनल](/caregiving/choosing-apps-and-games/) आ [दिमागी खेल](/brain-health/brain-games/) देखीं।
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **तस्वीर मिलाईं।** [तस्वीर जोड़ी](/games/picture-pairs/) में तस्वीर ऊपर रहेला, त ई याद से जादा ध्यान देवे के बात होला।
+58. **एके तस्वीर खोजीं।** [एके खोजीं](/games/find-the-same/) में दू से चार विकल्प होला। हर तस्वीर पर बात करीं।
+59. **टोकरी में छाँटीं।** [साथ में छाँटीं](/games/sort-together/) स्क्रीन पर मोजा छाँटल जइसन बा।
+60. **बड़ टुकड़ा वाला जिगसॉ करीं।** वयस्क तस्वीर, आसान टुकड़ा संख्या। [तस्वीर पहेली](/games/picture-puzzle/) में पूरा तस्वीर दिखत रहेला। अउर [डिमेंशिया खातिर पहेली](/activities/puzzles/) में।
+61. **पुरान ताश खेलीं।** जवन ऊ बरिसन से खेलत रहलें। बाद में रंग से पत्ता छाँटल भी अपने में खेल बा।
+62. **डोमिनो खेलीं।** सिरा मिलाईं। बाद में बस टुकड़ा लाइन में रखल भी ठीक बा।
+63. **बड़ अक्षर वाला शब्द खोज।** हमार [शब्द खोज](/games/word-search/) में शब्द सिर्फ आड़ा आ खड़ा होला, आ छप सकेला।
+64. **जाना-पहचाना कहावत पूरा करीं।** [कहावत पूरा करीं](/games/finish-the-saying/) में कवनो समय अंत देखावल जा सकेला।
+65. **तस्वीर बिंगो खेलीं।** [तस्वीर बिंगो](/games/picture-bingo/) परिवार आ समूह खातिर नीमन बा। कार्ड पर खुल के निशान लगाईं।
+66. **चेकर खेलीं।** नियम ढीला रखीं। बात करत मोहरा चलावल भी गिनल जाई।
 
-## Movement
+## हिलल-डुलल
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA टहलल, स्थिर साइकिल, खिंचे वाला बैंड, नरम गेंद या गुब्बारा उछालल, सूप के डब्बा उठावल आ बुजुर्गन खातिर कसरत वीडियो के सुझाव देला। कवनो नया काम शुरू करे से पहिले डॉक्टर से पूछीं, खासकर संतुलन के समस्या होखे त।
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **गुब्बारा उछालीं।** आमने-सामने बइठीं। ई धीरे चलेला, त पकड़ल आसान होला।
+68. **बैठल कसरत वीडियो देखीं।** बुजुर्गन खातिर बनल, साथ-साथ।
+69. **बैंड से खींचीं।** बइठल-बइठल हल्का बैंड से बाँह खींचल।
+70. **सूप के डब्बा उठाईं।** धीरे-धीरे बाँह ऊपर, शायद संगीत पर।
+71. **स्थिर साइकिल चलाईं।** कुछ आसान मिनट, रउरा नजदीक रहीं।
+72. **स्कार्फ से नाचीं।** हल्का स्कार्फ संगीत पर हिलाईं, बइठ के या खड़ा होके।
+73. **मकसद से टहलीं।** चिट्ठी डाले या कॉफी खरीदे खातिर। कवनो कारण से जाइल स्वाभाविक लागेला।
+74. **साँस के ठहराव बाँटीं।** [शांत साँस](/games/calm-breathing/) से साथ में धीमा होखीं।
 
-## Social activities
+## सामाजिक गतिविधि
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+नाम कठिन होखे तबो साथ महत्व राखेला, आ छोट समूह बड़ से आसान होला। NIA कहेला कि आदमी शायद मेहमान के नाम ना याद राखो, बाकिर साथ के आनंद अक्सर लेवेला। [मिलल-जुलल](/activities/visiting/) देखीं।
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **एक-दू मेहमान एक बार में बोलाईं।** शांत कमरा में छोट मुलाकात, फोटो देखे खातिर।
+76. **परिवार से वीडियो कॉल करीं।** छोट कॉल, एक बार में एक आवाज। [फोन आ वीडियो कॉल](/activities/phone-and-video-calls/) देखीं।
+77. **याद कैफे में जाईं।** डिमेंशिया वाला लोग आ उनकर देखभाल करे वाला लोगन खातिर अनौपचारिक मिलन। अपना इलाका के बुजुर्ग सेवा दफ्तर से पूछीं कि कहाँ का बा।
+78. **शांत समय में बाहर खाना खाईं।** NIA सुझावे कि कवनो जाना-पहचाना, शांत रेस्टोरेंट में भीड़ के समय से पहिले या बाद में, शौचालय के नजदीक टेबल।
+79. **बुजुर्ग केंद्र या दिन के कार्यक्रम में जाईं।** उनका खातिर संगत आ रउरा खातिर आराम।
+80. **बच्चा संगे समय बिताईं।** नाती-पोता के छोट आ शांत मुलाकात, या छोट बच्चा के चित्र वाला किताब पढ़ के सुनावल।
+81. **कॉफी के साथ अखबार बाँटीं।** सुर्खी जोर से पढ़ीं। ई रीति खबर से जादा मायने राखेला।
+82. **दोसरा के मदद करीं।** चर्च के कार्यक्रम तह करीं या पड़ोसी खातिर कार्ड बनाईं।
 
-## Faith and spiritual activities
+## आस्था आ आध्यात्मिक गतिविधि
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+ओकर अपना परंपरा के पालन करीं, या कवनो ना। NIA जानल-पहचानल सेवा, पाठ, पवित्र संगीत, प्रार्थना, ध्यान आ त्योहार के रीति सुझावेला।
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **जानल-पहचानल सेवा में जाईं।** शांत सेवा चुनीं, गलियारा के नजदीक बइठीं, आ वहाँ के लोग के डिमेंशिया के बारे में बताईं।
+84. **सेवा ऑनलाइन देखीं।** ओह दिन जब बाहर जाइल भारी होखे।
+85. **प्रार्थना या पाठ साथ में करीं।** जाना-पहचाना शब्द, धीरे पढ़ल। जवन हिस्सा ऊ जानत बा ओमे ऊ साथ दे सकेलें।
+86. **भजन या पवित्र संगीत गाईं।** ओह परंपरा के जवन ऊ मानत आइल बा।
+87. **त्योहार के रीति बनाईं।** बैटरी वाला दीया, आशीर्वाद, ऊ सजावट जवन ऊ हमेशा इस्तेमाल करत रहलें।
+88. **शांत समय बाँटीं।** बगइचा में बइठीं या सूरज डूबत देखीं।
 
-## Pets and animals
+## पालतू जानवर आ पशु
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA खिलावल, नहावल, टहलावल, या पालतू के साथ बइठल आ गोदी में रखल सुझावेला।
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **शांत कुत्ता या बिल्ली के बाल काढ़ीं।** लंबा, धीरे-धीरे हाथ फेरत।
+90. **पालतू के साथ खाना खिलाईं।** रउरा नापीं; ऊ डालेलें।
+91. **कुत्ता संगे टहलीं।** रउरा पट्टा पकड़ीं।
+92. **पालतू गोद में राखीं।** कंबल पर शांत बिल्ली बड़ा सुकून देवेली।
+93. **आवे वाला पशु के स्वागत करीं।** कुछ देखभाल घर आ दिन के कार्यक्रम में पशु आवेला। इलाका में पूछीं।
+94. **असली जइसन नरम खिलौना पशु दीं।** जब कवनो पालतू ना होखे, त कुछ लोग असली जइसन नरम बिल्ली या कुत्ता पकड़ के खुश होखेला। सरल ढंग से दीं, खिलौना जइसन ना, आ ना सुनीं त मानीं।
 
-## Seasonal activities
+## मौसम के गतिविधि
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+परंपरा राखीं, बाकिर सरल। NIA सुझावे कि व्यस्त त्योहार में यथार्थवादी रहीं आ आराम खातिर शांत जगह राखीं।
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **मौसम के हिसाब से सजावट करीं।** कद्दू, माला या टेबल पर ताजा फूल।
+96. **त्योहार के मिठाई बनाईं।** आटा बेलल या कुकी पर चीनी के परत। ओवन रउरा सँभारीं।
+97. **सजावट टाँगीं।** न टूटे वाला झालर, एक-एक करके दीं।
+98. **रोशनी देखे चलीं।** शाम के छोट गाड़ी के सैर, जवना में बस संगत चाहीं।
+99. **वसंत के बल्ब लगाईं।** शरद में गमला में बल्ब दबाईं आ अंकुर देखीं।
+100. **मकई छीलीं या मटर फोड़ीं।** गर्मी के बरंडा के काम, गोदी में कटोरी लेके।
+101. **त्योहार के कार्ड पर पता लिखीं।** ऊ दस्तखत, ठप्पा या लिफाफा बंद करीं; रउरा पता लिखीं।
 
-## What if an activity is not working?
+## गतिविधि काम ना करे त का करीं?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+रुक जाईं, आ दोसर बेर कुछ अलग कोशिश करीं। NIA कहेला कि झुंझलाहट पर नजर राखीं, आ जदि ऊ पसंद करस त देखे दीं। ना के मतलब अक्सर होला कि काम कठिन बा, समय गलत बा, या कुछ दोसर परेशान करत बा, जइसे दरद, भूख या शोर। छोट बनाईं, दिन के शुरू में कोशिश करीं, या खुद शुरू करीं आ देखीं कि ऊ जुड़त बा कि ना। [ना कहला पर](/caregiving/when-they-say-no/) आ [शाम के बेचैनी](/caregiving/late-day-restlessness/) देखीं।
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+खाना आ आराम के बीच गतिविधि फिट करे खातिर [एगो नरम दैनिक दिनचर्या](/activities/daily-routine/) देखीं। पहिले से तैयार रखे खातिर [छापे लायक गतिविधि](/activities/printable/) देखीं, आ अगर रउरा समूह चलावत बानी त [देखभाल केंद्र के समूह गतिविधि](/activities/care-home-groups/)। रउरा अपना आराम के भी ख्याल जरूरी बा: [देखभाल करे वाला के अपना देखभाल](/caregiving/caregiver-self-care/) देखीं।

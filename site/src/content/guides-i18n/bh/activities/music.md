@@ -1,32 +1,28 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "डिमेंशिया वाला लोग खातिर संगीत गतिविधि"
+seoTitle: "डिमेंशिया खातिर संगीत गतिविधि: प्लेलिस्ट आ सुझाव"
+description: "डिमेंशिया के साथ जीयत केहू से संगीत कइसे बांटल जाला: उमिर आ शैली के हिसाब से निजी प्लेलिस्ट, 15 आसान संगीत गतिविधि, आ हर चरण खातिर सुझाव।"
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  संगीत डिमेंशिया वाला केहू से बांटे खातिर सबले आसान गतिविधि बा। उनकर जवानी, आस्था आ परिवार के संगीत से निजी प्लेलिस्ट बनाईं, बिना विज्ञापन आ पृष्ठभूमि के शोर के बजाईं, आ साथे गाईं, ताली बजाईं, झूमीं या बस सुनीं। माहौल के हिसाब से शांत या जोश वाला संगीत चुनीं, आवाज़ धीमा रखीं, आ कवनो गाना से उनकर मन खराब होखे त रोक दीं।
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "निजी संगीत सबले बढ़िया काम करेला: जवानी में उनकर पसंद के शैली, आ उनकर आस्था, संस्कृति आ परिवारी उत्सव के संगीत।"
+  - "एक बेरा में एक्के चीज बजाईं, बिना विज्ञापन के आ टीवी बंद करके।"
+  - "गावल, ताली बजावल, झूमल आ बस सुनल, सब भाग लेबे के तरीका बा।"
+  - "शांत करे खातिर धीमा संगीत आ मन उठावे खातिर जोश वाला संगीत चलाईं, आ देखीं कि उनकर का प्रतिक्रिया बा।"
+  - "संरचित संगीत सत्र पर शोध सीमित बा; हम संगीत के आनंददायक साझा करे वाला चीज के रूप में सुझावत बानी, इलाज के रूप में ना।"
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "डिमेंशिया वाला केहू खातिर कवन तरह के संगीत सबले बढ़िया होला?"
+    a: "ऊ संगीत जवन उ इंसान लंबा समय से जानत आ पसंद करत रहल बा, अकसर किशोरावस्था आ बीस बरिस के उमिर के, साथे उनकर आस्था, संस्कृति आ परिवारी उत्सव के संगीत। हो सके त उनके खुद चुने दीं। उनकर चेहरा आ शरीर देख के समझीं कि उन्हनी के का पसंद बा, आ जवन कुछ उनके परेशान करे, ओके हटा दीं।"
+  - q: "का हेडफोन लगावे के चाही?"
+    a: "कुछ लोग हेडफोन पसंद करेलन, काहे कि ओसे शोर रुक जाला। बाकिर कुछ लोगन के ऊ असहज या भ्रमित करेला। पहिले स्पीकर आजमाईं, जवना से साथे सुनल जा सके। हेडफोन लगाईं त आवाज धीमा रखीं आ लगे रहीं।"
+  - q: "बेचैनी या परेशानी में संगीत मदद कर सकेला का?"
+    a: "शांत, जानल-पहचानल संगीत से मन शांत करे वाला माहौल बने में मदद मिल सकेला, आ Alzheimer's Association सुझावेला कि संगीत से चाहल माहौल बनावल जाव। ई हर बेरा काम ना करे। अगर उ इंसान परेशान बा त दर्द, भूख, शोर आ थकान के भी जांच करीं।"
+  - q: "देर वाला चरण में रहल लोग भी संगीत के मजा ले सकेलन का?"
+    a: "बहुत लोग ले सकेलन। Alzheimer's Association बतावत बा कि देर वाला चरण में रहल इंसान बचपन के गाना पर ताल दे सकेलन या ओकरा संगे गा सकेलन। लगे बइठीं, संगीत धीमा बजाईं, आ उनकर हाथ पकड़ीं या साथे झूमीं।"
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +41,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+संगीत डिमेंशिया वाला केहू से बांटे खातिर सबले आसान चीज बा। एहमें कवनो सही जवाब ना चाहीं, कवनो कदम भी फॉलो करे के ना होखे। कवनो जानल-पहचानल गाना से मुसुकी आ गोड़ ताल दे सकेला, या कुछ शब्द संगे गा सकेलन, भले बातचीत मुश्किल होखे। बस ई इंसान खातिर सही संगीत आ बजावे खातिर एगो शांत पल चाहीं।
 
-## What music activities work for people with dementia?
+## कवन संगीत गतिविधि डिमेंशिया वाला लोगन खातिर बढ़िया बा?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+सुनल, गावल, ताली बजावल, झूमल आ संगीत के बारे में बात कइल, सब बढ़िया बा। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) सुझावेला कि संगीत बजाईं, संगीत आ कलाकार के बारे में बात करीं, जानल-पहचानल गाना गावईं या ओपर नाचीं, आ समाज में संगीत कार्यक्रम या म्यूजिकल प्रोग्राम में जाईं। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) जोड़ेला कि ताली बजावे या नाचे जइसन हरकत से मजा बढ़ सकेला, आ शब्द कठिन होखे पर संगीत जुड़े के एगो रास्ता बन सकेला।
 
-## How do you build a personal playlist?
+## निजी प्लेलिस्ट कइसे बनाईं?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+सबले काम के चीज ऊ प्लेलिस्ट बा जवन उ इंसान खातिर कुछ मायने रखे। [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) भी निजी मतलब वाला संगीत पर जोर देवेला। एगो आसान तरीका इहंवा बा।
 
-### Start with their life
+### उनकर जिनगी से सुरू करीं
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **उनकर किशोरावस्था आ बीस बरिस।** सोचीं कि जवानी में रेडियो, नाच आ सिनेमा में का बाजत रहे।
+- **बड़ मौका।** शादी में बाजल संगीत, पहिला नाच वाला गाना, परिवार के यात्रा वाला पसंदीदा एलबम।
+- **आस्था आ संस्कृति।** भजन, गॉस्पेल, धार्मिक संगीत, या उनकर मातृभाषा के गाना।
+- **काम आ सेवा।** मार्चिंग बैंड, काम के गीत, या फौज के समय से जुड़ल संगीत।
+- **परिवार का याद रखेला।** भाई-बहिन, बच्चा आ पुरान दोस्त से पूछीं कि उ हमेशा का बजावत या गावत रहलन।
 
-### Think in genres, not just songs
+### गाना से ज्यादा शैली के सोचीं
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+अगर शुरू कहां से करीं, इ पता नइखे, त एहिजा से हर एक से कुछ मिनट बजाके देखीं: बिग बैंड आ स्विंग, डू-वॉप, मोटाउन आ सोल, शुरुआती रॉक एन रोल, कंट्री वेस्टर्न, ब्लूग्रास, गॉस्पेल आ भजन, ब्रॉडवे के शो वाला गाना, जैज़ के मानक धुन, लैटिन संगीत जइसे बोलेरो या मारियाची, पोल्का, लोक संगीत आ शास्त्रीय। जवन मुसुकी या गोड़ ताल दिलावे, ओके रखीं; जवन माथा सिकोड़ावे, ओके छोड़ दीं।
 
-### Make it easy to play
+### बजावल आसान बनाईं
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **कवनो विज्ञापन ना।** Alzheimer's Association चेतावेला कि विज्ञापन से भ्रम हो सकेला। डाउनलोड कइल संगीत, सीडी, रिकार्ड या बिना विज्ञापन वाला सेवा काम में लाईं।
+- **एक आसान यंत्र।** बड़ बटन वाला स्पीकर, या पहिले से सहेजल प्लेलिस्ट, जेकरा से केहू भी शुरू कर सके।
+- **दू छोट सूची।** शांत करे खातिर एगो शांत सूची आ मन उठावे खातिर एगो जोश वाली सूची।
+- **नाम लिखीं।** यंत्र पर उ इंसान के नाम आ "पसंदीदा संगीत" लिखीं, जेसे आवे-जाये वाला परिवार आ देखभाल करे वाला स्टाफ भी ओके चला सके।
 
-## 15 music activities to try
+## 15 संगीत गतिविधि जवन आजमाईं
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **साथे सुनीं।** बगल में बइठीं, आउर कवनो काम ना रहे। सुनल अपने में पूरा गतिविधि बा।
+2. **संगे गाईं।** पहिले खुद गाईं सुरू करीं। गुनगुनाईल या होठ से शब्द बोलल भी गिनाला।
+3. **ताली बजाईं या ताल दीं।** घुटना थपथपाईं, मेज पर ताल दीं, या छोट हाथ के ढोलक या शेकर काम में लाईं।
+4. **धीमा नाच।** हाथ पकड़ के रसोई में झूमीं, या बइठल-बइठल हाथ संगे चलाईं।
+5. **दुपट्टा नाच।** हल्का दुपट्टा या स्कार्फ संगीत के ताल पर लहराईं, खड़ा होखे या बइठल।
+6. **संगीत के बारे में बात करीं।** न्योता दीं, परीक्षा ना लीं: "ई त नाच-घर के लागत बा। हमरा नाच के बारे में बताईं।" कबो मत पूछीं "ई गाना याद बा?"
+7. **पूरा एलबम बजाईं।** उ रिकार्ड चलाईं जवन उ खूब पसंद करत रहलन, सुरू से आखिर तक, संगे चाय-कॉफी के साथे।
+8. **एलबम के कवर देखीं।** पुरान रिकार्ड के कवर फैशन, गाड़ी आ चेहरा के बारे में बात करे खातिर बढ़िया बा।
+9. **म्यूजिकल देखीं।** उनकर जमाना के फिल्मी म्यूजिकल या कॉन्सर्ट एगो बढ़िया शाम बना सकेला। बीच-बीच में विराम लीं।
+10. **उनकर जानल यंत्र बजावे दीं।** कवनो पुरान पियानो या गिटार बजावे वाला इंसान सरल बजावल पसंद कर सकेलन। बाद में संगे कुछ सुर निकालल भी काफी बा।
+11. **काम करत संगीत।** कपड़ा तहिया के या मेज सजावत समय पसंदीदा गाना बजाईं।
+12. **सुबह के गाना।** हर दिन एके खुश गाना से दिन सुरू करीं, जेकरा से ई दिनचर्या के हिस्सा बन जाव।
+13. **भजन या धार्मिक संगीत गाईं।** उनकर आस्था के संगीत बजाईं आ संगे गाईं।
+14. **गायन समूह में जुड़ीं।** NHS गायन समूह के मन आ भलाई खातिर अच्छा बतावेला। स्थानीय स्तर पर डिमेंशिया-अनुकूल कोरस के बारे में पूछीं।
+15. **लाइव संगीत में जाईं।** कुछ देर के सामुदायिक कॉन्सर्ट या खुला बैंड। निकास के लगे बइठीं आ जब मन करे तब निकल सकीं।
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+हल्का शब्द-खेल खातिर, जानल-पहचानल कहावत वाला, [कहावत पूरा करीं](/games/finish-the-saying/) आजमाईं, जहवां रउआ हमेशा अंत देखा सकत बानी।
 
-## Matching music to the moment
+## मौका के हिसाब से संगीत चुनीं
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association सुझावेला कि संगीत से चाहल माहौल बनावल जाव: शांत माहौल खातिर शांत संगीत, आ उनकर जवानी के कवनो जोश वाला गाना मन उठावे खातिर।
 
-| Moment | Try | Tip |
+| मौका | का आजमाईं | सुझाव |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| उठे के समय | जानल-पहचानल, खुश गाना | हर सुबह एक्के गाना से धीरे-धीरे इशारा बन जाला |
+| घर के काम | जोश वाला मनपसंद गाना | संगीत से काम साथी जइसन लागी |
+| खाना | धीमा वाद्य संगीत | शांत रखीं, ताकि खाना से ध्यान ना भटके |
+| दिन ढले के समय | शांत, जानल-पहचानल संगीत, नीमन रोशनी में | देखीं [दिन ढले के बेचैनी](/caregiving/late-day-restlessness/) |
+| सोवे के समय | धीमा, कोमल संगीत | आवाज आ रोशनी एके संगे धीमा करीं |
+| देर वाला चरण | उनकर सबले पसंद गाना, बहुत धीमा | लगे बइठीं आ हाथ पकड़ीं |
 
-## Tips for a good experience
+## नीमन अनुभव खातिर सुझाव
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **दोसर शोर बंद करीं।** Alzheimer's Association सुझावेला कि खिड़की आ दरवाजा बंद करीं आ टीवी बंद करीं, ताकि संगीते एकमात्र आवाज रहे।
+- **आवाज धीमा रखीं।** संगीत आरामदायक होखे के चाही, जोर से ना। अगर उ इंसान श्रवण यंत्र लगावेलन त पक्का करीं कि लागल आ चलत होखे; देखीं [सुनल](/brain-health/hearing/)।
+- **दुखद यादन पर नजर रखीं।** कुछ गाना दुख, लड़ाई या हानि के याद दिला सकेला। कवनो गाना से उनकर मन खराब होखे त उनके सांत्वना दीं आ गाना बदल दीं।
+- **उनके अगुआई करे दीं।** हो सके त उनके संगीत चुने दीं, आ उनकर "ना" के मान दीं।
+- **कवनो घरी रोक सकीं।** पांच मिनट के संगीत भी बढ़िया गतिविधि बा। संगीत बंद करके चुप बइठल भी ठीक बा।
 
-## What does the research say about music and dementia?
+## संगीत आ डिमेंशिया पर शोध का कहत बा?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+सबूत सीमित बा। [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) लगभग 30 अध्ययन देखलस, जवन ज्यादातर नर्सिंग होम के समूह के संगे संरचित संगीत सत्र पर रहल। ओकरा से पता चलल कि ई सत्र सामान्य देखभाल के मुकाबले उदासी के लक्षण थोड़ा कम कर सकेला, बाकिर बेचैनी, भलाई या सोचे-याद रखे पर साफ असर ना मिलल, आ सत्र खतम भइला के बाद कवनो असर ना रहल।
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+हम संगीत एहसे बांटत बानी काहे कि ई सुखद आ बिना दबाव के साथ समय बिताावे के तरीका बा, इलाज के रूप में ना। समूह सेटिंग खातिर देखीं [देखभाल घर के समूह गतिविधि](/activities/care-home-groups/); फोटो आ कहानी के साथे संगीत खातिर देखीं [याद दिलावे वाली गतिविधि](/activities/reminiscence/)।

@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Ol Aktiviti blong Ol Man we Oli gat Dementia"
+seoTitle: "Ol Aktiviti blong Man we Oli gat Dementia: Ol Aedia"
+description: "Ol aedia blong aktiviti blong ol man we oli gat dementia, i bes long wok, hobi mo rutin blong olgeta, wetem ol tip blong mekem i sef."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Ol bes aktiviti blong man we i gat dementia oli kamaot long laef blong hem:
+  wok we hem i bin mekem, ol hobi we hem i bin laekem, mo ol rutin we hem i bin
+  holem. Man we i bin wok long ofis save laekem blong sotem ol pepa, mekanik save
+  laekem ol klin tul, mo man we i fan long spot save laekem wan ol gem we hem i
+  bin plei. Intres blong olgeta i difren, so yu stat long man ya, no long jenda
+  blong hem.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Stat wetem laef blong man ya: wok blong hem, hobi blong hem, rutin blong hem mo samting we hem i bin proud long hem."
+  - "Ol wok we i gat yusful samting, olsem sotem hadwea, wasem kar, o sanem wud, bambae i moa laekem hem bitim ol aktiviti we i olsem klas."
+  - "No evri man i laekem tul o spot. Plante i laekem kuk, singsing, gaden, pentem o kea long narafala. Askem, lukluk, mo folem wanem we hem i wantem."
+  - "Mekem ol wok olsem wok we i save sef long wei blong rimuvum ol sap tul mo stap lukaotem, mo simplifaem taem ol abiliti i jenj."
+  - "Hem i raet blong seiem no. Givim hem wan rol, no wan wok we hem i must mekem, mo traem gen narafala de."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Wanem nao ol aktiviti we ol man we oli gat dementia oli laekem?"
+    a: "I no wanem wan lis, from intres blong ol man i difren olsem intres blong evriwan. Ol gudfala stat i ol wok we i konekt wetem wok we hem i bin mekem bifo, olsem sotem pepa o sotem nat mo bolt, mo tu ol hobi we hem i bin laekem, olsem fising, ol kar, miusik, kuk o spot. Lukluk wanem we hem i mekem wetem hem wan, mo bildim long hem."
+  - q: "Papa blong mi i no wantem ol grup aktiviti. Wanem nao mi save mekem?"
+    a: "Plante man, man mo woman, oli no wantem ol aktiviti we i olsem klas o we i olsem ol pikinini. Traem givim hem wan wok: 'Yu save helpem mi sotem ol ya?' Ol smol grup o taem wetem wan wan man bambae i moa konfotebol bitim wan bigfala rum."
+  - q: "Hem i sef from hem i yusum tul?"
+    a: "Hem i sef nomoa taem i gat sekiuriti mo tul we i sef. Rimuvum ol paoa tul, blad mo evri samting we i sap, mo givim ol wok olsem sanem wan blok wud, sotem klin hadwea, o tajtenem ol bigfala bolt wetem han. Alzheimer's Association i tokbaot blong rimuvum ol danjeras samting long wokshop, so wan wok olsem sanem bambae hem i save enjoyem sef."
+  - q: "Hem i wan profesonol. Ol wok we oli simpol bambae oli kalem hem?"
+    a: "Oli save kalem hem sipos oli kamaot olsem wok we i no gat sens. Mekem wok ya i olsem helpem we i stret, yusum material blong ol adalt, mo jusum wan samting we i klos long rol blong hem bifo, olsem lukluk gud long wan lis, tidyapem wan fael, o helpem blong mekem wan pakej blong letas. Sipos hem i gat wan skil we hem i save gud, wan narafala aktiviti we i klos bambae i less kamap olsem komperisen."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Plante taem, ol man i serجh long "aktiviti blong ol man we oli gat dementia" from ol sajestin we oli kamaot oltaem oli no fitim man we yu stap wetem hem. Hemia i wan gud wari. Be ansa i no wan lis blong "aktiviti blong man". Ansa i stat wetem man ya nomoa: wok we hem i bin mekem, wanem hem i bin mekem long wiken, mo wanem i mekem hem i fil se hem i gat yusful. Intres i difren long evriwan. Plante man oli laekem kuk, gaden, pentem o singsing, mo plante woman oli laekem ol kar mo bolbol.
 
-## How do I find activities he will actually enjoy?
+## Hao blong mi save faendem ol aktiviti we hem bambae i laekem tru?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Stat wetem laef stori blong hem. Alzheimer's Association i sajestem blong mekem [wan plan blong dei](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) i stap baedem ol samting we man i laekem mo i no laekem, ol strong fasin blong hem, mo hao hem i bin stretem dei blong hem. Askem yu wan wan long ol kwesten ya:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Wanem wok blong hem i bin?** Ofis, fam, faktri, trade, ami, sel, tija, draevem, o haos?
+- **Wanem hem i bin mekem long taem blong hem nomoa?** Fising, kad, wud wok, spot, jej, miusik, kuk, o wan kar long garej?
+- **Wanem rutin blong hem?** Kofi mo nius pepa long mones? Lukaotem wetta? Wasem kar long Sarade?
+- **Wanem hem i stat blong mekem long hem wan?** Alzheimer's Association i tok se sipos wan man i stat ol wok we nobodi i askem hem, olsem swipem flo, ol wok ya save kamap wan pat blong rutin.
+- **Wanem hem i no laekem?** Sam man i laekem lukluk long spot; ol narafala i faenem spid mo nois i mekem tingting. Lukaotem taem hem i glad, i worri, o i kros.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Tokbaot wetem famli mo ol olfala fren tu. Oli save tingting long ol intres we i pinis finis long laef blong dei.
 
-## Activity ideas based on past work
+## Ol aktiviti we i bes long wok we hem i bin mekem bifo
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association i givim wan klia eksampol: wan fomas wok long ofis i save laekem blong sotem ol wok, olsem putum ol coin long wan holda, helpem blong asemblem wan mel, o mekem wan lis blong wok, bat wan fomas farmar o gaden man i save laekem blong wok long yad. Sem aedia i minim long plante difren wok.
 
-| Past work | Activity ideas | Simpler version |
+| Wok we hem i bin mekem bifo | Ol aedia blong aktiviti | Vesen we i simpol |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Ofis o bisnis | Sotem ol pepa long ol fol, stampem ol envelop, lukluk gud long wan lis, tidyapem wan drawa blong tebol | Stakem ol envelop; putum ol pepa klip long wan bokis |
+| Trades o mekanik | Sotem ol klin nat, bolt mo wasa; tajtenem ol bigfala bolt wetem han; lukluk long ol katalog blong tul | Sotem bae long tu kap |
+| Farming o landscaping | Waterem, potem ol plant, reksem ol lif, lukaotem gaden | Sidaon aotsaed taem yu wok; holem ol bag blong sid |
+| Ami | Polisim ol soes, stretem wan drawa, lukluk long ol fotopik blong taem blong hem long ami sipos hem i laekem | Lisin long miusik blong taem ya |
+| Sel o kastoma sevis | Greetem ol visitor, givim ol snak, sotem ol kupon | Sidaon klosap long dor blong talem helo |
+| Tija | Ridim long hae voes, arenjem ol buk, sotem ol piksa long ol tema | Lukluk long wan piksa buk tugeta |
+| Draevem o transpot | Lukluk long ol map o ol magasin blong ol kar, wasem kar | Lukluk long ol kar we i pas from wan veranda |
+| Haos mo famli | Foldem ol klos, setem tebol, helpem long dinna | Stretem ol napkin; stirem |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Sam memori, olsem taem long ami, save kamap wetem strong filing. Folem wanem hem i laekem, kipim tok long pas i pozitiv, mo jenjem tok samtaem gently sipos hem i luk se hem i kros.
 
-## Activity ideas based on hobbies
+## Ol aktiviti we i bes long ol hobi blong hem
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Wud wok.** Sanem wan smut blok blong wud, o pentem wan haos blong pisin. Alzheimer's Association i tokbaot blong rimuvum ol danjeras material mo tul long wokshop, so wan aktiviti olsem sanem i save enjoyem mo sef.
+2. **Fising.** Sotem wan bokis blong fising tul wetem ol hook we i bin tekaot finis, ridim ol magasin blong fising, o sidaon klosap long wan pon wetem.
+3. **Ol kar.** Wasem kar, polisim ol krom, lukluk long fotopik blong ol klasik kar, o go wan draev olsem pasenja.
+4. **Spot.** Lukluk long wan klasik gem o ol bes pat blong gem, tosem wan soft bol, putum ol gol bol long wan karpet, o sotem ol bejbol kad.
+5. **Kad mo gem.** Wan simpol hand blong wan gem blong kad we hem i save, domino, o tanem ol kad blong faendem wan pea. Kipim i relaks mo stopem long kaontem skor.
+6. **Miusik.** Ol singsing from taem blong hem long yut mo tuenti, wan fevret ben, o wan him. Lukluk long [gaed blong ol aktiviti blong miusik](/activities/music/) blong mifala.
+7. **Kuk mo grill.** Wasem ol vej, stirem sos, sepem ol bigara, o talem hao hem i bin mekem famos sup chili blong hem taem yu mekem.
+8. **Nius pepa.** Alzheimer's Association i notem se man we i alwe ridim nius pepa, hem i save stap laekem blong ridim, even sipos hem i no moa save fulwan ol samting. Kofi mo nius pepa save stap wan pat blong moning.
+9. **Bildim.** Ol big pis kit blong ol adalt, o ol simpol kit blong konstraksen. Jusum ol pis we i isi blong holem.
+10. **Kea long wan samting.** Fidim wan pet, fulumap ol fidim bokis blong ol pisin, o waterem ol plant. NIA i lisim [fidim, kea o wakem wan pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i stap long ol aktiviti we ol man i save enjoyem.
 
-## How do I offer an activity without it feeling like busywork?
+## Hao blong mi ofa wan aktiviti we i no kamaot olsem busiwok?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Presentem olsem helpem we i stret. Alzheimer's Association i sajestem askem "Plis, yu save helpem mi?" mo konektem ol wok wetem wan purpos. Lukluk long ol ya:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "Yu wantem sotem ol bolt ya?" (i kamaot olsem wan test)
+- "Mi bin baem wan bag blong ol hadwea we i mikis, mo mi nidim ol ya i sotem finis bifo mi fiksim sel ya. Yu save givim mi wan han?" (i kamaot olsem wan wok)
 
-Other tips:
+Narafala tip:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Yusum material blong ol adalt.** Ol tul we oli stret, ol sap i bin rimuvum, ol katalog we oli stret, ol envelop we oli stret.
+- **Wok sarem.** Tu man we oli wok long wan wok i gat kampani. Wan man we i lukluk nomoa long narafala, hemia i kaen superviesen.
+- **No korektem.** Sipos ol bolt i go long rong kap, lesem. Samting we i main, taem we yu wetem hem mo hem i fil se hem i yusful.
+- **Helpem hem stat.** Alzheimer's Association i notem plante man oli stap wantem blong mekem ol samting be oli haswe blong oganaesem mo stat. Mekem fasfas wan tugeta.
 
-## How do I adapt as things change?
+## Hao blong mi adjastem taem ol samting i jenj?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Taem dementia i go ahed, Alzheimer's Association i sajestem blong givim ol wok we oli simpol mo oli repitim, mo stap redi blong man ya i tekem wan rol we i no aktiv tumas. Wan man we wan taem i bin fiksim ol enjin, nao hem i save laekem blong holem wan klin rench mo tokbaot ol kar, o lukluk taem yu wok. Lukluk tu i wan wei blong tekem pat.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Sipos hem i wan ekspet long wan samting, wan aktiviti we i klos bambae i gud moa bitim kraft blong hem bifo. Association i tokbaot se wan profesonol artist bambae i kros long ol jenj long wok blong hem, be wan man we i pleim wok blong hem nomoa bambae i enjoyem wan niu wei. Sem samting i trufala long wan master kapenta.
 
-## Safety with work-style tasks
+## Sef long ol wok olsem wok blong man
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Rimuvum ol paoa tul, blad, nel mo skru we i gat sap tip.
+- Lokem ol pent thinna, gasolin mo ol kemikol.
+- Keepem ol kar kis aot long aesaed sipos hem i no moa draevem.
+- Superviesem evri wok long wokshop mo yad.
+- Jusum ol big pis we man i no save gilim.
 
-## What if he says no?
+## Wanem sipos hem i seiem no?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Respektem. Wan no bambae i minim se wok ya i hard tumas, i babi tumas, o i no rait long deiwan. Alzheimer's Association i wonem yu no fosem hem. Traem wan narafala wok, wan narafala taem, o jes sidaon tugeta. Lukluk [wanem blong mekem taem oli seiem no](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Ol gem mo tok we i fitim
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) i yusum ol fasin tok we i kamaot long Amerika, mo i go long tok. [Conversation Cards](/games/conversation-cards/) i gat ol kwesten we i open, no gat kwis, long ol tema, we save opem ol stori long wok mo hobi. [Picture Puzzle](/games/picture-puzzle/) i kipim ful piksa i stap luk taem yu swepem ol pis, mo [Word Search](/games/word-search/) we i bigfala prit save printim mo mekem wetem pen long tebol long kitjen. Blong ol rod blong tokbaot pas blong hem wetem no testem hem, lukluk long [gaed blong reminisens](/activities/reminiscence/) blong mifala.

@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Дыеты MIND і міжземнаморская і дэменцыя: што кажуць даследаванні"
+seoTitle: "Дыета MIND і дэменцыя: што кажуць даследаванні"
+description: "Што кажуць даследаванні пра дыеты MIND і міжземнаморскую, чаму вялікае пробнае даследаванне не знайшло выразнай карысці і як дапамагчы чалавеку з дэменцыяй добра харчавацца."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Назіранні звязваюць міжземнаморскі і MIND-тып харчавання з меншым рызыкам
+  дэменцыі, але не заўсёды. Трохгадовае рандомізаванае пробнае даследаванне
+  дыеты MIND, апублікаванае ў 2023 годзе, не выявіла істотнай розніцы ў мысленні
+  і ў даных сканавання мозгу ў параўнанні з кантрольнай дыетай. Ніводны прадукт
+  і ніводная добаўка не даказана як сродак ад дэменцыі. Для людзей, якія жывуць
+  з дэменцыяй, галоўнае — есці і піць дастаткова.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Некаторыя, але не ўсе даследаванні, якія сочаць за людзьмі на працягу часу, звязваюць міжземнаморскі і MIND-тып харчавання з меншым рызыкам дэменцыі."
+  - "У пробным даследаванні 2023 года з участallem 604 пажылых людзей людзі на дыеце MIND праз тры гады не паказалі лепшых вынікаў у тэстах на мысленне і ў сканаваннях мозгу, чым людзі на кантрольнай дыеце."
+  - "Нацыянальны інстытут старэння (NIA) кажа, што няма доказаў, што ўжыванне або адмова ад пэўнага прадукту можа прадухіліць хваробу Альцгеймера, і ніводны вітамін або добаўка не даказаны як сродак ад яе."
+  - "Харчаванне, багатае на гародніну, садавіну, бабовыя, цэльназерневыя прадукты і рыбу, падтрымлівае здароўе сэрца і можа дапамагчы пры такіх рызыках, як высокі ціск і дыябет."
+  - "Для людзей, якія жывуць з дэменцыяй, часта больш важныя кавалачкі, якія можна ўзяць рукамі, кантрасныя талеркі, спакойныя прыёмы ежы і рэгулярнае піццё, чым любая канкрэтная дыета."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Ці прадухіляе дыета MIND дэменцыю?"
+    a: "Гэта не паказана. Назіранні звязалі дыету MIND з меншым рызыкам, але трохгадовае рандомізаванае пробнае даследаванне, апублікаванае ў 2023 годзе, не выявіла істотнай розніцы ў выніках тэстаў на мысленне або ў сканаваннях мозгу паміж людзьмі на дыеце MIND і людзьмі на кантрольнай дыеце. Абедзве групы трохі палепшыліся і схуднелі прыблізна аднолькава."
+  - q: "У чым розніца паміж дыетай MIND і міжземнаморскай дыетай?"
+    a: "Міжземнаморская дыета робіць акцэнт на гародніне, садавіне, цэльназерневых прадуктах, бабовых, рыбе і аліўкавым алеі, з невялікай колькасцю чырвонага мяса і салодкага. Дыета MIND аб'ядноўвае яе з дыетай DASH для кантролю ціску і дадае акцэнт на зялёную лістовую гародніну і ягады, а абмяжоўвае чырвонае мяса, салодкае, сыр, масла і смажаную ежу."
+  - q: "Ці ёсць прадукты або добаўкі, якія прадухіляюць хваробу Альцгеймера?"
+    a: "Не. Нацыянальны інстытут старэння кажа, што няма доказаў, што ўжыванне або адмова ад пэўнага прадукту можа прадухіліць хваробу Альцгеймера або звязанае з узростам пагаршэнне мыслення, і ніводны вітамін або добаўка не даказаны як сродак ад хваробы Альцгеймера. Перад тым як пачынаць прымаць добаўкі, пагаварыце з лекарам."
+  - q: "Якую ежу лягчэй есці чалавеку з дэменцыяй?"
+    a: "Кавалачкі, якія можна ўзяць рукамі, напрыклад шматкі бутэрброда, кавалачкі курыцы, долькі апельсіна або пароблены гародніну, часта лягчэй, чым карыстацца сталовымі прыборамі. Калі жаваць або глытаць цяжка, дапамагчы могуць мяккія прадукты, напрыклад яечня, яблычнае пюрэ або тварог. Калі з'яўляецца кашаль або задушша, спытайце лекара аб ацэнцы глытання."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Вы маглі чытаць, што «здаровае для мозгу» харчаванне можа ўберагчы ад хваробы Альцгеймера. Рэальная карціна больш сціплая. Некаторыя звычкі харчавання звязаны з меншым рызыкам у даследаваннях, якія сочаць за людзьмі на працягу часу, але лепшае пробнае даследаванне пакуль не выявіла выразнай карысці. Гэта старонка тлумачыць абодва вынікі, а потым расказвае пра тое, што часцей за ўсё важна для чалавека, які ўжо жыве з дэменцыяй: есці і піць дастаткова і атрымліваць ад гэтага задавальненне.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Гэта агульная інфармацыя, а не медыцынская парада. Перш чым мяняць сваё харчаванне або харчаванне іншага чалавека, пагаварыце з лекарам або дыпламаваным дыетолагам. Глядзіце наша [медыцынскае папярэджанне](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Што такое міжземнаморская і дыеты MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Нацыянальны інстытут старэння (NIA) апісвае іх так ([NIA пра харчаванне і хваробу Альцгеймера](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Міжземнаморская дыета:** шмат садавіны, гародніны, цэльназерневых прадуктаў, бабовых, рыбы і морапрадуктаў, аліўкавага алею, з невялікай колькасцю чырвонага мяса, яек і салодкага.
+- **Дыета MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): спалучэнне міжземнаморскай дыеты і дыеты DASH для ціску. Яна ўключае гародніну, асабліва зялёную лістовую; ягады; цэльназерневыя прадукты; бабовыя; арэхі; рыбу не радзей за адзін раз на тыдзень; аліўкавы алей. Яна абмяжоўвае чырвонае мяса, салодкае, сыр, масла або маргарын, смажаную і хуткую ежу.
 
-## Do these diets lower dementia risk?
+## Ці зніжаюць гэтыя дыеты рызыку дэменцыі?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Дадзеныя неадназначныя. NIA кажа, што некаторыя, але не ўсе назіранні звязвалі міжземнаморскі і MIND-тып харчавання з меншым рызыкам дэменцыі ў параўнанні з заходнім тыпам харчавання, багатым чырвоным мясам, насычаным тлушчам і цукрам.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Камісія Lancet у 2024 годзе разгледзела даследаванні больш падрабязна ([Камісія Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Адзін агляд когорт-даследаванняў звязаў высокую якасць харчавання з прыблізна на 20% меншым рызыкам дэменцыі.
+- Большы аналіз трох когорт звязаў больш строгае прытрымліванне дыеты MIND з меншым рызыкам.
+- Але шведскае даследаванне, у якім 28 025 людзей сярэдняга ўзросту назіраліся каля 20 гадоў, не знайшло меншага рызыку ні пры рэкамендаваных дыетах, ні пры міжземнаморскай.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Назіральныя даследаванні не могуць даказаць прычыну і выніk. Людзі, якія так харчуюцца, часта адрозніваюцца і па іншых прыметах: даходзе, адукацыі, фізічнай актыўнасці, доступе да медыцынскай дапамогі. Камісія прыйшла да высновы, што доказаў недастаткова, каб сцвярджаць, што здаровае харчаванне непасрэдна прадухіляе дэменцыю. Аднак шмат садавіны і гародніны і менш ультраперапрацаваных прадуктаў карысна для многіх станаў здароўя і ўплывае на фактары рызыкі, такія як ажырэнне, дыябет і высокі ціск. Камісія не дадала дыету ў свой спіс з [14 фактараў рызыкі](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Што знайшло пробнае даследаванне дыеты MIND у 2023 годзе?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Самая моцная праверка на сёння — рандомізаванае пробнае даследаванне, апублікаванае ў New England Journal of Medicine ў 2023 годзе ([пробнае даследаванне MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Хто:** 604 дарослыя ва ўзросце 65 гадоў і старэй з раёнаў Чыкага і Бостана, без праблем з мысленнем, у якіх быў блізкі родзіч з дэменцыяй, з лішняй вагой і менш здаровым харчаваннем на пачатку.
+- **Што:** тры гады палова ўдзельнікаў прытрымлівалася дыеты MIND, а палова — свайго звычайнага харчавання. Абедзвюм групам прапаноўвалася есці прыблізна на 250 калорый у дзень менш, і яны рэгулярна атрымлівалі кансультацыі дыпламаваных дыетолагаў.
+- **Вынік:** вынікі тэстаў на мысленне трохі палепшыліся **ў абедзвюх** групах. Розніца паміж групамі была невялікай і **не статыстычна значнай**. Даныя сканавання мозгу таксама паказалі падобныя змены ў абедзвюх групах.
+- **Вага:** абедзве групы схуднелі прыблізна на 5 кілаграмаў (каля 11 фунтаў).
 
-### Why might the trial have found no difference?
+### Чаму пробнае даследаванне магло не выявіць розніцы?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Даследчыкі назвалі некалькі магчымых прычын. Кантрольная група, верагодна, таксама паправіла сваё харчаванне, бо схуднела прыблізна так жа. Паўторныя тэсты могуць самі па сабе палепшыць вынікі, бо людзі звыкаюцца з імі. Тры гады могуць быць занадта кароткім тэрмінам. Большасць удзельнікаў мелі добрую адукацыю і былі еўрапейскага паходжання, таму вынікі могуць не адносіцца да ўсіх.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Таму сумленнае рэзюмэ такое: дыета MIND за тры гады не была лепшай за разумна зніжаную па калорыях дыету. Гэта не азначае, што здаровае харчаванне марнае. Гэта азначае, што ніхто не павінен чакаць, што пэўная дыета прадухіліць дэменцыю.
 
-## What about specific foods and supplements?
+## Што з канкрэтнымі прадуктамі і добаўкамі?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA кажа, што няма доказаў, што ўжыванне або адмова ад пэўнага прадукту можа прадухіліць хваробу Альцгеймера або звязанае з узростам пагаршэнне мыслення. Чарніцы, зялёная лістота і куркума вывучаліся, але доказаў не атрымана. NIA таксама кажа, што ніводны вітамін або добаўка не даказаны як сродак ад хваробы Альцгеймера і не рэкамендуюцца для гэтай мэты. NIA папярэджвае, што недаказаныя сродкі, якія продаюць для прадухілення хваробы Альцгеймера, могуць быць небяспечнымі, марнай тратай грошай або і тым і другім і могуць ўзаемадзейнічаць з прызначаным лячэннем, таму перад любым прэпаратам параіцеся з лекарам ([NIA пра прадухіленне хваробы Альцгеймера](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Як харчавацца здарова і з задавальненнем?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Для большасці пажылых людзей мэта — ежа, якая пажыўная, знаёмая і прыемная, а не строгі план:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Будуйце стравы з прадуктаў, якія вам падабаюцца,** з міжземнаморскага ўзору: гародніна, садавіна, бабовыя, цэльназерневыя прадукты, рыба і аліўкавы алей.
+- **Пакідайце любімыя ласункі.** Задавальненне і апетыт маюць значэнне, асабліва ў старэйшым узросце.
+- **Ешце ў кампаніі**, калі магчыма. Агульныя прыёмы ежы — гэта добрая кампанія.
+- **Гатуйце разам.** Мыццё гародніны або памешванне ў катле — добрае агульнае занятак; глядзіце [хатнія справы](/activities/household-tasks/). Любімы сямейны рэцэпт таксама можа прабудзіць [успаміны](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Пажылым людзям не варта скарачаць калорыі або худнець без размовы з лекарам, а голад нясе дадатковыя рызыкі. Глядзіце наш [дапаможнік па голадзе](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Як дапамагчы чалавеку з дэменцыяй добра харчавацца?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Для людзей, якія жывуць з дэменцыяй, галоўная задача звычайна — есці і піць **дастаткова**. Alzheimer's Association адзначае, што такія людзі могуць забыцца паесці, думаць, што ўжо елі, або разгубіцца ад выбару, а дрэннае харчаванне можа пасіліць паводзінныя сімптомы і выклікаць страту вагі ([Alzheimer's Association пра ежу і харчаванне](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Гэтыя парады ідуць ад Alzheimer's Association, NIA і Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Прапануйце кавалачкі, якія можна ўзяць рукамі.** Невялікія кавалкі, якія лёгка ўзяць, напрыклад шматкі бутэрброда, кавалачкі курыцы, рыбныя палачкі, долькі апельсіна або пароблены бракалі, дазваляюць чалавеку есці самому без сталовых прыбораў.
+2. **Выкарыстоўвайце кантраст на стале.** Змены зроку могуць ускладніць адрозненне ежы ад талеркі. Белыя талеркі або міскі на кантрасным падкладцы могуць дапамагчы. Пазбягайце ўзорыстага посуду і абрусаў.
+3. **Падавайце адну-дзве стравы за раз.** Поўная талерка можа пераважыць.
+4. **Трымайце прыём ежы спакойным.** Выключыце тэлевізар, захавайце стол простым і дайце шмат часу. NIA раіць не спяшацца і не націскаць.
+5. **Прапануйце невялікія порцыі і перакусы часта.** NIA раіць меншыя, але больш частыя прыёмы ежы і калорыйныя перакусы, калі чалавек есць замала ([парады NIA па добрым харчаванні](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Дапамагайце з піццём.** Прапануйце маленькія куфлікі вады або іншых напояў на працягу дня, а таксама прадукты з большай колькасцю вады, такія як садавіна, суп, малочныя кактэйлі і смузі. Калі чалавек не хоча ваду, NIA раіць паспрабаваць сок, ваду з сокам або араматызаваную ваду, булён, малако або кава ці чай без кафеіну.
+7. **Правярайце тэмпературу.** Чалавек можа не заўважыць, што ежа або напой занадта гарачыя.
+8. **Падбірайце прыборы і кубкі.** Міскі замест талерак, лыжкі з вялікай ручкай і кубкі з накрыўкамі могуць палегчыць ежу. Не турбуйцеся пра акуратнасць.
+9. **Палягчайце жаванне і глытанне.** Рэжце ежу на дробныя кавалкі або прапануйце мяккія стравы. Калі чалавек кашляе або задыхаецца падчас ежы, скажыце пра гэта яго лекару.
+10. **Не прымушайце есці.** NIA адзначае, што апетыт натуральным чынам памяншаецца на позніх стадыях хваробы Альцгеймера.
 
-### Signs to tell the doctor about
+### Пра што трэба сказаць лекару
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Страта вагі, адмова ад ежы, стомленасць або слабасць могуць сведчыць пра тое, што чалавек ядзе замала. Alzheimer's Society адзначае, што балючыя зубы або пратэзы, дэпрэсія, запор і змены ў лекавых сродках могуць зніжаць апетыт ([Alzheimer's Society пра апетыт](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Прыкметы абязводжвання, якія пералічвае NIA, — сухасць у роце, галаўакружэнне, хуткае сэрцабіцце і галюцынацыі ([NIA пра распаўсюджаныя медыцынскія праблемы](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Пагаварыце з лекарам
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Перш чым рабіць значныя змены ў сваім харчаванні або ў харчаванні іншага чалавека, пагаварыце з лекарам або дыпламаваным дыетолагам, асабліва калі ў вас ёсць дыябет, хвароба нырак, праблемы з глытаннем або нядаўняя страта вагі. Для чалавека, які жыве з дэменцыяй, спытайце, колькі яму варта есці і піць у дзень, і ці могуць дапамагчы дыетолаг або добаўкі.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Шукайце неадкладную медыцынскую дапамогу, калі чалавек задыхаецца, або ў яго раптам з'явілася блытаніна, моцнае галаўакружэнне або непрытомнасць.

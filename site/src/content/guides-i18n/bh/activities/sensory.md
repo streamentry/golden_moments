@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "डिमेंशिया के साथ जीयत लोगन खातिर संवेदी गतिविधि"
+seoTitle: "डिमेंशिया संवेदी गतिविधि: विचार आ सुरक्षा"
+description: "डिमेंशिया के साथ जीयत लोगन खातिर संवेदी गतिविधि, हाथ के मालिश से लेके कपड़ा के टोकरी आ प्रकृति के आवाज तक, साथे निगलला, एलर्जी आ गंध के सुरक्षा बात।"
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  संवेदी गतिविधि में छूअन, गंध, स्वाद, आवाज आ नजर के इस्तेमाल होखेला: धीरे-धीरे हाथ के मालिश, मुलायम कपड़ा के टोकरी, सूंघे खातिर ताजा जड़ी-बूटी, प्रकृति के आवाज, या खिड़की से चिरई देखल। ई हर अवस्था में काम आ सकेला, आ बाद के अवस्था में खास करके फायदेमंद होखेला। पहिले निगलला के खतरा, एलर्जी, त्वचा के समस्या आ गंध से परेशानी जाँच लीं, एक बेर में एक चीज दीं, आ अगर उनका बेचैनी लउके त रुक जाईं।
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "संवेदी गतिविधि में कवनो सही जवाब ना होखे, एसे ई हर अवस्था में काम करेले, बिस्तर पर भा कुर्सी पर भी।"
+  - "शांत कमरा में एक बेर में एक ही इंद्री पर ध्यान दीं, आ छूए से पहिले पूछीं या बता दीं।"
+  - "छोट चीज आ अइसन चीज से बचीं जे खाना जइसन लउकेले या गंध देले बाकिर खाना ना होखे, काहे कि लोग चीज मुँह में डाल सकेलन।"
+  - "लोशन, गंध या खाना इस्तेमाल करे से पहिले एलर्जी, त्वचा के समस्या आ साँस के दिक्कत जाँच लीं।"
+  - "डिमेंशिया के लक्षण में अरोमाथेरेपी से मदद होखे के कवनो पक्का सबूत नइखे; गंध खाली सादा आनंद खातिर, अगर बिलकुल, इस्तेमाल करीं।"
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "डिमेंशिया वाला मनई खातिर कवन संवेदी गतिविधि बढ़िया बा?"
+    a: "सादा विचार ई बा: लोशन से धीरे-धीरे हाथ के मालिश, मुलायम कपड़ा छुए, ताजा जड़ी-बूटी या कॉफी के गंध लेवे, मनपसंद गाना या प्रकृति के आवाज सुने, चिरई या मछली टंकी देखे, आ सुरक्षित बनावट में मनपसंद खाना चखे। एक बेर में एक चीज दीं आ देखीं कि उनकर का प्रतिक्रिया बा।"
+  - q: "का संवेदी गतिविधि उनका खातिर सुरक्षित बा जे चीज मुँह में डाल देलन?"
+    a: "सावधानी से सुरक्षित हो सकेला। खाली बड़ चीज इस्तेमाल करीं जे निगलल ना जा सके, छोट या टूटे वाला चीज से बचीं, आ बाद में लोशन, साबुन आ खुशबू वाला चीज पहुँच से दूर रखीं, काहे कि ई खाना जइसन लउक सकेला या गंध दे सकेला। शुरू से आखिर तक उनका साथे रहीं।"
+  - q: "का अरोमाथेरेपी डिमेंशिया में मदद करेले?"
+    a: "Cochrane समीक्षा में डिमेंशिया वाला लोगन खातिर अरोमाथेरेपी से मदद के कवनो पक्का सबूत ना मिलल, हालाँकि अध्ययन छोट रहे आ नतीजा एक नियर ना रहे। अगर उनका हल्का, जाना-पहचाना गंध पसंद बा त ठीक बा, बाकिर तेज एसेंसियल ऑयल से बचीं, खास करके साँस या एलर्जी के समस्या रहला पर।"
+  - q: "फिजेट या एक्टिविटी एप्रन का होला?"
+    a: "ई कपड़ा, एप्रन या गोदी में डाले वाला कंबल होला जेपर चीज मजबूती से सिलल रहेला, जइसे बड़ बटन, जिप, रिबन आ खुरदुरा पैच। ई चलत हाथ के खोज खातिर कुछ देला। अक्सर जाँच करीं कि कवनो चीज ढीला त नइखे, जे खींच के निकल सकेले।"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+संवेदी गतिविधि में पाँच इंद्री काम आवेले: छूअन, गंध, स्वाद, आवाज आ नजर। एकरा में याददाश्त ना लागेले, कवनो कदम ना होखे आ कवनो सही जवाब ना होखे, एसे ई हर अवस्था में काम कर सकेले। बाद के अवस्था में ई सबसे जादा मायने रखेले। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) बतावत बा कि बाद के अवस्था में दुनिया मुख्य रूप से इंद्री से अनुभव होखेले, आ छूअन, आवाज, नजर, स्वाद आ गंध से देखभाल देखावल जा सकेला। कुछ सुरक्षा जाँच से ई गतिविधि सबका खातिर आराम देवे वाला बन सकेले।
 
-## What are sensory activities for dementia?
+## डिमेंशिया खातिर संवेदी गतिविधि का होला?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+संवेदी गतिविधि एक बेर में एक इंद्री पर बनल सादा अनुभव होखेले, जइसे कपड़ा छूअल, जड़ी-बूटी सूंघल भा बारिश के आवाज सुनल। [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) कहत बा कि बाद के अवस्था के गतिविधि अक्सर इंद्री पर ध्यान दिहल चाहीं, आ एमें संगीत, छू के देखे वाला चीज आ हाथ के मालिश के चरचा बा। [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) बतावत बा कि बाद के अवस्था में लोगन के आराम खातिर कवनो चीज कस के पकड़े के मन करेला।
 
-## Sensory ideas, sense by sense
+## इंद्री के हिसाब से संवेदी विचार
 
-### Touch
+### छूअन
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **हाथ के मालिश।** हाथ में थोड़ा लोशन गरम कर के कलाई से अंगुरी के सिरा तक धीरे-धीरे सहलाईं। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) आराम खातिर बिना खुशबू वाला लोशन से मालिश के बात करेले।
+- **कपड़ा के टोकरी।** मखमल, कॉर्डरॉय, फ्लीस, साटन आ ऊन के बड़ बड़ टुकड़ा, सहलावे, तह करे आ ओकरे बारे में बात करे खातिर।
+- **गरम गमछा।** जाड़ा के दिन में हाथ खातिर गुनगुना, गील कपड़ा। पहिले आपन कलाई पर तापमान जाँच लीं।
+- **एक्टिविटी एप्रन या गोदी के कंबल।** बड़ बटन, जिप, रिबन आ खुरदुरा पैच मजबूती से सिलल।
+- **तह करे आ चिकन करे।** साफ गमछा या रूमाल के टोकरी, जे तह करे, ढेर लगावे आ फेरु तह करे खातिर।
+- **कुछ मुलायम पकड़े खातिर।** फ्लीस के चादर, तकिया या असली जइसन मुलायम जानवर, सादा ढंग से दीं, कबहूँ खेलौना बनाके ना।
 
-### Smell
+### गंध
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **ताजा जड़ी-बूटी।** पुदीना, रोजमेरी, तुलसी या लैवेंडर के पत्ता अंगुरी के बीच रगड़ के उनका नाक के आगे ले जाईं।
+- **रसोई के गंध।** कॉफी बनत, रोटी सेंकात, दालचीनी या संतरा छिलात, नजदीक में।
+- **फूल।** बगइचा या दुकान से कुछ ताजा फूल ले आईं।
+- **जाना-पहचाना सामान।** उनकर पुरान साबुन या लोशन, अगर उनकर त्वचा ओकरा सह सकेले।
 
-### Taste
+### स्वाद
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **मनपसंद स्वाद।** उनका पसंद के कुछ चम्मच भर चीज, जइसे सेब के चटनी, खीर या आइसक्रीम, सुरक्षित बनावट में।
+- **बेकिंग में मदद।** साथे केक बनावत घरी फल या थोड़ा फ्रॉस्टिंग चखल।
+- **मौसमी मिठाई।** गरमी में तरबूज, जाड़ा में गरम जूस, सुरक्षित तापमान पर परोसल।
 
-### Sound
+### आवाज
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **मनपसंद संगीत।** जाना-पहचाना गाना धीमा आवाज में; देखीं [संगीत गतिविधि](/activities/music/)।
+- **प्रकृति के आवाज।** बारिश, लहर या चिरई के चहचहाहट। NIA बतावत बा कि संगीत, सफेद शोर आ प्रकृति के आवाज कुछ लोगन के आराम देवेला।
+- **रउरा के आवाज।** जोर से पढ़ल, गुनगुनाइल, या कवनो कहानी सुनावल।
+- **सादा बाजा।** हाथ के ढोलक, शेकर या घंटी, जे संगीत के साथे बजावल जा सकेला।
 
-### Sight
+### नजर
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **खिड़की से देखल।** खिड़की के बाहर चिरई के दाना-पानी, स्कूल से लौटत बच्चा, या गिरत बरफ।
+- **मछली टंकी या धीमा वीडियो।** बिना तेज आवाज के हल्का हरकत।
+- **बड़ तस्वीर।** एक बेर में एक साफ फोटो, आँख के सीध में पकड़ल।
+- **रंग आ नमूना।** चमकदार कपड़ा के टुकड़ा, फूल या रंग-बिरंगा रूमाल छाँटल, भा हमरा [रंग भरे वाला सेट](/games/coloring/) से सादा रंगाई।
+- **बाहर।** NHS सुझावत बा कि खुशबू वाला पौधा, बनावट आ पानी वाला संवेदी बगइचा बनावल जाव। देखीं [बाहर आ बागवानी गतिविधि](/activities/outdoor-and-gardening/)।
 
-## How to make a sensory box
+## संवेदी डिब्बा कइसे बनाईं
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **एगो विषय चुनीं** जे उनका जिनगी से जुड़ल होखे: समुंदर, बगइचा, रसोई, कारखाना, सिलाई।
+2. **पाँच-छव बड़, सुरक्षित चीज चुनीं,** जइसे बड़ सीप, लकड़ी के चम्मच, मुलायम दुपट्टा, सिल के बंद कइल सूखल लैवेंडर के पोटली, या चिकन लकड़ी के ब्लॉक।
+3. **हर चीज जाँच लीं** कि छोट हिस्सा, तेज किनारा, ढीला धागा या टूटे वाला चीज त नइखे।
+4. **एक बेर में एक चीज निकालीं।** उनका हाथ में दीं, ओकरा बारे में बताईं, आ उनका ओकरा के देखे दीं।
+5. **बाद में डिब्बा रख दीं,** जेसे ई खास बनल रहे आ अगिला बेर से पहिले चीज फेरु से जाँचल जाव।
 
-## Safety first
+## पहिले सुरक्षा
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+संवेदी गतिविधि सौम्य होखेले, बाकिर कुछ खतरा ध्यान देबे लायक बा। कुछ डिमेंशिया वाला लोग गैर-खाना चीज के खाना समझ सकेलन, आ समय के साथ निगलल मुश्किल हो सकेला; NIA चेतावत बा कि बाद के अवस्था में निगलल के समस्या से गला फँसे के खतरा बढ़ेला।
 
-| Risk | What to do |
+| खतरा | का करीं |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| गला फँसल | खाली अइसन चीज इस्तेमाल करीं जे निगलल ना जा सके। डिब्बा में बटन, मनका, सिक्का, कंचा या छोट खेलौना ढीला मत रखीं। खाना खाली उहे बनावट में दीं जे देखभाल टीम सुरक्षित बतावे। |
+| खाना जइसन लउके वाला चीज | NIA सलाह देत बा कि लोशन, साबुन, शैम्पू आ परफ्यूम, जे खाना जइसन लउक सकेला या गंध दे सकेला, ताला में रखीं, आ नकली फल हटा दीं। इस्तेमाल के बाद संवेदी सामान दूर रखीं। |
+| एलर्जी | शुरू करे से पहिले मेवा, लेटेक्स, ऊन, पौधा या खुशबू से एलर्जी जाँच लीं। |
+| तेज गंध | तेज परफ्यूम आ एसेंसियल ऑयल से बचीं, खास करके दमा या साँस के दूसरा समस्या में। हल्का, प्राकृतिक गंध सुरक्षित बा। |
+| त्वचा | मालिश से पहिले त्वचा पर घाव, टूटल या कमजोर त्वचा जाँच लीं। हल्का दबाव दीं आ अगर उनकर चेहरा सिकुड़े त रुक जाईं। |
+| तापमान | गरम कपड़ा आ पेय पहिले आपन कलाई पर जाँच लीं। |
+| तेज या जहरीला सामान | कवनो तेज औजार, काँच या जहरीला शिल्प सामान ना दीं। |
 
-## Does aromatherapy help?
+## का अरोमाथेरेपी से फायदा होला?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+शायद कवनो नापल जा सके वाला फायदा ना होखे। [डिमेंशिया खातिर अरोमाथेरेपी पर Cochrane समीक्षा](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) में 13 अध्ययन देखल गइल, जेमें 708 लोग रहे, आ सब केयर होम में रहे। एमें कवनो पक्का फायदा के सबूत ना मिलल। अध्ययन छोट रहे, नतीजा आपस में ना मिलल, आ दुष्प्रभाव ठीक से दर्ज ना कइल गइल रहे। अगर उनका हल्का, जाना-पहचाना गंध पसंद बा, जइसे बगइचा के लैवेंडर, त ओकरा साझा कइल ठीक बा। बाकिर ई इलाज ना ह।
 
-## How to offer a sensory activity
+## संवेदी गतिविधि कइसे दीं
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **शांत समय चुनीं** आ टीवी बंद कर दीं।
+- **सामने से आईं,** उनकर नाम लीं, आ छूए से पहिले पूछीं या बता दीं: "हमरा लगे लोशन बा। हाथ में मालिश करावे के मन बा का?"
+- **एक बेर में एक चीज दीं,** जेसे उनका पर जादा बोझ ना पड़े।
+- **प्रतिक्रिया देखीं।** चेहरा नरम होखे, हाथ ढीला होखे या मुस्कान आवे, त ई अच्छा संकेत बा। हाथ खींचल, भौं सिकुड़ल या बेचैनी होखे, त रुक जाईं।
+- **छोट रखीं।** पाँच शांत मिनट बढ़िया सत्र होखेला।
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+साथे धीरे साँस लेवे के ठहराव, जइसे [शांत साँस](/games/calm-breathing/), गतिविधि खतम करे के नरम तरीका हो सकेला। बिस्तर खातिर अउरी विचार खातिर देखीं [बाद के अवस्था के गतिविधि](/activities/late-stage/), आ शाम के बेचैनी खातिर देखीं [दिन ढले बेचैनी](/caregiving/late-day-restlessness/)।

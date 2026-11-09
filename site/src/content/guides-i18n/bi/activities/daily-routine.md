@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Wan Gentel Dei Rutin blong Man we i Gat Dementia"
+seoTitle: "Dementia Dei Rutin: Wan Sample Dei we i Isi"
+description: "Wan flexibol sample dei blong man we i gat dementia, wetem kakae, aktiviti mo rest long wan stedi rhythm, mo hao blong mekem rutin blong yu mo jenisim long ol hard dei."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Wan gentel dei rutin i mekem taem blong kirap, kakae, persone kea mo taem
+  blong slip i stap long sem taem olsem olgeta dei, i putum main aktiviti long
+  taem we man i strong moa long hed, mo i balansem aktiviti wetem rest. Mekem
+  rutin ya from fasin blong man long laef blong hem, no mekem i tait tumas,
+  go aot long san mo muv bodi evri dei, mo jenisim plan ya taem dei i askem.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Stedi taem blong kirap, kakae, kea mo slip i givim dei wan fasin we i save long hem."
+  - "Putum main aktiviti long taem we man i gud moa long dei, olsem long moning."
+  - "No fulumap evri minit. Rest mo taem blong kwaet i pat blong rutin."
+  - "San, muv bodi evri dei, mo no slip longtaem mo no kofi taem i lat, i ken helpem long restlesnes long aftenun."
+  - "Rutin i gaed, i no rul. Jenisim, short mo skip wanem we i nid long ol hard dei."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "From wanem rutin i gud long man we i gat dementia?"
+    a: "Wan dei we yu save wanem i bae hapen i mekem i gat less disijen mo less surprise, mo planti pipol we oli gat dementia oli faenem i givim sem. Alzheimer's Association i talem se wan dei we i gat plan i mekem yu spendem less taem blong tingting wanem blong mekem, mo moa taem long ol samting we yu tufala i laekem. I helpem tu ol man we oli keaem long pesin blong mekem dei blong olgeta i gat rythm."
+  - q: "Wanem i wan gud dei skejul blong man we i gat dementia?"
+    a: "I no gat wan skejul we i stret wan. Wan gud skejul i kipim taem blong kirap, kakae mo slip i stap long sem taem olsem, i putum kea blong persone mo main aktiviti long taem we man i gud moa, i gat taem aot long ples o klostu long windo, mo i givim taem blong rest. Mekem long from hao man ya i bin laef olgeta taem."
+  - q: "Eniwan we i gat dementia i save slip long dei?"
+    a: "Wan short rest i ken helpem, espesyal afta lanj. National Institute on Aging i sajestem blong no slip longtaem mo no slip long aftenun, from taem we man i tired tumas o i no slip gud, i ken mekem restlesnes long aftenun i kam moa. Sipos slip i wan rial trabol, talem wetem dokta blong hem."
+  - q: "Wanem if oli no wantem folem rutin?"
+    a: "Lego i stap long taem ya, traem bakegen long taem bihaen o long nara fasin. Oli ken no wantem from oli tired, oli no stap gud, oli sik long bodi, o oli no redi nomo. Rutin i stap blong mekem dei i isi, so bendem i moa gud than fosem."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Wan gentel rutin i givim dei wan fasin we i isi blong save long hem: kirap, kakae, smol aktiviti, rest, mo slip long ol sem taem olsem. I mekem i gat less disijen mo less surprise, mo i givim yu wan plan long ol taem we yu bambae yu tingting wanem nekis stap. Rutin we i stap bilo ya i wan sample, no wan rul. Yusum i olsem wan stat, then shepem long pesin we yu keaem long hem.
 
-## Why does a daily routine help?
+## From wanem wan rutin blong dei i help?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Wan stedi rutin i help from ol fasin we oli save long hem i isi blong folem moa than ol niufala. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) i talem se wan dei we i gat plan i mekem yu spendem less taem blong disaedem wanem blong mekem, mo moa taem long ol aktiviti we i gud. I talem tu se ol regula taem blong kirap mo slip i ken helpem long ol trabol blong slip mo restlesnes long aftenun. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) i sajestem blong wasem, dresem mo kakae long sem taem evri dei olsem pat blong wan kuaet haos, mo [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tu i rekomendem blong kipim sem ol rutin.
 
-## A sample gentle day
+## Wan sample gentel dei
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Ol taem ya i jas ol eksampol. Sifitim hol dei i kam bifo o i go leta blong mekem i mij wetem rythm blong persone.
 
-| Time | What happens | Ideas | On a harder day |
+| Taem | Wanem i hapen | Ol aidia | Long wan hard dei |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Kirap, wasem, drես | Sem oa evri dei; putum klos aot long oda we oli bambae oli go on | Kipim kea i simpol; wan niu sot i enaf |
+| 8:45 a.m. | Brekfas | Kofi mo niusfesa we yu ridim long hae vois, o redio | Kakae tugeta wetem kwaet, no fos blong toktok |
+| 9:30 a.m. | Main aktiviti | Folem klos, bekem, gaden, wan smol trip aot o wan wakabaot | Wan smol vesen, o letem tufala lukluk taem yu mekem |
+| 10:30 a.m. | Taem blong kwaet | Musik, wan foto album, o sidaon klostu long windo | Rest long wan jea we i gud long hem |
+| 11:00 a.m. | Helpem long lanj | Wasem vegetabol, setem tebol | Yu kukum; hem i stap wetem yu |
+| 12:00 p.m. | Lanj mo tidyap | Klinim tebol, draem sam dish | Lusum ol wok |
+| 1:00 p.m. | Smol rest | Fut i antap, soft musik | Sem |
+| 2:00 p.m. | Aot o aktiv | Wakabaot, taem long fron veranda, wota ol plant, tros wan balun | Sidaon klostu long windo we san i kam long hem |
+| 3:00 p.m. | Sosol o kriesen | Wan visit, wan kol, ol [gem blong ol pija pea](/games/picture-pairs/), kala, kad | Wan drink mo wan snak tugeta |
+| 4:30 p.m. | Taem blong setol | Katen i klous, laet i on, wan kuaet wok olsem folem ol smol towel | Musik we i familia, no tumas nois |
+| 5:30 p.m. | Dina | Helpem long stia o setem tebol | Kakae we i simpol mo familia |
+| 6:30 p.m. | Evening tugeta | Tokbaot ol olfala taem long desert, kad, wan fevret sou, wan haen masej | Kwaet kompani |
+| 8:00 p.m. | Redi blong slip | Bath o wasem, paesama, soft musik, laet we i no bright tumas | Mekem evri samting i sot; kamfot i fes |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Dis sample i folem shep blong sample plan blong Alzheimer's Association long ol fes blong stat mo midol, we i muv from kea blong persone mo brekfas go long wok, wakabaot, musik, rest mo visit go long dina, tokbaot ol olfala taem, mo redi blong slip.
 
-## How do you build your own routine?
+## Yu save mekem rutin blong yu olsem wanem?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Stat from hao man ya i bin laef olgeta taem, no stat from wan jat. Alzheimer's Association i sajestem blong tingting long ol samting ya bifo yu plan:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ol laeksem, ol samting we oli no laekem, ol strong save mo ol intres blong hem.**
+- **Hao hem i bin spendem dei blong hem bifo.** Man we i kirap i erli oltaem mo i bin wakabaot wetem dog blong hem, bambae i mas kontinu wakabaot long erli taem. Man we i stap leit long naet ken no sut long kirap long 8 a.m.
+- **Taem we hem i gud moa long dei.** Putum wasem, trip aot mo main aktiviti long hem.
+- **Taem we i enaf** blong kakae, wasem mo dresem, so nating i kam kwik.
+- **Stedi taem blong kirap mo slip.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Sem sos i sajestem blong includem wan mix blong wok long haos, kakae, kea blong persone, kriesen aktiviti, bodi aktiviti, sosol taem, spiritual aktiviti mo ol spontenes moment, olsem wan fren i kam bisaed.
 
-### Try it for a week, then adjust
+### Traem long wan wik, then jenisim
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Kipim wan smol nout evri dei. Alzheimer's Association i sajestem blong askem wanem aktiviti i wok gud moa mo wanem nao, wanem taem i tumas samting o i no gat enaf samting blong mekem, mo wanem spontenes plan i gud o i mekem worri. Kipim wanem i wok mo jenisim wanem i no wok.
 
-### Make it visible
+### Mekem i stap luk
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Sipos persone i save ridim yet, wan waetbod o wan kad we i gat bigfala raetin blong plan blong dei i ken mekem hem i fil sef. Kipim i sot: "Brekfas. Wakabaot wetem Sarah. Lanj. Rest." Sam pipol i moa gud sipos oli no save long plan i go bifo; Family Caregiver Alliance i sajestem blong no toktok long plan kasem taem we i stat nomo sipos i mekem worri.
 
-## How to adapt the routine
+## Hao blong jenisim rutin
 
-### Leave room to breathe
+### Lego spes blong breth
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+No fulumap evri minit. Alzheimer's Association i stresem se persone i nid balans blong aktiviti mo rest mo i ken nidim ol brek we i kam oftenoften. Sipos hem i lukluk bored, i no fokes o i kros, jenisim aktiviti o rest.
 
-### Protect the late afternoon
+### Protektem aftenun we i lat
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Planti pipol i kam moa restles taem san i stat go doun. NIA i sajestem taem aot o klostu long windo blong san evri dei, stap aktiv evri dei withaot planem tumas, no yusum kofin mo alkol long aftenun, mo no slip longtaem long aftenun. Sam famili i faenem tu se i help blong klosum ol katen mo onem ol laet bifo dak. Lukim [restlesnes long aftenun](/caregiving/late-day-restlessness/) mo [slip](/brain-health/sleep/).
 
-### Change it as needs change
+### Jenisim taem nid i jenis
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Erli stej:** plan rutin tugeta. Persone ken wantem wan raetin skejul we hem i manij hem wan.
+- **Midol stej:** yu i lidim moa. Smol aktiviti, moa rest mo planti famili wok; lukim [aktiviti long midol stej](/activities/middle-stage/).
+- **Las stej:** rutin i sentrol long kamfot, kakae mo kea, wetem ol smol sensori moment olsem musik o haen masej long midol; lukim [aktiviti long las stej](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Jenisim ol aktiviti, no ol fasin
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Kipim kakae, rest mo taem blong slip i stedi, mo jenisim ol aktiviti long midol. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i sajestem blong traem ol defren aktiviti long ol defren dei blong kipim samting i intres. Yu ken bekem long Mande, gaden long Tusde mo lukluk long ol foto long Wenesde. Ol [101 aidia blong aktiviti](/activities/ideas/) mo [ol haos wok](/activities/household-tasks/) ken fulumap ol slot.
 
-## When the day goes sideways
+## Taem dei i no go olsem plan
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Sam dei bambae oli no folem eni plan. Sik, wan nogud naet, wan visit blong dokta o jenis blong weta ken mekem evri samting i go stret. Lego plan, kipim ol nid blong bisik (kakae, wota, rest, kamfot) mo traem bakegen tumoro. Sipos persone i no wantem wan samting, lukim [taem oli sei no](/caregiving/when-they-say-no/). Wan slow breth pos tugeta, olsem [kalm breth](/games/calm-breathing/), ken helpem yu tufala blong stat bakegen.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Rutin blong yu tu i impoten. Putum brek blong yu insaed, mo askem famili o wan respaet sevis blong kava ol regula taem blong yu go aot. Lukim [self-kea blong keaem](/caregiving/caregiver-self-care/).

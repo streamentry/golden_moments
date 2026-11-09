@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Lukim Someone we i Gat Dementia long Kea o Haspitol"
+seoTitle: "Lukim Someone we i Gat Dementia: Wanem Blong Mekem mo Karem"
+description: "Wanem blong mekem taem yu lukim someone we i gat dementia long ples blong kea, haos blong olfala o haspitol: wanem blong karem, simpol aktiviti, sot visit mo wei blong lusim."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Taem yu lukim someone we i gat dementia long ples blong kea o long haspitol,
+  mekem i simpol: tellem nem blong yu taem yu kamaot, karem wan samting blong
+  sherem olsem ol foto, miusik o kaikai we hem i laekem, mo mekem wan samting
+  we i isi blong dumdum wantaem. Ol sot visit we i kamaot oltaem oftaen i gud
+  moa long ol longfala visit we i rare. Mekem wan kalmfala wei blong sei gudbae
+  we i sem evri taem, blong i isi long yu mo long hem blong lusim.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Gritim man o meri long nem blong hem mo tellem hu yu stap, blong hem no mas wok blong save: 'Hae Mama, mi Susan, pikinini meri blong yu.'"
+  - "Karem wan o tu samting blong sherem, olsem wan buk blong ol foto, miusik we hem i laekem, wan soft blanket o wan kaikai we ol staf oli bin apruvum."
+  - "Ol sot visit we i kamaot oltaem oftaen i gud moa long ol longfala visit we i rare. Stap kompani blong yu i impoten moa long wanem yu talem."
+  - "Long haspitol, givim ol staf wan pej blong tok long man o meri, mo tellem dokta kwiktaem long eni jenis we i kamaot kwik."
+  - "Plan wei blong lusim: tellem hao longfala yu save stap, yuseim sem gudbae evri taem, mo lusim no stap sot."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Wanem blong karem taem mi lukim someone we i gat dementia?"
+    a: "Karem wan samting blong sherem, no wan samting blong tokbaot nomo. Wan liktol buk blong foto, wan plei lis blong ol miusik we hem i laekem, wan soft blanket, hand lotion, wan magasin abaot wan olfala intres, o wan kaikai we ol staf oli apruvum, evri samting ya i gud. Long wan haos blong kea, ol famili foto mo ol samting we oli save long hem oli save mekem rum i fil olsem haos."
+  - q: "Hao longfala mi bambae stap taem mi lukim someone we i gat dementia?"
+    a: "I no gat wan stret longfala. Planti famili oli faenem se ol sot visit we i kamaot oftaen i gud moa long ol longfala visit we i rare, from hem i save kwik sik, mo hem i no save long taem we yu bin stap. Lukaot ol saen blong hem i sik, mo lusim taem visit i stil fil gud."
+  - q: "Wanem mi bambae talem taem hem i askem blong go long haos?"
+    a: "Ansarem long filing, no long ol wod. 'Mi wantem go long haos' i oftaen i minim 'mi no fil kamfot o sef.' Traem tokaot, 'Tellem mi abaot haos blong yu,' lukluk long ol foto togeta, o ofarem wan wok long rod o wan kaikai. Fes o eksplenem why hem no save lusim, usually i mekem hem fil moa strong."
+  - q: "Wanem if hem i no save mi?"
+    a: "Hem save hartem yu, be traem no blong korektem hem o askem 'Yu no save mi?' Gritim hem wetem kaen tingting mo jastem enjoem taem blong stap wetem hem. Planti man no mo oli laek kompani mo oli save fil hot blong visit even taem oli no save wanem nem blong yu."
+  - q: "Hao mi save helpem long taem man o meri i stap long haspitol?"
+    a: "Stap wetem hem sipos yu save, helpem hem blong kaikai mo dring, mo karem ol samting we i save long hem olsem ol foto. Givim ol staf wan pej we i leftemap rutin blong hem, nem we hem i laekem, samting we hem i laek mo i no laek, mo ol saen blong pen. Tellem dokta kwiktaem sipos hem i no fil gud o i stap defren, from konfiuzin we i kamaot kwik i save olsem wan hel problem."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Taem yu lukim man o meri we yu laekem long kea, long haos blong olfala, o long haspitol, yu save fil plante samting. Yu save tingting long wanem bambae yu talem, wanem bambae yu karem, o wetem visit ya i stap long samting, from hem bambae no save long hem. Be i stap long samting. National Institute on Aging i talem se ol man we oli gat Alzheimer's [oftaen i enjoem kompani](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even taem oli no save hu i kam lukim olsem. Pej ya i givim ol stret step blong bifo, long taem, mo afta long visit, mo ol tips blong taem we i stap long haspitol.
 
-## How do I get ready for a visit?
+## Haevu mi fasem redi blong go lukim?
 
-A little planning makes the visit easier for both of you.
+Wan liga plan i mekem visit i isi long yufala tufala.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Jusum wan gud taem.** Dementia Australia i sujestem blong go taem man o meri i gat moa save long samting, we long planti man hem i moning o arawn long midel dei. Family Caregiver Alliance i sujestem blong save skedul blong ples ya mo go taem we hem i gat **fri taem, no taem blong aktiviti** ([fri taem](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/)).
+- **Askem ol staf.** Askem hao hem i stap long dei ya, mo lukluk ol rul abaot kaikai, enimol, o taem blong go aot.
+- **Pakem wan liten visit bag.** Wan o tu samting blong sherem i stret finis (lukluk long lis long hem blo).
+- **Plan sam topik.** Man o meri i save no gat niuz blong sherem, so yu karem blong yu: niuz long famili, weta, wan gem blong bolgem, wan stori we i fanI.
+- **Setem ol expectasen blong yu.** Sam visit bambae i wom mo i tok plante. Narafala bambae i kwaet o i hadwok. Tufala i nomol.
 
-## What should I bring?
+## Wanem blong karem?
 
-Bring things to share, not things that test. Good choices include:
+Karem ol samting blong sherem, no ol samting we i mekem hem i fil hevi. Ol gudfala jojo i olsem:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Wan liten buk blong foto** we ol foto oli big mo klia. Raetem nem long bak blong ol foto blong ol staf i save.
+- **Wan plei lis** blong ol miusik we hem i laekem long fon, wetem ol simpol hedfon o wan liten spika.
+- **Samting we i soft blong holem,** olsem wan blanket, sikaf o sweta we hem i save.
+- **Hand lotion** blong wan soft handmasaj, sipos hem i laekem tajem.
+- **Magasin o pikja buk** abaot wan olfala intres, olsem gaden, ka, bed, o kukim kaikai.
+- **Wan kaikai we hem i laekem**, sipos ol staf i tok hem i sef.
+- **Ol samting we i save long rum.** Family Caregiver Alliance i sujestem ol flaoa, ol plant, famili pikja mo ol pikja blong atis, o wan big posta blong famili foto blong bifo.
+- **Wan tablet**, blong lukim famili foto o plei wan simpol gem togeta.
 
-## What can we do together during a visit?
+## Wanem yumi save mekem togeta long taem blong visit?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Mekem wan samting togeta i save rilisim presa blong toktok. Dementia Australia i sujestem blong lukluk long foto, wan isi kraf, planem ol seedling, miusik, sherem wan kaikai, o wokabaot raon long ples. Sam moa aedia:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Lukluk long foto.** Talem wanem yu luk: "Lukim taem hat ya." "Bij ya i gud tumas." Lidim hem i tok. No askem "Hu ya?"
+2. **Plei miusik mo singsing.** Ol miusik we oli save i save mekem hem i fil gud mo i givim wan taem we yufala tufala i sheā, even taem toktok i hadwok.
+3. **Wokabaot wan short taem.** Family Caregiver Alliance i sujestem blong wokabaot raon long ples, espesol long gaden sipos i gat. Wan wheelchair stret i kaontem.
+4. **Givim wan hand masaj.** Wan liten lotion mo ol slow strok long han i save kalmem.
+5. **Helpem long lukluk gud.** Dementia Australia i talem blong brashem gras, penem nel, o helpem hem blong wearem wan gudfala dres, sipos hem i laekem.
+6. **Plei wan simpol gem.** Family Caregiver Alliance i sujestem ol kad, domino, o wanem gem we hem i save plei long bifo. Long tablet, [Picture Pairs](/games/picture-pairs/) i save plei wetem ol pikja we oli stap luk, no taem. [Photo Pairs](/games/photo-pairs/) i mekem ol foto we yu jusum i kam wan matj gem, mo ol foto oli stap long browser blong yu.
+7. **Lukim wan samting togeta.** Family Caregiver Alliance i sujestem ol komedi mo ol olfala muvi. Even sipos hem i no save folem stori, yu save sidaon klos mo sherem taem.
+8. **Ridim long vois.** Wan short poem, wan gudfala paragraf, o wan leta from wan famili memba.
+9. **Jus sidaon togeta.** Holem han, o sidaon kwaet, hemia i wan trufala visit. Alzheimer's Association i talem se hemi oraet no save wanem blong tok, mo se stap kompani blong yu i impoten moa.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) i save helpem taem yu finis long ol samting blong tok. Each kad i gat wan pikja mo wan opin kwestin.
 
-## How should I talk during the visit?
+## Hao mi bambae toktok taem visit i stap?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Tellem nem blong yu evri taem.** "Hae Papa, mi Mark, pikinini man blong yu." NIA i sujestem ol visitor blong tellem nem blong olgeta long stat blong toktok.
+- **Kam long fes blong hem** mo sidaon long level blong ae.
+- **No korektem o argiu.** NIA i advaesem ol visitor blong no korektem man o meri sipos hem i mekem mistek o i fogetem samting.
+- **Stap patient** taem ol wod i hadwok blong faenem. Givim planti taem.
+- **Ansarem long filing.** Sipos hem i sad o i wari, akseptem fastaem bifo yu jenisim topik.
+- **Lusim ol kwiz kwestin** olsem "Yu save mi?" o "Wanem yu kaikaim long lanj?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Lukluk long [tips blong toktok](/caregiving/communication-tips/) blong moa.
 
-## What do I do when they say "I want to go home"?
+## Wanem mi mas mekem taem hem i talem "Mi wantem go long haos"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Ansarem long filing we i stap bihaen long ol wod ([gaed blong taem man o meri i askem blong go long haos](/caregiving/asking-to-go-home/) i eksplenem moa). Family Caregiver Alliance i eksplenem se "Mi wantem go long haos" i usually i minim "Mi no fil kamfot," mo i sujestem ansa olsem "Tellem mi abaot haos blong yu" o "Wanem samting we yu laekem tumas long haos?" Dementia Australia i ademap se "haos" i ken minim wan taem o ples we man o meri i fil sef, olsem taem blong pikinini.
 
-Try:
+Traem:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- akseptem filing: "I olsem yu miss haos blong yu."
+- givim komfot long taj, sipos hem i welkam
+- lukluk long foto o tok abaot famili haos
+- ofarem wan wokabaot, wan dring, o wan kaikai
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+No argiu o eksplenem why hem no save lusim. Hemia i no gat gud rizol mo usually i mekem hem i fil moa hevi.
 
-## How long should a visit be?
+## Visit i bambae stap hao longfala?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Ol short visit we i kamaot oftaen usually i gud moa. Family Caregiver Alliance i talem se man o meri usually i no save se yu bin stap faev minit o faev aoa, mo i sujestem se tri sot visit long wan wik i ken gud moa long wan longfala visit. Dementia Australia i talem se i no gat wan stret namba blong visit o wan stret longfala.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Long ol fes wiks afta we hem i muv long kea, Family Caregiver Alliance i sujestem blong go lukim oltaem, afta i slou slou settem wan regular pattern. Askem ol staf wanem oli luk.
 
-## How do I leave without upsetting them?
+## Hao mi lusim hem withaut blong hem i sore?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Lusim hem i ken i hadwok samting long visit. Dementia Australia i sujestem:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Tellem hao longfala yu save stap taem yu kamaot.** "Mi save stap wan aoa, afta mi mas go long maket."
+- **Yuseim wan aktiviti olsem wan natural end.** "Taem yumi finisim song ya, mi bambae lusim."
+- **Setem taem wetem wan kaikai o wan aktiviti,** o askem ol staf blong helpem hem blong settel long wan narafala samting.
+- **Mekem gudbae i sot mo i sem evri taem.** Stap longfala, sori, o stap "wan liten moa" i save mekem ol gudbae we bambae kam i hadwok moa.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Afta yu lusim, i nomol blong fil sad. Letem yu restem. Sipos man o meri i kros o i sore, ol staf usually i save helpem hem blong kam kwaet kwik.
 
-## Visiting someone with dementia in the hospital
+## Visit man o meri we i gat dementia long haspitol
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Haspitol i no stap kwaet, i stap nyuspela, mo i gat ol strenja, mo hemia i save hadwok tumas long man o meri we i gat dementia. Gaed blong NIA long [karem man we i gat Alzheimer's i go long haspitol](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) i sujestem:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Gat wan i stap wetem hem** as mo as i save: wan famili memba, wan frend we yu trastem o wan pempem we yu hiarem.
+- **Givim ol staf wan pej blong personal infomesen** wetem rutin blong hem, nem we hem i laekem, samting we hem i laek mo i no laek, ol samting we i save mekem hem i sore, mo ol saen blong pen we hem i no save tok. Putum kopi long rum mo long nors stesen.
+- **Helpem long kaikai mo dring.** Ol olfala man mo meri oli save gat fudfala i no stret long haspitol. Opem ol kantena, helpem long kaikai, kaikai togeta, mo ofarem dring.
+- **Karem ol komfot samting** olsem foto o ol spirituol samting.
+- **Mekem noes i daon.** Tanem off TV mo redusim vois blong fon mo intekom.
+- **Traem ol kalmfala ritual,** olsem miusik we i kalmem, ridim buk, prea, singsing, o lukluk long ol olfala foto.
+- **Givim hem sans blong muv** olsem we i sef, wetem apruvol blong ol staf.
+- **Tellem dokta kwiktaem sipos man o meri i luk olsem hem i wos o i stap defren.** NIA i eksplenem se sudden sivia konfiuzin, we i kolem delirium, i ken kamaot from ol problem olsem infeksen, hae tempretja, drai bodi, o saed efekt blong medisin, mo hemia i nidim medikol trietmen.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Wan short, kwaet visit wetem wan fes we yu save mo wan miusik we hem i laekem i ken i gat moa valiu long wan dei long haspitol.
 
-## Bringing children on a visit
+## Karem ol pikinini long visit
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Ol pikinini oli save karem plante warmt. Prepaem olgeta blong tok long tingting we i stret mo i simpol, kipim visit i short, mo givim olgeta wan wok, olsem sowem wan pikja o givim wan foto. NIA i sujestem se ol pikinini mo ol man we oli gat Alzheimer's oli save enjoem ol simpol aktiviti togeta, olsem lukluk long wan foto album o harem miusik. Dementia Australia i sujestem blong karem wan liten bag blong ol swit samting o ol kwaet samting blong keepem ol yangfala pikinini i bisi.
 
-## Take care of yourself too
+## Mekem gud long yu tu
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Visit i ken i tyd mo i mekem yu fil hevi, espesol sipos hem i jenis planti. I oraet blong visit lis oftaen sipos yu nidim, blong karem wan frend blong sapotem yu, o blong lusim erli long wan hadfala dei. Blong ol tips long lukaotem yu wan, lukluk long [self-kea blong caregiver](/caregiving/caregiver-self-care/). Sipos yu stap longwe, lukluk long gaed blong yumi abaot [fon mo video kol](/activities/phone-and-video-calls/).

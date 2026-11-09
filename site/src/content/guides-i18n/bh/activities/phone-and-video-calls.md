@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "डिमेंशिया वाला व्यक्ति खातिर फ़ोन आ वीडियो कॉल के गतिविधि"
+seoTitle: "डिमेंशिया खातिर वीडियो कॉल के गतिविधि"
+description: "दूर रहे वाला परिवार खातिर डिमेंशिया वाला व्यक्ति से फ़ोन आ वीडियो कॉल के गतिविधि: चीज़ दिखावल, साथ में पढ़ल, गाना, साझा स्क्रीन वाला खेल आ मदद करे वाला लोग खातिर सुझाव।"
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  डिमेंशिया वाला व्यक्ति से बात तब सबसे बढ़िया होला, जब कॉल छोट आ नियमित होखे आ कवनो काम साथ में करे खातिर होखे। जइसे पालतू जानवर या बगइचा देखावल, फ़ोटो देखल, जोर से पढ़ल, मनपसंद गाना गावल, या साझा स्क्रीन पर कवनो आसान खेल खेलल। हो सके त एक ही समय पर रोज कॉल करीं, एक बार में एक ही आदमी बोलस, आ घर पर कवनो मदद करे वाला से कहीं कि उ साथ रहस।
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "एगो गतिविधि से कॉल के एगो ढांचा मिलेला आ बात करे के दबाव कम हो जाला। एगो आसान चीज़ पहिले से सोच के रखीं जवन साझा कईल जा सके।"
+  - "छोट-छोट, नियमित कॉल, जवन दिन के एक ही समय पर होखे, अक्सर लंबा आ कभी-कभी वाला कॉल से बढ़िया काम करेला।"
+  - "एक बार में एक आदमी बोले। एक साथ कई लोग बोले त बात समझ में ना आवे, खासकर जब सुनाई कम पड़े।"
+  - "घर पर कवनो मदद करे वाला मशीन सेट कर सकेला, व्यक्ति के बगल में बइठ सकेला, आ कवनो खेल या फ़ोटो खातिर ‘हाथ’ बन सकेला।"
+  - "अगर आज कॉल ठीक से नइखे चलत, त प्यार से खत्म कर दीं। कल फेर कोशिश कईल ठीक बा।"
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "डिमेंशिया वाला व्यक्ति के साथ वीडियो कॉल पर का कर सकीलें?"
+    a: "एगो आसान गतिविधि सोचीं: बगइचा, पालतू जानवर या रसोई देखाईं; पुरान फ़ोटो साथ में देखीं; छोट कविता या चिट्ठी जोर से पढ़ीं; उनकर मनपसंद गाना गाईं; एक ही समय पर एक ही व्यंजन बनाईं; या स्क्रीन पर कवनो आसान तस्वीर वाला खेल खेलीं। गतिविधि से कॉल के एगो दिशा मिलेला, त व्यक्ति के बातचीत खुद ना चलावे के पड़ेला।"
+  - q: "वीडियो कॉल केतना देर के होखे के चाहीं?"
+    a: "आमतौर पर जेतना रउआ सोचेनी, ओकरा से छोट। कुछ मीठ-मीठ मिनट भी काफी हो सकेला, खासकर जब व्यक्ति जल्दी थक जात होखे। रोज एक ही समय पर कॉल कईल, कॉल कतना देर चलेला, ओकरा से ज्यादा मायने रख सकेला।"
+  - q: "अगर वीडियो कॉल से उ उलझन या परेशान हो जाथे त?"
+    a: "कुछ लोगन खातिर स्क्रीन पर चेहरा देखल उलझन भरल हो सकेला। साधारण फ़ोन कॉल, मदद करे वाला के एगो रिकॉर्ड कईल वीडियो संदेश जवन शांत समय में चला सकेला, या डाक से चिट्ठी आ फ़ोटो भेजल कोशिश कर सकीलें। कॉल खराब हो जाए त प्यार से खत्म करीं आ दूसरा दिन या दूसरा समय पर फेर कोशिश करीं।"
+  - q: "जब माई फ़ोन ना चला सकेली, त उनका से वीडियो कॉल कइसे करीं?"
+    a: "परिवार के कवनो सदस्य, घरेलू सहायक या देखभाल केंद्र के स्टाफ से कहीं कि उ कॉल शुरू करस आ डिवाइस पकड़ के रखस या टेक लगा देस। बहुत देखभाल केंद्र परिवारन के वीडियो कॉल में मदद करेला, त पूछीं कि उ का सुविधा देलें। स्टैंड पर रखल टैबलेट, जवन बड़ स्क्रीन आ सुने लायक आवाज वाला होखे, सबके खातिर आसान बनावेला।"
+  - q: "का वीडियो पर साथ में खेल खेल सकेनी?"
+    a: "हँ। सबसे आसान तरीका बा कि एक आदमी वीडियो ऐप में आपन स्क्रीन साझा करे, आ दोसरा बतावे कि कवन तस्वीर पर टैप करे के बा। या घर पर मदद करे वाला उहे खेल टैबलेट पर खोल सकेला, आ रउआ बात करत-करत उनका खातिर टैप कर सकेनी। अइसन खेल चुनीं जवना में कवनो टाइमर या स्कोर ना होखे।"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+दूर रहे वाला आदमी खातिर डिमेंशिया वाला अपनों से दूर रहल बड़ा बेबस लागेला। फ़ोन आ वीडियो कॉल गले लगावे के जगह ना ले सकेला, बाकिर जब ठीक से तैयारी कईल जाव, त ओहू में सच्चा मेल-जोल के पल आ सकेला। सबसे जरूरी बात बा कि सामान्य हाल-चाल वाला बातचीत के चक्कर छोड़ के कवनो आसान चीज़ साथ में बाँटे खातिर सोच के रखीं। एह पन्ना में बतावल गइल बा कि वीडियो आ फ़ोन पर कवन गतिविधि चलेला, कॉल कइसे सेट कईल जाव, आ घर पर के आदमी का मदद कर सकेला।
 
-## Why plan an activity for a call?
+## कॉल खातिर गतिविधि काहे सोचल जाव?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+गतिविधि से कॉल के एगो रूप मिलेला। "कइसन बानी? आज का कइलीं?" जइसन सवाल पूछला से व्यक्ति के याद करे आ बतावे के पड़ेला, जवन मुश्किल आ तनावपूर्ण हो सकेला। "देखीं, टमाटर पाक गइल बा" कहला से उनका से कुछुओ ना माँगल जाला।
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association बतावेला कि वीडियो पर बड़ समूह से बात करल मुश्किल हो सकेला, आ सुझावेला कि [कॉल में ढांचा जोड़ीं](https://www.alz.org/help-support/caregiving/holidays), जइसे गाना गावल या फ़ोटो दिखावल।
 
-## What activities work on a video call?
+## वीडियो कॉल पर कवन गतिविधि चलेला?
 
-### Show and tell
+### चीज़ दिखावल आ बतावल
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+अपना दुनिया उनका के दिखाईं। कैमरा धीरे-धीरे बगइचा में घुमाईं, कुकुर से मिलवाईं, बतावीं कि रउआ का बनावत बानी, नाती-पोता के बनावल चित्र उठाईं, या खिड़की से बरफ़ दिखाईं। सरल शब्द में बताईं कि का देखात बा, आ उनका प्रतिक्रिया खातिर रुकल करीं। कवनो सवाल जरूरी नइखे।
 
-### Look at photos together
+### साथ में फ़ोटो देखल
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+पुरान फ़ोटो कैमरा के सामने रखीं, या स्क्रीन साझा करके कुछ बड़-बड़ फ़ोटो एक-एक करके दिखाईं। बात करीं कि उ का देखत बानी: "देखीं, बाबूजी के टोपी।" "ई के हवे?" या "याद बा?" जइसन सवाल से बचीं। अगर व्यक्ति कवनो के गलत नाम लेस, त ओकरा से ना उलझीं। यादें जगावे खातिर आसान सवाल खातिर हमार [यादों वाला गाइड](/activities/reminiscence/) देखीं।
 
-### Read aloud
+### जोर से पढ़ल
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+कवनो छोट कविता, भजन, नाती-पोता खातिर मनपसंद बाल-कथा, कवनो रिश्तेदार के चिट्ठी, या उनकर पसंद के किताब के एक पन्ना पढ़ीं। जोर से पढ़ला से व्यक्ति के कुछ शांत सुने के मिलेला, आ जवाब देबे के जरूरत ना पड़ेला।
 
-### Sing or listen to music together
+### गावल या संगीत सुनल
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+उनका के जानल गाना गाईं, या अपना तरफ से उनकर मनपसंद गाना बजाईं। बहुत लोगन खातिर गावल, बात करे से आसान होखेला। हमार [संगीत वाला गाइड](/activities/music/) देखीं।
 
-### Cook or bake at the same time
+### साथे खाना बनावल या पकवान बनावल
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association सुझावेला कि वीडियो कॉल पर कवनो खास व्यंजन साथ में बनावल जाव। दूनो रसोई में कॉल सेट करीं। घर पर के आदमी चम्मच चलावे या स्वाद चखे, आ रउआ उनकर पुरान नुस्खा के पालन करीं।
 
-### Watch something together
+### साथ में कुछ देखल
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association इहो सुझावेला कि दूर-दूर रह के फ़ोन या वीडियो पर बात करत-करत एक ही समय पर कवनो मनपसंद फ़िल्म देखल जाव। डिमेंशिया वाला व्यक्ति खातिर छोट क्लिप, पुरान टीवी धारावाहिक के एपिसोड, या क्रिकेट के मैच पूरा फ़िल्म से बढ़िया काम कर सकेला।
 
-### Play a gentle game on a shared screen
+### साझा स्क्रीन पर आसान खेल
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+कई वीडियो कॉल ऐप में स्क्रीन साझा कईल जा सकेला। रउआ खेल खोलीं आ टैप करीं; व्यक्ति बतावे या इशारा करे कि कवन तस्वीर चुने के बा। या घर पर मदद करे वाला उहे खेल टैबलेट पर खोलके उनका खातिर टैप कर सकेला, आ रउआ बात करत रहीं।
 
-Games that work well this way:
+एह तरह से बढ़िया चलेवाला खेल:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** रउआ जानल कहावत पढ़ीं, उ ओकर आखिरी हिस्सा बोलसु, आ फेर बात करे खातिर एगो सवाल आई।
+- **[Picture Pairs](/games/picture-pairs/):** बड़ तस्वीर वाला आसान मिलान खेल, जवना में तस्वीर देखत रह सकेलीं, कवनो टाइमर ना होखे, आ कवनो स्कोर ना होखे।
+- **[Conversation Cards](/games/conversation-cards/):** एगो तस्वीर आ एगो खुला सवाल, जवना पर साथ में बात कईल जा सके।
+- **[Photo Pairs](/games/photo-pairs/):** रउआ आपन यंत्र पर चुनल फ़ोटो से बनल मिलान खेल। फ़ोटो रउआ ब्राउज़र में रहेला, आ व्यक्ति उनका के साझा स्क्रीन के जरिये देखेलें।
 
-### Recorded messages
+### रिकॉर्ड कईल संदेश
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+जब लाइव कॉल मुश्किल होखे, त छोट वीडियो रिकॉर्ड करीं: नमस्कार, कवनो गाना, आपन आँगन में घुमत। मदद करे वाला शांत समय में उ चला सकेला, जेतना बार व्यक्ति चाहें। Alzheimer's Association बतावेला कि खास पल रिकॉर्ड करके भेजल जा सकेला, जइसे बच्चा लोग उपहार खोलत।
 
-## What about plain phone calls?
+## साधारण फ़ोन कॉल के बारे में का?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+फ़ोन कॉल अबहियो जरूरी बा। Dementia Australia सुझावेला कि [रोज एक ही समय पर कॉल करीं](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) आ हड़बड़ी ना करीं, काहे कि डिमेंशिया वाला लोग के बात में लगे में समय लाग सकेला। फ़ोन पर:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- शुरू में आपन नाम आ रिश्ता बता दीं: "नमस्ते बाबूजी, हम जेनी बोल रहल बानी, रउआ बेटी।"
+- धीरे, छोट-छोट वाक्य में, एक बार में एक बात बोलीं।
+- सवाल पूछे के जगह खबर सुनाईं: "काल्हु रउआ वाला मटन के पकवान बनवनी।"
+- छोट कविता पढ़ीं, या मनपसंद गाना के एक पद गाईं।
+- कॉल छोट रखीं आ प्यार भरल बात से खत्म करीं।
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia इहो बतावेला कि जब बात करे में मुश्किल होखे, त वीडियो कॉल मदद कर सकेला, काहे कि व्यक्ति रउआ चेहरा देख सकेलन। फ़ोन कॉल से उलझन होखे, त वीडियो आज़माईं, या उल्टा।
 
-## How do I set up a video call that works?
+## काम करे वाला वीडियो कॉल कइसे सेट करीं?
 
-**Before the call:**
+**कॉल से पहिले:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **एगो नियमित समय चुनीं** जब व्यक्ति आमतौर पर आराम में होखें, आ ओही समय पर कायम रहीं। दिनचर्या से मदद मिलेला।
+2. **घर पर के मदद करे वाला से तालमेल बइठाईं।** एक दिन पहिले एगो संदेश भेजल उनका के तैयारी में मदद करी।
+3. **यंत्र जांच लीं।** हाथ में पकड़ल फ़ोन से स्टैंड पर रखल टैबलेट आसान होखेला। पक्का करीं कि चार्ज बा, स्क्रीन चमकत बा, आ आवाज सुने लायक बा। ऐप में सुविधा होखे, आ व्यक्ति ठीक से पढ़ पावत होखें, त कैप्शन चालू करीं।
+4. **एक गतिविधि सोचीं** आ सब कुछ पहिले से तैयार रखीं।
 
-**During the call:**
+**कॉल के दौरान:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **कैमरा के नजदीक बइठीं,** अच्छा रोशनी में, खिड़की के ओर मुँह करके, खिड़की के पीछे ना।
+- **हर बार आपन परिचय दीं,** नाम आ रिश्ता बताके।
+- **एक बार में एक आवाज।** Alzheimer's Association बतावेला कि एक साथ कई लोग बोलल डिमेंशिया वाला लोग आ कम सुनने वाला लोग खातिर मुश्किल होखेला। कई रिश्तेदार जुड़स, त बारी-बारी बोलीं, या दू-तीन लोग तक सीमित रखीं।
+- **एक बार में एक सवाल पूछीं।** Family Caregiver Alliance [हाँ या ना वाला सरल सवाल](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) पूछे के सुझाव देलें, आ जब हो सके त चुनाव देखावे के भी।
+- **लंबा रुकल खातिर तैयार रहीं।** उनकर जवाब खातिर रुकीं। अगर उ शब्द खोजत होखें, त एगो शब्द सुझावल ठीक बा।
+- **चेहरा आ आवाज के इस्तेमाल करीं।** मुस्कुराईं, सिर हिलाईं, आ आवाज में नरमी रखीं। चेहरा के भाव अक्सर शब्द से जादा कह देला।
+- **सुधारीं मत।** अगर व्यक्ति कवनो बात गलत कहें, त उनका के ओही में छोड़ दीं।
 
-**Ending the call:**
+**कॉल खत्म करत:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- व्यक्ति थके से पहिले खत्म करीं, आदर्श रूप से कवनो खुशी के पल पर।
+- हर बार एक ही विदाई के बात कहीं: "काल्हु दुपहरिया में फेर फ़ोन करब। रउआ से बहुत प्यार बा।"
+- बात खींचत ना रहीं।
 
-## Tips for the helper on site
+## घर पर मदद करे वाला लोग खातिर सुझाव
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+अगर रउआ पति/पत्नी, सहायक, भाई-बहिन या स्टाफ के रूप में कॉल में मदद करत बानी, त रउआ से ही ई संभव हो पावेला।
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **शांत जगह तैयार करीं।** टीवी बंद करीं आ दरवाजा बंद करीं।
+- **कॉल खुद शुरू करीं,** फेर व्यक्ति के स्टैंड पर रखल टैबलेट थमाईं, या आँख के स्तर पर पकड़ के रखीं।
+- **उनका बगल में बइठीं, सामने ना।** रउआ मौजूदगी से उनका भरोसा मिलेला। जरूरत पड़े त धीरे से याद दिलाईं: "देखीं, जेनी आइल बिया।"
+- **हाथ बनीं।** फ़ोटो उठाईं, खेल में टैप करीं, आ टैबलेट घुमाके कमरा देखाईं।
+- **थकावट या परेशानी पर ध्यान दीं,** आ कॉल करे वाला के बताईं कि अब खत्म करे के समय हो गइल बा।
+- **कॉल करे वाला के बताईं कि का बढ़िया रहल।** "उनका कुकुर बड़ा पसंद आइल" से अगिला कॉल के योजना बनावे में मदद मिलेला।
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA सुझावेला कि दूर रहे वाला रिश्तेदार बुजुर्ग के फ़ोन के सुविधा सिखा सकेलन, जइसे वीडियो कॉल, [फ़ोन के सुविधा सिखल](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving)। बाद के चरण में मदद करे वाला के आमतौर पर पूरा यंत्र खुद संभाले के पड़ेला। उ ठीक बा।
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+अगर व्यक्ति देखभाल केंद्र में रहत बाड़न, त Alzheimer's Foundation of America सुझावेला कि पूछीं कि केंद्र परिवारन के वीडियो चैट में मदद करेला कि ना। AFA इहो बतावेला कि परिवार लोग देखभाल केंद्र के स्टाफ के साथ फ़ोटो आगे-पीछे भेज सकेला, आ मनपसंद नाश्ता या छोट आराम के चीज़ भेज सकेला, बाकिर पहिले पता कर लीं कि केंद्र का अनुमति देला।
 
-## What if the call doesn't go well?
+## कॉल ठीक से ना चले त का करीं?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+कुछ कॉल उलझन भरल, फीका या परेशान करे वाला हो सकेला। ई रउआ गलती ना ह, आ ई ना मतलब बा कि कॉल के कवनो फायदा नइखे।
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- अगर व्यक्ति स्क्रीन देख के चकरा जाव, त फ़ोन कॉल या रिकॉर्ड कईल संदेश पर चलल जाव।
+- अगर उ परेशान हो जाव, त उनकर भावना के मानीं, कवनो ढाढ़स वाला बात कहीं, आ प्यार से कॉल खत्म करीं।
+- अगर एक समय पर कॉल अक्सर खराब होखे, त दोसरा समय आजमाईं।
+- अगर उ रउआ के कवनो दोसरा आदमी समझें, त उनका के प्यार से ओही में साथ दीं।
 
-It is fine to end early. A short, warm call is a good outcome.
+कॉल जल्दी खत्म करे में कवनो बुराई नइखे। छोट, प्यार भरल कॉल भी बढ़िया नतीजा ह।
 
-## Between calls
+## कॉल के बीच में
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+दोसरा तरीका से भी साथ बनल रहीं। Dementia Australia सुझावेला कि कार्ड, ईमेल, फ़ोटो या छोट उपहार भेजीं। एगो बड़ फ़ोटो आ छोट नोट वाला हफ्ता के पोस्टकार्ड बार-बार पढ़ल जा सकेला। मदद करे वाला के डाक से भेजल छापल [बातचीत वाला कार्ड](/games/conversation-cards/) अगिला कॉल खातिर तैयार विषय दे सकेला।
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+टैबलेट चुने आ सेट करे खातिर [टैबलेट आ स्क्रीन](/caregiving/tablets-and-screens/) देखीं। आमने-सामने के समय खातिर [मिले-जुले](/activities/visiting/) पर हमार गाइड देखीं।

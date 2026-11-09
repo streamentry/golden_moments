@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Периодично гладуване и деменция: какво казват изследванията"
+seoTitle: "Периодично гладуване и деменция: какво показват изследванията"
+description: "Данните за периодичното гладуване и деменцията са ограничени. Вижте рисковете за по-възрастните и защо е по-важно да се яде и пие достатъчно."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Няма добри доказателства, че периодичното гладуване предпазва от деменция или
+  я забавя. Голяма част от изследванията са върху животни, а проучванията при
+  възрастни хора са малки и кратки. Гладуването може да е рисково за по-възрастните
+  хора: загуба на тегло и мускули, ниска кръвна захар при някои лекарства за
+  диабет, дехидратация и падания. За хората с деменция по-голямата грижа обикновено
+  е да ядат и пият достатъчно. Първо се консултирайте с лекар.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Националният институт по стареене казва, че няма достатъчно доказателства, за да се препоръча каквато и да е диета с гладуване или ограничаване на калориите, особено за по-възрастните хора."
+  - "Голяма част от изследванията за гладуването и стареенето са върху животни и резултатите им не се прилагат непременно за хората."
+  - "Възможните рискове за по-възрастните хора включват нежелано отслабване, загуба на мускули, ниска кръвна захар при някои лекарства за диабет, дехидратация, замайване и падания."
+  - "Хората с деменция често забравят да ядат или да пият или смятат, че вече са яли. Помагането им да ядат и пият достатъчно обикновено е много по-важно от това кога ядат."
+  - "Не използвайте гладуване за човек с деменция. Консултирайте се с лекар или с диетолог, преди каквато и да е промяна в режима на хранене."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Предпазва ли периодичното гладуване от болестта на Алцхаймер?"
+    a: "Няма добри доказателства, че го прави. Голяма част от изследванията са върху животни, а проучванията при хора обикновено са кратки, с по-млади или с наднормено тегло участници и са насочени към отслабване. Националният институт по стареене казва, че няма достатъчно доказателства, за да се препоръчват диети с гладуване на обществото."
+  - q: "Безопасно ли е периодичното гладуване за по-възрастните хора?"
+    a: "Може и да не е. Гладуването може да доведе до нежелано отслабване и загуба на мускули, дехидратация, замайване и падания, а при хора, които приемат инсулин или някои други лекарства за диабет, може да предизвика опасно ниска кръвна захар. Mayo Clinic отбелязва, че може да не е подходящо за хора с висок риск от загуба на костна маса и падания. Консултирайте се с лекар, преди да опитате."
+  - q: "Трябва ли човек с деменция да опитва гладуване?"
+    a: "Не. Хората с деменция често имат трудности да ядат и пият достатъчно, а лошото хранене може да увеличи поведенческите симптоми и да доведе до отслабване. Гладуването добавя риск без доказана полза. Вместо това се грижете за редовни хранения, закуски, които човекът харесва, и достатъчно течности."
+  - q: "Кои са признаците, че човек с деменция не яде или не пие достатъчно?"
+    a: "Наблюдавайте за отслабване, дрехи, които стават по-широки, умора, слабост, запек или отказ от храна. Признаците на дехидратация, посочени от Националния институт по стареене, включват сухота в устата, замайване, учестен пулс и халюцинации. Съобщете на лекаря на човека, ако забележите някое от тях."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Периодичното гладуване, например хранене само в рамките на осемчасов прозорец или рязко намаляване на калориите два дни в седмицата, привлича много внимание, а някои статии твърдят, че може да защити мозъка. Ако сте възрастен човек или се грижите за някого с деменция, ето какво всъщност показват изследванията и защо е важно да бъдете внимателни.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Това е обща информация, а не медицински съвет. Не започвайте гладуване и не променяйте начина, по който се храни човекът, за когото се грижите, без да се консултирате с лекар или с диетолог. Вижте нашето [медицинско предупреждение](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Предпазва ли периодичното гладуване от деменция?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Няма добри доказателства, че периодичното гладуване предпазва от деменция или я забавя. Националният институт по стареене (NIA) казва, че няма достатъчно доказателства, за да се препоръча какъвто и да е вид диета с ограничаване на калориите или гладуване, и че трябва да се научи много повече за тяхната ефективност и безопасност, особено при по-възрастните хора ([NIA за диетите с ограничаване на калориите и гладуването](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Защо доказателствата са толкова ограничени
 
-The NIA gives several reasons:
+NIA посочва няколко причини:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Повечето изследвания са върху животни.** Проучванията върху червеи, мухи, мишки и маймуни дават интересни резултати, но те не означават непременно същото за хората. Дори при животните резултатите са смесени: при някои породи мишки ограничаването на калориите е съкратило живота.
+- **Изследванията при хора са кратки.** Повечето траят няколко седмици или месеца.
+- **Повечето изследвания при хора са за отслабване** при хора с наднормено тегло, а не за паметта или деменцията.
+- **По-възрастните хора рядко са включвани.** Много изследвания са включвали хора на 60 години или по-млади.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Систематичен преглед от 2026 г. разгледа по-специално периодичното гладуване при възрастни на 60 и повече години. Той установи, че доказателствата за тази възрастова група остават ограничени, с малки проучвания, кратко проследяване и смесени дизайни. Данните за мисленето и паметта идват от отделни проучвания, а не от обобщени резултати от изпитвания. Прегледът отбелязва още, че някои проучвания свързват много кратки прозорци за хранене или дълги гладувания с по-лоши резултати, и авторите призовават за предпазливост при по-възрастните хора ([прегледът от 2026 г. в Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Някои изследователи смятат, че преминаването на тялото към изгаряне на мазнини по време на гладуване може да повлияе на мозъка, но това все още е теория, която се изследва. NIA отбелязва, че науката по въпроса е несигурна.
 
-## What are the risks of fasting for older adults?
+## Какви са рисковете от гладуването за по-възрастните хора?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+За много възрастни хора гладуването не е безобиден опит. Възможните рискове включват:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Нежелано отслабване.** Яденето по-малко от нужното на тялото може да доведе до загуба на тегло и на мускулна сила, което може да направи човека по-крехък.
+- **Загуба на мускули и кости.** В двугодишно изследване на ограничаване на калориите, подкрепено от NIA, при млади и средновъзрастни хора участниците са имали леко намаляване на костната плътност и на безмазнинната телесна маса.
+- **Ниска кръвна захар при лекарства за диабет.** Хората, които приемат инсулин или някои други лекарства за диабет, могат да получат твърде ниска кръвна захар, ако пропуснат или отложат хранене, според [Националния институт по диабет и храносмилателни и бъбречни болести](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Ниската кръвна захар може да причини замайване, объркване и раздразнителност.
+- **Дехидратация.** Ако пропуснете напитките заедно с храненето, човек може да се дехидратира.
+- **Замайване и падания.** Mayo Clinic отбелязва, че периодичното гладуване може да накара хората да се чувстват много уморени и замаяни и че може да не е здравословен режим за хората с висок риск от загуба на костна маса и падания ([Mayo Clinic за периодичното гладуване](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Други ефекти.** Mayo Clinic посочва също главоболие, промени в настроението и запек. Според клиниката има някои данни, че 16-часово гладуване с 8-часов прозорец за хранене може да повиши риска от сърдечни заболявания в сравнение с други режими. Тези данни още не са окончателни.
 
-## Why is eating enough the bigger concern with dementia?
+## Защо достатъчното хранене е по-голямата грижа при деменция?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+При хората с деменция обикновеният проблем е да ядат и пият **достатъчно**, а не твърде много. Алцхаймер асоциация обяснява, че хората в средния и напредналия стадий може да се почувстват претоварени от избора на храна, да забравят да ядат или да смятат, че вече са яли. Асоциацията добавя, че лошото хранене може да увеличи поведенческите симптоми и да доведе до отслабване ([Алцхаймер асоциация за храната и храненето](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Алцхаймер Сосайъти отбелязва, че недостатъчното хранене може да доведе до отслабване, по-малка мускулна сила, умора и слабост, което прави човека по-крехък и по-малко способен да се възстановява от инфекции ([Алцхаймер Сосайъти за апетита](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Поради тези причини гладуването не е добра идея за човек с деменция.** Пропуснатите хранения лесно могат да се превърнат в пропуснати хранения за по-дълго. Всяка промяна в начина, по който човек с деменция се храни, трябва да бъде насочвана от неговия лекар или от диетолог.
 
-## What are the warning signs of poor eating or drinking?
+## Кои са предупредителните признаци за лошо хранене или пиене?
 
-Watch for:
+Наблюдавайте за:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Отслабване** или дрехи, които стават по-широки.
+- **Оставяне на храна или отказ от хранене**, или задържане на храната в устата.
+- **Умора или слабост.**
+- **Запек**, който може да е свързан с храненето и дехидратацията.
+- **Признаци на дехидратация.** NIA посочва сухота в устата, замайване, учестен пулс и халюцинации, които могат да бъдат причинени и от самата деменция ([NIA за често срещани медицински проблеми](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Слабият апетит има много възможни причини: болящи зъби или хлабави протези, нови лекарства, депресия, запек, по-малко физическа активност или промени във вкуса и обонянието. Съобщете на лекаря на човека за всеки от тези признаци. Той може да потърси причината и да предложи консултация с диетолог или хранителни добавки.
 
-## How can you help someone eat and drink enough?
+## Как можете да помогнете на някого да яде и пие достатъчно?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Предлагайте малки порции и закуски често**, вместо три големи хранения.
+- **Сервирайте любими храни** и бъдете гъвкави, тъй като вкусовете се променят. Сладкото може да е добре дошло, ако апетитът е слаб; попитайте лекаря дали има здравословни причини да ограничавате захарта.
+- **Дръжте напитките наблизо** и предлагайте малки чаши през деня. Супите, плодовете, смутитата и млечните шейкове също се броят.
+- **Яжте заедно**, когато можете. Храненето е възможност за компания, а не задача, която трябва да се бърза.
+- **Пробвайте храни за ядене с ръце**, като сандвичи, резени плод или парчета пилешко, ако приборите вече са трудни за ползване.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Нашето [ръководство за хранене](/brain-health/diet/) съдържа още идеи за хранене. Приготвянето на храна може да бъде и приятна съвместна дейност; вижте [домакинските задачи](/activities/household-tasks/).
 
-## Talk with a doctor
+## Говорете с лекар
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Преди да започнете сами каквото и да е гладуване, говорете с вашия лекар или с диетолог, особено ако приемате лекарства за диабет или за кръвно налягане, ако наскоро сте отслабнали или ако сте падали. За човек с деменция попитайте лекаря колко трябва да яде и пие на ден, вместо да питате за гладуване.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Потърсете спешна медицинска помощ при внезапно объркване, припадък или признаци на много ниска кръвна захар, които не се подобряват бързо.

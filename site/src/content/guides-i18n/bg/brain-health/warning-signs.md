@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Ранни признаци на деменция и кога да посетите лекар"
+seoTitle: "Ранни признаци на деменция и кога да посетите лекар"
+description: "Чести ранни признаци на деменция, разлики от нормалното стареене, лечими причини за проблеми с паметта и как да се подготвите за посещение при лекар."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Загубата на памет, която нарушава ежедневието, затруднения с познати задачи, объркване относно времето
+  или мястото и промени в настроението или преценката могат да бъдат ранни признаци на деменция. Много
+  други състояния, включително проблеми с щитовидната жлеза, ниско ниво на витамин B12, странични ефекти
+  от лекарства, депресия и проблеми със съня, могат да причинят подобни промени. Само квалифициран
+  специалист може да постави диагноза. Внезапното объркване изисква спешна медицинска помощ.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Леката забравяливост е често срещана с възрастта; промените, които нарушават ежедневието, си заслужава да бъдат проверени."
+  - "Асоциацията Алцхаймер описва 10 предупредителни признака, като за всеки има типична свързана с възрастта промяна за сравнение."
+  - "Проблеми с щитовидната жлеза, ниско ниво на витамин B12, странични ефекти от лекарства, депресия, инфекции и проблеми със съня могат да повлияят на паметта, а някои от тях се лекуват."
+  - "Само квалифициран специалист може да постави диагноза деменция; онлайн тестове и самопроверки не могат."
+  - "Объркване, което се появява внезапно, за часове или дни, може да е делириум и изисква спешна медицинска помощ."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Забравяливостта нормална част ли е от стареенето?"
+    a: "Донякъде да. Националният институт по стареене (NIA) посочва, че случайното оставяне на вещи или забравянето на сметка обикновено е лека, свързана с възрастта забравяливост. Деменцията не е нормална част от стареенето. Проблемите с паметта, които затрудняват ежедневни действия като шофиране, използване на телефон или намиране на пътя до дома, си заслужава да се проверят при лекар."
+  - q: "Могат ли проблемите с паметта да имат причина, различна от деменция?"
+    a: "Да. Националният институт по стареене посочва проблеми с щитовидната жлеза, бъбреците или черния дроб, странични ефекти от лекарства, депресия и тревожност, ниско ниво на витамин B12, злоупотреба с алкохол, проблеми със съня, инфекции и травми на главата, наред с други. Някои от тях се подобряват след лечение, затова медицинската проверка е важна."
+  - q: "Мога ли да проверя някого за деменция у дома?"
+    a: "Не. Само квалифициран специалист може да постави диагноза деменция, като използва медицинска анамнеза, физичен преглед, тестове за памет и мислене, лабораторни изследвания и понякога образни изследвания на мозъка. Дори кратките тестове, които ползват лекарите, сами по себе си не са достатъчни за диагноза деменция."
+  - q: "Какво да направя, ако някой внезапно се обърка?"
+    a: "Потърсете медицинска помощ веднага. Внезапното объркване може да е делириум, който Министерството на здравеопазването на САЩ (VA) описва като спешно медицинско състояние. Веднага се свържете с лекаря или здравното заведение на човека или се обадете на 112, останете до него и запишете всички лекарства, които приема."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Забелязването на промени в собствената ви памет или в паметта на близък човек може да бъде плашещо. Тази страница може да ви помогне да решите кога да запишете час при лекар и как да се подготвите за него. Тя не може да ви каже дали някой има деменция. **Само квалифициран специалист може да постави диагноза деменция**, а много състояния, които причиняват проблеми с паметта, изобщо не са деменция. Моля, не разчитайте на онлайн тестове или самопроверки.
 
-## What are the early signs of dementia?
+## Кои са ранните признаци на деменция?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Асоциацията Алцхаймер](https://www.alz.org/alzheimers-dementia/10_signs) описва 10 ранни признака. За всеки от тях тя посочва типична свързана с възрастта промяна за сравнение. С наши думи:
 
-| Sign worth checking | More typical with age |
+| Признак, който си струва да се провери | По-типично с възрастта |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Загуба на памет, която нарушава ежедневието, например забравяне на скорошни събития или повтаряне на един и същ въпрос отново и отново | Понякога забравяне на име или среща, които по-късно си спомняте |
+| Затруднения при планиране или решаване на проблеми, например при следване на позната рецепта или при following на сметки | Случайна грешка при домакинските сметки |
+| Затруднения при довършване на познати задачи вкъщи, на работа или навън | От време на време нужда от помощ с настройка на микровълновата фурна или със записване на предаване |
+| Губене на представа за датите, сезоните или мястото, на което се намирате | Объркване на деня от седмицата, което после се оправя |
+| Нови затруднения при преценка на разстояние, при четене или при разграничаване на цветове | Промени в зрението, например от катаракта |
+| Нови проблеми с думите, например спиране по средата на разговор или назоваване на нещата с грешно име | Понякога затруднение при намирането на точната дума |
+| Оставяне на вещи на необичайни места и невъзможност да се проследят стъпките назад | От време на време губене на вещи, които се намират, като се проследят стъпките назад |
+| Лоша преценка, например с пари или с лична хигиена | Случайно лошо решение |
+| Отдалечаване от хобита, работа или социални дейности | Понякога липса на желание да се отиде на семейно или социално събитие |
+| Промени в настроението или личността, например объркване, подозрителност, страх или тревожност | Установени навици в начина на правене на нещата и раздразнение, когато рутината се наруши |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Един признак сам по себе си не означава деменция. Важна е **промяната спрямо това, което е нормално за този човек**, особено ако тя прави ежедневието по-трудно.
 
-## How is normal aging different from dementia?
+## Как нормалното стареене се различава от деменцията?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[Националният институт по стареене (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) посочва, че много възрастни хора забелязват, че си припомнят нещата по-бавно, или понякога оставят вещи на място или забравят сметка. Обикновено това са признаци на лека забравяливост. **Деменцията не е нормална част от стареенето.** Сериозните проблеми с паметта затрудняват ежедневните дейности, като шофиране, използване на телефон или намиране на пътя до дома.
 
-The NIA suggests talking with a doctor if someone:
+NIA препоръчва да се потърси съвет от лекар, ако човекът:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Задава едни и същи въпроси отново и отново
+- Се губи на места, които добре познава
+- Има затруднения със следване на рецепти или указания
+- Се обърква повече относно времето, хората и местата
+- Престане да се грижи за себе си, например се храни зле, не се къпе или се държи несигурно
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Някои хора имат **лека когнитивна дисфункция (MCI)**. Това означава повече проблеми с паметта или мисленето в сравнение с връстниците им, като човекът все още се справя с ежедневието. NIA посочва, че MCI може да бъде ранен признак на болестта Алцхаймер, но не всеки с MCI развива болестта.
 
-## What else can cause memory problems?
+## Какво друго може да причини проблеми с паметта?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Много неща, различни от деменцията, могат да повлияят на паметта, а някои се подобряват с лечение. NIA посочва:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Проблеми с щитовидната жлеза, бъбреците или черния дроб**
+- **Странични ефекти от лекарства**
+- **Депресия и тревожност**
+- **Ниско ниво на витамин B12** или недостатъчно хранене със здравословна храна
+- **Проблеми със съня**
+- **Злоупотреба с алкохол или наркотици**
+- **Инфекции, кръвни съсиреци или тумори** в мозъка
+- **Травма на главата**, например сътресение
+- **Силен стрес или скръб**, например пенсиониране или загуба на съпруг или съпруга
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Проблемите със слуха и зрението също могат да се сбъркат с объркване; вижте нашето [ръководство за слуха](/brain-health/hearing/). Затова медицинската проверка е важна. Според [Асоциацията Алцхаймер](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) лекарите често назначават кръвни изследвания, за да проверят за проблеми с щитовидната жлеза, недостиг на витамини и инфекции. Добрият [сън](/brain-health/sleep/) и лечението на депресията също си заслужава да се обсъдят.
 
-## Sudden confusion is an emergency
+## Внезапното объркване е спешен случай
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Объркване, което се появява бързо, за часове или дни, изисква спешна медицинска помощ.** Може да е делириум. [Министерството на здравеопазването на САЩ (VA) описва делириума](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) като спешно медицинско състояние и препоръчва веднага да се свържете с лекаря или здравното заведение на човека или да се обадите на 112. Признаците включват:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Колебания в способността да мислите ясно
+- Затруднено внимание
+- Объркано мислене
+- Необичайна сънливост или необичайна неспокойност и възбуда
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Това може да се случи на всеки, включително на хора, които вече живеят с деменция. Според [NHS](https://www.nhs.uk/symptoms/confusion/) честите причини включват инфекции (инфекциите на пикочните пътища са често срещани при възрастните хора и при хората с деменция), инсулт, ниска кръвна захар при хора с диабет, травма на главата и някои лекарства. Докато чакате помощ, останете до човека и го успокоявайте с кратки и прости думи. Не задавайте много въпроси и запишете всички лекарства, които приема.
 
-## How do I prepare for the doctor's appointment?
+## Как да се подготвя за посещението при лекаря?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Добрият преглед започва с добри бележки. [Асоциацията Алцхаймер](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) препоръчва да донесете:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Списък с промени** в паметта, настроението и поведението, с конкретни примери и приблизително кога са започнали
+2. **Минали и настоящи здравословни проблеми**, включително семейна история на проблеми с паметта
+3. **Всички рецепти и лекарства без рецепта**
+4. **Всички витамини или хранителни добавки**
+5. **Вашите въпроси**, например какви изследвания ще се правят, колко време ще отнемат и кога ще има резултати
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Също така е полезно да доведете член на семейството или приятел, който добре познава човека. [NIA обяснява](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), че лекарите може да попитат както човека, така и член на семейството за здравето, лекарствата, ежедневните дейности и промените в поведението. Лекарите може също да:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Направят тестове за памет, решаване на задачи, внимание, броене и говор
+- Назначат кръвни и урински изследвания и други тестове за търсене на други причини
+- Проверят за депресия или други психични състояния
+- Назначат образни изследвания на мозъка, като CT или MRI
+- Насочат към специалист, например гериатър, невролог, гериатричен психиатър или невропсихолог
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA отбелязва, че когнитивната оценка е задължителна част от годишния профилактичен преглед (в САЩ — Medicare Annual Wellness Visit), което може да е подходящ момент да повдигнете притесненията си. Дори кратките тестове, които ползват лекарите, сами по себе си не са достатъчни за диагноза деменция. Те са първа стъпка към по-пълна оценка, а диагнозата може да изисква повече от едно посещение. NIA препоръчва хората с проблеми с паметта да се връщат при лекар на всеки 6 до 12 месеца.
 
-## Raising the subject kindly
+## Как да повдигнете темата с внимание
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ако се притеснявате за друг човек, изберете спокоен и уединен момент. Говорете за конкретни неща, които сте забелязали, и ги поднесете като загриженост за здравето, а не като критика. Предлагането на общ медицински преглед може да изглежда по-малко плашещо. Включвайте човека в решенията и говорете с него като с възрастния, какъвто е. Нашите [съвети за общуване](/caregiving/communication-tips/) може да ви помогнат.
 
-## Talk with a doctor
+## Говорете с лекар
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ако забележите нови промени в паметта, мисленето, настроението или ежедневните умения, които продължават, запишете час при личен лекар. При внезапно объркване се обадете веднага на 112 или на лекаря или здравното заведение на човека. Ранната проверка помага да се открият лечими причини и, ако се окаже деменция, дава повече време за планиране и търсене на подкрепа. Грижете се и за себе си през това време; вижте нашето [ръководство за грижа за себе си](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Тази страница е обща информация, а не медицински съвет. Вижте нашето [медицинско предупреждение](/medical-disclaimer/).

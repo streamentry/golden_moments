@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "डिमेंशिया वाला बुजुर्गन खातिर याददाश्त के नरम खेल"
+seoTitle: "डिमेंशिया खातिर याददाश्त के खेल, नरम उपाय"
+description: "डिमेंशिया वाला बुजुर्गन खातिर मिलान, तस्वीर आ कार्ड के खेल, आ ओकरा खेले के तरीका कि केहू के जांच जइसन ना लागे: तस्वीर खुल्ला, कम जोड़ी, कौनो अंक ना, मिल के खेलीं।"
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  याददाश्त वाला खेल डिमेंशिया वाला बुजुर्गन खातिर तब सबसे बढ़िया होला जब ऊ याददाश्त पर निर्भर ना होखे। मिलान वाला खेल तस्वीर खुल्ला रख के खेलीं, चार से छो गो टाइल लीं, मिल के खेलीं आ अंक के बात छोड़ दीं। तस्वीर पहचानल, ओकरा याद करे से आसान होला, त ऊ खेल चुनीं जवना में सब कुछ नजर के सामने रहे। असल मकसद मन लागल आ साथ में समय बितावल बा, नतीजा ना।
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "पुरान याददाश्त वाला खेल में कार्ड छिपावल जाला, जवन ठीक उहे चीज के जांच करेला जवना में डिमेंशिया से दिक्कत होखेला। एकरा जगह तस्वीर खुल्ला छोड़ीं।"
+  - "कम टुकड़ा, बड़ तस्वीर आ एक बेर में एक चुनाव से खेल सुहावन रहेला।"
+  - "मिल के खेलीं, बारी-बारी मदद करीं आ अंक के बात छोड़ दीं। केहू के जांच में ना डाले के चाहीं।"
+  - "कौनो याददाश्त वाला खेल से डिमेंशिया के इलाज, धीमा होखे, या रोकल साबित ना भइल बा। खेलीं काहे कि ई साथ में बितावल सुहावन समय ह।"
+  - "मन लागल रहे तब तक ही रोकीं। तस्वीर पर बात कइल भी एगो बढ़िया नतीजा ह।"
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "डिमेंशिया वाला केहू खातिर याददाश्त के बढ़िया खेल कवन ह?"
+    a: "बड़ आ जानल-पहचानल तस्वीर वाला मिलान खेल, जइसे चार या छो टाइल वाला तस्वीर जोड़ी। जवन तस्वीर सामने बा, ओकर जोड़ा खोजल सुहावन लागेला आ छोट अवधि के याददाश्त पर जोर ना पड़ेला। 'एक जइसन खोजीं' अउर आसान ह, जहां दू से चार विकल्प में से एके तस्वीर मिलावे के होखेला।"
+  - q: "का याददाश्त के खेल से डिमेंशिया में मदद होखेला?"
+    a: "कौनो याददाश्त वाला खेल से डिमेंशिया के इलाज, धीमा होखे, या रोकल साबित नइखे भइल। एगो Cochrane समीक्षा में पावल गइल कि कंप्यूटर पर दिमाग के प्रशिक्षण के सबूत एतना कमजोर बा कि ई कहल ना जा सकेला कि ई डिमेंशिया रोकेला या ना। खेल फिर भी साथ में समय बितावे के गर्मजोशी वाला तरीका हो सकेला। मन बहलावे आ साथ खातिर चुनीं।"
+  - q: "डिमेंशिया वाला केहू के साथ क्लासिक 'कंसेंट्रेशन' खेलल ठीक बा?"
+    a: "शुरू में कुछ लोग अबहियो एके पसंद करेला, खासकर कम कार्ड वाला। जब कार्ड कहां बा, ई याद रखे में परेशानी होखे लागे, त कार्ड खुल्ला क दीं आ साथ में जोड़ी खोजीं। ओसे मिलान बनल रही आ याददाश्त वाला जांच हट जाई।"
+  - q: "बुजुर्गन के समूह खातिर कवन याददाश्त वाला खेल बढ़िया बा?"
+    a: "स्क्रीन पर बोले वाला के साथ तस्वीर बिंगो, जानल कहावत मुंह से पूरा करल, आ बातचीत वाला कार्ड, सब समूह खातिर ठीक बा। हर कार्ड भरल ना हो जाए तक खेलीं। केकरो जवाब सही होखला पर नाम लेके ना बोलीं, ताकि केहू अलग ना लागे।"
+  - q: "का बुजुर्गन खातिर ऑनलाइन मुफ्त याददाश्त के खेल बा?"
+    a: "हां। ए साइट के खेल, जइसे तस्वीर जोड़ी, एक जइसन खोजीं, फोटो जोड़ी आ तस्वीर पहेली, मुफ्त बा, साइन-अप के जरूरत नइखे आ फोन, टैबलेट आ कंप्यूटर पर चल जाला। कौनो में टाइमर या अंक नइखे।"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+"memory games for seniors" खोजला पर ज्यादातर चीज ओह लोग खातिर बनल बा जे दिमाग के कसरत चाहत बा: छिपल कार्ड, घड़ी के उल्टा गिनती, स्तर आ अंक। डिमेंशिया वाला केहू खातिर ई सब खेल के ओह चीज के जांच बना देला, जवना में अब दिक्कत होखे लागल बा। उहे खेल नरम तरीका से भी खेलल जा सकेला। ई पन्ना बतावेला कि कइसे खेलीं आ कवन खेल हर चरण में ठीक रहेला।
 
-## Why do classic memory games frustrate people with dementia?
+## पुरान याददाश्त वाला खेल डिमेंशिया वाला लोग के काहे परेशान करेला?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+काहे कि ओह में नया बात मन में रखे आ बाद में याद करे के पड़ेला, आ यही चीज पर अल्ज़ाइमर, जे डिमेंशिया के सबसे आम कारन ह, सबसे पहिले असर करेला। [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) कहेला कि अल्ज़ाइमर के सबसे आम शुरुआती लक्षण नया सीखल बात याद राखे में दिक्कत ह। क्लासिक कंसेंट्रेशन में दू गो कार्ड पलटल जाला, उनकर जगह याद राखल जाला, आ एक मिनट बाद ओकर उपयोग कइल जाला। ई नया जानकारी बा, जवना के मन में रखल आ फिर याद कइल जाला।
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+अगर टाइमर, अंक या गलत जवाब खातिर घंटी लगा दीं, त खेलनिहार के उहे बात याद दिलावल जाला जवन ऊ अब ना कर पावेला, ओह आदमी के सामने जेकरा से ऊ प्रेम करेला। बहुत लोग चुपचाप खेलल छोड़ देला।
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+कवनो चीज के देख के पहचानल अलग आ आमतौर पर आसान काम ह। दूनो चाय के कप में से दूसरा कप तब बतावल जब दूनो नजर में होखे, त नीक लागेला। त तरीका ई बा कि मिलान राखीं आ याददाश्त वाला जांच हटा दीं।
 
-## How do you make a memory game gentle?
+## खेल के नरम कइसे बनाईं?
 
-These adjustments work for card games, board games and games on a screen.
+ई बदलाव कार्ड के खेल, बोर्ड गेम आ स्क्रीन वाला खेल, सब में काम करेला।
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **तस्वीर खुल्ला छोड़ीं।** नजर के सामने वाली तस्वीर के मिलावल भी असल खेल ह, आ अक्सर बहुत सुहावनो।
+2. **कम टुकड़ा रखीं।** दू या तीन जोड़ी से शुरू करीं। जब ई बहुत आसान लागे आ ऊ अउर चाहे, तबे बढ़ाईं।
+3. **बड़, जानल-पहचानल, वयस्क तस्वीर चुनीं।** चाय के कप, सूरजमुखी, पाल वाली नाव। कार्टून ना, आ भीड़ वाली जटिल तस्वीर ना।
+4. **मिल के खेलीं।** "चलीं, कुकुर खोजल जाव" कहीं, "अब तोहार बारी" ना। बारी-बारी इशारा करीं आ मदद करीं।
+5. **अंक के बात छोड़ दीं।** केहू के जीतल जरूरी ना बा। अगर कोई पूछे, त "हमनी कर लिहनी" कहल काफी बा।
+6. **घड़ी से होड़ ना करीं।** कवनो टाइमर ना, आ बारी के बीच जल्दी ना।
+7. **तस्वीर पर बात करीं।** "ए नाव के देखीं। रउरा कबहुं पाल से नाव चलवले बानी?" बातचीत अक्सर सबसे नीक हिस्सा होला।
+8. **अच्छा समय पर रोकीं।** एक मिलान के बाद रोकीं, जब मन अबहियो सुहावन लागत होखे।
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) आम सलाह में भी इहे भावना देत बा: गतिविधि ओतना रखीं जेतना व्यक्ति कर सकेला, झुंझलाहट पर ध्यान राखीं, आ ई पक्का करीं कि ऊ सफल महसूस करे।
 
-## Gentle memory and matching games to try
+## नरम याददाश्त आ मिलान वाला खेल जवना के आजमा सकेनी
 
-### Picture pairs (matching with pictures showing)
+### तस्वीर जोड़ी (तस्वीर दिखत रहे)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[तस्वीर जोड़ी](/games/picture-pairs/) बड़ तस्वीर आ 4 से 12 टाइल वाला मिलान खेल ह। तस्वीर नजर में रह सकेला, त खेल जोड़ी खोजे के ह, ई याद राखे के ना कि ऊ कहां रहे। चार टाइल से शुरू करीं। शुरुआती चरण वाला, जे थोड़ा अउर चुनौती पसंद करेला, ओकरा खातिर **छिपल तस्वीर** पर बदल सकेनी, पर जइसहीं मन लागल बंद होखे, फिर से तस्वीर देखावे पर लौट आईं।
 
-### Find the same
+### एक जइसन खोजीं
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[एक जइसन खोजीं](/games/find-the-same/) सबसे ऊपर एक तस्वीर देखावेला आ नीचे दू से चार विकल्प। जवन मिलत होखे ओकरा पर टैप करीं। ई साइट के सबसे सरल मिलान खेल ह, आ ओकरा खातिर बढ़िया बा जेकरा पूरा ग्रिड बहुत भरल लागेला, जइसे बाद वाला चरण में बहुत लोग जेकरा बगल में केहू बइठल होखे।
 
-### Photo pairs (family photo memory game)
+### फोटो जोड़ी (परिवार के फोटो वाला याददाश्त खेल)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[फोटो जोड़ी](/games/photo-pairs/) रउरा चुनल फोटो के मिलान खेल बना देला: कुकुर, बगइचा, झील वाला घर। जानल-पहचानल चेहरा आ जगह अक्सर कौनो स्टॉक तस्वीर से जादा बात शुरू करेला। फोटो रउरा ब्राउज़र में रहेला आ कहीं अपलोड ना होखे।
 
-### Sort together
+### साथ में छांटीं
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[साथ में छांटीं](/games/sort-together/) में हर तस्वीर उहे टोकरी में डाले के होखेला जहां ऊ लागे, जइसे रसोई या बगइचा। छांटे में दुनिया कइसे चलेला, उ पुरान जानकारी काम आवेला, छोट अवधि के याददाश्त ना।
 
-### Picture puzzle
+### तस्वीर पहेली
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[तस्वीर पहेली](/games/picture-puzzle/) एगो तस्वीर के 4 या 9 टुकड़ा में काटेला। दू टुकड़ा टैप करीं आ ओकरा बदलीं, जब तक पूरा तस्वीर ना बन जाए। पूरा तस्वीर स्क्रीन पर मार्गदर्शक खातिर रहेला।
 
-### Real cards on the table
+### मेज पर असली कार्ड
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+स्क्रीन के जरूरत नइखे। दू गो ताश के गड्डी या तस्वीर वाला कार्ड सेट से मिलान वाला जोड़ी निकालीं। दू पंक्ति में खुल्ला बिछाईं आ साथ में जोड़ी खोजीं। बाद में रंग या सूट के हिसाब से छांटे के कोशिश करीं। [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) शुरुआती चरण के गतिविधि में ताश आ बोर्ड गेम के नाम लेले बा।
 
-## Which memory games suit each stage?
+## कवन चरण में कवन याददाश्त वाला खेल ठीक बा?
 
-Stages are loose labels. Go by what the person enjoys today.
+चरण ढीला लेबल ह। आज खेलनिहार के का अच्छा लागत बा, ओही से चलीं।
 
-| Stage | Games that often fit | How to set them up |
+| चरण | अक्सर ठीक बइठे वाला खेल | कइसे सेट करीं |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| शुरुआती | तस्वीर जोड़ी, फोटो जोड़ी, 9 टुकड़ा वाली तस्वीर पहेली, जानल ताश के खेल | उन्हे चुने दीं। मन होखे त टाइल पलटल जा सकेला; अंक से परेशानी होखे त अंक छोड़ दीं |
+| बीच के | 4 से 6 टाइल वाला तस्वीर जोड़ी, तस्वीर खुल्ला, एक जइसन खोजीं, साथ में छांटीं | तस्वीर हमेशा नजर में रहे। बगल में बइठीं आ बारी-बारी मदद करीं |
+| बाद के | 2 विकल्प वाला एक जइसन खोजीं, एगो बड़ तस्वीर साथ में देखल | बहुत छोट समय। टैबलेट रउरा पकड़ीं; ऊ इशारा करे, या बस देखे आ सुने |
 
-## Do memory games help with dementia?
+## का याददाश्त वाला खेल से डिमेंशिया में मदद होखेला?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+कौनो याददाश्त वाला खेल से डिमेंशिया के इलाज, धीमा होखे, या रोकल साबित नइखे भइल। हल्का संज्ञानात्मक कमजोरी वाला लोग खातिर कंप्यूटर पर दिमाग के प्रशिक्षण के बारे में [Cochrane समीक्षा](https://pubmed.ncbi.nlm.nih.gov/30864747/) में पावल गइल कि सबूत ई बतावे खातिर बहुत कमजोर बा कि ई डिमेंशिया रोकेला या ना। [दिमाग वाला खेल आ डिमेंशिया](/brain-health/brain-games/) पर हमार गाइड बतावेला कि अध्ययन का दिखावेला आ का ना।
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+एकरा से खेल छोड़े के कारन नइखे बनत। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) सलाह देला कि उपलब्धि ना, मन लागल पर ध्यान दीं। तस्वीर मिलावल आ ओकरा पर बात करत दस मिनट दिन के सच्चे नीक हिस्सा हो सकेला।
 
-## What about memory games for seniors without dementia?
+## याददाश्त कमजोर ना रहे वाला बुजुर्गन खातिर का खेल ठीक बा?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+अगर कवनो बुजुर्ग के याददाश्त में दिक्कत नइखे आ ऊ समय वाला पहेली, अंक आ कठिन स्तर पसंद करेला, त ओमे कवनो गड़बड़ नइखे। बस ई मत सोचीं कि ई डिमेंशिया से बचाई; कवनो खेल से अइसन साबित नइखे भइल। ऊपर वाला नरम तरीका पीढ़ी सब के साथ खेले में भी काम करेला: डिमेंशिया वाला नाना-दादा आ छोट नाती-पोता तस्वीर मिलावे में टीम बन सकेला, आ केहू के जांच ना होखे।
 
-## When should you stop or change the game?
+## कब रोकीं या खेल बदलीं?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+ठंडा सांस लेब, टैबलेट दूर ढकेलल, "हम ना कर पाएब" कहल या बेचैन लागल, ई सब संकेत बा कि खेल आसान करीं या रोकीं। कम टाइल आजमाईं, तस्वीर खुल्ला करीं, [एक जइसन खोजीं](/games/find-the-same/) पर बदलीं, या बस तस्वीर देखीं आ बात करीं। अगर ऊ खेलहीं ना चाहत बा, त ओहू में कवनो बात नइखे। [साथ में कइसे खेलीं](/caregiving/how-to-play-together/) पर गति आ मदद के बारे में अउर बात बा।

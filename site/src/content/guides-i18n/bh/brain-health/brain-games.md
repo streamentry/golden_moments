@@ -14,20 +14,20 @@ summary: >-
   dementia, group cognitive stimulation shows small, short-term benefits.
   Games are best enjoyed for fun and company.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "दिमाग़ी-प्रशिक्षण के अध्ययन में देखल गइल कि लोग जे काम करेला ओकरा में बढ़ेला, बाकिर ई रोजमर्रा के जिनगी में कतना काम आवेला, एकर सबूत बहुत कम बा।"
+  - "ACTIVE ट्रायल में, 20 साल में डिमेंशिया के कम निदान सिर्फ ओह लोग में मिलल जे खास जल्दी समझे के प्रशिक्षण आ बूस्टर सत्र कइलन। बिना बूस्टर के जल्दी समझे के, याददाश्त आ तर्क के प्रशिक्षण में ई नइखे देखाइल।"
+  - "2016 में Lumosity के बनावे वाला कंपनी, डिमेंशिया में देरी के दावा खातिर बिना विज्ञान के होखे के आरोप में FTC से निपटे खातिर $2 million देलस।"
+  - "हल्का से मध्यम डिमेंशिया वाला लोग खातिर संज्ञानात्मक उत्तेजना समूह में सोचे में छोटा, कम समय के फायदा, आ बातचीत आ सामाजिक मेलजोल में साफ सुधार देखल गइल।"
+  - "Golden Moments के खेल मजा आ साथ बितावे खातिर बनल बा। ई इलाज ना ह, आ ई डिमेंशिया ना रोकेला आ ना धीमा करेला।"
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "का दिमाग़ के खेल अल्ज़ाइमर रोकेला?"
+    a: "अब तक कवनो दिमाग़ के खेल से अल्ज़ाइमर या डिमेंशिया रोकल साबित नइखे भइल। National Institute on Aging कहेला कि बिकाऊ दिमाग़ी-प्रशिक्षण ऐप में क्लिनिकल ट्रायल वाला असर होखे के पक्का सबूत नइखे। फिर भी खेल मन बहलावे के सुहावन तरीका हो सकेला।"
+  - q: "ACTIVE ट्रायल में जल्दी समझे वाला प्रशिक्षण आ डिमेंशिया के बारे में का मिलल?"
+    a: "2026 के एक विश्लेषण में ACTIVE भागीदार के 20 साल तक Medicare रिकॉर्ड से जोड़ल गइल। जे लोग जल्दी समझे के प्रशिक्षण आ कम से कम एक बूस्टर सत्र कइलन, उनका में डिमेंशिया के निदान दर संपर्क ना वाला समूह से कम रहे। बिना बूस्टर के जल्दी समझे के प्रशिक्षण, आ याददाश्त या तर्क के प्रशिक्षण में साफ असर ना देखाइल।"
+  - q: "का पहेली आ खेल डिमेंशिया वाला केहू खातिर ठीक बा?"
+    a: "ठीक हो सकेला, अगर व्यक्ति के ओकरा में मजा आवे। संज्ञानात्मक उत्तेजना समूह, जेमें शब्द-खेल, पहेली, गाना आ बातचीत होखे, सोचे में छोटा, कम समय के फायदा, आ बातचीत आ सामाजिक मेलजोल में साफ फायदा देखावेला। सही लक्ष्य मजा ह, परीक्षा के नतीजा ना।"
+  - q: "FTC Lumosity पर जुर्माना काहे कइलस?"
+    a: "2016 में Federal Trade Commission आरोप लगवलस कि Lumos Labs अपना खेल के बारे में दावा करत रहे, जेमें डिमेंशिया में देरी भी शामिल रहे, बिना ओकरा खातिर विज्ञान के। कंपनी $2 million देवे आ आगे अइसन दावा से पहिले भरोसेमंद वैज्ञानिक सबूत रखे खातिर राजी भइल।"
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +58,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+दिमाग़ के खेल हर जगह बा, आ ढेर लोग कहेला कि ई दिमाग़ के जवान रखी। अगर रउआ डिमेंशिया वाला केहू के देखभाल करेनी, भा अपना याददाश्त के लेके चिंता बा, त ई सोचल सहज बा कि ई खेल से मदद मिल सकेला कि ना। इहाँ रिसर्च असल में का देखावेला, ओकर बढ़िया आ कमजोर दुनो हिस्सा के साथे, बतावल गइल बा।
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+ई आम जानकारी ह, डाक्टरी सलाह ना। देखीं [चिकित्सा अस्वीकरण](/medical-disclaimer/)।
 
-## Do brain games prevent dementia?
+## का दिमाग़ के खेल डिमेंशिया रोकेला?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+अब तक कवनो दिमाग़ के खेल से डिमेंशिया रोकल साबित नइखे भइल। अमेरिका के National Institute on Aging (NIA) लोग से कहेला कि कंप्यूटर आ ऑनलाइन खेल से याददाश्त बढ़ावे के दावा से सावधान रहे के चाही। ओकर कहनाम बा कि कवनो बिकाऊ दिमाग़ी-प्रशिक्षण ऐप के बारे में अभी इतना सबूत नइखे कि ओकर असर वैसने होखे जइसन क्लिनिकल ट्रायल में देखल गइल तालीम के ([NIA का अल्ज़ाइमर से बचाव वाला पन्ना](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))।
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+ई मतलब nahi ki खेल बेकार बा। ओकर फायदा मन बहलावे, संगत आ दिनचर्या में बा, डिमेंशिया से कवनो के बचावे में ना।
 
-## What is "near transfer", and why does it matter?
+## ‘नियर ट्रांसफर’ का ह, आ ई काहे जरूरी बा?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+जब कवनो काम बार-बार करेनी, त ओह काम में आमतौर पर सुधार हो जाला। रिसर्चर एकरा ट्रेनिंग इफेक्ट कहेलन। असली सवाल ई बा कि ई सुधार दोसरा चीज में भी काम आवेला कि ना: मिलल-जुलल काम में (नियर ट्रांसफर) या रोजमर्रा के जिनगी में, जइसे अपॉइंटमेंट याद रखल या पैसा संभारल (फार ट्रांसफर)।
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 के एक बड़ा समीक्षा में ऊ अध्ययन देखल गइल जेकरा के दिमाग़ी-प्रशिक्षण कंपनी सबसे बढ़िया सबूत बतावेलन। एहमें मिलल कि लोग प्रशिक्षित काम में बढ़ेलन, बाकिर मिलल-जुलल काम में सबूत कम बा, आ रोजमर्रा के सोच में सुधार के सबूत बहुत कम बा। कई अध्ययन में डिजाइन के दिक्कत भी रहल, जेकरा से पक्का नतीजा निकालल मुश्किल रहे ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983))।
 
-## What do reviews say about computer brain training?
+## कंप्यूटर दिमाग़ी प्रशिक्षण पर समीक्षा का कहेला?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane समीक्षा, जे सबसे बढ़िया उपलब्ध ट्रायल के एक साथ जोड़ेला, कंप्यूटर प्रशिक्षण के देखलस जे कम से कम 12 हफ्ता चलल:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **65 साल आ ओ से ऊपर के स्वस्थ बुज़ुर्ग:** 1,183 लोग वाला आठ ट्रायल। सबूत कम या बहुत कम गुणवत्ता के रहे। प्रशिक्षण के तुरंत बाद थोड़ा फायदा हो सकेला, बाकिर ई टिकेला, एकरा खातिर साफ सबूत नइखे ([Cochrane समीक्षा, स्वस्थ बुज़ुर्ग](https://pubmed.ncbi.nlm.nih.gov/32104914/))।
+- **हल्का संज्ञानात्मक कमजोरी (MCI) वाला लोग:** 660 लोग वाला आठ ट्रायल। कवनो ट्रायल ई ना बतावलस कि लोग बाद में डिमेंशिया भइलन कि ना, आ सबूत एतना कमजोर रहे कि नतीजा ना निकल सकल ([Cochrane समीक्षा, हल्का संज्ञानात्मक कमजोरी](https://pubmed.ncbi.nlm.nih.gov/30864747/))।
 
-## What did the ACTIVE trial find?
+## ACTIVE ट्रायल में का मिलल?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE अमेरिका के एगो बड़ा ट्रायल ह। एकर शुरुआत 1998 में भइल, आ 65 साल आ ओ से ऊपर के 2,802 वयस्क एहमें शामिल भइलन जे अपना से रहत रहलन आ जिनके याददाश्त या सोचे में कवनो बड़ा दिक्कत ना रहे। लोग के बेतरतीब तरीका से तीन तरह के छोटा समूह प्रशिक्षण में से एक में (जल्दी समझे के, याददाश्त के, या तर्क के) भा कवनो संपर्क ना वाला समूह में रखल गइल। प्रशिक्षण पाँच-छह हफ्ता में दस सत्र तक चलल। जे लोग ज्यादातर सत्र पूरा कइलन, उनका में से कुछ लोग के बेतरतीब तरीका से लगभग एक आ तीन साल बाद ‘बूस्टर सत्र’ के मौका दिहल गइल।
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+जल्दी समझे वाला प्रशिक्षण में विजुअल जानकारी के छोटहन झलक में पहचानल आ समझल सिखावल जाला, आ लोग के सुधार के हिसाब से काम के मुश्किल धीरे-धीरे बढ़ावल जाला।
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 में रिसर्चर 2,021 भागीदार के Medicare के रिकॉर्ड से 20 साल तक जोड़लन ([ACTIVE का 20 साल का विश्लेषण](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/))। असल में ई मिलल:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **जल्दी समझे के प्रशिक्षण आ कम से कम एक बूस्टर सत्र:** संपर्क ना वाला समूह से डिमेंशिया के निदान दर कम रहल (hazard ratio 0.75, जेकर मोटा मतलब बा लगभग 25% कम दर)।
+- **बिना बूस्टर के जल्दी समझे के प्रशिक्षण:** दर कम ना रहल।
+- **याददाश्त या तर्क के प्रशिक्षण:** डिमेंशिया के निदान पर कवनो साफ असर ना।
+- **हर प्रशिक्षण समूह पूरा के संपर्क ना वाला समूह से तुलना:** कम दर के ओर झुकाव, बाकिर ई आँकड़ा के हिसाब से पक्का ना।
 
-### The limits of this finding
+### एह नतीजा के सीमा
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- ई **एक खास तरह के निगरानी वाला जल्दी समझे के प्रशिक्षण आ बूस्टर सत्र** पर लागू होला, सब तरह के दिमाग़ी खेल पर ना।
+- महत्वपूर्ण नतीजा एगो **उपसमूह** से आइल (जे लोग शुरू के ज्यादातर सत्र पूरा कइलन आ जिनके बूस्टर खातिर पूछल गइल), ना कि पूरा जल्दी समझे वाला समूह से।
+- डिमेंशिया के माप **Medicare के दावा वाला कोड** से भइल, हर आदमी के जाँच से ना। शुरू के भागीदार में से लगभग एक चौथाई बाहर हो गइलन, काहे कि ऊ Medicare Advantage में रहलन, जेकरा में पूरा दावा रिकॉर्ड ना होला।
+- शुरुआत में भागीदार के सोचे में कवनो बड़ा दिक्कत ना रहे। नतीजा **पहिले से डिमेंशिया के साथ जीयत लोग** खातिर खेल के बारे में कुछ ना कहेला।
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+ई दिलचस्प नतीजा बा, आ एकरा पर अउर रिसर्च होखे के चाहीं। ई ना ह कि कवनो ऐप डिमेंशिया रोकेला।
 
-## What did the FTC say about Lumosity?
+## FTC के Lumosity पर का कहल?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+जनवरी 2016 में Lumos Labs, जे Lumosity बनावेला, भ्रामक विज्ञापन के आरोप में Federal Trade Commission से समझौता करके $2 million देवे खातिर राजी भइल। FTC कहलस कि कंपनी बिना काफी विज्ञान के दावा करत रहे कि ओकर खेल काम आ स्कूल में प्रदर्शन सुधार सकेला, आ उम्र से जुड़ल गिरावट, हल्का संज्ञानात्मक कमजोरी, डिमेंशिया आ अल्ज़ाइमर में देरी कर सकेला। आदेश के मुताबिक कंपनी के अब अइसन दावा से पहिले भरोसेमंद वैज्ञानिक सबूत रखे के होई ([FTC प्रेस विज्ञप्ति](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program))।
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+परिवार खातिर सीख: जे भी खेल, ऐप या कार्यक्रम याददाश्त बचावे भा डिमेंशिया रोके के वादा करे, ओकरा पर शक करीं।
 
-## Can games help someone who already has dementia?
+## का खेल पहिले से डिमेंशिया वाला केहू के काम आ सकेला?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+ई एगो अच्छा दिन में जोड़ सकेला, आ ई बहुत मायने रखेला। सबसे बढ़िया अध्ययन वाला तरीका ह **संज्ञानात्मक उत्तेजना**: मजेदार समूह गतिविधि जइसे बातचीत, पुरान यादें, शब्द-खेल, पहेली आ गाना। ई आमतौर पर एगो छोटा समूह में होखेला, जेकरा कवनो प्रशिक्षक चलावेलन।
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 के एक Cochrane समीक्षा में 37 ट्रायल के 2,766 लोग देखल गइल, जे हल्का से मध्यम डिमेंशिया वाला रहलन। नतीजा ई रहल ([Cochrane समीक्षा, संज्ञानात्मक उत्तेजना](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- सोचे के जाँच पर **छोटा, कम समय के फायदा** (मध्यम गुणवत्ता के सबूत);
+- **बातचीत आ सामाजिक मेलजोल में क्लिनिकली मायने रखे वाला सुधार** (उच्च गुणवत्ता के सबूत, कम अध्ययन से);
+- जीवन के गुणवत्ता, मूड आ व्यवहार में **थोड़ा फायदा**।
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+फायदा ज्यादातर लगभग दस हफ्ता के कार्यक्रम के तुरंत बाद नापल गइल, आ कम अध्ययन में देखल गइल कि ई टिकेला कि ना। संज्ञानात्मक उत्तेजना एगो संरचित समूह कार्यक्रम ह, एहसे ई नतीजा अपने से टेबलेट पर अकेले खेल खेले वाला पर अपने-आप लागू ना होखे।
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024 के Lancet Commission कहेला कि डिमेंशिया के साथ जीयत लोग खातिर गतिविधि कार्यक्रम जरूरी बा, ताकि ऊ मजा आ मकसद बनल रहे ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0))।
 
-## What are games actually good for?
+## खेल असल में का काम के बा?
 
-When chosen well, games can offer:
+ठीक से चुनल जाव त खेल ई दे सकेला:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **मजा।** एक सुहावन आधा घंटा अपने में ही कीमती बा।
+- **जुड़ाव।** साथ-साथ खेलल एगो आसान चीज देला जेके बाँटल जा सके, जब बात मुश्किल होखे। देखीं [साथ कइसे खेलीं](/caregiving/how-to-play-together/)।
+- **दिनचर्या।** हर दिन एके समय पर जाना-पहचाना काम आराम दे सकेला।
+- **भरोसा।** जे काम व्यक्ति अब भी अच्छा कर सकेला, ओकरा से मेल खाए वाला गतिविधि उनका के सक्षम महसूस करावेला, परखल ना।
+- **बातचीत।** एगो तस्वीर भा जाना-पहचाना कहावत कवनो कहानी खोल सकेला। आजमाईं [बातचीत वाले कार्ड](/games/conversation-cards/) भा [कहावत पूरी करीं](/games/finish-the-saying/)।
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+का से बचे के बा: टाइमर, स्कोर, लगातार जीत के सिलसिला, आ कवनो भी चीज जे याददाश्त के परीक्षा जइसन लागे। अगर व्यक्ति परेशान होखे त रुक जाईं। जल्दी रुक जाइल, भा बस साथ बइठल भी एगो अच्छा नतीजा ह। [ऐप आ खेल चुने](/caregiving/choosing-apps-and-games/) पर हमार गाइड में एगो चेकलिस्ट बा।
 
-## Where Golden Moments fits
+## Golden Moments कहाँ फिट होला
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments के खेल, जइसे [तस्वीर जोड़ी](/games/picture-pairs/), [तस्वीर पहेली](/games/picture-puzzle/) आ [बड़े अक्षर वाला शब्द-खोज](/games/word-search/), मजा आ साथ बितावे खातिर बनल बा। एहमें कवनो घड़ी ना बा आ कवनो स्कोर ना। ई **इलाज ना** ह, आ ई **डिमेंशिया ना रोकेला आ ना धीमा करेला**। हम ई साफ-साफ बतावल ठीक समझेनी, बजाय ओह वादा के जे कवनो खेल पूरा ना कर सकेला।
 
-## Talk with a doctor
+## डाक्टर से बात करीं
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+अगर अपना भा जेकर देखभाल करेनी ओकर याददाश्त में बदलाव के चिंता बा, त ऐप पर भरोसा करे के बजाय डाक्टर से मिलीं। डाक्टर इलाज लायक कारन खोज सकेलन, आ सबसे बढ़िया सबूत वाला कदम पर बात कर सकेलन, जइसे ब्लड प्रेशर सँभारल आ सुनाई के जाँच। अउर जानकारी खातिर देखीं [का डिमेंशिया रोकल जा सकेला?](/brain-health/can-dementia-be-prevented/)। अचानक भ्रम भा अउर अचानक बदलाव होखे त तुरंत डाक्टरी मदद लीं।

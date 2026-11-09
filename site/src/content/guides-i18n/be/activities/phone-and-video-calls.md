@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Заняткі на тэлефонных і відэазванках для чалавека з дэменцыяй"
+seoTitle: "Заняткі на відэазванках пры дэменцыі"
+description: "Заняткі на відэа- і тэлефонных размовах для блізкіх, якія жывуць далёка: паказаць, пачытаць, заспяваць, гульні на агульным экране і парады памочнікам."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Размовы з чалавекам з дэменцыяй праходзяць лепш, калі яны кароткія, рэгулярныя
+  і звязаныя з чым-небудзь, што можна зрабіць разам: паказаць гадаванца або сад,
+  паглядзець фотаздымкі, пачытаць уголас, заспяваць любімую песню або згуляць у
+  спакойную гульню на агульным экране. Калі магчыма, тэлефануйце штодня ў адзін і
+  той жа час, гаварыце па чарзе і папрасіце каго-небудзь на месцы дапамагчы.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Заняткі даюць размове форму і знімаюць напружанне з гутаркі. Прыдумайце адну простую рэч, якою можна падзяліцца."
+  - "Кароткія рэгулярныя размовы ў адзін і той жа час дня часта працуюць лепш, чым доўгія, але рэдкія."
+  - "Гаворыць адзін чалавек за раз. Групавыя званкі, калі ўсе гавораць адначасова, цяжка разабраць, асабліва пры благім слыху."
+  - "Памочнік на месцы можа наладзіць прыладу, сесці побач з чалавекам і быць «рукамі» для любой гульні ці фотаздымка."
+  - "Калі сёння размова не ладзіцца, добразычліва завяршыце яе. Заўтра можна паспрабаваць зноў."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Што можна рабіць на відэазванку з чалавекам з дэменцыяй?"
+    a: "Прыдумайце адно простае заняткі: паказаць сад, гадаванца або кухню; разгледзець разам старыя фотаздымкі; пачытаць уголас кароткі верш ці ліст; заспяваць песню, якую чалавек любіць; наперад дамовіцца і гатаваць адну і тую ж страву; ці згуляць у спакойную гульню з малюнкамі на агульным экране. Заняткі надаюць званку мэту, таму чалавеку не трэба весці размову самому."
+  - q: "Як доўга павінен цягнуцца відэазванок?"
+    a: "Звычайна карацей, чым вы думаеце. Некалькі цёплых хвілін могуць быць дастатковымі, асабліва калі чалавек хутка стамляецца. Часам больш важна тэлефанаваць рэгулярна ў адзін і той жа час дня, чым тое, колькі доўжыцца кожны званок."
+  - q: "Што рабіць, калі відэазванкі блытаюць або засмучаюць чалавека?"
+    a: "Некаторыя людзі пры відэа чаго-небудзь не разумеюць. Паспрабуйце звычайны тэлефонны званок, запісаны відэаверш, які памочнік можа прайграць у спакойны момант, ці паштоўкі і фотаздымкі па пошце. Калі званок не ўдаўся, добразычліва завяршыце яго і паспрабуйце іншым днём або ў іншы час."
+  - q: "Як мне дапамагчы маёй мамы зрабіць відэазванок, калі яна не можа карыстацца тэлефонам?"
+    a: "Папрасіце члена сям’і, дамашнюю памочніцу або работніка дома састарэлых пачаць званок і трымаць прыладу ці паставіць яе на падстаўку. Многія ўстановы дапамагаюць сем’ям з відэазванкамі, таму спытайцеся, што яны прапануюць. Планшэт на падстаўцы з вялікім экранам і дастаткова гучны, каб усё было чутно, палягчае размову для ўсіх."
+  - q: "Ці можна гуляць разам па відэа?"
+    a: "Так. Найпрасцей, калі адзін чалавек дзеліцца экранам у відэапраграме, а другі гаворыць, на які малюнак націснуць. Або памочнік на месцы можа адкрыць тую ж гульню на планшэце і націскаць за чалавека, пакуль вы з ім размаўляеце. Выбірайце гульні без таймера і ліку балаў."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Жыць далёка ад чалавека з дэменцыяй — гэта часта бессэнсоўнае пачуццё. Тэлефонныя і відэазванкі не заменяць абдымкаў, але яны могуць даць сапраўдныя моманты блізкасці, калі іх добра арганізаваць. Галоўнае — не спрабаваць весці звычайную размову пра штодзённыя справы, а прыдумаць простую рэч, якою можна падзяліцца. Гэтая старонка расказвае пра заняткі, якія працуюць па відэа і тэлефону, пра тое, як наладзіць званок, і што можа зрабіць памочнік на месцы.
 
-## Why plan an activity for a call?
+## Навошта планаваць занятак для званка?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Заняткі даюць званку форму. Пытанне «Як ты? Што рабіў сёння?» патрабуе ад чалавека ўспомніць і расказаць, а гэта можа быць цяжка і стомна. Фраза «Глядзі, памідоры саспелі» нічога ад яго не патрабуе.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association піша, што размовы з вялікай колькасцю людзей па відэа могуць быць складанымі, і раіць [дадаць у размову структуру](https://www.alz.org/help-support/caregiving/holidays), напрыклад, спяваць песні або паказваць фотаздымкі.
 
-## What activities work on a video call?
+## Якія заняткі падыходзяць для відэазванка?
 
-### Show and tell
+### Пакажыце, што ў вас
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Пакажыце свой свет. Павольна правядзіце камерай па садзе, знаёмце з сабакам, паказвайце, што вы гатуеце, трымайце ўверх малюнак ўнука або прыцягніце тэлефон да акна, каб паказаць снег. Апішыце, што бачыце, простымі словамі і рабіце паўзы, каб чалавек мог адрэагаваць. Пытанні не патрэбныя.
 
-### Look at photos together
+### Разглядзьце фотаздымкі разам
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Пакажыце старую фатаграфію ў камеру або падзяліцеся экранам і паказвайце па адным некалькі вялікіх фота. Гаварыце пра тое, што заўважылі: «Глядзі, які капялюш у дзядулі». Не пытайцеся «Хто гэта?» або «Ты памятаеш?». Калі чалавек называе каго-небудзь не таго, пагаджайцеся з ім. Падрабязныя падказкі шукайце ў нашым [даведніку па ўспамінах](/activities/reminiscence/).
 
-### Read aloud
+### Чытайце ўголас
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Прачытайце кароткі верш, псалом, любімую дзіцячую кнігу ўнуку, які таксама на званку, ліст ад радні або старонку з кнігі, якую чалавек любіў. Чытанне ўголас дае чалавеку спакойны занятак — слухаць, не адказваючы.
 
-### Sing or listen to music together
+### Спявайце або слухайце музыку разам
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Заспявайце песню, якую чалавек добра ведае, або пастаўце яго любімую пласцінку на вашым баку. Многім людзям лягчэй спяваць, чым размаўляць. Гл. наш [даведнік па музычных занятках](/activities/music/).
 
-### Cook or bake at the same time
+### Гатуйце або пяеце адначасова
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association раіць запланаваць відэазванок, каб разам прыгатаваць асаблівую страву або выпечку. Наладзьце званок на абедзвюх кухнях. Чалавек на месцы можа памешваць або пробаваць, пакуль вы трымаецеся старога рэцэпта.
 
-### Watch something together
+### Глядзіце разам
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association таксама раіць адначасова паглядзець любімы фільм з розных дамоў і размаўляць па тэлефоне або відэа. Для чалавека з дэменцыяй кароткі кліп, стары серыял або матч могуць падыходзіць лепш, чым поўны фільм.
 
-### Play a gentle game on a shared screen
+### Гуляйце ў спакойную гульню на агульным экране
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Многія праграмы для відэазванкоў дазваляюць дзяліцца экранам. Вы адкрываеце гульню і націскаеце; чалавек кажа вам або паказвае, які малюнак выбраць. Або памочнік на месцы адкрывае тую ж гульню на планшэце і націскае за чалавека, пакуль вы размаўляеце.
 
-Games that work well this way:
+Гульні, якія добра працуюць у такім фармаце:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Дакончы прыказку](/games/finish-the-saying/):** вы чытаеце знаёмую прыказку, чалавек называе канчатак, і ідзе размова.
+- **[Пары малюнкаў](/games/picture-pairs/):** спакойная гульня на падбор пар з вялікімі малюнкамі, якія можна пакідаць на экране. Без таймера і ліку балаў.
+- **[Карткі для размовы](/games/conversation-cards/):** малюнак і адкрытае пытанне, пра якое можна пагутарыць.
+- **[Пары фотаздымкаў](/games/photo-pairs/):** гульня на падбор пар з фота, якія вы абіраеце на сваёй прыладзе. Фота застаюцца ў вашым браўзеры, а чалавек бачыць іх праз агульны экран.
 
-### Recorded messages
+### Запісаныя паведамленні
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Калі жывыя званкі даюцца цяжка, запішыце кароткае відэа: прывітанне, песню, прагулку па двары. Памочнік можа прайграць яго ў спакойны момант, колькі разоў, колькі чалавеку падабаецца. Alzheimer's Association згадвае запіс і адпраўку асаблівых момантаў, напрыклад, дзяцей, якія разгортваюць падарункі.
 
-## What about plain phone calls?
+## А звычайныя тэлефонныя званкі?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Тэлефонныя званкі таксама маюць значэнне. Dementia Australia раіць [тэлефанаваць у адзін і той жа час кожны дзень](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) і не спяшацца, бо людзям з дэменцыяй можа спатрэбіцца час, каб уключыцца ў размову. Па тэлефоне:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Адразу назавіце сваё імя і адносіны: «Прывітанне, тата, гэта Жэня, твая дачка».
+- Гаварыце павольна, кароткімі сказамі, па адной думцы за раз.
+- Распавядайце навіны, а не пытайцеся пра іх: «Учора я зрабіла твой рэцэпт катлет».
+- Прачытайце кароткі верш або заспявайце адзін куплет любімай песні.
+- Завяршайце званок коратка і цёпла.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia таксама адзначае, што відэазванкі могуць дапамагчы, калі размаўляць стала цяжэй, бо чалавек бачыць ваш твар. Калі тэлефонныя размовы блытаюць, паспрабуйце відэа або наадварот.
 
-## How do I set up a video call that works?
+## Як наладзіць відэазванок, які працуе?
 
-**Before the call:**
+**Перад званком:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Выберыце рэгулярны час**, калі чалавек звычайна адпачыў, і прытрымлівайцеся яго. Рэжым дапамагае.
+2. **Пагаварыце з памочнікам на месцы.** Тэкставае паведамленне за дзень дапамагае яму спланаваць.
+3. **Праверце прыладу.** Планшэт на падстаўцы зручней, чым тэлефон у руцэ. Пераканайцеся, што ён зараджаны, экран яркі і гук дастаткова гучны. Уключыце субцітры, калі праграма іх мае, а чалавек добра чытае.
+4. **Прыдумайце адно заняткі** і падрыхтуйце ўсё, што трэба.
 
-**During the call:**
+**Падчас званка:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Сядзьце бліжэй да камеры** пры добрым святле, тварам да акна, а не спінай да яго.
+- **Прадстаўцеся** кожны раз: імя і адносіны.
+- **Гаварыце па адным.** Alzheimer's Association піша, што адначасовая размова цяжкая і для людзей з дэменцыяй, і для тых, хто блага чуе. Калі падключаюцца некалькі сваякоў, гаварыце па чарзе або абмяжуйцеся двума-трыма ўдзельнікамі.
+- **Задавайце адно пытанне за раз.** Family Caregiver Alliance раіць [простыя пытанні з адказам «так» або «не»](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), а калі можна — паказваць варыянты.
+- **Даваць час на паўзу.** Чакайце адказу. Можна падказаць слова, калі чалавек шукае яго.
+- **Выкарыстоўвайце твар і голас.** Усміхайцеся, кіўайце, гаварыце цёпла. Выраз твару часта кажа больш за словы.
+- **Не выпраўляйце.** Калі чалавек кажа нешта не зусім дакладнае, няхай так і застаецца.
 
-**Ending the call:**
+**Заканчэнне званка:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Завяршайце, пакуль чалавек не стаміўся, лепш на добрым моманце.
+- Кожны раз развітвайцеся адной і той жа фразай: «Заўтра patэлефаную табе ў абед. Я цябе люблю».
+- Не зацягвайце.
 
-## Tips for the helper on site
+## Парады памочніку на месцы
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Калі вы муж ці жонка, дапамагаючы, сідэлка, брат ці сястра або работнік установы, які дапамагае з званком, вы робіце размову магчымай.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Падрыхтуйце ціхае месца.** Выключыце тэлевізар і зачыніце дзверы.
+- **Пачніце званок самі,** а потым перадайце чалавеку планшэт на падстаўцы або трымайце яго на ўзроўні вачэй.
+- **Сядзьце побач, а не спераду.** Ваша прысутнасць дадае спакою. Пры патрэбе мякка падказвайце: «Глядзі, гэта Жэня».
+- **Будзьце «рукамі».** Трымайце фота, націскайце ў гульні, паварочвайце планшэт, каб паказаць пакой.
+- **Сачыце за стомленасцю або засмучэннем** і паведаміце таму, хто тэлефануе, калі пара заканчваць.
+- **Расказвайце тэлефануючаму, што спрацавала.** «Ёй спадабаўся сабака» дапамагае спланаваць наступны званок.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA раіць тым, хто жыве далёка, дапамагчы пажылому чалавеку [асвоіць магчымасці тэлефона](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), напрыклад, відэазванкі. На позніх этапах памочніку, як правіла, трэба будзе карыстацца прыладай самому. Гэта нармальна.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Калі чалавек жыве ў доме састарэлых, Alzheimer's Foundation of America раіць спытацца, ці дапамагае ўстанова сем’ям з відэачатамі. AFA таксама згадвае, што сем’і могуць перадаваць фота персаналу і прысылаць любімыя прысмакі або дробязі для камфорту, пасля таго як высветляць, што дазваляе ўстанова.
 
-## What if the call doesn't go well?
+## Што рабіць, калі званок не ўдаўся?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Некаторыя званкі будуць блытаючымі, кволымі або засмучальнымі. Вашай віны ў гэтым няма, і гэта не азначае, што званкі не варты таго.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Калі чалавек здаецца збянтэжаным экранам, пераключыцеся на тэлефонны званок або запісанае паведамленне.
+- Калі чалавек засмучаецца, прызнайце пачуцці, скажыце што-небудзь заспакойлівае і мякка завяршыце размову.
+- Калі званкі часта не ўдаюцца ў адзін і той жа час дня, паспрабуйце іншы час.
+- Калі чалавек думае, што вы — хтосьці іншы, добразычліва пагадзіцеся.
 
-It is fine to end early. A short, warm call is a good outcome.
+Нармальна скончыць размову раней. Кароткі, цёплы званок — добры вынік.
 
-## Between calls
+## Паміж званкамі
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Заставайцеся побач і іншымі спосабамі. Dementia Australia раіць дасылаць паштоўкі, электронныя лісты, фота або невялікія падарункі. Тыднёвая паштоўка з адным вялікім фота і кароткім пісьмом можа чытацца зноў і зноў. [Карткі для размовы](/games/conversation-cards/), якія можна раздрукаваць і адаслаць памочніку, могуць даць наступнаму званку гатовую тэму.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Пра выбар і налады планшэта гл. [планшэты і экраны](/caregiving/tablets-and-screens/). Пра сустрэчы ўжывую гл. наш даведнік па [наведванні](/activities/visiting/).

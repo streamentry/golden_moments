@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "डिमेंशिया वाला बुजुर्गन खातिर आसान ट्रिविया, बिना दबाव के"
+seoTitle: "डिमेंशिया वाला बुजुर्गन खातिर ट्रिविया सवाल, जवाब के साथ"
+description: "डिमेंशिया वाला बुजुर्ग लोग खातिर 50 आसान ट्रिविया सवाल, जवाब के विकल्प आ बात करे लायक बात, साथे ई भी कि कइसे ट्रिविया चलावल जाए कि केहू के परीक्षा जइसन ना लागे आ केहू छूटे ना।"
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  डिमेंशिया वाला बुजुर्गन खातिर आसान ट्रिविया तब काम करेला जब ई बातचीत जइसन लागे, इम्तिहान जइसन ना। पुरान गाना, कहावत, त्योहार आ रोजमर्रा के जिनगी जइसन बात पूछीं, आ हमेशा दु-तीन विकल्प दीं। जवाब नरमी से बताईं, केहू के अलग से ना पूछीं, अंक ना रखीं, आ हर जवाब से कहानी शुरू होखे दीं। “ई कि वो” वाला सवाल, जेकर कवनो गलत जवाब ना होखे, बाद के चरण में बढ़िया रहेला।
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "पुरान चीज पूछीं: गाना, कहावत, त्योहार, खाना आ बहुत पहिले के रोजमर्रा के जिनगी।"
+  - "दु या तीन विकल्प दीं, जेसे जवाब याद करे के बजाय पहचाने भर के होखे।"
+  - "जवाब नरमी से बताईं आ आगे बढ़ीं। कवनो अंदाजा जे कहानी शुरू करे, ऊ अच्छा अंदाजा बा।"
+  - "अंक ना, टीम में होड़ ना, कवनो एक आदमी के सामने ना बोलाईं। जवाब पूरा कमरा से आवे दीं।"
+  - "जब जवाब चुनल मुश्किल लागे, त ‘ई कि वो’ वाला सवाल पूछीं जेकर कवनो सही जवाब ना होखे।"
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "का डिमेंशिया वाला लोग खातिर ट्रिविया एगो बढ़िया गतिविधि बा?"
+    a: "हो सकेला, अगर नरमी से चलावल जाए। Alzheimer's Foundation of America ट्रिविया के शुरुआती चरण वाला गतिविधि में गिनावेला। पुरान, जानल-पहचानल बात पर सवाल रखीं, विकल्प दीं, कवनो एक आदमी के सामने मत डालीं, आ जवाब के बातचीत के रास्ता मानीं, इम्तिहान ना।"
+  - q: "डिमेंशिया के ट्रिविया खातिर कवन विषय सबसे बढ़िया रहेला?"
+    a: "बहुत पहिले सीखल बात सबसे बढ़िया रहेला: जवानी के मशहूर गाना आ गायक, जानल-पहचानल कहावत, त्योहार, खाना, खेल, आ रोजमर्रा के जिनगी, जइसे दूध वाला आ रोटरी फोन। हाल के खबर आ सत्र में कुछ पहिले याद करे वाली बात से बचीं।"
+  - q: "देखभाल घर में कवनो के शर्मिंदा कइले बिना ट्रिविया कइसे चलाईं?"
+    a: "हर सवाल पूरा समूह के पढ़ के सुनाईं, विकल्प देखाईं या बोलीं, आ केहू के भी जवाब के स्वागत करीं। केहू के नाम लेके मत बोलाईं, अंक मत रखीं। कवनो जवाब आवे, मुस्कुरा के सही जवाब बताईं, आ पूछीं कि ‘यहाँ केहू कबहूँ ड्राइव-इन गइल बा?’ अइसन बात से कहानी शुरू करीं।"
+  - q: "बाद के चरण में ट्रिविया के जगह का कइल जा सकेला?"
+    a: "‘कॉफी या चाय?’ या ‘समुद्र किनारा या पहाड़?’ अइसन सवाल पर जाईं, जेकर कवनो गलत जवाब ना होखे, आ साथ मिल के जानल कहावत या गाना पूरा करीं। तस्वीर देखके साथ में ओकर बारे में बोलल भी बढ़िया रहेला।"
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+ट्रिविया देखभाल घर आ दिन के केंद्र में सबसे जादे माँगल जाए वाला समूह गतिविधि बा, आ बहुत परिवार घर के मेज पर भी खेलेला। पुरान तरीका से, जहाँ अंक मिलेला आ एक्के आदमी जवाब देला, डिमेंशिया वाला आदमी के दबाव में डाल सकेला। नरमी से चलावल जाए त ई पुरानी कहानी सुने के जीवंत तरीका बा। नीचे 50 आसान सवाल बाड़े, हर एक खातिर जवाब के विकल्प आ बात करे लायक कुछ बात, आ ओकरा बाद सत्र कइसे चलावल जाए, ई बतावल गइल बा।
 
-## How do you make trivia work for someone with dementia?
+## डिमेंशिया वाला आदमी खातिर ट्रिविया कइसे काम करी?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+एकरा के बहुत पहिले के बात याद करे आ पहचाने से जोड़ीं, आ हर जवाब के स्वागत करीं।
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **बहुत पहिले के बात पूछीं।** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) कहेला कि अल्जाइमर के सबसे आम शुरुआती लक्षण नया सीखल बात याद ना रहल ह। गाना, कहावत आ दशकन पहिले के रोजमर्रा के जिनगी अक्सर आसान रहेला।
+2. **हमेशा विकल्प दीं।** दु या तीन में से सही जवाब चुनल, कुछ ना से जवाब निकालल से बहुत आसान बा।
+3. **सवाल जोर से पढ़ीं आ बड़ा करके देखाईं।** सफेद बोर्ड या टैबलेट उठा के देखावल, कम सुनेवाला लोग खातिर मदद करेला।
+4. **जवाब खुल के बताईं।** केहू के पता ना होखे त नरमी से बताईं आ आगे बढ़ीं। “अरे, ई त आप जानत बानी” मत कहीं।
+5. **अंक ना।** कवनो आदमी खातिर ना, टेबल खातिर भी ना। केहू गिनती चाहत होखे त पूरा समूह के एक्के जोड़ रखीं।
+6. **कवनो एक आदमी के सामने ना बोलाईं।** जवाब कवनो से आवे दीं। एक-पर-एक में साथे जवाब दीं: “हमरा लागत बा ई पियानो ह। आप का कहत बानी?”
+7. **बात के इस्तेमाल करीं।** जवाब शुरुआत ह, अंत ना। असल मकसद कहानी ह।
+8. **छोट रखीं।** बीच-बीच में कहानी के साथ दस सवाल काफी बा।
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) के मूल नियम सीधा बा: निराशा पर नजर रखीं आ पक्का करीं कि आदमी के सफल होखे के एहसास होखे। [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ट्रिविया के शुरुआती चरण वाला गतिविधि में गिनावेला। बीच के चरण में दु विकल्प रखीं आ बात वाला सवाल पर ज्यादा ध्यान दीं। बाद में नीचे वाला ‘ई कि वो’ सवाल पर जाईं।
 
-## Music and entertainment trivia
+## संगीत आ मनोरंजन वाला ट्रिविया
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+जवाब **मोटा** अक्षर में बा। एकरा आदमी के हिसाब से बदलीं: जे मोटाउन सुनत बड़ भइल, ओकरा खातिर गायक अलग होई, जे बिग बैंड सुनत बड़ भइल, ओकरा खातिर अलग।
 
-| Question | Choices | Talk about |
+| सवाल | विकल्प | बात करे खातिर |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| किसे “रॉक एंड रोल के राजा” कहल जात रहे? | **एल्विस प्रेसली**, फ्रैंक सिनात्रा, बिंग क्रॉसबी | का आप कबहूँ टीवी पर एल्विस के देखनी बा? |
+| कवन गायक के “ओल’ ब्लू आइज़” नाम से जानल जात रहे? | डीन मार्टिन, **फ्रैंक सिनात्रा**, पैरी कोमो | सिनात्रा के कवन गाना आपके सबसे नीमन लागेला? |
+| बिंग क्रॉसबी एगो सफेद... के सपना देखत रहलें | **क्रिसमस**, शादी, घर | मिल के एक लाइन गाईं |
+| लुई आर्मस्ट्रांग गावत रहलें “व्हाट ए वंडरफुल...” | दिन, **दुनिया**, जिंदगी | दुनिया के कवन बात आपके सुंदर लागेला? |
+| “ओवर द रेनबो” जूडी गारलैंड कवन फिल्म में गावत रहली? | **द विजार्ड ऑफ ओज़**, गॉन विथ द विंड, सिंगिन’ इन द रेन | आप अपन मनपसंद फिल्म कहाँ देखनी? |
+| “आई लव लूसी” में लूसी के रोल के कइले रहे? | **लूसिल बॉल**, डोरिस डे, बेटी व्हाइट | कवन कार्यक्रम परिवार साथे देखत रहे? |
+| कवन काउबॉय ट्रिगर नाम के घोड़ा पर चढ़त रहे? | **रॉय रोजर्स**, जीन ऑटरी, जॉन वेन | का आप बचपन में काउबॉय वाला खेल खेलत रहीं? |
+| “द टुनाइट शो” 30 साल तक के होस्ट कइले रहे? | एड सुलिवन, **जॉनी कार्सन**, बॉब होप | का आप रात में देर तक टीवी देखत रहीं? |
+| कवन बाजा में 88 गो कुंजी होले? | गिटार, **पियानो**, ट्रंपेट | परिवार में केहू बजावत रहे का? |
+| कवन नाच एक-दो-तीन, एक-दो-तीन के गिनती पर होला? | **वाल्ट्ज**, ट्विस्ट, टैंगो | आप नाचे कहाँ जात रहीं? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+संगीत के बारे में अउर जानकारी खातिर, [डिमेंशिया खातिर संगीत वाला गतिविधि](/activities/music/) देखीं।
 
-## Everyday life trivia
+## रोजमर्रा के जिनगी वाला ट्रिविया
 
-| Question | Choices | Talk about |
+| सवाल | विकल्प | बात करे खातिर |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| फ्रिज से पहिले, घर में खाना ठंडा रखे खातिर एगो... | **आइसबॉक्स**, ओवन, अटारी | बरफ के पहुँचावत रहे के? |
+| कांच के बोतल में घरे दूध दरवाजा पर के पहुँचावत रहे? | डाकिया, **दूधवाला**, अखबार वाला लइका | घरे आउर का-का पहुँचावल जात रहे? |
+| रोटरी फोन में नंबर कइसे डायल कइल जात रहे? | बटन दबा के, **चक्का घुमा के**, फोन से बात करके | आपके घर के फोन के बारे में बतावीं |
+| मॉडल टी गाड़ी कवन कंपनी बनावत रहे? | **फोर्ड**, शेवरले, बुइक | कवन गाड़ी आपके पसंद रहे? |
+| सोडा जर्क कहाँ मिलत रहे? | **सोडा फाउंटेन पर**, बेकरी में, बैंक में | काउंटर पर का मंगावत रहीं? |
+| कवन खिलौना धातु के स्प्रिंग ह, जे सीढ़ी से नीचे चल सकेला? | योयो, **स्लिंकी**, हुला हुप | कवन खिलौना आपके बहुत पसंद रहे? |
+| ड्राइव-इन कहाँ फिल्म देखल जात रहे... | **गाड़ी में बइठ के फिल्म**, बॉल गेम, परेड | केकरा संगे जात रहीं? |
+| एक डॉलर के नोट पर केकर चेहरा बा? | लिंकन, **जॉर्ज वाशिंगटन**, जेफरसन | ओह समय एक डॉलर में का आवत रहे? |
+| पेनी (सिक्का) पर केकर चेहरा बा? | **अब्राहम लिंकन**, वाशिंगटन, फ्रैंकलिन | ओह समय पइसा जोड़ के बक्सा में रखत रहीं? |
+| स्कूल बस आमतौर पर कवन रंग के होले? | लाल, **पीला**, नीला | आप स्कूल कइसे जात रहीं? |
 
-## Holidays, nature and places
+## त्योहार, प्रकृति आ जगह
 
-| Question | Choices | Talk about |
+| सवाल | विकल्प | बात करे खातिर |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| नवंबर के चौथा बृहस्पतिवार कवन त्योहार होला? | लेबर डे, **थैंक्सगिविंग**, मेमोरियल डे | मेज पर हमेशा का रहत रहे? |
+| जैक-ओ-लैंटर्न कवन त्योहार खातिर बनावल जाला? | **हैलोवीन**, ईस्टर, क्रिसमस | जहाँ आप बड़ भइल रहीं, उहाँ के हैलोवीन के बारे में बतावीं |
+| 4 जुलाई स्वतंत्रता की घोषणा के मनावेला... | अधिकार, **स्वतंत्रता**, आजादी | आतिशबाजी कहाँ देखनी? |
+| मदर्स डे कवन महीना में होला? | अप्रैल, **मई**, जून | परिवार ई दिन कइसे मनावत रहे? |
+| अमेरिकी झंडा पर केतना तारा होला? | 48, **50**, 52 | 1959 तक झंडा पर 48 तारा रहे। दुनो जवाब एगो नीमन याद बा |
+| कवन समुद्र पूरबी तट पर बा? | प्रशांत, **अटलांटिक**, आर्कटिक | कबहूँ समुद्र किनारा गइल बानी? |
+| स्टैच्यू ऑफ लिबर्टी कवन शहर में बा? | बोस्टन, **न्यूयॉर्क**, फिलाडेल्फिया | आप न्यूयॉर्क गइल बानी? |
+| मधुमक्खी का बनावेली? | दूध, **शहद**, रेशम | शहद टोस्ट पर या चाय में पसंद बा? |
+| गाय के बच्चा के का कहल जाला? | घोड़ी के बच्चा, **बछड़ा**, बकरी के बच्चा | कबहूँ खेत के पास रहल बानी? |
+| कवन लंबा पीला फूल सूरज के ओर घूमे खातिर मशहूर बा? | गुलाब, **सूरजमुखी**, ट्यूलिप | आपके बगीचा में का उगत रहे? |
+| लीप ईयर में केतना दिन होला? | 365, **366**, 360 | कवनो जन्मदिन के याद बतावीं |
+| सर्दी के बाद कवन मौसम आवेला? | पतझड़, **वसंत**, गर्मी | आपके सबसे पसंद मौसम कवन ह? |
 
-## Food and sports trivia
+## खाना आ खेल वाला ट्रिविया
 
-| Question | Choices | Talk about |
+| सवाल | विकल्प | बात करे खातिर |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| किशमिश सूखल... होला | आलूबुखारा, **अंगूर**, चेरी | टिफिन में किशमिश रखत रहीं? |
+| सूखल आलूबुखारा (प्रून) सूखल... होला | **आलूबुखारा**, अंजीर, सेब | परिवार में केकरा आलूबुखारा पसंद रहे? |
+| पीनट बटर आ... | **जैम**, पनीर, हैम | कुरकुरा या चिकना? |
+| ग्वाकामोले मुख्य रूप से... से बनेला | मटर, **एवोकाडो**, खीरा | पार्टी में कवन-कवन डिप निकलत रहे? |
+| थैंक्सगिविंग में कवन पाई पसंद कइल जाला? | **कद्दू**, नींबू, चेरी | कवन पाई आप बनावत रहीं? |
+| बेसबॉल टीम के मैदान में केतना खिलाड़ी होला? | 7, **9**, 11 | कवन टीम के समर्थन करत रहीं? |
+| बेसबॉल में केतना स्ट्राइक पर आउट होला? | दो, **तीन**, चार | कबहूँ बॉल खेलल बानी? |
+| बेब रूथ कवन खेल खातिर मशहूर रहलें? | मुक्केबाजी, **बेसबॉल**, गोल्फ | बॉल गेम देखे जात रहीं? |
+| स्टैंडर्ड गोल्फ कोर्स में केतना होल होला? | 9, **18**, 24 | कबहूँ गोल्फ या मिनी गोल्फ खेलल बानी? |
+| कवन खेल में टचडाउन बनावल जाला? | **फुटबॉल**, हॉकी, बास्केटबॉल | आपके घर में फुटबॉल केहू देखत रहे? |
 
-## Familiar sayings
+## जानल-पहचानल कहावत
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+कहावत पूरा करे में बहुत पहिले सीखल भाषा काम आवेला, आ अक्सर ई आसान लागेला। हमार [Finish the saying](/games/finish-the-saying/) खेल में अउर बहुत कहावत बाड़ी, जेकर अंत देखे खातिर एक टैप करे के पड़ेला।
 
-| Saying | Choices | Talk about |
+| कहावत | विकल्प | बात करे खातिर |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| रोज एक सेब खाईं, तो डॉक्टर... | **दूर रहेला**, बारिश दूर, बिल्ली दूर | ई केहू आपसे कहत रहे? |
+| सबेरे उठे वाला चिरई... पकड़ेला | बस, **कीड़ा**, रेलगाड़ी | का आप सबेरे उठे वाला बानी? |
+| अंडा गिने से पहिले... मत गिनीं | **निकल जाए**, सो जाए, गाए | परिवार में मुर्गी पालल जात रहे? |
+| एक पइसा बचावल, एक पइसा... | **कमाइल**, खोवल, खर्च | परिवार में बचत के हिसाब केकर रहे? |
+| घर वो जगह ह, जहाँ... | बगीचा होला, **मन होला**, रसोई होला | कवन चीज कवनो जगह के घर जइसन बनावेला? |
+| देर से आवे से नीक बा, बाकी... | जल्दी, **कबो ना**, माफी | परिवार में देर से आवे वाला केहू रहे? |
+| हर बादर के चाँदी के... होला | **किनारी**, चम्मच, सिक्का | कवनो भाग्यशाली बात बतावीं |
+| करनी बोले बड़ी बात, बाकी... | **बात**, संगीत, गरज | केहू के ई बात कहत सुनले बानी? |
 
-## This-or-that questions with no wrong answer
+## ‘ई कि वो’ वाला सवाल, जेकर कवनो गलत जवाब ना होखे
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+ई सवाल हर चरण में चलेला, बाद के चरण में भी, काहे कि कवनो सही-गलत ना होखे। पूछीं, सुनीं, आ आपन जवाब भी बताईं।
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- कॉफी या चाय?
+- समुद्र किनारा या पहाड़?
+- कुकुर या बिलार?
+- गर्मी या जाड़ा?
+- पाई या केक?
+- नाचल या देखल?
+- सूरज उगे के समय या डूबे के?
+- सामने बरामदा या पीछे आँगन?
+- रेडियो या रिकॉर्ड?
+- पैनकेक या अंडा?
+- गुलाब या गेंदा?
+- ट्रेन यात्रा या सड़क यात्रा?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+तस्वीर के साथ बात करे खातिर, हमार छपे लायक [Conversation cards](/games/conversation-cards/) आज़माईं।
 
-## How do you run a trivia session in a care home or group?
+## देखभाल घर या समूह में ट्रिविया कइसे चलाईं?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **लोग के अइसे बइठाईं कि ऊ देख आ सुन सकस।** सुनेवाला यंत्र लगल रहे, चश्मा पहिनल रहे, टीवी बंद रहे।
+2. **बात बातचीत जइसन बतावीं।** “पुरान दिन के कुछ सवाल बा, आ हमरा लागत बा आप हमरा से जादे जानत बानी।”
+3. **हर सवाल दु बार पढ़ीं आ विकल्प बड़ करके देखाईं।**
+4. **कमरा के कवनो कोना से जवाब के स्वागत करीं।** नीमन जवाब दोहराईं, ताकि सब सुन सकस।
+5. **सबके खातिर जवाब बताईं,** फिर बात वाला सवाल पूरा कमरा से पूछीं।
+6. **माहौल देख के चलीं।** कवनो एक सवाल दस मिनट के कहानी शुरू करे त उहे होबे दीं।
+7. **गाना या ‘ई कि वो’ वाला दौर से खतम करीं,** ताकि सब कवनो आसान चीज पर मन से जाईं।
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+बाकी समूह के तरीका खातिर, जइसे तस्वीर बिंगो आ साथ में गाना, [देखभाल घर खातिर समूह गतिविधि](/activities/care-home-groups/) देखीं।
 
-## When to change the plan
+## योजना कब बदलीं
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+अगर कवनो आदमी परेशान लागे, चुप हो जाए, या एक से जादे बार “हमरा नइखे पता” कहे, त आसान कर दीं: दु विकल्प पर आ जाईं, साथे जवाब दीं, या ‘ई कि वो’ वाला सवाल पर चल जाईं। अगर समूह के मन एक्के सवाल पर पूरा दुपहरी बतियावे के होखे, त ई भी सफलता ह। मकसद कभी सही जवाब ना रहल। मकसद रहल नीमन संगत में समय बितावल।

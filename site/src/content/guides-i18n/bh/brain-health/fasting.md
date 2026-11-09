@@ -1,33 +1,32 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "रुक-रुक के खाइल (Intermittent Fasting) आ डिमेंशिया: शोध का कहता"
+seoTitle: "रुक-रुक के खाइल आ डिमेंशिया: शोध का कहता"
+description: "इंसानन पर रुक-रुक के खाइल आ डिमेंशिया पर शोध अभी सीमित आ शुरुआती बा। बूढ़ लोगन खातिर एकरा खतरा आ डिमेंशिया वाला लोगन खातिर पेट भर खाइल-पीयल काहे जरूरी बा, जानीं।"
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  रुक-रुक के खाइल डिमेंशिया रोकेला या धीमा करेला, एकर कवनो ठीक सबूत नईखे।
+  ढेर शोध जानवरन पर भइल बा, आ बूढ़ लोगन पर इंसानन के अध्ययन छोट आ कम अवधि के बा।
+  खाइल-पीयल छोड़ला से बूढ़ लोगन के जोखिम हो सकेला: वजन आ मांसपेसी घटल, कुछ डायबिटीज़ की दवाई से खून में शुगर बहुत कम होखल,
+  पानी के कमी आ गिरल। डिमेंशिया के साथ जी रहल लोगन खातिर आमतौर पर बड़ बात होखेला कि उ पर्याप्त खाइल-पीयल।
+  कवनो बदलाव से पहिले डॉक्टर से बात करीं।
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "नेशनल इंस्टीट्यूट ऑन एजिंग कहेला कि कवनो भी उपवास या कैलोरी घटावे वाला खान-पान के सिफारिश करे खातिर पर्याप्त सबूत नइखे, खास करके बूढ़ लोगन खातिर।"
+  - "उपवास आ बुढ़ाई पर भइल ढेर शोध जानवरन पर भइल बा, आ उ नतीजा जरूरी नइखे कि इंसानन पर लागू होखे।"
+  - "बूढ़ लोगन खातिर संभावित जोखिम में बिना चाहले वजन घटल, मांसपेसी कमजोर होखल, कुछ डायबिटीज़ की दवाई से खून में शुगर कम होखल, पानी के कमी, चक्कर आवल आ गिरल बा।"
+  - "डिमेंशिया के साथ जी रहल लोग अक्सर खाइल-पीयल भूल जाला, या सोचेला कि उ पहिलही खा चुकल बा। उनके पर्याप्त खाइल-पीयल में मदद करल अक्सर इ बात से ढेर जरूरी होखेला कि उ कब खाता।"
+  - "डिमेंशिया वाला लोगन खातिर उपवास मत करीं। खान-पान के कवनो बदलाव से पहिले डॉक्टर या रजिस्टर्ड डायटीशियन से बात करीं।"
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "का रुक-रुक के खाइल अल्ज़ाइमर रोकेला?"
+    a: "एकर कवनो ठीक सबूत नइखे। ढेर शोध जानवरन पर भइल बा, आ इंसानन पर भइल परीक्षण ज्यादातर छोट अवधि के रहल बा, कम उमिर या ज्यादा वजन वाला लोगन पर, आ वजन घटावे पर केंद्रित रहल। नेशनल इंस्टीट्यूट ऑन एजिंग कहेला कि आम लोगन के उपवास वाला खान-पान के सिफारिश करे खातिर पर्याप्त सबूत नइखे।"
+  - q: "का बूढ़ लोगन खातिर रुक-रुक के खाइल सुरक्षित बा?"
+    a: "ना, हो सकेला कि सुरक्षित ना होखे। उपवास से बिना चाहले वजन आ मांसपेसी घट सकेला, पानी के कमी हो सकेला, चक्कर आ सकेला, गिरल हो सकेला, आ इंसुलिन या कुछ अउर डायबिटीज़ की दवाई लेवे वाला लोगन में खून में शुगर खतरनाक तरह से कम हो सकेला। Mayo Clinic कहेला कि जिनका हड्डी कमजोर होखे या गिरे के ढेर जोखिम होखे, उनखातिर इ ठीक ना हो सकेला। कोशिश करे से पहिले डॉक्टर से बात करीं।"
+  - q: "का डिमेंशिया वाला आदमी के उपवास करे के चाहीं?"
+    a: "ना। डिमेंशिया के साथ जी रहल लोगन के अक्सर पर्याप्त खाइल-पीयल में दिक्कत होखेला, आ खराब पोषण से व्यवहार से जुड़ल लक्षण बढ़ सकेला आ वजन घट सकेला। उपवास से जोखिम बढ़ेला, बाकिर फायदा साबित नइखे। एकर बजाय नियमित भोजन, उनके पसंद के नाश्ता आ पर्याप्त पानी पर ध्यान दीं।"
+  - q: "डिमेंशिया वाला आदमी पर्याप्त खात-पीयत नइखे, एकर का निशानी बा?"
+    a: "वजन घटल, कपड़ा ढीला होखल, थकान, कमजोरी, कब्ज, या खाना से मना कइल पर ध्यान दीं। नेशनल इंस्टीट्यूट ऑन एजिंग के बतावल पानी के कमी के निशानी में मुँह सूखल, चक्कर आवल, दिल के तेज धड़कन आ भ्रम वाली बात (हैल्यूसिनेशन) शामिल बा। इ सब लउके त उनके डॉक्टर के बताईं।"
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +54,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+रुक-रुक के खाइल, जइसे कि आठ घंटा के समय में खाइल या हफ्ता में दू दिन कैलोरी जोर से घटावल, बहुत चर्चा में बा, आ कुछ लेख कहेलें कि इ दिमाग के बचा सकेला। अगर रउआ बूढ़ बानी, या डिमेंशिया के साथ जी रहल कउनो आदमी के देखभाल करत बानी, त शोध असल में का देखावेला आ सावधानी काहे जरूरी बा, ई जानल जरूरी बा।
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+इ आम जानकारी हवे, चिकित्सा सलाह ना। डॉक्टर या रजिस्टर्ड डायटीशियन से बात कइले बिना उपवास शुरू मत करीं, ना जेकर देखभाल रउआ करत बानी उनकर खाइल-पीयल बदलीं। देखीं [चिकित्सा संबंधी अस्वीकरण](/medical-disclaimer/)।
 
-## Does intermittent fasting prevent dementia?
+## का रुक-रुक के खाइल डिमेंशिया रोकेला?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+रुक-रुक के खाइल डिमेंशिया रोकेला या धीमा करेला, एकर कवनो ठीक सबूत नइखे। नेशनल इंस्टीट्यूट ऑन एजिंग (NIA) कहेला कि कवनो भी तरह के कैलोरी घटावे या उपवास वाला खान-पान के सिफारिश करे खातिर पर्याप्त सबूत नइखे, आ एकर असर आ सुरक्षा के बारे में अभी बहुत कुछ जाने के बा, खास करके बूढ़ लोगन खातिर ([NIA कैलोरी घटावे आ उपवास पर](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know))।
 
-### Why the evidence is so limited
+### सबूत काहे एतना सीमित बा
 
-The NIA gives several reasons:
+NIA कई कारण बतावेला:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **ढेर अध्ययन जानवरन पर भइल बा।** कीड़ा, मक्खी, चूहा आ बानर पर शोध से दिलचस्प नतीजा मिलल बा, बाकिर उ नतीजा जरूरी नइखे कि इंसानन पर लागू होखे। जानवरन में भी नतीजा मिलल-जुलल बा; कुछ चूहा के नस्ल में कैलोरी घटावे से उनकर उमिर घट गइल।
+- **इंसानन पर परीक्षण छोट रहल बा।** ज्यादातर कुछ हफ्ता या महीना चलल।
+- **ज्यादातर इंसानन वाला परीक्षण ज्यादा वजन वाला लोगन पर वजन घटावे खातिर रहल,** याददाश्त या डिमेंशिया खातिर ना।
+- **बूढ़ लोग कम शामिल होखेला।** ढेर परीक्षण में 60 साल या ओकरा से कम उमिर के लोग भरती भइल।
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 के एक व्यवस्थित समीक्षा (systematic review) खास करके 60 साल आ ओकरा से ऊपर के वयस्कन में रुक-रुक के खाइल पर केंद्रित रहल। ओकरा में पाइल गइल कि इ उमिर वर्ग में सबूत अभी सीमित बा, छोट अध्ययन बा, फॉलो-अप कम बा, आ डिज़ाइन मिलल-जुलल बा। सोच-समझ आ याददाश्त पर नतीजा अलग-अलग अध्ययन से आइल, एक साथ जोड़ल परीक्षण से ना। समीक्षा में इ भी कहल गइल कि कुछ अध्ययन में बहुत छोट खाइल के समय या लंबा उपवास खराब नतीजा से जुड़ल रहल, आ लेखक बूढ़ लोगन खातिर सावधानी के सलाह दिहले ([Nutrients में 2026 के समीक्षा](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/))।
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+कुछ शोधकर्ता सोचेला कि उपवास के समय शरीर चर्बी जलावे लागेला, आ इ दिमाग पर असर डाल सकेला, बाकिर इ अभी भी जांच के विषय बा, सिद्ध बात ना। NIA कहेला कि विज्ञान अभी अनिश्चित बा।
 
-## What are the risks of fasting for older adults?
+## बूढ़ लोगन खातिर उपवास के का जोखिम बा?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+ढेर बूढ़ लोगन खातिर उपवास कवनो हानिरहित प्रयोग नइखे। संभावित जोखिम में ई सब शामिल बा:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **बिना चाहले वजन घटल।** शरीर के जरूरत से कम खइला से वजन घट सकेला आ मांसपेसी कमजोर हो सकेली, जे से आदमी अउर कमजोर हो सकेला।
+- **मांसपेसी आ हड्डी के कमजोरी।** NIA के समर्थन वाला एक दू साल के परीक्षण में, जवान आ मध्य उमिर के लोगन पर कैलोरी घटावे से लोगन के हड्डी के घनत्व आ दुबला शरीर के द्रव्यमान (lean body mass) में थोड़ कमी देखल गइल।
+- **डायबिटीज़ की दवाई से खून में शुगर कम होखल।** इंसुलिन या कुछ अउर डायबिटीज़ की दवाई लेवे वाला लोग अगर खाना छोड़ें या देर करें, त उनकर खून में शुगर बहुत कम हो सकेला, एकरा अनुसार [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia)। खून में शुगर कम होखला से चक्कर, भ्रम आ चिड़चिड़ापन हो सकेला।
+- **पानी के कमी।** अगर खाना के साथे पानी भी छूट जाए, त आदमी के शरीर में पानी के कमी हो सकेला।
+- **चक्कर आ गिरल।** Mayo Clinic कहेला कि रुक-रुक के खाइल से लोगन के बहुत थकान आ चक्कर आ सकेला, आ जिनका हड्डी कमजोर होखे या गिरे के ढेर जोखिम होखे, उनखातिर इ ठीक पैटर्न ना हो सकेला ([Mayo Clinic रुक-रुक के खाइल पर](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303))।
+- **अउर असर।** Mayo Clinic माथा दुखाइल, मूड में बदलाव आ कब्ज के भी सूची में रखेला। ओकर कहना बा कि 16 घंटा के उपवास आ 8 घंटा के खाइल के समय से दिल के बीमारी के जोखिम बढ़ सकेला, इ कुछ सबूत में बा। इ बात अभी तय नइखे।
 
-## Why is eating enough the bigger concern with dementia?
+## डिमेंशिया में पर्याप्त खाइल काहे ढेर जरूरी बा?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+डिमेंशिया के साथ जी रहल लोगन खातिर आम समस्या ज्यादा खाइल ना, बलुक **पर्याप्त** खाना-पीना होखेला। Alzheimer's Association बतावेला कि बीच आ बाद के चरण में लोग खाना के चुनाव से घबरा सकेला, खाना भूल सकेला, या सोच सकेला कि उ पहिलही खा चुकल बा। ओकर कहना बा कि खराब पोषण से व्यवहार से जुड़ल लक्षण बढ़ सकेला आ वजन घट सकेला ([Alzheimer's Association खाना आ खाइल पर](https://www.alz.org/help-support/caregiving/daily-care/food-eating))।
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society कहेला कि पर्याप्त ना खाइल से वजन घट सकेला, मांसपेसी कमजोर हो सकेली, थकान आ कमजोरी आ सकेला, आ आदमी अउर कमजोर हो सकेला आ इन्फेक्शन से उबरे में मुश्किल हो सकेला ([Alzheimer's Society भूख पर](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia))।
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**इन्हीं कारण से, डिमेंशिया के साथ जी रहल कउनो आदमी खातिर उपवास ठीक विचार ना हवे।** छूटल भोजन आसानी से छूटल भोजन के आदत बन सकेला। डिमेंशिया वाला आदमी के खाइल के तरीका में कवनो बदलाव उनकर डॉक्टर या रजिस्टर्ड डायटीशियन के सलाह से होखे के चाहीं।
 
-## What are the warning signs of poor eating or drinking?
+## खराब खाइल-पीयल के चेतावनी वाला निशानी का बा?
 
-Watch for:
+इ सब पर ध्यान दीं:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **वजन घटल**, या कपड़ा ढीला होखल।
+- **खाना छोड़ल या खाने से मना करल**, या खाना मुँह में रख लेल।
+- **थकान या कमजोरी।**
+- **कब्ज**, जे खान-पान आ पानी के कमी से जुड़ल हो सकेला।
+- **पानी के कमी के निशानी।** NIA में मुँह सूखल, चक्कर आवल, दिल के तेज धड़कन, आ भ्रम वाली बात (हैल्यूसिनेशन) बतावल गइल बा, जे डिमेंशिया खुद से भी हो सकेला ([NIA आम चिकित्सा समस्या पर](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers))।
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+भूख कम होखे के कई कारण हो सकेला: दाँत दर्द या ढीला दाँत-नकली दाँत, नया दवाई, अवसाद, कब्ज, कम गतिविधि, या स्वाद आ गंध में बदलाव। इनमें से कउनो भी बात लउके त ओह आदमी के डॉक्टर के बताईं। उ कारण खोज सकेले आ डायटीशियन या सप्लीमेंट के सुझाव दे सकेले।
 
-## How can you help someone eat and drink enough?
+## आप कइसे उनके पर्याप्त खाइल-पीयल में मदद कर सकीलें?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **दिन में कई बार छोट भोजन आ नाश्ता दीं**, तीन बड़ भोजन के बजाय।
+- **उनके पसंद के खाना बनाईं**, आ स्वाद बदलला पर लचीला रहीं। भूख कम होखे त मीठा खाना भी अच्छा लाग सकेला; अगर चीनी सीमित करे के स्वास्थ्य कारण होखे त डॉक्टर से पूछीं।
+- **पीये के चीज हाथ भर दूरी पर रखीं** आ दिन भर छोट कप में पानी दीं। सूप, फल, स्मूदी आ मिल्कशेक भी गिनती में आवेला।
+- **जब हो सके त साथे खाईं।** भोजन साथ के मौका ह, जल्दी निपटावे वाला काम ना।
+- **फिंगर फूड आज़माईं**, जइसे सैंडविच, फल के टुकड़ा या चिकन के टुकड़ा, जब चम्मच-कांटा चलावे में मुश्किल होखे।
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+हमार [खान-पान गाइड](/brain-health/diet/) में अउर भोजन के विचार बा। खाना बनावे में साथ देवल भी एक साथे के सुख वाला गतिविधि हो सकेला; देखीं [घर के काम](/activities/household-tasks/)।
 
-## Talk with a doctor
+## डॉक्टर से बात करीं
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+खुद से कउनो उपवास योजना शुरू करे से पहिले अपना डॉक्टर या रजिस्टर्ड डायटीशियन से बात करीं, खास करके अगर डायबिटीज़ या ब्लड प्रेशर के दवाई लेत बानी, हाल में वजन घटल बा, या गिरल बानी। डिमेंशिया वाला आदमी खातिर उनके डॉक्टर से पूछीं कि उ रोज कतना खाइल-पीयल चाहीं, उपवास के बारे में ना।
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+अचानक भ्रम, बेहोशी, या बहुत कम खून में शुगर के निशानी जे जल्दी ठीक ना होखे, त तुरंत डॉक्टरी मदद लीं।

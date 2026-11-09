@@ -1,33 +1,29 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "डिमेंशिया वाले व्यक्ति से बात करने के सुझाव"
+seoTitle: "डिमेंशिया में बातचीत के सुझाव: क्या कहें, क्या न कहें"
+description: "डिमेंशिया के साथ जी रहे व्यक्ति से बात करने के व्यावहारिक तरीके: बातचीत कैसे शुरू करें, सवालों की झड़ी या सुधार की जगह क्या कहें, और ध्यान से कैसे सुनें।"
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  शांत जगह पर बात करें, सामने से चेहरा दिखाएँ, उनका नाम लें, और धीरे-धीरे छोटे, सरल वाक्य बोलें। एक बार में एक ही सवाल पूछें, खुले सवाल की जगह दो विकल्प दें, और जितना सहज लगे उससे ज़्यादा देर रुकें। बहस न करें, सुधारें नहीं और सवालों की झड़ी न लगाएँ। शब्द कम होने पर बातों के पीछे के भाव को समझें, और छूने, तस्वीरों और इशारों का सहारा लें।
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "बात शुरू करने से पहले आसपास का शोर कम करें और आँखों से संपर्क बनाएँ।"
+  - "छोटे वाक्य बोलें, एक बार में एक ही बात कहें, और “वह”, “वे” की जगह नाम लें।"
+  - "खुले सवाल की जगह दो विकल्पों में से चुनने को कहें, या “हाँ” या “ना” वाला सवाल पूछें।"
+  - "जवाब का इंतज़ार करें। बात समझ में न आए तो वही शब्द दोहराएँ, फिर नए शब्द आज़माएँ।"
+  - "बहस न करें और सुधारें नहीं। जो बात कही जा रही है उसके पीछे के भाव का जवाब दें।"
+  - "शब्द धुंधले होने पर छूने, लहजे, चेहरे के भाव और साथ देखी तस्वीरों से बात करें।"
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "डिमेंशिया वाले व्यक्ति से क्या नहीं कहना चाहिए?"
+    a: "सवालों की झड़ी न लगाएँ (“क्या तुम्हें याद है...?”), सुधारें नहीं (“यह गलत है”), नुकसान की याद न दिलाएँ (“मैं तो पहले ही बता चुका हूँ”), और ऐसे बात न करें जैसे वे वहाँ मौजूद ही न हों। बच्चों जैसे लहजे में बोलने से भी बचें। इससे अक्सर शर्मिंदगी या बेचैनी होती है, और इससे कुछ भला नहीं होता।"
+  - q: "जब वे तथ्य गलत बताएँ, तो क्या मुझे सुधारना चाहिए?"
+    a: "आम तौर पर नहीं। अगर गलत बात से कोई नुकसान नहीं है, तो उसे जाने दें। बहस से शायद ही उनकी राय बदलती है, और अक्सर वे परेशान हो जाते हैं। ध्यान इस पर रखें कि वे कैसा महसूस कर रहे हैं और अभी उन्हें क्या चाहिए।"
+  - q: "जब वे कोई शब्द नहीं ढूँढ पाएँ, तो मुझे क्या करना चाहिए?"
+    a: "पहले उन्हें समय दें। अगर वे साफ़ तौर पर अटक रहे हैं, तो धीरे से कोई शब्द सुझा देना या उनका मतलब अंदाज़ा लगाकर पूछ लेना ठीक है। इशारे और तस्वीरें भी मदद कर सकती हैं।"
+  - q: "जो व्यक्ति डिमेंशिया के आखिरी चरण में हैं और बहुत कम बोलते हैं, उनसे कैसे बात करूँ?"
+    a: "सामने से पास जाएँ, अपना परिचय दें, और शांत आवाज़ और कोमल स्पर्श का इस्तेमाल करें। उनके चेहरे और शरीर की भाषा से भाव पढ़ने की कोशिश करें। आपकी मौजूदगी, कोई जानी-पहचानी धुन या हाथ पकड़ना, शब्दों के बिना भी बहुत कुछ कह सकता है।"
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +39,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+डिमेंशिया की वजह से शब्द ढूँढना मुश्किल हो सकता है, लंबा वाक्य समझना कठिन हो सकता है, या आसपास का शोर ध्यान भटका सकता है। इसका मतलब यह नहीं कि व्यक्ति अब जुड़ना नहीं चाहते। बातचीत शुरू करने, बोलने और सुनने के तरीके में छोटे बदलाव करने से बात आप दोनों के लिए आसान और शांत हो सकती है।
 
-## What are the most important tips for talking with someone who has dementia?
+## डिमेंशिया वाले व्यक्ति से बात करने के सबसे ज़रूरी सुझाव क्या हैं?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+उनका ध्यान खींचें, बात सरल रखें, और धैर्य रखें। अगर आप सिर्फ पाँच बातें याद रखें:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **कमरे को शांत करें और उनके सामने बैठें।** टीवी बंद करें, उनकी आँखों के बराबर बैठें, और उनका नाम लें।
+2. **एक बार में एक ही बात कहें।** छोटे वाक्य, एक विचार, एक सवाल।
+3. **दो विकल्पों में से चुनने को कहें।** “चाय या कॉफ़ी?” पूछना “आप क्या लेंगे?” पूछने से आसान है।
+4. **रुकें।** जवाब के लिए जितना सहज लगे उससे ज़्यादा समय दें, और बीच में टोकने से बचें।
+5. **कभी बहस या सवालों की झड़ी न लगाएँ।** उनके भाव का जवाब दें, न कि इस पर ध्यान दें कि तथ्य सही हैं या नहीं।
 
-## How should I start a conversation?
+## बातचीत कैसे शुरू करूँ?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+माहौल ऐसा बनाएँ कि व्यक्ति आप पर ध्यान दे सकें। [Family Caregiver Alliance की गाइड](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) सुझाती है कि पहले शोर कम करें: रेडियो या टीवी बंद करें, परदे या दरवाज़ा बंद करें, या किसी शांत जगह चले जाएँ।
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **सामने से पास जाएँ।** पीछे या बगल से आने पर वे चौंक सकते हैं।
+- **अपना परिचय दें।** “नमस्ते बाबूजी, हम सारा हईं, रउआ बेटी।” इससे उन्हें आपका नाम याद करने की मेहनत नहीं करनी पड़ती।
+- **उनके स्तर पर आएँ।** अगर वे बैठे हैं, तो आप भी बैठें या घुटने टेकें, ताकि आँखें एक सीध में हों।
+- **अपने चेहरे और लहजे का ध्यान रखें।** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) सलाह देती है कि आप अपने लहजे, आवाज़ की ऊँचाई, चेहरे के भाव और शरीर की भाषा पर ध्यान दें, और एक गर्मजोशी भरा, सीधा-सादा ढंग रखें।
+- **चश्मा और सुनने की मशीन लगी हो, यह पक्का करें।** जो बात ठीक से दिख या सुनाई न दे, उसे समझना मुश्किल होता है।
 
-## How should I phrase what I say?
+## मैं जो कहूँ, उसे कैसे बोलूँ?
 
-Use simple words, short sentences and a calm, low voice.
+सरल शब्द, छोटे वाक्य और शांत, धीमी आवाज़ का इस्तेमाल करें।
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **हर वाक्य में एक विचार।** “चलिए, कोट पहन लीजिए। फिर बाहर चलेंगे।” एक ही साँस में दोनों बातें न कहें।
+- **सर्वनाम की जगह नाम लें।** “बुआ जीन का फ़ोन आया था” बोलना “उनका फ़ोन आया था” बोलने से साफ़ है।
+- **ऊँची नहीं, नीची आवाज़ में बोलें।** Family Caregiver Alliance सलाह देती है कि आवाज़ ऊँची करने की जगह धीमी और नीची रखें।
+- **दोहराएँ, फिर अलग शब्द कहें।** अगर वे बात नहीं समझे, तो वही शब्द एक बार दोहराएँ। फिर भी न समझें तो थोड़ा रुककर दूसरे शब्द आज़माएँ।
+- **बताने के साथ दिखाएँ।** कप की ओर इशारा करें, दोनों स्वेटर हाथ में दिखाएँ, या पहला कदम करके दिखाएँ।
+- **उनसे बात करें, उनके बारे में नहीं।** NIA चेतावनी देती है कि ऐसे बात न करें जैसे व्यक्ति वहाँ मौजूद न हों, और बच्चों जैसे लहजे से बचें।
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA आम सवालों के सरल रूप सुझाती है। उसी भाव में कुछ उदाहरण:
 
-| Instead of | Try |
+| ऐसे न पूछें | ऐसे पूछें |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “आज रात खाने में क्या लोगे?” | “खाने में मछली लेंगे या चिकन?” |
+| “आप कैसा महसूस कर रहे हैं?” | “क्या आप थका हुआ महसूस कर रहे हैं?” |
+| “भूख लगी है?” | “पाँच मिनट में खाना तैयार हो जाएगा।” |
+| “ऐसे नहीं, ऐसे करते हैं।” | “चलिए, इस तरह से करके देखते हैं।” |
+| “झील वाली हमारी यात्रा याद है?” | “मैं झील वाली अपनी यात्रा के बारे में सोच रही थी। बताइए, आपको वहाँ क्या अच्छा लगा था।” |
+| “मैंने तो पहले ही बता दिया था।” | प्यार से, जैसे पहली बार पूछा गया हो, फिर से जवाब दें। |
 
-## How do I listen well?
+## मैं अच्छे से कैसे सुनूँ?
 
-Listen for the meaning and the feeling, not just the words.
+सिर्फ शब्द नहीं, उनका मतलब और भाव भी सुनें।
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **इंतज़ार करें।** चुप्पी अक्सर सोचने का समय होती है। कुछ कहने से पहले धीरे-धीरे दस तक गिनें।
+- **तभी शब्द सुझाएँ जब वे अटक जाएँ।** Family Caregiver Alliance कहती है कि जब कोई अटक रहा हो, तो शब्द सुझाना ठीक है।
+- **अपनी समझ जाँचें।** [Alzheimer's Association की संचार गाइड](https://www.alz.org/help-support/caregiving/daily-care/communications) सुझाती है कि उनकी बातों के पीछे का मतलब समझें और उसे अपने शब्दों में दोहराकर पक्का करें कि आपने ठीक समझा। जैसे, “आप गाड़ी को लेकर चिंतित हैं?”
+- **उनके चेहरे और शरीर को देखें।** NIA बताती है कि जैसे-जैसे बोलना कठिन होता है, चेहरे के भाव दुख, गुस्सा या झुंझलाहट को शब्दों से ज़्यादा साफ़ दिखा सकते हैं।
+- **चिंता को गंभीरता से लें।** भले ही चिंता किसी गलत तथ्य पर आधारित हो, उनका डर सच्चा है।
 
-## What if they say something that is not true?
+## अगर वे कोई ऐसी बात कहें जो सच न हो, तो क्या करूँ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+बहस न करें। आप शायद जीत नहीं पाएँगे, और व्यक्ति शर्मिंदा या डरा हुआ महसूस कर सकते हैं। इसकी जगह उनके भाव से जुड़ें, फिर धीरे से बात बदलें।
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance सुझाती है कि बात मोड़ने से पहले भावना को स्वीकार करें। जैसे, अगर आपकी माँ कहें कि उन्हें स्कूल से बच्चों को लेने जाना है:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- ऐसे न कहें: “माँ, तुम्हारे बच्चे बड़े हो चुके हैं। यह तो चालीस साल पहले की बात है।”
+- ऐसे कहें: “तुम हमेशा बच्चों का कितना ख़याल रखती थीं। बताओ, उन्हें स्कूल से लेने जाना कैसा लगता था? पहले थोड़ा नाश्ता कर लें?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association भी सलाह देती है कि उन बातों पर बहस न करें जिनसे आप सहमत नहीं हैं। मौका देखकर चलें: अगर कोई गलत विश्वास नुकसानदेह नहीं है, तो उसे रहने दें।
 
-## How does communication change as dementia progresses?
+## जैसे-जैसे डिमेंशिया बढ़ता है, बातचीत कैसे बदलती है?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+ज़रूरतें समय के साथ बदलती हैं, इसलिए अपना तरीका भी बदलें। Alzheimer's Association तीन मोटे चरणों का वर्णन करती है:
 
-| Stage | What helps |
+| चरण | क्या मदद करता है |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| शुरुआती | यह न मानें कि वे बात नहीं कर सकते। उन्हें बातचीत में शामिल करें, सीधे उनसे बात करें, पूछें कि उन्हें किस तरह का सहारा चाहिए, और अगर मदद मिले तो हल्के-फुल्के मज़ाक का इस्तेमाल करें। |
+| बीच का | शांत जगह पर एक-एक से बात करें। धीरे बोलें, आँखों से संपर्क रखें, “हाँ” या “ना” वाले सवाल पूछें, एक-एक कदम में निर्देश दें, और टोकें या सुधारें नहीं। |
+| आखिरी | सामने से पास जाएँ और अपना परिचय दें। इशारों और उँगली से दिखाने को बढ़ावा दें। छूने, आवाज़ों, दृश्यों और गंधों का इस्तेमाल करें। ऐसे कभी बात न करें जैसे वे वहाँ हों ही नहीं। |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+हर व्यक्ति अलग होता है, और एक ही व्यक्ति के कुछ दिन अच्छे और कुछ दिन कठिन हो सकते हैं। किसी लेबल की जगह यह देखें कि वे अभी कैसे हैं, और उसी हिसाब से जवाब दें।
 
-## Can pictures and activities make conversation easier?
+## क्या तस्वीरें और गतिविधियाँ बातचीत आसान बना सकती हैं?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+हाँ। एक साथ देखी जाने वाली तस्वीर दबाव कम करती है और आप दोनों को कुछ देखने और उँगली से दिखाने को देती है।
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **तस्वीर वाले संकेत।** [बातचीत के कार्ड](/games/conversation-cards/) में ऐसी तस्वीरें हैं जिनके साथ खुले सवाल होते हैं, पर उनमें कोई सवालों की झड़ी नहीं होती।
+- **परिवार की तस्वीरें।** [फ़ोटो जोड़ियाँ](/games/photo-pairs/) आपकी चुनी हुई तस्वीरों से एक कोमल मिलान वाला खेल बनाती है, जो अक्सर कहानियाँ जगा देता है।
+- **जानी-पहचानी कहावतें।** [कहावत पूरी करें](/games/finish-the-saying/) में प्रसिद्ध कहावतें हैं, और उसके बाद बात शुरू करने का संकेत।
+- **मिलान वाले खेल पृष्ठभूमि के रूप में।** [तस्वीर जोड़ियाँ](/games/picture-pairs/) बातचीत के दौरान आपके हाथों को कुछ करने को देती है।
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+और जानने के लिए [साथ मिलकर खेल खेलने का तरीका](/caregiving/how-to-play-together/) और [यादों से जुड़ी गतिविधियाँ](/activities/reminiscence/) पढ़ें। मिलने-जुलने और फ़ोन या वीडियो कॉल के लिए हमारी गाइड [मिलना](/activities/visiting/) और [फ़ोन और वीडियो कॉल](/activities/phone-and-video-calls/) पढ़ें।
 
-## What if I lose my patience?
+## अगर मेरा धैर्य टूट जाए तो?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+हर किसी के साथ ऐसा होता है। NIA सुझाती है कि अगर आप झुंझला जाएँ, तो थोड़ा समय लेकर शांत हो जाएँ। दूसरे कमरे में चले जाएँ, कुछ धीमी साँसें लें, और जब मन शांत हो तब लौटें। आप बातचीत फिर से शुरू कर सकते हैं, और आपके शांत मूड का असर व्यक्ति पर भी पड़ सकता है। अगर झुंझलाहट लगातार बनी रहे, तो यह संकेत है कि आपको और सहारे की ज़रूरत है, इसका मतलब यह नहीं कि आप नाकाम हैं। देखभाल करने वालों के लिए अपनी देखभाल पर हमारी गाइड [देखभाल करने वाले की अपनी देखभाल](/caregiving/caregiver-self-care/) में मदद के कुछ ठिकाने बताए गए हैं।

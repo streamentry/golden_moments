@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Пъзели за хора с деменция: мозайки, думи и онлайн пъзели"
+seoTitle: "Пъзели при деменция: мозайки и думи"
+description: "Как да изберете мозайка, пъзел с думи или лесен онлайн пъзел за близък с деменция: размер на парчетата, картини, едър шрифт, игра заедно и кога да го упростите."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Най-добрият пъзел за човек с деменция е този, който той може да завърши с
+  малко помощ и да се радва по пътя. Изберете мозайки с по-малко и по-големи
+  парчета и ясна картина за възрастен, дръжте капака на кутията на видно място
+  и първо подредете парчетата от ръбовете. Думите и кръстословиците са най-
+  удобни с едър шрифт. Лесните онлайн пъзели с четири парчета подхождат на
+  средния етап. Спрете, докато още е приятно.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Изберете според това как протича играта, а не според етап: ако пъзелът изглежда като работа, опитайте с по-малко парчета."
+  - "Големите, здрави парчета и ясната картина с отделни цветни области са по-лесни от дребни парчета и големи небета."
+  - "Картините трябва да са за възрастни. Градини, кухни, коли и животни, а не анимационни герои."
+  - "Смисълът е да играете заедно. Подавайте парчета, подреждайте ръбовете и дръжте капака на кутията пред очите си."
+  - "Думите с едър шрифт и лесните онлайн пъзели с 4 или 9 парчета са безплатни на този сайт."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Колко парчета са най-подходящи за човек с деменция?"
+    a: "Няма едно правилно число. Човек, който е решавал пъзели от 1000 парчета, може все още да се радва на няколко стотин в началото, а други се чувстват най-добре с десетина големи парчета. Ако пъзелът изглежда като работа или предизвиква раздразнение, преминете към по-малко парчета. Нашият онлайн пъзел с картина има 4 или 9 парчета."
+  - q: "Полезни ли са мозайките за хора с деменция?"
+    a: "Мнозина ги харесват, особено ако са обичали пъзели и преди. Пъзелът дава работа на ръцете, ясна цел и картина, за която може да се говори. Не е доказано, че някой пъзел лекува или забавя деменцията, затова ги изберете за удоволствие и компания."
+  - q: "Какво да направя, когато близкият ми вече не може да се справи с мозайка?"
+    a: "Направете я по-малка и поемете повече сами: подавайте по едно парче или оставете за него само последните няколко. Опитайте 4-парчетен онлайн пъзел, подреждане на парчетата по цвят или просто разглеждане на завършената картина заедно."
+  - q: "Подхождат ли кръстословиците и думите за деменция?"
+    a: "Могат да подхождат в ранния етап, ако са с едър шрифт. Търсенето на думи, в които думите са само хоризонтално и вертикално, е по-лесно от онова с диагонални или обратни думи. Прочетете дефинициите или списъка с думи на глас и работете заедно."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Разпилена мозайка на трапезната маса е едно от най-лесните занимания, които можете да споделите. Можете да седите заедно и без много думи, картината дава тема за разговор, а поставянето на последното парче носи радост. Пъзелите обаче трябва да се променят, когато се променя деменцията. Пъзел, който е твърде труден, може да превърне спокойния следобед в мъчение. Тази страница описва как да изберете и подготвите мозайки, пъзели с думи и лесни онлайн пъзели и какво да правите, когато станат трудни.
 
-## Are puzzles good for people with dementia?
+## Полезни ли са пъзелите за хора с деменция?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Мнозина ги харесват, особено тези, които са решавали пъзели и преди. [Фондация „Алцхаймер“ на Америка](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) посочва търсенето на думи, карти и настолни игри сред занимания за ранния етап, а [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) споменава онлайн игрите и пъзелите на таблет като начин да се поддържа ангажираност.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Пъзелите не са лечение. Не е доказано, че някой пъзел забавя или спира деменцията; нашето ръководство за [игри за мозъка и деменция](/brain-health/brain-games/) обяснява какво показват изследванията. Причината да правите пъзел е, че може да бъде приятен и увличащ час заедно. [Алцхаймер Асоциейшън](https://www.alz.org/help-support/caregiving/daily-care/activities) го казва ясно: важно е удоволствието, а не постижението.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Как да изберете мозайка за човек с деменция?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Гледайте какво харесва човекът и how е минал последният пъзел, а не етикет за етап.
 
-### Number of pieces
+### Брой парчета
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Няма правилно число. Човек, който през целия си живот е решавал пъзели, може да се радва на няколко стотин парчета в началото, а друг е най-щастлив с десетина. Практическо правило: ако последният пъзел е бил като работа, изберете такъв с около половината парчета. Ако е бил завършен бързо и са искали още, минете към малко по-голям.
 
-### Piece size and feel
+### Размер и усещане на парчетата
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **По-големите парчета** се виждат по-лесно и се вдигат и обръщат по-лесно.
+- **Дебелите, здрави парчета** стоят на мястото си и издържат на падане.
+- **Матовата повърхност** намалява отблясъците от лампи и прозорци.
+- **Избягвайте дребни парчета**, ако човекът може да сложи нещо в устата си, което може да се случи по-късно при деменция.
 
-### The picture
+### Картината
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Теми за възрастни.** Градини, кухни, стари коли, животни във ферма, крайбрежен град, любим спорт. Не анимационни герои и нищо, което прилича на детска играчка.
+- **Ясни цветни области.** Червен обор, синя лодка и зелено поле са по-лесни от небе, което заема половината пъзел.
+- **Познати и лични.** Снимка на място, където човекът е живял, или на хоби, което е обичал, дава много за разговор. Някои печатници могат да превърнат семейна снимка в мозайка.
 
-## How do you do a puzzle together?
+## Как да решавате пъзел заедно?
 
-Set it up so the person can get straight to the enjoyable part.
+Подгответе нещата така, че човекът да стигне направо до приятната част.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Изберете добро място.** Добра светлина, стол с облегалки за ръцете и маса или поднос, където пъзелът може да остане.
+2. **Подпрете капака на кутията** там, където и двамата да го виждате.
+3. **Обърнете парчетата с лицето нагоре**, преди да започнете.
+4. **Подредете ръбовете** сами или първо наредете рамката и оставете средата на човека.
+5. **Групирайте парчетата по цвят** в няколко плитки подноса или чинии.
+6. **Подавайте по едно парче**, ако купчината е прекалено голяма. „Мисля, че това е част от обора.“
+7. **Говорете за картината,** а не за напредъка. „Това прилича на лодката, която имаше баща ми.“
+8. **Оставете го на масата.** Връщайте се към него няколко дни. Няма за какво да бързате.
+9. **Спрете на добра нота,** след като някое парче е на мястото си, докато още е приятно.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[Националният институт за стареене](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) препоръчва да помогнете на човека да започне, да следите за раздразнение и да го оставите просто да гледа, ако това му доставя повече удоволствие. Да гледа как поставяте парчета и да посочва къде може да отиде някое, също е участие.
 
-## Easy online puzzles
+## Лесни онлайн пъзели
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Пъзелът на таблет има няколко явни предимства: няма изгубени парчета, големи картини, които запълват екрана, и не се налага да освобождавате масата.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Нашият безплатен [пъзел с картина](/games/picture-puzzle/) разделя картината на 4 или 9 парчета. Докоснете две парчета, за да ги размените, докато картината отново стане цяла. Пълната картина остава на екрана като помощ, няма таймер и можете да спрете във всеки момент. Четири парчета подхождат на мнозина на средния етап, когато до човека има някой.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+За още по-прости занимания с картини опитайте [Намери същото](/games/find-the-same/), където докосвате картината, която съвпада с една горе, или [Подреждане заедно](/games/sort-together/), където картините се слагат в кошници, например кухнята или градината.
 
-## Word puzzles: word searches and crosswords
+## Пъзели с думи: търсене на думи и кръстословици
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Пъзелите с думи подхождат на хора, които винаги са ги обичали, обикновено в по-ранен етап на деменцията.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Търсене на думи с едър шрифт.** Нашето безплатно [търсене на думи](/games/word-search/) използва големи букви и само няколко думи, написани хоризонтално и вертикално, никога диагонално или обратно. Играйте на екран или го отпечатайте.
+- **Прочетете списъка на глас.** Единият прочита дума, другият я търси. Достатъчно е и да обиколите само първата буква.
+- **Кръстословици с едър шрифт** от книжки с пъзели могат да работят в ранния етап. Прочетете дефинициите на глас, подайте си молива и попълвайте отговорите заедно. По-добри са лесни тематични кръстословици, отколкото криптограми.
+- **Говорете за думите.** „Градина“ може да отвори десет минути разговор за домати.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+За още хартиени занимания и как да ги отпечатате така, че да се виждат и държат лесно, вижте [безплатни занимания за печат при деменция](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Кои пъзели подхождат на всеки етап?
 
-Stages overlap, and good and hard days are normal.
+Етапите се припокриват, а добрите и трудните дни са нормални.
 
-| Stage | Puzzles that often fit | Your role |
+| Етап | Пъзели, които често подхождат | Вашата роля |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Ранен | Познати мозайки с по-малко парчета от преди, кръстословици и търсене на думи с едър шрифт, онлайн пъзели с 9 парчета | Партньор: оставете човекът да избира, помагайте, когато поиска |
+| Среден | Мозайки с десетина големи парчета, онлайн пъзели с 4 парчета, търсене на думи, прочетено на глас заедно | Подгответе, подредете парчетата, подавайте по едно |
+| Късен | Заедно разглеждане на завършена картина, Намери същото с две картини, държане на няколко големи парчета | Донесете го до човека; вашата компания е занимането |
 
-## When should you make a puzzle easier, or stop?
+## Кога да упростите пъзела или да спрете?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Следете за въздишки, отместване на парчета, повтарящо се „Не мога“ или притеснени погледи. Това са знаци да промените нещо, а не да настоявате.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Направете го по-малък.** По-малко парчета или оставете за човека само последните няколко.
+- **Поемете повече сами** и поканете човека да помогне с лесните части.
+- **Минете към нещо близко:** подреждане на парчетата по цвят, онлайн пъзел с 4 парчета или [оцветяване](/games/coloring/).
+- **Спрете.** Оставете пъзела настрана и изпийте по чаша чай. Можете да се върнете към него друг ден или изобщо да не се връщате.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ако пъзелите започнат да ви напомнят за трудностите, няма нищо нередно да ги оставите. Има много други начини да прекарате добро време заедно; нашите [101 идеи за занимания](/activities/ideas/) са добро място да потърсите.

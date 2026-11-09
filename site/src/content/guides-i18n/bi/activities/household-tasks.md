@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Wok blong haos olsem aktiviti blong ol man wetem dementia"
+seoTitle: "Aktiviti blong haos long dementia: ol wok blong ol de"
+description: "Foldim laondri, sortem sok, setem tebol mo simpol kuk oli save hemi ol aktiviti we oli minim long ol man wetem dementia. Hao blong stat, blong adaptem mo blong keepem i sef."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Ol wok blong haos olsem foldim tawel, sortem sok, setem tebol, klinim kaonta,
+  waterim ol plant mo helpem long simpol kuk oli save givim wan man we i gat
+  dementia wan rial rot blong helpem. Jusum wok we hemi save, brekem i go long
+  wan wan step, rimuvum ol samting we i sap o i hot, mo save se joenem i impoten
+  moa dan mekem i stret.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Ol wok we oli save i save helpem wan man i fili se hemi yusum mo hemi part blong famili, we i ofen impoten moa dan hao gud wok ia i stap."
+  - "Brekem wan wok i go long wan wan step, soem i stap nomo, mo kwaet kwaet tekem ol step we i kam had long hem."
+  - "Lokem away ol naef, ol klin samting mo ol pod blong wasing laondri, mo putum ol cap blong stov o wan oto i stopem gas autometik bifo yufala kuk tugeta."
+  - "Ol tawel we oli fold finis i no nid blong fold bakegen long fesin blong man ia. Sipos yu must mekem wan samting bakegen, mekem i lat, long taem we hemi no lukluk."
+  - "Sipos wok i mekem hemi kros o hemi hard, jenisim i go long wan isi step, traem bakegen wan narafala taem, o jus sidaon wetem hem."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Wanem ol wok blong haos we wan man wetem dementia i stil save helpem?"
+    a: "Plante man oli stil save foldim laondri, matsem sok, sortem naef mo spun, setem tebol, klinim kaonta, dastem, swipim, waterim ol plant o mikis wan bול batta. Jusum ol wok we man ia i bin mekem long past mo mektem wetem wanem we hemi save nao. Long ol las stej, wan moment blong wan wok we i repitim, olsem smutem ol napkin, i save i nafmo."
+  - q: "I sef ka long wan man wetem dementia blong helpem long kicin?"
+    a: "I save sef, sipos yu stap kolsap mo yu setemap gud. Lokem away ol naef, ol klin samting mo eni samting we i hot, mo putum ol cap blong stov o wan oto i stopem gas autometik, mo givim man ia wan sef wok olsem wasim ol vej, mikis samting o setem ol plet. No nating lif hem wetem stov we i ron."
+  - q: "Wanem sapos oli fold ol samting raoud o oli mekem mes?"
+    a: "Lesem i stap. Mening blong hem i blong tekem taem tugeta mo blong man i fili se hemi yusum, no blong gat wan perfet rizalt. Sipos wan samting i must i stret bakegen, wet kasem laet taem mo mekem taem man ia i no lukluk, blong hemi no fili se oli korektem hem."
+  - q: "Wanem sapos hemi refusum blong helpem?"
+    a: "Wan no i save minim se wok ia i fil hard, i konfiusum o i tajem long taem ia. No presem hem. Traem wan isi vezen, askem hemi blong sidaon kompani yu nomo, o askem bakegen long wan naesfala taem blong de."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Plante man we oli gat dementia oli bin ranem wan haos, bringim up famili o kipim wan wok we i stret, long ol yia i pas. Taem yu askem olgeta blong helpem long ol rial wok blong haos, hemi save talem "yu stil part blong haos ia" long wan fasin we i no plante narafala aktiviti oli save mekem. Pej ia i talemaot wanem ol wok we oli save wok gud, hao blong setemap olgeta, hao blong adaptem olgeta taem samting oli jenis, mo hao blong keepem kicin mo rum blong laondri i sef.
 
-## Why do everyday chores work well as activities?
+## Why nao ol wok blong haos oli wok gud olsem aktiviti?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Ol wok oli wok gud from we oli save mo oli gat wan klia rison. Ol Nasonal Institiut blong Eijing (National Institute on Aging) oli lisim wasim ol dis, setem tebol, swip, dastem, sortem mel, foldim laondri mo sortem ol recycle, i stap long ol [de-de aktiviti we ol man wetem Alzheimer i save injoem](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association i talemaot se ol wok olsem setem tebol i save helpem wan man [i fili olsem wan valiu memba blong haos](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Wan wok i gat tu i save mekem wan man i wantem stat. "Yu save helpem mi wetem ol tawel ia?" i isi moa blong seiyes long hem, i kompea long "Yu wantem mekem wan aktiviti?"
 
-## Which household tasks are good to try?
+## Wanem ol wok blong haos we i gud blong traem?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Stat wetem ol wok we man ia i bin mekem long pas, bihaen mekem i metsem long wanem we hemi save nao.
 
-### Laundry and linens
+### Laondri mo ol linen
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Foldim tawel mo ol smol tawel blong wasim fes.** Givim hem wan basket blong ol smol flat samting. Tawel i no hard, from i no gat wan rong fasin blong foldim hem.
+- **Matsem sok.** Putum wan mikis pael long tebol. Sipos ol pea i hard blong faenem, yusum tu o tri kala we i defren gud.
+- **Smutem mo stakem.** Ol napkin, pilo kas o ol tawel blong ol plet oli save smutem i flat mo stakem. Hemi wok gud bihaen, taem foldim hem i kam tumas wan lot blong step.
 
-### Table and kitchen
+### Tebol mo kicin
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Setem tebol.** Setemap wan plet olsem wan modal mo letem man i kopi. Sipos hemi tumas, givim wan samting wan wan taem: "Hia i wan fok blong wan plet."
+- **Sortem spun mo fok.** Mikisim ol klin fok, spun mo naef blong bota long wan tab mo sortem long wan tre we i gat ol ples. Lusum ol sap naef.
+- **Dred ol plet.** Ol plastik plet o ol we i no save brok, wetem wan soft tawel, i wan sef wok.
+- **Klinim tebol o kaonta.** Wan wet kloth mo wan klia sef. Alzheimer's Association i sajestem se sipos wan man i stap rabem tebol wetem han blong hem, givim hem wan kloth, blong fasin ia i kam wan yusful wok.
 
-### Around the house
+### Raoud long haos
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Dastem.** Wan soft dastem mo sam strong sef olsem wan kofi tebol o wan bukseif.
+- **Sortem ol leta.** Givim ol juk leta mo katalog blong sortem long ol pael: kipim, recyclem, redim lataem. Ol bil mo sek we i impoten, mekem oli stap ples narafala.
+- **Sortem recycle.** Ol klin kan, botol mo pepa blong putum long ol defren bin.
+- **Swipim.** Wan smol broom long patio o flo blong kicin, sipos bolens blong man i strong.
+- **Waterim ol plant.** Wan smol, leit watering kan mo sam plant we i isi blong kasem.
 
-### Simple cooking with supervision
+### Simpol kuk wetem sepavisin
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Kuk i save kamaot ol strong mo gud filing. NIA i sajestem se man i save kasem ol kakae, mesurem, mikisim mo tanem, o jus talem narafala man hao blong mekem wan fevret resep blong hem. Ol gud wok oli:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- wasim ol vej o fruit
+- stirim batta o wan kol salad
+- tarem lettis
+- bata toast wetem wan nogud naef
+- putum kuki dو long wan tre
+- putum ol topping long pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Sipos mesurem i kam hard, Alzheimer's Association i sajestem se yu finisim mesurem mo bihaen givim wan narafala step, olsem stirim.
 
-## How do I set up a chore so it goes well?
+## Hao blong setemap wan wok blong i go gud?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Jusum rong taem.** Jusum wan pat blong de we man ia i usualy i kwaet mo i resting. Long planti man hemi long moning.
+2. **Klinim spes.** Wan wok, wan saf, no eni samting narafala long tebol.
+3. **Askem, no ordarem.** "Mi nidim wan hanem wetem ol ia" i gud moa dan "Hemi taem blong foldim laondri."
+4. **Soem fes wan.** Foldim wan tawel i slow, bihaen givim nekis wan. Soem i klia moa dan eksplenem.
+5. **Givim wan step wan wan taem.** Ol plante instraksen wantaem save mekem man i fil hevi. Wet kasem wan step i finis bifo yu talem nekis wan.
+6. **Wok long sVaet.** Mekem sem wok long saed blong hem. Hemi fili olsem kompani, no olsem yu stap lukaftarem hem.
+7. **Toktok long wok, no long rizalt.** "Ol ia i soft tumas" o "Talem mi hao yu save lukaftarem linen kabod blong yu" i invaetem toktok we i no testem eni man.
 
-## How do I adapt chores as abilities change?
+## Hao blong adaptem ol wok taem abiliti i jenis?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Abiliti i jenis long taem mo i save jenis long ded blong ded. Alzheimer's Association i sajestem blong mekem moa isi mo repitim wok taem sik i progres.
 
-| If this has become hard | Try this instead |
+| Sipos dis i kam hard | Traem dis instead |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Foldim bigfala sit | Foldim smol tawel o smutem napkin |
+| Setemap fulfala tebol | Putum wan napkin long ijis seat |
+| Sortem leta long ol kaetgori | Stakem ol envelop long wan pael |
+| Folem wan resep | Stirim, o lukluk mo teistem taem yu stap kukum |
+| Swipim wan fulfala flo | Klinim wan smol tebol |
+| Mekem wok ia we ... no | Sidaon wetem yu mo kipim yu kompani taem yu stap mekem hem |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Lukluk i kaonta tu. NIA i talemaot se sam man oli jus injoem lukluk, mo dat i wan gud rod blong joenem.
 
-## How do I keep household tasks safe?
+## Hao blong keepem ol wok blong haos i sef?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Sefti i fas, nemo long kicin. Ol [tips blong sefti long haos blong NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) oli inkludum:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Lokem o rimuvum ol klin samting, inkludum ol pod blong wasing laondri, we oli save luk olsem kenkin.
+- Putum ol naef, sisa mo ol pauwa tul long wan rum we i lokaed.
+- Putum ol sefti nob mo wan autometik switch blong stopem gas long stov.
+- Putum ol sain "Stop" o "Hot tumas" klosap long ven, tosta mo ayon, long ples we oli no save kasem faea.
+- Setem wota hit long 120°F (49°C) blong lowerem risk blong bon.
+- Rimuvum ol fruit we oli fo mo ol magnet we oli luk olsem kakae, from oli save luk olsem oli ken kakae.
 
-A few more practical habits help:
+Sam moa praktikal habit oli save helpem:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Stap long rum taem stov, ven o wan sap tul i yusum.
+- Yusum ol dis we i no save brok blong dred mo blong setemap tebol.
+- Kipim ol flo i drae mo i klin taem yu stap swipim o mopim.
+- Sipos man ia i bin yusum tul long pas, Alzheimer's Association i sajestem blong rimuvum ol samting we i save hemi danger long wokshop, blong wan sef wok, olsem sanding wan pis wud, i save stil kasem injoy.
 
-## What if they do it "wrong"?
+## Wanem sapos hemi mekem hem "rong"?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lesem hem. Wan tawel we i fold long tri ples i no sem olsem tawel we i fold long tu ples, bat hemi stil wan tawel we i fold finis. Alzheimer's Association i talem klia se: wanem we i impoten hemi taem we yufala stap tugeta mo man ia i fil se hemi yusful, no se ol tawel oli fold stret o nogat. Sipos wan samting i must i stret bakegen, wet kasem laet taem mo mekem taem hemi no lukluk.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Korektem long taem we samting i stap hapen i save mekem wan gud wok i kam wan rimainda blong wanem we i lus finis. "Tangkyu, hemi wan big help" i olwe i rait samting blong talem.
 
-## When should we stop?
+## Wanem taem blong stop?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Stopem o jenisim wok taem yu lukim sain blong kros, taed o hemi lus intres. Stop bifo i wan gud risolt, no wan fael. Yu save:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- jenisim i go long wan isi step
+- tanem i go long wan samting we i restem, olsem muzik o wan kap kofi
+- traem bakegen lataem o long narafala de
+- jus sidaon tugeta
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Sipos man ia i talem no, no presem hem. Lukluk [wanem blong duim taem hemi talem no](/caregiving/when-they-say-no/) blong ol isi fasin blong ansa.
 
-## Low-effort extras for a quieter moment
+## Ol isi aktiviti we i no nid planti strong long taem we i kaet
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Taem ol fizik wok oli no posibol, sotim mo matsem i save stil mekem sitdaon. [Sort Together](/games/sort-together/) i letem yu tapem ol pikja i go long kicin o garen basket, mo [Picture Pairs](/games/picture-pairs/) i wan isi matsem gem wetem bik pikja mo no taem. [Conversation Cards](/games/conversation-cards/) i gat ol open kwestin abaot haos mo famili we i mekem pea gud wetem kofi bihaen wok i finis.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Blong help blong putum ol wok long de, lukluk long gaed blong [wan kwaet daily routine](/activities/daily-routine/). Blong moa aidia bsaed long stej, lukluk [middle-stage activities](/activities/middle-stage/).

@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzle blong Dimensia: Jigsaw, Wol mo Intaniet"
+seoTitle: "Puzzle long Dimensia: Jigsaw mo Wol Puzzle"
+description: "Hao blong jusum jigsaw, wol puzzle mo ol puzzle long intaniet blong man we i gat dimensia: saes blong pis, piksa, bigfala raetin, mo taem blong mekem i isi."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Gud puzzle blong man we i gat dimensia i wan we hem i save finisim wetem smol
+  help mo i enjoyem long taem we hem i wok. Jusum jigsaw we i gat fewfala
+  bigfala pis mo wan klia piksa blong laef long ples, kipim bokis piksa long ae,
+  mo sotem ol pis long edj fastfala. Wol searches mo crosswords i gud moa long
+  raetin we i bigfala. Ol isi puzzle long intaniet we i gat 4 pis i fitim midol
+  stej. Stopem taem i stil fun.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Jusum long hao i go, nating long stej label: sipos puzzle i olsem wok, traem wan we i gat fewfala pis."
+  - "Bigfala, strong pis mo wan klia piksa we i gat ol eria we kala i diffrent i isi moa long ol smol pis mo bigfala skae."
+  - "Piksa blong ol adalt i impoten. Gaden, kitchen, ka mo ol animol, nating ol cartoon."
+  - "Dufala wok wetem i minim mo. Givim ol pis, sotem ol edj, kipim bokis lid long ae."
+  - "Wol searches long bigfala raetin mo ol isi puzzle long intaniet wetem 4 o 9 pis oli fri long saet ia."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Hamas pis blong puzzle i gud long man we i gat dimensia?"
+    a: "Nating wan namba i stret. Man we i bin mekem puzzle wetem 1,000 pis i save enjoyem sam handred pis long fastfala stej, be ol narafala oli gud moa long wan dosin bigfala pis. Sipos puzzle i olsem wok o i mekem hem i kros, jusum ol fewfala pis. Puzzle long intaniet blong mifala i gat 4 o 9 pis."
+  - q: "Jigsaw i gud long man we i gat dimensia?"
+    a: "Plante man oli enjoyem, espeseli sipos oli bin laekem puzzle bifo. Puzzle i givim han wan wok, wan klia gol mo wan piksa blong toktok long hem. Nating puzzle i bin sowem se hem i save tritim o slowem dimensia, so jusum olgeta blong enjoyment mo kampani."
+  - q: "Mi save duim wanem sipos man i no save moa mekem jigsaw?"
+    a: "Mekem i smol moa mo mekem plante long hem yu wan: givim wan pis long wan taem, o livim ol las fyu pis blong hem. Traem wan puzzle long intaniet wetem 4 pis, sotem ol pis long kala, o jas lukluk long fineshed piksa togeta."
+  - q: "Crosswords mo wol searches i fitim man we i gat dimensia?"
+    a: "Oli save fitim long fastfala stej, long bigfala raetin. Wol searches we ol wod oli go long saed mo long ples i isi moa long ol we i gat ol wod i go long kona o i go bak. Ridim ol klu o lis blong wod long hae vois mo wok togeta."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Wan jigsaw we i stap long tebol blong kakae i wan long ol isi aktiviti blong sherem. Yu save sidaon togeta nating yu toktok, pija i givim yu samting blong toktok long hem, mo taem yu putum las pis i gud long fil. Be ol puzzle i mas jenisim taem dimensia i jenisim. Puzzle we i hard tumas i save mekem wan kwaet aftanun i kam wan we i kros. Pej ia i sowem hao blong jusum mo setemap jigsaw, wol puzzle mo ol isi puzzle long intaniet, mo wanem blong mekem taem oli kam hard.
 
-## Are puzzles good for people with dementia?
+## Ar puzzle i gud long man we i gat dimensia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Plante man oli enjoyem olgeta, espeseli ol we oli bin mekem puzzle bifo. Ol [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) oli lukaotem wol finds, kad gem mo bodi gem olsem ol aktiviti blong fastfala stej, mo [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i talem ol gem long intaniet mo ol puzzle long tablet olsem wan rod blong stap engaged.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzle i no wan trit. Nating wan puzzle i bin sowem se hem i save slowem o stopem dimensia; pej blong mifala long [brain games mo dimensia](/brain-health/brain-games/) i eksplenem ol risej. Rison blong mekem wan puzzle hemi blong hem i save kamaot wan gud, i kolsap olgeta awa togeta. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i talemaot long wan fasin: fokes long enjoyment, nating long archievment.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Hao blong jusum wan jigsaw puzzle blong man we i gat dimensia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Jusum long wanem man ia i enjoyem mo hao last puzzle i bin goro, nating long wan stej label.
 
-### Number of pieces
+### Namba blong pis
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+I no gat wan stret namba. Man we i bin laekem puzzle long laef blong hem i save enjoyem sam handred pis long fastfala stej, be narafala i gat moa gud long wan dosin. Wan gud rul: sipos last puzzle i olsem wok, jusum wan we i gat abaot haf blong namba ia. Sipos hem i finis kwik mo oli wantem moa, go antap smol.
 
-### Piece size and feel
+### Saes blong pis mo fil blong hem
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Bigfala pis** i isi blong luk, kisim mo tanem.
+- **Tik, strong pis** i stap stret mo i no bruk sipos i foldaon.
+- **Matte finish** i redius glea anda long lam o windo.
+- **Mas no yusum smol pis** sipos man i save putum ol samting long maot, we i save hepen bihaen long dimensia.
 
-### The picture
+### Piksa
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Adalt sabjek.** Gaden, kitchen, ol old ka, animol long fam, wan siti long see, wan fevret sport. Nating cartoon o samting we i lukluk olsem toy blong pikinini.
+- **Ol eria blong kala we i diffrent.** Wan red barn, wan blu bot mo wan grin fil i isi moa long wan skae we i kavarem haf blong puzzle.
+- **Famla mo personal.** Wan piksa blong wan ples we hem i bin stap long hem o wan hobi we hem i bin laekem i givim yu plante samting blong toktok. Sam print shop oli save tanem wan famli foto i kam wan jigsaw.
 
-## How do you do a puzzle together?
+## Hao blong mekem wan puzzle togeta?
 
-Set it up so the person can get straight to the enjoyable part.
+Setemap i olsem man i save go kwik i go long ol samting we i enjoyem.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Jusum wan gud ples.** Gud laet, wan jea we i gat ol han, mo wan tebol o tre we puzzle i save stap long hem.
+2. **Putum bokis lid** long ples we yufala i save luk long hem.
+3. **Tanem ol pis i go antap** bifo yu start.
+4. **Sotem ol edj** yu wan, o mekem border fastfala mo lusim midol blong hem.
+5. **Grupim ol pis long kala** i go long sam sek plet o tre.
+6. **Givim wan pis long wan taem** sipos paelo i tumas. "Mi tingting disfala i pat blong barn."
+7. **Toktok long piksa,** no long progres. "Ia i olsem bot we papa blong mi i bin gat."
+8. **Lusim i stap.** Kambak long hem long sam dei. No gat hari.
+9. **Stopem long wan gud taem,** bihaen wan pis i go insaed, taem i stil fil gud.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i advaesem blong helpem man blong statem, lukaotem sipos hem i kros, mo letem hem i jes lukluk sipos hem i enjoyem moa. Lukluk yu putum ol pis, mo poentem we wan pis i save go, hemi stil wan fasin blong joenem.
 
-## Easy online puzzles
+## Isi puzzle long intaniet
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Wan puzzle long tablet i gat sam gud samting: i no gat ol pis i lus, bigfala piksa we i fulumap skrin, mo yu no nid klinim tebol.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Fri [Picture puzzle](/games/picture-puzzle/) blong mifala i katem wan piksa i go long 4 o 9 pis. Tapem tu pis blong switjem tumas kasem piksa i kam hol. Fulpiksa i stap long skrin olsem gaed, i no gat taem blong waj, mo yu save stopem long eni pemt. Fo pis i fitim plante man long midol stej we wan man i stap klosap long hem.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Blong aktiviti piksa we i isi moa, traem [Find the same](/games/find-the-same/), we yu tapem piksa we i matj wan long topsaed, o [Sort together](/games/sort-together/), we ol piksa i go long ol basket olsem kitchen o gaden.
 
-## Word puzzles: word searches and crosswords
+## Wol puzzle: wol searches mo crosswords
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Wol puzzle i fitim ol man we oli bin laekem olgeta, usually long fastfala dimensia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Wol search long bigfala raetin.** Fri [Word search](/games/word-search/) blong mifala i yusum bigfala leta mo fewfala wod nomo, we oli go long saed mo i go long ples, nating long kona o i go bak. Yu save pleim long skrin o prin i kam.
+- **Ridim lis long hae vois.** Wan man i ridim wan wod, narafala i lukaotem. Sekol nomo fastfala leta i gud.
+- **Bigfala raetin crosswords** long ol puzzle buk i save wok long fastfala stej. Ridim ol klu long hae vois, sherem pen mo raetem ol ansa togeta. Ol isi crosswords we oli gat wan tema i gud moa long ol we oli hard.
+- **Toktok long ol wod.** "Gaden" i save kasem ten minit blong toktok long tomato.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Blong moa ol pepa aktiviti mo hao blong prinem olgeta blong oli isi blong luk mo holem, luk [free printable dementia activities](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Wanem puzzle i fitim long ēj stej?
 
-Stages overlap, and good and hard days are normal.
+Ol stej oli joen wan wan, mo ol gud dei mo ol hard dei i normal.
 
-| Stage | Puzzles that often fit | Your role |
+| Stej | Puzzle we oftn i fitim | Rol blong yu |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Fastfala | Ol famla jigsaw we i gat fewfala pis long bifo, bigfala raetin crosswords mo wol searches, 9-pis puzzle long intaniet | Pat: letem hem jusum, helpem sipos hem askem |
+| Midol | Jigsaw wetem wan dosin bigfala pis, 4-pis puzzle long intaniet, wol search we ol ridim long hae vois togeta | Setemap, sotem ol pis, givim wan wan long taem |
+| Las | Lukluk fineshed piksa togeta, Find the same wetem tu piksa, holem fewfala bigfala pis | Karim i go long hem; yu kampani i wan aktiviti |
 
-## When should you make a puzzle easier, or stop?
+## Wanem taem blong mekem puzzle i isi, o stopem?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Lukaotem sipos hem i kasem win, i pusum ol pis i go, i talem "mi no save" i kambak, o i lukluk wari. Ol ia i saen blong jenisim samting, no blong pushum i go moa.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Mekem i smol.** Fewfala pis, o lusim ol las fyu pis blong hem nomo.
+- **Duim moa long hem yu wan** mo askem hem blong helpem long ol isi pat.
+- **Jenis i go long samting klosap:** sotem ol pis long kala, wan 4-pis puzzle long intaniet, o [coloring](/games/coloring/).
+- **Stopem.** Putum i go long saed mo dringim wan kap tea. Yu save kambak long narafala dei, o no kambak olgeta.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Sipos ol puzzle i statem fil olsem wan rimaenda blong ol samting we i hard, hemi oraet blong lego olgeta. I gat plante narafala rod blong spenem gud taem togeta; [101 activity ideas](/activities/ideas/) blong mifala i wan gud ples blong lukluk.

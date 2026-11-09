@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Перарывістае голаданне і дэменцыя: што кажуць даследаванні"
+seoTitle: "Перарывістае голаданне і дэменцыя: што кажуць даследаванні"
+description: "Доказаў пра перарывістае голаданне і дэменцыю ў людзей мала, і яны пачатковыя. Даведайцеся пра рызыкі для пажылых людзей і чаму для тых, хто жыве з дэменцыяй, важней есці дастаткова."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Добрых доказаў таго, што перарывістае голаданне прадухіляе дэменцыю або
+  запавольвае яе, няма. Большая частка даследаванняў праведзена на жывёлах, а
+  даследаванні сярод пажылых людзей маленькія і кароткія. Голаданне можа быць
+  небяспечным для пажылых: страта вагі і мышачнай масы, нізкі цукар у крыві
+  пры некаторых лекавых сродках ад дыябету, адводненне і падзенні. Для людзей,
+  якія жывуць з дэменцыяй, звычайна больш важна, каб яны елі і пілі дастаткова.
+  Спачатку параіцеся з урачом.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Нацыянальны інстытут старэння (NIA, ЗША) кажа, што доказаў недастаткова, каб рэкамендаваць любую дыету з голаданнем або абмежаваннем калорый, асабліва пажылым людзям."
+  - "Большая частка даследаванняў голадання і старэння праведзена на жывёлах, і гэтыя вынікі не абавязкова адносяцца да людзей."
+  - "Магчымыя рызыкі для пажылых: ненаўмысная страта вагі, страта мышачнай масы, нізкі цукар у крыві пры некаторых лекавых сродках ад дыябету, адводненне, галавакружэнне і падзенні."
+  - "Людзі, якія жывуць з дэменцыяй, часта забываюць есці і піць або думаюць, што ўжо елі ці пілі. Дапамагчы ім есці і піць дастаткова звычайна значна важней, чым тое, калі яны ядуць."
+  - "Не выкарыстоўвайце голаданне для чалавека, які жыве з дэменцыяй. Перад любымі зменамі ў харчаванні параіцеся з урачом або дыетолагам."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Ці прадухіляе перарывістае голаданне хваробу Альцгеймера?"
+    a: "Добрых доказаў таго, што прадухіляе, няма. Большая частка даследаванняў праведзена на жывёлах, а выпрабаванні на людзях у асноўным былі кароткімі, з маладзейшымі або з лішняй вагой удзельнікамі і засяроджваліся на страце вагі. Нацыянальны інстытут старэння кажа, што доказаў недастаткова, каб рэкамендаваць дыеты з голаданнем шырокай публіцы."
+  - q: "Ці бяспечнае перарывістае голаданне для пажылых людзей?"
+    a: "Магчыма, не. Голаданне можа прывесці да ненаўмысnай страты вагі і мышачнай масы, адводнення, галавакружэння і падзенняў, а ў людзей, якія прымаюць інсулін або некаторыя іншыя лекі ад дыябету, — да небяспечна нізкага цукру ў крыві. Клініка Mayo адзначае, што яно можа не падыходзіць людзям з высокай рызыкай страты костleast касцявой тканкі і падзенняў. Перш чым пачынаць, параіцеся з урачом."
+  - q: "Ці варта чалавеку з дэменцыяй паспрабаваць голаданне?"
+    a: "Не. Людзі, якія жывуць з дэменцыяй, часта маюць цяжкасці з тым, каб есці і піць дастаткова, а дрэннае харчаванне можа павялічыць паводніцкія праявы і прывесці да страты вагі. Голаданне дадае рызыку без даказанай карысці. Лепш сачыце за тым, каб былі рэгулярныя прыёмы ежы, перакусы, якія чалавеку падабаюцца, і дастатковая колькасць пітва."
+  - q: "Якія прыкметы таго, што чалавек з дэменцыяй есць або п'е недастаткова?"
+    a: "Звярніце ўвагу на страту вагі, вопратка стала свабодней, стомленасць, слабасць, запор або адмову ад ежы. Прыкметы адводнення, якія называе Нацыянальны інстытут старэння, — сухасць у роце, галавакружэнне, хуткі пульс і галюцынацыі. Калі вы заўважылі такое, распавядзіце пра гэта яго ўрачу."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Перарывістае голаданне, напрыклад, ёсць толькі ў межах васьмі гадзін або рэзка абмяжоўваць калорыі два дні на тыдзень, шмат пра яго пішуць, і некаторыя артыкулы кажуць, што яно можа абараняць мозг. Калі вы пажылы чалавек або даглядаеце таго, хто жыве з дэменцыяй, вось што на самой справе паказваюць даследаванні і чаму варта быць асцярожнымі.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Гэта агульная інфармацыя, а не медыцынская параднасць. Не пачынайце голадаць і не мяняйце харчаванне таго, пра каго вы клапоціцеся, без размовы з урачом або дыетолагам. Глядзіце наша [медыцынскае застяражэнне](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Ці прадухіляе перарывістае голаданне дэменцыю?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Добрых доказаў таго, што перарывістае голаданне прадухіляе дэменцыю або запавольвае яе, няма. Нацыянальны інстытут старэння (NIA) кажа, што доказаў недастаткова, каб рэкамендаваць любы від дыеты з абмежаваннем калорый або голаданнем, і што трэба яшчэ шмат даведацца пра іх эфектыўнасць і бяспечнасць, асабліва сярод пажылых людзей ([NIA пра абмежаванне калорый і голаданне](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Чаму доказаў так мала
 
-The NIA gives several reasons:
+NIA называе некалькі прычын:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Большая частка даследаванняў праведзена на жывёлах.** Даследаванні на чарвях, мухах, мышах і малпах далі цікавыя вынікі, але яны не абавязкова тычацца людзей. Нават на жывёлах вынікі неадназначныя: у некаторых лініях мышэй абмежаванне калорый скарачала жыццё.
+- **Выпрабаванні на людзях былі кароткімі.** Большасць доўжылася некалькі тыдняў або месяцаў.
+- **Большасць выпрабаванняў на людзях была пра страту вагі** у людзей з лішняй вагой, а не пра памяць або дэменцыю.
+- **Пажылыя людзі рэдка ўдзельнічаюць.** Многія выпрабаванні браліся людзей ва ўзросце да 60 гадоў.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Сістэматычны агляд 2026 года спецыяльна разглядаў перарывістае голаданне ў дарослых ва ўзросце 60 гадоў і старэй. Ён выявіў, што доказаў у гэтай узроставай групе па-ранейшаму мала: маленькія даследаванні, кароткі перыяд назірання і розныя метады. Вынікі пра мысленне і памяць паходзілі з асобных даследаванняў, а не з агульных вынікаў выпрабаванняў. Агляд таксама адзначыў, што некаторыя даследаванні звязвалі вельмі кароткія вокны харчавання або доўгія галадоўкі з горшымі вынікамі, і аўтары заклікалі пажылых людзей быць асцярожнымі ([агляд 2026 года ў Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Некаторыя navukowcy думаюць, што пераход арганізма да спальвання тлушчу падчас голаданя можа ўплываць на мозг, але гэта пакуль толькі гіпотэза, якую вывучаюць. NIA адзначае, што навука тут няпэўная.
 
-## What are the risks of fasting for older adults?
+## Якія рызыкі голадання для пажылых людзей?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Для многіх пажылых людзей голаданне — не бяспечны эксперымент. Магчымыя рызыкі:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Ненаўмысная страта вагі.** Ядзенне менш, чым патрэбна арганізму, можа прывесці да страты вагі і меншай мышачнай сілы, а чалавек стане слабейшым.
+- **Страта мышачнай і касцявой масы.** У двухгадовым выпрабаванні абмежавання калорый, якое падтрымлівала NIA, у маладых і людзей сярэдняга ўзросту было невялікае зніжэнне шчыльнасці косцяў і цягліцавай масы.
+- **Нізкі цукар у крыві пры лекавых сродках ад дыябету.** Людзі, якія прымаюць інсулін або некаторыя іншыя лекі ад дыябету, могуць мець занадта нізкі цукар у крыві, калі прапускаюць або адкладаюць прыём ежы, паводле [Нацыянальнага інстытута дыябету і хвароб страўніка і нырак](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Нізкі цукар можа выклікаць галавакружэнне, блытаніну і раздражнёнасць.
+- **Адводненне.** Калі разам з ежай прапускаюць і піццё, чалавек можа абязводзіцца.
+- **Галавакружэнне і падзенні.** Клініка Mayo адзначае, што перарывістае голаданне можа выклікаць вялікую стомленасць і галавакружэнне, і што яно можа не быць здаровым рэжымам для людзей з высокай рызыкай страты костak касцявой тканкі і падзенняў ([Клініка Mayo пра перарывістае голаданне](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Іншыя эфекты.** Клініка Mayo таксама называе галаўныя болі, перапады настрою і запор. Яна адзначае, што ёсць некаторыя дадзеныя: 16-гадзінная галадоўка з 8-гадзінным вокнам харчавання можа павялічваць рызыку хвароб сэрца ў параўнанні з іншымі вокнамі харчавання. Гэтыя дадзеныя пакуль не канчатковыя.
 
-## Why is eating enough the bigger concern with dementia?
+## Чаму дастатковае харчаванне — больш важная праблема пры дэменцыі?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Для людзей, якія жывуць з дэменцыяй, звычайна праблема ў тым, каб атрымліваць **дастаткова** ежы і пітва, а не занадта шмат. Асацыяцыя Alzheimer's (Alzheimer's Association) тлумачыць, што людзі на сярэдняй і позняй стадыі могуць адчуваць перагрузку ад выбару ежы, забывацца ёсць або думаць, што ўжо паелі. Яна дадае, што дрэннае харчаванне можа павялічыць паводніцкія праявы і прывесці да страты вагі ([Asociacyja Alzheimer's пра ежу і харчаванне](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society адзначае, што недастатковае харчаванне можа прывесці да страты вагі, меншай мышачнай сілы, стомленасці і слабасці, і чалавек стане слабейшым і горш будзе паправіцца пасля інфекцый ([Alzheimer's Society пра апетыт](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Таму голаданне не лепшая ідэя для таго, хто жыве з дэменцыяй.** Прапушчаны прыём ежы лёгка становіцца пастаянна прапушчаным. Любыя змены ў харчаванні такога чалавека варта ўзгадняць з яго ўрачом або дыетолагам.
 
-## What are the warning signs of poor eating or drinking?
+## Якія трывожныя прыкметы дрэннага харчавання або пітва?
 
-Watch for:
+Звяртайце ўвагу на:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Страту вагі** або вопратку, якая стала свабодней.
+- **Пакідання ежы або адмову ад яе**, або ежа доўга трымаецца ў роце.
+- **Стомленасць або слабасць.**
+- **Запор**, які можа быць звязаны з харчаваннем і адводненнем.
+- **Прыкметы адводнення.** NIA называе сухасць у роце, галавакружэнне, хуткі пульс і галюцынацыі. Іх таксама можа выклікаць сама дэменцыя ([NIA пра распаўсюджаныя медыцынскія праблемы](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Кепскі апетыт можа мець розныя прычыны: балючыя зубы або дрэнна сядзячыя пратэзы, новыя лекі, дэпрэсія, запор, менш руху або змены ў смаку і ў нюху. Распавядзіце ўрачу пра любую з гэтых прыкмет. Ён можа знайсці прычыну і параіць дыетолага або харчовыя дабаўкі.
 
-## How can you help someone eat and drink enough?
+## Як дапамагчы чалавеку есці і піць дастаткова?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Прапаноўвайце невялікія прыёмы ежы і перакусы часцей**, а не тры вялікія прыёмы.
+- **Гатуйце любімыя стравы** і будзьце гнуткімі, бо смакі могуць мяняцца. Салодкая ежа можа быць прыемнай, калі апетыт слабы; спытайце ў ўрача, ці ёсць медыцынскія прычыны абмежаваць цукар.
+- **Trzymajcie піццё пад рукой** і прапаноўвайце невялікія кубачкі працягам дня. Супы, садавіна, смузі і малочныя кактэйлі таксама залічваюцца.
+- **Елце разам**, калі можаце. Прыём ежы — гэта магчымасць пабыць разам, а не справа, якую трэба зрабіць хутка.
+- **Пашырайце ежу рукамі**, напрыклад, бутэрброды, дольчыкі садавіны або кавалачкі курыцы, калі карыстацца сталовымі прыборамі стала цяжка.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+У нашым [дыетычным даведніку](/brain-health/diet/) ёсць больш ідэй для прыёмаў ежы. Супольная падрыхтоўка ежы таксама можа быць прыемным сумесным занятак; глядзіце [хатнія справы](/activities/household-tasks/).
 
-## Talk with a doctor
+## Пагутарыце з урачом
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Перш чым самому пачынаць які-небудзь план голадання, пагутарыце з урачом або дыетолагам, асабліва калі вы прымаеце лекі ад дыябету або ціску, нядаўна схуднелі або падалі. Калі ж вы даглядаеце чалавека, які жыве з дэменцыяй, спытайце ў яго ўрача, колькі ежы і пітва яму патрэбна на дзень, а не пра голаданне.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Звярніцеся па неадкладную медыцынскую дапамогу пры раптоўнай блытаніне, непрытомнасці або прыкметах вельмі нізкага цукру ў крыві, якія хутка не праходзяць.

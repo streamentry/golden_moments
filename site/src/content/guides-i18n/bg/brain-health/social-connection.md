@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Социални връзки, самота и деменция"
+seoTitle: "Самота, социална изолация и риск от деменция"
+description: "Как самотата и социалната изолация са свързани с риска от деменция, какво казва предупреждението на американския Surgeon General и прости начини да поддържате връзка заедно."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Изследванията свързват социалната изолация и самотата в по-напреднала възраст с по-висок риск от деменция.
+  Комисията на The Lancet от 2024 г. оценява, че изолацията е причина за около 5% от случаите, но част от
+  връзката може да се дължи на това, че ранната деменция сама по себе си води до отдръпване. Поддържането на
+  контакт, общите занимания и помощта при слуха подкрепят връзката с другите. За хората, живеещи с деменция,
+  общите занимания са важни за удоволствието и качеството на живот.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Комисията на The Lancet посочва социалната изолация в по-напреднала възраст като един от 14 рискови фактора за деменция, които могат да се повлияят, с дял от около 5% от случаите."
+  - "Предупреждението на американския Surgeon General от 2023 г. свързва хроничната самота и изолация с около 50% по-висок риск от деменция при възрастните хора."
+  - "Повечето от тези данни идват от наблюдателни проучвания, а ранната деменция сама по себе си може да накара хората да се отдръпнат."
+  - "Проблемите със слуха и зрението, живеенето сам и полагането на грижи увеличават риска от изолация."
+  - "За хората, живеещи с деменция, приятните общи занимания подкрепят качеството на живот; целта е връзката, а не представянето."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Самотата причинява ли деменция?"
+    a: "Това не е доказано. Много проучвания свързват самотата и изолацията с по-висок риск от деменция, но ранните промени в мозъка могат също да накарат хората да се отдалечат от другите. Връзката с хората има и много други ползи за настроението и здравето, затова си струва да се подкрепя така или иначе."
+  - q: "Каква е разликата между самотата и социалната изолация?"
+    a: "Социалната изолация означава да имате малко хора, с които редовно общувате. Самотата е болезненото чувство, че сте сам или откъснат от другите. Може да живеете сам и да не се чувствате самотен, или да се чувствате самотен сред много хора."
+  - q: "Как мога да помогна на родител с деменция да поддържа връзка с хората?"
+    a: "Добре работи кратък, но редовен контакт. Опитайте с определено седмично обаждане или видеоразговор, общо занимание на кухненската маса, среща в клуб за памет или посещение с домашен любимец или внуче. Дръжте групите малки и спокойни и оставете човекът сам да определя темпото."
+  - q: "Къде мога да намеря местна помощ за възрастен човек, който е изолиран?"
+    a: "Можете да се обърнете към дирекция „Социално подпомагане“ в общината си, която координира социалните услуги и програмите за възрастни хора в общността. Там могат да ви насочат към дневни центрове, домашни грижи и транспорт. Можете да потърсите и местен клуб на пенсионера."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Хората са създадени за общуване и това не се променя с възрастта. Изследванията свързват самотата и социалната изолация в по-напреднала възраст с по-висок риск от деменция, както и със сърдечни болести и депресия. Засега изследванията не могат да кажат колко от тази връзка е причинно-следствена. Тази страница обобщава какво показват данните, практични начини да поддържате връзка и защо общите занимания са толкова важни за хората, които вече живеят с деменция.
 
-## Are loneliness and isolation linked with dementia?
+## Свързани ли са самотата и изолацията с деменцията?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Да, много проучвания ги свързват, но посоката на връзката не е напълно ясна. [Комисията на The Lancet от 2024 г.](https://doi.org/10.1016/S0140-6736(24)01296-0) посочва социалната изолация в по-напреднала възраст като един от 14 рискови фактора, които могат да се повлияят. [Обобщението на UCL за доклада](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) я оценява на около 5% от случаите на деменция в света.
 
-What the evidence shows:
+Какво показват данните:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **По-малко контакт, по-висок риск.** Комисията описва два прегледа, които свързват по-рядкия социален контакт с по-висок риск от деменция. Единият показва около 57% по-висок риск, а другият около 18%.
+- **Самотата също.** Самотата, усещането че сте откъснат от другите, също е свързана с по-висок риск от деменция в няколко прегледа.
+- **Становището на Surgeon General.** През май 2023 г. американският главен медицински служител (Surgeon General) публикува [предупреждение за самотата и изолацията](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). В него се казва, че хроничната самота и изолация могат да повишат риска от деменция при възрастните хора с около 50%. Там се посочва и връзка на слабите социални контакти с 29% по-висок риск от сърдечни болести и 32% по-висок риск от инсулт.
+- **Колко е разпространено.** [Доклад на National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) установява, че около 24% от американците на 65 и повече години, живеещи в общността, са социално изолирани.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Важно предупреждение: Комисията на The Lancet отбелязва, че хората може да намалят социалните си занимания в ранния период на деменция, преди тя да бъде диагностицирана. Това означава, че част от връзката може да се дължи на деменцията, която води до отдръпване, а не само на отдръпването, което повишава риска. Почти всички тези данни идват от наблюдателни проучвания.
 
-## What is the difference between loneliness and isolation?
+## Каква е разликата между самотата и изолацията?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Националният институт по стареене (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) обяснява така. **Социалната изолация** означава да имате малко социални контакти или малко хора, с които общувате редовно. **Самотата** е тягостното усещане, че сте сам или отделен от другите. Човек може да живее сам и да е доволен, а друг може да се чувства самотен в пълна стая.
 
-The NIA lists factors that raise the risk of both:
+NIA изброява фактори, които повишават риска и от двете:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Проблеми със слуха или зрението
+- Трудности при придвижване или липса на транспорт
+- Живот сам или голяма загуба, например смъртта на съпруг или съпруга или пенсионирането
+- Промени в паметта или мисленето
+- Грижи за близък, който е болен
+- Финансови грижи или езикови бариери
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Слухът е особено важен. NIA отбелязва, че хората, които зле чуват, могат да се отдръпнат, защото разговорът става изморителен или неловък. [Нашето ръководство за слуха и здравето на мозъка](/brain-health/hearing/) обхваща проверките на слуха и слуховите апарати без рецепта.
 
-## Practical ways to stay connected
+## Практични начини да поддържате връзка
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA предлага различни идеи. Изберете една или две, които ви подхождат:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Планирайте редовен контакт.** Определено време всеки ден или седмица за обаждане, съобщение, имейл или картичка към семейството, приятелите или съседите.
+- **Използвайте видеоразговори или смарт колонки.** Ако технологията ви е нова, много обществени библиотеки и центрове в общността предлагат курсове. Вижте [нашето ръководство за телефонни и видеообаждания](/activities/phone-and-video-calls/).
+- **Включете се в нещо.** Курс, църковна или друга общност, клуб за разходки или доброволческа работа ви дават контакт и чувство за смисъл.
+- **Върнете стар хоби** или научете ново заедно с други хора.
+- **Движете се с други хора.** Упражнявайте се с приятел или в група. [Нашето ръководство за упражненията](/brain-health/exercise/) има леки варианти.
+- **Обмислете домашен любимец**, ако можете да се грижите за него.
+- **Потърсете местни услуги.** Клубове на пенсионера, дирекция „Социално подпомагане“ в общината и доставчици на домашни грижи могат да ви насочат към програми и транспорт.
 
-## Why do shared activities matter in dementia?
+## Защо общите занимания са важни при деменция?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+За човек, който вече живее с деменция, връзката е свързана с удоволствието, спокойствието и чувството, че е включен, а не с намаляване на риска. Комисията на The Lancet казва, че заниманията помагат на хората с деменция да запазят удоволствието и смисъла в живота си. [Асоциацията „Алцхаймер“ (Alzheimer's Association)](https://www.alz.org/help-support/caregiving/daily-care/activities) отбелязва, че освен че подобряват качеството на живот, заниманията могат да намалят поведения като скитане или възбуда. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) добавя, че хората с болестта на Алцхаймер трябва да са активни и да правят неща, които ги радват.
 
-Ideas that work well:
+Идеи, които добре работят:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Гледайте снимки заедно.** [Картите за разговор](/games/conversation-cards/) предлагат отворени въпроси без тестове, като „Разкажете ми за...“. Вижте [нашето ръководство за спомени](/activities/reminiscence/).
+2. **Играйте един до друг.** [Картинни двойки](/games/picture-pairs/) оставя картините видими и няма таймер или резултат, така че няма натиск. Нашето ръководство за [как да играете заедно](/caregiving/how-to-play-together/) съдържа съвети.
+3. **Използвайте семейни снимки.** [Двойки със снимки](/games/photo-pairs/) превръща снимките, които избирате, в игра за съчетаване, а снимките остават на вашето устройство.
+4. **Събирайте хората заедно.** [Картинно бинго](/games/picture-bingo/) върши работа при семейни събирания и [групи в домовете за грижи](/activities/care-home-groups/).
+5. **Споделяйте музика, домакински дейности или градината.** Вижте [музикалните занимания](/activities/music/), [домакинските дейности](/activities/household-tasks/) и пълния ни списък с [идеи за занимания](/activities/ideas/).
+6. **Направете посещенията по-лесни.** Нашето ръководство за [посещения](/activities/visiting/) обхваща кратки и спокойни посещения, които са добри за всички.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Дръжте нещата малки и спокойни. Тиха стая с един или двама души често работи по-добре от голяма група. Ако човекът се уморява или загуби интерес, спирането е наред. Седенето заедно с чаша чай също е добър резултат.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+За човек, който живее сам с деменция, NIA препоръчва да намерите доверен човек, който може да го посещава или да разговаря по видео редовно и да е контакт при спешност. Също така се споменава местен клуб за памет, спокойно социално пространство за хора с паметови загуби и семействата им.
 
-## Caregivers get lonely too
+## И на полагащите грижи им е самотно
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA посочва грижите за близък като рисков фактор за изолация. Пазете време за собствените си приятелства, групи за подкрепа и почивка. Нашето ръководство за [грижата за себе си](/caregiving/caregiver-self-care/) съдържа практични идеи.
 
-## Talk with a doctor
+## Говорете с лекар
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ако вие или близкият ви човек се чувства самотен или изолиран по-голямата част от времето, споделете с лекар. NIA насърчава хората да казват за големи промени в живота, например смърт в семейството, за да може лекарят да разбере цялата картина. Ако се чувствате потиснати седмици наред, това може да е депресия, която се лекува. Ако възрастен човек е започнал да се отдалечава от приятели или от занимания, които преди обичаше, и тази промяна също си струва да се спомене пред лекар. Прочетете [ранните признаци и кога да потърсите лекар](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Тази страница е обща информация, а не медицински съвет. Вижте [нашия медицински отказ от отговорност](/medical-disclaimer/).

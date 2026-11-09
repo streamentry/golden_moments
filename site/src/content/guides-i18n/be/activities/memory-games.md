@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Гульні на памяць для людзей з дэменцыяй: мяккія варыянты"
+seoTitle: "Лепшыя гульні на памяць пры дэменцыі: мяккія ідэі"
+description: "Гульні на пары, карцінкі і карткі для людзей з дэменцыяй і як гуляць так, каб ніхто не адчуваў сябе праверяным: карцінкі відаць, менш пар, без ачкоў, гуляйце разам."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Гульні на памяць для людзей з дэменцыяй лепш працуюць, калі не патрабуюць добрай памяці. Гуляйце ў гульні на пары з карцінкамі, якія відаць, выкарыстоўвайце ад чатырох да шасці плітак, гуляйце камандай і не лічыце ачкі. Пазнаць карцінку прасцей, чым успомніць яе, таму выбірайце гульні, дзе ўсё застаецца на выглядзе. Важна задавальненне, а не вынік.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Класічныя гульні на памяць хаваюць карткі, а гэта якраз тое, што дэменцыя робіць цяжкім. Пакіньце карцінкі адкрытымі."
+  - "Менш фігур, большыя карцінкі і адзін выбар за раз дапамагаюць гуляць прыемна."
+  - "Гуляйце камандай, па чарзе дапамагайце і адмоўцеся ад ачкоў. Ніхто не павінен апынуцца ў няёмкім становішчы."
+  - "Ніводная гульня на памяць не паказала, што яна лечыць, запавольвае або спыняе дэменцыю. Гуляйце таму, што гэта прыемны час разам."
+  - "Спыняйцеся, пакуль яшчэ цікава. Размова пра карцінкі — добры вынік."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Якая добрая гульня на памяць для чалавека з дэменцыяй?"
+    a: "Гульня на пары з вялікімі знаёмымі карцінкамі, якія могуць заставацца адкрытымі, напрыклад «Пары карцінак» з чатырма або шасцю плітамі. Знайсці пару карцінкі, якую вы бачыце, прыемна і не патрабуе праверкі кароткачасовай памяці. «Знайдзі такі самы» яшчэ прасцей: адна карцінка і ад двух да чатырох варыянтаў."
+  - q: "Ці дапамагаюць гульні на памяць пры дэменцыі?"
+    a: "Ніводная гульня на памяць не паказала, што яна лечыць, запавольвае або спыняе дэменцыю. Агляд Cochrane палічыў доказы пра камп'ютарныя трэніроўкі мозгу занадта слабымі, каб сказаць, ці прадухіляюць яны дэменцыю. Гульні ўсё ж могуць быць цёплым спосабам пабыць разам. Выбірайце іх для задавальнення і кампаніі."
+  - q: "Ці варта гуляць у класічную «Канцэнтрацыю» з чалавекам з дэменцыяй?"
+    a: "На ранняй стадыі некаторыя людзі яшчэ любяць яе, асабліва з невялікай колькасцю картак. Калі ўспамінанне, дзе якія карткі, пачынае выклікаць расстройства, перавярніце карткі тварам уверх і проста знаходзьце пары разам. Так захоўваецца падбор, а праверка памяці знікае."
+  - q: "Якія гульні на памяць добрыя для людзей пажылога веку ў групе?"
+    a: "Для групы добра падыходзяць карцінкавае лота з вядучым на экране, дагаворванне знаёмых прыказак уголас і карткі для размовы. Гуляйце, пакуль кожная картка не запоўнена, і не называйце ўголас, хто даў адказ, каб ніхто не адчуваў, што на яго ўказалі."
+  - q: "Ці ёсць бясплатныя гульні на памяць для пажылых людзей у інтэрнэце?"
+    a: "Так. Гульні на гэтым сайце, у тым ліку «Пары карцінак», «Знайдзі такі самы», «Пары фота» і «Карцінка-галаваломка», бясплатныя, не патрабуюць рэгістрацыі і працуюць на тэлефонах, планшэтах і камп'ютарах. Ні ў адной няма таймера або ачкоў."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Калі шукаеш «гульні на памяць для пажылых», большая частка знойдзеных прапаноў зроблена для тых, хто хоча разумовай трэніроўкі: схаваныя карткі, гадзіннікі зваротнага адліку, узроўні і ачкі. Для чалавека з дэменцыяй такія магчымасці ператвараюць гульню ў праверку таго, што стала цяжкім. Тыя ж гульні можна гуляць больш мякка. Тут паказана, як, і пералічаны гульні, якія добра падыходзяць на кожнай стадыі.
 
-## Why do classic memory games frustrate people with dementia?
+## Чаму класічныя гульні на памяць засмучаюць людзей з дэменцыяй?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Таму што яны абапіраюцца на ўтрыманне новай інфармацыі ў памяці, а менавіта з гэтага, як правіла, пачынае перашкаджаць Альцгеймера, найчасцейшая прычына дэменцыі. [Асацыяцыя Альцгеймера](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) піша, што найчасцейшы ранні сімптом Альцгеймера — цяжкасць успамінаць нядаўна засвоеную інфармацыю. У класічнай «Канцэнтрацыі» вы перавяртаеце дзве карткі, памятаеце, дзе яны былі, і выкарыстоўваеце гэта хвілінай пазней. Гэта новая інфармацыя, якую трэба ўтрымаць і ўспомніць.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Дадайце таймер, ачкі або зумар за няправільны адказ, і чалавеку нагадваюць пра тое, што ён не можа, перад блізкім чалавекам. Многія людзі ціхенька перастаюць хацець гуляць.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Распазнаць тое, што бачыш, — іншая і звычайна лягчэйшая задача. Паказаць на другую чашку, калі абедзве відаць, — прыемна. Таму задача — захаваць падбор і прыбраць праверку памяці.
 
-## How do you make a memory game gentle?
+## Як зрабіць гульню на памяць мякчэйшай?
 
-These adjustments work for card games, board games and games on a screen.
+Гэтыя змены падыходзяць для картачных гульняў, настольных гульняў і гульняў на экране.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Пакіньце карцінкі адкрытымі.** Падбіраць карцінкі, якія вы бачыце, — усё роўна сапраўдная гульня, і часта задавальняючая.
+2. **Выкарыстоўвайце менш фігур.** Пачніце з двух-трох пар. Дадавайце больш, толькі калі здаецца занадта лёгкім і яны хочуць.
+3. **Выбірайце вялікія, знаёмыя, дарослыя карцінкі.** Кубак, сланечнік, парусная лодка. Не мультфільмы і не перагружаныя сцэны.
+4. **Гуляйце камандай.** «Давайце знойдзем сабак» замест «твая чарга». Па чарзе паказвайце і дапамагайце.
+5. **Адмоўцеся ад ачкоў.** Ніхто не павінен выйграваць. Калі хто-небудзь пытаецца, простае «мы справіліся» дастаткова.
+6. **Ніколі не спяшайцеся.** Без таймераў і без пасплешвання паміж хадамі.
+7. **Гаварыце пра карцінкі.** «Глядзіце на тую лодку. Вы калі-небудзь плавалі пад ветразем?» Размова часта лепшая частка.
+8. **Спыняйцеся на добрай ноце.** Скончыце пасля пары, пакуль гэта яшчэ прыемна.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[Нацыянальны інстытут старэння](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) дае тую ж ідэю як агульную параду: падбірайце заняткі да таго, што чалавек можа, сачыце за расстройствам і ствараеце адчуванне поспеху.
 
-## Gentle memory and matching games to try
+## Гульні на памяць і падбор, якія варта паспрабаваць
 
-### Picture pairs (matching with pictures showing)
+### Пары карцінак (падбор з відочнымі карцінкамі)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Пары карцінак](/games/picture-pairs/) — гульня на падбор з вялікімі карцінкамі і ад 4 да 12 плітак. Карцінкі могуць заставацца відочнымі, таму гэта пра пошук пар, а не пра ўспаміны, дзе яны былі. Пачніце з чатырох плітак. Калі чалавек на ранняй стадыі любіць трохі больш складанасці, можна перайсці да **Схаваных карцінак**, але вярніцеся да паказу карцінак, як толькі гульня перастане быць прыемнай.
 
-### Find the same
+### Знайдзі такі самы
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Знайдзі такі самы](/games/find-the-same/) паказвае адну карцінку зверху і ад двух да чатырох варыянтаў унізе. Націсніце на тую, што супадае. Гэта найпрасцейшая гульня на падбор на сайце, яна падыходзіць тым, каму поўная сетка занадта шматлюдная, у тым ліку многім на позніх стадыях, калі побач ёсць блізкі чалавек.
 
-### Photo pairs (family photo memory game)
+### Пары фота (гульня на памяць з сямейнымі фота)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Пары фота](/games/photo-pairs/) ператварае фота, якія вы абралі, у гульню на падбор: сабака, сад, дом на возеры. Знаёмыя твары і мясціны часта выклікаюць размову больш, чым любая стандартная карцінка. Фота застаюцца ў вашым браўзеры і ніколі не загружаюцца.
 
-### Sort together
+### Раскладзі разам
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Раскладзі разам](/games/sort-together/) прапануе класці кожную карцінку ў кошык, куды яна належыць, напрыклад на кухню або ў сад. Сартаванне задзейнічае доўгатрывалыя веды пра тое, як уладкавана жыццё, а не кароткачасовую памяць.
 
-### Picture puzzle
+### Карцінка-галаваломка
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Карцінка-галаваломка](/games/picture-puzzle/) разразае карцінку на 4 або 9 частак. Націскайце на дзве часткі, каб памяняць іх месцамі, пакуль карцінка не складзецца. Поўная карцінка застаецца на экране як падказка.
 
-### Real cards on the table
+### Сапраўдныя карткі на стале
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Экран не патрэбны. Вазьміце пары падобных картак з дзвюх калод або набор картак з карцінкамі. Выкладзіце іх тварам уверх у два радкі і знаходзьце пары разам. Потым можна сартаваць па колеры або масці. [Амерыканскі фонд Альцгеймера](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) пералічвае картачныя і настольныя гульні сярод заняткаў для ранняй стадыі.
 
-## Which memory games suit each stage?
+## Якія гульні на памяць падыходзяць на кожнай стадыі?
 
-Stages are loose labels. Go by what the person enjoys today.
+Стадыі — прыблізныя назвы. Арыентуйцеся на тое, што чалавеку падабаецца сёння.
 
-| Stage | Games that often fit | How to set them up |
+| Стадыя | Гульні, якія часта падыходзяць | Як наладзіць |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Ранняя | Пары карцінак, Пары фота, Карцінка-галаваломка з 9 часткамі, знаёмыя картачныя гульні | Дайце выбраць. Пліткі могуць перавярнуцца, калі гэта падабаецца; адмоўцеся ад ачкоў, калі яны засмучаюць |
+| Сярэдняя | Пары карцінак з 4–6 плітамі тварам уверх, Знайдзі такі самы, Раскладзі разам | Карцінкі заўсёды відаць. Сядзьце побач і па чарзе дапамагайце |
+| Позняя | Знайдзі такі самы з 2 варыянтамі, разглядванне адной вялікай карцінкі разам | Вельмі коратка. Вы трымаеце планшэт; чалавек паказвае або проста глядзіць і слухае |
 
-## Do memory games help with dementia?
+## Ці дапамагаюць гульні на памяць пры дэменцыі?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ніводная гульня на памяць не паказала, што яна лечыць, запавольвае або спыняе дэменцыю. [Агляд Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) камп'ютарнай кагнітыўнай трэніроўкі для людзей з лёгкім кагнітыўным парушэннем палічыў доказы занадта абмежаванымі, каб сказаць, ці прадухіляе яна дэменцыю. Наш дапаможнік пра [гульні для мозгу і дэменцыю](/brain-health/brain-games/) тлумачыць, што паказваюць і чаго не паказваюць даследаванні.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Гэта не прычына пазбягаць гульняў. [Асацыяцыя Альцгеймера](https://www.alz.org/help-support/caregiving/daily-care/activities) раіць арыентавацца на задавальненне, а не на дасягненні. Дзесяць хвілін падбору карцінак і размовы пра іх могуць быць сапраўды добрай часткай дня.
 
-## What about memory games for seniors without dementia?
+## А гульні на памяць для пажылых без дэменцыі?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Калі пажылы чалавек без праблем з памяццю любіць гульні на час, ачкі і больш складаныя ўзроўні, у гэтым няма нічога дрэннага. Проста не разлічвайце, што яны абаронюць ад дэменцыі; ніводная гульня гэтага не паказала. Мяккія варыянты вышэй таксама добра працуюць, калі гуляюць розныя пакаленні: бабуля або дзядуля з дэменцыяй і малодшы ўнук могуць падбіраць карцінкі камандай, і ніхто з іх не будзе праверяцца.
 
-## When should you stop or change the game?
+## Калі спыніцца або змяніць гульню?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Уздыхі, адсоўванне планшэта, словы «я не магу» або трывожны выгляд — прыкметы, што трэба спрасціць або спыніцца. Паспрабуйце меншую колькасць плітак, перавярніце карцінкі тварам уверх, перайдзіце да [Знайдзі такі самы](/games/find-the-same/) або проста разгледзьце карцінкі і пагутарыце. Калі чалавек увогуле не хоча гуляць, гэта таксама добра. Наш дапаможнік пра [тое, як гуляць разам](/caregiving/how-to-play-together/), мае больш пра тэмп і дапамогу.

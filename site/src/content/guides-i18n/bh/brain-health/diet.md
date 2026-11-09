@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND और भूमध्यसागरीय आहार और डिमेंशिया: रिसर्च का कहनाम"
+seoTitle: "MIND आहार और डिमेंशिया: रिसर्च का कहनाम"
+description: "MIND और भूमध्यसागरीय आहार के बारे में डिमेंशिया पर रिसर्च का कहनाम, एक बड़े ट्रायल में साफ फायदा काहे ना मिलल, आ डिमेंशिया वाला मनई के ठीक से खिआवे-पियावे में कइसे मदद कइल जा सकेला।"
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  देखल-सुनल अध्ययन में भूमध्यसागरीय आ MIND जइसन आहार के डिमेंशिया के कम खतरा से जोड़ल गइल बा, बाकिर हर अध्ययन में ई एक जइसन नइखे। 2023 में छपल MIND आहार के तीन साल के एगो रैंडम ट्रायल में सोचे-समझे आ दिमाग के स्कैन में कंट्रोल आहार वाला लोग से कवनो साफ फरक ना मिलल। कवनो खाना या सप्लीमेंट से डिमेंशिया रोकाइल साबित नइखे भइल। डिमेंशिया के साथ जी रहल लोग खातिर सबसे जरूरी बात बा कि ऊ पर्याप्त खाइल-पियल करस।
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "कुछ अध्ययन, बाकिर सब ना, जे लोग के समय के साथे देखेला, ओह में भूमध्यसागरीय आ MIND खाना के पैटर्न के डिमेंशिया के कम खतरा से जोड़ल गइल बा।"
+  - "2023 के 604 बुजुर्ग लोग पर भइल एगो ट्रायल में, तीन साल बाद MIND आहार वाला लोग सोचे के जाँच या दिमाग के स्कैन में कंट्रोल आहार वाला लोग से बेहतर ना रहल।"
+  - "नेशनल इंस्टीट्यूट ऑन एजिंग कहेला कि कवनो खास खाना खाए या छोड़े से अल्ज़ाइमर्स रोकाइल के कवनो सबूत नइखे, आ कवनो विटामिन या सप्लीमेंट से ओकरा रोकाइल साबित नइखे।"
+  - "सब्जी, फल, दाल-बीन, साबुत अनाज आ मछली से भरल आहार दिल के सेहत खातिर ठीक बा आ हाई ब्लड प्रेशर आ डायबिटीज जइसन खतरा में मदद कर सकेला।"
+  - "डिमेंशिया के साथ जी रहल लोग खातिर, हाथ से उठा के खाए वाला टुकड़ा, रंग से अलग थाली, शांत खाना-खजाना आ नियमित पानी-पेय अक्सर कवनो खास आहार से जादा मायने रखेला।"
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "का MIND आहार से डिमेंशिया रुकेला?"
+    a: "ई अभी तक साबित नइखे भइल। देखल-सुनल अध्ययन में MIND आहार के कम खतरा से जोड़ल गइल बा, बाकिर 2023 में छपल तीन साल के रैंडम ट्रायल में MIND आहार वाला आ कंट्रोल आहार वाला लोग के सोचे के जाँच या दिमाग के स्कैन में कवनो साफ फरक ना मिलल। दुनो समूह में थोड़ा सुधार भइल आ वजन भी लगभग एके जेका घटल।"
+  - q: "MIND आहार आ भूमध्यसागरीय आहार में का फरक बा?"
+    a: "भूमध्यसागरीय आहार में सब्जी, फल, साबुत अनाज, दाल-बीन, मछली आ जैतून के तेल पर जोर दिहल जाला, लाल मांस आ मिठाई कम रहेला। MIND आहार ओकरा के हाई ब्लड प्रेशर खातिर DASH आहार से मिला देला, आ हरी पत्तेदार सब्जी आ बेरी पर अउरी जोर देला, जबकि लाल मांस, मिठाई, पनीर, मक्खन आ तलल-भुंजल चीज कम करे के कहेला।"
+  - q: "का कवनो खाना या सप्लीमेंट अल्ज़ाइमर्स रोकेला?"
+    a: "ना। नेशनल इंस्टीट्यूट ऑन एजिंग कहेला कि कवनो खास खाना खाए या छोड़े से अल्ज़ाइमर्स या उमिर के साथे आवे वाला सोचे के कमजोरी रोकाइल के कवनो सबूत नइखे, आ कवनो विटामिन या सप्लीमेंट से अल्ज़ाइमर्स रोकाइल साबित नइखे भइल। सप्लीमेंट शुरू करे से पहिले डाक्टर से बात कर लीं।"
+  - q: "डिमेंशिया वाला मनई खातिर कवन खाना खाए में सबसे आसान होला?"
+    a: "हाथ से उठा के खाए वाला छोटा-छोटा टुकड़ा, जइसे सैंडविच के टुकड़ा, चिकन के टुकड़ा, संतरा के फांक या भाप में पकल सब्जी के टुकड़ा, चम्मच-कांटा से खाए से अक्सर आसान होला। चबावे या निगले में दिक्कत होखे त स्क्रैम्बल्ड अंडा, सेब की चटनी या पनीर जइसन नरम चीज मदद कर सकेला। खांसी या गला फंसे त डाक्टर से निगले के जाँच के बारे में पूछीं।"
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+आप शायद पढ़ले होखब कि "दिमाग खातिर बढ़िया" आहार से अल्ज़ाइमर्स दूर रह सकेला। असल तस्वीर ओतना पक्का नइखे। कुछ खाए के पैटर्न के, समय के साथे लोग के देखे वाला अध्ययन में, कम खतरा से जोड़ल गइल बा, बाकिर अब तक के सबसे बढ़िया ट्रायल में साफ फायदा ना मिलल। ई पेज दुनो बात समझावत बा, आ फिर ओह बात पर आवत बा जवन डिमेंशिया के साथे जी रहल मनई खातिर अक्सर सबसे जरूरी होला: पर्याप्त खाइल-पियल आ ओकरा के मन से खाइल।
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+ई आम जानकारी ह, डाक्टरी सलाह ना। अपना आहार या कवनो दूसरा के आहार बदले से पहिले डाक्टर या रजिस्टर्ड डायटीशियन से बात कर लीं। हमार [चिकित्सा अस्वीकरण](/medical-disclaimer/) भी देखीं।
 
-## What are the Mediterranean and MIND diets?
+## भूमध्यसागरीय आ MIND आहार का ह?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+नेशनल इंस्टीट्यूट ऑन एजिंग (NIA) एकरा के अइसे बतावेला ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **भूमध्यसागरीय आहार:** फल, सब्जी, साबुत अनाज, दाल-बीन, मछली आ समुंदरी जीव, आ जैतून के तेल भरपूर, आ लाल मांस, अंडा आ मिठाई थोड़ा।
+- **MIND आहार** (Mediterranean–DASH Intervention for Neurodegenerative Delay): भूमध्यसागरीय आहार आ ब्लड प्रेशर खातिर DASH आहार के मेल। एमें सब्जी, खासकर हरी पत्तेदार सब्जी; बेरी; साबुत अनाज; दाल-बीन; मेवा; हफ्ता में कम से कम एक बार मछली; आ जैतून के तेल पर जोर दिहल जाला। एमें लाल मांस, मिठाई, पनीर, मक्खन या मारगरीन, आ तलल-भुंजल या फास्ट फूड कम कइल जाला।
 
-## Do these diets lower dementia risk?
+## का ई आहार डिमेंशिया के खतरा कम करेला?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+सबूत मिलल-जुलल बा। NIA कहेला कि कुछ, बाकिर सब ना, देखल-सुनल अध्ययन में भूमध्यसागरीय आ MIND आहार के पश्चिमी ढंग के आहार से कम खतरा से जोड़ल गइल बा, जवन लाल मांस, संतृप्त वसा आ चीनी से जादा होला।
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 के Lancet Commission एह रिसर्च के अउरी बारीकी से देखलस ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- कोहोर्ट अध्ययन के एगो समीक्षा में बढ़िया आहार के गुणवत्ता के लगभग 20% कम डिमेंशिया खतरा से जोड़ल गइल।
+- तीन कोहोर्ट के बड़ा विश्लेषण में MIND आहार के नजदीक से पालन करे से कम खतरा देखल गइल।
+- बाकिर स्वीडन के एगो अध्ययन, जे 28,025 अधेड़ उमिर के लोग पर लगभग 20 साल तक चलल, ओकरा में ना त सिफारिश वाला आहार से, ना भूमध्यसागरीय ढंग के आहार से कम खतरा मिलल।
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+देखल-सुनल अध्ययन कारण आ असर साबित ना कर सकेला। अइसे खाए वाला लोग अक्सर दोसरो बात में अलग होला, जइसे आमदनी, पढ़ाई, कसरत आ स्वास्थ्य सेवा तक पहुँच। Commission के निष्कर्ष रहल कि ई कहे खातिर पर्याप्त सबूत नइखे कि बढ़िया आहार सीधे डिमेंशिया रोकेला, हालाँकि फल आ सब्जी भरपूर खाइल आ अल्ट्रा-प्रोसेस्ड खाना कम खाइल बहुत सेहत के बात खातिर अच्छा बा आ मोटापा, डायबिटीज आ हाई ब्लड प्रेशर जइसन खतरा पर असर डालेला। ओकरा [14 जोखिम कारक](/brain-health/risk-factors/) के सूची में आहार ना जोड़ल गइल।
 
-## What did the 2023 MIND diet trial find?
+## 2023 के MIND आहार ट्रायल में का मिलल?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+अब तक के सबसे मजबूत परीक्षा 2023 में New England Journal of Medicine में छपल एगो रैंडम ट्रायल रहल ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **के:** शिकागो आ बोस्टन इलाका के 604 वयस्क, उमिर 65 या अउरी, जिनका सोचे में कवनो दिक्कत ना रहे, जिनकरा परिवार में कवनो करीबी के डिमेंशिया रहे, जे मोटापा के शिकार रहलन, आ शुरुआत में उनकर आहार कम सेहतमंद रहे।
+- **का:** तीन साल तक, आधा लोग MIND आहार अपनवलन आ आधा अपना सामान्य आहार पर रहलन। दुनो समूह से कहल गइल कि रोज लगभग 250 कैलोरी कम खाएं, आ उनके नियमित रूप से रजिस्टर्ड डायटीशियन से सलाह भी मिलल।
+- **नतीजा:** सोचे के जाँच में **दुनो** समूह के नतीजा थोड़ा सुधरल। दुनो समूह के बीच फरक छोटा रहे आ **सांख्यिकीय रूप से महत्वपूर्ण ना** रहे। दिमाग के स्कैन में भी दुनो समूह में एके जेका बदलाव दिखल।
+- **वजन:** दुनो समूह के वजन लगभग 5 किलोग्राम (करीब 11 पाउंड) घटल।
 
-### Why might the trial have found no difference?
+### ट्रायल में फरक काहे ना मिलल होखे?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+शोधकर्ता कई गो कारण बतावेलन। कंट्रोल समूह भी शायद अपना आहार में सुधार कइलस, काहे कि ओकरो वजन लगभग ओतने घटल। बार-बार जाँच भइला से लोग जाँच के आदी हो जाला, जवना से नतीजा अपने से सुधर सकेला। तीन साल शायद बहुत छोटा समय रहे। ज्यादातर प्रतिभागी पढ़ल-लिखल आ यूरोपीय मूल के रहलन, एसे नतीजा सबपर लागू ना हो सकेला।
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+तऽ ईमानदार सार ई बा: MIND आहार तीन साल में कैलोरी घटावे वाला समझदार आहार से आगे ना निकलल। एकरा से ई ना बुझे के चाहीं कि सेहतमंद खाना बेकार बा। एकरा से बस ई बुझे के चाहीं कि कवनो खास आहार से डिमेंशिया रुकी, ई उम्मीद ना करे के चाहीं।
 
-## What about specific foods and supplements?
+## खास खाना आ सप्लीमेंट के बारे में का कहल गइल बा?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA कहेला कि कवनो खास खाना खाए या छोड़े से अल्ज़ाइमर्स या उमिर के साथे आवे वाला सोचे के कमजोरी रोकाइल के कवनो सबूत नइखे। ब्लूबेरी, हरी पत्तेदार सब्जी आ हल्दी पर भी अध्ययन भइल बा, बाकिर सबूत नइखे मिलल। NIA इहो कहेला कि कवनो विटामिन या सप्लीमेंट से अल्ज़ाइमर्स रोकाइल साबित नइखे भइल, आ ओकरा खातिर कवनो सप्लीमेंट के सिफारिश ना कइल जाला। NIA चेतावेला कि अल्ज़ाइमर्स रोके खातिर बेचल जाए वाला बिना साबित सामान असुरक्षित, पइसा के बर्बादी, या दुनो हो सकेला, आ दवाई पर असर डाल सकेला। एसे कवनो भी चीज शुरू करे से पहिले डाक्टर से पूछ लीं ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## खाना सेहतमंद आ मन लायक कइसे रह सकेला?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+ज्यादातर बुजुर्ग खातिर लक्ष्य बा कि खाना पोषक, जाना-पहचानल आ सुहावन होखे, कवनो कड़ा योजना ना:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **जवन खाना पसंद बा ओकरा के आधार बना के भोजन बनाईं**, भूमध्यसागरीय ढंग से: सब्जी, फल, दाल-बीन, साबुत अनाज, मछली आ जैतून के तेल।
+- **पसंद के मिठाई भी राखीं।** जिनगी के बाद के उमिर में मन के खुशी आ भूख दुनो मायने रखेला।
+- **जब हो सके त संगे खाईं।** साथ में खाना अच्छा साथ देला।
+- **मिल के खाना बनाईं।** सब्जी धोवल या बर्तन में कुछ चलावल बढ़िया साझा काम ह; देखीं [घर के काम](/activities/household-tasks/)। परिवार के कवनो मनपसंद व्यंजन [पुरान यादें](/activities/reminiscence/) भी जगा सकेला।
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+बुजुर्ग लोग डाक्टर से बात कइले बिना कैलोरी ना घटावे या वजन ना घटावे, आ उपवास में अउरी खतरा होला। हमार [उपवास गाइड](/brain-health/fasting/) देखीं।
 
-## How can you help someone with dementia eat well?
+## डिमेंशिया वाला मनई के ठीक से खिआवे-पियावे में कइसे मदद कइल जाव?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+डिमेंशिया के साथ जी रहल लोग खातिर सबसे बड़ा फिकिर अक्सर **पर्याप्त** खाइल-पियल होला। अल्ज़ाइमर्स एसोसिएशन कहेला कि लोग खाना भुला सकेलन, सोचे लोग कि ऊ पहिलहिं खा चुकल बाड़न, या ढेर विकल्प से घबरा सकेलन, आ खराब पोषण से व्यवहार से जुड़ल दिक्कत बढ़ सकेला आ वजन घट सकेला ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating))। ई विचार अल्ज़ाइमर्स एसोसिएशन, NIA आ Alzheimer's Society से आइल बा:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **हाथ से उठा के खाए वाला टुकड़ा दीं।** छोटा-छोटा टुकड़ा, जइसे सैंडविच के टुकड़ा, चिकन के टुकड़ा, मछली की स्टिक, संतरा के फांक या भाप में पकल ब्रोकली, मनई चम्मच-कांटा बिना खुद खा सकेला।
+2. **थाली पर रंग के फरक राखीं।** नजर बदलला से खाना आ थाली के पहचानल मुश्किल हो सकेला। सफेद थाली या कटोरी, रंग से अलग मेज-पोश पर राखल मदद कर सकेला। चित्तीदार बर्तन आ मेज-पोश से बचीं।
+3. **एक बार में एक या दू गो चीज परोसीं।** भरल थाली भारी लाग सकेला।
+4. **खाना के समय शांत राखीं।** टीवी बंद करीं, मेज सादा राखीं, आ भरपूर समय दीं। NIA कहेला कि जल्दी ना करीं आ दबाव ना दीं।
+5. **थोड़-थोड़ा खाना आ नाश्ता बेर-बेर दीं।** अगर मनई पर्याप्त ना खाता, त NIA छोट-छोट भोजन आ कैलोरी वाला नाश्ता के सुझाव देला ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well))।
+6. **पीए में मदद करीं।** दिन भर छोट-छोट कप में पानी या अउरी पेय दीं, संगे पानी वाला खाना जइसे फल, सूप, मिल्कशेक आ स्मूदी भी। अगर मनई पानी ना चाहे, त NIA जूस, स्वाद वाला पानी, शोरबा, दूध, या डिकैफ कॉफी या चाय आजमावे के सुझाव देला।
+7. **तापमान जाँचीं।** मनई के पता ना चल सकेला कि खाना या पेय बहुत गरम बा।
+8. **बर्तन आ कप के हिसाब से बदलीं।** थाली के जगह कटोरी, बड़ा हैंडल वाला चम्मच, आ ढक्कन वाला कप खाए के आसान बना सकेला। सफाई के फिकिर मत करीं।
+9. **चबावे आ निगले में आसान बनाईं।** खाना के छोट टुकड़ा में काटीं या नरम खाना दीं। अगर मनई खात घरी खांसेला या गला फंसेला, त ओकर डाक्टर के बताईं।
+10. **जबरदस्ती ना खिआईं।** NIA कहेला कि अल्ज़ाइमर्स के आखिरी चरण में भूख स्वाभाविक रूप से घटेला।
 
-### Signs to tell the doctor about
+### डाक्टर से बतावे लायक लक्षण
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+वजन घटल, खाना से मना कइल, थकान या कमजोरी इ संकेत हो सकेला कि मनई पर्याप्त नइखे खात। Alzheimer's Society कहेला कि दांत में दर्द या नकली दांत, अवसाद, कब्ज आ दवाई में बदलाव, ई सब भूख घटा सकेला ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia))। NIA के सूची में पानी की कमी के लक्षण में मुँह सूखल, चक्कर आवल, धड़कन तेज होखल आ भ्रम वाला बात देखे लायक बा ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers))।
 
-## Talk with a doctor
+## डाक्टर से बात करीं
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+अपना आहार या कवनो दूसरा के आहार में बड़ बदलाव से पहिले डाक्टर या रजिस्टर्ड डायटीशियन से बात करीं, खासकर अगर डायबिटीज, किडनी के बीमारी, निगले में दिक्कत या हाल में वजन घटल बा। डिमेंशिया के साथ जी रहल मनई खातिर पूछीं कि रोज कितना खाए-पिए के लक्ष्य रखे के चाहीं, आ का डायटीशियन या सप्लीमेंट मदद कर सकेला।
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+अगर केहू के गला फंसत होखे, या अचानक भ्रम, तेज चक्कर या बेहोशी होखे, त तुरंत मदद लीं।

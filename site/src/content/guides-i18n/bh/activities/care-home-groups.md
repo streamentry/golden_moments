@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "डिमेंशिया खातिर समूह गतिविधि: देखभाल घर खातिर गाइड"
+seoTitle: "डिमेंशिया समूह गतिविधि: बिंगो, गीत, कहानी"
+description: "मेमोरी केयर, नर्सिंग होम आ दिन के कार्यक्रम खातिर समूह गतिविधि: तस्वीर बिंगो, साथे गीत आ पुरान यादन के समूह, बइठे आ समूह के आकार खातिर सुझाव।"
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  मेमोरी केयर आ दिन के कार्यक्रम में अच्छा समूह गतिविधि छोट, जानल-पहचानल आ कवनो स्तर के लोग खातिर आसान होला: तस्वीर बिंगो, साथे गीत, यादन के गोलाकार बइठकी, सरल हरकत आ साथे शब्द के खेल। जहाँ हो सके समूह छोट राखीं, लोग के अइसन जगह बइठाईं जहाँ सब देख आ सुन सकस, एक बार में एक कदम बताईं, आ जेकरा जरूरत बा ओकरा खातिर आसान भूमिका आ शांत तरीका से निकले के जगह रखीं।
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "छोट समूह अक्सर एक बड़ा कार्यक्रम से बढ़िया काम करेला, आ ओसे अधिका लोग सिर्फ देखे के बजाय सक्रिय हिस्सा ले सकेला।"
+  - "लोग के गोलाकार या घोड़े के नाल जइसन आकार में, अगुआ के नजदीक बइठाईं, सुने आ देखे के जरूरत ध्यान में रखीं, आ पृष्ठभूमि के शोर बंद कर दीं।"
+  - "हर गतिविधि दू या तीन स्तर पर बनाईं, ताकि अलग-अलग क्षमता वाला लोग सब शामिल हो सके।"
+  - "सवाल-जवाब, अंक आ विजेता से बचीं। तस्वीर बिंगो में सबकर कार्ड भर सकेला।"
+  - "बीच में उठ के चल जाइल, देखत रहल या ऊँघ जाइल ठीक बा। जेकरा शांत जगह चाहीं, ओकरा खातिर एगो कर्मचारी तैयार रखीं।"
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "डिमेंशिया गतिविधि खातिर समूह के आकार केतना ठीक बा?"
+    a: "कवनो एक तय संख्या नइखे, ई रहे वाला लोग, कमरा आ कर्मचारी के संख्या पर निर्भर करेला। कई टीम पावेली कि छोट समूह में सब देख, सुन आ हिस्सा ले सकेलन, जबकि बड़ा कमरा के कार्यक्रम में अधिका लोग खाली देखत रह जालन। बड़ा कार्यक्रम करीं त कर्मचारी या स्वयंसेवक जोड़ीं, जे रहे वाला लोग के बीच बइठ के एक-दू गो आदमी के मदद कर सकस।"
+  - q: "अलग-अलग क्षमता वाला समूह के कइसे चलाईं?"
+    a: "हर गतिविधि में जुड़े के एक से अधिक तरीका सोचीं। गीत में कोई सब शब्द गाई, कोई ताली बजाई या गुनगुनाई, आ कोई शेकर पकड़ी। तस्वीर बिंगो में कोई अपने से तस्वीर खोजी, आ कोई मदद करे वाला के इशारा से। जेकरा अधिका मदद चाहीं, ओकरा के कर्मचारी या स्वयंसेवक के बगल में बइठाईं।"
+  - q: "तस्वीर बिंगो बिना होड़ के कइसे खेलाईं?"
+    a: "हर तस्वीर तब तक बोलीं जब तक सबकर कार्ड भर ना जाए, जेसे केहू छूटे ना। हर तस्वीर पर थोड़ बात करीं, आ विजेता खातिर इनाम मत रखीं, या सबके बराबर छोट उपहार दीं। मकसद साथे ध्यान आ बातचीत ह, केहू पहिले पूरा करे ई ना।"
+  - q: "समूह में रउवा के खेल बड़ा स्क्रीन पर चला सकेनी?"
+    a: "हँ। हमार खेल वेब ब्राउज़र में चलेला, त टीवी या प्रोजेक्टर से जुड़ल लैपटॉप या टैबलेट पर खोल सकेनी। तस्वीर बिंगो में छपे लायक कार्ड आ स्क्रीन पर बोलल जाए वाला कॉलर बा। 'कहावत पूरा करीं' आ 'तस्वीर जोड़ी' भी बड़ा स्क्रीन पर बढ़िया चलेला, जहाँ एक आदमी समूह खातिर टैप करे।"
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+ई गाइड एक्टिविटी डायरेक्टर, मेमोरी केयर टीम आ दिन के कार्यक्रम के अगुआ खातिर बा। एहमें काम करे वाला समूह के तरीका, कमरा के बनावट, मिलल-जुलल क्षमता वाला लोग खातिर एक गतिविधि के ढाले के तरीका, आ हमार छपल बिंगो कार्ड आ बड़ा स्क्रीन वाला खेल के इस्तेमाल के बारे में बतावल गइल बा। एहिजा सब कुछ आराम, जुड़ाव आ पसंद खातिर बा। इहाँ कवनो परीक्षा नइखे।
 
-## What makes a group activity work in memory care?
+## मेमोरी केयर में समूह गतिविधि कइसे काम करेला?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+अच्छा समूह गतिविधि जानल-पहचानल होखे, छोट होखे, कवनो स्तर के लोग खातिर आसान होखे आ दबाव से मुक्त होखे। Alzheimer's Association के [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) में अर्थपूर्ण जुड़ाव के बारे में बतावल गइल बा कि ई व्यक्ति के रुचि आ पसंद के साथ दे, पसंद आ सफलता के मौका दे, भले डिमेंशिया कतना भी गंभीर होखे। ओही दस्तावेज में ई भी लिखल बा कि पारंपरिक कार्यक्रम अक्सर दिन में एक-दू बड़ा समूह कार्यक्रम पर टिकल रहेला, जहाँ रहे वाला लोग अक्सर सिर्फ देखत रहेलन।
 
-That points to a few practical rules:
+एहसे कुछ व्यावहारिक नियम बनेला:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **जानल-पहचानल नया से बढ़िया बा।** बचपन के गीत, कहावत, तस्वीर आ चीज में जुड़ल आसान होला।
+- **छोट लंबा से बढ़िया बा।** ओतने समय के योजना बनाईं जेतना समूह के ध्यान टिकेला, आ बीच में एगो स्वाभाविक रुकावट रखीं।
+- **करे के मौका देव, सिर्फ देखे के ना।** हर आदमी के कुछ पकड़े, थपथपावे, चुने या बोले खातिर दीं।
+- **एक गतिविधि, कई स्तर।** आसान आ कठिन दुनो तरीका से जुड़े के मौका बनाईं।
+- **कवनो विजेता, कवनो अंक ना।** होड़ वाला खेल से कुछ लोग के लागेला कि उ फेल हो गइलन।
 
-## How big should the group be?
+## समूह केतना बड़ा होखे?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+छोट समूह आमतौर पर आसान होला। Alzheimer's Association के कहनाम बा कि जेकरा बड़ा जमावड़ा भारी लागेला, उ छोट समूह में बेहतर बातचीत कर सकेला। कवनो एक ठीक संख्या नइखे। ई रहे वाला लोग, कमरा आ उपलब्ध कर्मचारी आ स्वयंसेवक पर निर्भर करेला।
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+एगो उपयोगी जाँच: का हर आदमी अगुआ के चेहरा देख सकेला, साफ सुन सकेला, आ कुछ सेकंड में कवनो मददगार तक पहुँच सकेला? ना त समूह बाँट दीं, मदद करे वाला जोड़ीं, या छोट कमरा में जाईं।
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+बड़ा कार्यक्रम, जइसे त्योहार के गीत-संगीत, में कर्मचारी आ स्वयंसेवक दीवार के किनारे ना, रहे वाला लोग के बीच में बइठाईं।
 
-## How should I set up the room and seating?
+## कमरा आ बइठे के इंतजाम कइसे करीं?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **गोलाकार या घोड़े के नाल जइसन आकार।** Practice recommendations में बतावल गइल बा कि साझा गोलाकार बइठकी सबसे बढ़िया बा, जहाँ सब आराम से गोल में बइठ सकस आ कवनो पृष्ठभूमि के शोर ना होखे।
+- **अगुआ नजदीक आ आँख के सीध में।** जहाँ हो सके खड़ा ना, बइठल रहीं।
+- **सुनल आ देखल पहिले।** कम सुने वाला लोग के अगुआ के सबसे नजदीक, उनकर बढ़िया कान के ओर बइठाईं। चश्मा आ सुनने वाला मशीन लगल होखे, ई पक्का करीं। Alzheimer's Association कहत बा कि आँख आ कान के दिक्कत से बात करे में मुश्किल बढ़ सकेला।
+- **रोशनी रहे वाला के पीछे से, आपके पीछे से ना।** केहू के चमकदार खिड़की के सामने बइठावे से बचीं।
+- **टीवी आ रेडियो बंद करीं।** Alzheimer's Association संगीत गतिविधि के समय दूसरा शोर हटावे के सलाह देवेला।
+- **एक बेरा में एक बातचीत।** एक साथे कई गो बात से डिमेंशिया वाला लोग आ कम सुने वाला लोग खातिर बात समझल मुश्किल होला। ई बात Alzheimer's Association अपना [छुट्टी वाला मार्गदर्शन](https://www.alz.org/help-support/caregiving/holidays) में कहत बा।
+- **साफ निकलल रास्ता आ एगो शांत कोना।** जे निकले चाहे, उ आसानी से निकल सके, आ कर्मचारी ओकरा साथे चल सके।
 
-## Group activity ideas
+## समूह गतिविधि के कुछ विचार
 
-### Picture bingo
+### तस्वीर बिंगो
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+तस्वीर बिंगो में संख्या के जगह साफ तस्वीर होला, जइसे चाय के केतली, कुकुर या गुलाब। एहसे केहू के लंबा संख्या याद रखे या छोट अक्षर पढ़े के जरूरत ना पड़ेला।
 
-**How to run it:**
+**कइसे चलाईं:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. हमार [तस्वीर बिंगो](/games/picture-bingo/) पन्ना से हर आदमी खातिर एक कार्ड छापीं, छापे वाला बटन से। मोट कागज संभारे में आसान होला। दोबारा खातिर लैमिनेट कर सकेनी।
+2. बड़ा, पकड़े में आसान निशान दीं, जइसे पोकर चिप, बोतल के ढक्कन या कागज के कटल वर्ग।
+3. टीवी या प्रोजेक्टर पर स्क्रीन वाला कॉलर इस्तेमाल करीं, ताकि तस्वीर के नाम बोलत घरी सब तस्वीर देख सकस।
+4. हर तस्वीर के बाद थोड़ रुकीं आ छोट टिप्पणी खातिर पूछीं: "केहू के कवनो कुकुर याद बा त बताई?" या "एह तस्वीर में आप का देखत बानी?"
+5. तब तक बोलत रहीं जब तक हर कार्ड भर ना जाए। सब पूरा करीहें।
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**एकरा ढालल:** जेकरा पूरा कार्ड बहुत भारी लागे, ओकरा खातिर कम वर्ग रखीं। मदद करे वाला मिलान तस्वीर पर इशारा कर सकेला। कुछ लोग कॉलर वाली तस्वीर पकड़ के समूह के देखावल पसंद कर सकेलन।
 
-### Sing-alongs
+### गीत-संगीत के साथे गाना
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+संगीत सबसे बेसी पसंद कइल जाए वाला समूह गतिविधि में से एक ह। Alzheimer's Association कहत बा कि देर वाला चरण में भी कोई आदमी [बचपन के गीत पर ताल दे सकेला या गा सकेला](https://www.alz.org/help-support/caregiving/daily-care/art-music)।
 
-**How to run it:**
+**कइसे चलाईं:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- अगुआ के मनपसंद ना, रहे वाला लोग के बचपन के गीत चुनीं। परिवार से पूछीं कि केकरा का पसंद रहे।
+- बिना विज्ञापन वाला संगीत लगाईं, काहे कि Association के कहनाम बा कि विज्ञापन उलझन पैदा कर सकेला।
+- जे पढ़ सकेला ओकरा खातिर बड़ा अक्षर में बोल छापीं, पर केहू से जबरदस्ती ना।
+- शेकर, हाथ वाला ढोल या हिलावे खातिर दुपट्टा दीं।
+- ताली आ हरकत के बढ़ावा दीं, आ आवाज आराम के स्तर पर रखीं।
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**एकरा ढालल:** कोई हर शब्द गाई, कोई गुनगुनाई, कोई पैर से ताल देई, आ कोई खाली सुनत रही। ई सब गिनती में आवेला। अधिका खातिर [संगीत गतिविधि गाइड](/activities/music/) देखीं।
 
-### Reminiscence groups
+### यादन के समूह
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+यादन के समूह कवनो विषय के चारो ओर जुटेला, जइसे स्कूल के दिन, पहिला गाड़ी, रसोई या गर्मी के छुट्टी, तस्वीर, चीज आ संगीत के साथे। मकसद सही-सही याद दिलावल ना, सुहावन बातचीत ह।
 
-**How to run it:**
+**कइसे चलाईं:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. एगो विषय चुनीं आ कुछ चीज लाईं जेकरा लोग पकड़ सकस: हाथ वाला मिक्सर, बेसबॉल के दस्ताना, टोपी, बीज के सूची।
+2. एक बेरा में एक चीज घुमाईं। खुला सवाल पूछीं: "एकरा बारे में बताईं," "का लागत बा?" "ई के इस्तेमाल करत रहे?"
+3. हर जवाब के स्वागत करीं। कवनो तारीख या बात के कबो सुधारीं ना।
+4. बातचीत के सुहावन यादन की ओर ले जाईं। Practice recommendations में कहल गइल बा कि देखभाल करे वाला लोग के यादन के सकारात्मक बात की ओर मोड़े के चाही, ओह बात की ओर ना जेहसे परेशानी हो सकेला।
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[बातचीत कार्ड](/games/conversation-cards/) में छपे लायक तस्वीर कार्ड बा, जेहमें विषय के हिसाब से खुला सवाल बा, जे चर्चा शुरू करे खातिर बढ़िया बा। अधिका विचार हमार [यादन गाइड](/activities/reminiscence/) में बा।
 
-### Finish the saying
+### कहावत पूरा करीं
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+जानल-पहचानल कहावत ("एक पइसा बचावल, एक पइसा कमावल...") सब के एक साथे अंत बोले खातिर बोलावेला। बड़ा स्क्रीन पर [कहावत पूरा करीं](/games/finish-the-saying/) देखाईं आ समूह के एक आवाज में जवाब दे दीं। हर कहावत के बाद बात करे खातिर एगो सवाल बा। अगर केहू अंत ना बोले, त देखाईं आ आगे बढ़ीं। कवनो सही-गलत नइखे।
 
-### Large-print word search, together
+### बड़ा अक्षर वाला शब्द खोज, साथे
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+बड़ा अक्षर वाला [शब्द खोज](/games/word-search/) स्क्रीन पर देखाईं आ समूह साथे शब्द खोजे, या छपल कॉपी दीं उनका खातिर जे मेज पर अकेले काम करे पसंद करेलन। शब्द सिर्फ आड़ा आ खड़ा छुपल बा।
 
-### Gentle movement
+### धीरे हरकत
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+बइठल में खिंचाव, नरम गेंद या गुब्बारा पास करे, या जानल-पहचानल संगीत पर कुर्सी पर नाचे। हर हरकत बताए के बजाय पहिले करके देखाईं।
 
-### Sorting and matching at the table
+### मेज पर छाँटे आ मिलावे के काम
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+तीन-चार लोग के छोट मेज पर तस्वीर, कपड़ा के नमूना या चम्मच छाँट सकेलन। स्क्रीन पर [तस्वीर जोड़ी](/games/picture-pairs/) तस्वीर खुलल छोड़ के खेलल जा सकेला, जहाँ एक आदमी टैप करे आ मेज हर तस्वीर पर बात करे।
 
-## How do I use your games on a big screen?
+## बड़ा स्क्रीन पर खेल कइसे इस्तेमाल करीं?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+हमार खेल वेब ब्राउज़र में चलेला, त टीवी या प्रोजेक्टर पर कवनो इंस्टॉल के बिना इस्तेमाल कर सकेनी।
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. केबल या कास्टिंग से स्क्रीन से जुड़ल लैपटॉप या टैबलेट पर खेल खोलीं।
+2. ब्राउज़र के पूरा स्क्रीन करीं आ आवाज आराम के स्तर पर राखीं।
+3. एक अगुआ टैप करे, आ समूह पसंद बोले। या टैबलेट केहू रहे वाला के दीं जे बारी लेवे चाहेला।
+4. जब समूह तैयार होखे, तब रुकीं। खेल में कवनो घड़ी, अंक या जबरदस्ती खतम करे के बात नइखे।
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[तस्वीर बिंगो](/games/picture-bingo/), [कहावत पूरा करीं](/games/finish-the-saying/), [तस्वीर जोड़ी](/games/picture-pairs/) आ [बातचीत कार्ड](/games/conversation-cards/) समूह खातिर सबसे बढ़िया लागेला। सब विकल्प खातिर हमार [खेल पन्ना](/games/) देखीं।
 
-## How do I adapt one activity for mixed abilities?
+## एक गतिविधि मिलल-जुलल क्षमता खातिर कइसे ढालीं?
 
-Plan at least three ways to join every activity.
+हर गतिविधि में जुड़े के कम से कम तीन तरीका सोचीं।
 
-| Activity | More independent | Some support | Most support |
+| गतिविधि | ज्यादा अपने से | थोड़ा सहारा | बेसी सहारा |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| तस्वीर बिंगो | अपने तस्वीर खोज के ढाँक ले | मदद करे वाला इशारा करे; व्यक्ति ढाँके | कॉलर वाली तस्वीर पकड़े; सुने आ देखे |
+| गीत के साथे गाना | गाए, अगिला गीत चुने | गुनगुनाए, ताली बजाए, शेकर चलावे | सुने, दुपट्टा पकड़े, हाथ पर थपथपावे |
+| यादन | कहानी सुनावे | हाँ-ना में जवाब दे या इशारा करे | चीज पकड़े आ छू के महसूस करे |
+| शब्द खोज | अपना छपल कॉपी पर काम करे | बड़ा स्क्रीन पर मदद करे वाला के साथे शब्द खोजे | शब्द पढ़ल जात घरी सुने |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+देर वाला चरण में रहे वाला लोग खातिर NHS कहत बा कि गतिविधि आमतौर पर अधिका आसान होखे के चाहीं आ इंद्रिय पर ध्यान देवे चाहीं, जइसे संगीत, छू के देखे वाली चीज आ हाथ की मालिश। समूह के बीच या बाद में एक-एक के साथ बिताल पल उनका खातिर समूह से बढ़िया हो सकेला। [देर वाला चरण की गतिविधि](/activities/late-stage/) देखीं।
 
-## How should leaders talk during a group?
+## समूह के बीच अगुआ कइसे बोलसु?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- हर बार अपना के परिचय दीं, आ हर आदमी के पसंद के नाम से बोलीं।
+- धीरे बोलीं, एक बेरा में एक कदम बताईं, आ बोलला से पहिले देखाईं।
+- खुला न्योता दीं ("बताईं...") या सीधा विकल्प, कबो सवाल पर परीक्षा मत बनाईं ("का आपके याद बा...?")।
+- सुधारीं मत। हर योगदान खातिर धन्यवाद दीं।
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+एह बारे में अधिका हमार [बातचीत के सुझाव](/caregiving/communication-tips/) में बा।
 
-## Ending well, and letting people leave
+## ठीक से खतम करीं, आ लोग के निकले दीं
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+रुक जाए के बात भी अच्छा नतीजा ह। थकान, बेचैनी या परेशानी के संकेत पर ध्यान दीं, आ मदद करे वाला से कहीं कि टहले या कवनो शांत जगह पर बइठे के पेशकश करे। गीत के बीच ऊँघत आदमी शायद बस आराम से होखे।
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+हर समूह के एक्के तरह खतम करीं, कवनो जाना-पहचाना गीत या सादा धन्यवाद से, ताकि अंत शांत आ उम्मीद के मुताबिक लागे। बाद में लिख लीं कि का काम कइलक आ के का पसंद कइलस। ओह नोट से अगिला सत्र बढ़िया होई।

@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Настройка на таблет или телефон за човек с деменция"
+seoTitle: "Настройте таблет или телефон за човек с деменция"
+description: "Стъпка по стъпка настройка на таблет или телефон за човек с деменция: едно приложение, по-голям текст, по-малко известия, прост екран, сила на звука и поверителност."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Направете таблета или телефона по-прости, преди да ги дадете на човека, за
+  когото се грижите. Заключете устройството към едно приложение с Guided Access
+  на iPad и iPhone или с закрепяне на приложение на Android, или използвайте
+  Assistive Access на Apple за опростен изглед. Увеличете текста, изключете
+  известията, оставете само няколко приложения на един начален екран, настройте
+  звука, използвайте стойка и ограничете разрешенията на приложенията. Използвайте
+  го заедно с занимания, които не са на екран.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) и закрепянето на приложение (Android) държат екрана на едно приложение, докато не го отключите."
+  - "Assistive Access на Apple предлага опростен изглед, създаден за хора с когнитивни увреждания."
+  - "Увеличете текста и изключете известията и изскачащите прозорци, за да нищо не прекъсва или не обърква."
+  - "Оставете само няколко познати приложения на един начален екран и настройте звука, преди да започнете."
+  - "Стойка и място за зареждане, което никога не се мести, правят устройството по-лесно за ползване и намиране."
+  - "Прегледайте разрешенията на приложенията и споделянето на данни: американският закон HIPAA обикновено не защитава данните, съхранявани на личното устройство."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Как да попреча на човек с деменция да напусне приложение на iPad?"
+    a: "Включете Guided Access от „Настройки“ > „Достъпност“ > „Guided Access“ и задайте парола. Отворете приложението, натиснете тройно горния бутон (или бутона „Начало“ на по-стари iPad) и докоснете „Старт“. iPad остава в това приложение, докато някой не въведе паролата."
+  - q: "Как да заключа таблет с Android към едно приложение?"
+    a: "Включете закрепянето на приложение в приложението „Настройки“, обикновено в „Сигурност“ (понякога „Сигурност и местоположение“) > „Разширени“ > „Закрепяне на приложение“. После отворете приложението, отворете прегледа на приложенията, докоснете иконата на приложението най-горе и докоснете „Закрепи“. За откачане е нужен вашият ПИН, фигура или парола."
+  - q: "Безопасно ли е да използвам Guided Access на собствения телефон на човека?"
+    a: "Бъдете внимателни. Apple посочва, че Откриване на катастрофа (Crash Detection) и Спешни услуги не са налични, докато Guided Access е включен. Ако човекът разчита на телефона си за спешни обаждания, използвайте Guided Access само когато сте с него, или обмислете Assistive Access вместо това."
+  - q: "Колко време пред екран е подходящо за човек с деменция?"
+    a: "Няма определено число. Кратки, общи сесии, смесени с разходки, музика, домакински дейности и разговори, правят деня по-пълноценен от дълги часове сам пред екран. Ако устройството причинява раздразнение или измества други занимания, ползвайте го по-малко."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Таблетът може да бъде хубав начин за споделяне на снимки, музика и прости игри. Но може и да обърка: случайно докосване отваря друго приложение, изскача известие, текстът е твърде дребен или екранът угасва по средата на играта. Малко настройка от ваша страна решава повечето от тези проблеми.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Стъпките използват вградените настройки на iPhone, iPad и Android. Имената на менютата могат да се различават според версията на софтуера и производителя, затова, ако нещо изглежда различно, следвайте свързаната страница на Apple или Google за вашето устройство. Направете настройката сами, преди да седнете заедно.
 
-## Should someone with dementia use a tablet or phone?
+## Подходящ ли е таблет или телефон за човек с деменция?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Зависи от човека. Мнозина харесват таблета, когато някой седи до тях, дори да не биха се справили сами. Започнете, като го ползвате заедно, с едно отворено приложение, за няколко минути. Ако носи радост и разговор, продължете. Ако носи объркване или раздразнение, фотоалбум, отпечатани листове или музика може да подхождат по-добре. Нашите [печатни занимания](/activities/printable/) са една алтернатива.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Таблетът обикновено е по-лесен от телефона: екранът и снимките са по-големи, а освен това не е и спасителната линия на човека при спешност.
 
-## How do I lock a tablet or phone to one app?
+## Как да заключа таблет или телефон към едно приложение?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Използвайте Guided Access на iPhone и iPad или закрепяне на приложение на Android. И двете държат екрана на едно приложение, докато не въведете код, така че случайно докосване или плъзгане не може да отвори нещо друго.
 
-### iPad and iPhone: Guided Access
+### iPad и iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Според [инструкциите на Apple за Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Отворете **Настройки**, докоснете **Достъпност**, след това докоснете **Guided Access** и го включете.
+2. В **Настройки на паролата** задайте парола за Guided Access. Може също да разрешите Face ID или Touch ID.
+3. По желание: в **Автоматично заключване на дисплея** изберете колко бързо екранът да се заключва по време на сесията, за да не угасва по средата на играта.
+4. Отворете приложението, което искате да ползвате.
+5. Натиснете тройно страничния бутон (iPhone), горния бутон (iPad) или бутона „Начало“ на по-старите устройства.
+6. По желание: очертайте частите на екрана, които да не реагират на докосване. Докоснете **Опции** (или **Настройки на сесията**), за да изключите бутоните за сила на звука или завъртането на екрана.
+7. Докоснете **Старт**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+За да прекратите сесията, натиснете тройно същия бутон, въведете паролата и докоснете **Край**. Apple уточнява, че при някои по-стари версии на софтуера трябва да натиснете два пъти.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Важно:** Apple посочва, че Откриване на катастрофа (Crash Detection) и Спешни услуги не са налични по време на сесия на Guided Access. Не оставяйте Guided Access включен на телефон, който човекът може да ползва за спешни обаждания.
 
-### Android: app pinning
+### Android: закрепяне на приложение
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Според [помощта на Google за закрепяне на екрани](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Отворете приложението **Настройки**.
+2. Докоснете **Сигурност** (или **Сигурност и местоположение**), след това **Разширени** и после **Закрепяне на приложение**. Ако не го намирате, потърсете в помощта на производителя на устройството.
+3. Включете **Закрепяне на приложение**. За откачане ще ви трябва ПИН, фигура или парола.
+4. Отворете нужното приложение. Плъзнете нагоре до средата на екрана и задръжте, за да отворите прегледа на приложенията (или докоснете Преглед при навигация с 3 бутона).
+5. В горната част на визуализацията на приложението докоснете иконата му, после докоснете **Закрепи**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+За откачане при навигация с жестове плъзнете нагоре и задръжте. При навигация с 3 бутона задръжте Назад и Преглед. При навигация с 2 бутона задръжте Назад и Начало. След това въведете ПИН, фигура или парола.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Има ли по-прост режим за целия iPhone или iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Да. Assistive Access на Apple заменя обичайния начален екран с по-прост. [Apple го описва](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) като създаден, за да може хората с когнитивни увреждания по-лесно да използват iPhone самостоятелно, с по-големи елементи на екрана и по-фокусирани функции. Apple предлага [същата функция и за iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Кой я настройва.** Apple предлага доверен помощник, например член на семейството или близък, който познава човека, да помогне за избора на приложения и функции.
+- **Откъде да започнете.** Отидете в **Настройки > Достъпност > Assistive Access**, докоснете **Настрой Assistive Access**, после **Продължи**.
+- **Приложения.** Вие избирате кои приложения да се показват. Някои приложения на Apple имат специални опростени версии, а повечето други могат да се добавят в обичайния си вид.
+- **Изглед.** Изберете **Редове** (лесен за четене списък) или **Решетка** (по-големи елементи, които подчертават снимките и иконите).
+- **Парола.** Задавате отделна парола за Assistive Access, за да влизате, излизате или променяте настройки. Apple препоръчва по време на настройката да зададете възстановяващ Apple Account, защото без него забравена парола означава нулиране на устройството.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access може да подхожда на човек, който ползва собственото си устройство всеки ден. Guided Access или закрепянето на приложение са по-бързи за обща игрова сесия.
 
-## How do I make text and pictures bigger?
+## Как да направя текста и снимките по-големи?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Увеличете текста и размера на дисплея, после проверете дали бутоните все още се побират на екрана.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone и iPad.** Според [инструкциите на Apple за размера на шрифта](https://support.apple.com/en-us/102453) отидете в **Настройки > Дисплей и яркост > Размер на текста** и плъзнете плъзгача. За още по-голям текст отидете в **Настройки > Достъпност > Дисплей и текст > По-голям текст**. Apple отбелязва, че много голям текст може да затрудни натискането на някои бутони, затова коригирайте, ако е нужно.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Според [помощта на Google за настройките на текста и дисплея](https://support.google.com/accessibility/android/answer/11183305?hl=en) отворете **Настройки** и потърсете **Размер на шрифта**, после преместете плъзгача. Потърсете **Размер на дисплея**, за да увеличите всичко на екрана. Може също да включите **Удebelен текст** в **Достъпност > Размер на дисплея и текст**. Някои приложения не следват тези настройки.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+В игри като [Картинни двойки](/games/picture-pairs/) и [Намери същото](/games/find-the-same/) можете също да изберете по-малко плочки или избори, което прави екрана по-прост.
 
-## How do I stop notifications and pop-ups?
+## Как да спра известията и изскачащите прозорци?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Изключете известията за приложенията, които не ви трябват, и използвайте режима „Не безпокойте“ по време на занимания.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone и iPad.** Отидете в **Настройки > Известия**, докоснете приложение под **Стил на известията** и изключете **Разреши известия** ([ръководството на Apple за известията](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). За да заглушите обаждания, сигнали и известия за известно време, отворете Контролния център и включете **Не безпокойте** от бутона **Фокус** ([помощта на Apple за „Не безпокойте“](https://support.apple.com/en-us/105112)). Можете да го насрочите в **Настройки > Фокус > Не безпокойте > Задай график**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Плъзнете надолу от горния край на екрана и докоснете **Не безпокойте** или отидете в **Настройки > Режими > Не безпокойте** ([помощта на Google за „Не безпокойте“](https://support.google.com/android/answer/9069335?hl=en)). Под **Филтри за известия** можете да изберете кои хора и приложения все още могат да се свързват с вас. Настройките се различават според производителя.
 
-## How do I make a simple home screen?
+## Как да направя прост начален екран?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Оставете няколко познати приложения на един екран и преместете останалите извън полезрението. Няма една настройка за това; става дума за премахване на излишното.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Изберете три до шест приложения.** Например снимки, музика, приложение за видеоразговори и една игра.
+- **Поставете ги на първия екран** на едни и същи места всеки път, а всичко останало преместете на втори екран или в папка.
+- **Използвайте прост фон с висок контраст,** например един цвят или една познат снимка, за да се виждат иконите.
+- **Изтрийте ненужните приложения.** По-малко приложения означават по-малко възможности за объркване и по-малко събрани данни.
+- **Обмислете Assistive Access** на устройства на Apple, ако искате устройството да го направи вместо вас.
 
-## What about volume and sound?
+## Какво да кажа за звука?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Настройте удобна сила на звука, преди да дадете устройството. С Guided Access можете да изключите бутоните за сила на звука, за да не се променя по време на занимание. Проверете дали слуховите апарати са поставени и работят.
 
-## Where should the tablet live?
+## Къде трябва да стои таблетът?
 
-Give it a stand and a permanent charging spot.
+Дайте му стойка и постоянно място за зареждане.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Стойка или калъф,** който държи таблета изправен на масата, така че никой да не го държи в ръка и посочването е по-лесно.
+- **Едно място за зареждане,** което никога не се мести, за предпочитане стойка на маса в стая, която използвате всеки ден. Таблетът е винаги зареден и винаги на едно и също място.
+- **Намалете отраженията.** Поставете екрана далеч от ярък прозорец.
 
-## How much screen time is okay?
+## Колко време пред екран е подходящо?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Няма правилен брой минути. Стремете се към кратки, общи сесии като част от пълноценен ден, който включва движение, музика, домакински задачи, разговори и време на открито. Тъй като натоварените вечери могат да засилят вечерния неспокойствие, обмислете да оставите екранните занимания за по-ранните часове на деня. Вижте [спокойни занимания следобед и вечер](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Ползването на таблет заедно, а не като начин да бъде човекът зает, го прави социален. Нашето ръководство за [игра заедно](/caregiving/how-to-play-together/) обяснява как.
 
-## How do I protect their privacy on the device?
+## Как да защитя поверителността на човека в устройството?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Ограничете какво могат да събират приложенията и не приемайте, че законът за здравната поверителност го обхваща. Министерството на здравеопазването и социалните услуги на САЩ (HHS) [обяснява](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), че правилата на HIPAA обикновено не защитават здравната информация, съхранявана на или достъпна чрез лични телефони и таблети. В повечето случаи HIPAA не защитава и данните, въведени в приложения за лична употреба, освен ако приложението не е от здравен доставчик, здравна застраховка или техен бизнес партньор. HIPAA е американски закон и в България неговите правила не се прилагат директно. Тук важат общите правила за защита на личните данни, включително Общият регламент за защита на данните (GDPR). Проверете какво пише в политиката за поверителност на всяко приложение.
 
-HHS suggests:
+HHS препоръчва:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- да избягвате ненужни или случайни приложения, особено „безплатните“;
+- да не давате достъп до местоположението, освен ако приложението наистина не го изисква, например картите.
 
-Also consider:
+Също така обмислете:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Използвайте парола** на устройството и запазете паролата на сигурно място.
+- **Прегледайте разрешенията** за снимки, камера, микрофон, контакти и местоположение и изключете всяко, което приложението не използва.
+- **Проверете какво събира приложението**, преди да го инсталирате. Нашето ръководство за [избор на приложения и игри за деменция](/caregiving/choosing-apps-and-games/) съдържа списък за проверка на поверителността.
+- **Внимавайте със семейните снимки.** Споделяйте само снимки, с които човекът би се чувствал удобно, и знайте къде приложението ги съхранява. В [Снимкови двойки](/games/photo-pairs/) избраните от вас снимки остават във вашия браузър.
+- **Изключете покупките в приложения** или премахнете платежните данни от профилите, които човекът използва.
