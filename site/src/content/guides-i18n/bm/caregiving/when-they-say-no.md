@@ -1,34 +1,36 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Ni hakilijigin bana bɛ mɔgɔ la, a b’a bali walima a bɛ dimi baara la"
+seoTitle: "Ni hakilijigin bana bɛ mɔgɔ la, a b’a bali baara la"
+description: "Mun na mɔgɔ min bɛ hakilijigin bana na bɛ se ka baara bali walima ka dimi, i bɛ se ka mun kɛ, i kana mun kɛ, ani tuma min na dɔgɔtɔrɔ ka kan ka wele."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Ni hakilijigin bana bɛ mɔgɔ la ani a ko ayi, a sɔn n’a ye hɛɛrɛ la, k’a
+  lajɛ kokura kɔfɛ walima ka fɛn wɛrɛ di a ma. A bali bɛ se ka kɛ sababu ye:
+  baara in bɛ se ka gɛlɛya a ma walima ka kɛ i ko denmisɛnw ta, a sɛgɛnnen
+  don, a bɛ dimi farikolo la, kɔnɔnajɛ b’a la, walima mankan ni ɲagami caman
+  b’a ɲagami. I kana sɔsɔ a fɛ walima k’a karaba. Baara nɔgɔya, sugandi fila
+  di a ma, walima a deli a ka i dɛmɛ. Ni a kɛcogo bɛ yɛlɛma yɔrɔ kelen walima
+  joona, kɛrɛnkɛrɛnnenya la ni bana walima fura kura b’a kan, a ka kan ka taa
+  dɔgɔtɔrɔ fɛ joona.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "« Ayi » ye jaabi ye min ka kan ka bonya, a tɛ gɛlɛya ye min ka kan ka se sɔrɔ a kan."
+  - "A bali bɛ sababu sɔrɔ tuma caman na: a ka gɛlɛn, a bɛ i ko denmisɛnw ta, sɛgɛn, bana, dusukasi, walima ɲagami caman."
+  - "I yɛrɛ bɔ o la, i ka makɔnɔ, k’a lajɛ kokura kɔfɛ, waati wɛrɛ la, walima cogo nɔgɔman na."
+  - "A deli a ka i dɛmɛ, o ka fisa ni k’a ɲini a fɛ a ka a jira."
+  - "I kana sɔsɔ a fɛ, k’a karaba, k’a ɲininka walima k’a ladilan. I yɛrɛ lajɛ fana ni i bɛ teliya walima k’a datugu."
+  - "Ni a kɛcogo bɛ yɛlɛma yɔrɔ kelen walima joona, kɛrɛnkɛrɛnnenya la ni bana walima fura kura b’a kan, a ka kan ka taa dɔgɔtɔrɔ fɛ joona."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Yala a ka ɲi ka a to a ka baara bɛɛ bila wa?"
+    a: "Ɔwɔ, don kelen kelen bɛɛ la. Sigili ɲɔgɔn fɛ, dɔnkilida lamɛnni walima lamini kɛli ka kɛnɛ lajɛ, o bɛ se ka dafa. Nka ni mɔgɔ dɔ bɔra ka diya sɔrɔ fɛn bɛɛ la dɔgɔkun caman kɔnɔ, i k’a fɔ a ka dɔgɔtɔrɔ ye, bawo dusukunnata, dimi walima kɛnɛya gɛlɛya wɛrɛw bɛ se ka kɛ o la."
+  - q: "Mun na a bɛ fɛnw bali minnu diyara a ye fɔlɔ?"
+    a: "Kɔrɔlen ka baara min diyara a ye, o bɛ se ka kɛ dimi ye ni a bɛ seko de wajibiya minnu gɛlɛyara hakilijigin bana fɛ, ani mɔgɔ in bɛ se ka maloya. I bɛ se k’o baara kelen fan nɔgɔman dɔ lajɛ, i n’a fɔ butɔniw tila-tila sanni ka kɔsɔ kɛ, walima nakɔ jaw lajɛ sanni ka jiri falen."
+  - q: "Yala ne ka kan k’a lasɔn a ma wa?"
+    a: "Ayi. Ni mɔgɔ dɔ karaba ka fɛn kɛ min gɛlɛyara a ma hakilijigin bana fɛ, o ye fɛn ye min bɛ dimi lawuli. Ayi sɔn, kuma yɛlɛma, k’a di a ma kokura kɔfɛ walima cogo wɛrɛ la."
+  - q: "Tuma jumen na a kɛcogo yɛlɛmani ye kɔrɔtɔko ko ye?"
+    a: "Aw ka sigida ka kɔrɔtɔko nimɔrɔ wele ni mɔgɔ dɔ bɛ farati la walima ni kɔrɔtɔko kɛnɛya taamasiɲɛw b’a la. Ni hakilijigin walima kɛcogo bɛ yɛlɛma joona lɛrɛw walima don damadɔ kɔnɔ, kɛrɛnkɛrɛnnenya la ni farigan, bana walima fura kura b’a kan, a ka dɔgɔtɔrɔ wele joona."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +52,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+I bɛ fɛnw labɛn, ka tulon dɔ walima taama surun di, k’a mɛn ko « Ayi ». Walima baara daminɛna ka ɲɛ, nka a laban na tabalɛti bilalen don ani kuma gɛlɛn dɔ fɔra. O bɛ mɔgɔ dusu tiɲɛ, wa a ka ca. A bali ni a dimi, olu ye cikan ye tuma caman na, u tɛ kuncɛbaya ye. Ni i bɛ se ka cikan in faamuya, o bɛ se k’i jira fɛn min ka kan ka kɛ nata la.
 
-## Why does someone with dementia refuse activities?
+## Mun na mɔgɔ min bɛ hakilijigin bana na bɛ baara bali?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Tuma caman na sababu bɛ yen, hali ni mɔgɔ in tɛ se k’a fɔ daɲɛw la. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) b’a fɔ ko ban bɛ se k’a jira ko mɔgɔ in tɛ se ka baara kɛ walima siranya b’a la k’a lajɛ. Sababu minnu ka ca, olu ye ninnu ye:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **A bɛ i ko a ka gɛlɛn.** Baara in bɛ seko de wajibiya sisan minnu gɛlɛyara hakilijigin bana fɛ, wa dɛsɛ sɔrɔli mɔgɔ wɛrɛ ɲɛ na, o bɛ maloya lase.
+- **A bɛ i ko denmisɛnw ta.** Mɔgɔkɔrɔbaw bɛ ja denmisɛnwmanw, kumakan denmisɛnwmanw ani baara minnu bɛ i ko u dilanna denmisɛnw de ye, olu kɔlɔsi.
+- **Sɛgɛn.** Mɔgɔ caman fanga bɛ dɔgɔya tile kɔfɛ. Aw ye [suwula kɔfɛ baara dusumanw](/caregiving/late-day-restlessness/) lajɛ.
+- **Farikolo dusukasi.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) bɛ dimi, sunɔgɔ dɛsɛ, yeli walima mɛnni gɛlɛya, kɔnɔ gɛlɛya, kɔnɔnajɛ, jiminnajɛ ani fura kura kɔlɔlɔw fɔ i n’a fɔ fɛnw minnu bɛ se ka tɔɔrɔ sababu ye.
+- **Fɛn caman bɛ kɛ ka taa ɲɔgɔn fɛ.** Telewisɔn mankanba, kumaɲɔgɔnya caman walima so fa, olu bɛ se ka mɔgɔ ɲagami.
+- **A bɛ i ko a karabalen don.** NIA b’a fɔ ko ni mɔgɔ karabalen don ka fɛn kɛ min gɛlɛyara a ma Alzheimer bana fɛ, walima ka ko walima mɔgɔw hakili jigin, o bɛ se ka dimi lawuli.
+- **Dusukunnata.** Ni fɛnw tɛ diya mɔgɔ ye tugun, o bɛ se ka kɛ dusukunnata taamasiɲɛ ye, min ka kan ka fɔ dɔgɔtɔrɔ ye.
+- **A t’a fɛ kɛrɛnkɛrɛnnenya la.** Mɔgɔkɔrɔbaw ka kan ka se k’a fɔ ko ayi.
 
-## What should I try when they say no?
+## Ni a ko ayi, ne ka kan ka mun lajɛ?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Ayi sɔn hɛɛrɛ la, o kɔ i ka fɛn dɔ yɛlɛma: waati, baara, gɛlɛya hakɛ walima i bɛ a ɲini cogo min na.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **A to sisan.** « O tɛ baasi ye. N’a sɔrɔ kɔfɛ. » O kɔ, i ka taa fɛn wɛrɛ la k’a sɔrɔ i ma ninakili kɛ.
+2. **A lajɛ kokura kɔfɛ.** Alzheimer's Association b’a fɔ k’a lajɛ kokura kɔfɛ, walima tile waati wɛrɛ la.
+3. **A kɛ fitinin ye.** Bɛnkan kelen sanni ka tulon dafalen kɛ. Finimugu kelen sanni ka finiko kɛ. Jaw dɔgɔya, sugandiw dɔgɔya, jaw to u bɛ ye.
+4. **Sugandi fila di a ma.** « I b’a fɛ ka kɔnɔw jaw lajɛ walima ka dɔnkilida dɔ lamɛn wa? » Sugandi bɛ dɛmɛ ka kunnafoniya segin a ma.
+5. **A deli a ka i dɛmɛ, a kana a ɲini a fɛ a ka a jira.** « I bɛ se ka n dɛmɛ ka ninw tila-tila wa? » walima « I bɛ se k’a fɔ ne ye kulɛri jumen ka ɲi kosɛbɛ wa? » Ni mɔgɔ b’a ye ko a nafa bɛ yen, o tɛ kelen ye ni k’a kɔrɔbɔ.
+6. **I yɛrɛ k’a daminɛ.** Baara daminɛ a kɛrɛfɛ k’a sɔrɔ i m’a ɲininka. Mɔgɔ caman bɛ fara a kan ni fɛn dɔ bɛ sen na kaban, wa ni u ma fara a kan, aw ye waati kɛ ɲɔgɔn fɛ hali bi.
+7. **Taa fɛn wɛrɛ la min bɛ farikolo lamaga walima ka dusu saalo.** Taama surun, dɔnkilida, dumuni fitinin, finiw dabɔli, walima [ninakili dusuman](/games/calm-breathing/) kɛli ɲɔgɔn fɛ. NIA b’a fɔ ka hakili bila dɔnkilida, gafɛ walima taama la.
+8. **A to a k’a kɛ a yɛrɛ sago la.** Ni a b’a fɛ k’a tulon cogo wɛrɛ la ka tɛmɛ sariya kan, a sɔn o ma. Alzheimer's Association b’a ladili ko ka yɛlɛma.
 
-## What should I say when they get frustrated?
+## Ni a dimina, ne ka kan ka mun fɔ?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+I ka sumaya, i ka kuma dɔgɔya, k’a dusu saalo. [Alzheimer's Association ka ladilikan dimi kan](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) b’a fɔ k’i yɛrɛ bɔ o la k’a yamaruya ɲini, ka kuma nɔgɔlen ni ɲumanw fɔ, ani ka sugandi fila di a ma. Kuma minnu bɛ se ka kɛ o cogo la:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- « Hakɛ to, nin bɛ mɔgɔ tɔɔrɔ. An k’a dabila. »
+- « I bɛ ka ɲɛ. Ne bɛ yan. »
+- « Yala waati b’i fɛ ka n dɛmɛ fɛn wɛrɛ la wa? »
+- « An ka te min sanni wa? »
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+O kɔ, baara dabila k’a sɔrɔ i m’a kɛ ko belebele ye. Anw ka [kumaɲɔgɔnya ladilikɛw](/caregiving/communication-tips/) bɛ fɛn wɛrɛw fɔ i bɛ se ka minnu fɔ.
 
-## What should I avoid?
+## Ne kana mun kɛ?
 
-Some natural reactions tend to make things worse.
+Jaabi dɔw minnu bɛ bɔ an na cogo la, olu bɛ se ka ko juguya tuma caman na.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Sɔsɔli walima karaba.** « I ka kelen wɛrɛ kɛ » walima « I bɛ o fɛ » o tɛ dɛmɛ tuma caman na.
+- **Ɲininkali walima ladilanni.** « I b’a dɔn nin ye mun ye » walima « Ayi, o tɛ ɲɛ » o bɛ degun fara a kan.
+- **K’a ta i yɛrɛ ko la.** NIA bɛ ladonbagaw hakili jigin ko bana de bɛ nin yɛlɛmaniw lase, a tɛ mɔgɔ yɛrɛ ye.
+- **Ka datugu walima ka teliya.** Alzheimer's Association b’a fɔ i kana i kan kɔrɔta, i kana siranya jira, i kana a datugu, i kana a digi, i kana a jalaki, i kana a sɔngɔ dɔgɔya, i kana a bila, i kana sɔsɔ a fɛ, ani i kana yɛlɛma yɔrɔ kelen a kɔ k’a sɔrɔ a m’a ye.
+- **Jalaki kɛli.** « Ne ye nin bɛɛ labɛn i de ye » o bɛ aw fila bɛɛ dusu tiɲɛ.
+- **Tɔgɔ jugu la.** « Kuncɛbaya » walima « Gɛlɛn » o bɛ sababu tiɲɛ dogo, wa o b’a to a ɲɛnabɔli ka gɛlɛya.
 
-## How can I find out what is behind repeated refusals?
+## Ne bɛ se ka a dɔn cogo di ko mun bɛ a bali segin-segin kɔ?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Sɛbɛn fitinin dɔ kɛ dɔgɔkun kelen walima fila kɔnɔ. NIA b’a fɔ ko kɛcogo yɛlɛmaniw sɛbɛnni bɛ se ka ladonbagaw ni kɛnɛya baarakɛlaw dɛmɛ u ka taamasiyɛn dɔ dɔn ani k’a sababu ɲini.
 
-Jot down:
+I bɛ se k’a sɛbɛn:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- tile waati;
+- i ye mun di a ma ani i y’a ɲini cogo min na;
+- fɛn minnu tun bɛ kɛ aw lamini na (mankan, lɔnbagaw, telewisɔn);
+- a sunɔgɔra cogo min na, a dunna ani a minna cogo min na, ani a taara boon kɔnɔ tuma min na laban;
+- fura kura walima bana min kɛra kɔsa in na.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Tuma caman na, taamasiyɛnw bɛ bɔ joona: a bali bɛ kɛ tile 16:00 kɔfɛ dɔrɔn, tulon kelen dɔrɔn na, walima ni telewisɔn bɛ mɛn dɔrɔn. Family Caregiver Alliance ka [hakilijigin bana kɛcogo ɲɛfɔ gafe](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) b’a fɔ nɔgɔya la: an tɛ se ka mɔgɔ yɛlɛma, nka an bɛ se k’an yɛrɛ ka kɛcogo ni sigida yɛlɛma.
 
-## When should I talk to a doctor about refusal or frustration?
+## Tuma jumen na ne ka kan ka kuma dɔgɔtɔrɔ fɛ a bali walima a dimi kan?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+I ka kuma dɔgɔtɔrɔ fɛ ni a kɛcogo bɛ yɛlɛma yɔrɔ kelen, joona, walima ni bana taamasiɲɛw b’a fara a kan. NIA b’a fɔ ko ni kɛcogo bɛ yɛlɛma yɔrɔ kelen walima joona, kɛrɛnkɛrɛnnenya la ni bana walima fura yɛlɛmani kɛra kɔsa in na, o ka kan ka lase dɔgɔtɔrɔ ma joona.
 
-Contact their doctor promptly if you notice:
+I ka dɔgɔtɔrɔ wele joona ni i ye ninnu ye:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- hakilijigin yɔrɔ kelen walima yɛlɛmaniba lɛrɛw walima don damadɔ kɔnɔ;
+- dimi taamasiɲɛw, i n’a fɔ ɲɛda minɛ, farikolo fan dɔ tanga, walima lamaga gɛlɛya kura;
+- farigan walima bana taamasiɲɛ wɛrɛw;
+- fura kura walima fura yɛlɛmani min kɛra, o kɔfɛ a kɛcogo yɛlɛmana;
+- a tɛ diya fɛn si la, ɲɛji bɔli walima a yɛrɛ bɔli min bɛ to dɔgɔkun fila ni kɔ;
+- dumuni walima minni bali.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association b’a fɔ ka kɛnɛya sɛgɛsɛgɛli dafalen kɛ mɔgɔ bɛɛ ye min bɛ ni kɛcogo taamasiɲɛw ye, kɛrɛnkɛrɛnnenya la ni u bɔra yɔrɔ kelen. Family Caregiver Alliance fana b’a fɔ ka dɔgɔtɔrɔ ɲininka fɔlɔ, bawo kɛcogo gɛlɛyaw bɛ se ka kɛ ni kɛnɛya sababu ye. I kana fura si daminɛ, ka a dabila walima k’a yɛlɛma k’a sɔrɔ i ma kuma dɔgɔtɔrɔ walima furakɛla fɛ.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Ni mɔgɔ dɔ bɛ farati la walima ni kɔrɔtɔko kɛnɛya taamasiɲɛw b’a la, aw ka sigida ka kɔrɔtɔko nimɔrɔ wele. NIA b’a fɔ k’a ɲɛfɔ welebaga ye ko hakilijigin bana bɛ mɔgɔ in na.
 
-## Is it okay if we do nothing at all?
+## Yala a ka ɲi ni an ma foyi kɛ pewu wa?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ɔwɔ. Don dɔw la, baara ɲuman ye ka baara kɛ: sigili ɲɔgɔn fɛ, bolo minɛ ɲɔgɔn na, dɔnkilida min diyara a ye o lamɛnni, walima kɔnɔw lajɛ filɛri fɛ. O tɛ dɛsɛ ye. Anw ka [tulon kɛcogo ɲɔgɔn fɛ ɲɛfɔ gafe](/caregiving/how-to-play-together/) b’a ɲɛfɔ mun na a dabilali joona, walima a daminɛbaliya, bɛ se ka kɛ sugandi ɲuman ye.
