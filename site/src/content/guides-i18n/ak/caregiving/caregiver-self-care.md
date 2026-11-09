@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Wo Ho Hwɛ Ankasa: Ahomegyē, Mmoa ne Ayeraa Nsɛnkyerɛnne"
+seoTitle: "Ahoɔden Ayera Hwɛ: Ahomegyē ne Mmoa"
+description: "Nsɛnkyerɛnne a ɛda ahoɔden ayera adi, sɛnea wobɛhwehwɛ ahomegyē ne mmoa, ne Amerika mu telefon boafoɔ a wɔnni tua, nso."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Onipa a wɔwɔ dementia a wohwɛ so no yɛ adwuma a ɛyɛ den, na ɛho hia sɛ wo ho
+  nso hwɛ so. Hwɛ nsɛnkyerɛnne te sɛ ahoɔden a ayera, abufuw, nnadwo a wɔn ho
+  nnye, ne sɛ wotwe wo ho firi nnamfo ho. Srɛ mmoa a ɛyɛ pefee, fa ahomegyē
+  boafoɔ (respite care) di dwuma, na fa ho ka ahoboa kuw ho. Amerika mu mmoa a
+  wɔnni tua ne Alzheimer's Association 24/7 Helpline a wobɛfrɛ 1-800-272-3900 ne
+  Eldercare Locator a wobɛfrɛ 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Ahoɔden ayera a ɛbaa mu no di nsɛnkyerɛnne sɛ wo ho yɛ wo fɛ, wo abufuw ayɛ mmɔden, nnadwo a wunni nnaa, awerɛhyɛ, ne sɛ wo ankasa ho hwɛ no gyae."
+  - "Ahomegyē boafoɔ ma wo ahomegyē, firi nnɔnhwerɛ kakra kosi nnawɔtwe pii, wɔ fie anaa wɔ ayaresabea mu."
+  - "Srɛ mmoa wɔ adwuma a ɛyɛ pefee mu; nnipa pii pɛ sɛ wɔboa, nanso wɔnnim sɛnea wɔbɛboa."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) de boafoɔ a wɔnni tua ne a ɛyɛ kokoam bere biara ma."
+  - "Eldercare Locator (1-800-677-1116) fa wo ho kɔ mmoa a ɛwɔ wo mpoano, ne Area Agency on Aging a ɛwɔ hɔ."
+  - "Sɛ wo ho yɛ wo fɛ anaa wowɔ ɔhaw kɛse mu, frɛ anaa soma SMS kɔ 988. Wɔ ɔhaw a ɛyɛ ntɛm mu, frɛ 112."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Ahoɔden ayera nsɛnkyerɛnne ye dɛn?"
+    a: "Nsɛnkyerɛnne a ɛbaa hɔ bio ne sɛ wo ho yɛ wo fɛ, wo ho yɛ wo a wo ho hye, wo ho yɛ wo abufuw ntɛm, nnadwo a wunni nnaa, wo ho yɛ wo awerɛhyɛ anaa wo ho yɛ wo, wotwe wo ho firi nnamfo ho, wo ho yɛ wo yare anaa ɔyareɛ a ɛba mu daa, ne sɛ wo ankasa aduane, nnwuma anaa yareɛ hwɛ gyae. Sɛ nsɛnkyerɛnne te saa ber a ɛba mu daa, kasa kyerɛ wo dɔkota."
+  - q: "Ɛdeɛn na mehwehwɛ ahomegyē boafoɔ wɔ mʼakyi wɔ ha?"
+    a: "Fi Eldercare Locator (1-800-677-1116 anaa eldercare.acl.gov) ase de rekɔ Area Agency on Aging a ɛwɔ hɔ, ARCH National Respite Locator Service anaa Alzheimer's Association Helpline a wobɛfrɛ 1-800-272-3900. Abusua, nnamfo ne adwumayɛfoɔ nso betumi ama wo ahomegyē."
+  - q: "Medicare tua ahomegyē boafoɔ ho sika anaa?"
+    a: "Sɛ onipa a wɔrehwɛ no wɔ hospice mu no, National Institute on Aging kyerɛ sɛ Medicare tua ahomegyē boafoɔ ho sika a ɛboro mu, ɛkɔ akyiri nnanson a wɔtoa so wɔ ayaresabea anaa skilled nursing facility mu. Ɛnyɛ nnipa pii ahoɔdenhwɛ insurance tua ahomegyē ho sika; Medicaid ne long-term care insurance bi betumi aboa."
+  - q: "Alzheimer's Association Helpline no yɛ kwa, na ɛbɛyɛ adwuma anadwo?"
+    a: "Aane. Alzheimer's Association kyerɛ sɛ wɔn Helpline a wobɛfrɛ 1-800-272-3900 no yɛ kwa, ɛnnɔ mmoa, na adwumayɛfoɔ wɔ hɔ bere nyinaa, nnanso nna 365 wɔ afe biara mu, ne sɛ mmoa wɔ kasa pii mu. Frɛ 711 sɛ wopɛ relay service (Amerika mu)."
+  - q: "Ɛyɛ ahoho sɛ mefa ahomegyē firi hwɛ so?"
+    a: "Dabi. Ahomegyē boa wo sɛ wobɛtumi atoa so ahwɛ, na ahomegyē betumi nso ama onipa a wohwɛ so no nsɛmmisa ne nneyɛe foforɔ. Ahoɔdenhwɛfoɔ pii ka akyiri sɛ wɔpɛɛ sɛ wɔbisaa mmoa ntɛm."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Sɛ wohwɛ onipa a ɔwɔ dementia so a, ebia wo ho yɛ wo nnɛ anadwo, wo ho yɛ wo, na nneɛma a worenyɛ aka kyerɛ wo ho. Eyi yɛ adwuma a ɛyɛ kwan. Wo ho hwɛ nyɛ ɔtɔ anaa akatua a wonya esiane sɛ woawie nneɛma nyinaa. Ɛno ara na ɛma wo tumi kɔ so.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Saa kratafa yi kyerɛkyerɛ ahoɔden ayera nsɛnkyerɛnne, sɛnea wobɛnya ahomegyē a ɛyɛ nokorɛ, nea wobɛhwehwɛ mmoa, ne Amerika mu telefon boafoɔ a wɔnni tua a wobetumi afrɛ nnɛ.
 
-## What are the signs of caregiver burnout?
+## Ahoɔden ayera nsɛnkyerɛnne ye dɛn?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Ahoɔden ayera bɛba mu kɔkɔɔ, enti eboa sɛ wohu wo ankasa nsɛnkyerɛnne. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) kyerɛ ahoɔden ayera nsɛnkyerɛnne a ɛwɔ ho, a ɛka:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- ɔhwɛ sɛ woayera, wo ho yɛ wo anaa wo ho yɛ wo awerɛhyɛ;
+- wo abufuw ayɛ mmɔden anaa wo ntumi nnye ho;
+- wo ho yɛ wo owu anaa wotwe wo ho firi nnipa ho;
+- nnadwo a wunni nnaa, anaa wo nnadwo nnye;
+- wo ho yɛ wo awerɛhyɛ anaa wo ho yɛ wo owu, anaa wo ntumi nnye ho ne nneɛma a wopɛɛ ansa na woakɔ so;
+- wo ho yɛ wo yare anaa ɔhaw a ɛba wo nipadua mu daa;
+- wonni bere sɛ wobɛtu nnawɔtwe anaa wobɛyɛ aduane a ɛyɛ wo ho yiye;
+- wo ankasa ho hwɛ, te sɛ wosuro anaa wohwɛ wo ho yie, nni hɔ;
+- wode nsã anaa nnuro, nnuro a wɔde ma yare nso, aka ho.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ka nsɛnkyerɛnne foforɔ ho ka, te sɛ ɔyɛ ayɛ ayɛ sɛ ɔnnim yareɛ no ho, abufuw a ɛdi onipa so (sɛ “ɔyɛ saa ɛnam ne ankasa pɛ so”), awerɛhyɛ wɔ daakye ho, ntease a ɛyɛ den, ne ɔhaw a ɛba wo yare mu. Ɛka nso sɛ wɔka kyerɛ wo dɔkota sɛ nsɛnkyerɛnne te saa ber a ɛba mu daa.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Nea NIA ka ne sɛ, mfa ntwe ɛberɛ a woayɛ ma wo ho nyinaa. Hu wo nsɛnkyerɛnne ntɛm, na yɛ biribi wɔ ho.
 
-## What can I do today, in five minutes?
+## Ɛdeɛn na mɛyɛ nnɛ, wɔ nsɛmmienu mu?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Ahomegyē kakra nso yɛ mfaso. Eyi nyinaa remfa ahoɔden ayera nnyae, nanso ebetumi aboa wo sɛ wobɛtu ɔhaw nnaberɛ no mu.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Fi hɔ kɔ sɛ wobɛtena ahoɔ.** Tena sɛ wobɛtena ntoma so anaa wokɔ krataa dan no so bere a onipa no ne ahomegyē.
+- **Hɔ mmɔ ahome wɔ mmere.** Mmɔ ahome bi ansa na wobɛbua ɔhaw bi ano. Wobetumi nso akyekyɛ [Calm Breathing](/games/calm-breathing/) ahomegyē bere no ne onipa a woreha no.
+- **Nom nsuo na di biribi.** Ɛyɛ mmerɛ sɛ wo ho nnidi wo ankasa aduane.
+- **Frɛ wo nnamfo baako.** Ɛnyɛ sɛ wobɛsrɛ biribi, ɛyɛ sɛ wo ne wɔn ka ho.
+- **Ka biribi a ɛyɛ wo ho yiye kyerɛ wo ankasa.** NIA [akwankyerɛ a ɛfa wo ankasa hwɛ ho](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) hyɛ wo nsɛm te sɛ “Me reyɛ me nea metumi ayɛ,” “Merenyɛ pefee, na ɛyɛ” ne “Mɛdi ahomegyē bere a yɛne mo bɛyɛ asomdwoe.”
 
-## What is respite care, and how do I get it?
+## Ɛdeɛn ne ahomegyē boafoɔ, na ɛdeɛn na mɛnya no?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Ahomegyē boafoɔ yɛ mmoa a ɛyɛ mmerɛ ma onipa a woreha no, sɛnea wobɛtumi aba ahomegyē. NIA [kyerɛkyerɛ ahomegyē boafoɔ ho](https://www.nia.nih.gov/health/caregiving/what-respite-care) sɛ ɛbetumi atena nnɔnhwerɛ kakra kosi nnawɔtwe pii, na ɛbetumi aba fie, ayaresabea anaa adult day care center mu.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) kyerɛ ahomegyē boafoɔ a ɛwɔ hɔ kɛse:
 
-| Type | What it is |
+| Ɛdebɔ | Ɛyɛ dɛn |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Boafoɔ a ɔba fie | Nnamfo, abusua, odwumayɛfoɔ anaa adwumayɛfoɔ a wɔtua no sika ba fie |
+| Adult day center | Nneyɛe a wɔahyehyɛ, te sɛ nnwom ne adwene nhyehyɛe, wɔ baabi a nnipa wɔ asomdwoe; wɔde kɔ ne aduane bi mpo bɛma |
+| Anadwo anaa ntɛm tena | Ɔsoro ahoɔden hwɛ kɛse de hwɛ onipa no anadwo, nnanson anaa nnawɔtwe pii |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Hwan na ɔtua sika?** NIA kyerɛ sɛ abusua, nnamfo anaa ɔbɔadeɛ a wɔboa no betumi anni ahomegyē no ho sika. Adwumayɛfoɔ a wɔyɛ adwuma wɔ sika a wɔde gyina dɔnhwerɛ anaa da so. Sɛ onipa no hwɛ hospice ho no, Medicare tua ahomegyē a ɛboro mu wɔ ayaresabea anaa skilled nursing facility mu, nanso ɛkɔ akyiri nnanson a wɔtoa so. Medicaid betumi aboa. Ɛnyɛ nnipa pii ahoɔdenhwɛ insurance tua ahomegyē ho sika, nanso long-term care insurance bi betumi ayɛ saa.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Afotu:** Alzheimer's Association kyɔre sɛ wɔsɔ ahomegyē boafoɔ hwɛ wɔ bere a ɔhaw nni hɔ, ɛnam saa so ɛbɛyɛ sɛ wɔnam hɔ, sɛ ɔhaw ba ntɛm.
 
-## Where can I find help near me?
+## Ɛhe na mɛtumi anya mmoa a ɛbɛn me?
 
-Several free US services can point you to local help.
+Amerika mu mmoa a wɔnni tua bi betumi aboa wo sɛ wohu boafoɔ a ɛbɛn wo.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) no yɛ kwa na ɛyɛ kokoam, ɛnnɔ mmoa, adwumayɛfoɔ wɔ hɔ bere nyinaa wɔ afe biara mu, na mmoa wɔ kasa 200 bi mu, wɔ bilingual adwumayɛfoɔ anaa interpreters so. Frɛ 711 sɛ wopɛ relay service. Wobetumi aka nsɛmmɔnedi, ahoɔden ayera, ahomegyē boafoɔ, nhyehyɛe a ɛwɔ mmeae no mu ne nneɛma foforɔ ho asɛm, na wobetumi asrɛ sɛ wobɛka asɛm wɔ care consultant no nkyɛn tenenee. Adwumayɛfoɔ no nhwɛ yareɛ akwankyerɛ.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), a ɛyɛ Administration for Community Living adwuma a ɛyɛ mmoa ma nnipa, fa wo ho kɔ mmoa a ɛboa mmofra mmerante ne wɔn abusua. Wobetumi afrɛ, asoma SMS, aka wɔ online anaa asoma email kɔ adwumayɛfoɔ a wɔasua, anaa wobetumi ahwehwɛ wɔ baabi a wowɔ. Ɛbetumi akyerɛ wo Area Agency on Aging a ɛwɔ hɔ.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) boa wo sɛ wobɛhwehwɛ ahomegyē boafoɔ wɔ state so, na ɛkyerɛ wo sɛ ɛyɛ mmerɛ sɛ wo ne wo State Respite Coalition anaa Lifespan Respite program kasa ansa, sɛ wo state no wɔ hɔ. ARCH kyerɛ sɛ wɔnhwehwɛ ahomegyē boafoɔ no ho, enti hwɛ wɔn adwuma ne wɔn asɛnka ho wo ankasa.
 
-## How do I find a support group?
+## Ɛdeɛn na mɛhwehwɛ ahoboaboa kuw?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Bisa Helpline no anaa hwehwɛ wɔ online ahoboaboa kuw a ɛbɛn wo. Alzheimer's Association [di ahoboaboa kuw](https://www.alz.org/help-support/community/support-groups) ma ahoɔdenhwɛfoɔ ne nnipa a wɔwɔ dementia, wɔ baabi a wɔbɛhyia mu ne wɔ online, na adwumayɛfoɔ a wɔasua di so. Nkyɛn baabi nso wɔ ahoboaboa kuw a wɔayɛ ma nnipa bi, te sɛ ahoɔdenhwɛfoɔ a wɔyɛ adwuma kɛse, anaa nnipa a wɔwɔ younger-onset anaa early-stage Alzheimer's. Wɔ hɔ nso ALZConnected, ɛyɛ online kuw a ɛnni tua, baabi ahoɔdenhwɛfoɔ kyekyɛ afotu.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ahoboaboa kuw betumi ayɛ baabi a wobɛka wo werɛ mu a wonnkyɛ wo, na wobɛnya afotu a ɛboa firi nnipa a wɔatwa saa kwan no so, na ɛma wo werɛ nnyɛ wo ankasa. Sɛ kuw a wokɔɔ ansa na ɛnyɛ wo fɛ no, sɔ hwɛ foforɔ.
 
-## How do I ask family and friends for help?
+## Ɛdeɛn na mɛsrɛ abusua ne nnamfo mmoa?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Ka wo nsɛm pefee. Nnipa pii pɛ sɛ wɔboa, nanso wɔnnim nea wɔbɛma. NIA kyerɛ sɛ:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Kyerɛw nkrataa** a nnipa betumi agye adwuma no, na ma wɔapaw.
+- **Fi ketewa ase** sɛ srɛ yɛ den.
+- **Hyɛ adwuma no ne onipa no nhyehyɛe.** Ɔbaa a ɔpɛ aduane no bɛbrɛ anadwoma Kwasida. Ɔbɔadeɛ a ɔyɛ nwoma adwuma no bɛboa wo wɔ nkrataa ho.
+- **Fa telefon anaa email** sɛ ɛyɛ den sɛ wobɛka ho anim anim.
+- **Hyɛ ɔkasa bi ho adesua** sɛ obi ma wo mmoa: “Meda wo ase sɛ woabisa. Eyi ne nea wobetumi ayɛ.”
+- **Hwɛ sɛ ebia obi bɛka ampa**, na nsɛm yi nni wo mu.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Afotu foforɔ: srɛ obi sɛ ɔntena onipa no nkyɛn ɔkwan biako a ɔbɛyɛ bere a ɛyɛ nnɔnhwerɛ, anaa kɔ nnwomkɔkɔ bi a ɛnyɛ mmerɛ, anaa ba ayaresa na mo nyinaa wɔ aduane bi a mobɛyɛ. Yɛn [akwankyerɛ a ɛfa ahyɛ aduane ho](/caregiving/how-to-play-together/) yɛ mmerɛ sɛ wobɛma ahoɔdenhwɛfoɔ.
 
-## What if something happened to me?
+## Dɛn na ɛbɛyɛ sɛ biribi bɛba me so?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Yɛ nhyehyɛe ketewa seesei. NIA kyerɛ sɛ wɔpaw nea wɔbɛboa abusua anaa nnamfo a wɔbɛn wo ho, na wɔde ɔbɔ bi a ɛwɔ frɛ nomba, aduro, akwankyerɛ a ɛboa ɛberɛ a onipa no yɛ mmɔden, ne nneɛma a ɔpɛ no. Alzheimer's Association nso kyerɛ sɛ wɔkora onipa no yare ho nnipa ne aduro nhwɛso a ɛda so no, ma ɛyɛ ntɛm sɛ wobɛhu.
 
-## When should I get professional or urgent help?
+## Ɛberɛ bɛn na ɛsɛ sɛ mehwehwɛ ayaresa anaa mmoa ntɛm?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Kasa kyerɛ wo dɔkota sɛ ahoɔden ayera nsɛnkyerɛnne bɛba mu daa, sɛ wo ho yɛ wo a wo ho ayɛ wo, anaa sɛ wowɔ ɔhaw sɛ wobɛtumi aboa wo ho. Ka kyerɛ wo dɔkota sɛ woyɛ ahoɔdenhwɛfoɔ. NIA kyerɛ sɛ akɔnsɛlafoɔ ne adwumayɛfoɔ a wɔyɛ social work betumi aboa wo wɔ werɛ mu ahohia ne nhyehyɛe mu, na Medicare, Medicaid ne insurance bi betumi atua adwene yareɛ ho sika bi.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Sɛ wo ho yɛ wo a woyɛ ahohia anaa wowɔ adwene sɛ wobɛbɔ wo ho ɔhaw, frɛ anaa soma SMS kɔ 988 sɛ wobɛka kyerɛ [988 Suicide & Crisis Lifeline](https://988lifeline.org/), a ɛyɛ kokoam ma wo ɛnnɔ mmoa wɔ bere nyinaa, 24/7. Sɛ obi wɔ ɔhaw a ɛresa ntɛm mu, frɛ 112.
 
-## Can shared activities give me a break too?
+## Nneyɛe a yɛn nyinaa yɛ ebetumi aboa me ho ahomegyē?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Ebia. Nneyɛe a mo nyinaa pɛ a ɛyɛ asomdwoe betumi ayɛ ɛberɛ a ɛyɛ mmerɛ ma wo ne onipa a woreha no: ntiesɛm a mo nyinaa pɛ, ahwɛ mfonini, anaa agyinaeɛ te sɛ [Conversation Cards](/games/conversation-cards/) a ɛnhia sɛ wobua mmuae a ɛteɛ. Sɛ onipa no pɛ nnipa a wɔne no di dwuma no, adwuma a wɔyɛ ahoboaboa mu wɔ [Picture Bingo](/games/picture-bingo/) wɔ senior center anaa adult day program mu betumi ama wo ahomegyē dɔnhwerɛ baako. Hwɛ [nneyɛe ma care home groups](/activities/care-home-groups/) ho nhwehwɛmu foforɔ.

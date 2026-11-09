@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Занятия во время звонков для человека с деменцией"
+seoTitle: "Занятия по видеосвязи при деменции"
+description: "Занятия по видеосвязи и телефону для родных на расстоянии: показать вещи, читать вслух, петь, игры на общем экране и советы помощникам."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Звонки с человеком, который живёт с деменцией, идут лучше всего, когда они
+  короткие, регулярные и построены вокруг какого-то общего дела: показать
+  питомца или сад, посмотреть фотографии, почитать вслух, спеть любимую песню
+  или поиграть в спокойную игру на общем экране. Если возможно, звоните в одно
+  и то же время каждый день, говорите по очереди и попросите кого-нибудь рядом
+  помочь.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Занятие придаёт звонку форму и снимает нагрузку с разговора. Заранее придумайте одну простую вещь, которой можно поделиться."
+  - "Короткие регулярные звонки в одно и то же время часто работают лучше, чем редкие длинные."
+  - "Говорит один человек за раз. Групповые звонки, где все говорят одновременно, трудно понять, особенно при плохом слухе."
+  - "Помощник рядом может настроить устройство, сесть рядом с человеком и быть «руками» для любой игры или фотографии."
+  - "Если сегодня звонок не получается, мягко завершите его. Попробовать завтра — нормально."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Чем можно заняться во время видеозвонка с человеком с деменцией?"
+    a: "Выберите одно простое занятие: покажите сад, питомца или кухню; вместе посмотрите старые фотографии; прочитайте вслух короткое стихотворение или письмо; спойте песню, которую человек любит; приготовьте одно и то же блюдо в одно и то же время; или поиграйте в спокойную игру с картинками на общем экране. Занятие даёт звонку цель, и человеку не нужно самому вести разговор."
+  - q: "Сколько должен длиться видеозвонок?"
+    a: "Обычно короче, чем кажется. Нескольких тёплых минут может быть достаточно, особенно если человек быстро устаёт. Регулярные звонки в одно и то же время бывают важнее, чем длительность каждого из них."
+  - q: "Что делать, если видеозвонки сбивают человека с толку или расстраивают его?"
+    a: "Некоторым людям лицо на экране кажется непонятным. Попробуйте обычный телефонный звонок, записанное видеосообщение, которое помощник может включить в спокойный момент, или открытки и фотографии по почте. Если звонок прошёл плохо, мягко завершите его и попробуйте в другой день или в другое время."
+  - q: "Как помочь маме позвонить по видеосвязи, если она не может пользоваться телефоном?"
+    a: "Попросите члена семьи, помощника по дому или сотрудника учреждения начать звонок и подержать устройство или поставить его на подставку. Во многих учреждениях помогают семьям с видеозвонками, поэтому спросите, что они предлагают. Планшет на подставке с большим экраном и достаточной громкостью облегчает разговор для всех."
+  - q: "Можно ли поиграть вместе по видеосвязи?"
+    a: "Да. Проще всего, если один из вас показывает свой экран в приложении для видеозвонка, а другой говорит, какую картинку нажать. Или помощник рядом может открыть ту же игру на планшете и нажимать за человека, пока вы разговариваете и подсказываете. Выбирайте игры без таймера и счёта."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Когда близкий человек с деменцией живёт далеко, чувствуешь себя беспомощным. Телефонный или видеозвонок не заменит объятий, но при правильной организации он может дать настоящие тёплые моменты. Главное — не пытаться вести обычный долгий разговор, а заранее придумать что-то простое, чем можно поделиться. На этой странице описаны занятия, которые работают по видеосвязи и по телефону, как настроить звонок и чем может помочь человек, который находится рядом.
 
-## Why plan an activity for a call?
+## Зачем планировать занятие на время звонка?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Занятие придаёт звонку форму. Вопросы «Как дела? Что ты сегодня делал?» заставляют человека вспоминать и рассказывать, а это может быть трудно и тяжело. Фраза «Смотри, помидоры созрели» ничего от него не требует.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association отмечает, что разговоры в большой группе по видеосвязи могут быть трудными, и советует [добавить в звонок структуру](https://www.alz.org/help-support/caregiving/holidays), например петь песни или показывать фотографии.
 
-## What activities work on a video call?
+## Какие занятия подходят для видеозвонка?
 
-### Show and tell
+### Показать и рассказать
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Покажите ему свой мир. Медленно проведите камерой по саду, познакомьте с собакой, покажите, что вы готовите, поднесите к камере рисунок внука или направьте телефон в окно на снег. Опишите простыми словами, что видите, и делайте паузы, чтобы человек мог отреагировать. Вопросы не нужны.
 
-### Look at photos together
+### Смотреть фотографии вместе
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Поднесите к камере старую карточку или покажите на экране несколько крупных фотографий по одной. Говорите о том, что замечаете: «Смотри, какая шляпа у дедушки». Не спрашивайте «Кто это?» или «Ты помнишь?». Если человек назовёт кого-то неверно, согласитесь с ним. Мягкие подсказки есть в нашем [руководстве по воспоминаниям](/activities/reminiscence/).
 
-### Read aloud
+### Читать вслух
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Прочитайте короткое стихотворение, псалом, любимую детскую книжку внуку, который тоже участвует в звонке, письмо от родственника или страницу из книги, которую человек любил. Чтение вслух даёт ему что-то спокойное для слушания, и не нужно отвечать.
 
-### Sing or listen to music together
+### Петь или слушать музыку вместе
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Спойте песню, которую человек хорошо знает, или включите на своей стороне любимую пластинку. Для многих людей пение вместе с кем-то легче, чем разговор. См. наше [руководство по музыкальным занятиям](/activities/music/).
 
-### Cook or bake at the same time
+### Готовить или печь одновременно
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association советует запланировать видеозвонок, во время которого вы вместе готовите или печёте особое блюдо. Настройте звонок на обеих кухнях. Человек рядом может помешивать или пробовать, пока вы следуете его старому рецепту.
 
-### Watch something together
+### Смотреть что-нибудь вместе
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ассоциация также советует смотреть любимый фильм одновременно, находясь в разных домах, и разговаривать по телефону или видеосвязи. Для человека с деменцией может лучше подойти короткий фрагмент, старая телепередача или спортивный матч, чем полный фильм.
 
-### Play a gentle game on a shared screen
+### Играть в спокойную игру на общем экране
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Во многих приложениях для видеозвонков можно показать свой экран. Вы открываете игру и нажимаете; человек говорит или показывает, какую картинку выбрать. Или помощник рядом открывает ту же игру на планшете и нажимает за него, пока вы разговариваете.
 
-Games that work well this way:
+Игры, которые хорошо работают так:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Продолжи пословицу](/games/finish-the-saying/):** вы читаете знакомую поговорку, человек говорит окончание, а дальше идёт подсказка для разговора.
+- **[Пары картинок](/games/picture-pairs/):** спокойная игра на поиск пар с крупными картинками, которые могут оставаться на экране, без таймера и счёта.
+- **[Карточки для разговора](/games/conversation-cards/):** картинка и открытый вопрос, о которых можно поговорить вместе.
+- **[Пары фотографий](/games/photo-pairs/):** игра на поиск пар из фотографий, которые вы выбираете на своём устройстве. Фотографии остаются в вашем браузере, а человек видит их через общий экран.
 
-### Recorded messages
+### Записанные сообщения
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Когда живые звонки даются трудно, запишите короткое видео: приветствие, песню, прогулку по двору. Помощник может включить его в спокойный момент, столько раз, сколько человеку нравится. Alzheimer's Association упоминает запись и отправку особых моментов, например того, как дети открывают подарки.
 
-## What about plain phone calls?
+## А обычные телефонные звонки?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Телефонные звонки тоже важны. Dementia Australia советует [звонить в одно и то же время каждый день](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) и не торопиться, ведь людям с деменцией может понадобиться время, чтобы включиться в разговор. По телефону:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Сразу назовите себя и кем вы приходитесь: «Привет, папа, это Женя, твоя дочка».
+- Говорите медленно, короткими фразами, по одной мысли за раз.
+- Сообщайте новости, а не спрашивайте о них: «Я вчера готовила твой рецепт жаркого».
+- Прочитайте короткое стихотворение или спойте куплет любимой песни.
+- Делайте звонок коротким и заканчивайте тёплыми словами.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia также отмечает, что видеозвонки могут помочь, когда разговаривать становится труднее, потому что человек видит ваше лицо. Если телефонные звонки сбивают его с толку, попробуйте видеосвязь или наоборот.
 
-## How do I set up a video call that works?
+## Как организовать видеозвонок, который работает?
 
-**Before the call:**
+**Перед звонком:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Выберите регулярное время**, когда человек обычно отдохнувший, и придерживайтесь его. Распорядок помогает.
+2. **Договоритесь с помощником рядом.** Сообщение за день до звонка поможет ему подготовиться.
+3. **Проверьте устройство.** Планшет на подставке удобнее, чем телефон в руке. Убедитесь, что он заряжен, экран ярко светит и звук достаточно громкий. Включите субтитры, если приложение их поддерживает и человек хорошо читает.
+4. **Выберите одно занятие** и подготовьте всё необходимое.
 
-**During the call:**
+**Во время звонка:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Сядьте близко к камере** при хорошем свете, лицом к окну, а не спиной к нему.
+- **Представляйтесь каждый раз** по имени и тому, кем вы приходитесь.
+- **Говорит один человек за раз.** Alzheimer's Association отмечает, что одновременная речь трудна для людей с деменцией и для тех, кто плохо слышит. Если к звонку присоединяются несколько родственников, пусть говорят по очереди или участвуют два-три человека.
+- **Задавайте один вопрос за раз.** Family Caregiver Alliance советует [простые вопросы с ответом «да» или «нет»](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), а если возможно, предлагать выбор из нескольких вариантов.
+- **Давайте длинные паузы.** Ждите ответа. Можно подсказать слово, если человек его ищет.
+- **Используйте лицо и голос.** Улыбайтесь, кивайте и говорите тепло. Выражение лица часто говорит больше слов.
+- **Не поправляйте.** Если человек говорит что-то неточное, оставьте это как есть.
 
-**Ending the call:**
+**Завершение звонка:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Заканчивайте до того, как человек устанет, желательно на хорошей ноте.
+- Каждый раз прощайтесь одинаково: «Я позвоню тебе завтра в обед. Я тебя люблю».
+- Не затягивайте.
 
-## Tips for the helper on site
+## Советы для помощника рядом
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Если вы супруг, помощник по дому, брат или сестра или сотрудник учреждения, который помогает со звонком, вы делаете его возможным.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Найдите тихое место.** Выключите телевизор и закройте дверь.
+- **Начните звонок сами,** а затем передайте человеку планшет на подставке или держите его на уровне глаз.
+- **Садитесь рядом, а не напротив.** Ваше присутствие успокаивает. При необходимости мягко подскажите: «Смотри, это Женя».
+- **Будьте его руками.** Поднимайте фотографии, нажимайте в игре, поворачивайте планшет, чтобы показать комнату.
+- **Следите за усталостью и расстройством** и сообщите звонящему, когда пора заканчивать.
+- **Рассказывайте звонящему, что сработало.** Фраза «Ей очень понравилась собака» поможет спланировать следующий звонок.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA советует родственникам на расстоянии помогать пожилому человеку [освоить функции телефона](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), например видеозвонки. На поздних стадиях помощнику обычно приходится полностью управлять устройством. Это нормально.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Если человек живёт в доме престарелых, Alzheimer's Foundation of America советует спросить, помогает ли учреждение семьям с видеозвонками. AFA также упоминает, что семьи могут передавать фотографии через сотрудников учреждения, а также присылать любимые угощения или мелочи для уюта, предварительно уточнив, что разрешено правилами.
 
-## What if the call doesn't go well?
+## Что делать, если звонок прошёл плохо?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Некоторые звонки будут сбивать с толку, проходить вяло или расстраивать. Это не ваша вина, и это не значит, что звонки не стоят того.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Если человек выглядит озадаченным экраном, перейдите на телефонный звонок или записанное сообщение.
+- Если он расстраивается, признайте его чувство, скажите что-нибудь успокаивающее и мягко завершите звонок.
+- Если звонки часто проходят плохо в одно и то же время дня, попробуйте другое время.
+- Если человек принимает вас за кого-то другого, мягко согласитесь.
 
-It is fine to end early. A short, warm call is a good outcome.
+Можно закончить и раньше. Короткий, тёплый звонок — это хороший результат.
 
-## Between calls
+## Между звонками
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Оставайтесь рядом и другими способами. Dementia Australia советует присылать открытки, письма, фотографии или небольшие подарки. Открытка раз в неделю с одной крупной фотографией и коротким письмом может перечитываться снова и снова. [Карточки для разговора](/games/conversation-cards/), отправленные помощнику по почте, могут дать следующему звонку готовую тему.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Советы по выбору и настройке планшета смотрите в разделе [планшеты и экраны](/caregiving/tablets-and-screens/). Для личного времени вместе см. наше руководство по [визитам](/activities/visiting/).

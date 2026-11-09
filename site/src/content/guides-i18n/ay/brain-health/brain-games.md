@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "¿Juegonakax demencia jark'arakiti? Yatiqañanaka"
+seoTitle: "¿Juegonakax demencia jark'arakiti? Yatiqañanaka"
+description: "Yatiqañanaka: juegonaka demencia ukat, mayja yatiqañ, computadora ukan yatiqañ juegonaka, ACTIVE yatiqaña ukat FTC Lumosity yatiqaña, sapa qhanañchatañanakampi."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Janiw ni mä juego demencia jark'arakiti uñjatäkaspati. Computadora ukan
+  yatiqañax, sapa qhipharux yatiqañ luräwinak sum ukaxa, jupanakax
+  amuyaskiwa. Mä yatiqañ ACTIVE ukan, sapa jaqinakax mä ch'aman yatiqañ
+  luraspa ukat yatiqañ ch'amanakaw irptasiñ sartaspa, 20 maranakan demencia
+  uñtasa uñjatäpxi, ukax jukʼamp yatiqañawa. Demencia uñtata jaqinakatakix
+  ukuna sapa uñjirinakampi yatiqañ tantachañanakax jukʼa, mayacht'asa
+  allinkañ uñjatäpxi. Juegonakax kusisiñataki ukat jakañ tuqiw sum
+  sarnaqañapawa.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Yatiqañ juegonaka uñjatäpxi, sapa jaqix luraña luräwinakaru sum mayjtʼasaw, ukampisa lurañ luräwinakax jakañ tuqiru jukʼamp yanapt'iwa."
+  - "ACTIVE yatiqañan, mä ch'aman ch'amanakaw irptasiñ sartapxi, ukax sapa jaqinakax 20 maranakan demencia uñtasa uñjatäpxi. Ch'amanakax janiw irptasiñ sartaspati, amuyt'añ yatiqañanakax janiw ukax uñjatäkaspati."
+  - "2016 maranxa, Lumosity uñt'ayirin, FTC ukan 2 millón dólar ukaru qullqichasaw, Alzheimer ukat demencia atipaña tuqi arsutanakan janiw yatiqañ ukanakax lurkiti."
+  - "Demencia jaya-jayakan jaqinakatakix, tantachañ yatiqañanakax, mayacht'asa yatiqañ ukat parlaña ukan, jukʼa, chika uru uñjatäpxi."
+  - "Golden Moments juegonakax kusisiñataki ukat mayacht'asa pasañataki. Janiw jark'añ luräwikiti, janiw demencia jark'añ jan ukax sayt'ayañ luräwikiti."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "¿Juegonakax Alzheimer jark'arakiti?"
+    a: "Janiw, janiw ni mä juego Alzheimer jan ukax maya demencia jark'añ uñjatäkaspati. National Institute on Aging ukax siwa, computadora yatiqañ aplicaciones ukanakax yatiqañ yatiqañ pruebanakan uñjatänakjama ch'amanakaw irptasiñ sartkaspati ukaxa janiw yatiqañ sum uñjatäkiti. Juegonakax kusisiñ sarnaqañatakix sum jakañ thakiw kunawsatixa."
+  - q: "¿Kunas ACTIVE yatiqañax ch'amanakan demencia ukat uñjäna?"
+    a: "2026 maranxa, mä amuyt'awi ACTIVE ukan sapa jaqinak Medicare yatiqañanakampi 20 maranakan jikxatatäpxi. Ch'amanak irptasiñ yatiqañ luraspa ukat mä jan ukax lukʼat sarañ yatiqañ luraspa ukanakax, yatiqañ janiw lurkaspati ukanakat jukʼamp demencia uñtasa uñjatäpxi. Ch'amanak janiw irptasiñ sartaspati, amuyt'añ jan ukax yatiqañ yatiqañanakax janiw ukax uñjatäkaspati."
+  - q: "¿Uñjatax ukhamarakiw demencia uñtata jaqinakatakix juegonakax ukat rompecabezas allin ukaxa?"
+    a: "Jupanakax allinakiwa, sapa jaqix kusisiñ sarnaqañ ukax. Chiqa tantachañ yatiqañ ukat, arsut ukhamaraki katuntañ ukat parlaña ukat, jukʼa, chika uru uñjatäpxi. Kusisiñax, janiw yatiqañ jach'a ukax, amtañ jiwasanakan jaqinakax."
+  - q: "¿Kunatsa FTC Lumosity ukar multa churapxi?"
+    a: "2016 maranxa, Federal Trade Commission ukan Lumos Labs juegonakan arsutanakap uñt'ayapxi, mä jach'a uru jan ukax demencia jark'aña ukhamanak, janiw yatiqañ amuyt'añanakax jiwasanakax jupanakax lurkapxi. Kompañiax 2 millón dólar qullqichañ ukat, yatiqañ chiqa uñjatäñ luräwinakax jutïr arsutanakax janiw ukhamarak lurañ ukax jiwasanakax."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,175 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Juegonaka sapa chiqanwa, mayacht'asa jupanakax sapa uñjirinakax amuyunakap
+sum uñjapxi. Jumax demencia uñtata jaqi uñjasa jan ukax nayan amuyuman
+prekupata, ukhamasti juegonakax yanapt'apxitaspa sasaw amuyasma. Akax
+chiqa yatiqañ uñjatäñ ukawa, ukat yanapt'asiñ ukat janiw yanapt'asiñ
+uñjatanakas.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Akax sapa qhanañchawa, janiw sanañ yanapt'awiti. Uñjatäñ tuqi
+[medical disclaimer](/medical-disclaimer/) uñjasma.
 
-## Do brain games prevent dementia?
+## ¿Juegonakax demencia jark'arakiti?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Janiw ni mä juego demencia jark'arakiti uñjatäkaspati. National Institute on
+Aging (NIA) ukax yatiqañ jiwasanakar yatichaskiwa, computadora ukan jan ukax
+internet ukan juegonakax amuyunak sum uñjañ ukat jan uñjatäñ arsutanakat
+jark'añ, ukat janiw ni mä computer yatiqañ aplicación ukax clinical pruebanakan
+uñjatänakjama ch'amanakaw irptasiñ sartkaspati ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Ukax juegonakax janiw jan waliki sasaw. Jupanakan wali sum uñjatäñapax
+kusisiñ, mayacht'asa sarañ ukat jakañ thakiwa, janiw ni mä jaqir demencia
+jark'añ tuqiw.
 
-## What is "near transfer", and why does it matter?
+## ¿Kunas "near transfer" ukax, ukat kunatsa wali uñjatäñax?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Mä luräwi lurañ ukhamarakiw sapa jaqix jupa ukan jukʼamp sum luräwi. Yatiqirinakax
+ukar "training effect" sapxi. Jukʼamp jach'a yatiqañax ukaxa, ukax luräwi
+ukax jakañ tuqiru sartaspa sasaw, jan ukax parlt'anak luräwinakar (near transfer)
+jan ukax jakañ lurañanakar (far transfer), kunjamasa uñt'ayañ, qullqi
+amuyañ.
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Mä jach'a 2016 amuyt'awi ukan, brain-training empresanakan utjatäpxi, ukanakat
+yatiqañ tuqi uñt'ayatäpxi. Jupanakax sapa jaqinakax yatiqañ luräwinakax sum
+mayjt'asaw uñjatäpxi, janiw jukʼamp ukhamarakiti parlt'añ luräwinakax, ukat
+jakañ tuqi yatiqañanakax janiw jukʼa uñjatäkiti. Ukanakan jukʼa yatiqañanakax
+lurañ thakinakampi ch'axwaskapxi, ukat janiw chiqa juk'amp arsutanakax
+uñt'ayañ atinkaspati ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## ¿Kunas Cochrane amuyt'awinakax computadora yatiqañ tuqi sasa?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane amuyt'awinakax, sum uñjatäñ yatiqañanakar tantachañ luraspa, computadora
+yatiqañ 12 semanat sipansa ukar uñjapxi:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
+- **Jan uñjatäñ jach'a 65 maranakan jaqinakax:** 8 yatiqañanaka, 1,183 jaqinakampi.
+  Uñjatäñax jukʼa jan ukax jukʼa sasa. Yatiqañ qhipharux jukʼa ch'amanakaw
+  irptasiñ, janiw ukax ch'aman sarañ yatiqañ uñt'atäkiti
   ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
+- **Jukʼa ch'amat amuyt'añ jan waliki jaqinakax (mild cognitive impairment):** 8
+  yatiqañanaka, 660 jaqinakampi. Janiw ni mä yatiqañ demencia qhiparu
+  sarkati uñt'atäkiti, ukat uñjatäñax jukʼa sasa, janiw ukax amuyt'añanaka
+  luraña atinkaspati
   ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ¿Kunas ACTIVE yatiqañax uñt'ayi?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ukax US ukan jach'a yatiqañawa, 1998 maranxa qalltäna, 2,802 jach'a
+65 maranakan jaqinakampi, sapa jupanakax jakañ thakinakan sarnaqapxi, janiw
+amuyt'añanakax jach'a jan waliki utjkiti. Jaqinakax kimsa tipo tantachañ
+yatiqañanakar (amuyt'añ turi, yatiqañ, jan ukax amuyt'añ) jan ukax janiw
+yatiqañ jaqinakar (no-contact group) chiqa churatäpxi. Yatiqañax 10 sesiones
+kama, 5 jan ukax 6 semanat ukan lurataspa. Jukʼa jaqinakax, sesiones
+phuqhañ, 1 ukat 3 maranakat qhipa booster sesiones chiqa churatäpxi.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Amuyt'añ turi yatiqañax, qhanañ uñjatäñ ukat jukʼamp jukʼamp uñtäwinakan
+amuyt'añawa, kunjamasa sum uñjatäñ ukax jukʼa jukʼamp jan.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 maranxa, yatiqirinakax 2,021 jaqinakar Medicare yatiqañanakaru 20
+maranakan jikxatapxi ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Akax uñt'ayatäpxi:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Amuyt'añ turi yatiqañ ukat mä booster sesión sipansa:** jan yatiqañ
+  jaqinakat jukʼamp demencia uñtasa uñjatäpxi (hazard ratio 0.75, ukax
+  jukʼa 25% jukʼamp uñtasa sasa).
+- **Amuyt'añ turi yatiqañ booster sesiones janiw:** jukʼamp uñtasa janiwa.
+- **Yatiqañ jan ukax amuyt'añ yatiqañ:** demencia uñtañanakax janiw
+  chiqa jukʼamp uñt'atäkiti.
+- **Sapa tantachañ yatiqañ jan yatiqañ jaqinakat:** jukʼamp uñtasa
+  sarañ amuyt'ata, ukampisa janiw chiqa uñt'atäkiti.
 
-### The limits of this finding
+### Akan chiqa amuyt'awix jukʼa sasa
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Akax **mä jukʼa turi amuyt'añ yatiqañ, booster sesiones ukat** uñjatäñax,
+  janiw sapa juegonakar.
+- Chiqa uñt'atänakax **mä jukʼa jaqinakat** jutäxiwa (sapa jaqinakax
+  yatiqañ sesiones phuqhapxi ukat booster sesiones churatäpxi), janiw
+  amuyt'añ turi yatiqañ sapa jaqinakat.
+- Demencia uñtañax **Medicare yatiqañanakan diagnosis códigos** ukat
+  lurataw, janiw sapa jaqi uñjatäñat. Ukampisa jach'a 25% jaqinakax
+  jan jikxatatäpxi, Medicare Advantage ukan jan wali yatiqañanak
+  utjkiti.
+- Jaqinakax yatiqañ qalltañ uñt'atäpxi janiw amuyt'añ jan waliki
+  utjkiti. Ukax **demencia jark'ata jaqinakatakix** janiw parlkiti.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Ukax chiqa uñt'ayañ, ukampisa jukʼamp yatiqañ munaski. Janiw ni mä
+aplicación demencia jark'arakiti sasa uñjatäkiti.
 
-## What did the FTC say about Lumosity?
+## ¿Kunas FTC Lumosity tuqi sasa?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016 maranxa enero phasiyan, Lumos Labs, Lumosity lurir, Federal Trade
+Commission ukan 2 millón dólar qullqichañ arsuta. FTC ukax, juegonakax
+lurañ kunaw sañ jark'añ luräwinakax, jan yatiqañ chiqa amuyt'añanakampi
+arsutänwa, sañ jupanakax: luräwi ukan jan jan ukax yatiqañ ukan
+sum sarañ, edad tuqi jaqi jakañ jaytañ, mild cognitive impairment,
+demencia ukat Alzheimer jark'añ ukanakat jark'añ. Kompañiax jutïr akham
+arsutanakar yatiqañ chiqa amuyt'añanakampi uñjatäñ luraña ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Familianakatakix yatiqañ: sapa juego, aplicación jan ukax programa
+amuyt'añ jark'añ jan ukax demencia jark'añ arsuta ukanakat jaysañ.
 
-## Can games help someone who already has dementia?
+## ¿Juegonakax demencia jark'ata jaqinakar yanapt'añ atinkiti?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Jupanakax sum uru uñjatäñ yanapt'añ atinkapxi, ukax jach'a. Jiwasanakan
+sum uñjatäñ sarnaqañax **cognitive stimulation** sañawa: kusisiñ tantachañ
+luräwinakax, parlañ, yatiqañ, arsut, rompecabezas ukat arsut ukanakampi,
+jukʼa tantachañ, mä yatiqiri jaytañanakampi.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 Cochrane amuyt'awi, 37 yatiqañanaka, 2,766 demencia jukʼa jan ukax
+chika uñjatäñ jaqinakampi ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- amuyt'añ tesis ukan **jukʼa, jukʼa pachan** yanapt'äwi (wali sum uñjatäñ
+  yatiqañ, medium-quality evidence);
+- **parlañ ukat tantachañ ukan jach'a uñjatäñanaka** (high-quality evidence,
+  jukʼa yatiqañanakat);
+- jakañ amuyu, kusisiñ ukat sarnaqañ ukan **jukʼa yanapt'äwi**.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Yanapt'äwix 10 semana qhipa uñjatäpxi, ukat jukʼa yatiqañanakax jan
+jikxatatäpxi kunjamasa suma jakasipkana. Tantachañ yatiqañanakax mä
+luraña thakiw, ukat akax janiw sapa jaqi tablet ukan mä juego
+sarnaqañar mayjt'atäkiti.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
+2024 Lancet Commission ukax, demencia jark'ata jaqinakatakix, luräwinakax
+kusisiñ ukat amuyt'añ chiqa yatiqañ tuqi wali sasa
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## ¿Kunas juegonakax chiqapachaw sum uñjatäñ?
 
-When chosen well, games can offer:
+Sum akajamp ajllisa, juegonakax akanakar yanapt'apxi:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
+- **Kusisiñ.** Mä kusisiñ chika uru jakañ tuqiw utji.
+- **Mayacht'asiñ.** Mayacht'asa sarañ ukhamarak, parlañax jukʼa jan ukax
+  mayjt'añ ukan, tantachañ ukat jukʼa. Uñjatäñ [kunjamas tantachañ luraña](/caregiving/how-to-play-together/).
+- **Sarnaqaña.** Mä chiqa pacha luräwi, jukʼa pachan, jakañ thakinakan
+  amuyunak sum uñjaña.
+- **Ch'amañchasiña.** Jaqix sum sarañ luräwinakax, janiw yatiqañ jach'a,
+  mä wali amuyt'añ uñjatäñ.
+- **Parlaña.** Mä uñacht'äwi jan ukax mä yatiqañ arsut ukax mä sarnaqaña
+  qalltañ. Pruebe [conversation cards](/games/conversation-cards/) jan ukax
   [finish the saying](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Jaytañ luräwinakax: pachanakax, puntajes, racha ukat amuyt'añ jark'ata
+luräwinakax. Jaqix jaysiñ jan ukax jukʼa jayt'añ pachaxa, sayt'ayañ.
+Jaysañ jan ukax chiqa tantachasiñ, ukax wali sum tukuyañawa. Juegonakan
+ajllisiñ ukat [choosing apps and games](/caregiving/choosing-apps-and-games/)
+ukan yatiqañ jach'a.
 
-## Where Golden Moments fits
+## Golden Moments kunjamas uñjasi
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments juegonaka, kunjamasa [picture pairs](/games/picture-pairs/),
+[picture puzzle](/games/picture-puzzle/) ukat
+[large-print word search](/games/word-search/), kusisiñataki ukat tantachañ
+pachataki luratäpxi. Janiw pacha, janiw puntaj utjkiti. Akanakax **janiw**
+uñjatäñ kiti, ukat **janiw** demencia jark'añ jan ukax sayt'ayañ kiti. Jiwasax
+jumar chiqa sasaw sañ munasma, janiw ni mä juego ukat sum luraña sasa
+arsutanakar jaytañ.
 
-## Talk with a doctor
+## Doctor ukar parlañ
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Jumax jan ukax uñjasma jaqi amuyt'añ jan waliki uñjatäñ tuqi amuyasma ukhaxa,
+doctor ukar uñjañ, janiw aplicación ukar jan ukax juego ukar confiyañ. Doctor
+ukax jakañ ukar chiqa yatiqañ tuqi uñjapxi, kunjamasa presión arterial
+uñjañ ukat oído ukax uñjañ. Mä juego jan jan ukax kunsa yatiqañ mä jaqi
+sayt'ayañ atinkiti. Walja yatiqañanakax [Can dementia be prevented?](/brain-health/can-dementia-be-prevented/)
+ukan uñjatänwa. Jan suytasa amuyt'añ jan ukax jaqi ch'ax ch'axwañ sasa,
+yatiqañ wali lurañ amuyasa.

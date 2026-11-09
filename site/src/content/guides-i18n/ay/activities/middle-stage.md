@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Dementia taypi jaqinakatak lurañanaka"
+seoTitle: "Dementia taypi lurañanaka: sänka amuyunaka"
+description: "Dementia taypi jaqinakatak sänka lurañanaka: utjir irnaqañanaka, arunaka, uñjasiñanaka ukat sänka jukʼa lurañanaka, mä kuti mä kuti yatiqañanaka ukhamarak jan munañ uñjasiñanaka mayjt'añataki."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Dementia taypi sarañanxa, sänka lurañanaka sapa kuti, uñt'ata ukat mä kuti
+  mä kuti lurañanakampi sarañaxa: awaskañanaka tiqiñ, lacras akhamarak
+  p'iq'iñanaka, arunaka, arunaka sarañanaka, ukat uñjasiñ sarañanaka. Lurañ
+  uñjasiñ, mä kuti jaqi sarañ, sapa jaqi sarañ ukat amuyt'añ. Jan kusisitañ
+  uñjasiñ ukar sayt'ayañ.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Utjir uta irnaqañanakax sänkaw sapa kuti, jupanakax amuyt'añanakaw ukat jaqi uñt'ayañaw."
+  - "Uñjasiñ, mä kuti mä kuti yatiqañ ukat jupanakarux payan ajlla arunakaw, jan sañ jaqi arsuñ."
+  - "Jak'aw lurañan sarañ ukat jaqi lurañ kusisitañ sarañ."
+  - "Mayjt'añ lurañanakax jaqi lurañ munañ uñjasiñ sañ jaqi lurañ yatiqañ. Jan sañ jaqi arsuñ, jupaw lurañ."
+  - "Uñjasiñ, jukʼa yanapt'añ jan ukax jaqi sayt'añ, sapa kuti sänkaw."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "¿Kunanakas dementia taypi jaqinakatak sänkaw?"
+    a: "Jakhuntañ, utjir ukat luqtañanakax sänkaw: lacras p'iq'iñ, awaskañanaka tiqiñ, p'iq'iñ, ch'uqinakan tiqiñ, arunaka arsuñ, sarañ, uñjasiñ ukat ch'iqa jaqi uñtañanaka. Sapa lurañ mä kuti mä kuti uñt'ata sarañ ukat mayniw lurañ."
+  - q: "¿Kunas jaqi dementia sarañ lurañan qalltañataki?"
+    a: "Sapa kunas taypin utjañapa, ukatsti kikiw qallt'ata ukat jupar yanapt'añ sañ: '¿Janïr jumax yanapt'äm ist'añ tiqiñ?' Walja jaqinakax lurañ munapxi, ukampis qalltañax jan sänkiwa. Sapa mayni uñjañaw mä kuti mä kuti yatiqañaxarakiw."
+  - q: "¿Kunas lurañ mayni mayni lurañ ukax ukhamaw?"
+    a: "Mayni mayni lurañax janïrakiw ajjsarañxa ukat jaqi amuyt'añ munaskiwa jupax sarañ munaskiwa. Jan jan uñt'añ, sapa lurañ ukax jupa sarañ munañ ukhamaw, akhamarak p'iq'iñ tiqiñ jan ukax arsuñ."
+  - q: "¿Kunas lurañax jan sänkiwa ukax?"
+    a: "Jan ajjsarañ ukax, jupa lurañ sarañ. Awaskañanaka jan sapa kuti ukax jan kunas jan ajjsarañ. Uñt'añax juchañ uñjasiñ ukhamaw, jupa lurañ ukhamarak sarañ ukat jupa amuyt'añ."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Dementia taypi sarañax walja mara sarañawa, ukat ukhamarak lurañanakax yanapt'añ munaskiwa. Arunakax jukʼamp sarañ, jaqi amuyunakax tʼaqhisiwa, ukat qalltañax jan sänkiwa. Ukampis jaqi irnaqañ munañax jiwañkamaw sarañ. Sapa kuti yanapt'añampi, dementia taypi jaqix walja kusisiñ lurañanakaw jikxatañapa, khitinakat sapa kuti irnaqañanaka, arsuñanaka ukat uñjasiñanakampi, jumampi kuti kuti.
 
-## What activities work well in middle-stage dementia?
+## ¿Kunanakas dementia taypi sänkaw lurañanaka?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Utjir, luqtañanaka, lacras lurañanaka sapa kuti uñt'atanakax sänkaw. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) sañ: jan mä kuti machaq lurañanaka amuyañ munañapa, lurañanakax jakañ uñjasiñ ukhamaw, akham sañ lurañ, nayrampi mayni uñjasiñ, sarañ, arsuñ ukat sarañ.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) sañ: dementia taypi jaqinakax walja amuyt'añ, irnaqañ ukat mä lurañ uñjañ munapxi, jupanakarux yanapt'añ mä lurañ qalltañataki ukat sarañataki. Taypi ukan lurañanakax: lacras p'iq'iñ, awaskañanaka tiqiñ, ch'uqinakan tiqiñ, jukʼa ch'iqa lurañanaka, utjir uta uñjasiñ, arunaka sarañanaka, uñjasiñ arunaka, ukat uñjasiñ sarañanaka.
 
-## How do you set up an activity so it works?
+## ¿Kunas lurañ sarañ ukax sänkiw?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Walja lurañanakax qalltañan sänkiwa. Akanakax [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ukat [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sañ:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Taypi jak'achaña.** Television apaqañ, puerta jist'ayaña ukat lurañataki kuna munañapa, uk jak'achaña.
+2. **Kikiw qalltañ.** Lacras p'iq'iñ jan ukax t'ant'a thaqhañ qalltañ, ukat jupar sarañ: "¿Janïr jumax yanapt'äm ist'añ tiqiñ?"
+3. **Uñjasiñ, ukat suytaña.** Mä kuti lurañ uñjasiñ. Juma luqtam uñjasiñ jan ukax amparamp yanapt'añ, akham sañ: pläto kawkinxa uñjasiñ.
+4. **Mä kuti mä kuti lurañ.** "Lacras pʼiqʼiña" sañax, "Lacras pʼiqʼiña ukat sapa uñjasiñ" sañat sänkiwa.
+5. **Paya sarañ, jan jarkʼaña.** "¿Kunanakas munasmati?" sañat juk'amp sänkiwa, ukampis "¿Kawki jumax munasma, azul jan ukax blanco?" sañat sänkiwa.
+6. **Jak'aw kikiw lurañ.** Juma muyuña, jupax tʼant'a jaquntaña. Juma ajanu tikjaña, jupax jiwiyaña.
+7. **Amuyt'añ sarañ.** "Akanakax Domingo manq'a ukatakiwa" sañ lurañax chiqapamp sänkiwa.
+8. **Uñjasiñ munañapa ukhax, uñjañ.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sañ: uñjasiñax kusisiñ sarañ.
 
-## Activity ideas for the middle stage
+## Dementia taypi lurañ ideanaka
 
-### Useful jobs
+### Utjir irnaqañanaka
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Toallanaka, washcloths lacras p'iq'iña.** Jukʼa, lisu lurañanakax sänkiwa. Mä canasta washcloth uñt'ata p'iq'iñ, alisaña ukat kutiyañ.
+- **Calcetines tiqiña.** Jukʼa mayni pares qalltañ. Colorwa tiqiñax sänkiwa.
+- **Jan kunaru ch'iqtañ manq'a p'iq'iña ukat p'iq'iña.** Ch'uxña uma kusisiñ manq'a ukat kayunakax kusisiñ. Thaqhañ ukhax sayañ sänkiwa.
+- **Mesa uñt'aña.** Sapa kuti mä lurañ apaña, mä uñjasiñ lurañ uñjañ.
+- **Manq'a lurañ yanapt'aña.** Papas q'uyaña, lechuga tuqhuña jan ukax mä bowl ch'uxña. Juma cuchillo ukat nina uñt'ata.
+- **Q'uyaña, p'iq'iña jan ukax lacras jist'ayaña.** Mesa jist'ayaña jan ukax qhuchu jist'ayaña.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Walja lurañanakataki [utjir irnaqañanaka](/activities/household-tasks/) uñjañamawa.
 
-### Music and movement
+### Arsuñ ukat sarañ
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Sapa arsuñ uñt'ata arsuña.** Juma qalltañ ukhax walja jaqinakax arsuñ jupanakax sapa kuti yatxatañapa. Uñjañamawa [arsuñ lurañanaka](/activities/music/).
+- **Sarañ, irnaqañ.** Juma muytañ, palmas ch'axwaña jan ukax kunas munasma. Thaqhañ ukhax sänkiwa.
+- **Globo jaqhaña.** Jukʼa sarañ ukat thaqhañ ukhax sänkiwa.
+- **Mä kuti sarañ.** Jukʼa, sapa uñt'ata sarañ, makhatanakampi jan ukax mayni sarañ.
 
-### Pictures and stories
+### Uñjasiñanaka ukat arunaka
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Album uñjaña.** Uñjasiñanakan arsuñ, jan jiwasa jaqiñ: "Akhamawa auto. ¿Kunas sapa?" Uñjañamawa [amuyt'añ lurañanaka](/activities/reminiscence/).
+- **Arunaka uñjaña.** [Arunaka uñjaña](/games/conversation-cards/) mä uñjasiñ mä arsuñ jan jiwasa arsuñ.
+- **Mä kuti película uñjaña.** Mä sapa película ajllisiña, nayrankaña, mä kuti uñjasiñ.
 
-### Simple, pressure-free games
+### Jan ajjsarañ lurañanaka
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Uñjasiñ uñjaña.** [Uñjasiñ uñjaña](/games/picture-pairs/) uñjasiñ, jan amuyañ.
+- **Mayni uñjaña.** [Mayni uñjaña](/games/find-the-same/) mä uñjasiñ ukat paya jan ukax pusi uñjasiñ.
+- **Mä kuti tiqiña.** [Mä kuti tiqiña](/games/sort-together/) sapa uñjasiñ kawkiru apaña.
+- **Uñjasiñ bingo.** [Uñjasiñ bingo](/games/picture-bingo/) jaqinakan tantachawi ukhamaw.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Jan kusisiñ ukhax, sayt'ayaña ukat maya lurañ. Uñjañamawa [mä kuti sarañ](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Jan munañ ukat lurañ sarañ
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Jan munañ jan uñjasiñ mayni mayni lurañanakax walja kuti yatiqañanakaw utji. Family Caregiver Alliance sañ: mä jaqi kunapachatixa janïr jaqi uñt'añ jan ukax sapa kuti ch'uqinakan tiqiñ, jupax jan uñjasiñ munaskiwa. Alzheimer's Association sañ: jan jiwasa lurañ mayampi lurañ jan ukax uñjasiñ.
 
-| What you see | Something to offer |
+| Kunas uñjasta | Kunas churaña |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Mesa ch'ax ukat ch'uqiñ | Mä ch'uxña q'ara ukat mesa q'uyaña |
+| Jan sayañ ukat sapa ch'uqiñ | Musica, palmas ch'axwaña |
+| Cajonanaka jist'ayaña jan ukax armario | Mä canasta ropa jan ukax washcloths tiqiña |
+| Sapa arunaka mayni arsuñ | Jupar yanapt'aña, mä arsuñ jan ukax lurañ |
+| Sayañ | Mä kuti sarañ, jan ukax khuchhinaka apaña |
+| Tardeña jan kusisiña | Mä jaqi lurañ, lurañ jach'a uñjasiñ; uñjañamawa [tardeña jan munañ](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Kunapachas sayt'ayaña ukat lurañ mayiña
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Sayt'ayaña, jaquntañ, jan kusisiña jan ukax aburrisiña uñjasiñ, akham sañ: sallq'a sarañ, mä jaqi uñjañ, jan munañ jan ukax "janiw atiñ" sañ. Alzheimer's Association sañ: mayni pacha lurañ jan ukax sänkiwa lurañ. Jan ch'amanchañ. Jan munañax mantañ jan ukax lurañan jach'a ukhamawa, uñjañamawa [jan munañ](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Sayt'ayaña jan ukhamaw. Mä kuti t'ej uma upyaña ukat sarañ jan ukax sapaki. Jaqi kunjamasa chiqap uñjasiña, [mä kuti lurañ](/activities/late-stage/) ukat [101 lurañanaka](/activities/ideas/) walja uñjañamawa.

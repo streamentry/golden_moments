@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Nkitahodie Mmara ma Nkasa Kyerɛ Nipa a Dementia Wɔ No"
+seoTitle: "Dementia Nkɔso Mmara: Nea Ɛsɛ sɛ Ka ne Nea Ɛnsɛ"
+description: "Akwan a ɛboa wo nkasa ho ma nipa a dementia wɔ no: sɛnea wobɛhyehyɛ nkɔsoɔ, nea wobɛka sɛ wɔrebisa anaa wɔrebɔ wɔn mmɛ, ne sɛnea wobɛtie."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Kasa wɔ baabi a ɛyɛ komm, bɛba nipa no anim, frɛ wɔn din, na ka nkyerɛase
+  tiawa-tiawa dɛmdɛm. Bisa biribi baako pɛ bere biara, bɔ mmuae mmienu mmom
+  sɛ mmisa a mmuae nyinaa wɔ mu, na tena hɔ sen sɛ ɛbɛyɛ sɛ wobɛtena. Mfa
+  nnyɛ ɔko, nsakra anaa nsɛmmisa. Di ahodoɔ a ɛwɔ nsɛm no akyi so, na fa
+  nsɔ abɔ, mfonini ne nsiesie di dwuma sɛ nkasa yɛ den.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Yi nneɛma a ɛyɛ dede ne nea ɛhyɛ wo nkasa so ansa na woaka, na hwɛ wɔn ani."
+  - "Fa nkyerɛase tiawa, adwene baako wɔ ɔhome biara mu, na fa din mmom sɛ ɔno, ɔno anaa wɔn."
+  - "Ma wɔn mmuae mmienu, anaa nsɛmmisa a ɛyɛ 'aane' anaa 'daabi', mmom sɛ nsɛmmisa a mmuae nyinaa wɔ mu."
+  - "Tena hɔ ma wɔn mmuae. Sɛ wɔantie a, san ka nsɛm no pɛ, afei sesa nkyerɛase."
+  - "Mfa nnhyɛ mmɔden anaa nsakra. Bua ahodoɔ a ɛwɔ nsɛm a wɔka no akyi."
+  - "Sɛ nsɛm nyɛ nkyerɛ mu no, fa nsɔ abɔ, ahoɔ, anim nsusuiɛ ne mfonini a wɔhwɛ bom di dwuma."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Dɛn na ɛnsɛ sɛ woka kyerɛ nipa a dementia wɔ no?"
+    a: "Mfa nsɛmmisa (\"Wokae...?\"), nsakrae (\"Ɛnyɛ nokorɛ\"), nkaeɛ nneɛma a wɔayɛ (\"Mekaa ho kyerɛɛ wo dada\") ne ɔkasa sɛ wɔn nni hɔ. Mfa abofra kasa nni so. Ɛyɛ nea ɛma wɔn ani agu anaa ahohia, na ɛnboa."
+  - q: "Ɛsɛ sɛ msakra wɔn sɛ wɔka nsɛm a ɛnyɛ nokorɛ?"
+    a: "Ɛnyɛ nea ɛsɛ. Sɛ nsɛm a ɛnyɛ nokorɛ no nni asiane a, gyae. Ɔkasa rennsakra nipa no adwene, na ɛma wɔsuro. Hwɛ wɔn ahodoɔ ne wɔn hia a ɛwɔ nnɛ."
+  - q: "Dɛn na mɛyɛ sɛ wɔrenhu asɛm?"
+    a: "Ma wɔn bere ansa. Sɛ wɔrehwehwɛ asɛm yiye a, ɛyɛ yie sɛ wobɛka asɛm bi kyerɛ wɔn fɛw-fɛw anaa wobɛsusuw sɛnea wɔpɛ kasa no ho na wobisa. Nsɛmfua, nsiesie ne mfonini nso betumi aboa."
+  - q: "Sɛnea mɛka nkasa ne nipa a dementia atwam kɔ akyiri a ɔnkasa pii?"
+    a: "Bɛba wɔn anim na ka wo din. Fa nne a ɛyɛ komm ne nsa a wobɛkyekye nsa mu. Hwɛ wɔn anim ne wɔn nneyɛe ahodoɔ. Wo ho, nnwom a wɔte aseɛ anaa wo nsa a woakyekye ne wɔn nsa mu betumi aka nsɛm pii a ɛnyɛ asɛm."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +43,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia bɛma ɛyɛ den sɛ nipa bɛhwehwɛ asɛm, bɛtie nkyerɛase tenten, anaa ɛbɛyɛ den sɛ wɔbɛtwe nneɛma a ɛwɔ akyi ntease ho ahwɛ. Ɛnyɛ sɛ nipa no agyae akokoɔdurɛ sɛ ɔbɛkasa wo ho. Nsakraeɛ kakra wɔ sɛnea wohyehyɛ nkɔsoɔ, sɛnea wokasa ne sɛnea wotie, betumi ama nkasa ayɛ mmerɛ ne ahomegyedi ma mo baanu.
 
-## What are the most important tips for talking with someone who has dementia?
+## Nneɛma bɛn na ɛsɛ sɛ wohwɛ ma nkasa yɛ nipa a dementia wɔ no?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Hwehwɛ sɛ wɔbɛtie wo, ma ɛnyɛ den, na yɛ abotɔyɛ. Sɛ wukae nneɛma nnan kɛse nko:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ma efie no ayɛ komm na fa wo anim kyerɛ wɔn.** To TV no ase, tena baabi a wo ani ne wɔn ani bɛtwa koro, na frɛ wɔn din.
+2. **Ka biribi baako prɛko.** Fa nkyerɛase tiawa, adwene baako, ne bisa baako.
+3. **Ma wɔn mmuae mmienu.** "Tea anaa kɔfi?" yɛ sɛ ɛyɛ ɛnyɛ den sen "Dɛn na wopɛ?"
+4. **Tena hɔ.** Ma wɔn bere pii sen nea ɛyɛ sɛ ɛbɛyɛ ma wɔmmua mmuae, na nka sɛ wobɛtu wɔn ano.
+5. **Mfa nnyɛ ɔko anaa nsɛmmisa.** Bua wɔn ahodoɔ, ɛnyɛ nokorɛ no ankasa.
 
-## How should I start a conversation?
+## Sɛnea mehyɛ nkɔsoɔ ase?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Hyehyɛ nneɛma ma nipa no nyɛ wo nkyɛn. [Family Caregiver Alliance akwankyerɛ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) kyerɛ sɛ wo ntɔ ntease wɔ ansa: to radio anaa TV no ase, to ntoma anaa ɔpon no, anaa kɔ baabi a ɛyɛ komm.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Bɛba wɔn anim.** Sɛ wobɛba akyi anaa afa ho no, ebetumi ama wɔn ho asuro.
+- **Ka wo din.** "Papa, ɛno ne Sarah, wo babaa." Eyi gye wɔn nhwehwɛ wo din.
+- **Fa wo ho tena wɔn ase.** Sɛ wɔatena a, tena anaa kotɔ fam, na wo ani ne wɔn ani abɛyɛ pɛ.
+- **Hwɛ wo anim ne wo kasa mu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) kyerɛ sɛ wohwɛ wo nkasa mu, wo nne mu, wo anim nsusuiɛ ne wo nipa nneyɛe, na wɔ ahoɔden a ɛyɛ ɛwɔ ahoɔfɛ ne ɛyɛ nokorɛ mu.
+- **Hwɛ sɛ ahwɛdeɛ ne ntease akɔnnɔ ho nneɛma wɔ hɔ.** ɛyɛ den sɛ wobɛte nkasa a wunhu yiye anaa wunte yiye.
 
-## How should I phrase what I say?
+## Sɛnea mehyɛ nea mika ase?
 
-Use simple words, short sentences and a calm, low voice.
+Fa nsɛm a ɛyɛ mmerɛ, nkyerɛase tiawa ne kasa dɛmdɛm a ɛnyɛ nnɔnhwerɛ ka.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Adwene baako wɔ nkyerɛase biara mu.** "Ma yɛnhyɛ wo ntama. Afei yɛbɛfiri akɔ abɔnten." Nnyɛ abien wɔ ɔhome baako mu.
+- **Fa din, ɛnyɛ nkyerɛkyerɛ.** "Maame Jean frɛɛ" yɛ sɛ ɛte aseɛ sen "Ɔfrɛɛ."
+- **Ka n'fɛ tiaa, ɛnyɛ nnɔnhwerɛ.** Family Caregiver Alliance ka sɛ ɛsɛ sɛ wo nne yɛ fɛ tiaa sen sɛ wobɛma ɛyɛ den.
+- **San ka, afei sesa nkyerɛase.** Sɛ wɔantie a, san ka nsɛm no pɛ. Sɛ ɛntumi nyɛ adwuma a, tena hɔ kakra na fa nsɛm foforo dwene.
+- **Kyerɛ nso ka.** Bɔ nkyɛn aguaa no, fa nsuaa mmienu no bra, anaa kyerɛ anammɔn a ɛdi kan.
+- **Ka nkasa kyerɛ wɔn, ɛnyɛ wɔn ho.** NIA kɔ ɔkwan so ka sɛ mfa nkasa ho nkyerɛ nipa no sɛ ɔnni hɔ, na mfa "abofra kasa" nni so.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA hyɛ mmisa a ɛtɔ so pii no mu sɛ mmoa a ɛyɛ mmerɛ. Yei ne nhwɛso wɔ saa ntease yi mu:
 
-| Instead of | Try |
+| Ɛnsɛ sɛ | Bɔ mmɔden |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Dɛn na wopɛ sɛ wɔbɛyɛ ma anadwo?" | "Wopɛ nsuonam anaa akɔkɔ?" |
+| "Wo ho te sɛn?" | "Wo ho brɛ wo anaa?" |
+| "Wohia aduane anaa?" | "Aduane no bɛyɛ ade wɔ nkeniɛ nnan mu." |
+| "Ɛnyɛ saa na wɔyɛ." | "Ma yɛnyɛ saa." |
+| "Wo kae yɛn kɔ nsu kɛse no ho anaa?" | "Mebɛkae yɛn kɔ nsu kɛse no ho. Ka me nea wopɛɛ wɔ mu." |
+| "Mekaa ho kyerɛɛ wo dada." | Dwane bio, anokwafoɔ, sɛ nea wɔrenyɛ kan. |
 
-## How do I listen well?
+## Sɛnea mehyɛ tie yiye?
 
-Listen for the meaning and the feeling, not just the words.
+Tie nkyerɛ ne ahodoɔ, ɛnyɛ nsɛm nko.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Tena hɔ.** Ɛtɔ so pii no, ɛberɛ a wodwene. Kan kɔsi 10 bere ntɛm ansa na wobɛka biribi.
+- **Ma wɔn asɛm sɛ wɔn ho nkɔ so nko.** Family Caregiver Alliance ka sɛ ɛyɛ yie sɛ wobɛka asɛm bi sɛ obi reyɛ ade den.
+- **Hwɛ nea woate.** [Alzheimer's Association akwankyerɛ a ɛfa nkasa ho](https://www.alz.org/help-support/caregiving/daily-care/communications) kyerɛ sɛ wohwehwɛ ahodoɔ a ɛwɔ wɔn nsɛm akyi na wosan ka no ma wɔahunu sɛ wotee yie. "Wosuro kar no ho anaa?"
+- **Hwɛ wɔn anim ne wɔn nipa nneyɛe.** NIA kyerɛ sɛ sɛnea nkasa yɛ den no, anim nsusuiɛ betumi akyerɛ awerɛhoɔ, abufuo anaa awerɛhyɛmu yiyiyi sen nsɛm.
+- **Fa suro gye tom.** Ɛwom sɛ suro no fi nnyinasɛm a ɛnyɛ nokorɛ mu a, ahodoɔ no yɛ nokorɛ.
 
-## What if they say something that is not true?
+## Dɛn na ɛyɛ sɛ wɔka biribi a ɛnyɛ nokorɛ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Mfa wo ho nkɔ ɔkasa mu. Wunnya nkonim, na ɛbɛyɛ sɛ nipa no bɛbɔ ne ho mmɛ anaa ɔbɛsuro. Mmom, di ahodoɔ no ho kan, afei kɔ akyiri kɔkɔɔ.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance kyerɛ sɛ wo gye ahodoɔ no di kan ansa na woyɛ nsesa. Sɛ wo maame ka sɛ ɔsɛ sɛ ɔkɔfa mmofra no afiri sukuu, sɛnea wobɛyɛ:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Ɛnsɛ sɛ: "Maame, wo mmofra no akɛse dɔ. Ɛno ne mfe aduanan a atwam."
+- Bɔ mmɔden: "Wo ne maame a ɔhwɛ mmofra yiye daa. Ka me nea ɛsɛɛ sɛ wofa wɔn no ho. Yɛmmɛdi ntɔ kakra ansa?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association nso kyerɛ sɛ mfa mmɔden nkɔ ɔkasa mu wɔ nsɛm a wunni ho nkɔsoɔ no ho. Yiyi bere a ɛfata: sɛ nnyinasɛm a ɛnyɛ nokorɛ no nni asiane a, ma ɛnnyɛ.
 
-## How does communication change as dementia progresses?
+## Sɛnea nkasa sesa bere a dementia kɔ anim no?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ahiade sesa bere so, enti sesa wo nkɔso mmara. Alzheimer's Association kyerɛ stage abiɛsa a ɛsoɔ:
 
-| Stage | What helps |
+| Stage | Nea ɛboa |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Mfiase | Mfa nsusuw sɛ wɔrentumi nka. Fa wɔn ka nkɔsoɔ mu, ka kyerɛ wɔn pefee, bisa nea wɔpɛ sɛ mmoa, na fa anigyeɛ dwene sɛ ɛboa. |
+| Mfinimfini | Nkitahodie baanu wɔ baabi a ɛyɛ komm. Ka nkyerɛase tiawa, hwɛ wɔn ani, bisa mmisa a mmuae ne "aane" anaa "daabi", ma nkyerɛkyerɛ a ɛdi kan ne ɛto so, na mfa nnto wɔn anaa mma mmu. |
+| Awiei | Bɛba wɔn anim na ka wo din. Fa nsiesie ma wɔn nsɔ abɔ ne nne mu. Fa nsusuiɛ, nne, nhwɛso ne nhohoɔ. Mfa nka sɛ wɔn nni hɔ. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Obiara yɛ adwuma kɛse ne foforo, na nipa koro no bɛwɔ da a ɛyɛ ɛfɛ ne da a ɛyɛ den. Bua ahodoɔ a wɔwɔ nnɛ, ɛnyɛ din a wɔfrɛ no.
 
-## Can pictures and activities make conversation easier?
+## Mfonini ne anigyeɛ nneyɛe betumi ama nkasa ayɛ mmerɛ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ao. Mfonini a mo baanu hwɛ bom yɛ ahoɔden ne de ma mo baanu hwɛ ne bɔ nkyɛn.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Mfonini a ɛma nkasa.** [Conversation Cards](/games/conversation-cards/) de mfonini ne mmisa a wobɛtua mmuae wɔ mu, a wɔnsɛ nsɛmmisa.
+- **Abusua mfonini.** [Photo Pairs](/games/photo-pairs/) sesa mfonini a wopaw yɛ kyɛfa a ɛyɛ komm, na ɛtɔ so pii no, ɛma abakɔsɛm fi ase.
+- **Nneɛma a wɔte aseɛ.** [Finish the Saying](/games/finish-the-saying/) de Amerika mmɛbɔ a wɔte aseɛ, na ɛdi so ka asɛm a ɛma nkasa aba.
+- **Kyɛfa anigye a ɛyɛ akyiri.** [Picture Pairs](/games/picture-pairs/) ma wo nsa biribi a ɛbɛyɛ bere a wʼaka ho asɛm.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Hwɛ [sɛnea wobɛtumi di anigyeɛ nneyɛe bom](/caregiving/how-to-play-together/) ne [nkaebɔ anigyeɛ nneyɛe](/activities/reminiscence/) ma nsɛm dodoɔ. Ma akyanmɔ ne frɛ, kenkan yɛn akwankyerɛ a ɛfa [akyanmɔ](/activities/visiting/) ne [telefon ne video frɛ](/activities/phone-and-video-calls/) ho.
 
-## What if I lose my patience?
+## Dɛn na ɛbɛyɛ sɛ mʼahomeyɛ ayera?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Ɛba obiara so. NIA kyerɛ sɛ sɛ wo ho bɛyɛ wo basaa a, fa bere kakra ma wo ho ayɛ komm. Kɔ dan foforo mu, fa home kakra bɔ mu, na san ba bere a wubetumi. Wubetumi asan afi nkasa no ase, na nipa no betumi aduru wo ahomeyɛ tenten a ɛyɛ komm no. Sɛ ahomeyɛ ba wo so daa a, ɛyɛ nsɛnkyerɛnne sɛ ɛsɛ sɛ wonya mmoa dodoɔ, ɛnyɛ sɛ wo nni hɔ. Yɛn [akwankyerɛ a ɛfa wo ho hwɛ](/caregiving/caregiver-self-care/) wɔ mmoa a wubetumi akɔ.

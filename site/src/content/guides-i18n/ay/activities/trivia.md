@@ -1,32 +1,35 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Sapa jaqinakatakix sencillo yatiqañ juegos, jan llakiñani"
+seoTitle: "Yatiqañ taqichuyañanaka sapa jaqinakatakix, sut uñt'añanaka"
+description: "50 sencillo yatiqañ taqichuyañanaka sapa jaqinakatakix, suytanaka ukat parlañatakix yatiyañanaka, ukat kunjamtix yatiqañ juegos luqtañapa jan khitis llakisiñapataki."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Sapa jaqinakatakix sencillo yatiqañ juegos ch'amanchasiñapataki, uka
+  parlañ ukhamarak jan pruebañ ukham sarnaqañapataki. Jiwasa sarnaqatan
+  taqinakat jaysañani, kunjamatak aka jaqinakax ukhamar uñt'asisa: jaya
+  arunaka, sut uñt'añanaka, feriados ukat uru sarnaqaña. Pä jan ukax kimsa
+  suytanakampi jawsañaxa. Sapa juchanakax chiqpachaki sut uñt'añ kunsa
+  uñjañaxa, janiw khitirus ch'iqipxañ, puntaj jan uñjañ, ukat sapa sut
+  uñt'añ parlañ qalltañataki. "Akax ukax jan akhamäki" ukham jawsañanaka
+  jan jisk'a jan pantjañ ukax nayrapacha jaqinakatakix walikïspa.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Nayraru yatiyata taqinakat jawsañ: jaya arunaka, sut uñt'añanaka, feriados, manq'a ukat uru sarnaqaña."
+  - "Pä jan ukax kimsa suytanakampi jawsañ, ukhamat sut uñt'añ yatiqañ, janiw amuyuñ chiqa."
+  - "Sut uñt'añ suma arumpi jawsañ ukat sarañ. Kunas juk'a amuyt'ata parlañ qalltaraki, ukax walikiwa."
+  - "Puntaj jan, t'aqa t'aqa jan mayjt'añ, janiw khitirus sapa jaqiruw jawsañ. Sut uñt'añanakax sapa jaqinakat utjañapa."
+  - "Sut uñt'añ ch'iqita pasjañaxa, aka ukat akhama jawsañanakampi sarnaqañ, janiw chiqpach sut uñt'añ utjkiti."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "¿Yatiqañ juegos sapa jaqinakatakix walikiwa?"
+    a: "Walikïspa, jan ukax sumpach luqtasa. Alzheimer's Foundation of America uka yatiqañ juegos nayra qullqa sarnaqañ jaqinakatakix yatiyaraki. Taqichuyañanakax nayrapacha aruskipañanakaru jaysañ, suytanaka churañ, janiw khitirus ch'amañ, ukat sut uñt'añanakax parlañ sarnaqañ ukhamarakiwa, janiw pruebañjamäkiti."
+  - q: "¿Kunas yatiqañ juegos walikïspa sapa jaqinakatakix?"
+    a: "Nayra pacha yatiqatanakax walikiwa: nayraru jaya arunaka ukat jaqinakan sut uñt'añanaka, feriados, manq'a, deporte ukat uru sarnaqaña, kunjamtix leche aptaña ukat teléfono rotativo. Jichhürunaka noticias ukat juk'a jaysañ ukanakax jan ch'iqipxaña."
+  - q: "¿Kunjamsa yatiqañ juego luqtaña asilo ukax jan khitis llakisiñapataki?"
+    a: "Sapa taqichuyañ grupo ukar jawsaña, suytanaka uñt'añ ukat parlañ, sapa jaqirus jawsañ. Janiw khitirus sutiparu ch'iqipxañ, janiw puntaj uñjañ. Kunas sut uñt'a, sonrisa churañ, ukat jaysañ, sañ kunas jumax ukhamarak 'Khitis ukhamaruw auto cine uñjañ'."
+  - q: "¿Kunas luqtasma yatiqañ juegos ipnaqatanx?"
+    a: "Jan akax jan pantjañ taqichuyañanakaru ch'iqitaña, kunjamtix 'Kafe ukax t'é?' ukat 'Qutu ukax sayañ?' ukanakaru, jaya arunak chhaqtañ ukat kuna taqinakas tukuyañ. Uñjañ ukat uñjata akapachan parlañ ukhamarakiwa walikïspa."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +48,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Yatiqañ juegos sapa jaqinakatakix grupo chiqanakan asilonakan ukat sarnaqañ utanakan maynïr jawsatänwa, ukat wasitat familianakax uywat ch'uxña mesanakan lurapxi. Puntajampi, maynir jaqir jawsañampi ukax, sapa jaqirux ch'amaxa jan amuyt'añ utjañ ukax, jupax llakisiñ utjaraki. Suma ukhamaxa, parlañ chiqpacha sarnaqañ ukax k'achasiñ. Akan 50 sencillo taqichuyañanaka suytanakampi ukat sapa juk'a parlañ yatiyañanakampi, ukat kunjamsa yatiqañ tantachaña, uk qhipa yatiyañ.
 
-## How do you make trivia work for someone with dementia?
+## ¿Kunjamsa yatiqañ juego sapa jaqinakatakix walikïsi?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Nayra pachan yatiyata ukat amuyt'ata uñt'añ ukat sapa sut uñt'añ walikïspa sarnaqañ.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Nayra pacha taqinakat jawsañ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) yatiyi, nayra Alzheimer's uñt'äwi, machaq yatiyata amuyt'añax jan walt'äwi. Jaya arunaka, sut uñt'añanaka ukat uru sarnaqaña nayra pachat walikiwa.
+2. **Suytanaka churañ taqi kuti.** Kimsa jan ukax pä suytanakat chiqa sut uñt'añax, janiw amuyt'añampi lurañjamäkiti.
+3. **Taqichuyañanaka sut ukat jach'a uñjayañ.** Pizarra jan ukax tablet uñjayañ, jan ist'aña jaqinakatakix yanapt'i.
+4. **Sut uñt'a khuyaptayasa.** Janiw khitis yatkiti ukhaxa, suma arumpi uñt'aña, sarañ. Janiw "Jumax yatïta, ¡ukax sapaki!" sañ.
+5. **Puntaj jan.** Janiw khitirus ukat janiw mesanakar. Jan jiwasa uñjañ munaski ukhaxa, pä jaqinakan jach'a puntaj jupanakar.
+6. **Khitirus sutip jawsañ jan.** Sapa jaqirus sut uñt'añ. Jupanakar sapa jaqiruw sarañ: "Jiwasax piano ukax ukaw sasaw amuyta. Jumax kunsa amuyasa?"
+7. **Parlañ yatiyata ocupaña.** Sut uñt'añ qalltañ ukax, janiw tukuñ. Parlañ chiqpach amtañawa.
+8. **Ch'ukʼa sarnaqañ.** Pä chunka taqichuyaña, parlañanakampi yaqha sarnaqañanakan ukax walikiwa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi sapa ukat: ch'amanchasiñapataki uñjaña, jaqix suma uñt'ataspa ukhamarak sarnaqañ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yatiyi yatiqañ juegos nayra pachan sarnaqañ jaqinakatakix. Taypi pachan, pä suytanakampi sarnaqañ, parlañ yatiyanakar ch'iqiñ. Qhipäru, jan suytanaka chiqañ taqichuyañanakar sarañ.
 
-## Music and entertainment trivia
+## Música ukat entretenimiento yatiqañ
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Sut uñt'ata **negritanakan** utjaraki. Kunjamtix jaqejj utjatanakar ukhamaw lurañ: Motown ukat big band sarnaqañ jaqinakax juk'ampinaka yatipxi.
 
-| Question | Choices | Talk about |
+| Taqichuyaña | Suytanaka | Parlañataki |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| ¿Khitis "Rock and Roll ukan Mallku" sutinkänaspa? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ¿Elvis TV ukan uñjatawa? |
+| ¿Khitis "Ol' Blue Eyes" sutinkaspa? | Dean Martin, **Frank Sinatra**, Perry Como | ¿Kuna Sinatra jaya ukax suma sasaw amuyta? |
+| Bing Crosby qhaqapuqtañ "Christmas" ... | **Christmas**, boda, jaya | Sapa jaqinakampi jaya jaqinakan jaya arsuña |
+| Louis Armstrong "Qué maravilloso..." sisaw | Uru, **Mundo**, Jakäwi | ¿Kunjamtixa mundo suma uñtaspa? |
+| "Over the Rainbow" Judy Garland sisaw, ¿kuna pelíkula ukansa? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | ¿Kawkïnsa suma películanak uñjatänwa? |
+| ¿Khitis "I Love Lucy" ukan Lucy ukhamaraki? | **Lucille Ball**, Doris Day, Betty White | ¿Kuna televisiónanak familiamp uñjatänwa? |
+| ¿Khitis Trigger sutin caballo ukar sarnaqaski? | **Roy Rogers**, Gene Autry, John Wayne | ¿Wawanakan vaquerunakar jaqhaspati? |
+| ¿Khitis "The Tonight Show" 30 maranak sarnaqäna? | Ed Sullivan, **Johnny Carson**, Bob Hope | ¿Tv uñjañatak qhipa pacha jaqhaspati? |
+| ¿Kuna instrumentos 88 ch'iqinaki? | Guitarra, **piano**, trompeta | ¿Familiamp khitis ch'uqi arusiñ yatänwa? |
+| ¿Kuna danzas kimsa-kimsa-kimsa ukhamar sarañ? | **Vals**, twist, tango | ¿Kawkïr danza sarañanakas uñjatänwa? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Música ukat yatiqañ yatiyañanakatakix, uñjañ [musica ukat dementia](/activities/music/).
 
-## Everyday life trivia
+## Uru sarnaqaña ukat yatiqañ
 
-| Question | Choices | Talk about |
+| Taqichuyaña | Suytanaka | Parlañataki |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Refrigeradores jan ukax nayra pachan, uta manq'a ... | **Hielera**, horno, desván | ¿Khitis hielo apanïna? |
+| ¿Khitis leche apanïna vidrio botellanakan puerta uñt'ayaraki? | Cartero, **lechero**, periodiquero | ¿Kuna yaqha taqinakas utar apanïna? |
+| ¿Kunjamsa teléfono rotativo ukan jawsañäna? | Botonanak luqtañ, **rueda sarañ**, sapa arumpi parlañ | Jumanakan utan teléfono ukat parlaña |
+| ¿Kawkïr empresa Model T auto lurawayi? | **Ford**, Chevrolet, Buick | Auto kawkïr munasmat parlaña |
+| ¿Kawkïrsa soda jerk uñjasi? | **Soda fountain**, panadería, banco | ¿Kunsa mostrador ukan mayiyta? |
+| ¿Kuna juguete metal resorte ukax eskalera ukan sarañ? | Yo-yo, **Slinky**, hula hoop | ¿Kuna juguetenaka munasmatäta? |
+| Drive-in ukax ... uñjañatakiwa | **Auto ukat películanak**, ch'iqa juegos, desfiles | ¿Khitimp sarañ munasta? |
+| ¿Khitis uka un dólar qullqir uñt'ata? | Lincoln, **George Washington**, Jefferson | Nayra pachan kuna qullqis lurañ? |
+| ¿Khitis penny qullqir uñt'ata? | **Abraham Lincoln**, Washington, Franklin | Nayra pachan penny ukanakampi pirqa ukax imañasa? |
+| ¿Kunjamsa escuela bus ukax ch'uxña? | Ch'uxña, **amarillo**, azul | ¿Kunjamsa escuelar sarañäna? |
 
-## Holidays, nature and places
+## Feriados, uñt'äwi ukat maranakan
 
-| Question | Choices | Talk about |
+| Taqichuyaña | Suytanaka | Parlañataki |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| ¿Kuna feriado November tuqin kimsïri Jueves uñt'ayaspa? | Labor Day, **Thanksgiving**, Memorial Day | ¿Kunas mesan jani ukar utjäna? |
+| Jack-o'-lanterns uka ¿kunatakis lurasi? | **Halloween**, Pascua, Navidad | Halloween nayra pachan parlaña |
+| Fourth of July uka Declaration of ... uñt'ayi | Rights, **Independence**, Freedom | ¿Kawkïr fuegos artificiales uñjatänwa? |
+| Mother's Day uka ¿kuna mesanakansa? | Abril, **Mayo**, Junio | ¿Familiamp kunsa uñtasïna? |
+| ¿Kuntis bandera americana patanakan qulumpisa? | 48, **50**, 52 | Bandera 1959 kama 48 qullunakampi utjäna. Ukat jupanakax suma amuyt'añaw utjaraki |
+| ¿Kawkïr mar East Coast ukanwa utji? | Pacífico, **Atlántico**, Ártico | ¿Playaruw sarañ munasmati? |
+| ¿Kawkïr marka Estatua de la Libertad ukax? | Boston, **Nueva York**, Filadelfia | ¿Nueva Yorkar sarañ munasta? |
+| ¿Kunsa ch'ankanakax lurapxi? | Leche, **miel**, seda | ¿Miel tostadaruw jan ukax tér ukarumpi? |
+| Wawa vaca ukax ... sasaw | Potrillo, **ternero**, cabrito | ¿Chakar jakañ jumanaka chiqan utjatawa? |
+| ¿Kuna sachanakas ch'uxña flor ukax inti sartaskañäwa? | Rosa, **girasol**, tulipán | ¿Kuna sachanakas uta patiñaru utjäna? |
+| ¿Kunti urunakas utjaraki leap year ukan? | 365, **366**, 360 | Yuqalla cumpleaños ukat parlaña |
+| ¿Kuna mesas invierno qhipa? | Otoño, **primavera**, verano | ¿Kawkïr mesas munasmati? |
 
-## Food and sports trivia
+## Manq'a ukat deporte yatiqañ
 
-| Question | Choices | Talk about |
+| Taqichuyaña | Suytanaka | Parlañataki |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Pasas ... uñt'ayaraki | Ciruelas, **uvas**, cerezas | ¿Pasas wawanakan almuerzo ukar churäta? |
+| Ciruelas secas ... uñt'ayaraki | **Ciruelas**, higos, manzanas | ¿Khitis familiamp ciruelas munaspa? |
+| Mant'a ... ukat | Arvejas, **queso**, jamón | ¿Ch'iqi jan ukax suma? |
+| Guacamole ukax jach'a ... | Arvejas, **paltas**, pepinos | ¿Kuna mistura fiestanakan apaqatänwa? |
+| ¿Kuna Thanksgiving ukan munat tortas ukax? | **Calabaza**, limón, cereza | ¿Kuna tortas lurätam? |
+| ¿Kuntis béisbol equipo ukan campon sarañapa? | 7, **9**, 11 | ¿Kawkïr equipo jiwasa munasta? |
+| ¿Kuntis strike ukanakax out ukar puriñapa? | Pä, **kimsa**, pusi | ¿Béisbol pichañ jaqhaspati? |
+| Babe Ruth ukax kawkïr deporte ukanwa yatiyi? | Box, **béisbol**, golf | ¿Béisbol juegonakar sarañ? |
+| ¿Kuntis golf campo ukan hoyonakax utjapxi? | 9, **18**, 24 | ¿Golf jan ukax mini golf pichañ jaqhaspati? |
+| ¿Kawkïr deporte ukan touchdown uñjasi? | **Fútbol americano**, hockey, básquetbol | ¿Khitis fútbol uñjañ utar utjäna? |
 
-## Familiar sayings
+## Aruskipañ arunaka
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Arunaka tukuyañax nayra pacha yatiñ ukat sapaka sarañ. Nuestro [Finish the saying](/games/finish-the-saying/) juego askinak utjaraki.
 
-| Saying | Choices | Talk about |
+| Aru | Suytanaka | Parlañataki |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Sapa uru manzana ... ukax doctor ukar ... | **Doctor lejos**, lluvia lejos, gato lejos | ¿Khitis jumar akham sasaw? |
+| Madrugador ukax ... catch | Bus, **gusano**, tren | ¿Jumax ch'ikhi uru jaqhaspati? |
+| Chiqpacha pisi ... ukhamat jan kawkïr | **Hatch**, sleep, sing | ¿Familiamp gallinas utjäna? |
+| Pirqa qullqi ... ukat | **Earned**, lost, spent | ¿Khitis familian pirqirïna? |
+| Uta ... ukax | Garden is, **heart is**, kitchen is | ¿Kunsa uta ukar sut uñt'ayi? |
+| Mayja ... ukat | Early, **never**, sorry | ¿Khitis sapa mayja jutaskäna? |
+| Sapa jaqi ... silver ... | **Lining**, spoon, coin | Suma uru parlaña |
+| Lurawinakax arunakat ... | **Words**, music, thunder | ¿Khitis akham sasaw? |
 
-## This-or-that questions with no wrong answer
+## Jan pantjañ kuna jawsañanakas, suytan ukat jaqhañ
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Akanakax sapa phasen walikïspa, ukhamarak qhipa phasen, janiw kunsa pantjañ utjkiti. Jawsañ, ist'añ, ukat jumanakan jawsañ pä ch'iqar.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- ¿Kafe jan ukax t'é?
+- ¿Playa jan ukax qullu?
+- ¿Wilanakax jan ukax ukhamak?
+- ¿Verano jan ukax invierno?
+- ¿Tortas jan ukax pastel?
+- ¿Danzaña jan ukax uñjaña?
+- ¿Inti jalsu jan ukax inti sarañ?
+- ¿Uta punku jan ukax qhipa pacha?
+- ¿Radio jan ukax discos?
+- ¿Panqueques jan ukax huevos?
+- ¿Rosas jan ukax margaritas?
+- ¿Tren sarañ jan ukax auto sarañ?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Imágenes ukanakamp parlañ ukatak, [Conversation cards](/games/conversation-cards/) printable ukar uñjañ.
 
-## How do you run a trivia session in a care home or group?
+## ¿Kunjamsa yatiqañ tantachaña asilo jan ukax grupo ukan?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Jaqinakar jaysañ, uñjañ ukat ist'añ.** Oídos ukat ñawinak ch'iqaña, TV ukax jan.
+2. **Parlañ sasaw qalltaña.** "Nayra pachan kuna yatiqañanaka utjapxi, jumanakax nayrar sapa yatxatanakan."
+3. **Sapa taqichuyaña pä kuti sasaw, suytanaka jach'a uñjaña.**
+4. **Sapa jaqi uñt'aña.** Suma sut uñt'añanakar qhipa saña, ukhamat sapa jaqix ist'añapa.
+5. **Sut uñt'añ sapa jaqitakix sañ,** ukat parlañ yatiyata tantachañ.
+6. **Parlañ amuyt'añ.** Kunsa mä taqichuyaña chunka minuto parlañ, ukax walikiwa.
+7. **Qhipäru taqi jan ukax jaya arunaka,** ukhamat sapa jaqix sumpach tukuyañapa.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Yaqha grupo sarnaqañanakatakix, [group activities for care homes](/activities/care-home-groups/) uñjaña.
 
-## When to change the plan
+## ¿Kunapachas plan sayt'ayaña?
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Jumax jan sumpach uñjasma, jan parlañ jan ukax "Janiw yatkti" sasma, sapa jaqimpi sarnaqañ lurañ: pä suytanakar mistuña, ukhamarak sapa jaqi jawsañ, jan ukax jan ch'iqipxañ yatiqañ. Grupo pachpa taqichuyaña chiqpach parlañ munaspa ukhaxa, ukax sum sarnaqañawa. Amtañax janiw sut uñt'añatakiwa, ukax mä sumpach jaqinakampi pacha sarnaqañawa.

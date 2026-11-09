@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Se puede prevenir la demencia? Qué diz la investigación"
+seoTitle: "Se puede prevenir la demencia? Qué diz la ciencia"
+description: "Qué trobó la Comisión Lancet de 2024 y os grans ensayos sobre reducir o riesgo de demencia, qué no trobaron y pasos que vusté puede charrar con o doctor."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Nadie puede prometer prevenir la demencia. La Comisión Lancet de 2024 calculó
+  que casi a mitat de los casos de demencia en o mundo están vinculaus con 14
+  factors de riesgo que se pueden cambiar, como a tensión alta, a perdida
+  d'audición y a inactividat. Os ensayos muestran efectos pequeños en as pruebas
+  de memoria y pensamiento, pero no una prueba de menos casos de demencia.
+  Muitas personas que fan todo « bien » igualment desarrollan demencia, y no ye
+  culpa de nadie.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "La Comisión Lancet de 2024 vinculó unos 45% de los casos de demencia en o mundo con 14 factors de riesgo que se pueden cambiar. Ye una estimación de población, no una garantía personal."
+  - "Reducir o riesgo significa baixar as posibilidatz en una población entera. No significa que cualsevol persona pueda evitar la demencia."
+  - "Grans ensayos como FINGER, US POINTER y SPRINT MIND trobaron beneficios pequeños en as pruebas de pensamiento o en o deterioro cognitivo leve, pero denguno demostró que un programa de estilo de vida prevenga la demencia."
+  - "A edat ye o mayor factor de riesgo conoixer pa l'Alzheimer, y no se puede cambiar. Muitas personas con hábitos sanos desarrollan igualment demencia."
+  - "Os pasos más estudiatz, como tratar a tensión alta, usar audífonos y mantener-se activo, valen la pena de charrar con o doctor porque tamién ayudan a a salut en atras maneras."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Se puede prevenir la demencia?"
+    a: "No hi ha una manera demostrada de prevenir la demencia pa denguna persona en particular. A investigación sugiere que reducir ciertos riesgos, como a tensión alta, a perdida d'audición sin tratar y fumar, puede baixar as posibilidatz de demencia en una población o retrasar cuando comienza. Son probabilidatz, no promesas."
+  - q: "Qué significa o 45% de la Comisión Lancet?"
+    a: "La Comisión Lancet de 2024 estimó que unos 45% de los casos de demencia en o mundo están vinculaus con 14 factors de riesgo que, en teoría, se podrían cambiar. La estimación supón que esos factors causan la demencia, y os autors apuntan que algunas relaciones pueden ser solo en parte causals. Describe poblaciones enteras y no dice cuál ye o riesgo de cada persona."
+  - q: "Si mi padre tenía un estilo de vida sano, por qué desarrolló demencia?"
+    a: "La edat, los genes y muitos factors que nadie controla tienen un papel grande en la demencia. Os autors de la Comisión Lancet apuntan que reducir o riesgo en una población no garantiza que cualsevol persona vaiga a evitar la demencia. Un diagnóstico no ye un signo de que alguien fallara."
+  - q: "Ye tarde pa reducir o riesgo de demencia después de los 65 anyos?"
+    a: "La Comisión Lancet dice que nunca ye tarde ni pronto pa reducir o riesgo, aunque a mayor parte de a evidencia trata de a mediana edat. Tratar problemas de oyir y de vista, mantener-se activo y seguir en contacto con a chent son ejemplos de pasos en a edat avanzada que se han estudiato. Charre con o doctor sobre qué le conviene a vusté según a suya salut."
+  - q: "Los juegos de memoria o las dietas especiales previenen la demencia?"
+    a: "Denguno juego, alimento, suplemento o dieta ha demostrato prevenir la demencia. Un ensayo de tres anyos de la dieta MIND no trobó una diferencia significativa en o pensamiento en comparación con una dieta de control, y as aplicacions comerciales de entrenamiento cerebral no han demostrato tener os efectos que se ven en os ensayos de investigación."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,136 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Si vusté ye cuidando a alguien con demencia, o si ha visto a un padre o una madre vivir con ella, probablemente se ha preguntato si se podría haber evitado, y si puede evitar que le pase a vusté. Esta pachina explica lo que dice la investigación, en lenguache claro. A respuesta curta: nadie puede prometer prevenir la demencia, pero la investigación sugiere que algunos riesgos se pueden reducir, y que reducirlos en una población puede significar que menos personas desarrollen demencia o que la desarrollen más tarde.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ye información general, no consello médico. Por favor, lea o nuestro [aviso médico](/medical-disclaimer/) y charre con un doctor sobre a suya propia salut.
 
-## Can dementia be prevented?
+## Se puede prevenir la demencia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+No hi ha una manera demostrada de prevenir la demencia pa denguna persona en particular. O National Institute on Aging (NIA) dice que, aunque
+[todavía no se ha demostrato nada pa prevenir l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+os investigadores han trobato estrategias prometedoras y están aprendiendo qué puede funcionar y qué no.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Lo que la investigación *sí* muestra ye que ciertas condiciones de salud y ciertos hábitos están vinculaus con una mayor posibilidat de demencia. Cuando esos riesgos son menores en una población entera, pueden desarrollar demencia menos personas, o puede aparecer más tarde en a vida. Ixo ye muy diferent a una garantía.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Un signo esperanzador: a Comisión Lancet de 2024 informó que en unos países de altos ingresos, incluidos Estados Unidos y o Reino Unido, a proporción de personas mayores con demencia ha baixau. Os autors creen que ixo se debe en parte a una mejor educación, una mejor atención sanitaria y menos daños en os vasos sanguineos a lo largo de la vida, según el [resumen del informe de University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Qué trobó la Comisión Lancet de 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+La Comisión Lancet sobre prevención, tratamiento y atención de la demencia ye un grupo de 27 investigadores de demencia que revisan a evidencia cada unos anyos. O suyo informe de 2024 nombró **14 factors de riesgo** que se pueden cambiar, y estimó que, en conchunto, dan cuenta de **casi a mitat (unos 45%) de los casos de demencia en o mundo**. Segun os autors, estos casos *teoricament* se podrían prevenir o retrasar si se eliminasen los riesgos
+([informe de la Comisión Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Os 14 factors, agrupaus según a etapa de la vida en que a evidencia ye más sólida:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Primera edat:** menos educación.
+- **Mediana edat (más o menos entre os 40 y os 65 anyos):** perdida d'audición, colesterol LDL alto (o "malo"), depresión, lesión en a cabeza, inactividat fisica, diabetes, fumar, tensión alta, obesidat y beber mucho alcohol.
+- **Edat avanzada:** aislamiento social, contaminación d'aire y perdida de vista sin tratar.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+As dos adicions más nuevas de 2024 fueron o colesterol LDL alto y a perdida de vista sin tratar. Os factors vinculaus con a mayor parte de los casos fueron a perdida d'audición y o colesterol LDL alto (unos 7% cadaun), seguius de menos educación y aislamiento social (unos 5% cadaun).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+A nuestra [guía de factors de riesgo](/brain-health/risk-factors/) repasa os 14 en una tabla, con lo que vincula a investigación y lo que vusté puede fer.
 
-### What the 45% figure does not mean
+### Qué no significa o 45%
 
-It is easy to misread this number, so it helps to be precise:
+Ye fácil malinterpretar este número, asinas que ayuda ser precisos:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ye una estimación de población.** Describe os casos de demencia en o mundo, no las posibilidatz suyas ni las de su padre o madre.
+- **Supón causa y efecto.** Os autors dicen que solo incluyeron factors de riesgo con evidencia convincent, pero que algunas relaciones pueden ser solo en parte causals. Por ejemplo, a depresión en edat avanzada a veces puede ser un síntoma temprano de demencia y no una causa.
+- **No garantiza nada pa una persona.** O resumen de UCL indica que reducir o riesgo funciona a nivel de población y no garantiza que cualsevol persona vaiga a evitar la demencia.
+- **O otro medio no lo explican estos factors.** La edat, los genes y causas que los científicos todavía no entienden componen lo que queda.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Cuala ye a diferencia entre « reducir o riesgo » y « prevenir »?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Reducir o riesgo** significa baixar as posibilidatz. Si un grupo grande de personas baixa a suya tensión, puede que menos de elllas desarrollen demencia con o pasar d'os anyos que sin ixo. Algunas personas de ese grupo la desarrollarán igualment.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prevenir** suggiere evitar que algo pase de cualiquier manera. En o caso de la demencia, la investigación no puede prometer ixo a denguien hue.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Os investigadores tamién charran de **retrasar**. A Comisión Lancet informa de nuevas evidencias de que reducir o riesgo puede retrasar o momento en que comienza la demencia y acortar o tiempo que una persona vive con mala salut. Incluso un retraso de unos anyos puede importar muito a una persona y a suya familia.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+En esta web, usamos « reducir o riesgo » y « vinculau con » a propósito. Cuando vea un producto, suplemento o programa que prometa « prevenir l'Alzheimer », tráteo con precaución. O NIA aconseya consultar con un doctor antes de probar cualsevol pastilla o tratamiento que prometa prevenir l'Alzheimer, porque estos productos pueden ser peligrosos, una pérdida de diners, o ambas cosas.
 
-## What have large trials found?
+## Qué han trobato os grans ensayos?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Os estudios observacionales (que siguen a las personas a lo largo del tiempo) pueden mostrar relaciones. Os ensayos aleatorizados, en os que las personas se asignan a un programa o a un grupo de comparación por azar, son una prueba más fuerte. Aquí tiene lo que trobaron algunos de os ensayos más conoixidos.
 
-### FINGER (Finland)
+### FINGER (Finlandia)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+O ensayo FINGER incluyó a 1.260 adultos de entre 60 y 77 anyos con mayor riesgo de demencia. La mitat recibió un programa de dos anyos con consellos de dieta, ejercicio, ejercicios cerebrales en ordenador y revisiones de a salut d'o corazón y d'os vasos sanguineos; a otra mitat recibió consellos generals de salut. O grupo d'o programa obtuvo resultaus un poco mejores en un conchunto de pruebas de pensamiento, una diferencia pequeña pero estadísticamente significativa
+([ensayo FINGER en The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). O ensayo midió resultaus de pruebas, no diagnósticos de demencia.
 
-### US POINTER (United States)
+### US POINTER (Estados Unidos)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER incluyó a 2.111 adultos de entre 60 y 79 anyos que eran inactivos, tenían una dieta menos sana y otros factors de riesgo. Os dos grupos fueron animaus a ser más activos fisicament y mentalment, comer mejor, mantener-se sociables y vigilar la salut d'o corazón. Un grupo tuvo un programa estructurau y con entrenador; l'otro se guió por cuenta propia. En dos anyos, los resultaus de las pruebas de pensamiento mejoraron en **ambos** grupos, y un poco más en o grupo estructurau
+([ensayo US POINTER en JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Os autors dicen que hacen falta más seguimientos pa saber si a diferencia importa en a vida diaria. Como no había un grupo de « no hacer nada », o ensayo no puede decir cuánto ayudó cada programa en comparación con no cambiar nada.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tensión sanguinea)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND estudió a 9.361 adultos de Estados Unidos de 50 anyos o más con tensión alta. Se les asignó un obchectivo de tensión más baixo (cifra de arriba por debaixo de 120) o o obchectivo estándar (por debaixo de 140). O obchectivo más baixo redució de forma significativa o **deterioro cognitivo leve**, una etapa de problemas de memoria y pensamiento que puede aparecer antes de la demencia. Pa la **demencia probable**, hubo menos casos en o grupo de obchectivo más baixo, pero a diferencia no fue estadísticamente significativa. O ensayo se paró antes de tiempo y tuvo menos casos de demencia de los esperados, asinas que puede que fuera demasiado pequeño pa responder a esa pregunta
+([SPRINT MIND en JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Qué suman as revisiones
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Una revisión Cochrane de 2021 reunió nueve grans ensayos de programas que tratan varios riesgos a la vez, con más de 18.000 personas. Trobó un pequeño beneficio en as pruebas de pensamiento, pero **ninguna diferencia clara en cuántas personas desarrollaron demencia** en os dos ensayos que lo midieron
+([revisión Cochrane de intervenciones multidominio](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Una revisión de 2017 de las National Academies of Sciences, Engineering, and Medicine, resumida por o NIA, encontró evidencia « esperanzadora pero no concluyente » pa tres enfoques: controlar a tensión alta, aumentar la actividat fisica y o entrenamiento cognitivo.
 
-## Does it matter when you start?
+## Importa cuán pronto se empieza?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+O consello de la Comisión Lancet ye reducir los riesgos lo antes posible y mantenerlos baixos lo más tiempo posible: « cuanto antes, mejor » y « cuanto más, mejor ». Tamién dice que nunca ye tarde ni pronto pa reducir o riesgo. A mayor parte de a evidencia trata de a mediana edat, más o menos entre os 40 y os 65 anyos, pero algunos factors, como a perdida de vista y o aislamiento social, son riesgos de edat avanzada en os que tomar medidas aún puede tener sentido.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+O informe dice que hoy hay evidencia más fuerte de que una exposición más larga a un riesgo tiene un efecto mayor. Por ejemplo, a diabetes que empieza en a mediana edat parece pesar más que a diabetes que empieza más tarde.
 
-## Is dementia risk the same for everyone?
+## Ye o riesgo de demencia igual pa todos?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+No. La Comisión trobó que as personas de países de ingresos bajos y medios, as de grupos minoritarios y as que tienen menos dineros cargan con más de estos riesgos a menudo, asinas que la demencia tiende a aparecer a una edat más joven. Muitos riesgos están ligaus a circunstancias que las personas no escogieron, como a calidat de a escuela que tenían de chicos, o aire d'o lugar en o que viven, y si la comida sana está a precio asequible y cerca.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Por ixo las recomendaciones de la Comisión van dirichidas a os gobiernos tanto como a las personas: buena educación pa todos os nenos, aire más limpio, medidas pa reducir o fumar, menos azúcar y sal en a comida que se vende en tiendas y restaurantes, y audífonos pa todos os que los necesiten. O esfuerzo individual importa, pero tamién importa o mundo en que viven las personas. Ye una razón más pa no culpar a nadie por un diagnóstico.
 
-## What are the honest limits of this research?
+## Cuals son os límites honestos de esta investigación?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **La demencia tarda décadas en desarrollarse**, pero la mayoría de los ensayos duran entre dos y cinco anyos. Medir la demencia en sí, y no solo los resultados de pruebas, necesita estudios muy largos y muy grans.
+- **La mayoría de los ensayos miden pruebas de pensamiento.** Una pequeña mejora en una prueba no significa necesariamente que vaiga a desarrollar demencia menos gente ni que a vida diaria sea más fácil.
+- **Os voluntarios suelen estar más sanos** y tener más educación que o público en general. La Comisión Lancet nota que la mayor parte de la evidencia sigue viniendo de países de altos ingresos y que os grupos minoritarios están poco representaus.
+- **Algunas relaciones van en os dos sentidos.** Estar menos activo o menos sociable puede ser un efecto temprano de la demencia, y no solo una causa.
+- **Los ensayos de dieta han sido decepcionantes hasta ahora.** Un ensayo de tres anyos de la dieta MIND no trobó una diferencia significativa en o pensamiento en comparación con una dieta de control. Vea nuestra [guía de dieta](/brain-health/diet/).
+- **Los juegos cerebrales no están demostrados como prevención de la demencia.** Vea nuestra guía sobre
+  [juegos cerebrales y demencia](/brain-health/brain-games/).
+- **El ayuno tiene muy poca evidencia en personas**, y puede ser arriesgado pa adultos mayores. Vea nuestra [guía de ayuno](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Si alguien lo hizo todo « bien », por qué desarrolló demencia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Porque la demencia no ye simplemente o resultau de las eleccions. O NIA dice que
+[a edat ye o mayor factor de riesgo conoixer pa l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+y nadie puede cambiarla. Los genes tienen un papel. Y los científicos todavía no entienden del todo qué causa l'Alzheimer en a mayoría de las personas. Incluso si se eliminasen los 14 factors de riesgo, la propia estimación de la Comisión Lancet deja más de la mitat de los casos sin explicar.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Asinas que si vusté cuida a alguien que hacía ejercicio, comía bien, nunca fumó y aun así desarrolló demencia, no hizo nada mal ni esa persona ni vusté. Si vusté vive con demencia, no ye culpa suya. La culpa ye común entre as familias, pero no ye merecida. Lo que importa ahora ye la comodidat, la conexión y os buenos días, y nuestras [ideas de actividades](/activities/ideas/) y la [guía de autocuidado para cuidadores](/caregiving/caregiver-self-care/) son un buen lugar pa empezar.
 
-## What steps can you talk over with a doctor?
+## Qué pasos puede charrar con o doctor?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Estas son las áreas más estudiadas. Valen la pena de plantear en una revisión porque la mayoría ayudan tamién a la salut d'o corazón, a l'ánimo y a la autonomía, sea cual sea o efecto final sobre la demencia.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tensión sanguinea.** Pregunte cuals son sus cifras y qué obchectivo le conviene. La Comisión Lancet sugiere apuntar a una cifra de arriba de 130 o menos desde más o menos os 40 anyos, pero o obchectivo correcto pa un adulto mayor depende de su salut general.
+2. **Oyir.** Pida una prueba de audición y si los audífonos le ayudarían. Nuestra [guía sobre el oír](/brain-health/hearing/) explica la investigación.
+3. **Vista.** Hágase revisiones de ojos regulares y pregunte si problemas como cataratas se pueden tratar.
+4. **Colesterol.** Pregunte si conviene revisar su colesterol LDL y si algo debería cambiar.
+5. **Azúcar en a sangre.** Si tiene diabetes, pregunte cómo controlarla con seguridad.
+6. **Ánimo.** La depresión ye común y tiene tratamiento. Diga a su doctor si se ha sentido decaído o ha perdido o interés en as cosas por más de un par de semanas.
+7. **Tabaco y alcohol.** Pregunte por apoyo pa dejar de fumar y por límites seguros de alcohol.
+8. **Movimiento.** Pregunte qué tipo de actividat le ye segura. Nuestra [guía de ejercicio](/brain-health/exercise/) tiene ideas.
+9. **Protección de la cabeza.** Use casco pa ir en bici y en deportes de contacto, y pregunte por prevención de caídas.
+10. **Mantenerse conectado.** O tiempo con otras personas ye parte de una vida sana. Vea nuestra guía sobre [conexión social](/brain-health/social-connection/), y también la de [sueño](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Antes de cambiar medicamentos, dieta, suplementos, ayuno o ejercicio, charre primero con su doctor, sobre todo si tiene una enfermedad cardiaca, diabetes, un historial de caídas o ya vive con demencia.
 
-## Talk with a doctor
+## Charre con un doctor
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Si nota cambios de memoria o de pensamiento que le preocupan, en vusté o en otra persona, pida cita. O NIA indica que
+[los problemas de memoria pueden tener otras causas](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+como efectos secundarios de medicamentos, problemas de tiroides, depresión o falta de vitamina B12, y que algunos de estos problemas desaparecen cuando se trata la causa. Nuestra [guía de señales de alerta](/brain-health/warning-signs/) explica qué vigilar.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Busque ayuda urgente** si hay cambios repentinos: confusión súbita, debilidad o adormecimiento de un lado del cuerpo, dificultad pa hablar o un dolor de cabeza muy fuerte pueden ser señales de un ictus u otra emergencia. Trucar al 112.
 
-## Where Golden Moments fits
+## Dónde encaja Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments hace actividades sencillas para compartir, como [tarjetas de conversación](/games/conversation-cards/), [bingo de imágenes](/games/picture-bingo/) y una [pausa de respiración tranquila](/games/calm-breathing/). Son para disfrutar y pasar tiempo juntos. No son un tratamiento y no previenen ni frenan la demencia.

@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Планшет ё телефон деменциядиял инсанал гьабизе"
+seoTitle: "Деменциялда инсанал планшет ё телефон гьабизе"
+description: "Деменциялда инсанал планшет ё телефон пошагово гьабизе: бихьараб программа ахирлъи, бегьулеб буква, уведомлениябал ахир, сад бихьараб экран, сес ва сир."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Планшет ё телефон кӀвечӀ гьабизе, гьелъ чи бихьизабизеязе. Guided Access
+  (iPad ва iPhone) ё app pinning (Android) гьабизе сад программаялда, ё
+  Apple-ган Assistive Access гьабизе сад бихьараб кӀалъай. Буква бегьулеб
+  гьабизе, уведомлениябиги ахирлъизе, сад экранда ччвай бихьараб программа
+  хӀалтизе, сес гьабизе, стенд ва сир. Гьелъ кӀалъазе, экрангӀан маса
+  кӀалъабиги хӀалтизе.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ва app pinning (Android) экранги сад программаялда бугьизабизе, гьелъ чи ахир гьабизеялда."
+  - "Apple-ги Assistive Access бихьараб кӀалъай гьабула, гьелъ когинаб ругьаналъи бугеб инсаназ."
+  - "Буква бегьулеб гьабизе, уведомлениябиги pop-up ахирлъизе, гьелъ чи ругьизабизе ва хьизабизе."
+  - "Сад экранда тӀимал программаялда хӀалтизе, сес гьабизе кӀалъазе лъугьаналъ."
+  - "Стенд ва сир дарщ кӀалъай бегьулеб гьабизе, гьелъ кӀалъазабиги, кьараб-лъараб гьабизе."
+  - "Программаязул ихтиярал ва маглъумат ахирлъи ккун: HIPAA бихьизабула гьабулеб бутӀа хӀакъ дарщ личный телефонда."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Деменция бугеб инсан планшетда программа ахирлъизе, гьелъ гьабизе чи кӀвечӀ гьабизе?"
+    a: "Settings > Accessibility > Guided Access гьабизе, пароль гьабизе. Программа ач, гьелъ top button ё Home button 3 гьабизе, Start гьабизе. Пароль гъваризе лъугьаналъ планшет гьелъ программаялда бугьула."
+  - q: "Android планшет сад программаялда кӀвечӀ гьабизе гьабизе чи?"
+    a: "Settings-да app pinning гьабизе, обычно Security (ё Security & location) > Advanced > App pinning. Программа ач, Overview ач, программаясул иконка гьабизе ва Pin гьабизе. Unpin гьабизеялда PIN, узор ё пароль кьолеб."
+  - q: "Guided Access инсанасул личный телефонда гьабизе хӀакъ дарщ?"
+    a: "Бикьар гьабизе. Apple гъвала, Guided Access гьабулаб бакӀалда Crash Detection ва Emergency Services ахир гьабула. Инсан телефонда хьинмугъ чӏван кӀвечӀ гьабизе, Guided Access чи гъвалаб бакӀалда ахир гьабизе ё Assistive Access гьабизе."
+  - q: "Деменция бугеб инсаназ экранги чи бихьараб хьамлъи кьолеб?"
+    a: "Лъай гьабизе хьинмугъ дарщ. Бихьараб, сад-сад гьабулеб кӀалъаяз экран гьабизеязда тӀимал. Экран ругьиялда ё маса кӀалъабиги гьабизе бакӀалда ахир гьабулеб гъвала, гьелъ кӀалъазе тӀимал кьолеб."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Планшет — гьабулеб бакӀ сурат, музыка ва бихьараб гьарай кӀалъазе. Гьелъ ахир гьабизе лъугьула: сад кьабалъ тӀвалъ сад программа ач, уведомление ач, буква бихьнаб, ё экран гьабизе лъугьула. Чи ахирлъиялда кӀвечӀ гьабизе тӀадаб кӀалъа гьабула.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Гьа ччараб кӀалъа iPhone, iPad ва Android-ги ччула, Settings-да гьабулеб кӀалъаязда. Менюяз маса версиялда ё производительда ахир гьабулеб гъвала, Apple ё Google-ги гьабулеб бакӀ чи гъвалаб кӀалъайда. КӀвечӀ гьабизе маса инсанал бакӀалда гьабизе гъвала, сад-сад ахир гьабизе.
 
-## Should someone with dementia use a tablet or phone?
+## Деменция бугеб инсан планшет ё телефон кӀалъазе тӀимал дарщ?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Гьелъ инсанасул ахирлъиялда ккун. Бихьараб инсанал ругьарал кӀалъаяз ругьизе лъугьула, гьелъ хьинмугъ гьабизе тӀимал кьолеб гъвала. Гьелъ гьабизе ахир гьабизе гъвала, сад программа ач, сад-сад минута гьабизе. Ругьулаб, ва гьабулаб ахир гьабизе гъвала, гьелъ кӀалъазе ругьиза. Ахир гьабизе гъвала, сурат альбом, бакӀ гьабулеб букваби ё музыка тӀимал гъваризе лъугьула. Гьа ахирлъиялда [печатаб кӀалъаяз](/activities/printable/) маса тӀимал.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Планшет телефонда гьабизе тӀадаб тӀимал: экран ва суратаби гьабизеялда тӀадаб, ва телефон инсанасул чи ахир хӀалтизе кьолеб гъвала.
 
-## How do I lock a tablet or phone to one app?
+## Планшет ё телефон сад программаялда кӀвечӀ гьабизе чи?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+iPhone ва iPad-да Guided Access гьабизе, Android-да app pinning гьабизе. Гьелъ экран сад программаялда бугьула, кодаб гъвалаб бакӀалда, гьелъ чи ахир гьабизе ругьизе лъугьула.
 
-### iPad and iPhone: Guided Access
+### iPad ва iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple-ги Guided Access кӀалъай](https://support.apple.com/en-us/111795) гъвала:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. **Settings** ач, **Accessibility** ач, гьелъ **Guided Access** ач ва гьабизе.
+2. **Passcode Settings** гьабизе, Guided Access пароль гьабизе. Face ID ё Touch ID гьабизеги тӀимал.
+3. ТӀимал: **Display Auto-Lock** гьабизе, экран сабаб гьабизе лъугьаналъ гьабизе, гьелъ гьарай кӀалъабиги гьабизе чи.
+4. Программа ач, гьелъ кӀалъазе.
+5. iPhone-ги side button, iPad-ги top button, ё старый гьабулеб Home button 3 гьабизе.
+6. ТӀимал: экранги сад-сад бакӀ гьабизе, гьелъ тӀамасе тӀвалъ гьабизе. **Options** (ё **Session Settings**) ач, сес buttons ё экран ругьизабизе гьабизе.
+7. **Start** ач.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Сессия хӀалтизе, гьа button 3 гьабизе, пароль гьабизе, **End** ач. Apple гъвала, старый версиялда double-click гьабизе кьолеб.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Важно:** Apple гъвала, Guided Access гьабулаб бакӀалда Crash Detection ва Emergency Services ахир гьабула. Инсан хьинмугъ телефонда экстренный звонок гьабизе кьолеб гъвала, гьелъ телефонда Guided Access гьабизе тӀадаб гьабизе.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google-ги Android кӀалъай](https://support.google.com/android/answer/9455138?hl=en) гъвала:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. **Settings** ач.
+2. **Security** (ё **Security & location**) ач, гьелъ **Advanced** ач, гьелъ **App pinning** ач. Гьелъ ахир гьабизе лъугьаналъ, производительда помощь гъвала.
+3. **App pinning** гьабизе. Unpin гьабизеялда PIN, узор ё пароль кьолеб.
+4. Программа ач. Экран гъвала сад гьабизе жагъ, тӀвалъ гьабизе, гьелъ Overview ач (3-button navigation гъвала Overview button ач).
+5. Программаясул превью тӀвалъ гьабизе иконка ач, гьелъ **Pin** ач.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Gesture navigation гъвала unpin гьабизе жагъ гьабизе, гьелъ тӀвалъ гьабизе. 3-button navigation гъвала Back ва Overview гьабизе сабаб тӀвалъ гьабизе. 2-button navigation гъвала Back ва Home гьабизе сабаб тӀвалъ гьабизе. Гьелъ гьабизе PIN, узор ё пароль гьабизе.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## iPhone ё iPad-да сад бихьараб кӀалъай гьабизе тӀимал дарщ?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+ТӀимал. Apple-ги Assistive Access обычный home screen-бал маса бихьараб бакӀ гьабула. [Apple гъвала](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) гьелъ гъвалаб iPhone когинаб ругьаналъи бугеб инсаназ бихьараб гьабизе гьабула, сурат ва буквабаз тӀадаб, кӀалъаб ахир. Apple гьабула [iPad-даги гъвалаб кӀалъай](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Ким гьабула.** Apple гъвала, чи ругьараб инсан, гьелъ кӀвечӀ гьабизе ахир гьабулеб, маса caregiver ё родственник, гьелъ программаяз ва функциязул гьабизе кӀалъазе.
+- **Кьараб бакӀ.** **Settings > Accessibility > Assistive Access** ач, **Set Up Assistive Access** ач, гьелъ **Continue** ач.
+- **Программаяз.** Программаяз чи гьабизе гьабула. Apple-ги сад-сад программаязда бихьараб версия бугеб, маса программаяз гьабизе ччула.
+- **Экран.** **Rows** (бихьараб список) ё **Grid** (кӀалъаб иконкаяз, сурат гьабизеязда) гьабизе.
+- **Пароль.** Assistive Access-ги сад пароль гьабизе, гьелъ ахир гьабизе, хӀалтизе ё кӀалъазе. Apple гъвала, recovery Apple Account гьабизе тӀадаб, пароль гъваризе лъугьаналъ устройство сбросить гьабизе кьолеб.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access гъвалаб инсаназ, гьелъ ккулаб устройство гьабизе ругьараб гъвала. Guided Access ё app pinning гьабизе, сад кӀалъа гьабизе тӀадаб.
 
-## How do I make text and pictures bigger?
+## Буква ва сурат бегьулеб гьабизе чи?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Текст ва экранги гьабизе кӀалъа гьабизе, кнопкаяз экран гьабизе ахир гьабулеб гъвала гъвара.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ва iPad.** [Apple-ги font size кӀалъай](https://support.apple.com/en-us/102453) гъвала, **Settings > Display & Brightness > Text Size** ач, слайдер гьабизе. Еще бегьулеб гьабизе, **Settings > Accessibility > Display & Text Size > Larger Text** ач. Apple гъвала, бегьулеб буква гьабизе кнопкаяз тӀвалъ гьабизеялда тӀадаб гьабизе, гьелъ гъвара.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google-ги text ва display кӀалъай](https://support.google.com/accessibility/android/answer/11183305?hl=en) гъвала, **Settings** ач, **Font size** гьабизе, слайдер гьабизе. **Display size** гьабизе экран ккун бегьулеб гьабизе. **Accessibility > Display size and text** гьабизе **Bold text** гьабизеги тӀимал. Сад программаяз гъвалаб кӀалъаяз гьабизе гьабулеб гъвала.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Picture Pairs](/games/picture-pairs/) ва [Find the Same](/games/find-the-same/) гьабизе, маса тӀимал гьабизе, гьелъ ахир сад гьабизе, экран сад-сад гьабизе.
 
-## How do I stop notifications and pop-ups?
+## Уведомлениябиги pop-up ахирлъизе чи?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Гьелъ программаязда уведомление ахирлъи, гьелъ кӀалъазе гьабизе Do Not Disturb.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ва iPad.** **Settings > Notifications** ач, программа ач, **Notification Style** гьабизе, **Allow Notifications** ахирлъи ([Apple-ги уведомлениязул кӀалъай](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Звонкаяз, уведомлениябиги сабаб ахирлъизе, Control Center ач, **Focus** гьабизе **Do Not Disturb** ач ([Apple-ги Do Not Disturb кӀалъай](https://support.apple.com/en-us/105112)). **Settings > Focus > Do Not Disturb > Set a Schedule** гьабизе, гьелъ вакт гьабизе тӀимал.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Экран тӀвалъ гьабизе, **Do Not Disturb** ач, ё **Settings > Modes > Do Not Disturb** ач ([Google-ги Do Not Disturb кӀалъай](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters** гьабизе, гьелъ инсанал ва программаяз уведомление гъвалаб бакӀалда гьабизе. Производительда гьабулеб кӀалъаяз ругьарал.
 
-## How do I make a simple home screen?
+## Сад бихьараб home screen гьабизе чи?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Сад экранда ругьараб программа гьабизе, маса программаяз сабаб гьабизе. Гьелъ сад настройка дарщ, гьелъ экран тӀадаб гьабизе.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Гьабизе 3–6 программа.** Например, сурат, музыка, видеозвонок программа ва сад гьарай.
+- **Первый экранда гьабизе,** гьелъ сад бакӀалда, хӀалтизе бакӀалда. Маса программаяз сабаб ё папка гьабизе.
+- **Сад фон гьабизе,** сад цвет ё ругьараб сурат, иконкаяз бихьараб гьабизе.
+- **КӀалъазе хьинмугъ программаяз хӀалтизе.** Программа тӀимал дарщ гъвала, гьелъ ругьизабизе ва данные тӀимал.
+- **Apple-ги Assistive Access гьабизе**, гьелъ устройство гьабизе сад кӀалъа гьабизе.
 
-## What about volume and sound?
+## Сес ва звук гьабизе чи?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Устройство инсанасе гьабизе тӀвалъ, сес гьабизе ругьараб бакӀалда. Guided Access гьабулеб гъвала, сес buttons ахирлъизе, гьелъ кӀалъа гьабизе сес хӀалтизе. Слуховой аппарат гьабулеб гъвала, гьелъ кӀалъазе гьабизе.
 
-## Where should the tablet live?
+## Планшет хьинмугъ гьабизе?
 
-Give it a stand and a permanent charging spot.
+Стенд ё case гьабизе, гьелъ планшет таблица гьабизе ччизе, гьелъ инсан хьинмугъ гьабизе тӀимал дарщ.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Стенд ё case** гьабизе, гьелъ планшет таблица ччизе. Гьелъ инсан гьабизе тӀимал дарщ, гьелъ экран чи гъвалаб бакӀалда.
+- **Сад зарядка бакӀ.** Гьелъ бакӀ хьинмугъ ахирлъи дарщ, сад комната гьабизе, гьелъ чи гьабизе кьолеб. Устройство гьабизе зарядка ругьизабизе.
+- **Блик ахирлъи.** Экран тӀвалъ гьабизе, окно сабаб тӀадаб ахирлъизе.
 
-## How much screen time is okay?
+## Экран гьабизе сколько вакт тӀимал дарщ?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Хьинмугъ минута дарщ. Гьелъ сад-сад, гьелъ кӀалъа сад-сад гьабизе, гьелъ кӀалъазе: харакат, музыка, хозяйственные дела, гьарай ва тӀадаб вакт. Гьелъ гьабизе, экран гьабизе гъвала, гьелъ хӀалтизе ругьараб вакт гьабизе тӀимал. См. [кӀалъаб кьабалъ гьабизе](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Планшет сад гьабизе, лъикӀиялда гьабизе, гьелъ сад инсан чи гьабизе кӀалъа. [Гьарай кӀалъаяз гьабизе](/caregiving/how-to-play-together/) гьабизе, гьелъ кӀалъазе.
 
-## How do I protect their privacy on the device?
+## Устройствалда инсанасул маглъумат ахирлъизе чи?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Программаяз чи маглъумат гьабизе ахирлъи, гьелъ HIPAA ахир гьабизе тӀадаб. АКШ-ги Department of Health and Human Services (HHS) [гъвала](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), HIPAA-ги кӀалъаяз личный телефон ё планшет гьабизе бутӀа хӀакъ дарщ. Сад-сад гьабизе, личный кӀалъазе программаяз гьабизе маглъумат HIPAA хӀакъ дарщ, гьелъ программа медицинский учреждение ё гьелъ партнер гьабулеб гъвала.
 
-HHS suggests:
+HHS гьабула:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- хьинмугъ ва тӀимал дарщ программаяз гьабизе, «бесплатный» программаяз гьабизе;
+- местоположение гьабизе ахир гьабизе, гьелъ программа кьолеб гъвала, например карта.
 
-Also consider:
+Гьарай тӀадаб:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Пароль гьабизе** устройствада, гьелъ бакӀалда хӀалтизе.
+- **Разрешения гъвалаб кӀалъа:** сурат, камера, микрофон, контакты, местоположение. Программа кьолеб дарщ гъвала, гьелъ ахирлъизе.
+- **Программа гьабизе маглъумат ккун** установить гьабизе. [Деменциялда программаяз ва гьарай кӀалъаяз гьабизе](/caregiving/choosing-apps-and-games/) гьабизе приватность кӀалъай.
+- **Семейные сурат ахирлъизе.** Инсан ругьараб сурат гьабизе, программа гьелъ сурат гьабизе бакӀ хӀалтизе. [Photo Pairs](/games/photo-pairs/) гьабизе, гъвалаб сурат браузердал гьабизе.
+- **Программаязда покупка ахирлъизе** ё инсан гьабулеб аккаунтаз платёжные данные хӀалтизе.

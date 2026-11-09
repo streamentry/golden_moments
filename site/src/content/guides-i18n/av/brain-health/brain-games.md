@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Помогают ли игры для ума от деменции? Что показывают данные"
+seoTitle: "Игры для ума и деменция: что известно"
+description: "Что говорят исследования об играх для ума и деменции: когнитивная стимуляция, компьютерные тренировки, исследование ACTIVE и дело FTC против Lumosity, простым языком."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ни одна игра для ума не доказала, что предотвращает деменцию. Компьютерные
+  тренировки обычно улучшают только те задания, которые человек тренирует.
+  В одном исследовании из испытания ACTIVE конкретная тренировка скорости с
+  повторными занятиями была связана с меньшим числом диагнозов деменции за 20
+  лет. Это узкий вывод. Для людей, которые уже живут с деменцией, групповая
+  когнитивная стимуляция даёт небольшую краткосрочную пользу. Игры лучше всего
+  выбирать ради удовольствия и общения.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Исследования тренировок для ума показывают, что люди становятся лучше в тех заданиях, которые тренируют, но доказательств того, что это переносится на повседневную жизнь, гораздо меньше."
+  - "В испытании ACTIVE меньше диагнозов деменции за 20 лет было только у тех, кто прошёл конкретную тренировку скорости и повторные занятия. Тренировка скорости без повторных занятий, а также тренировка памяти и логики такого эффекта не показали."
+  - "В 2016 году производитель Lumosity заплатил 2 миллиона долларов, чтобы урегулировать обвинения FTC: компания не имела научных доказательств для заявлений об отсрочке деменции."
+  - "Для людей с деменцией лёгкой и средней степени групповая когнитивная стимуляция даёт небольшую краткосрочную пользу для мышления и заметнее улучшает общение и участие в жизни окружающих."
+  - "Игры Golden Moments предназначены для удовольствия и совместного времени. Они не являются лечением и не предотвращают деменцию и не замедляют её."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Игры для ума предотвращают болезнь Альцгеймера?"
+    a: "Нет. Ни одна игра для ума не доказала, что предотвращает болезнь Альцгеймера или другие виды деменции. Национальный институт старения США говорит, что доказательств того, что коммерческие приложения для тренировки ума дают такой же эффект, как в клинических испытаниях, недостаточно. Игры всё же могут быть приятным способом провести время."
+  - q: "Что показало испытание ACTIVE о тренировке скорости и деменции?"
+    a: "Анализ 2026 года связал участников ACTIVE с данными Medicare за 20 лет. У тех, кто проходил тренировку скорости обработки информации и хотя бы одно повторное занятие, частота диагностированной деменции была ниже, чем в группе без тренировок. Тренировка скорости без повторных занятий, а также тренировка памяти или логики значимого эффекта не показали."
+  - q: "Пользуются ли головоломки и игры тем, у кого уже есть деменция?"
+    a: "Могут, если человеку это нравится. Групповая когнитивная стимуляция, которая включает словесные игры, головоломки, музыку и беседу, даёт небольшую краткосрочную пользу для мышления и более заметную пользу для общения и участия в жизни окружающих. Правильная цель — удовольствие, а не результат теста."
+  - q: "За что FTC оштрафовала Lumosity?"
+    a: "В 2016 году Федеральная торговая комиссия США обвинила Lumos Labs в том, что компания заявляла о своих играх, в том числе об отсрочке возрастного снижения и деменции, без научных доказательств. Компания согласилась заплатить 2 миллиона долларов и впредь иметь надёжные научные доказательства, прежде чем делать такие заявления."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Игр для ума сейчас очень много, и многие обещают сохранить ваш ум молодым. Если вы ухаживаете за человеком с деменцией или сами беспокоитесь о своей памяти, естественно задаться вопросом, могут ли такие игры помочь. Вот что исследования показывают на самом деле, включая обнадёживающее и то, что обнадёживает меньше.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Это общая информация, а не медицинская консультация. См. наш [медицинский дисклеймер](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Предотвращают ли игры для ума деменцию?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ни одна игра для ума не доказала, что предотвращает деменцию. Национальный институт старения США (NIA) советует с осторожностью относиться к заявлениям, что компьютерные и онлайн-игры улучшают память, и говорит, что доказательств того, что любое коммерческое приложение для тренировки ума даёт такой же эффект, как тренировки, испытанные в клинических исследованиях, недостаточно ([NIA о профилактике болезни Альцгеймера](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Это не значит, что игры бесполезны. Их ценность в удовольствии, общении и распорядке дня, а не в защите от деменции.
 
-## What is "near transfer", and why does it matter?
+## Что такое «перенос на близкие задачи» и почему это важно?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Когда вы тренируете какое-то задание, вы обычно становитесь в нём лучше. Исследователи называют это эффектом тренировки. Более трудный вопрос в том, переносится ли улучшение на другие вещи: на похожие задачи (перенос на близкие задачи) или на повседневную жизнь, например на запоминание встреч или управление деньгами (перенос на далёкие задачи).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Большой обзор 2016 года изучил исследования, которые компании по тренировке ума приводили как свои лучшие доказательства. Он показал, что есть много данных об улучшении в тренированных заданиях, меньше данных об улучшении в близких заданиях и очень мало данных о том, что тренировка улучшает мышление в повседневной жизни. Во многих из этих исследований были также проблемы в дизайне, из-за которых нельзя было сделать твёрдых выводов ([Simons и коллеги, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Что говорят обзоры о компьютерных тренировках ума?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Обзоры Кокрейна, которые собирают лучшие имеющиеся испытания, изучали компьютерные тренировки продолжительностью не менее 12 недель:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Здоровые взрослые старше 65 лет:** восемь испытаний с 1 183 участниками. Качество доказательств было низким или очень низким. Возможно, есть небольшая польза сразу после тренировки, но нет явных данных о том, что она сохраняется ([обзор Кокрейна, здоровые пожилые люди](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Люди с легкими когнитивными нарушениями:** восемь испытаний с 660 участниками. Ни в одном испытании не сообщалось, развилась ли у людей деменция, а доказательств было слишком мало для выводов ([обзор Кокрейна, легкие когнитивные нарушения](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Что показало испытание ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE — большое испытание в США, которое началось в 1998 году с участием 2 802 взрослых старше 65 лет, живших самостоятельно и не имевших заметных проблем с памятью или мышлением. Участников случайным образом распределяли в одну из трёх небольших групповых тренировок (скорость обработки информации, память или логика) или в группу без контакта. Тренировки включали до десяти занятий в течение пяти-шести недель. Некоторым людям, которые посетили большую часть занятий, также случайным образом предлагали **повторные занятия** примерно через год и через три года.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Тренировка скорости состояла в том, чтобы распознавать и обрабатывать зрительную информацию за всё более короткие промежутки времени, и уровень сложности менялся по мере улучшения результатов.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+В 2026 году исследователи связали 2 021 участника с их записями Medicare за 20 лет ([анализ ACTIVE за 20 лет](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Вот что именно они обнаружили:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Тренировка скорости плюс хотя бы одно повторное занятие:** более низкая частота диагностированной деменции, чем в группе без контакта (коэффициент риска 0,75, что примерно означает на 25% меньшую частоту).
+- **Тренировка скорости без повторных занятий:** более низкой частоты не было.
+- **Тренировка памяти или логики:** значимого эффекта на диагнозы деменции не было.
+- **Каждая тренировочная группа в целом по сравнению с группой без контакта:** тенденция к более низкой частоте, но статистически незначимая.
 
-### The limits of this finding
+### Ограничения этого результата
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Он относится к **одному конкретному виду контролируемой тренировки скорости с повторными занятиями**, а не к играм для ума в целом.
+- Значимый результат получен в **подгруппе** (люди, которые посетили большую часть первых занятий и которым предложили повторные занятия), а не во всей группе тренировки скорости.
+- Деменцию измеряли по **диагностическим кодам в страховых запросах Medicare**, а не обследуя каждого человека. Около четверти первоначальных участников исключили, потому что они были записаны в Medicare Advantage, где нет полных данных о запросах.
+- Когда участники начинали, у них не было заметных проблем с мышлением. Результаты ничего не говорят об играх для **людей, которые уже живут с деменцией**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Это интересный результат, который заслуживает дальнейших исследований. Но это не доказательство того, что какое-либо приложение предотвращает деменцию.
 
-## What did the FTC say about Lumosity?
+## Что сказала FTC о Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+В январе 2016 года Lumos Labs, создатель Lumosity, согласилась заплатить 2 миллиона долларов, чтобы урегулировать обвинения Федеральной торговой комиссии (FTC) в вводящей в заблуждение рекламе. FTC заявила, что компания без достаточных научных доказательств утверждала, будто её игры могут улучшить работу и учёбу, а также отсрочить возрастное снижение, легкие когнитивные нарушения, деменцию и болезнь Альцгеймера. Решение обязывает компанию иметь научно обоснованные и надёжные доказательства, прежде чем делать такие заявления в будущем ([пресс-релиз FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Урок для семей: относитесь скептически к любой игре, приложению или программе, которые обещают защитить память или предотвратить деменцию.
 
-## Can games help someone who already has dementia?
+## Могут ли игры помочь тому, у кого уже есть деменция?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Они могут сделать хороший день лучше, и это очень важно. Лучше всего изучен подход **когнитивной стимуляции**: приятные групповые занятия, такие как беседа, воспоминания, словесные игры, головоломки и музыка, обычно в небольшой группе под руководством ведущего.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Обзор Кокрейна 2023 года, в котором участвовали 37 испытаний с 2 766 людьми с деменцией лёгкой и средней степени, показал ([обзор Кокрейна о когнитивной стимуляции](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **небольшую краткосрочную пользу** в тестах на мышление (доказательства среднего качества);
+- **клинически значимое улучшение общения и участия в жизни окружающих** (доказательства высокого качества, но из меньшего числа исследований);
+- **небольшую пользу** для качества жизни, настроения и поведения.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Эффект измеряли в основном сразу после программ длительностью около десяти недель, и лишь в немногих исследованиях проверяли, сохраняется ли он. Когнитивная стимуляция — это структурированная групповая программа, поэтому эти результаты не переносятся автоматически на человека, который играет один в игру на планшете.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+В Лансетской комиссии 2024 года также говорится, что программы занятий важны для людей с деменцией, чтобы сохранять удовольствие и ощущение смысла ([Лансетская комиссия](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Чем игры действительно полезны?
 
-When chosen well, games can offer:
+При правильном выборе игры могут дать:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Удовольствие.** Приятные полчаса ценны сами по себе.
+- **Связь.** Игра рядом даёт то, чем легко поделиться, когда разговор даётся трудно. См. [как играть вместе](/caregiving/how-to-play-together/).
+- **Распорядок.** Знакомое занятие в одно и то же время каждый день может принести покой.
+- **Уверенность.** Занятия, подходящие к тому, что человек ещё умеет делать хорошо, помогают ему чувствовать себя способным, а не проверяемым.
+- **Разговор.** Картинка или знакомая поговорка могут открыть историю. Попробуйте [карточки для разговора](/games/conversation-cards/) или [доскажи поговорку](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Чего лучше избегать: таймеров, очков, серий правильных ответов и всего, что похоже на проверку памяти. Если человек расстраивается, остановитесь. Раннее окончание или просто совместное сидение — хороший результат. В нашем руководстве [как выбирать приложения и игры](/caregiving/choosing-apps-and-games/) есть контрольный список.
 
-## Where Golden Moments fits
+## Место Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Игры Golden Moments, такие как [пары картинок](/games/picture-pairs/), [картинка-пазл](/games/picture-puzzle/) и [поиск слов крупным шрифтом](/games/word-search/), созданы для удовольствия и совместного времени. В них нет часов и очков. Они **не** являются лечением и **не** предотвращают и не замедляют деменцию. Мы предпочитаем сказать вам это прямо, чем обещать то, что ни одна игра не может дать.
 
-## Talk with a doctor
+## Поговорите с врачом
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Если вы беспокоитесь об изменениях памяти у себя или у близкого человека, обратитесь к врачу, а не полагайтесь только на приложение. Врач может найти причины, которые поддаются лечению, и обсудить шаги, опирающиеся на лучшие доказательства, например контроль артериального давления и проверку слуха. Подробнее см. [Можно ли предотвратить деменцию?](/brain-health/can-dementia-be-prevented/) При внезапном спутанном сознании или других резких изменениях срочно обратитесь за неотложной медицинской помощью.

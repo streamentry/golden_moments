@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Sɛ Obi a Dementia Wɔ No Mpene Adwuma Bi Anaa Ne Ho Yɛ Ye"
+seoTitle: "Sɛ Obi a Dementia Wɔ No Mpene Adwuma"
+description: "Nea ɛma obi a ne dementia wɔ no mpene anaa ne ho yɛ no ye, nea wobetumi asɔ hwɛ, nea ɛsɛ sɛ wosiesie, ne nea ɛsɛ sɛ wofa dokota ntɛm sɛ ne ho sesa vinn."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Sɛ obi a dementia wɔ no ka sɛ daabi a, gye di no ho ammɔ na san bɔ mmere
+  foforo anaa ma no adwuma foforo. Ɛtwa to sɛ ɔmpɛ no wɔ ne kwan: adwuma no
+  yɛ den anaa ɛyɛ no sɛ abofra, ɔdaa, ɔyaredɛ, ɔkɔm anaa nne ahyɛ no ahyɛ.
+  Mma wɔnhyɛ no mmɔden anaa mmɛma no ɔnnye. Yɛ adwuma ketewa, ma no nkyɛmu
+  abien anaa srɛ no ɔmmoa wo. Sɛ ne suban anaa ne ho sesa noɔ ntɛm, titiriw
+  bio wɔ yare anaa aduro foforo akyi a, fa ntɛm kɔ dokota nkyɛn.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "\"Daabi\" yɛ mmuae a ɛsɛ sɛ wugye tom, ɛnyɛ ɔhaw a ɛsɛ sɛ wosɔ."
+  - "Ɔmpene no wɔ kwan a ɛwɔ hɔ: adwuma no yɛ den, ɛyɛ no sɛ abofra, ɔhoho, ɔyaredɛ, ɔhaw anaa nneɛma dodo ahyɛ no ahyɛ."
+  - "Gyae, twɛn, na san bɔ bio anaa wɔ ɛberɛ foforo, anaa wɔ adwuma a ɛyɛ mmerɛw."
+  - "Sɛ wobisa wɔn mmoa no, ɛboa sen sɛ wobisa wɔn sɛ wɔnyɛ adwuma."
+  - "Mfa mmɔden, mmɔ mmɔden, mmisa anaa mmɔ ho nsɛm. Hwɛ wo ho sɛ wo ntɔ mmirika anaa wo di ho ntɛntɛn."
+  - "Sɛ suban anaa ne ho sesa noɔ ntɛm, titiriw wɔ yare anaa aduro foforo akyi a, kɔ dokota nkyɛn ara ara."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ɛyɛ yiye sɛ ɔnyɛ adwuma biara?"
+    a: "Ɛyɛ yiye da biara. Ɛbɛtumi ayɛ sɛ mo bɛtena ho, mo bɛtie nnwom anaa mo bɛhwɛ wiase. Sɛ obi no nni ne ani gye adwuma biara nnɛ ara bɛboro nnawɔtwe, ka no kyerɛ ne dokota, ɛfiri sɛ ɔdaa, ɔyaredɛ anaa yare foforo betumi ayɛ ɔkwan a ɛma."
+  - q: "Adɛn nti na ɔpene nneɛma a na ɔpɛ dedaw?"
+    a: "Adwuma a na obi di dwuma no betumi ayɛ den sɛ ɛhwehwɛ nnyinasoɔ a dementia ama ayɛ den, na ɔbɛtumi ayɛ obi ayɛ sõ. Sɔ adwuma no mu kakraa bi, te sɛ akyekyedeɛ nkaa sɛ ɛyɛ sɛ wode bɛtwe nsin anaa sɛ wɔhwɛ aseɛ mfonini sɛ wɔrepɛ sɛ wodua."
+  - q: "Mmfa mmɔ mmɔden sɛ mɛgyina no ho?"
+    a: "Nea. Sɛ wode obi rekɔ adwuma a dementia ama ayɛ den no, ɛma ne ho ayɛ sɛn. Gye di no ho ammɔ, sesa asɛm no, na san bisa bio anaa wɔ ɔkwan foforo."
+  - q: "Ɛberɛ bɛn na suban sesa yɛ ɔhaw ntɛm?"
+    a: "Frɛ 112 sɛ obi wɔ amanehunu anaa ɔwɔ nsɛnkyerɛnne a ɛfa yare ntɛm ho. Sɛ ɔyɛ nkoa ntɛm anaa suban sesa ntɛm wɔ nnɔnhwerew anaa nnansa mu, titiriw sɛ ɔwɔ ahoɔyaw, yare anaa aduro foforo, frɛ ne dokota ntɛm."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Wosiesie biribiara, wode adwuma anaa kɔnkɔnkɔn bi bɔ ho ma, na wotie "Daabi." Anaa adwuma no fi ase yiye, na ɛtwe ase wɔ tabletɔ a wɔde sɛe anaa asɛm a ɛyɛ mmerɛw. Ɛyɛ mmerɛw, na ɛbaa mmere pii. Daabi ne ɔhaw ayɛ no, ɛnyɛ sɛ ɔyɛ kɔkɔbɔ, ɛyɛ nkɔsoɔ a ɛkyerɛ biribi. Sɛ wohwehwɛ nea ɛkyerɛ no, ɛbɛboa wo ama wohu nea wobɛyɛ ɛda a ɛdi hɔ.
 
-## Why does someone with dementia refuse activities?
+## Adɛn nti na obi a dementia wɔ no mpene adwuma?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Ɛdeɛ, ɛwɔ kwan, mpo sɛ ɔntumi nkyerɛ no wɔ nsɛm mu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ka sɛ ɔmpene no betumi akyerɛ sɛ obi no ntumi nyɛ adwuma no anaa ɔsuro sɛ ɔbɛsɔ hwɛ. Nneɛma a ɛma saa ayɛ ne:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Ɛyɛ den.** Adwuma no hwehwɛ nyinasoɔ a dementia ama ayɛ den, na ɛyɛ animguase sɛ wɔbɛhwe ase wɔ ɔbarima anaa ɔbaa a ɔwɔ hɔ.
+- **Ɛyɛ sɛ abofra.** Mmarima ne mmaa hunu mfonini a ɛyɛ nwoma, nne a wɔde ɔkwan a ɛyɛ abofra di dwuma ne adwuma a ɛte sɛ wɔyɛ ma mmofra.
+- **Ɔhoho.** Nkurɔfo pii nni ahoɔden akyiri yi. Hwɛ [nnwinnade a ɛyɛ mmerɛw a wobɛyɛ anwummere](/caregiving/late-day-restlessness/).
+- **Ɔyaredɛ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) kyerɛkyerɛ sɛ ɔwɔ yaredɛ, nnɔnhwerew a ɛnyɛ, ahuhuo anaa ntease a ɛnyɛ yiye, ɛna nkɔm, nsu nnim, aduro foforo a ne nsɛnkyerɛnne ahyɛ ne ho ahyɛ sɛ nneɛma a ɛma ɔnnye ho.
+- **Nneɛma pii rekɔ so.** TV a ɛyɛ nnyɛ, nkɔmbo pii anaa ɔsɔre a ɛyɛ den betumi ahyɛ obi ahyɛ.
+- **Wɔmfa ɔkwan a wɔde bɛkɔ so.** NIA ka sɛ ɔhaw a ɛfiri sɛ wɔde ne ho bɛkɔ adwuma a Alzheimer ama ayɛ den, anaa sɛ wɔsɔ ahotoso ne nkurɔfo, betumi ama ɔmpɔ ne ho.
+- **Ɔdaa.** Nneɛma a wɔapɛ ho ahonyadeɛ betumi ayɛ dedaw, ɛyɛ yare a wɔbɛhwɛ mu.
+- **Wɔnpɛ sɛ wɔyɛ.** Nkurɔfo wɔ ahobammɔ sɛ wɔka nea.
 
-## What should I try when they say no?
+## Dɛn na mɛyɛ sɛ wɔka daabi a?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Gye daabi no ho ammɔ, na afei sesa biribi: bere, adwuma no, ɔhaw no anaa kwan a wobisa no so.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Gyae ama ɛnnɔ.** "Ɛyɛ, ebia ɛbɛyɛ anadwo." Afei kɔ adwuma foforo so a ɛnna mmɔnsɛm.
+2. **San sɔ hwɛ bio akyiri yi.** Alzheimer's Association kyerɛ sɛ san sɔ hwɛ bio anaa ɛberɛ foforo wɔ da mu.
+3. **Ma ɛyɛ ketewa.** Kɔ ewiem mpaemu koraa, mmom sɛ ɛbɛyɛ kɛse. Mmoa baako ansa na ɛyɛ ɔkwan kɛse wɔ ɔkwan ntoma. Mfonini ketewa, mpaaba ketewa, na mfonini no ka ho wɔ hɔ.
+4. **Ma nkɔsoɔ abien.** "Wopɛ sɛ yɛhwɛ nnoawa mfonini anaa yɛtie nnwom?" Ɔpɛ ma obi nya ahoɔden a ɛma ɔnsɛe ne ho.
+5. **Bisa mmoa, mmfa mmɔ adwuma.** "Wobetumi aboa me sɛ yɛhyehyɛ eyi?" anaa "Wobɛka sɛ ɛnam ɔkwan bɛn so yɛ fɛ?" Sɛ wohia obi no, ɛyɛ yiye sen sɛ wɔsɔ ne hwɛ.
+6. **Fi ase wo ho.** Fi ase adwuma no akyɛn wɔn, mma wɔnnyɛ bisa. Nkurɔfo pii bɛka ho bere a biribi reyɛ dedaw, na sɛ wɔnnka ho a, wo ne wɔn ayɛ bere pii.
+7. **Sesa kɔ adwuma a ɛyɛ nnɔbae anaa ɛma ɔdwo.** Ntam tiatia, nnwom, aduaba, ɛyɛ nkwadaa, anaa [ahome ɔkwan a wɔde ahome bɛka ho](/games/calm-breathing/). NIA kyerɛ sɛ wɔbɛkyerɛ nnwom, nwoma anaa ntam tiatia.
+8. **Ma no kwan a ɔpɛ.** Sɛ ɔpɛ sɛ ɔbɛyɛ adwuma no ɔkwan foforo a ɛnyɛ mmara no, momma no. Alzheimer's Association kyerɛ sɛ ɛsɛ sɛ wodi nkɔso.
 
-## What should I say when they get frustrated?
+## Dɛn na mɛka sɛ ɔhoho anaa ɔyɛ animguase?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Yɛ ntɛntɛn, kyerɛ nne kakra, na ma no ahotoso. [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) kyerɛ sɛ wɔ ɔkwan a wobɛtumi asɛe ne ho, bisa ne mpɛ, de nsɛm a ɛyɛ dodo ne ahotoso ka, na ma no nkyɛmu abien. Nsɛm a ɛyɛ saa ne:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Mepɛ kyɛw, adwuma yi ayɛ me fɛw kakra. Momma yɛngyae."
+- "Wo ne yɛ yiye. Me wɔ ha."
+- "Wobɛtumi aboa me biribi foforo?"
+- "Yɛnnom tii bio?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Afei gyae adwuma no, na nka sɛ ɛyɛ asɛm kɛse. Yɛn [nkyerɛkyerɛ a ɛfa kasa ho](/caregiving/communication-tips/) wɔ nsɛm pii a ɛfa nea wobɛka ho.
 
-## What should I avoid?
+## Dɛn na mɛgyina?
 
-Some natural reactions tend to make things worse.
+Nneɛma a yɛde ara ara yɛ pɛ sɛ ɛbɛyɛ basaa.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Mfa mmɔden anaa mmɔ mmɔden.** "Bɔ mmɔden no ara, ɛbɛyɛ yiye" anaa "Wopɛ eyi" ntena ho.
+- **Mmisa anaa mmɔ nsɛm a ɛyɛ nnɔbae.** "Wonim sɛ eyi ne dɛn" anaa "Dabi, ɔno nni hɔ" de ahohia ba.
+- **Mmfa ho nni ɔkwan a wobɛtumi asɛe ho.** NIA kae sɛ yadeɛ ne dementia na ɛma saa nsakrae yi ba, na ɛnyɛ obi ara.
+- **Ɔbɔ ho anaa ɔsɔ ho sɛ ɛbɛyɛ.** Alzheimer's Association kyerɛ sɛ wɔnkasa kɛse, nnye ahohia, nnɔ obi bi, nnkyekye no, nnkasa tia no, nnhwɛ obi bi ani anaa nnsɛe, ɛna nntwe ho nsɛm a ɛnyɛ mmerɛw wɔ ne nhwɛso mu.
+- **Dwene sɛ wobɛtumi aka sɛ ɔnyɛ.** "Sɛ yɛnyɛ eyi a, ɔbɛyɛ den ma mo" ma wo ne ɔno nni anigye.
+- **Mfrɛ sɛ "Ɔyɛ oburoni" anaa "Ɔyɛ dɛdɛ".** Saa nsɛm yi kyerɛ asɛm a ɛyɛ nokware, na ɛma ɛyɛ den sɛ yɛbɛyɛ.
 
-## How can I find out what is behind repeated refusals?
+## Dɛn na mɛyɛ sɛ mehu nea ɛma ɔpene bere bebree?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Kɔ so kyerɛw nkrasɛm kakra nnawɔtwe baako anaa mmienu. NIA ka sɛ nsakrae a wɔhwɛ so wɔ suban mu betumi aboa wɔn a wɔhwɛ obi ne wɔn a wɔyɛ yare mmoa ma wɔhu nhwɛso na wɔahu nea ɛma saa.
 
-Jot down:
+Kyerɛw:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- bere a ɛyɛ;
+- nea woboaa no ne ɔkwan a wode bisaa;
+- nea ɛreba wo ho (nne, nkurɔfo, TV);
+- sɛnea ɔdaa, ɔdidi ne ɔnom nsu, ne bere a ɔkɔɔ asɛnkyɛn no;
+- aduro foforo anaa yare a ɛdi nnansa yi.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Nhwɛso betumi aba ntɛm: daabi a ɛba anwummere 4 pm akyi nko, ɛba adwuma bi nko, anaa ɛba bere a TV reboɔ nko. Family Caregiver Alliance [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ka sɛ yɛntumi nsesa obi, nanso yɛntumi sesa yɛn ho ne ɛberɛ a yɛn ho wɔ hɔ.
 
-## When should I talk to a doctor about refusal or frustration?
+## Ɛberɛ bɛn na mɛka kyerɛ dokota sɛ ɔmpene anaa ɔhoho?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Ka kyerɛ dokota ɛberɛ a suban sesa ntɛm, ɛntumi nni ano, anaa ɛka yare bi ho. NIA ka sɛ suban sesa ntɛm anaa nsakrae a ɛtwe nnɔnhwerew anaa nnansa mu, titiriw sɛ obi no wɔ yare anaa aduro foforo akyi, ɛsɛ sɛ wɔkyerɛ dokota ntɛm ntɛm.
 
-Contact their doctor promptly if you notice:
+Frɛ ne dokota ntɛm sɛ wuhu:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- nkoa anaa suban sesa kɛse nnɔnhwerew anaa nnansa mu;
+- ahoɔyaw nsɛnkyerɛnne, te sɛ ɔyɛ nnɛnɛ anaa ɔkyekye ne ho ɔfa ne nipa bi, anaa ne nantew ayɛ den;
+- ɔhyew anaa yare foforo a ɛfa infection ho;
+- aduro foforo anaa nkyerɛ a wɔasesa, na suban sesa akyi;
+- ne ani gye nneɛma pii, ɛmu sɛ ɔresu anaa ɔkɔ ne ho bɛboro mmosea mmienu;
+- ɔpene aduane anaa nsuo.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association kyerɛ sɛ obi a ɔwɔ suban ahodoɔ no wɔ yare hwɛ pɛpɛɛpɛ, titiriw sɛ ɛba ntɛm. Family Caregiver Alliance nso kyerɛ sɛ wobisa dokota kan, efisɛ suban yi betumi ayɛ yare ho nsɛm. Mfa aduro biara nnhyɛ, nnyɛ, anaa nnsesa ne ho a, kɔ dokota anaa aduro tɔfo nkyɛn.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Sɛ obi wɔ amanehunu anaa nsɛnkyerɛnne a ɛfa yare ntɛm ho a, frɛ 112. NIA kyerɛ sɛ kyerɛ nea ɔfrɛ no sɛ obi no wɔ dementia.
 
-## Is it okay if we do nothing at all?
+## Ɛyɛ yiye sɛ yɛnyɛ hwee?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ɛyɛ yiye. Nnansa bi no, adwuma a ɛyɛ papa ne sɛ yɛnyɛ adwuma biara: yɛtena ho bom, yɛkyekye nsa, yɛtie nnwom a ɔpɛ, anaa yɛhwɛ nnoawa a ɛreforo wɔ dan no mu. Ɛnyɛ nkogu. Yɛn [guide to playing together](/caregiving/how-to-play-together/) kyerɛkyerɛ sɛ ɛdeɛ sɛ wogyae ntɛm, anaa sɛ worennyɛ ho ara, betumi ayɛ nea ɛfata.

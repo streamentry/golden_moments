@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Amuyasiñ lurañanaka: Amuyu qutunaka, jakawi ukat uta"
+seoTitle: "Amuyasiñ lurañanaka demenciatakix: jan yatiqañ ideanaka"
+description: "Kunjamsa jaqi demencia ukampi jakasiri jaqimpi amuyasiñ parlañaxa janiw yatiqañ kunamp kutiyañ, uñjata sarnaqañ, amuyu qutunaka ukat jakawi qillqatanaka."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Amuyasiñ pasado pacha uñjasa wali kusisitañawa, uñjatanaka, lurawinaka,
+  taki ukat parlañanakampi. Amuyu qutu luraña, jakawi qillqata uñjasa, nayra
+  uñjatanaka sapa sapaki uñjaña. Janiw yatiqañ arsuñamäkiti: "Amuktätati?" ukat
+  "Khitipa?" sasa arsuñamäkiti; "Akham uñjasmawa." sasa parlaña. Kuna
+  parlañatixa wali sumachi, janiw kunatix yatiqañamäki ukax.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Amuyasiñax parlañawa, janiw yatiqañ kunamp kutiyañ. Chiqapa ukax janiw wali sasaki; kusisiñawa wali."
+  - "'Amuktätati?' ukat 'Khitipa?' sasa arsuñ jiwasaru, uñjatanakaru parlañ arunaka luraña, sasaw 'Akhama uñjasmawa.'"
+  - "Jaqi jakawimpi lurat amuyu qutu, amparanakar ukat parlañar yanapaspawa."
+  - "Jakawi qillqata uñjasa, familianakaru, sarnaqirinakaru ukat yanapirinakaru jaqi kunjamsa jakasiski uñtañapataki yanapaspawa, janiw jisk'a uñtasa yatiqañapataki sapa."
+  - "Amuyu jan kusisiñani ukax, mayjt'ayañ, ukat khuyapayasiñ wali sumawa."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "¿Kunasa demencia ukampi jakasiri jaqinakatakix amuyasiñ?"
+    a: "Amuyasiñax nayra pachan lurat chiqanak amuyañ, uñjatanakamp, lurawinakamp, taki jan ukax wawanakamp yatiyañawa. Sapa sapaki jan ukax tantachasiñanakanx lurasispawa. Amtañ ukax wali kusisiñ parlañawa, janiw jaqi kunatix amuyasipkaspa uk uñjañawa."
+  - q: "¿Kunatsa 'Amuktätati?' sasa jan arsuñax wali?"
+    a: "Amuyu uñjañ arsuñax jaqi kunatix janiw amuykaspa ukax ch'amanchañ jan ukax llakisiñ utjaspa. National Institute on Aging ukan 'Amuktätati?' sasaw jan arsuñ jiwasaru yatiyi. Uñjatanakaru parlañ, jaqi pachpa kunatix yatiqañ ukax ch'amachañ."
+  - q: "¿Kunatsa amuyu qutuna ukan churañawa?"
+    a: "Jaqi jakawimpi lurat, wali sumaki, ch'amani lurawinaka ajllisiñawa: irnaqañ lurawinaka, pampachawinaka, wali munat tiyuna, tarjeta ukat uñjata cheqanakanaka. Q'ariki lurawinaka, jisk'a lurawinaka mankaña ukat wali sapa uñjatanaka jan ch'ampi jan ukax jikhiñanaka jan luqtasiña."
+  - q: "¿Kunatsa jaqix jan chiqapa arsuchispa ukax?"
+    a: "Mayjt'ayañ. Mama uñjata Rose tiyan uñjataparjamäkispa sasa, jupa ukax jan chiqapa jupa Rose tiya ukanakar mayjt'ayañax ch'ama kusisiñat ukaruw sarañapa. Jan chiqap uñjañax amuyu apaqaraw khiti ukanakax. Jupanakan arsutap sarnaqañawa, sapa kusisiñampi."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Amuyasiñ pasado pacha sapa sapaki uñjasiñawa. Demencia ukampi jakasiri jaqinakatakix, pasado mara lurawinakax jichhürux lurat lurawinakat sipansa amuyasiwayi. Uñjatanaka, lurawinaka, taki ukat parlañanakax pasado amuyunak jistxapiwayi, ukat sapa kusisiñ parlañ utjaraki. Taqi chuyma arunaka: uka parlañawa, janiw yatiqaña.
 
-## What is reminiscence, and how is it different from quizzing?
+## ¿Kunsa amuyasiñ, ukat kunsa yatiqañat uka sipansa?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Amuyasiñax uñjatanaka, lurawinaka, taki jan ukax wawanakampi amuyu uñjañawa, jaqi pachpa sarnaqañ pachapan. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ukax uñjatanaka, lurawinaka, wawanaka ukat taki ukampi nayra lurawinak parlañ sasaw qhana. Yatiqañax jupar kuna chiqa arsuñ sasaw mayjt'ayi, ukax llakisiñ utjaspa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ukax jaqir "Amuktätati?" jan ukax "Khitipa?" sasa arsuñ jan luqtañ sasaw yatiyi. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ukax jisk'a amuyu arunakampi jan parlañ, sipansa nayra pacha parlañ sasaw yatiyi.
 
-| Instead of | Try |
+| Kunatsa jan luqtañ | Kunatsa luqtañ |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Akhama uñjasmati?" | "Akax wali kusisiñ urürakiw uñjasi. Parlapxam." |
+| "Khitipa?" | "Akax Rose tiya playanxa. Uka pallu uñjapxam." |
+| "¿Kuna marapa akax?" | "Akax nayra uta ukax ukhamaraki. Kunsa uka utan jakasiñax?" |
+| "Janiw ukax Bill, Frank ukawa." | "Wali kusisiñ jaqi ukhamaraki uñjasi." |
+| "Nayax nayra parlasmawa." | "Uka arunakax wali kusisiñawa." |
 
-## How do you talk about photos without quizzing?
+## ¿Kunsa uñjatanakampi parlañ, janiw yatiqañ?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Kuntï uñjasma ukampi qalltam, ukatsti jaqi nayra parlañataki chiqa sarayañ.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Chiqa chiqa sarañ.** Album ukar uñjasa, jaqi chiqapa uñjasa, janiw mesa qhipana yatiqañ.
+2. **Pä jan ukax kimsa uñjata ajllisiñ.** Phisqa wali uñjatanakax tukuy sipansa wali. Ch'iqi jan ukax jisk'a lurat uñjatanakax wali.
+3. **Jaqinak nayax sutimp arsuña.** "Akax jumampi Tata sapa kasarasiña uru ukanwa." ukax llakisiñ apaqaraw.
+4. **Uñjata lurawinak parlaña.** Isinaka, auto, manq'a, jallu, uñjatanaka. "Kunjamsa auto, wali liq'isiwayi."
+5. **Mayt'añ, janiw mayjt'ayañ.** "Parlapxam..." jan ukax "Kuna uñjasi?" sasa. Isi jan parlañax sumawa.
+6. **Jupan sarnaqañap uñjaña.** Jupa mayjt'ayata parlaski ukhaxa, uka arsutap sarnaqañ.
+7. **Kusisiñ jikxatasiñkama sarañ.** Pachanakam sarañ jan jupa jank'akiñat sipansa, album ukax apthapiñ.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Yatiña uñjatanaka munasa, [uñjata arunaka](/games/conversation-cards/) uñjañ. Familiaman uñjatanakam [uñjata jukhanaka](/games/photo-pairs/) ukar luraña; ajllisiñ uñjatanakamax nayan nawit lakhapan pulyasiwayi.
 
-## How do you make a memory box?
+## ¿Kunsa amuyu qutu luraña?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Amuyu qutu ukax jaqi jakawimpi lurat lurawinakampi junt'u qutu, uñjañataki ukat parlañataki.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Chiqapa qutu ajlliña.** Yanapa ukat ubicar sayana, sapaki sapjama zapato qutu, sombrero qutu jan ukax jisk'a q'ara qutu.
+2. **Tema jan ukax tukuy ajllisiña.** Irnaqañ, lurawi, cheqa, pä phisqa mara jan ukax jisk'a ukanakampi.
+3. **Chiqa lurawinak ukat aski.** Phisqa jan ukax paqallq lurawinaka qalltañataki wali.
+4. **Wali jan q'ara uñjatanaka ukat qillqatanaka luraña.** Yatiña uñjatanakax jupanakan lakapan sapaki imantasiñ, ukax jaqi chiqapan jiwasa.
+5. **Sapa lurawi uñjasiña.** Sapaki lurawi ukat, parlañ ukat arsuña.
 
-Ideas to include:
+Amuyu qutu ukan lurawinak:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Irnaqañ:** sutina uñjata, jisk'a herramienta, uniforme ukan parchi, libro de cuentas, enfermera ukan pin, mesa cocina libro.
+- **Uta:** ch'uyt'ata qillqata, sapa qhipa, wali munat ch'uñu jan ukax corbata.
+- **Lurawi:** anzuelo jan gancho, pelota, lana quqa, semilla bolsa.
+- **Chiqa:** tarjeta ukanaka, mapa, turista lurawi, markan periódico recorte.
+- **Familia:** uñjatanakan kopia, wawan uñjata, casamiento invitación.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Jiwasax janiw jisk'a lurawinaka, jaqi jamp'ataki jan ukax jan sumaki lurawinaka qut'añ. Kunjamsa ukax khitichi jaqi munaski ukax janiw utjkaspa.
 
-## How do you make a life-story book?
+## ¿Kunsa jakawi qillqata luraña?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Jakawi qillqata ukax jaqi jakawimpi uñjatanaka, jisk'a arunakampi. Uka uñjañataki, parlañataki, ukat yanapirinakaru wali sumat uñtañataki.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Qillqa ajlliña.** Hojanakampi carpeta, imprimir uñjatanaka, jan ukax tablet ukan slideshow.
+2. **Pä jan ukax kimsa jaqichawi luraña.** Wawa pacha, yatiqaña uta, irnaqaña, familia, sarnaqañ chiqanaka, yatiqat lurawinaka.
+3. **Sapa hoja pä jan ukax paqallq uñjata, jisk'a arsutanaka.** "Mary, 22 mara, banco ukan irnaqañ qalltaski."
+4. **Munañanaka ukat sarnaqañanaka.** "Café leche ukax munaski. Domingo ukan himnos wali munaski. Ch'iqi TV janiw munkiti." Ukax yanapiri jaqinakar sumawa.
+5. **Jupa munañapan sarañ.** Uñjatanakax ajlliña, arsuña jan ukax uñjaña.
+6. **Ukham sapa jakawi qillqat ukax.** Tukuspa janiw mä, wali sumawa.
 
-## More reminiscence ideas
+## Yapuchañ amuyasiñ lurawinaka
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Nayra pacha taki uñjasiña** ukat parlañ. Uka taki [taki lurawinaka](/activities/music/).
+- **Kunapachatix nayra pacha uñjatanaka** jan ukax televisión uñjasiña.
+- **Wawanakan manq'a lurañ** ukat uka mistura parlañ.
+- **Mapa uñjasiña** markanaka uñtañ.
+- **Nayra katalogo jan ukax revista uñjasiña**, precio, lluch'u, auto ukanaka parlañ.
+- **Arsuñanaka uñjasiña** celular ukan, jupa munat ukat, familiaman.
+- **Llamadanakan uñjata uñjasiña.** Video llamada ukan mä uñjata uñjañ; [teléfono ukat video llamadanaka](/activities/phone-and-video-calls/).
+- **Uñjata jan ukax lurawi apañ visita ukan.** Ukax visita ukar sumaki chiqa; [visita](/activities/visiting/).
 
-## What if a memory is painful?
+## ¿Kunsa amuyu jan kusisiñ utjaspa ukax?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Mä amuyu llakisiñ, jan kusisiñ jan ukax axsarañ apaspa. Jaqi phiñasiñ qalltaspa ukhaxa, sayt'añ, khuyapayaña ukat mayjt'añ parlañ jan ukax lurañ. Kunsa pasa uk jan sipansa arsuñ. Family Caregiver Alliance ukax jaqir jan janchiy sasaw yatiyi, jupa chiqpach sientasiski ukar sarnaqañ sasaw yatiyi. Jupa jiwat jakasirinakar parlaspa, "Jumax jupar extrañani. Jumampi parlam jupa khitiskiti." sasa.
 
-## What does the research say?
+## ¿Kunsa yatiqañax yatiyi?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane review ukax amuyasiñ lurañ](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), 22 yatiqañanaka ukat 1,972 jaqinakampi, jan chiqpach sumachañ, jisk'a ukat lugar ukat luraña sasaw uñjaña. Demencia ukampi jakasiri jaqinakar jan sum sasaw jan yatiqaña. Nayax amuyasiñ lurañ yatiyi, ukax wali kusisiñ ukat parlañ apaqañ, janiw jan ukax chiqpach sumachañ sasa. Sapa sumachañ parlañataki, [parlañ yanapawi](/caregiving/communication-tips/) uñjañ.

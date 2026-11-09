@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Занятия при средней стадии деменции"
+seoTitle: "Занятия при средней стадии деменции: простые идеи"
+description: "Простые занятия при средней стадии деменции: полезные домашние дела, музыка, фото и легкие игры, с пошаговой подготовкой и способами занять беспокойство делом."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  На средней стадии деменции лучше всего подходят короткие, знакомые занятия,
+  разбитые на отдельные шаги: складывание белья, сортировка носков, мытье
+  посуды, пение, прогулки с ориентиром, фотоальбомы и простые игры с картинками.
+  Подготовьте всё, покажите первый шаг, возьмите на себя трудные части и дайте
+  занятию цель. Остановитесь, когда оно перестанет приносить удовольствие.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Знакомые домашние дела часто подходят лучше всего, потому что дают ощущение пользы и взрослости."
+  - "Лучше показывать, а не объяснять, предлагать один шаг за раз и давать два простых выбора вместо открытых вопросов."
+  - "Возьмите на себя самую трудную часть, чтобы человек мог сделать приятную часть сам."
+  - "Беспокойное поведение часто означает, что человеку нужно чем-то заняться. Предложите подходящее занятие вместо отказа."
+  - "Наблюдать, немного помогать или рано остановиться — всё это нормально."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Какие занятия подходят при средней стадии деменции?"
+    a: "Обычно лучше всего работают короткие, знакомые занятия с практическими действиями: складывание полотенец, подбор носков, мытье посуды, сервировка стола, пение любимых старых песен, прогулки с ориентиром, просмотр фотоальбомов и простые игры с картинками. Разбейте каждое занятие на отдельные шаги и делайте его вместе."
+  - q: "Как заставить человека с деменцией начать занятие?"
+    a: "Сначала всё подготовьте, потом сами начните занятие и предложите помочь: «Не могли бы вы помочь мне с этими полотенцами?» Многим людям хочется участвовать, но трудно начать. Показать первый шаг обычно действеннее, чем объяснять его."
+  - q: "Что делать, если человек повторяет одно и то же снова и снова?"
+    a: "Повторение часто безвредно и может означать, что человеку хочется чувствовать себя занятым или нужно успокоение. Вместо исправления предложите занятие, которое подходит к этому движению, например корзину полотенец для складывания или песню, которую можно спеть вместе."
+  - q: "Что делать, если он делает занятие неправильно?"
+    a: "Если это безвредно, пусть будет так. Полотенца, сложенные иначе, или ложки не на своём месте не имеют значения. Исправление может восприниматься как критика, а когда человек делает по-своему, он чувствует себя способным и нужным."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,81 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Средняя стадия деменции часто самая длинная, и именно на ней занятиям нужна реальная поддержка. Слова даются труднее, шаги путаются, и начать что-либо может быть тяжело. Но желание быть полезным и участвовать обычно остаётся. При небольшой подготовке человек на средней стадии может получать удовольствие от многого, особенно от знакомых дел, музыки и картинок, когда вы занимаетесь рядом.
 
-## What activities work well in middle-stage dementia?
+## Какие занятия хорошо подходят при средней стадии деменции?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Лучше всего работают короткие, знакомые занятия с практическими действиями, разбитые на отдельные шаги. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) говорит, что не нужно придумывать что-то новое: занятием может стать обычная жизнь, например совместное приготовление ужина, работа в саду, слушание музыки или прогулка.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) отмечает, что людям на этой стадии часто очень нужно чувствовать свою пользу или о ком-то заботиться, и им нужна помощь, чтобы начать занятие или продолжить его. В её списке для средней стадии: складывание белья, мытьё посуды, сортировка носков, простая зарядка, танцы под знакомую музыку, прогулки с ориентиром, совместное пение, простая живопись и просмотр фотоальбомов.
 
-## How do you set up an activity so it works?
+## Как подготовить занятие, чтобы оно получилось?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Большинство занятий удаются или не удаются уже на этапе подготовки. Эти привычки, взятые из [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) и [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), дают самый большой эффект:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Уберите лишнее.** Выключите телевизор, закройте дверь и выложите только то, что нужно для занятия.
+2. **Начните сами.** Начните складывать или мешать, и пригласите включиться: «Не могли бы вы мне помочь?»
+3. **Покажите и подождите.** Покажите один шаг. Укажите рукой или направьте, например покажите, куда ставится тарелка.
+4. **Давайте по одному шагу.** «Сложите пополам» проще, чем «сложите эти и сложите стопкой по цвету».
+5. **Предлагайте два выбора, а не открытые вопросы.** «Синие полотенца или белые?» отвечать легче, чем «Что вы хотите делать?»
+6. **Трудную часть делайте сами.** Вы отмеряете, а человек помешивает. Вы вдеваете нитку в иголку, а он наматывает пряжу.
+7. **Дайте занятию смысл.** «Эти салфетки нужны для воскресного обеда» делает дело настоящим.
+8. **Позвольте просто смотреть, если так удобнее.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) отмечает, что и простое наблюдение может приносить радость.
 
-## Activity ideas for the middle stage
+## Идеи занятий для средней стадии
 
-### Useful jobs
+### Полезные дела
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Сложить полотенца и салфетки.** Маленькие плоские вещи проще всего. Корзину тёплых салфеток можно складывать, разглаживать и складывать снова.
+- **Подобрать носки.** Начните с нескольких очень разных пар. Сортировка только по цвету тоже подходит.
+- **Помыть или вытереть посуду, которая не бьётся.** Тёплая мыльная вода приятна рукам. Вытирать сидя легче для ног.
+- **Накрыть на стол.** Передавайте по одному предмету за раз и сами поставьте один прибор для примера.
+- **Помочь с ужином.** Помыть картофель, порвать салат или помешать в миске. Ножи и плиту берёте на себя вы.
+- **Подмести, стереть пыль или протереть.** Тряпка для стола, лёгкая метла для веранды.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Больше идей есть в разделе [бытовые дела](/activities/household-tasks/).
 
-### Music and movement
+### Музыка и движение
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Пойте любимые старые песни.** Начните петь сами: многие присоединяются к песням, которые знают десятилетиями. См. [музыкальные занятия](/activities/music/).
+- **Танцуйте свободно.** Покачивайтесь, хлопайте или двигайтесь, как удобно. Можно и сидя.
+- **Перебрасывайте воздушный шарик.** Он летит медленно и его легко поймать из кресла.
+- **Прогуляйтесь по знакомому маршруту.** Пройдите короткий, знакомый круг вместе, при необходимости под руку.
 
-### Pictures and stories
+### Картинки и истории
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Посмотрите фотоальбом.** Комментируйте то, что видите, вместо вопросов: «Посмотрите на эту машину. Расскажите о ней». См. [занятия с воспоминаниями](/activities/reminiscence/).
+- **Используйте карточки для разговора.** [Карточки для разговора](/games/conversation-cards/) сочетают картинку с открытым вопросом без проверки знаний.
+- **Посмотрите вместе старый фильм.** Выберите знакомый, побудьте рядом и делайте паузы.
 
-### Simple, pressure-free games
+### Простые игры без давления
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Пары картинок с открытыми картинками.** В [парах картинок](/games/picture-pairs/) картинки остаются видимыми, поэтому суть в том, чтобы замечать, а не запоминать.
+- **Найди такой же.** В [игре «Найди такой же»](/games/find-the-same/) показывается одна картинка и всего два–четыре варианта.
+- **Разложи вместе.** В [игре «Разложи вместе»](/games/sort-together/) это похоже на сортировку белья на экране: нажмите картинку, затем её корзину.
+- **Лото с картинками.** [Лото с картинками](/games/picture-bingo/) хорошо подходит для семейных встреч и больших групп.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Если игра начинает раздражать, остановитесь и займитесь чем-то другим. См. [как играть вместе](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Как превратить беспокойство в занятие
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Беспокойное или повторяющееся поведение часто имеет причину. Family Caregiver Alliance отмечает, что человек, который снова и снова выгружает содержимое шкафа, может так пытаться удовлетворить потребность чувствовать себя занятым и полезным. Alzheimer's Association советует направить эту энергию в подходящее занятие, а не останавливать её.
 
-| What you see | Something to offer |
+| Что вы видите | Что предложить |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Трёт или скребёт стол | Влажную тряпку и просьбу протереть стол |
+| Беспокойные ноги или постукивание | Музыку с ясным ритмом, под который можно постукивать или хлопать |
+| Выкладывание ящиков или шкафов | Корзину одежды или салфеток для складывания и сортировки |
+| Задаёт один и тот же вопрос снова | Успокоение, затем песню или дело, которое можно сделать вместе |
+| Ходит из стороны в сторону | Совместную прогулку или дело, связанное с переноской вещей |
+| Тревога в конце дня | Спокойное знакомое дело при хорошем свете; см. [беспокойство в конце дня](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Когда остановиться или сменить занятие
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Остановитесь, если видите признаки усталости, раздражения, смущения или скуки: ёрзание, нахмуренный лоб, отодвигание вещей или слова «я не могу». Alzheimer's Association советует попробовать снова в другое время дня или упростить занятие. Не заставляйте. Отказ может быть вызван страхом или тем, что задача слишком трудна; см. [когда человек говорит «нет»](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Закончить рано — нормально. Нормально и просто посидеть вместе с чашкой чая. По мере дальнейших изменений в способностях идеи из [занятий на поздней стадии](/activities/late-stage/) могут подойти лучше, а в [101 занятии](/activities/ideas/) есть ещё много вариантов.
+
+---
+
+Примечание: этот перевод сделан без проверки носителем аварского языка. Перед публикацией его должен прочитать и поправить носитель, желательно знакомый с медицинской терминологией. Названия организаций, источников и ссылки оставлены без изменений.

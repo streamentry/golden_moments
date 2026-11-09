@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Рукъалъи ва мегӏер: одиночество, изоляция ва деменция"
+seoTitle: "Одиночество, изоляция ва деменциялда хатарал"
+description: "Щибаб одиночество ва социалияб изоляция деменциялда хатарал рукъалъи, Америкаялда Хирургиялъул генералалъул гӀаразул гӀемер ва сабаблъи рукъалъи ва къватӏиса шилаб гӀурмал гӀамал."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Исследования гӀемералда бугеб, гӀумрулъул ахирияб бакӏалда социалияб изоляция ва одиночество деменциялъул
+  хатар тӏаса бичӏчӏизе. 2024 гӀоданалъул Lancet комиссия гӀаразабилеб, изоляция шагӏир сабабалдаса
+  5%-ал къвезабилеб, амма гӏадин, бакӏ деменция бугеб инсан ахирияб хал къвезабилаб бохулъи гӏадин
+  гӀуцӏун. Гӏуц рукъалъи, гьарилаб къалабалда гӏамал ва кӏудияб дарсалъи шилаб рукъалъи гӏадин
+  дарсалъи бичӏчӏизе. Деменция бугеб инсанал гӏадин, гӏамал гӏурмалъи ва гӏумрулъул мегӏер
+  гӏадин гьарилаб гӏамал гӏадин.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet комиссия гӀумрулъул ахирияб бакӏалда социалияб изоляцияльул 14 мегӏерлъи хатар гӀаразабилеб, шагӏир 5% гӀадин."
+  - "АЦӀ-ялъул Хирургиялъул генералалъул 2023 гӀоданалъул гӀарасалъи гӀаразабилеб, хроникиял одиночество ва изоляция гӀумрулъул ахирияб бакӏалда деменция 50%-ал гӀемер хатар гӀадин."
+  - "Гьаб далил гӀемералда наблюдениялъул бугеб, ва ахирияб деменция инсанал гӀуцӏун гьарабаз рукъалъи бичӏчӏизе."
+  - "Кӏарал ва хъвасалъул гӀемералъи, гӀумру сабаб къакъабараб ва сорабилеб шалалъи изоляция хатар гӀадин."
+  - "Деменция бугеб инсанал гӀадин, мегӏер гӀамал гӀурмал шилаб гӀумрулъул мегӏер гӀадин; гӏадин мурад рукъалъи ву, гӏамалъул ахирияб ван кӏанцӏи."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Одиночество деменция гӀадин бичӏчӏизе?"
+    a: "Гьаб рукъалъи бичӏчӏизе гӏадин. Гӏемер исследованиялда одиночество ва изоляция деменциялъул хатар гӀадин бугеб, амма ахирияб мозгӀалъул гӀуцӏун инсанал гӀуцӏун. Рукъалъи мегӏер ва сагӀат гӏадин гӏамал гӏурмал, гӏаб гӏадин."
+  - q: "Одиночество ва социалияб изоляция гӏадин арзалъи гӀаразаб?"
+    a: "Социалияб изоляция гӏадин гьарилаб инсан рукъалъи гӏемер бичӏчӏизе кӏанцӏи. Одиночество гӀадин ахирияб инсан гӀуцӏун, хьарме гӀадин. Инсан гӀадин гӀемер гӏурмал ва гӏадин ахирияб, гӏадин одиночество гьарилаб кӏвал."
+  - q: "Деменция бугеб буго ва гӀадин рукъалъи гӀамал шилаб?"
+    a: "Гӏуцӏун рукъалъи, гьарилаб къалабалда рукъалъи ва сакӏ гӏамал гӏурмал. Гӏадин гӏемер телефон ва видео. Гӏамалалда гӏемер ва кӏудияб, инсан гӏадин гӏадин."
+  - q: "Изоляция гӏадин гӏумрулъул инсан гӏадин гьарилаб гӏурмал?"
+    a: "Eldercare Locator, гӏамал гӏурмал гӏадин, гьарилаб агентствал ва общиналъул программаял къватӏиса бичӏчӏизе. Телефон: 800-677-1116, сайт: eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Инсанал рукъалъи гӏадин гӏумру гьарабаз гӏадин гӏуцӏун. Гӏемералда исследованиял гӏумрулъул ахирияб бакӏалда одиночество ва социалияб изоляция деменциялъул хатар гӏадин, гӏадин сердце ва депрессия. Исследованиял гӏаразабилеб, гьаб рукъалъи сабаб ва бичӏчӏизе гӏадин. Гьаб гӏурмал рукъалъи далил, гӏуцӏун рукъалъи гӏамал ва деменция бугеб инсанал гӏадин гьарилаб гӏамал гӏурмал гӏадин.
 
-## Are loneliness and isolation linked with dementia?
+## Одиночество ва изоляция деменциялда хатарал гӏадин?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Гӏо, гӏемер исследованиял гьаб рукъалъи гӏаразабилеб, амма рукъалъи гӏурмал къватӏиса бичӏчӏизе гӏадин. [2024 Lancet комиссия](https://doi.org/10.1016/S0140-6736(24)01296-0) гӏаразабилеб, гӏумрулъул ахирияб бакӏалда социалияб изоляция 14 мегӏерлъи хатаралдаса бичӏчӏизе гӏадин. [UCL-ялъул гӀаразалъи](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) гӀаразабилеб, гьаб дуниялда деменциялъул шагӏир 5% гӀадин.
 
-What the evidence shows:
+Далил гӀаразабилеб:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Кӏудияб контакт, гӏемер хатар.** Комиссия гӀаразабилеб, кӏудияб социалияб контакт деменциялъул гӏемер хатар гӀадин. Гӏемер исследованиял гӀаразабилеб, гӀадин 57% ва 18%.
+- **Одиночество гӏадин.** Одиночество, гӏуцӏун ва къватӏиса шилаб гьарилаб, гӏемер гӏадин деменциялъул хатар гӀадин.
+- **Хирургиялъул генералалъул гӀаразалъи.** 2023 гӀоданалъул майда АЦӀ-ялъул Хирургиялъул генерал [одиночество ва изоляция гӀаразалъи](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) гӀаразабилеб. Гьаб гӏаразалъи гӀаразабилеб, хроникиял одиночество ва изоляция ахирияб инсанал деменциялъул хатар шагӏир 50%-ал гӀемер гӀадин. Гьаб гӀаразалъи гӀаразабилеб, сердцеялъул хатар 29%, инсультал 32% гӀемер.
+- **Гӏемер гӏадин.** [Национальный академиялъул гӀаразалъи](https://www.ncbi.nlm.nih.gov/books/NBK557972/) гӀаразабилеб, АЦӀ-ялда 65 гӀоданалда гӏемер инсанал шагӏир 24% социалияб изоляцияда бугеб.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Гьаб гӏадин мурад: Lancet комиссия гӀаразабилеб, деменция бугеб инсанал ахирияб, гӏуцӏун бохулъи, социалияб гӀамалалда гӏемер гӏурмал гӏадин. Гьаб гӏадин, гӏуцӏун хатар деменция ахирияб гӏадин, гӏуцӏун инсанал гӀуцӏун. Гьаб далил гӏемералда наблюдениялъул бугеб.
 
-## What is the difference between loneliness and isolation?
+## Одиночество ва изоляция гӏадин арзалъи гӀаразаб?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Национальный институт старения (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) гьаб гӏаразабилеб. **Социалияб изоляция** гӏадин кӏудияб социалияб контакт ва инсанал, гӏуцӏун рукъалъи. **Одиночество** гӏадин гӏуцӏун, гьарилаб инсан гӏадин гӏуцӏун. Инсан гӏадин гӏуцӏун кӏвал, гӏадин гӏуцӏун гьарилаб къалабалда.
 
-The NIA lists factors that raise the risk of both:
+NIA гӏаразабилеб, гьаб хатаралдаса:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Кӏарал ва хъвасалъул гӏемералъи
+- Гӏуцӏун ахирияб гӏадин, ва транспорт кӏанцӏи
+- Гӏуцӏун кӏвалда, ва гӏемер гӏурмал (ханум ё хьарме гӏадин, ва пенсиялъул гӏурмал)
+- Мегӏер ва мозгӀалъул гӏурмал
+- Гӏуцӏун инсан гӏадин, гӏуцӏун гӏурмал
+- Гӏурмал гӏуцӏун ва гӏуцӏун мацӀал
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Хъвасалъул гӏемералъи гӏадин гӏуцӏун. NIA гӏаразабилеб, хъвасалъул гӏемералъи инсанал гӏуцӏун, гӏуцӏун рукъалъи гӏадин. Наш [гӏуцӏун хъвасалъул ва мозгӀалъул гайд](/brain-health/hearing/) хъвасалъул проверка ва гӏуцӏун аппараталъи гӀаразабилеб.
 
-## Practical ways to stay connected
+## Гӏуцӏун рукъалъи гӏамал
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA гӏуцӏун гӏамал гӀаразабилеб. Гӏуцӏун бакӏалда одинаб ё кӏудияб:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Регулярияб контакт гьабизе.** Гьарилаб къалабалда ё гьарилаб нед кӏудияб бакӏалда, рукъалъи, гӏуцӏун, гӏаралдаса, ё открытка.
+- **Видео ё смарт-колонка гӏадин.** Технология гӏадин гьарилаб гӏуцӏун, библиотекаяв ва общиналъул центраял класс. См. наш [телефон ва видео гайд](/activities/phone-and-video-calls/).
+- **Гӏуцӏун гӏамалалда.** Класс, религиозияб община, гӏуцӏун гӏамал ё волонтерияб гӏамал контакт ва мурад гӀадин.
+- **Кӏудияб гӏамал гьабизе** ё инсанал гӏуцӏун гӏурмал гӏамал гьабизе.
+- **Инсанал гӏуцӏун гӏамал.** Гӏуцӏун гӏурмал ё группа гӏуцӏун. Наш [гӏамал гайд](/brain-health/exercise/) гӏамал гӏурмал гӏадин.
+- **Бичӏчӏизе гӏадин инсанал кӏанцӏи** гӏуцӏун, если можешь.
+- **Общиналъул гӏурмал гӏамал.** Старшие центраял, Area Agencies on Aging ва Eldercare Locator (800-677-1116) гӏамал ва транспорт гӏадин.
 
-## Why do shared activities matter in dementia?
+## Деменция гӏадин гӏуцӏун гӏамал мегӏер гӀадин?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Деменция бугеб инсан гӏадин, рукъалъи гӏуцӏун мурад ву, хатар гӏадин гӏуцӏун кӏанцӏи. Lancet комиссия гӀаразабилеб, гӏамал деменция бугеб инсанал мурад ва мегӏер гӀадин. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) гӀаразабилеб, гӏамал гӏурмал гӏадин, гӏуцӏун бохулъи ва беспокойство гӀадин. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) гӏаразабилеб, Альцгеймерялда бугеб инсанал гӏамал гӏурмал гӏадин.
 
-Ideas that work well:
+Гӏуцӏун гӏамал:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Гьаб гӏуцӏун сурат гӏадин.** [Conversation Cards](/games/conversation-cards/) гӏуцӏун, "Гьарабаз гӏадин гӏуцӏун..." кӏвалда рукъалъи. См. наш [гӏурмал гайд](/activities/reminiscence/).
+2. **Гӏуцӏун гӏамал гьабизе.** [Picture Pairs](/games/picture-pairs/) гӏуцӏун суратал гӏадин, таймер ва балл кӏанцӏи, гӏуцӏун рукъалъи кӏанцӏи. Наш [гӏуцӏун гайд](/caregiving/how-to-play-together/) гӏадин.
+3. **Гӏуцӏун фото гӏадин.** [Photo Pairs](/games/photo-pairs/) гӏуцӏун фотоял гӏадин гӏамал гьабизе. Фотоял гӏадин гӏуцӏун устройствоялда.
+4. **Инсанал гӏуцӏун гьабизе.** [Picture Bingo](/games/picture-bingo/) гӏадин гӏуцӏун гӏамал ва [care home группаял](/activities/care-home-groups/) гӏадин.
+5. **Музыка, гӏуцӏун ё бакӏ гӏадин.** См. [музыкальные гӏамалал](/activities/music/), [кӏвалалъул гӏамал](/activities/household-tasks/) ва наш [гӏамал спискуяв](/activities/ideas/).
+6. **Гӏуцӏун гӏурмал.** Наш [гайд гӏуцӏун гӏурмал](/activities/visiting/) гӏуцӏун, гьарилаб гӏадин кӏудияб ва рахат гӀуцӏун.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Гӏамал кӏудияб ва рахат гьабизе. Кӏудияб кӏвал, инсан ё кӏудияб инсанал гӏадин, кӏудияб группа гӏадин гӏуцӏун. Инсан гӏадин ё гӏамал кӏанцӏи гӏуцӏун, гӏуцӏун гӏадин гӏуцӏун. Чай гӏадин гӏуцӏун ва гӏуцӏун гӏадин, гӏадин гӏамал.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Деменция бугеб инсан кӏвалда гӏуцӏун, NIA гӏаразабилеб, гӏуцӏун ва гӏуцӏун инсан, гӏуцӏун гӏадин, гьаб гӏуцӏун гӏадин ва гӏуцӏун контакт. NIA гӏаразабилеб, memory cafe, деменция бугеб инсанал ва гӏуцӏун гӏадин гӏуцӏун гӏамал.
 
-## Caregivers get lonely too
+## Гӏуцӏун гӏадин одиночество
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA гӏаразабилеб, гӏуцӏун гӏадин гӏуцӏун изоляция хатар. Гӏуцӏун рукъалъи гӏадин, гӏуцӏун гӏамал ва рахат гьабизе. Наш [гӏуцӏун гайд](/caregiving/caregiver-self-care/) гӏадин гӏуцӏун гӏамал.
 
-## Talk with a doctor
+## Врачалъул гӏадин рукъалъи
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Если вы или ваш близкий часто чувствуете одиночество или изоляцию, скажите врачу. NIA гӏаразабилеб, гӏуцӏун гӏамал ва гӏуцӏун, гӏуцӏун гӏадин. Недели гӏадин подавленность может быть депрессией, которую можно лечить. Если пожилой человек перестал общаться с друзьями или заниматься любимыми делами, это тоже стоит рассказать врачу. См. [ранние признаки и когда идти к врачу](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Гьаб страница — общая информация, не медицинская консультация. См. наш [медицинский отказ](/medical-disclaimer/).

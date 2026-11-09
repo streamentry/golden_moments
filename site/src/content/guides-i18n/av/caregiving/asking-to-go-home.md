@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Когда человек с деменцией просит домой"
+seoTitle: "Просьбы домой при деменции: что сказать"
+description: "Почему человек с деменцией просит домой, даже находясь дома, что ему можно сказать, какие спокойные занятия попробовать и как не допустить, чтобы он ушёл."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Когда человек с деменцией снова и снова просит домой, слово «дом» часто значит
+  чувство безопасности или место из прошлого, а не здание. Не спорьте с ним и не
+  доказывайте, что он уже дома. Признайте чувство, скажите, что он в безопасности,
+  расспросите о доме, а потом мягко перейдите к фотографиям, музыке, перекусу,
+  прогулке или простому делу. Проверьте, не голоден ли он, не хочет ли пить, не
+  нужно ли в туалет и не болит ли что-нибудь. Если это началось внезапно,
+  позвоните врачу.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Я хочу домой» часто значит «мне неспокойно и я не чувствую себя в безопасности», а не просьбу назвать адрес."
+  - "Спор и доказательства, что он дома, обычно только усиливают тревогу. Лучше ответить на чувство."
+  - "Попросите рассказать о доме, а затем предложите фотографии, музыку, перекус, прогулку или простое дело."
+  - "Проверьте то, что можно исправить: голод, жажду, туалет, боль, жару или холод, шум, усталость."
+  - "Если это случается каждый вечер в одно и то же время, это может быть «закатная» тревожность; помогут постоянный распорядок и хороший свет."
+  - "Заранее подготовьтесь к тому, что он попытается уйти, и звоните врачу при любом внезапном изменении."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Почему моя мама с деменцией снова и снова просит домой, хотя она уже дома?"
+    a: "Деменция может делать знакомые комнаты чужими, и человеку иногда кажется, что он вернулся в более раннее время жизни. «Дом» может значить дом детства или просто чувство безопасности и покоя. Обычно лучше ответить на это чувство, чем указывать, где она находится."
+  - q: "Что сказать, когда он просит домой?"
+    a: "Попробуйте так: «Здесь вам безопасно, и я буду рядом», а потом: «Расскажите мне о своём доме». Послушайте, покажите фотографию или включите песню, предложите попить или немного пройтись. Не говорите «Вы уже дома» как поправку: это может прозвучать так, будто он ошибается."
+  - q: "Можно ли сказать, что мы поедем домой позже?"
+    a: "Семьи и организации, которые работают с деменцией, по-разному относятся к этому. Многие начинают с честного утешения и переключения внимания, а мягкую неправду используют только тогда, когда правда лишь вызвала бы страдание, с которым человек не может справиться. Что бы вы ни выбрали, будьте добры и последовательны и никогда не высмеивайте его восприятие действительности."
+  - q: "Что делать, если он пытается выйти из дома?"
+    a: "Оставайтесь спокойны и идите рядом с ним, а не загораживайте дорогу; короткая прогулка часто снимает желание уйти. Заранее примите меры безопасности: браслет с данными, звонок на двери и свежая фотография. Если он пропал, сразу начинайте поиски, а если не нашли его в течение 15 минут, звоните по номеру 112 и скажите, что у человека деменция."
+  - q: "Когда звонить врачу?"
+    a: "Позвоните его врачу без промедления, если просьбы или спутанность сознания начались внезапно или сильно усилились за часы или дни, особенно при температуре, новом лекарстве или признаках инфекции мочевыводящих путей. Внезапная спутанность может быть делирием, и тогда нужна срочная помощь. Если кто-то в опасности, звоните 112."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Я хочу домой». Для многих семей это одна из самых тяжёлых фраз, особенно когда человек, о котором вы заботитесь, сидит в собственной гостиной. Это случается часто, на любой стадии деменции, и на это можно спокойно и практично ответить. На этой странице объясняется, что обычно значат эти слова, что сказать, какие занятия могут помочь в эту минуту и как сохранить безопасность.
 
-## Why does someone with dementia keep asking to go home?
+## Почему человек с деменцией снова и снова просит домой?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Обычно «дом» — это скорее чувство, чем место. Alzheimer's Society описывает его как ощущение покоя и защищённости или как дом из прошлого, а не сам дом. Деменция может делать знакомые комнаты непривычными, и человеку может казаться, что он живёт в более раннем периоде жизни, когда домом был дом детства или место, где он растил детей.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Эти слова могут также говорить о том, что сейчас что-то не так: человек голоден, хочет пить, нужно в туалет, болит что-то, ему слишком жарко или холодно, он устал, одинок, напуган или подавлен шумом. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) называет среди причин беспокойства боль, шум, одиночество, изменения в распорядке и лекарства.
 
-## What should I say when they ask to go home?
+## Что сказать, когда он просит домой?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Отвечайте на чувство, а не на слова. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) советует не пытаться убедить человека, что он ошибается: его чувства настоящие, поэтому сначала ответьте утешением и заверением, а потом мягко переключите внимание.
 
-Phrases that often help:
+Фразы, которые часто помогают:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Назовите чувство.** «Похоже, вы скучаете по дому».
+- **Успокойте.** «Здесь вам безопасно, и я побуду с вами». [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) советует простые слова: «Здесь вам безопасно».
+- **Пригласите вспомнить.** «Расскажите мне о своём доме. Какая была у вас кухня?» Вопросы о далёком прошлом обычно приятнее, чем вопросы о сегодняшнем дне.
+- **Предложите что-то вместе.** «Давайте сначала выпьем чаю» или «Помогите мне сложить эти полотенца».
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Тёплый тон и рука на плече, если человеку нравится прикосновение, могут сказать больше слов.
 
-## What should I avoid?
+## Чего лучше избегать?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Спорить и объяснять.** «Вы теперь живёте здесь» или «Это ваш дом уже сорок лет» просит принять то, что деменция делает трудно принимаемым, и может прозвучать так, будто его поправляют.
+- **Расспрашивать.** «Вы что, не помните?» или «Какой у нас адрес?» только добавляют давления.
+- **Гневно загораживать дверь.** Если он направился к выходу, оставайтесь спокойны и идите рядом. Короткая прогулка вдвоём часто снимает желание уйти.
+- **Торопиться.** Дайте ему время поговорить о доме, прежде чем менять тему.
 
-## Activities that can help in the moment
+## Занятия, которые помогают в эту минуту
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Когда вы признали чувство, спокойное знакомое занятие может переключить внимание, не отвергая его.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Посмотрите фотографии дома и семьи.** Листайте альбом и делайте замечания («Смотрите, какой сад»), а не задавайте вопросы. На телефоне или планшете [Photo pairs](/games/photo-pairs/) превращает ваши семейные фотографии в мягкую игру на поиск пар, а фотографии остаются на вашем устройстве.
+2. **Поговорите о доме.** [Conversation cards](/games/conversation-cards/) предлагают открытые темы о домах, кухнях, соседях и праздниках, без правильных и неправильных ответов.
+3. **Включите любимую музыку.** National Institute on Aging называет успокаивающую музыку среди способов снизить беспокойство. См. наши [музыкальные занятия](/activities/music/).
+4. **Перекусите или выпейте.** Голод и жажда могут выглядеть как беспокойство. Чашка чая или любимое лакомство также напоминают обычный домашний ритуал.
+5. **Пройдитесь или посидите на воздухе.** Движение и дневной свет помогают, особенно в первой половине дня.
+6. **Дайте знакомое дело.** Складывание белья, раскладывание столовых приборов или полив растений могут вернуть ощущение, что человек ведёт хозяйство.
+7. **Замедлите всё.** Выключите телевизор, уменьшите шум и яркий свет и попробуйте вместе сделать паузу с [calm breathing](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Если одна идея не подошла, попробуйте другую позже. Тихо посидеть вместе — тоже хороший результат.
 
-## Check for a cause you can fix
+## Проверьте причину, которую можно устранить
 
-| Check | What to try |
+| Что проверить | Что попробовать |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Голод или жажда | Предложите напиток и небольшой перекус |
+| Нужно в туалет | Спокойно и без суеты предложите сходить в туалет |
+| Боль или дискомфорт | Ищите признаки: morщится, держится за часть тела, запор, и сообщите врачу |
+| Слишком жарко или холодно | Поправьте одежду или температуру в комнате |
+| Шум или толпа | Перейдите в более тихую комнату, выключите телевизор |
+| Усталость или перевозбуждение | Дайте отдохнуть, приглушите свет, включите тихую музыку |
+| Конец дня | См. раздел о вечернем беспокойстве ниже |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society советует вести короткий дневник: когда возникают просьбы, например перед едой, после гостей или в сумерках. Закономерности помогают заранее планировать день.
 
-## Is it okay to tell a white lie?
+## Можно ли сказать неправду во спасение?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Это спорный вопрос, и добрые семьи приходят к разным выводам. Alzheimer's Society говорит, что единого правильного ответа нет: неправда может вызвать у некоторых людей недоверие, поэтому решайте, что лучше для человека, и будьте последовательны. В Penn Memory Center, по мнению одного из руководителей, правда должна быть основой, а мягкая неправда допустима только тогда, когда человек не может осмыслить именно эту правду, и никогда нельзя высмеивать его картину мира.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Многие ухаживающие находят срединный путь: сначала честное утешение и переключение внимания («Мы останемся здесь на ночь, и я рядом с вами»), без спора о том, где его дом.
 
-## What if it happens every afternoon or evening?
+## Что делать, если это повторяется каждый день после обеда или вечером?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Беспокойство, которое начинается или усиливается ближе к вечеру, часто называют «закатной» тревожностью (sundowning). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) советует постоянный распорядок, ежедневный дневной свет и активность, меньше поздних дневных снов, а также без кофеина и алкоголя во второй половине дня. Включение света до сумерек тоже может помочь. Подробнее — в нашем руководстве о [спокойных занятиях во второй половине дня](/caregiving/late-day-restlessness/).
 
-## Keeping them safe if they try to leave
+## Как обеспечить безопасность, если он пытается уйти
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Просьбы вернуться домой могут привести к блужданию. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) оценивает, что шесть из десяти людей с деменцией хотя бы раз уйдут куда-то без цели.
 
-**Prepare ahead:**
+**Подготовьтесь заранее:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Браслет или медицинская метка с именем и вашим телефоном, а также метки в одежде. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) упоминает MedicAlert и программу Safe and Found от Alzheimer's Association, которая может быть платной.
+- Звонок или сигнализация на двери, а также замки, установленные высоко или низко. Никогда не запирайте человека одного.
+- Недавняя фотография крупным планом и список мест, куда он может пойти, например, прежний дом или работа.
+- Расскажите доверенным соседям и оставьте им свой номер.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Если он пропал:** начинайте поиски сразу; Alzheimer's Association отмечает, что многих находят в радиусе 2,4 км. Если не нашли его в течение 15 минут, звоните 112 и скажите, что у человека деменция. Звоните 112 немедленно, если кто-то в опасности.
 
-## When should I call a doctor?
+## Когда звонить врачу?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Позвоните его врачу без промедления, если просьбы или спутанность сознания начались внезапно или сильно усилились за часы или дни. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) говорит, что внезапное или быстро меняющееся поведение, особенно после инфекции или смены лекарства, нужно проверить сразу. Внезапная спутанность может быть делирием, при котором, по данным [NHS](https://www.nhs.uk/symptoms/confusion/), нужна срочная помощь; инфекции мочевыводящих путей — частая причина у пожилых людей.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+На следующем приёме также полезно рассказать о повторяющейся картине, поскольку боль, подавленное настроение, нарушения сна или побочные эффекты лекарств могут иметь к этому отношение.

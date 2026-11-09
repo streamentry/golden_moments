@@ -1,33 +1,32 @@
 ---
-title: "Actividatz de reminiscencia: caixas de memoria y fotos"
-seoTitle: "Reminiscencia en a demencia: ideyas sin fer examens"
-description: "Cómo compartir recuerdos con una persona con demencia sin fer preguntas: fotos, caixas de memoria y libros de vida con frases ta charrar con calma."
+title: "Reminiscencia: caixas de recuerdos, historias de vida y fotos"
+seoTitle: "Reminiscencia con demencia: ideas sin preguntas"
+description: "Cómo compartir recuerdos con una persona con demencia sin hacer preguntas: charrar de fotos, caixas de recuerdos y libros de vida, con frases que relajen."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A reminiscencia ye esfrutar chuntos d'o pasau a traviés de fotos, obchectos,
-  musica y historias. Fai una caixa de recuerdos, creya un libro de vida
-  sencillo u mira fotos chuntos de costau. Nunca no faigas preguntas d'examen:
-  evita «Te'n acordanzas?» y «Qui ye iste?» y fa servir invitacions ubiertas
-  como «Conta-me d'isto». Una conversación calida importa más que no acertar
-  os datos.
+  La reminiscencia significa disfrutar chuntos del pasado con fotos, oxetos, musica
+  y historias. Faga una caixa de recuerdos, un sinxelo libro de vida o mire fotos
+  uno al lado de l'atro. No faga preguntas-prueba: evite «¿Se acuerda?» y «¿Quién
+  ye ista?» y use invitacions abiertas como «Cuénteme sobre esto». Una charra cálida
+  importa más que acertar los datos.
 keyPoints:
-  - "A reminiscencia ye una conversación, no un examen. A exactitut no importa; o que importa ye esfrutar."
-  - "Cambea «Te'n acordanzas...?» y «Qui ye iste?» por comentarios y invitacions como «Conta-me d'iste día»."
-  - "Una caixa de recuerdos con obchectos d'a vida d'a persona aduya a tener bella cosa en as mans y tema de conversación."
-  - "Un libro de vida aduya a la familia, a las visitas y a o personal de cudiaus a conoixer a la persona, no nomás o diagnostico."
-  - "Si un recuerdo trai tristeza, consuela primero y dimpués cambia de tema con suavidat."
+  - "La reminiscencia ye una charra, no una prueba. Lo que importa ye disfrutar, no acertar."
+  - "Cambie «¿Se acuerda de...?» y «¿Quién ye ista?» por comentarios e invitacions como «Cuénteme de ixe día»."
+  - "Una caixa de recuerdos con oxetos de la vida de la persona da a las mans y a la charra alguna cosa a la que agarrar-se."
+  - "Un libro de vida ayuda a la familia, a las visitas y al personal de cuidados a conoxer a la persona, no solo ro diagnostico."
+  - "Si un recuerdo trai tristura, primero consuele y luego cambie de tema con cuidado."
 faq:
-  - q: "Qué ye a reminiscencia ta personas con demencia?"
-    a: "A reminiscencia consiste en compartir recuerdos y experiencias pasadas, a ormino con l'aduya de fotos, obchectos, musica u vidios. Se puet fer de traza individual u en grupo. L'obchectivo ye tener una conversación prestosa y con sentiu, no pas comprebar qué puet recordar a persona."
-  - q: "Por qué no s'habría de preguntar «Te'n acordanzas?»?"
-    a: "As preguntas que posan a preba a memoria pueden fer que a persona se sienta avergonyada u con ansiedat si a respuesta no le viene a o tozuelo. O National Institute on Aging incluye preguntar si se recuerda bella cosa u a belún entre as cosas que cal evitar. Comenta millor o que veyes y deixa que a persona adiba o que quiera."
-  - q: "Qué se puet meter en una caixa de recuerdos?"
-    a: "Triga obchectos seguros y resistents relacionaus con a vida d'a persona: ferramientas u cosas de treballo, elementos d'as suyas aficions, una bufanda preferida, postals, fichas de recetas, recuerdos d'esporte u copias de fotos. Evita obchectos tallants u punchagudos, cosas chicorronas que se puedan trancar y orichinals insustituibles."
-  - q: "Y si s'entivocan en os datos u detalles?"
-    a: "No pasa res. Si tu mai diz que en a foto i sale a suya chermana cuan en realidat ye a suya prima, ye bien igual. Correchir transforma un inte calido en un examen. Sigue a historia que ye contando y esfrutatz chuntos."
+  - q: "¿Qué ye la reminiscencia pa las personas con demencia?"
+    a: "La reminiscencia ye compartir recuerdos y experiencias pasadas, a menudo con ayuda de fotos, oxetos, musica o videos. Puede ser uno a uno o en grupo. L'obchectivo ye una charra agradable y con sentido, no comprobar lo que la persona recuerda."
+  - q: "¿Por qué no debo preguntar «¿Se acuerda?»"
+    a: "Las preguntas que ponen a prueba la memoria pueden fer sentir vergüenza o angustia a la persona cuando la respuesta no le viene. El National Institute on Aging incluye preguntar si alguien recuerda algo o a alguien entre las cosas que hai que evitar. Comente lo que ve, y deje que la persona añada lo que quiera."
+  - q: "¿Qué debo poner en una caixa de recuerdos?"
+    a: "Elija oxetos seguros y resistentes relacionados con la vida de la persona: cosas de trabajo, material de sus aficiones, una bufanda favorita, postales, fichas de recetas, recuerdos deportivos o copias de fotos. Evite oxetos punzantes, piezas pequeñas que se puedan tragar y originales irremplazables."
+  - q: "¿Y si confunden datos?"
+    a: "Déjelo estar. Si su madre dice que la foto ye de su hermana cuando ye de su prima, no pasa nada. Corregir convierte un momento cálido en una prueba. Siga el relato que cuenta y disfruten juntos."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -42,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-A reminiscencia significa simplament esfrutar chuntos d'o pasau. Ta muitas personas que viven con demencia, os recuerdos de fa decenios se mantienen más claros que no o que ha pasau este maitín. As fotos, os obchectos familiars, a musica y as historias pueden ubierto ixos recuerdos y dar-tos bella cosa calida ta compartir. A sola regla: ye una conversación, nunca no un examen.
+La reminiscencia significa simplement disfrutar chuntos del pasado. Pa muitas personas con demencia, los recuerdos de hace decenios se mantienen más claros que lo que pasó esta mañana. Las fotos, los oxetos familiars, la musica y las historias pueden abrir esos recuerdos y dar-le alguna cosa cálida pa compartir. La norma ye una sola: ye una charra, nunca una prueba.
 
-## Qué ye a reminiscencia y en qué se diferencia d'un examen?
+## ¿Qué ye la reminiscencia y en qué se diferencia de las preguntas-prueba?
 
-A reminiscencia ye compartir recuerdos a traviés de fotos, obchectos, musica u vidios, a o ritmo d'a persona. O [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) la descrive como compartir experiencias pasadas y historias con l'aduya de fotos, obchectos, vidios u musica, en un libro u en una tableta. Fer preguntas como en un examen ye diferent: le demana a la persona una respuesta correcta, y ixo puet trayer vergüenya en cuentas d'esfrute.
+La reminiscencia ye compartir recuerdos con fotos, oxetos, musica o video, a ritmo de la persona. El [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) la describe como compartir experiencias y historias pasadas con ayuda de fotos, oxetos, videos o musica, en un libro o en una tableta. Las preguntas-prueba son distintas: piden a la persona dar una respuesta correcta, y eso puede traer vergüenza en lugar de disfrute.
 
-O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) incluye preguntar a una persona si se'n alcuerda de bella cosa u de belún entre as conductas que cal evitar. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) consella evitar as preguntas que penden d'a memoria a curto plazo y charrar millor d'o pasau más lexano.
+El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) incluye preguntar a una persona si recuerda algo o a alguien entre las cosas que hai que evitar. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sugiere evitar preguntas que dependen de la memoria a corto plazo y hablar del pasado más lejano.
 
-| En cuentas de | Preba con |
+| En lugar de | Prebe |
 | --- | --- |
-| «Te'n acordanzas d'isto?» | «Iste pareixe un día feliz. Conta-me'n bella cosa.» |
-| «Qui ye iste?» | «Aquí ye a tía Rosa en a placha. Mira qué sombrero.» |
-| «De qué anyo yera isto?» | «Ista pareixe a casa viella. Cómo yera vivir allí?» |
-| «No, ixe no ye Bill, ye Frank.» | «Pareixe bien alegre.» |
-| «Ixo ya me lo has contau.» | «Me fa goyo ista historia.» |
+| «¿Se acuerda de ista?» | «Ista ye una chornada feliz. Cuénteme.» |
+| «¿Quién ye ista?» | «Ista ye la tía Rosa en a playa. Mire o sombrero.» |
+| «¿De qué año ye esta?» | «Ista semeya la casa vieja. ¿Cómo era vivir allí?» |
+| «No, ese no ye Bill, ye Frank.» | «Paez que lo pasaba muy bien.» |
+| «Ya me lo contaste.» | «Me encanta ista historia.» |
 
-## Cómo charrar de fotos sin fer un examen?
+## ¿Cómo se puede charrar de fotos sin hacer preguntas-prueba?
 
-Prencipia comentando o que veyes y dimpués deixa espacio ta que a persona adiba bella cosa si quiere.
+Empiece por lo que ve y deje espacio pa que la persona añada algo si quiere.
 
-1. **Sieda-te a o suyo costau.** Sosteneba l'album entre toz dos ta mirar-lo chuntos, sin estar cara a cara como si fuese una preba d'examen.
-2. **Triga pocas fotos.** Cinco buenas fotos son millor que no una caixa plena. As copias grans y nítidas funcionan millor.
-3. **Di tu os nombres d'as personas.** «Aquí yes tu con o pai o día d'a vuestra boda» saca tota la presión.
-4. **Comenta os detalles.** A ropa, os autos, a comida, o tiempo, as caras. «Menudo auto. Qué brilant yera.»
-5. **Convida, no esichas.** «Conta-me bella cosa sobre...» u «Qué te clama l'atención?». O silencio tamién ye bien.
-6. **Sigue o suyo filo.** Si charra d'una cosa completament diferent, sigue a conversación.
-7. **Para cuan encara sía prestoso.** Cleta l'album antes de que arribe o canso.
+1. **Siéntense uno al lado de l'atro.** Sujete l'album entre los dos pa mirar juntos, no pa examinar a una distancia de una mesa.
+2. **Elija unas pocas fotos.** Cinco buenas fotos son mejores que una caixa entera. Las copias grandes y claras funcionan mejor.
+3. **Diga usted los nombres.** «Mire, aquí estás tú y tu padre el día de tu boda.» Así se quita la presión.
+4. **Comente los detalles.** Ropa, coches, comida, tiempo, caras. «Qué coche tan bonito, paez nuevo.»
+5. **Invite, no exija.** «Cuénteme sobre...» o «¿Qué ye lo que ve?» El silencio está bien.
+6. **Siga lo que la persona propone.** Si habla de otra cosa totalmente, vaya con ella.
+7. **Pare mientras sea agradable.** Cierre l'album antes de que llegue el cansancio.
 
-Ta trobar temas de conversa con imáchens ya listas, preba as [tarchetas de conversación](/games/conversation-cards/). Ta convertir as tuyas propias fotos familiars en un chuego suau de parellas, preba as [parellas de fotos](/games/photo-pairs/); as fotos que trigues se quedan en o tuyo navegador.
+Pa tarxetas con dibujos ya listos, prebe [conversation cards](/games/conversation-cards/). Pa convertir las suyas fotos familiars en un juego de parexas sueve, prebe [photo pairs](/games/photo-pairs/); las fotos que elija se quedan en su navegador.
 
-## Cómo fer una caixa de recuerdos?
+## ¿Cómo se fa una caixa de recuerdos?
 
-Una caixa de recuerdos ye un recipient con obchectos d'a vida d'a persona ta tocar y charrar-ne.
+Una caixa de recuerdos ye un contenedor con oxetos de la vida de la persona pa tocar y charrar sobre ellos.
 
-1. **Triga una caixa resistent** que sía fácil d'ubrir, como una caixa de sabatas, una sombrerera u una arqueta de fusta.
-2. **Triga un tema u baralla-los.** O treballo, una afición, un puesto, una decada u una mica de tot.
-3. **Reune obchectos seguros.** Con cinco u diez elementos en bi ha prou ta prencipiar.
-4. **Fai servir copias d'as cosas valiosas.** Fai copias d'as fotos y documentos insustituibles y guarda bien os orichinals.
-5. **Saca os obchectos d'un en un.** Pasa-le-ne un, di bella cosa sobre ell y mira enta ón va la conversación.
+1. **Elija una caixa resistente** que sea fácil de abrir, como una caixa de zapatos, una caixa de sombreros o un cofre de madera pequeño.
+2. **Elija un tema o una mezcla.** Trabajo, una afición, un lugar, una década, o un poco de todo.
+3. **Reúna oxetos seguros.** Entre cinco y diez piezas bastan pa empezar.
+4. **Use copias de las cosas más preciadas.** Copie las fotos y documentos irremplazables y guarde los originales en lugar seguro.
+5. **Saque los oxetos de uno en uno.** Dé uno, diga algo sobre él y vea a dónde va la charra.
 
-Ideyas ta incluyir-ie:
+Ideas pa incluir:
 
-- **Treballo:** una placa con o nombre, una chicota ferramienta, un escudo u insignia d'un uniforme, un libro de contabilidat, un broche d'enfermera, un libro de recetas d'un bar u restaurant.
-- **Casa:** una ficha de receta escrita d'o suyo puño y letra, un trapo de cocina, una bufanda u corbata preferida.
-- **Aficions:** un cebo de pesca sin anzuelo, una pelota de beisbol u de tenis, un ovillo de lana, un paquet de simients.
-- **Puestos:** postals, mapas, un recuerdo turistico, un retallo de periodico d'o suyo lugar u ciudat.
-- **Familia:** copias de fotos, un dibuixo infantil, una invitación de boda.
+- **Trabajo:** una chapa con nombre, una herramienta pequeña, un parche de uniforme, un libro de cuentas, un pin de enfermera, un libro de cocina de un restaurante.
+- **Casa:** una ficha de receta escrita a mano, un trapo de cocina, una bufanda o corbata favorita.
+- **Aficiones:** un señuelo de pesca sin anzuelo, una pelota de béisbol, un ovillo de lana, un sobre de semillas.
+- **Lugares:** postales, mapas, un recuerdo turístico, un recorte del periódico de su pueblo.
+- **Familia:** copias de fotos, un dibujo de un niño, una invitación de boda.
 
-No i metas obchectos tallants u punchagudos, cosas chicorronas que se puedan trancar u tragar, ni brenca que pueda trayer recuerdos dolorosos, de no estar que sepas que le fa goyo veyer-lo.
+Deje fuera los oxetos punzantes, las cosas pequeñas que se puedan tragar y todo lo que pueda traer recuerdos dolorosos, a menos que sepa que es bien recibido.
 
-## Cómo fer un libro de vida?
+## ¿Cómo se fa un libro de vida?
 
-Un libro de vida ye un album sencillo de fotos con textos curtos sobre a vida d'a persona. Ye bella cosa ta mirar chuntos, y aduya a las visitas y a o personal de cudiaus a veyer a la persona en a suya totalidat.
+Un libro de vida ye un álbum sinxelo con fotos y pies cortos sobre la vida de la persona. Ye algo pa mirar juntos, y ayuda a las visitas y al personal de cuidados a ver a la persona completa.
 
-1. **Triga un formato.** Un archivador con fundas de plastico, un libro de fotos impreso u una presentación en una tableta.
-2. **Planifica bellas seccions.** A niñez, a escuela, o treballo, a familia, os puestos a on ha viviu, as suyas creyencias, as aficions, a comida preferida y a musica.
-3. **Mete una u dos fotos por pachina** con un texto curto en letra gran: «María, a os 22 anyos, prencipiando a treballar en o banco».
-4. **Incluye gustos y rutinas.** «Prene o café con leit. Le fan goyo os cantos de domingo. No le cuaca a televisión alta». Iste detalle aduya a cualsiquiera que en tienga cura.
-5. **Embreca a la persona** tanto como quiera, ya sía trigando fotos, contando historias u simplament veyendo cómo se fa.
-6. **Sigue adibindo cosas.** No cal que sía rematau ta que ya sía util.
+1. **Elija un formato.** Una carpeta con fundas de plástico, un libro de fotos impreso o una presentación en una tableta.
+2. **Planifique unas pocas secciones.** Infancia, escuela, trabajo, familia, lugares donde ha vivido, fe, aficiones, comidas y musica favoritas.
+3. **Añada una o dos fotos por página** con un pie corto y en letra grande: «Mary, con 22 años, empieza a trabajar en o banco.»
+4. **Incluya gustos y rutinas.** «Toma café con leche. Le encantan los himnos del domingo. No le gusta la televisión alta.» Esto ayuda a cualquiera que la cuide.
+5. **Involucre a la persona** tanto como quiera, eligiendo fotos, contando historias o simplemente mirando cómo se va formando.
+6. **Siga añadiendo.** No hace falta que esté acabado pa que sea útil.
 
-## Más ideyas de reminiscencia
+## Más ideas de reminiscencia
 
-- **Posa musica d'a suya choventut** y charratz de qué recuerdos le trai. Veye [actividatz musicals](/activities/music/).
-- **Miratz vidios casers u programas de televisión** d'as suyas decadas preferidas.
-- **Cocina un plato d'a suya niñez** y deixa que as olors guíen a conversación.
-- **Miratz un mapa** d'a suya ciudat u lugar natal y recorretz as carreras familiars.
-- **Fuelleatz catalogos u revistas viellas** y charratz de precios, modas y autos.
-- **Grava as suyas historias** con o mobil, con o suyo permiso, ta la familia.
-- **Comparte recuerdos en as trucadas.** Amuestra una foto entre una videotrucada; veye [trucadas y videotrucadas](/activities/phone-and-video-calls/).
-- **Lleva una foto u un obchecto cuan vaigas de visita.** D'ixa traza a visita tien un tema fácil; veye [visitas](/activities/visiting/).
+- **Ponga musica de su juventud** y hable de a dónde les lleva. Vea [actividades con musica](/activities/music/).
+- **Mire películas caseras o programas de televisión** de sus décadas favoritas.
+- **Cocine un plato de su infancia** y deje que los olores guíen la charra.
+- **Mire un mapa** de su pueblo y siga con el dedo las calles que conoce.
+- **Hojee catálogos o revistas antiguas** y hable de precios, modas y coches.
+- **Grabe sus historias** con un teléfono, con su permiso, pa la familia.
+- **Comparta durante las llamadas.** Enseñe una foto durante una videollamada; vea [llamadas telefónicas y por video](/activities/phone-and-video-calls/).
+- **Lleve una foto o un oxeto cuando visite.** Le da a la visita un punto de atención fácil; vea [visitas](/activities/visiting/).
 
-## Y si un recuerdo fa mal?
+## ¿Y si un recuerdo es doloroso?
 
-Bells recuerdos trayen tristura, pena u medrana. Si a persona se desasosiega u s'entristeix, para, consuela-la y cambia con suavidat de tema u d'actividat. No discutas sobre o que pasó. A Family Caregiver Alliance aconsella no prebar de convencer a una persona de que ye entivocada y suchiere responder a os sentimientos que amuestra, que son reals. Si charra de belún que ya ye muerto como si fuese vivo, responde a o sentimiento: «La trobas a faltar. Conta-me bella cosa d'ella».
+Algunos recuerdos traen dolor, arrepentimiento o miedo. Si la persona se altera, pare, consuele y cambie de tema o de actividad con suavidad. No discuta sobre lo que pasó. La Family Caregiver Alliance aconseja no intentar convencer a la persona de que está equivocada y responder a los sentimientos que muestra, que son reales. Si habla de alguien que ha muerto como si estuviera vivo, responda al sentimiento: «La echa de menos. Cuénteme sobre ella.»
 
-## Qué diz a investigación cientifica?
+## ¿Qué dice la investigación?
 
-Una [revisión de Cochrane sobre a reminiscencia](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), que abracó 22 ensayos y 1,972 personas, trobó que os efectos yeran inconsistents, chicotz y variavan seguntes o entorno y o formato. No trobó prebas de dengún perjuicio ta personas con demencia. Proposamos a reminiscencia porque puet propiciar un tiempo calido y con sentiu chuntos, no pas como un tractamiento. Ta leyer más sobre cómo charrar con calma, veye [consellos de comunicación](/caregiving/communication-tips/).
+Una [revisión Cochrane sobre reminiscencia](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), que cubre 22 ensayos y 1.972 personas, encontró que los efectos fueron inconsistentes, pequeños y que variaron según el entorno y el formato. No encontró evidencia de daño a las personas con demencia. Sugerimos la reminiscencia porque puede hacer que el tiempo juntos sea cálido y con sentido, no como tratamiento. Pa más sobre charra sinxela, vea [consejos de comunicación](/caregiving/communication-tips/).

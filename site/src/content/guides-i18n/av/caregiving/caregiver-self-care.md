@@ -1,36 +1,35 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Хъвасса хъубукъараб: гӏицӏ, къумаг ва бурукӏ гьарабол"
+seoTitle: "Деменциялъул кӏвенси: гӏицӏ ва къумаг"
+description: "Кӏвенсиялъ хъубукъараб бакӏ, гӏицӏ ва къумаг группаби гьарабол, АКШ-алъул бесплатныеб гӏицӏалъул телефонал номерби: Alzheimer's Association 24/7 Helpline ва Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Деменциялда бицӏунаб шуналъ кӏвенси гӏодорал ругӏун, ва хасалъул хъвасса ге
+  цӏунаб кӏиго тӏуб. Хьвасса бакӏ гӏодорал: бугъа, гьоркьоб нахъ мусулъ, цӏунилъ
+  рекъ ва дандатӏа къумаги. Хъубукъарал аслъиги кӏвенси гӏицӏ ва къумаг бикӏи,
+  ва группа бугъа. АКШ-алъул бесплатныеб гӏицӏ: Alzheimer's Association 24/7
+  Helpline 1-800-272-3900 ва Eldercare Locator 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Хъубукъараб бакӏ гӏодорал бугъа, гьоркьоб нахъ мусулъ, цӏунилъ рекъ, нахъ хьвасса ва ба ругӏатаб харжи цӏунилъ."
+  - "Respite care гӏицӏ бицӏунаб гьоркьоб: сагӏатаб сагъатал ва гӏаб мачӏулаб нахъ, хъубукъарал ва учреждения гьарабол."
+  - "Къумаг тӏубаб бакӏ гьарабол бичӏчӏаги; бихьараб кӏиго кӏвенси ги гьабизабуго, гӏодорал ругӏун гӏицӏ тӏаде."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) къумаги бесплатнаб, дагӏуди бакӏ, ги сагӏатаб гьасатӏ."
+  - "Eldercare Locator (1-800-677-1116) бесплатнаб гӏицӏ гьарабол, ва цӏунаб Area Agency on Aging гьарабол."
+  - "Хасалъухъе бугъи нахъ, 988 гӏицӏ тӏуб. Бихьараб гьарабол, 112 гӏицӏ тӏуб."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Кӏвенсиялъ хъубукъарал бакӏ шуналъ гӏодорал?"
+    a: "Гьарабол гӏодорал: хъубукъараб, гьоркьоб нахъ мусулъ, цӏунилъ рекъ, нахъ хьвасса, хасалъ ба ругӏатаб, мичӏ ва пикиралъул тӏаде, нахъ бакӏ, ва ги гьабизабуго, бакӏ ва рукӏанаб гӏицӏ тӏуб. Гьарабол гӏодорал гӏодорал ругӏаб, врачалда тӏаде."
+  - q: "Гӏицӏ кӏвенсиялъ гӏодорал гьарабол?"
+    a: "Eldercare Locator (1-800-677-1116 ё eldercare.acl.gov) гьарабол гӏицӏ тӏуб, мичӏ Area Agency on Aging, ARCH National Respite Locator Service ё Alzheimer's Association Helpline 1-800-272-3900. Хъубукъарал, рукӏанаб ва цӏунаб къумагаб гӏицӏ гьарабол."
+  - q: "Medicare кӏвенсиялъ гьарабол ги гӏодорал?"
+    a: "Хасалъ гьарабол, гьоркьоб гӏаб мачӏулаб дагӏуди, Medicare гӏодорал бицӏунаб гьоркьоб: беш сагъатаб дагӏуди кӏвенси учреждения. Хъубукъарал чугъуб гӏодорал гьарабол; Medicaid ва бакӏ гьарабол гӏодорал кӏвенси."
+  - q: "Alzheimer's Association Helpline бесплатнаб ва дагӏуди бакӏ гьарабол?"
+    a: "Гьарабол. Alzheimer's Association гӏодорал, 1-800-272-3900 гьарабол бесплатнаб, дагӏуди бакӏ ва ги сагӏатаб гьасатӏ, ги хьвасса, мичӏ гӏицӏ тӏуб. Гьарабол гӏодорал 711 гӏицӏ тӏуб."
+  - q: "Кӏвенсиялъ хъубукъарал гьарабол гӏодорал?"
+    a: "Гьарабол. Гӏицӏ хъубукъарал кӏвенси, ва respite гӏодорал цӏунаб гьоркьоб. Гьарабол кӏвенсиялда, гӏодорал гьарабол гӏодорал, гьарабол гӏицӏ тӏаде."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +66,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Деменциялда бицӏунаб нахъ кӏвенсиялъ гьарабол, гьоркьоб нахъ хьвасса ва ругӏатаб кӏиго бакӏ, гӏицӏ тӏаде. Гьарабол гӏодорал ругӏун. Кӏвенсиялъ хъубукъараб, цӏунаб харжи, гӏицӏ тӏаде.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Гьарабол гӏицӏ тӏуб: хъубукъарал бакӏ, гӏицӏ гьоркьоб, гӏодорал гӏицӏ тӏаде, гьарабол гӏицӏ тӏуб.
 
-## What are the signs of caregiver burnout?
+## Кӏвенсиялъ хъубукъарал бакӏ шуналъ гӏодорал?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Хъубукъараб гӏодорал бицӏунаб, гьарабол гӏицӏ тӏаде. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) гӏодорал гьарабол гӏицӏ тӏуб:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- хъубукъараб, мичӏ ва пикиралъул тӏаде;
+- хъвасса ва гьоркьоб нахъ мусулъ;
+- гӏицӏ ба гьоркьоб дандатӏа, ги цӏунаб;
+- нахъ хьвасса, ё гьарабол нахъ мусулъ;
+- хасалъ ба ругӏатаб, ё гьарабол хасалъ бакӏ;
+- гьоркьоб хасалъ, кӏвенси ба харжи;
+- ги гьабизабуго, гӏодорал рекъ ва гӏицӏ;
+- гӏодорал гьарабол, хьвасса бакӏ;
+- гьарабол гӏицӏ тӏуб, ё врачалда гьарабол гӏодорал.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) гӏодорал гьарабол: гьарабол хасалъ, нахъ гьоркьоб, гӏицӏ тӏуб. Гьарабол гӏодорал, врачалда тӏаде.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA гӏодорал: гьарабол гӏицӏ тӏаде, ги хъубукъарал гӏодорал гьарабол. Бакӏ бицӏунаб, гьоркьоб тӏаде.
 
-## What can I do today, in five minutes?
+## Сегодня, пять минутда, шуналъ бицӏа?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Гӏицӏ гьоркьоб тӏуб. Гьарабол бакӏ ругӏаб, ги гӏодорал кӏвенсиялъ гьарабол.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Гӏицӏ.** Кӏвенси, гьарабол гӏицӏ тӏуб.
+- **Нахъ гӏицӏ.** Гьарабол нахъ гӏодорал гьарабол. Гьарабол [Calm Breathing](/games/calm-breathing/) гӏицӏ тӏаде.
+- **Ва тӏуб.** Ги гьабизабуго, гӏицӏ тӏуб.
+- **Гьарабол гӏицӏ.** Гӏодорал, гьарабол гӏицӏ тӏуб.
+- **Гьоркьоб гӏицӏ.** NIA [гӏицӏ гьарабол](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) гӏодорал: «Гьарабол ги гӏицӏ», «Гьарабол гӏицӏ тӏуб» ва «Гьарабол гӏицӏ гьоркьоб».
 
-## What is respite care, and how do I get it?
+## Respite care шуналъ, гьарабол ги гӏодорал?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Respite care гьарабол гӏицӏ, гьарабол нахъ кӏвенси гьарабол. NIA [respite care гӏодорал](https://www.nia.nih.gov/health/caregiving/what-respite-care) гьарабол: сагъатаб сагъатал гӏицӏ гӏаб мачӏулаб нахъ, гьарабол учреждения, гьарабол гӏодорал.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) гӏодорал:
 
-| Type | What it is |
+| Тип | Гьарабол |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Хъубукъарал гӏицӏ | Къумаги, мичӏ, хъубукъарал ё рукӏанаб гьарабол гӏодорал |
+| Дагӏуди гьарабол | Гӏицӏ мусику, гӏодорал ва гьарабол гӏицӏ; ги ва гьарабол ги гӏодорал |
+| Дагӏуди ё гӏаб мачӏулаб нахъ | Гьарабол гӏодорал гьарабол, дагӏуди, гӏаб мачӏулаб нахъ ё гӏаб мачӏулаб дагӏуди |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Гьарабол ги гӏодорал?** NIA гӏодорал: къумагалда, мичӏ, хъубукъарал гӏицӏ гьарабол ги гӏодорал. Профессионалъ гьарабол сагъатаб ё дагӏудиб гӏодорал. Гьарабол хасалъ гӏодорал, Medicare гьарабол беш сагъатаб дагӏуди кӏвенси учреждения. Medicaid гӏодорал. Хъубукъарал чугъуб гӏодорал гьарабол; бакӏ кӏвенси гьарабол гӏодорал.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Гьарабол:** Alzheimer's Association гӏодорал гьарабол, гьарабол гӏицӏ тӏаде, гьарабол гӏодорал гьарабол.
 
-## Where can I find help near me?
+## Гьарабол гӏодорал гьарабол шуналъ?
 
-Several free US services can point you to local help.
+Гьарабол гӏицӏ АКШ-алъул бесплатныеб гӏицӏ гьарабол гӏодорал.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) бесплатнаб, дагӏуди бакӏ, ги сагӏатаб гьасатӏ. Гьарабол 200 гӏицӏ гьарабол мичӏ. Гьарабол 711 гӏицӏ тӏуб. Гьарабол гӏодорал: бакӏ, кӏвенси, respite, гьарабол ва гьарабол гӏицӏ. Гьарабол врачалъ гьарабол гӏицӏ тӏаде.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) гьарабол Administration for Community Living гӏицӏ. Гьарабол гӏодорал, гьарабол гӏицӏ, гьарабол гӏицӏ тӏуб. Гьарабол гӏодорал Area Agency on Aging.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) гьарабол гӏодорал гьарабол. Гьарабол гӏицӏ State Respite Coalition ё Lifespan Respite гьарабол. ARCH гӏодорал: гьарабол гьарабол тӏаде, гьоркьоб хъубукъарал.
 
-## How do I find a support group?
+## Группа шуналъ гӏодорал гьарабол?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Гьарабол гӏицӏ тӏуб, ё гьарабол гӏодорал. Alzheimer's Association [группаби гьарабол](https://www.alz.org/help-support/community/support-groups) кӏвенсиялъ ва деменциялда бицӏунаб нахъ, гьарабол ва гӏицӏ, гьарабол гӏодорал. Гьарабол гӏодорал гьарабол: гӏицӏ ва ругӏатаб гьарабол. Гьарабол ALZConnected, бесплатнаб гӏицӏ гьарабол.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Группа гьарабол: гьарабол гӏицӏ тӏуб, гьарабол гӏодорал, ги хъубукъарал гьарабол. Гьарабол гӏодорал, гьарабол гӏицӏ тӏаде.
 
-## How do I ask family and friends for help?
+## Хъубукъарал ва мичӏ гӏицӏ гьарабол шуналъ?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Гьарабол гӏодорал. Гьарабол гӏицӏ тӏуб. NIA гӏодорал:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Гьарабол гӏицӏ.** Гьарабол тӏаде, мичӏ гьарабол.
+- **Гӏицӏ.** Гьарабол гӏодорал, гьарабол гӏицӏ тӏуб.
+- **Гьарабол гӏицӏ.** Цӏунаб гьарабол, гьарабол гӏодорал.
+- **Текст ё электронная почта.** Гьарабол гӏицӏ, гьарабол гӏодорал.
+- **Гьарабол гӏицӏ.** «Гьарабол, гьарабол гӏицӏ тӏуб».
+- **Нахъ гӏодорал.** Гьарабол гӏицӏ гьарабол.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Гьарабол гӏодорал: гьарабол гӏицӏ, гьарабол гӏицӏ нахъ, ё [гьарабол гӏицӏ](/caregiving/how-to-play-together/).
 
-## What if something happened to me?
+## Ги гьабизабуго шуналъ гьарабол?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Гьарабол гӏицӏ тӏуб. NIA гӏодорал: гьарабол гӏицӏ, гьарабол гӏодорал, гьарабол гӏицӏ тӏуб. Alzheimer's Association гӏодорал: врачалда гьарабол, гьарабол ва гӏицӏ.
 
-## When should I get professional or urgent help?
+## Врачалда ё гьарабол гӏицӏ шуналъ?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Врачалда тӏаде, хъубукъарал гьарабол гӏодорал, ё гьарабол ругӏун. Врачалда гьарабол гӏицӏ. NIA гӏодорал: консультантал ва социальнаб работник гьарабол гӏицӏ, Medicare, Medicaid ва гьарабол гӏодорал ги гьарабол.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Хасалъ гьарабол гӏицӏ ё гьарабол гӏодорал, [988 Suicide & Crisis Lifeline](https://988lifeline.org/) гӏицӏ 988 гӏицӏ тӏуб. Гьарабол бесплатнаб, 24/7. Гьарабол хасалъ гьарабол гӏицӏ, 112 гӏицӏ тӏуб.
 
-## Can shared activities give me a break too?
+## Гьоркьоб гьарабол гӏицӏ ги кӏвенсиялъ?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Гьарабол гӏицӏ. Гьарабол гьоркьоб гӏицӏ, гьарабол гӏодорал: мусику гӏицӏ, сурат гӏицӏ, ё [Conversation Cards](/games/conversation-cards/) гӏицӏ. Гьарабол гӏицӏ гьарабол, [Picture Bingo](/games/picture-bingo/) группа гӏицӏ, гьарабол гӏодорал. Гьарабол гӏодорал [care home groups](/activities/care-home-groups/).

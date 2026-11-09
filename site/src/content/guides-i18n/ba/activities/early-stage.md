@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Беренсе баҫҡыстағы деменция өсөн эшмәкәрлектәр"
+seoTitle: "Беренсе баҫҡыстағы деменция: уңайлы эшмәкәрлек"
+description: "Беренсе баҫҡыстағы деменция өсөн эшмәкәрлек фекерҙәре: хобби, уйындар, сығыштар, бергә яҙыу һәм планлаштырыу, шулай уҡ кесе үҙгәрештәр, улар кешегә рәхәт булырға һәм үҙ эштәре хужаһы булып ҡалырға ярҙам итә ала."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Беренсе баҫҡыстағы деменцияла күп кешеләр шатлыҡ килтерә торған эштәрен дауам
+  итә ала: хобби, карта һәм таҡта уйындары, аш-һыу әҙерләү, баҡсаһында эшләү,
+  йөрөү, клубтар, дини йолалар һәм ихтыярлы эш. Төп үҙгәрештәр — кесерәк төркөмдәр,
+  ҡыҫҡараҡ сығыштар, ябай яҙма пландар һәм янәшәлә торған партнер. Кешенән нимә
+  кәрәк булыуын һорағыҙ һәм юлбашсылыҡты үҙенә тапшырығыҙ.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Беренсе баҫҡыстағы күп кеше ҡыйыу үҙе йәшәй. Эшмәкәрлекте, как правило, алмаштырырға түгел, төҙәтергә кәрәк."
+  - "Кешенән ниндәй ярҙам теләүен һорағыҙ һәм ярҙам кәрәк булғанда күрһәтер өсөн ябай ишара килешегеҙ."
+  - "Кесерәк төркөмдәр, тыныраҡ ваҡыт һәм ҡыҫҡараҡ сығыштар күп ваҡыт бик ҙур айырма тыуҙыра."
+  - "Был — кешенең үҙ тормошо тураһындағы проекттарҙы, мәҫәлән, көнкүреш дәфтәре йәки тормош тарихы китабын, үҙе алып барыуы өсөн ҡулай ваҡыт."
+  - "Уйындарҙы ләззәт өсөн һайлағыҙ. Һынау кеүек тоола башлаған нәмәне ташлағыҙ."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Беренсе баҫҡыстағы деменцияла ниндәй эшмәкәрлектәр яраҡлы?"
+    a: "Күпселек осраҡта кеше мөһәббәт менән шөғөлләнгән эштәр: карталар, таҡта уйындары, аш-һыу әҙерләү, баҡсала эшләү, йөрөү, музыка, дини эшмәкәрлек, клубтар һәм ихтыярлы эш. Уларҙы ҡыҫҡараҡ, тыныраҡ йәки ябайыраҡ итергә кәрәк булыуы ықтимал. Көндәлек яҙыу, хат яҙыу һәм тормош тарихы китабы ошо баҫҡысҡа яҡшы тура килә."
+  - q: "Ҡул башҡарып, йөкләмәҫкә нисек ярҙам итергә?"
+    a: "Кешенән ниндәй ярҙам теләүен һорағыҙ һәм еш тикшереп торығыҙ. Ә һүҙ йә исем иҫләмәй торғанда, ярҙам итергә мөмкин булыуын аңлатҡан фраза йә ымлыҡ килешегеҙ. Хәүеф булмаһа, үҙе теләгәнсә эшләтегеҙ, хатта ул оҙаҡ алһа ла."
+  - q: "Беренсе баҫҡыстағы деменциялы кеше яңы эшмәкәрлектәр менән шөғөлләнергә тейештеме?"
+    a: "Әгәр үҙе теләһә, эйе. Таныш хобби иң еңел булыуы ихтимал, ләкин күпләр яңылыҡ та ошата: мәҫәлән, деменцияға дуҫ йөрөү төркөмө, сәнғәт түҙәрәге йә йырлау төркөмө. Үҙенә баҫым яһамайынса бер тапҡыр һынап ҡарағыҙ һәм нисек тойолоуын күҙәтегеҙ."
+  - q: "Беренсе баҫҡыста аң өйрәтеү ҡушымталары файҙалымы?"
+    a: "Кайһы бер кешеләр яҡтылыҡ һәм һүҙ уйындарын ярата, һәм уларҙың рәхәте үҙе етерлек. Бер ҡушымта йә уйын да деменцияны дауалай, әкренәйтә йә туҡтата ала тигән дәлил юҡ. Уйын көйһөҙлөк тыуҙырһа йә кешеләге «мин ҡылдым» тигән тойғоһон көсәйтһә, уны ҡуйығыҙ."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Беренсе баҫҡыстағы деменцияла күп кеше элекке кеүек йәшәй. Улар эшләй ала, волонтёрлыҡ итә ала, дуҫтары менән осраша һәм көнөн күп нәмәне үҙе идара итеп үткәрә. Эшмәкәрлекте алмаштырырға кәрәк түгел, ә уны рәхәт итеп ҡалдырыу өсөн бер нисә үҙгәреш кенә кәрәк. Һеҙҙең роль ҡарауыусыға ҡарағанда күберәк партнерға оҡшаш булырға тейеш: ярҙам итеү, бергә планлаштырыу һәм ҡушылғанда ғына ҡатнашыу.
 
-## What activities are good in early-stage dementia?
+## Беренсе баҫҡыстағы деменцияла ниндәй эшмәкәрлектәр яҡшы?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Беренсе баҫҡыста иң яҡшы эшмәкәрлек — кешенең инде яратҡан эштәре, тик уңайыраҡ итеп әҙерләнгән. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ойоштороһо тәҡдим иткән фекерҙәр араһында карта һәм таҡта уйындары, һүҙ эҙләү, йөрөү, бейеү, баҡса эштәре, гөл йыйыу, хикәйә һөйләү, рәсем төшөрөү, музыка, көндәлек яҙыу, хат яҙыу, фотоальбом ясау, аш-һыу әҙерләү һәм байрам йолалары бар.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Йыш ҡына үҙгәрә торғаны эшмәкәрлек түгел, ә мөхит. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) билдәләүенсә, беренсе баҫҡыстағы кешеләр яратҡан эштәренән артҡа сигенә башлауы ихтимал; ул ҙур туйға ҡатнашҡанда арыу тойған, ә кесе төркөмдә яҡшыраҡ булған кешегә миҫал килтерә. Ҡайһы эштең ауыраҡ булыуы тураһында асыҡ һөйләшегеҙ һәм бергәләп көйләгеҙ.
 
-## Ask first, and agree on how to help
+## Һорағыҙ әүәл, һәм ярҙам итеүҙең ысулын килешегеҙ
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association-ның беренсе баҫҡыс буйынса кәңәштәре](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) эшмәкәрлеккә лә ҡағылған берničә ғәҙәт тәҡдим итә:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Туранан-тура һорағыҙ.** «Китап клубында нимә еңелерәк итер инде?» тигән һорау тәхмин итеүҙән яҡшыраҡ яуап бирә.
+- **Ул үҙе эшләй алыуын һанағыҙ.** Хәүеф булмаһа, кешегә үҙе һынап ҡарарға мөмкинлек бирегеҙ, һәм ҡулдан алмай, дәртләндерегеҙ.
+- **Ишара килешегеҙ.** Карта уйыны барышында исем иҫкә төшмәгәндә, «ярҙам итергә мөмкин» тигән фраза йә баш ҡағыу һайлағыҙ.
+- **Йыш тикшерегеҙ.** Ярҙам кәмерәк йә күберәк булыуын һорағыҙ.
 
-## Activity ideas for the early stage
+## Беренсе баҫҡыс өсөн эшмәкәрлек фекерҙәре
 
-### Keep up roles and hobbies
+### Роль һәм хобби менән дауам итегеҙ
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Даими бурыстарҙы һаҡлағыҙ.** Һәр аҙна волонтёрлыҡ сменаһы, хор йә клуб аҙнаға тәртип бирә. Күңелһеҙ башлаһа, ҡыҫҡараҡ йә тыныраҡ роль уңайыраҡ булыуы ихтимал.
+- **Аш менюһын бергә планлаштырығыҙ.** Аҙаҡ аҙыҡ-түлек алыу ауырлыҡ тыуҙырһа, Alzheimer's Association кешегә аҙна менюһын уйлап, исемлекте яҙырға тәҡдим итә.
+- **Пешерегеҙ һәм бешерегеҙ.** Яратҡан рецепт буйынса бергә эшләгеҙ. Башлар алдынан аҙыҡтарҙы тәртип менән теҙегеҙ, шулай итеп аҙымдар күренеп торһон.
+- **Баҡсала эшләгеҙ.** Бәйҙе планлаштырығыҙ, орлоҡ йә үҫемлек һайлағыҙ һәм эште бергә башҡарығыҙ. Аҙна эштәренең яҙылған исемлеге ярҙам итә.
+- **Ҡул эшен дауам итегеҙ.** Ағасташлыҡ, теккеләү, бәйләү йә модель яһау ябайыраҡ өлгөләр һәм яҡшы яҡтыртыу менән дауам итә ала.
 
-### Games for enjoyment
+### Ләззәт өсөн уйындар
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Карта һәм таҡта уйындары уйнағыҙ.** Таныш уйындар иң еңел. Командаға бүлеп уйнағыҙ, шулай итеп берәү ҙә үҙен ҡыйын хәлдә тоймаһын, һәм очколарҙы теге йә был дәрәжәлә иҫәпләгеҙ, йә мүләйем генә яҙығыҙ.
+- **Ҙур хәрефле һүҙ эҙләүен һынағыҙ.** Беҙҙең [һүҙ эҙләү](/games/word-search/) экранда уйнала йә тыныс мизгелдә баҫтырып алырға мөмкин.
+- **Мозаика йыйығыҙ.** Һеҙгә рәхәт тойолған детал һаны һайлағыҙ, ауыр булмаһын. [Сурәт табышмағы](/games/picture-puzzle/) — экрандағы ҡыҫҡа вариант, ә [деменцияла табышмаҡтар](/activities/puzzles/) тураһындағы ҡулланмабыҙ һайлауға ярҙам итә.
+- **Рәхәт өсөн викторина уйнағыҙ.** Кайһы кешеләр команда викториналарын бик ярата. Ул һынауға оҡшай башлаһа, икенсе нәмәне һайлағыҙ йә [еңел викторина һорауҙарын](/activities/trivia/) ҡарағыҙ: улар яуап вариантары менән килә һәм очко һанамай.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Монда уйындар ләззәт өсөн. Бер уйын да деменцияны дауалай йә әкренәйтә алмауы күрһәтелмәгән; күберәк [аң уйындары: фәндәр нимә әйтә](/brain-health/brain-games/) биттә уҡыығыҙ.
 
-### Write, reflect and record
+### Яҙығыҙ, уйланығыҙ, яҙып алығыҙ
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Көндәлек яҙығыҙ.** Alzheimer's Association көндәлек яҙыуҙы диагноздан һуң тойғоларҙы аңлау ысулы итеп тәҡдим итә. Көнөнә бер нисә юл етә.
+- **Тормош тарихы китабын үҙе алып барығыҙ.** Беренсе баҫҡыс — кешегә үҙе фотоларҙы һайлап, уларҙың артындағы хикәйәләрҙе яҙыр йә әйтеп яҙҙырыр өсөн яҡшы ваҡыт. Күберәк мәғлүмәт өсөн [иҫкә төшөрөү эшмәкәрлеге](/activities/reminiscence/) биттә.
+- **Хаттар яҙығыҙ.** Өлкән ейәнгә, иҫке дуҫҡа йә элекке коллегаға хат ике яҡ өсөн дә мәғәнәле булырға мөмкин.
+- **Фотолар тураһында һөйләшегеҙ.** [Фото парҙары](/games/photo-pairs/) ғаилә фотоларын йөрөтөлөү уйынына әйләндерә, ә [һөйләшеү карталары](/games/conversation-cards/) әңгәмә башлау өсөн еңел темалар бирә.
 
-### Go out and move
+### Сығығыҙ һәм хәрәкәт итегеҙ
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ике яҡ та рәхәт булған саҡта таныш сығыштарҙы дауам итергә тәҡдим итә. Уларҙы кешенең иң яҡшы ваҡытына планлаштырығыҙ һәм оҙаҡ һуҙмағыҙ.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Ҡыҫҡа мәҙәни сәйәхәттәр.** Музей, матине йә күргәҙмә, мөмкин булһа тыныраҡ ваҡытта.
+- **Йөҙөү.** NIA бассейнға бер аз ял ваҡытында барырға кәңәш итә.
+- **Йөрөү төркөмдәре һәм бейеү дәрестәре.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) бейеү, тай-чи, йога, йөҙөү һәм йөрөү төркөмдәрен, һәм булған урындарҙа деменцияға дуҫ ултырыштарҙы атай.
+- **Йыр төркөмдәре һәм «иҫтәлек кафеһы».** Деменциялы кешеләр һәм уларҙың партнерҙары шул хәлдәге башҡаларҙы осрата ала торған рәхәт төркөмдәр.
 
-## Small changes that keep activities enjoyable
+## Эшмәкәрлекте рәхәт итер өсөн кесе үҙгәрештәр
 
-| If this is getting harder | Try this |
+| Ауырлаша башлаһа | Был нәмәне һынағыҙ |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Бихисап һәм шау-шыулы урындар | Тыныс ваҡытта барығыҙ, кесерәк төркөмдәрҙе һайлағыҙ, бүлмәнең ситендә ултырығыҙ |
+| Яңы исемдәрҙе иҫләү | Һәр юлы исем менән таныштырығыҙ; төркөмдәрҙән исем бағжаһы кейергә һорағыҙ |
+| Күп аҙымлы планды үтәү | Аҙымдарҙы яҙығыҙ, йә бар нәмәне тәртип менән алдан теҙегеҙ |
+| Арыу | Ҡыҫҡараҡ сығыштар, һуңынан ял, ул көндә башҡа план ҡуймағыҙ |
+| Уйында иҫәп тотоу | Командаға бүлеп уйнағыҙ, ҡағиҙәләрҙе ябайлаштырығыҙ йә очко иҫәпләмәгеҙ |
+| Һүҙҙәр табыу | Вакыт бирегеҙ; килешкән ишара кәрәк тип әйтһә генә һүҙ тәҡдим итегеҙ |
 
-## When to slow down
+## Ҡасан әкренәйтергә
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Эшмәкәрлекте ләззәттән күберәк стресс килтерһә, туҡтатығыҙ йә үҙгәртегеҙ. Ҡабат-ҡабат ҡәнәғәтһеҙлек, хобби менән шөғөлләнмәү йә «Мин инде түҙә алмайым» тигән һүҙҙәр йомшаҡ һөйләшеүгә лайыҡ, ә баҫым яһауға түгел. Күп осраҡта яуап — шул уҡ нәмәнең кәмерәк варианты. Кеше аҙымдарҙы башлауға һәм эҙмә-эҙлекле үтәүгә күберәк ярҙам кәрәк итһә, [урта баҫҡыс эшмәкәрлеге](/activities/middle-stage/) тураһындағы фекерҙәр уңайыраҡ булыуы ихтимал. Ярҙамсыл һөйләшеү тураһында күберәк өсөн [аралашыу кәңәштәрен](/caregiving/communication-tips/) ҡарағыҙ, ә бик күп идеялар өсөн — [101 эшмәкәрлек](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Партнерҙарға ла ярҙам кәрәк. Беренсе баҫҡыс үҙегеҙҙең ярҙам селтәрегеҙҙе төҙөү өсөн яҡшы ваҡыт; [ҡарауыусының үҙ-үҙеңде ҡарауы](/caregiving/caregiver-self-care/) тураһында уҡығыҙ.

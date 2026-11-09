@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Деменция менән йәшәгән өлкәндәр өсөн рәсем һәм ҡул эштәре"
+seoTitle: "Деменцияға ҡул эштәре: өлкәндәргә лайыҡлы, балаларса түгел"
+description: "Деменция менән йәшәгән кешеләр өсөн рәсем һәм ҡул эштәре: акварель, коллаж, гөл урнаштырыу. Әҙерләү, үҙгәртеү кәңәштәре һәм һөҙөмтәнән бигерәк процесс."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Деменция менән йәшәгән өлкәндәр өсөн яҡшы ҡул эштәре өлкән кеше ҡарашынан
+  тип күренә һәм тойола: акварель, журналдан коллаж, гөл урнаштырыу, балсыҡ,
+  ябай открытка яһау йәки өлкәндәр өсөн буяу биттәре. Бер нисә материал
+  әҙерләгеҙ, кәрәк булһа, беренсе һыҙыҡты төшөрөүҙә ярҙам итегеҙ, эш барғанда
+  һөйләшегеҙ һәм бергә үткән ваҡытты төп маҡсат итеп ҡабул итегеҙ. Тамамланған
+  эш мотлаҡ түгел.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Өлкәндәргә лайыҡлы материалдар һәм темалар һайлағыҙ, мәҫәлән, акварель ҡағыҙы, тере гөлдәр һәм журнал рәсемдәре, ялтыр, стикерҙар йәки мультфильм эш биттәре түгел."
+  - "Эш барышына иғтибар итегеҙ: төҫтәр, балсыҡтың тойолоуы, һөйләшеү. Тамамланған эш — бонус, маҡсат түгел."
+  - "Мөмкинлек булғанда маҡсат бирегеҙ, мәҫәлән, ейән-ейәнсәргә открытка йәки өҫтәл өсөн гөл композицияһы."
+  - "Башларға ярҙам итегеҙ, аҙаҡ артҡа тайпылығыҙ. Бергәләп беренсе буяу һыҙығын төшөрөү күп осраҡта етә."
+  - "Проекттарҙы бер ултырышта тамамларға кәрәкмәй, һәм иртә туҡтау һәр ваҡыт яраҡлы."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ҡул эштәре нисек балаларса булмаҫ өсөн?"
+    a: "Ысын рәсем материалдарын, өлкән темаларҙы һәм хөрмәтле тонды ҡулланығыҙ. Ялтыр һәм мультфильм биттәре урынына акварель ҡағыҙы, туҡыма, гөлдәр, журнал фотоһурәттәре һәм детальле буяу биттәрен алығыҙ. Эште балаға рәсеменә маҡтағандай маҡтамағыҙ; дуҫ өлкән кешегә һөйләгәндәй һөйләшегеҙ."
+  - q: "Һуңғы этаптағы деменцияла ҡайһы рәсем эштәре яраҡлы?"
+    a: "Ябай, сенсор проекттар иң яҡшы: ҙур щётка менән киң һыҙыҡтар буяу, йомшаҡ балсыҡ һығыу, вазаға бер нисә гөл ултыртыу йәки туҡыма өлгөләрен кулда тойоп йыйыу. Хәрәкәтте бергәләп башлау кәрәк булырға мөмкин. Һеҙҙең буяғанығыҙҙы күреү һәм төҫтәр тураһында һөйләшеү — ҡатнашыуҙың бер юлы."
+  - q: "Улар «рәсем сиҙмәйым» тиһә?"
+    a: "Баҫымды алып ташлағыҙ. Дөрөҫ яуабы булмаған проекттар менән башлағыҙ, мәҫәлән, акварель йыуыу, коллаж йәки гөл урнаштырыу. Һеҙгә конкрет нәмәлә ярҙам кәрәк тип әйтә алаһығыҙ, мәҫәлән, открытка өсөн төҫтәрҙе һайларға, шулай эш сынау түгел, ә ярҙам кеүек тойолор."
+  - q: "Буяу биттәре өлкәндәр өсөн балаларса булаһы?"
+    a: "Улар өлкәндәр өсөн эшләнгән булһа, юҡ. Баҡсалар, туҡыма ҡалыптары, машиналар йәки манзаралар кеүек өлкән темалы биттәрҙе һайлағыҙ һәм уларҙы дәрес итеп түгел, тыныслаған эш итеп тәҡдим итегеҙ. Беҙҙең буяу биттәрен баҫтырып йәки планшетта буяп була."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Рәсем һәм ҡул эштәре деменция менән йәшәгән кешеләргә һүҙҙәр табыуға бәйле булмаған аңлатыу юлы бирә. Alzheimer's Association билдәләүенсә, рәсем проекттары [ҡаҙаныш тойғоһо һәм маҡсат](https://www.alz.org/help-support/caregiving/daily-care/art-music) һәм үҙен күрһәтеү мөмкинлеге бирергә мөмкин — ҡарап торған кеше өсөн дә, деменция менән йәшәгән кеше өсөн дә. Төп нәмә: эште өлкән, ябай һәм баҫымһыҙ итеп тоторға. Был бит конкрет проекттарҙы, уларҙы ойоштороу ысулын һәм үҙгәрештәр менән ҡайтыуҙы күрһәтә.
 
-## What makes an art activity adult and not childish?
+## Нимә рәсем эшмәкәрлеген өлкән, ә балаларса түгел итә?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Өлкән рәсем эшмәкәрлеге ысын материалдар, өлкән темалар һәм хөрмәтле тон ҡуллана. Alzheimer's Association кәңәш итә: проекттарҙы өлкән кимәлдә тоторға һәм балаға оҡшаған ниндәй ҙә булһа нәмәнән ҡасырға, ул мәҫхәрә тойолорға мөмкин.
 
-| Feels childish | Feels adult |
+| Балаларса тойола | Өлкәндәргә лайыҡ тойола |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Ялтыр, күбек стикерҙар, уйынсыҡ күҙҙәр | Акварель ҡағыҙы, туҡыма, баҫылған гөлдәр |
+| Мультфильм буяу биттәре | Баҡсалар, туҡыма ҡалыптары, машиналар йәки манзаралар биттәре |
+| Һәр билдә өсөн «Яҡшы эш» маҡтауы | Ысын һөйләшеү: «Был зәңгәр, йәшел яны менән бик матур» |
+| Файҙаһыҙ һөнәр | Дуҫҡа открытка, өҫтәл биҙәге, бүләк |
+| Күрһәтмәләр дәрес кеүек уҡыла | Ҡылыҡһырау: «Миңә ярҙам итә алаһығыҙмы?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Кешенең үҙ ҡараштарын уйлағыҙ. Игнә эшенә яратҡан кеше туҡыма менән эшләргә һыуанырға мөмкин. Элек инженер булған кеше эре өлөштәрҙән торған модель комплектын йәки ҡорамалдар менән проектты хуп күрергә мөмкин. Элек уҡытыусы булған кеше открыткалар яһарға яратыр.
 
-## Why focus on the process, not the product?
+## Ни өсөн продукттан бигерәк процесҡа иғтибар итергә?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Сөнки бергә үткән ваҡыт — төп маҡсат. Alzheimer's Association-ның [өйҙә эшмәкәрлек](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) буйынса ҡулланмаһы һөҙөмтәнән бигерәк процесҡа иғтибар итергә тип әйтә. «Зәңгәр генә» булған буяу — әле лә буяу. Өс рәсемле коллаж — әле лә коллаж.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Ассоциация шулай уҡ билдәләй: профессиональ рәссам эшенең үҙгәрешенән борсола ала, ә һөйәр кеше яңы мөмкинлекте яратыр. Әгәр кеше оҫта рәссам булһа, ул үҙләштергән ысулдан башҡа материал менән башлағыҙ; шулай тип уйын кеүек тойолор, сағыштырыу кеүек түгел.
 
-## Arts and crafts ideas to try
+## Ҡул эштәре идеялары
 
-Each idea includes how to make it simpler if it becomes hard.
+Һәр идея ҡыйын булһа, ябайыраҡ итеү ысулын да үҙ эсенә ала.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Акварель йыуыу.** Ауыр акварель ҡағыҙын һыуға һалып алығыҙ, кешегә ҙур щётка менән төҫ тамыҙырға рөхсәт итегеҙ. Төҫтәр үҙҙәре таралған, шуға күрә дөрөҫ булмаған һөҙөмтә юҡ. *Ябайыраҡ:* ике төҫ кенә тәҡдим итегеҙ, йәки ҡара ҡағыҙҙа һыу менән буяғыҙ, ул дымлы эҙҙәрҙе күрһәтә.
+2. **Журнал коллажы.** Баҡсасылыҡ, пешереү, машиналар, сәйәхәт йәки кешенең элекке хоббиҙары тураһындағы журналдарҙан рәсемдәрҙе алдан ҡырҡып әҙерләгеҙ. Кеше үҙе һайлап, ҡалын ҡағыҙға ябыштырһын. *Ябайыраҡ:* дүрт алдан әҙерләнгән рәсем һәм ябыштырғыс кәләм тәҡдим итегеҙ, ябыштырыуҙы бергә эшләгеҙ.
+3. **Гөл урнаштырыу.** Alzheimer's Foundation of America [киҫелгән гөлдәр һәм йәшеллекте](https://alzfdn.org/dementia-activity-gardening/) ябай миҙгел композицияһына урнаштырырға тәҡдим итә. Ауыр, тотороҡло вазаны һәм алдан ҡырҡылған сәпәләрҙе ҡулланығыҙ. *Ябайыраҡ:* бер нисә сәпәне кескәй кәсәгә, береһен-береһен ултыртығыҙ.
+4. **Баҫылған гөл открыткалары.** Гөл бәйләменән гөлдәрҙе аҙна дәүамында китап биттәре араһында баҫығыҙ, аҙаҡ уларҙы бөгөлгән ҡалын ҡағыҙға ябыштырығыҙ. *Ябайыраҡ:* һеҙ ябыштырғыс һалығыҙ, улар гөлдө баҫып ултыртһын.
+5. **Өлкән буяу биттәре.** Асыҡ контурлы һәм ысын темалы биттәрҙе һайлағыҙ. Беҙҙең баҫтырыла торған [буяу биттәре](/games/coloring/) экранда ла буяла: төҫкә баҫығыҙ, аҙаҡ рәсемдең бер өлөшөнә. *Ябайыраҡ:* ҙурыраҡ майҙандар, аҙыраҡ төҫ, ҡалын маркерҙар.
+6. **Балсыҡ йәки йомшаҡ алһыҡ.** Һауала ҡатҡан балсыҡты йәки йомшаҡ моделләү алһыҡын ҡулда йәйеү, баҫыу, формалаштырыу. Япраҡты балсыҡҡа баҫып, ябай эҙ-таш яһарға була. *Ябайыраҡ:* тик ҡыҫыу һәм йәйеү — тулы эшмәкәрлек. Кешенең балсыҡты ауыҙына һалмауын күҙәтегеҙ.
+7. **Открытка яһау.** Alzheimer's Association был эште реаль эш итеп тәҡдим итергә кәңәш итә: «Беҙ дуҫыбыҙға таҙарыу открытка ебәрәбеҙ. Ярҙам итәһегеҙмө?» Алдан ҡырҡылған ҡалын ҡағыҙ һәм гөл йәки марка стикерҙары яҡшы эшләй.
+8. **Альбом (скрапбукинг).** Иҫке фотоларҙың күсермәләрен, открыткаларҙы йәки билет киҫәктәрен альбом биттәренә бергәләп ябыштырығыҙ. Һәр береһе тураһында барғанда һөйләшегеҙ. Үткәндәр тураһында йомшаҡ һөйләшеү юлдары өсөн беҙҙең [иҫкә төшөрөү буйынса ҡулланмаға](/activities/reminiscence/) инегеҙ.
+9. **Туҡыма һәм текстура таҡтаһы.** Ҡатҡан картонға вельвет, бархат, мешковина һәм ебәк өлгөләрен ябыштырығыҙ. Эш яһау — эшмәкәрлек; һуңынан уларға ҡулдар менән тейеү — икенсе эшмәкәрлек. Күберәк идеялар беҙҙең [сенсор эшмәкәрлек буйынса ҡулланмала](/activities/sensory/).
+10. **Ябай ағас эшкәртеү.** Ағас эшкә яратҡан кеше өсөн тигеҙ ағас блокты шомартыу йәки ҡоштар өйө комплектын буяу таныш тойола ала. Үткер ҡоралдарҙы алып ташлағыҙ һәм күҙәтегеҙ.
+11. **Музыка буйынса буяу.** Яратҡан плакатты ҡуйығыҙ да, кәйефкә тап килгән фигуралар йәки төҫтәр буяғыҙ. Был ике эшмәкәрлекте берләштерә, күп кеше ошатҡан. [Музыка эшмәкәрлеге](/activities/music/) менән танышығыҙ.
 
-## How do I set up an art session?
+## Рәсем сессияһын нисек әҙерләргә?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Алдан әҙерләгеҙ.** Кешене саҡырғансы бар нәмәне киҫегеҙ, ҡырҡығыҙ, урынлаштырығыҙ. Ҡайсы эҙләгәндә ҡыҙыҡ мәл юғала.
+2. **Ябай итеп тотоғоҙ.** Ике-өс төҫ, бер щётка, бер ҡағыҙ. Бик күп һайлау аптыратырға мөмкин.
+3. **Өҫтәлде һаҡлағыҙ.** Пластик ябыу йәки иҫке өҫтәл ябыуы ҡулланығыҙ — шулай ысыҡ булһа ла борсолмайһығыҙ.
+4. **Яны-янында ултырығыҙ.** Үҙегеҙҙең эште уларҙың яныңда башлағыҙ. Был бергә эшләү кеүек тойолор, күҙәтеү кеүек түгел.
+5. **Башларға ярҙам итегеҙ.** Alzheimer's Association билдәләүенсә, кеше менән бергә буяу хәрәкәтен башларға кәрәк булырға мөмкин. Башлағас, күп кеше дауам итә.
+6. **Эш барғанда һөйләшегеҙ.** Төҫтәр, текстуралар тураһында әйтегеҙ, йәки эштең хикәйәгә алып барырға мөмкинлек бирегеҙ. «Был ни ул?» кеүек викторина һорауҙарынан ҡасығыҙ.
+7. **Вакыт киңерәк алығыҙ.** Проект бер ултырышта тамамланырға тейеш түгел.
 
-## How do I adapt art as dementia changes?
+## Деменция үҙгәргәндә рәсемде нисек яраҡлаштырырға?
 
-| Stage | What tends to work | What to adjust |
+| Этап | Нимә яҡшы эшләй | Нимәне төҙәтергә |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Башлаҡ | Класстар, детальле буяу, альбомдар, открытка яһау, фотоға ҡарап буяу | Проекттарҙы һайларға мөмкинлек бирегеҙ; бергә булыуҙы һаҡлағыҙ |
+| Урта | Алдан ҡырҡылған коллаж, акварель йыуыу, гөл урнаштырыу, ҙур майҙандар менән буяу | Бер аҙым, бер аҙым; киҫеү һәм ябыштырыуҙы һеҙ башҡарығыҙ |
+| Һуңғы | Киң щётка һыҙыҡтары, балсыҡ ҡыҫыу, туҡыманы тойоу, һеҙҙең буяуығыҙҙы күҙәтеү | Сенсорға иғтибар; ҡулды йомшаҡ итеп йүнәлтегеҙ, рөхсәт булһа |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS билдәләүенсә, һуңғы этаптарҙа эшмәкәрлек йышыраҡ ябайлаштырыла һәм сенсорға йүнәлтелә. Башҡа кешенең буяуын күҙәтеү һәм төҫтәр тураһында һөйләшеү — ҡатнашыуҙың ысын юлы. Этап-этап идеялар өсөн ҡарағыҙ: [һәр этап өсөн эшмәкәрлектәр](/activities/ideas/).
 
-## Safety with art supplies
+## Рәсем материалдары менән хәүефһеҙлек
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Токсик булмаған буяу, маркер һәм ябыштырғыс кәләм һайлағыҙ.
+- Ҡайсы, ҡырҡыу пышаҡтары һәм ысыҡ клей ҡоралдарын ҡулдан ыраҡ тотоғоҙ. Киҫеүҙе үҙегеҙ, алдан башҡарығыҙ.
+- Кешенең балсыҡ, буяу йәки ваҡ әйберҙәрҙе ауыҙына һалыуын күҙәтегеҙ.
+- Һыу һәм вазалар өсөн тотороҡло, ауыр һауыттар ҡулланығыҙ.
 
-## When should we stop?
+## Ҡасан туҡтарға?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Иғтибар киткәндә йәки ҡыҙғаныу күренгәндә туҡтағыҙ. Alzheimer's Association иғтибар киҫәге кәмегәндә йәки ҡыҙғаныу артҡанда эшмәкәрлекте туҡтатыу йәки алмаштырыу тәҡдим итә. Проектты хәүефһеҙ урынға ҡуйығыҙ һәм тынғы бирерлек нәмә тәҡдим итегеҙ. Иртәгә лә ҡайтып була, бөтөнләй ҡайтмаҫҡа ла була. Ике вариант та дөрөҫ.
 
-## Display the work, if the person wants
+## Эште күрһәтегеҙ, әгәр кеше теләһә
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Рәсемде холодильникҡа элеү йәки коллажды рамкаға ҡуйыу — хөрмәт күрһәтеүҙең тыныс юлы. Алдан һорағыҙ. Кайһы берәүҙәр уларҙың эшен стенала күрергә ярата; икенселәре теләмәй.
 
-## Pair art with our games
+## Рәсемде беҙҙең уйындар менән бергә
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Буяу әҙерләү артыҡ булған көндәрҙә, [Буяу](/games/coloring/) планшетта ҡул буяуһыҙ эшләй, ҡырҡыу-ҡыҙғаныу булмай. [Рәсем таҡмаҡтары](/games/picture-puzzle/) бөтә рәсемде күренеп торған хәлдә һаҡлай, кисәктәрҙе алмаштырғанда ярҙам итә. [Һөйләшеү карталары](/games/conversation-cards/) рәсемдән хикәйәгә алып барырға мөмкин асыҡ һорауҙар бирә. Барыһында ла таймер йәки иҫәп юҡ. Баҫтырыла торған биттәрҙе [баҫтырыла торған эшмәкәрлектәр](/activities/printable/) йыйылмаһынан ала аласығыҙ.

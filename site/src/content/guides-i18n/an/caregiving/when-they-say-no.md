@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Quan una persona con demencia refusa una actividat"
+seoTitle: "Quan una persona con demencia refusa una actividat"
+description: "Per qué una persona con demencia puede dezir que no a una actividat, qué probar en cambio, qué evitar y cuando un cambio subito ye menester que lo vea un metge."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Quan una persona con demencia diga que no, acceptalo con calma y prebe-lo
+  otra vegada más tarde u ofrezca-le una cosa diferent. A negativa tiene
+  sovent una razón: la tarea ye masiado dificil u asinyar, ye cansada, tiene
+  dolor, fame o se sent sobrepasada por o ruido. No discutas ni insistas.
+  Simplifica, ofrezca dos opcions u demanda-le la suya ayuda. Un cambio subito
+  u rapido de comportamiento, sobre todo tras una infeción u un medicamento
+  nuevo, necesita un metge sin dilación.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Un « no » ye una respuesta que cal respetar, no un problema que superar."
+  - "A negativa tiene normalment una causa: masiado dificil, masiado de nino, cansancio, malura, incomodidat u sobrepasamiento."
+  - "Dexa-lo estar, espera y prebe-lo más tarde, a otra ora u con una versión más simple."
+  - "Demandar-le la suya ayuda funciona mellor que demandar-le que faiga una actuación."
+  - "No discutas, no insistas, no preguntes ni corrixas. Mira si tu te das presura u te acostas masiado."
+  - "Un comportamiento subito u que cambia rapido, sobre todo con infeción u medicamentos nuevos, debe ir a un metge de inmediato."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "¿Ye bueno dexar que se salten las actividades?"
+    a: "Sí, en cualsequiera día. Sentar-se juntos, escuchar musica u mirar o mundo pasar puede bastar. Si alguien deixa de disfrutar de todo en cuantas semanas, digalo a o suyo metge, ya que o tristeza, o dolor u otros problemas de salut pueden estar detrás."
+  - q: "¿Por qué refusan cosas que antes les encantaban?"
+    a: "Una afición de antes puede frustrar-se cuan ahora requiere destrezas que la demencia ha fecho más difizils, y la persona puede sentir vergüenza. Prebe una parte más simple de la misma actividad, como ordenar botons en vez de cosir, u mirar fotos de chardins en vez de plantar."
+  - q: "¿Debo intentar convencer-les?"
+    a: "No. Empuxar a alguien a fer una cosa que la demencia le ha fecho difizil ye un desencadenante conoixito de agitación. Acepta o no, cambia de tema y ofrez-lo otra vez más tarde u de otra manera."
+  - q: "¿Cuan un cambio de comportamiento ye una emerchencia?"
+    a: "Chame al 112 si alguien ye en perligro u tiene signos de una emerchencia medica. Ante una confusión subita u un comportamiento que cambia rapido en cuantas horas u días, sobre todo con fiebre, infeción u un medicamento nuevo, contacte con o suyo metge sin dilación."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Pon-lo todo en orden, ofrez un chuego u un paseo, y escuchas un « no ». U la actividat empieza bien y acaba con una tableta apartada y una palabra cortant. Desanima, y ye muy común. A negativa y a frustración son normalment un mensache, no terquedat. Descubrir qué quiere dezir ese mensache sovent te muestra qué probar después.
 
-## Why does someone with dementia refuse activities?
+## ¿Por qué una persona con demencia refusa las actividades?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Normalment hai una razón, incluso si la persona no la puede expresar con palabras. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) indica que la resistencia puede significar que la persona no puede fer la tarea u que tiene miedo de intentarlo. Causas comuns incluyen:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Ye masiado dificil.** La actividat ahora requiere destrezas que la demencia ha fecho difizils, y fallar delant d'alguien da vergüenza.
+- **Parece de nino.** Los adultos notan los dibuixos de debaixo, las vozes cantarinas y las actividades que parecen feitas para chiquez.
+- **Cansancio.** Muitas persones tienen menos enerchía a la tarde. Veyei [actividades tranquilas a la tardada](/caregiving/late-day-restlessness/).
+- **Incomodidat fisica.** O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) cita o dolor, a falta de sueño, las dificultaz para veyer u oyir, o estreñimiento, a fame, a sed y los efectos secundarios de medicamentos nuevos como posibles causas de angustia.
+- **Masiadas cosas a la vez.** Una television alta, varias conversas u una sala plena pueden sobrepasar.
+- **Sentir-se presionada.** O NIA cita sentir-se empuxada a fer algo que l'Alzheimer ha fecho muito dificil, u a recordar sucesos u persones, como causa de agitación.
+- **Tristeza.** Perder l'interés por las cosas puede ser un signo de depresión, lo cual ye digno de consultar con un metge.
+- **Simplement no quieren.** Los adultos tienen dreito a dezir que no.
 
-## What should I try when they say no?
+## ¿Qué puedo probar cuan dicen que no?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Accepta o no con calma, y luego cambia una cosa: a ora, la actividat, la dificultat u a manera de demandar-lo.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Dexa-lo estar por agora.** «Ye igual. Quizás más tarde.» Luego pasa a otra cosa sin suspirar.
+2. **Prebe otra vegada más tarde.** A Alzheimer's Association suggiere intentar-lo más tarde, u a otra ora del día.
+3. **Fa-lo más pequeño.** Una cerilla en vez de un chuego entero. Una toballa en vez de la cesta de la ropa. Menos fotos, menos opcions, las fotos a la vista.
+4. **Ofrez dos opcions.** «¿Quiere mirar as fotos de los pacharos u escuchar una mica de musica?» Una opción devuelve una sensación de control.
+5. **Demanda ayuda en vez de actuación.** «¿Me ayuda a ordenar estas?» u «¿Qué color le parece mejor?» Sentir que la necesitan ye muy diferent de sentir que la están probando.
+6. **Empieza tu mesmo.** Comienza la actividat a o suyo lado sin demandar-lo. Muitas persones se sumen una vegada que ya hai algo en marcha, y si no lo fan, igual has pasau tiempo juntos.
+7. **Cambia a algo fisico u tranquilizador.** Un paseo curto, musica, una merienda, doblar a ropa, u una pausa de [respiración tranquila](/games/calm-breathing/) en común. O NIA suggiere desviar la atención a la musica, un libro u un paseo.
+8. **Dexa-lo fer a su manera.** Si quiere chugar de forma diferent a las reglas, siguilo. A Alzheimer's Association aconseya ser flexibles.
 
-## What should I say when they get frustrated?
+## ¿Qué puedo dezir cuan se frustran?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Ralenta, abaixa la vos y tranquilizalos. A [guía de la Alzheimer's Association sobre agitación](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggiere retirar-se y demandar permiso, usar frases calmas y positivas, y ofrecer una eleción guiada entre dos opcions. Frases en ese espiritu:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Lo siento, esto ye pesado. Paremos.»
+- «Lo está fan bien. Estoy aquí.»
+- «¿Tiene tiempo para ayudar-me con una cosa?»
+- «¿Tomamos un café con leche u un té?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Luego acaba la actividat sin darle importancia. Nuestros [consellos de comunicación](/caregiving/communication-tips/) tienen más sobre qué dezir.
 
-## What should I avoid?
+## ¿Qué debo evitar?
 
-Some natural reactions tend to make things worse.
+Algunas reaccions naturals tienden a empeorar las cosas.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Discutir o insistir.** «Venga, uno más» u «usted lo quiere» rara vegada ayudan.
+- **Preguntar o corrixir.** «Sabe qué ye esto» u «No, esta no ye» añaden presión.
+- **Tomar-lo a lo personal.** O NIA recuerda a los cuidadors que ye la enfermedat, no la persona, la que causa estos cambios.
+- **Acosar-les o meter-les presura.** A Alzheimer's Association aconseya no alzar la vos, no amostrar alarma, no acorralar, no amontonar-se, no sujetar, no criticar, no ignorar ni discutir con la persona, y evitar movimientos bruscos fuera de su vista.
+- **Usar la culpa.** «Lo he preparato todo por usted» fa que os sentez peor los dos.
+- **Ponerles etiquetas.** «Terco» u «difizil» tapan la razón real y fan más difizil resolver-lo.
 
-## How can I find out what is behind repeated refusals?
+## ¿Cómo descubro qué hai detrás de los rechazos repetidos?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Fe una nota simple durante una semana o dos. O NIA dize que apuntar los cambios de comportamiento puede ayudar a los cuidadors y a los profesionals sanitarios a reconoixer un patrón y descubrir la causa.
 
-Jot down:
+Apunta:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- la ora del día;
+- qué ofreciste y cómo lo demandaste;
+- qué pasaba a o tuyo alredor (ruido, visitas, la television);
+- cómo durmió, comió y bebió, y cuando fue a o baño por última vegada;
+- cualsequier medicamento nuevo u enfermedat reciente.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Los patrons sovent aparecen rapido: rechazos que solo pasan después de las 16.00 h, solo con un chuego determinau, u solo cuan la television está encesa. A [guía sobre comportamientos de demencia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) de la Family Caregiver Alliance lo pon de forma simple: no podemos cambiar a persona, pero sí podemos cambiar o nuestro comportamiento y o entorno.
 
-## When should I talk to a doctor about refusal or frustration?
+## ¿Cuándo debo charrar con un metge sobre los rechazos o la frustración?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Charra con un metge cuan o comportamiento cambia de forma subita, rapida u junto con signos de enfermedat. O NIA dize que los cambios subitos o que fluctúan rapido, sobre todo si la persona ha tenido una infeción u cambios recients de medicación, deben ser puestos en conoixemiento d'un metge de inmediato.
 
-Contact their doctor promptly if you notice:
+Contacta con o suyo metge sin dilación si notas:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- confusión subita u un gran cambio en cuantas horas u días;
+- signos de dolor, como gestos de dolor, protección de una parte del cuerpo, u nueva dificultat para moverse;
+- fiebre u otros signos de infeción;
+- medicamentos nuevos u cambiados seguidos de un cambio de comportamiento;
+- perdida d'interés en casi todo, llanto u aislamiento que duren más de un par de semanas;
+- rechazo a comer u beber.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+A Alzheimer's Association recomienda una revisión medica completa para cualsequier persona con sintomas de comportamiento, sobre todo cuan aparecen de forma subita. A Family Caregiver Alliance aconseya tamién consultar primero con o metge, porque los problemas de comportamiento pueden tener una causa medica. No empecipes, no deixes ni cambies ningún medicamento sin charrar-lo con un metge u farmacéutico.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Si alguien ye en perligro u hai signos de una emerchencia medica, chame al 112. O NIA suggiere dezir a la persona que atiende la llamada que la persona tiene demencia.
 
-## Is it okay if we do nothing at all?
+## ¿Ye bueno si no fagamos nada?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Sí. Algunos días a mejor actividat ye no fer nada: sentar-se juntos, dar-se la mano, escuchar un disco preferito u mirar a los pacharos por a finestra. Eso no ye un fracaso. A nuestra [guía para chugar juntos](/caregiving/how-to-play-together/) explica por qué parar pronto, u no empezar nunca, puede ser la decisión correcta.

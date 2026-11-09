@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Sueño y salud cerebral: lo que indica la investigación"
+seoTitle: "Sueño y demencia: qué indica la investigación"
+description: "Qué indica la investigación sobre el sueño y el riesgo de demencia, por qué la «limpieza» cerebral aún es incipiente y hábitos de sueño prácticos."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Algunos estudios a largo plazo vinculan el sueño corto en la mediana edad con un mayor riesgo de demencia, y la investigación de laboratorio sugiere que el sueño puede ayudar al celebro a eliminar residuos. Esta evidencia todavía es incipiente, y la Comisión de Lancet de 2024 no incluyó el sueño como factor de riesgo modificable. Tener hábitos de sueño regulares ayuda a cómo nos sentimos día a día. Los problemas de sueño en la demencia son frecuentes y conviene consultarlos con un médico.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Un estudio británico que siguió a unas 8.000 personas durante 25 años vinculó dormir seis horas o menos en la mediana edad con un mayor riesgo de demencia."
+  - "Los cambios en el sueño también pueden ser una señal temprana de demencia, así que es difícil saber cuál es la causa y cuál el efecto."
+  - "La investigación sobre el sueño que elimina la beta-amiloide del celebro es real pero incipiente, y gran parte se ha hecho en ratones."
+  - "La apnea del sueño es frecuente, tiene tratamiento y se ha vinculado con la demencia en estudios; conviene revisar si hay ronquido fuerte y somnolencia durante el día."
+  - "Nunca empiece, deje ni cambie un medicamento o un ayudante para dormir sin consultar a un médico."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "¿El mal dormir causa el Alzheimer?"
+    a: "Eso no se ha demostrado. Algunos estudios vinculan el sueño corto con un mayor riesgo de demencia, pero la propia demencia altera el sueño, a menudo años antes del diagnóstico. La Comisión de Lancet de 2024 consideró que la evidencia era demasiado inconsistente para incluir el sueño como factor de riesgo modificable."
+  - q: "¿Cuánto sueño necesitan las personas mayores?"
+    a: "El National Institute on Aging dice que las personas mayores necesitan aproximadamente lo mismo que otros adultos, de 7 a 9 horas por noche. Muchas personas mayores se acuestan y se levantan más temprano que antes, lo cual es habitual."
+  - q: "¿Por qué una persona con demencia duerme de día y se despierta de noche?"
+    a: "La demencia puede afectar al reloj biológico, así que los horarios de sueño y vigilia se mezclan. El dolor, el aburrimiento, el hambre o los efectos secundarios de un medicamento también pueden influir. La luz del día, la actividad diaria y una rutina tranquila por la tarde pueden ayudar. Un médico puede buscar causas que tengan tratamiento."
+  - q: "¿Debo dar un ayudante para dormir a la persona que cuido?"
+    a: "Hable antes con su médico, también sobre los productos sin receta. El National Institute on Aging señala que algunos medicamentos para dormir pueden aumentar el riesgo de mareos, caídas y confusión en personas con Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+El sueño y la salud cerebral están claramente relacionados, pero todavía se está averiguando cómo. Algunos estudios vinculan el sueño corto con un mayor riesgo de demencia. A su vez, la demencia a menudo altera el sueño. Esta página explica lo que muestra y lo que no muestra la investigación, da hábitos prácticos de sueño y trata los problemas de sueño que son frecuentes en la demencia. No da consejos sobre medicamentos para dormir; esa conversación corresponde a un médico.
 
-## Is poor sleep linked with dementia?
+## ¿Está relacionado el mal dormir con la demencia?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Algunos estudios a largo plazo vinculan el sueño corto con un mayor riesgo de demencia, pero la evidencia no está clara.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Un estudio británico de 25 años.** Los investigadores siguieron a unas 8.000 personas adultas en el [estudio Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Las personas que dormían seis horas o menos a los 50 o 60 años tuvieron un mayor riesgo de demencia más tarde que las que dormían siete horas. Las que dormían seis horas o menos a los 50, 60 y 70 años tuvieron un riesgo aproximadamente un 30 % mayor que las que dormían regularmente siete horas. Fue un estudio observacional, así que muestra una relación, no una causa.
+- **La opinión de la Comisión de Lancet.** La [Comisión de Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) no añadió el sueño a su lista de 14 factores de riesgo modificables. Consideró que la evidencia no era lo bastante consistente. Una razón es la «causalidad inversa»: los cambios cerebrales de la demencia empiezan años antes del diagnóstico y pueden alterar el sueño. En un estudio amplio, la relación entre dormir mucho y demencia desapareció cuando se dejaron de lado los primeros cinco años de seguimiento.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Así que una noche corta de vez en cuando no es motivo de preocupación. Vale la pena buscar un sueño regular y de buena calidad, porque ayuda al ánimo, a la alerta y a la seguridad de hoy.
 
-## What is the "brain-clearing" sleep research?
+## ¿Qué es la investigación sobre el sueño «limpiador» del celebro?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Quizá haya leído que el sueño «limpia» el celebro. Esa idea procede de investigación real, pero es incipiente.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **En ratones.** Un estudio de 2013 [descrito por los NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) halló que el espacio entre las células cerebrales aumentaba unos 60 % cuando los ratones dormían. El líquido fluía con más facilidad por el celebro, a través de lo que los investigadores llaman sistema glinfático. La beta-amiloide, una proteína vinculada con el Alzheimer, se eliminaba más rápido del celebro de los ratones que dormían.
+- **En personas.** Un [estudio pequeño de 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) escaneó a 20 adultos sanos de 22 a 72 años tras una noche normal y tras una noche sin dormir. Después de la noche sin dormir, la señal de una exploración cerebral para la beta-amiloide subió unos 5 % en una zona que incluye el hipocampo, una región importante para la memoria. Los autores lo llamaron evidencia preliminar. No sabían si el cambio desaparece tras el descanso, ni si refleja una eliminación más lenta o una mayor producción de amiloide.
+- **Funciona en ambos sentidos.** La Comisión de Lancet señala que la acumulación de amiloide puede alterar el sueño en personas mayores.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Estos hallazgos ayudan a explicar por qué los investigadores se interesan por el sueño. No demuestran que dormir mejor prevenga el Alzheimer.
 
-## What sleep habits may help?
+## ¿Qué hábitos de sueño pueden ayudar?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Las personas mayores necesitan unas 7 a 9 horas de sueño por noche, lo mismo que otros adultos, según el [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Sus sugerencias incluyen:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Mantenga un horario regular.** Acuéstese y levántese a la misma hora cada día, también los fines de semana.
+- **Cree una rutina para relajarse.** Lea, escuche música tranquila o tome un baño caliente antes de acostarse.
+- **Haga que el dormitorio sea cómodo,** ni demasiado caluroso ni demasiado frío.
+- **Limite la cafeína al final del día.** El café, el té, los refrescos y el chocolate pueden mantenerle despierto.
+- **Evite el alcohol,** incluso en cantidades pequeñas, aconseja el NIA.
+- **Evite las comidas abundantes en las dos o tres horas antes de acostarse,** y las bebidas grandes al final del día.
+- **Haga ejercicio con regularidad, pero no en las 3 horas previas a acostarse.** Vea nuestra [guía de ejercicio](/brain-health/exercise/).
+- **Mantenga las pantallas fuera del dormitorio.** El NIA sugiere no ver la televisión ni usar ordenador, teléfono o tableta allí.
+- **Evite las siestas de última hora de la tarde o de la noche** si le es posible.
 
-## Sleep problems in dementia
+## Problemas de sueño en la demencia
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Los cambios en el sueño son frecuentes en la demencia. El [NIA enumera](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) dormir mucho o muy poco, despertarse muchas veces por la noche y dormitar mucho durante el día. También describe el *sundowning* (síndrome del atardecer): inquietud, agitación o confusión que empieza o empeora cuando anochece.
 
-Caregiver tips from the NIA include:
+Las recomendaciones del NIA para los cuidadores incluyen:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Procure luz del día y movimiento temprano.** Salga afuera o siéntese junto a una ventana durante el día, y ayude a la persona a moverse cada día. La luz intensa puede ayudar a ajustar el reloj biológico.
+2. **Programe las actividades que requieren energía por la mañana.** Pruebe a bañarse por la mañana o a hacer la comida más abundante al mediodía.
+3. **Haga las siestas cortas y temprano.** Limite las cabezadas a última hora de la tarde.
+4. **Haga la tarde tranquila.** Baje las luces, reduzca el ruido y ponga música relajante si a la persona le gusta. Nuestra guía sobre [la inquietud de última hora del día](/caregiving/late-day-restlessness/) tiene más ideas.
+5. **Mantenga una rutina estable antes de dormir.** Leer en voz alta a la misma hora cada noche es un ejemplo que da el NIA. Una [rutina diaria estable](/activities/daily-routine/) también ayuda.
+6. **Limite la cafeína y el alcohol.**
+7. **Use luces de noche** en el dormitorio, el pasillo y el baño.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Para los despertares nocturnos, las [recomendaciones de seguridad en casa](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) del NIA incluyen luces de noche o sensores de luz automáticos, barras de apoyo en el baño, cinta de colores vivos en los bordes de los escalones y medicamentos guardados bajo llave.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Una actividad corta y tranquila por la tarde puede ayudar a los dos a calmarse. Pruebe una pausa lenta de [Respiración tranquila](/games/calm-breathing/) o unas [Tarjetas de conversación](/games/conversation-cards/) relajadas. Evite cualquier cosa estimulante cerca de la hora de acostarse, y pare cuando la persona ya no quiera seguir.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Un sueño roto también desgasta a los cuidadores. Nuestra [guía de autocuidado para cuidadores](/caregiving/caregiver-self-care/) recoge formas de descansar y de pedir ayuda.
 
-## What about sleep apnea?
+## ¿Y la apnea del sueño?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+La apnea del sueño provoca pausas breves en la respiración durante el sueño, a menudo muchas veces por noche. El NIA dice que, si no se trata, puede llevar a problemas como presión arterial alta, ictus o pérdida de memoria. Los signos incluyen ronquido fuerte y sentirse somnoliento durante el día, y muchas personas no saben que la tienen. La Comisión de Lancet describe una revisión de 11 estudios en la que las personas con apnea del sueño tuvieron un riesgo de demencia aproximadamente un 43 % mayor. Sin embargo, pocos de esos estudios tuvieron en cuenta el peso corporal, así que la relación es incierta.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+La apnea del sueño puede diagnosticarse y tratarse. El NIA señala que una máquina CPAP casi siempre ayuda. Si usted o la persona que cuida ronca fuerte, deja de respirar mientras duerme o está muy somnolienta durante el día, coméntelo con un médico.
 
-## A note about sleep medicines
+## Una nota sobre los medicamentos para dormir
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+No damos consejos sobre medicamentos ni suplementos para dormir. El NIA señala que los medicamentos para dormir pueden ayudar durante un tiempo corto, pero no curan el insomnio. También señala que algunos medicamentos que se dan para ayudar a dormir a personas con Alzheimer pueden aumentar el riesgo de mareos, caídas y confusión. No empiece, deje ni cambie ningún medicamento para dormir, incluidos los ayudantes para dormir sin receta, sin hablar antes con un médico o un farmacéutico.
 
-## Talk with a doctor
+## Hable con un médico
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Consulte a un médico si usted o la persona que cuida está siempre cansado, tiene problemas para dormir la mayoría de las noches, ronca fuerte o tiene pausas en la respiración por la noche. Si los problemas de sueño en la demencia continúan, el [NIA aconseja](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) buscar consejo médico. Una revisión puede descubrir causas como dolor, otro trastorno del sueño, una enfermedad o un efecto secundario de un medicamento. La confusión repentina, o un cambio repentino del sueño junto con confusión, necesita atención urgente. Lea [cuándo acudir al médico](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Esta página es información general, no consejo médico. Vea nuestro [aviso médico](/medical-disclaimer/).

@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Dementia Jaqinakatakix Amuyu Juegos: Sum Thaqhañanaka"
+seoTitle: "Dementia Amuyu Juegos, Sum Yatiyañanaka"
+description: "Uñt'ata, qarta ukat jukhu juegos dementia jaqinakatakix, ukat kunjamas jan kunatapis jiskt'añapki ukham uñt'ayaña: uñt'atanakax patjanakana, jukhunakax sapa, janiw punku, sapa mayni yanapt'añamawa."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Dementia jaqinakatakix amuyu juegos ancha askiwa janiw amuyu lurañamp
+  sarañapkchi. Uñt'ata juegos uñt'ayañamawa, uñt'atanakax patjanakana,
+  pusi jan ukax suxta uñt'atanakampi, sapa mayni yanapt'añamawa ukat puntaj
+  jan amuyañamawa. Uñt'ata uñt'ayañax sasa amtañat sukasiñaktaki
+  aski, ukatwa juegonakax tuqinakana sapa uñt'ata uñjañapataki. Kusisiñaw
+  amtañapa, jan lurawinakax janiw.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Chiqpach amuyu juegos uñt'atanakax imantasiwa, ukax dementia ch'amañchañ sasaw jan lurañatakix sarañapa. Uñt'atanakax patjanakana uñt'ayañamawa."
+  - "Ch'iqanaka jukhuchi, uñt'atanakax jach'anaka ukat mayni mayni sapa maya ajllisiñamawa, ukhamat juego kusisiñani."
+  - "Sapa mayni yanapt'añampi sarañamawa, mayni mayniru yanapt'añamawa ukat puntaj jan amuyañamawa. Janiw khitis kunjamas jan lurañapa sum amuyañapataki."
+  - "Janiw amuyu juego mayni jaqinakar sum thaqhañ, jiskt'añ jan ukax jiwayañ uñt'atawa. Kusisiñ sarañataki juegonakax sum urukiwa."
+  - "Kusisiñ jan tukuskañ mayjt'ayañ. Uñt'atanakat parlañax askiwa."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "¿Kunas askiwa dementia jaqi ukatakix amuyu juego?"
+    a: "Jach'a, sasa uñt'ata uñt'ayañ patjanakana sasaw juego ukat uñt'ata pusi jan ukax suxta uñt'atanakana. Uñjata uñt'atanakar uñt'ayañax kusisiyañawa janiw jan amuyañ sarañapkiti. Uñt'ata uñtasa ukat ukax pusi jan ukax tayka uñt'atanakan jupa ajllisiñ."
+  - q: "¿Amuyu juegonakax dementiar yanapt'aspasa?"
+    a: "Janiw amuyu juego jiskt'añ, jiwayañ jan ukax jan sarañ yanapt'aspkiti; Cochrane yatxatawinakax amuyu yatiyañ computadora juegonakax jan askiñ yatiyapxi dementia jan puedeskapañ. Juegonakax mayni mayniru kusisiñ sarañataki askiwa. Kusisiñat ajllisiñama."
+  - q: "¿Concentration klásico juegos dementia jaqimpi sarañ jan ukax janiw?"
+    a: "Nayrar tuqinakana, mayni jaqinakax kusisipxi, khuyapt'asaw jisk'a uñt'atanakampi. Uñt'atanakan chiqapar sayt'añax jan askiniw, uñt'atanakar uñjata uñt'ayañamawa ukat chiqpach sapa mayni pachpa pusi uñt'at jikxatañamawa. Ukhamat uñt'ata uñt'ayañax jan amuyu lurañat jaytapxi."
+  - q: "¿Kunas amuyu juegonakas aski jaqinaka tantachasiñatakix?"
+    a: "Uñt'ata yatiyañ juegos, aranakan tukuyañ jan ukax qhanawinak parlañ, sapa mayni parlañ qarta juegos tantachasiñatakix askiwa. Sapa qarta phuqhasiñ sarañamawa ukat khitis kunjamas uñt'ata jikxatañapa uñjañ jan ukax jupanakan sapa mayni jan utjañapataki."
+  - q: "¿Kunas janiw sapa mayni amuyu juegos internetan jan qhinsañani?"
+    a: "Jisa. Uñt'a juegos Picture pairs, Find the same, Photo pairs ukat Picture puzzle ukax janiw qhinsañ, janiw yatiyañ mayt'aña, ukat celular, tableta jan ukax computadora ukanakan lurasa. Janiw punku jan ukax puntaj utjkiti."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Amuyu juegos sañ thaqhasa "dementia jaqinakatakix amuyu juegos" ukar uñtasma ukhaxa, jumanakax jach'a lurañanaka tuqi uñjapxäta: pusi uñt'atanakax jan uñjatäkiti, uñt'ayañ tiempo, nivel ukat puntaj. Dementia jaqi ukatakix ukanakax amuyu ch'amanakan chiqapar sarañ ukaru puriwayi. Juegonakax ukhamarakiw kusisiñ uñt'atäpxi. Aka uñt'ayañan kunjamas lurañaxa, sapa etapa ukan askinak uñt'ayañawa.
 
-## Why do classic memory games frustrate people with dementia?
+## ¿Kunatsa amuyu juegos dementia jaqinakar ch'iqachaspa?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Juegonakax machaq yatiyanakar amuyañat sarapxi, ukax Alzheimer ukan nayrar uñjatawa, dementia ukan jach'a phuqhawinakapawa. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) yatiyi Alzheimer ukan nayrar uñjatanakapax machaq yatiyata yatxataña jan amuyañawa. Concentration klásico ukan, paqallqu uñt'atanakar uñjasa, kawkirutix uñt'at jikxatañapa amuyañama, ukat qharürunakan ukat ukar apnaqañama. Ukax machaq yatiyawa, amuyañawa ukat jikxatañawa.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Tiempo, puntaj jan ukax jan askinak uñjañ alarmanakax jaqir uñtayapxi kunatsa janiw lurañ puedkiti, jupa munat jaqinakan nayraqatapan. Walja jaqinakax chhaqhasipxi juego lurañat sartañapatak.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Uñjata uñt'ata uñt'ayañax yaqha, ukat sasa askiwa. Jupa uñjasa, qhipa qhiparuw sarañ jan ukax uñt'ata sayt'ayañ kusisiyi. Ukatwa amuyu jan lurañ, uñjata uñt'ayañ jaytañamawa.
 
-## How do you make a memory game gentle?
+## ¿Kunsa amuyu juego kusisiyañ luraña?
 
-These adjustments work for card games, board games and games on a screen.
+Aka khitinakasa juegonakar ukat tablerunakar, pantallanakar ukhamaraki apnaqañawa.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Uñt'atanakar patjanakana jaytañamawa.** Uñjata uñt'atanakar uñt'ayañax chiqapar juegowa, ukat kusisiyañawa.
+2. **Jisk'a uñt'atanakampi lurañamawa.** Pusi jan ukax kimsa parinakampi qalltañamawa. Askinak ukat jupanakax munapxi ukhaw walja uñt'atanakar ajllisiñamawa.
+3. **Jach'a, sasa, jaqinakan uñt'atanakar ajllisiñamawa.** Qhiwa uta, mirasol, yatiri uma. Qarta jan ukax jach'a pacha uñt'atanakax janiw.
+4. **Sapa mayni yanapt'añampi sarañamawa.** "Achachilanaka uñt'añäni" sasa, "jumax sarañ" sasa janiw. Mayni mayniru uñtañampi ukat yanapt'añampi.
+5. **Puntaj jaytañamawa.** Khitis ganañapa janiw. Jupa jisktaspa, "lurasktanwa" sasa aski.
+6. **Relojunak jan sarañamawa.** Tiempo uñjañ jan utjañapa, sapa mayni turnunakar jan jalsuñamawa.
+7. **Uñt'atanakat parlañamawa.** "Uka yatiri uñtasma. ¿Jumax yatiri sarnaqkaynati?" Parlañax askinakanwa.
+8. **Sum tukuyañamawa.** Uñt'ata uñt'ayañ tukuyañamawa, kusisiñ utjasa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yatiyi sapa jaqin kunas lurañapa uñjañ sasa, jan lurañ atipasa uñjañ, ukat jupan askinak uñt'añ sasa.
 
-## Gentle memory and matching games to try
+## Amuyu ukat uñt'ata juegos sarañataki
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (uñt'atanakampi uñt'ata uñt'ayaña)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) jach'a uñt'atanakampi, 4 jan 12 uñt'atanakampi juego. Uñt'atanakax uñjañ utjaspa, janiw kawkir utjatapa amuyañawa, jupa mayni uñtañawa. Pusi uñt'atanakampi qalltañamawa. Jupa sum amuyañ, ukhamarak mayni tuqinakan jan sum uñjañ sarañawa, **Uñt'at uñt'atanakax** sasa ajllisiñamawa, ukampis kusisiyañ jan utjkchi ukhaw uñt'atanakar uñjañ kutt'añamawa.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) jach'a uñt'at ukax uñjatawa, jurinak qhipan pusi jan ukax suxta mayni uñt'atanakampi. Mayni uñt'at ajllisiñamawa. Ukax uñtasa sapa mayni juegowa, ukat uñt'atanakax jan walt'ayañ jaqinakatakix askiwa, tuqinakan jaqi ukat sapa mayni jupa uñtañapa.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (familiya uñt'atanakampi amuyu juego)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) ajllisiñ uñt'atanakat juego lurawa: alkunaka, uma, qullu utjaña. Familianakan jaqinakax ukat cheqanakax parlañ kusisiyi jach'a ch'amanakat. Uñt'atanakax nayan navegadorar qhipaw utjapxi, janiw kawkiru apaqatäkiti.
 
-### Sort together
+### Mayni mayniru sarañ
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) uñt'ata sapa mayni canasta ukan saytañamawa, kawkiran utjañapa uñjañ, kuna qhana, jan ukax uma. Ukax machaq amuyañ mayt'añ janiw, sapa mayni sarnaqañ amuyu.
 
-### Picture puzzle
+### Uñt'ata rompecabezas
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) uñt'at 4 jan 9 pedazonakar t'aqhisi. Pusi pedazonak ajllisa, uñt'at chiqapar utjañkama. Uñt'at tukuya uñjat uñt'ata sasa uñjatäni.
 
-### Real cards on the table
+### Chiqapar qarta mesa ukan
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Pantalla jan wali. Qarta paqallqu jan ukax uñt'ata qarta chiqanakat uñt'ata pareja ajllisiñamawa. Pusi uñtanakan uñjata sayt'ayañamawa, ukat parejanak jikxatañamawa. Qhipatxa, color jan ukax palo uñjañamawa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yatiyi qarta juegos ukat mesa juegos nayra etapa ukan askinak ukhamarakiw.
 
-## Which memory games suit each stage?
+## ¿Kuna amuyu juegos kunjamas etapa ukan sarapxi?
 
-Stages are loose labels. Go by what the person enjoys today.
+Etapanakax janiw chiqapar sasa. Jupa khitinakansa munaski uka uñjañamawa.
 
-| Stage | Games that often fit | How to set them up |
+| Etapa | Juegos ukax askiwa | Kunjamas sayt'ayañamawa |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Nayra | Picture pairs, Photo pairs, 9 pedazonak Picture puzzle, familiar qarta juegos | Jupanakar ajllisiñamawa. Uñt'atanakax jaytañamawa jupa munasa; puntaj jan kusisiyasa jaytañamawa |
+| Tuqi | Picture pairs 4 jan 6 uñt'atanakampi patjanakana, Find the same, Sort together | Uñt'atanakax sapa uñjañamawa. Jupanakan sayt'añamawa ukat yanapt'añamawa |
+| Qhipa | Find the same 2 ajllisiñampi, jach'a uñt'at mayni mayni uñtañamawa | Jisk'a pacha. Jumax tabletar katuqañamawa; jupa uñjañamawa jan ukax lupt'añamawa |
 
-## Do memory games help with dementia?
+## ¿Amuyu juegos dementia jaqinakar yanapt'aspa?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Janiw amuyu juego jiskt'añ, jiwayañ jan ukax jan sarañ yanapt'aspkiti. [Cochrane yatxataña](https://pubmed.ncbi.nlm.nih.gov/30864747/) computadora amuyu yatiyañ uñjañataki, khitinakas amuyu jan walt'ayañ mild cognitive impairment ukan, yatiyi dementia jan puedeskapañ ukax janiw cheqapar yatiñan chiqapar utjkiti. Jumax [juegos ukat dementia](/brain-health/brain-games/) yatiñ uñjañ sarnaqañamawa, ukaw estudionakax kunatsa uñjapxi ukat janiw uñjapkiti.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ukax janiw juegos jan lurañ ukax utjkiti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yatiyi kusisiñar uñjañamawa, ganar jan uñjañ. Pä minutu uñt'at uñjaña ukat parlaña, uruna sum chiqapar pacha ukax utjañapawa.
 
-## What about memory games for seniors without dementia?
+## ¿Kunsa amuyu juegos jan dementia utjki jaqinakatakix?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Jumax amuyu jan walt'ayañ jan utjki jaqi tiempo juegos, puntaj ukat jach'a nivel juegos kusisiyasa, janiw kuna jan askiti. Ukampis janiw dementia jan utjañapatakix sarañamawa; janiw juego uñjatäkiti. Nayra sum uñjat juegos khitinakas generación mayniw sarapxi: awicha dementia ukat jilata yatiri mayni uñt'atanakampi sarapxi, janiw kawkirutix jan uñjatäkiti.
 
-## When should you stop or change the game?
+## ¿Kunapachas jaytañamawa jan ukax juego mayjt'añamawa?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Ch'iyañ, tablet jaytaña, "janiw atiktti" sasa jan ukax suma jan kusisita uñjañ, ukanakax lurañ askiwa sasa jaytañ ukat mayjt'añ. Jisk'a uñt'atanakampi yanapt'añamawa, uñt'atanakar uñjata uñt'ayañamawa, [Find the same](/games/find-the-same/) ukar mayjt'añamawa, jan ukax uñt'atanakar uñjaña ukat parlaña. Jupanakax jan juegañ munapxi ukhaxa, ukax askiwa. [Kunjamas mayni mayniru sarañ](/caregiving/how-to-play-together/) ukan sarnaqañ ukat yanapt'añ ukat walja yatiyañanakaw utjaña.

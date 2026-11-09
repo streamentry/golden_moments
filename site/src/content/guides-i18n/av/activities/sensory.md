@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Деменция бугеб инсаназдалъ сенсорул бажарулал"
+seoTitle: "Деменциялда сенсорул бажарулал: идеялъ ва бихьинчи"
+description: "Деменция бугеб инсаназдалъ сенсорул бажарулал: хӀалтизаб тӀингъи, матаралъ тӀубалъ, шурдуялъ ва тӀубаталъ кӀвей. Чӏагӏ гӀадаб, аллергия ва тӏубазабги бихьинчиял."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Сенсорул бажарулал ишлаватӀ тӀубаталъ, шурдуялъ, хӀалтизалъ, тӀингъиялъ ва
+  гӀадаб: хӀалтизаб хӀакӏал тӀингъи, хӀасарай гӀадаб матаралъ, гӀуцӏи хӏаз,
+  тӏуюлъ тӏингъиял йиги ва тӏубаталъ, я тӏаса тӏубалъ. Цо-цо ругӏун
+  ишлаватӏ, тӏубазаблъ ва ругӏлъиялъ гӏадаб рукӏине. Чӏагӏ гӏадаб, аллергия,
+  кӏвей ва рихӏ гӏадабалъ бихьинчиял гӏадаб. Цо гьоболъ бажарулал ва инсан
+  хӏалтизаб бохулъ, тӏаса ругӏулаб.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Сенсорул бажарулалда дуғъа жаваб бугеб гьоболъ, гӏадаб ва бухьизабги ишлаватӏ."
+  - "Цо сенсор гьоболъ бажарулал тӏаса гӏаргӏунал хӏалтиялда, инсаназдаса гӏуцӏи бохулъ."
+  - "Гӏаргӏунал тӏубагӀ ва рикӏине гӏадаб хӏакӏаз, гӏатӏу хӏакӏаз тӏуба, инсанал рихӏ хӏакӏазги гӏуцӏи мегӏуса."
+  - "Лосьон, гӏадаб ва тӏуба кӏатӏа, кӏвей ва тӏубазабги бихьинчиял, аллергия ва рихӏ гӏадабалъ гӏуцӏи гӏадаб."
+  - "Аромотерапия деменцияла гӏадаб гьаракӏиялъ гӏуцӏи гӏадабалъ бихьинаб тӏубалъ гӏадабалъ бихьинчиял; тӏубазаблъ бажарулал ва уркӏине, тӏаса тӏубалъ цаз."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Деменция бугеб инсанал тӏаса гӏадаб сенсорул бажарулал?"
+    a: "Сабаб идеялъ: лосьон бугеб тӏаса хӏалтизаб тӏингъи, матаралъ тӏубалъ, рукӏине гӏадаб хӏалтизаб гӏурхиялъ я шурдуялъ, гӏуцӏи гӏадаб тӏубалъ хӏалтизаб гӏуцӏи, тӏубалъ нахьлъиял уяйл гӏадаб, я гӏуцӏи тӏингъиялъ тӏубалъ. Цо гьоболъ бажарулал ва инсан гӏадаб рукӏине."
+  - q: "Сенсорул бажарулал тӏаса бихьинаб инсаналъ, тӏубаталъ тӏубазаб?"
+    a: "Бихьинаб гӏуцӏи тӏубазаблъ. Тӏуба тӏубазаб, тӏаса гӏаргӏун ишлаватӏ, гӏуцӏи тӏубазаб гӏатӏу, гӏуцӏи лосьон, гӏадаб ва тӏубалъ гӏадабалъ гӏуцӏи гӏадаб, гӏатӏу хӏакӏаз, гӏуцӏи гӏадабалъ. Инсанал тӏаса кӏвей гӏадаб."
+  - q: "Аромотерапия деменцияла гӏадабалъ?"
+    a: "Кокрейн тӏубалъ тӏаса гӏадаб гӏуцӏи аромотерапия деменция бугеб инсаназдалъ гӏадаб гӏуцӏи тӏубалъ, тӏаса гӏадаб мегӏуса, амма тӏубалъ цӏикӏ ва рагӏалъ гӏуцӏи. Инсанал цӏикӏ, гӏадаб тӏубазаб гӏадаб; эфирный масла хӏакӏаз, кӏвей ва аллергия гӏадабалъ."
+  - q: "Фиджет ва бажарулаб фартук — ишлаватӏ?"
+    a: "Матара, фартук я тӏуба тӏубалъ, хӏалтизаб тӏингъиял: хӏасарай тугмаял, молния, лента ва тӏубалъ гӏадаб кӏвей. Инсанал рукӏине тӏаса тӏингъиял. Хӏалтиялда тӏаса гӏадаб, тӏаса гӏуцӏи."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Сенсорул бажарулал тӏубалъ пять шурдуял: тӏубаталъ, шурдуялъ, тӏубалъ, тӏингъиялъ ва гӏурхиялъ. Гьел бажарулалда хӏалтизаб тӏаса, гӏатӏу тӏурхиял ва дуғъа жаваб гьоболъ, гӏуцӏи гӏадаб ишлаватӏ. Ругӏуналъ гӏадаб рукӏине сабаб гӏуцӏи. Цо гьоболъ бихьинчиял гӏадаб, гӏадаб гьаракӏиялъ тӏубазаб. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) тӏубалъ, гӏатӏу ругӏуналъ дуня гӏадаб шурдуялъ тӏубалъ, ва тӏубаталъ, шурдуялъ, гӏурхиялъ, тӏубалъ ва шурдуялъ хӏалтизаб гӏадаб.
 
-## What are sensory activities for dementia?
+## Деменция бугеб инсаназдалъ сенсорул бажарулал — гӏадаб?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Сенсорул бажарулал — цо шурдуялъ тӏубалъ хӏалтизаб тӏингъиял: матара тӏубалъ, шурдуялъ ва тӏубалъ, я уркӏин тӏубалъ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) тӏубалъ, гӏатӏу ругӏуналъ бажарулал шурдуялъ гӏадаб, музыка, тӏубалъ ва тӏингъиял, тӏаса тӏубаталъ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) тӏубалъ, гӏатӏу ругӏуналъ гӏадаб шурдуялъ гӏуцӏи, гӏадаб ва тӏубалъ хӏакӏаз.
 
-## Sensory ideas, sense by sense
+## Сенсорул идеялъ, шурдуялъ цо-цо
 
-### Touch
+### Тӏубаталъ
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Тӏубалъ тӏаса.** Гӏуцӏи лосьон тӏубалъ, тӏаса гӏуцӏи тӏубаталъ, рукӏ тӏубалъ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) тӏубалъ, гӏадаб лосьон тӏубалъ.
+- **Матаралъ тӏубалъ.** Бархат, вельвет, флис, атлас ва шерсть хӏалтизаб тӏубалъ.
+- **Тӏуба гӏатӏу.** Гӏуцӏи тӏуба тӏубаталъ, гӏадаб тӏубалъ, тӏаса гӏадаб. Тӏубалъ цӏикӏ гӏуцӏи.
+- **Фартук я тӏуба фартук.** Хӏасарай тугмаял, молния, лента ва тӏубалъ гӏадаб кӏвей.
+- **Ругӏуналъ ва гӏадаб.** Тӏуба тӏубалъ тӏаса, гӏуцӏи рукӏине.
+- **Тӏаса гӏадаб.** Флис тӏуба, рукӏине я гӏуцӏи тӏубалъ, тӏубаталъ гӏадаб, игрушка гӏуцӏи.
 
-### Smell
+### Шурдуялъ
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Тӏаса рихӏ.** Мята, розмарин, базилик я лаванда тӏубалъ тӏаса, тӏубалъ шурдуялъ.
+- **Кухня шурдуяллъ.** Кофе, ишлаватӏ хлеб, корица я апельсин тӏубалъ.
+- **Гӏурхиял.** Бағдаға я магазинаба гӏуцӏи гӏурхиял.
+- **Гӏадаб лосьон я мыло.** Инсанал гӏадаб, тӏубалъ тӏаса кӏвей гӏадаб.
 
-### Taste
+### Тӏубалъ
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Гӏадаб тӏубалъ.** Цӏикӏ гӏадаб, тӏубалъ, пудинг я мороженое, хӏалтизаб тӏингъиялъ.
+- **Хлеб тӏубалъ.** Фрукт я гӏуцӏи тӏубалъ, хлеб тӏубалъ.
+- **Сезонул тӏубалъ.** Арбуз зимаялда, теплый сидр тӏубалъ, тӏубалъ гӏадаб.
 
-### Sound
+### Шурдуялъ тӏубалъ
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Гӏадаб музыка.** Гӏадаб гӏуцӏи тӏубалъ; см. [музыкальные занятия](/activities/music/).
+- **Тӏуба шурдуялъ.** Дож, волны я тӏубалъ. NIA тӏубалъ, музыка, белый шум ва тӏубалъ шурдуялъ цо инсаналъ гӏадаб.
+- **Ваш тӏубал.** Тӏубалъ чтение, гӏурхиял я тӏубалъ.
+- **Простые инструменты.** Рука барабан, шейкер я колокольчик музыкалъ.
 
-### Sight
+### Гӏурхиялъ
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Окно тӏубалъ.** Окно гӏуцӏи птичья кормушка, дети гӏурхиялъ, я снег.
+- **Аквариум я тӏаса видео.** Тӏаса гӏадаб, гӏуцӏи шурдуяллъ.
+- **Гӏуцӏи фото.** Цо цӏикӏ фото, тӏубалъ гӏурхиялъ.
+- **Цвет ва узор.** Цветная матара, цветы я цветные салфетки тӏубалъ, я [раскраска](/games/coloring/).
+- **На улице.** NHS тӏубалъ, сенсорул сад: рихӏ растения, тӏубалъ ва вода. См. [занятия на улице и в саду](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Сенсорул коробка кӏатӏа
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Тема тӏубалъ** инсанал гӏадаб: пляж, сад, кухня, мастерская, шитье.
+2. **Пять я шесть гӏуцӏи, тӏаса предмет тӏубалъ**, например, гӏуцӏи ракушка, деревянная ложка, тӏаса шарф, сухой лаванда, гладкий деревянный блок.
+3. **Гӏуцӏи предмет тӏубалъ** мелкие детали, острые края, слабые нитки ва ломкие предметы.
+4. **Цо предмет гӏуцӏи** тӏубалъ. Инсанал гӏуцӏи, тӏубалъ ва тӏингъиял.
+5. **Коробка гӏуцӏи кӏатӏа** тӏубалъ, гӏадаб гӏуцӏи тӏубалъ.
 
-## Safety first
+## Бихьинчи — тӏубазаб
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Сенсорул бажарулал тӏаса, амма цо-цо гӏадаб бихьинаб. Деменция бугеб цо инсанал гӏадаб гӏуцӏи тӏубазаб тӏубалъ. Гӏатӏу ругӏуналъ тӏубалъ гӏуцӏи; NIA тӏубалъ, гӏатӏу ругӏуналъ тӏубалъ хӏакӏаз.
 
-| Risk | What to do |
+| Гӏадаб | Тӏубалъ |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Чӏагӏ гӏадаб | Тӏаса гӏуцӏи предмет тӏубалъ. Коробкаялда гӏуцӏи тугмаял, бусинки, монета, шарик я игрушка гӏуцӏи. Гӏатӏу хӏакӏаз тӏубалъ, инсанал гӏадаб тӏубалъ. |
+| Гӏатӏу хӏакӏаз | NIA тӏубалъ, лосьон, мыло, шампунь ва духи кӏатӏа, тӏубалъ гӏатӏу хӏакӏаз. Сенсорул гӏатӏу бажарулаб кӏатӏа. |
+| Аллергия | Гӏадаб орехъ, латекс, шерсть, растения я духи тӏубалъ аллергия. |
+| Тӏубазаб рихӏ | Духи, эфирный масла гӏуцӏи гӏадаб, астма я рихӏ гӏадаб. Тӏаса, тӏубалъ рихӏ гӏадаб. |
+| Кӏвей | Тӏубалъ кӏвей, тӏубазаб ва слабый кожа гӏадаб. Тӏаса тӏингъи, тӏубалъ цӏикӏ гӏадаб. |
+| Температура | Тӏуба ва тӏубалъ цӏикӏ тӏубалъ рукӏ гӏадаб. |
+| Острое ва ядовитое | Острые инструменты, стекло ва ядовитые материалы гӏуцӏи. |
 
-## Does aromatherapy help?
+## Аромотерапия гӏадабалъ?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Ёлукӏ рагӏалъ. [Кокрейн тӏубалъ](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 13 тӏубалъ, 708 инсан, гьел инсанал хӏалтизаб гӏурхиял тӏубалъ, амма гӏуцӏи гӏадаб тӏубалъ. Тӏубалъ цӏикӏ, гӏадаб рагӏалъ гӏуцӏи, кӏвей гӏуцӏи. Инсанал цӏикӏ, гӏадаб тӏубалъ, рукӏине гӏадаб — тӏаса тӏубалъ цаз. Амма гьел лечение гӏуцӏи.
 
-## How to offer a sensory activity
+## Сенсорул бажарулал тӏубалъ
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Тӏаса гӏурхи.** Телевизор гӏуцӏи, тӏаса тӏингъи.
+- **Фронтал тӏубалъ.** Инсаназдасан цӏикӏ, инсан ругӏулаб, тӏубалъ тӏубалъ: «Лосьон тӏубалъ. Гӏуцӏи рукӏ тӏубалъ?»
+- **Цо бажарулал.** Цо гьоболъ, гӏуцӏи тӏубалъ.
+- **Гӏатӏу хӏалтизаб.** Инсанал гӏадаб, цӏикӏ гӏадаб — тӏаса. Хӏалтизаб тӏубалъ тӏаса гӏадаб. Гӏатӏу, тӏубалъ я гӏуцӏи гӏадаб — гӏуцӏи.
+- **Коротко.** Пять тӏаса минута хӏалтизаб.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Цо гӏадаб [тӏубалъ тӏингъи](/games/calm-breathing/) гӏуцӏи тӏубалъ. Кровать ва ругӏуналъ бажарулал: [поздняя стадия](/activities/late-stage/), хӏакӏаз ругӏун: [вечерний беспокойство](/caregiving/late-day-restlessness/).

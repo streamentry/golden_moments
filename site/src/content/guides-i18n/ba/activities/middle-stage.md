@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Урта стадиялы деменция өсөн эшмәкәрлектәр"
+seoTitle: "Урта стадиялы деменция: ябай эшмәкәрлек идеялары"
+description: "Урта стадиялы деменция өсөн ябай эшмәкәрлектәр: файҙалы эштәр, музыка, фотолар һәм ябай уйындар, әҙерләү аҙымдары һәм ҡуҙғалыуҙы эшкә йүнәлтеү."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Деменцияның урта стадияһында иң яҡшы эшмәкәрлектәр — ҡыҫҡа, таныш һәм бер
+  аҙымлы булалар: күлмәк йыйыу, оҙайлы ағастарҙы тәртипкә һалыу, ҡап-ҡасыҡ
+  йыуыу, йырлау, йыйылған сәйәхәттәр, фотоальбомдар һәм ябай һүрәт уйындары.
+  Әҙерләгеҙ, беренсе аҙымды күрһәтегеҙ, ауыр өлөштө үҙегеҙ алығыҙ һәм
+  эшмәкәрлеккә маҡсат бирегеҙ. Ошо эш ятымлы булмаған ваҡытта туҡтағыҙ.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Таныш өй эштәре күпселек осракта иң яҡшы эшләй, сөнки улар файҙалы һәм ололарса тойола."
+  - "Әйтеп ҡарағанды күрһәтегеҙ, бер ваҡытта бер аҙым тәҡдим итегеҙ һәм асыҡ һорауҙар урынына ике ябай вариант бирегеҙ."
+  - "Иң ауыр өлөштө үҙегеҙ алығыҙ, шул саҡта кеше ҡәнәғәтлек биргән өлөштө башҡара ала."
+  - "Тынғыһыҙ тәртип, күпселек осракта, кешенең ниҙер эшләргә кәрәклеген аңлата. «Юҡ» тип әйтеү урынына, шундай эшмәкәрлек тәҡдим итегеҙ."
+  - "Ҡарап ултырыу, бер аҙ ярҙам итеү йәки алдараҡ туҡтау — барыһы ла дөрөҫ."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Урта стадиялы деменцияла нинди эшмәкәрлектәр яраҡлы?"
+    a: "Ҡыҫҡа, таныш, ҡул менән эшләнгән эшмәкәрлектәр күпселек осракта яҡшы була: сепрәк бөрөү, оҙайлы ағастарҙы пар итеү, ҡап-ҡасыҡ йыуыу, аш өҫтәлен әҙерләү, иҫке яратҡан йырҙарҙы бергә йырлау, йыйылған сәйәхәттәр, фотоальбомдарға ҡарау һәм ябай һүрәт уйындары. Һәр береһен ҡыҫҡа аҙымдарға бүлеп, бергәләп башҡарығыҙ."
+  - q: "Деменция менән йәшәгән кешене эшмәкәрлекте башларға нисек ындырырға?"
+    a: "Бар нәмәне әҙер итеп ҡуйығыҙ, аҙаҡ эшмәкәрлекте үҙегеҙ башлағыҙ һәм ярҙам итергә сакырығыҙ: «Был сепрәктәрҙе бергәләп йыйырға ярҙам итә алаһығыҙмы?» Күп кеше ҡатнашырға теләй, ләкин башлау ауыр тоға. Беренсе аҙымды күрһәтеү, аңлатыуҙан әһәмиәтлерәк."
+  - q: "Улар бер нәмәне берәй-ике тапҡыр ҡабатлаһа, нишләргә?"
+    a: "Ҡабатлау күпселек осракта зарарһыҙ була һәм кешенең үҙен файҙалы тойоу теләген йә яҡынлыҡ һәм тыныслыҡ кәрәклеген күрһәтергә мөмкин. Төҙәтеү урынына, хәрәкәткә тап килгән эшмәкәрлек тәҡдим итегеҙ, мәҫәлән, йыйыр өсөн ҡулъяулыҡтар себеше йә бергәләп йырлар өсөн йыр."
+  - q: "Улар эшмәкәрлекте дөрөҫ башҡармаһа, нишләү кәрәк?"
+    a: "Зарарһыҙ булһа, үҙ хәленә ҡалдырығыҙ. Сепрәктәрҙең башҡа төрлө бөрөлгәндә йә ҡалаҡтарҙың урынын ялғыш табыуы мөһим түгел. Төҙәтеү ғәйепләү кеүек тойолорға мөмкин, ә уларҙың үҙ юлы менән эшләүе үҙҙәрен һәләтле һәм файҙалы тойорға ярҙам итә."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Деменцияның урта стадияһы күпселек осракта иң оҙон булыуы менән билдәләнә, һәм ошо ваҡытта эшмәкәрлектәргә реаль ярҙам кәрәк була. Һүҙҙәр еңелерәк килмәй, аҙымдар иҫтән сығырға мөмкин, башлау ҙа ауыр тойола. Ләкин файҙалы булыу һәм ҡатнашыу теләге, ғәҙәттә, һаҡлана. Бер аҙ әҙерлек менән урта стадияла торған кеше әле лә бик күп нәмәгә ҡыуана ала, айырыуса таныш эштәрҙә, музыкала һәм һүрәттәрҙә, һеҙ менән яңы-яңы бергә ултырғанда.
 
-## What activities work well in middle-stage dementia?
+## Урта стадиялы деменцияла нинди эшмәкәрлектәр яҡшы эшләй?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Ҡыҫҡа, таныш, ҡул менән эшләнгән һәм бер аҙымлы эшмәкәрлектәр иң яҡшы була. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) аңлатыуынса, яңы нәмәләр уйлап табырға кәрәк түгел: эшмәкәрлектәр көнкүреш өлөшө булырға мөмкин, мәҫәлән, ашарға әҙерләү, баҡсала эшләү, музыка тыңлау йәки йөрөп сығыу.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) билдәләүенсә, был стадияла кешеләр күпселек осракта файҙалы булыу йәки ниҙер ҡарау ихтыяжын ҡайтанан кисерә, һәм эшмәкәрлекте башлау йәки дауам итеү өсөн ярҙам кәрәк була. Уның урта стадия исемлегенә сепрәк йыйыу, ҡап-ҡасыҡ йыуыу, оҙайлы ағастарҙы тәртипкә һалыу, ябай физкультура, таныш музыка оҫтаһында бейеү, йыйылған сәйәхәттәр, йырлау, ябай буяу һәм фотоальбомдарға ҡарау инә.
 
-## How do you set up an activity so it works?
+## Эшмәкәрлекте ныҡ эшләр өсөн нисек әҙерләргә?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Күп эшмәкәрлек уның әҙерләнеүенән тора. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) һәм [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) тәҡдим иткән ошо ғәҙәттәр иң ҙур айырма яһай:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Урынды бушатығыҙ.** Телевизорҙы һүндерегеҙ, ишекте ябығыҙ һәм эшмәкәрлеккә кәрәклеләрен генә ҡуйығыҙ.
+2. **Үҙегеҙ башлағыҙ.** Сепрәк бөрөргә йә аш ҡатыртырға тотонғоҙ, аҙаҡ уларҙы ҡушылырға сакырығыҙ: «Миңә ярҙам итә алаһығыҙмы?»
+3. **Күрһәтегеҙ, аҙаҡ көтөгөҙ.** Бер аҙымды күрһәтегеҙ. Бармағығыҙ менән күрһәтегеҙ йә ҡулығыҙ менән йүнәлтегеҙ, мәҫәлән, тәңгәлгә нисек ҡуйырға кәрәклеген.
+4. **Бер ваҡытта бер аҙым бирегеҙ.** «Уны ике тапҡыр бөклә» тип әйтеү, «былар ҙа төҫкә ҡарап йыйып ҡуй» тигәнгә ҡарағанда еңелерәк.
+5. **Асыҡ һорау урынына ике вариант бирегеҙ.** «Зәңгәр һөлгөләрме, әллә аҡмы?» тип һорау, «Нимә эшләргә теләйһегеҙ?» тигәнгә ҡарағанда яуап биреү еңелерәк.
+6. **Ауыр өлөштө үҙегеҙ башҡарығыҙ.** Һеҙ үлсәйһегеҙ, улар ҡатыртһын. Һеҙ инә ептән үткәрәһегеҙ, улар ептәрҙе урап ҡуйһын.
+7. **Сәбәп бирегеҙ.** «Был салфеткалар йәкшәмбе аш өсөн» тип әйтеү эште сәйер түгел, ә мәғәнәле итә.
+8. **Теләһәләр, ҡарап торорға ирекле булһын.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) билдәләүенсә, ҡарап ултырыу ҙа ошаҡлы була ала.
 
-## Activity ideas for the middle stage
+## Урта стадия өсөн эшмәкәрлек идеялары
 
-### Useful jobs
+### Файҙалы эштәр
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Сепрәк һәм ҡулъяулыҡ бөрөгөҙ.** Бәләкәй, яҫы әйберҙәр иң еңел. Йылы ҡулъяулыҡтар себеше бөрөлә, тигеҙләнә һәм ҡабаттан бөрөлә ала.
+- **Ағастарҙы пар итеп йыйығыҙ.** Бер нисә бик төрлө пар менән башлағыҙ. Төҫкә генә ҡарап тәртипкә һалыу ҙа яраҡлы.
+- **Һынмаған ҡап-ҡасыҡты йыуығыҙ йә киптерегеҙ.** Йылы, һабынлы һыу ҡулға ярай. Ултырып киптереү аяҡтар өсөн еңелерәк.
+- **Аш өҫтәлен әҙерләгеҙ.** Бер ваҡытта бер төр әйбер бирегеҙ һәм бер урынды үҙегеҙ өлгө итеп ҡуйығыҙ.
+- **Ашарға әҙерләүгә ярҙам итегеҙ.** Картуф йыуыу, һалат тартыу йә таҙа ҡаҡтырыу. Пышаҡ һәм ут менән эште үҙегеҙ башҡарығыҙ.
+- **Һөртөгөҙ, ҡырғыс йә һөртөгөҙ.** Өҫтәл өсөн мамыҡ, таҡталар өсөн еңел һыпырғыс.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Күберәк өсөн [өй эштәре](/activities/household-tasks/) битенә ҡарағыҙ.
 
-### Music and movement
+### Музыка һәм хәрәкәт
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Иҫке яратҡан йырҙар.** Үҙегеҙ йырлай башлағыҙ; күп кеше дистә йылдар белгән йырҙарға ҡушыла. Ҡарағыҙ: [музыка эшмәкәрлектәре](/activities/music/).
+- **Ирекле бейеү.** Тирбәлегеҙ, ҡул шаптырығыҙ йә теләгәнсә хәрәкәтләнегеҙ. Ултырып та була.
+- **Бәләкәй шар ташлағыҙ.** Ул әкрен осһа, ултырғанда тотоу еңел.
+- **Йыйылған сәйәхәт яһағыҙ.** Бергәләп бер ҡыҫҡа, таныш түңәрәк юл менән йөрөгөҙ, кәрәк булһа, ҡулдар бәйләп.
 
-### Pictures and stories
+### Һүрәттәр һәм хикәйәләр
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Фотоальбомға ҡарағыҙ.** Һорау бирмәй, күргәндәрегеҙ тураһында әйтегеҙ: «Был машинаға ҡарағыҙ. Миңә һөйләп бирегеҙ әле.» Ҡарағыҙ: [иҫтәлекле эшмәкәрлектәр](/activities/reminiscence/).
+- **Һөйләшеү карталарын ҡулланығыҙ.** [Һөйләшеү карталары](/games/conversation-cards/) һүрәтте асыҡ, тикшереү түгел, ябай һорау менән бәйләй.
+- **Бергәләп иҫке фильм ҡарағыҙ.** Таныш берәүен һайлағыҙ, яҡын ултырығыҙ һәм арауыҡтар өсөн туҡтап торғоҙ.
 
-### Simple, pressure-free games
+### Ябай, баҫым яһамаған уйындар
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Һүрәт парҙары, һүрәттәр күренеп торғанда.** [Һүрәт парҙары](/games/picture-pairs/) һүрәттәрҙе күренеп тороусан ҡалдыра, шуға күрә ул иҫтә тотоу түгел, ә иғтибар итеү хаҡында.
+- **Шул бер үк һүрәтте табығыҙ.** [Шул бер үк табыу](/games/find-the-same/) бер һүрәт күрһәтә һәм ике-дүрт вариант ҡына бирә.
+- **Бергәләп тәртипкә һалығыҙ.** [Бергәләп тәртипкә һалыу](/games/sort-together/) — экранда кер йыйыу кеүек: һүрәткә баҫығыҙ, аҙаҡ уның себеренә.
+- **Һүрәт бинго.** [Һүрәт бинго](/games/picture-bingo/) ғаилә йыйылыштары һәм төркөмдәр өсөн яҡшы тора.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Әгәр уйын ыҙа килтерә башлаһа, туҡтағыҙ һәм башҡа нәмә эшләгеҙ. Ҡарағыҙ: [бергә уйнау ысулы](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Тынғыһыҙлыҡты эшмәкәрлеккә әйләндереү
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Тынғыһыҙ йәки ҡабатланыусы тәртиптең күпселек осракта сәбәбе бар. Family Caregiver Alliance билдәләүенсә, шкафты ҡабат-ҡабат ҡараған кеше, бәлки, үҙенең файҙалы һәм мәшғүл булыу ихтыяжын ҡәнәғәтләндерергә теләйҙер. Alzheimer's Association был энергияны туҡтатыу урынына, уға тап килгән эшмәкәрлеккә йүнәлтергә кәңәш итә.
 
-| What you see | Something to offer |
+| Нимә күрәһегеҙ | Нимә тәҡдим итергә |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Өҫтәлде тырнау йә ҡырыу | Нымлы мамыҡ һәм өҫтәлде һөртөргә һорау |
+| Тынғыһыҙ аяҡтар йә бармаҡтар шаптырыуы | Шаптырыр йә ҡул шаптырыр өсөн анһат ритмлы музыка |
+| Ынйыҡтарҙы йә шкафтарҙы ҡарау | Бөрөр һәм тәртипкә һалыр өсөн кейемдәр йә ҡулъяулыҡтар себеше |
+| Шул бер һорауҙы ҡабат бирә | Йәм-йөмшәк тыныслыҡ, аҙаҡ бергәләп йыр йә эш |
+| Бүлмәнән бүлмәгә йөрөү | Бергә йөрөү, йәки әйберҙәр күтәреүгә бәйле эш |
+| Төштән һуң борсолоу | Яҡты урында тыныс, таныш эш; ҡарағыҙ: [төштән һуңғы тынғыһыҙлыҡ](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Ҡасан туҡтарға йәки юлды үҙгәртергә
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Ҡалып бөтөүҙең билдәләре күренгәндә туҡтағыҙ: ялҡыу, борсолоу, ояттан тороу йә булдыра алмауҙан тороу — мәҫәлән, ҡыбырлау, йөҙ ҡыҫыу, әйберҙәрҙе ситкә этеү йә «Мин булдыра алмайым» тип әйтеү. Alzheimer's Association башҡа вакытта йәки эште ябайыраҡ итеп ҡабатларға кәңәш итә. Көсләмәгеҙ. Баш тартыу ҡурҡыуҙан йә эштең бик ауыр булыуынан килергә мөмкин; ҡарағыҙ: [ҡасан «юҡ» тип әйтә](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Вакытлы туҡтау ҙа яҡшы. Шулай уҡ сәй эскәндә генә бергә ултырыу ҙа ҡиммәтле. Һәләттәр өҫтәрәк үҙгәргәндә, [һуңғы стадия эшмәкәрлектәре](/activities/late-stage/) яраҡлыраҡ булыуы ихтимал, ә [101 эшмәкәрлек](/activities/ideas/) битендә һынап ҡарар өсөн тағы күп идеялар бар.

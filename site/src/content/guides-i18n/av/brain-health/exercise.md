@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Физическая активность и мозг: что показали исследования и как двигаться безопасно"
+seoTitle: "Физкультура и деменция: что говорят исследования"
+description: "Какую связь находят исследования между физической активностью и риском деменции, и какие безопасные и приятные движения подходят пожилым людям и людям с деменцией."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Исследования связывают регулярную физическую активность с меньшим риском деменции, а Лансетская комиссия 2024 года относит физическую неактивность к 14 факторам риска, на которые можно влиять. Испытания не доказали, что физкультура предотвращает деменцию. Движение всё равно помогает силе, равновесию, настроению и сну, поэтому прогулки, упражнения на стуле и танцы полезны сами по себе. Прежде чем начинать что-то новое, посоветуйтесь с врачом.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Физически активные люди в среднем реже заболевают деменцией, но это в основном показывают наблюдательные исследования, а не испытания."
+  - "Пятилетнее испытание упражнений среди пожилых людей не выявило заметной разницы в памяти и мышлении между группами."
+  - "Рекомендации CDC для взрослых старше 65 лет включают аэробные упражнения, упражнения на силу мышц и равновесие, и говорят, что немного активности лучше, чем её отсутствие."
+  - "Для людей с деменцией важнее короткие, знакомые движения вместе с близкими, например ежедневная прогулка или игры сидя, чем какая-либо норма."
+  - "Более одного из четырёх пожилых людей падает каждый год, поэтому сначала нужны упражнения на равновесие и безопасное место."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Может ли физкультура предотвратить деменцию?"
+    a: "Этого никто не может обещать. Многие исследования связывают активный образ жизни с меньшим риском деменции, но клинические испытания не показали, что физкультура её предотвращает. У физкультуры есть много других доказанных преимуществ, поэтому заниматься ею всё равно стоит."
+  - q: "Безопасно ли заниматься физкультурой человеку с деменцией?"
+    a: "Обычно да, но нужно заранее всё продумать. Национальный институт старения советует сначала показать человека врачу, выбрать удобную обувь, предлагать воду и делать короткие занятия. Остановитесь, если человек устал, неуверенно держится на ногах или расстроен."
+  - q: "Какие упражнения можно делать сидя?"
+    a: "Среди сидячих вариантов растяжка или йога на стуле, перекидывание воздушного шарика или мягкого мяча, бросание мешочков с фасолью, поднятие банок с супом, упражнения с эластичными лентами и педальные тренажёры. Они хорошо подходят, если ходить уже трудно."
+  - q: "Что делать, если человек не хочет двигаться?"
+    a: "Не настаивайте. Попробуйте позже, присоединитесь к движению сами, включите знакомую музыку или сделайте движение частью дела, например подметания или полива растений. Короткая прогулка до почтового ящика тоже считается, как и простое совместное сидение на улице."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Физическая активность — одна из самых изученных привычек для здоровья мозга. Исследования связывают её с меньшим риском деменции, но они не доказали, что физкультура предотвращает деменцию. Зато точно известно, что движение помогает силе, равновесию, настроению и сну в любом возрасте. На этой странице рассказано, что показывают исследования, сколько движения рекомендуют пожилым людям и какие мягкие способы двигаться можно попробовать вместе с человеком, который живёт с деменцией.
 
-## Does exercise lower the risk of dementia?
+## Снижает ли физкультура риск деменции?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Исследования показывают, что физически активные люди реже заболевают деменцией, но доказательства здесь ограничены. [Лансетская комиссия 2024 года по деменции](https://doi.org/10.1016/S0140-6736(24)01296-0) относит физическую неактивность к 14 факторам риска, на которые можно влиять. По её модели, эти 14 факторов вместе связаны примерно с 45% случаев деменции в мире.
 
-Here is what the evidence looks like:
+Вот как выглядят доказательства:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Наблюдательные исследования идут в одном направлении.** Обзор 58 исследований, о котором пишет Комиссия, показал, что физически активные люди имели примерно на 20% меньший риск деменции. Самая большая разница была между людьми, которые почти не двигались, и теми, кто хотя бы немного двигался.
+- **Связь может работать в обе стороны.** Комиссия отмечает, что малоподвижность может повышать риск. Также она отмечает, что ранние изменения мозга при деменции, которые начинаются за годы до диагноза, могут снижать активность человека.
+- **Испытания показывают менее ясную картину.** В одном испытании 945 пожилых людей в среднем 78 лет в течение пяти лет дважды в неделю занимались под наблюдением, а другая группа не занималась. В конце мышление заметно не различалось между группами. Многие в контрольной группе тоже были активны, поэтому результат труднее понять.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Национальный институт старения (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) говорит прямо: чёткой связи между физической активностью и предотвращением болезни Альцгеймера не показано, а данных испытаний недостаточно, чтобы утверждать, что физкультура её предотвращает или замедляет. При этом физкультура снижает риск падений, депрессии, диабета, высокого давления и инсульта. Некоторые из этих состояний сами связаны со снижением познавательных способностей.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Честный вывод такой: двигайтесь, потому что это помогает вам лучше себя чувствовать и справляться с делами уже сейчас. Польза для мозга — возможный бонус, а не обещание.
 
-## How much activity do older adults need?
+## Сколько движения нужно пожилым людям?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Рекомендации CDC для взрослых старше 65 лет](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) предлагают три вида активности в неделю:
 
-| Type | Weekly amount | Examples |
+| Вид | Сколько в неделю | Примеры |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аэробная | Не менее 150 минут умеренной активности, например по 30 минут 5 дней | Быстрая ходьба, танцы, аквааэробика |
+| Укрепление мышц | Не менее 2 дней, с нагрузкой на все основные группы мышц | Подъём лёгких гантелей или банок с супом, растяжка с лентами |
+| Равновесие | Регулярно | Ходьба носок к пятке, вставание со стула |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Это ориентиры, а не условия допуска. CDC говорит, что если вы не можете выполнить их, нужно двигаться настолько, насколько позволяют силы и здоровье. Немного активности лучше, чем её отсутствие.
 
-## Gentle ways to move for older adults
+## Мягкие способы двигаться для пожилых людей
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Гуляйте в компании.** Ежедневная прогулка с подругой, соседом или в группе ходьбы добавляет разговор и безопасность.
+- **Упражнения на стуле.** Поднятие рук в стороны, круговые движения стопами, ходьба на месте и йога на стуле укрепляют тело без риска потерять равновесие.
+- **Танцы на кухне.** Включите музыку, которая нравилась человеку в юности, и покачивайтесь, хлопайте в ладоши или делайте шаги. В нашем [руководстве по музыкальным занятиям](/activities/music/) есть идеи.
+- **Силовые упражнения с бытовыми предметами.** Поднимайте наполненные бутылки с водой или банки с супом, пока смотрите любимую передачу.
+- **Работа в саду и по дому.** Полив растений, уборка листьев, подметание и складывание белья — всё это считается. См. [занятия на улице и в саду](/activities/outdoor-and-gardening/) и [домашние дела](/activities/household-tasks/).
+- **Упражнения в воде.** NIA называет занятия аквааэробикой одним из вариантов для тех, кому тяжело заниматься на суше из-за суставов.
 
-## How to exercise with someone living with dementia
+## Как заниматься физкультурой с человеком, который живёт с деменцией
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Для человека с деменцией главное — комфорт, удовольствие и сохранение привычных навыков, а не достижение какой-то цифры. NIA говорит, что физическая активность помогает поддерживать мышцы, суставы и сердце людей с болезнью Альцгеймера в хорошей форме, а также может улучшить настроение и сон. Прежде чем начинать новый режим, покажитесь врачу. Советы из [руководства NIA для ухаживающих](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf):
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Гуляйте вместе каждый день.** Выбирайте безопасный знакомый маршрут без препятствий. Если человек ходит один, хорошей мыслью будет браслет с идентификацией и вашим телефоном.
+2. **Пробуйте видеоупражнения для пожилых людей.** Повторяйте их вместе, сидя или стоя.
+3. **Делайте короткие занятия.** Несколько коротких «мини-тренировок» могут подойти лучше одной длинной.
+4. **Добавляйте музыку.** Знакомые песни делают движение похожим на занятие, а не на обязанность. Танцуйте, если человеку это нравится.
+5. **Предлагайте воду и удобную обувь.** Давайте воду или сок во время и после занятий, выбирайте удобную одежду и обувь, подходящую по размеру.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Если ходить трудно, в [руководстве NIA по уходу за человеком с болезнью Альцгеймера](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) предлагаются варианты сидя. Среди них упражнения или йога на стуле, бросание мешочков с фасолью, перекидывание мягкого мяча или воздушного шарика, эластичные ленты, поднятие лёгких бытовых предметов и педальные тренажёры. Простые дела, например подметание и вытирание пыли, тоже считаются.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Будьте реалистичны в ожиданиях. Лансетская комиссия не нашла доказательств того, что физкультура уменьшает поведенческие изменения, такие как беспокойство. Двигайтесь вместе, потому что это может быть приятно, а не чтобы исправить трудный день. Если человек говорит «нет», это нормально. Наше руководство [о том, что делать, когда человек отказывается](/caregiving/when-they-say-no/), содержит мягкие способы попробовать позже. Закончить раньше или просто посидеть вместе на улице — тоже хороший результат.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+После движения спокойная пауза, например [Спокойное дыхание](/games/calm-breathing/), поможет вам обоим успокоиться. Для занятия сидя с мягкими движениями рук за столом хорошо подходят [Разложи вместе](/games/sort-together/) и [Картинки-лото](/games/picture-bingo/).
 
-## Balance and fall safety
+## Равновесие и безопасность от падений
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Падения распространены и серьёзны. [Отчёты CDC](https://www.cdc.gov/falls/data-research/facts-stats/index.html) сообщают, что более одного из четырёх пожилых людей падает каждый год, но меньше половины из них рассказывают об этом врачу. Однократное падение удваивает шанс упасть снова. Факторы риска, которые перечисляет CDC:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Слабость ног и бёдер
+- Трудности с ходьбой и равновесием
+- Некоторые лекарства, в том числе успокаивающие и некоторые антидепрессанты
+- Проблемы со зрением
+- Боль в стопах или неудобная обувь
+- Опасности дома, такие как беспорядок, ковровые дорожки и сломанные ступени
 
-To move more safely:
+Чтобы двигаться безопаснее:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Используйте устойчивый стул** без колёсиков и держите рядом стол или поручень для упражнений стоя.
+- **Сначала освободите место** от ковриков, проводов и вещей, мешающих ходить.
+- **Вставайте медленно** и остановитесь, если человек чувствует головокружение или неуверенность.
+- **Надевайте обувь с хорошей фиксацией**, а не носки или свободные тапочки.
+- **Занимайтесь равновесием рядом с опорой.** Вставание со стула и ходьба носок к пятке — примеры упражнений на равновесие по классификации CDC.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC советует пожилому человеку, который упал и ударился головой, сразу обратиться к врачу, особенно если он принимает антикоагулянты.
 
-## Talk with a doctor
+## Поговорите с врачом
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Покажитесь врачу, прежде чем начинать новый режим упражнений, особенно если у человека есть проблемы с сердцем или лёгкими, боль в суставах, нарушения равновесия или деменция. Врач или физиотерапевт может подсказать безопасные занятия и проверить, влияют ли лекарства на равновесие. Расскажите врачу о любом падении, даже без травмы. Если во время занятий что-то болит или вам плохо, остановитесь. При внезапной боли в груди, трудностях с дыханием или внезапном спутанном сознании звоните в экстренную службу по номеру 112.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Эта страница содержит общую информацию и не является медицинской консультацией. См. нашу [медицинскую оговорку](/medical-disclaimer/). Чтобы узнать больше, прочитайте [что исследования говорят о факторах риска деменции](/brain-health/risk-factors/) и [можно ли предотвратить деменцию](/brain-health/can-dementia-be-prevented/).

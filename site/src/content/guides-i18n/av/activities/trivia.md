@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Простые викторины для пожилых с деменцией, без давления"
+seoTitle: "Вопросы-викторины для пожилых с деменцией, с ответами"
+description: "50 простых вопросов для пожилых с деменцией: варианты ответов, темы для разговора и как проводить викторину, чтобы никто не чувствовал проверки."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Простая викторина для пожилых с деменцией помогает, когда она похожа на
+  беседу, а не на экзамен. Спрашивайте о том, что человек узнал давно: о старых
+  песнях, поговорках, праздниках и повседневной жизни. Всегда предлагайте два
+  или три варианта. Называйте ответ спокойно, никого не выделяйте, не ведите
+  счёт и используйте каждый ответ, чтобы начать рассказ. Вопросы «это или то» без
+  неправильного ответа подходят на поздних стадиях.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Спрашивайте о давно знакомом: песни, поговорки, праздники, еда и повседневная жизнь из прошлых лет."
+  - "Предлагайте два или три варианта, чтобы ответ можно было узнать, а не вспоминать."
+  - "Назовите ответ тепло и переходите дальше. Любая догадка, которая начинает рассказ, — хорошая догадка."
+  - "Без очков, без соревнования команд и без вызова одного человека. Пусть ответы звучат от всей комнаты."
+  - "Если выбирать ответ становится трудно, переходите к вопросам «это или то», где нет правильного ответа."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Подходит ли викторина людям с деменцией?"
+    a: "Может подходить, если проводить её мягко. Alzheimer's Foundation of America относит викторину к занятиям для ранней стадии. Задавайте вопросы о давно знакомых темах, предлагайте варианты, никогда не ставьте одного человека в неловкое положение и воспринимайте ответы как способ начать разговор, а не как проверку."
+  - q: "Какие темы лучше всего работают в викторине для людей с деменцией?"
+    a: "Лучше всего работает то, что человек узнал давно: популярные песни и исполнители из его молодости, знакомые поговорки, праздники, еда, спорт и повседневная жизнь, например доставка молока и дисковые телефоны. Избегайте свежих новостей и всего, что требует вспомнить что-то сказанное раньше в этом же занятии."
+  - q: "Как провести викторину в доме престарелых, чтобы никому не было неловко?"
+    a: "Читайте каждый вопрос всей группе, показывайте или проговаривайте варианты и принимайте ответы от любого. Не вызывайте людей по именам и не ведите счёт. Назовите ответ с улыбкой, какой бы ни была догадка, и задайте уточняющий вопрос, например: «Кто здесь когда-нибудь ходил в кинотеатр под открытым небом?», чтобы разговор перешёл в истории."
+  - q: "Что делать вместо викторины на поздних стадиях?"
+    a: "Переходите к вопросам без неправильного ответа, например: «Кофе или чай?» или «Пляж или горы?», а также к совместному дописыванию знакомых поговорок и песен. Хорошо работает и рассматривание фотографий с совместным описанием."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Викторина — одно из самых часто просимых групповых занятий в домах престарелых и дневных центрах, и многие семьи играют в неё и за кухонным столом. Если играть по привычной схеме, с очками и одним человеком, который отвечает, человек с деменцией может почувствовать себя в центре внимания против своей воли. Если играть мягко, это живой способ услышать истории. Ниже 50 простых вопросов с вариантами ответов и темами для разговора, а затем — как проводить занятие.
 
-## How do you make trivia work for someone with dementia?
+## Как сделать викторину полезной для человека с деменцией?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Пусть она будет о том, чтобы узнавать и вспоминать давние вещи, и пусть каждый ответ будет принят с благодарностью.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Спрашивайте о далёком прошлом.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) говорит, что самый частый ранний симптом болезни Альцгеймера — трудности с запоминанием недавно полученной информации. Песни, поговорки и повседневная жизнь из прошлых десятилетий часто даются легче.
+2. **Всегда давайте варианты.** Выбрать правильный ответ из двух или трёх гораздо проще, чем назвать его без подсказки.
+3. **Читайте вопросы вслух и показывайте их крупно.** Доска или планшет, поднятый перед глазами, помогают тем, кто плохо слышит.
+4. **Называйте ответ свободно.** Если никто не знает, скажите ответ тепло и идите дальше. Никогда не говорите: «Ну же, вы ведь знаете».
+5. **Без счёта.** Ни для отдельных людей, ни для столов. Если людям хочется цифры, ведите один общий счёт для группы.
+6. **Никогда не вызывайте одного человека.** Пусть отвечает любой. При общении один на один отвечайте вместе: «Думаю, это пианино. Как вам кажется?»
+7. **Используйте тему для разговора.** Ответ — это начало, а не конец. Главная цель — истории.
+8. **Держите занятие коротким.** Десяти вопросов с историями между ними вполне достаточно.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) формулирует главное правило просто: следите за раздражением и добивайтесь того, чтобы человек чувствовал успех. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) относит викторину к занятиям для ранней стадии. На средней стадии оставляйте два варианта и опирайтесь на темы для разговора. Позже переходите к вопросам «это или то», которые приведены ниже.
 
-## Music and entertainment trivia
+## Викторина о музыке и развлечениях
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Ответ выделен **жирным**. Подбирайте вопросы под человека: тот, кто вырос на Motown, захочет других исполнителей, чем тот, кто вырос на больших оркестрах.
 
-| Question | Choices | Talk about |
+| Вопрос | Варианты | Тема для разговора |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Кого называли королём рок-н-ролла? | **Элвис Пресли**, Фрэнк Синатра, Бинг Кросби | Вы когда-нибудь видели Элвиса по телевизору? |
+| Какого певца прозвали Ol' Blue Eyes? | Дин Мартин, **Фрэнк Синатра**, Перри Комо | Какая песня Синатры вам нравится больше всего? |
+| Бинг Кросби мечтал о белом... | **Рождестве**, свадьбе, доме | Споём вместе одну строчку |
+| Луи Армстронг пел «What a Wonderful...» | Day, **World**, Life | Что в мире кажется вам чудесным? |
+| Джуди Гарленд пела «Over the Rainbow» в каком фильме? | **«Волшебник страны Оз»**, «Унесённые ветром», «Поющие под дождём» | Где вы смотрели свои любимые фильмы? |
+| Кто играл Люси в «I Love Lucy»? | **Люсиль Болл**, Дорис Дэй, Бетти Уайт | Какие передачи ваша семья смотрела вместе? |
+| Какой ковбой ездил на лошади по кличке Trigger? | **Рой Роджерс**, Джин Отри, Джон Уэйн | Вы в детстве играли в ковбоев? |
+| Кто вёл «The Tonight Show» 30 лет? | Эд Салливан, **Джонни Карсон**, Боб Хоуп | Вы допоздна смотрели телевизор? |
+| У какого инструмента 88 клавиш? | Гитара, **пианино**, труба | Кто в вашей семье играл на инструменте? |
+| Какой танец считается на раз-два-три, раз-два-три? | **Вальс**, твист, танго | Где вы ходили танцевать? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Больше о музыке см. [музыкальные занятия при деменции](/activities/music/).
 
-## Everyday life trivia
+## Викторина о повседневной жизни
 
-| Question | Choices | Talk about |
+| Вопрос | Варианты | Тема для разговора |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| До появления холодильников еду в домах часто хранили в... | **Леднике**, духовке, на чердаке | Кто привозил лёд? |
+| Кто приносил молоко к двери в стеклянных бутылках? | Почтальон, **молочник**, разносчик газет | Что ещё привозили в дом? |
+| Как набирали номер на дисковом телефоне? | Нажимали кнопки, **крутили диск**, говорили с ним | Расскажите о телефоне в вашем доме |
+| Какая компания выпускала автомобиль Model T? | **Ford**, Chevrolet, Buick | Расскажите о машине, которая вам нравилась |
+| Где можно было найти soda jerk? | **У газированной стойки**, в пекарне, в банке | Что вы заказывали у стойки? |
+| Какая игрушка — металлическая пружина, которая спускается по лестнице? | Йо-йо, **слинки**, хула-хуп | Какие игрушки вы любили? |
+| Drive-in — это место, где смотрят... | **Фильмы из машины**, бейсбольные матчи, парады | С кем вы туда ходили? |
+| Чьё лицо на однодолларовой купюре? | Линкольн, **Джордж Вашингтон**, Джефферсон | Что на доллар можно было купить тогда? |
+| Чьё лицо на центе? | **Авраам Линкольн**, Вашингтон, Франклин | Вы в детстве копили центы в банке? |
+| Какой обычно бывает школьный автобус? | Красный, **жёлтый**, синий | Как вы добирались до школы? |
 
-## Holidays, nature and places
+## Праздники, природа и места
 
-| Question | Choices | Talk about |
+| Вопрос | Варианты | Тема для разговора |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Какой праздник приходится на четвёртый четверг ноября? | День труда, **День благодарения**, День памяти | Что всегда было на вашем столе? |
+| Тыквенные фонарики делают к какому празднику? | **Хэллоуин**, Пасха, Рождество | Расскажите о Хэллоуине там, где вы выросли |
+| 4 июля отмечают принятие Декларации... | Прав, **независимости**, свободы | Где вы смотрели фейерверки? |
+| В каком месяце День матери? | Апрель, **май**, июнь | Как ваша семья отмечала этот день? |
+| Сколько звёзд на флаге США? | 48, **50**, 52 | До 1959 года звёзд было 48. Любой ответ — хорошее воспоминание |
+| Какой океан у восточного побережья? | Тихий, **Атлантический**, Северный Ледовитый | Вы когда-нибудь ездили на море? |
+| В каком городе стоит статуя Свободы? | Бостон, **Нью-Йорк**, Филадельфия | Вы бывали в Нью-Йорке? |
+| Что делают пчёлы? | Молоко, **мёд**, шёлк | Мёд на тосте или в чае? |
+| Как называется детёныш коровы? | Жеребёнок, **телёнок**, козлёнок | Вы когда-нибудь жили рядом с фермой? |
+| Какой высокий жёлтый цветок известен тем, что поворачивается к солнцу? | Роза, **подсолнух**, тюльпан | Что росло в вашем саду? |
+| Сколько дней в високосном году? | 365, **366**, 360 | Расскажите о дне рождения, который вы помните |
+| Какое время года идёт после зимы? | Осень, **весна**, лето | Какое время года вам нравится больше всего? |
 
-## Food and sports trivia
+## Еда и спорт
 
-| Question | Choices | Talk about |
+| Вопрос | Варианты | Тема для разговора |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Изюм — это сушёный... | Слива, **виноград**, вишня | Вы клали изюм в обеды? |
+| Чернослив — это сушёная... | **Слива**, инжир, яблоко | Кто в вашей семье любил чернослив? |
+| Арахисовое масло и... | **Джем**, сыр, ветчина | Хрустящее или гладкое? |
+| Гуакамоле в основном делают из... | Гороха, **авокадо**, огурцов | Какие соусы подавали на вечеринках? |
+| Какой пирог любят на День благодарения? | **Тыквенный**, лимонный, вишнёвый | Какой пирог пекли вы? |
+| Сколько игроков в бейсбольной команде на поле? | 7, **9**, 11 | За какую команду вы болели? |
+| Сколько страйков дают аут в бейсболе? | Два, **три**, четыре | Вы сами когда-нибудь играли в мяч? |
+| Чем был знаменит Бейб Рут? | Боксом, **бейсболом**, гольфом | Вы ходили на бейсбольные матчи? |
+| Сколько лунок на стандартном поле для гольфа? | 9, **18**, 24 | Вы когда-нибудь играли в гольф или мини-гольф? |
+| В каком виде спорта засчитывают тачдаун? | **Футбол**, хоккей, баскетбол | Кто у вас дома смотрел футбол? |
 
-## Familiar sayings
+## Знакомые поговорки
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Продолжить поговорку опирается на язык, усвоенный давно, и часто это даётся легко. В нашей игре [Finish the saying](/games/finish-the-saying/) таких поговорок много, а при нажатии показывается окончание.
 
-| Saying | Choices | Talk about |
+| Поговорка | Варианты | Тема для разговора |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Яблоко в день — и... | **врач не нужен**, дождь прочь, кошка прочь | Кто так говорил вам? |
+| Ранняя птица ловит... | Автобус, **червяка**, поезд | Вы рано встаёте? |
+| Не считай цыплят, пока они не... | **Вылупились**, уснули, запели | Ваша семья держала кур? |
+| Копейка рубль... | **бережёт**, теряет, тратит | Кто в вашей семье был экономным? |
+| Дом там, где... | Сад, **сердце**, кухня | Что делает место домом? |
+| Лучше поздно, чем... | Рано, **никогда**, с извинениями | Кто всегда опаздывал? |
+| Нет худа без... | **добра**, ложки, монеты | Расскажите о счастливом случае |
+| Поступки говорят громче... | **слов**, музыки, грома | Расскажите о человеке, который так говорил |
 
-## This-or-that questions with no wrong answer
+## Вопросы «это или то» без неправильного ответа
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Такие вопросы подходят на любой стадии, в том числе на поздней, потому что здесь нечего угадывать. Спросите, послушайте и поделитесь и своим ответом.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Кофе или чай?
+- Пляж или горы?
+- Собаки или кошки?
+- Лето или зима?
+- Пирог или торт?
+- Танцевать или смотреть?
+- Рассвет или закат?
+- Крыльцо или задний двор?
+- Радио или пластинки?
+- Блины или яичница?
+- Розы или ромашки?
+- Поездка на поезде или на машине?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Для разговоров с картинками попробуйте распечатываемые [Conversation cards](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Как провести викторину в доме престарелых или в группе?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Рассаживайте людей так, чтобы они видели и слышали.** Слуховые аппараты в ушах, очки на носу, телевизор выключен.
+2. **Представьте занятие как беседу.** «У меня есть вопросы о старых временах, и я уверен, что вы знаете больше меня».
+3. **Читайте каждый вопрос дважды и показывайте варианты крупно.**
+4. **Принимайте ответы с любого места в комнате.** Повторяйте удачные ответы, чтобы всё услышали.
+5. **Назовите ответ для всех,** а затем задайте тему для разговора всей комнате.
+6. **Следуйте за настроением группы.** Если один вопрос порождает десять минут историй, пусть так и будет.
+7. **Закончите песней или раундом «это или то»,** чтобы все завершили занятие на чём-то лёгком.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Другие форматы для групп, включая картинки-бинго и совместное пение, см. в разделе [групповые занятия для домов престарелых](/activities/care-home-groups/).
 
-## When to change the plan
+## Когда менять план
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Если человек выглядит встревоженным, замолкает или больше одного раза говорит «не знаю», упростите задание: оставьте два варианта, отвечайте вместе или переходите к вопросам «это или то». Если группа хочет весь день говорить об одном вопросе, это тоже успех. Цель никогда не состояла в правильных ответах. Она в том, чтобы провести время в хорошей компании.

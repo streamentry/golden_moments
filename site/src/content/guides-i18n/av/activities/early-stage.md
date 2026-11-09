@@ -1,32 +1,31 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Активностиял деменциялъул башлъ этапалда"
+seoTitle: "Деменциялъул башлъ этапалда активностиял: ругӀуналли ишал"
+description: "Деменциялъул башлъ этапалда активностиялъул ишал: хӀалтӀал, ўйнал, гӀадатӀалъ, ругӀуналлъи ва бугеб лъикӀал сабаб, гьабулел инсан хъуллабизе ва гьес бук тӀалъабизе."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Деменциялъул башлъ этапалда инсанасул гьарай-ругӀуналлъи жанибе, хӀалтӀал,
+  карталъ ва хӀалтӀал ўйнал, гӀадатӀалъ, гӀелъ, гӀаргалъ ва ругӀуналлъи гьарайзабизе
+  бугеб. ЛъикӀал тӀалъабизе бугел: ругӀуналлъи гьарай, кӀудияб гьарай ва
+  ругӀуналлъи гӀалимал бугеб. Инсан бугел, гьес рехсарал ругӀуналлъи рехсарал.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Башлъ этапалда инсанал бутӀа гьарайзе бугеб. Активностиял кӀудиял гьабизе бугеб, гьабизе бугеб ругӀуналлъи."
+  - "Инсан бугел, гьес хъуллабизе бугеб, ва гьес кӀалъ гӀалимал гьарайзе лъикӀал гӀалимал."
+  - "КӀудияб гьарай, кӀалъ бугеб ва кӀудияб гьарай-ругӀуналлъи гьабизе бугеб."
+  - "Башлъ этапалда инсан гьарайзе бугеб, гьес бутӀа гьарайзе бугеб: гӀадатӀалъ ва гӀадатӀалъул ругӀуналлъи."
+  - "Ўйнал ругӀуналлъи гьабизе бугеб. ГӀадат тӀалъабизе, кӀвалалъ ругӀуналлъи бугеб."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Башлъ этапалда деменциялъ лъикӀал активностиял мугӀрузулдаса?"
+    a: "Гьелъ гьабулел инсан гьарайзе ругӀуналлъи лъикӀал: карталъ, хӀалтӀал ўйнал, хӀадиял, гӀадатӀалъ, гӀадатӀалъул ишал, музыка, рухӀалъ гьарай, клубалъ ва гӀелъ. КӀалъ, кӀудияб ва рехсарал гьабизе бугеб. ГӀадатӀалъ, гӀелъ ва гӀадатӀалъ гьабизе лъикӀал."
+  - q: "Заговарал бугел, гьес гьарайзабизе ва бутӀа гӀадатӀалъ тӀалъабизе?"
+    a: "Гьес гьарайзе бугеб, гьес хъуллабизе бугеб. Гьабизе бугеб ругӀуналлъи гӀалимал, гьес хъуллабизе бугеб, например хӀалтӀал ўйнал. Рехсарал гьарайзе, гьес гьарайзе, гьес гӀалимал хъуллабизе."
+  - q: "Башлъ этапалда деменциялъул инсан гӀадатӀалъ тӀалъабизе?"
+    a: "Гьес хъуллабизе бугеб. ГӀадатӀалъ ругӀуналлъи лъикӀал, амма гьес кӀудияб гьабизе бугеб: например кӀудияб гьарай-ругӀуналлъи, рухӀалъ классалъ ва хӀалтӀал ругӀуналлъи. Бугел кӀудиял гьабизе, гьес рехсарал тӀалъабизе."
+  - q: "Башлъ этапалда мугӀрузул ўйнал, гьарайзе ругӀуналлъи лъикӀал?"
+    a: "Гьес хъуллабизе бугеб. Ўйнал ва хӀалтӀал гьарайзе ругӀуналлъи. Гьеб гьарайзе гьабулел ругӀуналлъи ругӀуналлъи. Ўйнал деменциялъ тӀалъабизе, кӀвалалъ, гьес гьарайзе бугел. Ўйнал кӀвалалъ, гьес тӀалъабизе рехсарал."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +47,73 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Деменциялъул башлъ этапалда гьабулел инсанал бутӀа гьарайзе бугеб. Гьес рушан, гьарай-ругӀуналлъи, гӀадатӀалъ ва хӀалтӀал гьарайзе бугеб. Активностиял кӀудиял гьабизе бугеб, амма гьеб ругӀуналлъи гьабизе лъикӀал. Гьарайзе бугеб ругӀуналлъи гӀалимал, гьес гьарайзе бугеб, гьес кӀудиял хъуллабизе бугеб.
 
-## What activities are good in early-stage dementia?
+## Башлъ этапалда кӀудиял активностиял?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Башлъ этапалда лъикӀал активностиял гьабулел инсан хъуллабизе бугеб, гьес гьарайзе бугеб кӀудияб. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) гьабулел ругӀуналлъи: карталъ ва хӀалтӀал ўйнал, гьарайзе хӀадиял, ўйнал, гӀадатӀалъ, цветалъ гьарай, рухӀалъ гьарай, гӀелъ, гӀаргалъ, гӀадатӀалъ, гӀадатӀалъул ишал, гӀадат ва гӀадатӀалъ.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+КӀудияб гьарай гьабулел, амма активностиял гьабулел. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) гьабулел: башлъ этапалда инсан гьарай-ругӀуналлъи тӀалъабизе бугеб, гьес кӀудиял гьарай. Гьес кӀвалалъ ругӀуналлъи гьабизе бугеб. Гьес кӀвалалъ тӀалъабизе, гьес рехсарал ругӀуналлъи гьабизе.
 
-## Ask first, and agree on how to help
+## Гьарайзе бугеб ва хъуллабизе бугеб
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) башлъ этапалда гьабулел гӀадат:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **ТӀалъабизе.** "Гьес клубалда ругӀуналлъи кӀудияб гьабизе?" гьелъ хъуллабизе бугеб.
+- **Гьес бутӀа бугеб.** Гьес гьарайзе бугеб, гьес хъуллабизе бугеб, гьес гьарайзабизе.
+- **ГӀалимал гьарайзе.** Гьес гьарайзе бугеб, гьес хъуллабизе: например, гьес гьарайзе гьабизе, гьес гӀалимал хъуллабизе.
+- **Гьарайзе гьабизе.** Гьес хъуллабизе: гьес кӀудияб гьабизе, гьес гӀалимал ругӀуналлъи гьабизе.
 
-## Activity ideas for the early stage
+## Активностияб ишал башлъ этапалда
 
-### Keep up roles and hobbies
+### РугӀуналлъи ва гӀадатӀалъ тӀалъабизе
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Гьарай ругӀуналлъи.** КӀвалалъ ругӀуналлъи гьабизе, гьес хӀалтӀал ва клуб гьабизе. КӀудияб гьабизе, гьес рехсарал гьабизе.
+- **ГӀалимал гьарайзе.** Гьес гӀадатӀалъ ругӀуналлъи гьабизе, гьес хӀадиял гьабизе. Alzheimer's Association гьабулел: гьес гьарайзе бугеб.
+- **Гьабизе ва гӀадатӀалъ.** Гьес гӀадатӀалъ гьабизе. Ишал тӀалъабизе кӀудияб.
+- **Гьарайзе.** Гьарай, гьабизе бугеб. Гьес гьарайзе бугеб.
+- **Гьарай ругӀуналлъи.** ГӀадатӀалъ, гӀелъ, гӀаргалъ, гьабизе кӀудияб.
 
-### Games for enjoyment
+### Ўйнал ругӀуналлъи гьабизе
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Карталъ ва хӀалтӀал ўйнал.** Рехсарал ўйнал лъикӀал. Гьес гьарайзе, гьес кӀудияб.
+- **ХӀалтӀал гьарайзе.** Гьес хӀалтӀал гьарайзе бугеб, гьес [word search](/games/word-search/) гьабизе.
+- **Пазлал гьабизе.** Гьес кӀудияб гьабизе. [Picture puzzle](/games/picture-puzzle/) гьабулел, ва [puzzles for dementia](/activities/puzzles/) гьабизе.
+- **Викторина.** Гьес ругӀуналлъи гьабизе. Гьес кӀудияб гьабизе, гьес [easy trivia questions](/activities/trivia/) гьабизе.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Ўйнал ругӀуналлъи гьабизе. Ўйнал деменциялъ тӀалъабизе бугеб ва гьес кӀудиял гьабизе. Гьеб [brain games: what the research says](/brain-health/brain-games/) гьабулел.
 
-### Write, reflect and record
+### Гьарай, тӀалъабизе ва гьабизе
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **ГӀадатӀалъ.** Alzheimer's Association гьабулел: гӀадатӀалъ гьабизе. Гьес кӀвалалъ гьабизе.
+- **ГӀадатӀалъул ишал.** Инсан гьес гьарайзе бугеб, гьес хӀадиял ва гӀадатӀалъ гьабизе. [Reminiscence activities](/activities/reminiscence/) гьабулел.
+- **ГӀелъ.** Гьес гӀелъ гьабизе, гьес гӀалимал ва гӀадатӀалъ.
+- **Фотоал гьабизе.** [Photo pairs](/games/photo-pairs/) гьабулел, ва [conversation cards](/games/conversation-cards/) гьабулел.
 
-### Go out and move
+### Гьарайзе ва гӀадатӀалъ гьабизе
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) гьабулел: гьес гьарайзе бугеб, гьес гӀадатӀалъ гьабизе. Гьес кӀудияб гьабизе.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **ГӀадатӀалъ.** Музей, кино, выставка, кӀудияб гьабизе.
+- **РугӀуналлъи.** NIA гьабулел: бассейн кӀудияб.
+- **Гьарайзе ва тӀалъабизе.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) гьабулел: танец, тай-чи, йога, бассейн, гьарай.
+- **ХӀалтӀал ва гӀадатӀалъ.** Инсан гьарайзе, гьес гьарайзе.
 
-## Small changes that keep activities enjoyable
+## КӀудиял гьабизе ругӀуналлъи
 
-| If this is getting harder | Try this |
+| Гьеб кӀудияб | Гьабизе |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| КӀудияб, ҳархӀал | КӀудияб гьабизе, кӀудияб гӀалимал, гьарай кӀудияб |
+| Гьарайзе ругӀуналлъи | Гьарайзе ругӀуналлъи, гьабизе ругӀуналлъи |
+| Гьарайзе гӀадатӀалъ | Гьабизе, гӀадатӀалъ гьабизе |
+| Гьарайзе | Гьарайзе, рехсарал гьабизе |
+| Ўйнал | РугӀуналлъи, кӀудияб гьабизе |
+| Гьарайзе ишал | Гьес хъуллабизе, гьес гӀалимал гьабизе |
 
-## When to slow down
+## Гьарайзе ва рехсарал гьабизе
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Гьарайзе, гьарай, гьабизе кӀудияб бугеб, гьеб гьабизе. Гьарай гьабизе, гьес тӀалъабизе, гьарайзе. Гьарай гьабизе кӀудияб, гьес гьарайзе рехсарал. Гьес гьарайзе кӀудияб гьабизе, гьес гьарайзе рехсарал.
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+[middle-stage activities](/activities/middle-stage/) гьабулел, ва [communication tips](/caregiving/communication-tips/) гьабулел, ва [101 activities](/activities/ideas/) гьабулел.
+
+Гьарайзе гӀалимал гьабизе бугеб. Башлъ этапалда гьарайзе ругӀуналлъи гьабизе лъикӀал. Гьес гьарайзе [caregiver self-care](/caregiving/caregiver-self-care/) гьабулел.

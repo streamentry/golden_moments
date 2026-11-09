@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Деменция өсөн баҫтырыла торған әүҙемлектәр"
+seoTitle: "Деменция өсөн баҫтырыла торған әүҙемлектәр: зур хәрефтәр"
+description: "Деменция өсөн бушлай баҫтырыла торған әүҙемлектәр: зур хәрефтәр менән һүҙ эҙләү, буяу биттәре, сөхбәт карталары һәм рәсемле бинго. Баҫтырыу кәңәштәре."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments деменция өсөн бушлай баҫтырыла торған әүҙемлектәр тәҡдим итә:
+  зур хәрефтәр менән һүҙ эҙләү, буяу биттәре, рәсемле сөхбәт карталары һәм
+  рәсемле бинго карталары. Теләһә ниндәй уйын биттәрен асып, уның Баҫтырыу
+  төймәһен ҡулланығыҙ. Ҡалын ҡағыҙға, ап-асыҡ зур хәрефтәр менән баҫтырығыҙ,
+  һәр биттә бер генә эш ҡуйығыҙ, ә҆ҡыҙҙырырға теләгән биттәрҙе ламинатлағыҙ.
+  Һыҙмаһы ябай өй баҫтырмалары, мәҫәлән, ғүмер хикәйәһе биты йәки көндәлек
+  графикан, шулай уҡ ярҙам итә.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Баҫтырыла торған әүҙемлектәребеҙ бушлай: һүҙ эҙләү, буяу, сөхбәт карталары һәм рәсемле бинго. Һәр уйын битенең Баҫтырыу төймәһе бар."
+  - "Зур, ябай хәрефтәр менән һәм яҡшы контраст менән баҫтырығыҙ, һәр биттә бер генә эш ҡуйығыҙ."
+  - "Ҡалын ҡағыҙ йәки картон ҡулда тотоуға еңелерәк һәм тиҙ йыртылмай. Биттәрҙе ҡабаттан ҡулланыр өсөн ламинатлағыҙ һәм маркер менән яҙығыҙ."
+  - "Өй баҫтырмалары, мәҫәлән, ғүмер хикәйәһе биты, көндәлек графика йәки ишек өҫтөндәге рәсемле яҙмалар ябай һәм файҙалы."
+  - "Баҫтырылған бит — ул ҡуйыу, эш түгел. Уның бер өлөшөн йәки бөтөнләй эшләмәүегеҙ ҙә яҡшы."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Деменция өсөн баҫтырыла торған әүҙемлектәр бушлаймы?"
+    a: "Эйе. Был сайттағы һүҙ эҙләү, буяу, сөхбәт карталары һәм рәсемле бинго биттәре бушлай ҡулланыла һәм баҫтырыла ала. Уйын битен асығыҙ һәм Баҫтырыу төймәһен ҡулланығыҙ."
+  - q: "Деменция өсөн ҡайһы баҫтырыла торған әүҙемлектәр иң яҡшы?"
+    a: "Иң яҡшыһы — ябай, асыҡ һәм олатауҙарға ярашлы материалдар: һүҙ эҙләү, унда һүҙҙәр бары тик буйға һәм туғанға ғына урынлашҡан зур хәрефтәр менән; асыҡ контурлы буяу биттәре; сөхбәт башлаусы рәсемле карталар; төркөм өсөн рәсемле бинго. Әүҙемлекте кешенең ҡыҙыҡһыныуҙарына һәм хәҙерге мөмкинлектәренә ярашлы һайлағыҙ, һәм бер биттә бер генә эш ҡуйығыҙ."
+  - q: "Баҫтырылған материалдарҙы нисек күрергә һәм файҙаланырға еңелерәк итергә?"
+    a: "Зур, ябай хәрефтәр, аҡ йәки кремһыу ҡағыҙҙа ҡараһы ҡара бер һыя һәм бушлыҡ күберәк. Бит яҡшы ятһын өсөн ҡалын ҡағыҙ йәки картон ҡулланығыҙ, йылтыраҡты кәметер өсөн матовый ҡағыҙ һайлағыҙ, биттең ҡуҙғалмауы өсөн планшет йәки сыҙамай килемле коврик ҡулланығыҙ. Ламинациялау биттәрҙең оҙағыраҡ торорға ярҙам итә."
+  - q: "Һеҙҙең әүҙемлектәрҙе карт йортоноң йәки көндөҙгө программаның баҫтырырға мөмкинме?"
+    a: "Эйе. Әүҙемлек буйынса хеҙмәткәрҙәр биттәрҙе кешеләр һәм төркөмдәр өсөн баҫтырырға хушлы. Рәсемле бинго төркөмдәр өсөн эшләнгән һәм телевизорҙа йәки проекторҙа күрһәтергә мөмкин булған экран алыпһы ҡушыла."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Кайһы waҡыттарҙа иң яҡшы әүҙемлек — кухня эҫтәленең өҫтөндә ҡағыҙ менән ҡәләм. Баҫтырылған материалдарға ҡеүәт бирергә кәрәкмәй, парол ҙа, экран ҙа кәрәкмәй, уларҙы ҡунаҡҡа йәки төркөмгә алып барыу еңел. Был биттә беҙҙең сайттағы бушлай баҫтырыла торған әүҙемлектәр, уларҙы күренеүе һәм тотоуы еңел булһын өсөн нисек баҫтырырға, һәм ғаиләләр менән әүҙемлек хеҙмәткәрҙәре файҙаланған ябай өй баҫтырмалары тураһында яҙылған.
 
-## What free printable activities do you offer?
+## Ниндәй бушлай баҫтырыла торған әүҙемлектәр бар?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Беҙҙә дүрт бушлай баҫтырма бар. Теләһә ниндәй уйын битен асып, **Баҫтырыу** төймәһен баҫығыҙ — баҫтырыуға ыңғай вариант асыласаҡ.
 
-| Printable | What it is | Good for |
+| Баҫтырма | Был нимә | Нимә өсөн яраҡлы |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Һүҙ эҙләү](/games/word-search/) | Зур хәрефтәр менән һүҙ эҙләү, һүҙҙәр бары тик буйға һәм туғанға урынлашҡан | Ҡәләм менән тыныс ваҡыт; фекерләүҙе яраткан кеше |
+| [Буяу](/games/coloring/) | Баҫтырыр өсөн буяу биттәре, йәки экранда буяу | Рәхәт, ижади ваҡыт; ярҙам менән теләһә ниндәй этапта |
+| [Сөхбәт карталары](/games/conversation-cards/) | Асыҡ, сәләмәт һорауһыҙ сөхбәт башлаусы тема буйынса рәсемле карталар | Ҡунаҡлар, шылтыратыуҙар, ғаилә аш-һыуы, ғүмер хәтирәләре төркөмдәре |
+| [Рәсемле бинго](/games/picture-bingo/) | Һандар урынына рәсемле бинго карталары, шулай уҡ экран алыпһы | Карт йорттар, көндөҙгө программалар, ғаилә йыйылыштары |
 
-### Large-print word search
+### Зур хәрефтәр менән һүҙ эҙләү
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Һүҙ эҙләү](/games/word-search/) зур хәрефтәр ҡуллана һәм һүҙҙәрҙе бары тик буйға һәм туғанға урынлаштыра, диагональ һәм артҡа яҙылған һүҙҙәр юҡ. Уны бергәләп эшләгеҙ: бер кеше исемлектән һүҙ уҡый, икенсеһе уны эҙләй. Һүҙҙәрҙе табыу ауыр булһа, һәр һүҙҙең беренсе хәрефен бергәләп түңәрәкләп ҡарағыҙ йәки һүҙҙәр исемлеген ҡысҡырып уҡып, һәр һүҙ тураһында һөйләшегеҙ.
 
-### Coloring pages
+### Буяу биттәре
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Буяу](/games/coloring/) биттәрен маркерҙар йәки буяу ҡәләмдәре өсөн баҫтырырға мөмкин, йәки планшетта рәңгә баҫып, һуңынан рәсемдең бер өлөшөн баҫып буярға мөмкин. Баҫтырылған биттәр өсөн ҡалын маркерҙар һәм бер юлы бер нисә төҫ тәҡдим итегеҙ. Буяуҙы олатауға ярашлы һәм рәхәт итеү юлдарын [ижади эш юлламаһынан](/activities/arts-and-crafts/) ҡарағыҙ.
 
-### Conversation cards
+### Сөхбәт карталары
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Сөхбәт карталары](/games/conversation-cards/) асыҡ һорау менән ап-асыҡ рәсемде бергә ҡуя, мәҫәлән, «Миңә һөйләп бир...» йәки «Нимә күрәһең?». Улар сынауҙағы һорауҙар түгел, ә асыҡ һәм ҡунаҡсыл ысул итеп яҙылған. Бер комплект баҫтырығыҙ, айырығыҙ һәм ҡунаҡ килгәндә йәки шылтыратҡанда һумкала йәки телефон янында аҙ ғына тотоғоҙ. Улар [ғүмер хәтирәләре](/activities/reminiscence/) төркөмдәрендә лә яҡшы эшләй.
 
-### Picture bingo cards
+### Рәсемле бинго карталары
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Рәсемле бинго](/games/picture-bingo/) карталары һандар урынына рәсемдәр ҡуллана. Һәр уйынсыға бер карточ баҫтырығыҙ һәм ноутбукта, телевизорҙа йәки проекторҙа экран алыпһын ҡулланығыҙ. Барыһының картоҙы тулғансы әйтеүҙе дауам итергә тәҡдим итәбеҙ, шулай итеп берәү ҙә ситтә ҡалмаҫ. Сессияны нисек үткәрергә, [карт йорттар өсөн төркөм әүҙемлектәре](/activities/care-home-groups/) бүлегенән ҡарағыҙ.
 
-## How do I print activities so they are easy to use?
+## Баҫтырылған әүҙемлектәрҙе ҡулланыу өсөн нисек баҫтырырға?
 
-Small changes in how you print make a big difference.
+Баҫтырыу ысулындағы ваҡ үҙгәрештәр ҙур айырма килтерә.
 
-### Make it easy to see
+### Күрергә еңел итеү
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Зур, ябай хәрефтәр.** Биттә һыйған иң ҙур хәреф ҙурлығын ҡулланығыҙ. Нәҡышлы йәки ҡул хәрефтәрен ҡулланмағыҙ.
+- **Ҡаты контраст.** Аҡ йәки кремһыу ҡағыҙҙа ҡараһы ҡара һыя. Һоро йәки төҫлө фонды ҡулланмағыҙ.
+- **Матовый ҡағыҙ** яҡты яҡтыртҡанда йылтыраҡты кәметә.
+- **Күҙлек һәм яҡтыртыуҙы тикшерегеҙ.** Alzheimer's Association иҫкәрткәндән, күреү һәм ишетеү проблемалары аралашыуҙы ҡыйынлаштыра, шуға күрә уларҙы үҙ ваҡытында тикшертеү кәрәк. Яҡты, тигеҙ яҡтыртыу лампаһы ла ярҙам итә.
 
-### Make it easy to hold
+### Тотоуы еңел итеү
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Ҡалын ҡағыҙ йәки картон** тигеҙ ята, алырға еңел һәм ҡабат-ҡабат ҡулланыуға түҙә.
+- **Планшет** йәки сыҙамай килемле коврик бит шыуышыуын туҡтата.
+- **Ҡалын маркерҙар йәки йыуан ҡурғаш ҡәләмдәр** юрамал ҡәләмдәргә ҡарағанда тотоуға еңелерәк.
 
-### Make it reusable
+### Ҡабат ҡулланыуға яраҡлы итеү
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Биттәрҙе ламинатлағыҙ** йәки аныҡ ҡапланмаларға һалығыҙ. Һүҙ эҙләү һәм бинго карталарында ҡоро маркер ҡулланығыҙ, аҙаҡ һөртөп таҙартығыҙ.
+- **Йылтыраҡ булмаған ҡапталдарҙы һайлағыҙ**, әгәр яҡтыртыу мәшәҡәт булһа, һәм ламинатланған карталарҙың ҡырҙарын ҡайсы менән түңәрәкләп, тотоуға рәхәт итегеҙ.
+- **Яраттарҙың папкаһын тотоғоҙ**, шулай итеп һәр аҙна бер үк битте яңынан баҫтырмаҫһығыҙ.
 
-### Keep it simple
+### Ябай тотоғоҙ
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Бер биттә бер эш.** Бер һүҙ эҙләү йәки бер рәсем, бер нисә әүҙемлек бергә тығыҙлап ҡуймайынса.
+- **Бушлыҡ күп булһын.** Тығыҙ бит кешене ҡыйнап ебәрергә мөмкин.
+- **Уҡырға мәжбүр итмәгеҙ, мөмкин булһа.** Кешегә нимә эшләргә кәрәклеген күрһәтегеҙ, аңлатманың урынына.
+- **Биттәрҙе кәметегеҙ.** Тулы бит артыҡ булһа, уны ике өлөшкә кисегеҙ йәки бөгөгөҙ, шулай итеп бер өлөшө генә күренһен.
 
-## Other useful printables you can make at home
+## Өйҙә яһай ала торған файҙалы баҫтырмалар
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Һәр файҙалы баҫтырма уйын түгел. Улар текст мөхәррирләүе һәм принтер менән еңел эшләнә.
 
-### A life-story page
+### Ғүмер хикәйәһе биты
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Фотоһы, кешенең яратҡан исеме, нисек үҫкәне, эше, ғаиләһе, яратҡан ашы, музыкаһы һәм ни йыуатҡанын йә ни борсолдорғанын күрһәткән бер биттән торған «Мин тураһында» баҫмаһы. Dementia Australia ҡунаҡтарға һәм хеҙмәт күрһәтеүселәргә ярҙам итеү һәм һөйләшеүгә этәреү өсөн кешенең тормошо, яратҡан нәмәләре һәм мөһим кешеләре тураһында [хәтирә китабы](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) яҙырға тәҡдим итә.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Ул айырыуса доктор ҡарауханаларында һәм яңы хеҙмәт урындарында файҙалы. NIA ҡарауханаға кешенең режимы, яҡшы күргән исеме, яратҡан һәм ошамаған нәмәләре, мөмкин булған ҡуҙғатыусыларҙы һәм ауыртыуҙы һүҙһеҙ билдәләрен үҙ эсенә алған [шәхси мәғлүмәт биттәрен](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) бирергә тәҡдим итә.
 
-### A daily schedule
+### Көндәлек график
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Көн өсөн ваҡыттары, бер нисә һүҙе һәм һәр өлөшө өсөн бер кисек рәсеме булған ҙур, ябай график: иртәнге аш, йөрөш, төш аш, ял, музыка, киске аш. Alzheimer's Association-ның [көндәлек ҡараш планы](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) кешенең иң яҡшы ваҡыттарын иҫәпкә алып планлаштырырға, даими уяныу һәм йоҡлау ваҡыттарын, әүҙемлек менән ялдың тигеҙлеген тәҡдим итә. Уны күҙ кимәлендә, мәҫәлән, һалҡынлатҡыс ишегенә элегеҙ һәм уны үҙгәртеп торорға әҙер булығыҙ. Күберәк өсөн [көндәлек тәртип буйынса ҡулланмабыҙҙы](/activities/daily-routine/) ҡарағыҙ.
 
-### Picture labels for rooms and drawers
+### Бүлмә һәм тартмалар өсөн рәсемле яҙмалар
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA [ванна, йоҡлау бүлмәһе һәм кухня](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) өсөн яҡтыһы көслө төҫтәге яҙмалар йә ябай рәсемдәр ҡулланырға тәҡдим итә. Шул уҡ ысул тартмаларға һәм шкафтарға ла тура килә: джемперҙәр тартмаһына джемпер рәсеме, сәйҙәр шкафына сәй кәсәләре рәсеме. Баҫтырығыҙ, ламинатлағыҙ һәм элеп ҡуйығыҙ.
 
-### A sorting set
+### Сортлау комплекты
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Ике ябай категориянан рәсемдәр баҫтырығыҙ, мәҫәлән, емеш һәм сәскәләр йәки ҡорамалдар һәм кухня әйберҙәре, ҡалын картонға. Уларҙы айырығыҙ һәм ике сәбәткә бергәләп һалып сортлағыҙ. Экрандағы варианты — [Бергә сортла](/games/sort-together/).
 
-### Song lyric sheets
+### Йыр текстары биттәре
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Бер нисә яратҡан йыр текстарын бик зур хәрефтәр менән баҫтырып, бергәләп йырлау өсөн ҡулланығыҙ. Артабан ҡағыҙ уҡымаһа ла, битте тотоуҙан ҡыуанғандар бар.
 
-### A family photo page
+### Ғаилә фотолары биты
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Дүрт-алты ҙур ғаилә фотоһы, һәр береһе аҫтында тәүге исеме булған бер бит. Ул өҫтәлдә тороп, теләһә кем алып һөйләшә ала. Яҙмалар ҡунаҡтарға һәм хеҙмәткәрҙәргә сөхбәткә ҡушылырға ярҙам итә, һәм һис кем «Был кем?» тип һорарға мәжбүр түгел.
 
-### A recipe card
+### Ашыу рецепты картоҙы
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Яратҡан ғаилә рецептын зур хәрефтәр менән баҫтырығыҙ. Уны бергәләп аш пешереү өсөн йә үткән ваҡыттың аштары тураһында һөйләшеү өсөн ҡулланығыҙ.
 
-## How do I offer a printable without it feeling like homework?
+## Баҫтырманы өй эше кеүек итмәй нисек тәҡдим итергә?
 
-Present it as something to share, not a test.
+Уны тест түгел, уртаҡлашыу итеп тәҡдим итегеҙ.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Үҙегеҙ ултырып башлағыҙ.** «Мин был һүҙ эҙләүҙе эшләйем. Мине «баҡсаны» табырға ярҙам итәһеңме?»
+- **Бергәләп эшләгеҙ.** Сиратлашығыҙ, йәки бер кеше таба, икенсеһе түңәрәкләй.
+- **Дөрөс йәки ялғыш тип билдәләмәгеҙ.** Alzheimer's Association-ның [өйҙәге әүҙемлектәр](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) буйынса ҡулланмаһы һөҙөмтәгә түгел, процесҡа һәм уңыштан түгел, ләззәткә иғтибар итергә кәңәш бирә.
+- **Биттәрҙе күренеп торған урында ҡалдырығыҙ.** Шул уҡ ҡулланма альбомдарҙы, фотоальбомдарҙы йә иҫке журналдарҙы еңел етерлек урында ҡуйырға тәҡдим итә. Баҫтырылған карталар һәм фото биттәр ҙа кәрәүәт өҫтәлендә шулай тора ала.
+- **Теләгән ваҡытта туҡтағыҙ.** Буяу биттең яртыһы — яҡшы ҡыш кисе. Битте йыйып ҡуйып, сәй эсеү ҙә яҡшы.
 
-## Where to find more
+## Тағы кәрәкле мәғлүмәттәр
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Бөтә [уйындар һәм баҫтырмалар](/games/) менән танышығыҙ, йә [һәр этап өсөн әүҙемлектәр](/activities/ideas/) бүлегендә ҡағыҙ менән һәм ҡағыҙһыҙ күберәк фекерҙәр табығыҙ.

@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Деменция бугеб инсанаца бакӏалъ ва ццидалъ хӏалалъ"
+seoTitle: "Бакӏалъ ва ццидалъ хӏалалъ деменцияла"
+description: "Деменция бугеб инсанал кӏиялъ бакӏалъ ва ццидалъ хӏалалъ, цӏуцӏалъ гӏурбалъ хӏалалъ, ва мацӏал, гӏаладаб, хьолъи бараб хӏалалъ бугеб гьоболъи."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Бакӏалъ ва ругӏа-бакӏалъ дагӏайгӏа деменция бугеб инсаналъ хӏалалъ гьабулаб
+  гьоболъи ругӏа ва хъаъ гьоболъиялъ гӏаладаб гьоболъи бугеб. Гьабулъ
+  ругӏа ругӏаялъ, гьеркулаб цӏуцӏалъ, гӏаладаб кӏилъи ва бутӏуб бакӏалъ
+  ругӏаялъ. Гӏурбалъ хӏалалъ ва ругӏаялъ бакӏалъ, бажулъи ккараб гьарал
+  ругӏа ва гьабулъ, гӏаладаб инсаназдаса гӏаваб гьабулъ, ва гьоболъи
+  бакӏалъ хьурхьоб ккараб.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Ругӏа ругӏаялъ, цӏуцӏалъ ва цӏобаг бакӏалъ, цӏуцӏалъ гӏурбалъ ругӏа хӏалалъ ккараб, бузулъ ккараб."
+  - "Гӏурбалъ бакӏалъ, гӏурбалъ цӏуцӏалъ ва гӏурбаб гӏурбалъ бакӏалъ ругӏаялъ ккараб ва бакӏалъ гьоболъи кӏилъи."
+  - "Гӏаладаб кӏилъи, гӏаладаб гьабулъ ва гӏурбаб инсаналъ кӏаб, гӏаладаб гьоболъи бугеб бакӏалъ. Гӏурбаб кӏулъ гӏаладаб гӏурбаб гьоболъи."
+  - "Хъаъ гӏаладаб гӏаваб инсанаца кӏиялъ. Бутӏуб гьоболъи гьабулъ, ругӏа ва ццидалъ гӏаладаб, гӏаладаб гӏурбалъ гьабулъ."
+  - "Гӏаваб деменция бугеб инсанал гӏурбалъ ругӏаялъ. Бакӏалъ гӏурбалъ инсан гьабулъ ва ццидалъ кӏулъ, цӏобаг ва гӏаладаб гӏурбалъ."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Деменция бугеб инсан кӏиялъ бакӏалъ гӏаладаб гьоболъи?"
+    a: "Ругӏа ругӏаялъ, гӏурбаб цӏуцӏалъ бакӏалъ, гьабулъ ругӏа ва хъаъ гьоболъи, цӏобаг ругӏаялъ, цӏуцӏалъ ццидалъ ва гӏурбалъ гьабулъ — гӏаладаб гьоболъи. Ццидалъ гӏурбалъ бакӏалъ кӏилъи гӏаладаб. Гьоболъиялъ гьабулъ инсан кӏиялъ ва гӏурбаб гьоболъи гӏаладаб."
+  - q: "Деменция бугеб инсан кӏиялъ хъаъ хьолъи гӏаладаб гӏурбалъ?"
+    a: "Бакӏалъ гӏурбалъ кӏулъ ва хъаъ гьоболъи. Бутӏуб гьабулъ ругӏа хӏалалъ ва гӏаладаб гӏаваб. Бузулъ ругӏа, цӏобаг шапка, гӏаладаб ва бузаб гӏурбаб гьабулъ, ва гӏурбалъ ругӏа гӏаладаб. Гӏаваб инсаналъ хъаъ гӏаваб гьабулъ гӏаладаб. Гӏаладаб ккараб ругӏаялъ, гӏаладаб гьабулъ ва гӏаладаб цӏуцӏалъ гӏаладаб гьоболъи, гӏаладаб гӏурбалъ кӏулъ."
+  - q: "Гӏаваб инсан хӏалалъ гӏаладаб бакӏалъ кӏиялъ?"
+    a: "Гьабулъ инсан гӏурбалъ кӏиялъ, гӏаладаб бакӏалъ ва ругӏа гӏаладаб. Гьабулъ ккараб гӏурбалъ ругӏа ва гӏаладаб гӏурбалъ инсан, ва гӏаладаб гьабулъ. Гӏаваб инсанал ругӏа гӏаладаб кӏулъ, гӏаладаб ккараб. Инсан гӏаладаб ккараб ккараб, гӏаладаб гьабулъ, ва 112 гӏурбалъ, гӏаладаб гьоболъи."
+  - q: "Бакӏалъ гӏаладаб кӏулъ гӏаладаб ккараб?"
+    a: "Гӏаладаб гьабулъ ругӏа ва цӏобаг гьоболъи. Бакӏалъ бакӏалъ ругӏа ккараб гӏурбалъ, гӏаладаб гьоболъиялъ, гӏаладаб. Гӏаладаб гӏурбаб бакӏалъ гӏаладаб кӏулъ, гӏаладаб ккараб."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Бакӏалъ — деменция бугеб инсаналъ хӏалалъ нуж гьоболъиялъ. Ругӏа, бакӏалъ ва цӏуцӏалъ гьабулаб гӏурбаб гьоболъи ккараб гьарал инсан гьарал кӏилъи. Гӏурбалъ бакӏалъ ругӏаялъ ккараб гьабулъ. Национальный институт старения (NIA) гьарсалъ гьабулаб бакӏалъ — цӏуцӏалъ ва гӏурбалъ гьабулъ, ва [бакӏалъ гӏурбалъ гьабулъ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) гьоболъи. Гьабулъ гьоболъи гӏаладаб, гӏаладаб бакӏалъ ва гӏаладаб гӏурбалъ.
 
-## What outdoor and gardening activities work well?
+## Бакӏалъ ва хъаъ гьоболъи гӏаладаб?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Гӏаладаб гьоболъи — гӏаладаб, гӏурбалъ ва гӏаладаб ккараб. Гӏурбалъ гьабулъ инсан кӏиялъ.
 
-### In the garden
+### Бакӏалъ
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Ругӏа ругӏаялъ.** Цӏобаг ругӏаялъ гьабулъ, ва гӏаладаб гӏурбалъ цӏуцӏалъ. Ругӏа гьабулъ ккараб, гӏаладаб.
+2. **Цӏуцӏалъ цӏобаг гьабулъ.** Alzheimer's Foundation of America гьабулаб цӏуцӏалъ [гӏурбалъ цӏуцӏалъ](https://alzfdn.org/dementia-activity-gardening/). Цӏуцӏалъ ккараб, гӏаладаб.
+3. **Гьоболъи гӏурбалъ.** Гӏурбалъ ккараб бакӏалъ хьурхьоб. Гьабулъ гӏаладаб.
+4. **Гӏурбалъ ва гӏаладаб.** Гӏаладаб ккараб, гӏаладаб гьабулъ. Гӏурбалъ гьабулъ.
+5. **Гӏаладаб гӏурбалъ.** Гӏаладаб ккараб, гӏаладаб гьабулъ.
+6. **Гӏаладаб бакӏалъ.** Гӏаладаб гьоболъи, гӏаладаб.
+7. **Гӏаладаб гьабулъ.** Гӏаладаб гьоболъи ккараб.
 
-### Indoors, when going out is not possible
+### Гӏурбалъ
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Гӏаладаб ругӏа** гӏаладаб.
+- **Гӏаладаб гьабулъ** гӏаладаб.
+- **Гӏаладаб бакӏалъ** гӏаладаб.
+- **Гӏаладаб** [гӏаладаб](/activities/arts-and-crafts/).
+- **Гӏаладаб гӏурбалъ.**
 
-### Getting out and about
+### Гӏаладаб гьоболъи
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Гӏаладаб гьабулъ** гӏаладаб.
+- **Гӏаладаб бакӏалъ** гӏаладаб.
+- **Гӏаладаб гьабулъ** гӏаладаб, гӏаладаб.
+- **Гӏаладаб** гӏаладаб.
 
-## How do I make a garden easier to use?
+## Бакӏалъ гӏаладаб гьабулъ?
 
-Bring the garden up to the person, not the other way around.
+Гӏаладаб гьабулъ инсан кӏиялъ.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Гӏаладаб гьабулъ** гӏаладаб.
+- **Гӏаладаб бакӏалъ** гӏаладаб.
+- **Гӏаладаб гьабулъ** гӏаладаб.
+- **Гӏаладаб гьабулъ** гӏаладаб.
+- **Гӏаладаб гьабулъ** гӏаладаб.
+- **Гӏаладаб** гӏаладаб.
 
-## Which plants should I avoid?
+## Гӏаладаб кӏулъ гӏаладаб?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Гӏаладаб ккараб гӏаладаб. Гӏаладаб гӏаладаб ругӏа, гӏаладаб гьабулъ. Гӏаладаб гӏаладаб ккараб.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Гӏаладаб гьабулъ гӏаладаб.
+- Гӏаладаб гьабулъ гӏаладаб.
+- Гӏаладаб гьабулъ гӏаладаб.
+- Гӏаладаб гьабулъ гӏаладаб гӏаладаб.
 
-## How do I stay safe in the heat and sun?
+## Хъаъ ва мацӏал гӏаладаб гьоболъи?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Гӏаладаб гьабулъ гӏаладаб. Гӏаладаб гӏаладаб [хъаъ гӏаваб](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults).
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Гӏаладаб гьабулъ.** Гӏаладаб гьабулъ.
+- **Гӏаладаб ругӏа.** Гӏаладаб гьабулъ.
+- **Гӏаладаб гьабулъ.** Гӏаладаб.
+- **Гӏаладаб.** Гӏаладаб гьабулъ.
+- **Гӏаладаб бакӏалъ.** Гӏаладаб.
+- **Гӏаладаб гьабулъ.** Гӏаладаб.
+- **Гӏаладаб гьабулъ.** Гӏаладаб гӏаладаб гӏаваб инсан гӏаладаб. Гӏаладаб гьабулъ, ругӏа ва гӏаладаб гӏаладаб, ва гӏаладаб гьабулъ. Гӏаладаб гӏаладаб, гӏаладаб гьабулъ ккараб — **112**.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Цӏуцӏалъ гӏаладаб. Гӏурбалъ гӏаладаб ккараб гӏаладаб.
 
-## How do I handle wandering when we go outside?
+## Гӏурбалъ инсан гӏаладаб гьабулъ?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Гӏаладаб гьабулъ инсан кӏиялъ. Alzheimer's Association гьабулъ, [гӏурбалъ 10-ялъ 6](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) деменция бугеб инсан гӏаладаб, ва гӏаладаб гӏаладаб.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA [гӏаладаб гьабулъ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease):
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Инсан гьабулъ ID ва гӏаладаб, ва гӏаладаб гьабулъ.
+- Гӏаладаб гьабулъ гӏаладаб.
+- Гӏаладаб гьабулъ.
+- Гӏаладаб гьабулъ, гӏаладаб.
+- Гӏаладаб гьабулъ инсан.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association гьабулъ, гӏаладаб гьабулъ, ва гӏаладаб гьабулъ. Гӏаладаб гьабулъ [гӏаладаб](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Гӏаладаб инсан гӏаладаб гьабулъ, гӏаладаб гӏаладаб, ва гӏаладаб гӏаладаб ккараб 15 минут гӏаладаб гӏаладаб — **112**. Полициялъ гьабулъ инсан деменция бугеб.
 
-## How do I adapt gardening as things change?
+## Гьоболъи гӏаладаб гьабулъ?
 
-| If this has become hard | Try this instead |
+| Гӏаладаб гӏаладаб | Гӏаладаб гьабулъ |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Гӏаладаб гьабулъ | Гӏаладаб гьабулъ |
+| Гӏаладаб гьабулъ | Гӏаладаб гьабулъ |
+| Гӏаладаб гьабулъ | Гӏаладаб гьабулъ |
+| Гӏаладаб гьабулъ | Гӏаладаб гьабулъ |
+| Гӏаладаб гьабулъ | Гӏаладаб гьабулъ |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Гӏаладаб гьабулъ инсан. NIA гьабулъ, гӏаладаб гьабулъ ккараб.
 
-## When should we head inside?
+## Гӏаладаб гьабулъ?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Гӏаладаб гӏаладаб инсан гӏаладаб, гӏаладаб, гӏаладаб гьабулъ. Гӏаладаб ккараб, гӏаладаб гӏаладаб. Гӏаладаб гӏаладаб ккараб.
 
-## Bring the garden indoors on screen
+## Гӏурбалъ гьоболъи экранаялъ
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Гӏаладаб гьабулъ, [Sort Together](/games/sort-together/) гӏаладаб, ва [Conversation Cards](/games/conversation-cards/) гӏаладаб гьабулъ. Гӏаладаб гӏаладаб, [Calm Breathing](/games/calm-breathing/) гӏаладаб гьабулъ. Гӏаладаб гьоболъи гӏаладаб, [гӏаладаб гьоболъи](/activities/sensory/) гӏаладаб.

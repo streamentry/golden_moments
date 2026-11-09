@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Dementia Bɛtumi Aguan? Nea Nhwehwɛmu Ka"
+seoTitle: "Dementia Bɛtumi Aguan? Nea Nhwehwɛmu Ka"
+description: "Nea 2024 Lancet Commission ne nnwuma kɛseɛ no ahwehwɛ kaa ho wɔ dementia ahoade a ɛbɛma ɛba, nea wɔanhu, ne anammɔn a ɛsɛ sɛ mo ka ho asɛm ne dɔkota."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Obi biara ntumi nhyɛ bɔ sɛ ɔbɛgyina dementia ano. 2024 Lancet Commission bu
+  sɛ wiase so dementia ahodoɔ a ɛyɛ abien mu biara bɛka ho nneɛma 14 a ebia
+  wobetumi asesa, te sɛ mogya a ɛbɔ ntɛm, tie a ɛyɛ den ne nnantew. Nhwehwɛmu
+  no kyerɛ sɛ nteaseɛ kakra wɔ nkɔmhyɛ ho, nanso ɛnkyerɛ sɛ dementia ahodoɔ
+  atwa ase. Nnipa bebree a wɔyɛ nneɛma nyinaa "yiye" nso wɔ dementia, na ɛnyɛ
+  obiara mfomso.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 Lancet Commission kyerɛɛ sɛ wiase so dementia ahodoɔ a ɛyɛ ebeɛ 45% bɛka ho nneɛma 14 a ebia wobetumi asesa. Eyi yɛ nkyerɛaseɛ a ɛfa nnipa dodoɔ ho, na ɛnyɛ bɔhyɛ ma obi ankasa."
+  - "Sɛ wotew kwan a ɛde ba dementia so no nkyerɛ sɛ wɔrebrɛ nnipa nyinaa ase. Ɛnkyerɛ sɛ obi biara betumi aguan dementia."
+  - "Nhwehwɛmu kɛseɛ te sɛ FINGER, US POINTER ne SPRINT MIND hunuu nteaseɛ kakra wɔ nsɛmmisa ho anaa mfiri ho nhwehwɛmu mu, nanso biara nnyinaa ankasa ɛnkyerɛ sɛ nkwa mu nhyehyɛe kyerɛ sɛ ɛbɔ dementia ano."
+  - "Mfe ne dementia a ɛyɛ Alzheimer's de nnwinnade titiriw a wonnim, na wɔrentumi nsesa ho. Nnipa bebree a wɔwɔ nneyɛe pa nso wɔ dementia."
+  - "Nneɛma a wɔsusuw bebree ho, te sɛ mogya a ɛbɔ ntɛm ayaresa, tie a ɛboa mu ne ntam a wɔde so, yɛ nea ɛsɛ sɛ mobɔ dɔkota ho mmisa, ɛfiri sɛ ɛboa ahoɔyare afoforo nso."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Wobetumi aguan dementia?"
+    a: "Obiara nni akwan a wɔasi so pɛn sɛ wobetumi aguan dementia. Nhwehwɛmu kyerɛ sɛ sɛ wosesa nsɛnkyerɛnne bi, te sɛ mogya a ɛbɔ ntɛm, tie a wɔnnyaa ayaresa ne sigarɛt a wɔtee, ebia ɛbɛtew nnipa dodoɔ mu dementia ahodoɔ anaa ɛbɛma ɛba akyiri. Eyi yɛ nkɔmhyɛ, na ɛnyɛ bɔhyɛ."
+  - q: "Dɛn na 45% a Lancet Commission kyerɛɛ no kyerɛ?"
+    a: "2024 Lancet Commission kyerɛɛ sɛ wiase so dementia ahodoɔ a ɛyɛ ebeɛ 45% bɛka ho nneɛma 14 a, sɛ wɔbɛyɛ no a, ebia wobetumi asesa. Nkyerɛaseɛ no fa sɛ nneɛma ara na ɛde dementia ba, na anyansafo no kyerɛ sɛ ebinom ka ho nkɔnhwɛ bi nni mfiri ho nkyɛn. Ɛkyerɛ nnipa dodoɔ ho asɛm, na ɛnkyerɛ obiara kwan ho asɛm."
+  - q: "Sɛ me maame anaa agya tee nkwa a ɛye, adɛn nti na ɔnyaa dementia?"
+    a: "Mfe, nnommum ne nneɛma bebree a obiara ntumi nhwɛ so, gyina dementia so titiriw. Lancet Commission anyansafo no kyerɛ sɛ nnipa dodoɔ mu sɛ wɔsesa kwan a ɛde ba dementia so no nni bɔhyɛ sɛ obi biara remfa ho. Dementia a wɔka kyerɛ obi nni sɛ ɔyɛe mfomso."
+  - q: "Ɛdeɛ wɔ akyi sɛ mɛsesa dementia kwan bio wɔ mfe 65 akyi?"
+    a: "Lancet Commission ka sɛ ɛnyɛ ɛdeɛ wɔ ntɛmntɛm anaa akyi sɛ wɔsesa kwan a ɛde dementia ba, nanso nhwehwɛmu bebree ka mfe a wobɛyɛ mfe 40 kɔsi 65 ho. Wɔasua nneɛma te sɛ tie ne ani a ɛyɛ mmerɛ ayaresa, nkɔ so yɛ adwuma ne nnipa a wo ho akyɛ nso, ɛyɛ nneɛma a wɔsuaa wɔ mfe a ɛdi akyi mu. Kasa kyerɛ dɔkota nea ɛfata wo ahoɔyare."
+  - q: "Mmara ho anigye nneɛma anaa nnuane a wɔyɛ mmerɛ so tew dementia ahodoɔ?"
+    a: "Dwumadi, aduane, nnuane anaa nnuane ho nneɛma biara nnyinaa a wɔasi so pɛn sɛ wɔtew dementia nni hɔ. Mfe abiɛsa a wɔyɛɛ MIND nnuane nhwehwɛmu no amfa nsusuwii nkyerɛ sɛ ɛwɔ nsɛnnennen ne nnuane a wɔde sɛ nkyerɛase no ntam. Nnwinnade a wɔde ma nteaseɛ mmara nso nni nsɛnkyerɛnne a ɛte sɛ nea nhwehwɛmu no hunuu."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,129 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Sɛ wo hwɛ obi a ɔwɔ dementia, anaasɛ wuhui sɛ wo maame anaa agya tee nkwa a
+ɛwɔ dementia so, woabisa wo ho sɛ anka ɛnsɛ sɛ ɛbaa, na anka wobetumi aguan
+sɛ ɛrenba wo nso. Saa kratafa yi kyerɛ nea nhwehwɛmu no ka ankasa, wɔ kasa a
+ɛyɛ mmerɛ. Mmuae no ne sɛ: obiara ntumi nhyɛ bɔ sɛ wɔbɛguan dementia, nanso
+nhwehwɛmu kyerɛ sɛ nneɛma bi a wobetumi asesa, na sɛ wɔsesa wɔn wɔ nnipa nyinaa
+mu a, nnipa kakra bɛwo dementia anaa ɛbɛba akyiri.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ɛyɛ nkyerɛkyerɛ ankasa, na ɛnyɛ ayaresa afotu. Mesrɛ mo kenkan [medical disclaimer](/medical-disclaimer/) a yɛde ama, na kasa kyerɛ dɔkota wɔ mo ankasa ahoɔyare ho.
 
-## Can dementia be prevented?
+## Dementia bɛtumi aguan?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Obi biara nni akwan a wɔasi so pɛn sɛ wɔbɛtew dementia. Amerika Nteaseɛ Nhwehwɛmu Asetra (NIA) ka sɛ, daa no, [wɔnnya nkyerɛ sɛ ɛwɔ akwan a wɔde guan Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), nanso anyansafo no hwehwɛ nkɔso bi a ɛwɔ hɔ, na wɔrehwehwɛ nea ebia ɛbɛyɛ adwuma ne nea ɛmfa nyɛ adwuma.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Nea nhwehwɛmu *kyerɛ* ne sɛ nsɛnnennen ne nneyɛe bi ka ho ne dementia ahodoɔ a ɛba. Sɛ eyi nsɛmmisa wɔ wiase so nnipa dodoɔ mu no tew a, ebia dementia ahodoɔ bɛtew, anaa ɛbɛba akyiri wɔ nkwa mu. Eyi yɛ nneɛma a ɛyɛ soronko, na ɛnyɛ bɔhyɛ.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Nsɛnkyerɛnne a ɛyɛ anigye ne sɛ 2024 Lancet Commission kyerɛɛ sɛ wɔ aman a wɔnya sika pii mu te sɛ US ne UK mu, nnipa a wɔn ahemfie ayɛ mmerɛ wɔ dementia no ahodoɔ akɔ fam. Anyansafo no susuw sɛ eyi ka ho titiriw ne adesua a ɛyɛ mmerɛ, ayaresa a ɛyɛ mmerɛ, ne sɛ mogya nsuo nkɔ tete so ɛnyɛ den mfe pii akyi, sɛnea [University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) kyerɛ.
 
-## What did the 2024 Lancet Commission find?
+## Nea 2024 Lancet Commission hunuu
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission a ɛfa dementia ho akwan, ayaresa ne ahwɛ ho yɛ anyansafo 27 a wɔsesa nhwehwɛmu no mfe bi biara. Wɔn 2024 amanneɛ no kyerɛɛ **nneɛma 14** a ebia wobetumi asesa, na wɔsusuw sɛ wɔn nyinaa ka ho dementia ahodoɔ a ɛyɛ **abien mu biara, ɛyɛ ebeɛ 45%**, wɔ wiase so. Anyansafo no ka sɛ, sɛ wɔyi nneɛma yi nyinaa a, ebia wobetumi asiw dementia ahodoɔ yi ano anaa ɛbɛba akyiri ([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Nneɛma 14 no, sɛnea wɔkyekyɛ wɔn wɔ nkwa mu bere a nhwehwɛmu no mu ahoɔden sen biara wɔ so:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Mfe a ɛdi kan:** adesua a ɛnyɛ pii.
+- **Mfe a ɛda ntam (bere a ɛyɛ mfe 40 kɔsi 65):** tie a ɛyɛ den, LDL ("bɔne") kolesterol a ɛyɛ den, awerɛhosɛ, ti a wɔabɔ, nneyɛe a ɛnyɛ nkɔ so, mogya suga, sigarɛt, mogya a ɛbɔ ntɛm, nipa a ɛyɛ mmerɛ, ne nsa a ɛyɛ den.
+- **Mfe a ɛdi akyi:** nnipa a wonni nkitahodie, mframa a ɛyɛ bɔne, ne ani a wɔnnhwɛ.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Nneɛma a ɛfa 2024 mu a wɔka ho akyiri ne LDL kolesterol a ɛyɛ den ne ani a wɔnnhwɛ. Nneɛma a ɛfa dementia ahodoɔ pii ho ne tie a ɛyɛ den ne LDL kolesterol a ɛyɛ den (bebree ɛyɛ 7% biara), na ɛdi akyiri ne adesua a ɛyɛ mmerɛ ne nkitahodie (bebree ɛyɛ 5% biara).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Yɛn [risk factors guide](/brain-health/risk-factors/) kyerɛkyerɛ nneɛma 14 no nyinaa wɔ tebea mu, ne nea nhwehwɛmu no ka ho ne nea wobetumi ayɛ.
 
-### What the 45% figure does not mean
+### Nea 45% no nkyerɛ
 
-It is easy to misread this number, so it helps to be precise:
+Ɛyɛ mmerɛ sɛ wobɛkyerɛ no ase, enti ɛboa sɛ yɛkyerɛ no pefee:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ɛyɛ nkyerɛaseɛ a ɛfa nnipa dodoɔ ho.** Ɛkyerɛ wiase so dementia ahodoɔ, ɛnyɛ wo anaa wo maame/agya nkɔnhwɛ.
+- **Ɛfa ɔkɔm ne nneɛma a ɛde ba ho.** Anyansafo no ka sɛ wɔde nneɛma a nsɛm pefee wɔ wɔn ho nko na wɔde ahyɛ mu, nanso ebinom ka ho nkɔnhwɛ bi nni mfiri ho nkyɛn. Sɛnea ɛbɛyɛ, awerɛhosɛ wɔ akyiri yi, ebia ɛyɛ dementia nsɛnkyerɛnne a ɛba ntɛm, ɛnyɛ nea ɛde ba.
+- **Ɛnkyerɛ ade biara ma obi ankasa.** UCL nkyerɛase no ka sɛ sɛ wɔtew kwan a ɛde ba so a, ɛyɛ nnipa dodoɔ mu adwuma, na ɛnkyerɛ sɛ obi biara remfa dementia ho.
+- **Nneɛma a yɛaka yi nni ho ano aduru ara.** Mfe, nnommum ne nneɛma a nnipa ntumi nte ase ankasa, ɛka ho ara kɛse no mu. Ɛka dementia a ɛfa ka ho no fã a aka no.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Ɛyɛ dɛn sɛ ɛba bere a wɔfiri ase?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Risk reduction** kyerɛ sɛ wɔbɛtew nkɔnhwɛ no. Sɛ nnipa kɛseɛ bi tew wɔn mogya a ɛbɔ ntɛm a, dementia ahodoɔ wɔ wɔn mu ebia bɛtew mfe pii akyi sen sɛ wɔammɔ saa. Nnipa bi wɔ saa dwumadi no mu bɛka sɛ wɔyɛ dementia nso.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prevention** kyerɛ sɛ wɔbɛgyina nneɛma ano ara ara. Dementia ho no, nhwehwɛmu nkɔ so ntumi nhyɛ obiara bɔ sɛ wɔbɛyɛ saa nnɛ.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Nhwehwɛfo no ka **delay** nso. Lancet Commission kyerɛ sɛ nsɛm foforo a ɛwɔ hɔ kyerɛ sɛ sɛ wɔtew kwan a ɛde ba so a, ebia ɛbɛma dementia firi ase akyiri, na ɛbɛma ahoɔyare a obi di ka nkwa mu agyae nkakrankakra. Mfe kakra a wɔakyi ma ebia ɛyɛ nea ɛsom ma obi ne ne fiefoɔ paa.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Wɔ saa kratafa yi so no, yɛde "tew kwan a ɛde ba" ne "ka ho" di dwuma kɛse. Sɛ wuhu adwumayɛfo, nnuane anaa nhyehyɛe bi a ɛka sɛ ɛbɛguan "Alzheimer's" a, fa ho nkwa. NIA ka sɛ ɛsɛ sɛ wobisa dɔkota ansa na wobɛfa aduru anaa ayaresa biara a ɛka sɛ ɛbɛguan Alzheimer's, ɛfiri sɛ eyi nneɛma bi ntumi nnye anaa nneɛma a wɔde sika boa ho nkoa, anaa ɛyɛ saa nneɛma mmienu.
 
-## What have large trials found?
+## Nhwehwɛmu kɛseɛ ahorow kyerɛɛ eyi
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Nhwehwɛmu a wɔhwehwɛ nnipa bere tenten (a ɛhwehwɛ sɛnea nneɛma kɔ so wɔ nnipa a wɔrehwɛ wɔn so) ka nkitahodie. Nhwehwɛmu a wɔfa nnipa a wɔagyina mu sɛ wɔbɛyɛ nea wɔrenyɛ saa nneɛma yi nkɔ bi mu, anaa wɔn a wɔrenyɛ ade biara nni hɔ, wɔ ɛkwan a ɛyɛ den, na ɛyɛ nea ɛsɛ sɛ wɔhwɛ ho yie. Eyi ne nhwehwɛmu a ɛyɛ den a wɔbɛyɛ.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER nhwehwɛmu no hyɛɛ nnipa 1,260 a wɔn mfe yɛ 60 kɔsi 77 a wonya dementia ahodoɔ kɛse mu. Ɛfa mfe mmienu no, fã baako nyaa adwene a ɛfa aduane ho, mfiri ho nnuane, kɔmputa nnuane ho nhwehwɛmu, ne tie ne mogya a ɛfa abɔdeɛ ho nhwehwɛmu; fã a aka no nyaa afotu a ɛfa ahoɔyare ho nkyerɛ mu. Nnipa a wɔyɛɛ nhyehyɛe no yɛɛ yie kakra wɔ nsɛm a wɔbisa a wɔsɔ hwehwɛ adwene ho no mu, nanso ɛyɛ nsɛnkyerɛnne kakra a ɛyɛ nea ɛsom ([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Nhwehwɛmu no susuw nsɛmmisa nhyehyɛe nkɔsoɔ, ɛnyɛ dementia nsɛmmisa a wɔayɛ.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER hyɛɛ nnipa 2,111 a wɔn mfe yɛ 60 kɔsi 79 a wɔnnyɛ nnwuma pii, wɔn aduane nni so yiye, ne nsɛnnennen afoforo wɔ wɔn ho. Wɔtaa nnipa nyinaa ma wɔnyɛ nnwuma ne adwene a ɛyɛ mmerɛ, wɔdi yiye, wɔn ho nkitahodie, ne wɔn tie a ɛyɛ den no so hwɛ. Fã baako nyaa nhyehyɛe a wɔhyehyɛ yie ne wɔkyerɛkyerɛ, na fã a aka no yɛɛ wɔn ho ankasa. Mfe mmienu so no, adwene nsɛnkyerɛnne fii ase wɔ **fã mmienu** nyinaa mu, na nhyehyɛe a ɛyɛ hyehyɛ no mu nyinaa ahoɔden sen so kakra ([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Anyansafo no ka sɛ ɛhia sɛ wɔhwɛ nea ɛba akyiri bio, na ɛnsɛ sɛ wɔhwɛ hwɛ sɛ eyi ka nkwa a obi di mu da biara. Ɛfiri sɛ nnipa a wɔammɔ hwɛ "nni biribi a wɔyɛ" nni ho, nhwehwɛmu no ntumi nkyerɛ sɛ nhyehyɛe biara boaa sen sɛ ɛnyɛ biribiara.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (mogya ntamadua)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND hwehwɛɛ nnipa 9,361 a wɔn mfe yɛ 50 anaa ɔsoro wɔ US a wonya mogya a ɛbɔ ntɛm. Wɔkyɛɛ wɔn ho kyɛfa: fã baako nyaa mogya ntamadua a ɛyɛ tase (ɔpanin nsɔhwɛ a ɛtwe ase fi 120 ase), na fã a aka no nyaa nsɔhwɛ a ɛyɛ mmara (ase fi 140). Nsɔhwɛ a ɛyɛ tase no tew **mild cognitive impairment** nsɛnkyerɛnne kɛse, na ɛyɛ adwene a ɛyɛ mmerɛ a ɛnyɛ dementia ara nanso a ebia ɛde ba. Wɔ **probable dementia** ho no, dementia ahodoɔ yɛɛ kakra wɔ fã a nsɔhwɛ tase no mu, nanso ɛnyɛ nsɛm a ɛwɔ nsusuwii pefee mu. Nhwehwɛmu no yii ntɛm, na ɛyɛ nea dementia ahodoɔ ntɛ sen sɛnea wɔsusuw, enti ebia ɛnyɛɛ kɛse sɛ ɛbɛboa ɔkɔm a ɛsɛ sɛ wɔbɔ ho mmuae ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Nea nsɛnkyerɛnne a ɛwɔ nhwehwɛmu no mu
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 Cochrane nsɛmmisa a wɔyɛɛ no ahyɛ nhwehwɛmu kɛseɛ nkɔnsoɔ 9 ano a ɛfa nneɛma a ɛtwa nsɛnnennen pii ho, na nnipa a wɔhwehwɛɛ wɔn no yɛ nnipa a ɛboro 18,000. Ɛhunuu sɛ adwene nsɛnkyerɛnne kakra a ɛboa, nanso **nni nsɛnkyerɛnne pefee wɔ dementia ahodoɔ a ɛba nnipa mu** wɔ nhwehwɛmu abien a wɔhwehwɛɛ eyi mu ([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 nsɛmmisa a Amerika Nhwehwɛmu Akademi (National Academies of Sciences, Engineering, and Medicine) yɛe, a NIA de ka ho, kae "nkɔso a ɛma obi ani gye nanso ɛnyɛ nea ɛda so" wɔ akwan abiɛsa ho: mogya ntamadua a ɛbɔ ntɛm a wɔhwɛ so, nneyɛe a ɛmfa ho ahoɔyare ho, ne adwene nnuane.
 
-## Does it matter when you start?
+## Ɛyɛ mmerɛ sɛ wɔfiri ase?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Commission afotu ne sɛ, tew nsɛnnennen a ɛde ba so ntɛm, na wɔnkora so kɔsi bere a ɛkɔ so. Wɔka sɛ "ɛyɛ ntɛm no, ɛyɛ nea ɛboro" ne "bere tenten no, ɛyɛ nea ɛboro." Wɔka nso sɛ ɛnyɛ ɛdeɛ wɔ ntɛmntɛm anaa akyi sɛ wɔsesa kwan a ɛde ba. Nhwehwɛmu bebree fa mfe a wɔyɛ mfe 40 kɔsi 65 ho, nanso nneɛma bi, te sɛ ani a ɛyɛ mmerɛ ne nkitahodie, yɛ kwan a ɛde ba akyiri, na nneyɛe a wɔyɛ bio betumi aboa.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Amanneɛ no ka sɛ nhwehwɛmu a ɛda so no kyerɛ sɛ kwan a ɛde ba no a ɛtra bere tenten no ahoɔden kɛse. Sɛnea ɛbɛyɛ, shuga a ɛfiri mfe a ɛda ntam mu ba no yɛ den sen shuga a ɛfiri akyiri.
 
-## Is dementia risk the same for everyone?
+## Ɛtɔ nnipa nyinaa so pɛ?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Dabi. Lancet Commission hunuu sɛ nnipa a wɔwɔ aman a sika nni so yiye, nnipa a wɔyɛ kɛseɛ kakraa, ne nnipa a sika nni wɔn nkyɛn, pii no ka saa nneɛma yi ho pii, enti dementia ba ntɛm wɔ wɔn mu. Nneɛma pii ka ho ne asetra a wɔnnyi, te sɛ adesua a wɔnyaa bere a wɔyɛ mmofra, mframa a ɛwɔ baabi a wɔte, ne sɛ aduane a ɛyɛ mmerɛ wɔ hɔ anaa ɛwɔ nkyɛn a ɛyɛ mmerɛ.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Eyi nti na Commission afotu no kɔ aban ne ahemfie ho sɛ ɛyɛ ade a ɛkɔ so te sɛ nnipa ankasa: adesua a ɛyɛ mmerɛ ma mmofra nyinaa, mframa a ɛyɛ pɛ, akwan a wɔbɛtew sigarɛt so, nsuka a ɛwɔ aduane ne nsuo a ɛwɔ aduane a wɔtɔ wɔ aguadi ne dwamfie mu, ne tie a wɔde bɛboa nnipa a ɛsɛ sɛ wɔnya. Nneyɛe a obi yɛ ho ka, nanso wiase a nnipa te so nso ka. Eyi nti na ɛnsɛ sɛ yɛdi obiara ho mfomso sɛ wɔadi dementia.
 
-## What are the honest limits of this research?
+## Nhwehwɛmu yi ankasa nkɔso ne ahokyere ne sɛn?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementia fa mfe pii na ɛba,** nanso nhwehwɛmu bebree tenten yɛ mfe abien kɔsi mfe enum. Sɛ wobɛhwehwɛ dementia ankasa, na ɛnyɛ adwene nsɛnkyerɛnne nko a, ɛsɛ sɛ nhwehwɛmu no tenten, na nnipa dodoɔ mu.
+- **Nhwehwɛmu bebree hwehwɛ adwene nsɛnkyerɛnne.** Ntɛmntɛm nkɔso bi wɔ nsɛmmisa mu nkyerɛ sɛ nnipa remfa dementia nni, anaa sɛ adwene abɛyɛ den nnɛ.
+- **Nnipa a wɔpɛ sɛ wɔboa nhwehwɛmu no yɛ nnipa a ahoɔyare yɛ den kakra,** na wɔadesua pii sen nnipa a wɔwɔ wiase so. Lancet Commission ka sɛ nsɛm a yɛn so no fi aman a sika pii wɔ so, na nnipa a ɛwɔ kwan kakra no nni nkyerɛ.
+- **Ebinom nneyɛe nso di nkɔ so.** Sɛ obi nyɛ adwuma anaa ne ho nni nnipa bebree a, ebia eyi yɛ dementia nsɛnkyerɛnne a ɛba ntɛm, ɛnyɛ nea ɛde ba nko ara.
+- **Aduane nhwehwɛmu no mfiri ansa yi, ɛnyɛ bɔne.** MIND aduane nhwehwɛmu a wɔyɛɛ mfe abiɛsa no amfa nsusuwii nkyerɛ sɛ ɛwɔ nsɛnnennen ne nnuane a wɔde sɛ nkyerɛase no ntam. Yɛn [diet guide](/brain-health/diet/) hwɛ ho.
+- **Nnwinnade a wɔde ma nteaseɛ mmara nni nsɛnkyerɛnne a ɛyɛ pefee sɛ ɛtew dementia.** Hwɛ yɛn [brain games and dementia](/brain-health/brain-games/) kyerɛkyerɛ.
+- **Ɛnyɛ nsɛnkyerɛnne pii wɔ nnipa mu ma ɛwɔ fasting ho.** Ɛnyɛ mmerɛ sɛ mfe a wɔyɛ mfe pii ka no hwɛ sɛ wobɛyɛ nea ɛyɛ mmerɛ. Hwɛ yɛn [fasting guide](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Sɛ obi yɛe nneɛma nyinaa "yie" nanso oyii dementia, adɛn nti?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Ɛfiri sɛ dementia nni nkɔso ara fi nneyɛe a obi ayi mu. NIA ka sɛ [mfe ne Alzheimer's ho nsɛnkyerɛnne kɛse sen biara a yɛnim](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), na obiara ntumi nsesa no. Nnommum wɔ nea ɛyɛ dwuma. Nnipa bebree nso, anyansafo nnim nnyinasoɔ nyinaa a ɛde Alzheimer's ba. Ɛwɔ hɔ sɛ sɛ wɔyi nneɛma 14 no nyinaa a, Lancet Commission nhwehwɛmu ka sɛ ebinom bɛyɛ nea ɛsen fa so nnipa a wɔwɔ dementia ankyɛ.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Enti sɛ wohwɛ obi a ɔyɛ adwuma, ɔdi yie, ɔnnom sigarɛt, nanso ɔyii dementia a, nneɛma biara nni ne ho anaa wo ho mfomso. Sɛ woyɛ obi a ɔwɔ dementia ankasa a, ɛnyɛ wo mfomso. Ɛyɛ nea nnipa a wɔwɔ fiefoɔ bebree wɔ nsɛm ho anhyɛ, nanso ɛnsɛ sɛ wɔde ho ka wɔn ho. Nea ɛho hia nnɛ ne ahoɔfɛ, nkitahodie ne nnansa a ɛyɛ anigye, na yɛn [activity ideas](/activities/ideas/) ne [caregiver self-care guide](/caregiving/caregiver-self-care/) yɛ baabi pa a wobɛhyɛ ase.
 
-## What steps can you talk over with a doctor?
+## Nneɛma a wobetumi akasa ho ne dɔkota
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Eyi ne nneɛma a wɔasua titiriw. Ɛsɛ sɛ wobisa wɔn bere a wɔrehwɛ wo ho, efisɛ nneɛma bebree boa koraa ahoɔyare, awerɛhosɛ ne ahoɔden, ɛnyɛ nea ɛbɛyɛ wɔ dementia so.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Mogya ntamadua.** Bisa sɛ wo nsɔhwɛ yɛ dɛn na nsɔhwɛ bɛn na ɛsɛ wo. Lancet Commission ka sɛ ɛsɛ sɛ wɔhwɛ sɛ nsɔhwɛ a ɛyɛ 130 anaa ase no fi bere a ɔbɔ mfe 40 ho, nanso nea ɛsɛ ma ɔpanin a ɔwɔ mfe ho no gyina n'ahoɔyare nyinaa so.
+2. **Tie.** Bisa sɛ wobɛhwɛ wo tie, na tie ahoɔyɛ nsɛm bɛboa. Yɛn [hearing guide](/brain-health/hearing/) kyerɛkyerɛ nhwehwɛmu no.
+3. **Ani.** Hwɛ wo ani bere a ɛsɛ, na bisa sɛ nsɛm te sɛ cataracts ka ho sɛ wɔbɛyɛ ayaresa.
+4. **Kolesterol.** Bisa sɛ wɔhwɛ wo LDL kolesterol na sɛ ɛsɛ sɛ wɔsesa biribi.
+5. **Mogya suga.** Sɛ wowɔ shuga a, bisa sɛnea wobɛhwɛ no yie.
+6. **Awerɛhosɛ.** Awerɛhosɛ ba bebree na wɔbɛyɛ ayaresa. Ka kyerɛ wo dɔkota sɛ wo ho aye ayɛ fɛw anaa wo ho ntumi nnye nneɛma a wopɛ mpɛn bi.
+7. **Sigarɛt ne nsã.** Bisa sɛnea wobɛboa wo ma wogyae sigarɛt, na bisa nsã a ɛyɛ mmerɛ mu kwan.
+8. **Nnuane.** Bisa sɛ nnuane bɛn na ɛyɛ mmerɛ ma wo. Yɛn [exercise guide](/brain-health/exercise/) wɔ nsusuwii.
+9. **Ti ho ban.** Fa akwantuo kɔ ne nnwuma a ɛnyɛ nnuane mu, bisa nso sɛnea wobɛtew ahwe ano so.
+10. **Nkitahodie.** Nnipa ho bere yɛ asetra a ɛyɛ mmerɛ no mu ade. Hwɛ yɛn guide a ɛfa [social connection](/brain-health/social-connection/) ho, ne [sleep](/brain-health/sleep/) nso.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Ansa na wobɛsesa aduru, nneyɛe a wodi, nnuane, nsã anaa nnuane, bisa wo dɔkota ansa. Sɛ wowɔ akwan a ɛfa ayaresa ho, shuga, nkɔnhwɛ a ɛda so ho ka, anaa wo ho ayɛ wo, ɛsɛ sɛ wobisa, titiriw sɛ wo ho ayɛ wo anaa wo ne dementia.
 
-## Talk with a doctor
+## Ka ho asɛm ne dɔkota
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Sɛ wohu adwene anaa nkɔso a ɛyɛ wo ho wo, wo ho anaa obi a wodi ho, a ɛma wo ho ayɛ wo, fa wo ho hyɛ bere ka dɔkota. NIA ka sɛ [nsɛnnennen ho ɔhaw nyinaa nni nsɛnkyerɛnne foforo](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), te sɛ aduru a ɛyɛ mmerɛ, tirim ayaresa, awerɛhosɛ anaa vitamin B12 a ɛnni, na ebinom wɔn no ayera sɛ wɔayɛ ayaresa a ɛka nsɛnkyerɛnne no. Yɛn [warning signs guide](/brain-health/warning-signs/) kyerɛ nneɛma a ɛsɛ sɛ wohwɛ ma.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Hwehwɛ ayaresa ntɛmntɛm** sɛ nneɛma a ɛba ntɛm: adwene a ɛyɛ mmerɛ, nkɔnkɔ anaa ahoɔden a ɛnyɛ wɔ fã baako, nkasa a ɛyɛ den, anaa tirim yaw a ɛyɛ den, saa nneɛma yi betumi ayɛ nsɛnkyerɛnne a ɛyɛ "stroke" anaa ɔhaw foforo a ɛsɛ sɛ wobɔ ntɛm. Frɛ **112**.
 
-## Where Golden Moments fits
+## Golden Moments wɔ ha
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments yɛ nnwuma a ɛyɛ mmerɛ a obi nyinaa betumi ayɛ wɔ mu, te sɛ [conversation cards](/games/conversation-cards/), [picture bingo](/games/picture-bingo/) ne [calm breathing pause](/games/calm-breathing/). Ɛyɛ nea ɛma anigye ne bere a wɔde ne ho bɛka. Ɛnyɛ ayaresa, na ɛntumi nguan dementia anaa ɛnnyɛ ntɛm.

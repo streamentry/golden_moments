@@ -1,33 +1,33 @@
 ---
-title: "Demensiya ilə yaşayan şəxslər üçün sensor fəaliyyətlər"
-seoTitle: "Demensiya üçün sensor fəaliyyətlər: ideyalar, təhlükəsizlik"
-description: "Demensiya ilə yaşayan şəxslər üçün sensor fəaliyyətlər: əl masajı, parça səbəti, təbiət səsləri və boğulma, allergiya, qoxu ilə bağlı təhlükəsizlik qeydləri."
+title: "Demans üçün hissi fəaliyyətlər"
+seoTitle: "Demans üçün hissi fəaliyyətlər: ideyalar və təhlükəsizlik"
+description: "Demans ilə yaşayan insanlar üçün hissi fəaliyyətlər: əl masajı, parça səbəti, təbiət səsləri, boğulma, allergiya və ətirlərlə bağlı təhlükəsizlik qeydləri."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensor fəaliyyətlər toxunuş, qoxu, dad, səs və görmədən istifadə edir: yavaş əl
-  masajı, yumşaq parçalar səbəti, iyləmək üçün təzə otlar, təbiət səsləri və ya
-  pəncərədən quşlara baxmaq. Onlar hər mərhələyə uyğundur və sonrakı mərhələlərdə
-  xüsusilə dəyərlidir. Əvvəlcə boğulma riskini, allergiyaları, dəri problemlərini
-  və qoxuya həssaslığı yoxlayın, eyni anda bir şey təklif edin və şəxs narahat
-  görünürsə, dayanın.
+  Hissi fəaliyyətlər toxunuş, iybilmə, dad, səs və görmə ilə bağlıdır: yavaş əl
+  masajı, yumşaq parçalarla dolu səbət, iybilmək üçün təzə otlar, təbiət səsləri
+  və ya pəncərədən quşlara baxmaq. Onlar hər mərhələyə uyğundur və xüsusilə sonrakı
+  dövrlərdə çox faydalıdır. Əvvəlcə boğulma riskini, allergiyaları, dəri
+  problemlərini və ətirə həssaslığı yoxlayın, hər dəfə yalnız bir şey təklif edin
+  və şəxs narahat görünsə, dayandırın.
 keyPoints:
-  - "Sensor fəaliyyətlər düzgün cavab tələb etmir, buna görə hər mərhələdə, o cümlədən yataqda və ya kreslodakı vəziyyətdə də işləyir."
-  - "Sakit otaqda eyni anda bir hissiyyat təklif edin və toxunmazdan əvvəl soruşun və ya xəbər verin."
-  - "Kiçik əşyalardan və yemək kimi görünən və ya qoxuyan, amma yemək olmayan hər şeydən çəkinin, çünki insanlar əşyaları ağızlarına apara bilər."
-  - "Losyon, ətir və ya yemək istifadə etməzdən əvvəl allergiyaları, dəri və tənəffüs problemlərini yoxlayın."
-  - "Aromaterapiyanın demensiya əlamətlərinə kömək etdiyinə dair inandırıcı sübut yoxdur; qoxuları yalnız sadə zövq üçün, əgər lazımdırsa, istifadə edin."
+  - "Hissi fəaliyyətlərdə düzgün cavab yoxdur, buna görə onlar hər mərhələdə, o cümlədən yataqda və ya kresloda işləyə bilər."
+  - "Sakit otaqda hər dəfə bir hissi təklif edin və toxunmazdan əvvəl soruşun və ya xəbərdarlıq edin."
+  - "Kiçik əşyalardan və yeməyə oxşayan, lakin yemək olmayan şeylərdən çəkinin, çünki insanlar əşyaları ağızlarına apara bilər."
+  - "Losyon, ətir və ya yemək istifadə etməzdən əvvəl allergiya, dəri problemləri və tənəffüs çətinliklərini yoxlayın."
+  - "Aromaterapiyanın demans əlamətlərinə kömək etdiyinə dair inandırıcı dəlil yoxdur; ətirləri, əgər istifadə edirsinizsə, yalnız sadə zövq üçün işlədin."
 faq:
-  - q: "Demensiya ilə yaşayan şəxs üçün yaxşı sensor fəaliyyətlər hansılardır?"
-    a: "Sadə ideyalara losyonla yavaş əl masajı, yumşaq parçalarla işləmək, təzə ot və ya qəhvə iyləmək, sevimli musiqiyə və ya təbiət səslərinə qulaq asmaq, quşlara və ya akvariuma baxmaq və sevimli yeməyin təhlükəsiz tekstura ilə dadına baxmaq daxildir. Eyni anda bir şey təklif edin və şəxsin necə reaksiya verdiyinə baxın."
-  - q: "Əşyaları ağzına aparan şəxs üçün sensor fəaliyyətlər təhlükəsizdirmi?"
-    a: "Ehtiyatla ola bilər. Yalnız uda bilməyəcəyi iri əşyalardan istifadə edin, kiçik və ya sınan hər şeydən imtina edin, losyonları, sabunları və ətirli məhsulları sonra əlçatmaz yerdə saxlayın, çünki onlar yemək kimi görünə və ya qoxuya bilər. Bütün müddətdə şəxslə qalın."
-  - q: "Aromaterapiya demensiyaya kömək edirmi?"
-    a: "Cochrane icmalı aromaterapiyanın demensiya ilə yaşayanlara kömək etdiyinə dair inandırıcı sübut tapmadı, baxmayaraq ki, tədqiqatlar kiçik və ziddiyyətli idi. Şəxs mülayim, tanış qoxudan zövq alırsa, bu normaldır, amma güclü efir yağlarından, xüsusən tənəffüs problemləri və ya allergiya olanda çəkinin."
+  - q: "Demans yaşayan biri üçün hansı hissi fəaliyyətlər yaxşıdır?"
+    a: "Sadə ideyalara losyonla yavaş əl masajı, yumşaq parçalara toxunmaq, təzə ot və ya qəhvə iybilmək, sevimli musiqi və ya təbiət səslərinə qulaq asmaq, quşlara və ya akvariuma baxmaq və sevimli yeməyi təhlükəsiz teksturada dadmaq daxildir. Hər dəfə bir şey təklif edin və şəxsin necə reaksiya verdiyinə baxın."
+  - q: "Əşyaları ağzına aparan biri üçün hissi fəaliyyətlər təhlükəsizdirmi?"
+    a: "Diqqətlə etdikdə ola bilər. Yalnız uda bilməyəcəyi qədər böyük əşyalardan istifadə edin, kiçik və ya sınan şeylərdən çəkinin və fəaliyyətdən sonra losyonları, sabunları və ətirli məhsulları əlçatmaz yerdə saxlayın, çünki onlar yeməyə oxşaya bilər. Bütün müddət ərzində şəxsin yanında qalın."
+  - q: "Aromaterapiya demansa kömək edirmi?"
+    a: "Cochrane icmalı demans yaşayan insanlara aromaterapiyanın kömək etdiyinə dair inandırıcı dəlil tapmadı, baxmayaraq ki, tədqiqatlar kiçik və ziddiyyətli idi. Əgər şəxs yüngül, tanış bir iyi xoşlayırsa, bu problem deyil, lakin güclü efir yağlarından çəkinin, xüsusilə tənəffüs problemi və ya allergiyası olduqda."
   - q: "Fidget və ya fəaliyyət önlüyü nədir?"
-    a: "Bu, üzərinə tutmaq üçün əşyaların möhkəm tikildiyi parça, önlük və ya diz örtüyüdür: iri düymələr, fermuarlar, lentlər və teksturalı yamaqlar kimi. O, məşğul əllərə araşdırmaq üçün nəsə verir. Çıxarıla biləcək boş hissələrin olub-olmadığını tez-tez yoxlayın."
+    a: "Bu, üzərinə əllə tutulan əşyaların möhkəm tikildiyi parça, önlük və ya dizüstü yorğandır, məsələn, iri düymələr, fermuarlar, lentlər və fakturalı yamaqlar. Məşğul əllərə araşdıracaqları bir şey verir. Asanlıqla çıxa biləcək boş hissələri tez-tez yoxlayın."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensor fəaliyyətlər beş hissiyyatdan istifadə edir: toxunuş, qoxu, dad, səs və görmə. Onlar yaddaş, addımlar və düzgün cavab tələb etmir, ona görə də istənilən mərhələdə işləyə bilər. Sonrakı mərhələlərdə daha vacibdir. [Alzheimer Assosiasiyası (Alzheimer's Association)](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) qeyd edir ki, gec mərhələdə dünya əsasən hissiyyatlar vasitəsilə qavranılır və qayğını toxunuş, səs, görmə, dad və qoxu ilə göstərmək olar. Bir neçə təhlükəsizlik yoxlaması bu fəaliyyətləri hamı üçün dincəldici edir.
+Hissi fəaliyyətlər beş hissdən istifadə edir: toxunuş, iybilmə, dad, səs və görmə. Onlara yaddaş, addımlar və ya düzgün cavablar lazım deyil, buna görə istənilən mərhələdə işləyə bilərlər. Onlar ən çox sonrakı dövrlərdə önəmlidir. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) qeyd edir ki, son mərhələdə dünya əsasən hisslər vasitəsilə qavranılır və qayğını toxunuş, səs, görmə, dad və iybilmə ilə göstərmək olar. Bir neçə təhlükəsizlik yoxlaması bu fəaliyyətləri hamı üçün rahat edir.
 
-## Demensiya üçün sensor fəaliyyətlər nədir?
+## Demans üçün hissi fəaliyyətlər nədir?
 
-Sensor fəaliyyətlər eyni anda bir hissiyyat ətrafında qurulmuş sadə təcrübələrdir: parçanı hiss etmək, otları iyləmək və ya yağışa qulaq asmaq kimi. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) deyir ki, sonrakı mərhələ fəaliyyətləri çox vaxt hissiyyatlara yönəlməlidir və musiqini, toxunmaq və tutmaq üçün əşyaları və əl masajını qeyd edir. [Amerika Alzheimer Fondu (Alzheimer's Foundation of America)](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) qeyd edir ki, gec mərhələdə olan insanlar təsəlli üçün nəyisə yaxınlarında tutmağa güclü ehtiyac duya bilər.
+Hissi fəaliyyətlər bir hissə əsaslanan sadə təcrübələrdir, məsələn, parçanı hiss etmək, ot iybilmək və ya yağış səsinə qulaq asmaq. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bildirir ki, sonrakı mərhələdəki fəaliyyətlər çox vaxt hisslərə yönəlməlidir və musiqi, toxunub tutmaq üçün əşyalar və əl masajını qeyd edir. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) qeyd edir ki, son mərhələdə olan insanlarda rahatlıq üçün bir şeyi yaxına tutmaq güclü ehtiyac ola bilər.
 
-## Hissiyyatlara görə sensor ideyalar
+## Hiss-hiss hissi ideyalar
 
 ### Toxunuş
 
-- **Əl masajı.** Əllərinizdə bir az losyonu isidin və biləkdən barmaq ucuna qədər yavaş-yavaş sığallayın. [Milli Qocalma İnstitutu (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) rahatlıq üçün qoxusuz losyonla masajı qeyd edir.
-- **Parça səbəti.** Sığallamaq, qatlamaq və danışmaq üçün məxmər, kord, flis, atlas və yun iri kvadratlar.
-- **İsti üz dəsmalı.** Soyuq gündə əllər üçün isti, nəm parça. Temperaturu əvvəlcə öz biləyinizdə yoxlayın.
-- **Fəaliyyət önlüyü və ya diz örtüyü.** Möhkəm tikilmiş iri düymələr, fermuarlar, lentlər və teksturalı yamaqlar.
-- **Qatlamaq və hamarlamaq.** Qatlamaq, üst-üstə yığmaq və yenidən qatlamaq üçün təmiz üz dəsmalları və ya salfetlər səbəti.
-- **Tutmaq üçün yumşaq nəsə.** Flis örtük, yastıq və ya real görünüşlü yumşaq heyvan, sadəcə təklif edilən, heç vaxt oyuncaq kimi yox.
+- **Əl masajı.** Əllərinizə bir az losyon sürtün və biləkdən barmaq ucuna qədər yavaş-yavaş sığallayın. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) rahatlıq üçün ətirsiz losyonla masaj etməyi qeyd edir.
+- **Parça səbəti.** Məxmər, kordrua, flis, atlas və yun kimi böyük parça kvadratları. Sığallamaq, qatlamaq və onlar haqqında danışmaq üçün.
+- **İsti dəsmal.** Soyuq havada əllər üçün isti, nəm bir parça. Əvvəlcə temperaturu öz biləyinizdə yoxlayın.
+- **Fəaliyyət önlüyü və ya dizüstü yorğan.** Üzərinə möhkəm tikilmiş iri düymələr, fermuarlar, lentlər və fakturalı yamaqlar.
+- **Qatlamaq və hamarlamaq.** Qatlamaq, yığmaq və yenidən qatlamaq üçün təmiz dəsmal və ya salfet səbəti.
+- **Tutmaq üçün yumşaq bir şey.** Flis örtük, yastıq və ya real görünüşlü yumşaq heyvan, sadə şəkildə təklif olunur, heç vaxt oyuncaq kimi yox.
 
-### Qoxu
+### İybilmə
 
-- **Təzə otlar.** Nanə, rozmarin, reyhan və ya lavanda yarpaqlarını barmaqlarınız arasında ovuşdurub ötürün.
-- **Mətbəx qoxuları.** Dəmlənən qəhvə, qızaran çörək, darçın və ya yaxında soyulan portağal.
-- **Çiçəklər.** Bağdan və ya marketdən bir neçə təzə çiçək gətirin.
-- **Tanış məhsul.** Həmişə istifadə etdiyi sabun və ya losyon, əgər dərisi qəbul edirsə.
+- **Təzə otlar.** Nanə, rozmarin, reyhan və ya lavanda yarpaqlarını barmaqlarınızın arasında ovuşdurun və şəxsin yanından keçirin.
+- **Mətbəx iyləri.** Yaxında dəmlənən qəhvə, qovrulan çörək, darçın və ya soyulan portağal.
+- **Çiçəklər.** Bağdan və ya market-dən bir neçə təzə çiçək gətirin.
+- **Tanış məhsul.** Həmişə istifadə etdikləri sabun və ya losyon, əgər dərisi buna dözürsə.
 
 ### Dad
 
-- **Sevimli dad.** Sevdiyi şeydən kiçik bir qaşıq, məsələn alma püresi, pudinq və ya dondurma, təhlükəsiz idarə edə biləcəyi teksturada.
-- **Bişirməyə kömək.** Birlikdə bişirərkən meyvənin və ya bir az kremin dadına baxmaq.
-- **Mövsümi nemətlər.** Yayda qarpız, payızda isti içki, təhlükəsiz temperaturda verilir.
+- **Sevimli dad.** Sevdikləri bir az şey, məsələn, almapüre, puding və ya dondurma, təhlükəsiz idarə edə biləcəyi teksturada.
+- **Bişirməyə kömək.** Birlikdə bişirərkən meyvəni və ya bir az şirniyyat kremini dadmaq.
+- **Mövsümi şirinliklər.** Yayda qarpız, payızda isti sidr, təhlükəsiz temperaturda verilir.
 
 ### Səs
 
-- **Sevimli musiqi.** Tanış mahnılar mülayim səs səviyyəsində; [musiqi fəaliyyətlərinə](/activities/music/) baxın.
-- **Təbiət səsləri.** Yağış, dalğalar və ya quş nəğməsi. Milli Qocalma İnstitutu qeyd edir ki, musiqi, ağ küy və təbiət səsləri bəzi insanları sakitləşdirir.
-- **Sizin səsiniz.** Ucadan oxumaq, zümzümə etmək və ya hekayə danışmaq.
-- **Sadə musiqi alətləri.** Musiqi ilə birlikdə çalmaq üçün əl nağarası, şaqqıldaq və ya zəng.
+- **Sevimli musiqi.** Tanış mahnılar yumşaq səslə; bax [musiqi fəaliyyətləri](/activities/music/).
+- **Təbiət səsləri.** Yağış, dalğalar və ya quş səsi. NIA qeyd edir ki, musiqi, ağ küy və təbiət səsləri bəzi insanları sakitləşdirir görünür.
+- **Sizin səsiniz.** Yüksək səslə oxumaq, mızıldanmaq və ya hekayə danışmaq.
+- **Sadə musiqi alətləri.** Musiqiyə qoşulmaq üçün əl nağara, şəkşəkə və ya zəng.
 
 ### Görmə
 
-- **Pəncərədən baxmaq.** Pəncərənin kənarında quş yemliyi, evə gedən uşaqlar və ya yağan qar.
-- **Akvarium və ya yavaş video.** Yüksək səs olmadan mülayim hərəkət.
-- **İri şəkillər.** Göz səviyyəsində tutulan bir aydın şəkil bir dəfə.
-- **Rəng və naxış.** Parlaq parça qırıqlarını, çiçəkləri və ya rəngli salfetləri çeşidləmək, ya da [rəngləmə](/games/coloring/) dəstimizdən sadə boyama səhifəsi.
-- **Açıq havada.** NHS ətirli bitkiləri, toxumaları və su elementləri olan sensor bağları təklif edir. [Açıq hava və bağçılıq fəaliyyətlərinə](/activities/outdoor-and-gardening/) baxın.
+- **Pəncərədən baxmaq.** Pəncərənin kənarında quş yemliyi, evə gedən uşaqlar və ya qarın yağması.
+- **Akvarium və ya yavaş video.** Yüksək səs olmadan yumşaq hərəkət.
+- **İri şəkillər.** Hər dəfə bir aydın şəkil, göz hizasında tutulmuş.
+- **Rəng və naxış.** Parlaq parça qırıntılarını, çiçəkləri və ya rəngli salfetləri ayırmaq, ya da [rənglənmə](/games/coloring/) səhifəmizdən sadə bir rəngləmə səhifəsi.
+- **Açıq havada.** NHS iybilən bitkilər, fakturalar və su elementləri olan hissi bağları təklif edir. Bax [açıq hava və bağçılıq fəaliyyətləri](/activities/outdoor-and-gardening/).
 
-## Sensor qutusunu necə hazırlamalı
+## Hissi qutu necə hazırlanır
 
-1. **Şəxsin həyatı ilə bağlı mövzu seçin:** çimərlik, bağ, mətbəx, emalatxana, tikiş.
-2. **Beş-altı iri, təhlükəsiz əşya seçin,** məsələn iri balıqqulağı, taxta qaşıq, yumşaq şərf, tikilib bağlanmış qurudulmuş lavanda kisəciyi və ya hamar taxta blok.
-3. **Hər əşyanı yoxlayın:** kiçik hissələr, kəskin kənarlar, boş saplar və sınan hər şey üçün.
-4. **Eyni anda bir əşya çıxarın.** Verin, təsvir edin və şəxsin araşdırmasına imkan verin.
-5. **Sonra qutunu kənara qoyun** ki, o, xüsusi qalsın və əşyalar növbəti dəfədən əvvəl yenidən yoxlansın.
+1. **Şəxsin həyatı ilə bağlı mövzu seçin:** dəniz, bağça, mətbəx, emalatxana, tikiş.
+2. **Beş-altı böyük, təhlükəsiz əşya seçin,** məsələn, iri dəniz qabığı, taxta qaşıq, yumşaq şərf, tikilib bağlanmış quru lavanda kisəsi və ya hamar taxta blok.
+3. **Hər əşyanı yoxlayın:** kiçik hissələr, iti kənarlar, boş saplar və sınan hər şey üçün.
+4. **Hər dəfə bir əşya çıxarın.** Onu verin, təsvir edin və şəxsin araşdırmasına imkan verin.
+5. **Sonra qutunu yığışdırın,** ki, o xüsusi qalsın və növbəti dəfə əşyalar yenidən yoxlansın.
 
 ## Əvvəlcə təhlükəsizlik
 
-Sensor fəaliyyətlər mülayimdir, amma bir neçə risk vacibdir. Demensiya ilə yaşayan bəzi insanlar yemək olmayan əşyaları yemək kimi səhv salır, udma isə zamanla çətinləşə bilər; Milli Qocalma İnstitutu xəbərdarlıq edir ki, gec mərhələdə udma problemləri boğulma riskini artırır.
+Hissi fəaliyyətlər yumşaqdır, lakin bir neçə risk vacibdir. Demans yaşayan bəzi insanlar yeyilməyən əşyanı yemək kimi qəbul edə bilər və zaman keçdikcə uddurmaq çətinləşə bilər; NIA xəbərdarlıq edir ki, son mərhələdəki uddurma problemləri boğulma riskini artırır.
 
-| Risk | Nə etməli |
+| Risk | Nə etmək lazımdır |
 | --- | --- |
-| Boğulma | Yalnız udulması üçün çox iri olan əşyalardan istifadə edin. Qutuda sərbəst düymə, muncuq, sikkə, şüşə kürə və ya kiçik oyuncaq olmasın. Yeməyi yalnız qayğı komandasının təhlükəsiz dediyi teksturada təklif edin. |
-| Yemək kimi görünən əşyalar | Milli Qocalma İnstitutu yemək kimi görünə və ya qoxuya biləcək losyonları, sabunları, şampunları və ətirləri kilidləməyi və süni meyvələri götürməyi məsləhət görür. Sensor məhsulları istifadədən sonra kənara qoyun. |
-| Allergiyalar | Başlamazdan əvvəl qoz-fındıq, lateks, yun, bitkilər və ya ətirlərə allergiyanı yoxlayın. |
-| Güclü qoxular | Güclü ətirlərdən və efir yağlarından, xüsusən astma və ya digər tənəffüs problemləri olanda çəkinin. Mülayim, təbii qoxular daha təhlükəsizdir. |
-| Dəri | Masajdan əvvəl ağrılı, çatlamış və ya kövrək dərini yoxlayın. Yumşaq təzyiq istifadə edin və üzünü turşutsa, dayanın. |
-| Temperatur | İsti parçaları və içkiləri əvvəlcə öz biləyinizdə yoxlayın. |
-| Kəskin və ya zəhərli əşyalar | Kəskin alətlər, şüşə və ya zəhərli yaradıcılıq ləvazimatları olmasın. |
+| Boğulma | Yalnız uda bilməyəcək qədər böyük əşyalar işlədin. Qutuda sərbəst düymələr, muncuqlar, sikkələr, şarikli oyuncaqlar və ya kiçik oyuncaqlar olmasın. Yeməyi yalnız baxıcı qrupunun təhlükəsiz hesab etdiyi teksturada verin. |
+| Yeməyə oxşayan şeylər | NIA losyonların, sabunların, şampunların və ətirlərin qıfılla bağlanmasını məsləhət görür, çünki onlar yeməyə oxşaya və ya iy verə bilər, həmçinin süni meyvələri çıxarmağı. İstifadədən sonra hissi məhsulları yığışdırın. |
+| Allergiya | Başlamazdan əvvəl qoz-fındıq, lateks, yun, bitkilər və ya ətirlərə allergiya olub-olmadığını yoxlayın. |
+| Güclü ətirlər | Güclü ətirlərdən və efir yağlarından çəkinin, xüsusilə astma və ya digər tənəffüs problemləri olduqda. Yüngül, təbii iylər daha təhlükəsizdir. |
+| Dəri | Masajdan əvvəl ağrıyan, zədəli və ya kövrək dərini yoxlayın. Yüngül təzyiq edin və əgər əzab çəkirlərsə, dayandırın. |
+| Temperatur | İsti dəsmalları və içkiləri əvvəlcə öz biləyinizdə yoxlayın. |
+| İti və zəhərli əşyalar | İti alətlər, şüşə və ya zəhərli yaradıcılıq materialları olmasın. |
 
 ## Aromaterapiya kömək edirmi?
 
-Yəqin ki, ölçülə bilən şəkildə yox. [Demensiya üçün aromaterapiya üzrə Cochrane icmalı](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) hamısı qayğı evlərində olan 708 nəfərlə 13 tədqiqata baxdı və fayda barədə inandırıcı sübut tapmadı. Tədqiqatlar kiçik idi, nəticələr bir-biri ilə uyğun gəlmirdi, yan təsirlər isə pis qeyd olunmuşdu. Şəxs bağdan lavanda kimi mülayim, tanış qoxudan zövq alırsa, onu paylaşmaq üçün yaxşı səbəbdir. Bu, müalicə deyil.
+Ehtimal ki, heç bir ölçülə bilən şəkildə yox. [Demans üçün aromaterapiya haqqında Cochrane icmalı](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) baxış keçirmiş 708 nəfəri əhatə edən 13 tədqiqata baxdı, bütün bunlar baxım evlərində idi və faydaya dair inandırıcı dəlil tapmadı. Tədqiqatlar kiçik idi, nəticələr ziddiyyətli idi və yan təsirlər zəif qeyd olunmuşdu. Əgər şəxs yüngül, tanış iyi, məsələn, bağçadan lavandanı xoşlayırsa, bunu paylaşmaq üçün yaxşı səbəbdir. Bu, müalicə deyil.
 
-## Sensor fəaliyyəti necə təklif etməli
+## Hissi fəaliyyəti necə təklif etmək olar
 
-- **Sakit anı seçin** və televizoru söndürün.
-- **Qarşıdan yaxınlaşın,** adını deyin və toxunmazdan əvvəl soruşun və ya deyin: “Mənim bir az losyonum var. Əl masajı istərdinizmi?”
-- **Eyni anda bir şey təklif edin** ki, bu, bunaltmasın.
-- **Reaksiyaya baxın.** Yumşalmış üz, boş əllər və ya təbəssüm yaxşı əlamətdir. Çəkilmək, qaşqabaq və ya narahatlıq dayanmaq deməkdir.
-- **Qısa tutun.** Beş sakit dəqiqə yaxşı seansdır.
+- **Sakit bir an seçin** və televizoru söndürün.
+- **Önündən yaxınlaşın,** adını çəkin və toxunmazdan əvvəl soruşun və ya xəbər verin: «Bir az losyonum var. Əllərinizi ovuşdurmaq istərdinizmi?»
+- **Hər dəfə bir şey təklif edin,** ki, şəxs çox yük hiss etməsin.
+- **Reaksiyaya baxın.** Yumşalmış üz, rahat əllər və ya təbəssüm yaxşı işarələrdir. Əlini çəkmək, qaşqabaq sallamaq və ya narahatlıq dayanmaq deməkdir.
+- **Qısa tutun.** Beş sakit dəqiqə yaxşı sessiyadır.
 
-[Sakit nəfəs](/games/calm-breathing/) kimi birlikdə yavaş nəfəs fasiləsi mülayim bitirmə yolu ola bilər. Yataq yanı üçün daha çox ideya üçün [gec mərhələ fəaliyyətlərinə](/activities/late-stage/), axşam narahatlığı üçün isə [günün sonu narahatlığına](/caregiving/late-day-restlessness/) baxın.
+Birlikdə yavaş nəfəs alma fasiləsi, məsələn, [sakit nəfəs alma](/games/calm-breathing/), yumşaq bir bitiş ola bilər. Yataq yanı daha çox ideya üçün bax [son mərhələ fəaliyyətləri](/activities/late-stage/), axşam narahatlığı üçün isə bax [gün sonu narahatlığı](/caregiving/late-day-restlessness/).

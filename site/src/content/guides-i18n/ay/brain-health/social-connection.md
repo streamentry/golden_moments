@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Jaqichasiña ukat amuyu wali: Sapakiña ukat demencia"
+seoTitle: "Sapakiña, jaqichasiña ukat demencia chika"
+description: "Sapakiña ukat jaqichasiña demencia chikanti kunjamas yatiyasi, Estados Unidos ukan kamachi yatiyañapa ukat jaqinakampi sarañ sasa sapa lurañanakas."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Yatiñanakax jaya marana sapakiña ukat jaqichasiña demencia chikanti uñjapxi. 2024 Lancet Commission
+  yatiyañapax sapakiñax kunayman 5% demencia uñjatanakan utjaspa sasaw amuyi, ukampisa sapakiñ
+  demencia qalltañat jaqinakax jaqinakat jaytapxañapa. Jaqinakampi sarañax, ch'iqa ch'iqa jaqinakampi
+  lurañax ukat arst'añax jaqichasiñ yanapt'apxi. Demencia jaqinakatakix, jaqinakampi lurañax
+  kusisiñ ukat jakañ askiñ yanapt'apxi.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Commission yatiyañapax jaya marana sapakiñ 14 jan walt'äwi demencia chikanakat, kunayman 5% uñjatanakan utjaspa."
+  - "Estados Unidos ukan Surgeon General kamachi 2023 maranx, jaya marana sapakiña ukat jaqichasiña, markan 50% sipansa jach'a demencia chikanti sasaw yatiyi."
+  - "Yatiñanakax akham uñjañ ukat jan jak'achasiñapa, sapakiñ qalltañax demencia uñjatanakax jaqinakat jaytañ utji."
+  - "Ñanqha ukat qhana jan uñjañanakax, sapaki jakañax ukat yanapirinakan lurañax sapakiñ chikanti."
+  - "Demencia jaqinakatakix, kusisiñ lurañanakax jakañ askiñ yanapt'apxi; amtax jaqichasiñawa, jan chiqpach lurañ mayjt'aña."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Sapakiñax demencia uñjañapatakiw?"
+    a: "Janiw chiqpach yatiñ utjkiti. Yatiñanakax sapakiñ ukat jaqichasiñ demencia chikanti uñjapxi, ukampisa amuyu uñjatanakax jaqinakat jaytañapatakiw utji. Jaqichasiñax kusisiñ ukat jakañ askiñ yanapt'añ utji, ukatsa yanapt'apxam."
+  - q: "Sapakiña ukat jaqichasiña kunjamas mayjt'ataspa?"
+    a: "Jaqichasiña sasax, jaqinakampi chika sarañax jaqinakampi arsutanakax jani utjañapawa. Sapakiña sasax, sapakiñ llakisiñax, jaqinakat jaytata jakañapawa. Sapakiñ jakañax janiw sapakiñ llakisiñ utjkiti; jaqinakamp k'ankhar jakañax sapakiñ llakisiñ utjaspawa."
+  - q: "Kunjamas awkix utjañ munaski, demencia uñjatawa, jaqichasiñ yanapt'añ?"
+    a: "Mayni mayni, sapa phaxsi chiqar sarañax askiwa. Sapa phaxsi chiqar llamaña, video llamaña, mesan sarañ, jaqinakampi lurañ, qhana jaqinakampi jakañ jan ukax wawanakampi sarañax yanapt'añapa. Jaqinakax jan jach'a jach'a jaqinakaw uñjañapa, jaqi sapakiñ thakhi churañapa."
+  - q: "Chiqpach jaqinakampi yanapt'añ sapakiñ jakirinakatakix kawkans sapxitan?"
+    a: "Eldercare Locator, Estados Unidos ukan utawa, chiqpach awkinakan ukat mara jaqinakatakix yanapt'añ utji. Aka utax markaman chiqpach yanapa utanakampi arsuñanakasa, eldercare.acl.gov uñjañamawa."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Jaqinakax jaqinakampi jakañatakiw luratäpxi, ukax jaya mara ukax janiw mayjt'askiti. Yatiñanakax jaya marana sapakiñ ukat jaqichasiñ demencia chikanti uñjapxi, ukhamarak ch'ukiña ukat amuyu llakinakan chikanti. Yatiñanakax janiw sañ munapxiti kunjamas mayni mayni chikanakas utji. Aka qillqatax jaqinakampi jakañ yanapt'awinakaw uñjaraki, ukhamarak demencia jaqinakatakix jaqichasiñ kunatsa wali sasa.
 
-## Are loneliness and isolation linked with dementia?
+## Sapakiñ ukat jaqichasiña demencia chikanti?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Jiwasax uñjapxi, ukampisa chiqapar amuyañax janiw sipansa jan yatiñanakaw utji. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) yatiyi, jaya marana sapakiñax 14 walt'äwi demencia chikanakat utjaspa. [UCL yatiyañapa](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) sasaw, aka chikax kunayman 5% demencia uñjatanakan utjaspa.
 
-What the evidence shows:
+Yatiñanakax akham uñjapxi:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Jan jaqinakampi sarañax, jach'a chikanti.** Lancet Commission yatiyañapax, jan mayni mayni jaqinakampi sarañax demencia chikanti sasaw yatiyi. Mayni yatiñax 57% jach'a chika uñjaraki, mayni yatiñax 18% sasaw uñjarakiwa.
+- **Sapakiñax jani.** Sapakiñ llakisiñax, sapaki jakañax ukat jaqinakat jaytata uñjatax, mayni yatiñanakan demencia chikanti uñjatawa.
+- **Estados Unidos kamachi.** 2023 maranx Estados Unidos Surgeon General [yatiyañ](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) qillqt'ataw. Yatiyañapax, jaya marana sapakiñ ukat jaqichasiñax, markan 50% jach'a demencia chikanti sasaw sañ. Ukhamarak, jan askinaka jaqichasiñax 29% jach'a sawu chikanti, 32% jach'a usuchjañ chikanti sasaw yatiyi.
+- **Kunayman utjañapa.** [Estados Unidos yatiyañapa](https://www.ncbi.nlm.nih.gov/books/NBK557972/) sasaw, 65 maranakan sipansa jaqinakan 24% sapakiñ jakapxi.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Yatiñanakan amuyt'añ: Lancet Commission sasaw, jaqinakax demencia uñjatäxi, jan yatiñ utjkäna qalltaña mara ukanakan jaqichasiñat jaytapxi. Ukatwa, mayni chikax demencia jaqinakat jaytañapatak utjaspa, janiw jaqinakat jaytañax demencia chikarakiti. Yatiñanakan sipansa wali, jan ch'ukiñ yatiñanakaw utji.
 
-## What is the difference between loneliness and isolation?
+## Sapakiña ukat jaqichasiña kunasa?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) yatiyañapax akham sasaw amuyt'ayi. **Sapakiñ** sasax, jaqinakampi sarañ pisi utjañapawa. **Sapakiña** sasax, jaqinakat jaytata llakisiñ utjañapawa. Jaqinakax sapakiñ kusisipxi, ukampisa jaqinakampi kuna lurañax jani kusisiñ utjañapatak.
 
-The NIA lists factors that raise the risk of both:
+NIA yatiyañapax, uka lurañanakax sapakiñ ukat jaqichasiñ chikanti:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Ñanqha ukat qhana jan uñjañ
+- Sarañ jan atipxañ, jan ukax movilidad jan utjañ
+- Sapaki jakañ, jan ukax jaqi jiwañ ukat jubilación ukhama jach'a jaytañanaka
+- Amuyu jan wali sarañ jan ukax amuyu jan askiñanaka
+- Kunayman jan askiñ jaqi yanapt'añ
+- Qullqi llakisiñ ukat arsuñ jan atipxañ
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Ñanqha ukat qhana jan uñjañax jach'a chikawa. NIA yatiyañapax, jaqinakax jan ñanqhapxi, arsutanakax jan kusisiñ uñjatax, jaqinakat jaytapxi sasaw. Aka yatiñ [wali yatiñanakax](/brain-health/hearing/) ñanqha uñjañ ukat yanapt'awinakas utji.
 
-## Practical ways to stay connected
+## Kunjamas jaqinakampi chikanakan sarañ?
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA yatiyañapax, kunayman lurañanakas utji. Mayni mayni sapxam:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Sapa phaxsi jaqinakampi arsuñ.** Sapa uru jan ukax sapa phaxsi jaqinakampi, sullka jaqinakampi, jan ukax yatiqañ jaqinakampi llamaña jan ukax qillqaña.
+- **Video llamaña jan ukax yanapt'awi yatiyiri.** Yatiñ jan ukax yatiqañ utanakax, awkinakan ukat jaqinakan yatiqañanakas utji. [Llamaña yatiñanakax](/activities/phone-and-video-calls/) uñjañamawa.
+- **Jaqinakampi sarañ.** Yatiqañ, iglesia, sarañ jaqinakampi jan ukax jaqinakampi yanapt'añ kunaymanakas utji.
+- **Mayni sarañ jan ukax yatiqañ.** Jaqinakampi kusisiñ ukhamarak lurañanakas utji.
+- **Jaqinakampi jaquntañ.** Jaqinakampi jaquntañax askiwa. [Jaquntañ yatiñanakax](/brain-health/exercise/) jan wali lurañanakas uñjañamawa.
+- **Uywa.** Uywa jakañ jakasiñax, jaqinakampi chikanakan jakasiñax, askiwa.
+- **Chiqpach yanapt'awinakan.** Markan jaqi chiqpach utanakax, Area Agencies on Aging ukat Eldercare Locator, ukanakax yanapt'awinakan ukat sarañ yanapt'awinakan amuyt'ayapxi.
 
-## Why do shared activities matter in dementia?
+## Kunatsa jaqinakampi lurañax demenciana wali?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Demencia jaqinakatakix, jaqichasiñax kusisiñ, jakañ askiñ ukat jaqinakan utjañ sasaw wali. Janiw chika sañ amuyañax jan utjkiti. Lancet Commission sasaw, lurañanakax demencia jaqinakan kusisiñ ukat amtanakax utjañapawa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yatiyañapax, jakañ askiñ yanapt'añ sasaw, lurañanakax jan wali sarañ jan ukax llakisiñ pisiyañapatak yanapt'apxi. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sasaw, Alzheimer's jaqinakax lurañ munapxi, kusisiñ lurañanakas.
 
-Ideas that work well:
+Askinaka lurañanakax:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Chiqpach uñjañ.** [Conversation Cards](/games/conversation-cards/) ukax arsuñ jan quiz uñjañanaka. [Reminiscence yatiñ](/activities/reminiscence/) uñjañamawa.
+2. **Ch'iqa ch'iqa lurañ.** [Picture Pairs](/games/picture-pairs/) ukax uñjañanakax uñstaski, jan tiempo jan puntos utjkiti. [Jaqinakampi lurañ yatiñ](/caregiving/how-to-play-together/) uñjañamawa.
+3. **Familiar uñjañanaka.** [Photo Pairs](/games/photo-pairs/) ukax sapa jaqi suyt'at uñjañanakampi lurañ, ukat uñjañanakax ukan utjapxi.
+4. **Jaqinakampi tantachaña.** [Picture Bingo](/games/picture-bingo/) ukax familiar tantachañanakatakix, [care home jaqinakatakix](/activities/care-home-groups/) askiwa.
+5. **Taqi chika lurañ, uywa, ch'uxña.** [Music activities](/activities/music/), [household tasks](/activities/household-tasks/) ukat [activity ideas](/activities/ideas/) uñjañamawa.
+6. **Jaqinakan sarañ.** [Visiting guide](/activities/visiting/) ukax chiqpach jaqinakampi sarañ askiwa.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Ch'uxña ukat sum sarañ. Pisi jaqinakampi sarañax jach'a tantachañ sipansa askiwa. Jaqix jan munaspa jan ukax jan kusisipan, sayt'añax askiwa. Mayni jaqinakampi tè umañax askiwa.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Demencia jaqix sapakiñ jakaski ukhax, NIA yatiyañapax, jaqi yatiñ sarañ jan ukax llamaña utjañapatak yanapt'añ sasaw. Ukhamarak, memory cafe ukax, demencia jaqinakatakix ukat familiapatakix, sum tantachañ uñjañ utjaspa.
 
-## Caregivers get lonely too
+## Yanapt'iri jaqinakax ukhamarak sapakiñ jakapxi
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA yatiyañapax, jaqi yanapt'añax sapakiñ chika sasaw. Jumax ukhamarak amuyt'añ munasmawa: jaqinakampi jakañ, tantachañ ukat samayaña. [Caregiver self-care guide](/caregiving/caregiver-self-care/) uñjañamawa.
 
-## Talk with a doctor
+## Doctor yatiñ
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Jumax jan ukax jaqi yanapt'asma sapakiñ jakapxi jan ukax llakisiñ utjaspa ukhax, doctor yatiñ. NIA yatiyañapax, wali jach'a jaytañanakax, jaqi jiwañ ukhama, doctor yatiñ sasaw. Mayni mayni llakisiñax jaqinakat jaytañapatak, jan ukax depression sasaw, yanapt'añ utji. Jaqi jaqinakat jaytapxi jan ukax lurañanakat jaytapxi ukhax, aka uñjañax doctor yatiyañamawa. [Qalltaña uñjatanakax ukat doctor yatiñ](/brain-health/warning-signs/) uñjañamawa.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Aka qillqatax yatiñ aski, jan doctor yatiñ kunawa. [Medical disclaimer](/medical-disclaimer/) uñjañamawa.

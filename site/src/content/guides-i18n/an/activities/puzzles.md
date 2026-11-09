@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzlas pa la demencia: de piezas, de letras y en linia"
+seoTitle: "Puzlas pa la demencia: de piezas y de letras"
+description: "Como elegir puzlas de piezas, de letras y en linia pa una persona con demencia: tamaño de as piezas, imachens, letra gran, fer-lo en compañía y cuando cal fer-lo más fácil."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  A millor puzla pa una persona con demencia ye a que puede acabar con una
+  mica d'aduya y disfrutar-la por o camín. Triya puzlas de menos piezas, mas
+  gran y con una imachen clara de adulto, deixa a caixa a la vista, y ordena
+  primero as piezas d'o borde. As sopas de letras y os crucigramas funcionan
+  millor en letra gran. As puzlas en linia fáciles con cuatro piezas son
+  adequadas pa la fase media. Para cuando ya no sea divertido.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Triya por como va, no por una fase: si una puzla ye un trabayo, prueba una con menos piezas."
+  - "Piezas gran y fuertes y una imachen clara con zonas de color distintas son más fáciles que piezas chicas y cielos grans."
+  - "Importan as imachens de adulto. Chardins, cocinas, coches y animals, no dibuxos animados."
+  - "Fer-lo en compañía ye lo importante. Da-le piezas, ordena os bordes, deixa la tapa d'a caixa a la vista."
+  - "As sopas de letras en letra gran y as puzlas en linia fáciles con 4 o 9 piezas son gratuitas en esta web."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Cuantas piezas de puzla son las mejors pa una persona con demencia?"
+    a: "No hay un numero unico correcto. Una persona que feba puzlas de 1.000 piezas puede disfrutar encara unas cientos al principio, mientres que otras van mejor con una docena de piezas gran. Si una puzla semeya un trabayo o causa frustración, pasa a menos piezas. A nuestra puzla de imachen en linia tiene 4 o 9 piezas."
+  - q: "Son bonas as puzlas de piezas pa las personas con demencia?"
+    a: "Muitas personas las disfrutan, sobre todo si feban puzlas antes. Una puzla da a las mans una cosa que fer, un obchectivo claro y una imachen de la que charrar. Ninguna puzla ha demostrau tratar o frenar la demencia, asinas que tríyalas por disfrutar y por la compañía."
+  - q: "Qué puedo fer cuando una persona ya no puede con una puzla de piezas?"
+    a: "Fe-la más chica y fe-ne más tu: da-le una pieza a la vez, o deixa-le solo as ultimas pocas piezas. Prueba una puzla en linia de 4 piezas, ordenar as piezas por color, o simplemente mirar la imachen acabada en compañía."
+  - q: "Son adequados los crucigramas y as sopas de letras pa la demencia?"
+    a: "Pueden serlo en la fase inicial, en letra gran. As sopas de letras con as palabras solo en horizontal y vertical son más fáciles que las que tienen palabras en diagonal o al revés. Lee las pistas o la lista de palabras en voz alta y trabaya-las en compañía."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Una puzla estendida en a mesa d'o comedor ye una d'as actividatz más fáciles de compartir. Puede sentar-se con a persona sin necesidat de charrar, la imachen da de qué charrar, y meter la zaguera pieza da buena sensación. Pero las puzlas han de cambiar a lo que cambia a demencia. Una puzla masiau difícil puede convertir una tarde tranquila en una tarde de frustración. Esta pachina explica como triyar y preparar puzlas de piezas, puzlas de letras y puzlas en linia fáciles, y qué fer cuando se fan difíciles.
 
-## Are puzzles good for people with dementia?
+## Son bonas as puzlas pa las personas con demencia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Muitas personas las disfrutan, sobre todo as que feban puzlas de siempre. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) incluye as sopas de letras, os chuegos de cartas y os chuegos de mesa entre las actividatz pa la fase inicial, y el [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menciona os chuegos y puzlas en tablet como una manera de mantener-se implicau.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+As puzlas no son un tratamiento. Ninguna puzla ha demostrau frenar ni parar la demencia; nuestra guía de [chuegos de pensar y demencia](/brain-health/brain-games/) explica la investigación. La razón de fer una puzla ye que puede ser una hora agradable y absorbent en compañía. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) lo resume: centrar-se en disfrutar, no en conseguir.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Como triyar una puzla de piezas pa una persona con demencia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Triya por lo que la persona disfruta y como acabó la última puzla, no por una etiqueta de fase.
 
-### Number of pieces
+### Numero de piezas
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+No hay un numero correcto. Una persona que siempre ha feito puzlas puede disfrutar encara unas cientos de piezas al principio, mientres que a otra le agrada más una docena. Una regla practica: si la última puzla semeyó un trabayo, triya una con más o menos la mitat de piezas. Si la acabó rapido y quería más, puja un poquet.
 
-### Piece size and feel
+### Tamaño y tacto de as piezas
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Piezas más gran** se ven mejor, son más fáciles de coger y de dar la vuelta.
+- **Piezas gruesas y fuertes** se quedan en o sitio y aguantan si se caen.
+- **Acabau mate** reduce o rebrillo d'as lámparas y as ventanas.
+- **Evita piezas muy chicas** si la persona puede meter cosas en a boca, lo que puede pasar más adelante en a demencia.
 
-### The picture
+### La imachen
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Temas de adulto.** Chardins, cocinas, coches antiguos, animals de granchas, un pueblo de mar, un deporte que le agradaba. No dibuxos animados ni nada que paresca un chuguete de nino.
+- **Zonas de color distintas.** Un granero rochizo, una barca azul y un prau verde son más fáciles que un cielo que ocupe la mitat d'a puzla.
+- **Familiar y personal.** Una imachen d'un lugar en o que vivió o d'una afición que quería da mucho de qué charrar. Algunas copisterías pueden convertir una foto familiar en una puzla.
 
-## How do you do a puzzle together?
+## Como fer una puzla en compañía?
 
-Set it up so the person can get straight to the enjoyable part.
+Preparáu-lo de manera que la persona pueda ir directamente a la parte agradable.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Triya un buen sitio.** Buena luz, una cadiera con brazos, y una mesa o bandeja donde la puzla pueda quedar-se puesta.
+2. **Pon la tapa d'a caixa** de manera que los dos la vean.
+3. **Gira as piezas con a cara arriba** antes de empecipiar.
+4. **Ordena os bordes** tu, o fes primero o borde y deixa o centro pa ella.
+5. **Agrupa as piezas por color** en unas bandejas o platos bajos.
+6. **Da-le una pieza a la vez** si la pila la abruma. "Creo que esta ye parte d'o granero."
+7. **Charra de la imachen,** no de cómo vamos. "Ixo semeya a la barca que tenía mio pai."
+8. **Deixa-la puesta.** Torna-la a mirar en unos días. No hay prisa.
+9. **Para en un buen momento,** después de meter una pieza, mientres que aún da buena sensación.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) recomienda ayudar a la persona a empecipiar, vigilar a frustración y dexar-la mirar si eso le agrada más. Mirar cómo tu metes as piezas, y señalar a onde podría ir una, sigue siendo participar.
 
-## Easy online puzzles
+## Puzlas en linia fáciles
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Una puzla en tablet tiene algunas ventajas reals: no se pierden piezas, las imachens gran llenan a pantalla, y no hay que despexar una mesa.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+A nuestra [Puzla de imachen](/games/picture-puzzle/) gratuita, una imachen se trocea en 4 o 9 piezas. Toca dos piezas pa cambiarlas de sitio hasta que la imachen quede completa. La imachen completa se queda en pantalla como guía, no hay cronómetro, y se puede parar en cualquier momento. Cuatro piezas le van bien a muitas personas en la fase media con alguien a o lau.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Pa un chuego de imachens encara más sinxelo, prueba [Trobar o mismo](/games/find-the-same/), en o que toques a imachen que coincide con una d'arriba, o [Ordenar en compañía](/games/sort-together/), en o que las imachens van a cestas como as de la cocina o o chardín.
 
-## Word puzzles: word searches and crosswords
+## Puzlas de letras: sopas de letras y crucigramas
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+As puzlas de letras van bien con as personas que siempre las disfrutaron, normalmente al principio de la demencia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Sopa de letras en letra gran.** Nuestra [Sopa de letras](/games/word-search/) gratuita usa letras gran y solo unas pocas palabras, en horizontal y en vertical, nunca en diagonal ni al revés. Puede jugar-se en pantalla o imprimir-se.
+- **Lee la lista en voz alta.** Una persona lee una palabra y l'otra la busca. Basta con marcar solo a primera letra.
+- **Crucigramas en letra gran** de libros de pasatiempos pueden funcionar al principio. Lee as pistas en voz alta, comparte o boligrafo y rellena as respuestas en compañía. Son mejores los crucigramas fáciles y de un tema que los crípticos.
+- **Charra de las palabras.** "Chardín" puede dar pie a diez minutos sobre tomates.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Pa más actividatz de papel y como imprimirlas pa que se vean y se agarren bien, mire [actividatz imprimibles gratuitas pa la demencia](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Qué puzlas van bien en cada fase?
 
-Stages overlap, and good and hard days are normal.
+As fases se solapan, y los días buenos y los malos son normals.
 
-| Stage | Puzzles that often fit | Your role |
+| Fase | Puzlas que sovén encajan | Tu papel |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Inicial | Puzlas conoxidas con menos piezas que antes, crucigramas y sopas de letras en letra gran, puzlas en linia de 9 piezas | Compañero: deixa-le triyar, ayuda cuando te lo pida |
+| Media | Puzlas con una docena de piezas gran, puzlas en linia de 4 piezas, sopa de letras leyida en voz alta en compañía | Prepara-lo, ordena as piezas, da-le una a una |
+| Avanzada | Mirar juntos una imachen acabada, Trobar o mismo con dos imachens, agarrar unas pocas piezas gran | Acerca-lo a ella; tu compañía ye la actividat |
 
-## When should you make a puzzle easier, or stop?
+## Cuando cal fer una puzla más fácil, o parar?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Fixa-te en os suspiros, en as piezas apartadas, en un "no puedo" repetiu o en as miradas preocupadas. Son señales pa cambiar algo, no pa insistir.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Fe-la más chica.** Menos piezas, o deixa-le solo as ultimas pocas.
+- **Fe-ne más tu** y convida-la a ayudar en as partes fáciles.
+- **Cambia a una cosa cercana:** ordenar piezas por color, una puzla en linia de 4 piezas, o [pintar](/games/coloring/).
+- **Para.** Aparta-la y tome-se una tasa de té. Puede tornar otro día, o no tornar.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Si as puzlas empiezan a semellar un recordatorio de lo que costa, está bien dexar-las. Hay muitas otras maneras de pasar buen tiempo juntos; nuestras [101 ideas de actividatz](/activities/ideas/) son un buen sitio pa mirar.

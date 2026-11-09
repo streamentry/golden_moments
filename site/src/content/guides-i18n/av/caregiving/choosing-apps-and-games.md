@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Как выбрать приложения и игры для деменции"
+seoTitle: "Как выбрать приложения и игры для деменции: памятка"
+description: "Памятка для ухаживающих: определите цель, избегайте таймеров и рекламы, проверьте приватность и с осторожностью читайте заявления о доказательствах."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Сначала решите, чего вы хотите от приложения: мягкой стимуляции, воспоминаний,
+  спокойствия или общения. Затем выберите то, что подходит способностям
+  человека сегодня: крупные картинки, без таймеров, очков и рекламы, с простым
+  способом остановиться. Проверьте, какие данные оно собирает и можно ли их
+  удалить. Осторожно относитесь к обещаниям, что приложение предотвращает или
+  лечит деменцию: одно исследование не является доказательством.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Сначала определите цель: стимуляция, воспоминания, спокойствие и общение требуют разных приложений."
+  - "Смотрите на способности человека в конкретный день, а не на ярлык стадии, и держите управление простым."
+  - "Пропускайте приложения с таймерами, очками, «жизнями», сериями побед, рекламой или предложениями купить."
+  - "Проверьте сбор данных, передачу третьим лицам и возможность удаления. HIPAA обычно не распространяется на потребительские приложения."
+  - "Относитесь скептически к обещаниям «предотвращает деменцию». Одно испытание или высокие результаты в приложении не доказывают этого."
+  - "Golden Moments — это развлекательное занятие. Мы не делаем клинических заявлений."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Могут ли игры для ума предотвратить деменцию?"
+    a: "Нет надёжных доказательств того, что коммерческие приложения с играми для ума предотвращают или замедляют деменцию. Национальный институт старения США пишет, что пока недостаточно доказательств того, что коммерческие приложения для тренировки памяти дают такой же эффект, как структурированные тренировки, проверенные в большом исследовании. Выбирайте приложения ради удовольствия и общения, а не как лекарство."
+  - q: "Защищает ли HIPAA данные в приложении для деменции?"
+    a: "Обычно нет. HIPAA в основном относится к медицинским работникам, страховым планам и их деловым партнёрам. Приложение, которое вы скачали сами, обычно под HIPAA не попадает, если его не предоставил один из них. Правило о уведомлении о нарушении медицинских данных Федеральной торговой комиссии (FTC) охватывает многие медицинские приложения, на которые HIPAA не распространяется."
+  - q: "Каким должна быть хорошая игра для людей с деменцией?"
+    a: "С крупными и чёткими картинками и текстом, с одним понятным действием на каждом экране, без таймера и очков, без звуков при ошибках, без рекламы и с простым способом приостановить игру или остановиться. Она должна выглядеть так, будто создана для взрослых, и к ней должен легко присоединиться второй человек."
+  - q: "Заявляет ли Golden Moments, что помогает памяти?"
+    a: "Нет. Golden Moments предлагает простые совместные занятия для удовольствия и разговора. Мы не ставим диагноз, не лечим, не предотвращаем и не измеряем деменцию и не делаем никаких заявлений о памяти или мышлении."
+  - q: "Стоит ли платить за приложение для деменции?"
+    a: "Сначала попробуйте бесплатные варианты или пробный период и понаблюдайте в течение пары недель, как человек на это реагирует. Оплата сама по себе не делает приложение эффективнее. Перед подпиской узнайте, как отменить подписку."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+В магазинах приложений много игр с пометками «для пожилых», «для памяти» или «для деменции». Некоторые сделаны продуманно. Другие обещают что-то медицинское, добавляют таймеры, которые превращают игру в проверку, или содержат рекламу и собирают данные. Эта страница поможет вам самостоятельно оценить любое приложение. Другие продукты мы не ранжируем и не рецензируем.
 
-## What should I decide before choosing a dementia app?
+## Что нужно решить до выбора приложения для деменции?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Решите, чего вы хотите от приложения. «Игра для мамы» может означать очень разные вещи, и лучший выбор для одной цели часто плохо подходит для другой.
 
-| Goal | What it looks like | What to look for |
+| Цель | Как это выглядит | На что обращать внимание |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Мягкая стимуляция | Сопоставление, сортировка, простые головоломки, игры со словами | Регулируемая сложность, картинки, которые остаются видимыми, отсутствие спешки |
+| Воспоминания | Старые фотографии, знакомые поговорки, музыка молодости | Ваши собственные фотографии, открытые вопросы, без викторин |
+| Спокойствие | Медленные картинки, тихие звуки, дыхание, природа | Легко начать и остановить, нет мерцания, нет неожиданностей |
+| Общение | Игра или разговор вдвоём, лично или по видеосвязи | Рассчитано на двоих, есть подсказки для разговора |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Исследования структурированной «когнитивной стимуляции» для людей с деменцией в основном касаются групповых занятий под руководством обученного персонала: обсуждение, игры со словами, головоломки, музыка и творческие занятия. [Обзор Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) нашёл в среднем небольшую пользу, которая различалась между исследованиями. Такая социальная и разнообразная программа не то же самое, что приложение для одного, поэтому относитесь к любому приложению как к одному из совместных занятий.
 
-## How do I know if an app fits the person's abilities?
+## Как понять, подходит ли приложение способностям человека?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Смотрите, как человек реагирует, а не ориентируйтесь на диагноз или ярлык стадии. Два человека на «одной стадии» могут сильно различаться по зрению, слуху, контролю рук, речи и готовности пользоваться экранами. [Ассоциация Альцгеймера](https://www.alz.org/help-support/caregiving/daily-care/activities) советует учитывать прежние интересы и нынешние способности и ставить на первое место удовольствие, а не достижения.
 
-Signs of a good fit:
+Признаки хорошего подхода:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- человек начинает или присоединяется без долгих уговоров;
+- он улыбается, что-то комментирует или рассказывает историю;
+- ошибки, кажется, его не расстраивают;
+- он охотно останавливается, когда пора.
 
-Signs it is a poor fit:
+Признаки плохого подхода:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- повторяющиеся «я не могу» или «это глупо»;
+- непонимание, куда нажимать;
+- раздражение, смущение или отталкивание устройства;
+- всё работает, только если вы делаете почти всё сами.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Тревога — это сигнал, а не то, через что нужно проталкивать. См. [что делать, если человек говорит «нет»](/caregiving/when-they-say-no/). Идеи по стадиям, помимо приложений, см. в занятиях для [ранней](/activities/early-stage/) и [поздней](/activities/late-stage/) стадий.
 
-## What design features should I look for or avoid?
+## Какие особенности дизайна искать, а каких избегать?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Ищите спокойный, простой, взрослый дизайн и избегайте всего, что создаёт давление.
 
-| Look for | Be wary of |
+| Ищите | Остерегайтесь |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Крупные картинки и текст, высокая контрастность | Мелкие значки, перегруженные экраны |
+| Одно понятное действие на экране | Много кнопок, меню или многошаговые инструкции |
+| Нет таймера или таймер, который можно отключить | Обратный отсчёт, бонусы за скорость, «побей свой рекорд» |
+| Нет очков или мягкая обратная связь | Баллы, «жизни», серии побед, рейтинги, «возраст мозга» |
+| Ошибки обрабатываются тихо | Звуковые сигналы, красные крестики, сообщения «Неправильно» |
+| Взрослые, реалистичные картинки | Мультяшные или детские темы |
+| Работает без интернета, для начала не нужна учётная запись | Нужно регистрироваться, входить или сначала скачивать контент |
+| Легко приостановить и остановить | Всплывающие окна с вопросом, продолжать ли игру, или просьбой оценить приложение |
+| Без рекламы, понятная цена разовой покупки или подписки | Реклама, «лутбоксы», частые предложения купить |
+| Легко присоединиться второму человеку | Только для одного игрока, соревновательный дизайн |
 
-Ads and purchase prompts are easy to tap by accident.
+Рекламу и предложения купить легко нажать случайно.
 
-## How do I check an app's privacy?
+## Как проверить приватность приложения?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Проверьте, какие данные собирает приложение, с кем ими делится и можно ли их удалить. Перед установкой:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Прочитайте сводку о конфиденциальности в магазине.** Раздел [Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) в Google Play и раздел [информации о конфиденциальности](https://support.apple.com/en-us/102399) в App Store показывают, какие типы данных приложение может собирать и передавать. Обе компании отмечают, что эти сведения заполняют сами разработчики, поэтому это отправная точка, а не проверка.
+2. **Выясните, нужна ли учётная запись.** Если приложение только показывает картинки или простые игры, у него может не быть причин знать ваше имя, электронную почту или дату рождения.
+3. **Проверьте разрешения.** Нужна ли игре на сопоставление геолокация, контакты, микрофон или вся фототека? Отключите всё, что ей не нужно.
+4. **Ищите рекламу и аналитику.** Инструменты рекламы и отслеживания могут передавать данные о том, как используется приложение, другим компаниям.
+5. **Выясните, куда попадают фотографии.** Если вы добавляете семейные фото, остаются ли они на устройстве или загружаются на сервер? Их можно удалить?
+6. **Проверьте удаление.** В политике конфиденциальности или сводке данных найдите, как удалить данные и учётную запись. Если приложение говорит, что данные нельзя удалить, относитесь к нему с особой осторожностью, особенно если оно хранит фотографии или сведения о здоровье.
+7. **Прочитайте политику конфиденциальности**, чтобы понять простым языком, что собирается, зачем, как долго хранится и с кем делится.
 
-### Does HIPAA protect information in dementia apps?
+### Защищает ли HIPAA информацию в приложениях для деменции?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Обычно нет, и это удивляет многих. Министерство здравоохранения и социальных служб США [объясняет](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), что HIPAA применяется к страховым планам, большинству медицинских работников, клиринговым организациям в здравоохранении и их деловым партнёрам. В большинстве случаев она не защищает данные, которые вы вводите в приложение для личного пользования, если только приложение не предоставлено организацией, на которую распространяется закон, или её деловым партнёром. «Приложение для деменции» из магазина часто находится вне HIPAA, даже если в нём говорится о здоровье.
 
-### What protects health data in apps that HIPAA does not cover?
+### Что защищает данные о здоровье в приложениях, на которые HIPAA не распространяется?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Многие из них охватывает правило о уведомлении о нарушении медицинских данных Федеральной торговой комиссии (FTC). В 2024 году FTC [утвердила изменения](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), уточнив, что правило применяется к медицинским приложениям и подобным технологиям, которые не подпадают под HIPAA. «Нарушением» считается и несанкционированная передача данных, а не только взлом, и компании обязаны уведомить затронутых людей и FTC. Это страховка на случай, если что-то пошло не так, а не обещание, что приложение собирает только необходимое.
 
-## How should I read claims about research and evidence?
+## Как читать заявления о исследованиях и доказательствах?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Читайте заявления о доказательствах медленно и больше всего сомневайтесь в самых громких обещаниях. Вопросы, которые стоит задать:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Что именно изучали?** Исследование одной программы тренировок не показывает, что каждая игра в приложении работает так же.
+- **Кто участвовал?** Результаты у здоровых пожилых людей могут не относиться к человеку с деменцией.
+- **Что измеряли?** Улучшение в самой игре — это не то же самое, что изменения в повседневной жизни, общении, настроении или самостоятельности.
+- **Насколько сильно исследование?** Рандомизированное контролируемое исследование (RCT) сравнивает группу, которая пользуется приложением, с группой, которая не пользуется. Это хороший дизайн, но одно маленькое или короткое RCT не является доказательством. Ищите несколько исследований, проведённых независимыми учёными, которые приходят к одинаковым выводам.
+- **Заявляет ли оно, что меняет болезнь?** Исследование, показывающее небольшое улучшение в тесте, не является доказательством того, что приложение замедляет, предотвращает или лечит деменцию.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+На странице Национального института старения США [о когнитивном здоровье пожилых людей](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) описано крупное исследование структурированной когнитивной тренировки, финансируемое NIH, а затем читателей предупреждают быть осторожными с заявлениями, что некоторые компьютерные и онлайн-игры улучшают память и мышление. Там говорится, что пока недостаточно доказательств того, что коммерческие приложения для тренировки мозга дают такой же эффект, как тренировки, проверенные в том исследовании. Подробнее читайте в нашем руководстве о [играх для ума и доказательствах](/brain-health/brain-games/) и о [том, что говорят исследования о предотвращении деменции](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Какой публичный пример вводящего в заблуждение заявления?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+В январе 2016 года FTC [объявила о мировом соглашении](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) с создателями Lumosity, программы «тренировки мозга». FTC утверждала, что компания без достаточных доказательств заявляла, будто её игры могут отсрочить возрастное снижение когнитивных функций и защитить от лёгких когнитивных нарушений, деменции и болезни Альцгеймера. Компания согласилась выплатить 2 миллиона долларов и обязалась при подобных заявлениях в будущем иметь компетентные и надёжные научные доказательства. Этот случай — полезное напоминание, что рекламный текст не является доказательством.
 
-### Which words are red flags?
+### Какие слова — красные флажки?
 
-Be cautious when an app or ad says it:
+Будьте осторожны, если приложение или реклама говорит, что оно:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- «предотвращает», «обращает вспять», «останавливает» или «излечивает» деменцию или болезнь Альцгеймера;
+- «клинически доказано», но не называет исследование, участников и то, что измерялось;
+- выдаёт «возраст мозга» или оценку памяти, которая подразумевает диагноз;
+- «заостряет», «усиливает» или «тренирует» мозг;
+- использует отзывы как доказательство.
 
-If you are unsure about a claim, ask the person's doctor.
+Если вы не уверены в заявлении, спросите врача человека.
 
-## Where does Golden Moments fit?
+## Какое место занимает Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments предлагает простые совместные занятия, а не тест на память, терапию или медицинские советы. Наши игры, такие как [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) и [Calm Breathing](/games/calm-breathing/), созданы для удовольствия и разговора. Они не ставят диагноз, не лечат, не предотвращают и не измеряют деменцию, и мы не делаем никаких заявлений о памяти или мышлении.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Мы также делаем бесплатное приложение [Golden Moments для iPhone, iPad и Android](/app/). В нём есть мягкое сопоставление картинок с крупными плитками, игры с семейными фотографиями, которые выбираете вы, и наборы картинок, которые работают без интернета, без учётной записи, рекламы, таймера и очков. К нему применима та же памятка: в метке конфиденциальности App Store написано «Data Not Collected», а [политика конфиденциальности приложения](/app-privacy/) объясняет, где хранятся копии фотографий.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Мы предпочитаем, чтобы вы нас проверяли, а не доверяли нам на слово. Пользуйтесь памяткой на этой странице, прочитайте нашу [страницу о конфиденциальности](/privacy/) и [медицинскую оговорку](/medical-disclaimer/) и прекратите пользоваться чем угодно, в том числе нашим продуктом, если это не подходит человеку, за которым вы ухаживаете.
 
-## What is a sensible way to try a new app?
+## Как разумно попробовать новое приложение?
 
-Try it together for a couple of weeks and watch what happens.
+Попробуйте вместе в течение пары недель и понаблюдайте, что происходит.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Сначала настройте** с помощью нашего [руководства по настройке планшета и телефона](/caregiving/tablets-and-screens/) и начните с самого простого уровня.
+2. **Делайте сеансы короткими,** замечайте улыбки, разговор и спокойствие и заканчивайте на хорошем моменте.
+3. **Откажитесь от приложения, если оно вызывает раздражение,** какими бы высокими ни были его оценки.

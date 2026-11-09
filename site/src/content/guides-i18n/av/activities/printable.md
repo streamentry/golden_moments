@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Бакьарал печатаемые занятия при деменции"
+seoTitle: "Печатаемые занятия при деменции: крупный шрифт"
+description: "Бесплатные печатаемые занятия при деменции: поиск слов крупным шрифтом, раскраски, карточки для разговора и картинкное бинго, а также советы, как их хорошо напечатать."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments предлагает бесплатные печатаемые занятия при деменции: поиск
+  слов крупным шрифтом, раскраски, карточки с картинками для разговора и
+  картинкное бинго. Откройте любую страницу игры и нажмите кнопку «Печатать».
+  Печатайте крупным и простым шрифтом на плотной бумаге, на одной странице
+  держите одно задание, а страницы, которыми хотите пользоваться снова,
+  ламинируйте. Простые самодельные листы, например страница о жизни человека
+  или распорядок дня, тоже помогают.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Наши печатаемые занятия бесплатны: поиск слов, раскраски, карточки для разговора и картинкное бинго. На каждой странице игры есть кнопка «Печатать»."
+  - "Печатайте крупным и простым шрифтом с хорошим контрастом и держите на одной странице одно задание."
+  - "Плотную бумагу или картон легче держать, и они меньше мнутся. Страницы можно ламинировать и использовать снова с маркером для белой доски."
+  - "Самодельные листы, такие как страница о жизни человека, распорядок дня или картинные таблички на дверях, просты и полезны."
+  - "Напечатанная страница — это приглашение, а не домашнее задание. Если сделана только часть или ничего не сделано, это нормально."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Бесплатны ли ваши печатаемые занятия при деменции?"
+    a: "Да. Поиск слов, раскраски, карточки для разговора и картинкное бинго на этом сайте можно бесплатно использовать и печатать. Откройте страницу игры и нажмите кнопку «Печатать»."
+  - q: "Какие печатаемые занятия лучше всего подходят при деменции?"
+    a: "Лучше всего подходят простые, понятные и взрослые материалы: поиск слов крупным шрифтом, где слова идут только по горизонтали и вертикали, раскраски с четкими контурами, карточки с картинками, которые начинают разговор, и картинкное бинго для групп. Подбирайте занятие под интересы и нынешние возможности человека и держите на одной странице одно задание."
+  - q: "Как сделать печатаемые материалы удобнее для просмотра и использования?"
+    a: "Используйте крупный и простой шрифт, темные чернила на белой или кремовой бумаге и достаточно свободного места. Печатайте на плотной бумаге или картоне, чтобы страница лежала ровно, выбирайте матовую бумагу, чтобы уменьшить блеск, и кладите лист на планшет или нескользящую подложку. Ламинирование помогает страницам дольше служить."
+  - q: "Можно ли печатать ваши занятия для дома престарелых или дневного центра?"
+    a: "Да. Сотрудники по досугу могут печатать наши страницы для живущих и групп. Картинкное бинго рассчитано на группы и включает ведущего на экране, которого можно показать на телевизоре или проекторе."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Иногда лучшее занятие — это лист бумаги и ручка за кухонным столом. Для печатаемых материалов не нужны зарядка, пароли или экран, и их легко взять с собой в гости или на групповое занятие. На этой странице описаны бесплатные печатаемые занятия на нашем сайте, как их печатать, чтобы их было легко видеть и держать, и несколько простых самодельных листов, которые семьи и сотрудники по досугу находят полезными.
 
-## What free printable activities do you offer?
+## Какие бесплатные печатаемые занятия вы предлагаете?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+У нас есть четыре бесплатных печатаемых материала. Откройте любую из этих страниц игр и нажмите кнопку **«Печатать»**, чтобы получить версию для печати.
 
-| Printable | What it is | Good for |
+| Материал | Что это | Подходит для |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Поиск слов](/games/word-search/) | Поиск слов крупным шрифтом, где слова идут только по горизонтали и вертикали | Спокойного времени с ручкой; человека, который любил головоломки |
+| [Раскраски](/games/coloring/) | Страницы для раскрашивания, которые можно напечатать или раскрасить на экране | Спокойного творческого времени; любого этапа с помощью |
+| [Карточки для разговора](/games/conversation-cards/) | Карточки с картинками и открытыми вопросами по темам, без проверки знаний | Визитов, звонков, семейных обедов, групп воспоминаний |
+| [Картинкное бинго](/games/picture-bingo/) | Карточки бинго с картинками вместо цифр и ведущий на экране | Домов престарелых, дневных центров, семейных встреч |
 
-### Large-print word search
+### Поиск слов крупным шрифтом
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+В [поиске слов](/games/word-search/) крупные буквы, а слова идут только по горизонтали и вертикали, без диагоналей и слов задом наперед. Работайте вместе: один человек читает слово из списка, другой его ищет. Если найти слова трудно, попробуйте вместе обвести первую букву каждого слова или просто прочитать список вслух и поговорить о каждом слове.
 
-### Coloring pages
+### Страницы для раскрашивания
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Раскраски](/games/coloring/) можно напечатать и раскрашивать маркерами или цветными карандашами, а можно раскрасить на планшете, нажимая на цвет и затем на часть рисунка. Для печатной версии дайте толстые маркеры и несколько цветов сразу. Подробнее о том, как сохранить раскрашивание взрослым и спокойным, см. наш [путеводитель по творчеству и ремеслам](/activities/arts-and-crafts/).
 
-### Conversation cards
+### Карточки для разговора
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Карточки для разговора](/games/conversation-cards/) сочетают понятную картинку с открытым вопросом, например «Расскажи мне о…» или «Что ты замечаешь?». Они написаны как открытые приглашения, а не как вопросы викторины. Напечатайте набор, разрежьте карточки и держите несколько в сумке для визитов или рядом с телефоном для звонков. Они также хорошо подходят для групп [воспоминаний](/activities/reminiscence/).
 
-### Picture bingo cards
+### Карточки бинго с картинками
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Карточки [картинкного бинго](/games/picture-bingo/) используют картинки вместо цифр. Напечатайте по одной карточке на игрока и используйте ведущего на экране ноутбука, телевизора или проектора. Мы советуем продолжать игру, пока у всех не заполнятся карточки, чтобы никто не остался в стороне. Как провести такое занятие, см. в разделе [групповые занятия для домов престарелых](/activities/care-home-groups/).
 
-## How do I print activities so they are easy to use?
+## Как печатать занятия, чтобы ими было удобно пользоваться?
 
-Small changes in how you print make a big difference.
+Небольшие изменения при печати очень помогают.
 
-### Make it easy to see
+### Чтобы было хорошо видно
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Крупный и простой шрифт.** Используйте самый большой размер, который еще помещается на странице. Избегайте витиеватых и рукописных шрифтов.
+- **Сильный контраст.** Темные чернила на белой или кремовой бумаге. Не используйте бледно-серый или цветной фон.
+- **Матовая бумага** уменьшает блеск под яркim светом.
+- **Проверьте очки и освещение.** Ассоциация Альцгеймера отмечает, что проблемы со зрением и слухом могут затруднять общение, и советует регулярно проверять их. Помогает и яркая ровная лампа.
 
-### Make it easy to hold
+### Чтобы было удобно держать
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Плотная бумага или картон** лежат ровно, их легче взять и они выдерживают многократное использование.
+- **Планшет** или нескользящая подставка не дают листу сдвигаться.
+- **Толстые маркеры или крупные карандаши** удобнее держать, чем тонкие ручки.
 
-### Make it reusable
+### Чтобы можно было использовать снова
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Ламинируйте страницы** или вкладывайте их в прозрачные файлы. На поиске слов и карточках бинго используйте маркеры для белой доски, а потом протирайте.
+- **Выбирайте матовую пленку**, если мешает блеск, и **скруглите углы** ламинированных карточек ножницами, чтобы ими было удобно пользоваться.
+- **Заведите папку** с любимыми материалами, чтобы не печатать одно и то же каждую неделю.
 
-### Keep it simple
+### Держите всё простым
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Одно задание на странице.** Один поиск слов или одна картинка, а не несколько занятий в одной куче.
+- **Много белого места.** Перегруженная страница может пугать.
+- **По возможности без инструкций для чтения.** Покажите человеку, что делать.
+- **Уменьшайте листы.** Если полная страница слишком много, разрежьте ее пополам или сложите так, чтобы было видно только часть.
 
-## Other useful printables you can make at home
+## Другие полезные материалы, которые можно сделать дома
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Не каждый полезный материал — это игра. Эти листы легко сделать в текстовом редакторе на принтере.
 
-### A life-story page
+### Страница о жизни человека
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Одностраничный лист «обо мне» с фотографией, именем, которым человеку нравится, чтобы его называли, местом, где он вырос, его работой, семьей, любимыми блюдами, музыкой и тем, что его успокаивает или расстраивает. Dementia Australia советует [альбом воспоминаний](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) с подробностями о жизни человека, его вкусах и важных для него людях. Это помогает гостям и ухаживающим и служит поводом для разговора.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Такой лист особенно полезен в больницах и новых местах ухода. NIA рекомендует давать персоналу больницы [лист с личными сведениями](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), где указаны распорядок, предпочитаемое имя, что нравится и не нравится, возможные триггеры и невербальные признаки боли.
 
-### A daily schedule
+### Распорядок дня
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Большое и простое расписание дня с временем, несколькими словами и маленькой картинкой для каждой части: завтрак, прогулка, обед, отдых, музыка, ужин. Ассоциация Альцгеймера в своем [плане ежедневного ухода](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) советует строить день вокруг лучшего времени человека, соблюдать регулярное время подъема и сна и чередовать активность с отдыхом. Повесьте лист на уровне глаз, например на холодильник, и будьте гибкими. Подробнее см. в нашем [путеводителе по распорядку дня](/activities/daily-routine/).
 
-### Picture labels for rooms and drawers
+### Картинные таблички для комнат и ящиков
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA советует использовать яркие знаки или простые картинки, чтобы [подписать ванную, спальню и кухню](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Та же идея подходит для ящиков и шкафов: картинка носков на ящике с носками, чашки на шкафу с посудой. Напечатайте, ламинируйте и прикрепите.
 
-### A sorting set
+### Набор для сортировки
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Напечатайте картинки из двух простых групп, например фрукты и цветы или инструменты и кухонные предметы, на картон. Разрежьте их и вместе разложите в две корзинки. Экранный вариант этого занятия — [Сортировка вместе](/games/sort-together/).
 
-### Song lyric sheets
+### Листы с текстами песен
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Напечатайте слова нескольких любимых песен очень крупным шрифтом для совместного пения. Даже те, кто уже мало читает, могут с удовольствием держать такой лист.
 
-### A family photo page
+### Страница с семейными фотографиями
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Одна страница с четырьмя-шестью крупными семейными фотографиями, под каждой написано имя. Ее можно положить на стол, и любой может взять ее и поговорить о том, что видит. Подписи помогают гостям и персоналу включиться в разговор, и никому не приходится спрашивать: «Кто это?»
 
-### A recipe card
+### Карточка с рецептом
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Напечатайте любимый семейный рецепт крупным шрифтом. Используйте его, чтобы готовить вместе или просто поговорить о блюдах из прошлого.
 
-## How do I offer a printable without it feeling like homework?
+## Как предложить печатаемое занятие, чтобы оно не походило на домашнее задание?
 
-Present it as something to share, not a test.
+Предлагайте это как что-то, чем можно поделиться, а не как проверку.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Сядьте и начните сами.** «Я делаю этот поиск слов. Поможешь мне найти „сад“?»
+- **Работайте вместе.** Чередуйтесь или пусть один ищет, а другой обводит.
+- **Никогда не отмечайте ответ как правильный или неправильный.** Руководство Ассоциации Альцгеймера по [занятиям дома](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) советует сосредоточиться на процессе, а не на результате, и на удовольствии, а не на достижении.
+- **Оставляйте материалы на виду.** В том же руководстве советуют класть альбомы с фотографиями, семейные альбомы или старые журналы туда, где до них легко дотянуться. Так же на боковом столике можно оставить печатные карточки и страницы с фотографиями.
+- **Останавливайтесь, когда захотите.** Половина страницы для раскрашивания — тоже хороший день. Как и то, что вы убираете лист и пьете чай.
 
-## Where to find more
+## Где найти больше
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Посмотрите все наши [игры и печатаемые материалы](/games/) или [занятия для каждого этапа](/activities/ideas/) с идеями, с бумагой и без нее.

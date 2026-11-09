@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Demencia uñjatapat sapa uru sarnaqawi"
+seoTitle: "Demencia sapa uru: Ch'iqa uñacht'awi"
+description: "Demencia uñjatapat ch'iqa uru uñacht'awi, manq'a, luraña ukat samaraña sapa pachan thakhinkama, ukat kunjamas jumax nayrakama luraña ukat ch'ikhi urunakan wakisiñamawa."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Jan wali sapa uru sarnaqawiwa, jaqi sartañ, manq'añ, aseo ukat puñuñ
+  pachanakax kunapachas ukhamarakiw sarnaqaraki, luraña pachax jaqi ch'iqa
+  amuyuñkama uñjasiwa, ukat luraña ukat samarañ mayjt'awiwa. Jaqin
+  nayrankir sarnaqäwinakapat lurasiñamawa, janiw jist'arañchi, ukat sapa
+  uru grabi uñjañamawa. Uru ukat jan ukax kunjamas wakisi ukhamaw
+  thakhi mayjt'añama.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Sartañ, manq'añ, uñjañ ukat puñuñ pachanakax ukhamarakiw sapa urux yatiñ tuqi sarnaqaraki."
+  - "Luraña pachax jaqi ch'iqa amuyuñkama uñjasiwa, sapa uru nayraru maykamax."
+  - "Sapa mayni pachaw janiw phuqañamäkiti. Samaraña ukat isi pacha thakhin ukax sarnaqäwin mä chiqapa wakiskiriwa."
+  - "Sapa urun inti manq'ayaña, sapa uru lurañ ukat ch'ikhi puñuñ, mä jan wali puriñatak yanapt'aspawa."
+  - "Thakhi mä yatiyañawa, janiw kamachiti. Jan wali urunakan kuna ukanakas mayjt'am, pisiyañamay jan ukax janiw lurañamäkiti."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "¿Kunatsa demencia uñjatapat sapa uru sarnaqawi wali?"
+    a: "Mä uru yatiyatäpan janiw jan suytatäkiti ni jan suytatäkiti, ukax jaqinakan amuyuñ ch'iqa ukat jan utjañ ch'amanaka pisiyaspawa, ukat ukax walpun sut'ichañ ukat amuyañ utjaspawa. Alzheimer's Association sañapkiwa, yatiyatäpan thakhi mä sapa uruw jumax janiw yatiñ mayjt'añ ukat luraña janiw maynit maynikam mayjt'añkamakiti. Ukhamarakiw uñjir jaqinakan uru sarnaqäwiparu yanapt'aspawa."
+  - q: "¿Kunas wali sapa uru thakhiwa demencia uñjatapat?"
+    a: "Janiw mä chiqapa thakhi utjkiti. Wali thakhix sartañ, manq'añ ukat puñuñ pachanakax ukhamarakiw sapa uru sarnaqaraki, aseo ukat luraña pachax jaqi wali pachan utjaraki, mä inti manq'añ jan ukax ventana ch'iqa sarnaqaña, ukat samaraña pachanakax utjaraki. Jaqin mayni uñt'ataparuw lurasiñamawa."
+  - q: "¿Demencia uñjatax uru samañapa?"
+    a: "Mä chhika samaraña yanapt'aspawa, khäpar ch'uxña manq'ayañ qhipat. National Institute on Aging sañapkiwa, jan wali suma samaraña ukat uru tukuyañkama ch'ikhi puñuñ jark'aña, ukax jaqi jan wali samarata jan ukax ch'iqa puñuña ukax jan wali puriñat yatiyañ ch'amañ ukat. Puñuñax jan wali sarnaqaski ukhaxa, jumax doctor uñjirimpi parlañamawa."
+  - q: "¿Kunas utjaspa ukhax jupax thakhi mayjt'añ janiw munaspati?"
+    a: "Jupax jichhürux jaytañamawa, ukat qhipatxa jan ukax mayjt'at thakhimpi yatiyañamawa. Jan munañax jupax sar ch'iqapatax jan ukax janiw ch'amanakapa utjaraki, jan ukax mä jukhu jan wali jani ukax janiw lurañ munañapanakax. Thakhix jaqi sapa uruw yanapt'añatakiwa, ukatwa jan wali thakhiw jan lurañamäkiti."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Mä jan wali sarnaqawiw jumar yatiyañ ukat sapa uru sarnaqäwin mä uñjasiñ thakhiwa: sartañ, manq'añ, mä chhika luraña, samaraña ukat puñuña, sapa urun mayni pachanakan. Ukax jan suytatänakampi yanapt'aspawa, ukat kunapachas jumax "kunsa lurañ" sasa amuyañ mayjt'aspawa. Thakhi akax mä yatiyäwiwa, janiw kamachiti. Qalltañatak lurasim, ukat jumar uñjatap jaqi ukar sum sarnaqañamawa.
 
-## Why does a daily routine help?
+## ¿Kunatsa sapa uru thakhix yanapt'aspa?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Mä jan wali thakhix yanapt'aspawa, kunattix uñt'atañ sarnaqäwinakax machaq sarnaqäwinakat sasa yanapt'añ sum sum. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) sañapkiwa, mä yatiyatä urux jaqi kuna lurañ amuyañ mayjt'aspawa, ukat walikiw luraña pachanakan utjaraki. Ukhamarakiw sartañ ukat puñuñ pachanakax ukhamarakiw utjañapa, ukax puñuña ch'iqa ukat tuqi jan wali puriñatak yanapt'aspawa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sañapkiwa, aseo, isi uñt'añ ukat manq'añ sapa uru ukhamarakiw lurañapa, mä isi uta sarnaqäwin utjañapatak. Ukat [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sañapkiwa, jan jaytañ sarnaqäwi ukhamarakiw.
 
-## A sample gentle day
+## Mä sapa uru ch'iqa thakhi
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Pachanakax mä uñacht'äwiwa xane. Pacha jaqi sarnaqäwin thakhi mayjt'añamawa.
 
-| Time | What happens | Ideas | On a harder day |
+| Pacha | Kuns lurasi | Amuyunaka | Jan wali uruna |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Sartaña, aseo, isi uñt'aña | Sapa uru mayni ukhamarakiw; isi ch'iqa mayt'ayaña | Uñjañ ch'ikhipuni; mä machaq aycha walikiw |
+| 8:45 a.m. | Ch'ukuña | Kafi ukat qillqat ch'uqa parlaña, jan ukax radio | Chhaqtañ isin ch'uqa manq'aña, janiw parlañ ch'amañ |
+| 9:30 a.m. | Jach'a luraña | Isi tiñuña, t'ant'a luraña, uta ch'uqi, jan ukax mä chhika sarañ | Mä ch'iqa luraña, jan ukax jupax uñjañ |
+| 10:30 a.m. | Ch'iqa pacha | Musica, fotonaka, jan ukax ventana ch'iqa jaytaña | Munat silla ch'iqapan samaraña |
+| 11:00 a.m. | Almuerzo yanapt'aña | Ch'uqinaka ch'uqaña, mesa uñjaña | Jumax ch'uqaña; jupax jumampi sarañ |
+| 12:00 p.m. | Almuerzo ukat ch'iqanchaña | Mesa ch'alltaña, mä qala ch'alltaña | Lurañanaka jaytaña |
+| 1:00 p.m. | Chhika samaraña | Jaqi chakanak, suma musica | Kunjamas nayrax |
+| 2:00 p.m. | Jaqsa jan jaqsa luraña | Sarañ, patio pacha, quntanak umaña, mä bola jaytaña | Inti manq'ayañ ventana ch'iqa |
+| 3:00 p.m. | Jaqinakampi jan ukax luraña | Mä jutaña, mä jawsu, [picture pairs](/games/picture-pairs/), pintura, naipes | Mä umañ ukat mä manq'ayaña jukhu |
+| 4:30 p.m. | Ch'iqachaña pacha | Cortinanaka t'akhaña, luzinaka phasi, mä ch'iqa luraña ukax ch'uqinaka jaruña | Suma musica, jan ch'uxña ch'uqi |
+| 5:30 p.m. | Ch'uqi manq'aña | Ch'uqi tuqita yanapt'aña, jan ukax mesa uñjaña | Sum ch'uqi, aka uñt'ata |
+| 6:30 p.m. | Jaqinakampi utjaña | Qhipa manq'añ ukat yatiyañ, pastel, naipes, jan ukax mä jan wali sarnaqäwi, mano t'ant'aña | Ch'iqa jaqinakampi utjaña |
+| 8:00 p.m. | Puñuña pacha | Umañ jan ukax aseo, puñuña isi, ch'iqa musica, ch'ichi luzinaka | Ch'iqachaña ukanakax; suma jank'aki jaqi |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Akax Alzheimer's Association mä yatiyatäpan thakhimpi sarnaqäwiwa, nayra ukat jan ch'iqa uñt'aña pachanakatak, aseo ukat ch'uqi manq'aña, lurañanakax, sarañ, uñt'aña, samaraña, qhipa manq'añ ukat puñuña pacha.
 
-## How do you build your own routine?
+## ¿Kunas thakhi jumax lurasma?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Qalltañax janiw chart ukat utjañapäkiti, jaqi kunjamas sarnaqaskan uka uñjasa. Alzheimer's Association sañapkiwa, nayra lurañat ukanakan amuyañamawa:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Jupan munañapa, janiw munañapa, ch'amapa ukat yatiñapa.**
+- **Kunjamas nayrar sarnaqaskäna.** Sapa uru jaya sartir jaqix jaya sartañamawa. Mä puñuña uru sarir jaqix janiw 8 a.m. sartañ munkaspati.
+- **Jupan wali pacha.** Aseo, sarañ ukat jach'a luraña ukar uchañamawa.
+- **Ch'iqa pacha** manq'añ, aseo ukat isi uñt'añatak, jan ch'ikhi lurañapataki.
+- **Sapa uru sartañ ukat puñuña pacha.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ukat ukax yatiyaraki, utapan lurañanaka, manq'añanaka, aseo ukat t'ant'a ukat jaqinakampi utjaña, ukhamarakiw suma amuyunaka ukat jan suytatäki pacha, kunjamas jaqi jutaski ukax.
 
-### Try it for a week, then adjust
+### Mä phaxsi uñtasma, ukat mayjt'asma
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Sapa uru yatiyawi qillqasma. Alzheimer's Association sañapkiwa, kunas wali sarnaqäwinakaw walikïna ukat kunatsa, jan ukax ch'iqa pacha jan lurañanaka, jan ukax jan ch'iqa jan lurañanaka utjäna, ukat jan suytatäki sarnaqäwinakax llakisiñ utjayäna. Walikïki ukanakar imañamawa, jan walinakar mayjt'añamawa.
 
-### Make it visible
+### Uñjañ thakhi
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Jaqix qillqat uñt'añ ukhaxa, mä pizarrón jan ukax jach'a qillqa mä uru thakhi ukax suma. Chhika qillqañamawa: "Ch'ukuña. Sarah jaqimpi sarañ. Manq'añ. Samaraña." Yaqhepax janiw nayrar yatiñ munañapa; Family Caregiver Alliance sañapkiwa, llakisiñ utjasi ukhax sarnaqäwinak janiw nayrar parlañamäkiti.
 
-## How to adapt the routine
+## Kunjamas thakhi mayjt'aña
 
-### Leave room to breathe
+### Samaraña ch'iqa
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Janiw sapa mayni pachaw phuqañamäkiti. Alzheimer's Association sañapkiwa, jaqix lurañ ukat samaraña ch'iqapan utjañapa ukat mä qhipa chhika samaraña munaspa. Jupax aburrido, jan amuyasi jan ukax colérico uñjaraki ukhaxa, luraña jan ukax samaraña mayjt'am.
 
-### Protect the late afternoon
+### Qhipa manq'añ jaysaña
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Yaqha jaqinakax inti manq'ayañ qhipat jan wali llakisiñ utjaspa. NIA sañapkiwa, sapa uru inti manq'ayañ ukat ventana ch'iqa sarañ, sapa uru ch'amampi lurañ jan jach'a amuyañ, qhipa manq'añ cafeína ukat alcohol jan manq'añ, ukat qhipa manq'añ chhika samaraña jark'aña. Yaqha familianakax sut'ichapxi, luzinaka phasi ukat cortinanaka t'akhañax suma. Uñjasim [qhipa manq'añ llakisiñ](/caregiving/late-day-restlessness/) ukat [puñuña](/brain-health/sleep/).
 
-### Change it as needs change
+### Pachanakan mayjt'aña
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Nayra pacha:** thakhi chiqapar lurasim. Jaqix qillqat thakhi munaspa, jupa mayni lurañatak.
+- **Chiqa pacha:** jumax yanapt'asma. Chhika lurañanaka, yaqha samarañanaka ukat walja uñt'at lurañanaka; uñjasim [chiqa pacha lurañanaka](/activities/middle-stage/).
+- **Qhipa pacha:** thakhix aseo, manq'añ ukat jan wali uñjañ ukar sarnaqaspa, mä ch'iqa musica jan ukax mano t'ant'aña ukanakampi; uñjasim [qhipa pacha lurañanaka](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Lurañanakax mayjt'aña, thakhi janiw
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Manq'aña, samaraña ukat puñuña ch'iqa jaytasim, ukat luraña ukanakax mayjt'asma. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sañapkiwa, sapa urunakan yaqha lurañanakas lurasiñamawa. Lunes uru t'ant'a luraña, martes uru uta tiñuña, miércoles uru fotonaka uñjaña. Nuestra [101 lurañanaka](/activities/ideas/) ukat [uta lurañanaka](/activities/household-tasks/) ukanakax walja utjaraki.
 
-## When the day goes sideways
+## Kuna uru jan wali sarnaqaski ukhax
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Yaqha urunakax janiw thakhimpi sarnaqkiti. Jan walt'äwi, jan suma puñuña, doctor uñjasiña jan ukax jaya jan ch'iqa ukanakax thakhi mayjt'aspawa. Thakhi jaytasim, manq'añ, umaña, samaraña ukat suma uñt'añ ch'ikhipuni, ukat qhipatxa jan wali sarnaqañamawa. Jaqix mä lurañ jan munaspa ukhaxa, uñjasim [jan munañ](/caregiving/when-they-say-no/). Mä chhika samaraña jupanakampi, kunjamas [calm breathing](/games/calm-breathing/) ukax, yanapt'aspawa.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Jumanakan sarnaqäwix ukhamarakiw wali. Jumanak samaraña pacha uñjasim, ukat familia jan ukax respiro uñjirinakaru mayni pacha jaytañamawa. Uñjasim [caregiver self-care](/caregiving/caregiver-self-care/).

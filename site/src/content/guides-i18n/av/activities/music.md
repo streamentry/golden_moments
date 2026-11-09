@@ -1,32 +1,33 @@
 ---
 title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+seoTitle: "Музыкаялда гьаракатал деменция бугеб гIадамазе: плейлистал ва рагIулал"
+description: "Деменция бугеб гIадам лъикIал мусиқи бакIаразе: гьеб гIадамасе бихьизаб жанрал ва зайиф эраз ккараб мусиқий 15 гьаракат, ва кIвечIиялъул ҳар цIаралде рагIулал."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Мусиқи деменция бугеб гIадамазе бакIараб сабаб гьаракатазул берцинал дир.
+  Гьеб гIадамасе лъикIал жанрал, рик1ул гьарлъун ва гьеб гIадамасе ккараб
+  рукIазул мусиқи бихьизабго плейлист, ва реклама ва фонал шагIар бечӀӀеро
+  бакIарал. Цинал ва мухI кIалъ рукIан, гIадам гьоркьор гьакь ккадир кIвечIиялда
+  мусиқи роккъоб ва цIаг кIалъ. Уна мусиқи кIвечIиялъул хасиятаздасе
+  бугеб, сон гьарлъунза ккаро, гьеб гIадам кьаркьарал гIасал ккун бугони.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Гьеб гIадамасе лъикIал мусиқи чIвалалда бакIаразе лъикIал дир: гьеб гIадам рукIа ккараб жанрал, ва рукIа, ччу ва рикIа бугеб мусиқи."
+  - "Бихьизе бугоро бакIаразе кIалъ: реклама щибаз ругадирал, ТВ бечIеро."
+  - "Гьарлъун, рик1ул гьарлъун, гьарлъун ва ккараб гIеш — щибго гьаракатаз гьазбе буго."
+  - "Чи кIвечIиял рукIа кIалъ гIадам мацIил тамашде, ва рукIа кIалъ кIвечIиял ккара, гьеб гIадам щула тIаса жаваб гьабизе кIолаго."
+  - "Структуралъул мусиқи гьаракатазул кьаркьарал рагIи кьолаго; мусиқи лъикIал рикIаралде бакIаразе дир, лъабаз сабаб ругадирал."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Деменция бугеб гIадамазе лъикIал мусиқи шуна дир?"
+    a: "Гьеб гIадам бичIчIаб дир ва рикIа бугеб мусиқи, цIей ва ахирал рукIазул чIвалалда; гьаракатазе, гьеб гIадамасе лъикIал рагI. Гьеб гIадам бихьизе бугоро — гьеб гIадамасе гьакь гIадамасе роккъоб ва гьабшиел бакIаразе лъикIал дир. Гьеб гIадам рекIел гьарлъун ва гьеб гIадамасе лъикIал гьабизе, гьаракат кьолаго."
+  - q: "Наушникал бакIаразе лъикIал дир?"
+    a: "Щиб гIадам наушникал лъикIал гьабизе, гьеб гIадам шагIар бичIчIал. Ругадирал гIадамал наушникал бакIарал, амма гьелал цIаралде, цIалъ ва гьабшиел щулалда гIадам гьабичIчIал. Цинал рукIан колонкаялда бакIаразе тарихъ; гьабшиел наушникал бакIичIа, хIалаал мацIил гIасал ккараго ва кIвечIиялде кьолаго."
+  - q: "Мусиқи беспокойствоялъе ва ругаялъе кумек гьабизе бичIчIа?"
+    a: "Цинал, рик1ул мусиқи рукIаб кIвечIиял бихьизе кумек гьабизе бичIчIа, ва Alzheimer's Association рекомендует мусиқи атмосферица бичIчIаб бакIаразе. Гьеб дир харо гьоркьор хъвалел дир. Гьеб гIадам бегIер ва ругадирал бугони, гьарраб, гIезра, шагIар ва къвач гьабизе ккалго."
+  - q: "Ахирал рукIазулда гIадамал мусиқи ккайтIар гьабизе бичIчIа?"
+    a: "БичIчIа. Alzheimer's Association кьолаго: ахирал рукIаялда гIадам бакIараб цIеялда ругадирал бичIчIа, ва цIей, бихьараб мусиқи ахирал уна гьоркьор бичIчIа. Гьеб гIадамасе цIалъ кьаркьарал, мусиқи шагIар ва гьеб гIадамасе къвач кьабуро ва кIвечIиялде гьарлъун."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Мусиқи — деменция бугеб гIадамазе бакIараб берцинал гьаракатазул цIар. Гьел гьабизе ккун гьакь буго: жаваб щибаб къагIидал кьолаго, щибаб шагIар гьабизе ккун букIана ругадирал. Рик1ул, ччу рукIа мусиқи лъикIал ккайтIар гIасал, гьарлъун рикIаде рикIар гьабизе кIолаго, цIалъ гьеб рукIан кIвечIиял гIасал гьабичIчIа. Щибаб гьабизе кIвечIиял — гьеб гIадамасе лъикIал мусиқи ва рукIа цIа гьабизе ккун букIана.
 
-## What music activities work for people with dementia?
+## Деменция бугеб гIадамазе мусиқий гьаракатал щиб дир?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Мусиқи роккъоб, гьарлъун, рик1ул гьарлъун ва мусиқиялда бакIараб ччу — гьел щибо лъикIал ккараб дир. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) рекомендует: мусиқи бихьизе, мусиқи ва артистасеб бакIараб, цIаг кIалъ ва ккайтIар мусиқиялда гьарлъун, ва цIейгIарал кIвечIиялда мусиқиялъул концертал ва программал. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) гьакь гьабизе кIолаго: рик1ул ва гьарлъун гьаракат рикIаде лъикIал ккайтIар, ва мусиқи рукIа сапар тIасаб гьабизе, сихIал бичIчIабилъи гьоркьор.
 
-## How do you build a personal playlist?
+## Гьеб гIадамасе плейлист щиб гьабизе?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Гьеб гIадамасе лъикIал дир бихьизабго плейлист, гьеб гIадамасе рукIа кIалъ мусиқи. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) гьакь гьеб гIадамасе рукIаялда мусиқи лъикIал дир кIолаго. Гьеб гьабизе кIолаго гьелал гьаракатал.
 
-### Start with their life
+### Гьеб гIадамасе рукIаялдаса кьаркьа
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Гьеб гIадамасе цIей ва цIийал.** Гьеб цIийалда радиолда, рагIдал ва фильмазда щиб бугарилъ рагIи.
+- **Цинал гIасал мухI.** Гьеб гIадамасе кIалазе, гьеб гIадамасе ахирал рукIаялъ гьабизе мусиқи.
+- **Рукъ ва цIаралде.** Гимнал, госпел, рукъул мусиқи ё гьеб гIадамасе чIалалда рагIал.
+- **Гьеб гIадамасе ккараб ва гьарлъараб.** Марш, ккараб рукIаялъ гIасал мусиқи, ё солдатлъиялда бугеб мусиқи.
+- **Гьеб гIадамасе ккараб рукIа.** Гьеб гIадамасе сихIал, рукъул, ва бихьизабго гIадамазде ккайтIар: гьеб гIадам щиб ккун букIараб ва рагIулалъ.
 
-### Think in genres, not just songs
+### Жанрал гьабизе, ццинги рагIулалда бакIараго
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Гьеб жанрал бигIизе ва цIаралде: биг-бэнд ва свинг, дуву-вуп, Мотаун ва соул, ччу рок-н-ролл, кантри, блюграсс, госпел ва гимнал, Бродвейский мусиқи, джазовый стандарты, латиноамериканский мусиқи, полька, фолк ва классика. Щиб рукIа ччу ё гьарлъун гIасал гьабичIчIа, гьеб бакIе; щиб рикIа гIасал гьабичIчIа, гьеб бичIе.
 
-### Make it easy to play
+### БакIаразе лъикIал гьабизе
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Реклама бечIеро.** Alzheimer's Association кьолаго: реклама нуж рикIаде ругадирал. Бакь бакIаро скачанный мусиқи, CD, пластинкаял ё рекламасеб бичIчIадаса бакIараб сервис.
+- **Цинал аппарат.** Гьел колонкаял, гIасал кнопкаялдаса цинал, ё гьабшиел плейлист, гьеб гIадам щиб гьабичIчIа.
+- **Гьабшиел щиб хIалаазулда кьаркьарал.** Гьеб гIадамасе рик1ул мусиқи ва гьарлъун мусиқи, рукIа кIалъ.
+- **Гьеб гIадам цIаралдасеб гIадамасе.** Гьеб гIадам цIаралдасеб гIадам ва "гьеб мусиқи" гьаракатаялда аппаратал цIаралде, гьеб гIадамасе рукIа гьабизе цIа ккаро.
 
-## 15 music activities to try
+## 15 мусиқий гьаракат бакIаразе
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Бихьизе.** Гьеб гIадам гьоркьор нуж бичIчIаб цIеялда, мусиқи бихьизе. Бихьизе гьакь гьаракат дир.
+2. **Гьарлъун.** Гьеб гIадам гьоркьор гьарлъун. Жалго ё гьабшиел цIалъ гьарлъун гьабизе гьакь.
+3. **КкайтIар ё ччу гьабизе.** Гьарлъун, рик1ул ё пуст гьабизе, ё гьабшиел цIийи барабан ё шейкер.
+4. **Цинал рукъ.** Гьаракатал кIвечIиялда ё ччу рукъ тIасаб гьабизе, гьеб гIадамасе рукIа рукъ гьабизе.
+5. **Шарфаялда гьаракат.** Мусиқиялда шарфал гIасал кIарашде, гьарлъун ё ччу.
+6. **Мусиқи бакIараго.** Ккадаро: "Гьеб бални залалда щиб бугарилъ. Гьеб бакIарал кьолаго." Щула ккадаро: "Гьеб мусиқи рекIел букIана?"
+7. **Бихьизабго альбом.** Гьеб гIадам бихьизабго пластинка, рукIа кIалъ, кофе гьоркьор.
+8. **Альбомазул къабарал бихьизе.** Цийи пластинкаялъул къабарал — мода, машинал ва гIадамазул рекIел лъикIал.
+9. **Мюзикл бихьизе.** Гьеб цIийалъул мюзикл ё концерт фильм лъикIал рагIулаб хIалаал. Кьабулаб ккун ё гьаракатал гьарлъиялдасе.
+10. **Гьеб гIадамасе бугеб инструмент.** Гьеб пианистал ё гитаристал ругадирал гьабичIчIа. БакIарал ччу гьабизе кумек гьабизе бичIчIа.
+11. **Мусиқи гьабиялда.** ЦIуб ё ккараб рукIаялда бихьараб мусиқи: гIезаб гьабиялда, ё цIаг гьабиялда.
+12. **Гьарлъиялъул мусиқи.** Гьарлъун цIийаб мусиқи гьабиялда, гьеб гIадам щиб гьабичIчIа — гьабшиел лъикIал рукIа.
+13. **Гимнал ё рукъул мусиқи.** Гьеб гIадамасе рукъул мусиқи бихьизе ва гьарлъун.
+14. **Гьарлъиялъул кружокалда гьаракат.** NHS кьолаго: гьарлъиялъул группа рикIаде ва сихIаде лъикIал. Гьеб гIадам цIаралде хъвалел, деменция бугеб гIадамазе ккараб гьарлъиялъул группа.
+15. **Жанлъи мусиқи бихьизе.** Цинал концерт ё гьарлъиялдасе бугеб оркестр. Аршиялде бакIаро; гьеб гIадам ругадирал — кIалъ.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Гьеб гIадам мацIилъул гьаракатаялде, [финишь зе сейинг](/games/finish-the-saying/) бакIаро, гьел тIабаздаса ттизе бичIчIа.
 
-## Matching music to the moment
+## Мусиқи цIалъ гьабиялъе тIасаб
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association кьолаго: мусиқи чи кIвечIиялъул атмосфера тIасаб гьабизе: цинал мусиқи рукIаб цIеялъе, ва рикIаде лъикIал рукIа цIалъе.
 
-| Moment | Try | Tip |
+| Цинал | Гьабиялъе | Гьабшиел |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Гьарлъиялъул цIалъ | Цинал, гьарлъун рукIа | Гьарлъиялъул къабар шуна ккадаро гьабшиел |
+| Гьабиял | ЛъикIал гьарлъун мусиқи | Мусиқи ккайтIар гьабиялъе |
+| Гьадиял | Гьарраб, цинал мусиқи | Цинал мусиқи гьадиялъе кумек |
+| Цинал гьаракат | Гьарлъиялъул цIалъ | [Цинал беспокойство](/caregiving/late-day-restlessness/) |
+| Цинал рукIан | Гьарраб, цинал мусиқи | ШагIар ва цинал гьабизе |
+| Ахирал рукIа | Гьеб гIадамасе лъикIал рукIа, цинал рукIа | Гьеб гIадам гьоркьор ва къвач гьабизе |
 
-## Tips for a good experience
+## ЛъикIал кIвечIиялъул къабарал
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Гьоркьор шагIар.** Alzheimer's Association кьолаго: гьабиялда хъиялал ва кьабуро гьабизе ва ТВ бечIеро, мусиқи гьоркьор рукIа кIалъ. Гьеб гIадам щиб гьабичIчIа.
+- **Цинал мусиқи.** Мусиқи рикIаде лъикIал рукIа ккадаро, сон ругадирал. Гьеб гIадамасе слух гьабизе аппарат бугони, гьеб лъикIал ккайтIар гьабизе; [слух](/brain-health/hearing/) гьабиялда.
+- **Ругадирал рукIаялъ гIасал.** Некоторые песни горе, войну ё цIар ругадирал гьабичIчIа. Гьеб рукIа ругадирал гьабичIчIаб, кьаркьа ва мусиқи гьабизе.
+- **Гьеб гIадам гьабиялда.** Гьеб гIадамасе мусиқи гьабичIчIаб, ва гьеб гIадамасе "гьабшиел" кьабул гьабизе.
+- **Щиб вахIтIаялда тIасаб.** Биш минут мусиқи лъикIал гьаракат дир. Мусиқи бичIчIаб ва цIаг кIалъ гьабизе гьакь.
 
-## What does the research say about music and dementia?
+## Исследование мусиқи ва деменция гьоркьор щиб кьолаго?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+РагIи цинал дир. [Cochrane 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) гьабизе 30 исследованиялъ — гьел тIабаздаса структуралъул мусиқи гьаракатал, гьарлъиялдасе группаялда. Гьел кьолаго: гьеб мусиқи гьабиялъе депрессияялъул гьарраб рукIа тIасаб гьабичIчIа, амма беспокойство, благополучие ё память гьоркьор цIалъ лъикIал рагIи ругадирал.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Чи мусиқи бакIаро, гьеб лъикIал ва цIалъ гIасал гьаракат дир, амма лъикIал гьабизе ккун букIана, гьеб лъикIал кIвечIиялъул хIалаалда. Гьарлъиялъул группаялда бакIараб гьаракатал: [гьарлъиялъул группаялъул гьаракатал](/activities/care-home-groups/); фотографиял ва рагIулал гьоркьор мусиқи: [рекIел гьаракатал](/activities/reminiscence/).

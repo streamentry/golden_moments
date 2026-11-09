@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Demencia riesgo: 14 yatiyawinaka, Lancet Commission"
+seoTitle: "Demencia riesgo: 14 Lancet yatiyawinaka"
+description: "2024 Lancet Commission yatiyata 14 demencia riesgonaka, jaqin pachapa sarnaqañapa ukanakaxa, yatiyañanakampi ukhamarak doctor jiwasampi parlañataki."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 Lancet Commission yatiyata 14 demencia riesgonaka mayjtayañ puedi:
+  jisk'a yatiñ, uñ jan uñjaña, LDL colesterol alt'a, jan kusisiña, mayjt'awi
+  jan waliki, jan lupiña, chhaqhaña, jan ch'uxña, alt'a yuqalla, lanti
+  (obesidad), alt'a umaña, jaqinakampi sarnaqañ jisk'a, jaya uñjaña ukhamarak
+  mayt'awi jan waliki. Ukanakax taqi chiqan 45% jaqinakan demencia ukanakan
+  yatiyatanakampi mayt'atäpxi, jan ukax kunas jupanakax jan uñt'ayañkiti.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Pa tuqinaka jakaña pacha ukanakaxa: mayja, jaqi uñacht'ayaña ukhamarak ukanakax, 14 tuqinakax jakaña pacha ukanakan."
+  - "Uñ jan uñjaña ukhamarak LDL colesterol alt'a jaqi chuyma pacharuxa, sapa mayja 7% demencia ukanakampi mayt'atäpxi, taqi chiqan ukanakat sipan jach'a."
+  - "Ukanakax jaqinakan yatiyatanakawa, mayjt'awi sarnaqañanakax chiqa uñt'añakiti. Mayjtanakax jan chiqapa mayt'atäpxi."
+  - "Jakaña pacha ukat utjkir genesa, janiw kunaru mayjtañ puedkiti, ukhamarak jach'a riesgonakawa. 14 riesgonak jisk'ayañax janiw kuna jaqirus demencia jan utjañ yatiyañkiti."
+  - "Ukanakan ukanakax, uñ uñjaña, uñ jan uñjaña, alt'a umaña uñjaña ukanakax, jaqi walikiñ jaqinakatakix, doctor jiwasampi parlañataki."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "¿Kunak 14 mayjtayañ demencia riesgonakax utji?"
+    a: "2024 Lancet Commission yatiyatapan jisk'a yatiñ, uñ jan uñjaña, LDL colesterol alt'a, jan kusisiña, mayt'awi jan waliki, jan lupiña, chhaqhaña, chhaqhaña jan ch'uxña, alt'a yuqalla, lanti, umaña ukhamarak jaqinakampi sarnaqañ jisk'a, jaya uñjaña ukhamarak uñ jan uñjaña. Taqi chiqan demencia ukanakan chiqapa 45% ukanakampi mayt'atäpxi."
+  - q: "¿Kuna demencia riesgox ch'iqapawa?"
+    a: "Taqi jaqinakan Commission yatiyatapan, uñ jan uñjaña ukhamarak LDL colesterol alt'a jakaña pachanakan sapa 7% ukanakampi mayt'atäpxi, qhipa jisk'a yatiñ ukhamarak jaqinakampi sarnaqañ jisk'a sapa 5% ukanakampi. Kuna riesgox jupa tuqita ch'iqapa ukax jupan utjiwipa ukanakapan, ukatwa doctor ch'iqa yatiyirïtaxa."
+  - q: "¿2024 maranxa kuna riesgo machaq yatiyatänwa?"
+    a: "Aka. 2024 yatiyañax jakaña pacha ukan LDL (jan walik) colesterol alt'a ukhamarak jakaña qhipa uñ jan uñjaña machaq yatiyatäpxi, 2020 maranxa yatiyatänakan 12 tuqinakar. Commission ukanakax sapa 7% ukhamarak 2% ukanakampi mayt'atäpxi."
+  - q: "¿Jakaña pachax riesgo mayjtayañ puedixaraki?"
+    a: "Janiw. Jakaña pacha Alzheimer ukan jach'a yatiyata riesgowa, janiw mayjtañ puedkiti. Genesanakas yanapt'apxi. Aka pachan 14 tuqinakax yatiyata mayjtayañ puedkaspa."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,110 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Riesgo ukax kunas jaqi demencia utjañ puedi sasaw yatiyaña. Ukax sapa kuti
+mayjt'aña janiw, ukhamarak riesgo utjañax janiw demencia utjañkiti. Aka
+qillqatax 2024 Lancet Commission yatiyata 14 demencia riesgonakampi
+mayjtayañ puedi sasa, ukanakan yatiyañanakampi, ukhamarak doctor jiwasampi
+parlañataki.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
+Jach'a uñjañataki, jach'a yatiñanakampi qhipa ukanakatak, [Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/) uñakipt'am.
+Aka qillqatax taqi yatiyañawa, janiw doctor yatiyañakiti; uñakipt'am
 [medical disclaimer](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## ¿Kunas 14 demencia riesgonakax?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
+27 demencia yatiri jaqinakan qillqatapan, 14 mayjtayañ puedi riesgonakax taqi
+chiqan 45% demencia ukanakan utjañ yatiyatänwa. Sapa riesgo ukan porcentaje
+ukax Commission yatiyatapawa, taqi chiqan jaqinakan utjañ yatiyata, phuqhata
+jiwasa. Ukanakax mayjt'atäpxi, sapa jaqix akhama riesgonak utjapxi, ukatwa
+suma jaqisa 45% sapa.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Riesgo | Jakaña pacha | Porcentaje | Kuna yatiñ | Kuna ruwañax utji |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Jisk'a yatiñ | Mayja jakaña | 5% | Jisk'a yatiñ maranakax alt'a riesgo utjañ yatiyata. Jakaña pacha ukan yatiñ lup'iña ukax jan jisk'a yatiñ jaqinakatakis yanapt'añ yatiyata. | Kunapachas jakaña pachan yatiñ, lup'iña, parlaña, jaqinakampi jukhu ukhamarak. |
+| Uñ jan uñjaña | Jakaña pacha | 7% | Jan waliki uñ jan uñjaña alt'a riesgo utjañ yatiyata. Jaqinakax uñ jan uñjaña ukat qhipa uñjañaki ukanakax jisk'a riesgo utjañ yatiyata. | Uñ jan uñjaña uñjata. Uñ jan uñjaña yanapt'añ ukat jawsañ, ukanak uñjata. Ch'uxña jan mayj'añ. |
+| LDL colesterol alt'a | Jakaña pacha (40 mara kipkaru) | 7% | LDL ("jan walik") colesterol alt'a jakaña pachan alt'a riesgo utjañ yatiyata. | Doctor jiwasaru jawsañ, colesterol uñjata sasa, kuna ruwañ wali sasa. |
+| Jan kusisiña | Jakaña pacha | 3% | Jan kusisiña alt'a riesgo utjañ yatiyata. Qhipa maranakan jan kusisiña demencia ukan mayja uñacht'awi puedi. | Doctor jiwasaru yatiyañ, phisqa phaxsi sipan jukhu jan kusisiña. Jan kusisiña yanapt'asiñax utji. |
+| Mayt'awi jan waliki | Jakaña pacha | 3% | Umaña mayt'awi, kunapachas ukax jakaña pachan utjañ puedi, alt'a riesgo utjañ yatiyata. | Bicicleta ukhamarak jaqinakampi chhaqhaña, casco apaña. Jaya sayt'añ yatiyañ. Mayt'awi qhipa, uñjata. |
+| Jan jaya sarnaqaña | Jakaña pacha | 2% | Sarnaqañ ukhamarak juk'ampi kusisiña jaqinakax jan demencia utjañ yatiyata. Yatiyañanakax jisk'a. | Kunas jumatakix wali sasa jawsañ, kusisiñ ruwañ thaqhañ. Uñakipt'am [exercise guide](/brain-health/exercise/). |
+| Diabetes | Jakaña pacha | 2% | Diabetes, khä jakaña pachan qalltaña ukax alt'a riesgo utjañ yatiyata. | Azúcar uñjata. Diabetes utji ukhax, doctor jiwasampi yanapt'ayañ. |
+| Ch'uxña | Jakaña pacha | 2% | Ch'uxña alt'a riesgo utjañ yatiyata. Ch'uxña jan ch'uxña jaqinakax jan alt'a riesgo utjañ yatiyata. | Ch'uxña jan ch'uxña yanapt'asiña jawsañ. Ch'uxña jan ch'uxña jiwasa, qhipa sarnaqañ. |
+| Alt'a yuqalla | Jakaña pacha | 2% | Alt'a yuqalla jakaña pachan alt'a riesgo utjañ yatiyata. Yuqalla mayt'awi jan walikiñ jaqinakax jisk'a riesgo utjañ yatiyata. | Yuqalla número uñjata. Commission 40 mara kipkaru 130 jan sipan jisk'a amuyi; doctor jiwasampi parlañataki. |
+| Lanti (obesidad) | Jakaña pacha | 1% | Lanti alt'a jakaña pachan alt'a riesgo utjañ yatiyata, diabetes ukhamarak. | Doctor jiwasampi parlañataki kuna jan lanti walikiñ. Jach'a jaqinakax jan dieta ruwañ, doctor yatiyañ janiw. |
+| Umaña alt'a | Jakaña pacha | 1% | Umaña alt'a riesgo utjañ yatiyata. Umaña jisk'a ukhamarak jan jaqinak ch'uxña jaqinakax, jisk'a riesgo utjañ yatiyata. | Kunas umaña wali sasa, doctor jiwasampi medicina ukanakampi parlañataki. |
+| Jaqinakampi sarnaqañ jisk'a | Qhipa jakaña pacha | 5% | Jaqinakampi sarnaqañ jisk'a alt'a riesgo utjañ yatiyata. | Jaqinakampi parlañ kusisiñ thaqhañ. Uñakipt'am [social connection guide](/brain-health/social-connection/). |
+| Jaya uñjaña | Qhipa jakaña pacha | 3% | Jaya uñjaña alt'a riesgo utjañ yatiyata. Jaya uñjaña jisk'a ukax jisk'a riesgo utjañ yatiyata. | Jach'a markanakan yatiyañ. Jaya uñjaña jan waliki uñjata, jaya jiwasan jan sarnaqañ. |
+| Uñ jan uñjaña | Qhipa jakaña pacha | 2% | Uñ jan uñjaña, jan uñjatanakax alt'a riesgo utjañ yatiyata. Jach'a Estados Unidos yatiyata uñ jan uñjaña ukat qhipa jisk'a riesgo utjañ yatiyata. | Uñ jan uñjaña uñjata. Uñ jan uñjaña ukanak yanapt'ayañ jawsañ. |
 
-## How should I read these percentages?
+## ¿Kunjamak uñakipt'añax uñjañawa?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Wali uñjasa. Commission yatiyatapan kunas amuyt'añawa:
 
-- **They describe populations, not people.** University College London's
+- **Taqi jaqinakan yatiyañawa, janiw sapa jaqin.** University College London
   [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+  yatiyi: riesgo jisk'ayañax taqi jaqinakataki, janiw sapa jaqix demencia jan utjañkiti.
+- **Mayjtanakax chiqa uñt'añakiti.** Qillqirinakax chiqa yatiyatanakaw
+  apxatapxi, jan ukax kunas chiqa jan utjkiti sasa yatiyapxi.
+- **Taqi chiqan yatiyañawa.** Yatiyañanakax jach'a markanakat jutapxi, jupa
+  markan utjañapax ukanakax jan ukhamarakiti.
+- **Jisk'a porcentaje ukax jach'a.** 2% riesgo taqi chiqan jaqinakan jach'a
+  utjañ puedi.
 
-## Which risk factors were added in 2024?
+## ¿Kuna riesgonak 2024 maranxa yatiyatawa?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 yatiyañax 2020 maranxa 12 tuqinakar machaq yatiyatänwa:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **LDL colesterol alt'a jakaña pachan**, sapa 7% ukanakampi mayt'atäpxi.
+- **Uñ jan uñjaña qhipa jakaña pachan**, sapa 2% ukanakampi mayt'atäpxi.
 
-## What risk factors cannot be changed?
+## ¿Kunanakas mayjtañ janiw puedkiti?
 
-The National Institute on Aging says
+National Institute on Aging yatiyi
 [age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+ukat janiw kunaru mayjtañ puedkiti. Genesanakas yanapt'apxi; APOE sat gen ukax
+Alzheimer ukan jach'a yatiyata. NIA yatiyi taqi jaqinakan Alzheimer kuna
+utjañ sasa janiw yatiri jiwasakiti. Lancet Commission yatiyi mayjtayañ
+puedi riesgonakax, jaqi genesanakapax kuna jan ukhamarakiñapax mayjtayañ
+puedi sasa.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Age ukat genes jach'a yanapt'apxi, ukatwa jaqinak 14 riesgo janiw utjkaspas
+demencia utjañ puedi. Ukax janiw kun jan ukat jakasiñakiti.
 
-## What does the trial evidence say about changing these risks?
+## ¿Kuna ukanakax mayjt'añataki yatiyañanakax utji?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Riesgo ukan demencia utjañ yatiyañax janiw mayjt'añ suma sasa yatiyañkiti.
+Kunas mayjtanakax utjapxi:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
+- **Umaña.** SPRINT MIND yatiyañan, umaña jisk'a amuyasa ruwañax mild cognitive
+  impairment jisk'a ukhamarak. Janiw demencia jisk'ar ukhamakiti, yatiyañax
+  jisk'a ukhamakiti ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Jan lupiña yanapt'añ.** Lancet Commission yatiyi kimsa maran lupiña
+  yanapt'añ yatiyañax jan kuna utjañ, ukat jaqinakan alt'a riesgo ukanakan
+  suma utjañ yatiyata. Qhipa jaqinakax lupiña yanapt'añ alt'a riesgo utjañ
+  yatiyata. Uñakipt'am [hearing guide](/brain-health/hearing/).
+- **Jaya uñjaña.** National Institute on Aging yatiyi: mayjtayañ jan
+  yatiyañ utjkiti, sarnaqañax jisk'a yatiyañ sasa, ukat mayjt'añ puedi
   ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Demencia utjañ suytaña jan pachan yatiyañax jach'a pachanakawa, ukatwa jaqinak
+qhipa maranakan uñjañawa. Ukax ch'uxña ukhamarakiwa.
 
-## What about sleep and diet?
+## ¿Kuns suñt'ata ukat ch'uxña?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Commission ch'uxña ukat suñt'ata yatiyañ uñjaña, jan ukax janiw yatiyañ
+chiqañ utjkiti. Ukatwa [sleep](/brain-health/sleep/) ukat [diet](/brain-health/diet/)
+uñakipt'am.
 
-## Talk with a doctor
+## Doctor jiwasampi parlañ
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Maraxa checkup ukan kunas parlañawa. Aka qillqat apt'asma, akham jawsañawa:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- ¿Kunas umaña, azúcar ukat colesterol jiwasan, ukanakax suma sasa?
+- ¿Jiwasan uñ ukat uñ jan uñjaña uñjatäñapa?
+- ¿Kuna sarnaqañax jiwasatakix wali ukhamarak utji?
+- ¿Kuna medicina ukanakax amuyt'añ ukat yatiñ jan waliki?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Medicina, dieta, ayuno, sarnaqaña ukat suplemento mayjt'añ ukhax, doctor jiwasampi
+parlañ. Jumax jan ukax jumar uñjañ jaqix, sut'ita jan amuyt'añ, lakhat jan
+sayt'añ, ukat parlañ jan utjañ ukhax, emergencia tuqi chiqan jawsañ.

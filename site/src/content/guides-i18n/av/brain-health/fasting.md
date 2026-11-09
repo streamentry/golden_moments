@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Периодичный рукьан ва деменция: научнияб ишал щиб бугеб"
+seoTitle: "Периодичный рукьан ва деменция: ишал щиб бугеб"
+description: "Периодичный рукьанил деменциялда ишал гьаб бугеб гьарщ ва рукъалде хъвай ... Бугеб инсаназдаса деменция бугеб инсанал гьабулел рукьан щибаб дарман ва хъуян рекъ."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Периодичный рукьанил деменция ласан ва кIочонарал хьидал ишал гьаб бугеб
+  гьарщ гьеч. Рукьанил бакIалъ гьайван ишалда гьабулел бугеб, инсанал ишал
+  гьабулел гьарщ тIокIаб ва хьарал рукьан. Гьарщ инсаназдаса рукьанил тIокIаб
+  риск гьабулеб: вазн ва мускул босе, некIонаб кьел ва маркаб рекъ, хъвалли
+  дарман, сокъуб ва нилъ. Деменция бугеб инсаназдаса, кьелаб ва хъвалаб
+  гьакъ гьарщ гьеч. Табибалда гьарщ гьабухьеб.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Национальный институт старения гьабулеб: рукьан ва калорий тIокIаб рекъ гьабизе некIонаб ишал гьеч, бакIалъ кIочонарал инсанал."
+  - "Рукьанилда ва старения ишалда тIокIаб гьайван ишалда гьабулеб, гьайваназ гьабулел гьарщ инсаназдаса некIо гьеч."
+  - "Кочонарал инсаназдаса гьабулел риск: мехалъ вазн босе, мускул босе, хъвалли дарман бакIалъ рекъ, нилъ, дилдаса сокъуб ва нилъ."
+  - "Деменция бугеб инсанал кьел ва хъвал гьабизе гьарщ гьабула ё ужудул гьабула. Кьел ва хъвал гьабизе кIудиял ишал гьабулеб, кьелаб вахтил гьарщ гьеч."
+  - "Деменция бугеб инсаназ рукьан гьабизе гьарщ гьеч. Кьел ва хъвал гьабуре кIочоналда гьарщ табибаздаса ё диетологаздаса."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Периодичный рукьан Альцгеймеры бакIалъ гьабулеб?"
+    a: "Гьабулеб ишал гьеч. ТIокIаб ишал гьайваназдалъе гьабулел, инсанал бакIалъ кIочонарал, тIокIаб бакIалъ ва вазн босизе гьабулел ишалда. Национальный институт старения гьабулеб: инсаназдалъе рукьанил рекъ гьабизе гьарщ гьеч."
+  - q: "Периодичный рукьан кочонарал инсаназдалъе хьарал гьеч?"
+    a: "Гьабулеб гьеч. Рукьан вазн ва мускул босе, нилъ, сокъуб ва нилъ гьабулеб, хъвалли дарман гьабулел инсанал бакIалъ кIочоналда тIокIаб кьел гьабулеб. Mayo Clinic гьабулеб: сон бакIалъ кIочонарал инсаназдалъе гьарщ гьеч. Рукьанил бакIалъ табибалда гьарщ гьабухьеб."
+  - q: "Деменция бугеб инсаназ рукьан гьабизе гьабулеб?"
+    a: "Гьеч. Деменция бугеб инсанал кьел ва хъвал гьабизе кIудиял ишал гьабулеб. НекIо кьел гьабулел вазн босе ва ужудул бегьулеб. Рукьан риск гьабулеб, ишал гьабулел рекъ гьеч. Гьарщ: вахтилалда кьел, цIияб кьел ва рекъ хъвал."
+  - q: "Деменция бугеб инсанал кьел ва хъвал тIокIаб гьабулел гьарщ щиб?"
+    a: "Гьарщ: вазн босе, кIочоналда кьел кьеялдаса ё кьел гьабизе гьарщ босе, кьелаб, сокъуб ва цIияб. Национальный институт старения гьабулеб риск: некIо хъвал, дилдаса сокъуб, рукьан ва кьел, нилъ. Гьарщ гьабулел табибаздаса хабар гьабухьеб."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Периодичный рукьан, мисал гьабулел сагIат 8 бугеб гьелъе ё ужудул 2 гьелъе калорий тIокIаб гьабулел рекъ, бакIалъ хьвадул. Ва бакIалъ ахбар гьабулеб, гьеч мозгъалде хъвалли гьабизе. Ва хъвалъ ахбар гьабулел кочонар ё деменция бугеб инсан бугеб, щиб ишал гьабулеб хьвадул ва щиб хьадуб ишал гьабизе гьарщ бугеб.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ишал гьабулеб: ахбар ишалда тIокIаб рекъ гьабулеб. Гьарщ гьабизе гьабулеб инсан бугеб вуна ва ужудул гьабизе вахт гьабухьеб, табиб ё регистрированный диетолог гьабизе. Гьарщ гьабулел [медицинский дисклеймер](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Периодичный рукьан деменция бакIалъ гьабулеб?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Деменция бакIалъ гьабулеб ишал гьеч. Национальный институт старения (NIA) гьабулеб: калорий тIокIаб рекъ ё рукьан гьабизе некIонаб ишал гьеч, ва рекъ ишал ва риск гьабизе гьарщ тIокIаб бакIалъ гьабухьеб, кочонарал инсаназдалъе ([NIA о рукьане и калорийных диетах](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Ишал тIокIаб гьабулеб
 
-The NIA gives several reasons:
+NIA гьабулеб тIокIаб себаб:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **БакIалъ гьайван ишалда гьабулеб.** Гьайван: червяк, мушка, мыш ва обезьян ишалда некIо гьабулеб, амма гьайваназдаса инсанал гьеч. Гьайван ишалда ам хъвадулел бугеб: мыш рекъ калорий тIокIаб гьабулел щиб тIокIаб.
+- **Инсаназ ишал вахтил кIочоналда гьабулеб.** БакIалъ сагIат ё вацIал кIочоналда.
+- **Инсаназ ишал вазн босизе гьабулеб,** деменция ё мозг ишалда гьеч, вазн тIокIаб ишал бакIалъ кочонарал.
+- **Кочонарал инсанал ишалда тIокIаб гьабулеб.** БакIалъ 60 ё 60 бугеб сон инсанал гьабулеб.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 гьабулел систематический обзор гьабулеб рукьан 60 ё гьоб бугеб инсаназдалъе. Гьабулеб: ишал тIокIаб, кIочонаб вахт, кIочонаб гьабулеб. Мозг ва кьел гьабулел ишал индивидуальный исследованиял бугеб. Обзорил гьабулеб: бакIалъ гьелъе ё рукьан бугеб бакIалъ хьарал гьабулеб. Авторал гьабулеб: кочонарал инсаназ гьарщ хьадуб ([обзор 2026 Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+НекIо ахбар гьабулеб: рукьан ёбдал гьабулел тIокIаб мозгалде таъсир гьабулеб, амма ам ишал гьабулел бакIалъ гьеч. NIA гьабулеб: гIилми ишал гьеч.
 
-## What are the risks of fasting for older adults?
+## Рукьан кочонарал инсаназдалъе щиб риск гьабулеб?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Рукьан кочонарал инсаназдалъе гьабулеб ишал гьеч. Риск гьабулеб:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Вазн босе.** ТIокIаб кьел гьабулеб вазн босе ва мускул тIокIаб, инсан кIудиял гьабулеб.
+- **Мускул ва цIиял босе.** NIA ишалда: калорий тIокIаб рекъ 2 сагIатил бугеб гьабулеб, бакIалъ ва кIудиял инсаназ, цIиял тIокIаб гьабулеб.
+- **Хъвалли дарман ва тIокIаб нилъ.** Инсул ё дилдаса дарман гьабулел инсанал, кьел ё хъвал босе, нилъ гьабулеб. Ам [Национального института диабета](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) ахбар. ТIокIаб нилъ гьабулеб: сокъуб, мехалъ ва цIияб.
+- **Нилъ.** Кьел ва хъвал гьабулел, инсан нилъ гьабулеб.
+- **Сокъуб ва сон.** Mayo Clinic гьабулеб: периодичный рукьан гьабулеб кIудиял цIияб ва сокъуб, сон тIокIаб гьабулел бакIалъ инсаназдалъе ([Mayo Clinic о периодичном голодании](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Хьарал ишал.** Mayo Clinic гьабулеб: хъуб, мехалъ ва кьел босе. 16 сагIат рукьан ва 8 сагIат кьел гьабулеб, сердце ишал гьабулеб, амма ам ишал гьеч.
 
-## Why is eating enough the bigger concern with dementia?
+## Деменция бугеб инсаназ кьел ва хъвал гьабизе щиб ишал гьабулеб?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Деменция бугеб инсанал кIудиял гьабулеб: кьел ва хъвал гьабизе, тIокIаб гьабулеб гьеч. Alzheimer's Association гьабулеб: иш бугеб ва кIочоналда инсан кьел гьабизе гьарщ гьабулеб, кьел гьабизе гьарщ босе ё кьел гьабулел ишал гьабизе. Гьабулеб: кьел тIокIаб гьабулеб вазн босе, ва поведение гьабулел ишал ишалда ([Alzheimer's Association о питании](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society гьабулеб: кьел тIокIаб гьабулеб вазн босе, мускул тIокIаб, сокъуб ва цIияб, инсан кIудиял ва бакIалъ гьабулеб ([Alzheimer's Society о аппетите](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Ам себаб гьабулеб: деменция бугеб инсаназ рукьан гьабизе гьарщ гьеч.** Кьел гьабизе ё хъвал гьабизе тIокIаб гьабулеб, ва вахт гьабулеб. Деменция бугеб инсаназ кьел ва хъвал гьабизе хьадуб, табиб ё регистрированный диетолог гьабухьеб.
 
-## What are the warning signs of poor eating or drinking?
+## Кьел ва хъвал тIокIаб гьабулеб щиб ишарал бугеб?
 
-Watch for:
+Гьарщ гьабухьеб:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Вазн босе**, ё кьел кьеялдаса гьабулеб хьадуб.
+- **Кьел гьабизе гьарщ ё кьел хъуб гьабизе**, ё кьел ахъун гьабизе.
+- **Сокъуб ва цIияб.**
+- **Гьел тIокIаб**, кьел ва хъвал бакIалъ гьабулеб.
+- **Нилъ.** NIA гьабулеб: хъвал тIокIаб, сокъуб, сердце тIокIаб, ва хъуян ишал, деменция бакIалъ гьабулеб ([NIA о частых медицинских проблемах](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Кьел гьабизе гьарщ бакIалъ себаб гьабулеб: тIокIаб тIамал, протез, дарман, дилдаса, сокъуб, кьел ва хъвал ишал. Табибаздаса хабар гьабухьеб. Ам себаб гьабизе ё кьел гьабизе хъуян ишал гьабулеб.
 
-## How can you help someone eat and drink enough?
+## Инсаназ кьел ва хъвал гьабизе щиб гьабухьеб?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **КIочонаб кьел ва хъвал гьабухьеб**, 3 гьелъе бугеб гьеч, вахтил.
+- **Кьелаб ишал гьабухьеб**, ва ишал гьабулел хьадуб. Сладкий ишал гьабулеб, кьел гьабизе гьарщ босе, табибаздаса хабар гьабухьеб.
+- **Хъвалаб гьабухьеб рекъ**, кIочонаб чашкалда, сон бугеб. Суп, мевалъ, смузи ва молочный коктейль.
+- **Кьел гьабухьеб цIияб.** Кьел гьабулеб гьоб, ишал гьеч.
+- **Пальцал кьел гьабухьеб**, мисал: бутерброд, мевалъ, курица, кьел гьабизе хьадуб ишал.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Наша [гьабулел диета](/brain-health/diet/) гьабулеб кьел гьабизе ишал. Кьел гьабизе гьабулеб ишал инсанал гьабулеб: [бытовые дела](/activities/household-tasks/).
 
-## Talk with a doctor
+## Табибаздаса хабар гьабухьеб
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Рукьан гьабизе ё кIочонаб план гьабизе, табиб ё регистрированный диетолог хабар гьабухьеб, гьоб дарман дарман гьабулел ё гьоб вазн босе, ё сокъуб гьабулел. Деменция бугеб инсаназ, табибаздаса хабар гьабухьеб: сон кьел ва хъвал гьабизе, рукьан гьабизе гьеч.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Гьарщ тIокIаб гьабулеб: хьадуб кIудиял ахъун, кIудиял нилъ ё нилъ тIокIаб, кIочонаб хъуб гьеч, сразу медицинский помощь гьабухьеб.

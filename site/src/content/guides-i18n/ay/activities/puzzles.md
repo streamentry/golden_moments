@@ -1,32 +1,32 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Demencia ukan rompecabezanaka: pedazonaka, arunaka"
+seoTitle: "Rompecabezas para demencia: pedazos y palabras"
+description: "Kunjamsa demencia ukan jakasir jaqitakix rompecabezas ajllañasa: pedazonaka, uñacht'äwinaka, jupanakampi lurañ, ukat kunapachatix sasaña."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Demencia ukan jakasir jaqitix rompecabezas ajllañapawa, kunatix pisi yanapampi
+  tukuyañapataki ukat kusisiñapataki. Pisi pedazonaka, jach'a ukat sapa uñacht'äwi
+  jaqinakan uñacht'äwi ajllapxam, ukat cajanakan pedazonak ch'amanchapxam.
+  Arunaka uñt'añ ch'iqinakampi wali uñtasiwa. Internet ukan sasa rompecabezanaka
+  pusi pedazonakampi ch'ikhanan sarantañ wali. Kusisiñ sarañ uñjapxam.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Kunjamsa lurasiñ uñjasa ajllapxam, etapa sutimpi mayjt'añ janiw. Rompecabezax llamp'uñaniw uñjatax, pedazonaka sasa ajllapxam."
+  - "Jach'a, ch'amani pedazonaka ukat sapa uñacht'äwi jaqinakan uñacht'äwi, jisk'a pedazonaka ukat jach'a cielo uñacht'äwinakat sipansa, wali sayt'ayañ."
+  - "Jaqinakan uñacht'äwinaka wali wakisi. Uta, manqha, auto, uywa, janiw dibujo wawanakan jaktañapäkiti."
+  - "Jupanakampi lurañax wali wakisi. Pedazonak churapxam, cajanakan pedazonak jist'arapxam, caja uñacht'äwi uñjasa."
+  - "Arunaka uñt'añ ch'iqinakampi ukat pusi pedazo nayrjamp pusi pedazo sasa internet ukan rompecabezanaka kunaymana sitio ukan."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "¿Kunas wali rompecabezas demencia ukan jakasir jaqitakix?"
+    a: "Janiw kikpach yatiñax utjiti. Mayni jaqix mä waranqa pedazo rompecabezanakan wali lurasïna, ukhamarak jupax walikiw qhipa pedazonaka sasa. Yaqhipanakax ch'ikhanaki pedazo sasa wali sarapxi. Rompecabezax llamp'uñaniwa jan ukax kusisiñ jaytkaspa, pisi pedazonaka ajllapxam. Internet ukan Picture puzzle sitio ukanx 4 jan ukax 9 pedazonakaniwa."
+  - q: "¿Jisk'a rompecabezanaka wali sarañ demencia ukan jakasir jaqitakix?"
+    a: "Walja jaqinakax kusisipxi, khithiqa sasa mayjt'asiñ munapxi ukhaxa. Rompecabezax amparanakaru lurañ, uñjañ ukat parlañ uñacht'äwi churi. Janiw rompecabezax demencia ch'ax ukax tukuyañ yatxatatäkiti, ukhamaxa kusisiñatak ukat jupanakampi sarañatakiw ajllapxam."
+  - q: "¿Kunas lurañ uñjasa jaqix janiw jisk'a rompecabezanak lurañ atipkiti ukhaxa?"
+    a: "Jisk'achaña ukat walja lurañ jumax lurarakim: mä pedazo sapa kuti churapxam, jan ukax qhipa pisi pedazonaka uñjasa jaytapxam. Pusi pedazonak internet ukan rompecabezanaka, colormampi pedazonak jist'arañ, jan ukax tukuyatä uñacht'äwi cuentanakamp uñjañ ukat parlañ."
+  - q: "¿Crucigramas ukat sopas de letras wali sarañ demencia ukan jakasir jaqitakix?"
+    a: "Qalltawin etapan sarañ puedi, jach'a qillqat ukan. Sopas de letras arunaka ch'iqinakan ch'iqi sapa, janiw sayt'ayañ ukat jist'arañ. Jupanakampi uñt'aña ukat parlasiñ uñjasa, arunak jach'a ukat jupanakampi lurañ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +45,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Mesa ukan churata rompecabezax, jaqinakax ch'iqhi sarañ atipxi, uñacht'äwix parlañ tuqi yanapaspa, ukat qhipa pedazo churañax kusisiñ churi. Ukampirusa rompecabezanakax demencia mayjt'asaw mayjt'asipxi. Mä wali jaxsa rompecabezax jank'aki jan kusisiñ uruw tukuyañ. Aka uñacht'äwix ajllañ ukat lurañ rompecabezas, arunaka uñt'aña ukat internet ukan sasa rompecabezanaka uñacht'äwi, ukat kunas lurasa sasa jaqinakan q'axtañapa.
 
-## Are puzzles good for people with dementia?
+## ¿Rompecabezanaka wali sarañ demencia ukan jakasir jaqitakix?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Walja jaqinakax kusisipxi, khithiqa sasa rompecabezanak lurañ munapxi ukhaxa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) uñacht'ayi arunaka uñt'añ, naypa cartanakampi ukat juegonaka qalltawin etapan sarañ sasa, ukat [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) uñacht'ayi internet ukan juegonaka ukat tablet ukan rompecabezanaka mä thakhi sasa jakañ ch'amanchañ.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Rompecabezax janiw tukuyañ yatxatatäkiti. Janiw kikpach rompecabezax demencia ch'axa jan ukax tukuyañ uñacht'atäkiti; [demencia ukat yatiña juegonaka](/brain-health/brain-games/) ukan uñacht'äwix yatiña uñtayistu. Rompecabezax lurañ amuyaña, kusisiñ ukat jupanakampi sarañatakiw. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) uñacht'ayi: kusisiñ uñjam, janiw kuna lograña uñjam.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## ¿Kunjamsa rompecabezas ajllañasa demencia ukan jakasir jaqitakix?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Jupax kuna kusisiñ uñjasa ukat qhipa rompecabezax kunjamsa sarasa uñjam, etapa sutimpi janiw.
 
-### Number of pieces
+### Pedazonakan jakhu
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Janiw kikpach jakhux utjiti. Mayni jaqix walja waranqa pedazonak lurañ atipxi, ukampirusa yaqhipanakax paqallq'u pedazonakampi kusisipxi. Wali amuyaña: qhipa rompecabezax llamp'uñaniw uñjatax, pisi pedazonak ajllapxam. Jumax uñjasma pacha kuna pedazo jist'arapxi ukhaxa, yaqhipa jach'ataki ajllapxam.
 
-### Piece size and feel
+### Pedazonakan jach'a ukat aynacha
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Jach'a pedazonaka** uñjañ, katuñ ukat muytañ wali sasa.
+- **Wali ch'amani, lluch'u pedazonaka** sayt'ayaña ukat ch'iqhi uñjañ.
+- **Lluch'u awayu** sut'ita, llamp'u jan wali lanp'ichi.
+- **Jisk'a pedazonak jan ajllapxamti**, jaqix achuq ch'uqiruw uñtaw jaqinakan jamuqa. Jupanakax demencia ukan qhipa pacha ukhamarak lurarapxi.
 
-### The picture
+### Uñacht'äwi
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Jaqinakan uñacht'äwinaka.** Uta sataki uñacht'äwi, cocina, auto ukat uywa, sapa uywa ukat jaqinakan sasa chiqi uñacht'äwinaka. Jan dibujo wawanakan ukat juguetenakan sasa uñacht'äwinaka.
+- **Sapa uñacht'äwi colornaka.** Qhuchi ch'uyma kasa, sinasa, qullu ukat sit'a aynacha sasa uñacht'äwix sipan wali sayt'ayaña.
+- **Uñt'ata ukat jupanakan uñacht'äwi.** Jupanakax sarapxäna uta jan ukax juk'ampi kusisipxäna uñacht'äwi, parlañatakix walja aruni. Yaqhipa imprenta ukanakax uta uñacht'äwi rompecabezanakar lurapxi.
 
-## How do you do a puzzle together?
+## ¿Kunjamsa jupanakampi rompecabezanak lurañasa?
 
-Set it up so the person can get straight to the enjoyable part.
+Jaqix wali kusisiñ ukat sarañ puedi ukham churañ.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Wali chiqa uñjam.** Wali ch'ama, katuñ ukat ampar aljaña ukat mesa jan ukax bandeja, ukanx rompecabezax qhipa sayt'asi.
+2. **Caja tapa uñjasa uñjam**, jumampi jaqimpi uñjañataki.
+3. **Pedazonak uñacht'äwi jaki uñjam** qalltañ sapa.
+4. **Jumax perimetro pedazonak jist'arapxam**, jan ukax ch'iqhi perimetro lurasa mayni tuqi jaytam.
+5. **Pedazonak colormpi ch'uq ch'uqinakan** kumun ukat plato lluch'unakan jist'arapxam.
+6. **Mä pedazo sapa kuti churapxam** pila wali jach'a ukhaxa. "Ukax uta uñacht'äwiniw sasa."
+7. **Uñacht'äwi parlapxam,** janiw kunjamsa luratax. "Ukax aka barco ukhamarakiw aka awkix sarañ jaktayaraki."
+8. **Uñtañ jaytam.** Qhipa uru ukan jupanakampi sarapxam. Janiw apuraña.
+9. **Wali kusisiñ ukan tukuyapxam,** pedazo churasa qhipa, kusisiñax jaytkasa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) uñacht'ayi: qalltañ yanapaña, q'axtañ uñjaña ukat jupax uñjañ munasa uñjañ jaytaña. Jumax pedazonak churasa ukat kawkhar mayni sitio uñjasa uñacht'ayasa, ukax ukhamarakiw lurañ.
 
-## Easy online puzzles
+## Internet ukan sasa rompecabezanaka
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tablet ukan rompecabezanakax walja wali: pedazonak janiw chhaqtañ, pantalla phuqhi jach'a uñacht'äwinaka ukat mesa jaytañ janiw.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Jisk'a [Picture puzzle](/games/picture-puzzle/) sitio ukax uñacht'äwi 4 jan ukax 9 pedazonakan t'aqhisi. Pedazo ukanak ch'iqimp uñacht'äwi tukuyañkama mayt'apxam. Uñacht'äwi jach'a pantalla ukan uñjasiwa, janiw pacha jist'arañ, ukat kunapachas sayt'asiñ puedi. Pusi pedazo walja jaqinakatakix wali, etapa pacha ukan jakasir jaqinakatakix jupanakampi kuna jaqi.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Ukampirusa uñacht'äwi ch'ikhanaki ukanakatakix, [Find the same](/games/find-the-same/) sitio uñjam, kawkhan pantalla uñjasa ukan uñacht'äwi jach'a ukar mayt'apxam, jan ukax [Sort together](/games/sort-together/) sitio, kawkhan uñacht'äwinaka uta jan ukax uma sutinakan jist'arapxi.
 
-## Word puzzles: word searches and crosswords
+## Arunaka uñt'añ: sopas de letras ukat crucigramas
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Arunaka uñt'añ rompecabezanakax jupanakatakiw, sarañ yatipkäna jaqinakatakix, nayrjamp demencia ukan.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Jach'a qillqat sopas de letras.** Jisk'a [Word search](/games/word-search/) sitio ukan jach'a qillqanakampi ukat walja arunakampi, chiqa ukat ch'iqi sapa, janiw sayt'ayañ ukat jist'arañ. Pantalla ukan jan ukax imprimir sasa lurañ.
+- **Arunak jach'a parlaña.** Mayni jaqix aru parlaraki, mayniw uñjaraki. Mä qillqa ch'iqhi uñjañax wali.
+- **Jach'a qillqat crucigramas** libro ukanakat qalltawin etapan sarañ puedi. Pistas jach'a parlasa, lapicero jupanakampi tukuyasa khitinakas utt'asa. Sencillo ukat uñacht'äwi ukat qhipa arunaka wali, janiw enigma ukanakax.
+- **Arunakat parlañ.** "Uta" aru ukax tomates ukat wali parlañ tuqi jiwasa.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Qillqat uñacht'äwinaka ukat uñjañ ukat jist'añ ukat imprimir sasa, [free printable dementia activities](/activities/printable/) sitio ukan uñjapxam.
 
-## Which puzzles suit each stage?
+## ¿Kuna etapan kuna rompecabezanakas wali?
 
-Stages overlap, and good and hard days are normal.
+Etapanakax mayjt'asipxi, wali uru ukat jan wali uruxa jakasiñ ukax chiqapa.
 
-| Stage | Puzzles that often fit | Your role |
+| Etapa | Kuna rompecabezanakas wali | Jumax kunjamas sarañ |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Qalltawi | Uñtata jisk'a pedazonaka, sencillo arunaka ukat sopas de letras, 9 pedazonaka internet ukan | Yanapiri: ajllañ churam, mayisa yanapam |
+| Taypi | Paqallq'u jach'a pedazonaka, 4 pedazonaka internet ukan, arunaka jupanakampi parlasa | Uñjam, pedazonak jist'aram, mä mä churam |
+| Qhipa | Uñacht'äwi tukuyatä uñjañ jupanakampi, pisi jach'a pedazonak uñjañ, Find the same ukan paya uñacht'äwi | Jupar apaqam; jumax jakasiñamawa juma uñjat lurañ |
 
-## When should you make a puzzle easier, or stop?
+## ¿Kunapachas rompecabezax sayt'añ jan ukax tukuyañ?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Suspiro, pedazonak jaytaña, "janiw atipkti" sasa jan ukax ch'amanchasi uñjasa uñjam. Ukanakax kunaxa mayjt'añ uñacht'äwiwa, jan mayjt'añ.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Jisk'achañ.** Jisk'a pedazonaka, jan ukax qhipa pisi pedazonaka jupataki jaytam.
+- **Juma pachpaw walja lurañ** ukat jupar yanapañ munasa jisk'a lurañanakan yanapaña.
+- **Mayaki kuna sarañ:** colormpi pedazonak jist'añ, 4 pedazonaka internet ukan, jan ukax [coloring](/games/coloring/).
+- **Tukuyañ.** Aparsaña ukat ch'uyaru ukat t'ija umañ. Mayt'añ ukat jaytañ, janiw mayjt'aña ukat.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Rompecabezax jan wali uñacht'äwi ukax jaytañ wali. Walja wali uru jupanakampi pasañ sarañ, [101 activity ideas](/activities/ideas/) sitio ukan uñjam.

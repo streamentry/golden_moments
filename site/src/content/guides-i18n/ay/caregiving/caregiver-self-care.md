@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Qhawirin Jiwasaxa: Samarañ ukat Yanapt'äwi"
+seoTitle: "Demencia Qhawirin Qhithapa: Samarañ ukat Yanapt'äwi"
+description: "Qhawirin llakisiña uñacht'äwinaka, samarañ thaqhañanaka, yanapt'äwi grupunaka ukat US-an jan qulqi lunthatäwi telefononaka, Alzheimer's Association 24/7 Helpline ukat Eldercare Locator ukhamarak."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
+  Demencia jakasir jaqi qhawaña sasa, jiwasa kunayman jan sum sarnaqañanakana
+  yanapt'añ wali wakiskiriwa. Uñjasipxam jan samarañ, chhaqtaña, jan allin irpaña
+  ukat amigunakat sapa uñjasiña uñch'ukiri yatiyaña. Mayisa yanapt'añ mayjt'añ,
+  samarañ ukat yanapt'äwi grupunakar mantañaw. US-an jan qulqi yanapt'äwinakax:
+  Alzheimer's Association 24/7 Helpline 1-800-272-3900 ukat Eldercare Locator
   1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Qhawirin llakisiñax jan samarañ, chhaqtaña, jan allin irpaña, llakisiña ukat juma pachpan hampi uñjañ jaytañaw uñachtʼayi."
+  - "Samarañ thaqhañax juma samarañ pachaw, uru pacha jan ukax wila semananakakama, utan jan ukax yanapt'äwi uñjañ ukan."
+  - "Lurañanakat mayisa yanapt'añ mayjt'añ; wali jaqinakax yanapt'askañ munapxi, ukampisa kunjam yanapt'añ yatipkiti."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) jan qulqi, imantat yatiyaña yanapt'äwi kunapachas utjaraki."
+  - "Eldercare Locator (1-800-677-1116) jumar chiqan yanapt'äwinakar irpaw, Area Agency on Aging ukhamarak."
+  - "Jumax llakisiñ jan wali sarnaqañ ukat sarnaqañ sasa, 988 uñjamti jan ukax qhiparu. Emergencia ukan, tu lugar ukan emergencias número jawsam."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "¿Kunas qhawirin llakisiñ uñacht'äwinakax?"
+    a: "Wali uñacht'äwinakax: ch'amanchañ, llakisiña jan ukax jan sum amuyaña, jan suma phiñasiña, irpaña chhaqtaña, jaqsuña jan ukax chiqañchaña, amigunakat jithiqtaña, mayjt'a jan ukax jan jach'a llakinaka ukat jumax juma pachpan manq'añ, sarnaqañ jan ukax jan allin uñjasiña jaytañ. Ukanakax kunapachas utjapxi ukhaxa, jumaru qhawiri uñjirimpiw parlam."
+  - q: "¿Kunjamasa samarañ thaqhañ nayar uñjasiña?"
+    a: "Eldercare Locator (1-800-677-1116 jan ukax eldercare.acl.gov) ukat, tu lugar ukan Area Agency on Aging, ARCH National Respite Locator Service jan ukax Alzheimer's Association Helpline (1-800-272-3900) ukanakat qalltam. Familia, amigu ukat voluntarionakas samarañ yanapt'apxi."
+  - q: "¿Medicare samarañ qulqi churaraspati?"
+    a: "Hospice uñjañ jaqinakatakix, National Institute on Aging ukax, Medicare hospital jan ukax skilled nursing facility ukan lurañ phayani, pusi uru jan ukax sumpach uru chiqpach samarañ ukat wali qulqi churaraspa sasaw yatiyi. Wali jan qulqi seguro ukax samarañ jan katuqapxiti; Medicaid ukat mayni long-term care seguro thaqhañanakax yanapt'apxi."
+  - q: "¿Alzheimer's Association Helpline chiqpachaw jan qulqi ukat tuqisa utjaspa?"
+    a: "Jisa. Alzheimer's Association sañiwa, 1-800-272-3900 Helpline ukax jan qulqi, imantat parlañawa, ukat uru pacha, jaya pusi pachan utjaraki, wali arunakan yanapt'añ. 711 jawsam relay servicio katuqañataki."
+  - q: "¿Qhawirin samarañ thaqhañax jan sum luratäkiti?"
+    a: "Janiwa. Samarañ thaqhañax qhawirin ch'amap sayt'ayi, samarañ thaqhañax qhawata jaqir mayni jaqinakampi, lurañanakampi mayjt'ayañ utjarakiniwa. Wali qhawirinakax nayra mä yanapt'äwi mayjt'añ munaskir jan lurañ ukampi jaytañ sapxi."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Demencia jakasir jaqi qhawañ sasa, jumax jichhürunakan qhipürunakan chiqpach qhiparu, ch'amanakam jan tukuñ lurañanakamp sayt'asa. Ukax wali jani. Juma pachpan qhawaña janiw jach'a lurañ jan ukax premio ukaxa, ukax jumar ch'amanchañataki yanapt'i.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Aka uñacht'äwix qhawirin llakisiña uñacht'äwinak, chiqpach samarañ kunjamas katuqañ, yanapt'äwi kawkitis utji ukat jichhürunakan US-an jan qulqi lunthatäwi telefononak uñachtʼayi.
 
-## What are the signs of caregiver burnout?
+## ¿Kunas qhawirin llakisiña uñacht'äwinakax?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Llakisiñax mayisa mayisa qhipaxa, ukatpi juma pachpan uñacht'äwinakam yatiñax wali askiwa. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) qhawirin llakisiña uñacht'äwinak sapxi:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- ch'amanchañ, llakisiña jan ukax jan sum amuyaña;
+- sapa jan ukax jan suma phiñasiña ukat jan kunas amuyaña;
+- jaqsuña jan ukax jaqinakat jithiqtaña;
+- irpaña chhaqtaña jan ukax jan sum irpaña;
+- llakisiña jan ukax jan suyt'äwi, jan ukax jumax munañäkan lurañanakar jan munaña;
+- kunayman mayt'a, llakinaka jan ukax mayni jan allin uñjasiña;
+- juma pachpan jan utjañ sarnaqañ jan ukax jan suma manq'a lurañ;
+- juma pachpan jan kunayman jan ukax jan allin jan lurañ;
+- alkuhol jan ukax drogas, qhawirin medicinanakampi jan wali apnaqaña.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) mayni uñacht'äwinak yatiyi: demencia jan uñjañ, jaqir phiñasiña ("jupax ch'iqichawa" sasa), qhipan jan suma llakisiña, amuyañ jan ch'amaña ukat hampinakax jumar jan allin uñjañ. Kunapachas kunayman ukanakax utjapxi ukhaxa, jumaru qhawiri uñjirimpiw parlam sapxi.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA yatiyi, jumax jan wal llakisiñ jan jarkañ ukat uñjasiñax askiwa. Uñacht'äwinakam nayra uñjam, ukat lurañ.
 
-## What can I do today, in five minutes?
+## ¿Kunas jichhürunakan pusi phaxsinkama lurañ?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Jisa pachanaka wali askiwa. Janiw kunas llakisiñ jan ukax jan suma uñjasiñ tukuyiti, ukampisa ukanakax ch'iqi nayraqatan sarañatakixa yanapt'apxi.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Phuyuna sarnaqañ.** Uta ukham sum jikxatam, jan ukax buzón kamachi sarnaqam, qhawata jaqix sum amtasa.
+- **Jiwas sum samkañ.** Yatiñanakam parlañ nayra pachanakan, jan ukax jiwas samkañ. Qhawata jaqimpi [Calm Breathing](/games/calm-breathing/) pausa lurañataki.
+- **Uma umañ ukat manq'añ.** Juma pachpan manq'añax sapa kuti qhipaxa jan amtasiñ.
+- **Mä amigumpi qillqañ.** Mayisa jan mayni, janiw kunas mayisa, jiwas jithiqtañatakiw.
+- **Juma pachpan sum parlaña.** NIA-n [guía de cuidado personal](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) sañ parlaña: "Nayax kunas lurañ utjkitu uñjasiña," "Janiw sapa jan suma, ukax jan kunaymanakiti," ukat "Jiwasan sum samkañ pachanakan kusisiñ."
 
-## What is respite care, and how do I get it?
+## ¿Kuna samarañ thaqhañas, kunjamas katuqañ?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Samarañ thaqhañax qhawata jaqir mä chiqa pachataki qhawañ sasa, jumax samarañ munañataki. NIA-n [samarañ thaqhañ](https://www.nia.nih.gov/health/caregiving/what-respite-care) qillqata, ukax uru pacha jan ukax wila semananakakama utjaspa, utan, salud servicionkan jan ukax adult day center ukan utjañ sañ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) mayni thaqhañanak uñachtʼayi:
 
-| Type | What it is |
+| Tipo | Kunas uka |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Utan yanapt'äwi | Amigu, familiar, voluntario jan ukax qulqi katuqiri yanapiri utar purtaspa |
+| Adult day center | Lurañanaka, kunjamas mústica ukat art ukhama, seguro sapa grupunkan; apthapiwa jan ukax manq'a churasiwa |
+| Qhipa jan ukax mä chiqa qhawaña | Long-term care comunidad ukan mä uru, mä jan ukax wila semanan qhawaña |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**¿Khitis qulqi churaraspa?** NIA sañiwa, familia, amigu jan ukax voluntario samarañ jan qulqi utjaspa. Profesional servicionakax uru jan ukax pacha qulqi churapxi. Hospice uñjañ jaqinakatakix Medicare, hospital jan ukax skilled nursing facility ukan, pusi uru chiqpach samarañ ukat wali qulqi churaraspa. Medicaid yanapt'añ utjaspa. Wali jan qulqi seguro ukax samarañ jan katuqapxiti, ukampisa mayni long-term care seguro thaqhañanakax katuqapxi.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Yatiñani:** Alzheimer's Association sañiwa, samarañ yanapirinak jan emergencia uñjasiñ thaqhañapxam, ukhamat kunapachas yanapt'äwi wal mayt'asa ukhaxa, ukanakax amuyapxani.
 
-## Where can I find help near me?
+## ¿Kawkir yanapt'äwis utjaspa jumax jakasiñ sapa?
 
-Several free US services can point you to local help.
+US-an mayni jan qulqi servicionakax tu lugar ukan yanapt'äwi uñjapxi.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) jan qulqi, imantat parlañawa, uru pacha, jaya pusi pachan utjaraki, ukat 200 arunakat sipan yatiri jan ukax intérprete yanapt'äwi. 711 jawsam relay servicio katuqañataki. Jumax conducta uñjasiñanakat, qhawirin llakisiñat, samarañ thaqhañanakat, tu lugar ukan programanakat ukat mayninakat parlañ puedes, ukat care consultant ukampi jak'a parlañ mayt'asa. Yatiri janiw manq'a yatiyañ jan utjaraki.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living ukan mä servicio uñjañ, jaya mayor jaqinakatakix ukat familiakatakix yanapt'äwi uñjaraki. Jawsañ, mensaje qillqañ, chat ukat correo electrónico ukan yatiri jaqinakampi parlañ, jan ukax lugar ukat uñjam jiwasa. Tu lugar ukan Area Agency on Aging ukar irpaspa.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) estado ukat samarañ thaqhañanak jikxatañataki yanapt'i, ukat sapa estado ukan State Respite Coalition jan ukax Lifespan Respite programa utjaspa ukhaxa, nayra mä uñjañ sasa yatiyi. ARCH sañiwa, thaqhañ jan uñjkiti, ukhamasti juma pachpan amuyañ, yatiñ ukat antecedentes uñjañ.
 
-## How do I find a support group?
+## ¿Kunjamas yanapt'äwi grupu thaqhaspa?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline ukan jawsam jan ukax jaya uñjañ grupunak tuqina. Alzheimer's Association [yanapt'äwi grupunak](https://www.alz.org/help-support/community/support-groups) luraraki qhawirinakatakix ukat demencia jakasir jaqinakatakix, kawkir jan ukax internet ukan, yatiñani yanapirinak apthapiwa. Mayni grupunakax yatiyañ lurapxi, jaqinakat yatiñani jach'a khuyapayasiña, jan ukax jiwas sapa jan utjaña.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Yanapt'äwi grupunakax phiñasiñ parlañ, jan ukax jan juzgañ, uñjasiñ yatiqañ, ukat jan jiwas sapa jan utjañ manq'aparu. Nayra grupu jan askikiti ukhaxa, mayni thaqhañ.
 
-## How do I ask family and friends for help?
+## ¿Kunjamas familia ukat amigunakar yanapt'äwi mayisaspa?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Jan kunas arunakam ukhamakiñ. Wali jaqinakax yanapt'askañ munapxi, ukampisa janiw yatipkiti kunas lurañ. NIA sañiwa:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Lista qillqam** kunanakas jaqinakax lurapxi, ukat apthapipxañam.
+- **Chiqa qalltam** mayisaña jan askikaspa ukhaxa.
+- **Lurañ jaqimpi chikacha** Mä primo cocina lurañ munirix Juywes uñjataki manq'a apxi. Mä vecino papeles lurañ yatiri yanapt'apxi.
+- **Mensaje jan ukax correo** mayisaña jan askikaspa ukhaxa.
+- **Mayni yanapt'äwi thaqhañ** Mä jaqix jithiqtañ, yatiñani: "Mayisañ, uka lurañanaka lurañ."
+- **Jan sum sañanakar uñjasiña**, janiw kunas juma sasa.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Mayni ideanakax: mä jaqix qhawata jaqimpi mä pachan qhiparu, mä chiqa paseo ukat, jan ukax mayt'añ ukhama. [Visitas ukat sarnaqañ yatiñani](/caregiving/how-to-play-together/) visitantenakatakix sapaki yatiñawa.
 
-## What if something happened to me?
+## ¿Kunas jumax jan walt'añ ukhaxa?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Jichhürunakan mä sum yatiñani amtam. NIA sañiwa, familia jan ukax wali amigunakampi khitis mantapxi sasa, ukat cuaderno jiwas qillqañ emergencia numerona, medicinanak, lurañ yatiñani ukat taqi kunas askiki ukanak. Alzheimer's Association mayni sañiwa, qhawata jaqin médico contactos ukat medicinas lista mä uñjasiñ utjañ.
 
-## When should I get professional or urgent help?
+## ¿Kunapachas profesional jan ukax emergencia yanapt'äwi mayisaña?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Jumax médico parlañ, kunapachas llakisiñ wali utjaraki, ukat kunapachas jumax jan allin uñjasipkäta jan ukax llakisiña jan lurasiñ. Médico qhawiri ukhamarak uñjañ. NIA sañiwa, consejeronakax jan ukax trabajadores sociales yanapt'apxi, ukat Medicare, Medicaid ukat mayni seguro ukax mental salud lurañ qulqi churapxi.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Juma pachpan jan allin uñjasiñ jan ukax jiwasaru jan lurañ amuyasa ukhaxa, [988 Suicide & Crisis Lifeline](https://988lifeline.org/) ukar jawsam jan ukax qillqam, jan qulqi ukat 24/7 utjaraki. Mayniru chiqa jan walt'äwi utjaraki ukhaxa, tu lugar ukan emergencias número jawsam.
 
-## Can shared activities give me a break too?
+## ¿Mä jiwas samkañ lurañanakax jumar mayt'äwi ukhamarak?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Kunapachas, ukax. Mä sum lurañ mayisa uñjasiñ jumatakix, qhawata jaqitakix mä sum pacha ukhamaraki. Mä kunjam ukhama: nayra taqi arunak uñjañ, jan ukax [Conversation Cards](/games/conversation-cards/) sum lurañ, janiw kunas chiqa jan utjaraki. Jaqix mayni jaqinakampi kusisiñ munapxi ukhaxa, [Picture Bingo](/games/picture-bingo/) ukampi mä grupu lurañ, senior center jan ukax adult day programa ukan, mä horas samarañ churaraspa. Ideanakataki [activities for care home groups](/activities/care-home-groups/) uñjam.

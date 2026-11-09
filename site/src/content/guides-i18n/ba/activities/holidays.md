@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Байрам эшмәкәрлектәре деменцияһы булған кеше өсөн"
+seoTitle: "Деменция өсөн байрам һәм Рәхмәт әйтеү идеялары"
+description: "Деменцияһы булған кеше өсөн ябай байрам эшмәкәрлектәре: ашау әҙерләү, биҙәү, моңдар, фотолар һәм видео шалтыратыу, шулай уҡ тыныраҡ байрам планлаштырыу."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Байрамды кәмерәк, көндөң башында һәм кешенең ғәҙәти режимына яҡын итеп үткәрегеҙ.
+  Уға реаль, хәүефһеҙ эш бирегеҙ, мәҫәлән, өҫтәл ҡуйыу, йәшелсә йыуыу, бүләк төрөү
+  йәки биҙәк элеү. Таныш моңдар һәм иске фотоальбомдар менән бүлешегеҙ, ҡунаҡтарҙы
+  алдан әҙерләгеҙ, тыныс бүлмә ойоштороғоҙ. Тик ҡулығыҙҙан килгәнде генә эшләгеҙ;
+  ҡыҫҡа, тыныс байрам — яҡшы байрам.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Байрамды көндөң башында үткәрегеҙ, мәҫәлән, ашҡа йәки бранчҡа, әгәр кискеһенә буталыу йыш булһа."
+  - "Реаль эштәр тәҡдим итегеҙ: өҫтәл ҡуйыу, йәшелсә йыуыу, төрөү, биҙәү йәки десертты тәрилкәгә һалыу."
+  - "Таныш моңдар, рождество йырҙары һәм иске фотоальбомдар — байрам рухын уртаҡлашыуҙың ябай юлдары."
+  - "Ҡунаҡтарға ниндәй булырға кәрәклеген алдан әйтегеҙ, һәм кешегә килгән кешеләрҙең фотоһын күрһәтегеҙ."
+  - "Яратҡан пледтан йәки кофтанан торған тыныс бүлмә әҙерләгеҙ, ҡунаҡтарҙы бер нисә кеше менән генә индерегеҙ."
+  - "Ҡурҡыныс булған нәмәләрҙән ҡасығыҙ: аҙыҡҡа оҡшаған биҙәктәр һәм күп ялтыраған яҡтылыҡтар."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Деменцияһы булған кеше Рәхмәт әйтеү байрамында нимә эшли ала?"
+    a: "Уға ябай, хәүефһеҙ эш бирегеҙ, бөгөн нимә эшли алыуына ярашлы: йәшелсә йыуыу, клюква һоҫона болғатыу, өҫтәл ҡуйыу, салфеткалар бөгөү йәки тәрилкәгә десерт һалыу. Аҙаҡ бергәләп ғаиләнең иске фотоларына ҡарағыҙ йәки таныш йырҙар йырлағыҙ. Байрамда ҡатнашыу эштең ни тиклем яҡшы сығыуынан мөһимерәк."
+  - q: "Беҙ әле лә ҙур ғаилә йыйылышы үткәрергә тейешме?"
+    a: "Әгәр ул ҡулайлы булһа ғына. Күп кеше һәм ауаз аптыратырға мөмкин, шуға күп ғаиләләр кәмерәк, тыныраҡ йыйылыш, иртәрәк аш йәки ҡунаҡтарҙың бер нисә кеш менән килеүен һайлай. Alzheimer's Association ярҙамсыларға үҙҙәре ғәҡыллы һәм хәүефһеҙ башҡара алған нәмәне генә эшләргә кәңәш итә."
+  - q: "Оҙаҡ килмәгән туғандарҙы нисек әҙерләргә?"
+    a: "Килгәнсе алдан әйтегеҙ, ниҙәр үҙгәреш күрергә мөмкин һәм ул үҙгәрештәр кешенең үҙенән түгел, ауырыуҙан килә. Төҙәтмәҫкә, һорау менән күммәҫкә, береһе бер ваҡытта һөйләргә һәм яуап өсөн ваҡыт бирергә һорағыҙ. Кешегә килгән ҡунаҡтарҙың фотоһын алдан күрһәтеү ҙә ярҙам итә ала."
+  - q: "Деменцияһы булған кешегә байрам бүләктәре нимә тиклем ярай?"
+    a: "Хәҙер ҡулланырға еңел һәм хәүефһеҙ нәмәләр: яратҡан аҙыҡ, йомшаҡ плед йәки кофта, таныш моң йәки ғаилә фотоальбомы. Электрон ҡорамалдарҙан, инструменттарҙан һәм ҡатмарлы уйын-таҡтаҙарҙан тартынығыҙ. Бүләк биреүҙә ҡатнашыу — мәҫәлән, бүләкте төрөү йәки үҙе пешергән печенье тултырыу — үҙе бер бүләк була ала."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Байрамдар йылы иҫтәлектәр ҡайтара ала, шулай уҡ ҡалабалыҡ, шау-шыу һәм ғәҙәти көндән айырылыу килтерә. Деменцияһы булған кеше өсөн иң яҡшы байрамдар, ғәҙәттә, кәмерәк, әкрен һәм уға әле лә оҡшаған нәмәләр тирәһендә ойошторола. Был идеялар Рәхмәт әйтеү, Раштуа, Ханука, Яңы йыл һәм ғаилә тыуған көндәре өсөн дә ярайҙыр.
 
-## How do I plan a calmer holiday?
+## Тыныраҡ байрамды нисек планлаштырырға?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Кешенең режимынан башлағыҙ һәм байрамды шул тирәһенә ҡоролоғоҙ. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) байрамды көндөң башында үткәрергә тәҡдим итә, сәбәбе — буталыу һәм тынғыһыҙлыҡ йыш кискеһенә, кискә ҡарай арта (уны «sundowning» тип тә атайҙар). Байрам ашы йәки бранч кискелек ашынан еңелерәк булырға мөмкин.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Күләмен дөрөҫ итегеҙ.** Кәмерәк, тыныраҡ йыйылыш йәки ҡунаҡтарҙың бер нисә кеше булып килеүе күп кеше менән тулы өҫтәлдән еңелерәк була.
+- **Эштәрҙе бүлегеҙ.** Туғандарҙан ашҡа бер нәмә алып килеүҙе, магазинға барыуҙы йәки аш пешергәндә кеше менән булыуҙы һорағыҙ. Нимә ярҙам итә алыуын конкрет әйтегеҙ.
+- **Биҙәктәрҙе ябай тотоғоҙ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) яҡтылыҡтың ялтыраүы буталтырға мөмкин, ә аҙыҡҡа оҡшаған конфеттар йәки яһалма емештәр биҙәк итеп ҡуйылғанда ашарға тип аңлашылырға мөмкин, тип иҫкәртә.
+- **Нимәне ташлау кәрәклеген хәл итегеҙ.** Әгәр традиция стресслы йәки хәүефле булып китһә, уны ташлау йәки тыныраҡ итеү — дөрөҫ ҡарар.
 
-## What holiday activities can we do together?
+## Бергәләп нимә эшли алабыҙ?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Бөгөн кешенең нимә эшли алыуына ярашлы эштәр һәм шөғөлдәр һайлағыҙ. Байрамдың ни тиклем яҡшы сығыуынан бигерәк, уның бер өлөшө булыу мөһим.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Өҫтәлде бергә ҡуйығыҙ.** Тәрилкәләрҙе, аҙаҡ салфеткаларҙы, аҙаҡ стакан-сәйҙәрҙе ҡуйығыҙ. Салфетка бөгөү — ултырып эшләй торған яҡшы эш.
+2. **Йәшелсә йыуығыҙ һәм әҙерләгеҙ.** Картуфты йыуыу йәки яшел фасолды өҫтәл янында өҙөү — күп кешегә, ҡасандыр пешергән кешеләргә, хәүефһеҙ һәм таныш.
+3. **Болғатығыҙ, ҡушығыҙ йәки тәрилкәгә һалығыҙ.** Клюква һоҫона болғатыу, ябай ҡамыр ҡушыу йәки печенье тәрилкәгә һалыу ҡулдарҙы мәшғүл итә, плитә һәм бысаҡтарҙан алыҫ тота.
+4. **Бүләк төрөгөҙ.** Ҡағыҙҙы һәм лентаны алдан киҫегеҙ, кеше бөгөп һәм тигеҙләп ҡарасын. Матур төрөү — маҡсат түгел.
+5. **Бер нисә биҙәк элегеҙ.** Һыныҡмаҫ шарҙар һәм бер кесе урын һайлағыҙ, мәҫәлән, венок йәки кесе шыршы.
+6. **Ябай һөнәрселек яһағыҙ.** Ҡағыҙ тупсалар, япраҡтарҙан коллаж йәки маркалар ябыштырылған байрам открыткаһы яҡшы килә. Беҙҙең [сәнғәт һәм һөнәрселек буйынса ҡулланма](/activities/arts-and-crafts/) тағы идеялар бирә.
+7. **Йырлағыҙ һәм тыңлағыҙ.** Таныш рождество йырҙары һәм байрам йырҙарына ҡушылыу еңел, хатта хәҙер аҙыраҡ һөйләшкән кеше өсөн дә. Плейлист төҙөү өсөн беҙҙең [моң буйынса ҡулланма](/activities/music/) ҡарағыҙ.
+8. **Иске байрам фотоларына ҡарағыҙ.** Үткән байрамдарҙан альбомдар сығарығыҙ һәм «Был кем?» тип һорау урынына хикәйәләр һорағыҙ («Был өҫтәл тураһында һөйләп бир әле»). Беҙҙең [иҫтәлектәр буйынса ҡулланма](/activities/reminiscence/) был тураһында аңлата.
+9. **Тыныс төркөм уйыны уйнағыҙ.** [Фотолы бинго](/games/picture-bingo/) минуттар эсендә баҫыла һәм бөтә йәштәге кешеләргә ярай, ә [һөйләшеү карталары](/games/conversation-cards/) бөтәһенә һөйләшер тема бирә.
+10. **Бергә буяғыҙ.** Ябай [буяу биттәрен](/games/coloring/) баҫтырып, балалар һәм олатайҙар өҫтәл артында бергә уртаҡлашып буяй ала.
+11. **Яратҡан байрам фильмын ҡарағыҙ.** Таныш фильм тыныс була, һәм уның бер өлөшөн генә ҡарау ҙа ярай.
+12. **Яҡтылыҡтарҙы ҡарап ҡайтығыҙ.** Биҙәлгән йорттар янынан тыныс машина менән үтеү ҡалабалыҡ сарауҙан еңелерәк.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Әгәр ашарға әҙерләү кешенең тормошонда ҙур урын алһа, беҙҙең [өй эштәре рәүешендәге эшмәкәрлектәр буйынса ҡулланма](/activities/household-tasks/) ашханәлә эштәрҙе хәүефһеҙ һәм ҡәнәғәтләндергеҙерлек итеү юлдарын күрһәтә.
 
-## How do I prepare guests?
+## Ҡунаҡтарҙы нисек әҙерләргә?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Ҡунаҡтар килгәнсе, айырыуса оҙаҡ килмәгән туғандарға, нимә көтөргә кәрәклеген әйтегеҙ. Alzheimer's Association хәтер һәм тәртиптәге үҙгәрештәрҙең ауырыуҙан килеүен, кешенән түгеллеген аңлатырға кәңәш итә.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Ике-өс ябай кәңәш бүлешегеҙ:** береһе бер ваҡытта һөйләһен, фекерҙе бөтөргә ваҡыт бирегеҙ, төҙәтмәгеҙ һәм һорау менән күммәгеҙ; һүҙҙәр ауыр килһә, кешенең тонына ҡарап яуап бирегеҙ.
+- **Нимә ярҙам итә һәм нимә борсой, әйтегеҙ.** Ҡаты ауаз, ашыҡтырыу йәки ниндәй ҙә булһа темалар кешегә ҡайғы килтерә икән, шуны әйтегеҙ.
+- **Ҡунаҡтарҙы алдан таныштырығыҙ.** Кешегә килгән кешеләрҙең фотоһын күрһәтегеҙ, бер-ике хикәйә бүлешегеҙ, йәки байрамдан алда ҡыҫҡа телефон йәки видео һөйләшеү ойоштороғоҙ.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Беҙҙең [аралашыу кәңәштәре](/caregiving/communication-tips/) тулыраҡ аңлата.
 
-## What if it gets to be too much?
+## Был бик күп булһа нисек буласаҡ?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Ҡунаҡтар килер алдынан, ауаздан һәм ҡалабалыҡтан ситтә, тыныс бүлмә әҙерләгеҙ, унда яратҡан плед, кофта йәки ябай шөғөл булһын. Уны иртә һәм йыш тәҡдим итегеҙ: «Бер аҙ тыныраҡ ерҙә ултырайыҡмы?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Өҫтәл янынан торыу, иртә ятыу йәки көндөң бер өлөшөн үткәреү — уңышһыҙлыҡ түгел, ә яҡшы һөҙөмтә. Әгәр кеше борсола башлаһа, тыныс тауыш, таныш йыр йәки икенсе бүлмәгә йөрөү аҡыл менән һөйләшеүҙән ҡайһы саҡ ҙурыраҡ ярҙам итә. Кискеһенә ҡағылышлы тағы идеялар өсөн беҙҙең [кискеһендәге тынғыһыҙлыҡ буйынса ҡулланма](/caregiving/late-day-restlessness/) ҡарағыҙ.
 
-## How can family far away take part?
+## Ситтә йәшәгән ғаилә нисек ҡатнаша ала?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Видео шалтыратыу туғандарға ҡалабалыҡты арттырмай ҡушылырға мөмкинлек бирә. Alzheimer's Association шалтыратыуҙарға ниндәйҙер структура биреүҙе тәҡдим итә: мәҫәлән, миҙгел йырҙары йырлау, элекке йыйылыштарҙан фотолар күрһәтеү, бер үк рецепт буйынса бергә аш пешереү йәки бер үк ваҡытта байрам фильмы ҡарау. Шалтыратыуҙарҙы ҡыҫҡа тотоғоҙ, һәм кешеләрҙән береһе бер ваҡытта һөйләһен, сөнки бер-береһенә ҡушылып һөйләшеү аңлашылыуҙы ҡыйынлаштыра. Беҙҙең [телефон һәм видео шалтыратыу буйынса ҡулланма](/activities/phone-and-video-calls/) аҙым-аҙым идеялар бирә.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Әгәр кеше хәтер һаҡлау урынында йәшәһә, урындағы визит ҡағиҙәләрен тикшерегеҙ һәм персоналдан шалтыратыуҙы ойоштороуға ярҙам һорағыҙ. Беҙҙең [хәтер һаҡлау урынында кешене күреү буйынса ҡулланма](/activities/visiting/) нимә алып барырға һәм нисек яҡшы сығырға икәнен яҡтырта.
 
-## What gifts suit someone with dementia?
+## Деменцияһы булған кешегә нимә бүләк итергә?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Хәҙер ҡулланыу һәм ҡыуаныу еңел, хәүефһеҙ бүләктәр иң яҡшы эшләй: яратҡан аҙыҡ, йомшаҡ плед йәки кофта, таныш моң, ҙур хәрефтәр менән календарь йәки ғаилә фотоальбомы. Alzheimer's Association хәүефле инструменттарҙан, ҡатмарлы электрониканан һәм ауыр уйын-таҡтаҙарҙан тыйылырға кәңәш итә.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Бүләк биреү алыу кеүек үк мөһим булырға мөмкин. Кешенең үҙе пешергән печенье тултырыу йәки уның һеҙ алған бүләкте төрөүен тәҡдим итеү — уға байрамда ҡатнашырға ярҙам итә. Ғаилә фотоһы менән уйын ҙа яҡшы фекер: [фотолар пары](/games/photo-pairs/) һайланған фотоларҙы браузерҙа ябай парлау уйынына әйләндерә.
 
-## Look after yourself too
+## Үҙегеҙ өсөн дә ҡайғыртығыҙ
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Байрам ҡарау эшенә өҫтәмә эш өҫтәй. Башҡаларға ҡунаҡ ҡабул итергә йәки индейка пешерергә ирек бирегеҙ, ауыр булыуы ихтимал булған сараларҙан баш тартығыҙ, һәм башҡалар кеше менән ваҡыт үткәргәндә ял итегеҙ. Әгәр һеҙ йә һеҙ ҡараған кеше ауырып китһә, ишек алдынан ҡул ҡалҡытыу йәки видео шалтыратыу — тулы ҡараш. Беҙҙең [үҙ-үҙеңде ҡарау буйынса ҡулланма](/caregiving/caregiver-self-care/) өҫтәмә ярҙам бирә.

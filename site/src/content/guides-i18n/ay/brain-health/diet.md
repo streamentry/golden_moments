@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Manq'a MIND ukat Mediterráneo: Demencia ukat yatiñanaka"
+seoTitle: "Manq'a MIND ukat demencia: Yatiñanakax kunsa siwi"
+description: "Mediterráneo ukat MIND manq'a amtañanakat demencia ukat yatiñanakax kunsa siwi, mayja yatxatañ kunatsa jan askiw uñjatäkaspa, ukat manq'añ yanapt'aña."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Qhipa yatxatañanakan Mediterráneo ukat MIND manq'a amtañanakax demencia
+  jaytañ sapa mayja uñjatäkaspa, ukampisa taqi chiqa yatxatañanakan janiw
+  uñjatäkaspati. Kimsa maraw 2023 maranxa MIND manq'a amtañanakan mä yatxatäwix
+  utjäna; ukax yatiñ thaqhañanakan ukat qhanañ uñjañanakan janiw mä
+  amtañatxa jukhurisa. Janiw mä manq'a ni suplemento ukax demencia jaytañ
+  chiqpachaw jark'atäkiti. Demencia uñt'ata jaqinakatak, manq'añ umañ ukat
+  umañ taqi chuymaw wali wakiskaspa.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Mayja yatxatañanakan, janiw taqi ukanakan ukax utjkaspati, Mediterráneo ukat MIND manq'a amtañanakax demencia jaytañ jan sapa jukhurisa uñjatäkaspa."
+  - "2023 maranxa 604 jach'a maranakan jaqinakan yatxatañapanxa, MIND manq'a amtañ jaqinakax kimsa mara qhipäxa yatiñ thaqhañanakan ni qhanañ uñjañanakan janiw control manq'a amtañ jaqinakat sapa askïkiti."
+  - "Estados Unidos ukan National Institute on Aging sasaw sirwi, janiw mä manq'a ukax ni mä manq'a ukat jaytañ jark'atäkiti sasa, ukat janiw mä vitamina ni suplemento jaytañ jark'atäkiti sasa."
+  - "Hortalizas, frutas, habas, trigo ukat challwa manq'anakax qullu chuym wali wakisi, ukat alta presión ukat diabetes uñjañanakan jan wali kuns uñjatäkaspa."
+  - "Demencia uñt'ata jaqinakatak, jisk'a manq'anaka, kunaq uñjasiñapa uñjañ mesa, sumapuni manq'añ ukat mayni mayni umañ sapa jukhurisa mä manq'a amtañat juk'amp wakiskaspa."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "¿MIND manq'a amtañax demencia jark'aspati?"
+    a: "Janiw uñjatäkiti. Mayja yatxatañanakax MIND manq'a amtañ jan wali kunaw jaytañ uñjapxi, ukampisa 2023 maranxa kimsa maraw yatxatäwix janiw yatiñ thaqhañanakan ni qhanañ uñjañanakan MIND manq'a amtañ jaqinakat control manq'a amtañ jaqinakat sapa askïkiti sasaw uñjäna. Pä chiqanakan jaqinakax mä juk'a askiw sarantayäna, ukat sapa kilo ukax juk'ampiw jaqunxapxäna."
+  - q: "¿Kunsa MIND manq'a amtañax Mediterráneo manq'a amtañat t'aqhisi?"
+    a: "Mediterráneo manq'a amtañax hortalizas, frutas, trigo, habas, challwa ukat oliva aceite manq'añ yatichi, jisk'a waka aycha ukat dulces manq'añ. MIND manq'a amtañax Mediterráneo ukat DASH manq'a amtañ (alta presión uñjañatak) sarañ ukat mä yatiñ jilïr hortalizas, arumanaka ukat berries manq'añ yatichi, ukat waka aycha, dulces, queso, mantequilla ukat frito manq'anaka jisk'achaw."
+  - q: "¿Utjaptati mä manq'a jan ukax suplemento Alzheimer jark'añataki?"
+    a: "Janiw utjkiti. National Institute on Aging sasaw sirwi, janiw mä manq'a manq'añ ukat jan manq'añ Alzheimer jark'añ ni edad ukan yatiñ ch'iqhañ jark'añataki yatiñ utjkiti, ukat janiw mä vitamina ni suplemento Alzheimer jark'añataki chiqpachaw uñjatäkiti. Mä suplemento umañ sapa doctor jiwasampi parlapxam."
+  - q: "¿Kuna manq'anakas demencia uñt'ata jaqinakatak sumpachañ wali?"
+    a: "Mä mayni boca sapa manq'anaka, sandwich ch'iqinaka, pollo ch'iqinaka, naranja ch'iqinaka jan ukax jank'ak hortaliza ch'iqinaka, cuchara ukat tenedor manq'añat juk'amp sumapuniw. Ukat jank'aña jan ukax umañ jan wali ukhaxa, huevo revuelto, manzana puré jan ukax queso blanco ukax yanapt'añapawa. Toserpan jan ukax ch'alljpan, doctor jiwasampi qhana umañ uñjañ parlapxam."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Jumanakax yatipxtawa "yuqallïr" manq'a Alzheimer jark'aspa sasa. Chiqapax janiw ukhamäkiti. Qhipa yatxatañanakan mä manq'a amtañanakax jaqinakan jaytañ jisk'achañ uñjatäkaspa, ukampisa maya yatxatañ jach'a janiw mä juk'a askit uñjatäkaspati. Akax ambos uñjañanak yatichi, ukat ukatxa demencia uñt'ata jaqinakatak yatiñ uñjañanaka: manq'añ ukat umañ taqi chuymaw wali wakisi, ukat sumpachañ.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Akax taqi yatiñawa, janiw doctor ni dietista ukhamaw parlaña. Antes de cambiar la dieta de usted o de otra persona, hable con un doctor o dietista. Mayni yatiñanakataki, [medical disclaimer](/medical-disclaimer/) uñjapxam.
 
-## What are the Mediterranean and MIND diets?
+## ¿Kunas Mediterráneo ukat MIND manq'a amtañanakax?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) sasaw amtañanakax akham sirwi ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Mediterráneo manq'a amtaña:** hortalizas, frutas, trigo, habas, challwa ukat mar manq'anaka, oliva aceite ukat jisk'a waka aycha, huevo ukat dulces manq'añ.
+- **MIND manq'a amtaña** (Mediterranean–DASH Intervention for Neurodegenerative Delay): Mediterráneo manq'a amtañ ukat DASH manq'a amtañ (alta presión uñjañatak) mixtu. Hortalizas, jan ukax arumanaka uñjañ, berries, trigo, habas, nueces, challwa sapa mara kimsa kutiw manq'añ ukat oliva aceite. Waka aycha, dulces, queso, mantequilla jan ukax margarina, ukat frito jan ukax comida rápida jisk'achañ.
 
-## Do these diets lower dementia risk?
+## ¿Ukanakax demencia jaytañ jisk'achapxiti?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Yatiñax mayja uñjatäkaspa. NIA sasaw sirwi, mayja yatxatañanakan mä manq'a amtañanakax demencia jaytañ jisk'achañ uñjatäkaspa, ukampisa taqi chiqa uñjatäkaspati; Estados Unidos ukan manq'anakat, waka aycha, saturated graso ukat azúcar jach'a manq'a amtañat sapa.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 Lancet Commission ukax yatxatañanak juk'amp uñjäna ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Mä qhipa yatxatañan manq'a wali uñjatäkaspa, ukat sapa 20% jisk'a demencia jaytañ uñjatäkaspa.
+- Mä jach'a análisis kimsa grupo jaqinakan MIND manq'a amtañ wali sapa jisk'a jaytañ uñjatäkaspa.
+- Ukampisa Suecia ukan yatxatañax 28,025 jaqinakat 20 maranakan uñjäna; ukax janiw demencia jisk'achatäkaspati, ni recomendado manq'a amtañanakan ni Mediterráneo manq'a amtañanakan.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Mayja yatxatañanakax janiw chiqa mayjt'ayañ ukat jaytañ uñjañ atipkiti. Ukhamarak, ukhamä manq'a amtañ jaqinakax yaqhipanakax mayni yatiñanakan ukhamäpxi, kunjamsa qullqi, yatichäwi, sarnaqaña ukat jach'a uñjañ yanapt'awi. Commission sasaw sirwi, janiw yatiñ utjkiti manq'a wali demencia jark'atäkaspa sasa, ukampisa hortalizas ukat frutas taqi chuymaw manq'añ, ukat ultra-procesado manq'anaka jisk'achañ, wali wakisi ukat obesidad, diabetes ukat alta presión jan wali uñjañanakat jark'añataki. Dieta ukax janiw [14 risk factors](/brain-health/risk-factors/) lista ukan mantxatäkiti.
 
-## What did the 2023 MIND diet trial find?
+## ¿Kunsa 2023 MIND manq'a amtañ yatxatäwix uñjäna?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Jach'a yatxatäwi, New England Journal of Medicine 2023 maranxa qhanañ uñjäna ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Kunaw:** 604 jaqinakat 65 maranakan jukhutaki, Chicago ukat Boston chiqanakan, yatiñ jan jakhuntatäkaspa, mä jaqi familiar demencia uñt'ata, jach'a kilo ukat jan wali manq'a amtañ.
+- **Kunjamaw:** kimsa mara, pä chiqa MIND manq'a amtañ, pä chiqa sapa manq'a amtañ. Taqinin 250 calorías jisk'a manq'añ sasaw mayt'äna, ukat dietista yatichäwinaka sapa mara katuqapxäna.
+- **Uñjäwi:** yatiñ thaqhañanakan juk'a askiw ukhamäkiti, ukampisa pä chiqan jaqinakan sapa jiskhuqaw **janiw** jach'a uñjatäkiti. Qhanañ uñjañanakan ukat sapa jiskhuqaw.
+- **Peso:** pä chiqan jaqinakax sapa 5 kilogramo jaqunxapxäna.
 
-### Why might the trial have found no difference?
+### ¿Kunatsa yatxatäwix janiw sapa uñjatäkaspati?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Yatxatirinakax yaqhipa yatiñanak sapxi. Control chiqan jaqinakax manq'a amtañ juk'a askiw jiskt'äna, kunatixa jaqunxapxäna. Mayt'äwinakax yatiñ thaqhañanak juk'a askiw sapa juk'ampiw uñjatäkaspa. Kimsa mara jisk'a pachäkiti. Taqinin jaqinakax yatichäwi ukat europeo jaqinakaw sapa, ukatwa uñjäwinakax taqi jaqinakatak janiw ch'uqt'atäkaspati.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Chiqa yatiñax akhamäkiwa: MIND manq'a amtañax mä yatiñ calorías jisk'achat manq'a amtañ kimsa maraw janiw jark'äna. Ukax janiw manq'a wali ch'iqiyaña sapa jukhurisa; janiw mä manq'a amtañ demencia jaytañ jark'atäkiti sasa.
 
-## What about specific foods and supplements?
+## ¿Kunsa suplemento ukat mä manq'a ukanakan?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA sasaw sirwi, janiw mä manq'a manq'añ ni jan manq'añ Alzheimer jark'añataki yatiñ utjkiti. Berries, hoja verde manq'anaka ukat cúrcuma uñjatäna, ukampisa janiw chiqa yatiñ utjkiti. NIA sasaw, janiw mä vitamina ni suplemento Alzheimer jark'añataki chiqpachaw uñjatäkiti, ukat janiw ukhamäki yatxatäwinakanxa. NIA sasaw, Alzheimer jark'añataki sapa mä jan uñjatäkaspa producto, jan askinakaw utjaspa, qullqi jan wali sarxaspa, ukat recetado medicinanakan jan wali sarxaspa; ukhamaw doctor jiwasampi parlapxam ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## ¿Kunsa manq'añ wali ukat wali kusisiñ?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Jach'a jaqinakatak, amtañax manq'a wali, sapa uñjat ukat kusisiñ manq'añ, janiw jisk'a amtañ:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Manq'añ mä amtañ sapa uñjat manq'anakampi:** hortalizas, frutas, habas, trigo, challwa ukat oliva aceite.
+- **Kusisiñ manq'anak uñjapxam.** Qhipa urunakan kusisiñ manq'añ ukat yatiñ jach'a jaqinakatak wali.
+- **Mayninakampi manq'apxam** kunapachatixa atipxi. Mayninakampi manq'añax wali sarnaqaña.
+- **Mayninakampi manq'apxam.** Hortalizas ch'allaña jan ukax tanqa uñjaña, [household tasks](/activities/household-tasks/) ukhamawa sapa. Familia manq'a ukax [reminiscence](/activities/reminiscence/) ukhamaw yatiñ sartayi.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Jach'a jaqinakax janiw jisk'a manq'añ jan ukax kilo jisk'achañ doctor jiwasampi parlañ jan ukax, ayuno ukax jach'a ch'ampinakaniwa. Uñjapxam [fasting guide](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## ¿Kunsa demencia uñt'ata jaqir manq'añ yanapt'añasa?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Demencia uñt'ata jaqinakatak, manq'añ ukat umañ **taqi chuymaw** jach'a amtañaw. Alzheimer Association sasaw sirwi, jaqinakax manq'añ ukat amuyañ, manq'äna sasaw amuyapxi, jan ukax mayninakan janiw wali jakhuntapxi; jan wali manq'añax yaqhipanakax uñjatäkaspa, kilo jisk'achañ ukat ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Akanakax Alzheimer Association, NIA ukat Alzheimer's Society sasaw sirwi:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Jank'ak manq'anaka churapxam.** Jisk'a ch'iqinaka, sandwich, pollo, pescado, naranja ch'iqinaka jan ukax vapor hortaliza ch'iqinaka, cuchara ukat tenedor jan ukax, jaqi kikipa manq'añ.
+2. **Mesa ukan jach'a uñjañ.** Uñjañ jan wali ukhaxa, manq'a ukat plato jan uñjañ. Blanco plato jan ukax tazón ukat aycha contraste mantel ukhaw wali. Jan jakhuntañ sasa dibujo ukat mantel jan churapxam.
+3. **Mä jan ukax paya manq'a churapxam sapa mayt'a.** Jach'a plato jan wali ukhaxa, jaqi jakhuntatäki.
+4. **Manq'añ chuymaw ch'uxña.** Televisión apaqapxam, mesa jisk'a uñjapxam, jaqinakax pachampi manq'apxi. NIA sasaw, jan usuchañ jan ukax jaquntañ jan.
+5. **Jisk'a manq'añanaka ukat jisk'a manq'añanaka sapa.** NIA sasaw, jisk'a manq'añanaka sapa mara, ukat calorías jach'a manq'anaka, manq'a jan wali ukhaxa ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Umañ yanapt'apxam.** Jisk'a vasos agua jan ukax mayni umañanaka urunakan churapxam, ukhamarak fruta, sopa, batido ukat smoothie manq'añ. Agua munkan jan ukax, NIA sasaw jugo, agua saborizada, caldo, leche jan ukax decaf café jan ukax té umañ.
+7. **Temperatura uñjapxam.** Jaqix manq'a jan ukax umañ jach'a q'ara jakhuntañkiti.
+8. **Chapa jan ukax vaso mayjt'apxam.** Tazón plato jan ukax, jach'a manija cuchara ukat tapa vasos manq'añ sumpachañ. Jach'a pulcro jan uñjañ.
+9. **Manq'añ ukat ch'aqhañ sumpachañ.** Jisk'a ch'iqinaka jan ukax jank'ak manq'anaka churapxam. Jaqix tosiñ jan ukax ch'alljaña manq'a ukhaxa, doctor jiwasampi parlapxam.
+10. **Jan ch'iqhañ manq'añ.** NIA sasaw, manq'añ munaña ukat Alzheimer ukan qhipa pachanakan jisk'achi.
 
-### Signs to tell the doctor about
+### Doctor jiwasampi parlañ uñjañanaka
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Peso jisk'achañ, manq'añ jan munaña, qhathaña jan ukax jan wali sapa ukanakax, jaqix janiw sapa manq'añ uñjatäkaspati. Alzheimer's Society sasaw sirwi, jan wali dientes ukat dentadura, depresión, jan ukax medicina mayjt'añax manq'añ jisk'achapxi ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). NIA sasaw, umañ jisk'achañ uñjañanaka: boca jank'a, ch'ankha, sapa qhathaña ukat k'achana jan wali amuyaña ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Doctor jiwasampi parlapxam
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Jumanakan jan ukax mayninakan manq'a amtañ jach'a mayjt'añat, doctor jan ukax dietista jiwasampi parlapxam, khititix diabetes, riñón jan wali, manq'añ ch'ankha jan ukax peso jisk'achañ. Demencia uñt'ata jaqitakix, sapa uru manq'añ ukat umañ juk'ampi, dietista jan ukax suplemento yanapt'añatak uñjapxam.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Urgente yanapt'awi munaspa, jaqix ch'allaña, jan suma amuyaña, jan ukax ch'iqhaña jan ukax jaquntañ.

@@ -43,94 +43,91 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Деменция гьабуна, инсанал цӏияб ругӏана, гьоболе тӏасаб рахъарал ва цӏуйтӏал гьабуна. Гьеб гьабулел инсан ругӏиялъ ахиялъ мегъараб ккола лъикӏаб. Гурони гьабулеб ккола гьакъиги гьарурал, рагӏуялъ ва бугеб ругӏуна гьабулеб калла, ва гьеб вахъул ахиялъ гьарулел ккола.
 
-## What are the most important tips for talking with someone who has dementia?
+## Деменциялда бугеб инсанаца гурони бахъун мун тӏуре?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Гьоболе ахиялъ гьарун, сабаб гьабун ва ругӏаяб гьабун тӏуре. Гьеб гьабулел гъваялъ бихьун:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ругӏана къанагӏа ва гьоболе гьакъ гьарун.** Телевизорицӏа мун, гьоболе ахиялъ ругӏун, ва гьеб цӏар гьабун.
+2. **Бакӏараб ругӏун.** Гьабулел цӏуйтӏал ва рагӏуялъ, гьаб гьабулеб.
+3. **Ругӏана ккола ругӏаздаса.** «Чай ва кофе?» гьабулеб гьабулел ккола, «Мун мекъи?» гьабулел бакӏарасан.
+4. **Гьабулеб.** Жавоб гьабулеб цӏуйтӏал дагъиялъ ругӏун, ва рагӏуялъ мунхун.
+5. **Гьабулел ругӏун ва цӏуйтӏун.** Гьоболе гьакъ гьабун, факт гьакъ ккола тӏуре.
 
-## How should I start a conversation?
+## Гурони гьабулеб мун тӏуре?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Гьеб гьабулел инсанал ругӏана гъваялъ гьабун. [Family Caregiver Alliance гъвалъ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) гъвана: радио ва телевизор цӏар гьабун, къарал ва дарбар гьабун, ва къанагӏа цӏар гьабун.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Ругӏаздаса гьабун.** Гъваялъ ругӏулел гьабулел гъваялъ ахиялъ сабаб гьабун.
+- **Гьоболе ахиялъ гьабун.** «Ассалам, папа, зун Сара, мун дочь». Гьеб гьабулел гьоболе ахиялъ гьарун.
+- **Гьабулел гъваялъ гьабун.** Гьоболе ахиялъ цӏар гьабун, гьеб гьабулел ккола.
+- **Гьоболе къаца ва ругӏана гьабун.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) гъвана: ругӏана, ахиялъ ва гьабулел гъваялъ гьабун.
+- **Очкиял ва слуховой аппарат гьабун.** Гьоболе гьарулел ругӏун гьабулел ккола.
 
-## How should I phrase what I say?
+## Мун гурони гьабулеб цӏуйтӏал тӏуре?
 
-Use simple words, short sentences and a calm, low voice.
+Бакӏараб ругӏана, бакӏараб цӏуйтӏал ва дагъиялъ ругӏана гьабун.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Цӏуйтӏал гьабулел гъваялъ.** «Гьабулеб мун пальто. Гьеб гьабун гьорол». Ругӏана цӏар гьабулеб.
+- **Ругӏана ккола гьабун, гъваялъ тӏуре.** «Аунт Жан бихьарун». Ругӏана цӏар гьабулеб «Гьел бихьарун».
+- **Дагъиялъ, ругӏана тӏуре.** Family Caregiver Alliance гъвана: дагъиялъ ругӏун, ругӏана тӏуре.
+- **Тӏуре ругӏун.** Гьоболе гьабулел гъваялъ тӏуре гьабун. Гьоболе гьабулеб гьабулел гъваялъ тӏуре.
+- **Гьабулел ахиялъ гьарун.** Гьоболе гьабулел гьарун, гьабулел гьарун.
+- **Гьоболе ругӏун, гьоболе тӏуре ругӏун.** NIA гъвана: инсаналъ ругӏун, гьоболе ругӏун гъваялъ гьабулеб.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA гъвана цӏуйтӏал бакӏарасан гьабулел. Гьеб гъваялъ ругӏулел гъвалъ:
 
-| Instead of | Try |
+| Гьабулел тӏуре | Гьабулеб |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Гьабулел мун цӏуйтӏал?» | «Мун рахъ мекъи ва гъабаяб?» |
+| «Мун гьабулел цӏуйтӏал?» | «Мун хъана гъабурал?» |
+| «Мун гьабулел?» | «Гьабулел цӏуйтӏал гъабулеб минутаялда.» |
+| «Гьеб гьабулел ккола гъваялъ.» | «Гьабун гъваялъ тӏуре.» |
+| «Мун бихьарун гъваялъ гьабулел?» | «Зун гьабулел гъваялъ гьабулеб. Ругӏун гьабулел гъваялъ тӏуре.» |
+| «Зун гъабаяб бихьарун.» | Гьоболе гьабулел, гьоболе гъваялъ гьабун. |
 
-## How do I listen well?
+## Мун гьабулел тӏуре ругӏана?
 
-Listen for the meaning and the feeling, not just the words.
+Ругӏулел ругӏаяб ва гъваялъ гьабулел, рахъ ругӏаяб тӏуре.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Гьабулеб.** Гурони бахъун рагӏуялъ ахиялъ гьабулел. Гъвалъ рагӏуялъ мунхун.
+- **Бакӏараб гьабулел, гъваялъ гьабулеб.** Гьабулел гъваялъ гьабулеб, ругӏулел гъваялъ.
+- **Гьабулеб гъвалъ тӏуре.** [Alzheimer's Association гъвалъ](https://www.alz.org/help-support/caregiving/daily-care/communications) гъвана: гьабулел гъваялъ ругӏун, гъвалъ тӏуре.
+- **Гъвалъ ахиялъ гьабулеб.** Гьабулел гъваялъ, гьабулеб гъвалъ.
+- **Гьабулел гъвалъ гьабулеб.** Гъваялъ гьабулел, гъвалъ гьабулеб.
 
-## What if they say something that is not true?
+## Гъвалъ гьабулел ругӏана ккола?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ругӏана гьабулел гъваялъ гьабулеб. Инсан гьабулеб гъвалъ, гьабулел ккола. Гьоболе гьабулел, гьабулел гъваялъ тӏуре.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance гъвана: гьабулел гъвалъ гьабулел тӏуре, ва гьабулел гъваялъ тӏуре.
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+Alzheimer's Association гъвана: гьабулел гъвалъ гьабулеб.
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+## Деменция гьабулел гъваялъ гурони тӏуре?
 
-## How does communication change as dementia progresses?
+Гьабулел гъвалъ гьабулеб. Alzheimer's Association гъвана гъваялъ гъвалъ.
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
-
-| Stage | What helps |
+| Гъвалъ | Гьабулел |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Гъваялъ | Гьабулел гъвалъ гьабулеб. |
+| Гъваялъ | Гьабулел гъвалъ гьабулеб. |
+| Гъваялъ | Гьабулел гъвалъ гьабулеб. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Гьабулел инсанал гъвалъ гьабулеб. Гьабулел гъваялъ тӏуре.
 
-## Can pictures and activities make conversation easier?
+## Гурони картал ва гьабулел гъваялъ гьабулеб?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Гьабулеб. Гьабулел гъвалъ ругӏаяб.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Гурони картал.** [Conversation Cards](/games/conversation-cards/) гьабулеб гъвалъ.
+- **Семейный фото.** [Photo Pairs](/games/photo-pairs/) гьабулеб.
+- **Гьабулел гъвалъ.** [Finish the Saying](/games/finish-the-saying/) гьабулеб.
+- **Гьабулел гъвалъ.** [Picture Pairs](/games/picture-pairs/) гьабулеб.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Гъвалъ [гьабулел гъвалъ](/caregiving/how-to-play-together/) ва [гьабулел гъвалъ](/activities/reminiscence/). Гьабулел гъвалъ [гьабулел гъвалъ](/activities/visiting/) ва [гьабулел гъвалъ](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Мун ругӏар бихьарун?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Гьеб гьабулел инсанал. NIA гъвана: мун гъвалъ ругӏаяб, мун тӏуре гьабун. Гьабулел гъвалъ гьабулеб, гьабулел гъваялъ. Гьабулел, гьабулел. Гьабулел гъвалъ ругӏаяб: [caregiver self-care](/caregiving/caregiver-self-care/) гъвалъ.

@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Actividatz pa videotrucadas con una persona con demencia"
+seoTitle: "Actividatz de videotrucadas pa la demencia"
+description: "Actividatz de videotrucadas y teléfono pa la familia lueñe de una persona con demencia: amostrar cosas, leyer, cantar, chuegos compartius y consellos."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Las trucadas con una persona con demencia salen mejor cuando son cortas,
+  regulars y con algo que fer chuntos, como amostrar una mascota u un güerto,
+  mirar fotos, leyer en voz alta, cantar una canción favorita o chugar a un
+  chuego sosegau en una pantalla compartida. Trucar a la misma ora cada día si
+  puede ser, mantener una sola voz a la vez y pedir a alguien que sía con ella
+  que ayude.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Una actividat da forma a la trucada y quita presión a la conversación. Planege una cosa simple pa compartir."
+  - "Trucadas cortas y regulars a la misma ora del día muitas vegadas funcionan mejor que trucadas largas y de tanto en tanto."
+  - "Una persona parla a la vez. Las trucadas en grupo con voces que se pisan son difíciles de seguir, sobre todo con problemas d'oyeda."
+  - "Una persona que sía allí puede prebar o aparato, sentar-se al costau de la persona y fer de « mans » pa cualquier chuego u foto."
+  - "Si una trucada no funciona hue, acabe-la con cariño. Intentar-lo doman no pasa nada."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Qué puedo fer en una videotrucada con una persona con demencia?"
+    a: "Planegue una actividat simple: amostrar o huerto, a mascota u a cocina; mirar fotos antiguas chuntos; leyer en voz alta un poema curto u una carta; cantar una canción que le agrade; cucinar la mesma receta a la mesma ora; u chugar a un chuego de imáxenes sosegau en una pantalla compartida. As actividatz dan un punto de referencia a la trucada pa que la persona no tienga que sostener la conversación ella sola."
+  - q: "Cuánt ha de durar una videotrucada?"
+    a: "Normalment, más curta de lo que cree. Unos minutos cálidos pueden bastar, sobre todo si la persona se cansa pronto. Trucar con regularidat a la misma ora del día puede importar más que cuánt dure cada trucada."
+  - q: "Y si las videotrucadas le confunden u le disgustan?"
+    a: "A algunas personas la cara en una pantalla les confunde. Prebe una trucada de teléfono normal, un mensache de video grabau que la persona que ayuda pueda poner en un momento tranquilo, u tarjetas y fotos por correo. Si una trucada sale mal, acábela con amabilidat y prebe otro día u a otra ora."
+  - q: "Como puedo ayudar a mai a fer una videotrucada si no sabe usar o teléfono?"
+    a: "Pida a un familiar, a una persona que la ayude en casa u a un trabajador de la residencia que empece la trucada y sostienga u apoye o aparato. Muitos centros ayudan a las familias con las videotrucadas, pregunte qué ofrecen. Una tableta en un soporte, con pantalla grande y con sonido prou alto pa oyir-lo, fa-lo más fácil pa toz."
+  - q: "Podemos chugar a un chuego chuntos por videotrucada?"
+    a: "Sí. La forma más fácil ye que una persona compartiga la pantalla en la aplicación de video mientres que a otra le diga qué imagen tocar. U la persona que sía allí puede abrir o mesmo chuego en una tableta y tocar-lo por ella mientres usted la acompaña charrando. Escoya chuegos sin cronómetro ni puntuación."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Vivir lueñe de una persona con demencia puede fer sentir que no se puede fer res. As trucadas de teléfono y de video no substituyen un abrazo, pero pueden dar momentos de conexión de verdat si se preparan bien. La clau ye dexar de intentar tener una conversación normal de poner-se-al-día y planegar algo simple pa compartir. Esta pachina trata de actividatz que funcionan por video y teléfono, de cómo preparar la trucada y de qué puede fer la persona que sía allí pa ayudar.
 
-## Why plan an activity for a call?
+## Por qué planegar una actividat pa una trucada?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Una actividat da forma a la trucada. « Qué tal estás? Qué has feito hue? » demanda a la persona que recuerde y que cuente, cosa que puede ser difícil y estresant. « Mira, os tomates ya están maduros » no le demanda nada.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+La Alzheimer's Association indica que las conversaciones en grupos grans por video pueden ser difíciles, y propone [añadir estructura a la trucada](https://www.alz.org/help-support/caregiving/holidays) con cosas como cantar canciones o compartir imáxenes.
 
-## What activities work on a video call?
+## Qué actividatz funcionan en una videotrucada?
 
-### Show and tell
+### Amostrar y contar
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Lleve o suyo mundo a ella. Pase la cámara despacio por o huerto, presente o can, amostre qué está cucinando, sostienga un dibuixo d'un neto u apunte o teléfono a la finestra pa que vea a nieu. Describa lo que ve con palabras simples y deixe pausas pa que reaccione. No fan falta preguntas.
 
-### Look at photos together
+### Mirar fotos chuntos
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Sostienga una foto antiga delant de la cámara, u comparta la pantalla pa amostrar unas cuantas fotos grans una a una. Charre de lo que vea: « Mira o sombrero de o güelo. » Evite « Quí ye este? » u « Te'n recuerdas? » Si la persona nombra mal a alguien, siga-le la corriente. Vea a nuestra [guía de reminiscencia](/activities/reminiscence/) pa consellos sosegaus.
 
-### Read aloud
+### Leyer en voz alta
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Leya un poema curto, un salmo, un libro infantil favorito a un neto en a mesma trucada, una carta d'un familiar, u una pachina d'un libro que le agradaba. Leyer en voz alta le da a la persona algo tranquilo pa escuchar sin que tienga que responder.
 
-### Sing or listen to music together
+### Cantar u escuchar musica chuntos
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Cante una canción que conoixca bien, u ponga una canción favorita en o suyo lado. Cantar acompanyau ye más fácil que charrar pa muitas personas. Vea a nuestra [guía de actividatz musicals](/activities/music/).
 
-### Cook or bake at the same time
+### Cucinar u fer pastas a la mesma ora
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+La Alzheimer's Association propone planegar una videotrucada pa cucinar u fer pastas con una receta especial chuntos. Preparen la trucada en as dos cosinas. La persona que sía allí puede remenar u provar mientres usted sigue a receta antiga que tiene escrita.
 
-### Watch something together
+### Mirar algo chuntos
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+La Asociación tamién propone mirar una película favorita a la mesma ora en casas diferents, charrando por teléfono u por video. Pa una persona con demencia, un clip curto, un episodio viello de la tele u un partiu de pelota puede funcionar mellor que una película completa.
 
-### Play a gentle game on a shared screen
+### Chugar a un chuego sosegau en una pantalla compartida
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Muitas aplicacions de videotrucadas permiten compartir la pantalla. Abra o chuego y toque; la persona le diga u le amostre qué imagen escoller. U la persona que sía allí abre o mesmo chuego en una tableta y toca por ella mientres usted charra con ella.
 
-Games that work well this way:
+Chuegos que funcionan bien d'esta forma:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Acabar o refrán](/games/finish-the-saying/):** usted lee un refrán conoixcu, ella dice o final, y sigue un tema pa charrar.
+- **[Parellas de imáxenes](/games/picture-pairs/):** un chuego sosegau de parellas con imáxenes grans que pueden quedar visibles, sin cronómetro ni puntuación.
+- **[Tarjetas de conversación](/games/conversation-cards/):** una imagen y una pregunta abierta pa charrar chuntos.
+- **[Parellas de fotos](/games/photo-pairs/):** un chuego de parellas feito con fotos que usted escoge en o suyo aparato. As fotos se quedan en o suyo navegador, y la persona las ve por a pantalla compartida.
 
-### Recorded messages
+### Mensaches grabaus
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Cuando as trucadas en directo son difíciles, grabe un video curto: un saludo, una canción, un paseo por o suyo corral. La persona que ayuda puede ponerlo en un momento tranquilo, las veces que la persona disfrute. La Alzheimer's Association menciona grabar y enviar momentos especials, como nenos abriendo regalos.
 
-## What about plain phone calls?
+## Y las trucadas de teléfono normales?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+As trucadas de teléfono tamién importan. Dementia Australia propone [trucar a la misma ora cada día](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) y no tener prisa, ya que las personas con demencia pueden tardar en meter-se en a conversación. Por teléfono:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Diga o suyo nombre y la suya relación de seguida: « Hola, papá, soy Jenny, la tuya filla. »
+- Parle despacio, con frases curtas y una idea cada vez.
+- Dé noticias en vez de demandar-las: « Anoche fiz la receta de o caldo de a tuya mai. »
+- Leya un poema curto, u cante una estrofa d'una canción favorita.
+- Mantenga-la curta y acabe con una nota cálida.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia tamién indica que las videotrucadas pueden ayudar cuando charrar se torna más difícil, ya que la persona puede veyer a cara. Si las trucadas de teléfono se fan confusas, prebe o video, u al revés.
 
-## How do I set up a video call that works?
+## Como preparo una videotrucada que funcione?
 
-**Before the call:**
+**Antes de la trucada:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Escoya una ora regular** en que la persona sol estar descansada, y mantenga-la. A rutina ayuda.
+2. **Coordine-se con la persona que sía allí.** Un mensache o día antes les ayuda a planegar.
+3. **Repase o aparato.** Una tableta en un soporte ye más fácil que un teléfono sostenido con a mano. Asegure-se de que ye cargada, que la pantalla ye clara y que o sonido ye prou alto. Active os subtítulos si la aplicación los ofrece y la persona lee bien.
+4. **Planegue una actividat** y tienga-lo todo preparau.
 
-**During the call:**
+**Durant la trucada:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sienta-se cerca d'a cámara** con buena luz, de cara a una finestra y no con ella a la espalda.
+- **Preséntese** cada vez, con nombre y relación.
+- **Una voz a la vez.** La Alzheimer's Association indica que las voces que se pisan son difíciles pa las personas con demencia y pa las que tienen problemas d'oyeda. Si se suman varios familiars, turnen-se u mantengan-se en dos o tres personas.
+- **Faga una pregunta cada vez.** La Family Caregiver Alliance propone [preguntas simples con respuesta de sí o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), y amostrar opcions cuando sea posible.
+- **Deixe pausas largas.** Espere una respuesta. Está bien sucherir una palabra si la persona la busca.
+- **Use a cara y la voz.** Sonría, asienta con a cabeza y mantenga un tono cálido. A expresión muitas vegadas dice más que las palabras.
+- **No corrixca.** Si la persona diz algo que no ye cierto, deixe-lo estar.
 
-**Ending the call:**
+**Acabar la trucada:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Acabe antes de que la persona se canse, idealment con un momento feliz.
+- Use a mesma despedida cada vez: « Te trucaré doman a la mediodía. Te quiero. »
+- No la alargue.
 
-## Tips for the helper on site
+## Consellos pa la persona que ayuda allí
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Si vusted ye a parella, la persona cuidadora, un hermano u un trabajador que ayuda con la trucada, vusted la fa posible.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Prepare un puesto tranquilo.** Apague a tele y zarre a puerta.
+- **Empece la trucada vusted mesmo,** y luego dé a tableta en un soporte u sostienga-la a la altura d'os güellos.
+- **Sienta-se a su costau, no delant.** Su presencia da tranquilidat. Si fa falta, suxiera con suavidat: « Mira, ye Jenny. »
+- **Faga de mans.** Amuestre fotos, toque o chuego, gire la tableta pa mostrar la estancia.
+- **Vichile si está cansada u alterada,** y avise a la persona que trucó cuando sía hora d'acabar.
+- **Diga a la persona que trucó qué ha funcionau.** « Le gustó o can » ayuda a planegar a siguient trucada.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+El NIA propone que los familiars lueñes puedan ayudar a una persona mayor a [aprender as funcions de o suyo teléfono](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), como las videotrucadas. En las fases más avanzadas, la persona que ayuda normalmente tendrá que encargar-se de o aparato del todo. Está bien.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Si la persona vive en una residencia, la Alzheimer's Foundation of America propone preguntar si o centro ayuda a las familias con las videotrucadas. La AFA menciona tamién que las familias envíen fotos de una parte a otra con o personal de o centro, y que manden golosinas favoritas u pequeñas comodidaz, tras comprobar qué permite o centro.
 
-## What if the call doesn't go well?
+## Qué fer si la trucada no sale bien?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Algunas trucadas seran confusas, planas u alterantes. No ye culpa suya, y no quiere dicir que no valga la pena.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Si la persona parece perdida con a pantalla, cambie a una trucada de teléfono u a un mensache grabau.
+- Si se altera, recoñoza o sentimiento, diga algo tranquilizador y acabe con suavidat.
+- Si las trucadas salen mal a menudo a una ora del día, prebe otra ora.
+- Si cree que vusted ye otra persona, siga-le la corriente con amabilidat.
 
-It is fine to end early. A short, warm call is a good outcome.
+Está bien acabar pronto. Una trucada curta y cálida ye un buen resultau.
 
-## Between calls
+## Entre trucadas
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Siga presente d'otras maneras. Dementia Australia propone enviar postals, correos, fotos u pequeños regalos. Una postal semanal con una foto grande y una nota curta puede leyer-se una y otra vez. Las [tarjetas de conversación](/games/conversation-cards/) imprimidas y enviadas por correo a la persona que ayuda pueden dar a siguient trucada un tema listo.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Pa consellos sobre cómo escoyer y preparar una tableta, vea [tabletas y pantallas](/caregiving/tablets-and-screens/). Pa tiempo en persona, vea a nuestra guía de [visitar](/activities/visiting/).

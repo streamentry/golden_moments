@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Dementia Uñtat Jaqinakatakix Apnaqañanaka Ajllisiña"
+seoTitle: "Dementia Apnaqañanaka Ajllisiña: Yatiyawi Lista"
+description: "Dementia apnaqañanaka ajllir yatiyawi: amtasa, uñtañ, jiwasan yänakapa ukat ñanqha lup'iñ uñjaña. Jan timer, jan puntos, jan anuncionas."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Qalltasa kunsa apnaqañ munta: wali lup'iñ, amtasiña, sarnaqaña jan ukax
+  jiwasan. Ukat jupa jan wali amtasiñ apnaqañ ajllisiña, jaqin uñtañapa
+  jichhürunakan, dibujonakampi jak'a, jan timer, puntos jan anuncionas,
+  ukat sapa mä amtasiña sipansa. Yatiyawi kawkhan datonaks apnaqi ukat
+  jupanakax jark'añ puedi ukax uñjaña. Dementia uñt'añ jan ukax jark'añ
+  yatiyaña sasa arsutanakat jan iyawsaña; mä yatiña jan chiqa uñacht'äwi.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Nayra amtasiñ: wali lup'iñ, amtasiña, sarnaqaña jan ukax jiwasan ukanakax apnaqañ juk'a ukanakampi ajllaña."
+  - "Jaqin uñtañapa jichhürunakan uñjaña, jan etapa sapa; kontrolanakax sanäkaspawa."
+  - "Timer, puntos, vidanaka, racha jan ukax anuncionas apnaqañanakat jaytañ."
+  - "Datonaka mantaña, akanakar yapuña ukat jark'aña uñjaña. HIPAA jaqinakan apnaqañanakat jan jarktaspa."
+  - "Ch'iqtañ \"dementia jark'i\" arsutanakat jan iyawsaña. Mä yatiña jan jukhu, jan ukax apnaqañan ch'iqa puntos, chiqapa ukhamäkaspa."
+  - "Golden Moments mä amtasiña sarnaqañ, jan yatiña uñacht'äwinakampi."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "¿Ukhamaraki yatiñ apnaqañanakaxa dementia jark'ayaspa?"
+    a: "Jan wali yatiyaña utjiti aka sarnaqañ yatiñ apnaqañanakax dementia jark'añ ukax juk'ampi uñtañ. Estados Unidos mä jiwasan instituto arsuwayi, jan utjkiti ukham ... yatiña apnaqañanakax mä amtasiñ yatiñ ukhamarjama. Jiwasan yatiyaña ukhamax apnaqañanakaxa uñjaña, jan ukax jark'añ yatiña."
+  - q: "¿HIPAA dementia apnaqañanakar uñjaspa?"
+    a: "Juk'ampi jan. HIPAA ukax yatiyawinak uñjirinakaru, uñjañ yänakaru ukat luririnakaru. Jaqi mismo apnaqañ jan ukax jan uñjaspa, janiw uñjirinakan jan ukax luririnakan apnaqañ ukat. Komisión Federal de Comercio (FTC) mä arsutanakampi jarkañ uñjaspa, HIPAA jan ukax."
+  - q: "¿Kunsa mä wali dementia yatiña apnaqaña?"
+    a: "Dibujonaka ukat qillqat jak'a ukat qhana, mä lup'iña sapa pantallan, jan timer jan puntos, jan ch'ika jan anuncio, ukat amtasiña ch'iqa ukhamarjama. Jaqinakatak lurat uñjaña ukat mä jaqimpi sarnaqaña ukat wali."
+  - q: "¿Golden Moments yanapaña sasa arsuspa?"
+    a: "Janiw. Golden Moments amtasiñ jiwasan lup'iñatakiwa, sarnaqañ ukat parlañatakiwa. Janiw uñt'añ, jan jarkañ, jan uñacht'ayañ, ukat jan yatiyañ dementiaru jan ukax amtañ sasa arsutanakaxa jan."
+  - q: "¿Dementia apnaqañ jaqinakatak phuqaña?"
+    a: "Qalltasa jan qhana apnaqañanakat jan ukax jan qhana pruebanakat sarnaqañ, ukat jaqi kunsa sarnaqi uñjaña mä ukat ... phisqa semana. Apnaqañat phuqañ wali jan yanapaspa. Suscribirtañ ukat ... kunjamas jayt'añ uñjaña."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Play Store ukat App Store ukanakan "jach'a utjirinakatak", "amtasiña" jan ukax "dementia" sasa lup'iñanaka mä phuqhata. Kunaymana wali lurat utjaraki. Ukampisa jupanakax ch'iqa arsutanakampi, timernakampi, anuncionampi jan ukax datonak apsuñampi. Aka uñachtäwix mä amtañ sarnaqañ uñjaña, jumax ukanak kunjamas uñjasma. Janiw masa apnaqañanak ukanak ajllkañ jan ukax lurañ.
 
-## What should I decide before choosing a dementia app?
+## ¿Kunsa dementia apnaqañ ajllkañat sapa amtasma?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Amtasma kunsa apnaqañax lurañapa. "Mamäkitaki lup'iña" sasa arsutax kunjamas juk'ampi sañ utjaspa, ukat mä amtañatakix wali apnaqañax, yaqhapa amtañatakix jan wali.
 
-| Goal | What it looks like | What to look for |
+| Amtañ | Kunjamas uñjasi | Kunsa uñjaña |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Ch'iqa lup'iña | Ch'iqtaña, ch'iyaña, ch'iqa rompecabezas, arsuñ lup'iñanaka | Dificultad jaytañ, dibujonaka uñjasiñ, jan timer |
+| Yatiñ jutañ | Ukhamarak jaqinakan jach'a uñtanaka, ch'iqa arsutanaka, jiwasan kantañanaka | Sapa jumanaka uñtanaka, arsuñ jawsiñ, jan prueba jawsañanaka |
+| Amtasiña | Jan usuñ ch'iqa uñjañanaka, ch'iqa arunaka, samkañ, phaxsi | Sarnaqañ ukat jaytañ ch'iqa, jan lliwi uñjañanaka, jan mä kunsa uñjaña |
+| Jiwasan | Sapa jupanakampi jan ukax video mä lup'iña | Mä jaqitakiw lurat, parlañatakix jawsa |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Dementia taqi chiqana "cognitive stimulation" ukan yatiñanakax juk'ampi jaqinakan tantachawinakanwa, yatiqirinakampi, parlañampi, rompecabezanakampi, arsutanakampi, kantañampi ukat lurañanakampi. [Cochrane arunaka](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) uñachtayi, sapa yatiyawinakan jan juk'a wali, ukat mä phuqha uñjaña. Aka jiwasan, qhana sarnaqañ jan sapa apnaqañ ukhama, ukhamasa apnaqañ mä jiwasan lup'iñ ukhama uñjañ.
 
-## How do I know if an app fits the person's abilities?
+## ¿Kunjamas uñjä apnaqañax jaqin ch'uqtañapa?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Diagnóstico jan ukax "etapa" sasa arsuñ ukat jan jaqsaraña, uñjaña kunjamas jupax jaytaski. Mä etapa jukhu jaqinakax uñjañ, uñjaña, jiwasan amtañ, arsuña ukat pantalla uñjañat ch'iqa jaytaspa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) arsuwayi, jupanakan nayra munañanak ukat jichhüru yatiñanak amtañ, ukat yatiñ jaytañ jan lurañ uñjañ.
 
-Signs of a good fit:
+Wali ch'uqtañ uñachtayi:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- jupax jan ch'iqa sarnaqañ ukat mayjt'añ;
+- jupax sarañ, arsuñ jan ukax mä sañ parlañ;
+- jan pantjasiña sasa jakañ;
+- sarnaqañ jaytañ wali.
 
-Signs it is a poor fit:
+Jan wali ch'uqtañ uñachtayi:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- kunsa "janiw puedkti" jan ukax "aka jan wali" sasa arsuña;
+- kunsa aylluñ ukax jan yatiña;
+- jiwaña, jan ukax dispositivo jaytaña;
+- jumax taqi lurasma ukat jupax jan lurañ.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Jan jupax jan sum uñjaña ukax mä uñachtäwi, jan mayjt'añ. Uñjañanakax [jan munaspa sasa arsuñat](/caregiving/when-they-say-no/) yatiñ. Apnaqañat sapa jan ukax [ch'iqa](/activities/early-stage/) ukat [jichhüru](/activities/late-stage/) amtasiñanak uñjañ.
 
-## What design features should I look for or avoid?
+## ¿Kunsa lup'iña uñjaña jan ukax jan uñjaña?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Ch'iqa, jak'a, jaqi uñjañ lup'iña uñjaña, ukat jan ch'iqa mä ch'iqa lurañanaka jaytaña.
 
-| Look for | Be wary of |
+| Uñjaña | Jark'aña |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Dibujo ukat qillqa jak'a, wali sut'a | Ch'iqa uñjañanaka, jak'a sut'a |
+| Mä sapa lurañ mä pantallan | Lliwi botonanaka, menunaka jan ukax yaqha lurañanaka |
+| Timer jan, jan ukax timer jaytañ | Jaytañ kunka uñjañanaka, "ch'iqtayañ ukat" |
+| Puntos jan, jan ukax ch'iqa arsutanaka | Puntos, vidanaka, racha, uñjañ chiqana, "jan yatiña uñjaña" |
+| Jan wali lurañanaka ch'iqa | Chinupanakampi, qhanunakampi, jan ukax "jan kunsa" |
+| Jaqi uñjañanaka, jan ukax jan mayjt'añ | Wawanakan yatiñanaka, jan ukax jan jaqi sarnaqañ |
+| Jan qhana sarnaqañ, mä sapa jan ukax mä apnaqañ | Mä jaqin yatiyaña, jan ukax chiqañ qhana jaytañ |
+| Sarnaqañ ukat jaytañ wali | Jaytañ ch'iqa, jan jaqi uñjañanaka |
+| Jan anuncio, mä sapa jan ukax ch'iqa jaytañ | Anuncionaka, lurat yatiñanaka, jan utjaña |
+| Mä yaqha jaqi uñjañ wali | Mä sapa jan ukax jaqinakampi yatiña |
 
-Ads and purchase prompts are easy to tap by accident.
+Anuncionaka ukat ch'iqa jaytañanaka mä pachan jan ukax jan uñjaña yapuñ.
 
-## How do I check an app's privacy?
+## ¿Kunjamas apnaqañ jark'aña uñjaña?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Apnaqañ kunsa uñjasi, kunsa jakhuñaraki ukat jaytañ jan uñjaña. Instalañ sapa nayra:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Tiendan jark'añ uñjañ.** Google Play ukan [Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ukat App Store ukan [privacy information](https://support.apple.com/en-us/102399) ukanakax apnaqañ datonak uñacht'ayi. Ambos ukanakax luririnakan mismo qillqatapa, ukhamaraki mä qalltañ, jan mä uñjañ.
+2. **Cuenta munaspa uñjaña.** Mä apnaqañ jan ukax lup'iña ch'iqa uñacht'ayi ukhaxa, jumax jan sutimp, jan correo jan ukax cumpleaños yatiñamäkaspa.
+3. **Permisos uñjaña.** Mä ch'iqtaña lup'iña wali ukax ubicación, contactos, micrófono jan ukax taqi photo ukanakamp mayjt'añ? Janiw munañ ukanak jaytañ.
+4. **Anuncios ukat seguimiento uñjaña.** Anuncionakampi ukat seguimiento yatiñanakax apnaqañan datonak yaqha empresanakar apsuñ.
+5. **Fotonak kawkiru sarañ uñjaña.** Familiar fotonak yapuñ, ¿qhana jaytasiñ jan ukax servidorar apsuñ? ¿Jupanakax jaytañ?
+6. **Jaytañ uñjaña.** Privacidad qillqat ukan jan ukax datos resumen ukan kunjamas jaytañ uñjaña. Mä apnaqañ jan jaytañ sasa arsuñ, ukax juk'ampi uñjañ, khä fotonak jan ukax yatiñ wali.
+7. **Privacidad qillqat wali uñjaña**, kunsa apsuñ, kunatak, kunka urunakan, ukat kawkiru apsuñ sasa jaqi arsutanaka.
 
-### Does HIPAA protect information in dementia apps?
+### ¿HIPAA dementia apnaqañanakan yatiñ amparaspa?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Juk'ampi jan, ukax nayra jan uñjasiñ. Estados Unidos Salud Pública Departamento [arsuwayi](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA ukax seguros de salud, uñjañ yatiyawinakan, ukat luririnakan apnaqañaparu. Juk'ampi jaqi mismo apnaqañatak, apnaqañ jan ukax uñjirinakan jan ukax luririnakan mä apnaqañ jan utjkipana. Tiendat mä "dementia apnaqañ" jan HIPAA ukan, ukat salud sasa arsuñ sapa.
 
-### What protects health data in apps that HIPAA does not cover?
+### ¿Kunsa yatiña amparaspa apnaqañanakan HIPAA jan utjaraki?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Comisión Federal de Comercio (FTC) ukan Health Breach Notification Rule ukax juk'anakar amparaspa. 2024 maranxa FTC [mayjt'ayañ](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) uñachtayi, aka regla HIPAA jan utjaraki apnaqañanakar ukat yaqha tecnologíanakar. "Breach" ukax jan permiso ukat jaqinakan yatiñ apsuñ, janiw hackeo sapa. Luririnakax jaqinakar ukat FTC yatiyañapa. Aka wali jan kunsa pasaña ukat, janiw apnaqañax sapa ukhamaraki yatiña apsuñ sasa arsuñ.
 
-## How should I read claims about research and evidence?
+## ¿Kunjamas arsutanaka yatiñ ukat jan chiqa uñjaña?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Yatiyawi arsutanak sum uñjaña, ukat juk'ampi jach'a arsutanak iyawsañ jan. Jichhürunak jiwasan:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **¿Kunsa uñjatawa?** Mä yatiñ programa uñjaña ukax taqi apnaqañ ukhama lurañ janiw uñacht'ayi.
+- **¿Kunaka uñjatawa?** Walja jaqi qhana uñjañanakax jan jaqinakan dementia uñjaña ukhamäkaspa.
+- **¿Kunsa uñjatawa?** Apnaqañan wali lurañ sapa sarnaqañ ukat ch'iqa jakañan ukax jan.
+- **¿Kunjamas chiqa yatiña?** Mä randomizado control yatiña (RCT) apnaqañ uñjaña ukat jan apnaqañ mä jaqinakan. Wali, ukampisa mä jan jukhu jan ukax mä ch'iqa yatiña jan chiqa. Walja yatiñanak uñjaña, independiente yatiqirinakan, ukat ukanakax ch'uqtasiñ.
+- **¿Dementia phasiñ sasa arsutaspa?** Mä ch'iqa yatiña uñjañ mä ch'iqa uñjañanakax janiw apnaqañ dementia jan ukax amtañ.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Nacional Instituto de Envejecimiento ukan [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) qillqat mä juk'a NIH yatiña uñacht'ayi, ukat jan sapa computadora jan ukax internet jugonakan amtañ arsuñat jan iyawsaña. Jupax uñachtayi jan utjkiti yatiyawinakan ukhamarak apnaqañ yatiña ukax taqi yatiñ ukhamäkaspa. Jumax jiwasan uñjaña [brain games ukat yatiñanaka](/brain-health/brain-games/) ukat [dementia jan phuqaña](/brain-health/can-dementia-be-prevented/) qillqatanakan.
 
-### What is a public example of a misleading claim?
+### ¿Kunsa jan chiqa arsuñ mä uñacht'äwi?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016 maranxa januaryn, FTC [amuyt'ayaña](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity, "brain training" sasa programa luririnakamp. FTC arsuwayi, empresax jan walja yatiñampi arsuwayañ ukax jupanakan jukhunakax jan amtañ sasa, dementia ukat Alzheimer jan phuqañ sasa. Empresax $2 millones yapuñ uñjatapuni ukat yatiñ wali ukat chiqa uñjañ mayni arsutanakatakix. Aka yatiña uñachtayi, anuncio arunak janiw yatiña.
 
-### Which words are red flags?
+### ¿Kunsa arunakax jan wali uñjaña?
 
-Be cautious when an app or ad says it:
+Jan iyawsaña app jan ukax anuncio arsuñ:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- "phuqaña," "ch'allañ," "sayt'ayaña" jan ukax "ch'iqtayaña" dementia jan ukax Alzheimer sasa;
+- "clínicamente probado" sasa, yatiña, jaqinakan, ukat kunsa uñjatap jan arsuñ;
+- "brain age" jan ukax yatiyaña puntos, diagnóstico sasa;
+- "ch'iqtayaña," "jach'ayaña" jan ukax "yatichaña" uñjaña sasa;
+- jaqinakan arsutanakampi chiqa uñacht'ayaña.
 
-If you are unsure about a claim, ask the person's doctor.
+Jumax jan yatiñ jan ukax, jaqin doctorapar jist'añ.
 
-## Where does Golden Moments fit?
+## ¿Kawkitix Golden Moments utjaspa?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments amtasiña ch'iqa jiwasan lup'iñanakawa, janiw mä uñt'añ, terapia jan ukax yatiña amtañ. Ch'iqa lup'iñanakasa, [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ukat [Calm Breathing](/games/calm-breathing/), amtasiñ ukat parlañatakiwa. Janiw dementia uñt'añ, jan phuqañ, jan uñacht'ayañ, ukat janiw memoria jan ukax yatiña chiqa arsutanakax.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Jiwasan mä jan qhana app ukhamarak lurañ, [Golden Moments iPhone, iPad ukat Android](/app/) sasa. Ukax ch'iqa dibujonakampi lup'iña, familiar fotonakampi lupiña, ukat yapuqa jan internet lup'iñanaka, jan cuenta, jan anuncio, jan timer, jan puntos. Ukhamarak chiqa uñjañ: App Store ukan privacidad rótulo "Data Not Collected" sasa, ukat [app privacy policy](/app-privacy/) uñacht'ayi fotonak kawkiru jaytasi.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Jumax jiwasan jan iyawsañ munasmi, jan mä jiwasan jak'a. Aka qillqat uñjaña, [privacy page](/privacy/) ukat [medical disclaimer](/medical-disclaimer/) uñjaña, ukat kunatix jan wali uñjasmasa, jiwasan sapa jan ukax yaqha, jumax jan mayjt'añ.
 
-## What is a sensible way to try a new app?
+## ¿Kunjamas mä apnaqañ jan wali uñjaña?
 
-Try it together for a couple of weeks and watch what happens.
+Mä semana jan ukax phisqa semana jumampi uñjaña, ukat kunsa jitaski uñjaña.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Nayra lurañ**, [tablet ukat teléfono yanapañ](/caregiving/tablets-and-screens/) uñjaña, ukat ch'iqa nivel qalltaña.
+2. **Ch'iqa sarnaqañ**, sum jak'a, parlañ ukat amtasiña uñjaña, ukat wali pachanakan tukuña.
+3. **Jaytañ ukat mayjt'añ**, jan jukhu jan ukax qalltaña ch'iqa jaytañ, kunaymana wali uñjasiñ jan ukax.

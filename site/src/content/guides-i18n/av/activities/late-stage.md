@@ -1,32 +1,31 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Ахирги этапдаги деменциялда ишал: бугӀеялда ва креслода"
+seoTitle: "Ахирги этап деменция: бугӀеялда ва креслода ишалъи"
+description: "Ахирги этапдаги деменциялда сабурлъи ишал, бугӀе ва креслода: музыка, тӀуб рахъ, кьабар, юхъбал ва вун ккараб. Безопасностъ гьабулаб хабарал."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Ахирги этапдаги деменциялда ишал чӀвалъ ва вун рекӀел гьабулел: вун къаркьарал
+  музыка, гьоро тӀуб, цӀияб тӀуб, кьабар, кӀвал ва къуватӀи ва рагӀи чӀвал.
+  Гьел бугӀеялда ва креслода гьабулел. Кьаболъи къватӀ ахирги лъикӀан, чӀвалъ
+  ккарал ва рекӀел бакӀарал; вун рекӀел тӀварчӀи ишалъи гьабула.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "РекӀел ва тӀуб ишал гьабулел. Ахирги этапда дуния мутӀтӀурал чӀвалъ ккарал."
+  - "Музыка, сабурлъи тӀуб, таниял гьабулаб гьоро ва къуватӀ ккарал тӀварчӀи ишал гьабулел, цӀияб гьабурал."
+  - "Гьел кӀвалалда ва креслода ишал гьабулел."
+  - "Гьабулалъ гьабулел, гьоро къаркьарал, кьамбаязабал ва рекӀел къанлъи ккарал."
+  - "ЦӀакӀи гьабулел. Ракьалъ кьамбал гьабулел ва ишал кьабулел, хабар гьабулел."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Ахирги этапдаги деменциялда бугӀеялда ккараб вун ишал гьабулел?"
+    a: "Гьоро музыка гьабулел, рахъ кьабулел, гьоро тӀуб кьабулел, рахъ лъикӀал, гьоро кьабар ва сурат гьабулел. КоӀ аслъабал, къецлъи кьабулел. Хьел кӀвал ва бакӀарал ишал гьабулел."
+  - q: "Ахирги этапдаги деменциялда музыка вун къаркьан?"
+    a: "Бихьиялъ. Alzheimer's Association гьабула, ахирги этапдаги кьамбайъ цӀияб рекӀел тӀварчӀи гьабулел. ЦӀакӀи гьабулел, цӀияб цӀӀуб кьамбадуй музыка кьабулел, тӀуб кӀвал гьабулел."
+  - q: "Ишал вун къаркьан гьабулаб бихьизабуй?"
+    a: "ЦӀакӀи гьабулел: рахъ сабур, тӀуб лъикӀал, рахъ гьабулел, тӀуб рахъ, рекӀел чӀвал. ТӀуб тахъ, рахъ рекӀ ва кьамбай гьабулел. Гьел ккарал, тохъ ишал кьабулел."
+  - q: "Вун мукъабалъи гьабулел, вун рекӀел бихьизабалъ?"
+    a: "Бихьиялъ. National Institute on Aging гьабула, гьоро вун рахъ кьабулел. ТӀуб, музыка ва кьабар тӀварчӀи ахирги деменциялда кӀвал гьабулел. Вун тӀуб ва гьоро таниял гьабулел, вун цӀакӀи гьабулалда."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +47,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Деменциялъ ахирги этапда цӀакӀи гьабулел: кьабар тӀуб, вун гьабулел ишалъи ва рекӀел кӀвал. Гьел бугӀеялда ва креслода гьабулел. Ишал чӀвалъ гьабулел. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) гьабула, чӀвалъ рекӀел тӀварчӀи гьабулел ва ахирги этапда дуния мутӀтӀурал чӀвалъ ккарал. Музыка, тӀуб, таниял гьоро ва вун сабур кӀвал рекӀел гьабулел.
 
-## What activities help in late-stage dementia?
+## Ахирги этапдаги деменциялда ишал тӀварчӀи гьабулел?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Ахирги этапда чӀвалъ рекӀел ишал ва сабур кӀвал тӀварчӀи гьабулел. Alzheimer's Association гьабула: гьоро музыка, рахъ кьабулаб бакӀарал, рахъ гьабулел, сабур тӀуб, кӀвал ва къецлъи, рекӀел ккараб кӀвалалда. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) гьабула: кьабар тӀуб, сурат гьабулел, сабур тӀуб ва музыка, вун кӀвал рекӀел гьабулел.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) гьабула, ахирги этапда кьамбай рахъ гьабулел, гьоро ккараб кьабулел. Гьабулел: чӀвалъ ишал, сабур кьабулел, музыка, рахъ тӀуб ва сурат.
 
-## Activities for someone in bed or a chair
+## БугӀеялда ва креслода ишал
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Гьоро музыка гьабулел.** Гьабулел ккараб цӀияб музыка: кӀвалалда, дин ва кӀвалъ. КоӀ аслъабал, цӀакӀи гьабулел. Ахирги этапда тӀуб ркьабулел. См. [музыкалъи ишал](/activities/music/).
+2. **Рахъ кьабулел.** Сабур тӀуб рахъ кьабулел, гьоро кьабулел. Вун гьабулаб хабар.
+3. **Сабур тӀуб гьабулел.** Ракьалъ лосьон кьабулел, чӀвалъ рахъ гьабулел. Лосьон цӀакӀи гьабулел, лъикӀан бакӀарал.
+4. **Гьоро кьабар гьабулел.** ТӀуб тахъ ва гьоро кьабар, дин ва спорт. Вун цӀакӀи гьабулел, кьабар кьамбадуй.
+5. **Кьабар гьабулел.** КӀвалалда ккараб рахъ ва кӀвалъ. Вун рекӀел хабар гьабулел, рахъ кьабулел.
+6. **Сурат гьабулел.** Гьоро сурат, цӀакӀи гьабулел. Ккарал тӀуб, кьабулел.
+7. **ТӀуб гьабулаб къуватӀ кьабулел.** ТӀуб ккараб рахъ, кьабар ва гьоро кӀвал. NIA гьабула, тӀуб ккараб рахъ кьабулел.
+8. **Юхъбал гьабулел.** Вун цӀакӀи гьабулел: юхъбал, гьоро кьабар, рахъ.
+9. **КӀвал гьабулел.** ТӀуб, къуватӀ кьабулел, рахъ гьабулел.
+10. **ЧӀвалъ гьабулел.** Вун креслода кьабулел, тохъ рахъ кьабулел.
+11. **Ракьалъ тӀуб гьабулел.** Сабур тӀуб, гьоро рахъ.
+12. **Гьоро рахъ кьабулел.** ТӀуб кьабулел, рахъ гьабулел. Гьабулел, физиотерапевт гьабулел.
+13. **ЦӀакӀи сурат гьабулел.** ЛъикӀан бакӀарал кьабулел. Гьабулел, рахъ.
+14. **Кьамбаязабал гьабулел.** Кьамбаязабал кьабулел, кӀвалалда.
+15. **Сабур гьабулел.** ЦӀакӀи тӀуб гьабулел. [Calm breathing](/games/calm-breathing/) гьабулел.
+16. **КӀвалалда кьабулел.** ТӀуб, рахъ, кьабар. Вун кӀвал кӀвалъ.
 
-## How to share an activity at this stage
+## Ахирги этапда ишал гьабулел
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Гьабулел цӀакӀи.** Вун ва гьоро цӀакӀи, сабур гьабулел.
+- **Тохъ ишал.** Гьабулел, тохъ.
+- **КоӀ ишал.** Минут кӀвал лъикӀан.
+- **РекӀел кьабулел.** NIA гьабула.
+- **ЦӀакӀи гьабулел.** NIA гьабула, тӀуб, кьабар.
 
-## A quick guide by sense
+## ЧӀвалъ таблица
 
-| Sense | Ideas | Take care |
+| ЧӀвал | Ишал | ЦӀакӀи |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Гьоро | Музыка, кьабар, юхъбал | ТӀуб, тохъ |
+| ТӀуб | Сабур, рахъ, тӀуб | ЦӀакӀи, рекӀел |
+| Сурат | Сурат, цветок, кӀвал | ЛъикӀал, рахъ |
+| Гьелъ | Лосьон, цветок, кофе | ЦӀакӀи, рахъ |
+| ЧӀвал | Тохъ ишал | Гьабулел ккараб |
 
-## Safety at this stage
+## Безопасностъ ахирги этапда
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Ахирги этапда кьабулел тӀуб, NIA гьабула. Тохъ тахъ ва чӀвалъ кьабулел. Тохъ ишал кьабулел, гьабулел. [Sensory activities](/activities/sensory/) гьабулел.
 
-## Looking after yourself too
+## Вун ракьалъ
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Ахирги этапдаги кӀвал тӀуб ва ракьалъ ккарал. Hospice ва palliative care гьабулел. См. [visiting someone with dementia](/activities/visiting/). [care home group activities](/activities/care-home-groups/) ва [caregiver self-care](/caregiving/caregiver-self-care/).

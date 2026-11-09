@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Chuegos de memoria pa mayors con demencia: sin prebas"
+seoTitle: "Os mellors chuegos de memoria pa la demencia"
+description: "Chuegos de parellas, cartas y imachens pa mayors con demencia, y cómo chugar-los sin que nadie se sienta probau: imachens a la vista, menos parellas, sin puntuazión y en equipo."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Os chuegos de memoria pa mayors con demencia funcionan millor cuan no
+  dependen de la memoria. Chuegue a los chuegos de parellas con los imachens a
+  la vista, usando cuatro o seis fichas, en equipo y sin puntuazión. Reconoyer
+  un imachen ye más fácil que recordar-lo, asinas que tría chuegos en que todo
+  se vea. Lo que importa ye disfrutar, no un resultau.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Os chuegos de memoria clásicos tapan las cartas, y eso prebaba xustamién lo que la demencia fa difícil. Deixe los imachens a la vista."
+  - "Menos piezas, imachens más granz y una elección a la vez fan que el chuego siga siendo agradable."
+  - "Chugue en equipo, tomen turnos pa ayudar-se y olvide la puntuazión. Denguno debe sentir-se puesto en aprieto."
+  - "Denguno chuego de memoria ha demostrau que trate, alentise o pare la demencia. Chugue porque ye un tiempo agradable en compañía."
+  - "Pare cuan encara siga siendo divertiu. Charrar d'os imachens ye un buen resultau."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Qué ye un buen chuego de memoria pa una persona con demencia?"
+    a: "Un chuego de parellas con imachens granz y coñeixidos, que puedan estar a la vista, como Parellas de imachens con cuatro o seis fichas. Trobar la pareja d'un imachen que ve ye satisfactorio sin probar la memoria a curto plazo. Trobar lo mesmo ye más sencillo encara, con un imachen pa comparar y de dos a cuatro opcions."
+  - q: "Los chuegos de memoria ayudan con la demencia?"
+    a: "Denguno chuego de memoria ha demostrau que trate, alentise o pare la demencia. Una revisión de Cochrane atopó que las pruebas sobre l'entrenamiento cognitivo por ordenador son masiau limitadas pa dicir si previene la demencia. Los chuegos pueden seguir sendo una manera cariñosa de pasar tiempo juntos. Escoya-los por lo que agraden y por la compañía."
+  - q: "Debo chugar a Concentración clásico con una persona con demencia?"
+    a: "Al principio, a alguna gent encara le agrada, sobre todo con pocas cartas. Si recordar dónde estan las cartas empieza a causar frustrazión, ponga las cartas a la vista y simplament trobe las parellas juntos. Asinas se mantién la parellada y se quita la prueba de memoria."
+  - q: "Qué chuegos de memoria son buenos pa mayors en grupo?"
+    a: "Bingo de imachens con un presentador en pantalla, acabar refranes coñeixidos en voz alta y tarjetas pa charrar funcionan en grupo. Chugue hasta que todas las tarjetas esten completas y evite decir quién ha dau con la respuesta, pa que nadie se sienta señalau."
+  - q: "Hai chuegos de memoria gratuitos pa mayors en internet?"
+    a: "Sí. Los chuegos d'esta web, incluyendo Parellas de imachens, Trobar lo mesmo, Parellas de fotos y Rompecabezas de imachen, son gratuitos, no necesitan registro y funcionan en teléfonos, tabletas y ordenadors. Denguno tiene temporizador ni puntuazión."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Busque "chuegos de memoria pa mayors" y la mayor parte de lo que trobe ye feito pa gent que quiere un exercicio mental: cartas tapadas, relojes de cuenta atrás, niveles y puntuazions. Pa una persona con demencia, estas funcions convierten un chuego en una prueba de lo que ya le cuesta. Los mismos chuegos se pueden chugar de una manera más amable. Esta pachina amostra cómo, y enumera chuegos que funcionan bien en cada etapa.
 
-## Why do classic memory games frustrate people with dementia?
+## Por qué los chuegos de memoria clásicos frustran a las personas con demencia?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Porque dependen de retener información nueva, que suele ser lo primero que afecta el Alzheimer, la causa más común de demencia. La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dice que el síntoma más común en las primeras etapas del Alzheimer ye la dificultat pa recordar información recién aprendida. En el Concentración clásico, gira dos cartas, recuerda dónde estaban y usa eso un minuto después. Eso ye información nueva, retenida y recordada.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Añade un temporizador, una puntuazión o un zumbido por respuestas erradas, y la persona se acuerda de lo que no puede fer, delant d'alguien a quien quiere. Muita gent deixa de querer chugar sin decir-lo.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Reconoyer algo que se ve ye una tarea distinta y normalmente más fácil. Sinyalar la segunda tazeta cuan las dos estan a la vista da gusto. Asinas que la clau ye mantener la parellada y quitar la prueba de memoria.
 
-## How do you make a memory game gentle?
+## Cómo fer amable un chuego de memoria?
 
-These adjustments work for card games, board games and games on a screen.
+Estos ajustes sirven pa chuegos de cartas, de mesa y en pantalla.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Deixe los imachens a la vista.** Parar los imachens que se ven sigue siendo un chuego de verdat, y muitas vegadas satisfa.
+2. **Use menos piezas.** Empiece con dos o tres parellas. Añada más solo si paresce masiau fácil y quiere más.
+3. **Tría imachens granz, coñeixidos y para adultos.** Una tazeta, un girasol, un velero. Nada de dibuixos animaus ni escenas con muitos detalles.
+4. **Chugue en equipo.** "Trobemos los perros" en cambio de "le toca a usted". Tomen turnos pa sinyalar y ayudar.
+5. **Olvide la puntuazión.** Denguno necesita ganar. Si pregunta, un simple "lo hemos feito" basta.
+6. **Nunca corra contra el reloj.** Sin temporizadores, y sin meter prisa entre turnos.
+7. **Charre d'os imachens.** "Mire ixe velero. Ha navegau alguna vegada?" La conversación ye muitas vegadas la mejor parte.
+8. **Pare en un buen momento.** Acabe dimpués de una parella, cuan encara siga siendo agradable.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) da el mesmo espiritu como consello general: adapte la actividat a lo que la persona puede fer, fíxese en la frustrazión y asegure que se sienta capaz.
 
-## Gentle memory and matching games to try
+## Chuegos de memoria y de parellas amables pa probar
 
-### Picture pairs (matching with pictures showing)
+### Parellas de imachens (parellas con los imachens a la vista)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Parellas de imachens](/games/picture-pairs/) ye un chuego de parellas con imachens granz y de 4 a 12 fichas. Los imachens pueden quedar visibles, asinas que se trata de trobar parellas, no de recordar dónde estaban. Empiece con cuatro fichas. Pa una persona en la etapa inicial a la que le agrade un poco más de desafío, puede cambiar a **Imachens tapaus**, pero torne a mostrar los imachens en cuanto deixe de ser divertiu.
 
-### Find the same
+### Trobar lo mesmo
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Trobar lo mesmo](/games/find-the-same/) muestra un imachen arriba y de dos a cuatro opcions abaixo. Toque la que sía igual. Ye el chuego de parellas más sencillo de la web y encaixa con gent a la que una cuadrícula completa le paresca masiau cargada, incluyendo a muitas en las etapas avanzadas con alguien a su lau.
 
-### Photo pairs (family photo memory game)
+### Parellas de fotos (chuego de memoria con fotos familiars)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Parellas de fotos](/games/photo-pairs/) convierte en un chuego de parellas las fotos que trie: el perro, el güerto, la casa d'o lago. Las caras y los lugares coñeixidos suelen encender la conversación más que cualsiquier imachen de catálogo. Las fotos se quedan en su navegador y nunca se suben.
 
-### Sort together
+### Ordenar en equipo
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Ordenar en equipo](/games/sort-together/) pide poner cada imachen en la cesta que le corresponde, como la cocina o el güerto. Ordenar tira de un conoximiento de largo plazo de cómo funciona el mundo, no de la memoria a curto plazo.
 
-### Picture puzzle
+### Rompecabezas de imachen
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Rompecabezas de imachen](/games/picture-puzzle/) corta un imachen en 4 o 9 piezas. Toque dos piezas pa intercambiar-las hasta que el imachen esté completo. El imachen completo se queda en pantalla como guía.
 
-### Real cards on the table
+### Cartas reals sobre la mesa
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+No necesita una pantalla. Saque parellas de dos mazos de cartas o de una baraja de imachens. Pongan-las a la vista en dos filas y trobe las parellas juntos. Más adelante, ordene-las por color o palo. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) enumera los chuegos de cartas y de mesa entre las actividades pa la etapa inicial.
 
-## Which memory games suit each stage?
+## Qué chuegos de memoria encaixan en cada etapa?
 
-Stages are loose labels. Go by what the person enjoys today.
+Las etapas son etiquetas flexibles. Guíese por lo que la persona disfruta hoy.
 
-| Stage | Games that often fit | How to set them up |
+| Etapa | Chuegos que muitas vegadas encaixan | Cómo preparar-los |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Inicial | Parellas de imachens, Parellas de fotos, Rompecabezas de imachen de 9 piezas, chuegos de cartas coñeixidos | Deixe que elixca. Las fichas pueden volcar-se si le agrada; olvide la puntuazión si le molesta |
+| Media | Parellas de imachens con 4 a 6 fichas a la vista, Trobar lo mesmo, Ordenar en equipo | Imachens siempre visibles. Sientese a su lau y tomen turnos pa ayudar |
+| Avanzada | Trobar lo mesmo con 2 opcions, mirar un imachen gran juntos | Muy cortos. Usted sostién la tableta; la persona sinyala, o solo mira y escolta |
 
-## Do memory games help with dementia?
+## Los chuegos de memoria ayudan con la demencia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Denguno chuego de memoria ha demostrau que trate, alentise o pare la demencia. Una [revisión de Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) sobre l'entrenamiento cognitivo por ordenador en personas con deterioro cognitivo leve atopó que las pruebas son masiau limitadas pa dicir si previene la demencia. Nuestra guía sobre [juegos cerebrales y demencia](/brain-health/brain-games/) explica lo que muestran y lo que no muestran los estudios.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Eso no ye motivo pa dixar de chugar. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) aconseya centrar-se en disfrutar, no en lograr algo. Diez minutos mirando imachens y charrando d'ellos pueden ser una parte de verdat buena d'o día.
 
-## What about memory games for seniors without dementia?
+## Y los chuegos de memoria pa mayors sin demencia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Si un adulto mayor sin problemas de memoria disfruta de rompecabezas con tiempo, puntuazions y niveles más difíciles, no tiene nada de malo. Solo que no confíe en que lo protexa de la demencia; denguno chuego ha demostrau que lo faga. Las versions amables de arriba también funcionan bien cuan chugan generazions juntas: un abuelo con demencia y un nieto chico pueden trobar imachens en equipo, sin que ninguno de los dos sía puesto a prueba.
 
-## When should you stop or change the game?
+## Cuán to ha de parar o cambiar el chuego?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Suspirar, apartar la tableta, decir "no puedo fer esto" o mostrar-se angustiau son sinyals pa facer-lo más fácil o parar. Pruebe con menos fichas, ponga los imachens a la vista, cambie a [Trobar lo mesmo](/games/find-the-same/), o simplement mire los imachens y charre. Si no quiere chugar de denguna manera, tampoco pasa nada. Nuestra guía sobre [cómo chugar en compañía](/caregiving/how-to-play-together/) tiene más sobre el ritmo y la ayuda.

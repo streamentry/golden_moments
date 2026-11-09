@@ -1,32 +1,33 @@
 ---
-title: "Xatirə fəaliyyətləri: xatirə qutuları, həyat hekayəsi və şəkillər"
-seoTitle: "Demensiya üçün xatirə fəaliyyətləri: sorğusuz ideyalar"
-description: "Demensiya ilə yaşayan şəxslə xatirələri sorğu-sualsız necə paylaşmaq: şəkillər üzərində söhbət, xatirə qutuları, həyat hekayəsi kitabları və rahat ifadələr."
+title: "Xatirə fəaliyyətləri: yaddaş qutusu, hekayə kitabı, fotolar"
+seoTitle: "Demans üçün xatirə fəaliyyətləri: imtahansız ideyalar"
+description: "Demansla yaşayan birinlə imtahan vermədən xatirələri necə bölüşmək olar: foto söhbəti, yaddaş qutuları və həyat kitabları, rahat qalmağa kömək edən ifadələrlə."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Xatirə fəaliyyəti keçmişdən birlikdə zövq almaq deməkdir: şəkillər, əşyalar,
-  musiqi və hekayələr vasitəsilə. Xatirə qutusu hazırlayın, sadə həyat hekayəsi
-  kitabı qurun və ya şəkillərə yan-yana baxın. Heç vaxt sorğu-sual etməyin:
-  “Yadınızdadır?” və “Bu kimdir?” demək əvəzinə “Bu barədə danışın” kimi açıq
-  dəvətlərdən istifadə edin. İsti söhbət faktları düzgün demək qədər vacibdir.
+  Xatirələşmə fotolar, əşyalar, musiqi və hekayələr vasitəsilə keçmişi birlikdə
+  yaşamaq deməkdir. Yaddaş qutusu hazırlayın, sadə həyat hekayəsi kitabı qurun
+  və ya fotolara yan-yana baxın. Heç vaxt imtahan keçirməyin: «Bunu
+  xatırlayırsınızmı?» və «Bu kimdir?» suallarından çəkinin, «Bu barədə mənə
+  danışın» kimi açıq dəvətlərdən istifadə edin. İsti söhbət faktları dəqiq
+  bilməkdən daha vacibdir.
 keyPoints:
-  - "Xatirə fəaliyyəti söhbətdir, imtahan deyil. Dəqiqlik yox, zövq vacibdir."
-  - "“Yadınızdadır...?” və “Bu kimdir?” sözlərini şərhlər və “Bu günü danışın” kimi dəvətlərlə əvəz edin."
-  - "Şəxsin həyatından əşyalar olan xatirə qutusu əllərə və söhbətə tutunacaq bir şey verir."
-  - "Həyat hekayəsi kitabı ailənin, qonaqların və qayğı işçilərinin yalnız diaqnozu yox, şəxsi tanımasına kömək edir."
-  - "Bir xatirə kədər gətirirsə, əvvəlcə təsəlli verin və yumşaqlıqla keçin."
+  - "Xatirələşmə imtahan yox, söhbətdir. Dəqiqlik vacib deyil; birgə xoş vaxt vacibdir."
+  - "«Bunu xatırlayırsınızmı?» və «Bu kimdir?» əvəzinə şərhlər və «Bu gün barədə mənə danışın» kimi dəvətlər işlədin."
+  - "Şəxsin həyatından əşyalardan ibarət yaddaş qutusu əllərə və söhbətə tutmaq üçün bir şey verir."
+  - "Həyat hekayəsi kitabı ailəyə, qonaqlara və qayğı göstərən işçilərə yalnız diaqnozu yox, insanı tanımağa kömək edir."
+  - "Bir xatirə kədər gətirirsə, əvvəl təsəlli verin, sonra yumşaqca başqa şeyə keçin."
 faq:
-  - q: "Demensiyası olan adamlar üçün xatirə fəaliyyəti nədir?"
-    a: "Xatirə fəaliyyəti çox vaxt şəkillər, əşyalar, musiqi və ya videoların köməyi ilə xatirələri və keçmiş təcrübələri paylaşmaqdır. Bu, təkbətək və ya qrupda ola bilər. Məqsəd şəxsin nəyi xatırlaya bildiyini yoxlamaq yox, xoş, mənalı söhbətdir."
-  - q: "Niyə “Yadınızdadır?” deyə soruşmamalıyam?"
-    a: "Yaddaşı yoxlayan suallar cavab gəlmədikdə şəxsi xəcalətli və ya narahat edə bilər. National Institute on Aging kiminsə nəyisə və ya kimisə xatırlayıb-xatırlamadığını soruşmağı çəkinilməli şeylər arasında sadalayır. Əvəzində gördüyünüz barədə şərh verin və şəxs istədiyini əlavə etsin."
-  - q: "Xatirə qutusuna nə qoymalıyam?"
-    a: "Şəxsin həyatı ilə bağlı təhlükəsiz, möhkəm əşyalar seçin: iş əşyaları, hobbi ləvazimatı, sevdiyi şərf, açıqcalar, resept kartları, idman suvenirləri və ya şəkillərin surətləri. İti əşyalardan, uda biləcəyi kiçik əşyalardan və əvəzsiz əsl nüsxələrdən çəkinin."
-  - q: "Faktları səhv deyərsə nə etməli?"
-    a: "Buraxın. Ananız şəkildəki adamın bacısı olduğunu deyirsə, əslində əmisi qızıdırsa, eybi yoxdur. Düzəltmək isti anı imtahana çevirir. Onun danışdığı hekayəni izləyin və birlikdə zövq alın."
+  - q: "Demansla yaşayan insanlar üçün xatirələşmə nədir?"
+    a: "Xatirələşmə xatirələri və keçmiş təcrübələri, çox vaxt fotolar, əşyalar, musiqi və ya videolar vasitəsilə bölüşməkdir. Bu, birbaşa və ya qrupla baş verə bilər. Məqsəd xoş, mənalı söhbətdir, şəxsin nələri xatırladığını yoxlamaq yox."
+  - q: "Niyə «Bunu xatırlayırsınızmı?» soruşmamalıyam?"
+    a: "Yaddaşı yoxlayan suallar, cavab gəlməyəndə şəxsi utandıra və ya narahat edə bilər. National Institute on Aging bir insandan nəyisə ya da kimisə xatırlayıb-xatırlamadığını soruşmağı qaçınılmalı şeylər sırasında göstərir. Bunun əvəzinə gördüyünüz şeyə şərh verin və şəxsin istədiyi hər şeyi əlavə etməsinə icazə verin."
+  - q: "Yaddaş qutusuna nə qoymalıyam?"
+    a: "Şəxsin həyatı ilə bağlı təhlükəsiz, möhkəm əşyalar seçin: iş ləvazimatları, hobbi avadanlıqları, sevimli şal, açıqcalar, resept kartları, idman suvenirləri və ya foto surətləri. Kəskin əşyalardan, udula bilən kiçik şeylərdən və əvəzolunmaz əsl nüsxələrdən çəkinin."
+  - q: "Yanılsalar nə olar?"
+    a: "Buraxın. Ananız fotoda bacısını gördüyünü deyirsə, halbuki bu əmisi qızıdırsa, bu normaldır. Düzəliş etmək isti anı imtahana çevirir. Onların danışdığı hekayəni izləyin və birlikdə ondan həzz alın."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Xatirə fəaliyyəti sadəcə keçmişdən birlikdə zövq almaq deməkdir. Demensiya ilə yaşayan bir çox adam üçün onilliklər əvvəlki xatirələr bu səhər baş verənlərdən daha aydın qalır. Şəkillər, tanış əşyalar, musiqi və hekayələr bu xatirələri açıb sizə paylaşmaq üçün isti bir şey verə bilər. Yeganə qayda: bu, söhbətdir, heç vaxt viktorina deyil.
+Xatirələşmə sadəcə keçmişi birlikdə yaşamaqdır. Demansla yaşayan bir çox insan üçün onilliklər əvvəlki xatirələr bu gün səhər baş verənlərdən daha aydın qalır. Fotolar, tanış əşyalar, musiqi və hekayələr həmin xatirələri canlandıra və sizə birlikdə paylaşmaq üçün isti bir şey verə bilər. Yeganə qayda: bu söhbətdir, heç vaxt imtahan yox.
 
-## Xatirə fəaliyyəti nədir və sorğu-sualdan nə ilə fərqlənir?
+## Xatirələşmə nədir və o, imtahandan necə fərqlənir?
 
-Xatirə fəaliyyəti şəxsin öz tempi ilə şəkillər, əşyalar, musiqi və ya video vasitəsilə xatirələri paylaşmaqdır. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bunu kitabda və ya planşetdə şəkillər, əşyalar, videolar və ya musiqinin köməyi ilə keçmiş təcrübələri və hekayələri paylaşmaq kimi təsvir edir. Sorğu-sual fərqlidir: şəxsdən düzgün cavab tələb edir və bu, zövq əvəzinə xəcalət gətirə bilər.
+Xatirələşmə fotolar, əşyalar, musiqi və ya video vasitəsilə xatirələri şəxsin öz tempində paylaşmaqdır. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bunu fotolar, əşyalar, videolar və ya musiqi vasitəsilə, kitabda və ya planşetdə keçmiş təcrübə və hekayələri paylaşmaq kimi təsvir edir. İmtahan isə fərqlidir: o, şəxsdən düzgün cavab tələb edir və bu, sevinc əvəzinə utanc gətirə bilər.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) şəxsdən nəyisə və ya kimisə xatırlayıb-xatırlamadığını soruşmağı çəkinilməli şey kimi sadalayır. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) qısamüddətli yaddaşa əsaslanan suallardan qaçmağı və əvəzində daha uzaq keçmişdən danışmağı məsləhət görür.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) bir insandan nəyisə ya da kimisə xatırlayıb-xatırlamadığını soruşmağı qaçınılmalı şeylər sırasında göstərir. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) qısamüddətli yaddaşa əsaslanan suallardan çəkinməyi və onun əvəzinə daha uzaq keçmişdən danışmağı tövsiyə edir.
 
 | Əvəzinə | Bunu sınayın |
 | --- | --- |
-| “Bunu xatırlayırsınız?” | “Bu xoşbəxt gün kimi görünür. Bu barədə danışın.” |
-| “Bu kimdir?” | “Budur, Gülər xala dəniz sahilində. Şlyapasına baxın.” |
-| “Bu hansı ildir?” | “Bu köhnə evə oxşayır. Orada yaşamaq necə idi?” |
-| “Yox, bu Rəşid deyil, Elçindir.” | “Çox xoş adama oxşayır.” |
-| “Bunu mənə artıq demisiniz.” | “Bu hekayəni çox sevirəm.” |
+| "Bunu xatırlayırsınızmı?" | "Bu xoş bir gün kimi görünür. Mənə bu barədə danışın." |
+| "Bu kimdir?" | "Budur Rouz xala, çimərlikdə. Şapkasına baxın." |
+| "Bu hansı il idi?" | "Bu köhnə ev kimi görünür. Orada yaşamaq necə idi?" |
+| "Yox, bu Bill deyil, Frankdır." | "O, çox əyləncəli görünür." |
+| "Bunu artıq mənə demisiniz." | "Bu hekayəni çox sevirəm." |
 
-## Şəkillər barədə sorğu-sualsız necə danışmaq olar?
+## Fotolar haqqında imtahan vermədən necə danışmaq olar?
 
-Gördüyünüzlə başlayın, sonra şəxsin istəsə nəsə əlavə etməsi üçün yer qoyun.
+Əvvəl gördüyünüzü deyin, sonra şəxsə istəsə bir şey əlavə etmək üçün yer buraxın.
 
-1. **Yan-yana oturun.** Albomu ikinizin arasında tutun ki, stolun o tayından yoxlamaq yox, birlikdə baxasınız.
-2. **Bir neçə şəkil seçin.** Beş yaxşı şəkil bütöv qutudan yaxşıdır. İri, aydın çaplar ən yaxşı işləyir.
-3. **Adları özünüz deyin.** “Budur, sən və ata toy gününüzdə” təzyiqi aradan qaldırır.
-4. **Detallara şərh verin.** Paltarlar, maşınlar, yemək, hava, üzlər. “Nə maşındır. Necə parlaqdır.”
-5. **Dəvət edin, tələb etməyin.** “Mənə ... barədə danışın” və ya “Nəyi fərq edirsiniz?” Sükut yaxşıdır.
-6. **Onun ardınca gedin.** Tamam başqa bir şeydən danışırsa, onunla gedin.
-7. **Hələ xoş olarkən dayandırın.** Yorğunluq başlamamış albomu bağlayın.
+1. **Yan-yana oturun.** Albomu aranızda tutun ki, masanın o tayından sınamaq yox, birlikdə baxasınız.
+2. **Bir neçə foto seçin.** Beş yaxşı foto bütöv qutudan daha yaxşıdır. Böyük, aydın çaplar ən yaxşı işləyir.
+3. **Adamları özünüz adlandırın.** «Budur sən və atan toy günündə» kimi cümlə sıxıntını aradan qaldırır.
+4. **Detallara şərh verin.** Geyim, maşınlar, yemək, hava, üzlər. «Nə gözəl maşındır. Çox parlaq görünür.»
+5. **Dəvət edin, tələb etməyin.** «Mənə bu barədə danışın...» və ya «Nə diqqətinizi çəkir?» Sükut normaldır.
+6. **Onların istiqamətini izləyin.** Tamam başqa şeylərdən danışsalar, onunla gedin.
+7. **Xoş olanda dayandırın.** Yorğunluq başlamazdan əvvəl albomu bağlayın.
 
-Hazır şəkilli mövzular üçün [Söhbət kartlarını](/games/conversation-cards/) sınayın. Öz ailə fotolarınızı mülayim uyğunlaşdırma oyununa çevirmək üçün [Foto cütlərini](/games/photo-pairs/) sınayın; seçdiyiniz fotolar brauzerinizdə qalır.
+Hazır şəkil sualları üçün [söhbət kartları](/games/conversation-cards/) sınayın. Öz ailə fotolarınızı yumşaq uyğunlaşdırma oyununa çevirmək üçün [foto cütləri](/games/photo-pairs/) sınayın; seçdiyiniz fotolar brauzerinizdə qalır.
 
-## Xatirə qutusunu necə hazırlamaq olar?
+## Yaddaş qutusunu necə hazırlamaq olar?
 
-Xatirə qutusu şəxsin həyatından tutub söhbət etmək üçün əşyalar olan qabdır.
+Yaddaş qutusu şəxsin həyatından olan əşyalardan ibarət, toxunub haqqında danışmaq üçün bir qutudur.
 
-1. **Asan açılan möhkəm qutu seçin,** məsələn, ayaqqabı qutusu, papaq qutusu və ya kiçik taxta sandıq.
-2. **Mövzu və ya qarışıq seçin.** İş, hobbi, yer, onillik və ya hər şeydən bir az.
+1. **Möhkəm qutu seçin**, açılması asan olan, məsələn ayaqqabı qutusu, şapka qutusu və ya kiçik taxta sandıq.
+2. **Mövzu və ya qarışıq seçin.** İş, hobbi, bir yer, bir onillik, ya da hər şeydən bir az.
 3. **Təhlükəsiz əşyalar toplayın.** Başlamaq üçün beş-on əşya kifayətdir.
-4. **Qiymətli şeylərin surətlərindən istifadə edin.** Əvəzsiz şəkilləri və sənədləri kopyalayın, əsllərini qoruyun.
-5. **Əşyaları bir-bir çıxarın.** Birini verin, onun haqqında nəsə deyin və söhbətin hara gedəcəyinə baxın.
+4. **Qiymətli şeylərin surətlərindən istifadə edin.** Əvəzolunmaz foto və sənədlərin surətini çıxarın, əsllərini təhlükəsiz saxlayın.
+5. **Əşyaları bir-bir çıxarın.** Birini uzadın, onun barədə bir şey deyin və söhbətin hara getdiyinə baxın.
 
-Daxil ediləcək ideyalar:
+Daxil etmək üçün ideyalar:
 
-- **İş:** ad nişanı, kiçik alət, forma nişanı, hesab dəftəri, tibb bacısı nişanı, aşpaz kitabı.
-- **Ev:** onun xətti ilə resept kartı, mətbəx dəsmalı, sevdiyi şərf və ya qalstuk.
-- **Hobbilər:** qarmaqsız balıq yemi, top, ip yumağı, toxum paketi.
-- **Yerlər:** açıqcalar, xəritələr, turist suvenir, doğma şəhərdən qəzet kəsiyi.
-- **Ailə:** şəkillərin surətləri, uşaq rəsmi, toy dəvətnaməsi.
+- **İş:** ad nişanı, kiçik alət, forma yaması, mühasibat dəftəri, tibb bacısının sancağı, restoran resept kitabı.
+- **Ev:** öz xətti ilə yazılmış resept kartı, mətbəx dəsmalı, sevimli şal və ya qalstuk.
+- **Hobbilər:** ilgəksiz balıq yemi, beysbol topu, sap yumağı, toxum paketi.
+- **Yerlər:** açıqcalar, xəritələr, turist suvenirləri, doğma şəhərin qəzet kəsiyi.
+- **Ailə:** foto surətləri, uşaq rəsmi, toy dəvətnaməsi.
 
-İti əşyaları, uda biləcəyi kiçik şeyləri və xoş qarşılandığını bilmədiyiniz təqdirdə ağrılı xatirələr gətirə biləcək hər şeyi kənarda qoyun.
+Kəskin əşyaları, udula bilən kiçik şeyləri və xoş qarşılanacağını bilmədiyiniz halda ağrılı xatirələr oyada bilən şeyləri çıxarın.
 
 ## Həyat hekayəsi kitabını necə hazırlamaq olar?
 
-Həyat hekayəsi kitabı şəxsin həyatı haqqında fotoların və qısa şərhlərin sadə albomudur. Bu, birlikdə baxmaq üçün bir şeydir və qonaqlara və qayğı işçilərinə bütöv şəxsi görməyə kömək edir.
+Həyat hekayəsi kitabı şəxsin həyatı haqqında qısa şərhləri olan sadə foto albomdur. Birlikdə baxmaq üçündür və qonaqlara və qayğı göstərən işçilərə bütöv insanı görməyə kömək edir.
 
-1. **Format seçin.** Şəffaf cibli qovluq, çap olunmuş foto kitab və ya planşetdə slayd şou.
-2. **Bir neçə bölmə planlaşdırın.** Uşaqlıq, məktəb, iş, ailə, yaşadığı yerlər, inanc, hobbilər, sevdiyi yeməklər və musiqi.
-3. **Hər səhifəyə bir-iki şəkil əlavə edin,** iri şriftli qısa şərhlə: “Mehriban, 22 yaşında, bankda işə başlayır.”
-4. **Xoşladıqlarını və vərdişlərini daxil edin.** “Qəhvəni süd ilə içir. İlahiləri sevir. Yüksək səsli televizoru sevmir.” Bu, ona qayğı göstərən hər kəsə kömək edir.
-5. **Şəxsi istədiyi qədər cəlb edin:** şəkilləri seçmək, hekayələr danışmaq və ya sadəcə onun necə hazırlandığına baxmaq.
-6. **Əlavə etməyə davam edin.** Faydalı olmaq üçün bitmiş olmalı deyil.
+1. **Format seçin.** Səhifə qoruyucuları olan bağlayıcı, çap olunmuş foto kitab və ya planşetdə slayd şousu.
+2. **Bir neçə bölmə planlaşdırın.** Uşaqlıq, məktəb, iş, ailə, yaşanılan yerlər, dini inanc, hobbilər, sevimli yeməklər və musiqi.
+3. **Hər səhifəyə bir-iki foto əlavə edin**, qısa, böyük şriftli şərhlə: «Məryəm, 22 yaşında, bankda işə başlayır.»
+4. **Sevimlilərini və gündəlik adətlərini yazın.** «Südlü qəhvə içir. Bazar günü himnləri sevir. Yüksək səsli televizordan xoşlanmır.» Bu, onlara qayğı göstərən hər kəsə kömək edir.
+5. **Şəxsi istədiyi qədər cəlb edin**, foto seçməklə, hekayə danışmaqla və ya kitabın necə yığıldığını izləməklə.
+6. **Əlavə etməyə davam edin.** Faydalı olmaq üçün tamamlanmış olması vacib deyil.
 
-## Daha çox xatirə ideyaları
+## Xatirələşmə üçün əlavə ideyalar
 
-- **Gəncliyindən musiqi qoşun** və o, onu hara aparırsa, ondan danışın. [Musiqi fəaliyyətlərinə](/activities/music/) baxın.
-- **Ev videolarına və ya televiziya verilişlərinə baxın,** sevdiyi onilliklərdən.
-- **Uşaqlıq yeməyini bişirin** və qoxular söhbəti aparsın.
+- **Gənclik illərinin musiqisini çalın** və onun sizi haraya apardığını danışın. Bax: [musiqi fəaliyyətləri](/activities/music/).
+- **Sevimli onilliklərindən ev videolarına və ya televiziya proqramlarına baxın.**
+- **Uşaqlıq yeməyini bişirin** və iyilər söhbəti aparsın.
 - **Doğma şəhərinin xəritəsinə baxın** və tanış küçələri izləyin.
-- **Köhnə kataloqlara və ya jurnallara baxın** və qiymətlər, moda və maşınlar barədə danışın.
-- **Hekayələrini telefonda yazın,** onun icazəsi ilə, ailə üçün.
-- **Zənglər zamanı paylaşın.** Video zəng zamanı bir şəkil göstərin; [telefon və video zənglərə](/activities/phone-and-video-calls/) baxın.
-- **Ziyarət edəndə şəkil və ya əşya gətirin.** Bu, ziyarətə asan bir diqqət mərkəzi verir; [ziyarətə](/activities/visiting/) baxın.
+- **Köhnə kataloqlara və jurnallara baxın** və qiymətlər, dəblər və maşınlar barədə danışın.
+- **Hekayələrini, icazəsi ilə, telefonda yazın** və ailə üçün saxlayın.
+- **Zənglər zamanı paylaşın.** Video zəng zamanı bir fotonu qaldırın; bax: [telefon və video zənglər](/activities/phone-and-video-calls/).
+- **Ziyarət edəndə foto və ya əşya gətirin.** Bu, ziyarətə asan bir fokus verir; bax: [ziyarət](/activities/visiting/).
 
 ## Xatirə ağrılıdırsa nə etməli?
 
-Bəzi xatirələr kədər, təəssüf və ya qorxu gətirir. Şəxs narahat olarsa, dayanın, təsəlli verin və mövzunu və ya fəaliyyəti yumşaqlıqla dəyişin. Baş verənlər barədə mübahisə etməyin. Family Caregiver Alliance şəxsi səhv etdiyinə inandırmağa çalışmamağı və onun göstərdiyi hisslərə cavab verməyi məsləhət görür, çünki bu hisslər həqiqidir. Vəfat etmiş birindən sağ kimi danışırsa, hissə cavab verin: “Onu darıxırsınız. Onun haqqında danışın mənə.”
+Bəzi xatirələr kədər, peşmançılıq və ya qorxu gətirir. Şəxs narahat olarsa, dayanın, onu sakitləşdirin və yumşaqca mövzunu və ya fəaliyyəti dəyişin. Nəyin baş verdiyi barədə mübahisə etməyin. Family Caregiver Alliance şəxsi yanıldığına inandırmağa çalışmağa qarşı məsləhət verir və onun göstərdiyi hisslərə cavab verməyi tövsiyə edir; bu hisslər real hisslərdir. Əgər kimsə öləndən sanki sağmış kimi danışırsa, hissinə cavab verin: «Onu darıxırsınız. Mənə onun barədə danışın.»
 
 ## Tədqiqatlar nə deyir?
 
-22 sınaq və 1972 nəfəri əhatə edən [xatirə fəaliyyəti üzrə Cochrane icmalı](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) tapıb ki, təsirlər qeyri-ardıcıl, kiçik idi və mühitə və formata görə dəyişirdi. Demensiyası olan adamlara zərər olduğuna dair sübut tapılmayıb. Biz xatirə fəaliyyətini müalicə kimi yox, isti və mənalı birgə vaxt yarada bildiyi üçün təklif edirik. Asan söhbət barədə daha çox üçün [ünsiyyət məsləhətlərinə](/caregiving/communication-tips/) baxın.
+[Xatirələşmə üzrə Cochrane icmalı](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), 22 sınaq və 1,972 nəfəri əhatə edərək, təsirlərin qeyri-sabit və kiçik olduğunu, yerə və formata görə fərqləndiyini tapdı. Demansı olan insanlara zərər verməsinə dair dəlil tapılmadı. Biz xatirələşməni onu müalicə kimi yox, isti və mənalı birgə vaxt üçün tövsiyə edirik. Asan söhbət haqqında daha çox məlumat üçün bax: [ünsiyyət məsləhətləri](/caregiving/communication-tips/).

@@ -1,32 +1,28 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Өй эштәре: деменция менән йәшәгән кешеләр өсөн"
+seoTitle: "Деменциялы кешеләр өсөн өй эштәре: көндәлек эштәр"
+description: "Кейем бөкләү, әйберҙәрҙе айырыу, өҫтәл әҙерләү һәм ябай ашарға ярҙам итеү деменция менән йәшәгән кешеләр өсөн мәғәнәле эшмәкәрлек булырға мөмкин. Уны нисек ойоштороу, яңылаштырыу һәм хәүефһеҙ итеү."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Көндәлек эштәр, мәҫәлән, сепрәктәрҙе бөкләү, оҡшаш йәшелдәрҙе айырыу, өҫтәл әҙерләү, өҫтәлде һөртөү, үҫемлектәргә һыу һуғарыу һәм ябай ашарға ярҙам итеү деменция менән йәшәгән кешегә файҙалы булыу мөмкинлеге бирә ала. Таныш эштәр һайлағыҙ, уларҙы бер аҙым-аҙымдан бүлегеҙ, үткер йәки эҫе нәмәләрҙе алып ташлағыҙ һәм «дөрөҫ» эшләүҙән бигерәк, ҡатнашыуҙы ҡәҙерләгеҙ.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Таныш эштәр кешегә файҙалы һәм өйҙәге ғаиләнең бер өлөшө булыуын тойорға ярҙам итә ала, һәм был күп осраҡта эштең нисек башҡарылыуынан мөһимерәк була."
+  - "Һәр эште айырым аҙымдарға бүлегеҙ, әйтеүҙән бигерәк күрһәтегеҙ һәм ауыр булып киткән аҙымды теге йәки был кеше урынына тынлыҡта үҙегеҙ башҡарығыҙ."
+  - "Пышаҡтарҙы, таҙартыу сараларын һәм йыуыу капсулаларын ҡулдан ерҙә тотоғоҙ, ә бергәләп ашарға әҙерләнгәнсе плитә төймәләренә ҡапҡастар йәки автомат һүндереүсе ҡуйығыҙ."
+  - "Бөкләнгән һөлгәктәрҙе кешенең алдында яңынан бөкләү кәрәкмәй. Әгәр ҡабаттан эшләргә кәрәк булһа, аҙаҡҡа ҡалдырығыҙ һәм күҙҙән ситтә башҡарығыҙ."
+  - "Эш ҡәнәғәтһеҙлек тыуҙырһа, еңелерәк аҙымға күсегеҙ, икенсе ваҡытта яңынан ҡабатлағыҙ йәки генә бергә ултырығыҙ."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Деменциялы кеше ниндәй өй эштәрендә әле ярҙам итә ала?"
+    a: "Күп кешеләр әле лә кейем бөкләй, оҡшаш йәшелдәрҙе таба, ашъяулыҡтарҙы айыра, өҫтәл әҙерләй, өҫтәлде һөртә, сүпләй, һыпыра, үҫемлектәргә һыу һуғара йәки кәстрәлгә камыр ҡаҡһа. Кешенең элек эшләгән эштәрен һайлағыҙ һәм уларҙы хәҙерге мөмкинлектәренә тап килтерегеҙ. Һуңғараҡ стадияларҙа бер ҡабатлана торған хәрәкәт, мәҫәлән, ашъяулыҡты һыйпау, еткән булыуы мөмкин."
+  - q: "Деменциялы кеше мәтәкә эшләүҙә хәүефһеҙме?"
+    a: "Яҡшы күҙәтеү һәм тейешле әҙерлек менән хәүефһеҙ булырға мөмкин. Пышаҡтарҙы, таҙартыу сараларын һәм эҫе нәмәләрҙе ҡулдан ерҙә тотоғоҙ, плитәгә ҡапҡастар йәки автомат һүндереүсе ҡуйығыҙ, ә кешегә һәр ваҡыт хәүефһеҙ эш бирегеҙ, мәҫәлән, йәшелсәне йыуыу, һыҙҙырыу йәки һауыттарҙы әҙерләү. Плитә янғанда кешене яңғыҙ ҡалдырмағыҙ."
+  - q: "Уны дөрөҫ бөкмәһә йәки тәртипһеҙлек тыуҙырһа, нишләргә?"
+    a: "Теге йәки был нәмәне үҙе хәлинә ҡалдырығыҙ. Маҡсат — бергә вакыт үткәреү һәм файҙалы булыу тойғоһо, камил һөҙөмтә түгел. Әгәр нәмәне сынап ҡабаттан эшләргә тура килһә, аҙаҡҡа ҡалдырығыҙ һәм кеше һәйбәт ҡарамаған ваҡытта эшләгеҙ, шулай итеп ул үҙен төҙәтелгән итеп тоймаясаҡ."
+  - q: "Ярҙам итергә баш тартһалар, нишләргә?"
+    a: "«Юҡ» тигән яуап хәҙерге ваҡытта эштең бик ауыр, ҡатмарлы йәки арыта торған булыуын аңлатырға мөмкин. Үҙ итмәгеҙ. Ябайыраҡ варианты менән һынап ҡарағыҙ, уның урынына һеҙҙе компанияға саҡырығыҙ йәки көндөң яҡшыраҡ ваҡытында яңынан һорағыҙ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +41,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Деменция менән йәшәгән күп кешеләр тормош дәүерен өйҙө алып барыуға, балаларҙы үҫтереүгә йәки эш урынын тәртиптә тотоуға бағышлаған. Уларҙан ысын өй эштәренә ярҙам һорау — «һеҙ әле лә был өйҙөң бер өлөшө» тигәнде әйтеүҙең бик нескә ысулы, был башҡа бер эшмәкәрлек менән дә бирелмәй. Был бит ҡайһы эштәр яраҡлы булыуы, уларҙы нисек ойоштороу, үҙгәрештәргә ярашҡанда нисек еңеләйтеү һәм мәтәк менән кер йыуыу бүлмәһен нисек хәүефһеҙ тоторға тигән һорауҙарға яуап бирә.
 
-## Why do everyday chores work well as activities?
+## Ни өсөн көндәлек эштәр яҡшы эшмәкәрлек булып тора?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Эштәр таныш булғанға һәм уларҙың асыҡ маҡсаты булғанға яҡшы эшләй. Милли ҡартайыу институты (NIA) көндәлек эштәр араһында кер йыуыуҙы, өҫтәл әҙерләүҙе, һыпырыуҙы, сүпләүҙе, почтаны айырыуҙы, кейем бөкләүҙе һәм хәбәрҙәрҙе айырыуҙы атай; был эштәр [Альцгеймер ауырыуы менән йәшәгән кешеләр ярата ала торған эштәр](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) рәтенә ингән. Альцгеймер ассоциацияһы өҫтәл әҙерләү кеүек эштәр кешегә [өйҙөң ҡәҙерле өлөшө булыу тойғоһо](https://www.alz.org/help-support/caregiving/daily-care/activities) бирергә мөмкин, тип иҫкәртә.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Эштең үҙенең башланыу сәбәбе лә бар. «Был һөлгәктәр менән ярҙам итә алаһығыҙмы?» тигән һорауға «ет» тип яуап биреү «эшмәкәрлек итәйек» тигән һорауға ҡарағанда еңелерәк.
 
-## Which household tasks are good to try?
+## Ниндәй өй эштәрен һынарға яраҡлы?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Элек кешенең башҡарған эштәрен һайлағыҙ, һуңынан уларҙы бөгөнгө мөмкинлектәренә тап килтерегеҙ.
 
-### Laundry and linens
+### Кер һәм тукыма
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Һөлгәктәрҙе һәм юыу һөлгәктәрен бөкләү.** Ҡулға бәләкәй, яҫы әйберҙәр тултырылған себеш тоторотоғоҙ. Һөлгәк бөкләүҙә дөрөҫ юл юҡ, шуға ул бик ярҙамсыл эш.
+- **Оҡшаш йәшелдәрҙе табыу.** Өҫтәлгә аралаш йәшелдәр һалығыҙ. Пар табыу ауырлашһа, ике-өс бик төрлө төҫтәге генә ҡалдырығыҙ.
+- **Һыйпау һәм йыйыу.** Ашъяулыҡтарҙы, мендәр тышлыҡтарын йәки сепрәктәрҙе һыйпап яҫылтып йыйырға мөмкин. Бөкләү күп аҙымлы булып киткәс, был эш һуңараҡ та яҡшы тора.
 
-### Table and kitchen
+### Өҫтәл һәм кухня
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Өҫтәл әҙерләү.** Бер кәрәк-яраҡ комплектын өлгө итеп ҡуйығыҙ, кеше уны ҡабатласын. Был ауыр булһа, бер нәмәне генә бирегеҙ: «Ҡулығыҙға һәр тәлинкә өсөн бер ҡашыҡ».
+- **Ашау әйберҙәрен айырыу.** Таҙа ҡашыҡтарҙы, ҡалаҡтарҙы һәм майлыҡ пышаҡтарын һауыт-һаба ҡапланған табаға бүлеп һалығыҙ. Үткер пышаҡтарҙы ҡуймағыҙ.
+- **Һауыттарҙы кәфрәү.** Пластик йәки һынмаған һауыттар һәм йомшаҡ сепрәк был эште хәүефһеҙ итә.
+- **Өҫтәлде йәки тәҙрәне һөртөү.** Нәм мендән һәм асыҡ өҫтәл. Альцгеймер ассоциацияһы, әгәр кеше ҡулы менән өҫтәлде ишкәндә, уға сепрәк биреп, тынғыһыҙ хәрәкәтте файҙалыға әйләндерергә кәңәш итә.
 
-### Around the house
+### Йорт тирәһендә
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Тузан һөртөү.** Йомшаҡ һөртөргөсө һәм нығыраҡ өҫтәлдәр, мәҫәлән, журнал өҫтәле йәки китап кәңәштәре.
+- **Почтаны айырыу.** Реклама хаттарын һәм каталогтарҙы өйөмдәргә бүлергә бирегеҙ: һаҡларға, ҡабул итергә, һуңыраҡ асырға. Ысын счеттарҙы һәм сектарҙы икенсе урында тотоғоҙ.
+- **Һауытты айырыу.** Таҙа банкаларҙы, шешәләрҙе һәм ҡағыҙҙы айырым ҡотоға һалырға.
+- **Һыпырыу.** Тәңгәл баланс ҡасан булһа, баҡсала йәки кухня эргәһендә бәләкәй һыпыртҡыс менән.
+- **Үҫемлектәргә һыу һуғарыу.** Бәләкәй, еңел һауыт һәм ҡулға еңел еткән бер нисә үҫемлек.
 
-### Simple cooking with supervision
+### Күҙәтеү аҫтында ябай ашарға әҙерләү
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Ашарға әҙерләү көслө, яҡшы тойғолар ҡайтарырға мөмкин. NIA кешегә аҙыҡ-түлек йыйырға, үлсәргә, ҡушырға, койорға, йәки яраҡлы ризыҡ ысулын икенсеһенә әйтергә мөмкинлек бирергә тәҡдим итә. Яраҡлы эштәр:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- йәшелсә йәки емеш йыуыу
+- камыр йәки һыуыҡ салат ҡатыштырыу
+- салат яфрағын ҡул менән өҙөү
+- тост майлау, ул ваҡытта күп үткер булмаған пышаҡ менән
+- печеньелар өсөн камырҙы табаға һалыу
+- пиццаға ҡушымтаны һалыу
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Үлсәү ауырлашһа, Альцгеймер ассоциацияһы үлсәүҙе үҙегеҙ тамамлап, икенсе аҙымды, мәҫәлән, ҡатыштырыуҙы, кешегә тапшырырға тәҡдим итә.
 
-## How do I set up a chore so it goes well?
+## Эште нисек ойоштороп, уңышлы итергә?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Дөрөҫ ваҡыт һайлағыҙ.** Кеше ял иткән һәм тыныс булған ваҡытты һайлағыҙ. Күп кешеләр өсөн был иртә көндөң беренсе яртыһы була.
+2. **Урынды бушатығыҙ.** Бер эш, бер өҫтәл, өҫтәлдә артыҡ нәмә юҡ.
+3. **Һорағыҙ, бурыс йөкмәтмәгеҙ.** «Был нәмәләр менән ярҙам итә алаһығыҙмы?» — «Хәҙер кер бөкләргә ваҡыт» тигәнгә ҡарағанда яҡшыраҡ.
+4. **Беренсе аҙымды күрһәтегеҙ.** Бер һөлгәкте әкрен генә бөкләгеҙ, аҙаҡ икенсеһен биреп торғоҙ. Күрһәтеү аңлатыуҙан асыҡыраҡ.
+5. **Бер аҙымды бер үк ваҡытта бирегеҙ.** Бер үк ваҡытта күп күрһәтмә биреү кешене ҡыйнап ташларға мөмкин. Бер аҙым тамамланғансы, икенсеһен атамағыҙ.
+6. **Янәшә эшләгеҙ.** Бер үк эште янәшә башҡарыу күҙәтеү түгел, ә компания кеүек тойола.
+7. **Эш тураһында һөйләгеҙ, һөҙөмтә тураһында түгел.** «Был бик йомшаҡ» йәки «Элек сепрәк шкафын нисек тәртиптә тотаһығыҙ ине, һөйләп бирегеҙ әле» — һынауһыҙ ғына һөйләшеү асыу.
 
-## How do I adapt chores as abilities change?
+## Һәләттәр үҙгәргәндә эштәрҙе нисек еңеләйтергә?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Һәләттәр ваҡыт үтеү менән һәм көндән-көнгә үҙгәреп тора. Альцгеймер ассоциацияһы ауырыу көсәйгәндә ябайыраҡ, ҡабатланған эштәргә күсергә кәңәш итә.
 
-| If this has become hard | Try this instead |
+| Ауыр булып киткән эш | Уның урынына ниндәй эш |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Ҙур сепрәктәрҙе бөкләү | Юыу һөлгәктәрен бөкләү йәки ашъяулыҡтарҙы һыйпау |
+| Тулы өҫтәл әҙерләү | Һәр урынға бер ашъяулыҡ һалыу |
+| Почтаны категориялар буйынса айырыу | Конверттарҙы бер өйөмгә йыйыу |
+| Рецепт буйынса эшләү | Ҡатыштырыу йәки һеҙ пешергәндә ҡарап торуҙа ярҙам итеү |
+| Бөтә бүлмәне һыпырыу | Бер бәләкәй өҫтәлде һөртөү |
+| Эште бөтөнләй башҡара алмау | Һеҙ эшләгәндә янында ултырыу һәм компания булыу |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Ҡарап торыу ҙа иҫәпкә һуға. NIA кәңәш итеүенсә, кайһы бер кешеләр генә ҡарап тороуҙы ярата, ә был эштә ҡатнашыуҙың яҡшы ысулы.
 
-## How do I keep household tasks safe?
+## Өй эштәрен нисек хәүефһеҙ итергә?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Хәүефһеҙлек беренсе урында тора, айырыуса кухняла. NIA-ның [Альцгеймер менән ҡайғыртыусылар өсөн өй хәүефһеҙлеге кәңәштәре](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) түбәндәге тәҡдимдәрҙе үҙ эсенә ала:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Таҙартыу сараларын, шул исәптән кер йыуыу капсулаларын, ҡулдан ерҙә тотоғоҙ йәки алып ҡуйығыҙ: улар ҡамырға оҡшарға мөмкин.
+- Пышаҡтарҙы, мәкәстәрҙе һәм электр ҡоралдарын ябыҡ урында һаҡлағыҙ.
+- Плитәгә хәүефһеҙлек төймәләре һәм автомат һүндереүсе ҡуйығыҙ.
+- Духовка, тостер һәм ютүк янына «Туҡта» йәки «Бик эҫе» тигән яҙыу ҡуйығыҙ, уларҙы янмаҫ өсөн урынлаштырығыҙ.
+- Өҫтән ышыҡлағыс ҡапланыуҙан һаҡлау өсөн һыу ҡыҙҙырғыстағы температураны 120°F-ға (≈49°C) тиклем төшөрөгөҙ.
+- Ашарға оҡшаған ысын булмаған емештәрҙе һәм аҙыҡ формалы магниттарҙы алып ташлағыҙ, улар ашарға яраҡлы кеүек тойолорға мөмкин.
 
-A few more practical habits help:
+Тағы ла бер нисә практик ғәҙәт ярҙам итә:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Плитә, духовка йәки үткер нәмә эшләтеп ятҡанда бүлмәнән китмәгеҙ.
+- Һауыттарҙы кәфрәгәндә һәм өҫтәлде әҙерләгәндә ватылмай торған һауыттар ҡулланығыҙ.
+- Һыпырғанда йәки себеҙгәндә иҙән ҡоро һәм таҙа булһын.
+- Кеше элек ҡоралдар менән эшләгән булһа, Альцгеймер ассоциацияһы һыуыт эш урынынан хәүефле әйберҙәрҙе алырға кәңәш итә, шул саҡта хәүефһеҙ эш, мәҫәлән, ағасты ҡырҡыу, һаман да ятҡан булыр.
 
-## What if they do it "wrong"?
+## Әгәр улар эште «дөрөҫ түгел» башҡарһа, нишләргә?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Үҙ хәлинә ҡалдырығыҙ. Өсәргә түгел, ә ике ҡатлап бөкләнгән һөлгәк һаман да бөкләнгән һөлгәк була. Альцгеймер ассоциацияһы был хаҡта турыдан әйтә: иң мөһиме — бергә вакыт үткәреү һәм кешенең файҙалы булыуы тойғоһо, һөлгәктәрҙең дөрөҫ бөкләнгәнлеге түгел. Әгәр нәмәне ысынлап та ҡабаттан эшләргә кәрәк булһа, аҙаҡҡа ҡалдырығыҙ һәм күҙҙән ситтә башҡарығыҙ.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Шул мәлдә төҙәтеү, ләззәтле эште юғалтыуҙың иҫкәртеүенә әйләндерергә мөмкин. «Рәхмәт, бик ярҙам иттегеҙ» тигән һүҙҙәр күпселек осраҡта иң дөрөҫ әйтелгән һүҙҙәр була.
 
-## When should we stop?
+## Ҡасан туҡтарға?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Ҡәнәғәтһеҙлек, арыу йәки ҡыҙыҡһыныу юғалыу билдәләре күренгәндә туҡтағыҙ йәки эште алмаштырығыҙ. Вакытынан алда туҡтау — уңышһыҙлыҡ түгел, ә яҡшы һөҙөмтә. Һеҙ:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- еңелерәк аҙымға күсә алаһығыҙ
+- музыка йәки кофе кеүек ял итергә торған нәмәгә күсә алаһығыҙ
+- һуңыраҡ йәки башҡа көндө яңынан һынай алаһығыҙ
+- генә бергә ултыра алаһығыҙ
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Әгәр кеше «юҡ» тип әйтһә, үҙ итмәгеҙ. Уға йомшаҡ яуап биреү юлдары өсөн [ул «юҡ» тигәндә нимә эшләргә](/caregiving/when-they-say-no/) битенә инегеҙ.
 
-## Low-effort extras for a quieter moment
+## Тынғы мәлдә йәнгә яраҡлы өҫтәмә эштәр
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Физик эш мөмкин булмаһа, һортау һәм оҡшатыу ултырып та башҡарыла ала. [Sort Together](/games/sort-together/) ул һеҙгә рәсемдәрҙе ашөй йәки баҡсаһы себеш һауытына һалырға мөмкинлек бирә, ә [Picture Pairs](/games/picture-pairs/) — ҙур рәсемдәр һәм ваҡыт тикшереүһеҙ йомшаҡ оҡшатыу уйыны. [Conversation Cards](/games/conversation-cards/) өйгә һәм ғаиләгә ҡағылышлы асыҡ һорауҙар тәҡдим итә, эш бөткәс кофе эсеү менән оҡшай.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Көндө эштәр менән тулыландырыу тураһында кәңәш алыу өсөн беҙҙең [тыныс көндәлек тәртип](/activities/daily-routine/) буйынса ҡулланмаға ҡарағыҙ. Стадиялар буйынса күберәк идеялар өсөн [урта стадия эшмәкәрлеге](/activities/middle-stage/) битен уҡығыҙ.

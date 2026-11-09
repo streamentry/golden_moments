@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Деменция бугеб инсанаца цӀар гьабизе: гьабулеб ругъун"
+description: "Деменция бугеб инсанаца цӀар гьабизе кӀвечӏаб ругъун: хъвалъ, заман рахъизе, асан тӀадай, цӀар ругъараб гьабизе ва гьабулеб хъиялъ ккола."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  ЦӀар гьабизаб хъиялъ тест ваъ, заман ккола лъикӀаб рикӀкӀиялда. БакӀалда жакъа
+  заман гьабиялъ, кӀиго кьацӀалда гьарилъ рехсоналъ хьабалда, ва гьарилъ асан
+  гьабизе. Инсан рекӀел ккезе заман гьабулел, гьабизе асан хъвалъ дарий кӀвей
+  гьабуларе кӀвечӏаб ругъун, кӀиго ругъараб гьабулел хъинаб тӀадай. Инсан
+  рикӀкӀиялда цӀар лъикӀаб ругъун гьабулел, ва ругъарай бакӀалда бакӀиялда хъвал.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Гьабизе гьабулеб ругъун ккола рикӀкӀиялда ва цӀар гьабизе, гьабулеб хъин ваъ."
+  - "Гьабизе кьолел: кӀиго кьацӀ, лъикӀаб рехсо, рикӀкӀиялда иналъ ва рекӀел ккола, телевизор ччарал, гьабулеб цӀар гьабизе."
+  - "РикӀкӀиялда хьвал гьабизе ккола ваъ. «Гьарай ругъун» ва «Ругъулел» гьабизе ккола."
+  - "ЦӀар ругъараб тӀадай, инсан рикӀкӀиялда кӀиго ругъараб асан гьабизе: кӀиго тӀадай, кӀиго хъвалъ, рекӀел ккола."
+  - "Ругъун хъвалъ «ТӀадай тӀадай...» гьабизе «Хъвалъ дарий...?» гьабизе ваъ, рикӀкӀиялда ругъулел хъвалъ."
+  - "Инсан ругъараб ва тӀадай хъвалъ гьабизе кӀиго асан гьабулеб. Ругъараб асан гьабизе — хъинаб кӀвечӏаб ругъун ккола, хъвалъ ваъ."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "ЦӀар гьабизе гьабулеб заман кӀиго гьарилъ?"
+    a: "Заман гьабизе кӀвечӏаб ругъун ваъ. Гьарилъ инсанаца кӀиго гьабулеб кӀвечӏаб заман ккола, гьарилъ хъиялъ ккола гьабулеб ругъун. Заман ваъ, инсан ругъулел гьабизе, инсан рекӀел ккезе гьабулел."
+  - q: "Инсан гьабизе кьолел, ва гьабулел хъвалъ ругъараб гьабулел гьабизе кӀвечӏаб?"
+    a: "ЦӀар гьабизе ругъун ва ругъаб хъвалъ ваъ, нагърилъ гьабизе гьабулеб ругъун ккола. Инсан ругъулел хъвалъ гьабулел рекӀарал ккола ва гьабулел тӀадай ваъ, нагърилъ иналъ ккезе кьолел гьабизе. Ругъараб гьабулел кӀиго асан гьабулел, ругъараб ваъ, тӀадай гьабулел хъвалъ."
+  - q: "Инсан гьабулел тӀадай кӀиго гьабулеб ругъун?"
+    a: "Инсан ругъулел тӀадай ругъун кӀиго хъвалъ ккола. Национальный институт по старению (National Institute on Aging) гьабулел, инсан гьабулел тӀадай гьабулеб ругъун гьабизе, ругъулел ккола. Гьабулел хъвалъ тӀадай тӀадай ва гьабулел хъвалъ тӀадай."
+  - q: "Ги гьабулеб цӀар тест ккола рикӀкӀиялда?"
+    a: "Ваъ. Ги цӀар асан гьабулеб рикӀкӀиялда ва хъвалъ гьабизе. Ги тест ваъ, гьабулел ва ругъараб ваъ, ва деменция бугеб инсанаца ругъаб ваъ."
+  - q: "Ги гьабулеб кӀиго гьабизе хъвалъ?"
+    a: "Гьабулеб кӀиго асан ругъун гьабизе, инсанаца кӀиго кӀвечӏаб. Picture Pairs тӀадай 4 пикарал ва пикарал рекӀел ккола, ва Find the Same ругъун 2 гьабулеб, кӀиго кӀвечӏаб гьабизе. Conversation Cards гьабулел хъвалъ, инсан гьабулел хъвалъ цӀар кӀиго."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Деменция бугеб инсанаца лъикӀаб цӀар гьабизе ругъараб ваъ, тест тӀадай. Инсан ругъулел, пикарал гьабулел, хъвалъ тӀадай гьабулел, ва гьабулел цӀар ругъулел. ЦӀар гьабизе гьабулеб ругъун ккола заман рекӀел гьабизе.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ги гьабулеб гьабулел ругъун кӀиго гьабулел: гьабизе, заман рахъизе, «кьолел» тӀадай, цӀар ругъараб гьабизе, гьабулел тӀадай, ва гьабизе хъвалъ. Ги ругъун гьабулел [цӀар](/games/) ва гьабулел картаба, пазлаба ва гьабулел ругъун.
 
-## What is the best way to play a game with someone who has dementia?
+## Деменция бугеб инсанаца цӀар гьабизе лъикӀаб ругъун гьарай?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+ЦӀар гьабизе гьабулеб хъиялъ ккола рикӀкӀиялда, гьабулеб ваъ. Ги кӀиго [Alzheimer's Association гьабулел ругъун](https://www.alz.org/help-support/caregiving/daily-care/activities) гьабулел: инсан гьабулел гьабулел хъвалъ гьабизе, гьабизе кьолел кӀвей, ругъараб гьабизе ругъулел ва хъинаб ругъараб гьабизе ккола, хъвалъ гьабулел ваъ.
 
-In practice that means:
+Ругъун гьабулеб:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Гьабулел гьабизе, рекӀел ваъ.** Гьабулеб рехсо, экранал ва столал гьабулел гьабизе, кӀвечӏаб гьабизе ккола.
+- **Гьарилъ цӀар гьабизе.** Гьабулел кӀиго цӀар гьабизе ругъулел гьабулел кӀиго гьабулеб ваъ.
+- **Инсан гьабулел гьабизе.** Гьабулел пикарал гьабизе, гьабулел ругъулел гьабулел, ва гьабулел гьабулел ругъун — гьабулел цӀар гьабизе.
+- **Гьабулел рекӀел, раунд ваъ.** Инсан гьабулел гьабулел кӀиго цӀар гьабизе — ругъун ккола.
 
-## How do I set up before we start?
+## ЦӀар гьабизе гьабулеб хъиялъ гьарай?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+КӀиго кьацӀ рикӀкӀиялда гьабулеб гьабизе, ругъараб кӀиго асан ккола.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Инсан гьабулел заман гьабизе.** [National Institute on Aging (NIA) гьабулел ругъун](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) гьабулел, инсан кӀиго гьабулел заман ругъулел. Гьабулел кӀиго гьабулел тӀадай гьабулел. Ругъараб гьабулел — [рахъ гьабулел кӀиго цӀар](/caregiving/late-day-restlessness/).
+2. **КьацӀ гьабизе.** Телевизор, радио ччара, ва гьабулел кьацӀ гьабизе. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) гьабулел, цӀар гьабизе шумал ва цӀар кьолел ругъун кӀиго асан.
+3. **Гьабулел рекӀел.** Гьабулел цӀар, гьабулел ругъун, кӀиго кӀвечӏаб кресло, очки ва гьабулел ругъун.
+4. **РикӀкӀиялда иналъ.** КӀиго кӀвечӏаб иналъ ва экранал ругъун, пикарал кӀиго гьабулел.
+5. **Гьабулел гьабизе кьолел.** Гьабулел кьолел, гьабулел ругъун — гьабулел тӀадай гьабизе, ва экран гьабулел. [Планшет ва телефон гьабизе](/caregiving/tablets-and-screens/) тӀадай ругъун.
+6. **Устройство гьабулел тӀадай.** Подставка ругъун гьабулел, инсан гьабулел кӀиго гьабулел гьабулел ругъун.
 
-## How do I invite them without pressure?
+## Инсанаца гьабизе кьолел гьарай?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Гьабулел ругъун кӀиго асан, инсан гьабулел гьабизе кьолел. Гьабулел ругъараб:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «БакӀ гьабулел пикарал гьабулел. Гьабулел цӀар гьабизе?»
+- «Гьабулел пазл гьабулел, кӀиго ругъараб ккола. Ги кӀвечӏаб?»
+- «Гьабулел цветы ва птицы гьабулел гьабизе?» (кӀвей гьабулел кӀиго асан, ругъараб ваъ)
+- «Гьабулел открытка гьабулел гьабизе. Гьабулел цвет гьабулел гьабизе?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association гьабулел, гьабулел ругъун кӀиго гьабулел ругъун — гьабулел гьабулел (открытка гьабизе), ругъараб гьабулел, гьабулел ругъун гьабизе.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Инсан гьабулел гьабизе «ваъ» гьабулел, ругъараб ваъ. Гьабулел кӀиго цӀар гьабизе гьабулел, ва гьабулел тӀадай гьабулел. Гьабулел ругъун [инсан ваъ гьабулел гьабизе](/caregiving/when-they-say-no/) гьабулел.
 
-## How long should a game last, and how fast should we go?
+## Заман гьабулел ва гьабулел гьабизе кӀиго?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Инсан хъиялъ заман гьабизе, гьабулел кӀиго кьацӀ заман. ЦӀар гьабизе гьабулеб ругъун кӀиго кӀвечӏаб заман ваъ. Гьабулел 2–5 минут гьабулел тӀадай гьабулел.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Гьабулел кӀиго гьабизе.** NIA гьабулел, инсан кӀиго гьабулел жаваб гьабизе, гьабулел ругъараб. Гьабулел 10 гьабизе, гьабулел рекӀел.
+- **Гьарилъ гьабулел.** Гьабулел кьацӀ гьабулел («Пикара гьабулел»), ва гьабулел. Гьабулел ругъун — кӀиго гьабулел ругъараб.
+- **Гьабулел тӀадай.** Инсан гьабулел пикара гьабулел — цӀар гьабулел кьолел ваъ.
+- **Гьабулел гьабизе.** NIA гьабулел, инсан гьабулел гьабизе кӀиго гьабулел, ва гьабулел ругъун.
 
-## Should I correct wrong answers?
+## Гьабулел жаваб гьабизе ругъараб?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ваъ. Гьабулел кӀиго гьабизе, инсан гьабулел «ругъараб» гьабулел. Alzheimer's Association гьабулел: гьабулел ругъун ваъ, гьабулел ругъараб ваъ. ЦӀар гьабизе, гьабулел ругъараб ккола.
 
-| Instead of | Try |
+| Гьабулел ваъ | Гьабулел |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Ваъ, ругъараб ккола.» | «Гьабулел гьабизе кӀиго.» (NIA гьабулел пример) |
+| «Ругъараб ваъ. Гьабулел гьабизе.» | Ругъараб ваъ, гьабулел тӀадай, ё «Гьабулел гьабулел кӀиго ккола.» |
+| «Гьабулел кӀиго гьабулел?» | «Гьабулел пикара гьабулел рицӀ.» |
+| «Гьабулел гьабулел ругъун.» | «Гьабулел лъикӀаб. Гьабулел гьабизе.» |
+| «Ги гьабулел, ги кӀвечӏаб.» | «Гьабулел тӀадай гьабизе?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Инсан ругъулел ругъараб гьабулел, асан гьабулел. Гьабулел пикара гьабулел, гьабулел гьабулел, ё гьабулел ругъун гьабулел. Гьабулел цӀар ругъараб гьабулел, инсан гьабулел кӀиго гьабулел — кӀвечӏаб гьабулел ва гьабулел.
 
-## How do I make a game easier or harder?
+## Гьабулел асан ё кӀиго ругъараб гьабизе гьарай?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Гьабулел инсан гьабулел гьабизе, ругъун ваъ, гьабулел ругъун. Гьабулел тӀадай гьабулел инсан гьабулел гьабизе. NIA гьабулел кӀиго ругъараб: инсан гьабулел гьабулел ругъун, инсан гьабулел гьабизе.
 
-| Game | Make it easier | Make it a little harder |
+| Гьабулел | Асан гьабизе | КӀиго ругъараб гьабизе |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 пикара гьабулел, пикарал рекӀел | КӀиго пикарал, ё пикарал гьабулел ругъараб |
+| [Find the Same](/games/find-the-same/) | 2 гьабулел | 4 гьабулел |
+| [Sort Together](/games/sort-together/) | Ги пикара гьабулел, инсан корзина гьабулел | Инсан пикара ва корзина гьабулел |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 кусочка, гьабулел пикара хъвалъ | 9 кусочка |
+| [Finish the Saying](/games/finish-the-saying/) | Гьабулел кӀвечӏаб гьабулел, цӀар рицӀ | Инсан гьабулел гьабулел рицӀ |
+| [Word Search](/games/word-search/) | Печать гьабулел, гьабулел гьабулел | Инсан гьабулел гьабулел гьабизе |
+| [Coloring](/games/coloring/) | Ги 2 цвет гьабулел, инсан гьабулел | Инсан гьабулел гьабулел цвет |
+| [Conversation Cards](/games/conversation-cards/) | Пикара гьабулел ругъун | Карточка гьабулел кӀвей гьабулел |
+| [Photo Pairs](/games/photo-pairs/) | Гьабулел гьабулел семейные фото | КӀиго фото |
+| [Picture Bingo](/games/picture-bingo/) | Гьабулел гьабулел инсан | Инсан гьабулел карточка |
+| [Calm Breathing](/games/calm-breathing/) | КьацӀ гьабулел гьабулел | КӀиго гьабулел гьабулел |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Ругъун кӀиго асан: гьабулел кьацӀ хъвалъ, «ваъ» гьабулел, экран тӀадай, ё гьабулел ругъараб. Ругъун кӀиго ругъараб: инсан гьабулел гьабизе, ё гьабулел гьабулел. Гьабулел гьабулел кӀиго — гьабулел ругъун, гьабулел ва инсан гьабулел гьабулел.
 
-## How do I turn a game into a conversation?
+## ЦӀар гьабизе хъвалъ гьарай?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Пикара гьабулел хъвалъ цӀар гьабизе кӀвечӏаб. Инсан гьабулел жаваб — лъикӀаб жаваб.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Гьабулел «Гьарай?» гьабулел.** «Гьабулел гьарай?» «Гьабулел гьарай кӀиго?»
+- **Ги гьабулел кӀвечӏаб.** «Гьабулел дедушка гьабулел собака гьабулел.» Ги гьабулел инсан гьабулел гьабулел.
+- **Гьабулел гьабулел.** Пикара гьабулел машина, ругъараб хъвалъ — гьабулел ругъун. Игра кьацӀ.
+- **Факт гьабизе ваъ.** Гьабулел цӀар, гьабулел ругъараб ваъ. Гьабулел цӀар гьабулел кӀиго лъикӀаб.
+- **Ругъун хъвалъ гьабулел.** [Finish the Saying](/games/finish-the-saying/) гьабулел хъвалъ, [Conversation Cards](/games/conversation-cards/) гьабулел цӀар ругъун. [Photo Pairs](/games/photo-pairs/) ги семейные фото гьабулел — кӀиго гьабулел цӀар.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+КӀиго гьабулел [рекӀарал гьабулел](/activities/reminiscence/) ва [цӀар гьабулел ругъун](/caregiving/communication-tips/).
 
-## When should we stop?
+## Гьабулел заман ккола?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Инсан гьабулел тӀадай ё ругъараб гьабулел, гьабулел кӀиго, кьацӀ гьабулел. Alzheimer's Association гьабулел: инсан рикӀкӀиялда гьабулел кӀиго — ругъун гьабулел.
 
-Watch for:
+Гьабулел тӀадай гьабулел:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- гьабулел, рикӀкӀиялда иналъ гьабулел;
+- гьабулел, гьабулел кӀиго, ё гьабулел гьабизе;
+- ругъараб, «Ваъ, ругъараб» гьабулел;
+- экран тӀадай, ё гьабулел гьабулел;
+- гьабулел, ругъараб, ё гьабулел ругъараб.
 
-How to stop well:
+Гьабулел ругъун:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Гьабулел кьацӀ гьабулел.** Гьабулел ругъун гьабулел, ё гьабулел пикара гьабулел.
+- **Гьабулел ги тӀадай гьабулел.** «Ги чай гьабулел кӀиго. Гьабулел рекӀел?» — гьабулел ругъараб ваъ.
+- **Гьабулел гьабулел тӀадай.** КӀиго гьабулел, гьабулел, ё музыка.
+- **Гьабулел лъикӀаб гьабулел.** «Ги гьабулел гьабизе кӀиго.» Гьабулел ругъун, гьабулел лъикӀаб гьабулел.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Гьабулел ругъун, гьабулел гьабизе, гьабулел рекӀел — гьабулел ккола лъикӀаб.
 
-## Can we play in a group or over a video call?
+## Группаца ё видеозвонокаца цӀар гьабизе ругъараб?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ругъараб, кӀвечӏаб гьабулел. Группа гьабулел, кӀиго инсан; гьабулел тӀадай инсан гьабулел ругъун. [Picture Bingo](/games/picture-bingo/) гьабулел карточка ва гьабулел гьабулел. КӀиго гьабулел — [care home группаби](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Видеозвонокаца гьабулел, звонок гьабулел инсан пикара гьабулел, ва кӀвечӏаб инсан гьабулел. Звонок кӀиго, гьабулел. [Телефон ва видео звонки](/activities/phone-and-video-calls/) гьабулел кӀиго.
 
-## What if a game just isn't working?
+## Гьабулел игра ругъараб ваъ гьабулел?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Гьабулел ругъун гьабулел, гьабулел. Ги гьабулел тӀадай, ё ги гьабулел. Гьабулел заман, гьабулел игра, ё игра ваъ. Музыка, полотенце гьабулел, фотоальбом гьабулел, ё кӀиго гьабулел. КӀиго гьабулел [activity ideas](/activities/ideas/).

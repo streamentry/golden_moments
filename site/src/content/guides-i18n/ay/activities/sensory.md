@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Sentidonakampi lurañanaka demencia jaqinakatak"
+seoTitle: "Demencia sentidonakan lurañanaka: Ideanaka ukat seguridad"
+description: "Demencia jan walt'ayañan jaqinakatak sentidonakampi lurañanaka: llawinak masaje, awayu ch'uñunaka, qalanak ukat jach'a uraqpacha suyt'añanaka, ukat seguridad uñachtʼäwinaka."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Sentidonakan lurañanakax llawin, sapa, lunthatañ, suyt'añ ukat uñjañamp
+  lurapxi: mä jisk'a llawin masaje, mä awayu ch'uñunaka, qalanaka lunthatañatak,
+  uraqpacha suyt'añanaka, jan ukax jach'a kallpa ukan pajaranakaru uñjaña. Taqi
+  etapanakan walikiwa, ukat qhipa pacha juk'amp wali. Nayrar uñjañamawa
+  jisk'achañ, alergiyanaka, arunaka ukat ch'iqi usunaka, ukat mä mä lurañ
+  sapxañamawa; jaqi jan sum sasa ukhax sayt'añamawa.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Sentidonakan lurañanakax janiw chiqapar jawabnaka munapkiti, ukatwa taqi etapanakan, sapa samarañan jan ukax silla patxan lurañ walikiwa."
+  - "Mä sentido sapa kuti, mä isi jisk'a uta ukan lurañamawa; llawinak uñjañat yatiyañamawa jan ukax jiskt'añat sañamawa."
+  - "Jisk'a jaqhañanaka ukat manq'añjam uñtataki jan ukax jaqhañ ch'iqi uñtatanaka jan jaytañamawa, jaqinakax lunthatañ uñjasipxi."
+  - "Crema, jaqhañ ukat ch'uñu jan lurañat sapxañamawa jaqinakax alergiyanaka, ch'iqi usunaka ukat ajayu jan lurañanaka uñjañapataki."
+  - "Aromaterapia demencia usunakar yanapt'istaspa sañ janiw chiqapar yatiqañaw utjkiti; ch'uñu jan sum yanapt'añ sapxañ ukax sumap jiwasan uñtañatakiw, ukhamarak janiw wakisiñkiti."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "¿Kuna sentidonakan lurañanakas walikiwa demencia jaqitakix?"
+    a: "Ch'iqi ideanakax: mä jisk'a llawin masaje cremampi, awayu q'añu apthapiña, menta jan ukax kafe ch'uñu, jaqhañ uñtañ, ajayu uñtañ ukat uraqpacha suyt'añanaka, pájaros jan ukax peces uñjaña, ukat wali munat manq'añ jisk'a khuchhi lup'iñampi. Mä sapa samarañan lurañamawa, ukat jaqi kunjamas sarnaqaski uñjañamawa."
+  - q: "¿Sentidonakan lurañanakax seguro wali sarnaqirinakatakix, jupanakax lunthatañ lunthatañ jaqhapxchi?"
+    a: "Walikiwa, nayrar uñjañampi. Janiw jaqhañ ukanakaru jan ukax ch'iqi ukanakaru jaytañamawa, sapa jaqhañ ukat ch'ukiñ ukanakat jisk'achañamawa, ukat crema, jabun ukat ch'uñu sanakanaka ukakiw jaytañamawa, ukanakax manq'añ ukhamar uñjasipxi. Jaqimp taqi kuti sarañamawa."
+  - q: "¿Aromaterapia demencia usunakar yanapt'istaspa?"
+    a: "Mä Cochrane uñakipäwix janiw chiqapar yatiqañanakaw utjkiti, jan ukax yanapt'añ sapxañ ukax jisk'a yatiqañanakampi, jan chiqapar uñjatäpxi. Jaqix mä jisk'a, jaqinakan wali yatiñ ch'uñu munasaxa, walikiw, ukampis q'ara ajayu janiw jaytañamawa, khuchhi jan ukax alergia usunakan."
+  - q: "¿Kunas fidget ukat jan ukax actividad apron ukax?"
+    a: "Awayu, apron jan ukax khuchhi frazada ukhamawa, uñtatanakampi lurat, sut'a jaqhañanaka, cierres, cintanaka ukat nasipar kallp'anaka sewn sasaw. Llawinakax uñjañ utjañ ukat sarnaqañ chuymaniwa. Sapa kuti uñjañamawa, jan ukax mä apaqañ uñtatanakax ajayuntañ."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Sentidonakan lurañanakax pusi sentidonakampi lurapxi: llokʼampi, ch'iqipampi, manq'apampi, suyt'apampi ukat uñjapampi. Janiw amuyu munañ, janiw mayjt'añanaka, janiw chiqapar jawabnaka munapkiti, ukatwa taqi etapanakan lurasiñ utjaraki. Qhipa pachan juk'amp wali. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) sapxi: qhipa etapanxa jaqix pacha sentidonakampiw uñjaski, ukat llokʼampi, suyt'apampi, uñjapampi, manq'apampi ukat ch'iqipampiw wali munasiñ uñacht'ayasma. Mä qawqha seguridad uñachtʼäwinaka lurañ taqinian sum sarnaqañ ukanakar sum sarañ.
 
-## What are sensory activities for dementia?
+## ¿Kunas sentidonakan lurañanakax demencia tuqi?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Sentidonakan lurañanakax jisk'a uñjañanakawa, sapa mä sentido tuqi, sañ awayu llokʼaña, menta ch'iqiña jan ukax jallu uraqpacha suyt'aña. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) sapxi qhipa etapan lurañanakax sentidonakar yanapt'añapataki wali, ukhamarak musica, llokʼañ ukat llawin masaje lurañanakaw amuyasi. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) sapxi qhipa etapan jaqinakax wali ch'uxña jan ukax ajayu jaytañ munapxi, mä ch'uxña uñtat ajayu ukat sarnaqañ munañanaka.
 
-## Sensory ideas, sense by sense
+## Sentido sapa sentidon ideanaka
 
-### Touch
+### Llokʼaña
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Llawin masaje.** Llawinakam jisk'a cremampi jaqhañama, ukat ch'uxña ch'iqinakaman jallu jallumpi, muñuñ ukat ch'iqinakat t'aqäwi kamaka. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) sapxi, ch'uñu jan lurat cremampi masaje lurañan ch'uxña sañ.
+- **Awayu canasta.** Jach'a terciopelo, corduroy, fleece, satén ukat lana awayu ch'uñunaka llokʼañ, pawañ ukat parlañatak.
+- **Ch'iqi q'añu tamasu.** Ch'uxña, junt'u q'añu tamasu, llawinakan sapa kuti, jallu ch'iqi uñtatas jisk'a ch'iqinaka. Nayra ch'iqimpi, ñuqaman muñuñaman amuyam.
+- **Awayu jan jaytañ jan ukax frazada apron.** Jach'a sut'a jaqhañanaka, cierres, cintas ukat nasipar uñtatanaka, sewn sasaw.
+- **Pawañ ukat ch'uyt'añ.** Q'añu, jan ukax servilletanaka ch'uxña canasta, pawañ, apthapiña ukat jaytañ.
+- **Lunthataña awayu.** Fleece manta, cojín jan ukax chiqapar uywa awayu, sapa uñtatatak, janiw jugueteñ.
 
-### Smell
+### Ch'iqi
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Ch'uñu menta, romero, albahaca jan ukax lavanda.** Ch'uñu ch'iqinakap llawin sapa ch'iqimpi t'aqaña, ukat uñjañamawa.
+- **Manq'ana ch'iqinakax.** Kafe ch'iqiña, pan ch'iqiña, canela jan ukax naranja q'ara lakhapata qhipa.
+- **Phuqhanaka.** Uraqpacha jan ukax tienda uraqpacha phuqhanaka mä jisk'a apaña.
+- **Yatiñ jaqhañ.** Jupanakan ukat ukhamarak wali yatiqañ jaqhañ, jan ukax crema, piel jan sum sasa ukhax.
 
-### Taste
+### Manq'a
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Wali munat manq'a.** Jisk'a cucharamp manq'a munat, sapa jan ukax ch'iqi manq'a, achu ukat sum manq'a, ch'uñu manq'añ sum.
+- **Sum panadería.** Frutas ukat jisk'a azúcar tastaña, mayni tuqi panadería lurasa.
+- **Pacha manq'anaka.** Sandía verano, sidra invierno, ch'uñu tiempo sum uñjasa.
 
-### Sound
+### Suyt'aña
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Wali munat musica.** Yatiñ taqiñ, jisk'a jach'a sut'a; [musica lurañanaka](/activities/music/) uñjañamawa.
+- **Uraqpacha suyt'añanaka.** Jallu, qutu jan ukax jara, pájaros suyt'añ. NIA sapxi musica, uraqpacha suyt'añanaka ukat jisk'a ch'uñu sapa jaqinakaru samarañ.
+- **Arsutamp.** Ch'iqi taqiñ, jan ukax mä yatiqäwi arst'añ.
+- **Jisk'a instrumentos.** Mä tambor, sonaja jan ukax campanilla, musica ukan sarañ.
 
-### Sight
+### Uñjaña
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Ventana uñjaña.** Pájaros comedero ventana ukan, uta sarañ wawanaka jan ukax jallu ch'iqi.
+- **Peces tanque jan ukax jisk'a video.** Jisk'a ch'uxñ jan jach'a suyt'añ.
+- **Jach'a fotonaka.** Mä sapa ch'iqi uñjaña, nayra uñtat jisk'a.
+- **Ch'uxña ukat uñtatanaka.** Ch'uxña awayu, phuqhanaka jan ukax servilletanaka uñjañ, jan ukax [coloring](/games/coloring/) sapa uñjaña.
+- **Jaya uñjaña.** NHS sapxi sentido jardínanaka ch'uñu, ch'uxña uraqpacha ukat yakha ukanakaw. Uñjañamawa [outdoor and gardening activities](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## ¿Kunjamas sentido caja lurasa?
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Mä tema akanakar ajlt'añamawa** jaqin uñjasiñ sarnaqañapat: uma jach'a, uraqpacha, manq'a uta, taller, ch'uñu.
+2. **Pä jan ukax pusi jach'a, sum jaqhañ** ajllt'añamawa, sapa mä jach'a conchita, mä ch'iqi cuchara, mä jisk'a awayu, mä lavanda chuyma, jan ukax mä llapjatu aynacha.
+3. **Taqi jaqhañ uñjañamawa** jisk'a ch'iqinaka, q'ara ch'iqinaka, wak'a jaqhañ ukat jaqhañ ch'iqinaka jan ukax wali jisk'a.
+4. **Sapa kuti mä jaqhañ apaña**, jaqi uñjañapataki, ukat jaqi uñtañapataki.
+5. **Qhipa pachan kuna lurañ**, sum sarnaqañapataki, ukat mayni pacha jaqhañ uñjañamawa.
 
-## Safety first
+## Nayrar seguridad
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Sentidonakan lurañanakax jisk'a, ukampis ch'iqi jan walinak utjaraki. Demencia jan walt'ayañan jaqinakax manq'añjam uñtatanakar manq'añjam uñtapxi, ukat manq'añ ukax qhipa pachan jan sum utjaraki; NIA sapxi qhipa etapan manq'añ ukax ch'ukiñ jan ch'iqi ukanakaru jaytañ ukat ch'iqi usunakar yanapt'añ.
 
-| Risk | What to do |
+| Risk | Kunjamas lurañ |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Ch'ukiñ | Jisk'a jan manq'añ ukanakap ukat. Janiw botónanaka, cuentanaka, monedanaka, canicanaka jan ukax jisk'a jugueteñ caja ukan. Manq'añ ukax mä ch'iqi manq'añ sapxapxi ukanakak. |
+| Manq'añ uñtatanakax | NIA sapxi crema, jabun, champú ukat perfume, manq'añjam uñtatanaka jan ukax khuchhi jisk'a. Ch'uñu jan jaytañamawa ukanakax wali uñjañ. |
+| Alergiyanaka | Nuez, latex, lana, phuqha jan ukax perfume alergias uñjañamawa lurañ qalta. |
+| Jach'a ch'iqinakax | Jach'a perfume jan ukax ch'uñu usunaka jan jaytañamawa, khuchhi asma jan ukax ajayu usunaka. Jisk'a, natural ch'iqinakax walikiwa. |
+| Piel | Masaje lurañ qhipa piel ch'iqinaka, jan ukax chhajra uñjañamawa. Jisk'a ch'iqinakampi, jan ukax jan sum sasa ukhax sayt'añamawa. |
+| Temperatura | Ch'uñu awayu jan ukax ch'uñu uma llawin ch'iqi uñjañamawa. |
+| Jach'a ukat jan walt'ayañ | Jach'a uta, vidrio jan ukax jan walt'ayañ craft sapa. |
 
-## Does aromatherapy help?
+## ¿Aromaterapia yanapt'istaspa?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Janiw uñjatäkiti ukat janiw chiqapar yanapt'añ. [Cochrane uñakipäwi aromaterapia tuqi demencia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) uñjatarakiw 13 yatiqañanaka, 708 jaqinakampi, taqiniw care homes ukankirakiwa, ukat janiw chiqapar yanapt'añ uñjatäkiti. Yatiqañanakax jisk'a, uñjañanakax jan sapxi, ukat jan walt'ayañanakax jan sum qillqatäpxi. Jaqix mä jisk'a, yatiñ ch'uñu munasaxa, jupa sapa ch'iqi uñtañ jan ukax menta ch'iqi, lunthatañ ch'uxña. Janiw tratamiento ukkiti.
 
-## How to offer a sensory activity
+## ¿Kunjamas sentido lurañ uñjañ?
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Mä sum ch'iqi ajllt'añamawa** ukat TV jist'arañamawa.
+- **Nayrar uñjañamawa,** sutip sapxañamawa, ukat llokʼañ nayra jiwasa sapxañamawa: "Crema utjiw. ¿Munatati llawinak masaje?"
+- **Mä sapa mä lurañ** sapa kuti, jan ukax jaqi jan jaytañ.
+- **Uñjañamawa ukat uñjasiñ.** Ch'iqi uñtat, llawinak muñuñ jan ukax t'aqä ch'iqi walikiwa. Jaytañ, sayt'añ jan ukax jiskt'añ ukax sayt'añamawa.
+- **Jisk'a lurañamawa.** Pusi sapa khuchhi sum sarnaqañ walikiwa.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Mä suyt'aña sarnaqañ, [calm breathing](/games/calm-breathing/) ukat sapxi, sum tukuña ukhamawa. Yatiñ jaqhañ sartawinak, [late-stage activities](/activities/late-stage/) uñjañamawa; qhipa pacha jiskt'añanakax, [late-day restlessness](/caregiving/late-day-restlessness/) uñjañamawa.

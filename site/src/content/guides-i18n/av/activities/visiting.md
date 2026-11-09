@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Визит к деменция бугеб инсаналъе: бугеб ц1ар ва бахъинабизе"
+seoTitle: "Деменция бугеб инсаналъе визит: мун гьабизе ва мун бахъизе"
+description: "Деменция бугеб инсаналъе памятный уход, рехсарал йа больница ахъе визит гьабизе: мун бахъизе, сабаб къагӏидал ва дандекIан визит ва рахъинаб гьабизе."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Деменция бугеб инсаналъе памятный уход йа больница ахъе визит гьабулъи, сад
+  гьеч: вуго рукIана нужер ц1ар гьабе, бахъе бугеб нужер сабаб тIаса мун,
+  музыка йа гьабулеб ц1ар ва сад асари гьабе. Дандекълъи, регулярно гьабулеб
+  короткий визитал мегьамлъи ахъе. Рахъинаб калм ва регулярно гьабе, гьаб
+  ца тIаса нужер хъвасан рукIана дандекIан асан.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Инсаналъе ц1ар гьабе ва нуж ву гьабе, рукIана ахъе: 'Салам, ина, зун Сюзан ву, нуж хъвала.'"
+  - "Сад йа кIиго ц1ар бахъе, мун: фотоальбом, мегъаб музыка, мухъ йа рукъал тIаса мун бахъи."
+  - "Короткий, регулярно визитал дандекIан мегьамлъи ахъе. Нужер гьабулеб гьабизе мегьамлъи."
+  - "Больницаялда персоналалъе инсаналъе тIаса хIалалъи сад ругӏа бахъе ва врачалъе сад гьабалъи рукIана бичIана."
+  - "Нуж рахъинаб бечелъи тIаса: рукIана нужер ц1ар гьабе, сад гьабулеб гьабулъи ахъе ва дандекIан ахъе ахъе бечIана."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Деменция бугеб инсаналъе визит гьабулъи мун бахъизе?"
+    a: "Гьабулеб ц1ар бахъе, гьабулеб ц1ар бахъе ва сад. Кичилъи фотоальбом, мегъаб музыкалъи плейлист, мухъ, къо масло йа гьаб тIаса гьабулеб сад мухъ — персонал сабаб гьабизе. Рехсарал фотоба ва гьабулеб рукъ комнатаялда мегьамлъи хъвасан ахъе."
+  - q: "Деменция бугеб инсаналъе визит тIаса дандекIан ахъе?"
+    a: "Гьабулъи бечIана. Гьабулеб бичIана, ярусалъи дандекIан ахъе, куца визит ахъе гьабулеб дандекIан. Инсан тIаса хIалалъи тIасан ахъе, ахъе ва бичIана: гьабулеб визит мегьамлъи хъвасан тIаса тIасан ахъе."
+  - q: "Инсан 'рехсаралъе вац' гьабизе бугеб, цо ц1ар бичIана?"
+    a: "Ц1ар бакIан бичIана, гьабулеб рукIана бичIана. 'Зун рехсарал вац' гьабулеб 'зун мегьамлъи хъвасан вацIа' гьабулеб. 'Нужер рехсарал тIаса гьабе' гьабе, фотоба йа сад гьабулъи вац. Гьабулеб ц1ар гьабизе ва гьабулъи тIасан бичIана."
+  - q: "Инсан нужер хIалалъи бичIана йа?"
+    a: "Гьабулеб бичIана, гьабулеб ц1ар бичIана 'Нуж бичIана йа?' гьабизе. РукIана ц1ар гьабе ва дандекIан визит гьабе. Инсан нужер хIалалъи бичIана, гьабулеб визит тIаса мегьамлъи хъвасан ахъе."
+  - q: "Больницаялда нужер тIаса мун гьабизе?"
+    a: "Инсан тIаса бичIана, гьабулеб гьабулъи тIасан ахъе, мухъ ва рукъ фотоба. Персоналалъе инсан тIаса гьабулеб ц1ар, гьабулеб ц1ар, гьабулеб ц1ар ва бичIана тIасан бахъе. Инсан сад гьабулъи йа кIвалалъи бичIана — врачалъе бегIана."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Памятный уход, рехсарал йа больница ахъе инсаналъе визит гьабулъи нужер цIалъе ц1ар бечIана. Нуж бичIана ва мун гьабизе, визит бечIана мун гьабулеб. Гьабулъи — визит мегьамлъи. Национальный институт старения (National Institute on Aging) гьабулеб, Альцгеймера бугеб инсан [мегьамлъи дандекIан](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) даже тIаса нуж бичIана. Гьаб бет визит тIаса: гьабулъи, гьабулъи ва визит тIасан, больницаялда рахъинаб.
 
-## How do I get ready for a visit?
+## Визиталъе гьабулъи мун?
 
-A little planning makes the visit easier for both of you.
+Сад планирование визит ахъе.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Бечелъи хъвасан.** Dementia Australia гьабулеб: инсан гьабулеб бичIана, бегIана ва гьабулъи бечIана. Family Caregiver Alliance гьабулеб: [свободное время](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) гьабулъи, ахъе ахъе.
+- **Персонал тIаса гьабулъи.** Инсан бегIана гьабулъи, еда, животные ва прогулка тIасан.
+- **Визит сумка.** Сад йа кIиго ц1ар гьабулеб.
+- **Тема.** Инсан хабар бичIана, нуж сад тема: рукъ, погода, мегъаб случай.
+- **Нужер ожидание.** Сад визит мегьамлъи, сад калм. Обе нормально.
 
-## What should I bring?
+## Мун бахъи?
 
-Bring things to share, not things that test. Good choices include:
+Бахъе ц1ар гьабулеб, ц1ар тIаса гьабулеб. БичIана:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Фотоальбом** кичи, ясный фото. Фотоба персоналалъе тIасан ахъе.
+- **Плейлист** мегъаб музыка телефонал, наушники йа кичи колонка.
+- **Мягкое рукъ**, гьабулеб пледи, шарф йа кофта.
+- **Крем рукъе**, рукъ массаж гьабулъи, инсан бичIана.
+- **Журнал йа книжка** гьабулеб тIасан: садовод, машина, птица, еда.
+- **Мегъаб сад мухъ**, персонал гьабулеб.
+- **Комнатаялда рукъ.** Family Caregiver Alliance гьабулеб: цветы, растения, семейный фото, плакат.
+- **Планшет** фотоба ва гьабулеб игра.
 
-## What can we do together during a visit?
+## Визит гьабулъи мун гьабизе?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Сад гьабулъи разговор тIаса. Dementia Australia гьабулеб: фото, гьабулеб крафт, семена, музыка, сад мухъ, прогулка.
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Фото гьабе.** Ц1ар гьабе: "Гьаб шляпа бичIана." "Гьаб пляж мегъаб." Инсан тIасан гьабе. "Гьаб ву?" гьабулъи бакIан.
+2. **Музыка ва песня.** Гьабулеб песня мегьамлъи, разговор бичIана гьабулъи.
+3. **Кичи прогулка.** Family Caregiver Alliance гьабулеб: сад, бакIан. Коляска бахъе гьабулъи тоже прогулка.
+4. **Рукъ массаж.** Кичи масло ва калм рукъе.
+5. **Гьабулеб рукъ.** Dementia Australia: волосы, ногти, гьабулеб одежда, инсан гьабулъи.
+6. **Сад игра.** Карты, домино, инсан гьабулеб игра. Планшетал [Picture Pairs](/games/picture-pairs/) фото видимо, таймер бичIана. [Photo Pairs](/games/photo-pairs/) нужер фото тIаса игра гьабе, фото нужер браузерал тIасан.
+7. **Сад фильм.** Комедия ва старый фильм. Инсан бичIана бакIан, нуж тIасан бегIана.
+8. **Ц1ар гьабе.** Кичи стих, гьабулеб ц1ар, семьялъе письмо.
+9. **Сад тIасан.** Рукъ бахъе йа калм тIасан бегIана — обе визит ву. Alzheimer's Association гьабулеб: ц1ар бичIана ахъе нормально, нуж бичIана мегьамлъи.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) — разговор бичIана ахъе. Сад карта фото ва вопрос.
 
-## How should I talk during the visit?
+## Визит гьабулъи мун гьабизе ц1ар?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Сад раз нужер ц1ар гьабе.** "Салам, баба, зун Марк ву, нуж хӏалтӏи." NIA гьабулеб: визитор кичи ц1ар гьабе.
+- **Кьадал бегIана** ва инсан бичIана дараж, гьабулъи тIасан.
+- **Ц1ар бичIана, гьабулъи бичIана.** NIA гьабулеб: инсан ц1ар ва гьабулъи бичIана — бичIана.
+- **Сабур гьабе**, ц1ар бичIана ахъе. Мегьамлъи вакIт бахъе.
+- **БичIана ц1ар.** Инсан бичIана йа гьабулеб, бичIана гьабулъи бакIан.
+- **Квиз вопрос бакIан:** "Нуж зун бичIана?" йа "БакIан что ахъе?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+[Коммуникация тIасан](/caregiving/communication-tips/) — тIасан ахъе.
 
-## What do I do when they say "I want to go home"?
+## "Зун рехсарал вац" гьабулеб тIасан мун гьабизе?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Ц1ар гьабулъи чувство тIаса гьабе ([инсан рехсарал вац гьабулеб](/caregiving/asking-to-go-home/) тIасан). Family Caregiver Alliance гьабулеб: "Зун рехсарал вац" — "зун бичIана рукIана" гьабулъи. Гьабулъи: "Нужер рехсарал тIасан ц1ар гьабе" йа "Рехсарал мегъаб бичIана?" Dementia Australia гьабулеб: "рехсарал" гьабулъи вакIт йа бакIан, инсан бегIана, например детство.
 
-Try:
+Гьабе:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- чувство тIаса: "Нуж рехсарал бичIана, гьабулъи."
+- калм рукъ тIаса, инсан тIасан
+- фото йа семейный дом тIасан ц1ар
+- прогулка, сад мухъ йа сад еда
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Гьабулъи йа ц1ар бичIана — тIасан бичIана, мегьамлъи дараж.
 
-## How long should a visit be?
+## Визит бечIана мун?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Кичи ва дандекIан визит гьабулъи. Family Caregiver Alliance гьабулеб: инсан бичIана, нуж пять минут йа пять часа визит гьабулеб, нужер неделя кIиго короткий визит — цо длинный визит тIаса мегьамлъи.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Memory care-ялда сад неделя гьабулъи дандекIан визит, потом регулярный режим.
 
-## How do I leave without upsetting them?
+## Ахъе гьабулъи калм?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Уходи бичIана гьабулъи. Dementia Australia гьабулеб:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Визит гьабулъи ахъе бичIана ц1ар.** "Зун сад час бегIана, потом магазин."
+- **Активность тIаса конец.** "Гьаб песня ахъе, зун бегIана."
+- **Еда йа активность тIасан.** Персонал тIасан инсан другой тIасан.
+- **Гьабулъи короткий, калм, сад хъвасан.** Долго бичIана ц1ар.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Визит ахъе нужер бичIана грусть. Рехсарал бегIана. Инсан тIаса гьабулъи бичIана — персонал тIасан бахъе.
 
-## Visiting someone with dementia in the hospital
+## Больницаялда деменция бугеб инсан тIасан визит
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Больница мегъаб, неизвестный, гьабулеб инсан бичIана. NIA [гьабулеб](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital):
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Инсан тIасан бегIана** насколько возможно: семья, доверенный, нанятый уход.
+- **Персоналалъе бахъе сад хIалалъи.** Инсан рутина, гьабулеб ц1ар, любимое, нелюбимое, сигналы боли. Бахъе комнатаялда ва сестринский пост.
+- **Еда ва вода тIасан.** Пожилые больницаялда недоедать. Контейнер открыть, еда, вода.
+- **Гьабулеб тIасан вещи:** фото, религиозный предмет.
+- **Шум кичи.** ТВ бичIана, телефон ва интерком кичи.
+- **Калм ритуал:** музыка, книга, молитва, песня, старый фото.
+- **Движение тIасан,** безопасно, персонал тIасан.
+- **Врачалъе сразу бичIана.** NIA гьабулеб: резкая сильная спутанность (делирий) — инфекция, температура, обезвоживание йа лекарство — медицинская помощь.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Калм визит, гьабулеб лицо ва любимая песня — больница дня самое гьабулеб.
 
-## Bringing children on a visit
+## Детей тIасан визит
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Дети тоже гьабулъи тепло. Заранее простые, честные ц1ар гьабе, визит короткий, ребенку дело дай: рисунок, фото. NIA гьабулеб: фотоальбом, музыка — дети ва инсан вместе. Dementia Australia: кичи сумка сладости йа тихие игрушки.
 
-## Take care of yourself too
+## Нуж тIасан заботиться
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Визит устать гьабулъи, эмоционально. БичIана нормально: реже визит, друг тIасан, рано уйти трудный день. Заботиться тIасан: [уход за собой](/caregiving/caregiver-self-care/). Далеко живете — [звонки и видеозвонки](/activities/phone-and-video-calls/).
