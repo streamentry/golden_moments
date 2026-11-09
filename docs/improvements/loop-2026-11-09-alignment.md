@@ -6,7 +6,7 @@ Purpose: the same loop prompt as [loop-2026-11-08.md](loop-2026-11-08.md). Earli
 
 Standard searches and one page fetch. Snippets are not evidence on their own.
 
-1. **AbilityNet, "Designing for Dementia" (2025 factsheet, read as a search snippet):** "Where possible, use left-aligned text, and avoid centred or fully justified text." Source: <https://abilitynet.org.uk/factsheets/designing-dementia>.
+1. **AbilityNet, "Designing for Dementia" (2025 fact sheet, read as a search snippet):** "Where possible, use left-aligned text, and avoid centred or fully justified text." Source: <https://abilitynet.org.uk/factsheets/designing-dementia>.
 2. **W3C WAI, "Developing Websites for Older People" (snippet):** avoid fully aligned text (technique C19) and text style that makes reading harder for older people. Source: <https://www.w3.org/WAI/older-users/developing/>.
 3. **Image and link wording:** checked the built site for images without alt text (none; 79,855 images have `alt=""`. The pictures page checked by hand pairs each one with a visible name, so the empty alt is correct there, but the other pages were not checked one by one), duplicate IDs (none in 11,823 pages), and ARIA or in-page references to missing IDs (none). These checks conform, so no change.
 
