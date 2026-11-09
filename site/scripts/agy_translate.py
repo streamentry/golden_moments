@@ -76,18 +76,23 @@ def plural_cats(bcp47: str) -> list[str]:
         return ['other']
 
 
-MAX_JOBS = 10  # never more than 10 agy/opencode processes at once
+MAX_JOBS = 5  # never more than 5 agy/opencode processes at once
 slots = threading.BoundedSemaphore(MAX_JOBS)
 
 
 _rr = itertools.count()
 BACKENDS = ['agy', 'opencode']  # primary pool
-# Fallback: used only while 'opencode' is rate-limited; once opencode's health check passes it drops out again.
-FALLBACK = {'opencode': 'deepseek'}
-ALL_BACKENDS = ['agy', 'opencode', 'deepseek']
+# Fallbacks: join the pool only while 'opencode' is rate-limited; once opencode's health check
+# passes they drop out again. The two *free* models are separate quota buckets from the paid
+# opencode-go and explabs ones, and are DeepSeek / GLM flash models of comparable quality.
+FALLBACKS = ['iceman', 'deepseek', 'dsfree', 'glmfree']
+ALL_BACKENDS = ['agy', 'opencode', *FALLBACKS]
 OPENCODE_MODEL = 'opencode-go/claude-haiku-5-5'
 DEEPSEEK_MODEL = 'explabs/deepseek-v4.1-flash'
-MODEL_FOR = {'opencode': OPENCODE_MODEL, 'deepseek': DEEPSEEK_MODEL}
+DEEPSEEK_FREE_MODEL = 'opencode/deepseek-v4.1-flash-free'
+GLM_FREE_MODEL = 'opencode/glm-5.3-flash-free'
+ICEMAN_MODEL = 'opencode-go/iceman-contributor-free'
+MODEL_FOR = {'opencode': OPENCODE_MODEL, 'deepseek': DEEPSEEK_MODEL, 'dsfree': DEEPSEEK_FREE_MODEL, 'glmfree': GLM_FREE_MODEL, 'iceman': ICEMAN_MODEL}
 QUOTA = re.compile(r'RESOURCE_EXHAUSTED|\b429\b|\b402\b|provider\.quota|usage limit|quota|insufficient funds|rate.?limit|too many requests|overloaded', re.I)
 AUTH = re.compile(r'authentication required|not logged in|unauthorized|invalid api key|\b401\b|\b403\b', re.I)
 fails: dict[str, int] = {}
@@ -111,34 +116,65 @@ class BackendError(Exception):
         self.kind = kind  # 'quota' | 'auth' | 'error'
 
 
+def _run_opencode(argv: list[str], cwd: str, timeout: int) -> str:
+    """Run opencode and read its JSON event stream as it arrives.
+
+    When a provider is rate-limited, opencode emits a `retry` event and then waits silently
+    until `nextRetryAt` (often 15+ minutes). Waiting that out looks like a hang, so a retry
+    event with a rate-limit or quota error ends the call at once as a quota error, with the
+    wait carried in the message so the cooldown can honour it."""
+    proc = subprocess.Popen(argv, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, text=True, cwd=cwd)
+    timer = threading.Timer(timeout, proc.kill)
+    timer.start()
+    text, err, quota_msg = [], '', ''
+    try:
+        for line in proc.stdout:
+            try:
+                ev = json.loads(line)
+            except ValueError:
+                continue
+            kind = ev.get('type')
+            if kind == 'text':
+                text.append(ev.get('part', {}).get('text', ''))
+            elif kind == 'error':
+                err = json.dumps(ev.get('error', ev))
+            elif kind == 'retry':
+                detail = json.dumps(ev.get('error', ev))
+                if QUOTA.search(detail) or 'rate-limit' in detail:
+                    wait = max(0.0, (ev.get('nextRetryAt', 0) - ev.get('timestamp', 0)) / 1000)
+                    quota_msg = f'{detail[:160]} retry in {int(wait)}s' if wait else detail[:200]
+                    proc.kill()
+                    break
+        proc.wait()
+    finally:
+        timer.cancel()
+        if proc.poll() is None:
+            proc.kill()
+    answer = ''.join(text).strip()
+    if quota_msg and not answer:
+        raise BackendError('quota', quota_msg)
+    if proc.returncode is not None and proc.returncode < 0 and not answer:
+        raise BackendError('error', 'timeout')
+    if err and not answer:
+        raise BackendError('quota' if QUOTA.search(err) else 'auth' if AUTH.search(err) else 'error', err[:200])
+    if not answer:
+        raise BackendError('error', 'empty output')
+    return answer
+
+
 def _run(backend: str, prompt: str, cwd: str, timeout: int) -> str:
     """Run one backend; return the answer text or raise BackendError with a classified kind."""
     if backend == 'agy':
         argv = ['agy', '--model', MODEL, f'-p={prompt}']
     else:
-        argv = ['opencode', 'run', '-m', MODEL_FOR[backend], '--format', 'json', prompt]
+        argv = ['opencode', 'run', '--agent', 'translator', '-m', MODEL_FOR[backend], '--format', 'json', prompt]  # 'translator' = tool-less agent in ~/.config/opencode/opencode.json
+    if backend in MODEL_FOR:  # opencode CLI: JSON event stream on stdout
+        return _run_opencode(argv, cwd, timeout)
     try:
         r = subprocess.run(argv, capture_output=True, text=True, cwd=cwd, timeout=timeout)
     except subprocess.TimeoutExpired:
         raise BackendError('error', 'timeout')
     raw = r.stdout + r.stderr
-    if backend in MODEL_FOR:  # opencode CLI: JSON event stream on stdout
-        text, err = [], ''
-        for line in r.stdout.splitlines():
-            try:
-                ev = json.loads(line)
-            except ValueError:
-                continue
-            if ev.get('type') == 'text':
-                text.append(ev.get('part', {}).get('text', ''))
-            elif ev.get('type') == 'error':
-                err = json.dumps(ev.get('error', ev))
-        answer = ''.join(text).strip()
-        if err and not answer:
-            raise BackendError('quota' if QUOTA.search(err) else 'auth' if AUTH.search(err) else 'error', err[:200])
-        if not answer:
-            raise BackendError('error', ('empty output ' + r.stderr[-200:]).strip())
-        return answer
     answer = r.stdout.strip()
     # agy prints errors as AGY_ERROR / "Error:" lines instead of an answer
     if (not answer or answer.startswith(('AGY_ERROR', 'Error:', 'error:'))) or (r.returncode != 0 and len(answer) < 400):
@@ -169,7 +205,7 @@ def health_check_loop(every: int = 600) -> None:
 def agy(prompt: str, timeout: int = 900) -> str:
     """One translation call, alternating agy and opencode.
 
-    While opencode is rate-limited, DeepSeek (explabs) joins the pool in its place and
+    While opencode is rate-limited, the FALLBACKS (DeepSeek on explabs, plus the free DeepSeek and GLM models) join the pool in its place and
     leaves again as soon as opencode is usable. Quota errors put that backend on a cooldown
     and use the others; auth errors disable it for an hour. Only when nothing is usable does it wait."""
     wait = 30
@@ -177,8 +213,8 @@ def agy(prompt: str, timeout: int = 900) -> str:
         now = time.time()
         with dis_lock:
             pool = list(BACKENDS)
-            if FALLBACK['opencode'] and disabled_until.get('opencode', 0) > now:
-                pool.append(FALLBACK['opencode'])
+            if disabled_until.get('opencode', 0) > now:
+                pool.extend(FALLBACKS)
             usable = [b for b in pool if disabled_until.get(b, 0) <= now]
         if not usable:
             nxt = min(disabled_until.values()) - now
@@ -479,7 +515,7 @@ def main():
     ap.add_argument('cmd', choices=['status', 'run'])
     ap.add_argument('--kinds', default='ui,games,play,guides')
     ap.add_argument('--langs', default='')
-    ap.add_argument('--jobs', type=int, default=5, help='parallel tasks, capped at 10')
+    ap.add_argument('--jobs', type=int, default=5, help='parallel tasks, capped at 5')
     ap.add_argument('--limit', type=int, default=0)
     a = ap.parse_args()
     meta = locale_codes()
@@ -496,15 +532,32 @@ def main():
         todo = todo[:a.limit]
     cats = {}
 
+    lang_ok: dict[str, int] = {}
+    lang_bad: dict[str, int] = {}
+
     def work(t):
         k, c, r = t
-        lang = {'code': c, 'english': meta[c]['english'], 'native': meta[c]['native']}
-        if k == 'guides':
-            return t, translate_guide(lang, r)
+        # Circuit breaker: a language that fails 3 times with no success yet this run (for example
+        # a liturgical language the model declines to write) is skipped, so it stops burning quota.
         with lock:
-            if c not in cats:
-                cats[c] = plural_cats(meta[c]['bcp47'])
-        return t, str(translate_json(k, lang, cats[c]))
+            if lang_bad.get(c, 0) >= 3 and not lang_ok.get(c, 0):
+                raise RuntimeError(f'skipped {c}: 3 failures and no success this run')
+        lang = {'code': c, 'english': meta[c]['english'], 'native': meta[c]['native']}
+        try:
+            if k == 'guides':
+                res = t, translate_guide(lang, r)
+            else:
+                with lock:
+                    if c not in cats:
+                        cats[c] = plural_cats(meta[c]['bcp47'])
+                res = t, str(translate_json(k, lang, cats[c]))
+        except Exception:
+            with lock:
+                lang_bad[c] = lang_bad.get(c, 0) + 1
+            raise
+        with lock:
+            lang_ok[c] = lang_ok.get(c, 0) + 1
+        return res
 
     threading.Thread(target=health_check_loop, daemon=True).start()
     done = 0

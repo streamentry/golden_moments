@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Taem Man we i Stap wetem Dementia i Askem Sem Kwestin Bakegen mo Bakegen"
+seoTitle: "Dementia mo Kwestin Bakegen: Wanem blong Talem"
+description: "From wanem man we i stap wetem dementia i askem sem kwestin bakegen mo bakegen, ol kwaet wei blong ansa, ol simpol tul we oli help, mo taem wan jenis we i kam kwik i nidim dokta."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Ol kwestin we oli kam bakegen mo bakegen oli stap plante taem long dementia:
+  plante taem man ia i no save se hem i bin askem finis, mo kwestin ia i save
+  karem wan wari. Ansa long kwaet mo sotfala toktok olsem se hem i fas taem,
+  ansarem filing we i stap biaen, mo neva talem "yu bin askem finis." Raetem
+  ansa long wan ples we hem i save luk, tokbaot ol samting we bambae oli hapen
+  smol taem nomo bifo, mo askem hem blong mekem wan aktiviti we hem i laekem.
+  Wan jenis we i kam kwik i nidim dokta.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Plante taem man ia i no save se hem i bin askem finis; hem i no mekem long tingting."
+  - "Plante taem kwestin ia i haedem wan filing, olsem wari long wan miting o wantem harem se hem i sef."
+  - "Ansa long kwaet, sot mo kaen fasin, olsem se hem i fas taem. Neva talem \"yu bin askem finis.\""
+  - "Wan not, waetbod, klok o kalenda we hem i save luk i save givim ansa blong yu."
+  - "Tokbaot ol samting we oli save mekem man i wari smol taem nomo bifo oli hapen."
+  - "Tekem smol spel taem yu nidim, mo ring long dokta sapos i gat eni jenis we i kam kwik."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "From wanem papa blong mi we i stap wetem dementia i stap askem sem kwestin bakegen mo bakegen?"
+    a: "Dementia i afektem sot taem memori, so hem i tru se hem i maet no save se hem i bin askem o hem i bin harem ansa. Plante taem kwestin ia i karem tu wan filing, olsem wari long wanem bambae i hapen nekis o nid blong harem se samting i oraet. Taem yu ansarem filing ia, plante taem i help moa bitim we yu ripitim ol fakt nomo."
+  - q: "?Mi mas talem long hem se hem i bin askem finis?"
+    a: "Nogat. Hemia i no save helpem hem blong tingbaot, mo hem i save harem olsem se yu stap stretem hem. Ol oganaesesen blong dementia oli talem blong ansa long kwaet evri taem, olsem se hem i fas taem, mo kipim ansa i sot."
+  - q: "?Taem yu raetem ansa i help?"
+    a: "Yes, taem man ia i save rid yet. Wan not, wan waetbod wetem plan blong tede, wan bigfala klok o wan kalenda long ples we hem i stap luk plante taem i letem hem i jekem ansa hemwan. Poenem long kwaet fasin, i no talem \"mi bin talem long yu.\""
+  - q: "?Wanem taem mi mas tokbaot ol miting o ol aotings?"
+    a: "Klosap long taem ia. Sapos yu tokbaot wan visit long dokta o wan trip plante dei bifo, hemia i save kam plante aoa blong wari mo ol kwestin. Talem long hem smol taem nomo bifo, long kwaet fasin, wetem wanem bambae i hapen nekis."
+  - q: "?Wanem taem ol kwestin we oli kam bakegen oli wan risen blong ring long dokta?"
+    a: "Sapos ol kwestin, konfiusen o fasin i jenis kwiktaem o i kam moa nogud insaed long sam aoa o sam dei, ring long dokta blong hem kwiktaem. Wan infeksen, niufala meresin, soa, had blong go long toelet o no inaf wota long bodi i save mekem wan konfiusen we i kam kwiktaem we oli kolem delirium, mo hemia i nidim help kwiktaem."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“?Wanem taem dokta?” Ten minit afta: “?Wanem taem dokta?” Taem yu harem sem kwestin bakegen mo bakegen, hemia i save mekem man i taed tumas taem yu stap lukaotem man we i stap wetem dementia. Hemia i hapen plante taem, hem i no samting we man i mekem long tingting, mo i gat ol kwaet wei blong ansa we oli save mekem dei i kam isi moa long yutufala.
 
-## Why does someone with dementia ask the same question over and over?
+## ?From wanem man we i stap wetem dementia i askem sem kwestin bakegen mo bakegen?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Plante taem hem i from memori. Dementia i afektem sot taem memori, so plante taem man ia i no save se hem i bin askem, o hem i no save se hem i bin harem ansa. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) i talem se blong askem ol kwestin plante taem hem i wan samting we i hapen plante mo man i save ekspektem.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Plante taem kwestin ia i karem tu wan filing. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) i eksplenem se wan kwestin we i kam bakegen i save soemaot wan wari, wan askem blong help, o wari mo harem se i no sef, mo plante taem man ia i stap lukaotem kamfot mo ol samting we oli save gud. “?Wanem taem yumi go?” i save minim tru se “Mi wari blong go.” Taem man i no gat samting blong mekem, taem hem i fraet, taem i gat noes, mo taem rutin i jenis, evri samting ia i save statem. Mo wan kwestin we i kam bakegen i save soemaot tu se i gat wan nid, olsem blong go long toelet ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## ?Wanem mi mas talem?
 
-Answer calmly and briefly, as if it were the first time.
+Ansa long kwaet mo sotfala toktok, olsem se hem i fas taem.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Kipim ansa i sot mo i sem mak.** “Dokta i long tu klok. Bambae mi stap wetem yu.” Wan ansa we i sem mak i isi moa blong kasem.
+- **Ansarem filing ia.** “Yu stap tingbaot dokta. Hem i long aftanun tede, mo bambae mi draevem yumitu. I no gat samting we yu mas mekem.”
+- **Yusum wan kwaet voes mo wan sofsof taj,** sapos hem i laekem taj. Alzheimer's Association i talem blong stap kwaet mo no yusum longfala toktok blong pruvum samting o rao.
+- **Givim ansa we hem i stap lukaotem,** hamas taem we hem i nidim. Alzheimer's Association i talem blong ripitim ansa evri taem we hem i askem.
 
-## What should I avoid?
+## ?Wanem mi mas no mekem?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“Yu bin askem mi finis.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i talem blong no poenemaot se hem i jes askem. Hemia i no save helpem hem blong tingbaot, mo hem i save harem olsem se yu stap tok strong long hem.
+- **Ol longfala eksplenesen.** Taem i gat moa toktok, i gat moa samting blong fogetem.
+- **Pulum win strong, tanem ae o yusum wan strong voes.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i talem blong gat longfala tingting mo no soemaot se yu harem nogud. Hemia i no isi; luk haf ia long saed blong spel daon.
 
-## Simple tools that answer the question for you
+## Ol simpol tul we oli givim ansa blong yu
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Taem man ia i save rid yet, wan ansa we i stap long raeting mo hem i save luk i save help moa bitim wan ansa we yu talem nomo.
 
-| Tool | How to use it |
+| Tul | Olsem wanem blong yusum |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Wan not wetem bigfala leta | “Dokta tede long 2 pm. Mary bambae i draev.” Putum long ples we hem i stap luk plante taem |
+| Wan waetbod | Plan blong tede long tri o fo laen; ravemaot mo raetem bakegen evri moning |
+| Wan bigfala klok wetem dei mo det | I help wetem “?Wanem dei tede?” mo “?I taem yet?” |
+| Wan kalenda | Makem wan krus long evri dei; raonem nekis visit |
+| Ol foto we hem i save gud | Wan foto blong man we bambae i kam i save ansarem “?Huia bambae i visit?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Ol tingting ia oli kamaot long [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) mo [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Poenem not ia long kwaet fasin (“Yumi luk bod tugeta”) i moagud bitim blong talem “Mi bin raetem i stap blong yu.”
 
-## Tell them about events close to the time
+## Tokbaot ol samting we bambae oli hapen klosap long taem
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Sapos yu tokbaot wan miting o wan aoting plante dei bifo, hemia i save kam plante aoa blong wari mo ol kwestin. Family Caregiver Alliance mo Alzheimer's Los Angeles tufala i talem se i moagud blong tokbaot ol plan, speseli ol samting we oli save mekem wari olsem visit long dokta o was, smol taem nomo bifo oli hapen. Afta, talem wanem bambae i hapen nekis, wan step long wan taem.
 
-## Activities that can shift attention
+## Ol aktiviti we oli save jenisim tingting
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Afta we yu ansa mo yu soemaot se yu kasem filing ia, wan kwaet aktiviti we man i enjoyem i save help, speseli sipos ol kwestin oli kamaot from man i no gat samting blong mekem. Evri risos antap i talem blong lidim tingting i go long wan samting we man ia i laekem.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Wan sot mo isi gem tugeta.** [Picture pairs](/games/picture-pairs/) i kipim ol pija oli stap open, so man i no nid blong tingbaot samting.
+2. **Wan wok we hem i save gud.** Foldem ol taol, seraotem ol soks o putum tebol. [Sort together](/games/sort-together/) i wan semkaen samting long skrin.
+3. **Tokbaot wan samting we hem i laekem tumas.** [Conversation cards](/games/conversation-cards/) oli givim ol open kwestin we i no gat wan stret ansa nomo.
+4. **Miusek, wan wokbaot o wan smol kakae.** National Institute on Aging i putum ol samting ia olsem ol simpol wei blong jenisim tingting.
+5. **Wan kwaet spel.** Sidaon tugeta, lukluk i go aotsaed long windo, o traem wan taem blong [calm breathing](/games/calm-breathing/) tugeta.
 
-If they return to the question, answer it again, kindly. That is fine.
+Sapos hem i kambak long sem kwestin, ansarem bakegen, long kaen fasin. Hemia i oraet nomo.
 
-## Look for patterns
+## Lukaotem ol paten
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association i talem blong luksave sipos ol kwestin oli kam long sam stret taem long dei, raon long sam man o long sam ples. Sapos oli stat evri taem bifo ol visita oli kam, o long aftanun we i leit, yu save plan bifo: wan not long saed blong visit, wan aktiviti we hem i save gud i stap redi, wan rum we i moa kwaet. Gaid blong mifala long [ol kwaet aktiviti long aftanun we i leit](/caregiving/late-day-restlessness/) i save help sipos ol aftenun oli had moa.
 
-## Take care of yourself
+## Lukaotem yu tu
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Blong ansarem sem kwestin long namba twante taem i save mekem man i taed tumas. Sapos yu harem se longfala tingting blong yu i stap finis mo man ia i sef, go insaed long narafala rum blong sam minit mo pulum win, olsem [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) i talem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i enkarejem ol man we oli stap lukaotem narafala blong askem help mo tingbaot blong tekem respite kea. I gat moa tingting long [gaid blong mifala blong lukaotem yuwan](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## ?Wanem taem mi mas ring long dokta?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Ring long dokta blong hem kwiktaem sapos ol kwestin, konfiusen o fasin i jenis kwiktaem o i kam moa nogud insaed long sam aoa o sam dei. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i talem se eni fasin we i jenis kwiktaem o i stap jenis hariap, speseli afta long wan infeksen o wan jenis long meresin, i mas go kwiktaem long dokta. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) i eksplenem se infeksen, ol meresin, no inaf wota long bodi, soa o had blong go long toelet i save mekem delirium, hemia wan konfiusen we i kam kwiktaem mo i strong, mo hemia i nidim tritmen kwiktaem. Ring long 112 sipos eni man i stap long denja.

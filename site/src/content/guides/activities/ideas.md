@@ -1,6 +1,6 @@
 ---
 title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
+seoTitle: "Dementia Activity Ideas: 101 Simple Activities"
 description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
 section: activities
 order: 1

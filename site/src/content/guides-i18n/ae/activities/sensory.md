@@ -1,31 +1,28 @@
 ---
-title: "Baodanąm Š́iiaoϑnā Narabyō An-ušibiiō"
-seoTitle: "Baodanąm Š́iiaoϑnā Narabyō An-ušibiiō: Paϑō auua-dātāca"
-description: "Baodanąm š́iiaoϑnā narabyō an-ušibiiō, zastanąm mərəz-āat vastranąm srauuah-ca, vī-spaštiš paiti garəma-xᵛarəϑəm bōiδiš-ca."
+title: "𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀 𐬨𐬀𐬰𐬛𐬁𐬌𐬌𐬀"
+seoTitle: "𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀: 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙𐬀 𐬀𐬭𐬀𐬑𐬱𐬀"
+description: "𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬛𐬀𐬉𐬨𐬀 𐬎𐬞𐬀 𐬨𐬀𐬰𐬛𐬁𐬌𐬌𐬀: 𐬵𐬀𐬯𐬙𐬀 𐬨𐬀𐬯𐬌𐬌𐬀, 𐬞𐬀𐬭𐬀𐬱𐬀 𐬨𐬀𐬭𐬔𐬀, 𐬯𐬀𐬊𐬙𐬀 𐬛𐬀 𐬛𐬀𐬱𐬙𐬀, 𐬎𐬙𐬀 𐬀𐬭𐬀𐬑𐬱𐬀 𐬛𐬀 𐬑𐬀𐬥𐬀𐬐, 𐬀𐬨𐬀𐬭𐬔, 𐬎𐬙𐬀 𐬔𐬀𐬥𐬜𐬀."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Baodanąm š́iiaoϑnā vī-daδāiti bərəzaiti, bōiδi, cāšti, srauuah, daēsa: zastā-mərəzana,
-  vastranąm kušti, uruuarā bōiδitā, vācō gairinąm, aiiā vīspəm zrūna vərəziieiti.
-  Paoirīm vī-ciϑa garəma-mərəƣna, tanu-rujō, bōiδi-zahīca; aēuuam paoirīm daδāhi,
-  ahmāt pasca stāhi yezi an-āzahuta ahmāi daidīti.
+  𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬨𐬀𐬑𐬀𐬭𐬌𐬥 𐬛𐬀 𐬵𐬀𐬨𐬀𐬱𐬀, 𐬯𐬀𐬊𐬙𐬀, 𐬛𐬀𐬊𐬑𐬀, 𐬱𐬀𐬨𐬀𐬎, 𐬎𐬙𐬀 𐬛𐬌𐬛𐬀: 𐬵𐬀𐬯𐬙𐬀 𐬨𐬀𐬯𐬌𐬌𐬀 𐬥𐬌𐬵𐬌𐬌𐬀, 𐬯𐬀𐬊𐬎𐬥𐬀 𐬛𐬀 𐬨𐬀𐬭𐬔𐬀, 𐬎𐬭𐬎𐬀𐬭𐬀 𐬙𐬀𐬰𐬀 𐬮𐬀 𐬯𐬀𐬊𐬙𐬀, 𐬱𐬀𐬨𐬀𐬎 𐬛𐬀 𐬛𐬀𐬱𐬙𐬀, 𐬌𐬀𐬥 𐬛𐬌𐬛𐬀 𐬛𐬀 𐬞𐬀𐬭𐬀𐬵𐬀 𐬨𐬌𐬥 𐬐𐬀𐬎𐬌𐬀. 𐬀𐬉𐬙𐬀 𐬑𐬭𐬀𐬙𐬀 𐬮𐬀 𐬐𐬎𐬮 𐬰𐬀𐬎𐬀𐬥𐬀 𐬱𐬀𐬞𐬌𐬭𐬀𐬥, 𐬎𐬙𐬀 𐬠𐬀𐬯𐬌𐬨𐬀 𐬠𐬀𐬯𐬌𐬨𐬀 𐬨𐬀𐬭𐬀𐬱𐬀. 𐬞𐬀𐬌𐬱 𐬨𐬌𐬥 𐬱𐬎𐬭𐬎𐬌𐬌𐬀 𐬵𐬀𐬰𐬀𐬭 𐬎𐬞 𐬑𐬀𐬥𐬀𐬐, 𐬀𐬨𐬀𐬭𐬔, 𐬨𐬀𐬭𐬎𐬌𐬌𐬀 𐬛𐬀 𐬔𐬀𐬮𐬛𐬀, 𐬎𐬙𐬀 𐬥𐬀𐬰𐬎𐬐𐬌𐬌𐬀 𐬛𐬀 𐬔𐬀𐬥𐬜𐬀. 𐬵𐬀𐬛 𐬑𐬀𐬛 𐬵𐬀𐬛𐬀𐬨 𐬌𐬀𐬎𐬌𐬙𐬀, 𐬛𐬀 𐬀𐬎𐬙𐬀𐬐 𐬱𐬀𐬥𐬙𐬀 𐬌𐬀𐬎𐬌𐬙𐬀, 𐬎𐬙𐬀 𐬐𐬀𐬮 𐬀𐬥𐬱 𐬮𐬀 𐬥𐬌𐬵𐬌𐬌𐬀 𐬵𐬀𐬰𐬀, 𐬐𐬀𐬮𐬌.
 keyPoints:
-  - "Baodanąm š́iiaoϑnā naēda araž-uxδəm cašnāiti, ahmāi vīspāhu gātūhu vərəziieiti, gātu-paiti ca gātumant-ca."
-  - "Aēuua-baodana daδāhi tūšnī-gātu-paiti, zastā vā fraxštat paoirīm pərəsāhi."
-  - "Tanu-kərəte a-dāta parō-yazahe, yā xᵛarəϑō-cina daidīte a-xᵛarəϑəmca aŋhe, yat narō zafar-paiti daδāite."
-  - "Paoirīm vī-ciϑa tanu-druxtīm, uruuiš-ca uši-drāǰiš-ca parō raoxšna-rōiδiš, bōiδiš xᵛarəϑā-ca."
-  - "Nōit asti daθanąm gaoza yat bōiδiš vī-manastātəm vī-drāzayeiti; bōiδiš aēuuam hā-rāzayai yāsa."
+  - "𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬮𐬀 𐬙𐬀𐬮𐬠𐬀𐬥 𐬞𐬀𐬯𐬎𐬑𐬀 𐬙𐬭𐬌𐬯𐬀; 𐬠𐬀𐬛𐬀𐬥 𐬮𐬀 𐬐𐬎𐬮 𐬰𐬀𐬎𐬀𐬥𐬀 𐬱𐬀𐬞𐬌𐬭𐬀𐬥, 𐬀𐬞𐬌 𐬛𐬀 𐬎𐬭𐬙𐬀 𐬌𐬀𐬥 𐬎𐬞 𐬐𐬎𐬭𐬯𐬌𐬌𐬀."
+  - "𐬵𐬀𐬛 𐬑𐬀𐬛 𐬵𐬀𐬛𐬀𐬨 𐬌𐬀𐬎𐬌𐬙𐬀 𐬛𐬀 𐬀𐬎𐬙𐬀𐬐 𐬱𐬀𐬥𐬙𐬀 𐬌𐬀𐬎𐬌𐬙𐬀, 𐬎𐬙𐬀 𐬞𐬀𐬌𐬱 𐬨𐬌𐬥 𐬨𐬀𐬵𐬀𐬭 𐬱𐬀𐬀𐬮 𐬌𐬀𐬥 𐬀𐬎𐬛𐬀𐬎."
+  - "𐬨𐬌𐬥 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬰𐬀𐬎𐬭𐬀 𐬎𐬙𐬀 𐬨𐬌𐬥 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬛𐬀 𐬵𐬀𐬰𐬀𐬥 𐬌𐬀𐬥 𐬔𐬀𐬥𐬜𐬀𐬥 𐬀𐬌𐬐 𐬨𐬀𐬀𐬐𐬎𐬮 𐬥𐬀 𐬵𐬀𐬎𐬀𐬥, 𐬨𐬀𐬙𐬀𐬮 𐬀𐬥𐬀𐬱𐬀 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬛𐬀 𐬮𐬀 𐬱𐬌𐬨𐬀𐬥 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬛𐬀 𐬞𐬎𐬨𐬀."
+  - "𐬞𐬀𐬌𐬱 𐬨𐬌𐬥 𐬨𐬀𐬎𐬥 𐬛𐬀𐬎𐬵𐬀𐬥𐬀, 𐬔𐬀𐬥𐬜𐬀, 𐬌𐬀𐬥 𐬨𐬀𐬀𐬐𐬎𐬮𐬀, 𐬵𐬀𐬰𐬀𐬭 𐬎𐬞 𐬀𐬨𐬀𐬭𐬔, 𐬨𐬀𐬭𐬎𐬌𐬌𐬀 𐬛𐬀 𐬔𐬀𐬮𐬛𐬀, 𐬌𐬀𐬥 𐬥𐬀𐬰𐬎𐬐𐬌𐬌𐬀 𐬛𐬀 𐬔𐬀𐬥𐬜𐬀."
+  - "𐬮𐬀 𐬀𐬌𐬙𐬌 𐬛𐬀𐬮𐬌𐬮𐬀 𐬵𐬀𐬎𐬌𐬱𐬙𐬀 𐬐𐬀 𐬔𐬀𐬥𐬜𐬀-𐬠𐬀𐬯𐬌𐬨𐬀 𐬛𐬀𐬭𐬨𐬀𐬥 𐬨𐬀𐬌 𐬌𐬀𐬎𐬌𐬙 𐬮𐬀 𐬛𐬀𐬉𐬨𐬀; 𐬔𐬀𐬥𐬜𐬀 𐬨𐬀𐬎𐬥𐬌𐬙 𐬙𐬀𐬥𐬁 𐬮𐬀 𐬵𐬎𐬱𐬌𐬌𐬀 𐬯𐬀𐬛𐬀, 𐬀𐬔𐬀𐬭 𐬵𐬀𐬎𐬀𐬙 𐬠𐬀𐬱𐬀𐬙."
 faq:
-  - q: "Cim həniti vahištā baodanąm š́iiaoϑnā narə an-uše?"
-    a: "Hāu srauuō vərəziieiti: zastō-mərəzana raoxšnā-haca, vastranąm marəmnō, uruuarā bōiδīm vā kahfam bōiδīm, xšnūta srauuō aiiā vācō dāmanąm, mərəγanąm ca daēsa, xᵛarəϑa vahišta a-vīža tənī-paiti. Aēuuam barata, paiti-daēsaiia yaϑa ahmāi paiti-aite."
-  - q: "Ayā baodanąm š́iiaoϑnā a-sīzditi ahmāi yō zafar-paiti daδāiti?"
-    a: "Bavāiti a-sīzdiš, hu-ciϑīmca. Daδāhi bərəz-tanūš a-marəgō-varəte, tənī-kərəta dūrait-para daδāhi, raoxšnō-rōiδiš bōiδiš-ca dūra gātaiia, yat xᵛarəϑō-cina daidīte. Pasca narə aipii-aiia a-vī-paša."
-  - q: "Ayā bōiδi-baēšaza vī-manastāte upama-dāiti?"
-    a: "Cochrane-handātō nōit vīndat gaoza yat bōiδi-baēšaza narə an-ušīm upama-dāiti; frā-ciϑra tənī a-vərəzya bābuuarə. Yezi ahmāi mərəzo bōiδiš xšnaoϑra daidīte, aēuuam vahištam asti, a-staoz-bōiδiš dūrait dāra."
-  - q: "Ciš asti fidget aiiā activity apron?"
-    a: "Hāu vastra aiiā aipii-vastra yahmat bərəz-kərəta bandō-ca dāiti-paiti bandīte, bərəz-kərəte rašnō, zīparanō, vastra-pāta. Zastāi š́yeite š́iiaoϑnəm daδāiti. Paiti-paiti vī-ciϑa nōit yat vi-sruta vaheiti."
+  - q: "𐬐𐬀𐬛𐬀𐬨 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬱𐬀𐬞𐬌𐬭𐬀𐬥 𐬮𐬀 𐬀𐬥𐬱 𐬐𐬀 𐬛𐬀𐬉𐬨𐬀 𐬛𐬀𐬭𐬀𐬙?"
+    a: "𐬗𐬌𐬚𐬭𐬀 𐬯𐬀𐬛𐬀 𐬀𐬉𐬙𐬀 𐬵𐬀𐬯𐬙𐬀𐬥: 𐬵𐬀𐬯𐬙𐬀 𐬨𐬀𐬯𐬌𐬌𐬀 𐬥𐬌𐬵𐬌𐬌𐬀 𐬎𐬞 𐬛𐬀𐬎𐬵𐬀𐬥𐬀, 𐬨𐬀𐬭𐬔𐬀 𐬥𐬀𐬭𐬨𐬀 𐬨𐬀𐬵𐬀𐬭, 𐬎𐬭𐬎𐬀𐬭𐬀 𐬙𐬀𐬰𐬀 𐬌𐬀𐬥 𐬐𐬀𐬵𐬎𐬀 𐬯𐬀𐬊𐬙𐬀, 𐬔𐬀𐬚𐬀 𐬛𐬎𐬯𐬙 𐬌𐬀𐬥 𐬱𐬀𐬨𐬀𐬎 𐬛𐬀 𐬛𐬀𐬱𐬙𐬀 𐬱𐬀𐬨𐬀𐬎, 𐬛𐬌𐬛𐬀 𐬛𐬀 𐬞𐬀𐬭𐬀𐬵𐬀 𐬌𐬀𐬥 𐬨𐬀𐬵𐬌 𐬛𐬀 𐬀𐬀𐬞𐬀, 𐬎𐬙𐬀 𐬛𐬀𐬊𐬑𐬀 𐬛𐬀 𐬑𐬎𐬭𐬀𐬐 𐬛𐬎𐬯𐬙 𐬛𐬀 𐬥𐬀𐬰𐬎𐬐𐬌𐬌𐬀 𐬀𐬭𐬀𐬑𐬱𐬀. 𐬵𐬀𐬛 𐬑𐬀𐬛 𐬵𐬀𐬛𐬀𐬨 𐬌𐬀𐬎𐬌𐬙𐬀 𐬌𐬀𐬎𐬌𐬙, 𐬎𐬙𐬀 𐬛𐬌𐬛𐬀 𐬐𐬀 𐬀𐬥𐬱 𐬗𐬌𐬚𐬎𐬥 𐬞𐬀𐬯𐬎𐬑 𐬛𐬀𐬛𐬀𐬙."
+  - q: "𐬀𐬌𐬌𐬀 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬀𐬭𐬀𐬑𐬱𐬀 𐬵𐬀𐬯𐬙𐬀𐬥 𐬮𐬀 𐬀𐬥𐬱 𐬐𐬀 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬛𐬀 𐬞𐬎𐬨𐬀 𐬱𐬌𐬨𐬀𐬙?"
+    a: "𐬵𐬀𐬎𐬥, 𐬎𐬞 𐬀𐬭𐬀𐬑𐬱𐬀. 𐬙𐬀𐬥𐬁 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬨𐬀𐬰𐬀𐬥 𐬨𐬀𐬎𐬥𐬌𐬙 𐬐𐬀 𐬮𐬀 𐬱𐬀𐬐𐬀𐬥 𐬠𐬀𐬮𐬎𐬌𐬙𐬀; 𐬨𐬌𐬥 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬰𐬀𐬎𐬭𐬀 𐬌𐬀𐬥 𐬱𐬀𐬐𐬀𐬯𐬙𐬀 𐬮𐬀 𐬨𐬀𐬎𐬥𐬌𐬙; 𐬎𐬙𐬀 𐬞𐬀𐬯 𐬛𐬀𐬎𐬵𐬀𐬥𐬀, 𐬱𐬀𐬎𐬥, 𐬎𐬙𐬀 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬔𐬀𐬥𐬜𐬀 𐬛𐬎𐬭 𐬛𐬀𐬭𐬌𐬙, 𐬨𐬀𐬙𐬀𐬮 𐬀𐬉𐬙𐬀 𐬨𐬀𐬌 𐬵𐬀𐬰𐬀𐬥 𐬌𐬀𐬥 𐬔𐬀𐬥𐬜𐬀𐬥 𐬀𐬌𐬐 𐬨𐬀𐬀𐬐𐬎𐬮. 𐬵𐬀𐬨𐬀𐬱𐬀 𐬎𐬞 𐬀𐬥𐬱 𐬠𐬀𐬎𐬌𐬙."
+  - q: "𐬀𐬌𐬌𐬀 𐬔𐬀𐬥𐬜𐬀-𐬠𐬀𐬯𐬌𐬨𐬀 𐬛𐬀𐬭𐬨𐬀𐬥 𐬨𐬀𐬌 𐬌𐬀𐬎𐬌𐬙 𐬮𐬀 𐬛𐬀𐬉𐬨𐬀?"
+    a: "[Cochrane 𐬞𐬀𐬯𐬎𐬑](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 𐬛𐬀𐬮𐬌𐬮𐬀 𐬵𐬀𐬎𐬌𐬱𐬙𐬀 𐬮𐬀 𐬌𐬀𐬯𐬀𐬙 𐬐𐬀 𐬔𐬀𐬥𐬜𐬀-𐬠𐬀𐬯𐬌𐬨𐬀 𐬛𐬀𐬭𐬨𐬀𐬥 𐬨𐬀𐬌 𐬌𐬀𐬎𐬌𐬙, 𐬀𐬔𐬀𐬭𐬗𐬌 𐬞𐬀𐬯𐬎𐬑𐬀 𐬰𐬀𐬎𐬭𐬀 𐬎𐬙𐬀 𐬮𐬀-𐬵𐬀𐬨𐬀𐬱𐬀 𐬵𐬀𐬎𐬀𐬥. 𐬀𐬔𐬀𐬭 𐬀𐬥𐬱 𐬔𐬀𐬥𐬜𐬀 𐬥𐬀𐬭𐬨𐬀 𐬎𐬙𐬀 𐬱𐬀𐬥𐬀𐬯𐬌𐬙𐬀 𐬵𐬎𐬱 𐬀𐬌𐬙𐬌, 𐬀𐬉𐬙𐬀 𐬱𐬀𐬞𐬌𐬭 𐬵𐬀𐬯𐬙, 𐬀𐬨𐬀 𐬨𐬌𐬥 𐬔𐬀𐬥𐬜𐬀 𐬵𐬀𐬰𐬌𐬰𐬀 𐬛𐬎𐬭 𐬠𐬀𐬎𐬌𐬙, 𐬠𐬀𐬯𐬌𐬨𐬀 𐬞𐬀𐬌𐬱 𐬨𐬀𐬭𐬎𐬌𐬌𐬀 𐬛𐬀 𐬥𐬀𐬞𐬀𐬱 𐬌𐬀𐬥 𐬀𐬨𐬀𐬭𐬔."
+  - q: "𐬨𐬀𐬥𐬀 𐬵𐬀𐬎𐬌𐬙 'fidget' 𐬌𐬀𐬥 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬑𐬭𐬀𐬙𐬀?"
+    a: "𐬀𐬉𐬙𐬀 𐬞𐬀𐬭𐬀𐬱𐬀, 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬞𐬀𐬌𐬱, 𐬌𐬀𐬥 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬎𐬭𐬐𐬀 𐬵𐬀𐬎𐬌𐬙, 𐬎𐬞 𐬀𐬎𐬌 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬮𐬀 𐬨𐬀𐬵𐬀𐬭 𐬵𐬀𐬰𐬌𐬰𐬀 𐬛𐬎𐬑𐬙𐬀 𐬵𐬀𐬯𐬙𐬀𐬥, 𐬀𐬌𐬐 𐬛𐬎𐬔𐬨𐬀 𐬨𐬀𐬰𐬀𐬥, 𐬰𐬌𐬞, 𐬞𐬀𐬙𐬀, 𐬎𐬙𐬀 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬨𐬀𐬵𐬀𐬭. 𐬀𐬉𐬙𐬀 𐬌𐬀𐬛𐬀 𐬨𐬀𐬱𐬔𐬎𐬮𐬀 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬛𐬀 𐬵𐬀𐬵𐬀𐬭 𐬌𐬀𐬵𐬠𐬀𐬙. 𐬀𐬨𐬀𐬱𐬀 𐬵𐬀𐬰𐬀𐬭 𐬎𐬞 𐬀𐬎𐬌 𐬵𐬀𐬰𐬌𐬙 𐬐𐬀 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬱𐬀𐬮𐬌𐬙𐬀 𐬮𐬀 𐬀𐬌𐬙𐬌 𐬐𐬀 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬐𐬀𐬱𐬌𐬙𐬀."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -46,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Baodanąm š́iiaoϑnā paṇca baodanąm vərəziieinti: bərəzaiti, bōiδi, cāšti, srauuah, daēsa. Nōit marəmnəm, nōit paiti-stāna, nōit araž-uxδəm cašnāiṇti, ahmāt vīspāhu zrūna vərəziieinti. Apərəmō aipii-zrvāne frā-mahe vahištā həniti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) daδāiti yat apərəmō zrvāne gaēϑā baodaēbiš vī-baodaiti, yaϑa-ca frī-dāiti zastā-haca, srauuah, daēsa, cāšti bōiδi-ca paiti-daidīte. Kamna a-sīzdiš vī-ciϑā vīspāiš a-yaosem kərənaoiti.
+𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬨𐬀𐬑𐬀𐬭𐬌𐬥 𐬛𐬀 𐬵𐬀𐬨𐬀𐬱𐬀 𐬞𐬀𐬥𐬘: 𐬵𐬀𐬨𐬀𐬱𐬀, 𐬯𐬀𐬊𐬙𐬀, 𐬛𐬀𐬊𐬑𐬀, 𐬱𐬀𐬨𐬀𐬎, 𐬎𐬙𐬀 𐬛𐬌𐬛𐬀. 𐬀𐬉𐬙𐬀 𐬮𐬀 𐬙𐬀𐬮𐬠𐬀𐬥 𐬛𐬀𐬑𐬌𐬭𐬀, 𐬞𐬀𐬔𐬀𐬨𐬀, 𐬌𐬀𐬥 𐬞𐬀𐬯𐬎𐬑𐬀 𐬙𐬭𐬌𐬯𐬀; 𐬠𐬀𐬛𐬀𐬥 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬮𐬀 𐬐𐬎𐬮 𐬰𐬀𐬎𐬀𐬥 𐬑𐬭𐬀𐬙 𐬐𐬀𐬭𐬀𐬥. 𐬀𐬉𐬙𐬀 𐬠𐬀𐬯𐬌𐬨𐬀 𐬛𐬀 𐬰𐬀𐬎𐬀𐬥 𐬀𐬵𐬭𐬀𐬌 𐬨𐬀𐬭𐬀𐬱𐬀. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) 𐬀𐬨𐬀𐬭𐬀𐬙 𐬐𐬀 𐬛𐬀 𐬰𐬀𐬎𐬀𐬥 𐬀𐬵𐬭𐬀𐬌 𐬎𐬮𐬀𐬨 𐬠𐬀𐬯𐬌𐬨𐬀 𐬛𐬀 𐬵𐬀𐬨𐬀𐬱𐬀 𐬵𐬀𐬰𐬌𐬙, 𐬎𐬙𐬀 𐬀𐬥𐬙𐬎𐬥 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬵𐬎𐬠𐬀 𐬛𐬀 𐬵𐬀𐬨𐬀𐬱𐬀, 𐬱𐬀𐬨𐬀𐬎, 𐬛𐬌𐬛𐬀, 𐬛𐬀𐬊𐬑𐬀, 𐬎𐬙𐬀 𐬯𐬀𐬊𐬙𐬀 𐬨𐬀𐬵𐬀𐬎𐬌𐬙. 𐬐𐬀𐬮𐬀 𐬵𐬀𐬰𐬀𐬭 𐬛𐬀 𐬀𐬭𐬀𐬑𐬱𐬀 𐬀𐬉𐬙𐬀 𐬑𐬭𐬀𐬙𐬀 𐬮𐬀 𐬐𐬎𐬮 𐬀𐬥𐬀𐬱𐬀 𐬥𐬌𐬵𐬌𐬌𐬀 𐬎𐬙𐬀 𐬀𐬭𐬀𐬑𐬱𐬀 𐬐𐬀𐬭𐬀𐬥.
 
-## Cim həniti baodanąm š́iiaoϑnā narə an-uše?
+## 𐬨𐬀𐬥𐬀 𐬵𐬀𐬎𐬌𐬙 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬮𐬀 𐬛𐬀𐬉𐬨𐬀?
 
-Baodanąm š́iiaoϑnā həniti hā-kərəta š́iiaoϑnā aēuua-baodanəm paiti ham-dātā, yaϑa vastra-marəzana, uruuarā-bōiδiš, vā vāranąm srauuah. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mraoti apərəmō zrvāne š́iiaoϑnā baodaēbiš vī-ciϑīm dāiti, gāϑanąm srauuō, dātanąm marəmnō zastō-mərəzana-ca paiti-mrūite. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mraoti yat narō apərəmō zrvāne dātem aipii-dāraiti uruuiš-ca haxš-paiti dāraiti.
+𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬵𐬀𐬎𐬌𐬙 𐬵𐬀𐬰𐬀𐬭 𐬯𐬀𐬛𐬀 𐬎𐬞 𐬵𐬀𐬛 𐬵𐬀𐬛𐬀𐬨 𐬵𐬀𐬛𐬀, 𐬀𐬌𐬐 𐬨𐬀𐬵𐬀𐬭 𐬛𐬀 𐬨𐬀𐬭𐬔𐬀, 𐬯𐬀𐬊𐬙𐬀 𐬛𐬀 𐬎𐬭𐬎𐬀𐬭𐬀, 𐬌𐬀𐬥 𐬱𐬀𐬨𐬀𐬎 𐬛𐬀 𐬨𐬀𐬙𐬭𐬀. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) 𐬀𐬨𐬀𐬭𐬀𐬙 𐬐𐬀 𐬑𐬭𐬀𐬙𐬀 𐬛𐬀 𐬰𐬀𐬎𐬀𐬥 𐬀𐬵𐬭𐬀𐬌 𐬠𐬀𐬯𐬌𐬨𐬀 𐬎𐬞 𐬵𐬀𐬨𐬀𐬱𐬀 𐬠𐬀𐬎𐬌𐬙𐬀𐬥, 𐬎𐬙𐬀 𐬔𐬀𐬚𐬀, 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬮𐬀 𐬨𐬀𐬵𐬀𐬭, 𐬎𐬙𐬀 𐬵𐬀𐬯𐬙𐬀 𐬨𐬀𐬯𐬌𐬌𐬀 𐬛𐬀𐬐𐬀𐬭𐬀𐬙. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) 𐬀𐬨𐬀𐬭𐬀𐬙 𐬐𐬀 𐬀𐬥𐬀𐬱𐬀 𐬛𐬀 𐬰𐬀𐬎𐬀𐬥 𐬀𐬵𐬭𐬀𐬌 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬵𐬀𐬎𐬌𐬱𐬙𐬀 𐬵𐬀𐬰𐬌𐬰𐬀 𐬛𐬀𐬭𐬀𐬥 𐬐𐬀 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬥𐬀𐬰𐬌𐬐 𐬮𐬀 𐬥𐬌𐬵𐬌𐬌𐬀 𐬵𐬀𐬵𐬀𐬭𐬀𐬥.
 
-## Baodanąm fraxštīm, baodana haca baodana
+## 𐬗𐬌𐬚𐬭𐬀 𐬀𐬎𐬎𐬀𐬌𐬌𐬀, 𐬵𐬀𐬛 𐬵𐬀𐬛𐬀𐬨 𐬵𐬀𐬛𐬀
 
-### Bərəzaiti
+### 𐬵𐬀𐬨𐬀𐬱𐬀
 
-- **Zastō-mərəzana.** Raoxšna garəməm zastōhu kərənu, dīrəγa mərəzahi zastō-bāzū-haca arətō-paite. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mraoti mərəzana a-bōiδi raoxšnā haxš-rāzayeiti.
-- **Vastranąm kušti.** Bərəz-kərəte vastra paršnəm, kašmīrəm, hu-marəmnəm, pātō-ca, marəzatai vācō-dātāi-ca.
-- **Garəma vastra-pāta.** Garəma ānata vastra zaste xraosman-zrvāne. Paoirīm zastō-bāzū-paiti āzuiš vī-ciϑa.
-- **Activity apron aiiā gātu-vastra.** Bərəz-kərəte bandō, zīparanō, rašnō marəmnō-ca paiti-bandāte.
-- **Ham-karəta vastra-marəzana.** Kušti an-ašaoxšna vastranąm ham-kərənūite gātu-paiti daδāite.
-- **Mərəzō dātem dāraiti.** Uruuātra vastra, spāma, aiiā vaoiγnəm dāmō-daēsa, a-dāua naēda xraozd-dātem.
+- **𐬵𐬀𐬯𐬙𐬀 𐬨𐬀𐬯𐬌𐬌𐬀.** 𐬐𐬀𐬮𐬀 𐬛𐬀𐬎𐬵𐬀𐬥𐬀 𐬛𐬀 𐬵𐬀𐬯𐬙𐬀 𐬵𐬀𐬨𐬀𐬨𐬀𐬌𐬙 𐬎𐬙𐬀 𐬥𐬌𐬵𐬌𐬌𐬀 𐬨𐬌𐬥 𐬛𐬀𐬯𐬙 𐬙𐬀 𐬀𐬥𐬔𐬎𐬱𐬙 𐬨𐬀𐬯𐬌𐬌𐬀 𐬐𐬀𐬭𐬌𐬙. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) 𐬛𐬀𐬐𐬀𐬭𐬀𐬙 𐬨𐬀𐬯𐬌𐬌𐬀 𐬎𐬞 𐬛𐬀𐬎𐬵𐬀𐬥𐬀 𐬠𐬀-𐬔𐬀𐬥𐬜𐬀 𐬮𐬀 𐬥𐬌𐬵𐬌𐬌𐬀.
+- **𐬯𐬀𐬊𐬎𐬥𐬀 𐬛𐬀 𐬨𐬀𐬭𐬔𐬀.** 𐬞𐬀𐬭𐬀𐬱𐬀 𐬨𐬀𐬰𐬀𐬥 𐬛𐬀 𐬨𐬀𐬭𐬔𐬀 𐬥𐬀𐬭𐬨𐬀: 𐬨𐬀𐬑𐬨𐬀𐬮, 𐬨𐬀𐬭𐬔𐬀 𐬵𐬀𐬰𐬌𐬰𐬀, 𐬨𐬀𐬭𐬔𐬀 𐬥𐬀𐬭𐬨𐬀, 𐬨𐬀𐬭𐬔𐬀 𐬱𐬀𐬞𐬌𐬭𐬀, 𐬎𐬙𐬀 𐬞𐬀𐬱𐬀𐬨, 𐬮𐬀 𐬨𐬀𐬵𐬀𐬭, 𐬙𐬀𐬌, 𐬎𐬙𐬀 𐬵𐬀𐬨𐬆𐬰𐬀𐬨𐬀𐬥.
+- **𐬞𐬀𐬭𐬀𐬱𐬀 𐬵𐬀𐬨𐬀𐬨𐬀.** 𐬞𐬀𐬭𐬀𐬱𐬀 𐬵𐬀𐬨𐬀𐬨𐬀 𐬎𐬙𐬀 𐬥𐬀𐬨 𐬮𐬀 𐬵𐬀𐬯𐬙𐬀 𐬛𐬀 𐬌𐬀𐬎𐬨𐬀 𐬯𐬀𐬭𐬛𐬀. 𐬞𐬀𐬌𐬱 𐬵𐬀𐬨𐬀𐬨𐬌𐬌𐬀 𐬎𐬞 𐬛𐬀𐬯𐬙 𐬛𐬌𐬮 𐬵𐬀𐬰𐬀𐬭 𐬐𐬀𐬭𐬌𐬙.
+- **𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬑𐬭𐬀𐬙𐬀 𐬌𐬀𐬥 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬎𐬭𐬐𐬀.** 𐬛𐬎𐬔𐬨𐬀 𐬨𐬀𐬰𐬀𐬥, 𐬰𐬌𐬞, 𐬞𐬀𐬙𐬀, 𐬎𐬙𐬀 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬨𐬀𐬵𐬀𐬭 𐬵𐬀𐬰𐬌𐬰𐬀 𐬛𐬎𐬑𐬙𐬀.
+- **𐬙𐬀𐬌 𐬎𐬙𐬀 𐬨𐬀𐬯𐬌𐬌𐬀.** 𐬯𐬀𐬊𐬎𐬥𐬀 𐬛𐬀 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀𐬐𐬌𐬌𐬀 𐬌𐬀𐬥 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬨𐬀𐬀𐬐𐬎𐬮 𐬮𐬀 𐬙𐬀𐬌, 𐬥𐬀𐬵𐬀𐬛𐬀, 𐬎𐬙𐬀 𐬙𐬎𐬠 𐬙𐬀𐬌.
+- **𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬥𐬀𐬭𐬨𐬀 𐬮𐬀 𐬵𐬀𐬵𐬀𐬭.** 𐬞𐬀𐬭𐬀𐬱𐬀 𐬥𐬀𐬭𐬨𐬀, 𐬠𐬀𐬮𐬌𐬥, 𐬌𐬀𐬥 𐬵𐬀𐬌𐬎𐬀𐬥 𐬥𐬀𐬭𐬨𐬀 𐬛𐬀 𐬵𐬀𐬵𐬀𐬭, 𐬯𐬀𐬛𐬀 𐬌𐬀𐬎𐬌𐬙𐬀, 𐬮𐬀 𐬀𐬌𐬐 𐬮𐬀 𐬮𐬎𐬥𐬀𐬐.
 
-### Bōiδiš
+### 𐬯𐬀𐬊𐬙𐬀
 
-- **Dātā uruuarā.** Mintam, rosemary, basil, lavender haca zastāhu marəza, fra-bara ahmāi.
-- **Nmano-paiti bōiδiš.** Kahfam gərənta, xbišta-paxta, cinnamon, vā nāranga paiti-srūta.
-- **Uruuāra-vīza.** Parō raocana dāmanąm vā uruuarā-gātu-haca nūrō bara.
-- **Xšnūta raoxšnō-dāta.** Sāpūnəm aiiā raoxšna yō aipii yāse, yezi tanu an-ahe bərəzaiti.
+- **𐬎𐬭𐬎𐬀𐬭𐬀 𐬙𐬀𐬰𐬀.** 𐬙𐬭𐬀𐬔𐬀 𐬛𐬀 𐬥𐬀𐬎𐬥𐬀, 𐬭𐬎𐬰𐬀𐬨𐬀𐬭𐬌, 𐬭𐬀𐬌𐬵𐬀𐬥, 𐬌𐬀𐬥 𐬀𐬯𐬞𐬀𐬥𐬛 𐬛𐬀 𐬀𐬥𐬔𐬎𐬱𐬙𐬀 𐬨𐬀𐬯𐬌𐬌𐬀 𐬐𐬀𐬭𐬌𐬙 𐬎𐬙𐬀 𐬥𐬀𐬰𐬌𐬐 𐬌𐬀𐬎𐬌𐬙.
+- **𐬔𐬀𐬥𐬜𐬀 𐬛𐬀 𐬨𐬀𐬙𐬠𐬀𐬑.** 𐬐𐬀𐬵𐬎𐬀 𐬛𐬀 𐬠𐬀𐬱𐬀𐬮, 𐬮𐬀𐬵𐬆𐬨𐬀 𐬛𐬀 𐬙𐬀𐬞𐬌𐬌𐬀, 𐬛𐬀𐬭𐬗𐬌𐬥, 𐬌𐬀𐬥 𐬙𐬎𐬭𐬀𐬥𐬘 𐬛𐬀 𐬐𐬀𐬮𐬌𐬙𐬀 𐬥𐬀𐬰𐬌𐬐.
+- **𐬔𐬎𐬮𐬀.** 𐬐𐬀𐬮𐬀 𐬔𐬎𐬮𐬀 𐬙𐬀𐬰𐬀 𐬨𐬌𐬥 𐬠𐬀𐬔 𐬌𐬀𐬥 𐬛𐬎𐬐𐬀𐬥 𐬀𐬌𐬙𐬌𐬙.
+- **𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬱𐬀𐬥𐬀𐬯𐬌𐬙𐬀.** 𐬱𐬀𐬎𐬥 𐬌𐬀𐬥 𐬛𐬀𐬎𐬵𐬀𐬥𐬀 𐬐𐬀 𐬵𐬀𐬨𐬀𐬱𐬀 𐬨𐬀𐬎𐬥𐬌𐬙, 𐬀𐬔𐬀𐬭 𐬔𐬀𐬮𐬛 𐬛𐬌𐬮 𐬨𐬀𐬐𐬀𐬠𐬀𐬮 𐬀𐬌𐬙𐬌.
 
-### Cāštiš
+### 𐬛𐬀𐬊𐬑𐬀
 
-- **Xšnūta cāštiš.** Kamna čamčō xᵛarəϑəm yahmat xšnaoiti, yaϑa applesauce, pudding, ice cream, hu-xᵛarəϑe tənī-paiti.
-- **Hacā paxta-karəta.** Cāš paxtō-paiti aiiā kamna mərəz-mīzdəm.
-- **Zrū-paiti xᵛarəϑa.** Hamīnō xinduva, zayana garəma haptō-cāšti, a-sīzdiš garəma-paiti.
+- **𐬛𐬀𐬊𐬑𐬀 𐬛𐬎𐬯𐬙.** 𐬐𐬀𐬨𐬱𐬀 𐬛𐬀 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬐𐬀 𐬵𐬎𐬱 𐬀𐬌𐬙𐬌, 𐬀𐬌𐬐 𐬞𐬎𐬭𐬀 𐬛𐬀 𐬵𐬀𐬎𐬀 𐬛𐬀 𐬙𐬎𐬞𐬎𐬵𐬀, 𐬵𐬀𐬮𐬎𐬀, 𐬌𐬀𐬥 𐬔𐬀𐬮𐬌𐬛𐬀, 𐬛𐬀 𐬥𐬀𐬰𐬎𐬐𐬌𐬌𐬀 𐬐𐬀 𐬀𐬥𐬱 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬙 𐬀𐬭𐬀𐬑𐬱𐬀 𐬨𐬀𐬎𐬥𐬌𐬙.
+- **𐬌𐬀𐬎𐬌𐬙 𐬛𐬀 𐬞𐬀𐬑𐬙𐬀.** 𐬛𐬀𐬊𐬑𐬀 𐬛𐬀 𐬨𐬀𐬌𐬎𐬀 𐬌𐬀𐬥 𐬐𐬀𐬮𐬀 𐬱𐬌𐬭𐬌𐬥𐬌 𐬐𐬀𐬮 𐬀𐬥𐬙𐬎𐬥 𐬵𐬀𐬨𐬀𐬱𐬀 𐬞𐬀𐬑𐬙𐬀 𐬐𐬀𐬭𐬀𐬥.
+- **𐬑𐬎𐬭𐬀𐬐 𐬛𐬀 𐬰𐬀𐬎𐬀𐬥.** 𐬵𐬀𐬥𐬛𐬀𐬎𐬀𐬥𐬀 𐬛𐬀 𐬙𐬀𐬞𐬀𐬯𐬙𐬀𐬥, 𐬱𐬀𐬭𐬀𐬠 𐬵𐬀𐬨𐬀𐬨𐬀 𐬛𐬀 𐬞𐬀𐬌𐬰, 𐬌𐬀𐬎𐬌𐬙𐬀 𐬛𐬀 𐬵𐬀𐬨𐬀𐬨𐬌𐬌𐬀 𐬀𐬭𐬀𐬑𐬱𐬀.
 
-### Srauuō
+### 𐬱𐬀𐬨𐬀𐬎
 
-- **Xšnūta gāϑanąm.** Xšnūtō srauuō mərəzo vācō; vī-daēsa [music activities](/activities/music/).
-- **Dāmanąm vāca.** Vāra, zrayō, mərəγanąm ca vāca. NIA mraoti gāϑā, dāmanąm vāca narō haxš-rāzaṇti.
-- **Taua vācō.** Fra-mrū, srū, aiiā fravāka fravāca.
-- **Kamna vazra-dātanąm.** Dasta-kərəta dundum, sruua aiiā zangam gāϑanąm ham-vərəziieiti.
+- **𐬔𐬀𐬚𐬀 𐬛𐬎𐬯𐬙.** 𐬔𐬀𐬚𐬀 𐬱𐬀𐬥𐬀𐬯𐬌𐬙𐬀 𐬛𐬀 𐬱𐬀𐬨𐬀𐬎 𐬥𐬀𐬭𐬨𐬀; 𐬵𐬀𐬰𐬀𐬭 [𐬑𐬭𐬀𐬙𐬀 𐬛𐬀 𐬔𐬀𐬚𐬀](/activities/music/).
+- **𐬱𐬀𐬨𐬀𐬎 𐬛𐬀 𐬛𐬀𐬱𐬙𐬀.** 𐬨𐬀𐬙𐬭𐬀, 𐬨𐬀𐬎𐬘𐬀, 𐬌𐬀𐬥 𐬱𐬀𐬨𐬀𐬎 𐬛𐬀 𐬞𐬀𐬭𐬀𐬵𐬀. NIA 𐬀𐬨𐬀𐬭𐬀𐬙 𐬐𐬀 𐬔𐬀𐬚𐬀, 𐬱𐬀𐬨𐬀𐬎 𐬱𐬀𐬞𐬌𐬛, 𐬎𐬙𐬀 𐬱𐬀𐬨𐬀𐬎 𐬛𐬀 𐬛𐬀𐬱𐬙𐬀 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬐𐬀𐬮𐬀 𐬀𐬥𐬀𐬱𐬀 𐬥𐬌𐬵𐬌𐬌𐬀 𐬐𐬀𐬭𐬀𐬥.
+- **𐬱𐬀𐬨𐬀𐬎 𐬛𐬌𐬮.** 𐬐𐬀𐬭𐬌𐬌𐬀 𐬛𐬀 𐬱𐬀𐬨𐬀𐬎, 𐬰𐬀𐬨𐬀𐬭𐬀, 𐬌𐬀𐬥 𐬵𐬀𐬨𐬆𐬰𐬀𐬨𐬀𐬥 𐬛𐬀 𐬀𐬚𐬀𐬙𐬀.
+- **𐬀𐬀𐬮𐬀𐬙 𐬯𐬀𐬛𐬀.** 𐬙𐬀𐬠𐬀𐬮, 𐬱𐬀𐬐𐬱𐬀𐬐, 𐬌𐬀𐬥 𐬰𐬀𐬥𐬔 𐬮𐬀 𐬵𐬀𐬨𐬀𐬱𐬀 𐬎𐬞 𐬔𐬀𐬚𐬀 𐬰𐬀𐬛𐬀.
 
-### Daēsa
+### 𐬛𐬌𐬛𐬀
 
-- **Raocana-paiti daēsa.** Mərəγanąm xᵛarəϑō-dāna parō raocana, frazaintiš aiieiti, aiiā vafrō tara.
-- **Kapi-stāna aiiā mərəza video.** Mərəzō š́iiaoϑnəm a-staoz-vācō.
-- **Bərəz-kərəta patara.** Aēuua frā-ciϑra daidīte caxšnu-paiti.
-- **Raoce kərəte-ca.** Hu-raoca vastra, uruuarā vā vī-ciϑa, aiiā paiti-raoca parštam haca ahmākam [coloring](/games/coloring/) handāte.
-- **Dūra nmanāt.** NHS fra-dāiti baodano-uruuāra bōiδi uruuarā, vastra, āpamca. Vī-daēsa [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **𐬛𐬌𐬛𐬀 𐬨𐬌𐬥 𐬐𐬀𐬎𐬌𐬀.** 𐬨𐬀𐬵𐬀𐬮 𐬛𐬀 𐬞𐬀𐬭𐬀𐬵𐬀 𐬥𐬀𐬰𐬌𐬐 𐬛𐬀 𐬐𐬀𐬎𐬌𐬀, 𐬌𐬀𐬮𐬛𐬀 𐬛𐬀 𐬠𐬀𐬌𐬙𐬀 𐬀𐬰𐬀𐬮𐬀, 𐬌𐬀𐬥 𐬙𐬀𐬮𐬔𐬀 𐬛𐬀 𐬥𐬀𐬵𐬀𐬙.
+- **𐬨𐬀𐬵𐬌 𐬛𐬀 𐬀𐬀𐬞𐬀 𐬌𐬀𐬥 𐬵𐬀𐬰𐬀𐬭 𐬥𐬌𐬵𐬌𐬌𐬀.** 𐬵𐬀𐬰𐬀𐬭 𐬥𐬀𐬭𐬀𐬨 𐬠𐬀-𐬱𐬀𐬨𐬀𐬎 𐬵𐬀𐬰𐬌𐬰𐬀.
+- **𐬯𐬎𐬭𐬀𐬙𐬀 𐬨𐬀𐬰𐬀𐬥.** 𐬵𐬀𐬛 𐬵𐬀𐬛𐬀𐬨 𐬯𐬎𐬭𐬀𐬙𐬀 𐬱𐬀𐬞𐬌𐬭𐬀, 𐬛𐬀 𐬛𐬭𐬀𐬥𐬀 𐬛𐬀 𐬎𐬌𐬥𐬀 𐬵𐬀𐬵𐬀𐬭𐬀𐬙.
+- **𐬔𐬀𐬎𐬥 𐬎𐬙𐬀 𐬥𐬀𐬑𐬱𐬀.** 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬨𐬀𐬭𐬔𐬀 𐬔𐬀𐬎𐬥𐬀, 𐬔𐬎𐬮𐬀, 𐬌𐬀𐬥 𐬞𐬀𐬭𐬀𐬱𐬀 𐬛𐬀 𐬨𐬀𐬀𐬐𐬎𐬮 𐬔𐬀𐬎𐬥𐬀, 𐬌𐬀𐬥 𐬞𐬀𐬔𐬀 𐬯𐬀𐬛𐬀 𐬛𐬀 𐬔𐬀𐬎𐬥 𐬨𐬌𐬥 [coloring](/games/coloring/).
+- **𐬠𐬀𐬭𐬀.** NHS 𐬀𐬨𐬀𐬭𐬀𐬙 𐬠𐬀𐬔 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬎𐬞 𐬎𐬭𐬎𐬀𐬭𐬀 𐬔𐬀𐬥𐬜𐬀, 𐬨𐬀𐬵𐬀𐬭, 𐬎𐬙𐬀 𐬨𐬀𐬌𐬌𐬀. 𐬵𐬀𐬰𐬀𐬭 [𐬑𐬭𐬀𐬙𐬀 𐬛𐬀 𐬠𐬀𐬭𐬀 𐬎𐬙𐬀 𐬠𐬀𐬔](/activities/outdoor-and-gardening/).
 
-## Yaϑa haṇ-dātəm baodana-box kərənvīši
+## 𐬗𐬌𐬚𐬎𐬥 𐬯𐬀𐬥𐬛𐬎𐬐 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬯𐬀𐬰𐬌𐬙
 
-1. **Vī-ciϑa paϑa** yō narō zīui-haca daidīte: zraya, uruuarā-gāta, paxtō-nmāna, kərəti-gāta, vastra-dāiti.
-2. **Paṇca aiiā xšvaš bərəz-kərəte a-sīzdiš dāta yāsa,** yaϑa bərəz-zrayō-dāna, dāru čamčō, hu-marəzna scarf, bandō lavender kušti, aiiā mərəzo dāru block.
-3. **Vīspəm dātem vī-ciϑa** tanu-kərətē, tījō-arəte, bandō-vi-srute, spāšyā-ca.
-4. **Aēuuam dātem paoirīm bara.** Dasta-paiti daδāhi, fra-mrū, aipii narə marəzaite.
-5. **Dūrait daδāhi pasca** yat spanta dāidīte, ahmāt parō vī-ciϑīm kərənvīši.
+1. **𐬨𐬀𐬎𐬟𐬎𐬎 𐬌𐬀𐬎𐬌𐬙** 𐬐𐬀 𐬎𐬞 𐬰𐬌𐬥𐬛𐬀𐬔𐬌 𐬛𐬀 𐬀𐬥𐬱 𐬠𐬀𐬯𐬙𐬀 𐬀𐬌𐬙𐬌: 𐬐𐬀𐬥𐬀𐬭 𐬛𐬀 𐬛𐬭𐬌𐬌𐬀, 𐬠𐬀𐬔, 𐬨𐬀𐬙𐬠𐬀𐬑, 𐬐𐬀𐬭, 𐬛𐬎𐬑𐬙.
+2. **𐬞𐬀𐬥𐬘 𐬌𐬀𐬥 𐬱𐬀𐬱 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬨𐬀𐬰𐬀𐬥 𐬎𐬙𐬀 𐬀𐬭𐬀𐬑𐬱𐬀 𐬌𐬀𐬎𐬌𐬙,** 𐬀𐬌𐬐 𐬐𐬀𐬥𐬀𐬭 𐬨𐬀𐬰𐬀𐬥, 𐬐𐬀𐬨𐬀𐬥𐬗𐬀 𐬛𐬀 𐬛𐬀𐬭, 𐬞𐬀𐬭𐬀𐬱𐬀 𐬥𐬀𐬭𐬨𐬀, 𐬐𐬌𐬯𐬀 𐬛𐬀 𐬀𐬯𐬞𐬀𐬥𐬛 𐬌𐬀𐬠𐬀𐬯 𐬛𐬎𐬑𐬙𐬀, 𐬌𐬀𐬥 𐬐𐬎𐬥𐬛𐬀 𐬛𐬀 𐬛𐬀𐬭 𐬱𐬀𐬞𐬌𐬭𐬀.
+3. **𐬵𐬀𐬭 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬵𐬀𐬰𐬀𐬭 𐬐𐬀𐬭𐬌𐬙** 𐬮𐬀 𐬞𐬀𐬭𐬗𐬀 𐬰𐬀𐬎𐬭𐬀, 𐬙𐬌𐬰𐬌, 𐬙𐬀𐬭 𐬱𐬀𐬮𐬌𐬙𐬀, 𐬎𐬙𐬀 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬱𐬀𐬐𐬀𐬯𐬙𐬀.
+4. **𐬵𐬀𐬛 𐬑𐬀𐬛 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬌𐬀𐬎𐬌𐬙.** 𐬌𐬀𐬵𐬠𐬌𐬙, 𐬀𐬎𐬛𐬀𐬎 𐬐𐬀𐬭𐬌𐬙, 𐬎𐬙𐬀 𐬀𐬥𐬱 𐬱𐬀𐬠𐬎𐬐𐬌𐬙 𐬐𐬀 𐬵𐬀𐬰𐬀𐬭 𐬐𐬀𐬭𐬀𐬙.
+5. **𐬞𐬀𐬯 𐬨𐬌𐬥 𐬑𐬀𐬭𐬌𐬘 𐬯𐬀𐬥𐬛𐬎𐬐 𐬥𐬀𐬵𐬀𐬛𐬌𐬙** 𐬙𐬀 𐬀𐬉𐬙𐬀 𐬵𐬀𐬯 𐬠𐬀𐬎𐬌𐬙 𐬎𐬙𐬀 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬞𐬀𐬌𐬱 𐬨𐬌𐬥 𐬰𐬀𐬎𐬀𐬥 𐬛𐬌𐬔𐬀𐬭 𐬵𐬀𐬰𐬀𐬭 𐬱𐬀𐬎𐬌𐬥.
 
-## A-sīzdiš paoirīm
+## 𐬀𐬭𐬀𐬑𐬱𐬀 𐬞𐬀𐬌𐬱 𐬨𐬌𐬥 𐬐𐬎𐬮
 
-Baodanąm š́iiaoϑnā mərəzo həniti, aϑa a-sīzdiš bərəza dāiti. Narō vī-manahibiiō a-xᵛarəϑəm xᵛarəϑō-cina daidīte, marəgō-xᵛarəϑəm ca duz-dāiti apərəmō zrvāne; NIA paiti-mrūite apərəmō marəgō-tərəzō garəma-xᵛarəϑəm āzō kərənūiti.
+𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬥𐬀𐬭𐬨𐬀 𐬵𐬀𐬯𐬙𐬀𐬥, 𐬀𐬨𐬀 𐬐𐬀𐬮𐬀 𐬵𐬀𐬰𐬀𐬭 𐬨𐬀𐬭𐬀𐬱𐬀. 𐬐𐬀𐬮𐬀 𐬀𐬥𐬀𐬱𐬀 𐬐𐬀 𐬎𐬞 𐬛𐬀𐬉𐬨𐬀 𐬰𐬌𐬎𐬀𐬥 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬮𐬀-𐬨𐬀𐬀𐬐𐬎𐬮 𐬵𐬀𐬯𐬀𐬠𐬀𐬥 𐬀𐬌𐬐 𐬨𐬀𐬀𐬐𐬎𐬮, 𐬎𐬙𐬀 𐬠𐬀𐬮𐬎𐬌𐬙𐬀 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬙 𐬎𐬞 𐬰𐬀𐬎𐬀𐬥 𐬵𐬀𐬰𐬌𐬰 𐬱𐬀𐬎𐬀𐬙; NIA 𐬀𐬎𐬛𐬀𐬎 𐬐𐬀𐬭𐬀𐬙 𐬐𐬀 𐬨𐬀𐬭𐬎𐬌𐬌𐬀 𐬛𐬀 𐬠𐬀𐬮𐬎𐬌𐬙𐬀 𐬛𐬀 𐬰𐬀𐬎𐬀𐬥 𐬀𐬵𐬭𐬀𐬌 𐬵𐬀𐬰𐬀𐬭 𐬛𐬀 𐬑𐬀𐬥𐬀𐬐 𐬨𐬀𐬰𐬌𐬌𐬀 𐬐𐬀𐬭𐬀𐬙.
 
-| Āzō | Cīm kəranuuāhi |
+| 𐬵𐬀𐬰𐬀𐬭 | 𐬨𐬀𐬥𐬀 𐬐𐬀𐬭𐬌𐬙 |
 | --- | --- |
-| Garəma-xᵛarəϑəm | Aēuuam daδāhi yā bərəz-tanūš nōit marəgō-xᵛarəϑe. Nōit bandō, beads, arəzatō, marbles aiiā tanu-spaiia kuštī-paiti. Xᵛarəϑəm aēuuam dāiti-paiti yaϑa baēšaza-karā mrāonti. |
-| Xᵛarəϑō-cina dātam | NIA fra-dāiti gaocīm dāra raoxšnō, sāpūnō, shampoo, bōiδiš, yā xᵛarəϑō-bōiδi aiiā xᵛarəϑō-daēsa dāidīte. Pasca š́iiaoϑnəm dūrait dāra. |
-| Tanu-zahīš | Paoirīm vī-ciϑa nuts, latex, wool, uruuarā bōiδiš parō-dāiti. |
-| Staozō bōiδiš | A-dāta staozō bōiδi aiiā baēšazō-raoxšna, yaϑa uši-drāǰiš tənī. Mərəzo dāmi bōiδiš vahištā həniti. |
-| Tanuš | Vī-ciϑa tanu-ruja aiiā xruuišīm parō mərəzana. Mərəzō zastā daδāhi yezi ahmāi tanu-druxtiš stāhi. |
-| Garəmō-dātā | Garəma vastra aiiā xᵛarəϑəm paoirīm zastō-bāzū-paiti vī-ciϑa. |
-| Tījō aiiā viša-dāta | Nōit tījō vazra, glass aiiā viša dātana. |
+| 𐬑𐬀𐬥𐬀𐬐 | 𐬙𐬀𐬥𐬁 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬨𐬀𐬎𐬥𐬌𐬙 𐬐𐬀 𐬮𐬀 𐬱𐬀𐬐𐬀𐬥 𐬠𐬀𐬮𐬎𐬌𐬙𐬀. 𐬨𐬌𐬥 𐬛𐬎𐬔𐬨𐬀, 𐬨𐬀𐬭𐬔𐬀𐬭𐬌𐬙𐬀, 𐬰𐬎𐬰𐬀, 𐬨𐬀𐬭𐬔𐬀𐬭𐬌𐬙𐬀 𐬰𐬀𐬎𐬭𐬀, 𐬌𐬀𐬥 𐬮𐬎𐬥𐬀𐬐 𐬰𐬀𐬎𐬭𐬀 𐬱𐬀𐬮𐬌𐬙𐬀 𐬛𐬀 𐬯𐬀𐬥𐬛𐬎𐬐. 𐬨𐬀𐬀𐬐𐬎𐬮 𐬙𐬀𐬥𐬁 𐬛𐬀 𐬥𐬀𐬰𐬎𐬐𐬌𐬌𐬀 𐬐𐬀 𐬔𐬎𐬭𐬎𐬵 𐬛𐬀 𐬵𐬎𐬠𐬀 𐬀𐬨𐬀𐬭𐬀𐬙 𐬀𐬭𐬀𐬑𐬱𐬀 𐬌𐬀𐬎𐬌𐬙. |
+| 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬐𐬀 𐬀𐬌𐬐 𐬨𐬀𐬀𐬐𐬎𐬮 𐬵𐬀𐬰𐬀𐬥 | NIA 𐬀𐬨𐬀𐬭𐬀𐬙 𐬐𐬀 𐬛𐬀𐬎𐬵𐬀𐬥𐬀, 𐬱𐬀𐬎𐬥, 𐬱𐬀𐬨𐬞𐬎, 𐬎𐬙𐬀 𐬎𐬙𐬭𐬀 𐬛𐬀 𐬔𐬀𐬥𐬜𐬀 𐬐𐬀𐬮𐬌𐬛 𐬛𐬀𐬭𐬌𐬙, 𐬨𐬀𐬙𐬀𐬮 𐬀𐬉𐬙𐬀 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬵𐬀𐬰𐬀𐬥 𐬌𐬀𐬥 𐬔𐬀𐬥𐬜𐬀𐬥 𐬀𐬌𐬐 𐬨𐬀𐬀𐬐𐬎𐬮, 𐬎𐬙𐬀 𐬨𐬀𐬌𐬎𐬀 𐬯𐬀𐬑𐬙𐬀 𐬛𐬎𐬭 𐬐𐬀𐬭𐬌𐬙. 𐬞𐬀𐬯 𐬨𐬌𐬥 𐬨𐬀𐬎𐬥 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬥𐬀𐬵𐬀𐬛𐬌𐬙. |
+| 𐬀𐬨𐬀𐬭𐬔 | 𐬞𐬀𐬌𐬱 𐬨𐬌𐬥 𐬱𐬎𐬭𐬎𐬌𐬌𐬀 𐬵𐬀𐬰𐬀𐬭 𐬎𐬞 𐬀𐬨𐬀𐬭𐬔 𐬮𐬀 𐬔𐬎𐬰, 𐬮𐬀𐬙𐬀𐬐𐬯, 𐬞𐬀𐬱𐬀𐬨, 𐬎𐬭𐬎𐬀𐬭𐬀, 𐬌𐬀𐬥 𐬔𐬀𐬥𐬜𐬀 𐬐𐬀𐬭𐬌𐬙. |
+| 𐬔𐬀𐬥𐬜𐬀 𐬵𐬀𐬰𐬌𐬰𐬀 | 𐬨𐬌𐬥 𐬎𐬙𐬭𐬀 𐬵𐬀𐬰𐬌𐬰𐬀 𐬎𐬙𐬀 𐬭𐬀𐬎𐬖𐬀𐬥 𐬛𐬀 𐬔𐬀𐬥𐬜𐬀 𐬠𐬀𐬥𐬌𐬌𐬀 𐬛𐬎𐬭 𐬠𐬀𐬎𐬌𐬙, 𐬠𐬀𐬯𐬌𐬨𐬀 𐬞𐬀𐬌𐬱 𐬀𐬯𐬙𐬆𐬨𐬀 𐬌𐬀𐬥 𐬨𐬀𐬭𐬎𐬌𐬌𐬀 𐬛𐬌𐬔𐬀𐬭 𐬛𐬀 𐬥𐬀𐬞𐬀𐬱. 𐬔𐬀𐬥𐬜𐬀 𐬥𐬀𐬭𐬨𐬀 𐬎𐬙𐬀 𐬛𐬀𐬱𐬙𐬀𐬥𐬌 𐬠𐬀𐬯𐬌𐬨𐬀 𐬀𐬭𐬀𐬑𐬱𐬀 𐬵𐬀𐬯𐬙𐬀𐬥. |
+| 𐬔𐬀𐬮𐬛𐬀 | 𐬞𐬀𐬌𐬱 𐬨𐬌𐬥 𐬨𐬀𐬯𐬌𐬌𐬀 𐬔𐬀𐬮𐬛𐬀 𐬮𐬀 𐬛𐬀𐬭𐬛, 𐬱𐬀𐬐𐬀𐬯𐬙𐬀, 𐬌𐬀𐬥 𐬥𐬀𐬰𐬎𐬐 𐬵𐬀𐬰𐬀𐬭 𐬐𐬀𐬭𐬌𐬙. 𐬥𐬀𐬭𐬀𐬨𐬌 𐬨𐬀𐬎𐬥𐬌𐬙 𐬎𐬙𐬀 𐬀𐬔𐬀𐬭 𐬀𐬥𐬱 𐬛𐬀𐬭𐬛 𐬵𐬀𐬰𐬀, 𐬐𐬀𐬮𐬌𐬙. |
+| 𐬵𐬀𐬨𐬀𐬨𐬌𐬌𐬀 | 𐬞𐬀𐬭𐬀𐬱𐬀 𐬵𐬀𐬨𐬀𐬨𐬀 𐬎𐬙𐬀 𐬱𐬀𐬭𐬀𐬠 𐬎𐬞 𐬛𐬀𐬯𐬙 𐬛𐬌𐬮 𐬵𐬀𐬰𐬀𐬭 𐬐𐬀𐬭𐬌𐬙. |
+| 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬙𐬌𐬰 𐬌𐬀𐬥 𐬰𐬀𐬵𐬭𐬀 | 𐬨𐬌𐬥 𐬀𐬀𐬮𐬀𐬙 𐬙𐬌𐬰, 𐬱𐬌𐬱𐬀, 𐬌𐬀𐬥 𐬨𐬀𐬎𐬀𐬛 𐬛𐬀 𐬵𐬎𐬥𐬀𐬭 𐬰𐬀𐬵𐬭𐬀 𐬨𐬀𐬎𐬥𐬌𐬙. |
 
-## Ayā bōiδi-baēšaza upama-daδāiti?
+## 𐬀𐬌𐬌𐬀 𐬔𐬀𐬥𐬜𐬀-𐬠𐬀𐬯𐬌𐬨𐬀 𐬛𐬀𐬭𐬨𐬀𐬥 𐬨𐬀𐬌 𐬌𐬀𐬎𐬌𐬙?
 
-Nōit arəϑō-cina frā-ciϑra. [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 13 handātō vīndat 708 narō paiti nmānahu, nōit ca viṇdat gaoza yat ahmāi upama-daδāiti. Handātā tanu-kərəte bābuuarə, patara a-ham-dātā, aipii-duz-dāta nōit paiti-uxδa. Yezi ahmāi mərəzo bōiδiš xšnūtəm daidīte, yaϑa lavender uruuarā-haca, aēuuam vahištam dātem asti. Nōit asti baēšazəm.
+𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬙 𐬮𐬀, 𐬛𐬀 𐬗𐬌𐬰 𐬐𐬀 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬥 𐬨𐬀𐬰𐬌𐬌𐬀 𐬱𐬀𐬎𐬌𐬙. [Cochrane 𐬞𐬀𐬯𐬎𐬑 𐬛𐬀 𐬔𐬀𐬥𐬜𐬀-𐬠𐬀𐬯𐬌𐬨𐬀 𐬮𐬀 𐬛𐬀𐬉𐬨𐬀](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 13 𐬞𐬀𐬯𐬎𐬑𐬀 𐬎𐬞 708 𐬀𐬥𐬀𐬱𐬀 𐬵𐬀𐬰𐬀𐬭 𐬐𐬀𐬭𐬛, 𐬐𐬎𐬮 𐬛𐬀 𐬠𐬀𐬌𐬙𐬀 𐬛𐬀 𐬵𐬎𐬠𐬀, 𐬎𐬙𐬀 𐬛𐬀𐬮𐬌𐬮𐬀 𐬵𐬀𐬎𐬌𐬱𐬙𐬀 𐬮𐬀 𐬌𐬀𐬯𐬀𐬙. 𐬞𐬀𐬯𐬎𐬑𐬀 𐬰𐬀𐬎𐬭𐬀 𐬵𐬀𐬎𐬀𐬥, 𐬞𐬀𐬯𐬎𐬑𐬀 𐬮𐬀-𐬵𐬀𐬨𐬀𐬱𐬀 𐬵𐬀𐬎𐬀𐬥, 𐬎𐬙𐬀 𐬵𐬀𐬰𐬀𐬭 𐬵𐬀𐬭𐬀𐬠 𐬱𐬀𐬞𐬌𐬭 𐬮𐬀 𐬀𐬎𐬛𐬀𐬎 𐬱𐬎𐬛. 𐬀𐬔𐬀𐬭 𐬀𐬥𐬱 𐬔𐬀𐬥𐬜𐬀 𐬥𐬀𐬭𐬨𐬀 𐬎𐬙𐬀 𐬱𐬀𐬥𐬀𐬯𐬌𐬙𐬀 𐬵𐬎𐬱 𐬀𐬌𐬙𐬌, 𐬀𐬌𐬐 𐬀𐬯𐬞𐬀𐬥𐬛 𐬨𐬌𐬥 𐬠𐬀𐬔, 𐬀𐬉𐬙𐬀 𐬛𐬀𐬮𐬌𐬮 𐬱𐬀𐬞𐬌𐬭 𐬵𐬀𐬯𐬙 𐬐𐬀 𐬵𐬀𐬨𐬀𐬱𐬀 𐬵𐬀𐬠𐬀𐬭𐬌𐬙. 𐬀𐬉𐬙𐬀 𐬛𐬀𐬭𐬨𐬀𐬥 𐬥𐬀 𐬵𐬀𐬎𐬌𐬙.
 
-## Yaϑa baodana-š́iiaoϑnəm paiti-daδāhi
+## 𐬗𐬌𐬚𐬎𐬥 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬌𐬀𐬎𐬌𐬙
 
-- **Tūšnīm zrvānəm vī-ciϑa** tv-daēsa ca paiti-stāhi.
-- **Paoirō-haca aiia,** nāma pərəsāhi, paoirīm pərəsāhi parō zastā-bərəzaiti: "Manō raoxšna asti. Ayā zastō-mərəzana xšnaoši?"
-- **Aēuuam dātem paoirīm bara** yat nōit vazra dāidīte.
-- **Paiti-daēsaiia.** Mərəzō dīm, ravō zasta aiiā miždəm vahištā həniti. Vi-sruta aiiā a-rāmō stāti mraoti.
-- **Kamna zrvāna dāra.** Paṇca mərəza zrvāna vahištam asti.
+- **𐬰𐬀𐬎𐬀𐬥 𐬱𐬀𐬥𐬙𐬀 𐬌𐬀𐬎𐬌𐬙** 𐬎𐬙𐬀 𐬛𐬌𐬛𐬀-𐬥𐬀𐬨𐬀 𐬐𐬀𐬮𐬌𐬙.
+- **𐬨𐬌𐬥 𐬞𐬀𐬌𐬱 𐬥𐬀𐬰𐬌𐬐 𐬱𐬀𐬎𐬌𐬙,** 𐬱𐬀𐬨 𐬛𐬌𐬮 𐬐𐬀𐬭𐬌𐬙, 𐬎𐬙𐬀 𐬞𐬀𐬌𐬱 𐬨𐬌𐬥 𐬨𐬀𐬵𐬀𐬭 𐬱𐬀𐬀𐬮𐬌𐬙 𐬌𐬀𐬥 𐬀𐬎𐬛𐬀𐬎 𐬐𐬀𐬭𐬌𐬙: "𐬛𐬀𐬎𐬵𐬀𐬥𐬀 𐬛𐬀 𐬵𐬀𐬯𐬙𐬀 𐬀𐬌𐬙𐬌. 𐬀𐬌𐬌𐬀 𐬨𐬀𐬯𐬌𐬌𐬀 𐬛𐬀 𐬵𐬀𐬯𐬙𐬀 𐬵𐬎𐬱 𐬀𐬌𐬙𐬌?"
+- **𐬵𐬀𐬛 𐬑𐬀𐬛 𐬨𐬀𐬥𐬛𐬀𐬎𐬨𐬀 𐬌𐬀𐬎𐬌𐬙** 𐬙𐬀 𐬠𐬀𐬯𐬌𐬨𐬀 𐬱𐬀𐬔𐬌𐬛 𐬮𐬀 𐬱𐬀𐬎𐬀𐬙.
+- **𐬞𐬀𐬯𐬎𐬑 𐬵𐬀𐬰𐬀𐬭 𐬐𐬀𐬭𐬌𐬙.** 𐬞𐬀𐬌𐬱𐬀 𐬥𐬀𐬭𐬀𐬨, 𐬵𐬀𐬯𐬙𐬀 𐬥𐬌𐬵𐬌𐬌𐬀, 𐬌𐬀𐬥 𐬠𐬀𐬯𐬀𐬨 𐬥𐬀𐬱𐬀𐬥𐬀 𐬱𐬀𐬞𐬌𐬭𐬀 𐬵𐬀𐬯𐬙𐬀𐬥. 𐬐𐬀𐬱𐬌𐬛𐬀, 𐬞𐬀𐬌𐬱𐬀 𐬙𐬀𐬥𐬔, 𐬌𐬀𐬥 𐬠𐬀-𐬥𐬌𐬵𐬌𐬌𐬀 𐬨𐬀𐬎𐬥𐬌 𐬐𐬀 𐬐𐬀𐬮𐬌𐬙.
+- **𐬐𐬎𐬙𐬀 𐬵𐬀𐬵𐬀𐬭𐬌𐬙.** 𐬞𐬀𐬥𐬘 𐬛𐬀𐬐𐬌𐬐𐬀 𐬥𐬌𐬵𐬌𐬌𐬀 𐬑𐬭𐬀𐬙𐬀 𐬱𐬀𐬞𐬌𐬭𐬀 𐬵𐬀𐬯𐬙.
 
-Ham-yātu uši-drāǰiš, yaϑa [calm breathing](/games/calm-breathing/), mərəzō cina aipii-dāiti. Fra-mahe gātu-fraxštīm, vī-daēsa [late-stage activities](/activities/late-stage/), ayās-ca xšapan-a-rāmai, vī-daēsa [late-day restlessness](/caregiving/late-day-restlessness/).
+𐬥𐬀𐬞𐬀𐬱 𐬥𐬌𐬵𐬌𐬌𐬀 𐬛𐬀 𐬵𐬀𐬨𐬀𐬱𐬀, 𐬀𐬌𐬐 [calm breathing](/games/calm-breathing/), 𐬨𐬀𐬌 𐬱𐬀𐬐𐬀𐬙 𐬭𐬀𐬵 𐬥𐬀𐬭𐬀𐬨 𐬮𐬀 𐬞𐬀𐬌𐬙𐬀𐬎𐬌𐬙 𐬠𐬀𐬎𐬌𐬙. 𐬮𐬀 𐬗𐬌𐬚𐬭𐬀 𐬠𐬀𐬯𐬌𐬨𐬀 𐬛𐬀 𐬥𐬀𐬰𐬌𐬐 𐬛𐬀 𐬎𐬭𐬙𐬀, 𐬵𐬀𐬰𐬀𐬭 [𐬑𐬭𐬀𐬙𐬀 𐬛𐬀 𐬰𐬀𐬎𐬀𐬥 𐬀𐬵𐬭𐬀𐬌](/activities/late-stage/), 𐬎𐬙𐬀 𐬮𐬀 𐬠𐬀-𐬥𐬌𐬵𐬌𐬌𐬀 𐬛𐬀 𐬭𐬀𐬨𐬱𐬀, 𐬵𐬀𐬰𐬀𐬭 [𐬠𐬀-𐬥𐬌𐬵𐬌𐬌𐬀 𐬛𐬀 𐬭𐬀𐬨𐬱𐬀](/caregiving/late-day-restlessness/).

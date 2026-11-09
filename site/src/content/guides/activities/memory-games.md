@@ -1,6 +1,6 @@
 ---
 title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
+seoTitle: "Best Memory Games for Dementia, Gentle Ideas"
 description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
 section: activities
 order: 18

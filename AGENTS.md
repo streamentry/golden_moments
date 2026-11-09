@@ -101,6 +101,12 @@ implements them through `gm…` constants and `gmBuildTheme`.
 5. Record the tested commit, commands, results, and remaining gates. Recheck
    upstream before writing; a concurrent merge requires fresh integration checks. Improve-until-done loops score with docs/improvements/rubric.md (automated evidence; above 8.6 overall, none below 7.0; person- or device-only checks are listed as not verified, never as blockers).
 
+CI is slow: never block on it. After pushing, record the PR number and head
+commit, then continue the next item of the goal. Check the PR's checks later, at
+the next natural step or on a later pass, and fix any failure on that branch.
+Do not poll, sleep, or run a background waiter for CI. Merge only when the final
+head's checks are green or the maintainer says to merge as is.
+
 For multi-session work, leave a compact handoff in the existing workboard or PR:
 completed change, evidence, unresolved risk, and next executable action. Do not
 create parallel task ledgers or claim an unperformed independent review.
