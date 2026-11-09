@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Veivakauqeti ni Yago vei ira era bula kei na mate ni yalomatua"
+seoTitle: "Veivakauqeti ni Yago: Rai kei na Veitaqomaki"
+description: "Veivakauqeti ni yago vei ira era bula kei na mate ni yalomatua, mai na veikau ni liga malua me yaco ki na kato ni kakana malumu kei na domo ni veikau, vata kei na veidusidusi savasava e baleta na veitaqomaki."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Na veivakauqeti ni yago e vakayagataka na veikau e nima: na tara, na bo, na kania, na rogoca kei na raica. E kena ivakarau e dua na veikau ni liga malua, e dua na kato ni kakana malumu, na kau wai vou me bo, na domo ni veikau, se na rai ki na manumanu vuka mai na katubaleka. E rawa ni vakayagataki ena veisiga kece ga, ka bibi cake ena gauna era sa qase cake kina. Me da qai vakadinadinataka taumada na veika e rawa ni tara, na veisaqasaqa, na leqa ni kuli se na yalovi ni bo, me solia ga e dua na ka e dua na gauna, ka me da biuti koya ga kevaka e sa sega ni vinakati.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Na veivakauqeti ni yago e sega ni gadrevi me dua na saumi dodonu, o koya gona e rawa ni vakayagataki ena veitabagauna kece ga, oka kina na nodra tiko ena kateni se ena idabedabe."
+  - "Solia ga e dua na yago e dua na gauna ena dua na rumu tudei, ka kerea se vakaraitaka taumada ni bera ni tara."
+  - "Kakua ni vakayagataka na iyaya lalai, se na ka e rairai me kakana ia e sega ni kakana, ni na rawa ni biuta na nodra gusu kina o koya o na qarava."
+  - "Vakadinadinataka taumada na veisaqasaqa, na leqa ni kuli kei na leqa ni cegu ni bera ni vakayagataka na waiwai ni veikau, na bo se na kakana."
+  - "E sega tu ga na ivakadinadina kaukauwa ni na rawa ni veivuke na waiwai kaukauwa me vakamalumalumutaka na nodra bula na tamata era bula kei na mate ni yalomatua; me vakayagataki ga na bo malua me kena marau, kevaka e vinakati."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Na veika vinaka cava e rawa ni vakayagataki me veivakauqeti ni yago vei koya e bula kei na mate ni yalomatua?"
+    a: "E rawa ni kenadau e dua na veikau ni liga malua vata kei na waiwai ni veikau, na kena tara na kakana malumu, na bo ni kau wai vou se kofi, na rogoca na sere makawa se na domo ni veikau, na rai ki na manumanu vuka se na ika ena wai, kei na kana e dua na ka e vinakati me na rawa ni kania ena kena ivakarau dodonu. Solia ga e dua na ka e dua na gauna ka raica na kena itukutuku."
+  - q: "E savasava beka na veivakauqeti ni yago vei koya e dau biuta na iyaya ena gusu?"
+    a: "E rawa ni savasava, ia me da qaqarauni. Me vakayagataki ga na iyaya levu e sega ni rawa ni miti, kakua ni vakayagataka na ka lalai se na ka e rawa ni basika, ka me da maroroya na waiwai ni veikau, na sovu kei na iyaya bo tani mai na kena icurucuru ni oti, ni na rairai me kakana se bo me kakana. Me da tiko vata ga kei koya ena gauna oqo."
+  - q: "Na waiwai kaukauwa beka e veivuke ena mate ni yalomatua?"
+    a: "E dua na vakadidike a cakava na Cochrane e kunea ni sega ni dua na ivakadinadina kaukauwa ni na veivuke na waiwai kaukauwa vei ira era bula kei na mate ni yalomatua, ia era lalai ga na vakadidike ka sega ni tautauvata na kena isau. Kevaka e marau o koya o na qarava ena dua na bo malua ka kilai tale, sa dodonu ga oqo, ia kakua ni vakayagataka na waiwai kaukauwa, vakabibi kevaka e tu vei koya na leqa ni cegu se na veisaqasaqa."
+  - q: "Na ivakatakata se na idabedabe ni kaukauwa cava oqo?"
+    a: "Oqo e dua na kakana kaukauwa, idabedabe se ibe ni duru e sa tutu tale kina na iyaya me tara, me vaka na buttons levu, na sirigi, na kaukauwa kei na veikau kaukauwa. E solia vei ira era gadreva me tara na liga e dua na ka me ra vakadidike kina. Me da vakadidike vakawasoma me raica kevaka e dua na ka sa drodro se rawa ni kau tani."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Na veivakauqeti ni yago e vakayagataka na veikau e nima: na tara, na bo, na kania, na rogoca kei na raica. E sega ni gadrevi na nodra cakacaka ni yalomana, na ituvatuva se na saumi dodonu, o koya gona e rawa ni vakayagataki ena veitabagauna kece ga. E bibi cake ena gauna era sa voleka sara ki na icavacava ni bula. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) e tukuna ni ena gauna ni icavacava, na vuravura e kau tani ga ena kena raici ena yago, ka rawa ni vakaraitaki na loloma ena tara, na domo, na raica, na kana kei na bo. Ena dua na vakadinadina savasava e rawa ni vakacegu taki kina na veivakauqeti oqo vei rau kece.
 
-## What are sensory activities for dementia?
+## Na cava na veivakauqeti ni yago vei ira era bula kei na mate ni yalomatua?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Na veivakauqeti ni yago e kena ivakarau dodonu ga e tautauyavutaki ena dua na yago e dua ga na gauna, me vaka na tara ni kakana malumu, na bo ni kau wai vou se na rogoca ni uca. Na [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e tukuna ni ena gauna ni icavacava e dodonu me vakataucokotaki na veivakauqeti oqo ki na yago, ka ra tukuna tale ga na sere, na iyaya me tara ka taura, kei na veikau ni liga malua. Na [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e tukuna ni o koya ena gauna ni icavacava e rawa ni kaukauwa cake na nona gagadre me taura e dua na ka voleka vua me vakacegui koya.
 
-## Sensory ideas, sense by sense
+## Na rai ni veivakauqeti, me vaka na yago yadua
 
-### Touch
+### Na tara
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Na veikau ni liga malua.** Vakacegu na waiwai ni veikau ena liga ka tarai malua mai na dai ki na mua ni dedo. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) e tukuna ni na veikau vata kei na waiwai sega ni bo e rawa ni vakacegui koya.
+- **Na kato ni kakana malumu.** Na kaukauwa levu ni kakana malumu me vaka na velvet, corduroy, fleece, satin kei na uludra me tara, lomana ka vosa vata kaya.
+- **Na ibe tavu ni wai malua.** E dua na ibe tavu e wai malua me baleta na liga ena siga batabata. Me da vakadinadinataka taumada na katakata ena liga i koya e na vakayagataka.
+- **Na ivakatakata se na ibe ni duru.** Na buttons levu, na sirigi, na kaukauwa kei na veikau kaukauwa sa kau vei koya ka sega ni drodro rawa.
+- **Na lomana ka saumi tale.** Na kato ni ibe tavu savasava se na napkin me lomana, tauyavutaki ka lomana tale.
+- **E dua na ka malumu me taura.** E dua na ibe fleece, e dua na duru se e dua na manumanu malumu ka sa caka vakataki koya, me solia wale ga, sega ni me dua na toy.
 
-### Smell
+### Na bo
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Na kau wai vou.** Duri na kau wai vou me vaka na mint, rosemary, basil se lavender ena daligagaga ka vakamalua vua.
+- **Na bo mai na katakata.** Na bo ni kofi e kana, na madrai e tunaki, na sinamoni se na moli e sa cavuti voleka.
+- **Na senikau.** Kauta mai e vica na senikau vou mai na vanua se mai na sitoa.
+- **E dua na iyaya e kilai.** Na sovu se na waiwai ni veikau ka dau vakayagataki tu ga, kevaka e rawa ni ciqoma na kuli koya.
 
-### Taste
+### Na kania
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **E dua na kakana e vinakati.** E dua na kaukauwa ni ka e vinakati me vaka na applesauce, pudding se ice cream, ena ivakarau e rawa ni kania vakasavasava.
+- **Veivuke ena tunaki.** Kana e dua na kau kauwai se e dua na kauwai ni frosting ena gauna e na tunaki vata kaya.
+- **Na kakana ni gauna.** Na veikau ni kaukauwa ena vula katakata, na cider katakata ena vula vula, me solia ena katakata dodonu.
 
-### Sound
+### Na rogoca
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Na sere e vinakati.** Na sere makawa ena rorogo malua; raica na [veivakauqeti ni sere](/activities/music/).
+- **Na domo ni veikau.** Na uca, na nasi ni waitui se na domo ni manumanu vuka. Na NIA e tukuna ni na sere, na domo sega ni ka se na domo ni veikau e rawa ni vakacegui e so na tamata.
+- **Nomuni domo.** Wilivola vakamalua, wai, se tukuni e dua na italanoa.
+- **Na iyaya rogoca lalai.** E dua na drumu ni liga, na shaker se na beli me veilomani vata kei na sere.
 
-### Sight
+### Na raica
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Na rai mai na katubaleka.** E dua na icibaciba ni manumanu vuka e tautuba ni katubaleka, na gone e lako i vale, se na niu e drodro.
+- **E dua na wai ika se na vidio malua.** Na veitosoyaki malua ka sega ni rorogo kaukauwa.
+- **Na foto levu.** E dua ga na iyaloyalo savasava e dua na gauna, ka tauri e na taudaku ni mata.
+- **Na roka kei na droini.** Tauyavutaki na veikau roka kaukauwa, na senikau se na napkin roka, se e dua na tabana ni droini rawarawa mai na neimami [droini](/games/coloring/).
+- **E tautuba.** Na NHS e tukuna ni na vanua kaukauwa kei na kau bo, na veikau kei na wai e rawa ni veivuke kina. Raica na [veivakauqeti tautuba kei na veikau](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Me caka e dua na kato ni veivakauqeti ni yago
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Digitaka e dua na ulutaga** ka semati ki na bula ni tamata oqo: na baravi, na veikau, na katakata, na valenisiga, na daucakacaka ni kaukauwa.
+2. **Digitaka e lima se ono na iyaya levu ka savasava,** me vaka na bu ni waitui levu, na kaukauwa ni kakana, na isulu malumu, e dua na kato lalai ni kau wai vou sa tutu vakaukauwa, se e dua na kau kaukauwa.
+3. **Vakadinadinataka na iyaya kece ga** me raica kevaka e tu kina na ka lalai, na bati baci, na kaukauwa drodro se na ka e rawa ni basika.
+4. **Kauta mai e dua ga na ka e dua na gauna.** Solia vua, vakaraitaka, ka me taura ka vakadidike koya.
+5. **Maroroya na kato ni oti** me sa dua ga na ka veivakauwaitaki ka me ra vakadinadinataka tale na iyaya ni bera ni vakayagataki tale.
 
-## Safety first
+## Na veitaqomaki taumada
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Na veivakauqeti ni yago e malua, ia e tiko ga e so na rarawa e dodonu me da raici vakavinaka. E so na tamata era bula kei na mate ni yalomatua e rawa ni lasu ni na kakana na iyaya sega ni kakana, ka na nodra gauna me miti e rawa ni dredre cake ena gauna sa voleka kina na icavacava; na NIA e vakaraitaka ni na dredre ni miti ena gauna ni icavacava e kaukauwa cake na nodra rui mita me tara.
 
-| Risk | What to do |
+| Na rarawa | Na ka me cakava |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Na mita me tara | Me vakayagataki ga na iyaya levu ka sega ni rawa ni miti. Kakua ni vakayagataka na buttons, na kaukauwa, na siliva, na marbles se na toy lalai ena kato. Solia ga na kakana ena ivakarau ka tukuna na timi ni veiqaravi ni veiqaravi me savasava. |
+| Na ka e rairai me kakana | Na NIA e tukuna me na kasivia na waiwai ni veikau, na sovu, na shampoo kei na waiwai bo, ni na rairai me kakana se bo me kakana, ka me kauta tani na kau wai vakailasu. Me biuti tani na iyaya ni veivakauqeti ni yago ni oti na kena vakayagataki. |
+| Na veisaqasaqa | Vakadinadinataka taumada na veisaqasaqa ki na kauwai, na latex, na uludra, na kau se na bo ni bera ni tekivu. |
+| Na bo kaukauwa | Kakua ni vakayagataka na waiwai bo kaukauwa kei na waiwai kaukauwa, vakabibi kevaka e tu na astma se na leqa tale ni cegu. Na bo malua ka mai vei kauga na kena savasava cake. |
+| Na kuli | Vakadinadinataka na kuli ni bera ni veikau ni liga. Vakayagataka na kaukauwa malua ka biuti koya ga kevaka e dua na ka e rarawa. |
+| Na katakata | Vakadinadinataka na ibe wai katakata kei na gunu ena liga i koya e na vakayagataka taumada. |
+| Na ka baci se na iyaya kaukauwa | Kakua ni vakayagataka na iyaya bati, na ilo se na iyaya ni cakacaka kaukauwa ka vakaqara me kaukauwa. |
 
-## Does aromatherapy help?
+## Na waiwai kaukauwa beka e veivuke?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Rawa ni sega. E dua na [vakadidike ni Cochrane e baleta na waiwai kaukauwa vei ira era bula kei na mate ni yalomatua](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) e raica na 13 na vakadidike ka oka kina e 708 na tamata, kece ga ena vale ni veiqaravi, ka kunea ni sega ni dua na ivakadinadina kaukauwa ni kena veivuke. Era lalai na vakadidike, sega ni tautauvata na isau, ka sega ni tukuni vinaka na itukutuku e baleta na itukutuku kaukauwa. Kevaka e marau o koya o na qarava ena dua na bo malua ka kilai, me vaka na bo ni lavender mai na veikau, sa dodonu ga me wasei vata kaya. Sega ni kena itukutuku ni veilomasoli.
 
-## How to offer a sensory activity
+## Me solia vakacava e dua na veivakauqeti ni yago
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Digitaka e dua na gauna tudei** ka biuta tani na TV.
+- **Lako mai na mata,** tukuna na yaca, ka kerea se tukuna vua ni bera ni tara: "Au sa tiko kei na waiwai ni veikau. O vinakata beka me'u veikau malua na liga ni o?"
+- **Solia ga e dua na ka e dua na gauna** me kakua ni vorati koya.
+- **Raica na kena itukutuku.** E dua na mata malua, na liga kua malua se e dua na domoni e dua na itokeni vinaka. Kevaka e toso tani, e dua na mata rarawa se e luvu na yaloda, me da biuti koya.
+- **Maroroya me lekaleka.** E lima na miniti malua e dua na gauna vinaka sara ga.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+E rawa ni dua na gauna ni cegu malua vata kaya, me vaka na [cegu malua](/games/calm-breathing/), me kena icavacava malua. Mo raica tale na veivakauqeti tale eso e na kateni, raica na [veivakauqeti ena gauna ni icavacava](/activities/late-stage/), ka me baleta na luvu ena bogi, raica na [luvu ena bogi ni siga](/caregiving/late-day-restlessness/).

@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "So neɗɗo wuurɗo e majjere demans ndewi naamnal gootal ndewi ndewi"
+seoTitle: "Naamne ndewtaaɗe e demans: ko mbi'ataa e ko waɗataa"
+description: "Hol ko saabii neɗɗo wuurɗo e majjere demans naamnude naamnal gootal ndewi ndewi, jaabawuuji deeƴuɗi, ballal beeɓngal, e nde waylitaare jaawnde ina foti ɗoktor."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Naamne ndewtaaɗe ina heewi e demans: heewi fof neɗɗo oo siftoraa naamnude,
+  tee naamnal ngal ina waawi roondude kulol. Jaabo e deeƴre e juutal no wa'i
+  nde adannde nii, jaabo e miijo wonngo caggal mum, tee hoto mbi'aa abada
+  "a naamnii ɗum kadi." Winndu jaabawol ngol ɗo o yi'ata, haalo fii jonte tan
+  seeɗa ko adii ɗe, tee hokka mo gollal belngal. Waylitaare jaawnde ina foti
+  ɗoktor.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Heewi fof neɗɗo oo siftoraa naamnude; wonaa ko o waɗi e dow anniya."
+  - "Naamnal ngal ina waawi suuɗaade miijo, no kulol fii jonte walla yiɗde heɓde hoolaare."
+  - "Jaabo e deeƴre, e juutal e moƴƴere, no wa'i nde adannde nii. Hoto mbi'aa abada \"a naamnii ɗum kadi.\""
+  - "Winndannde, allo winndorde, waktu walla hitaandeere ɗo o yi'ata ina waawi jaabaade naamnal ngal e innde maa."
+  - "Haalo fii jonte mettuɗe tan seeɗa ko adii ɗe waɗde."
+  - "Ɗaɓɓu fooftaare seeɗa so aɗa haajaa, noddu ɗoktor so waylitaare jaawnde waɗii."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Hol ko saabii baaba am wuurɗo e majjere demans naamnude naamnal gootal ndewi ndewi?"
+    a: "Demans ina mema hakkil juutɗo, ɗum noon o waawi siftoraade e goonga naamnude walla nannde jaabawol ngol. Heewi fof kadi naamnal ngal ina roondude miijo, no kulol fii ko arata walla sokla hoolaare. Jaabaade miijo ngoo ina wallita heewi fof ɓurii ɗewtude kabaruuji tan."
+  - q: "Foti mi haalaade mo omo naamnii kadi?"
+    a: "Alaa. Ɗum waawaa wallude mo siftoraade, tee ina waawi wa'ande mo no feƴƴitaare. Feddeeji wallooje yimɓe wuurɓe e majjere demans ina wasiyaa jaabaade e deeƴre kala nde, no wa'i nde adannde nii, tee jaabawol ngol yo juutataa."
+  - q: "Winndude jaabawol ngol ina wallita?"
+    a: "Ina waawi, tawi neɗɗo oo ina waawi janngude tawo. Winndannde, allo winndorde jogiingo eɓɓo hannde, waktu mawɗo walla hitaandeere ɗo o heewi yiyde ina addana mo ƴeewtaade jaabawol ngol e hoore mum. Hollu mo ɗum e moƴƴere, hoto mbi'aa \"mi haalanii ma.\""
+  - q: "Hol nde foti mi haalude fii jonte walla yaltugol?"
+    a: "Ɓadii ndeen. Haalde fii njillu ɗoktor walla yah-ngartaa balɗe ko adii ina waawi waɗde naamne kulol jammaaji fof. Haalanaa mo seeɗa ko adii, e deeƴre, e ko arata caggal mum."
+  - q: "Hol nde naamne ndewtaaɗe ina foti noddude ɗoktor?"
+    a: "So naamne, jiiɓru walla jikku waylitii e jaawre walla ɓeydii bonde no feewi e nder waktuuji walla balɗe, noddu ɗoktor makko ko yaawi. Ñawu, lekki keso, muuseendi, reedu saatundu walla ŋakkere ndiyam ina waawi addude jiiɓru jaawndu wi'eteeɗo deliriyom, ngo ina foti toppitaade jaawngol."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+"Waktu hombo ɗoktor oo?" Hojomaaji sappo caggal mum: "Waktu hombo ɗoktor oo?" Nandude naamnal gootal ndewi ndewi ko huunde mettunde no feewi e toppitaade neɗɗo wuurɗo e majjere demans. Ɗum ina heewi, wonaa ko waɗiraa e dow anniya, tee ina woodi laawol deeƴngol jaabaade ngal ina newnana on ñalawma ngal on fof.
 
-## Why does someone with dementia ask the same question over and over?
+## Hol ko saabii neɗɗo wuurɗo e majjere demans naamnude naamnal gootal ndewi ndewi?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Ko heewi fof ko hakkil. Demans ina mema hakkil juutɗo, ɗum noon neɗɗo oo heewi siftoraade naamnude, walla siftoraade jaabawol ngol. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) ina sifa naamnude naamne laabi keewɗi ko huunde heewnde tee tijjaande.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Naamnal ngal ina waawi kadi roondude miijo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ina sifora naamnal ndewtangal ina waawi hollirde kulol, ɗaɓɓitaare ballal, walla kulhuli e ŋakkere hoolaare, tee neɗɗo oo ina heewi yiɗde hoolkisineede e ko o anndi. "Hol nde njahaten?" ina waawi firtude "Miɗo hulaani yahde." Deƴƴere, hulde, dille e waylitaare e nder njuɓɓudi ñalawma ina waawi umminde ɗum, tee naamnal ndewtangal ina waawi kadi hollirde sokla, no yahde cuuɗi laɓɓinooji ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Ko hombo mbi'ataa?
 
-Answer calmly and briefly, as if it were the first time.
+Jaabo e deeƴre e juutal, no wa'i nde adannde nii.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Jaabawol ngol yo juutataa, yo nanndu.** "Ɗoktor oo ko waktu ɗiɗi kikiiɗe. Miɗo wonnda e maa." Jaabawol gootol ina newnannde heɓde.
+- **Jaabo miijo ngoo.** "Aɗa miijoo fii ɗoktor oo. Ko hannde kikiiɗe, miɗo watta en. Alaa ko foti a waɗde."
+- **Huutoro daande moƴƴere e memtagol deeƴngol,** so tawii omo yiɗi ɗum. Alzheimer's Association ina wasiyaa heddoraade deeƴre, hoto huutoro hujjaaji walla yeddondiral.
+- **Hokku jaabawol ngol o yiɗi,** nde laabi fof o naamni. Alzheimer's Association ina wi'a yo a ɗewtu ngal nde laabi fof o naamni.
 
-## What should I avoid?
+## Ko hombo haanu-mi reenude?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **"A naamnii kam ɗum kadi."** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ina wasiyaa hoto hollu mo omo naamnii jooni. Ɗum waawaa wallude mo siftoraade, tee ina waawi wa'ande mo no mo felniiɗo.
+- **Cifagol juutungol.** Ɗooftaare ɓurnde ina addude ko ɓurata yeeweede.
+- **Ɗuuɗugol, baɗtugol gite walla daande caɗtunde.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ina wasiyaa muñal e hoto hollu seppugol. Ɗum ina mettude; yiy taƴre fii fooftaaje les ɗoo.
 
-## Simple tools that answer the question for you
+## Kuutorɗe beeɓɗe jaabotooɗe naamnal ngal e innde maa
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Tawi neɗɗo oo ina waawi janngude tawo, jaabawol winndangol mo o yi'ata ina heewi wallude ɓurii jaabawol wowlaangol.
 
-| Tool | How to use it |
+| Kuutorɗe | No huutortee |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Winndannde e alkule mawɗe | "Ɗoktor hannde waktu 2 kikiiɗe. Mary maa wat." Waɗ ɗum ɗo o heewi ndaarude |
+| Allo winndorde | Eɓɓo hannde e laaɗe tati walla nayi; momtu, winnditaa goɗɗum kala subaka |
+| Waktu mawɗo wonnduɗo e ñalawma e ñalnde | Ina wallita e "Hannde ko ñalawma hombo?" e "Waktu heɓii?" |
+| Hitaandeere | Maantu kala ñalawma; waɗ feere e njillu garoowo |
+| Nate anndaaɗe | Natal neɗɗo aroowo ina waawi jaabaade "Hombo arata?" |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Miijooji ɗii ummorii ko e [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) e [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Hollu winndannde nde e moƴƴere ("Enen ndaaren allo ngoo e jokkondiral") ɗo mbi'aa "Mi winndanii ma ɗum."
 
-## Tell them about events close to the time
+## Haalanaa mo fii jonte ɓadii ndeen
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Haalaade fii jonte walla yaltugol balɗe ko adii ina waawi waɗde naamne kulol jammaaji fof. Family Caregiver Alliance e Alzheimer's Los Angeles ɗiɗi fof ina wasiyaa haalde fii eɓɓooji, tentinii ɗi mettuɗi no njillu ɗoktor walla lootugol, tan seeɗa ko adii ɗi waɗde. Caggal ɗum, haalanu mo ko arata caggal mum, go'o e go'o.
 
-## Activities that can shift attention
+## Golle ina mbaawi waylude hakkil
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Caggal nde jaabɗaa, jaɓaa miijo ngoo, gollal deeƴngal belngal ina waawi wallude, tentinii so deƴƴere woni caggal naamne ɗen. Kala cewlondirde dow ɗoo ina wasiyaa fawtude e huunde neɗɗo oo yiɗi.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Fijirde beeɓnde juutnde, waɗiinde e jokkondiral.** [Picture pairs](/games/picture-pairs/) ina waɗa nate ɗen e yi'ngo, ɗum noon alaa ko foti siftoreede.
+2. **Golle anndaaɗe.** Taggude taawle, suɓaade calze walla taƴnude taabal. [Sort together](/games/sort-together/) ko mbaydi majje e yaynirde.
+3. **Yewtude fii huunde o yiɗi.** [Conversation cards](/games/conversation-cards/) ina hokka naamne udditiiɗe tawa alaa jaabawol gootol moƴƴol.
+4. **Gimmi, yah-ngartaa walla ɓittugol.** National Institute on Aging ina limta ɗum e laawol beeɓngol fawtude hakkil.
+5. **Foftaare deeƴnde.** Jooɗoɗon e jokkondiral, ndaaree kañje, walla etaee [calm breathing](/games/calm-breathing/) e jokkondiral.
 
-If they return to the question, answer it again, kindly. That is fine.
+So o artiima e naamnal ngal, jaabo ngal kadi, e moƴƴere. Ɗum ina moƴƴi.
 
-## Look for patterns
+## Ƴeew njuɓɓudiiji
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association ina wasiyaa ƴeewde so naamne ɗen ina arude e waktuuji goɗɗi e nder ñalawma, wonndude e yimɓe goɗɗi walla e nokkuuji goɗɗi. So ɗe puɗɗii kala nde koɗo arata, walla e kikiiɗe, aɗa waawi eɓɓindaade law: winndannde fii njillu nguu, gollal anndangal hebulaangal, suudu deeƴndu. Hande amen fii [golle deeƴuɗe kikiiɗe](/caregiving/late-day-restlessness/) ina waawi wallude so kikiiɗe ɓurii saattude.
 
-## Take care of yourself
+## Toppito hoore maa
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Jaabaade naamnal gootal nde sappoo-ɗiɗaɓo ina ŋakkina semmbe. So a yiyii muñal maa ina ŋakka tawi neɗɗo oo ina hisi, naat e suudu goɗndu seeɗa, ƴeewaa, hono no [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) wasiyiri. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ina semmbinde toppitooɓe yo ɗaɓɓu ballal tee yo miijoo fii wallitorde fooftaare. Miijooji goɗɗi ina woodi e [hande amen toppitorde hoore maa](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Hol nde foti mi noddude ɗoktor?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Noddu ɗoktor makko ko yaawi so naamne, jiiɓru walla jikku waylitii e jaawre walla ɓeydii bonde no feewi e nder waktuuji walla balɗe. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ina wi'a jikku waylitoowo e jaawre walla ko waylotoo ko yaawi, tentinii caggal ñawu walla waylitaare lekki, ina foti haalaade ɗoktor ko yaawi. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) ina sifora ñawu, lekki, ŋakkere ndiyam, muuseendi walla reedu saatundu ina waawi addude deliriyom, jiiɓru jaawndu caɗtundu ngo ina foti safara jaawngol. Noddu numru wallitorde caggal haɗe e nokku mon so tawii hay gooto no e caɗeele.

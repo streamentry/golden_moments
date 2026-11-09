@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Sarakovi e dua e tauvi mate ni yalolailai ena vale ni veilomani se valenibula"
+seoTitle: "Sarakovi e tauvi mate ni yalolailai: Na ka me caka ka kauta"
+description: "Na ka me caka ni o sarakovi e dua e tauvi mate ni yalolailai ena vale ni veilomani, vale ni qase se valenibula: na ka me kauta, veikauyaki rawarawa, sarakovi lekaleka ka biuti koya vinaka."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Ni o sarakovi e dua e tauvi mate ni yalolailai ena vale ni veilomani se valenibula, me rawarawa ga na ka o na cakava: tukuna na yacamuni ni o sa yaco, ka tukuna talega ko cei o iko, kauta mai e dua na ka me veikabau vakataki kemudrau me vaka na itaba, na sere taleitaki se kakana e sa vakadonui tu mai vei ira na kaimawi. Na sarakovi lekaleka ka dau caka vakawasoma e dau vinaka cake mai na sarakovi balavu ka sega ni dau caka. Tuvana talega e dua na sala ni veibiuti tudei ka malua me na rawarawa vei kemudrau e rua.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Kerekereveitaki koya ena yacana ka tukuna ko cei o iko, me kakua ni gadreva me na kune koya vakataki koya: 'Bula na tinaqu, o yau o Susana, na luvequ yalewa.'"
+  - "Kauta mai e dua se rua na ka me veikabau vakataki kemudrau, me vaka e dua na kato itaba, na sere taleitaki, e dua na ibe malumu se kakana e sa vakadonui tu mai vei ira na kaimawi."
+  - "Na sarakovi lekaleka ka dau caka vakawasoma e dau vinaka cake mai na sarakovi balavu ka sega ni dau caka vakawasoma. Na nomuni tiko voli ga e ka bibi cake mai na levu ni nomuni vosa."
+  - "Ena valenibula, solia vei ira na kaimawi e dua na pepa lekaleka me baleti koya, ka tukuna vakamalua vei na vuniwai ni dua na veisau vakamalua e yaco vei koya."
+  - "Tuvana nomuni biuti koya: tukuna na levu ni gauna o na tiko kina, vakayagataka na sala ni veibiuti vata ga ena gauna kece, ka biuti koya ka kua ni tiko cake."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Na ka cava me'u kauta mai ni'u sarakovi e dua e tauvi mate ni yalolailai?"
+    a: "Me kauta mai e dua na ka me veikabau vakataki kemudrau, sega ni ka me veivosakitaki kina. E rawa ni o kauta mai e dua na kato itaba lekaleka, e dua na lisi ni sere taleitaki ena talevoni, e dua na ibe malumu, wai ni liga ni kaukauwa malumu, dua na ivola ni itukutuku me baleta e dua na cakacaka taleitaki ni gauna eliu, se kakana e sa vakadonui tu mai vei ira na kaimawi. Ena vale ni veilomani, na itaba ni vuvale kei na iyaya vakatabakidua e rawa ni vakayadrati ira cake kina na ka kece me vaka na nodra vale."
+  - q: "Ena bau vakacava na balavu ni noqu tiko ni'u sarakovi e dua e tauvi mate ni yalolailai?"
+    a: "Sega ni dua na iwiliwili dodonu. E vuqa na vuvale era kunea ni na lekaleka ka dau caka vakawasoma e vinaka cake mai na balavu ka sega ni dau caka vakawasoma, ni na o koya o ya e rawa ni oca vakamalua ka sega talega ni na naumaki rawa ni o tiko vakacava na balavu. Vakaraica na ivakatakilakila ni oca ka biuti koya ni sa se vinaka ga na sarakovi."
+  - q: "Na ka cava me'u cavuta ni sa kerea o koya me gole i vale?"
+    a: "Vakila na nona vakasama, ka kua ni vakila na vosa ga. Na vosa 'au gadreva meu gole i vale' e dau kena ibalebale 'au sega ni vakacegu se sega ni veilomani oqo'. E rawa ni o cavuta, 'Talanoataka vei au na nomu vale', veikabau vata kei koya ena itaba, se kauta koya me dua na lakovi lekaleka se solia e dua na kakana. Na veisaqasaqa se na vakamacalataka ni sega ni rawa me gole i vale e dau vakaleqa cake ga kina na nona rarawa."
+  - q: "Na cava ke sega ni kila au o koya?"
+    a: "E rawa ni rarawa, ia me kakua ni o veivakadonui se taroga, 'Sega beka o na kila cei au?' Kila iko vakamalua ka rawarawa ga. E vuqa era se taleitaka ga na nodra tiko vata kei na tamata ka ra se rogoca ga na katakata ni sarakovi, ia era sega ni naumaki rawa ko cei o iko."
+  - q: "E rawa vakaevei meu vukei koya ena kena tiko ena valenibula?"
+    a: "Tiko vata kei koya ni rawa, vukei koya me kana ka gunu, ka kauta mai na iyaya taleitaki me vaka na itaba. Solia vei ira na kaimawi e dua na pepa ni tiko vakawa e tiko kina, ka tiko kina na nodra ituvatuva ni veisiga, na yaca taleitaki era dau kerea, na ka era taleitaka ka sega ni taleitaka, kei na ivakatakilakila ni rarawa. Tukuna vakamalua vei na vuniwai ke sa dua na veisau vakamalua ka dredre vei koya o ya, ni na veivakasaurarataki vakamalua e rawa ni ivakatakilakila ni dua na leqa ni bula."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Ni o sarakovi e dua o a lomana ena vale ni veilomani, vale ni qase se valenibula, e rawa ni yaco eso na vakasama ka rarawa. E rawa ni o taroga se na cava me'u cavuta, na cava me'u kauta mai, se ni bibi dina ga na noqu sarakovi kevaka e na sega ni naumaki au tale. Io, e bibi dina ga. E tukuna na National Institute on Aging ni e vuqa na tamata era tauvi mate ni yalolailai [era taleitaka ga na nodra tiko vata kei na tamata](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ia era sega ni naumaki rawa ko cei na tamata era sarakovi ira. Na tabana oqo e solia vei iko eso na ka me caka taumada, ena gauna ni sarakovi, kei na oti ni sarakovi, vata kei eso na vakatutu me baleta na tiko ena valenibula.
 
-## How do I get ready for a visit?
+## Na cava me'u cakava taumada ni'u sa na sarakovi?
 
-A little planning makes the visit easier for both of you.
+Ena dua na ka lekaleka me tuvanaki e rawa ni vakamalua cake kina na sarakovi vei kemudrau e rua.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Dina na gauna dodonu.** E tukuna na Dementia Australia me sarakovi ena gauna e dau yadra cake kina na tamata o ya, ka vei ira e vuqa oqo na mataka se cadra ni siga. E tukuna talega na Family Caregiver Alliance me vulica na ituvatuva ni vale ni veilomani ka me sarakovi ena [gauna era malolo kina ka sega ni tiko ena veikauyaki](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Kerei vei ira na kaimawi.** Taroga se tiko vinaka vakacava o koya ena siga oqo, ka vulica talega na lawa me baleta na kakana, na manumanu se na lako yani.
+- **Tuvana e dua na kato ni sarakovi.** E dua se rua ga na ka me veikabau vakataki kemudrau e basata ga (raica na lisi e ra).
+- **Tuvana eso na ulutaga me veivosakitaki.** E rawa ni sega ni tiko tale e dua na itukutuku me kau mai na tamata o ya, o koya gona me kauta mai nomu ga: na itukutuku ni vuvale, na draki, e dua na qito ni polo, se e dua na tukutuku veivakacegui.
+- **Tuvana nomuni namaki ga.** Eso na sarakovi era na katakata ka veikauyaki, eso talega era na bogi se dredre. Era ka masani kece oqo.
 
-## What should I bring?
+## Na cava me'u kauta mai?
 
-Bring things to share, not things that test. Good choices include:
+Me kauta mai na ka me veikabau vakataki kemudrau, sega ni ka me vakatovolei koya kina. Eso na ka vinaka oqo:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **E dua na kato itaba lekaleka** ka levu ka savasava na itaba. Vakamacalataki ira ena taudaku me ra kila kina na kaimawi.
+- **E dua na lisi ni sere** taleitaki ena talevoni, ka rawa ni o vakayagataka na kaukauwa ni daliga rawarawa se dua na spika lekaleka.
+- **E dua na ka malumu me taura,** me vaka e dua na ibe taleitaki, sikavu se suaki.
+- **Wai ni liga ni kaukauwa malumu** me dua na oca malumu ena liga, kevaka e taleitaka na tamata o ya na veicaqomi.
+- **E dua na ivola se ivola ni itaba** me baleta e dua na ka taleitaki ni gauna eliu, me vaka na teitei, motoka, manumanu vuka se kana kakana.
+- **E dua na kakana taleitaki,** kevaka e sa tukuna na kaimawi ni taqomaki.
+- **Iyaya taleitaki me vakayadrati kina na rumu.** E tukuna na Family Caregiver Alliance me kauta mai na senikau, kau, itaba ni vuvale kei na droini, se e dua na pepa levu ni itaba ni vuvale mai na gauna eliu.
+- **E dua na tablet,** me ra raica vata kina na itaba ni vuvale se veikauyaki vakamalua vata ga.
 
-## What can we do together during a visit?
+## Na ka cava e rawa keirau veikauyaki vata ena gauna ni sarakovi?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Na veikauyaki vata e rawa ni vagalalataki na loloma ni veivosaki. E tukuna na Dementia Australia me raica vata na itaba, cakacaka rawarawa, tea kau lekaleka, sere, veikabau vata ena kakana, se lakovi wavokita na vanua. Eso talega na rai ni ka:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Raica vata na itaba.** Vakatakila na ka o raica: "Raica na iqele oqo." "E totoka sara o ya na baravi." Me vakadonuya me kauta na noda veikauyaki o koya. Kakua ni taroga, "O cei o koya oqo?"
+2. **Qito ni sere ka lagasere vata.** Na sere taleitaki e rawa ni vakaceguya ka kau mai e dua na gauna veikabau, ia na veivosaki e dredre.
+3. **Lakovi lekaleka.** E tukuna na Family Caregiver Alliance me lakovi wavokita na vale ni veilomani, vakabibi kevaka e tiko e dua na veikau teitei. E okati talega e dua na lakovi ena idabedabe veitosoyaki.
+4. **Solia e dua na oca ena liga.** E dua na wai ni liga kaukauwa malumu ka dua na caka malumu ena liga e rawa ni vakaceguya.
+5. **Vukei koya ena nodra ivakarau.** E tukuna na Dementia Australia me daramaka na ulu, biuti na ikau ni liga malumu se vukei koya me daramaka na nona isulu taleitaki, kevaka e taleitaka.
+6. **Qito e dua na qito rawarawa.** E tukuna na Family Caregiver Alliance me vakayagataka na pepa qito, domino se na ka era dau qito kina eliu. Ena tablet, e rawa ni qito [Picture Pairs](/games/picture-pairs/) ka ra tu ga na itaba ka sega ni dua na gauna. [Photo Pairs](/games/photo-pairs/) e vakavurea na itaba o sa digitaki me dua na qito veivakatautauvatataki, ka ra na tiko ga ena nomu brausa.
+7. **Raici vata e dua na ka.** E tukuna na Family Caregiver Alliance me raici na comedy se na itaba ni motoka makawa. Kevaka mada ga e sega ni muria vinaka na itukutuku o koya, e rawa ni tiko voleka ka veikabau vata ga.
+8. **Wilivola vakacurumi.** E dua na serekali lekaleka, e dua na tikina taleitaki se e dua na leta mai vei na vuvale.
+9. **Tiko ga vata.** Na taura liga se tiko bogi vata ga e dua na sarakovi dina. E tukuna na Alzheimer's Association ni sa dodonu ga ni sega ni kila na ka me cavuta, ka na kena bibi duadua o iko tiko voli ga.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+E rawa ni vukei iko na [Conversation Cards](/games/conversation-cards/) ni o sa oti na nomuni ka me veivosakitaki. E dua talega na itaba ka tiko kina ka dua na taro ni veivosaki kaukauwa.
 
-## How should I talk during the visit?
+## Na sala vakaevei me'u veivosaki kina ena gauna ni sarakovi?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Kila iko ena gauna kecega.** "Bula na tamaqu, o yau o Maka, na luvequ tagane." E tukuna na NIA me kila ga vakalekaleka koya o iko me tekivu kina na veivosaki.
+- **Lako mai ena mata** ka dabe ena ivakatagedegede ni nona mata.
+- **Kua ni veivakadonui se veisaqasaqa.** E tukuna na NIA me kakua ni veivakadonui koya ke dua na cala se guilecava e dua na ka.
+- **Vosota** ni dredre me kune na vosa. Solia na gauna sa basata.
+- **Vakila na nona vakasama.** Kevaka e rarawa se oca o koya, vakadinadina talega ka oti ga o koya ka biuta na ulutaga tale.
+- **Kua ni taroga me vakatovolei.** Me vaka "O na kila au beka?" se "Na cava o a kana ena kanaivanua?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Raica talega na neitou [vakatutu ni veivosaki](/caregiving/communication-tips/) me baleta eso tale na ka.
 
-## What do I do when they say "I want to go home"?
+## Na cava me'u cakava ni sa kerea o koya me gole i vale?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Vakila na vakasama e tu e muri ni vosa (na neitou ivakadewataka baleta [ni dua e dau kerea me gole i vale](/caregiving/asking-to-go-home/) e tiko kina eso tale na ka). E tukuna na Family Caregiver Alliance ni na vosa "au gadreva meu gole i vale" e dau ibalebale ni "au sega ni vakacegu" ka e tukuna eso na isau me vaka "Talanoataka vei au na nomu vale" se "Na cava e taleitaki cake vei iko ena nomu vale?" E tukuna talega na Dementia Australia ni na "vale" e rawa ni kena ibalebale e dua na gauna se vanua e a veilomani kina o koya.
 
-Try:
+Vakayagataka na ka oqo:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- Vakila na nona rarawa: "Au rogoca ni o sa misa ki na vale."
+- Solia na veicaqomi kevaka e vinakati
+- Raica vata na itaba se veivosaki me baleta na vale ni vuvale
+- Solia e dua na lakovi, e dua na gunu se e dua na kakana
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Kua ni veisaqasaqa se vakamacalataka ni sega ni rawa me gole i vale. E sega ni vukei rawa ka dau vakaleqa cake ga na rarawa.
 
-## How long should a visit be?
+## Ena bau balavu vakacava e dodonu me'u sarakovi kina?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Na lekaleka ka dau caka vakawasoma e vinaka cake. E tukuna na Family Caregiver Alliance ni o koya oqo e sega ni naumaki rawa ni o tiko lima na miniti se lima na auwa, ka e tukuna ni tolu na sarakovi lekaleka ena wiki e rawa ni vinaka cake mai na dua ga na sarakovi balavu. E tukuna talega na Dementia Australia ni sega ni dua na wiliwili dodonu me baleta na levu ni sarakovi se na balavu.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Ena imatai ni veimacawa ni nona biubiu ki na vale ni veilomani, e tukuna na Family Caregiver Alliance me sarakovi vakawasoma, ka qai malua ga o koya ka tuvanaki ki na dua na ituvatuva tudei. Taroga vei ira na kaimawi na ka era sa raica tiko.
 
-## How do I leave without upsetting them?
+## Na sala vakaevei meu biuti koya ka sega ni rarawa?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Na biuti koya e dau na ka dredre duadua. E tukuna na Dementia Australia me:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Tukuna na levu ni gauna o na tiko kina ni o sa yaco.** "Au na tiko e dua na auwa, ka qai gole meu volia eso na ka."
+- **Vakayagataka e dua na veikauyaki me itinitini ni sarakovi.** "Ni keirau sa oti oqo na sere, au na biuti iko oqo."
+- **Cakava na biuti koya ena gauna ni kanaivanua se dua na veikauyaki,** se kerea vei ira na kaimawi me ra vukei koya me laki tiko ena dua na ka tale.
+- **Kua ni balavu na veibiuti ka vakayagataka ga na sala vata ga ena gauna kecega.** Na tiko cake, na vosota rarawa se na tiko "lekaleka ga tale" e rawa ni dredre cake kina na veibiuti ena veisiga mai na mua.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Ni o sa biuti koya, e dautou rarawa. Me kakua ni dua na ka oqo. Kevaka e rarawa o koya, e rawa ni vukei koya vakamalua na kaimawi ni oti ga na nomuni biuti koya.
 
-## Visiting someone with dementia in the hospital
+## Sarakovi e dua e tauvi mate ni yalolailai ena valenibula
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+E dua na valenibula e dau caca, sega ni kilai, ka taucoko kei na tamata sega ni kilai, ka oqo e rawa ni dredre sara vei dua e tauvi mate ni yalolailai. E tukuna na ivakadewataka ni NIA me baleta [na kau mai e dua e tauvi mate ni Alzheimer's ki na valenibula](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital):
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Tiko vata kei koya ka rawa ni levu cake.** E dua na lewe ni vuvale, e dua na itokani taleitaki se e dua na dauveivuke sa saumi me tiko vata kei koya.
+- **Solia vei ira na kaimawi e dua na pepa ni itukutuku ni tamata.** Tiko kina na nodra ituvatuva ni veisiga, na yaca taleitaki era dau kerea, na ka era taleitaka ka sega ni taleitaka, na ka e rawa ni vakacacana nodra vakasama, kei na ivakatakilakila ni rarawa ka sega ni cavuti ena vosa. Biuta eso na pepa ena rumu ka talega ena vale ni kaimawi.
+- **Vukei koya me kana ka gunu.** E vuqa na qase era na sega ni kana ka gunu vakavinaka ena valenibula. Dolavi na konete, vukei koya ena kanaivanua, kana vata kei koya, ka solia na gunu vakawasoma.
+- **Kauta mai na iyaya vakacegu.** Me vaka na itaba se na iyaya ni lotu taleitaki.
+- **Vakamalua na domo.** Katia na teviti ka vagalalataki na domo ni talevoni kei na intercom.
+- **Vakayagataka na itovo vakacegu.** Me vaka na sere malumu, wilivola, masu, lagasere se raica na itaba makawa.
+- **Vukei koya me toso** ni sa malumalumu ka rawa ka sa vakadonui tu mai vei ira na kaimawi.
+- **Tukuna vakamalua vei na vuniwai kevaka e dua na veisau vakamalua ka dredre vei koya.** E tukuna na NIA ni na veivakasaurarataki vakamalua levu, ka vakatokai ni delirium, e rawa ni oka kina na mate ni sukari, katakata ni yago, druka ni wai se na revurevu ni waiwai ni wainimate, ka gadreva na veivuke vakavuniwai.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+E dua na sarakovi lekaleka ka malua, vata kei na mata taleitaki ka dua na sere taleitaki, e rawa ni na ka kaukauwa duadua ni vakacegu ena siga ena valenibula.
 
-## Bringing children on a visit
+## Kauta mai na gone ena sarakovi
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Era rawa ni kau mai na katakata levu na gone. Vakavulici ira taumada ena vosa rawarawa ka dina, me lekaleka na sarakovi, ka solia vei ira e dua na cakacaka, me vaka na vakaraitaka e dua na droini se solia e dua na itaba. E tukuna na NIA ni era rawa ni veikauyaki rawarawa vata na gone kei ira era tauvi mate ni Alzheimer's, me vaka na raica vata na kato itaba se rogoca vata na sere. E tukuna talega na Dementia Australia me tuvana e dua na kato lekaleka ni kakana se ka malumu me ra laki veikauyaki kina na gone lalai.
 
-## Take care of yourself too
+## Vakaraica talega iko ga
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Na sarakovi e rawa ni oca ka vakayarayarataki, vakabibi kevaka sa veisau levu na tamata o ya. E dodonu ga me sarakovi vakalailai ke o gadreva, kauta mai e dua na itokani me vukei iko, se biuti koya vakalevu ena dua na siga dredre. Me baleta eso na rai, raica na [veivuke vei koya e dau qarava](/caregiving/caregiver-self-care/). Kevaka o tiko yawa, raica talega na neitou ivakadewataka me baleta na [talevoni kei na sarakovi ena vidio](/activities/phone-and-video-calls/).

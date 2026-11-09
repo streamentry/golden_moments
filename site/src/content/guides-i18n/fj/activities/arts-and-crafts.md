@@ -1,32 +1,34 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Cakacaka ni Liga vei Ira era Bula Vata kei na Mate ni Vakanananu"
+seoTitle: "Cakacaka ni Liga kei na Mate ni Vakanananu: me Qase Dina"
+description: "Vakasama ni cakacaka ni liga me baleti ira na qase era bula vata kei na mate ni vakanananu, mai na watercolor kei na collage ki na tuvatuva ni senikau, kei na ivakasala ni vakarautaki."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Na cakacaka ni liga vinaka me baleti ira na qase era bula vata kei na mate ni
+  vakanananu e rairai ka vakilai me vakaibalebale vei ira na qase: watercolor,
+  collage mai na mekasini, tuvatuva ni senikau, qele ni cakacaka, caka kadi
+  rawarawa se tabana ni rokataki roka me baleti ira na qase. Tuvanaka e vica na
+  iyaya, vukei koya ena imatai ni toso ni liga kevaka e gadrevi, veitalanoa ni
+  kemudrau cakacaka vata, ka raica na gauna vata oya me bibi duadua. E sega ni
+  dodonu me taucoko na cakacaka.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Digitaka na iyaya kei na ulutaga e rairai me vakaibalebale vei ira na qase, me vaka na pepa ni watercolor, senikau dina kei na iyaloyalo mai na mekasini, sega na glitter, sitika se pepa ni cakacaka vaka gone."
+  - "Vakanamata ki na kena iwalewale: na roka, na kena vakilai na qele ni cakacaka, na veitalanoa. Na cakacaka e taucoko e ka vinaka ga, sega ni inaki levu."
+  - "Solia e dua na inaki kevaka e rawa, me vaka e dua na kadi me baleta e dua na makubui se dua na ivakaraitaki me biu ena teveli."
+  - "Vukei koya me tekivu, oti qai toso vakamalua yani. Na tekivutaka vata e dua na toso ni burusi e rauta tu ga ena so na gauna."
+  - "E sega ni dodonu me taucoko na cakacaka ena dua ga na gauna, ka e vinaka tu ga me cegu taumada."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Au na cakava vakacava me kua ni rairai vaka gone na cakacaka ni liga?"
+    a: "Vakayagataka na iyaya ni cakacaka dina, na ulutaga vaka qase kei na ivakarau ni vosa dokai. Veisautaka na glitter kei na tabana ni roka vaka gone ki na pepa ni watercolor, isulu, senikau, iyaloyalo mai na mekasini kei na tabana ni rokataki roka matailalai. Kakua ni vakacaucautaka na cakacaka me vaka o ni vakacaucautaka na droini ni gone; veitalanoataka me vaka o ni veitalanoa kei e dua tale na qase."
+  - q: "Na cava na cakacaka ni liga e yaga ena ituvaki ni mate ni vakanananu e sivia yani?"
+    a: "Na cakacaka rawarawa ka vakilai e vinaka duadua ena gauna oqo: boroya na toso lelevu ni burusi levu, qaqia na qele malumu, tuvata e vica na senikau ena dua na bilo, se tuvata na tiki ni isulu me vaka na kena vakilai. Ena so na gauna o na rairai gadreva mo tekivutaka vata na toso. Na sarava nomu boroya ka veitalanoa baleta na roka e dua talega na sala ni vakaitavi."
+  - q: "Vakacava kevaka e kaya ni sega ni rawa ni droini?"
+    a: "Kauta laivi na lomaleqa. Tovolea na cakacaka e sega kina na isau dodonu, me vaka na roka ni watercolor e tawa vakamatai, e dua na collage, se na tuvatuva ni senikau. O rawa talega ni kaya o gadreva na nona veivuke ena dua na ka matailalai, me vaka na digitaki ni roka me baleta e dua na kadi, me rairai me veivuke ga, sega ni veitarogi."
+  - q: "E rairai vaka gone vei ira na qase na tabana ni rokataki roka?"
+    a: "Sega, kevaka era caka me baleti ira na qase. Digitaka na tabana e tiko kina na ulutaga vaka qase me vaka na iteitei, ibe, motoka se vanua, ka vakaraitaka me ka ni vakacegu, sega ni lesoni. Na neimami tabana ni rokataki roka e rawa ni tabaki se rokataki ena dua na tablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +50,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Na cakacaka ni liga kei na droini e solia vei ira era bula vata kei na mate ni vakanananu e dua na sala me vakaraitaka kina na nodra nanuma ka sega ni vakatau ena kena kune na vosa donu. Na Alzheimer's Association e tukuna ni cakacaka ni liga e rawa ni kauta mai e dua na [ivakarau ni rawaka kei na inaki](https://www.alz.org/help-support/caregiving/daily-care/art-music) kei na dua na madigi ni vakaraitaki koya, vei koya e qaravi kei na tamata e bula vata kei na mate ni vakanananu talega. Na ka bibi me maroroi na ka me vakaibalebale vei ira na qase, rawarawa ka sega ni lomaleqa. Na tabana oqo e solia na cakacaka matata, na sala ni vakarautaki kei na sala ni veisautaki ni ka e veisau.
 
-## What makes an art activity adult and not childish?
+## Na cava e cakava me vakaibalebale vei ira na qase na cakacaka ni liga, ka sega ni vaka gone?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+E dua na cakacaka ni liga vaka qase e vakayagataka na iyaya dina, na ulutaga vaka qase kei na ivakarau ni vosa dokai. Na Alzheimer's Association e vakasalataki me maroroi na cakacaka ena ivakatagedegede vaka qase ka levea na ka e rairai me vakalolovirataki se vaka gone.
 
-| Feels childish | Feels adult |
+| E rairai vaka gone | E rairai vaka qase |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glitter, sitika ni foam, mata ni vakatovolei | Pepa ni watercolor, isulu, senikau mamaca |
+| Tabana ni rokataki roka vaka gone | Tabana ni rokataki roka ni iteitei, ibe, motoka se vanua |
+| Vosa ni vakacaucau me vaka "Caka vinaka" ena veika kece | Veitalanoa dina: "E rairai totoka na roka karakarawa oya volekata na drokadroka" |
+| E dua na cakacaka e sega na kena yaga | E dua na kadi me baleta e dua na itokani, e dua na ivakaraitaki, e dua na isolisoli |
+| Na idusidusi e rairai me lesoni | E dua na sureti: "O rawa ni vukei au ena ka oqo?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Vakasamataka na nona itovo na tamata o qaravi. E dua e taleitaka na culacula e rawa ni marautaka na taura na isulu. E dua a cakacaka vaka idinia e rawa ni taleitaka e dua na kato ni cakacaka e levu na kena tiki se na tuvatuva ni iyaya me baleta e dua na cakacaka. E dua a qasenivuli e rawa ni marautaka na caka kadi.
 
-## Why focus on the process, not the product?
+## Na cava na vuna me vakanamata ki na iwalewale, sega ni itinitini?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Baleta ni gauna vata oya na ka bibi. Na idusidusi ni Alzheimer's Association me baleta na [itaviqaravi ena vale](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) e kaya me vakanamata ki na iwalewale, sega ni macala. E dua na droini e "karakarawa ga" e droini tikoga. E dua na collage e tolu na iyaloyalo e collage tikoga.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Na Association e tukuna talega ni dua na daudroini kila e rawa ni rarawa ena veisau ni nona cakacawa, ia e dua e sega ni dau cakava vakalevu e rawa ni marautaka e dua na madigi vou me vakaraitaka koya. Kevaka na tamata o qaravi e dua na daudroini kila, tovolea e dua na mataqali iyaya duatani mai na ka a kila vinaka, me rairai me qito ga, sega ni veidutaitaki.
 
-## Arts and crafts ideas to try
+## Vakasama ni cakacaka ni liga mo tovolea
 
-Each idea includes how to make it simpler if it becomes hard.
+Na vakasama yadua e tiko kina na sala me vakarawarawataki kevaka e dredre.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Roka ni watercolor.** Vakasuia e dua na pepa ni watercolor bibi ka laiva na tamata o qaravi me biuta na roka kina ena dua na burusi levu. Na roka e tete vakataki koya, ka sega kina na isau cala. *Rawarawa cake:* solia e rua ga na roka, se boroya ena wai ena dua na pepa loaloa ka laurai kina na iqaqi ni wai.
+2. **Collage mai na mekasini.** Musuka taumada na iyaloyalo mai na mekasini ni teitei, vakasaqa, motoka, veilakoyaki se na ka a taleitaka na tamata o qaravi. Laiva me digitaka ka kabita na iyaloyalo ena kadi. *Rawarawa cake:* solia e va na iyaloyalo sa musu oti kei na dua na wa ni kabita, ka kabita vata.
+3. **Tuvatuva ni senikau.** Na Alzheimer's Foundation of America e vakatura na [tuvatuva ni senikau kei na drauna](https://alzfdn.org/dementia-activity-gardening/) me caka kina na ivakaraitaki rawarawa. Vakayagataka e dua na bilo bibi ka tudei kei na kau ni senikau sa musuki oti. *Rawarawa cake:* biuta e vica na kau ena dua na bilo lailai, dua e dua.
+4. **Kadi ni senikau mamaca.** Vakadrodroya na senikau mai na dua na ivauvau ena maliwa ni tabana ni ivola me dua na macawa, oti qai kabita ena kadi. *Rawarawa cake:* o biuta na wa ni kabita, o koya e tabaka sobu na senikau.
+5. **Tabana ni rokataki roka me baleti ira na qase.** Digitaka na tabana e matata na kena laini kei na ulutaga dina. Na neimami tabana ni [rokataki roka](/games/coloring/) e rawa talega ni tabaki se rokataki ena sikirini ena noda tabaka e dua na roka, oti e dua na tiki ni iyaloyalo. *Rawarawa cake:* vanua lelevu cake, lailai na roka, peni bibi.
+6. **Qele ni cakacaka se qele malumu.** Vivilia, tabaka ka bulia na qele e mamaca vakataki koya se na qele malumu ni cakacaka. Na tabaki ni dua na drauna ena qele e bulia e dua na ivakatakarakara rawarawa. *Rawarawa cake:* na qoqia kei na vivilia walega e dua na cakacaka taucoko. Raica vinaka me kua ni kania na qele na tamata o qaravi.
+7. **Caka kadi.** Na Alzheimer's Association e vakatura me vakamacalataki me itaviqaravi dina: "Eda na vakauta e dua na kadi ni bula vinaka vei e dua na itokani. O rawa ni vukei au?" E yaga na kadi sa musuki oti kei na vica na sitika ni senikau se sitaba.
+8. **Tuvatuva ni ivola ni nanuma.** Tuvata vata na ilavelave ni iyaloyalo makawa, posikadi se tiki ni tikite ena tabana ni albamu. Veitalanoa baleta na yadua ni o cakava tiko. Raica na neimami [idusidusi ni nanuma lesu](/activities/reminiscence/) me baleta na sala malumu ni veitalanoa baleta na veigauna sa oti.
+9. **Ibolo ni isulu kei na ka e vakilai.** Kabita na tiki ni corduroy, velvet, burlap kei na silk ena kadi kaukauwa. Na kena caka na cakacaka; na kena tara ena dua na gauna e dua tale na cakacaka. Eso tale na vakasama e tiko ena neimami [idusidusi ni itaviqaravi vakilai](/activities/sensory/).
+10. **Vakarautaki rawarawa ni kau.** Me baleta e dua a taleitaka na cakacaka ni kau, na vakarawarawataki ni dua na buloko kau se na boroi ni dua na kato ni vale ni manumanu vuka e rawa ni rairai kilai. Kauta laivi na iyaya gata ka vakaraica tiko.
+11. **Boroya vata kei na ivakatagi.** Vakatagitaka e dua na sere taleitaki ka boroya na ibulibuli se roka e veidonui kei na ivakarau. Oqo e semata rua na cakacaka era taleitaka e levu na tamata. Raica na [itaviqaravi ni ivakatagi](/activities/music/).
 
-## How do I set up an art session?
+## Au na vakarautaka vakacava e dua na gauna ni cakacaka ni liga?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Vakarautaka taumada.** Musuka, tuvata ka biuta kece na ka ni bera ni o sureta na tamata o qaravi. Na waraka ni o vaqara na sisi e rawa ni vakayalia na gauna oya.
+2. **Maroroya me lailai.** Rua se tolu na roka, dua na burusi, dua na pepa. Na levu na digidigi e rawa ni vakaleqai koya.
+3. **Taqomaka na teveli.** E dua na isulu palasitika se isulu makawa e vakavuna me kua ni leqa na duca.
+4. **Tiko vata ena yasana.** Cakava nomu cakacaka volekata na nona. E rairai me cakacaka vata, sega ni vakaraici.
+5. **Vukei koya me tekivu.** Na Alzheimer's Association e tukuna ni o na rairai gadreva mo tekivutaka vata na toso ni burusi. Ni sa tekivu, e levu era tomana ga.
+6. **Veitalanoa ni kemudrau cakacaka.** Vosa baleta na roka kei na ka e vakilai, se laiva na cakacaka ni liga me kauta mai na italanoa. Levea na taro vaka veitarogi me vaka "Na cava oqo?"
+7. **Solia na gauna e rauta.** E sega ni dodonu me taucoko e dua na cakacaka ena dua ga na gauna.
 
-## How do I adapt art as dementia changes?
+## Au na veisautaka vakacava na cakacaka ni liga ni veisau na mate ni vakanananu?
 
-| Stage | What tends to work | What to adjust |
+| Ituvaki | Na ka e dau yaga | Na ka me veisautaki |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Taumada | Kalasi, rokataki roka matailalai, ivola ni nanuma, caka kadi, boroya mai na iyaloyalo | Solia na digidigi ni cakacaka; maroroya me veikilai vata |
+| Ena loma | Collage sa musuki oti, roka ni watercolor, tuvatuva ni senikau, rokataki ena vanua lelevu | Dua na ikalawa ena dua na gauna; o qarava na musumusuki kei na kabitaki |
+| E sivia yani | Toso lelevu ni burusi, qoqia na qele, tara na isulu, sarava nomu boroya | Vakanamata ki na ka e vakilai; dusia vakamalua na ligana kevaka e vinakata |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Na NHS e vakatura ni ena ituvaki e sivia yani, na itaviqaravi e dau vakarawarawataki ka vakanamata ki na ka e vakilai. Na saravi ni dua tale e boroya, kei na veitalanoa baleta na roka, e dua na sala dina ni vakaitavi. Me baleta eso tale na vakasama me vaka na ituvaki, raica na [itaviqaravi me baleta na veimataqali ituvaki](/activities/ideas/).
 
-## Safety with art supplies
+## Taqomaki ena iyaya ni cakacaka ni liga
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Digitaka na boro, peni kei na wa ni kabita e sega ni veivakacacani.
+- Maroroya na sisi, isele ni cakacaka kei na iyaya ni kabita katakata me yawa. Cakava ga o iko na musumusuki, ni bera.
+- Raica vinaka kevaka e dua e biuta na qele, boro se ka lalai ena gusuna.
+- Vakayagataka na kato bibi ka tudei me baleta na wai kei na bilo ni senikau.
 
-## When should we stop?
+## Ena gauna cava meda cegu?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Cegu ni sa veisau na vakasama se sa laurai na rarawa. Na Alzheimer's Association e vakatura me muduka se veisautaka e dua na itaviqaravi ni sa mamali na vakasama se sa tubu na rarawa. Biuta na cakacaka ena vanua taqomaki ka solia e dua na ka ni vakacegu. O rawa ni lesu tale kina ni mataka, se kua sara. E vinaka ruarua.
 
-## Display the work, if the person wants
+## Vakaraitaka na cakacaka, kevaka e vinakata na tamata o qaravi
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Na vakalilia e dua na droini ena katuba ni ka ni vakamaloalo se na vakawa ena waqavuka e dua na sala malumu ni vakaraitaka na dokai. Taroga taumada. Eso era marautaka na raica na nodra cakacaka ena lalaga; eso era vinakata me kua.
 
-## Pair art with our games
+## Semata na cakacaka ni liga kei na neimami qito
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Ena siga e dredre kina na vakarautaki ni boro, na [Coloring](/games/coloring/) e cakacaka ena dua na tablet ka sega na duca. Na [Picture Puzzle](/games/picture-puzzle/) e maroroya na iyaloyalo taucoko me laurai me ivakaraitaki ni o veisautaka na tiki. Na [Conversation Cards](/games/conversation-cards/) e solia na taro dola e rawa ni kauta mai e dua na italanoa mai na iyaloyalo. Era sega ni tiko kina na ivakatakata ni gauna se iskor. O rawa talega ni tabaka na tabana mai na neimami ituvatuva ni [itaviqaravi e rawa ni tabaki](/activities/printable/).

@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Nyawre hakkille ina waawi haɗeede?"
+seoTitle: "Nyawre hakkille ina waawi haɗeede? Ƴeewndo"
+description: "Ko ciimtol Lancet 2024 e ƴeewnde mawɗe keɓi ko fayti e ustude hulde nyawre hakkille, ko ɓe keɓaani, e fannuji naamnodaade doktoor."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Hay gooto waawaa fodaade haɗde nyawre hakkille. Ciimtol Lancet 2024 miijaama
+  wonde ko ina ɓada feccere nyawre hakkille e winndere ndee fof ina jokkondiri
+  e huunde 14 waawnde wayleede, hono tiiɗgol ƴiiƴam, hayre tawa heɗaaka, e
+  ŋakkere dillere. Ƴeewnde kollii wayle pamarɗe tan e ƴeewndo hakkille, wonaa
+  seedeeji wonde kisal nyawre hakkille ustii. Yimɓe heewɓe waɗooɓe fof no
+  moƴƴiri nii kadi ina njogii nyawre hakkille, ɗum wonaa feloore hay gooto.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Ciimtol Lancet 2024 jokkondiniri ko ina 45% e kisal nyawre hakkille e winndere ndee fof e huunde 14 waawnde wayleede. Ko miijo renndo tan, wonaa fodaari neɗɗo gooto."
+  - "Ustude hulde firti ko famɗinde fartaŋŋe hakkunde yimɓe heewɓe. Ɗum firtaani wonde neɗɗo gooto ina waawi reende hoore mum e nyawre hakkille."
+  - "Ƴeewnde mawɗe hono FINGER, US POINTER e SPRINT MIND keɓii nafaaji pamarɗi e ƴeewndo hakkille walla e caɗeele hakkille famarɗe, kono hay e gootel hollaani wonde eɓɓoore nguurndam ina haɗa nyawre hakkille."
+  - "Duuɓi ko huunde ɓurnde anndeede nde waawaa wayleede nde ina ɓeyda hulde nyawre Alzheimer. Yimɓe heewɓe jogiiɓe jikkuuji moƴƴi kadi ina njogii nyawre hakkille."
+  - "Fannuji ɓurɗi ƴeewteede, hono safrude tiiɗgol ƴiiƴam, huutoraade kaɓirɗe heɗagol, e ƴellitaade, ina moƴƴi yeewtudeede e doktoor sabi ina mballita e cellal e fannuuji goɗɗi kadi."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Nyawre hakkille ina waawi haɗeede?"
+    a: "Alaa feere seedetaande haɗde nyawre hakkille ngam neɗɗo gooto. Ƴeewnde ina holla wonde ustude huunde hulɓinnde, hono tiiɗgol ƴiiƴam, hayre nde heɗaaka, e curki, ena waawi ustude fartaŋŋe nyawre hakkille hakkunde renndo walla neɗɗinde nde nde fuɗɗoo. Ko fartaŋŋe tan, wonaa fodaari."
+  - q: "Ko limoore 45% iwnde e Ciimtol Lancet firti?"
+    a: "Ciimtol Lancet 2024 miijaama wonde ko ina 45% e kisal nyawre hakkille e winndere ndee fof ina jokkondiri e huunde 14 waawnde, e miijo, wayleede. Miijo ngoo ina humpito wonde huunde ɗee ina mbaɗa nyawre hakkille, tee winndooɓe ɓee ina mbiyya wonde won jokkondire ena mbaawi wonaa fof ko sabu. Ɗum ina sifora renndo, wonaa haalude hulde neɗɗo gooto."
+  - q: "So neɗɗo mo toppit-mi waɗnoo nguurndam moƴƴam, ko saabii o heɓi nyawre hakkille?"
+    a: "Duuɓi, iwdi, e huunde heewnde nde hay gooto waawaa ƴellitde ina mbaɗa geɗal mawngal e nyawre hakkille. Winndooɓe Ciimtol Lancet ina ciftina wonde ustude hulde hakkunde renndo fodaaki wonde neɗɗo gooto fof reenaa e nyawre hakkille. Anndude nyawre wonaa maandinol wonde won mo ŋakki."
+  - q: "Ina ɓooyii haa ustude hulde nyawre hakkille caggal duuɓi 65?"
+    a: "Ciimtol Lancet ina wi'a wonde wonaa lawol sahaa walla ɓooyaa sahaa ngam ustude hulde, hay so seedeeji keewɗi ko baɗte hakkunde nguurndam. Safrude caɗeele heɗagol e yiyde, ƴellitaade, e jokkondirde e yimɓe ko yeruuji fannuji ƴeewtaaɗi caggal nguurndam. Yeewtu e doktoor ko yahdi e cellal maa."
+  - q: "Pije hakkille walla ñaameteeji keeriiɗi ina kaɗa nyawre hakkille?"
+    a: "Hay fijirde, walla ñaamdu, walla ɓesngu ɓeyditowu, walla ñaametee seedetaaka haɗde nyawre hakkille. Ƴeewndo duuɓi tati e ñaametee MIND yiyaani luural tiiɗngal e hakkille so en ƴeewtii e ñaametee woɗnde, tee jaaɓɗe pije hakkille jeeyeteende kollaani wonde ina njogii batte ɗe ƴeewnde ƴeewndorɗe kolli."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,283 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+So aɗa toppitoo neɗɗo wuuroowo e nyawre hakkille, walla a yi'ii neɗɗo mawɗo e
+ɓesngu maa wuuroo e nde, ina gasa maa miijii so nde waawnoo haɗeede, e so a
+waawi haɗde nde heɓde maa. Hello ngoo ina hollita ko ƴeewnde wi'i tigi, e
+konngol laaɓtungol. Jaabawol daɓɓol: hay gooto waawaa fodaade haɗde nyawre
+hakkille, kono ƴeewnde ina holla wonde won huunde hulɓinnde ena waawi usteede,
+tee ustude ɗe hakkunde renndo ena waawi addude yimɓe seeɗa heɓude nyawre
+hakkille walla heɓude nde ɓooyde.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ɗum ko humpito kuuɓal tan, wonaa wasiyaaji doktoor. Tiiɗno tar
+[renndinoore amen ɓaawo cellal](/medical-disclaimer/) tee yeewtu e doktoor ko
+fayti e cellal maa.
 
-## Can dementia be prevented?
+## Nyawre hakkille ina waawi haɗeede?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Alaa feere seedetaande haɗde nyawre hakkille ngam neɗɗo gooto. Gollorde
+Hakkunde Leyɗeele Ɓaawo Duuɓi (NIA) ina wi'a wonde hay so
+[hay huunde seedetaaka tawo haɗde nyawre Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+wiɗtooɓe njiyii feereeji moƴƴuɗi, tee ina ɓeydoo ekkitaade ko waawi wallitaade
+e ko waawaa wallitaade.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ko ƴeewnde *holli* ko wonde won caɗeele cellal e jikkuuji ina njokkondiri e
+fartaŋŋe ɓurɗo mawnude ngam heɓde nyawre hakkille. So huunde hulɓinnde ɗee
+ustike hakkunde renndo fof, yimɓe seeɗa ena mbaawi heɓude nyawre hakkille,
+walla ɓe keɓa nde ɓooyde e nguurndam mum en. Ɗum ina seerti sanne e fodaari.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Maandinol weloowel: Ciimtol Lancet 2024 jaŋtinii wonde e won leyɗe aldunooje,
+hono Dowlaaji Dentuɗi Amerik e Dowla Biritaal Mawɗo, feccere yimɓe duuɓiiɓe
+jogiiɓe nyawre hakkille ustiima. Winndooɓe ɓee ina cikki ɗum ina waawi wonde
+sabu jaŋde ɓurnde moƴƴude, toppitagol cellal ɓurngol moƴƴude, e ustude bonannde
+ƴiiƴam e nguurndam fof, hono no
+[tonngol UCL e ciimtol ngol](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+holliri.
 
-## What did the 2024 Lancet Commission find?
+## Ko honɗum Ciimtol Lancet 2024 yiyti?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Ciimtol Lancet ɓaawo haɗde, wallitde, e toppitaade nyawre hakkille ko dental
+wiɗtooɓe nyawre hakkille 27 ɓe ƴeewtata seedeeji kala duuɓi seeɗa. Ciimtol mum
+en 2024 inniti **huunde 14 hulɓinnde** waawnde wayleede, tee miijaama wonde ɗe
+kawtii ina mbaɗa **ko ina ɓada feccere (ko ina 45%) e kisal nyawre hakkille e
+winndere ndee fof**. E konngol winndooɓe ɓee, kisal ngal ena waawnoo *e miijo*
+haɗeede walla neɗɗineede so huunde hulɓinnde ɗee ittaama
+([ciimtol Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Huunde 14 ɗee, renndinaande e sahaa nguurndam mo seedeeji ɓurɗi tiiɗde:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Fuɗɗorde nguurndam:** ŋakkere jaŋde.
+- **Hakkunde nguurndam (ko ina ɓada duuɓi 40 haa 65):** hayre tawa heɗaaka,
+  LDL ("bonɗo") kolesterol toowɗo, sokola, barme hoore, ŋakkere dillere,
+  nyawre siiwre, curki, tiiɗgol ƴiiƴam, ɓeydagol teddeendi, e yarugol njaram
+  ko ɓurti.
+- **Caggal nguurndam:** taƴondiral renndo, jiidi weeyo, e caɗeele yiyde ɗe
+  safractaaka.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Ɓeyditte ɗiɗi kese e hitaande 2024 ko LDL kolesterol toowɗo e caɗeele yiyde ɗe
+safractaaka. Huunde hulɓinnde jokkondirɗe e feccere ɓurnde mawnude e kisal ngal
+ko hayre tawa heɗaaka e LDL kolesterol toowɗo (ko ina 7% e kala heen), caggal
+mum en ŋakkere jaŋde e taƴondiral renndo (ko ina 5% e kala heen).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Jaŋtorde amen ɓaawo huunde hulɓinnde](/brain-health/risk-factors/) ina ƴeewta
+ɗe fof 14 e taabal, e ko ƴeewnde jokkondini e ko aɗa waawi waɗde.
 
-### What the 45% figure does not mean
+### Ko limoore 45% ndee firtaani
 
-It is easy to misread this number, so it helps to be precise:
+Ina weeɓi faamde limoore ndee no feewaani, ɗum noon ina moƴƴi laɓɓinde:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ko miijo renndo.** Ina sifora kisal nyawre hakkille e winndere ndee fof,
+  wonaa fartaŋŋe maa walla fartaŋŋe neɗɗo mo toppit-ɗaa.
+- **Ina humpito sabu e battane.** Winndooɓe ɓee ina mbiyya ɓe cuɓii tan huunde
+  hulɓinnde jogiiɗe seedeeji tiiɗɗi, kono won jokkondire ena mbaawi wonaa fof
+  ko sabu. Yeru, sokola caggal nguurndam ena waawi wonde sahaa goɗɗo ko
+  maandinol gadanol nyawre hakkille, wonaa sabu.
+- **Fodaaki hay huunde ngam neɗɗo gooto.** Tonngol UCL ina ciftina wonde
+  ustude hulde ina golla e tolno renndo tee fodaaki wonde neɗɗo gooto fof
+  reenaa e nyawre hakkille.
+- **Feccere heddiiɗe ndee faamtaaka e huunde ɗee.** Duuɓi, iwdi, e sabuuji ɗi
+  annduɓe mbaawaa tawo faamde haa laaɓi ina mbaɗa ko heddii koo.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Ko honɗum seerndi "ustude hulde" e "haɗde"?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Ustude hulde** firti ko famɗinde fartaŋŋe. So dental yimɓe mawngal ustii
+tiiɗgol ƴiiƴam mum en, yimɓe seeɗa e maɓɓe ena mbaawi heɓude nyawre hakkille
+e nder duuɓi keewɗi so en ƴeewtii e ko ina waawnoo wonde. Won e dental ngal
+kadi maa keɓu nde.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Haɗde** ina sikka ko dartinde huunde fof nde waɗataa. Ngam nyawre hakkille,
+ƴeewnde waawaa tawo fodaade ɗum hay neɗɗo gooto hannde.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Wiɗtooɓe ina kaala kadi ko **neɗɗinde**. Ciimtol Lancet ina jaŋtinde seedeeji
+kesi wonde ustude hulde ena waawi ɓamtinde sahaa nde nyawre hakkille fuɗɗata
+tee raɓɓinde sahaa mo neɗɗo wuuroo e caɗeele cellal. Hay neɗɗinal duuɓi seeɗa
+tan ina waawi wonde huunde tiiɗnde ngam neɗɗo e ɓesngu makko.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+E lowre ndee, min kuutortoo "ustude hulde" e "ina jokkondiri" e faandaare. So
+a yi'ii topirde, ɓesngu ɓeyditowu, walla eɓɓoore fodaande "haɗde nyawre
+Alzheimer", reento e mum. NIA ina wasiyaa ƴeewtidde e doktoor hade etaade hay
+lekki walla safruye fodaande haɗde nyawre Alzheimer, sabi topirɗe ɗee ena
+mbaawi wonaa kisal, ko bonnugol jawle tan, walla ɗiɗi fof.
 
-## What have large trials found?
+## Ko honɗum ƴeewnde mawɗe keɓi?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Ƴeewnde reendotooɗe (ɗe ƴeewata ko waɗata yimɓe e nder sahaa) ena mbaawi
+hollude jokkondire. ƴeewnde suɓaande e fartaŋŋe, ɗo yimɓe suuɓatee e eɓɓoore
+walla e dental ƴeewndingol e fartaŋŋe, ko ƴeewndo ɓurngo tiiɗde. Ko ɗum woni
+ko won e ƴeewnde ɓurɗe anndeede keɓi.
 
-### FINGER (Finland)
+### FINGER (Finlannda)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Ƴeewndo FINGER naatnii yimɓe 1 260, duuɓi 60 haa 77, ɓe njoginoo hulde ɓurnde
+mawnude ngam nyawre hakkille. Feccere heɓii eɓɓoore duuɓi ɗiɗi ko fayti e
+wasiyaaji ñaametee, dillere, pije hakkille e ordinateer, e ƴeewndo cellal ɓernde
+e ƴiiƴam; feccere woɗnde ndee heɓii wasiyaaji cellal kuuɓal tan. Dental
+eɓɓoore ngal waɗii seeɗa ɓuri moƴƴude e dental ƴeewndo hakkille, ko luural
+pamaral kono tiiɗngal e limlebbi
+([ƴeewndo FINGER e The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)).
+Ƴeewndo ngoo ƴeewii njeñtudi ƴeewndo tan, wonaa anndude nyawre hakkille.
 
-### US POINTER (United States)
+### US POINTER (Dowlaaji Dentuɗi Amerik)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER naatnii yimɓe 2 111, duuɓi 60 haa 79, ɓe ndillaano, ɓe njoginoo
+ñaametee moƴƴaani no feewi, tee ɓe njogii huunde hulɓinnde goɗɗe. Ɗiɗi dental
+ɗee fof ina njaggiranaa dillude e ɓernde e hakkille, ñaamde no ɓuri moƴƴirde,
+wonde e yimɓe, e ƴeewtaade cellal ɓernde. Dental gootal heɓii eɓɓoore yuɓɓinaande
+nde ballal woni e mum; dental woɗngal ngal ardii hoore mum. E nder duuɓi ɗiɗi,
+njeñtudi ƴeewndo hakkille ƴellitii e **ɗiɗi dental ɗee fof**, tee seeɗa ɓuri e
+dental eɓɓoore yuɓɓinaande ngal
+([ƴeewndo US POINTER e JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)).
+Winndooɓe ɓee ina mbiyya ina foti ɓeyde rewindaade ngam anndude so luural ngal
+ina jogii nafoore e nguurndam ñalnde kala. Sabu dental "waɗataa hay huunde" alaa
+e ngal, ƴeewndo ngoo waawaa wi'de ko no foti fof kala eɓɓoore wallitori so en
+ƴeewtii e waylude hay huunde.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tiiɗgol ƴiiƴam)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND ƴeewii yimɓe 9 361 Dowlaaji Dentuɗi Amerik, duuɓi 50 e dow, jogiiɓe
+tiiɗgol ƴiiƴam. Ɓe cuɓaa to faandaare tiiɗgol ƴiiƴam les (limoore dow les 120)
+walla faandaare woowaande (les 140). Faandaare les ndee ustii no tiiɗiri
+**caɗeele hakkille famarɗe**, ko tolno caɗeele teskagol e hakkille waawɗe
+aroyde hade nyawre hakkille. Ngam **nyawre hakkille sikkaaɗe**, kisal ustii e
+dental faandaare les ngal, kono luural ngal wonaano tiiɗngal e limlebbi. Ƴeewndo
+ngoo dartinaa lawol, tee jogii kisal nyawre hakkille seeɗa ko ina ŋakki, ɗum
+noon ena waawi wonaano mawngoo ngam jaabaade naamnal ngal
+([SPRINT MIND e JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ko ƴeewtagol jokkondinirngol ɓeydata
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Ƴeewtagol Cochrane 2021 renndini ƴeewnde mawɗe jeenay nde topitii huunde
+hulɓinnde keewɗe e sahaa gooto, e ko ɓurii yimɓe 18 000. Ɗum yiyii nafoore
+pamarnde e ƴeewndo hakkille, kono **alaa luural laaɓtungal e ko yimɓe foti
+heɓude nyawre hakkille** e ƴeewnde ɗiɗi ɗe ƴeewi ɗum
+([ƴeewtagol Cochrane e ballal fannuuji keewɗi](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Ƴeewtagol 2017 iwngol e Duɗal Hakkunde Leyɗeele Ganndal, Karallaagal e
+Cellal, ngol NIA tonngii, yiyii seedeeji "welooji kono ɗi timmaani" ngam
+feereeji tati: toppitaade tiiɗgol ƴiiƴam, ɓeydude dillere ɓandu, e eltugol
+hakkille.
 
-## Does it matter when you start?
+## Ina holla sahaa nde a fuɗɗii?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Wasiya Ciimtol Lancet ko ustude huunde hulɓinnde ko adii fof no waawiri tee
+jogorɗe ɗe les seeɗa no waawiri: "ko adii, ko ɓuri moƴƴude" tee "ko juuti, ko
+ɓuri moƴƴude". Ɗum ina wi'a kadi wonaa lawol sahaa walla ɓooyaa sahaa ngam
+ustude hulde. Seedeeji keewɗi ko baɗte hakkunde nguurndam, ko ina ɓada duuɓi 40
+haa 65, kono won huunde hulɓinnde, hono hayre yiyde e taƴondiral renndo, ko
+huunde caggal nguurndam ɗo gollal ena waawi jogaade nafoore tawo.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ciimtol ngol ina wi'a hannde ina woodi seedeeji ɓurɗi tiiɗde wonde wonde e
+huunde hulɓinnde ko ɓooyi ina jogii batte ɓurɗe mawnude. Yeru, nyawre siiwre
+fuɗɗiinde e hakkunde nguurndam ina wayi no ɓurnde tiiɗde ko fuɗɗiinde ɓooyde.
 
-## Is dementia risk the same for everyone?
+## Hulde nyawre hakkille ina foti e yimɓe fof?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Alaa. Ciimtol ngol yiyii wonde yimɓe wonɓe e leyɗe famarɗe e leyɗe hakkundeeje,
+yimɓe iwɓe e dental famarɗe, e yimɓe ŋakkirɓe jawle ina mbaɗa huunde hulɓinnde
+ɗee ko ɓuri heewde, ɗum noon nyawre hakkille ina heewi fuɗɗaade ko adii duuɓi.
+Huunde hulɓinnde keewnde ina njokkondiri e ngonkaaji ɗi yimɓe cuɓaano, hono
+moƴƴugol jaŋde nde ɓe keɓnoo e paykoy mum en, weeyo mo ɓe ngoni e mum, e so
+ñaametee moƴƴo ina heɓoo e nder sarɗiiji weebiiɗi.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Ko ɗum saabii wasiyaaji Ciimtol ngol ina toɗɗii laamuuji ko foti ko toɗɗii
+yimɓe gooto gooto: jaŋde moƴƴere ngam sukaaɓe fof, weeyo laaɓɗo, feereeji
+ustude curki, ŋakkere sukara e lamɗam e ñaametee jeeyeteeɗo e jeeyirɗe e
+ñaamirɗe, e kaɓirɗe heɗagol ngam kala mo ɗe ina cokli. Darnde neɗɗo ina jogii
+nafoore, kono nokku mo yimɓe ngoni kadi ina jogii nafoore. Ko sabaabu goɗɗo
+holluɗo wonde feloore hay gooto ngam anndude nyawre ina moƴƴaani.
 
-## What are the honest limits of this research?
+## Ko honɗum keerol goongawol ngol ƴeewnde ndee jogii?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Nyawre hakkille ina waɗa duuɓi capanɗe ngam ɓamtude**, kono ƴeewnde keewɗe
+  ina ɗoofta duuɓi ɗiɗi haa jowi. Ƴeewde nyawre hakkille tigi, wonaa njeñtudi
+  ƴeewndo tan, ina waɗɗii ƴeewnde juutɗe sanne e mawɗe sanne.
+- **Ƴeewnde keewɗe ina ƴeewta ƴeewndo hakkille.** Ƴellital pamaral e ƴeewndo
+  firtaani tigi wonde yimɓe seeɗa maa keɓu nyawre hakkille walla wonde nguurndam
+  ñalnde kala maa weeɓu.
+- **Yarlitiiɓe ina keewi wonde ɓurɓe cellude** e ɓurɓe jaŋde ko ɓuri renndo
+  fof. Ciimtol Lancet ina ciftina wonde seedeeji keewɗi tawo ko iwdi e leyɗe
+  aldunooje, tee dental famarɗe ina ŋakki no feewi e mum en.
+- **Won jokkondire ina njaha ɗiɗi fof.** Dillude seeɗa walla jokkondirde seeɗa
+  ena waawi wonde ko adii battane nyawre hakkille, wonaa tan sabu.
+- **Ƴeewnde ñaametee mettiima haa jooni.** Ƴeewndo duuɓi tati e ñaametee MIND
+  yiyaani luural tiiɗngal e hakkille so en ƴeewtii e ñaametee woɗnde. Yiy
+  [jaŋtorde amen ɓaawo ñaametee](/brain-health/diet/).
+- **Pije hakkille seedetaaka haɗde nyawre hakkille.** Yiy jaŋtorde amen ɓaawo
+  [pije hakkille e nyawre hakkille](/brain-health/brain-games/).
+- **Hoorugol ina jogii seedeeji neɗɗo seeɗa sanne**, tee ena waawi wonaa kisal
+  ngam yimɓe mawɓe. Yiy [jaŋtorde amen ɓaawo hoorugol](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## So neɗɗo waɗii fof no moƴƴiri, ko saabii o heɓi kadi nyawre hakkille?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Sabi nyawre hakkille wonaa tan battane cuɓagol. NIA ina wi'a
+[duuɓi ko huunde ɓurnde anndeede nde ɓeydata hulde nyawre Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+tee hay gooto waawaa waylude ɗum. Iwdi ina waɗa geɗal. Tee annduɓe mbaawaa tawo
+faamde haa laaɓi ko saabata nyawre Alzheimer e yimɓe heewɓe. Hay so huunde 14
+hulɓinnde fof ittaama, miijo Ciimtol Lancet tigi ina waɗa ko ɓurii feccere
+kisal ɗe mbaawaa faameede.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Ɗum noon so aɗa toppitoo neɗɗo dillaynooɗo, ñaamnooɗo no moƴƴiri, curaano, kono
+heɓi nyawre hakkille, hay huunde feewaani e bannge makko, walla e bannge maa. So
+aan tigi aɗa wuuroo e nyawre hakkille, wonaa feloore maa. Feloore ina heewi e
+ɓesnguuji, kono nde fotaaka. Ko ɓuri himmude jooni ko weltaare, jokkondiral e
+ñalɗi moƴƴi, tee [miijooji amen ɓaawo golle](/activities/ideas/) e
+[jaŋtorde amen ɓaawo toppitaade hoore maa](/caregiving/caregiver-self-care/) ko
+nokku moƴƴo ngam fuɗɗaade.
 
-## What steps can you talk over with a doctor?
+## Ko honɗum fannuji mbaw-ɗaa yeewtude e doktoor?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ɗee ko fannuuji ɓurɗi ƴeewteede. Ina moƴƴi yaltinde ɗe e ƴeewndo cellal sabi
+keewɗi e majje ina mballita cellal ɓernde, weelaare, e hoore mum wonde kadi,
+ko wonaa tan ko ɗum battata e nyawre hakkille.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tiiɗgol ƴiiƴam.** Naamno ko limooji maa ngoni e hol faandaare moƴƴannde
+   maa. Ciimtol Lancet ina wasiyaa faandaade limoore dow 130 walla les mum gila
+   ko ina ɓada duuɓi 40, kono faandaare moƴƴere ngam neɗɗo mawɗo ina fawii e
+   cellal makko fof.
+2. **Heɗagol.** Naamno ƴeewndo heɗagol, e so kaɓirɗe heɗagol ena mbaawi
+   wallitaade. [Jaŋtorde amen ɓaawo heɗagol](/brain-health/hearing/) ina
+   ƴeewtinde ƴeewnde ndee.
+3. **Yiyde.** Ƴeewtu gite maa sahaa kala tee naamno so caɗeele hono niwre gite
+   ena mbaawi safrude.
+4. **Kolesterol.** Naamno so LDL kolesterol maa ina foti ƴeewteede e so ina
+   foti waylude hay huunde.
+5. **Sukara ƴiiƴam.** So aɗa jogii nyawre siiwre, naamno no nde toppitirtee e
+   kisal.
+6. **Weelaare ɓernde.** Sokola ina heewi tee ina waawi safrude. Haal e doktoor
+   maa so aɗa sokii walla a nattii hatojinde e huunde ko ɓurii yontere ɗiɗo.
+7. **Curki e njaram.** Naamno ballal ngam dartinde curki e ko fayti e keeri
+   njaram moƴƴo.
+8. **Dillere.** Naamno hol no dillere nde ina hisi e maa. [Jaŋtorde amen ɓaawo
+   dillere](/brain-health/exercise/) ina jogii miijooji.
+9. **Reende hoore.** Ɓornor huufnere hoore so aɗa waɗi welo walla fijirde
+   memotooɗe, tee naamno ko fayti e haɗde yanaade.
+10. **Jokkondirde.** Wonde e yimɓe ko geɗal nguurndam moƴƴam. Yiy jaŋtorde amen
+    ɓaawo [jokkondiral renndo](/brain-health/social-connection/), e
+    [ɗaanagol](/brain-health/sleep/) kadi.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Hade maa waylude lekki, ñaametee, ɓesngu ɓeyditowu, hoorugol walla dillere,
+yeewtu e doktoor maa tawo, tentinii so aɗa jogii nyawre ɓernde, nyawre siiwre,
+aslol yanaade, walla aɗa wuuroo e nyawre hakkille kisa.
 
-## Talk with a doctor
+## Yeewtu e doktoor
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+So a yiyii wayle teskagol walla hakkille ɗe mettin-maa, e maa walla e neɗɗo
+goɗɗo, waɗ feere ngam yiyondirde. NIA ina ciftina wonde
+[caɗeele teskagol ena mbaawi jogaade sabuuji goɗɗi](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+hono batte lekki, caɗeele tiiroiid, sokola, walla ŋakkere witamin B12, tee won
+e caɗeele ɗee ina ŋakka so sabu on saframa. [Jaŋtorde amen ɓaawo maandinooji
+reentinooji](/brain-health/warning-signs/) ina sifora ko foti ƴeewteede.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Ɗaɓɓu ballal jaawngal** ngam wayle jaawɗe: jiiɓru jaawɗo, lo'ere walla
+dattuɗo bannge gooto, caɗeele haala, walla hoore muusuɗo tiiɗɗo ena mbaawi
+wonnde maandinooji fonndere ƴiiƴam walla caɗeele kisal goɗɗe. Noddu limo kisal
+e leydi maa.
 
-## Where Golden Moments fits
+## Hol to Golden Moments yahdi
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ina waɗa golle renndo weeɓɗe, hono
+[karte yeewtere](/games/conversation-cards/),
+[biingo nate](/games/picture-bingo/) e
+[fooftere ɓuuɓndi deeyre](/games/calm-breathing/). Ko ngam weltaare e sahaa
+hakkunde yimɓe. Ɗe ngonaa safruye, tee ɗe kaɗataa walla ɗe neɗɗinataa nyawre
+hakkille.

@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Era Tarova Li na Qito ni Monalivaliva na Dementia?"
+seoTitle: "Qito ni Monalivaliva kei na Dementia: Na iVakamacala"
+description: "Na ka e tukuna na vakadidike me baleta na qito ni monalivaliva kei na dementia: vakaukauataki ni vakasama, ACTIVE, kei na Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  E sega ni dua na qito ni monalivaliva e vakaraitaki ni tarova na dementia.
+  Na vakatovotovo ni monalivaliva e vakavinakataka vakalevu na ka era vakatovotovo
+  tiko kina na tamata. E dua na vakadidike mai na ACTIVE e semata e dua na
+  vakanananu totolo vata kei na soqoni ni veivakaukauataki ki na lailai ni
+  iwiliwili ni dementia ena loma ni 20 na yabaki, e dua ga na ka lailai e kune.
+  Vei ira era sa bula tiko kei na dementia, na veisoqoni ni vakaukauataki ni
+  vakasama e vakaraitaka na yaga lailai ka lekaleka. Na qito e vinaka me
+  marautaki kei na veitokani.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Na vakadidike ni vakanananu e vakaraitaka ni vinaka cake na tamata ena ka era vakatovotovo tiko kina, ia e lailai na ivakadinadina ni yaco oqo ki na bula ni veisiga."
+  - "Ena ACTIVE, o ira ga era cakava e dua na vakanananu totolo vata kei na soqoni ni veivakaukauataki era lailai sobu na iwiliwili ni dementia ena 20 na yabaki. Na vakanananu totolo sega ni veivakaukauataki, kei na vakanananu ni nanuma kei na vakasama, era sega ni vakaraitaka oqo."
+  - "Ena 2016, e sauma na $2 milioni na kabani ni Lumosity me walia na veibeitaki ni FTC ni sega na kena ivakadinadina vakasaenisi me baleta na nodra kaya ni berabera na dementia."
+  - "Vei ira era bula tiko kei na dementia lailai se veimama, na veisoqoni ni vakaukauataki ni vakasama e vakaraitaka na yaga lailai ka lekaleka ena vakasama, kei na yaga matata cake ena veivosaki kei na veimaliwai."
+  - "Na qito ni Golden Moments e baleta na marau kei na gauna vata. E sega ni wai ni veiqaravi, ka sega ni tarova se vakaberaberataka na dementia."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Era tarova li na qito ni monalivaliva na Alzheimer’s?"
+    a: "E sega ni dua na qito ni monalivaliva e vakadinadinataki ni tarova na Alzheimer’s se so tale na dementia. E kaya na National Institute on Aging ni sega ni rauta na ivakadinadina ni yaco vei ira na app ni vakanananu ni volivoli na ka e laurai ena vakadidike. Ia, na qito e rawa ni dua na sala vinaka ni vakayagataka na gauna."
+  - q: "Na cava e kunea na ACTIVE me baleta na vakanananu totolo kei na dementia?"
+    a: "E dua na vakadidike ena 2026 e semata na lewe ni ACTIVE kei na ivolatukutuku ni Medicare ena 20 na yabaki. O ira era cakava na vakanananu totolo kei na dua se sivia na soqoni ni veivakaukauataki era lailai sobu na dementia e kilai. Na vakanananu totolo sega ni veivakaukauataki, kei na vakanananu ni nanuma se vakasama, era sega ni vakaraitaka na revurevu matata."
+  - q: "Era vinaka li na qito kei na paseli vei e dua e sa bula tiko kei na dementia?"
+    a: "E rawa, kevaka e taleitaka. Na veisoqoni ni vakaukauataki ni vakasama, e oka kina na qito ni vosa, paseli, sere kei na veitalanoa, e vakaraitaka na yaga lailai ka lekaleka ena vakasama kei na yaga matata cake ena veivosaki kei na veimaliwai. Na marau, sega ni macala ni veitarogi, na inaki dodonu."
+  - q: "Na cava na vuna e totogitaki kina na Lumosity mai na FTC?"
+    a: "Ena 2016, e beitaki ira na Lumos Labs na Federal Trade Commission ni kaya na ka me baleta na nodra qito, oka kina na berabera ni malumalumu ni yabaki kei na dementia, ka sega na ivakadinadina vakasaenisi. E vakadonu na kabani me sauma na $2 milioni ka me tiko na ivakadinadina vakasaenisi ni nuitaki ni bera ni kaya tale na ka vaka oya."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,185 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Na qito ni monalivaliva e tu ena veiyasai vuravura, ka vuqa era yalataka ni
+maroroya na nomu vakasama me gone. Kevaka o qaravi ira e dua e bula tiko kei na
+dementia, se o kauwai ena nomu nanuma, e ka dodonu me o nanuma kevaka e rawa ni
+veivuke na qito. Oqo na ka e vakaraitaka dina na vakadidike, oka kina na veika
+e veivakauqeti kei na veika e sega.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Oqo na itukutuku raraba ga, sega ni ivakasala vakavuniwai. Raica na noda
+[itukutuku ni vakatabakidua vakavuniwai](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Era tarova li na qito ni monalivaliva na dementia?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+E sega ni dua na qito ni monalivaliva e vakadinadinataki ni tarova na dementia.
+Na National Institute on Aging (NIA) e vakasalataki ira na tamata me ra qarauna
+na veika e tukuni ni na vakavinakataka na nanuma na qito ena kompiuta kei na
+initaneti, ka kaya ni sega ni rauta na ivakadinadina ni dua na app ni
+vakanananu ni volivoli e yaco vata na revurevu kei na vakanananu e vakatovolei
+ena vakadidike ([NIA me baleta na tarova na Alzheimer’s](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Oqo e sega ni kaya ni sega na yaga ni qito. E kaya ga ni nodra yaga e tu ena
+marau, na veitokani, kei na ivakarau ni veisiga, sega ni baleta na taqomaki mai
+na dementia.
 
-## What is "near transfer", and why does it matter?
+## Na cava na „near transfer“, ka cava na vuna e yaga kina?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Ni o vakatovotovo ena dua na ka, e dau vinaka cake kina o iko ena ka oya. Na
+dauvakadidike era vakatoka oqo me revurevu ni vakanananu. Na taro dredre cake
+se na vinaka oya e **veisau** ki na so tale na ka: ki na ka voleka (near
+transfer) se ki na bula ni veisiga, me vaka na nanuma na veituvatuva se na
+qaravi ni ilavo (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+E dua na railesu lelevu ena 2016 e dikeva na vakadidike era cavuta na kabani ni
+vakanananu me nodra ivakadinadina vinaka duadua. A kunea ni levu na
+ivakadinadina ni vinaka cake na tamata ena ka era vakatovotovo kina, lailai
+sobu na ivakadinadina ni vinaka cake ena ka voleka, ka lailai sara na
+ivakadinadina ni vakavinakataka na vakanananu ena bula ni veisiga. E vuqa tale
+na vakadidike e tiko na leqa ni kena ituvatuva ka dredre kina me yaco na
+ivakasala dei
+([Simons kei ira tale, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Na cava era kaya na railesu me baleta na vakanananu ena kompiuta?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Na railesu ni Cochrane, era cokovata na vakadidike vinaka duadua, era raica na
+vakanananu ena kompiuta e 12 na macawa se sivia:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
+- **Tamata bula vinaka era 65 na yabaki se sivia:** e 8 na vakadidike kei na 1,183
+  na tamata. Na ivakadinadina e lailai se lailai sara na kena ivakarau. E rawa ni
+  tiko e dua na yaga lailai ni oti na vakanananu, ia sega na ivakadinadina
+  matata ni tudei
   ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
+- **O ira era malumalumu vakalailai na nodra vakasama:** e 8 na vakadidike kei na
+  660 na tamata. E sega ni dua na vakadidike e tukuna se ra yaco ki na dementia,
+  ka malumalumu sara na ivakadinadina me rawa ni yaco kina e dua na ivakasala
   ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Na cava e kunea na vakadidike ni ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+Na ACTIVE e dua na vakadidike levu mai Amerika e tekivu ena 1998 kei na 2,802
+na tamata era 65 na yabaki se sivia, era bula tu vakataki ira ka sega na leqa
+levu ni nanuma se vakasama. Era lesi vakawasoma na tamata ki na dua vei na tolu
+na mataqali vakanananu ena ilawalawa lailai (totolo ni cakacaka, nanuma, se
+vakasama) se ki na ilawalawa sega ni veitaratara. Na vakanananu e yacova na
+tini na soqoni ena loma ni lima ki na ono na macawa. Eso era otiya e vuqa na
+soqoni era soli tale vakawasoma na **soqoni ni veivakaukauataki** ena rauta ni
+dua kei na tolu na yabaki e muri.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Na vakanananu totolo e okati kina na raica kei na cakacaka ni itukutuku ena
+gauna lekaleka sara, ka veisautaki na kena dredre ni ra vinaka cake na tamata.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Ena 2026, era semata na dauvakadidike e 2,021 na lewe ki na nodra ivolatukutuku
+ni Medicare ena 20 na yabaki ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Oqo na ka era kunea:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Vakanananu totolo vata kei na dua se sivia na soqoni ni veivakaukauataki:** e
+  lailai sobu na iwiliwili ni dementia e kilai mai na ilawalawa sega ni
+  veitaratara (e dua na hazard ratio ni 0.75, e kena ibalebale voleka ni 25%
+  lailai sobu).
+- **Vakanananu totolo sega ni soqoni ni veivakaukauataki:** sega ni lailai sobu.
+- **Vakanananu ni nanuma se vakasama:** sega na revurevu matata ena iwiliwili ni
+  dementia e kilai.
+- **Na ilawalawa yadua me taucoko ni vakatauvatani kei na ilawalawa sega ni
+  veitaratara:** e laurai e dua na ivakarau ni lailai sobu, ia sega ni matata
+  vakalailai.
 
-### The limits of this finding
+### Na kena iyalayala
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- E baleta ga **e dua na mataqali vakanananu totolo e qaravi vata kei na soqoni
+  ni veivakaukauataki**, sega ni baleta na qito ni monalivaliva taucoko.
+- Na macala matata e yaco mai na **ilawalawa lailai** (o ira era otiya e vuqa na
+  soqoni taumada ka soli vei ira na veivakaukauataki), sega mai na ilawalawa
+  taucoko ni vakanananu totolo.
+- Na dementia e vakarautaki ena **ivakatakilakila ni mate ena ivolatukutuku ni
+  Medicare**, sega ni dikevi yadua na tamata. E rauta ni dua na ikava na lewe
+  taumada era biu laivi baleta ni ra curu ena Medicare Advantage, ka sega kina
+  na ivolatukutuku taucoko.
+- Na lewe era sega ni leqa levu ni vakasama ni ra tekivu. Na macala oqo e sega ni
+  tukuna e dua na ka me baleta na qito vei ira era **sa bula tiko kei na
+  dementia**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+E dua na macala taleitaki ka gadrevi kina na vakadidike tale. Ia e sega ni
+ivakadinadina ni dua na app e tarova na dementia.
 
-## What did the FTC say about Lumosity?
+## Na cava e kaya na FTC me baleta na Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Ena Janueri 2016, na Lumos Labs, na kabani ni Lumosity, e vakadonu me sauma na
+$2 milioni me walia na veibeitaki ni Federal Trade Commission ni volivolitaki
+vakaveivakaisini. E kaya na FTC ni kaya na kabani, ka sega na ivakadinadina
+vakasaenisi, ni na vakavinakataka na cakacaka ena vanua ni cakacaka kei na
+vuli, ka na berabera na malumalumu ni yabaki, na malumalumu vakalailai ni
+vakasama, na dementia kei na Alzheimer’s. Na ivakaro e vinakata me tiko vei ira
+na ivakadinadina vakasaenisi ni nuitaki ni bera ni ra kaya tale na ka vaka oya
+([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Na vuli vei ira na matavuvale: mo vakabauta vakalailai na dua na qito, app se
+parokaramu e yalataka ni taqomaka na nanuma se tarova na dementia.
 
-## Can games help someone who already has dementia?
+## Era rawa li ni veivuke na qito vei e dua e sa bula tiko kei na dementia?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Era rawa ni vakuria na vinaka ni dua na siga, ka bibi sara oya. Na iwalewale e
+vakadidike vakalevu duadua na **vakaukauataki ni vakasama**: na itaviqaravi ni
+ilawalawa e marautaki me vaka na veitalanoa, na nanuma lesu, na qito ni vosa,
+paseli kei na sere, e dau vakayacori ena ilawalawa lailai ka liutaki mai vua e
+dua na dauveiliutaki.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
+E dua na railesu ni Cochrane ena 2023 mai na 37 na vakadidike kei na 2,766 na
+tamata era bula tiko kei na dementia lailai ki na veimama e kunea
 ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- e dua na **yaga lailai ka lekaleka** ena veitarogi ni vakasama (ivakadinadina
+  ni ivakarau veimama);
+- **na vinaka cake e yaga dina ena veivosaki kei na veimaliwai** (ivakadinadina
+  cecere, mai na lailai ni vakadidike);
+- **yaga lailai** ena ivakarau ni bula, na yalo, kei na itovo.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Na yaga e dau vakarautaki ni oti ga na parokaramu e rauta ni tini na macawa, ka
+lailai na vakadidike era raica se tudei. Na vakaukauataki ni vakasama e dua na
+parokaramu ni ilawalawa e tuvanaki, ka na macala oqo e sega ni yaco vakadodonu
+ki na tamata e qito duadua ga ena dua na tablet.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
+Na 2024 Lancet Commission e kaya tale ni bibi na parokaramu ni itaviqaravi vei
+ira era bula tiko kei na dementia, me maroroi na marau kei na inaki
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Na cava dina na yaga ni qito?
 
-When chosen well, games can offer:
+Ni digitaki vakavinaka, na qito e rawa ni solia:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Marau.** E yaga na dua na aua veimama ni marau ena vuku ni marau ga.
+- **Veimaliwai.** Na qito vata e solia e dua na ka rawarawa mo wasea ni dredre
+  na veitalanoa. Raica [na sala ni qito vata](/caregiving/how-to-play-together/).
+- **Ivakarau.** E dua na itaviqaravi kilai ena gauna vata e veisiga e rawa ni
+  kauta mai na vakacegu.
+- **Nuinui.** Na itaviqaravi e veiganiti kei na ka e rawa tiko ni cakava vinaka e
+  dua na tamata e vakavuna me rawa ni vakila ni rawata, sega ni vakatovolei.
+- **Veitalanoa.** E dua na iyaloyalo se dua na vosa kilai e rawa ni dola e dua na
+  italanoa. Tovolea na [kadi ni veitalanoa](/games/conversation-cards/) se
+  [vakacavara na vosa kilai](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Na ka mo levea: na ivakarau ni gauna, na sikoa, na ivakarau ni tomana, kei na ka
+e vakila me vaka e dua na veitarogi ni nanuma. Kevaka e rarawa na tamata, mo
+muduka. Na mudu totolo, se na tiko vata ga, e dua na macala vinaka. Na noda
+idusidusi me baleta na [digitaki ni app kei na qito](/caregiving/choosing-apps-and-games/)
+e tiko kina e dua na lisi ni vakadikevi.
 
-## Where Golden Moments fits
+## Na vanua e tu kina na Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Na qito ni Golden Moments, me vaka na [veitauvi iyaloyalo](/games/picture-pairs/),
+[paseli ni iyaloyalo](/games/picture-puzzle/) kei na
+[vakasaqara vosa levu na kena mata](/games/word-search/), era caka me baleta na
+marau kei na gauna vata. E sega na ivakarau ni gauna ka sega na sikoa. Era **sega**
+ni wai ni veiqaravi, ka era **sega** ni tarova se vakaberaberataka na dementia. E
+vinaka cake meda tukuna vakadodonu oqo mai na yalataka e dua na ka e sega ni
+rawa ni vakayacora e dua na qito.
 
-## Talk with a doctor
+## Veitalanoa kei na vuniwai
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Kevaka o kauwai ena veisau ni nanuma vei iko se vei na tamata o qarava, mo lai
+raici vuniwai ka kua ni vakararavi ga ki na app. E rawa ni raica na vuniwai na
+vuna e rawa ni qaravi ka veitalanoa ena ikalawa e vinaka na kena ivakadinadina,
+me vaka na qaravi ni tutuvi ni dra kei na dikevi ni rogoca. Raica
+[E rawa li ni tarovi na dementia?](/brain-health/can-dementia-be-prevented/) me
+baleta na ikuri ni itukutuku. Kevaka e yaco vakasauri na veilecayaki se so tale
+na veisau vakasauri, mo kerea na veivuke vakavuniwai totolo.

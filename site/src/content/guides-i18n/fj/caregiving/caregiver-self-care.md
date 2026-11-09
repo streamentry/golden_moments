@@ -1,36 +1,37 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Qaravi Kemuni: Nona Vakacegu kei na Veivuke"
+seoTitle: "Qaravi i Kemuni ni Dementia: Vakacegu kei na Veivuke"
+description: "Ivakatakilakila ni oca ni qaravi ira tale eso, sala ni kunea na vakacegu kei na ilawalawa ni veitokoni, kei na laini ni veivuke galala e Amerika, oka kina na 1-800-272-3900 kei na 1-800-677-1116."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  E dredre na qaravi ni dua e tiko vua na mate ni guilecavi vakasivia, ka
+  tiki ni nomu itavi na nomu qaravi iko talega. Raica na ivakatakilakila me
+  vaka na oca vakalevu, na cudru totolo, na moce ca kei na nomu tawasei iko
+  mai vei ira na itokani. Kerea na veivuke ena cakacaka matata, vakayagataka
+  na vakacegu ni qaravi, ka curu ki na ilawalawa ni veitokoni. Na veivuke
+  galala e Amerika e oka kina na Alzheimer's Association 24/7 Helpline ena
+  1-800-272-3900 kei na Eldercare Locator ena 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Na oca ni qaravi ira tale eso e dau laurai ena oca vakalevu, cudru totolo, moce ca, rarawa kei na nomu biuta na nomu bula vinaka."
+  - "Na vakacegu ni qaravi e solia vei iko e dua na gauna ni cegu, mai na vica na aua ki na vica na macawa, e vale se ena vanua ni qaravi."
+  - "Kerea na veivuke ena cakacaka matata; e levu era via veivuke ia era sega ni kila na sala."
+  - "Na Alzheimer's Association 24/7 Helpline (1-800-272-3900) e solia na veitokoni galala ka taqomaki ena gauna kece."
+  - "Na Eldercare Locator (1-800-677-1116) e semati iko ki na veiqaravi e nomu vanua, oka kina na nomu Area Agency on Aging."
+  - "Kevaka o rairai o tu ena leqa levu, qiri se volavola ki na 988. Ena leqa vakasauri, qiri 917."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Na cava na ivakatakilakila ni oca ni qaravi ira tale eso?"
+    a: "Na ivakatakilakila e dau yaco e oka kina na nomu oca vakalevu, lomaoca se lomaleqa, na cudru se vosota ca totolo, na leqa ni moce, na rarawa se sega ni namaka vinaka, na nomu tawasei iko mai vei ira na itokani, na mosi ni ulu se mosi vakawasoma wasoma, kei na nomu levea na nomu kana, vakaukauayago se veiqaravi vakavuniwai. Kevaka e dau yaco vakawasoma na ivakatakilakila oqo, veivosaki kei na nomu vuniwai."
+  - q: "Au na kunea vakacava na vakacegu ni qaravi voleka vei au?"
+    a: "Tekivu ena Eldercare Locator (1-800-677-1116 se eldercare.acl.gov) mo yacova kina na nomu Area Agency on Aging e nomu vanua, na ARCH National Respite Locator Service, se na Alzheimer's Association Helpline ena 1-800-272-3900. Na vuvale, itokani kei ira na dauveivuke talega era rawa ni solia na vakacegu ni qaravi."
+  - q: "E sauma beka na Medicare na vakacegu ni qaravi?"
+    a: "Me baleta e dua e ciqoma na veiqaravi ni hospice, na Medicare e ubia na levu ni isau ni vakacegu ni qaravi me yacova na lima na siga veitaravi ena valenibula se vale ni qaravi vakavuniwai, me vaka e tukuna na National Institute on Aging. Na levu ni inisua ni bula vakaitaukei e sega ni ubia na vakacegu ni qaravi; na Medicaid kei na so na ituvatuva ni inisua ni qaravi balavu era rawa ni veivuke."
+  - q: "E dina beka ni galala na Alzheimer's Association Helpline ka vakarautaki ena bogi?"
+    a: "Io. Na Alzheimer's Association e kaya ni nona Helpline ena 1-800-272-3900 e galala, taqomaki ka tawa mudu na kena veiqaravi, 365 na siga ena dua na yabaki, kei na veivuke ena vuqa na vosa. Qiri 711 me baleta na veiqaravi ni relay."
+  - q: "E ca beka meu taura e dua na gauna ni cegu mai na qaravi ira tale eso?"
+    a: "Sega. Na vakacegu e vukei iko mo tomana na nomu qaravi, ka na vakacegu ni qaravi e rawa talega ni solia vua na tamata o qarava e dua na veisau ni itokani kei na itaviqaravi. E levu na dauqaravi era kaya e muri ni vinaka ke ra a kerea taumada na veivuke."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Kevaka o qarava e dua e tiko vua na mate ni guilecavi vakasivia, de o wilika tiko na tabana oqo ni sa bogi, o sa oca, ka tu vei iko e dua na ilist ni ka o se bera ni cakava. O ya e ka e dau yaco. Na nomu qaravi iko e sega ni ka ni taleitaki se isolisoli ni o sa oti kece. O ya na ka e vukei iko mo tomana tiko.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Na tabana oqo e vakamacalataka na ivakatakilakila ni oca, na sala mo taura kina e dua na gauna ni cegu dina, na vanua mo kunea kina na veitokoni, kei na laini ni veivuke galala e Amerika o rawa ni qiri ena siga nikua.
 
-## What are the signs of caregiver burnout?
+## Na cava na ivakatakilakila ni oca ni qaravi ira tale eso?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Na oca e dau yaco vakamalua, ka e vinaka mo kila na nomu ivakatakilakila. Na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) e tukuna na ivakatakilakila ni lomaoca ni qaravi ira tale eso, oka kina:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- na nomu oca vakalevu, lomaoca se lomaleqa;
+- na cudru se vosota ca totolo;
+- na nomu rairai duatani se tawase mai vei ira tale eso;
+- na leqa ni moce, se na sega ni veirauti na nomu moce;
+- na rarawa se sega ni namaka vinaka, se na yali na nomu taleitaka na ka o dau taleitaka;
+- na mosi ni ulu, mosi se so tale na leqa vakayago e dau yaco;
+- sega na nomu gauna mo vakaukauayago se vakarautaka na kakana bulabula vei iko;
+- levea na nomu sili se so tale na ka ni nomu qaravi iko;
+- vakayagataka vakaca na alakaolo se wainimate, oka kina na wainimate e volai vei iko.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) e kuria tale na ivakatakilakila me vaka na cakitaka ni mate, na cudru vua na tamata ("e via kaukauwa ga"), na lomaleqa me baleta na veisiga ni mataka, na dredre ni vakanamata, kei na leqa ni bula e vakaleqai iko. E vakatura mo veivosaki kei na nomu vuniwai kevaka e dau yaco vakawasoma vei iko na ivakatakilakila oqo.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Na ivakasala ni NIA mo kua ni waraka me yacova ni o sa oca sara vakalevu. Raica totolo na nomu ivakatakilakila ka cakava e dua na ka.
 
-## What can I do today, in five minutes?
+## Na cava au rawa ni cakava nikua, ena lima na miniti?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Na cegu lalai e yaga. E sega ni dua vei ira oqo ena walia kece na oca, ia e rawa ni vukei iko ena dua na yakavi dredre.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Lako i tautuba.** Dabe ena veranda se taubale ki na kato ni meli ni sa taqomaki ka tiko vinaka na tamata.
+- **Ceguva vakamalua.** Taura e vica na icegu vakamalua ni bera ni o sauma e dua na taro dredre. O rawa talega ni wasea vata kei na tamata o qarava e dua na gauna ni cegu ena [Calm Breathing](/games/calm-breathing/).
+- **Gunuvaka na wai ka kania e dua na ka.** E rawarawa na nomu guilecava na nomu kakana.
+- **Vakauta e dua na itukutuku vei dua na itokani.** Sega ni mo kerea e dua na ka, mo veisemati ga.
+- **Vosa vinaka vei iko.** Na [ivolavola ni NIA me baleta na nomu qaravi iko](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) e vakatura na vosa me vaka na "Au cakava na ka vinaka duadua au rawa ni cakava," "Au sega ni taucoko, ka sa vinaka tu ga o ya," kei na "Au na marautaka na gauna eda rawa ni tiko vata kina ena vakacegu."
 
-## What is respite care, and how do I get it?
+## Na cava na vakacegu ni qaravi, ka au na rawata vakacava?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Na vakacegu ni qaravi e dua na gauna lekaleka ni qaravi me baleta na tamata o qarava, me rawa ni o vakacegu. Na [tabana ni NIA me baleta na vakacegu ni qaravi](https://www.nia.nih.gov/health/caregiving/what-respite-care) e vakamacalataka ni rawa ni yaco mai na vica na aua ki na vica na macawa, ka rawa ni caka e vale, ena vale ni veiqaravi vakavuniwai se ena vale ni veiqaravi ena siga.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) e vakamacalataka na mataqali e dau yaco:
 
-| Type | What it is |
+| Mataqali | Na cava o ya |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Veivuke e vale | E dua na itokani, wekada, dauveivuke se dauqaravi saumi e lako mai ki vale |
+| Vale ni veiqaravi ena siga | Itaviqaravi sa tuvanaki me vaka na ivakatagi kei na droini ena dua na ilawalawa taqomaki; e dau vakarautaki talega na veilakoyaki kei na kakana |
+| Moce e kea se tiko lekaleka | E dua na vanua ni qaravi balavu e qarava na tamata me dua na bogi, vica na siga se vica na macawa |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**O cei e sauma?** Me vaka na NIA, na vakacegu ni qaravi mai vei ira na vuvale, itokani se dauveivuke e rawa ni sega na kena isau. Na veiqaravi vakacakacaka e saumi ena aua se ena siga. Me baleta e dua e ciqoma na veiqaravi ni hospice, na Medicare e ubia na levu ni isau ni vakacegu ni qaravi me yacova na lima na siga veitaravi ena valenibula se vale ni qaravi vakavuniwai. Na Medicaid e rawa ni veivuke. Na levu ni inisua ni bula vakaitaukei e sega ni ubia na vakacegu ni qaravi, ia eso na ituvatuva ni inisua ni qaravi balavu era ubia.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**iVakasala:** Na Alzheimer's Association e vakatura mo tovolea na dausolia na vakacegu ni qaravi ena gauna e sega ni leqa vakasauri, me ra sa vakarautaki kevaka o gadreva vakasauri na veivuke.
 
-## Where can I find help near me?
+## Au na kunea vakacava na veivuke voleka vei au?
 
-Several free US services can point you to local help.
+E vica na veiqaravi galala e Amerika era rawa ni dusimuki iko ki na veivuke e nomu vanua.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** Na [Helpline](https://www.alz.org/help-support/resources/helpline) e galala ka taqomaki, tawa mudu na kena veiqaravi ena veisiga kece ni yabaki, kei na veivuke ena sivia na 200 na vosa ena nodra vukui na dauveivuke era vosata rua na vosa se na dauvukivosa. Qiri 711 me baleta na veiqaravi ni relay. O rawa ni veivosaki me baleta na veisau ni itovo, na lomaoca ni qaravi ira tale eso, na digidigi ni vakacegu ni qaravi, na parokaramu e nomu vanua kei na so tale, ka kerea e dua na veivosaki balavu kei na daunivakasala ni qaravi. Na tamata cakacaka era sega ni solia na ivakasala vakavuniwai.
+- **Eldercare Locator: 1-800-677-1116.** Na [Eldercare Locator](https://eldercare.acl.gov/), e dua na veiqaravi raraba ni Administration for Community Living, e semati iko ki na veiqaravi me baleti ira na qase kei na nodra vuvale. O rawa ni qiri, volavola, veivosaki ena initaneti se vakauta na imeli vei ira na tamata cakacaka sa vakavulici, se vakasaqara ena nomu vanua. E rawa ni dusimuki iko ki na nomu Area Agency on Aging e nomu vanua.
+- **ARCH National Respite Locator Service.** Na [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) e vukei iko mo kunea na dausolia na vakacegu ni qaravi ena veiyasana, ka vakatura mo veitaratara taumada kei na nomu State Respite Coalition se Lifespan Respite program kevaka e tu ena nomu yasana. Na ARCH e tukuna ni ra sega ni dikeva na dausolia na veiqaravi, o koya mo raica vinaka ga na nodra kila ka kei na nodra kedra itukutuku.
 
-## How do I find a support group?
+## Au na kunea vakacava e dua na ilawalawa ni veitokoni?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Taroga na Helpline se vakasaqara ena initaneti me baleta na ilawalawa voleka vei iko. Na Alzheimer's Association [e liutaka na ilawalawa ni veitokoni](https://www.alz.org/help-support/community/support-groups) me baleti ira na dauqaravi kei ira na tamata era tiko vata kei na mate ni guilecavi vakasivia, ena vanua se ena initaneti, ka liutaki ira na dauveivuke sa vakavulici. E vuqa na vanua era vakarautaka talega na ilawalawa vakatabakidua, me kena ivakaraitaki me baleti ira na dauqaravi era sa qase se baleti ira era tiko vata kei na Alzheimer's e tekivu ena gauna ni bula cauravou se ena itekitekivu. E vakarautaka talega na ALZConnected, e dua na itikotiko ena initaneti e galala ka wasea kina na dauqaravi na ivakasala.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Na ilawalawa ni veitokoni e rawa ni vanua mo vakamacalataka kina na nomu nanuma sega ni veilewai, mo taura na ivakasala yaga mai vei ira era sa lako curuma, ka mo kua ni rairai duaduatani. Kevaka na imatai ni ilawalawa e sega ni veiganiti, tovolea tale e dua.
 
-## How do I ask family and friends for help?
+## Au na kerea vakacava na veivuke mai vei ira na vuvale kei na itokani?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Vosa matata. E levu era via veivuke ia era sega ni kila na ka me ra solia. Na NIA e vakatura:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Maroroya e dua na ilist** ni cakacaka era rawa ni taura tale eso, ka laiva me ra digia.
+- **Tekivu vakalalai** kevaka e dredre na nomu kerekere.
+- **Veiganiti na cakacaka kei na tamata.** Na wekamu e taleitaka na vakasaqa e kauta mai na kakana ni yakavi ena Lotulevu. Na itokani e kila vinaka na fomu e veivuke ena pepa.
+- **Vakauta na itukutuku se imeli** kevaka e dredre na nomu kerea e matadra.
+- **Vakatovotovotaka na nomu isaunitaro** ni dua e solia na veivuke: "Vinaka vakalevu na nomu taroga. Oqo na ka o rawa ni cakava."
+- **Namaka ni eso era na kaya e sega** ka kua ni taura vakalevu.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Eso tale na vakasama: kerea e dua me tiko vata kei na tamata me dua na yakavi ena dua na macawa, kauti koya ena dua na ilakolako lekaleka, se sikovi koya ka qito vata. Na noda [ivolavola me baleta na qito vata](/caregiving/how-to-play-together/) e rawarawa na kena wasei vei ira na dauveisiko.
 
-## What if something happened to me?
+## Vakacava kevaka e yaco e dua na ka vei au?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Tuvanaka ena gauna oqo e dua na ituvatuva ni veitokoni. Na NIA e vakatura mo veidinadinati kei na vuvale se itokani voleka o cei ena veisautaka iko, ka maroroya e dua na ivolavola e tiko kina na naba ni leqa vakasauri, wainimate, ivakasala ni itovo e yaga, kei na itaviqaravi era taleitaka. Na Alzheimer's Association e vakatura talega mo maroroya me rawarawa na kena kunei na nodra itokani vakavuniwai na tamata kei na ilist ni wainimate sa vou.
 
-## When should I get professional or urgent help?
+## Ena gauna cava au gadreva kina na veivuke vakacakacaka se vakasauri?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Veivosaki kei na nomu vuniwai kevaka e dau yaco vakawasoma na ivakatakilakila ni lomaoca, kevaka o rairai rarawa, se kevaka e dredre vei iko na kena qaravi. Tukuna vua na nomu vuniwai ni o dua na dauqaravi. Na NIA e tukuna ni ra rawa na daunivakasala kei na dauveiqaravi ni veimaliwai raraba me ra veivuke ena nanuma dredre kei na ituvatuva, kei na Medicare, Medicaid kei na so na inisua vakaitaukei era rawa ni ubia eso na isau ni bula ni vakasama.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Kevaka o rairai tu ena leqa levu se tu vei iko na nanuma mo vakamavoataki iko, qiri se volavola ki na 988 mo yacova na [988 Suicide & Crisis Lifeline](https://988lifeline.org/), e galala ka vakarautaki ena 24/7. Kevaka e dua e tu ena leqa vakasauri sara, qiri 917.
 
-## Can shared activities give me a break too?
+## Na itaviqaravi vata e rawa beka ni solia talega vei au e dua na gauna ni cegu?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Ena so na gauna. E dua na itaviqaravi malumu dou taleitaka vata e rawa ni tiki ni siga e vakacegu vei iko kei na tamata o qarava: vakarorogo ki na sere makawa, raica na iyaloyalo, se dua na qito me vaka na [Conversation Cards](/games/conversation-cards/) e sega ni gadrevi kina na isau donu. Kevaka e taleitaka na tamata na tiko vata kei ira tale eso, e dua na soqoni ni ilawalawa ena [Picture Bingo](/games/picture-bingo/) ena vale ni qase se parokaramu ni veiqaravi ena siga e rawa ni solia vei iko e dua na aua ni cegu. Raica na [itaviqaravi me baleta na ilawalawa ena vale ni qaravi](/activities/care-home-groups/) me baleta na vakasama.

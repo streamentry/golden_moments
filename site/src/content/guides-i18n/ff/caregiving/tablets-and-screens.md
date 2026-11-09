@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Teeltaade Tabled walla Telefoon wonande mo jogii ñawndu hakkil"
+seoTitle: "Teeltaade tabled walla telefoon wonande mo jogii ñawndu hakkil"
+description: "Laawol kala e teeltaade tabled e telefoon: ommbude e jaaɓngal gootal, binndol mawngol, daaƴde tintine, hello jaaɓirɗe weeɓngo, daande e suturo."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Weeɓnan tabled walla telefoon hade maa hokkitde ɗum. Ommbu ɗum e jaaɓngal
+  gootal e Guided Access e iPad e iPhone walla app pinning e Android, walla
+  huutoro Assistive Access e Apple ngam hello weeɓno. Mawnin binndol, daaƴ
+  tintine, woppu jaaɓirɗe seeɗa tan e hello gooto, teelto daande hade maa
+  fuɗɗaade, huutoro darorde, tee tiiɗno yamirooje jaaɓirɗe. Huutoro ɗum e
+  wonndude, wondude e kuuɗe goɗɗe ɗe ngonaani e yaynirde.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) e app pinning (Android) ina moofta yaynirde e jaaɓngal gootal haa nde a udditi ɗum."
+  - "Assistive Access e Apple ina rokka hello weeɓno waɗiraaɗo wonande yimɓe jogiiɓe caɗeele hakkil."
+  - "Mawnin binndol tee daaƴ tintine e henorde ƴaƴɗe ngam hay gooto haɗde walla jiiɓnude."
+  - "Woppu jaaɓirɗe seeɗa tan ɗe annduɗaa e hello jaaɓirɗe gooto, tee teelto daande hade maa fuɗɗaade."
+  - "Darorde e nokku rokkirde loowdi ndu waylataa ina weeɓnina huutoraade e yiytude kaɓirgol ngol."
+  - "Ƴeewto yamirooje jaaɓirɗe e lollinde keɓe: HIPAA heewi waawde reende ko mooftaa e kaɓirgol neɗɗo."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Hol no mi haɗirta mo jogii ñawndu hakkil yaltude e jaaɓngal e iPad?"
+    a: "Hurmin Guided Access e Settings > Accessibility > Guided Access tee suɓo kode. Uddit jaaɓngal ngal, dobo butoŋ dow oo laabi tati (walla butoŋ Home e iPad ɓennuɗe), tee dobo Start. iPad oo heddotoo e jaaɓngal ngal haa nde goɗɗo naatni kode oo."
+  - q: "Hol no mi ommbirta tabled Android e jaaɓngal gootal?"
+    a: "Hurmin app pinning e jaaɓirde Settings, heewi ko e Security (sahaaji Security & location) > Advanced > App pinning. Caggal ɗum uddit jaaɓngal ngal, uddit Overview, dobo maandel jaaɓngal ngal dow tee dobo Pin. PIN maa, patan maa walla finnde maa ena haandi ngam ittude pin."
+  - q: "Huutoraade Guided Access e telefoon mo jogii ñawndu hakkil ina hisi?"
+    a: "Reento. Apple ina wi’a wonde Annditde Jokkondiral (Crash Detection) e Carwe Noddaango Keeriɗi (Emergency Services) ngalaa so Guided Access ina hurmi. So neɗɗo oo ina fawii e telefoon makko ngam noddaango keeriɗi, huutoro Guided Access tan so aɗa wondude e makko, walla miijo huutoraade Assistive Access kisa."
+  - q: "Ko dumunna no foti mo jogii ñawndu hakkil huutoraade yaynirde?"
+    a: "Alaa limo toɗɗaango. Dumunna juutɗe ɗe ngonɗe e wonndude, jillondirɗe e yaadu, jimol, golle suudu e yeewtere, ina mbaawi addude ñalawma ɓurɗo heewde geɗe e dumunna juutɗo e gooto tan e yeeso yaynirde. So kaɓirgol ngol ina addude mettinde walla ina haɗa kuuɗe goɗɗe, huutoro ɗum seeɗa."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tabled ina waawi wonde laawol belngol ngam lollinde nate, jimol e fijirde weeɓnde. Kono ina waawi kadi jiiɓnude: meemre nde fotaani uddita jaaɓngal goɗngal, tintinol feƴƴita, binndol ina famɗi, walla yaynirde ina ñifa hakkunde fijirde. Teeltagol seeɗa e maaɓe ina ñawnda ko heewi e ɗuum.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Laawol ngol ina huutoro teelte ɓooyɗe e iPhone, iPad e Android. Inɗe cuɓe ina mbaawi waylude hakkunde yamre topirde e feewnirɗe kaɓirɗe, so huunde ndee ina waylii, jokku hello Apple walla Google jokkaaɗo ngam kaɓirgol maa. Waɗ teeltagol ngal e hoore maa, hade maa jooɗodaade e neɗɗo mo aɗa toppitoo.
 
-## Should someone with dementia use a tablet or phone?
+## Hara mo jogii ñawndu hakkil ina foti huutoraade tabled walla telefoon?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Ɗum ina fawii e neɗɗo oo. Yimɓe heewɓe ina njiɗi huutoraade tabled so goɗɗo ina wonndi e maɓɓe, hay so ɓe mbaawaa huutoraade ɗum e hoore maɓɓe. Fuɗɗo huutoraade ɗum e wonndude, e jaaɓngal gootal udditaaɗo, e hoƴƴere seeɗa. So ɗum ina addude weltaare e yeewtere, jokku. So ɗum ina addude jiiɓru walla mettinde, deftere nate, kelle binndaaɗe walla jimol ina mbaawi ɓurde moƴƴande mo. [Kuuɗe amen binndeteeɗe](/activities/printable/) ko laawol goɗngol.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tabled ina heewi weeɓde e telefoon: yaynirde e nate ina ɓurɗi mawnude, tee wonaa kañum woni kaɓirgol noddaango keeriɗi neɗɗo oo.
 
-## How do I lock a tablet or phone to one app?
+## Hol no mi ommbirta tabled walla telefoon e jaaɓngal gootal?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Huutoro Guided Access e iPhone e iPad, walla app pinning e Android. Ɗiɗi fof ina moofta yaynirde e jaaɓngal gootal haa nde a naatni kode, ngam meemre nde fotaani walla daasde haɗa udditde huunde woɗnde.
 
-### iPad and iPhone: Guided Access
+### iPad e iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+E tuugaade e [jamirooje Guided Access Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Uddit **Settings**, dobo **Accessibility**, caggal ɗum dobo **Guided Access** tee hurmin ɗum.
+2. Les **Passcode Settings**, suɓo kode Guided Access. Aɗa waawi kadi yamirde Face ID walla Touch ID.
+3. So a yiɗii: les **Display Auto-Lock**, suɓo ko ɓuri yaawde nde yaynirde ommbotoo e nder rogere, ngam haɗde nde ñifde hakkunde fijirde.
+4. Uddit jaaɓngal ngal njiɗɗaa huutoraade.
+5. Dobo butoŋ senngo oo laabi tati (iPhone), butoŋ dow oo (iPad), walla butoŋ Home e kaɓirɗe ɓennuɗe.
+6. So a yiɗii: wattu huunde e dow yaynirde nde njiɗɗaa haɗde meemre. Dobo **Options** (walla **Session Settings**) ngam daaƴde butoŋaaji daande walla haɗde yaynirde yiiltude.
+7. Dobo **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Ngam gasnude rogere ndee, dobo butoŋ gootol ngol kadi laabi tati, naatnu kode, tee dobo **End**. Apple ina hollita wonde e yamre topirde ɓennunde woɗnde aɗa doba laabi ɗiɗi.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Humpito teeŋtuɗo:** Apple ina wi’a wonde Annditde Jokkondiral e Carwe Noddaango Keeriɗi ngalaa e nder rogere Guided Access. Woppataa Guided Access hurmaade e telefoon mo neɗɗo oo ina waawi haajaade ngam noddaango keeriɗi.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+E tuugaade e [ballal Android Google ngam ommbude yaynirɗe](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Uddit jaaɓirde **Settings**.
+2. Dobo **Security** (walla **Security & location**), caggal ɗum **Advanced**, caggal ɗum **App pinning**. So a yiytaani ɗum, ƴeewto kelle ballal feewniraaɗo kaɓirgol maa.
+3. Hurmin **App pinning**. PIN maa, patan maa walla finnde maa maa haan ngam ittude pin.
+4. Uddit jaaɓngal ngal njiɗɗaa. Daas dow haa hakkunde yaynirde tee jogu ngam udditde Overview (walla dobo Overview e peewnugol butoŋ 3).
+5. Dow yiyngo jaaɓngal ngal, dobo maandel jaaɓngal ngal, caggal ɗum dobo **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Ngam ittude pin e peewnugol daasgol, daas dow tee jogu. E peewnugol butoŋ 3, meem tee jogu Back e Overview. E peewnugol butoŋ 2, meem tee jogu Back e Home. Caggal ɗum naatnu PIN maa, patan maa walla finnde maa.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Hara ina woodi mbaadi ɓurndi weeɓde wonande fof iPhone walla iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Eey. Assistive Access e Apple ina lomta hello jaaɓirɗe goowaaɗo oo e hello ɓurɗo weeɓde. [Apple ina sifta ɗum](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ko waɗiraaɗo ngam weeɓninde iPhone wonande yimɓe jogiiɓe caɗeele hakkil ngam huutoraade ɗum e hoore maɓɓe, e geɗe mawɗe e dow yaynirde e fannuuji ɓurɗi tiiɗde. Apple ina rokka [fannu gootol ngol e iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Hol mo teeltata ɗum.** Apple ina wasiyaa ballo hoolaaɗo, wano terɗe walla toppitiiɗo annduɗo neɗɗo oo, walla suɓaade jaaɓirɗe e fannuuji.
+- **Hol to fuɗɗortoo.** Yah to **Settings > Accessibility > Assistive Access**, dobo **Set Up Assistive Access**, caggal ɗum **Continue**.
+- **Jaaɓirɗe.** Ko aan suɓotoo jaaɓirɗe feƴƴotooɗe. Jaaɓirɗe Apple wonɗe ina njogii yamre weeɓno keeriiɗo, tee jaaɓirɗe goɗɗe heewɗe ina mbaawi ɓeydeede e mbaadi maɓɓe woowaandi.
+- **Leñol.** Suɓo **Rows** (doggol weeɓngol janngude) walla **Grid** (geɗe mawɗe ɓurɗe hollirde nate e maandeeji).
+- **Kode.** Aɗa suɓa kode Assistive Access keeriiɗo ngam naatde, yaltude walla waylude teelte. Apple ina wasiyaa teeltaade konte Apple artirde e nder teeltagol, sabi so alaa ɗum, kode yejjitaaɗo ina firtu artirde kaɓirgol ngol.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ina waawi hawrude e mo huutortoo kaɓirgol mum ñalnde kala. Guided Access walla app pinning ina ɓuri yaawde wonande rogere fijirde lollirnde.
 
-## How do I make text and pictures bigger?
+## Hol no mi mawninirta binndol e nate?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Ɓeydu mawneeki binndol e jaynitol, caggal ɗum ƴeewto so butoŋaaji ina keƴa e yaynirde.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone e iPad.** E tuugaade e [jamirooje mawneeki alkule Apple](https://support.apple.com/en-us/102453), yah to **Settings > Display & Brightness > Text Size** tee daas daasirde ndee. Ngam binndol ɓurɗo mawnude, yah to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple ina hollita wonde binndol mawngol no feewi ina waawi saɗtinde meemre won e butoŋaaji, ngati teelto so ina haani.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** E tuugaade e [ballal teelte binndol e jaynitol Google](https://support.google.com/accessibility/android/answer/11183305?hl=en), uddit **Settings** tee yiil **Font size**, caggal ɗum dirtin daasirde ndee. Yiil **Display size** ngam mawninde fof ko woni e yaynirde. Aɗa waawi kadi hurminde **Bold text** les **Accessibility > Display size and text**. Jaaɓirɗe wonɗe ndewataa ɗee teelte.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+E fijirde wano [Picture Pairs](/games/picture-pairs/) e [Find the Same](/games/find-the-same/), aɗa waawi kadi suɓaade tayle walla cuɓe seeɗa, ɗum ina waɗa geɗe ɓurɗe weeɓde e yaynirde.
 
-## How do I stop notifications and pop-ups?
+## Hol no mi dartinirta tintine e henorde ƴaƴɗe?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Daaƴ tintine wonande jaaɓirɗe ɗe a haajaaki, tee huutoro Do Not Disturb e nder kuuɗe.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone e iPad.** Yah to **Settings > Notifications**, dobo jaaɓngal les **Notification Style**, tee daaƴ **Allow Notifications** ([dewindagol teelte tintine Apple](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Ngam deƴƴinde noddaali, jeertine e tintine seeɗa, uddit Control Center tee hurmin **Do Not Disturb** e butoŋ **Focus** ([ballal Do Not Disturb Apple](https://support.apple.com/en-us/105112)). Aɗa waawi toɗɗaade ɗum les **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Daas les iwde e dow yaynirde tee dobo **Do Not Disturb**, walla yah to **Settings > Modes > Do Not Disturb** ([ballal Do Not Disturb Google](https://support.google.com/android/answer/9069335?hl=en)). Les **Notification filters** aɗa waawi suɓaade hol yimɓe e jaaɓirɗe mbaawi yettaade kadi. Teelte ina ceerti e feewnirɗe kaɓirɗe.
 
-## How do I make a simple home screen?
+## Hol no mi waɗirta hello jaaɓirɗe weeɓngo?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Woppu jaaɓirɗe seeɗa tan ɗe annduɗaa e hello gooto tee dirtin heddiiɗe ɗee haa ɓaawo. Alaa teeltagol gootol tan ngam ɗuum; ko ittude ko heewi.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Suɓo jaaɓirɗe tati haa jeegoo.** Yeru, nate, jimol, jaaɓngal noddaango widewoo e fijirde wootere.
+- **Waɗ ɗe e hello adanngo,** e nokku gooto kala sahaa, tee dirtin fof heddiiɗo e hello ɗimmungo walla runngere.
+- **Huutoro natal cakkital laaɓngal, ɓurɗe yiide,** wano noordi wootiri walla natal gootol anndaaɗo, ngam maandeeji ɓurɗe feeñde.
+- **Momtu jaaɓirɗe ɗe a haajaaki.** Jaaɓirɗe seeɗa ina firtu fartaŋŋeeji seeɗa ngam jiiɓru e keɓe seeɗa roɓindeteeɗe.
+- **Miijo Assistive Access** e kaɓirɗe Apple so aɗa yiɗi kaɓirgol ngol waɗana maa ɗum.
 
-## What about volume and sound?
+## Hol ko haani waɗeede e daande e nanondiral?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Teelto daande nde weltotoo hade maa hokkitde kaɓirgol ngol. E Guided Access, aɗa waawi daaƴde butoŋaaji daande ngam haɗde nde waylude hakkunde huutorgol. Ƴeewto so nanirɗe ina naati tee ina ngolla.
 
-## Where should the tablet live?
+## Hol to tabled oo foti wonde?
 
-Give it a stand and a permanent charging spot.
+Hokku ɗum darorde e nokku rokkirde loowdi ndu waylataa.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Darorde walla ŋoƴƴere** nde jogata tabled oo dariiɗo e taabal ina firtu hay gooto soklaani jogude ɗum, tee towde ina weeɓi.
+- **Nokku rokkirde loowdi gootol** ndu waylataa, ɓurɗo moƴƴude ko darorde rokkirde loowdi e taabal e suudu ndu kuutortoɗaa ñalnde kala. Tabled oo ina jokki heewde loowdi tee ina woni e nokku gootol kala sahaa.
+- **Ustu jalbeendi.** Waɗ yaynirde ndee woɗɗi henorde jalbunde.
 
-## How much screen time is okay?
+## Ko dumunna no foti huutoraade yaynirde?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Alaa limo hojomaaji moƴƴo. Ƴettu dumunna juutɗe ɗe ngonɗe e wonndude ko geɗel e ñalawma heewnde geɗe, nde waɗi kadi dillere, jimol, golle suudu, yeewtere e waktu boowal. Sabi kiikiiɗe keewɗe ina mbaawi ɓeydude mettu kiikiiɗe, miijo waɗde kuuɗe yaynirde law e ñalawma. Yiy [kuuɗe deeƴɗe e kikiiɗe ɓennunde ñalawma](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Huutoraade tabled e wonndude, wonaa woppude mo tan, ina waɗa ɗum renndo. Dewindagol amen [fijirde e wonndude](/caregiving/how-to-play-together/) ina sifta hol no waɗirtee.
 
-## How do I protect their privacy on the device?
+## Hol no mi reenirta suturo makko e kaɓirgol ngol?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Tiiɗno ko jaaɓirɗe mbaawi roɓinde, tee hoto sikku sariya suturo cellal ina reenude ɗum. Goomu Cellal e Carwe Neɗɗo Dowlaaji Dentuɗi (HHS) [ina sifta](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) wonde Sariyaaji HIPAA keewi waawde reende humpito cellal mooftaaɗo walla keɓaaɗo e telefoonaaji e tableɗe neɗɗo. Heewi e sahaa, HIPAA kadi reenataa keɓe naatnaaɗe e jaaɓirɗe ngam huutoraade neɗɗo, so wonaa jaaɓngal ngol iwii e rokkirɗo cellal, eɓɓo cellal walla gollidiiɓe maɓɓe jogiiɓe yamiroore.
 
-HHS suggests:
+HHS ina wasiyaa:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- haɗde jaaɓirɗe ɗe coklaaka walla jaaɓirɗe puɗɗorɗe, tentini ɗe «meheraaɗe»;
+- hoto hokku jaaɓirɗe yamiroore nokku so ɗe coklaani ɗum e jaati, wano kartal.
 
-Also consider:
+Miijo kadi:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Huutoro kode** e kaɓirgol ngol, tee mooftu binndol mum e nokku hisngo.
+- **Ƴeewto yamirooje** wonande nate, kameraa, mikro, jokkondirɓe e nokku, tee daaƴ ko jaaɓngal ngol haajaaki.
+- **Ƴeewto ko jaaɓngal roɓinta** hade maa aafde. Dewindagol amen [suɓaade jaaɓirɗe e fijirde dementia](/caregiving/choosing-apps-and-games/) ina jogii doggol ƴeewtagol suturo.
+- **Reento e nate ɓesngu.** Lollin tan nate ɗe neɗɗo oo weltotoo mum, tee anndu hol to jaaɓngal mooftata ɗe. E [Photo Pairs](/games/photo-pairs/), nate ɗe cuɓɗaa ina heddoo e wanngorde maa.
+- **Daaƴ coodguuji nder jaaɓngal** walla momtu humpito yoɓde e konte ɗe neɗɗo oo huutortoo.

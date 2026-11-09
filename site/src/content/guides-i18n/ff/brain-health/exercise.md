@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Dillere e Cellal Hakkille: Ko Ƴeewte Humpitii e No Dillorta Hoolnii"
+seoTitle: "Dillere e Ñawngu Hakkille: Ko Ƴeewte Wiʼi"
+description: "Ko Ƴeewte humpitii hakkunde dillere e hibaade ñawngu hakkille, e laawol ngol hoolnii, welngol ngam mawɓe e yimɓe wuurɓe e ñawngu hakkille."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Ƴeewte ina humpita dillere sahaa kala e ustude hibaade ñawngu hakkille, tee ciimtol Lancet
+  hitaande 2024 ina jooɗtina waasde dillude e nder 14 huunde wayloojum. Ƴeewndeeji tabitinaani
+  wonde dillere ina haɗa ñawngu hakkille. Kono dillere ina wallita semmbe, pewondiral, weelaare
+  e ɗaanagol, ɗum noon yahdugol, dillere e jooɗorde e weejugol ina moƴƴi waɗeede sabu nafooje
+  mum en. Humpito doktoor maa hade maa fuɗɗaade huunde hesere.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Yimɓe dillooɓe sahaa kala ina keewi heɓde hibaade ñawngu hakkille ɓurnde famɗude, kono ɗum ƴeewaama ko e ƴeewte ndewtuɗe, wonaa ƴeewndeeji."
+  - "Ƴeewndol duuɓi joy ngam mawɓe holliraani ceerndugol laaɓtungol e mbaawka miijagol hakkunde pelle."
+  - "Jamirooje CDC ngam mawɓe duuɓi 65 e dow ina haala dillere ɓuuɓnde, semmbinde ɓalɗe e pewondiral, tee ina wiʼa hay seeɗa ina ɓuri walaa."
+  - "Ngam yimɓe wuurɓe e ñawngu hakkille, dillere juutnde, anndaande, wontaande, wano yahdugol ñalnde kala walla fijirde e jooɗorde, ina ɓuri moƴƴude e kala faandaare."
+  - "Ko ɓuri neɗɗo gooto e nder nay e mawɓe ina yana hitaande kala, ɗum noon gollal pewondiral e nokku hoolaare ina arda."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Dillere ina waawi haɗde ñawngu hakkille?"
+    a: "Hay gooto waawaa fodaade ɗum. Ƴeewte keewɗe ina humpita dillugol e hibaade ñawngu hakkille ɓurnde famɗude, kono ƴeewndeeji cellal kolliraani wonde dillere ina haɗa ɗum. Dillere ina jogii nafooje goɗɗe tabitaaɗe, ɗum noon ina moƴƴi waɗeede."
+  - q: "Ina hoolnii mo wuurɗo e ñawngu hakkille dilloo?"
+    a: "Heewi sahaa, so a heblike. National Institute on Aging ina wasiyaa yo a humpito doktoor makko hade fuɗɗaade dewal kesal, suɓo pade weelaaɗe, hokku ndiyam, tee ndewnaa jonteeji ɗii. Dartin so tawii neɗɗo oo ina waɗi ko tampi, waasataa pewondirde walla ina waɗi ko weltinaani mo."
+  - q: "Hol dillere waawi waɗeede e jooɗorde?"
+    a: "Cuɓe jooɗorde ina jeyaa heen foolu walla yoga e jooɗorde, weddaade balon walla balu lewru, weddaade saakuu ɓesngu, ɓamnude kaan soble, foolu ɓoggi e masiŋ dillere lese. Ɗee ina moƴƴi so yahdugol ina sattii."
+  - q: "Hol ko waɗetee so neɗɗo oo yiɗaa dillude?"
+    a: "Woto tiiɗin. Eto kadi yeeso, tawtu e makko, ɓeydu ɗaŋre anndaande, walla waylit dillere e golle wano fiiyugol walla ndiyam hokkude puɗi. Yahdugol juutngol haa kaayitaaji ina jogii nafoore, tee jooɗaade caggal suudu e koye maa wonaa huunde meere."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Dillugol ko huunde nde ƴeewte cellal hakkille ƴeewi no feewi. Ƴeewte ina humpita ɗum e hibaade ñawngu hakkille ɓurnde famɗude, kono ɗe tabitinaani wonde dillere ina haɗa ñawngu hakkille. Ko laaɓi ko wonde dillere ina wallita semmbe, pewondiral, weelaare e ɗaanagol e duuɓi kala. Hello ngo ina haala ko ƴeewte wiʼi, ko no foti dillere mawɓe ina wasiyaa heɓde, e laawol deeyngol ngam dillude e mo wuurɗo e ñawngu hakkille.
 
-## Does exercise lower the risk of dementia?
+## Dillere ina usta hibaade ñawngu hakkille?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Ƴeewte ina holli wonde yimɓe dillooɓe sahaa kala ina ɓuri heewde waasde heɓde ñawngu hakkille, kono seedeeji ɗii ina jogii keeri. [Ciimtol Lancet 2024 baɗte ñawngu hakkille](https://doi.org/10.1016/S0140-6736(24)01296-0) ina jooɗtina waasde dillude e nder 14 huunde hibaade wayloojum. E nder miisagol majje, ɗee huunde 14 fof ina njuɓɓina ko ina tolnoo e 45% ñawngu hakkille e winndere ndee.
 
-Here is what the evidence looks like:
+Ko nii seedeeji ɗii mbaɗi:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Ƴeewte ndewtuɗe ina kolli feere wootere.** Ƴeewtagol ƴeewte 58, ngal Ciimtol ngol haalata, yiytii wonde yimɓe dillooɓe ina joginoo ko ina tolnoo e 20% hibaade ñawngu hakkille ɓurnde famɗude. Ceerndugol ɓurngol mawnude ngonnoo ko hakkunde yimɓe ɓe dillataa haa laaɓi e ɓeen dillooɓe hay seeɗa.
+- **Jokkondiral ngal ina waawi yahde feere ɗiɗi fof.** Ciimtol ngol ina holli wonde waasde dillude ina waawi ɓeydu hibaade. Ina holli kadi wonde wayle hakkille gadane ñawngu hakkille, ɗe puɗɗoo duuɓi keewɗi hade heɓtugol ñawngu nguu, ina mbaawi waɗde yimɓe ɓe usta dillude.
+- **Ƴeewndeeji ina ɓuri laaɓtaade.** E ƴeewndol gootol, mawɓe 945 jogiiɓe duuɓi 78 e hakindeeji njooɗtinaa e duuɓi joy e dillere nde toppitaa laabi ɗiɗi e yontere kala walla e fedde ndennditaande. E sakkitorɗe, mbaawka miijagol seerndaaki no laaɓi hakkunde pelle ɗee. Yimɓe heewɓe e fedde ndennditaande ndee kadi ina ngoni e dillude, ɗum noon ina saɗtina faamde njaltudi ndii.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ina wiʼa ɗum no laaɓiri. Jokkondiral laaɓtungal hakkunde dillere e haɗde ñawu Alzheimer holliraaka, tee seedeeji ƴeewndeeji yonataa ngam wiʼde dillere ina haɗa walla ina neyta ɗum. Kono dillere ina usta hibaade yaneede, ŋakkeende weelaare, ñawu suukara, toɓɓere ƴiiƴam toownde e yaneede ƴiiƴam hakkille. Won e ɗee caɗeele ina njokkondiri e ŋakkeende mbaawka hakkille.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Ko moƴƴi faamde ko dillude sabu ina wallita ma e weelaare e gollagol maa hannde. Nafoore hakkille nde wonaa fodaari, kono ina waawi wonde ɓeydaare.
 
-## How much activity do older adults need?
+## Ko no foti dillere mawɓe ina poti heɓde?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Jamirooje CDC ngam mawɓe duuɓi 65 e dow](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ina wasiyaa nooji dillere tati yontere kala:
 
-| Type | Weekly amount | Examples |
+| Fannu | Ko no foti yontere kala | Yeruuji |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Ɓuuɓnde | Ko famɗi fof hojomaaji 150 e dillere hakkundeejo, wano hojomaaji 30 e ñalɗe 5 | Yahdugol yaawngol, weejugol, dillere aerobik e ndiyam |
+| Semmbinde ɓalɗe | Ko famɗi fof ñalɗe 2, golla e pelle ɓalɗe teeŋtuɗe fof | Ɓamnude tedduɗe lewɗe walla kaan soble, foolu ɓoggi |
+| Pewondiral | Sahaa kala | Yahdugol koppu e koppu, ummaade e jooɗorde |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Ɗee ko faandaare, wonaa sarɗi fuɗɗorde. CDC ina wiʼa so a waawaa yettaade ɗe, ɗillo no mbaawka maa e cellal maa jamiri. Dillere hay seeɗa ina ɓuri waasde dillere fof.
 
-## Gentle ways to move for older adults
+## Laawol deeyngol ngam dillude mawɓe
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Yahdo e woɗɗo.** Yahdugol ñalnde kala e yiɗɗo, goɗɗo nokku maa walla fedde yahdooɓe ina ɓeyda yewtere e hoolaare.
+- **Dillere e jooɗorde.** Ɓamnugol juuɗe e jooɗorde, wurnugol kosɗe, yahdugol e nokku gooto e yoga e jooɗorde ina semmbina ɓalɗe tawa hibaade pewondiral ina famɗi.
+- **Weejo e deftere.** Ɗaŋ ɗaŋre e duuɓi sukaaku makko, ndillaa, tappaa walla yahaa seeɗa. Hono [jamirooje amen fijirde e ɗaŋre](/activities/music/) ina jogii miijooji.
+- **Semmbo e kuɗe galleeji.** Ɓamnu loɗe ndiyam heewuɗe walla kaan soble tawa aɗa ndaara fiilan yiɗaaɗo.
+- **Remaa walla waɗaa golle suudu.** Ndiyam hokkude puɗi, mooru mbattu, fiiyugol e taggugol conci fof ina jogii nafoore. Yillo [fijirde yaajorde e ngesa](/activities/outdoor-and-gardening/) e [golle suudu](/activities/household-tasks/).
+- **Dillere e ndiyam.** NIA ina jooɗtina ekkitinol aerobik e ndiyam no suɓre wootere ngam yimɓe ɓe dillere e leydi ina metta jokke maɓɓe.
 
-## How to exercise with someone living with dementia
+## No dillortaa e mo wuurɗo e ñawngu hakkille
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Ngam mo wuurɗo e ñawngu hakkille, faandaare ndee ko weelaare, weltaare e reende mbaawka ñalnde kala, wonaa yettaade limo. NIA ina wiʼa dillere ɓandu ina wallita reende ɓalɗe, jokke e ɓernde mo wuurɗo e ñawu Alzheimer e ngonka moƴƴa, tee ina waawi kadi ƴellitde weelaare e ɗaanagol. Humpito doktoor makko hade fuɗɗaade dewal kesal. Ballal e [deftere toppitorde NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ina jeyaa heen:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Yahdee e koye ñalnde kala.** Suɓo laawol hoolaare, anndaangol, mo aldaa e caɗeele. So neɗɗo oo ina yahda tan, mbelndi innitol jogiindi limo noddirgel maa ina moƴƴi.
+2. **Eto widewooji dillere ngam mawɓe.** Rewtee e koye, e jooɗorde walla e darorde.
+3. **Ndewnaa jonteeji ɗii.** «Mini-dillere» juutɗe keewɗe ina mbaawi ɓurde moƴƴude e gootel juutngel.
+4. **Ɓeydu ɗaŋre.** Ɗaŋre anndaande ina waɗa dillere nde wayi ko fijirde, wonaa golle. Weejee so neɗɗo oo ina weltii.
+5. **Hokku ndiyam e pade weelaaɗe.** Hokku ndiyam walla njaram e nder e caggal, tee suɓo conci weelaaɗe e pade moƴƴuɗe baɗanaaɗe dillere.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+So yahdugol ina sattii, [deftere NIA baɗte toppitagol mo wuurɗo e ñawu Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ina wasiyaa cuɓe jooɗorde. Ɗe ina jeyaa heen dillere walla yoga e jooɗorde, weddaade saakuu ɓesngu, weddaade balu lewru walla balon, foolu ɓoggi, ɓamnude kuɗe galleeji lewɗe, e masiŋ dillere lese. Golle weeɓɗe wano fiiyugol e momtugol mbullaari kadi ina jogii nafoore.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Won e goonga baɗte ko dillere waawi waɗde. Ciimtol Lancet yiytaani seedeeji wonde dillere ina usta wayle jikku wano tikkeende. Ndillodon sabu ina waawi weltinde, wonaa ngam feewnude ñalawma saɗtuka. So neɗɗo oo wiʼi alaa, wonaa caɗeele. Hono [jamirooje amen so o wiʼi alaa](/caregiving/when-they-say-no/) ina jogii laawol deeyngol ngam etodaade kadi yeeso. Dartingol law, walla jooɗaade caggal suudu e koye tan, ina moƴƴi kadi.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Caggal dillere, fowtugol deeyngol wano [Foftere Deeƴnde](/games/calm-breathing/) ina waawi wallude on fof deƴƴinde. Ngam fijirde jooɗorde jogiinde dillere juuɗe deeynde, [Moɓindiren](/games/sort-together/) e [Bingo Nate](/games/picture-bingo/) ina ngolla no feewi e taabal.
 
-## Balance and fall safety
+## Pewondiral e reende yaneede
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Yaneede ina heewi tee ina tiiɗi. [Ciimtol CDC](https://www.cdc.gov/falls/data-research/facts-stats/index.html) ina wiʼa ko ɓuri neɗɗo gooto e nder nay e mawɓe ina yana hitaande kala, kono ko ɓuri feccere ɓe haalataa doktoor mum en. Yannde gootol ina sowta hibaade yannde kadi laabi ɗiɗi. Huunde hibaade ɗe CDC jooɗtini ina jeyaa heen:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Loʼere e koyɗe e busɗe
+- Caɗeele yahdugol e pewondiral
+- Won e lekki, ina jeyaa heen lekki ɗaaninooɗi e won e lekki ŋakkeende weelaare
+- Caɗeele yiirde
+- Muuse e koyɗe walla pade ɓe moƴƴaani
+- Caɗeele galle wano piille, ndawaaji leydi e daaɗe bonɗe
 
-To move more safely:
+Ngam dillude no ɓuri hoolirde:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Huutoro jooɗorde tabitnde** nde aldaa e paaruuje, tee jogor nokku tappaade walla kaŋŋe ɓadii ngam dillere darorde.
+- **Momtu nokku oo** ndawaaji, ɓoggi e piille hade fuɗɗaade.
+- **Ummee sowa** so a ummiima, tee dartin so neɗɗo oo ina waɗi ko jiiɓi walla waasataa pewondirde.
+- **Ɓorno pade semmɓuɗe**, wonaa calze walla sapattooji loʼuɗi.
+- **Eltu pewondiral ɓadii ballal.** Ummaade e jooɗorde e yahdugol koppu e koppu ko yeruuji dillere pewondiral ɗi CDC rokki.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC ina wasiyaa mawɗo yanɗo tawi o heɓi hoore ndee yo yah doktoor ɗoon e ɗoon, teeŋti so o ina huutoroo lekki ɓallitooɗi ƴiiƴam.
 
-## Talk with a doctor
+## Yewtid e doktoor
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Humpito doktoor hade fuɗɗaade dewal dillere kesal, teeŋti ngam mo jogiiɗo caɗeele ɓernde walla fofre, muuse jokke, caɗeele pewondiral, walla ñawngu hakkille. Doktoor walla gollotooɗo cellal ɓandu ina waawi wasiyaade fijirde hoolaare tee ƴeewta so lekki ina njiida e pewondiral. Haal doktoor kala yannde, hay so safaara alaa. So huunde ina muusa walla ina waɗi ko feewaani e nder dillere, dartin. Ngam muuse ɓernde jaawɗo, caɗeele foftere, walla jiiɓgol hakkille jaawngol, noddu limo mballu jaawngol e nokku maa.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Hello ngo ko humpito kuuɓal, wonaa wasiyaaji doktoor. Yillo [reentinoore amen cellal](/medical-disclaimer/). Ngam faamde no ɓuri yaajde, tar [ko ƴeewte wiʼi baɗte huunde hibaade ñawngu hakkille](/brain-health/risk-factors/) e [so ñawngu hakkille ina waawi haɗeede](/brain-health/can-dementia-be-prevented/).

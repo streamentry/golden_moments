@@ -1,33 +1,35 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Na Kakana MIND, Mediterranean kei na Dementia"
+seoTitle: "Na Kakana MIND kei na Dementia: Ka e Kaya na Dikevi"
+description: "Na ka e kaya na dikevi me baleta na kakana MIND kei na Mediterranean kei na dementia, na ka a sega ni laurai rawa ena dua na vakatovolei, kei na sala ni vukea."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Eso na vakadidike era muri ira na tamata ena gauna balavu era tukuna ni na
+  kakana vaka-Mediterranean kei na MIND e semati kei na lailai ni rerevaki ni
+  dementia, ia e sega ni vakakina ena veigauna kece. Ena dua na vakatovolei
+  vakawasoma ni kakana MIND ena yabaki tolu, a tabaki ena 2023, e sega ni kune
+  e dua na duidui bibi ena vakasama se na saravanua ni mona ni vakatauvatani
+  kei na kakana ni vakatovolei. E sega na kakana se wainimate e vakadinadinataki
+  ni tarova na dementia. Vei ira na tamata era bula vata kei na dementia, na
+  bibi duadua me ra kana ka gunu vakalevu.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Eso, ia sega ni kece, na vakadidike era muria na tamata ena gauna balavu era semata na ivakarau ni kana vaka-Mediterranean kei na MIND kei na lailai ni rerevaki ni dementia."
+  - "Ena dua na vakatovolei ena 2023 vei ira e 604 na qase, o ira era muria na kakana MIND era sega ni vinaka cake ena vakatovolei ni vakasama se na saravanua ni mona mai vei ira era muria na kakana ni vakatovolei ni oti e tolu na yabaki."
+  - "Na National Institute on Aging e kaya ni sega na ivakadinadina ni kana se levea e dua na kakana e tarova na Alzheimer, kei na sega na vitamin se wainimate e vakadinadinataki ni tarova."
+  - "Na kakana e sinai tu kina na draunikau, vua ni kau, drau, sila taucoko kei na ika e tokona na bula vinaka ni uto, ka rawa ni vukea na ka rerevaki me vaka na kaukauwa ni dra kei na mate ni suka."
+  - "Vei ira na tamata era bula vata kei na dementia, na kakana lailai e rawarawa ni tauri, na peleti e duidui na roka, na gauna ni kana vakacegu kei na gunu wasoma e dau bibi cake mai na dua na mataqali kakana."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "E tarova beka na dementia na kakana MIND?"
+    a: "E se bera ni vakaraitaki. Na vakadidike ni vakadikevi era semata na kakana MIND kei na lailai ni rerevaki, ia e dua na vakatovolei vakawasoma ni yabaki tolu a tabaki ena 2023 e sega ni kunea e dua na duidui bibi ena macala ni vakatovolei ni vakasama se na saravanua ni mona ena kedrau maliwa o ira era muria na kakana MIND kei ira era muria na kakana ni vakatovolei. Eratou vinaka vakalailai ruarua na ilawalawa ka vakalailaitaka na bibi ni yagodratou ena ivakarau vata."
+  - q: "Na cava na duidui ni kakana MIND kei na kakana Mediterranean?"
+    a: "Na kakana Mediterranean e vakabibitaka na draunikau, vua ni kau, sila taucoko, drau, ika kei na waiwai ni olive, ka lailai na lewenimanumanu damudamu se kakana kamikamica. Na kakana MIND e cokovata kei na kakana DASH me baleta na kaukauwa ni dra, ka vakabibitaka tale ga na draunikau drokadroka kei na beri, ka vakalailaitaka na lewenimanumanu damudamu, kakana kamikamica, jisi, bata, kei na kakana vakasasa se kakana totolo."
+  - q: "E tiko beka na kakana se wainimate e tarova na Alzheimer?"
+    a: "E sega. Na National Institute on Aging e kaya ni sega na ivakadinadina ni kana se levea e dua na kakana e tarova na Alzheimer se na lutu ni vakasama e yaco ena qase, kei na sega na vitamin se wainimate e vakadinadinataki ni tarova na Alzheimer. Veivosaki kei na vuniwai ni bera ni taura na wainimate."
+  - q: "Na cava na kakana e rawarawa vei e dua e bula vata kei na dementia me kania?"
+    a: "Na kakana lailai e rawarawa ni tauri, me vaka na tiki ni sanuwici, tiki ni toa, tiki ni moli se tiki ni draunikau sa vakasaqa, e dau rawarawa cake mai na vakayagataki ni ito. Kevaka e dredre na mama se tiloma, na kakana malumu me vaka na yaloka sa vakacurumi, applesauce se cottage cheese e rawa ni vukea. Taroga na vuniwai me baleta na vakadikevi ni tiloma kevaka e dau kosokoso se luluqa."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +60,182 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+De dua o sa wilika ni dua na kakana e „vinaka vei na mona“ e rawa ni taqomaka mai na Alzheimer. Na dina e lailai sobu. Eso na ivakarau ni kana e semati kei na lailai ni rerevaki ena vakadidike era muria na tamata ena gauna balavu, ia na vakatovolei vinaka duadua me yacova oqo e sega ni kunea e dua na yaga matata. Na tabana oqo e vakamacalataka ruarua, oti qai vuki ki na ka e dau bibi duadua vei e dua sa bula vata kei na dementia: me kana ka gunu vakalevu, ka marautaka.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Oqo na itukutuku raraba, sega ni ivakasala vakavuniwai. Veivosaki kei na vuniwai se dua na daunivakasala ni kakana ni bera ni veisautaka na nomu kakana se na nona e dua tale. Raica na neitou [ivakasala ni veika vakavuniwai](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Na cava na kakana Mediterranean kei na MIND?
 
-The National Institute on Aging (NIA) describes them this way
+Na National Institute on Aging (NIA) e vakamacalataka vakaoqo
 ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Na kakana Mediterranean:** levu na vua ni kau, draunikau, sila taucoko, drau,
+  ika kei na kakana mai wai, kei na waiwai ni olive, ka lailai na lewenimanumanu
+  damudamu, yaloka kei na kakana kamikamica.
+- **Na kakana MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  e waki mai na kakana Mediterranean kei na kakana DASH me baleta na kaukauwa ni
+  dra. E vakabibitaka na draunikau, vakabibi na draunikau drokadroka; na beri;
+  sila taucoko; drau; nati; ika vakadua se sivia ena dua na macawa; kei na
+  waiwai ni olive. E vakalailaitaka na lewenimanumanu damudamu, kakana
+  kamikamica, jisi, bata se margarine, kei na kakana vakasasa se kakana totolo.
 
-## Do these diets lower dementia risk?
+## Era vakalailaitaka beka na rerevaki ni dementia na kakana oqo?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Na ivakadinadina e veicurumaki. Na NIA e kaya ni eso, ia sega ni kece, na
+vakadidike ni vakadikevi era semata na kakana Mediterranean kei na MIND kei na
+lailai ni rerevaki ni dementia ni vakatauvatani kei na kakana vaka-Western e
+levu kina na lewenimanumanu damudamu, uro uro kaukauwa kei na suka.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Na Komisini ni Lancet ena 2024 e railesu tale vua na dikevi ena kena matailalai
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- E dua na railesu ni vakadidike ni ilawalawa e semata na kakana vinaka kei na
+  rauta ni 20% na lailai ni rerevaki ni dementia.
+- E dua na vakadikevi levu cake mai na tolu na ilawalawa e semata na muri
+  voleka ni kakana MIND kei na lailai ni rerevaki.
+- Ia e dua na vakadidike mai Suwiteni a muria na 28,025 na tamata ena
+  yabaki ni bula e loma kei na rauta ni 20 na yabaki e sega ni kunea e dua na
+  lailai ni rerevaki ena kakana e vakatutu se na kakana vaka-Mediterranean.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Na vakadidike ni vakadikevi era sega ni rawa ni vakadinadinataka na vu kei na
+kena revurevu. Na tamata era kana vakaoqo e dau duidui tale ena so na ka, me
+vaka na ilavo, vuli, vakaukauayago kei na rawaka ni veiqaravi ni bula. Na
+Komisini e tinia ni sega na ivakadinadina e veirauti me kaya ni na kakana
+bula vinaka e tarova vakadodonu na dementia, dina ga ni kana vakalevu na vua
+ni kau kei na draunikau ka vakalailaitaka na kakana sa cakacakataki vakalevu
+e vinaka vei na levu na ituvaki ni bula ka tarai ira na ka rerevaki me vaka
+na bibi ni yago sivia, mate ni suka kei na kaukauwa ni dra. E sega ni
+kurataki na kakana ki na nona lisi ni [14 na ka rerevaki](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Na cava a kunea na vakatovolei ni kakana MIND ena 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
+Na vakatovolei kaukauwa duadua me yacova oqo a tabaki ena New England Journal
+of Medicine ena 2023
 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **O cei:** e 604 na qase mai na yabaki 65 ka sivia mai na vanua o Chicago kei
+  Boston, era sega ni leqa ni vakasama, e tiko e dua na wekadra voleka e
+  dementia, era bibi sivia, ka sega ni vinaka sara na nodra kakana ena itekivu.
+- **Na cava:** ena loma ni tolu na yabaki, e dua na veimama era muria na
+  kakana MIND kei na dua tale era muria na nodra kakana ena veisiga. Na
+  ilawalawa ruarua era kerei me rau kana vakalailai ena rauta ni 250 na
+  kalori ena dua na siga ka ra ciqoma na veivakasalataki wasoma mai vei ira
+  na daunivakasala ni kakana.
+- **Na macala:** na macala ni vakatovolei ni vakasama e vinaka vakalailai ena
+  **ilawalawa ruarua**. Na duidui ena kedrau maliwa e lailai ka **sega ni bibi
+  vakasakiti**. Na saravanua ni mona e vakaraitaka tale ga na veisau vata ga
+  ena ilawalawa ruarua.
+- **Na bibi:** na ilawalawa ruarua eratou vakalailaitaka na bibi ena rauta ni
+  5 na kilokaramu (rauta ni 11 na paudi).
 
-### Why might the trial have found no difference?
+### Na cava e rawa ni sega kina na duidui e kune?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Na dauvakadidike era tukuna eso na vuna. Na ilawalawa ni vakatovolei e rairai
+vinakata tale ga na nona kakana, baleta ni rau vakalailaitaka vata ga na bibi.
+Na vakatovolei vakawasoma e rawa ni vakavinakataka na macala, ni sa tamata
+vakamada na tamata ki na vakatovolei. Na tolu na yabaki e rawa ni lekaleka
+sara. E levu vei ira era vakaitavi era vuli vinaka ka mai Iurope, sa rawa kina
+me sega ni yaga na macala vei ira kece.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Na itinitini dina oqo: na kakana MIND e sega ni liutaka e dua na kakana
+vakalailaitaka na kalori ena loma ni tolu na yabaki. Oqo e sega ni kena ibalebale
+ni tawayaga na kana vinaka. Na kena ibalebale me kakua e dua ni namaka ni dua
+na mataqali kakana e tarova na dementia.
 
-## What about specific foods and supplements?
+## Na cava me baleta na kakana kei na wainimate duatani?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
+Na NIA e kaya ni sega na ivakadinadina ni kana se levea e dua na kakana e
+tarova na Alzheimer se na lutu ni vakasama e yaco ena qase. Na blueberries, na
+draunikau drokadroka kei na turmeric era sa vakadikevi kece, ia sega na
+ivakadinadina. Na NIA e kaya tale ga ni sega na vitamin se wainimate e
+vakadinadinataki ni tarova na Alzheimer, ka sega e vakatututaki me baleta na
+inaki oqori. Na NIA e veivakasalataki ni na iyaya e sega ni vakadinadinataki
+era volitaki me tarova na Alzheimer e rawa ni veivakarerei, vakayagataka wale
+na ilavo, se ruarua, ka rawa ni veitaratara kei na wainimate sa volai, de
+veivosaki kei na vuniwai ni bera ni tovolea e dua
 ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## E rawa vakacava me kana vinaka ka marautaki?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Vei ira e levu na qase, na inaki me kakana e bulabula, e kilai, ka taleitaka,
+sega ni dua na ituvatuva kaukauwa:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Tuvana na kakana wavoki ena kakana o taleitaka** mai na ivakarau
+  Mediterranean: draunikau, vua ni kau, drau, sila taucoko, ika kei na waiwai
+  ni olive.
+- **Maroroya na kakana kamikamica o taleitaka.** Na marau kei na gagadre ni
+  kana e bibi, vakabibi ena gauna ni bula e muri.
+- **Kana vata kei ira eso** ni rawa. Na kana vata e veimaliwai vinaka.
+- **Vakasasa vata.** Na sava ni draunikau se veiwaki ni kuro e dua na
+  itaviqaravi vinaka me caka vata; raica na [itaviqaravi e vale](/activities/household-tasks/). E dua na kakana ni matavuvale o taleitaka e rawa tale ga
+  ni vakayavalata na [nanuma lesu](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Na qase me ra kakua ni vakalailaitaka na kalori se vakalailaitaka na bibi ni
+yago ka sega ni veivosaki kei na vuniwai, ka na lolo e kauta mai eso tale na
+rerevaki. Raica na neitou [ivakasala me baleta na lolo](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## E rawa vakacava mo vukea e dua e bula vata kei na dementia me kana vinaka?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
+Vei ira na tamata era bula vata kei na dementia, na kana ka gunu **vakalevu**
+e dau ka levu duadua me kauwaitaki. Na Alzheimer's Association e tukuna ni
+rawa nira guilecava na tamata me ra kana, nanuma nira sa kana oti, se yavalati
+ena levu ni digidigi, ka na kakana sega ni veirauti e rawa ni vakalevutaka na
+itovo dredre ka vakavuna na lutu ni bibi
 ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
+Na vakasala oqo e lako mai na Alzheimer's Association, na NIA kei na Alzheimer's
 Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
+1. **Solia na kakana lailai e rawarawa ni tauri.** Na tiki lailai e rawarawa ni
+   tauri, me vaka na tiki ni sanuwici, tiki ni toa, tiki ni ika, tiki ni moli se
+   broccoli sa vakasaqa, e vukea na tamata me vakani koya ka sega na ito.
+2. **Vakayagataka na roka e duidui ena teveli.** Na veisau ni rai e rawa ni
+   vakadredretaka na duidui ni kakana mai na peleti. Na peleti se bilo vulavula
+   ena dua na ibe ni teveli e duidui na roka e rawa ni vukea. Levea na peleti
+   kei na isulu ni teveli e vakairoiro.
+3. **Solia e dua se rua na kakana ena dua ga na gauna.** Na peleti sinai e rawa
+   ni yavalati.
+4. **Maroroya na gauna ni kana me vakacegu.** Bokoca na retioyaloyalo, maroroya
+   na teveli me rawarawa, ka solia na gauna levu. Na NIA e vakatura me kakua ni
+   totolo se vakasaurarataki.
+5. **Solia na kakana lalai kei na kakana lailai vakawasoma.** Na NIA e vakatura
+   na kakana lalai ka wasoma, kei na kakana lailai e levu na kalori kevaka e sega
+   ni kana vakalevu na tamata
    ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+6. **Vukea ena gunu.** Solia na bilo lailai ni wai se so tale na gunu ena siga
+   taucoko, vata kei na kakana e levu na wai me vaka na vua ni kau, supe,
+   milkshake kei na smoothie. Kevaka e sega ni vinakata na wai na tamata, na
+   NIA e vakatura me tovolea na wainimoli, wai e tiko na kena itovo, supu, wai ni
+   sucu, se kofi se ti e sega na caffeine.
+7. **Raica na katakata.** E rawa ni sega ni raica na tamata ni katakata sara na
+   kakana se na gunu.
+8. **Veisautaka na iyaya ni kana kei na bilo.** Na bilo titobu ena yasa ni
+   peleti, na sipuni e levu na kena iqaqalo, kei na bilo e tiko na kena isogo e
+   rawa ni vakarawarawataka na kana. Kakua ni leqa ena kena savasava.
+9. **Vakarawarawataka na mama kei na tiloma ni kakana.** Musuka na kakana me
+   tiki lalai se solia na kakana malumu. Kevaka e kosokoso se luluqa na tamata
+   ni kana, tukuna vua na nona vuniwai.
+10. **Levea na vakani vakaukauwa.** Na NIA e tukuna ni na gagadre ni kana e dau
+    lutu vakataki koya ena itaba ni otioti ni Alzheimer.
 
-### Signs to tell the doctor about
+### Na ivakatakilakila mo tukuna vua na vuniwai
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
+Na lutu ni bibi, na bese ni kana, na oca se malumalumu e rawa ni ivakatakilakila
+ni sega ni kana vakalevu e dua. Na Alzheimer's Society e tukuna ni na mosi ni
+bati se ilaqaqa ni bati, na rarawa ni lomana, na dredre ni lako ki valelailai
+kei na veisau ni wainimate era rawa kece ni vakalailaitaka na gagadre ni kana
 ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
+Na ivakatakilakila ni sega ni veirauti na wai e loma ni yago e cavuti na NIA e
+okati kina na gusu mamaca, na matabui, na totolo ni uto kei na raivotu
 ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Veivosaki kei na vuniwai
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Ni bera ni cakava na veisau levu ki na nomu kakana, se na nona e dua tale,
+veivosaki kei na vuniwai se dua na daunivakasala ni kakana, vakabibi kevaka e
+tiko vei iko na mate ni suka, mate ni vivi, leqa ni tiloma se lutu ni bibi
+walega oqo. Vua e dua e bula vata kei na dementia, taroga na levu me saga me
+kania ka gunuva ena dua na siga, kei na kena rawa ni vukea e dua na
+daunivakasala ni kakana se wainimate.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Kerea na veivuke totolo kevaka e dua e luluqa, se yaco vakasauri na veilecayaki,
+na matabui levu se bale vakamalumalumu.

@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "iVakatakilakila ni Sivia ni Nanuma kei na Gauna me Raici Kina na Vuniwai"
+seoTitle: "iVakatakilakila ni Sivia ni Nanuma kei na Gauna me Raici Kina"
+description: "iVakatakilakila ni sivia ni nanuma, na duidui mai na qase taucoko, na vuna e rawa ni wainaki, kei na kena vakarautaki na veiqaravi vuniwai."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Na yali ni nanuma e vakaleqai ira na ka e caka ena veisiga, na dredre ni cakava na ka e dau kilai,
+  na veilecayaki me baleta na gauna se vanua, kei na veisau ena yalo se vakatulewa e rawa ni
+  ivakatakilakila taumada ni sivia ni nanuma (dementia). E vuqa tale na ituvaki, me vaka na leqa ni
+  thyroid, na lailai ni vitamin B12, na revurevu ni wainimate, na rarawa ni yalo, kei na leqa ni moce,
+  e rawa ni vakavuna na veisau vaka oya. Na vuniwai kilai duadua ga e rawa ni vakadeitaka. Na veilecayaki
+  e yaco vakasauri e gadrevi kina na veivuke totolo.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Na guiguilecavi vakawasoma e dau yaco ena gauna ni qase; na veisau e vakaleqai ira na ka e caka ena veisiga e vinaka me dikevi."
+  - "Na Alzheimer's Association e vakamacalataka e 10 na ivakatakilakila ni qaqarauni, ka vakaraitaka na ka e dau yaco ena qase taucoko me veidutaitaki."
+  - "Na leqa ni thyroid, na lailai ni vitamin B12, na revurevu ni wainimate, na rarawa ni yalo, na mate ni manumanu, kei na leqa ni moce e rawa ni tarova na nanuma, ka so e rawa ni wainaki."
+  - "Na vuniwai kilai duadua ga e rawa ni vakadeitaka na sivia ni nanuma (dementia); na veitarogi ena initaneti se na veidikevi vakataki koya e sega ni rawa."
+  - "Na veilecayaki e yaco vakasauri, ena vica na aua se siga, e rawa ni delirium ka gadrevi kina na veivuke vakavuniwai totolo."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Na guiguilecavi e tiki ga ni qase taucoko?"
+    a: "Eso e tiko. Na National Institute on Aging e kaya ni na biuta vakawasoma e dua na ka se guilecava e dua na bili e dau ivakatakilakila lailai ni guiguilecavi ena qase. Na sivia ni nanuma (dementia) e sega ni tiki ni qase taucoko. Na leqa ni nanuma e vakadredretaka na ka ena veisiga me vaka na draiva, na vakayagataki ni talevoni se na kunea ni sala lesu ki vale e vinaka me raici vata kei na vuniwai."
+  - q: "E rawa beka ni vakavuna na leqa ni nanuma e dua na ka tale eso ka sega ni dementia?"
+    a: "Io. Na National Institute on Aging e cavuta na leqa ni thyroid, yate, se yago, na revurevu ni wainimate, na rarawa ni yalo kei na lomaocaoca, na lailai ni vitamin B12, na vakayagataki vakasivia ni alakaolo, na leqa ni moce, na mate ni manumanu, kei na mavoa ni ulu, kei na so tale. Eso vei ira oqo e rawa ni vinaka cake ni sa wainaki, ka dua na vuna e bibi kina na dikevi vakavuniwai."
+  - q: "E rawa beka meu dikeva e dua e tiko vua na dementia e vale?"
+    a: "Sega. Na vuniwai kilai duadua ga e rawa ni vakadeitaka na sivia ni nanuma (dementia), ena nona vakayagataka na itukutuku ni bula, na dikevi ni yago, na veitarogi ni nanuma kei na vakasama, na veidikevi ni dra, kei na so na gauna na sikeni ni mona. Na veitarogi lekaleka mada ga era vakayagataka na vuniwai e sega ni rauta me vakadeitaki kina na dementia."
+  - q: "Na cava meu cakava kevaka e veilecayaki vakasauri e dua?"
+    a: "Kerea na veivuke vakavuniwai vakatotolo. Na veilecayaki vakasauri e rawa ni delirium, ka na VA e vakamacalataka ni leqa vakavuniwai e gadrevi kina na totolo. Qiria vakasauri na nona dauveiqaravi ni bula se qiria na naba ni leqa tubukoso ena nomu vanua, tiko vata kei koya, ka volai ira na wainimate e gunuva."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Na raica ni veisau ena nomu nanuma, se ena nona nanuma e dua o lomana, e rawa ni vakararawataki. Na tabana oqo e rawa ni vukei iko mo vakatulewa na gauna mo tuvanaka kina e dua na veiqaravi vuniwai kei na nomu vakarautaki kina. E sega ni rawa ni tukuna se dua e tiko vua na sivia ni nanuma (dementia). **Na vuniwai kilai duadua ga e rawa ni vakadeitaka na sivia ni nanuma (dementia)**, ka vuqa na ituvaki e vakavuna na leqa ni nanuma e sega ni dementia. Kerekere mo kua ni vakararavi ki na veitarogi ena initaneti se na veidikevi vakataki iko.
 
-## What are the early signs of dementia?
+## Na cava na ivakatakilakila taumada ni sivia ni nanuma (dementia)?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+Na [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) e vakamacalataka e 10 na ivakatakilakila taumada. E vakaraitaka yadua vata kei na ka e dau yaco ena qase taucoko me veidutaitaki. Ena noda vosa:
 
-| Sign worth checking | More typical with age |
+| iVakatakilakila e vinaka me dikevi | E dau yaco vakalevu ena qase taucoko |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Na yali ni nanuma e vakaleqai ira na ka ena veisiga, me vaka na guilecava na ka e yaco wale ga oqo se taroga tiko ga na ka vata | Na guilecava vakawasoma e dua na yaca se dua na veituvatuva, qai nanuma tale ena dua na gauna |
+| Na dredre ni tuvanaka se walia na leqa, me vaka na muria e dua na ivakarau ni kana e dau kilai se maroroya na bili | E dua na cala vakawasoma ena bili ni vale |
+| Na dredre ni tinia na ka e dau kilai e vale, ena cakacaka se ena vanua e tu kina | Ena so na gauna e gadrevi kina na veivuke ena microwave se volai e dua na parokaramu ni retioyaloyalo |
+| Na yali ni kila ni siga, vula ni yabaki se na vanua o tiko kina | Na cala vakalekaleka ena siga ni macawa, qai kunea tale |
+| Na leqa vou ena vakatulewa ni yawa, na wilika se na duiduitaka na roka | Na veisau ni rai ena vuku ni cataract |
+| Na leqa vou ena vosa, me vaka na tu vakadua ena loma ni veivosaki se kaciva na ka ena yaca cala | Ena so na gauna e dredre kina na kunea ni vosa donu |
+| Na biuta na ka ena vanua e sega ni dau yaco, ka sega ni rawa ni nanuma lesu na sala | Na biuta vakawasoma na ka ena so na gauna ka kunea tale ena nomu nanuma lesu na sala |
+| Na vakatulewa e sega ni vinaka, me vaka ena ilavo se na qaravi koya vakataki koya | Na cakava vakawasoma e dua na vakatulewa e sega ni vinaka |
+| Na vagolei tani mai na ka e dau taleitaka, na cakacaka se na itaviqaravi vakaveiwasei | Ena so na gauna e sega ni via lako ki na dua na soqo ni matavuvale se vakaveiwasei |
+| Na veisau ena yalo se itovo, me vaka na veilecayaki, nanumi vakatani, rere se lomaocaoca | Na dau tiko ga ena dua na ivakarau ni bula ka cudru vakalekaleka ni sa veisautaki na ivakarau |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+E dua ga na ivakatakilakila e sega ni kena ibalebale ni dementia. Na bibi sai koya na **veisau mai na ka e dau taucoko vua na tamata oya**, vakabibi kevaka e vakadredretaka na bula ena veisiga.
 
-## How is normal aging different from dementia?
+## Na cava na duidui ni qase taucoko mai na sivia ni nanuma (dementia)?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+Na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) e kaya ni vuqa na qase era raica ni ra nanuma vakaberaberataki, se ra biuta vakawasoma na ka se guilecava e dua na bili. Oqo e dau ivakatakilakila ni guiguilecavi lailai. **Na sivia ni nanuma (dementia) e sega ni tiki ni qase taucoko.** Na leqa bibi ni nanuma e vakadredretaka na itaviqaravi ena veisiga, me vaka na draiva, na vakayagataki ni talevoni se na kunea ni sala lesu ki vale.
 
-The NIA suggests talking with a doctor if someone:
+Na NIA e vakatura me veivosaki kei na vuniwai kevaka e dua:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- E taroga tiko ga na taro vata
+- E yali ena vanua e dau kilai vinaka tu
+- E dredre vua me muria na ivakarau ni kana se na idusidusi
+- E veilecayaki vakalevu cake me baleta na gauna, na tamata kei na vanua
+- E cegu mai na nona qaravi koya vakataki koya, me vaka na kana ca, sega ni sili se itovo e sega ni taqomaki
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Eso na tamata e tiko vei ira na **mild cognitive impairment (MCI)**. Na kena ibalebale e levu cake na leqa ni nanuma se vakasama mai vei ira na kena itaba ena yabaki vata, ia era se rawa ni qarava nodra bula ena veisiga. Na NIA e kaya ni na MCI e rawa ni ivakatakilakila taumada ni Alzheimer's, ia e sega ni o ira kece e tiko vei ira na MCI era na tauvi koya.
 
-## What else can cause memory problems?
+## Na cava tale e rawa ni vakavuna na leqa ni nanuma?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+E vuqa na ka tale eso, ka sega ni dementia, e rawa ni tarova na nanuma, ka so e vinaka cake ni sa wainaki. Na NIA e cavuta:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Leqa ni thyroid, yate se yago**
+- **Revurevu ni wainimate**
+- **Rarawa ni yalo kei na lomaocaoca**
+- **Lailai ni vitamin B12** se sega ni kania na kakana bulabula e rauta
+- **Leqa ni moce**
+- **Vakayagataki vakasivia ni alakaolo se wainimate gaga**
+- **Mate ni manumanu, na dra e sogo se na ibulubulu** ena mona
+- **Mavoa ni ulu**, me vaka na concussion
+- **Oca se rarawa levu**, me vaka na vakacegu mai na cakacaka se na yali ni watina
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Na leqa ni rogoci kei na rai e rawa tale ga ni nanumi me veilecayaki; raica na noda [idusidusi me baleta na rogoci](/brain-health/hearing/). Oqo na vuna e bibi kina na dikevi vakavuniwai. Me vaka e kaya na [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), na vuniwai e dau kerea na veidikevi ni dra me raica na leqa ni thyroid, na lailai ni vitamin kei na mate ni manumanu. Na [moce vinaka](/brain-health/sleep/) kei na wainaki ni rarawa ni yalo e vinaka tale ga me cavuti.
 
-## Sudden confusion is an emergency
+## Na veilecayaki vakasauri e leqa tubukoso
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Na veilecayaki e yaco vakatotolo, ena vica na aua se siga, e gadrevi kina na veivuke vakavuniwai totolo.** E rawa ni delirium. Na [VA e vakamacalataka na delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) me leqa vakavuniwai e gadrevi kina na totolo, ka vakatura me qiri vakasauri na nona dauveiqaravi ni bula se na naba ni leqa tubukoso ena nomu vanua. Na ivakatakilakila e oka kina:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Na veisau veisiga ena rawa ni vakasama matata
+- Na dredre ni vagumatua
+- Na vakasama e sega ni tuvatuva vinaka
+- Na moce vakasivia, se na yavalati kei na leqa vakasivia
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Oqo e rawa ni yaco vei dua tale ga, oka kina o ira era sa bula vata tu kei na sivia ni nanuma (dementia). Me vaka e kaya na [NHS](https://www.nhs.uk/symptoms/confusion/), na vuna e dau yaco e oka kina na mate ni manumanu (na mate ni manumanu ena sala ni mavoa e dau yaco vei ira na qase kei ira era tiko vei ira na dementia), na stroke, na lailai ni suka ni dra vei ira e tiko vei ira na mate ni suka, na mavoa ni ulu, kei na so na wainimate. Ni o waraka na veivuke, tiko vata kei koya ka vakacegui koya ena vosa lekaleka ka rawarawa. Kua ni taroga e vuqa na taro, ka volai ira na wainimate e gunuva.
 
-## How do I prepare for the doctor's appointment?
+## Na cava meu vakarautaka ena veiqaravi vuniwai?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+E dua na veiqaravi vinaka e tekivu ena ivolatukutuku vinaka. Na [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) e vakatura mo kauta mai:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **E dua na lisi ni veisau** ena nanuma, yalo kei na itovo, vata kei na ivakaraitaki matata kei na gauna rauta e tekivu kina
+2. **Na leqa ni bula e liu kei na gauna oqo**, oka kina na itukutuku ni matavuvale me baleta na leqa ni nanuma
+3. **Na wainimate kece e volai kei na wainimate e voli vakataki koya**
+4. **Na vitamin se ivakayakavi ni bula**
+5. **Na nomu taro**, me vaka na veidikevi cava ena caka, na kena balavu kei na gauna ena yaco mai kina na macala
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+E veivuke tale ga mo kauta mai e dua na lewe ni matavuvale se itokani e kilai koya vinaka. Na [NIA e vakamacalataka](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ni na vuniwai e rawa ni tarogi koya na tamata kei na dua na lewe ni matavuvale me baleta na bula, na wainimate, na itaviqaravi ena veisiga kei na veisau ena itovo. Na vuniwai e rawa tale ga ni:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Cakava na veitarogi ni nanuma, wali ni leqa, vagumatua, wiliwili kei na vosa
+- Kerea na veidikevi ni dra, mavoa kei na so tale me raica na vuna tale eso
+- Dikeva na rarawa ni yalo se na leqa tale eso ni bula ni vakasama
+- Kerea na sikeni ni mona me vaka na CT se MRI
+- Vakauta vei dua na kenadau, me vaka na vuniwai ni qase (geriatrician), neurologist, geriatric psychiatrist se neuropsychologist
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Na NIA e kaya ni na dikevi ni vakasama (cognitive assessment) e tiki gadrevi ni Medicare Annual Wellness Visit, ka rawa ni dua na gauna vinaka me cavuti kina na nomu kauwai. Na veitarogi lekaleka mada ga era vakayagataka na vuniwai e sega ni rauta me vakadeitaki kina na dementia. Oqo e ikalawa taumada ki na dikevi taucoko cake, ka na vakadeitaki e rawa ni gadrevi kina e sivia na dua na sikovi. Na NIA e vakatura vei ira e tiko vei ira na leqa ni nanuma me ra lesu vei na vuniwai ena veiya 6 ki na 12 na vula.
 
-## Raising the subject kindly
+## Na cavuta na ulutaga ena yalomalua
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Kevaka o kauwaitaka e dua tale, digitaka e dua na gauna malua ka vuni. Vosa me baleta na ka matata o sa raica, ena ivakarau ni kauwai ki na nona bula ka sega ni veivakacacani. Na vakatura e dua na dikevi raraba ni bula e rawa ni lailai sobu na rere. Vakacurumi koya na tamata ena vakatulewa ka vosa vua me vaka e qase. Na noda [idusidusi ni veivosaki](/caregiving/communication-tips/) e rawa ni veivuke.
 
-## Talk with a doctor
+## Veivosaki kei na vuniwai
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Kevaka o raica na veisau ena nanuma, vakasama, yalo se rawa ni cakava na ka ena veisiga ka vou qai toso tikoga, tuvanaka e dua na veiqaravi kei na vuniwai levu. Me baleta na veilecayaki vakasauri, qiria na naba ni leqa tubukoso ena nomu vanua se na nona dauveiqaravi ni bula vakatotolo. Na dikevi totolo e rawa ni kunei kina na vuna e rawa ni wainaki, ka kevaka e dementia, e levu cake na gauna me tuvanaki kina ka kunei na veitokoni. Qaravi iko tale ga ena gauna oqo; raica na noda [idusidusi ni qaravi koya na dauqaravi](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Na tabana oqo e itukutuku raraba ga, sega ni ivakasala vakavuniwai. Raica na noda [ivakadinadina ni veika vakavuniwai](/medical-disclaimer/).

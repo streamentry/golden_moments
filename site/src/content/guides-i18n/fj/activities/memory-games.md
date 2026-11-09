@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Qito ni Nanuma me Baleti Ira na Qase: iVakarau Malumu"
+seoTitle: "Qito ni Nanuma me Baleti na Dementia, iVakarau Malumu"
+description: "Qito ni veivakatautauvatataki, iyaloyalo kei na kadi me baleti ira na qase era bula vata kei na dementia, kei na sala ni qitotaka me sega ni vakatovolei e dua."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Na qito ni nanuma me baleti ira na qase era bula vata kei na dementia e vinaka
+  duadua ni sega ni vakararavi ki na nanuma. Qitotaka na qito ni veivakatautauvatataki
+  ni ra tu cake na iyaloyalo, vakayagataka e va ki na ono na tila, qito vakaveiwasei,
+  ka levea na ivakarau ni wiliwili. E rawarawa cake na kilai ni dua na iyaloyalo mai na
+  nanumi lesu, o koya mo digia na qito e tu tu ga e matamu na ka kece. Na marau, sega
+  ni dua na macala, na inaki.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Na qito ni nanuma e dau vunitaka na kadi, ka vakatovolea sara ga na ka e dredre ena dementia. Biuta me ra tu cake na iyaloyalo."
+  - "Na tiki ni qito lailai, na iyaloyalo lelevu, kei na dua ga na digidigi ena veigauna e marautaki kina na qito."
+  - "Qito vakaveiwasei, veisautaka na veivuke, ka levea na ivakarau ni wiliwili. Me kua ni vakauqeti e dua me sauma vakadodonu."
+  - "E sega ni dua na qito ni nanuma e laurai ni qarava, vakaberaberataka se tarova na dementia. Qitotaka baleta ni gauna vinaka ni veitikivi."
+  - "Tarova ni se marau tiko. Na veitalanoa me baleta na iyaloyalo e dua na macala vinaka."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Na cava e dua na qito ni nanuma vinaka me baleta e dua e bula vata kei na dementia?"
+    a: "E dua na qito ni veivakatautauvatataki ka lelevu na kena iyaloyalo kilai, ka rawa ni tu cake tu ga, me vaka na Picture pairs ni tuvanaki ki na va se ono na tila. Na kunei ni kena ivakaraitaki e rua ni dua na iyaloyalo o raica e vakamarautaki ka sega ni vakatovolea na nanuma lekaleka. Na Find the same e rawarawa cake, e dua ga na iyaloyalo me veivakatautauvatataki mai na rua ki na va na digidigi."
+  - q: "Era vukea beka na dementia na qito ni nanuma?"
+    a: "E sega ni dua na qito ni nanuma e laurai ni qarava, vakaberaberataka se tarova na dementia; e dua na railesu ni Cochrane e kunea ni lailai sara na ivakadinadina me baleta na vakatovotovo ni vakasama ena kompiuta me tukuna rawa se tarova na dementia. Ia, na qito e rawa ni sala vinaka ni veitikivi. Digia baleta na marau kei na veimaliwai."
+  - q: "Me’u qitotaka beka na Concentration e kilai levu vata kei e dua e tauvi dementia?"
+    a: "Ena itekitekivu, eso era se marautaka, vakauasivi ni lailai na iwiliwili ni kadi. Kevaka e tekivu me veivakaleqai na nanumi ni vanua era tu kina na kadi, vukica mera tu cake na kadi ka kunea vata na veiwatini. Oqo e maroroya na veivakatautauvatataki ka kauta laivi na vakatovolei ni nanuma."
+  - q: "Na qito ni nanuma cava e vinaka me baleti ira na qase ena dua na ilawalawa?"
+    a: "Na Picture bingo kei na dua e kaciva na iyaloyalo ena sikirini, na tinia vata ni vosa kilai, kei na kadi ni veitalanoa era yaga kece ena ilawalawa. Qito me yacova ni sinai na kadi kece, ka kua ni kacivaka o cei e sauma, me kua ni vakila e dua ni vakatabakidua."
+  - q: "Era tu beka na qito ni nanuma walega me baleti ira na qase ena initaneti?"
+    a: "Io. Na qito ena mataveilawa oqo, oka kina na Picture pairs, Find the same, Photo pairs kei na Picture puzzle, era sega ni saumi, era sega ni gadrevi na volai ni yaca, ka ra cakacaka ena talevoni, tebeleti kei na kompiuta. E sega e dua e tiko kina na ivakarau ni gauna se wiliwili."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Ni o vaqara na “qito ni nanuma me baleti ira na qase”, vuqa na ka o kunea e caka me baleti ira era vinakata me vakaukauataki na nodra vakasama: kadi vunitaki, ivakarau ni wilika na gauna, itagede kei na wiliwili. Me baleti e dua e bula vata kei na dementia, na veika oqo era vukica na qito me dua na vakatovolei ni ka sa dredre tiko. Ia, na qito vata oqori e rawa ni qitotaki ena dua na sala malumu cake. Na tabana oqo e vakaraitaka na sala, ka tukuna na qito era vinaka ena veitagede.
 
-## Why do classic memory games frustrate people with dementia?
+## Na cava era dau vakaleqai kina ira era bula vata kei na dementia na qito ni nanuma e kilai levu?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Baleta ni ra vakararavi ki na maroroi ni itukutuku vou ena vakasama, ka oqo e dau imatai ni ka e tarai na Alzheimer’s, na vu ni dementia e kilai levu duadua. Na [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) e kaya ni ivakaraitaki taumada e dau laurai ena Alzheimer’s na dredre ni nanumi na itukutuku vou. Ena Concentration e kilai levu, o vukica e rua na kadi, nanuma na vanua erau tu kina, ka vakayagataka oqori ena dua na miniti mai muri. Oqo na itukutuku vou, e maroroi ka nanumi lesu.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Kevaka o kuria na ivakarau ni gauna, na wiliwili se na rorogo ni cala, e na nanuma kina na tamata na ka e sega ni rawa ni cakava, e matadra e dua e lomana. Vuqa era dau muduka lo na nodra vinakata me qito.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Na kilai ni dua na ka o raica tu e dua na cakacaka duidui ka dau rawarawa cake. Na dusia ni ikarua ni bilo ni ti ni rau tu vata e matamu e ka vinaka. O koya gona, na ka bibi mo maroroya na veivakatautauvatataki ka kauta laivi na vakatovolei ni nanuma.
 
-## How do you make a memory game gentle?
+## Na sala cava mo cakava kina e dua na qito ni nanuma me malumu?
 
-These adjustments work for card games, board games and games on a screen.
+Na veisau oqo era yaga ena qito ni kadi, qito ena teveli kei na qito ena sikirini.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Biuta me ra tu cake na iyaloyalo.** Na veivakatautauvatataki ni iyaloyalo o raica tu e qito dina, ka vakavuqa e vakamarautaki.
+2. **Vakayagataka na tiki ni qito lailai.** Tekivu ena rua se tolu na veiwatini. Kuria walega kevaka e rawarawa sara ka vinakata me levu cake.
+3. **Digia na iyaloyalo lelevu, kilai, ka dodonu me baleti na qase.** E dua na bilo ni ti, na senikau seasea, e dua na waqa. Sega na iyaloyalo ni gone, ka sega na iyaloyalo e osooso.
+4. **Qito vakaveiwasei.** “Me da vaqara na koli” mai na “nomu gauna oqo.” Veisautaka na dusidusi kei na veivuke.
+5. **Levea na ivakarau ni wiliwili.** E sega e gadrevi me qaqa. Kevaka e taroga e dua, e rauti na “eda sa rawata.”
+6. **Kua ni totolo ena gauna.** Sega na ivakarau ni wilika na gauna, ka kua ni vakatotolotaki na veisau ni gauna.
+7. **Veitalanoa me baleta na iyaloyalo.** “Raica na waqa oqori. O a dau soko ena waqa li?” Na veitalanoa e dau ka vinaka duadua.
+8. **Tarova ena dua na gauna vinaka.** Tinia ni oti e dua na veivakatautauvatataki, ni se marau tiko.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e solia na ivakasala vata oqori: veiganiti na itaviqaravi kei na ka e rawa ni cakava na tamata, raica na veivakaleqai, ka vakadeitaka ni vakila e rawaka.
 
-## Gentle memory and matching games to try
+## Na qito ni nanuma kei na veivakatautauvatataki malumu mo tovolea
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (veivakatautauvatataki ni iyaloyalo e laurai)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) e dua na qito ni veivakatautauvatataki ka lelevu na iyaloyalo, e 4 ki na 12 na tila. E rawa ni tu tu ga na iyaloyalo, o koya e baleta na kunei ni veiwatini, sega ni nanumi na vanua erau tu kina. Tekivu ena va na tila. Me baleti e dua ena itekitekivu ni dementia ka taleitaka na bolebole lailai, o rawa ni vukica ki na **Hidden pictures**, ia lesu tale ki na vakaraitaki ni iyaloyalo ni sa sega ni marautaki.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) e vakaraitaka e dua na iyaloyalo e cake kei na rua ki na va na digidigi e ra. Tabaka na kena e tautauvata. Oqo na qito ni veivakatautauvatataki rawarawa duadua ena mataveilawa oqo ka yaga me baleti ira era raica ni osooso e dua na ilawalawa taucoko, oka kina e vuqa ena itagede e muri ni tiko vata kei e dua.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (qito ni nanuma ena iyaloyalo ni matavuvale)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) e vukica na itaba o digitaka me qito ni veivakatautauvatataki: na koli, na iteitei, na vale ena baravi. Na mata kei na vanua kilai era dau vakavuna na veitalanoa vakalevu cake mai na iyaloyalo tawayaga. Na itaba era tiko ga ena nomu barausa ka sega ni vakau cake.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) e kerei iko mo biuta na iyaloyalo yadua ki na kato e dodonu kina, me vaka na valenisili se na iteitei. Na tuvatuva e vakararavi ki na kila e tu dei tu me baleta na sala e cakacaka kina na vuravura, sega ni nanuma lekaleka.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) e musuka e dua na iyaloyalo ki na 4 se 9 na tiki. Tabaka e rua na tiki mo veisautaka me yacova ni taucoko na iyaloyalo. Na iyaloyalo taucoko e tu tu ga ena sikirini me dusimuri.
 
-### Real cards on the table
+### Kadi dina ena teveli
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+E sega ni gadrevi na sikirini. Taura na veiwatini e tautauvata mai na rua na kadi se mai na dua na kadi ni iyaloyalo. Viritaka me ra tu cake ena rua na laini ka kunea vata na veiwatini. Ena gauna e muri, tuvata ena roka se mataqali. Na [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e vakamacalataka na qito ni kadi kei na qito ena teveli me tiki ni itaviqaravi ena itekitekivu ni tagede.
 
-## Which memory games suit each stage?
+## Na qito ni nanuma cava e veiganiti kei na veitagede?
 
-Stages are loose labels. Go by what the person enjoys today.
+Na itagede e ivakatakarakara ga. Muria na ka e marautaka na tamata nikua.
 
-| Stage | Games that often fit | How to set them up |
+| iTagede | Qito e dau veiganiti | Sala ni tuvatuva |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| iTekitekivu | Picture pairs, Photo pairs, Picture puzzle kei na 9 na tiki, qito ni kadi kilai | Laiva me digitaka. E rawa ni vuki na tila kevaka e taleitaka; levea na wiliwili kevaka e vakaleqai koya |
+| iLomalagi | Picture pairs kei na 4 ki na 6 na tila e tu cake, Find the same, Sort together | Na iyaloyalo me ra tu tu ga e matamu. Tiko ena yasana ka veisautaka na veivuke |
+| iMuri | Find the same kei na 2 na digidigi, raica vata e dua na iyaloyalo levu | Lekaleka sara. O taura na tebeleti; e dusia, se sarava ka rogoca ga |
 
-## Do memory games help with dementia?
+## Era vukea beka na dementia na qito ni nanuma?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+E sega ni dua na qito ni nanuma e laurai ni qarava, vakaberaberataka se tarova na dementia. E dua na [railesu ni Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) me baleta na vakatovotovo ni vakasama ena kompiuta me baleti ira era tiko na nodra leqa lailai ni vakasama e kunea ni lailai sara na ivakadinadina me tukuna rawa se tarova na dementia. Na noda idusidusi me baleta na [qito ni vakasama kei na dementia](/brain-health/brain-games/) e vakamacalataka na ka era vakaraitaka na vakadidike kei na ka era sega ni vakaraitaka.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Oqo e sega ni vuna mo levea na qito. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e vakatura me vakaliuci na marau, sega ni rawaka. Na tini na miniti ni veivakatautauvatataki ni iyaloyalo kei na veitalanoa me baleti ira e rawa ni tiki vinaka ni siga.
 
-## What about memory games for seniors without dementia?
+## Na cava me baleta na qito ni nanuma me baleti ira na qase era sega ni tauvi dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Kevaka e dua na qase e sega na leqa ni nanuma e marautaka na qito vakaibalebale ni gauna, na wiliwili kei na itagede dredre, e sega na ka ca ena kena oqori. Ia, kua ni nuitaka ni na taqomaki iko mai na dementia; e sega ni dua na qito e laurai ni cakava oqori. Na iVakarau malumu e cake era yaga talega ni qito vata na itabatamata duidui: e dua na tubu e bula vata kei na dementia kei na luvena ni luvena lailai erau rawa ni veivakatautauvatataki iyaloyalo vakaveiwasei, ka sega ni vakatovolei e dua.
 
-## When should you stop or change the game?
+## Ena gauna cava mo tarova se veisautaka kina na qito?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Na iceguvaki, na bilitaki tani ni tebeleti, na kaya “au sega ni rawa ni cakava oqo” se na rairai lomaocaoca, era ivakaraitaki kece mo vakamalumalumutaka se tarova. Tovolea na tila lailai, vukica na iyaloyalo mera tu cake, tovolea na [Find the same](/games/find-the-same/), se raica walega na iyaloyalo ka veitalanoa. Kevaka era sega ni vinakata me ra qito, e vinaka talega oqori. Na noda idusidusi me baleta na [qito vata](/caregiving/how-to-play-together/) e tiko kina eso tale na ivakasala me baleta na totolo kei na veivuke.
