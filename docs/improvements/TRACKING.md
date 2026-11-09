@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 39 / 100 completed**
+**Progress: 40 / 100 completed**
 
 ---
 
@@ -57,4 +57,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 |---|---|---|
 | 39 | Loop run 2026-11-08 (research pass) and follow-up 2026-11-09 | Research pass: no code change, candidates and two decisions in [loop-2026-11-08.md](loop-2026-11-08.md). Follow-up: accessibility statement now lists the header text-size and contrast controls and the 6.3 to 1 default gold contrast (English only). See the follow-up section there |
 | 40 | 2026-11-09 | (see branch `docs/improvements-round-40-leading`) | Reading-text line height 1.4 to 1.5 (WCAG 1.4.12; NIA checklist via secondary source) | Body styles to 1.5 in `DESIGN.md` and `lib/design_system.dart`, with a red test first. Five 200% layout tests failed on three screens; fixed with a smaller puzzle board (36% of body height), body-md feedback notes on Photo Together and the photo collection recovery. Full suite 686 passing. Not verified on devices or in VoiceOver. Details: [loop-2026-11-09.md](loop-2026-11-09.md) | App (`DESIGN.md`, `lib/design_system.dart`, three presentation files) | Done |
-| 41–100 | Planned one by one | Pending |
+| 41 | 2026-11-09 | d047dde5 | Translated claims must keep their negation (FTC Lumosity settlement, 2016); meta descriptions fitted to 170 | A Nauruan About paragraph said the games diagnose and treat dementia; the sentence now uses the English negation. `BaseLayout` fits meta descriptions to 170 (1,068 were too long), and two Yi descriptions use English. check-site 0 errors (was 1,071). Details: [loop-2026-11-09-claims.md](loop-2026-11-09-claims.md) | Site (`BaseLayout.astro`, `src/lib/meta-description.ts`, `ui/na.json`, `games/ii.json`, `ui/ii.json`) | Done |
+| 42–100 | Planned one by one | Pending |
