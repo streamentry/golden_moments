@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Gnìomhan aig ìre mheadhanach trom-inntinn"
+seoTitle: "Gnìomhan do throm-inntinn mheadhanach"
+description: "Gnìomhan sìmplidh do throm-inntinn mheadhanach: obraichean feumail, ceòl, dealbhan is geamannan furasta, le ceumannan soilleir agus dòighean gus fois-inntinn a thoirt seachad."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Aig ìre mheadhanach trom-inntinn, is fheàrr na gnìomhan a tha goirid,
+  eòlach agus air an roinn ann an ceumannan singilte: pasgadh aodach,
+  seòrsachadh stocainnean, nighe shoithichean, seinn, cuairtean-coise le
+  taic, clàran dhealbhan agus geamannan sìmplidh le dealbhan. Ullaich
+  rudan ro làimh, seall a’ chiad cheum, gabh thairis na pàirtean as dorra,
+  agus thoir adhbhar don ghnìomh. Sguir nuair nach eil e tlachdmhor tuilleadh.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Gu tric bidh obraichean taighe eòlach ag obair nas fheàrr oir tha iad a’ faireachdainn feumail agus inbheach."
+  - "Seall seach innse, tairg aon cheum aig an àm, agus thoir dà roghainn shìmplidh seach ceistean fosgailte."
+  - "Gabh thairis am pàirt as dorra gus am faod an neach air a bheil thu a’ toirt cùram am pàirt thaitneach a dhèanamh."
+  - "Gu tric tha giùlan mì-fhoisneach a’ ciallachadh gu bheil feum aig an neach air rudeigin a dhèanamh. Tairg gnìomh a fhreagras seach a bhith ag ràdh “na dèan”."
+  - "Tha e ceart gu leòr coimhead, beagan cuideachaidh a thoirt seachad, no sguir tràth."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Dè na gnìomhan a tha math airson trom-inntinn mheadhanach?"
+    a: "Mar as trice bidh gnìomhan goirid, eòlach agus làimhseachail ag obair nas fheàrr: pasgadh tubhailtichean, paidhir stocainnean a chur ri chèile, nighe shoithichean, a’ chur a’ bhùird, seinn còmhla ri seann òrain, cuairtean-coise le taic, coimhead air clàran dhealbhan agus geamannan sìmplidh le dealbhan. Roinn gach fear ann an ceumannan singilte agus dèan e còmhla."
+  - q: "Ciamar a bheir mi air cuideigin le trom-inntinn tòiseachadh air gnìomh?"
+    a: "Biodh a h-uile càil deiseil, an uairsin tòisich air a’ ghnìomh fhèin agus thoir cuireadh dhan neach cuideachadh: “Am b’ urrainn dhut làmh a thoirt dhomh leis na tubhailtichean seo?” Tha mòran dhaoine airson pàirt a ghabhail ach tha e doirbh dhaibh tòiseachadh. Mar as trice bidh e nas fheàrr a’ chiad cheum a shealltainn seach a mhìneachadh."
+  - q: "Dè nì mi nuair a chumas iad a’ dèanamh an aon rud a-rithist is a-rithist?"
+    a: "Gu tric chan eil ath-aithris cronail agus dh’fhaodadh e a bhith na chomharra gu bheil an neach airson a bhith trang no gu bheil feum aca air fois-inntinn. An àite ceartachadh, tairg gnìomh a fhreagras ris a’ ghluasad, leithid basgaid de chlòthan-nighe airson am pasgadh no òran airson a sheinn còmhla."
+  - q: "Dè ma nì iad an gnìomh ceàrr?"
+    a: "Ma tha e gun chron, leig leis. Chan eil e cudromach ma thèid tubhailtichean a phasgadh ann an dòigh eadar-dhealaichte no ma thèid spàinean anns an àite cheàrr. Dh’fhaodadh ceartachadh faireachdainn mar chàineadh, agus le bhith ga dhèanamh san dòigh aca fhèin faodaidh iad faireachdainn comasach agus feumail."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Gu tric is e ìre mheadhanach trom-inntinn an ìre as fhaide, agus is ann an uairsin a thòisicheas gnìomhan a’ feumachdainn taic fhìor. Bidh faclan nas duilghe a lorg, bidh ceumannan air am measgachadh, agus faodaidh e a bhith doirbh tòiseachadh air rud sam bith. Ach mar as trice bidh am miann a bhith feumail agus an sàs ann fhathast. Le beagan ullachaidh, faodaidh neach aig ìre mheadhanach tlachd fhaighinn fhathast à mòran rudan, gu h-àraidh obraichean eòlach, ceòl agus dealbhan air an dèanamh taobh ri taobh còmhla ribh.
 
-## What activities work well in middle-stage dementia?
+## Dè na gnìomhan a tha ag obair gu math aig ìre mheadhanach trom-inntinn?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Is fheàrr gnìomhan goirid, eòlach agus làimhseachail air an roinn ann an ceumannan singilte. Tha an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ag ràdh nach fheum sibh rudan ùra a chruthachadh: faodaidh gnìomhan a bhith nam pàirt den bheatha làitheil, leithid dinnear a dhèanamh còmhla, gàirnealaireachd, èisteachd ri ceòl no cuairt-choise a ghabhail.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+Tha an [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a’ toirt fa-near gu bheil feum làidir aig mòran dhaoine aig an ìre seo a bhith a’ faireachdainn feumail no a bhith a’ toirt cùram do rudeigin, agus gu bheil taic a dhìth orra gus gnìomhan a thòiseachadh no a leantainn. Am measg nam molaidhean aca airson na h-ìre meadhanach tha pasgadh aodach, nighe shoithichean, seòrsachadh stocainnean, eacarsaich furasta, dannsa ri ceòl eòlach, cuairtean-coise le taic, seinn còmhla, peantadh sìmplidh agus coimhead tro chlàran dhealbhan.
 
-## How do you set up an activity so it works?
+## Ciamar a dh’ullaicheas sibh gnìomh gus an obraich e?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Bidh a’ mhòr-chuid de ghnìomhan soirbheachail no gun soirbheachadh san ullachadh. Tha na cleachdaidhean seo, stèidhichte air an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) agus an [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), a’ dèanamh an diofar as motha:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Falamhaich an t-àite.** Cuir dheth an telebhisean, dùin an doras agus cuir a-mach dìreach na tha a dhìth airson a’ ghnìomh.
+2. **Tòisichibh fhèin air.** Tòisichibh a’ pasgadh no a’ gluasad agus thoiribh cuireadh dhan neach a thighinn a-steach: “An toir thu làmh dhomh le seo?”
+3. **Seallaibh, an uairsin feithibh.** Seallaibh aon cheum. Comharraichibh no stiùirichibh le ur làmh, mar eisimpleir a’ sealltainn far an tèid an truinnsear.
+4. **Thoiribh aon cheum aig an àm.** Tha “Pasg e na leth” nas fhasa na “Pasg iad seo agus cuir air dòigh iad a rèir dath.”
+5. **Tairgibh dà roghainn, chan e ceistean fosgailte.** Tha “Na tubhailtichean gorma no na feadhainn gheala?” nas fhasa a fhreagairt na “Dè a tha thu airson a dhèanamh?”
+6. **Dèanaibh fhèin am pàirt as dorra.** Tomhaisidh sibhse, gluaisidh iadsan. Cuiridh sibhse an snàthainn tron t-snàthad, lùbhaidh iadsan an t-snàth.
+7. **Thoiribh adhbhar dha.** Tha “Tha na neapaicilean seo airson dinnear na Sàbaid” a’ toirt faireachdainn dha-rìribh don obair.
+8. **Leigibh leotha coimhead ma thogras iad sin.** Tha an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a’ toirt fa-near gum faod e a bhith tlachdmhor dìreach coimhead cuideachd.
 
-## Activity ideas for the middle stage
+## Beachdan airson gnìomhan aig an ìre mheadhanach
 
-### Useful jobs
+### Obraichean feumail
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Pasg tubhailtichean agus clòthan-nighe.** Is fhasa rudan beaga, còmhnard. Faodar basgaid de chlòthan-nighe blàth a phasgadh, a rèiteach agus a phasgadh a-rithist.
+- **Cuir paidhrichean stocainnean ri chèile.** Tòisichibh le beagan phaidhir a tha gu math eadar-dhealaichte. Tha e ceart gu leòr an seòrsachadh a rèir dath a-mhàin cuideachd.
+- **Nigh no tiormaich soithichean nach bris.** Tha uisge blàth, siabannach tlachdmhor air na làmhan. Tha tiormachadh fhad ’s a tha sibh nan suidhe nas fhasa air na casan.
+- **Cuir am bòrd.** Thoiribh seachad aon sheòrsa rud aig an àm, agus cuiribh aon àite fhèin mar eisimpleir.
+- **Cuidichibh le dinnear.** A’ nighe bhuntàta, a’ reubadh leitise no a’ gluasad bobhla. Làimhsichidh sibhse sgeinean agus teas.
+- **Sguabaibh, dustaibh no glanaibh.** Clò airson a’ bhùird, sguab aotrom airson a’ phoirdse.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Faic [obraichean taighe](/activities/household-tasks/) airson mòran bharrachd bheachdan.
 
-### Music and movement
+### Ceòl agus gluasad
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Seinnibh seann òrain.** Tòisichibh a’ seinn fhèin; bidh mòran dhaoine a’ tighinn a-steach air òrain air a bheil iad eòlach bho chionn deicheadan. Faic [gnìomhan ciùil](/activities/music/).
+- **Danns gu saor.** Luaineadh, bualadh basan no gluasad mar a tha a’ faireachdainn ceart. Tha e ceart gu leòr suidhe.
+- **Tilg balùn.** Bidh e a’ gluasad gu slaodach agus tha e furasta a ghlacadh bho chathair.
+- **Gabhibh cuairt-choise le taic.** Coisichibh lùb ghoirid, eòlach còmhla, gàirdean ri gàirdean ma tha sin a’ cuideachadh.
 
-### Pictures and stories
+### Dealbhan agus sgeulachdan
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Coimhead tro chlàr dhealbhan.** Thoiribh beachd air na chì sibh seach ceistean fhaighneachd: “Seall air a’ chàr sin. Innis dhomh mu dheidhinn.” Faic [gnìomhan cuimhneachaidh](/activities/reminiscence/).
+- **Cleachd cairtean còmhraidh.** Bidh [cairtean còmhraidh](/games/conversation-cards/) a’ cur dealbh ri ceist fhosgailte gun cheist-deuchainn.
+- **Coimhead còmhla air seann fhilm.** Taghaibh fear eòlach, fuirichibh faisg air làimh agus cuiribh stad air airson fois.
 
-### Simple, pressure-free games
+### Geamannan sìmplidh gun chuideam
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Paidhrichean dhealbhan le dealbhan rim faicinn.** Leigidh [paidhrichean dhealbhan](/games/picture-pairs/) le dealbhan fuireach ri fhaicinn, agus mar sin tha e mu bhith a’ toirt an aire, chan e mu chuimhneachadh.
+- **Lorg an aon rud.** Bidh [lorg an aon rud](/games/find-the-same/) a’ sealltainn aon dealbh agus dìreach dhà gu ceithir roghainnean.
+- **Seòrsaich còmhla.** Tha [seòrsaich còmhla](/games/sort-together/) coltach ri seòrsachadh an aodaich air an sgrion: tap air dealbh, an uairsin air a bhasgaid.
+- **Bingo dhealbhan.** Bidh [bingo dhealbhan](/games/picture-bingo/) ag obair gu math airson cruinneachaidhean teaghlaich agus buidhnean.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ma thòisicheas geama ag adhbhrachadh frustrachas, sguiribh agus dèanaibh rudeigin eile. Faic [mar a chluicheas sibh còmhla](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## A’ tionndadh fois-inntinn gu gnìomh
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Gu tric tha adhbhar air cùl giùlain mì-fhoisnich no ath-aithriseach. Tha an Family Caregiver Alliance a’ toirt fa-near gum faodadh neach a chumas a’ falamhachadh clòsaid a bhith a’ feuchainn ri feum a choileanadh airson a bhith trang agus feumail. Tha an Alzheimer's Association a’ moladh an lùth sin a stiùireadh gu gnìomh a fhreagras, seach a stad.
 
-| What you see | Something to offer |
+| Na chì sibh | Rud a dh’fhaodar a thairgsinn |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| A’ suathadh no a’ togail aig bòrd | Clò tais agus iarrtas am bòrd a ghlanadh |
+| Casan mì-fhoisneach no tapadh | Ceòl le buille shoilleir airson tapadh no bualadh basan |
+| A’ falmhachadh dhreasairean no chlòsaidean | Basgaid aodaich no chlòthan-nighe airson pasgadh agus seòrsachadh |
+| A’ faighneachd na h-aon cheist a-rithist | Fois-inntinn, an uairsin òran no obair bheag ri roinn |
+| A’ coiseachd air ais is air adhart | Cuairt-choise còmhla, no obair a tha a’ toirt a-steach rudan a ghiùlan |
+| Mì-shocair feasgar anmoch | Obair shàmhach, eòlach ann an solas math; faic [mì-shocair feasgar anmoch](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Cuin a nì sibh stad no atharrachadh
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Sguiribh nuair a chì sibh comharran sgìths, frustrachais, nàire no dòrainn, leithid gluasad gun fhois, aghaidh dhrùidhteach, rudan a phutadh air falbh no ag ràdh “Chan urrainn dhomh.” Tha an Alzheimer's Association a’ moladh feuchainn a-rithist aig àm eile den latha no an gnìomh a dhèanamh nas sìmplidhe. Na cuiribh cuideam orra. Dh’fhaodadh diùltadh tighinn bho eagal no bho obair a tha ro dhoirbh; faic [nuair a chanas iad “chan eil”](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Tha e ceart gu leòr crìochnachadh tràth. Tha e ceart gu leòr cuideachd dìreach suidhe còmhla le cupa tì. Mar a dh’atharraicheas comasan tuilleadh, dh’fhaodadh gum bi na beachdan ann an [gnìomhan aig ìre fadalach](/activities/late-stage/) nas freagarraiche, agus tha mòran bharrachd ri fheuchainn ann an [101 gnìomhan](/activities/ideas/).

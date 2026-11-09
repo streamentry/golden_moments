@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Xogos de memoria para maiores con demencia: versións suaves sen exame"
+seoTitle: "Mellores xogos de memoria para demencia, ideas suaves"
+description: "Xogos de parellas, imaxes e cartas para maiores con demencia, e como xogar sen que ninguén se sinta avaliado: imaxes á vista, menos parellas, sen puntuación, en equipo."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Os xogos de memoria para maiores con demencia funcionan mellor cando non dependen da memoria. Xoga a emparellar con as imaxes á vista, usa de catro a seis pezas, xoga en equipo e deixa a puntuación a un lado. Recoñecer unha imaxe que se pode ver é moito máis doado que recordala, así que elixe xogos nos que todo quede á vista. O obxectivo é gozar, non conseguir un resultado.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Os xogos clásicos de memoria agochan as cartas, o que pon a proba precisamente aquilo que a demencia dificulta. É mellor deixar as imaxes á vista."
+  - "Menos pezas, imaxes máis grandes e unha opción cada vez fan que o xogo sexa máis agradable."
+  - "Xoga en equipo, axúdate por quendas e deixa a puntuación a un lado. Ninguén debe sentirse posto en evidencia."
+  - "Non se demostrou que ningún xogo de memoria trate, relentice ou deteña a demencia. Xoga porque é un bo momento para estar xuntos."
+  - "Detente mentres aínda sexa divertido. Falar das imaxes xa é un bo resultado."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Cal é un bo xogo de memoria para unha persoa con demencia?"
+    a: "Un xogo de parellas con imaxes grandes e familiares que poidan quedar á vista, como o de parellas de imaxes con catro ou seis pezas. Atopar a parella dunha imaxe que xa se ve é gratificante sen poñer a proba a memoria a curto prazo. O xogo Atopa a igual é aínda máis sinxelo, con unha soa imaxe para emparellar entre dúas e catro opcións."
+  - q: "Axudan os xogos de memoria na demencia?"
+    a: "Non se demostrou que ningún xogo de memoria trate, relentice ou deteña a demencia; nunha revisión da Cochrane constatouse que a evidencia sobre o adestramento cognitivo por ordenador era demasiado limitada como para afirmar que prevén a demencia. Aínda así, poden ser unha boa forma de pasar un tempo cálido xuntos. Elíxeos polo gozo e pola compañía, non por outro motivo."
+  - q: "Debería xogar ao clásico Concentración con alguén que teña demencia?"
+    a: "Nun principio, pode que a alguén lle siga gustando, sobre todo cun número pequeno de cartas. Se lembrar onde están comeza a producir frustración, pon as cartas á vista e limítate a buscar as parellas xuntos. Así mantés o emparellamento e quitas a proba da memoria."
+  - q: "Que xogos de memoria van ben para maiores nun grupo?"
+    a: "O bingo de imaxes cunha persoa que vai chamando, rematar ditos ou refráns familiares en voz alta, ou as cartas de conversa, funcionan ben en grupo. Xoga ata encher todas as cartas e evita sinalar quen acerta, para que ninguén se sinta posto en evidencia."
+  - q: "Hai xogos de memoria gratuítos para maiores en liña?"
+    a: "Si. Os xogos deste sitio, como Parellas de imaxes, Atopa a igual, Parellas de fotos e Crebacabezas de imaxes, son gratuítos, non precisan rexistro e funcionan en teléfonos, tabletas e ordenadores. Ningún deles ten temporizador nin puntuación."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Ao buscar "xogos de memoria para maiores", a maioría do que aparece está pensado para quen quere exercitar a mente: cartas agochadas, cronómetros, niveis e puntuacións. Para unha persoa que convive coa demencia, esas características converten o xogo nun exame da propia cousa que se lle está facendo máis difícil. Pero eses mesmos xogos pódense adaptar dunha forma máis suave. Nesta páxina móstrase como facelo e propóñense xogos que van ben en cada etapa.
 
-## Why do classic memory games frustrate people with dementia?
+## Por que frustran os xogos clásicos de memoria ás persoas con demencia?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Porque dependen de manter información nova na mente, que adoita ser precisamente o primeiro que se ve afectado pola enfermidade de Alzheimer, a causa máis común de demencia. Segundo a [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers), un dos primeiros síntomas máis habituais do Alzheimer é ter dificultades para recordar información aprendida recentemente. No clásico Concentración, volves dúas cartas, lembras onde estaban e usas esa información un pouco despois. Iso é información nova, que hai que gardar e recordar.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Se se lle engade un cronómetro, unha puntuación ou un aviso cando se falla, a persoa recibe un recordatorio do que xa non pode facer, diante de alguén a quen quere. Moita xente, aos poucos, deixa de ter ganas de xogar.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Recoñecer algo que se está vendo é unha tarefa distinta, e adoita ser moito máis doada. Señalar a segunda cunca de té cando ambas están á vista pode resultar gratificante. A chave, pois, é manter o emparellamento e quitar a proba da memoria.
 
-## How do you make a memory game gentle?
+## Como facer máis suave un xogo de memoria?
 
-These adjustments work for card games, board games and games on a screen.
+Estes axustes funcionan con cartas, xogos de mesa ou xogos en pantalla.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Deixa as imaxes á vista.** Emparellar imaxes que se poden ver segue sendo un xogo de verdade, e moitas veces moi gratificante.
+2. **Usa menos pezas.** Comeza con dúas ou tres parellas. Engade máis só se parece demasiado doado e a persoa quere continuar.
+3. **Elixe imaxes grandes, familiares e propias de adultos.** Unha cunca de té, un xirasol, un veleiro. Evita os debuxos animados ou as escenas con moitos elementos.
+4. **Xoga en equipo.** En lugar de dicir "chega a túa quenda", proba con "imos buscar os cans xuntos". Axudádevos por quendas e sinalade as cousas xuntos.
+5. **Deixa a puntuación a un lado.** Non fai falta gañar. Se alguén pregunta, con un sinxelo "conseguímolo" xa abonda.
+6. **Non apresures.** Sen cronómetros, sen présa entre quendas.
+7. **Fala das imaxes.** "Mira ese barco. Chegaches algunha vez a navegar?" Moitas veces, a conversa é a mellor parte do xogo.
+8. **Detente nun bo momento.** Termina despois dunha parella acertada, mentres aínda resulta agradable.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dá un consello neste mesmo sentido: adapta a actividade ao que a persoa pode facer hoxe, presta atención á frustración e procura que se sinta ben facendoa.
 
-## Gentle memory and matching games to try
+## Xogos de memoria e emparellamento suaves para probar
 
-### Picture pairs (matching with pictures showing)
+### Parellas de imaxes (emparellamento con imaxes á vista)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Parellas de imaxes](/games/picture-pairs/) é un xogo de emparellamento con imaxes grandes e de 4 a 12 pezas. As imaxes poden quedar visibles, polo que se trata de atopar as parellas, non de lembrar onde estaban. Comeza con catro pezas. Se a persoa está nunha fase inicial e lle gusta un reto lixeiro, podes probar o modo "Imaxes agochadas", pero volve a deixalas á vista no momento en que deixe de ser divertido.
 
-### Find the same
+### Atopa a igual
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Atopa a igual](/games/find-the-same/) mostra unha imaxe arriba e de dúas a catro opcións abaixo. Hai que tocar a que coincida. É o xogo de emparellamento máis sinxelo do sitio e vai moi ben para quen atopa unha grella completa demasiado confusa, incluídas moitas persoas en fases máis avanzadas cando hai alguén ao seu carón.
 
-### Photo pairs (family photo memory game)
+### Parellas de fotos (xogo de memoria con fotos familiares)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Parellas de fotos](/games/photo-pairs/) converte as fotos que ti elixas nun xogo de parellas: o can, o horto, a casa do lago. As caras e os lugares familiares adoitan despertar conversacións moito máis do que as imaxes xenéricas. As fotos quedan no teu navegador e nunca se envían a ningún sitio.
 
-### Sort together
+### Ordenar xuntos
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Ordenar xuntos](/games/sort-together/) pide poñer cada imaxe no cesto que lle corresponda, por exemplo, na cociña ou no horto. Ordenar recorre a coñecementos que se teñen desde fai moito tempo sobre como funciona o mundo, non á memoria a curto prazo.
 
-### Picture puzzle
+### Crebacabezas de imaxes
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Crebacabezas de imaxes](/games/picture-puzzle/) divide unha imaxe en 4 ou 9 pezas. Tócanse dúas pezas para intercambialas ata formar a imaxe completa. A imaxe enteira queda á vista como guía durante todo o xogo.
 
-### Real cards on the table
+### Cartas reais na mesa
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Non fai falta usar unha pantalla. Saca parellas dun par de barallas ou dun xogo de cartas con imaxes e colócaas á vista en dúas filas para atopalas xuntos. Máis adiante, tamén poden ordenalas por cor ou por pau. A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inclúe os xogos de cartas e de mesa entre as actividades recomendadas para a fase inicial.
 
-## Which memory games suit each stage?
+## Que xogos van ben en cada etapa?
 
-Stages are loose labels. Go by what the person enjoys today.
+As etapas son só orientacións xerais. O mellor é guiarse polo que á persoa lle gusta hoxe.
 
-| Stage | Games that often fit | How to set them up |
+| Etapa | Xogos que adoitan ir ben | Como preparalos |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Inicial | Parellas de imaxes, Parellas de fotos, Crebacabezas de imaxes con 9 pezas, xogos de cartas familiares | Déixalle elixir. Se lle gusta, poden darse voltas as pezas; se lle incomoda a puntuación, quítaa. |
+| Intermedia | Parellas de imaxes con 4 ou 6 pezas á vista, Atopa a igual, Ordenar xuntos | As imaxes sempre á vista. Senta ao seu carón e axudádevos por quendas. |
+| Avanzada | Atopa a igual con 2 opcións, mirar xuntos unha imaxe grande | Moi breve. Podes suxeitar a tableta ti; ela ou el pode sinalar, ou simplemente mirar e escoitar. |
 
-## Do memory games help with dementia?
+## Axudan os xogos de memoria á demencia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Non se demostrou que ningún xogo de memoria trate, relentice ou deteña a demencia. Unha [revisión da Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) sobre o adestramento cognitivo por ordenador en persoas con deterioro cognitivo leve concluíu que a evidencia era demasiado limitada como para afirmar que prevén a demencia. A nosa guía sobre [xogos de mente e demencia](/brain-health/brain-games/) explica o que si e o que non amosan os estudos.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Iso non é motivo para renunciar aos xogos. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) recomenda centrarse no gozo, non nos logros. Dez minutos emparellando imaxes e falando delas poden ser unha parte realmente boa do día.
 
-## What about memory games for seniors without dementia?
+## E que pasa cos xogos de memoria para maiores sen demencia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Se unha persoa maior sen problemas de memoria disfruta dos crebacabezas cronometrados, das puntuacións e dos niveis máis difíciles, non hai nada de malo nisto. Simplemente, non se pode contar con eles para protexer contra a demencia, xa que non se demostrou que o fagan. As versións suaves que se indican aquí tamén van moi ben cando xogan varias xeracións xuntas: un avó ou unha avoa con demencia e un neno pequeno poden emparellar imaxes en equipo, sen que ningún dos dous se sinta avaliado.
 
-## When should you stop or change the game?
+## Cando debo deter o xogo ou cambialo?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Suspirar, afastar a tableta, dicir "non podo facelo" ou mostrar ansiedade son sinais para facelo máis doado ou para detelo. Proba con menos pezas, deixa as imaxes á vista, cambia a [Atopa a igual](/games/find-the-same/), ou simplemente mira as imaxes e conversa. Se non quere xogar en absoluto, tamén está ben. A nosa guía sobre [como xogar xuntos](/caregiving/how-to-play-together/) ten máis consellos sobre o ritmo e como axudar.

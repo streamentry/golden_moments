@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Gnìomhan mothachaidh do dhaoine le trom-inntinn"
+seoTitle: "Gnìomhan mothachaidh airson trom-inntinn: beachdan"
+description: "Gnìomhan mothachaidh do dhaoine a tha a’ fuireach le trom-inntinn, bho shuaineadh làimhe gu basgaidean aodaich is fuaimean nàdair, le comhairle shàbhailte soilleir."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Bidh gnìomhan mothachaidh a’ cleachdadh suathadh, fàileadh, blas, fuaim agus
+  sealladh: suaineadh làimhe slaodach, basgaid de dh’aodach bog, luibhean ùra
+  ri am fàileadh, fuaimean nàdair, no a bhith a’ coimhead air eòin aig uinneag.
+  Tha iad iomchaidh aig a h-uile ìre agus gu h-àraidh feumail nas fhaide air
+  adhart. Thoir sùil an toiseach airson cunnartan tachdadh, aileardsaidhean,
+  duilgheadasan craiceann agus cugallachd ri fàilidhean, tairg aon rud aig an
+  aon àm, agus stad ma tha coltas mì-chofhurtail air an neach.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Chan eil feum air freagairtean ceart ann an gnìomhan mothachaidh, agus mar sin tha iad ag obair aig a h-uile ìre, eadhon san leabaidh no ann an cathair."
+  - "Tairg aon chiall aig an aon àm ann an seòmar sàmhach, agus faighnich no innis mus bean thu ris an neach."
+  - "Seachain rudan beaga agus rud sam bith a tha coltach ri biadh no le fàileadh bìdh ach nach e biadh a th’ ann, oir dh’fhaodadh daoine an cur nam beul."
+  - "Thoir sùil airson aileardsaidhean, duilgheadasan craiceann agus duilgheadasan anail mus cleachd thu lotain, fàilidhean no biadh."
+  - "Chan eil fianais làidir ann gu bheil cùbhraidheachd a’ cuideachadh comharran trom-inntinn; cleachd fàilidhean dìreach airson tlachd sìmplidh, ma chleachdas tu idir iad."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Dè na gnìomhan mothachaidh a tha math do chuideigin le trom-inntinn?"
+    a: "Am measg bheachdan sìmplidh tha suaineadh làimhe slaodach le lotan, a bhith a’ làimhseachadh aodach bog, a bhith a’ fàileadh luibhean ùra no cofaidh, ag èisteachd ri ceòl as fheàrr leotha no ri fuaimean nàdair, a’ coimhead air eòin no tanca èisg, agus a’ blasad biadh as fheàrr leotha ann an inneach sàbhailte. Tairg aon rud aig an aon àm agus thoir sùil air mar a bhios an neach a’ freagairt."
+  - q: "A bheil gnìomhan mothachaidh sàbhailte do chuideigin a chuireas rudan na bheul?"
+    a: "Faodaidh iad a bhith, le cùram. Cleachd dìreach rudan mòra nach gabh a shlugadh, seachain rud sam bith beag no so-bhriste, agus cùm lotain, siabann agus toraidhean le fàileadh a-mach à ruigsinn às dèidh làimhe, oir dh’fhaodadh iad a bhith coltach ri biadh no le fàileadh bìdh. Fuirich còmhla ris an neach fad na h-ùine."
+  - q: "A bheil cùbhraidheachd a’ cuideachadh le trom-inntinn?"
+    a: "Lorg lèirmheas Cochrane nach robh fianais làidir ann gu bheil cùbhraidheachd a’ cuideachadh dhaoine le trom-inntinn, ged a bha na sgrùdaidhean beag agus neo-chunbhalach. Ma tha tlachd aig an neach ann am fàileadh sèimh, eòlach, tha sin gu math, ach seachain olan riatanach làidir, gu h-àraidh ma tha duilgheadasan anail no aileardsaidhean ann."
+  - q: "Dè th’ ann an aparan no brat gnìomhachd airson làmhan trang?"
+    a: "’S e pìos aodaich, aparan no plaide uchd a th’ ann le rudan ri làimhseachadh fuaighte gu daingeann air, leithid putanan mòra, sipichean, riobanan agus pìosan le inneach. Bheir e rudeigin do làmhan trang a sgrùdadh. Thoir sùil air gu tric airson rud sam bith sgaoilte a dh’fhaodadh a bhith air a tharraing dheth."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Bidh gnìomhan mothachaidh a’ cleachdadh nan còig ciall: suathadh, fàileadh, blas, fuaim agus sealladh. Chan eil feum aca air cuimhne, ceumannan no freagairtean ceart, agus mar sin faodaidh iad obrachadh aig ìre sam bith. Tha iad nas cudromaiche nas fhaide air adhart. Tha an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ag innse, aig an ìre mu dheireadh, gu bheil an saoghal air fhaireachdainn gu ìre mhòr tro na ciall, agus gum faod thu cùram a nochdadh tro shuathadh, fuaim, sealladh, blas agus fàileadh. Le beagan sgrùdaidhean sàbhailteachd, faodaidh na gnìomhan seo a bhith socair don a h-uile duine.
 
-## What are sensory activities for dementia?
+## Dè th’ ann an gnìomhan mothachaidh airson trom-inntinn?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+’S e eòlasan sìmplidh a th’ ann an gnìomhan mothachaidh a tha stèidhichte air aon chiall aig an aon àm, leithid a bhith a’ faireachdainn aodaich, a’ fàileadh luibhean no ag èisteachd ri uisge. Tha an [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ag ràdh gu bheil gnìomhan aig ìrean nas fhaide air adhart gu tric feumach air fòcas air na ciall, agus tha e a’ toirt iomradh air ceòl, rudan ri suathadh is làimhseachadh, agus suaineadh làimhe. Tha an [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a’ toirt fa-near gum faodadh feum làidir a bhith aig daoine san ìre mu dheireadh rudeigin a chumail faisg orra airson comhfhurtachd.
 
-## Sensory ideas, sense by sense
+## Beachdan mothachaidh, ciall ri ciall
 
-### Touch
+### Suathadh
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Suaineadh làimhe.** Blàthaich beagan lotain nad làmhan agus suaineadh gu slaodach bhon chaol-dùirn gu bàrr nan corragan. Tha an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) a’ toirt iomradh air suaineadh le lotan gun fhàileadh airson comhfhurtachd.
+- **Basgaid aodaich.** Pìosan mòra de bhelbhid, cordaroy, flis, satain agus clòimh airson an suathadh, am pasgadh agus bruidhinn mun deidhinn.
+- **Clò tioram blàth.** Clò blàth, tais airson nan làmhan air latha fuar. Dèan deuchainn air an teòthachd air do chaol-dùirn fhèin an toiseach.
+- **Aparan no plaide uchd gnìomhachd.** Putanan mòra, sipichean, riobanan agus pìosan le inneach air am fuaigheal gu daingeann.
+- **Pasgadh is rèidheachadh.** Basgaid de chlòthan no naipeannan glan airson am pasgadh, an cruachadh agus am pasgadh a-rithist.
+- **Rudeigin bog ri chumail.** Plaide flis, cluasag no beathach bog coltach ri fìor, air a thabhann gu sìmplidh, chan ann mar dhèideag.
 
-### Smell
+### Fàileadh
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Luibhean ùra.** Suath duilleagan miontais, rosmaraidh, basal no labhandair eadar do chorragan agus tairg iad thairis.
+- **Fàilidhean cidsin.** Cofaidh ga ghoil, aran ga thostadh, caneil no orainse ga rùsgadh faisg air làimh.
+- **Flùraichean.** Thoir a-steach beagan fhlùraichean ùra bhon ghàrradh no bhon bhùth.
+- **Toradh eòlach.** An siabann no an lotan a bhiodh iad a’ cleachdadh a-riamh, ma tha an craiceann a’ gabhail ris.
 
-### Taste
+### Blas
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Blas as fheàrr leotha.** Spàin bheag de rudeigin a tha iad dèidheil air, leithid ùbhlan brùite, maragan no reòiteag, ann an inneach as urrainn dhaibh a làimhseachadh gu sàbhailte.
+- **Cuideachadh le bèicearachd.** A bhith a’ blasad measan no beagan icing fhad ’s a tha sibh a’ bèicearachd còmhla.
+- **Biadhan ràitheil.** Uisge-beatha samhraidh as t-samhradh, leann-ubhal blàth as t-fhoghar, air an toirt seachad aig teòthachd shàbhailte.
 
-### Sound
+### Fuaim
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Ceòl as fheàrr leotha.** Òrain eòlach aig ìre fuaim shèimh; faic [gnìomhan ciùil](/activities/music/).
+- **Fuaimean nàdair.** Uisge, tonnan no ceilear eòin. Tha an NIA ag innse gu bheil coltas gu bheil ceòl, fuaim gheal agus fuaimean nàdair a’ toirt fois do chuid de dhaoine.
+- **Do ghuth.** Leughadh os àrd, crònan, no ag innse sgeulachd.
+- **Innealan sìmplidh.** Druma làimhe, crathadair no clag airson cluich còmhla ri ceòl.
 
-### Sight
+### Sealladh
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Coimhead a-mach air an uinneig.** Biathadair eòin taobh a-muigh na h-uinneige, clann a’ coiseachd dhachaigh, no sneachd a’ tuiteam.
+- **Tanca èisg no bhidio slaodach.** Gluasad socair gun fhuaim àrd.
+- **Dealbhan mòra.** Aon dealbh soilleir aig an aon àm, air a chumail aig ìre na sùla.
+- **Dath is pàtran.** A bhith a’ seòrsachadh pìosan aodaich soilleir, flùraichean no naipeannan dathte, no duilleag dathachaidh shìmplidh bhon t-seata againn [coloring](/games/coloring/).
+- **A-muigh.** Tha an NHS a’ moladh gàrraidhean mothachaidh le lusan cùbhraidh, inneach agus feartan uisge. Faic [gnìomhan a-muigh agus gàirnealaireachd](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Mar a nì thu bogsa mothachaidh
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Tagh cuspair** ceangailte ri beatha an neach: an tràigh, an gàrradh, a’ chidsin, a’ bhùth-obrach, fuaigheal.
+2. **Tagh còig no sia rudan mòra, sàbhailte,** leithid slige mhòr, spàin fiodha, sgarf bog, poca beag de labhandair tioram air a fhuaigheal dùinte, no bloc fiodha rèidh.
+3. **Thoir sùil air gach rud** airson pàirtean beaga, oirean biorach, snàithleanan sgaoilte agus rud sam bith a bhriseas gu furasta.
+4. **Tairg aon rud aig an aon àm.** Thoir seachad e, thoir cunntas air, agus leig leis an neach a sgrùdadh.
+5. **Cuir am bogsa air falbh às dèidh làimhe** gus am fuirich e sònraichte agus gus an tèid sùil a thoirt air na rudan a-rithist ron ath thuras.
 
-## Safety first
+## Sàbhailteachd an toiseach
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Tha gnìomhan mothachaidh socair, ach tha beagan chunnartan cudromach. Dh’fhaodadh cuid de dhaoine a tha a’ fuireach le trom-inntinn rudan nach e biadh a th’ annta a mhearachdachadh airson bìdh, agus dh’fhaodadh slugadh fàs nas duilghe thar ùine; tha an NIA a’ toirt rabhadh gu bheil duilgheadasan slugadh aig an ìre mu dheireadh a’ togail cunnart tachdadh.
 
-| Risk | What to do |
+| Cunnart | Dè nì thu |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Tachdadh | Cleachd dìreach rudan a tha ro mhòr airson an slugadh. Gun phutanan, grìogagan, buinn, mìorbhailean no dèideagan beaga sgaoilte ann am bogsa. Tairg biadh dìreach ann an inneach a tha an sgioba cùraim ag ràdh a tha sàbhailte. |
+| Rudan a tha coltach ri biadh | Tha an NIA a’ comhairleachadh lotain, siabann, seampùthan agus cùbhraidheachd a ghlasadh, oir dh’fhaodadh iad a bhith coltach ri biadh no le fàileadh bìdh, agus measan fuadain a thoirt air falbh. Cuir toraidhean mothachaidh air falbh às dèidh an cleachdaidh. |
+| Aileardsaidhean | Thoir sùil airson aileardsaidhean ri cnothan, latex, clòimh, lusan no fàilidhean mus tòisich thu. |
+| Fàilidhean làidir | Seachain cùbhraidheachd làidir agus olan riatanach, gu h-àraidh ma tha asthma no duilgheadasan anail eile ann. Tha fàilidhean sèimh, nàdarrach nas sàbhailte. |
+| Craiceann | Thoir sùil airson craiceann goirt, briste no cugallach mus dèan thu suaineadh. Cleachd cuideam socair agus stad ma bhios iad a’ crùbadh. |
+| Teòthachd | Dèan deuchainn air clòthan blàth agus deochan air do chaol-dùirn fhèin an toiseach. |
+| Rudan biorach no puinnseanta | Gun innealan biorach, glainne no stuthan ciùird puinnseanta. |
 
-## Does aromatherapy help?
+## A bheil cùbhraidheachd a’ cuideachadh?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Is dòcha nach eil ann an dòigh sam bith a ghabhas tomhas. Thug [lèirmheas Cochrane air cùbhraidheachd airson trom-inntinn](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) sùil air 13 sgrùdadh le 708 neach, uile ann an dachaighean cùraim, agus cha do lorg e fianais làidir air buannachd sam bith. Bha na sgrùdaidhean beag, bha na toraidhean ag eadar-dhealachadh, agus cha deach droch bhuaidhean aithris gu math. Ma tha tlachd aig an neach ann am fàileadh sèimh, eòlach, leithid labhandair bhon ghàrradh, ’s e adhbhar math a tha sin airson a roinn. Chan e leigheas a th’ ann.
 
-## How to offer a sensory activity
+## Mar a thairgeas tu gnìomh mothachaidh
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Tagh àm sàmhach** agus cuir an telebhisean dheth.
+- **Tig faisg air bhon aghaidh,** can an t-ainm, agus faighnich no innis dhaibh mus bean thu: "Tha beagan lotain agam. Am bu toil leat suaineadh làimhe?"
+- **Tairg aon rud aig an aon àm** gus nach bi e cus.
+- **Thoir sùil air an fhreagairt.** Tha aodann nas socraiche, làmhan socrach no gàire nan comharran math. Tha tarraing air falbh, gruaim no mì-fhois a’ ciallachadh gun stad thu.
+- **Cùm e goirid.** Tha còig mionaidean socair na sheisean math.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Faodaidh stad anail slaodach còmhla, mar [calm breathing](/games/calm-breathing/), a bhith na dhòigh shocair airson crìochnachadh. Airson barrachd bheachdan ri taobh na leapa, faic [gnìomhan aig an ìre mu dheireadh](/activities/late-stage/), agus airson mì-shuaimhneas feasgar, faic [mì-fhois feasgar](/caregiving/late-day-restlessness/).

@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Actividades de reminiscencia: caixas, historias e fotos"
+seoTitle: "Actividades de reminiscencia para a demencia"
+description: "Como compartir lembranzas con alguén que vive con demencia sen facer preguntas de memoria: fotos, caixas e libros de vida, con frases para un ambiente relaxado."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  A reminiscencia consiste en gozar xuntos do pasado a través de fotos,
+  obxectos, música e historias. Faga unha caixa de lembranzas, cree un libro
+  sinxelo da historia de vida ou miren fotos un ao carón do outro. Non faga
+  preguntas de memoria: evite «Lémbrase?» e «Quen é este?» e use invitacións
+  abertas como «Cónteme algo sobre isto». Unha conversa agradábel importa máis
+  ca acertar nos detalles.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "A reminiscencia é unha conversa, non unha proba. A exactitude non importa; o importante é gozar do momento."
+  - "Cambie «Lémbrase de...?» e «Quen é este?» por comentarios e invitacións como «Cónteme algo sobre este día»."
+  - "Unha caixa de lembranzas con obxectos da vida da persoa dálle ás mans e á conversa algo no que apoiarse."
+  - "Un libro da historia de vida axuda á familia, ás visitas e ao persoal de coidados a coñecer a persoa, non só o diagnóstico."
+  - "Se unha lembranza trae tristura, ofreza consolo primeiro e pase con suavidade a outra cousa."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Que é a reminiscencia para as persoas que viven con demencia?"
+    a: "A reminiscencia é compartir lembranzas e experiencias do pasado, a miúdo coa axuda de fotos, obxectos, música ou vídeos. Pode facerse a soas ou en grupo. O obxectivo é ter unha conversa agradable e con significado, non comprobar o que a persoa pode recordar."
+  - q: "Por que non debería preguntar «Lémbrase?»?"
+    a: "As preguntas que poñen a proba a memoria poden facer que unha persoa se sinta avergoñada ou ansiosa cando a resposta non lle vén. O National Institute on Aging inclúe preguntar a alguén se lembra algo ou a alguén entre as cousas que convén evitar. Comente o que ve e deixe que a persoa engada o que queira."
+  - q: "Que debería pór nunha caixa de lembranzas?"
+    a: "Escolla obxectos seguros e resistentes ligados á vida da persoa: cousas do traballo, materiais dun pasatempo, unha bufanda favorita, postais, receitas, lembranzas deportivas ou copias de fotos. Evite obxectos afiados, cousas pequenas que se poidan tragar e orixinais irrepetíbeis."
+  - q: "E se se confunde cos detalles?"
+    a: "Déixeo pasar. Se a súa nai di que a foto é da súa irmá cando é da súa curmá, non pasa nada. Corrixir converte un momento agradábel nunha proba. Siga a historia que está a contar e gócena xuntos."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+A reminiscencia consiste simplemente en gozar xuntos do pasado. Para moitas persoas que viven con demencia, as lembranzas de hai décadas poden seguir máis claras ca o que pasou esta mañá. As fotos, os obxectos familiares, a música e as historias poden abrir esas lembranzas e darlles algo agradábel que compartir. Hai unha soa regra: é unha conversa, nunca unha proba.
 
-## What is reminiscence, and how is it different from quizzing?
+## Que é a reminiscencia e en que se diferencia de facer preguntas de memoria?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+A reminiscencia é compartir lembranzas a través de fotos, obxectos, música ou vídeo, ao ritmo da persoa. O [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) descríbea como compartir experiencias e historias do pasado coa axuda de fotos, obxectos, vídeos ou música, nun libro ou nunha tableta. Facer preguntas de memoria é diferente: pídelle á persoa que dea unha resposta correcta, e iso pode provocar vergoña en vez de gozo.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) inclúe preguntar a unha persoa se lembra algo ou a alguén entre as cousas que convén evitar. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suxire evitar preguntas que dependan da memoria recente e falar no seu lugar do pasado máis afastado.
 
-| Instead of | Try |
+| No canto de | Probe con |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Lémbrase disto?» | «Parece un día feliz. Cónteme algo sobre el.» |
+| «Quen é este?» | «Aquí está a tía Rosa na praia. Mire que sombreiro.» |
+| «De que ano é isto?» | «Parece a casa de antes. Como era vivir alí?» |
+| «Non, ese non é Xoán, é Fran.» | «Parece que se divertía moito.» |
+| «Xa mo contou.» | «Gústame moito esa historia.» |
 
-## How do you talk about photos without quizzing?
+## Como falar de fotos sen facer preguntas de memoria?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Comece polo que ve e despois deixe espazo para que a persoa engada algo se quere.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Senten un ao carón do outro.** Coloque o álbum entre os dous para que miren xuntos, non como se estivese a facer unha proba.
+2. **Escolla poucas fotos.** Cinco boas fotos son mellor ca unha caixa enteira. As copias grandes e claras funcionan mellor.
+3. **Nomee vostede ás persoas.** «Aquí está vostede co papá o día da voda» quita presión.
+4. **Comente os detalles.** A roupa, os coches, a comida, o tempo, as caras. «Que coche. Parece moi brillante».
+5. **Convide, non esixa.** «Cónteme algo sobre...» ou «Que lle chama a atención?» O silencio tamén está ben.
+6. **Siga o seu ritmo.** Se a persoa fala doutra cousa, acompáñea.
+7. **Pare mentres siga sendo agradábel.** Peche o álbum antes de que apareza o cansazo.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Para ter imaxes que axuden a iniciar a conversa, probe [conversation cards](/games/conversation-cards/). Para converter as súas propias fotos de familia nun xogo suave de atopar parellas, probe [photo pairs](/games/photo-pairs/); as fotos que escolla quedan no seu navegador.
 
-## How do you make a memory box?
+## Como facer unha caixa de lembranzas?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Unha caixa de lembranzas é un recipiente con obxectos da vida da persoa para coller e conversar sobre eles.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Escolla unha caixa resistente** que sexa fácil de abrir, como unha caixa de zapatos, unha sombreireira ou un pequeno cofre de madeira.
+2. **Elixa un tema ou mesture varios.** O traballo, un pasatempo, un lugar, unha década ou un pouco de todo.
+3. **Reúna obxectos seguros.** Para comezar, abondan de cinco a dez cousas.
+4. **Use copias das cousas valiosas.** Faga copias de fotos e documentos irrepetíbeis e garde os orixinais nun lugar seguro.
+5. **Saque os obxectos dun en un.** Déalle un, diga algo sobre el e vexa cara a onde vai a conversa.
 
-Ideas to include:
+Ideas para incluír:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Traballo:** un distintivo co nome, unha pequena ferramenta, un parche dun uniforme, un libro de contas, un broche de enfermaría, un caderno de receitas dunha cafetería.
+- **Casa:** unha receita escrita da súa man, un pano de cociña, unha bufanda ou gravata favorita.
+- **Pasatempos:** un anzó sen gancho, unha pelota, unha madeixa de la, un sobre de sementes.
+- **Lugares:** postais, mapas, unha lembranza de viaxe, un recorte do xornal da súa vila.
+- **Familia:** copias de fotos, un debuxo dun neno ou nena, unha invitación de voda.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Non inclúa obxectos afiados, cousas pequenas que se poidan tragar nin nada que poida traer lembranzas dolorosas, a non ser que saiba que a persoa o recibe ben.
 
-## How do you make a life-story book?
+## Como facer un libro da historia de vida?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Un libro da historia de vida é un álbum sinxelo con fotos e pés de foto curtos sobre a vida da persoa. É algo para mirar xuntos e axuda ás visitas e ao persoal de coidados a ver a persoa no seu conxunto.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Escolla un formato.** Un cartafol con fundas, un libro de fotos impreso ou unha presentación nunha tableta.
+2. **Pense en algunhas seccións.** Infancia, escola, traballo, familia, lugares onde viviu, fe, pasatempos, comidas e música favoritas.
+3. **Engada unha ou dúas fotos por páxina** cun pé de foto curto e con letra grande: «María, 22 anos, comezando a traballar no banco».
+4. **Inclúa gustos e rutinas.** «Toma o café con leite. Encántanlle os cantos do domingo. Non lle gusta a televisión alta». Isto axuda a quen coida dela.
+5. **Conte coa persoa** tanto como ela queira: escollendo fotos, contando historias ou simplemente vendo como toma forma.
+6. **Siga engadindo.** Non fai falta que estea rematado para que sexa útil.
 
-## More reminiscence ideas
+## Máis ideas de reminiscencia
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Poña música da súa xuventude** e fale sobre o que lle lembra. Vexa [actividades con música](/activities/music/).
+- **Vexa vídeos caseiros ou programas de televisión** das súas décadas favoritas.
+- **Cociñe un prato da infancia** e deixe que os cheiros guíen a conversa.
+- **Mire un mapa** da súa vila ou cidade e sigan rúas coñecidas.
+- **Follee catálogos ou revistas antigos** e fale dos prezos, da moda e dos coches.
+- **Grave as súas historias** no teléfono, co seu permiso, para a familia.
+- **Comparta durante as chamadas.** Mostre unha foto durante unha videochamada; vexa [chamadas telefónicas e por vídeo](/activities/phone-and-video-calls/).
+- **Leve unha foto ou un obxecto cando a visite.** Dá á visita un punto de partida sinxelo; vexa [visitas](/activities/visiting/).
 
-## What if a memory is painful?
+## E se unha lembranza é dolorosa?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Algunhas lembranzas traen dor, arrepentimento ou medo. Se a persoa se altera, pare, ofrézalle consolo e cambie con suavidade de tema ou de actividade. Non discuta sobre o que pasou. A Family Caregiver Alliance aconsella non tentar convencer a persoa de que está equivocada e suxire responder aos sentimentos que mostra, que son reais. Se fala de alguén que xa morreu como se estivese viva, responda ao sentimento: «Bótalle de menos. Cónteme algo sobre ela».
 
-## What does the research say?
+## Que di a investigación?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Unha [revisión Cochrane sobre a reminiscencia](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), que incluíu 22 ensaios e 1.972 persoas, atopou que os efectos eran inconsistentes, pequenos e variaban segundo o contexto e o formato. Non atopou probas de dano para as persoas que viven con demencia. Suxerimos a reminiscencia porque pode ofrecer momentos agradábeis e con significado xuntos, non como un tratamento. Para saber máis sobre conversas sinxelas, vexa [consellos de comunicación](/caregiving/communication-tips/).

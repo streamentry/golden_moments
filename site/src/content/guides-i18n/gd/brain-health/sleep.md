@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Cadal agus Slàinte na h-Eanchainn: Na tha Rannsachadh ag Inse"
+seoTitle: "Cadal agus Trom-inntinn: Na tha Rannsachadh ag Inse"
+description: "Na tha rannsachadh ag ràdh mu chadal is cunnart trom-inntinn, carson a tha an rannsachadh mu ghlanadh na h-eanchainn tràth fhathast, agus cleachdaidhean cadail practaigeach."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Tha cuid de sgrùdaidhean fad-ùine a' ceangal cadal goirid ann am meadhan-beatha ri cunnart nas
+  àirde trom-inntinn, agus tha rannsachadh obair-lann a' nochdadh gum faodadh cadal a bhith a'
+  cuideachadh na h-eanchainn sgudal a ghlanadh. Tha an fhianais seo tràth fhathast, agus cha do
+  liostaich Coimisean Lancet 2024 cadal mar fhactar cunnairt a ghabhas atharrachadh. Faodaidh
+  cleachdaidhean cadail cunbhalach cuideachadh le mar a tha thu a' faireachdainn gach latha. Tha
+  duilgheadasan cadail ann an trom-inntinn cumanta agus is fhiach an togail le dotair.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Cheangail sgrùdadh san RA a lean timcheall air 8,000 neach fad 25 bliadhna cadal sia uairean no nas lugha ann am meadhan-beatha ri cunnart nas àirde trom-inntinn."
+  - "Faodaidh atharrachaidhean cadail a bhith cuideachd nan comharra tràth de throm-inntinn, agus mar sin tha e duilich eadar-dhealachadh a dhèanamh eadar adhbhar is buaidh."
+  - "Tha rannsachadh mu chadal a' glanadh beta-amyloid bhon eanchainn fìor ach tràth, mòran dheth ann an luchagan."
+  - "Tha apnea cadail cumanta, faodar a làimhseachadh agus tha e ceangailte ri trom-inntinn ann an sgrùdaidhean; is fhiach srannd àrd agus sgìths làitheil a sgrùdadh."
+  - "Na tòisich, na stad is na atharraich cungaidh-leigheis cadail no taic-cadail gun dotair."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "A bheil droch chadal ag adhbhrachadh Alzheimer?"
+    a: "Cha deach sin a dhearbhadh. Tha cuid de sgrùdaidhean a' ceangal cadal goirid ri cunnart nas àirde trom-inntinn, ach bidh trom-inntinn fhèin a' cur dragh air cadal, gu tric bliadhnaichean mus tèid breithneachadh a dhèanamh. Bha Coimisean Lancet 2024 den bheachd gu robh an fhianais ro neo-chunbhalach airson cadal a liostadh mar fhactar cunnairt a ghabhas atharrachadh."
+  - q: "Dè an uiread de chadal a dh'fheumas inbhich nas sine?"
+    a: "Tha Institiùd Nàiseanta na h-Aoise ag ràdh gu bheil feum aig inbhich nas sine air timcheall air an aon uiread ri inbhich eile, 7 gu 9 uairean gach oidhche. Bidh mòran de dhaoine nas sine a' dol dhan leabaidh agus ag èirigh nas tràithe na b' àbhaist dhaibh, rud a tha cumanta."
+  - q: "Carson a bhios cuideigin le trom-inntinn a' cadal tron latha agus a' dùsgadh air an oidhche?"
+    a: "Faodaidh trom-inntinn buaidh a thoirt air gleoc na bodhaig, agus mar sin bidh amannan cadail is dùisg air am measgachadh. Faodaidh pian, dòrainn, acras no fo-bhuaidhean cungaidh-leigheis pàirt a ghabhail cuideachd. Dh'fhaodadh solas an latha, gnìomhachd làitheil agus gnàthas feasgar sàmhach cuideachadh. Faodaidh dotair coimhead airson adhbharan a ghabhas làimhseachadh."
+  - q: "Am bu chòir dhomh taic-cadail a thoirt don neach air a bheil mi a' toirt cùram?"
+    a: "Bruidhinn ris an dotair aca an toiseach, a' gabhail a-steach toraidhean gun òrdugh. Tha Institiùd Nàiseanta na h-Aoise a' toirt fa-near gum faod cuid de chungaidhean-leigheis cadail an cunnart de lathadh, tuiteaman is troimh-chèile a mheudachadh ann an daoine le Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Tha ceangal soilleir eadar cadal agus slàinte na h-eanchainn, ach tha rannsachadh fhathast a' feuchainn ri tuigse fhaighinn air mar a tha iad ceangailte. Tha cuid de sgrùdaidhean a' ceangal cadal goirid ri cunnart nas àirde trom-inntinn. Aig an aon àm, bidh trom-inntinn gu tric a' cur dragh air cadal. Tha an duilleag seo a' mìneachadh na tha an rannsachadh a' sealltainn agus na chan eil, a' toirt seachad cleachdaidhean cadail practaigeach, agus a' bruidhinn air duilgheadasan cadail a tha cumanta ann an trom-inntinn. Chan eil i a' toirt comhairle mu chungaidhean-leigheis cadail; bu chòir a' chòmhradh sin a bhith le dotair.
 
-## Is poor sleep linked with dementia?
+## A bheil droch chadal ceangailte ri trom-inntinn?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Tha cuid de sgrùdaidhean fad-ùine a' ceangal cadal goirid ri cunnart nas àirde trom-inntinn, ach chan eil an fhianais socraichte.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Sgrùdadh 25 bliadhna san RA.** Lean luchd-rannsachaidh timcheall air 8,000 inbheach anns an [sgrùdadh Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Bha cunnart nas àirde trom-inntinn nas fhaide air adhart aig daoine a chaidil sia uairean no nas lugha aig aois 50 no 60 na aig an fheadhainn a chaidil seachd uairean. Bha timcheall air 30% de chunnart nas àirde aig daoine a chaidil sia uairean no nas lugha aig 50, 60 agus 70 na aig an fheadhainn a bhiodh gu cunbhalach a' cadal seachd uairean. B' e sgrùdadh amharc a bha seo, agus mar sin tha e a' sealltainn ceangal, chan e adhbhar.
+- **Sealladh Choimisean Lancet.** Cha do chuir [Coimisean Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) cadal ris an liosta de 14 factaran cunnairt a ghabhas atharrachadh. Bha e den bheachd nach robh an fhianais cunbhalach gu leòr. Is e aon adhbhar "adhbharachadh air ais": bidh atharrachaidhean eanchainn bho throm-inntinn a' tòiseachadh bliadhnaichean mus tèid breithneachadh a dhèanamh agus faodaidh iad dragh a chur air cadal. Ann an aon sgrùdadh mòr, chaidh ceangal eadar cadal fada agus trom-inntinn à sealladh nuair a chaidh a' chiad còig bliadhna den leantainn a chur an dàrna taobh.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Mar sin, chan eil adhbhar dragha ann mu oidhche ghoirid an-dràsta 's a-rithist. Is fhiach a bhith ag amas air cadal cunbhalach, de dheagh chàileachd oir cuidichidh e le sunnd, faireachadh agus sàbhailteachd an-diugh.
 
-## What is the "brain-clearing" sleep research?
+## Dè an rannsachadh mu "ghlanadh na h-eanchainn" rè cadail?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Is dòcha gun do leugh thu gu bheil cadal a' "glanadh" na h-eanchainn. Tha am beachd sin a' tighinn bho fhìor rannsachadh, ach tha e tràth.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Ann an luchagan.** Lorg sgrùdadh ann an 2013 [air a mhìneachadh leis an NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) gun do dh'fhàs an àite eadar ceallan na h-eanchainn mu 60% nuair a bha luchagan nan cadal. Bha lionn a' sruthadh tron eanchainn nas fhasa, tron t-siostam ris an canar an siostam gliofaiteach. Chaidh beta-amyloid, pròtain a tha ceangailte ri Alzheimer, a ghlanadh nas luaithe bho eanchainn luchagan a bha nan cadal.
+- **Ann an daoine.** Rinn [sgrùdadh beag ann an 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanadh air 20 inbheach fallain eadar 22 agus 72 bliadhna a dh'aois às dèidh oidhche àbhaisteach agus às dèidh oidhche gun chadal. Às dèidh na h-oidhche gun chadal, dh'èirich comharra sganaidh eanchainn airson beta-amyloid mu 5% ann an sgìre a' gabhail a-steach an hippocampus, sgìre a tha cudromach airson cuimhne. Thuirt na h-ùghdaran gur e fianais thràth a bha seo. Cha robh fios aca an rachadh an t-atharrachadh air falbh às dèidh fois, no an robh e a' nochdadh glanadh nas slaodaiche no barrachd amyloid ga dhèanamh.
+- **Bidh e ag obair an dà dhòigh.** Tha Coimisean Lancet a' toirt fa-near gum faod cruinneachadh amyloid fhèin dragh a chur air cadal ann an inbhich nas sine.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Tha na toraidhean seo a' cuideachadh le mìneachadh carson a tha ùidh aig luchd-rannsachaidh ann an cadal. Chan eil iad a' sealltainn gu bheil cadal nas fheàrr a' casg Alzheimer.
 
-## What sleep habits may help?
+## Dè na cleachdaidhean cadail a dh'fhaodadh cuideachadh?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Feumaidh inbhich nas sine timcheall air 7 gu 9 uairean de chadal gach oidhche, an aon rud ri inbhich eile, a rèir [Institiùd Nàiseanta na h-Aoise (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Tha na molaidhean aige a' gabhail a-steach:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Cùm clàr cunbhalach.** Rach dhan leabaidh agus èirich aig an aon àm gach latha, eadhon aig deireadh-sheachdainean.
+- **Tog gnàthas socair ro laighe.** Leugh, èist ri ceòl socrach no gabh amar blàth mus tèid thu dhan leabaidh.
+- **Dèan an seòmar-cadail comhfhurtail,** gun a bhith ro theth no ro fhuar.
+- **Cuir crìoch air caffeine anmoch san latha.** Faodaidh cofaidh, tì, deochan bog agus teòclaid do chumail nad dhùisg.
+- **Seachain deoch làidir,** eadhon beagan, tha an NIA a' comhairleachadh.
+- **Seachain biadh mòr taobh a-staigh dà no trì uairean mus tèid thu dhan leabaidh,** agus deochan mòra anmoch san latha.
+- **Dèan eacarsaich gu cunbhalach, ach chan ann taobh a-staigh 3 uairean mus tèid thu dhan leabaidh.** Faic ar [stiùireadh eacarsaich](/brain-health/exercise/).
+- **Cùm scrionaichean a-mach às an t-seòmar-cadail.** Tha an NIA a' moladh gun a bhith a' coimhead air TBh no a' cleachdadh coimpiutair, fòn no tablaid ann.
+- **Seachain cadalan feasgar anmoch no oidhche** ma ghabhas sin dèanamh.
 
-## Sleep problems in dementia
+## Duilgheadasan cadail ann an trom-inntinn
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Tha atharrachaidhean ann an cadal cumanta ann an trom-inntinn. Tha an [NIA a' liostadh](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) cadal cus no ro bheag, dùsgadh iomadh uair tron oidhche, agus cadal mòr tron latha. Tha e cuideachd a' toirt cunntas air aimhreit feasgair: mì-shuaimhneas, buaireas no troimh-chèile a thòisicheas no a dh'fhàsas nas miosa nuair a bhios solas an latha a' dol à sealladh.
 
-Caregiver tips from the NIA include:
+Tha molaidhean luchd-cùraim bhon NIA a' gabhail a-steach:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Faigh solas an latha agus gluasad tràth.** Rach a-muigh no suidh ri uinneag tron latha, agus cuidich an neach a bhith gnìomhach gach latha. Dh'fhaodadh solas soilleir cuideachadh le gleoc na bodhaig ath-shuidheachadh.
+2. **Planaich gnìomhachdan beòthail airson na maidne.** Feuch ri amar a ghabhail sa mhadainn no am biadh as motha a bhith aig meadhan-latha.
+3. **Cùm cadalan goirid agus tràth.** Cuir crìoch air cadal goirid anmoch san latha.
+4. **Dèan am feasgar sàmhach.** Lùghdaich na solais, lùghdaich fuaim agus cluich ceòl socrach ma tha an neach a' còrdadh ris. Tha barrachd bheachdan anns an stiùireadh againn air [mì-shuaimhneas anmoch san latha](/caregiving/late-day-restlessness/).
+5. **Cùm gnàthas leabaidh cunbhalach.** Is e eisimpleir bhon NIA a bhith a' leughadh a-mach aig an aon àm gach oidhche. Cuidichidh [gnàthas làitheil cunbhalach](/activities/daily-routine/) cuideachd.
+6. **Cuir crìoch air caffeine agus deoch làidir.**
+7. **Cleachd solais oidhche** san t-seòmar-cadail, san trannsa agus san t-seòmar-ionnlaid.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Airson dùsgadh tron oidhche, tha [molaidhean sàbhailteachd dachaigh](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) an NIA a' gabhail a-steach solais oidhche no mothachairean solais fèin-obrachail, bàraichean greim san t-seòmar-ionnlaid, teip shoilleir air oirean cheumannan, agus cungaidhean-leigheis air an stòradh ann an àite glaiste.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Faodaidh gnìomhachd ghoirid, shàmhach feasgar cuideachadh leibh fhèin socrachadh. Feuch stad slaodach [Anail Shàmhach](/games/calm-breathing/) no beagan [Chairtean Còmhraidh](/games/conversation-cards/) socrach. Seachain rud sam bith brosnachail faisg air àm laighe, agus stad uair sam bith a tha gu leòr aig an neach.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Bidh cadal briste a' cur luchd-cùraim gu cruaidh cuideachd. Tha ar [stiùireadh fèin-chùraim do luchd-cùraim](/caregiving/caregiver-self-care/) a' còmhdach dhòighean air fois is taic fhaighinn.
 
-## What about sleep apnea?
+## Dè mu apnea cadail?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Bidh apnea cadail ag adhbhrachadh stadan goirid san anail rè cadail, gu tric iomadh uair gach oidhche. Tha an NIA ag ràdh mura tèid a làimhseachadh, gum faod e leantainn gu duilgheadasan leithid bruthadh-fala àrd, stròc no call cuimhne. Tha comharran a' gabhail a-steach srannd àrd agus faireachdainn sgìth tron latha, agus chan eil fios aig mòran dhaoine gu bheil e aca. Tha Coimisean Lancet a' toirt cunntas air ath-sgrùdadh de 11 sgrùdaidhean anns an robh timcheall air 43% de chunnart nas àirde trom-inntinn aig daoine le apnea cadail. Ach cha tug ach glè bheag de na sgrùdaidhean sin aire do chuideam, agus mar sin chan eil an ceangal cinnteach.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Faodar apnea cadail a dhearbhadh agus a làimhseachadh. Tha an NIA a' toirt fa-near gu bheil inneal CPAP cha mhòr an-còmhnaidh a' cuideachadh. Ma bhios srannd àrd ort fhèin no air an neach air a bheil thu a' toirt cùram, ma stadas an anail rè cadail, no ma tha iad glè sgìth tron latha, innis do dhotair.
 
-## A note about sleep medicines
+## Nòta mu chungaidhean-leigheis cadail
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Chan eil sinn a' toirt comhairle mu chungaidhean-leigheis no stuthan-leasachaidh cadail. Tha an NIA a' toirt fa-near gum faod cungaidhean-leigheis cadail cuideachadh airson ùine ghoirid ach nach eil iad nan leigheas air iomagain cadail. Tha e cuideachd a' toirt fa-near gum faod cuid de chungaidhean-leigheis a bheirear gus daoine le Alzheimer a chuideachadh a chadal an cunnart de lathadh, tuiteaman is troimh-chèile a mheudachadh. Na tòisich, na stad is na atharraich cungaidh-leigheis cadail sam bith, a' gabhail a-steach taic-cadail gun òrdugh, gun bruidhinn ri dotair no bùth-chungaidhean an toiseach.
 
-## Talk with a doctor
+## Bruidhinn ri dotair
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Faic dotair ma tha thu fhèin no an neach air a bheil thu a' toirt cùram an-còmhnaidh sgìth, ma tha duilgheadas cadail ann a' mhòr-chuid de dh'oidhcheannan, ma tha srannd àrd ann, no ma tha stadan san anail tron oidhche. Ma mhaireas duilgheadasan cadail ann an trom-inntinn, tha an [NIA a' comhairleachadh](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) comhairle mheidigeach a shireadh. Faodaidh sgrùdadh adhbharan leithid pian, eas-òrdugh cadail eile, tinneas no fo-bhuaidh cungaidh-leigheis a lorg. Tha feum air cùram èiginneach ma tha troimh-chèile obann ann, no atharrachadh obann ann an cadal còmhla ri troimh-chèile. Leugh [cuin a bu chòir dotair fhaicinn](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Is e fiosrachadh coitcheann a tha san duilleag seo, chan e comhairle mheidigeach. Faic ar [àicheadh mheidigeach](/medical-disclaimer/).

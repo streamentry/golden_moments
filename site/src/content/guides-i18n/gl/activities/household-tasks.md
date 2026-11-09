@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Tarefas do fogar como actividades para demencia"
+seoTitle: "Actividades do fogar para demencia: tarefas cotiás"
+description: "Dobrar, ordenar, poñer a mesa e cociñar algo sinxelo poden ser actividades con sentido. Como preparalas, adaptalas e facelas con seguridade."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  As tarefas cotiás, como dobrar toallas, emparellar calcetíns, poñer a mesa,
+  limpar unha superficie, regar plantas ou axudar a cociñar algo sinxelo,
+  poden darlle á persoa que vive con demencia unha forma real de axudar.
+  Escolla tarefas que coñeza, divídaas nun paso de cada vez, retire perigos
+  como obxectos cortantes ou calor, e valore participar máis ca facelo «ben».
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "As tarefas familiares poden axudar a que a persoa se sinta útil e parte do fogar, o que moitas veces importa máis ca o ben que se faga o traballo."
+  - "Divida cada tarefa en pasos sinxelos, mostre en vez de explicar e fágase cargo con discreción de calquera paso que se volva difícil."
+  - "Garde baixo chave coitelos, produtos de limpeza e cápsulas de deterxente, e coloque protectores nos mandos da cociña ou un sistema de apagado automático antes de cociñar xuntos."
+  - "Non fai falta volver dobrar as toallas diante da persoa. Se ten que refacer algo, fágao máis tarde e sen que ela o vexa."
+  - "Se unha tarefa causa frustración, pase a un paso máis doado, próbea noutro momento ou simplemente estean xuntos."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "En que tarefas do fogar pode seguir axudando unha persoa con demencia?"
+    a: "Moitas persoas aínda poden dobrar a roupa, emparellar calcetíns, ordenar os cubertos, poñer a mesa, limpar unha superficie, quitar o po, varrer, regar plantas ou remover unha masa. Escolla tarefas que a persoa facía antes e adápteas ao que pode facer agora. Nas fases máis avanzadas, un só movemento repetido, como alisar as servilletas, pode ser abondo."
+  - q: "É seguro que unha persoa con demencia axude na cociña?"
+    a: "Pode ser, con supervisión atenta e unha boa preparación. Manteña fóra do alcance coitelos, produtos de limpeza e calquera cousa quente; use protectores nos mandos da cociña ou un sistema de apagado automático; e déalle á persoa unha tarefa segura, como lavar verduras, remover ou colocar os pratos. Nunca a deixe soa coa cociña acesa."
+  - q: "E se dobra as cousas mal ou fai un desastre?"
+    a: "Déixeo pasar. O obxectivo é pasar tempo xuntos e que a persoa se sinta útil, non conseguir un resultado perfecto. Se algo hai que refacelo de verdade, agarde a máis tarde e fágao cando a persoa non estea mirando, para que non se sinta corrixida."
+  - q: "E se non quere axudar?"
+    a: "Un non pode significar que a tarefa lle resulta agora demasiado difícil, confusa ou cansada. Non a apure. Probe unha versión máis sinxela, convídea a facerlle compaña ou vólvao pedir nun momento mellor do día."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Moitas persoas que viven con demencia pasaron décadas levando un fogar, criando unha familia ou mantendo a orde nun lugar de traballo. Pedirlles que axuden con tarefas reais pode dicirlles «aínda formas parte deste fogar» dunha forma que poucas actividades conseguen. Esta páxina explica que tarefas adoitan funcionar, como preparalas, como adaptalas cando as cousas cambian e como manter a cociña e a zona de lavado seguras.
 
-## Why do everyday chores work well as activities?
+## Por que funcionan ben as tarefas cotiás como actividades?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+As tarefas funcionan porque son familiares e teñen un propósito claro. O National Institute on Aging inclúe lavar a louza, poñer a mesa, varrer, quitar o po, ordenar o correo, dobrar a roupa e separar o reciclaxe entre as [actividades diarias que poden gustarlles ás persoas con alzhéimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). A Alzheimer's Association indica que tarefas como poñer a mesa poden axudar a que a persoa [se sinta unha parte valiosa do fogar](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Ademais, unha tarefa xa leva consigo unha razón para empezar. «Podes botarme unha man con estas toallas?» é máis doado de aceptar ca «Queres facer unha actividade?».
 
-## Which household tasks are good to try?
+## Que tarefas do fogar pode probar?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Comece por tarefas que a persoa facía antes e adápteas ao que pode facer hoxe.
 
-### Laundry and linens
+### Roupa e roupa de casa
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Dobrar toallas e panos.** Déalle unha cesta con pezas pequenas e planas. As toallas son fáciles: non hai unha única forma correcta de dobralas.
+- **Emparellar calcetíns.** Poña unha pila mesturada sobre a mesa. Se lle custa atopar os pares, use só dúas ou tres cores moi distintas.
+- **Alisar e amorear.** Pode alisar e amorear servilletas, fundas de almofada ou panos de cociña. Isto adoita ir ben máis adiante, cando dobrar xa supón demasiados pasos.
 
-### Table and kitchen
+### Mesa e cociña
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Poñer a mesa.** Prepare un servizo como modelo e deixe que a persoa o copie. Se é demasiado, déalle unha cousa de cada vez: «Aquí tes un garfo para cada prato».
+- **Ordenar os cubertos.** Mesture garfos, culleres e coitelos de untar limpos nun recipiente e sepáreos nun bandexo con divisións. Deixe fóra os coitelos afiados.
+- **Secar a louza.** A louza de plástico ou irrompible e un pano suave fan desta unha tarefa segura.
+- **Limpar a mesa ou a bancada.** Un pano húmido e unha superficie libre. A Alzheimer's Association suxire ofrecer un pano se alguén xa está a fregar a mesa coa man, para converter un movemento inquieto nunha acción útil.
 
-### Around the house
+### Pola casa
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Quitar o po.** Un plumeiro suave e algunhas superficies estables, como unha mesa de centro ou unha estantería.
+- **Ordenar o correo.** Déalle publicidade e revistas para separar en pilas: gardar, reciclar, abrir máis tarde. Garde noutro sitio as facturas e os cheques de verdade.
+- **Separar o reciclaxe.** Latas, botellas e papel limpos en cubos separados.
+- **Varrer.** Unha vasoira pequena nun patio ou na cociña, se o equilibrio é estable.
+- **Regar plantas.** Unha regadeira pequena e lixeira e algunhas plantas ao seu alcance.
 
-### Simple cooking with supervision
+### Cociñar algo sinxelo con supervisión
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Cociñar pode traer lembranzas e sensacións agradables. O NIA suxire deixar que a persoa reúna ingredientes, mida, mesture e verta, ou simplemente lle conte a outra persoa como preparar unha receita favorita. Algunhas tarefas adecuadas son:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- lavar verduras ou froita
+- remover unha masa ou unha ensalada fría
+- romper follas de leituga
+- untar torradas con manteiga cun coitelo sen fío
+- colocar masa de galletas nunha bandexa
+- poñer ingredientes sobre unha pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Se medir se volve difícil, a Alzheimer's Association suxire que vostede remate de medir e despois lle pase outro paso, como remover.
 
-## How do I set up a chore so it goes well?
+## Como preparo unha tarefa para que vaia ben?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Escolla o momento axeitado.** Elixa unha parte do día na que a persoa adoite estar descansada e tranquila. Para moitas persoas, é pola mañá.
+2. **Despexar o espazo.** Unha tarefa, unha superficie e nada máis sobre a mesa.
+3. **Convide, non ordene.** «Viríame ben unha man con isto» adoita funcionar mellor ca «É hora de dobrar a roupa».
+4. **Mostre o primeiro.** Dobre unha toalla amodo e despois déalle a seguinte. Mostrar é máis claro ca explicar.
+5. **Dea un paso de cada vez.** Demasiadas indicacións xuntas poden resultar abafadoras. Agarde a que remate un paso antes de nomear o seguinte.
+6. **Fagano xuntos, lado a lado.** Facer a mesma tarefa un ao carón do outro dá sensación de compaña, non de vixilancia.
+7. **Fale da tarefa, non do resultado.** «Que suaves son» ou «Como che gustaba ter o armario da roupa de casa?» convidan á conversa sen poñer a proba a ninguén.
 
-## How do I adapt chores as abilities change?
+## Como adapto as tarefas cando cambian as capacidades?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+As capacidades cambian co tempo e mesmo dun día para outro. A Alzheimer's Association suxire ir cara a tarefas máis sinxelas e repetitivas a medida que a enfermidade avanza.
 
-| If this has become hard | Try this instead |
+| Se isto se volveu difícil | Probe isto no seu lugar |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Dobrar sabas grandes | Dobrar panos ou alisar servilletas |
+| Poñer a mesa enteira | Colocar unha servilleta en cada sitio |
+| Ordenar o correo por categorías | Amorear os sobres nunha soa pila |
+| Seguir unha receita | Remover, ou mirar e probar mentres vostede cociña |
+| Varrer todo o chan | Limpar unha mesa pequena |
+| Facer a tarefa | Sentar con vostede e facerlle compaña mentres a fai |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Mirar tamén conta. O NIA indica que algunhas persoas simplemente gozan observando, e esa tamén é unha boa forma de participar.
 
-## How do I keep household tasks safe?
+## Como manteño seguras as tarefas do fogar?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+A seguridade vai primeiro, sobre todo na cociña. Os [consellos de seguridade no fogar para persoas que coidan de alguén con alzhéimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) do NIA inclúen:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Gardar baixo chave ou retirar os produtos de limpeza, incluídas as cápsulas de deterxente para a roupa, que poden parecer lambonadas.
+- Gardar coitelos, tesoiras e ferramentas eléctricas nun lugar pechado con chave.
+- Colocar protectores de seguridade nos mandos e un sistema de apagado automático na cociña.
+- Poñer sinais de «Parar» ou «Moi quente» preto do forno, a torradora e o ferro, colocados de xeito que non poidan prender.
+- Axustar o quentador de auga a 49 °C para reducir o risco de queimaduras.
+- Retirar froita artificial e imáns con forma de comida, que poden parecer comestibles.
 
-A few more practical habits help:
+Tamén axudan algúns hábitos prácticos:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Quédese na mesma habitación sempre que se estea a usar a cociña, o forno ou unha ferramenta cortante.
+- Use louza irrompible para secar e poñer a mesa.
+- Manteña o chan seco e libre de obxectos mentres varre ou friega.
+- Se a persoa usaba ferramentas antes, a Alzheimer's Association suxire retirar os obxectos perigosos do taller para que aínda poida gozar dunha tarefa segura, como lixar un anaco de madeira.
 
-## What if they do it "wrong"?
+## E se o fai «mal»?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Déixeo pasar. Unha toalla dobrada en tres partes en vez de en dúas segue sendo unha toalla dobrada. A Alzheimer's Association dío con claridade: o importante é pasar tempo xuntos e que a persoa se sinta útil, non se as toallas están dobradas do xeito perfecto. Se algo hai que refacelo de verdade, agarde a máis tarde e fágao sen que ela o vexa.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Corrixir no momento pode converter unha tarefa agradable nun recordatorio do que se perdeu. «Grazas, axúdame moito» case sempre é o máis axeitado.
 
-## When should we stop?
+## Cando debemos parar?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Pare ou cambie de tarefa cando vexa sinais de frustración, cansazo ou falta de interese. Rematar antes é un bo resultado, non un fracaso. Pode:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- pasar a un paso máis doado
+- cambiar a algo máis tranquilo, como música ou unha cunca de café
+- probalo máis tarde ou outro día
+- simplemente estar xuntos
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Se a persoa di que non, non a apure. Consulte [que facer cando di que non](/caregiving/when-they-say-no/) para ver formas amables de responder.
 
-## Low-effort extras for a quieter moment
+## Opcións sinxelas para un momento máis tranquilo
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Cando as tarefas físicas non son posibles, aínda se pode ordenar e emparellar sentados. [Sort Together](/games/sort-together/) permite tocar imaxes para poñelas en cestas da cociña ou do xardín, e [Picture Pairs](/games/picture-pairs/) é un xogo amable de emparellar con imaxes grandes e sen temporizador. [Conversation Cards](/games/conversation-cards/) ten preguntas abertas sobre o fogar e a familia que van ben cun café despois de rematar.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Para recibir axuda sobre como encaixar as tarefas no día, consulte a nosa guía para [unha rutina diaria tranquila](/activities/daily-routine/). Para ver máis ideas segundo a fase, consulte [actividades para fases intermedias](/activities/middle-stage/).

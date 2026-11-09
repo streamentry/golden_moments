@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Unha rutina diaria amable para unha persoa con demencia"
+seoTitle: "Rutina diaria con demencia: un día flexible"
+description: "Un día de exemplo flexible para unha persoa con demencia, con comidas, actividades e descanso nun ritmo estable, ademais de como crear a súa e adaptala nos días máis difíciles."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Unha rutina diaria amable mantén o espertar, as comidas, o coidado persoal e
+  a hora de durmir máis ou menos ás mesmas horas, sitúa a actividade principal
+  cando a persoa está máis esperta e equilibra a actividade co descanso.
+  Constrúaa a partir dos hábitos de sempre da persoa, mantéñaa flexible en
+  lugar de chea, procure luz do día e movemento cada día, e cambie o plan con
+  total liberdade cando o día o pida.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Horarios estables para o espertar, as comidas, o coidado e a hora de durmir danlle ao día unha forma familiar."
+  - "Coloque a actividade principal no mellor momento do día para a persoa, a miúdo pola mañá."
+  - "Non encha cada minuto. O descanso e o tempo de calma tamén forman parte da rutina."
+  - "A luz do día, o movemento diario e evitar sestas longas e cafeína a última hora poden axudar coa inquietude do final do día."
+  - "A rutina é unha guía, non unha norma. Cambie, acurte ou deixe calquera cousa nos días máis difíciles."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Por que pode ser útil unha rutina para unha persoa con demencia?"
+    a: "Un día previsíbel significa menos decisións e sorpresas, algo que moitas persoas que viven con demencia atopan tranquilizador. A Alzheimer's Association indica que un día planificado permite dedicar menos tempo a decidir que facer e máis tempo a cousas que lles gusten a ambos. Tamén axuda a quen coida a organizar o seu propio día."
+  - q: "Cal é un bo horario diario para unha persoa con demencia?"
+    a: "Non hai un único horario correcto. Un bo horario mantén o espertar, as comidas e a hora de durmir máis ou menos ás mesmas horas, sitúa o coidado persoal e a actividade principal cando a persoa está mellor, inclúe tempo ao aire libre ou preto dunha ventá e deixa espazo para o descanso. Constrúao arredor de como a persoa viviu sempre."
+  - q: "Debe durmir a sesta durante o día unha persoa con demencia?"
+    a: "Un descanso curto pode axudar, sobre todo despois de xantar. O National Institute on Aging suxire evitar as sestas longas e durmir a última hora do día, xa que estar moi canso ou descansar mal pode aumentar a inquietude do final do día. Se o sono é un problema real, fale co seu médico."
+  - q: "E se se nega a seguir a rutina?"
+    a: "Déixeo por agora e ténteo de novo máis tarde ou doutra maneira. Negarse pode significar que está cansa, que non se atopa ben, que ten dor ou simplemente que non está lista. A rutina existe para facilitar o día, así que adáptea en lugar de forzala."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Unha rutina amable dálle ao día unha forma familiar: levantarse, comer, facer unha pequena actividade, descansar e ir para a cama máis ou menos ás mesmas horas. Reduce as decisións e as sorpresas, e dálle un plan para os momentos nos que, se non, estaría a pensar que facer a continuación. A rutina de abaixo é un exemplo, non unha norma. Úsea como punto de partida e adáptea á persoa da que coida.
 
-## Why does a daily routine help?
+## Por que axuda unha rutina diaria?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Unha rutina estable axuda porque os patróns familiares son máis doados de seguir ca os novos. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) indica que un día planificado significa menos tempo dedicado a decidir que facer e máis tempo para actividades agradables, e sinala que horarios regulares para espertar e ir durmir poden axudar cos problemas de sono e coa inquietude do final do día. O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suxire bañarse, vestirse e comer ás mesmas horas cada día como parte dun fogar tranquilo, e a [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tamén recomenda manter as mesmas rutinas.
 
-## A sample gentle day
+## Un exemplo de día amable
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Os horarios son só exemplos. Adiante ou atrase todo o día para que coincida co ritmo propio da persoa.
 
-| Time | What happens | Ideas | On a harder day |
+| Hora | Que acontece | Ideas | Nun día máis difícil |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 | Espertar, asearse, vestirse | A mesma orde cada día; deixe a roupa preparada na orde en que se pon | Manteña o coidado sinxelo; unha camisa limpa abonda |
+| 8:45 | Almorzo | Café e o xornal lido en voz alta, ou a radio | Coman xuntos con calma, sen presión para falar |
+| 9:30 | Actividade principal | Dobrar a roupa, cociñar algo no forno, traballar no xardín, unha saída curta ou un paseo | Unha versión máis curta, ou déixea ver como o fai vostede |
+| 10:30 | Tempo de calma | Música, un álbum de fotos ou sentar xunto a unha ventá | Descansar nunha cadeira favorita |
+| 11:00 | Axudar co xantar | Lavar verduras, poñer a mesa | Vostede cociña; a persoa faille compañía |
+| 12:00 | Xantar e recoller | Limpar a mesa, secar algúns pratos | Deixe as tarefas |
+| 13:00 | Descanso curto | Pés en alto, música suave | Igual |
+| 14:00 | Saír ou moverse | Paseo, tempo no soportal, regar as plantas, lanzar un globo | Sentar xunto a unha ventá soleada |
+| 15:00 | Tempo social ou creativo | Unha visita, unha chamada, [parellas de imaxes](/games/picture-pairs/), colorear, cartas | Unha bebida e un petisco xuntos |
+| 16:30 | Momento de acougo | Pechar as cortinas, acender as luces, unha tarefa tranquila como dobrar panos | Música familiar, pouco ruído |
+| 17:30 | Cea | Axudar a remexer ou poñer a mesa | Comida sinxela e familiar |
+| 18:30 | Tarde xuntos | Lembrar momentos tomando a sobremesa, cartas, un programa favorito, unha masaxe nas mans | Compañía tranquila |
+| 20:00 | Rutina para ir durmir | Baño ou aseo, pixama, música suave, luces baixas | Acúrteo todo; primeiro o benestar |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Este exemplo segue a estrutura do plan de mostra da propia Alzheimer's Association para as fases inicial e intermedia, que vai desde o coidado persoal e o almorzo, pasando por tarefas, paseos, música, descanso e visitas, ata a cea, os recordos e prepararse para durmir.
 
-## How do you build your own routine?
+## Como crear a súa propia rutina?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Comece por como a persoa viviu sempre, non por unha táboa. A Alzheimer's Association suxire pensar nestas cousas antes de planificar:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Os seus gustos, desgustos, puntos fortes e intereses.**
+- **Como adoitaba pasar o día.** Unha persoa madrugadora que sempre paseaba o can aínda debería pasear cedo. Unha persoa máis nocturna pode que nunca disfrute empezar ás 8:00.
+- **O seu mellor momento do día.** Sitúe aí o aseo, as saídas e a actividade principal.
+- **Tempo abondo** para as comidas, o aseo e vestirse, para que nada se faga con présa.
+- **Horarios regulares** para espertar e ir durmir.
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+A mesma fonte suxire incluír unha mestura de tarefas da casa, comidas, coidado persoal, actividades creativas, actividade física, tempo social, actividade espiritual e momentos espontáneos, como a visita dun amigo.
 
-### Try it for a week, then adjust
+### Próbea durante unha semana e logo axústea
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Tome unha nota sinxela cada día. A Alzheimer's Association suxire preguntarse que actividades funcionaron mellor e por que, se houbo momentos con demasiada actividade ou con moi pouco que facer, e se os plans espontáneos resultaron agradables ou causaron preocupación. Quede co que funciona e cambie o que non.
 
-### Make it visible
+### Fágaa visible
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Se a persoa aínda pode ler, un encerado ou unha tarxeta con letra grande co plan do día pode resultar tranquilizador. Manteña o plan curto: «Almorzo. Paseo con Sara. Xantar. Descanso». Algunhas persoas están mellor sen saber os plans con moita antelación; a Family Caregiver Alliance suxire non falar dos plans ata xusto antes de que ocorran se lle causan preocupación.
 
-## How to adapt the routine
+## Como adaptar a rutina
 
-### Leave room to breathe
+### Deixe espazo para respirar
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Non encha cada minuto. A Alzheimer's Association subliña que a persoa necesita un equilibrio entre actividade e descanso, e pode necesitar pausas máis frecuentes. Se parece aburrida, distraída ou irritable, cambie de actividade ou descanse.
 
-### Protect the late afternoon
+### Coide a última hora da tarde
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Moitas persoas póñense máis inquietas cando baixa a luz do día. O NIA suxire pasar tempo ao aire libre ou xunto a unha ventá para recibir luz solar cada día, manterse activa cada día sen planificar demasiado, evitar a cafeína e o alcohol a última hora do día, e evitar as sestas longas a última hora do día. Algunhas familias tamén notan que axuda pechar as cortinas e acender as luces antes do luscofusco. Consulte [a inquietude do final do día](/caregiving/late-day-restlessness/) e [o sono](/brain-health/sleep/).
 
-### Change it as needs change
+### Cámbiea a medida que cambian as necesidades
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Fase inicial:** planifique a rutina xuntos. A persoa pode querer un horario escrito que ela mesma xestione.
+- **Fase intermedia:** vostede guía máis. Actividades máis curtas, máis descanso e moitas tarefas familiares; consulte [actividades para a fase intermedia](/activities/middle-stage/).
+- **Fase avanzada:** a rutina céntrase no benestar, nas comidas e no coidado, con pequenos momentos sensoriais como música ou unha masaxe nas mans entre medias; consulte [actividades para a fase avanzada](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Varíe as actividades, non o marco
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Manteña estables as comidas, o descanso e a hora de durmir, e rote as actividades de entre medias. O [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suxire probar actividades diferentes en días distintos para manter o interese. Pode cociñar algo no forno o luns, traballar no xardín o martes e mirar fotos o mércores. As nosas [101 ideas de actividades](/activities/ideas/) e as [tarefas da casa](/activities/household-tasks/) poden encher eses espazos.
 
-## When the day goes sideways
+## Cando o día non sae como estaba previsto
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Algúns días non seguirán ningún plan. Unha enfermidade, unha mala noite, a visita do médico ou un cambio no tempo poden descolocar todo. Deixe o plan, manteña o básico (comida, bebida, descanso, benestar) e ténteo de novo mañá. Se a persoa se nega a facer algo, consulte [cando di que non](/caregiving/when-they-say-no/). Unha pausa de respiración lenta xuntos, como [respiración tranquila](/games/calm-breathing/), pode axudarvos a ambos a volver á calma.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+A súa propia rutina tamén importa. Inclúa pausas para vostede e pida á familia ou a un servizo de respiro que cubra tempos libres regulares. Consulte [o coidado de quen coida](/caregiving/caregiver-self-care/).

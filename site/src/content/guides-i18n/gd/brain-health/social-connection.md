@@ -1,32 +1,34 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Ceangal Sòisealta agus Slàinte na h-Eanchainn"
+seoTitle: "Uaigneas, Aonaranachd agus Cunnart Trom-inntinn"
+description: "Mar a tha uaigneas is aonaranachd co-cheangailte ri cunnart trom-inntinn, na thuirt comhairle an Àrd-lighiche-shlàinte, is dòighean sìmplidh air ceangal a chumail."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Tha rannsachadh a’ ceangal aonaranachd shòisealta agus uaigneas nas anmoiche nam beatha ri
+  cunnart nas àirde trom-inntinn. Tha Coimisean Lancet 2024 a’ dèanamh tuairmse gu bheil mu 5%
+  de chùisean co-cheangailte ri aonaranachd, ged a dh’fhaodadh cuid den cheangal a bhith air sgàth
+  trom-inntinn thràth a tha a’ toirt air daoine tarraing air ais. Tha cumail an conaltraidh,
+  cur-seachadan co-roinnte agus taic le claisneachd uile a’ cuideachadh le ceangal. Dha daoine a
+  tha a’ fuireach le trom-inntinn, tha gnìomhan co-roinnte cudromach airson tlachd agus càileachd
+  beatha.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Tha Coimisean Lancet a’ liostadh aonaranachd shòisealta nas anmoiche nam beatha mar aon de 14 factaran cunnairt trom-inntinn a ghabhas atharrachadh, aig mu 5% de chùisean."
+  - "Cheangail comhairle Àrd-lighiche-shlàinte nan Stàitean Aonaichte ann an 2023 uaigneas is aonaranachd leantainneach ri mu 50% a bharrachd cunnairt trom-inntinn ann an inbhich nas sine."
+  - "Tha a’ mhòr-chuid den fhianais seo stèidhichte air sgrùdaidhean amharc, agus faodaidh trom-inntinn thràth fhèin toirt air daoine tarraing air ais."
+  - "Tha duilgheadasan claisneachd is lèirsinn, a bhith a’ fuireach nad aonar agus cùram a thoirt a’ meudachadh cunnart aonaranachd."
+  - "Dha daoine a tha a’ fuireach le trom-inntinn, tha gnìomhan tlachdmhor co-roinnte a’ toirt taic do chàileachd beatha; is e ceangal an t-amas, chan e coileanadh."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "A bheil uaigneas ag adhbhrachadh trom-inntinn?"
+    a: "Cha deach sin a dhearbhadh. Tha mòran sgrùdaidhean a’ ceangal uaigneas is aonaranachd ri cunnart nas àirde trom-inntinn, ach faodaidh atharrachaidhean tràtha san eanchainn cuideachd toirt air daoine tarraing air ais bho chàch. Tha iomadh buannachd eile aig cumail an conaltraidh airson sunnd is slàinte, agus mar sin tha e luachmhor taic a thoirt co-dhiù."
+  - q: "Dè an diofar eadar uaigneas agus aonaranachd shòisealta?"
+    a: "Tha aonaranachd shòisealta a’ ciallachadh nach eil ach beagan dhaoine ann airson conaltradh cunbhalach. Is e uaigneas am faireachdainn ghoirt a bhith nad aonar no air do ghearradh air falbh. Faodaidh tu fuireach nad aonar gun a bhith a’ faireachdainn uaigneach, no a bhith a’ faireachdainn uaigneach am measg dhaoine."
+  - q: "Ciamar as urrainn dhomh cuideachadh le pàrant le trom-inntinn gus ceangal a chumail?"
+    a: "Bidh conaltradh goirid is cunbhalach ag obair gu math. Feuch gairm no gairm bhidio sheachdaineil stèidhichte, gnìomh co-roinnte aig bòrd a’ chidsin, cafaidh cuimhne, no tadhal le peata no ogha. Cùm buidhnean beaga is sàmhach, agus leig leis an neach an astar fhèin a shuidheachadh."
+  - q: "Càite am faigh mi taic ionadail do inbheach nas sine a tha aonaranach?"
+    a: "Tha an Eldercare Locator, seirbheis phoblach, a’ ceangal theaghlaichean ri buidhnean ionadail air aosda agus prògraman coimhearsnachd. Gheibhear e aig 800-677-1116 no aig eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +56,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Tha daoine air an dèanamh airson companas, agus chan eil sin ag atharrachadh le aois. Tha rannsachadh a’ ceangal uaigneas is aonaranachd shòisealta nas anmoiche nam beatha ri cunnart nas àirde trom-inntinn, a bharrachd air tinneas cridhe is trom-inntinn-inntinn. Chan urrainn don rannsachadh fhathast a ràdh dè an ìre den cheangal seo a tha mar adhbhar is buil. Tha an duilleag seo a’ mìneachadh na tha an fhianais a’ sealltainn, dòighean practaigeach air ceangal a chumail, agus carson a tha gnìomhan co-roinnte cho cudromach dha daoine a tha mar-thà a’ fuireach le trom-inntinn.
 
-## Are loneliness and isolation linked with dementia?
+## A bheil uaigneas is aonaranachd co-cheangailte ri trom-inntinn?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Tha, tha mòran sgrùdaidhean gan ceangal, ged nach eil an t-slighe gu tur soilleir. Tha [Coimisean Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) a’ liostadh aonaranachd shòisealta nas anmoiche nam beatha mar aon de 14 factaran cunnairt a ghabhas atharrachadh. Tha [geàrr-chunntas UCL den aithisg](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) a’ cur sin aig mu 5% de chùisean trom-inntinn air feadh an t-saoghail.
 
-What the evidence shows:
+Na tha an fhianais a’ sealltainn:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Nas lugha de chonaltradh, cunnart nas àirde.** Tha an Coimisean a’ toirt iomradh air dà ath-sgrùdadh a cheangail conaltradh sòisealta nach robh cho tric ri cunnart nas àirde trom-inntinn. Lorg aon dhiubh mu 57% a bharrachd cunnairt agus am fear eile mu 18%.
+- **Uaigneas cuideachd.** Bha uaigneas, am faireachdainn a bhith air do ghearradh air falbh, cuideachd co-cheangailte ri cunnart nas àirde trom-inntinn thar grunn ath-sgrùdaidhean.
+- **Sealladh an Àrd-lighiche-shlàinte.** Anns a’ Chèitean 2023, chuir Àrd-lighiche-shlàinte nan Stàitean Aonaichte a-mach [comhairle mu uaigneas is aonaranachd](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Tha i ag ràdh gum faod uaigneas is aonaranachd leantainneach an cunnart trom-inntinn a thogail mu 50% ann an inbhich nas sine. Cheangail i cuideachd droch cheangal sòisealta ri cunnart 29% nas àirde de thinneas cridhe agus cunnart 32% nas àirde de bhuille.
+- **Dè cho cumanta ’s a tha e.** Lorg [aithisg de na h-Acadamaidhean Nàiseanta](https://www.ncbi.nlm.nih.gov/books/NBK557972/) gu bheil timcheall air 24% de dh’Ameireaganaich aois 65 is nas sine a tha a’ fuireach sa choimhearsnachd aonaranach gu sòisealta.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Rabhadh cudromach: tha Coimisean Lancet ag innse gum faod daoine gearradh air ais air gnìomhan sòisealta aig ìre thràth, gun a bhith air a dhearbhadh, de throm-inntinn. Tha sin a’ ciallachadh gum faodadh cuid den cheangal a bhith mar thoradh air trom-inntinn a tha ag adhbhrachadh tarraing air ais, chan ann a-mhàin tarraing air ais a’ togail cunnairt. Tha cha mhòr a h-uile fianais seo a’ tighinn bho sgrùdaidhean amharc.
 
-## What is the difference between loneliness and isolation?
+## Dè an diofar eadar uaigneas agus aonaranachd?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Tha an [Institiud Nàiseanta air Aosda (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) a’ mìneachadh mar seo. Tha **aonaranachd shòisealta** a’ ciallachadh nach eil ach beagan cheanglaichean sòisealta no beagan dhaoine ann airson conaltradh cunbhalach. Is e **uaigneas** am faireachdainn thrist a bhith nad aonar no air do sgaradh. Faodaidh cuideigin fuireach nad aonar gu toilichte, agus faodaidh cuideigin a bhith a’ faireachdainn uaigneach ann an seòmar làn.
 
-The NIA lists factors that raise the risk of both:
+Tha an NIA a’ liostadh nithean a tha a’ togail cunnart an dà chuid:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Duilgheadasan claisneachd no lèirsinn
+- Duilgheadas le gluasad, no gun chòmhdhail
+- A bhith a’ fuireach nad aonar, no call mòr leithid bàs cèile no cluaineas
+- Atharrachaidhean cuimhne no smaoineachaidh
+- A bhith a’ toirt cùram do neach gaoil a tha tinn
+- Draghan airgid no cnapan-starra cànain
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Tha claisneachd gu sònraichte cudromach. Tha an NIA ag innse gum faod daoine nach cluinn gu math tarraing air ais leis gu bheil còmhradh a’ fàs frionasach no nàrach. Tha an [stiùireadh againn air claisneachd is slàinte na h-eanchainn](/brain-health/hearing/) a’ dèiligeadh ri sgrùdaidhean claisneachd agus innealan-claisneachd thar-chunntair.
 
-## Practical ways to stay connected
+## Dòighean practaigeach air ceangal a chumail
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Tha an NIA a’ moladh grunn bheachdan. Tagh aon no dhà a tha freagarrach dhut:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Cuir conaltradh cunbhalach air dòigh.** Àm stèidhichte gach latha no gach seachdain airson fònadh, teacsadh, post-d no cairt a chur gu teaghlach, caraidean no nàbaidhean.
+- **Cleachd gairmean bhidio no luchd-labhairt spaideil.** Ma tha teicneòlas ùr dhut, bidh mòran leabharlannan poblach is ionadan coimhearsnachd a’ tabhann chlasaichean. Faic an [stiùireadh againn air gairmean fòn is bhidio](/activities/phone-and-video-calls/).
+- **Gabh pàirt ann an rudeigin.** Bheir clas, coimhearsnachd creideimh, cluba coiseachd no obair shaor-thoileach conaltradh dhut agus faireachdainn adhbhair.
+- **Tòisich air seann chur-seachad a-rithist** no ionnsaich fear ùr còmhla ri daoine eile.
+- **Gluais còmhla ri càch.** Dèan eacarsaich le caraid no buidheann. Tha roghainnean socair san [stiùireadh againn air eacarsaich](/brain-health/exercise/).
+- **Smaoinich air peata** ma’s urrainn dhut cùram a thoirt dha.
+- **Cleachd seirbheisean ionadail.** Faodaidh ionadan do sheann daoine, Buidhnean Sgìreil air Aosda agus an Eldercare Locator (800-677-1116) do stiùireadh gu prògraman is còmhdhail.
 
-## Why do shared activities matter in dementia?
+## Carson a tha gnìomhan co-roinnte cudromach ann an trom-inntinn?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Do chuideigin a tha mar-thà a’ fuireach le trom-inntinn, tha ceangal mu thlachd, comhfhurtachd agus a bhith a’ faireachdainn gun tèid gabhail ris, chan ann mu bhith a’ lùghdachadh cunnairt. Tha Coimisean Lancet ag ràdh gu bheil gnìomhan a’ cuideachadh dhaoine le trom-inntinn tlachd is adhbhar a chumail. Tha [Comann Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) ag innse, a bharrachd air càileachd beatha a leasachadh, gum faod gnìomhan giùlan leithid siubhal gun rùn no mì-shuaimhneas a lùghdachadh. Tha an [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a’ cur ris gu feum daoine le galar Alzheimer a bhith gnìomhach agus rudan a tha a’ còrdadh riutha a dhèanamh.
 
-Ideas that work well:
+Beachdan a tha ag obair gu math:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Coimhead air dealbhan còmhla.** Tha [Conversation Cards](/games/conversation-cards/) a’ tabhann bhrosnachaidhean fosgailte, gun cheistean, leithid “Innis dhomh mu…” Faic an [stiùireadh againn air cuimhneachadh](/activities/reminiscence/).
+2. **Cluich taobh ri taobh.** Bidh [Picture Pairs](/games/picture-pairs/) a’ cumail dhealbhan ri fhaicinn agus chan eil tìmear no sgòr ann, agus mar sin chan eil cuideam ann. Tha molaidhean san stiùireadh againn air [mar a chluicheas sibh còmhla](/caregiving/how-to-play-together/).
+3. **Cleachd dealbhan teaghlaich.** Bidh [Photo Pairs](/games/photo-pairs/) a’ tionndadh dhealbhan a thaghas tu gu geama maidseadh, agus bidh na dealbhan a’ fuireach air an inneal agad.
+4. **Thoir daoine còmhla.** Bidh [Picture Bingo](/games/picture-bingo/) ag obair airson cruinneachaidhean teaghlaich agus [buidhnean ann an dachaighean cùraim](/activities/care-home-groups/).
+5. **Co-roinn ceòl, obair-taighe no an gàrradh.** Faic [gnìomhan ciùil](/activities/music/), [obair-taighe](/activities/household-tasks/) agus an liosta slàn againn de [bheachdan gnìomh](/activities/ideas/).
+6. **Dèan tadhal nas fhasa.** Tha an [stiùireadh againn air tadhal](/activities/visiting/) a’ dèiligeadh ri tursan goirid, sàmhach a tha math don a h-uile duine.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Cùm e beag is socair. Bidh seòmar sàmhach le aon no dithis gu tric nas fheàrr na buidheann mhòr. Ma dh’fhàsas an neach sgìth no ma chailleas iad ùidh, tha e ceart gu leòr stad. Tha suidhe còmhla le cupa tì na thoradh math cuideachd.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Do chuideigin a tha a’ fuireach le trom-inntinn na aonar, tha an NIA a’ moladh neach earbsach a lorg a bheir tadhal no a nì gairm bhidio gu cunbhalach agus a bhios mar neach-conaltraidh èiginn. Tha iad cuideachd a’ toirt iomradh air cafaidh cuimhne ionadail, àite sòisealta socair do dhaoine le call cuimhne agus an teaghlaichean.
 
-## Caregivers get lonely too
+## Bidh luchd-cùraim a’ faireachdainn uaigneach cuideachd
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Tha an NIA a’ liostadh cùram do neach gaoil mar fhactar cunnairt airson aonaranachd. Dìon beagan ùine airson do chàirdeas fhèin, buidhnean taic agus fois. Tha beachdan practaigeach san [stiùireadh againn air fèin-chùram luchd-cùraim](/caregiving/caregiver-self-care/).
 
-## Talk with a doctor
+## Bruidhinn ri dotair
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ma tha thu fhèin no cuideigin air a bheil thu a’ toirt cùram a’ faireachdainn uaigneach no aonaranach gu tric, innis do dhotair. Tha an NIA a’ brosnachadh dhaoine gus atharrachaidhean beatha mòra a roinn, leithid bàs san teaghlach, gus am bi an dealbh slàn aig an dotair. Faodaidh faireachdainn ìosal fad sheachdainean a bhith mar throm-inntinn-inntinn, a ghabhas làimhseachadh. Ma tha inbheach nas sine air tarraing air ais o chàirdean no gnìomhan a bha a’ còrdadh riutha roimhe, tha e math sin a ràdh ri dotair cuideachd. Leugh [comharran tràtha agus cuin a bu chòir dotair fhaicinn](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Tha am fiosrachadh air an duilleag seo coitcheann, chan e comhairle mheidigeach a th’ ann. Faic an [àicheadh mheidigeach againn](/medical-disclaimer/).

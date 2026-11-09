@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Nuair a dhiúltaíonn duine le néaltrú do ghníomhaíocht"
+seoTitle: "Nuair a dhiúltaíonn duine le néaltrú gníomhaíocht"
+description: "Cén fáth a bhféadfadh duine atá ag maireachtáil le néaltrú diúltú do ghníomhaíocht nó éirí frustrach, cad is féidir a thriail, cad ba chóir a sheachaint, agus cathain a theastaíonn dochtúir."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Nuair a deir duine le néaltrú « níl », glac leis go socair agus bain triail
+  eile as ar ball nó tairg rud éigin difriúil. Is minic go mbíonn cúis leis an
+  diúltú: mothaíonn an tasc ró-dheacair nó ró-leanaíúil, tá an duine tuirseach,
+  i bpian, ocrach, nó ró-ualaithe ag torann. Ná hargóint agus ná seas air. Déan
+  an ghníomhaíocht níos simplí, tairg dhá rogha, nó iarr cabhair air. Má
+  thagann athrú tobann nó mear ar an iompar, go háirithe tar éis ionfhabhtaithe
+  nó cógas nua, ba chóir dul chuig dochtúir gan mhoill.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Is freagra é « níl » ar chóir meas a bheith air, ní fadhb le sárú."
+  - "Is gnách go mbíonn cúis leis an diúltú: ró-dheacair, ró-leanaíúil, tuirse, easláinte, míchompord, nó an iomarca spreagthaí."
+  - "Tarraing siar, fan, agus bain triail eile as ar ball, ag am difriúil, nó le leagan níos simplí."
+  - "Oibríonn sé níos fearr cabhair a iarraidh ná iarraidh ar an duine feidhmíocht a thabhairt."
+  - "Ná hargóint, ná seas air, ná cuir ceisteanna, ná ceartaigh. Smaoinigh an bhfuil tú ag brostú nó ag cur brú air."
+  - "Ba chóir athrú tobann nó mear ar iompar, go háirithe le hionfhabhtú nó cógais nua, a chur faoi bhráid dochtúra láithreach."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "An bhfuil sé ceart go leor ligean dóibh gníomhaíochtaí a scipeáil go hiomlán?"
+    a: "Tá, ar aon lá ar leith. Is leor uaireanta suí le chéile, éisteacht le ceol nó féachaint ar an saol thart oraibh. Má stopann duine ag baint taitnimh as gach rud le linn seachtainí, luaigh é lena dhochtúir, mar d’fhéadfadh giúmar íseal, pian nó fadhbanna sláinte eile a bheith bainteach leis."
+  - q: "Cén fáth a ndiúltaíonn siad do rudaí a thaitin leo roimhe seo?"
+    a: "Is féidir le seanchaitheamh aimsire éirí frustrach nuair a theastaíonn scileanna uaidh atá níos deacra anois mar gheall ar an néaltrú, agus d’fhéadfadh náire a bheith ar an duine. Bain triail as cuid níos simplí den ghníomhaíocht chéanna, mar shampla cnaipí a shórtáil in ionad fuála, nó breathnú ar phictiúir gharraí in ionad plandála."
+  - q: "Ar chóir dom iarracht a dhéanamh iad a chur ina luí?"
+    a: "Níor chóir. Is spreagthóir aitheanta míshuaimhnis é brú a chur ar dhuine rud a dhéanamh atá deacair anois mar gheall ar an néaltrú. Glac leis an diúltú, athraigh an t-ábhar, agus tairg arís é ar ball nó ar bhealach difriúil."
+  - q: "Cathain is éigeandáil é athrú iompair?"
+    a: "Cuir glaoch ar 112 nó 999 má tá duine i mbaol nó má tá comharthaí éigeandála leighis ann. Má thagann mearbhall tobann nó iompraíocht a athraíonn go tapa thar uaireanta nó laethanta, go háirithe le fiabhras, ionfhabhtú nó cógas nua, téigh i dteagmháil lena dhochtúir láithreach."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Ullmhaíonn tú gach rud, tairgeann tú cluiche nó siúlóid, agus cloiseann tú « Níl ». Nó tosaíonn an ghníomhaíocht go maith agus críochnaíonn sí le táibléad a bhrú ar leataobh agus focal géar. Is míspreagúil é, agus tá sé an-choitianta. Is minic gur teachtaireacht í diúltú nó frustrachas, ní ceannairce. Nuair a thuigeann tú cad is brí leis an teachtaireacht, is minic a léiríonn sé cad is féidir a thriail ina dhiaidh sin.
 
-## Why does someone with dementia refuse activities?
+## Cén fáth a ndiúltaíonn duine le néaltrú do ghníomhaíochtaí?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+De ghnáth bíonn cúis ann, fiú mura féidir leis an duine í a chur i bhfocail. Tugann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) le fios go bhféadfadh sé a chiallaíonn diúltú nach féidir leis an duine an tasc a dhéanamh nó go bhfuil eagla air triail a bhaint as. I measc na gcúiseanna coitianta tá:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Mothaíonn sé ró-dheacair.** Teastaíonn scileanna ón ngníomhaíocht anois atá deacair mar gheall ar an néaltrú, agus is náireach teip os comhair duine eile.
+- **Mothaíonn sé ró-leanaíúil.** Tugann daoine fásta faoi deara pictiúir chartúnacha, guthanna canta agus gníomhaíochtaí a fhéachann mar a bheadh siad déanta do pháistí.
+- **Tuirse.** Bíonn níos lú fuinnimh ag go leor daoine níos déanaí sa lá. Féach [gníomhaíochtaí socra tráthnóna déanach](/caregiving/late-day-restlessness/).
+- **Míchompord coirp.** Luann an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) pian, easpa codlata, deacracht radhairc nó éisteachta, constipation, ocras, tart agus fo-iarsmaí cógas nua mar chúiseanna féideartha le míshuaimhneas.
+- **An iomarca rudaí ag tarlú.** Is féidir le teilifís ard, roinnt comhráite nó seomra plódaithe a bheith ró-mhór.
+- **Mothú brúite.** Ainmníonn an NIA brú a chur ar dhuine rud a dhéanamh atá an-deacair anois mar gheall ar an Alzheimer, nó iarracht a dhéanamh imeachtaí nó daoine a chur i gcuimhne, mar chúis le míshuaimhneas.
+- **Giúmar íseal.** D’fhéadfadh sé a bheith ina chomhartha dúlagair má stopann duine ag baint suime as rudaí, agus is fiú é sin a lua le dochtúir.
+- **Níl fonn orthu go simplí.** Tá cead ag daoine fásta « níl » a rá.
 
-## What should I try when they say no?
+## Cad ba chóir dom a thriail nuair a deir siad « níl »?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Glac leis an diúltú go socair, ansin athraigh rud éigin: an t-am, an ghníomhaíocht, an deacracht nó an bealach a n-iarrann tú.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Lig dó imeacht anois.** « Tá sé sin ceart go leor. B’fhéidir ar ball. » Ansin bog ar aghaidh go rud éigin eile gan osna.
+2. **Bain triail eile as ar ball.** Molann an Alzheimer's Association triail eile a bhaint as ar ball, nó ag am difriúil den lá.
+3. **Déan níos lú de.** Cluiche amháin in ionad cluiche iomlán. Tuáille amháin in ionad an chiseáin níocháin. Níos lú pictiúr, níos lú roghanna, pictiúir fágtha le feiceáil.
+4. **Tairg dhá rogha.** « Ar mhaith leat breathnú ar na pictiúir éan nó éisteacht le roinnt ceoil? » Tugann rogha braistint rialaithe ar ais.
+5. **Iarr cabhair in ionad feidhmíochta.** « An bhféadfá cabhrú liom iad seo a shórtáil? » nó « An féidir leat a rá liom cén dath is fearr leat? » Mothaíonn sé an-difriúil a bheith úsáideach ná a bheith á thástáil.
+6. **Tosaigh tú féin é.** Tosaigh an ghníomhaíocht in aice leo gan iarraidh. Glacann go leor daoine páirt nuair a bhíonn rud éigin ag tarlú cheana féin, agus mura nglacann, tá am caite le chéile agaibh fós.
+7. **Athraigh go rud éigin fisiciúil nó suaimhneach.** Siúlóid ghearr, ceol, sneaic, níochán a fhilleadh, nó sos comhroinnte [análú socair](/games/calm-breathing/). Molann an NIA aird a atreorú chuig ceol, leabhar nó siúlóid.
+8. **Lig dóibh é a dhéanamh ar a mbealach féin.** Más mian leo imirt ar bhealach difriúil ná mar a deir na rialacha, téigh leis. Molann an Alzheimer's Association a bheith solúbtha.
 
-## What should I say when they get frustrated?
+## Cad ba chóir dom a rá nuair a éiríonn siad frustrach?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Moilligh, ísligh do ghlór agus tabhair deis. Molann [treoir an Alzheimer's Association maidir le míshuaimhneas](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) tarraingt siar agus cead a iarraidh, ráitis chiúine dhearfacha a úsáid, agus rogha threoraithe a thairiscint idir dhá rud. Frásaí sa spiorad sin:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- « Tá brón orm, tá an ceann seo cráite. Stopfaimis. »
+- « Tá tú ag déanamh go breá. Tá mé anseo leat. »
+- « An bhfuil am agat cabhrú liom le rud éigin eile? »
+- « An mbeadh cupán tae níos fearr? »
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Ansin cuir deireadh leis an ngníomhaíocht gan mórán a dhéanamh de. Tá tuilleadh faoin méid le rá inár [leideanna cumarsáide](/caregiving/communication-tips/).
 
-## What should I avoid?
+## Cad ba chóir dom a sheachaint?
 
-Some natural reactions tend to make things worse.
+Is minic a dhéanann roinnt frithghníomhartha nádúrtha cúrsaí níos measa.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Argóint nó seasamh air.** Is annamh a chabhraíonn « Déan iarracht amháin eile » nó « Is breá leat é seo ».
+- **Ceistiú nó ceartú.** Cuireann « Tá a fhios agat cad é seo » nó « Níl, tá an ceann sin mícheart » brú orthu.
+- **É a thógáil go pearsanta.** Meabhraíonn an NIA do chúramóirí gurb é an galar, ní an duine, is cúis leis na hathruithe seo.
+- **Plódú nó brostú.** Molann an Alzheimer's Association gan do ghlór a ardú, gan eagla a thaispeáint, gan an duine a chúinneáil, a phlódú, a shrianadh, a cháineadh, a neamhaird nó argóint a dhéanamh leo, agus gan gluaiseachtaí tobanna a dhéanamh as a radharc.
+- **Ciontacht a úsáid.** Fágann « D’ullmhaigh mé é seo ar fad duit » drochmhothú ar an mbeirt agaibh.
+- **Lipéadú.** Cuireann « ceanndána » nó « deacair » an fhíorchúis i bhfolach agus bíonn sé níos deacra í a réiteach.
 
-## How can I find out what is behind repeated refusals?
+## Conas is féidir liom a fháil amach cad atá taobh thiar de dhiúltuithe arís agus arís eile?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Coinnigh nóta simplí ar feadh seachtaine nó dhó. Deir an NIA gur féidir le hathruithe iompair a rianú cabhrú le cúramóirí agus le soláthraithe cúraim sláinte patrún a aithint agus an chúis a oibriú amach.
 
-Jot down:
+Scríobh síos:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- an t-am den lá;
+- cad a thairg tú agus conas a d’iarr tú;
+- cad a bhí ag tarlú timpeall oraibh (torann, cuairteoirí, teilifís);
+- conas a chodail, a d’ith agus a d’ól siad, agus cathain a chuaigh siad chuig an leithreas go deireanach;
+- aon chógais nua nó breoiteacht le déanaí.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Is minic a thagann patrúin chun solais go tapa: diúltuithe nach dtarlaíonn ach tar éis 4 p.m., ach le cluiche áirithe, nó ach nuair a bhíonn an teilifís ar siúl. Cuireann [treoir an Family Caregiver Alliance maidir le hiompar néaltrú](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) go simplí é: ní féidir linn an duine a athrú, ach is féidir linn ár n-iompar féin agus an timpeallacht a athrú.
 
-## When should I talk to a doctor about refusal or frustration?
+## Cathain ba chóir dom labhairt le dochtúir faoi dhiúltú nó frustrachas?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Labhair le dochtúir nuair a athraíonn an t-iompar go tobann, go tapa, nó in éineacht le comharthaí breoiteachta. Deir an NIA gur chóir athruithe tobanna nó luaineacha tapa ar iompar, go háirithe má bhí ionfhabhtú nó athruithe cógais le déanaí ag an duine, a chur faoi bhráid dochtúra láithreach.
 
-Contact their doctor promptly if you notice:
+Téigh i dteagmháil lena dhochtúir gan mhoill má thugann tú faoi deara:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- mearbhall tobann nó athrú mór thar uaireanta nó laethanta;
+- comharthaí pian, mar shampla griméis, cosaint ar chuid den chorp, nó deacracht nua le bogadh;
+- fiabhras nó comharthaí eile ionfhabhtaithe;
+- cógais nua nó athraithe agus athrú iompair ina dhiaidh;
+- cailliúint suime i mbeagnach gach rud, deora nó tarraingt siar a mhaireann níos mó ná cúpla seachtain;
+- diúltú bia nó deoch a ghlacadh.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Molann an Alzheimer's Association scrúdú míochaine críochnúil do dhuine ar bith a bhfuil comharthaí iompair air, go háirithe nuair a thagann siad chun cinn go tobann. Molann an Family Caregiver Alliance freisin seiceáil leis an dochtúir ar dtús, mar d’fhéadfadh cúis leighis a bheith le fadhbanna iompair. Ná tosaigh, ná stop, ná ná hathraigh aon chógas gan labhairt le dochtúir nó cógaiseoir.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Má tá aon duine i mbaol nó má tá comharthaí éigeandála leighis ann, cuir glaoch ar 112 nó 999. Molann an NIA a rá leis an oibritheoir go bhfuil néaltrú ar an duine.
 
-## Is it okay if we do nothing at all?
+## An bhfuil sé ceart go leor mura ndéanaimid aon rud ar chor ar bith?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Tá. Uaireanta is é an ghníomhaíocht is fearr ná gan aon ghníomhaíocht: suí le chéile, lámha a choinneáil, éisteacht le taifead is fearr leat, nó féachaint ar éin lasmuigh den fhuinneog. Ní teip é sin. Míníonn ár [dtreoir maidir le himirt le chéile](/caregiving/how-to-play-together/) cén fáth ar féidir gur é an rogha cheart é stopadh go luath, nó gan tosú ar chor ar bith.

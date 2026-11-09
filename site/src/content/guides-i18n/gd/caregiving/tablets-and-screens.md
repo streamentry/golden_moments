@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Suidheachadh tablaid no fòn do chuideigin le trom-inntinn"
+seoTitle: "Suidhich tablaid no fòn do chuideigin le trom-inntinn"
+description: "Ceum air cheum airson tablaid no fòn a shuidheachadh do chuideigin le trom-inntinn: glas gu aon aplacaid, teacsa nas motha, nas lugha de bhrathan, sgrion dachaigh sìmplidh, fuaim is prìobhaideachd."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Dèan tablaid no fòn nas sìmplidh mus toir thu seachad e. Glas e gu aon
+  aplacaid le Guided Access air iPad agus iPhone no app pinning air Android,
+  no cleachd Assistive Access aig Apple airson cruth nas sìmplidh. Dèan an
+  teacsa nas motha, cuir na brathan sàmhach, cùm dìreach beagan aplacaidean
+  air aon sgrion dachaigh, suidhich an fhuaim, cleachd seasamh, agus cuir
+  crìochan air ceadan aplacaidean. Cleachd e còmhla, an cois ghnìomhachdan
+  gun sgrion.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Bidh Guided Access (iPhone, iPad) agus app pinning (Android) a’ cumail an sgrion air aon aplacaid gus an fhuasgail thu e."
+  - "Tha Assistive Access aig Apple a’ tabhann cruth nas sìmplidh a chaidh a dhealbhadh do dhaoine le ciorraman inntinneil."
+  - "Dèan an teacsa nas motha agus cuir dheth brathan is priob-uinneagan gus nach cuir dad stad no troimh-chèile oirbh."
+  - "Cùm dìreach beagan aplacaidean air a bheil thu eòlach air aon sgrion dachaigh, agus suidhich an fhuaim mus tòisich thu."
+  - "Bidh seasamh agus àite cosgais nach gluais a’ dèanamh an inneal nas fhasa a chleachdadh agus a lorg."
+  - "Thoir sùil air ceadan aplacaidean agus roinneadh dàta: mar as trice chan eil HIPAA a’ dìon na tha air a stòradh air inneal pearsanta."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Ciamar a chuireas mi stad air cuideigin le trom-inntinn a bhith a’ fàgail aplacaid air iPad?"
+    a: "Cuir air Guided Access ann an Settings > Accessibility > Guided Access agus suidhich còd-pas. Fosgail an aplacaid, briog trì tursan air a’ phutan gu h-àrd (no am putan Home air seann iPads), agus tap air Start. Fuirichidh an iPad san aplacaid sin gus an cuir cuideigin a-steach an còd-pas."
+  - q: "Ciamar a ghlasas mi tablaid Android gu aon aplacaid?"
+    a: "Cuir air app pinning san aplacaid Settings, mar as trice fo Security (uaireannan Security & location) > Advanced > App pinning. An uairsin fosgail an aplacaid, fosgail Overview, tap ìomhaigh na h-aplacaid aig a’ bhàrr agus tap Pin. Bidh feum air do PIN, pàtran no facal-faire airson a dhì-phrìneadh."
+  - q: "A bheil e sàbhailte Guided Access a chleachdadh air fòn pearsanta an neach?"
+    a: "Bi faiceallach. Tha Apple ag ràdh nach eil Crash Detection agus Emergency Services rim faighinn fhad ’s a tha Guided Access air. Ma tha an neach an urra ris an fhòn aca airson gairmean èiginn, cleachd Guided Access dìreach nuair a tha thu còmhla riutha, no smaoinich air Assistive Access an àite sin."
+  - q: "Dè an ùine sgrion a tha ceart gu leòr do chuideigin le trom-inntinn?"
+    a: "Chan eil àireamh shònraichte ann. Bidh seiseanan goirid còmhla, measgaichte le cuairtean-coise, ceòl, obair-taighe agus còmhradh, a’ dèanamh latha nas iomlaine na ùine fhada leotha fhèin le sgrion. Ma tha an inneal ag adhbhrachadh frustrachais no a’ cur às do ghnìomhachdan eile, cleachd e nas lugha."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Faodaidh tablaid a bhith na dhòigh bhreagha airson dealbhan, ceòl agus geamannan sìmplidh a cho-roinn. Faodaidh e a bhith troimh-chèile cuideachd: fosglaidh tap air thuaiream aplacaid eile, nochdaidh brath, tha an teacsa beag bìodach, no thèid an sgrion dorcha ann am meadhan geama. Cuidichidh beagan ullachaidh bhon ur taobh-sa leis a’ mhòr-chuid dhe seo.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Tha na ceumannan seo a’ cleachdadh nan roghainnean togte air iPhone, iPad agus Android. Faodaidh ainmean chlàran atharrachadh eadar dreachan bathar-bog is dèanamh innealan, mar sin ma tha rudeigin a’ coimhead eadar-dhealaichte, lean an duilleag Apple no Google ceangailte airson an inneil agad. Dèan an t-ullachadh thu fhèin, mus suidh thu sìos còmhla.
 
-## Should someone with dementia use a tablet or phone?
+## Am bu chòir do chuideigin le trom-inntinn tablaid no fòn a chleachdadh?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Tha sin an urra ris an neach. Tha mòran dhaoine a’ faighinn tlachd à tablaid a chleachdadh le cuideigin ri an taobh, eadhon mura biodh iad a’ riaghladh leis fhèin. Tòisich le bhith ga chleachdadh còmhla, le aon aplacaid fosgailte, airson beagan mhionaidean. Ma bheir e toileachas is còmhradh, lean air adhart. Ma bheir e troimh-chèile no frustrachas, is dòcha gum bi clàr dhealbhan, duilleagan clò-bhuailte no ceòl nas freagarraiche dhaibh. Tha na [gnìomhachdan clò-bhuailte againn](/activities/printable/) mar roghainn eile.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Mar as trice tha tablaid nas fhasa na fòn: tha an sgrion agus na dealbhan nas motha, agus chan e cuideachd an dòigh èiginn a th’ aig an neach airson gairmean èiginn.
 
-## How do I lock a tablet or phone to one app?
+## Ciamar a ghlasas mi tablaid no fòn gu aon aplacaid?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Cleachd Guided Access air iPhone agus iPad, no app pinning air Android. Bidh an dà chuid a’ cumail an sgrion air aon aplacaid gus an cuir thu a-steach còd, agus mar sin chan urrainn do thap no slaodadh air thuaiream rudeigin eile fhosgladh.
 
-### iPad and iPhone: Guided Access
+### iPad agus iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Bho [stiùireadh Guided Access aig Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
+1. Fosgail **Settings**, tap **Accessibility**, an uairsin tap **Guided Access** agus cuir air e.
+2. Fo **Passcode Settings**, suidhich còd-pas Guided Access. Faodaidh tu cuideachd Face ID no Touch ID a cheadachadh.
+3. Roghainneil: fo **Display Auto-Lock**, tagh dè cho luath ’s a ghlasas an sgrion rè seisean, gus nach tèid e dorcha ann am meadhan geama.
+4. Fosgail an aplacaid a tha thu airson a chleachdadh.
+5. Briog trì tursan air a’ phutan-taoibh (iPhone), am putan gu h-àrd (iPad), no am putan Home air innealan nas sine.
+6. Roghainneil: cuir cearcall timcheall air pàirtean sam bith den sgrion nach eil thu ag iarraidh freagairt ri suathadh. Tap **Options** (no **Session Settings**) gus na putanan fuaime a chur dheth no gus stad a chur air an sgrion a bhith a’ tionndadh.
 7. Tap **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Gus crìoch a chur air an t-seisean, briog trì tursan air an aon phutan a-rithist, cuir a-steach an còd-pas, agus tap **End**. Tha Apple a’ toirt fa-near gum bi thu a’ briogadh dà thuras an àite sin air cuid de dhreachan bathar-bog nas sine.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Cudromach:** Tha Apple ag ràdh nach eil Crash Detection agus Emergency Services rim faighinn rè seisean Guided Access. Na fàg Guided Access a’ ruith air fòn a dh’fhaodadh a bhith a dhìth air an neach airson gairmean èiginn.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Bho [chobhair Android aig Google mu bhith a’ prìneadh sgrionaichean](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Fosgail an aplacaid **Settings**.
+2. Tap **Security** (no **Security & location**), an uairsin **Advanced**, an uairsin **App pinning**. Mura faic thu e, thoir sùil air duilleagan cobharach dèanadair an inneil agad.
+3. Cuir air **App pinning**. Bidh feum air do PIN, pàtran no facal-faire airson a dhì-phrìneadh.
+4. Fosgail an aplacaid a tha thu ag iarraidh. Slaod suas gu meadhan an sgrion agus cùm gus Overview fhosgladh (no tap Overview le seòladh 3 putanan).
+5. Aig mullach ro-shealladh na h-aplacaid, tap ìomhaigh na h-aplacaid, an uairsin tap **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Gus dì-phrìneadh le seòladh gluasadan, slaod suas agus cùm. Le seòladh 3 putanan, bean is cùm Back agus Overview. Le seòladh 2 phutan, bean is cùm Back agus Home. An uairsin cuir a-steach do PIN, pàtran no facal-faire.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## A bheil modh nas sìmplidh ann airson an iPhone no an iPad gu lèir?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Tha. Bidh Assistive Access aig Apple a’ cur cruth nas sìmplidh an àite na sgrion dachaigh àbhaisteach. Tha [Apple ga mhìneachadh](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) mar fheart a chaidh a dhealbhadh gus iPhone a dhèanamh nas fhasa do dhaoine le ciorraman inntinneil a chleachdadh gu neo-eisimeileach, le nithean nas motha air an sgrion agus feartan nas cuimsichte. Tha Apple a’ tabhann [an aon fheart air iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Cò a shuidhicheas e.** Tha Apple a’ moladh gun cuidich neach-taic earbsach, leithid ball teaghlaich no neach-cùraim a tha eòlach air an neach, le bhith a’ taghadh nan aplacaidean is nam feartan.
+- **Càite an tòisich thu.** Rach gu **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, an uairsin **Continue**.
+- **Aplacaidean.** Taghaidh tu dè na h-aplacaidean a nochdas. Tha dreachan sònraichte nas sìmplidh aig cuid de dh’aplacaidean Apple, agus faodar a’ mhòr-chuid de dh’aplacaidean eile a chur ris san dealbhadh àbhaisteach aca.
+- **Cruth.** Tagh **Rows** (liosta a tha furasta a leughadh) no **Grid** (nithean nas motha a chuireas cuideam air dealbhan is ìomhaighean).
+- **Còd-pas.** Suidhichidh tu còd-pas fa leth airson Assistive Access gus a dhol a-steach, a-mach no roghainnean atharrachadh. Tha Apple a’ moladh cunntas Apple ath-bheothachaidh a shuidheachadh aig àm an t-suidheachaidh, oir às aonais sin, ma dhìochuimhnicheas tu an còd-pas, feumaidh tu an t-inneal ath-shuidheachadh.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Dh’fhaodadh Assistive Access a bhith freagarrach do chuideigin a chleachdas an t-inneal aca fhèin a h-uile latha. Tha Guided Access no app pinning nas luaithe airson seisean geama co-roinnte.
 
-## How do I make text and pictures bigger?
+## Ciamar a nì mi an teacsa agus na dealbhan nas motha?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Meudaich meud an teacsa is an taisbeanaidh, an uairsin thoir sùil a bheil na putanan fhathast a’ freagairt air an sgrion.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone agus iPad.** A rèir [stiùireadh meud cruth-clò aig Apple](https://support.apple.com/en-us/102453), rach gu **Settings > Display & Brightness > Text Size** agus slaod an sleamhnag. Airson teacsa nas motha fhathast, rach gu **Settings > Accessibility > Display & Text Size > Larger Text**. Tha Apple a’ toirt fa-near gum faod teacsa glè mhòr cuid de phutanan a dhèanamh nas duilghe a thapadh, mar sin atharraich ma tha sin a dhìth.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** A rèir [cobhair Google mu roghainnean teacsa is taisbeanaidh](https://support.google.com/accessibility/android/answer/11183305?hl=en), fosgail **Settings** agus lorg **Font size**, an uairsin gluais an sleamhnag. Lorg **Display size** gus a h-uile rud air an sgrion a dhèanamh nas motha. Faodaidh tu cuideachd **Bold text** a chur air fo **Accessibility > Display size and text**. Chan eil cuid de dh’aplacaidean a’ leantainn nan roghainnean seo.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Ann an geamannan mar [Picture Pairs](/games/picture-pairs/) agus [Find the Same](/games/find-the-same/), faodaidh tu cuideachd nas lugha de leacan no roghainnean a thaghadh, a chumas cùisean nas sìmplidh air an sgrion.
 
-## How do I stop notifications and pop-ups?
+## Ciamar a chuireas mi stad air brathan agus priob-uinneagan?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Cuir dheth brathan airson aplacaidean nach eil a dhìth ort, agus cleachd Do Not Disturb rè ghnìomhachdan.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone agus iPad.** Rach gu **Settings > Notifications**, tap aplacaid fo **Notification Style**, agus cuir dheth **Allow Notifications** ([stiùireadh roghainnean bratha aig Apple](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Gus gairmean, rabhaidhean is brathan a chur sàmhach airson greis, fosgail Control Center agus cuir air **Do Not Disturb** bhon phutan **Focus** ([cobhair Do Not Disturb aig Apple](https://support.apple.com/en-us/105112)). Faodaidh tu clàr-ama a shuidheachadh fo **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Slaod sìos bho mhullach an sgrion agus tap **Do Not Disturb**, no rach gu **Settings > Modes > Do Not Disturb** ([cobhair Do Not Disturb aig Google](https://support.google.com/android/answer/9069335?hl=en)). Fo **Notification filters** faodaidh tu taghadh dè na daoine is na h-aplacaidean a gheibh troimhe fhathast. Bidh na roghainnean ag atharrachadh a rèir dèanadair an inneil.
 
-## How do I make a simple home screen?
+## Ciamar a nì mi sgrion dachaigh sìmplidh?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Cùm beagan aplacaidean air a bheil thu eòlach air aon sgrion agus gluais an còrr a-mach à sealladh. Chan eil aon roghainn shònraichte ann airson seo; tha e mu dheidhinn a bhith a’ toirt air falbh mì-riaghailt.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Tagh trì gu sia aplacaidean.** Mar eisimpleir, dealbhan, ceòl, aplacaid airson gairmean bhidio agus aon gheama.
+- **Cuir iad air a’ chiad sgrion,** anns na h-aon àiteachan a h-uile turas, agus gluais a h-uile càil eile gu dàrna sgrion no pasgan.
+- **Cleachd pàipear-balla soilleir le iomsgaradh àrd,** leithid aon dath no aon dealbh air a bheil thu eòlach, gus am bi ìomhaighean follaiseach.
+- **Sguab às aplacaidean nach eil a dhìth ort.** Tha nas lugha de dh’aplacaidean a’ ciallachadh nas lugha de chothroman airson troimh-chèile agus nas lugha de dhàta air a chruinneachadh.
+- **Smaoinich air Assistive Access** air innealan Apple ma tha thu ag iarraidh gum bi an t-inneal ga dhèanamh dhut.
 
-## What about volume and sound?
+## Dè mu dheidhinn fuaim is àirde?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Suidhich àirde fuaime a tha comhfhurtail mus toir thu seachad an t-inneal. Le Guided Access, faodaidh tu na putanan fuaime a chur dheth gus nach atharraich e ann am meadhan gnìomhachd. Dèan cinnteach gu bheil innealan-claisneachd a-staigh agus ag obair.
 
-## Where should the tablet live?
+## Càite am bu chòir don tablaid a bhith?
 
-Give it a stand and a permanent charging spot.
+Thoir seasamh dha agus àite cosgais maireannach.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Bidh seasamh no cùis** a chumas an tablaid dìreach aig a’ bhòrd a’ ciallachadh nach fheum duine sam bith a chumail, agus tha e nas fhasa comharrachadh.
+- **Aon àite cosgais** nach gluais a-riamh, mas fheàrr seasamh cosgais air bòrd ann an seòmar a chleachdas tu a h-uile latha. Bidh an tablaid air a cosgais an-còmhnaidh agus san aon àite an-còmhnaidh.
+- **Lùghdaich deàrrsadh.** Suidhich an sgrion air falbh bho uinneag shoilleir.
 
-## How much screen time is okay?
+## Dè an ùine sgrion a tha ceart gu leòr?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Chan eil àireamh cheart de mhionaidean ann. Bi ag amas air seiseanan goirid còmhla mar aon phàirt de latha làn a tha cuideachd a’ gabhail a-steach gluasad, ceòl, gnìomhan taighe, còmhradh agus ùine a-muigh. Leis gum faod feasgaran trang cur ri aimhreit nas fhaide air adhart san latha, smaoinich air gnìomhachdan sgrion a chumail nas tràithe san latha. Faic [gnìomhachdan ciùin feasgar anmoch](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Le bhith a’ cleachdadh tablaid còmhla, seach mar neach-glèidhidh, bidh e sòisealta. Tha an stiùireadh againn mu [gheamannan a chluich còmhla](/caregiving/how-to-play-together/) a’ mìneachadh mar a nì thu sin.
 
-## How do I protect their privacy on the device?
+## Ciamar a dhìonas mi am prìobhaideachd aca air an inneal?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Cuir crìoch air na dh’fhaodas aplacaidean a chruinneachadh, agus na gabh ris gu bheil lagh prìobhaideachd slàinte ga dhìon. Tha Roinn Slàinte is Sheirbheisean Daonna nan Stàitean Aonaichte (HHS) [a’ mìneachadh](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) nach eil riaghailtean HIPAA mar as trice a’ dìon fiosrachadh slàinte a tha air a stòradh air no air a ruigsinn tro fhònaichean is tablaidean pearsanta. Mar as trice, chan eil HIPAA a’ dìon dàta a thèid a chur a-steach do dh’aplacaidean airson cleachdadh pearsanta ach ma thig an aplacaid bho sholaraiche cùraim slàinte fo chòmhdach, plana slàinte no aon de na companaich gnìomhachais aca.
 
-HHS suggests:
+Tha HHS a’ moladh:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- aplacaidean nach eil a dhìth no aplacaidean air thuaiream a sheachnadh, gu h-àraidh feadhainn “an-asgaidh”;
+- gun a bhith a’ toirt cothrom air àite do dh’aplacaidean mura h-eil sin dha-rìribh a dhìth orra, leithid mapaichean.
 
-Also consider:
+Smaoinich cuideachd air:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Cleachd còd-pas** air an inneal, agus cùm nota dheth ann an àite sàbhailte.
+- **Thoir sùil air ceadan** airson dealbhan, camara, micreofon, luchd-aithne agus àite, agus cuir dheth gin sam bith nach eil a dhìth air aplacaid.
+- **Thoir sùil air na tha aplacaid a’ cruinneachadh** mus stàlaich thu i. Tha liosta sgrùdaidh prìobhaideachd san stiùireadh againn mu [thaghadh aplacaidean is gheamannan airson trom-inntinn](/caregiving/choosing-apps-and-games/).
+- **Bi faiceallach le dealbhan teaghlaich.** Na roinn ach dealbhan a bhiodh an neach comhfhurtail leotha, agus bi fiosrach càite a bhios aplacaid gan stòradh. Ann an [Photo Pairs](/games/photo-pairs/), bidh na dealbhan a thaghas tu a’ fuireach sa bhrabhsair agad.
+- **Cuir dheth ceannach taobh a-staigh aplacaidean** no thoir air falbh fiosrachadh pàighidh bho chunntasan a chleachdas an neach.

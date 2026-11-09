@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Comharraidhean Tràth Trom-inntinn agus Cuin a Chì thu Dotair"
+seoTitle: "Comharraidhean Tràth Trom-inntinn agus Cuin a Chì thu Dotair"
+description: "Comharraidhean tràth cumanta de throm-inntinn, mar a tha iad eadar-dhealaichte bho aosmhorachd àbhaisteach, adhbharan a ghabhas làimhseachadh, agus mar a nì thu deiseil airson coinneamh dotair."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Faodaidh call cuimhne a chuireas dragh air beatha làitheil, duilgheadas le gnìomhan eòlach, troimh-chèile
+  mu àm no àite, agus atharrachaidhean ann an sunnd no breithneachadh a bhith nan comharraidhean tràth de
+  throm-inntinn. Faodaidh iomadh suidheachadh eile, a’ gabhail a-steach duilgheadasan leis an gland thyroid,
+  ìre ìosal de bhiotamain B12, fo-bhuaidhean cungaidh-leigheis, trom-inntinn-inntinn agus duilgheadasan cadail,
+  atharrachaidhean coltach ris adhbhrachadh. Chan fhaod ach neach-clionaigeach le teisteanas breithneachadh a dhèanamh.
+  Feumaidh troimh-chèile a thòisicheas gu h-obann cùram-èiginn.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Tha dìochuimhneachadh bho àm gu àm cumanta le aois; tha e math atharrachaidhean a chuireas dragh air beatha làitheil a sgrùdadh."
+  - "Tha Comann Alzheimer a’ toirt cunntas air 10 comharran rabhaidh, gach fear le atharrachadh aois co-cheangailte ris airson coimeas."
+  - "Faodaidh duilgheadasan thyroid, ìre ìosal de bhiotamain B12, fo-bhuaidhean cungaidh-leigheis, trom-inntinn-inntinn, galaran agus duilgheadasan cadail buaidh a thoirt air cuimhne, agus faodar cuid dhiubh a làimhseachadh."
+  - "Chan fhaod ach neach-clionaigeach le teisteanas trom-inntinn a dhearbhadh; chan urrainn do cheisteachain no deuchainnean fhèin air-loidhne sin a dhèanamh."
+  - "Faodaidh troimh-chèile a thòisicheas gu h-obann, thar uairean no làithean, a bhith na delirium agus feumaidh e cùram meidigeach èiginneach."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "A bheil dìochuimhneachadh na phàirt àbhaisteach de dh’aosmhorachd?"
+    a: "Tha cuid dheth. Tha an Institiud Nàiseanta air Aosmhorachd ag ràdh gu bheil a bhith a’ call rudan bho àm gu àm no a’ dìochuimhneachadh bile mar as trice na dhìochuimhneachadh beag co-cheangailte ri aois. Chan eil trom-inntinn na phàirt àbhaisteach de dh’aosmhorachd. Tha e math bruidhinn ri dotair mu dhuilgheadasan cuimhne a nì gnìomhan làitheil leithid dràibheadh, a bhith a’ cleachdadh a’ fòn no a bhith a’ lorg an rathaid dhachaigh doirbh."
+  - q: "Am faod duilgheadasan cuimhne tighinn bho rudeigin eile seach trom-inntinn?"
+    a: "Faodaidh. Tha an Institiud Nàiseanta air Aosmhorachd a’ liostadh duilgheadasan thyroid, dubhaig no grùthan, fo-bhuaidhean cungaidh-leigheis, trom-inntinn-inntinn agus iomagain, ìre ìosal de bhiotamain B12, mì-chleachdadh deoch làidir, duilgheadasan cadail, galaran agus leòntan cinn, am measg feadhainn eile. Bidh cuid dhiubh sin nas fheàrr an dèidh làimhseachaidh, agus is e sin aon adhbhar a tha sgrùdadh meidigeach cudromach."
+  - q: "An urrainn dhomh cuideigin a dhearbhadh airson trom-inntinn aig an taigh?"
+    a: "Chan urrainn. Chan fhaod ach neach-clionaigeach le teisteanas trom-inntinn a dhearbhadh, le bhith a’ cleachdadh eachdraidh mheidigeach, sgrùdadh corporra, deuchainnean cuimhne is smaoineachaidh, deuchainnean obair-lann agus uaireannan sganaidhean eanchainn. Chan eil eadhon na deuchainnean goirid a bhios dotairean a’ cleachdadh gu leòr leotha fhèin gus trom-inntinn a dhearbhadh."
+  - q: "Dè bu chòir dhomh a dhèanamh ma thig troimh-chèile air cuideigin gu h-obann?"
+    a: "Faigh cuideachadh meidigeach sa bhad. Faodaidh troimh-chèile obann a bhith na delirium, a tha an VA a’ mìneachadh mar èiginn mheidigeach. Cuir fòn gu solaraiche cùram slàinte an neach sa bhad no cuir fòn gu 999, fuirich còmhla riutha, agus thoir an aire dè na cungaidhean-leigheis a tha iad a’ gabhail."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Faodaidh e a bhith eagallach nuair a mhothaicheas tu atharrachaidhean nad chuimhne fhèin, no ann an cuimhne cuideigin a tha gràdhach dhut. Faodaidh an duilleag seo do chuideachadh le co-dhùnadh cuin a bu chòir dhut coinneamh a dhèanamh ri dotair agus mar a nì thu deiseil air a shon. Chan urrainn dhi innse dhut a bheil trom-inntinn air neach sam bith. **Chan fhaod ach neach-clionaigeach le teisteanas trom-inntinn a dhearbhadh**, agus chan eil iomadh suidheachadh a dh’adhbhraicheas duilgheadasan cuimhne nan trom-inntinn idir. Na cuir earbsa ann an ceisteachain no deuchainnean fhèin air-loidhne.
 
-## What are the early signs of dementia?
+## Dè na comharraidhean tràth de throm-inntinn?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+Tha [Comann Alzheimer](https://www.alz.org/alzheimers-dementia/10_signs) a’ toirt cunntas air 10 comharraidhean tràth. Bidh e a’ cur gach fear ri taobh atharrachadh aois àbhaisteach airson coimeas. Seo iad nar briathran fhèin:
 
-| Sign worth checking | More typical with age |
+| Comharradh a tha math a sgrùdadh | Nas àbhaistiche le aois |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Call cuimhne a chuireas dragh air beatha làitheil, leithid a bhith a’ dìochuimhneachadh tachartasan o chionn ghoirid no a bhith ag iarraidh an aon rud a-rithist is a-rithist | A bhith a’ dìochuimhneachadh ainm no coinneamh bho àm gu àm agus ga chuimhneachadh às dèidh sin |
+| Duilgheadas le planadh no fuasgladh dhuilgheadasan, leithid a bhith a’ leantainn reasabaidh eòlach no a’ cumail sùil air cunntasan | Mearachd bho àm gu àm le cunntasan an taighe |
+| Duilgheadas le gnìomhan eòlach a chrìochnachadh aig an taigh, aig obair no nuair a tha thu a-muigh | A bhith a’ feumachdainn cuideachaidh bho àm gu àm le suidheachadh microwave no le clàradh prògram Tbh |
+| A bhith a’ call sùil air cinn-latha, ràithean no far a bheil thu | A bhith a’ dèanamh mearachd mun latha den t-seachdain, agus an uair sin ga obrachadh a-mach |
+| Duilgheadas ùr le bhith a’ tomhas astar, a’ leughadh no ag aithneachadh dathan | Atharrachaidhean lèirsinn bho chataractan |
+| Duilgheadasan ùra le faclan, leithid stad ann am meadhan còmhraidh no a bhith a’ cur ainm ceàrr air rudan | A bhith a’ strì bho àm gu àm gus am facal ceart a lorg |
+| A bhith a’ cur rudan ann an àiteachan annasach agus gun a bhith comasach air na ceumannan agad a leantainn air ais | A bhith a’ call rudan bho àm gu àm agus an lorg le bhith a’ leantainn ceumannan air ais |
+| Droch bhreithneachadh, leithid le airgead no cùram pearsanta | A bhith a’ dèanamh droch cho-dhùnadh bho àm gu àm |
+| A bhith a’ tarraing air ais bho chur-seachadan, obair no gnìomhan sòisealta | A bhith a’ faireachdainn bho àm gu àm nach eil thu airson a dhol gu tachartas teaghlaich no sòisealta |
+| Atharrachaidhean ann an sunnd no pearsantachd, leithid a bhith troimh-chèile, amharasach, fo eagal no iomagaineach | Dòighean stèidhichte agad fhèin airson rudan a dhèanamh agus a bhith greannach nuair a thèid gnàthas a bhrachadh |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Chan eil aon chomharradh leis fhèin a’ ciallachadh trom-inntinn. Is e an rud cudromach **atharrachadh bhon rud a tha àbhaisteach don neach sin**, gu h-àraidh fear a nì beatha làitheil nas duilghe.
 
-## How is normal aging different from dementia?
+## Ciamar a tha aosmhorachd àbhaisteach eadar-dhealaichte bho throm-inntinn?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+Tha an [Institiud Nàiseanta air Aosmhorachd (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) ag ràdh gu bheil mòran inbhich nas sine a’ mothachadh gu bheil iad a’ cuimhneachadh rudan nas slaodaiche, no gu bheil iad a’ call rudan no a’ dìochuimhneachadh bile bho àm gu àm. Mar as trice is e comharran de dhìochuimhneachadh beag a tha seo. **Chan eil trom-inntinn na phàirt àbhaisteach de dh’aosmhorachd.** Bidh fìor dhuilgheadasan cuimhne a’ dèanamh gnìomhan làitheil doirbh, leithid dràibheadh, a bhith a’ cleachdadh a’ fòn no a bhith a’ lorg an rathaid dhachaigh.
 
-The NIA suggests talking with a doctor if someone:
+Tha an NIA a’ moladh bruidhinn ri dotair ma bhios cuideigin:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Ag iarraidh na h-aon cheistean a-rithist is a-rithist
+- A’ dol air chall ann an àiteachan a b’ àbhaist dhaibh eòlas a bhith aca orra
+- A’ faighinn duilgheadas le reasabaidhean no stiùiridhean a leantainn
+- A’ fàs nas troimh-chèile mu àm, daoine agus àiteachan
+- A’ sgur de bhith a’ toirt cùram dhaibh fhèin, leithid a bhith ag ithe gu dona, gun a bhith a’ nighe no a bhith gan giùlan fhèin ann an dòigh nach eil sàbhailte
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Tha **lagachadh inntinneil beag (MCI)** aig cuid de dhaoine. Tha sin a’ ciallachadh gu bheil barrachd dhuilgheadasan cuimhne no smaoineachaidh aca na tha aig daoine eile den aon aois, fhad ’s a tha iad fhathast a’ riaghladh beatha làitheil. Tha an NIA ag ràdh gum faod MCI a bhith na chomharradh tràth de ghalar Alzheimer, ach chan eil a h-uile duine le MCI ga leasachadh.
 
-## What else can cause memory problems?
+## Dè eile a dh’fhaodadh duilgheadasan cuimhne adhbhrachadh?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Faodaidh mòran rudan a bharrachd air trom-inntinn buaidh a thoirt air cuimhne, agus bidh cuid dhiubh nas fheàrr le làimhseachadh. Tha an NIA a’ liostadh:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Duilgheadasan thyroid, dubhaig no grùthan**
+- **Fo-bhuaidhean cungaidh-leigheis**
+- **Trom-inntinn-inntinn agus iomagain**
+- **Ìre ìosal de bhiotamain B12** no gun a bhith ag ithe gu leòr de bhiadh fallain
+- **Duilgheadasan cadail**
+- **Mì-chleachdadh deoch làidir no dhrogaichean**
+- **Galaran, clotan fala no tumors** san eanchainn
+- **Leòn cinn**, leithid co-dhunadh
+- **Mòr chuideam no bròn**, leithid a bhith a’ leigeil dheth obair no companach a chall
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Faodaidh duilgheadasan claisneachd is lèirsinn cuideachd a bhith air am meas mar throimh-chèile; faic an [stiùireadh againn air claisneachd](/brain-health/hearing/). Is ann air sgàth seo a tha sgrùdadh meidigeach cudromach. A rèir [Comann Alzheimer](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), bidh dotairean gu tric ag iarraidh deuchainnean fala gus sgrùdadh a dhèanamh airson duilgheadasan thyroid, easbhaidhean bhiotamain agus galaran. Tha e math cuideachd deagh [chadal](/brain-health/sleep/) agus làimhseachadh airson trom-inntinn-inntinn a thogail.
 
-## Sudden confusion is an emergency
+## Tha troimh-chèile obann na èiginn
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Feumaidh troimh-chèile a thòisicheas gu luath, thar uairean no làithean, cùram meidigeach èiginneach.** Faodaidh gur e delirium a tha ann. Tha an [VA a’ mìneachadh delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) mar èiginn mheidigeach agus tha iad a’ moladh fòn a chur gu solaraiche cùram slàinte an neach sa bhad no fòn a chur gu 999. Am measg nan comharran tha:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Atharrachaidhean suas is sìos sa chomas smaoineachadh gu soilleir
+- Duilgheadas aire a thoirt do rudan
+- Smaoineachadh mì-riaghailteach
+- A bhith gu h-annasach cadalach, no gu h-annasach mì-fhoisneach is buaireasach
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Faodaidh seo tachairt do dhuine sam bith, a’ gabhail a-steach daoine a tha mu thràth a’ fuireach le trom-inntinn. A rèir an [NHS](https://www.nhs.uk/symptoms/confusion/), tha adhbharan cumanta a’ gabhail a-steach galaran (tha galaran slighe urinary cumanta ann an daoine nas sine agus ann an daoine a tha a’ fuireach le trom-inntinn), stròc, siùcar fala ìosal ann an daoine le tinneas an t-siùcair, leòn cinn agus cuid de chungaidhean-leigheis. Fhad ’s a tha thu a’ feitheamh ri cuideachadh, fuirich còmhla ris an neach agus dèan misneachd le faclan goirid, simplidh. Na cuir tòrr cheistean orra, agus thoir an aire dè na cungaidhean-leigheis a tha iad a’ gabhail.
 
-## How do I prepare for the doctor's appointment?
+## Ciamar a nì mi deiseil airson coinneamh an dotair?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Bidh coinneamh mhath a’ tòiseachadh le deagh nòtaichean. Tha [Comann Alzheimer](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) a’ moladh gun toir thu leat:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Liosta de dh’atharrachaidhean** ann an cuimhne, sunnd agus giùlan, le eisimpleirean sònraichte agus tuairmse air cuin a thòisich iad
+2. **Duilgheadasan slàinte san àm a dh’fhalbh agus an-dràsta**, a’ gabhail a-steach eachdraidh teaghlaich sam bith de dhuilgheadasan cuimhne
+3. **A h-uile cungaidh-leigheis le òrdugh agus gun òrdugh**
+4. **Bhiotamain no stuthan-leasachaidh sam bith**
+5. **Na ceistean agad**, leithid dè na deuchainnean a thèid a dhèanamh, dè cho fada ’s a mhaireas iad agus cuin a thig na toraidhean
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Tha e cuideachd cuideachail ball den teaghlach no caraid a thoirt leat a tha eòlach air an neach. Tha an [NIA a’ mìneachadh](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) gum faod dotairean ceistean a chur air an dà chuid an neach agus ball den teaghlach mu shlàinte, cungaidhean-leigheis, gnìomhan làitheil agus atharrachaidhean ann an giùlan. Faodaidh dotairean cuideachd:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Deuchainnean a thoirt seachad air cuimhne, fuasgladh dhuilgheadasan, aire, cunntadh agus cànan
+- Deuchainnean fala, fual agus eile iarraidh gus coimhead airson adhbharan eile
+- Sgrùdadh a dhèanamh airson trom-inntinn-inntinn no suidheachaidhean slàinte inntinn eile
+- Sganaidhean eanchainn iarraidh leithid CT no MRI
+- Iomradh a dhèanamh gu eòlaiche, leithid dotair aosda, neur-eòlaiche, eòlaiche-inntinn aosda no neur-eòlaiche-inntinn
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Tha an NIA a’ toirt fa-near gu bheil measadh inntinneil na phàirt riatanach de Thuras Slàinte Bliadhnail Medicare, agus faodaidh sin a bhith na àm nàdarra airson draghan a thogail. Chan eil eadhon na deuchainnean goirid a bhios dotairean a’ cleachdadh gu leòr leotha fhèin gus trom-inntinn a dhearbhadh. Is e a’ chiad cheum a th’ annta a dh’ionnsaigh measadh nas coileanta, agus dh’fhaodadh barrachd air aon chuairt a bhith a dhìth airson breithneachadh. Tha an NIA a’ comhairleachadh gum bu chòir do dhaoine le duilgheadasan cuimhne tilleadh chun dotair gach 6 gu 12 mìosan.
 
-## Raising the subject kindly
+## A bhith a’ togail a’ chuspair gu càirdeil
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ma tha dragh ort mu chuideigin eile, tagh àm sàmhach, prìobhaideach. Bruidhinn mu rudan sònraichte a mhothaich thu, mar dhragh mu an slàinte seach mar chàineadh. Faodaidh moladh airson sgrùdadh slàinte coitcheann a bhith nas lugha eagallach. Gabh a-steach an neach ann an co-dhùnaidhean agus bruidhinn riutha mar an t-inbheach a tha iad. Faodaidh na [molaidhean conaltraidh](/caregiving/communication-tips/) againn cuideachadh.
 
-## Talk with a doctor
+## Bruidhinn ri dotair
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ma mhothaicheas tu atharrachaidhean ann an cuimhne, smaoineachadh, sunnd no comasan làitheil a tha ùr agus a tha a’ leantainn air adhart, cuir coinneamh air dòigh le dotair cùraim phrìomhach. Airson troimh-chèile obann, cuir fòn gu 999 no gu solaraiche cùram slàinte an neach sa bhad. Tha sgrùdadh tràth a’ ciallachadh gum faodar adhbharan a ghabhas làimhseachadh a lorg agus, mas e trom-inntinn a th’ ann, gu bheil barrachd ùine ann airson planadh agus taic a lorg. Thoir aire ort fhèin tron seo cuideachd; faic an [stiùireadh againn air fèin-chùram luchd-cùraim](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+’S e fiosrachadh coitcheann a tha san duilleag seo, chan e comhairle mheidigeach. Faic an [àicheadh meidigeach](/medical-disclaimer/) againn.
