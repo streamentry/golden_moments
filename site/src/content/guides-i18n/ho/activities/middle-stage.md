@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Gaukara Namona Dementia Namona Badina"
+seoTitle: "Dementia Namona Badina: Gaukara Namona"
+description: "Gaukara namona dementia namona badina: ruma gaukara, ane, laulau bona gemu namona, bona edena bamona oi hegaegae bona gini bada oi haidaua gaukara ta ai."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Dementia namona badina ai, gaukara namona be nega kwadogi, tauna ia diba
+  vadaeni, bona kahana ta ta ai oi haginia: dabua oi kiki, soka oi hatoi, kaia
+  oi huria, ane oi abia, raka oi lao ia ida, laulau buka oi itaia, bona laulau
+  gemu namona. Gaukara oi hegaegae, kahana ginigunana oi hahedinaraia, kahana
+  auka oi abia, bona gaukara ia hahedinaraia ena badina ta oi henia. Ia moale
+  lasi neganai, oi dokona.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Ruma gaukara tauna ia diba vadaeni be namo herea, badina be ia laloa ia gaukara maoro bona ia tauna badana."
+  - "Oi hahedinaraia, hereva lasi; kahana ta ta oi henia; bona henanadai bada totona, abidadehe rua oi henia."
+  - "Kahana auka herea oi abia, ia kahana namona ia karaia diba."
+  - "Gini bada be reana ia hahedinaraia tauna ia ura gaukara ta ia karaia. Oi 'lasihia' totona, gaukara namona ta oi henia."
+  - "Ia itaia, ia durua maragimaragi, eiava ia dokona haraga be namo."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Edena gaukara be namo dementia namona badina ai?"
+    a: "Gaukara kwadogi, tauna ia diba vadaeni, bona imana ida ia karaia be namo herea: taulo oi kiki, soka oi hatoi, kaia oi huria, pata ai gaudia oi atoa, ane gunana oi abia, raka oi lao ia ida, laulau buka oi itaia, bona laulau gemu namona. Gaukara ta ta oi haginia kahana ta ta ai, bona oi ruaosi oi karaia."
+  - q: "Edena bamona tau ta dementia ida ia gaukara ia hamatamaia diba?"
+    a: "Gaukara ibounai oi hegaegae vadaeni, bena oi sibomu oi hamatamaia bona ia oi noia ia durua: 'Oi diba oi durua lau taulo edei ai?' Taunimanima momo ia ura ia vareai, to ia hamatamaia be auka. Kahana ginigunana oi hahedinaraia be namo, hereva ai oi hadibaia lasi."
+  - q: "Ia gaukara ta ia karaia lou lou neganai, dahaka lau karaia?"
+    a: "Karaia lou lou be reana kerere lasi, bona reana ia hahedinaraia tauna ia ura ia gaukara eiava ia ura bogahisihisi. Oi hamaoroa lasi, to gaukara ta oi henia ia ena karaia ida ia hegeregere, hegeregerena taulo maragimaragi pose ba oi henia ia kiki, eiava ane ta oi abia hebou."
+  - q: "Ia gaukara ia karaia kerere neganai, dahaka lau karaia?"
+    a: "Kerere lasi neganai, oi rakatania. Taulo ia kiki dalana ma ta eiava sipunu ia atoa gabuna kerere be hereva bada lasi. Oi hamaoroa be reana ia hadikaia, to ia ena dalana ai ia karaia be ia hagoadaia ia diba bona ia gaukara maoro."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Dementia namona badina be nega momo ia daudau, bona unai neganai gaukara be durua maoro ia ura. Hereva be auka, kahana be ia hedaradara, bona gaukara ta hamatamaia be auka. To ia ura ia gaukara maoro bona ia vareai ena ura be ia noho. Oi hegaegae maragimaragi neganai, tau ta dementia namona badina ida ia diba ia moale gaukara momo ai, hegeregerena ruma gaukara ia diba vadaeni, ane, bona laulau oi itaia hebou.
 
-## What activities work well in middle-stage dementia?
+## Edena gaukara be namo dementia namona badina ai?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Gaukara kwadogi, tauna ia diba vadaeni, bona imana ida ia karaia, kahana ta ta ai oi haginia, be namo herea. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ia gwau oi be gaukara matamata oi hamatamaia lasi: gaukara be dina ta ta ena mauri ai ia noho diba, hegeregerena aniani oi nadua hebou, uma oi naria, ane oi kamonai, eiava raka oi lao.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ia gwau unai badina ai taunimanima be reana ia ura ia laloa ia gaukara maoro eiava gau ta ia naria, bona durua ia ura gaukara ia hamatamaia eiava ia hahedinaraia totona. Ia ena dementia namona badina lisiti ai dabua kiki, kaia huria, soka hatoi, heau namona, ane gunana ida mavaru, raka oi lao ia ida, ane abia hebou, peni namona, bona laulau buka itaia.
 
-## How do you set up an activity so it works?
+## Edena bamona oi gaukara oi hegaegae ia namo totona?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Gaukara momo be hegaegae ai ia namo eiava ia kerere. Inai kara dalana, [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bona [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) amo, be durua bada:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Gabuna oi hagoevaia.** TV oi ha-kore, iduara oi koua, bona gaukara ia ura gaudia sibodia oi atoa.
+2. **Oi sibomu oi hamatamaia.** Oi kiki eiava oi herihaia, bena ia oi noia: "Oi diba oi durua lau inai ai?"
+3. **Oi hahedinaraia, bena oi naria.** Kahana ta oi hahedinaraia. Imamu ai oi hahedinaraia, hegeregerena peleiti edeseni ai oi atoa.
+4. **Kahana ta ta oi henia.** "Oi kiki rua" be namo, "iniai oi kiki bona kala amo oi atoa" lasi.
+5. **Abidadehe rua oi henia, henanadai bada lasi.** "Taulo kahana eiava taulo kurokuro?" be namo, "Dahaka oi ura oi karaia?" lasi.
+6. **Kahana auka oi karaia.** Oi metaua, ia ia herihaia. Oi nilu oi atoa, ia uea ia biria.
+7. **Badina ta oi henia.** "Inai napukini be Sunday aniani totona" ia gaukara ia hamomokania.
+8. **Ia ura ia itaia sibona neganai, oi rakatania.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ia gwau itaia sibona be reana moale danu.
 
-## Activity ideas for the middle stage
+## Gaukara lalonai dementia namona badina totona
 
-### Useful jobs
+### Ruma gaukara maoro
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Taulo bona taulo maragimaragi oi kiki.** Gau maragimaragi bona palapalana be namo herea. Taulo maragimaragi siahu pose ba ai be kiki, hamomokani, bona kiki lou diba.
+- **Soka oi hatoi rua rua.** Oi hamatamaia rua maragimaragi idauidau ai. Kala sibona ai hatoi be namo danu.
+- **Kaia ia bubu lasi oi huria eiava oi hamakaua.** Ranu siahu bona sopa be namo imana ai. Helai ai hamakaua be namo aena totona.
+- **Pata ai gaudia oi atoa.** Gau ta ta oi henia, bona gabuna ta oi atoa ia itaia totona.
+- **Aniani nadua ai oi durua.** Poteto huria, letusi darea, eiava disi ai gaudia herihaia. Kaia hadoa bona lahi be oi sibomu oi naria.
+- **Oi huaia, oi hamakaua, eiava oi dareaia.** Dabua ta pata totona, heke maragimaragi ta baranda totona.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Itaia [ruma gaukara](/activities/household-tasks/) momo herea totona.
 
-### Music and movement
+### Ane bona gini
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Ane gunana oi abia.** Oi sibomu oi hamatamaia; taunimanima momo be ane ia diba vadaeni lagani momo ai ia abia hebou. Itaia [ane gaukara](/activities/music/).
+- **Mavaru namona.** Oi gini, oi pata, eiava oi lao hegeregerena oi moale. Helai ai be namo danu.
+- **Baluni oi tahoa.** Ia lao metau bona helai amo abia be namo.
+- **Raka oi lao ia ida.** Raka kwadogi oi diba vadaeni ai oi lao hebou, imana oi dogoatao bema ia durua.
 
-### Pictures and stories
+### Laulau bona sivarai
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Laulau buka oi itaia.** Oi itaia gaudia oi herevalaia, henanadai lasi: "Unai ka itaia. Oi herevalaia lau dekenai." Itaia [laloa lou gaukara](/activities/reminiscence/).
+- **Hereva laulau oi gaukaralaia.** [Hereva laulau](/games/conversation-cards/) ai laulau ta bona henanadai namona ta, tesiti lasi.
+- **Mubi gunana oi itaia hebou.** Tauna ia diba vadaeni ta oi abia, ia kahirakahira ai oi noho, bona oi dokona lagani maragimaragi totona.
 
-### Simple, pressure-free games
+### Gemu namona, heau lasi
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Laulau rua rua, laulau ia itaia noho.** [Laulau rua rua](/games/picture-pairs/) ai laulau be ia itaia noho diba, unai dainai be itaia, laloa lasi.
+- **Ta hegeregerena oi tahua.** [Ta hegeregerena oi tahua](/games/find-the-same/) ai laulau ta bona abidadehe rua eiava hani sibona ia hahedinaraia.
+- **Hatoi hebou.** [Hatoi hebou](/games/sort-together/) be dabua hatoi hegeregerena, skrin ai: laulau ta oi patsi, bena ena pose ba.
+- **Laulau bingo.** [Laulau bingo](/games/picture-bingo/) be namo ruma taudia bona hebou ai.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Gemu ta ia hamatamaia ia hemarai neganai, oi dokona bona gaukara ma ta oi karaia. Itaia [edena bamona oi gemu hebou](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Gini bada oi haidaua gaukara ta ai
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Gini bada eiava karaia lou lou be reana badina ta ia noho. Family Caregiver Alliance ia gwau tau ta ia kabineti ia hamomokani lou lou be reana ia ura ia gaukara bona ia gaukara maoro. Alzheimer's Association ia gwau unai siahuna oi haidaua gaukara ta ia hegeregere dekenai, oi koua lasi.
 
-| What you see | Something to offer |
+| Dahaka oi itaia | Dahaka oi henia diba |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Pata ia darea eiava ia ninoa | Dabua paripari ta bona pata dareaia noina |
+| Aena ia gini eiava ia doudou | Ane ta ena regena goada ia doudou eiava ia pata hebou |
+| Diroa eiava kabineti ia hamomokani | Dabua eiava taulo maragimaragi pose ba oi henia ia kiki bona ia hatoi |
+| Henanadai ta ia henia lou lou | Bogahisihisi oi henia, bena ane ta eiava gaukara ta oi karaia hebou |
+| Ia raka raka | Oi lao hebou, eiava gaukara ta gau oi huaia lao ai |
+| Adorahi dokona ia moale lasi | Gaukara metau, tauna ia diba vadaeni, diari namona ai; itaia [adorahi dokona gini bada](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Edana negai oi dokona eiava oi haidaua
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Oi dokona bema oi itaia tau ia roha, ia hemarai, ia hemataurai, eiava ia moale lasi, hegeregerena ia gini lasi, ia vairana ia auka, gau ia doria dobi, eiava ia gwau "Lau diba lasi." Alzheimer's Association ia gwau nega ma ta ai oi toho lou, eiava gaukara oi hamaragimaragia. Oi hadoa lasi. Reana ia gwau lasi badina be ia gari eiava gaukara be auka herea; itaia [ia gwau lasi neganai](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Haraga dokona be namo. Oi helai hebou ti kapu ta ida be namo danu. Ia ena diba ia idau neganai, [dementia dokona badina gaukara](/activities/late-stage/) be namo, bona [gaukara 101](/activities/ideas/) ai oi toho lou diba gaukara momo ia noho.

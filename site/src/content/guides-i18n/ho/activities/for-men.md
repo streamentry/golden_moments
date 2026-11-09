@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Gaukara haida dementia e karaiamu mero taudia edia"
+seoTitle: "Dementia e karaiamu mero taudia edia gaukara"
+description: "Dementia e karaiamu mero tauna edia gaukara haida, ena gaukara, ena ura gaukara bona ena dina dalana amo, bona edena dala ai gaukara ta ta ba namo."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Dementia e karaiamu mero tauna ena namo gaukara be ena mauri amo e mai: ena
+  gaukara ia karaia, ena ura gaukara, bona ena dina dalana. Opisi ai ia gaukara
+  tauna be pepa ia haginia diba, mekenik tauna be goada tool ia dogoatao diba,
+  bona spot e ura henia tauna be gunala spot ia itaia diba. Mero ta ta ena ura
+  be idauidau, unai dainai tauna ia sibona amo ba hamatamaia, ena mero dalana
+  amo lasi.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Ina mero tauna ena sivarai amo ba hamatamaia: ena gaukara, ena ura gaukara, ena dina dalana, bona dahaka ia moalelaia."
+  - "Anina be mai gaukara haida, hegeregere hardware haginia, motuka huria, bona au haginia, be namo, bema gaukara be skul hegeregerena lasi."
+  - "Mero ibounai be tool eiava spot lasi e ura henia. Haida be nadua, ane, gaden, ata eiava ma haida e naria e ura henia. Ba henia, ba itaia, bona ia murinai ba lao."
+  - "Gaukara dalana be namo totona, kaia tool ba kokia bona ba naria, bona ena diba e idau neganai ba habadaia."
+  - "Lasi gwauraia be namo. Asignmen lasi, to gaukara kahana ba henia, bona rani ma ta ba haheaua."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Dementia e karaiamu mero taudia be dahaka gaukara e moalelaia?"
+    a: "Lista ta lasi, badina mero taudia edia ura be idauidau. Namo hamatamaia dalana be ena gunala gaukara ida e kahana gaukara, hegeregere pepa haginia eiava nat bona bolta haginia, bona ia e ura henia gauna, hegeregere kwara, motuka, ane, nadua eiava spot. Ia sibona e karaia gauna ba itaia bona unai amo ba haheaua."
+  - q: "Lau tama be grup gaukara e dadaraia. Dahaka lau karaia diba?"
+    a: "Tau taudia momo, mero bona hahine, be skul hegeregerena eiava mero maragi dalana gaukara e dadaraia. Gaukara ta ba henia: 'Oi diba ba durua lau, ina ba haginia?' Ta ta ida eiava maragi grup ida e noho neganai, bada grup be namo."
+  - q: "Ia tool e gaukaralaia diba, eiava namo lasi?"
+    a: "Ba naria bona namo tool sibona ida. Pawa tool, kaia, bona kaia gauna ibounai ba kokia, bona gaukara hegeregere au haginia, goada hardware haginia, eiava bada bolta ima ida e haginia ba henia. Alzheimer's Association e gwauraia, wokshop amo dika gauna ba kokia, unai dainai au haginia gaukara be namo bona mai goada."
+  - q: "Ia be profesenal tauna. Gaukara maragi be ia e hadikaia diba?"
+    a: "Bema gaukara be anina lasi dalana ai ba hahedinaraia, unai be diba. Gaukara be taunimanima durua hereana ba gwauraia, taunimanima edia gaudia ba gaukaralaia, bona ena gunala gaukara ida e kahana gaukara ba abia, hegeregere lista ba itaia, fail ba haginia, eiava mail ba hagugua. Bema ia be gunala ai ia goada, kahana gaukara ta be namo, unai be hahegeregerea lasi."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Tau taudia momo e tahua, "dementia e karaiamu mero taudia edia gaukara" badina ma haida be oi e naria tauna ena mauri ida e kahana lasi. Unai be namo tahua. To haere be "mero taudia edia gaukara" lista ta lasi. Haere be ina tauna ia sibona amo ba hamatamaia: ia dahaka gaukara ia karaia, wikeni ai ia dahaka ia karaia, bona dahaka ia karaia neganai ia e moale bona anina ia davaria. Taunimanima ibounai edia ura be idauidau. Mero haida be nadua, gaden, ata eiava ane e ura henia, bona hahine haida be motuka bona beisbol e ura henia.
 
-## How do I find activities he will actually enjoy?
+## Edena dala ai lau dibaia ia be dahaka gaukara e moalelaia?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Ena mauri sivarai amo ba hamatamaia. Alzheimer's Association e gwauraia, [dina plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ba karaia tauna ena ura gauna, ena dika gauna, ena goada bona ena ura amo, bona ia gunala neganai ena dina edena dala ia haginia. Oi sibomu ba nanadaia:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Ena gaukara be dahaka?** Opisi, tano, faktori, hanua gaukara, ami, hoihoi, skul hahediba, draiva, eiava ruma ai?
+- **Ena noinoi neganai ia dahaka ia karaia?** Kwara, kad, au gaukara, spot, ekalesia, ane, nadua, motuka?
+- **Ena dina dalana be dahaka?** Daba matana ai kofi bona niuspepa? Guba ba itaia? Sarere ai motuka huria?
+- **Hari ia sibona dahaka e hamatamaia?** Alzheimer's Association e gwauraia, bema tauna be gaukara ta ia sibona e hamatamaia, hegeregere ruma haginia, unai gaukara be dina dalana ai ba atoa.
+- **Ia dahaka e dadaraia?** Haida be spot itaia e moalelaia; haida be regena bona anina e hadikaia. Ia e moale, e garigari, eiava e badu neganai ba itaia.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Ruma bese taudia bona gunala turana ida ba herevala. Idia be gunala ura gauna haida e laloatao diba.
 
-## Activity ideas based on past work
+## Gunala gaukara amo gaukara haida
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association e hahedinaraia: gunala opisi tauna be haginia gaukara e moalelaia diba, hegeregere moni atoa, mail ba hagugua eiava to-do lista ba karaia, bona gunala fama eiava gaden tauna be murimuri ai gaukara e moalelaia diba. Unai lalo be gaukara ma haida edia diba.
 
-| Past work | Activity ideas | Simpler version |
+| Gunala gaukara | Gaukara haida | Gaukara maragi |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Opisi eiava bisnis | Pepa fail ai ba haginia, envelop ba stemp, lista ba itaia, des draoa ba haginia | Envelop ba atoa; pepa klip bokis ai ba atoa |
+| Hanua gaukara eiava mekenik | Goada nat, bolta bona wasa ba haginia; bada bolta ima ida ba haginia; tool katalog ba itaia | Lalo rua ai, bada bona maragi ba haginia |
+| Fama eiava gaden | Ranu ba henia, au ba hadoa, rau ba rake, gaden ba itaia | Oi e gaukara neganai ia kahana ai ba helai; au varo ba dogoatao |
+| Ami | Tamaka ba polish, draoa ba haginia, bema ia e moalelaia, sevis lalonai e mai gauna ba itaia | Unai nega ena ane ba kamonai |
+| Hoihoi eiava kastoma sevis | Lou taudia ba hanamoa, aniani maragi ba hariharilaia, kupon ba haginia | Idura kahana ai ba helai, "hello" gwauraia totona |
+| Skul hahediba | Ba duahia, buks ba haginia, laulau amo piksa ba haginia | Piksa buka ta ida ba itaia |
+| Draiva eiava transport | Map eiava gunala motuka magasin ba itaia, motuka ba huria | Lanai amo motuka e lao e mai ba itaia |
+| Ruma bona famili | Dabua ba loka, teibol ba haginia, dina ba karaia | Napkin ba hamatamata; aniani ba miki |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Laloatao haida, hegeregere ami sevis, be bada hereva e havaraia diba. Ia murinai ba lao, gunala sivarai be namo dalana ai ba gwauraia, bona bema ia e garigari, maragimaragi hereva ba haidaua.
 
-## Activity ideas based on hobbies
+## Ura gaukara amo gaukara haida
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Au gaukara.** Au maragi ta ba haginia eiava manu ruma kit ta ba kala. Alzheimer's Association e gwauraia, wokshop amo dika gaudia bona tool ba kokia, unai dainai au haginia gaukara be namo bona mai goada.
+2. **Kwara.** Huk ba kokia murinai takel bokis ba haginia, kwara magasin ba itaia, eiava ranu kahana ai ba helai hebou.
+3. **Motuka.** Motuka ba huria, krome ba polish, gunala motuka piksa ba itaia, eiava pasindia dalana ai ba draiva.
+4. **Spot.** Gunala spot gem eiava highlight ba itaia, maragi bolo ba tahoa, kapet ai golf bolo ba atoa, eiava beisbol kad ba haginia.
+5. **Kad bona gem.** Ia e diba kad gem maragi ta, domino, eiava kad ba hurea hegeregere ta ba tahua. Moale dalana ai, poin ba duahia lasi.
+6. **Ane.** Ena tineja negana bona tuenti negana ena ane, ena ura bend, eiava him. [Ane gaukara dalana](/activities/music/) ba itaia.
+7. **Nadua bona gril.** Aniani ba huria, sos ba miki, bege ba karaia, eiava ena chili ia karaia dalana ba herevalaia, oi e nadua neganai.
+8. **Niuspepa.** Alzheimer's Association e gwauraia, tauna be niuspepa ia duahia neganai, hari ia e moalelaia diba, ena hereva ia laloa goada lasi be diba. Kofi bona niuspepa be daba matana ai e noho diba.
+9. **Hagugua.** Bada pisis model kit eiava maragi hagugua set, taunimanima edia. Dogoatao be namo pisis ba abia.
+10. **Gauna ta ba naria.** Animal ba ania, manu ena aniani ba atoa, eiava au ba ranu henia. NIA e gwauraia, [animal ania, huria eiava laohaia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) be taudia haida e moalelaia gaukara.
 
-## How do I offer an activity without it feeling like busywork?
+## Edena dala ai gaukara lau henia, to ia laloa be anina lasi gaukara?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Taunimanima durua hereana ba gwauraia. Alzheimer's Association e gwauraia, "Oi diba ba durua lau?" ba nanadaia, bona gaukara ena anina ba gwauraia. Ba hahegeregerea:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "Oi ura nat ina ba haginia?" (test hegeregerena)
+- "Lau hardware mix bag ta lau hoia, lau shelf lau hamaoromaoro totona lau haginia be namo. Oi diba ba durua lau?" (gaukara hegeregerena)
 
-Other tips:
+Mauri haida:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Taunimanima edia gaudia ba gaukaralaia.** Kaia be lasi tool, taunimanima katalog, taunimanima envelop.
+- **Kahana ai ba gaukara hebou.** Ruaosi e gaukara hebou be turadia. Ta e naria ta e gaukara be naria dalana.
+- **Ba hamaoroa lasi.** Bema nat be kap lasi ai e diho, ba noho. Namo gauna be hebou negana bona ia e durua tauna dalana.
+- **Ia ba durua ia hamatamaia.** Alzheimer's Association e gwauraia, tau taudia momo be gaukara karaia e ura, to hamatamaia bona haginia be auka. Ginigunana ba karaia hebou.
 
-## How do I adapt as things change?
+## Gaukara edena dala ai ba haidaua, negana e idau neganai?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Dementia e lao neganai, Alzheimer's Association e gwauraia, gaukara maragi bona lou karaia ba henia, bona tauna be maragimaragi e karaia diba dalana ba hagoevaia. Gunala neganai enjin ia hamaoromaoroa tauna be hari goada wrench ta ia dogoatao bona motuka ia herevalaia e moalelaia diba, eiava oi e gaukara ia itaia. Itaia be kahana dalana.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Bema ia be gunala ai ia goada momo, kahana gaukara ta be namo, ena gunala gaukara hegeregerena lasi. Alzheimer's Association e gwauraia, profesenal ata tauna be ena gaukara e idau dainai e badu diba, to amatea tauna be matamata gaukara e moalelaia diba. Unai hegeregerena be bada kapenta tauna edia.
 
-## Safety with work-style tasks
+## Gaukara dalana ai namo
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Pawa tool, kaia, nil, bona kaia matana skru ba kokia.
+- Penit taina, gasolin, bona kemikal ba guia.
+- Bema ia draiva lasi, motuka ki ba hunia.
+- Wokshop bona gaden gaukara ibounai ba naria.
+- Bada pisis, hadika lasi, ba abia.
 
-## What if he says no?
+## Bema ia e gwauraia "lasi"?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Ba matauraia. "Lasi" ena anina be gaukara e auka, e mero maragi, eiava hari be namo lasi. Alzheimer's Association e gwauraia, ba sinia lasi. Gaukara ma ta, nega ma ta, eiava kahana ai ba helai sibona. [Bema ia e gwauraia "lasi" neganai dahaka ba karaia](/caregiving/when-they-say-no/) ba itaia.
 
-## Games and conversation that fit
+## Gem bona hereva haida
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) e Amerika ena hereva diba e gaukaralaia bona hereva e havaraia. [Conversation Cards](/games/conversation-cards/) ai hetema tema amo henanadai be mai, test lasi, bona gaukara bona ura sivarai e havaraia diba. [Picture Puzzle](/games/picture-puzzle/) ai laulau ibounai e itaia neganai pisis ba haidaua, bona bada leta [Word Search](/games/word-search/) be ba printaia bona teibol ai pen ida ba karaia diba. Ena gunala sivarai herevalaia dalana, test lasi, [reminiscence dalana](/activities/reminiscence/) ba itaia.

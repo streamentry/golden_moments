@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Guna Laloa Gaukara: Boksi, Mauri Sivarai, Lada"
+seoTitle: "Dementia Taudia: Guna Laloa Gaukara"
+description: "Dementia ida noho tauna ida guna laloa oi hereva dalana: henanadai lasi, lada hereva, lalohadai boksi, bona mauri sivarai buka."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Guna laloa hereva anina be oi bona emu tauna ida guna dala oi moalemu, lada,
+  gau, ane, bona sivarai amo. Laloa boksi oi karaia, mauri sivarai buka oi
+  karaia, eiava lada oi itaia hebou. Henanadai lasi: “Oi laloa, a?” eiava
+  “Daika be daika?” oi gwau lasi. “Inai oi herevalaia” bamona hereva namona
+  oi gaukaralaia. Namona hereva be gau badana, hereva momokani be gau badana lasi.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Guna laloa hereva be hereva moale, tes lasi. Hereva momokani be gau badana lasi; moale be gau badana."
+  - "‘Oi laloa, a?’ bona ‘Daika be daika?’ oi raka lao, ‘Inai dina oi herevalaia’ bamona hereva oi gaukaralaia."
+  - "Taunimanima ena mauri amo gau ida lalohadai boksi ese ima bona hereva e durua."
+  - "Mauri sivarai buka ese ruma bese, vadivadi taudia, bona naria taudia e durua tauna e diba, gorere sibona lasi."
+  - "Bema lalohadai ese lalohisihisi e mailaia, ginigunana do oi hamomokania, bona maragimaragi oi lao kahana ma ta gau."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Dementia ida noho taudia edia guna laloa hereva be dahaka?"
+    a: "Guna laloa hereva be guna sivarai bona laloa oi hereva hebou, laloa lada, gau, ane, eiava vidio amo. Ia be ta ta eiava taudia momo ida e karaia diba. Anina be namona bona anina bada hereva, tauna ena lalohadai oi tes lasi."
+  - q: "Dahaka dainai ‘Oi laloa, a?’ oi nanadaia lasi?"
+    a: "Lalohadai e tes henanadai ese tauna e hahererea eiava e lalohekwarahi diba, bema haere e mai lasi. National Institute on Aging e gwau, tauna be gau ta eiava tauna ta e laloa, a lasi, oi nanadaia lasi. Oi itaia gauna oi herevalaia, bona tauna ena ura hereva ia e gwauraia."
+  - q: "Laloa boksi lalonai dahaka oi atoa?"
+    a: "Namona bona auka gau oi abia hidi, tauna ena mauri ida e tubu: gaukara gau, moale gaukara, ia uraia dika keru, poskadi, nadua pepa, siporo lalohadai gau, eiava lada kopi. Kaia gauna, maragi gauna e hadika diba, bona gau badadia momokani oi atoa lasi."
+  - q: "Bema ia e hereva kerere?"
+    a: "Oi rakatania. Bema oi sinana e gwau lada lalonai ia tadina, to ia kakana, ia namo. Oi hamaoromaoroa neganai moale nega e lao tes. Ia e herevalaia sivarai oi badinaia, bona hebou oi moale."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Guna laloa hereva anina be guna dala oi moalemu hebou. Dementia ida noho taudia momo edia lagani momo gunana lalohadai be ia e kamonai namonamo, hari dabai e vara gauna be ia laloa auka. Lada, diba gauna gau, ane, bona sivarai ese unai lalohadai e kehoa diba, bona oi ruaosi oi hereva moale diba. Taravatu ta sibona: ia be hereva moale, tes lasi.
 
-## What is reminiscence, and how is it different from quizzing?
+## Guna laloa hereva be dahaka, bona tes ida dahaka idau?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Guna laloa hereva be lada, gau, ane, eiava vidio amo guna laloa oi hereva hebou, tauna ena maragimaragi dalana amo. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e gwau, ia be guna sivarai oi hereva hebou, lada, gau, vidio, eiava ane amo, buka lalonai eiava tablet lalonai. Tes be ma ta: tauna ese haere momokani ia hahedinaraia be namo, bona unai ese hemataurai e mailaia diba, moale lasi.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) e gwau, tauna be gau ta eiava tauna ta e laloa, a lasi, oi nanadaia lasi. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e gwau, harihari lalohadai e gaukaralaia henanadai oi rakatania, bona gunaguna dala oi herevalaia.
 
-| Instead of | Try |
+| Unai badana lasi | Inai oi tohoa |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Oi inai oi laloa, a?" | "Inai be moale dina. Oi herevalaia." |
+| "Daika be daika?" | "Inai be Aunty Rose kone ai. Itaia ia ena hat." |
+| "Edena lagani ai?" | "Inai be gunana ruma. Unai ai oi noho neganai dahaka bamona?" |
+| "Lasi, ia be Bill lasi, ia be Frank." | "Ia be moale tauna bamona." |
+| "Unai oi gwauraia vadaeni." | "Lau urana unai sivarai." |
 
-## How do you talk about photos without quizzing?
+## Lada oi herevalaia totona, henanadai lasi, edena bamona?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Oi itaia gauna amo oi hamatamaia, bona tauna ia ura bema hereva ta ia atoa, ia e hereva diba.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Hebou oi helai.** Albam oi atoa oi ruaosi huanai, oi itaia hebou, tes lasi.
+2. **Lada haida oi abia hidi.** Lada 5 namodia be boksi ta badana ena hereva namo. Lada badadia bona mai anina namona be namo.
+3. **Taunimanima edia ladana oi gwauraia.** "Inai be oi bona Tamana oi ruaosi headava dinana" ese hekwakwanai e kokia.
+4. **Gau maragidia oi herevalaia.** Dabua, ka, aniani, guba, vairana. "Ka namona. Ia e hururuhururu."
+5. **Oi boiria, oi gwau taravatu lasi.** "Oi herevalaia..." eiava "Dahaka oi itaia?" Kunu be namo.
+6. **Ia ena dala oi badinaia.** Bema ia e hereva ma ta gau, unai dala oi badinaia.
+7. **Moale neganai oi dokona.** Hegaraia lasi neganai, albam oi koua.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Hereva e hamatamaia dalana oi ura bema, [conversation cards](/games/conversation-cards/) oi tohoa. Emu ruma bese edia lada amo maragimaragi hegearalaia gaukara oi karaia totona, [photo pairs](/games/photo-pairs/) oi tohoa; oi abia hidi lada be emu browser lalonai e noho.
 
-## How do you make a memory box?
+## Laloa boksi edena bamona oi karaia?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Laloa boksi be tauna ena mauri amo gau e atoa gauna, imana amo e dogoatao bona e herevalaia.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Auka namona boksi oi abia hidi** e kehoa haraga, bamona tamaka boksi, hat boksi, eiava au maragi boksi.
+2. **Sivarai ta eiava momo oi abia hidi.** Gaukara, moale gaukara, gabu, lagani, eiava momo haida.
+3. **Namona gau oi haboua.** Gau 5 do 10 be namo hamatamaia totona.
+4. **Gau badadia momokani edia kopi oi gaukaralaia.** Lada bona pepa badadia momokani oi kopi, momokani oi gima namonamo.
+5. **Gau ta ta oi abia.** Ta oi henia, unai oi herevalaia, bona hereva e lao edena bamona oi itaia.
 
-Ideas to include:
+Atai diba gau haida:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Gaukara:** ladana badana, maragi gaukara gauna, uniform pat, buka, nesi pin, aniani ruma ena buka.
+- **Ruma:** ia imana ena nadua pepa, tei taol, ia uraia dika keru eiava tai.
+- **Moale gaukara:** qarume au (kaia lasi), besbol polo, qarume gini, au vada.
+- **Gabu:** poskadi, map, vadivadi lalohadai gau, gunana taun ena nius pepa kopi.
+- **Ruma bese:** lada edia kopi, natuna ena dro, headava boiboi pepa.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Kaia gauna, maragi gauna e hadika diba, bona lalohisihisi e mailaia diba gauna oi atoa lasi, bema oi diba ia e uramu.
 
-## How do you make a life-story book?
+## Mauri sivarai buka edena bamona oi karaia?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Mauri sivarai buka be tauna ena mauri sivarai e hahedinaraia albam maragimaragi, lada bona hereva maragidia ida. Ia be hebou oi itaia diba gauna, bona vadivadi taudia bona naria taudia e durua tauna momokani e diba.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Dalana oi abia hidi.** Lada pepa gima gauna ida bainda, print karaia lada buka, eiava tablet lalonai slideshow.
+2. **Kahana haida oi laloa.** Maragi negana, sikuli, gaukara, ruma bese, noho gabudia, abidadama, moale gaukara, uramu aniani bona ane.
+3. **Pepana ta ai lada ta eiava rua oi atoa** hereva maragi badana ida: "Mary, lagani 22, benk ai gaukara e hamatamaia."
+4. **Ia uramu gaudia bona dala oi atoa.** "Ranu bona susu ida kofi e inua. Sande ane e uramu. Lada TV e ura lasi." Inai ese ia e naria taudia e durua.
+5. **Tauna oi halasia** ia ena ura hegeregerena, lada e abia hidi, sivarai e herevalaia, eiava e itaia.
+6. **Oi atoa lou.** Ia e ore lasi be namo, to ia be gau namona.
 
-## More reminiscence ideas
+## Guna laloa hereva ma haida
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Ia ena tauhau negana ane oi halasia** bona e lao gabuna oi herevalaia. [Ane gaukara](/activities/music/) oi itaia.
+- **Ruma bese vidio eiava TV hereva** ia uramu lagani amo oi itaia.
+- **Maragi negana aniani oi nadua** bona bonana ese hereva e hamatamaia.
+- **Ia ena gunana taun ena map oi itaia** bona diba daladia oi badinaia.
+- **Gunana katalog eiava magasin oi itaia** bona davana, dabua, bona ka oi herevalaia.
+- **Ia ena sivarai oi rekoda** telefon lalonai, ia e gwau taravatu bema, ruma bese totona.
+- **Telepon ai oi hereva hebou.** Vidio telepon ai lada ta oi hahedinaraia; [telepon bona vidio telepon](/activities/phone-and-video-calls/) oi itaia.
+- **Oi vadivadi neganai lada eiava gau ta oi mailaia.** Vadivadi e namo diba; [vadivadi](/activities/visiting/) oi itaia.
 
-## What if a memory is painful?
+## Bema lalohadai be e hisihisi?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Haida lalohadai ese lalohisihisi, lalometau, eiava gari e mailaia diba. Bema tauna e lalohisihisi, oi dokona, oi hamomokania, bona maragimaragi ma ta sivarai eiava gaukara oi hamatamaia. E vara gauna oi hepapahuahu lasi. Family Caregiver Alliance e gwau, tauna e kerere oi hamaoromaoroa tohoa lasi, bona ia e hahedinaraia lalo oi haere henia, unai be momokani. Bema ia mase tauna ta e herevalaia ia mauri noho bamona, ia ena lalo oi haere henia: "Oi lalometau ia. Ia oi herevalaia."
 
-## What does the research say?
+## Diba taudia edia tahua be dahaka e gwau?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane ena guna laloa hereva tahua](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), triel 22 bona taudia 1,972 ida, e davaria anina be idauidau, maragi, bona gabu bona dalana hegeregerena e idau. Dementia ida noho taudia edia dika ta e davaria lasi. Ai e gwau guna laloa hereva be namo, badina ia ese moale bona anina bada nega e henia diba hebou ai, muramura dalana lasi. Hereva namona dalana ma haida totona, [hereva dalana diba](/caregiving/communication-tips/) oi itaia.

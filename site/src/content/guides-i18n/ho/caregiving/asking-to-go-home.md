@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Dementia tauna ia ura ruma dekenai lao hanaihanai"
+seoTitle: "Dementia tauna ia ura ruma lao: Dahaka oi gwauraia"
+description: "Dahaka dainai dementia tauna ia ura ruma dekenai lao, ena be ia ruma ai. Dahaka oi gwauraia, heduru gaukara, bona ia lao tohoa neganai namonamo dalana."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Dementia tauna ia ura ruma dekenai lao hanaihanai neganai, "ruma" anina be
+  namonamo bona noinoi namona lalona, to ruma ta lasi. Oi ia hadikaia lasi, ia
+  ruma ai oi gwauraia lasi. Ena lalona oi kamonai henia, ia namo oi gwauraia,
+  ruma dekenai oi nanadaia, bena maragimaragi oi hakaua laulau, ane, aniani
+  maragina, raka bona kara maoromaoro ta dekenai. Ia mai rami, ranu, toi, eiava
+  hisihisi be lasi oi itaia. Ena be harihari ia vara, ena dokta oi boiria.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Lau ura ruma dekenai lao\" anina be \"Lau namo lasi eiava lau noinoi namona lasi,\" to adres ta ura lasi."
+  - "Oi ia hadikaia eiava ia ruma ai oi hamomokania neganai, ena auka ia bada herea. Ena lalona dekenai oi haere."
+  - "Ruma dekenai ia oi nanadaia ia herevalaia, bena laulau, ane, aniani maragina, raka eiava kara maoromaoro ta oi henia."
+  - "Gaukara maoromaoro ta oi itaia: rami, ranu, toi, hisihisi, siahu eiava keruma bada, regerege, eiava gorere."
+  - "Ena be adorahi hanaihanai ia vara neganai, sundowning dainai; dala tamona bona diari namona ia heduru."
+  - "Ia lao tohoa neganai namonamo dalana oi hegaegae, bona gau haida harihari ia idau neganai ena dokta oi boiria."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Dahaka dainai egu sinana dementia danu ia ura ruma dekenai lao hanaihanai, to ia ena ruma ai?"
+    a: "Dementia dainai ruma gauna ia diba taudia be idau herea, bona taunimanima haida idia laloa idia negai ginigunana ta ai. \"Ruma\" anina be ena mera ruma eiava namonamo bona mauri namona lalona. Ia be ede ia noho oi gwauraia lasi, to ena lalona dekenai oi haere neganai ia namo."
+  - q: "Ia ura ruma dekenai lao neganai, dahaka lau gwauraia?"
+    a: "Oi tohoa: \"Oi inai ai oi namo, lau oi danu ai noho.\" Bena \"Emu ruma dekenai oi herevalaia.\" Oi kamonai, laulau ta eiava ane ta oi hahedinaraia, bona ranu eiava raka kwadogi ta oi henia. \"Oi ruma ai\" oi gwauraia hadikaia dalana ai lasi, badina ia laloa ia be kerere."
+  - q: "Ia namo be \"Ita gabeai ruma dekenai ita lao\" ita gwauraia?"
+    a: "Ruma bese taudia bona dementia hebou taudia edia lalo be idau. Bada herea idia hamatamaia be momokani heduru bona hakaua dalana ai, bona momokani lasi hereva maragimaragi be tauna ia auka bada ia abia diba lasi neganai sibona idia gaukaralaia. Oi dahaka oi abia hidi, oi hebogahisi bona dala tamona ai oi karaia, bona ena lalona oi kirikirilaia lasi."
+  - q: "Ia ura ruma lalonai ia lao neganai, dahaka lau karaia?"
+    a: "Oi noia noho, ia oi koua lasi; ia danu oi raka neganai, raka kwadogi ta ia hanamoa. Gunalaia ai namonamo dalana oi hegaegae, hegeregere ID gimai, dua regerege, bona laulau matamata ta. Ia boio neganai, harihari oi tahua, bona miniti 15 lalonai oi davaria lasi neganai 111 oi boiria, oi gwauraia tauna ia mai dementia."
+  - q: "Edana negai lau dokta lau boiria?"
+    a: "Nanadai eiava laloa kerere ia hamatamaia harihari eiava ia dika bada hora eiava dina haida lalonai neganai, dokta oi boiria haraga. Siahu gorerena, muramura matamata, eiava urinary tract infection toana ia vara neganai, harihari oi karaia. Laloa kerere harihari be delirium dainai, mauri heduru harihari ia ura. Taunimanima ta ia auka ai neganai, 111 oi boiria."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Lau ura ruma dekenai lao." Ruma bese taudia momo toadia, inai be hereva auka ta, oi naria tauna dementia danu ia ena ruma ai ia helai neganai danu. Inai be gau momo ia vara, dementia negana ibounai ia vara diba, bona oi haere dalana namona bona maoromaoro ta oi karaia diba. Inai pepa ia herevalaia hereva inai ena anina, dahaka oi gwauraia, nega inai ai heduru gaukara, bona namonamo dalana.
 
-## Why does someone with dementia keep asking to go home?
+## Dahaka dainai dementia tauna ia ura ruma dekenai lao hanaihanai?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Bada herea, "ruma" anina be lalona ta, to gabuna ta lasi. Alzheimer's Society ia gwauraia inai be namonamo bona noinoi namona lalona, eiava gunalaia ruma ta, to ruma gauna lasi. Dementia dainai ruma gauna ia diba taudia be idau herea, bona tauna ia laloa ia negai ginigunana ta ai ia noho, ena mera ruma eiava ena natuna ia naria ruma dekenai.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Inai hereva ia hahedinaraia danu harihari gau haida ia kerere: ia mai rami, ranu, ia ura toi, ia mai hisihisi, ia siahu eiava keruma bada, ia gorere, ia sibona, ia gari, eiava regerege dainai ia auka. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ia gwauraia hisihisi, regerege, sibona noho, dala idau, bona muramura be auka badana ta.
 
-## What should I say when they ask to go home?
+## Ia ura ruma dekenai lao neganai, dahaka lau gwauraia?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Hereva dekenai lasi, to lalona dekenai oi haere. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ia gwauraia tauna oi hamomokania ia kerere lasi: ena lalona be momokani, unai dainai ginigunai oi hanamoa bona oi hamaoromaoroa, bena maragimaragi oi hakaua.
 
-Phrases that often help:
+Heduru hereva haida:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Ena lalona oi gwauraia.** "Oi ruma oi lalohadailaia, lau diba."
+- **Oi hamaoromaoroa.** "Oi inai ai oi namo, lau oi danu ai noho." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ia gwauraia hereva maoromaoro inai: "Oi inai ai oi namo."
+- **Laloatao dekenai oi nanadaia.** "Emu ruma dekenai oi herevalaia. Emu kuki ruma be edeheto?" Gunalaia negana dekenai nanadai be hari negana nanadai badana, ia namo herea.
+- **Gau ta umui ruaosi oi karaia oi henia.** "Ginigunai ti ita inua," eiava "Inai taulo oi heduru lau diba?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Hereva maragimaragi bona imana oi dogoatao, ena be ia ura neganai, ia heduru bada.
 
-## What should I avoid?
+## Dahaka lau karaia lasi?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Hadikaia eiava heclearalaia.** "Oi inai ai oi noho" eiava "Inai be emu ruma lagani 40" be ia ura ia abia dementia dainai ia auka, bona ia laloa ia kerere.
+- **Nanadai momo.** "Oi laloatao lasi, a?" eiava "Adres be dahaka?" be auka ia henia.
+- **Dua oi koua badu ai.** Ia lao tohoa neganai, oi noia noho bona ia danu oi raka. Raka kwadogi ta ia hanamoa.
+- **Harihari.** Hereva oi haidaua lasi, ia ruma dekenai ia herevalaia negana oi henia.
 
-## Activities that can help in the moment
+## Nega inai ai heduru gaukara
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Ena lalona oi kamonai henia murinai, gaukara namona ta ia ura ia hakaua diba, to ia kirikirilaia lasi.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Ruma bona ruma bese edia laulau oi itaia.** Pepa oi huri bona oi herevalaia ("Inai gadena oi itaia"), to nanadai oi henia lasi. Telepono eiava tablet ai, [Photo pairs](/games/photo-pairs/) emu ruma bese edia laulau ia halaoa gaukara maragimaragi ta ai, bona laulau be emu masin ai idia noho.
+2. **Ruma dekenai oi herevalaia.** [Conversation cards](/games/conversation-cards/) ia henia hereva hamatamaia ruma, kuki ruma, kahana taudia bona dina badadia dekenai, haereva maoromaoro lasi.
+3. **Ia ura ane ta oi haboua.** National Institute on Aging ia gwauraia ane maragimaragi be auka ia hanamoa dalana ta. Emai [ane gaukara](/activities/music/) oi itaia.
+4. **Aniani maragina eiava ranu oi henia.** Rami bona ranu auka be raka raka heto. Ti kapu ta eiava aniani namona ta be ruma ai noho lalona ia hamatamaia.
+5. **Oi raka eiava murimuri ai oi helai.** Raka bona dina diari ia heduru, adorahi gunana ai.
+6. **Kara maoromaoro ta oi henia.** Dabua hurehure, naifi bona foroko hagoevaia, eiava au gabu ranu henia be ruma naria lalona ia hahegeregerea.
+7. **Gau ibounai oi hamaraginaia.** TV oi hakapua, regerege bona diari badana oi hamaraginaia, bona [calm breathing](/games/calm-breathing/) umui ruaosi oi karaia.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Dalana ta ia karaia lasi neganai, gabeai ma ta oi tohoa. Umui ruaosi noia helai danu be namo.
 
-## Check for a cause you can fix
+## Oi karaia diba kerere ta oi itaia
 
-| Check | What to try |
+| Itaia | Dahaka oi tohoa |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Rami eiava ranu | Ranu bona aniani maragina ta oi henia |
+| Ia ura toi | Maragimaragi toi gabu dekenai oi hakaua |
+| Hisihisi eiava auka | Ia matana ia haheauka, tauanina gabuna ta ia dogoatao, eiava bokana ia koua toana oi itaia, bona ena dokta oi hamaoroa |
+| Siahu eiava keruma bada | Dabua ta oi haidaua eiava ruma siahu oi haidaua |
+| Regerege eiava taunimanima momo | Ruma noia ta dekenai oi lao, TV oi hakapua |
+| Ia gorere eiava ia auka momo | Ia laga-ani, ruma oi haguguba, ane maragimaragi oi haboua |
+| Adorahi | Inai henunai hereva oi itaia |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society ia gwauraia hereva kwadogi ta oi torea: edana negai ia ura lao, hegeregere aniani lasi, vadivadi murinai, eiava adorahi guguba neganai. Dala idia hahedinaraia neganai, oi hegaegae namonamo.
 
-## Is it okay to tell a white lie?
+## Momokani lasi hereva maragina ita gwauraia diba, a?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Inai be hereva bada, bona ruma bese namodia edia lalo be idau. Alzheimer's Society ia gwauraia dala tamona maoromaoro lasi: momokani lasi hereva haida taudia haida edia laloa kerere ia habadaia diba, unai dainai tauna ena namo dekenai oi laloa bona dala tamona ai oi karaia. Penn Memory Center ai, co-director ena lalo be momokani be dala badana, bona momokani lasi hereva maragina be tauna momokani ta ia abia diba lasi neganai sibona. Ena lalona oi kirikirilaia lasi.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Naria taudia momo idia davaria dala namona be: ginigunai momokani heduru bona hakaua ("Ita inai ai ita mahuta hari hanuaboi, lau oi badibadina ai"), to ruma gabuna dekenai hadikaia lasi.
 
-## What if it happens every afternoon or evening?
+## Adorahi hanaihanai ia vara neganai, dahaka ita karaia?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Adorahi lalonai auka eiava raka raka ia bada neganai, idia gwauraia sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ia gwauraia negana dala tamona, dina ibounai dina diari bona gaukara, adorahi mahuta kwadogi lasi, bona adorahi kofi eiava alcohol lasi. Dina guguba lasi, lama oi hakeaua danu ia heduru. Emai hadibaia [adorahi maragimaragi gaukara](/caregiving/late-day-restlessness/) ai hereva ma haida oi itaia.
 
-## Keeping them safe if they try to leave
+## Ia lao tohoa neganai namonamo dalana
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Ruma dekenai lao ura ia havaraia ia lao boio (wandering). [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ia laloa dementia taudia 10 lalonai 6 be nega ta ai idia lao boio.
 
-**Prepare ahead:**
+**Ginigunai oi hegaegae:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ID eiava mauri gimai, ena ladana bona emu telepono namba danu, bona ena dabua ai label. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) ia gwauraia MedicAlert bona Alzheimer's Association Safe and Found program, ia be moni ia ura diba.
+- Dua regerege eiava alarm, bona dua koua gauna be lata eiava henu ai. Tauna sibona oi koua ruma lalonai lasi.
+- Laulau matamata ta, bona ia lao diba gabudia edia lista, hegeregere ena gunalaia ruma eiava gaukara gabuna.
+- Kahana taudia oi abidadama henidia oi hamaorodia, bona emu namba oi henidia.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ia boio neganai:** harihari oi tahua; Alzheimer's Association ia gwauraia taudia momo be maila 1.5 lalonai idia davaridia. Miniti 15 lalonai oi davaria lasi neganai, 111 oi boiria bona oi gwauraia tauna ia mai dementia. Taunimanima ta ia auka ai neganai, harihari 111 oi boiria.
 
-## When should I call a doctor?
+## Edana negai lau dokta lau boiria?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Nanadai eiava laloa kerere ia hamatamaia harihari, eiava hora eiava dina haida lalonai ia dika bada neganai, ena dokta oi boiria haraga. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ia gwauraia kara idau harihari eiava harihari ia kerere, gorere eiava muramura idau murinai, be harihari oi itaia namonamo. Laloa kerere harihari be delirium dainai, [NHS](https://www.nhs.uk/symptoms/confusion/) ia gwauraia mauri heduru harihari ia ura; taunimanima latadia ai urinary tract infection be dala ta.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Dala tamona ia vara danu neganai, hebou gabena ai oi gwauraia, badina hisihisi, laloa dika, mahuta kerere eiava muramura anina kerere danu idia karaia diba.

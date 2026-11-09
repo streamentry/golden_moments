@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Dementia be ita taravatu diba? Ripoti ia gwau toma"
+seoTitle: "Dementia taravatu diba? Ripoti ia gwau toma"
+description: "2024 Lancet Commission bona trial badadia idia davaria dementia risk ihamaraina diba, idia davaria lasi, bona dokta ida herevalaia gaudia."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ta be dementia taravatu diba ia gwau hamomokania lasi. 2024 Lancet Commission
+  ia hesabia tanobada ai dementia case edia kahana hegeregere (45%) be risk
+  factor 14 ida idia hebou, idia haida be ita haidaua diba, hegeregere rara
+  pressure bada, kamonai kerere, bona tau hururuhuru lasi. Trial idia
+  hahedinaraia thinking test ai maragi maragidia, dementia case idia maragi
+  lasi toana lasi. Bema tau haida idia gau namodia ibounai idia karaia, to
+  dementia idia abia diba, bona unai be ta ena kerere lasi.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 Lancet Commission ia gwau tanobada ai dementia case edia 45% hegeregere be risk factor 14 ida idia hebou, idia haida be ita haidaua diba. Unai be tanobada hesabu, tau ta ena gwarume lasi."
+  - "Risk ihamaraina anina be tanobada ai tau momo edia odds ihamaraina. Unai anina be tau ta dementia ia abia lasi diba lasi."
+  - "Trial badadia, hegeregere FINGER, US POINTER bona SPRINT MIND, idia davaria thinking test eiava mild cognitive impairment ai maragi namodia, to ta ia hahedinaraia lasi lifestyle program ta ese dementia ia taravatu."
+  - "Lagu ani bada be Alzheimer’s ena risk factor badana, bona ita haidaua lasi diba. Bema tau haida edia mauri dalana idia namo, to dementia idia abia diba."
+  - "Ripoti momo idia stadilaia gaudia, hegeregere rara pressure bada ia namoa, kamonai heduru gaudia gaukaralaia, bona tau hururuhuru, be dokta ida herevalaia namo, badina idia mauri namona haida ai idia durua."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Dementia be ita taravatu diba, a?"
+    a: "Tau ta ena dementia taravatu diba dalana ta be ripoti ia hahedinaraia lasi. Ripoti ia gwau risk haida ihamaraina, hegeregere rara pressure bada, kamonai kerere namoa lasi, bona kukou ania, be tanobada ai dementia abia diba odds ia ihamaraina diba eiava ia matamaia negana ia haheauka diba. Unai be odds, gwarume lasi."
+  - q: "Lancet Commission ena 45% namba anina be dahaka?"
+    a: "2024 Lancet Commission ia hesabia tanobada ai dementia case edia 45% hegeregere be risk factor 14 ida idia hebou, unai be haidaua diba, bema dalana idia noho. Unai hesabu ia gwauraia unai factor idia dementia ia havaraia, bona ripoti taudia idia gwau hebou haida be kahana mo idia dika diba. Unai be tanobada ai tau momo ia herevalaia, tau ta ena risk ia herevalaia lasi."
+  - q: "Bema egu tama eiava sina ena mauri dalana ia namo, dahaka dainai dementia ia abia?"
+    a: "Lagu ani, gene, bona ita haidaua lasi diba gaudia momo idia dementia ai kahana bada. Lancet Commission taudia idia gwau tanobada ai risk ihamaraina be tau ta ena dementia abia lasi gwarume lasi. Dementia abia be ta ia kerere toana lasi."
+  - q: "Lagani 65 murina ai dementia risk ihamaraina be nega ia ore, a?"
+    a: "Lancet Commission ia gwau risk ihamaraina toana be nega matama eiava nega gabea lasi, to ripoti momo be tau gabuna negana ai idia herevalaia. Kamonai bona mata kerere namoa, tau hururuhuru, bona tau haida ida hebou noho be gabeai mauri ai karaia diba gaudia, ripoti idia stadilaia. Oiemu mauri toana ida dokta ida herevalaia."
+  - q: "Brain game eiava aniani dalana ta ese dementia ia taravatu, a?"
+    a: "Game ta, aniani ta, supplement ta, eiava diet ta ese dementia ia taravatu toana ia hahedinaraia lasi. Lagani toi MIND diet trial ia hahedinaraia thinking ai idia idau lasi control diet ida, bona hoihoi brain-training app edia ripoti trial ai idia itaia goada ia hahedinaraia lasi."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,139 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Bema oi be dementia ida tau ta oi naria eiava oiemu tama eiava sina dementia ida ia noho oi itaia, reana oi nanadaia dementia be ita taravatu diba eiava oi sibomu dekenai ita taravatu diba, a? Inai peji ai ripoti idia hahedinaraia gaudia ita herevalaia, gwau maoromaoro ai. Henao kwadogi be: ta be dementia taravatu diba ia gwau hamomokania lasi, to ripoti ia gwau risk haida be ita ihamaraina diba, bona tanobada ai unai risk idia ihamaraina neganai dementia abia taudia idia maragi diba eiava gabea neganai idia abia diba.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Inai be sivarai, dokta ena hereva lasi. Ba hereva mai [medical disclaimer](/medical-disclaimer/) bona oiemu mauri toana dekenai dokta ida ba herevalaia.
 
-## Can dementia be prevented?
+## Dementia be ita taravatu diba, a?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Tau ta ese dementia taravatu diba dalana ta be ripoti ia hahedinaraia lasi. National Institute on Aging (NIA) ia gwau
+[Alzheimer’s taravatu diba toana be ripoti ia hahedinaraia lasi](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+to ripoti taudia idia dalana namodia haida idia davaria bona dahaka idia gaukara diba eiava gaukara lasi idia diba.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ripoti idia hahedinaraia be mauri kerere bona dala haida be dementia abia diba odds bada ida idia hebou. Bema tanobada ai unai risk idia ihamaraina, tau haida be dementia idia abia lasi diba eiava gabea neganai idia abia diba. Unai be gwarume ida ia idau lasi.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Sivarai namo ta: 2024 Lancet Commission ia ripotia dala haida ai, hegeregere US bona UK, tau bada edia kahana ai dementia abia taudia idia maragi. Ripoti taudia idia laloa unai be sikuli namona, mauri naria namona, bona mauri ibounai ai rara dalana kerere ia maragi dainai,
+[University College London ena ripoti kwadogi](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ia gwau.
 
-## What did the 2024 Lancet Commission find?
+## 2024 Lancet Commission be dahaka ia davaria?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
+Lancet Commission on dementia prevention, intervention and care be ripoti taudia 27 edia huhui, lagani haida ta ta ai ripoti idia itaia lou. Edia 2024 ripoti ai **risk factor 14** idia gwauraia, unai be haidaua diba, bona idia hesabia unai ibounai be **tanobada ai dementia case edia kahana hegeregere (45%)**. Ripoti taudia edia hereva ai, bema unai risk idia kokia, unai case idia *laloa dalanai* taravatu diba eiava haheauka diba
 ([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Unai 14 factor, ripoti ia goada bada mauri negana dekenai:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Mauri matamana:** sikuli maragi.
+- **Tau gabuna negana (lagani 40–65 hegeregere):** kamonai kerere, LDL (“bad”) cholesterol bada, laloa hekwarahi, kwarana dika abia, tau hururuhuru lasi, diabetes, kukou ania, rara pressure bada, tau anina bada, bona inuinu momo.
+- **Gabeai mauri negana:** tau haida ida noho lasi, air kerere, bona mata kerere namoa lasi.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 ai idia halataia matamata factor rua be LDL cholesterol bada bona mata kerere namoa lasi. Case momo ida idia hebou factor be kamonai kerere bona LDL cholesterol bada (ta ta 7% hegeregere), murina ai sikuli maragi bona tau haida ida noho lasi (ta ta 5% hegeregere).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Ita eda [risk factors guide](/brain-health/risk-factors/) ai unai 14 ibounai ia hahedinaraia, ripoti ia gwau dahaka bona dahaka ita karaia diba.
 
-### What the 45% figure does not mean
+### 45% namba ia gwau lasi gaudia
 
-It is easy to misread this number, so it helps to be precise:
+Inai namba be diba kerere diba, unai dainai ba diba maoromaoro:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Unai be tanobada hesabu.** Unai be tanobada ai dementia case ia herevalaia, oiemu eiava oiemu tama/sina ena odds lasi.
+- **Unai ia gwauraia dika be badina.** Ripoti taudia idia gwau idia abia risk factor be ripoti goadadia mo, to hebou haida be kahana mo idia dika diba. Hegeregere, gabeai mauri ai laloa hekwarahi be dementia ena toana matamana diba, badina lasi.
+- **Tau ta dekenai gwarume lasi.** UCL ripoti kwadogi ia gwau risk ihamaraina be tanobada ai ia gaukara, to tau ta dementia ia abia lasi gwarume lasi.
+- **Case kahana ma haida be unai factor ai idia noho lasi.** Lagu ani, gene, bona ripoti taudia idia diba lasi badina haida be kahana ma.
 
-## What is the difference between "risk reduction" and "prevention"?
+## “Risk ihamaraina” bona “taravatu” edia idau be dahaka?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Risk ihamaraina** anina be odds ihamaraina. Bema tau momo edia rara pressure idia ihamaraina, lagani momo lalonai dementia idia abia taudia be maragi diba. Unai huhui lalonai tau haida be dementia idia abia diba.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Taravatu** anina be gau ta ia vara lasi. Dementia toana ai, ripoti be harihari tau ta dekenai unai ia gwau hamomokania lasi.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ripoti taudia idia hereva **haheauka** toana. Lancet Commission ia gwau ripoti matamata ia hahedinaraia risk ihamaraina be dementia ia matamaia negana ia haheauka diba bona tau ta mauri kerere ida ia noho negana ia kwadogia diba. Lagani haida mo ena haheauka be tau ta bona ena ruma bese dekenai gau badana.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Inai peji ai, ai “risk ihamaraina” bona “ida ia hebou” ai gaukaralaia. Bema oi itaia hoihoi gaudia, supplement, eiava program ta ia gwau “Alzheimer’s ia taravatu”, ba naria namonamo. NIA ia gwau dokta ida ba herevalaia guna murimuire ai muramura eiava namo ta oi gaukaralaia, badina unai gaudia be namo lasi diba, moni ia ore diba, eiava ruaosi.
 
-## What have large trials found?
+## Trial badadia be dahaka idia davaria?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Observational study (tau edia mauri idia itaia nega daudau ai) be hebou idia hahedinaraia diba. Randomized trial, tau idia program ta eiava idau huhui ta dekenai idia atoa hegamegamenai, be stadilai goadana. Inai be trial diba momo edia davana.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER trial ai tau 1,260, edia lagani 60–77, dementia abia risk bada ida, idia abia. Kahana ta ia abia lagani rua ena program: aniani hereva, tau hururuhuru, kompiuta brain exercise, bona kudou/rara dalana naria; ma ta ia abia mauri hereva sibona. Program huhui ia namo maragi thinking test haida ai, maragi to ripoti dalanai idia diba
+([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Trial ia stadilaia test result, dementia diba lasi.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ai tau 2,111, edia lagani 60–79, tau hururuhuru lasi, aniani namona lasi, bona risk haida ida, idia abia. Huhui ruaosi idia hagoadadia tau hururuhuru, laloa gaukara, aniani namona, tau haida ida hebou, bona kudou naria. Huhui ta ia abia program badina ida naria; ma ta ia naria sibona. Lagani rua lalonai, thinking test result ia namo **huhui ruaosi** ai, bona program badina ai ia namo maragi
+([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Ripoti taudia idia gwau naria ma haida be gau badana dina mauri ai eiava lasi diba toana. “Gau ta karaia lasi” huhui ia noho lasi dainai, trial be program ruaosi edia durua ia hahedinaraia lasi.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (rara pressure)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
+SPRINT MIND ia stadilaia US tau 9,361, edia lagani 50 eiava bada, rara pressure bada ida. Idia atoa rara pressure anina maragi (bada namba 120 ihana ai) eiava anina biasa (140 ihana ai). Anina maragi ia ihamaraina bada **mild cognitive impairment**, unai be laloa bona memoria kerere ta, dementia ia mai lasi guna. **Probable dementia** toana ai, anina maragi huhui ai case idia maragi, to idau be ripoti dalanai bada lasi. Trial ia dokona guna bona dementia case ia maragi hereana idia lalopararalaia, unai dainai unai henanadai ia haerelaia toana be maragi diba
 ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ripoti itaia haida edia hebou
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
+2021 Cochrane review ia haboua trial badadia 9, risk momo idia karaia program, tau 18,000 ia hanaia. Ia davaria thinking test ai maragi durua, to **dementia abia taudia edia namba ia idau lasi** trial rua ai idia stadilaia
 ([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 ai National Academies of Sciences, Engineering, and Medicine ena ripoti itaia, NIA ia herevalaia, ia davaria ripoti “namona to diba lasi”: rara pressure bada naria, tau hururuhuru habada, bona cognitive training.
 
-## Does it matter when you start?
+## Nega daika ai ita matamaia be gau badana, a?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Commission ena hereva be risk ihamaraina ba matamaia harihari bona ba noho daudau: “nega matama be namo” bona “nega daudau be namo”. Ia gwau danu risk ihamaraina be nega matama eiava nega gabea lasi. Ripoti momo be tau gabuna negana, lagani 40–65 hegeregere, ia herevalaia, to factor haida, hegeregere mata kerere bona tau haida ida noho lasi, be gabeai mauri ai risk, unai ai karaia be namo diba.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ripoti ia gwau ripoti matamata ia hahedinaraia risk ida noho daudau be goada bada. Hegeregere, tau gabuna neganai ia matamaia diabetes be gabeai neganai ia matamaia diabetes ia hanaia goada bada.
 
-## Is dementia risk the same for everyone?
+## Dementia risk be tau ibounai dekenai tamona, a?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Lasi. Commission ia davaria low- and middle-income countries ai tau, minority group ai tau, bona moni maragi tau edia dekenai unai risk idia momo, unai dainai dementia be lagani maragi ai ia matamaia diba. Risk momo be tau idia abia hidi lasi gaudia ida idia hebou, hegeregere natuna neganai sikuli namona, noho gabuna ena air, bona aniani namona ena davana bona moni.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Unai dainai Commission ena hereva be gavman dekenai bona tau ta ta dekenai: natuna ibounai dekenai sikuli namona, air namona, kukou ania ihamaraina dalana, stoa bona aniani gabuna ai suka bona damena ihamaraina, bona kamonai heduru gaudia tau ibounai dekenai idia gaukaralaia. Tau ta ena gaukara be gau badana, to ia noho dalana danu. Unai be badina ta dementia abia ta ia hadikaia lasi.
 
-## What are the honest limits of this research?
+## Inai ripoti ena maoro gau be dahaka?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementia be lagani momo lalonai ia tubu**, to trial momo be lagani rua–ima lalonai. Dementia sibona stadilaia, test result lasi, be stadilai daudau bona bada ia ura.
+- **Trial momo be thinking test idia stadilaia.** Test ai maragi namo be dementia abia taudia idia maragi eiava dina mauri ia namo toana lasi.
+- **Trial ai idia vareai taudia be mauri namona** bona sikuli bada tau momo ia hanaia. Lancet Commission ia gwau ripoti momo be high-income countries amo, bona minority group idia maragi.
+- **Hebou haida be dala ruaosi.** Tau hururuhuru lasi eiava tau haida ida hebou lasi be dementia ena toana matamana diba, badina sibona lasi.
+- **Aniani trial edia davana be namo lasi momo.** Lagani toi MIND diet trial ia davaria thinking ai idia idau lasi. Ba itaia [diet guide](/brain-health/diet/).
+- **Brain game ese dementia ia taravatu toana ia hahedinaraia lasi.** Ba itaia [brain games and dementia](/brain-health/brain-games/).
+- **Fasting ena ripoti be maragi momo**, bona tau bada dekenai kerere diba. Ba itaia [fasting guide](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Bema tau ta ia gaukara namonamo, dahaka dainai dementia ia abia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Badina dementia be abia hidi daladia sibona lasi. NIA ia gwau
+[lagu ani bada be Alzheimer’s ena risk factor badana](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+bona ta be haidaua lasi diba. Gene be kahana. Bona ripoti taudia be harihari Alzheimer’s ena badina maoromaoro idia diba lasi tau momo dekenai. Bema unai 14 risk factor ibounai idia kokia, Lancet Commission ena hesabu sibona ia gwau case kahana ma haida be idia noho.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Unai dainai, bema oi be tau ta oi naria, ia tau hururuhuru, ia aniani namo, kukou ia ania lasi, to dementia ia abia, unai be ena kerere lasi, oiemu kerere lasi. Bema oi sibomu dementia oi abia, unai be oiemu kerere lasi. Laloa hemarai be ruma bese ai ia vara momo, to ia namo lasi. Hari be tauḡa namona, hebou, bona dina namodia, bona ai eda [activity ideas](/activities/ideas/) bona [caregiver self-care guide](/caregiving/caregiver-self-care/) be matamaia namona.
 
-## What steps can you talk over with a doctor?
+## Dokta ida dahaka herevalaia namo?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Inai be ripoti idia stadilaia gaudia momo. Idia herevalaia namo dokta itaia neganai, badina momo idia kudou mauri, laloa namona, bona sibona naria ai idia durua, dementia dekenai dahaka idia karaia eiava lasi.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Rara pressure.** Oiemu namba dahaka bona anina daika ia namo ba nanadaia. Lancet Commission ia gwau lagani 40 amo bada namba 130 eiava ihana ai ba tahua, to tau bada dekenai anina namona be ena mauri ibounai ida ia hebou.
+2. **Kamonai.** Kamonai stadilai ba abia, bona kamonai heduru gaudia idia durua diba eiava lasi ba nanadaia. Ai eda [hearing guide](/brain-health/hearing/) ia ripoti ia hahedinaraia.
+3. **Mata.** Mata stadilai ba karaia nega ta ta ai bona kerere hegeregere cataract ia namoa diba eiava lasi ba nanadaia.
+4. **Cholesterol.** Oiemu LDL cholesterol stadilaia namo eiava lasi ba nanadaia.
+5. **Rara suga.** Bema oi diabetes oi abia, ba nanadaia edena dalanai ba naria namonamo.
+6. **Laloa.** Laloa hekwarahi be ia vara diba bona namoa diba. Bema wiki rua eiava bada lalonai oi laloa hemarai eiava gau haida oi ura lasi, dokta ba hamaoroa.
+7. **Kukou bona inuinu.** Kukou dokona durua bona inuinu ena maoro anina dekenai ba nanadaia.
+8. **Tau hururuhuru.** Oiemu dekenai gaukara daika ia namo ba nanadaia. Ai eda [exercise guide](/brain-health/exercise/) ai lalo haida.
+9. **Kwarana naria.** Baik eiava contact sport ai kwarana naria ba gaukaralaia, bona keto kerere taravatu dalana ba nanadaia.
+10. **Hebou noho.** Tau haida ida negana noho be mauri namona kahana. Ba itaia [social connection](/brain-health/social-connection/) bona [sleep](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Muramura, aniani, supplement, fasting, eiava tau hururuhuru ba haidaua guna, dokta ida ba herevalaia, hegeregere bema oi kudou gorere, diabetes, keto kerere, eiava dementia oi abia.
 
-## Talk with a doctor
+## Dokta ida ba herevalaia
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Bema memoria eiava laloa haidaua oi itaia oi laloa hemarai, oiemu eiava tau ta ena, dokta oi itaia negana ba atoa. NIA ia gwau
+[memoria kerere be badina ma haida diba](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+hegeregere muramura ena dika, thyroid kerere, laloa hekwarahi, eiava vitamin B12 maragi, bona haida be badina ia namoa neganai idia dokona. Ai eda [warning signs guide](/brain-health/warning-signs/) ia hahedinaraia dahaka ba itaia.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Heduru harihari ba tahua** bema haidaua ia vara haraga: haraga ai laloa ia heudeheude, kahana ta ia goada lasi eiava ia mate, hereva ia kerere, eiava kwarana hisihisi bada be stroke eiava kerere ma ta ena toana diba. 112 ba boilia.
 
-## Where Golden Moments fits
+## Golden Moments ia noho edeseni
 
-Golden Moments makes simple shared activities, such as
+Golden Moments ia karaia gaukaralaia maoromaoro taudia ida, hegeregere
 [conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+[picture bingo](/games/picture-bingo/) bona
+[calm breathing pause](/games/calm-breathing/). Idia be moale bona hebou negana toana. Idia be namo muramura lasi, bona dementia idia taravatu lasi eiava idia haheauka lasi.

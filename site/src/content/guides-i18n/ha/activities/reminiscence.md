@@ -1,32 +1,33 @@
 ---
-title: "Ayyukan Tuna da Dā: Akwatin Tunani, Labarin Rayuwa da Hotuna"
-seoTitle: "Ayyukan Tuna da Dā ga Mai Mantuwa: Babu Tambayoyi"
-description: "Yadda za a raba tunani da mai rayuwa da mantuwa ba tare da yi masa tambayoyin jarrabawa ba: hirar hotuna, akwatin tunani da littafin labarin rayuwa."
+title: "Ayyukan Tunawa: Akwatunan Tunawa, Labaran Rayuwa da Hotuna"
+seoTitle: "Ayyukan Tunawa ga Cutar Mantuwa: Ra'ayoyi Ba Jarrabawa Ba"
+description: "Yadda za ku raba tunawa da mutumin da ke rayuwa da cutar mantuwa ba tare da jarrabawa ba: tattaunawa kan hoto, akwatunan tunawa da littattafan labarin rayuwa."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Tuna da dā yana nufin jin daɗin abin da ya wuce tare ta hanyar hotuna, abubuwa,
-  kiɗa da labarai. Ku yi akwatin tunani, ku gina sauƙaƙen littafin labarin rayuwa,
-  ko ku kalli hotuna gefe da gefe. Kada ku taɓa yin tambayoyin jarrabawa: ku bar
-  “Kuna tuna?” da “Wane ne wannan?” ku yi amfani da gayyata buɗaɗɗiya kamar “Ku ba
-  ni labarin wannan.” Hira mai ɗumi ta fi daidaiton bayanai muhimmanci.
+  Tunawa yana nufin jin daɗin abubuwan da suka wuce tare ta hanyar hotuna,
+  kayayyaki, kiɗa da labarai. Ku yi akwati na tunawa, ku gina littafi mai sauƙi
+  na labarin rayuwa, ko ku kalli hotuna a gefe da gefe. Kada ku yi jarrabawa:
+  ku guji “Ka tuna?” da “Wane ne wannan?” ku yi amfani da gayyata a sarari kamar
+  “Ka ba ni labarin wannan.” Tattaunawa mai daɗi ta fi samun daidaiton
+  bayanai muhimmanci.
 keyPoints:
-  - "Tuna da dā hira ce, ba jarrabawa ba. Daidaito ba shi da muhimmanci; jin daɗi yana da shi."
-  - "Ku maye gurbin ‘Kuna tuna...?’ da ‘Wane ne wannan?’ da ra’ayoyi da gayyata kamar ‘Ku ba ni labarin wannan rana.’"
-  - "Akwatin tunani na abubuwa daga rayuwar mutumin yana ba hannaye da hira abin riƙewa."
-  - "Littafin labarin rayuwa yana taimaka wa iyali, baƙi da ma’aikatan kulawa su san mutumin, ba cutar kawai ba."
-  - "Idan wani tunani ya kawo baƙin ciki, ku ta’azantar da shi da farko ku canza batun a hankali."
+  - "Tunawa tattaunawa ce, ba jarrabawa ba. Daidaiton bayani ba shi da muhimmanci; jin daɗi ne ke da muhimmanci."
+  - "A maimakon ‘Ka tuna...?’ da ‘Wane ne wannan?’, ku yi amfani da tsokaci da gayyata kamar ‘Ka ba ni labarin wannan rana.’"
+  - "Akwatin tunawa da ke ɗauke da kayayyakin rayuwar mutum yana ba wa hannu da tattaunawa abin riƙewa."
+  - "Littafin labarin rayuwa yana taimaka wa iyali, masu ziyara da ma’aikatan kulawa su san mutum, ba cutar kawai ba."
+  - "Idan wani tunawa ya jawo baƙin ciki, ku fara da kwantar da hankali sannan ku canza batun a hankali."
 faq:
-  - q: "Mene ne tuna da dā ga masu mantuwa?"
-    a: "Tuna da dā shi ne raba tunani da abubuwan da suka wuce, sau da yawa da taimakon hotuna, abubuwa, kiɗa ko bidiyo. Yana iya faruwa da mutum ɗaya ko a rukuni. Manufar ita ce hira mai daɗi, mai ma’ana, ba gwada abin da mutumin zai iya tunawa ba."
-  - q: "Me ya sa bai kamata in tambaya ‘Kuna tuna?’"
-    a: "Tambayoyin da suke gwada tunawa na iya sa mutum jin kunya ko damuwa lokacin da amsar ba ta zo ba. National Institute on Aging ta lissafa tambayar ko mutum yana tuna wani abu ko wani cikin abubuwan da za a guji. Ku faɗi ra’ayinku a kan abin da kuke gani maimakon haka, ku bar mutumin ya ƙara duk abin da yake so."
-  - q: "Me zan sa a akwatin tunani?"
-    a: "Ku zaɓi abubuwa masu aminci, masu ƙarfi da suka shafi rayuwar mutumin: kayan aiki, kayan sha’awa, gyale da yake so, katunan gaisuwa, katunan girke-girke, abin tunawa daga wasanni ko kwafin hotuna. Ku guji kayan kaifi, ƙananan abubuwa da za a iya haɗiye, da na asali da ba za a iya maye gurbinsu ba."
-  - q: "Idan ya yi kuskure a bayanai fa?"
-    a: "Ku bar shi. Idan mahaifiyarku ta ce hoton yana nuna ’yar’uwarta alhali ’yar’uwar mahaifiyarta ce, ba laifi ba ne. Gyarawa yana mai da lokaci mai ɗumi gwaji. Ku bi labarin da take bayarwa ku ji daɗinsa tare."
+  - q: "Menene tunawa ga mutanen da ke rayuwa da cutar mantuwa?"
+    a: "Tunawa shi ne raba tunawa da abubuwan da suka faru a baya, galibi tare da taimakon hotuna, kayayyaki, kiɗa ko bidiyo. Ana iya yin sa tsakanin mutum biyu ko a rukuni. Manufar ita ce tattaunawa mai daɗi da ma’ana, ba gwada abin da mutum zai iya tunawa ba."
+  - q: "Me ya sa bai kamata in tambayi ‘Ka tuna?’ ba?"
+    a: "Tambayoyin da ke gwada ƙwaƙwalwa na iya sa mutum ya ji kunya ko damuwa idan amsar ba ta zo ba. Cibiyar Ƙasa ta Amurka kan Tsufa (National Institute on Aging) ta haɗa da tambayar ko mutum ya tuna wani abu ko wani a cikin abubuwan da ya kamata a guje wa. Ku yi tsokaci kan abin da kuke gani, ku bar mutumin ya ƙara duk abin da yake so."
+  - q: "Me zan saka a cikin akwatin tunawa?"
+    a: "Ku zaɓi kayayyaki masu lafiya da ƙarfi waɗanda ke da alaƙa da rayuwar mutum: kayan aiki, kayan sha’awa, mayafi da ya fi so, katunan gaisuwa, katunan girke-girke, kayan tunawa na wasanni ko kwafin hotuna. Ku guji kayayyaki masu kaifi, ƙananan abubuwa da za a iya haɗiyewa, da abubuwan asali marasa maye gurbi."
+  - q: "Idan sun yi kuskure a bayanai fa?"
+    a: "Ku bar shi. Idan mahaifiyarku ta ce hoton ’yar uwarta ce alhali ’yar kanwarta ce, hakan ba laifi ba ne. Gyara yana mai da lokacin jin daɗi zuwa jarrabawa. Ku bi labarin da suke bayarwa ku ji daɗinsa tare."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Tuna da dā kawai yana nufin jin daɗin abin da ya wuce tare. Ga mutane da yawa masu rayuwa da mantuwa, tunanin shekaru da dama da suka wuce yana zama a bayyane fiye da abin da ya faru da safiyar yau. Hotuna, abubuwan da aka saba da su, kiɗa da labarai na iya buɗe waɗannan tunani su ba ku abu mai ɗumi da za ku raba. Ƙa’ida ɗaya ce: hira ce, ba jarrabawa ba.
+Tunawa yana nufin jin daɗin abubuwan da suka wuce tare. Ga mutane da yawa da ke rayuwa da cutar mantuwa, tunawa daga shekaru da dama da suka wuce na iya kasancewa a sarari fiye da abin da ya faru a safiyar yau. Hotuna, kayayyaki da aka saba da su, kiɗa da labarai na iya buɗe waɗannan tunawa kuma su ba ku wani abu mai daɗi da za ku raba tare. Doka ɗaya ce kawai: tattaunawa ce, ba jarrabawa ba.
 
-## Mene ne tuna da dā, kuma ta yaya ya bambanta da yin tambayoyin jarrabawa?
+## Menene tunawa, kuma ta yaya ta bambanta da jarrabawa?
 
-Tuna da dā shi ne raba tunani ta hanyar hotuna, abubuwa, kiɗa ko bidiyo, a sannu irin na mutumin. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ta bayyana shi a matsayin raba abubuwan da suka faru da labarai da taimakon hotuna, abubuwa, bidiyo ko kiɗa, a cikin littafi ko a tablet. Tambayoyin jarrabawa sun bambanta: suna neman mutum ya fitar da amsa ta daidai, kuma hakan na iya kawo kunya maimakon jin daɗi.
+Tunawa shi ne raba tunawa ta hanyar hotuna, kayayyaki, kiɗa ko bidiyo, cikin saurin da mutum ya zaɓa. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ta bayyana shi a matsayin raba abubuwan da suka faru da labarai na baya tare da taimakon hotuna, kayayyaki, bidiyo ko kiɗa, a cikin littafi ko a kan kwamfutar hannu. Jarrabawa ta bambanta: tana neman mutum ya ba da amsa daidai, kuma hakan na iya haifar da kunya maimakon jin daɗi.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ta lissafa tambayar mutum ko yana tuna wani abu ko wani a cikin abubuwan da za a guji. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tana ba da shawarar guje wa tambayoyin da suka dogara da ƙwaƙwalwar ɗan lokaci a yi magana kan abin da ya fi nisa maimakon haka.
+[Cibiyar Ƙasa ta Amurka kan Tsufa (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ta haɗa da tambayar mutum ko ya tuna wani abu ko wani a cikin abubuwan da ya kamata a guje wa. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ta ba da shawarar a guji tambayoyin da suka dogara da ƙwaƙwalwar ɗan lokaci, a maimakon haka a yi magana game da abubuwan da suka wuce da daɗewa.
 
-| Maimakon | Ku gwada |
+| A maimakon | Ku gwada |
 | --- | --- |
-| “Kuna tuna wannan?” | “Wannan yana kama da rana mai daɗi. Ku ba ni labarinta.” |
-| “Wane ne wannan?” | “Ga Goggo Rose a bakin teku. Kalli wannan hula.” |
-| “Wace shekara ce wannan?” | “Wannan yana kama da tsohon gida. Yaya rayuwa a ciki take?” |
-| “A’a, wannan ba Bill ba ne, Frank ne.” | “Yana kama da mai son dariya sosai.” |
-| “Kun riga kun gaya mini wannan.” | “Ina son wannan labari.” |
+| “Ka tuna wannan?” | “Wannan kamar rana ce mai daɗi. Ka ba ni labarinta.” |
+| “Wane ne wannan?” | “Ga Goggo Rose a bakin teku. Duba wannan hular.” |
+| “A wane shekara aka ɗauki wannan?” | “Wannan kamar tsohon gida ne. Yaya rayuwa take a can?” |
+| “A’a, wannan ba Bill ba ne, Frank ne.” | “Yana kama da mai nishaɗi sosai.” |
+| “Ka riga ka faɗa mini wannan.” | “Ina son wannan labarin.” |
 
-## Yaya ake magana game da hotuna ba tare da yin tambayoyin jarrabawa ba?
+## Ta yaya za ku yi magana game da hotuna ba tare da jarrabawa ba?
 
-Ku fara da abin da kuke gani, sannan ku bar wuri don mutumin ya ƙara wani abu idan yana so.
+Ku fara da abin da kuke gani, sannan ku bar wa mutumin damar ƙara wani abu idan yana so.
 
-1. **Ku zauna gefe da gefe.** Ku riƙe kundin tsakaninku don ku duba tare, ba ku gwada shi daga ƙetaren tebur ba.
-2. **Ku zaɓi hotuna kaɗan.** Hotuna biyar masu kyau sun fi akwati gaba ɗaya. Manyan hotuna bayyanannu su ne mafi kyau.
-3. **Ku ambaci sunayen mutane da kanku.** “Ga ku da Baba a ranar bikinku” yana kawar da matsin lamba.
-4. **Ku yi magana kan bayanai.** Tufafi, motoci, abinci, yanayi, fuskoki. “Wace mota ce wannan. Tana sheƙi sosai.”
-5. **Ku gayyata, kada ku tilasta.** “Ku ba ni labarin...” ko “Me kuke gani?” Shiru ba laifi ba ne.
-6. **Ku bi shi.** Idan ya yi magana kan wani abu dabam gaba ɗaya, ku bi shi.
-7. **Ku tsaya yayin da yake da daɗi.** Ku rufe kundin kafin gajiya ta zo.
+1. **Ku zauna a gefe da gefe.** Ku riƙe littafin hotuna a tsakanin ku domin ku duba tare, ba ku yi jarrabawa a kan tebur ba.
+2. **Ku zaɓi ’yan hotuna kaɗan.** Hotuna biyar masu kyau sun fi akwati ɗaya cike. Hotuna masu girma da bayyanannu sun fi dacewa.
+3. **Ku ambaci sunayen mutane da kanku.** “Ga ke da Baba a ranar aurenku” yana cire matsin lamba.
+4. **Ku yi tsokaci kan ƙananan bayanai.** Tufafi, motoci, abinci, yanayi, fuska. “Wace irin mota ce. Tana sheƙi sosai.”
+5. **Ku gayyata, kada ku tilasta.** “Ka ba ni labarin...” ko “Me ka lura da shi?” Shiru ba laifi ba ne.
+6. **Ku bi jagorarsu.** Idan suka koma wata magana dabam, ku tafi tare da su.
+7. **Ku tsaya yayin da har yanzu yana da daɗi.** Ku rufe littafin hotunan kafin gajiya ta fara.
 
-Don shirye-shiryen tambayoyin hotuna, ku gwada [katunan hira](/games/conversation-cards/). Don mai da hotunan iyalinku wasan haɗawa mai laushi, ku gwada [Haɗa hotunan kanku](/games/photo-pairs/); hotunan da kuka zaɓa suna zama a burauzarku.
+Don samun hotunan da za su taimaka wajen fara tattaunawa, ku gwada [conversation cards](/games/conversation-cards/). Don mayar da hotunan iyalinku zuwa wasa mai sauƙi na daidaitawa, ku gwada [photo pairs](/games/photo-pairs/); hotunan da kuka zaɓa suna kasancewa a cikin burauzarku.
 
-## Yaya ake yin akwatin tunani?
+## Ta yaya za ku yi akwatin tunawa?
 
-Akwatin tunani akwati ne na abubuwa daga rayuwar mutumin da za a riƙa riƙewa a yi magana a kansu.
+Akwatin tunawa akwati ne da ke ɗauke da kayayyaki daga rayuwar mutum don a riƙa su a yi magana a kansu.
 
-1. **Ku zaɓi akwati mai ƙarfi** mai sauƙin buɗewa, kamar akwatin takalma, akwatin hula ko ƙaramar sandarƙa ta katako.
-2. **Ku zaɓi jigo ko gauraye.** Aiki, sha’awa, wuri, shekaru goma, ko kaɗan daga kowanne.
-3. **Ku tara abubuwa masu aminci.** Abubuwa biyar zuwa goma sun isa a fara.
-4. **Ku yi amfani da kwafin abubuwa masu daraja.** Ku kwafi hotuna da takardu da ba za a iya maye gurbinsu ba, ku ajiye na asali lafiya.
-5. **Ku fitar da abubuwa ɗaya-ɗaya.** Ku ba shi ɗaya, ku faɗi wani abu a kansa, ku ga inda hirar za ta kai.
+1. **Ku zaɓi akwati mai ƙarfi** wanda ke da sauƙin buɗewa, kamar akwatin takalma, akwatin hula ko ƙaramin akwatin katako.
+2. **Ku zaɓi jigo ko ku haɗa abubuwa.** Aiki, sha’awa, wuri, shekaru goma, ko kaɗan daga kowane.
+3. **Ku tattara kayayyaki masu lafiya.** Abubuwa biyar zuwa goma sun isa a farko.
+4. **Ku yi amfani da kwafin abubuwa masu daraja.** Ku yi kwafin hotuna da takardu marasa maye gurbi, ku ajiye na asali a wuri mai aminci.
+5. **Ku fitar da abu ɗaya a lokaci guda.** Ku miƙa ɗaya, ku faɗi wani abu game da shi, ku ga inda tattaunawar za ta kai.
 
-Shawarwarin abubuwan da za a haɗa:
+Ra’ayoyin da za ku iya haɗawa:
 
-- **Aiki:** alamar suna, ƙaramin kayan aiki, alamar kayan sarki ko kayan aiki, littafin lissafi, alamar ma’aikaciyar jinya, littafin girke-girke na wurin cin abinci.
-- **Gida:** katin girke-girke da rubutun hannunsa, tawul na kicin, gyale ko ɗaurin wuya da yake so.
-- **Sha’awoyi:** ƙugiyar kamun kifi ba tare da ƙugiya ba, ƙwallo, ƙwallon zare, fakitin iri.
-- **Wurare:** katunan gaisuwa, taswira, abin tunawa daga yawon buɗe ido, yankan jarida daga garinsu.
+- **Aiki:** katin suna, ƙaramin kayan aiki, alamar tufafin aiki, littafin lissafi, fil ɗin ma’aikacin jinya, littafin girke-girke daga gidan cin abinci.
+- **Gida:** katin girke-girke da rubutun hannunsu, tawul ɗin shayi, mayafi ko taye da suka fi so.
+- **Sha’awa:** abin kama kifi ba tare da ƙugiya ba, ƙwallon baseball, dunƙulen zaren saƙa, fakitin iri.
+- **Wurare:** katunan gaisuwa, taswirori, abin tunawa na yawon shakatawa, yanki daga jaridar garinsu.
 - **Iyali:** kwafin hotuna, zanen yaro, katin gayyatar aure.
 
-Ku bar kayan kaifi, ƙananan abubuwa da za a iya haɗiye, da duk abin da zai iya kawo tunani masu zafi sai idan kun san ana maraba da shi.
+Ku bar kayayyaki masu kaifi, ƙananan abubuwa da za a iya haɗiyewa, da duk abin da zai iya kawo tunawa mai raɗaɗi sai dai idan kun san an amince da shi.
 
-## Yaya ake yin littafin labarin rayuwa?
+## Ta yaya za ku yi littafin labarin rayuwa?
 
-Littafin labarin rayuwa sauƙaƙen kundi ne na hotuna da gajerun bayanai game da rayuwar mutumin. Abu ne da za a kalla tare, kuma yana taimaka wa baƙi da ma’aikatan kulawa su ga mutumin gaba ɗaya.
+Littafin labarin rayuwa kundin hoto ne mai sauƙi da ke ɗauke da hotuna da taƙaitaccen bayani game da rayuwar mutum. Abu ne da za ku iya kallo tare, kuma yana taimaka wa masu ziyara da ma’aikatan kulawa su ga cikakken mutum.
 
-1. **Ku zaɓi tsari.** Fayil mai jakunkuna masu kariya, littafin hotuna da aka buga, ko nunin hotuna a tablet.
-2. **Ku tsara wasu sassa.** Ƙuruciya, makaranta, aiki, iyali, wuraren da ya zauna, addini, sha’awoyi, abincin da yake so da kiɗa.
-3. **Ku ƙara hoto ɗaya ko biyu a kowane shafi** da gajeren bayani da manyan rubutu: “Mary, shekara 22, tana fara aiki a banki.”
-4. **Ku haɗa abubuwan da yake so da al’adunsa.** “Yana shan kofi da madara. Yana son waƙoƙin ibada na ranar Lahadi. Ba ya son talabijin mai ƙarfi.” Wannan yana taimaka wa duk wanda yake kula da shi.
-5. **Ku haɗa mutumin** gwargwadon yadda yake so, wajen zaɓar hotuna, bayar da labarai ko kawai kallon yadda ake haɗa shi.
-6. **Ku ci gaba da ƙarawa.** Ba sai an gama ba kafin ya yi amfani.
+1. **Ku zaɓi tsari.** Fada mai rufin takarda, littafin hoto da aka buga, ko nunin hotuna a kan kwamfutar hannu.
+2. **Ku shirya sassa kaɗan.** Yarantaka, makaranta, aiki, iyali, wuraren da aka zauna, addini, sha’awa, abinci da kiɗan da aka fi so.
+3. **Ku saka hoto ɗaya ko biyu a kowane shafi** tare da taƙaitaccen bayani mai manyan haruffa: “Mary, shekara 22, tana fara aiki a banki.”
+4. **Ku haɗa da abubuwan da suke so da abubuwan da suka saba yi.** “Yana shan kofi da madara. Yana son waƙoƙin Lahadi. Ba ya son talabijin mai ƙara.” Wannan yana taimaka wa duk wanda ke kula da su.
+5. **Ku shigar da mutumin** gwargwadon yadda suke so, wajen zaɓar hotuna, ba da labarai ko kawai kallon yadda yake haɗuwa.
+6. **Ku ci gaba da ƙara abubuwa.** Ba sai an gama shi ba kafin ya zama mai amfani.
 
-## Ƙarin shawarwarin tuna da dā
+## Ƙarin ra’ayoyin tunawa
 
-- **Ku saka kiɗan ƙuruciyarsa** ku yi magana a kan inda yake kai shi. Ku duba [ayyukan kiɗa](/activities/music/).
-- **Ku kalli bidiyoyin gida ko shirye-shiryen talabijin** na shekarun da yake so.
-- **Ku dafa abincin ƙuruciya** ku bar ƙamshi ya jagoranci hira.
-- **Ku duba taswirar** garinsu ku bi titunan da aka saba da su.
-- **Ku riƙi tsofaffin kundin kaya ko mujallu** ku yi magana game da farashi, kayan ado da motoci.
-- **Ku naɗi labarunsa** a waya, da izininsa, don iyali.
-- **Ku raba lokacin kira.** Ku riƙe hoto ɗaya sama lokacin kiran bidiyo; ku duba [kiran waya da bidiyo](/activities/phone-and-video-calls/).
-- **Ku kawo hoto ko abu lokacin ziyara.** Yana ba ziyarar abin da za a mai da hankali a kai cikin sauƙi; ku duba [ziyara](/activities/visiting/).
+- **Ku kunna kiɗan lokacin ƙuruciyarsu** ku yi magana game da inda yake kai su. Duba [ayyukan kiɗa](/activities/music/).
+- **Ku kalli bidiyon gida ko shirye-shiryen talabijin** daga shekarun da suka fi so.
+- **Ku dafa abincin ƙuruciyarsu** ku bar ƙamshinsa ya jagoranci tattaunawa.
+- **Ku kalli taswira** ta garinsu ku bi titunan da suka saba.
+- **Ku riƙa tsofaffin kasida ko mujallu** ku yi magana game da farashi, salo da motoci.
+- **Ku naɗa labaransu** a waya, da yardarsu, domin iyali.
+- **Ku raba a lokacin kira.** Ku ɗaga hoto ɗaya yayin kiran bidiyo; duba [kiran waya da na bidiyo](/activities/phone-and-video-calls/).
+- **Ku zo da hoto ko abu lokacin ziyara.** Yana ba wa ziyara abu mai sauƙi da za a mayar da hankali a kai; duba [ziyara](/activities/visiting/).
 
-## Idan tunani yana da zafi fa?
+## Idan tunawa ya kasance mai raɗaɗi fa?
 
-Wasu tunani suna kawo baƙin ciki, nadama ko tsoro. Idan mutumin ya ɓata rai, ku tsaya, ku ta’azantar da shi kuma ku canza batun ko aikin a hankali. Kada ku yi jayayya kan abin da ya faru. Family Caregiver Alliance tana gargaɗin kada a yi ƙoƙarin shawo kan mutum cewa ya yi kuskure kuma tana ba da shawarar a amsa abin da yake ji, wanda yake na gaske. Idan yana magana game da wanda ya mutu kamar yana raye, ku amsa abin da yake ji: “Kuna kewarta. Ku ba ni labarinta.”
+Wasu tunawa na iya kawo baƙin ciki, nadama ko tsoro. Idan mutumin ya damu, ku tsaya, ku kwantar da shi, sannan ku canza batun ko aikin a hankali. Kada ku yi gardama game da abin da ya faru. Family Caregiver Alliance ta ba da shawarar kada a yi ƙoƙarin shawo kan mutum cewa kuskure yake yi, kuma ta ba da shawarar a mayar da martani ga ji da suke nunawa, domin na gaske ne. Idan sun yi magana game da wani da ya rasu kamar yana raye, ku mayar da martani ga wannan ji: “Ka yi kewarsa. Ka ba ni labarinsa.”
 
-## Me bincike yake cewa?
+## Me bincike ya ce?
 
-Wani [bitar Cochrane kan tuna da dā](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), da ya ƙunshi gwaje-gwaje 22 da mutane 1,972, ya gano cewa tasirin bai daidaita ba, ƙanana ne kuma ya bambanta bisa wuri da tsari. Bai sami shaidar cutarwa ga masu mantuwa ba. Muna ba da shawarar tuna da dā domin yana iya zama lokaci mai ɗumi, mai ma’ana tare, ba a matsayin magani ba. Don ƙarin bayani kan hira mai sauƙi, ku duba [shawarwarin sadarwa](/caregiving/communication-tips/).
+[Sharhin Cochrane kan tunawa](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), wanda ya haɗa da gwaje-gwaje 22 da mutane 1,972, ya gano cewa sakamakon ba su kasance daidai ba, ƙanana ne, kuma sun bambanta gwargwadon wuri da tsari. Bai sami wata shaida ta cutarwa ga mutanen da ke rayuwa da cutar mantuwa ba. Muna ba da shawarar tunawa domin yana iya samar da lokaci mai daɗi da ma’ana tare, ba a matsayin magani ba. Don ƙarin bayani kan tattaunawa mai sauƙi, duba [shawarwarin sadarwa](/caregiving/communication-tips/).
