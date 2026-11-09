@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "ޑިމެންޝިއާގެ މެދު ފިޔަވަހީގެ މަސައްކަތްތައް"
+seoTitle: "ޑިމެންޝިއާގެ މެދު ފިޔަވަހި: ފަސޭހަ ޚިޔާލުތައް"
+description: "ޑިމެންޝިއާގެ މެދު ފިޔަވަހީގައި ކުރެވޭ ފަސޭހަ މަސައްކަތްތައް: ކުރިން ކުރާ ކަންތައް، ލަވަ، ފޮޓޯ އަދި ފަސޭހަ ގޭމްތައް، ތައްޔާރުކުރާ ގޮތާއި ހަރަކާތްތެރިކަން މަސައްކަތަކަށް ބަދަލުކުރާ ގޮތާއެކު."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  ޑިމެންޝިއާގެ މެދު ފިޔަވަހީގައި، އެންމެ ރަނގަޅަށް ކުރެވޭ މަސައްކަތްތަކަކީ ކުރު، ކުރިން ދަންނަ، އަދި އެއް އެއް ފިޔަވަހަށް ބަހާލެވޭ ކަންތައްތައް: ފޭރާން އެޅުން، މޭޒު ޖޯޑުކުރުން، ތަށި ދޮވުން، ލަވަ ލަވަކިޔުން، އެހީތެރިއަކާއެކު ހިނގާލުން، ފޮޓޯ އަލްބަމް ބަލާލުން، އަދި ފަސޭހަ ތަސްވީރު ގޭމްތައް. ކަންތައް ތައްޔާރުކޮށް، ފުރަތަމަ ފިޔަވަހި ދައްކާދީ، އުނދަގޫ ބައިތައް ތިޔަބައިފުޅާ ހަދާދީ، އަދި އެ މަސައްކަތަށް މަޤްޞަދެއް ދީށްވާ. އެ ކަން އުފާވެރި ނޫން ވަރަށް ބަދަލުވުމުން ހުއްޓާލާށެވެ.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "ކުރިން ގޭގައި ކުރާ ކަންތައް އެންމެ ރަނގަޅަށް ކުރެވޭނީ، އެ ކަންތައް ބޭނުންތެރި އަދި ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ ކަންތަކަށް އިހުސާސް ކުރެވޭތީއެވެ."
+  - "ބުނުމުގެ ބަދަލުގައި ދައްކާދީ، އެއް ފަހަރަކު އެއް ފިޔަވަހެއް ދީ، އަދި ހުޅުވާލެވޭ ސުވާލުތަކުގެ ބަދަލުގައި ފަސޭހަ ދެ އިޚްތިޔާރެއް ދީށްވާ."
+  - "އެންމެ އުނދަގޫ ބައި ތިޔަބައިފުޅާ ހަދާދީ، އެއީ ތިޔަ ބެލެހެއްޓެވޭ މީހާއަށް އުފާވެރި ބައި ކުރެވޭނެ ގޮތަށެވެ."
+  - "ހަރަކާތްތެރި އުޅުން އެކި ގޮތްގޮތަށް ދައްކަނީ ކޮންމެވެސް ކަމެއް ކުރަން ބޭނުންވާ ކަމެކެވެ. ނޫން ނުބުނެ އެ ހަރަކާތާ އެއްގޮތް މަސައްކަތެއް ހުށައަޅާށެވެ."
+  - "ބަލަން އިށީނދެ، ކުޑަކޮށް އެހީތެރިވެދީ، ނުވަތަ ކުރިން ހުއްޓާލީ ނަމަވެސް އެއީ ހަމަ ރަނގަޅު ކަމެކެވެ."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "ޑިމެންޝިއާގެ މެދު ފިޔަވަހީގައި ކުރެވޭ ރަނގަޅު މަސައްކަތްތަކަކީ ކޮބައިތޯ؟"
+    a: "ކުރު، ކުރިން ދަންނަ، އަތުން ކުރެވޭ މަސައްކަތްތައް އާންމުކޮށް އެންމެ ރަނގަޅެވެ: ޓައުލް އެޅުން، މޭޒު ޖޯޑުކުރުން، ތަށި ދޮވުން، މޭޒު ތައްޔާރުކުރުން، ކުރީގެ ކަމުދާ ލަވަތަކާ އެކު ލަވަ ލަވަކިޔުން، އެހީތެރިއަކާއެކު ހިނގާލުން، ފޮޓޯ އަލްބަމް ބަލާލުން، އަދި ފަސޭހަ ތަސްވީރު ގޭމްތައް. ކޮންމެ ކަމެއް ވެސް އެއް އެއް ފިޔަވަހަށް ބަހާލައި އެކުގައި ކުރައްވާ."
+  - q: "ޑިމެންޝިއާ ހުރި މީހަކު މަސައްކަތެއް ފެށުމަށް އަހަރެން ކިހިނެއް އެހީތެރިވާނީ؟"
+    a: "ހުރިހާ އެއްޗެއް ތައްޔާރުކޮށް، ދެން ތިޔަބައިފުޅާ އެ މަސައްކަތް ފެށައި އެހީތެރިވެދެއްވުމަށް އެދުން: ”މި ޓައުލްތަކާ އެހީތެރިވެދެއްވާނެތޯ؟“ ގިނަ މީހުންނަށް ބައިވެރިވަން ބޭނުންވެއެވެ، އެކަމަކު ފެށުން އަދި އުނދަގޫވެދާނެއެވެ. ތަފްސީލުކޮށް ދެއްވުމަށް ވުރެ، ފުރަތަމަ ފިޔަވަހި ދައްކައިދެއްވުމުން އާންމުކޮށް ރަނގަޅު ނަތީޖާ ލިބެއެވެ."
+  - q: "އެއް ކަމެއް ތަކުރާރުކޮށް ކުރަމުން ދާނަމަ ކުރަންޖެހޭނީ ކޮން ކަމެއް؟"
+    a: "ތަކުރާރުކޮށް ކުރުން އެކި ގޮތްގޮތަށް ގެއްލުމެއް ނުވެއެވެ، އަދި މީހަކަށް ކޮންމެވެސް ކަމެއް ކުރަން ބޭނުންވާ ކަމެއް ނުވަތަ ހިތްހަމަޖެހުން ބޭނުންވާ ކަމެއް ދައްކަން ވެދާނެއެވެ. ރަނގަޅުކުރުމުގެ ބަދަލުގައި، އެ ހަރަކާތާ އެއްގޮތް މަސައްކަތެއް ހުށައަޅާށެވެ، މިސާލަކަށް އެޅުމަށް ވޮޝްކްލޮތް ޓޯކުރެއް ނުވަތަ އެކުގައި ލަވަ ލަވަކިޔުމަށް ލަވައެކެވެ."
+  - q: "މަސައްކަތް ނުބައިކޮށް ކުރެއްވިނަމަ ކުރަންޖެހޭނީ ކޮން ކަމެއް؟"
+    a: "އެއީ ގެއްލުމެއް ނުވާ ކަމެއް ނަމަ، ހަމަ އެގޮތަށް ދޫކޮށްލާށެވެ. ޓައުލް ތަފާތު ގޮތަކަށް އެޅުނުކަމަށް ވިޔަސް ނުވަތަ ކަރުނބާ ނުބައިތަނަކަށް ބެހެއްޓިކަމަށް ވިޔަސް ކަމަކަށް ނުވެއެވެ. ރަނގަޅުކުރުން ފާޑުކިޔުމެއް ފަދައިން އިހުސާސް ކުރެވިދާނެއެވެ، އެކަމަކު އެމީހެއްގެ ގޮތަށް ކުރުމުން އެމީހަކަށް ކުރެވޭ އަދި ބޭނުންތެރި ކަމެއް އިހުސާސް ކުރެވޭނެއެވެ."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+ޑިމެންޝިއާގެ މެދު ފިޔަވަހި އާންމުކޮށް އެންމެ ދިގު ފިޔަވަހިއެވެ، އަދި މި ފިޔަވަހީގައި މަސައްކަތްތަކަށް ހަގީގީ އެހީތެރިކަން ބޭނުންވަން ފެށެއެވެ. ބަސްތައް ފަސޭހައިން ނުއަންނަ، ފިޔަވަހިތައް މައްޗަށް އަރައިގެން ދެއެވެ، އަދި ކޮންމެވެސް ކަމެއް ފެށުން އުނދަގޫވެދާނެއެވެ. އެކަމަކު، ބޭނުންތެރި ގޮތެއްގައި ބައިވެރިވުމުގެ އެދުން އާންމުކޮށް ދެމިއޮތެއެވެ. ކުޑަ ތައްޔާރީއަކާއެކު، ޑިމެންޝިއާގެ މެދު ފިޔަވަހީގައި ތިބޭ މީހަކަށް އަދިވެސް ގިނަ ކަންކަން އުފާވެރިކަމާއެކު ކުރެވޭނެއެވެ، ޚާއްޞަކޮށް ކުރިން ކުރާ ކަންތައް، ލަވަ، އަދި ތިޔަބައިފުޅާއާ ގާތުގައި އެކުގައި ކުރާ ތަސްވީރުތަކާ ގުޅޭ ކަންތަކެވެ.
 
-## What activities work well in middle-stage dementia?
+## ޑިމެންޝިއާގެ މެދު ފިޔަވަހީގައި ރަނގަޅަށް ކުރެވޭ މަސައްކަތްތަކަކީ ކޮބައިތޯ؟
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+ކުރު، ކުރިން ދަންނަ، އަތުން ކުރެވޭ، އަދި އެއް އެއް ފިޔަވަހަށް ބަހާލެވޭ މަސައްކަތްތައް އެންމެ ރަނގަޅެވެ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ބުނަނީ ކުރަންޖެހޭ ކަންތައް އަލަށް ހަދަން ނުޖެހޭނެ ކަމަށެވެ: މަސައްކަތްތައް ދުވަހުން ދުވަހަށް ކުރާ ކަންތަކުގެ ބައިވެސް ކަމަށް ވެދާނެއެވެ، މިސާލަކަށް އެކުގައި ރެހެން ތައްޔާރުކުރުން، ގަސްގަހާ މަސައްކަތް ކުރުން، ލަވަ އަޑުއެހުން، ނުވަތަ ހިނގާލަން ދިއުމެވެ.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ދައްކާފައިވަނީ، މި ފިޔަވަހީގައި ތިބޭ މީހުންނަށް އާންމުކޮށް މަޤްޞަދެއް އިހުސާސް ކުރުމުގެ ނުވަތަ ކޮންމެވެސް އެއްޗެއް ބެލެހެއްޓުމުގެ ބާރު ބޭނުންވެދާނެ ކަމަށާއި، މަސައްކަތްތައް ފެށުމަށް ނުވަތަ ދެމެހެއްޓުމަށް އެހީތެރިކަން ބޭނުންވާ ކަމަށެވެ. އެ މީހުން މެދު ފިޔަވަހަށް ހުށައަޅާ ފިހުރިސްތުގައި ފޭރާން އެޅުން، ތަށި ދޮވުން، މޭޒު ޖޯޑުކުރުން، ފަސޭހަ ކަސްރަތު، ކުރިން ދަންނަ ލަވަތަކާ އެކު ނަށާލުން، އެހީތެރިއަކާއެކު ހިނގާލުން، އެކުގައި ލަވަ ލަވަކިޔުން، ފަސޭހަ ކުލަ ޖަހައިގެން ތަސްވީރު އެކުން، އަދި ފޮޓޯ އަލްބަމް ބަލާލުން ހިމެނެއެވެ.
 
-## How do you set up an activity so it works?
+## މަސައްކަތެއް ރަނގަޅަށް ކުރެވޭނެ ގޮތަށް ތައްޔާރުކުރާނީ ކިހިނެއް؟
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+ގިނަ މަސައްކަތްތަކުގެ ކާމިޔާބީ ނުވަތަ ނާކާމިޔާބީ ބިނާވަނީ ތައްޔާރީގެ މައްޗަށެވެ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) އާއި [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) އިން ލިބޭ މި އާދަތަކުން އެންމެ ބޮޑު ތަފާތު އުފެދެއެވެ:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **ތަން ސާފުކުރުން.** ޓީވީ ނިއްވާލައި، ދޮރު ލައްޕާލައި، އެ މަސައްކަތަށް ބޭނުންވާ އެއްޗެހި އެކަނި ބޭރަށް ދޫކޮށްލާށެވެ.
+2. **ތިޔަބައިފުޅާ ފެށުން.** އެޅުން ނުވަތަ ހިއްލާލުން ފެށައި، އެހީތެރިވެދެއްވުމަށް އެދުން: ”މިކަމާ އެހީތެރިވެދެއްވާނެތޯ؟“
+3. **ދައްކައިދީ، ދެން މަޑުކުރުން.** އެއް ފިޔަވަހެއް ދައްކާދީށެވެ. އިނގިލިން އަނގައިދީ ނުވަތަ އަތުން މަގު ދައްކާދީށެވެ، މިސާލަކަށް ތަށި ބެހެއްޓަންވީ ތަން ދައްކާލައިގެން.
+4. **އެއް ފަހަރަކު އެއް ފިޔަވަހެއް ދީށްވާ.** ”މެދަށް އެޅުއްވާ“ އަކީ ”މިތައް އެޅުއްވައި ކުލައިން އެއް ތަނަކަށް ޖައްސަވާ“ އަށް ވުރެ ފަސޭހަ ކަމެކެވެ.
+5. **ހުޅުވާލެވޭ ސުވާލުތަކުގެ ބަދަލުގައި ދެ އިޚްތިޔާރެއް ދީށްވާ.** ”ނޫ ޓައުލް ހެއްޔެވެ، ނުވަތަ ހުދު ޓައުލް ހެއްޔެވެ؟“ އަކީ ”ކޮން ކަމެއް ކުރަން ބޭނުން ހެއްޔެވެ؟“ އަށް ވުރެ ފަސޭހައިން ޖަވާބު ދެވޭ ސުވާލެކެވެ.
+6. **އުނދަގޫ ބައި ތިޔަބައިފުޅާ ހަދާދީށެވެ.** ތިޔަބައިފުޅާ މިނެދީ، އެމީހަކު ހިއްލަވާ. ތިޔަބައިފުޅާ ސޫއި ޖައްސަވާ، އެމީހަކު އުނާރު އެޅުއްވާ.
+7. **މަޤްޞަދެއް ދީށެވެ.** ”މި ނެޕްކިންތައް ހޮނިހިރު ނެރެހުމަށް“ އޭ ބުނުމުން އެ ކަން އަސްލު ކަމެއް ފަދައިން އިހުސާސް ކުރެވެއެވެ.
+8. **ބަލަން ބޭނުންފުޅުނަމަ ބަލަން ދޫކޮށްލާށެވެ.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ދައްކާފައިވަނީ ހަމަ ބަލަން އިންނަންވެސް އުފާވެރި ކަމަކަށް ވެދާނެ ކަމަށެވެ.
 
-## Activity ideas for the middle stage
+## މެދު ފިޔަވަހަށް އެކަށީގެންވާ މަސައްކަތުގެ ޚިޔާލުތައް
 
-### Useful jobs
+### ބޭނުންތެރި ކަންތައް
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **ޓައުލްތަކާއި ވޮޝްކްލޮތް އެޅުން.** ކުދި، ފެންވަރު އެއްޗެހި އެންމެ ފަސޭހައެވެ. ހޫނު ވޮޝްކްލޮތް ޓޯކުރެއް އެޅި، ސާފުކޮށް، އަލުން އެޅޭނެއެވެ.
+- **މޭޒު ޖޯޑުކުރުން.** ވަރަށް ތަފާތު ކުޑަ ޖޯޑުތަކެއް ދީ ފަށާށެވެ. ހަމަ ކުލައިން ވަކިކުރުން ވެސް ރަނގަޅެވެ.
+- **ނުބެހޭ ތަށި ދޮވުން ނުވަތަ ހުއްކުން.** ހޫނު، ސާބުނީ ފެން އަތަށް އުފާވެރިއެވެ. އިށީނދެ ހުއްކުން ފައިން ފަސޭހައެވެ.
+- **މޭޒު ތައްޔާރުކުރުން.** އެއް ފަހަރަކު އެއް ވައްތަރެއްގެ އެއްޗެހި ހަވާލުކުރައްވާ، އަދި މިސާލެއްގެ ގޮތުގައި ތިޔަބައިފުޅާ އެއް ތަނެއް ތައްޔާރުކުރައްވާ.
+- **ރެހެން ތައްޔާރުކުރުމުގައި އެހީތެރިވުން.** އަލަތަ ދޮވުން، ލެޓިސް ވަކިކުރުން، ނުވަތަ ބޯޑެއް ހިއްލާލުން. ކަތުރިތަކާއި ހޫނު އެއްޗެހި ތިޔަބައިފުޅާ ބެލެހެއްޓެވުން.
+- **ހިލާޖެހުން، ދޫޅި ފުންކުން، ނުވަތަ ފުންކުން.** މޭޒަށް ކަމަޅެއް، ބަރޯސަށް ފުޅަ ހިލައެކެވެ.
 
-See [household tasks](/activities/household-tasks/) for many more.
+އިތުރު ޚިޔާލުތަކަށް [ގޭގެ ކަންތައް](/activities/household-tasks/) ބައްލަވާ.
 
-### Music and movement
+### ލަވަ އަދި ހަރަކާތް
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **ކުރީގެ ކަމުދާ ލަވަތައް ލަވަކިޔުން.** ތިޔަބައިފުޅާ ފެށައި ލަވަކިޔަވާ؛ ގިނަ އަހަރުތަކެއް ތެރޭ ދަންނަ ލަވަތަކަށް ގިނަ މީހުން ބައިވެރިވެދާނެއެވެ. [ލަވަ މަސައްކަތްތައް](/activities/music/) ބައްލަވާ.
+- **ހިތަށް އަރާ ގޮތަށް ނަށާލުން.** ހެދުން، އަތްތަޅާލުން، ނުވަތަ ރަނގަޅު އިހުސާސް ކުރާ ގޮތަކަށް ހަރަކާތްތެރިވުން. އިށީނދެވެސް ކުރެވޭނެއެވެ.
+- **ބެލޫނެއް ޖެހުން.** އެއީ މަޑުން ދާ އަދި ގޮނޑިން ވެސް ފަސޭހައިން ހިފޭ އެއްޗެކެވެ.
+- **އެހީތެރިއަކާއެކު ހިނގާލުން.** ކުރު، ކުރިން ދަންނަ މަގެއްގައި އެކުގައި ހިނގާލާށެވެ، އެހީތެރިވާނަމަ އަތް ހިފައިގެން.
 
-### Pictures and stories
+### ތަސްވީރާއި ވާހަކަ
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **ފޮޓޯ އަލްބަމް ބަލާލުން.** ސުވާލު ކުރުމުގެ ބަދަލުގައި ފެންނަ ކަންތަކުގެ މައްޗަށް ވާހަކަ ދައްކަވާ: ”އެ ކާރު ބައްލަވާ. އެކަމާ ބެހޭ ގޮތުން ކިޔައިދެއްވާ.“ [ހަނދާން އާ ކުރުމުގެ މަސައްކަތްތައް](/activities/reminiscence/) ބައްލަވާ.
+- **ވާހަކަ ދެއްކުމުގެ ކާޑު ބޭނުންކުރުން.** [ވާހަކަ ދެއްކުމުގެ ކާޑު](/games/conversation-cards/) ތަކުގައި ތަސްވީރަކާ އެކު ހުޅުވާލެވޭ، ސުވާލެއް ނެތް އިޝާރަތެއް ހިމެނެއެވެ.
+- **ކުރީގެ ފިލްމެއް އެކުގައި ބަލާލުން.** ކުރިން ދަންނަ ފިލްމެއް ހޮވައި، ކައިރީގައި ހުންނަވައި، މަޑުޖެހުމަށް މެދުކަނޑާލާށެވެ.
 
-### Simple, pressure-free games
+### ފަސޭހަ، ބާރެއް ނެތް ގޭމްތައް
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **ތަސްވީރު ފެންނަ ގޮތުގައި ތަސްވީރު ޖޯޑުތައް.** [ތަސްވީރު ޖޯޑުތައް](/games/picture-pairs/) ގައި ތަސްވީރުތައް ފެންނަ ގޮތުގައި ބެހެއްޓެވޭތީ، މިއީ ހަނދާން ކުރުމަށް ނޫން، ފާހަގަ ކުރުމަށް ބޭނުންވާ ކަމެކެވެ.
+- **އެއް ތަސްވީރެއް ހޯދުން.** [އެއް ތަސްވީރެއް ހޯދުން](/games/find-the-same/) ގައި އެއް ތަސްވީރަކާ ދެ ނުވަތަ ހަތަރު އިޚްތިޔާރެއް ދައްކައެވެ.
+- **އެކުގައި ތަރުތީބުކުރުން.** [އެކުގައި ތަރުތީބުކުރުން](/games/sort-together/) އަކީ ސްކްރީން މަތީގައި ފޭރާން ތަރުތީބުކުރުން ފަދަ ކަމެކެވެ: ތަސްވީރަކަށް ފިއްތައި، ދެން އެއާ ގުޅޭ ޓޯކުރަށް ފިއްތާށެވެ.
+- **ތަސްވީރު ބިންގޯ.** [ތަސްވީރު ބިންގޯ](/games/picture-bingo/) އާއިލާ އެއްވެ އެއްތަންވުމުގައާއި ގްރޫޕްތަކަށް ރަނގަޅަށް އެކަށީގެންވެއެވެ.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+ގޭމެއް ކުރުމުން ހިތާމަ ނުކުމެން ފެށިއްޖެ ނަމަ، ހުއްޓާލައި އެހެން ކަމެއް ކުރައްވާ. [އެކުގައި ކުޅެވޭ ގޮތް](/caregiving/how-to-play-together/) ބައްލަވާ.
 
-## Turning restlessness into an activity
+## ހަރަކާތްތެރިކަން މަސައްކަތަކަށް ބަދަލުކުރުން
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+ހަރަކާތްތެރި ނުވަތަ ތަކުރާރު އުޅުން އެކި ގޮތްގޮތަށް ދައްކަނީ އާންމުކޮށް ސަބަބެއް ހުރިގެންނެވެ. Family Caregiver Alliance ދައްކާފައިވަނީ، އަލްމާރިއެއް ތަކުރާރުކޮށް ހުސްކުރާ މީހަކު ކޮންމެވެސް ކަމެއް ކުރަން ބޭނުންވާ ކަމެއް ނުވަތަ ބޭނުންތެރި ކަމެއް އިހުސާސް ކުރުމަށް މަސައްކަތް ކުރަމުން ދާނެ ކަމަށެވެ. Alzheimer's Association ލަފާ ދެނީ، އެ ހަރަކާތް ހުއްޓުވާލުމުގެ ބަދަލުގައި، އެ ހަރަކާތާ އެއްގޮތް މަސައްކަތަކަށް ބަދަލުކުރުމަށެވެ.
 
-| What you see | Something to offer |
+| ތިޔަބައިފުޅާ ދެކޭ ކަން | ހުށައަޅާލެވޭ ކަމެއް |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| މޭޒު ފުންކުން ނުވަތަ އަތުން ވަކިކުރުން | އޯއިރު ކަމަޅެއް ދީ މޭޒު ފުންކަން އެދުން |
+| ހަރަކާތްތެރި ފައިން ނުވަތަ ތައްޓުޖެހުން | ސާފު ތާލަކާ އެކު ލަވައެއް ޖައްސައި، ތައްޓާލުމަށް ނުވަތަ އަތްތަޅާލުމަށް |
+| ދަރާޒު ނުވަތަ އަލްމާރި ހުސްކުރުން | އެޅުމަށާއި ތަރުތީބުކުރުމަށް ފޭރާން ނުވަތަ ވޮޝްކްލޮތް ޓޯކުރެއް |
+| އެއް ސުވާލެއް އަލުން އަލުން ކުރުން | ހިތްހަމަޖެއްސުމަށް ފަހު، އެކުގައި ލަވައެއް ނުވަތަ ކަމެއް |
+| ހިނގަމުން ހުރުން | އެކުގައި ހިނގާލުން، ނުވަތަ އެއްޗެހި އުފުލާ ކަމެއް |
+| ހަވީރު ފަހަތުގައި ހިތްހަމަ ނުޖެހުން | ރަނގަޅު އަލިކަމެއްގައި ހަމަޖެހޭ، ކުރިން ދަންނަ ކަމެއް؛ [ހަވީރު ފަހަތުގެ ހަރަކާތްތެރިކަން](/caregiving/late-day-restlessness/) ބައްލަވާ |
 
-## When to stop or change course
+## ހުއްޓާލާނީ ނުވަތަ މަގު ބަދަލުކުރާނީ ކޮން އިރަކު؟
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+މަޑިކަމާއި، ހިތާމަނުކުމާއި، ލަދުވެތިކަމާއި، ނުވަތަ ޝައުގުވެރިކަން ނެތުމުގެ އަލާމާތްތައް ފެނުމުން ހުއްޓާލާށެވެ، މިސާލަކަށް ހަރަކާތްތެރިވުން، ނުރުހުން ދައްކާލުން، އެއްޗެހި ދުރަށް ޖެހުން، ނުވަތަ ”އަހަރެންނަށް ނުކުރެވޭނެ“ އޭ ބުނުން. Alzheimer's Association ލަފާ ދެނީ ދުވަހުގެ އެހެން ވަގުތެއްގައި އަލުން މަސައްކަތް ކުރުމަށް ނުވަތަ މަސައްކަތް އިތުރަށް ފަސޭހަ ކުރުމަށެވެ. މަޖުބޫރު ނުކުރައްވާ. ދޫކޮށްލުމަކީ ބިރެއް ނުވަތަ ކަން މާ އުނދަގޫވުމުން އައި ކަމަކަށް ވެދާނެއެވެ؛ [ނޫން ބުނެއްވުމުން](/caregiving/when-they-say-no/) ބައްލަވާ.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+ކުރިން ހުއްޓާލުން ހަމަ ރަނގަޅެވެ. ސައިއެއް ބޯއިގެން ހަމަ އެކުގައި އިށީނދެވެސް ރަނގަޅެވެ. ކުރެވޭ ކަންތައް އިތުރަށް ބަދަލުވަމުން ދާނަމަ، [ފަހު ފިޔަވަހީގެ މަސައްކަތްތައް](/activities/late-stage/) ގައިވާ ޚިޔާލުތައް އިތުރަށް އެކަށީގެންވެދާނެއެވެ، އަދި [101 މަސައްކަތް](/activities/ideas/) ގައި އަލުން މަސައްކަތް ކުރެވޭ އިތުރު ގިނަ ޚިޔާލުތައް ހުރެއެވެ.

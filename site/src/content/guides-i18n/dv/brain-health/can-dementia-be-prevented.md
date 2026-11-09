@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެތަ؟ ދިރާސާތައް ދައްކާ ގޮތް"
+seoTitle: "ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެތަ؟ ދިރާސާތައް"
+description: "2024 ވަނަ އަހަރުގެ Lancet ކޮމިޝަނާއި ބޮޑެތި ޓްރަޔަލްތަކުން ޑިމެންޝިއާގެ ނުރައްކާ މަދުކުރުމާ ބެހޭ ގޮތުން ފެނުނު ކަންތައްތަކާއި، ނުފެނުނު ކަންތައްތަކާއި، ޑޮކްޓަރާ ވާހަކަ ދައްކަންޖެހޭ ފިޔަވަޅުތައް."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެ ކަމަށް އެއްވެސް މީހަކަށް ޔަގީން ނުކުރެވޭނެއެވެ. 2024 ވަނަ
+  އަހަރުގެ Lancet ކޮމިޝަނުން ދުނިޔޭގެ ޑިމެންޝިއާ ކޭސްތަކުގެ ގާތްގަނޑަކަށް ބައިކޮޅެއް
+  ބަދަލުކުރެވިދާނެ 14 ނުރައްކާއެއްގެ ސަބަބުން އުފެދޭ ކަމަށް ލަފާކުރިއެވެ. މިސާލަކަށް
+  ލޭގެ ޕްރެޝަރު މަތިވުން، އަޑު އިވުމުގެ މައްސަލަ، އަދި ހަރަކާތްތެރިކަން މަދުވުން.
+  ޓްރަޔަލްތަކުން ވިސްނުމުގެ ޓެސްޓްތަކުގައި ކުޑަ އަސަރުތަކެއް ފެނުނު ނަމަވެސް، ޑިމެންޝިއާ
+  ކޭސް މަދުވާ ކަމުގެ ސާބިތުތަކެއް ނުފެނެއެވެ. ހުރިހާ ކަމެއް ރަނގަޅަށް ކުރާ ގިނަ މީހުންނަށް
+  ވެސް ޑިމެންޝިއާ ޖެއްސެދާނެއެވެ، އަދި އެއީ އެއްވެސް މީހެއްގެ ކުށެއް ނޫނެވެ.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 ވަނަ އަހަރުގެ Lancet ކޮމިޝަނުން ދުނިޔޭގެ ޑިމެންޝިއާ ކޭސްތަކުގެ ގާތްގަނޑަކަށް 45% ބަދަލުކުރެވިދާނެ 14 ނުރައްކާއެއްގެ ސަބަބުން އުފެދޭ ކަމަށް ގުޅުވާލިއެވެ. އެއީ މުޅި ޖަމާއަތަކަށް ލަފާކުރެވޭ އަދަދެކެވެ، ވަކި މީހަކަށް ޔަގީން ކަމެއް ނޫނެވެ."
+  - "ނުރައްކާ މަދުކުރުމުގެ މާނައަކީ މުޅި ޖަމާއަތެއްގެ ތެރޭގައި ނުރައްކާ ދަށްކުރުމެވެ. އެއީ ވަކި މީހަކަށް ޑިމެންޝިއާ އަންނާނެ ގޮތެއް ހަދާލެވޭނެ ކަމެއް ނޫނެވެ."
+  - "FINGER، US POINTER، އަދި SPRINT MIND ފަދަ ބޮޑެތި ޓްރަޔަލްތަކުން ވިސްނުމުގެ ޓެސްޓްތަކުގައި ނުވަތަ މަޑު ކޮގްނިޓިވް އިމްޕެއާމަންޓްގައި ކުޑަ ފައިދާތަކެއް ފެނުނު ނަމަވެސް، ލައިފްސްޓައިލް ޕްރޮގްރާމަކުން ޑިމެންޝިއާ ސަލާމަތްކުރާ ކަމަށް އެއްވެސް ޓްރަޔަލެއް ސާބިތު ނުކުރެއެވެ."
+  - "އަލްޒައިމަރުގެ އެންމެ ބޮޑު ނުރައްކާއަކީ އުމުރެވެ، އަދި އެއީ ބަދަލުކުރެވޭ ކަމެއް ނޫނެވެ. ދިރިއުޅުމުގެ ރަނގަޅު އާދަތައް ހުރި ގިނަ މީހުންނަށް ވެސް ޑިމެންޝިއާ ޖެއްސެދާނެއެވެ."
+  - "އެންމެ ގިނައިން ދިރާސާކުރެވޭ ފިޔަވަޅުތަކުގެ ތެރޭގައި ހިމެނޭ ލޭގެ ޕްރެޝަރު ފަރުވާކުރުން، އަޑު އިވުމަށް އެހީތެރި ވަސީލަތް ބޭނުންކުރުން، އަދި ހަރަކާތްތެރިވެ ހުރުން ފަދަ ކަންތައްތައް ޑޮކްޓަރާ ވާހަކަ ދައްކައި ބަލާ ކަންތައްތަކެވެ، މިކަންތައް އެހެނިހެން ގޮތްގޮތުން ވެސް ސިއްހަތަށް ފައިދާކުރާތީއެވެ."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެތަ؟"
+    a: "ވަކި މީހަކަށް ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެ ސާބިތުވެފައިވާ ގޮތެއް ނެތެވެ. ދިރާސާތަކުން ދައްކާ ގޮތުގައި ލޭގެ ޕްރެޝަރު މަތިވުން، ފަރުވާ ނުކުރާ އަޑު އިވުމުގެ މައްސަލަ، އަދި ދުންފަތުގެ ބޭނުން ފަދަ ބައެއް ނުރައްކާތައް މަދުކުރުމުން، މުޅި ޖަމާއަތެއްގެ ތެރޭގައި ޑިމެންޝިއާ އުފެދޭ ނުރައްކާ މަދުވެދާނެ ނުވަތަ ފެށޭ ވަގުތު ލަސްވެދާނެއެވެ. އެއީ ނުރައްކާތަކެކެވެ، ޔަގީން ކަމެއް ނޫނެވެ."
+  - q: "Lancet ކޮމިޝަނުން ދެއްވި 45% ގެ އަދަދުގެ މާނަ ކޮބައިތޯ؟"
+    a: "2024 ވަނަ އަހަރުގެ Lancet ކޮމިޝަނުން ލަފާކުރި ގޮތުގައި ދުނިޔޭގެ ޑިމެންޝިއާ ކޭސްތަކުގެ ގާތްގަނޑަކަށް 45% ނަޒަރިއްޔާއަކުން ބަދަލުކުރެވިދާނެ 14 ނުރައްކާއެއްގެ ސަބަބުން އުފެދޭ ކަމަށް ވދައްކާލިއެވެ. މި ލަފާއިން ދައްކަނީ މި ސަބަބުތަކުން ޑިމެންޝިއާ އުފެދޭ ކަމަށް، އަދި ލިޔުންތެރިން ބުނާ ގޮތުގައި ބައެއް ގުޅުންތަކަކީ ބައިގައި ސަބަބެއް ނުވެދާނެ ގުޅުންތަކެއް ކަމަށް ވެސް ދައްކާލައިގެންނެވެ. އެއީ މުޅި ޖަމާއަތްތަކެއް ބަޔާންކުރާ އަދަދެކެވެ، ވަކި މީހަކުގެ ނުރައްކާ ބަޔާންކުރާ އަދަދެއް ނޫނެވެ."
+  - q: "އަޅުގަނޑުގެ ބެލެނިވެރިޔާއަށް ދިރިއުޅުމުގެ ރަނގަޅު އާދަތައް ހުރި ނަމަވެސް ޑިމެންޝިއާ ޖެހުނީ ކީއްވެ؟"
+    a: "އުމުރާއި، ޖީންސްތަކާއި، އެއްވެސް މީހަކަށް ކޮންޓްރޯލް ނުކުރެވޭ ގިނަ ކަންތައްތަކަށް ޑިމެންޝިއާގައި ބޮޑު ބައެއް ހިމެނެއެވެ. Lancet ކޮމިޝަނުގެ ލިޔުންތެރިން ބުނާ ގޮތުގައި މުޅި ޖަމާއަތެއްގެ ނުރައްކާ މަދުކުރުމުން ވަކި މީހަކަށް ޑިމެންޝިއާ ނުޖެހޭނެ ކަމުގެ ޔަގީންކަމެއް ނުލިބެއެވެ. ޑިމެންޝިއާ ޖެހުން އެއީ އެއްވެސް މީހަކު ނާކާމިޔާބުވި ކަމުގެ އަލާމާތެއް ނޫނެވެ."
+  - q: "65 އަހަރުން ފަހުން ޑިމެންޝިއާގެ ނުރައްކާ މަދުކުރަން ލަސްވީތަ؟"
+    a: "Lancet ކޮމިޝަނުން ބުނާ ގޮތުގައި ނުރައްކާ މަދުކުރަން ވަރަށް އަވަހެއް ނުވަތަ ވަރަށް ލަސްވެއް ނެތެވެ، ނަމަވެސް ގިނަ ސާބިތުތައް ބެހެނީ މެދުފަންތި އުމުރާ ގުޅިގެންނެވެ. އަޑާއި ނުރުގެ މައްސަލަތައް ފަރުވާކުރުން، ހަރަކާތްތެރިވެ ހުރުން، އަދި މީހުންނާ ގުޅުން ބަހައްޓައިގެން ހުރުން ފަދަ ކަންތައްތަކަކީ ފަހު އުމުރުގައި ދިރާސާކުރެވިފައިވާ ފިޔަވަޅުތަކެވެ. ތިބާގެ ސިއްހަތަށް އެންމެ އެކަށީގެންވާ ކަންތައް ޑޮކްޓަރާ ވާހަކަ ދައްކާށެވެ."
+  - q: "ބްރެއިން ގޭމްތަކުން ނުވަތަ ޚާއްޞަ ޑައިޓްތަކުން ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެތަ؟"
+    a: "އެއްވެސް ގޭމެއް، ކާނާއެއް، ސަޕްލިމަންޓެއް ނުވަތަ ޑައިޓެއް ޑިމެންޝިއާ ސަލާމަތްކުރާ ކަމަށް ސާބިތުވެފައެއް ނުވެއެވެ. MIND ޑައިޓްގެ ތިން އަހަރުގެ ޓްރަޔަލެއްގައި ކޮންޓްރޯލް ޑައިޓާ އަޅާބަލާއިރު ވިސްނުމުގައި ފާހަގަ ކުރެވޭ ތަފާތެއް ނުފެނުނެވެ، އަދި ވިޔަފާރި ގޮތުން ހަދާފައިވާ ބްރެއިން ޓްރެއިނިން އެޕްތަކުން ދިރާސާ ޓްރަޔަލްތަކުގައި ފެނުނު އަސަރުތައް ދެއްކާ ކަމަށް ވެސް ސާބިތުވެފައެއް ނުވެއެވެ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+ޑިމެންޝިއާ ޖެހިފައިވާ މީހަކަށް ބެލެނިވެރިވަމުން ދަނީނަމަ، ނުވަތަ ބެލެނިވެރިއަކަށް އެ ބަލިމަޑު ޖެހުނު ތަން ދެކެފައިވާނަމަ، އެކަން ހުއްޓުވާލެވުނީތޯ، އަދި އަމިއްލަ ނަފްސަށް އެކަން ޖެހުން ހުއްޓުވާލެވޭނެތޯ ކަމަށް ތިބާ ވިސްނާފައި ހުރެދާނެއެވެ. މި ޞަފްޙާއިގައި ދިރާސާތަކުން ހަގީގަތުގައި ދައްކާ ކަންތައްތައް ސާދާ ބަހުން ބަޔާންކޮށްދީފައިވާނެއެވެ. ކުރު ޖަވާބަކީ: ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެ ކަމަށް އެއްވެސް މީހަކަށް ޔަގީން ނުކުރެވޭނެއެވެ. ނަމަވެސް ދިރާސާތަކުން ދައްކާ ގޮތުގައި ބައެއް ނުރައްކާތައް މަދުކުރެވިދާނެއެވެ، އަދި މުޅި ޖަމާއަތެއްގެ ތެރޭގައި އެ ނުރައްކާތައް މަދުކުރުމުން ޑިމެންޝިއާ އުފެދޭ މީހުން މަދުވެދާނެ ނުވަތަ އެކަން ފަހަތަށް ލަސްވެދާނެއެވެ.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+މިއީ އާންމު މައުލޫމާތެކެވެ، މެޑިކަލް ލަފާއެއް ނޫނެވެ. އަޅުގަނޑުމެންގެ [މެޑިކަލް ޑިސްކްލެއިމަރ](/medical-disclaimer/) ކިޔާލައްވާ، އަދި ތިބާގެ އަމިއްލަ ސިއްހަތާ ބެހޭ ގޮތުން ޑޮކްޓަރާ ވާހަކަ ދައްކަވާށެވެ.
 
-## Can dementia be prevented?
+## ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެތަ؟
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+ވަކި މީހަކަށް ޑިމެންޝިއާ ސަލާމަތްކުރެވޭނެ ސާބިތުވެފައިވާ ގޮތެއް ނެތެވެ. ނޭޝަނަލް އިންސްޓިޓިއުޓް އޮން އޭޖިން (NIA) ބުނާ ގޮތުގައި [އަލްޒައިމަރ ސަލާމަތްކުރާ ކަމަށް އަދި އެއްވެސް ކަމެއް ސާބިތުވެފައެއް ނުވާ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ނަމަވެސް، ދިރާސާކުރާ ފަރާތްތަކަށް އުންމީދުދޭ ގޮތްތަކެއް ފެނިފައިވާއިރު، ކޮން ކަންތައް މަސައްކަތް ކުރާނެ ކަމާއި ނުކުރާނެ ކަން އެމީހުން ދަސްކުރަމުން އަންނަ ކަމަށް ވެސް ބުނެއެވެ.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+ދިރާސާތަކުން *ދައްކާ* ކަމަކީ ބައެއް ސިއްހީ ޙާލަތްތަކާއި އާދަތައް ޑިމެންޝިއާ އުފެދޭ ނުރައްކާ އިތުރުވުމާ ގުޅިފައިވާ ކަމެވެ. މުޅި ޖަމާއަތެއްގެ ތެރޭގައި އެ ނުރައްކާތައް މަދުވުމުން، ޑިމެންޝިއާ އުފެދޭ މީހުން މަދުވެދާނެ، ނުވަތަ ދުވަސްވީ މީހުންނަށް އެކަން ފެށޭނީ ފަހަތަށް ކަމަށް ވެދާނެއެވެ. އެއީ ޔަގީން ކަމަކާ ވަރަށް ތަފާތު ކަމެކެވެ.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+އުންމީދުދޭ އަލާމާތެއް: 2024 ވަނަ އަހަރުގެ Lancet ކޮމިޝަނުން ރިޕޯޓުކުރި ގޮތުގައި އެމެރިކާއާއި ޔުނައިޓެޑް ކިންގްޑަމް ހިމެނޭ ބައެއް އާމްދަނީ މަތީ ޤައުމުތަކުގައި މުސްކުޅި މީހުންގެ ތެރޭގައި ޑިމެންޝިއާ ހުރި މީހުންގެ ނިސްބަތް ދަށްވެފައިވެއެވެ. [ޔުނިވަރސިޓީ ކޮލެޖް ލަންޑަންގެ ޚުލާޞާ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) އަށް ބަލާއިރު، ލިޔުންތެރިން ދެކޭ ގޮތުގައި މިކަމަށް ބައެއް މިންވަރަކަށް ސަބަބަކީ ރަނގަޅު ތައުލީމާއި، ރަނގަޅު ސިއްހީ ޚިދުމަތާއި، ދުވަސްވީ މީހުންނަށް ލޭގެ ނާލިތަކަށް ލިބޭ ގެއްލުން މަދުވުމެވެ.
 
-## What did the 2024 Lancet Commission find?
+## 2024 ވަނަ އަހަރުގެ Lancet ކޮމިޝަނުން ފެންނަގަތީ ކޮންކަމެއްތޯ؟
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+ޑިމެންޝިއާ ސަލާމަތްކުރުމާއި، މައްޗަށް އަރާ ފިޔަވަޅުތަކާއި، ބެލެހެއްޓުމާ ބެހޭ Lancet ކޮމިޝަނަކީ ކޮންމެ ދެތިން އަހަރަކު ސާބިތުތައް ދެންމެ ބަލާ 27 ޑިމެންޝިއާ ދިރާސާކުރާ ބޭފުޅުންގެ ޖަމާއަތެކެވެ. އެމީހުންގެ 2024 ވަނަ އަހަރުގެ ރިޕޯޓުގައި ބަދަލުކުރެވިދާނެ **14 ނުރައްކާއެއް** ނަންގަނެ، އެ ނުރައްކާތަކުން އެކުލެވިގެން **ދުނިޔޭގެ ޑިމެންޝިއާ ކޭސްތަކުގެ ގާތްގަނޑަކަށް ބައިކޮޅެއް (ގާތްގަނޑަކަށް 45%)** އުފެދޭ ކަމަށް ލަފާކުރިއެވެ. ލިޔުންތެރިންގެ ބަހުން، އެ ނުރައްކާތައް ނެތްކުރެވުނު ނަމަ މި ކޭސްތައް *ނަޒަރިއްޔާއަކުން* ސަލާމަތްކުރެވިދާނެ ނުވަތަ ލަސްކުރެވިދާނެ ކަމަށް ވެއެވެ ([2024 ވަނަ އަހަރުގެ Lancet ކޮމިޝަން ރިޕޯޓު](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+އެ 14 ނުރައްކާ، ސާބިތުތައް އެންމެ ބާރުގަދަވެގެންވާ އުމުރުގެ ދައުރަށް ބަހާލައިގެން:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **ކުޑަކުދިންގެ ދުވަސްވަރު:** ތައުލީމު މަދުވުން.
+- **މެދުފަންތި އުމުރު (ގާތްގަނޑަކަށް 40 އިން 65 އަހަރާ ހިސާބަށް):** އަޑު އިވުމުގެ މައްސަލަ، އެލްޑީއެލް ("ނުބައި") ކޮލެސްޓްރޯލް މަތިވުން، ޑިޕްރެޝަން، ބޮލަށް އަނިޔާވުން، ހަރަކާތްތެރިކަން މަދުވުން، ޑަޔަބިޓީސް، ދުންފަތުގެ ބޭނުން، ލޭގެ ޕްރެޝަރު މަތިވުން، ބޮޑުބަދަން، އަދި މަދުން ގިނައިން ބޭނުންކުރުން.
+- **ފަހު އުމުރު:** މުޖުތަމަޢުން ވަކިވެއްޖެން ހުރުން، ވައިގެ ދޫކޮށްލުން، އަދި ފަރުވާ ނުކުރާ ނުރުގެ މައްސަލަ.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 ވަނަ އަހަރު އާ އިތުރުކުރެވުނު ދެ ކަމަކީ އެލްޑީއެލް ކޮލެސްޓްރޯލް މަތިވުމާއި ފަރުވާ ނުކުރާ ނުރުގެ މައްސަލައެވެ. އެންމެ ބޮޑު ބައެއް ކޭސްތަކާ ގުޅުނު ނުރައްކާތަކަކީ އަޑު އިވުމުގެ މައްސަލައާއި އެލްޑީއެލް ކޮލެސްޓްރޯލް މަތިވުން (ކޮންމެ މިނެއްގައި ވެސް ގާތްގަނޑަކަށް 7%)، އޭގެ ފަހުން ތައުލީމު މަދުވުމާއި މުޖުތަމަޢުން ވަކިވެއްޖެން ހުރުން (ކޮންމެ މިނެއްގައި ވެސް ގާތްގަނޑަކަށް 5%) އެވެ.
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+އަޅުގަނޑުމެންގެ [ނުރައްކާތަކާ ބެހޭ މަގުދައްކާ ޞަފްޙާއިގައި](/brain-health/risk-factors/) މި 14 ނުރައްކާ ތާވަލެއްގައި ބަޔާންކޮށް، ދިރާސާތަކުން ގުޅުވާލާ ކަންތައްތަކާއި ކުރެވިދާނެ ކަންތައް ދައްކާލައިދީފައިވާނެއެވެ.
 
-### What the 45% figure does not mean
+### 45% ގެ އަދަދުގެ މާނަ ނުވާ ކަންތައްތައް
 
-It is easy to misread this number, so it helps to be precise:
+މި އަދަދު ގޯސްވެ ވިސްނުން ފަސޭހަވެދާނެ ކަމަށް ވާތީ، ސީދާކޮށް ބަޔާންކުރުން ރަނގަޅެވެ:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **އެއީ މުޅި ޖަމާއަތަކަށް ލަފާކުރެވޭ އަދަދެކެވެ.** އެއީ ދުނިޔޭގެ ޑިމެންޝިއާ ކޭސްތައް ބަޔާންކުރާ އަދަދެކެވެ، ތިބާގެ ނުރައްކާ ނުވަތަ ތިބާގެ ބެލެނިވެރިޔާގެ ނުރައްކާ ބަޔާންކުރާ އަދަދެއް ނޫނެވެ.
+- **މިއީ ސަބަބާއި ނަތީޖާ ދައްކާ ލަފާއެކެވެ.** ލިޔުންތެރިން ބުނާ ގޮތުގައި އެމީހުން ހިމަނާލީ ޔަގީންކަން އެކަށީގެންވާ ސާބިތުތައް ހުރި ނުރައްކާތައް އެކަނި، ނަމަވެސް ބައެއް ގުޅުންތަކަކީ ބައިގައި ސަބަބެއް ނުވެދާނެ ގުޅުންތަކެއް ކަމަށް ވެސް ވެދާނެއެވެ. މިސާލަކަށް ފަހު އުމުރުގައި އުފެދޭ ޑިޕްރެޝަން ބައެއްފަހަރު ސަބަބެއް ނޫން، ޑިމެންޝިއާގެ ފެށްޓެގެ އަލާމާތެއް ވެދާނެއެވެ.
+- **ވަކި މީހަކަށް އެއްވެސް ޔަގީންކަމެއް ނުދޭނެއެވެ.** ޔޫސީއެލްގެ ޚުލާޞާއިން ބުނާ ގޮތުގައި ނުރައްކާ މަދުކުރުމުގެ އަސަރު ކުރަނީ މުޅި ޖަމާއަތެއްގެ ފެންވަރުގައެވެ، އަދި ވަކި މީހަކަށް ޑިމެންޝިއާ ނުޖެހޭނެ ކަމުގެ ޔަގީންކަމެއް ނުދެއެވެ.
+- **ބާކީ ބައިކޮޅަށް މި ސަބަބުތަކުން މިންގަނޑު ނުޖެހެއެވެ.** އުމުރާއި، ޖީންސްތަކާއި، ސައިންސްވެރިންނަށް އަދި ފުރިހަމައަށް ނޭނގޭ ސަބަބުތަކުން ބާކީ ބައި އުފެދެއެވެ.
 
-## What is the difference between "risk reduction" and "prevention"?
+## "ނުރައްކާ މަދުކުރުން" އާއި "ސަލާމަތްކުރުން" އާ ދެމެދު ތަފާތަކީ ކޮބައިތޯ?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**ނުރައްކާ މަދުކުރުން** މާނައަކީ ނުރައްކާ ދަށްކުރުމެވެ. ބޮޑު ޖަމާއަތެއްގެ މީހުން އެމީހުންގެ ލޭގެ ޕްރެޝަރު ދަށްކުރުމުން، އެނޫން ހާލަތެއްގައި ވާންޖެހޭނެ މީހުންގެ އަދަދަށްވުރެ ގިނަ އަހަރުތަކެއްގެ ތެރޭގައި ޑިމެންޝިއާ އުފެދޭ މީހުން މަދުވެދާނެއެވެ. އެ ޖަމާއަތުގެ ތެރޭގައި ހުރި ބައެއް މީހުންނަށް އަދިވެސް ޑިމެންޝިއާ ޖެހިދާނެއެވެ.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**ސަލާމަތްކުރުން** އެއީ ކަމެއް ފުރިހަމައަށް އުފެދުން ހުއްޓުވާލުމެވެ. ޑިމެންޝިއާއާ ގުޅިގެން، މިއަދު އެއްވެސް މީހަކަށް ދިރާސާތަކުން އެކަން ޔަގީން ނުކުރެވޭނެއެވެ.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+ދިރާސާކުރާ ފަރާތްތައް **ލަސްކުރުން** ވެސް ބަޔާންކުރެއެވެ. Lancet ކޮމިޝަނުން ރިޕޯޓުކުރި ގޮތުގައި ނުރައްކާ މަދުކުރުމުން ޑިމެންޝިއާ ފެށޭ ވަގުތު ފަހަތަށް ޖެއްސެވިދާނެ، އަދި މީހަކު ނުރައްކާ ސިއްހަތެއްގައި ދުވަސްވުން ހޭދަކުރާ މުއްދަތު ކުރުވެދާނެ ކަމަށް އާ ސާބިތުތަކެއް ލިބެއެވެ. މީހަކަށާއި އެމީހާގެ އާއިލާއަށް ދެތިން އަހަރު ލަސްވުމަކީ ވެސް ވަރަށް ބޮޑު ކަމެކެވެ.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+މި ސައިޓުގައި އަޅުގަނޑުމެން ގަސްތުން "ނުރައްކާ މަދުކުރުން" އަދި "ގުޅުން ހުރި" އޭ ބަސްތައް ބޭނުންކުރަމެވެ. "އަލްޒައިމަރ ސަލާމަތްކުރާނެ" ކަމަށް ވާދަކުރާ އެއްވެސް އުފެއްދުމެއް، ސަޕްލިމަންޓެއް ނުވަތަ ޕްރޮގްރާމެއް ފެނުނުނަމަ ސަމާލުކަމާއެކު ބަލާށެވެ. NIA ލަފާދެނީ އަލްޒައިމަރ ސަލާމަތްކުރާނެ ކަމަށް ވާދަކުރާ އެއްވެސް ބައިވަރެއް ނުވަތަ ފަރުވާއެއް ޓްރައި ކުރުމުގެ ކުރިން ޑޮކްޓަރާ ވާހަކަ ދައްކަންޖެހޭނެ ކަމަށެވެ، އެހެނީ އެފަދަ އުފެއްދުންތައް ނުރައްކާތެރި، ފައިސާ ބޭކާރުވާ، ނުވަތަ ދެކަން ވެސް ވެދާނެ ކަމަށެވެ.
 
-## What have large trials found?
+## ބޮޑެތި ޓްރަޔަލްތަކުން ފެންނަގަތީ ކޮންކަމެއްތޯ؟
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+އޮބްޒަރވޭޝަނަލް ދިރާސާތަކުން (މީހުންނަށް ދިމާވާ ކަންތައް ވަގުތުން ބަލާ ދިރާސާތައް) ގުޅުންތައް ދައްކާލެވޭނެއެވެ. ރެންޑަމައިޒްޑް ޓްރަޔަލްތައް، އެބަހީ މީހުން ނަސީބުން ޕްރޮގްރާމަކަށް ނުވަތަ އަޅާބަލާ ގްރޫޕަކަށް ބަހާލާ ޓްރަޔަލްތައް، އެއީ އެއަށްވުރެ ބާރުގަދަ ޓެސްޓެކެވެ. އެންމެ މަޝްހޫރު ބައެއް ޓްރަޔަލްތަކުން ފެންނަގަތީ މިއެވެ.
 
-### FINGER (Finland)
+### FINGER (ފިންލޭންޑް)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER ޓްރަޔަލްގައި ޑިމެންޝިއާގެ ނުރައްކާ މަތި 60 އިން 77 އަހަރާ ހިސާބުގެ 1,260 ބަލިމީހުން ބައިވެރިކުރިއެވެ. ބައިކޮޅަކަށް ކާބޯތަކެތީގެ ލަފާ، ކަސްރަތު، ކޮމްޕިއުޓަރ ބްރެއިން ކަސްރަތުތައް، އަދި ހިތާއި ލޭގެ ނާލިތަކުގެ ސިއްހަތް ބަލާ ދެ އަހަރުގެ ޕްރޮގްރާމެއް ދިންއިރު، އަނެއް ބައިކޮޅަށް ދިނީ އާންމު ސިއްހީ ލަފާއެވެ. ޕްރޮގްރާމް ލިބުނު ގްރޫޕް ވިސްނުމުގެ ޓެސްޓްތަކުގެ ސެޓެއްގައި ވަރަށް މަޑުން ރަނގަޅު ނަތީޖާއެއް ދައްކާލިއެވެ، އެއީ ކުޑަ ނަމަވެސް ތަފާސްހިސާބުން ފާހަގަ ކުރެވޭ ތަފާތެކެވެ ([The Lancet ގައި ހިމެނޭ FINGER ޓްރަޔަލް](https://pubmed.ncbi.nlm.nih.gov/25771249/)). މި ޓްރަޔަލްގައި ދަނީ ޓެސްޓް ނަތީޖާ ދެނެގަތީއެވެ، ޑިމެންޝިއާގެ ޑައިގްނޯސިސް ނޫނެވެ.
 
-### US POINTER (United States)
+### US POINTER (އެމެރިކާ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ޓްރަޔަލްގައި ހަރަކާތްތެރިކަން މަދު، ކާބޯތަކެތީގެ އާދަތައް އެހާ ރަނގަޅެއް ނޫން، އަދި އެހެން ނުރައްކާތައް ހުރި 60 އިން 79 އަހަރާ ހިސާބުގެ 2,111 ބަލިމީހުން ބައިވެރިކުރިއެވެ. ދެ ގްރޫޕަށް ވެސް ހަރަކާތްތެރިވުމަށާއި، ދިމާގު ބޭނުންކުރުމަށާއި، ރަނގަޅަށް ކެއުމަށާއި، މީހުންނާ ގުޅިހުރުމަށާއި، ހިތުގެ ސިއްހަތް ބެލެހެއްޓުމަށް ހިތްވަރު ދިނެވެ. އެއް ގްރޫޕަކަށް ލިބުނީ ކޯޗަކުން އެހީތެރިވެދޭ އިންތިޒާމުކޮށްފައިވާ ޕްރޮގްރާމެއް؛ އަނެއް ގްރޫޕުން އެކަން ކުރީ އަމިއްލަ މަގުދައްކާއިންނެވެ. ދެ އަހަރުގެ ތެރޭގައި **ދެ ގްރޫޕުގެ** ވިސްނުމުގެ ޓެސްޓް ނަތީޖާ ރަނގަޅުވިއެވެ، އަދި އިންތިޒާމުކޮށްފައިވާ ޕްރޮގްރާމް ލިބުނު ގްރޫޕުގައި ވަރަށް މަޑުން އިތުރަށް ރަނގަޅުވިއެވެ ([JAMA ގައި ހިމެނޭ US POINTER ޓްރަޔަލް](https://pubmed.ncbi.nlm.nih.gov/40720610/)). މި ތަފާތަށް ދުވަސްވީ ދިރިއުޅުމުގައި މާނައެއް އޮންނާނެތޯ ދެނެގަތުމަށް އިތުރު ފޮލޯއަޕް ބޭނުންވާ ކަމަށް ލިޔުންތެރިން ބުނެއެވެ. "އެއްވެސް ކަމެއް ނުކުރާ" ގްރޫޕެއް ނުހުރި ކަމުން، ދެ ޕްރޮގްރާމުގެ ތެރެއިން ކޮން ޕްރޮގްރާމެއް އެއްވެސް ބަދަލެއް ނެތި ހުރުމާ އަޅާބަލާއިރު ކޮން މިންވަރަކަށް އެހީތެރިވިތޯ މި ޓްރަޔަލްއިން ނުބުނެވޭނެއެވެ.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (ލޭގެ ޕްރެޝަރު)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND ޓްރަޔަލްގައި ލޭގެ ޕްރެޝަރު މަތި 50 އަހަރުން މަތީގެ 9,361 އެމެރިކާ މީހުން ދިރާސާކުރިއެވެ. އެމީހުން ބަހާލީ ލޭގެ ޕްރެޝަރުގެ ދަށް ލަނޑުޑަނޑިއަކަށް (މަތީ ނަންބަރު 120 އަށް ވުރެ ދަށް) ނުވަތަ އާންމު ލަނޑުޑަނޑިއަކަށް (140 އަށް ވުރެ ދަށް) ގެންދިއުމަށެވެ. ދަށް ލަނޑުޑަނޑިން ފާހަގަ ކުރެވޭ މިންވަރަކަށް **މަޑު ކޮގްނިޓިވް އިމްޕެއާމަންޓް** މަދުކުރިއެވެ، އެއީ ހަނދާނާއި ވިސްނުމުގެ މައްސަލަތަކުގެ ދަރަޖައެއް ކަމަށާއި، ޑިމެންޝިއާ އަންނާން ހުރި މަގުގައި އެކަން ދިމާވެދާނެ ކަމަށެވެ. **ޑިމެންޝިއާ ވާން ގާތްވާ ކޭސްތަކުގެ** ގޮތުން ބަލާއިރު، ދަށް ލަނޑުޑަނޑިއިގެ ގްރޫޕުގައި ކޭސް މަދުވި ނަމަވެސް، އެ ތަފާތަކީ ތަފާސްހިސާބުން ފާހަގަ ކުރެވޭ ތަފާތެއް ނޫނެވެ. މި ޓްރަޔަލް ކުރީ އަވަހަށް ނިންމާލިއިރު، ބޭނުންވާ މިންވަރަށްވުރެ ޑިމެންޝިއާ ކޭސް މަދު ކަމުން، އެ ސުވާލަށް ޖަވާބު ދިނުމަށް ޓްރަޔަލް ކުޑަވެދާނެ ކަމަށް ވެސް ވެދާނެއެވެ ([JAMA ގައި ހިމެނޭ SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### ރިވިއުތަކުން އެކުލަވާލާ ކަންތައްތައް
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 ވަނަ އަހަރުގެ Cochrane ރިވިއުއެއްގައި 18,000 އަށް ވުރެ ގިނަ މީހުން ބައިވެރިކުރުވައިގެން، އެއްފަހަރާ އެއަށްވުރެ ގިނަ ނުރައްކާއެއް އެއްފަހަރާ ޙައްލުކުރާ 9 ބޮޑެތި ޓްރަޔަލް އެއްކޮށް ބެލިއެވެ. އެއިން ވިސްނުމުގެ ޓެސްޓްތަކުގައި ކުޑަ ފައިދާއެއް ފެނުނު ނަމަވެސް، އެކަން ދެނެގަތް ދެ ޓްރަޔަލްގައި **ޑިމެންޝިއާ އުފެދުނު މީހުންގެ އަދަދުގައި ސާފު ތަފާތެއް ނުފެނުނެވެ** ([މަލްޓި-ޑޮމެއިން އިންޓަރވެންޝަންތަކާ ބެހޭ Cochrane ރިވިއު](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+NIA ޚުލާޞާކުރި 2017 ވަނަ އަހަރުގެ ނޭޝަނަލް އެކަޑަމީސް އޮފް ސައިންސަސް، އެންޖިނިއަރިން، އެންޑް މެޑިސިންގެ ރިވިއުއިން ތިން ގޮތަކަށް "އުންމީދުދޭ ނަމަވެސް ނިމުމެއް ނެތް" ސާބިތުތައް ފެނުނެވެ: ލޭގެ ޕްރެޝަރު މަތިވުން ކޮންޓްރޯލްކުރުން، ހަރަކާތްތެރިކަން އިތުރުކުރުން، އަދި ކޮގްނިޓިވް ޓްރެއިނިންގެ މަސައްކަތްތައް.
 
-## Does it matter when you start?
+## ފެށޭ ވަގުތަށް ފަރަގެއް އެބަ އޮތްތޯ؟
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet ކޮމިޝަނުން ދޭ ލަފާއަކީ ނުރައްކާތައް ވީހާވެސް އަވަހަށް މަދުކޮށް، ވީހާވެސް ދިގު މުއްދަތަކަށް މަދު ހަމަޖެހިފައި ބަހައްޓަންވުމެވެ: "އަވަސްވުމަކީ ރަނގަޅު ކަމެއް" އަދި "ދިގު މުއްދަތަކަށް ބަހައްޓަންވުމަކީ ރަނގަޅު ކަމެއް". އަދި ނުރައްކާ މަދުކުރަން ވަރަށް އަވަހެއް ނުވަތަ ވަރަށް ލަސްވެއް ނުވާ ކަމަށް ވެސް ބުނެއެވެ. ގިނަ ސާބިތުތައް ބެހެނީ ގާތްގަނޑަކަށް 40 އިން 65 އަހަރާ ހިސާބުގެ މެދުފަންތި އުމުރާ ނަމަވެސް، ނުރުގެ މައްސަލައާއި މުޖުތަމަޢުން ވަކިވެއްޖެން ހުރުން ފަދަ ބައެއް ކަންތައްތަކަކީ ފަހު އުމުރުގެ ނުރައްކާތަކެއް ކަމުން، އެއިރު ވެސް ފިޔަވަޅު ނަގަން މާނައެއް އޮންނާނެއެވެ.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+ރިޕޯޓުގައި ބުނާ ގޮތުގައި ނުރައްކާއަކަށް ދިގު މުއްދަތަކަށް ދިމާވުމުން އެއަށް އިތުރު ބޮޑު އަސަރެއް ކުރާ ކަމަށް މިހާރު އިތުރު ސާބިތުތަކެއް އެބަ އޮތެވެ. މިސާލަކަށް މެދުފަންތި އުމުރުގައި ފެށޭ ޑަޔަބިޓީސް ފަހަތަށް ފެށޭ ޑަޔަބިޓީސްއަށް ވުރެ މާ ބޮޑަށް ފަރަގުކުރާ ކަމަށް ދެކެއެވެ.
 
-## Is dementia risk the same for everyone?
+## ޑިމެންޝިއާގެ ނުރައްކާ އެންމެނަށް އެއްވަރުތަ؟
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+ނޫނެވެ. ކޮމިޝަނުން ފެންނަގަތީ ދަށްވެފައިވާ އާމްދަނީގެ ޤައުމުތަކާއި މެދު އާމްދަނީގެ ޤައުމުތަކުގެ މީހުންނަށާއި، އަގުބޭނުން ޖަމާއަތްތަކުގެ މީހުންނަށާއި، ފައިސާ މަދު މީހުންނަށް މި ނުރައްކާތަކުގެ ބޮޑު ބައެއް އާންމުކޮށް އެކަށީގެންވާ ކަމަށެވެ، އެހެންކަމުން ޑިމެންޝިއާ އުފެދެނީ ކުރީ އުމުރުގައި ކަމަށެވެ. ގިނަ ނުރައްކާތަކަކީ މީހުން އަމިއްލައަށް ނުހޮވާލި ޙާލަތްތަކާ ގުޅުން ހުރި ކަންތައްތަކެވެ، މިސާލަކަށް ކުޑަކުދިންގެ ދުވަސްވަރުގައި ލިބުނު ތައުލީމުގެ ފެންވަރު، ދިރިއުޅޭ ތަނުގެ ވައި، އަދި ސިއްހަތަށް ރަނގަޅު ކާބޯތަކެތި އަގަށް ލިބޭތޯ އަދި ކައިރީގައި ހުރިތޯ.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+އެހެންކަމުން ކޮމިޝަނުގެ ލަފާތައް ވަކި މީހުންނަށް ދެވޭ މިންވަރަށް ސަރުކާރުތަކަށް ވެސް ދެވިގެންވެއެވެ: ހުރިހާ ކުދިންނަށް ރަނގަޅު ތައުލީމެއް، ސާފު ވައި، ދުންފަތުގެ ބޭނުން މަދުކުރާ ފިޔަވަޅުތައް، ފިހާރަތަކާއި ރެސްޓޯރެންޓްތަކުގައި ވިއްކާ ކާބޯތަކެތިތަކުގައި ހަކުރާއި ލޮނު މަދުކުރުން، އަދި ބޭނުންވާ ހުރިހާ މީހަކަށް އަޑު އިވުމަށް އެހީތެރި ވަސީލަތް ލިބުން. ވަކި މީހުންގެ މަސައްކަތަށް މާނައެއް އޮންނަ ނަމަވެސް، މީހުން ދިރިއުޅޭ ދުނިޔެއަށް ވެސް މާނައެއް އެބަ އޮތެވެ. ޑިމެންޝިއާ ޖެހުމަށް އެއްވެސް މީހަކު ދައުރު ނުދޭންޖެހޭ އިތުރު ސަބަބެކެވެ.
 
-## What are the honest limits of this research?
+## މި ދިރާސާތަކުގެ ސީދާ ދަރަޖައިގެ ހައްދުތަކަކީ ކޮބައިތޯ؟
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **ޑިމެންޝިއާ އުފެދެނީ ދަހަތަކެއް އަހަރު ހޭދަކުރައިގެންނެވެ**، ނަމަވެސް ގިނަ ޓްރަޔަލްތައް ދެމިގެން ދަނީ ދެއިން ފަސް އަހަރެވެ. ހަމައެކަނި ޓެސްޓް ނަތީޖާ ނޫން، ޑިމެންޝިއާ އަމިއްލައަށް ދެނެގަތުމަށް ވަރަށް ދިގު އަދި ވަރަށް ބޮޑެތި ދިރާސާތައް ބޭނުންވެއެވެ.
+- **ގިނަ ޓްރަޔަލްތަކުން ދަނީ ވިސްނުމުގެ ޓެސްޓްތައް ބަލަމުންނެވެ.** ޓެސްޓެއްގައި ކުޑަ ރަނގަޅުވުމަކީ ޑިމެންޝިއާ އުފެދޭ މީހުން މަދުވާނެ ކަމެއް ނުވަތަ ދުވަސްވީ ދިރިއުޅުން ފަސޭހަވާނެ ކަމުގެ މާނަ ކޮންމެ ހިނދަކު ދުވާނެ ކަމެއް ނޫނެވެ.
+- **ވޮލަންޓިއަރުން ގިނަވެގެން އާންމު މީހުންނަށް ވުރެ ސިއްހަތް ރަނގަޅު މީހުންނެވެ** އަދި ތައުލީމީ ފެންވަރު ވެސް މަތީގައި ހުރެދާނެއެވެ. Lancet ކޮމިޝަނުން ބުނާ ގޮތުގައި ގިނަ ސާބިތުތައް އަދިވެސް އަންނަނީ އާމްދަނީ މަތީ ޤައުމުތަކުން ކަމަށާއި، އަގުބޭނުން ޖަމާއަތްތަކުގެ ތަމްސީލު މަދު ކަމަށެވެ.
+- **ބައެއް ގުޅުންތައް ދެފަރާތަށް ހިނގާނެއެވެ.** ހަރަކާތްތެރިކަން މަދުވުމާއި މީހުންނާ ގުޅުން މަދުވުމަކީ ޑިމެންޝިއާގެ ފެށްޓެގެ އަސަރެއް ވެދާނެއެވެ، ހަމައެކަނި ސަބަބެއް ނޫނެވެ.
+- **ޑައިޓް ޓްރަޔަލްތަކުން މިހާތަނަށް އުންމީދު ގެއްލުވާ ނަތީޖާތަކެއް ދެއްކާފައިވެއެވެ.** MIND ޑައިޓްގެ ތިން އަހަރުގެ ޓްރަޔަލެއްގައި ކޮންޓްރޯލް ޑައިޓާ އަޅާބަލާއިރު ވިސްނުމުގައި ފާހަގަ ކުރެވޭ ތަފާތެއް ނުފެނުނެވެ. އަޅުގަނޑުމެންގެ [ކާބޯތަކެތި ބެހޭ މަގުދައްކާ ޞަފްޙާ](/brain-health/diet/) ބައްލަވާށެވެ.
+- **ބްރެއިން ގޭމްތަކުން ޑިމެންޝިއާ ސަލާމަތްކުރާ ކަމަށް ސާބިތުވެފައެއް ނުވެއެވެ.** އަޅުގަނޑުމެންގެ [ބްރެއިން ގޭމްތަކާއި ޑިމެންޝިއާ ބެހޭ މަގުދައްކާ ޞަފްޙާ](/brain-health/brain-games/) ބައްލަވާށެވެ.
+- **ރޯދަ ހިފުމާ ގުޅޭ އިންސާނުންގެ ސާބިތުތައް ވަރަށް މަދެވެ**، އަދި މުސްކުޅި މީހުންނަށް އެކަން ނުރައްކާތެރި ވެދާނެއެވެ. އަޅުގަނޑުމެންގެ [ރޯދަ ހިފުމާ ބެހޭ މަގުދައްކާ ޞަފްޙާ](/brain-health/fasting/) ބައްލަވާށެވެ.
 
-## If someone did everything "right", why did they still get dementia?
+## މީހަކު ހުރިހާ ކަމެއް "ރަނގަޅަށް" ކުރި ނަމަވެސް ޑިމެންޝިއާ ޖެހުނީ ކީއްވެ؟
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+ޑިމެންޝިއާ އަކީ ހަމައެކަނި ނަގާ ނިންމުންތަކުގެ ނަތީޖާއެއް ނޫން ކަމަށް ވާތީއެވެ. NIA ބުނާ ގޮތުގައި [އަލްޒައިމަރަށް އެނގިގެންވާ އެންމެ ބޮޑު ނުރައްކާއަކީ އުމުރެވެ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)، އަދި އެއީ އެއްވެސް މީހަކަށް ބަދަލުކުރެވޭ ކަމެއް ނޫނެވެ. ޖީންސްތަކަށް ވެސް ބައެއް ހިމެނެއެވެ. އަދި ގިނަ މީހުންނަށް އަލްޒައިމަރ ޖެހެނީ ކީއްވެގެން ކަމަށް ސައިންސްވެރިންނަށް އަދި ފުރިހަމައަށް ނޭނގެއެވެ. އެ 14 ނުރައްކާ ހުރިހާ ނެތްކުރެވުނު ނަމަ ވެސް، Lancet ކޮމިޝަނުގެ އަމިއްލަ ލަފާއިން ކޭސްތަކުގެ ބައިކޮޅަށް ވުރެ ގިނަ ބައިއަކަށް މިންގަނޑެއް ނުޖެހެއެވެ.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+އެހެންކަމުން ކަސްރަތުކޮށް، ރަނގަޅަށް ކާއިރު، ދުންފަތު ބޭނުން ނުކުރި މީހަކަށް ޑިމެންޝިއާ ޖެހުނީނަމަ، އެއީ އެމީހެއްގެ ފަރާތުން ނުވަތަ ތިބާގެ ފަރާތުން ކޮންމެވެސް ކަމެއް ގޯސްވި ކަމެއް ނޫނެވެ. ތިބާ އަމިއްލައަށް ޑިމެންޝިއާ ޖެހިފައިވާ މީހަކަށް ވާނަމަ، އެއީ ތިބާގެ ކުށެއް ނޫނެވެ. އާއިލާތަކުގެ ތެރޭގައި ކުށްވެރިކަން އުފެދުން އާންމު ކަމެކެވެ، ނަމަވެސް އެކަން ޙައްޤު ނުވެއެވެ. މިހާރު މުހިންމުވަނީ އަރާމާއި، ގުޅުމާއި، ރަނގަޅު ދުވަސްތަކެވެ. އަޅުގަނޑުމެންގެ [ހަރަކާތްތަކުގެ ޚިޔާލުތައް](/activities/ideas/) އަދި [ބެލެނިވެރިންނަށް އަމިއްލަ ނަފްސު ބަލަހައްޓާ މަގުދައްކާ ޞަފްޙާ](/caregiving/caregiver-self-care/) ފެށުމަށް ރަނގަޅު ތަންތަނެވެ.
 
-## What steps can you talk over with a doctor?
+## ޑޮކްޓަރާ ވާހަކަ ދައްކަންޖެހޭ ފިޔަވަޅުތަކަކީ ކޮބައިތޯ؟
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+މިއީ އެންމެ ގިނައިން ދިރާސާކުރެވޭ ދާއިރާތަކެވެ. ޗެކަޕެއްގައި މި ކަންތައްތައް ހުށަހެޅުން ރަނގަޅެވެ، މިކަންތައްތަކުން ޑިމެންޝިއާއަށް ކުރާ އަސަރަކީ ކޮބައިވިޔަސް، ގިނަ ކަންތައްތަކުން ހިތުގެ ސިއްހަތަށާއި، މޫޑަށާއި، އަމިއްލައަށް ކަންކަން ކުރުމުގެ ޤާބިލުކަމަށް ވެސް ފައިދާކުރާތީއެވެ.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **ލޭގެ ޕްރެޝަރު.** ތިބާގެ ނަންބަރުތައް ކޮބައިތޯ އަދި ތިބާއަށް އެކަށީގެންވާ ލަނޑުޑަނޑިއަކީ ކޮބައިތޯ އަހާށެވެ. Lancet ކޮމިޝަނުން ލަފާދެނީ ގާތްގަނޑަކަށް 40 އަހަރުން ފެށިގެން މަތީ ނަންބަރު 130 ނުވަތަ އެއަށް ވުރެ ދަށަށް ބެހެއްޓުމަށެވެ، ނަމަވެސް މުސްކުޅި މީހަކަށް އެންމެ ރަނގަޅު ލަނޑުޑަނޑި ބަރޯސާވަނީ އެމީހާގެ އާންމު ސިއްހަތުގެ މައްޗަށެވެ.
+2. **އަޑު އިވުން.** އަޑު އިވުމުގެ ޓެސްޓެއް ހެދުމަށާއި، އަޑު އިވުމަށް އެހީތެރި ވަސީލަތަކުން ފައިދާކުރާނެތޯ އަހާށެވެ. އަޅުގަނޑުމެންގެ [އަޑު އިވުމާ ބެހޭ މަގުދައްކާ ޞަފްޙާއިން](/brain-health/hearing/) ދިރާސާތައް މިންގަނޑުކޮށްދެއެވެ.
+3. **ނުރު.** ދުވަސްވީ މީހުންނަށް ލޯފުޅުގެ ޗެކަޕް ހެދުމަށާއި، ކެޓަރެކްޓް ފަދަ މައްސަލަތައް ފަރުވާކުރެވިދާނެތޯ އަހާށެވެ.
+4. **ކޮލެސްޓްރޯލް.** ތިބާގެ އެލްޑީއެލް ކޮލެސްޓްރޯލް ޗެކްކުރަން ޖެހޭތޯ އަދި އެއްވެސް ކަމެއް ބަދަލުކުރަން ޖެހޭތޯ އަހާށެވެ.
+5. **ލޭގެ ހަކުރު.** ޑަޔަބިޓީސް ހުރިނަމަ، އެކަން ރައްކާތެރިކަމާއެކު ކިހިނެއް ކޮންޓްރޯލްކުރާނެތޯ އަހާށެވެ.
+6. **މޫޑު.** ޑިޕްރެޝަން އަކީ އާންމުކޮށް ދިމާވެ، ފަރުވާކުރެވޭ ޙާލަތެކެވެ. ދެ ހަފްތާއަށް ވުރެ ގިނަ ދުވަހަކު ހިތްހަމަނުޖެހޭ ނުވަތަ ކަންކަމަށް ޝައުގުވެރިކަން ނެތްވެއްޖެ ނަމަ ޑޮކްޓަރަށް ދަންނަވާށެވެ.
+7. **ދުންފަތުގެ ބޭނުން އަދި ބޭނުންކުރުން.** ދުންފަތު ދޫކުރުމަށް ލިބޭ އެހީތެރިކަމާއި، ބޭނުންކުރުމަށް ރައްކާތެރި މިންވަރު އަހާށެވެ.
+8. **ހަރަކާތްތެރިކަން.** ތިބާއަށް ރައްކާތެރިކަމާއެކު ކުރެވޭނެ ހަރަކާތްތަކަކީ ކޮބައިތޯ އަހާށެވެ. އަޅުގަނޑުމެންގެ [ކަސްރަތާ ބެހޭ މަގުދައްކާ ޞަފްޙާއިގައި](/brain-health/exercise/) ޚިޔާލުތައް ހުރެއެވެ.
+9. **ބޮލު ރައްކާތެރިކުރުން.** ސައިކަލް ދުއްވާއިރާއި ކޮންޓެކްޓް ކުޅިވަރު ކުޅެމުން ދަނިއިރު ހެލްމެޓް އަޅާށެވެ، އަދި ވެއްޓުން ސަލާމަތްވާ ގޮތްތަކާ ބެހޭ ގޮތުން އަހާށެވެ.
+10. **މީހުންނާ ގުޅިހުރުން.** އެހެން މީހުންނާ އެކު ވަގުތު ހޭދަކުރުމަކީ ދިރިއުޅުމެއްގެ ރަނގަޅު ދިރިއުޅުމުގެ ބައެކެވެ. އަޅުގަނޑުމެންގެ [މުޖުތަމަޢީ ގުޅުން](/brain-health/social-connection/) ބެހޭ މަގުދައްކާ ޞަފްޙާ ބައްލަވާށެވެ، އަދި [ނިދުން](/brain-health/sleep/) ވެސް ބައްލަވާށެވެ.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+ބޭސްތައް، ކާބޯތަކެތި، ސަޕްލިމަންޓް، ރޯދަ ހިފުން ނުވަތަ ކަސްރަތު ބަދަލުކުރުމުގެ ކުރިން، ޚާއްޞަކޮށް ހިތުގެ ބަލި، ޑަޔަބިޓީސް، ވެއްޓުމުގެ ތާރީޚެއް ހުރިނަމަ، ނުވަތަ މިހާރުވެސް ޑިމެންޝިއާ ޖެހިފައިވާ ނަމަ، އެންމެ ފުރަތަމަ ޑޮކްޓަރާ ވާހަކަ ދައްކަވާށެވެ.
 
-## Talk with a doctor
+## ޑޮކްޓަރާ ވާހަކަ ދައްކާށެވެ
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+ތިބާގެ ނަފްސުގައި ނުވަތަ އެހެން މީހަކުގައި ހަނދާން ނެތުމުގެ ނުވަތަ ވިސްނުމުގެ ބަދަލުތަކެއް ފެނި، އެކަމާ ބެހޭ ގޮތުން ހިތާމަކުރާ ނަމަ، އެޕޮއިންޓްމަންޓެއް ނަގާށެވެ. NIA ބުނާ ގޮތުގައި [ހަނދާން ނެތުމުގެ މައްސަލަތަކަށް އެހެން ސަބަބުތަކެއް ހުރެދާނެއެވެ](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging)، މިސާލަކަށް ބޭސްތަކުގެ ސައިޑް އިފެކްޓް، ތައިރޮއިޑް މައްސަލަތައް، ޑިޕްރެޝަން، ނުވަތަ ވިޓަމިން B12 މަދުވުން، އަދި މިފަދަ ބައެއް މައްސަލަތަކަކީ ސަބަބު ފަރުވާކުރުމުން ހައްލުވެދާނެ ކަންތައްތަކެވެ. އަޅުގަނޑުމެންގެ [އިންޒާރުދޭ އަލާމާތްތަކާ ބެހޭ މަގުދައްކާ ޞަފްޙާއިން](/brain-health/warning-signs/) ބަލަންޖެހޭ ކަންތައް މިންގަނޑުކޮށްދެއެވެ.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**އަވަސް ބަދަލުތަކަށް ވަގުތުން އެހީ ހޯދާށެވެ:** އަވަސް ހަމަނުޖެހުން، އެއް ފަރާތެއް ބަލިވުން ނުވަތަ ޙިއްސު ނެތުން، ވާހަކަ ދެއްކުން އުނދަގޫވުން، ނުވަތަ ވަރަށް ބޮޑު ބޮލުގައެއް އަކީ ސްޓްރޯކެއް ނުވަތަ އެހެން އިމަޖެންސީ ޙާލަތެއްގެ އަލާމާތްތަކަށް ވެދާނެއެވެ. 102 އަށް ގުޅުއްވާށެވެ.
 
-## Where Golden Moments fits
+## Golden Moments ގެ ބައި
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments އިން [ވާހަކަ ދެއްކުމަށް ހިތްވަރުދޭ ކާޑުތައް](/games/conversation-cards/)، [ތަސްވީރު ބިންގޯ](/games/picture-bingo/)، އަދި [ހަމަޖެހި ނޭވެރިވުމުގެ ހުއިފިލާ ވަގުތެއް](/games/calm-breathing/) ފަދަ ސާދާ އަދި އެކުވެ ކުރެވޭ ހަރަކާތްތައް ތައްޔާރުކުރެއެވެ. މިއީ އުފާވެރިކަމަށާއި އެކުވެ ވަގުތު ހޭދަކުރުމަށް ހަދާފައިވާ ކަންތައްތަކެވެ. މިއީ ފަރުވާއެއް ނޫން، އަދި ޑިމެންޝިއާ ސަލާމަތް ނުކުރާނެ، މަޑު ނުކުރާނެ ކަމަށް ވެސް ނުވެއެވެ.
