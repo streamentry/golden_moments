@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Grupaj aktivecoj por demenco: gvidilo por zorghejmoj"
+seoTitle: "Grupaj aktivecoj por demenco: bilda bingo, kantoj"
+description: "Grupaj aktivecoj por memorzorgo, flegejoj kaj tagaj programoj: bilda bingo, komunkantado kaj rememoraj grupoj, plus konsiloj pri sidado kaj grandeco."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Bonaj grupaj aktivecoj en memorzorgo kaj tagaj programoj estas mallongaj,
+  konataj kaj facile aliĝeblaj je ajna nivelo: bilda bingo, komunkantado,
+  rememoraj rondoj, simpla movado kaj komunaj vortludoj. Kie eblas, tenu
+  grupojn malgrandaj, sidigu homojn tiel ke ĉiuj povu vidi kaj aŭdi, donu unu
+  klaran paŝon samtempe, kaj planu pli facilan rolon kaj trankvilan eblecon
+  forlasi por iu ajn, kiu tion bezonas.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Malgrandaj grupoj ofte funkcias pli bone ol unu granda evento, kaj ili ebligas al pli da homoj aktive partopreni anstataŭ nur spekti."
+  - "Sidigu homojn en cirklo aŭ hufofero, proksime al la gvidanto, konsiderante bezonojn pri aŭdado kaj vidado, kaj malŝaltu fonan bruon."
+  - "Planu ĉiun aktivecon je du aŭ tri niveloj, por ke homoj kun malsamaj kapabloj ĉiuj povu partopreni."
+  - "Evitu demandadojn, poentojn kaj venkantojn. Bildan bingon oni povas ludi tiel, ke ĉiuj fine havas plenan karton."
+  - "Foriri pli frue, spekti aŭ ekdormi estas en ordo. Havu teamanon preta subteni iun ajn, kiu volas pli trankvilan lokon."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Kia estas bona grupa grandeco por demencaj aktivecoj?"
+    a: "Ne ekzistas unu ĝusta nombro, kaj ĝi dependas de la loĝantoj, la ĉambro kaj kiom da teamanoj vi havas. Multaj teamoj rimarkas, ke malgrandaj grupoj ebligas al ĉiuj vidi, aŭdi kaj partopreni, dum eventoj en granda ĉambro ofte lasas pli da homoj nur spekti. Se vi organizas grandan eventon, aldonu teamanojn aŭ volontulojn, kiuj povas sidi inter la loĝantoj kaj helpi unu aŭ du homojn ĉiu."
+  - q: "Kiel mi gvidas grupon kun malsamaj kapabloj?"
+    a: "Planu pli ol unu manieron aliĝi al ĉiu aktiveco. Dum komunkantado, iuj kantas ĉiun vorton, iuj aplaŭdas aŭ zumas, kaj iuj tenas skuiston. En bilda bingo, iuj trovas siajn proprajn bildojn, dum helpanto montras por aliaj. Sidigu homojn, kiuj bezonas pli da helpo, apud teamano aŭ volontulo."
+  - q: "Kiel mi ludas bildan bingon sen fari ĝin konkurenca?"
+    a: "Voku ĉiun bildon ĝis la karto de ĉiu estas plena, por ke neniu restu ekster la ludo. Parolu pri ĉiu bildo kiam ĝi aperas, kaj preterlasu premiojn por venkantoj aŭ donu al ĉiuj la saman malgrandan donaceton. La celo estas komuna atento kaj interparolo, ne kiu finas unue."
+  - q: "Ĉu mi povas uzi viajn ludojn sur granda ekrano en grupo?"
+    a: "Jes. Niaj ludoj funkcias en retumilo, do vi povas malfermi ilin en tekkomputilo aŭ tabulkomputilo konektita al televidilo aŭ projekciilo. Bilda Bingo inkluzivas preseblajn kartojn kaj surekranan vokanton. Fini la diron kaj Bildaj paroj ankaŭ bone funkcias sur granda ekrano, kiam unu persono frapetas por la grupo."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ĉi tiu gvidilo estas por aktivecaj gvidantoj, memorzorgaj teamoj kaj gvidantoj de tagaj programoj. Ĝi pritraktas grupajn formojn, kiuj funkcias, aranĝon de la ĉambro, adapton de unu aktiveco por malsamaj kapabloj, kaj uzon de niaj preseblaj bingo-kartoj kaj ludoj sur granda ekrano. Ĉio ĉi tie celas komforton, konekton kaj elekton. Nenio ĉi tie estas testo.
 
-## What makes a group activity work in memory care?
+## Kio faras grupan aktivecon sukcesa en memorzorgo?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Bona grupa aktiveco estas konata, mallonga, facile aliĝebla je ajna nivelo kaj sen premo. La [Rekomendoj pri demenca zorga praktiko](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) de la Alzheimer's Association priskribas signifan engaĝiĝon kiel ion, kio subtenas la interesojn kaj preferojn de persono kaj ebligas elekton kaj sukceson, eĉ kiam demenco estas plej severa. La sama dokumento rimarkas, ke tradiciaj programoj ofte dependas de unu aŭ du grandaj grupaj eventoj tage, en kiuj loĝantoj ofte estas nur pasive engaĝitaj.
 
-That points to a few practical rules:
+Tio montras kelkajn praktikajn regulojn:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Konata venkas novan.** Kantoj, diraĵoj, bildoj kaj objektoj el la pli junaj jaroj de loĝantoj estas pli facile alireblaj.
+- **Mallonga venkas longan.** Planu laŭ la daŭro de atento, kiun via grupo kutime havas, kun natura haltejo meze.
+- **Fari venkas spekti.** Donu al ĉiu persono ion por teni, frapeti, elekti aŭ diri.
+- **Multaj niveloj, unu aktiveco.** Enkonstruu pli facilajn kaj pli malfacilajn manierojn partopreni.
+- **Neniuj venkantoj, neniuj poentoj.** Konkurencaj formoj povas igi iujn homojn senti, ke ili malsukcesis.
 
-## How big should the group be?
+## Kiom granda devus esti la grupo?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Pli malgranda estas kutime pli facila. La Alzheimer's Association rimarkas, ke persono, kiu trovas grandan kunvenon troa, eble pli sukcese interagas en pli malgranda grupo. Ne ekzistas unu ĝusta nombro. Ĝi dependas de la loĝantoj, la ĉambro kaj kiom da teamanoj kaj volontuloj haveblas.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Utila provo: ĉu ĉiu persono povas vidi la vizaĝon de la gvidanto, klare aŭdi kaj esti atingita de helpanto ene de kelkaj sekundoj? Se ne, dividu la grupon, aldonu helpantojn aŭ iru al pli malgranda ĉambro.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Por granda evento, kiel feria koncerto, sidigu teamanojn kaj volontulojn inter la loĝantoj, ne laŭ la muroj.
 
-## How should I set up the room and seating?
+## Kiel mi aranĝu la ĉambron kaj la sidlokojn?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Cirklo aŭ hufofero.** La praktikaj rekomendoj priskribas kundividan cirklon kiel plej bonan en spaco sufiĉe granda, por ke ĉiuj povu sidi en cirklo, sen fona bruo.
+- **Gvidanto proksime kaj je okula nivelo.** Sidu anstataŭ stari, kiam vi povas.
+- **Aŭdado kaj vidado unue.** Sidigu homojn kun aŭdoperdo plej proksime al la gvidanto, je ilia pli bona flanko. Certigu, ke okulvitroj kaj aŭdhelpiloj estas surmetitaj. La Alzheimer's Association rimarkas, ke problemoj pri vidado kaj aŭdado povas malfaciligi komunikadon.
+- **Lumo malantaŭ la loĝantoj, ne malantaŭ vi.** Evitu sidigi iun fronte al hela fenestro.
+- **Malŝaltu la televidilon kaj radion.** La Alzheimer's Association konsilas forigi konkurencan bruon dum muzikaj aktivecoj.
+- **Unu interparolo samtempe.** Interparoloj estas malfacilaj por homoj vivantaj kun demenco kaj homoj kun aŭdoperdo, kiel la Alzheimer's Association montras en sia [gvidilo pri ferioj](https://www.alz.org/help-support/caregiving/holidays).
+- **Klaraj elirejoj kaj trankvila angulo.** Iu ajn, kiu volas foriri, devus povi fari tion facile, kun teamano por akompani lin aŭ ŝin.
 
-## Group activity ideas
+## Ideoj por grupaj aktivecoj
 
-### Picture bingo
+### Bilda bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bilda bingo anstataŭigas nombrojn per klaraj bildoj, kiel tekruĉo, hundo aŭ rozo, por ke neniu devu sekvi longan nombron aŭ legi malgrandan preson.
 
-**How to run it:**
+**Kiel gvidi ĝin:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Presu unu karton por ĉiu persono el nia paĝo [Bilda Bingo](/games/picture-bingo/) per la butono Presi. Dika papero estas pli facile manipulebla. Plastigu por reuzo.
+2. Donu grandajn, facile preneblajn markilojn, kiel pokerajn ĵetonojn, botelajn kronojn aŭ tranĉitajn kartonajn kvadratojn.
+3. Uzu la surekranan vokanton sur televidilo aŭ projekciilo, por ke ĉiuj vidu la bildon dum vi diras ĝian nomon.
+4. Paŭzu post ĉiu bildo kaj invitu mallongan komenton: „Ĉu iu volas rakonti al ni pri hundo, kiun vi konis?“ aŭ „Kion vi rimarkas pri ĉi tiu?“
+5. Daŭrigu voki ĝis ĉiu karto estas plena. Ĉiuj finas.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Adapto:** Uzu malpli da kvadratoj por homoj, kiuj trovas plenan karton tro plena. Helpanto povas montri la kongruan bildon al iu, kiu bezonas tion. Iuj homoj eble preferas teni la bildkarton de la vokanto kaj montri ĝin al la grupo.
 
-### Sing-alongs
+### Komunkantado
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Muziko estas unu el la plej vaste ĝuataj grupaj aktivecoj. La Alzheimer's Association rimarkas, ke eĉ en pli postaj stadioj, persono eble ankoraŭ povas [frapeti ritmon aŭ kanti kanton el la infanaĝo](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Kiel gvidi ĝin:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Elektu kantojn, kun kiuj la loĝantoj kreskis, ne la favoratojn de la gvidanto. Demandu familiojn, kion ĉiu persono amis.
+- Uzu muzikon sen reklamoj, kiujn la Asocio rimarkas povas esti konfuzaj.
+- Presu kantotekstojn per granda tiparo por tiuj, kiuj legas, sed ne postulu tion.
+- Proponu skuistojn, mantamburojn aŭ tukojn por svingi.
+- Kuraĝigu aplaŭdon kaj movadon, kaj tenu la laŭtecon komforta.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Adapto:** Iuj homoj kantos ĉiun vorton, iuj zumos, iuj frapetos per la piedo, kaj iuj simple aŭskultos. Ĉiuj ĉi tiuj manieroj estas bonaj. Vidu nian [gvidilon pri muzikaj aktivecoj](/activities/music/) por pli da informoj.
 
-### Reminiscence groups
+### Rememoraj grupoj
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Rememora grupo kolektiĝas ĉirkaŭ temo, kiel lernejaj tagoj, unuaj aŭtoj, kuirejoj aŭ somero, uzante fotojn, objektojn kaj muzikon. La celo estas agrabla interparolo, ne preciza rememoro.
 
-**How to run it:**
+**Kiel gvidi ĝin:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Elektu unu temon kaj alportu kelkajn objektojn, kiujn homoj povas teni: manmiksilon, basbalan ganton, ĉapelon, semkatalogon.
+2. Pasigu unu objekton samtempe. Faru malfermitajn demandojn: „Rakontu al mi pri ĉi tio“, „Kion vi rimarkas?“, „Kiu uzis ion tian?“
+3. Bonvenu ĉiun respondon. Neniam korektu daton aŭ fakton.
+4. Gvidu la parolon al varmaj memoroj. La praktikaj rekomendoj rimarkas, ke zorgantoj devus direkti rememoradon al pozitivaj memoroj anstataŭ al tiuj, kiuj povas kaŭzi maltrankvilon.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Konversaciaj kartoj](/games/conversation-cards/) ofertas preseblajn bildkartojn kun malfermitaj demandoj laŭ temo, kiuj bone funkcias kiel komencoj por interparolo. Pli da ideoj estas en nia [gvidilo pri rememorado](/activities/reminiscence/).
 
-### Finish the saying
+### Fini la diron
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Konataj diraĵoj („Kiu frue leviĝas, tiu...“) invitas ĉiujn kune eldirii la finon. Montru [Fini la diron](/games/finish-the-saying/) sur granda ekrano kaj lasu la grupon respondi per unu voĉo. Post ĉiu diraĵo estas paroliga demando. Se neniu diras la finon, montru ĝin kaj daŭrigu. Ne estas ĝusta aŭ malĝusta respondo.
 
-### Large-print word search, together
+### Grandlitera vortserĉo, kune
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Projekciu la grandliteran [Vortserĉon](/games/word-search/) sur ekranon kaj serĉu vortojn kiel grupo, aŭ presu kopiojn por tiuj, kiuj ĝuas labori mem ĉe la tablo. Vortoj iras nur horizontale kaj malsupren.
 
-### Gentle movement
+### Milda movado
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sidaj streĉoj, pasigo de mola pilko aŭ balono, aŭ seĝa dancado kun konata muziko. Montru ĉiun movon anstataŭ priskribi ĝin.
 
-### Sorting and matching at the table
+### Ordigo kaj kongruigo ĉe la tablo
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Malgrandaj tabloj de tri ĝis kvar homoj povas kune ordigi bildojn, ŝtofpecojn aŭ manĝilaron. Surekrane, [Bildaj paroj](/games/picture-pairs/) povas esti ludataj kun bildoj lasitaj videblaj, kiam unu persono frapetas dum la tablo parolas pri ĉiu bildo.
 
-## How do I use your games on a big screen?
+## Kiel mi uzu viajn ludojn sur granda ekrano?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Niaj ludoj funkcias en retumilo, do vi povas uzi ilin sur televidilo aŭ projekciilo sen instali ion ajn.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Malfermu la ludon en tekkomputilo aŭ tabulkomputilo konektita al la ekrano per kablo aŭ spegulado.
+2. Faru la retumilon plenekrana kaj agordu la sonon al komforta nivelo.
+3. Havu unu gvidanton, kiu faras la frapetojn, dum la grupo laŭtvoĉe diras elektojn. Aŭ pasigu tabulkomputilon al loĝanto, kiu volas provi.
+4. Haltu kiam ajn la grupo estas preta. La ludoj ne havas tempomezurilon, poentojn aŭ devigan finon.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Bilda Bingo](/games/picture-bingo/), [Fini la diron](/games/finish-the-saying/), [Bildaj paroj](/games/picture-pairs/) kaj [Konversaciaj kartoj](/games/conversation-cards/) kutime plej bone taŭgas por grupoj. Vidu ĉiujn eblojn sur nia [paĝo pri ludoj](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Kiel mi adaptu unu aktivecon por malsamaj kapabloj?
 
-Plan at least three ways to join every activity.
+Planu almenaŭ tri manierojn aliĝi al ĉiu aktiveco.
 
-| Activity | More independent | Some support | Most support |
+| Aktiveco | Pli sendependa | Kun iom da subteno | Kun pli da subteno |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bilda bingo | Trovas kaj kovras proprajn bildojn | Helpanto montras; la persono kovras | Tenas bildkarton; aŭskultas kaj spektas |
+| Komunkantado | Kantas, elektas la sekvan kanton | Zumas, aplaŭdas, uzas skuiston | Aŭskultas, tenas tukon, frapetas manon |
+| Rememorado | Rakontas historiojn | Respondas per jes aŭ ne aŭ montras | Tenas kaj sentas la objekton |
+| Vortserĉo | Laboras per propra presaĵo | Trovas vortojn sur la granda ekrano kun helpanto | Aŭskultas dum vortoj estas laŭtlegataj |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Por loĝantoj en pli postaj stadioj, la NHS rimarkas, ke aktivecoj kutime devas esti pli simplaj kaj pli fokusitaj al la sentoj, kiel muziko, objektoj por tuŝi kaj manmasaĝo. Unuopa momento dum aŭ post la grupo eble pli bone taŭgas por ili ol la grupo mem. Vidu [aktivecojn por pli postaj stadioj](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Kiel gvidantoj parolu dum grupo?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Prezentu vin ĉiufoje, kaj uzu la preferatan nomon de ĉiu persono.
+- Parolu malrapide, donu unu paŝon samtempe, kaj montru antaŭ ol diri.
+- Faru malfermitajn invitojn („Rakontu al mi pri...“) aŭ simplajn elektojn, neniam kvizajn demandojn („Ĉu vi memoras...?“).
+- Ne korektu. Danku homojn pro ĉiu kontribuo.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Pli pri tio estas en niaj [konsiloj pri komunikado](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Bona fino, kaj lasi homojn foriri
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Halti estas bona rezulto. Atentu signojn, ke iu estas laca, maltrankvila aŭ ĉagrenita, kaj havu helpanton, kiu proponas promenon aŭ trankvilan sidlokon aliloke. Iu, kiu ekdormas dum komunkantado, eble simple sentas sin komforta.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Fermu ĉiun grupon sammaniere, per konata kanto aŭ simpla danko, por ke la fino sentiĝu trankvila kaj atendata. Poste notu, kio funkciis kaj kion kiu ĝuis. Tiuj notoj helpas plibonigi la sekvan kunsidon.

@@ -1,33 +1,36 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Nuɖuɖu le ɣeyiɣi aɖewo ko me kple ŋkuɖodzinuɖeɖe ƒe kuxi"
+seoTitle: "Nuɖuɖu le ɣeyiɣi aɖewo ko me kple ŋkuɖodzinuɖeɖe"
+description: "Kpeɖodzi siwo le amegbetɔwo ŋu tso nuɖuɖu le ɣeyiɣi aɖewo ko me kple ŋkuɖodzinuɖeɖe ŋu mele geɖe o, eye wole gɔmedzedze. Srɔ̃ afɔkuwo na ame tsitsiwo."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Kpeɖodzi nyui aɖeke meli be nuɖuɖu le ɣeyiɣi aɖewo ko me axe mɔ na alo
+  aɖe ŋkuɖodzinuɖeɖe ƒe kuxi ƒe zɔzɔ ɖe megbe o. Numekukuawo dometɔ geɖe
+  ku ɖe lãwo ŋu, eye numekuku siwo wowɔ le ame tsitsiwo ŋu la le sue eye
+  womexɔ ɣeyiɣi didi o. Nuɖuɖu ƒe ɖoɖo sia ate ŋu anye afɔku na ame
+  tsitsiwo: lãme ƒe kpekpeme kple lãmeka ƒe bubu, ʋu me sukli ƒe ɖiɖi ne
+  wole atike aɖewo zãm na sukli dɔ, tsi ƒe vɔvɔ le lãme, kple anyidzedze.
+  Na ame siwo le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi la, nuɖuɖu kple nunono
+  nyuie zi geɖe nye nusi ŋu wòle be míalé ŋku ɖo wu. Ƒo nu kple atikewɔla
+  do ŋgɔ.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging gblɔ be kpeɖodzi mede ame si ta woaɖo aɖaŋu tso nuɖuɖu ƒe ɖoɖo si me woɖea nuɖuɖu dzi kpɔtɔna alo woɖua nu le ɣeyiɣi aɖewo ko me ŋu o, vevietɔ na ame tsitsiwo."
+  - "Numekuku siwo ku ɖe nuɖuɖu ƒe ɖoɖo sia kple tsitsi ŋu la dometɔ geɖe ku ɖe lãwo ŋu, eye emetsonuawo menye be woasɔ na amegbetɔwo kokoko o."
+  - "Afɔku siwo ate ŋu ado mo ɖa na ame tsitsiwo dometɔ aɖewoe nye lãme ƒe kpekpeme kple lãmeka ƒe bubu si womeɖoe da ɖi o, ʋu me sukli ƒe ɖiɖi ne wole atike aɖewo zãm na sukli dɔ, tsi ƒe vɔvɔ le lãme, ta ƒe tɔtɔ kple anyidzedze."
+  - "Ame siwo le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi la ŋlɔa nuɖuɖu alo nunono be zi geɖe, alo wobuna be yewoeɖu nu alo no nu xoxo. Kpekpe ɖe wo ŋu be woaɖu nu ahano nu nyuie zi geɖe le vevie wu ɣeyiɣi si me woaɖu nu."
+  - "Mègazã nuɖuɖu ƒe ɖoɖo sia na ame si le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi o. Ƒo nu kple atikewɔla alo nuɖuɖu ŋuti nunyala si ŋu woɖo kpee hafi nàtrɔ nuɖuɖu ƒe ɖoɖo aɖe."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Ðe nuɖuɖu le ɣeyiɣi aɖewo ko me xea mɔ na Alzheimer ƒe dɔa?"
+    a: "Kpeɖodzi nyui aɖeke meli be ewɔa nenema o. Numekukuawo dometɔ geɖe wowɔ le lãwo ŋu, eye numekuku siwo wowɔ le amegbetɔwo ŋu la zi geɖe mexɔ ɣeyiɣi didi o, wowɔ wo le ame siwo metsi o alo ame siwo ƒe kpekpeme sɔ gbɔ ŋu, eye wolé ŋku ɖe kpekpeme dzi ɖeɖe kpɔtɔ ŋu. National Institute on Aging gblɔ be kpeɖodzi mede ame si ta woaɖo aɖaŋu tso nuɖuɖu ƒe ɖoɖo siawo ŋu na amewo o."
+  - q: "Ðe nuɖuɖu le ɣeyiɣi aɖewo ko me le dedie na ame tsitsiwoa?"
+    a: "Ate ŋu anye be menye nenema o. Nuɖuɖu ƒe ɖoɖo sia ate ŋu ana lãme ƒe kpekpeme kple lãmeka nabu si womeɖoe da ɖi o, tsi nabu le lãme, ta natɔ eye ame nadze anyi, eye wòate ŋu ana ʋu me sukli naɖi ŋutɔ le ame siwo zãa insulin alo sukli dɔ ƒe atike bubu aɖewo gome. Mayo Clinic gblɔ be ate ŋu manye ɖoɖo nyui na ame siwo ŋu afɔku le be woƒe ƒuwo nagbɔdzɔ alo woanyidzedze o. Ƒo nu kple atikewɔla hafi nàtee kpɔ."
+  - q: "Ðe wòle be ame si le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi natee kpɔa?"
+    a: "Ao. Ame siwo le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi la zi geɖe sea kuxi le nuɖuɖu kple nunono nyuie me, eye nuɖuɖu si mesɔ gbɔ o ate ŋu ana nuwɔnawo ƒe dzesiwo nadzi ɖe edzi alo ana kpekpeme nabu. Nuɖuɖu ƒe ɖoɖo sia tsɔa afɔku vɛ evɔ viɖe aɖeke si woɖo kpee mele eŋu o. Lé ŋku ɖe nuɖuɖu edziedzi, numeɖenu siwo vivia wo nu, kple tsi nunono nyuie ŋu boŋ."
+  - q: "Nu kawoe fia be ame si le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi mele nu ɖum alo mele tsi nom nyuie o?"
+    a: "Lé ŋku ɖe kpekpeme ƒe bubu, awuwo ƒe lɔlɔlɔ wu tsã, ɖeɖiteameŋu, gbɔdzɔgbɔdzɔ, miame ƒe tete, alo nuɖuɖu gbegbe ŋu. Tsi ƒe vɔvɔ le lãme ƒe dzesi siwo National Institute on Aging yɔ dometɔ aɖewoe nye nu ƒuƒu, ta ƒe tɔtɔ, dzi ƒe ƒoƒo kabakaba kple nu siwo womekpɔna o ƒe kpɔkpɔ. Gblɔe na woƒe atikewɔla ne èkpɔ esiawo."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +58,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Nuɖuɖu le ɣeyiɣi aɖewo ko me, abe nuɖuɖu le gaƒoƒo enyi me ko alo nuɖuɖu dzi ɖeɖe kpɔtɔ ŋutɔ le ŋkeke eve aɖewo ko me le kwasiɖa me ene, xɔ ŋkɔ ŋutɔ, eye nyati aɖewo gblɔna be ate ŋu akpɔ ahɔhɔ̃a ta. Ne ènye ame tsitsi, alo ne èle be dzem le ame si le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi ŋu la, nya siwo gbɔna fia nusi numekukuawo ɖe fia ŋutɔŋutɔ kple susu si ta wòle be míakpɔ nyuie.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Esia nye nyatakaka gbadza ko, menye atikewɔwɔ ƒe aɖaŋuɖoɖo o. Mègadze nuɖuɖu ƒe ɖoɖo sia gɔme o, alo nàtrɔ ale si ame si ŋu nèle be dzem le ɖua nu o, ne mèƒo nu kple atikewɔla alo nuɖuɖu ŋuti nunyala si ŋu woɖo kpee o. Kpɔ míaƒe [atikewɔwɔ ŋuti nyatakaka](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Ðe nuɖuɖu le ɣeyiɣi aɖewo ko me xea mɔ na ŋkuɖodzinuɖeɖe ƒe kuxia?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Kpeɖodzi nyui aɖeke meli be nuɖuɖu le ɣeyiɣi aɖewo ko me axe mɔ na alo aɖe ŋkuɖodzinuɖeɖe ƒe kuxi ƒe zɔzɔ ɖe megbe o. National Institute on Aging (NIA) gblɔ be kpeɖodzi mede ame si ta woaɖo aɖaŋu tso nuɖuɖu ƒe ɖoɖo si me woɖea nuɖuɖu dzi kpɔtɔna alo woɖua nu le ɣeyiɣi aɖewo ko me ŋu o, eye be ele be woasrɔ̃ nu geɖe wu tso woƒe dɔwɔwɔ kple dedienɔnɔ ŋu, vevietɔ le ame tsitsiwo gome ([NIA tso nuɖuɖu dzi ɖeɖe kpɔtɔ kple nuɖuɖu ƒe ɖoɖowo ŋu](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Nusita kpeɖodziwo mede o
 
-The NIA gives several reasons:
+NIA na susu geɖe:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Numekukuawo dometɔ geɖe ku ɖe lãwo ŋu.** Numekuku siwo wowɔ le anyigbadzidɔwo, tagbatsuwo, afiwo kple keseƒomeviwo ŋu na emetsonu siwo doa dzidzɔ na ame, gake emetsonu siawo menye be woasɔ na amegbetɔwo kokoko o. Le lãwo gome gɔ̃ hã la, emetsonuawo to vovo; le afi ƒomevi aɖewo gome la, nuɖuɖu dzi ɖeɖe kpɔtɔ ɖe woƒe agbenɔɣi dzi kpɔtɔ.
+- **Numekuku siwo wowɔ le amegbetɔwo ŋu mexɔ ɣeyiɣi didi o.** Wo dometɔ geɖe xɔ kwasiɖa alo ɣleti ʋɛ aɖewo ko.
+- **Numekuku siwo wowɔ le amegbetɔwo ŋu la lé ŋku ɖe kpekpeme dzi ɖeɖe kpɔtɔ ŋu** zi geɖe le ame siwo ƒe kpekpeme sɔ gbɔ ŋu, menye ŋkuɖoɖo alo ŋkuɖodzinuɖeɖe ƒe kuxi ŋu o.
+- **Womekpea ame tsitsiwo ɖe eme zi geɖe o.** Numekuku geɖewo tia ame siwo xɔ ƒe 60 alo esiwo metsi nenema o.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Numekuku aɖe si wowɔ le ƒe 2026 me lé ŋku ɖe nuɖuɖu le ɣeyiɣi aɖewo ko me ŋu tẽ le ame siwo xɔ ƒe 60 kple edzivɔwo gome. Ekpɔe be kpeɖodzi siwo le ƒuƒoƒo sia ŋu gale sue, numekukuawo le sue, wodze wo yome ɣeyiɣi kpui aɖe ko, eye woƒe ɖoɖowo to vovo. Nya siwo ku ɖe susu ƒe dɔwɔwɔ kple ŋkuɖoɖo ŋu tso numekuku ɖekaɖeka me, menye tso numekuku geɖe ƒe emetsonu siwo woƒo ƒu me o. Numekukua gblɔ hã be numekuku aɖewo do nuɖuɖu ƒe ɣeyiɣi kpuiwo ŋutɔ alo nuɖuɖu manɔmanɔ didiwo ɖe emetsonu gbegblẽwo ŋu, eye agbalẽŋlɔlawo xlɔ̃ nu ame tsitsiwo be woakpɔ nyuie ([numekuku si wowɔ le ƒe 2026 me le Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Numekula aɖewo susuna be ale si lãme trɔna zãa ami ne womele nu ɖum o ate ŋu akpɔ ŋusẽ ɖe ahɔhɔ̃a dzi, gake esia nye susu si ŋu wogale numekuku wɔm ko. NIA gblɔ be dzɔdzɔmeŋutinunya ƒe nya sia mekɔ tututu o.
 
-## What are the risks of fasting for older adults?
+## Afɔku kawoe le nuɖuɖu ƒe ɖoɖo sia ŋu na ame tsitsiwo?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Nuɖuɖu ƒe ɖoɖo sia menye nane si afɔku mele ŋu na ame tsitsi geɖe o. Afɔku siwo ate ŋu ado mo ɖa dometɔ aɖewoe nye:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Lãme ƒe kpekpeme ƒe bubu si womeɖoe da ɖi o.** Ne ame meɖua nu si sɔ gbɔ na lãme o la, kpekpeme kple lãmeka ƒe ŋusẽ ate ŋu abu, si ate ŋu ana ame nagbɔdzɔ wu.
+- **Lãmeka kple ƒu ƒe gbɔdzɔgbɔdzɔ.** Le NIA ƒe kpekpeɖeŋu te numekuku aɖe si xɔ ƒe eve ku ɖe nuɖuɖu dzi ɖeɖe kpɔtɔ ŋu le ame siwo nye sɔhɛwo kple ame siwo le woƒe ƒe titina me gome, ame siwo kpɔ gome le eme ƒe ƒuwo kple lãmekawo ƒe ŋusẽ ɖiɖi vie.
+- **Ʋu me sukli ƒe ɖiɖi ne wole sukli dɔ ƒe atike zãm.** Ame siwo zãa insulin alo sukli dɔ ƒe atike bubu aɖewo ate ŋu akpɔ ʋu me sukli ƒe ɖiɖi akpa ne woɖe nuɖuɖu ɖa alo wotsi megbe, abe ale si [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) gblɔe ene. Ʋu me sukli ƒe ɖiɖi ate ŋu ana ta ƒe tɔtɔ, susu ƒe totro kple dɔmedzoe.
+- **Tsi ƒe vɔvɔ le lãme.** Ne womele tsi nom o kpe ɖe nuɖuɖu ŋu o la, tsi ate ŋu avɔ le lãme.
+- **Ta ƒe tɔtɔ kple anyidzedze.** Mayo Clinic gblɔ be nuɖuɖu le ɣeyiɣi aɖewo ko me ate ŋu ana ame nase ɖeɖiteameŋu ŋutɔ eye ta natɔe, eye be ate ŋu manye ɖoɖo nyui na ame siwo ŋu afɔku le be woƒe ƒuwo nagbɔdzɔ alo woanyidzedze o ([Mayo Clinic tso nuɖuɖu le ɣeyiɣi aɖewo ko me ŋu](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Ŋusẽkpɔɖeamedzi bubuwo.** Mayo Clinic yɔ taɖuame, seselelãme ƒe tɔtrɔ kple miame ƒe tete hã, eye wògblɔ be kpeɖodzi aɖewo li si fia be gaƒoƒo 16 ƒe nuɖuɖu manɔmanɔ kple gaƒoƒo 8 ƒe nuɖuɖu ate ŋu adzi dzi dɔ ƒe afɔku ɖe edzi ne wotsɔe sɔ kple nuɖuɖu ƒe ɣeyiɣi bubuwo. Kpeɖodzi ma mekɔ keŋkeŋ o.
 
-## Why is eating enough the bigger concern with dementia?
+## Nusita nuɖuɖu kple nunono nyuie nye nusi ŋu wòle be míalé ŋku ɖo wu le ŋkuɖodzinuɖeɖe ƒe kuxi me
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Na ame siwo le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi la, kuxia zi geɖe nye be woakpɔ nuɖuɖu kple tsi **si sɔ gbɔ**, menye be woɖua nu fũu akpa o. Alzheimer's Association ɖe eme be ame siwo le titina kple emegbe ƒe akpa dzi la ate ŋu ase le wo ɖokui me be nuɖuɖu ƒe tiatiawo sɔ gbɔ akpa, woaŋlɔ nuɖuɖu be, alo woabui be yewoeɖu nu xoxo. Egblɔ hã be nuɖuɖu si mesɔ gbɔ o ate ŋu ana nuwɔnawo ƒe dzesiwo nadzi ɖe edzi alo ana kpekpeme nabu ([Alzheimer's Association tso nuɖuɖu kple nuɖuɖu ŋu](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society gblɔ be nuɖuɖu si mesɔ gbɔ o ate ŋu ana kpekpeme nabu, lãmeka ƒe ŋusẽ naɖiɖi, ɖeɖiteameŋu kple gbɔdzɔgbɔdzɔ, si ate ŋu ana ame nagbɔdzɔ wu eye mate ŋu ahaya kabakaba tso dɔlélewo me o ([Alzheimer's Society tso nuɖuɖu ƒe didi ŋu](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Le susu siawo ta la, nuɖuɖu ƒe ɖoɖo sia menye nyametsotso nyui na ame si le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi o.** Nuɖuɖu si woɖe ɖa ate ŋu atrɔ zu nuɖuɖu si womeɖu kura o bɔbɔe. Tɔtrɔ ɖesiaɖe le ale si ame si le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi ɖua nu ŋu ele be woƒe atikewɔla alo nuɖuɖu ŋuti nunyala si ŋu woɖo kpee nakplɔe.
 
-## What are the warning signs of poor eating or drinking?
+## Dzesi kawo fia be ame mele nu ɖum alo mele tsi nom nyuie o?
 
-Watch for:
+Lé ŋku ɖe:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Kpekpeme ƒe bubu** ŋu, alo awuwo ƒe lɔlɔlɔ wu tsã.
+- **Nuɖuɖu gbagbe alo nuɖuɖu gbegbe**, alo nuɖuɖu léle ɖe nu me.
+- **Ɖeɖiteameŋu alo gbɔdzɔgbɔdzɔ.**
+- **Miame ƒe tete**, si ate ŋu ado ƒome kple nuɖuɖu kple tsi ƒe vɔvɔ le lãme.
+- **Tsi ƒe vɔvɔ le lãme ƒe dzesiwo.** NIA yɔ nu ƒuƒu, ta ƒe tɔtɔ, dzi ƒe ƒoƒo kabakaba kple nu siwo womekpɔna o ƒe kpɔkpɔ, siwo ate ŋu atso ŋkuɖodzinuɖeɖe ƒe kuxi ŋutɔ hã gbɔ ([NIA tso atikewɔwɔ ƒe kuxi siwo bɔ ŋu](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Nuɖuɖu ƒe didi ƒe anyimanɔmanɔ ate ŋu atso susu geɖe gbɔ: aɖu ƒe vevesese alo aɖu siwo megbɔ ɖe te o, atike yeyewo, dzigbɔɖi, miame ƒe tete, nuwɔnawo ƒe ɖiɖi, alo nuɖuɖu ƒe vivi kple ʋeʋẽ ƒe sese ƒe tɔtrɔ. Gblɔ dzesi siawo ŋu nya na amea ƒe atikewɔla. Woate ŋu adi nusi gbɔ wòtso eye woaɖo aɖaŋu tso nuɖuɖu ŋuti nunyala alo nuɖanu bubuwo ŋu.
 
-## How can you help someone eat and drink enough?
+## Aleke nàte ŋu akpe ɖe ame ŋu wòaɖu nu ahano nu nyuie?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Tsɔ nuɖuɖu suewo kple numeɖenuwo vɛ enuenu**, ɖe nuɖuɖu gã etɔ̃ teƒe.
+- **Tsɔ nuɖuɖu siwo vivia wo nu vɛ**, eye nàtrɔ ɖe nɔnɔmea ŋu ne woƒe didiwo trɔ. Nuɖuɖu viviwo ate ŋu adze wo ŋu ne nuɖuɖu ƒe didi mebɔ o; bia atikewɔla ne lãmesẽ ŋuti susu aɖewo li si ta wòle be woaɖe sukli dzi akpɔtɔ.
+- **Tsɔ nunono da ɖe wo gbɔ** eye nàtsɔ kplu suewo ana wo le ŋkeke bliboa me. Detsi, kutsetsewo, nuƒometsiwo kple nyinotsimetsiwo hã le eme.
+- **Miɖu nu ɖekae** ne anya wɔ. Nuɖuɖu ɣeyiɣi nye mɔ si dzi míato anɔ anyi ɖekae, menye dɔ si wòle be woawɔ kaba o.
+- **Tee nuɖuɖu siwo woate ŋu alé kple asi kpɔ**, abe abolo siwo wotsɔ nu de eme, kutsetse kakɛwo alo koklo kakɛwo ene, ne gatsi kple fɔkpa zazã va sesẽ.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Míaƒe [nuɖuɖu ƒe mɔfiame](/brain-health/diet/) ɖe nuɖuɖu ɣeyiɣi ŋuti aɖaŋu bubuwo me. Kpekpe ɖe nuɖuɖu dzadzraɖo ŋu hã ate ŋu anye nuwɔna vivi si miawɔ ɖekae; kpɔ [aƒeme dɔwo](/activities/household-tasks/).
 
-## Talk with a doctor
+## Ƒo nu kple atikewɔla
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Hafi nàdze nuɖuɖu ƒe ɖoɖo sia ɖesiaɖe gɔme la, ƒo nu kple wò atikewɔla alo nuɖuɖu ŋuti nunyala si ŋu woɖo kpee, vevietɔ ne èle sukli dɔ alo ʋukaka ƒe atike zãm, ne wò kpekpeme bu nyitsɔ laa, alo ne èdze anyi kpɔ. Na ame si le agbe kple ŋkuɖodzinuɖeɖe ƒe kuxi la, bia woƒe atikewɔla agbɔsɔsɔ si wòle be woaɖu ahano gbe sia gbe ŋu, ke menye tso nuɖuɖu ƒe ɖoɖo sia ŋu o.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Di kpekpeɖeŋu kpata tso atikewɔla gbɔ ne susu ƒe totro va kpata, ame dze anyi dzro, alo ʋu me sukli ƒe ɖiɖi ŋutɔ ƒe dzesiwo meɖɔ ɖo kabakaba o.

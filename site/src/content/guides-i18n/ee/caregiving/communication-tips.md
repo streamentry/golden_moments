@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Aɖaŋuɖoɖowo le Nuƒoƒo kple Ame si Ŋkuɖoɖo ƒe Kuxi le Fu Ðem Na Ŋu"
+seoTitle: "Aɖaŋuɖoɖo le Nuƒoƒo kple Ame si Ŋkuɖoɖo ƒe Kuxi Le Esi Ŋu"
+description: "Mɔ bɔbɔewo siwo dzi nàto aƒo nu kple ame si ŋkuɖoɖo ƒe kuxi le fu ɖem na: alesi nàdzra dzeɖoɖo ɖo, nu si nàgblɔ, kple alesi nàɖo to."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Ƒo nu le teƒe si ɖoɖoe le, trɔ mo ɖe amea ŋu, zã eƒe ŋkɔ, eye nàƒo nu blewu le
+  nyagbe kpui bɔbɔewo me. Bia nya ɖeka ɣesiaɣi, na tiatia eve tsɔ wu be nàbia
+  nya siwo keke ta, eye nàlala wòadidi wu alesi nèkpɔe be ele be wòanɔ. Mègawɔ
+  dzre alo aɖɔ nya ɖo o, eye mègadoe kpɔ o. Ðo nya ŋu ɖe seselelãme si le nyaawo
+  megbe ŋu, eye nàzã asiléle, nɔnɔmetatawo kple asidede esi nyawo va le sesẽm.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Ðe toɣliɖiɖi ɖa eye nàkpɔ ŋku me kple amea hafi dze nuƒoƒo gɔme."
+  - "Zã nyagbe kpuiwo, susu ɖeka ɣesiaɣi, eye nàzã ŋkɔwo tsɔ wu be nàgblɔ be eya alo wo."
+  - "Na tiatia eve alo nya si ŋu woate ŋu aɖo eŋu be ɛ̃ alo ao, tsɔ wu nya siwo keke ta."
+  - "Lala ŋuɖoɖo. Ne womese egɔme o la, gbugbɔ nya mawo ke gblɔ, emegbe nàte nya bubuwo kpɔ."
+  - "Mègawɔ dzre alo aɖɔ nya ɖo o. Ðo nya ŋu ɖe seselelãme si le nu si wògblɔ megbe ŋu."
+  - "Esi nyawo va le bubu la, ƒo nu to asiléle, gbeɖiɖi, ŋkume ƒe dzedzeme kple nɔnɔmetata siwo miekpɔna ɖekae dzi."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Nu kae mele be magblɔ na ame si ŋkuɖoɖo ƒe kuxi le fu ɖem na o?"
+    a: "Ƒo asa na dodokpɔ (\"Èɖo ŋku...?\"), ɖɔɖɔɖo (\"Mesɔ o\"), ŋkuɖoɖo nu siwo bu dzi nɛ (\"Megblɔe na wò xoxo\") kple nuƒoƒo tso eŋu abe ɖe mele afima o ene. Ƒo asa na nuƒoƒo abe ɖevi ene. Esiawo naa ŋukpe alo nuxaxa amea evɔ womekpena ɖe eŋu o."
+  - q: "Ɖe wòle be maɖɔ nya ɖo ne nyateƒenya aɖewo mesɔ o?"
+    a: "Zi geɖe la, ao. Ne vodada si le nyateƒenya aɖe me megblẽa naneke o la, ɖe asi le eŋu. Dzrewɔwɔ meɖɔa amea ƒe susu ɖo zi geɖe o, eye zi geɖe la, enaa wòsea veve. Tsɔ susu ɖo alesi wòle seselelãme me kple nu si hiãe fifia ŋu."
+  - q: "Nu kae mawɔ ne mate ŋu akpɔ nya aɖe o?"
+    a: "Na ɣeyiɣi wò gbã. Ne èkpɔe kɔte be ele sesẽm nɛ la, enyo be nàkpe ɖe eŋu blewuu atsɔ nya aɖe ana alo agblɔ nu si nèsusu be egblɔm le eye nàbiae. Asidede, dzesiwo kple nɔnɔmetatawo hã ate ŋu akpe ɖe eŋu."
+  - q: "Alesi mawɔ aƒo nu kple ame si ŋkuɖoɖo ƒe kuxi va sesẽ ŋutɔ eye meƒoa nu boo o?"
+    a: "Te ɖe eŋu tso ŋgɔgbe, gblɔ ame si nènye, eye nàzã gbe bɔbɔe kple asiléle fafɛ. Kpɔ ŋkume kple ŋutilã ƒe dzesiwo ɖa be nànya alesi wòle seselelãme me. Wò anyinɔnɔ kplii, ha si wònya alo asiléle ate ŋu agblɔ nu geɖe evɔ nyawo mele eme o."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +43,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Ŋkuɖoɖo ƒe kuxi ate ŋu ana wòasesẽ na ame be wòakpɔ nyawo, ase nyagbe didi aɖe gɔme, alo aɖe toɣliɖiɖi ɖa. Esia menye be amea megadi be yeawɔ kadodo kple ame bubuwo o. Tɔtrɔ sue aɖewo le alesi nèdzraa dzeɖoɖo ɖo, alesi nèƒoa nu kple alesi nèɖoa to ŋu ate ŋu ana nuƒoƒo nanɔ bɔbɔe wu eye wòafa akɔ na mi ame evea.
 
-## What are the most important tips for talking with someone who has dementia?
+## Nu vevitɔ kawoe le be manya ne mele nu ƒom kple ame si ŋkuɖoɖo ƒe kuxi le fu ɖem na?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Na wòanya be yele nu ƒom nɛ, wɔe bɔbɔe, eye nàgbɔ dzi ɖi. Ne nu atɔ̃ koe nàte ŋu aɖo ŋku la:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Na teƒea nafa eye nàtrɔ mo ɖe eŋu.** Tsi television la, nɔ anyi ɖe ŋku me kplii, eye nàzã eƒe ŋkɔ.
+2. **Gblɔ nu ɖeka ɣesiaɣi.** Nyagbe kpuiwo, susu ɖeka, nya ɖeka.
+3. **Na tiatia eve.** "Tii alo coffee?" le bɔbɔe wu "Nu kae nèdi?"
+4. **Lala.** Na ɣeyiɣi geɖe wu be wòaɖo eŋu, eye dze agbagba be màtso eƒe nya o.
+5. **Mègawɔ dzre alo ado eƒe nya kpɔ gbeɖe o.** Ðo nya ŋu ɖe alesi wòle seselelãme me ŋu, ke menye ɖe nyateƒenyaawo sɔ hã o.
 
-## How should I start a conversation?
+## Alesi madze dzeɖoɖo gɔme?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Dzra nuawo ɖo ale be amea nate ŋu atsɔ susu ɖo ŋuwò. [Family Caregiver Alliance ƒe mɔfiame](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ɖoa aɖaŋu be nàɖe toɣliɖiɖi dzi gbã: tsi radio alo television la, tu xɔmetsovo alo ʋɔtru la, alo nàyi teƒe si ɖoɖoe wu.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Te ɖe eŋu tso ŋgɔgbe.** Ne èva tso megbe alo axadzi la, ate ŋu ado ŋɔdzi nɛ.
+- **Gblɔ ame si nènye.** "Ŋdi Papa, nyee nye Sarah, viwò nyɔnu." Esia kpena ɖe eŋu be magadi wò ŋkɔ o.
+- **Bɔbɔ ɖe eƒe ɖoƒe.** Ne enɔ anyi la, nɔ anyi alo dze klo ale be miaƒe ŋkuwo nanɔ ɖoɖo ɖeka.
+- **Lé ŋku ɖe wò ŋkume kple gbeɖiɖi ŋu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ɖoa aɖaŋu be nànya wò gbeɖiɖi, eƒe sesẽme, wò ŋkume ƒe dzedzeme kple wò ŋutilã ƒe dzesiwo, eye nàƒo nu kple dɔmefafa kple ameŋububu.
+- **Kpɔe ɖa be ŋkuɖodzinuwo kple toɖonuwo le enu.** Esesẽna be woase dzeɖoɖo si womate ŋu akpɔ alo ase nyuie o gɔme.
 
-## How should I phrase what I say?
+## Alesi maɖo nye nyawo?
 
-Use simple words, short sentences and a calm, low voice.
+Zã nya bɔbɔewo, nyagbe kpuiwo kple gbe bɔbɔe si ɖiɖi.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Susu ɖeka le nyagbe ɖesiaɖe me.** "Mina míado wò awu dzodzoe. Emegbe míayi gota." Menye wo ame evea le ɣeyiɣi ɖeka me o.
+- **Zã ŋkɔwo, menye nya siwo xɔa ɖe ŋkɔ teƒe o.** "Aunt Jean yɔ" me kɔ wu "Eya yɔ."
+- **Bɔbɔ gbeɖiɖi la ɖe anyi, menye nàkɔe ɖe dzi o.** Family Caregiver Alliance ɖoa aɖaŋu be nàzã gbe si bɔbɔ ɖe anyi wu be nàdo gbe ɖe dzi.
+- **Gbugbɔe gblɔ, emegbe nàtrɔ nyawo.** Ne mese egɔme o la, gbugbɔ nya mawo ke gblɔ zi ɖeka. Ne mewɔ dɔ o la, lala vie eye nàte nya bubuwo kpɔ.
+- **Fiae eye nàgblɔe hã.** Fia asi kplu la, tsɔ awu dzodzoe eveawo fia, alo nàfia afɔɖeɖe gbãtɔ.
+- **Ƒo nu kplii, menye tso eŋu o.** NIA xlɔ̃ nu be woagaƒo nu tso amea ŋu abe ɖe mele afima o ene, eye woagaƒo nu abe ɖevi ene o.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ɖoa aɖaŋu be woazã nya bɔbɔewo le nyabiase siwo bɔ me. Kpɔɖeŋu siawo le susu ma me:
 
-| Instead of | Try |
+| Tsɔ wu be nàgblɔ | Te esia kpɔ |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Nu kae nèdi be yeaɖu le fiẽnuɖuɣi?" | "Èdi tɔmelã alo koklolã?" |
+| "Alesi nèle seselelãme me?" | "Èse ɖeɖi te?" |
+| "Dɔ le wuwòm?" | "Fiẽnuɖuɖu anɔ dzadzraɖo le miniti 5 me." |
+| "Menye aleae nèwɔa nui o." | "Mina míate mɔ sia kpɔ." |
+| "Èɖo ŋku míaƒe tsaɖiɖi ɖe ta la ŋu?" | "Mele susu kem ɖe míaƒe tsaɖiɖi ɖe ta la ŋu. Gblɔ nu si dzɔ dzi na wò le eŋu nam." |
+| "Megblɔe na wò xoxo." | Ðo eŋu ake, kple tufafa, abe zi gbãtɔ ene. |
 
-## How do I listen well?
+## Alesi maɖo to nyuie?
 
-Listen for the meaning and the feeling, not just the words.
+Ðo to gɔmesese kple seselelãme, menye nyawo ɖeɖe ko o.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Lala.** Zi geɖe la, ɖoɖoe nye ɣeyiɣi si woatsɔ abu tame. Xlẽ blewu va se ɖe ewo dzi hafi nàge ɖe eme.
+- **Na nya aɖe ne etsi ko.** Family Caregiver Alliance gblɔ be enyo be nàdo nya aɖe ɖa ne ame aɖe le sesẽm.
+- **Kpɔ nu si nèse ɖa.** [Alzheimer's Association ƒe mɔfiame le nuƒoƒo ŋu](https://www.alz.org/help-support/caregiving/daily-care/communications) ɖoa aɖaŋu be nàdi gɔmesese si le woƒe nyawo megbe eye nàgbugbɔe agblɔ be nàkpɔe ɖa be yese egɔme hã. "Ètsi dzi ɖe ʋu la ŋua?"
+- **Kpɔ woƒe ŋkume kple ŋutilã.** Esi nuƒoƒo va le sesẽm la, NIA de dzesii be ŋkume ƒe dzedzeme ate ŋu aɖe nuxaxa, dziku alo dzigbãɖi afia wu nyawo.
+- **Tsɔ woƒe dzitsinyaawo nyuie.** Togbɔ be dzitsinya aɖe tso nyateƒenya si mesɔ o gbɔ hã la, seselelãme la nye nyateƒe.
 
-## What if they say something that is not true?
+## Nu ka mawɔ ne egblɔ nu si menye nyateƒe o?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Mègawɔ dzre o. Anɔ sesẽ be nàɖu dzi, eye ate ŋu ana amea nase le eɖokui me be ŋukpe le ye ŋu alo vɔvɔ̃ le yem. Tsɔ wu la, wɔ kadodo kple seselelãme la, emegbe nàʋu yi nu bubu dzi blewuu.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance ɖoa aɖaŋu be nàde dzesi seselelãme la hafi nàʋu susu la ayi nu bubu dzi. Le kpɔɖeŋu me, ne dawò le gbɔgblɔm be ele be yeayi aɖakɔ ɖeviawo tso suku:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Tsɔ wu: "Dada, viwòwo tsi. Ƒe blaene ye nye esia."
+- Te esia kpɔ: "Ènye vidada si tsɔa ɖe le eme ŋutɔ ɣesiaɣi. Gblɔ alesi nèkɔa wo vɛ nam. Míate ŋu aɖu nu sue aɖe gbã?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association hã ɖoa aɖaŋu be woagawɔ dzre ɖe nya siwo mèda asi ɖo o dzi o. Tia ɣeyiɣi si sɔ: ne susu si mesɔ o aɖe megblẽa naneke o la, ɖe asi le eŋu.
 
-## How does communication change as dementia progresses?
+## Alesi nuƒoƒo trɔna esi ŋkuɖoɖo ƒe kuxi la le yiyim?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Nu siwo hiã trɔna le ɣeyiɣi aɖe megbe, eya ta trɔ wò mɔnu. Alzheimer’s Association ɖe afɔɖeɖe etɔ̃ gã aɖewo me:
 
-| Stage | What helps |
+| Akpa | Nu si kpena ɖe ame ŋu |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Gɔmedzedze | Mègabu be mate ŋu aƒo nu o. De wo dzeɖoɖowo me, ƒo nu kpli wo tẽ, bia kpekpeɖeŋu si wo di, eye nàzã nukoko ne ekpena ɖe ame ŋu. |
+| Titina | Dzeɖoɖo kple ame ɖeka le teƒe si ɖoɖoe le. Ƒo nu blewu, lé ŋku ɖe eŋu, zã nya siwo ŋu woate ŋu aɖo eŋu be ɛ̃ alo ao, na mɔfiame afɔɖeɖe ɖeka ɖeka, eye mègaƒo ɖi wo alo aɖɔ wo ɖo o. |
+| Mamlɛ | Te ɖe eŋu tso ŋgɔgbe eye nàgblɔ ame si nènye. De dzi ƒo be woafia asi alo azã dzesiwo. Zã asiléle, ɖiɖiwo, nu siwo wokpɔna kple ʋeʋẽwo. Mègaƒo nu abe ɖe womele afima o ene gbeɖe o. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Ame sia ame to vovo, eye ame ɖeka ate ŋu anɔ nyuie ŋkeke aɖe eye wòasesẽ nɛ ŋkeke bubu. Ðo nya ŋu ɖe alesi wòle fifia ŋu, menye ɖe ŋkɔ si wotsɔ na nɔnɔme la ŋu o.
 
-## Can pictures and activities make conversation easier?
+## Ðe nɔnɔmetatawo kple nuwɔnawo ate ŋu ana dzeɖoɖo nanɔ bɔbɔea?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ɛ̃. Nɔnɔmetata si miekpɔna ɖekae ɖea nyaƒoɖeamenu dzi kpɔtɔna eye wònaa nu aɖe si mia ame evea miakpɔ alo afia asi mi.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Nɔnɔmetata siwo dzea dzeɖoɖo gɔme.** [Conversation Cards](/games/conversation-cards/) naa nɔnɔmetatawo kple nyabiase siwo keke ta, siwo medoa ame kpɔ gbeɖe o.
+- **Ƒomea ƒe nɔnɔmetatawo.** [Photo Pairs](/games/photo-pairs/) trɔa nɔnɔmetata siwo nètia wozua fefe fafɛ aɖe si me wokpɔa nu siwo sɔ kple wo nɔewo, eye zi geɖe la, eʋua ŋutinya gblɔɖi ɖi.
+- **Nyagbɔgblɔ siwo wonya nyuie.** [Finish the Saying](/games/finish-the-saying/) zãa nyagbɔgblɔ siwo wonya nyuie le Amerika, eye emegbe wònaa dzeɖoɖo ƒe nyabiase.
+- **Fefe siwo me wokpɔa nu siwo sɔ kple wo nɔewo.** [Picture Pairs](/games/picture-pairs/) naa nu aɖe wò asiwò be woawɔ esime miele nu ƒom.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Kpɔ [alesi miawɔ fefe ɖekae](/caregiving/how-to-play-together/) kple [ŋkuɖoɖodzi ƒe nuwɔnawo](/activities/reminiscence/) hena nu bubuwo. Hena sasrãkpɔwo kple yɔyɔwo la, xlẽ míaƒe mɔfiamewo le [sasrãkpɔwo](/activities/visiting/) kple [kaƒoƒo kple video yɔyɔwo](/activities/phone-and-video-calls/) ŋu.
 
-## What if I lose my patience?
+## Nu ka mawɔ ne nye dzi gbã?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Esia dzɔna ɖe ame sia ame dzi. NIA ɖoa aɖaŋu be ne èse veve la, nàtsɔ ɣeyiɣi aɖe afa wò dzi. Yi xɔ bubu me, gbɔ ya blewu zi gbɔ zi geɖe, eye nàtrɔ gbɔ ne dzi ɖo ŋuwò. Àte ŋu adze dzeɖoɖoa gɔme ake ɣesiaɣi, eye ate ŋu adzɔ be amea naɖo nya ŋu nyuie wu esi wò dzi fa. Ne vevesese sia va le dzɔdzɔm edziedzi la, efia be ehiã be nàxɔ kpekpeɖeŋu geɖe wu, menye be èle dɔ dam o. Míaƒe mɔfiame le [amekpɔla ƒe ɖokui dzi kpɔkpɔ](/caregiving/caregiver-self-care/) ŋu fia teƒe siwo nàte ŋu ayi hena kpekpeɖeŋu.

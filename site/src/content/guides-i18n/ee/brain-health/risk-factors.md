@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Dementia ƒe Afɔkuwo: Lancet ƒe Nu 14 siwo Wòyɔ"
+seoTitle: "Dementia ƒe Afɔkuwo: Lancet ƒe Nu 14"
+description: "Dementia ƒe afɔku nu 14 siwo woate ŋu atrɔ si Lancet Habɔbɔa yɔ le 2024 me, le agbenɔƒe ɖe sia ɖe me, kple nu si numekukuwo ɖe fia kple nya siwo nàte ŋu adzro kple ɖɔkta."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Le 2024 me la, Lancet Habɔbɔa yɔ dementia ƒe afɔku nu 14 siwo woate ŋu atrɔ:
+  sukudede sue, nusese ƒe kuxi, LDL cholesterol si kɔ gbɔ, nuxaxa, ta ƒe abi,
+  ŋutilãmewɔwɔ manɔmee, sukli dɔléle, atamanono, ʋu ƒe nyaƒoƒo si kɔ gbɔ,
+  lolo akpa, ahamumu fũu akpa, ameɖekaɖekanɔnɔ, ya ƒe ɖiƒoƒo kple ŋku ƒe kuxi si
+  womekpɔ egbɔ o. Wo katã do ƒome kple xexeame katã ƒe nudzɔdzɔwo ƒe abe 45% ene,
+  gake menye kakaɖedzi aɖeke li na ame ɖekaɖeka o.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Nu 14 siawo kaka ɖe agbenɔƒe blibo la dzi: ɖeka le ɖevime, ewo le agbenɔƒe titina, eye etɔ̃ le agbenɔƒe megbe."
+  - "Nusese ƒe kuxi kple LDL cholesterol si kɔ gbɔ le agbenɔƒe titina dometɔ ɖe sia ɖe do ƒome kple xexeame katã ƒe dementia nudzɔdzɔwo ƒe abe 7% ene, si nye akpa gãtɔ kekeake le nu ɖekaɖekaawo dome."
+  - "Aɖaŋu siawo nye dukɔ blibo ƒe akɔntabubu siwo xɔe se be nuwo doa ƒome kple wo nɔewo. Kadodo aɖewo ate ŋu anye esiwo menye blibo keŋkeŋ o."
+  - "Ƒe kple dzɔdzɔmenuwo, siwo ame aɖeke mate ŋu atrɔ o, hã nye afɔku gãwo. Afɔku 14 siawo dzi ɖeɖe kpɔtɔ mena kakaɖedzi be ame aɖeke maxɔ dementia o."
+  - "Afɔɖeɖe siwo le eme ƒe akpa gãtɔ, abe ʋu ƒe nyaƒoƒo, nusese kple ŋku me lékpɔkpɔ ene, nyo na lãmesẽ le mɔ bubuwo hã nu eye wònyo be nàdzro wo me kple ɖɔkta."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Nu kae nye dementia ƒe afɔku nu 14 siwo woate ŋu atrɔ?"
+    a: "Le 2024 me la, Lancet Habɔbɔa yɔ sukudede sue, nusese ƒe kuxi, LDL cholesterol si kɔ gbɔ, nuxaxa, ta ƒe abi (traumatic brain injury), ŋutilãmewɔwɔ manɔmee, sukli dɔléle, atamanono, ʋu ƒe nyaƒoƒo si kɔ gbɔ, lolo akpa, ahamumu fũu akpa, ameɖekaɖekanɔnɔ, ya ƒe ɖiƒoƒo kple ŋku ƒe kuxi si womekpɔ egbɔ o. Wo katã do ƒome kple xexeame katã ƒe dementia nudzɔdzɔwo ƒe abe afã ene."
+  - q: "Dementia ƒe afɔku nu ka ƒe nya le vevie wu?"
+    a: "Le xexeame katã ƒe amewo gome la, Habɔbɔa bu akɔnta be nusese ƒe kuxi kple LDL cholesterol si kɔ gbɔ le agbenɔƒe titina dometɔ ɖe sia ɖe do ƒome kple nudzɔdzɔwo ƒe abe 7% ene, eye sukudede sue kple ameɖekaɖekanɔnɔ kplɔ wo ɖo kple abe 5% ene dometɔ ɖe sia ɖe. Nu siwo le vevie wu na ame ɖeka nɔ te ɖe eya ŋutɔ ƒe lãmesẽ dzi, eyata ɖɔktae nye mɔfiala nyuitɔ kekeake."
+  - q: "Ðe afɔku nu yeye eveawo va kpe ɖe wo ŋu le 2024 mea?"
+    a: "Ɛ̃. Nyatakaka si wòɖe ɖe go le 2024 me tsɔ LDL (vɔ̃) cholesterol si kɔ gbɔ le agbenɔƒe titina kple ŋku ƒe kuxi si womekpɔ egbɔ o le agbenɔƒe megbe kpe ɖe nu 12 siwo woyɔ le 2020 me ŋu. Habɔbɔa do wo ƒome kple nudzɔdzɔwo ƒe abe 7% kple 2% ene."
+  - q: "Ðe ƒee nye afɔku nu si woate ŋu atrɔa?"
+    a: "Ao. Ƒee nye afɔku gãtɔ si wonya le Alzheimer dɔlélea gome, eye womate ŋu atrɔe o. Dzɔdzɔmenuwo hã kpɔa gome le eme. Nu 14 siwo le axa sia dzi ye nye esiwo numekukuwo gblɔ be woate ŋu atrɔ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,116 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Afɔku nue nye nane si do ƒome kple mɔnukpɔkpɔ si le kɔkɔm wu be nànɔ te ɖe dɔléle aɖe ŋu. Menye susu le nudzɔdzɔ ɖe sia ɖe me o, eye ne afɔku aɖe le ŋuwò la, menye fia be àxɔ dementia o. Axa sia ɖe dementia ƒe afɔku nu 14 siwo Lancet Habɔbɔa gblɔ le 2024 me be woate ŋu atrɔ la me, nu si numekukuwo ɖe fia tso wo ŋu, kple nya siwo nàte ŋu adzro kple ɖɔkta.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Ne èdi be yeakpɔ nyaa bliboa, si me nu si dodokpɔ gãwo kpɔ hã le la, dze egɔme kple
+[Ðe woate ŋu axe mɔ na dementia? Nu si numekukuwo gblɔ](/brain-health/can-dementia-be-prevented/).
+Esia nye nyatakaka gbadza, menye ɖɔktatɔ ƒe aɖaŋuɖoɖo o; kpɔ míaƒe
+[lãmesẽnyawo ŋuti nyatakaka](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Nu kae nye dementia ƒe afɔku nu 14?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Le 2024 me la, Lancet Habɔbɔa](https://doi.org/10.1016/S0140-6736(24)01296-0),
+si dementia numekulawo 27 ŋlɔ, bu akɔnta be afɔku nu 14 siwo woate ŋu atrɔ la
+katã kpɔa gome le xexeame katã ƒe dementia nudzɔdzɔwo ƒe abe 45% me. Aɖaŋu si
+le afɔku ɖe sia ɖe te le ete nye Habɔbɔa ƒe akɔntabubu le akpa si le nudzɔdzɔwo
+me le xexeame katã si do ƒome kplii, eye wowu enu ɖe xexlẽdzesi blibo dzi. Xexlẽdzesi
+siawo doa go wo nɔewo, elabena ame geɖe ƒe afɔkuwo sɔ gbɔ wu ɖeka le ɣeyiɣi ɖeka me;
+esiae tae wole 45% me, ke menye esi wu nenema o.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Afɔku nu | Agbenɔƒe | Akpa le nudzɔdzɔwo me | Nu si numekukuwo ɖe fia | Nu si nàte ŋu awɔ |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Sukudede sue | Ðevime | 5% | Sukudede ƒe ƒe suewo do ƒome kple afɔku si kɔ gbɔ wu. Susumewɔwɔ le agbenɔƒe titina hã dzena abe nu si kpɔa ame ta ene, ne ame aɖe mede suku geɖe o gɔ̃ hã. | Yi edzi nànɔ nu srɔ̃m eye nànɔ nu siwo doa susu ɖa wɔm le ƒe sia ƒe me: nuxexlẽ, modzakaɖenuwɔnawo, sukuklaswo, kple fefewo kple ame bubuwo. |
+| Nusese ƒe kuxi | Agbenɔƒe titina | 7% | Nusese ƒe kuxi si womekpɔ egbɔ o do ƒome kple afɔku si kɔ gbɔ wu. Numekuku siwo kplɔa amewo ɖo le ɣeyiɣi aɖe me ɖee fia be nusese dɔwɔnu zazã do ƒome kple afɔku si le sue wu. | Na woalé ŋku ɖe wò nusese ŋu. Bia ne nusese dɔwɔnuwo ate ŋu akpe ɖe ŋuwò, eye nàzã wo ne woɖo wo na wò. Kpɔ towo ta tso ɖi sesẽ gbɔ. |
+| LDL cholesterol si kɔ gbɔ | Agbenɔƒe titina (tso abe ƒe 40 ene) | 7% | LDL ("vɔ̃") cholesterol si kɔ gbɔ le agbenɔƒe titina do ƒome kple afɔku si kɔ gbɔ wu. Numekuku siwo léa ŋku ɖe amewo ŋu ɖee fia be statin zazã do ƒome kple afɔku si le sue wu, gake dodokpɔwo le agbenɔƒe megbe meɖee fia o. | Bia wò ɖɔkta ne ele be woalé ŋku ɖe wò cholesterol ŋu kple nu si, ne ɖe wòhiã, nàwɔ le eŋu. |
+| Nuxaxa | Agbenɔƒe titina | 3% | Nuxaxa do ƒome kple afɔku si kɔ gbɔ wu. Le agbenɔƒe megbe la, nuxaxa ate ŋu anye dementia ƒe dzesi gbãtɔwo dometɔ ɖeka hã. | Gblɔ na ɖɔkta tso dzigbɔɖi alo didi ƒe bu si nɔa anyi wu kɔsiɖa eve ŋu. Woate ŋu akpɔ nuxaxa gbɔ. |
+| Ta ƒe abi | Agbenɔƒe titina | 3% | Ta ƒe abi le ƒe sia ƒe me kple tso dzɔtsoƒe sia dzɔtsoƒe, si me kamedefefewo hã le, do ƒome kple afɔku si kɔ gbɔ wu. | Do gakuku ne èle gasɔ dom alo le kamedefefe siwo me amewo doa go wo nɔewo le wɔm. Bia tso anyidzedze ƒe mɔxexe ŋu. Dzudzɔ eye na woalé ŋku ɖe ŋuwò le ta ƒe abi megbe. |
+| Ŋutilãmewɔwɔ manɔmee | Agbenɔƒe titina | 2% | Ame siwo wɔa kamedede kple fefewo ƒe mɔnukpɔkpɔ be woaxɔ dementia la le sue wu. Dodokpɔwo ƒe kpeɖodzi gale sue. | Bia nuwɔna kae le dedie na wò, eye nàdi nane si vivia nuwò. Kpɔ míaƒe [kamedede ƒe mɔfiame](/brain-health/exercise/). |
+| Sukli dɔléle | Agbenɔƒe titina | 2% | Sukli dɔléle, vevietɔ ne edze egɔme le agbenɔƒe titina alo nɔa anyi didi wu, do ƒome kple afɔku si kɔ gbɔ wu. | Na woalé ŋku ɖe ʋu me sukli ŋu. Ne sukli dɔléle le ŋuwò la, wɔ dɔ kple wò lãmesẽkɔlawo be nàkpɔ edzi dedie. |
+| Atamanono | Agbenɔƒe titina | 2% | Atamanono do ƒome kple afɔku si kɔ gbɔ wu. Numekukuwo ɖee fia be ame siwo dzudzɔ atamanono ƒe afɔku me kɔ gbɔ abe ame siwo gale enom ene o. | Bia kpekpeɖeŋu be nàdzudzɔ. Edzea agbagba be nàdzudzɔ le ƒe sia ƒe me. |
+| Ʋu ƒe nyaƒoƒo si kɔ gbɔ | Agbenɔƒe titina | 2% | Ʋu ƒe nyaƒoƒo si kɔ gbɔ le agbenɔƒe titina do ƒome kple afɔku si kɔ gbɔ wu. Dodokpɔwo le ʋu ƒe nyaƒoƒo ƒe atike ŋu ɖee fia be dementia alo susumewɔwɔ ƒe gbɔdzɔgbɔdzɔ ƒe afɔku le sue vie. | Nya wò xexlẽdzesiwo. Habɔbɔa aɖaŋue nye be xexlẽdzesi si le dzi (top number) nanɔ 130 alo esi le sue wu tso abe ƒe 40 ene; bia taɖodzinu kae sɔ na wò. |
+| Lolo akpa | Agbenɔƒe titina | 1% | Lolo akpa le agbenɔƒe titina do ƒome kple afɔku si kɔ gbɔ wu, eye wònaa sukli dɔléle ƒe afɔku hã dzina ɖe edzi. | Bia wò ɖɔkta tso kpekpeme si nyo na wò ŋu. Mele be ame tsitsiwo naɖe nuɖuɖu dzi akpɔtɔ be yewoaɖi kpekpeme ne ɖɔkta meɖo aɖaŋu o. |
+| Ahamumu fũu akpa | Agbenɔƒe titina | 1% | Ahamumu fũu akpa do ƒome kple afɔku si kɔ gbɔ wu. Aha dzi ɖeɖe kpɔtɔ tso ahamumu fũu akpa me do ƒome kple afɔku si le sue wu. | Bia seɖoƒe si le dedie na wò, vevietɔ kple wò atikewo. |
+| Ameɖekaɖekanɔnɔ | Agbenɔƒe megbe | 5% | Ne mèdoa go ame bubuwo enuenu o la, edo ƒome kple afɔku si kɔ gbɔ wu. | Nɔ kadodo me kple amewo le mɔ siwo vivia nuwò nu. Kpɔ míaƒe [kadodo kple ame bubuwo ƒe mɔfiame](/brain-health/social-connection/). |
+| Ya ƒe ɖiƒoƒo | Agbenɔƒe megbe | 3% | Nɔnɔ le ya ƒe ɖiƒoƒo geɖe me do ƒome kple afɔku si kɔ gbɔ wu. Numekukuwo ɖee fia be ya si me kɔ wu do ƒome kple afɔku si le sue wu. | Esia ku ɖe dukɔa ƒe ɖoɖowo ŋu wu. Lé ŋku ɖe mia gbɔ ya ƒe nyonyome ŋuti nuxlɔ̃amewo ŋu eye nàɖe ɣeyiɣi si nènɔa gota dzi akpɔtɔ le ŋkeke siwo dzi ya ɖiƒoƒo le gbɔ. |
+| Ŋku ƒe kuxi si womekpɔ egbɔ o | Agbenɔƒe megbe | 2% | Ŋku ƒe kuxi siwo womeɖɔ ɖo o do ƒome kple afɔku si kɔ gbɔ wu. Numekuku gã ɖeka le United States ɖee fia be ŋku ƒe atike (cataract) ƒe dɔwɔwɔ do ƒome kple afɔku si le sue wu. | Na woalé ŋku ɖe wò ŋkuwo ŋu edziedzi. Bia ne woate ŋu akpɔ kuxiwo abe cataract ene gbɔ. |
 
-## How should I read these percentages?
+## Aleke wòle be maxlẽ aɖaŋu siawoe?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Kple beléle. Habɔbɔa ŋutɔ ƒe nyatakaka gblɔ nya aɖewo siwo nyo be nàlé ɖe susu me:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Woɖea dukɔwo ƒe nɔnɔme fiana, menye ame ɖekaɖekawo tɔ o.** University College London ƒe
+  [nyatakaka ƒe kpukpui](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  gblɔ be afɔku dzi ɖeɖe kpɔtɔ wɔa dɔ le dukɔ blibo me, gake mena kakaɖedzi be
+  ame ɖekaɖeka aɖe maxɔ dementia o.
+- **Woxɔe se be nuwo doa ƒome kple wo nɔewo.** Nuŋlɔlawo tsɔ afɔku nu siwo ŋu
+  kpeɖodzi sesẽwo le ko ɖe eme, gake wogblɔ be kadodo aɖewo ate ŋu anye esiwo menye
+  blibo keŋkeŋ o.
+- **Wonye xexeame katã ƒe xexlẽdzesiwo.** Nyatakaka akpa gãtɔ tso dukɔ siwo
+  kpɔa ga geɖe me, eye akpa si le dukɔ alo nutoa me ɖe sia ɖe me ŋutɔŋutɔ ato vovo.
+- **Aɖaŋu suewo hã ate ŋu anye nu vevi.** Afɔku nu si do ƒome kple xexeame katã ƒe
+  nudzɔdzɔwo ƒe 2% gɔ̃ hã kpɔa ŋusẽ ɖe ame gbogbo aɖewo ŋu ŋutɔ.
 
-## Which risk factors were added in 2024?
+## Afɔku nu kawo va kpe ɖe wo ŋu le 2024 me?
 
-The 2024 report added two factors to the 12 named in 2020:
+Nyatakaka si wòɖe ɖe go le 2024 me tsɔ afɔku nu eve kpe ɖe 12 siwo woyɔ le 2020 me ŋu:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **LDL cholesterol si kɔ gbɔ le agbenɔƒe titina**, si do ƒome kple nudzɔdzɔwo ƒe abe 7%.
+- **Ŋku ƒe kuxi si womekpɔ egbɔ o le agbenɔƒe megbe**, si do ƒome kple nudzɔdzɔwo ƒe abe 2%.
 
-## What risk factors cannot be changed?
+## Afɔku nu kawo womate ŋu atrɔ o?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging gblɔ be
+[ƒee nye afɔku gãtɔ si wonya le Alzheimer ŋu](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+eye ame aɖeke mate ŋu atrɔe o. Dzɔdzɔmenuwo hã kpɔa gome le eme; dzɔdzɔmenu ɖeka
+si wonya nyuie si kpɔa ŋusẽ ɖe Alzheimer ƒe afɔku dzi ye nye APOE. NIA gblɔ kpee be
+dzɔdzɔmeŋutinunyalawo mese nu si hea Alzheimer vɛ le ame akpa gãtɔ gome bliboe haɖe o.
+Lancet Habɔbɔa gblɔ be woate ŋu aɖe afɔku siwo woate ŋu atrɔ dzi akpɔtɔ, ne dzɔdzɔmenu
+ƒe afɔku ka ke le ame aɖe ŋu o.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Esi ƒe kple dzɔdzɔmenuwo kpɔa gome gã aɖe ta la, ame geɖe siwo ƒe afɔku nu 14 siawo dometɔ
+aɖeke mele wo ŋu o la gaxɔa dementia. Menye ame aɖeke ƒe vodadae o.
 
-## What does the trial evidence say about changing these risks?
+## Nu kae dodokpɔwo ƒe kpeɖodzi gblɔ tso afɔku siawo tɔtrɔ ŋu?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Ne wogblɔ be afɔku nu aɖe do ƒome kple dementia la, menye fia be ne woetrɔe la, eɖea
+dementia ƒe afɔku dzi kpɔtɔ o. Kpɔɖeŋu ʋɛ aɖewo le afisi dodokpɔwo ƒe kpeɖodzi le fifia:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Ʋu ƒe nyaƒoƒo.** Le SPRINT MIND dodokpɔa me la, ʋu ƒe nyaƒoƒo ƒe taɖodzinu si le sue wu
+  ɖe susumewɔwɔ ƒe gbɔdzɔgbɔdzɔ fafɛ (mild cognitive impairment) dzi kpɔtɔ ŋutɔ. Meɖe
+  dementia si ŋu wosusu dzi kpɔtɔ ŋutɔ o, togbɔ be ɖewohĩ dodokpɔa mesɔ gbɔ be wòaɖee
+  afia o hã ([SPRINT MIND le JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Nusese dɔwɔnuwo.** Lancet Habɔbɔa ƒo nu tso nusese dɔwɔnu ƒe dodokpɔ si xɔ ƒe etɔ̃ ŋu,
+  si mekpɔ ŋusẽkpɔɖeamedzi blibo aɖeke ɖe susumewɔwɔ dzi o, gake ekpe ɖe ame siwo ƒe afɔku
+  le kɔkɔm wu ƒe akpa aɖe ŋu. Numekuku siwo kplɔa amewo ɖo le ɣeyiɣi aɖe me ɖee fia be
+  nusese dɔwɔnu zazã do ƒome kple afɔku si le sue wu. Míaƒe [nusese ƒe mɔfiame](/brain-health/hearing/)
+  gblɔ nya bubuwo.
+- **Ŋutilãmewɔwɔ.** National Institute on Aging gblɔ be dodokpɔwo ƒe kpeɖodzi mesɔ gbɔ be
+  woatso nya me be kamedede ate ŋu axe mɔ na alo aɖe susumewɔwɔ ƒe gbɔdzɔgbɔdzɔ fafɛ alo
+  Alzheimer dzi akpɔtɔ o, togbɔ be numekuku aɖewo ɖee fia be ate ŋu akpe ɖe ame ŋu le
+  ƒexɔxɔ ƒe tɔtrɔwo gome hã
+  ([NIA tso Alzheimer ƒe mɔxexe ŋu](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Dodokpɔ didi siwo lalaa be dementia nadze la xɔa ɣeyiɣi eye woxɔa ga geɖe, eyata le afɔku
+nu geɖe gome la, kpeɖodzi nyuitɔwo agayi edzi atso numekuku siwo kplɔa amewo ɖo ƒe geɖe me.
+Kpeɖodzi mawo le vevie, gake womenye sesẽ abe dodokpɔ ene o.
 
-## What about sleep and diet?
+## Alɔ̃ kple nuɖuɖu ya ɖe?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Habɔbɔa lé ŋku ɖe alɔ̃ kple nuɖuɖu ŋu gake metsɔ wo kpe ɖe xexlẽdzesia ŋu o, elabena
+kpeɖodzia menye sesẽ alo nɔ teƒe ɖeka o. Míaƒe mɔfiamewo tso [alɔ̃](/brain-health/sleep/)
+kple [nuɖuɖu](/brain-health/diet/) ŋu ɖe nu si wonya me.
 
-## Talk with a doctor
+## Dzro nya me kple ɖɔkta
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Ƒe sia ƒe ƒe lãmesẽ lékpɔkpɔ nye ɣeyiɣi nyui aɖe be nàƒo nu tso nya siawo ŋu. Àte ŋu atsɔ
+xexlẽdzesi sia ava eye nàbia be:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Nye ʋu ƒe nyaƒoƒo, ʋu me sukli kple cholesterol ƒe xexlẽdzesiwo ɖe? Ðe ɖe aɖe hiã ŋkuléleɖenuŋua?
+- Ðe wòle be woalé ŋku ɖe nye nusese kple ŋkuwo ŋua?
+- Ðe nuwɔna si mewɔna le dedie eye wòsɔ nam nua?
+- Ðe nye atikeawo dometɔ aɖe ate ŋu akpɔ ŋusẽ ɖe ŋkuɖoɖo alo susumewɔwɔ dzia?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Hafi nàtrɔ atike, nuɖuɖu, nuɖuɖumadzimadzi, kamedede alo nuɖuɖudzikpeɖenuwo la, dzro nya me kple ɖɔkta gbã.
+Ne wò alo ame si ŋu nèkpɔna la ƒe susu trɔ kpata, ŋusẽ bu le akpa ɖeka, alo nuƒoƒo sesẽ la,
+yɔ 112.

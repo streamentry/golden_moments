@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Memzorgo por prizorgantoj: ripozo, subteno kaj signoj"
+seoTitle: "Memzorgo por prizorgantoj: ripozo kaj subteno"
+description: "Signoj de elĉerpiĝo ĉe prizorgantoj, kiel trovi ripozon kaj subtenajn grupojn, kaj senpagaj helptelefonoj, inkluzive de la 24/7 Helpline de Alzheimer's Association kaj Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Zorgi pri homo vivanta kun demenco estas malfacile, kaj zorgi pri vi mem
+  estas parto de tiu tasko. Atentu pri avertaj signoj kiel laceco, incitemo,
+  malbona dormo kaj retiriĝo de amikoj. Petu konkretan helpon, uzu ripozan
+  zorgadon kaj aliĝu al subtena grupo. Senpaga helpo en Usono inkluzivas la
+  24/7 Helpline de Alzheimer's Association ĉe 1-800-272-3900 kaj la Eldercare
+  Locator ĉe 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Elĉerpiĝo ofte montriĝas kiel laceco, incitemo, malbona dormo, malĝojo kaj neglekto de via propra sanservo."
+  - "Ripoza zorgado donas al vi paŭzon, de kelkaj horoj ĝis pluraj semajnoj, hejme aŭ en zorga medio."
+  - "Petu helpon pri konkretaj taskoj; multaj homoj volas helpi, sed ne scias kiel."
+  - "La 24/7 Helpline de Alzheimer's Association (1-800-272-3900) ofertas senpagan, konfidencan subtenon iam ajn."
+  - "La Eldercare Locator (1-800-677-1116) ligas vin al lokaj servoj, inkluzive de via loka Area Agency on Aging."
+  - "Se vi sentas, ke vi estas en krizo, telefonu aŭ sendu mesaĝon al 988. En urĝa situacio, voku 112."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Kiuj estas la signoj de elĉerpiĝo ĉe prizorgantoj?"
+    a: "Oftaj signoj inkluzivas senton de laceco, troŝarĝiteco aŭ maltrankvilo, facilan koleron aŭ malpaciencon, dormproblemojn, senton de malĝojo aŭ senespereco, retiriĝon de amikoj, oftajn kapdolorojn aŭ doloron, kaj preterlason de viaj propraj manĝoj, movado aŭ medicina zorgo. Se tiaj signoj okazas regule, parolu kun via kuracisto."
+  - q: "Kiel mi povas trovi ripozan zorgadon proksime al mi?"
+    a: "Komencu per la Eldercare Locator (1-800-677-1116 aŭ eldercare.acl.gov) por kontakti vian lokan Area Agency on Aging, la ARCH National Respite Locator Service, aŭ la heltelefonon de Alzheimer's Association ĉe 1-800-272-3900. Familio, amikoj kaj volontuloj ankaŭ povas doni ripozan zorgadon."
+  - q: "Ĉu Medicare pagas por ripoza zorgado?"
+    a: "Por homo, kiu ricevas hospican zorgon, Medicare kovras plejparton de la kosto de ĝis kvin sinsekvaj tagoj de ripoza zorgado en hospitalo aŭ lerta flegejo, laŭ la National Institute on Aging. Plej multaj privataj sanasekuroj ne kovras ripozan zorgadon; Medicaid kaj iuj longdaŭraj zorgasekuraj planoj povas helpi."
+  - q: "Ĉu la heltelefono de Alzheimer's Association vere estas senpaga kaj disponebla nokte?"
+    a: "Jes. La Alzheimer's Association diras, ke ĝia Helpline ĉe 1-800-272-3900 estas senpaga, konfidenca kaj funkcias tuttage, 365 tagojn jare, kun helpo disponebla en multaj lingvoj. Por relaja servo, uzu 711."
+  - q: "Ĉu estas egoisme fari paŭzon de prizorgado?"
+    a: "Ne. Ripozo helpas vin daŭre zorgi, kaj ripoza zorgado ankaŭ povas doni al la persono, pri kiu vi zorgas, ŝanĝon de kompanio kaj aktiveco. Multaj prizorgantoj poste diras, ke ili dezirus esti petintaj helpon pli frue."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Se vi zorgas pri homo vivanta kun demenco, vi verŝajne legas ĉi tion malfrue, laca, kaj kun listo de aferoj, kiujn vi ankoraŭ ne faris. Tio estas normala. Zorgi pri vi mem ne estas lukso nek rekompenco pro finado de ĉio. Ĝi estas tio, kio helpas vin daŭrigi.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ĉi tiu paĝo klarigas la avertajn signojn de elĉerpiĝo, kiel ricevi veran paŭzon, kie trovi subtenon, kaj senpagajn helptelefonojn en Usono, kiujn vi povas voki hodiaŭ.
 
-## What are the signs of caregiver burnout?
+## Kiuj estas la signoj de elĉerpiĝo ĉe prizorgantoj?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Elĉerpiĝo ofte venas malrapide, do helpas koni viajn proprajn avertajn signojn. La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) listigas signojn de streso ĉe prizorgantoj, inkluzive de:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- sento de laceco, troŝarĝiteco aŭ maltrankvilo;
+- facila kolero aŭ malpacienco;
+- sento de soleco aŭ malkonekto de aliaj;
+- problemoj pri dormo, aŭ nesufiĉa dormo;
+- sento de malĝojo aŭ senespereco, aŭ perdo de intereso pri aferoj, kiujn vi antaŭe ĝuis;
+- oftaj kapdoloroj, doloroj aŭ aliaj korpaj problemoj;
+- manko de tempo por moviĝi aŭ prepari sanan manĝon por vi mem;
+- preterlaso de duŝado aŭ alia persona zorgo;
+- misuzo de alkoholo aŭ drogoj, inkluzive de preskribitaj medikamentoj.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) aldonas signojn kiel neadon pri la malsano, koleron kontraŭ la persono („li simple estas obstina”), maltrankvilon pri la estonteco, malfacilon koncentriĝi, kaj sanproblemojn, kiuj pezas sur vi. Ĝi konsilas paroli kun via kuracisto, se vi regule havas tiajn signojn.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+La konsilo de NIA estas ne atendi, ĝis vi estos tute troŝarĝita. Rimarku viajn signojn frue kaj agu laŭ ili.
 
-## What can I do today, in five minutes?
+## Kion mi povas fari hodiaŭ, en kvin minutoj?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Malgrandaj paŭzoj gravas. Neniu el ĉi tiuj solvos elĉerpiĝon, sed ili povas helpi vin travivi malfacilan posttagmezon.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Iru eksteren.** Sidu sur la verando aŭ iru al la leterkesto, dum la persono estas sekura kaj trankvila.
+- **Spiru malrapide.** Kelkaj malrapidaj spiroj antaŭ ol vi respondas al malfacila demando. Vi ankaŭ povas kunhavi paŭzon de [Trankvila spirado](/games/calm-breathing/) kun la persono, pri kiu vi zorgas.
+- **Trinku akvon kaj manĝu ion.** Estas facile forgesi viajn proprajn manĝojn.
+- **Sendu mesaĝon al unu amiko.** Ne por peti ion, nur por konektiĝi.
+- **Diru al vi mem ion bonkoran.** La [gvidilo de NIA pri zorgado por vi mem](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) proponas frazojn kiel „Mi faras la plej eblon“, „Mi ne estas perfekta, kaj tio estas en ordo“, kaj „Mi ĝuos la momentojn, kiam ni povas esti kune en paco“.
 
-## What is respite care, and how do I get it?
+## Kio estas ripoza zorgado, kaj kiel mi povas ricevi ĝin?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Ripoza zorgado estas mallongdaŭra zorgo por la persono, pri kiu vi zorgas, por ke vi povu ripozi. La [paĝo de NIA pri ripoza zorgado](https://www.nia.nih.gov/health/caregiving/what-respite-care) klarigas, ke ĝi povas daŭri de kelkaj horoj ĝis pluraj semajnoj kaj povas okazi hejme, en sanserva instalaĵo aŭ en taga zorgcentro por plenkreskuloj.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) priskribas oftajn tipojn:
 
-| Type | What it is |
+| Tipo | Kio ĝi estas |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Hejma helpo | Amiko, parencano, volontulo aŭ pagita kunulo aŭ helpanto venas al la hejmo |
+| Taga centro por plenkreskuloj | Planitaj aktivecoj kiel muziko kaj arto en sekura grupa medio; transporto kaj manĝoj ofte estas proponitaj |
+| Tranoktado aŭ mallonga restado | Longdaŭra zorgkomunumo zorgas pri la persono dum nokto, kelkaj tagoj aŭ kelkaj semajnoj |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Kiu pagas?** Laŭ NIA, ripoza zorgado de familio, amikoj aŭ volontuloj povas kosti nenion. Profesiaj servoj pagigas laŭ horo aŭ tago. Por homo, kiu ricevas hospican zorgon, Medicare kovras plejparton de la kosto de ĝis kvin sinsekvaj tagoj de ripozo en hospitalo aŭ lerta flegejo. Medicaid povas helpi. Plej multaj privataj sanasekuroj ne kovras ripozan zorgadon, kvankam iuj longdaŭraj zorgasekuraj planoj tion faras.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Konsilo:** La Alzheimer's Association sugestas provi provizantojn de ripoza zorgado en ne-urĝa situacio, por ke ili estu pretaj, se vi subite bezonos helpon.
 
-## Where can I find help near me?
+## Kie mi povas trovi helpon proksime al mi?
 
-Several free US services can point you to local help.
+Pluraj senpagaj servoj en Usono povas direkti vin al loka helpo.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **24/7 Helpline de Alzheimer's Association: 1-800-272-3900.** La [Helpline](https://www.alz.org/help-support/resources/helpline) estas senpaga kaj konfidenca, funkcias tuttage ĉiutage dum la jaro, kaj ofertas helpon en pli ol 200 lingvoj per dulingvaj dungitoj aŭ interpretistoj. Por relaja servo, uzu 711. Vi povas paroli pri ŝanĝoj en konduto, streso de prizorgantoj, ebloj por ripoza zorgado, lokaj programoj kaj pli, kaj peti pli longan konversacion kun zorga konsilisto. La dungitoj ne donas medicinan konsilon.
+- **Eldercare Locator: 1-800-677-1116.** La [Eldercare Locator](https://eldercare.acl.gov/), publika servo de la Administration for Community Living, ligas vin al servoj por pli aĝaj plenkreskuloj kaj iliaj familioj. Vi povas telefoni, sendi mesaĝon, babili rete aŭ retpoŝti al trejnitaj dungitoj, aŭ serĉi laŭ loko. Ĝi povas direkti vin al via loka Area Agency on Aging.
+- **ARCH National Respite Locator Service.** La [serĉilo de ripoza zorgado de ARCH](https://archrespite.org/caregiver-resources/respitelocator/) helpas vin trovi provizantojn de ripoza zorgado laŭ ŝtato, kaj sugestas unue kontakti vian State Respite Coalition aŭ Lifespan Respite-programon, se via ŝtato havas tian. ARCH notas, ke ĝi ne kontrolas provizantojn, do vi mem reviziu ilian sperton kaj fonon.
 
-## How do I find a support group?
+## Kiel mi povas trovi subtenan grupon?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Petu la Helpline aŭ serĉu rete grupojn proksime al vi. La Alzheimer's Association [organizas subtenajn grupojn](https://www.alz.org/help-support/community/support-groups) por prizorgantoj kaj homoj vivantaj kun demenco, persone kaj rete, gvidatajn de trejnitaj faciligantoj. Multaj lokoj ankaŭ ofertas specialajn grupojn, ekzemple por plenkreskaj prizorgantoj aŭ por homoj vivantaj kun pli frua komenco aŭ frua stadio de Alzheimer-malsano. Ĝi ankaŭ gastigas ALZConnected, senpagan retan komunumon, kie prizorgantoj dividas konsilojn.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Subtenaj grupoj povas esti loko por esprimi vin sen juĝo, ricevi praktikajn konsilojn de homoj, kiuj jam travivis tion, kaj senti vin malpli sola. Se la unua grupo ne taŭgas, provu alian.
 
-## How do I ask family and friends for help?
+## Kiel mi povas peti helpon de familio kaj amikoj?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Estu konkreta. Multaj homoj volas helpi, sed ne scias, kion proponi. NIA sugestas:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Tenu liston** de taskoj, kiujn aliaj povus transpreni, kaj lasu homojn elekti.
+- **Komencu per malgranda paŝo**, se peti ŝajnas malfacile.
+- **Kongruigu la taskon kun la persono.** La kuzo, kiu ŝatas kuiri, alportas vespermanĝon ĵaŭde. La najbaro, kiu bone plenigas formularojn, helpas pri paperoj.
+- **Sendu mesaĝon aŭ retpoŝton**, se peti vizaĝ-al-vizaĝe estas malkomforta.
+- **Ekzercu respondon** por kiam iu proponas helpon: „Dankon, ke vi demandis. Jen kion vi povas fari.“
+- **Atendu kelkajn neojn** kaj provu ne preni ilin persone.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Aliaj ideoj: petu iun sidi kun la persono unu posttagmezon semajne, iri kun li aŭ ŝi al mallonga eliro, aŭ viziti kaj ludi ludon kune. Nia [gvidilo pri kuna ludado](/caregiving/how-to-play-together/) estas facile dividebla kun vizitantoj.
 
-## What if something happened to me?
+## Kio, se io okazus al mi?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Faru nun simplan rezervan planon. NIA sugestas decidi kun familio aŭ proksimaj amikoj, kiu paŝus enen, kaj teni kajeron kun krizaj numeroj, medikamentoj, konsiloj pri konduto, kiuj funkcias, kaj plej ŝatataj aktivecoj. La Alzheimer's Association ankaŭ rekomendas teni facile troveblaj la medicinajn kontaktojn de la persono kaj ĝisdatigitan liston de medikamentoj.
 
-## When should I get professional or urgent help?
+## Kiam mi devus serĉi profesian aŭ urĝan helpon?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Parolu kun via kuracisto, se signoj de streso estas regulaj, se vi sentas vin deprima, aŭ se vi malfacile eltenas la situacion. Diru al via kuracisto, ke vi estas prizorganto. NIA notas, ke konsilistoj kaj sociaj laboristoj povas helpi pri malfacilaj sentoj kaj planado, kaj ke Medicare, Medicaid kaj iuj privataj asekuraj planoj povas kovri parton de la kostoj de mensa sanservo.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Se vi sentas, ke vi estas en krizo aŭ havas pensojn pri memvundo, telefonu aŭ sendu mesaĝon al 988 por kontakti la [988 Suicide & Crisis Lifeline](https://988lifeline.org/), senpaga kaj disponebla tuttage. Se iu estas en tuja danĝero, voku 112.
 
-## Can shared activities give me a break too?
+## Ĉu komunaj aktivecoj ankaŭ povas doni al mi paŭzon?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Kelkfoje. Trankvila aktiveco, kiun vi ambaŭ ĝuas, povas esti pli milda parto de la tago ankaŭ por vi, same kiel por la persono, pri kiu vi zorgas: aŭskulti malnovajn kantojn, rigardi fotojn, aŭ ludo kiel [Konversaciaj kartoj](/games/conversation-cards/), kiu ne bezonas ĝustajn respondojn. Se la persono ĝuas kompanion, grupa sesio de [Bilda bingo](/games/picture-bingo/) en centro por pli aĝaj plenkreskuloj aŭ taga programo povas doni al vi horon da ripozo. Vidu [aktivecojn por grupoj en zorghejmo](/activities/care-home-groups/) por ideoj.

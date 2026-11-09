@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Agordi tabuleton aŭ telefonon por iu kun demenco"
+seoTitle: "Agordi tabuleton aŭ telefonon por iu kun demenco"
+description: "Paŝo post paŝo: agordu tabuleton aŭ telefonon por iu kun demenco: ŝlosu al unu apo, pli granda teksto, malpli da sciigoj, simpla hejmekrano, laŭteco kaj privateco."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Faru tabuleton aŭ telefonon pli simpla antaŭ ol doni ĝin. Ŝlosu ĝin al unu
+  apo per Gvidata Aliro en iPad kaj iPhone aŭ per apa alpinglado en Android,
+  aŭ uzu la Asistan Aliron de Apple por simpligita aranĝo. Faru la tekston
+  pli granda, silentigu sciigojn, tenu nur kelkajn apojn sur unu hejmekrano,
+  agordu la laŭtecon, uzu starigilon kaj limigu la permesojn de apoj. Uzu ĝin
+  kune, apud ekrankonvenaj agadoj.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Gvidata Aliro (iPhone, iPad) kaj apa alpinglado (Android) tenas la ekranon en unu apo ĝis vi malŝlosas ĝin."
+  - "La Asista Aliro de Apple ofertas simpligitan aranĝon pensitan por homoj kun kognaj handikapoj."
+  - "Faru la tekston pli granda kaj malŝaltu sciigojn kaj ŝprucfenestrojn, por ke nenio interrompu aŭ konfuzu."
+  - "Tenu nur kelkajn konatajn apojn sur unu hejmekrano, kaj agordu la laŭtecon antaŭ ol vi komencas."
+  - "Starigilo kaj ŝargloko, kiu neniam moviĝas, faciligas uzi kaj trovi la aparaton."
+  - "Kontrolu la permesojn kaj datumkundividadon de apoj: HIPAA ĝenerale ne protektas tion, kio estas konservita en persona aparato."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Kiel mi malhelpas, ke iu kun demenco forlasu apon en iPad?"
+    a: "Ŝaltu Gvidatan Aliron en Agordoj > Alirebleco > Gvidata Aliro kaj agordu paskodon. Malfermu la apon, trioble alklaku la supran butonon (aŭ la Hejman butonon en pli malnovaj iPad-oj), kaj tuŝetu Komenci. La iPad restas en tiu apo ĝis iu enigas la paskodon."
+  - q: "Kiel mi ŝlosas Android-tabuleton al unu apo?"
+    a: "Ŝaltu apan alpingladon en la apo Agordoj, kutime sub Sekureco (foje Sekureco kaj loko) > Altnivelaj > Apa alpinglado. Poste malfermu la apon, malfermu Superrigardon, tuŝetu la ikonon de la apo supre kaj tuŝetu Alpingli. Via PIN, desegno aŭ pasvorto necesas por malalpingli."
+  - q: "Ĉu estas sekure uzi Gvidatan Aliron en la propra telefono de la persono?"
+    a: "Estu singarda. Apple diras, ke Kraŝa Detekto kaj Krizaj Servoj ne disponeblas dum Gvidata Aliro estas ŝaltita. Se la persono dependas de sia telefono por krizaj vokoj, uzu Gvidatan Aliron nur dum vi estas kun ili, aŭ pripensu uzi Asistan Aliron anstataŭe."
+  - q: "Kiom da ekrantempo estas bone por iu kun demenco?"
+    a: "Ne ekzistas fiksita nombro. Mallongaj, komunaj momentoj miksitaj kun promenoj, muziko, hejmaj taskoj kaj konversacioj povas doni pli plenan tagon ol longaj periodoj sole antaŭ ekrano. Se la aparato kaŭzas ĉagrenon aŭ forpuŝas aliajn agadojn, uzu ĝin malpli."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tabuleto povas esti agrabla maniero kunhavigi bildojn, muzikon kaj simplajn ludojn. Ĝi ankaŭ povas esti konfuza: hazarda tuŝo malfermas alian apon, sciigo aperas, la teksto estas tre malgranda, aŭ la ekrano mallumiĝas meze de ludo. Iom da preparado de via flanko solvas plejparton de tio.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Ĉi tiuj paŝoj uzas la enkonstruitajn agordojn en iPhone, iPad kaj Android. Menuonomoj povas ŝanĝiĝi inter programaraj versioj kaj aparatproduktantoj, do se io aspektas alie, sekvu la ligitan paĝon de Apple aŭ Google por via aparato. Faru la preparon mem, antaŭ ol vi sidas kune.
 
-## Should someone with dementia use a tablet or phone?
+## Ĉu iu kun demenco uzu tabuleton aŭ telefonon?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Tio dependas de la persono. Multaj homoj ĝuas uzi tabuleton kun iu apud ili, eĉ se ili ne povus uzi ĝin sole. Komencu uzante ĝin kune, kun unu apo malfermita, dum kelkaj minutoj. Se ĝi alportas ĝuon kaj konversacion, daŭrigu. Se ĝi alportas konfuzon aŭ ĉagrenon, fotoalbumo, presitaj paĝoj aŭ muziko eble pli taŭgas por ili. Niaj [preseblaj agadoj](/activities/printable/) estas unu alternativo.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tabuleto estas kutime pli facila ol telefono: la ekrano kaj bildoj estas pli grandaj, kaj ĝi ne estas ankaŭ la krizvoka savrimedo de la persono.
 
-## How do I lock a tablet or phone to one app?
+## Kiel mi ŝlosas tabuleton aŭ telefonon al unu apo?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Uzu Gvidatan Aliron en iPhone kaj iPad, aŭ apan alpingladon en Android. Ambaŭ tenas la ekranon en unu apo ĝis vi enigas kodon, tiel ke hazarda tuŝo aŭ svingo ne povas malfermi ion alian.
 
-### iPad and iPhone: Guided Access
+### iPad kaj iPhone: Gvidata Aliro
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Laŭ la [instrukcioj de Apple pri Gvidata Aliro](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Malfermu **Agordojn**, tuŝetu **Alirebleco**, poste tuŝetu **Gvidata Aliro** kaj ŝaltu ĝin.
+2. Sub **Paskodaj Agordoj**, agordu paskodon por Gvidata Aliro. Vi ankaŭ povas permesi Face ID aŭ Touch ID.
+3. Laŭvole: sub **Aŭtomata Ekranŝloso**, elektu kiom rapide la ekrano ŝlosiĝas dum sesio, por ke ĝi ne mallumiĝu meze de ludo.
+4. Malfermu la apon, kiun vi volas uzi.
+5. Trioble alklaku la flankan butonon (iPhone), la supran butonon (iPad), aŭ la Hejman butonon en pli malnovaj aparatoj.
+6. Laŭvole: ĉirkaŭu partojn de la ekrano, kiujn vi volas igi netuŝeblaj. Tuŝetu **Opciojn** (aŭ **Sesiaj Agordoj**) por malŝalti la laŭtecbutonojn aŭ malhelpi la turniĝon de la ekrano.
+7. Tuŝetu **Komenci**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Por fini la sesion, trioble alklaku la saman butonon denove, enigu la paskodon kaj tuŝetu **Fini**. Apple notas, ke en iuj pli malnovaj programaraj versioj oni duoble alklakas anstataŭe.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Grave:** Apple diras, ke Kraŝa Detekto kaj Krizaj Servoj ne disponeblas dum sesio de Gvidata Aliro. Ne lasu Gvidatan Aliron funkcii en telefono, kiun la persono eble bezonos por krizaj vokoj.
 
-### Android: app pinning
+### Android: apa alpinglado
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Laŭ la [helpo de Google pri alpinglado de ekranoj en Android](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Malfermu la apon **Agordoj**.
+2. Tuŝetu **Sekureco** (aŭ **Sekureco kaj loko**), poste **Altnivelaj**, poste **Apa alpinglado**. Se vi ne povas trovi ĝin, kontrolu la helpopaĝojn de via aparatproduktanto.
+3. Ŝaltu **Apa alpinglado**. Via PIN, desegno aŭ pasvorto estos bezonata por malalpingli.
+4. Malfermu la deziratan apon. Svingu supren al la mezo de la ekrano kaj tenu por malfermi Superrigardon (aŭ tuŝetu Superrigardon ĉe 3-butona navigado).
+5. Supre de la antaŭrigardo de la apo, tuŝetu la ikonon de la apo, poste tuŝetu **Alpingli**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Por malalpingli per gesta navigado, svingu supren kaj tenu. Per 3-butona navigado, tuŝu kaj tenu Reen kaj Superrigardon. Per 2-butona navigado, tuŝu kaj tenu Reen kaj Hejmon. Poste enigu vian PIN, desegnon aŭ pasvorton.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ĉu ekzistas pli simpla reĝimo por la tuta iPhone aŭ iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Jes. La Asista Aliro de Apple anstataŭigas la kutiman hejmekranon per pli simpla. [Apple priskribas ĝin](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) kiel pensitan por faciligi al homoj kun kognaj handikapoj uzi iPhone sendepende, kun pli grandaj ekranelementoj kaj pli fokusitaj funkcioj. Apple ofertas [la saman funkcion en iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Kiu agordas ĝin.** Apple sugestas, ke fidinda subtenanto, ekzemple familiano aŭ zorganto kiu konas la personon, helpu elekti la apojn kaj funkciojn.
+- **Kie komenci.** Iru al **Agordoj > Alirebleco > Asista Aliro**, tuŝetu **Agordi Asistan Aliron**, poste **Daŭrigi**.
+- **Apoj.** Vi elektas, kiuj apoj aperas. Iuj Apple-apoj havas specialajn simpligitajn versiojn, kaj plej multaj aliaj apoj povas esti aldonitaj en sia kutima aspekto.
+- **Aranĝo.** Elektu **Vicojn** (facile legebla listo) aŭ **Kradon** (pli grandaj elementoj, kiuj emfazas bildojn kaj ikonojn).
+- **Paskodo.** Vi agordas apartan paskodon por Asista Aliro por eniri, eliri aŭ ŝanĝi agordojn. Apple rekomendas agordi resaniĝan Apple-konton dum la agordo, ĉar sen ĝi, forgesita paskodo signifas reagordi la aparaton.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Asista Aliro povas taŭgi por iu, kiu uzas sian propran aparaton ĉiutage. Gvidata Aliro aŭ apa alpinglado estas pli rapidaj por komuna luda momento.
 
-## How do I make text and pictures bigger?
+## Kiel mi faras tekston kaj bildojn pli grandaj?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Pligrandigu la tekston kaj la ekranan grandecon, poste kontrolu, ke la butonoj ankoraŭ taŭgas sur la ekrano.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone kaj iPad.** Laŭ la [instrukcioj de Apple pri tipara grandeco](https://support.apple.com/en-us/102453), iru al **Agordoj > Ekrano kaj heleco > Teksta grandeco** kaj movu la glitilon. Por eĉ pli granda teksto, iru al **Agordoj > Alirebleco > Ekrano kaj teksta grandeco > Pli granda teksto**. Apple notas, ke tre granda teksto povas malfaciligi tuŝi iujn butonojn, do ĝustigu laŭbezone.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Laŭ la [helpo de Google pri tekstaj kaj ekranaj agordoj](https://support.google.com/accessibility/android/answer/11183305?hl=en), malfermu **Agordojn** kaj serĉu **Tipara grandeco**, poste movu la glitilon. Serĉu **Ekrana grandeco** por pligrandigi ĉion sur la ekrano. Vi ankaŭ povas ŝalti **Grasan tekston** sub **Alirebleco > Ekrana grandeco kaj teksto**. Iuj apoj ne sekvas ĉi tiujn agordojn.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+En ludoj kiel [Picture Pairs](/games/picture-pairs/) kaj [Find the Same](/games/find-the-same/) vi ankaŭ povas elekti malpli da kaheloj aŭ elektoj, kio tenas aferojn pli simplaj sur la ekrano.
 
-## How do I stop notifications and pop-ups?
+## Kiel mi haltigas sciigojn kaj ŝprucfenestrojn?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Malŝaltu sciigojn por apoj, kiujn vi ne bezonas, kaj uzu Ne Ĝenu dum agadoj.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone kaj iPad.** Iru al **Agordoj > Sciigoj**, tuŝetu apon sub **Sciiga stilo**, kaj malŝaltu **Permesi sciigojn** ([gvidilo de Apple pri sciigaj agordoj](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Por silentigi vokojn, atentigojn kaj sciigojn dum iom da tempo, malfermu Kontrolcentron kaj ŝaltu **Ne Ĝenu** per la butono **Fokuso** ([helpo de Apple pri Ne Ĝenu](https://support.apple.com/en-us/105112)). Vi povas plani ĝin sub **Agordoj > Fokuso > Ne Ĝenu > Agordi horaron**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Svingu malsupren de la supro de la ekrano kaj tuŝetu **Ne Ĝenu**, aŭ iru al **Agordoj > Reĝimoj > Ne Ĝenu** ([helpo de Google pri Ne Ĝenu](https://support.google.com/android/answer/9069335?hl=en)). Sub **Sciigaj filtriloj** vi povas elekti, kiuj homoj kaj apoj ankoraŭ povas trairi. Agordoj varias laŭ aparatproduktanto.
 
-## How do I make a simple home screen?
+## Kiel mi faras simplan hejmekranon?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Tenu kelkajn konatajn apojn sur unu ekrano kaj movu la ceterajn ekster vidon. Ne ekzistas unu sola agordo por tio; temas pri forigi malordon.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Elektu tri ĝis ses apojn.** Ekzemple fotojn, muzikon, videovokan apon kaj unu ludon.
+- **Metu ilin sur la unuan ekranon,** en la samaj lokoj ĉiufoje, kaj movu ĉion alian al dua ekrano aŭ dosierujo.
+- **Uzu simplan fonbildon kun alta kontrasto,** ekzemple unu koloron aŭ unu konatan foton, por ke ikonoj elstaru.
+- **Forigu apojn, kiujn vi ne bezonas.** Malpli da apoj signifas malpli da eblecoj por konfuzo kaj malpli da kolektitaj datumoj.
+- **Pripensu Asistan Aliron** en Apple-aparatoj, se vi volas, ke la aparato faru tion por vi.
 
-## What about volume and sound?
+## Kaj la laŭteco kaj sono?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Agordu komfortan laŭtecon antaŭ ol vi donas la aparaton. Per Gvidata Aliro vi povas malŝalti la laŭtecbutonojn, por ke ĝi ne ŝanĝiĝu meze de agado. Kontrolu, ke aŭdhelpiloj estas enmetitaj kaj funkcias.
 
-## Where should the tablet live?
+## Kie la tabuleto restu?
 
-Give it a stand and a permanent charging spot.
+Donu al ĝi starigilon kaj konstantan ŝarglokon.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Starigilo aŭ ujo**, kiu tenas la tabuleton rekte sur la tablo, signifas, ke neniu devas teni ĝin, kaj montri estas pli facile.
+- **Unu ŝargloko**, kiu neniam moviĝas, ideale ŝargstarigilo sur tablo en ĉambro, kiun vi uzas ĉiutage. La tabuleto estas ĉiam ŝargita kaj ĉiam en la sama loko.
+- **Reduktu brilon.** Metu la ekranon for de hela fenestro.
 
-## How much screen time is okay?
+## Kiom da ekrantempo estas bone?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ne ekzistas ĝusta nombro da minutoj. Celu mallongajn, komunajn momentojn kiel unu parton de plena tago, kiu ankaŭ inkluzivas movadon, muzikon, hejmajn taskojn, konversacion kaj tempon eksterdome. Ĉar okupitaj vesperoj povas aldoni al maltrankvilo pli malfrue en la tago, pripensu fari ekranaĝadojn pli frue en la tago. Vidu [trankvilajn agadojn por malfrua posttagmezo](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Uzi tabuleton kune, anstataŭ kiel anstataŭanton de prizorgado, tenas ĝin socia. Nia gvidilo pri [ludi kune](/caregiving/how-to-play-together/) klarigas kiel.
 
-## How do I protect their privacy on the device?
+## Kiel mi protektas ilian privatecon en la aparato?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Limigu tion, kion apoj povas kolekti, kaj ne supozu, ke leĝoj pri sanprivateco protektas tion. La Usona Ministerio pri Sano kaj Homaj Servoj (HHS) [klarigas](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), ke la reguloj HIPAA ĝenerale ne protektas saninformojn konservitajn en aŭ aliritajn per personaj telefonoj kaj tabuletoj. En plej multaj kazoj, HIPAA ankaŭ ne protektas datumojn enigitajn en apojn por persona uzo, krom se la apo venas de kovrita sanprovizanto, sanplano aŭ unu el iliaj komercaj partneroj.
 
-HHS suggests:
+HHS sugestas:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- eviti nenecesajn aŭ hazardajn apojn, precipe «senpagajn»;
+- ne doni al apoj aliron al loko, krom se ili vere bezonas ĝin, ekzemple mapoj.
 
-Also consider:
+Ankaŭ pripensu:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Uzu paskodon** en la aparato, kaj konservu noton pri ĝi ie sekure.
+- **Kontrolu permesojn** por fotoj, fotilo, mikrofono, kontaktoj kaj loko, kaj malŝaltu ĉion, kion apo ne bezonas.
+- **Kontrolu, kion apo kolektas** antaŭ ol instali. Nia gvidilo pri [elekti apojn kaj ludojn por demenco](/caregiving/choosing-apps-and-games/) havas kontroliston pri privateco.
+- **Estu singarda pri familiaj fotoj.** Kunhavigu nur fotojn, pri kiuj la persono sentus sin komforte, kaj sciu, kie apo konservas ilin. En [Photo Pairs](/games/photo-pairs/), la fotoj, kiujn vi elektas, restas en via retumilo.
+- **Malŝaltu aĉetojn en apoj** aŭ forigu paginformojn el kontoj, kiujn la persono uzas.

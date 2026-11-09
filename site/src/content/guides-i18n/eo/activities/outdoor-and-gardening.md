@@ -1,32 +1,32 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Eksteraj kaj ĝardenaj agadoj por homoj kun demenco"
+seoTitle: "Ĝardenado kaj eksteraj agadoj por demenco"
+description: "Ideoj pri ĝardenado kaj eksteraj agadoj por homoj vivantaj kun demenco, kun altaj bedoj, ujoj kaj konsiloj pri sekureco kontraŭ varmo, suno kaj vagado."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Ĝardenado kaj tempo eksterdome povas esti trankvila, konata agado por homo
+  vivanta kun demenco. Provu akvumi, planti herbojn en ujojn, forpreni velkintajn
+  florojn aŭ fari mallongan promenon en barita korto. Uzu altajn bedojn aŭ
+  tablon, por ke neniu devu genuiĝi, evitu akrajn ilojn kaj venenajn plantojn,
+  eliru en la pli malvarma parto de la tago, kaj ĉiam restu kun la persono.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Simplaj ĝardenaj taskoj kiel akvumado, plantado de semoj, flarado de herboj kaj kolektado de floroj povas esti farataj starante aŭ sidante."
+  - "Altaj bedoj, ujoj kaj kovrita tablo levas la ĝardenon ĝis talia alteco kaj malpliigas la riskon de faloj."
+  - "Evitu akrajn ilojn, dornajn aŭ iritajn plantojn kaj ĉion venenan. Atentu, ke grundo ne estu erare prenita kiel manĝaĵo."
+  - "Varmo povas esti danĝera por pli aĝaj plenkreskuloj. Eliru frue aŭ malfrue, kunportu akvon kaj ombron, kaj revenu internen ĉe la unua signo de malkomforto."
+  - "Multaj homoj vivantaj kun demenco iam vagas eksterdome. Restu kun la persono ekstere kaj havu pretajn freŝan foton kaj identigilon."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Kiujn ĝardenajn agadojn povas fari homo kun demenco?"
+    a: "Akvumado de plantoj, plantado de semoj en malgrandaj ujoj, flarado kaj tuŝado de herboj, forpreno de velkintaj floroj, kolektado de legomoj, aranĝado de tranĉitaj floroj kaj balado de vojeto estas ĉiuj bonaj elektoj. Interne bone funkcias herbujo sur fenestrobreto aŭ pleto da grundo sur kovrita tablo. Elektu la taskon laŭ tio, kion la persono ĝuis antaŭe kaj kion ĝi povas komforte fari nun."
+  - q: "Kiel mi povas teni sekura iun kun demenco en varmo?"
+    a: "Planu eksteran tempon por la pli malvarma frua mateno aŭ vespero, tenu ĝin mallonga, kaj ofte proponu akvon. Elektu ombron, larĝrandan ĉapelon, malpezajn vastajn vestaĵojn kaj sunŝirmilon. Pli aĝaj plenkreskuloj havas pli altan riskon de varmrilata malsano, kaj konfuzo, kapturno aŭ naŭzo povas esti avertaj signoj, do revenu internen kaj malvarmigu la personon tuj, se vi rimarkas ilin."
+  - q: "Kiel ni povas eliri eksterdomen, se la persono emas vagi?"
+    a: "Restu kun la persono la tutan tempon, uzu baritan korton aŭ ĝardenon kun fermebla pordeto, kaj certigu, ke la persono portas identigan braceleton aŭ havas identigilon ĉe si. Havu pretan freŝan foton. Se la persono malaperas, la Alzheimer's Association konsilas voki 112, se ĝi ne estas trovita ene de 15 minutoj."
+  - q: "Kio, se ni ne havas ĝardenon?"
+    a: "Kelkaj ujoj sur verando, fenestra florujo aŭ pleto da herboj sur la kuireja tablo sufiĉas. Vi ankaŭ povas viziti parkon, publikan ĝardenon aŭ komunan ĝardenon. Sidi eksterdome kaj aŭskulti birdojn ankaŭ estas ekstera agado."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +51,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Por multaj homoj la ĝardeno estas unu el la plej konataj lokoj. Fosado, akvumado kaj kolektado de floroj uzas kapablojn lernitajn antaŭ longe, kaj esti eksterdome alportas freŝan aeron, sunlumon kaj birdkanton. La National Institute on Aging mencias prizorgadon de plantoj, plantadon de floroj kaj legomoj, kaj [paroladon pri kiel la plantoj kreskas](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inter agadoj, kiujn homoj kun Alzheimer-malsano povas ĝui. Ĉi tiu paĝo klarigas, kion provi, kiel fari ĝardenon pli facile uzebla, kaj kiel resti sekura rilate al varmo, suno kaj vagado.
 
-## What outdoor and gardening activities work well?
+## Kiuj eksteraj kaj ĝardenaj agadoj bone funkcias?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+La plej bonaj taskoj estas simplaj, konataj kaj fareblaj starante aŭ sidante. Elektu laŭ tio, kion la persono kutimis ĝui.
 
-### In the garden
+### En la ĝardeno
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Akvumado.** Malgranda, malpeza akvumilo aŭ milda ŝprucilo kaj kelkaj ujoj facile atingeblaj. Akvumado havas klaran komencon kaj finon kaj estas malfacile fuŝebla.
+2. **Plantado de semoj en ujoj.** La Alzheimer's Foundation of America sugestas planti semojn en malgrandajn ujojn kaj [observi ilian kreskon](https://alzfdn.org/dementia-activity-gardening/). Grandaj semoj kiel faboj, sunfloroj aŭ pizoj estas pli facile manipuleblaj.
+3. **Forpreno de velkintaj floroj.** Forpinĉi velkintajn florojn permane estas milda, ripeta tasko. Elektu plantojn sen dornoj.
+4. **Kolektado de legomoj aŭ herboj.** Ĉeriztomatoj, faboj kaj herboj estas facile kolekteblaj kaj agrablaj por gustumi. Kunportu ilin internen por uzi dum tagmanĝo.
+5. **Flarado kaj tuŝado de herboj.** Rosmareno, mento kaj lavendo havas fortajn, agrablajn odorojn. Frotu folion inter la fingroj kaj pasigu ĝin.
+6. **Balado de vojeto aŭ teraso.** Malpeza balailo sur ebena, seka surfaco, se la ekvilibro estas stabila.
+7. **Plenigado de birdomanĝilo.** Poste sidu kune kaj rigardu, kiuj venas viziti.
 
-### Indoors, when going out is not possible
+### Interne, kiam eliri ne eblas
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Herboĝardeno sur fenestrobreto** kun bazilio, petroselo aŭ ŝenoprazo.
+- **Plantado sur kovrita tablo.** La AFA sugestas uzi pletojn kiel tiuj en manĝejoj por teni la grundon en unu loko kaj movi grundon per malgrandaj tasoj.
+- **Aranĝado de floroj** per tranĉitaj floroj kaj verdaĵoj el la ĝardeno aŭ vendejo.
+- **Premitaj floroj** el bukedo, poste gluitaj sur kartojn. Vidu [artojn kaj manfaradon](/activities/arts-and-crafts/) por pli da ideoj.
+- **Farado de lavendaj aŭ rozaj saketoj**, alia ideo de la AFA, kiu konservas la odoron de la ĝardeno interne.
 
-### Getting out and about
+### Eliri eksterdomen
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Mallonga promeno** ĉirkaŭ la dombloko, en parko aŭ ĝardencentro, malrapide kaj kun loko por sidi.
+- **Sidi eksterdome** sur verando aŭ benko por aŭskulti birdojn kaj senti la venteton. Ĉi tio estas kompleta agado per si mem.
+- **Vizitado de publika ĝardeno** en trankvila horo de la tago. La NHS rimarkas, ke kelkaj lokoj havas sensajn ĝardenojn kun odoraj plantoj, teksturoj kaj akvaj elementoj.
+- **Nutrado de anasoj aŭ observado de birdoj** ĉe loka lageto, tenante sekuran distancon de la akvobordo.
 
-## How do I make a garden easier to use?
+## Kiel mi povas fari ĝardenon pli facile uzebla?
 
-Bring the garden up to the person, not the other way around.
+Alportu la ĝardenon al la persono, ne inverse.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Altaj bedoj aŭ altaj plantujoj** proksimume je talia alteco signifas, ke ne necesas genuiĝi aŭ kliniĝi.
+- **Ujoj sur tablo** taŭgas por homoj, kiuj uzas rulseĝon aŭ preferas sidi.
+- **Larĝaj, ebenaj vojoj** sen lozaj ŝtonoj aŭ ŝpructuboj trans ili malpliigas la riskon de stumbloj.
+- **Seĝoj kun apogiloj kaj ombro** laŭlonge de la vojo, por ke ripozo ĉiam estu eblo.
+- **Iloj kun dikaj, molaj teniloj**, kiuj estas facile preneblaj. Ne uzu pritranĉilojn, tranĉilojn aŭ ion ajn akran.
+- **Barita areo kun fermebla pordeto**, kiun la persono povas libere esplori dum vi restas proksime.
 
-## Which plants should I avoid?
+## Kiujn plantojn mi evitu?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Elektu plantojn, kiuj estas sekuraj por tuŝi kaj, se eble, sekuraj se ili estas gustumitaj. La AFA konsilas uzi plantojn, kiuj kutime ne iritas la haŭton, kontroli alergiojn kaj atente observi iun ajn, kiu povus erare preni grundon kiel manĝaĵon. La hejma sekureca konsilo de la NIA inkluzivas forigon aŭ ŝlosadon de venenaj plantoj.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Evitu dornajn rozojn, kaktojn kaj plantojn kun suko, kiu iritas la haŭton.
+- Se vi ne certas pri planto, kontrolu ĝin ĉe venenkontrola centro aŭ loka ĝardencentro antaŭ ol planti.
+- Konataj favoratoj povas revenigi agrablajn sentojn. La AFA mencias rozojn kaj kristnaskan kaktuson kiel ekzemplojn. Elektu sen-dornajn specojn.
+- Tenu sterkojn, pesticidojn kaj herbicidojn ŝlositaj, kaj ne uzu ilin en lokoj, kiujn la persono povas atingi.
 
-## How do I stay safe in the heat and sun?
+## Kiel mi povas resti sekura en varmo kaj suno?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planu eksteran tempon laŭ la vetero. La NIA klarigas, ke pli aĝaj plenkreskuloj havas pli altan riskon de [varmrilata malsano](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), parte ĉar la korpo malpli bone adaptiĝas al temperaturaj ŝanĝoj kaj kelkaj medikamentoj influas, kiel la korpo traktas varmon.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Eliru frue aŭ malfrue.** Evitu la mezon de la tago en varmaj monatoj. Kontrolu la varmeckvanton, ne nur la temperaturon.
+- **Ofte proponu akvon.** Ne atendu, ke la persono diru, ke ĝi soifas. Evitu alkoholon kaj trinkaĵojn kun kafeino en varmo.
+- **Vestu konvene.** Helkoloraj, vastaj vestaĵoj, larĝranda ĉapelo kaj sunokulvitroj.
+- **Uzu sunŝirmilon.** La NIA rekomendas larĝspektran SPF 15 aŭ pli altan, reaplikitan dum la tago.
+- **Elektu ombron.** Metu la plantan tablon sub arbon aŭ ombrelon.
+- **Tenu ĝin mallonga.** Mallonga tempo ekstere povas esti sufiĉa, precipe en varmaj tagoj.
+- **Atentu avertajn signojn.** La NIA mencias kapdoloron, konfuzon, kapturnon aŭ naŭzon kiel eblajn signojn de varmrilata malsano. Homo kun demenco eble ne diros al vi, ke ĝi sentas sin malbone, do observu ĝian vizaĝon kaj konduton. Revenu internen, malvarmigu per akvo kaj malvarma tuko, kaj serĉu medicinan helpon, se la stato ne pliboniĝas rapide. Varmobato, kun signoj kiel sveno, konfuzo aŭ seka, ruĝa haŭto, estas medicina urĝo: voku 112.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Malvarma vetero ankaŭ gravas. En vintro tenu eksteran tempon mallonga kaj certigu, ke manoj kaj piedoj restas varmaj kaj sekaj.
 
-## How do I handle wandering when we go outside?
+## Kiel mi povas trakti vagadon, kiam ni estas eksterdome?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Restu kun la persono ĉiam, kiam ĝi estas eksterdome. La Alzheimer's Association diras, ke [6 el 10 homoj vivantaj kun demenco](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) iam vagos almenaŭ unufoje, kaj multaj faras tion pli ol unufoje. Tio povas okazi en ajna stadio.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+La [konsiloj de la NIA pri vagado kaj perdiĝo](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) inkluzivas:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Certigu, ke la persono portas identigilon aŭ medicinan braceleton kun sia nomo, adreso kaj via telefonnumero, aŭ marku ĝiajn vestaĵojn.
+- Havu pretan freŝan foton aŭ filmeton de la persono.
+- Sciigu najbarojn, ke la persono povas vagi.
+- Sekurigu la korton per barilo kaj ŝlosita pordeto.
+- Ne lasu sen prizorgo iun, kiu jam vagis antaŭe.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+La Alzheimer's Association ankaŭ sugestas krei internajn kaj eksterajn areojn, kiujn eblas sekure esplori, kaj plani agadojn por la horo de la tago, kiam maltrankvilo estas plej verŝajna. Promeno en sekura, fermita ĝardeno povas bone taŭgi por maltrankvilo en la malfrua tago. Vidu nian gvidilon pri [maltrankvilo en la malfrua tago](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Se la persono malaperas, la Alzheimer's Association konsilas tuj serĉi en la proksima areo kaj voki 112, se ĝi ne estas trovita ene de 15 minutoj. Diru al la polico, ke la persono havas demencon.
 
-## How do I adapt gardening as things change?
+## Kiel mi povas adapti ĝardenadon, kiam aferoj ŝanĝiĝas?
 
-| If this has become hard | Try this instead |
+| Se tio fariĝis malfacila | Provu ĉi tion anstataŭe |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Plantado de tuta bedo | Plantado de unu semo en unu ujo |
+| Sarkado (distingi fiherbojn de plantoj) | Akvumado, aŭ forpreno de klare velkintaj floroj |
+| Promenado tra la ĝardeno | Sidado ĉe tablo kun pleto da grundo kaj planto |
+| Eliri eksterdomen | Herbujo sur la kuireja tablo, aŭ seĝo ĉe malfermita fenestro |
+| Fari ajnan taskon | Sidi kune eksterdome, aŭskulti kaj rigardi |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Kelkaj homoj preferas rigardi vin labori. La NIA rimarkas, ke lasi la personon simple rigardi estas bone, se tio estas, kion ĝi ĝuas.
 
-## When should we head inside?
+## Kiam ni revenu internen?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Revenu internen, kiam la persono aspektas laca, varma, malvarma, malkomforta aŭ preta fini. Mallonga, agrabla dek minutoj estas pli bona ol longa posttagmezo, kiu finiĝas per maltrankvilo. Fini frue estas bona rezulto.
 
-## Bring the garden indoors on screen
+## Alportu la ĝardenon internen sur la ekrano
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+En pluvaj tagoj, [Sort Together](/games/sort-together/) havas ĝardenan korbon por ordigi bildojn, kaj [Conversation Cards](/games/conversation-cards/) inkluzivas malfermajn demandojn, kiuj povas konduki al ĝardenaj rakontoj. Se vi revenas el la varmo sentante urĝon, [Calm Breathing](/games/calm-breathing/) ofertas malrapidan, trankvilan paŭzon, kiun vi povas dividi. Por pli da ideoj bazitaj sur tuŝo, flaro kaj sono, vidu nian [gvidilon pri sensaj agadoj](/activities/sensory/).

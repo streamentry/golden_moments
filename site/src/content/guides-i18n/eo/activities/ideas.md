@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Agadoj por homoj kun demenco: 101 simplaj ideoj"
+seoTitle: "Ideoj pri demencaj agadoj: 101 simplaj agadoj"
+description: "101 simplaj, plenkreskulaj agadoj por homoj vivantaj kun demenco, de faldado de mantukoj ĝis muziko kaj fotoj, kun konsiloj kiel adapti ĉiun."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Bonaj agadoj por homoj kun demenco estas konataj, plenkreskulaj kaj facile
+  fareblaj kune: faldi lavitaĵojn, ordigi, kuiri, aŭskulti muzikon, rigardi
+  fotojn, promeni, ĝardenumi, pasigi tempon kun dorlotbestoj kaj ludi simplajn
+  ludojn. Elektu tion, kion la persono ĉiam ĝuis, transprenu la malfacilajn
+  partojn kaj haltu, kiam la persono laciĝas. Agrabla tempo kune gravas pli ol
+  fini ion ajn.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Komencu de la propra vivo de la persono: ilia laboro, ŝatokupoj, kredo kaj plej ŝatata muziko estas la plej bona gvidilo."
+  - "Faru ĉiun agadon pli malgranda laŭbezone: malpli da paŝoj, malpli da elektoj, vi faras la malfacilan parton."
+  - "Rigardi, teni ion aŭ simple sidi proksime ankaŭ estas partopreno."
+  - "Haltu aŭ ŝanĝu, kiam vi rimarkas lacecon, ĉagrenon aŭ enuon. Fini pli frue estas bona rezulto."
+  - "Fari tion kune gravas pli ol fari tion ĝuste."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Kiuj agadoj taŭgas por iu kun demenco?"
+    a: "Konataj agadoj, kiujn la persono faris dum jaroj, iom simpligitaj: faldi lavitaĵojn, pretigi la tablon, kuiri, aŭskulti muzikon, rigardi fotojn, promeni, ĝardenumi kaj pasigi tempon kun dorlotbesto. Elektu aferojn, kiuj sentas sin plenkreskulaj kaj utilaj, kaj faru ilin kune."
+  - q: "Kiel longe daŭru agado?"
+    a: "Ne ekzistas ĝusta daŭro. Kelkaj minutoj da faldado de mantukoj povas esti sufiĉaj unu tagon, kaj horo en la ĝardeno povas sentiĝi facila alian tagon. Lasu la personon elekti la ritmon kaj finu, dum ĝi ankoraŭ sentas sin agrabla."
+  - q: "Kio, se la persono rifuzas fari agadon?"
+    a: "Ne insistu. „Ne“ povas signifi, ke la tasko sentas sin tro malfacila, ke la momento ne taŭgas, aŭ ke la persono estas laca aŭ sentas sin malkomforte. Provu poste, proponu pli malgrandan version, aŭ komencu la taskon mem proksime kaj invitu la personon helpi."
+  - q: "Ĉu cerboludoj taŭgas por homoj kun demenco?"
+    a: "Ludoj povas esti agrabla maniero pasigi tempon kune, sed neniu ludo pruviĝis trakti, malrapidigi aŭ haltigi demencon. Elektu ludojn sen tempomezurilo, poentoj aŭ sonoj pri malĝusta respondo, kaj rigardu ilin kiel komunan agadon, ne kiel teston."
+  - q: "Kiel mi povas eviti, ke agadoj sentu sin infanecaj?"
+    a: "Uzu verajn, plenkreskulajn materialojn: verajn mantukojn, verajn receptojn, plenkreskulan muzikon kaj artmaterialojn, kaj bildojn kun plenkreskulaj temoj. Prezentu taskojn kiel helpon, kiun vi vere bezonas, kaj parolu al la persono kiel al la plenkreskulo, kiu li aŭ ŝi estas."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+La plej bona agado por persono vivanta kun demenco estas kutime io, kion la persono jam scias fari, iom simpligita kaj farata kune kun iu, kiun li aŭ ŝi fidas. Malsupre estas 101 ideoj, grupigitaj laŭ tipo, ĉiu kun klarigo pri kiel pretigi ĝin kaj kiel faciligi ĝin, kiam ĝi fariĝas pli malfacila. Vi ne bezonas specialan ekipaĵon, kaj vi ne bezonas fini ion ajn. Bona posttagmezo povas esti unu korbo da mantukoj kaj taso da kafo kune.
 
-## How do you choose the right activity?
+## Kiel vi elektas la ĝustan agadon?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Elektu laŭ la persono, ne laŭ la listo: komencu per tio, kion la persono ĉiam ĝuis kaj kion li aŭ ŝi povas komforte fari hodiaŭ.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Pensu pri ilia laboro kaj ŝatokupoj.** La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sugestas, ke iama oficeja laboristo povas ĝui ordigi monerojn aŭ prepari leterojn, kaj ĝardenisto povas ĝui laboron en la ĝardeno.
+- **Rimarku, kion la persono jam faras.** Se via patro balaas la verandon ĉiumatene sen peto, enmetu tion en la tagon.
+- **Planu laŭ limoj.** Laceco, vidado, aŭdado, doloraj manoj kaj ekvilibro ĉiuj gravas.
+- **Observu ilian humoron.** Viglaj, bruaj agadoj taŭgas por iuj homoj kaj timigas aliajn.
+- **Donu al ĝi celon.** Faldi buŝtukojn por komuna manĝo sentas sin pli valora ol ekzerco farata nur pro si mem.
 
-### A rough guide by stage
+### Proksimuma gvidilo laŭ stadio
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Demenco ofte estas priskribata en frua, meza kaj malfrua stadioj. Tiuj estas larĝaj nomoj, ne fiksaj kadroj, kaj multaj homoj havas pli bonajn kaj pli malfacilajn tagojn, do rigardu tion, kion vi vidas hodiaŭ. La [listo de Alzheimer's Foundation of America laŭ stadio](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) sekvas similan modelon.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Temo | Frua stadio | Meza stadio | Malfrua stadio |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Kion vi povas rimarki | Plejparte sendependa; planado, novaj nomoj kaj plenaj lokoj fariĝas pli malfacilaj | Bezonas helpon por komenci kaj por paŝoj; vortoj venas malpli facile | Bezonas helpon pri plej multaj ĉiutagaj zorgoj; la sentoj plej gravas |
+| Agadoj, kiuj ofte taŭgas | Kartludoj, tabulludoj, kuirado, ĝardenumado, taglibro, eliroj, grupoj | Faldi lavitaĵojn, ordigi, simplaj kuiradaj paŝoj, kanti, fotalbumoj, gvidataj promenoj | Plej ŝatata muziko, manmasaĝo, molaj aĵoj por teni, legado, sido ekstere |
+| Via rolo | Partnero: demandu, kian subtenon la persono volas | Pretigu, montru, transprenu la malfacilajn partojn | Alportu la agadon al la persono; via ĉeesto estas la agado |
+| Pli da ideoj | [Frua stadio](/activities/early-stage/) | [Meza stadio](/activities/middle-stage/) | [Malfrua stadio](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Kiel vi komencas agadon kun iu, kiu havas demencon?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Komencu malgrande, komencu apud la persono, kaj faru facile diri jes. Multaj homoj ankoraŭ volas partopreni, sed trovas malfacile plani aŭ komenci.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Elektu ilian plej bonan tempon,** ofte la mateno.
+2. **Pretigu ĉion antaŭe,** por ke vi povu komenci tuj.
+3. **Petu helpon, ne prezenton:** „Ĉu vi povus helpi min pri ĉi tio?“
+4. **Komencu mem.** Faldu la unuan mantukon kaj lasu la personon aliĝi. Montri ofte helpas pli ol klarigi.
+5. **Proponu unu paŝon post alia.**
+6. **Transprenu la plej malfacilan parton.** La Alzheimer's Association sugestas mezuri ingrediencojn mem kaj poste doni la kuleren por kirli.
+7. **Lasu ĝin esti farita laŭ ilia maniero.** Malsame falditaj mantukoj estas tute bone.
+8. **Haltu, kiam ĝi ne plu estas agrabla.** Movetiĝo, sulkita frunto aŭ „Mi ne povas“ estas signoj por ŝanĝi aŭ ripozi.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Vidu ankaŭ [kiel ludi kune](/caregiving/how-to-play-together/) kaj [konsiloj pri komunikado](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Ĉiutagaj taskoj hejme
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Hejmaj laboroj estas konataj kaj utilaj, do ili estas natura loko por komenci. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) listigas lavado de manĝilaro, pretigon de la tablo, baladon, ordigon de poŝtaĵoj kaj faldadon de lavitaĵoj inter agadoj, kiujn homoj povas ĝui. Pli en [hejmaj taskoj](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Faldu varmajn mantukojn.** Metu korbon el la sekigilo sur la tablon kaj faldu flanke apud flanko. Poste, glatigi kaj stakigi estas same helpa.
+2. **Parigu ŝtrumpetojn.** Komencu per tre malsamaj koloroj. Poste, ordigi helajn kaj malhelajn estas sufiĉe.
+3. **Pretigu la tablon.** Donu unu specon de objekto post alia. Pretigu unu lokon mem kiel modelon.
+4. **Lavu aŭ sekigu manĝilaron.** Varma, sapa akvo kaj nerompiĝema manĝilaro. Sekigi sidante estas pli facila por la kruroj.
+5. **Viŝu la tablon.** Donu malsekan tukon post manĝoj. Ĝi estas vera laboro por maltrankvilaj manoj.
+6. **Ordigu la poŝtaĵojn.** Katalogojn kaj reklamaĵojn en „konservi“ kaj „recikli“. Gardu verajn fakturojn flanke.
+7. **Tondetu kuponojn.** Rondpintaj tondiloj kaj vendejaj reklamiloj. Poste, ĉirkaŭi plej ŝatatajn manĝaĵojn ankaŭ taŭgas.
+8. **Ordigu monerojn.** Ordigu monerojn en tasojn aŭ en volvpaperon. Evitu malgrandajn objektojn, se la persono metas aferojn en la buŝon.
+9. **Balau aŭ polvu.** Malpeza balailo sur la verando, aŭ longa polvilo uzata de seĝo.
+10. **Helpu prepari manĝon.** Lavi legomojn, ŝiri laktukon, kirli. Vi zorgu pri tranĉiloj kaj varmo.
+11. **Baku familian recepton.** Uzu la karton en ilia manskribo, se vi havas ĝin. Poste, la persono povas esti la gustumanto.
+12. **Faru oficecan laboron.** Faldi leterojn, enmeti kaj stampi kovertojn, aŭ skribi la aĉetliston kune.
 
-## Music
+## Muziko
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Konata muziko povas atingi homojn eĉ kiam vortoj estas malfacilaj. La [konsiloj pri muziko de Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) sugestas konatajn kantojn, sen reklamaĵoj kaj kun la televido malŝaltita. Vidu [muzikajn agadojn](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Kreu personan ludliston.** Muziko el iliaj adoleskaj jaroj kaj dudekaj jaroj, el ilia geedziĝo, el ilia kreda komunumo kaj el ilia kulturo.
+14. **Kantu kune.** Komencu kanti mem. Zumado aŭ aŭskultado ankaŭ estas partopreno.
+15. **Tenu la ritmon.** Aplaŭdu, frapu la genuojn aŭ ludu manan tamburon. Tio funkcias sidante kaj en pli malfruaj stadioj.
+16. **Dancu.** Malrapida danco en la kuirejo, aŭ balanciĝi sidante dum vi tenas manojn.
+17. **Aŭskultu tutan albumon.** Plej ŝatata albumo de komenco ĝis fino, kun kafo kaj sen aliaj aferoj samtempe.
+18. **Parolu pri la muziko.** Invitu rakontojn, ne faktojn: „Rakontu al mi pri la dancoj, al kiuj vi iris.“
+19. **Spektu filmitan muzikteatraĵon aŭ koncerton.** Spektaklo, kiun la persono amis, povas esti bona vespero. Paŭzigu iam ajn.
+20. **Ludu konatan instrumenton.** Iama pianisto povas ĝui simplajn pecojn; poste, kelkaj notoj kune.
+21. **Aŭskultu vivan muzikon.** Mallonga komunuma koncerto aŭ ĥora provludo. Sidu proksime al la elirejo.
 
-## Reminiscence: photos, objects and stories
+## Memoroj: fotoj, objektoj kaj rakontoj
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Ĝuu la pasintecon kune sen testi ĝin. Evitu „Ĉu vi memoras...?“ kaj „Kiu estas ĉi tiu?“ kaj uzu malfermajn invitojn anstataŭe. Vidu [memoragadojn](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Rigardu fotalbumon.** Diru, kion vi vidas: „Kia robo. Rakontu al mi pri ĉi tiu tago.“ Akceptu la nomojn, kiujn la persono uzas.
+23. **Faru memorkeston.** Ŝskatolo kun aferoj el ilia vivo, ekzemple laborinsigno aŭ receptkarto. Elprenu objektojn unu post alia.
+24. **Komencu vivrakontan libron.** Kelkaj fotoj sur ĉiu paĝo kun grandaj klarigoj. Ĝi povas helpi novajn helpantojn koni la personon.
+25. **Uzu konversaciajn kartojn.** [Konversaciaj kartoj](/games/conversation-cards/) kunigas bildon kun malferma demando.
+26. **Faru familian fotoludon.** [Fotoparoj](/games/photo-pairs/) faras el viaj propraj fotoj kongruigan ludon.
+27. **Spektu hejmajn filmetojn aŭ malnovajn televidaĵojn.** Komentu kune anstataŭ demandi.
+28. **Tenu objektojn el ilia laborvivo.** Ŝraŭbŝlosilo, stetoskopo, kontlibro. La manoj ofte gvidas la rakonton.
+29. **Kuiri infanaĝan manĝaĵon.** La persono povas kirli, gustumi aŭ simple sidi kun vi en la kuirejo.
+30. **Rigardu mapon de lokoj, kie la persono vivis.** Sekvu konatajn vojojn en granda atlaso dum vi parolas.
 
-## Creative activities
+## Kreemaj agadoj
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Arto temas pri farado, ne pri la fina rezulto. Uzu materialojn, kiuj estas plenkreskulaj kaj sekuraj. Vidu [artojn kaj manlaborojn](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Pentru per akvareloj.** Dika papero, kelkaj koloroj. Se komenci estas malfacile, gvidu la unuajn strekojn kune.
+32. **Kolorigu plenkreskulajn desegnaĵojn.** Floroj aŭ stebkovraĵoj, ne bildstrioj. Niaj [kolorigaj paĝoj](/games/coloring/) funkcias surekrane aŭ presite.
+33. **Faru kolaĝon.** Ŝiru bildojn el gazetoj pri ĝardenoj, aŭtoj aŭ manĝaĵoj kaj gluu ilin. Poste, nur elekti bildojn estas sufiĉe.
+34. **Aranĝu florojn.** Bukedo el vendejo kaj vazo. Poste, kelkaj tigoj en kruĉeto.
+35. **Triku aŭ kroĉetu kune.** Simplaj vicoj per grandaj nadloj. Poste, volvi lanon en bulojn.
+36. **Faru kartojn por familio.** Stampu, subskribu aŭ ornamu naskiĝtagajn kaj bondezirajn kartojn por veraj homoj.
+37. **Formu aersekiĝantan argilon.** Premu malgrandan telereton. Uzu netoksajn materialojn kaj restu proksime.
+38. **Sablumu kaj finpretigu lignon.** Antaŭtranĉita birdodoma kompleto kaj sablopapero, sen elektraj iloj. Vidu [agadojn por viroj](/activities/for-men/).
+39. **Skribu aŭ diktu leteron.** Al nepo, nepino aŭ malnova amiko. Se skribi estas malfacile, la persono parolas kaj vi skribas.
 
-## Outdoors and gardening
+## Ekstere kaj ĝardenado
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Freŝa aero kaj taga lumo estas bona kompanio. Vidu [eksterajn kaj ĝardenajn agadojn](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Akvumu plantojn.** Malgranda akvujo kaj kelkaj potoj. Ĉiutaga akvumado donas ritmon al la tago.
+41. **Plantu poton.** Metu ĝin sur tablon, por ke neniu genuu. Plantidoj estas pli facilaj ol semoj.
+42. **Sarku aŭ forigu velkintajn florojn.** Kun gantoj, unu malgranda bedo post alia.
+43. **Rastumu foliojn.** Unu malgranda areo. Poste, teni la sakon malfermita estas vera laboro.
+44. **Promenu konatan vojon.** Ĉirkaŭ la dombloko aŭ al la leterkesto. Pli mallonga estas tute bone.
+45. **Sidu ekstere kune.** Seĝo sur verando en milda tago. Rigardu nubojn aŭ preterpasantojn.
+46. **Nutru la birdojn.** Plenigu birdomanĝejon kune kaj rigardu de fenestra seĝo.
+47. **Lavu la aŭton.** Sitelo, spongo, varma posttagmezo. Lavado de radkapoj estas bona unu-paŝa laboro.
 
-## Sensory activities
+## Sentaj agadoj
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Tuŝo, flaro, gusto, sono kaj vido gravas pli, kiam demenco progresas. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mencias muzikon, objektojn por teni kaj manmasaĝon por pli malfruaj stadioj. Kontrolu alergiojn kaj riskojn de sufokiĝo antaŭe; vidu [sentajn agadojn](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Donu manmasaĝon.** Demandu antaŭe kaj uzu iom da lotio. Elektu senodoran lotion, se vi ne certas pri haŭto aŭ alergioj.
+49. **Senti ŝtofojn.** Korbo kun veluro, kordurojo, lano kaj sateno por karesi kaj faldi.
+50. **Flari herbojn kaj kafon.** Frotu freŝan menton aŭ rosmarenon inter la fingroj. Evitu fortajn odorojn, se estas spirproblemoj.
+51. **Brosu iliajn harojn.** Malrapide kaj milde, se al la persono plaĉas.
+52. **Dividu varman lavtukon.** Por manoj kaj vizaĝo en malvarma tago. Testu la temperaturon antaŭe.
+53. **Esploru agadan antaŭtukon.** Grandaj butonoj kaj zipoj firme kudritaj. Kontrolu, ke nenio povas malfiksiĝi.
+54. **Gustu plej ŝatatan dolĉaĵon.** Malgranda kulero, en teksturo, kiun la persono povas sekure manĝi.
+55. **Ludu natursonojn.** Pluvo, ondoj aŭ birdokanto je malalta laŭteco.
+56. **Rigardu ion malrapidan.** Fiŝujo, naturfilmeto aŭ falanta neĝo.
 
-## Games and puzzles
+## Ludoj kaj puzloj
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Ludoj funkcias, kiam ne estas tempomezurilo, poentoj aŭ premo. Se ludo komencas sentiĝi kiel testo, formetu ĝin. Vidu [kiel elekti apojn kaj ludojn](/caregiving/choosing-apps-and-games/) kaj [cerboludojn](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Kongruigu bildojn.** [Bildoparoj](/games/picture-pairs/) permesas, ke bildoj restu supren, do temas pri rimarkado, ne pri memorado.
+58. **Trovu la saman bildon.** [Trovu la saman](/games/find-the-same/) proponas du ĝis kvar elektojn. Parolu pri ĉiu bildo.
+59. **Ordigu en korbojn.** [Ordigu kune](/games/sort-together/) similas al ordigo de ŝtrumpetoj surekrane.
+60. **Faru puzlon kun grandaj pecoj.** Plenkreskulaj bildoj, facila nombro da pecoj. [Bildopuzlo](/games/picture-puzzle/) tenas la tutan bildon videbla. Pli en [puzloj por demenco](/activities/puzzles/).
+61. **Ludu malnovan kartludon.** Tion, kion la persono ludis dum jaroj. Poste, ordigi la kartaron laŭ koloro mem estas ludo.
+62. **Ludu domenojn.** Kongruigu la finojn. Poste, simple vicigi la pecojn estas tute bone.
+63. **Provu vortserĉon kun granda preso.** Nia [vortserĉo](/games/word-search/) havas vortojn nur horizontale kaj vertikale, kaj oni povas presi ĝin.
+64. **Finu konatajn diraĵojn.** [Finu la diraĵon](/games/finish-the-saying/) permesas montri la finon iam ajn.
+65. **Ludu bildan bingo.** [Bilda bingo](/games/picture-bingo/) taŭgas por familioj kaj grupoj. Helpu marki kartojn libere.
+66. **Ludu damludon.** Tenu la regulojn malstriktaj. Movi pecojn dum vi babilas ankaŭ estas partopreno.
 
-## Movement
+## Movado
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+La NIA sugestas promenojn, senmovan biciklon, streĉajn bendojn, ĵetadon de mola pilko aŭ balono, levadon de supskatoloj kaj ekzercfilmetojn por pli aĝaj plenkreskuloj. Konsultu kuraciston antaŭ ol komenci ion novan, precipe se estas problemoj pri ekvilibro.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Ĵetu balonon.** Sidu unu fronte al la alia. Ĝi moviĝas malrapide, do estas facile kapti ĝin.
+68. **Sekvu sidantan ekzercfilmeton** faritan por pli aĝaj plenkreskuloj, unu apud la alia.
+69. **Streĉu per bendo.** Mildaj braktiroj per malpeza bendo sidante.
+70. **Levu supskatolojn.** Malrapidaj braklevoj, eble laŭ muziko.
+71. **Veturu per senmova biciklo.** Kelkaj facilaj minutoj, kun vi proksime.
+72. **Dancu per tukoj.** Svingu malpezajn tukojn laŭ muziko, sidante aŭ starante.
+73. **Promenu kun celo.** Por sendi leteron aŭ aĉeti kafon. Kialo por iri sentas sin natura.
+74. **Dividu spiran paŭzon.** Malrapidigu kune per [trankvila spirado](/games/calm-breathing/).
 
-## Social activities
+## Sociaj agadoj
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Kompanio gravas eĉ kiam nomoj estas malfacilaj, kaj malgrandaj grupoj estas pli facilaj ol grandaj. La NIA rimarkas, ke persono eble ne memoras, kiu vizitanto estas, sed ofte ankoraŭ ĝuas la kompanion. Vidu [vizitojn](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Havu unu aŭ du vizitantojn samtempe.** Mallongaj vizitoj en trankvila ĉambro, kun fotoj por rigardi.
+76. **Videovoku familion.** Mallongaj vokoj, unu voĉo samtempe. Vidu [telefonajn kaj videovokojn](/activities/phone-and-video-calls/).
+77. **Provu memorkafejon.** Neformalaj renkontiĝoj por homoj vivantaj kun demenco kaj iliaj prizorgantoj. Demandu ĉe lokaj servoj por pli aĝuloj, kio haveblas proksime.
+78. **Manĝu ekstere en trankvila horo.** La NIA sugestas konatan, trankvilan restoracion ekster la plej okupataj horoj, kun tablo proksime al la necesejo.
+79. **Vizitu pli-aĝulan centron aŭ tagan programon.** Kompanio por la persono kaj paŭzo por vi.
+80. **Pasigu tempon kun infanoj.** Mallonga, trankvila vizito de nepoj, aŭ legado de bildlibro al infaneto.
+81. **Dividu la gazeton kun kafo.** Laŭtlegu titolojn. La kutimo gravas pli ol la novaĵoj.
+82. **Helpu iun alian.** Faldi programojn por komunuma evento aŭ fari karton por najbaro.
 
-## Faith and spiritual activities
+## Kredaj kaj spiritaj agadoj
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Sekvu la propran tradicion de la persono, aŭ neniun. La NIA sugestas konatajn diservojn, legadojn, sanktan muzikon, preĝon, meditadon kaj festajn kutimojn.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Partoprenu konatan diservon.** Elektu pli trankvilan, sidu proksime al la koridoro, kaj informu homojn tie pri la demenco.
+84. **Spektu diservon interrete** en tagoj, kiam eliri estas tro multe.
+85. **Preĝu aŭ legu kune.** Konataj vortoj, legataj malrapide. La persono eble aliĝas ĉe partoj, kiujn li aŭ ŝi konas.
+86. **Kantu himnojn aŭ sanktan muzikon** el ilia tradicio.
+87. **Konservu festajn kutimojn.** Bateriaj kandeloj, beno, la ornamaĵoj, kiujn la persono ĉiam uzis.
+88. **Dividu trankvilan tempon.** Sidu en ĝardeno aŭ rigardu la sunsubiron kune.
 
-## Pets and animals
+## Dorlotbestoj kaj aliaj bestoj
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+La NIA sugestas nutri, brosi, promenigi, aŭ sidi kun kaj teni dorlotbeston.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Brosu trankvilan hundon aŭ katon** per longaj, malrapidaj movoj.
+90. **Nutru la dorlotbeston kune.** Vi mezuras; la persono verŝas.
+91. **Promenigu la hundon kune.** Vi tenas la kondukŝnuron.
+92. **Tenu dorlotbeston sur la sino.** Trankvila kato sur kovrilo povas esti tre trankviliga.
+93. **Akceptu vizitantajn bestojn.** Iuj zorghejmoj kaj tagaj programoj gastigas bestovizitojn. Demandu loke.
+94. **Proponu vivsimilan molan beston.** Se ne estas dorlotbesto, iuj homoj ĝuas teni realisman pluŝan katon aŭ hundon. Proponu ĝin simple, neniam kiel ludilon, kaj akceptu „ne“.
 
-## Seasonal activities
+## Sezonaj agadoj
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Konservu tradiciojn, sed pli simple. La NIA sugestas esti realisma kaj havi trankvilan lokon por paŭzoj dum okupaj festoj.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Ornamu laŭ la sezono.** Kukurbo, florkrono aŭ freŝaj floroj sur la tablo.
+96. **Faru festan manĝaĵeton.** Ruligi paston aŭ glazuri kuketojn. Vi zorgu pri la forno.
+97. **Pendigu ornamaĵojn.** Nerompiĝemaj ornamaĵoj, donitaj unu post alia.
+98. **Veturigu por vidi lumojn.** Mallonga vespera veturo petas nur kompanion.
+99. **Plantu printempajn bulbojn.** Premu bulbojn en poton aŭtune kaj observu la burĝonojn.
+100. **Senŝeligu maizon aŭ pizojn.** Somera laboro sur la verando kun bovlo sur la sino.
+101. **Pretigu festajn kartojn.** La persono subskribas, stampas aŭ sigelas; vi zorgas pri adresoj.
 
-## What if an activity is not working?
+## Kio, se agado ne funkcias?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Haltu, kaj provu ion alian alian fojon. La NIA sugestas observi ĉagrenon kaj lasi la personon simple rigardi, se la persono tion preferas. „Ne“ ofte signifas, ke la tasko estas tro malfacila, ke la tempo ne taŭgas, aŭ ke io alia ĝenas, ekzemple doloro, malsato aŭ bruo. Faru ĝin pli malgranda, provu pli frue en la tago, aŭ komencu mem kaj vidu, ĉu la persono aliĝas. Vidu [kiam ili diras ne](/caregiving/when-they-say-no/) kaj [maltrankvilo en malfrua tago](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Por meti agadojn inter manĝojn kaj ripozon, vidu [mildan tagan rutinon](/activities/daily-routine/). Por aferoj pretaj por uzo, vidu [preseblajn agadojn](/activities/printable/), kaj se vi gvidas grupon, [grupajn agadojn en zorghejmo](/activities/care-home-groups/). Via propra ripozo ankaŭ gravas: vidu [memzorgon por prizorgantoj](/caregiving/caregiver-self-care/).

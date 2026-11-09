@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Ale si nàwɔ fefewo kple ame si le dementia me"
+seoTitle: "Ale si nàwɔ fefewo kple ame si le dementia me"
+description: "Mɔfiame si kpena ɖe ŋuwò be nàwɔ fefewo kple ame si le dementia me: dzadzraɖo, duƒuƒu nyuitɔ, megaxlɔ̃ nu o, ale si nàwɔ fefe nanɔ bɔbɔe, kple ale si nànya ɣeyiɣi si nàdzudzɔ."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Bu fefe la abe ɣeyiɣi si miatsɔ anɔ anyi ɖekae ene, menye dodokpɔ o. Tia ɣeyiɣi
+  si me tomefafa le le ŋkekea me, nɔ axa ɖeka kple amea le xɔ si me ɖoɖoezizi
+  mele o me, eye nàna fefe bɔbɔe ɖeka. Na ame la natia duƒuƒu si dze eŋu,
+  megaxlɔ̃ vodada siwo mevea amea o, wɔ fefe la wòanɔ bɔbɔe ne èkpɔ be edzea
+  agbagba, eye nàzã nɔnɔmetatawo atsɔ adze dzeɖoɖo gɔme. Dzudzɔ esime wòganɔ
+  nyonyom. Ne miedzudzɔ kaba, alo ne miekpɔe ɖekae ko la, eya hã nye nu nyui aɖe.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Taɖodzinu lae nye dzidzɔkpɔkpɔ kple kadodo, menye be miawu enu alo aɖo ŋuɖoɖowo ŋu tututu o."
+  - "Dzra ɖo do ŋgɔ: xɔ si me tomefafa le, kekeli nyui, ŋkuɖodzinuwo kple toɖonuwo le amea ŋu, television la tsi, eye fefe ɖeka le klalo."
+  - "Megaxlɔ̃ vodada siwo mevea amea o. Gblɔ be „Mina míadze agbagba le mɔ sia nu” alo yi edzi ko."
+  - "Wɔ fefe la wòanɔ bɔbɔe do ŋgɔ na dziku alo agbagbadzedze: nɔnɔmetata ʋɛ aɖewo, tiatia ʋɛ aɖewo, alo nàna nɔnɔmetatawo nanɔ anyi dzeƒe."
+  - "Zã nɔnɔmetatawo abe gɔmedzedze na ŋutinya gblɔlɔ ene kple „Gblɔ nu tso... ŋu nam” ɖe „Èɖo ŋku... dzi mahã” teƒe."
+  - "Dzudzɔ ne èkpɔ ɖeɖiteameŋu alo dzimaɖitsitsi ƒe dzesi gbãtɔwo. Ne miedzudzɔ kaba la, enye dzidzedzekpɔkpɔ, menye vodada o."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Ɣeyiɣi didi kae míawɔ fefe la?"
+    a: "Ɣeyiɣi si sɔ tututu aɖeke meli o. Ame geɖe gome la, miniti ʋɛ aɖewo koe sɔ gbɔ, eye ŋkeke aɖewo la, zi ɖeka wɔwɔ koe sɔ gbɔ. Kpɔ ame la ɖa, menye gaƒoɖokui la o, eye nàdzudzɔ esime wòganɔ tomefafa me."
+  - q: "Ɖe wòle be mana wòaɖu dzi alo mawɔ abe ɖe nyemekpɔ vodadawo o ene mahã?"
+    a: "Le fefe si míewɔna ɖekae eye nyaƒoɖeamenu mele eme o me la, nu si woaɖu alo abu meli o. Ne vodada aɖe mevea ame la o la, na wòayi. Ne edze abe ɖe evee ene la, kpe ɖe eŋu blewuu alo wɔ fefe la wòanɔ bɔbɔe evɔ màte fli ɖe eme o."
+  - q: "Nu kae mawɔ ne elɔ̃ be yeakpɔm esime mele fefe wɔm wu be yeawɔe?"
+    a: "Enyo nenema. National Institute on Aging aɖo aɖaŋu be woana ame la nakpɔe ko ne edze abe ɖe ekpɔa dzidzɔ le eŋu wu ene. Ƒo nu tso nu si miekpɔ ŋu, eye nàkpee be wòafia asi nu alo atia nu ɣesiaɣi si wòdi."
+  - q: "Ɖe fefewo siawo nye mɔ aɖe si dzi woato ado ŋkuɖodzia akpɔa?"
+    a: "Ao. Míaƒe fefewo nye nuwɔna bɔbɔe siwo míewɔna ɖekae hena dzidzɔkpɔkpɔ kple dzeɖoɖo. Menye ŋkuɖodzidodokpɔ wonye o, womedzidzea naneke o, eye womenye atike na dementia hã o."
+  - q: "Fefe kae nyo wu be míadze egɔme kplii?"
+    a: "Dze egɔme kple fefe si bɔbɔ wu eye wòsɔ kple ame la. Picture Pairs si wotsɔ aɖaka 4 wɔe eye nɔnɔmetatawo le anyi dzeƒe, alo Find the Same si me tiatia 2 le, nye gɔmedzedze fafɛwo. Conversation Cards nyo ne ame la lɔ̃a nuƒoƒo wu asinudɔwɔwɔ le screen dzi."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Fefe nyui aɖe kple ame si le dementia me medzea abe hoʋiʋli ene o. Edzea abe ame eve siwo bɔbɔ nɔ anyi, le asi fiam nɔnɔmetatawo, le nukoko le nya aɖe ŋu, eye wole nu ƒom tso nu sia nu si va woƒe susu me ŋu ene. Fefe la nye mɔnukpɔkpɔ ko be miatsɔ ɣeyiɣi anɔ anyi ɖekae.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Mɔfiame sia ƒo nu tso ale si nàdzra ɖo, ale si nàwɔ fefe la le duƒuƒu nyuitɔ me, nu si nàgblɔ ne nane meyi nyuie o, ale si nàwɔ fefe sia fefe nanɔ bɔbɔe alo asesẽ vie, ale si nàtrɔe wòazu dzeɖoɖo, kple ale si nànya ɣeyiɣi si nàdzudzɔ ŋu. Ewɔa dɔ na míaƒe [fefewo](/games/) kple agbalẽviwo, puzzlewo kple kplɔ̃dzi fefewo siwo le asiwò xoxo.
 
-## What is the best way to play a game with someone who has dementia?
+## Mɔ nyuitɔ kae li be nàwɔ fefe kple ame si le dementia me?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Tɔ ŋku dzidzɔkpɔkpɔ, menye nuwuwu alo dzidzedzekpɔkpɔ o. Esiae nye aɖaŋu vevitɔ si le [Alzheimer's Association ƒe mɔfiame le nuwɔnawo ŋu](https://www.alz.org/help-support/caregiving/daily-care/activities) me: tu ɖe ŋutete siwo gali na ame la dzi, kpe ɖe eŋu wòadze egɔme, wɔ akpa sesẽawo nàtsɔ akpe ɖe eŋu, eye megahe nya ɖe nuwɔna siwo mevea amea o ŋu alo axlɔ̃ wo o.
 
-In practice that means:
+Le gbesiagbedɔwɔwɔ me la, esia fia be:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Nɔ axa ɖeka kplii, menye le eŋgɔ o.** Ne mienɔ axa ɖeka la, miate ŋu akpɔ screen la alo kplɔ̃a siaa, eye kpekpeɖeŋunana adze abe dɔwɔwɔ ɖekae ene, menye ŋkuléle ɖe ame ŋu o.
+- **Na fefe ɖeka ɣeyiɣi ɖeka.** Tiatia geɖe ate ŋu adze abe dodokpɔ ene hafi naneke nadze egɔme gɔ̃ hã.
+- **Dze eyome le nu si wòdi me.** Ne edi be yeazi nɔnɔmetataawo dzi le ye ŋutɔ yeƒe ɖoɖo nu, aƒo nu tso nɔnɔmetata ɖeka ŋu miniti ewo, alo adzudzɔ le tɔtrɔ eve megbe la, eyae nye fefe la egbea.
+- **Xlẽ ɣeyiɣi nyuiwo, menye tɔtrɔ siwo miewu enu o.** Alɔgbɔnu, ŋutinya alo gaƒoƒo afã si me tomefafa le lae nye nu si nèdi.
 
-## How do I set up before we start?
+## Aleke mawɔ adzra ɖo hafi míadze egɔme?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Dzadzraɖo miniti ʋɛ aɖewo axe mɔ na dzimaɖitsitsi akpa gãtɔ si amewo tsɔna bua fefe la ŋutɔ.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Tia ɣeyiɣi si nyo nɛ wu le ŋkekea me.** [National Institute on Aging (NIA) ƒe mɔfiame le nuwɔnawo trɔtrɔ ŋu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aɖo aɖaŋu be woaɖo nuwɔnawo ɖe ɣeyiɣi si me ame la le eƒe nyonyome me wu. Ame geɖe gome la, eyae nye ŋdi gaƒoƒo titina. Ŋdɔ me megbe la, ate ŋu asesẽ wu; kpɔ [nuwɔna siwo faa akɔ na ame le ŋdɔ me megbe](/caregiving/late-day-restlessness/).
+2. **Na xɔa me nafa.** Tsi television kple radio la, eye nàtu ʋɔtru la ne àte ŋui. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) aɖo aɖaŋu be woaɖe toɣli kple nu siwo hea susu yi nu bubuwo dzi ɖa hafi adze nuƒoƒo gɔme.
+3. **Kpɔ egbɔ be nu sia nu sɔ gbã.** Tsi le egbɔ, ayi nugododeƒe do ŋgɔ, zikpui si me wòafa le, ŋkuɖodzinuwo kple toɖonuwo le eŋu.
+4. **Na kekeli nyui nanɔ xɔa me.** Kekeli si kɔ eye meɖea dzedzeme ɖe screen la dzi o la nana nɔnɔmetatawo kpɔkpɔ nɔa bɔbɔe.
+5. **Dzra fefe la ɖo hafi nànɔ anyi.** Ʋui, tia ɖoɖowo, eye nàɖo gbeɖiɖia wò ŋutɔ. Emegbe nàtrɔ screen la ɖe egbɔ. Ne èdi aɖaŋuwo le tablet ŋu la, kpɔ [ale si nàdzra tablet alo telefon ɖo](/caregiving/tablets-and-screens/).
+6. **Tsi tre ɖe mɔ̃a ŋu.** Nusi léa tablet la tsitre fia be ame aɖeke mahiã be yealée o, eye asi fifiã nu hã nɔa bɔbɔe wu.
 
-## How do I invite them without pressure?
+## Aleke makpee evɔ nyemazi edzi o?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Na kpekpea nanɔ bɔbɔe eye wòanɔ bɔbɔe be woagbe. Nyagbɔgblɔ aɖewo siwo ate ŋu awɔ dɔ nyuie:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- „Mekpɔ abɔmenɔnɔmetata aɖewo. Àdi be míakpɔ wo ɖekaea?”
+- „Àte ŋu akpe ɖe ŋunye le puzzle sia ŋua? Nyemate ŋu ayi ŋgɔ o.”
+- „Seƒoƒowo alo xewo nèdi egbea?” (tiatia eve le bɔbɔe wu biabia si me tiatia mele o)
+- „Mele agbalẽvi aɖe wɔm na nɔvinyɔnuviwò. Amadede kae masɔ le afisia?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association aɖo aɖaŋu be woaɖe nuwɔna aɖe ƒe taɖodzinu me, abe agbalẽvi wɔwɔ na xɔlɔ̃ ene, elabena susu nana gɔmesese nɔa eme. Ne nèbia kpekpeɖeŋu hã la, ewɔa dɔ, elabena ena ame la sena le eɖokui me be yehiã.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ne egblɔ be ao la, lɔ̃ ɖe edzi. Dze agbagba ake emegbe alo na nane bubu. Míaƒe mɔfiame le [nu si nàwɔ ne wògblɔ be ao](/caregiving/when-they-say-no/) ŋu gblɔ nu bubuwo.
 
-## How long should a game last, and how fast should we go?
+## Ɣeyiɣi didi kae fefe la nanɔ anyi, eye duƒuƒu kae míasɔ kplii?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Na ame la natia duƒuƒu la, eye nàɖo fefe kpuiwo ɖe tame. Kpeɖodzi si ɖee fia ɣeyiɣi si sɔ tututu na fefe si míewɔna ɖekae aɖeke meli o. Miniti eve va ɖo atɔ̃ siwo me tomefafa le ate ŋu anye nuwɔna blibo.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Lala didi wu ale si nàsusui.** NIA aɖo aɖaŋu be woana ɣeyiɣi geɖe wu ame la be wòaɖo eŋu, eye woagadze agbagba be yewomaɖe nu le eƒoƒo me o. Xlẽ va ɖo ewo le wò susu me hafi nàkpe ɖe eŋu.
+- **Afɔɖeɖe ɖeka ɣeyiɣi ɖeka.** Na mɔfiame kpui ɖeka („Zi nɔnɔmetata aɖe dzi”), emegbe lala. Fia nu wu be nàɖe eme: fia asi afi si woazi.
+- **Dzudzɔ faa.** Ne etɔ be yeaƒo nu tso nɔnɔmetata aɖe ŋu la, fefe la ate ŋu alala. Mehiã be nàwɔ kaba o.
+- **Na wòakpɔe.** NIA gblɔ be ame aɖewo lɔ̃na be yewoakpɔe ko, eye esia nye tiatia si sɔ.
 
-## Should I correct wrong answers?
+## Ɖe wòle be maxlɔ̃ ŋuɖoɖo siwo mesɔ o mahã?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ao. Ne èxlɔ̃a ame blewuu enuenu la, ena wòsena le eɖokui me be yemele dzidzedze kpɔm o, togbɔ be wò tameɖoɖo nyo hã. Alzheimer's Association aɖo aɖaŋu be woagahe nya ɖe nuwɔna siwo mevea amea o ŋu alo axlɔ̃ wo o. Le fefe me la, vodada akpa gãtɔ mevea amea o.
 
-| Instead of | Try |
+| Le esi teƒe be nàgblɔ be | Dze agbagba nàgblɔ be |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| „Ao, esia mesɔ o.” | „Mina míadze agbagba le mɔ sia nu.” (kpɔɖeŋu si NIA na) |
+| „Womesɔ kple wo nɔewo o. Kpɔe ake.” | Megagblɔ naneke o eye nàwɔ tɔtrɔ si kplɔe ɖo, alo „Oh, wo ame evea siaa le dzĩ.” |
+| „Èɖo ŋku ame si esia nye dzi mahã?” | „Gblɔ nu tso nɔnɔmetata sia ŋu nam.” |
+| „Èwɔ ema xoxo.” | „Esia nyo. Mina míawɔe ake.” |
+| „Va, ènya esia.” | „Àdi be mafia nuwuwua wòa?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Ne vodada aɖe do dziku nɛ nyuie la, kpe ɖe eŋu blewuu. Fia asi nɔnɔmetata si sɔ la, wɔ tɔtrɔ ɖeka wò ŋutɔ, alo wɔ fefe la wòanɔ bɔbɔe wu le tɔtrɔ si kplɔe ɖo me. Ne nya aɖe ƒe nuwuwu si mesɔ o na amewo ko la, miko kplii. Eƒe nuwuwua ate ŋu anyo wu gɔ̃ hã.
 
-## How do I make a game easier or harder?
+## Aleke mawɔ fefe aɖe wòanɔ bɔbɔe alo asesẽ vie?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Trɔ fefe la ɖe ame la kple ŋkeke ma ƒe nɔnɔme ŋu, menye ɖe dzesi aɖe ŋu o. Ame ɖeka ate ŋu ahiã fefe si bɔbɔe wu le fiẽ wu le ŋdi. NIA ƒe aɖaŋu gbãtɔe nye be woasɔ nuwɔna la kple nu si ame la ate ŋu awɔ, eye woakpɔ egbɔ be esena le eɖokui me be yele dzidzedze kpɔm.
 
-| Game | Make it easier | Make it a little harder |
+| Fefe | Na wòanɔ bɔbɔe wu | Na wòasesẽ vie |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Dze egɔme kple aɖaka 4 eye nàna nɔnɔmetatawo nanɔ anyi dzeƒe | Aɖaka geɖe wu, alo ɣla nɔnɔmetatawo ne esɔ na amea |
+| [Find the Same](/games/find-the-same/) | Tiatia 2 | Va ɖo tiatia 4 |
+| [Sort Together](/games/sort-together/) | Wò nàlé nɔnɔmetata la, eye wòafia asi kusi la | Eya ŋutɔ nazi nɔnɔmetata la kple kusi la siaa dzi |
+| [Picture Puzzle](/games/picture-puzzle/) | Akpa 4, miƒo nu tso nɔnɔmetata bliboa ŋu gbã | Akpa 9 |
+| [Finish the Saying](/games/finish-the-saying/) | Fia nuwuwua, emegbe miagblɔe ɖekae | Na wòagblɔ nuwuwua hafi nazi edzi |
+| [Word Search](/games/word-search/) | Tae ɖe agbalẽ dzi, midi nya ɖeka ɖekae, eye nàfia asi eƒe ŋɔŋlɔdzesi gbãtɔ | Na wòatia nya si kplɔe ɖo si miadi |
+| [Coloring](/games/coloring/) | Wò nàtia amadede eve, eye wòatia ɖeka le wo dome | Eya ŋutɔ natia amadedeawo katã |
+| [Conversation Cards](/games/conversation-cards/) | Mikpɔ nɔnɔmetata la ko ɖekae | Zã biabia siwo le agbalẽvia dzi |
+| [Photo Pairs](/games/photo-pairs/) | Ƒomea ƒe foto ʋɛ aɖewo siwo wolɔ̃na vevie | Tsɔ foto bubuwo kpee |
+| [Picture Bingo](/games/picture-bingo/) | Kpekpeɖeŋunala aɖe nanɔ fefewɔla ɖesiaɖe gbɔ | Fefewɔlawo ŋutɔ nade dzesi woƒe agbalẽviwo dzi |
+| [Calm Breathing](/games/calm-breathing/) | Minɔ anyi akpɔe ko ɖekae | Miagbe gbɔgbɔ blewuu ɖekae |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Dzesi siwo fia be fefe la sesẽ akpa: ɖoɖoezizi didi siwo dze abe dzitsitsi ene menye tamebubu o, „Nyemate ŋui o” gbɔgblɔ enuenu, mɔ̃a tutu yi megbe, alo vodada siwo vea ame la. Dzesi siwo fia be ate ŋu abɔbɔ akpa: nuɖiɖi, alo egblɔ be edze abe ɖeviwo tɔ ene. Ne esia dzɔ la, bu eŋu eye nàtrɔ yi nu bubu si dze abe ame tsitsiwo tɔ ene, abe nyadidi, foto ŋutɔŋutɔ ƒe puzzle, alo dzeɖoɖo tso eƒe dɔ xoxo ƒe nɔnɔmetata ŋu.
 
-## How do I turn a game into a conversation?
+## Aleke matrɔ fefe la wòazu dzeɖoɖo?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Zã nɔnɔmetata ɖesiaɖe abe kpekpe na dzeɖoɖo ene, eye nàbu nu sia nu si wògblɔ abe ŋuɖoɖo nyui ene. Ƒome geɖe gome la, esiae nye akpa si nyo wu le fefewɔwɔ me.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Bia biabia siwo me ŋuɖoɖo gbegblẽ aɖeke mele o.** „Nu kae nèkpɔ?” „Ka nèlɔ̃na wu?” „Gblɔ nu tso nuɖukplɔ̃ƒe abe esia ene ŋu nam.”
+- **Gblɔ wò tɔ gbã.** „Avu abe esia ene nɔ mamanye aɖe si.” Wò ŋutinya nana wònɔa bɔbɔe nɛ be eya hã nagblɔ eƒe tɔ.
+- **Dze nya si va bubu la yome.** Ne nɔnɔmetata si me ʋu le la kplɔ mí yi mɔzɔzɔ aɖe ƒe ŋutinya gbɔ la, ŋutinya lae nye nuwɔna la. Na fefe la natɔ.
+- **Megadzro nyateƒe si le nya la me o.** Le ŋkuɖoɖoɖo nuwɔnawo me la, dzeɖoɖo vivi le vevie wu nyatakaka siwo sɔ pɛpɛpɛ. Ne ŋutinya la trɔ tso esi wògblɔ tsã gbɔ la, se vivi le eƒe tɔtrɔ yeyea me.
+- **Zã biabia siwo le fefeawo me.** [Finish the Saying](/games/finish-the-saying/) tsɔa dzeɖoɖo ƒe biabia kpena ɖe nya ɖesiaɖe ŋu, eye [Conversation Cards](/games/conversation-cards/) wowɔ na esia tututu. [Photo Pairs](/games/photo-pairs/) zãa miaƒe ƒomea ƒe fotowo, siwo zi geɖe hea ŋutinya nyuiwo vɛ.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Aɖaŋu bubuwo le míaƒe mɔfiamewo me le [ŋkuɖoɖoɖo nuwɔnawo](/activities/reminiscence/) kple [dzeɖoɖo ƒe aɖaŋuwo](/caregiving/communication-tips/) ŋu.
 
-## When should we stop?
+## Ɣekaɣie míadzudzɔ?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Dzudzɔ ne èkpɔ ɖeɖiteameŋu alo dzimaɖitsitsi ƒe dzesi gbãtɔwo, eye ne ate ŋui la, hafi woava. Alzheimer's Association aɖo aɖaŋu be woadzudzɔ alo atrɔ nuwɔna aɖe ne susu meganɔ nu ŋu o alo dziku dzɔ.
 
-Watch for:
+Kpɔ esiawo ɖa:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- yaƒoƒo, ɖoɖoezizi, alo ŋkuwo te ɖeɖe ɖa le screen la ŋu;
+- anyimanɔmanɔ, tsitretsitsi, alo biabia be yewoayi;
+- gbɔgbɔtsixe, ŋuɖoɖo kpuiwo, alo „Nyemenya ewɔwɔ o”;
+- asinudɔwɔwɔ le screen dzi le vome alo mɔ̃a tutu yi megbe;
+- aɖatsi, dziku, alo tɔtrɔ kpata le ame ƒe nɔnɔme me.
 
-How to stop well:
+Ale si nàdzudzɔe nyuie:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Wu enu kple nane si bɔbɔe.** Sɔsɔe ɖeka mamlɛtɔ si wòate ŋu awɔ, alo nɔnɔmetata mamlɛtɔ aɖe si miakpɔ.
+- **Na wòanye wò tɔ.** „Medi tii vie. Mina míadzudzɔ le afisia?” naa mɔxenu be wòagabu be yemewɔe nyuie o.
+- **Trɔ yi nu bubu si nye ŋutilãmenuwɔwɔ alo nu fafɛ aɖe.** Azɔlizɔzɔ kpui aɖe, nuɖuɖu vie, awu babla, alo hadzidzi.
+- **Gblɔ nya fafɛ aɖe.** „Edzɔ dzi nam be míewɔ esia ɖekae.” Menye kafukafu le „ewɔwɔ nyuie” ta o, ke dzidzɔ le ɣeyiɣi si mietsɔ nɔ anyi ɖekae la ta.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Ne miedzudzɔ kaba, trɔ ɖoɖoawo, alo gblẽ fefe la ɖi eye mienɔ anyi ɖekae ko la, wo katã nye nu nyuiwo.
 
-## Can we play in a group or over a video call?
+## Ɖe míate ŋu awɔ fefe le ƒuƒoƒo me alo le video yɔyɔ me mahã?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ɛ̃, ne miedze agbagba vie le dzadzraɖoa me. Le ƒuƒoƒo me la, na ame ʋɛ aɖewo ko nanɔ eme, na kpekpeɖeŋunalawo nanɔ ame siwo hiã wo gbɔ, eye nàtia fefe si me susu ɖeka dze ƒã le. [Picture Bingo](/games/picture-bingo/) le agbalẽvi siwo woate ŋu ata kple yɔla si dzea le screen dzi na ƒuƒoƒowo. Kpɔ [nuwɔnawo na dzikpɔƒe ƒe ƒuƒoƒowo](/activities/care-home-groups/) hena nu bubuwo.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Le video yɔyɔ me la, ame si le yɔyɔa me ate ŋu aɖe nɔnɔmetata aɖe me, eye ame si le xɔa me afia asi eye wòazi edzi. Na yɔyɔawo nanɔ kpui eye woanye nu siwo wonya. Míaƒe mɔfiame le [telefon kple video yɔyɔwo](/activities/phone-and-video-calls/) ŋu gblɔ aɖaŋu bubuwo.
 
-## What if a game just isn't working?
+## Nu kae mawɔ ne fefe aɖe mele dɔ wɔm o?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Ŋkeke aɖewo la, naneke medzea ame ŋu o, eye menye wò alo ame la ƒe vodadae o. Da fefe la ɖi eye nàgadze agbagba le ɣeyiɣi bubu le ŋkekea me, kple fefe bubu, alo fefe aɖeke manɔmee. Nuwɔna nyui geɖewo mekua ɖe screenwo ŋu o: hadzidzi, awuwo babla, fotoƒomegbalẽ kpɔkpɔ, alo azɔlizɔzɔ kpui aɖe. Kpɔ míaƒe [nuwɔna ƒe aɖaŋuwo](/activities/ideas/) hena nu bubuwo.

@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Intermita fastado kaj demenco: kion diras esploroj"
+seoTitle: "Intermita fastado kaj demenco: kion diras esploroj"
+description: "Homaj pruvoj pri intermita fastado kaj demenco estas limigitaj kaj fruaj. Eksciu la riskojn por pli aĝaj plenkreskuloj kaj kial sufiĉa manĝado gravas pli."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Ne estas bonaj pruvoj, ke intermita fastado malhelpas aŭ malrapidigas
+  demencon. Multaj esploroj estas faritaj ĉe bestoj, kaj homaj studoj pri pli
+  aĝaj plenkreskuloj estas malgrandaj kaj mallongaj. Fastado povas esti riska
+  por pli aĝaj plenkreskuloj: perdo de pezo kaj muskoloj, tro malalta
+  sangosukero ĉe iuj diabeto-medicinoj, senakvigo kaj faloj. Por homoj vivantaj
+  kun demenco, sufiĉe manĝi kaj trinki estas kutime la pli granda zorgo. Parolu
+  unue kun kuracisto.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "La Nacia Instituto pri Maljuniĝo diras, ke ne estas sufiĉaj pruvoj por rekomendi iun ajn fastan aŭ kalorio-limigan dieton, precipe por pli aĝaj plenkreskuloj."
+  - "Multaj esploroj pri fastado kaj maljuniĝo venas de bestoj, kaj tiuj rezultoj ne nepre validas por homoj."
+  - "Eblaj riskoj por pli aĝaj plenkreskuloj inkluzivas neatenditan perdon de pezo, perdon de muskoloj, tro malaltan sangosukeron ĉe iuj diabeto-medicinoj, senakvigon, kapturnon kaj falojn."
+  - "Homoj vivantaj kun demenco ofte forgesas manĝi aŭ trinki, aŭ pensas, ke ili jam faris tion. Helpi ilin sufiĉe manĝi kaj trinki kutime gravas multe pli ol la tempo, kiam ili manĝas."
+  - "Ne uzu fastadon por homo vivanta kun demenco. Parolu kun kuracisto aŭ registrita dietisto antaŭ iu ajn ŝanĝo en manĝkutimoj."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Ĉu intermita fastado malhelpas Alzheimer-malsanon?"
+    a: "Ne estas bonaj pruvoj, ke jes. Multaj esploroj estis faritaj ĉe bestoj, kaj homaj provoj plej ofte estis mallongaj, faritaj kun pli junaj aŭ tropezaj plenkreskuloj, kaj temis pri pezo-perdo. La Nacia Instituto pri Maljuniĝo diras, ke ne estas sufiĉaj pruvoj por rekomendi fastajn dietojn al la publiko."
+  - q: "Ĉu intermita fastado estas sekura por pli aĝaj plenkreskuloj?"
+    a: "Eble ne. Fastado povas kaŭzi neatenditan perdon de pezo kaj muskoloj, senakvigon, kapturnon kaj falojn, kaj povas kaŭzi danĝere malaltan sangosukeron ĉe homoj, kiuj prenas insulinon aŭ iujn aliajn diabeto-medicinojn. Mayo Clinic rimarkas, ke ĝi eble ne taŭgas por homoj kun alta risko de osto-perdo kaj faloj. Parolu kun kuracisto antaŭ ol provi ĝin."
+  - q: "Ĉu homo kun demenco provu fastadon?"
+    a: "Ne. Homoj vivantaj kun demenco ofte havas malfacilaĵojn sufiĉe manĝi kaj trinki, kaj malbona nutrado povas pliigi kondutajn simptomojn kaj kaŭzi pezo-perdon. Fastado aldonas riskon sen pruvita profito. Anstataŭe, fokusiĝu pri regulaj manĝoj, manĝetoj, kiujn ili ŝatas, kaj sufiĉa trinkado."
+  - q: "Kiuj signoj montras, ke homo kun demenco ne manĝas aŭ trinkas sufiĉe?"
+    a: "Atentu pri pezo-perdo, pli malstriktaj vestoj, laceco, malforto, mallakso aŭ rifuzo de manĝo. Signoj de senakvigo listigitaj de la Nacia Instituto pri Maljuniĝo inkluzivas sekan buŝon, kapturnon, rapidan korbaton kaj halucinojn. Sciigu ilian kuraciston, se vi rimarkas tion."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,139 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Intermita fastado, ekzemple manĝi nur ene de okhora fenestro aŭ forte limigi
+kaloriojn du tagojn semajne, ricevas multan atenton, kaj iuj artikoloj sugestas,
+ke ĝi povus protekti la cerbon. Se vi estas pli aĝa plenkreskulo, aŭ se vi
+zorgas pri homo vivanta kun demenco, jen kion la esploroj efektive montras, kaj
+kial singardemo gravas.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ĉi tio estas ĝenerala informo, ne medicina konsilo. Ne komencu fastadon, nek
+ŝanĝu la manĝmanieron de homo, pri kiu vi zorgas, sen paroli kun kuracisto aŭ
+registrita dietisto. Vidu nian [medicinan klarigon](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Ĉu intermita fastado malhelpas demencon?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ne estas bonaj pruvoj, ke intermita fastado malhelpas aŭ malrapidigas demencon.
+La Nacia Instituto pri Maljuniĝo (NIA) diras, ke ne estas sufiĉaj pruvoj por
+rekomendi iun ajn kalorio-limigan aŭ fastan dieton, kaj ke necesas lerni multe
+pli pri ilia efikeco kaj sekureco, precipe ĉe pli aĝaj plenkreskuloj
+([NIA pri kalorio-limigo kaj fastaj dietoj](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Kial la pruvoj estas tiel limigitaj
 
-The NIA gives several reasons:
+La NIA donas plurajn kialojn:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Plej multaj studoj estas pri bestoj.** Esploroj pri vermoj, muŝoj, musoj kaj
+  simioj donis interesajn rezultojn, sed tiuj trovoj ne nepre validas por
+  homoj. Eĉ ĉe bestoj la rezultoj estas miksitaj; ĉe iuj musaj rasoj
+  kalorio-limigo mallongigis la vivon.
+- **Homaj provoj estis mallongaj.** Plej multaj daŭris kelkajn semajnojn aŭ
+  monatojn.
+- **Plej multaj homaj provoj temis pri pezo-perdo** ĉe tropezaj plenkreskuloj,
+  ne pri memoro aŭ demenco.
+- **Pli aĝaj plenkreskuloj estas malofte inkluzivitaj.** Multaj provoj
+  inkluzivis homojn 60-jarajn aŭ pli junajn.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Sistema revizio de 2026 rigardis specife intermitan fastadon ĉe plenkreskuloj
+60-jaraj kaj pli aĝaj. Ĝi trovis, ke la pruvoj en ĉi tiu aĝogrupo restas
+limigitaj, kun malgrandaj studoj, mallonga observado kaj malsamaj studiaj
+dezajnoj. Trovoj pri pensado kaj memoro venis de unuopaj studoj, ne de kunigitaj
+rezultoj de pluraj provoj. La revizio ankaŭ rimarkis, ke iuj studoj ligis tre
+mallongajn manĝfenestrojn aŭ longajn fastojn kun pli malbonaj rezultoj, kaj la
+aŭtoroj instigis al singardemo ĉe pli aĝaj plenkreskuloj
+([revizio de 2026 en Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Iuj esploristoj pensas, ke la transiro de la korpo al bruligo de graso dum fasto
+povas influi la cerbon, sed ĉi tio ankoraŭ estas teorio, kiu estas studata. La
+NIA rimarkas, ke la scienco estas necerta.
 
-## What are the risks of fasting for older adults?
+## Kiuj estas la riskoj de fastado por pli aĝaj plenkreskuloj?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Fastado ne estas sendanĝera eksperimento por multaj pli aĝaj homoj. Eblaj
+riskoj inkluzivas:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Neatenditan pezo-perdon.** Manĝi malpli ol la korpo bezonas povas kaŭzi
+  pezo-perdon kaj malpli da muskolforto, kio povas igi homon pli malforta.
+- **Perdon de muskoloj kaj ostoj.** En dujara provo subtenata de NIA pri
+  kalorio-limigo ĉe junaj kaj mez-aĝaj plenkreskuloj, partoprenantoj havis
+  etajn malpliiĝojn en osta denseco kaj malgrasa korpomaso.
+- **Tro malaltan sangosukeron ĉe diabeto-medicinoj.** Homoj, kiuj prenas
+  insulinon aŭ iujn aliajn diabeto-medicinojn, povas sperti tro malaltan
+  sangosukeron, se ili preterlasas aŭ prokrastas manĝojn, laŭ la
+  [Nacia Instituto pri Diabeto kaj Digestaj kaj Renaj Malsanoj](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
+  Tro malalta sangosukero povas kaŭzi kapturnon, konfuzon kaj iritiĝemon.
+- **Senakvigon.** Se trinkaĵoj estas preterlasitaj kune kun manĝoj, homo povas
+  senakviĝi.
+- **Kapturnon kaj falojn.** Mayo Clinic rimarkas, ke intermita fastado povas
+  igi homojn senti sin tre lacaj kaj kapturnaj, kaj ke ĝi eble ne estas sana
+  modelo por homoj kun alta risko de osto-perdo kaj faloj
+  ([Mayo Clinic pri intermita fastado](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Aliajn efikojn.** Mayo Clinic ankaŭ mencias kapdolorojn, humorŝanĝojn kaj
+  mallakson, kaj rimarkas iujn pruvojn, ke 16-hora fasto kun 8-hora manĝfenestro
+  povas pliigi la riskon de kormalsano kompare kun aliaj manĝfenestroj. Tiuj
+  pruvoj ankoraŭ ne estas klaraj.
 
-## Why is eating enough the bigger concern with dementia?
+## Kial sufiĉe manĝi estas la pli granda zorgo ĉe demenco?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Por homoj vivantaj kun demenco, la kutima problemo estas ricevi **sufiĉe** da
+manĝo kaj trinkaĵo, ne tro multe. La Alzheimer’s Association klarigas, ke homoj
+en la mezaj kaj pli postaj stadioj povas senti sin superŝutitaj de manĝelektoj,
+forgesi manĝi, aŭ pensi, ke ili jam manĝis. Ĝi aldonas, ke malbona nutrado povas
+pliigi kondutajn simptomojn kaj kaŭzi pezo-perdon
+([Alzheimer’s Association pri manĝo kaj manĝado](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+La Alzheimer’s Society rimarkas, ke nesufiĉa manĝado povas kaŭzi pezo-perdon,
+malpli da muskolforto, lacecon kaj malforton, kio povas igi homon pli malforta
+kaj malpli kapabla resaniĝi post infektoj
+([Alzheimer’s Society pri apetito](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Pro tiuj kialoj, fastado ne estas bona ideo por homo vivanta kun demenco.**
+Preterlasitaj manĝoj povas facile fariĝi tute mankitaj manĝoj. Iun ajn ŝanĝon
+en la manĝmaniero de homo kun demenco devus gvidi ilia kuracisto aŭ registrita
+dietisto.
 
-## What are the warning signs of poor eating or drinking?
+## Kiuj estas la avertaj signoj de nesufiĉa manĝado aŭ trinkado?
 
-Watch for:
+Atentu pri:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Pezo-perdo**, aŭ vestoj, kiuj sidas pli malstrikte.
+- **Restado de manĝo aŭ rifuzo de manĝoj**, aŭ tenado de manĝo en la buŝo.
+- **Laceco aŭ malforto.**
+- **Mallakso**, kiu povas rilati al manĝado kaj senakvigo.
+- **Signoj de senakvigo.** La NIA mencias sekan buŝon, kapturnon, rapidan
+  korbaton kaj halucinojn, kiuj ankaŭ povas esti kaŭzitaj de demenco mem
+  ([NIA pri oftaj medicinaj problemoj](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Malbona apetito povas havi multajn eblajn kaŭzojn: doloraj dentoj aŭ malstriktaj
+dentoprotezoj, novaj medikamentoj, deprimo, mallakso, malpli da moviĝo, aŭ
+ŝanĝoj en gusto kaj flaro. Sciigu la kuraciston de la persono pri iuj el tiuj
+signoj. Li aŭ ŝi povas serĉi kaŭzon kaj eble sugesti dietiston aŭ suplementojn.
 
-## How can you help someone eat and drink enough?
+## Kiel vi povas helpi homon sufiĉe manĝi kaj trinki?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Proponu malgrandajn manĝojn kaj manĝetojn ofte**, anstataŭ tri grandajn
+  manĝojn.
+- **Servu ŝatatajn manĝaĵojn**, kaj estu fleksebla, kiam gustoj ŝanĝiĝas. Dolĉaj
+  manĝaĵoj povas esti bonvenaj, se apetito estas malalta; demandu la kuraciston,
+  ĉu estas sanaj kialoj limigi sukeron.
+- **Tenu trinkaĵojn facile atingeblaj** kaj proponu malgrandajn tasojn dum la
+  tuta tago. Supoj, fruktoj, glataĵoj kaj laktaĵoj ankaŭ enkalkuliĝas.
+- **Manĝu kune**, kiam vi povas. Manĝoj estas okazo por kunestado, ne tasko por
+  rapidi.
+- **Provu fingromanĝaĵojn**, ekzemple sandviĉojn, frukttranĉaĵojn aŭ pecojn da
+  kokviando, se manĝilaro fariĝis malfacila.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Nia [gvidilo pri manĝado](/brain-health/diet/) havas pliajn ideojn pri manĝoj.
+Helpi prepari manĝaĵon ankaŭ povas esti agrabla komuna agado; vidu
+[hejmaj taskoj](/activities/household-tasks/).
 
-## Talk with a doctor
+## Parolu kun kuracisto
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Antaŭ ol provi iun ajn fastan planon mem, parolu kun via kuracisto aŭ registrita
+dietisto, precipe se vi prenas medikamentojn kontraŭ diabeto aŭ alta sangopremo,
+se vi lastatempe perdis pezon, aŭ se vi havis falojn. Por homo vivanta kun
+demenco, demandu ilian kuraciston pri kiom ili devus manĝi kaj trinki ĉiutage,
+anstataŭ demandi pri fastado.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Serĉu urĝan medicinan helpon ĉe subita konfuzo, sveno, aŭ signoj de tre malalta
+sangosukero, kiuj ne pliboniĝas rapide.
