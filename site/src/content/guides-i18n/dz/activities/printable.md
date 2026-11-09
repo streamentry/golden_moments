@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "རིན་མེད་ཀྱི་སེམས་སྐྱོན་ལས་རིམ།"
+seoTitle: "རིན་མེད་ཀྱི་སེམས་སྐྱོན་ལས་རིམ། ཡིག་གཟུགས་ཆེ་བ།"
+description: "རིན་མེད་ཀྱི་སེམས་སྐྱོན་ལས་རིམ། ཡིག་གཟུགས་ཆེ་བའི་ཚིག་འཚོལ་ ཚོས་གཞི་བཀང་ནི་ གླེང་མོལ་ཤོག་བྱང་ དང་ པར་རིས་བིང་གོ་བཅས་དང་ དཔར་བསྐྲུན་གྱི་ལམ་སྟོན།"
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments ནང་ རིན་མེད་ཀྱི་སེམས་སྐྱོན་ལས་རིམ་ཚུ་ ཡོདཔ་ཨིན། དེ་ཚུ་ནང་ ཡིག་གཟུགས་ཆེ་བའི་ཚིག་འཚོལ་
+  ཚོས་གཞི་བཀང་ནིའི་ཤོག་ལེབ་ པར་རིས་གླེང་མོལ་ཤོག་བྱང་ དང་ པར་རིས་བིང་གོའི་ཤོག་བྱང་ཚུ་ཚུདཔ་ཨིན།
+  རྩེདམོའི་ཤོག་ལེབ་གང་རུང་ཅིག་ཁ་ཕྱེ་སྟེ་ དེ་གི་ དཔར་བསྐྲུན་ ཨེབ་རྟ་ལག་ལེན་འཐབ། ཡིག་གཟུགས་ཆེ་བ་དང་
+  གསལ་ཏོག་ཏོ་འབད་དཔར་བསྐྲུན་འབད། ཤོག་ལེབ་རེ་རེ་ནང་ ལས་ཀ་གཅིག་རྐྱངམ་ཅིག་བཞག དང་ ལོག་ལག་ལེན་འཐབ་ནི་ཨིན་པ་ཅིན་
+  ཤོག་ལེབ་ཚུ་ ལེ་མི་ནེཊ་འབད་བཞག། མི་ཚེའི་ལོ་རྒྱུས་ཤོག་ལེབ་ ཡང་ན་ ཉིན་རེའི་འཆར་གཞི་བཟུམ་གྱི་ ཁྱིམ་ནང་ལས་བཟོ་བའི་
+  དཔར་བསྐྲུན་ཤོག་ལེབ་ཚུ་ཡང་ ཕན་ཐོགས་སྦོམ་འོང་།
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "ང་བཅས་ཀྱི་དཔར་བསྐྲུན་ལས་རིམ་ཚུ་ རིན་མེད་ཨིན། ཚིག་འཚོལ་ ཚོས་གཞི་བཀང་ནི་ གླེང་མོལ་ཤོག་བྱང་ དང་ པར་རིས་བིང་གོ། རྩེདམོའི་ཤོག་ལེབ་རེ་རེ་ནང་ དཔར་བསྐྲུན་ ཨེབ་རྟ་ཡོད།"
+  - "ཡིག་གཟུགས་ཆེ་བ་དང་ གསལ་ཏོག་ཏོ་ ཁྱད་པར་སྟོན་ཚུགས་པའི་ཚུལ་ལུ་ དཔར་བསྐྲུན་འབད། ཤོག་ལེབ་རེ་རེ་ནང་ ལས་ཀ་གཅིག་རྐྱངམ་ཅིག་བཞག།"
+  - "ཤོག་ལེབ་ལྗིད་པོ་ ཡང་ན་ ཀཱཌི་སི་ཊོཀ་ ལག་ལུ་འཇུག་སླ་ལུ་དང་ བཙོག་མི་ལུ་ཕན་ཐོགས་ཡོད། ལོག་ལག་ལེན་འཐབ་ནིའི་དོན་ལུ་ ལེ་མི་ནེཊ་འབད་བཞག།"
+  - "མི་ཚེའི་ལོ་རྒྱུས་ཤོག་ལེབ་ ཉིན་རེའི་འཆར་གཞི་ ཡང་ན་ སྒོ་གུའི་པར་རིས་མིང་བྱང་བཟུམ་གྱི་ ཁྱིམ་ནང་ལས་བཟོ་བའི་དཔར་བསྐྲུན་ཚུ་ འཇམ་ཏོག་ཏོ་དང་ ཕན་ཐོགས་ཅན་ཨིན།"
+  - "དཔར་བསྐྲུན་ཤོག་ལེབ་འདི་ མཉམ་ལག་ལེན་འཐབ་ནིའི་གདན་ཞུ་ཅིག་ཨིན། ཁྱིམ་སྡོད་ལས་ཀ་མེན། ཁ་ཤས་རྐྱངམ་ཅིག་འབད་ ཡང་ན་ མ་འབད་རུང་ འགྲིག་འོང་།"
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "ཁྱོད་ཀྱི་སེམས་སྐྱོན་ལས་རིམ་དཔར་བསྐྲུན་ཚུ་ རིན་མེད་ཨིན་ན?"
+    a: "ཨིན། ང་བཅས་ཀྱི་ས་ཁོངས་ནང་ཡོད་པའི་ ཚིག་འཚོལ་ ཚོས་གཞི་བཀང་ནི་ གླེང་མོལ་ཤོག་བྱང་ དང་ པར་རིས་བིང་གོའི་ཤོག་ལེབ་ཚུ་ རིན་མེད་ལག་ལེན་འཐབ་ནི་དང་དཔར་བསྐྲུན་འབད་ཚུགས། རྩེདམོའི་ཤོག་ལེབ་ཁ་ཕྱེ་སྟེ་ དཔར་བསྐྲུན་ ཨེབ་རྟ་ལག་ལེན་འཐབ།"
+  - q: "སེམས་སྐྱོན་གྱི་དོན་ལུ་ དཔར་བསྐྲུན་ལས་རིམ་ག་ཅི་ཚུ་ལེགས་ཤོམ་ཨིན་ན?"
+    a: "ལེགས་ཤོམ་འོང་མི་དཔར་བསྐྲུན་ཚུ་ འཇམ་ཏོག་ཏོ་ གསལ་ཏོག་ཏོ་ དང་ རྒས་མིའི་དོན་ལུ་འོས་འབབ་ཡོད་མི་ཨིན། དཔེར་ན་ ཡིག་གཟུགས་ཆེ་བའི་ཚིག་འཚོལ་ གདམ་ཁ་གསལ་པའི་ཚོས་གཞི་བཀང་ནིའི་ཤོག་ལེབ་ གླེང་མོལ་འགོ་བཙུགས་མི་པར་རིས་ཤོག་བྱང་ དང་ སྡེ་ཚན་གྱི་དོན་ལུ་པར་རིས་བིང་གོ་ཚུ་ཨིན། ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་བའི་མི་དེ་གི་ དགའ་མི་དང་ ད་ལྟོའི་ལྕོགས་གྲུབ་དང་མཐུན་པའི་ ལས་རིམ་གདམ་ཁ་རྐྱབ་ནི་དང་ ཤོག་ལེབ་རེ་རེ་ནང་ ལས་ཀ་གཅིག་རྐྱངམ་ཅིག་བཞག།"
+  - q: "དཔར་བསྐྲུན་ཤོག་ལེབ་ཚུ་ མཐོང་སླ་དང་ལག་ལེན་འཐབ་སླཝ་སྦེ་ ག་དེ་སྦེ་འབད་ནི་ཨིན་ན?"
+    a: "ཡིག་གཟུགས་ཆེ་བ་དང་ གསལ་ཏོག་ཏོ་ལག་ལེན་འཐབ། ཤོག་ལེབ་དཀརཔོ་ ཡང་ན་ ཀི་རིམ་གུ་ཡིག་ནག་སྦེ་དཔར་བསྐྲུན་འབད། ས་སྟོངས་ལངམ་སྦེ་བཞག། ཤོག་ལེབ་ལྗིད་པོ་ ཡང་ན་ ཀཱཌི་སི་ཊོཀ་གུ་དཔར་བསྐྲུན་འབད་བ་ཅིན་ ཤོག་ལེབ་འདི་གནས་སྡོད་ལུ་ཕན་ཐོགས་ཡོད། འོད་འཕྲོ་ཉུང་བའི་ཤོག་ལེབ་གདམ་ཁ་རྐྱབ་ དང་ ཀི་ལིཔ་བོརཌ་ ཡང་ན་ མར་འབུད་མི་ཤོག་ལེབ་ལག་ལེན་འཐབ་ནི་གིས་ ཤོག་ལེབ་འདི་གནས་སྡོད་འབདཝ་ཨིན། ལེ་མི་ནེཊ་འབད་བ་ཅིན་ ཤོག་ལེབ་ཚུ་ཡུན་རིངམ་སྦེ་སྡོད་ཚུགས།"
+  - q: "བདག་སྐྱོང་ཁང་ ཡང་ན་ ཉིན་རེའི་ལས་རིམ་གྱི་དོན་ལུ་ ཁྱོད་ཀྱི་ལས་རིམ་ཚུ་ དཔར་བསྐྲུན་འབད་ཆོག་ག?"
+    a: "ཆོག ལས་རིམ་གྱི་ལས་བྱེདཔ་ཚུ་གིས་ ང་བཅས་ཀྱི་ཤོག་ལེབ་ཚུ་ གནས་སྡོདཔ་དང་སྡེ་ཚན་གྱི་དོན་ལུ་དཔར་བསྐྲུན་འབད་ཚུགས། པར་རིས་བིང་གོ་འདི་ སྡེ་ཚན་གྱི་དོན་ལུ་བཟོ་ཡོདཔ་དང་ གསལ་གཞིའི་ནང་ བོད་མི་བརྒྱུད་དེ་ ཊི་ཝི་ ཡང་ན་ པར་འཕྲུལ་གུ་སྟོན་ཚུགས་པའི་ གླེང་མི་གི་ཤོག་ངོས་ཡང་ཡོད།"
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+ལས་རིམ་ལེགས་ཤོམ་ཅིག་ ཚོང་ཁང་གི་ཁ་རེ་ཁ་ཐུག་གུ་ ཤོག་ལེབ་གཅིག་དང་སྨྱུ་གུ་གཅིག་ཡོད་པའི་ནང་འབད་ཚུགས། དཔར་བསྐྲུན་ལས་རིམ་ཚུ་ལུ་ གློག་ཤུགས་བཀང་ནི་ གསང་ཚིག་ ཡང་ན་ གསལ་གཞི་མི་དགོ། ལྟ་ཞིབ་འབད་ནི་དང་ སྡེ་ཚན་ནང་འཁྱེར་ནི་ལུ་ཡང་འཇམ་ཏོག་ཏོ་ཨིན། ཤོག་ལེབ་འདི་ནང་ ང་བཅས་ཀྱི་ས་ཁོངས་ནང་ཡོད་པའི་རིན་མེད་དཔར་བསྐྲུན་ལས་རིམ་ཚུ་ མཐོང་སླ་དང་འཇུག་སླཝ་སྦེ་དཔར་བསྐྲུན་འབད་ནིའི་ལམ་སྟོན་ དེ་ལས་ བཟའ་ཚང་དང་ལས་རིམ་གྱི་ལས་བྱེདཔ་ཚུ་ལུ་ ཕན་ཐོགས་ཡོད་མི་ ཁྱིམ་ནང་ལས་བཟོ་བའི་དཔར་བསྐྲུན་ཤོག་ལེབ་འཇམ་ཏོག་ཏོ་ཁ་ཤས་ཀྱི་སྐོར་ལས་འགྲེལ་བཤད་རྐྱབ་ཡོད།
 
-## What free printable activities do you offer?
+## ཁྱོད་ཀྱིས་ རིན་མེད་དཔར་བསྐྲུན་ལས་རིམ་ག་ཅི་ཚུ་ཕུལ་ནི་ཡོད?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+ང་བཅས་ཀྱིས་ རིན་མེད་དཔར་བསྐྲུན་བཞི་ཕུལཝ་ཡོད། འོག་གི་རྩེདམོའི་ཤོག་ལེབ་གང་རུང་ཅིག་ཁ་ཕྱེ་སྟེ་ **དཔར་བསྐྲུན་** ཨེབ་རྟ་ལག་ལེན་འཐབ་ནི་གིས་ དཔར་བསྐྲུན་འབད་ནི་ལུ་འོས་འབབ་ཅན་གྱི་ཐོན་རིམ་ལེན་ཚུགས།
 
-| Printable | What it is | Good for |
+| དཔར་བསྐྲུན་ | འདི་ག་ཅི་ཨིན་ན | འོས་འབབ་ཅན་ |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [ཚིག་འཚོལ་](/games/word-search/) | ཚིག་ཚུ་གཡས་དང་མར་རྐྱངམ་ཅིག་འགྱོ་མི་ ཡིག་གཟུགས་ཆེ་བའི་ཚིག་འཚོལ་ | སྨྱུ་གུ་དང་གཅིག་ཁར་ ཁུ་སིམ་སིམ་སྦེ་སྡོད་ནི། རྩེད་རིགས་ལུ་དགའ་མི། |
+| [ཚོས་གཞི་བཀང་ནི་](/games/coloring/) | དཔར་བསྐྲུན་འབད་ནི་ ཡང་ན་ གསལ་གཞིའི་ནང་ཚོས་གཞི་བཀང་ནིའི་ཤོག་ལེབ་ | ཞི་འཇམ་དང་གསར་བཏོད་ཀྱི་དུས་ཚོད། གྲོགས་རམ་དང་གཅིག་ཁར་གནས་སྐབས་གང་རུང་། |
+| [གླེང་མོལ་ཤོག་བྱང་](/games/conversation-cards/) | བརྗོད་གཞི་ལུ་གཞི་བཞག་སྟེ་ དྲི་བ་མེད་པའི་གླེང་མོལ་གྱི་འབོད་སྐུལ་ཡོད་པའི་པར་རིས་ཤོག་བྱང་ | ལྟ་ཞིབ་ ཁ་པར་གྱི་གླེང་མོལ་ བཟའ་ཚང་གི་ཟས་ཚིགས་ དྲན་གསོའི་སྡེ་ཚན། |
+| [པར་རིས་བིང་གོ་](/games/picture-bingo/) | ཨང་གྲངས་ཀྱི་ཚབ་ལུ་པར་རིས་ཡོད་པའི་བིང་གོའི་ཤོག་བྱང་ དང་ གསལ་གཞིའི་ནང་གི་གླེང་མི་ཤོག་ངོས་ | བདག་སྐྱོང་ཁང་ ཉིན་རེའི་ལས་རིམ་ བཟའ་ཚང་འཛོམས་འདུ། |
 
-### Large-print word search
+### ཡིག་གཟུགས་ཆེ་བའི་ཚིག་འཚོལ་
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[ཚིག་འཚོལ་](/games/word-search/) ནང་ ཡིག་འབྲུ་ཆེ་བ་ལག་ལེན་འཐབ་ཡོདཔ་དང་ ཚིག་ཚུ་གཡས་དང་མར་རྐྱངམ་ཅིག་འགྱོཝ་ཨིན། གྲངས་ཐིག་གཡོ་བཀོལ་ ཡང་ན་ རྒྱབ་ལོག་ལུ་འགྱོ་མི་ཚིག་མེད། མཉམ་དུ་འབད་ནི་ལེགས་ཤོམ་ཨིན། མི་གཅིག་གིས་ ཐོ་ཡིག་ནང་ལས་ཚིག་ཅིག་ལྷག་ གཞན་མི་གཅིག་གིས་འཚོལ། ཚིག་འཚོལ་ནི་ཕར་ཁག་པོ་འབྱུང་བ་ཅིན་ ཚིག་རེ་རེ་གི་ཡིག་འབྲུ་དང་པ་མཉམ་དུ་རྟགས་བཀལ་ ཡང་ན་ ཚིག་ཐོ་འདི་སྐད་ཆེན་པོ་སྦེ་ལྷག་སྟེ་ ཚིག་རེ་རེ་གི་སྐོར་ལས་གླེང་མོལ་འབད་ཆོག
 
-### Coloring pages
+### ཚོས་གཞི་བཀང་ནིའི་ཤོག་ལེབ་
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[ཚོས་གཞི་བཀང་ནི་](/games/coloring/) གི་ཤོག་ལེབ་ཚུ་ མར་ཀར་ ཡང་ན་ ཚོས་གཞིའི་སྨྱུ་གུ་གི་དོན་ལུ་དཔར་བསྐྲུན་འབད་ཚུགས། ཡང་ན་ ཊེབ་ལེཊི་གུ་ ཚོས་གཞི་གདམ་ཁ་རྐྱབ་སྟེ་ པར་རིས་ཀྱི་ཆ་ཤས་གུ་ཨེབ་ནི་གིས་ཚོས་གཞི་བཀང་ཚུགས། དཔར་བསྐྲུན་ཤོག་ལེབ་གི་དོན་ལུ་ མར་ཀར་ལྗིད་པོ་དང་ ཚོས་གཞི་ཉུང་ཀུ་ཅིག་སྤྲོད། ཚོས་གཞི་བཀང་ནི་འདི་ རྒས་མིའི་དོན་ལུ་དང་ ཞི་འཇམ་སྦེ་བཞག་ནིའི་ལམ་སྟོན་ཚུ་ [ལག་རྩལ་དང་བཟོ་རིག་གི་ལམ་སྟོན་](/activities/arts-and-crafts/) ནང་ལྷག་ཚུགས།
 
-### Conversation cards
+### གླེང་མོལ་ཤོག་བྱང་
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[གླེང་མོལ་ཤོག་བྱང་](/games/conversation-cards/) ནང་ གསལ་ཏོག་ཏོའི་པར་རིས་དང་མཉམ་དུ་ «ང་ལུ་སླབས་དང་...» ཡང་ན་ «ཁྱོད་ཀྱིས་ག་ཅི་མཐོངམ་སྨོ?» བཟུམ་གྱི་ ཁ་ཕྱེ་བའི་འབོད་སྐུལ་ཡོད། འདི་ཚུ་ དྲི་བ་དྲི་ནི་མེན་པར་ ཁ་ཕྱེ་བའི་གདན་ཞུ་སྦེ་བྲིས་ཡོད། ཤོག་བྱང་ཚུ་དཔར་བསྐྲུན་འབད་སྟེ་གཅོད་ ལྟ་ཞིབ་ཀྱི་དོན་ལུ་བང་རྒྱག་ནང་བཞག་ ཡང་ན་ ཁ་པར་གྱི་གླེང་མོལ་གྱི་དོན་ལུ་ ཁ་པར་གྱི་འཁྲིས་ནང་བཞག་ཆོག [དྲན་གསོ་](/activities/reminiscence/) གྱི་སྡེ་ཚན་ནང་ཡང་ལག་ལེན་འཐབ་ནི་ལུ་ལེགས་ཤོམ་ཨིན།
 
-### Picture bingo cards
+### པར་རིས་བིང་གོའི་ཤོག་བྱང་
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[པར་རིས་བིང་གོ་](/games/picture-bingo/) གི་ཤོག་བྱང་ཚུ་ནང་ ཨང་གྲངས་ཀྱི་ཚབ་ལུ་པར་རིས་ལག་ལེན་འཐབ་ཡོད། རྩེད་མི་རེ་ལུ་ཤོག་བྱང་གཅིག་དཔར་བསྐྲུན་འབད་ དེ་ལས་ ལེཔ་ཊོཔ་ ཊི་ཝི་ ཡང་ན་ པར་འཕྲུལ་གུ་ གསལ་གཞིའི་ནང་གི་གླེང་མི་ཤོག་ངོས་སྟོན། མི་ག་ར་གི་ཤོག་བྱང་གང་བར་ཚུན་ཚོད་ བརྡ་བཏང་ནི་ལུ་ང་བཅས་ཀྱིས་བསམ་འཆར་ཕུལཝ་ཨིན། དེ་འབད་བ་ཅིན་ མི་ག་ར་མཉམ་ཞུགས་འབད་ཚུགས། ལས་རིམ་འདི་ག་དེ་སྦེ་འཛིན་སྐྱོང་འཐབ་ནི་ཨིན་ན་གི་དོན་ལུ་ [བདག་སྐྱོང་ཁང་གི་སྡེ་ཚན་ལས་རིམ་](/activities/care-home-groups/) ལྷག།
 
-## How do I print activities so they are easy to use?
+## ལག་ལེན་འཐབ་སླཝ་སྦེ་ དཔར་བསྐྲུན་འབད་ནི་ག་དེ་སྦེ་འབད་ནི་ཨིན་ན?
 
-Small changes in how you print make a big difference.
+དཔར་བསྐྲུན་འབད་ཐངས་ནང་ འགྱུར་བ་ཆུང་ཀུ་ཅིག་གིས་ ཁྱད་པར་སྦོམ་ཅིག་བཟོཝ་ཨིན།
 
-### Make it easy to see
+### མཐོང་སླཝ་སྦེ་འབད།
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **ཡིག་གཟུགས་ཆེ་བ་དང་གསལ་ཏོག་ཏོ།** ཤོག་ལེབ་ནང་འོས་འབབ་འབད་མི་ ཡིག་གཟུགས་ཆེ་ཤོས་ལག་ལེན་འཐབ། རྩེད་མོ་ཅན་གྱི་ཡིག་གཟུགས་ལག་ལེན་མ་འཐབ།
+- **ཁྱད་པར་སྟོན་ཚུགས་པ།** ཤོག་ལེབ་དཀརཔོ་ ཡང་ན་ ཀི་རིམ་གུ་ ཡིག་ནག་སྦེ་དཔར་བསྐྲུན་འབད། སྐྱ་པོ་སླ་བ་ ཡང་ན་ ཚོས་གཞི་ཅན་གྱི་རྒྱབ་ལྗོངས་ལག་ལེན་མ་འཐབ།
+- **འོད་འཕྲོ་ཉུང་བའི་ཤོག་ལེབ་** འོད་ཤུགས་ཅན་གྱི་འོག་ལུ་ འོད་འཕྲོ་ཉུངམ་སྦེ་བཟོཝ་ཨིན།
+- **མིག་ཤེལ་དང་འོད་ཀྱི་གནས་སྟངས་ཞིབ་དཔྱད་འབད།** Alzheimer's Association གིས་ མཐོང་ཤུགས་དང་ཉན་ཤུགས་ཀྱི་དཀའ་ངལ་གྱིས་ གླེང་མོལ་ཕར་ཁག་པོ་བཟོ་ཚུགས་པའི་སྐོར་ལས་སླབ་ཡོདཔ་དང་ དུས་རྒྱུན་དུ་ཞིབ་དཔྱད་འབད་ནི་ལུ་བསམ་འཆར་ཕུལཝ་ཨིན། གསལ་ཏོག་ཏོ་དང་མཉམ་ཏོག་ཏོའི་གློག་སྒྲོན་ཡང་ཕན་ཐོགས་ཡོད།
 
-### Make it easy to hold
+### འཇུག་སླཝ་སྦེ་འབད།
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **ཤོག་ལེབ་ལྗིད་པོ་ ཡང་ན་ ཀཱཌི་སི་ཊོཀ་** གནས་སྡོད་ལུ་ ལག་པ་གིས་འཇུག་སླ་ལུ་ ལོག་ལག་ལེན་འཐབ་ནི་ལུ་ཡང་ལེགས་ཤོམ་ཨིན།
+- **ཀི་ལིཔ་བོརཌ་** ཡང་ན་ མར་འབུད་མི་ཤོག་ལེབ་གིས་ ཤོག་ལེབ་འདི་མར་འབུད་ནི་ལས་བཀག་འཛིན་འབདཝ་ཨིན།
+- **མར་ཀར་ལྗིད་པོ་ ཡང་ན་ སྨྱུ་གུ་ལྗིད་པོ་** སྨྱུ་གུ་ཕྲ་མོ་ལས་ལག་པ་གིས་འཇིགས་སླཝ་ཨིན།
 
-### Make it reusable
+### ལོག་ལག་ལེན་འཐབ་ཚུགས་པ་སྦེ་འབད།
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **ཤོག་ལེབ་ཚུ་ལེ་མི་ནེཊ་འབད་** ཡང་ན་ གསལ་ཏོག་ཏོའི་ཤོག་ལེབ་ཀོང་ནང་བཙུགས། ཚིག་འཚོལ་དང་བིང་གོའི་ཤོག་བྱང་གུ་ འབྲུ་བཏོན་ཚུགས་པའི་མར་ཀར་ལག་ལེན་འཐབ་སྟེ་ ཤུལ་ལས་བཏོན་གཏང་ཚུགས།
+- **འོད་འཕྲོ་ཉུང་བའི་ཀོང་** དཀའ་ངལ་ཡོད་པ་ཅིན་ གདམ་ཁ་རྐྱབ་ དང་ ལེ་མི་ནེཊ་འབད་ཡོད་པའི་ཤོག་བྱང་གི་ཟུར་ཚུ་ ཀ་ཏ་གིས་ཟུར་སྒྲིལ་བཏང་ནི་གིས་ ལག་པ་གིས་འཛིན་ནི་ལུ་ལེགས་ཤོམ་འོང་།
+- **དགའ་མི་ཤོག་ལེབ་ཚུ་ ཡིག་སྣོད་ནང་བཞག** དེ་འབད་བ་ཅིན་ བདུན་ཕྲག་རེ་རེ་ལུ་ ཤོག་ལེབ་གཅིག་པ་ལོག་དཔར་བསྐྲུན་འབད་མི་དགོ།
 
-### Keep it simple
+### འཇམ་ཏོག་ཏོ་སྦེ་བཞག
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **ཤོག་ལེབ་རེ་རེ་ནང་ ལས་ཀ་གཅིག།** ཤོག་ལེབ་གཅིག་ནང་ ལས་རིམ་མང་པོ་མ་བཙུགས་པར་ ཚིག་འཚོལ་གཅིག་ ཡང་ན་ པར་རིས་གཅིག་རྐྱངམ་ཅིག་བཞག།
+- **ས་སྟོངས་ལངམ་སྦེ་བཞག།** ཤོག་ལེབ་མང་དྲགས་པ་ཅིན་ མཐོང་མི་ལུ་ཕར་ཁག་པོ་འབྱུང་ཚུགས།
+- **ཚུགས་ཚོད་ཅིན་ ལྷག་དགོ་པའི་ལམ་སྟོན་མ་བྲིས།** ག་དེ་སྦེ་འབད་ནི་ཨིན་ན་ སྟོན་ནི་གིས་ལེགས་ཤོམ་ཨིན།
+- **ཤོག་ལེབ་ཆུང་ཀུ་སྦེ་གཅོད།** ཤོག་ལེབ་ཆ་ཚང་ཅིག་མང་དྲགས་པ་ཅིན་ ཕྱེད་ཀ་སྦེ་གཅོད་ ཡང་ན་ ལྡེབ་སྟེ་ ཆ་ཤས་ཅིག་རྐྱངམ་ཅིག་སྟོན།
 
-## Other useful printables you can make at home
+## ཁྱིམ་ནང་ལས་བཟོ་ཚུགས་པའི་ ཕན་ཐོགས་ཅན་གྱི་དཔར་བསྐྲུན་གཞན་ཚུ་ག་ཅི་ཡོད?
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+ཕན་ཐོགས་ཅན་གྱི་དཔར་བསྐྲུན་ཚུ་ ག་ར་རྩེདམོ་མེན། འོག་གི་དཔེར་བརྗོད་ཚུ་ ཡིག་བཟོ་ལག་ཆས་དང་དཔར་འཕྲུལ་གྱིས་ འཇམ་ཏོག་ཏོ་སྦེ་བཟོ་ཚུགས།
 
-### A life-story page
+### མི་ཚེའི་ལོ་རྒྱུས་ཤོག་ལེབ་
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+ཤོག་ལེབ་གཅིག་ནང་ «ང་གི་སྐོར་» ཟེར་མི་ པར་རིས་ ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་བའི་མི་དེ་གིས་ བོད་ནི་ལུ་དགའ་མི་མིང་ ག་ཏེ་ལས་ཆེར་སྐྱེས་ཡོད་ག་ ལས་ཀ་ བཟའ་ཚང་ དགའ་མི་ཟས་རིགས་ རོལ་དབྱངས་ དེ་ལས་ སེམས་ཁྲལ་ཉུངམ་སྦེ་བཟོ་མི་ ཡང་ན་ སེམས་ཁྲལ་བཟོ་མི་དོན་ཚན་ཚུ་བཙུགས། Dementia Australia གིས་ མི་དེ་གི་མི་ཚེ་ དགའ་མི་ དང་ གལ་ཆེ་བའི་མི་ཚུ་གི་སྐོར་ལས་ཡོད་པའི་ [དྲན་གསོའི་དེབ་](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ཅིག་བཟོ་ནི་ལུ་བསམ་འཆར་ཕུལཝ་ཨིན། དེ་གིས་ ལྟ་ཞིབཔ་དང་བདག་སྐྱོངཔ་ཚུ་ལུ་གྲོགས་རམ་འབད་ཚུགསཔ་ད་ གླེང་མོལ་ཡང་འགོ་བཙུགས་ཚུགས།
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+སྨན་ཁང་དང་བདག་སྐྱོང་གི་གནས་སྟངས་གསརཔ་ནང་ འདི་ལེགས་ཤོམ་སྦེ་ཕན་ཐོགས་ཡོད། NIA གིས་ མི་དེ་གི་ཉིན་རེའི་ལམ་ལུགས་ བོད་ནི་ལུ་དགའ་མི་མིང་ དགའ་མི་དང་མི་དགའ་མི་ སེམས་ཁྲལ་བཟོ་ཚུགས་པའི་དོན་ཚན་ དེ་ལས་ ན་ཚ་མེད་པའི་རྟགས་མཚན་ཚུ་ཚུད་པའི་ [མི་སྒེར་གྱི་གནས་ཚུལ་ཤོག་ལེབ་](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ཅིག་ སྨན་ཁང་གི་ལས་བྱེདཔ་ཚུ་ལུ་སྤྲོད་ནི་ལུ་བསམ་འཆར་ཕུལཝ་ཨིན།
 
-### A daily schedule
+### ཉིན་རེའི་འཆར་གཞི་
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+ཉིནམ་གཅིག་གི་དོན་ལུ་ དུས་ཚོད་ ཚིག་ཉུང་ཀུ་ཅིག་ དང་ ཆ་ཤས་རེ་རེ་ལུ་པར་རིས་ཆུང་ཀུ་ཅིག་ཡོད་པའི་ འཇམ་ཏོག་ཏོ་དང་གསལ་ཏོག་ཏོའི་འཆར་གཞི་ཅིག་བཟོ། དཔེར་ན་ ཞོགས་ཟས་ འགྲུལ་བཞུད་ ཉིན་གུང་ཟས་ ངལ་གསོ་ རོལ་དབྱངས་ དགོང་ཟས་བཟུམ། Alzheimer's Association གི་ [ཉིན་རེའི་བདག་སྐྱོང་འཆར་གཞི་](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ནང་ མི་དེ་གི་ཉིནམ་གྱི་དུས་ཚོད་ལེགས་ཤོམ་དང་མཐུན་པའི་འཆར་གཞི་བཟོ་ནི་ ལྡང་ནི་དང་ཉལ་ནིའི་དུས་ཚོད་མཉམ་ཏོག་ཏོ་བཞག་ནི་ དེ་ལས་ ལས་རིམ་དང་ངལ་གསོའི་བར་ན་ མཉམ་སྦྲགས་བཞག་ནི་ལུ་བསམ་འཆར་ཕུལཝ་ཨིན། འདི་ མིག་གི་གནས་ས་ལུ་བཙུགས་ དཔེར་ན་ ཨའིསི་སྒམ་གུ་བཟུམ་ དེ་ལས་ འགྱུར་བ་བཏང་ཚུགས་པ་སྦེ་བཞག། ཁ་གསལ་བར་ [ཉིན་རེའི་ལམ་ལུགས་ཀྱི་ལམ་སྟོན་](/activities/daily-routine/) ལྷག།
 
-### Picture labels for rooms and drawers
+### ཁང་མིག་དང་ཁུང་སྒྲོམ་གྱི་པར་རིས་མིང་བྱང་
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA གིས་ [གསང་སྤྱོད་ཁང་མིག་ ཉལ་ཁང་ དང་ ཐབ་ཚང་](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ཚུ་ལུ་ ཚོས་གཞི་གསལ་བའི་མིང་བྱང་ ཡང་ན་ འཇམ་ཏོག་ཏོའི་པར་རིས་ལག་ལེན་འཐབ་ནི་ལུ་བསམ་འཆར་ཕུལཝ་ཨིན། དེ་འབདཝ་འདྲ་ ཁུང་སྒྲོམ་དང་སྒམ་ནང་ཡང་ལག་ལེན་འཐབ་ཚུགས། དཔེར་ན་ ཨོམ་ཤུབས་ཀྱི་ཁུང་སྒྲོམ་གུ་ཨོམ་ཤུབས་ཀྱི་པར་རིས་ ཕོར་པའི་སྒམ་གུ་ཕོར་པའི་པར་རིས་བཟུམ། དཔར་བསྐྲུན་འབད་སྟེ་ ལེ་མི་ནེཊ་འབད་དེ་ བཙུགས་ཆོག
 
-### A sorting set
+### དབྱེ་སྒྲིག་གི་ཆ་ཚན་
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+ཤིང་ཏོག་དང་མེ་ཏོག་ ཡང་ན་ ལག་ཆས་དང་ཐབ་ཚང་གི་ཅ་ཆས་བཟུམ་གྱི་ དབྱེ་ཁག་འཇམ་ཏོག་ཏོ་གཉིས་ཀྱི་པར་རིས་ཚུ་ ཀཱཌི་སི་ཊོཀ་གུ་དཔར་བསྐྲུན་འབད། གཅོད་སྟེ་ སླེ་བོ་གཉིས་ནང་མཉམ་དུ་དབྱེ་སྒྲིག་འབད། གསལ་གཞིའི་ནང་ལུ་ འདི་དང་འདྲ་བའི་ཐོན་རིམ་འདི་ [མཉམ་དུ་དབྱེ་སྒྲིག་](/games/sort-together/) ཨིན།
 
-### Song lyric sheets
+### གླུ་གཞས་ཀྱི་ཚིག་ཤོག་ལེབ་
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+མཉམ་དུ་གླུ་ལེན་ནིའི་དོན་ལུ་ དགའ་མི་གླུ་གཞས་ཁ་ཤས་ཀྱི་ཚིག་ཚུ་ ཡིག་གཟུགས་ཆེན་པོ་སྦེ་དཔར་བསྐྲུན་འབད། ལྷག་མི་ལྷགཔ་རང་སེམས་མ་ཁྲེལ་རུང་ ཤོག་ལེབ་འདི་ལག་པ་ནང་འཛིན་ནི་ལུ་དགའ་ཚུགས།
 
-### A family photo page
+### བཟའ་ཚང་གི་པར་རིས་ཤོག་ལེབ་
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+ཤོག་ལེབ་གཅིག་ནང་ བཟའ་ཚང་གི་པར་རིས་ཆེ་བ་ བཞི་ལས་དྲུག་ཚུན་ཚོད་བཙུགས་ དེ་ལས་ པར་རིས་རེ་རེ་གི་འོག་ལུ་ མིང་དང་པ་བྲིས། ཁ་རེ་ཁ་ཐུག་གུ་བཞག་སྟེ་ མི་ག་ར་གིས་འཇུག་སྟེ་གླེང་མོལ་འབད་ཚུགས། མིང་བྱང་ཡོད་པ་ཅིན་ ལྟ་ཞིབཔ་དང་ལས་བྱེདཔ་ཚུ་ཡང་ གླེང་མོལ་ནང་མཉམ་ཞུགས་འབད་སླཝ་ཨིན། «འདི་ག་ཨིན་ན?» ཟེར་སླབ་མི་དགོ།
 
-### A recipe card
+### ཟས་རིགས་ཀྱི་ཤོག་བྱང་
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+བཟའ་ཚང་གི་དགའ་མི་ཟས་རིགས་ཀྱི་བཟོ་ཐངས་ཅིག་ ཡིག་གཟུགས་ཆེན་པོ་སྦེ་དཔར་བསྐྲུན་འབད། མཉམ་དུ་ཟ་མ་བཟོ་ནི་ལུ་ལག་ལེན་འཐབ་ཚུགས་ ཡང་ན་ རྒྱབ་ལོག་གི་ཟས་ཚིགས་ཀྱི་སྐོར་ལས་གླེང་མོལ་རྐྱངམ་ཅིག་ཡང་འབད་ཚུགས།
 
-## How do I offer a printable without it feeling like homework?
+## ཁྱིམ་སྡོད་ལས་ཀ་བཟུམ་མེན་པར་ དཔར་བསྐྲུན་ཤོག་ལེབ་ཅིག་ག་དེ་སྦེ་ཕུལ་ནི་ཨིན་ན?
 
-Present it as something to share, not a test.
+བརྟག་དཔྱད་མེན་པར་ མཉམ་སྦྲགས་འབད་ནིའི་དོན་ཚན་ཅིག་སྦེ་ཕུལ།
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **ཁྱོད་ར་འགོ་བཙུགས་སྟེ་སྡོད།** «ང་གིས་ཚིག་འཚོལ་འདི་འབད་དོ། ང་ལུ་ 'garden' འཚོལ་ནི་ལུ་གྲོགས་རམ་འབད་ནི་ཨིན་ན?»
+- **མཉམ་དུ་འབད།** ཐེངས་རེ་རེ་སྦེ་འབད་ ཡང་ན་ མི་གཅིག་གིས་འཚོལ་ གཞན་མི་གཅིག་གིས་རྟགས་བཀལ།
+- **ནམ་ཡང་འཛོལ་བ་དང་མ་འཛོལ་བ་ རྟགས་མ་བཀལ།** Alzheimer's Association གི་ [ཁྱིམ་ནང་གི་ལས་རིམ་](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) གི་ལམ་སྟོན་ནང་ གྲུབ་འབྲས་ལས་ ལས་རིམ་གྱི་བྱ་རིམ་དང་ དགའ་སྤྲོ་ལུ་གཙོ་བོ་བཟོ་ནི་ལུ་བསམ་འཆར་ཕུལཝ་ཨིན།
+- **ཤོག་ལེབ་ཚུ་ ལག་ལེན་འཐབ་སླ་ས་ནང་བཞག།** ལམ་སྟོན་དེ་ནང་ དྲན་དེབ་ པར་དེབ་ ཡང་ན་ རྙིང་པའི་དུས་དེབ་ཚུ་ ལག་ལུ་འོས་སླ་ས་ནང་བཞག་ནི་ལུ་བསམ་འཆར་ཕུལཝ་ཨིན། དཔར་བསྐྲུན་ཤོག་བྱང་དང་པར་རིས་ཤོག་ལེབ་ཚུ་ཡང་ ཁ་རེ་ཁ་ཐུག་གི་ཁ་གཏད་ནང་བཞག་ཆོག
+- **དགའ་བ་ཅིན་བཞག།** ཚོས་གཞི་བཀང་ནིའི་ཤོག་ལེབ་ཕྱེད་ཀ་ཅིག་ ཕྱི་དྲོའི་དུས་ཚོད་ལེགས་ཤོམ་ཅིག་ཨིན་ཚུགས། ཤོག་ལེབ་བཞག་སྟེ་ ཇ་འཐུང་ནི་ཡང་ལེགས་ཤོམ་ཨིན།
 
-## Where to find more
+## ཁ་གསལ་མངམ་སྦེ་ག་ཏེ་ལས་ལྷག་ནི་ཨིན་ན?
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+ང་བཅས་ཀྱི་ [རྩེདམོ་དང་དཔར་བསྐྲུན་](/games/) ག་ར་ལྷག་ ཡང་ན་ ཤོག་ལེབ་ཡོད་མེད་ག་ར་ལུ་འོས་འབབ་ཅན་གྱི་བསམ་འཆར་ཚུ་གི་དོན་ལུ་ [གནས་སྐབས་ག་ར་ལུ་འོས་པའི་ལས་རིམ་](/activities/ideas/) ལྷག།

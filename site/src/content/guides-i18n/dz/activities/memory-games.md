@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "དྲན་ཤེས་ཉམས་ཆག་ཅན་གྱི་མི་རྒས་པའི་དོན་ལུ་དྲན་ཤེས་རྩེདམོ།"
+seoTitle: "དྲན་ཤེས་ཉམས་ཆག་དོན་ལུ་འཇམ་ཏོག་ཏོ་བའི་རྩེདམོ།"
+description: "དྲན་ཤེས་ཉམས་ཆག་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་རྒས་པའི་དོན་ལུ་ མཐུན་སྒྲིག་དང་པར་རིས་ ཤོག་བྱང་རྩེདམོ་ཚུ་ ག་དེ་སྦེ་རྩེ་ནི་ཨིན་ན་དང་ འཚོལ་ཞིབ་མེད་པར་རྩེ་ཐངས།"
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  དྲན་ཤེས་ཉམས་ཆག་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་རྒས་པ་ཚུ་གི་དོན་ལུ་ དྲན་ཤེས་རྩེདམོ་ཚུ་
+  དྲན་ཤེས་ལུ་མ་བརྟེན་པར་རྩེ་བ་ཅིན་ ལེགས་ཤོམ་འབདཝ་ཨིན། པར་རིས་ཚུ་གནམ་ལུ་བཀྲམ་སྟེ་
+  མཐུན་སྒྲིག་རྩེདམོ་རྩེ། ཊ་ཡིལ་༤་ལས་༦་ཚུན་ལག་ལེན་འཐབ། མཉམ་རུབ་སྦེ་རྩེ་ཞིནམ་ལས་
+  གྲངས་ཐོ་བཞག་ནི་མེདཔ་བཟོ། པར་རིས་ཅིག་དྲན་ནི་ལས་ མཐོང་ཚུགས་པའི་པར་རིས་ཅིག་ངོས་འཛིན་འབད་ནི་
+  ལས་སླ་བའི་དོན་ལས་ ག་ཅི་ར་མཐོང་ཚུགས་པར་བཞག། དམིགས་ཡུལ་འདི་ གྲུབ་འབྲས་མེན་པར་
+  སྐད་ཆ་བཤད་སྟེ་སྤྲོ་བ་ཚོར་ནི་ཨིན།
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "སྤྱིར་བཏང་གི་དྲན་ཤེས་རྩེདམོ་ཚུ་གིས་ཤོག་བྱང་ཚུ་སྦ་སྟེ་ དྲན་ཤེས་ཉམས་ཆག་གིས་དཀའ་བ་བཟོ་མི་དེ་ར་འཚོལ་ཞིབ་འབདཝ་ཨིན། དེ་གི་ཚབ་ལུ་པར་རིས་ཚུ་གནམ་ལུ་བཀྲམ་སྟེ་བཞག།"
+  - "རྩེདམོ་གྲུ་ཆུང་ཀུ་དང་ པར་རིས་ཆེ་བ་ ཚར་གཅིག་ལུ་གདམ་ཁ་གཅིག་རྐྱངམ་ཅིག་བཟོ་བ་ཅིན་ རྩེདམོ་འདི་སྤྲོ་ཏོག་ཏོ་སྦེ་འབད་ཚུགས།"
+  - "མཉམ་རུབ་སྦེ་རྩེ། རེས་མོས་སྦེ་གྲོགས་རམ་འབད། གྲངས་ཐོ་བཞག་ནི་མེདཔ་བཟོ། ག་ར་ལུ་ཡང་དཀའ་ངལ་མི་བཟོ།"
+  - "དྲན་ཤེས་རྩེདམོ་ག་ཅི་གིས་ཡང་ དྲན་ཤེས་ཉམས་ཆག་སྨན་བཅོས་འབད་ཚུགསཔ་ ལྷོད་ཚུགསཔ་ ཡང་ན་བཀག་འཛིན་འབད་ཚུགསཔ་སྦེ་ སྟོན་མི་འདུག། མཉམ་དུ་སྐད་ཆ་བཤད་སྟེ་སྤྲོ་བ་ཚོར་ནིའི་དོན་ལུ་རྩེ།"
+  - "སྤྲོ་བ་ཡོད་པའི་སྐབས་ལུ་བཀག། པར་རིས་ཚུ་གི་སྐོར་ལས་སྐད་ཆ་བཤད་ནི་འདི་ཡང་ལེགས་ཤོམ་གྱི་གྲུབ་འབྲས་ཅིག་ཨིན།"
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "དྲན་ཤེས་ཉམས་ཆག་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་གི་དོན་ལུ་དྲན་ཤེས་རྩེདམོ་ག་ཅི་འབད་བ་ཅིན་ལེགས་ག?"
+    a: "པར་རིས་ཆེ་བ་དང་རྒྱུས་མངའ་ཡོད་པའི་པར་རིས་ཚུ་དང་གཅིག་ཁར་ གནམ་ལུ་བཀྲམ་སྟེ་བཞག་ཚུགས་པའི་མཐུན་སྒྲིག་རྩེདམོ་ཅིག་ དཔེར་ན་ Picture pairs ཊ་ཡིལ་༤་ཡང་ན་༦་ལུ་སྒྲིག་མི། མཐོང་ཚུགས་པའི་པར་རིས་ཀྱི་འདྲ་མཉམ་འཚོལ་ནི་འདི་གིས་ ཐུང་ཀུའི་དྲན་ཤེས་འཚོལ་ཞིབ་མེད་པར་སྤྲོ་བ་བྱིནམ་ཨིན། Find the same འདི་ གདམ་ཁ་༢་ལས་༤་ཚུན་ནང་ལས་མཐུན་པ་འཚོལ་ནི་ཨིནམ་ལས་ དེ་ལས་ཡང་ལས་སླ།"
+  - q: "དྲན་ཤེས་རྩེདམོ་ཚུ་གིས་དྲན་ཤེས་ཉམས་ཆག་ལུ་ཕན་ཐོགས་འབད་ཚུགས་ག?"
+    a: "དྲན་ཤེས་རྩེདམོ་ག་ཅི་གིས་ཡང་ དྲན་ཤེས་ཉམས་ཆག་སྨན་བཅོས་འབད་ཚུགསཔ་ ལྷོད་ཚུགསཔ་ ཡང་ན་བཀག་འཛིན་འབད་ཚུགསཔ་སྦེ་ སྟོན་མི་འདུག། Cochrane ཞིབ་དཔྱད་ཅིག་གིས་ གློག་རིག་ཀླད་པའི་སྦྱོང་བརྡར་གྱིས་ དྲན་ཤེས་ཉམས་ཆག་བཀག་འཛིན་འབད་ཚུགས་ག་མི་ཚུགས་ག་སླབ་ནི་ལུ་ སྟོན་རྟགས་ཚུ་ཉུང་དྲགས་ཡོདཔ་སྦེ་མཐོང་ཡོད། དེ་འབདཝ་ད་ རྩེདམོ་ཚུ་ མཉམ་དུ་དུས་ཚོད་སྤྲོ་ཏོག་ཏོ་སྦེ་སྤྱོད་ནིའི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན་བཏུབ། སྤྲོ་བ་དང་མཉམ་འབྲེལ་གྱི་དོན་ལུ་གདམ།"
+  - q: "དྲན་ཤེས་ཉམས་ཆག་ཡོད་མི་དང་གཅིག་ཁར་ སྤྱིར་བཏང་གི་ Concentration རྩེ་དགོཔ་ཨིན་ན?"
+    a: "འགོ་ཐོག་ལུ་ མི་ལ་ལ་ཅིག་གིས་ད་ལྟོ་ཡང་སྤྲོ་བ་ཚོར་འོང་ ལག་ལེན་འཐབ་མི་ཤོག་བྱང་གྲངས་ཉུང་ཀུ་ཅིག་དང་གཅིག་ཁར། ཤོག་བྱང་ག་ཏེ་ཡོད་མི་དྲན་ནི་འདི་གིས་ དཀའ་ངལ་བཟོ་འགོ་བཙུགས་པ་ཅིན་ ཤོག་བྱང་ཚུ་གནམ་ལུ་བཀྲམ་སྟེ་ མཉམ་དུ་མཐུན་སྒྲིག་འཚོལ། དེ་གིས་མཐུན་སྒྲིག་འབད་ནི་འདི་བཞག་སྟེ་ དྲན་ཤེས་ཀྱི་འཚོལ་ཞིབ་འདི་མེདཔ་བཟོཝ་ཨིན།"
+  - q: "སྡེ་ཚན་ནང་མི་རྒས་པ་ཚུ་གི་དོན་ལུ་དྲན་ཤེས་རྩེདམོ་ག་ཅི་འབད་བ་ཅིན་ལེགས་ག?"
+    a: "གསལ་གཞི་ནང་བོད་མི་འབད་མི་དང་གཅིག་ཁར་ Picture bingo། རྒྱུས་མངའ་ཡོད་པའི་ཚིག་སྦྱོར་ཚུ་མཉམ་དུ་མཇུག་བསྡུ་ནི། དེ་ལས་སྐད་ཆ་བཤད་ནིའི་ཤོག་བྱང་ཚུ་ སྡེ་ཚན་གྱི་དོན་ལུ་འབད་ཤོམ་སྦེ་ཡོད། ཤོག་བྱང་ག་ར་གང་བ་ཚུན་ཚོད་རྩེ་ཞིནམ་ལས་ ག་གིས་ལན་བཏབ་ཡོད་མི་སྦེ་མི་སླབ་ དེ་མི་གིས་ག་ར་ལུ་ཡང་དབྱེ་བ་མི་ཚོར་བའི་དོན་ལུ་ཨིན།"
+  - q: "དྲ་ཐོག་ལུ་མི་རྒས་པ་ཚུ་གི་དོན་ལུ་རིན་མེད་ཀྱི་དྲན་ཤེས་རྩེདམོ་ཡོད་ག?"
+    a: "ཡོད། ས་ཁོངས་འདི་ནང་གི་རྩེདམོ་ཚུ་ དཔེར་ན་ Picture pairs, Find the same, Photo pairs དང་ Picture puzzle ཚུ་རིན་མེད་ཨིནམ་དང་ ཐོ་བཀོད་མི་དགོ་ ཁ་པར་དང་ཊེབ་ལེཊི་ གློག་རིག་ནང་ལུ་འབད་ཚུགས། ག་ཅི་ནང་ཡང་དུས་ཚོད་ཚད་འཛིན་ཡང་ན་གྲངས་ཐོ་མེད།"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+"memory games for seniors" ཟེར་སྦེ་འཚོལ་བ་ཅིན་ མང་ཤོས་ར་མཐོང་མི་འདི་ ཀླད་པ་ལཱ་གཡོག་བཟོ་ནི་འདོད་མི་ཚུ་གི་དོན་ལུ་བཟོ་ཡོདཔ་ཨིན། ཤོག་བྱང་སྦ་བཞག་ཡོདཔ་ དུས་ཚོད་ཚད་འཛིན་ རིམ་པ་དང་གྲངས་ཐོ་ཚུ་ཡོད། དྲན་ཤེས་ཉམས་ཆག་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་གི་དོན་ལུ་ ཁྱད་ཆོས་འདི་ཚུ་གིས་ རྩེདམོ་འདི་དཀའ་བ་ཆགས་ཡོད་མི་གི་འཚོལ་ཞིབ་ལུ་བསྒྱུར་འོང་། དེ་འབདཝ་ད་ རྩེདམོ་འདི་ཚུ་ར་ འཇམ་ཏོག་ཏོ་སྦེ་རྩེ་ཚུགས། ཤོག་ལེབ་འདི་ནང་ ག་དེ་སྦེ་འབད་ནི་ཨིན་ན་དང་ རིམ་པ་རེ་རེ་ལུ་འབད་ཤོམ་སྦེ་ཡོད་པའི་རྩེདམོ་ཚུ་སྟོནམ་ཨིན།
 
-## Why do classic memory games frustrate people with dementia?
+## སྤྱིར་བཏང་གི་དྲན་ཤེས་རྩེདམོ་ཚུ་གིས་ཅིག་སྦེ་དཀའ་ངལ་བཟོ་སློང་འོང་?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+དེ་ཚུ་གིས་ གསརཔ་སྦེ་ཤེས་པའི་དོན་ཚན་ཚུ་ སེམས་ནང་བཞག་དགོ་པའི་ཐོག་ལུ་བརྟེན་དགོཔ་ཨིན། འདི་འབདཝ་ད་ དྲན་ཤེས་ཉམས་ཆག་གི་རྒྱུ་མཚན་མང་ཤོས་ཨིན་མི་ ཨཱལ་ཛི་མར་གྱིས་ འགོ་ཐོག་ལུ་གནོད་འབད་ས་འདི་ཨིན། [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) གིས་ ཨཱལ་ཛི་མར་གྱི་འགོ་ཐོག་གི་མཚོན་རྟགས་མང་ཤོས་འདི་ གསརཔ་སྦེ་སླབས་པའི་དོན་ཚན་དྲན་ནི་དཀའ་བ་ཨིན་ཟེར་སླབ་ཨིན། སྤྱིར་བཏང་གི་ Concentration ནང་ ཁྱོད་ཀྱིས་ཤོག་བྱང་གཉིས་ཕྱིར་ལོག་འབད་ཞིནམ་ལས་ དེ་ཚུ་ག་པར་ཡོད་མི་དྲན་དགོ་ དེ་ལས་སྐར་མ་འགའ་ཤུལ་ལས་ལག་ལེན་འཐབ་དགོ། དེ་འབདཝ་ད་ གསརཔ་སྦེ་ཤེས་པའི་དོན་ཚན་འདི་ བཞག་སྟེ་དྲན་དགོཔ་ཨིན།
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+དུས་ཚོད་ཚད་འཛིན་ གྲངས་ཐོ་ ཡང་ན་ལན་ནོར་བའི་སྐབས་སྒྲ་བརྡ་ཁ་སྐོང་བརྐྱབ་པ་ཅིན་ ཁྱོད་ཀྱིས་དགའ་མི་དེ་གི་སྒང་ལུ་ ཁོང་གིས་མི་ཚུགས་པའི་དོན་ཚན་འདི་ དྲན་བཅུགཔ་བཟུམ་འབདཝ་ཨིན། མི་ལ་ལ་ཅིག་གིས་ ཁ་ཁུ་སིམ་པོ་སྦེ་རྩེ་ནི་མེདཔ་འགྱོ་འོང་།
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+མཐོང་ཚུགས་པའི་དངོས་པོ་ཅིག་ངོས་འཛིན་འབད་ནི་འདི་ སོ་སོ་དང་མང་ཆེ་ཤོས་ར་ལས་སླ་བའི་ལས་ཀ་ཅིག་ཨིན། ཇ་ཕོར་གཉིས་ཀ་མཐོང་སར་ཡོད་པའི་སྐབས་ གཉིས་པ་དེ་ལུ་མཛུབ་མོ་བཙུགས་མི་འདི་སྤྲོ་བ་བྱིནམ་ཨིན། དེ་འབདཝ་ལས་ ཐབས་ལམ་འདི་ མཐུན་སྒྲིག་འབད་ནི་འདི་བཞག་སྟེ་ དྲན་ཤེས་ཀྱི་འཚོལ་ཞིབ་འདི་མེདཔ་བཟོ་ནི་ཨིན།
 
-## How do you make a memory game gentle?
+## དྲན་ཤེས་རྩེདམོ་ཅིག་ འཇམ་ཏོག་ཏོ་སྦེ་ག་དེ་སྦེ་བཟོ་ནི?
 
-These adjustments work for card games, board games and games on a screen.
+འོག་གི་བསྒྱུར་བཅོས་འདི་ཚུ་ ཤོག་བྱང་རྩེདམོ་ བརྡར་ཁྱད་རྩེདམོ་ དེ་ལས་གསལ་གཞི་ནང་གི་རྩེདམོ་ཚུ་ག་ར་ལུ་འབད་ཤོམ་སྦེ་ཡོད།
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **པར་རིས་ཚུ་གནམ་ལུ་བཀྲམ་སྟེ་བཞག།** མཐོང་ཚུགས་པའི་པར་རིས་ཚུ་མཐུན་སྒྲིག་འབད་ནི་འདི་ ད་ལྟོ་ཡང་ངོ་མའི་རྩེདམོ་ཅིག་ཨིནམ་དང་ མང་ཆེ་ཤོས་ར་སྤྲོ་བ་བྱིནམ་ཨིན།
+2. **རྩེདམོ་གྲུ་ཉུང་ཀུ་ལག་ལེན་འཐབ།** མཐུན་སྒྲིག་གཉིས་ཡང་ན་གསུམ་ལས་འགོ་བཙུགས། ལས་སླ་དྲགས་སྦེ་མཐོང་སྟེ་ ཁོང་གིས་ལྷག་སྟེ་འདོད་པ་ཅིན་རྐྱངམ་ཅིག་ ཁ་སྐོང་རྐྱབ།
+3. **པར་རིས་ཆེ་བ་དང་རྒྱུས་མངའ་ཡོད་པའི་ མི་རྒས་པའི་དོན་ལུ་འོས་ཤོས་འབད་མི་གདམ།** ཇ་ཕོར་ ཉི་མ་མེ་ཏོག་ གྲུ་གཟིངས་བཟུམ། འགྲུལ་བཤད་པར་རིས་མིན་འདུག་ མང་དྲགས་པའི་པར་རིས་ཡང་མིན་འདུག།
+4. **མཉམ་རུབ་སྦེ་རྩེ།** "ཁྱི་ཚུ་འཚོལ་གེ" ཟེར་སླབ་ ཁྱོད་ཀྱི་རེས་ཨིན་ཟེར་མ་སླབ། རེས་མོས་སྦེ་མཛུབ་མོ་བཙུགས་ཞིནམ་ལས་གྲོགས་རམ་འབད།
+5. **གྲངས་ཐོ་བཞག་ནི་མེདཔ་བཟོ།** ག་ར་ལུ་ཡང་རྒྱལ་དགོ་པའི་དགོས་མཁོ་མེད། ག་གིས་ར་དྲི་བ་འབད་བ་ཅིན་ "ང་བཅས་ཀྱིས་འབད་ཚར་ཡི" ཟེར་སླབ་ནི་རྐྱངམ་ཅིག་ལངམ་སྦེ་འོང་།
+6. **ནམ་ཡང་དུས་ཚོད་མཉམ་དུ་མ་རྒྱུགས།** དུས་ཚོད་ཚད་འཛིན་མེདཔ་དང་ རེས་གཅིག་དང་གཅིག་གི་བར་ན་མགྱོགས་དྲགས་སྦེ་མི་འབད།
+7. **པར་རིས་ཚུ་གི་སྐོར་ལས་སྐད་ཆ་བཤད།** "གྲུ་གཟིངས་དེ་ལུ་བལྟ། ཁྱོད་ནམ་ར་འབད་རུང་གྲུ་གཟིངས་ནང་འགྲུལ་བའི་མྱོང་བ་ཡོད་ག?" སྐད་ཆ་བཤད་ནི་འདི་ མང་ཆེ་ཤོས་ར་ཡག་ཤོས་ཀྱི་ཆ་ཤས་ཅིག་ཨིན་འོང་།
+8. **སྤྲོ་བ་ཡོད་པའི་སྐབས་ལུ་བཀག།** མཐུན་སྒྲིག་ཅིག་འཐོབ་ཞིནམ་ལས་ ད་ལྟོ་ཡང་སྤྲོ་བ་ཡོད་པའི་སྐབས་ལུ་མཇུག་བསྡུ།
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) གིས་ཡང་ སྤྱིར་བཏང་གི་སླབ་སྟོན་ནང་ སེམས་ཁམས་འདི་ར་སླབ་ཨིན། མི་དེ་གིས་འབད་ཚུགས་པའི་ལས་ཀ་དང་མཐུན་པར་བཟོ། དཀའ་ངལ་ཚོར་དོ་ཡོད་མེད་ལུ་བལྟ། དེ་ལས་ཁོང་ལུ་ལེགས་ཤོམ་སྦེ་ཚོར་བཅུག།
 
-## Gentle memory and matching games to try
+## འཇམ་ཏོག་ཏོ་བའི་དྲན་ཤེས་དང་མཐུན་སྒྲིག་རྩེདམོ་ཚུ།
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (པར་རིས་སྟོན་སྟེ་མཐུན་སྒྲིག་འབད་ནི)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) འདི་ པར་རིས་ཆེ་བ་དང་ ཊ་ཡིལ་༤་ལས་༡༢་ཚུན་ཡོད་པའི་མཐུན་སྒྲིག་རྩེདམོ་ཅིག་ཨིན། པར་རིས་ཚུ་མཐོང་སྟེ་བཞག་ཚུགསཔ་ལས་ འདི་གིས་ག་པར་ཡོད་མི་དྲན་ནི་མེན་པར་ འདྲ་མཉམ་འཚོལ་ནི་ལུ་གཙོ་བོར་བཏོནམ་ཨིན། ཊ་ཡིལ་༤་ལས་འགོ་བཙུགས། འགོ་ཐོག་གི་རིམ་པ་ནང་ཡོད་མི་གིས་ དཀའ་ངལ་ཏོག་ཏོ་ཅིག་འདོད་པ་ཅིན་ **Hidden pictures** ལུ་བསྒྱུར་ཚུགས། དེ་འབདཝ་ད་ སྤྲོ་བ་མེདཔ་འགྱོ་བའི་སྐབས་ལུ་ ལོག་སྟེ་པར་རིས་སྟོན་ནི་ལུ་བསྒྱུར།
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) གིས་ མགོ་ལུ་པར་རིས་གཅིག་དང་ འོག་ལུ་གདམ་ཁ་༢་ལས་༤་སྟོནམ་ཨིན། མཐུན་པ་དེ་ལུ་ཨེབ། འདི་ས་ཁོངས་འདི་ནང་གི་མཐུན་སྒྲིག་རྩེདམོ་ལས་སླ་ཤོས་ཅིག་ཨིནམ་ལས་ ཊ་ཡིལ་མང་པོ་ཅིག་མང་དྲགས་སྦེ་མཐོང་མི་ ལྷག་པར་དུ་ཤུལ་མའི་རིམ་པ་ནང་ཡོད་མི་ཚུ་དང་ གཞན་ཅིག་མཉམ་དུ་ཡོད་པའི་སྐབས་ལུ་འོས་ཤོམ་སྦེ་ཡོད།
 
-### Photo pairs (family photo memory game)
+### Photo pairs (ནང་མིའི་པར་རིས་དྲན་ཤེས་རྩེདམོ)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) གིས་ ཁྱོད་ཀྱིས་གདམ་ཁ་རྐྱབས་པའི་པར་རིས་ཚུ་ དཔེར་ན་ ཁྱི་ ལྡུམ་ར་ མཚོ་འགྲམ་གྱི་ཁྱིམ་ཚུ་ མཐུན་སྒྲིག་རྩེདམོ་ལུ་བསྒྱུར་འོང་། རྒྱུས་མངའ་ཡོད་པའི་གདོང་དང་ས་ཁོངས་ཚུ་གིས་ སྤྱིར་བཏང་གི་པར་རིས་ལས་ལྷག་སྟེ་ སྐད་ཆ་བཤད་ནིའི་གོ་སྐབས་བྱིན་འོང་། པར་རིས་ཚུ་ ཁྱོད་ཀྱི་བརའུ་ཟར་ནང་རྐྱངམ་ཅིག་ལུ་ཡོདཔ་ལས་ ནམ་ཡང་ཕྱིར་མི་གཏང་།
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) གིས་ པར་རིས་རེ་རེ་ དེ་དང་འབྲེལ་བའི་སླེ་བོ་ནང་བཙུགས་དགོཔ་སྦེ་ཞུཝ་ཨིན། དཔེར་ན་ ཐབ་ཚང་ཡང་ན་ལྡུམ་ར། དབྱེ་སྒྲིག་འབད་ནི་འདི་གིས་ ཐུང་ཀུའི་དྲན་ཤེས་ལུ་མེན་པར་ འཛམ་གླིང་གི་ལས་སྒོ་ག་དེ་སྦེ་འབདཝ་ཨིན་ན་གྱི་ ཡུན་རིངམ་གྱི་ཤེས་ཡོན་ལུ་བརྟེནམ་ཨིན།
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) གིས་ པར་རིས་ཅིག་དུམ་གྲ་ཆ་༤་ཡང་ན་༩་ལུ་བགོམ་ཨིན། དུམ་གྲ་གཉིས་ལུ་ཨེབ་སྟེ་ པར་རིས་ཆ་ཚང་འབད་ཚུན་ཚོད་ ས་སྒོ་སོར་བསྒྱུར་འབད། མཇུག་གི་པར་རིས་ཆ་ཚང་འདི་ གསལ་གཞི་ནང་ལམ་སྟོན་སྦེ་བཞག་ཡོད།
 
-### Real cards on the table
+### ཐིག་ཁྲམ་གུའི་ངོ་མའི་ཤོག་བྱང་།
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+གསལ་གཞི་དགོ་པའི་དགོས་མཁོ་མེད། ཤོག་བྱང་གཉིས་ཀྱི་ནང་ལས་ མཐུན་སྒྲིག་ཆ་ཡོད་མི་ཚུ་ཕྱིར་འཐོན་འབད། གྲལ་ཐིག་གཉིས་ནང་གནམ་ལུ་བཀྲམ་སྟེ་ མཉམ་དུ་མཐུན་སྒྲིག་འཚོལ། ཤུལ་ལས་ ཚོས་གཞི་ཡང་ན་རིགས་དབྱེ་སྦེ་དབྱེ་སྒྲིག་འབད་ཚུགས། [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) གིས་ འགོ་ཐོག་གི་རིམ་པའི་ལས་རིམ་ཚུ་ནང་ ཤོག་བྱང་རྩེདམོ་དང་བརྡར་ཁྱད་རྩེདམོ་ཚུ་བཀོད་ཡོད།
 
-## Which memory games suit each stage?
+## རིམ་པ་རེ་རེ་ལུ་དྲན་ཤེས་རྩེདམོ་ག་ཅི་འོས་ཤོམ་སྦེ་ཡོད?
 
-Stages are loose labels. Go by what the person enjoys today.
+རིམ་པ་ཟེར་མི་འདི་ མཚོན་རྟགས་ལྷོད་ཆ་ཅིག་ཨིན། དེངས་ཁམས་ཁོང་གིས་ག་ཅི་ལུ་སྤྲོ་བ་ཚོར་མི་དེ་ལུ་བརྟེན།
 
-| Stage | Games that often fit | How to set them up |
+| རིམ་པ་ | མང་ཆེ་ཤོས་ར་འོས་ཤོམ་སྦེ་ཡོད་པའི་རྩེདམོ་ | ག་དེ་སྦེ་སྒྲིག་ནི་ |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| འགོ་ཐོག | Picture pairs, Photo pairs, Picture puzzle དུམ་གྲ་༩་ རྒྱུས་མངའ་ཡོད་པའི་ཤོག་བྱང་རྩེདམོ་ | ཁོང་གིས་གདམ་ཁ་རྐྱབ་བཅུག། སྤྲོ་བ་ཡོད་པ་ཅིན་ཊ་ཡིལ་ཕྱིར་ལོག་འབད་བཅུག། དཀའ་ངལ་བཟོ་བ་ཅིན་གྲངས་ཐོ་མེདཔ་བཟོ། |
+| བར་མ་ | Picture pairs ཊ་ཡིལ་༤་ལས་༦་གནམ་ལུ་བཀྲམ་སྟེ་ Find the same, Sort together | པར་རིས་ཚུ་ནམ་རང་མཐོང་སྟེ་བཞག། འཁྲིས་ལུ་སྡོད་དེ་ རེས་མོས་སྦེ་གྲོགས་རམ་འབད། |
+| ཤུལ་མ་ | Find the same གདམ་ཁ་༢་དང་ པར་རིས་ཆེ་བ་གཅིག་མཉམ་དུ་ལྟ་ནི་ | དུས་ཡུན་ཐུང་ཀུ་རྐྱངམ་ཅིག། ཁྱོད་ཀྱིས་ཊེབ་ལེཊི་འཆང་། ཁོང་གིས་མཛུབ་མོ་བཙུགས་ནི་ ཡང་ན་བལྟ་ཞིནམ་ལས་ཉན་ནི་རྐྱངམ་ཅིག་ཡང་ལེགས་ཤོམ་ཨིན། |
 
-## Do memory games help with dementia?
+## དྲན་ཤེས་རྩེདམོ་ཚུ་གིས་དྲན་ཤེས་ཉམས་ཆག་ལུ་ཕན་ཐོགས་འབད་ཚུགས་ག?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+དྲན་ཤེས་རྩེདམོ་ག་ཅི་གིས་ཡང་ དྲན་ཤེས་ཉམས་ཆག་སྨན་བཅོས་འབད་ཚུགསཔ་ ལྷོད་ཚུགསཔ་ ཡང་ན་བཀག་འཛིན་འབད་ཚུགསཔ་སྦེ་ སྟོན་མི་འདུག། ཀླད་པའི་ཤེས་ཡོན་ཉམས་ཆག་ཆུང་ཀུ་ཡོད་མི་ཚུ་གི་དོན་ལུ་ གློག་རིག་ཀླད་པའི་སྦྱོང་བརྡར་གྱི་ [Cochrane ཞིབ་དཔྱད་](https://pubmed.ncbi.nlm.nih.gov/30864747/) ཅིག་གིས་ དེ་གིས་དྲན་ཤེས་ཉམས་ཆག་བཀག་འཛིན་འབད་ཚུགས་ག་མི་ཚུགས་ག་སླབ་ནི་ལུ་ སྟོན་རྟགས་ཚུ་ཉུང་དྲགས་ཡོདཔ་སྦེ་མཐོང་ཡོད། ང་བཅས་ཀྱི་ [ཀླད་པའི་རྩེདམོ་དང་དྲན་ཤེས་ཉམས་ཆག་](/brain-health/brain-games/) ལམ་སྟོན་ནང་ ཞིབ་འཇུག་ཚུ་གིས་ག་ཅི་སྟོནམ་ཨིན་ན་དང་ ག་ཅི་མི་སྟོན་ན་འགྲེལ་བཤད་རྐྱབ་ཡོད།
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+དེ་འབདཝ་ད་ རྩེདམོ་མ་རྩེ་ནིའི་རྒྱུ་མཚན་མེན། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) གིས་ གྲུབ་འབྲས་ལུ་མེན་པར་ སྤྲོ་བ་ལུ་གཙོ་བོར་བཏོན་དགོཔ་སྦེ་སླབ་ཨིན། སྐར་མ་བཅུ་ཙམ་ཅིག་ པར་རིས་མཐུན་སྒྲིག་འབད་དེ་ དེ་གི་སྐོར་ལས་སྐད་ཆ་བཤད་ནི་འདི་ ཉིནམ་གཅིག་གི་ནང་ལུ་ངོ་མ་སྦེ་ལེགས་ཤོམ་གྱི་དུས་ཚོད་ཅིག་འོང་འོང་།
 
-## What about memory games for seniors without dementia?
+## དྲན་ཤེས་ཉམས་ཆག་མེད་པའི་མི་རྒས་པ་ཚུ་གི་དོན་ལུ་ག་དེ་སྦེ?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+དྲན་ཤེས་ཀྱི་དཀའ་ངལ་མེད་པའི་མི་རྒས་པ་ཅིག་གིས་ དུས་ཚོད་ཚད་འཛིན་ཡོད་པའི་རྩེདམོ་ གྲངས་ཐོ་ དེ་ལས་རིམ་པ་དཀའ་ཁག་ལུ་སྤྲོ་བ་ཚོར་བ་ཅིན་ དེ་ལུ་གནོད་པ་མི་འོང་། དེ་འབདཝ་ད་ དེ་གིས་དྲན་ཤེས་ཉམས་ཆག་ལས་ཉེན་སྲུང་འབད་ཚུགས་ཟེར་བའི་རེ་བ་མི་བཞག། རྩེདམོ་ག་ཅི་གིས་ཡང་ དེ་སྦེ་སྟོན་མི་འདུག། གོང་གི་འཇམ་ཏོག་ཏོ་བའི་ཐབས་ལམ་ཚུ་ མི་ཚད་མང་སྡེ་ཅིག་གིས་མཉམ་དུ་རྩེ་བའི་སྐབས་ལུ་ཡང་ལེགས་ཤོམ་སྦེ་འབད་ཤོམ་ཨིན། དྲན་ཤེས་ཉམས་ཆག་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་ཨ་ཞོ་དང་ ཚ་བོ་ཆུང་ཀུ་ཅིག་གིས་ མཉམ་རུབ་སྦེ་པར་རིས་མཐུན་སྒྲིག་འབད་ཚུགསཔ་ལས་ ག་ར་ལུ་ཡང་འཚོལ་ཞིབ་མི་འབད།
 
-## When should you stop or change the game?
+## རྩེདམོ་འདི་ནམ་བཀག་ནི་ཡང་ན་བསྒྱུར་ནི?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+དབུགས་རིངམ་བཏང་ནི་ ཊེབ་ལེཊི་ཕར་སྤོ་ནི་ "ང་གིས་མི་ཚུགས" ཟེར་སླབ་ནི་ ཡང་ན་སེམས་ཁྲལ་ཡོད་པ་བཟུམ་མཐོང་བ་ཅིན་ དེ་ཚུ་ག་ར་ ལས་སླར་བཟོ་ནི་ཡང་ན་བཀག་ནིའི་རྟགས་ཨིན། ཊ་ཡིལ་ཉུངམ་བཟོ། པར་རིས་ཚུ་གནམ་ལུ་བཀྲམ། [Find the same](/games/find-the-same/) ལུ་བསྒྱུར། ཡང་ན་ པར་རིས་ཚུ་ལྟ་ཞིནམ་ལས་སྐད་ཆ་རྐྱངམ་ཅིག་བཤད། ཁོང་གིས་རྩེ་ནི་མ་འདོད་པ་ཅིན་ དེ་ཡང་ལེགས་ཤོམ་ཨིན། མགྱོགས་ཚད་དང་གྲོགས་རམ་གྱི་སྐོར་ལས་ ང་བཅས་ཀྱི་ [མཉམ་དུ་ག་དེ་སྦེ་རྩེ་ནི་](/caregiving/how-to-play-together/) ལམ་སྟོན་ནང་ལྷག་སྟེ་ཡོད།

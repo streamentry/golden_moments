@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "སེམས་སྐྱོན་ཅན་གྱི་རྒས་ཤོས་ཚུ་ལུ་ གནོད་ཤུགས་མེད་པའི་དྲི་བ་ལན།"
+seoTitle: "སེམས་སྐྱོན་ཅན་གྱི་རྒས་ཤོས་ཚུ་ལུ་ ལན་དང་བཅས་པའི་དྲི་བ་ལན།"
+description: "སེམས་སྐྱོན་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་རྒས་ཤོས་ཚུ་ལུ་ གདམ་ཁ་དང་གླེང་མོལ་གྱི་རྒྱུ་ཆ་ཡོད་པའི་ལས་སླ་པོའི་དྲི་བ་ལན་ ༥༠ དང་ སུ་ཡང་ཞིབ་དཔྱད་འབད་བའི་ཚོར་སྣང་མེད་པར་འབད་ཐབས།"
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  སེམས་སྐྱོན་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་ཚུ་ལུ་ ལས་སླ་པོའི་དྲི་བ་ལན་འདི་ ཞིབ་དཔྱད་མེན་པར་
+  གླེང་མོལ་བཟུམ་སྦེ་འབད་བ་ཅིན་ ལེགས་ཤོམ་འོང་། རྙིང་པ་ལས་སློབ་སྦྱོང་འབད་ཡོད་པའི་དོན་ཚན་ དཔེར་ན་
+  རྙིང་པའི་གླུ་གཞས་ ངག་རྒྱུན་ དུས་ཆེན་ དང་ ཉམས་མྱོང་གི་འཚོ་བ་ཚུ་གི་སྐོར་ལས་དྲི་བ་དྲི།
+  རྟག་པར་གདམ་ཁ་གཉིས་ལས་གསུམ་ཚུན་ཕུལ། ལན་འདི་ བརྩེ་བ་དང་བཅས་སྦེ་བཤད་ནི་ལས་གཞན་ལུ་འགྱོ།
+  སུ་ལུ་ཡང་སོ་སོ་སྦེ་མ་དྲི་ སྐུགས་ཐོབ་མ་བརྩིས་ དེ་ལས་ ལན་ག་ཅི་ར་འབད་ཡོད་མི་དེ་ལས་
+  ལོ་རྒྱུས་ཀྱི་གླེང་མོལ་འགོ་བཙུགས། ལན་གདམ་ཁ་འདི་གོ་བདེ་མི་ཆགས་པ་ཅིན་ ལན་ནོར་འཁྲུལ་མེད་པའི་
+  「འདི་ཡང་ན་དེ」 ཟེར་མིའི་དྲི་བ་ལུ་སོར།
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "ཡུན་རིངམ་ལས་རྒྱུས་མངའ་ཡོད་པའི་དོན་ཚན་ གླུ་གཞས་ ངག་རྒྱུན་ དུས་ཆེན་ ཟས་དང་ ཧེ་མའི་ཉམས་མྱོང་གི་འཚོ་བ་ཚུ་གི་སྐོར་ལས་དྲི།"
+  - "ལན་འདི་ དྲན་གསོ་འབད་ནི་ལས་ ངོས་འཛིན་འབད་ཚུགས་པའི་དོན་ལུ་ གདམ་ཁ་གཉིས་ལས་གསུམ་ཚུན་ཕུལ།"
+  - "ལན་འདི་ བརྩེ་བ་དང་བཅས་སྦེ་བཤད་ཞིནམ་ལས་ མུ་མཐུད་དེ་འགྱོ། ལོ་རྒྱུས་ཀྱི་གླེང་མོལ་འགོ་བཙུགས་པའི་ལན་ག་ཅི་ར་ཨིན་རུང་ ལེགས་ཤོམ་ཨིན།"
+  - "སྐུགས་ཐོབ་མེད་ སྡེ་ཚན་གྱི་རྒྱུག་འགྲན་མེད་ མི་གཅིག་ལུ་སོ་སོ་སྦེ་མི་དྲི། ཁངམ་ནང་ལུ་ཡོད་མི་ག་ར་ལས་ལན་འབད་ཆོག"
+  - "ལན་གདམ་ཁ་འདི་གོ་བདེ་མི་ཆགས་པ་ཅིན་ ལན་ནོར་འཁྲུལ་མེད་པའི་ 「འདི་ཡང་ན་དེ」 ཟེར་མིའི་དྲི་བ་ལུ་སོར།"
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "སེམས་སྐྱོན་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་ཚུ་ལུ་ དྲི་བ་ལན་འདི་ ལས་རིམ་ལེགས་ཤོམ་ཅིག་ཨིན་ན?"
+    a: "འོང་ འཇམ་ཏོག་ཏོ་སྦེ་འབད་བ་ཅིན་ ལེགས་ཤོམ་འོང་ཚུགས། Alzheimer's Foundation of America གིས་ དྲི་བ་ལན་འདི་ འགོ་ཐོག་གི་རིམ་པའི་ལས་རིམ་ཚུ་གི་ནང་ལུ་བཀོད་ཡོདཔ་ཨིན། ཡུན་རིངམ་ལས་རྒྱུས་མངའ་ཡོད་པའི་དོན་ཚན་གྱི་སྐོར་ལས་དྲི་ གདམ་ཁ་ཕུལ་ མི་གཅིག་ལུ་སོ་སོ་སྦེ་མ་དྲི་ དེ་ལས་ ལན་ཚུ་འདི་ ཞིབ་དཔྱད་མེན་པར་ གླེང་མོལ་གྱི་ལམ་བཟུམ་སྦེ་ལག་ལེན་འཐབ།"
+  - q: "སེམས་སྐྱོན་གྱི་དྲི་བ་ལན་ལུ་ དོན་ཚན་ག་དེ་ཚུ་ ལེགས་ཤོམ་འོང?"
+    a: "ཡུན་རིངམ་སྔོན་ལས་སློབ་སྦྱོང་འབད་ཡོད་པའི་དོན་ཚན་ཚུ་ ལེགས་ཤོམ་འོང་ནི་མང་། དཔེར་ན་ གཞོན་སྐྱེས་ཀྱི་དུས་ཚོད་ཀྱི་གླུ་གཞས་དང་གླུ་གཏོང་པ་ རྒྱུས་མངའ་ཡོད་པའི་ངག་རྒྱུན་ དུས་ཆེན་ ཟས་ རྩེད་རིགས་ དང་ ཉམས་མྱོང་གི་འཚོ་བ། ཉེ་ཆར་གྱི་གནས་ཚུལ་ཡང་ན་ ལས་རིམ་འདི་ནང་སྔོན་ལས་བཤད་ཡོད་མི་ དྲན་དགོ་པའི་དོན་ཚན་ཚུ་ལས་འཛེམ།"
+  - q: "གཅེས་སྐྱོང་ཁང་མིག་ནང་ སུ་ལུ་ཡང་ངོ་ཚ་མི་འབྱུང་བའི་ཐོག་ལས་ དྲི་བ་ལན་ག་དེ་སྦེ་འབད་ག?"
+    a: "དྲི་བ་རེ་རེ་བཞིན་ སྡེ་ཚན་ཧྲིལ་བུ་ལུ་ལྷག་སྟེ་གདམ་ཁ་ཚུ་སྟོན་ དེ་ལས་ སུ་གིས་ར་ལན་འབད་རུང་དགའ་བསུ་ཞུ། མི་སོ་སོ་ལུ་མ་དྲི་ སྐུགས་ཐོབ་མ་བརྩིས། ལན་ག་ཅི་འབད་རུང་ འཛུམ་དང་བཅས་སྦེ་ལན་བཤད་ཞིནམ་ལས་ 「ཁྱོད་ར་ནང་ལས་ མཁར་སྲུང་གློག་བརྙན་ཁང་ལུ་འགྱོ་མྱོང་ཡོད་ག?」 བཟུམ་གྱི་དྲི་བ་ཁ་སྐོང་དྲིས་ཏེ་ ལོ་རྒྱུས་ཀྱི་གླེང་མོལ་ལུ་བསྒྱུར།"
+  - q: "ཤུལ་ལས་ཀྱི་རིམ་པ་ནང་ དྲི་བ་ལན་གྱི་ཚབ་ལུ་ ག་ཅི་འབད་ཚུགས?"
+    a: "ལན་ནོར་འཁྲུལ་མེད་པའི་དྲི་བ་ལུ་སོར་ དཔེར་ན་ 「ཇ་ ཡང་ན་ ངད་ཇ?」 ཡང་ན་ 「མཚོ་ཁ་ ཡང་ན་ རི་མཐོང?」 དེ་ལས་ རྒྱུས་མངའ་ཡོད་པའི་ངག་རྒྱུན་ཡང་ན་གླུ་གཞས་མཉམ་དུ་མཇུག་བསྡུ། པར་རིས་ལུ་བལྟ་ཞིནམ་ལས་ མཉམ་དུ་འགྲེལ་བཤད་རྐྱབ་ནི་ཡང་ ལེགས་ཤོམ་འོང་ཚུགས།"
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+དྲི་བ་ལན་འདི་ གཅེས་སྐྱོང་ཁང་མིག་དང་ ཉིན་རིམ་ལས་རིམ་ནང་ མང་ཤོས་ཅིག་ལུ་ཞུ་ཡོད་པའི་སྡེ་ཚན་གྱི་ལས་རིམ་ཅིག་ཨིན་ དེ་ལས་ ཁྱིམ་ཚང་མང་ཤོས་ཀྱིས་ ཐབ་ཚང་གི་རྒྱབ་ཁྲི་ལུ་ཡང་རྩེ་ནི་ཨིན། སྤྱིར་བཏང་ལྟར་ སྐུགས་ཐོབ་དང་མི་གཅིག་གིས་ལན་འབད་ནི་བཟུམ་སྦེ་འབད་བ་ཅིན་ སེམས་སྐྱོན་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་ཚུ་ལུ་ གནོད་ཤུགས་ཚོར་སྣང་འབྱུང་སྲིདཔ་ཨིན། འཇམ་ཏོག་ཏོ་སྦེ་འབད་བ་ཅིན་ ལོ་རྒྱུས་ཀྱི་གླེང་མོལ་བཏོན་ནིའི་ལམ་ལེགས་ཤོམ་ཅིག་ལུ་འགྱུར་ཚུགས། འོག་ལུ་ གདམ་ཁ་དང་གླེང་མོལ་གྱི་རྒྱུ་ཆ་ཡོད་པའི་ལས་སླ་པོའི་དྲི་བ་ ༥༠ ཡོདཔ་ལས་ དེ་གི་ཤུལ་ལས་ ལས་རིམ་འདི་ག་དེ་སྦེ་འབད་ནི་ཨིན་ན་བཀོད་ཡོད།
 
-## How do you make trivia work for someone with dementia?
+## སེམས་སྐྱོན་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་ལུ་ དྲི་བ་ལན་ག་དེ་སྦེ་ལེགས་ཤོམ་འབད་ཚུགས?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+ཡུན་རིངམ་སྔོན་གྱི་དོན་ཚན་ཚུ་ ངོས་འཛིན་དང་དྲན་གསོ་འབད་ནི་ལུ་གཙོ་བོ་བཏོན་ དེ་ལས་ ལན་ག་ཅི་ར་ཨིན་རུང་དགའ་བསུ་ཞུ།
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **ཡུན་རིངམ་སྔོན་གྱི་སྐོར་ལས་དྲི།** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) གིས་ ཨཱལ་ཛའི་མཱར་ནད་ཀྱི་འགོ་ཐོག་གི་མཚོན་རྟགས་མང་ཤོས་འདི་ གསརཔ་སྦེ་སློབ་ཡོད་མི་དྲན་མ་ཚུགས་པ་ཨིན་ཟེར་སླབ་ཨིན། ལོ་ལེ་ཤ་སྔོན་གྱི་གླུ་གཞས་ ངག་རྒྱུན་ དང་ ཉམས་མྱོང་གི་འཚོ་བ་ཚུ་ ལས་སླ་པོ་སྦེ་འགྱོ་ནི་མང་།
+2. **རྟག་པར་གདམ་ཁ་ཕུལ།** གདམ་ཁ་གཉིས་ལས་གསུམ་ནང་ལས་ ལན་ངེས་བདེན་འདི་གདམ་ཁ་རྐྱབ་ནི་འདི་ རང་གིས་ཐོག་མ་ལས་དྲན་ནི་ལས་ ལས་སླ་པོ་ཨིན།
+3. **དྲི་བ་ཚུ་ སྐད་ཤུགས་ཆེ་སྦེ་ལྷག་སྟེ་ ཡིག་ཚུགས་ཆེ་སྦེ་སྟོན།** ཡིག་ཤོག་བརྐྱབ་པའི་པར་ཁང་ཡང་ན་ མཐོ་སྦེ་འཛིན་ཡོད་པའི་ཊེབ་ལེཊི་གིས་ ཉན་ནི་དཀའ་མི་ཚུ་ལུ་གྲོགས་རམ་འབད་ཚུགས།
+4. **ལན་འདི་ ཕྱིར་བསྒྲགས་མ་འབད་བར་བཤད།** སུ་གིས་ཡང་མ་ཤེས་པ་ཅིན་ བརྩེ་བ་དང་བཅས་སྦེ་བཤད་ཞིནམ་ལས་མུ་མཐུད་དེ་འགྱོ། 「ཨོ་ ཁྱོད་ཀྱིས་ཤེས་འོང་」 ཟེར་སྦེ་མ་སླབ།
+5. **སྐུགས་ཐོབ་མ་བརྩིས།** མི་སོ་སོ་ལུ་ཡང་མེན་ རྒྱབ་ཁྲི་ལུ་ཡང་མེན། གལ་སྲིད་ཨང་གྲངས་དགོ་ཟེར་བ་ཅིན་ སྡེ་ཚན་ཧྲིལ་བུ་གི་ཨང་གྲངས་གཅིག་ བཞག
+6. **མི་གཅིག་ལུ་སོ་སོ་སྦེ་ནམ་ཡང་མ་དྲི།** སུ་གིས་ར་ལན་འབད་ཆོགཔ་སྦེ་བཞག གཅིག་ལུ་གཅིག་སྦེ་རྩེ་བ་ཅིན་ མཉམ་དུ་ལན་འབད། 「ང་རའི་བསམ་འཆར་ལུ་ པི་ཡ་ནོ་ཨིན་ནང་། ཁྱེད་ཀྱི་བསམ་འཆར་ ག་ཅི་སྨོ?」
+7. **གླེང་མོལ་གྱི་རྒྱུ་ཆ་ལག་ལེན་འཐབ།** ལན་འདི་ འགོ་བཙུགས་ས་ཙམ་ཨིན་ མཇུག་མེན། དམིགས་ཡུལ་ངོ་མ་འདི་ ལོ་རྒྱུས་ཀྱི་གླེང་མོལ་ཨིན།
+8. **ཐུང་ཀུ་སྦེ་བཞག** བར་ན་ ལོ་རྒྱུས་དང་བཅས་པའི་དྲི་བ་ ༡༠ ཙམ་འདི་ ལངམ་སྦེ་ཨིན།
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) གིས་ གཞི་རྩའི་ལམ་སྟོན་འདི་ ལས་སླ་པོ་སྦེ་སླབ་ཨིན། སེམས་ཁྲལ་འབྱུང་མི་ལུ་བལྟ་ དེ་ལས་ ཁྱེད་ཀྱིས་གཅེས་སྐྱོང་འབད་མི་གིས་ ལེགས་ཤོམ་སྦེ་འབད་ཚུགས་པའི་ཚོར་སྣང་འབྱུང་བཅུག [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) གིས་ དྲི་བ་ལན་འདི་ འགོ་ཐོག་གི་རིམ་པའི་ལས་རིམ་ནང་བཀོད་ཡོདཔ་ཨིན། བར་ནའི་རིམ་པ་ནང་ གདམ་ཁ་གཉིས་ཙམ་བཞག་སྟེ་ གླེང་མོལ་གྱི་རྒྱུ་ཆ་ལུ་བརྟེན། ཤུལ་ལས་ཀྱི་རིམ་པ་ནང་ འོག་ལུ་ཡོད་པའི་ 「འདི་ཡང་ན་དེ」 དྲི་བ་ལུ་སོར།
 
-## Music and entertainment trivia
+## རོལ་དབྱངས་དང་གློག་བརྙན་གྱི་དྲི་བ་ལན།
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+ལན་ངེས་བདེན་འདི་ **ཡིག་ཚུགས་མཐུགཔོ** ནང་ཡོད། དྲི་བ་འདི་ཚུ་ ཁྱེད་ཀྱིས་གཅེས་སྐྱོང་འབད་མི་དང་མཐུན་པར་བསྒྱུར་བཅོས་འབད། དཔེར་ན་ Motown གི་རོལ་དབྱངས་དང་མཉམ་དུ་སྐྱེས་ཡོད་མི་ལུ་ སྡེ་ཚན་ཆེ་བའི་གླུ་གཏོང་པ་ལས་ སོ་སོའི་གླུ་གཏོང་པ་དགོཔ་འོང་།
 
-| Question | Choices | Talk about |
+| དྲི་བ། | གདམ་ཁ། | གླེང་མོལ་འབད། |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Rock and Roll གྱི་རྒྱལ་པོ་ཟེར་སླབ་མི་ག་ཨིན་ན? | **Elvis Presley** དང་ Frank Sinatra དང་ Bing Crosby | ཁྱོད་ཀྱིས་ Elvis འདི་ གློག་བརྙན་ནང་མཐོང་མྱོང་ཡོད་ག? |
+| Ol' Blue Eyes ཟེར་བའི་མིང་ཆུང་ཡོད་མིའི་གླུ་གཏོང་པ་ག་ཨིན་ན? | Dean Martin དང་ **Frank Sinatra** དང་ Perry Como | ཁྱོད་ཀྱིས་དགའ་ཤོས་བྱ་བའི་ Sinatra གི་གླུ་གཞས་ག་ཅི་སྨོ? |
+| Bing Crosby གིས་ དཀརཔོ་གི་… རྨི་ལམ་མཐོང་ཡོད། | **Christmas** དང་ གཉེན་སྦྱོར་ དང་ ཁང་མིག | གླུ་ཚིག་ཅིག་མཉམ་དུ་བཏང་། |
+| Louis Armstrong གིས་ 「What a Wonderful…」 ཟེར་མིའི་གླུ་གཞས་བཏང་ཡོད། | Day དང་ **World** དང་ Life | ཁྱོད་ལུ་ འཛམ་གླིང་འདི་ ཡིད་དུ་འོང་ས་ག་ཅི་སྨོ? |
+| 「Over the Rainbow」 འདི་ Judy Garland གིས་ གློག་བརྙན་ག་ཅི་ནང་བཏང་ཡོད? | **The Wizard of Oz** དང་ Gone with the Wind དང་ Singin' in the Rain | ཁྱོད་ཀྱིས་དགའ་ཤོས་བྱ་བའི་གློག་བརྙན་ཚུ་ ག་པར་བལྟ་ཡི་ག? |
+| 「I Love Lucy」 ནང་ Lucy གི་འཁྲབ་མི་ག་ཨིན་ན? | **Lucille Ball** དང་ Doris Day དང་ Betty White | ཁྱོད་ཀྱི་ཁྱིམ་ཚང་གིས་མཉམ་དུ་བལྟ་བའི་ལས་རིམ་ག་ཅི་སྨོ? |
+| Trigger ཟེར་མིའི་རྟ་ལུ་ཞོན་མིའི་ ནུབ་ཕྱོགས་ཀྱི་རྟ་པ་ག་ཨིན་ན? | **Roy Rogers** དང་ Gene Autry དང་ John Wayne | ཁྱོད་ཆུང་ཀུ་སྐབས་ རྟ་པའི་རྩེདམོ་རྩེ་མྱོང་ཡོད་ག? |
+| 「The Tonight Show」 འདི་ ལོ་ ༣༠ རིང་ལུ་སྐྱོང་མི་ག་ཨིན་ན? | Ed Sullivan དང་ **Johnny Carson** དང་ Bob Hope | ཁྱོད་ གློག་བརྙན་བལྟ་ནི་ལུ་ ཕྱི་དྲོ་སྦེ་ཉལ་ཡི་ག? |
+| ལྡེ་མིག་ ༨༨ ཡོད་པའི་རོལ་ཆས་ག་ཅི་སྨོ? | གི་ཊར་ དང་ **པི་ཡ་ནོ** དང་ ཏུང་ཏུང་། | ཁྱོད་ཀྱི་ཁྱིམ་ཚང་ནང་སུ་གིས་ར་རྩེ་ཡི་ག? |
+| one-two-three དང་ one-two-three ཟེར་སྦེ་གྱངས་ཁ་རྐྱབ་མིའི་ཞབས་བྲོ་ག་ཅི་སྨོ? | **Waltz** དང་ twist དང་ tango | ཁྱོད་ ཞབས་བྲོ་འབྲི་ནི་ལུ་ ག་པར་འགྱོ་ཡི་ག? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+རོལ་དབྱངས་ཀྱི་སྐོར་ལས་ ཁ་གསལ་མང་སྦེ་ཤེས་དགོ་པ་ཅིན་ [སེམས་སྐྱོན་ལུ་ རོལ་དབྱངས་ཀྱི་ལས་རིམ།](/activities/music/) ལུ་བལྟ།
 
-## Everyday life trivia
+## ཉམས་མྱོང་གི་འཚོ་བའི་དྲི་བ་ལན།
 
-| Question | Choices | Talk about |
+| དྲི་བ། | གདམ་ཁ། | གླེང་མོལ་འབད། |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| འཁྱག་སྒམ་མ་ཡོད་པའི་སྔོན་ལུ་ ཁྱིམ་མང་ཤོས་ཀྱིས་ ཟས་འདི་… ནང་བཞག་གི་ཡོད། | **འཁྱག་སྒྲོམ།** དང་ ཐབ་ཁུངས་ དང་ ཁང་ཁྲོམ། | སུ་གིས་ འཁྱག་རོམ་འཁྱེར་སོང་ག? |
+| ཤེལ་དམ་ནང་འོམ་བླུགས་ཡོད་མི་འདི་ སྒོ་ཁར་སུ་གིས་འཁྱེར་སོང་ག? | ཡིག་འཕྲིན་འཁྱེར་མི་ དང་ **འོམ་འཚོང་མི་** དང་ གསར་འགྱུར་ཤོག་ལེབ་འཁྱེར་མི། | ཁྱིམ་ལུ་ ག་ཅི་ཚུ་ འཁྱེར་སོང་ག? |
+| འཁོར་ལོ་ཡོད་པའི་ཁ་པར་འདི་ ག་དེ་སྦེ་བརྒྱབ་ག? | ཨེབ་རྟ་མནན་ནི་ དང་ **འཁོར་ལོ་བསྒྱིར་ནི་** དང་ སྐད་ཆ་བཤད་ནི། | ཁྱོད་ཀྱི་ཁྱིམ་ནང་ཡོད་པའི་ཁ་པར་གྱི་སྐོར་ལས་སླབ་དང་། |
+| Model T ཟེར་མིའི་མོ་ཊ་འདི་ ཚོང་ཁང་ག་ཅི་གིས་བཟོ་ཡོད? | **Ford** དང་ Chevrolet དང་ Buick | ཁྱོད་ཀྱིས་དགའ་མིའི་མོ་ཊ་ཅིག་གི་སྐོར་ལས་སླབ་དང་། |
+| soda jerk ཟེར་མི་འདི་ ག་པར་མཐོང་ཚུགས? | **soda fountain** ནང་ དང་ བག་ལེབ་ཚོང་ཁང་ དང་ དངུལ་ཁང་། | ཁྱོད་ཀྱིས་ ཚོང་ཁང་གི་ཁ་ལུ་ ག་ཅི་སྦེ་སློང་ཡི་ག? |
+| ལྕགས་ཀྱི་སྤྲིང་ལས་བཟོ་ཡོདཔ་ལས་ གོམ་པ་ལུ་མར་འགྲོ་ཚུགས་པའི་རྩེད་ཆས་ག་ཅི་སྨོ? | Yo-yo དང་ **Slinky** དང་ hula hoop | ཁྱོད་ཀྱིས་དགའ་ཤོས་བྱ་བའི་རྩེད་ཆས་ག་ཅི་སྨོ? |
+| drive-in ཟེར་མི་འདི་… བལྟ་ས་ཨིན། | **མོ་ཊ་ནང་ལུ་སྡོད་དེ་གློག་བརྙན་** དང་ རྩེདམོ་ དང་ འགྲུལ་བཞུད། | ཁྱོད་ སུ་དང་ཅིག་ཁར་འགྱོ་ཡི་ག? |
+| ཌོ་ལར་ ༡ གི་ཤོག་བུར་ནང་ སུ་གི་གདོང་ཡོད? | Lincoln དང་ **George Washington** དང་ Jefferson | དེ་སྐབས་ ཌོ་ལར་ ༡ གིས་ ག་ཅི་ཉོ་ཚུགས་ག? |
+| penny ཟེར་མིའི་དངུལ་ནང་ སུ་གི་གདོང་ཡོད? | **Abraham Lincoln** དང་ Washington དང་ Franklin | དེ་སྐབས་ ཁྱོད་ཀྱིས་ penny ཚུ་ བར་མ་ནང་བསག་བཞགཔ་ཨིན་ན? |
+| སློབ་གྲྭའི་བརྙན་གཞི་འདི་ སྤྱིར་བཏང་ལུ་ ཚོས་གཞི་ག་ཅི་སྨོ? | དམརཔོ་ དང་ **སེརཔོ་** དང་ ཧོནམོ། | ཁྱོད་ སློབ་གྲྭ་ལུ་ ག་དེ་སྦེ་འགྱོ་ཡི་ག? |
 
-## Holidays, nature and places
+## དུས་ཆེན་ རང་བཞིན་ དང་ ས་གནས་ཀྱི་དྲི་བ་ལན།
 
-| Question | Choices | Talk about |
+| དྲི་བ། | གདམ་ཁ། | གླེང་མོལ་འབད། |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| ཟླ་ ༡༡ པའི་ མིག་དམར་གྱི་ བཞི་པའི་ཉིནམ་འདི་ དུས་ཆེན་ག་ཅི་སྨོ? | Labor Day དང་ **Thanksgiving** དང་ Memorial Day | ཁྱོད་ཀྱི་རྒྱབ་ཁྲི་ནང་ རྟག་པར་ག་ཅི་ཡོད་ག? |
+| Jack-o'-lantern ཚུ་ དུས་ཆེན་ག་ཅི་གི་དོན་ལུ་བཟོཝ་ཨིན? | **Halloween** དང་ Easter དང་ Christmas | ཁྱོད་སྐྱེས་ཡོད་སའི་ Halloween གི་སྐོར་ལས་སླབ་དང་། |
+| ཟླ་ ༧ པའི་ཚེས་ ༤ གིས་ Declaration of… དྲན་གསོ་འབདཝ་ཨིན། | Rights དང་ **Independence** དང་ Freedom | ཁྱོད་ཀྱིས་ མེ་ཏོག་གློག་འཕྲིན་འདི་ ག་པར་བལྟ་ཡི་ག? |
+| Mother's Day འདི་ ཟླཝ་ག་ཅི་ནང་ཨིན་ན? | ཟླ་ ༤ པ་ དང་ **ཟླ་ ༥ པ་** དང་ ཟླ་ ༦ པ། | ཁྱོད་ཀྱི་ཁྱིམ་ཚང་གིས་ ག་དེ་སྦེ་སྲུང་ག? |
+| ཨ་མི་རི་ཀའི་དར་ཆ་ནང་ སྐར་མ་ ག་དེམ་ཅིག་ཡོད? | ༤༨ དང་ **༥༠** དང་ ༥༢ | དར་ཆ་ནང་ སྐར་མ་ ༤༨ འདི་ ༡༩༥༩ ཚུན་ཡོདཔ་ཨིན། ལན་གཉིས་ཆ་ར་ དྲན་གསོ་ལེགས་ཤོམ་ཅིག་ཨིན། |
+| ཤར་ཕྱོགས་ཀྱི་མཚོ་འཁོར་ནང་ཡོད་པའི་རྒྱ་མཚོ་ག་ཅི་སྨོ? | ཞི་བདེ་རྒྱ་མཚོ་ དང་ **ཨེཊ་ལེན་ཊིཀ་རྒྱ་མཚོ་** དང་ ཨཱརཊིཀ་རྒྱ་མཚོ། | ཁྱོད་ ནམ་ར་ཨིན་རུང་ མཚོ་ཁར་འགྱོ་མྱོང་ཡོད་ག? |
+| Statue of Liberty འདི་ གྲོང་ཁྱེར་ག་ཅི་ནང་ཡོད? | Boston དང་ **New York** དང་ Philadelphia | ཁྱོད་ New York ལུ་འགྱོ་མྱོང་ཡོད་ག? |
+| སྦྲང་བུ་གིས་ ག་ཅི་བཟོཝ་ཨིན? | འོམ་ དང་ **སྦྲང་རྩི་** དང་ དར་ཐག | སྦྲང་རྩི་འདི་ བག་ལེབ་གུ་ཡང་ན་ ཇ་ནང་? |
+| བ་ཕྲུག་ལུ་… ཟེར་སླབ་ཨིན། | Foal དང་ **calf** དང་ kid | ཁྱོད་ ནམ་ར་ཨིན་རུང་ ཞིང་ཁའི་ཉེ་འཁོར་ལུ་སྡོད་མྱོང་ཡོད་ག? |
+| ཉི་མའི་ཁ་ཐུག་ལུ་འཁོར་ནིའི་ མཐོ་སྦེ་སྐྱེས་པའི་སེརཔོའི་མེ་ཏོག་ག་ཅི་སྨོ? | གུལཝ་ དང་ **ཉི་མ་མེ་ཏོག** དང་ ཏུ་ལིཔ། | ཁྱོད་ཀྱི་ལྡུམ་རྭ་ནང་ ག་ཅི་སྐྱེས་ག? |
+| ལོ་ལྷག་ཅིག་ནང་ ཉིནམ་ ག་དེམ་ཅིག་ཡོད? | ༣༦༥ དང་ **༣༦༦** དང་ ༣༦༠ | ཁྱོད་ཀྱིས་དྲན་ཚུགས་པའི་ སྐྱེས་སྐར་ཅིག་གི་སྐོར་ལས་སླབ་དང་། |
+| དགུན་ཁའི་ཤུལ་ལས་ དུས་ཚིགས་ག་ཅི་འོང? | སྟོན་ཁ་ དང་ **དཔྱིད་ཀ་** དང་ དབྱར་ཁ། | ཁྱོད་ཀྱིས་དགའ་ཤོས་བྱ་བའི་དུས་ཚིགས་ག་ཅི་སྨོ? |
 
-## Food and sports trivia
+## ཟས་དང་རྩེད་རིགས་ཀྱི་དྲི་བ་ལན།
 
-| Question | Choices | Talk about |
+| དྲི་བ། | གདམ་ཁ། | གླེང་མོལ་འབད། |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| བསྐམ་ཡོད་པའི་རྒུན་འབྲུམ་ (raisins) འདི་ བསྐམས་ཡོད་པའི་… ཨིན། | Plums དང་ **རྒུན་འབྲུམ་** དང་ cherries | ཁྱོད་ཀྱིས་ ཉིན་གུང་ཟས་ནང་ རྒུན་འབྲུམ་བསྐམས་མ་བཙུགས་མྱོང་ཡོད་ག? |
+| བསྐམས་ཡོད་པའི་ (prunes) འདི་ བསྐམས་ཡོད་པའི་… ཨིན། | **Plums** དང་ figs དང་ ཀུ་ཤུ། | ཁྱོད་ཀྱི་ཁྱིམ་ཚང་ནང་ སུ་གིས་ prunes ལུ་དགའ་ག? |
+| བ་དམ་སྦྲང་རྩི་དང་… | **jelly** དང་ ཕྱུར་བ་ དང་ ཕག་ཤ། | མཁྲེགས་པོ་ ཡང་ན་ འཇམ་པོ? |
+| Guacamole འདི་ གཙོ་བོ་ར་… ལས་བཟོཝ་ཨིན། | སྲན་མ་ དང་ **avocados** དང་ cucumbers | ཚོགས་འཛོམས་ནང་ ཟ་ནིའི་ཐུན་ཚོད་ག་ཅི་བཏོན་ག? |
+| Thanksgiving གི་དུས་ཆེན་ལུ་ མང་ཤོས་ཅིག་ཟ་མིའི་ པའི་ (pie) ག་ཅི་སྨོ? | **ཀ་ཀོ་རུ་ཊ་ (Pumpkin)** དང་ lemon དང་ cherry | ཁྱོད་ཀྱིས་བཟོ་མིའི་ pie ག་ཅི་སྨོ? |
+| baseball རྩེདམོ་ནང་ སྡེ་ཚན་གཅིག་ལུ་ རྩེད་མོ་རྩེ་མི་ ག་དེམ་ཅིག་ཡོད? | ༧ དང་ **༩** དང་ ༡༡ | ཁྱོད་ཀྱིས་ སྡེ་ཚན་ག་ཅི་ལུ་རྒྱབ་སྐྱོར་འབད་ག? |
+| baseball ནང་ ཐོངས་ལེན་ (out) འབད་ནི་ལུ་ strikes ག་དེམ་ཅིག་དགོ? | གཉིས་ དང་ **གསུམ་** དང་ བཞི། | ཁྱོད་ཀྱིས་ རྩེདམོ་རྩེ་མྱོང་ཡོད་ག? |
+| Babe Ruth འདི་ རྩེད་རིགས་ག་ཅི་གི་དོན་ལུ་མིང་ཆེན་ཨིན་ན? | བརྡུང་རྩེད་ དང་ **baseball** དང་ གཱོལཕ། | ཁྱོད་ རྩེདམོ་བལྟ་ནི་ལུ་འགྱོ་མྱོང་ཡོད་ག? |
+| ཚད་ལྡན་གཱོལཕ་རྩེད་ཐང་ཅིག་ནང་ ཁུང་ཁུང་ (holes) ག་དེམ་ཅིག་ཡོད? | ༩ དང་ **༡༨** དང་ ༢༤ | ཁྱོད་ཀྱིས་ གཱོལཕ་ཡང་ན་ mini golf རྩེ་མྱོང་ཡོད་ག? |
+| touchdown སྐུགས་ཐོབ་འབད་མིའི་རྩེད་རིགས་ག་ཅི་སྨོ? | **Football** དང་ hockey དང་ basketball | ཁྱོད་ཀྱི་ཁྱིམ་ནང་ སུ་གིས་ football བལྟ་ག? |
 
-## Familiar sayings
+## རྒྱུས་མངའ་ཡོད་པའི་ངག་རྒྱུན།
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+ངག་རྒྱུན་གྱི་མཇུག་མཐུད་འདི་ ཡུན་རིངམ་སྔོན་ལས་སློབ་ཡོད་པའི་སྐད་ཡིག་ལུ་བརྟེནམ་ལས་ ལས་སླ་པོ་སྦེ་འབད་ཚུགས། ང་བཅས་ཀྱི་ [ངག་རྒྱུན་མཇུག་བསྡུ།](/games/finish-the-saying/) རྩེདམོ་ནང་ མཇུག་ག་ཅི་ར་ཨིན་ན་ མནན་ཏེ་སྟོན་ཚུགས་པའི་ངག་རྒྱུན་ལེ་ཤ་ཡོད།
 
-| Saying | Choices | Talk about |
+| ངག་རྒྱུན། | གདམ་ཁ། | གླེང་མོལ་འབད། |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| An apple a day keeps the… | **Doctor away** དང་ rain away དང་ cat away | སུ་གིས་ ཁྱོད་ལུ་འདི་སླབ་ཡི་ག? |
+| The early bird catches the… | Bus དང་ **worm** དང་ train | ཁྱོད་ ཞོགས་པའི་མི་ཨིན་ན? |
+| Don't count your chickens before they… | **Hatch** དང་ sleep དང་ sing | ཁྱོད་ཀྱི་ཁྱིམ་ཚང་གིས་ བྱ་ཕོ་བྱ་མོ་བཞག་མྱོང་ཡོད་ག? |
+| A penny saved is a penny… | **Earned** དང་ lost དང་ spent | ཁྱོད་ཀྱི་ཁྱིམ་ཚང་ནང་ དངུལ་བསག་མི་སུ་སྨོ? |
+| Home is where the… | Garden is དང་ **heart is** དང་ kitchen is | ས་གནས་ཅིག་ལུ་ ཁྱིམ་བཟུམ་གྱི་ཚོར་སྣང་ག་ཅི་གིས་འབྱུང་བཅུགཔ་སྨོ? |
+| Better late than… | Early དང་ **never** དང་ sorry | རྟག་པར་ཕྱི་དྲོ་བའི་མི་སུ་སྨོ? |
+| Every cloud has a silver… | **Lining** དང་ spoon དང་ coin | ཁྱོད་ལུ་བསོད་བདེ་བྱུང་ཡོད་པའི་ལོ་རྒྱུས་ཅིག་སླབ་དང་། |
+| Actions speak louder than… | **Words** དང་ music དང་ thunder | འདི་སླབ་མིའི་མི་ཅིག་གི་སྐོར་ལས་སླབ་དང་། |
 
-## This-or-that questions with no wrong answer
+## ལན་ནོར་འཁྲུལ་མེད་པའི་ 「འདི་ཡང་ན་དེ」 དྲི་བ།
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+དྲི་བ་འདི་ཚུ་ རིམ་པ་ག་ཅི་ནང་ཡོད་རུང་ ལེགས་ཤོམ་ཨིན་ ཤུལ་ལས་ཀྱི་རིམ་པ་ནང་ཡང་ཨིན། ག་ཅི་ཨིན་ཟེར་ཞུ་ནི་ལུ་ ལན་ངེས་བདེན་མི་དགོ། དྲིས་ཞིནམ་ལས་ཉན་ དེ་ལས་ ཁྱོད་རའི་ལན་ཡང་རུང་བཞག
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- ཇ་ ཡང་ན་ ངད་ཇ?
+- མཚོ་ཁ་ ཡང་ན་ རི་མཐོང?
+- ཁྱི་ ཡང་ན་ ཞི་མི?
+- དབྱར་ཁ་ ཡང་ན་ དགུན་ཁ?
+- པའི་ (pie) ཡང་ན་ ཀེཀ?
+- ཞབས་བྲོ་འབྲི་ནི་ ཡང་ན་ བལྟ་ནི?
+- ཉི་ཤར་ ཡང་ན་ ཉི་ནུབ?
+- མདུན་གྱི་ཁྱམས་ ཡང་ན་ རྒྱབ་ཀྱི་ལྡུམ་རྭ?
+- རེ་ཌིའོ་ ཡང་ན་ གླུ་གཞས་ཀྱི་ཐིག་ཁྲམ (records)?
+- པེན་ཀེཀ་ ཡང་ན་ སྒོ་ང?
+- གུལཝ་ ཡང་ན་ མེ་ཏོག་དཀརཔོ?
+- རི་ལིའི་འགྲུལ་བཞུད་ ཡང་ན་ མོ་ཊའི་འགྲུལ་བཞུད?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+པར་རིས་དང་མཉམ་དུ་ གླེང་མོལ་འབད་ནིའི་རྒྱུ་ཆ་དགོ་པ་ཅིན་ ང་བཅས་ཀྱི་ པར་འདེབས་འབད་ཚུགས་པའི་ [གླེང་མོལ་གྱི་ཤོག་བྱང་།](/games/conversation-cards/) ལག་ལེན་འཐབ།
 
-## How do you run a trivia session in a care home or group?
+## གཅེས་སྐྱོང་ཁང་མིག་ཡང་ན་སྡེ་ཚན་ནང་ དྲི་བ་ལན་གྱི་ལས་རིམ་ག་དེ་སྦེ་འབད་ག?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **མི་ཚུ་ མཐོང་ཚུགས་ཤིང་ཉན་ཚུགས་སར་བསྡད་བཅུག** ཉན་ཆས་བཙུགས་ མིག་ཤེལ་བཙུགས་ གློག་བརྙན་བསད།
+2. **ལས་རིམ་འདི་ གླེང་མོལ་བཟུམ་སྦེ་ངོ་སྤྲོད་འབད།** 「ང་ལུ་ ཧེ་མའི་ཉིནམ་ཚུ་གི་སྐོར་ལས་དྲི་བ་འགའ་ཡོད་ དེ་ཚུ་ཁྱེད་ཀྱིས་ ང་ལས་ལྷག་སྦེ་ཤེས་འོང་།」
+3. **དྲི་བ་རེ་རེ་བཞིན་ ཐེངས་གཉིས་ལྷག་སྟེ་ གདམ་ཁ་ཚུ་ ཡིག་ཚུགས་ཆེ་སྦེ་སྟོན།**
+4. **ཁངམ་ནང་ག་པར་ལས་ར་ལན་འབད་རུང་དགའ་བསུ་ཞུ།** ལན་ལེགས་ཤོམ་ཚུ་ ག་ར་གིས་ཉན་ཚུགས་པའི་དོན་ལུ་ ལོག་སླབ།
+5. **ག་ར་གི་དོན་ལུ་ལན་བཤད་** དེ་ལས་ གླེང་མོལ་གྱི་རྒྱུ་ཆ་འདི་ ཁངམ་ནང་ལུ་དྲི།
+6. **ཁངམ་ནང་གི་སྣང་ཚུལ་ལུ་རྗེས་སུ་འབྲང་།** དྲི་བ་གཅིག་གིས་ སྐར་མ་ ༡༠ རིང་གི་ལོ་རྒྱུས་ཀྱི་གླེང་མོལ་འགོ་བཙུགས་པ་ཅིན་ འགོ་བཙུགས་བཅུག
+7. **གླུ་གཞས་ཅིག་ཡང་ན་ 「འདི་ཡང་ན་དེ」 དྲི་བ་ཀྱིས་མཇུག་བསྡུ།** དེ་འབདཝ་ལས་ ག་ར་གིས་ ལས་སླ་པོའི་ཐོག་ལས་མཇུག་བསྡུ་ཚུགས།
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+པར་རིས་ཀྱི་ bingo དང་ མཉམ་དུ་གླུ་གཞས་ལེན་ནི་བཟུམ་གྱི་ སྡེ་ཚན་གྱི་ལས་རིམ་གཞན་ཚུ་གི་དོན་ལུ་ [གཅེས་སྐྱོང་ཁང་མིག་ནང་གི་སྡེ་ཚན་ལས་རིམ།](/activities/care-home-groups/) ལུ་བལྟ།
 
-## When to change the plan
+## འཆར་གཞི་བསྒྱུར་བཅོས་འབད་དགོ་པའི་དུས་ཚོད།
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+གལ་སྲིད་ སུ་གཅིག་གིས་ སེམས་ཁྲལ་ཡོད་པའི་བཟུམ་སྦེ་མཐོང་ ཁ་བཙམ་ཆགས་ ཡང་ན་ 「ང་མི་ཤེས」 ཟེར་སྟེ་ཐེངས་མང་སླབ་པ་ཅིན་ ལས་སླ་རུ་བཟོ། གདམ་ཁ་གཉིས་ཙམ་བཞག་ མཉམ་དུ་ལན་འབད་ ཡང་ན་ 「འདི་ཡང་ན་དེ」 དྲི་བ་ལུ་སོར། གལ་སྲིད་ སྡེ་ཚན་གྱིས་ དྲི་བ་གཅིག་གི་སྐོར་ལས་ ཉིནམ་ཧྲིལ་བུ་གླེང་མོལ་འབད་ནི་ལུ་དགའ་བ་ཅིན་ དེ་འདི་ ལེགས་ཤོམ་ཨིན། དམིགས་ཡུལ་འདི་ ནམ་ཡང་ ལན་ངེས་བདེན་མེན། མཐུན་སྦྱོར་ལེགས་ཤོམ་ནང་ མཉམ་དུ་སྤྱོད་པའི་དུས་ཚོད་ཨིན།

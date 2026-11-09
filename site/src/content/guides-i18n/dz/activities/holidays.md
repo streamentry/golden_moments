@@ -1,33 +1,32 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "དྲན་པའི་དཀའ་ངལ་ཡོད་པའི་མི་གི་དོན་ལུ་ དུས་ཆེན་གྱི་བྱ་བ།"
+seoTitle: "དྲན་པའི་དཀའ་ངལ་ལུ་ དུས་ཆེན་གྱི་རིགས།"
+description: "དྲན་པའི་དཀའ་ངལ་དང་མཉམ་སྡོད་པའི་མི་དང་མཉམ་དུ་ ཁ་ལག་བཟོ་བ་ མཛེས་བཟོ་ གླུ་དང་པར་ བརྙན་འཕྲིན་གྱི་ལས་རིམ་འཇམ་ཏོག་ཏོ་འབད་ནིའི་ཐབས་ཤེས།"
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  དུས་ཆེན་འདི་ ཆུང་ཀུ་དང་ ཉིནམ་གྱི་སྔ་པོ་ དེ་ལས་ མི་དེ་གི་ཉམས་མྱོང་སྤྱིར་བཏང་དང་ཉེ་བར་བཞག།
+  ཁོང་ལུ་ ཉེན་ཁ་མེད་པའི་ལས་ཀ་ངོ་མ་ཅིག་ དཔེར་ན་ ཅོག་ཙེ་སྒྲིག་ནི་ ཚོད་བསྲེ་འཁྲུད་ནི་ རྔན་པ་བཏུམ་ནི་ ཡང་ན་ མཛེས་རྒྱན་བཞག་ནི་ལེ་བ་བྱིན།
+  ངོས་ལེན་ཡོད་པའི་གླུ་དང་ རྙིང་པའི་པར་ཚུ་མཉམ་སྦྲགས་བལྟ་ཞིནམ་ལས་ མགྲོན་པོ་ཚུ་ལུ་སྔོན་མ་ལས་གྲ་སྒྲིག་འབད་ དེ་ལས་ ཁང་མིག་ཞི་འཇམ་ཅིག་གྲ་སྒྲིག་འབད།
+  ཁྱོད་ཀྱིས་འབད་ཚུགས་པའི་ཚད་ཙམ་ལས་མི་འབད། ཐུང་ཀུ་དང་ཞི་འཇམ་སྦེ་བཏང་བའི་དུས་ཆེན་འདི་ ལེགས་ཤོམ་ཅིག་ཨིན།
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "ཕྱི་ཉིན་གྱི་རིང་ལུ་ སེམས་ཁྲལ་ལང་སྲིད་པ་ཅིན་ ཉིནམ་གྱི་སྔ་པོ་ དཔེར་ན་ ཉིན་གུང་ཁ་ལག་ཡང་ན་ ཞོགས་ཁ་ལག་ནང་བཏང་ནི་བསམ་བཞག།"
+  - "ངོ་མའི་ལས་ཀ་བྱིན་: ཅོག་ཙེ་སྒྲིག་ནི་ ཚོད་བསྲེ་འཁྲུད་ནི་ རྔན་པ་བཏུམ་ནི་ མཛེས་བཟོ་འབད་ནི་ ཡང་ན་ ཟ་འབྲས་ཞོག་ནི།"
+  - "ངོས་ལེན་ཡོད་པའི་གླུ་དང་ དུས་ཆེན་གྱི་གླུ་ རྙིང་པའི་པར་དེབ་ཚུ་གིས་ དུས་ཆེན་འདི་མཉམ་སྦྲགས་བཏང་ནི་ལུ་འཇམ་ཏོག་ཏོ་ཨིན།"
+  - "མགྲོན་པོ་ཚུ་མ་འོང་པའི་ཧེ་མ་ལས་ ག་ཅི་མཐོང་ཚུགས་ཟེར་སླབ་ཞིནམ་ལས་ ག་འདྲའི་མགྲོན་པོ་འོང་ནི་ཨིན་ན་ པར་སྟོན།"
+  - "དགའ་མི་ཉལ་ཆས་ཡང་ན་ ཏོ་གོས་དང་བཅས་པའི་ ཁང་མིག་ཞི་འཇམ་ཅིག་གྲ་སྒྲིག་འབད་ཞིནམ་ལས་ མགྲོན་པོ་ཚུ་ཆུང་ཀུའི་སྡེ་ཚན་ནང་འོང་བཅུག།"
+  - "སེམས་ཁྲལ་བཟོ་མི་ དཔེར་ན་ ཟ་ནི་བཟུམ་མི་མཛེས་རྒྱན་ ཡང་ན་ མང་པོ་འོད་འཕྲོ་མི་གློག་ཚུ་ མ་འབད།"
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "དྲན་པའི་དཀའ་ངལ་ཡོད་པའི་མི་གིས་ Thanksgiving ནང་ག་ཅི་འབད་ཚུགས?"
+    a: "དེ་རིང་ཁོང་གིས་འབད་ཚུགས་པའི་ འཇམ་ཏོག་ཏོ་དང་ཉེན་ཁ་མེད་པའི་ལས་ཀ་ཅིག་བྱིན་: ཚོད་བསྲེ་འཁྲུད་ནི་ ཀེན་བེ་རི་སོས་དཀྲུག་ནི་ ཅོག་ཙེ་སྒྲིག་ནི་ གདན་ཆུང་སློག་ནི་ ཡང་ན་ ཟ་འབྲས་ཚུ་པེ་ལེཊི་གུ་བཞག་ནི། ཤུལ་ལས་ རྙིང་པའི་ཁྱིམ་ཚང་གི་པར་ཚུ་མཉམ་སྦྲགས་བལྟ་ ཡང་ན་ ངོས་ལེན་ཡོད་པའི་གླུ་ཚུ་མཉམ་སྦྲགས་ལེན། ལས་ཀ་འདི་ག་དེ་སྦེ་འགྱོ་ནི་མེན་པར་ ཉིནམ་དེ་ནང་མཉམ་ཞུགས་འབད་མི་དེ་གལ་ཆེ།"
+  - q: "ཁྱིམ་ཚང་ཆེ་བའི་ཚོགས་འཛོམས་འབད་དགོཔ་ཨིན་ན?"
+    a: "འབད་ཚུགས་པ་ཅིན་རྐྱངམ་ཅིག་འབད། མི་མང་དང་སྒྲ་སྐད་ཀྱིས་ སེམས་ཁྲལ་བཟོ་ཚུགསཔ་ལས་ ཁྱིམ་ཚང་མང་ཤོས་རང་ ཆུང་ཀུ་དང་འཇམ་ཏོག་ཏོའི་ཚོགས་འཛོམས་ སྔ་པོའི་ཁ་ལག་ ཡང་ན་ མགྲོན་པོ་ཚུ་ཆུང་ཀུའི་སྡེ་ཚན་ནང་འོང་བཅུགཔ་ཨིན། Alzheimer's Association གིས་ བདག་སྐྱོང་པ་ཚུ་ལུ་ ཁོང་གིས་འབད་ཚུགས་པའི་དང་ཉེན་མེད་ཐོག་ལས་འབད་ཚུགས་པའི་ཚད་ཙམ་ལས་མི་འབད་ཟེར་སླབ་ཨིན།"
+  - q: "ཡུན་རིངམ་ལས་མ་འོང་མི་ཁྱིམ་ཚང་ལུ་ ག་དེ་སྦེ་གྲ་སྒྲིག་འབད་ནི?"
+    a: "ཁོང་ཚུ་མ་འོང་པའི་ཧེ་མ་ལས་ མཐོང་ཚུགས་པའི་འགྱུར་བ་ཚུ་དང་ དེ་ཚུ་ནད་གཞི་ལས་འབྱུང་མི་ཨིན་པས་སླབ། ཁོང་ཚུ་ལུ་ ནོར་བཅོས་མ་འབད་ དྲི་བ་མ་འདྲི་ གཅིག་གི་ཤུལ་ལས་གཅིག་སླབ་དགོ་ ལན་གསལ་ནི་ལུ་དུས་ཡུན་བྱིན་དགོ་ཟེར་ཞུ། མ་འོང་པའི་ཧེ་མ་ལས་ མགྲོན་པོ་ཚུ་གི་པར་སྟོན་མི་འདི་ཡང་ཕན་ཐོགས་འབྱུང་སྲིད།"
+  - q: "དྲན་པའི་དཀའ་ངལ་དང་མཉམ་སྡོད་པའི་མི་ལུ་ ག་དེ་སྦེའི་དུས་ཆེན་གྱི་རྔན་པ་འོས་ཤོམ་ཨིན?"
+    a: "ད་ལྟོ་ཁོང་གིས་མཉམ་སྦྲགས་སྤྲོ་བ་འཐོབ་ཚུགས་པའི་ འཇམ་ཏོག་ཏོ་དང་ཉེན་ཁ་མེད་པའི་ཅ་ལ་: དགའ་མི་ཟ་ནི་ འཇམ་པོའི་ཉལ་ཆས་ཡང་ན་ཏོ་གོས་ ངོས་ལེན་ཡོད་པའི་གླུ་ ཡང་ན་ ཁྱིམ་ཚང་གི་པར་དེབ། གོ་རིམ་ཆེ་བའི་གློག་འཕྲུལ་ ལག་ཆས་ དང་ དཀའ་སྡུག་ཅན་གྱི་རྩེད་རིགས་ཚུ་ལས་ཟུར་བཞག། ཁོང་ལུ་ རྔན་པ་བཏུམ་ནི་ ཡང་ན་ ཁོང་གིས་གྲོགས་རམ་འབད་བཟོ་ཡོད་པའི་བེས་ཀེཊི་སྒྲིག་ནི་ནང་མཉམ་ཞུགས་འབད་བཅུག་མི་འདི་ཡང་ རྔན་པ་ཅིག་བཟུམ་ཨིན།"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +39,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+དུས་ཆེན་ཚུ་གིས་ དྲན་གསོ་ཡིད་འོང་ཅན་ཚུ་སླར་འབྱུང་བཅུག་ཚུགས་པའི་ཁར་ སྒྲ་སྐད་དང་ མི་མང་ ཉམས་མྱོང་སྤྱིར་བཏང་ལས་འགྱུར་བ་ཚུ་ཡང་འབྱུང་སྲིད། དྲན་པའི་དཀའ་ངལ་དང་མཉམ་སྡོད་པའི་མི་གི་དོན་ལུ་ ལེགས་ཤོམ་སྦེ་མཐོང་མི་དུས་ཆེན་ཚུ་ ཆུང་ཀུ་དང་ ག་ལེར་བ་དང་ ཁོང་གིས་ད་ལྟོ་ཡང་མཉམ་སྦྲགས་སྤྲོ་བ་འཐོབ་ཚུགས་པའི་ལས་རིམ་ཚུ་གུ་གཞི་བཞག་ཡོདཔ་ཨིན། འོག་གི་རིགས་འདི་ཚུ་ Thanksgiving, Christmas, Hanukkah, ལོ་གསར་ དང་ ཁྱིམ་ཚང་གི་སྐྱེས་སྐར་ཚུ་ལུ་ཡང་ལག་ལེན་འཐབ་བཏུབ།
 
-## How do I plan a calmer holiday?
+## དུས་ཆེན་འཇམ་ཏོག་ཏོ་སྦེ་ག་དེ་སྦེ་གྲ་སྒྲིག་འབད་ནི?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+མི་དེ་གི་ཉམས་མྱོང་སྤྱིར་བཏང་ལས་འགོ་བཙུགས་ཏེ་ ཉིནམ་གྱི་ལས་རིམ་དེ་དང་མཐུན་སྦེ་གྲ་སྒྲིག་འབད། [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) གིས་ ཕྱི་ཉིན་གྱི་རིང་དང་དགོང་མོ་ལུ་ སེམས་ཁྲལ་དང་མ་བདེ་བ་ཚུ་ཡར་འཕེལ་འགྱོ་སྲིདཔ་ལས་ (མཚན་མོ་ལུ་སེམས་ཁྲལ་ཡར་སེང་འགྱོ་མི་ལུ་ མཚན་མོའི་སེམས་ཁྲལ་ཟེར་ཡང་སླབ་ཨིན) དུས་ཆེན་འདི་ཉིནམ་གྱི་སྔ་པོ་ལུ་བཏང་ནི་ལུ་བསམ་འཆར་བཀོད་ཡོད། དུས་ཆེན་གྱི་ཉིན་གུང་ཁ་ལག་ཡང་ན་ ཞོགས་ཁ་ལག་འདི་ དགོང་མོའི་ཁ་ལག་ལས་འཇམ་ཏོག་ཏོ་འོང་སྲིད།
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **ཚད་འཛིན་ལེགས་ཤོམ་སྦེ་བཞག།** ཆུང་ཀུ་དང་འཇམ་ཏོག་ཏོའི་ཚོགས་འཛོམས་ ཡང་ན་ མགྲོན་པོ་ཚུ་ཆུང་ཀུའི་སྡེ་ཚན་ནང་འོང་མི་འདི་ མི་མང་ཤོས་གཅིག་ཁར་སྡོད་མི་ལས་འཇམ་ཏོག་ཏོ་འོང་སྲིད།
+- **ལས་ཀ་བགོ་བཤའ་རྐྱབ།** ནང་མི་ཚུ་ལུ་ ཁ་ལག་ཅིག་འཁྱེར་ནི་ ཉོ་ཆ་འབད་ནི་ ཡང་ན་ ཁྱོད་ཀྱིས་ཁ་ལག་བཟོ་བའི་སྐབས་ མི་དེ་དང་མཉམ་དུ་དུས་ཡུན་སྤྱོད་ནི་ལུ་ཞུ། ག་ཅི་གིས་ཕན་ཐོགས་འབྱུང་ནི་ཨིན་ན་ གསལ་ཏོག་ཏོ་སྦེ་སླབ།
+- **མཛེས་རྒྱན་འཇམ་སམ་སྦེ་བཞག།** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) གིས་ འོད་འཕྲོ་མི་གློག་ཚུ་གིས་ སེམས་ཁྲལ་བཟོ་ཚུགསཔ་དང་ མཛེས་རྒྱན་ནང་ལག་ལེན་འཐབ་མི་སྒོར་མོ་ཡང་ན་ བཟོ་རྫུས་ཤིང་ཏོག་ཚུ་ ཟ་ནི་འབད་བརྩི་སྲིད་ཟེར་སླབ་ཨིན།
+- **ག་ཅི་མ་འབད་ནི་ཨིན་ན་ ཐག་གཅད།** ལམ་ལུགས་ཅིག་གིས་ དྲག་ཤོས་ཡང་ན་ཉེན་ཁ་ཅན་ཅིག་ལུ་འགྱོ་བ་ཅིན་ མ་འབད་བར་བཞག་པའམ་ ཞི་འཇམ་སྦེ་འབད་རུང་བཏུབ།
 
-## What holiday activities can we do together?
+## མཉམ་དུ་ག་དེ་སྦེའི་དུས་ཆེན་གྱི་ལས་རིམ་འབད་ཚུགས?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+དེ་རིང་མི་དེ་གིས་འབད་ཚུགས་པའི་ལས་ཀ་དང་ ལས་རིམ་ཚུ་གདམ་ཁ་རྐྱབ། ག་དེ་སྦེ་འགྱོ་ནི་མེན་པར་ ཉིནམ་དེ་ནང་མཉམ་ཞུགས་འབད་མི་དེ་གལ་ཆེ།
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **མཉམ་དུ་ཅོག་ཙེ་སྒྲིག།** ཐོག་མར་པེ་ལེཊི་ དེ་ལས་གདན་ཆུང་ དེ་ལས་ཕོར་པ་བཞག། གདན་ཆུང་སློག་ནི་འདི་ སྡོད་སྡོདཔ་འབད་མ་ཚུགས་པའི་ལས་ཀ་ལེགས་ཤོམ་ཅིག་ཨིན།
+2. **ཚོད་བསྲེ་འཁྲུད་དེ་དབྱེ་སེལ་འབད།** ཀེ་བ་འཁྲུད་ནི་ ཡང་ན་ ཐབ་ཚང་གི་ཅོག་ཙེ་གུ་ སེམ་སྦུང་ཆག་ནི་འདི་ ཧེ་མ་ལས་ཁ་ལག་བཟོ་མྱོང་མི་མི་མང་ཤོས་ལུ་ ཉེན་ཁ་མེདཔ་དང་ངོས་ལེན་ཡོདཔ་ཨིན།
+3. **དཀྲུག་ནི་ མཉམ་མཉམ་སྦེ་འབད་ནི་ ཡང་ན་པེ་ལེཊི་གུ་བཞག།** ཀེན་བེ་རི་སོས་དཀྲུག་ནི་ འཇམ་སམ་སྦེ་བཏུམ་ནི་ ཡང་ན་ བེས་ཀེཊི་པེ་ལེཊི་གུ་བཞག་མི་འདི་གིས་ ལགཔ་ལཱ་ཁར་བཞག་ཐོག་ལས་ ཐབ་དང་གྲི་ལས་ཐག་རིང་བཞག་ཚུགས།
+4. **རྔན་པ་བཏུམ།** ཤོག་ཀུ་དང་ཊེཔ་སྔོན་མ་ལས་གཏུབ་ཞིནམ་ལས་ མི་དེ་ལུ་སློག་ནི་དང་འཇམ་སམ་སྦེ་འབད་བཅུག། གསལ་ཏོག་ཏོ་སྦེ་བཏུམ་དགོཔ་མེན།
+5. **མཛེས་རྒྱན་ཉུང་ཀུ་ཅིག་བཞག།** མ་ཆགཔ་འབད་མི་མཛེས་རྒྱན་དང་ ས་ཁོངས་ཆུང་ཀུ་ཅིག་ དཔེར་ན་ འཁོར་ལོ་ཡང་ན་ ཤིང་ཆུང་ཀུ་ཅིག་གདམ་ཁ་རྐྱབ།
+6. **འཇམ་སམ་སྦེ་ལག་རྩལ་ཅིག་བཟོ།** ཤོག་ཀུའི་འཐག་ཕྲེང་ ལོ་མའི་པར་རིས་ ཡང་ན་ མཚོན་རྟགས་བཀོད་པའི་དུས་ཆེན་གྱི་ལག་འཕྲིན་ཚུ་ལེགས་ཤོམ་ཨིན། ང་བཅས་ཀྱི་ [ལག་རྩལ་དང་བཟོ་རིག་གི་ལམ་སྟོན་](/activities/arts-and-crafts/) ནང་རིགས་མངམ་ཡོད།
+7. **གླུ་ལེན་ཞིནམ་ལས་ཉན།** ངོས་ལེན་ཡོད་པའི་དུས་ཆེན་གྱི་གླུ་ཚུ་ ད་ལྟོ་ཁ་སླབ་ཉུངམ་སྦེ་འབད་མི་ལུ་ཡང་ མཉམ་ཞུགས་འབད་ནི་འཇམ་ཏོག་ཏོ་ཨིན། གླུ་ཐོ་བཟོ་ནིའི་དོན་ལུ་ ང་བཅས་ཀྱི་ [གླུ་གཞས་ཀྱི་ལམ་སྟོན་](/activities/music/) ལྟ།
+8. **རྙིང་པའི་དུས་ཆེན་གྱི་པར་ཚུ་བལྟ།** ཧེ་མའི་དུས་ཆེན་གྱི་པར་དེབ་ཚུ་ཕྱིར་ཐོན་འབད་ཞིནམ་ལས་ ག་འདི་ཨིན་ན་ཟེར་མ་འདྲི་བར་ (‹ཅོག་ཙེ་འདི་གི་སྐོར་ལས་སླབ་གནང་›) ཟེར་སྦེ་སྒྲུང་སླབ་ནི་ལུ་མགྲོན་འབོད་འབད། ང་བཅས་ཀྱི་ [དྲན་གསོའི་ལམ་སྟོན་](/activities/reminiscence/) ནང་ག་དེ་སྦེ་འབད་ནི་ཨིན་ན་འགྲེལ་བཤད་ཡོད།
+9. **འཇམ་ཏོག་ཏོའི་སྡེ་ཚན་གྱི་རྩེདམོ་ཅིག་རྩེ།** [Picture bingo](/games/picture-bingo/) འདི་སྐར་མ་འགའ་ནང་པར་བཏབ་ཚུགས་པའི་ཁར་ ལོ་ཚད་ག་ར་ལུ་འོས་ཤོམ་ཨིན་ དེ་ལས་ [Conversation cards](/games/conversation-cards/) གིས་ག་ར་ལུ་སྐད་ཆ་བཤད་ནིའི་གནས་སྟངས་བྱིནམ་ཨིན།
+10. **མཉམ་དུ་ཚོས་གཞི་བཀོད།** [ཚོས་གཞིའི་ཤོག་ལེབ་](/games/coloring/) འཇམ་སམ་ཚུ་ ཨ་ལུ་དང་ཕ་མེས་པོ་མེས་མོ་ཚུ་གིས་ ཅོག་ཙེ་གུ་མཉམ་སྦྲགས་ལག་ལེན་འཐབ་ནིའི་དོན་ལུ་ པར་བཏབ་བཏུབ།
+11. **དགའ་མི་དུས་ཆེན་གྱི་གློག་བརྙན་ཅིག་ལྟ།** ངོས་ལེན་ཡོད་པའི་གློག་བརྙན་འདི་ངལ་གསོ་ཨིན་ དེ་ལས་ ཆ་ཤས་ཅིག་རྐྱངམ་ཅིག་བལྟ་རུང་ཉེན་ཁ་མེད།
+12. **གློག་འོད་བལྟ་ནིའི་དོན་ལུ་ ཐུང་ཀུ་སྦེ་གློག་འཁོར་བསྐོར་ཏེ་འགྱོ།** མཛེས་རྒྱན་བཀོད་ཡོད་པའི་ཁྱིམ་ཚུ་གི་ཁ་ཐོག་ལས་ ཞི་འཇམ་སྦེ་གློག་འཁོར་བསྐོར་ཏེ་འགྱོ་མི་འདི་ མི་མང་ས་ཁོངས་ནང་འགྱོ་མི་ལས་འཇམ་ཏོག་ཏོ་འོང་སྲིད།
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+གལ་སྲིད་ཁ་ལག་བཟོ་ནི་འདི་ མི་དེ་གི་མི་ཚེའི་ཆ་ཤས་གལ་ཆེན་ཅིག་ཨིན་པ་ཅིན་ ང་བཅས་ཀྱི་ [ཁྱིམ་གྱི་ལས་ཀ་ལས་རིམ་བཟུམ་སྦེ་ལག་ལེན་འཐབ་ཐངས་](/activities/household-tasks/) ནང་ ཐབ་ཚང་གི་ལས་ཀ་ཚུ་ ཉེན་མེད་དང་ཏག་ཏག་འབད་ཐབས་ཀྱི་རིགས་མངམ་ཡོད།
 
-## How do I prepare guests?
+## མགྲོན་པོ་ཚུ་ལུ་ ག་དེ་སྦེ་གྲ་སྒྲིག་འབད་ནི?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+མགྲོན་པོ་ཚུ་ ལེ་ཤ་ཡུན་རིངམ་ལས་མ་འོང་མི་ནང་མི་ཚུ་ལུ་ ཁོང་ཚུ་མ་འོང་པའི་ཧེ་མ་ལས་ ག་ཅི་མཐོང་ཚུགས་ཟེར་སླབ། Alzheimer's Association གིས་ དྲན་ཤེས་དང་སྤྱོད་པའི་ནང་འགྱུར་བ་ཚུ་ ནད་གཞི་ལས་འབྱུང་མི་ཨིན་པས་ འགྲེལ་བཤད་རྐྱབ་ནི་ལུ་བསམ་འཆར་བཀོད་ཡོད།
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **འཇམ་ཏོག་ཏོའི་གྲོགས་རམ་རིགས་འགའ་བརྗེ་སོར་འབད་:** གཅིག་གི་ཤུལ་ལས་གཅིག་སླབ་དགོ་ བསམ་བརྗོད་མཇུག་བསྡུ་ནི་ལུ་དུས་ཡུན་བྱིན་དགོ་ ནོར་བཅོས་མ་འབད་ དྲི་བ་མ་འདྲི་ ཚིག་ཚུ་གོ་ནི་ལུ་དཀའ་བ་ཅིན་ མི་དེ་གི་སྐད་གདངས་ལུ་ལན་འདེབས་དགོ།
+- **ག་ཅི་གིས་ཕན་ཐོགས་དང་ག་ཅི་གིས་དཀའ་ངལ་བཟོ་ནི་ཨིན་ན་ སླབ།** སྒྲ་སྐད་ཆེ་བ་ མགྱོགས་དྲགས་སྦེ་འབད་ནི་ ཡང་ན་ གནད་དོན་ལ་ལོ་ཅིག་གིས་ སེམས་ཁྲལ་བཟོ་བ་ཅིན་ སྔོན་མ་ལས་སླབ།
+- **མགྲོན་པོ་ཚུ་གི་སྐོར་ལས་ སྔོན་མ་ལས་ངོ་སྤྲོད་འབད།** ག་འདྲའི་མགྲོན་པོ་འོང་ནི་ཨིན་ན་ མི་དེ་ལུ་པར་སྟོན་ཞིནམ་ལས་ སྒྲུང་འགའ་བརྗེ་སོར་འབད་ ཡང་ན་ ཉིནམ་དེ་གི་ཧེ་མ་ལས་ ཁ་པར་ཡང་ན་ བརྙན་འཕྲིན་ཐུང་ཀུ་ཅིག་འབད།
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+ང་བཅས་ཀྱི་ [བརྗེ་སོར་གྱི་གྲོགས་རམ་](/caregiving/communication-tips/) ནང་ཁ་གསལ་སྦེ་ཡོད།
 
-## What if it gets to be too much?
+## གལ་སྲིད་དཀའ་ལས་ཁག་པོ་ཆགས་པ་ཅིན་ ག་དེ་འབད་ནི?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+མགྲོན་པོ་ཚུ་མ་འོང་པའི་ཧེ་མ་ལས་ སྒྲ་སྐད་ལས་ཐག་རིངམ་སྦེ་ དགའ་མི་ཉལ་ཆས་ ཏོ་གོས་ ཡང་ན་ འཇམ་ཏོག་ཏོའི་ལས་རིམ་བཟུམ་མའི་ ངོས་ལེན་ཡོད་པའི་ཅ་ལ་དང་བཅས་པའི་ ཁང་མིག་ཞི་འཇམ་ཅིག་གྲ་སྒྲིག་འབད། སྔ་པོ་དང་ཡང་བསྐྱར་ དེ་ཁར་འགྱོ་ནི་གི་གྲོས་འཆར་བཀོད་: «ཅིག་ཞི་འཇམ་ས་ཁོངས་ནང་སྡོད་གེ?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+ཅོག་ཙེ་ལས་ཐོན་ནི་ སྔ་པོ་ཉལ་ནི་ ཡང་ན་ ཉིནམ་གྱི་ཆ་ཤས་ལ་ལོ་ཅིག་མ་འབད་བར་བཞག་མི་འདི་ མ་འཐུས་པ་མེན་པར་ གྲུབ་འབྲས་ལེགས་ཤོམ་ཅིག་ཨིན། གལ་སྲིད་མི་དེ་སེམས་ཁྲལ་འགྱོ་བ་ཅིན་ ཞི་འཇམ་གྱི་སྐད་གདངས་ ངོས་ལེན་ཡོད་པའི་གླུ་ ཡང་ན་ ཁང་མིག་གཞན་ནང་འགྱོ་མི་འདི་གིས་ རྒྱུ་མཚན་བཤད་མི་ལས་ཕན་ཐོགས་མངམ་སྦེ་འབྱུང་སྲིད། ཕྱི་ཉིན་གྱི་དོན་ལུ་ ང་བཅས་ཀྱི་ [ཕྱི་ཉིན་གྱི་མ་བདེ་བ་](/caregiving/late-day-restlessness/) ལམ་སྟོན་ནང་རིགས་མངམ་ཡོད།
 
-## How can family far away take part?
+## ཐག་རིངམ་ལུ་ཡོད་པའི་ཁྱིམ་ཚང་གིས་ ག་དེ་སྦེ་མཉམ་ཞུགས་འབད་ཚུགས?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+བརྙན་འཕྲིན་གྱི་ཁ་པར་གྱིས་ ནང་མི་ཚུ་ལུ་ མི་མང་མ་ཡར་སེང་འབད་བར་ མཉམ་ཞུགས་འབད་བཅུགཔ་ཨིན། Alzheimer's Association གིས་ ཁ་པར་ཚུ་ལུ་གྲོས་བསྡུར་ཅིག་བཟོ་ནི་ལུ་བསམ་འཆར་བཀོད་ཡོད་ དཔེར་ན་ དུས་ཆེན་གྱི་གླུ་ལེན་ནི་ ཧེ་མའི་ཚོགས་འཛོམས་ཀྱི་པར་བརྗེ་སོར་འབད་ནི་ མཉམ་དུ་ཁ་ལག་ཅིག་པ་བཟོ་ནི་ ཡང་ན་ དུས་ཚོད་གཅིག་པར་ དུས་ཆེན་གྱི་གློག་བརྙན་བལྟ་ནི་ཚུ་ཨིན། ཁ་པར་ཐུང་ཀུ་སྦེ་བཞག་ཞིནམ་ལས་ མི་ཚུ་ལུ་ གཅིག་གི་ཤུལ་ལས་གཅིག་སླབ་དགོ་ཟེར་ཞུ་ ག་ཅི་འབད་ཟེར་བ་ཅིན་ མཉམ་དུ་སླབ་མི་འདི་གོ་ནི་ལུ་དཀའ། ང་བཅས་ཀྱི་ [ཁ་པར་དང་བརྙན་འཕྲིན་གྱི་ལམ་སྟོན་](/activities/phone-and-video-calls/) ནང་གོ་རིམ་བཞིན་གྱི་རིགས་ཡོད།
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+གལ་སྲིད་མི་དེ་ དྲན་ཤེས་བདག་སྐྱོང་ཁྱིམ་ནང་སྡོད་པ་ཅིན་ འཚམས་འདྲིའི་སྒྲིག་གཞི་ཞིབ་དཔྱད་འབད་ཞིནམ་ལས་ ལས་བྱེད་པ་ཚུ་ལུ་ ཁ་པར་གྲ་སྒྲིག་འབད་ནི་ལུ་གྲོགས་རམ་ཞུ། ང་བཅས་ཀྱི་ [དྲན་ཤེས་བདག་སྐྱོང་ཁྱིམ་ནང་འཚམས་འདྲི་འབད་ཐངས་](/activities/visiting/) ནང་ ག་ཅི་འཁྱེར་ནི་དང་ ག་དེ་སྦེ་ལོག་ནི་ཨིན་ན་གི་སྐོར་ཡོད།
 
-## What gifts suit someone with dementia?
+## དྲན་པའི་དཀའ་ངལ་ཡོད་པའི་མི་ལུ་ ག་དེ་སྦེའི་རྔན་པ་འོས་ཤོམ་ཨིན?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+ད་ལྟོ་ཁོང་གིས་མཉམ་སྦྲགས་སྤྲོ་བ་འཐོབ་ཚུགས་པའི་ འཇམ་ཏོག་ཏོ་དང་ཉེན་ཁ་མེད་པའི་རྔན་པ་ཚུ་ལེགས་ཤོམ་སྦེ་འབད་ལཱ་འབད་ཨིན་: དགའ་མི་ཟ་ནི་ འཇམ་པོའི་ཉལ་ཆས་ཡང་ན་ཕྱི་ཏོ་ ངོས་ལེན་ཡོད་པའི་གླུ་ ཡིག་གཟུགས་ཆེ་བའི་ལོ་ཐོ་ ཡང་ན་ ཁྱིམ་ཚང་གི་པར་དེབ། Alzheimer's Association གིས་ ཉེན་ཁ་ཡོད་པའི་ལག་ཆས་ གོ་རིམ་ཆེ་བའི་གློག་འཕྲུལ་ དང་ དཀའ་སྡུག་ཅན་གྱི་རྩེད་རིགས་ཚུ་ལས་ཟུར་བཞག་ནི་ལུ་བསམ་འཆར་བཀོད་ཡོད།
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+བྱིན་མི་འདི་ ལེན་མི་ལས་གལ་ཆེ་སྲིད། མི་དེ་གིས་གྲོགས་རམ་འབད་བཟོ་ཡོད་པའི་བེས་ཀེཊི་སྒྲིག་ནི་ ཡང་ན་ ཁྱོད་ཀྱིས་ཉོ་ཡོད་པའི་རྔན་པ་བཏུམ་བཅུག་མི་འདི་གིས་ ཁོང་ལུ་དུས་ཆེན་ནང་མཉམ་ཞུགས་འབད་བཅུགཔ་ཨིན། ཁྱིམ་ཚང་གི་པར་རྩེདམོ་འདི་ཡང་རིགས་གཞན་ཅིག་ཨིན་: [Photo pairs](/games/photo-pairs/) གིས་ གདམ་ཁ་རྐྱབ་ཡོད་པའི་པར་ཉུང་ཀུ་ཅིག་ བརྡ་འཕྲིན་ལྟ་བའི་ནང་ འཇམ་ཏོག་ཏོའི་མཐུན་པའི་རྩེདམོ་ལུ་བསྒྱུར་ཚུགས།
 
-## Look after yourself too
+## ཁྱོད་རའི་དོན་ལུ་ཡང་བདག་འཛིན་འབད
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+དུས་ཆེན་ཚུ་གིས་ བདག་སྐྱོང་གི་ལཱ་ཁར་ལཱ་མངམ་བཙུགསཔ་ཨིན། གཞན་ལུ་མགྲོན་བདག་འབད་བཅུག་པའམ་ ཁ་ལག་བཟོ་བཅུག་ དཀའ་ལས་ཁག་པོ་འོང་ནི་ལས་རིམ་ཚུ་ལུ་ མེན་ཟེར་སླབ་ དེ་ལས་ གཞན་གྱིས་མི་དེ་དང་མཉམ་དུ་དུས་ཡུན་སྤྱོད་པའི་སྐབས་ ཁྱོད་ར་ངལ་གསོ་འབད། གལ་སྲིད་ཁྱོད་ཡང་ན་ ཁྱོད་ཀྱིས་བདག་སྐྱོང་འཐབ་མི་དེ་ གནད་དོན་མེད་པ་ཅིན་ ལམ་ཟུར་ལས་ལགཔ་བཤེར་ནི་ ཡང་ན་ བརྙན་འཕྲིན་ཁ་པར་འདི་ཡང་ འཚམས་འདྲི་ལེགས་ཤོམ་ཅིག་ཨིན། ང་བཅས་ཀྱི་ [བདག་སྐྱོང་པ་རང་གི་བདག་འཛིན་](/caregiving/caregiver-self-care/) ལམ་སྟོན་ནང་གྲོགས་རམ་མངམ་ཡོད།

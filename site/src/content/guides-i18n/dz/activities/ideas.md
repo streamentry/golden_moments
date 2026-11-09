@@ -1,34 +1,36 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "སེམས་བརྗེད་ནད་དང་ལྷན་དུ་འཚོ་བའི་མི་གི་ལས་འགུལ། ལས་འགུལ་ལས་སླ་པོ་ ༡༠༡"
+seoTitle: "སེམས་བརྗེད་ནད་ཀྱི་ལས་འགུལ་གྱི་བསམ་འཆར། ༡༠༡"
+description: "སེམས་བརྗེད་ནད་དང་ལྷན་དུ་འཚོ་བའི་མི་ཚོ་དང་མཉམ་དུ་འབད་ནི་ལས་སླ་པོའི་ལས་འགུལ་ ༡༠༡། གོམ་པ་ལེབ་ནི་ལས་གླུ་གཞས་དང་པར་བལྟ་ནི་ཚུན་ཚོད་ཡོད། དཀའ་བ་འཕར་བའི་སྐབས་ག་དེ་སྦེ་བསྒྱུར་བཅོས་འབད་ནི་ཨིན་ན་ཡང་འོད་རྟགས་བཀོད་ཡོད།"
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  སེམས་བརྗེད་ནད་དང་ལྷན་དུ་འཚོ་བའི་མི་ཚོ་ལུ་འོས་འབབ་ཡོད་པའི་ལས་འགུལ་ཚུ་ གོམས་འདྲིས་ཡོད་པའི་
+  དེ་ལས་ རྒས་ཆེ་བའི་མི་ལུ་འོས་པའི་ དེ་ལས་མཉམ་དུ་འབད་བཏུབ་པའི་ཨིན། གཡག་ཆ་ལེབ་ནི་
+  དངོས་པོ་དབྱེ་སེལ་འབད་ནི་ ཟ་མ་བཟོ་ནི་ གླུ་གཞས་ཉན་ནི་ པར་བལྟ་ནི་ འགྲུལ་འཁོར་འགྲུལ་ནི་
+  ཤིང་འབྲས་ལྡུམ་ར་ནང་ལས་ཀ་འབད་ནི་ སེམས་ཅན་དང་མཉམ་དུ་སྡོད་ནི་ དེ་ལས་རྩེདམོ་ལས་སླ་པོ་ཚུ་
+  ཚུདཔ་ཨིན། ཁོང་གིས་སྔོན་མ་ལས་དགའ་མི་ཚུ་གདམ་ཁ་རྐྱབ་ དཀའ་བའི་ཆ་ཤས་ཚུ་ཁྱོད་ཀྱིས་ལེགས་ཤོམ་འབད་
+  དེ་ལས་ངལ་དུང་ཚོར་བའི་སྐབས་བཀག་བཞག། མཇུག་མ་བསྡུ་མ་ཚུགས་པར་ མཉམ་དུ་སྐབས་དོན་སྤྲོ་བོ་ཅིག་
+  སྤྱོད་མི་འདི་གལ་ཆེ་བ་ཨིན།
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "ཁོང་གི་མི་ཚེའི་ལོ་རྒྱུས་ལས་འགོ་བཙུགས། ལས་ཀ་ དགའ་ཤོས་ ཆོས་ལུགས་ དེ་ལས་དགའ་མི་གླུ་གཞས་ཚུ་གིས་ལམ་སྟོན་ལེགས་ཤོམ་འབདཝ་ཨིན།"
+  - "དགོས་མཁོ་དང་བསྟུན་ ལས་འགུལ་ག་ར་ཆུང་ཀུ་བཟོ། གོམ་པ་ཉུང་ཀུ་བཟོ་ གདམ་ཁ་ཉུང་ཀུ་བཟོ་ དཀའ་བའི་ཆ་ཤས་ཁྱོད་ཀྱིས་འབད།"
+  - "བལྟ་ནི་ དངོས་པོ་ཅིག་འཆང་ནི་ ཡང་ན་ཉེ་འགྲམ་ལུ་སྡོད་ནི་ཚུ་ཡང་བཅའ་མར་གཏོགསཔ་ཨིན།"
+  - "ངལ་དུང་ སེམས་ཁྲལ་ ཡང་ན་སྐྱིད་པོ་མེདཔ་ཚུར་བའི་སྐབས་བཀག་ཡང་ན་བསྒྱུར་བཅོས་འབད། སྔོན་ལས་མཇུག་བསྡུ་མི་འདི་ལེགས་ཤོམ་གྱི་གྲུབ་འབྲས་ཅིག་ཨིན།"
+  - "འགྲིག་ཤོམ་སྦེ་འབད་ནི་ལས་ མཉམ་དུ་འབད་ནི་འདི་གལ་ཆེ་བ་ཨིན།"
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "སེམས་བརྗེད་ནད་དང་ལྷན་དུ་འཚོ་བའི་མི་ཅིག་ལུ་ལས་འགུལ་ག་ཅི་ཚུ་འོས་འབབ་ཡོདཔ་ཨིན་ན།"
+    a: "ཁོང་གིས་ལོ་མང་རིང་ལུ་འབད་སྡོད་མི་ གོམས་འདྲིས་ཡོད་པའི་ལས་འགུལ་ཚུ་ ཏོག་ཙམ་ལས་སླ་པོ་བཟོ་སྟེ་འབད་ནི། དཔེར་ན་ གཡག་ཆ་ལེབ་ནི་ ཐིག་ཁྲམ་སྒྲིག་ནི་ ཟ་མ་བཟོ་ནི་ གླུ་གཞས་ཉན་ནི་ པར་བལྟ་ནི་ འགྲུལ་འཁོར་འགྲུལ་ནི་ དེ་ལས་སེམས་ཅན་དང་མཉམ་དུ་སྡོད་ནི་ཚུ་ཨིན། རྒས་ཆེ་བའི་མི་ལུ་འོས་པའི་ དེ་ལས་ཕན་ཐོགས་ཡོདཔ་བཟུམ་ཚོར་མི་ལས་འགུལ་ཚུ་གདམ་ཁ་རྐྱབ་སྟེ་ མཉམ་དུ་འབད།"
+  - q: "ལས་འགུལ་ཅིག་དུས་ཡུན་ག་དེ་ཅིག་རིང་ལུ་འབད་དགོཔ་ཨིན་ན།"
+    a: "འགྲིག་ཤོམ་གྱི་དུས་ཡུན་གཅིག་ཡང་མེད། ཉིནམ་ཅིག་ལུ་གཡག་ཆ་ལེབ་ནི་སྐར་མ་འགའ་རང་ལངམ་སྦེ་འོང་ ཉིནམ་གཞན་ཅིག་ལུ་ཤིང་འབྲས་ལྡུམ་ར་ནང་ཆུ་ཚོད་གཅིག་རིང་ལུ་སྤྲོ་བོ་ཚོར་འོང་། ཁོང་གི་མགྱོགས་ཚད་དང་བསྟུན་སྟེ་ ད་ལྟོ་ཡང་སྤྲོ་བོ་ཚོར་དོ་བཟུམ་སྦེ་ཡོད་པའི་སྐབས་མཇུག་བསྡུ།"
+  - q: "ཁོང་གིས་ལས་འགུལ་ཅིག་འབད་ནི་ལུ་ངོས་ལེན་མ་འབད་བ་ཅིན་ག་དེ་སྦེ་འབད་དགོཔ་ཨིན་ན།"
+    a: "བརྩོན་ཤུགས་མ་སྤྲོད། མེན་ཟེར་མི་འདི་གིས་ ལས་ཀ་འདི་དཀའ་དྲགསཔ་བཟུམ་ཚོར་བ་ ཡང་ན་དུས་ཚོད་མ་འགྲིགས་པ་ ཡང་ན་ངལ་དུང་ ཡང་ན་སྐྱིད་པོ་མེདཔ་ཚོར་བའི་བརྡ་འོང་། ཤུལ་ལས་འབད་བལྟ་ ལས་སླ་པོ་ཅིག་ཕུལ་ ཡང་ན་ཁྱོད་རང་ཉེ་འགྲམ་ལུ་འགོ་བཙུགས་ཏེ་གྲོགས་རམ་འབད་ནི་ལུ་ཞུ་བ་འབད།"
+  - q: "སེམས་བརྗེད་ནད་དང་ལྷན་དུ་འཚོ་བའི་མི་ཚོ་ལུ་རྩེདམོ་ཚུ་ཕན་ཐོགས་ཡོདཔ་ཨིན་ན།"
+    a: "རྩེདམོ་ཚུ་གིས་མཉམ་དུ་སྐབས་དོན་སྤྲོ་བོ་ཅིག་སྤྱོད་བཏུབ། དེ་འབདཝ་ད་ རྩེདམོ་ག་ཅི་གིས་ཡང་ སེམས་བརྗེད་ནད་སེལ་ནི་ ལྷོད་ཚད་བཟོ་ནི་ ཡང་ན་བཀག་ནི་ཚུ་འབད་ཚུགསཔ་སྦེ་སྟོན་མི་འབད། དུས་ཚོད་བཀག་ས་ གྲངས་ཐོ་བཀོད་ས་ ཡང་ན་ནོར་བའི་སྐད་སྒྲ་མེད་པའི་རྩེདམོ་ཚུ་གདམ་ཁ་རྐྱབ་སྟེ་ འདི་བརྟག་ཞིབ་མེན་པར་ མཉམ་དུ་འབད་མི་ལས་འགུལ་ཅིག་སྦེ་ལོག།"
+  - q: "ལས་འགུལ་ཚུ་ཨ་ལུ་ཚུ་གི་ལས་འགུལ་བཟུམ་མ་ཚོར་བའི་དོན་ལུ་ག་དེ་སྦེ་འབད་དགོཔ་ཨིན་ན།"
+    a: "ངོ་མ་དང་རྒས་ཆེ་བའི་མི་ལུ་འོས་པའི་དངོས་པོ་ཚུ་ལག་ལེན་འཐབ། དཔེར་ན་ ངོ་མའི་གཡག་ཆ་ ངོ་མའི་ཟ་ཐུབ་ རྒས་ཆེ་བའི་མི་གི་གླུ་གཞས་ རི་མོའི་ཅ་ཆས་ དེ་ལས་རྒས་ཆེ་བའི་མི་ལུ་འོས་པའི་བརྗོད་གཞི་ཡོད་པའི་པར་ཚུ་ཨིན། ཁྱོད་ལུ་ངོ་མ་དགོས་པའི་གྲོགས་རམ་སྦེ་ཞུ་བ་འབད་ཞིནམ་ལས་ ཁོང་ལུ་རྒས་ཆེ་བའི་མི་ཅིག་སྦེ་གུས་ཞབས་དང་བཅས་པའི་སྐད་ཆ་འབད།"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +52,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+སེམས་བརྗེད་ནད་དང་ལྷན་དུ་འཚོ་བའི་མི་ཅིག་ལུ་ ལེགས་ཤོམ་གྱི་ལས་འགུལ་ཅིག་ཟེར་མི་འདི་ ཁོང་གིས་སྔོན་མ་ལས་ཤེས་ཏེ་འབད་བཏུབ་པའི་ལས་ཀ་ཅིག་ ཏོག་ཙམ་ལས་སླ་པོ་བཟོ་སྟེ་ ཡིད་ཆེས་བརྟན་པོ་ཡོད་པའི་མི་ཅིག་དང་མཉམ་དུ་འབད་མི་འདི་ཨིན། འོག་ལུ་ ལས་འགུལ་གྱི་བསམ་འཆར་ ༡༠༡ དབྱེ་ཁག་བཟོ་སྟེ་བཀོད་ཡོདཔ་ད་ རེ་རེ་བཞིན་ལུ་ ག་དེ་སྦེ་གྲ་སྒྲིག་འབད་ནི་ དེ་ལས་དཀའ་བ་འཕར་བའི་སྐབས་ག་དེ་སྦེ་ལས་སླ་པོ་བཟོ་ནི་ཨིན་ན་བཀོད་ཡོད། དམིགས་བསལ་གྱི་ཅ་ཆས་དགོ་པའི་དགོས་མཁོ་མེད་ དེ་ལས་ག་ཅི་ཡང་མཇུག་མ་བསྡུ་དགོ་པའི་དགོས་མཁོ་ཡང་མེད། ཕྱི་དྲོ་སྤྲོ་བོ་ཅིག་ གཡག་ཆའི་སྒམ་ཅིག་དང་ཇ་ཕོར་ཅིག་མཉམ་དུ་ལེན་མི་འདི་རང་ལངམ་སྦེ་ཨིན།
 
-## How do you choose the right activity?
+## ལས་འགུལ་འོས་འབབ་ཅིག་ག་དེ་སྦེ་གདམ་ཁ་རྐྱབ་ནི་ཨིན་ན།
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+ཐོ་ཡིག་མེན་པར་ ཁོང་གི་གནས་སྟངས་དང་བསྟུན་སྟེ་གདམ་ཁ་རྐྱབ། ཁོང་གིས་སྔོན་མ་ལས་དགའ་མི་ དེ་ལས་དེ་རིང་སྐྱིད་པོ་སྦེ་འབད་ཚུགས་པའི་ལས་ཀ་ལས་འགོ་བཙུགས།
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **ཁོང་གི་ལས་ཀ་དང་དགའ་ཤོས་དྲན།** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) གིས་བཀོད་དོ་བཟུམ་ སྔོན་མ་ཡིག་ཚང་ནང་ལས་ཀ་འབད་མི་ཅིག་གིས་ དངུལ་ལོག་དབྱེ་སེལ་འབད་ནི་ ཡང་ན་ཡིག་འཕྲིན་སྒྲིག་ནི་ལུ་དགའ་འོང་། ཤིང་འབྲས་ལྡུམ་ར་ལུ་དགའ་མི་ཅིག་གིས་ ལྡུམ་རའི་ལས་ཀ་ལུ་དགའ་འོང་།
+- **ཁོང་གིས་རང་བཞིན་གྱིས་འབད་དོ་ཡོད་མི་ལུ་བལྟ།** ཁྱོད་ཀྱི་ཨ་པ་ལགས་ཀྱིས་ཞོགས་པ་རེ་རེ་བཞིན་ ཐེམ་ནང་ཕྱགས་དོ་བཟུམ་ཅིན་ དེ་ཉིནམ་གྱི་ལས་རིམ་ནང་བཙུགས།
+- **ཚད་བཀག་ཚུ་དྲན་ཏེ་གྲ་སྒྲིག་འབད།** ངལ་དུང་ མིག་གི་མཐོང་ཤུགས་ ཉན་ཤུགས་ ལག་པའི་ན་ཚ་ དེ་ལས་ལང་སྡོད་ཀྱི་གནས་སྟངས་ཚུ་གལ་ཆེ་བ་ཨིན།
+- **ཁོང་གི་སེམས་ཁམས་ལུ་བལྟ།** མི་ལ་ལོ་ཅིག་ལུ་ འགྲུལ་སྐྱོད་དང་སྐད་སྒྲ་མང་བའི་ལས་འགུལ་འོས་འབབ་ཡོདཔ་ཨིན་རུང་ གཞན་ལུ་འཇིགས་ཚུགསཔ་འོང་།
+- **དམིགས་ཡུལ་ཅིག་བྱིན།** ལྷ་ཁང་ནང་བེད་སྤྱོད་འབད་ནིའི་ལག་ཕད་ལེབ་མི་འདི་ ལཱ་ཙམ་ཅིག་སྦེ་འབད་མི་ལས་ ཕན་ཐོགས་ཡོདཔ་བཟུམ་ཚོར་འོང་།
 
-### A rough guide by stage
+### གནས་ཚད་དང་འབྲེལ་བའི་ལམ་སྟོན་སྤྱིར་བཏང་
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+སེམས་བརྗེད་ནད་འདི་ སྔོན་འགོ་ བར་མ་ དེ་ལས་མཇུག་གི་གནས་ཚད་སྦེ་སྤྱིར་བཏང་འགྲེལ་བཤད་རྐྱབ་ཨིན། འདི་ཚུ་སྒྲིག་ཚུགས་སྟེ་བཞག་མི་མེན་ མི་མང་ཤོས་ལུ་ཉིནམ་ལེགས་ཤོམ་དང་དཀའ་བའི་ཉིནམ་ཡོདཔ་ལས་ དེ་རིང་མཐོང་མི་དང་བསྟུན། [Alzheimer's Foundation of America གི་གནས་ཚད་དང་འབྲེལ་བའི་ཐོ་ཡིག](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ནང་ཡང་འདྲ་མཉམ་གྱི་རྣམ་པ་ཅིག་ཡོད།
 
-| Topic | Early stage | Middle stage | Late stage |
+| བརྗོད་གཞི | སྔོན་འགོའི་གནས་ཚད | བར་མའི་གནས་ཚད | མཇུག་གི་གནས་ཚད |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| ཁྱོད་ཀྱིས་མཐོང་སྲིད་པའི་གནས་སྟངས | རང་དབང་སྦེ་འཚོ་བཏུབ་རུང་ གྲ་སྒྲིག་ མིང་གསརཔ་དང་མི་མང་ས་ཁོངས་ཚུ་དཀའ་བ་འཕར་འོང་ | འགོ་བཙུགས་ནི་དང་གོམ་པ་ཚུ་ལུ་གྲོགས་རམ་དགོཔ་འོང་ ཚིག་གིས་བཤད་ནི་དཀའ་བ་འཕར་འོང་ | ཉིནམ་གྱི་བྱ་བ་མང་ཤོས་ལུ་གྲོགས་རམ་དགོཔ་འོང་ ཚོར་ཤུགས་ཀྱིས་གལ་ཆེ་ཤོས་ཨིན |
+| འོས་འབབ་ཡོད་སྲིད་པའི་ལས་འགུལ | ཤོག་བྱང་རྩེདམོ་ བང་རིམ་རྩེདམོ་ ཟ་མ་བཟོ་ནི་ ཤིང་འབྲས་ལྡུམ་ར་ ཉིན་དེབ་བྲིས་ནི་ ཕྱིར་འགྲུལ་ ཚོགས་པ | གཡག་ཆ་ལེབ་ནི་ དངོས་པོ་དབྱེ་སེལ་འབད་ནི་ ཟ་མ་བཟོ་ནིའི་གོམ་པ་ལས་སླ་པོ་ གླུ་ལེན་ནི་ པར་དེབ་བལྟ་ནི་ ལམ་སྟོན་དང་བཅས་པའི་འགྲུལ་འཁོར | དགའ་མི་གླུ་གཞས་ ལག་པ་ལུ་ལཱས་སླ་པོ་འབད་ནི་ མཉེན་པོ་ཡོད་པའི་དངོས་པོ་འཆང་ནི་ ལྷག་ནི་ཉན་ནི་ ཕྱི་ཁར་སྡོད་ནི |
+| ཁྱོད་ཀྱི་འགན་ཁུར | མཉམ་ལས་པ། ག་ཅི་གི་གྲོགས་རམ་དགོཔ་ཨིན་ན་དྲི་བ་འབད | གྲ་སྒྲིག་འབད་ སྟོན་ དཀའ་བའི་ཆ་ཤས་ལེན | ལས་འགུལ་འདི་ཁོང་གི་ཉེ་འགྲམ་ལུ་འཁྱེར་ཡོདཔ་འབད། ཁྱོད་ཀྱི་མཉམ་སྡོད་འདི་རང་ལས་འགུལ་ཅིག་ཨིན |
+| བསམ་འཆར་ཁ་གསལ | [སྔོན་འགོའི་གནས་ཚད](/activities/early-stage/) | [བར་མའི་གནས་ཚད](/activities/middle-stage/) | [མཇུག་གི་གནས་ཚད](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## སེམས་བརྗེད་ནད་ཡོད་པའི་མི་དང་མཉམ་དུ་ལས་འགུལ་ཅིག་ག་དེ་སྦེ་འགོ་བཙུགས་ནི་ཨིན་ན།
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+ཆུང་ཀུ་སྦེ་འགོ་བཙུགས་ ཁོང་དང་མཉམ་དུ་འགོ་བཙུགས་ དེ་ལས་ཁས་ལེན་འབད་ནི་ལས་སླ་པོ་བཟོ། མི་མང་ཤོས་ཀྱིས་བཅའ་མར་གཏོགས་ནི་འདོད་རུང་ གྲ་སྒྲིག་འབད་ནི་ ཡང་ན་འགོ་བཙུགས་ནི་དཀའ་བ་འཕར་འོང་།
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **ཁོང་ལུ་ལེགས་ཤོམ་གྱི་དུས་ཚོད་གདམ་ཁ་རྐྱབ།** མང་ཤོས་རང་ཞོགས་པ་ལུ་ལེགས་ཤོམ་འོང་།
+2. **ག་ཅི་ཡང་སྔོན་ལས་གྲ་སྒྲིག་འབད་བཞག།** དེ་འབད་བ་ཅིན་ དེ་ལས་རང་འགོ་བཙུགས་ཚུགས།
+3. **སྟོན་ནི་མེན་པར་ གྲོགས་རམ་ཞུ།** «འདི་ཚུ་ལུ་གྲོགས་རམ་ཏོག་ཙམ་འབད་གནང་།»
+4. **ཁྱོད་རང་འགོ་བཙུགས།** གཡག་ཆ་དང་པོ་ལེབ་སྟེ་ ཁོང་མཉམ་དུ་འབད་ནི་ལུ་གོ་སྐབས་བྱིན། འགྲེལ་བཤད་རྐྱབ་ནི་ལས་ སྟོན་ནི་འདི་ལེགས་ཤོམ་ཨིན།
+5. **གོམ་པ་རེ་རེ་བཞིན་ཕུལ།**
+6. **དཀའ་ཤོས་ཀྱི་ཆ་ཤས་ལེན།** Alzheimer's Association གིས་བཀོད་དོ་བཟུམ་ ཁྱོད་ཀྱིས་ཚད་འཇལ་སྟེ་ སྡེར་མོ་འདྲུད་ནིའི་ལས་ཀ་ཁོང་ལུ་ཕུལ།
+7. **ཁོང་གི་ལམ་ལུགས་དང་བསྟུན་སྟེ་འབད་བཅུག།** གཡག་ཆ་ལེབ་ཐངས་མ་འདྲ་བ་རུང་ལེགས་ཤོམ་ཨིན།
+8. **སྤྲོ་བོ་མེདཔ་འགྱོ་བའི་སྐབས་བཀག།** མི་བདེ་བ་སྦེ་འགུལ་བསྐྱོད་འབད་ནི་ གདོང་བསྡུས་ནི་ ཡང་ན་ «ང་ལས་མི་འབད་» ཟེར་མི་ཚུ་ བསྒྱུར་བཅོས་ཡང་ན་ངལ་གསོ་འབད་དགོ་པའི་བརྡ་ཨིན།
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+ཁ་གསལ་ [མཉམ་དུ་ག་དེ་སྦེ་རྩེད་ནི](/caregiving/how-to-play-together/) དང་ [སྐད་ཆ་བཤད་ཐངས་ཀྱི་ལམ་སྟོན](/caregiving/communication-tips/) ཚུ་ཡང་བལྟ།
 
-## Everyday tasks at home
+## ཁྱིམ་ནང་གི་ཉིནམ་གྱི་ལས་ཀ
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+ཁྱིམ་གྱི་ལས་ཀ་ཚུ་ གོམས་འདྲིས་ཡོདཔ་ད་ ཕན་ཐོགས་ཡོདཔ་ལས་ འགོ་བཙུགས་སའི་ས་གནས་ལེགས་ཤོམ་ཅིག་ཨིན། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) གིས་ ཐུག་ཁྲུས་ནི་ ཐིག་ཁྲམ་སྒྲིག་ནི་ ཕྱགས་ནི་ ཡིག་འཕྲིན་དབྱེ་སེལ་འབད་ནི་ དེ་ལས་གཡག་ཆ་ལེབ་ནི་ཚུ་ མི་ཚོ་ལུ་སྤྲོ་བོ་འོང་སྲིད་པའི་ལས་འགུལ་སྦེ་བཀོད་ཡོད། ཁ་གསལ་ [ཁྱིམ་གྱི་ལས་ཀ](/activities/household-tasks/) ནང་བལྟ།
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **ཚ་དྲོན་གཡག་ཆ་ལེབ།** གཡག་ཆ་བསྐམ་ས་ལས་སྒམ་ཅིག་ཕྱིར་འཐོན་སྟེ་ ཐིག་ཁྲམ་གུ་མཉམ་དུ་ལེབ། ཤུལ་ལས་ ལེབ་པར་མཉེན་པོ་འབད་སྟེ་བརྩེགས་ནི་རང་ཕན་ཐོགས་ཡོད།
+2. **ཨོམ་ཤུབས་ཟུང་སྒྲིག།** ཚོས་གཞི་ཁྱད་པར་ཆེ་བའི་ཨོམ་ཤུབས་ལས་འགོ་བཙུགས། ཤུལ་ལས་ སྐྱ་དཀར་དང་ནག་པོ་དབྱེ་སེལ་འབད་ནི་རང་ལངམ་སྦེ་ཨིན།
+3. **ཐིག་ཁྲམ་སྒྲིག།** དངོས་པོ་རིགས་རེ་རེ་བཞིན་ཕུལ། ས་གནས་གཅིག་ཁྱོད་ཀྱིས་སྔོན་ལས་སྒྲིག་སྟེ་དཔེ་སྟོན།
+4. **ཐུག་ཁྲུས་ནི་ཡང་ན་བསྐམ་ནི།** ཚ་དྲོན་ཆུ་དང་མ་ཆག་པའི་ཐུག་ཚུ་ལག་ལེན་འཐབ། སྡོད་སྟེ་བསྐམ་ནི་འདི་རྐང་པ་ལུ་ལས་སླ་བ་ཨིན།
+5. **ཐིག་ཁྲམ་ཕྱིས།** ཟ་མ་ཞུ་བའི་ཤུལ་ལས་ ཆུ་བཏོགས་པའི་ཕད་ཆེར་ཅིག་ཕུལ། འདི་ལག་པ་བཀོལ་སྤྱོད་འབད་ནིའི་ངོ་མའི་ལས་ཀ་ཅིག་ཨིན།
+6. **ཡིག་འཕྲིན་དབྱེ་སེལ་འབད།** དེབ་ཆུང་དང་མི་དགོ་པའི་ཡིག་འཕྲིན་ཚུ་ «བཞག» དང་ «བསྐྱར་ལོག» སྦེ་དབྱེ་སེལ་འབད། ངོ་མའི་དངུལ་གྱི་ཡིག་ཆ་ཕྱིར་བཞག།
+7. **གོང་ཚད་ཤོག་བྱང་གཏུབ།** རྩེ་མདུང་ཟུར་སྒོམ་ཡོད་པའི་གྲི་ཆུང་དང་ཉོ་ཆའི་ཤོག་ལེབ་ལག་ལེན་འཐབ། ཤུལ་ལས་ དགའ་མི་ཟས་རིགས་ལུ་རྟགས་བཀོད་ནི་རང་ལེགས་ཤོམ་ཨིན།
+8. **དངུལ་ལོག་དབྱེ་སེལ་འབད།** དངུལ་ལོག་ཚུ་ཕོར་པའི་ནང་དབྱེ་སེལ་འབད་ ཡང་ན་ཤོག་བཟོའི་ནང་བཙུགས། ཁོང་གིས་དངོས་པོ་ཆུང་ཀུ་ཁ་ནང་བཙུགས་ནིའི་ཉེན་ཁ་ཡོད་པ་ཅིན་ ཆུང་ཀུ་ཚུ་མ་ལག་ལེན་འཐབ།
+9. **ཕྱགས་ནི་ཡང་ན་ཐལ་མདོག་ཕྱིས།** ཐེམ་ནང་ཡང་བའི་ཕྱགས་མ་ ཡང་ན་རྒྱབ་ཁར་སྡོད་སྟེ་རིང་ཐུང་ཡོད་པའི་ཐལ་མདོག་ཕྱིས་མ་ལག་ལེན་འཐབ།
+10. **ཟ་མ་བཟོ་ནི་ལུ་གྲོགས་རམ་འབད།** ཚོད་མ་ཁྲུས་ནི་ སྒོང་ཙོག་གས་ནི་ འདྲུད་ནི་ཚུ་འབད། གྲི་དང་ཚ་དྲོད་ཁྱོད་ཀྱིས་ལེན།
+11. **ཁྱིམ་གྱི་ཟ་ཐུབ་བཟོ།** ཁོང་གི་ལག་འཁྱེར་ཡོད་པའི་ཟ་ཐུབ་ཤོག་བྱང་ཡོད་པ་ཅིན་ དེ་ལག་ལེན་འཐབ། ཤུལ་ལས་ ཁོང་ལུ་མྱོང་མི་སྦེ་སྡོད་བཅུག།
+12. **ཡིག་ཚང་གི་ལས་ཀ་འབད།** ཡིག་འཕྲིན་ལེབ་ནི་ ཁུ་གུ་ནང་བཙུགས་ཏེ་ཐུམ་སྒྲིལ་བརྐྱབ་ནི་ ཡང་ན་ཉོ་ཆའི་ཐོ་ཡིག་མཉམ་དུ་བྲིས།
 
-## Music
+## གླུ་གཞས
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+གོམས་འདྲིས་ཡོད་པའི་གླུ་གཞས་ཀྱིས་ ཚིག་གིས་བཤད་ནི་དཀའ་བའི་སྐབས་ཡང་ མི་ཚོ་ལུ་ཚོར་བ་ལེགས་ཤོམ་ཅིག་བྱིན་ཚུགས། [Alzheimer's Association གི་གླུ་གཞས་ཀྱི་ལམ་སྟོན](https://www.alz.org/help-support/caregiving/daily-care/art-music) ནང་ གོམས་འདྲིས་ཡོད་པའི་གླུ་གཞས་ ཚོང་བསྒྲགས་མེདཔ་ དེ་ལས་བརྙན་འཕྲིན་ཁ་བསྡམ་ནི་ཚུ་བསམ་འཆར་བཀོད་ཡོད། ཁ་གསལ་ [གླུ་གཞས་ཀྱི་ལས་འགུལ](/activities/music/) བལྟ།
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **ཁོང་གི་དོན་ལུ་གླུ་གཞས་ཐོ་ཡིག་བཟོ།** ཁོང་གི་ལོ་བཅུ་ཕྲག་དང་པ་དང་གཉིས་པའི་སྐབས་ཀྱི་གླུ་གཞས་ གཉེན་སྒྲིག་གི་གླུ་གཞས་ ལྷ་ཁང་གི་གླུ་གཞས་ དེ་ལས་ཁོང་གི་ལམ་ལུགས་ཀྱི་གླུ་གཞས་ཚུ་བཙུགས།
+14. **མཉམ་དུ་གླུ་ལེན།** ཁྱོད་ཀྱིས་འགོ་བཙུགས། སྐད་ཆུང་ཀུ་སྦེ་ལེན་ནི་ ཡང་ན་ཉན་ནི་རང་ལངམ་སྦེ་ཨིན།
+15. **དབྱངས་རྟ་འཇལ།** ལག་པ་བརྡབ་ནི་ བརླ་ལུ་རྡེབ་ནི་ ཡང་ན་ལག་རྔ་ཆུང་ཀུ་རྡེབ་ནི་ཚུ་འབད། སྡོད་སྟེ་ཡང་འབད་ཚུགསཔ་ལས་ མཇུག་གི་གནས་ཚད་ནང་ཡང་ལེགས་ཤོམ་ཨིན།
+16. **ཞབས་བྲོ་འཁྲབ།** ཐབ་ཚང་ནང་ལྷོད་ལྷོད་འབད་ཞབས་བྲོ་འཁྲབ་ ཡང་ན་ལག་པ་འཆང་སྟེ་སྡོད་ས་ལས་གཡོ་འགུལ་འབད།
+17. **གླུ་གཞས་ཀྱི་དེབ་ཆ་གང་བ་ཅིག་ཉན།** དགའ་མི་གླུ་གཞས་འགོ་ལས་མཇུག་ཚུན་ཚོད་ ཇ་དང་མཉམ་དུ་ གཞན་ཅ་ག་ར་མེད་པར་ཉན།
+18. **གླུ་གཞས་ཀྱི་སྐོར་ལས་སྐད་ཆ་བཤད།** དྲན་གསོ་བརྟག་ནི་མེན་པར་ ལོ་རྒྱུས་བཤད་ནི་ལུ་ཞུ་བ་འབད། «ཁྱོད་ཀྱིས་འགྲོ་མི་ཞབས་བྲོའི་སྐོར་ལས་ང་ལུ་བཤད་གནང་།»
+19. **གླུ་རྒྱལ་ཡང་ན་གླུ་གཞས་ཀྱི་བརྙན་ཐུང་བལྟ།** ཁོང་གིས་དགའ་མི་ལས་རིམ་ཅིག་ དགོང་མོ་སྤྲོ་བོ་བཟོ་ཚུགས། ག་དུས་ར་བཀག་རུང་ཆོག
+20. **གོམས་འདྲིས་ཡོད་པའི་རོལ་ཆས་རྩེ།** སྔོན་མ་པི་ཡ་ནོ་རྩེ་མི་ཅིག་གིས་ ལས་སླ་པོའི་གླུ་དབྱངས་ལུ་དགའ་འོང་། ཤུལ་ལས་ མཉམ་དུ་སྒྲ་ཉུང་ཀུ་རེ་བཏོན།
+21. **ཐད་ཀར་གླུ་གཞས་ཉན།** སྡེ་ཁུལ་གྱི་གླུ་གཞས་ལས་རིམ་ཐུང་ཀུ་ ཡང་ན་གླུ་ཚོགས་ཀྱི་ལས་རིམ་ལུ་འགྲོ། ཐོན་སའི་ཉེ་འགྲམ་ལུ་སྡོད།
 
-## Reminiscence: photos, objects and stories
+## དྲན་གསོ། པར་ དངོས་པོ་ དེ་ལས་ལོ་རྒྱུས
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+འདས་པའི་སྐོར་ལས་ བརྟག་ཞིབ་མེད་པར་ མཉམ་དུ་སྤྲོ་བོ་སྦེ་སྐད་ཆ་བཤད། «དྲན་གསོ་ཡོད་ག་» དང་ «འདི་ག་ཨིན་ན་» ཟེར་མི་ཚུ་མ་དྲི་པར་ ཁ་ཕྱེ་སྟེ་ཞུ་བ་འབད། ཁ་གསལ་ [དྲན་གསོའི་ལས་འགུལ](/activities/reminiscence/) བལྟ།
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **པར་དེབ་བལྟ།** ཁྱོད་ཀྱིས་མཐོང་མི་འགྲེལ་བཤད་རྐྱབ། «གྱོན་ཆས་འདི་ཡག་པོ་འདུག། ཉིནམ་འདི་གི་སྐོར་ལས་བཤད་གནང་།» ཁོང་གིས་ལག་ལེན་འཐབ་མི་མིང་ཚུ་དང་མཉམ་དུ་འགྲོ།
+23. **དྲན་གསོའི་སྒམ་ཅིག་བཟོ།** ཁོང་གི་མི་ཚེའི་དངོས་པོ་ དཔེར་ན་ ལས་ཀའི་ཁ་བྱང་ ཡང་ན་ཟ་ཐུབ་ཤོག་བྱང་ཚུ་ ལྷམ་གྱི་སྒམ་ནང་བཙུགས། དངོས་པོ་རེ་རེ་བཞིན་ཕྱིར་འཐོན།
+24. **མི་ཚེའི་ལོ་རྒྱུས་དེབ་ཅིག་བཟོ།** ཤོག་ལེབ་རེ་ལུ་པར་ཉུང་ཀུ་དང་ ཡིག་ཆེན་པོའི་འགྲེལ་བཤད་བྲིས། འདི་གིས་གྲོགས་རམ་པ་གསརཔ་ཚུ་ལུ་ཁོང་ཤེས་ནི་ལུ་ཕན་ཐོགསཔ་འོང་།
+25. **སྐད་ཆའི་ཤོག་བྱང་ལག་ལེན་འཐབ།** [སྐད་ཆའི་ཤོག་བྱང་](/games/conversation-cards/) ཚུ་གིས་པར་དང་ཁ་ཕྱེ་བའི་དྲི་བ་མཉམ་དུ་སྟོནམ་ཨིན།
+26. **ཁྱིམ་ཚང་གི་པར་གྱི་རྩེདམོ་བཟོ།** [པར་ཟུང་སྒྲིག་](/games/photo-pairs/) གིས་ ཁྱོད་རའི་པར་ཚུ་ མཐུན་པའི་རྩེདམོ་ཅིག་ལུ་བསྒྱུར་ཚུགས།
+27. **ཁྱིམ་གྱི་བརྙན་ཐུང་ ཡང་ན་རྙིང་པའི་བརྙན་འཕྲིན་བལྟ།** དྲི་བ་མ་འདྲི་བར་ མཉམ་དུ་བསམ་ཚུལ་བཤད།
+28. **ཁོང་གི་ལས་ཀ་དང་འབྲེལ་བའི་དངོས་པོ་འཛིན།** དཔེར་ན་ ལག་ཆས་ སྨན་པའི་ལག་ཆས་ ཡང་ན་རྩིས་དེབ། ལག་པ་གིས་ལོ་རྒྱུས་སྟོན་མི་མངམ་སྦེ་འོང་།
+29. **བྱིས་པའི་སྐབས་ཀྱི་ཟ་མ་བཟོ།** ཁོང་གིས་འདྲུད་ནི་ མྱོང་ནི་ ཡང་ན་ཐབ་ཚང་ནང་ཁྱོད་དང་མཉམ་དུ་སྡོད་ཚུགས།
+30. **ཁོང་གིས་སྡོད་སྡོད་མི་ས་ཁོངས་ཀྱི་ས་ཁྲ་བལྟ།** ས་ཁྲ་ཆེན་པོ་ཅིག་ནང་ ཤེས་མི་ལམ་ཚུ་ལུ་མཛུབ་མོ་བཀྱག་སྟེ་སྐད་ཆ་བཤད།
 
-## Creative activities
+## གསར་བཟོའི་ལས་འགུལ
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+རི་མོ་འདི་ མཇུག་འབྲས་མེན་པར་ འབད་བའི་བྱ་རིམ་ལུ་ཨིན། ཅ་ཆས་ཚུ་ རྒས་ཆེ་བའི་མི་ལུ་འོས་པའི་དང་ཉེན་ཁ་མེད་པའི་བཟོ། ཁ་གསལ་ [རི་མོ་དང་ལག་ཤེས་ལས་འགུལ](/activities/arts-and-crafts/) བལྟ།
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **ཆུ་ཚོས་ཀྱིས་རི་མོ་འབྲི།** ཤོག་བུ་སྟུག་པོ་དང་ཚོས་གཞི་ཉུང་ཀུ་ལག་ལེན་འཐབ། འགོ་བཙུགས་ནི་དཀའ་བ་ཅིན་ དང་པའི་ཤུད་ཐིག་མཉམ་དུ་འབྲི།
+32. **རྒས་ཆེ་བའི་མིའི་རི་མོ་ལུ་ཚོས་གཞི་བཀང་།** མེ་ཏོག་ ཡང་ན་ཐང་རས་བཟུམ་མའི་རི་མོ་ ཨ་ལུའི་རི་མོ་མེན། ང་བཅས་ཀྱི་ [ཚོས་གཞི་བཀང་སའི་ཤོག་ལེབ་](/games/coloring/) ཚུ་ གློག་ཀླད་ནང་ཡང་ན་དཔར་བསྐྲུན་འབད་སྟེ་ལག་ལེན་འཐབ་ཚུགས།
+33. **པར་རིས་མཉམ་བསྡོམས་བཟོ།** དེབ་ཆུང་ནང་ལས་ ཤིང་འབྲས་ལྡུམ་ར་ མོ་ཊི་ ཡང་ན་ཟས་རིགས་ཀྱི་པར་ཚུ་གས་སྟེ་སྦྱར། ཤུལ་ལས་ པར་གདམ་ཁ་རྐྱབ་ནི་རང་ལངམ་སྦེ་ཨིན།
+34. **མེ་ཏོག་བཞག་སྟངས་བཟོ།** ཉོ་ཆའི་ཚོང་ཁང་ནང་ལས་མེ་ཏོག་ཕུང་པོ་ཅིག་དང་བམ་ཅིག་ལེན། ཤུལ་ལས་ བམ་ཆུང་ཀུ་ནང་མེ་ཏོག་ཉུང་ཀུ་བཙུགས།
+35. **མཉམ་དུ་ཐགཔ་བཟོ་ནི་ཡང་ན་ཁ་བཟོ་ནི།** ཁབ་ཆེན་པོ་ལག་ལེན་འཐབ་སྟེ་ ཐིག་ཐུང་ཀུ་བཟོ། ཤུལ་ལས་ སྐུད་པ་རིལ་བུ་བཟོ་ནི།
+36. **ནང་མི་ཚུ་ལུ་ཤོག་བྱང་བཟོ།** ངོ་མའི་མི་ཚོ་ལུ་ སྐྱེས་སྐར་དང་འཕྲད་སྐད་ཀྱི་ཤོག་བྱང་ལུ་ ཐུམ་རྟགས་བརྐྱབ་ མིང་རྟགས་བཀོད་ ཡང་ན་རྒྱན་བཀོད་འབད།
+37. **རླུང་ལུ་བསྐམ་མི་འབག་ལུ་དབྱིབས་བཟོ།** ཐུག་པའི་སྣོད་ཆུང་ཀུ་ཅིག་བཟོ། དུག་མེད་པའི་ཅ་ཆས་ལག་ལེན་འཐབ་སྟེ་ ཉེ་འགྲམ་ལུ་སྡོད།
+38. **ཤིང་ལེབ་ཕྱིས་ཏེ་མཇུག་བསྡུ།** སྔོན་ལས་གྲ་སྒྲིག་འབད་ཡོད་པའི་བྱིའུ་ཁྱིམ་གྱི་ཆ་ཤས་དང་ ཤིང་ཕྱིས་ གློག་ལག་ཆས་མེད་པར་ལག་ལེན་འཐབ། ཁ་གསལ་ [ཕོ་རྒན་ཚོ་ལུ་འོས་པའི་ལས་འགུལ](/activities/for-men/) བལྟ།
+39. **ཡིག་འཕྲིན་འབྲི་ནི་ཡང་ན་བཤད་ནི།** ཚ་བོ་ ཡང་ན་རྙིང་པའི་གྲོགས་པོ་ལུ་གཏང་། འབྲི་ནི་དཀའ་བ་ཅིན་ ཁོང་གིས་བཤད་མི་ཁྱོད་ཀྱིས་འབྲི།
 
-## Outdoors and gardening
+## ཕྱི་ཁང་དང་ཤིང་འབྲས་ལྡུམ་ར
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+རླུང་གསརཔ་དང་ཉིན་མོའི་འོད་ཀྱིས་ མཉམ་དུ་སྡོད་ནི་ལུ་སྐྱིད་པོ་བཟོཝ་ཨིན། ཁ་གསལ་ [ཕྱི་ཁའི་དང་ཤིང་འབྲས་ལྡུམ་རའི་ལས་འགུལ](/activities/outdoor-and-gardening/) བལྟ།
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **ཤིང་ལུ་ཆུ་བླུགས།** ཆུ་བླུགས་ས་ཆུང་ཀུ་དང་ཤིང་བམ་ཉུང་ཀུ་ལག་ལེན་འཐབ། ཉིནམ་རེ་ཆུ་བླུགས་མི་འདི་གིས་ ཉིནམ་གྱི་ལས་རིམ་ལུ་ལམ་ལུགས་ཅིག་བྱིནམ་ཨིན།
+41. **བམ་ནང་ཤིང་བཙུགས།** ཐིག་ཁྲམ་གུ་བཞག་སྟེ་ སྐུ་མགྲོན་མ་བཞེངས་པར་འབད་བཅུག། ས་བོན་ལས་ ཤིང་ཉམས་ཆུང་ཀུ་བཙུགས་ནི་ལས་སླ་བ་ཨིན།
+42. **རྩྭ་ངན་བཏོན་ནི་ཡང་ན་མེ་ཏོག་རྙིངམ་བཏོན་ནི།** ལག་ཤུབས་གྱོན་སྟེ་ ས་ཁོངས་ཆུང་ཀུ་རེ་ནང་ལས་ཀ་འབད།
+43. **ལོ་མ་བསྡུ།** ས་ཁོངས་ཆུང་ཀུ་རེ། ཤུལ་ལས་ ཁུ་གུ་ཁ་ཕྱེ་སྟེ་འཆང་ནི་རང་ངོ་མའི་ལས་ཀ་ཅིག་ཨིན།
+44. **ཤེས་མི་ལམ་ཁ་ལུ་འགྲུལ་འཁོར་འགྲུལ།** ཁྱིམ་གྱི་མཐའ་ཡང་ན་ཡིག་སྒམ་ཚུན་ཚོད། ཐུང་ཀུ་འགྱོ་རུང་ལེགས་ཤོམ་ཨིན།
+45. **ཕྱི་ཁར་མཉམ་དུ་སྡོད།** ཉིནམ་དྲོད་པོ་ཅིག་ལུ་ ཐེམ་ནང་སྡོད་སྟེ་ སྤྲིན་པ་ཡང་ན་འགྲུལ་མི་ཚུ་ལུ་བལྟ།
+46. **བྱ་ལུ་ཟས་བྱིན།** མཉམ་དུ་བྱའི་ཟས་སྣོད་བཀང་སྟེ་ སྒེའུ་ཁུང་ནང་ལས་བལྟ།
+47. **མོ་ཊི་ཁྲུས།** བཀུག་སྣོད་ སི་པཉ་ དེ་ལས་ཕྱི་དྲོ་ཚ་དྲོན་ཅིག། འཁོར་ལོའི་མཐའ་ཁྲུས་ནི་འདི་གོམ་པ་གཅིག་པའི་ལས་ཀ་ལེགས་ཤོམ་ཅིག་ཨིན།
 
-## Sensory activities
+## ཚོར་ཤུགས་ཀྱི་ལས་འགུལ
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+སེམས་བརྗེད་ནད་འཕེལ་རིམ་འགྲོ་བའི་སྐབས་ འཛིན་ནི་ དྲི་མ་ཉན་ནི་ མྱོང་ནི་ སྐད་སྒྲ་ཉན་ནི་ དེ་ལས་མཐོང་ནི་ཚུ་གལ་ཆེ་རུ་འགྱོ་འོང་། [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) གིས་ མཇུག་གི་གནས་ཚད་ནང་ གླུ་གཞས་ འཛིན་བཏུབ་པའི་དངོས་པོ་ དེ་ལས་ལག་པ་ལུ་ལཱས་སླ་པོ་འབད་ནི་ཚུ་གི་སྐོར་ལས་བཀོད་ཡོད། འགོ་མ་བཙུགས་པའི་ཧེ་མ་ ངན་རྟགས་དང་ཁ་ནང་ལུ་འཛུལ་སྲིད་པའི་ཉེན་ཁ་ཚུ་ཞིབ་དཔྱད་འབད། ཁ་གསལ་ [ཚོར་ཤུགས་ཀྱི་ལས་འགུལ](/activities/sensory/) བལྟ།
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **ལག་པ་ལུ་ལཱས་སླ་པོ་འབད།** སྔོན་ལས་དྲི་བ་འབད་སྟེ་ བྱུག་ཐུམ་ཉུང་ཀུ་ལག་ལེན་འཐབ། པགས་པ་ཡང་ན་ངན་རྟགས་ཀྱི་སྐོར་ལས་ཐད་དོན་མེད་པ་ཅིན་ དྲི་མ་མེད་པའི་བྱུག་ཐུམ་གདམ་ཁ་རྐྱབ།
+49. **རས་ཀྱི་ཚོར་བ་ཉམས་མྱོང་འབད།** རས་རིགས་མ་འདྲ་བ་ དཔེར་ན་ བལ་ རས་སྦོམ་ བལ་རས་ དེ་ལས་དར་རས་ཚུ་ སླེ་བོའི་ནང་བཙུགས་སྟེ་ འཛིན་ནི་དང་ལེབ་ནི་འབད་བཅུག།
+50. **སྨན་རྩྭ་དང་ཀོ་ཕིའི་དྲི་མ་ཉན།** སྔོན་ལས་ཁྲུས་ཡོད་པའི་པོ་དི་ན་ཡང་ན་རོའུ་ཛ་མེ་རི་ མཛུབ་མོ་གིས་བཙིར་སྟེ་དྲི་མ་ཉན་བཅུག། དབུགས་ཀྱི་དཀའ་ངལ་ཡོད་པ་ཅིན་ དྲི་མ་དྲག་པོ་ཚུ་མ་ལག་ལེན་འཐབ།
+51. **སྐྲ་ཕྱིས།** ཁོང་ལུ་སྤྲོ་བ་ཡོད་པ་ཅིན་ ལྷོད་ལྷོད་དང་འཇམ་པོ་སྦེ་ཕྱིས།
+52. **ཚ་དྲོན་ཕད་ཆེར་ཅིག་མཉམ་དུ་ལག་ལེན་འཐབ།** གནམ་གྲང་མོའི་ཉིནམ་ཅིག་ལུ་ ལག་པ་དང་གདོང་ལུ་ལག་ལེན་འཐབ། སྔོན་ལས་ཚ་དྲོད་ཚད་འཇལ།
+53. **ལས་འགུལ་གྱི་པང་ལེན་ལུ་ལྟ།** མཐེ་བོང་ཆེན་པོ་དང་ཁ་ཕྱེ་སྒོ་ཚུ་ བརྟན་པོ་སྦེ་བཙུགས་ཡོད་མི། ག་ཅི་ཡང་ལྷོད་མི་ཚུགས་པར་ཞིབ་དཔྱད་འབད།
+54. **དགའ་མི་ཟས་མངར་མོ་མཉམ་དུ་མྱོང་།** ཐུབ་ཆུང་ཀུ་རེ་ ཁོང་གིས་ཉེན་ཁ་མེད་པར་ཟ་ཚུགས་པའི་ཚོད་གཞི་ནང་བྱིན།
+55. **རང་བཞིན་གྱི་སྐད་སྒྲ་གཏང་།** ཆརཔ་ རྒྱ་མཚོའི་རླབས་ ཡང་ན་བྱའི་སྐད་སྒྲ་ སྒྲ་ཤུགས་དམའ་བ་སྦེ་གཏང་།
+56. **ལྷོད་ལྷོད་ཅིག་འགྲོ་མི་ལུ་བལྟ།** ཉ་ཁྱིམ་ རང་བཞིན་གྱི་བརྙན་ཐུང་ ཡང་ན་ཁ་བའི་ཟགས་མི་ལུ་བལྟ།
 
-## Games and puzzles
+## རྩེདམོ་དང་སྒྲིག་རྩེད
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+དུས་ཚོད་བཀག་ས་ གྲངས་ཐོ་ ཡང་ན་གནོན་ཤུགས་མེད་པའི་སྐབས་རྩེདམོ་ཚུ་ལེགས་ཤོམ་འབདཝ་ཨིན། བརྟག་ཞིབ་བཟུམ་ཚོར་འགོ་བཙུགས་པ་ཅིན་ ཕྱིར་བཞག། ཁ་གསལ་ [མཉེན་ཆས་དང་རྩེདམོ་གདམ་ཁ་རྐྱབ་ཐངས](/caregiving/choosing-apps-and-games/) དང་ [རྩེདམོའི་སྐོར](/brain-health/brain-games/) བལྟ།
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **པར་མཐུན་པ་འཚོལ།** [པར་ཟུང་](/games/picture-pairs/) ནང་པར་ཚུ་མགོ་ལྡོག་སྟེ་བཞག་ཚུགསཔ་ལས་ དྲན་གསོ་མེན་པར་ མཐོང་ནི་ལུ་གཙོ་བོར་བཏོནམ་ཨིན།
+58. **འདྲ་མཉམ་གྱི་པར་འཚོལ།** [འདྲ་མཉམ་འཚོལ་](/games/find-the-same/) ནང་ གདམ་ཁ་གཉིས་ལས་བཞི་ཚུན་ཚོད་ཡོད། པར་རེ་རེ་གི་སྐོར་ལས་སྐད་ཆ་བཤད།
+59. **སླེ་བོ་ནང་དབྱེ་སེལ་འབད།** [མཉམ་དུ་དབྱེ་སེལ་](/games/sort-together/) འདི་ ཨོམ་ཤུབས་དབྱེ་སེལ་འབད་ནི་དང་འདྲ་བའི་ གློག་ཀླད་ནང་གི་ལས་འགུལ་ཅིག་ཨིན།
+60. **ཆ་ཤས་ཆེན་པོའི་པར་སྒྲིག་རྩེད།** རྒས་ཆེ་བའི་མི་ལུ་འོས་པའི་པར་དང་ ཆ་ཤས་ཉུང་ཀུ་ཡོད་མི་ལག་ལེན་འཐབ། [པར་སྒྲིག་](/games/picture-puzzle/) ནང་པར་ཆ་ཚང་མཐོང་ཚུགསཔ་སྦེ་བཞག་ཡོད། ཁ་གསལ་ [སེམས་བརྗེད་ནད་ཀྱི་སྒྲིག་རྩེད་](/activities/puzzles/) བལྟ།
+61. **རྙིང་པའི་ཤོག་བྱང་རྩེདམོ་རྩེ།** ཁོང་གིས་ལོ་མང་རིང་ལུ་རྩེ་སྡོད་མི་རྩེདམོ་རྩེ། ཤུལ་ལས་ ཤོག་བྱང་ཚུ་ཚོས་གཞི་དང་བསྟུན་སྟེ་དབྱེ་སེལ་འབད་ནི་རང་རྩེདམོ་ཅིག་ཨིན།
+62. **ཌོ་མི་ནོ་རྩེ།** མཐའ་མཚམས་མཐུན་པ་སྒྲིག ཤུལ་ལས་ ཊ་ཡིལ་ཚུ་ཐིག་གཅིག་ནང་བཀོད་ནི་རང་ལེགས་ཤོམ་ཨིན།
+63. **ཡིག་ཆེན་པོའི་ཚིག་འཚོལ་རྩེདམོ་འབད་བལྟ།** ང་བཅས་ཀྱི་ [ཚིག་འཚོལ་](/games/word-search/) ནང་ ཚིག་ཚུ་གཡས་དང་མར་རྐྱངམ་ཅིག་ཨིན་པས་ དཔར་བསྐྲུན་ཡང་འབད་ཚུགས།
+64. **ཤེས་ཡོད་པའི་ཚིག་སྒྲུབ་མཇུག་བསྡུ།** [ཚིག་སྒྲུབ་མཇུག་བསྡུ་](/games/finish-the-saying/) ནང་ ག་དུས་ར་མཇུག་གི་ཚིག་སྟོན་ཚུགས།
+65. **པར་གྱི་བིང་གོ་རྩེ།** [པར་བིང་གོ་](/games/picture-bingo/) འདི་ ཁྱིམ་ཚང་དང་སྡེ་ཚན་ལུ་འོས་འབབ་ཨིན། ཤོག་བྱང་ལུ་རྟགས་བཀོད་ནི་ལུ་སྟབས་བདེ་སྦེ་གྲོགས་རམ་འབད།
+66. **ཆེ་ཀར་རྩེ།** ཁྲིམས་ལུགས་ཚུ་ལྷོད་ལྷོད་བཟོ། སྐད་ཆ་བཤད་ཞིནམ་ལས་རྫས་ཚུ་སྤོ་བཤུད་འབད་ནི་རང་ལངམ་སྦེ་ཨིན།
 
-## Movement
+## ལུས་སྦྱོང་
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA གིས་ འགྲུལ་འཁོར་འགྲུལ་ནི་ གནས་སྐོར་རྐང་འཁོར་ བསྲིང་ཐག་ རྩེད་རིལ་མཉེན་པོ་ཡང་ན་ལྒང་ཕུག་ ཐུག་པའི་སྣོད་འཕར་ནི་ དེ་ལས་རྒས་ཆེ་བའི་མི་ལུ་འོས་པའི་ལུས་སྦྱོང་བརྙན་ཐུང་ཚུ་བསམ་འཆར་བཀོད་ཡོད། ལས་ཀ་གསརཔ་ཅིག་འགོ་མ་བཙུགས་པའི་ཧེ་མ་ ལྷག་པར་དུ་ལང་སྡོད་ཀྱི་དཀའ་ངལ་ཡོད་པ་ཅིན་ སྨན་པ་ལུ་དྲི་བ་འབད།
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **ལྒང་ཕུག་བརྡབ།** གཅིག་གིས་གཅིག་ལུ་ཁ་བསྟོད་སྟེ་སྡོད། འདི་ལྷོད་ལྷོད་འགྲུལ་ནི་ལས་ འཛིན་ནི་ལས་སླ་བ་ཨིན།
+68. **རྒས་ཆེ་བའི་མི་ལུ་འོས་པའི་སྡོད་ལུས་སྦྱོང་བརྙན་ཐུང་** མཉམ་དུ་རྗེས་སུ་འབྲང་།
+69. **བསྲིང་ཐག་གིས་བསྲིང་།** སྡོད་ས་ལས་ ཡང་བའི་བསྲིང་ཐག་གིས་ ལག་པ་ལྷོད་ལྷོད་བསྲིང་།
+70. **ཐུག་པའི་སྣོད་འཕར།** ལག་པ་ལྷོད་ལྷོད་སྦེ་ཡར་འཕར་ གླུ་གཞས་དང་མཉམ་དུ་ཡང་འབད་ཚུགས།
+71. **གནས་སྐོར་རྐང་འཁོར་བཞོན།** སྐར་མ་འགའ་རང་ ལྷོད་ལྷོད་སྦེ་བཞོན་ ཁྱོད་ཉེ་འགྲམ་ལུ་སྡོད།
+72. **དར་རས་དང་མཉམ་དུ་ཞབས་བྲོ་འཁྲབ།** གླུ་གཞས་དང་བསྟུན་ དར་རས་ཡང་བ་ལག་པ་གིས་གཡོ་འགུལ་འབད་ སྡོད་དེ་ཡང་ན་ལངས་ཏེ་འབད་ཚུགས།
+73. **དམིགས་ཡུལ་ཡོད་པའི་འགྲུལ་འཁོར་འགྲུལ།** ཡིག་འཕྲིན་གཏང་ནི་ ཡང་ན་ཇ་ཉོ་ནི། འགྲོ་དགོ་པའི་རྒྱུ་མཚན་ཅིག་ཡོད་པ་ཅིན་ རང་བཞིན་ཅན་སྦེ་ཚོར་འོང་།
+74. **མཉམ་དུ་དབུགས་ལེན་གྱི་དུས་ཚོད་སྤྱོད།** [ཞི་འཇམ་དབུགས་ལེན་](/games/calm-breathing/) དང་མཉམ་དུ་ ལྷོད་ལྷོད་སྦེ་བཟོ།
 
-## Social activities
+## མི་སྡེའི་ལས་འགུལ
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+མིང་དྲན་ནི་དཀའ་བ་འཕར་རུང་ མཉམ་སྡོད་འདི་གལ་ཆེ་བ་ཨིན་པས་ མི་ཉུང་ཀུ་ཚུ་དང་མཉམ་དུ་སྡོད་ནི་འདི་ལས་སླ་བ་ཨིན། NIA གིས་བཀོད་དོ་བཟུམ་ མི་ཅིག་གིས་ སྐུ་མགྲོན་ག་ཨིན་ན་མ་དྲན་རུང་ མཉམ་སྡོད་ལུ་སྤྲོ་བ་འོང་མི་མངམ་སྦེ་འོང་། ཁ་གསལ་ [སྐུ་མགྲོན་ལེན་ནི](/activities/visiting/) བལྟ།
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **སྐུ་མགྲོན་གཅིག་ ཡང་ན་གཉིས་རེ་ལོངས།** ཁངམིག་ཁུ་སིམ་པོ་ཅིག་ནང་ དུས་ཡུན་ཐུང་ཀུ་སྦེ་ པར་བལྟ་ནི་དང་བཅསཔ།
+76. **ནང་མི་ཚུ་དང་བརྙན་ཐུང་ཁ་པར་བརྒྱབ།** དུས་ཡུན་ཐུང་ཀུ་ སྐད་འབོད་པ་གཅིག་རེ་བཞིན། ཁ་གསལ་ [ཁ་པར་དང་བརྙན་ཐུང་ཁ་པར་](/activities/phone-and-video-calls/) བལྟ།
+77. **དྲན་གསོའི་མཉམ་འཛོམས་ལུ་འབད་བལྟ།** སེམས་བརྗེད་ནད་དང་ལྷན་དུ་འཚོ་བའི་མི་དང་ བདག་འཛིན་འབད་མི་ཚོ་གི་དོན་ལུ་ གྲ་སྒྲིག་མེད་པའི་མཉམ་འཛོམས། ཉེ་འགྲམ་གྱི་སྨན་ཁང་ ཡང་ན་སྡེ་ཁུལ་གྱི་གྲོགས་རམ་ཚོགས་པ་ལུ་དྲི་བ་འབད།
+78. **ཁུ་སིམ་པའི་དུས་ཚོད་ལུ་ཕྱིར་ཟ་ཁང་ནང་འགྲོ།** NIA གིས་བཀོད་དོ་བཟུམ་ གོམས་འདྲིས་ཡོད་པའི་ ཁུ་སིམ་པའི་ཟ་ཁང་ཅིག་ མི་ཉུང་བའི་དུས་ཚོད་ལུ་ གསང་སྦྲ་ཁང་གི་ཉེ་འགྲམ་གྱི་ཐིག་ཁྲམ་ལུ་སྡོད།
+79. **རྒས་སྐྱོང་ལྟེ་བ་ཡང་ན་ཉིནམ་གྱི་བདག་འཛིན་ལས་རིམ་ལུ་འགྲོ།** ཁོང་ལུ་མཉམ་སྡོད་ཐོབ་པ་དང་ ཁྱོད་ལུ་ངལ་གསོའི་དུས་ཚོད་ཐོབ།
+80. **ཨ་ལུ་ཚུ་དང་མཉམ་དུ་དུས་ཚོད་སྤྱོད།** ཚ་བོ་ཚུ་དང་མཉམ་དུ་ དུས་ཡུན་ཐུང་ཀུ་དང་ཁུ་སིམ་པོའི་ཐུག་འཕྲད་ ཡང་ན་ཨ་ལུ་ཆུང་ཀུ་ལུ་པར་དེབ་ལྷག།
+81. **ཇ་དང་མཉམ་དུ་གསར་འགྱུར་ཤོག་ལེབ་མཉམ་དུ་ལྟ།** མགོ་བརྗོད་ཚུ་སྐད་ཆེན་པོ་སྦེ་ལྷག། གསར་འགྱུར་ལས་ ལམ་ལུགས་འདི་གལ་ཆེ་བ་ཨིན།
+82. **གཞན་ལུ་གྲོགས་རམ་འབད།** ལྷ་ཁང་གི་ལས་རིམ་གྱི་ཤོག་ལེབ་ལེབ་ནི་ ཡང་ན་ཁྱིམ་མཚེས་ལུ་ཤོག་བྱང་བཟོ་ནི།
 
-## Faith and spiritual activities
+## ཆོས་དང་སེམས་ཁམས་ཀྱི་ལས་འགུལ
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+ཁོང་གི་རང་གི་ལམ་ལུགས་དང་བསྟུན་ ཡང་ན་མེད་པ་རུང་ངོས་ལེན་འབད། NIA གིས་ གོམས་འདྲིས་ཡོད་པའི་ལྷ་ཁང་གི་མཇལ་འཛོམས་ ཀློག་ནི་ ཆོས་གླུ་ སྨོན་ལམ་ ཏིང་ངེ་འཛིན་ དེ་ལས་དུས་ཆེན་གྱི་ལམ་ལུགས་ཚུ་བསམ་འཆར་བཀོད་ཡོད།
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **གོམས་འདྲིས་ཡོད་པའི་ལྷ་ཁང་གི་མཇལ་འཛོམས་ལུ་འགྲོ།** ཁུ་སིམ་པའི་མཇལ་འཛོམས་གདམ་ཁ་རྐྱབ་ ལམ་ཕྱོགས་ཀྱི་ཉེ་འགྲམ་ལུ་སྡོད་ དེ་ལས་སེམས་བརྗེད་ནད་ཀྱི་སྐོར་ལས་དེ་ཁོངས་ཀྱི་མི་ཚུ་ལུ་ཤེས་བཅུག
+84. **ཕྱིར་འགྲོ་ནི་དཀའ་བའི་ཉིནམ་ལུ་ ཡོངས་འབྲེལ་ནང་མཇལ་འཛོམས་བལྟ།**
+85. **མཉམ་དུ་སྨོན་ལམ་ཡང་ན་ཀློག་ནི།** གོམས་འདྲིས་ཡོད་པའི་ཚིག་ ལྷོད་ལྷོད་སྦེ་ཀློག ཁོང་གིས་ཤེས་པའི་ཆ་ཤས་ནང་མཉམ་དུ་ལེན་འོང་།
+86. **ཁོང་གི་ལམ་ལུགས་ཀྱི་ཆོས་གླུ་ཡང་ན་གླུ་གཞས་ལེན།**
+87. **དུས་ཆེན་གྱི་ལམ་ལུགས་བཞག** གློག་མར་མེ་ བཀྲ་ཤིས་བདེ་ལེགས་ དེ་ལས་སྔོན་མ་ལས་ལག་ལེན་འཐབ་མི་རྒྱན་ཆས་ཚུ།
+88. **ཁུ་སིམ་པོའི་དུས་ཚོད་མཉམ་དུ་སྤྱོད།** ཤིང་འབྲས་ལྡུམ་ར་ནང་སྡོད་ ཡང་ན་ཉི་མ་ནུབ་མི་ལུ་མཉམ་དུ་བལྟ།
 
-## Pets and animals
+## སེམས་ཅན་དང་སྲོག་ཆགས
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA གིས་ སེམས་ཅན་ལུ་ཟས་བྱིན་ནི་ ལུས་པོ་ཕྱིས་ནི་ འཁྱམ་འཁོར་འགྲུལ་ནི་ ཡང་ན་མཉམ་དུ་སྡོད་སྟེ་འཆང་ནི་ཚུ་བསམ་འཆར་བཀོད་ཡོད།
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **ཞི་འཇམ་གྱི་ཁྱི་ཡང་ན་ཞི་མི་ལུ་པགས་པ་ཕྱིས།** རིང་དུ་དང་ལྷོད་ལྷོད་སྦེ་ཕྱིས།
+90. **སེམས་ཅན་ལུ་མཉམ་དུ་ཟས་བྱིན།** ཁྱོད་ཀྱིས་ཚད་འཇལ་ ཁོང་གིས་བླུགས།
+91. **ཁྱི་དང་མཉམ་དུ་འཁྱམ་འཁོར་འགྲུལ།** ཐགཔ་ཁྱོད་ཀྱིས་འཆང་།
+92. **བརླ་ནང་སེམས་ཅན་འཆང་།** ཉལ་ཆས་གུ་ཞི་འཇམ་གྱི་ཞི་མི་ཅིག་བཞག་པ་ཅིན་ སེམས་ཁམས་ལུ་ཞི་འཇམ་བཟོ་ཚུགས།
+93. **སྐུ་མགྲོན་སེམས་ཅན་ལུ་དགའ་བསུ་ཞུ།** བདག་འཛིན་ཁང་མིག་དང་ཉིནམ་གྱི་ལས་རིམ་ལ་ལོ་ཅིག་ནང་ སེམས་ཅན་ལེན་འོང་མི་ཡོད། ཉེ་འགྲམ་ལུ་དྲི་བ་འབད།
+94. **ངོ་མ་དང་འདྲ་བའི་སེམས་ཅན་མཉེན་པོ་ཅིག་ཕུལ།** སེམས་ཅན་མེད་པ་ཅིན་ མི་ལ་ལོ་ཅིག་གིས་ ངོ་མ་དང་འདྲ་བའི་ཞི་མི་ཡང་ན་ཁྱི་མཉེན་པོ་འཆང་ནི་ལུ་དགའ་འོང་། རྩེད་ཆས་བཟུམ་མེན་པར་ ལས་སླ་པོ་སྦེ་ཕུལ་ཞིནམ་ལས་ མེན་ཟེར་བ་ཅིན་ངོས་ལེན་འབད།
 
-## Seasonal activities
+## དུས་ཚིགས་ཀྱི་ལས་འགུལ
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+ལམ་ལུགས་ཚུ་བཞག་རུང་ ལས་སླ་པོ་བཟོ། NIA གིས་ དུས་ཆེན་མི་མང་བའི་སྐབས་ ངོ་མ་དང་འཁྲིལ་བའི་གྲ་སྒྲིག་དང་ ངལ་གསོའི་ས་ཁོངས་ཁུ་སིམ་པོ་ཅིག་བཞག་ནི་བསམ་འཆར་བཀོད་ཡོད།
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **དུས་ཚིགས་དང་བསྟུན་པའི་རྒྱན་ཆས་བཀོད།** ཐིག་ཁྲམ་གུ་ ཀ་ཀོ་རུ་ མེ་ཏོག་གི་ཕྲེང་བ་ ཡང་ན་མེ་ཏོག་གསརཔ་བཞག
+96. **དུས་ཆེན་གྱི་ཟས་མངར་མོ་བཟོ།** བག་ལེབ་འཁོར་ནི་ ཡང་ན་བིས་ཀུཊ་ལུ་མངར་ཆ་བྱུགས། ཐབ་ཚ་ཁྱོད་ཀྱིས་ལེན།
+97. **རྒྱན་ཆས་བཞག** མ་ཆག་པའི་རྒྱན་ཆས་ཚུ་ རེ་རེ་བཞིན་ཕུལ།
+98. **མར་མེ་བལྟ་ནི་ལུ་མོ་ཊི་ནང་འགྲུལ།** དགོང་མོ་ཐུང་ཀུ་སྦེ་འགྲུལ་བའི་སྐབས་ མཉམ་སྡོད་ཙམ་ཅིག་ལས་མི་དགོ།
+99. **དཔྱིད་ཀའི་རྩ་བ་བཙུགས།** སྟོན་ཁར་བམ་ནང་རྩ་བ་བཙུགས་སྟེ་ མྱུ་གུ་ཐོན་མི་ལུ་བལྟ།
+100. **ཨཱ་ཤོམ་ ཡང་ན་སྲན་མ་གི་པགས་པ་བཤུ།** དབྱར་ཁའི་ཐེམ་ནང་བརླ་ནང་སླེ་བོ་བཞག་སྟེ་འབད་མི་ལས་ཀ།
+101. **དུས་ཆེན་གྱི་ཤོག་བྱང་ལུ་ཁ་བྱང་བྲིས།** ཁོང་གིས་མིང་རྟགས་བཀོད་ ཐུམ་སྒྲིལ་བརྐྱབ་ ཡང་ན་དམག་རྟགས་བཀོད། ཁ་བྱང་ཁྱོད་ཀྱིས་འབྲི།
 
-## What if an activity is not working?
+## ལས་འགུལ་ཅིག་མ་འགྲིག་པ་ཅིན་ག་དེ་སྦེ་འབད་ནི་ཨིན་ན།
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+བཀག་སྟེ་ ཤུལ་ལས་གཞན་ཅིག་འབད་བལྟ། NIA གིས་ སེམས་ཁྲལ་ཚུར་མི་ལུ་བལྟ་ནི་དང་ ཁོང་གིས་བལྟ་ནི་རྐྱངམ་ཅིག་འདོད་པ་ཅིན་ དེ་བཟུམ་སྦེ་བཞག་ནི་བསམ་འཆར་བཀོད་ཡོད། མེན་ཟེར་མི་འདི་གིས་ ལས་ཀ་འདི་དཀའ་དྲགསཔ་ དུས་ཚོད་མ་འགྲིགས་པ་ ཡང་ན་ན་ཚ་ གྲོད་ཁོག་ ཡང་ན་སྐད་སྒྲ་བཟུམ་གྱི་གནད་དོན་གཞན་ཅིག་ཡོད་པའི་བརྡ་འོང་། ཆུང་ཀུ་བཟོ་ ཞོགས་པ་ལུ་འབད་བལྟ་ ཡང་ན་ཁྱོད་རང་འགོ་བཙུགས་སྟེ་ ཁོང་མཉམ་དུ་འབད་ནི་ཨིན་ན་བལྟ། ཁ་གསལ་ [ཁོང་གིས་མེན་ཟེར་བའི་སྐབས](/caregiving/when-they-say-no/) དང་ [ཕྱི་དྲོའི་མི་བདེ་བ](/caregiving/late-day-restlessness/) བལྟ།
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+ཟ་མ་དང་ངལ་གསོའི་བར་ན་ ལས་འགུལ་ཚུ་ག་དེ་སྦེ་བཞག་ནི་ཨིན་ན་ཤེས་ནི་ལུ་ [ཉིནམ་གྱི་ལས་རིམ་ཞི་འཇམ་](/activities/daily-routine/) བལྟ། གྲ་སྒྲིག་འབད་བཞག་དགོ་པའི་དངོས་པོ་ཚུ་གི་དོན་ལུ་ [དཔར་བསྐྲུན་འབད་བཏུབ་པའི་ལས་འགུལ་](/activities/printable/) བལྟ་ དེ་ལས་སྡེ་ཚན་འཛིན་སྐྱོང་འབད་མི་ཨིན་པ་ཅིན་ [བདག་འཛིན་ཁང་ནང་གི་སྡེ་ཚན་ལས་འགུལ་](/activities/care-home-groups/) བལྟ། ཁྱོད་རའི་ངལ་གསོ་ཡང་གལ་ཆེ། [བདག་འཛིན་པའི་རང་བདག་བདག་འཛིན་](/caregiving/caregiver-self-care/) བལྟ།
