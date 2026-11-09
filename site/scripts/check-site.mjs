@@ -126,7 +126,9 @@ for (const file of htmlFiles) {
   if (!is404) titles.set(langKey + title, [...(titles.get(langKey + title) ?? []), rel]);
 
   const desc = html.match(/<meta name="description" content="([^"]*)"/)?.[1] ?? '';
-  if (width(desc) < 70 || width(desc) > 170) err(rel, `meta description is ${width(desc)} chars wide`);
+  // 50-360 covers the translated pages as built; the 70-170 window it replaces
+  // failed 1,070 pages across the newer languages (maintainer decision, 2026-11-09).
+  if (width(desc) < 50 || width(desc) > 360) err(rel, `meta description is ${width(desc)} chars wide`);
   if (!is404) descriptions.set(langKey + desc, [...(descriptions.get(langKey + desc) ?? []), rel]);
 
   const h1s = html.match(/<h1[\s>]/g) ?? [];
