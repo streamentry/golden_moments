@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Dementia ཨེཔ་དང་རྩེད་མོ་གདམ་ཁ་རྐྱབ་སྟངས།"
+seoTitle: "Dementia ཨེཔ་དང་རྩེད་མོ་གདམ་ཁ་རྐྱབ་ཐབས།"
+description: "Dementia ཨེཔ་དང་རྩེད་མོ་གདམ་ཁ་རྐྱབ་པའི་ཞབས་ཏོག་པའི་ཐོ་ཡིག: དམིགས་ཡུལ་གཏན་འཁེལ་འབད། དུས་ཚོད་དང་ཁྱབ་བསྒྲགས་ལས་འཛེམ། གསང་བའི་གནས་ཚུལ་ཞིབ་དཔྱད་འབད།"
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  ཨེཔ་འདི་གིས་ག་ཅི་འབད་དགོཔ་ཨིན་ན་ཟེར་མི་ལས་འགོ་བཙུགས། དཔེར་ན་ འཇམ་ཏོག་ཏོ་སྦྱང་བརྡར་བྱིངས་པ་
+  དྲན་གསོ་ ཞི་འཇམ་ ཡང་ན་ འབྲེལ་མཐུད། དེ་ལས་ དེང་སང་ཁྱེད་ཀྱིས་བདག་འཛིན་འབད་མི་དེ་གི་
+  ནུས་པ་དང་མཐུན་པའི་ཨེཔ་གདམ་ཁ་རྐྱབ། དཔེར་ན་ པར་རིས་ཆེན་པོ་ དུས་ཚོད་ སྐུགས་ཐོ་ ཡང་ན་
+  ཁྱབ་བསྒྲགས་མེད་པ་ དེ་ལས་ འཇམ་ཏོག་ཏོ་བཀག་ཆོག་པའི་ལམ་ལུགས་ཡོད་པ། ཨེཔ་གིས་གནས་ཚུལ་
+  ག་ཅི་བསྡུ་ལེན་འབདཝ་ཨིན་ན་དང་ བཏོན་གཏང་ཚུགས་ག་མི་ཚུགས་ཞིབ་དཔྱད་འབད། ཨེཔ་གིས་
+  dementia སྔོན་བཀག་ཡང་ན་སྨན་བཅོས་འབད་ཚུགས་ཟེར་མི་སྐོར་ལས་ཉེན་ཁ་ལུ་བརྟེན། ཞིབ་འཇུག་
+  གཅིག་རྐྱངམ་ཅིག་གིས་བདེན་དཔང་མེན།
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "དམིགས་ཡུལ་དང་པ་ར་གཏན་འཁེལ་འབད། སྦྱང་བརྡར་བྱིངས་པ་ དྲན་གསོ་ ཞི་འཇམ་ ཡང་ན་ འབྲེལ་མཐུད་ལུ་ཨེཔ་སོ་སོ་དགོཔ་འོང་།"
+  - "གནས་ཚད་ཀྱི་མིང་ལུ་མ་བརྟེན་པར་ དེ་ཉིན་གྱི་ནུས་པ་དང་མཐུན་སྒྲིག་འབད། ལག་ལེན་འཐབ་སྟངས་འཇམ་སམ་བཞག།"
+  - "དུས་ཚོད་ སྐུགས་ཐོ་ མི་ཚེ་ ཉིན་རེའི་རྒྱུན་མཐུད་ ཁྱབ་བསྒྲགས་ ཡང་ན་ ཉོ་སྐབས་ཀྱི་དྲི་བ་ཡོད་པའི་ཨེཔ་ལས་འཛེམ།"
+  - "གནས་ཚུལ་བསྡུ་ལེན་ མཉམ་སྤྱོད་ དང་བཏོན་གཏང་ཐབས་ཞིབ་དཔྱད་འབད། HIPAA གིས་སྤྱིར་བཏང་འོང་གསར་ཨེཔ་ལུ་མི་ཚུད།"
+  - "«dementia སྔོན་བཀག་འབདཝ་ཨིན» ཟེར་མིའི་སྐོར་ལས་ཡིད་ཆེས་མ་འབད། ཚོད་ལྟ་གཅིག་ཡང་ན་ཨེཔ་ནང་སྐུགས་ཡར་སེང་འབད་མི་འདི་བདེན་དཔང་མེན།"
+  - "Golden Moments འདི་དགའ་སྤྲོའི་ལས་རིམ་ཅིག་ཨིན། འདི་གིས་སྨན་བཅོས་ཀྱི་སྐོར་ལས་ག་ནི་ཡང་མི་ཟེར།"
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "མགོ་ཁྲིད་རྩེད་མོ་གིས་ dementia སྔོན་བཀག་འབད་ཚུགས་ག?"
+    a: "ཚོང་འབྲེལ་མགོ་ཁྲིད་རྩེད་མོའི་ཨེཔ་གིས་ dementia སྔོན་བཀག་ཡང་ན་ལྷོད་བཟོ་འབད་ཚུགས་ཟེར་བའི་བདེན་དཔང་ལེགས་ཤོམ་མེད། National Institute on Aging གིས་ ཚོང་ཁང་ནང་ལུ་ཐོབ་མིའི་མགོ་ཁྲིད་སྦྱོང་བརྡར་ཨེཔ་ཚུ་ལུ་ ཞིབ་འཇུག་ཆེན་པོ་ནང་ཚོད་ལྟ་འབད་ཡོད་པའི་གོ་རིམ་ཅན་གྱི་སྦྱོང་བརྡར་དང་འདྲ་མཉམ་གྱི་ནུས་པ་ཡོད་ཟེར་བའི་བདེན་དཔང་ལངམ་སྦེ་མེད་ཟེར་སླབ་ཨིན། ཨེཔ་འདི་ཚུ་སྨན་བཟོ་ནི་མེན་པར་ དགའ་སྤྲོ་དང་འབྲེལ་མཐུད་ཀྱི་དོན་ལུ་གདམ་ཁ་རྐྱབ།"
+  - q: "Dementia ཨེཔ་འདི་ HIPAA གི་ཁྱབ་ཁོངས་ནང་ཚུད་ག?"
+    a: "སྤྱིར་བཏང་མི་ཚུད། HIPAA འདི་སྤྱིར་བཏང་སྨན་བཅོས་ཞབས་ཏོག་པ་ སྨན་བཅོས་འཆར་གཞི་ དང་ཁོང་གི་ལས་རིམ་མཉམ་འབྲེལ་པ་ཚུ་ལུ་འཇུགཔ་ཨིན། ཁྱེད་རང་གིས་ཕབ་ལེན་འབད་མི་ཨེཔ་ཅིག་ ཁོང་ཚུ་གིས་བྱིན་མི་མེན་པ་ཅིན་ སྤྱིར་བཏང་ཁྱབ་ཁོངས་ནང་མི་ཚུད། FTC གི་ Health Breach Notification Rule གིས་ HIPAA གི་ཁྱབ་ཁོངས་ནང་མི་ཚུད་པའི་འཕྲོད་བསྟེན་ཨེཔ་མང་ཤོས་ལུ་ཚུདཔ་ཨིན།"
+  - q: "Dementia རྩེད་མོ་ལེགས་ཤོམ་ཅིག་ག་དེ་སྦེ་འོང་དགོ?"
+    a: "པར་རིས་དང་ཡིག་ཆ་ཆེན་པོ་དང་གསལ་ཏོག་ཏོ་ ཤོག་ལེབ་རེ་རེ་ནང་འབད་དགོ་པའི་ལས་ཀ་གཅིག་རྐྱངམ་ཅིག་གསལ་ཏོག་ཏོ་ དུས་ཚོད་དང་སྐུགས་ཐོ་མེད་པ་ འཛོལ་བ་ལུ་སྒྲ་སྐད་མེད་པ་ ཁྱབ་བསྒྲགས་མེད་པ་ དེ་ལས་ མཚམས་འཇོག་ཡང་ན་བཀག་ནི་ལུ་འཇམ་ཏོག་ཏོ་ཡོད་དགོ། འདི་རྒས་ཤོས་ཀྱི་དོན་ལུ་བཟོ་ཡོདཔ་བཟུམ་སྦེ་མཐོང་དགོ་པའི་ཁར་ མི་གཉིས་པ་ཅིག་གིས་མཉམ་ཞུགས་འབད་ནི་ལུ་འཇམ་ཏོག་ཏོ་ཡོད་དགོ།"
+  - q: "Golden Moments གིས་ དྲན་ཤེས་ལུ་ཕན་ཐོགས་འོང་། ཟེར་སླབ་ག?"
+    a: "མི་སླབ། Golden Moments གིས་ དགའ་སྤྲོ་དང་གླེང་མོལ་གྱི་དོན་ལུ་ འཇམ་ཏོག་ཏོ་སྦེ་མཉམ་ལས་འབད་ནིའི་ལས་རིམ་བྱིནམ་ཨིན། འདི་གིས་ dementia ངོས་འཛིན་ སྨན་བཅོས་ སྔོན་བཀག་ ཡང་ན་ཚད་འཇལ་མི་འབད། དྲན་ཤེས་ཡང་ན་བསམ་གཞིག་གི་སྐོར་ལུ་ང་བཅས་ཀྱིས་ག་ནི་ཡང་མི་ཟེར།"
+  - q: "ང་གིས་ dementia ཨེཔ་ལུ་དངུལ་སྤྲོད་དགོཔ་ཨིན་ན?"
+    a: "དང་པ་ར་རིན་མེད་གདམ་ཁ་ ཡང་ན་ རིན་མེད་ཚོད་ལྟ་འབད་ནི་ལུ་འབད་བལྟ། དེ་ལས་ བདུན་ཕྲག་གཉིས་ཙམ་གྱི་རིང་ལུ་ ཁྱེད་ཀྱིས་བདག་འཛིན་འབད་མི་གིས་ག་དེ་སྦེ་ལན་འདེབས་འབདཝ་ཨིན་ན་ལྟ། ཨེཔ་ལུ་དངུལ་སྤྲོད་མི་གིས་འདི་ལྷག་པར་ཕན་ཐོགས་ཅན་མི་བཟོ། མཁོ་མངགས་འབད་པའི་ཧེ་མ་ ག་དེ་སྦེ་བཀག་དགོཔ་ཨིན་ན་ཞིབ་དཔྱད་འབད།"
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+ཨེཔ་ཚོང་ཁང་ཚུ་ནང་ རྒས་ཤོས་ དྲན་ཤེས་ ཡང་ན་ dementia ཟེར་མིའི་མིང་བཏགས་ཡོད་པའི་རྩེད་མོ་མངམ་སྦེ་འདུག། ལ་ལོ་ཅིག་བསམ་བཞིན་དུ་བཟོ་ཡོདཔ་ཨིན། ལ་ལོ་ཅིག་གིས་ སྨན་བཅོས་བཟུམ་གྱི་ཁས་བླངས་ རྩེད་མོ་འདི་ཚོད་ལྟ་ཅིག་ལུ་བསྒྱུར་མིའི་དུས་ཚོད་ ཡང་ན་ ཁྱབ་བསྒྲགས་དང་གནས་ཚུལ་བསྡུ་ལེན་བཙུགསཔ་ཨིན། ཤོག་ལེབ་འདི་གིས་ ཁྱེད་རང་གིས་ཨེཔ་ག་ཅི་ར་ཨིན་རུང་གི་དབྱེ་ཞིབ་འབད་ཐབས་བྱིནམ་ཨིན། ང་བཅས་ཀྱིས་ཐོན་སྐྱེད་གཞན་ཚུ་གོ་རིམ་བཟོ་ནི་ཡང་ན་བསྐྱར་ཞིབ་མི་འབད།
 
-## What should I decide before choosing a dementia app?
+## Dementia ཨེཔ་གདམ་ཁ་མ་རྐྱབ་པའི་ཧེ་མ་ ང་གིས་ག་ཅི་གཏན་འཁེལ་འབད་དགོ?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+ཨེཔ་འདི་གིས་ག་ཅི་འབད་དགོཔ་ཨིན་ན་ཟེར་མི་དེ་གཏན་འཁེལ་འབད། «ཨ་མ་ལུ་རྩེད་མོ་ཅིག» ཟེར་མི་འདི་གི་དོན་དག་སོ་སོ་འོང་སྲིད། དམིགས་ཡུལ་གཅིག་ལུ་ལེགས་ཤོམ་འོང་མི་འདི་ དམིགས་ཡུལ་གཞན་ལུ་མི་ལེགས་ཤོམ་འོང་སྲིད།
 
-| Goal | What it looks like | What to look for |
+| དམིགས་ཡུལ་ | ག་དེ་སྦེ་མཐོང་འོང་ | ག་ཅི་འཚོལ་དགོ་ |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| འཇམ་ཏོག་ཏོ་སྦྱང་བརྡར་བྱིངས་པ་ | མཐུན་སྒྲིག་ དབྱེ་སེལ་ འཇམ་ཏོག་ཏོའི་དཀའ་ངལ་ མིང་ཚིག་རྩེད་མོ་ | དཀའ་ཚད་སྒྲིག་ཆོག་པ་ པར་རིས་མཐོང་སྡོད་མི་ དུས་ཚོད་ཀྱི་ཤུགས་ཚད་མེད་པ་ |
+| དྲན་གསོ་ | རྙིང་པའི་པར་ ཤེས་ཡོད་པའི་ཚིག་ གཞོན་སྐབས་ཀྱི་གླུ་གཞས་ | ཁྱེད་རང་གི་པར་ ཁ་ཕྱེ་སྟེ་དྲི་བ་དྲིས་ནི་ ཚོད་ལྟའི་དྲི་བ་མེད་པ་ |
+| ཞི་འཇམ་ | ལྷོད་ལྷོད་ཀྱི་མཐོང་སྣང་ ཁ་རུ་ཁ་རུའི་སྒྲ་ དབུགས་རྔ་ རང་བཞིན་ | འགོ་བཙུགས་ནི་དང་བཀག་ནི་འཇམ་ཏོག་ཏོ་ འོད་འཕྲོ་མེད་པ་ ཧོནམ་སྦེ་མི་འོང་མི་ |
+| འབྲེལ་མཐུད་ | མཉམ་དུ་རྩེ་ནི་ ཡང་ན་ གླེང་མོལ་འབད་ནི་ མདུན་ལུ་ཡང་ན་ཝི་ཌིའོ་ཐོག་ལས་ | མི་གཉིས་ཀྱི་དོན་ལུ་བཟོ་ཡོད་པ་ གླེང་མོལ་གྱི་དྲི་བ་ཡོད་པ་ |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Dementia དང་མཉམ་དུ་གནས་པའི་མི་ཚུ་ལུ་ གོ་རིམ་ཅན་གྱི་ «བསམ་གཞིག་སྦྱང་བརྡར་བྱིངས་པ་» ཟེར་མིའི་ཞིབ་འཇུག་མང་ཤོས་ཅིག་ སྦྱོང་བརྡར་འབད་ཡོད་པའི་ལས་བྱེད་པ་ཚུ་གིས་འཛིན་སྐྱོང་འབད་མིའི་སྡེ་ཚན་ནང་ གླེང་མོལ་ མིང་ཚིག་རྩེད་མོ་ དཀའ་ངལ་ གླུ་གཞས་ དང་གསར་བཟོའི་ལས་རིམ་ཚུ་དང་མཉམ་དུ་འབད་མི་ཅིག་ཨིན། [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) གིས་ ཆ་སྙོམས་ལུ་ཕན་ཐོགས་ཆུང་ཀུ་ཅིག་འཐོབ་ཅི་ ཞིབ་འཇུག་ཚུ་གི་བར་ན་མ་འདྲོ་ཟེར་སླབ་ཨིན། མི་མཉམ་དུ་འབྲེལ་མཐུད་འབད་མི་དང་སྣ་མང་ཡོད་པའི་ལས་རིམ་དེ་འབདཝ་ལས་ རང་གིས་རང་ལུ་ལག་ལེན་འཐབ་མིའི་ཨེཔ་དང་གཅིག་པ་མེན། དེ་འབདཝ་ལས་ ཨེཔ་གང་རུང་ཅིག་ མཉམ་དུ་འབད་ནིའི་ལས་རིམ་མང་པོའི་གྲས་ལས་གཅིག་སྦེ་ལྟ།
 
-## How do I know if an app fits the person's abilities?
+## ཨེཔ་ཅིག་གིས་ དེང་སང་གི་ནུས་པ་དང་མཐུན་མི་མཐུན་ང་གིས་ག་དེ་སྦེ་ཤེས་ནི?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+ནད་གཞིའི་གནས་ཚད་ཡང་ན་མིང་ལུ་མ་བརྟེན་པར་ ཁོང་གིས་ག་དེ་སྦེ་ལན་འདེབས་འབདཝ་ཨིན་ན་ལྟ། «གནས་ཚད་གཅིག་པ་» ཟེར་མིའི་མི་གཉིས་ མིག་གི་མཐོང་ཤུགས་ ཉན་ཤུགས་ ལག་པའི་འཛིན་ཤུགས་ སྐད་ཡིག་ དང་གློག་རིག་ལག་ཆས་ལུ་གོམས་འདྲིས་ནང་ ཧ་ཅང་མ་འདྲོ་འོང་། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) གིས་ ཧེ་མའི་དགའ་ཞེན་དང་ད་ལྟོའི་ནུས་པ་སེམས་ཁར་བཞག་སྟེ་ གྲུབ་འབྲས་ལས་ལྷག་པར་དགའ་སྤྲོ་ལུ་དམིགས་དགོ་ཟེར་སླབ་ཨིན།
 
-Signs of a good fit:
+མཐུན་པའི་རྟགས་མཚན་ལེགས་ཤོམ་:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- མགྲོན་འབོད་མངམ་མ་འབད་བར་ ཁོང་རང་འགོ་བཙུགས་ནི་ ཡང་ན་ མཉམ་ཞུགས་འབད་ནི།
+- འཛུམ་ནི་ གླེང་མོལ་འབད་ནི་ ཡང་ན་ ལོ་རྒྱུས་བཤད་ནི།
+- འཛོལ་བ་འབྱུང་ཡང་ སེམས་ཁྲལ་མེདཔ་བཟུམ་སྦེ་འོང་ནི།
+- དུས་ཚོད་ལྷོདཔ་ད་ བཀག་ནི་ལུ་དགའ་བོ་འོང་ནི།
 
-Signs it is a poor fit:
+མི་མཐུན་པའི་རྟགས་མཚན་:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- «ང་གིས་མི་ཚུགས་» ཡང་ན་ «འདི་ནོར་བུ་ཨིན་མས་» ཟེར་ཡང་ཡང་སླབ་ནི།
+- ག་ཏེ་མནན་དགོཔ་ཨིན་ན་མ་ཤེས་པར་འཐོམ་ནི།
+- སེམས་ཁྲལ་ ངོ་ཚ་ ཡང་ན་ ལག་ཆས་ཕར་ཕུད་འབད་ནི།
+- ཁྱེད་ཀྱིས་གེ་ཏོག་ཏོ་མ་འབད་བ་ཅིན་ ལཱ་འབད་མ་ཚུགསཔ་འོང་ནི།
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+སེམས་སྡུག་འདི་རྟགས་མཚན་ཅིག་ཨིན། འདི་བརྒྱུད་དེ་མུ་མཐུད་འབད་དགོ་པའི་གནས་སྟངས་མེན། [ཁོང་གིས་མི་འདིད་ཟེར་བའི་སྐབས་ག་ཅི་འབད་དགོ་](/caregiving/when-they-say-no/) ལྟ། ཨེཔ་ལས་ཕར་གནས་ཚད་དང་མཐུན་པའི་ལས་རིམ་གྱི་དོན་ལུ་ [གནས་ཚད་འགོ་དང་པོ་](/activities/early-stage/) དང་ [གནས་ཚད་མཐའ་མ་](/activities/late-stage/) གི་ལས་རིམ་ཚུ་ལྟ།
 
-## What design features should I look for or avoid?
+## ང་གིས་བཟོ་རྣམ་གྱི་ཁྱད་ཆོས་ག་ཅི་འཚོལ་དགོ་ ཡང་ན་འཛེམ་དགོ?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+ཞི་འཇམ་དང་འཇམ་སམ་ རྒས་ཤོས་ཀྱི་དོན་ལུ་བཟོ་ཡོད་པའི་བཟོ་རྣམ་འཚོལ། ཤུགས་ཚད་བཙུགས་མི་ག་ཅི་ར་ལས་འཛེམ།
 
-| Look for | Be wary of |
+| འཚོལ་དགོ་མི་ | ཉེན་ཁ་ལུ་བརྟེན་དགོ་མི་ |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| པར་རིས་དང་ཡིག་ཆ་ཆེན་པོ་ ཁྱད་པར་གསལ་ཏོག་ཏོ་ | རྟགས་མཚན་ཆུང་ཀུ་ ཤོག་ལེབ་འཁྲུགས་པོ་ |
+| ཤོག་ལེབ་རེ་རེ་ནང་ལས་ཀ་གཅིག་རྐྱངམ་ཅིག་གསལ་ཏོག་ཏོ་ | ཨེབ་རྟ་མང་པོ་ དཀར་ཆག་ ཡང་ན་ གོམ་པ་མང་པོའི་བཀོད་ཁྱབ་ |
+| དུས་ཚོད་མེད་པ་ ཡང་ན་ བཀག་ཆོག་པའི་དུས་ཚོད་ | གྱང་ཐོབ་ མགྱོགས་ཚད་ཀྱི་རྒྱལ་ཁ་ «ཁྱེད་རའི་དུས་ཚོད་ལས་མགྱོགས་སུ་འབད་» |
+| སྐུགས་ཐོ་མེད་པ་ ཡང་ན་ འཇམ་ཏོག་ཏོའི་ལན་ | ཐོབ་སྐར་ མི་ཚེ་ ཉིན་རེའི་རྒྱུན་མཐུད་ གོ་རིམ་ «མགོ་ཁྲིད་ཀྱི་ལོ་» |
+| འཛོལ་བ་ལུ་ཁ་རུ་ཁ་རུ་སྦེ་ལན་འདེབས་ | སྒྲ་སྐད་ དམར་པོའི་ X རྟགས་ «ནོར་འཁྲུལ་» ཟེར་མིའི་འཕྲིན་ |
+| རྒས་ཤོས་ཀྱི་དོན་ལུ་ ཉམས་མྱོང་ངོ་མའི་པར་ | བྱིས་པའི་རི་མོ་བཟུམ་གྱི་བརྗོད་གཞི་ |
+| ཡོངས་འབྲེལ་མེད་པར་ལཱ་འབད་ཚུགས་པ་ འགོ་བཙུགས་པ་ལུ་ཁ་བྱང་མི་དགོ་པ་ | ཐོ་བཀོད་འབད་དགོ་པ་ ནང་འཛུལ་འབད་དགོ་པ་ ཡང་ན་ དང་པ་ར་ནང་དོན་ཕབ་ལེན་འབད་དགོ་པ་ |
+| མཚམས་འཇོག་དང་བཀག་ནི་འཇམ་ཏོག་ཏོ་ | མུ་མཐུད་རྩེ་ནི་ཡང་ན་ཚད་བཀག་བྱིན་ནིའི་ཕར་ཐོན་འཕྲིན་ |
+| ཁྱབ་བསྒྲགས་མེད་པ་ ཐེངས་གཅིག་གི་དངུལ་ཡང་ན་མཁོ་མངགས་གསལ་ཏོག་ཏོ་ | ཁྱབ་བསྒྲགས་ རྫུན་མའི་རྒྱལ་ཁ་ ཡང་ན་ ཉོ་ནིའི་དྲི་བ་ཡང་ཡང་ |
+| མི་གཉིས་པ་ཅིག་གིས་མཉམ་ཞུགས་འབད་ནི་འཇམ་ཏོག་ཏོ་ | རང་གིས་རང་ལུ་རྐྱངམ་ཅིག་ འགྲན་བསྡུར་གྱི་བཟོ་རྣམ་ |
 
-Ads and purchase prompts are easy to tap by accident.
+ཁྱབ་བསྒྲགས་དང་ཉོ་ནིའི་དྲི་བ་ཚུ་ ནོར་འཁྲུལ་ཐོག་ལས་མནན་སྲིདཔ་ཨིན།
 
-## How do I check an app's privacy?
+## ཨེཔ་གི་གསང་བའི་གནས་ཚུལ་ང་གིས་ག་དེ་སྦེ་ཞིབ་དཔྱད་འབད་དགོ?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+ཨེཔ་གིས་གནས་ཚུལ་ག་ཅི་བསྡུ་ལེན་འབདཝ་ཨིན་ན་ སུ་ལུ་མཉམ་སྤྱོད་འབདཝ་ཨིན་ན་ དེ་ལས་ ཁྱེད་ཀྱིས་བཏོན་གཏང་ཚུགས་ག་མི་ཚུགས་ཞིབ་དཔྱད་འབད། ཕབ་ལེན་མ་འབད་པའི་ཧེ་མ་:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **ཚོང་ཁང་གི་གསང་བའི་བཅུད་དོན་ལྟ།** Google Play གི་ [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) དང་ App Store གི་ [privacy information section](https://support.apple.com/en-us/102399) ནང་ ཨེཔ་གིས་བསྡུ་ལེན་དང་མཉམ་སྤྱོད་འབད་ཚུགས་པའི་གནས་ཚུལ་གྱི་དབྱེ་བ་ཚུ་སྟོནམ་ཨིན། ཚོང་ཁང་གཉིས་ཆ་རའིས་ གནས་ཚུལ་འདི་བཟོ་མི་རང་གིས་བྱིན་མི་ཨིན་ཟེར་སླབ་ཨིན། དེ་འབདཝ་ལས་ འདི་ཞིབ་དཔྱད་ངོ་མ་མེན་པར་ འགོ་བཙུགས་ས་ཅིག་ཨིན།
+2. **ཁ་བྱང་དགོཔ་ཨིན་ན་དྲི་བ་དྲིས།** ཨེཔ་ཅིག་གིས་པར་རིས་ཡང་ན་འཇམ་ཏོག་ཏོའི་རྩེད་མོ་རྐྱངམ་ཅིག་སྟོན་པ་ཅིན་ ཁྱེད་ཀྱི་མིང་ གློག་འཕྲིན་ ཡང་ན་ སྐྱེས་ཚེས་ཤེས་དགོ་པའི་རྒྱུ་མཚན་མེད་འོང་།
+3. **ཆོག་ཐམ་ཞིབ་དཔྱད་འབད།** མཐུན་སྒྲིག་རྩེད་མོ་ཅིག་ལུ་ ས་གནས་ འབྲེལ་མི་ སྐད་འཇུག་ ཡང་ན་ པར་མཛོད་ཆ་ཚང་དངོས་སུ་དགོཔ་ཨིན་ན? མི་དགོ་པ་ཅིན་བཀག།
+4. **ཁྱབ་བསྒྲགས་དང་དཔྱད་ཞིབ་ལྟ།** ཁྱབ་བསྒྲགས་དང་རྗེས་འདེད་ལག་ཆས་ཚུ་གིས་ ཨེཔ་ག་དེ་སྦེ་ལག་ལེན་འཐབ་མིའི་གནས་ཚུལ་ ཚོང་ཁང་གཞན་ལུ་གཏང་འོང་།
+5. **པར་ཚུ་ག་ཏེ་འགྱོ་མི་ཨིན་ན་ཤེས།** ཁྱེད་ཀྱིས་ནང་མིའི་པར་བཙུགས་པ་ཅིན་ དེ་ཚུ་ལག་ཆས་ནང་ལུསཔ་ཨིན་ན་ ཡང་ན་ སར་བར་ལུ་ཡར་བསྐུལ་འབདཝ་ཨིན་ན? ཁྱེད་ཀྱིས་བཏོན་གཏང་ཚུགས་ག?
+6. **བཏོན་གཏང་ཐབས་ཞིབ་དཔྱད་འབད།** གསང་བའི་སྲིད་བྱུས་ ཡང་ན་ གནས་ཚུལ་བཅུད་དོན་ནང་ གནས་ཚུལ་དང་ཁ་བྱང་བཏོན་གཏང་སྟངས་འཚོལ། གནས་ཚུལ་བཏོན་མི་ཚུགས་ཟེར་སླབ་མི་ཨེཔ་ཅིག་གིས་ ལྷག་པར་དུ་པར་ཡང་ན་འཕྲོད་བསྟེན་གནས་ཚུལ་བཞག་ཡོད་པ་ཅིན་ ཉེན་ཁ་ལུ་ལྷག་པར་བརྟེན་དགོ།
+7. **གསང་བའི་སྲིད་བྱུས་ལྷག།** ག་ཅི་བསྡུ་ལེན་འབདཝ་ཨིན་ན་ ག་ཅིའི་དོན་ལུ་ཨིན་ན་ དུས་ཡུན་ག་དེམ་ཅིག་བཞག་ཨིན་ན་ དང་སུ་ལུ་མཉམ་སྤྱོད་འབདཝ་ཨིན་ན་ཟེར་མི་ འཇམ་ཏོག་ཏོའི་ལན་འཚོལ།
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA གིས་ dementia ཨེཔ་ནང་གི་གནས་ཚུལ་སྲུང་སྐྱོབ་འབད་ག?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+སྤྱིར་བཏང་མི་འབད། འདི་གིས་མི་མང་ཤོས་ཅིག་ཧོནམ་སྦེ་བཟོཝ་ཨིན། U.S. Department of Health and Human Services གིས་ [འགྲེལ་བཤད་འབད་དེ་](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA འདི་ འཕྲོད་བསྟེན་འཆར་གཞི་ སྨན་བཅོས་ཞབས་ཏོག་པ་མང་ཤོས་ འཕྲོད་བསྟེན་གནས་ཚུལ་བསྒྲིགས་མི་ དང་ཁོང་གི་ལས་རིམ་མཉམ་འབྲེལ་པ་ཚུ་ལུ་འཇུགཔ་ཨིན། གནས་སྟངས་མང་ཤོས་ནང་ ཁྱེད་རང་གིས་རང་དོན་ལུ་ཨེཔ་ནང་བཙུགས་པའི་གནས་ཚུལ་འདི་ HIPAA གིས་མི་སྲུང་། གལ་སྲིད་ཁྱབ་ཁོངས་ནང་ཚུད་པའི་ལས་སྡེ་ཡང་ན་ཁོང་གི་ལས་རིམ་མཉམ་འབྲེལ་པ་གིས་ཨེཔ་འདི་བྱིན་མི་མེན་པ་ཅིན། ཨེཔ་ཚོང་ཁང་ནང་གི་ «dementia ཨེཔ་» ཅིག་གིས་ འཕྲོད་བསྟེན་གྱི་སྐོར་ལས་སླབ་རུང་ HIPAA གི་ཕྱི་ཁར་ལུས་སྲིད།
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA གིས་མི་ཚུད་པའི་ཨེཔ་ནང་གི་འཕྲོད་བསྟེན་གནས་ཚུལ་ལུ་ག་ཅི་གིས་སྲུང་སྐྱོབ་འབདཝ་ཨིན?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission གི་ Health Breach Notification Rule གིས་ དེ་ཚུ་ལས་མང་ཤོས་ལུ་ཚུདཔ་ཨིན། ལོ་ 2024 ལུ་ FTC གིས་ [བསྒྱུར་བཅོས་མཐའ་མར་བཞག](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) སྟེ་ ལམ་ལུགས་འདི་ HIPAA གིས་མི་ཚུད་པའི་འཕྲོད་བསྟེན་ཨེཔ་དང་འདྲ་མཉམ་གྱི་ལག་རྩལ་ལུ་ཡང་འཇུགཔ་ཨིན་ཟེར་གསལ་བཤད་འབད་ཡི། «གསང་བ་ཆད་པ་» ཟེར་མི་འདི་ནང་ ཧེ་ཀར་གྱིས་བརྐྱབ་མི་རྐྱངམ་མེན་པར་ ཆོག་ཐམ་མེད་པར་ཕྱིར་གསལ་འབད་མི་ཡང་ཚུདཔ་ཨིན། དེ་འབདཝ་ལས་ ཚོང་ཁང་ཚུ་གིས་ ཕན་གནོད་ཕོག་མི་དང་ FTC ལུ་བརྡ་བཀོད་འབད་དགོ། འདི་གནད་དོན་འབྱུང་བའི་ཤུལ་ལས་ཉེན་སྐྱོབ་ཀྱི་དྲ་མིག་ཅིག་ཨིན། ཨེཔ་གིས་དགོ་པའི་གནས་ཚུལ་རྐྱངམ་ཅིག་བསྡུ་ལེན་འབདཝ་ཨིན་ཟེར་བའི་ཁས་བླངས་མེན།
 
-## How should I read claims about research and evidence?
+## ཞིབ་འཇུག་དང་བདེན་དཔང་གི་སྐོར་ལས་ང་གིས་ག་དེ་སྦེ་ལྷག་དགོ?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+བདེན་དཔང་གི་སྐོར་ལས་ལྷོད་ལྷོད་ཀྱིས་ལྷག། ཁས་བླངས་ཆེ་ཤོས་ལུ་ལྷག་པར་དུ་ཡིད་ཆེས་མ་འབད། དྲི་བ་འདི་ཚུ་དྲིས།
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **ངོ་མ་ག་ཅི་ཞིབ་འཇུག་འབད་ཡི?** སྦྱོང་བརྡར་ལས་རིམ་གཅིག་གི་ཞིབ་འཇུག་གིས་ ཨེཔ་ནང་གི་རྩེད་མོ་ག་ར་གིས་ལཱ་འདྲ་མཉམ་སྦེ་འབདཝ་ཨིན་ཟེར་མི་སྟོན།
+- **སུ་ལུ་ཞིབ་འཇུག་འབད་ཡི?** འཕྲོད་བསྟེན་ལེགས་ཤོམ་ཡོད་པའི་རྒས་ཤོས་ནང་ལུ་ཐོབ་མིའི་གྲུབ་འབྲས་ དེང་སང་ dementia དང་མཉམ་དུ་གནས་པའི་མི་ལུ་མཐུན་མི་འོང་།
+- **ག་ཅི་ཚད་འཇལ་འབད་ཡི?** རྩེད་མོ་དེ་ནང་ལེགས་ཤོམ་འགྱོ་མི་འདི་དང་ ཉིན་རེའི་འཚོ་བ་ གླེང་མོལ་ སེམས་ཁམས་ ཡང་ན་ རང་དབང་ནང་འགྱུར་བ་འཐོན་མི་འདི་སོ་སོ་ཨིན།
+- **ཞིབ་འཇུག་འདི་ག་དེམ་ཅིག་སྒྲིང་སྒྲིང་ཨིན?** གང་འབྱུང་གི་ཚོད་ལྟ་ (RCT) གིས་ ཨེཔ་ལག་ལེན་འཐབ་མིའི་སྡེ་ཚན་དང་ མི་འཐབ་མིའི་སྡེ་ཚན་གཉིས་ག་བསྡུར་འབདཝ་ཨིན། འདི་བཟོ་རྣམ་ལེགས་ཤོམ་ཅིག་ཨིན་རུང་ ཆུང་ཀུ་ཡང་ན་ཐུང་ཀུ་ཅིག་གི་ RCT གཅིག་གིས་བདེན་དཔང་མེན། རང་དབང་ཅན་གྱི་ཞིབ་འཇུག་པ་ཚུ་གིས་འབད་ཡོད་པའི་ མཐུན་སྒྲིག་ཡོད་པའི་ཞིབ་འཇུག་མང་ཤོས་ཅིག་འཚོལ།
+- **ནད་གཞི་འགྱུར་བ་བཏང་ཚུགས་ཟེར་སླབ་ག?** ཚོད་ལྟ་ནང་ཕན་ཐོགས་ཆུང་ཀུ་ཅིག་སྟོན་མི་གིས་ ཨེཔ་གིས་ dementia ལྷོད་བཟོ་ སྔོན་བཀག་ ཡང་ན་ སྨན་བཅོས་འབད་ཚུགས་ཟེར་བའི་བདེན་དཔང་མེན།
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging གི་ [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ཤོག་ལེབ་ནང་ NIH གིས་རྒྱབ་སྐྱོར་འབད་ཡོད་པའི་ གོ་རིམ་ཅན་གྱི་བསམ་གཞིག་སྦྱོང་བརྡར་གྱི་ཞིབ་འཇུག་ཆེན་པོ་ཅིག་གི་སྐོར་ལས་འགྲེལ་བཤད་འབད་དེ་ ལྷགཔ་ད་ གློག་ཀླད་དང་ཡོངས་འབྲེལ་རྩེད་མོ་ཁ་ཤས་ཀྱིས་ དྲན་ཤེས་དང་བསམ་གཞིག་ཡར་དྲག་གཏང་ཚུགས་ཟེར་མིའི་ཁས་བླངས་ལས་ཉེན་ཁ་ཟེར་ཉེན་བརྡ་བཏང་ཡོད། ཚོང་ཁང་ནང་ལུ་ཐོབ་མིའི་མགོ་ཁྲིད་སྦྱོང་བརྡར་ཨེཔ་ཚུ་ལུ་ ཞིབ་འཇུག་དེ་ནང་ཚོད་ལྟ་འབད་ཡོད་པའི་སྦྱོང་བརྡར་དང་འདྲ་མཉམ་གྱི་ནུས་པ་ཡོད་ཟེར་བའི་བདེན་དཔང་ལངམ་སྦེ་མེད་ཟེར་སླབ་ཨིན། ཁྱེད་ཀྱིས་ ང་བཅས་ཀྱི་ [མགོ་ཁྲིད་རྩེད་མོ་དང་བདེན་དཔང་](/brain-health/brain-games/) དང་ [dementia སྔོན་བཀག་གི་སྐོར་ལས་ཞིབ་འཇུག་གིས་ག་ཅི་སླབ་ཨིན་ན་](/brain-health/can-dementia-be-prevented/) ལྷག་ཆོག།
 
-### What is a public example of a misleading claim?
+### ནོར་འཁྲུལ་ཅན་གྱི་ཁས་བླངས་ཀྱི་དཔེ་མཚོན་སྤྱི་སྤྱོད་ག་ཅི་ཡོད?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+ཟླ་ 1 ཕྱི་ཟླ་ 2016 ལུ་ FTC གིས་ Lumosity ཟེར་མིའི་ «མགོ་ཁྲིད་སྦྱོང་བརྡར་» ལས་རིམ་བཟོ་མི་དང་མཉམ་དུ་ [མཐའ་བསྡོམས་ཀྱི་གསལ་བསྒྲགས་འབད་ཡི།](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) FTC གིས་ ཚོང་ཁང་དེ་གིས་ ལངམ་སྦེ་བདེན་དཔང་མེད་པར་ ཁོང་གི་རྩེད་མོ་ཚུ་གིས་ ལོ་ཚད་དང་འབྲེལ་བའི་བསམ་གཞིག་ཉམས་ཆག་ལྷོད་བཟོ་འབད་ཚུགས་པའི་ཁར་ འཇམ་ཙམ་གྱི་བསམ་གཞིག་ཉམས་ཆག་ dementia དང་ Alzheimer's ནད་ལས་སྲུང་སྐྱོབ་འབད་ཚུགས་ཟེར་བའི་ཁས་བླངས་འབད་ཡོདཔ་ཨིན་ཟེར་སྐྱོན་བརྗོད་འབད་ཡི། ཚོང་ཁང་དེ་གིས་ དངུལ་ཀྲམ་ 2 ས་ཡ་ (ཨ་རྒྱལ་ཌོ་ལར་) སྤྲོད་ནི་ལུ་མོས་མཐུན་འབད་ཡི། དེ་ལས་ མ་འོངས་པ་ལུ་འདྲ་བའི་ཁས་བླངས་མ་འབད་པའི་ཧེ་མ་ ལངམ་སྦེ་ཡིད་ཆེས་བཏུབ་པའི་ཚན་རིག་གི་བདེན་དཔང་དགོཔ་ཨིན། གནད་དོན་འདི་གིས་ ཚོང་འབྲེལ་གྱི་སྐད་ཆ་འདི་བདེན་དཔང་མེན་ཟེར་བའི་དྲན་ཐོ་ལེགས་ཤོམ་ཅིག་ཨིན།
 
-### Which words are red flags?
+### ཉེན་བརྡའི་ཚིག་ག་ཅི་ཡོད?
 
-Be cautious when an app or ad says it:
+ཨེཔ་ཡང་ན་ཁྱབ་བསྒྲགས་ཀྱིས་འདི་ཚུ་སླབ་པ་ཅིན་ ཉེན་ཁ་ལུ་བརྟེན།
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- dementia ཡང་ན་ Alzheimer's «སྔོན་བཀག་འབདཝ་ཨིན་» «ལོག་བཟོ་འབདཝ་ཨིན་» «བཀག་འབདཝ་ཨིན་» ཡང་ན་ «སྨན་བཅོས་འབདཝ་ཨིན་»།
+- «སྨན་བཅོས་ཀྱི་ཐོག་ལས་བདེན་དཔང་ཡོད་» ཟེར་སླབ་རུང་ ཞིབ་འཇུག་ག་ཅི་ཨིན་ན་ སུ་ལུ་འབད་ཡི་ ག་ཅི་ཚད་འཇལ་འབད་ཡི་མི་སླབ་མི།
+- ནད་གཞི་ངོས་འཛིན་བཟུམ་སྦེ་མཐོང་མིའི་ «མགོ་ཁྲིད་ཀྱི་ལོ་» ཡང་ན་ དྲན་ཤེས་ཀྱི་སྐུགས་ཐོ་བྱིན་མི།
+- མགོ་ཁྲིད་ «རྣོ་བཟོ་འབདཝ་ཨིན་» «མཐོ་བཟོ་འབདཝ་ཨིན་» ཡང་ན་ «སྦྱོང་བརྡར་བྱིནམ་ཨིན་» ཟེར་སླབ་མི།
+- མི་གི་བཤད་ཚིག་ལུ་བདེན་དཔང་བཟུམ་སྦེ་ལག་ལེན་འཐབ་མི།
 
-If you are unsure about a claim, ask the person's doctor.
+ཁས་བླངས་ཅིག་ལུ་ངེས་གཏན་མེད་པ་ཅིན་ ཁྱེད་ཀྱིས་བདག་འཛིན་འབད་མིའི་སྨན་པ་ལུ་དྲི་བ་དྲིས།
 
-## Where does Golden Moments fit?
+## Golden Moments ག་ཏེ་འདི་ཨིན་ན?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments གིས་ འཇམ་ཏོག་ཏོ་སྦེ་མཉམ་ལས་འབད་ནིའི་ལས་རིམ་བྱིནམ་ཨིན། དྲན་ཤེས་ཀྱི་ཚོད་ལྟ་ སྨན་བཅོས་ ཡང་ན་ སྨན་བཅོས་ཀྱི་སློབ་སྟོན་མེན། ང་བཅས་ཀྱི་རྩེད་མོ་ དཔེར་ན་ [Picture Pairs](/games/picture-pairs/)་ [Conversation Cards](/games/conversation-cards/)་ [Photo Pairs](/games/photo-pairs/)་ [Picture Bingo](/games/picture-bingo/) དང་ [Calm Breathing](/games/calm-breathing/) ཚུ་ དགའ་སྤྲོ་དང་གླེང་མོལ་གྱི་དོན་ལུ་བཟོ་ཡོདཔ་ཨིན། འདི་ཚུ་གིས་ dementia ངོས་འཛིན་ སྨན་བཅོས་ སྔོན་བཀག་ ཡང་ན་ ཚད་འཇལ་མི་འབད། དྲན་ཤེས་ཡང་ན་བསམ་གཞིག་གི་སྐོར་ལུ་ང་བཅས་ཀྱིས་ག་ནི་ཡང་མི་ཟེར།
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+ང་བཅས་ཀྱིས་ [iPhone་ iPad དང་ Android གི་དོན་ལུ་ Golden Moments](/app/) ཟེར་མིའི་རིན་མེད་ཨེཔ་ཅིག་ཡང་བྱིནམ་ཨིན། འདི་ནང་ གོ་རིམ་ཆེན་པོ་དང་མཉམ་དུ་འཇམ་ཏོག་ཏོའི་པར་མཐུན་སྒྲིག་ ཁྱེད་ཀྱིས་གདམ་ཁ་རྐྱབ་མིའི་ནང་མིའི་པར་དང་མཉམ་དུ་རྩེ་ནི་ དེ་ལས་ ཡོངས་འབྲེལ་མེད་པར་ལཱ་འབད་མིའི་པར་གྱི་ཐུམ་སྒྲིལ་ཡོདཔ་ཨིན། ཁ་བྱང་ ཁྱབ་བསྒྲགས་ དུས་ཚོད་ ཡང་ན་ སྐུགས་ཐོ་མེད། ཐོ་ཡིག་འདི་རང་འཇུགཔ་ཨིན། App Store གི་གསང་བའི་ཁ་བྱང་ནང་ «Data Not Collected» ཟེར་ཡོདཔ་ད་ [ཨེཔ་གི་གསང་བའི་སྲིད་བྱུས་](/app-privacy/) ནང་ པར་གྱི་འདྲ་བཤུས་ག་ཏེ་བཞག་ཨིན་ན་འགྲེལ་བཤད་འབད་ཡོད།
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+ང་བཅས་ཀྱིས་ ཁྱེད་ཀྱིས་ང་བཅས་ལུ་ཡིད་ཆེས་མ་འབད་བར་ དཔྱད་ཞིབ་འབད་ནི་ལུ་དགའ། ཤོག་ལེབ་འདི་ནང་གི་ཐོ་ཡིག་ལག་ལེན་འཐབ། ང་བཅས་ཀྱི་ [གསང་བའི་ཤོག་ལེབ་](/privacy/) དང་ [སྨན་བཅོས་ཀྱི་ཁས་མི་ལེན་པའི་གསལ་བསྒྲགས་](/medical-disclaimer/) ལྷག། དེ་ལས་ ང་བཅས་ཀྱི་རྒྱུད་དེ་ཨིན་རུང་ ཁྱེད་ཀྱིས་བདག་འཛིན་འབད་མི་ལུ་མི་མཐུན་པ་ཅིན་ ལག་ལེན་འཐབ་ནི་བཀག།
 
-## What is a sensible way to try a new app?
+## ཨེཔ་གསརཔ་ཅིག་ཚོད་ལྟ་འབད་ནིའི་ལམ་ལུགས་ལེགས་ཤོམ་ག་ཅི་ཨིན?
 
-Try it together for a couple of weeks and watch what happens.
+བདུན་ཕྲག་གཉིས་ཙམ་གྱི་རིང་ལུ་ མཉམ་དུ་ཚོད་ལྟ་འབད་སྟེ་ ག་ཅི་འབྱུངཝ་ཨིན་ན་ལྟ།
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **དང་པ་ར་གྲ་སྒྲིག་འབད།** ང་བཅས་ཀྱི་ [ཊེབ་ལེཊི་དང་ཁ་པར་གྲ་སྒྲིག་ལམ་སྟོན་](/caregiving/tablets-and-screens/) ལག་ལེན་འཐབ་སྟེ་ འཇམ་ཤོས་ཀྱི་གནས་ཚད་ལས་འགོ་བཙུགས།
+2. **དུས་ཡུན་ཐུང་ཀུ་སྦེ་བཞག།** འཛུམ་ཟེར་མི་ གླེང་མོལ་ དང་ཞི་འཇམ་ལུ་བལྟ། དུས་ཚོད་ལེགས་ཤོམ་ཅིག་གི་སྐབས་ལུ་མཇུག་བསྡུ།
+3. **སེམས་ཁྲལ་བཟོ་བ་ཅིན་བཞག།** ཚད་བཀག་མཐོ་རུང་ མི་མཐུན་པ་ཅིན་མ་འབད།

@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "དྲན་ཤེས་ཉམས་ཤིང་ཡོད་མི་ཅིག་གིས་དྲི་བ་གཅིག་པ་སླར་སླར་འདྲི་བའི་སྐབས།"
+seoTitle: "དྲན་ཤེས་ཉམས་ཤིང་ཡོད་མིའི་དྲི་བ་སླར་འདྲི། ག་དེ་སྦེ་ལན་འདེབས་ནི།"
+description: "དྲན་ཤེས་ཉམས་ཤིང་ཡོད་མི་ཅིག་གིས་དྲི་བ་གཅིག་པ་སླར་སླར་འདྲི་བའི་རྒྱུ་མཚན། ཞི་འཇམ་སྦེ་ལན་འདེབས་ཐབས། ཕན་ཐོགས་པའི་ལག་ཆས་དང་ སྡུག་ཁ་ལོག་འབྱུང་བ་ཅིན་སྨན་པ་ལུ་འབྲེལ་དགོ་པའི་སྐབས།"
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  དྲན་ཤེས་ཉམས་པའི་སྐབས་དྲི་བ་སླར་འདྲི་ནི་འདི་རྒྱུན་མཐོང་ཨིན། ཁོང་གིས་དྲི་བ་འདི་འདྲི་ཡོདཔ་དེ་སེམས་ཁར་མེདཔ་འོང་། དྲི་བ་དེ་ནང་སེམས་ཁྲལ་ཡོདཔ་འོང་། དང་པ་རང་སྦེ་ཞི་འཇམ་དང་ཐུང་ཀུ་སྦེ་ལན་འདེབས། ལན་གྱི་རྒྱབ་ལུ་ཡོད་པའི་ཚོར་བ་ལུ་དོ་སྣང་བྱིན། 「ཁྱོད་ཀྱིས་འདྲི་ཚར་ནུག」ཟེར་མ་སླབ། ལན་དེ་མཐོང་སའི་ས་ཁོངས་ནང་འབྲི་བཞག བྱ་བ་གལ་ཆེ་ཚུ་འབྱུང་ཉེ་ལུ་རྐྱངམ་ཅིག་སླབ། དགའ་ཏོག་ཏོ་ཅིག་འབད་ནིའི་ལས་འགུལ་ཅིག་བྱིན། སྡུག་ཁ་ལོག་འབྱུང་བ་ཅིན་སྨན་པ་ལུ་འབྲེལ་དགོ།
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "ཁོང་གིས་དྲི་བ་འདི་འདྲི་ཡོདཔ་དེ་སེམས་ཁར་མེདཔ་འོང་། རང་གི་དམིགས་ཡུལ་ལས་མེན།"
+  - "དྲི་བ་དེ་ནང་སེམས་ཁྲལ་ཡོདཔ་འོང་། དཔེར་ན། ཐུག་འཕྲད་ཀྱི་སྐོར་ལས་སེམས་ཁྲལ་ཡོད་ནི་ཡང་ན་ཉེན་སྲུང་ཚོར་དགོ་མི་ལྟ་བུ།"
+  - "དང་པ་རང་སྦེ་ཞི་འཇམ་དང་ཐུང་ཀུ། བྱམས་པོ་སྦེ་ལན་འདེབས། 「ཁྱོད་ཀྱིས་འདྲི་ཚར་ནུག」ཟེར་ནམ་ཡང་མ་སླབ།"
+  - "མཐོང་སའི་ས་ཁོངས་ནང་ཡི་གུ། པར་ཁང་། ཆུ་ཚོད་ཡང་ན་ལོ་ཐོ་བཞག་པ་ཅིན་ཁྱོད་ཀྱི་ཚབ་ལུ་ལན་འདེབས་ཚུགས།"
+  - "སེམས་ཁྲལ་བྱེད་དགོ་པའི་བྱ་བ་ཚུ་འབྱུང་ཉེ་ལུ་རྐྱངམ་ཅིག་སླབ།"
+  - "ཁྱོད་ལུ་ངལ་གསོ་དགོ་པའི་སྐབས་ཐུང་ཀུ་ཅིག་ངལ་གསོ་བཏང་། སྡུག་ཁ་ལོག་འབྱུང་བ་ཅིན་སྨན་པ་ལུ་འབྲེལ་ཞིག།"
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "ངའི་ཨ་པ་ལགས་ལུ་དྲན་ཤེས་ཉམས་ཤིང་ཡོདཔ་ལས་དྲི་བ་གཅིག་པ་སླར་སླར་འདྲི་དོ་ག་ཅི་སྦེ་ཨིན་ན།"
+    a: "དྲན་ཤེས་ཉམས་པ་འདི་གིས་ཐུང་ཀུའི་དྲན་ཤེས་ལུ་ཕན་ཐོགསཔ་ལས། ཁོང་གིས་འདྲི་ཡོདཔ་དང་ལན་ཐོབ་ཡོདཔ་དེ་ངོ་མ་སྦེ་སེམས་ཁར་མེདཔ་འོང་། ལན་མངརམ་ཅིག་དྲི་བ་དེ་ནང་ཤུལ་ལས་ག་ཅི་འབྱུང་ནི་ཨིན་ན་ཟེར་བའི་སེམས་ཁྲལ་ཡང་ན་སེམས་གསོ་དགོ་མི་ཚོར་བ་ཡོདཔ་འོང་། གནས་ཚུལ་ལས་ལྷག་སྟེ་ཚོར་བ་དེ་ལུ་ལན་འདེབས་པ་ཅིན་ཕན་ཐོགས་མངམ་འོང་།"
+  - q: "ཁོང་ལུ་འདྲི་ཚར་ནུག་ཟེར་སླབ་ནི་འབད་བཏུབ་ག།"
+    a: "མི་འབད། དེ་གིས་ཁོང་ལུ་སེམས་ཁར་འབད་མ་ཚུགསཔ་དང་། བཀོད་ཁྱབ་བྱིན་དོ་བཟུམ་ཚོར་ཚུགས། དྲན་ཤེས་ཉམས་པའི་ཚོགས་པ་ཚུ་གིས་ཐེངས་རེ་རེ་བཞིན་དང་པ་རང་སྦེ་ཞི་འཇམ་སྦེ་ལན་འདེབས་ནི་དང་ལན་ཐུང་ཀུ་སྦེ་བཞག་ནི་ལུ་སླབ་ཨིན།"
+  - q: "ལན་དེ་འབྲི་བཞག་པ་ཅིན་ཕན་ཐོགསཔ་འོང་ག།"
+    a: "ཁོང་གིས་ལྷག་ད་ལྷག་དོ་ཡོད་པའི་སྐབས་ཕན་ཐོགསཔ་འོང་། ཡི་གུ་ཅིག དེ་རིང་གི་འཆར་གཞི་ཡོད་པའི་པར་ཁང་། ཆེ་བའི་ཆུ་ཚོད་ཡང་ན་ཁོང་གིས་སྤྱིར་བཏང་མཐོང་སའི་ལོ་ཐོ་བཞག་པ་ཅིན་ཁོང་རང་གིས་ལན་བལྟ་ཚུགས། 「ང་གིས་སླབ་ཚར་ནུག」ཟེར་མི་སླབ་པར་ཁ་གསལ་སྦེ་སྟོན་དགོ།"
+  - q: "ཐུག་འཕྲད་ཡང་ན་འགྲུལ་བཞུད་ཀྱི་སྐོར་ལས་ནམ་སླབ་དགོཔ་ཨིན་ན།"
+    a: "དུས་ཚོད་ཉེ་ཁ་ལུ་སླབ། ཉིནམ་ལེ་ཤ་ཅིག་གི་ཧེ་མ་ལས་སྨན་པ་ལུ་བལྟ་ནི་ཡང་ན་འགྲུལ་བཞུད་ཀྱི་སྐོར་ལས་སླབ་པ་ཅིན་སེམས་ཁྲལ་གྱི་དྲི་བ་ཆུ་ཚོད་ལེ་ཤ་ཅིག་འབད་འོང་། འབྱུང་ཉེ་ལུ་ཞི་འཇམ་སྦེ་སླབ་ཞིནམ་ལས་ཤུལ་ལས་ག་ཅི་འབྱུང་ནི་ཨིན་ན་གོམ་པ་རེ་རེ་སླབ་དགོ།"
+  - q: "དྲི་བ་སླར་འདྲི་ནི་འདི་ནམ་སྨན་པ་ལུ་འབྲེལ་དགོ་པའི་རྒྱུ་མཚན་ཨིན་ན།"
+    a: "དྲི་བ་འདྲི་ནི། མགོ་འཐོམ་ནི་ཡང་ན་སྤྱོད་པ་འདི་ལོག་ལས་སྡུག་ཁ་འབྱུང་བ་ཅིན་ཡང་ན་ཆུ་ཚོད་དང་ཉིནམ་གུང་གི་ནང་མགྱོགས་དྲགས་སྦེ་ཚབས་ཆེར་འགྱོ་བ་ཅིན་མགྱོགས་པར་སྨན་པ་ལུ་འབྲེལ་ཞིག། ནད་འབུ། སྨན་གསརཔ། ན་ཚ། བདེ་ཁང་མི་འགྲོ་བ་ཡང་ན་ཆུ་ཉུང་མི་འདི་གིས་མགྱོགས་པར་སྨན་བཅོས་དགོ་པའི་ལོག་ལས་མགོ་འཐོམ་ནི་ཅིག་བྱུང་ཚུགས།"
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +53,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+「སྨན་པ་ལུ་ཆུ་ཚོད་ག་དེམ་ཅིག་ལུ་འཐོན་ནི།」 སྐར་མ་བཅུའི་ཤུལ་ལས། 「སྨན་པ་ལུ་ཆུ་ཚོད་ག་དེམ་ཅིག་ལུ་འཐོན་ནི།」 དྲན་ཤེས་ཉམས་ཤིང་ཡོད་མི་ཅིག་ལུ་བདག་སྐྱོང་འབད་མི་གི་དོན་ལུ། དྲི་བ་གཅིག་པ་སླར་སླར་ཐོས་ནི་འདི་ངལ་གསོ་ཆེ་ཤོས་ཅིག་ཨིན། འདི་རྒྱུན་མཐོང་ཨིན། རང་གི་དམིགས་ཡུལ་ལས་མེན། ཁྱོད་གཉིས་ཆ་རའི་དོན་ལུ་ཉིནམ་འདི་ལས་སླ་བཟོ་ཚུགས་པའི་ཞི་འཇམ་གྱི་ལན་འདེབས་ཐབས་ཡོད།
 
-## Why does someone with dementia ask the same question over and over?
+## དྲན་ཤེས་ཉམས་ཤིང་ཡོད་མི་ཅིག་གིས་དྲི་བ་གཅིག་པ་སླར་སླར་ག་ཅི་སྦེ་འདྲིག
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+ལན་མང་ཤོས་ཅིག་དྲན་ཤེས་ཀྱི་རྐྱེན་ལས་ཨིན། དྲན་ཤེས་ཉམས་པ་འདི་གིས་ཐུང་ཀུའི་དྲན་ཤེས་ལུ་ཕན་ཐོགསཔ་ལས། ཁོང་གིས་དྲི་བ་འདི་འདྲི་ཡོདཔ་ཡང་ན་ལན་ཐོབ་ཡོདཔ་དེ་སེམས་ཁར་མེདཔ་འོང་། [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) གིས་དྲི་བ་ལན་མངརམ་ཅིག་འདྲི་ནི་འདི་རྒྱུན་མཐོང་དང་རེ་བ་བཏོན་ཚུགས་པའི་གནས་སྟངས་ཅིག་ཟེར་འགྲེལ་བཤད་རྐྱབ་ཨིན།
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+དྲི་བ་དེ་ནང་ལན་མངརམ་ཅིག་ཚོར་བ་ཡང་ཡོདཔ་འོང་། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) གིས་སླར་འདྲི་བའི་དྲི་བ་ཅིག་གིས་སེམས་ཁྲལ། གྲོགས་རམ་ཞུ་ནི། ཡང་ན་ཉེན་སྲུང་མེད་པའི་ཚོར་བ་སྟོན་ཚུགསཔ་དང་། ཁོང་གིས་སེམས་གསོ་དང་རྒྱུས་མངའ་ཡོད་པའི་ཚོར་བ་འཚོལ་དོ་ཡོདཔ་འོང་ཟེར་འགྲེལ་བཤད་རྐྱབ་ཨིན། 「ང་བཅས་ནམ་འགྱོ་ནི།」ཟེར་མི་འདི་གིས་ངོ་མ་སྦེ་「ང་འགྱོ་ནི་ལུ་སེམས་ཁྲལ་འདུག」ཟེར་མི་འོང་། སྐྱིད་མེད་ཚོར་ནི། འཇིགས་ནི། སྒྲ་གདངས་དང་ཉིན་རེའི་ལས་རིམ་འགྱུར་བ་འབྱུང་མི་གིས་ཀྱང་འདི་བཟུམ་བྱུང་ཚུགས། དེ་ལས་ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) གིས་སླར་འདྲི་བའི་དྲི་བ་ཅིག་གིས་བདེ་ཁང་འགྱོ་དགོ་མི་ལྟ་བུའི་དགོས་མཁོ་ཅིག་སྟོན་ཚུགས་ཟེར་སླབ་ཨིན།
 
-## What should I say?
+## ང་གིས་ག་ཅི་སླབ་དགོཔ་ཨིན་ན།
 
-Answer calmly and briefly, as if it were the first time.
+དང་པ་རང་སྦེ་ཞི་འཇམ་དང་ཐུང་ཀུ་སྦེ་ལན་འདེབས།
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **ལན་ཐུང་ཀུ་དང་གཅིག་པ་སྦེ་བཞག** དཔེར་ན། 「སྨན་པ་ལུ་ཕྱི་དྲོ་ཆུ་ཚོད་ ༢ ལུ་འཐོན་ནི། ང་ཁྱོད་ཀྱི་མཉམ་ལུ་འོང་།」 གཅིག་པ་སྦེ་ལན་འདེབས་པ་ཅིན་ལེན་སླ་བཟོ་ཚུགས།
+- **ཚོར་བ་ལུ་ལན་འདེབས།** 「ཁྱོད་སྨན་པའི་སྐོར་ལས་དྲན་དོ་ཡོད་མི་འདི་ང་གིས་ཧ་གོ་སོང་། དེ་རིང་ཕྱི་དྲོ་ཨིན། ང་གིས་ཁྱོད་སྐྱེལ་འོང་། ཁྱོད་ཀྱིས་ག་ནི་ཡང་གྲ་སྒྲིག་མི་དགོ།」
+- **དྲོད་ཤུགས་ཡོད་པའི་སྐད་དང་ཁ་གསལ་སྦེ་ལགཔ་འཇུག** ཁོང་ལུ་ལགཔ་འཇུག་ནི་དགའ་བ་ཅིན། Alzheimer's Association གིས་ཞི་འཇམ་སྦེ་སྡོད་ནི་དང་རྩོད་པ་མ་རྐྱབ་ཟེར་སླབ་ཨིན།
+- **ཁོང་གིས་འཚོལ་མི་ལན་དེ་བྱིན།** ཁོང་གིས་འདྲི་མི་ལེ་ཤ་ལུ་ཡང་ལན་འདེབས། Alzheimer's Association གིས་ཁོང་གིས་འདྲི་བའི་ཐེངས་ག་དེམ་ཅིག་ལུ་ཡང་ལན་འདེབས་དགོ་ཟེར་སླབ་ཨིན།
 
-## What should I avoid?
+## ང་གིས་ག་ཅི་མ་འབད་ནི་བཟང་ག།
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **「ཁྱོད་ཀྱིས་ང་ལུ་འདྲི་ཚར་ནུག」** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) གིས་ཁོང་གིས་ད་ལྟོ་འདྲི་ཚར་ཟེར་མི་སླབ་ནི་ལུ་སླབ་ཨིན། དེ་གིས་ཁོང་ལུ་སེམས་ཁར་འབད་མ་ཚུགསཔ་དང་། སྐྱོན་བརྗོད་འབད་དོ་བཟུམ་ཚོར་ཚུགས།
+- **རིངམ་སྦེ་འགྲེལ་བཤད་རྐྱབ་ནི།** ཚིག་མང་བ་ཅིན་བརྗེད་ནིའི་ཚིག་ཡང་མངམ་འོང་།
+- **དབུགས་རིངམ་སྦེ་བཏང་ནི། མིག་གིས་བལྟ་སྟངས་ངན་པ་སྟོན་ནི་ཡང་ན་སྐད་ཤུགས་ཅན་སྦེ་སླབ་ནི།** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) གིས་བཟོད་བསྲན་བྱིན་ནི་དང་སེམས་ཁྲལ་མི་སྟོན་ནི་ལུ་སླབ་ཨིན། འདི་ཕར་ཁར་དཀའ། འོག་གི་ངལ་གསོའི་སྐོར་ལས་ལྷབ།
 
-## Simple tools that answer the question for you
+## ཁྱོད་ཀྱི་ཚབ་ལུ་ལན་འདེབས་མི་ལས་སླ་པོའི་ལག་ཆས།
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+ཁོང་གིས་ལྷག་ད་ལྷག་དོ་ཡོད་པའི་སྐབས། མཐོང་ཚུགས་པའི་ཡི་གུ་གི་ལན་ཅིག་གིས་སླབ་མི་ལན་ལས་ཕན་ཐོགས་མངམ་འོང་།
 
-| Tool | How to use it |
+| ལག་ཆས། | ལག་ལེན་འཐབ་ཐབས། |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| ཡིག་འབྲུ་ཆེན་པོ་གི་ཡི་གུ། | 「དེ་རིང་ཕྱི་དྲོ་ཆུ་ཚོད་ ༢ ལུ་སྨན་པ་ལུ་འཐོན་ནི། མེ་རི་གིས་སྐྱེལ་འོང་།」 ཁོང་གིས་མངམ་སྦེ་མཐོང་སར་བཞག |
+| པར་ཁང་། | དེ་རིང་གི་འཆར་གཞི་གྲལ་ཐིག་ ༣ དང་ ༤ ནང་འབྲི། ཞོགས་པ་རེ་རེ་བསུབ་ཞིནམ་ལས་གསརཔ་འབྲི |
+| ཉིནམ་དང་ཚེས་གྲངས་ཡོད་པའི་ཆུ་ཚོད་ཆེན་པོ། | 「དེ་རིང་ག་ནི་གི་ཉིནམ།」 དང་ 「དུས་ཚོད་ལྷོད་ཡི།」 ཟེར་མི་ལུ་ཕན་ཐོགསཔ་འོང་ |
+| ལོ་ཐོ། | ཉིནམ་རེ་རེ་རྟགས་བཀལ། ཤུལ་མམ་གྱི་ཐུག་འཕྲད་ལུ་རྟགས་བཀོད |
+| རྒྱུས་མངའ་ཡོད་པའི་པར། | འོང་མི་གི་པར་ཅིག་གིས་ 「སུ་འོང་ནི།」 ཟེར་མི་ལུ་ལན་འདེབས་ཚུགས |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+བསམ་འཆར་འདི་ཚུ་ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) དང་ [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) ལས་འབྱུང་ཡོདཔ་ཨིན། 「ང་གིས་ཁྱོད་ཀྱི་དོན་ལུ་འབྲི་བཞག་ཡོད」ཟེར་མི་ལས་ 「པར་ཁང་ནང་མཉམ་དུ་བལྟ་གེ」ཟེར་ཁ་གསལ་སྦེ་སྟོན་དགོ།
 
-## Tell them about events close to the time
+## བྱ་བ་ཚུ་འབྱུང་ཉེ་ལུ་སླབ་དགོ།
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+ཉིནམ་ལེ་ཤ་ཅིག་གི་ཧེ་མ་ལས་ཐུག་འཕྲད་ཡང་ན་འགྲུལ་བཞུད་ཀྱི་སྐོར་ལས་སླབ་པ་ཅིན་སེམས་ཁྲལ་གྱི་དྲི་བ་ཆུ་ཚོད་ལེ་ཤ་ཅིག་འབད་འོང་། Family Caregiver Alliance དང་ Alzheimer's Los Angeles གཉིས་ཆ་ར་གིས་སྨན་པ་ལུ་འཐོན་ནི་ཡང་ན་ཁྲུས་གཏང་ནི་ལྟ་བུའི་སེམས་ཁྲལ་ཡོད་པའི་འཆར་གཞི་ཚུ་འབྱུང་ཉེ་ལུ་རྐྱངམ་ཅིག་སླབ་ནི་ལུ་སླབ་ཨིན། དེ་ནས་ཤུལ་ལས་ག་ཅི་འབྱུང་ནི་ཨིན་ན་གོམ་པ་རེ་རེ་སྦེ་སླབ་དགོ།
 
-## Activities that can shift attention
+## དོ་སྣང་སོར་ཚུགས་པའི་ལས་འགུལ།
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+ལན་འདེབས་ཞིནམ་ལས་ཚོར་བ་དེ་ལུ་ངོས་ལེན་འབད་ཚར་བའི་ཤུལ་ལས། ལྷག་པར་དུ་སྐྱིད་མེད་ཚོར་ནི་ལས་དྲི་བ་འདྲི་དོ་ཡོད་པ་ཅིན། ཞི་འཇམ་དང་དགའ་ཏོག་ཏོ་བའི་ལས་འགུལ་ཅིག་གིས་ཕན་ཐོགསཔ་འོང་། གོང་གི་འབྱུང་ཁུངས་ཚུ་ག་ར་གིས་ཁོང་ལུ་དགའ་མི་ལས་འགུལ་ཅིག་ལུ་དོ་སྣང་སོར་ནི་ལུ་སླབ་ཨིན།
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **མཉམ་དུ་ཐུང་ཀུ་དང་ལས་སླ་པོའི་རྩེདམོ་ཅིག།** [Picture pairs](/games/picture-pairs/) ནང་པར་ཚུ་མཐོང་སྦེ་བཞགཔ་ལས་ག་ནི་ཡང་སེམས་ཁར་བཞག་མི་དགོ།
+2. **རྒྱུས་མངའ་ཡོད་པའི་ལཱ་ཅིག།** གོས་ཆུང་ལྡེབ་ནི། ཨོམ་ཤུབས་དབྱེ་ནི་ཡང་ན་ཐིག་ཁྲི་གྲ་སྒྲིག་འབད་ནི། [Sort together](/games/sort-together/) འདི་གློག་ཐོག་གི་ཐོན་རིམ་ཨིན།
+3. **ཁོང་ལུ་དགའ་མི་སྐོར་ལས་ཁ་བརྡ་བརྐྱབ།** [Conversation cards](/games/conversation-cards/) ནང་ལན་ངེས་ཅན་མེད་པའི་དྲི་བ་ཚུ་ཡོད།
+4. **རོལ་དབྱངས། འགྲུལ་བཞུད་ཐུང་ཀུ་ཡང་ན་ཟས་ཕྲུག།** National Institute on Aging གིས་དོ་སྣང་སོར་ནིའི་ལས་སླ་པོའི་ཐབས་ལམ་ནང་འདི་ཚུ་བཀོད་ཡོད།
+5. **ཞི་འཇམ་གྱི་དུས་ཚོད་ཐུང་ཀུ།** མཉམ་དུ་སྡོད་དེ་སྒེའུ་ཁུང་ཕྱི་ཁར་བལྟ། ཡང་ན་མཉམ་དུ་ [calm breathing](/games/calm-breathing/) འབད་གནང་།
 
-If they return to the question, answer it again, kindly. That is fine.
+ཁོང་དྲི་བ་དེ་ལུ་ལོག་འོང་བ་ཅིན། བྱམས་པོ་སྦེ་ལོག་ལན་འདེབས། དེ་ལེགས་ཤོམ་ཨིན།
 
-## Look for patterns
+## རྒྱུན་རིམ་ལུ་བལྟ།
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association གིས་དྲི་བ་ཚུ་ཉིནམ་གྱི་དུས་ཚོད་ངེས་ཅན་ཅིག་ལུ། མི་ངེས་ཅན་ཅིག་གི་སྐོར་ལུ་ཡང་ན་ས་ཁོངས་ངེས་ཅན་ཅིག་ནང་འབྱུང་ག་མི་འབྱུང་བལྟ་ནི་ལུ་སླབ་ཨིན། མགྲོན་པོ་འོང་ནིའི་ཧེ་མ་ལུ་ཡང་ན་ཕྱི་དྲོ་ཤུལ་མམ་ལུ་འགོ་བཙུགས་པ་ཅིན། མགྲོན་པོའི་སྐོར་ལས་ཡི་གུ་ཅིག རྒྱུས་མངའ་ཡོད་པའི་ལས་འགུལ་ཅིག་གྲ་སྒྲིག་འབད་བཞག་ནི་ཡང་ན་ཞི་འཇམ་གྱི་ཁངམི་ཅིག་ནང་སྡོད་ནི་ལྟ་བུ་སྔོན་ལས་གྲ་སྒྲིག་འབད་ཚུགས། དགོང་མོ་དཀའ་ཤོས་ཨིན་པ་ཅིན་ [ཕྱི་དྲོ་ཤུལ་མམ་གྱི་ཞི་འཇམ་ལས་འགུལ་](/caregiving/late-day-restlessness/) གྱི་ལམ་སྟོན་འདི་ཕན་ཐོགསཔ་འོང་།
 
-## Take care of yourself
+## ཁྱོད་རང་གི་བདག་སྐྱོང་འབད།
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+དྲི་བ་གཅིག་པ་ཉི་ཤུ་པའི་ཐེངས་ལུ་ལན་འདེབས་ནི་འདི་ངལ་གསོ་ཆེ། ཁྱོད་ཀྱི་བཟོད་བསྲན་མེདཔ་འགྱོ་དོ་ཚོར་བ་ཅིན་དང་ཁོང་ཉེན་སྲུང་འོང་པ་ཅིན། [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) གིས་སླབ་མི་བཟུམ་སྐར་མ་གཅིག་གཉིས་ཀྱི་དོན་ལུ་ཁངམི་གཞན་ཅིག་ནང་འགྱོ་ཞིནམ་ལས་དབུགས་རིངམ་སྦེ་བཏང་གནང་། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) གིས་བདག་སྐྱོང་པ་ཚུ་ལུ་གྲོགས་རམ་ཞུ་ནི་དང་ངལ་གསོའི་བདག་སྐྱོང་ཞུ་ནི་ལུ་སླབ་ཨིན། བསམ་འཆར་ཁ་གསལ་ཚུ་ [བདག་སྐྱོང་པའི་བདག་སྐྱོང་ལམ་སྟོན་](/caregiving/caregiver-self-care/) ནང་ཡོད།
 
-## When should I call a doctor?
+## ནམ་སྨན་པ་ལུ་འབྲེལ་དགོཔ་ཨིན་ན།
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+དྲི་བ་འདྲི་ནི། མགོ་འཐོམ་ནི་ཡང་ན་སྤྱོད་པ་འདི་ལོག་ལས་སྡུག་ཁ་འབྱུང་བ་ཅིན་ཡང་ན་ཆུ་ཚོད་དང་ཉིནམ་གུང་གི་ནང་མགྱོགས་དྲགས་སྦེ་ཚབས་ཆེར་འགྱོ་བ་ཅིན་མགྱོགས་པར་སྨན་པ་ལུ་འབྲེལ་ཞིག། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) གིས་ལྷག་པར་དུ་ནད་འབུ་ཡང་ན་སྨན་བསྒྱུར་བཅོས་ཀྱི་ཤུལ་ལས་སྡུག་ཁ་ལོག་འབྱུང་ནི་ཡང་ན་མགྱོགས་དྲགས་སྦེ་འགྱུར་བ་འབྱུང་བ་ཅིན་སྨན་པ་ལུ་དེ་འཕྲོས་ལས་སླབ་དགོ་ཟེར་སླབ་ཨིན། [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) གིས་ནད་འབུ། སྨན། ཆུ་ཉུང་མི། ན་ཚ་ཡང་ན་བདེ་ཁང་མི་འགྲོ་བ་འདི་གིས་ལོག་ལས་མགྱོགས་པར་སྨན་བཅོས་དགོ་པའི་མགོ་འཐོམ་ནི་ཚབས་ཆེན་པོ་ཅིག་བྱུང་ཚུགས་ཟེར་འགྲེལ་བཤད་རྐྱབ་ཨིན། གལ་སྲིད་མི་གང་རུང་ལུ་ཉེན་ཁ་ཡོད་པ་ཅིན་ ༡༡༢ ལུ་འབྲེལ་ཞིག།

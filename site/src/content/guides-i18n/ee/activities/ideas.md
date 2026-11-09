@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Dɔwɔwɔwo na ame siwo le agbe kple tagbɔdzedze ƒe kuxi: Susu 101 bɔbɔewo"
+seoTitle: "Tagbɔdzedze ƒe dɔwɔwɔwo: Susu 101 bɔbɔewo"
+description: "Dɔwɔwɔ bɔbɔe 101 siwo sɔ na ame tsitsi siwo le agbe kple tagbɔdzedze ƒe kuxi, tso avɔ ŋlɔŋlɔ dzi va ɖo ha kple foto dzi, kple alesi woatrɔ wo ne nuwo sesẽ wu."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Dɔwɔwɔ nyuiwo na ame siwo le agbe kple tagbɔdzedze ƒe kuxi nye esiwo wonya,
+  siwo sɔ na ame tsitsi eye woate ŋu awɔ ɖekae: avɔ ŋlɔŋlɔ, nuwo mama, nuɖaɖa,
+  ha sese, foto kpɔkpɔ, azɔlizɔzɔ, abɔ me dɔwɔwɔ, lãwo gbɔ nɔnɔ kple fefe
+  bɔbɔewo. Tia nu si ame la lɔ̃na ɣesiaɣi, wɔ akpa sesẽawo nɛ, eye nètɔ te ne
+  eŋe. Ɣeyiɣi nyui si miano ɖekae le vevie wu be miawu nu aɖe nu.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Dze egɔme tso ame la ŋutɔ ƒe agbe me: eƒe dɔ, modzakaɖenuwo, xɔse kple ha siwo wòlɔ̃na ye nye mɔfiala nyuitɔ."
+  - "Wɔ dɔwɔwɔ ɖesiaɖe sue wu ne ehiã: afɔɖeɖe ʋɛ aɖewo, tiatia ʋɛ aɖewo, eye nàwɔ akpa sesẽa nɛ."
+  - "Kpɔkpɔ, nu aɖe léle asi alo nɔnɔ anyi le egbɔ ko hã nye gomekpɔkpɔ."
+  - "Tɔ te alo trɔ ɖe nu bubu ŋu ne èkpɔ ŋeŋe, dzigbãnya alo nuɖiɖi. Tɔtete kaba nye nu nyui."
+  - "Miawɔe ɖekae le vevie wu be miawɔe nyuie."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Dɔwɔwɔ kawoe nyo na ame si le agbe kple tagbɔdzedze ƒe kuxi?"
+    a: "Dɔwɔwɔ siwo ame la nya tso ƒe geɖe, siwo wowɔ bɔbɔe vie: avɔ ŋlɔŋlɔ, kplɔ̃ ɖoɖo, nuɖaɖa, ha sese, foto kpɔkpɔ, azɔlizɔzɔ, abɔ me dɔwɔwɔ kple lã aɖe gbɔ nɔnɔ. Tia nu siwo wòase le eɖokui me be yesɔ na ame tsitsi eye wonyo, eye miawɔ wo ɖekae."
+  - q: "Ɣeyiɣi didi ka dzie dɔwɔwɔ aɖe nate ŋu anɔ?"
+    a: "Ɣeyiɣi si sɔ tututu aɖeke meli o. Aɖabaƒoƒo ʋɛ aɖewo siwo woatsɔ aŋlɔ avɔ ɖekaɖekawo ate ŋu asɔ gbe ɖeka, eye gaƒoƒo ɖeka le abɔ me ate ŋu anɔ bɔbɔe gbe bubu. Na ame la naɖo eya ŋutɔ ƒe du, eye miatɔ te esime wògakpɔtɔ le vivim nɛ."
+  - q: "Nukae mawɔ ne ame la gbe be yemawɔ dɔwɔwɔ aɖe o?"
+    a: "Mègazi edzi o. Gbeɖeɖe ate ŋu afia be dɔa sesẽ akpa, ɣeyiɣia mesɔ o, alo eŋe alo nu mele nɛ nyuie o. Gbugbɔ tee emegbe, tsɔ eƒe akpa sue aɖe nɛ, alo dze dɔa gɔme nàtsɔ le egbɔ eye nàkpee be wòakpe ɖe ŋuwò."
+  - q: "Susu ƒe fefewo nyoa ame siwo le agbe kple tagbɔdzedze ƒe kuxi ŋua?"
+    a: "Fefewo ate ŋu anye mɔ nyui aɖe si dzi miato anɔ ɣeyiɣi zãm ɖekae, gake womeɖee fia kpɔ be fefe aɖe daa tagbɔdzedze ƒe kuxi, ɖea edzi kpɔtɔna alo tɔa enu o. Tia fefewo siwo me gaƒoɖokui, dzesi kple gbe siwo fia vodada mele o, eye nàkpɔ wo abe dɔwɔwɔ si miawɔ ɖekae ene, menye dodokpɔ o."
+  - q: "Aleke mawɔ be dɔwɔwɔwo nagadze abe ɖeviwo tɔ ene o?"
+    a: "Zã nu ŋutɔŋutɔ siwo sɔ na ame tsitsi: avɔ ŋutɔŋutɔ, nuɖaɖa ƒe mɔfiame ŋutɔŋutɔ, ame tsitsiwo ƒe ha kple nutata ƒe nuwo, kple foto siwo ƒe nyawo sɔ na ame tsitsi. Ƒo nu tso dɔawo ŋu abe kpekpeɖeŋu si nèhiã ŋutɔŋutɔ ene, eye nàƒo nu na ame la abe ame tsitsi si wònye ene."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Dɔwɔwɔ nyuitɔ na ame si le agbe kple tagbɔdzedze ƒe kuxi zi geɖe nye nu si wònya xoxo, si wowɔ bɔbɔe vie eye wòwɔe kple ame si dzi wòka ɖo. Le ete la, susu 101 le afisia, woma wo ɖe ƒomeviwo me, eye woɖe alesi woaɖoe kple alesi woawɔe bɔbɔe wu ne esesẽ la me na ɖesiaɖe. Mèhiã dɔwɔnu tɔxɛwo o, eye mehiã be miawu nu aɖeke nu hã o. ŋdɔ nyui aɖe ate ŋu anye avɔ ɖekaɖeka aɖewo ŋlɔŋlɔ kple kɔfi nono ɖekae.
 
-## How do you choose the right activity?
+## Aleke nàtia dɔwɔwɔ si sɔ?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Tia dɔwɔwɔ ɖe ame la ŋu, menye ɖe xexlẽdzesiwo ŋu o: dze egɔme tso nu si wòlɔ̃na ɣesiaɣi kple nu si wòate ŋu awɔ bɔbɔe egbea dzi.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Bu eƒe dɔ kple modzakaɖenuwo ŋu.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gblɔ be ame si wɔ dɔ le dɔwɔƒe tsã ate ŋu akpɔ dzidzɔ le gaƒomeviwo mama alo lɛtawo ƒoƒo ƒu me, eye ame si dea abɔ ate ŋu akpɔ dzidzɔ le abɔ me dɔwɔwɔ me.
+- **De dzesi nu si wòwɔna xoxo.** Ne fofowò kplɔa akpata le ŋdi sia ŋdi evɔ womebiae o la, tsɔe de ŋkeke ƒe ɖoɖo me.
+- **Ðo ɖe nu siwo sesẽ nɛ ŋu.** Ŋeŋe, ŋku ƒe nukpɔkpɔ, toɖoɖo, asi ƒe vevesese kple tsitretsitsi katã le vevie.
+- **Kpɔ eƒe nɔnɔme ɖa.** Dɔwɔwɔ siwo me ʋunyaʋunya kple hoowɔwɔ le sɔ na ame aɖewo, gake woɖoa vɔvɔ̃ na ame bubuwo.
+- **Na taɖodzinu wòanɔ eŋu.** Avɔ ŋlɔŋlɔ na sɔlemeha ƒe nuɖuƒe ƒe nuwɔna sena le ame ɖokui me be ele vevie wu kamedede aɖe ko.
 
-### A rough guide by stage
+### Mɔfiame kpui aɖe le afɔɖeɖeawo nu
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Zi geɖe wogblɔna be tagbɔdzedze ƒe kuxi toa gɔmedzedze, titina kple nuwuwu ƒe afɔɖeɖewo me. Esiawo nye ŋkɔ bɔbɔewo ko, menye aɖaka siwo me woade amewo o, eye ame geɖewo ƒe ŋkekewo nyona alo sesẽna, eyata wɔ ɖe nu si nèkpɔ egbea dzi. [Alzheimer's Foundation of America ƒe xexlẽdzesi le afɔɖeɖeawo nu](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) hã toa mɔ ma tɔgbi.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Nyati | Gɔmedzedze ƒe afɔɖeɖe | Titina ƒe afɔɖeɖe | Nuwuwu ƒe afɔɖeɖe |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Nu si nàte ŋu akpɔ | Ate ŋu awɔ nu geɖe le eɖokui si; ɖoɖowɔwɔ, ŋkɔ yeyewo kple teƒe siwo me amewo sɔ gbɔ le sesẽna | Ehiã kpekpeɖeŋu be wòadze egɔme kple afɔɖeɖewo; nyawo gbɔgblɔ sesẽna | Ehiã kpekpeɖeŋu le gbesiagbe beléle ƒe akpa gãtɔ me; nu siwo wòsea, kpɔna, seʋeʋĩ sena le vevie wu |
+| Dɔwɔwɔ siwo ate ŋu asɔ | Kaɖiwo, kplɔ̃ dzi fefewo, nuɖaɖa, abɔ me dɔwɔwɔ, nuŋɔŋlɔ, gododo, habɔbɔwo | Avɔ ŋlɔŋlɔ, nuwo mama, nuɖaɖa ƒe afɔɖeɖe bɔbɔewo, hadzidzi, foto ƒe agbalẽwo, azɔlizɔzɔ kple mɔfiafia | Ha siwo wòlɔ̃na, asi ƒe amimɔ, nu bɔbɔe siwo woalé asi, nu xlẽxle nɛ, anyinɔnɔ le gota |
+| Wò akpa | Mɔzɔhati: bia kpekpeɖeŋu si wòdi | Ðoe, fiae, wɔ akpa sesẽawo nɛ | Tsɔ dɔwɔwɔa va egbɔ; wò anyinɔnɔ le egbɔ ye nye dɔwɔwɔa |
+| Susu bubuwo | [Gɔmedzedze ƒe afɔɖeɖe](/activities/early-stage/) | [Titina ƒe afɔɖeɖe](/activities/middle-stage/) | [Nuwuwu ƒe afɔɖeɖe](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Aleke nàdze dɔwɔwɔ gɔme kple ame si le agbe kple tagbɔdzedze ƒe kuxi?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Dze egɔme sue, dze egɔme le egbɔ, eye nàna wòanɔ bɔbɔe be wòalɔ̃. Ame geɖewo gakpɔtɔ dina be yewoakpɔ gome, gake ɖoɖowɔwɔ alo gɔmedzedze sesẽna na wo.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Tia ɣeyiɣi si nyo nɛ wu,** zi geɖe ŋdi mee.
+2. **Ðo nu sia nu ɖi do ŋgɔ** ale be miate ŋu adze egɔme enumake.
+3. **Bia kpekpeɖeŋu, menye dɔwɔwɔ ƒe dodokpɔ o:** „Àte ŋu akpe ɖe ŋunye le esiawo ŋua?”
+4. **Dze egɔme wò ŋutɔ.** Ŋlɔ avɔ gbãtɔ eye nàna wòakpɔ gome. Nu fiafia nyo wu ɖeɖeme.
+5. **Tsɔ afɔɖeɖe ɖeka nɛ ɣesiaɣi.**
+6. **Wɔ akpa sesẽtɔ.** Alzheimer's Association gblɔ be nàdzidze nuawo wò ŋutɔ, emegbe nàtsɔ agatsi nɛ be wòatɔtɔ.
+7. **Na wòawɔe le eya ŋutɔ ƒe mɔ nu.** Ne wòŋlɔ avɔawo le mɔ bubu nu hã meɖea fu o.
+8. **Tɔ te ne meganyo o.** Aʋatsotso, mo ƒe vɔvɔ̃ alo „Nyemate ŋui o” fia be miatrɔ nu alo miaɖi ɖe eme.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Kpɔ hã [alesi miawɔe ɖekae](/caregiving/how-to-play-together/) kple [kadodo ƒe aɖaŋuɖoɖowo](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Gbesiagbe dɔwo le aƒe me
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Aƒe me dɔwo nye nu siwo wonya eye wonyo, eyata wonye teƒe nyui aɖe si woatso adze egɔme. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yɔ agba kɔkɔ, kplɔ̃ ɖoɖo, akplɔkplɔ, lɛtawo mama kple avɔ ŋlɔŋlɔ be wonye dɔwɔwɔ siwo ate ŋu adzɔ dzi na amewo. Kpɔ nu bubuwo le [aƒe me dɔwo](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Ŋlɔ avɔ dzodzoewo.** Tsɔ kusia si me avɔ le tso avɔƒomɔ̃ me da ɖe kplɔ̃ dzi eye miaŋlɔ wo ɖekae. Emegbe, wo ɖɔliɖɔli kple wo tɔtɔ hã nye kpekpeɖeŋu.
+2. **Tsɔ afɔkpa eve eve ƒo ƒu.** Dze egɔme kple amadede siwo to vovo ŋutɔ. Emegbe, wo mama ɖe ɣie kple yibɔ me sɔ gbɔ.
+3. **Ðo kplɔ̃.** Tsɔ nu ƒomevi ɖeka nɛ ɣesiaɣi. Ðo teƒe ɖeka wò ŋutɔ abe kpɔɖeŋu ene.
+4. **Kɔ agba alo tsi wo nu.** Tsi dzodzoe kple adzalẽ, kple agba siwo megbãna o. Agba ƒe nutsitsi esime wònɔ anyi le bɔbɔe na afɔwo.
+5. **Tutu kplɔ̃a.** Tsɔ avɔ fafɛ nɛ le nuɖuɖu megbe. Enye dɔ ŋutɔŋutɔ na asi siwo medi be yewoatsi akpo o.
+6. **Ma lɛtawo.** Tsɔ agbalẽ kple lɛta siwo mehiã o de „dzra ɖo” kple „gbugbɔ zã” ƒe akpawo me. Mègatsɔ lɛta ŋutɔŋutɔ siwo ku ɖe ga ŋu de eme o.
+7. **Lã kuponwo.** Zã he si ƒe nugbɔ le kɔkɔe kple nuƒle ƒe agbalẽwo. Emegbe, nuɖuɖu siwo wòlɔ̃na ƒo xlã hã nyo.
+8. **Ma gaƒomeviwo.** Ma ga suewo de kpluwo me alo tsɔ wo de agbalẽviwo me. Ne ame la tsɔa nuwo dea nu me la, mègawɔ nu suewo ŋu dɔ o.
+9. **Kplɔ nu alo tutu ʋuʋudedi.** Zã akplɔ falɛfalɛ le akpata dzi, alo zã ʋuʋudeditutunu didi esime wònɔ anyi.
+10. **Kpe ɖe nuɖaɖa ŋu.** Amagbewo kɔklɔ, ama lɛtatɔwo ɖeɖe, nuwo tɔtɔ. Wò ya nàlé ŋku ɖe he kple dzo ŋu.
+11. **Ða ƒomea ƒe nuɖuɖu aɖe.** Zã agbalẽvi si dzi wòŋlɔ nu ɖo le eya ŋutɔ si me ne ɖe wòli. Emegbe, ate ŋu anye ame si aɖɔe akpɔ.
+12. **Wɔ dɔwɔƒe ƒe dɔ suewo.** Ŋlɔ lɛtawo, tsɔ wo de agbalẽkotokuwo me, de nutata wo dzi, alo miaŋlɔ nuƒle ƒe xexlẽdzesi ɖekae.
 
-## Music
+## Ha
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Ha siwo wonya ate ŋu aɖo ame geɖewo gbɔ gɔ̃ hã ne nyawo gbɔgblɔ sesẽ. [Alzheimer's Association ƒe ha ƒe aɖaŋuɖoɖowo](https://www.alz.org/help-support/caregiving/daily-care/art-music) gblɔ be woatia ha siwo wonya, woaɖe boblododoawo ɖa eye woatsi television la. Kpɔ [ha ƒe dɔwɔwɔwo](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Wɔ ha ƒe xexlẽdzesi si sɔ nɛ.** Ha siwo tso eƒe ɖekakpuime kple ƒe blaeveawo me, eƒe srɔ̃ɖeŋkeke, eƒe sɔlemeha kple eƒe dekɔnu.
+14. **Dzi ha kplii.** Dze hadzidzi gɔme wò ŋutɔ. Ha ɖoɖo ɖi alo toɖoɖo hã nye gomekpɔkpɔ.
+15. **Lé hadzidzia ƒe ɖoɖo me ɖe asi.** Ƒo asikpe, ƒo asi ɖe ata dzi alo ƒo asi ɖe ʋu sue dzi. Enyo esime wònɔ anyi eye le nuwuwu ƒe afɔɖeɖe hã.
+16. **Ðu ɣe.** Ðu ɣe blewu le nuɖukplɔ̃a xa, alo miaʋuʋu blewu esime mienɔ anyi eye mielé asi.
+17. **Se ha ƒe agbalẽ blibo ɖeka.** Se ha si wòlɔ̃na tso gɔmedzedzea va se ɖe nuwuwu, kple kɔfi eye naneke bubu manɔ edzi yim o.
+18. **Ƒo nu tso haa ŋu.** Kpee be wòagblɔ ŋutinya, menye nyatakakawo o: „Gblɔ ɣeɖuɖu siwo nèyina tsã la ŋu nya nam.”
+19. **Kpɔ haƒoƒo alo ɖeɖefia si woɖe video.** Fiafia si wòlɔ̃na ate ŋu ana fiẽ aɖe nanyo. Miate ŋu atɔ te ɣesiaɣi.
+20. **ƒo haƒonu si wònya.** Ame si ƒoa piano tsã ate ŋu akpɔ dzidzɔ le ha bɔbɔewo ŋu; emegbe, gbeɖiɖi ʋɛ aɖewo ɖekae.
+21. **Se ha le agbe me.** Yi haƒoƒo kpui aɖe le nutoa me alo hadzihawo ƒe hehexɔxɔ. Nɔ anyi ɖe teƒe si te ɖe mɔa ŋu.
 
-## Reminiscence: photos, objects and stories
+## Ŋkuɖoɖo ɣeyiɣi siwo va yi dzi: foto, nuwo kple ŋutinyawo
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Mikpɔ dzidzɔ ɖe ɣeyiɣi siwo va yi ŋu ɖekae evɔ miedoe kpɔe o. Mègabia be „Èɖo ŋku... dzia?” alo „Ame kae nye esia?” o, ke boŋ zã kpekpe siwo le ʋuʋu. Kpɔ [ŋkuɖoɖo ƒe dɔwɔwɔwo](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Kpɔ foto ƒe agbalẽwo me.** Gblɔ nu si nèkpɔ: „Awu sia nya kpɔ ŋutɔ. Gblɔ ŋkeke sia ŋu nya nam.” Lɔ̃ ɖe ŋkɔ ɖesiaɖe si wòzã dzi.
+23. **Wɔ ŋkuɖodzinu ƒe aɖaka.** Afɔkpa ƒe aɖaka si me nu siwo tso eƒe agbe me le, abe dɔwɔƒe ƒe dzesi alo nuɖaɖa ƒe agbalẽvi ene. Tsɔ nuawo do goe ɖekaɖeka.
+24. **Dze agbe ŋutinya ƒe agbalẽ gɔme.** Foto ʋɛ aɖewo le axa ɖesiaɖe dzi kple ŋɔŋlɔdzesi gãwo. Ekpena ɖe kpeɖeŋutɔ yeyewo ŋu be woanya ame la nyuie wu.
+25. **Zã dzeɖoɖo ƒe kaɖiwo.** [Dzeɖoɖo ƒe kaɖiwo](/games/conversation-cards/) tsɔa foto kple biabia si le ʋuʋu ƒoa ƒu.
+26. **Wɔ ƒomea ƒe foto ƒe fefe.** [Foto ƒe eveve](/games/photo-pairs/) trɔa mia ŋutɔ miaƒe fotowo wozua fefe si me woatsɔ nu eve eve asɔ kple wo nɔewo.
+27. **Kpɔ aƒe me video alo television xoxo.** Miƒo nu tso eŋu ɖekae evɔ miebia nya aɖeke o.
+28. **Lé nu siwo tso eƒe dɔwɔƒe ƒe agbe me asi.** Gaƒoƒonu, atikewɔla ƒe todonu, alo akɔntabubu ƒe agbalẽ. Zi geɖe asiwo kplɔa ŋutinya la vɛ.
+29. **Ða ɖevime nuɖuɖu aɖe.** Ate ŋu atɔtɔe, aɖɔe akpɔ alo anɔ anyi ko le nuɖukplɔ̃a me kpli wò.
+30. **Kpɔ teƒe siwo wònɔ ƒe anyigbatata.** Trɔ mɔ siwo wònya le anyigbatata gã aɖe dzi esime mieɖoa dze.
 
-## Creative activities
+## Nutata kple asinudɔwɔwɔwo
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Nutata kple asinudɔwɔwɔ ku ɖe wɔwɔ ŋu, menye nu si wowu enu ŋu o. Na nuawo nasɔ na ame tsitsi eye woanɔ dedie. Kpɔ [nutata kple asinudɔwɔwɔwo](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Ta nɔnɔmetata kple tsi amadede.** Pepa titri, amadede ʋɛ aɖewo. Ne gɔmedzedze sesẽ la, mido asi ɖekae le fli gbãtɔwo me.
+32. **De amadede ame tsitsiwo ƒe nɔnɔmetatawo.** Sewo alo avɔlɔlɔ̃ ƒe nɔnɔmewo, menye ɖeviwo ƒe nɔnɔmetatawo o. Míaƒe [amadede ƒe axawo](/games/coloring/) wɔa dɔ le mɔ̃ dzi alo ne woŋlɔ wo ɖe agbalẽ dzi.
+33. **Wɔ foto ƒe ƒuƒoƒo.** Vuvu abɔwo, ʋuwo alo nuɖuɖuwo ƒe fotowo le magazinewo me eye nàlé wo ɖe te. Emegbe, fotoawo tiatia ko hã sɔ gbɔ.
+34. **Ðo seƒoƒowo.** Seƒoƒo siwo woƒle le fiase kple ze. Emegbe, ati sue ʋɛ aɖewo le ze sue aɖe me.
+35. **Lɔ avɔ alo wɔ kroše ɖekae.** Fli bɔbɔewo kple abui gãwo. Emegbe, ka ƒoƒo ƒu wòazu bɔl.
+36. **Wɔ kaɖiwo na ƒometɔwo.** De dzesi, de asi alo ɖo dzigbezã kple hayahaya ƒe kaɖiwo na ame ŋutɔŋutɔwo.
+37. **Me anyi ƒuƒu.** Me agba sue aɖe. Zã nu siwo meɖea afɔku o eye nànɔ egbɔ.
+38. **Tutu ati alo ɖoe ɖe ɖoɖo nu.** Xevi ƒe aƒe sue si wotso do ŋgɔ kple atitutunu, mègazã elektrikmɔ̃wo o. Kpɔ [dɔwɔwɔwo na ŋutsuwo](/activities/for-men/).
+39. **Ŋlɔ lɛta alo gblɔe be woaŋlɔe.** Na tɔgbuiyɔvi alo xɔlɔ̃ xoxo aɖe. Ne nuŋɔŋlɔ sesẽ la, eƒoa nu eye wò ŋutɔ nèŋlɔnɛ.
 
-## Outdoors and gardening
+## Gota kple abɔ me dɔwɔwɔ
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Ya fafɛ kple ŋkeke ƒe kekeli nye hadede nyui. Kpɔ [gota kple abɔ me dɔwɔwɔwo](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **De tsi numiemiewo.** Ze sue aɖe kple kplu ʋɛ aɖewo. Gbesiagbe tsidede nana ɖoɖo nɔa ŋkeke la ŋu.
+41. **Do nu ɖe kplu me.** Tsɔe da ɖe kplɔ̃ dzi ale be ame aɖeke madze klo o. Ati sue siwo do xoxo le bɔbɔe wu nukuwo.
+42. **Ho gbe vɔ̃ɖiwo alo ɖe seƒoƒo siwo ku.** Do asigawo eye nàwɔ akpa sue ɖeka ɣesiaɣi.
+43. **Kplɔ aŋgbawo.** Akpa sue ɖeka ko. Emegbe, kotoku la léle be woaʋui hã nye dɔ ŋutɔŋutɔ.
+44. **Zɔ mɔ si wonya.** Tso aƒe ŋu va zɔ alo yi lɛtaɖaka la gbɔ. Ne wòle kpuie hã meɖea fu o.
+45. **Nɔ anyi ɖe gota ɖekae.** Nɔ anyi ɖe akpata dzi le ŋkeke fafɛ aɖe dzi. Mikpɔ alilikpowo alo amewo siwo le yiyim.
+46. **Na nuɖuɖu xeviawo.** Miɖo nuɖuɖu xevi ƒe ze me ɖekae eye miakpɔ wo tso fesre gbɔ.
+47. **Kɔ ʋu.** Ze, sponge, kple ŋdɔdzidzɔ ƒe ya fafɛ. Tasiaɖam ƒe ɣlidodowo kɔklɔ nye dɔ bɔbɔe si wòate ŋu awɔ afɔɖeɖe ɖeka me.
 
-## Sensory activities
+## Dɔwɔwɔ siwo ku ɖe seselelãmewo ŋu
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Asikaka, ʋeʋẽse, nuɖuɖu ƒe vivi, toɖoɖo kple nukpɔkpɔ va zua nu veviwo wu ne tagbɔdzedze ƒe kuxia le yiyim. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yɔ ha, nu siwo woalé asi kple asi ƒe amimɔ be wonyo le afɔɖeɖe siwo va emegbe. Kpɔe ɖa be nu aɖe medea dɔ lãme nɛ alo ate ŋu ami nu o hafi; kpɔ [seselelãme ƒe dɔwɔwɔwo](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Mi asi nɛ blewu.** Bia gbã eye nàzã ami sue aɖe. Ne mèka ɖe ŋutigbalẽ alo nu siwo dea dɔ lãme dzi o la, zã esi meʋẽna o.
+49. **Lé avɔ ƒomeviwo asi.** Kusia si me avɔ bɔbɔe, avɔ titri kple avɔ siwo le gbadzaa le be woalé wo asi.
+50. **Se amagbe ʋeʋĩ kple kɔfi.** Mimi gbemifɔli alo rosemary yeye le wò asibidɛwo dome. Ne gbɔgbɔgbɔgblɔ sesẽ la, mègazã ʋeʋẽ sesẽwo o.
+51. **Kplɔ eƒe ɖa.** Blewu eye fafɛ, ne edzɔa dzi nɛ.
+52. **Mina avɔ dzodzoe.** Na asi kple mo le ŋkeke fafɛ aɖe dzi. Do dzoxɔxɔa kpɔ gbã.
+53. **Kpɔ dɔwɔwɔ ƒe awu me.** Abui gãwo kple zipo siwo wolɔ̃ ɖe edzi nyuie. Kpɔe ɖa be naneke mate ŋu aɖe ɖa o.
+54. **Mi nu vivi si wòlɔ̃na.** Agatsi sue ɖeka, le nɔnɔme si wòate ŋu aɖu dedie me.
+55. **Se dzɔdzɔmenuwo ƒe ɖiɖi.** Tsi, ƒutsotsoewo alo xeviwo ƒe hadzidzi le gbeɖiɖi bɔbɔe aɖe me.
+56. **Kpɔ nu si le yiyim blewu.** Tɔmelã ƒe agba, dzɔdzɔmenuwo ƒe video alo sno si le dzadzam.
 
-## Games and puzzles
+## Fefewo kple susu ƒe dɔwo
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Fefewo wɔa dɔ ne gaƒoɖokui, dzesi alo nyaƒoɖeamenu aɖeke mele wo me o. Ne ɖeka dze abe dodokpɔ ene la, tsɔe da ɖi. Kpɔ [alesi nàtia dɔwɔɖoɖowo kple fefewo](/caregiving/choosing-apps-and-games/) kple [susu ƒe fefewo](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Tsɔ fotowo sɔ kple wo nɔewo.** [Foto ƒe eveve](/games/picture-pairs/) nana fotowo nɔa anyi woƒe ŋkume le dzi, eyata eku ɖe dzesidede ŋu, menye ŋkuɖoɖo o.
+58. **Di foto ma ke.** [Di foto ma ke](/games/find-the-same/) naa tiatia eve va ɖo ene. Miƒo nu tso foto ɖesiaɖe ŋu.
+59. **Ma nuwo de kusiawo me.** [Mama ɖekae](/games/sort-together/) le abe afɔkpa mama le mɔ̃ dzi ene.
+60. **Wɔ foto ƒe fefe gã aɖe.** Foto siwo sɔ na ame tsitsi, kple akpa siwo mesɔ gbɔ o. [Foto ƒe fefe](/games/picture-puzzle/) nana foto bliboa nɔa anyi woakpɔna. Kpɔ nu bubuwo le [tagbɔdzedze ƒe kuxi ƒe fotofefeawo](/activities/puzzles/).
+61. **Ƒo kaɖi ƒe fefe xoxo aɖe.** Nu si wòƒona ƒe geɖe. Emegbe, kaɖiawo mama ɖe amadede nu hã nye fefe.
+62. **Ƒo domino.** Tsɔ nuwuwuawo sɔ kple wo nɔewo. Emegbe, wo ɖoɖo ɖe fli me ko hã nyo.
+63. **Te nya didi si ƒe ŋɔŋlɔdzesiwo lolo kpɔ.** Míaƒe [nya didi](/games/word-search/) ƒe nyawo le tsia dzi kple to me ko, eye woate ŋu aŋlɔe ɖe agbalẽ dzi.
+64. **Wu lododo siwo wonya nu.** [Wu lododoa nu](/games/finish-the-saying/) nana nàte ŋu afia nuwuwua ɣesiaɣi.
+65. **Ƒo foto ƒe bingo.** [Foto ƒe bingo](/games/picture-bingo/) sɔ na ƒomewo kple ƒuƒoƒowo. Kpe ɖe wo ŋu woade dzesi kaɖiawo dzi faa.
+66. **Ƒo damawo.** Mègawɔ seawo sesĩe akpa o. Fefea ƒe akpawo ʋuʋu esime mieɖoa dze hã nye gomekpɔkpɔ.
 
-## Movement
+## Ʋuʋu
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA gblɔ be azɔlizɔzɔ, gasɔ si tsi tsitre, kekeme ƒe ka, bɔl alo balon fafɛ ƒoƒo, detsi ƒe gaƒoƒowo kɔkɔ kple kamedede ƒe video na ame tsitsiwo ate ŋu anyo. Bia atikewɔla hafi nàdze nu yeye aɖe gɔme, vevietɔ ne tsitretsitsi sesẽna.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **ƒo balon.** Mi nɔewo ŋkume esime mienɔ anyi. Eʋuʋuna blewu, eyata eléle le bɔbɔe.
+68. **Wɔ ɖe kamedede ƒe video dzi** si wowɔ na ame tsitsiwo, esime mienɔ anyi ɖekae.
+69. **Keke wò ɖokui kple ka.** He asiwo blewu kple ka falɛfalɛ esime nènɔ anyi.
+70. **Kɔ detsi ƒe gaƒoƒowo.** Kɔ asiwo blewu, ɖewohĩ kple ha.
+71. **Do gasɔ si tsi tsitre.** Aɖabaƒoƒo ʋɛ aɖewo bɔbɔe, esime nènɔ egbɔ.
+72. **Ðu ɣe kple avɔ falɛfalɛwo.** Ʋuʋu avɔ falɛfalɛwo ɖe ha ŋu, esime nènɔ anyi alo nètsi tsitre.
+73. **Zɔ azɔli kple taɖodzinu.** Be nàɖo lɛta alo aƒle kɔfi. Susu aɖe si ta woazɔ la nana wòdzea abe nu dzɔdzɔme ene.
+74. **Miɖe eme blewu ɖekae.** Mibɔbɔ mia ɖokui anyi ɖekae kple [gbɔgbɔtsitsi fafɛ](/games/calm-breathing/).
 
-## Social activities
+## Hadede ƒe dɔwɔwɔwo
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Hadede le vevie gɔ̃ hã ne ŋkɔwo ɖoɖo sesẽ, eye ƒuƒoƒo suewo le bɔbɔe wu ƒuƒoƒo gãwo. NIA de dzesii be ame aɖe mate ŋu aɖo ŋku ame si va kpɔe dzi o, gake zi geɖe egakpɔa dzidzɔ ɖe hadedea ŋu. Kpɔ [amedzrodzedze](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Xɔ amedzro ɖeka alo eve ɖe ɣeyiɣi ɖeka me.** Amesrɔ̃kpɔkpɔ kpui aɖewo le xɔ si me ɖoɖoezizi mele o, kple foto siwo woakpɔ.
+76. **Ƒo ka na ƒometɔwo to video dzi.** Kaƒoƒo kpuiwo, gbe ɖeka ɣesiaɣi. Kpɔ [kaƒoƒo kple video ka](/activities/phone-and-video-calls/).
+77. **Te ŋkuɖoɖo ƒe kɔfiƒe aɖe kpɔ.** Wonye ƒuƒoƒo siwo me ɖoɖo sesẽ mele o na ame siwo le agbe kple tagbɔdzedze ƒe kuxi kple ame siwo le wo ŋu kpɔm. Bia mia gbɔ ƒe ametsitsiwo ŋu nyawo gbɔ kpɔƒe be teƒe kae le mia gbɔ.
+78. **Yi nuɖuƒe le ɣeyiɣi si me ɖoɖoezizi mele o.** NIA gblɔ be woatia nuɖuƒe si wonya eye ɖoɖoezizi mele eme o, le gaƒoƒo siwo me amewo mesɔ gbɔ o, kple kplɔ̃ si te ɖe nugododeƒe ŋu.
+79. **Yi ametsitsiwo ƒe takpekpeƒe alo ŋkeke me beléle ƒe ɖoɖo aɖe.** Enye hadede na wo eye wò ŋutɔ hã àkpɔ gbɔdzɔe vie.
+80. **Nɔ ɣeyiɣi kple ɖeviwo.** Amesrɔ̃kpɔkpɔ kpui kple fafɛ aɖe tso tɔgbuiyɔviwo gbɔ, alo foto ƒe agbalẽ xlẽxle na ɖevi sue aɖe.
+81. **Mina nyadzɔdzɔgbalẽa ɖekae le kɔfi nono me.** Xlẽ tanyaawo sesĩe. Nuwɔnaa ƒe ɖoɖo le vevie wu nyadzɔdzɔawo.
+82. **Kpe ɖe ame bubu ŋu.** Ŋlɔ sɔlemeha ƒe ɖoɖowɔɖiwo alo wɔ kaɖi na aƒelika aɖe.
 
-## Faith and spiritual activities
+## Xɔse kple gbɔgbɔmenuwo
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Wɔ ɖe ame la ŋutɔ ƒe kɔnu dzi, alo aɖeke o. NIA gblɔ be subɔsubɔ siwo wonya, nuxexlẽwo, kɔnu ƒe ha, gbedodoɖa, ŋugbledede kple azãɖuɖu ƒe kɔnuwo ate ŋu anyo.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **De subɔsubɔ si wonya.** Tia esi me ɖoɖoezizi mele o, nɔ anyi ɖe mɔa to, eye nàna ame siwo le afima nanya nu tso tagbɔdzedze ƒe kuxia ŋu.
+84. **Kpɔ subɔsubɔ le internet dzi** le ŋkeke siwo me gododo sesẽ akpa.
+85. **Do gbe ɖa alo xlẽ nu ɖekae.** Nya siwo wonya, xlẽ wo blewu. Ate ŋu akpɔ gome le akpa siwo wònya me.
+86. **Dzi sɔlemehawo alo kɔnu ƒe ha** siwo tso woƒe kɔnu me.
+87. **Lé azãɖuɖu ƒe kɔnuwo me ɖe asi.** Elektrik akaɖiwo, yayra, kple atsyɔ̃ɖonu siwo wòzãna ɣesiaɣi.
+88. **Miɖe ɣeyiɣi fafɛ ɖekae.** Nɔ anyi ɖe abɔ me alo mikpɔ ɣeɖoto ɖekae.
 
-## Pets and animals
+## Aƒemelãwo kple lãwo
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA gblɔ be aƒemelã nu nana, eƒe ɖa kplɔkplɔ, azɔlizɔzɔ kplii, alo anyinɔnɔ kplii kple eléle asi ate ŋu anyo.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Kplɔ avu alo dadi fafɛ aɖe ƒe ɖa** kple asi blewuwo.
+90. **Na nuɖuɖu aƒemelãa ɖekae.** Wò ŋutɔ nàdzidze nuɖuɖua; eya ya nàkɔe ɖe agba me.
+91. **Zɔ azɔli kple avua ɖekae.** Wò ŋutɔ nàlé ka la.
+92. **Lé aƒemelã aɖe ɖe ata dzi.** Dadi fafɛ aɖe le avɔ dzi ate ŋu ana dzi naɖo ame ƒo ŋutɔ.
+93. **Xɔ lã siwo wova kple wo.** Belélexɔ aɖewo kple ŋkeke me ɖoɖowo xɔa lãwo ƒe sasrãkpɔ. Bia le mia gbɔ.
+94. **Tsɔ lã bɔbɔe si le abe ŋutɔŋutɔ ene nɛ.** Ne aƒemelã aɖeke meli o la, ame aɖewo kpɔa dzidzɔ le dadi alo avu bɔbɔe si le abe ŋutɔŋutɔ ene léle me. Tsɔe nɛ bɔbɔe, menye abe fefenu ene o, eye nàlɔ̃ ɖe gbeɖeɖe dzi.
 
-## Seasonal activities
+## Ɣeyiɣi ƒe dɔwɔwɔwo
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Lé kɔnuwo me ɖe asi, gake wɔ wo bɔbɔe wu. NIA gblɔ be woabu nu ŋu nyuie eye woana teƒe fafɛ aɖe nanɔ anyi na gbɔdzɔe le azãɖuɣi siwo me vovo mele o.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Ðo atsyɔ̃ na ɣeyiɣia.** Akpaku, seƒoƒo ƒe kɔsɔkɔsɔ alo seƒoƒo yeyewo ɖe kplɔ̃ dzi.
+96. **Wɔ azãɖuɖu ƒe nu vivi aɖe.** Mlɔ amɔ alo tsɔ atike vivi si ami bɔlɔkewo. Wò ŋutɔ nàlé ŋku ɖe dzodoƒea ŋu.
+97. **De atsyɔ̃ɖonuwo.** Atsyɔ̃ɖonu siwo megbãna o, tsɔ wo nɛ ɖekaɖeka.
+98. **Do ʋu yi akaɖiwo kpɔ ge.** Fiẽ me ʋudoɖo kpui aɖe mebia naneke wu hadede o.
+99. **Do kele ƒe seƒoƒo ƒe kewo.** De kewo kplu me le kele me eye nàkpɔ woƒe dzedze.
+100. **Ɖe bli alo ayi ƒe aŋgba.** Dzoŋɔli ƒe dɔ le akpata dzi kple agba le ata dzi.
+101. **Ŋlɔ adrɛs ɖe azãɖugbe ƒe kaɖiwo dzi.** Eya ade asi ete, ade nutata alo atu wo nu; wò ya nàlé ŋku ɖe adrɛsawo ŋu.
 
-## What if an activity is not working?
+## Nukae mawɔ ne dɔwɔwɔ aɖe mele yiyim nyuie o?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Tɔ te, eye nàte nu bubu kpɔ ɣeyiɣi bubu. NIA gblɔ be woalé ŋku ɖe dzigbãnya ŋu eye woana ame la nakpɔ nu ko ne edi nenema. Gbeɖeɖe zi geɖe fia be dɔa sesẽ akpa, ɣeyiɣia mesɔ o, alo nu bubu aɖe le fu ɖem nɛ, abe vevesese, dɔwuame alo hoowɔwɔ ene. Wɔe sue wu, tee kpɔ kaba wu le ŋkeke me, alo dze egɔme wò ŋutɔ eye nàkpɔe ɖa be akpɔ gome hã. Kpɔ [ne wògbe](/caregiving/when-they-say-no/) kple [fiẽ ƒe ʋunyaʋunya](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Be nàde dɔwɔwɔwo nuɖuɣi kple gbɔdzɔe dome la, kpɔ [ŋkeke ƒe ɖoɖo fafɛ aɖe](/activities/daily-routine/). Ne èdi nu siwo nàdzra ɖo la, kpɔ [dɔwɔwɔ siwo woate ŋu aŋlɔ](/activities/printable/), eye ne èle ƒuƒoƒo aɖe ŋu kplɔm la, kpɔ [belélexɔ me ƒuƒoƒo ƒe dɔwɔwɔwo](/activities/care-home-groups/). Wò ŋutɔ wò gbɔdzɔe hã le vevie: kpɔ [ame ŋu kpɔla ƒe ɖokuiŋudzraɖo](/caregiving/caregiver-self-care/).

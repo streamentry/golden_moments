@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Dɔwɔwɔ siwo Woate Ŋu Ata Femaxee"
+seoTitle: "Dɔwɔwɔ siwo Woate Ŋu Ata: Nuŋɔŋlɔ Gãwo"
+description: "Dɔwɔwɔ siwo woate ŋu ata femaxee: nyawo didi, amadede, dzeɖoɖo ƒe nɔnɔmetatawo kple nɔnɔmetata bingo, kple aɖaŋuɖoɖowo le wo tata ŋu."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments naa dɔwɔwɔ siwo woate ŋu ata femaxee: nyawo didi si ŋu
+  nuŋɔŋlɔ gãwo le, amadede ƒe axawo, nɔnɔmetata ƒe dzeɖoɖo ƒe agbalẽviwo kple
+  nɔnɔmetata bingo ƒe agbalẽviwo. Ʋu fefea ƒe axa ɖesiaɖe eye nàzã eƒe Print ƒe
+  dzesi. Ta wo kple nuŋɔŋlɔ gã, dzɔdzɔe siwo wokpɔna bɔbɔe le agbalẽ sesẽ dzi,
+  lé dɔwɔwɔ ɖeka ɖe axa ɖeka dzi, eye nàwɔ agbalẽ siwo nèdi be yeagazã ake la
+  ŋu dɔ kple laminate. Agbalẽ bɔbɔe siwo wowɔ le aƒeme, abe agbeŋutinya ƒe axa
+  alo ŋkeke ɖesiaɖe ƒe ɖoɖo ene, hã kpena ɖe ame ŋu.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Míaƒe dɔwɔwɔ siwo woate ŋu ata la le femaxee: Word Search, Coloring, Conversation Cards kple Picture Bingo. Fefea ƒe axa ɖesiaɖe ŋu Print ƒe dzesi le."
+  - "Ta wo kple nuŋɔŋlɔ gã, dzɔdzɔe siwo wokpɔna nyuie, eye nàlé dɔwɔwɔ ɖeka ɖe axa ɖeka dzi."
+  - "Agbalẽ sesẽ alo card stock le bɔbɔe be woalé, eye wòmegbãna bɔbɔe o. Wɔ agbalẽawo ŋu dɔ kple laminate be nàte ŋu agazã wo kple dzonuŋlɔnu siwo woate ŋu atutu."
+  - "Agbalẽ siwo wowɔ le aƒeme abe agbeŋutinya ƒe axa, ŋkeke ɖesiaɖe ƒe ɖoɖo alo nɔnɔmetata ƒe dzesi na ʋɔtruwo ene la le bɔbɔe eye wozãa wo nyuie."
+  - "Agbalẽ si wota nye kpekpe na ame, menye aƒemedɔ o. Ne miewɔ eƒe akpa aɖe, alo miewɔe o hã la, enyo nenema."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Ðe miaƒe dɔwɔwɔ siwo woate ŋu ata la le femaxeea?"
+    a: "Ɛ̃. Word Search, Coloring, Conversation Cards kple Picture Bingo ƒe axawo le nyatakakadzraɖoƒe sia dzi le femaxee be woazã ahata. Ʋu fefea ƒe axa eye nàzã Print ƒe dzesi."
+  - q: "Dɔwɔwɔ kawoe nyo wu be woata na ame si ŋkuɖodzinu le vɔvɔm na?"
+    a: "Agbalẽ siwo nyo wu la le bɔbɔe, me kɔ, eye wowɔ wo na ame tsitsi: nyawo didi si ŋu nuŋɔŋlɔ gãwo le eye nyawo le yame kple anyime ko, amadede ƒe axa siwo ƒe fliwo me kɔ, nɔnɔmetata ƒe agbalẽviwo siwo dzea dzeɖoɖo gɔme, kple nɔnɔmetata bingo na ƒuƒoƒowo. Tia dɔwɔwɔ si sɔ kple nu siwo doa dzidzɔ na amea kple nu siwo wòate ŋu awɔ fifia, eye nàlé dɔwɔwɔ ɖeka ɖe axa ɖeka dzi."
+  - q: "Aleke mawɔ be agbalẽ siwo wota la nanɔ bɔbɔe be woakpɔ ahazã?"
+    a: "Zã nuŋɔŋlɔ gã, dzɔdzɔe, amadede tsiɖitsiɖi le agbalẽ ɣi alo agbalẽ si ƒe amadede menye ɣie o dzi, eye nàna teƒe geɖe nanɔ anyi. Ta wo ɖe agbalẽ sesẽ alo card stock dzi be axaa nanɔ gbadzaa, tia agbalẽ si meklẽna o be wòaɖe keklẽ dzi akpɔtɔ, eye nàzã clipboard alo nu si melĩna o be axaa manɔ ʋuʋum o. Laminate nana agbalẽawo nɔa anyi didi."
+  - q: "Ðe mate ŋu ata miaƒe dɔwɔwɔawo na ame tsitsiwo dzi kpɔƒe alo ŋkeke ƒe ɖoɖowɔƒea?"
+    a: "Ɛ̃. Míexɔa dɔwɔlawo nyuie be woata míaƒe axawo na ame siwo le afi ma kple ƒuƒoƒowo. Wotrɔ asi le Picture Bingo ŋu na ƒuƒoƒowo, eye screen dzi yɔla aɖe le eme si nàte ŋu afia le TV alo projector dzi."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Ɣeaɖewoɣi la, dɔwɔwɔ si nyo wu enye agbalẽ kple nuŋlɔti le nuɖukplɔ̃ ŋu. Agbalẽ siwo wota mehiã charge, nyagbewo alo screen o, eye wole bɔbɔe be woatsɔ ayi ame kpɔƒe alo ƒuƒoƒo me. Axa sia ɖe dɔwɔwɔ siwo woate ŋu ata femaxee le míaƒe nyatakakadzraɖoƒea me, ale si nàta wo be woanɔ bɔbɔe be woakpɔ ahalé, kple agbalẽ bɔbɔe aɖewo siwo ƒometɔwo kple dɔwɔlawo kpɔna be woɖea vi.
 
-## What free printable activities do you offer?
+## Dɔwɔwɔ kawoe woate ŋu ata femaxee le mia si?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Míenaa agbalẽ ene siwo woate ŋu ata femaxee. Ʋu fefe siawo dometɔ ɖesiaɖe ƒe axa eye nàzã **Print** ƒe dzesi be nàkpɔ eƒe tata si sɔ na printer.
 
-| Printable | What it is | Good for |
+| Agbalẽ si woate ŋu ata | Nu si wònye | Esi wòsɔ na |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Nyawo didi si ŋu nuŋɔŋlɔ gãwo le, eye nyawo le yame kple anyime ko | Ɣeyiɣi si me tomefafa le kple nuŋlɔti; ame si kpɔa dzidzɔ ɖe fefewo ŋu |
+| [Coloring](/games/coloring/) | Amadede ƒe axawo siwo woate ŋu ata alo ade ama wo le screen dzi | Ɣeyiɣi si me dzidzeme kple nutovɛ le; akpa ɖesiaɖe kple kpekpeɖeŋu |
+| [Conversation Cards](/games/conversation-cards/) | Nɔnɔmetata ƒe agbalẽviwo siwo ƒe nyabiasewo le ʋuʋu, menye dodokpɔ o, le tanya vovovowo nu | Ame kpɔƒe, kaƒoƒo, ƒome ƒe nuɖuɖu, ŋkuɖoɖo ƒe ƒuƒoƒowo |
+| [Picture Bingo](/games/picture-bingo/) | Bingo ƒe agbalẽviwo siwo ŋu nɔnɔmetatawo le ɖe xexlẽdzesiwo teƒe, kple screen dzi yɔla | Ame tsitsiwo dzi kpɔƒe, ŋkeke ƒe ɖoɖowɔƒewo, ƒome ƒe takpekpewo |
 
-### Large-print word search
+### Nyawo didi si ŋu nuŋɔŋlɔ gãwo le
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) zãa nuŋlɔdzesi gãwo eye wònaa nyawo nɔa yame kple anyime ko, nyawo mele dzogoe alo megbemegbe o. Miwɔe ɖekae: ame ɖeka xlẽa nya aɖe tso xexlẽdzesiawo dome, eye ame evelia diae. Ne nyawo didi sesẽ la, miate ŋu ade dzesi nya ɖesiaɖe ƒe ŋɔŋlɔdzesi gbãtɔ ɖekae, alo miaxlẽ nyaawo sesĩe eye miaƒo nu tso nya ɖesiaɖe ŋu.
 
-### Coloring pages
+### Amadede ƒe axawo
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Woate ŋu ata [Coloring](/games/coloring/) ƒe axawo hena marker alo amadede ƒe atiwo, alo woade ama wo le tablet dzi to amadede aɖe zi dzi, emegbe nɔnɔmetataa ƒe akpa dzi zi dzi. Na agbalẽ siwo wota la, tsɔ marker titriwo kple amadede ʋɛ aɖewo na ɣeyiɣi ɖeka. Kpɔ míaƒe [asinudɔwɔwɔ kple aɖaŋudɔwɔwɔ ƒe mɔfiame](/activities/arts-and-crafts/) be nàkpɔ ale si nàna amadede nanye nu si sɔ na ame tsitsi eye dzidzeme le eme.
 
-### Conversation cards
+### Dzeɖoɖo ƒe agbalẽviwo
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) tsɔa nɔnɔmetata si me kɔ kple nyabiase si le ʋuʋu, abe „Gblɔ nu tso...” alo „Nu kae nèkpɔ?” ene. Woŋlɔ wo abe kpekpe siwo le ʋuʋu ene, menye dodokpɔ ƒe nyabiasewo o. Ta wo ƒe hatsotso aɖe, lã wo ɖe vovo, eye nàlé ʋɛ aɖewo ɖe kotoku me na ame kpɔƒe alo le kaƒomɔ̃a gbɔ na kaƒoƒo. Wosɔ hã nyuie na [ŋkuɖoɖo](/activities/reminiscence/) ƒe ƒuƒoƒowo.
 
-### Picture bingo cards
+### Nɔnɔmetata bingo ƒe agbalẽviwo
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) ƒe agbalẽviwo zãa nɔnɔmetatawo ɖe xexlẽdzesiwo teƒe. Ta agbalẽ ɖeka na fefewɔla ɖesiaɖe eye nàzã screen dzi yɔla le laptop, TV alo projector dzi. Míele aɖaŋu ɖom be woayi edzi ayɔ va se ɖe esime ame sia ame ƒe agbalẽ yɔ blibo, ale be ame aɖeke naganɔ anyi o. Kpɔ [ƒuƒoƒo ƒe dɔwɔwɔwo na ame tsitsiwo dzi kpɔƒe](/activities/care-home-groups/) be nàkpɔ ale si nàwɔ takpekpe aɖe.
 
-## How do I print activities so they are easy to use?
+## Aleke mata dɔwɔwɔawo be woanɔ bɔbɔe be woazã?
 
-Small changes in how you print make a big difference.
+Tɔtrɔ suewo le ale si nèta wo ŋu ate ŋu awɔ tɔtrɔ gã aɖe.
 
-### Make it easy to see
+### Wɔe be wòanɔ bɔbɔe be woakpɔ
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Nuŋɔŋlɔ gã, dzɔdzɔe.** Zã tata ƒe lolome si lolo wu si gake sɔ ɖe axaa dzi. Ƒo asa na nuŋɔŋlɔ ƒe atsyã siwo sesẽ alo siwo le abe asiŋɔŋlɔ ene.
+- **Vovototo si me kɔ.** Amadede tsiɖitsiɖi le agbalẽ ɣi alo agbalẽ si ƒe amadede menye ɣie o dzi. Ƒo asa na megbeƒe siwo le ɣiɣi alo siwo ƒe amadede fa.
+- **Agbalẽ si meklẽna o** ɖea keklẽ dzi kpɔtɔna le akaɖi sesẽwo te.
+- **Kpɔ ŋkuɖodzikpewo kple akaɖi ɖa.** Alzheimer's Association de dzesii be ŋku kple to ƒe kuxiwo ate ŋu ana kadodo nasesẽ wu, eye wòɖo aɖaŋu be woakpɔ wo ɖa edziedzi. Akaɖi si klẽna nyuie hã kpena ɖe ame ŋu.
 
-### Make it easy to hold
+### Wɔe be wòanɔ bɔbɔe be woalé
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Agbalẽ sesẽ alo card stock** nɔa gbadzaa, ele bɔbɔe be woakɔe, eye wòtea ŋu nɔa anyi ne wozãe enuenu.
+- **Clipboard** alo nu si melĩna o nana axaa metsoa teƒe o.
+- **Marker titriwo alo nuŋlɔti kpekpewo** le bɔbɔe be woalé wu nuŋlɔti tsɛwo.
 
-### Make it reusable
+### Wɔe be woate ŋu agazãe
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Wɔ agbalẽawo ŋu dɔ kple laminate** alo de wo agbalẽdzraɖoƒe siwo me kɔ me. Zã dzonuŋlɔnu siwo woate ŋu atutu le nyawo didi kple bingo ƒe agbalẽviwo dzi, emegbe nàtutu wo.
+- **Tia kotoku siwo meklẽna o** ne keklẽ nye kuxi, eye **nàwɔ dzogoedzidzenuwo** na agbalẽvi siwo wowɔ laminate na kple hɛ̃ be woalé wo fafɛ.
+- **Dzra agbalẽdzraɖoƒe** si me nu siwo nèlɔ̃na wu le ɖo ale be màganɔ agbalẽ ɖeka tata kwasiɖa sia kwasiɖa o.
 
-### Keep it simple
+### Na wòanɔ bɔbɔe
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Dɔwɔwɔ ɖeka le axa ɖeka dzi.** Nyawo didi ɖeka alo nɔnɔmetata ɖeka, menye dɔwɔwɔ geɖe siwo woƒo ƒu ɖe teƒe ɖeka o.
+- **Teƒe ɣi geɖe.** Axa si dzi yɔ fũ ate ŋu asesẽ na ame.
+- **Mègana mɔfiame siwo woaxlẽ nanɔ anyi o, ne anya wɔ.** Fia nu si woawɔ amea boŋ.
+- **Lã agbalẽawo ɖe sue.** Ne axa blibo aɖe sɔ gbɔ akpa la, lãe ɖe afã alo nàŋlɔe be akpa aɖe ko nadze.
 
-## Other useful printables you can make at home
+## Agbalẽ bubu siwo woate ŋu awɔ le aƒeme
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Menye agbalẽ siwo ɖea vi katã nye fefe o. Esiawo le bɔbɔe be woawɔ kple nyaŋlɔmɔ̃ kple printer.
 
-### A life-story page
+### Agbeŋutinya ƒe axa
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Axa ɖeka si nye „nyem nyenye” si ŋu foto, ŋkɔ si amea lɔ̃na be woayɔ ye, afi si wòtsi le, eƒe dɔ, ƒome, nuɖuɖu siwo wòlɔ̃na, ha kple nu siwo faa akɔ na ame alo doa nuxaxa na ame le. Dementia Australia ɖo aɖaŋu be woawɔ [ŋkuɖodzigbalẽ](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) si me nyatakakawo le tso amea ƒe agbe, nu siwo wòlɔ̃na kple ame veviwo ŋu, be wòakpe ɖe ame kpɔlawo kple ame dzi kpɔlawo ŋu eye wòadze dzeɖoɖo gɔme.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Esia ɖea vi ŋutɔ le kɔdzi kple teƒe yeye siwo wokpɔa ame tsitsiwo le. NIA ɖo aɖaŋu be woana kɔdzinudɔwɔlawo [ame ŋutɔ ƒe nyatakakagbalẽ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) si ƒo nu tso amea ƒe gbesiagbe ɖoɖo, ŋkɔ si wòlɔ̃na, nu siwo wòlɔ̃na kple esiwo melɔ̃na o, nu siwo ate ŋu ado nuxaxa nɛ, kple vevesese ƒe dzesi siwo menyea nyawo o ŋu.
 
-### A daily schedule
+### Ŋkeke ɖesiaɖe ƒe ɖoɖo
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Ŋkeke ƒe ɖoɖo gã, bɔbɔe si ŋu gaƒoƒowo, nya ʋɛ aɖewo kple nɔnɔmetata sue aɖe le na akpa ɖesiaɖe: ŋdinuɖuɖu, zɔzɔ, ŋdɔnuɖuɖu, ɖiɖiɖeme, ha, fiẽnuɖuɖu. Alzheimer's Association ƒe [ŋkeke ɖesiaɖe ƒe ɖoɖo](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ɖo aɖaŋu be woawɔ ɖoɖo ɖe ŋkeke me ƒe ɣeyiɣi siwo nyo wu na amea ŋu, kple fɔfɔ kple alɔ̃dɔdɔ ƒe ɣeyiɣi siwo li ke, eye dɔwɔwɔ kple ɖiɖiɖeme nanɔ wo dome. Dee ŋku ŋgɔ, ɖewohĩ le fridzi dzi, eye nàna wòanɔ bɔbɔe be woatrɔe. Kpɔ míaƒe [ŋkeke ɖesiaɖe ƒe ɖoɖo ƒe mɔfiame](/activities/daily-routine/) hena nu bubuwo.
 
-### Picture labels for rooms and drawers
+### Nɔnɔmetata ƒe dzesi na xɔwo kple nudzraɖoƒewo
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA ɖo aɖaŋu be woazã dzesi siwo ƒe amadede klẽna alo nɔnɔmetata bɔbɔewo atsɔ [ade dzesi tsileƒe, alɔ̃dɔxɔ kple nuɖaxɔ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Susu ma ke sɔ na nudzraɖoƒewo kple agbaɖakawo: afɔkpawo ƒe nɔnɔmetata le afɔkpawo ƒe nudzraɖoƒe dzi, kpluwo ƒe nɔnɔmetata le kpluwo ƒe agbaɖaka dzi. Ta wo, wɔ wo ŋu dɔ kple laminate, eye nàlé wo ɖe te.
 
-### A sorting set
+### Nuƒoƒoƒu ƒe hatsotso
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Ta nɔnɔmetatawo tso hatsotso bɔbɔe eve me, abe kutsetsewo kple seƒoƒowo alo dɔwɔnuwo kple nuɖaxɔmenuwo ene, ɖe card stock dzi. Lã wo ɖe vovo eye miaƒo wo nu ƒu ɖe kusia eve me ɖekae. Esia ƒe screen dzi tɔe nye [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Ha ƒe nyawo ƒe agbalẽwo
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Ta ha siwo nèlɔ̃na wu ƒe nyawo kple nuŋɔŋlɔ gã ŋutɔ hena hadzidzi ɖekae. Ame siwo megaxlẽa nu geɖe o hã ate ŋu akpɔ dzidzɔ be woalé agbalẽa.
 
-### A family photo page
+### Ƒome ƒe foto ƒe axa
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Axa ɖeka si ŋu ƒome ƒe foto gã ene va ɖo ade le, eye ŋkɔ gbãtɔ le ɖesiaɖe te. Ate ŋu anɔ kplɔ̃ dzi be ame sia ame nakɔe aƒo nu tso eŋu. Dzesiwo kpena ɖe ame kpɔlawo kple dɔwɔlawo ŋu be woawɔ akpa aɖe le dzeɖoɖoa me, eye ame aɖeke mehiã be yeabia be „Ame kae nye esia?” o.
 
-### A recipe card
+### Nuɖaɖa ƒe agbalẽvi
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Ta ƒome ƒe nuɖaɖa si nèlɔ̃na wu kple nuŋɔŋlɔ gãwo. Zãe nàtsɔ aɖa nu ɖekae, alo nàtsɔ aƒo nu ko tso nuɖuɖu siwo mieɖu tsã ŋu.
 
-## How do I offer a printable without it feeling like homework?
+## Aleke matsɔ agbalẽ si wota ana evɔ manɔ abe aƒemedɔ ene o?
 
-Present it as something to share, not a test.
+Tsɔe abe nu si miekpɔna gɔme ɖekae ene, menye dodokpɔ o.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Nɔ anyi eye nàdze egɔme wò ŋutɔ.** „Mele nyawo didi sia wɔm. Àdi be yeakpe ɖe ŋunye madia ‘abɔ’?”
+- **Mi wɔe ɖekae.** Mitrɔ ɖe wo nɔewo ŋu, alo ame ɖeka diae eye ame evelia dea dzesii.
+- **Mègade dzesi be ede alo egblẽ gbeɖe o.** Alzheimer's Association ƒe mɔfiame le [dɔwɔwɔwo le aƒeme](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ŋu ɖo aɖaŋu be woaƒo susu ɖe dɔwɔwɔa ŋu, menye emetsonu o, eye woaƒo susu ɖe dzidzeme ŋu wu nuwɔwɔ.
+- **Gblẽ agbalẽawo ɖe teƒe siwo wokpɔna bɔbɔe.** Mɔfiame ma ke ɖo aɖaŋu be woada ŋkuɖodzigbalẽwo, fotogbalẽwo alo magazine xoxowo ɖe teƒe siwo woate ŋu akpɔ bɔbɔe. Agbalẽvi siwo wota kple foto ƒe axawo ate ŋu anɔ kplɔ̃ sue dzi nenema ke.
+- **Dzudzɔ ɣesiaɣi si nèdi.** Amadede ƒe axa afã nye ŋdɔkutsu nyui aɖe. Nenema ke agbalẽa tsɔtsɔ da ɖi eye miano tii hã nye.
 
-## Where to find more
+## Afi si nàkpɔ nu bubuwo le
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Kpɔ míaƒe [fefewo kple agbalẽ siwo woate ŋu ata](/games/) katã, alo kpɔ [dɔwɔwɔwo na akpa ɖesiaɖe](/activities/ideas/) hena susu bubuwo, kple agbalẽ alo agbalẽ manɔmee.

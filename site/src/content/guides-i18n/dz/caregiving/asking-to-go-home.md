@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "དྲན་ཤེས་ཉམས་པ་ཅན་གྱིས་ཁྱིམ་ལུ་འགྱོ་ནི་ལུ་སླར་སླར་སླབ་པ་ཅིན།"
+seoTitle: "དྲན་ཤེས་ཉམས་པ་ཅན་ཁྱིམ་ལུ་འགྱོ་སླབ་པ་ཅིན་ག་དེ་སླབ།"
+description: "དྲན་ཤེས་ཉམས་པ་ཅན་གྱི་མི་ཅིག་གིས་ཁྱིམ་ནང་ཡོད་རུང་ཁྱིམ་ལུ་འགྱོ་ནི་ལུ་སླར་སླར་སླབ་པའི་རྒྱུ་མཚན། ག་དེ་སླབ་ནི། སེམས་ཁྲལ་མེདཔ་བཟོ་ཐབས་དང་ཉེན་སྲུང་གི་ལམ་སྟོན།"
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  དྲན་ཤེས་ཉམས་པ་ཅན་གྱི་མི་ཅིག་གིས་ཁྱིམ་ལུ་འགྱོ་ནི་ལུ་སླར་སླར་སླབ་པའི་སྐབས། «ཁྱིམ་» ཟེར་མི་འདི་
+  ས་གནས་ཤིག་ལས་ལྷགཔ་སྦེ་ཉེན་སྲུང་ཚོར་བ་ ཡང་ན་རྒྱབ་ལོག་གི་ས་གནས་ཤིག་ལུ་ཟེར་སྲིད།
+  ཁོང་ཁྱིམ་ནང་ཡོད་ཟེར་སྦེ་རྩོད་མ་འབད། ཁོང་གི་ཚོར་བ་ལུ་ངོས་ལན་བརྐྱབ། ཁོང་ཉེན་མེད་ཡོད་ཟེར་སླབ།
+  ཁྱིམ་གྱི་སྐོར་ལས་དྲི་བ་དྲིས། དེ་ལས་པར་རིས། གླུ་དབྱངས། ཟས་ཕྲུག འགྲུལ་འཁྱམ་ ཡང་ན་ལས་ཀ་འཇམ་ཏོག་ཏོ་ཅིག་ལུ་སྦྱོར།
+  གྲོད་ཁོག་ལྟོགཔ། སྐོམཔ། གསང་སྦྲག་འགྱོ་དགོཔ་ ཡང་ན་ན་ཚ་ཡོད་མེད་བལྟ། གལ་སྲིད་འདི་གློ་བུར་དུ་འགོ་བཙུགས་པ་ཅིན་
+  ཁོང་གི་སྨན་པ་ལུ་སླབ།
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«ང་ཁྱིམ་ལུ་འགྱོ་དགོ་» ཟེར་མི་འདི་ས་གནས་ཤིག་མེན་པར་ «ང་ཉེན་སྲུང་ཚོར་མི་འོང་» ཟེར་བའི་དོན་འོང་སྲིད།"
+  - "ཁོང་ཁྱིམ་ནང་ཡོད་ཟེར་སྦེ་རྩོད་པའམ་སྟོན་བཏང་པ་ཅིན་སེམས་ཁྲལ་ལྷག་སྟེ་འཕར་སྲིད། ཚོར་བ་ལུ་ངོས་ལན་བརྐྱབ།"
+  - "ཁྱིམ་གྱི་སྐོར་ལས་སླབ་བཅུག དེ་ལས་པར་རིས། གླུ་དབྱངས། ཟས་ཕྲུག འགྲུལ་འཁྱམ་ ཡང་ན་ལས་ཀ་འཇམ་ཏོག་ཏོ་ཅིག་ཕུལ།"
+  - "བཅོ་ཁ་རྐྱབ་ཆོག་པའི་རྒྱུ་མཚན་ཡོད་མེད་བལྟ། གྲོད་ཁོག་ལྟོགཔ། སྐོམཔ། གསང་སྦྲག་འགྱོ་དགོཔ། ན་ཚ། ཚ་དྲོད་མེདཔ། སྒྲ་སྐད། ཐང་ཆདཔ།"
+  - "ཉིནམ་རྒྱབ་ཀྱི་ཕྱི་དྲོ་རེ་སླར་སླར་འབྱུང་པ་ཅིན་ཉི་མ་ནུབ་པའི་སྐབས་ཀྱི་སེམས་ཁྲལ་འོང་སྲིད། གོམས་གཤི་བརྟན་པོ་དང་འོད་ལེགས་ཤོམ་གྱིས་ཕན་ཐོགས་འབྱུང་སྲིད།"
+  - "ཁོང་ཕྱི་ཁར་འགྱོ་ནི་ལུ་འབད་བ་ཅིན་ཉེན་སྲུང་གི་གྲ་སྒྲིག་འབད། གལ་སྲིད་གློ་བུར་འགྱུར་བ་ཡོད་པ་ཅིན་སྨན་པ་ལུ་སླབ།"
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "ངའི་ཨ་མ་ལུ་དྲན་ཤེས་ཉམས་པ་ཡོད་རུང་ཁྱིམ་ནང་ཡོད་པ་ཅིན་ཁྱིམ་ལུ་འགྱོ་ནི་ལུ་ཅིག་འབད་སླར་སླར་སླབ་ག?"
+    a: "དྲན་ཤེས་ཉམས་པ་གིས་ངོ་ཤེས་ཡོད་པའི་ཁང་མིག་ཚུ་ཡང་མཐོང་མ་ཤེསཔ་བཟོ་སྲིད། མི་ལ་ལོ་ཅིག་གིས་རང་ཉིད་རྒྱབ་ལོག་གི་དུས་ཚོད་ནང་ཡོདཔ་བཟུམ་སྦེ་ཚོར་སྲིད། «ཁྱིམ་» ཟེར་མི་འདི་བྱིས་པའི་སྐབས་ཀྱི་ཁྱིམ་ ཡང་ན་ཉེན་སྲུང་དང་བདེ་ཏོག་ཏོ་ཚོར་བའི་དོན་འོང་སྲིད། ཁོང་ག་ཏེ་ཡོད་ག་ཟེར་སླབ་ནི་ལས་ཚོར་བ་འདི་ལུ་ངོས་ལན་བརྐྱབ་པ་ཅིན་ལྷག་སྟེ་ཕན་ཐོགས་འབྱུང་སྲིད།"
+  - q: "ཁོང་གིས་ཁྱིམ་ལུ་འགྱོ་ནི་ལུ་སླབ་པའི་སྐབས་ང་གིས་ག་དེ་སླབ་དགོ?"
+    a: "«ཁྱོད་ནཱ་ལུ་ཉེན་མེད་ཡོད། ང་ཁྱོད་ཀྱི་སྦེ་ཡོད་» ཟེར་སླབ། དེ་ལས་ «ཁྱོད་ཀྱི་ཁྱིམ་གྱི་སྐོར་ལས་ང་ལུ་སླབ་གནང་» ཟེར་དྲི། ཉན། པར་རིས་སྟོན་པའམ་གླུ་གཞས་གཏང་། འཐུང་ནི་ཅིག་ཕུལ་པའམ་ཐུང་ཀུ་སྦེ་འགྲུལ་འཁྱམ་འགྱོ། «ཁྱོད་ཁྱིམ་ནང་ཡོད་» ཟེར་སྦེ་བཅོ་ཁ་རྐྱབ་ནི་ལས་སྔོན་བཟོ། དེ་གིས་ཁོང་ལུ་ནོར་འཁྲུལ་འབད་དོ་ཟེར་ཚོར་བཅུག་སྲིད།"
+  - q: "«ཤུལ་ལས་ང་བཅས་ཁྱིམ་ལུ་འགྱོ་གེ་» ཟེར་སླབ་ནི་འདི་བཏུབ་ག?"
+    a: "ཁྱིམ་ཚང་དང་དྲན་ཤེས་ཉམས་པའི་ལས་འགན་ཚོགས་པ་ཚུ་གི་བསམ་འཆར་མ་འདྲཝ་འོང་། མང་ཆེ་ཤོས་ཀྱིས་དྲང་པོའི་སེམས་གསོ་དང་གཞན་ལུ་སྦྱོར་ནི་ལས་འགོ་བཙུགསཔ་ཨིན། དྲང་པོ་སླབ་པ་ཅིན་སེམས་ཁྲལ་ལྷག་སྟེ་འཕར་རུང་ཁོང་གིས་དེ་ལས་ཐར་མི་ཚུགས་པའི་སྐབས་རྐྱངམ་ཅིག་འཇམ་ཏོག་ཏོ་སྦེ་གཞན་སླབ་སྲིད། ག་ཅི་གདམ་རུང་བྱམས་པོ་དང་གཅིག་མཚུངས་སྦེ་སྤྱོད། ཁོང་གི་ཚོར་བ་ལུ་ཕབ་མ་སླབ།"
+  - q: "ཁོང་ཁྱིམ་ནང་ལས་ཕྱི་ཁར་འགྱོ་ནི་ལུ་འབད་བ་ཅིན་ག་དེ་སྦེ་འབད?"
+    a: "སེམས་ཁྲལ་མེདཔ་སྦེ་བཞག ཁོང་ལུ་འགོག་ནི་ལས་མཉམ་དུ་འགྲུལ་འཁྱམ་འགྱོ། ཐུང་ཀུ་སྦེ་འགྲུལ་འཁྱམ་འགྱོ་བ་ཅིན་དེ་འབད་དགོ་མིའི་ཚོར་བ་ལྷོད་སྲིད། སྔོན་ལས་ཉེན་སྲུང་གི་གྲ་སྒྲིག་འབད། དཔེར་ན་ངོས་འཛིན་ལག་གདུབ། སྒོ་གི་དྲིལ་བུ་ དང་ཉེ་ཆར་གྱི་པར་རིས། ཁོང་མ་མཐོང་པ་ཅིན་དེ་འཕྲལ་ལས་འཚོལ། སྐར་མ་ ༡༥ གྱི་ནང་མ་མཐོང་པ་ཅིན་ཛ་དྲག་ཨང་ ༡༡༢ ལུ་ཁ་པར་རྐྱབ་སྟེ་ཁོང་ལུ་དྲན་ཤེས་ཉམས་པ་ཡོད་ཟེར་སླབ།"
+  - q: "ནམ་སྨན་པ་ལུ་ཁ་པར་རྐྱབ་དགོ?"
+    a: "ཁོང་གིས་སླབ་ནི་འདི་ ཡང་ན་ཧ་ལམ་མི་ཤེས་པའི་གནས་སྟངས་འདི་གློ་བུར་དུ་འགོ་བཙུགས་པ་ཅིན་ ཡང་ན་ཆུ་ཚོད་དང་ཉིནམ་གཅིག་གཉིས་ཀྱི་ནང་ལྷག་སྟེ་ཚ་བ་ཅིན་དེ་འཕྲལ་ལས་སྨན་པ་ལུ་སླབ། དེ་ཡང་ཚ་བ། སྨན་གསརཔ་ ཡང་ན་གཅིན་ལམ་ནད་ཀྱི་རྟགས་ཚུད་པ་ཅིན་གལ་ཆེ། གློ་བུར་ཧ་ལམ་མི་ཤེས་པ་འདི་དུས་ཐོག་ལས་བདག་སྐྱོང་དགོཔ་འོང་སྲིད། སུ་ཅིག་ལུ་ཉེན་ཁ་ཡོད་པ་ཅིན་ཛ་དྲག་ཨང་ ༡༡༢ ལུ་ཁ་པར་རྐྱབ།"
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«ང་ཁྱིམ་ལུ་འགྱོ་དགོ།» ཁྱིམ་ཚང་མང་ཤོས་ཀྱི་དོན་ལུ་འདི་ཉན་ནི་འདི་གནད་དོན་ཚ་ཤོས་ཅིག་ཨིན། དེ་ཡང་ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་མི་དེ་རང་གི་ཁྱིམ་གྱི་ནང་སྡོད་དེ་ཡོད་རུང་ཨིན། འདི་སྤྱིར་བཏང་འབྱུང་སྲིདཔ་ཨིན། དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་གང་རུང་ནང་འབྱུང་སྲིད། དེ་ལུ་སེམས་ཁྲལ་མེདཔ་དང་ལག་ལེན་འཐབ་བཏུབ་པའི་ལམ་སྟོན་ཡོད། ཤོག་ལེབ་འདི་ནང་ཚིག་འདི་ཚུ་གི་དོན་དག ག་དེ་སླབ་ནི། དེ་འཕྲལ་ལུ་ཕན་ཐོགས་འབྱུང་སྲིད་པའི་བྱེད་ལས། དང་ཉེན་སྲུང་ག་དེ་སྦེ་འབད་ནི་གི་སྐོར་འོང་ཡོད།
 
-## Why does someone with dementia keep asking to go home?
+## དྲན་ཤེས་ཉམས་པ་ཅན་གྱི་མི་ཅིག་གིས་ཁྱིམ་ལུ་འགྱོ་ནི་ལུ་སླར་སླར་ཅིག་འབད་སླབ་ག?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+སྤྱིར་བཏང་ལུ་ «ཁྱིམ་» ཟེར་མི་འདི་ས་གནས་ཤིག་ལས་ཚོར་བ་ཅིག་ལུ་ཟེརཝ་ཨིན། Alzheimer's Society གིས་འདི་བདེ་ཏོག་ཏོ་དང་ཉེན་སྲུང་གི་ཚོར་བ་ ཡང་ན་རྒྱབ་ལོག་གི་ཁྱིམ་ཅིག་ལུ་ཟེརཝ་ཨིན་ཟེར་སླབ་ཨིན། དྲན་ཤེས་ཉམས་པ་གིས་ངོ་ཤེས་ཡོད་པའི་ཁང་མིག་ཚུ་ཡང་མཐོང་མ་ཤེསཔ་བཟོ་སྲིད། མི་དེ་གིས་རང་ཉིད་རྒྱབ་ལོག་གི་དུས་ཚོད་ནང་ཡོདཔ་བཟུམ་སྦེ་ཚོར་སྲིད། དཔེར་ན་བྱིས་པའི་སྐབས་ཀྱི་ཁྱིམ་ ཡང་ན་རང་གི་ཨ་ལུ་ཚུ་ཆེར་བསྐྱེད་འབད་བའི་ས་གནས།
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+ཚིག་འདི་ཚུ་གིས་ད་ལྟོ་གཞན་ཅིག་མ་བདེཝ་ཡོད་ཟེར་སྟོན་སྲིད། གྲོད་ཁོག་ལྟོགཔ། སྐོམཔ། གསང་སྦྲག་འགྱོ་དགོཔ། ན་ཚ་ཡོདཔ། ཚ་པོ་ ཡང་ན་གྲང་དྲོད་ལྷགཔ། ཐང་ཆདཔ། སྐད་ཆ་འབད་མི་མེདཔ། འཇིགས་ཚུགསཔ་ ཡང་ན་སྒྲ་སྐད་ཀྱིས་ཧ་ལམ་སོངམ་བཟུམ་ཚོར་བ། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) གིས་ན་ཚ། སྒྲ་སྐད། སྐད་ཆ་འབད་མི་མེདཔ། གོམས་གཤིའི་འགྱུར་བ། དང་སྨན་ཚུ་སེམས་ཁྲལ་གྱི་རྒྱུ་མཚན་ནང་བཀོད་ཡོད།
 
-## What should I say when they ask to go home?
+## ཁོང་གིས་ཁྱིམ་ལུ་འགྱོ་ནི་ལུ་སླབ་པའི་སྐབས་ང་གིས་ག་དེ་སླབ་དགོ?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+ཚིག་ལས་ཚོར་བ་ལུ་ངོས་ལན་བརྐྱབ། [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) གིས་ཁོང་ནོར་འཁྲུལ་ཨིན་ཟེར་སྦེ་ནན་བཤད་མ་འབད་ཟེར་སླབ་ཨིན། ཁོང་གི་ཚོར་བ་འདི་ངོ་མ་ཨིན། དེ་འབདཝ་ལས་སྔོན་མ་སེམས་གསོ་དང་བློ་བདེ་བཟོ། དེ་ལས་འཇམ་ཏོག་ཏོ་སྦེ་གཞན་ལུ་སྦྱོར།
 
-Phrases that often help:
+ཕན་ཐོགས་འབྱུང་སྲིད་པའི་ཚིག:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **ཚོར་བ་ལུ་ངོས་འཛིན་འབད།** «ཁྱོད་ཀྱིས་ཁྱིམ་ལུ་དྲན་དོ་བཟུམ་ཚུགས།»
+- **བློ་བདེ་བཟོ།** «ཁྱོད་ནཱ་ལུ་ཉེན་མེད་ཡོད། ང་ཁྱོད་ཀྱི་སྦེ་ཡོད།» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) གིས་འཇམ་ཏོག་ཏོ་སྦེ་ «ཁྱོད་ནཱ་ལུ་ཉེན་མེད་ཡོད་» ཟེར་སླབ་ནི་ལུ་བསམ་འཆར་བཀོད་ཡོད།
+- **དྲན་གསོ་འབད་བཅུག** «ཁྱོད་ཀྱི་ཁྱིམ་གྱི་སྐོར་ལས་ང་ལུ་སླབ་གནང་། ཁྱོད་ཀྱི་ཐབ་ཚང་ག་དེ་སྦེ་ཡོད་ག?» རྒྱབ་ལོག་གི་སྐོར་ལས་དྲི་བ་དྲིས་པ་ཅིན་ད་ལྟོའི་སྐོར་ལས་དྲི་བ་ལས་ལྷག་སྟེ་ལེགས་ཤོམ་འོང་སྲིད།
+- **མཉམ་དུ་འབད་ནི་ཅིག་ཕུལ།** «ཧེ་མ་ཇ་འཐུང་གེ་» ཡང་ན་ «གོས་ཤོབ་འདི་ཚུ་བཙོག་ནི་ལུ་ང་ལུ་གྲོགས་རམ་འབད་གནང?» 
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+ཁོང་གིས་ལགཔ་ཕོག་ནི་ལུ་དགའ་བ་ཅིན་འཇམ་ཏོག་ཏོ་སྦེ་ལགཔ་ཕོག་ནི་དང་སྐད་བརྡ་བྱམས་པོ་གིས་ཚིག་ལས་ལྷག་སྟེ་མང་ཤོས་སླབ་ཚུགས།
 
-## What should I avoid?
+## ང་གིས་ག་ཅི་མ་འབད་ནི་ལེགས?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **རྩོད་པའམ་འགྲེལ་བཤད་རྐྱབ་ནི།** «ཁྱོད་ད་ལྟོ་ནཱ་ལུ་སྡོད་དོ་» ཡང་ན་ «འདི་ཁྱོད་ཀྱི་ཁྱིམ་ལོ་ ༤༠ ལྷག་ཙམ་ལུ་ཨིན་» ཟེར་སླབ་པ་ཅིན་དྲན་ཤེས་ཉམས་པ་གིས་དང་ལེན་འབད་མ་བཏུབ་པའི་གནས་སྟངས་ཅིག་དང་ལེན་འབད་བཅུགཔ་ཨིན། དེ་གིས་ཁོང་ལུ་ནོར་འཁྲུལ་ཨིན་ཟེར་སླབ་དོ་བཟུམ་ཚོར་བཅུག་སྲིད།
+- **དྲི་བ་དྲི་སྟེ་བརྟག་དཔྱད་འབད་ནི།** «ཁྱོད་ལུ་དྲན་ག?» ཡང་ན་ «ཁ་བྱང་ག་ཅི་ཨིན་ན?» ཟེར་དྲི་བ་ཅིན་གནོན་ཤུགས་སྤར་སྲིད།
+- **ཁོང་ཁྲོ་ཐོག་ལས་སྒོ་བཀག་ནི།** ཁོང་ཕྱི་ཁར་འགྱོ་ནི་ལུ་འབད་བ་ཅིན་སེམས་ཁྲལ་མེདཔ་སྦེ་མཉམ་དུ་འགྲུལ་འཁྱམ་འགྱོ། ཐུང་ཀུ་སྦེ་འགྲུལ་འཁྱམ་འགྱོ་བ་ཅིན་དེ་འབད་དགོ་མིའི་ཚོར་བ་ལྷོད་སྲིད།
+- **མགྱོགས་པོ་འབད་ནི།** སྐོར་གཞན་ལུ་སྒྱུར་མ་འབད་པའི་ཧེ་མ་ ཁོང་ལུ་ཁྱིམ་གྱི་སྐོར་ལས་སླབ་ནིའི་དུས་ཚོད་བྱིན།
 
-## Activities that can help in the moment
+## དེ་འཕྲལ་ལུ་ཕན་ཐོགས་འབྱུང་སྲིད་པའི་བྱེད་ལས།
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+ཁོང་གི་ཚོར་བ་ལུ་ངོས་ལན་བརྐྱབ་ཞིནམ་ལས་ སེམས་ཁྲལ་མེད་པའི་ངོ་ཤེས་ཡོད་པའི་བྱེད་ལས་འཇམ་ཏོག་ཏོ་ཅིག་གིས་ཁོང་གི་དོ་སྣང་སྒྱུར་བཅུག་ཚུགས། དེ་གིས་ཁོང་གི་ཚོར་བ་ལུ་སྣང་མེད་བཞག་མི་མེན།
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **ཁྱིམ་དང་ནང་མིའི་པར་རིས་ལྟ།** ཤོག་ལེབ་སྒྱུར་སྟེ་དྲི་བ་མ་དྲིས་པར་ «ལྡུམ་ར་དེ་ལྟ་གནང་» ཟེར་བཟུམ་སྦེ་བསམ་བཀོད་འབད། ཁ་པར་ ཡང་ན་ཊེབ་ལེཊི་ནང་ [Photo pairs](/games/photo-pairs/) གིས་ཁྱོད་རའི་ནང་མིའི་པར་རིས་ཚུ་འཇམ་ཏོག་ཏོ་སྦེ་མཐུན་སྒྲིག་འབད་ནིའི་རྩེདམོ་ཅིག་ལུ་བསྒྱུར་ཚུགས། པར་རིས་ཚུ་ཁྱོད་ཀྱི་གློག་ཆས་ནང་རང་ལུ་ཡོད།
+2. **ཁྱིམ་གྱི་སྐོར་ལས་སླབ།** [Conversation cards](/games/conversation-cards/) ནང་ཁྱིམ། ཐབ་ཚང་། ཁྱིམ་མཚེས། དང་དུས་ཆེན་གྱི་སྐོར་ལས་ལན་ངེས་ཅན་མེད་པའི་དྲི་བ་ཚུ་ཡོད།
+3. **ཁོང་གིས་དགའ་མིའི་གླུ་གཞས་གཏང་།** National Institute on Aging གིས་སེམས་ཁྲལ་ལྷོད་བཟོ་ནིའི་ཐབས་ཤེས་ནང་སེམས་ལྷོད་བཟོ་མི་གླུ་གཞས་བཀོད་ཡོད། ང་བཅས་ཀྱི་ [གླུ་གཞས་ཀྱི་བྱེད་ལས་](/activities/music/) ལྟ།
+4. **ཟས་ཕྲུག་ ཡང་ན་འཐུང་ནི་ཅིག་ཕུལ།** གྲོད་ཁོག་ལྟོགཔ་དང་སྐོམ་པ་འདི་བརྗེ་ས་མེདཔ་སྦེ་འགྲུལ་འགྱོ་ནི་བཟུམ་སྦེ་མཐོང་སྲིད། ཇ་དཀར་ ཡང་ན་དགའ་མིའི་ཟས་ཕྲུག་ཅིག་གིས་ཁྱིམ་ནང་ཡོདཔ་བཟུམ་གྱི་ཚོར་བ་བྱིན་ཚུགས།
+5. **འགྲུལ་འཁྱམ་འགྱོ་ ཡང་ན་ཕྱི་ཁར་སྡོད།** ལུས་སྦྱོང་དང་ཉིན་གུང་གི་འོད་ཀྱིས་ཕན་ཐོགས་འབྱུང་སྲིད། དེ་ཡང་ཉིནམ་གྱི་སྔོན་མ་ལུ།
+6. **ངོ་ཤེས་ཡོད་པའི་ལས་ཀ་ཅིག་ཕུལ།** གོས་ཤོབ་བཙོགཔ། ཐུར་མ་དབྱེ་སེལ་འབད་ནི། ཡང་ན་རྩི་ཤིང་ལུ་ཆུ་བླུགས་ནི་ཚུ་གིས་ཁྱིམ་གྱི་ལས་ཀ་འབད་བའི་ཚོར་བ་སླར་ལོག་འབྱིན་ཚུགས།
+7. **ག་ཅི་ཡང་དལཝ་སྦེ་འབད།** ཊི་བི་བསད། སྒྲ་སྐད་དང་འོད་མདངས་ཉུང་བཟོ། དེ་ལས་མཉམ་དུ་ [སེམས་ཁྲལ་མེད་པའི་དབུགས་རྔ་](/games/calm-breathing/) བཏང་ནི་ལུ་འབད་རྩོལ་བསྐྱེད།
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+བསམ་འཆར་གཅིག་གིས་མ་ཕན་པ་ཅིན་ཤུལ་ལས་གཞན་ཅིག་ལུ་འབད་རྩོལ་བསྐྱེད། མཉམ་དུ་ཁུ་སིམ་སིམ་སྦེ་སྡོད་ནི་འདི་ཡང་ལེགས་ཤོམ་ཨིན།
 
-## Check for a cause you can fix
+## བཅོ་ཁ་རྐྱབ་ཆོག་པའི་རྒྱུ་མཚན་ཡོད་མེད་བལྟ།
 
-| Check | What to try |
+| བལྟ་ནི། | འབད་རྩོལ་བསྐྱེད་ནི། |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| གྲོད་ཁོག་ལྟོག་པའམ་སྐོམཔ། | འཐུང་ནི་དང་ཟས་ཕྲུག་ཅིག་ཕུལ། |
+| གསང་སྦྲག་འགྱོ་དགོཔ། | སེམས་ཁྲལ་མེདཔ་སྦེ་གསང་སྦྲགས་ཁང་མིག་ནང་འགྱོ་ནི་ལུ་ཕུལ། |
+| ན་ཚ་ ཡང་ན་མ་བདེཝ། | གདོང་བསྒྱུར་བ། ལུས་ཀྱི་ཆ་ཤས་ཅིག་འཛིན་ཏེ་སྡོདཔ་ ཡང་ན་ཕོ་བ་བཀག་ནི་བཟུམ་གྱི་རྟགས་ལུ་བལྟ། དེ་ལས་སྨན་པ་ལུ་སླབ། |
+| ཚ་དྲོད་མང་དྲགས་པའམ་ཉུང་དྲགསཔ། | གྱོན་ཆས་ ཡང་ན་ཁང་མིག་གི་ཚ་དྲོད་བདེ་སྒྲིག་འབད། |
+| སྒྲ་སྐད་ ཡང་ན་མི་མངམ། | ཁུ་སིམ་སིམ་ཡོད་མིའི་ཁང་མིག་ནང་འགྱོ། ཊི་བི་བསད། |
+| ཐང་ཆད་པའམ་ཧ་ལམ་སོངམ་བཟུམ་ཚོར་བ། | ངལ་གསོ་བརྐྱབ། ཁང་མིག་གི་འོད་མར་བཟོ། འཇམ་ཏོག་ཏོའི་གླུ་གཞས་གཏང་། |
+| ཉིནམ་རྒྱབ་ཀྱི་ཕྱི་དྲོ། | འོག་གི་སྐོར་ལུ་ལྟ། |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society གིས་འདི་འབད་དགོ་མི་འགོ་བཙུགས་པའི་དུས་ཚོད་ཐུང་ཀུ་སྦེ་བྲིས་བཞག་ཟེར་བསམ་འཆར་བཀོད་ཡོད། དཔེར་ན་ཟ་མ་མ་བཟའ་བའི་ཧེ་མ། མགྲོན་པོ་འོང་ཞིནམ་ལས་ཤུལ། ཡང་ན་ས་རུབ་པའི་སྐབས། རྒྱུན་རིམ་ཤེས་པ་ཅིན་སྔོན་ལས་གྲ་སྒྲིག་འབད་བ་ལེགས་ཤོམ་འོང་།
 
-## Is it okay to tell a white lie?
+## མི་ངོ་མ་མེན་པའི་སྐད་ཆ་ཅིག་སླབ་ནི་འདི་བཏུབ་ག?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+འདི་སྐོར་ལས་བསམ་འཆར་མ་འདྲཝ་འོང་། བྱམས་པོ་ཡོད་པའི་ཁྱིམ་ཚང་ཚུ་གི་གདམ་ཁ་ཡང་མ་འདྲཝ་འོང་། Alzheimer's Society གིས་ལན་འདི་གཅིག་རང་མེད་ཟེར་སླབ་ཨིན། མི་ངོ་མ་མེན་པའི་སྐད་ཆ་གིས་མི་ལ་ལོ་ཅིག་ལུ་ཡིད་ཆེས་མེདཔ་བཟོ་སྲིད། དེ་འབདཝ་ལས་མི་དེ་ལུ་ག་དེ་སྦེ་ལེགས་ཤོམ་ཨིན་ན་བསམ་ཞིནམ་ལས་གཅིག་མཚུངས་སྦེ་སྤྱོད། Penn Memory Center ནང་འགོ་ཁྲིདཔ་གི་བསམ་འཆར་ནང་དྲང་པོ་སླབ་ནི་འདི་གཞི་རྟེན་ཨིན། མི་དེ་གིས་དྲང་པོའི་གནས་ཚུལ་དེ་དང་ལེན་འབད་མ་ཚུགས་པའི་སྐབས་རྐྱངམ་ཅིག་འཇམ་ཏོག་ཏོ་སྦེ་གཞན་སླབ་ཆོག དེ་འབདཝ་ལས་ཁོང་གི་ཚོར་བ་ལུ་ནམ་ཡང་ཕབ་མ་སླབ།
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+བདག་སྐྱོང་པ་མང་ཤོས་ཀྱིས་བར་ནའི་ལམ་ཅིག་འཚོལ་ཚུགས། དཔེར་ན་དྲང་པོའི་སེམས་གསོ་དང་གཞན་ལུ་སྦྱོར་ནི་ལས་འགོ་བཙུགས། «ད་རིས་མཚན་མོ་ནཱ་ལུ་སྡོད་གེ། ང་ཁྱོད་ཀྱི་སྦེ་ཡོད།» ཁྱིམ་ག་ཏེ་ཡོད་ག་ཟེར་རྩོད་མི་དགོ།
 
-## What if it happens every afternoon or evening?
+## ཉིནམ་རེ་ཕྱི་དྲོ་ ཡང་ན་དགོང་མོ་འབྱུང་བ་ཅིན་ག་དེ་སྦེ་འབད?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+ཉིནམ་རྒྱབ་ཀྱི་ཕྱི་དྲོ་འགོ་བཙུགས་ཏེ་ལྷག་སྟེ་ཚ་བའི་བརྗེ་ས་མེད་པའི་གནས་སྟངས་འདི་ལུ་མང་ཤོས་ཀྱིས་ཉི་མ་ནུབ་པའི་སྐབས་ཀྱི་སེམས་ཁྲལ་ཟེར་སླབ་ཨིན། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) གིས་ཉིནམ་རེ་གི་གོམས་གཤི་བརྟན་པོ་བཟོ་ནི། ཉིནམ་རེ་ཉི་འོད་དང་ལས་འགུལ་འབད་ནི། ཕྱི་དྲོ་ཉལ་ནི་ཉུང་བཟོ་ནི། དང་ཉིནམ་རྒྱབ་ལུ་ཀོ་ཕི་ ཡང་ན་ཆང་གི་རིགས་མ་ལེན་ནི་ལུ་བསམ་འཆར་བཀོད་ཡོད། ས་མ་རུབ་པའི་ཧེ་མ་འོད་བཏང་ནི་གིས་ཡང་ཕན་ཐོགས་འབྱུང་སྲིད། ང་བཅས་ཀྱི་ [ཕྱི་དྲོའི་སེམས་ཁྲལ་མེད་པའི་བྱེད་ལས་](/caregiving/late-day-restlessness/) ནང་ལྷག་སྟེ་ཡོད།
 
-## Keeping them safe if they try to leave
+## ཁོང་ཕྱི་ཁར་འགྱོ་ནི་ལུ་འབད་བ་ཅིན་ཉེན་སྲུང་ག་དེ་སྦེ་འབད?
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+ཁྱིམ་ལུ་འགྱོ་ནི་ལུ་སླབ་ནི་འདི་གིས་ལམ་ཁ་གོར་ནི་ལུ་འགྲོ་སྲིད། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) གིས་དྲན་ཤེས་ཉམས་པ་ཅན་གྱི་མི་ ༡༠ ནང་ ༦ ཀྱིས་ཉུང་མཐའ་ཚར་གཅིག་ལམ་ཁ་གོར་སྲིད་ཟེར་ཚོད་དཔག་འབད་ཡོད།
 
-**Prepare ahead:**
+**སྔོན་ལས་གྲ་སྒྲིག་འབད།**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ཁོང་གི་མིང་དང་ཁྱོད་ཀྱི་ཁ་པར་ཨང་ཡོད་པའི་ངོས་འཛིན་ལག་གདུབ་ ཡང་ན་སྨན་བཅོས་ཀྱི་ལག་གདུབ། གྱོན་ཆས་ནང་ཡང་མིང་བྲིས་བཞག [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) གིས་ MedicAlert དང་ Alzheimer's Association Safe and Found ལས་འཆར་གྱི་སྐོར་ལས་སླབ་ཡོད། དེ་ལུ་དངུལ་འགྲོ་སྲིད།
+- སྒོ་གི་དྲིལ་བུ་ ཡང་ན་ཉེན་བརྡ། སྒོ་ལྕགས་མཐོ་སའམ་མར་ས་ལུ་བཙུགས། ཁོང་རང་གཅིགཔོ་ལུ་ནམ་ཡང་སྒོ་མ་བཀག
+- ཉེ་ཆར་གྱི་གདོང་གི་པར་རིས་ཅིག་དང་ཁོང་འགྱོ་སྲིད་པའི་ས་གནས་ཚུ་བྲིས་བཞག དཔེར་ན་ཧེ་མའི་ཁྱིམ་ ཡང་ན་ལས་ཀ་འབད་སའི་ས་གནས།
+- ཡིད་ཆེས་ཆོག་པའི་ཁྱིམ་མཚེས་ཚུ་ལུ་སླབ་སྟེ་ཁྱོད་ཀྱི་ཁ་པར་ཨང་བྱིན།
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**ཁོང་མ་མཐོང་པ་ཅིན:** དེ་འཕྲལ་ལས་འཚོལ་འགོ་བཙུགས། Alzheimer's Association གིས་མི་མང་ཤོས་རང་མཱའིལ་ ༡.༥ གི་ནང་འཁོད་ལུ་མཐོང་སྲིད་ཟེར་སླབ་ཨིན། སྐར་མ་ ༡༥ གྱི་ནང་མ་མཐོང་པ་ཅིན་ཛ་དྲག་ཨང་ ༡༡༢ ལུ་ཁ་པར་རྐྱབ་སྟེ་ཁོང་ལུ་དྲན་ཤེས་ཉམས་པ་ཡོད་ཟེར་སླབ། སུ་ཅིག་ལུ་ཉེན་ཁ་ཡོད་པ་ཅིན་དེ་འཕྲལ་ལས་ ༡༡༢ ལུ་ཁ་པར་རྐྱབ།
 
-## When should I call a doctor?
+## ནམ་སྨན་པ་ལུ་ཁ་པར་རྐྱབ་དགོ?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+ཁོང་གིས་སླབ་ནི་འདི་ ཡང་ན་ཧ་ལམ་མི་ཤེས་པའི་གནས་སྟངས་འདི་གློ་བུར་དུ་འགོ་བཙུགས་པ་ཅིན་ ཡང་ན་ཆུ་ཚོད་དང་ཉིནམ་གཅིག་གཉིས་ཀྱི་ནང་ལྷག་སྟེ་ཚ་བ་ཅིན་དེ་འཕྲལ་ལས་སྨན་པ་ལུ་སླབ། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) གིས་གློ་བུར་དུ་ ཡང་ན་མགྱོགས་པོ་སྦེ་འགྱུར་བ་འབྱུང་མི་སྤྱོད་པ་འདི་དེ་འཕྲལ་ལས་ཞིབ་དཔྱད་འབད་དགོ་ཟེར་སླབ་ཨིན། དེ་ཡང་ནད་འབུ་ཕོག་པའི་ཤུལ་ ཡང་ན་སྨན་སྒྱུར་བཅོས་འབད་བའི་ཤུལ་ལུ་ཨིན་པ་ཅིན། གློ་བུར་ཧ་ལམ་མི་ཤེས་པ་འདི་དུས་ཐོག་ལས་བདག་སྐྱོང་དགོཔ་འོང་སྲིད། [NHS](https://www.nhs.uk/symptoms/confusion/) གིས་དེ་ལུ་མགྱོགས་པོ་གྲོགས་རམ་དགོ་ཟེར་སླབ་ཨིན། ལོ་ཆེ་བའི་མི་ཚུ་ལུ་གཅིན་ལམ་ནད་འདི་རྒྱུ་མཚན་སྤྱིར་བཏང་ཅིག་ཨིན།
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+ཤུལ་མའི་སྨན་བཅོས་སྐབས་ལུ་བརྟན་པོའི་རྒྱུན་རིམ་འདི་སླབ་ནི་གིས་ཡང་ཕན་ཐོགས་འབྱུང་སྲིད། ག་ཅི་སྦེ་ཟེར་བ་ཅིན་ན་ཚ། སེམས་སྡུག ཉལ་མ་ཚུགསཔ་ ཡང་ན་སྨན་གྱི་ཤུགས་ཀྱིས་ཡང་འདི་ནང་ལུ་ནུས་པ་འབྱུང་སྲིད།

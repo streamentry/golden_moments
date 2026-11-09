@@ -1,34 +1,29 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "དྲན་ཤེས་ཉམས་མི་གིས་བྱེད་ལས་ལུ་ངོས་ལེན་མ་འབད་བའམ་སེམས་ཁྲལ་འབྱུང་སྐབས།"
+seoTitle: "དྲན་ཤེས་ཉམས་མི་གིས་བྱེད་ལས་ངོས་ལེན་མ་འབད་པ།"
+description: "དྲན་ཤེས་ཉམས་མི་གིས་བྱེད་ལས་ལུ་ངོས་ལེན་མ་འབད་བའམ་སེམས་ཁྲལ་འབྱུང་བའི་རྒྱུ་མཚན། ཚོད་ལྟ་འབད་ནིའི་ཐབས་ལམ། འབད་མི་ཆོག་པ་དང་། གློ་བུར་དུ་འགྱུར་བ་འབྱུང་སྐབས་སྨན་པ་ལུ་ཞུ་དགོ་པའི་སྐོར།"
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  དྲན་ཤེས་ཉམས་མི་གིས་「མིན」ཟེར་སྐབས། སེམས་ཁྲལ་མེད་པར་ངོས་ལེན་འབད་ཞིནམ་ལས། ཤུལ་ལས་ཡང་བསྐྱར་ཚོད་ལྟ་འབད་ནིའམ་ གཞན་ཅིག་གསལ་སྟོན་འབད། ངོས་ལེན་མ་འབད་བའི་རྒྱུ་མཚན་ཚུ་ལུ་ བྱེད་ལས་དེ་དཀའ་དྲགསཔ་བཟུམ་ཚུགསཔ། བྱིས་པའི་བཟུམ་ཚུགསཔ། ཐང་ཆདཔ། ན་ཚ་ཡོདཔ། གྲོད་ཁོག་ལྟོགསཔ། ཡང་ན་སྒྲ་སྐད་མངམ་ལས་སེམས་ཁྲལ་འབྱུང་བ་ཚུ་འོང་སྲིད། རྩོད་པ་མ་རྒྱག ཡང་ན་བརྩོན་པ་མ་འབད། བྱེད་ལས་འཇམ་སམ་བཟོ། གདམ་ཁ་གཉིས་གསལ་སྟོན་འབད། ཡང་ན་ཁོང་གིས་གྲོགས་རམ་འབད་ནི་ལུ་ཞུ། གློ་བུར་དུ་འགྱུར་བ་འབྱུང་བའམ་ མགྱོགས་དྲགས་སྦེ་སྤྱོད་ལམ་འགྱུར་བ་ ལྷག་པར་དུ་ནད་འབུ་ནད་ཡམས་འབྱུང་ཞིནམ་ལས་ཡང་ན་སྨན་གསརཔ་ལེན་ཞིནམ་ལས་འབྱུང་སྐབས། མགྱོགས་པར་སྨན་པ་ལུ་ཞུ་དགོ།
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "「མིན」ཟེར་མི་འདི་ གུས་ཞབས་དང་ལྷན་དུ་ངོས་ལེན་འབད་དགོ་པའི་ལན་ཅིག་ཨིན། སེལ་དགོ་པའི་དཀའ་ངལ་མེན།"
+  - "ངོས་ལེན་མ་འབད་བའི་རྒྱུ་མཚན་ལུ་ དཀའ་དྲགསཔ། བྱིས་པའི་བཟུམ། ཐང་ཆདཔ། གཟུགས་ཁམས་མ་བདེཝ། སྐྱིན་པོ་མེདཔ། ཡང་ན་སེམས་ཁྲལ་མངམ་ཚུ་འོང་སྲིད།"
+  - "རིང་པོ་ཅིག་སྡོད་ཞིནམ་ལས། ཤུལ་ལས་དུས་ཚོད་གཞན་ནང་ ཡང་ན་འཇམ་སམ་གྱི་ཐོག་ལས་ཡང་བསྐྱར་ཚོད་ལྟ་འབད།"
+  - "བྱེད་ནི་ལུ་བརྩོན་པ་འབད་ནི་ལས་ གྲོགས་རམ་འབད་ནི་ལུ་ཞུ་མི་འདི་ལེགས་ཤོམ་འབྱུང་སྲིད།"
+  - "ནམ་ར་ཨིན་རུང་ རྩོད་པ་མ་རྒྱག བརྩོན་པ་མ་འབད། དྲི་བ་མ་འདྲི། ནོར་བ་མ་བཅོས། ཁྱོད་རང་གིས་མགྱོགས་དྲགས་སྦེ་འབད་མིན་ན་ ཉེ་འགྲམ་ལུ་བང་བཙོང་མི་མངམ་ཨིན་ན་ཞིབ་དཔྱད་འབད།"
+  - "གློ་བུར་དུ་འགྱུར་བ་འབྱུང་བའམ་ མགྱོགས་དྲགས་སྦེ་སྤྱོད་ལམ་འགྱུར་བ་ ལྷག་པར་དུ་ནད་འབུ་ནད་ཡམས་ཡང་ན་སྨན་གསརཔ་དང་འབྲེལ་ཏེ་འབྱུང་སྐབས། སྨན་པ་ལུ་དེ་འཕྲོས་ལས་ཞུ་དགོ།"
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "ཁོང་གིས་བྱེད་ལས་ཆ་མཉམ་མ་འབད་རུང་བཞག་བཏུབ་ག?"
+    a: "འབད་བཏུབ། ཉིནམ་རེ་རེ་བཞིན་དུ། མཉམ་དུ་སྡོད་ནི། རོལ་དབྱངས་ཉན་ནི། ཡང་ན་ཕྱི་ཁའི་གནས་སྟངས་ལུ་བལྟ་ནི་ཙམ་གྱིས་ཀྱང་ལངམ་སྲིད། དེ་འབདཝ་ད་ ཁོང་གིས་བདུན་ཕྲག་ལེ་ཤ་ཅིག་གི་རིང་ལུ་ག་ཅི་ལུ་ཡང་དགའ་ཏོག་ཏོ་མི་ཚོར་བ་ཅིན། སེམས་ཁམས་ཉམས་ཉུང་དང་ ན་ཚ། ཡང་ན་གཟུགས་ཁམས་ཀྱི་དཀའ་ངལ་གཞན་ཚུ་ཡོད་སྲིདཔ་ལས་ སྨན་པ་ལུ་ཞུ་གནང་།"
+  - q: "སྔོན་མ་དགའ་མི་བྱེད་ལས་ཚུ་ལུ་ ད་ལས་ཕར་ཅི་འབད་ངོས་ལེན་མི་འབད?"
+    a: "སྔོན་མའི་ལས་རིམ་ཅིག་ལུ་ དྲན་ཤེས་ཉམས་པ་ལས་དཀའ་ཁག་ཆེ་མི་ལས་རིགས་ཚུ་དགོ་པའི་སྐབས། སེམས་ཁྲལ་འབྱུང་སྲིདཔ་དང་ ངོ་ཚ་ཚོར་སྲིད། བྱེད་ལས་དེ་ཁོ་རའི་ཆ་ཤས་འཇམ་སམ་ཅིག་ཚོད་ལྟ་འབད། དཔེར་ན། ཨུ་ཆེན་བསྒྲིག་ནི་གི་ཚབ་ལུ་ཨེབ་རྟགས་སྒྲིག་ནི། ཡང་ན་ལྡུམ་ར་འབད་ནི་གི་ཚབ་ལུ་ལྡུམ་རའི་པར་རིས་ལུ་བལྟ་ནི་བཟུམ།"
+  - q: "ཁོང་ལུ་ཡིད་ཆེས་བཅུག་ནིའི་ཚོད་ལྟ་འབད་དགོ་ག?"
+    a: "མི་དགོ། དྲན་ཤེས་ཉམས་པ་ལས་དཀའ་ཁག་ཆེ་མི་ལས་རིམ་ཅིག་འབད་དགོ་ཟེར་བརྩོན་པ་འབད་མི་འདི་ སེམས་ཁྲལ་འབྱུང་བའི་རྒྱུ་མཚན་ཅིག་ཨིན་ཤེས་ཤོང་ཡོད། 「མིན」ཟེར་མི་དེ་ངོས་ལེན་འབད་ཞིནམ་ལས། བརྗོད་གཞི་སོར། ཤུལ་ལས་ཡང་ན་ཐབས་ལམ་གཞན་གྱི་ཐོག་ལས་ཕུལ།"
+  - q: "སྤྱོད་ལམ་འགྱུར་བ་འདི་ ནམ་གློ་བུར་ཉེན་ཁ་ཅིག་ལུ་འགྱུར?"
+    a: "ག་ཅི་ར་ཨིན་རུང་ ཉེན་ཁ་ནང་ཡོདཔ་ཡང་ན་ སྨན་བཅོས་ཉེན་ཁའི་རྟགས་མཚན་ཚུ་མཐོང་བ་ཅིན་ ༡༡༢ ལུ་ཁ་པར་འབད། གློ་བུར་དུ་སེམས་མགོ་འཁྲུགས་པ་ཡང་ན་ ཆུ་ཚོད་དང་ཉིནམ་གྱི་ནང་འཁོར་ལུ་མགྱོགས་པར་སྤྱོད་ལམ་འགྱུར་བ་ ལྷག་པར་དུ་ཚ་བ་ཡོད་པའམ་ ནད་འབུ་ནད་ཡམས་ཡང་ན་སྨན་གསརཔ་དང་མཉམ་དུ་འབྱུང་སྐབས། དེ་འཕྲོས་ལས་སྨན་པ་ལུ་ཞུ་དགོ།"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+ཁྱོད་ཀྱིས་ག་ཅི་ཡང་གྲ་སྒྲིག་འབད་ཞིནམ་ལས། རྩེདམོ་ཡང་ན་འགྲུལ་ལམ་ཅིག་གསལ་སྟོན་འབད་དེ་「མིན」ཟེར་གྱི་ཉན་ཨིན། ཡང་ན་ བྱེད་ལས་དེ་ལེགས་ཤོམ་སྦེ་འགོ་བཙུགས་རུང་ མཇུག་ལུ་ཊེབ་ལེཊི་ཕར་ཕུལ་ནི་དང་ ཚིག་སྡུག་ཅིག་བཤད་དེ་མཇུག་བསྡུ་ཨིན་མས། འདི་སེམས་ཤུགས་ཉམས་ནི་ཅིག་ཨིན་རུང་ མངོན་གསལ་སྦེ་འབྱུང་མི་ཅིག་ཨིན། ངོས་ལེན་མ་འབད་མི་དང་ སེམས་ཁྲལ་འབྱུང་མི་འདི་ སྤྱོད་ལམ་ངན་པ་མེན་པར་ བརྡ་དོན་ཅིག་ཨིན་མང་ཤོས་ཅིག་ཨིན། བརྡ་དོན་དེ་ག་ཅི་ཨིན་ན་ཧ་གོ་ནི་འདི་གིས་ ཤུལ་ལས་ག་ཅི་ཚོད་ལྟ་འབད་ནི་ཨིན་ན་སླབ་སྲིད།
 
-## Why does someone with dementia refuse activities?
+## དྲན་ཤེས་ཉམས་མི་གིས་བྱེད་ལས་ལུ་ཅི་འབད་ངོས་ལེན་མི་འབད?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+མངོན་གསལ་སྦེ་ཁོང་གིས་ཚིག་གི་ཐོག་ལས་མ་སླབ་རུང་ རྒྱུ་མཚན་ཡོད་པའི་སྐབས་མང་ཤོས་ཅིག་ཨིན། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) གིས་ཟེར་མི་ལུ་ ངོས་ལེན་མ་འབད་མི་འདི་ ཁོང་གིས་བྱེད་ལས་དེ་མི་འབད་ཚུགསཔ་ཡང་ན་ ཚོད་ལྟ་འབད་ནི་ལུ་འཇིགས་སྣང་ཡོདཔ་སྟོན་སྲིད། མངོན་གསལ་གྱི་རྒྱུ་མཚན་ཚུ་ནང་:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **དཀའ་དྲགསཔ་བཟུམ་ཚུགསཔ།** བྱེད་ལས་དེ་ལུ་ དྲན་ཤེས་ཉམས་པ་ལས་དཀའ་ཁག་ཆེ་མི་ལས་རིགས་ཚུ་དགོཔ་དང་ གཞན་གྱི་གདོང་ལུ་མ་འབད་ཚུགསཔ་ཅིན་ ངོ་ཚ་ཚོར་སྲིད།
+- **བྱིས་པའི་བཟུམ་ཚུགསཔ།** བྱིས་པའི་དོན་ལུ་བཟོ་ཡོདཔ་བཟུམ་པའི་པར་རིས། སྐད་སྒྲ་དང་ བྱེད་ལས་ཚུ་ རྒས་ཆེན་ཚུ་གིས་ཚོར་འོང་།
+- **ཐང་ཆདཔ།** མི་ལ་ལོ་ཅིག་ལུ་ ཉིནམ་གྱི་ཤུལ་མམ་ལུ་ནུས་པ་ཉུངམ་སྦེ་ཚོར་སྲིད། [ཕྱི་དྲོའི་སེམས་ཁྲལ་ཉུང་བའི་བྱེད་ལས་](/caregiving/late-day-restlessness/) ལུ་བལྟ།
+- **གཟུགས་ཁམས་ཀྱི་སྐྱིན་པོ་མེདཔ།** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) གིས་ ན་ཚ། ཉལ་མ་ཚུགསཔ། མཐོང་ནི་ཡང་ན་ཉན་ནི་ལུ་དཀའ་ངལ། བཤང་གྲོལ་མ་འབད་ཚུགསཔ། གྲོད་ཁོག་ལྟོགསཔ། ཁ་སྐོམསཔ། དང་ སྨན་གསརཔ་གི་ཤུལ་འབྲས་ཚུ་ སེམས་ཁྲལ་འབྱུང་བའི་རྒྱུ་མཚན་ལུ་འོང་སྲིདཔ་སྦེ་བཀོད་ཡོད།
+- **གནས་སྟངས་མང་དྲགསཔ།** ཊི་བི་སྒྲ་སྐད་ཆེཝ། ཁ་བརྡ་མངམ། ཡང་ན་མི་མང་སའི་ཁངམ་ཅིག་ནང་ སེམས་ཁྲལ་འབྱུང་སྲིད།
+- **བརྩོན་པ་འབད་དོ་བཟུམ་ཚོར་བ།** NIA གིས་ ཨཱལ་ཛི་མར་ནད་ཀྱིས་དཀའ་ཁག་ཆེ་བཟོ་ཡོད་པའི་ལས་རིམ་ཅིག་འབད་དགོ་ཟེར་བརྩོན་པ་འབད་མི་ཡང་ན་ བྱུང་རིམ་དང་མི་ཚུ་དྲན་དགོ་ཟེར་བརྩོན་པ་འབད་མི་འདི་ སེམས་ཁྲལ་འབྱུང་བའི་རྒྱུ་མཚན་ཅིག་སྦེ་གསུངས་ཡོད།
+- **སེམས་ཁམས་ཉམས་ཉུང་།** ག་ཅི་ལུ་ཡང་སྤྲོ་སྣང་མེདཔ་འགྱུར་མི་འདི་ སེམས་ཁམས་ཉམས་ཉུང་གི་རྟགས་མཚན་ཅིག་འོང་སྲིདཔ་ལས་ སྨན་པ་ལུ་ཞུ་ནི་འདི་གལ་ཆེ།
+- **འདོད་པ་མེདཔ།** རྒས་ཆེན་ཚུ་ལུ་「མིན」ཟེར་གདམ་ཁ་ཡོད།
 
-## What should I try when they say no?
+## ཁོང་གིས་「མིན」ཟེར་སྐབས་ ག་ཅི་ཚོད་ལྟ་འབད་ནི་ཨིན་ན?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+སེམས་ཁྲལ་མེད་པར་「མིན」ཟེར་མི་དེ་ངོས་ལེན་འབད་ཞིནམ་ལས། དུས་ཚོད། བྱེད་ལས། དཀའ་ཚད། ཡང་ན་ཞུ་སྟངས་ཅིག་བསྒྱུར།
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **ད་ལྟོ་བཞག།** 「ལེགས་ཤོམ་ཨིན། ཤུལ་ལས་ཚོད་ལྟ་འབད་གེ།」 ཟེར་ཞིནམ་ལས། དབུགས་རིངམ་མ་བཏོན་པར་ གཞན་ཅིག་ལུ་སོར།
+2. **ཤུལ་ལས་ཡང་བསྐྱར་ཚོད་ལྟ་འབད།** Alzheimer's Association གིས་ ཤུལ་ལས་ཡང་ན་ ཉིནམ་གྱི་དུས་ཚོད་གཞན་ནང་ཡང་བསྐྱར་ཚོད་ལྟ་འབད་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན།
+3. **ཆུང་ཀུ་བཟོ།** རྩེདམོ་ཆ་ཚང་གི་ཚབ་ལུ་མཐུན་པ་གཅིག། གོན་ཆས་ཚང་མའི་ཚབ་ལུ་ཐོབ་ལེ་གཅིག། པར་རིས་ཉུངམ། གདམ་ཁ་ཉུངམ། པར་རིས་ཚུ་མཐོང་སྟོན་འབད།
+4. **གདམ་ཁ་གཉིས་ཕུལ།** 「བྱ་རིགས་ཀྱི་པར་རིས་ལུ་བལྟ་ནི་དགའ་ག་ ཡང་ན་རོལ་དབྱངས་ཉན་ནི་དགའ་ག?」 གདམ་ཁ་ཅིག་གིས་ ཁོང་ལུ་རང་གིས་ཐག་གཅད་ཚུགས་པའི་ཚོར་སྣང་ཕར་བྱིན་ཚུགས།
+5. **བརྟག་དཔྱད་འབད་ནི་གི་ཚབ་ལུ་ གྲོགས་རམ་ཞུ།** 「འདི་ཚུ་སྒྲིག་ནི་ལུ་གྲོགས་རམ་འབད་གནང་?」 ཡང་ན་ 「ཚོས་གཞི་ག་འདི་ལེགས་ཤོམ་མཐོངམ་སྨོ?」 དགོས་མཁོ་ཡོདཔ་བཟུམ་ཚོར་མི་འདི་ བརྟག་དཔྱད་འབད་དོ་བཟུམ་ཚོར་མི་ལས་ སོ་སོར་ཨིན།
+6. **ཁྱོད་རང་གིས་འགོ་བཙུགས།** ཁོང་གི་འཁྲིས་ནང་སྡོད་དེ་ དྲི་བ་མ་འདྲི་བར་ བྱེད་ལས་དེ་འགོ་བཙུགས། མི་མང་ཤོས་ཅིག་གིས་ འགོ་བཙུགས་དེ་ཡོད་པའི་ཤུལ་ལས་ མཉམ་ཞུགས་འབད་ཨིན། མ་འབད་རུང་ ཁྱོད་གཉིས་ཀྱིས་དུས་ཚོད་ཅིག་མཉམ་དུ་སྤྱོད་ཡོདཔ་ཨིན།
+7. **ལུས་སྦྱོང་ཡང་ན་སེམས་གསོའི་བྱེད་ལས་ལུ་སོར།** ཐུང་ཀུ་འགྲུལ་ལམ། རོལ་དབྱངས། ཟས་ཕྲུག། གོན་ཆས་ལྡེབ་ནི། ཡང་ན་མཉམ་དུ་འབད་མི་ [སེམས་གསོའི་དབུགས་རྔ་](/games/calm-breathing/) བཟུམ། NIA གིས་ རོལ་དབྱངས། དེབ། ཡང་ན་འགྲུལ་ལམ་ལུ་དོ་སྣང་སོར་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན།
+8. **ཁོང་གི་ཐབས་ལམ་ལུ་འབད་བཅུག** ཁོང་གིས་སྒྲིག་གཞི་དང་མ་མཐུན་པར་རྩེ་དགོ་མི་ཅིན་ དེ་བཟུམ་སྦེ་འབད་བཅུག། Alzheimer's Association གིས་ བསྒྱུར་བཅོས་ལུ་ཕན་ཐོགས་ཡོད་པར་འབད་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན།
 
-## What should I say when they get frustrated?
+## ཁོང་ལུ་སེམས་ཁྲལ་འབྱུང་སྐབས་ ག་ཅི་སླབ་དགོ?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+ལྷོད་ལྷོད་སྦེ་སླབ་ཞིནམ་ལས། སྐད་ཤུགས་མར་ཕབ། སེམས་གསོ་སྟོན། [Alzheimer's Association གི་སེམས་ཁྲལ་སྐོར་གྱི་ལམ་སྟོན་](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ནང་ རིང་པོ་ཅིག་སྡོད་ཞིནམ་ལས་གནང་བ་ཞུ་ནི། སེམས་ཁྲལ་མེད་པའི་ཚིག་ལེགས་ཤོམ་སྦེ་སླབ་ནི། དང་ གདམ་ཁ་གཉིས་ནང་ལས་གཅིག་གདམ་བཅུག་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན། དེ་དང་མཐུན་པའི་ཚིག་ཚུ་:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- 「དགོངས་དག འདི་སེམས་ཁྲལ་བཟོ་བའི་བཟུམ་འདུག བཞག་གེ།」
+- 「ཁྱོད་ཀྱིས་ལེགས་ཤོམ་སྦེ་འབད་དོ། ང་འདི་ནང་ཡོད།」
+- 「ང་ལུ་གཞན་ཅིག་གི་གྲོགས་རམ་འབད་ནིའི་དུས་ཚོད་ཡོད་ག?」
+- 「དེ་གི་ཚབ་ལུ་ཇ་ཐུང་གེ?」
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+དེ་ལས་ གནད་དོན་ཆེན་པོ་མ་བཟོ་བར་ བྱེད་ལས་དེ་མཇུག་བསྡུ། ག་ཅི་སླབ་ནི་ཨིན་ན་ཧ་གོ་ནིའི་དོན་ལུ་ ང་བཅས་ཀྱི་ [ཁ་བརྡའི་བསླབ་བྱ་](/caregiving/communication-tips/) ལུ་བལྟ།
 
-## What should I avoid?
+## ག་ཅི་འབད་མི་ཆོག?
 
-Some natural reactions tend to make things worse.
+ལན་སློག་ལ་ལོ་ཅིག་འདི་ གནས་སྟངས་ལེགས་ཤོམ་མ་བཟོ་བར་ ལྷག་པར་ཚ་རུ་འགྱོ་སྲིད།
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **རྩོད་པ་རྒྱག་པ་ཡང་ན་བརྩོན་པ་འབད་ནི།** 「ཚར་གཅིག་རྐྱངམ་ཅིག་འབད」 ཡང་ན་ 「ཁྱོད་འདི་ལུ་དགའ་བའི」 ཟེར་མི་ཚུ་གིས་ཕན་ཐོགས་ཉུངམ་སྲིད།
+- **དྲི་བ་འདྲི་ནི་ཡང་ན་ནོར་བ་བཅོས་ནི།** 「ཁྱོད་ཀྱིས་འདི་ཤེས་གི」 ཡང་ན་ 「མེན། དེ་ནོར་འདུག」 ཟེར་མི་འདི་གིས་ བརྩོན་ཤུགས་ཁ་སྐོང་འབདཝ་ཨིན།
+- **རང་ཉིད་ལུ་འཁྲིད་ནི།** NIA གིས་ འགྱུར་བ་འདི་ཚུ་ནད་ཀྱིས་བཟོཝ་ཨིན། མི་དེ་གིས་མེན་ཟེར་ བདག་འཛིན་པ་ཚུ་ལུ་དྲན་སྐུལ་འབདཝ་ཨིན།
+- **ཉེ་འགྲམ་ལུ་བང་བཙོང་འབད་ནི་ཡང་ན་མགྱོགས་དྲགས་འབད་ནི།** Alzheimer's Association གིས་ སྐད་ཤུགས་མཐོཝ་མ་བཟོ། འཇིགས་སྣང་མ་སྟོན། མཐའ་ལུ་མ་བཀག མི་མང་ས་ལུ་མ་བང་བཙོང་འབད། མ་བཀག སྐྱོན་མ་བརྗོད། སྣང་མེད་མ་བཞག རྩོད་པ་མ་རྒྱག དང་ ཁོང་གི་མཐོང་ས་ལས་གློ་བུར་དུ་ལུས་ཀྱི་འགུལ་སྐྱོད་མ་འབད་ཟེར་བསླབ་སྟོན་འབདཝ་ཨིན།
+- **སེམས་ཁྲལ་བཟོ་ནི།** 「ང་གིས་ཁྱོད་ཀྱི་དོན་ལུ་གེ་ར་གྲ་སྒྲིག་འབད་ཡི」 ཟེར་མི་འདི་གིས་ ཁྱོད་གཉིས་ཆ་ར་ལུ་སེམས་ཁྲལ་ཁ་སྐོང་འབདཝ་ཨིན།
+- **མིང་ངན་པ་བཏགས་ནི།** 「རང་དབང་ཅན」 ཡང་ན་ 「དཀའ་ཁག་ཅན」 ཟེར་མི་འདི་གིས་ ངོ་མའི་རྒྱུ་མཚན་སྦ་བཞགཔ་ལས་ སེལ་ཐབས་འཚོལ་ནི་ལུ་དཀའ་ཁག་བཟོཝ་ཨིན།
 
-## How can I find out what is behind repeated refusals?
+## ཡང་བསྐྱར་ཡང་བསྐྱར་ངོས་ལེན་མ་འབད་མིའི་རྒྱུ་མཚན་འདི་ ག་དེ་སྦེ་ཧ་གོ་ནི་ཨིན་ན?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+བདུན་ཕྲག་གཅིག་གམ་གཉིས་ཀྱི་རིང་ལུ་ འཇམ་སམ་སྦེ་དྲན་ཐོ་བཀོད། NIA གིས་ སྤྱོད་ལམ་གྱི་འགྱུར་བ་ཚུ་བརྟག་ཞིབ་འབད་མི་འདི་གིས་ བདག་འཛིན་པ་དང་ སྨན་བཅོས་ཞབས་ཏོག་པ་ཚུ་ལུ་ རྒྱུན་རིམ་ཧ་གོ་ནི་དང་ རྒྱུ་མཚན་འཚོལ་ནི་ལུ་གྲོགས་རམ་འབད་ཚུགས་ཟེར་སླབ་ཨིན།
 
-Jot down:
+འོག་གི་ཚུ་འཇམ་སམ་སྦེ་བྲིས:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ཉིནམ་གྱི་དུས་ཚོད།
+- ག་ཅི་གསལ་སྟོན་འབད་ཡི་དང་ ག་དེ་སྦེ་ཞུ་ཡི།
+- ཉེ་འགྲམ་ནང་ག་ཅི་འབྱུང་དོ་ཡོདཔ་ (སྒྲ་སྐད། མགྲོན་པོ། ཊི་བི།)།
+- ཁོང་ག་དེ་སྦེ་ཉལ་ཡི་དང་ ཟ་ཡི། འཐུང་ཡི། དང་ མཇུག་མམ་ག་དེ་ཁར་བཤང་ཁྲིམས་ཕུལ་ཡི།
+- སྨན་གསརཔ་ཡང་ན་ ཉེ་ཆར་གྱི་ན་ཚ་ཡོད་མེད།
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+རྒྱུན་རིམ་ཚུ་ མགྱོགས་པར་མཐོང་སྲིད། དཔེར་ན། ཕྱི་དྲོ་ཆུ་ཚོད་ ༤ གི་ཤུལ་ལས་རྐྱངམ་ཅིག་ངོས་ལེན་མ་འབད་མི། རྩེདམོ་དམིགས་བསལ་ཅིག་གི་སྐབས་རྐྱངམ་ཅིག་ངོས་ལེན་མ་འབད་མི། ཡང་ན་ ཊི་བི་སྒྲ་སྐད་ཡོད་པའི་སྐབས་རྐྱངམ་ཅིག་ངོས་ལེན་མ་འབད་མི་བཟུམ། Family Caregiver Alliance གི་ [དྲན་ཤེས་ཉམས་པའི་སྤྱོད་ལམ་སྐོར་གྱི་ལམ་སྟོན་](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ནང་ འཇམ་སམ་སྦེ་གསུངས་མི་ལུ་ ང་བཅས་ཀྱིས་མི་དེ་སོར་མི་བཏུབ་རུང་ ང་བཅས་རང་གི་སྤྱོད་ལམ་དང་ མཐའ་འཁོར་གྱི་གནས་སྟངས་ཚུ་བསྒྱུར་བཅོས་འབད་ཚུགས།
 
-## When should I talk to a doctor about refusal or frustration?
+## ངོས་ལེན་མ་འབད་མི་དང་ སེམས་ཁྲལ་འབྱུང་མིའི་སྐོར་ལུ་ ནམ་སྨན་པ་ལུ་ཞུ་དགོ?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+སྤྱོད་ལམ་གློ་བུར་དུ་འགྱུར་བའམ་ མགྱོགས་པར་འགྱུར་བ་ཡང་ན་ ན་ཚའི་རྟགས་མཚན་དང་མཉམ་དུ་འབྱུང་སྐབས་ སྨན་པ་ལུ་ཞུ་གནང་། NIA གིས་ གློ་བུར་དུ་ཡང་ན་ མགྱོགས་དྲགས་སྦེ་སྤྱོད་ལམ་འགྱུར་བ་ ལྷག་པར་དུ་ནད་འབུ་ནད་ཡམས་འབྱུང་ཡོད་པའམ་ ཉེ་ཆར་སྨན་བསྒྱུར་བཅོས་འབད་ཡོད་པའི་སྐབས། དེ་འཕྲོས་ལས་སྨན་པ་ལུ་ཞུ་དགོ་ཟེར་སླབ་ཨིན།
 
-Contact their doctor promptly if you notice:
+འོག་གི་ཚུ་མཐོང་བ་ཅིན་ དེ་འཕྲོས་ལས་སྨན་པ་ལུ་ཞུ་གནང་།
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- གློ་བུར་དུ་སེམས་མགོ་འཁྲུགས་པ་ཡང་ན་ ཆུ་ཚོད་དང་ཉིནམ་གྱི་ནང་འཁོར་ལུ་འགྱུར་བ་ཆེན་པོ་འབྱུང་བ།
+- ན་ཚའི་རྟགས་མཚན་ དཔེར་ན། གདོང་གདངས་འགྱུར་བ། ལུས་ཀྱི་ཆ་ཤས་ཅིག་བཀག་ནི། ཡང་ན་ ལུས་ཀྱི་འགུལ་སྐྱོད་ལུ་དཀའ་ངལ་གསརཔ་འབྱུང་བ།
+- ཚ་བ་ཡོད་པ་ཡང་ན་ ནད་འབུ་ནད་ཡམས་ཀྱི་རྟགས་མཚན་གཞན།
+- སྨན་གསརཔ་འཐོབ་པའམ་བསྒྱུར་བཅོས་འབད་ཞིནམ་ལས་ སྤྱོད་ལམ་འགྱུར་བ་འབྱུང་བ།
+- བདུན་ཕྲག་གཉིས་ལས་ལྷག་སྟེ་ ག་ཅི་ལུ་ཡང་སྤྲོ་སྣང་མེདཔ་འགྱུར་བ། མིག་ཆུ་བཏོན་ནི། ཡང་ན་རང་གིས་རང་ལུ་ཕར་འཐེན་འབད་ནི།
+- ཟས་དང་ཆུ་མི་ལེན་པར་ངོས་ལེན་མ་འབད་ནི།
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association གིས་ སྤྱོད་ལམ་གྱི་རྟགས་མཚན་ཡོད་པའི་མི་ག་ར་ལུ་ ལྷག་པར་དུ་གློ་བུར་དུ་འབྱུང་སྐབས། སྨན་བཅོས་ཞིབ་དཔྱད་འབད་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན། Family Caregiver Alliance གིས་ཡང་ སྤྱོད་ལམ་གྱི་དཀའ་ངལ་ཚུ་ལུ་ སྨན་བཅོས་ཀྱི་རྒྱུ་མཚན་ཡོད་སྲིདཔ་ལས་ ཧེ་མ་ལས་སྨན་པ་ལུ་ཞུ་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན། སྨན་པ་ཡང་ན་སྨན་ཚོང་པ་དང་གྲོས་བསྡུར་མ་འབད་བར་ སྨན་འགོ་མ་བཙུགས། མ་བཞག ཡང་ན་མ་བསྒྱུར།
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+ག་ཅི་ར་ཨིན་རུང་ ཉེན་ཁ་ནང་ཡོདཔ་ཡང་ན་ སྨན་བཅོས་ཉེན་ཁའི་རྟགས་མཚན་ཚུ་མཐོང་བ་ཅིན་ ༡༡༢ ལུ་ཁ་པར་འབད། NIA གིས་ ཁ་པར་ལེན་མི་ལུ་ མི་དེ་ལུ་དྲན་ཤེས་ཉམས་པ་ཡོདཔ་སྦེ་སླབ་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན།
 
-## Is it okay if we do nothing at all?
+## ང་བཅས་ཀྱིས་ག་ཅི་ཡང་མ་འབད་རུང་བཞག་བཏུབ་ག?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+བཏུབ། ཉིནམ་ལ་ལོ་ཅིག་ལུ་ བྱེད་ལས་ལེགས་ཤོམ་འདི་ བྱེད་ལས་མེད་པའི་དུས་ཚོད་ཨིན་སྲིད། མཉམ་དུ་སྡོད་ནི། ལགཔ་འཇུག་ནི། དགའ་མི་རོལ་དབྱངས་ཉན་ནི། ཡང་ན་ སྒོ་ཁར་ལས་བྱ་ཚུ་ལུ་བལྟ་ནི་བཟུམ། འདི་མ་ཐོབ་པ་མེན། ང་བཅས་ཀྱི་ [མཉམ་དུ་རྩེ་ནིའི་ལམ་སྟོན་](/caregiving/how-to-play-together/) ནང་ སྔ་པོ་མཇུག་བསྡུ་ནི་ཡང་ན་ ནམ་ཡང་འགོ་མ་བཙུགས་པར་བཞག་ནི་འདི་ ཐག་གཅད་ལེགས་ཤོམ་ཅིག་འོང་སྲིད་པའི་སྐོར་འགྲེལ་བཤད་འབད་ཡོད།

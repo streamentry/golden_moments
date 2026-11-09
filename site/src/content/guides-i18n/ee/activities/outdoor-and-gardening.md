@@ -1,32 +1,34 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Gotagome kple abɔdede ƒe dɔwɔnawo na ame siwo le agbe nɔm kple ŋkuɖoɖo ƒe kuxi"
+seoTitle: "Abɔdede kple gotagome dɔwɔnawo le ŋkuɖoɖo ƒe kuxi me"
+description: "Abɔdede kple gotagome dɔwɔna ƒe susuwo na ame siwo le agbe nɔm kple ŋkuɖoɖo ƒe kuxi, kple abɔ siwo kɔ kpo, ze me abɔwo, kple dzoxɔxɔ, ɣe kple tsatsam ƒe ametakpɔkpɔ ƒe aɖaŋuɖoɖowo."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Abɔdede kple ɣeyiɣi zazã le gota ate ŋu anye dɔwɔna si fa akɔ na eye wònye
+  nusi ame si le agbe nɔm kple ŋkuɖoɖo ƒe kuxi nya nyuie. Te kpɔ be nàde tsi
+  atiwo, ado amagbewo ɖe zewo me, aɖe seƒoƒo siwo yrɔ ɖa, alo azɔ mɔ kpui aɖe le
+  abɔ si ŋu gli le me. Zã abɔ siwo kɔ kpo alo kplɔ̃ ale be ame aɖeke madze klo
+  o, ƒo asa na dɔwɔnu siwo ɖa nu, ati siwo ŋu ŋu le alo siwo gblẽa nu le ame
+  ŋu, nàyi gota le ŋkeke ƒe akpa si me vuvɔ le wu me, eye nànɔ ame la gbɔ
+  ɣesiaɣi.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Abɔmedɔ bɔbɔewo abe tsi dede atiwo ŋu, nuku dodo ɖe zewo me, amagbewo ʋeʋẽ kple wo ŋɔŋlɔ, kple seƒoƒowo ŋeŋe ate ŋu awɔ le tsitre alo anyinɔƒe."
+  - "Abɔ siwo kɔ kpo, zewo kple kplɔ̃ si ŋu nutsyɔnu le la kɔa abɔdedea ɖe ali dzi eye wòɖea anyidzedze ƒe afɔku dzi kpɔtɔna."
+  - "Ƒo asa na dɔwɔnu siwo ɖa nu, ati siwo ŋu ŋu le alo siwo vea ame nu, kple nusiwo katã gblẽa nu le ame ŋu. Kpɔ egbɔ be womebu anyigba nuɖuɖu o."
+  - "Dzoxɔxɔ ate ŋu anye afɔku na ame tsitsiwo. Yi gota le ŋdi kanya alo fiẽ, tsɔ tsi kple vɔvɔli ɖe asi, eye nàge ɖe aƒe me ne èkpɔ dzigbɔgbɔɖi ƒe dzesi gbãtɔ."
+  - "Ame geɖe siwo le agbe nɔm kple ŋkuɖoɖo ƒe kuxi tsoa tsatsam ɣeaɖewoɣi. Nɔ ame la gbɔ le gota ɣesiaɣi eye nàlé eƒe foto yeye kple dzesidenu ɖe asi."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Abɔdede ƒe dɔwɔna kawoe ame si le agbe nɔm kple ŋkuɖoɖo ƒe kuxi ate ŋu awɔ?"
+    a: "Tsi dede atiwo ŋu, nukuwo dodo ɖe ze suewo me, amagbewo ʋeʋẽ kple wo ŋɔŋlɔ, seƒoƒo siwo yrɔ ɖeɖe, amagbe alo kutsetse ŋeŋe, seƒoƒo siwo wolã ɖoɖo, kple mɔ tutu nye tiatia nyuiwo. Le aƒe me la, amagbe ze le fesre nu alo anyigba le agba dzi le kplɔ̃ si ŋu nutsyɔnu le dzi hã wɔa dɔ nyuie. Tia dɔa le nusi ame la lɔ̃na tsã kple nusi wòate ŋu awɔ bɔbɔe fifia nu."
+  - q: "Aleke mawɔ akpɔ ame si le agbe nɔm kple ŋkuɖoɖo ƒe kuxi ta le dzoxɔxɔ me?"
+    a: "Ðo gotagome ɣeyiɣi ɖe ŋdi kanya alo fiẽ si me vuvɔ le wu, wɔe kpui, eye nàna tsi ame la edziedzi. Tia vɔvɔli, kuku si keke gbadza, awu siwo le bɔbɔe eye womele kpekpem o, kple ɣeŋutakpɔnu. Afɔku si le dzoxɔxɔ ƒe dɔléle me lolo wu na ame tsitsiwo, eye tɔtɔ, mo ƒe tsatsam alo dɔléle ate ŋu anye nuxlɔ̃amedzesiwo, eyata ne èkpɔ wo la, ge ɖe aƒe me enumake nàfa tu."
+  - q: "Aleke míawɔ ayi gota ne edzɔa zi geɖe be wòtsana?"
+    a: "Nɔ ame la gbɔ ɣeyiɣi bliboa, zã abɔ si ŋu gli kple agbo si wotu le, eye nàkpɔ egbɔ be alidzesi alo dzesidenu le esi. Lé eƒe foto yeye ɖe asi. Ne ame la bu la, Alzheimer's Association ɖoa aɖaŋu be woayɔ 112 ne womekpɔe le aɖabaƒoƒo 15 megbe o."
+  - q: "Nukae míawɔ ne abɔ mele mía si o?"
+    a: "Ze ʋɛ aɖewo le akpata dzi, fesrenu ze, alo amagbewo le agba dzi le nuɖukplɔ̃ dzi sɔ gbɔ. Àte ŋu ayi abɔ siwo amewo katã zãna, abɔ gã aɖe alo nutome abɔ hã. Anyinɔnɔ le gota nèse xeviwo ƒe ha hã nye gotagome dɔwɔna."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +53,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Na ame geɖe la, abɔ mee nye teƒe siwo wonya nyuie wu dometɔ ɖeka. Anyigba kuku, tsi dede atiwo ŋu kple seƒoƒowo ŋeŋe zãa aɖaŋu siwo wosrɔ̃ gbe aɖe gbe ke, eye gotanɔnɔ hea ya fafɛ, ɣe ƒe keklẽ kple xeviwo ƒe ha vɛ. National Institute on Aging yɔ atiwo dzi kpɔkpɔ, seƒoƒowo kple amagbewo dodo, kple [nuƒoƒo tso ale si atiwo le tsitsim ŋu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ɖe dɔwɔna siwo ate ŋu adze ame siwo le agbe nɔm kple Alzheimer ƒe dɔléle ŋu dome. Axa sia ƒo nu tso nusiwo nàte kpɔ, ale si nàwɔ be abɔdede nanɔ bɔbɔe wu, kple ale si nànɔ dedie le dzoxɔxɔ, ɣe kple tsatsam me ŋu.
 
-## What outdoor and gardening activities work well?
+## Gotagome kple abɔdede ƒe dɔwɔna kawoe wɔa dɔ nyuie?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Dɔ siwo nyo wu nye esiwo le bɔbɔe, wonye nusiwo wonya, eye woate ŋu awɔ wo le tsitre alo anyinɔƒe. Tia wo le nusi ame la lɔ̃na tsã nu.
 
-### In the garden
+### Le abɔa me
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Tsi dede.** Tsigoe sue kpekpe aɖe alo tsidenu si ƒe nu le bɔbɔe kple ze ʋɛ aɖewo siwo le asi gbɔ. Tsi dede ƒe gɔmedzedze kple nuwuwu me kɔ, eye metea ŋu gbɔa dzɔ o.
+2. **Nukuwo dodo ɖe zewo me.** Alzheimer's Foundation of America ɖoa aɖaŋu be woado nukuwo ɖe ze suewo me eye [woakpɔ ale si wole tsitsim](https://alzfdn.org/dementia-activity-gardening/). Nuku gãwo abe ayi, ɣeƒoƒo alo ayi ƒomevi ene le bɔbɔe be woalé.
+3. **Seƒoƒo siwo yrɔ ɖeɖe.** Seƒoƒo siwo yrɔ ƒe ɖeɖe kple asi nye dɔ bɔbɔe si wogbugbɔna wɔna. Tia ati siwo ŋu ŋu mele o.
+4. **Amagbewo alo amagbewo ŋeŋe.** Tomatosi suewo, ayi ƒomevi kple amagbewo le bɔbɔe be woaŋe eye wovivina be woaɖu. Tsɔ wo yi aƒe me nàzã le ŋdɔnuɖuɖu me.
+5. **Amagbewo ʋeʋẽ kple wo ŋɔŋlɔ.** Rosemary, mint kple lavender ƒe ʋeʋẽ sesẽ eye wòvivina. Mimi aŋgba ɖeka le wò asibidɛwo dome eye nàtsɔe ado ɖe ŋgɔ nɛ.
+6. **Mɔ alo akpata tutu.** Tutumenu kpekpe aɖe le anyigba si le gbadza eye wòƒu, ne ame la te ŋu nɔa tsitre nyuie.
+7. **Nuku dede xeviɖunu me.** Emegbe mia nɔ anyi ɖekae akpɔ amesiwo va.
 
-### Indoors, when going out is not possible
+### Le aƒe me, ne gotayiyi mele bɔbɔe o
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Amagbe ze le fesre nu** abe basil, parsley alo chives ene.
+- **Atidodoe le kplɔ̃ si ŋu nutsyɔnu le dzi.** AFA ɖoa aɖaŋu be woazã agba abe nuɖuxɔ me tɔ ene atsɔ alé anyigba ɖe teƒe ɖeka eye woatsɔ kɔpu suewo atsɔ anyigba aɖo teƒe bubu.
+- **Seƒoƒo siwo wolã ɖoɖo** kple seƒoƒowo kple amagba siwo tso abɔa me alo fiase.
+- **Seƒoƒowo mimi** tso seƒoƒo ƒuƒoƒo aɖe me, emegbe woatsɔ wo atɔ ɖe agbalẽviwo ŋu. Kpɔ [asinudɔwɔwɔwo](/activities/arts-and-crafts/) hena nyatakaka bubuwo.
+- **Lavender alo rose ƒe kotoku suewo wɔwɔ**, si nye AFA ƒe susu bubu si tsɔa abɔa ƒe ʋeʋẽ vaa aƒe me.
 
-### Getting out and about
+### Gotadodo kple mɔzɔzɔ
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Mɔzɔzɔ kpui aɖe** le nutome, abɔ si amewo katã zãna alo abɔmenuwo dzraƒe, blewu eye teƒe aɖe nanɔ anyi be woanɔ anyi.
+- **Anyinɔnɔ le gota** le akpata alo zikpui dzi ase xeviwo ƒe ha eye nàse ya fafɛ. Esia ŋutɔ nye dɔwɔna blibo.
+- **Abɔ gã aɖe sasrãkpɔ** le ŋkeke ƒe akpa si me tomefafa le. NHS gblɔ be teƒe aɖewo ƒe abɔwo me amagbewo siwo ʋẽna, nu siwo woate ŋu aka asi ŋu kple tsi ƒe dzesiwo le.
+- **Xeviwo nuɖuɖu alo wo kpɔkpɔ** le tɔsisi sue aɖe gbɔ, gake nànɔ adzɔge tso tsia ƒe go ŋu.
 
-## How do I make a garden easier to use?
+## Aleke mawɔ be abɔdede nanɔ bɔbɔe wu?
 
-Bring the garden up to the person, not the other way around.
+Tsɔ abɔdedea va ame la gbɔ, menye be nàna ame la nayi abɔdedea gbɔ o.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Abɔ siwo kɔ kpo alo zewo siwo kɔ** siwo le abe ali ene fia be ame aɖeke madze klo alo abɔbɔ o.
+- **Zewo le kplɔ̃ dzi** wɔa dɔ na ame siwo zãa zikpui si woʋuna alo esiwo lɔ̃a anyinɔnɔ.
+- **Mɔ siwo keke eye wole gbadza** siwo dzi kpe siwo le ʋuʋum alo tsidenuwo mele o la ɖea afɔklinu ƒe afɔku dzi kpɔtɔna.
+- **Zikpui siwo ŋu abɔléti kple vɔvɔli le** le mɔa dzi, ale be gbɔdzɔe ate ŋu anɔ bɔbɔe ɣesiaɣi.
+- **Dɔwɔnu siwo ƒe asiléƒe lolo eye wofa** siwo léle le bɔbɔe. Ƒo asa na lãɖenuwo, hɛwo kple nusiwo katã ɖa nu.
+- **Teƒe si ŋu gli kple agbo si wotu le** si me ame la ate ŋu azɔ faa esime nèle egbɔ.
 
-## Which plants should I avoid?
+## Ati kawoe wòle be maƒo asa na?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Tia ati siwo ŋu asikaka le dedie, eye ne anya wɔ la, esiwo megblẽa nu ne woɖu wo o. AFA ɖoa aɖaŋu be woazã ati siwo mevea ŋutigbalẽ nu zi geɖe o, woakpɔ be ŋutigbalẽ ƒe dɔléle aɖe le amea ŋu hã, eye woalé ŋku ɖe ame si ate ŋu abu anyigba nuɖuɖu ŋu nyuie. NIA ƒe aƒeme dedienɔnɔ ƒe aɖaŋuɖoɖo lɔ ati siwo gblẽa nu le ame ŋu ɖeɖe ɖa alo wo tutu ɖe eme.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Ƒo asa na roses siwo ŋu ŋu le, cacti, kple ati siwo ƒe tsi vea ŋutigbalẽ nu.
+- Ne èmenya ati aɖe nyuie o la, bia aɖitɔxɔkpɔƒe alo abɔmenuwo dzraƒe hafi nàdoe.
+- Ati siwo wonya tsã ate ŋu ahe seselelãme nyuiwo vɛ. AFA yɔ roses kple Christmas cactus abe kpɔɖeŋuwo ene. Tia esiwo ŋu ŋu mele o.
+- Lé atiŋudonuwo, nudzodzoe wutinuwo kple gbe wutinuwo ɖe teƒe si wotu, eye mègaɖe wo le teƒe siwo ame la ate ŋu aɖo o.
 
-## How do I stay safe in the heat and sun?
+## Aleke manɔ dedie le dzoxɔxɔ kple ɣe me?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Ðo gotagome ɣeyiɣi ɖe yame ƒe nɔnɔme ŋu. NIA ɖe eme be afɔku si le [dzoxɔxɔ ƒe dɔléle](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) me lolo wu na ame tsitsiwo, elabena ŋutilã metrɔna ɖe yame ƒe dzoxɔxɔ ŋu nyuie o eye atike aɖewo hã kpɔa ŋusẽ ɖe ale si ŋutilã wɔa nu ɖe dzoxɔxɔ ŋu dzi.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Yi gota le ŋdi kanya alo fiẽ.** Ƒo asa na ŋkeke titina le dzomeŋɔli me. Kpɔ dzoxɔxɔ ƒe sesẽme, menye dzoxɔxɔa ɖeɖe ko o.
+- **Na tsi edziedzi.** Megalala be ame la nagblɔ be tsikɔ le ewuyem o. Ƒo asa na aha kple nunono siwo me caffeine le le dzoxɔxɔ me.
+- **Do awu siwo sɔ.** Awu siwo ƒe amadede le ʋeʋẽm, wole bɔbɔe, kuku si keke gbadza kple ŋkuŋutakpɔnu.
+- **Zã ɣeŋutakpɔnu.** NIA ɖoa aɖaŋu be woazã broad-spectrum SPF 15 alo esi wu nenema, eye woagbugbɔ asi enu le ŋkekea me.
+- **Tia vɔvɔli.** Ðo atidodoe kplɔ̃a ɖe ati alo vɔvɔlita te.
+- **Wɔe kpui.** Ɣeyiɣi kpui aɖe le gota ate ŋu asɔ gbɔ, vevietɔ le ŋkeke siwo dzi dzoxɔxɔ le.
+- **Lé ŋku ɖe nuxlɔ̃amedzesiwo ŋu.** NIA yɔ taɖuame, tɔtɔ, mo ƒe tsatsam alo dɔléle be woate ŋu anye dzoxɔxɔ ƒe dɔléle ƒe dzesiwo. Ame si le agbe nɔm kple ŋkuɖoɖo ƒe kuxi ate ŋu magblɔ na wò be yemele nyuie o, eyata kpɔ eƒe mo kple eƒe nuwɔnawo. Ge ɖe aƒe me, fa tu kple tsi kple avɔ fafɛ, eye nàdi atikewɔla ƒe kpekpeɖeŋu ne eƒe nɔnɔme meva nyo kaba o. Dzoxɔxɔ ƒe dɔvɔ̃, si ƒe dzesiwo ate ŋu anye anyidzedze, tɔtɔ, alo ŋutigbalẽ ƒuƒu si me tsi mele o, nye nudzɔdzɔ kpata si hiã atikewɔla ƒe kpekpeɖeŋu enumake: yɔ 112.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Vuvɔ hã le vevie. Le vuvɔŋɔli me la, wɔ gotagome ɣeyiɣia kpui eye nàkpɔ egbɔ be asi kple afɔ le dzoxɔxɔ kple ƒuƒu me.
 
-## How do I handle wandering when we go outside?
+## Aleke mawɔ akpɔ tsatsam gbɔ ne míeyi gota?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Nɔ ame la gbɔ ɣesiaɣi si wòle gota. Alzheimer's Association gblɔ be [ame 10 dometɔ 6 siwo le agbe nɔm kple ŋkuɖoɖo ƒe kuxi](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) atsa mɔ zi ɖeka ya teti, eye wo dometɔ geɖe wɔa esia wu zi ɖeka. Ate ŋu adzɔ le akpa ɖesiaɖe me.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA ƒe [aɖaŋuɖoɖowo tso tsatsam kple bubu ŋu](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) lɔ:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Kpɔ egbɔ be alidzesi alo atikewɔwɔ ƒe alidzesi le ame la ŋu si dzi eƒe ŋkɔ, adrɛs kple wò telefon xexlẽdzesi le, alo nàde dzesi eƒe awuwo.
+- Lé ame la ƒe foto alo video yeye ɖe asi.
+- Na aƒelika siwo nya be ame la ate ŋu atsa mɔ.
+- Tu gli ɖe abɔa ŋu eye nàtu agboa.
+- Mègblẽ ame si tsa mɔ kpɔ va yi ɖe eɖokui si o.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association gado susu ɖa be woawɔ teƒe siwo le aƒe me kple gota siwo me woate ŋu azɔ dedie le, eye woaɖo dɔwɔnawo ɖe ŋkeke ƒe akpa si me dzigbɔgbɔɖi dzɔna zi geɖe wu ŋu. Mɔzɔzɔ le abɔ si ŋu gli le, si le dedie me ate ŋu anyo na fiẽ me dzigbɔgbɔɖi. Kpɔ míaƒe mɔfiame tso [fiẽ me dzigbɔgbɔɖi](/caregiving/late-day-restlessness/) ŋu.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Ne ame la bu la, Alzheimer's Association ɖoa aɖaŋu be woadi eyome le nutome enumake eye woayɔ 112 ne womekpɔe le aɖabaƒoƒo 15 megbe o. Gblɔ na kpovitɔwo be ŋkuɖoɖo ƒe kuxi le ame la ŋu.
 
-## How do I adapt gardening as things change?
+## Aleke matrɔ abɔdede ne nuwo trɔ?
 
-| If this has become hard | Try this instead |
+| Ne esia va sesẽ | Te esia kpɔ ɖe eteƒe |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Abɔ blibo aɖe dodo | Nuku ɖeka dodo ɖe ze ɖeka me |
+| Gbe gbegblẽwo ɖeɖe (gbe gbegblẽwo kple atiwo nyanya) | Tsi dede, alo seƒoƒo siwo yrɔ siwo dze ƒã ɖeɖe |
+| Zɔzɔ le abɔa me godoo | Anyinɔnɔ le kplɔ̃ ŋu kple anyigba le agba dzi kple ati aɖe |
+| Gotayiyi kura | Amagbe ze le nuɖukplɔ̃ dzi, alo anyinɔnɔ le fesre si ʋu nu |
+| Dɔwɔna aɖeke wɔwɔ | Anyinɔnɔ ɖekae le gota, nuxexlẽ kple nukpɔkpɔ |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Ame aɖewo lɔ̃na be yewoakpɔ ale si nèle dɔ wɔm. NIA gblɔ be enyo be nàna ame la nakpɔ wò ko ne eyae dzea eŋu.
 
-## When should we head inside?
+## Ɣekaɣie wòle be míatrɔ ayi aƒe me?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Yi aƒe me ne ame la dze abe ɖe wòɖo vɔvɔli, dzoxɔxɔ le ewum, vuvɔ le ewum, mele akɔ anyi o, alo edi be yeadzudzɔ ene. Aɖabaƒoƒo ewo kpui siwo vivina nyo wu ŋdɔ blibo aɖe si wu enu kple vevesese. Dzudzɔ kaba nye nu nyui.
 
-## Bring the garden indoors on screen
+## Tsɔ abɔa va aƒe me le screen dzi
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Le ŋkeke siwo dzi tsi le dzadzam la, [Sort Together](/games/sort-together/) ƒe abɔme kusi li hena nɔnɔmetatawo ɖoɖo, eye [Conversation Cards](/games/conversation-cards/) ƒe nyabiase siwo ʋu mɔ ate ŋu ahe abɔ me ŋutinya vɛ. Ne mietrɔ tso dzoxɔxɔ me eye miele kabakaba la, [Calm Breathing](/games/calm-breathing/) naa ɖiɖi blewu, si me tomefafa le si miate ŋu ama. Hena susu bubu siwo nɔ te ɖe asikaka, ʋeʋẽ kple gbe dzi la, kpɔ míaƒe [seselelãme ƒe dɔwɔnawo ƒe mɔfiame](/activities/sensory/).

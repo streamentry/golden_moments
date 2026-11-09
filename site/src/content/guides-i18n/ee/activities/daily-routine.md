@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Gbesiagbe Ɖoɖo Bɔbɔe na Ame si Le Agbe Nɔm kple Tagbɔdɔléle"
+seoTitle: "Tagbɔdɔléle Gbesiagbe Ɖoɖo: Ŋkeke ƒe Kpɔɖeŋu"
+description: "Ŋkeke ƒe ɖoɖo si woate ŋu atrɔ na ame si le agbe nɔm kple tagbɔdɔléle, kple nuɖuɖu, dɔwɔnawo kple gbɔdzɔe le ɖoɖo si li ke me, kpakple alesi nàwɔ wò ŋutɔ tɔ eye nàtrɔe le ŋkeke sesẽwo dzi."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Gbesiagbe ɖoɖo bɔbɔe nana be fɔfɔ, nuɖuɖu, ɖokuitakpɔkpɔ kple anyimlɔɣi
+  nɔa gaƒoƒo ɖeka tɔgbe me, eda dɔ vevitɔ ɖe ɣeyiɣi si me ame la ƒe susu le
+  ŋu wu la dzi, eye wònaa dɔwɔna kple gbɔdzɔe sɔna. Tu ɖoɖoa ɖe ame la ƒe
+  agbenɔnɔ xoxo dzi, mègaɖo nu geɖe ɖe ŋkekea me o, kpɔ ŋkekea ƒe kekeli kple
+  ʋuʋu gbesiagbe, eye nàtrɔ ɖoɖoa faa ne ŋkekea bia nenema.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Gaƒoƒo siwo li ke na fɔfɔ, nuɖuɖu, ŋutikɔklɔ kple anyimlɔɣi nana ŋkekea nɔa ɖoɖo si ame la nya me."
+  - "Da dɔ vevitɔ ɖe ɣeyiɣi si nyo wu na ame la le ŋkekea me, zi geɖe enye ŋdi."
+  - "Mègayɔ ŋkekea ƒe ɣeyiɣi ɖesiaɖe kple dɔ o. Gbɔdzɔe kple ɖoɖoezizi hã nye ɖoɖoa ƒe akpa aɖe."
+  - "Ŋkekea ƒe kekeli, ʋuʋu gbesiagbe, kple alɔdzedɔdɔ didiwo alo kɔfi nono le zã me ƒe dzedzeme ate ŋu akpe ɖe ŋuwò le ɖoɖoe manɔmanɔ si va zã me ŋu."
+  - "Ɖoɖo nye mɔfiame, menye se o. Trɔ nu, ɖe edzi kpɔtɔ alo gblẽe ɖi le ŋkeke sesẽwo dzi."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Nu ka tae ɖoɖo kpena ɖe ame si le agbe nɔm kple tagbɔdɔléle ŋu?"
+    a: "Ne ŋkeke aɖe le nyanya me la, nyametsotso kple nu siwo womekpɔ mɔ na o dzi ɖena kpɔtɔna, eye esia nana ame geɖe siwo le agbe nɔm kple tagbɔdɔléle sea akɔ ƒã. Alzheimer's Association gblɔ be ŋkeke si woɖo ɖi nana nèzãa ɣeyiɣi sue aɖe le nu si nàwɔ ŋu ŋugbledede me, eye nèkpɔa ɣeyiɣi geɖe wu na nu siwo mia kple eƒe dome vivina. Ekpena ɖe ame siwo kpɔa ame dzi hã ŋu be woaɖo woawo ŋutɔ ƒe ŋkeke ɖe ɖoɖo nu."
+  - q: "Gbesiagbe ɖoɖo ka tɔgbee nyo na ame si le agbe nɔm kple tagbɔdɔléle?"
+    a: "Ɖoɖo ɖeka si sɔ na ame sia ame aɖeke meli o. Ɖoɖo nyui aɖe nana fɔfɔ, nuɖuɖu kple anyimlɔɣi nɔa gaƒoƒo ɖeka tɔgbe me, eda ŋutikɔklɔ kple dɔ vevitɔ ɖe ɣeyiɣi si me ame la le nyuie wu la dzi, enaa ɣeyiɣi si woatsɔ anɔ gota alo anɔ fesre xa, eye wògblẽa teƒe ɖi na gbɔdzɔe. Tu ɖoɖoa ɖe alesi ame la nɔ agbee tsã la dzi."
+  - q: "Ðe wòle be ame si le agbe nɔm kple tagbɔdɔléle nadɔ alɔ̃ le ŋkeke me?"
+    a: "Gbɔdzɔe kpui aɖe ate ŋu akpe ɖe ame ŋu, vevietɔ le ŋdɔnuɖuɖu vɔ megbe. National Institute on Aging kafua be woagade dzi ƒo na alɔdzedɔdɔ didiwo kple alɔ̃dɔdɔ le ŋkekea ƒe akpa mamlɛa o, elabena ɖeɖiteameŋu alo gbɔdzɔe manɔmanɔ nyuie ate ŋu ana ɖoɖoe manɔmanɔ si va zã me nadzi ɖe edzi. Ne alɔ̃dɔdɔ nye kuxi gã aɖe la, ƒo nu kple eƒe dɔdala."
+  - q: "Nukae mawɔ ne egbe be yemawɔ ɖe ɖoɖoa dzi o?"
+    a: "Gblẽe ɖi fifia, eye nàgatee kpɔ emegbe alo le mɔ bubu nu. Gbegbe ate ŋu afia be ɖeɖi te eŋu, dɔ le ewɔm, veve aɖe le eŋu alo megale klalo o. Ɖoɖoa li be wòana ŋkekea nanɔ bɔbɔe, eyata trɔe ɖe nɔnɔmea ŋu ɖe be nàzi edzi."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Ɖoɖo bɔbɔe aɖe nana ŋkekea ƒe nɔnɔme si ame nya: fɔfɔ, nuɖuɖu, dɔwɔna sue aɖe, gbɔdzɔe, kple anyimlɔɣi le gaƒoƒo ɖeka tɔgbe me. Eɖea nyametsotso geɖewo kple nu siwo womekpɔ mɔ na o dzi kpɔtɔna, eye wònaa ɖoɖo nè le ɣeyiɣi siwo me ànɔ ŋugble dem le nu si nàwɔ kplɔe ŋu. Ɖoɖo si le ete nye kpɔɖeŋu ko, menye se o. Zãe abe gɔmedzedze ene, emegbe nàtue ɖe ame si ŋu nèkpɔna la ŋu.
 
-## Why does a daily routine help?
+## Nu ka tae gbesiagbe ɖoɖo kpena ɖe ame ŋu?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ɖoɖo si li ke kpena ɖe ame ŋu elabena nɔnɔme siwo ame nya la le bɔbɔe wu be woawɔ ɖe wo dzi wu nu yeyewo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) gblɔ be ŋkeke si woɖo ɖi fia be woazã ɣeyiɣi sue aɖe le nyametsotso wɔwɔ le nu si woawɔ ŋu me, eye woakpɔ ɣeyiɣi geɖe na dɔwɔnawo siwo doa dzidzɔ na ame. Egblɔ hã be gaƒoƒo siwo li ke na fɔfɔ kple anyimlɔɣi ate ŋu akpe ɖe ame ŋu le alɔ̃dɔdɔ ƒe kuxiwo kple ɖoɖoe manɔmanɔ si va zã me ŋu. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) kafua be woale tsi, ado awu, eye woaɖu nu le gaƒoƒo ɖeka mawo ke me ŋkeke sia ŋkeke abe aƒe si me tomefafa le ƒe akpa aɖe ene, eye [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) hã kafua be woalé ɖoɖo mawo ke me ɖe asi.
 
-## A sample gentle day
+## Ŋkeke bɔbɔe aɖe ƒe kpɔɖeŋu
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Gaƒoƒowo nye kpɔɖeŋu ko. Trɔ ŋkekea bliboa ɖe ŋgɔ alo ɖe megbe be wòasɔ kple ame la ŋutɔ ƒe agbenɔnɔ.
 
-| Time | What happens | Ideas | On a harder day |
+| Gaƒoƒo | Nu si dzɔna | Susuwo | Le ŋkeke sesẽ aɖe dzi |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Fɔfɔ, ŋutikɔklɔ, awudodo | Ðoɖo ɖeka ma ke ŋkeke sia ŋkeke; da awuawo ɖe alesi woado wo ŋu | Na ŋutikɔklɔ nanɔ bɔbɔe; awu yeye aɖe sɔ gbɔ |
+| 8:45 a.m. | Ŋdi nuɖuɖu | Kɔfi kple nyadzɔdzɔgbalẽ si woaxlẽ sesĩe, alo radio | Miɖu nu le ɖoɖoezizi me, mègazi ame la dzi be wòaƒo nu o |
+| 9:30 a.m. | Dɔ vevitɔ | Awuwo gbugbɔ, abolomeƒeƒe, abɔ me dɔ, dodo kpui aɖe alo zɔzɔ | Eƒe akpa sue aɖe, alo na wòakpɔ wò esi nèle ewɔm |
+| 10:30 a.m. | Ɣeyiɣi si me tomefafa le | Haƒoƒo, fotowo ƒe agbalẽ, alo bɔbɔ nɔ fesre xa | Gbɔdzɔe le zikpui si wòlɔ̃na me |
+| 11:00 a.m. | Kpekpe ɖe ŋdɔnuɖuɖu ŋu | Amagbewo kɔklɔ, kplɔ̃ɖoɖo | Wòe aɖa nu; eya anɔ gbɔwò |
+| 12:00 p.m. | Ŋdɔnuɖuɖu kple nuwo ɖoɖo ɖe ɖoɖo nu | Kplɔ̃a tututu, agba ʋɛ aɖewo tsitsi | Gblẽ aƒemedɔawo ɖi |
+| 1:00 p.m. | Gbɔdzɔe kpui aɖe | Kɔ afɔwo dzi, haƒoƒo bɔbɔe | Nenema ke |
+| 2:00 p.m. | Gota alo ʋuʋu | Zɔzɔ, xɔxɔnu nɔnɔ, numiemiewo tsidzadza, bɔl fafɛ aɖe ƒuƒlu | Nɔ fesre si ŋu ɣe le xa |
+| 3:00 p.m. | Hadome alo nutovɛwɔwɔ | Amedzro aɖe, kaƒoƒo, [picture pairs](/games/picture-pairs/), amadede, kaɖiwo | Nu aɖe nono kple nu sue aɖe ɖuɖu ɖekae |
+| 4:30 p.m. | Ðoɖoezizi ƒe ɣeyiɣi | Xɔmetsovɔwo tutu, akaɖiwo tsɔtsɔ de eme, dɔ fafɛ aɖe abe awu siwo wotsɔna tsia nu ƒe gbugbɔ ene | Haƒoƒo si wonya, ɣli manɔmee |
+| 5:30 p.m. | Fiẽ nuɖuɖu | Kpekpe ɖe nu ʋuʋu alo kplɔ̃ɖoɖo ŋu | Nuɖuɖu bɔbɔe si wonya |
+| 6:30 p.m. | Fiẽ ɖekae | Nuƒoƒo tso tsã ŋu le nu vivi ɖuɖu vɔ megbe, kaɖiwo, ɖeɖefia si wòlɔ̃na, asibidebɔkpɔkpɔ bɔbɔe | Hadede le ɖoɖoezizi me |
+| 8:00 p.m. | Anyimlɔɣi ƒe ɖoɖo | Tsilele alo ŋutikɔklɔ, alɔ̃wu, haƒoƒo bɔbɔe, akaɖi siwo mebɔ o | Ðe nu sia nu dzi kpɔtɔ; akɔfafa va gbã |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Kpɔɖeŋu sia wɔ ɖe Alzheimer's Association ŋutɔ ƒe kpɔɖeŋu ɖoɖo na gɔmedzedze kple titina ƒe akpawo dzi, si tso ŋutikɔklɔ kple ŋdinuɖuɖu dzi heyi aƒemedɔwo, zɔzɔ, haƒoƒo, gbɔdzɔe kple amedzrowo gbɔ, eye wòwu enu kple fiẽnuɖuɖu, nuƒoƒo tso tsã ŋu kple anyimlɔɣi dzadzraɖo.
 
-## How do you build your own routine?
+## Aleke nàwɔ atu wò ŋutɔ ƒe ɖoɖo?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Dze egɔme tso alesi ame la nɔ agbe nɔm tsã la me, menye tso ɖoɖo aɖe me o. Alzheimer's Association kafua be nàbu nu siawo ŋu hafi nàɖo ɖoɖoa:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Nu siwo wòlɔ̃na, nu siwo melɔ̃na o, eƒe ŋusẽ kple nu siwo doa dzidzɔ nɛ.**
+- **Alesi wònɔa ŋkekea zãm tsã.** Ame si fɔna kaba eye wònɔa avu kplɔm ɣesiaɣi la agate ŋu azɔ kaba kokoko. Ame si lɔ̃a zã agate ŋu makpɔ dzidzɔ le 8:00 a.m. gɔmedzedze ŋu gbeɖe o.
+- **Ɣeyiɣi si nyo wu nɛ le ŋkekea me.** Da tsilele, dodo kple dɔ vevitɔ ɖe afi ma.
+- **Ɣeyiɣi si sɔ** na nuɖuɖu, tsilele kple awudodo, ale be naneke mayi kabakaba o.
+- **Gaƒoƒo siwo li ke na fɔfɔ kple anyimlɔɣi.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Dzɔtsoƒe ma ke kafua be nàde dɔ siawo ƒe tsakatsaka eme: aƒemedɔwo, nuɖuɖu, ŋutikɔklɔ, nutovɛdɔwɔnawo, ŋutilã ƒe ʋuʋu, hadomeɣeyiɣi, gbɔgbɔmenuwɔnawo kple ɣeyiɣi siwo meva mɔ na o, abe xɔlɔ̃ aɖe ƒe vava kpata ene.
 
-### Try it for a week, then adjust
+### Tee kpɔ kɔsiɖa ɖeka, emegbe nàtrɔe
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Ŋlɔ nu sue aɖe ŋkeke sia ŋkeke. Alzheimer's Association kafua be nàbia dɔwɔna kawo wɔ dɔ nyuie wu eye nu ka tae, ɖe ɣeyiɣi aɖewo nɔ anyi siwo me nu geɖe nɔ edzi yim alo nu boo aɖeke menɔ woawɔ o, kple nenye be ɖoɖo siwo meva mɔ na o la vivi ame nu alo wona dzimaɖi va. Lé nu siwo wɔ dɔ nyuie me ɖe asi, eye nàtrɔ nu siwo mewɔ dɔ nyuie o.
 
-### Make it visible
+### Na wòanɔ dzedzem
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ne ame la gate ŋu xlẽa nu ko la, nuŋlɔti ƒe akpa alo kaɖi si dzi woŋlɔ nu gãwo ɖo si ɖe ŋkekea ƒe ɖoɖo fia la ate ŋu ana wòase akɔ ƒã. Na wòanɔ kpuie: "Ŋdi nuɖuɖu. Zɔzɔ kple Sarah. Ŋdɔnuɖuɖu. Gbɔdzɔe." Ame aɖewo sea vivi wu ne womenya nu si gbɔna do ŋgɔ o; Family Caregiver Alliance kafua be mègagblɔ ɖoɖowo na ame la do ŋgɔ ne esia naa dzimaɖi va o, negbe hafi woadze wo gɔme ko.
 
-## How to adapt the routine
+## Alesi nàtrɔ ɖoɖoa
 
-### Leave room to breathe
+### Gblẽ teƒe aɖe ɖi na gbɔgbɔtsixe
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Mègayɔ ŋkekea ƒe ɣeyiɣi ɖesiaɖe kple dɔ o. Alzheimer's Association te gbe ɖe edzi be ehiã be dɔwɔna kple gbɔdzɔe nasɔ na ame la, eye ate ŋu ahiã be woagbɔ ɖe eme wu. Ne edze abe ɖe nu mevivina o, eƒe susu le tsatsam alo dɔ me le eɖum ene la, trɔ yi dɔwɔna bubu dzi alo na wòagbɔ ɖe eme.
 
-### Protect the late afternoon
+### Kpɔ ŋdɔ megbe ƒe ɣeyiɣi ta
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Ame geɖe ƒe susu megadzɔna nyuie o ne ŋkekea ƒe kekeli le nu yina. NIA kafua be woanɔ gota alo anɔ fesre xa akpɔ ŋkekea ƒe kekeli gbesiagbe, woawɔ ʋuʋu gbesiagbe evɔ womegawɔ nu geɖe akpa o, woaƒo asa na kɔfi kple aha nono le ŋkekea ƒe akpa mamlɛa, eye woagade dzi ƒo na alɔdzedɔdɔ didiwo le ŋkekea ƒe akpa mamlɛa o. Ƒome aɖewo hã kpɔe be etua xɔmetsovɔwo kple akaɖiwo tsɔtsɔ de eme hafi zã nado kpena ɖe yewo ŋu. Kpɔ [ɖoɖoe manɔmanɔ le ŋdɔ megbe](/caregiving/late-day-restlessness/) kple [alɔ̃dɔdɔ](/brain-health/sleep/).
 
-### Change it as needs change
+### Trɔe ne hiahiãwo trɔ
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Gɔmedzedze ƒe akpa:** miɖo ɖoɖoa ɖekae. Ame la ate ŋu adi ɖoɖo si woŋlɔ ɖi si eya ŋutɔ akpɔ dzi.
+- **Titina ƒe akpa:** wòe akplɔa nu geɖe wu. Dɔwɔnawo nanɔ kpuie, gbɔdzɔe nanɔ geɖe wu, eye dɔ siwo wonya la nanɔ geɖe; kpɔ [titina ƒe akpa ƒe dɔwɔnawo](/activities/middle-stage/).
+- **Mamlɛ ƒe akpa:** ɖoɖoa ƒe taɖodzinu vevitɔ nye akɔfafa, nuɖuɖu kple ŋutikɔklɔ, kple ɣeyiɣi kpuiwo siwo doa dzidzɔ na seselelãmewo, abe haƒoƒo alo asibidebɔkpɔkpɔ bɔbɔe ene; kpɔ [mamlɛ ƒe akpa ƒe dɔwɔnawo](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Trɔ dɔwɔnawo, gake mègaɖɔli ɖoɖoa ƒe nɔnɔme o
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Na nuɖuɖu, gbɔdzɔe kple anyimlɔɣi nanɔ ɖoɖo ma ke me, eye nàtrɔ dɔwɔnawo siwo le wo dome. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kafua be woate dɔwɔnawo vovovowo kpɔ le ŋkeke vovovowo dzi be nuwo nagava zu nu ɖeka o. Àte ŋu ame abolomeƒeƒe le Dzoɖa, awɔ abɔ me dɔ le Braɖa, eye nàkpɔ fotowo le Kuɖa. Míaƒe [dɔwɔna 101 ƒe susuwo](/activities/ideas/) kple [aƒemedɔwo](/activities/household-tasks/) ate ŋu akpe ɖe ŋuwò nàyɔ ɣeyiɣi mawo me.
 
-## When the day goes sideways
+## Ne ŋkekea metrɔ abe alesi nèɖoe ene o
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Ŋkeke aɖewo anɔ anyi siwo mawɔ ɖe ɖoɖo aɖeke dzi o. Dɔléle, zã manyomanyo, dɔdala ƒe vava alo yame ƒe nɔnɔme ƒe tɔtrɔ ate ŋu ana nu sia nu natɔtɔ. Gblẽ ɖoɖoa ɖi, lé nu vevitɔwo me ɖe asi (nuɖuɖu, nunono, gbɔdzɔe, akɔfafa), eye nàgatee kpɔ etsɔ. Ne ame la gbe nu aɖe wɔwɔ la, kpɔ [ne wogblɔ be ao](/caregiving/when-they-say-no/). Gbɔgbɔtsixe bɔbɔe ɖekae, abe [gbɔgbɔtsixe fafɛ](/games/calm-breathing/) ene, ate ŋu akpe ɖe mi ame evea ŋu miagadze egɔme.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Wò ŋutɔ wò ɖoɖo hã le vevie. Ðo ɣeyiɣi siwo me nàgbɔ ɖe eme ɖe ɖoɖoa me, eye nàbia ƒometɔwo alo kpekpeɖeŋunana ƒe dɔwɔƒe aɖe be woakpɔ wò teƒe le ɣeyiɣi siwo nèhiã gbɔdzɔe. Kpɔ [ame siwo kpɔa ame dzi ƒe ɖokuitakpɔkpɔ](/caregiving/caregiver-self-care/).

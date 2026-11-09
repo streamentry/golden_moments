@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "དྲན་ཤེས་ཉམས་སྨོད་ཡོད་མི་ལུ་ཁ་བརྡ་འབད་ཐངས།"
+seoTitle: "དྲན་ཤེས་ཉམས་སྨོད་ཀྱི་ཁ་བརྡའི་ལམ་སྟོན།"
+description: "དྲན་ཤེས་ཉམས་སྨོད་ཡོད་པའི་མི་ལུ་ཁ་བརྡ་འབད་ཐངས། ཁ་བརྡ་འགོ་བཙུགས་སྟངས་ ག་ཅི་སླབ་ནི་ཨིན་ན་ དེ་ལས་ཉན་ཐངས་ཚུ།"
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  ཁ་བརྡ་འབད་སའི་ས་གནས་སྐད་ཅིག་མེདཔ་བཟོ་ཞིནམ་ལས་ མི་དེ་གི་གདོང་ཁ་ལུ་བལྟ་སྟེ་ མིང་ལག་ལེན་འཐབ།
+  དལ་མོ་སྦེ་སླབ་ཞིནམ་ལས་ ཐུང་ཀུ་དང་འཇམ་ཏོག་ཏོ་སྦེ་ཡོད་པའི་ཚིག་ཚན་ལག་ལེན་འཐབ།
+  ཚར་གཅིག་ལུ་དྲི་བ་གཅིག་རྐྱངམ་ཅིག་དྲི། དྲི་བ་སྒོ་ཡོངས་ཕྱེ་བའི་ཚབ་ལུ་ གདམ་ཁ་གཉིས་ཕུལ།
+  ལན་མི་འབྱོར་བའི་ཧེ་མ་ལུ་ བསམ་མནོ་ལས་ལྷག་སྟེ་བསྒུག། རྩོདཔ་མ་འབད་ ནོར་བཤད་མ་འབད་ དྲི་བ་མ་དྲི།
+  ཚིག་གི་རྒྱབ་ལུ་ཡོད་པའི་ཚོར་བ་ལུ་ལན་རྐྱབ། ཚིག་སླབ་མ་ཚུགསཔ་འགྱོ་བའི་སྐབས་ ལགཔ་འཛིན་ནི་ པར་
+  དང་ལག་བརྡ་ཚུ་ལག་ལེན་འཐབ།
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "ཁ་བརྡ་མ་འགོ་བཙུགས་པའི་ཧེ་མ་ལུ་ རྒྱབ་ལྗོངས་ཀྱི་སྐད་ཉམས་བཅུག་སྟེ་ མིག་མཐོང་ཐོབ་ཚུགསཔ་འབད།"
+  - "ཚིག་ཚན་ཐུང་ཀུ་དང་ ཚར་གཅིག་ལུ་བསམ་བློ་གཅིག་རྐྱངམ་ཅིག་ལག་ལེན་འཐབ། ཁོང་ མོང་ ཚུ་གི་ཚབ་ལུ་མིང་ལག་ལེན་འཐབ།"
+  - "དྲི་བ་སྒོ་ཡོངས་ཕྱེ་བའི་ཚབ་ལུ་ གདམ་ཁ་གཉིས་ ཡང་ན་ ཨིན་/མེན་ ཟེར་བའི་དྲི་བ་ཕུལ།"
+  - "ལན་གྱི་དོན་ལུ་བསྒུག། མ་ཧ་གོ་བ་ཅིན་ ཚིག་འདི་རང་ལོག་སླབ་ཞིནམ་ལས་ ཤུལ་ལས་ཚིག་གཞན་སྤྱོད།"
+  - "རྩོདཔ་མ་འབད་ ནོར་བཤད་མ་འབད། ཁོང་གིས་སླབ་མི་གི་རྒྱབ་ལུ་ཡོད་པའི་ཚོར་བ་ལུ་ལན་རྐྱབ།"
+  - "ཚིག་ཉམས་འགྱོ་བའི་སྐབས་ ལགཔ་འཛིན་ནི་ སྐད་ཀྱི་ཉམས་ གདོང་གི་རྣམ་འགྱུར་ དེ་ལས་མཉམ་སྤྱོད་འབད་མི་པར་ཚུ་བརྒྱུད་དེ་ཁ་བརྡ་འབད།"
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "དྲན་ཤེས་ཉམས་སྨོད་ཡོད་མི་ལུ་ག་ཅི་མ་སླབ་ནི་ལེགས་ག?"
+    a: "「ཁྱོད་ལུ་དྲན་ག་」ཟེར་བའི་དྲི་བ་དྲི་ནི་ 「དེ་ནོར་འཁྲུལ་ཨིན」ཟེར་བའི་ནོར་བཤད་ 「ང་གིས་ཧེ་མ་ལས་ར་སླབ་ཚར་ཡི」ཟེར་བའི་དྲན་སྐུལ་ དེ་ལས་ཁོང་མེད་པའི་བཟུམ་སྦེ་ཁ་བརྡ་འབད་ནི་ཚུ་ལས་འཛེམ། ཕམ་ཉེས་ཡང་ན་སེམས་ཁྲལ་བཟོ་མི་མངོན་རུང་ གྲོགས་རམ་ཉུང་ཤོས་རང་འབདཝ་ཨིན།"
+  - q: "ཁོང་གིས་གནས་ཚུལ་ནོར་བ་ཅིན་ ང་གིས་ནོར་བཤད་འབད་དགོཔ་ཨིན་ན?"
+    a: "གནད་དོན་མེད་པའི་ནོར་འཁྲུལ་ཨིན་པ་ཅིན་ འདི་བཞག་ནི་ལེགས། རྩོདཔ་འབད་བ་ཅིན་ ཁོང་གི་བསམ་བློ་འགྱུར་བ་ཅིན་ཉུང་སྟེ་ སེམས་ཁྲལ་ལྷག་དགོཔ་འབདཝ་ཨིན། ད་ལྟོ་ཁོང་ག་དེ་སྦེ་ཚོར་དོ་ཡོདཔ་དང་ ག་ཅི་དགོཔ་ཡོད་མི་ལུ་དོ་སྣང་བཏང།"
+  - q: "ཁོང་གིས་ཚིག་མ་མཐོང་བ་ཅིན་ ང་གིས་ག་ཅི་འབད་དགོ?"
+    a: "ཧེ་མ་ལུ་དུས་ཚོད་བྱིན། ཁོང་གིས་ཚིག་འཚོལ་བའི་དཀའ་ངལ་མཐོང་བ་ཅིན་ དལ་མོ་སྦེ་ཚིག་ཅིག་ཕུལ་ནི་ ཡང་ན་ ཁོང་གིས་ག་ཅི་ཟེར་ནི་ཨིན་ན་ཚོད་དཔག་འབད་དེ་ངེས་དཔྱད་འབད་ནི་འབད་ཆོག མཛུབ་མོ་སྟོན་ནི་ ལག་བརྡ་ དེ་ལས་པར་ཚུ་གིས་ཡང་གྲོགས་རམ་འབད་ཚུགས།"
+  - q: "དྲན་ཤེས་ཉམས་སྨོད་མཐའ་མའི་གནས་སྐབས་ལུ་ཁ་བརྡ་ཉུང་ཤོས་རང་འབད་མི་ལུ་ ག་དེ་སྦེ་ཁ་བརྡ་འབད་དགོ?"
+    a: "མདུན་ཁ་ལས་འཛུལ་ཞིནམ་ལས་ ཁྱོད་ག་སུ་ཨིན་ན་སླབ། སྐད་འཇམ་ཏོག་ཏོ་དང་ལགཔ་དལ་མོ་སྦེ་འཛིན་ནི་ལག་ལེན་འཐབ། ཚོར་བ་ཤེས་ནིའི་དོན་ལུ་ གདོང་གི་རྣམ་འགྱུར་དང་ལུས་ཀྱི་བརྡ་ལུ་བལྟ། ཁྱོད་དེ་ཁར་ཡོད་མི་ གོམས་འདྲིས་ཡོད་པའི་གླུ་གཞས་ ཡང་ན་ལགཔ་འཛིན་མི་གིས་ ཚིག་མེད་པར་ཡང་གནས་ཚུལ་མང་རུང་སྟོན་ཚུགས།"
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+དྲན་ཤེས་ཉམས་སྨོད་ཀྱིས་ ཚིག་འཚོལ་མ་ཚུགསཔ་དང་ ཚིག་ཚན་རིངམོ་ཧ་མ་གོ་བ་ ཡང་ན་རྒྱབ་ལྗོངས་ཀྱི་སྐད་ལས་སེམས་ཕར་མ་བཏང་ཚུགསཔ་བཟོ་འོང། དེ་འབདཝ་ད་ མི་དེ་གིས་མི་གཞན་དང་མཐུད་ནིའི་རེ་འདོད་མེདཔ་ཟེར་མི་མེན། ཁྱོད་ཀྱིས་ཁ་བརྡ་འགོ་བཙུགས་སྟངས་ སླབ་སྟངས་ དེ་ལས་ཉན་སྟངས་ལུ་འགྱུར་བ་ཆུང་ཀུ་ཅིག་བཏང་པ་ཅིན་ ཁྱོད་གཉིས་ཀའི་དོན་ལུ་ཁ་བརྡ་འཇམ་ཏོག་ཏོ་དང་ལས་སླ་བཟོ་ཚུགས།
 
-## What are the most important tips for talking with someone who has dementia?
+## དྲན་ཤེས་ཉམས་སྨོད་ཡོད་མི་ལུ་ཁ་བརྡ་འབད་བའི་སྐབས་ གལ་ཆེ་ཤོས་ཀྱི་ལམ་སྟོན་ག་ཅི་ཨིན་ན?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+ཁོང་གི་དོ་སྣང་ཐོབ་ཞིནམ་ལས་ འཇམ་ཏོག་ཏོ་སྦེ་སླབ་ བཟོད་སྒོམ་བཏང། གནས་ཚུལ་ལྔ་འདི་རྐྱངམ་ཅིག་དྲན་བཞག་པ་ཅིན་:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **ཁང་མིག་སྐད་མེདཔ་བཟོ་ཞིནམ་ལས་གདོང་ཁ་ལུ་བལྟ།** གློག་བརྙན་བཀག་སྟེ་ མིག་གི་ཚད་ལུ་སྡོད་ཞིནམ་ལས་ ཁོང་གི་མིང་ལག་ལེན་འཐབ།
+2. **ཚར་གཅིག་ལུ་གནས་ཚུལ་གཅིག་རྐྱངམ་ཅིག་སླབ།** ཚིག་ཚན་ཐུང་ཀུ་ བསམ་བློ་གཅིག་ དྲི་བ་གཅིག།
+3. **གདམ་ཁ་གཉིས་ཕུལ།** 「ཇ་ ཡང་ན་ ཀ་ཕི་?」ཟེར་མི་འདི་ 「ཁྱོད་ལུ་ག་ཅི་དགོ་?」ཟེར་མི་ལས་ལས་སླ་བཟོཝ་ཨིན།
+4. **བསྒུག།** ལན་གྱི་དོན་ལུ་ བསམ་མནོ་ལས་ལྷག་སྟེ་དུས་ཚོད་བྱིན་ཞིནམ་ལས་ བར་མ་ཆོད་པར་འབད།
+5. **རྩོདཔ་མ་འབད་ དྲི་བ་མ་དྲི།** གནས་ཚུལ་འཛོལ་ནི་མེན་ནི་ལས་ ཁོང་ག་དེ་སྦེ་ཚོར་དོ་ཡོད་མི་ལུ་ལན་རྐྱབ།
 
-## How should I start a conversation?
+## ཁ་བརྡ་ག་དེ་སྦེ་འགོ་བཙུགས་དགོ?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+མི་དེ་གིས་ཁྱོད་ལུ་དོ་སྣང་བཏང་ཚུགས་པའི་གནས་སྟངས་བཟོ། [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ནང་ ཧེ་མ་ལུ་སྐད་ཉམས་བཅུག་ནིའི་ལམ་སྟོན་འབད་ཡོད། རེ་ཌིའོ་ ཡང་ན་ གློག་བརྙན་བཀག་ ཡོལ་བ་དང་སྒོ་ཁ་བསྡམ་ ཡང་ན་ སྐད་ཉུང་སའི་ས་གནས་ལུ་སོང།
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **མདུན་ཁ་ལས་འཛུལ།** རྒྱབ་ཁ་ ཡང་ན་ ཟུར་ཁ་ལས་འཛུལ་བ་ཅིན་ སེམས་འཚོང་བྱུང་འོང།
+- **ཁྱོད་ག་སུ་ཨིན་ན་སླབ།** 「བཀྲ་ཤིས་བདེ་ལེགས་ ཨ་པ་ལགས། ང་ སྲས་མོ་ ས་ར་ཡིན།」 འདི་གིས་ཁོང་ལུ་མིང་འཚོལ་ནིའི་དཀའ་ངལ་ཉུང་བཟོཝ་ཨིན།
+- **ཁོང་གི་མིག་གི་ཚད་ལུ་སྡོད།** ཁོང་སྡོད་དེ་ཡོད་པ་ཅིན་ ཁྱོད་ཀྱང་སྡོད་ ཡང་ན་ པུས་མོ་གཏད་སྟེ་ མིག་འདྲ་མཉམ་བཟོ།
+- **ཁྱོད་ཀྱི་གདོང་དང་སྐད་ལུ་བལྟ།** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) གིས་ སྐད་ཀྱི་ཉམས་ སྐད་ཚད་ གདོང་གི་རྣམ་འགྱུར་ དེ་ལས་ལུས་ཀྱི་བརྡ་ལུ་དོ་སྣང་བཏང་སྟེ་ དྲོད་ཤུགས་ཡོད་མི་དང་འཇམ་ཏོག་ཏོ་སྦེ་སླབ་ནིའི་ལམ་སྟོན་འབད་ཡོད།
+- **མིག་ཤེལ་དང་རྣ་རོགས་ཡོད་མེད་བལྟ།** ལེགས་ཤོམ་སྦེ་མ་མཐོང་ མ་གོ་བ་ཅིན་ ཁ་བརྡ་རྗེས་འབྲང་འབད་མ་ཚུགསཔ་འབདཝ་ཨིན།
 
-## How should I phrase what I say?
+## ང་གིས་ག་དེ་སྦེ་སླབ་དགོ?
 
-Use simple words, short sentences and a calm, low voice.
+ཚིག་འཇམ་ཏོག་ཏོ་ ཚིག་ཚན་ཐུང་ཀུ་ དེ་ལས་སྐད་འཇམ་ཏོག་ཏོ་དང་དམའ་བ་ལག་ལེན་འཐབ།
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **ཚིག་ཚན་རེ་རེ་ནང་བསམ་བློ་གཅིག།** 「གོས་ཐུང་གོན་གེ། དེ་ལས་ཕྱི་ཁར་འགྱོ་གེ།」 ཚར་གཅིག་ལུ་མ་སླབ།
+- **མིང་ཚབ་ཀྱི་ཚབ་ལུ་མིང་ལག་ལེན་འཐབ།** 「ཨ་ཞང་ཇིན་གྱིས་ཁ་པར་བརྒྱབ་ཡི」ཟེར་མི་འདི་ 「ཁོང་གིས་ཁ་པར་བརྒྱབ་ཡི」ཟེར་མི་ལས་གསལ་ཏོག་ཏོ་ཨིན།
+- **སྐད་མཐོ་བཟོ་བའི་ཚབ་ལུ་དམའ་བ་བཟོ།** Family Caregiver Alliance གིས་ སྐད་མཐོ་བཟོ་བའི་ཚབ་ལུ་དམའ་བ་སྦེ་སླབ་ནིའི་ལམ་སྟོན་འབད་ཡོད།
+- **ལོག་སླབ་ཞིནམ་ལས་ཚིག་གཞན་སྤྱོད།** མ་ཧ་གོ་བ་ཅིན་ ཚིག་འདི་རང་ཚར་གཅིག་ལོག་སླབ། དེ་གིས་མ་ཕན་པ་ཅིན་ ཅུང་ཙམ་བསྒུགས་ཞིནམ་ལས་ ཚིག་གཞན་སྤྱོད།
+- **སླབ་ནི་དང་མཉམ་དུ་སྟོན།** ཕོརཔ་ལུ་མཛུབ་མོ་བཙུགས་ གོས་ཐུང་གཉིས་སྟོན་ ཡང་ན་ གོམ་པ་དང་པོ་དེ་སྟོན།
+- **ཁོང་ལུ་སླབ་ ཁོང་གི་སྐོར་ལས་མི་གཞན་ལུ་མ་སླབ།** NIA གིས་ མི་དེ་མེད་པའི་བཟུམ་སྦེ་ཁོང་གི་སྐོར་ལས་སླབ་ནི་དང་ བྱིས་པ་ལུ་སླབ་བཟུམ་སྦེ་སླབ་ནི་ལས་འཛེམ་ཟེར་ལམ་སྟོན་འབད་ཡོད།
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA གིས་ སྤྱིར་བཏང་དྲི་བ་ཚུ་འཇམ་ཏོག་ཏོ་སྦེ་སླབ་ནིའི་དཔེ་ཚུ་ཕུལ་ཡོད། འོག་གི་དཔེ་ཚུ་དེ་དང་འདྲཝ་ཨིན།
 
-| Instead of | Try |
+| འདི་གི་ཚབ་ལུ | འདི་སྦེ་སླབ |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| 「དགོང་མོ་ག་ཅི་ཟ་ནི་ཨིན་ན?」 | 「ཉ་ ཡང་ན་ བྱ་ཤ་ ག་འདི་ཟ་ནི?」 |
+| 「ཁྱོད་ག་དེ་སྦེ་ཚོར་དོ་ཡོད?」 | 「ཐང་ཆད་སོང་ང?」 |
+| 「གྲོད་ཁོག་ལྟོག་སོང་ང?」 | 「སྐར་མ་ལྔའི་ནང་འཁོར་ དགོང་ཟ་གྲ་སྒྲིག་འབད་ཚར་འོང།」 |
+| 「དེ་སྦེ་འབད་ནི་མེན།」 | 「འདི་སྦེ་འབད་དེ་བལྟ་གེ།」 |
+| 「ང་བཅས་མཚོ་ཁར་འགྱོ་མི་དྲན་ག?」 | 「ང་བཅས་མཚོ་ཁར་འགྱོ་མི་དྲན་དོ་ཡི། ཁྱོད་ལུ་ག་ཅི་དགའ་སོང་སླབ་ད།」 |
+| 「ང་གིས་ཧེ་མ་ལས་ར་སླབ་ཚར་ཡི།」 | དལ་མོ་སྦེ་ ཚར་དང་པོ་བཟུམ་སྦེ་ལོག་སླབ། |
 
-## How do I listen well?
+## ལེགས་ཤོམ་སྦེ་ག་དེ་སྦེ་ཉན་དགོ?
 
-Listen for the meaning and the feeling, not just the words.
+ཚིག་རྐྱངམ་གཅིག་མེན་པར་ དོན་དང་ཚོར་བ་ལུ་ཉན།
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **བསྒུག།** སྐད་ཆ་མེདཔ་སྡོད་མི་འདི་ བསམ་བཞིན་པའི་དུས་ཚོད་འོང་སྲིད། བར་མ་ཆོད་པའི་ཧེ་མ་ལུ་ དལ་མོ་སྦེ་བཅུ་ཚུན་གྱི་བར་བསྒུག།
+- **ཚིག་མ་མཐོང་བ་ཅིན་རྐྱངམ་ཅིག་གྲོགས་རམ་འབད།** Family Caregiver Alliance གིས་ མི་གིས་དཀའ་ངལ་མཐོང་བའི་སྐབས་ ཚིག་ཕུལ་ནི་འབད་ཆོགཔ་སྦེ་སླབ་ཨིན།
+- **ཁྱོད་ཀྱིས་གོ་མི་ངེས་དཔྱད་འབད།** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) གིས་ ཚིག་གི་རྒྱབ་ལུ་ཡོད་པའི་དོན་འཚོལ་ཞིནམ་ལས་ ལོག་སླབ་སྟེ་ངེས་དཔྱད་འབད་ནིའི་ལམ་སྟོན་འབད་ཡོད། 「ཁྱོད་མོ་ཊར་གྱི་སྐོར་ལས་སེམས་ཁྲལ་འདུག་ག?」
+- **གདོང་དང་ལུས་ཀྱི་བརྡ་ལུ་བལྟ།** ཚིག་སླབ་མ་ཚུགསཔ་འགྱོ་བའི་སྐབས་ NIA གིས་ གདོང་གི་རྣམ་འགྱུར་གྱིས་ སེམས་སྡུག་ ཁོང་ཁྲོ་ ཡང་ན་ དཀའ་ངལ་ཚུ་ཚིག་ལས་གསལ་ཏོག་ཏོ་སྦེ་སྟོན་འོང་ཟེར་སླབ་ཨིན།
+- **སེམས་ཁྲལ་ལུ་གལ་ཆེ་སྦེ་བརྩི།** སེམས་ཁྲལ་དེ་ ནོར་འཁྲུལ་གྱི་གནས་ཚུལ་ལུ་གཞི་བཞག་ཡོད་རུང་ ཚོར་བ་དེ་ངོ་མ་ཨིན།
 
-## What if they say something that is not true?
+## ཁོང་གིས་ངོ་མ་མེན་པའི་གནས་ཚུལ་ཅིག་སླབ་པ་ཅིན་ག་ཅི་འབད་དགོ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+རྩོདཔ་མ་འབད། རྩོད་པ་ཅིན་ ཁྱོད་རྒྱལ་ཁ་ཐོབ་ནི་ཉུང་ཤོས་རང་ཨིན། དེ་ལས་ མི་དེ་ལུ་ཕམ་ཉེས་ ཡང་ན་ འཇིགས་སྣང་ཚོར་འོང། དེ་གི་ཚབ་ལུ་ ཚོར་བ་ལུ་མཐུད་ཞིནམ་ལས་ དལ་མོ་སྦེ་གནད་དོན་གཞན་ལུ་སོང།
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance གིས་ གནད་དོན་གཞན་ལུ་མ་འགྱོ་བའི་ཧེ་མ་ལུ་ ཚོར་བ་ལུ་ངོས་ལེན་འབད་ནིའི་ལམ་སྟོན་འབད་ཡོད། དཔེར་ན་ ཁྱོད་ཀྱི་ཨ་མ་ལགས་ཀྱིས་ སློབ་གྲྭའི་ནང་ལས་ཕྲུ་གུ་ལེན་ནི་ལུ་འགྱོ་དགོཔ་སྦེ་སླབ་པ་ཅིན།
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- འདི་མ་སླབ། 「ཨ་མ་ལགས་ ཁྱོད་ཀྱི་ཕྲུ་གུ་ཚུ་ཆེར་སོང་ནུག། དེ་ལོ་བཞི་བཅུའི་ཧེ་མའི་གནས་ཚུལ་ཨིན།」
+- འདི་སྦེ་སླབ། 「ཁྱོད་ནམ་རང་ལས་བརྩེ་བ་ཆེ་བའི་ཨ་མ་ཅིག་ཨིན་མས། ཕྲུ་གུ་ལེན་ནིའི་སྐོར་ལས་སླབ་ད། ཧེ་མ་ལུ་ཅ་ཆས་ཅིག་ཟ་གེ?」
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association གིས་ཡང་ ཁྱོད་མོས་མཐུན་པའི་གནས་ཚུལ་ལུ་རྩོདཔ་མ་འབད་ཟེར་ལམ་སྟོན་འབད་ཡོད། དུས་ཚོད་ལེགས་ཤོམ་སྦེ་གདམ་ཁ་རྐྱབ། ནོར་འཁྲུལ་དེ་གིས་གནད་དོན་མེད་པ་ཅིན་ བཞག་ཆོག
 
-## How does communication change as dementia progresses?
+## དྲན་ཤེས་ཉམས་སྨོད་རིམ་སྤར་འགྱོ་བའི་སྐབས་ ཁ་བརྡ་ག་དེ་སྦེ་འགྱུར་འགྱོ་འོང?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+དུས་ཚོད་དང་བསྟུན་ཏེ་ དགོས་མཁོ་འགྱུར་འོང། དེ་འབདཝ་ལས་ ཁྱོད་ཀྱི་ཐབས་ལམ་ཡང་འགྱུར་བ་བཏང་དགོ། Alzheimer's Association གིས་ སྤྱིར་བཏང་གི་གནས་སྐབས་གསུམ་འགྲེལ་བཤད་རྐྱབ་ཡོད།
 
-| Stage | What helps |
+| གནས་སྐབས | གྲོགས་རམ་འབད་མི |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| འགོ་ཐོག | ཁོང་གིས་ཁ་བརྡ་འབད་མ་ཚུགསཔ་འབདཝ་སྦེ་མ་བསམ། ཁ་བརྡ་ནང་བཙུགས་ ཐད་ཀར་དུ་སླབ་ ག་ཅི་གི་གྲོགས་རམ་དགོཔ་ཨིན་ན་དྲི་ དེ་ལས་ཕན་ཐོགས་པ་ཅིན་ དགའ་ཤོས་ཀྱི་སྐད་ཆ་ལག་ལེན་འཐབ། |
+| བར་མ | སྐད་མེདཔ་སྦེ་ཡོད་སའི་ས་གནས་ནང་ མི་གཅིག་དང་གཅིག་ཁ་བརྡ་འབད། དལ་མོ་སྦེ་སླབ་ མིག་མཐོང་བཞག་ ཨིན་/མེན་ ཟེར་བའི་དྲི་བ་ལག་ལེན་འཐབ་ གོམ་པ་རེ་རེ་སྦེ་ལམ་སྟོན་འབད་ སྐྱོན་བརྗོད་ཡང་ན་ནོར་བཤད་མ་འབད། |
+| མཐའ་མ | མདུན་ཁ་ལས་འཛུལ་ཞིནམ་ལས་ཁྱོད་ག་སུ་ཨིན་ན་སླབ། མཛུབ་མོ་དང་ལག་བརྡ་ལག་ལེན་འཐབ་ནི་ལུ་སྤོབས་པ་བསྐྱེད། ལགཔ་འཛིན་ནི་ སྐད་ མཐོང་སྣང་ དྲི་བ་ཚུ་ལག་ལེན་འཐབ། ཁོང་མེད་པའི་བཟུམ་སྦེ་ནམ་ར་ཨིན་རུང་མ་སླབ། |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+མི་རེ་རེ་སོ་སོ་ཨིན། མི་གཅིག་ལུ་ཉིནམ་ལེགས་ཤོམ་དང་དཀའ་བ་ཡོདཔ་འབདཝ་ཨིན། མིང་གི་ཐོག་ལས་ ད་ལྟོ་ཁོང་ག་དེ་སྦེ་ཡོད་མི་ལུ་ལན་རྐྱབ།
 
-## Can pictures and activities make conversation easier?
+## པར་དང་ལས་རིམ་ཚུ་གིས་ཁ་བརྡ་ལས་སླ་བཟོ་ཚུགས་ག?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+ཚུགས། མཉམ་དུ་བལྟ་ནིའི་པར་ཅིག་ཡོད་པ་ཅིན་ གནོན་ཤུགས་ཉུང་བཟོ་ཞིནམ་ལས་ ཁྱོད་གཉིས་ཀས་མཐོང་ནི་དང་མཛུབ་མོ་བཙུགས་ནིའི་གནས་ཚུལ་ཅིག་ཐོབ་ཨིན།
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **པར་གྱི་དྲི་བ།** [Conversation Cards](/games/conversation-cards/) ནང་ དྲི་བ་མེད་པའི་དྲི་བ་སྒོ་ཡོངས་ཕྱེ་བ་དང་བཅས་པའི་པར་ཚུ་ཡོད།
+- **ནང་མིའི་པར།** [Photo Pairs](/games/photo-pairs/) གིས་ ཁྱོད་ཀྱིས་གདམ་ཁ་རྐྱབ་མི་པར་ཚུ་ འཇམ་ཏོག་ཏོ་སྦེ་མཐུན་པའི་རྩེདམོ་ལུ་བསྒྱུར་བཅོས་འབདཝ་ཨིན། དེ་གིས་ལོ་རྒྱུས་སླབ་ནི་ལུ་གྲོགས་རམ་འབད་འོང།
+- **གོམས་འདྲིས་ཡོད་པའི་གཏམ་དཔེ།** [Finish the Saying](/games/finish-the-saying/) གིས་ གོམས་འདྲིས་ཡོད་པའི་གཏམ་དཔེ་ཚུ་ལག་ལེན་འཐབ་ཞིནམ་ལས་ ཤུལ་ལས་ཁ་བརྡའི་དྲི་བ་ཅིག་ཕུལཝ་ཨིན།
+- **མཐུན་པའི་རྩེདམོ།** [Picture Pairs](/games/picture-pairs/) གིས་ ཁ་བརྡ་འབད་བའི་སྐབས་ ལགཔ་ལུ་ལས་ཀ་ཅིག་བྱིནམ་ཨིན།
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+[མཉམ་དུ་རྩེདམོ་རྩེ་ཐངས་](/caregiving/how-to-play-together/) དང་ [དྲན་གསོའི་ལས་རིམ་](/activities/reminiscence/) ཚུ་ལུ་ལྷག་ལྟ། ལྟ་སྐོར་དང་ཁ་པར་གྱི་སྐོར་ལས་ [ལྟ་སྐོར་](/activities/visiting/) དང་ [ཁ་པར་དང་བརྙན་འཕྲིན་ཁ་པར་](/activities/phone-and-video-calls/) གྱི་ལམ་སྟོན་ཚུ་ལྷག
 
-## What if I lose my patience?
+## བཟོད་སྒོམ་མེདཔ་འགྱོ་བ་ཅིན་ག་ཅི་འབད་དགོ?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+དེ་འབད་མི་ག་ར་ལུ་འབྱུངམ་ཨིན། NIA གིས་ ཁྱོད་སེམས་ཁྲལ་ཚོར་བ་ཅིན་ ཅུང་ཙམ་དལམ་སྦེ་བསྡད་ནིའི་ལམ་སྟོན་འབད་ཡོད། ཁང་མིག་གཞན་ནང་སོང་ཞིནམ་ལས་ དལ་མོ་སྦེ་དབུགས་རིངམོ་བཏང་ དེ་ལས་སེམས་ཁྲལ་ཉུང་བའི་ཤུལ་ལས་ལོག་འོང། ཁ་བརྡ་དེ་ལོག་འགོ་བཙུགས་ཆོག ཁྱོད་དལ་མོ་སྦེ་ཡོད་པ་ཅིན་ ཁོང་གིས་ཡང་ལེགས་ཤོམ་སྦེ་ལན་རྐྱབ་འོང། སེམས་ཁྲལ་དེ་ནམ་རང་འབད་དོ་ཡོད་པ་ཅིན་ དེ་འདི་ ཁྱོད་ལུ་གྲོགས་རམ་ལྷག་སྟེ་དགོཔ་ཡོད་པའི་རྟགས་ཨིན། ཁྱོད་མ་ལེགསཔ་མེན། [བདག་སྐྱོང་པའི་རང་དོན་བདག་སྐྱོང་](/caregiving/caregiver-self-care/) གི་ལམ་སྟོན་ནང་ གྲོགས་རམ་ལེན་སའི་ས་གནས་ཚུ་ཡོད།
