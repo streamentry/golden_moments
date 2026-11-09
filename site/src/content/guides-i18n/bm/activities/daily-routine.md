@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Dimansi bɛ ɲɛnamaya kɔnɔ: dɔrɔn ka kɛlɛ laadili"
+seoTitle: "Dimansi laadili dɔrɔn: kɛlɛ dɔrɔn misali"
+description: "Dimansi bɛ ɲɛnamaya kɔnɔ ka kɛlɛ dɔrɔn misali, ni dumuni, kɛlɛ ani sigi ka sigilen kɔnɔ, ani cogo min bɛ se ka i yɛrɛ ka laadili kɛ ka kɛ kɛlɛ gɛlɛn dɔrɔn kɔnɔ."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Laadili dɔrɔn bɛ sɔgɔma, dumuni, cɛɲɛ ka bɔ ani dɔgɔya ɲɛ kɛ ni waati
+  kelen ye kɔrɔ. A bɛ kɛlɛ nɛnɛma waati min na a ka miiri bɛ kɛ tɔɔrɔ
+  ɲɛ, ani a bɛ sigi ni kɛlɛ ɲɛ ka kɛ ni kɛlɛ ye. Laadili kɛ ni ɲɛnamaya
+  ka kɔnɔ ye, a kɛ ni yɛrɛ ye, ani a kɛ sankɛ ni kɛnɛ kɔnɔ kɛ don o don. A
+  bɛ se ka laadili yɛrɛyɛrɛ ka yɛlɛ ni waati ye.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Waati kelen na sɔgɔma, dumuni, cɛɲɛ ni dɔgɔya ye, o bɛ dɔrɔn kɛ dɔ kɔnɔ kɛnɛ."
+  - "Kɛlɛ nɛnɛma waati min na a ka miiri bɛ kɛ ɲɛ, o bɛ kɛ sɔgɔma."
+  - "Sɛgɛn tɛ sɛgɛn o sɛgɛn ka fɛ. Sigi ni hɔrɔnya waati ka kɛ laadili kɔnɔ."
+  - "Kɛnɛ, kɛlɛ kɔ kɔnɔ ni dɔ ka dɔ dɔ ka nɔgɔya, o bɛ se ka kɛ dɛmɛ ka kɛlɛ yɛlɛma ka bɔ ka tɔɔrɔ kɔnɔ."
+  - "Laadili ye sira ye, a tɛ kiri ye. Kɛ dɔ tɔ, ka dɔ kɛ, walima ka dɔ bɔ ni kɛlɛ gɛlɛn bɛ kɛ."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Mun na laadili ye dɛmɛ ye dimansi bɛ ɲɛnamaya kɔnɔ?"
+    a: "Dɔrɔn min bɛ kɛ ni laadili ye, o bɛ miiri ni tɔɔrɔ dɔgɔya. Mɔgɔ caman bɛ o ɲɛ. Alzheimer's Association b'a fɔ ko laadili bɛ se ka kɛ ka waati dɔgɔya kɛlɛ dɔ ka miiri kɔnɔ, ani ka waati caman di kɛlɛ min bɛ ɲɛ ni i ni a bɛ ɲɛ kɛ. A bɛ dɛmɛ fana i yɛrɛ ka dɔrɔn ka laadili kɛ."
+  - q: "Dimansi bɛ ɲɛnamaya kɔnɔ, cogo di min ye laadili ɲɛ?"
+    a: "Laadili kɔnɔ tɛ yen min ye kɔrɔ ye. Laadili ɲɛ bɛ sɔgɔma, dumuni ani sigi kɛ waati kelen na. A bɛ sɛgɛn ka waati ni kɛlɛ nɛnɛma ɲɛ ka kɛ sankɛ ni kɛnɛ kɔnɔ ye, a bɛ waati di sigi ye. A ka kɛ ni cogo min na mɔgɔ ka ɲɛnamaya ye fɔlɔ ye, o ye ɲɛ ye."
+  - q: "Dimansi bɛ se ka sigi ka dɔgɔya tile kɔnɔ wa?"
+    a: "Sigi dɔgɔ bɛ dɛmɛ, sanni dumuni kɔfɛ. National Institute on Aging b'a fɔ ko sigi ka gɛlɛn tile kɔnɔ ani ka sigi sɔrɔ kɛlɛ ka kɛ ka bɔ, bawo ni dɔgɔya dɔgɔ ani sigi tɛ ɲɛ kɛ bɛ se ka tɔɔrɔ kɔnɔ kɛ ka gɛlɛya. Ni dɔgɔya ye gɛlɛya ye, kuma ni a ka dɔkitɔrɔ ye."
+  - q: "Ni u tɛ laadili ka kɛ, o bɛ kɛ cogo di?"
+    a: "Ka o to sisan, ka o ka kɔfɛ walima ka o kɛ cogo wɛrɛ la. Ni u b'a ɲɛ, o bɛ kɛ bawo u sigilen don walima u tɛ se ka kɛ sisan. Laadili bɛ kɛ dɔrɔn ka kɛ ye, a tɛ kɛ kɔnɔ ye, o de kɔnɔ ka a ɲɛ tiɲɛ."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Laadili dɔrɔn bɛ dɔrɔn kɛ ni sɔgɔma, dumuni, kɛlɛ, sigi ani dɔgɔya ye, ni waati kelen na ɲɛ. A bɛ kɛlɛ ɲɛ kɔnɔ ka dɔgɔya, ani a bɛ sira di i ma ɲɛ ka bɔ, waati min na i bɛ miiri ko i bɛna se ka kɛ jumɛn. Laadili min bɛ kɔnɔ ye misali ye, a tɛ kiri ye. Ka o kɛ sirako ye, ka o kɔfɛ kɛ ni mɔgɔ min bɛ i dɛ ye.
 
-## Why does a daily routine help?
+## Mun na laadili dɔrɔn bɛ dɛmɛ?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Laadili dɔrɔn bɛ dɛmɛ bawo kɛnɛ bɛ dɛ ka kɔrɔ ka kɛ ni kɛ kɔrɔ ye. A bɛ sɛgɛn ka laadili ni ɲɛnamaya sisan ye. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) b'a fɔ ko laadili kɛ waati ka dɔgɔ kɛlɛ nɛnɛma kɔnɔ, ka waati caman di kɛlɛ min bɛ ɲɛ. A b'a fɔ fana ko sɔgɔma, dumuni ani dɔgɔya waati ka kɛ sisan bɛ se ka dɛmɛ sigi kɛ ni dɔgɔya tile kɔnɔ ye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) b'a fɔ ko sɔgɔma, ka ɲɛ ka kɛ, ka don ni dumuni waati kelen na, o bɛ dɛmɛ ka ɲɛnamaya kɛ ka sɛgɛn. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) fana b'a fɔ ko laadili kelen bɛ kɛ.
 
-## A sample gentle day
+## Dɔrɔn ka kɛlɛ laadili misali
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Waatiw ye misali ye. Kɛ sɔgɔma walima kɔfɛ, ka o kɛ ni mɔgɔ ka ɲɛnamaya ye.
 
-| Time | What happens | Ideas | On a harder day |
+| Waati | Min bɛ kɛ | Ci-kɛlɛ | Tile gɛlɛn kɔnɔ |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 sɔgɔma | Sɔgɔ, ka ɲɛ ta, ka kɛ | Sira kelen bɛ kɛ tile bɛɛ; kɔrɔ ka kɛ ka ɲɛ ta | Ka ɲɛ ta ka dɔgɔ; kɔrɔ kɛnɛ ka to |
+| 8:45 sɔgɔma | Dumuni | Kafɛ ni kɛlɛ ka kiti, walima radiyo | Ka dumuni ni ɲɔgɔn ye ka dɔgɔ, kuma gɛlɛn tɛ |
+| 9:30 sɔgɔma | Kɛlɛ fɔlɔ | Ka nɛgɛ kɛ, ka buru, ka tɔ, ka taa taamasiɲɛ ni ka tɛ | Kɛlɛ dɔgɔ, walima a ka ɲɛ i ka a kɛ |
+| 10:30 sɔgɔma | Sigi waati | Musiki, sɛbɛn ka misiraw, walima sigi fɛn ɲɛ kɔnɔ | Sigi a ka sigiyɔrɔ nɔgɔn kɔnɔ |
+| 11:00 sɔgɔma | Dɛmɛ ka dumuni kɛ | Tigɛ ka gɛnɛ, ka dumuni wulu sigi | I bɛ dumuni kɛ; a bɛ i ɲɛ |
+| 12:00 kɔfɛ | Dumuni ani ka yɛlɛma | Ka tabali ɲɔgɔn, ka kɛ ntɛ dɔrɔn | Kɛlɛ tɛ |
+| 1:00 kɔfɛ | Sigi dɔgɔ | Ka senw sigi, musiki gɛlɛn | Sɔrɔ kelen |
+| 2:00 kɔfɛ | Ka bɔ walima ka kɛlɛ kɛ | Taama, sigi dugu kɔnɔ, ka jirw ji, ka sanji ba | Sigi fitinin ɲɛ kɔnɔ |
+| 3:00 kɔfɛ | Mɔgɔw ni dɛmɛ ka kɛ | Mɔgɔ ka na, kɔlɔsi, [sɛbɛn ka misiraw](/games/picture-pairs/), kɛ ni ɲɛ, kaari | Ji ni dɔgɔ ka ɲɔgɔn bɛ |
+| 4:30 kɔfɛ | Sigi waati | Ka kasa ka, fitilen kunna, kɛlɛ dɔgɔ min bɛ kɛ i ka kɛ, i ka kalikɔ ka bala | Musiki min bɛ dɛ, kɔnɔnɛ dɔgɔ |
+| 5:30 kɔfɛ | Dumuni | Ka dɛmɛ ka tigɛ, walima ka tabali ɲɛ | Dumuni dɔgɔ min bɛ dɛ |
+| 6:30 kɔfɛ | Dɔrɔn ka sigi | Kumaw ka dɔ kɔnɔ, kaari, ɲɛnajɛ min bɛ dɛ, ka boko ka dɔ | Ka sigi ni mɔgɔ ɲɔgɔn ye |
+| 8:00 kɔfɛ | Ka sigi | Ka sɔ walima ka ɲɛ ta, kɔlɔsi, musiki, fitilen dɔgɔ | Ka wulu bɛɛ dɔgɔ; hɛɛrɛ fɔlɔ |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Misali nin bɛ kɛ i n'a fɛ Alzheimer's Association ka misali dɔrɔn kɛlɛ dɔ ka sira ye, o min bɛ kɛ ka ɲɛnamaya kɔnɔ fɔlɔ ni kɛlɛ kɔnɔ ye.
 
-## How do you build your own routine?
+## I bɛ se ka i yɛrɛ ka laadili kɛ cogo di?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Ka dɔ kɛ ni mɔgɔ ka ɲɛnamaya ye, o bɛ kɛ fɔlɔ, ka tɛ kɛ ni sirasan ye. Alzheimer's Association b'a fɔ ko i ka o miiri ka ɲɛ, o tɔ ka laadili kɛ:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **A ka ɲɛjogonw, a ka ɲɛjogon tɛ, a ka fɛɲɛgɛlɛya ani a ka kɛlɛw.**
+- **Cogo min na a bɛ a ka dɔrɔn kɛ ɲɛ.** Mɔgɔ min bɛ sɔgɔ fɔlɔ, o bɛ kɛ ka taama sɔgɔma ni a ka wulukɔnɛ ye. Mɔgɔ min bɛ kɛlɛ kɛ dumuni, o tɛ se ka sɔgɔma 8 nɔgɔn.
+- **A ka waati ɲɛnamaya kɔnɔ min bɛ kɛ ɲɛ fɛ.** Ka sɔgɔ, ka bɔ, ni kɛlɛ fɔlɔ, o ka kɛ o waati la.
+- **Waati dɔ** dumuni, sɔgɔ ani ka ɲɛ ta, ka kɛ ka tɛ ɲɛ ta.
+- **Sɔgɔma ani sigiyɔrɔ waati ka kɛ kelen kelen.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Sira kelen na fana bɛ fɔ ko kɛlɛ dɔrɔn bɛ kɛ: tabali ka kɛlɛ, dumuni, sɔgɔ ni ɲɛ kɛ, kɛlɛ min bɛ kɛ ni hakili ye, kɛlɛ min bɛ kɛ ni sɛgɛn ye, kɔnɔnɛ ka kɛlɛ, anw ka ɲɛ ta-kɛlɛ, ani kɛlɛ min bɛ kɛ ka sɔrɔ waati min na, i n'a fɔ mɔgɔ ye min bɛ na.
 
-### Try it for a week, then adjust
+### A ka sɛgɛn don kelen, o kɔfɛ ka yɛlɛma
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Ka dɔ bɛɛ ka hakilina sɛbɛn kɔnɔ don o don. Alzheimer's Association b'a fɔ ko i ka ɲɛnin ko kɛlɛ jumɛn bɛ ɲɛ ka kɛ ka bon, ani o bɛ ɲɛ ka kɛ kɛlɛ dɔgɔ walima kɛlɛ caman. Kɛlɛ min bɛ kɛ ka ɲɛ tɛ, o ka kɔfɛ ka dɔ kɛ.
 
-### Make it visible
+### O ka jɛ ka kɛ ka ɲɛ ye
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ni mɔgɔ bɛ se ka sɛbɛn kɛnɛ, sɛbɛn kɛnɛ ka karatan walima kalan min bɛ ka laadili kɛ sɛbɛn fɔlɔ kɔnɔ, o bɛ dɛmɛ. Ka a kɛ gɛlɛn tɛ: "Dumuni. Sarah ni taama. Tigɛ. Sigi." Mɔgɔ dɔw bɛ kɛ ɲɛ ka tɛ ni a ka bɛn ka sɔrɔ waati min na; Family Caregiver Alliance b'a fɔ ko ni kɛlɛ bɛ kɛ mɔgɔ ka miiri gɛlɛya kɔnɔ, ka kuma ka laadili kɔnɔ ka se a kɛ kɔfɛ.
 
-## How to adapt the routine
+## Cogo min na ka laadili kɛ dɔrɔn ka kɛlɛ
 
-### Leave room to breathe
+### Ka sigi ka dɔgɔ ka kɛ kɔnɔ
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Kɛlɛ bɛɛ ka kɛ kɛlɛ ye. Alzheimer's Association b'a fɔ ko mɔgɔ bɛ kɛ ni kɛlɛ ni sigi ɲɔgɔn ye, ani a bɛ se ka sigi ka caman. Ni a bɛ kɔnɔnɛ, ni a hakili bɛ fɛn wɛrɛ la, walima ni a bɛ kasi, o bɛ kɛ kɛlɛ wɛrɛ walima sigi ye.
 
-### Protect the late afternoon
+### Dɔgɔya sɔrɔ tile kɔnɔ
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Mɔgɔ caman bɛ gɛlɛya ka kɛ tile gɛlɛn kɔnɔ, ni kɔnɔnɛ bɛ dɔgɔya. NIA b'a fɔ ko i ka mɔgɔ ka bɔ ka sɔ ka sɔrɔ ni kɔnɔnɛ bɛ kɛ dumuni kɔnɔ tile bɛɛ, ka kɛlɛ ka ɲɛ kɛ tile bɛɛ tɛ ka ɲɛ ka kɛ kɛlɛ caman ye, ka tile kɔnɔ kɔfɛ dɔgɔya tɛ ka kɛ ni kafɛ ani ni fɛn dɔrɔn tɛ, ani ka sigi sɔrɔ kɛlɛ kɔfɛ tile kɔnɔ. Mɔgɔ dɔw fana bɛ kɛlɛ dɔgɔ ka fitilen kunna ni dɔgɔya fɛ. Ka [dɔgɔya tile gɛlɛn kɔnɔ](/caregiving/late-day-restlessness/) ni [sigi](/brain-health/sleep/) ye.
 
-### Change it as needs change
+### Ka o yɔrɔ bɔ ka kɛ ni kɛlɛ bɛ ɲɛ bɔ
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Fɔlɔ waati:** laadili ka kɛ ni ɲɛ ye. Mɔgɔ bɛ se ka sira sɛbɛnnen fɛ ka kɛ a yɛrɛ ka kɛlɛ ta.
+- **Ci waati:** i bɛ kɛlɛ caman kɛ. Kɛlɛ dɔgɔ, sigi caman ani kɛlɛ caman min bɛ dɛ; ka ɲɛ [ci waati kɛlɛw](/activities/middle-stage/) kɔnɔ.
+- **Waati kɔfɛ:** laadili bɛ kɛ ka hɛɛrɛ, dumuni ani kɛlɛ kɔnɔ; musiki walima bolo ka dɛmɛ min bɛ kɛ dɔgɔ, o bɛ kɛ ka ɲɛ ka kɛ ka bɔ; ka ɲɛ [waati kɔfɛ kɛlɛw](/activities/late-stage/) kɔnɔ.
 
-### Vary the activities, not the frame
+### Kɛlɛw yɛlɛma, sira tɛ yɛlɛma
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Ka dumuni, sigi ani sɔ waati to cogo kelen na, ka kɛlɛw dɔ dɔ kɛ ka bɔ ka kɔnɔ. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) b'a fɔ ko i ka kɛlɛ wɛrɛw kɛ tile wɛrɛw la, ka o kɛ ka ɲɛ tɛ kɛ dɔgɔ. I bɛ se ka buru kɛ Kari tile, nɛgɛ kɛ Tile Kɛnɛ, ka sɛbɛn ka misiraw ye Tile Saba. An ka [kɛlɛ 101](/activities/ideas/) ni [so kɛlɛw](/activities/household-tasks/) bɛ se ka waatiw bɛɛ kɛ.
 
-## When the day goes sideways
+## Tile min bɛ kɛ ka tɔɔrɔ
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Tile dɔw tɛ laadili kɔnɔ kɛ. Maraya, dɔgɔ sɔgɔ, dɔkitɔrɔ ka na, walima sanu kɔnɔ min bɛ kɛ, o bɛ se ka laadili bɛɛ ka sɔrɔ. Ka laadili bɔ, ka dɛmɛ ka cɛ ka kɔnɔ kɛlɛ fɔlɔ: dumuni, ji, sigi, nɛnɛ; ka sekɔ kɛ sini. Ni mɔgɔ bɛ kɛlɛ dɔ ka kan, [ni u bɛ ko ko, ko](/caregiving/when-they-say-no/) ka ɲɛ. Ka sigi kɛ ni ɲɛ ye, i n'a fɔ [sigi ka kɛlɛ](/games/calm-breathing/), o bɛ se ka dɛmɛ ka i ni a yɛrɛ ka hakili yɛlɛma.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+I yɛrɛ ka laadili fana ka mako ye. Ka sigi ka waati dɔ kɛ i yɛrɛ ye, ani ka mɔgɔw walima dɛmɛ-yɔrɔ ka sɛgɛn ka waati di i ma ka sigi. Ka [i yɛrɛ ka sigi ni ɲɛ](/caregiving/caregiver-self-care/) ɲɛ.

@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Lus blong herem mo risk blong dementia: Wanem risej i soem"
+seoTitle: "Lus blong herem mo dementia: Wanem risej i soem"
+description: "Wanem lus blong herem i wan bigfala risk fakta blong dementia, wanem ACHIEVE trial i faenem, mo hao blong jekem herem mo toktok isi moa."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet Commission long 2024 i talem lus blong herem i wan long ol bigfala risk fakta we yumi save jenisim blong dementia. Long ACHIEVE trial, ol devaes blong helpem herem i no slowem dis blong tingting long ol man evri wan, be wan grup we i gat moa risk i shoem sem dis i slow moa. Ol devaes blong helpem herem i helpem toktok mo laef blong ol man long ol ded. Jekem herem, tingting long ol devaes we yu save baem long fama o we oli no nidim presripsen, mo toktok wetem dokta.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission i estimetem se lus blong herem i kosim abaot 7% blong dementia long wol, mo i tae wetem narafala long 14 fakta, i gat bigfala sea."
+  - "Long ACHIEVE trial we i gat 977 olfala man, ol devaes blong helpem herem i no jenisim dis blong tingting long tri yia overol."
+  - "Long wan smol grup we i gat moa risk insaed long ACHIEVE, dis blong tingting i slow 48% moa wetem ol devaes blong helpem herem; dis i nidim blong konfemem."
+  - "Since October 2022, ol adalt long US we oli feelem lus blong herem i no bigfala tumas, oli save baem OTC hearing aids we FDA i kontrolem, no nidim presripsen."
+  - "Lus blong luk long ae we oli no trikem i bin ademap olsem wan risk fakta blong dementia long 2024, so jekem ae i impoten tu."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Ol devaes blong helpem herem i save stopem dementia?"
+    a: "Ol i no yet provem. ACHIEVE trial i no faenem wan jenis long dis blong tingting overol long tri yia, be wan grup we i gat moa risk i bin gat gud moa. Ol devaes blong helpem herem i stil i wan gudfala samting blong tingbaot, from oli mekem toktok, laef blong sefti, mo ol wok blong ded i isi moa."
+  - q: "Hu i save baem OTC hearing aids?"
+    a: "FDA i alaoem ol adalt we oli 18 yia no moa, we oli feelem lus blong herem i no bigfala tumas, blong baem ol OTC hearing aids long ol stoa o long intanet taem i nogat presripsen. Oli no minim blong bigfala lus blong herem. Sipos yu gat pen long ia, watarem long ia, dizi, o sudden jenis blong herem, yu mas luk dokta bifo."
+  - q: "Lus blong herem i save lukim olsem dementia?"
+    a: "Sam taem, yes. National Institute on Aging i talem se ol olfala we oli no save herem gud, oli save wari we ol man i tingim olsem oli no save tingting gud o oli no wantem bihaevem gud. Jekem herem i wan gudfala step taem wan man i stap seklusivim hem wan mo, o i miskem ol samting we oli talem."
+  - q: "Hao ofen ol olfala oli mas jekem ae blong olgeta?"
+    a: "National Institute on Aging i advaesem se wan dilated ae eksamen evri wan o tu yia afta we yu kasem 60 yia, o olsem we dokta blong ae i talem. Ol man we oli gat dayabetis o hae blud presa oli nidim wan taem evri yia long likaet."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,56 +47,56 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Lus blong herem i komon long laef blong olfala man, mo ol risej oli tekem i serious olsem wan risk fakta blong dementia. Be ol devaes blong helpem herem i no yet provem se oli wan rod blong stopem dementia; bes trae we i bin mekem i gat ol rizalt we oli no sem. Pej ya i eksplenem wanem ol risej i soem, hao blong jekem herem, wanem ol OTC hearing aids long US, mo hao blong mekem toktok i isi moa.
 
-## Why does hearing matter for brain health?
+## Herem i impoten from wanem long helt blong hed?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Lus blong herem i gat konekson wetem hae risk blong dementia. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) i estimetem se i kosim abaot 7% blong dementia long wol. Dat i mekem i tae wetem hae LDL kolesterol long bigfala sea among 14 fakta we yumi save jenisim long modelo blong Commission, olsem [UCL i talem long saman blong ripot](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Ol key risej blong Commission:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Hae risk wetem lus blong herem.** Long pulap analisis blong sikis gud stadi, ol man we oli gat lus blong herem oli gat abaot 37% hae risk blong dementia komparem wetem ol man we herem i normal.
+- **Moa lus, moa risk.** Ol stadi we oli lukluk long hao i bigfala, oli faenem se risk i go antap taem herem i kam wos.
+- **Ol posibol risin, we i no yet provem.** Ol aedia oli inkludim lonlines mo wetlaen, sednes, laetem stimulesen long hed, mo bigfala tingting we i nidim taem yu stap herem.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Lus blong herem i komon. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) i talem se abaot wan long tri olfala man i gat, mo jans i go antap wetem eij.
 
-## What did the ACHIEVE hearing aid trial find?
+## Wanem ACHIEVE hearing aid trial i faenem?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE i bin fastfala randomized trial blong ol devaes blong helpem herem mo lus blong tingting. Ol rizalt oli oftaen misripota, so ia i ol detel long [ripot blong trial we i bin pablisim](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Hu i joenem:** 977 adalt we oli 70 go 84 yia, we oli gat lus blong herem we i no bin trikem, mo oli no gat bigfala trabol blong tingting, long fo komuniti sentA long US.
+- **Wanem i bin kompea:** Hafples i bin gat ol devaes blong helpem herem plus sesen blong kaonsel wetem wan audiologist. Narafala hafples i bin gat wan program blong hel edukesen abaot hao blong laef gud long eij.
+- **Main rizalt:** Afta tri yia, i nogat **difren** long lus blong tingting long ol grup overol.
+- **Rizalt long smol grup:** Trial i bin rekrutem man long tu sos. 238 man i kam long wan longfala stadi blong hed (ARIC), mo oli wan grup we i gat hae risk blong lus blong tingting. Long dat grup, dis i slow **48% moa** wetem ol devaes blong helpem herem. Long 739 man we oli volunta long komuniti we oli fit, i nogat klia difren.
 
-How to read this honestly:
+Blong ridim ol rizalt ya stret:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Overol ansa i nogat difren.
+- Rizalt long smol grup i bin plan finis, be i kamaot long wan seken analisis long smol grup. I nidim blong konfemem long ol narafala stadi.
+- Ol man i save wanem program oli stap long hem, mo ia i save jenisim rizalt.
+- Lancet Commission i ridim ol pruf olsem ol devaes blong helpem herem i luk olsem oli gud tumas long ol man we oli gat lus blong herem wetem ol narafala risk fakta blong dementia.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Bottom lain, ol devaes blong helpem herem i no wan provem rod blong stopem dementia. Be oli helpem ol man blong herem, joen long toktok, mo stap konekted, mo ia i rison i gud blong tingbaot long olgeta.
 
-## How do I know if hearing should be checked?
+## Hao blong mi save sipos herem i nidim jekem?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA i sajestem se yu mas luk dokta sipos yu o man we yu kea long hem:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- I gat trabol blong andastanem ol man long fon
+- I had blong folem toktok taem tu no moa man i toktok wanwan
+- Ofen i askem ol man blong ripitem wanem oli talem
+- I putum TV i hae tumas gogo ol narafala i kamplen
+- I had blong andastanem tok taem i gat bikfala noes long bakgraon
+- I tingim se ol narafala oli toktok long wan slo we i no klia
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Stat wetem wan primary care dokta, we i save referim yu long wan audiologist (wan spesialis blong herem) o wan ear, nose and throat dokta. Ear wax we i bil-ap i wan komon kosis blong lus blong herem we dokta i save jekem. **Sudden lus blong herem i wan medical emergensi**, mo NIA i advaesem blong luk dokta long wan taem.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Lus blong herem i save kamaot olsem konfiuzen. NIA i noteim se ol olfala we oli no save herem gud, oli save wari we ol man i tingim olsem oli no save tingting gud, oli no save ansarem, o oli no wantem bihaevem gud. Sipos man we yu laekem i luk olsem i stap seklusivim hem wan mo, o i miskem wanem oli talem, jekem herem i wan gudfala step blong bifo.
 
-## What are over-the-counter hearing aids?
+## Wanem ol OTC hearing aids?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Long 17 October 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) i alaoem wan kaetgori blong over-the-counter (OTC) hearing aids. Ia i olsem we oli kompea wetem ol presripsen hearing aids:
 
 | Feature | OTC hearing aids | Prescription hearing aids |
 | --- | --- | --- |
@@ -107,37 +104,37 @@ Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-ai
 | Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
 | Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA i talem se ol OTC aids oli no minim blong bigfala o strong lus blong herem. Oli advaesem yu blong luk dokta, we i prefera ear, nose and throat spesialis, bifo yu baem sipos yu gat:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Pen long ia o fil nogud long ia
+- Fluid, pus o blad we i kamaot long ia long sikis mans we i pas
+- Sudden o jenisim blong herem we i no stedi
+- Herem i wos long wan saet, o ringing long wan ia nomo
+- Dizi o vertigo
+- Bigfala tumas ear wax
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Blong yusum ol hearing aids i tekem taem blong lanem, so jekem polisi blong ritanem bifo yu baem, olsem FDA i sajestem. NIA i sajestem blong askem sipos insyoransi blong yu i kavremup sam long kos. Long wan man we i laef wetem dementia, wan audiologist i save helpem blong jusum wanem taep blong aid mo fitting we i isi blong yusum long ol dei.
 
-## How can I talk more easily with someone who has hearing loss?
+## Hao blong mi save toktok isi moa wetem wan man we i gat lus blong herem?
 
-The NIA suggests:
+NIA i sajestem:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Fes long man mo stap lukim ae blong hem**, long gud laet, blong hem i save lukim ol lip mo ol fes blong yu.
+2. **Faendem wan kwaet ples.** Stopem TV o go awe long noes.
+3. **Toktok i hae wan smol, be no kraes.** Toktok natrol mo long wan gud spid.
+4. **Lip blong yu i klia.** No kaikai, no jioj gam, no kavremaot maos taem yu toktok.
+5. **Talem wanem i stret moa, i no ripitem tu.** Sipos samting i miskem, jenisim wei blong talem.
+6. **Wan man long wan taem.** Long wan grup, mekem sua blong inkludim man ia.
+7. **Stap pasiens mo askem hao yu save helpem.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ol tips ia i gud wetem [ol tips blong toktok long dementia](/caregiving/communication-tips/). Ol aktiviti we i yusum ol pikja oli tekem presa i go antap long herem. [Picture Pairs](/games/picture-pairs/) mo [Conversation Cards](/games/conversation-cards/) oli wok long samting yu lukim, mo [Finish the Saying](/games/finish-the-saying/) i letem yu soem fining insted of talem. Blong ol kol, lukim gaed blong mifala long [phone and video calls](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Ae i impoten tu
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Long 2024, Lancet Commission i ademap lus blong luk long ae we i no trikem olsem wan niu risk fakta. UCL i talem se i kosim abaot 2% blong ol kes blong dementia, mo Commission i rekomendem se oli mas mekem skrining mo trit blong ol trabol long ae i stap long evri wan. [NIA i advaesem](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) wan dilated ae eksamen evri yia o tu yia afta 60 yia, mo jekem ol glas presripsen tu. Evn ol smol jenis long luk i save kosim risk blong foul.
 
-## Talk with a doctor
+## Toktok wetem dokta
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Askem wan dokta abaot jekem herem mo luk long ae sipos yu lukim eni long ol sain we i stap antap. Go luk kea kwik sipos i gat sudden lus blong herem, pen long ia, o fluid we i kamaot long ia. Sipos yu kea long wan man we i laef wetem dementia, talem dokta blong hem abaot jenis long herem o luk long ae, from ol samting ia i save afektem fil, sefti, mo hao man i save joen long ol ded.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Pej ya i jeneral infomesen, no medical advaes. Luk [medical disclaimer](/medical-disclaimer/) blong mifala. Ridim moa abaot [social connection mo hed hel](/brain-health/social-connection/).

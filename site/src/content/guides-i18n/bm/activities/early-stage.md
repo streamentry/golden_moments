@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Kɛwalew dimansi fɔlɔ kɔnɔ"
+seoTitle: "Dimansi fɔlɔ kɔnɔ kɛwalew: minnu bɛ ɲɛ"
+description: "Dimansi fɔlɔ kɔnɔ kɛwalew: sɛnɛkɛ, kartiw ni sɛnɛ kɛli, taama, sɛbɛn ni laadilikan kɛli ɲɔgɔn fɛ, ani ɲɛnɛmakow minnu bɛ mɔgɔ dɔnniya ka to ɲɛ."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Dimansi fɔlɔ kɔnɔ, mɔgɔ caman bɛ se ka kɛwale minnu nisɔndiya bɛ be a la
+  tuma bɛɛ: sɛnɛkɛ, kartiw ni sɛnɛ kɛli, muso kɛli, taama, kɔnɔfɛn kɛli,
+  jamaaw ni dɛmɛ kɛli. Kɛyɛrɛ minnu bɛ ɲɛ, olu ye mɔgɔ dɔw ka lamɛn ye,
+  wagati fitinin ni taama tɛmɛnen ye. Aw ka mɔgɔ ka dɛmɛ ye wari ye min ye
+  mɔgɔ yɛrɛ ka kan ye, ka kɛwale ka kɛ a ka laadilikan ye.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Dimansi fɔlɔ kɔnɔ mɔgɔ caman bɛ se ka to yɛrɛ la ka ɲɛ. Kɛwale bɛ se ka yɛlɛ, nka a tɛ ka wele."
+  - "Mɔgɔ ka mɔgɔ ka dɛmɛ min wanna, ani aw ka ɲɔgɔn dɔnniya ka sɛgɛsɛgɛ kɛ."
+  - "Mɔgɔ fitinin, wagati ko fɛn ma ka ɲɛ, ani taama tɛmɛnen ka ɲɛ."
+  - "Dimansi fɔlɔ kɔnɔ, mɔgɔ ka se ka kɛwale dɔw ka laadilikan ta ye, i n'a fɔ sɛbɛn ni laadilikan kɛli."
+  - "Kartiw ni kɛwalew ka kɛ nisɔndiya ye. Kɛwale min bɛ mɔgɔ kɛ sɛbɛn kɔnɔ, o banna."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Kɛwale jumɛn ye ɲɛ dimansi fɔlɔ kɔnɔ?"
+    a: "A bɛ kɛ mɔgɔ min bɛ kɛwale minnu nisɔndiya ka kan, olu ye: kartiw, sɛnɛkɛ, muso kɛli, taama, muso ni dɔnniya, jamaaw ni dɛmɛ kɛli. I bɛ se ka olu ka tɛmɛnen kɛ, ka olu kɛ fitinin ni ka olu kɛ ɲɛfɛ. Sɛbɛn kɛli, bataki sɛbɛn ni laadilikan kɛli ka ɲɛ dimansi fɔlɔ kɔnɔ."
+  - q: "Ne bɛ se ka dɛmɛ ka mɔgɔ ka dɔn-ka tɛ?"
+    a: "Aw ka mɔgɔ ka dɛmɛ min wanna, ka a ɲɛnɛ tuma caman. Aw ka ɲɔgɔn dɔnniya ka sɛgɛsɛgɛ kɛ, mɛn kɔnɔ ni ɲɛ dɔ ye min kɛra yɛrɛ ka dɛmɛ kɛ, i n'a fɔ kuma ni tɔgɔ ka tɛ na. Ni tile tɛ ɲɛnɛmaya, a ka a yɛrɛ sɔrɔ ka kɛ a ka ɲɛfɛ, hali ni a bɛ taa tɛmɛnen."
+  - q: "Mɔgɔ min bɛ dimansi fɔlɔ kɔnɔ, a ka se ka kɛwale kura kɛ wa?"
+    a: "Ɔɔn, ni a ka wanna. Kɛwale minnu mɔgɔ bɛ den ka kɛwale, olu bɛ ka sɔrɔ ka ɲɛ; nka mɔgɔ caman bɛ nisɔndiya sɔrɔ kɛwale kura la, i n'a fɔ taama kɛli jamaaw ɲɔgɔn fɛ, sɛbɛn kɛli wa dumuni kɛli. Aw ka a kɛ fɔlɔ ka a ɲɛ, ka a ɲɛnɛ, ani aw ka a ɲɛ ko a bɛ ɲɛ wa ten."
+  - q: "Dimansi fɔlɔ kɔnɔ, sɛbɛn kɛli min bɛ dɔnniya ka laadilikan ta, o ka ɲɛ wa?"
+    a: "Mɔgɔ dɔw bɛ nisɔndiya sɔrɔ ɲɛnɛmaya ni kuma kɛli la, o nisɔndiya ye sababu ye. Fɛn si tɛ mɔgɔ ka dimansi kɛ ɲɛfɛ wala ka a tɔɔrɔ. Ni kɛwale bɛ mɔgɔ ka kɔnɔ ɲɛ wala a bɛ mɔgɔ hakilina ka ɲɛ ka a yɛrɛ ka kɛ ɲɛfɛ, a ka bɔ kɛwale ɲɛ."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Dimansi fɔlɔ kɔnɔ, mɔgɔ caman bɛ to i n'a ka kɔnɔ ye bɔ. A bɛ se ka baara kɛ, ka kɛ ɲɔgɔn ye, ka jamaaw ɲɛ, ka a ka don bɛɛ yɛrɛ ka kɛ. Kɛwale tɛ ka wele; a bɛ ka dɔ dɔ yɛlɛ kɛ ko a ka ɲɛ ka to. Aw ka work ye ka kɛ dɛmɛkɛla ye ka tɛmɛ ka dɛmɛkɛla ka kan: mɔgɔ min bɛ dɛmɛ, a bɛ kɛwale kɛ ɲɔgɔn fɛ, ani a bɛ ɲɛ ni a ma wale ka fɛn ye.
 
-## What activities are good in early-stage dementia?
+## Kɛwale jumɛn ye ɲɛ dimansi fɔlɔ kɔnɔ?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Kɛwale minnu ɲɛ ka ɲɛ dimansi fɔlɔ kɔnɔ, olu ye minnu mɔgɔ bɛ nisɔndiya sɔrɔ ka kan, ka olu kɛ fitinin. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ kɛwale caman ɲɛfɔ, i n'a fɔ kartiw ni kɔnɔfɛn kɛli, sɛbɛn sɔrɔli, taama, sigi, sɛnɛkɛ, fleur bɔli, kuma ka tɔgɔ, sɛbɛn, muso, dumuni kɛli, kɔnɔ kɛli ani sanw ka kɛwale.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Kɛwale ka yɛrɛ tɛ bɔ, kɛyɛrɛ ye min bɛ yɛlɛ caman. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ ɲɛfɔ ko dimansi fɔlɔ kɔnɔ mɔgɔ dɔw bɛ tɔ ka kɛwale minnu nisɔndiya bɛ be olu la. A bɛ misali di: mɔgɔ min bɛ gɛlɛya sɔrɔ kɔnɔ kɛlɛ ka jamaa ka kɔnɔ, a bɛ ɲɛ ni jamaa tɛmɛnen ye. Aw ka kuma kɛ ka gɛlɛyaw ɲɛfɔ, ka kɛwale ka yɛlɛ ɲɔgɔn fɛ.
 
-## Ask first, and agree on how to help
+## Ka dɛmɛ ka ɲɛ ɲɛfɔ fɔlɔ, ani ka ɲɔgɔn dɔnniya ka dɛmɛ kɛli cɛma
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association ka dimansi fɔlɔ kɔnɔ ɲɛfɔ](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) bɛ ɲɛfɔ ko ci dɔw bɛ se ka baara kɛ kɛwale kɔnɔ fana:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Ka ɲɛfɔ kɔrɔ.** "Mun bɛ kɛ ka ɲɛ ka kɛ sɛbɛn kɔnɔ?" bɛ jaabi ɲɛ dɛ ka jaabi min bɛ se ka siri kɛ.
+- **Ka a dɔn ko a bɛ se.** Ni tile tɛ ɲɛnɛmaya, a ka ɲɛnɛ ka kɛ, ka hakilina ka kɛ, kɛ ka a ɲɛ ka sɔn ka a kɔrɔ.
+- **Ka sɛgɛsɛgɛ kɛ.** Ka ɲɛ ka dɛmɛ min kɛ, o ye ka ɲɛ wala ka tɛmɛnen, wala ka dɔgɔ.
+- **Ka ɲɔgɔn dɔnniya ka ɲɛnɛmaya kɛ tuma bɛɛ.** Ka ɲɛfɔ ko dɛmɛ bɛ kɛ ka ɲɛ wala a tɛ ɲɛ.
 
-## Activity ideas for the early stage
+## Dimansi fɔlɔ kɔnɔ kɛwale ɲɛfɛnw
 
-### Keep up roles and hobbies
+### Ka baara ni kɛwale minnu bɛ to ka ɲɛ
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Ka kɛwale minnu bɛ kɛ tuma bɛɛ.** Kɛ ka kɛwale kɛ sɔgɔma kɔrɔ, i n'a fɔ ka sɛbɛn kɛ kɔnɔ wala ka baara kɛ ka ɲɛ. Ni a bɛ gɛlɛya, ka kɛwale tɛmɛnen wala ka kɛwale ɲɛfɛ.
+- **Ka dumuni ka laadilikan ta ɲɔgɔn fɛ.** Ni sɛnɛ tɔɔrɔ bɛ gɛlɛya, Alzheimer's Association bɛ ɲɛfɔ ko mɔgɔ ka dumuni ka laadilikan kɛ ka dɔ sɛbɛn ani ka dumuni ka laadilikan kɛ.
+- **Ka dumuni kɛ ani ka buruw kɛ.** Ka ɲɛnɛma dumuni ta min ka ɲɛ, ka fɛn ye ka ɲɛfɛ ka sɔrɔ, ka kɛ ɲɔgɔn fɛ. Ka fɛn ka ɲɛ ka sɛbɛn kɛ, ka o tɛmɛ fitinin ye.
+- **Ka sɛnɛ kɛ.** Ka sɛnɛ ka laadilikan ta, ka sɛnɛ ni a dɔ sɔrɔ, ka baara kɛ ɲɔgɔn fɛ. Ka sɛnɛ kɛwale sɛbɛn kɛ, o bɛ dɛmɛ.
+- **Ka kɛwale dɔ ka to ɲɛ.** Ka sɛbɛn ka ɲɛ, ka dɔ ka kɛwale kɛ fitinin, wala ka kɛwale ɲɛfɛ ka ɲɛ, ni fitila ka ɲɛ ka kɛ.
 
-### Games for enjoyment
+### Kartiw ni kɛwale minnu bɛ nisɔndiya kɛ
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Ka kartiw ni kɔnɔfɛn kɛ.** Kartiw minnu mɔgɔ ye ka dɔn, olu ka ɲɛ. Ka kɛ jamaaw ye ka ɲɛ ka kɛ, ka hakilina ka tɛmɛnen tɛ bɔ.
+- **Ka sɛbɛn sɔrɔli kɛ ni kɔnɔfɛn fitinin.** Ka [sɛbɛn sɔrɔli](/games/word-search/) ka kɛ ekran kɔnɔ wala ka bɔ ka kɛ tuma fitinin kɔnɔ.
+- **Ka jigsaw kɛ.** Ka kɔnɔfɛn tɔgɔ min bɛ mɔgɔ ka fitinin ye, o sugandi. [Picture puzzle](/games/picture-puzzle/) ye ekran kɔnɔ kɔnɔfɛn ye, ani an ka lakali [dimansi kɔnɔfɛn](/activities/puzzles/) bɛ sugandi ɲɛfɛ.
+- **Ka trivia kɛ nisɔndiya ye.** Mɔgɔ dɔw bɛ nisɔndiya sɔrɔ jamaa trivia ka kɛ. Ni o bɛ kɛ hakilina ka kɛwale ye, ka kɛwale wɛrɛ ɲɛ, wala ka [trivia fitinin](/activities/trivia/) kɛ, min bɛ ɲɛ ni jaabi caman ye ani ni ka kiri tɛ.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Kartiw ni kɔnɔfɛnw ye nisɔndiya ye ɲɛnɛmaya kɔnɔ. Fɛn si tɛ dimansi kɛ ɲɛfɛ wala ka tɛmɛ. [Kɔnɔfɛn: fɛn minnu bɛ Kalanso kɔnɔ](/brain-health/brain-games/) kɔnɔ, aw bɛ se ka ɲɛfɔ caman dɔn.
 
-### Write, reflect and record
+### Sɛbɛn kɛ, hakilina kɛ ani sɛbɛn sɛbɛn kɛ
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Ka kɛ sɛbɛn lakana.** Alzheimer's Association bɛ ɲɛfɔ ko sɛbɛn kɛli ye ka hakilina ka lakana kɛ dimansi ka ɲɛfɔ kɔfɛ. Ka kɛ tile kɛ fitinin, o caman ye.
+- **Ka a yɛrɛ ka kɛ ka sɛbɛn kɛ.** Dimansi fɔlɔ kɔnɔ, o ye tuma ye min mɔgɔ bɛ se ka a yɛrɛ ka dumuni sugandi ani ka a ka kuma sɛbɛn wala ka fɔ a ka kɔnɔ. Ka [kɛwale ka dɔnniya](/activities/reminiscence/) ɲɛ.
+- **Ka sɛbɛn kɛ muso ma.** Ka sɛbɛn kɛ a denmuso ma, a ka dɔnniya ni a ka dɔnniyakɛ ma, wala a ka jamaa dɔ ma, o bɛ nisɔndiya ɲɔgɔn fɛ.
+- **Ka dumuni sugandi.** [Dumuni minnu bɛ ɲɛ](/games/photo-pairs/) bɛ sanfɛ dumuni sugandi kɛwale ye, ani [kuma karti](/games/conversation-cards/) bɛ kuma kɛli fitinin di.
 
-### Go out and move
+### Ka taa ani ka ka ɲɛ
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ ɲɛfɔ ko aw ka taama minnu ye ka dɔn, aw ka olu kɛ ka fɔ aw bɛɛ bɛ nisɔndiya sɔrɔ. Aw ka olu kɛ mɔgɔ ka ɲɛ waati la, ka olu kɛ fitinin, ka taa kɛ ka ɲɛ.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Taama fitinin ni dumuni nɔfɛ.** Musow, sɛbɛn wala dumuni ko, fitinin waati la.
+- **Jɛ kɔnɔ.** NIA bɛ ɲɛfɔ ko ka jɛ kɔnɔ ka taa kɛ waati fitinin kɔnɔ.
+- **Taama jamaaw ni dɔnkili.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bɛ dɔnkili, tai chi, yoga, jɛ kɔnɔ ni taama jamaaw ɲɛfɔ, ani dimansi ka ɲɛ taama jamaaw min bɛ sɔrɔ.
+- **Dɔnkili ni dumuni jamaaw.** Jamaaw minnu bɛ dimansi ni olu ka dɛmɛkɛlaw ɲɛ, olu bɛ se ka ɲɛ ni wɛrɛ minnu bɛ ɲɛnɛma kɔnɔ.
 
-## Small changes that keep activities enjoyable
+## Ɲɛnɛmaya ɲɛfɛnw minnu bɛ kɛwale nisɔndiya kɛ
 
-| If this is getting harder | Try this |
+| Ni o bɛ gɛlɛya | Aw ka o kɛ |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Jamaa caman, kɛlɛ caman bɛ kɛ | Ka taa waati fitinin, ka jamaa fitinin ɲɛ, ka sigi kɛwale ka ɲɛ |
+| Kɛlɛ kɔnɔ tɔgɔ kura | Ka mɔgɔ ka tɔgɔ fɔ ɲɔgɔn dɔnniya waati bɛɛ; ka jamaa ka tɔgɔ kɔnɔ ka kɛ |
+| Ka fɛnw kɛ kɔrɔ kɔrɔ | Ka fɛnw sɛbɛn, wala ka fɛn bɛɛ ka ɲɛ ka sigi a kɔrɔ |
+| Ka sɔgɔ | Ka taa tɛmɛnen, ka sɔgɔ kɔfɛ, o dɔ tɛ kɛ o don |
+| Ka kiri ka kɛwale kɔnɔ | Ka jamaa ka kɛ, ka kɛwale tɛmɛnen, wala ka kiri tɛ |
+| Ka kuma sɔrɔ | Ka waati di; ka kuma dɔ di ni aw ka dɔnniya ka fɔ ko o ka ɲɛ |
 
-## When to slow down
+## Waati min na ka fɛn tɛmɛnen
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Ni kɛwale bɛ gɛlɛya ka tɛmɛ nisɔndiya ma, ka o tɛmɛ wala ka o ɲɛ. Gɛlɛya kɛ tuma caman, kɛwale bɛ bɔ, wala a ko "n tɛ se ka o kɛ tuma wɛrɛ" bɛ kɛ, o ka ɲɛ kuma ni hinɛ ye, ka tɛ ka dɛmɛ ka kɛ. Ka kɛwale tɛmɛnen kɛ ka fɛn ye. Ni mɔgɔ bɛ gɛlɛya ka dɔnniya ni ka taa kɛ, [dimansi fɔlɔ kɔnɔ kɛwalew](/activities/middle-stage/) bɛ se ka ɲɛ. Ka kuma kɛ ni ɲɔgɔn fɛ, [kuma ka laadilikan](/caregiving/communication-tips/) bɛ ɲɛ, ani kɛwale caman bɛ [101 kɛwale](/activities/ideas/) kɔnɔ.
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Dɛmɛkɛlaw fana bɛ dɛmɛ wolo. Dimansi fɔlɔ kɔnɔ, o ye tuma ye min aw ka dɛmɛ jamaa ka kɛ aw yɛrɛ ka. Ka [dɛmɛkɛla ka yɛrɛ ka maaya](/caregiving/caregiver-self-care/) ɲɛ.

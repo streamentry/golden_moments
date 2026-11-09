@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "So baaraw ka kɛ kɛlɛ ye dimansi la mɔgɔw ye"
+seoTitle: "Dimansi la so kɛlɛw: Don o don baaraw"
+description: "Sanfɛ fili, fɛnw ci, tablo labɛn ani dɔgɔ kɛli baarakɛ bɛ se ka kɛ kɛlɛ ɲumanw ye dimansi la mɔgɔw ye. O bɛ se ka labɛn cogo min na, o bɛ se ka yɛrɛ ɲɛnɛma cogo min na, ani o bɛ se ka maran cogo min na."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  So baaraw dɔw, i n'a fɔ sanfɛ fili, kalan sɔrɔ, tablo labɛn, tabali sɛgɛn,
+  sɔgɔsɔgɔ ani fɛn ɲumanw ci ka kɛ kɛlɛ ye, o bɛ se ka dimansi la mɔgɔ dɔ ka
+  fɛn ɲuman dɔ kɛ. Aw ka baaraw sugandi min mɔgɔ ye a dɔn, a ka baara kɔfɛ
+  kɛ fɛn kelen kelen ye, ani ka kɔlɔsili mɛ min bɛ se ka wuli ni ka dan ni ka
+  kɛ ka ɲi yɛrɛ ka baaraw kɔ, o ka ɲi ni o ka "ɲɛnɛ" ka ɲi.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "So baaraw ɲumanw bɛ se ka mɔgɔ dɔ ka hakili ka kɛ mɔgɔ min bɛ so kɔnɔ, o ka kan bɛ kɛ ka ɲi ni baara ka ɲɛnɛma ka ɲi."
+  - "Aw ka baara kelen kelen labɛn fɛn kelen kelen ye, aw ka a yɛrɛ ɲɛnɛma ka kɛ mɔgɔ ye ka a fɔ kɔnɔ, ani ni fɛn dɔ bɛ se ka kɛ teliya, aw ka a kɛ ka ɲi ni mɔgɔ dɔ ma a yɛrɛ ɲɛ."
+  - "Aw ka dɔgɔ ni fɛn jɛ ni sabun ni detergent kɔnɔ fɛn lɔ ka kɛ. Sɔgɔsɔgɔ ka kɛ sɔrɔ, aw ka dɔgɔsi ka kɛ ni fɛn fɔlɔ kɔ ni ka a labɛn."
+  - "Sanfɛ fili minw ka kɛ fɛn ɲumanw ye, aw ka o ɲɛ ni mɔgɔ ye ka o ɲɛnɛ fili ye o kan. Ni aw ka fɛn dɔ ɲɛnɛ ka kɛ kɔfɛ, aw ka o kɛ ni ɲɛnɛ ka lɛ ni tɛ ɲɛ."
+  - "Ni baara dɔ ka hakilina ni kiri ka kɛ, aw ka fɛn dɔgɔ kɛ, aw ka tɔnɔ kɔfɛ, walima aw ka sigi ka kɛ ni mɔgɔ ye."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "So baara jumɛn ye dimansi la mɔgɔ bɛ se ka dɛmɛ a ka kɛ ka fɔ bi?"
+    a: "Mɔgɔ caman bɛ se ka sanfɛ fili, kalan sɔrɔ, tablo labɛn, dɔgɔ ci, sɔgɔsɔgɔ, fɛn ɲumanw ci ani ka dɔ ci ni fɛn ɲumanw ye. Aw ka baara sugandi mɔgɔ ye min a yɛrɛ kɛra bi ye, ka o ni min bɛ se ka kɛ sisan ye ɲɛnɛma. Kɔfɛ, baara kelen min bɛ kɛ ɲɛnɛ, i n'a fɔ sanfɛ ɲɛ, o bɛ se ka to."
+  - q: "Ka dimansi la mɔgɔ dɛmɛ tabali kɔnɔ, o ka kɛ ɲuman wa?"
+    a: "A bɛ se ka kɛ ɲuman, ni a bɛ kɛ ni ɲɛnɛma ni labɛnni ɲuman ye. Fɛn jɛ ni sabun ni fɛn min bɛ tɛmɛ, o ka kɛ fɛn ɲumanw bɛ se ka kɛ ka sɔrɔ, sɔgɔsɔgɔ ka sɔrɔ kɛ kɔnɔ ani ka dɔgɔsi ka kɛ kɛnɛ ni sɔgɔsɔgɔ, aw ka yɛrɛ ɲɛnɛma. Aw ka mɔgɔ dɔ di baara ɲuman ma, i n'a fɔ dɔgɔ ci, kalan sɔrɔ walima tablo labɛn. Aw kana sɔgɔsɔgɔ kɛ ni a tɛ ɲɛ ka kɛ fɛn kɔnɔ."
+  - q: "Ni u ka sanfɛ fili ka tɛ ɲuman, walima u ka fɛn dɔ kɛ kɔrɔ, o ka kɛ cogo di?"
+    a: "Aw ka o to. Ɲɛnɛ bɛ kɛ ka tɛmɛ ni ɲɛnɛ ye ani mɔgɔ ka hakili ka kɛ mɔgɔ min bɛ dɛmɛ ye, a tɛ ni labɛn ka ɲi ye. Ni fɛn dɔ ka kan ka kɔsɔn ka kɛ, aw ka tɔnɔ kɔfɛ, ka o kɛ ni mɔgɔ tɛ ɲɛ ka kɛ, i n'a fɔ, o kana u ka hakili ɲɛ ka kɛ kɔrɔ."
+  - q: "Ni u ka dɛmɛ bɛ ka kɛ tɛ, o ka kɛ cogo di?"
+    a: "Ni u b'a fɔ ko tɔɔ tɛ, o bɛ se ka kɛ ka baara ka gɛlɛya, ka hakiliw ka ɲɛ ka ɲɛ, walima ka sɔrɔ ka ɲɛ ka kɛ bi. Aw kana u tiɲɛ. Aw ka baara sɛbɛnnen ɲuman ɲɛ, walima aw ka u ɲɛ ka ɲɛ ka kɛ ka sigi ka kɛ ni aw ye, walima aw ka u wele kɔfɛ wakati ɲuman ma."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Mɔgɔ caman min bɛ dimansi la, o tun bɛ so kɔnɔ baara kɛ, denw lakodɔnin, walima baara kɔnɔ kɛ ɲɛnɛ kɛ bi ka tɛmɛ ɲɛ ni dɔrɔn. Ni aw ka so baara ɲumanw ka dɛmɛ ko, o bɛ se ka kɛ kuma ye min ka kan ka kɛ "aw bɛ sɔrɔ sisan ka kɛ so kɔnɔ mɔgɔ ye" ye, a bɛ se ka kɛ ka ɲi ni kɛlɛ caman tɛ min bɛ se ka o kɛ. Kɔnɔ nin kunnafoni bɛ so baaraw jumɛn bɛ ka ɲi, o bɛ se ka labɛn cogo min na, o bɛ se ka yɛrɛ ka ɲi fɛn caman ka kɛ cogo min na, ani o bɛ se ka kɛ ka maran cogo min na, kɔnɔ ni sanfɛ labɛnni ka kɔnɔ.
 
-## Why do everyday chores work well as activities?
+## So baaraw bɛ se ka kɛ kɛlɛ ɲumanw ye cogo di?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+So baaraw bɛ ɲuman bɛɛ n'a ye, katuguya ko u ka kɛ fɛn min bɛ mɔgɔ ye ka dɔn, ani u ka kɛlɛ bɛ ka dɔn a ka ci. Amerikɛ Kɔnɔnin Ɲɛnɛ Faso Kɔnɔ (National Institute on Aging) b'a fɔ ko dumuni kɛ, tabali labɛn, sɔgɔsɔgɔ, sɔgɔsɔgɔ, kalan sɔrɔ, sanfɛ fili ani fɛn sɔrɔ ka ci, o bɛ [dɔ ye min mɔgɔ dimansi la bɛ se ka nisɔndiya](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association b'a fɔ ko baara i n'a fɔ tabali labɛn bɛ se ka mɔgɔ ka [ɲɛnɛma so kɔnɔ mɔgɔ kɛ](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+So baara bɛ se ka kɛ kɛlɛ ye ka wuli, katuguya ko a ka kɛ ni kuma ye min bɛ se ka dɔn. "Aw bɛ se ka dɛmɛ ne ma ni sanfɛ dɔw ye wa?" o bɛ se ka kɛ ka ɲi ni "I bɛ fɛ ka kɛlɛ dɔ kɛ wa?" ka ɲi.
 
-## Which household tasks are good to try?
+## So baara jumɛn ye ka ɲɛnɛ ka kɛ?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Aw ka baara sugandi mɔgɔ ye min a yɛrɛ kɛra bi ye, o kɔfɛ aw ka o ni min bɛ se ka kɛ bi ye ɲɛnɛma.
 
-### Laundry and linens
+### Sanfɛ ni sanfɛ fili
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Sanfɛ ni sanfɛ dɔgɔ fili.** Basɛti dɔ min fɛn tɔɔrɔ bɛ kɔnɔ ka di mɔgɔ ma. Sanfɛ bɛ se ka kɛ ka fili cogo o cogo, o tɛ ɲɛ ma.
+- **Ka sanfɛ ɲɔgɔn sɔrɔ.** Sanfɛ dɔgɔ dɔ tabali kan ka to. Ni ɲɔgɔn ka gɛlɛ ka sɔrɔ, aw ka sanfɛ saba walima naani min ka kɔlɔrɔ ka ɲi ni ɲɔgɔn ye.
+- **Ka sanfɛ ɲɛ ka ɲi ani ka u ta sɔrɔ.** Sanfɛ ni dɔgɔ kɛnɛ, kalan sɔrɔ, walima dɔgɔ ci min bɛ se ka ɲɛ ka ɲi, a bɛ se ka kɛ ka ɲi kɔfɛ. Nin bɛ kɛ ɲuman kɔfɛ, ni sanfɛ fili ka kɛ fɛn caman ye a tɛ ɲuman.
 
-### Table and kitchen
+### Tabali ni dɔgɔ kɔnɔ
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Tabali labɛn.** Aw ka sɔrɔ dɔ labɛn tabali kan a ka misali ye, ka mɔgɔ ka o kɛ. Ni o bɛ tɛ ɲuman, aw ka fɛn kelen kelen di: "Nin ye ɲɛnɛ ye ɲɛ kelen ma."
+- **Fɛn ci ni fɛn sɔrɔ.** Kalan, kɔnɔ ni kɔnɔ suuru fɛnw, ka sɔrɔ ka ɲi ka u bila karitan kɔnɔ. Kɛlɛ fɛnw ka labɛn kɔnɔ.
+- **Dɔgɔ ci.** Plastiki walima fɛn min tɛ ɲɛ ka u ɲɛ, ani sanfɛ ɲuman dɔ, o bɛ kɛ baara ɲuman ye.
+- **Tabali walima tabali ɲɛ ka ɲi.** Sanfɛ ni ko ɲuman ani tabali min ka ɲi. Alzheimer's Association b'a fɔ ko ni mɔgɔ bɛ tabali kan ni a bolo ka numan, aw ka sanfɛ di a ma, o bɛ a ka wulili ka kɛ baara ɲuman ye.
 
-### Around the house
+### Ka dɔ kɛ so kɔnɔ
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Ka ɲɔgɔn ɲɛ.** Sanfɛ nɛnɛ dɔ ni tabali dɔ min ka sɛgɛn, i n'a fɔ bɔgɔ tabali walima kitabu tabali.
+- **Ka sɔrɔ tɛ sɔrɔ.** Ka dɔ kɛ mɔgɔ ye ka kɛ bi jɔnjɔn ka sɔrɔ ni ka ɲi. Mɔgɔ min ka dɛmɛ sɔrɔ ka kɛ ka ɲi sɔrɔ.
+- **Sɔrɔ ka ci.** Ka ci kalan, kɔnɔ ni ka a ci ka ɲi, ka kɛ sɔrɔ jɛnsɛ kɔnɔ.
+- **Sɔgɔsɔgɔ.** Sɔgɔsɔgɔ dɔgɔ dɔ kɔnɔ ni ka ɲi ka kɛ fitinɛ ye, ni a ka kɛ ka tɛ ɲɛ mɔgɔ ye.
+- **Ji ci fɛn.** Ji ci dɔgɔ dɔ ni fɛn caman dɔ min bɛ se ka ɲɛ.
 
-### Simple cooking with supervision
+### Sɔgɔsɔgɔ ni dɛmɛ ɲuman
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Sɔgɔsɔgɔ bɛ kɛlɛ ɲuman caman ci. NIA b'a fɔ ko, aw ka mɔgɔ ka fɛnw ɲɛ ka sɔrɔ, ka fɛnw sɛgɛn, ka fɛnw fɛ, walima ka fɔ ni dɔrɔn ka ɲi ka kɛ cogo di ka dɔ kɛ, o bɛ kɛ kɛlɛ ɲuman ye. Baara ɲumanw ye nin ye:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- ɲɛ ni fɛn sɔrɔ ka ɲi
+- ɲɛ ni jɛnsɛ walima lɛɲɛ ɲɛ
+- ɲɛ ni laitisi ka ɲi
+- Kɛlɛ ni dɔgɔ cɛ ni kɛnɛ
+- Sanfɛ ni mɔgɔ ye ni kɛnɛ sɔrɔ
+- Fɛn ɲumanw kɔnɔ pizza kan
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ni sɛgɛn bɛ gɛlɛya, Alzheimer's Association b'a fɔ ko aw ka sɛgɛn ka kɛ, kɔfɛ aw ka baara dɔ wɛrɛ di, i n'a fɔ fɛnw ɲɛ.
 
-## How do I set up a chore so it goes well?
+## Ka baara dɔ kɛ cogo di ka ɲi?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Waati ɲuman sɔrɔ.** Sɔrɔ waati min mɔgɔ bɛ ɲɛnɛma ani a bɛ hakili ɲɛ. Mɔgɔ caman bɛ o sɔrɔ sɔgɔma.
+2. **Ka yɔrɔ labɛn.** Baara kelen, fɛn kelen, tabali kan fɛn tɛ.
+3. **Wele, ka a sɔrɔ kɔfɛ ka sɔrɔ.** "Ne bɛ hinɛ ni nin sanfɛw ye" bɛ ɲuman ni "A ka waati ka baara fili ye" ka ɲi.
+4. **Fɛn kɔfɛ jɔnjɔn sɔrɔ.** Sanfɛ kelen fili ka tɔɔrɔ ni ka sanfɛ tɔw ta. Ka a yɛrɛ ɲɛnɛ ka kɛ kuma ka ɲi.
+5. **Fɛn kelen kelen ka di.** Ka kuma caman kɛ ka fɛn kelen kɔfɛ, mɔgɔ bɛ se ka hakili ka lɔ. Ka kɔfɛ fɛn kelen ka kɛ ka tɔɔrɔ, kɔfɛ ka tɔw wele.
+6. **Ka ɲɔgɔn sɔrɔ.** Baara kelen kɛ ni ɲɔgɔn ye ɲɔgɔn ɲɛ bɛ kɛ kɛlɛ ɲuman ye, a tɛ ka kɛ ka ɲɛnɛ ye.
+7. **Ka kuma baara ka kan, tɛ a ka sɔrɔ ka kan.** "Nin sanfɛw ka kɔlɔ ka ɲi ka kɛ" walima "Aw ka fɔ ne ma, aw bɛ sanfɛ ɲɛ cogo di?" bɛ kumaw wuli ni tɛ mɔgɔ ka ɲɛ ka kɛ kɔrɔ.
 
-## How do I adapt chores as abilities change?
+## Ni mɔgɔ ka fɛn kɛ ɲɛ sɔrɔ, o bɛ kɛ cogo di?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Aw ka baaraw ka kɛ ni fɛn caman ye ka ɲɛnɛ waati ni ɲɛnɛ bɛ kɛ kɔnɔ. Alzheimer's Association b'a fɔ ko, ka dɔgɔ ni dimansi ka kɛ kɔfɛ, aw ka baara ɲumanw ka sɔrɔ kɔrɔ, ka fɛnw ka kɛ.
 
-| If this has become hard | Try this instead |
+| Ni nin bɛ gɛlɛya | Ka nin kɛ dɔ wɛrɛ |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Sanfɛ jumanw fili | Sanfɛ ɲɛnɛw fili walima sanfɛ dɔgɔ ci |
+| Tabali bɛɛ labɛn | Ka dɔ kelen to sigilaw bɛɛ kan |
+| Kalan ci kɔnɔ kɔnɔ | Kalan ci kɔnɔ dɔ ni kalan kɔrɔw |
+| Ka fɛn kɛ ka kuma kɔnɔ | Ka fɛn sɔrɔ, walima ka ɲɛnɛ ka tigi kɛ ka mɔgɔ ye ka ji ka ɲi a ka kɛ kɔfɛ |
+| Ka so bɛɛ sɔgɔsɔgɔ | Tabali dɔgɔ dɔ ci |
+| Baara bɛɛ tɛ kɛ | Ka sigi ka kɛ ni aw ye, ka aw ka sɔrɔ ka ɲi ka kɛ |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Ɲɛnɛ fana bɛ kɛ baara ye. NIA b'a fɔ ko mɔgɔ dɔw bɛ ɲɛnɛ ka nisɔndiya, o fana ye kɛlɛ ɲuman ye.
 
-## How do I keep household tasks safe?
+## So baaraw ka kɛ ka maran cogo di?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Maran bɛ fɔlɔ. Dɔgɔsi kɔnɔ fan fɛ ni sɔgɔsɔgɔ. Ni ka labɛn ka ɲɛ, Alzheimer's Association ka dɛmɛ bɛ [dimansi la mɔgɔ dɔ ka fɛn ɲuman](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Nin bɛ kɛ:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Fɛn jɛnsɛ, i n'a fɔ sabun ni detergent pods, bɛ ka kɛ ka ɲi kalan ye. Aw ka u lɔ ka sɔrɔ.
+- Kalan, sikɛti ni fɛnw min bɛ tɛmɛ, aw ka u lɔ ka ɲi ni dɔgɔ ye.
+- Fɛn ɲumanw ka sɔrɔ, fɛn ɲumanw ka sɔrɔ ka kɛ ni dɔgɔsi ye.
+- Aw ka ɲɛnɛ ka kɛ ka ɲi ni dɔgɔ ye, ka tɔ ka tiɲɛ ni "Ɲɛ" walima "Ka tɛ kɛ" ka fɛnw ɲɛ.
+- Aw ka tɔnɔ ɲɛnɛ, ka kɛ ka tɔ ɲɛnɛ ka dɔgɔ ka kɛ ɲɛ ni ɲɛ.
+- Aw ka fɛn ɲumanw ka sɔrɔ ka ɲi ka kɛ ni dɔgɔ ye.
 
-A few more practical habits help:
+Fɛn dɔw fana bɛ dɛmɛ:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Ni fɛn dɔ bɛ kɛ, i n'a fɔ dɔgɔ kɛnɛ, walima kalan sɔrɔ, aw ka sigi ka kɛ ka ɲi o kɔnɔ.
+- Fɛn ɲumanw ka sɔrɔ ka kɛ ka tɔ sɔrɔ ka kɛ ka dɔgɔ ci.
+- Ni sɔgɔsɔgɔ bɛ kɛ, aw ka sɔgɔsɔgɔ ka kɛ ka ɲi ni dɔgɔ ye, ka fɛn ka kan ka tɛ ɲɛ.
+- Ni mɔgɔ dɔ ka kɛ ni fɛn ɲumanw ye ka dɔ kɛ, Alzheimer's Association b'a fɔ ko aw ka fɛn ɲumanw ka lɔ ka kɛ ka ɲi, o bɛ se ka kɛ dɔ ɲuman ye, i n'a fɔ ka kɛ ka ɲi ka dɔgɔ kɛ.
 
-## What if they do it "wrong"?
+## Ni u ka baara kɛ "ɲɛ tɛ" cogo la, o bɛ kɛ cogo di?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Aw ka o to. Sanfɛ min ka kɛ ni ɲɛ saba ye ka kɛ ni ɲɛ fila ye, o bɛ sanfɛ kɛ ka ɲi. Alzheimer's Association b'a fɔ kɔnɔ ko, ko min ka kan ka kɛ, o ye waati ye ka kɛ ni mɔgɔ ye ani mɔgɔ ka hakili ka kɛ dɛmɛ ye, a tɛ ko sanfɛw ka ɲi cogo ɲuman na. Ni fɛn dɔ kan ka kɛ kɔfɛ, aw ka tɔnɔ kɔfɛ, aw ka o kɛ ni mɔgɔ tɛ ɲɛ ka kɛ kɔrɔ.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Ni aw ka kuma kɛ baara kɛlɛ cɛɲɛ, o bɛ kɛ kɛlɛ ɲuman dɔ kɔrɔ ka kɛ hakilina ye min bɛ mɔgɔ ka fɛn ɲɛ. "Aw ka barika, nin ye dɛmɛ caman ye" ye kuma ɲuman ye, a bɛ se ka kɛ ka ɲi ni kuma wɛrɛ ye.
 
-## When should we stop?
+## Ni dɔgɔsi ka kɛ, o bɛ kɛ cogo di?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Ni mɔgɔ ka hakilina bɛ gɛlɛya, ni a ka sɔrɔ ka kɛ kɔnɔ, walima ni a ka ɲɛnɛma bɛ tiɲɛ, aw ka tɔnɔ ni dɔgɔsi ka kɛ. Tɔnɔ kɔfɛ tɛ kɛ fɛn ɲuman ye, nin ye ɲɛnɛma ye. Aw bɛ se ka:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- fɛn dɔgɔ dɔ kɛ
+- ka kɛ ka fɛn ɲumanw ka kɛ, i n'a fɔ dɔnkili walima kafɛ dɔ
+- ka wɛrɛ kɔfɛ walima tile wɛrɛ
+- ka sigi ka kɛ ni ɲɔgɔn ye
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ni mɔgɔ b'a fɔ ko tɔɔ tɛ, aw kana u tiɲɛ. A bɛ se ka [a ka fɛn ka kɛ ni tɔɔ tɛ](/caregiving/when-they-say-no/) ɲɛ ka lɔ, aw ka nɔfɛ ɲumanw ka mɔgɔ ka ɲi.
 
-## Low-effort extras for a quieter moment
+## Fɛn dɔgɔw kɛlɛ kɔrɔ ka ɲi
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Ni baara fɛnw ka kɛ tɛ, ka sɔrɔ ni ka ɲɔgɔn sɔrɔ bɛ se ka kɛ sigi kɔnɔ. [Sort Together](/games/sort-together/) bɛ kɛ ka ɲi ni sɔrɔ, ka ɲɛnɛ ka kɛ tabali ni ɲɛ kɔnɔ, ani [Picture Pairs](/games/picture-pairs/) ye kɛlɛ dɔgɔ ye min bɛ fɛnw ɲɔgɔn sɔrɔ ni ɲɛnɛ ka kɛ waati ka tɛ ɲɛ. [Conversation Cards](/games/conversation-cards/) bɛ kumaw wuli so ni denw kan, o bɛ kɛ ɲuman ni kafɛ ye baara kɔfɛ.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Ni aw bɛ kɛlɛ ɲuman ka sɔrɔ ka kɛ ni tile ye, aw ka [tile kɛlɛ ɲuman](/activities/daily-routine/) ka kunnafoni ka ɲi. Waati ni kɛlɛ ɲumanw ka ɲi, aw ka [waati ɲɛnɛ kɛlɛ](/activities/middle-stage/) ka ɲi.

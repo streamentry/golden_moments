@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Taem Pesen we i Gat Dementia i No Wantem Aktiviti o i Kros"
+seoTitle: "Taem Pesen we i Gat Dementia i No Wantem Aktiviti"
+description: "From wanem pesen we i stap wetem dementia i ken no wantem aktiviti o i kros, wanem fo traem, wanem fo avoidim, mo taem wan sudden jenis i nidim dokta."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Taem wan pesen we i gat dementia i tok "no," akseptem hem kwaet mo traem
+  bakegen long narafala taem, o ofa wan narafala samting. Refusal i gat wan
+  rison ofen: aktiviti i sem hard o i sem pikinini, pesen i taed, i sik, i
+  hangre, o i woret long noes. No argiu o no fos. Simplifaem, ofa tu jois, o
+  askem hem blong helpem yu. Sudden o kwik jenis long fasin, espesial afta long
+  infeksen o niu medisin, i nidim dokta kwik.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Wan \"no\" i wan ansa we yu mas respektem, i no wan problem blong winim."
+  - "Refusal i gat wan kos: i hard tumas, i pikinini tumas, i taed, i sik, i no kamfotebol, o i woret tumas."
+  - "Stap bak, wet, mo traem bakegen lata, long narafala taem, o wetem wan simpol ves."
+  - "Askem hem blong helpem yu i gud moa tan blong askem hem blong playem wan samting."
+  - "No argiu, no fos, no kwestin, no korektem. Jekem yu seleva long rush o pusum hem."
+  - "Sudden o kwik jenis long fasin, espesial wetem infeksen o niu medisin, i mas go long dokta raet away."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ok ia blong lego hem i skip aktiviti olgeta?"
+    a: "Yes, long eni dei. Sindaon tugeta, harem miusik o lukluk long wol, i ken stap gud. Sipos wan pesen i stopem enisamting long ol wik, talem long dokta blong hem, from low mood, pen o narafala sik i ken stap insaed."
+  - q: "From wanem oli no wantem samting we oli lavem bifo?"
+    a: "Wan oldfala hobi i ken kam frastrasen taem i nidim ol skil we dementia i mekem i hard, mo pesen i ken sem sem. Traem wan simpol pat blong sem aktiviti, olsem sorting ol batan insted blong sewing, o lukluk long ol piksa blong gaden insted blong planting."
+  - q: "Eh, mi mas traem blong konvinsem hem?"
+    a: "Nogat. Pusum wan pesen blong dum wanfala samting we dementia i mekem i hard i wan save trigga blong agitesen. Akseptem no, jenjem toktok, mo ofa bakegen latta o long narafala fasin."
+  - q: "Wanem taem wan jenis long fasin i wan emergensi?"
+    a: "Kolem emergency namba blong ples yu stap long hem sipos wan pesen i stap long denja o i showem saen blong wan emergensi long hel. Long sudden konfyus o fasin we i jenis kwik long ol aoa o ol dei, espesial wetem hae sik, infeksen o niu medisin, kontaktem dokta blong hem raet away."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Yu redi everything, yu ofa wan gem o wan wakabaot, mo yu harem "No." O aktiviti i stat gud mo i finis wetem wan tablet we pesen i pusum awe mo wan sharp tok. I hatem, mo i wan komon samting. Refusal mo frustresen i ofen wan mesej, no stubbornness. Taem yu save wanem mesej ia i minim, ofen i soem yu wanem fo traem nekis.
 
-## Why does someone with dementia refuse activities?
+## From wanem pesen we i gat dementia i no wantem aktiviti?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Usually i gat wan rison, even sipos pesen i no save talem long wod. Ol [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i talem se resistens i ken minim se pesen i no save dumas taskis o i fraet blong traem. Ol komon kos i inkludim:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **I hard tumas.** Aktiviti i nidim ol skil we dementia i mekem i hard, mo i sem sem blong fel long fran blong narafala man.
+- **I pikinini tumas.** Ol adult i save lukim ol kaftun piksa, singsing voes mo ol aktiviti we i olsem oli mekem blong ol pikinini.
+- **Tiret.** Plante pipol i gat smol enejia long laet afternun. Lukluk [kalm aktiviti long aftanun](/caregiving/late-day-restlessness/).
+- **Fasin we i pen o i no kamfot.** Ol [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i lisim pen, no slip, trabol long lukluk o harem, hadtaem long bel, hangre, tingting, mo ol saet ifekt blong ol niu medisin olsem ol possible kos blong distres.
+- **Tumas samting i stap.** Wan laod TV, plante toktok, o wan fulap rum i ken mekem pesen i no save rabisim.
+- **Fil se oli pusum hem.** NIA i netem blong pusum pesen blong mekem samting we Alzheimer's i mekem i hard tumas, o blong tingting long iven o ol man, olsem wan kos blong agitesen.
+- **Low mood.** Lus intres long ol samting i ken kamaot olsem saen blong depresen, we i gud blong talem long dokta.
+- **Oli no wantem nomo.** Ol adult i gat raet blong tok no.
 
-## What should I try when they say no?
+## Wanem fo traem taem oli tok no?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Akseptem no kwaet, then jenjem wan samting: taem, aktiviti, level blong hard, o fasin blong askem.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Lego hem long naoia.** "Hemi oraet. Maet latta." Then go long narafala samting wetem no sigh.
+2. **Traem bakegen latta.** Ol Alzheimer's Association i sujestem blong traem bakegen latta, o long narafala taem long dei.
+3. **Mekem hem smol.** Wan matj nomo, no wan hol gem. Wan taol nomo, no wan basket blong wasing. Smol piksa, smol jois, ol piksa i stap luk.
+4. **Ofa tu jois.** "Yu wantem lukluk long ol bed piksa o harem sam miusik?" Wan jois i givim bak fil blong kontrol.
+5. **Askem help insted blong performans.** "Yu save helpem mi blong sotem ol ia?" o "Yu save talem mi wanem kala i stret?" Fil se oli nidim yu i defren long fil se oli stap tesem.
+6. **Yu stat hem yu seleva.** Stat aktiviti klosap long hem wetem no askem. Plante pipol i jeen taem samting i stap finis, mo sipos oli no jeen, yu jes spendem taem wetem hem.
+7. **Jenjem i go long samting we i fisiskol o i kam kwaet.** Wan sot wakabaot, miusik, wan snak, folem ol klos, o wan sheya [kalm breathing](/games/calm-breathing/) taem. NIA i sujestem blong jenjem atensen i go long miusik, wan buk o wan wakabaot.
+8. **Lego hem i play long fasin blong hem.** Sipos hem i wantem play defren long ol rul, folem hem. Ol Alzheimer's Association i advaesem blong stap fleksibol.
 
-## What should I say when they get frustrated?
+## Wanem fo talem taem oli frastret?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Slou daon, low voes mo givim gud fil. Ol [Alzheimer's Association gaed long agitesen](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) i sujestem blong stap bak mo askem blong permisen, yusum kwaet, pozetiv tok, mo ofa wan jois long tu ples. Ol tok we i kam long sem fasin:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Mi sore, hemi annoying. Yumi stopem."
+- "Yu mekem gud. Mi stap klosap."
+- "Yu gat taem blong helpem mi long wan narafala samting?"
+- "Yumi drink wan kap tii long hem?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Afta, finisim aktiviti wetem no mekem hem big samting. Ol [komunikesen tips](/caregiving/communication-tips/) blong yumi i gat moa long wanem blong talem.
 
-## What should I avoid?
+## Wanem fo avoidim?
 
-Some natural reactions tend to make things worse.
+Sam natural fasin i save mekem samting i kam wes.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Argiu o fos.** "Kam nao, jes wan moa" o "Yu lavem hemia" i no ofen i helpem.
+- **Kwestin o korektem.** "Yu save wanem hemia" o "Nogat, hemia i rong" i putum presa.
+- **Tekem hem olsem personal.** NIA i talem long ol karegivas se sik i wanem i mekem ol jenis ia, no man i mekem.
+- **Krowd o rush.** Ol Alzheimer's Association i advaesem blong no raes voes, no soem fraet, no kornam, no krowd, no holem, no kritikem, no ignorem o argiu wetem pesen, mo blong no mekem sudden muv long aot blong aei blong hem.
+- **Yusum gilti.** "Mi setemap evri samting ia blong yu" i mekem yu tufala i fil wes.
+- **Lebelem hem.** "Stubborn" o "hatwoki" i haedem rison we i stret mo i mekem hem hard blong solvem.
 
-## How can I find out what is behind repeated refusals?
+## Hao blong faendem wanem i stap biaen long ol taem we oli no wantem?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Rekodem wan smol nout long wan o tu wik. NIA i talem se tracking jenis long fasin i ken helpem ol karegivas mo ol man blong hel blong luk pataen mo faendem kos.
 
-Jot down:
+Raetem:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- taem long dei;
+- wanem we yu ofarem mo hao yu askem;
+- wanem we i stap raon yu (noes, ol visita, TV);
+- hao hem i slip, kakae mo draonk, mo taem we hem i go bathrum last taem;
+- ol niu medisin o ol sik we i kamap resen.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Ol pataen i ofen kamaot kwik: ol no wantem we i kamap afta long 4 p.m. nomo, nomo long wan spesel gem, o nomo taem TV i opin. Family Caregiver Alliance long [gaed blong dementia fasin](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i talem klia: yumi no save jenisim pesen, bat yumi save jenisim fasin blong yumi mo envaeronmen.
 
-## When should I talk to a doctor about refusal or frustration?
+## Taem wanem fo tokaot long dokta long refusal o frustresen?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Tokaot long dokta taem fasin i jenis sudden, kwik, o wetem saen blong sik. NIA i talem se sudden o kwik jenis long fasin, espesial sipos pesen i bin gat infeksen o jenis long medisin resen, i mas go long dokta raet away.
 
-Contact their doctor promptly if you notice:
+Kontaktem dokta blong hem kwik sipos yu lukim:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- sudden konfyus o wan big jenis long ol aoa o ol dei;
+- saen blong pen, olsem winsing, protektem sam bodi part, o niu trabol long muv;
+- hae sik o narafala saen blong infeksen;
+- niu o jenis medisin i kam bihaen wetem jenis long fasin;
+- lus intres long olgeta samting, krae o wiskdro i stap moa tan tu wik;
+- oli refusim kakae o draonk.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Ol Alzheimer's Association i ademdem wan fulfulat medikol jek-ap long eni man we i gat fasin simptom, espesial taem oli kamap sudden. Family Caregiver Alliance tu i advaesem blong jekem wetem dokta fastaem, from ol fasin prablem i ken gat wan medikol kos. No stat, no stopem, no jenisim eni medisin withaot toktok wetem dokta o fama.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Sipos eni man i stap long denja o i gat saen blong wan medikol emergensi, kolem emergency namba blong ples ya. NIA i sujestem blong talem long ol man we i resivim kol se pesen i gat dementia.
 
-## Is it okay if we do nothing at all?
+## Ok ia sipos yumi no mekem enisamting?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Yes. Sam dei, besfala aktiviti i nating aktiviti: sindaon tugeta, holem han, harem wan fevret miusik, o lukluk long ol bed long windo. Hemia i no wan fel. [Gaed blong yumi long pleim tugeta](/caregiving/how-to-play-together/) i eksplenem wae stopem erli, o no stat nating, i ken i stret jeso.

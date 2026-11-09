@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND mo Mediterranean Kaikai mo Dementia: Wanem Risej i Talem"
+seoTitle: "MIND Kaikai mo Dementia: Wanem Risej i Talem"
+description: "Wanem risej i talem long MIND mo Mediterranean kaikai mo dementia, wanem bigfala trael i no faenem gud rijolt, mo hao blong helpem man we yu stap lukaotem blong kaikai gud."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Ol stadi long obsevesen i linkem Mediterranean mo MIND kaikai wetem risk i kam smol blong dementia, be no oltaem. Wan trael long tri yia blong MIND kaikai, we i pablisim long 2023, i no faenem klia defren long tingting o ol skan blong brain long kontrol kaikai. No wan kaikai o suplemen i pruvum se i stopem dementia. Long ol man we oli laef wetem dementia, kaikai mo dring i gat enaf i impoten moa.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Sam, be no ol, ol stadi we oli folem ol man long taem oli linkem Mediterranean mo MIND kaikai wetem risk i kam smol blong dementia."
+  - "Long wan trael long 2023 wetem 604 ol olfala, ol man long MIND kaikai oli no gat gud rijolt moa long ol test blong tingting o ol skan blong brain, from ol man long kontrol kaikai, afta long tri yia."
+  - "Nasonal Institute on Aging i talem se i no gat evidens se kaikai o blokem sipesel kaikai i save stopem Alzheimer's, mo no gat vitamin o suplemen we i pruvum se i stopem."
+  - "Kaikai we i gat planti vegetabol, fruit, bins, ol hol gren mo fish i sapotem hart, mo i save helpem wit ol risk olsem hae presa blad mo daebetis."
+  - "Long ol man we oli laef wetem dementia, ol kaikai we yu save kakae wetem fingga, ol plet we i kalaa defren, kaikai we i kwaet mo ol taem blong dring, oli moa impoten long ol spesel kaikai."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Eks MIND kaikai i stopem dementia?"
+    a: "I no shoem yet se i stopem. Ol stadi long obsevesen i talem se MIND kaikai i gat link wetem smol risk, be wan trael long tri yia we i bin pablisim long 2023 i no faenem klia defren long ol test blong tingting o ol skan blong brain, between ol man long MIND kaikai mo ol man long kontrol kaikai. Tufala grup i improv smol, mo oli lusum sem kilo."
+  - q: "Wanem nao defren between MIND kaikai mo Mediterranean kaikai?"
+    a: "Mediterranean kaikai i stap long vegetabol, fruit, ol hol gren, bins, fish mo olive oil, wetem smol red mit mo swit samting. MIND kaikai i joinim DASH kaikai blong presa blad, mo i emfasisem ol grin lif vegetabol mo berri, wetem limit long red mit, swit samting, jiz, bata, mo ol fraes o fast fud."
+  - q: "Ol kaikai o suplemen we i save stopem Alzheimer's i stap?"
+    a: "Nating. Nasonal Institute on Aging i talem se i no gat evidens se kaikai o blokem sipesel kaikai i save stopem Alzheimer's o ol problem long tingting we i kam wetem eij, mo no gat vitamin o suplemen we i pruvum se i stopem Alzheimer's. Toktok wetem doctor bifo yu tekem ol suplemen."
+  - q: "Wanem ol kaikai we i isi moa blong man we i gat dementia blong kakae?"
+    a: "Ol smol pis kaikai we yu save kakae wetem fingga, olsem ol pis sanwij, ol pis jikin, ol pis orens, o ol pis vegetabol we oli stim, ofen i isi moa long yusum fork mo spun. Sipos i had blong jujuum o gulpem, ol soft kaikai olsem scrambled egg, apol sos o cottage cheese i save helpem. Askem doctor long wan test blong gulp sipos i gat kof o jok."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Yu maet yu bin ridim se wan "kaikai we i gud long brain" i save kipim Alzheimer's i no kam. Fakta i moa smol. Sam kaikai pateni i gat link wetem ol risk we i smol blong dementia long ol stadi we oli folem ol man long taem, be trael we i moa bigfala kasem nao i no faenem wan klia gud. Pej ia i eksplenem tufala samting ia, then i go long wanem we i moa impoten long man we i stap laef finis wetem dementia: kaikai mo dring i gat enaf, mo i enjoyem.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Hem i jeneral infomeson nomo, i no advaes blong doctor. Toktok wetem doctor o spesialis long kaikai we i gat laesen bifo yu jenisim kaikai blong yu o blong narafala man. Lukim [stetmen long helt blong mifala](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Wanem nao ol kaikai Mediterranean mo MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Nasonal Institute on Aging (NIA) i talemaot olsem ([NIA long kaikai mo Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Kaikai Mediterranean:** planti fruit, vegetabol, ol hol gren, bins, fish mo ol kaikai long solwota, mo olive oil, wetem smol red mit, kwik mo swit samting.
+- **Kaikai MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): wan mikis blong kaikai Mediterranean mo kaikai DASH blong presa blad. I gat vegetabol, espesel ol grin lif vegetabol; berri; ol hol gren; bins; nat; fish wan taem long wik; mo olive oil. I limitim red mit, swit samting, jiz, bata o magarin, mo ol fraes o fast fud.
 
-## Do these diets lower dementia risk?
+## Ol kaikai ia i mekem risk blong dementia i kam smol?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Ol risej i no stret. NIA i talem se sam, be no ol, ol stadi long obsevesen oli linkem ol kaikai Mediterranean mo MIND wetem risk i kam smol blong dementia, long fasin we i kompare wetem kaikai Western we i gat planti red mit, fat we i solid mo suga.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Lancet Commission long 2024 i ridim ol risej moa stret ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Wan revyu blong ol stadi blong grup i linkem gud kwaliti blong kaikai wetem risk i kam daon long dementia abaot 20 pesen.
+- Wan bigfala analisis blong tri grup i linkem klosap folem kaikai MIND wetem risk i kam smol.
+- Be wan stadi long Swiden we i folem 28,025 ol man long midol eij long abaot 20 yia i no faenem risk i kam smol, nating wetem ol kaikai we oli rekomendem o kaikai olsem Mediterranean.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Ol stadi long obsevesen i no save pruvum wanem i kosem wanem. Ol man we oli kaikai olsem oli defren tu long ol narafala samting, olsem insam, skul, wok long jim mo akses long helt kea. Komisin i konkludem se i no gat enaf evidens blong talem se ol helti kaikai i mekem dementia i no kam direkt, be kaikai we i gat planti fruit mo vegetabol mo smol ol ultra-proses fud i gud long planti helt kondisen mo i afektem ol risk olsem obesiti, daebetis mo hae presa blad. Hem i no putum kaikai long lis blong [14 ol risk fakta](/brain-health/risk-factors/) blong hem.
 
-## What did the 2023 MIND diet trial find?
+## Wanem nao trael MIND long 2023 i faenem?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Strong test kasem nao i wan randomized trael we i pablisim long New England Journal of Medicine long 2023 ([trael MIND diet](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Hu:** 604 ol adalt we oli 65 yia o moa, long Chicago mo Boston, we oli no gat problem long tingting, we oli gat wan klos famili we i gat dementia, we oli fat tumas, mo we kaikai blong olgeta i no gud finis long fasbaot.
+- **Wanem:** long tri yia, hafdaosen i folem kaikai MIND, mo hafdaosen i folem kaikai blong olgeta olsem sosoem. Tufala grup oli askem blong kaikaem abaot 250 kalori lis long wan dei, mo oli gat ol regula toktok wetem spesialis long kaikai.
+- **Rijolt:** ol rijolt blong tingting oli improv smol long **tufala** grup. Defren between grup i smol mo **i no statistikli signifikant**. Ol skan blong brain tu i soem sem jenis long tufala grup.
+- **Wet:** tufala grup oli lusum klosap 5 kilo (abaot 11 paon).
 
-### Why might the trial have found no difference?
+### Wanem nao maet trael i no faenem defren?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Ol risej i talem sam risen. Kontrol grup i bin improve kaikai blong olgeta tu, from oli lusum sem wet. Test we i kam bak bak i save mekem rijolt i gud long hem wan, from man i stat save long ol test. Tri yia i save i no longfala. Moa blong ol man long trael oli bin gat gud edukesen mo oli bin Yurop, so ol rijolt i no save aplae long evriwan.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+So tru fakta i olsem: kaikai MIND i no winim wan gud kaikai we i kasem kalori i daon long tri yia. Hemia i no minim se helti kaikai i no gat yus. I minim se no wan man i sud ekspektem wan spesel kaikai blong stopem dementia.
 
-## What about specific foods and supplements?
+## Wanem long sipesel kaikai mo suplemen?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA i talem se i no gat evidens se kaikai o blokem sipesel kaikai i save stopem Alzheimer's o ol problem long tingting we i kam wetem eij. Blueberry, grin lif vegetabol mo tyuamik i bin stadi finis, be no gat pruf. NIA i talem tu se no gat vitamin o suplemen we i pruvum blong stopem Alzheimer's, mo i no gat wan we i rekomendem blong dat sem paepas. NIA i warnem se ol prodak we i no pruvum, we oli salem blong stopem Alzheimer's, i save nogud, i wes mane, o botem tu, mo i save bagarem ol medisin we doctor i givim. Toktok wetem doctor bifo yu traem eni wan ([NIA long stopem Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Hao kaikai i save stap gud mo i gat fasin?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Long ol olfala, aim i fud we i gud, we i familiar mo we i gud long kakae, no wan strikt plan:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Mekem ol kaikai long ol fud we yu laekem** long Mediterranean pattern: vegetabol, fruit, bins, ol hol gren, fish mo olive oil.
+- **Kipim ol trit we yu laekem.** Enjoyment mo appetit i impoten, espesol long laef we i go antap.
+- **Kaikai wetem ol narafala man** sipos yu save. Ol kaikai wetem famili i gud long kompani.
+- **Kuk tugeta.** Wasem vegetabol o stirem wan pot i wan gudfala shea akti; lukim [ol wok long haos](/activities/household-tasks/). Wan famili resipi we yu laekem i save kiknem [tingting blong ol taem we i pas](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Ol olfala oli no sud katem kalori o lusum wet withaut toktok wetem doctor, mo fasting i gat ol extra risk. Lukim [gaed blong fasting](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Hao yu save helpem man we i gat dementia blong kaikai gud?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Long ol man we oli laef wetem dementia, kaikai mo dring **enaf** i wan main wari. Alzheimer's Association i talem se ol man i save fogetem blong kaikai, tingting finis oli kaikaem, o oli filim i tumas from ol jois, mo se nogud kaikai i save kam wetem ol samting we i jenisim fasin mo lusum wet ([Alzheimer's Association long kaikai](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Ol aedia ia i kam long Alzheimer's Association, NIA mo Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Givim ol finger fud.** Ol smol pis we i isi blong holem wetem fingga, olsem ol pis sanwij, ol pis jikin, ol fish stik, ol pis orens o ol pis broccoli we oli stim, i mekem man i save kaikaem hemsef withaut fork mo spun.
+2. **Yusum kontrast long tebol.** Jenis long lukluk i save mekem i had blong luk kaikai long plet. Ol wait plet o bol long wan kalaa mat we i kontrast i save helpem. Stap long ol plet mo tebol kloth we i gat pateni.
+3. **Serve wan o tu kaikai long wan taem.** Wan fulap plet i save mekem i tumas.
+4. **Kipim ol kaikai taem kwaet.** Ofem TV, kipim tebol i simpol, mo givim planti taem. NIA i sujestem nating rushem o pushum.
+5. **Givim ol smol kaikai mo snak oftaen.** NIA i sujestem ol smol kaikai we i kam oftaen, mo ol snak we i gat planti kalori sipos man i no kaikai enaf ([NIA tips blong kaikai gud](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Helpem long dring.** Givim ol smol kap wota o ol narafala dring long olgeta dei, plus ol kaikai we i gat planti wota olsem fruit, sup, milkshake mo smoothie. Sipos man i no wantem wota, NIA i sujestem traem juice, wota we i gat flevo, bros, milk, o decaf kofi o ti.
+7. **Jekem tempretja.** Man i save no notis se kaikai o dring i hot tumas.
+8. **Adaptem ol spun mo kap.** Bol i kam bitim plet, spun we i gat bigfala handel, mo kap we i gat lid i save mekem kaikai i isi moa. No wari long hao i stret o nogat.
+9. **Mekem kaikai i isi blong jujuum mo gulpem.** Katemaot kaikai long smol pis o givim ol soft kaikai. Sipos man i kof o jok taem i kaikai, talem doctor blong hem.
+10. **No pushim man blong kaikai.** NIA i talem se appetit i daon nara from long ol las stej blong Alzheimer's.
 
-### Signs to tell the doctor about
+### Ol saen we yu talem long doctor
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Lusum wet, ol man we oli no wantem kaikai, tajet o wik oli save olsem man i no kaikaem enaf. Alzheimer's Society i talem se ol tit we i sik, ol denjer, depresen, hadhad mo ol jenis long medisin oli save daonem appetit ([Alzheimer's Society long appetit](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Ol saen blong dehidresen we NIA i lisimaot i inkludim dray mauth, dizzy, hat we i fast mo ol hallusinesen ([NIA long ol komon helt problem](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Tokbaot wetem doctor
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Bifo yu jenisim bigfala samting long kaikai blong yu, o blong narafala man, toktok wetem doctor o spesialis long kaikai, espesol sipos yu gat daebetis, kidni sik, problem blong gulpem, o yu lusum wet longtaem. Blong man we i stap laef wetem dementia, askem hao planti oli sud kaikai mo dring long wan dei, mo sipos wan spesialis long kaikai o suplemen i save helpem.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Kasem emejensi help kwik sipos wan man i jok, o i konfius kwik, i gat strong dizzi, o i foldaon.

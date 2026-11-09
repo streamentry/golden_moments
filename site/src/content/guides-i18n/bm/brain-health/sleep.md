@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Dormi ni hakili: Mun b'a fɔ, ani mun b'a dɛmɛ"
+seoTitle: "Dormi ni dementia: Sɛbɛn b'a fɔ"
+description: "Sɛbɛnnen b'a fɔ dormi ni dementia ka kɔnɔ ɲɛfɔlen, sababu min na hakili sɔrɔli ka fɛn ka sɛbɛn ka ɲɛ tɛ sisan, ani sunɔgɔ kɛwale ɲɛnabɔ mɔgɔ kɔrɔw ni ɲɛnɛmabɔlaw ye."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Kalan caman bɛ fɔ ko dormi tiɲɛ kɔnɔ ka ɲɛ tɛ dementia ka ɲɛnabɔ ni dormi ka ɲɛ. Labɔ ka sɛbɛnnen b'a fɔ ko dormi bɛ se ka dɛmɛ hakili ka dusukun bɔ. Nin sɛbɛnnen bɛ ka gɛlɛya ka ɲɛnɛ. 2024 Lancet Commission ma dormi jɔ ka tanga dɔ ye min bɛ se ka ɲɛnɔgɔnya. Sunɔgɔ kɛwalew bɛ dɛmɛ mɔgɔ ka kɛnɛya don o don. Dormi ka gɛlɛya caman bɛ dementia la, ani o bɛ se ka fɔ dɔkitɔrɔ ye.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "UK kalan min bɛ ɲɛnɔgɔnya ni mɔgɔ dɔrɔn 8,000 ye san 25 kɔnɔ, o kalan bɛ fɔ ko sunɔgɔ min ye lɔgɔ wɔrɔ ni tɛmɛnnen ye ni tile 6 ye, o bɛ ɲɛnabɔ dementia ka kɔnɔ."
+  - "Dormi ka yɛrɛyɛrɛli bɛ se ka kɛ dementia ka fɔlɔ kɔ dɔ ye, o de kosɔn o ka sababu ni o ka sababu ka fɛn bɛ gɛlɛn ka ɲɛ."
+  - "Labɔ min bɛ sɛgɛsɛgɛ ko sunɔgɔ bɛ beta-amyloid bɔ hakili kɔnɔ, o ye tiɲɛ ye nka a ka fɔlɔ ka bon; caman ye jɛgɛnin na."
+  - "Sunɔgɔ kɛlɛ bɛ kɛ ka ɲɛ, a bɛ se ka ko; a bɛ dɛmɛ ka kɔnɔ mɔgɔ bɛ tɔgɔ ni dementia ye kalan kɔnɔ. Kɔrɔsi kɔnɔ fɛɛrɛ ani lɔgɔ kɔnɔ dɔrɔn sunɔgɔ bɛ jɛɲɔgɔn ka ɲɛ."
+  - "Ayi sunɔgɔ dawolo kɛlɛ, dawolo ka ɲɛ, walima ka ɲɛnɔgɔnya dɔkitɔrɔ kɔrɔ tɛ."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Sunɔgɔ kɔrɔ bɛ Alzheimer kɛ wa?"
+    a: "Nin tɛ yɛrɛyɛrɛ. Kalan dɔw bɛ fɔ ko sunɔgɔ tiɲɛ bɛ ɲɛnabɔ dementia ka kɔnɔ, nka dementia yɛrɛ bɛ sunɔgɔ kɔrɔ, ka tɛmɛ dɔkitɔrɔ ka fɔ kan san caman kɔfɛ. 2024 Lancet Commission ye o ka hukumu kɛ ko labɔw ma ɲɛ sɔrɔ ka sunɔgɔ ta ka kɛ ɲɛnɔgɔnya tanga ye."
+  - q: "Mɔgɔ kɔrɔw bɛ sunɔgɔ mun waati?"
+    a: "Dɔkɔrɔ Nisɔngɔya Kalan Ɲɛnɛmabɔ (National Institute on Aging) b'a fɔ ko mɔgɔ kɔrɔw bɛ sunɔgɔ kɛ i n'a fɔ mɔgɔ wɛrɛw, o ye lɛrɛ 7 ni 9 ye tile kelen kɔnɔ. Mɔgɔ caman bɛ dɔgɔya ka sunɔ ka wuli ka tɛmɛ a ɲɛfɛ, o ye fɛn ye min bɛ kɛ dɔɔnin."
+  - q: "Mun na dementia ka mɔgɔ bɛ sunɔ tile kɔnɔ ka wuli dibi kɔnɔ?"
+    a: "Dementia bɛ se ka kɛ dɔkɔrɔ ka waati ka jɛɲɔgɔn ka ɲɛ, o de kosɔn sunɔgɔ ni wulili waati bɛ jɛɲɔgɔn. Jɔ, hɔrɔnya, dɔgɔya, walima dawolo ka kɛlɛ fana bɛ se ka kɛ sababu ye. Tile ka fitini, kɛwale ka ɲɛ ani tile ka kɔrɔ dibi bɛ se ka dɛmɛ. Dɔkitɔrɔ bɛ se ka sababu min bɛ se ka kɛ ka ɲɛ."
+  - q: "Ne ka mɔgɔ ye dormi dawolo di a ma wa?"
+    a: "Hɛrɛ ka fɔ a dɔkitɔrɔ ye fɔlɔ, o kɔnɔ ka fɔ dawolo min bɛ se ka sɔrɔ dukɔnɔ, o tɔɔrɔ fana. Dɔkɔrɔ Nisɔngɔya Kalan Ɲɛnɛmabɔ b'a fɔ ko dawolo dɔw bɛ se ka kɛ dɛgɛ, bɔ, walima hakili kɔnɔ ɲɛnabɔ mɔgɔ ye Alzheimer ta."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Sunɔgɔ ni hakili ka ɲɛ bɛ ɲɛnɛ kosɛbɛ, nka u ka ɲɛ cogo min na, o bɛ sɛgɛsɛgɛ ka tɛmɛ. Kalan dɔw bɛ fɔ ko sunɔgɔ tiɲɛ bɛ ɲɛnabɔ dementia ka kɔnɔ. Dementia yɛrɛ fana bɛ sunɔgɔ kɛ tɔɔrɔ ye ka tɛmɛ caman kan. Nin sɛbɛnnen bɛ ko min b'a sɛgɛsɛgɛ ani min tɛ a sɛgɛsɛgɛ, bɛ kɛwale ɲɛnabɔ sunɔgɔ kɛwale ɲɛ, ani bɛ sunɔgɔ kɛlɛw fɔ min bɛ caman ye dementia kɔnɔ. A tɛ dawolo ko fɔ; o kuma bɛ kɛ ni dɔkitɔrɔ ye.
 
-## Is poor sleep linked with dementia?
+## Sunɔgɔ tiɲɛ bɛ ɲɛnabɔ dementia ka kɔnɔ wa?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Kalan dɔw bɛ fɔ ko sunɔgɔ tiɲɛ bɛ ɲɛnabɔ dementia ka kɔnɔ, nka labɔ ma ɲɛ sɔrɔ.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Kalan min bɛ san 25 ye UK.** Labɔlaw ye mɔgɔ dɔrɔn 8,000 ɲɛnɔgɔnya [Whitehall II kalan](https://www.nature.com/articles/s41467-021-22354-2) kɔnɔ. Mɔgɔ min sunɔra lɔgɔ wɔrɔ, walima tile 6, san 50 walima 60 ye, u ka dementia ka ɲɛnabɔ kɔfɛ tun bɛ bon ka tɛmɛ mɔgɔ min sunɔra tile 7. Mɔgɔ min sunɔra tile 6 walima kɛmɛ san 50, 60 ni 70 ye, u ka ɲɛnabɔ tun bɛ bon ka 30% tɛmɛ mɔgɔ min sunɔra tile 7 caman. O ye kalan ye min ye ɲɛnɔgɔnya ye, o de kosɔn o bɛ jɔyɔrɔ fɔ, sababu fɔ tɛ.
+- **Lancet Commission ka hakɛ.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ma dormi jɔ a ka fɛn 14 min bɛ se ka ɲɛnɔgɔnya ye, o ka tɛmɛnen. A hukumu ko labɔ ma ɲɛ sɔrɔ ka ɲɛ ka bon. Sababu dɔ ye "sababu ka kɔfɛ ka ɲɛ": dementia ka hakili kɔnɔ yɛlɛmaw bɛ daminɛ san caman ka fɔlɔ ka dɔkitɔrɔ ka fɔ, ani u bɛ se ka sunɔgɔ jɛɲɔgɔn. Kalan dɔ kɔnɔ min bɛ caman ye, sunɔgɔ min bɛ tɛmɛ ni dementia ka ɲɛ, o bɛnnen bɔra tuma min na san 5 fɔlɔ ka labɔ ka ɲɛ kɔfɛ.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+O de kosɔn, tile dɔ dɔrɔn sunɔgɔ kɔrɔ tɛ ko ɲɛɲɛ. Nka sunɔgɔ min ka ɲɛ ka bon ani min bɛ kɛ cogo ɲuman na, o bɛ ko ka ɲɛ ni kɔnɔ ka ɲɛ, ani bɛ dɛmɛ sɛgɛsɛgɛ bɔ, ani sɔrɔ ka ɲɛ bi.
 
-## What is the "brain-clearing" sleep research?
+## "Hakili sɔrɔli" sunɔgɔ labɔ ye mun ye?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+I bɛ se ka kalan ko sunɔgɔ bɛ hakili "sɔrɔ". O ye tiɲɛ kɔnɔ labɔ ye, nka a fɔlɔ ka bon.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Mɔgɔ dɔw kɔnɔ.** Labɔ min ye 2013 ye [NIH ka fɔ](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), a ye sɛgɛsɛgɛ ko sunɔgɔ kɔnɔ, hakili ka sɛrɛ ka dogoya tuma caman na, a ka kɛlɛ dɔ 60%. Ji bɛ taa hakili kɔnɔ ka fɛn ɲɛ, labɔlaw bɛ o pɛrɛ "glymphatic system". Beta-amyloid, o ye proteyini ye min bɛ ɲɛnabɔ Alzheimer ta, o bɛ bɔ sunɔgɔ kɛlɛ dɔ hakili kɔnɔ ka tɛmɛ.
+- **Mɔgɔw kɔnɔ.** 2018 [kalan](https://www.pnas.org/doi/10.1073/pnas.1721694115) dɔ ye mɔgɔ 20 ɲɛnɔgɔnya, u sɔrɔ san 22 ni 72 ye, u kɛra sunɔgɔ ɲuman dɔ kɔ, ani sunɔgɔ tɛ min kɔ. Sunɔgɔ tɛ min kɔ kɔfɛ, beta-amyloid ka ɲɛmɔgɔ dɔ hakili kɔnɔ fɛrɛ bɛ bɔ ka tɛmɛ kɛlɛ 5% kɔnɔ, a bɛ kɛ ka ɲɛ hippocampus, o ye hakili kɔnɔ fɛn ye min ka kan ka hakili ka dɔnkili. Labɔlaw ye o fɔ "fɔlɔ ka ɲɛnɛmabɔ". U ma dɔn ko o bɛ bɔ tile ka sɛgɛsɛgɛ kɔfɛ walima ko a ye beta-amyloid ka ɲɛfɔ caman ye.
+- **A bɛ kɛ cogo fila fɛ.** Lancet Commission b'a fɔ ko beta-amyloid ka caman ka ɲɛ bɛ se ka sunɔgɔ jɛɲɔgɔn mɔgɔ kɔrɔw kɔnɔ.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Nin sɛgɛsɛgɛw bɛ dɛmɛ ka faamu se min ma labɔlaw ka sunɔgɔ kan. U tɛ jɔyɔrɔ fɔ ko sunɔgɔ ɲuman bɛ Alzheimer ɲɛ.
 
-## What sleep habits may help?
+## Sunɔgɔ kɛwale mun bɛ se ka dɛmɛ?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Mɔgɔ kɔrɔw bɛ sunɔgɔ lɛrɛ 7 ni 9 kɛ tile kelen kɔnɔ, i n'a fɔ mɔgɔ wɛrɛw, o ye [Dɔkɔrɔ Nisɔngɔya Kalan Ɲɛnɛmabɔ (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) ka fɔ. A ka kɛwale dɔw ye nin ye:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Kɛ waati ɲuman kɛ sunɔgɔ ni wulili kɔnɔ.** Sunɔ ka wuli waati kelen na tile o tile, kɛnɛ ni don ma kɔrɔ.
+- **Kɛ sunɔgɔ kɔ kɛwale dɔ.** Karo, mɔgɔ ye dɔgɔya kɔnɔ fɔ, walima kɛ jɔ ɲuman kɛ fɔlɔ ka sunɔ.
+- **Kɛ dugu ka dɔgɔya ka dɛmɛ.** Kɛ a ka ɲɛnɔgɔnya ka bon sunɔgɔ jɛ kɔnɔ, a kɛ dɛgɛ walima a kɛ jɛ kɔnɔ tɛ.
+- **Kɛ kafeyi ni kɔrɔ jɔɲɔgɔn.** Kafe, cay, soda ni shukalati bɛ se ka kɛ ka sunɔgɔ jɛɲɔgɔn.
+- **Ka jɔyɔrɔ min tɛ alikɔl, ani tɔɔrɔ ni a ɲɛnɔgɔnya.** NIA ye o ka fɔ.
+- **Ka fɛɛrɛ ka caman don waati min ka ɲɛ sunɔgɔ tɔ.** Sunɔgɔ ɲɛ ni wulili ɲɛnɔgɔnya ka tɛmɛ 2 ni 3 ka ɲɛ.
+- **Ka lɔgɔ ka kɛ kɛlɛ dɔ tile kɔnɔ, nka ka kɛ sunɔgɔ tɔ ka tɛmɛ 3 sɛɛnɛ.** I bɛ se ka ɲɛfɔ [kɛlɛ ka kalan](/brain-health/exercise/) ma.
+- **Ka tɛlɛvizɔn, kɔmɔpiyɔta, telefɔn walima tablɛti sɛgɛ dugu kɔnɔ.** NIA ye o fɔ ko u kɛ sunɔgɔ kɔnɔ tɛ.
+- **Ka sunɔ dɔgɔ tile kɔfɛ walima sɔgɔma kɔfɛ, ni i bɛ se.**
 
-## Sleep problems in dementia
+## Sunɔgɔ gɛlɛyaw dementia kɔnɔ
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Sunɔgɔ kɔnɔ yɛlɛmaw bɛ caman dementia kɔnɔ. [NIA ka kalan](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) bɛ fɔ sunɔgɔ caman walima sunɔgɔ tɔɔ, wulili caman sunɔgɔ kɔnɔ, ani sunɔ kɔrɔ tile kɔnɔ. A bɛ sundowning fana fɔ: hɔrɔnya, ɲɛnɛmɔgɔya walima hakili kɔrɔ min bɛ daminɛ walima bɛ ɲɛ ka sɔrɔ kɛlɛ bɛ tɛmɛ ka tile ka dɔgɔ.
 
-Caregiver tips from the NIA include:
+NIA ka tɔɔrɔ kɛlɛ kɛlaw ye nin ye:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Ka tile ni ɲɛnɛma sɛgɛ fɔlɔ.** Ka bɔ dugu kɔnɔ walima ka sigi fanɛɲɛ ye tile kɔnɔ, ani ka dɛmɛ mɔgɔ ka kɛ ɲɛnɛma kɛlɛ tile o tile. Kɛnɛ ni kɛlɛ ka ɲɛfɔ bɛ dɛmɛ ka sunɔgɔ kɔnɔ ka jɛɲɔgɔn.
+2. **Kɛlɛ caman kɛlaw ka kɛ wuli tuma.** Ka mɔgɔ ka ji ka kɛ wulili kɔnɔ walima ka kɛ dumuni caman don tile ka ɲɛ.
+3. **Ka sunɔgɔ tɔ ka kɛ dɔgɔ ani fɔlɔ.** Ka sunɔgɔ tɔ tile ka dɔgɔ ka tɛmɛ.
+4. **Ka sɔgɔma kɛ dɔgɔ.** Ka tile ka dɔgɔ, ka ɲɛnɛ fitini dɔgɔya, ani ka dugu ka kɛ kɛlɛ dɔgɔ, ni mɔgɔ bɛ ka dɔgɔya ka mɔgɔ ye. [Tile ka dɔgɔ ni ɲɛnɔgɔnya](/caregiving/late-day-restlessness/) kalan bɛ ɲɛfɔ caman di.
+5. **Ka sunɔgɔ kɛwale ɲuman kɛ.** Kalan kɛ ka kalan ni sɛbɛ ye tile o tile sunɔgɔ kɔ NIA ka misali ye. [Kɛwale ɲuman](/activities/daily-routine/) bɛ dɛmɛ fana.
+6. **Ka kafeyi ni alikɔl jɔɲɔgɔn.**
+7. **Ka fitila dɔgɔlen kɛ** dugu kɔnɔ, kɔrɔ kɔnɔ ni bɔrɔ kɔnɔ.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Wulili waati kɔnɔ, NIA ka [dugu ka dɔgɔya ka ɲɛfɔ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) b'a fɔ ko ka fitila dɔgɔlen walima fitila min bɛ kɛ ni ɲɛnɛma ye, bɔrɔ kɔnɔ tɔɔrɔ tiriw, sigiyɔrɔ kɔnɔ ɲɛfɔlenw min bɛ ɲɛ ka ɲɛ, ani dawolo ka lɔ kɔnɔ min bɛ dɔ ka don.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Tile kɔnɔ kalan dɔgɔ ni dɔgɔ, o bɛ se ka dɛmɛ i ni mɔgɔ min bɛ a ka ɲɛ ka sunɔ ka dɔgɔya. I bɛ se ka [Calm Breathing](/games/calm-breathing/) kɛ dɔgɔ ni [Conversation Cards](/games/conversation-cards/) dɔw kɛ dɔgɔya ni sɛbɛ. Sunɔgɔ kɔrɔ fɛn min bɛ hakili kɔrɔ, o kɛ, ani ni mɔgɔ ka dɔgɔya, o ka ɲɛ.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Sunɔgɔ min tɛ ɲɛ, o bɛ mɔgɔ min bɛ kɛ a ka sɛnɛ ka kɛ jɛ fana. [Mɔgɔ min bɛ ɲɛnɛmabɔ ka kɛwale](/caregiving/caregiver-self-care/) bɛ kɛ ɲɛfɔ ka sunɔgɔ ni dɛmɛ ka kɛwale ma.
 
-## What about sleep apnea?
+## Sunɔgɔ jɛ ni sunɔgɔ kɔ wa?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sunɔgɔ jɛ kɛ sunɔgɔ kɔnɔ tɔɔrɔ ye min bɛ kɛ sunɔgɔ ka kɛ dɔgɔ kɔ, dɔgɔ dɔgɔ dɔgɔ waati kɛ. NIA b'a fɔ ko a tɛ kɛlɛ dɔgɔ, a bɛ se ka kɛ tansiyɔn, dogo walima hakili kɔrɔ dɔw ye. Taamasiyɛn fɔ: sunɔgɔ tɔ kɛ kɛlɛ, ani tile kɔnɔ sunɔgɔ kɛ ka kɔrɔ, u caman bɛ jɛ kɛ ka tɛmɛ. Mɔgɔ caman tɛ dɔn ko u bɛ sunɔgɔ jɛ.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sunɔgɔ jɛ bɛ se ka kɛ dɔkitɔrɔ ye ka dɔn ka kɛ ka sɔrɔ ka dawolo kɛ. NIA b'a fɔ ko CPAP machine bɛ dɛmɛ kɔsɛbɛ. N'i walima mɔgɔ min bɛ i ka ɲɛ kɔnɔ, a bɛ kɔrɔ sunɔgɔ kɔnɔ, walima a bɛ tile kɔnɔ ka kɛ ka caman sunɔ, o ko fɔ dɔkitɔrɔ ye.
 
-## A note about sleep medicines
+## Dawolo ka sunɔgɔ kɔnɔ fɛɲɛ
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+An tɛ dawolo ka sunɔgɔ kɔnɔ ɲɛfɔ di, walima a ka sanfɛ ɲɛfɔ. NIA b'a fɔ ko dawolo ka sunɔgɔ bɛ dɛmɛ waati dɔgɔ kɔnɔ, nka a tɛ sunɔgɔ jɛ kɛ. A b'a fɔ fana ko dawolo dɔw min kɛra mɔgɔ min bɛ Alzheimer ta ka sunɔgɔ kɛ, o bɛ se ka dɛgɛ, bɔ, ani hakili kɔnɔ ɲɛnabɔ ka kɛ. Aw kaɲɛ, aw kana dawolo ka sunɔgɔ kɔnɔ, sanfɛ ko kɔnɔ min bɛ sɔrɔ dukɔnɔ fana, kɔnɔ dɔkitɔrɔ walima farimaniw kɔrɔ tɛ.
 
-## Talk with a doctor
+## Dɔkitɔrɔ ni kuma
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Ka dɔkitɔrɔ ye i walima mɔgɔ min bɛ i ka ɲɛ ye, n'a bɛ dɔgɔ tuma bɛɛ, n'a bɛ sunɔgɔ tɔ tile caman kɔnɔ, n'a bɛ dusu sunɔgɔ kɔnɔ. N'a bɛ kɛ dementia kɔnɔ sunɔgɔ gɛlɛyaw ka tɛmɛ, [NIA ka hakɛ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ye ka dɔkitɔrɔ ka dɛmɛ ɲini. Dɔkitɔrɔ ka ɲɛ bɛ se ka sababu ɲɛnɛ, i n'a fɔ jɔ, sunɔgɔ kɔnɔ tɔɔrɔ wɛrɛ, bana walima dawolo ka kɛlɛ. Hakili bɔra ka dɔgɔ kɔ, walima sunɔgɔ kɔ ni hakili kɔrɔ, o bɛ kɛ ka dɛmɛ kɔsɛbɛ. [Tuma min na ka dɔkitɔrɔ ye](/brain-health/warning-signs/) ka sɛbɛn ka ɲɛ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Nin sɛbɛnnen ye kunnafoni jɛnɛ ye, o tɛ dɔkitɔrɔ ka ɲɛfɔ. A ka ɲɛ ka sɛbɛn [sɛbɛn kɔnɔ dɔkitɔrɔ ka fɔ](/medical-disclaimer/).

@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Taem Man we i Gat Dementia i Stap Askem Blong Go Hom"
+seoTitle: "Dementia i Stap Askem Blong Go Hom: Wanem Blong Talem"
+description: "Wanem nao i minim taem man we i gat dementia i askem blong go hom, even taem i stap long hom finis. Wanem blong talem, ol kalem aktiviti, mo hao blong kipim hem seif."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Taem man we i gat dementia i stap askem blong go hom, "hom" ia i minim wan fil
+  blong seif, no wan ples long pas, nogat wan haos. Yu no nidim argiu se hem i
+  stap long hom finis. Fasem fil ia, talem hem se hem i seif, askemem long hom,
+  evri bae yu muvum i go gentel long ol foto, miusik, kaikai, wok long ples, o
+  wan simpol wok. Lukaut long hangre, dring, toilet, no pen. Sapos i kamap wan
+  taem nomo, kolem doctor blong hem.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Mi wantem go hom\" i minim olgeta \"Mi no filim seif no mi no filim kwiet,\" nogat wan rikwes blong wan adres."
+  - "Argiu o soemaot se hem i stap long hom usually i mekem hae fil i kam bigwan. Fasem fil ia nomo."
+  - "Askem hem blong talem yu long hom blong hem, evri bae yu ofem ol foto, miusik, kaikai, wok long ples, o wan simpol wok."
+  - "Lukaut long wan samting we i save fiksim: hangre, dring, toilet, pen, hot o kol tumas, noes, taed."
+  - "Sapos i kamap evri aftanun, i save minim sundowning; wan stedi rutin mo gud lait i save helpem."
+  - "Redim ol samting blong seif sapos hem i traem blong lusum hom, mo kolem doctor blong hem sapos i jenis kwik."
 faq:
   - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
+    a: "Dementia i save mekem ol rum we i nao familiar i luk strens, mo ol man i save filim olsem oli stap long wan taem blong laef we i bifo. \"Hom\" i save minim haos blong pikinini taem, no jes fil blong seif mo kamfot. Ansa long fil ia i gat moa gud rijalt dan blong soemaot we hem i stap."
   - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
+    a: "Traem talem \"Yu seif long hia, mo mi stap wetem yu,\" afta \"Talem mi long hom blong yu.\" Yu harem, soem wan foto o wan singsing, mo ofem wan dring o wan sot wok. No talem \"Yu stap long hom finis\" olsem wan korektiv, bikos hem i save filim olsem yu talem hem i rong."
   - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
+    a: "Famili mo ol oganisesen blong dementia oli no sem long samting ia. Plande i stat wetem gud fasin we i tru mo redirekt, mo oli save yusum wan gentel koret tok nomo long taem we tru tok bae i jes mekem hem i sot we man ia i no save fasem. Enikwan we yu jusum, bi kaen mo stedi, mo nev soemaot se ting blong hem i rong."
   - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
+    a: "Stap kwaet mo wokbaebae wetem hem, no blokem hem; wan sot wok i save kwaetem hem. Redim ol samting blong seif finis, olsem ID bracelet, dor belo, mo wan niu kolosap foto. Sapos hem i lus, stat fastaem blong serjem, mo sapos yu no faendem hem insaed 15 minits, kolem emergency namba blong ples mo talem se man ia i gat dementia."
   - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+    a: "Kolem doctor blong hem kwik sapos askem no konfiusen i stat kwik, no i kam wosu tumas long ol aoa no ol de, espesol wetem hae hit, wan nyufala medisin, no ol saen blong yurinari trak infeksen. Kwik konfiusen i save kam from delirium, we i nidim kwik tritmen. Kolem emergency namba blong ples sapos wan man i stap long denja."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Mi wantem go hom." Plande famili i harem disfala tok ia olsem wan long ol hadest samting, espesol taem man we yu stap kea long hem i stap sidaon long rum blong hem setem olsem. Hem i kamaon, hem i save kamap long eni stej blong dementia, mo i gat ol kalm mo praktikol rod blong ansa. Pej ia i talem wanem ol tok ia i save minim, wanem blong talem, ol aktiviti we i save helpem long taem ia, mo hao blong kipim hem seif.
 
-## Why does someone with dementia keep asking to go home?
+## Wanem nao i mekem man we i gat dementia i stap askem blong go hom?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Olsem nomo, "hom" i moa fil bifo i wan ples. Alzheimer's Society i talem se hem i fil blong kamfot mo seif, no wan hom long pas, nogat haos ia nomo. Dementia i save mekem ol familiar rum i luk strens, mo wan man i save filim olsem hem i stap long wan taem blong laef we i bifo, taem hom blong hem i wanem haos blong pikinini blong hem no ples we hem i bringim ol pikinini i kamap.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Ol tok ia tu i save soemaot wan narafala samting we i rong long naoia: hem i hangre, i tosta, i nidim toilet, i gat pen, i hot o i kol tumas, i taed, i lonli, i fraet, no noes i mekem hem i hevi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) i lisemaot pen, noes, lonli, jenis long rutin mo ol medisin olsem ol kosis blong agitesen.
 
-## What should I say when they ask to go home?
+## Wanem blong talem taem oli askem blong go hom?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Ansa long fil, no long ol tok. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i talem se no traem blong kanvinsim man ia se hem i rong: fil blong hem i tru, so fastaem ansa wetem kaen tok mo gudfala tok blong givim hop, afta i gud blong jenisim tingting blong hem.
 
-Phrases that often help:
+Ol tok we i save helpem:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Talemaot fil ia.** "Olsem yu missim hom."
+- **Givim hop.** "Yu seif long hia, mo mi stap wetem yu." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) i sujestem ol tok ia: "Yu seif long hia."
+- **Askem long memori.** "Talem mi long hom blong yu. Kitchen blong yu i olsem wanem?" Askem long ol samting long bifo i usually i moa kamfot dan askem long samting long naoia.
+- **Mekem wan samting wetem hem.** "Yumi drinkem tii fastaem," no "Yu helpem mi fodem ol taol ia?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Wan fasin we i waom, mo wan han long hand blong hem sipos hem i laekem tas, i save talem moa dan ol tok.
 
-## What should I avoid?
+## Wanem nao yu no sud duim?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Argiu o eksplenem.** "Yu stap long hia nao" no "Hia hom blong yu finis long 40 yia" i askem hem blong akseptem wanem dementia i mekem i had blong akseptem, mo hem i save filim olsem yu talem hem i rong.
+- **Askem tumas kwesten.** "Yu no tingbaot?" no "Wanem nao adres?" i mekem presa i kam antap.
+- **Blokem dor long kros.** Sapos hem i wantem aot, stap kwaet mo wokbaebae wetem hem. Wan sot wok wetem i save kwaetem fil blong go.
+- **Hariap tumas.** Givim hem taem blong toktok long hom blong hem fastaem yu jenisim samting we yu wantem toktok long hem.
 
-## Activities that can help in the moment
+## Ol aktiviti we i save helpem long taem ia
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Afta yu fasem fil ia finis, wan kalm mo familiar aktiviti i save jenisim tingting blong hem, bitim we yu no ignorem fil ia.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Lukim ol foto blong hom mo famili.** Turnem ol pej mo talem ol samting ("Lukim gaden ia"), i no askem kwesten. Long fon no tablet, [Photo pairs](/games/photo-pairs/) i jenisim ol foto blong famili blong yu i kam wan gem blong matem ol pija, mo ol foto i stap long divaes blong yu.
+2. **Toktok long hom.** [Conversation cards](/games/conversation-cards/) i givim ol open kwesten long ol haos, kitchen, neiba mo ol bigfala de, no gat rong no gud ansa.
+3. **Plei miusik we hem i laekem.** National Institute on Aging i lisemaot miusik we i kwaetem samting long ol wei blong kwaetem agitesen. Lukim ol [aktiviti blong miusik](/activities/music/) blong yumi.
+4. **Kaikai o dring samting.** Hangre mo tosta i save lukluk olsem restlesnes. Wan kap tii o wan favrit kaikai i wan smol ritual blong fil se hem i stap long hom.
+5. **Wokbaebae o sidaon aotsaed.** Muv mo san lait i helpem, espesol long moningtaem.
+6. **Givim wan familiar wok.** Fouldem laondri, sotem naef mo fok, no waterem ol plant i save karem bak fil blong ranem wan hom.
+7. **Slowem evri samting.** Ofem TV, kattemaot noes mo bright lait, mo traem wan sea [calm breathing](/games/calm-breathing/) brek.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Sipos wan aedia i no wok, traem narafala taem bihaen. Sidaon kwaet wetem hem i wan gud aotkam tu.
 
-## Check for a cause you can fix
+## Lukim wan kOs we yu save fiksim
 
-| Check | What to try |
+| Samting blong lukluk | Wanem blong traem |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Hangre o tosta | Givim dring mo smol kaikai |
+| Nidim toilet | Ofem taem blong go long toilet, kwaet mo no fas |
+| Pen o no kamfot | Lukim sain olsem fes blong pen, holem wan part blong bodi, o kostiveneson, mo talem doctor blong hem |
+| Hot tumas o kol tumas | Jenisim wan kaleko o tempretja blong rum |
+| Noes o kroud | Muvum i go long wan kwaet rum, ofem TV |
+| Taed o tumas stimulesen | Restem, dimem lait, plei soft miusik |
+| Aftanun | Lukim sekson sundowning we i stap bilo |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society i sujestem blong rekodem wan smol buk blong taem we askem i kamap, olsem bifo kaikai, afta visitas, no taem sun i godaon. Ol patern i mekem hem isi blong planem bifo.
 
-## Is it okay to tell a white lie?
+## Wanem, i ok blong talem wan waet laea?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Ting ia i wan tru disfala ting, mo ol famili we oli gud oli kam long ol defren ples. Alzheimer's Society i talem se nogat wan samting we i rait wan wei nomo: ol tok we i nogat tru i save mekem sam man i kam moa sospek, so yu mas disaedem wanem i gud long man ia, mo stap stedi. Long Penn Memory Center, ko-direktoa blong hem i talem se tru i defolt, mo wan gentel tok we i nogat tru i ok nomo taem man ia i no save prosesem sam tru tok, mo yu nev no mekem fan long ol tingting blong hem.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Plande kea i faendem wan midel rod i wok: fastaem tok blong kaen mo redirekt i gat tru ("Bae yumi stap long hia long naet, mo mi stap raet hia wetem yu"), no argiu long wea hom i stap.
 
-## What if it happens every afternoon or evening?
+## Wanem sapos i kamap evri aftanun o naet?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Restlesnes we i stat o i kam wosu long aftanun ofen i kolsem sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) i sujestem wan stedi skejul, san lait mo wok evri de, sleb we i no longfala long aftanun, mo no kafin no alkol long aftanun. Ondem lait bifo naet i save helpem tu. Gaed blong yumi long [aktiviti blong kwaet long aftanun](/caregiving/late-day-restlessness/) i gat moa.
 
-## Keeping them safe if they try to leave
+## Kipim hem seif sapos hem i traem blong lusum
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Askem blong go hom i save kamap long wandering. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) i stimetem se sikis long ten man we i gat dementia bae i wandering wan taem long lis.
 
-**Prepare ahead:**
+**Redim fastaem:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Wan ID o medikol bracelet we i gat nem blong hem mo namba fon blong yu, mo label long klos blong hem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) i mensenem MedicAlert mo Alzheimer's Association Safe and Found program, we i save kosem sam mane.
+- Wan dor belo o alam, mo ol lok we oli antap o daon. Nev lokem man ia i stap wan nomo.
+- Wan niu kolosap foto, mo wan lis blong ol ples we hem i save go, olsem ol ples we hem i stap long bifo o wok.
+- Talemaot ol neiba we yu trastem, mo givim olgeta namba fon blong yu.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Sapos hem i lus:** stat serjem long wanem taem; Alzheimer's Association i talem se plande man i faenem bak insaed long 1.5 maelo, we i wan 2,4 kilomita. Sapos yu no faenem hem insaed 15 minit, kolem emergency namba blong ples mo talem se man ia i gat dementia. Kolem emergency namba blong ples kwik sapos wan man i stap long denja.
 
-## When should I call a doctor?
+## Wanem taem mi shud kolem doctor?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Kolem doctor blong hem kwik sapos askem o konfiusen i stat kwik, o i kam wosu tumas long ol aoa o ol de. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) i talem se ol jenis we i kwik o i nogat fasin, espesol afta wan infeksen o jenis long medisin, i mas jekem kwik. Kwik konfiusen i save kam from delirium, we [NHS](https://www.nhs.uk/symptoms/confusion/) i talem i nidim kwik help; infeksen long yurinari trak i wan komon kos long ol olfala.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+I gud tu blong mensenem wan stedi patern long nekis apointmen, bikos pen, sed we i nogat hapi, slip proplem, o ol side efekt blong medisin oli save mekem sam samting i kamap.

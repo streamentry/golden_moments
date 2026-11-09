@@ -1,33 +1,32 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Hakili dɔnkiliw bɛ dimansi tanga wa? Mun b'a jira"
+seoTitle: "Hakili dɔnkiliw bɛ dimansi tanga wa? Kiri"
+description: "Kalan b'a fɔ hakili dɔnkiliw ni dimansi ko: hakili lakalikuntanw, kɔmpiyuteri hakili kɛli, ACTIVE kalan ni FTC Lumosity kɔrɔ, sɛbɛnnen kɛlen."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Hakili dɔnkili kelen tɛ dimansi tanga ko dɛmɛ. Kɔmpiyuteri hakili kɛli bɛ
+  fɛn min kɛ mɔgɔw bɛ a kɛ ka caya, o kɔrɔ dɔrɔn. ACTIVE kalan kɔnɔ, hakili
+  kɛli dɔ min bɛ sankɔnɔ ni a kɔnɔ ni kɛlɛ dɔw bɛ kɛ, o ye dimansi bɔ-jɛ dɔw
+  ka ca 20 kɔnɔ. Mɔgɔ minnu bɛ dimansi ɲɛ, olu ka lakalikuntan ye sanfɛ bɔɲɔgɔn
+  ye, a bɛ kɛ ɲɛnɛma dɔrɔn. Dɔnkiliw bɛ kɛ ka nisɔndiya ni ka nɔgɔnɛ.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Hakili kɛli kalanw b'a jira ko mɔgɔw bɛ caya fɛn min kɛ olu la, nka sɛbɛnnen kɔrɔ ka pɛrɛ ko o bɛ sɔrɔ ɲɛnamaya kɔnɔ, o ka dɔgɔ kosɛbɛ."
+  - "ACTIVE kalan kɔnɔ, mɔgɔ minnu kɛra sankɔnɔ kɛlɛ dɔ ni kɛlɛ ɲɔgɔn kɔnɔ, olu de ye mɔgɔ minnu dimansi bɔ-jɛ ka ca 20 kɔnɔ. Sankɔnɔ kɛlɛ kɔ ni kɛlɛ-kɔrɔ tɛ, hakili ni fɛn kɛlɛ tɛ, o tɛ an bɛ ɲɛ."
+  - "2016 la, Lumosity sigilanw ye $2 million di FTC la ka kɛ ka ɲɛ ko olu ka dɔnkiliw bɛ dimansi caya, o kɔ ma tɛ kalan ye."
+  - "Mɔgɔ minnu bɛ dimansi ɲɛ dɔgɔ ni dɔgɔ-tɛ, hakili kɛli sigilanw bɛ kɛ ka caya dɔgɔ-dɔgɔ, a waati dɔgɔ kɔnɔ, ani ka caya ka sɔrɔ kumaw ni mɔgɔw ka ɲɛnamaya kɔnɔ."
+  - "Golden Moments dɔnkiliw ye nisɔndiya ni waati ni mɔgɔ ye ɲɔgɔn ye. Olu tɛ dɔ ye ka dimansi ɲɛ ka tanga, ka dimansi ka ɲɛ ka kɛ ɲɛnɛma."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Hakili dɔnkiliw bɛ Alzheimer tanga wa?"
+    a: "Hakili dɔnkili kelen tɛ dɔnkili ye min ka Alzheimer walima dimansi wɛrɛw tanga kalanw kɔnɔ. Ɲɛnamaya Kalan Dɔn ta (National Institute on Aging) fɔra ko kalanw kɔnɔ sɛbɛnnen tɛ ko hakili kɛli bɛ kɛ ka ɲɛ ko kɔmpiyuteri dɔnkiliw bɛ ko kɛ ka hakili kɛ. O kɔ, dɔnkiliw bɛ nisɔndiya kɛ waati kɔnɔ."
+  - q: "ACTIVE kalan b'a jira mun kɔrɔ sankɔnɔ kɛlɛ ni dimansi kɔnɔ?"
+    a: "2026 kalan kɔnɔ, ACTIVE kalan mɔgɔw ka ca 20 kɔnɔ, u yɛrɛ ka Medicare sɛbɛnnen ye. Mɔgɔ minnu ye sankɔnɔ kɛlɛ ta ni kɛlɛ-kɔrɔ dɔ ye, olu ka dimansi bɔ-jɛ ka dɔgɔ ni mɔgɔ minnu ma kɛlɛ kɔnɔ. Sankɔnɔ kɛlɛ kɔ ni kɛlɛ-kɔrɔ tɛ, hakili ni fɛn kɛlɛ, olu tɛ ɲɛ kosɛbɛ."
+  - q: "Ka tɛgɛ ni dɔnkiliw ka ɲɛ mɔgɔ ye min bɛ dimansi ɲɛ bɛɛ?"
+    a: "U bɛ ɲɛ, ni mɔgɔ bɛ nisɔndiya u la. Hakili kɛli sigilanw, olu kɔnɔ kumaw, dɔnkiliw, dɔ ni kumaw ye, ka caya dɔgɔ-dɔgɔ ka hakili kɛ, ani ka caya ka sɔrɔ kumaw ni mɔgɔw ka ɲɛnamaya kɔnɔ. Nisɔndiya ye ɲɛnɛma ye, tɛ wulikɛlɛ ka jatɛmɛ ye."
+  - q: "Mun na FTC ye Lumosity kɛ wari la?"
+    a: "2016 la, Federal Trade Commission (FTC) ye Lumos Labs kɛ sɔrɔ ko a ka dɔnkiliw bɛ waati dimansi ni hakili kɔ caya ɲɛ, ka kɛ ka ɲɛ, ani sɛbɛnnen tɛ o kɔrɔ. Sigilanw ye $2 million di, ani u ye ɲɔgɔn da ko u bɛ sɛbɛnnen dɔ sɔrɔ tuma bɛɛ, o kɔ ka fɛn nɔfɛ kɛ."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +57,89 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Hakili dɔnkiliw bɛ yerekoro bɛɛ, ani caman b'a fɔ ko u bɛ hakili nɛnɛ. No aw bɛ mɔgɔ ka dimansi ɲɛ kɛ, walima aw yɛrɛ ka hakili jatɛ ye ka aw ɲɛ, o bɛ kɛ ko aw bɛ miiri ko dɔnkiliw bɛ dɛmɛ wa. Aw bɛ se ka kalan min bɛ jira, ko fɛn min bɛ kɛ ɲɛ, ani fɛn min bɛ kɛ ɲɛ tɛ, olu bɛ yen.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Nin ye sɛbɛnnen dɔ ye ka ɲɛnamaya kɔrɔ, nin tɛ dɔtɔrɔ ka ci ye. Aw ka [dɔtɔrɔ ka ci](/medical-disclaimer/) ɲɛ.
 
-## Do brain games prevent dementia?
+## Hakili dɔnkiliw bɛ dimansi tanga wa?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Hakili dɔnkili kelen tɛ dimansi tanga ko dɛmɛ. Ɲɛnamaya Kalan Dɔn ta (NIA) bɛ hakɛ ko mɔgɔ ka kɔ kɔmpiyuteri ni inkerinɛti dɔnkiliw ka hakili kɛ ɲɛ ko olu bɛ ko kɛ. A bɛ fɔ ko sɛbɛnnen tɛ ko kɔmpiyuteri hakili kɛli kelen bɛ ka fɛn kɛ kalanw kɔnɔ min kɛra ([NIA Alzheimer tanga kɔrɔ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+O tɛ ko dɔnkiliw tɛ fɛn ye. O b'a jira ko u nafa ye nisɔndiya ni nɔgɔnɛ ni waati ye, dimansi tanga tɛ.
 
-## What is "near transfer", and why does it matter?
+## « Near transfer » ye mun ye, ani a bɔ ka mun?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Ni i bɛ kɛlɛ dɔ kɛ ka caya, i bɛ caya a kɔnɔ. Kalanbaga bɛ o pɛrɛ ko training effect. Kɛlɛ suguya wɛrɛ kɔnɔ, walima ɲɛnamaya kɔnɔ, i ka caya bɛ bɔ ka ɲɛ wa, o ye gɛlɛya ye. Ni kɛlɛ ɲɔgɔn bɛ kɛ, o pɛrɛ ko near transfer; ni ɲɛnamaya kɔnɔ fɛn bɛ kɛ, i ka waati ni wari sigi, o pɛrɛ ko far transfer.
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 kɔnɔ, kalan dɔ ye kalan ye min ye sɛbɛnnen jɔyɔrɔ ye, u ye ko ni dɔnkili kɔmpani minnu ye kalan ɲɔgɔn fɔ sɛbɛnnen dɔrɔn ye. Olu kɔnɔ, mɔgɔ bɛ caya kɛlɛ minnu bɛ kɛ, o kɔnɔ kosɛbɛ; ɲɔgɔn ka kɛlɛ bɛ caya dɔgɔ kosɛbɛ; ani hakili ɲɛnamaya kɔnɔ bɛ caya dɔgɔ kosɛbɛ. Kalan caman kɔnɔ, u ka kɛlɛ bɛ kɛ ka dɔgɔ ka ɲɛ kɛnɛ ([Simons ni a teriw, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Cochrane kalanw b'a fɔ mun kɔrɔ kɔmpiyuteri hakili kɛli kɔnɔ?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane kalanw bɛ kalanw ɲɔgɔn kɔnɔ, u bɛ sɛbɛn kɛ ka waati ka ca 12 ka kɔ kɔmpiyuteri hakili kɛli kɔrɔ:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Mɔgɔ dɔnnin minnu ka kɔrɔ ka ca 65 kɔnɔ:** kalan 8, mɔgɔ 1,183 kɔnɔ. Sɛbɛnnen ka nɔgɔ ye dɔgɔ kosɛbɛ. A bɛ kɛ ka caya dɔgɔ ka kɛ kɛlɛ kɔ waati tɛmɛnen kɔnɔ, nka sɛbɛnnen tɛ ko o bɛ tɛmɛ.
+  ([Cochrane kalan, mɔgɔ dɔnnin minnu ka kɔrɔ](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Mɔgɔ minnu bɛ hakili gɛlɛya dɔgɔ ɲɛ:** kalan 8, mɔgɔ 660 kɔnɔ. Kalan dɔ tɛ jira ko mɔgɔ minnu bɛ dimansi ɲɛ, u bɛna dimansi ɲɛ wa, ani sɛbɛnnen ye dɔgɔ ka kɛ ka hukumu sɔrɔ.
+  ([Cochrane kalan, hakili gɛlɛya dɔgɔ](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ACTIVE kalan b'a jira mun?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ye kalan ye Amerikɛ kɔnɔ, a daminɛ 1998, ni mɔgɔ 2,802 ye min ka kɔrɔ ka ca 65, u bɛ ɲɛnamaya yɛrɛ kɛ, ani u ma hakili gɛlɛya ɲɛ kosɛbɛ. Mɔgɔ minnu ye sɛbɛnnen ye ka kɛ sankɔnɔ kɛlɛ dɔ kɔnɔ: sankɔnɔ kɛlɛ, hakili kɛlɛ, walima fɛn ka kɛ kɛlɛ, walima kɛlɛ tɛ. Kɛlɛ kɔnɔ kɛra kɛlɛ 10 ka kɔ, waati ca ni kalo 5 ni 6 ye. Mɔgɔ minnu ye kɛlɛ caman tɛmɛ, u dɔw ye sɛbɛnnen ye ka kɛlɛ kɔrɔ kɛ kalo 1 ni 3 kɔfɛ.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Sankɔnɔ kɛlɛ kɔnɔ, u bɛ ɲɛ ni ɲɛ-ɲɛ ye, fɛn ka kɛ ka sɛbɛn ka gɛlɛya kɛ ɲɔgɔn kɔfɛ, ka kɛlɛ ka caya ni o ye.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 kɔnɔ, kalanbagaw ye mɔgɔ 2,021 sɛbɛn Medicare sɛbɛnnen kɔnɔ, ca 20 ka kɔ ([ACTIVE kalan ca 20 kɔnɔ](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). U b'a jira ko:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Sankɔnɔ kɛlɛ ni kɛlɛ-kɔrɔ dɔ ye:** dimansi bɔ-jɛ ka dɔgɔ ni mɔgɔ minnu ma kɛlɛ kɔnɔ (hazard ratio 0.75, o b'a fɔ ko 25% dɔgɔ).
+- **Sankɔnɔ kɛlɛ kɔ ni kɛlɛ-kɔrɔ tɛ:** dimansi bɔ-jɛ dɔgɔ tɛ.
+- **Hakili kɛlɛ walima fɛn ka kɛlɛ:** dimansi bɔ-jɛ ni tɛ ɲɛ kosɛbɛ.
+- **Kɛlɛ ɲɔgɔn ka ɲɛ ni mɔgɔ minnu ma kɛlɛ kɔnɔ:** dimansi bɔ-jɛ bɛ dɔgɔ ka kɛ, nka tɛ ɲɛ kosɛbɛ.
 
-### The limits of this finding
+### Sɛbɛnnen nin kɔrɔ ka tɛmɛ
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- A bɛ kɛ **sankɔnɔ kɛlɛ dɔ kɔnɔ ni kɛlɛ-kɔrɔ**, dɔnkiliw bɛɛ kɔrɔ tɛ.
+- Sɛbɛnnen ye **dɔ ye mɔgɔ dɔw ka kɔfɛ**, mɔgɔ bɛɛ ka kɔfɛ tɛ: mɔgɔ minnu ye kɛlɛ caman tɛmɛ ani kɛlɛ-kɔrɔ ye ka kɛ.
+- Dimansi ka sɛbɛn kɛra **Medicare sɛbɛnnen koodi** kɔnɔ, mɔgɔ kelen-kelen ye ka sɛbɛn tɛ. Mɔgɔ tɔ kɛnɛ ni naani bɛ kɔrɔ, u ye Medicare Advantage ye, o tɛ sɛbɛnnen dɔnniya bɛɛ sɔrɔ.
+- Mɔgɔ minnu kɛra kalan kɔnɔ, u ma hakili gɛlɛya ɲɛ kɛ kɛlɛ daminɛ. Sɛbɛnnen tɛ fɛn ye mɔgɔ minnu bɛ **dimansi ɲɛ** kɔrɔ.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+O ye fɛn ye min bɛ kɛ ka tɛmɛ kɛ kalan caman kɔnɔ. Nka o tɛ jira ko dɔnkili kelen bɛ dimansi tanga.
 
-## What did the FTC say about Lumosity?
+## FTC ye mun fɔ Lumosity kɔrɔ?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016 kɔnɔ tile 1, Lumos Labs, Lumosity ka sigilan, ye $2 million di ka kɛ ka Federal Trade Commission (FTC) kɛlɛ kɔrɔ ka ɲɛ ko ka wɛrɛw kɔ ka kɛ. FTC ye fɔ ko kɔmpani ye ɲɛ ko a ka dɔnkiliw bɛ kɛ ka kasi ni baara kɔnɔ, ka waati dimansi ni hakili kɔ caya ɲɛ, sɛbɛnnen kɔnɔ tɛ. Sigilan ye da ko u bɛna sɛbɛnnen dɔ sɔrɔ tuma bɛɛ, o kɔ ka o fɔ ([FTC kalan kɔrɔ](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Ni ka kɛ a ye dɔnkili, dɔnkili walima kɔmpiyuteri ye min bɛ fɔ ko a bɛ hakili dimansi ɲɛ kɔrɔ, aw ka a ɲɛ kɔrɔ ka a jaabi ka a ɲɛ.
 
-## Can games help someone who already has dementia?
+## Dɔnkiliw bɛ dɛmɛ mɔgɔ ye min bɛ dimansi ɲɛ wa?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+U bɛ se ka ɲɛnamaya ɲɛ kɛ, o ye fɛn ye min ka gɛlɛya tɛ. Kalan min ka ɲɛ kosɛbɛ, o ye **hakili kɛli sigilanw** ye: kumaw, dɔnkiliw, sɛbɛnnen tɔw, dɔ ni kumaw, a bɛ kɛ dɔ kɔnɔ kɔfɛ mɔgɔ dɔ ka kan kɔnɔ.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 Cochrane kalan, kalan 37 ni mɔgɔ 2,766 kɔnɔ, mɔgɔ minnu bɛ dimansi ɲɛ dɔgɔ ni dɔgɔ-tɛ ([Cochrane kalan, hakili kɛli kɔrɔ](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **Caya dɔgɔ kosɛbɛ hakili kɛlɛ kɔnɔ,** waati dɔgɔ kɔnɔ (sɛbɛnnen ka nɔgɔ ye dɔ ye);
+- **Kumaw ni mɔgɔ ye ɲɔgɔn ye kɔnɔ, caya ka sɔrɔ** (sɛbɛnnen ka nɔgɔ ye kosɛbɛ, kalan dɔgɔ kɔnɔ);
+- **Dɔ dɔgɔ ka ɲɛ ɲɛnamaya kɔnɔ, nisɔndiya ni hakili kɛli kɔnɔ** kɔrɔ.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Caya bɛ kɛ kosɛbɛ kalan kɔ kɔrɔ, ni kalan kɔnɔ ka waati ka ca kalo 10 ni tɛmɛ, ani kalan dɔgɔ bɛ sɛbɛn ka a ka tɛmɛ waati caman kɔnɔ. Hakili kɛli kɔnɔ bɛ kɛ mɔgɔ ye min ye kɛlɛ dɔ kɛ tabulɛti kɔnɔ kelen-kelen, o ka kɛ fɛn ye min ka gɛlɛya tɛ.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024 Lancet Commission fɔra ko kɛlɛ sigilanw ka ɲɛ kosɛbɛ mɔgɔ minnu bɛ dimansi ɲɛ, ka nisɔndiya ni ka ɲɛnamaya maaya ka ɲɛ ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Dɔnkiliw bɛ ɲɛ mun na?
 
-When chosen well, games can offer:
+Ni a sugandilen bɛ kɛ, dɔnkiliw bɛ nin kɛ ɲɛ:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Nisɔndiya.** Waati ɲɛmɔgɔya dɔ bɛ ɲɛ a yɛrɛ kosɔn.
+- **Ɲɔgɔn ka kɛ.** Ni ɲɔgɔn ye ɲɔgɔn fɛ, ɲɛnɛma bɛ kɛ ka fɔ ni ɲɔgɔn ye, ni kuma tɛ se ka kɛ. A ka ɲɛ ka [ka ɲɔgɔn ni kɛlɛ](/caregiving/how-to-play-together/).
+- **Ɲɛnamaya ka sɛbɛn.** Dɔnkili min bɛ kɛ waati kelen kɔnɔ tile kelen kɔnɔ, o bɛ hɛrɛ kɛ.
+- **Hakilitigi.** Fɛn min ka kɛ mɔgɔ ka fɛn ye min bɛ kɛ ka ɲɛ, o bɛ kɛ ka hakilitigi kɛ, a tɛ kɛ kalan ye.
+- **Kuma.** Sɛbɛn walima kuma dɔ bɛ kɛ ka fɔ ka kuma kɛ. A ka ɲɛ ka [dɔnkili sɛbɛnnen dɔw](/games/conversation-cards/) walima [kuma tɛmɛ](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+O min tɛ ka kɛ: waati dɔ ka ko, ka kɛ ka caya dɔ ka jabi, ani fɛn min bɛ mɔgɔ ka hakili kɛ kalan ye. Ni mɔgɔ bɛ kɔnɔ ka ɲɛ, aw ka ɲɛ tuma min na. Ka tuma dɔ ka gɛlɛya bɛ kɛ, walima sigi ɲɔgɔn fɛ, o ye ɲɛnɛma ye. Aw ka [sɛbɛnnen ka ɲɛ dɔnkiliw ni kɔmpiyuteri ka ɲɛ](/caregiving/choosing-apps-and-games/) kɔrɔ, a bɛ dɛmɛ kɛ.
 
-## Where Golden Moments fits
+## Golden Moments bɛ se min na
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments dɔnkiliw, i n'a fɔ [sɛbɛnnen ni a teriw](/games/picture-pairs/), [sɛbɛnnen ka kɛlɛ](/games/picture-puzzle/) ani [kuma ci ka sɛbɛn ni caman](/games/word-search/), olu bɛ kɛ nisɔndiya ni waati ye ɲɔgɔn ye. U tɛ waati ni nɔmɔrɔ ye. U tɛ **dɔ** ye ka dimansi ɲɛ kɛ, u tɛ dimansi tanga walima ka dimansi ɲɛ kɔ kɛ. An b'a fẽ ka kuma tiɲɛ ka sɛbɛn ka tɛ fɛn min tɛ se ka kɛ dɔnkili kelen na.
 
-## Talk with a doctor
+## Dɔtɔrɔ ni kuma
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ni aw bɛ hakili gɛlɛya ɲɛ, aw yɛrɛ walima mɔgɔ min bɛ aw ka kan, aw ka dɔtɔrɔ ye, ka dɔnkiliw kɔfɛ tɛ. Dɔtɔrɔ bɛ se ka fɛn min bɛ ka kɛ ka dɔgɔya, o ɲini, ani ka kɛlɛ min kɛra ni sɛbɛnnen ye dɔ bɛ dɛmɛ kɛ, i n'a fɔ ka tansiyɔn kɛ ka ɲɛ, ani ka kanw ɲɛ. Aw ka [Dimansi tanga bɛ se ka kɛ wa?](/brain-health/can-dementia-be-prevented/) ɲɛ kɔrɔ tɛmɛ fɛn caman kɔrɔ. Ni hakili gɛlɛya ka kɛ tɔɔrɔ ye walima fɛn wɛrɛ ka tɔɔrɔ ye, aw ka dɛmɛ ɲɛnɛ ka kɛ tuma min na.

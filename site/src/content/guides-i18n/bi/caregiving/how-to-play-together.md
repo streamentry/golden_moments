@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Hao blong pleiem gem wetem wan man we i gat dementia"
+description: "Gaed blong pleiem gem wetem wan man we i laef wetem dementia: setap, spid, no korektem, mekem gem i isi, mo save taem blong stopem."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Lukim gem olsem taem we yumi stap wetem, no olsem wan test. Jusum taem we i
+  kuaet long dei, sidaon klosap long wan kuaet rum, mo ofarem wan simpol gem.
+  Letem man ya i setem spid. No korektem ol harmles mistek. Mekem gem i isi long
+  fastfala saen blong strés, mo jenisim ol pikja i kamap tok. Stopem taem i
+  stap gud yet. Stopem erli, o jus sidaon wetem, i wan gud rizolt.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Gol i blong gud fil mo kanekson, no blong finisim o ansarem rait."
+  - "Setap fastaem: kuaet rum, gud laet, glas mo hearing aid i stap long hed, TV i ofu, wan gem i redi."
+  - "No korektem ol harmles mistek. Talem \"Yumi traem long narafala wei\" o jus gobaot."
+  - "Mekem gem i isi bifo frastreson i kamap: smol pikja, smol jus, pikja i stap yet long skrin."
+  - "Usum pikja olsem stat blong stori wetem \"Tell me about...\" no \"Yu rememba...?\""
+  - "Stopem long fastfala saen blong taed o sori. Stopem erli i sakses, no fel."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Hao long nao yumi sud pleiem wan gem?"
+    a: "I no gat wan rait leng. Long plante man, sam minit i inaf, mo long sam dei wan raon i inaf. Lukim man ya, no klok, mo stopem taem hem i stap yet i relaks."
+  - q: "Sud mi letem hem i win, o pretendem se mi no lukim ol mistek?"
+    a: "Long wan gem we yumi pleiem tugeta wetem presa we i smol, i no gat wanem we i win o lus. Sipos mistek i no wari man ya, letem i go. Sipos i wari hem, helpem hem stil o mekem gem i isi long nekis raon, be no poentem long mistek."
+  - q: "Wat sipos hem i laekem moa blong lukim mi pleiem?"
+    a: "Hemia i oraet. National Institute on Aging i sajestem blong letem man ya jus lukim sipos hem i laekem moa. Tokbaot wanem yu lukim mo invaetem hem blong poentem o jusum taem hem i wantem."
+  - q: "Ol gem ya i wan wei blong tesem memori?"
+    a: "No. Ol gem blong mifala i ol simpol sherd aktiviti blong fan mo tok. I no memori test, i no mesurem wanem, mo i no trit dementia."
+  - q: "Wanem gem i gud blong stat wetem?"
+    a: "Stat wetem simpol wan we i fitim man ya. Picture Pairs wetem 4 tael mo ol pikja i stap yet, o Find the Same wetem 2 jus, i olsem gentel stat. Conversation Cards i gud sipos man ya i laekem tok moa long tjapem."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Wan gud gem wetem wan man we i laef wetem dementia i no olsem wan kompitisen. I olsem tufala man we oli sidaon klosap, oli poentem ol pikja, oli laf long wan saen, mo oli tokbaot wanem we i kamap. Gem i jus wan rison blong spendem taem tugeta.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Gaed ia i kavremap hao blong setap, hao blong setem spid blong gem, wanem blong talem taem wan samting i "rong", hao blong mekem eni gem i isi o i harem smol, hao blong jenisim i kamap wan tok, mo hao blong save taem blong stopem. I wok long [gem blong mifala](/games/) mo long ol kad, ol puzzle mo ol bod gem we yu alredi gat.
 
-## What is the best way to play a game with someone who has dementia?
+## Wanem nao i gud wei blong pleiem gem wetem wan man we i gat dementia?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Fokas long fil gud, no long wanem we yu kasem. Hemia i main advaes long [gaedens blong Alzheimer's Association long ol aktiviti](https://www.alz.org/help-support/caregiving/daily-care/activities): bildim ol skil we man ya i stil gat, helpem hem stat, finisim ol hard hap yu wan, mo no kritisaisim o korektem ol harmles aktiviti.
 
-In practice that means:
+Long praktis, i minim:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Sidaon klosap long hem, no oposit.** Taem yufala i sidaon kolsap, yufala tufala i save lukim skrin o tebol, mo helpem i kam olsem teamwok, no olsem wan man we i lukaotem.
+- **Ofarem wan gem long wan taem.** Wan lis blong ol jojis i save mekem man i fil olsem test bifo eni samting i stat.
+- **Folem wanem hem i lidim.** Sipos hem i wantem taemap ol pikja long hem wan oda, toktok long wan pikja long tenminit, o stopem afta tu tan, datfala i gem blong dei ia.
+- **Kaontem ol gud taem, no ol raon we oli finis.** Wan smael, wan stori, o wan kuaet haf aoa, datfala i rizolt we yu stap lukaotem.
 
-## How do I set up before we start?
+## Hao mi sud setap bifo mifala stat?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Sam minit blong setap i stopem plante frastreson we man i blem long gem ya.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Jusum taem we i gud long hem long dei.** [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i sajestem blong planem aotin mo aktiviti long taem we man ya i stap gud moa. Long plante man, i midmoning. Let aftanun i oftin harder; lukim [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+2. **Mekem rum i kuaet.** Ofem TV mo redio, mo lokem dua sipos yu save. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i ridim blong limitim noes mo ol distraksen bifo yu traem toktok.
+3. **Jekem komfoa fastaem.** Wan drink klosap, bathroom bifo, wan gud jea, mo glas mo hearing aid i stap long hem.
+4. **Laetem spes we i gud.** Laet we i brait mo i stap even, no i glea long skrin, i mekem ol pikja i isi blong lukim.
+5. **Redim gem bifo yu sidaon.** Opem, jusum setting, mo setem volium yu wan. Then tanem skrin i kam long hem. Long ol tips blong tablet, lukim [setting up a tablet or phone](/caregiving/tablets-and-screens/).
+6. **Putum divaes i stanap.** Wan stand o kes we i holem tablet i stanap, so nobaodi i nid holem, mo i isi blong poentem.
 
-## How do I invite them without pressure?
+## Hao mi invaetem hem wetem no presa?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Mekem invitesen i kasual mo i isi blong refusem. Sam tok we i kasem gud:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Mi faenem sam pikja blong gaden. Yu wantem lukim tugeta wetem mi?"
+- "Yu save helpem mi long dis puzzle? Mi stap long wan ples we mi no save go."
+- "Yu wantem ol flaoa o ol bed tedei?" (jusum long tu i isi moa dan wan opin kwestin)
+- "Mi wokem wan kad blong sista blong yu. Wanem kala we i gud long hemia?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association i sajestem blong eksplenem papos blong wan aktiviti, olsem mekem wan kad blong wan fren, from wan rison i givim minin long hem. Askem help i wok tu, from hem i letem man ya i fil hem i yusful.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Sipos hem i talem no, aksept it. Traem gen bihaen o ofarem wan narafala samting. Gaed blong mifala long [wanem blong duim taem hem i talem no](/caregiving/when-they-say-no/) i go moa.
 
-## How long should a game last, and how fast should we go?
+## Gem i sud long hao taem, mo hao kuik yumi sud go?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Letem man ya i setem spid, mo planem ol sot sesen. I no gat wan ideal leng we i bes long wan shea gem, we i bes long evidens. Tu o faev kuaet minit i inaf blong wan kompleit aktiviti.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Wet moa dan wanem we i naturol.** NIA i advaesem blong givim taem blong man ya i ansarem, mo traem no intarapt. Kaontem ten long hed bifo yu helpem.
+- **Wan step long wan taem.** Givim wan sot instraksen ("Taemap wan pikja"), then wet. Soem, no eksplen: poentem wea blong taemap.
+- **Stopem sipos i nidim.** Sipos hem i stopem blong toktok long wan pikja, gem i save wet. I no nid blong rush.
+- **Letem hem lukim.** NIA i notisim se sam man i prefarem blong lukim, mo datfala i wan valid jois.
 
-## Should I correct wrong answers?
+## Sud mi korektem ol rong ansa?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+No. Korektem man ya gen mo gen i mekem hem i fil se hem i fel, even sipos yu minim gud. Alzheimer's Association i advaesem se no korektem o kritisaisim ol harmles aktiviti. Long gem, nearly evri mistek i harmles.
 
-| Instead of | Try |
+| No yusum | Traem |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "No, datfala i rong." | "Yumi traem long narafala wei." (wan egsempol we NIA i givim) |
+| "Datfala i no match. Lukim gen." | Nating, o jus tekem nekis tan, o "O, tufala i red." |
+| "Yu rememba hu nao hemia?" | "Tellem mi abaot pikja ia." |
+| "Yu duim finis datfala ia pinis." | "Datfala i gud wan. Yumi duim gen." |
+| "Kam nao, yu save long hemia." | "Yu wantem mi soem ending?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Sipos wan mistek i wari hem klia, helpem hem stil. Poentem raet pikja, tekem wan tan yu wan, o mekem gem i isi long nekis raon. Sipos wan saen i gat wan fani rong ending, laf wetem hem. Ending blong hem i fo i gud moa.
 
-## How do I make a game easier or harder?
+## Hao mi mekem wan gem i isi o i harem smol?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Adjustem gem long man ya long dei, no long wan stej label. Sem man ya i save nidim wan simpol vesen long aftanun dan long moning. Fastfala tip blong NIA i blong matsem aktiviti wetem wanem we man ya i save duim, mo mekem sua se hem i fil se hem i sakses.
 
-| Game | Make it easier | Make it a little harder |
+| Gem | Mekem i isi | Mekem i harem smol |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Stat wetem 4 tael mo lif ol pikja i stap yet | Moa tael, o haedem ol pikja sipos hem i fil gud long hem |
+| [Find the Same](/games/find-the-same/) | 2 jus | Kasem 4 jus |
+| [Sort Together](/games/sort-together/) | Yu holem pikja, hem i poentem basket | Hem i taptem pikja mo basket hemwan |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 pis, toktok long fulpiks fastaem | 9 pis |
+| [Finish the Saying](/games/finish-the-saying/) | Soem ending, then talem tugeta | Letem hem talem ending bifo hem taptem |
+| [Word Search](/games/word-search/) | Prin, lukim wan wed tugeta, poentem fastfala leta blong hem | Letem hem jusum nekis wed blong faenem |
+| [Coloring](/games/coloring/) | Yu jusum tu kala, hem i jusum long tufala | Hem i jusum evri kala |
+| [Conversation Cards](/games/conversation-cards/) | Jus lukim pikja tugeta | Yusum ol open prompt long kad |
+| [Photo Pairs](/games/photo-pairs/) | Sam famle foto we oli gud long hem | Putum moa foto |
+| [Picture Bingo](/games/picture-bingo/) | Wan helpa sidaon klosap long wan man | Pleya i markem kad blong hem wan |
+| [Calm Breathing](/games/calm-breathing/) | Jus sidaon mo lukim tugeta | Brif slou wetem |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Sain we gem i tumas hadfala: longfala stop we i lukim olsem i wari, no i tingting; ripit "mi no save"; pusum divaes i go; o ol mistek we i mekem hem i sore. Sain we i maet tumas isi: i bored, o hem i talem se i olsem pikinini. Sipos olsem, respektem it mo jenisim long wanem we i fil olsem i olfala, olsem wan word search, wan puzzle blong wan real foto, o toktok long wan pikja blong wok we hem i wokem bifo.
 
-## How do I turn a game into a conversation?
+## Hao mi jenisim gem i kamap wan tok?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Usum long pikja wan invaetesen blong toktok, mo treatem eni wanem we hem i talem olsem wan gud ansa. Long plante famle, hemia i best pat blong pleiem.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Askem open kwestin, we i no gat rong ansa.** "Wanem nao yu lukim?" "Wanem nao yu laekem?" "Tellem mi abaot wan kitchen olsem hemia."
+- **Fastaem, sherem yu wan.** "Grendad blong mi i gat wan dog olsem hemia." Stori blong yu i mekem hem i isi blong sherem wan blong hem.
+- **Folem tangen.** Sipos wan pikja blong kar i lidim i go long wan stori blong wan rod trip, datfala stori i aktiviti. Lif gem i stap pos.
+- **No mekem fakt-tjek.** Long rimenisens, wan kaen tok i impoten moa dan ol kwaet detel. Sipos stori i jenis long lastaem, injoem nyufala vesen.
+- **Usum ol prompt we i stap long ol gem.** [Finish the Saying](/games/finish-the-saying/) i followem wan talking prompt long wan saen, mo [Conversation Cards](/games/conversation-cards/) i dizaen exaktli blong datfala. [Photo Pairs](/games/photo-pairs/) i yusum ol famle foto blong yu wan, we oftaem i sparkem ol richis stori.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Moa aedia i stap long ol gaed blong mifala long [rimenisens aktiviti](/activities/reminiscence/) mo [komunikesen tips](/caregiving/communication-tips/).
 
-## When should we stop?
+## Eniwan taem sud mifala stopem?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Stopem long fastfala saen blong taed o sori, mo gud i moa sipos yu stopem wan smol bifo. Alzheimer's Association i advaesem blong stopem o jenisim aktiviti taem atensen i ded o frastreson i go antap.
 
-Watch for:
+Lukaotem:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- yawn, slump, o ae i drift i go awe long skrin;
+- fidget, stanap, o askem blong go;
+- sa, sot ansa, o "Mi no gud long dis";
+- taptem nating o pusum divaes i go;
+- krae, kros, o wan sudden jenis long fil.
 
-How to stop well:
+Hao blong stopem gud:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Finisim long wan samting we i isi.** Wan last mesej we hem i save mekem, o wan final pikja blong lukim.
+- **Mekem i abaot yu.** "Mi laekem wan kap tea. Yumi stopem hemia nao?" i avoidem eni hint se hem i bin duim nogud.
+- **Jenisim i go long wan samting we i fizikol o i kuaetem.** Wan smol wok, wan snak, fold laundry, o miusik.
+- **Talem wan warm tok.** "Mi laekem taem we yumi duim datfala tugeta." No praes blong "kasem rait", jus glad blong taem we yumi stap tugeta.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Stopem erli, jenisim plan, o lusum gem mo jus sidaon tugeta, ol datfala i gud rizolt.
 
-## Can we play in a group or over a video call?
+## Eni kanaem mifala i save pleiem long wan grup o long wan video kol?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Yes, wetem sam extra setap. Long wan grup, kipem i lelebet pipol, sidaonem ol helpa klosap long eni man we i nidim, mo jusum wan gem we i gat wan klia sherd fokas. [Picture Bingo](/games/picture-bingo/) i gat ol kad we yu save prin mo wan caller long skrin blong ol grup. Lukim [aktiviti blong ol grup long care home](/activities/care-home-groups/) blong moa.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Long wan video kol, man we i stap long kol i save discrib wan pikja, mo wan narafala we i stap long rum i poentem mo taptem. Kipem ol kol i short mo fasin we hem i save. Gaed blong mifala long [fon mo video kol](/activities/phone-and-video-calls/) i gat moa tips.
 
-## What if a game just isn't working?
+## Wanem sipos wan gem i no wok?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Sam dei nating i wok, mo datfala i no samting we i kasem yu o hem. Putum gem i go, mo traem wan narafala taem long dei, wan difren gem, o no gem nating. Plante gud aktiviti i nating long skrin: miusik, folem tauel, lukim wan foto album, o wan smol wok. Lukim ol [aktiviti aedia](/activities/ideas/) blong moa.

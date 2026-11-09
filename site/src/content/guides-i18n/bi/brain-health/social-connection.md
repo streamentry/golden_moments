@@ -1,32 +1,28 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Konekson mo Dementia: Lonelines, Stap Wan Nomo mo Risk"
+seoTitle: "Lonelines, Stap Wan Nomo mo Risk Blong Dementia"
+description: "Hao lonelines mo stap wan nomo oli konektem wetem risk blong dementia, wanem advaesri blong Surgeon General i talemaot, mo ol fasin we i simpol blong stap konektem tugeta."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Ol risej oli soemaot se stap wan nomo mo lonelines long laef blong ol olfala i konektem wetem wan big risk blong dementia. Lancet Commission long 2024 i tingting se stap wan nomo i kosem abaot 5% long ol kes, be sam long dis link i maet kam from erli dementia we i mekem man i stap wan nomo. Kipim kontak, ol aktiviti we ol man i laekem tugeta, mo help long hiring i sapotem konekson. Long ol pipol we oli stap wetem dementia, ol aktiviti we ol sherem i impoten long glad mo kwaliti blong laef.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Commission i lisimaot stap wan nomo long laef blong ol olfala olsem wan long 14 risk factor blong dementia we yumi save jenisim, we i kosem abaot 5% long ol kes."
+  - "Advaesri blong US Surgeon General long 2023 i konektem lonelines we i stap long longfala taem mo stap wan nomo wetem abaot 50% big risk blong dementia long ol olfala."
+  - "Plante long dis evidens i kam from ol obsevesen, mo erli dementia i save mekem man i kam wan nomo long ol narafala."
+  - "Trabol long hiring mo lukaot, laef wetem nobodi, mo kea long narafala, ol samting ya evri i rod blong mekem risk blong stap wan nomo i go antap."
+  - "Long ol pipol we oli stap wetem dementia, ol aktiviti we ol sherem we oli glad i sapotem kwaliti blong laef; gol i konekson, nating blong mekem gud wok."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Eis lonelines i mekem dementia?"
+    a: "Hemia i no bin pruvum yet. Plante stadi i konektem lonelines mo stap wan nomo wetem bigfala risk blong dementia, be ol jenis long bren long erli taem i save mekem man i pulum hem seleva i go bak long ol narafala. Stap konektem i gat plante narafala gud samting long fil mo helt, so i gud blong sapotem hem long eni wei."
+  - q: "Wanem i difren bitwin lonelines mo stap wan nomo?"
+    a: "Stap wan nomo i minim se i nogat plante man we yu save tok wetem long olgeta taem. Lonelines i fil we i had blong stap wan nomo o i stap apat. Yu save stap long haos wetem yu seleva mo no fil lonely, o yu save fil lonely taem plante man i stap raonem yu."
+  - q: "Hao mi save helpem papa o mama we i gat dementia blong stap konektem?"
+    a: "Kontak we i sot mo i kam olgeta taem i wok gud. Traem wan fiks kol o video jat evri wik, wan aktiviti we yu duim tugeta long tebol blong kitjin, wan memory cafe, o wan visit wetem wan animol o pikinini blong hem. Kipim ol grup i smol mo i kwaet, mo lusim man ya i setem spid blong hem."
+  - q: "Wea mi save faenem lokal help blong wan olfala we i stap wan nomo?"
+    a: "Eldercare Locator, wan publik sevis long Yunaeted Stet, i konektem famle wetem ol lokal ejensi blong ol olfala mo ol komuniti program. Yu save kolem long 800-677-1116 o go long eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Ol man oli wantem stap wetem ol narafala, mo dat no save jenis we oli kamap olfala. Ol risej oli konektem lonelines mo stap wan nomo long laef blong ol olfala wetem wan bigfala risk blong dementia, mo tu wetem heart disease mo depresen. Ol risej oli no save yet hao bigwan long dis link i kosem samting mo i rizolt blong hem. Pej ya i talemaot wanem evidens i soemaot, ol fasin blong stap konektem we oli praktikal, mo wanem i mekem ol sherd aktiviti i impoten tumas long ol man we oli already stap wetem dementia.
 
-## Are loneliness and isolation linked with dementia?
+## Lonelines mo stap wan nomo i konektem wetem dementia?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Yes, plante stadi i konektem olgeta, be i no klia yet long wanem direksen. [Lancet Commission long 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) i lisimaot stap wan nomo long laef blong ol olfala olsem wan long 14 risk factor we yumi save jenisim. [Sumari blong UCL long ripot ya](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) i talem se i kosem abaot 5% long ol kes blong dementia long wol.
 
-What the evidence shows:
+Wanem evidens i soemaot:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Less kontak, bigfala risk.** Commission i talemaot tu ol risej we oli konektem kontak we i no oftas wetem bigfala risk blong dementia. Wan i faenem abaot 57% big risk, mo narafala i faenem abaot 18%.
+- **Lonelines tu.** Lonelines, we i fil olsem yu stap apat, i konektem tu wetem bigfala risk blong dementia long plante risej.
+- **Vyu blong Surgeon General.** Long mun May 2023, US Surgeon General i talemaot wan [advaesri long lonelines mo stap wan nomo](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Hem i talem se longfala lonelines mo stap wan nomo i save raosem risk blong dementia abaot 50% long ol olfala. Hem i konektem tu nogud konekson wetem 29% big risk blong heart disease mo 32% big risk blong stroke.
+- **Hao i komon.** Wan [ripot blong National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) i faenem se abaot 24% long ol Amerikan we oli 65 yia o olfala mo oli stap long komuniti, oli stap wan nomo long sosol laef.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Wan impoten warning: Lancet Commission i notisim se ol man i save lesem ol sosol aktiviti long erli taem blong dementia we no bin dagnosem yet. Olsem na sam long link i save kam from dementia we i mekem man i pulum hem seleva, no nomo from stap wan nomo we i rasim risk. Olgeta klostu long evidens ya i kam from ol obsevesen stadi.
 
-## What is the difference between loneliness and isolation?
+## Wanem i difren bitwin lonelines mo stap wan nomo?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) i eksplenem long ples ya. **Stap wan nomo** i minim se yu gat smol sosol kontak o smol man we yu save tok wetem long olgeta taem. **Lonelines** i fil we i hatem, we yu fil yu stap wan nomo o yu stap apat. Wan man i save stap wan nomo long haos mo i glad, mo wan narafala i save fil lonely long wan haos we i fulap long man.
 
-The NIA lists factors that raise the risk of both:
+NIA i lisimaot ol samting we i rasim risk blong tufala:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Trabol long hiring o lukaot
+- Had blong muv raonem, o nogat transport
+- Laef wetem nobodi, o wan bigfala los olsem heself blong man i ded o taem blong retairem
+- Jenis long memori o tingting
+- Kea long wan man we i nogat helt
+- Trabol long mani o langwis
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Hiring i wan bigfala samting. NIA i talem se ol man we oli no save hirim gud i save pulum hemseleva i go bak, from konvesesen i kam hard o i kisem sem. Yumi gat [gaed blong hiring mo gud bren](/brain-health/hearing/) we i kavarem ol hiring jek mo ol hiring ed we yu save baem long ples we i nogat dokta blong presiribem.
 
-## Practical ways to stay connected
+## Ol fasin we i stret blong kipim konekson
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA i sajestem plante aedia. Jusum wan o tu we i fit:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Setem regula kontak.** Wan taem we i fiks long wan dei o wan wik blong kolem, mesej, imelem o salem wan kad long famle, fren o neba.
+- **Yusum video kol o smart spika.** Sipos tenolej i nyuan long yu, plante fri laebri mo komuniti senta i gat klas. Lukim [gaed blong fon mo video kol](/activities/phone-and-video-calls/) blong yumi.
+- **Joinem wan samting.** Wan klas, wan jojo komuniti, wan wokabaot klab o wan volante wok i givim yu kontak mo wan fil se yu gat wan rol.
+- **Tanem bak wan oltaem hobi** o lanem wan nyuwan wetem ol narafala man.
+- **Muv wetem ol narafala.** Wokaot o wokaotem wan fren o wan grup. Yumi gat [gaed blong fitnes](/brain-health/exercise/) wetem ol isi jois.
+- **Tingting long wan animol** sipos yu save kea long hem.
+- **Yusum lokal sevis.** Senior sentas, Area Agencies on Aging mo Eldercare Locator (800-677-1116, sevis long Yunaeted Stet) i save soem yu ol program mo transport.
 
-## Why do shared activities matter in dementia?
+## From wanem ol sherd aktiviti i impoten long dementia?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Long wan man we i already stap wetem dementia, konekson i long glad, komfot mo fil se oli inklud hem, no long redaksen blong risk. Lancet Commission i talem se ol aktiviti i helpem ol man we oli gat dementia blong kipim glad mo wan samting blong mekem. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i notisim se, aside long improvem kwaliti blong laef, ol aktiviti i save redusum ol fasin olsem wandering o agitesen. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i adem se ol man we oli gat Alzheimer's i nid blong muv mo duim ol samting we oli laekem.
 
-Ideas that work well:
+Ol aidia we i wok gud:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Lukluk ol piksa tugeta.** [Conversation Cards](/games/conversation-cards/) i givim ol open prompt we nogat kwestin blong pas, olsem "Tokem mi long..." Lukim [gaed blong reminisens](/activities/reminiscence/) blong yumi.
+2. **Pleyem wetem fasin we yu sitdaon sensis.** [Picture Pairs](/games/picture-pairs/) i kipim ol piksa i stap luk, mo i nogat taem o skoa, so i nogat pesa. Gaed blong yumi long [hao blong pleyem tugeta](/caregiving/how-to-play-together/) i gat ol tips.
+3. **Yusum famle piksa.** [Photo Pairs](/games/photo-pairs/) i jenisim ol piksa we yu jusum into wan matjing gem, mo ol piksa ya i stap long divaes blong yu.
+4. **Bringim ol man tugeta.** [Picture Bingo](/games/picture-bingo/) i gud long famle miting mo [grup long care haos](/activities/care-home-groups/).
+5. **Sherem musik, wok long haos o gaden.** Lukim [aktiviti blong musik](/activities/music/), [wok long haos](/activities/household-tasks/) mo full lis blong [aidia blong aktiviti](/activities/ideas/).
+6. **Mekem visit i isi.** [Gaed blong visit](/activities/visiting/) blong yumi i kavarem ol sotfala mo kuaet visit we i gud long evriwan.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Mekem i smol mo i isi. Wan kuaet rum wetem wan o tu man i wok gud moa long wan bigfala grup. Sipos man i kaen o i lus intres, i oraet blong stopem. Sitdaon tugeta wetem wan kap ti i wan gud rizolt tu.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Long wan man we i stap wan nomo wetem dementia, NIA i sajestem blong faenem wan trastem man we save visit o video kol olgeta taem mo i save kam olsem wan emejensi kontak. I talem tu long wan memory cafe lokal, wan isi sosol ples long ol man we oli lus memori mo famle blong olgeta.
 
-## Caregivers get lonely too
+## Ol man we oli kea long narafala tu oli save fil lonely
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA i lisimaot kea long wan famle man olsem wan risk factor blong stap wan nomo. Protectem sam taem blong ol fren blong yu seleva, ol grup blong sapot mo rest. Gaed blong yumi long [kea blong yu seleva](/caregiving/caregiver-self-care/) i gat ol praktikal aidia.
 
-## Talk with a doctor
+## Tok wetem dokta
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Sipos yu o man we yu kea long hem i fil lonely o stap wan nomo long bigfala taem, tokem long dokta. NIA i encouragem ol man blong sherem ol bigfala jenis long laef, olsem wan ded long famle, blong dokta i save ful pikjja. Fil daon long plante wik i save kam depresen, mo i save trytmen. Sipos wan olfala i jas lusum kontak wetem fren o ol aktiviti we hem i laekem bifo, jenis ya i gud blong tokem long dokta tu. Ridim [ol erli saen mo taem blong lukim dokta](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Pej ya i jus givim ol nomal infomesen, i no medikol advaes. Lukim [medikol disklema blong yumi](/medical-disclaimer/).

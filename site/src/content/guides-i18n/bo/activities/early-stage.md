@@ -1,32 +1,28 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པའི་ལས་ཀ་ཚུ"
+seoTitle: "བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པའི་ལས་ཀ། འཐད་པའི་བསམ་ཚུལ་ཚུ"
+description: "བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པའི་ལས་ཀ་གི་བསམ་ཚུལ་ཚུ། ཉམས་དགའ་བའི་ལས་ཀ་དང་རྩེད་མོ། ཕྱིའི་འགྲོ་ལམ། ཡིག་འབྲི་དང་ཉིན་རེའི་ཐོ་འགོད་མཉམ་བྱེད་པ་ཚུ། ཁོ་ཚུ་ཉམས་དགའ་བ་དང་རང་དབང་ལས་བརྒྱུད་ནས་སྡོད་ཚུགས་པའི་ཆུང་བའི་འགྱུར་བ་ཚུ་དང་བཅས།"
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པ་ལ་མི་ཤུམ་ཅིག་གིས་ཉམས་དགའ་བའི་ལས་ཀ་ཚུ་ཧ་ལམ་ཡང་བྱེད་ཚུགས། དཔེར་ན་ཤོག་བུ་དང་སྒོ་ཐོག་གི་རྩེད་མོ། ཟས་ཚོད་བཟོ་བ། ཤིང་ལ་ཁ་གཏོར་བ། འགྲོ་ལམ། གླུ་གཞས། ཆོས་ལུགས་དང་ཚོགས་པའི་ལས་ཀ། ཁེ་ཕན་མེད་པའི་ལས་འགན་ཚུ་ཡིན། འགྱུར་བ་ཚུ་ཚོགས་ཆུང་དང་དུས་ཚོད་ཐུང་ཀུ་ལ་ཁ་ཕྱེ་ནས། ཡིག་ཐོག་གི་ཐོ་འགོད་ཆུང་ཀུ་དང་། ཉེ་འཁོར་ལ་རྒྱབ་སྐྱོར་བྱེད་པའི་མི་ཅིག་ཡོད་པ་ཞིག་ཡིན། མི་ལ་རོགས་རམ་གང་འདོད་ཚུ་དྲིས་ཏེ། ལས་ཀ་ཚུ་ཁོ་ཚུ་ཧ་གོ་ལུ་གཏོང་།
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པའི་ནད་པ་མང་ཆེ་བ་ཞིག་ལ་རང་དབང་ཡོད་པའི་ཆ་ཤས་ཧ་ལམ་ཡོད། ལས་ཀ་ཚུ་གཏན་ནས་སྤོ་མི་དགོས། ཆ་ཤས་ཅུང་ཙམ་ལེགས་སྒྲིག་བྱེད་ན་ཧ་གོ་བདེ།"
+  - "མི་ལ་རོགས་རམ་གང་འདོད་ཚུ་དྲིས་ཏེ། རོགས་རམ་དགོས་པའི་ཐེངས་ཀྱི་བརྡ་རྟགས་ཅིག་ཆ་མཐུན་འཇོག་ཡོ།"
+  - "ཚོགས་ཆུང་དང་ཞི་བདེའི་དུས་ཚོད་དང་ཐུང་ཀུའི་འགྲོ་ལམ་ཚུ་གིས་ཁྱད་པར་ཆེ་ཤོས་ཡོང་ཚུགས།"
+  - "ཁོང་གི་རང་གི་ཚེ་ལོ་གི་ལས་འགུལ་ཚུ། དཔེར་ན་ཉིན་ཐོ་ཡང་ན་ཚེ་རབས་ཀྱི་དེབ་ཅིག་ལ་མི་ལ་ཁས་ལེན་བྱེད་ཀྱི་ཡོད། ཐེངས་འདིར་ཁོང་ཐོག་མཐུད་དུ་ལས་ཀ་ཁ་ཕྱེ་བ་ཡིན།"
+  - "རྩེད་མོ་ནི་ཉམས་དགའ་བའི་དོན་ལ་གདམ་ཁ་བྱེད། བརྟག་དཔྱད་ཀྱི་ཚུལ་དུ་སེམས་ཤོར་ཅན་ཡང་ཡོད་ན་བཞག་ཞིག།"
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པ་ལ་ལས་ཀ་གང་ཡང་ལེགས་ཡོད་དམ།"
+    a: "མི་ཁོང་གིས་ཧ་ལམ་ཉམས་དགའ་བའི་ལས་ཀ་ཚུ་ཡིན་པ་ཅིན་ཡང་། དཔེར་ན་ཤོག་བུ། ཟས་ཚོད་བཟོ། ཤིང་ལ་ཁ་གཏོར། འགྲོ་ལམ། གླུ། ཆོས་ལུགས་ཀྱི་ལས་ཀ། ཚོགས་པ་དང་ཁེ་ཕན་མེད་པའི་ལས་ཀ་ཚུ་ཡིན། ཁྱེད་ཀྱིས་ཐུང་ཀུ་ཡང་ན་ཞི་བདེ་ཡང་ན་སླ་བ་ཞིག་བཟོ་དགོས་ཡོད་ཚུགས། ཉིན་ཐོ་འབྲི་བ། ཡིག་ཟུར་བརྐོ་བ། ཚེ་ལོའི་དེབ་བཟོ་བ་ཚུ་ཡང་བརྗེད་ནོར་ནད་ཀྱི་རིམ་པ་འདིར་འཐད་ཅི།"
+  - q: "ངས་མི་ལ་ལས་ཀ་ཆ་ཚང་ཁོང་ལས་ཁ་མ་ཕྱིར་ཞིང་རོགས་རམ་བྱེད་ཚུལ་ཅི་ཡིན།"
+    a: "མི་ལ་རོགས་རམ་གང་འདོད་དྲིས་ཏེ། ཐེངས་ཤུམ་ཤུམ་ནང་ལ་གཤམ་ཞིབ་བྱེད་ཞིག། ཚིག་ཡང་ན་མགྲིན་ཕྱོགས་ཅིག་ཚུ་ཆ་མཐུན་འཇོག་ཞིག་གིས། ཚིག་ཡང་ན་མིང་ཅིག་བརྗེད་ཀྱི་ཡོད་པའི་ཐེངས་ལ་ལྟོས་ཏེ་འཇུག་ཚུགས་ཟེར་བའི་བརྡ་རྟགས་ཅིག་འཇོག། ཉེན་ཁ་མེད་ན་མི་ལ་ཁོང་གི་ཐབས་ལམ་ཐོག་ལས་ལས་ཀ་བྱེད་པ་དང་། དུས་ཚོད་ཅུང་རིང་ཡང་ལུ་ཤེས་ཡོང་།"
+  - q: "བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པ་ནང་ལས་ཀ་གསར་པ་ཞིག་སྨྱོན་ན་ཧ་གོ་བདེ་ཡིན་ནམ།"
+    a: "མི་ལ་འདོད་པ་ཡོད་ན་ཡིན། ཤེས་ཟིན་པའི་ཉམས་དགའ་བ་ཚུ་ཧ་ལམ་ལས་སླ་ཤོས་ཡིན། དེ་ཡང་མི་མང་པོ་ཅིག་གིས་གསར་པ་ཞིག་ལ་ཉམས་དགའ་བ་ཡོད། དཔེར་ན་བརྗེད་ནོར་ནད་ལ་ཧ་གོ་བདེ་བའི་འགྲོ་ལམ་ཚོགས་པ། རི་མོ་སློབ་གྲྭ། ཡང་ན་གླུ་ཚོགས་པ་ཚུ་ཡིན། གཅིག་ཅིག་རང་ཉེན་མེད་པ་ཞིག་ལ་སྨྱོན་ཏེ་ཁོང་གི་ཚོར་བ་ཇི་ལྟར་ཡོད་ངེས་བལྟ།"
+  - q: "ཤེས་རྟོགས་སྦྱོང་བའི་ཉེན་ཁ་ཡོད་པའི་ཡིག་ཆ་ཚུ་རིམ་པ་དང་པོ་ལ་དགོས་པ་ཡོད་དམ།"
+    a: "མི་ཅིག་ལ་རྩེད་མོ་དང་ཚིག་རྩེད་ཀྱི་ཉམས་དགའ་བ་ཡོད། དེ་ནི་ཁོང་གི་ཉམས་དགའ་བ་དེ་ཉིད་ཀྱི་རྒྱུ་མཚན་ཡིན། གང་ཡང་ཡིག་ཆ་ཡང་ན་རྩེད་མོ་ཅིག་གིས་བརྗེད་ནོར་ནད་ཀྱི་རྣམ་པ་བཅོས་ཡང་ན་ཞི་བ་བྱེད་ཚུགས་ཟེར་བ་ཅིག་ཡང་སྟོན་མ་བཏང་། རྩེད་མོ་འདི་གིས་སེམས་ཁམས་ཧ་ལམ་བཀྲོང་ཞིང་མི་ཁོང་ལ་ཕམ་པ་ཞིག་ཡོད་པ་འདྲ་བ་ཅིག་བསམ་ན་བཞག་ཞིག།"
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +44,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པ་ནང་། མི་མང་པོ་ཅིག་གིས་སྔོན་ལྟར་ཞིང་ཁ་ཅིག་ནས་ཡོད་བཞིན་སྡོད་ཀྱི་ཡོད། ཁོང་ཚུ་ལཱ་ཡིག་བྱེད། ཐབས་ལམ་སེམས་ཅན་བསམ་མི་ལ་རེ། ལྷག་བསམ་ཚུ་བྱེད། ཉིན་རེའི་ལས་ཀ་ཆ་ཤས་ཧ་ལམ་ཁོང་ཚུ་རང་གིས་ཐོ་འཇོག་བྱེད་ཀྱི་ཡོད། ལས་ཀ་ཚུ་གཏན་ནས་སྤོ་དགོས་མེད། ཆ་ཤས་ཅུང་ཙམ་ལེགས་སྒྲིག་བྱེད་ན་ཉམས་དགའ་བ་ཡོད་ཀྱི་ཡོད། ཁྱེད་ཀྱི་འགན་འབྱེད་ནི་རྒྱབ་སྐྱོར་བྱེད་མཁན་ཞིག་ལས་ཚུ་འདེ་ཡང་ཁོང་ཚུ་དང་མཉམ་དུ་འགྲོ་མཁན་དང་མཉམ་ལས་ཀ་བཟོ་མཁན་ཞིག་ཡིན། རོགས་རམ་དགོས་པའི་ཐེངས་ལ་ཁོ་རང་འཇུག་བྱེད་ཚུགས།
 
-## What activities are good in early-stage dementia?
+## བརྗེད་ནོར་ནད་དང་པོའི་རིམ་པ་ནང་ལ་ལས་ཀ་གང་ཡང་ལེགས་ཡོད་དམ།
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+རིམ་པ་དང་པོ་ནང་ལས་ཀ་ལེགས་ཤོས་ནི་མི་ཁོང་གིས་ཧ་ལམ་མགུ་བའི་ལས་ཀ་ཚུ་ཡིན། དེ་ཡང་ཆ་ཤས་སླ་བ་ཞིག་བཟོ་ནས་ཡིན། [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ནང་ལ་ཤོག་བུ་དང་སྒོ་ཐོག་གི་རྩེད་མོ། ཚིག་རྩེད། འགྲོ་ལམ། ཁ་བསྐོར། ཤིང་ལ་ཁ་གཏོར། མེ་ཏོག་སྒྲིག་འཇོག། སྤྲོས་གླེང་། ཡིག་འབྲི། ཚེ་ལོའི་ཡིག་ཟུར་བརྐོ། ཟས་ཚོད་བཟོ། ལོ་རྒྱུས་ལས་ཀ་ཚུ་ཐོ་བཀོད་བྱེད་ཀྱི་ཡོད།
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+ལས་ཀ་ཚུ་ཡར་ལྟ་ན་ཡང་ས་སྒོ་དང་ཡིན་མི་ཚུ་ཡིན་པ་ཅིན། ཁྱད་པར་ཆེ་ཤོས་ནི་གནས་ས་དང་ཐབས་ལམ་ཡིན། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) གིས་སྐོར་ལ་བཤད་པ་ནི་རིམ་པ་དང་པོ་ནང་ལ་མི་ཁོང་གིས་ཉམས་དགའ་བའི་ལས་ཀ་ལས་ཕྱིར་ལྡོག་བྱེད་ཚུགས། དཔེར་ན་ཚོགས་ཆེན་ནང་ལ་སེམས་འཁྲུག་ཡོད་པའི་མི་ཅིག་ཚོགས་ཆུང་ནང་ལ་ལེགས་པར་བཏོན་ཡོད་ཟེར་ནས་དཔེ་དེ་བཀོད་ཡོད། ལས་ཀ་ཁ་ཅིག་གིས་ཧ་གོ་ཆེ་ཚུགས་པ་ཚུ་ཧ་ལམ་གསལ་པོ་བྱེད་ཞིག། ཁྱེད་ཚུ་གཞན་ལ་ཡང་ཁ་ཕྱེ་ཞིང་ཐབས་ཀྱི་མཉམ་ལེགས་སྒྲིག་བྱེད་ཞིག།
 
-## Ask first, and agree on how to help
+## རང་ལ་རོགས་རམ་དྲིས་ཏེ། རོགས་རམ་བྱེད་ཚུལ་ལ་མཉམ་ཆད་བྱེད།
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) གིས་ལས་ཀ་ལ་ཡང་འཐད་པའི་སྤྱད་ལམ་ཁ་ཤས་བཀོད་ཡོད།
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **ཐེངས་འདིར་ཐད་ཀར་དྲིས།** "ཁྱེད་ལ་དེབ་ཚོགས་པ་ལ་ཅི་འདྲ་བྱེད་ན་སླ་ནི་ཨིན་ན།" ཟེར་ནས་དྲིས་པ་ནི་སེམས་ཀྱི་ལོ་ཚོད་བརྟག་པ་ལས་ལེགས་ཤོས་ཡིན།
+- **ཁོང་ཚུ་ཐབས་ཚུགས་ཟེར་ནས་བསམ།** ཉེན་ཁ་མེད་ན་མི་ལ་ཁོང་གིས་ཧ་ལམ་ཐབས་ཅིག་བཙདཔ་དང་། ལག་མཐིལ་ཁ་ཅིག་བཏོན་ནས་དེ་གི་ཐོག་ལས་གཞན་ཁྲིམ་དུ་མ་ཞུགས་པར་གཏོང་ཞིག།
+- **བརྡ་རྟགས་ཅིག་ཆ་མཐུན་འཇོག།** "ཡང་ན་ཡོད་ལྟ་བུ་ཁྱེད་ལ་འཇུག་ཚུགས།" ཟེར་བའི་ཚིག་ཡང་ན་མགྲིན་ཕྱོགས་ཅིག་འདེམས། དཔེར་ན་རྩེད་མོ་བྱེད་པའི་ཐེངས་མིང་ཅིག་བརྗེད་པ་ལ་ཡིན།
+- **ཐེངས་རེ་འདྲི་བརྟག་བྱེད།** རོགས་རམ་འདི་ཆུང་ཚུ་དང་ཆེ་ཚུ་གང་ལྟར་ཡིན་ན་འཐད་མེད་ངེས་ལྟ་ཞིག།
 
-## Activity ideas for the early stage
+## རིམ་པ་དང་པོའི་ལས་ཀ་གི་བསམ་ཚུལ།
 
-### Keep up roles and hobbies
+### ཚོང་རིགས་དང་ཉམས་དགའ་བའི་ལས་ཀ་ཚུ་རྒྱུན་སྡོད་བྱེད།
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **རྒྱུན་ལྡན་གྱི་ཁས་ལེན་གཏོང་།** ཟླ་བཞི་ཞག་བདུན་ཕྱིར་ཚུ་ལས་ཀ་ཡང་ན་ཚོགས་པ་ཞིག་གིས་ཞག་ཚུ་ལ་ཚད་ཁ་ཞིག་སྒྲིག་ཆོག ལས་ཀ་འདི་ཧ་ལམ་ཟུམ་ནས་སྡུག་ན་ཆུང་བ་ཡང་ན་ཞི་བདེའི་ལས་ཀ་ཞིག་འཐད་ཚུགས།
+- **ཟས་ཚོད་ཅིག་མཉམ་སྒྲིག་བྱེད།** ཉོ་ཟོག་ཉོ་བ་སྡུག་པ་ཡོད་ན། Alzheimer's Association གིས་ཞག་བདུན་གྱི་ཟས་ཐོ་ལ་མི་ཁོང་ལ་རོགས་རམ་དྲིས་ཏེ་ཐོ་འབྲི་བ་ཞིག་ཡིན་ནོ་ཟེར་གསུངས།
+- **ཟས་ཚོད་བཟོ་དང་ཁ་བཟོ།** ཟས་ཚོད་ཁོང་གི་ཉམས་དགའ་བ་གང་ཡིན་པ་མཉམ་བཟོ། ཧེ་མ་ལས་ཀ་བཙུགས་ཅིག་ཁ་ཅིག་མཐུད་ནས་སྒྲིག་ཐོག་རིམ་པ་ལྟར་ཆ་སྒྲིག་བྱེད་ཞིག།
+- **ཤིང་ལ་ཁ་གཏོར།** ཤིང་ཁ་ཅིག་འདེམས་ནས་ས་ཚོགས་ཀྱི་ལས་ཀ་མཉམ་བྱེད། གཟུགས་ཀྱི་ཞག་བདུན་གྱི་ལས་ཀ་ཐོ་ཞིག་ཡོད་ན་རོགས་རམ་ཆེ།
+- **ལག་རྩལ་ཅིག་མཐུད་བྱེད།** ཤིང་ལས། རས་ཚོང་དང་ཤིང་ལ་སྒོ་ལས་ཀ་ལ་སྤོ་སྐབས་ཀྱི་ཅ་ཆས་ཚུ་མ་བཟོ་པ་ཞིག་དང་ཁ་སྣང་ལེགས་པ་ཞིག་གིས་མཐུད་ཚུགས།
 
-### Games for enjoyment
+### རྩེད་མོ་ཉམས་དགའ་བའི་དོན་ལ།
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **ཤོག་བུ་དང་སྒོ་ཐོག་གི་རྩེད་མོ་ཚུ་རྩེད།** ཤེས་ཟིན་པའི་རྩེད་མོ་ཚུ་ལ་སླ་ཤོས་ཡིན། སྡེ་བ་ཁ་ཅིག་ཆ་མཉམ་ཏེ་རྩེད་ཚེ་སྐྱོན་ཡོད་མེད་ཅི་ཡང་གནས་སྟངས་ཀྱི་མི་འགའ་ནི་རེ་མ་བཏོན། ཐོ་རྒྱ་ཅུང་ཙམ་ཡང་ན་མེད་པ་བཞག་ཞིག།
+- **སྐད་ཡིག་ཆེ་བའི་ཚིག་རྩེད་ཅིག་རྩེད།** ང་ཚོའི་ [ཚིག་རྩེད་](/games/word-search/) འདི་སྣང་ཚུལ་ལ་ཡང་ན་དཔར་བསྒྲིགས་ནས་ཁོ་ཚུ་ཅུང་ཙམ་ཞི་བདེ་ཡོད་པའི་ཐེངས་ཤུལ་ལ་རྩེད་ཚུགས།
+- **གྲུ་གཟིགས་རྩེད།** གྲངས་ལྡན་ཀྱི་གྲུ་ཁ་ཞིག་འདེམས། དཀའ་ངལ་མེད་པར་བདེ་སྤྲོ་ལ་སྒྲིག་ཞིག། [ཤོག་རིས་རྩེད་མོ་](/games/picture-puzzle/) འདི་སྣང་ཚུལ་ཐུང་ཀུ་ཞིག་ཡིན། ཡང་ [བརྗེད་ནོར་ནད་ལ་ཤོག་རིས་རྩེད་མོ་](/activities/puzzles/) གི་ལམ་སྟོན་ཡང་ཁ་ཤས་ཡོད།
+- **ཚོགས་ཁྲིམ་ཚུ་སྤྲོ་བ་ཡོད་པ་ཅིག་འདེམས།** མི་ཁ་ཤས་ལ་ཚོགས་ཀྱི་ཤེས་རྟོགས་ལ་ཉམས་དགའ་བ་ཡོད། ཡང་སྐབས་ཅིག་ལ་ཁོང་ལ་བརྟག་དཔྱད་ཅིག་ཡོད་འདྲ་བ་ཚུ་ཡོང་ན། ཁོང་ཚུ་གདམ་ཁ་བྱེད་ཚུགས། ཡང་ན་ང་ཚོའི [ཤེས་རྟོགས་ཀྱི་འཕྲིན་ཡིག་](/activities/trivia/) ལ་ཕྱོགས་བྱས་ཀྱང་ལེགས།
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+རྩེད་མོ་ཚུ་འདི་ནང་ལ་ཉམས་དགའ་བའི་དོན་ལ་ཡིན། རྩེད་མོ་གང་ཡང་ཀྱིས་བརྗེད་ནོར་ནད་ལ་སྨན་མི་བྱེད་ཚུགས་ཟེར་ནས་ངེས་པར་བཀོད་མེད། ཀློག་བཤད་ཀྱི་ཆ་ཤས་ཀྱི་ཡིག་ཆ་ཚུ་ལ་ [རྩེད་མོ་ནང་ཚུལ་དང་ཞིབ་འཇུག་གི་གནད་དོན་](/brain-health/brain-games/) ཀློག་ཚུགས།
 
-### Write, reflect and record
+### ཡིག་འབྲི་དང་དྲན་པ་བསྐྱར་བཅོས་དང་ཟིན་འབྲི།
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **ཉིན་ཐོ་འབྲི།** Alzheimer's Association གིས་སེམས་ཁམས་ཀྱི་གནད་དོན་ལ་ཤོག་ངོས་ཀྱི་ཉིན་ཐོ་ཅིག་འབྲི་ནས་ཁོང་གི་སེམས་ཚོར་ཚུ་བཤད་ཚུགས་ཟེར་གསུངས། ཉིན་རེ་ཐེངས་ཤུམ་ཁ་ཤས་ཡོད་ན་ལྷག་ཡོད།
+- **ཚེ་ལོའི་ཡིག་ཟུར་ལ་ཁ་སྐྱོང་བྱེད།** ལྷག་བསམ་ནང་ལ་ཚེ་ལོའི་སྐོར་ཤོག་བྱ་དང་ཡིག་ཆ་ཚུ་ཁོང་རང་གིས་ཐོ་འདེམས་དང་། ཁྱེད་ལ་ཡིག་ཐོག་ནང་འབྲི་ནས་ཁ་བཤད་ཚུགས། ཤོག་རིས་གང་ཡིན་ཚུ་ཁོང་ཚུ་རྒྱུ་མཚན་ཅིག་ཡོད་ན་གསལ་བཤད་ཚུགས། འདི་ལ་ [ཚེ་ལོ་དྲན་པའི་ལས་ཀ་](/activities/reminiscence/) ལ་ལྟ་ཞིག།
+- **ཡི་གེ་བྲིས།** མཚོམས་ཀྱི་བུ་ཆུང་ཅིག་ལ་ཡང་ན་སྔ་རྒྱུན་གྱི་མཐུན་གྲོགས་ཅིག་ལ་ཡི་གེ་བྲིས་ན་ཁོང་ཚུ་གཉིས་ཀ་ལ་ཡང་ཚིག་དོན་ཡོད།
+- **ཤོག་རིས་ལ་བཤད་པ་བྱེད།** [ཤོག་རིས་བསྡུ་ལྡན་](/games/photo-pairs/) གིས་ཁྱིམ་ཚང་གི་ཤོག་རིས་ཚུ་ཞི་བདེའི་བསྡུ་ལྡན་རྩེད་མོ་དང་ངེས་ཏེ་སྤྲོ་ཞིག་བཀོད་ཚུགས། [བཤད་གླེང་ཀྱི་ཤོག་བྱ་](/games/conversation-cards/) ནི་གླེང་གཞི་སླ་བ་ཚུ་གི་ནང་ནས་ཁ་ཕྱེ་ཚུགས།
 
-### Go out and move
+### ཕྱིར་འགྲོ་དང་ལུས་ཀྱི་སྦྱོར་བ།
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) གིས་ཁྱེད་ཚུ་གཉིས་ཀ་ངང་ཚུགས་ཀྱི་བར་ལ་སྔོན་ལྟར་ཕྱིར་འགྲོ་ཁ་ཤས་མཐུད་དགོས་ཟེར་གསུངས། སྐབས་ཀྱི་དུས་ཚོད་ལེགས་ཤོས་ལ་སྒྲིག་ཞིག་དང་། ཚད་ལས་ཡུན་རིང་ཞིག་མ་འགྲོ་ཞིག།
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **རིག་གནས་ཀྱི་ཕྱིར་འགྲོ་ཐུང་ཀུ།** ཁང་མཛོད། ཉིན་གུང་གི་ཚོགས་འདུ་ཡང་ན་རི་མོའི་ཕྱོགས་སྒྲིག ཞི་བདེའི་དུས་ཚོད་ལ་ཡོད་ན་ལེགས།
+- **འབྱུར་ཁྲུས།** NIA གིས་ཁྲུས་ཀྱི་ཆུ་ཁྲོམ་ཞིག་ནང་ཉིན་ཞི་བདེ་ཡོད་པའི་དུས་ཚོད་ལ་འགྲོ་དགོས་ཟེར་གསུངས།
+- **འགྲོ་ལམ་ཚོགས་པ་དང་ཨ་ཤུ་འགྲོ་ལམ།** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) གིས་ཨ་ཤུ་འགྲོ་ལམ། ཏེ་ཀེ། ཡོ་ག། འབྱུར་ཁྲུས་དང་འགྲོ་ལམ་ཚོགས་པ་ཚུ་བཤད་ཡོད། ཡུལ་གནས་ལ་བརྗེད་ནོར་ནད་ལ་ཧ་གོ་བདེ་བའི་ཚོགས་འདུ་ཡོད་ན་ཡང་ཡོད།
+- **གླུ་ཚོགས་དང་ལྷན་སྐྱེས་ཀྱི་འཐུས་ཁང་།** ནད་པ་དང་ཁོང་གི་ཉེ་འཁོར་གཉིས་ཀས་ཡང་ཁ་སྣང་ལ་དྲིལ་ནས་འགྱོ་ཚུགས་པའི་ཚོགས་པ་ཅིག་ཡིན།
 
-## Small changes that keep activities enjoyable
+## ཉམས་དགའ་བའི་ལས་ཀ་ཚུ་བདེ་བ་ཡོད་པར་ཐབས་ཀྱི་འགྱུར་བ་ཆུང་ཀུ།
 
-| If this is getting harder | Try this |
+| ལས་ཀ་གང་ཡང་དཀའ་ངལ་འགྲོ་ན། | འདི་ཚུ་སྤྱད་བ། |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| ཚོགས་མང་ཆེ་བ་དང་སྒྲ་ཆེ་བ་ནང་ | དུས་ཚོད་ཞི་བདེ་ལ་འགྲོ་ཞིག་ ཚོགས་ཆུང་འདེམས་ཞིག་ ཁང་པའི་མཐའ་མ་ཁ་ལ་སྡོད་ཞིག |
+| མིང་གསར་ཅིག་བརྗེད་པ་ | སྐབས་རེར་མིང་ཐོག་ནས་མི་ལ་ཤེས་ཚུགས་ཞིག་ ཚོགས་པ་ལ་མིང་རྟགས་བཀྲམ་ཞིག |
+| ཀྲམ་རིམ་བཅས་ཀྱི་ལས་རིམ་བསྐྱོད་པ་ | འཆིང་ཀ་བཀོད་ཞིག ཡང་ན་ཧེ་མ་ལས་ཀ་ཚུ་མཉམ་བཀོད་ཞིག |
+| ལུས་ཀྱི་སྐྱོ་བ་ | ཕྱིར་འགྲོ་ཐུང་ཀུ་ཞིག ཕྱིས་ལ་ངལ་གསོ་ཞིག ཉིན་དེ་ལ་ལས་ཀ་གཞན་མེད་ཞིག |
+| རྩེད་མོ་ནང་གྲངས་ཀ་འཛིན་པ་ | ཁ་ཤས་ཀྱི་སྒྲིག་ཆ་ཁ་ཤས་ཀྱི་ཐོག་ནས་རྩེད་ཞིག ཡང་ན་གྲངས་ཀ་མེད་པ་བཞག་ཞིག |
+| ཚིག་འཚོལ་བ་ | དུས་ཚོད་སྤྲོད་ཞིག་ དེ་མ་ཐག་ཁྱེད་ཚུ་གི་མཉམ་གྱི་བརྡ་རྟགས་ལ་ལྟོས་ནས་ཚིག་ཅིག་བཏང་ཞིག |
 
-## When to slow down
+## འགྲོ་ལམ་ཅུང་ཙམ་སྒྲིག་ནས་སྤོ་དགོས་ནམ།
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+ཉམས་དགའ་བ་ལས་སྡུག་སེམས་ཆེ་བ་ཡོང་བའི་ཐེངས་ལ་ལས་ཀ་སྐྱོར་ནས་ཡང་ན་བསྒྱུར་ཞིག་གིས། ཡང་ཡང་དུ་སེམས་འཁྲུག་པ། ལས་ཀ་ཞིག་ལས་ཕྱིར་ལྡོག་པ་ཡང་ན་"ང་ལ་ཅིག་ཀྱང་ཐུབ་མི་ཚུགས།" ཟེར་བ་ཚུ་ཡང་། ཁྱེད་ཀྱིས་ཉེ་འཁོར་གྱི་གཏམ་ལེགས་པོ་ཅིག་གིས་ཞིབ་འཚོལ་བྱེད་དགོས་ཡོད། མ་ཡིན་ན་ཁོང་ལ་ཁ་སླད་བཏང་མི་དགོས། ཁ་ཤས་ཀྱི་ཐབས་ལམ་ནི་ལས་ཀ་གཅིག་པུའི་ཆུང་ཀུ་ཞིག་ཡིན། མི་ལ་རེ་རོགས་རམ་དགོས་པ་ཡོད་ན་ [རིམ་པ་བར་པའི་ལས་ཀ་](/activities/middle-stage/) གི་ནང་ལ་ལྟ་ཞིག ཡང་ [གཏམ་གླེང་ལམ་སྟོན་](/caregiving/communication-tips/) ལ་ལྟ་བ་དང་ [ལས་ཀ་༡༠༡](/activities/ideas/) ལ་ལྟ་ཞིག་བྱེད།
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+རྒྱབ་སྐྱོར་བྱེད་མཁན་ཁོང་ཚུ་ཡང་རྒྱབ་སྐྱོར་དགོས། རིམ་པ་དང་པོ་ནི་ཁྱེད་ཀྱི་རང་གི་རོགས་རམ་གྱི་དྲངས་ཚུལ་འཛུགས་པའི་དུས་ཚོད་ཡིན། [གནས་བྱེད་ཀྱི་ཁྱེད་རང་ལ་ཞིབ་བཤད་](/caregiving/caregiver-self-care/) ལ་ལྟ་ཞིག།

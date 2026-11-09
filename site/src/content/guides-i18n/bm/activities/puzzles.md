@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Dimansi la mɔgɔw ka ɲininkali: jigsaw ani sɛbɛn ɲininkali"
+seoTitle: "Dimansi ka ɲininkali: jigsaw ani sɛbɛn ɲininkali"
+description: "I ka jigsaw, sɛbɛn ɲininkali ani ɲininkali sankolo ye cogo min na dimansi la mɔgɔ kɛlɛ: tilebin ka tilennen, sɛbɛ, kulu bonba, ani ko i ka kɛ ɲɔgɔn fɛ, ani waati min na a kɛ ka fɛɛrɛ gɛlɛn."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Ɲininkali ɲɛnamaya ka bon ka ɲɛ dimansi la mɔgɔ ye ko o ka ka a ɲɛfɛ ka ɲɛ
+  ka dɛmɛ kɛlen kɛlen na, ani o kɛ ɲagali ye a kɔnɔ. I ka jigsaw sugandi ka
+  tilebin dɔgɔ ani kulu bonba ye ani sɛbɛ ka bon ye min bɛ mɔgɔ ka sɛbɛ ye,
+  i ka sanduku sɛbɛ to ɲɛ kɔnɔ, ani i ka tilebin ka kɔfɛ tilebin fɔlɔ sɔrɔ.
+  Sɛbɛn ɲininkali ani sɛbɛn-sɛbɛn kulu bonba la ka ɲɛ ka ɲɛ. Ɲininkali
+  sankolo min bɛ tilebin naani ye ka ɲɛ ka dimansi la kɔfɛ kɔnɔ ɲɛnɔgɔn ye.
+  Ɲininkali ka sɛbɛ ka ɲɛ ka ɲɛ ka ɲɛnamaya kɛ fɛn min ka ɲɛ ka ɲɛ.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "I ka ɲininkali sugandi ka ɲɛ waati ye, sanga stage tɔgɔ ye: ni ɲininkali bɛ kɛ baara ye, i ka ɲininkali min bɛ tilebin dɔgɔ ye."
+  - "Tilebin bonba ani sɛbɛ min bɛ jɔ ye ni kɔrɔ sanfɛ ye, ka ɲɛ ni tilebin tiɲɛnin ani sankolo ka jɔnɔn ye."
+  - "Mɔgɔ sɛbɛ ye ka ɲɛ. Togo, dugukolo, fɛn kɛlɛ, ani wulu, o ye ka ɲɛ, o tɛ kɔrɔ ye."
+  - "Ɲɔgɔn fɛ ka ɲininkali kɛ ye ɲɛnamaya ta ye. I ka tilebin dɔ-dɔ di, edges ka ɲɛ, sanduku sɛbɛ ka to ɲɛ kɔnɔ."
+  - "Sɛbɛn ɲininkali kulu bonba la ani sɛbɛn ɲininkali sankolo min bɛ tilebin 4 walima 9 ye, o bɛ bɔ ɲɛ ka ɲɛ ka ɲɛ kɔnɔ."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Ɲininkali ka tilebin joona ka ɲɛ dimansi la mɔgɔ ye?"
+    a: "Ɲɔgɔn tɛ, a sɔrɔ ka ɲɛ mɔgɔ min ye. Mɔgɔ min ka ɲininkali tilebin 1000 kɛra fɔlɔ, a bɛ se ka tilebin mɛn-mɛn ɲɛ ka ɲɛ waati fɔlɔ, nka tɔw bɛ ɲɛ ni tilebin tɔgɔ tɛmɛn-tɛmɛn ye. Ni ɲininkali bɛ kɛ baara ye walima ɲɔgɔn bɛ kɛ, tilebin dɔgɔ sugandi. Sɛbɛn ɲininkali sankolo bɛ tilebin 4 walima 9 ye."
+  - q: "Jigsaw bɛ ɲɛ dimansi la mɔgɔ ye wa?"
+    a: "Mɔgɔ caman bɛ o ɲagali, sanga ni ɲininkali bɛ a fɛ fɔlɔ. Ɲininkali bɛ bolo ɲɛ baara ye, kuma bɛ ɲɛ kɔrɔ, ani sɛbɛ min bɛ kuma ka ɲɛ. Ɲininkali tɛ dimansi ɲɛ, tɛ a sɔrɔ ka ɲɛ wa a ka gɛlɛya. Ka o sugandi ɲagali ni kɛlɛ ɲɔgɔn ye."
+  - q: "Ni mɔgɔ tɛ se ka jigsaw kɛ tuma min na, mun bɛ se ka kɛ?"
+    a: "Ka o ka ɲɛ ka ɲɛ, ani i yɛrɛ ka caman kɛ: tilebin kelen-kelen di, walima tilebin naani kɔfɛ to ka ɲɛ. I ka ɲininkali sankolo 4 tilebin, tilebin ka ɲɛ ni ɲɛmɔgɔ ye, walima sɛbɛ ɲɛnɔgɔn ka ɲɛ ɲɔgɔn fɛ."
+  - q: "Sɛbɛn ɲininkali ani sɛbɛn-sɛbɛn ɲɛ dimansi la mɔgɔ ye wa?"
+    a: "A bɛ se ka kɛ fɔlɔ dimansi kɔnɔ, kulu bonba la. Sɛbɛn sɛbɛn min bɛ kɛ kɔnɔ-kɔnɔ ani ɲɛ-ɲɛ kɔfɛ, o ka ɲɛ ka ɲɛ ni kɛnɛ-kɛnɛ kɔfɛ ka ɲɛ. Ka ɲɛmɔgɔ ni sɛbɛn ka ɲɛ ka ɲɛ kulu ye ka ɲɔgɔn kɛ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsaw sɛbɛ min bɛ sɔrɔ ka tabali kɔnɔ, o ye ɲininkali ye min bɛ se ka ɲɔgɔn fɛ ka sɔn ka ɲɛ. I bɛ se ka sigi ɲɔgɔn fɛ ni kuma tɛ, sɛbɛ bɛ kuma sɔrɔ ka ɲɛ, ani tilebin laɲini ka ɲagali bɛ kɛ. Nka ɲininkali nɔ bɛ kɛ ka ɲɛ ka cogo kɛ dimansi ka ɲɛ ni a bɛ ɲɛ. Ɲininkali min bɛ gɛlɛn kosɛbɛ, o bɛ kɛ ɲɛnamaya gɛlɛn ye. Ɲɛnɔgɔn in bɛ jigsaw, sɛbɛn ɲininkali ani ɲininkali sankolo ka sugandi ka ɲɛ ani a ka cogo min bɛ ɲɛ waati min na.
 
-## Are puzzles good for people with dementia?
+## Ɲininkali ka ɲɛ dimansi la mɔgɔ ye wa?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Mɔgɔ caman bɛ o ɲagali, sanga min ye ɲininkali ɲɛnɔgɔn ye fɔlɔ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) bɛ sɛbɛn ɲininkali, karti ɲininkali ani tabali ɲininkali ɲɛ kɔfɛ fɔlɔ dimansi kɔnɔ, ani [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) bɛ fɔ ko ɲininkali sankolo tabulet kɔnɔ ye cogo dɔ ye min bɛ mɔgɔ kɔnɔ ka ɲɛ.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Ɲininkali tɛ dimansi ɲɛ. Ɲininkali tɛ ɲɔgɔn fɛ dimansi ka ɲɛ walima a ka ɲɛ ka ɲɛ. Sɛbɛ min bɛ ɲɛ brain games ani dimansi ka ɲɛ [ɲininkali kɔnɔ ɲɛ](/brain-health/brain-games/) bɛ o ɲɛnɔgɔn fɔ. Ɲininkali kɛ ka ɲɛ ye ko a bɛ kɛ waati ɲɛnɔgɔn ye ka ɲɛ ani ka kuma ɲɛ ɲɔgɔn fɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bɛ o fɔ cogo nin na: ka ɲagali sɔrɔ, ka ɲɛ ka ɲɛ, o tɛ ka ɲɛ.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## I bɛ se ka jigsaw sugandi cogo di dimansi la mɔgɔ ye wa?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+I ka sugandi ni mɔgɔ min bɛ ɲagali ani ɲininkali laɲini ka ɲɛ, stage tɔgɔ ka ɲɛ tɛ.
 
-### Number of pieces
+### Tilebin joona
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Joona tɛ ɲɔgɔn ye. Mɔgɔ min ka ɲininkali ɲɛnamaya bɛ ɲɛ, a bɛ se ka tilebin mɛn-mɛn ɲɛ ka ɲɛ fɔlɔ, nka tɔw bɛ ɲɛ ni tilebin tɔgɔ ye. Ɲɛnɛma kɛcogo: ni laɲini ɲininkali bɛ kɛ baara ye, i ka tilebin ka ɲɛ tilebin naani ye. Ni a bɛ ɲininkali ka teli, ka a fɛ ka ɲɛ, i ka tilebin ka ɲɛ ka ɲɛ.
 
-### Piece size and feel
+### Tilebin ka tilennen ani ka ɲɛ
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Tilebin bonba** bɛ se ka ɲɛ, ka bolo ka kɛ, ka ɲɛ.
+- **Tilebin jɛnɛ, ka sɛgɛ** bɛ to ɲɛ kɔnɔ, ni a bɛ bɔ ɲɛ.
+- **Matte kɔrɔ** bɛ ɲɛ ɲɔgɔn fɛ fitinnin ka ɲɛ fitila ni dugu-yɔrɔ ka ɲɛ.
+- **Tilebin tɔgɔ kɛ** ni mɔgɔ min bɛ ɲɛ, a bɛ fɛn dɔ ka ɲɛ ka da kɔnɔ, o bɛ kɛ dimansi kɔfɛ kɔnɔ.
 
-### The picture
+### Sɛbɛ
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Mɔgɔ ka kɛwale.** Tɔnɔ, kulu, fɔ dɔ, fɔ-cɛ, sankolo, sɛgɛ ka ɲɛ. Kɔnɔ ka sanduku kɔnɔ tɛ, walima fɛn min bɛ ɲɛ kɛ denw ye.
+- **Kɔrɔ ɲɛnɔgɔn tilenen.** Tilebin wulu ani fɔ, ɲɛ ani fɔ bolo bɛ kɛ ka ɲɛ ka ɲɛ fɛ ka ɲɛ tilebin tiɲɛnin.
+- **Ka ɲɛ ani mɔgɔ ka ɲɛ.** Kulu min mɔgɔ tɛ ka ɲɛ, walima fɛn min mɔgɔ ka ɲɛ ka ɲɛ. Sɛbɛ foto ka ɲɛ jigsaw ye bɛ se ka kɛ ni ɲɔgɔn ka ɲɛ.
 
-## How do you do a puzzle together?
+## I bɛ se ka ɲininkali kɛ ɲɔgɔn fɛ cogo di?
 
-Set it up so the person can get straight to the enjoyable part.
+Ka o sigi cogo min na mɔgɔ ka se ka ɲɛ fɔlɔ ka ɲagali kɔnɔ.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Yɔrɔ ɲɛ.** Fitila ɲɛ, sigi min bɛ kɛ ni bolo ye, ani tabali walima tabali sɛgɛ min bɛ ɲininkali to ka ɲɛ.
+2. **Sanduku sɛbɛ ka da** ka i ni mɔgɔ ye ɲɛ.
+3. **Tilebin sɛbɛ fɛ ka ɲɛ** a ɲɛ ka kɛ fɔlɔ.
+4. **Edges ka sugandi,** i yɛrɛ ka ɲɛ walima border fɔlɔ ka ɲɛ, ka middle to mɔgɔ ka ɲɛ.
+5. **Tilebin ka tiɲɛni ka ɲɛ,** ka ɲɛ ni kulu ni bolo ka ɲɛ.
+6. **Tilebin kelen-kelen di** ni pile ka ɲɛ ka ɲɛ. "Ne ye ko o tilebin ye barn ka ɲɛ."
+7. **Sɛbɛ kuma, tɛ ɲininkali ka ɲɛ.** "O bɛ i ko boat min na ne fa ka ɲɛ."
+8. **A to ɲɛ kɔnɔ.** Kɛ ɲɔgɔn fɛ ni ɲɛ tile dɔ ka ɲɛ. Sɔn tɛ.
+9. **Ka ɲininkali ɲɔgɔn kɛ,** tilebin dɔ ka ɲɛ kɔfɛ, a ka ɲɛ tuma min na.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bɛ fɔ ko i ka dɛmɛ ka ɲɛ ka ɲininkali ka ɲɛ, ka ɲɛ ka gɛlɛya, ani ka a ka ɲɛ ka ɲɛ ni a bɛ ɲagali ka ɲɛ ka ɲɛ. I ka tilebin kɔnɔ ka ɲɛ, ani ka fɔ yɔrɔ min na tilebin dɔ bɛ kɛ, o bɛ kɛ ɲininkali kɔnɔ.
 
-## Easy online puzzles
+## Ɲininkali sankolo tabulet kɔnɔ
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tabulet ɲininkali bɛ ɲɛnɔgɔn caman bɛ: tilebin tɛ bɔ, sɛbɛ bonba bɛ ekran ɲɛ, ani tabali tɛ ka ɲɛ.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Sɛbɛ [Picture puzzle](/games/picture-puzzle/) bɛ sɛbɛ tilebin 4 walima 9 ye. Ka tilebin fila ɲɛ ka tilebin kɛ ɲɔgɔn ye ka sɛbɛ kɛ kelen ye. Sɛbɛ fɛ bɛ ekran kɔnɔ ka ɲɛ, waati tɛ, ani i bɛ se ka to ɲɛ kɔnɔ waati o waati. Tilebin naani bɛ ɲɛ ka ɲɛ mɔgɔ caman ye min bɛ dimansi kɔfɛ kɔnɔ ani mɔgɔ min bɛ ɲɛ ka ɲɛ.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Sɛbɛ ɲininkali ka ɲɛ ɲɛnɔgɔn, [Find the same](/games/find-the-same/) ka sugandi, o kɔnɔ i bɛ sɛbɛ min bɛ kɛ i ka kɔnɔ ɲɛ, ka a ɲɛ sɛbɛ dɔ ka ɲɛ. Walima [Sort together](/games/sort-together/), o kɔnɔ sɛbɛ bɛ kɛ kɔnɔ ka ɲɛ, kulu walima ɲɛ ka sɛbɛ kɔnɔ.
 
-## Word puzzles: word searches and crosswords
+## Sɛbɛn ɲininkali: sɛbɛn ɲininkali ani sɛbɛn-sɛbɛn
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Sɛbɛn ɲininkali bɛ kɛ mɔgɔ min bɛ ɲagali ka ɲɛ fɔlɔ, a bɛ kɛ dimansi fɔlɔ kɔnɔ.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Sɛbɛn ɲininkali kulu bonba la.** Sɛbɛ [Word search](/games/word-search/) bɛ kulu bonba ni sɛbɛ dɔgɔ ye, ka kɛ kɔnɔ ni kɔrɔ ye, kɔnɔ ni ɲɛ ye, kɛnɛ ni kɔnɔ ye kɛnɛ, ani kɔnɔ tɛ ka kɛ kɛnɛ kɔfɛ. I bɛ se ka a kɛ ekran kɔnɔ walima ka a bɔ kɔrɔ ka ɲɛ.
+- **Sɛbɛ tɔgɔ ka kuma ka ɲɛ.** Mɔgɔ dɔ bɛ sɛbɛ kuma, tɔw bɛ a ɲininka. Sɛbɛ fɔlɔ tɔgɔ ka ɲɛ, a bɛ ɲɛ.
+- **Crossword kulu bonba la** bɛ kɛ kɔfɛ fɔlɔ. Ka kɔfɛ tɔgɔ ka ɲɛ ka kuma, ka ɲɛ ka peni ka kɛ ɲɔgɔn fɛ, ka jawabu ka sɛbɛ. Crossword ɲɛ ani fɛn ɲɛ ye, ɲɛ min kɔfɛ bɛ ɲɛ ka ɲɛ tɛ.
+- **Sɛbɛ kuma.** "Tɔgɔ" bɛ ɲɔgɔn ka kuma ɲɛ ka ɲɛ, miniti 10 tomates ka kuma.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Sɛbɛn ɲininkali ni ɲɛnɔgɔn ka ɲɛ, sɛbɛ ka cogo min bɛ ɲɛ ka ɲɛ, [free printable dementia activities](/activities/printable/) ɲɛ.
 
-## Which puzzles suit each stage?
+## Ɲininkali min bɛ kɛ stage kɔnɔ cogo di?
 
-Stages overlap, and good and hard days are normal.
+Stage bɛ ɲɔgɔn kɛ, ani tile ɲɛ ni gɛlɛya tile bɛ kɛ ɲɔgɔn ye.
 
-| Stage | Puzzles that often fit | Your role |
+| Stage | Ɲininkali min bɛ kɛ | I ka kɛwale |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Fɔlɔ | Jigsaw min bɛ ɲɛ, tilebin dɔgɔ ni fɔlɔ, kulu bonba la crossword ani sɛbɛn ɲininkali, tabulet 9 tilebin | Ɲɔgɔn: a ka ɲɛ sugandi, dɛmɛ ka ɲɛ waati min na a bɛ fɔ |
+| Kɔfɛ | Jigsaw tilebin tɛmɛn-tɛmɛn bonba, tabulet 4 tilebin, sɛbɛn ɲininkali kuma ka ɲɛ ɲɔgɔn fɛ | Ka sigi kɛ, tilebin ka sɔrɔ, tilebin kelen-kelen di |
+| Kɔfɛ kɔfɛ | Sɛbɛ ka ɲɛ ɲɔgɔn fɛ, Find the same sɛbɛ fila ni, tilebin dɔgɔ bonba ɲɛ | A ka ɲɛ kɔnɔ; i ka ɲɔgɔn ye ɲininkali ye |
 
-## When should you make a puzzle easier, or stop?
+## Ɲininkali kɛ ɲɛnɔgɔn walima ka ɲɛ waati min na?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Ka ɲɛ ka ɲɛ ka ɲɛ: a bɛ ɲɛ ka ɲɛ, a bɛ tilebin bɔ ɲɛ, a bɛ fɔ "Ne tɛ se" ka ɲɛ walima a bɛ ɲɛ ka ɲɛ. O bɛ kɛ kɛwale ye ka ɲɛ, a tɛ kɛ ka ɲɛ ka ɲɛ.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Ka ɲɛ.** Tilebin joona dɔgɔ, walima tilebin naani kɔfɛ to ka ɲɛ.
+- **I yɛrɛ ka caman kɛ** ka a ɲɛ ka ɲɛ baara ɲɛ ka ɲɛ.
+- **Ka ɲɛ dɔ ka ɲɛ:** tilebin ka tiɲɛni, 4 tilebin tabulet ɲininkali, walima [coloring](/games/coloring/).
+- **A to ɲɛ kɔnɔ.** A to ɲɛ kɔnɔ ka ɲɛ, ka tɛ kɛ ka ɲɛ. I bɛ se ka segin ka ɲɛ, walima ka ɲɛ dɔ ka ɲɛ.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ni ɲininkali bɛ kɛ dimansi ka ɲɛ kɔnɔ fɛn min bɛ gɛlɛn ka ɲɛ, o ye ɲɛ ka ɲɛ ka ɲɛ. Ɲɛnɔgɔn caman bɛ kɛ ɲɔgɔn fɛ ka ɲɛ, ani [101 activity ideas](/activities/ideas/) ye ɲɛ ka ɲɛ.

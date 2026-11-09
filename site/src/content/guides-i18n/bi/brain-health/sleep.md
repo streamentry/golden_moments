@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Slip mo Bren: Wanem Risej i Talem mo Wanem i Helpem"
+seoTitle: "Slip mo Demensia: Wanem Risej i Talem"
+description: "Wanem risej i talem long slip mo risk blong demensia, wanem risej blong klinim bren i stap long wok blong start, mo ol gud fasin blong slip blong ol olfala mo ol man we oli kea."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Sam longfala risej we oli folem ol man i soem se slip we i short long taem blong midl laef i gat wan risk we i hae blong demensia, mo risej long leba i soem se slip i maet i helpem bren blong klinim ol wes. Ol risej ia i stap yet long wok blong start, mo long 2024 Lancet Commission, oli no putum slip olsem wan fakta we yumi save jenisim long risk. Ol regula fasin blong slip i save helpem fasin blong yu long ol de. Ol trabol blong slip long demensia i kamon, mo i gud blong talemaot long dokta.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Wan UK risej we i folem 8,000 man long 25 yia i talem se slip 6 aoa o les long taem blong midl laef i gat wan risk we i hae blong demensia."
+  - "Ol jenis long slip i ken kamaot olsem wan fes saen blong demensia, so i hard blong tingting wanem i kosem wanem."
+  - "Risej long slip we i klinim beta-amyloid long bren i stap, be i stil erli; plante long hem i stap long ol maos."
+  - "Sleep apnea i kamon, i save trit, mo i stap long ol risej we i konektem wetem demensia; loud snoring mo tajet long de i gud blong jekem."
+  - "Yu no mas start, stop o jenisim eni slip medisin o slip hop withaot dokta."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Eniwan slip we i no gud i mekem Alzheimer?"
+    a: "Ol man oli no prufum dat. Sam risej i talem se slip we i short i gat risk we i hae blong demensia, be demensia nomo i save distebem slip, longtaem bifo yu harem dokta i talem. Long 2024 Lancet Commission, oli jajem se ol evidens oli no stret enaf blong putum slip long lis blong ol fakta we yumi ken jenisim long risk."
+  - q: "Ol olfala oli nidim hamas slip?"
+    a: "National Institute on Aging i talem se ol olfala oli nidim sem olsem ol adalt narafala, 7 to 9 aoa long naet. Plante olfala oli go slip mo kirap erli moa long taem we oli yangfala, mo hemia i kamon."
+  - q: "Wae wan man we i gat demensia i slip long de mo wekap long naet?"
+    a: "Demensia i save distebem klok blong bodi, so taem blong slip mo wekap i kam mikis. Pen, boring, hangre o saed ifekt blong medisin i save helpem tu. Leit long de, wok long de mo wan kwaet naet rutin i maet i helpem. Dokta i ken lukluk long ol kos we oli ken tritim."
+  - q: "Mi mas givim slip medisin long man we mi kea long hem?"
+    a: "Toktok long dokta blong hem paswan, mo tu long ol medisin we yu save baem long ston withaot presripsen. National Institute on Aging i talem se sam slip medisin i ken mekem dizzines, foldaon mo konfiuzen long ol man we oli gat Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Slip mo bren oli gat kaneksen we i klia, be oli stil slowly blong faenem hao oli kanekt. Sam risej i talem se slip we i short i gat risk we i hae blong demensia. Demensia tu i save distebem slip. Pej ia i eksplenem wanem risej i soem mo wanem i no soem, i givim ol praktik fasin blong slip, mo i talem long ol trabol blong slip we i kamon long demensia. Hem i no givim advaes long slip medisin; dat wok i blong dokta.
 
-## Is poor sleep linked with dementia?
+## Eniwan slip we i no gud i gat kaneksen wetem demensia?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Sam longfala risej we oli folem ol man i talem se slip we i short i gat kaneksen wetem risk we i hae blong demensia, be evidens i no stret yet.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Wan 25-yia UK risej.** Ol risej oli folem abaot 8,000 adalt long [risej Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Ol man we oli slip 6 aoa o les long ej 50 o 60 oli gat risk we i hae blong demensia leta, winim ol man we oli slip 7 aoa. Ol man we oli slip 6 aoa o les long ej 50, 60 mo 70 oli gat abaot 30% risk we i hae winim ol man we oli slip 7 aoa long oltaem. Hemia wan observational risej, so hem i soem wan kaneksen, no wan kos.
+- **Wanem Lancet Commission i talem.** Long [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0), oli no putum slip long lis blong 14 risk fakta we yumi save jenisim. Oli jajem se ol evidens oli no strong enaf. Wan rison i "reverse causation": ol jenis long bren we demensia i kosem oli stat longtaem bifo diagnosis mo oli save distebem slip. Long wan bigfala risej, kaneksen blong longfala slip wetem demensia i lus taem ol fes 5 yia blong folo-up oli kat aot.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+So wan short naet nomo i no wan sem blong worri. Regula, gud kwaliti slip i gud blong aemim, from hem i helpem fasin, tingting mo seif long naoia.
 
-## What is the "brain-clearing" sleep research?
+## Wanem risej long "klinim bren" blong slip?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Yu save harem se slip i "klinim" bren. Hemia i kam long stret risej, be i stil erli nomo.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Long ol maos.** Long wan risej long 2013 we [NIH i talem](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), spes between ol bren cell i bigfala abaot 60% taem ol maos oli slip. Fluid i flo moa isi long bren, long wan sistem we ol risej i kolem glymphatic system. Beta-amyloid, wan protin we i kanekt wetem Alzheimer, i klinim kuik moa long bren blong ol maos we oli slip.
+- **Long ol man.** Wan smol [risej long 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) i skanem 20 hel adalt we oli stap long 22 to 72 yia, afta long wan naet we oli slip nomo, mo afta long wan naet we oli no slip. Afta long naet we oli no slip, wan brain scan saen blong beta-amyloid i go hae abaot 5% long wan ples we i inkludum hippocampus, wan ples we i impoten long memori. Ol saeentis oli talem hemia i prelimineri evidens. Oli no save if jenis ia i go klia afta long rest, o if i minim klinim i slo, o plante amyloid i stap kamap.
+- **I wakem long tufala saed.** Lancet Commission i talem se amyloid i save distebem slip long ol olfala.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ol faending ia i helpem eksplen why ol risej oli intres long slip. Oli no soem se gud slip i stopem Alzheimer.
 
-## What sleep habits may help?
+## Wanem fasin blong slip i maet i helpem?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Ol olfala oli nidim abaot 7 to 9 aoa blong slip long naet, sem olsem ol adalt narafala, from [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Ol advaes blong hem oli inkludum:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Holem wan regula skedul.** Go slip mo kirap long sem taem evri de, nating long wikenem.
+- **Mekem wan slo naet rutin.** Ridim, harem musik we i kwaet, o wasim long wok wota bifo slip.
+- **Mekem bedrum i kamfet,** no tumas hot o tumas kol.
+- **Limitim kafein long las pat blong de.** Kofi, ti, soda mo sokolet i save mekem yu no slip.
+- **Avoidim alkohol,** nating smol kantiti, NIA i advaesem.
+- **Avoidim bigfala kaikai long 2 o 3 aoa bifo slip,** mo bigfala drink long las pat blong de.
+- **Wokem bodi regula, be no klosap long 3 aoa bifo slip.** Lukim [gaed blong wok blong yumi](/brain-health/exercise/).
+- **Kipim skrin aot long bedrum.** NIA i sugestem no wajem TV o yusum komputa, fon o tablet long hem.
+- **Avoidim slip long aftanun o long naet** sipos yu save.
 
-## Sleep problems in dementia
+## Trabol blong slip long demensia
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Jenis long slip i kamon long demensia. [NIA i lisim](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) slip tumas o slip smol, wekap plante taem long naet, mo slip tumas long de. Hem i talemaot tu sandaon, we i wan hevi, agitesen o konfiuzen we i stat o i wosi moa taem leit blong de i dak.
 
-Caregiver tips from the NIA include:
+Ol tips blong kea-man we NIA i givim i inkludum:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Kasem leit mo muvmen erli.** Go aotsaed o sidaon klosap long windo long de, mo helpem man blong i wokabaot evri de. Braet leit i ken helpem klok blong bodi.
+2. **Plen ol wok we i nidim fos long moning.** Traem blong wasem long moning o kaikaim bigfala long midde de.
+3. **Mekem slip long de i smol mo erli.** Limitim dozing long las pat blong de.
+4. **Mekem naet i kwaet.** Lowem laet, redyusim noes mo plenem musik we i gud, sipos man i laekem. Ol aedia long [gaed long hevi long las pat blong de](/caregiving/late-day-restlessness/) i gat moa ol aedia.
+5. **Holem wan stedi naet rutin.** Ridim hae vois long sem taem evri naet, hemia wan eksampel blong NIA. Wan [stedi rutin blong de](/activities/daily-routine/) i helpem tu.
+6. **Limitim kafein mo alkohol.**
+7. **Yusum naet laet** long bedrum, hol mo bathrum.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Long naet we man i wekap, ol [tips blong seftiem long haos](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) blong NIA i inkludum naet laet o otomatik laet sensa, hanrel long bathrum, bright kala tep long ej blong ol step, mo medisin we oli stap long wan lok ples.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Wan smol, kwaet akta long naet i ken helpem yufala tufala blong kwaetem. Traem wan slo [Calm Breathing](/games/calm-breathing/) brik o sam [Conversation Cards](/games/conversation-cards/) we yu ken jusum long rilaks. Ko ahed long eni samting we i mekem tingting i wekap klosap long bed, mo stop taem man i tajet finis.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Brok slip i wekemap kea-man tu. [Gaed blong kea blong yu wan](/caregiving/caregiver-self-care/) i talemaot ol fasin blong gat rest mo help.
 
-## What about sleep apnea?
+## Wanem long sleep apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea i mekem ol sot taem brif i stop long slip, plante taem long wan naet. NIA i talem se sipos i no kea long hem, hem i ken mekem ol trabol olsem hae blad presa, strok o les memori. Ol saen i inkludum loud snoring mo tajet long de, mo plante man oli no save se oli gat hem. Lancet Commission i talem wan review long 11 risej, we ol man wetem sleep apnea oli gat abaot 43% risk we i hae blong demensia. Be i fyu long ol risej ia oli akontem weit, so kaneksen i no klia.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea i save faenem mo trit. NIA i talem se CPAP masin i olsem oltaem i helpem. Sipos yu o man we yu kea long hem i snoring loud, i stop long brif long slip, o i tajet tumas long de, talem long dokta.
 
-## A note about sleep medicines
+## Wan nout abaot slip medisin
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Mifala i no givim advaes long slip medisin o sapliment. NIA i talem se slip medisin i ken helpem long smol taem, be oli no kiurem insomnia. I talem tu se sam medisin we oli givim blong helpem ol man wetem Alzheimer slip i ken mekem dizzines, foldaon mo konfiuzen. No start, stop o jenisim eni slip medisin, inkludum ol slip hop we yu save baem long ston withaot presripsen, withaot toktok long dokta o man we i selem medisin.
 
-## Talk with a doctor
+## Toktok wetem dokta
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Go lukim dokta sipos yu o man we yu kea long hem i tajet oltaem, i gat trabol blong slip long plante naet, i snoring loud, o i gat ol stop blong brif long naet. Sipos ol trabol blong slip long demensia i kontinyu, [NIA i advaesem](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) blong askem medikal advaes. Wan jek-ap i ken faenem ol kos olsem pen, narafala slip disoda, sik, o saed ifekt blong medisin. Konfiuzen we i kamap kwik, o jenis kwik long slip wetem konfiuzen, i nidim kwik trit. Ridim [wanem taem blong go lukim dokta](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Pej ia i jeneral infomesen, no medikal advaes. Lukim [medikal disclaimer blong mifala](/medical-disclaimer/).

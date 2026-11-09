@@ -1,34 +1,33 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Tablɛti walima telefɔni labɛn alzaymɛrɛ bolo"
+seoTitle: "Tablɛti walima telefɔni labɛn alzaymɛrɛ bolo"
+description: "Tablɛti walima telefɔni labɛn kɔrɔfɔ alzaymɛrɛ bolo: dɔ kelen kɔnɔ, sɛbɛn ka bon, notifikasiyɔ dɔrɔn, ekran sɛgɛnɛ, sɔn ni data ka datugu."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Tablɛti walima telefɔni labɛn sɔrɔ, a ka sɛgɛn ka fɛ. Kɛ Guided Access la
+  iPad ni iPhone kan, walima app pinning la Android kan, dɔ kelen kɔnɔ, walima
+  Apple ka Assistive Access la, min bɛ sɛgɛn ka fɛ. Sɛbɛn ka bon, notifikasiyɔ
+  bɛɛ bɔ, kalan ekran kelen kɔnɔ ni dɔ fɛw dɔrɔn, sɔn ka labɛn, stand ka ta
+  yɛrɛ, ani lamɛnw ka kɔnɔnaw dɔrɔn. Ka o kɛ ni mɔgɔ fɛ ni dɔ tɛ ekran la.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ni app pinning (Android) bɛ ekran kɛ dɔ kelen kɔnɔ, fo i ka o bɔ."
+  - "Apple ka Assistive Access bɛ sɛgɛn sɛbɛn ta, min bɛ labɛn mɔgɔw ye min bɛ hakili gɛlɛya la."
+  - "Sɛbɛn ka bon ani notifikasiyɔ ni pop-up bɛɛ bɔ, walasa ko si kana mɔgɔ kɔrɔsi walima kɛ kɔngɔ."
+  - "Dɔ fɛw min ye mɔgɔ ye kalan ɲɛfɛ kelen kɔnɔ, ani sɔn ka labɛn kɔfɛ i ka daminɛ."
+  - "Stand ni sanji yɛrɛ min tɛ taa, bɛ sɔrɔ kɛli ni sɛbɛn ka sɔrɔ ka fɛɛrɛ."
+  - "Lamɛn lamɛnw ni data ka datugu yɛrɛ: HIPAA tɛ kɛ dɛmɛ ye ni sɛbɛn min bɛ kɔnɔ personal device la, o bɛ jɛɲɔgɔn."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Mun na ka mɔgɔ min bɛ alzaymɛrɛ la ka dɔ bɔ iPad kan, a tɛ se ka taa ka tɛmɛ dɔ wɛrɛ kan?"
+    a: "Guided Access labɛn Settings > Accessibility > Guided Access kɔnɔ ani a ka passcode sɛbɛn. Dɔ daminɛ, saasi saya sɛgɛ kɛ (walima Home button, iPad kura kan) ani Start tulu. iPad bɛ to dɔ kɔnɔ fo mɔgɔ ye passcode sɛbɛn."
+  - q: "Mun na ka Android tablɛti lakɔ dɔ kelen kɔnɔ?"
+    a: "App pinning labɛn Settings kɔnɔ, a bɛ sɔrɔ Security (walima Security & location) > Advanced > App pinning kɔnɔ. Tɔɔrɔ dɔ daminɛ, Overview la, dɔ ka sigi kɛlɛ kɔnɔ tulu ani Pin tulu. I ka PIN, pattern walima password bɛ mako ka bɔ."
+  - q: "A ka ɲɛ ka Guided Access kɛ mɔgɔ ka yɛrɛ telefɔni kan?"
+    a: "Kɔlɔsi. Apple ko Crash Detection ni Emergency Services tɛ kɛ Guided Access sɛgɛnɛ kɔnɔ. Ni mɔgɔ bɛ a telefɔni kɛ kɛlɛ kɔnɔ ka wele, Guided Access kɛ kɔfɛ i bɛ a yɛrɛ ye, walima Assistive Access labɛn."
+  - q: "Mɔgɔ min bɛ alzaymɛrɛ la, ekran waati ɲɛnama ye jumɛn ye?"
+    a: "Nɔmɔrɔ kɛrɛnnɛnen tɛ yen. Waati gɛlɛn kɛ ni mɔgɔ fɛ, ni taamasiyɛn, fɛn ɲɛnama, dɔn, kumakan ni kumasɛn ye, o bɛ don ka ɲɛ ni ekran kɔnɔ waati bɔnɔ kɔnɔ ye. Ni sɛgɛnɛ bɛ kɔngɔ walima bɛ dɔ wɛrɛw ɲɛ, i ka a dɔrɔn."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +64,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tablɛti bɛ se ka kɛ fɛn ɲumanw ye: a bɛ se ka sɛbɛnw, dɔnniya ni dɔ fɛw jɛ ni mɔgɔ ye. Nka a bɛ se ka kɛ fɛn gɛlɛnw ye fana: tɔɔrɔ fitinin kelen bɛ dɔ wɛrɛ daminɛ, notifikasiyɔ bɛ pop-up kɛ, sɛbɛn bɛ fitinin ka dogo, walima ekran bɛ fɛrɛ kɔnɔ dɔ kɔnɔ. Labɛn tɔɔrɔ dɔ bɛ o bɛɛ dɛmɛ.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Nin kɔrɔfɔw bɛ kɛ ni tɛmɛnen ye iPhone, iPad ni Android kan. Menu tɔw bɛ yɛrɛ wɛrɛ kɛ software ni dɔ kɛlɛbaaw ka sɔrɔ, ni i ye fɛn wɛrɛ ye, i ka Apple walima Google ka sɛbɛn min bɛ sɔrɔ link la kɔrɔfɔ. Labɛn tɔɔrɔ yɛrɛ ka i ka mɔgɔ ye sigi ka ɲɛ.
 
-## Should someone with dementia use a tablet or phone?
+## Mun na ka mɔgɔ min bɛ alzaymɛrɛ la ka tablɛti walima telefɔni kɛ?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+A bɛ taa mɔgɔ kan. Mɔgɔ caman bɛ tablɛti kɛ ni mɔgɔ dɔ bɛ a kɛlɛ, hali ni a tɛ se ka kɛ a yɛrɛ ye. Daminɛ ni i ye ɲɛfɛ, app kelen kɔnɔ, miniti dɔw kɔnɔ. Ni a bɛ dɔnniya ni kumasɛn kɛ, i ka to. Ni a bɛ hakiliyɛgɛ walima kɔngɔ kɛ, fɔtɔ dɔ, sɛbɛn min bɛ bɔ ka kɛ kaarow kan, walima dɔnniya bɛ a ka ɲɛ kosɛbɛ. Ɲɛfɛ [sɛbɛn bɔlen naani](/activities/printable/) ye dɔ ye.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tablɛti bɛ ka ɲɛ tɛlɛfɔni ma: ekran ni sɛbɛnw bɛ ka bon, ani a tɛ mɔgɔ ka kɛlɛ kɔnɔ ni yɛrɛ ye.
 
-## How do I lock a tablet or phone to one app?
+## Mun na ka tablɛti walima telefɔni dɔ kɛ app kelen kɔnɔ?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Guided Access kɛ iPhone ni iPad kan, walima app pinning kɛ Android kan. Olu bɛɛ bɛ ekran to app kelen kɔnɔ fo i ka sɛbɛn ka kɔnɔ, walasa ko tulu walima sɛgɛnɛ dɔ tɛ dɔ wɛrɛ daminɛ.
 
-### iPad and iPhone: Guided Access
+### iPad ni iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple ka Guided Access kɔrɔfɔw](https://support.apple.com/en-us/111795) kɔnɔ:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Settings daminɛ, Accessibility tulu, Guided Access tulu ani a kɛ kunnafoni.
+2. Passcode Settings kɔnɔ, Guided Access passcode sɛbɛn. I bɛ se ka Face ID walima Touch ID fana kɛ.
+3. A bɛ se ka kɛ: Display Auto-Lock kɔnɔ, sɔn ekran bɛ lakɔ cogo di waati sɛgɛnɛ kɔnɔ, walasa ko a tɛ dɔ kɔnɔ ni dɔ bɛ sɛgɛ.
+4. App min bɛ fɛ, a daminɛ.
+5. Saasi kura sɛgɛ kɛ saya (iPhone), saasi kɔrɔ (iPad), walima Home button (ni kɛlɛ bɛ kɛ bɛnnen dɔ kɔnɔ).
+6. A bɛ se ka kɛ: ekran kɔnɔ dɔ min i bɛ kɛ ka ɲɛ tulu kɔnɔ, ka a ɲɛ kɛ ka tɛ ɲɛfɛ ko. Options (walima Session Settings) tulu walasa ka sɔn kulu bɔ, walima ekran ka wili kɔnɔ.
+7. Start tulu.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Sɛgɛnɛ bɔ, saasi sɛgɛ ka kɛ kura kelen ni, passcode sɛbɛn, ani End tulu. Apple ko dɔ kɛlɛ sɔrɔ software kɔrɔ kɔnɔ, i bɛ kura ni fila sɛgɛ.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Ɲɛfɛ:** Apple ko Crash Detection ni Emergency Services tɛ kɛ Guided Access sɛgɛnɛ kɔnɔ. Aw kana Guided Access to telefɔni kan min mɔgɔ bɛ a kɛ kɛlɛ kɔnɔ ka wele.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google ka Android kɔrɔfɔ app ka ekran pinning kɔrɔ](https://support.google.com/android/answer/9455138?hl=en) kɔnɔ:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Settings app daminɛ.
+2. Security (walima Security & location) tulu, Advanced tulu, App pinning tulu. Ni i tɛ a sɔrɔ, i ka kɔrɔfɔ ka device ka makɛ sɛbɛnw ye.
+3. App pinning kunnafoni. I ka PIN, pattern walima password bɛ mako ka bɔ.
+4. App min bɛ fɛ, a daminɛ. Ka bɔ ka taa ekran kɔnɔ, sɛgɛ kɛ, ani kɔnɔ Overview ma (walima Overview tulu, ni navigation ye saya 3-button ye).
+5. App preview kɔrɔ, app ka icon tulu, ani Pin tulu.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Walasa ko i ka pinning bɔ gesture navigation la, ka bɔ ka taa ani sɛgɛ. 3-button navigation la, Back ni Overview ka kɛ ni a ka ɲɛ kɛ. 2-button navigation la, Back ni Home ka kɛ ni a ka ɲɛ kɛ. Tɔɔrɔ kɔfɛ, PIN, pattern walima password sɛbɛn.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Fo ni iPhone walima iPad bɛɛ ka sɛgɛnɛ ka fɛ?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ɔwɔ. Apple ka Assistive Access bɛ home screen dɔ wɛrɛ ta, min ka fɛ ka sɛgɛn. [Apple ko a ye](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ko a bɛ kɛ walasa ka iPhone labɛn hakili gɛlɛya la mɔgɔw ye, ani a bɛ fɛn ɲumanw ta, ekran ka fɛn gɛlɛnw bɛ fitinin, ani fɛn min bɛ sɛgɛnɛ ka jɔ dɔ kan. [Ko kelen in](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) bɛ iPad kan fana.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Jɔ min bɛ labɛn.** Mɔgɔ min bɛ mɔgɔ ka dɛmɛ kɛ, i ko denbaya walima kumakɛla, o bɛ dɛmɛ ka app ni fɛn sugandili sugandi.
+- **Daminɛ.** Settings > Accessibility > Assistive Access, Set Up Assistive Access tulu, ani Continue tulu.
+- **Apps.** I bɛ app min bɛ jɛ, o sugandi. Apple app dɔw bɛ kɛ ni labɛnnen ye, ani app caman bɛ se ka kɛ cogo ɲɛnama la.
+- **Layout.** Rows (liste min ka ɲɛ) walima Grid (fɛn ɲumanw min bɛ kɛ pikiri ni icon ye) sugandi.
+- **Passcode.** I bɛ passcode gɛlɛya kɛ, o ye Assistive Access passcode ye, min bɛ sɛgɛn, bɔ, walima labɛn kɛ. Apple ko i ka Apple Account kɔrɔ sɛbɛn set-up waati, sabu ni o tɛ, passcode ka kɔnɔ tɔ bɛ kɛ device ka reset ye.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access bɛ se ka kɛ mɔgɔ min bɛ a yɛrɛ ka device kɛ don bɛɛ. Guided Access walima app pinning bɛ tɛmɛ ka sɛgɛ dɔ kɛ ni mɔgɔw ye.
 
-## How do I make text and pictures bigger?
+## Mun na ka sɛbɛn ni fɛn ɲumanw kɛ ka bon?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Sɛbɛn ni ekran sɛbɛnw ka sɔrɔ, ka a ɲɛ ka sɔn, ka a ka button dɔw jɛ ka sɔn.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ni iPad.** [Apple ka font size kɔrɔfɔ](https://support.apple.com/en-us/102453) kɔnɔ, Settings > Display & Brightness > Text Size ka tulu, ani slider ka bɔ. Sɛbɛn kɔrɔ ka bon, Settings > Accessibility > Display & Text Size > Larger Text. Apple ko sɛbɛn bɔnɔ ka ɲɛ kɛ, button dɔw bɛ tɔɔrɔ ka ɲɛ tulu, ni o kɛ, a ka labɛn.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google ka text ni display settings kɔrɔfɔ](https://support.google.com/accessibility/android/answer/11183305?hl=en) kɔnɔ, Settings daminɛ ani Font size seko, slider ka bɔ. Display size seko walasa ka ekran kɔnɔ fɛnw bɛɛ ka bon. I bɛ se ka Bold text kunnafoni fana Accessibility > Display size and text kɔnɔ. App dɔw tɛ o settings to.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Picture Pairs](/games/picture-pairs/) ni [Find the Same](/games/find-the-same/) kɔnɔ, i bɛ se ka tile walima choice dɔrɔn sugandi, o bɛ ekran kɛ sɔn ye.
 
-## How do I stop notifications and pop-ups?
+## Mun na ka notifikasiyɔ ni pop-up bɔ?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Notifikasiyɔ bɔ app min i ma kɛ ka wili, ani Do Not Disturb kɛ waati sɛgɛnɛ kɔnɔ.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ni iPad.** Settings > Notifications ani app kelen tulu, Notification Style kɔrɔ, ani Allow Notifications bɔ ([Apple ka notification settings kɔrɔfɔ](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Waati dɔ kɔnɔ wele, sɔn ni notifikasiyɔ bɛɛ bɔ, Control Center ka kɔnɔ, Focus tulu ka Do Not Disturb kunnafoni ([Apple ka Do Not Disturb kɔrɔfɔ](https://support.apple.com/en-us/105112)). Waati sugandilen kɛ Settings > Focus > Do Not Disturb > Set a Schedule kɔnɔ.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Ekran kɔrɔ ka bɔ ka taa kɔnɔ, Do Not Disturb tulu, walima Settings > Modes > Do Not Disturb ([Google ka Do Not Disturb kɔrɔfɔ](https://support.google.com/android/answer/9069335?hl=en)). Notification filters kɔnɔ, i bɛ se ka mɔgɔ ni app min bɛ ɲɛ ka sɔrɔ, o sugandi. Settings bɛ yɛrɛ wɛrɛ kɛ device ka makɛ fɛ.
 
-## How do I make a simple home screen?
+## Mun na ka home screen ɲumanw kɛ?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+App kelen kɔnɔ dɔ fɛw min ka ɲɛ ka dɔn, ani dɔ wɛrɛw bɔ ekran kɔrɔ. Sɛbɛn kelen tɛ yen; o bɛ kɛ ni fɛn gɛlɛnw bɔ ye.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **App saba walima wɔɔrɔ sugandi.** Misali, sɛbɛnw, dɔnniya, video call app, ani dɔ kelen.
+- **Olu ka kɔnɔ home screen kelen kɔnɔ,** ni kɔnɔ min na tɔ kelen ye, ani dɔ wɛrɛ bɔ screen filanan walima folder kɔnɔ.
+- **Wallpaper sɔnsɔn ani ka ɲɛ,** i ko kɔnɔ kelen walima fɔtɔ ka ɲɛ, walasa icon ka ɲɛ ka kɛ.
+- **App min tɛ a ka mako, a bɔ.** App dɔw tɛ, o kɛ sɛgɛnɛ gɛlɛ ye ni data ka jɔ ye.
+- **Assistive Access sugandi** Apple device kan, ni i b'a fɛ ka device ka o kɛ.
 
-## What about volume and sound?
+## Mun na ka sɔn ni dɔnniya kɔnɔ?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Sɔn ka ɲɛ kɛ ka fɔ device di mɔgɔ ma. Guided Access ni, a bɛ se ka sɔn kulu bɔ, walasa ka sɔn ka fɛrɛ sɛgɛnɛ kɔnɔ. Ka a ye ko tulonin ni dɔ bɛ kɛ kɔnɔ, ni i bɛ sɔn ka dɔnniya.
 
-## Where should the tablet live?
+## Tablɛti ka ɲɛ kɛ min na?
 
-Give it a stand and a permanent charging spot.
+A ka stand ni sanji yɛrɛ ta.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Stand walima case** min bɛ tablɛti ta sɔrɔ tabali kan, walasa mɔgɔ si tɛ a sɛgɛ, ani ka fɛ ka ɲɛfɛ ka sɔrɔ.
+- **Sanji kelen yɛrɛ** min tɛ taa, tabali kan, ni i bɛ se ka to, walasa tablɛti bɛ sanji ni sɛgɛnɛ kɔnɔ ye, ani a bɛ sɔrɔ ka sɛgɛ ka fɛ.
+- **Ka sɔrɔ tiɲɛ kɛ.** Ekran ka kɔnɔ fitinin ka sɔrɔ fitinin kɔnɔ mɔgɔ.
 
-## How much screen time is okay?
+## Ekran waati jumɛn ye ɲɛ?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Waati nɔmɔrɔ kɛrɛnnɛnen tɛ yen. Taamasiyɛn ka kɛ, kumasɛn ka kɛ, ni dɔnniya ka kɛ dɔ kɛlɛ kɔnɔ, ani sɛgɛnɛ dɔ tɛ kɔnɔ. Ni a bɛ kɔngɔ kɛ ni dɔ bɛ dɔ wɛrɛ kɛ, i ka ekran kɔnɔ waati ka kɛ, ni a bɛ sɔrɔ ka fɔ, i ka a dɔrɔn. [Waati kɔrɔ labɛnw](/caregiving/late-day-restlessness/) ye dɔ ye.
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Tablɛti kɛ ni mɔgɔ fɛ, ka ɲɛ kɛ kɔnɔ, o bɛ kɛ kumasɛn ye, ani a tɛ kɛ ka mɔgɔ ka kɛlɛ ye. [Dɔ kɛ ni mɔgɔ fɛ](/caregiving/how-to-play-together/) kɔrɔfɔ bɛ o ko kɔrɔ.
 
-## How do I protect their privacy on the device?
+## Mun na ka mɔgɔ ka hakili kɔnɔ device kan?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+App min bɛ dɔnniya min na, o dɔrɔn, ani health privacy sariya tɛ o bɛɛ ye ko. Amerikan Sanfɛ Wɛrɛw (HHS) bɛ [ko](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ko HIPAA sariyaw tɛ kɛ dɛmɛ ye ni sɛbɛn min bɛ kɔnɔ telefɔni walima tablɛti kan. Caman na, HIPAA tɛ kɛ dɛmɛ ye ni data min bɛ kɔnɔ app kan dɔnniya ka kɛ, fo app bɛ bɔ sɛbɛnnen ko dɔrɔn ka kɔnɔ.
 
-HHS suggests:
+HHS ko:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- app min tɛ mako, ni "bɔ" min tɛ kɛ ko ye, o bɔ;
+- app ma sɔrɔ ka kɔnɔ kɔrɔ, fo a ka ɲɛ kɛ, i ko maps.
 
-Also consider:
+Ka to o kɔfɛ:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Passcode kɛ** device kan, ani a sɛbɛn yɛrɛ min bɛ sɔrɔ.
+- **Sɛgɛnɛ min bɛ fɔ app ma** fɔtɔ, kamera, mikrofon, contacts ni location kɔrɔ, ani a bɔ app min tɛ mako.
+- **App ka ɲɛ kɛ min i bɛ sɛgɛ.** Guided Access ni [alzaymɛrɛ app ni dɔ](/caregiving/choosing-apps-and-games/) ka checklist bɛ ɲɛ.
+- **Ka kɛ ni famille fɔtɔw ye ni kɛnɛ.** Fɔtɔ min mɔgɔ bɛ ɲɛ ni a ye, o kelen bɛ bɔ, ani dɔn yɔrɔ min na app bɛ fɔtɔ kɔnɔ. [Photo Pairs](/games/photo-pairs/) kɔnɔ, fɔtɔ min i bɛ sugandi, o bɛ to i ka browser kɔnɔ.
+- **In-app purchases bɔ** walima payment details bɔ account min mɔgɔ bɛ sɛgɛn.

@@ -1,32 +1,28 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "ཤེས་རྟོགས་ནད་ཀྱིས་བཟུང་བའི་མི་ལ་ཉིན་རེའི་ཞི་བདེའི་གནས་ཚུལ།"
+seoTitle: "ཤེས་རྟོགས་ནད་ཀྱི་ཉིན་རེའི་གནས་ཚུལ།: ཉིན་ཞིག་གི་དཔེ་ཚུལ།"
+description: "ཤེས་རྟོགས་ནད་ཀྱིས་བཟུང་བའི་མི་ལ་དགོས་པའི་ཉིན་ཞིག་གི་དཔེ་ཚུལ། ཟས་ ལས་ཀ་ དང་ངལ་གསོ་རྒྱུན་ལྡན་ཞིག་ལ་བཀོད་པ་དང་། ཁྱོད་ཀྱི་རང་གི་ཚུལ་བཟོ་བ་དང་། ཉིན་དཀའ་ངལ་ཆེ་བ་ལ་བསྒྱུར་བའི་ཐབས་ཀྱང་བསྟན་པ་ཡིན།"
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  ཉིན་རེའི་ཞི་བདེའི་གནས་ཚུལ་ཞིག་གིས་ཆུ་ལངས་པ་ ཟས་ གཟུགས་སྐྲ་སོགས་ཀྱི་ཞབས་ཞུ་ དང་ནུབ་སྐབས་ནི་མཚམས་ཆུ་ཚོད་ཅིག་ལ་བཞག་པ་ཡིན། ཉིན་གྱི་ལས་ཀ་གལ་ཆེ་ཤོས་ཀྱང་མི་ཁོ་ན་ཤེས་རིག་མཐོ་བའི་དུས་ལ་བཞག་པ་དང་། ལས་ཀ་དང་ངལ་གསོ་ཕྱོགས་མཉམ་བྱེད་པ་ཡིན། ཁྱོད་ཀྱི་མི་ལ་ཡོད་པའི་སྤྱོད་ཚུལ་ལས་བཟོས་ཤིག དུས་ཚོད་མི་འདོན་བཞིན་དུ་ཞི་བདེ་བཞག་ནས། ཉིན་རེ་ཉི་ཟླ་དང་ལུས་སྤྱོད་བྱེད་ཤིག དགོས་པའི་ཚེ་ཉིན་གྱི་ཚུལ་རང་དབང་གིས་བསྒྱུར་ཆོག
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "ཆུ་ལངས་པ་ ཟས་ ཞབས་ཞུ་ དང་ནུབ་ཚེས་ཀྱི་དུས་ཚོད་རྟག་པས་ཉིན་ཞིག་ལ་ཤེས་པའི་གཟུགས་བཟང་བ་ཡོད།"
+  - "ལས་ཀ་གལ་ཆེ་ཤོས་ཀྱི་དུས་ཚོད་ཀྱི་ནང་དུ་བཞག་པ། ཡིན་ཚེ་སྔ་དྲོ་ཡིན་པ་མང་།"
+  - "ཚེས་ཐམས་ཅད་ལ་མ་ཁེངས་པར་བྱོས། ངལ་གསོ་དང་ཞི་བདེའི་དུས་ཀྱང་ཉིན་གྱི་ཚུལ་གྱི་ཆ་ཤས་ཡིན།"
+  - "ཉི་ཟླ་ ཉིན་རེའི་ལུས་སྤྱོད་ དང་ཉིན་ཕྱི་ལ་རིང་པོའི་ཉལ་སྐབས་དང་ཞག་མཇུག་གི་ཅ་ཡ་ཚོན་ཞིག་སྤོང་བ་ནི་ཉིན་ཕྱི་ཡན་ཆད་ཀྱི་རྣམ་འགྱུར་ལ་ཕན་ཐོགས་ཡོད་ཀྱང་ཡོད།"
+  - "ཚུལ་ནི་ལམ་སྟོན་ཡིན་གྱི་ཁྲིམས་མ་མ་ཡིན། དཀའ་ངལ་ཆེ་བའི་ཉིན་ལ་མཚམས་བརྗེ་ བསྐྱུར་ ཡང་ན་སྤངས་ཆོག"
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "ཤེས་རྟོགས་ནད་ཀྱིས་བཟུང་བའི་མི་ལ་ཉིན་རེའི་ཚུལ་ཅི་ཕན་ཡོད་ཅེས་དྲིས་ན།"
+    a: "ཉིན་གྱི་ཚུལ་སྔ་ནས་ངེས་པ་ཡོད་ན་ངེས་མེད་དང་ངོ་མཚར་ཉུང་བ་ཡིན། ཤེས་རྟོགས་ནད་ཀྱིས་བཟུང་བའི་མི་མང་པོས་དེས་སེམས་སྦྱངས་སུ་མཐོང་ཞིང་། Alzheimer's Association ཀྱིས་ཉིན་གྱི་ཚུལ་བཟོས་པ་ན་ཁྱོད་གཉིས་དགའ་བའི་ལས་ཀ་ལ་དུས་མང་སྤྲོད་ཆོག་པ་དང་། ཉིན་གྱི་ཚུལ་ཡང་ཞིག་སྐྱོང་བ་ལ་ཕན་ཐོགས་ཡོད་ཅེས་བཤད་ཡོད།"
+  - q: "ཤེས་རྟོགས་ནད་ཀྱིས་བཟུང་བའི་མི་ལ་ཉིན་རེའི་དུས་ཚོད་ཅི་ལྟ་བུ་ཞིག་ཡག་པོ་ཡིན་ནམ།"
+    a: "དུས་ཚོད་ཅིག་ཅར་ཡང་ནི་ཡིན་མི་དགོས། ཡག་པོ་ཞིག་ནི་ཆུ་ལངས་པ་ ཟས་ དང་ནུབ་ཚེས་ཀྱི་དུས་ཚོད་ནི་རྟག་པ་ཞིག་ཡིན་ཞིང་། མི་ཁོ་ན་ཤེས་རིག་མཐོ་བའི་དུས་ལ་གཟུགས་སྐྲ་སོགས་དང་ལས་ཀ་གལ་ཆེ་ཤོས་བཞག་པ། ཁང་པའི་ཕྱི་ཡང་ན་སྒོ་སྣེ་ཉེ་བའི་ཉི་མ་གཟིགས་ཆོག་པའི་དུས་ཚོད་ཡོད་པ་དང་། ངལ་གསོ་ལ་ཡང་ཡ་མཚན་སྤྲོད་དགོས། དེ་ཡང་མི་དེ་ཡིས་ཐོག་མར་གནས་པའི་ཚུལ་ལ་བརྟེན་ནས་བཟོས་ཤིག"
+  - q: "ཤེས་རྟོགས་ནད་ཀྱིས་བཟུང་བའི་མི་ལ་ཉིན་ཕྱི་ལ་ཉལ་དགོས་ངམ།"
+    a: "ཉལ་ཆུང་ཀུ་ཞིག་ཕན་ཐོགས་ཡོད་ཀྱང་ཡོད། ཁྱད་པར་ཟས་ཟོས་རྗེས་ཀྱི་ཚེ་རེད། National Institute on Aging ཀྱིས་ཉིན་ཕྱི་ཉལ་རིང་པོ་དང་ནུབ་ཚེས་ཀྱི་ཉལ་ཁ་སྤོང་བ་ལ་བརྩོན་ཞུས་པ་ཡིན། དེ་ཡང་ལུས་ཀྱི་ངལ་ཤུགས་ཆེ་བ་དང་ཉལ་ངན་ཚེ་ནུབ་ཚེས་ཀྱི་རྣམ་འགྱུར་ལ་འཕེལ་བར་བྱེད་ཀྱི་ཡོད། གཅེས་པའི་ཉལ་ངན་ཡོད་ན་ཁྱོད་ཀྱི་སྨན་པ་དང་བསྡུར་ཞིག"
+  - q: "ཁོ་རང་གིས་ཚུལ་ལ་མི་བརྟེན་ན་ཅི་བྱེད།"
+    a: "ད་ལྟར་ངོ་ཚར་མ་བྱེད་པར་ཕྱིས་ཡང་ན་གཞན་ཤུལ་གྱིས་ཞུ་ཞིག ཁོ་རང་གིས་ངེས་པ་མི་བྱེད་ན་ངལ་བ་ ན་ཚ་ སོ་ཕྲན་ངལ་ གཡོན་ཁྱབ་ ཡང་ན་ད་ལྟར་འགྲོ་མི་ནུས་པའི་རྐྱེན་ཡིན་ཚེ་རེད། ཚུལ་འདི་ནི་ཉིན་ལ་ངལ་ཆ་བཟོས་པའི་ཆེད་ཡིན་པས་ཤུགས་བསྐུལ་མ་བྱེད་པར་ཞིག་ལ་བསྐྱུར་ཤིག"
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +41,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+ཉིན་རེ་ཆུ་ལངས་པ་ ཟས་ ལས་ཀ་ཆུང་ཀུ་ ངལ་གསོ་དང་ཉལ་བ་སོགས་ཚད་མཉམ་གྱི་དུས་ཚོད་ལ་བྱེད་པས་ཉིན་ཞིག་ལ་ཤེས་པའི་གཟུགས་བཟང་བ་ཡོད། དེས་ངེས་མེད་དང་ངོ་མཚར་ཉུང་ཞིང་། ཁྱོད་ཀྱིས་ཅི་བྱེད་ཅེས་སེམས་ལ་ཡོད་པའི་དུས་ཀྱང་ཞིག་ལ་ལམ་སྟོན་འབུལ་ཆོག རྒྱུན་ལྡན་གྱི་ཚུལ་འོག་ལ་ནི་དཔེར་ཡིན་གྱི་ཁྲིམས་མ་མ་ཡིན། ཐོག་མའི་ཡ་མཚན་ཞིག་སྟེ་ཁྱོད་ཀྱིས་བྲེལ་བའི་མི་ལ་དང་འབྲེལ་བ་ཡོད་པའི་ཚུལ་གྱིས་བཟོས་ཤིག
 
-## Why does a daily routine help?
+## ཅིའི་ཕྱིར་ཉིན་རེའི་ཚུལ་ཕན་ཐོགས་ཡོད་ཅེས་ན།
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+ཚུལ་རྒྱུན་ལྡན་ཞིག་ཕན་པ་ནི་ཡོད་པའི་ཚུལ་ལ་ཤེས་པ་ལ་སླ་བ་ཡིན་པའི་ཕྱིར་རེད། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ཀྱིས་ཉིན་གྱི་ཚུལ་བཟོས་པས་ལས་ཀ་གང་བྱེད་ཅེས་བསམ་པའི་དུས་ཚོད་ཉུང་ཞིང་། ཉིན་གྱི་དགའ་བའི་ལས་ཀ་ལ་དུས་མང་སྤྲོད་ཆོག་ཅེས་གསུངས། ཡང་ཆུ་ལངས་པ་དང་ཉལ་བའི་དུས་ཚོད་རྟག་པས་ཉལ་ངན་དང་ནུབ་ཚེས་ཀྱི་རྣམ་འགྱུར་ལ་ཕན་ཐོགས་ཡོད་ཀྱང་ཡོད་ཅེས་བཤད། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ཀྱིས་ཁྱིམ་ཞི་བདེའི་ནང་ཉིན་རེ་ལུས་བཀྲུ་བ་ གོས་གུ་ དང་ཟས་ཟོས་པ་དུས་ཚོད་གཅིག་ལ་བྱེད་པར་བརྩོན་ཞུས་ཞིང་། [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ཀྱིས་ཀྱང་ཚུལ་རྒྱུན་ལྡན་སྐྱོང་བར་བཀའ་སློབ་བྱས།
 
-## A sample gentle day
+## ཉིན་ཞིག་ཞི་བདེའི་དཔེར་ནི།
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+དུས་ཚོད་ནི་དཔེར་ཡིན་ཡིན། མི་དེའི་རང་གི་ཉིན་ལོགས་ཆགས་སྟངས་ལ་བརྟེན་ནས་ཉིན་ཡོངས་ཕྱིར་ཡང་ན་ཕྱིས་སུ་བསྒྱུར་ཆོག
 
-| Time | What happens | Ideas | On a harder day |
+| དུས་ཚོད | ཇི་ལྟར་བྱེད་པ | གྲོས་འཆར | ཉིན་དཀའ་ངལ་ཆེ་བ་ལ་ | 
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| སྔ་དྲོ 8:00 | ལངས་ནས་ལུས་བཀྲུ་ གོས་གུ | ཉིན་རེ་རིམ་པ་མཉམ་པ། གོས་ཀྱི་རིམ་པ་ལྟར་ཤོག་ལ་བཞག | ཞབས་ཞུ་ཆུང་ཀུ་བྱོས། གོས་གསར་ཅིག་ཡོད་ན་ལགས། |
+| སྔ་དྲོ 8:45 | ཟས་སྔ་དྲོ | ཇ་དང་ཤོག་ངོས་ཀླག་པ་ ཡང་ན་རླུང་ཕྱོགས་ཀྱི་ཆ་ཆས་ | མཉམ་ཟས་ཟོས་ཞི་བདེས། གསུང་རྒྱུ་ཡོད་མེད་ཀྱི་གནོད་མེད། |
+| སྔ་དྲོ 9:30 | ལས་ཀའི་གལ་ཆེ་ཤོས་ | གོས་བསྡུ་ མཁར་བཟོ་ ཤིང་སྐྱེམ་ ཕྱིར་འགྲོ་ནམ་ཁྱིམ་ཟུག་ | ཐུང་ཀུ་ཞིག་ ཡང་ན་ཁོ་ཚོས་ཁྱོད་ལ་བལྟ་ཆོག |
+| སྔ་དྲོ 10:30 | ངལ་གསོའི་དུས་ | ཀླུ་སྒྲ། པར་ཤོག ཡང་ན་སྒོ་སྣེ་ཉེ་བར་སྡོད | ཁ་དོག་དགའ་བའི་གདན་ལ་ངལ་གསོ |
+| ཉིན་གུང་ 11:00 | ཟས་ཀྱི་རོགས་པ། | ཤོག་དང་ཁ་ལ་ཕྱོགས་ཤོག ཤོང་ཁ་ཁ་ཕྲེང་བཞག | ཁྱོད་ཀྱིས་ཟས་སྐྲུན། ཁོ་ཚོས་གྲོགས་སུ་ཡོད་ན་ལགས། |
+| ཉིན་གུང་ 12:00 | ཟས་ཟོས་དང་གཙང་སྦྲ་ | ཐབ་ཆ་གཙང་བཟོ། ཤོ་ཆ་ལག་གཅིག་གཉིས་སྤྱད | ལས་ཀ་སྤོང་ |
+| ཉིན་གུང་ 1:00 | ངལ་གསོ་ཐུང་ཀུ་ | རྐང་པ་སར་བཞག ཀླུ་སྒྲ་ཞི་བ་ | དེ་ལས་ཀྱི་ཆ་མཚུངས་ |
+| ཉིན་གུང་ 2:00 | ཕྱི་ཁར་ཡང་ན་ལས་དང་ལྡན་ | འགྲོ་ལམ། ཁང་མདུན་གྱི་ཉི་མ། ཤིང་ལ་ཆུ་འཇུག ཅེ་ལོ་ཕྱིས་རྒྱག | ཉི་མ་གསལ་བའི་སྒོ་སྣེ་ཉེ་བར་སྡོད |
+| ཕྱི་དྲོ 3:00 | མི་མང་ཡང་ན་བཟོ་ཚུལ་ | ཕྱོགས་ཀྱི་མི་ཡང་ན་ཁ་བརྡ། [པར་ཤོག་ཆ་གཉིས་](/games/picture-pairs/)། ཁ་དོག་བཅོས། ཤོག་ཁ་ཁ་ | ཇ་དང་ཟས་ཁྲ་ཆ་མཉམ་ཟོས |
+| ཕྱི་དྲོ 4:30 | ཞི་བདེ་སྒྲིག་པའི་དུས་ | སྒོ་སྒྲོམ་བསྒྲིགས། མེ་ཏོག་ཕྱར་། ཤིང་ཤོག་གཟེང་བ་ལྟ་བུའི་སྒོ་ལས་ | བཟོ་ཚུལ་གསལ་བའི་དབྱངས། སྒྲ་ཉུང་ཉུང་ |
+| ཕྱི་དྲོ 5:30 | དགོང་མོ་ཟས་ | ཟས་བསྐྱུར་རོགས་ཡང་ན་ཤོག་ཆ་བཞག | ཟས་རྒྱུན་ལྡན་ཀྱི་ཆ་ཚང་ |
+| དགོང་མོ 6:30 | མཉམ་ཀྱི་དུས་ | དྲན་སྐྱོང་ལ་གསོག་པ། ཤོ་ཆ། དགའ་བའི་ཚེག་བཟོ། ལག་པ་བསུས་ | ཞི་བདེའི་མཉམ་འདུ |
+| དགོང་མོ 8:00 | ཉལ་ཁ་ཡི་ཚུལ་ | ཆུ་བྱུག་ ཤུབ་ཚར་ སྣུམ་ཡོ་གཅིག་བྱེད། སྒྲ་ཉུང་ མེ་ཚད་ཐུང་ | ཡོངས་ཚད་ཐུང་དུ་བྱོས། ཞི་བདེ་ཕྱིར་ཞིག |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+ཤོག་དཔེ་འདི་ནི་Alzheimer's Association ཀྱི་ཐོག་མ་དང་བར་གྱི་རིམ་པའི་དཔེ་ཚུལ་གྱི་རིམ་པ་ལ་བརྟེན་ཡོད། སྔ་དྲོའི་ལུས་བཀྲུ་དང་ཟས་ནས་ལས་ཀ་ བྲག་འཐབ་ ཤིང་ལ་འགྲོ་བ་ ཀླུ་སྒྲ་ ངལ་གསོ་དང་ཁ་བརྡ་ལ་འཁོར་ཞིང་། དགོང་མོ་ཟས་ དྲན་སྐྱོང་དང་ཉལ་སྐབས་ཀྱི་གྲབ་ཆས་ཀྱི་བར་རེད།
 
-## How do you build your own routine?
+## ཁྱོད་ཀྱི་རང་གི་ཚུལ་ཇི་ལྟར་བཟོ་ནུས།
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+ཚོད་ཁྲ་ལས་མ་ཡིན་པར་མི་དེ་ཡིས་ཐོག་མནོ་ཡོད་པའི་ཚུལ་ལས་ཐོག་མ་འགོ་ཞིག Alzheimer's Association ཀྱིས་སྔ་ནས་བསམ་པའི་ཚེ་དགོས་པའི་ཚོང་དོན་འདི་ལྟ་བུ་བསམ་ཞིག
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **ཁོང་གི་དགའ་མི་དགའ་དང་། ནུས་པ་ དང་ཐུགས་ཚོར་**
+- **ཁོང་སྔོན་ནས་ཉིན་གྱི་སྤྱོད་ཚུལ། ཆུ་ལངས་པ་སྔ་མོ་ཞིག་ཡིན་ན་ཁོང་ལ་ཉིན་སྔ་མོ་ཁྱི་ཞིག་ཚོད་འགྲོ་དགོས་པ་ཡིན།**
+- **ཁོང་གི་ཤེས་རིག་མཐོ་བའི་དུས་ཚོད། ལུས་བཀྲུ་ ལས་ཀ་ཆེ་བ་ དེ་དུས་ལ་བཞག**
+- **ཟས་ གཟུགས་སྐྲ་ དང་ཉིན་གྱི་ཚུལ་ལ་སྐྱོང་ཆོག་པའི་དུས་ཚོད་ཡོད་པ།**
+- **རྒྱུན་ལྡན་ཆུ་ལངས་དང་ཉལ་དུས།**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+འདི་ཡིས་ཀྱང་གཙང་སྦྲ་ཞེས་པའི་ལས་ཀ་ དཔའ་ཆེན་ ལུས་སྤྱོད་ མཁས་ཚུལ་གྱི་ལས་ཀ་ གྲོགས་འདུ་ ཆོས་ལུགས་ཀྱི་ལས་ཀ་ དང་ནམ་ཡང་མ་རེ་བའི་དགའ་སྐད་ (དཔེར་ན་གྲོགས་པོ་ཞིག་ཕྱི་ཐིམ་པ་) ཚུད་པ་ཞིག་གི་བཅས་པ་ཡིན།
 
-### Try it for a week, then adjust
+### ཉིན་བདུན་ཙམ་ཞིག་བརྟག་ནས་བསྒྱུར་ཞིག
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+ཉིན་རེ་ཤོག་ཆུང་ཞིག་ཉར་ཞིག Alzheimer's Association ཀྱིས་ཕན་པའི་ལས་ཀ་དང་ཅིའི་ཕྱིར་ཡིན་ཞེས་དྲིས་ཞིང་། ལས་ཀ་མང་འགྲིག་པའམ་ནམ་ནོར་མང་འདུག་པ་དང་། ཉིན་དེར་རང་བྱུང་གི་སྲོལ་ཀྱི་སྤྲོ་བ་དགའ་བའམ་སེམས་སྡུག་བྱེད་པ་སོགས་ཀྱི་བདེན་པ་ལ་དྲིས་ཞིག ཕན་པ་དེ་ཉར་ཞིང་མི་ཕན་པ་བསྒྱུར་ཞིག
 
-### Make it visible
+### ཡིག་ཆ་ཐོན་པ་བཟོ་ཞིག
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+མི་དེ་ཡིས་ཀླག་ཆོག་ན་ཐོག་ཁྲ་ ཡང་ན་ཡི་གེ་ཆེན་པོའི་ཤོག་ངོས་ཀྱིས་ཉིན་གྱི་ཚུལ་ཉམས་དགའ་སྐྱེད་ཆོག ཚིག་ཐུང་ཀུ་ཞིག་བཟོ་ཞིག ཁ་བརྡ། "ཟས་སྔ་དྲོ། ཞབས་ཤ་ཞིག་ལ་ཁོས་རོལ། ཟས་དགོང་མོ། ངལ་གསོ།" མི་ཞིག་ཧྲིལ་ཆེ་ཡོད་པ་ལ་ཧྲིལ་བཅས་མ་རིག་པ་ཡང་ཡག་པོ་ཡོད། Family Caregiver Alliance ཀྱིས་ཅི་ཡང་བྱེད་སྔོན་ཆུང་ཤོས་ཀྱི་ཕྱིར་སེམས་སྡུག་པ་ཡོད་ན་ཚུལ་ཞེས་སྨྲས།
 
-## How to adapt the routine
+## ཚུལ་བསྒྱུར་བའི་ཐབས།
 
-### Leave room to breathe
+### ཞི་བདེའི་ཆ་ཤས་འཇུག་ཞིག
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+ཉིན་རེའི་སྐད་ཆ་ཡོངས་ལ་མ་ཁེངས་པར་ཞིག Alzheimer's Association ཀྱིས་མི་དེ་ལ་ལས་ཀ་དང་ངལ་གསོའི་ཆ་ཤས་མཉམ་ཡོད་དགོས་ཞེས་ཤེས་བཞིན་ཡོད། ཁོང་ཞེན་པ་ དམིགས་ཡུལ་མེད་པ་ ཡང་ན་ཁྲོ་བ་འབྱུང་ན་ལས་ཀ་བསྒྱུར་ཡང་ན་ངལ་གསོ་ཞིག་བྱོས།
 
-### Protect the late afternoon
+### ཉིན་ཕྱི་ནུབ་ཚེས་ཀྱི་ཚེ་ཉེན་སྲུང་ཞིག
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+མང་པོ་ཞིག་ནི་ཉི་མ་ནུབ་ཐུབ་པའི་ཚེ་ཤེས་རིག་ཀྱི་ངལ་ཆེ་བ་འབྱུང་བའི་ཡོད། NIA ཀྱིས་ཉིན་རེ་ཁྱིམ་གྱི་ཕྱི་ཕྱོགས་ ཡང་ན་སྒོ་སྣེ་ཉེ་བར་ཉི་མའི་འོད་ལ་ཡུན་ཐུང་བཞུགས་པ་དང་། ཉིན་རེ་ལུས་སྤྱོད་བྱེད་ཀྱི་ཡོད་ཀྱང་ཉིན་ཕྱི་ཚུལ་མང་པོས་མི་བཏང་བ། ཉིན་ཕྱི་ནུབ་ཚེས་ཀྱི་ཅ་ཡ་ཚོན་དང་བཅས་པའི་སྤྱོད་ལམ་སྤོང་བ། དེ་ལས་ཀྱང་ཉིན་ཕྱི་ཡན་ཆད་ཉལ་རིང་པོ་སྤོང་བ་ལ་བརྩོན་ཞུས། འཁྲུངས་མཆོད་སྔོན་ནུབ་ཚེས་ཀྱི་སྐབས་སྒོ་བཀབ་ཤིང་སྒྲོན་མེ་སྤར་བ་ཞིག་ཀྱང་ཕན་ཐོགས་ཡོད་པ་ཡིན་ཞེས་སྤྱིར་མང་ཡིན། ཁྱོད་ཀྱིས་[ཉིན་ཕྱི་ཀྱི་ཚེ་ཉེན་སྲུང་](/caregiving/late-day-restlessness/) དང་[གཉིད་](/brain-health/sleep/) ལ་བལྟ་ཆོག
 
-### Change it as needs change
+### དུས་ཡུན་འགྱུར་བ་ལ་ཚུལ་འགྱུར་བ།
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **ཐོག་མའི་རིམ་པ།** ཉིན་གྱི་ཚུལ་མཉམ་བཟོས་པ། མི་དེས་རང་གི་ཐོ་ཡིག་རང་དབང་གིས་སྐྱོང་ཆོག་པ་ཡིན་ཚེ་འདོད་ཐུབ།
+- **བར་གྱི་རིམ་པ།** ཁྱོད་ཀྱིས་ཁ་ཕར་དུ་འདྲེན་དགོས། ལས་ཀ་ཐུང་ཀུ་དང་ངལ་གསོ་མང་བ་དང་། ལས་ཀ་ཁྱིམ་མཚམས་ཀྱི་དཔེ་ཚུལ་མང་ཞིག་ཡིན། [བར་རིམ་གྱི་ལས་ཀ་](/activities/middle-stage/) ལ་བལྟ་ཞིག
+- **མཐར་གྱི་རིམ་པ།** ཉིན་གྱི་ཚུལ་ནི་ཞི་བདེ་ ཟས་ དང་ཞབས་ཞུ་ལ་སྙིང་པོ་བཞག་ཅིང་། ཀླུ་སྒྲ་ ལག་པ་བསུས་ཀྱི་ལྟ་བུ་ཐུང་ཀུ་ཚོར་བ་སྐད་ཆ་ཡོད་ཚེ་འཇུག་པ། [མཐར་གྱི་ལས་ཀ་](/activities/late-stage/) ལ་བལྟ་ཞིག
 
-### Vary the activities, not the frame
+### ལས་ཀ་བསྒྱུར་ཞིག ཚུལ་ནི་མ་བསྒྱུར།
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+ཟས་ ངལ་གསོ་ དང་ཉལ་དུས་ཀྱི་ཚུལ་རྟག་པ་བཞག་ནས་བར་གྱི་ལས་ཀ་རིམ་གྲས་ཀྱིས་བསྒྱུར། [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ཀྱིས་ཉིན་ཁ་ཤས་ལ་ལས་ཀ་གཞན་བཟོ་ཞིག་ཅེས་བཀའ་བཞག། དཔེར་ན་ཟླ་བ་ཉིན་ཁ་བསྲེག་པ། མིག་དམར་ཉིན་ཤིང་ལ་བཞག་པ། ལྷག་པ་ཉིན་ཤོག་ཁ་བལྟ་བ་སོགས། ང་ཚོའི་[101 ལས་ཀའི་གྲོས་འཆར](/activities/ideas/) དང་[ཁྱིམ་གྱི་ལས་ཀ](/activities/household-tasks/) ཡང་དུས་ཚོད་ཐོ་ལ་ཁྱབ་ཆོག
 
-## When the day goes sideways
+## ཉིན་ཞིག་ཡོལ་ནས་སོང་བའི་ཚེ།
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+ཉིན་ཞིག་ལ་ཚུལ་ཅི་ཡང་མི་འགྲིག་པ་ཡོད། ན་བ་ སྟུག་ཞིག་ གཉིད་མ་བདེ་བ་ སྨན་པ་ཤོང་བ་ ཡང་ན་གནམ་གཤིས་འགྱུར་བ་སོགས་ཀྱིས་ཐམས་ཅད་ཡོལ་ནས་འགྲོ་ཆོག ཚུལ་གྱི་སྐོར་ལ་སྤངས་ལ། གཞིར་གནས་ཀྱི་རྣམ་པ། ཟས་ ཆུ་ ངལ་གསོ་ དང་སེམས་ཚོར་བ་བསྲུང་ཞིག་ སང་ཉིན་ཡང་ལན་གཅིག་བརྩམས་ཤིག མི་དེས་ཅི་ཡང་མ་དགའ་ན་[དགའ་མེད་ཀྱི་སྐབས་](/caregiving/when-they-say-no/) ལ་བལྟ་ཞིག ཁྱོད་གཉིས་ལ་སྔོན་ལས་ཀྱི་སྟབས་ཞེན་ལན་གཅིག་ཟླ་བསྒྲིག་ཐུབ་པར་ [ཞི་བདེའི་ཁ་སྐོང་](/games/calm-breathing/) ལྟ་བུ་ཞིག་ཀྱང་ཕན་ཐོགས་ཡོད།
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+ཁྱོད་ཀྱི་རང་གི་ཉིན་ཚུལ་ཀྱང་གལ་ཆེ། ཁྱོད་ལ་ངལ་གསོའི་དུས་ཚོད་ཞིག་ཚུད་ཅིག ཡང་ན་གྲོགས་པོ་ ཡང་ན་ཞབས་ཞུ་ཚོགས་ཁག་ལ་ནམ་གཅིག་ཁ་ཕྱེ་རེ་བཞག་ཅིག [ཁྱོད་རང་གི་ཞབས་ཞུ](/caregiving/caregiver-self-care/) ལ་བལྟ་ཞིག

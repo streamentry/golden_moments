@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Dementia laban kɛlɛw: dibi walima sigida kɔnɔ"
+seoTitle: "Dementia laban kɛlɛw: dibi ni sigida kɔnɔ ka ci"
+description: "Dementia laban waatiw la, dibi walima sigida kɔnɔ fana, aw ka se ka kɛ dɔnkili, bolo ɲɔgɔn ɲɛ, kumaw kɛ ka lajɛ, sɔnɔ ni aw ka kɔnɔ ni mɔgɔ ye, ni yɛrɛmahoro ladilanw."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Dementia laban waatiw la, kɛlɛw bɛ kɛ hakili ka sɛnsɛw ni aw ka kɔnɔ ye:
+  dɔnkili min bɛ mɔgɔ nisɔndi, bolo ɲɔgɔn ɲɛ, bolo ɲɛfɛ dɔgɔ-dɔgɔ, kumaw
+  kɛ ka lajɛ, sɔnɔ, ni ka sigi fɛn-fɛn ka nafolo bɔ ni sɛgɛnnen ye walima
+  bɔgɔ kɔnɔ. Kɛlɛw nin bɛ se ka kɛ dibi walima sigida kɔnɔ fana. Waati dɔgɔ-dɔgɔ
+  ka kɛlɛ, mɔgɔ ka ɲɛ ni bolo ɲɛ ka sɔrɔ ka lafiya ɲɛnɔgɔn, ani aw ka ɲɛnɔgɔn
+  kɛ kɛlɛ ye yɛrɛ.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Mɔgɔ ni ɲɔgɔn ka ɲɛnamaya bɛ se ka kɛ fana. Dementia laban waatiw la, dunuya bɛ mɔgɔ ye ka sɛnsɛw fɛ kosɛbɛ."
+  - "Dɔnkili, bolo ɲɛ dɔgɔ-dɔgɔ, kɛnɛ mɔgɔ ka kan min ka ɲɛnɔgɔn, ani fɛn dɔ min bɛ mɔgɔ ka kɔnɔ ni a bɛ ka sɔrɔ ka lafiya, bɛ mɔgɔ ɲɛ ka sɔrɔ tuma min na kuma tɛ sɔrɔ."
+  - "Kɛlɛw caman nin bɛ se ka kɛ mɔgɔ min bɛ dibi walima sigida kɔnɔ."
+  - "Aw ka ɲɛ, bolo ni ɲɛfɛ bɛ ko ka lafiya walima ka jo, aw ka kɛ ka o lɔ, ani aw ka ɲɛnɔgɔn ka sɛgɛn ni a bɛ ko ka jo."
+  - "Aw kana fɛn tɔɔrɔ dɔgɔ-dɔgɔ sɔrɔ, ani aw ka dumuni walima minɛn kɔrɔ ni jɛnɛkɛ bɛ mɔgɔ ko, ka kɛ ni kɛnɛya kɔnɔ kɛ ka kɛɲɛ."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Mun kɛlɛw bɛ se ka kɛ ni dementia laban waatiw la mɔgɔ min bɛ dibi kɔnɔ?"
+    a: "Aw bɛ se ka a dɔnkili min bɛ a nisɔndi, aw bɛ se ka bolo ɲɛ, aw bɛ se ka bolo ɲɛ ni sanukɛ ye dɔgɔ-dɔgɔ, aw bɛ se ka kitabu walima alako min a bɛ fɛ, karɔ kɔnɔ. Aw bɛ se ka dɔ kɛ ka kumaw kɛ ka lajɛ, walima ka sɔnɔ min bɛ bɔ dugu la. Aw bɛ se ka wɔrɔkɔnɔ yeli ka ɲɛ ka bɔ dugu la. Waati dɔgɔ-dɔgɔ, ni kɛlɛ kelen kɔnɔ, o bɛ kɛ ɲɛfɛ."
+  - q: "Dementia laban waatiw la mɔgɔ bɛ se ka dɔnkili nisɔndiya wa?"
+    a: "Ɔ bɛ se. Alzheimer's Association b'a jira ko laban waatiw la fana, mɔgɔ bɛ se ka a bolo ɲɔgɔn dɔ ka dɔnkili kɔnɔ walima ka dɔnkili min a bɛ lakana ka dɛmɛnɛ abada. A bɛ se ka dɔnkili min a bɛ fɛ a kɛnɛ waati la, o sugandi. Sɔnɔ dɔgɔ."
+  - q: "Ne bɛ se ka a dɔn ko mɔgɔ bɛ kɛlɛ nisɔndiya wa?"
+    a: "Aw ka ɲɛ ka sɛgɛn dɔ-dɔ: aw ka kɛnɛ bɛ sɛnɛ, aw ka ɲɛ bɛ nɔgɔya, aw ka ɲɛ bɛ aw ɲɛ, a bɛ sɛnɛ, bolo bɛ aw bolo ɲɛ dɔgɔ-dɔgɔ, walima a dusu bɛ sɔrɔ ka dɔgɔ. Aw ka ɲɛ bɛ tɔɔrɔ, kɛnɛ bɛ kɔrɔ, a bɛ dusu kɔnɔ, walima a bɛ ka hɛrɛ bɔ ... o bɛ se ka kɛ ko a ka jo walima ka dɔnkili. Ni o bɛ kɛ, aw ka sɔrɔ ka ka ɲɛnɔgɔn ka kɛ ka kuma ni kɛlɛw ka mɔgɔw ye."
+  - q: "A ka ɲɛ kɛ ni a ma ne dɔn tuma min na, a bɛ ka kɛ ka se wa?"
+    a: "Ɔ bɛ se. National Institute on Aging b'a jira ko mɔgɔ min bɛ aw ka sɔrɔ, o bɛ se ka nisɔndiya, ani dɔnkili, bolo ɲɛ ni kumaw bɛ se ka nisɔndiya dementia fɔlɔ ni dementia tɔɔrɔ laban waatiw la. Aw ka kan ni aw ka bolo ɲɛ bɛ mɔgɔ dɔn, o ko aw tɔgɔ tɛ dɔn."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Dementia laban waatiw la, mɔgɔ bɛ se ka kuma dɔgɔn kosɔn, a bɛ se ka a yɛrɛ fɛ fɛn bɛɛ la dɛmɛ ye, ani a bɛ waati caman sigi dibi walima sigida kɔnɔ. Aw bɛ se ka miiri ko aw tɛ se ka fɛn si kɛ ni aw ye. Nka fɛn bɛ kɛ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) b'a jira ko mɔgɔ ka hakili ka kɔnɔ fɛn dɔ bɛ to, ani o waati la dunuya bɛ mɔgɔ ye ka sɛnsɛw fɛ kosɛbɛ. Dɔnkili, dɔ ka kuma min a dɔnna, aw ka bolo ɲɛ, ani aw ka kɔnɔ ni hakilina bɛ se ka nisɔndiya ani ka mɔgɔ ni ɲɔgɔn ɲɛ ka sɔrɔ.
 
-## What activities help in late-stage dementia?
+## Dementia laban waatiw la, mun kɛlɛw ka nɛɛnɛ bɛ?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Sɛnsɛ kɛlɛw dɔgɔ-dɔgɔ ani sigi ni aw ye nɛɛnɛ caman bɛ dementia laban waatiw la. Alzheimer's Association b'a yɔrɔ di ko aw bɛ se ka dɔnkili min a bɛ fɛ dɔ ka da, kitabu dɔ ka kuma min bɛ a ka hakili la dɔ ka kɔnɔ, ka jɛgɛ min ka sanukɛ ka bɛn ni a ka nɔ ye ka kɛ jɛgɛ fɛ, ani dugu la ka sigi ka aw ni a ye ka tile ɲɔgɔn ɲɛ kɔnɔ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) b'a fara ka kumaw kɛ ka lajɛ, sanuw jira, kɛnɛ dɔgɔ-dɔgɔ walima dusu kɛ, dɔnkili, sɔnɔ min bɛ bɔ dugu la walima ka ɲɔgɔn, ani o b'a jira ko aw ka kɔnɔ kelen fana bɛ se ka nisɔndiya.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) b'a jira ko mɔgɔ min bɛ laban waatiw la, a bɛ fɛn dɔ min ka kan ka lafiya, a bɛ fɛn ka ɲɛ ka ɲɛnɔgɔn kosɔn. A b'a ɲɛnɔgɔn ka sɛnsɛ kɛlɛw dɔgɔ-dɔgɔ, dusu kɛlɛw dɔgɔ-dɔgɔ, kanw dɔ ka dɔnkili ni ka sanukɛ, dɔnkili, mɔgɔ ka kanw ka kɛlɛ ni kɛnɛya kɔnɔ ka kɛ ka kɛ, ani ka kɛlɛ kɛ ni kɛlɛ ɲɔgɔn ye.
 
-## Activities for someone in bed or a chair
+## Dibi walima sigida kɔnɔ kɛlɛw
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Dɔnkili kɛ a yɛrɛ ka.** Aw ka dɔnkili min ka ɲɛnamaya kɔfɛ, a ka dinɛ walima a ka dɔnkili min bɛ a ka ɲɛnamaya la. Aw ka sanuw dɔgɔ-dɔgɔ ka kɛ sɛnɛ kɔnɔ, ani aw ka sigi a ɲɛ kɔrɔ. Ɔ bɛ se ka kɛ ko mɔgɔ dɔ ka bolo bɛ tanga walima a bɛ kumaw kɛ ka lajɛ. [Dɔnkili kɛlɛw](/activities/music/) yɛrɛ.
+2. **Bolo ɲɛ.** Bolo ɲɛ dɔgɔ-dɔgɔ ni aw ka bolo kɔnɔ ka ɲɛ sɔrɔ, o fana ye kɛlɛ ye. Aw ka a fɔ ka aw bɛ min kɛ, o ɲɛfɛ.
+3. **Aw ka bolo ɲɛ ka sɔrɔ ka dɔgɔ-dɔgɔ.** Aw ka sanukɛ dɔgɔ ka ɲɛ ni aw ka bolo kɔnɔ, ka ɲɛ ka bolo kɔrɔ ka fɔ ka se a kɛnɛ ɲɔgɔn ma. Aw ka sanukɛ kana kɛ ni sanukɛ bɛ tɛ dɔ ye, walima sanukɛ min a fɛ ka kɛ a ka nɔ kɔnɔ, ni a ka kɔnɔ bɛ se.
+4. **Kitabu walima kumaw kɛ ka lajɛ.** Kuma dɔ min a fɛ, kitabu dɔ ka kuma dɔ, Alakɔra walima sɛbɛnnen dɔ, walima sɔnɛdaw ka kan. Aw ka kumaw ka sɔnɔ bɛ ka caya ka tɛmɛ kumaw ka kɛlɛ kan.
+5. **Kuma dɔ fɔ.** Aw ka kuma ka lakɛlɛ sigi walima tile min aw ni a bɛ tɛmɛ, walima don min aw ka kasa kɛra. Aw tɛ wele min na ka jaabi sɔrɔ.
+6. **Sanuw jira.** Sanu kelen kelen, ka sanu ka jɛ ka kɛ ɲɛ kɔrɔ ni aw ka bolo kɔnɔ, aw ka fɔ ni hɛrɛ ye. Aw kana kuma ko o mɔgɔ ye jɔn ye.
+7. **Fɛn dɔ kɛ min bɛ se ka dɔnkili.** Nɔgɔ dɔ ka karaw dɔgɔ dɔ, fɛnɲɛɲɔgɔn dɔ, walima bamanan ɲɔgɔn dɔ. National Institute on Aging b'a fɔ ko aw ka nɔgɔ dɔ ka kɛ a bolo kɔnɔ ni aw bɛ kɛnɛ tiɲɛ, o bɛ mɔgɔ ka ɲɛ ka tɛ aw ka kɔnɔ kɛlɛ ɲɛ.
+8. **Sɔnɔ min bɛ bɔ dugu la.** Ji sɔnɔ, kɔrɔnɛ dɔgɔ walima sɛgɛ kɔnɔ ka lafiya, o bɛ se ka dugu kɔnɔ ka ɲɛ.
+9. **Dugu kɔnɔ ka bɔ ka na dugu la.** Aw ka wɔrɔkɔnɔ yeli, aw ka sɔgɔsɔgɔ min bɛ kɛ ka sɔrɔ wɔrɔkɔnɔ kɔrɔ, walima aw ka wulu dɔgɔ-dɔgɔ walima jɛgɛ dɔgɔ-dɔgɔ ka fɛn ye aw ka ɲɛ kɔrɔ ni a ka bolo ɲɛ.
+10. **Dugu la ka bɔ.** Ni mɔgɔ bɛ se ka sigi tuguda kɔnɔ, sanuw dɔgɔ-dɔgɔ ni dugu la ka kɔnɔ, sanu dɔgɔ dɔ ka kɛ, o bɛ se ka kɛ ɲɛfɛ.
+11. **Ka a ka sɛnɛ kɔnɔ ni a ka jɛ kɔnɔ ka ɲɛ, walima ka ji kɛnɛ ka kɔnɔ ka nɔgɔ.** Ka kɛlɛ dɔgɔ-dɔgɔ ni kɛnɛ kɔnɔ ni ji ka nɔgɔ bɔɲɔ, ka bolo ni ɲɛ kɔnɔ ka nɔgɔ, o bɛ se ka kɛ ni hinɛ ye.
+12. **Dɔnkili ni kɛlɛ dɔgɔ-dɔgɔ.** Aw ka kɛnɛ ni ɲɔgɔn ka bɛnsɔ dɔ ka kɛ ka kɛnɛ, walima ka kɛnɛ ka sɔrɔ ka dɔnkili kɔnɔ. Ka lamaga kɛ ni kɛnɛ kɔnɔ, aw ka kuma ni kɛnɛ ka kan ni a ka sɛnɛ kɛɲɛ ka kɛ ka lafiya.
+13. **Ka a yɛrɛ kɛ ni sɛnɛ.** Sɛnɛ min bɛ sɛgɛn, ka sɛnɛ kɔnɔ ka kɛ ni sanu walima bolo ye, aw ka bolo ɲɛ ka sɔrɔ. Fɛn dɔ tɛ min bɛ kɛ ka kɛ.
+14. **Ɲɔgɔn bɛ se ka na.** Ni mɔgɔ bɛ se ka kɛ ni sanuw ye, dɔ ka kɛnɛ ka kɛ ka sigi a ka dibi kɔrɔ walima a ka kɔnɔ ka kɛlɛ kɔnɔ.
+15. **Dusu dɔgɔ-dɔgɔ ni ɲɔgɔn.** Aw ka sigi ɲɛ kɔrɔ ka dusu dɔgɔ-dɔgɔ, ka a jɛ ka sɔrɔ aw ni a ye. [Dusu dɔgɔ-dɔgɔ ka kɛlɛ](/games/calm-breathing/) bɛ se ka aw ka dusu ka ɲɛ ka kɛ ɲɔgɔn ye, aw bɛ se ka a daminɛ ani ka a bɔ.
+16. **Aw ka kɛ ka sigi yen.** Aw ka sigi a ɲɛ kɔrɔ, ka dɔnkili, ka ɲɛ kɛ ni kɛnɛ dɔgɔ-dɔgɔ kɛ, walima ka kitabu kɛ dɔgɔ-dɔgɔ. Aw ka yen ka kɛ, o kɛlɛ ka ɲɛnɔgɔn.
 
-## How to share an activity at this stage
+## Ka kɛlɛ dɔ ka sɔrɔ laban waati nin na
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Aw ka sɔrɔ ka bɔ ɲɛ kɔrɔ.** Aw ka tɔgɔ ɲɛ kɔnɔ, aw ka tɔgɔ ka kɛ, ka kuma dɔgɔ-dɔgɔ ni hɛrɛ ye ka ɲɛfɛ a ka kɛ.
+- **Ka fɛn kelen kelen fɔ.** Dɔnkili kɛ ka tɛlevizɔn bɔ ka kɛ, ka kɛ ka sɛnsɛ kelen kelen kɛ.
+- **Ka kɛlɛ dɔgɔ kɛ.** Miniti dɔgɔ-dɔgɔ bɛ se ka ɲɛ. Waati dɔgɔ-dɔgɔ min bɛ kɛ tile kɔnɔ, o bɛ ɲɛ ka tɛmɛ kɛlɛ dɔ kɔnɔ kɛ waati caman.
+- **Ka a kɛ ka ɲɛnɔgɔn fɔlɔ.** Ka a ka kɔnɔ ɲɛnɔgɔn ka kɛ ka ɲɛ ka sɔrɔ. National Institute on Aging b'a fɔ ko ni mɔgɔ sigi dibi walima sigida kɔnɔ, aw ka kɛ ka ɲɛnɔgɔn ka sigi kɔrɔ ka a ka ɲɛ ka kɛ ka sɔrɔ.
+- **Ka ɲɛ kɛ a ka jaabi kɔrɔ.** Bolo ɲɛ dɔgɔ-dɔgɔ, ɲɛ min bɛ kɛ ɲɛfɛ, ɲɛ kɛ ni aw ye, walima dusu lamaga kɛ, o bɛ ko a ka ɲɛnɔgɔn. National Institute on Aging b'a jira ko ni mɔgɔ bɛ sɛnɛ bɛ ko, ni a ɲɛ bɛ tɔɔrɔ, ni a bɛ dɔgɔ kɛ ka a ka ɲɛ ɲɔgɔn bɛ, ni a bɛ kuma ko a bɛ ka jo, o bɛ se ka kɛ ko a bɛ kɛnɛya. Aw ka sɔrɔ ka kɛlɛ bɔ, ka ɲɛnɔgɔn ka kɛ ka sɛgɛn.
 
-## A quick guide by sense
+## Sɛnsɛ kɔrɔ kɛlɛ dɔgɔ-dɔgɔ
 
-| Sense | Ideas | Take care |
+| Sɛnsɛ | Kɛlɛw | Aw ka ɲɛ kɔrɔ |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Sɔnɔ | Dɔnkili min a dɔnna, aw ka kuma min kɛ ka lajɛ, sɔnɔ min bɛ bɔ dugu la | Sɔnɔ ka dɔgɔ; sɔnɔ kelen kelen |
+| Ka kɛ | Bolo ɲɛ, bolo ɲɔgɔn ɲɛ, ɲɛfɛ min bɛ kɛ ka kɛ, jɛ ni ji ka nɔgɔ | Aw ka ɲɛ ka kɛ walima aw ka fɔ; ka a ye ka sɔrɔ ko a ka tɔ tɛ jo walima ka tɔ |
+| Ɲɛ | Sanuw, wɔrɔkɔnɔ yeli, fɛn ka ɲɛ, wɛrɛ kɔrɔ kɛlɛ dɔgɔ-dɔgɔ | Fɛn ka ɲɛ kɔnɔ; yɛlɛmanya ka ɲɛ ka kɛ; ka a jɔ dɔgɔ-dɔgɔ |
+| Ni | Sanukɛ min a fɛ, sɛgɛnnen, dɔgɔ-dɔgɔ min bɛ kɛ ka sɔrɔ, kafi min bɛ kɛ dugu la | Ni ɲɔgɔn ka ni kɛ ka sɛgɛn; ka kɛnɛ ka kɛ ni a ka nɔ ye |
+| Dɔgɔ | Sanukɛ dɔgɔ dɔ min a fɛ | Dɔgɔ min kɛ kɛlɛ kɔnɔ min aw ka kɛnɛ ka kɛ, ka o kɛ kɛnɛ ka kɛ ni dɔgɔ ye |
 
-## Safety at this stage
+## Laban waati nin na lafiya
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Laban waati la, a bɛ se ka kɛ ko a kɛ ka ji nɔgɔ, National Institute on Aging b'a fɔ ko o bɛ tɛmɛ ka ɲɛnɔgɔn ka sɔrɔ. Aw kana fɛn dɔgɔ-dɔgɔ bɔ a ɲɛ kɔrɔ, ani aw ka fɛn dɔ kɛ kɛlɛ kɔnɔ dɔgɔ-dɔgɔ ni a ka jɛ, ni kɛlɛw kɔnɔ ka ji bɛ kɛ, ni a ka nɔgɔ bɛ kɛ. Aw ka kɛnɛ ka kɛ dɔgɔ-dɔgɔ ni dɔnkili kɛlɛw kɔnɔ, sabu kɛnɛ bɛ se ka ɲɛ ka kɛ, ka sɔrɔ ka dɔgɔ. Ni aw bɛ kɛlɛ sɛnsɛ kɛlɛw dɔgɔ-dɔgɔ kɛ, aw ka [sɛnsɛ kɛlɛw](/activities/sensory/) ka kɛ.
 
-## Looking after yourself too
+## Aw yɛrɛ ka lafiya fana
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Laban waati la ɲɛnamaya kɛlɛ bɛ se ka kɛ kɔnɔ, dugu la walima ni aw bɛ taa ka na tuguda kɔnɔ. Hospice ani palliative care kɛlɛ kɔnɔ mɔgɔw bɛ se ka dɛmɛ ka lafiya, ka dɛmɛ, ani ka kɛlɛ laɲini, ani National Institute on Aging b'o tɔgɔ kɛ dɛmɛ yɔrɔ ye. Taa dɔgɔ-dɔgɔ ni sɛgɛn min bɛ kɛ, o bɛ ɲɛ; a ka [dementia ni mɔgɔ ka taa](/activities/visiting/) ka kɛ. Ni aw bɛ mɔgɔ kɔnɔ ka kɛlɛ kɛ, [tuguda kɔnɔ kɛlɛw](/activities/care-home-groups/) bɛ fɛn dɔ ko kɛlɛ kɔnɔ ka kɛlɛ ka sɔrɔ. Ka [aw yɛrɛ ka lafiya](/caregiving/caregiver-self-care/) ka kan fana: sɛgɛn ye ɲɛnamaya ka kɛ kɛlɛ ɲɛfɛ ye.

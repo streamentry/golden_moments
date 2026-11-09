@@ -1,32 +1,28 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "བརྗེད་ནོར་ནད་ཡོད་པའི་སྐྱེས་པ་ཚོའི་ཉམས་ཞིམ་ལས་ཀ"
+seoTitle: "བརྗེད་ནོར་ནད་ཡོད་པའི་སྐྱེས་པ་ཚོའི་ཉམས་ཞིམ་ལས་ཀ: ངོ་མའི་ཐབས་ལམ"
+description: "བརྗེད་ནོར་ནད་ཡོད་པའི་སྐྱེས་པ་ཚོར་ཉམས་ཞིམ་ལས་ཀའི་བསམ་འཆར། ཁོང་གི་ཡུལ་ལས་ཀ། ཆོས་ལམ་དང་ཉིན་རེའི་ལུགས་སྲོལ་ལ་བརྟེན་ཏེ་བཟོ་ཡོད། ལས་ཀ་རེ་རེ་ཕྱོགས་བསྒྱུར་ཚུལ་ལ་གྲོས་མཛད་བཅས།"
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  བརྗེད་ནོར་ནད་ཡོད་པའི་སྐྱེས་པ་ཞིག་ལ་ཡག་པོའི་ཉམས་ཞིམ་ལས་ཀ་ནི་ཁོང་གི་རང་གི་ཚེ་ལོ་ནས་འབྱུང་བ་ཡིན། དཔེར་ན། ལས་ཀ་ཡིག་ཚང་གི་ཡིན་ན་ཤོག་བུ་སྒྲིག་པ་ལ་དགའ་སྲིད། ཤིང་ལས་པ་ཡིན་ན་སྒྲིག་བཟོའི་ལག་ཆ་གཙང་མ་ལ་དགའ་སྲིད། རྩེ་རྒྱུག་ལ་དགའ་ན་རྙིང་པའི་རྩེ་རྒྱུག་ལ་དགའ་སྲིད། སྐྱེས་པ་ཁ་ཤས་ཀྱི་དགའ་ཚུལ་མི་འདྲ་བས་ཁོང་གི་ཕོ་ཡིན་པའི་ངོ་བོ་ལས་ཡང་བཟུང་ནས་ལོ་རྒྱུས་ལ་བརྟེན་དགོས།
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "ཁོང་གི་རང་གི་ལོ་རྒྱུས་ལས་བཟུང་ནས་འགོ་བཙུགས་ཤིག ལས་ཀ། ཆོས་ལམ། ཉིན་རེའི་ལུགས་སྲོལ་དང་ཁོང་ངོ་མཚར་བྱས་པ་སོགས་ཡིན།"
+  - "ཐོན་འབྲས་ཀྱི་དོན་ཚན་ཡོད་པའི་ལས་ཀ། དཔེར་ན་ལྕགས་ཁ་ཤས་སྒྲིག་པ། ཀ་ར་སྤྱད་ནས་ཁྲ་ཕྱི་བ་ སོགས་ཀྱིས་སློབ་ཁང་གི་ཚོད་ལྟ་ཚུལ་ལས་ལྷག་པར་ཁོང་ལ་ཤུགས་ཆེ་བ་ཡིན་སྲིད།"
+  - "སྐྱེས་པ་ཚང་མ་ལ་ཤིང་ལས་དང་རྩེ་རྒྱུག་དགའ་མི་དགོས། ཁ་ཤས་ཀྱིས་ཟས་བཟོ། རོལ་མོ། ཤིང་ཏོ། ཁྱད་པར་རིག་པ་དང་གཞན་ལ་སྐྱོབ་པ་སོགས་ལ་དགའ་སྲིད། ཁོང་ལ་དྲིས། ལྟ་ཞིབ་བྱེད། ཁོང་གི་ཁ་ཕྱོགས་ལ་བརྟེན་ཤིག"
+  - "ཡན་ལག་གི་ལས་ཀ་ཕྲན་ཏེ་གཏོང་བས་ལག་ཆ་གནོད་སྐྱེད་ཅན་བཤུད་ནས་བལྟ་རྟོག་བྱེད། ཁོང་གི་ནུས་པ་འགྱུར་བའི་རྗེས་སུ་ལས་ཀ་ཕྲན་ཚེགས་སུ་སྤྲོད།"
+  - "མ་དགའ་ན་ཁས་མི་ལེན་པ་ཡང་ཆོག ཞེས་པ་ཞིག་ཏུ་ཡོ་བྱད་མ་ཡིན་པར་ཞབས་ཏོག་ཞིག་སྤྲོད། ཉིན་གཞན་ཞིག་ཏུ་ཡང་བསྐྱར་བརྩོན་ཤིག"
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "བརྗེད་ནོར་ནད་ཡོད་པའི་སྐྱེས་པ་ཚོ་ལ་ཉམས་ཞིམ་ལས་ཀ་གང་དགའ་སྲིད་ཅེས།"
+    a: "དེ་ལ་དེ་རྣམས་ཀྱི་གྲངས་ཅན་གཅིག་ཡོད་མེད། ཁ་བ་ཚང་མའི་ཁ་ཕྱོགས་སྤྲོ་བ་མི་འདྲ་བ་བཞིན། སྐྱེས་པ་རྣམས་ཀྱི་དགའ་ཚུལ་ཡང་མི་འདྲ་བ་ཡིན། འགོ་བཙུགས་ཀྱི་ས་ཆ་ཡག་པོ་ཞིག་ནི་ཁོང་གི་སྔོན་མའི་ལས་ཀ་དང་འབྲེལ་བའི་ལས་ཀ་ཡིན། དཔེར་ན་ཤོག་བུ་སྒྲིག་པ་ངམ་ལྕགས་ཁ་ཤས་སྒྲིག་པ་སོགས་ཡིན། ཡང་ཁོང་དགའ་བའི་ཆོས་ལམ་ཡང་ཡིན། དཔེར་ན་སྣ་ཤིང་། རྩེ་རྒྱུག་། རོལ་མོ། ཟས་བཟོ་ངམ་རྩེ་རྒྱུག་སོགས་ཡིན། ཁོང་རང་གིས་ཅི་བྱེད་པ་ལ་ལྟ་ཞིག རེ་ཞིག་ཁོང་གི་ནང་ནས་འཕེལ་བ་ཞིག་བྱེད།"
+  - q: "ངའི་ཕ་ཁོང་ཚོགས་པའི་ལས་ཀ་ལ་ཁས་མི་ལེན། ང་ལ་ཅི་བྱ་སྲིད།"
+    a: "མི་མང་པོ་ཞིག ཕོ་མོ་གཉིས་ཀ་གྱིས་སློབ་གྲྭ་ཞིག་འདྲ་བའམ་བུ་ལོན་ཆོས་པ་ཞིག་ལྟར་སྣང་བའི་ལས་ཀ་ལ་ཁས་མི་ལེན། ལས་ཀ་ཞིག་ཁ་ཏོན་བྱེད་ནས་བལྟས་ཤིག དཔེར་ན། ‘འདི་ཁོ་ཁྱེད་ཀྱིས་ཕྱོགས་གཅིག་དུ་སྒྲིག་ཚུགས་སམ་ཨ་རེ?’ ཞེས་བཤད་ཆོག ཚོགས་ཆུང་ངུ་ངམ་གཅིག་གི་ཕྱིར་དུས་བསྒྲེས་པ་ཡང་ཁོང་ལ་ཡིད་བདེ་ཆེ་སྲིད། ཁང་པ་ཆེན་པོ་ཞིག་ལས་ལྷག་པར།"
+  - q: "ལག་ཆ་བེད་སྤྱོད་བྱེད་པར་བཅུག་ན་བདེ་འཇགས་ཡིན་ནམ།"
+    a: "ལྟ་ཞིབ་དང་ལག་ཆ་བདེ་འཇགས་ཀྱི་འོག་ལ་རྐྱེན་ཡོད། གློག་ལག་ཆ། ཐུ་ཚུགས་དང་ཁ་ཐུབ་པ་ཐམས་ཅད་བཀྲམ་ནས་ཁོང་ལ་ཤིང་ཁ་ཕྱེ་བ། ལྕགས་ཀྱི་ཤིང་ཤོག་གཅིག་རྣ་བ། ལག་ཐོག་ནས་ཁྱེར་པའི་ཤིང་འཁྱེར་སོགས་ཁོང་ལ་སྐྱེལ་ཆོག་ངེ། Alzheimer's Association ནས་ཤིང་ལས་ཁང་ནས་གནོད་ཅན་གྱི་ལག་ཆ་བཤུད་པར་བརྡ་རྟགས་སྤྲོད་ཀྱི་ཡོད། དེ་ཡིས་སྤུ་ཤིང་གྱི་ཚོན་གཅིག་སྲིག་པ་བཞིན་ནོར་མེད་ཀྱི་ཉམས་ཞིམ་ལས་ཀ་བདེ་འཇགས་ཀྱིས་འཚོ་ཡོད།"
+  - q: "ཁོང་ནི་ལས་ཀ་མཁས་པ་ཞིག་ཡིན། ལས་ཀ་ཆུང་ངུ་ཚོས་ཁོང་ལ་སྨད་པ་འདྲ་ངམ།"
+    a: "ལས་ཀ་ཆུང་ངུ་དེ་ཁ་བྱང་གི་ལས་ཀ་ཡིན་ནོ་ཞེས་བཤད་ན་དེ་ལྟར་བྱུང་སྲིད། ལས་ཀ་དེ་ཞབས་རོགས་དངོས་པོར་བཀོད་ནས། ཡོ་བྱད་མི་ཆེན་པོའི་ལག་ལེན་ཅན་གྱིས་གནང་། དཔེར་ན་ཁྱེད་ཀྱིས་ཐོ་ཞིག་བལྟ་བ། ཡིག་ཆ་ཞིག་སྒྲིག་པ། ཡང་ན་ཤོག་བུ་སྦྱར་བར་རམ་ཞིག་ཡིན་ཆོག ཁོང་ལ་གང་ཡང་ཁྱད་པར་མཁས་པའི་ལས་ཀ་ཡོད་ན། ཡང་བདེ་མོ་ཆགས་པ་ཞིག་འབྲེལ་བ་དང་ཐ་དད་པའི་ལས་ཀ་གཅིག་གིས་ནི་ཁོང་ལ་བསྡུར་བ་ཡིན་པའི་སྣང་བ་དེ་ཉུང་ངུ་སྲིད།"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +41,80 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+ཁྱེད་ཚོས་ "བརྗེད་ནོར་ནད་ཡོད་པའི་སྐྱེས་པ་ཚོའི་ཉམས་ཞིམ་ལས་ཀ" ཞེས་འཚོལ་བ་ནི་སྤྱིར་བཏང་གི་གྲལ་ཐེམ་ཚོས་ཁྱེད་ཀྱི་ཚེ་ལོ་ནང་གི་སྐྱེས་པ་དེར་མི་འབྲེལ་བའི་རྐྱེན་གྱིས་ཡིན། དེ་ནི་ཐོག་མར་རྒྱུ་མཚན་ཡོད་པའི་དོགས་པ་ཞིག་ཡིན། འོན་ཀྱང་ལན་ནི་"ཕོ་ཚོའི་ཡིན་པའི་" ལས་ཀ་ཐོ་ཞིག་ཡིན་མིན། ཁོང་གི་ཐད་ནས་ཡིན། ཁོང་ལས་ཀ་ཅི་བྱས། ཉིན་མཐའ་མཇུག་ལ་ཅི་བྱས། ཅི་ལ་བཀའ་སྩལ་བ་ཡིན་སོགས་ལ་འཆར་གཞི་བྱ་དགོས། མི་ཚང་མའི་དགའ་ཚུལ་མི་འདྲ་བ་ཡིན། སྐྱེས་པ་མང་པོས་ཟས་བཟོ། ཤིང་ཏོ། རྩེ་རྒྱུག་ཡང་ན་གླུ་ལེན་སོགས་ལ་དགའ་ཞིང་། བུད་མེད་མང་པོས་རླུང་འཁོར་དང་བེ་སེ་བཱོལ་ལ་དགའ།
 
-## How do I find activities he will actually enjoy?
+## ངས་ཁོང་ལ་དགའ་བའི་ལས་ཀ་ག་བུ་རྙེད་ཐུབ་ནམ།
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+ཁོང་གི་ཚེ་ལོའི་ཚུལ་ལས་འགོ་བཙུགས་ཤིག Alzheimer's Association ནས་ཁོང་གི་དགའ་བ། མ་དགའ་བ། ནུས་པ་དང་ཉིན་རེའི་ཐབས་ལམ་ལ་བརྟེན་ཏེ་[ཉིན་རེའི་འཆར་གཞི་](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ཞིག་བཟོ་ཞེས་བཤད་ཡོད། རང་ཉིད་ལ་དྲིས་ཤིག
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **ཁོང་གི་ལས་ཀ་ག་རེ་ཡིན།** ཡིག་ཚང་། ཞིང་ལས། ལས་ཁང་། ལག་རྩལ། དམག་མི། ཚོང་བཙོང་། སློབ་སྦྱོང་། གཡོག་འདྲེན། ཁྱིམ་གྱི་ལས་ཀ་སོགས་ལས་གང་ཡིན།
+- **ཁོང་ནི་ངལ་སོས་ཀྱི་དུས་ཚོད་ལ་ག་རེ་བྱེད་པ་ཡིན།** རྩེ་རྒྱུག། ཤིང་ལས། ཁ་ཤིང་། ཆོས་ཡུལ། རོལ་མོ། ཟས་བཟོ། གནས་ཁང་གི་རླུང་འཁོར་སོགས་ལས་གང་ཡིན།
+- **ཁོང་གི་ཉིན་རེའི་ལུགས་སྲོལ་ག་རེ་ཡིན།** ཉིན་ཀ་ཞིག་ལ་ཇ་དང་ཤོག་ལྷེ་ཐོག་མ་ཁོ་རང་ལས། ཉིན་རེའི་གནམ་གཤིས་ལ་ལྟ་བ་དང་། གཟའ་མཐའ་ག་ལ་རྩེ་རྒྱུག་ཕྱི་བ་སོགས་ཡིན།
+- **ཁོང་རང་གིས་ཐག་བཅད་ནས་ལས་ཀ་འགོ་བཙུགས་ཚུགས་ཡོད་ན་ག་རེ་ཡིན།** Alzheimer's Association ནས་ཁོང་གིས་བཀའ་མ་ཐོབ་པར་ལས་ཀ་ཞིག་འགོ་བཙུགས་ན། དཔེར་ན་ས་ཁྱིམ་གསལ་བ་ལ་ཆོས་ན་། ལས་ཀ་དེ་ཉིན་རེའི་ལུགས་སྲོལ་ནང་ཆུད་སྲིད་པ་ཡིན་ནོ་ཞེས་བཤད་ཡོད།
+- **ཁོང་གིས་ག་རེ་སྲིད་མེད་བྱེད་དགོས་ཡོད།** སྐྱེས་པ་ཁ་ཤས་ཀྱིས་རྩེ་རྒྱུག་ལ་ལྟ་བ་དགའ་ཡང་། ཁ་ཤས་ལ་ཁོང་གི་མྱུར་ཚད་དང་སྒྲ་ཆེ་བས་གནོད་པ་ཐེབས་སྲིད། ཁོང་སྐྱིད་པོ་ཡིན་ནམ། སེམས་ཤུགས་ཆེ་ནམ། ཁྲོ་སྐྱོ་ཡོད་ཚུལ་ཅི་ཡང་རུང་སྐབས་ཀྱི་བརྡ་རྟགས་ལ་ལྟ་ཞིག
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+ཁྱེད་ཀྱི་མི་སྡེ་དང་སྔ་མའི་གྲོགས་པོ་ལ་ཡང་བརྟག་ཞིག ཁོང་ཚོས་ཉིན་རེའི་ཚེ་ལོ་ནས་ནུབ་པའི་དགའ་བ་ཡང་དྲན་སྲིད།
 
-## Activity ideas based on past work
+## སྔོན་མའི་ལས་ཀ་ལ་བརྟེན་པའི་ཉམས་ཞིམ་ལས་ཀ་གོ་རིམ།
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association ནས་དཔེ་ཞིག་གསལ་པོ་བཤད་ཡོད། ཡིག་ཚང་གི་ལས་ཁུངས་ཀྱི་མི་ཞིག་ལ་ཕྱོགས་སྡེབ་སྒྲིག་པ། གཏམ་ཐོ་སྒྲིག་པ་དང་། ཡང་ན་ཤོག་བུ་སྦྱར་བར་རམ་ཞིག་ལ་དགའ་སྲིད། ཞིང་བདག་ཡང་ན་ཞིང་ཁྱིམ་ལ་བྱེད་མཁན་ནི་ས་ཁྱོན་ཁྲུད་ནས་ཤིང་ཏོ་ཁྱེར་བ་ལ་དགའ་སྲིད་ཅེས་བཤད་ཡོད། ཁོང་གི་ལས་ཀ་གང་དང་ཡང་འདྲ་བ་ཡིན།
 
-| Past work | Activity ideas | Simpler version |
+| སྔོན་མའི་ལས་ཀ | ཉམས་ཞིམ་ལས་ཀའི་བསམ་འཆར | རྒྱས་འགྲེལ་ཚད་ཆུང་བ |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| ཡིག་ཚང་ངམ་ཚོང་ལས་ | ཤོག་བུ་དེབ་ཁྲ་ནང་སྒྲིག་པ། སྒྲོམ་ལ་ཡིག་ཁ་སྦྱར་བ། ཐོ་ཞིག་བལྟ་བ། སྟེགས་སྒྲིག་ནང་སྒྲིག་པ། | རྒྱུན་ཁྲབ་ཁ་ཡིག་སྦྱོར་བ། ཤོག་བུ་སྒྲོམ་ནང་ཁྱིག་སྦྱོར་བ། |
+| གྲྭ་ཞིང་། ཤིང་ལས་ཡང་ན་ལས་ཀ་ཚད་པ། | ཆུ་སྐྱུར་བ། ཤིང་ཐོག་ཁྱེར་བ། ལོ་མ་འཐུ་བ། ཞིང་ཁྲོམ་ལ་བལྟ་བ། | ཕྱིར་ཞིང་ལ་སྡོད་ནས་ལས་ཀ་བྱེད། ས་བོན་ཤོག་གཟུགས་འཛིན་པ། |
+| དམག་མི། | ལྷམ་ལྕི་གཙང་སེལ། ཁང་མིག་གནས་སུ་སྒྲིག་པ། ཁོང་ལ་དགའ་ན་དེ་ཚོའི་ཆ་ཚིགས་ཀྱི་ཤོག་ལྷེ་བལྟ་བ། | དུས་ཡུན་དེའི་རོལ་མོ་ཉན་པ། |
+| ཚོང་ལས་ཡང་ན་ཞབས་ཏོག་ | འཇུག་པ་པོ་བྱེད་པ། ཟས་སྐྱེལ་བ། ཁ་སྐོང་ཤོག་བུ་སྒྲིག་པ། | སྒོའི་ཉེ་འབྲེལ་ལ་བཞུགས་ནས་ཞལ་འདེབས། |
+| སློབ་སྦྱོང་ | དེབ་ཀློག་པ། དེབ་སྒྲིག་པ། ཚན་པའི་སྡེ་བདག་གིས་ཕྱེ་ནས་སྒྲིག་པ། | ཤོག་ལྷེའི་དེབ་ཞིག་མཉམ་དུ་བལྟ་བ། |
+| འདྲེན་སྐྱོགས་ཡང་ན་གཡོག་འདྲེན། | སའི་ཁ་བ་ཡང་ན་རྙིང་པའི་རླུང་འཁོར་དེབ་བལྟ་བ། རླུང་འཁོར་ཁ་བ། | སྒོ་ནས་རླུང་འཁོར་འགྲོ་བ་བལྟ་བ། |
+| ཁྱིམ་དང་ཕྲུག་ཁ་ | ཆོས་གོས་བསྡུ་བ། སྣམ་ཁྲ་སྒྲིག་པ། ཟས་སྦྱིན་པར་རམ་ཡང་ན་རལ་པ་ཐུབ་སྐྱོར། | ཟས་ཁོངས་ཁྱེར་ནས་བཟོ་གྲོགས། ཀྱུ་ཕྲན་ཚོན། |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+ཁ་ཤས་དྲན་པ། དཔེར་ན་དམག་མི་ཡི་ལས་ཀ་ནས་སེམས་ཚོར་ཤུགས་ཆེན་སྐྱེ་སྲིད། ཁོང་གི་ལམ་ལུགས་རྗེས་སུ་སོང་ཞིང་། སྔོན་མའི་གཏམ་ལ་ཕན་ཚུན་ཡག་པོར་བཞག ཁོང་ཁྲོ་བ་བྱུང་བཤམས་ཡོད་ན་ཞིག་གཏམ་སྐད་ཀྱི་སྒོ་ནས་བྱིན་ཆེན་ཡོད།
 
-## Activity ideas based on hobbies
+## རང་ཉམས་ཀྱི་ཆོས་ལམ་ལ་བརྟེན་པའི་ཉམས་ཞིམ་ལས་ཀའི་བསམ་འཆར།
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **ཤིང་ལས།** ཤིང་སྐམ་ཆུང་ཞིག་ཟླ་བ་སྦྱིན་པ་ཡང་ན་བྱ་ཁང་གི་གོང་ཆ་ཞིག་ལ་ཚོན་བཏགས་པ། Alzheimer's Association ནས་ཤིང་ལས་ཁང་ནས་གནོད་ཅན་གྱི་རྫས་དང་ལག་ཆ་བཤུད་ནས་སྤུ་ཤིང་གི་ལས་ཀ་བདེ་འཇགས་ཀྱིས་ཉམས་ཞིམ་པར་བྱེད་ཚུགས་ཟེར།
+2. **ཉ་སྣོད་ལ་བལྟ་ཞིག** ཉ་རྡོ་སྒྲོམ་ནང་ཐུ་ཚུགས་འབུད་ནས་སྒྲིག་པ། ཉ་འཛིན་དེབ་ཀློག་པ། ཡང་ན་ཆུ་མཚོ་ཁ་ནང་མཉམ་དུ་སྡོད་པ།
+3. **རླུང་འཁོར།** རླུང་འཁོར་ཁྲུ་གོ་བཀྲ་བ། ལྕགས་ཀྱི་གཟུགས་ལ་འོད་འཁྲིག་བྱེད་པ། རླུང་འཁོར་རྙིང་པའི་པར་ཁ་ནས་བལྟ་བ། ཡང་ན་གྲོགས་ཡིན་ཁ་ནས་ཁ་ཕྱོགས་ཤིག་སྐྱེལ་བ།
+4. **རྩེ་རྒྱུག** ཤོག་ལྷེ་འདྲ་བའི་རྩེ་རྒྱུག་ཞིག་བལྟ་བ། ཁ་ཕྱོགས་ཀྱི་ཐོ་བཤད་ལ་ལྟ་བ། དེབ་ཀྱི་ཤོག་ལྷེ་ནས་བཀོད་པའི་ཉིན་རེའི་རྩེ་རྒྱུག་ཐེག་པ་གནས་ཀྱི་མཐོང་། ཁོང་གི་ངོ་ན་མཐོང་། ཁ་ཧ་ནས་ཁ་སྣ་ཞིག་ཡོངས། ཁ་ཧ་ལ་བརྟེན་པ་སྦྲེལ་བ་ལ་བལྟས་ཤིག ནམ་ཡང་འབོར་སྡུད་མི་བྱེད།
+5. **རོལ་མོ་ཆོས་ཤིང་ཏོ།** ཁོང་ཅུང་ཆུང་བའི་དུས་དང་ཆོས་ལུགས་ཀྱི་གླུ་ནམ་ཚིག་མཐོན་ཟེར་བའི་ཁྲི་རྒྱུ། ལྷན་ཅིག་ཏུ་ཀྱང་ཡི་ལྷ། གླུ་མཁན་ངམ་ལྷན་ཁ་འགྲེལ་པ། ལ་ལྟ་ངེད་ཀྱི་[རོལ་མོའི་ཉམས་ཞིམ་ལས་ཀའི་ལམ་བཀོད་](/activities/music/) ལ་བལྟས་ཡོང་།
+6. **ཟས་བཟོ་དང་ཤྲ་ཚོན།** ལྷན་ཅིག་ཏུ་ཚལ་འཐུ་བ། ཇ་སྲིམ་སྲིད་པ། ཤ་རྐུབ་བཟོ་བ། ཁོང་གིས་ཐག་ཤུགས་ཆེ་བའི་ཞ་ཤ་ཇི་ལྟར་བཟོ་བ་བཤད་པ་ཞིག་བཟོ་སྐབས་ཀྱི་གཏམ་ནང་ལ་བསྐྱར་གསོ་ཚུགས་ཡོད།
+7. **ཉིན་ཤོག་ལྷེ།** Alzheimer's Association ནས་ཤོག་ལྷེ་ཆེན་པོ་ཞིག་ཀློག་ཡོད་པའི་མི་ཞིག་གིས་རྒྱུན་ཐོག་ཏུ་ཀློག་དགོས། སྣད་ཀྱི་ཚིག་དོན་ཆ་ཚང་མ་ལ་མ་ཐོབ་ཀྱང་། ཤོག་ལྷེ་ལ་མཉམ་དུ་ཀློག་ན་ཡིད་བདེ་སྲིད། ཇ་སྲིམ་དང་ཤོག་ལྷེ་ནི་ཉིན་ཀའི་ཚེ་ཚིགས་སུ་འཁྱུད་ཆོག
+8. **བཟོ་བ།** ཆ་ཤས་ཆེན་པོ་ཡོད་པའི་དཔེ་ཚོན་ངམ་ཚོགས་ལས་ཀྱི་བཟོ་སྒྲིག་ཆ་ཆེད། ཁྱེད་ཀྱིས་འཛིན་ཤིང་ཞིང་ཡུལ་ཆེ་ཞིག་འདེམས།
+9. **ཡོ་བྱད་ལ་སྐྱོབ་པ།** ཁྱི་ཡོལ་ཟས་སྦྱིན་པ། ཅ་སྦྱོར་གྱི་ཟས་སྐུད་གང་དུ་ཆོད། ཆུ་ཁ་སྐོང་བ། NIA ནས་[ཁྱི་ཡོལ་ཟས་སྦྱིན་པ་/བསིལ་འཚོ་/ཕྲུ་གུ་སྐྱོང་བ་](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ཞེས་པ་སྣ་ཚོགས་ནང་གི་ཉམས་ཞིམ་ལས་ཀ་ལ་བཀོད་ཡོད།
 
-## How do I offer an activity without it feeling like busywork?
+## ཡང་ཟེར་བ་ལས་ཀ་ཡིན་པ་མ་སྣང་བར་ཁྱེད་ཀྱིས་ལས་ཀ་གཅིག་གི་སྒོ་ནས་བསྐུལ་ཚུལ་ག་འདྲ།
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+ཁོང་ལ་དམིགས་ཡུལ་གྱི་ཞབས་རོགས་གསལ་པོ་བཤད། Alzheimer's Association ནས། "ཁྱེད་ཀྱིས་ང་ལ་རོགས་ཐུབ་ན་བདེ་བ་ཡོད་ནམ་ཟེར།" ཞེས་ལྷག་བསམ་གྱི་ཚིག་དང་། ལས་ཀ་དང་ངེས་པའི་དམིགས་ཡུལ་མཐུད་པ་བྱེད་དགོས་ཟེར། ཁ་སྦྱོར་དཔེ་ཞིག་ལ་བལྟ།
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "ཁྱེད་ཀྱིས་ཐུ་ཚུགས་འདི་སྒྲིག་འདོད་དམ།" (བརྟག་ཞིབ་ཀྱི་ཚིག་འདྲ་བ།)
+- "ང་ལ་ལྕགས་ཁ་ཤས་ཅི་ཡང་ཚོག་ཆ་མ་འདྲ་བ་ཞིག་བཙལ་བ། ཤེལ་ཐང་བསྐྱར་སྦྱོར་མ་བྱས་གོང་ལ་སྒྲིག་དགོས། ང་ལ་ཞལ་འདེབས་ཆོག་གམ།" (ལས་ཀ་ཞིག་ལྟར་སྣང་བ།)
 
-Other tips:
+གཞན་གྱི་སྐོར་ནི་གཞི་ལུགས་བཤད་ན།
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **ཡུལ་འོས་ཀྱི་ལག་ཆ་སྤྱོད།** ལག་ཆ་དངོས་ལ་ཁ་ཐུབ་པ་བཤུད་ཟིན་པ། ཤོག་འཕྲེད་ཁྲ། ཡིག་ཁ་དངོས། ཤོག་བུ་དངོས་སོགས་ཡིན།
+- **ཁ་ཕྱོགས་ཅིག་ཏུ་ལས་ཀ་བྱེད།** མི་གཉིས་ཀྱིས་ལས་ཀ་ཅིག་ལ་མཉམ་དུ་བྱེད་ན་གྲོགས་པོའི་འདུ་འཛོམས་ཡིན། མི་གཅིག་གིས་གཞན་གྱི་ལས་ཀ་ལ་བལྟས་ན་བསྐྱང་སྐྱོང་ཡིན།
+- **བཟོ་སྲོལ་བྱེད་མི་ཆོག** ཤུས་ཁ་མི་རིགས་པའི་སྒོ་ནས་ཡོད་ན་ཐོག་ཁྱེར་བ་ཞིག་གི་སྲོལ་ནས་མ་བཟུང་། ཁྱེད་གཉིས་ཀྱི་དུས་ཚོད་དང་ཡིད་ཆེས་ལ་གལ་ཆེ་བ་ཡིན།
+- **ཁོང་ལ་འགོ་བཙུགས་རམ།** Alzheimer's Association ནས་མི་མང་པོས་ལས་ཀ་བྱེད་འདོད་པ་ཡོད་ཀྱང་སྒྲིག་བཟོ་དང་འགོ་བཙུགས་པ་ལ་དཀའ་ངལ་ཡོད་ཟེར། ཐོག་མའི་ལས་ཀ་གཅིག་ཁྱེད་གཉིས་ཀྱིས་མཉམ་དུ་བྱེད།
 
-## How do I adapt as things change?
+## ཆོས་བྱེད་སྐབས་གང་ཡང་འགྱུར་ན་ག་འདྲ་བྱེད་དགོས།
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+བརྗེད་ནོར་ནད་ཀྱི་ཚད་རིམ་འཕེལ་བ་ལ་Alzheimer's Association ནས་ལས་ཀ་ཆུང་ངུ་ཞིག་དང་། ཟློས་པ་མང་བ་ཞིག་ལ་འགོ་བཙུགས་ཏེ་མི་ཡི་ལས་ཀ་ཆུང་ངུ་ཞིག་ལ་བཟོ་བཅོས་ཀྱི་ཤུགས་ལ་སྤྲོ་སྲིད་ཟེར། ཁོང་གིས་སྔོན་ཤིང་ལས་ཀྱི་ལག་ཆ་བརྩེ་བ་ཡིན་ན་ད་ལྟ་ལག་ཐོག་དང་མཉམ་དུ་གཏམ་སྐད་བྱེད་ཚེ་ཡོ་བྱད་ལ་དགའ་སྲིད། ཡང་ན་ཁྱེད་ལས་ཀ་བྱེད་པ་ལ་བལྟ་བ་དེ་ཡང་ལས་ཀ་ཞིག་ལ་ཡོད་པ་ཡིན།
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+ཁོང་གིས་ལས་ཀ་མཁས་ཤོས་ཞིག་བྱས་ན། ཁོང་ནམ་ཡང་ཆ་མཉམ་ཞིག་ལས་ལྷག་པའི་ལས་ཀ་ཞིག་གིས་ཡིད་སྐྱོ་མི་སྐྱེ་བ་ཡིན། Alzheimer's Association ནས་སྤྱིར་བཏང་གི་སྐྱོང་སྤྲོད་སྔོན་ཤུགས་གཅིག་ཡོད་ཚེ་ཤེས་མཁན་ཞིག་འདྲ་མཚམས་ཤིག་ཚེ་སྲིད་ཅེས་བཤད་ཡོད།
 
-## Safety with work-style tasks
+## ལས་ཀ་ཡིག་སྒྲིག་ཀྱི་བདེ་འཇགས།
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- གློག་ལག་ཆ་དང་མཚེར་མོ་དང་ཕྱིར་བརྡོལ་ཀྱི་ཤོག་ཆ་བཤུད་པ།
+- བཟོ་ཆས་ཀྱི་ཆུ་མཁོ་དང་བྱེད་མེད་ཀྱི་རྫས་ཚོ་སྒོ་བཀག་པ།
+- ཁོང་ལ་འཁོར་ལོ་མི་སྤྱོད་ན་ཁྱེད་ཀྱི་ལྡེ་མིག་སྣང་མེད་དུ་བཞག་པ།
+- ལས་ཀ་ཁང་དང་ས་ཡུལ་གྱི་ལས་ཀ་ཚང་མར་ལྟ་ཞིབ་བྱེད་པ།
+- ཁ་མ་ཐུབ་པའི་ནང་ལ་མི་ཆོད་པའི་ཤིང་ཆེན་པོ་སྤྱོད་པ།
 
-## What if he says no?
+## ཁོང་ཁས་མི་ལེན་ན་ག་ཡིན།
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+བཏུན་སྐྱོང་བྱེད་དགོས། ཁས་མི་ལེན་པའི་རྒྱུ་མཚན་ཡང་ལས་ཀ་དེ་ཡར་ཤོས་ཡིན་པ། ནུས་པ་མེད་པ། ཚེ་ལོ་གཞན་ནས་ཆེས་རྒྱུ་མེད་པ་ཞིག་དང་། ཉིན་དེར་མི་འོས་པ་ཡིན་སྲིད། Alzheimer's Association ནས་དེ་ལ་འབད་པས་འདྲེན་མི་བྱེད་ཅེས་འགོག་ཡོད། ལས་ཀ་གཞན་ཞིག་དང་། དུས་ཚོད་གཞན་ཞིག་ལ་ཡང་ན་ཅུང་ཟད་མཉམ་དུ་སྡོད་ནས་ཟེར་ཤིག [ཁོང་ཁས་མི་ལེན་ན་ཅི་བྱ་བ་](/caregiving/when-they-say-no/) ལ་བལྟས་ཤིག
 
-## Games and conversation that fit
+## ཁྱེད་ཀྱིས་ཆ་འཐད་པའི་རྩེ་རྒྱུག་དང་གཏམ་སྐད།
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) ནི་ཡུལ་གྱི་ཚིག་རྒྱན་མང་པོ་ལ་བརྟེན་ཏེ་གཏམ་སྐད་ཀྱི་ཁ་ཕྱོགས་སུ་འགྲོ་བ་ཡིན། [Conversation Cards](/games/conversation-cards/) ལ་ནི་ཁ་ཕྱོགས་ཀྱི་ཚིག་འཛིན་ཁ་འབྱེད་པ་དང་ཐ་དད་པའི་དྲི་བ་ཡོད་ཅིང་། ཁོང་གི་ལས་ཀ་དང་ཆོས་ལམ་གྱི་གཏམ་ཚུལ་འབྱེད་ཐུབ། [Picture Puzzle](/games/picture-puzzle/) ནི་ཤོག་རྒྱ་ཆེན་པོ་ཚང་མ་མཐོང་བཞིན་པར་ཆ་ཤས་བརྗེ་བ་དང་། [Word Search](/games/word-search/) ནི་ཡིག་ཚུགས་ཆེན་པོ་ཡོད་པས་ཁང་གི་ཟས་ཁང་ནང་ཁྱེད་ཀྱིས་ཐེངས་རེ་རྒྱ་སྐྱེག་བྱས་ནས་བྲིས་ཆོག ཁོང་ལ་བརྟག་དཔྱད་མ་ཡིན་པར་སྔོན་མའི་ཚེ་ལོ་ལ་གཏམ་སྐད་ཀྱི་ཐབས་ལམ་ཡོད་ན་[སྔོན་དྲན་གྱི་ལམ་སྟོན་](/activities/reminiscence/) ལ་བལྟས་ཤིག
