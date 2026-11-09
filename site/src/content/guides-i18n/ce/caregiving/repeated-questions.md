@@ -1,36 +1,34 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Деменцин адам цхьаьна хаам кхин-кхин хаьттаьр: мичара жоп дан"
+seoTitle: "Деменцин кхин-кхин хаамаш: мичара жоп дан, мичара дан"
+description: "Деменцин адам мичара цхьаьна хаам кхин-кхин хаьттаьр, сакхах мичара жоп дан, пайда доьхуш дерзо кхетам, а доктор мичара хилла гулар ду."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Деменцин кхин-кхин хаамаш дукха хилла ду: адам дукхах дагадеш ца хилла, хаам
+  цхьана дог-ойла йолуш ву. Сакхах калмаш жоп ло, цхьаьна дешна дахаш, кхин
+  ца аьлла "хьо хаьттина хийцахь". Жоп язде харцонца, хаьттамах кхин хьехош
+  юкъаметтиг, а кхетамна ца лелла сарахь пайда дан. Сацам хийцамо доктор гулар.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Адам дукхах дагадеш ца хилла ду; ма-хиларг ду."
+  - "Хаам цхьана дог-ойла йолу, масала, доктор лаьцна дог-оьхуш ю, я берриг кхетам хилла ву."
+  - "Жоп сакхах, лаьттанах, а дешна дахаш, цхьаьна дешна. Кхин ца аьлла \"хьо хаьттина хийцахь\"."
+  - "Язде шира хьоьрза, доска, часы я календарь жоп хьайна аьлла хьо дан мегаш ю."
+  - "Дог дахьийнаш дукхах хилла дешнаш сакхах а хилла ду."
+  - "Тайна делахь, сакхах юха дукха дахьа; сацам хийцамо доктора дахаш."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Сан да деменцин хилла, мичара цхьаьна хаам кхин-кхин хаьттаьр?"
+    a: "Деменци мукъаза-дагаделлин дукха хилла ду, аьлла дагадеш ца хилла ма-хиларг ду, я жоп ца дагадеш. Хаам дукхах дог-ойла йолу, масала, хьоьнана тешаш долу дог-оьхуш я хьаьрхан. Дукхахь дешна хьайна аьлла тешина дешна тешаш ду."
+  - q: "Сакхах \"хьо хаьттина хийцахь\" аьла лел?"
+    a: "Ца лел. Иза дагадан мегаш ца ду, а иза ма дагахь дан ю. Деменцин организацеш сакхах калмаш, лаьттанах, хьо хаьттина хийцахь ца аьлла, жоп язде харцонца аьлла дешнаш дешна ла кхайкхаш ду."
+  - q: "Жоп язде дан дукха дахьа?"
+    a: "Адам дешна гулар кхетам хилла делахь, дукха ду. Доска язде, берриг денан план хилла шира доска, йоккха часы я календарь, адам дукха схьайеш долу хьоьрза, адам жоп сам ма вахийцаш хьо тешаш мегаш ду. Хьайна гойтаде харцонца, \"хьо дааьла\" ма аьлла."
+  - q: "Доктор я хьоьнан тийсина лаьцна мичара дешнаш лел?"
+    a: "Дехар дешнашна гулар. Доктор тешаш долу тайна я хьоьнан вахар дийнахш хьоьнан дукха хилла делахь, кхин-кхин хаьтташ дукха лууш ду. Сакхах дешна, харцонца, хьоьнан кхетамаш аьлла дешна."
+  - q: "Мичара деменцин кхин-кхин хилла доктор гулар лууш ду?"
+    a: "Хаам, кхетам я хилам цхьаьна сакхах хийцахь я дукха йохадеш хилла сацам, доктора сацам ду. Инфекци, керла дарман, дукхахь я дегнаш хийцахь я кхин кхин кхетам хилла хийцахь, харцонца, масала делирий, хьайна кхетам ца кхеташ."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +56,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+"Доктор мичара хан ю?" Цхьа минот хьалха: "Доктор мичара хан ю?" Деменцин адам аьтто ца дан дукха хаам хаьттаьр — иза Ӏаьржа доьзалчу хенан дукха тешна хилла дерриг ду. Иза дукха хилла ду, ца вахарехь ца хилла ду, а харцонца жоп дан мегаш ду, ахь а, хьо тешаш долу адам а, цаьрца дийнахь дукха дехар дан мегаш ду.
 
-## Why does someone with dementia ask the same question over and over?
+## Деменцин адам мичара цхьаьна хаам кхин-кхин хаьттаьр?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Дукхахь мукъаза-дагаделлин хилла ду. Деменци лаьттан мукъаза-дагаделлина дукха дейш ду, цундела адам дукхахь хаам хаьттина дагадеш ца хилла, я жоп дагадеш ца хилла. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) цхьаьна хаам дукха хаьттар дукха дукха ду, аьлла дийцарш ду.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Хаам дукхах дог-ойла йолу. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) дийцина, кхин-кхин хаам дог-оьхуш, дехар хьайна аьлла, я дог-хьаьрхан гойтуш хилла мега, адам дукхахь тешна я дагна хьоьнца тайна аьлла. "Хьо кхин мичара вахна?" масала, "Хьо хьайна дог-оьхуш ву" аьлла хилла мега. Лаьттан хийцам, дог-оьхуш, нийсо, хьоьнан хьайна хийцам — иза шен-шен хаам сакхах хаьттаьр ду. Адам дукхахь шен дехар дагадеш ца хилла, масала, тайна хьаьра аьлла хилла мега ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Мичара жоп дан?
 
-Answer calmly and briefly, as if it were the first time.
+Жоп сакхах а, харцонца а дан, цхьаьна дешна, кхин ца аьлла.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Жоп сакхах а, цхьа ю.** "Доктор сарахь ши сехьа ю. Хьо ца дохьийш ю." Цхьа жоп кхин-кхин дан дукха дукха дехар ду.
+- **Дог-ойла жоп дан.** "Хьо доктора лаьцна дог-оьхуш ву. Иза шийна ю, соъ хьоьгаш сан ма хьоьхаш ю. Хьо ца дерг ю."
+- **Харцонца хьоьнан хаам, хьо дешнаш харцонца аьлла,** адам тешаш долу хилла делахь. Alzheimer's Association дийцина: харцонца дукхах, масала, хаам, логика я дешнаш ца дан.
+- **Жоп дукха, адам хьайна кхайкха хилла,** дукхах кхин-кхин хаам хаьттаьр. Alzheimer's Association дийцина, жоп кхин-кхин ла, масала адам хаам хаьттаьр дукха.
 
-## What should I avoid?
+## Мичара ца дан?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **"Хьо тайна хаам хаьттина хийцахь."** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) дийцина, адам тайна хаам хаьттина ца хилла гойтуш ца дан. Иза дагадан мегаш ца ду, а иза ца ма дагахь дан.
+- **Дукхах дешнаш.** Дукхах дешнаш дукха ма дагадеш ду.
+- **Хьоьхуш, я жиг-жиг кхо, я харцо дош.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) дийцина, сакхах лаьттамо, шен дог-ойла ца гойтуш. Иза дукха хилла ду; хьоьнан хан-шен болх хьахо-юкъара эхартахь.
 
-## Simple tools that answer the question for you
+## Язде гойтуш, хаам жоп ло
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Адам кхетаеш долу хенахь, язде гойтуш жоп дукха пайда ло хилла ду, дешнаш аьлла жоп дукха пайда ло.
 
-| Tool | How to use it |
+| Хьоьрза | Мичара дан |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Йоккха дешнаш язде | "Доктор сарахь ши сехьа. Марина хьоьхуш ву." Адам дукха схьайеш долу меттиг ло |
+| Доска | Денан план ши я кхо тIаьхь; санна-иЙ тIе язде, ма-йоцу дийнахь |
+| Йоккха часы, денан а, дийнахь а гойтуш | "Мичара дийнахь ду?" я "Хан ю хьаьрхан?" хаьттаьр харцонца |
+| Календарь | Дийнахь каш дешна; кхин доктор кесте |
+| Дукхахь суьрташ | Адам мичара хьоьхуш ву, суьрт ло, "Хьо хьоьхуш ву?" жоп ло |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Иза [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) а, [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) а дийцина. Язде харцонца кхайкха ("Доска тIе тхайна кхелхо") ма аьлла "Язде хьайна язде ду" аьлла.
 
-## Tell them about events close to the time
+## Дешна сакхах, харцонца дийцаш
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Доктор я хьоьгу лаьцна дийнахь каш хьалха дийцар кхин-кхин хаам хаьттаьр дукха хилла ду. Family Caregiver Alliance а, Alzheimer's Los Angeles а дийцина: тешаш долу дешнаш, масала доктор я кхайкхар, сакхах дийцаш ду, цхьа сахьт хьалха йа дийнахь хьалха. Тхан дешна кхайкхаш харцонца дийца, цхьаьна кхиъ-кхиъ.
 
-## Activities that can shift attention
+## Дог дахьийнаш дукха хилла болх
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Жоп дан а, дог-ойла хьаьрхан а дан, дог-оьхуш ца хилла, тешаш долу дукха хилла болх дукха дехар ду, масала, дог-оьхуш хилла делахь. Каждый источник выше советует переключать на то, что человеку нравится.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Цхьа гIо, сакхах болх.** [Picture pairs](/games/picture-pairs/) суьрташ гойтуш ду, цундела дагадар ца ло.
+2. **Тешаш долу болх.** Орам жиъ, хьоьнан нохчийн, я стол дика. [Sort together](/games/sort-together/) — иза язде гойтуш вариант ду.
+3. **Хьоьнан тешаш долу лаьцна дийцар.** [Conversation cards](/games/conversation-cards/) хаамаш дукха, жоп ца лелла хаамаш ло.
+4. **Музыка, зама я хьаьрхан.** National Institute on Aging иза сакхах дехар дан мегаш ю аьлла дийцина.
+5. **Сакхах хаьржина.** Хьо а, адам а хьоьхуш, пхьа дохаш, я [calm breathing](/games/calm-breathing/) гIо дан.
 
-If they return to the question, answer it again, kindly. That is fine.
+Хаам юха хаьттаьр, харцонца юха жоп дан. Иза гIоннаш ду.
 
-## Look for patterns
+## Хаам кехат, дукхах ма-дагара
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association дийцина: хаамаш дийнахь хан, адам, я меттиг дукха хилла хьоьнана ма-дагара. Хаам ю, — масала, хьоьнан хьайна дуьне дешаш йолу ларам, я дийнахь дохна — иза сакхах хьалха хийцаш ду: цхьа язде хьоьнан хьайна, цхьа тешаш долу болх тIе, цхьа дагар меттиг. Хан дукха хилла хьан ву, [late-afternoon guide](/caregiving/late-day-restlessness/) пайда доьхуш ду.
 
-## Take care of yourself
+## Хьоьнан хьоьхуш дукха
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Цхьаьна хаам хьайна ша кхин-кхин гIо ю — ши гIийла хилла дукха хан. Адам сакхах ца дагахь, хьо саха ма ца лаьтта, а ма дукха деш ма ду, хьо кхин дош ма бина: хьо гIо ма ди. [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) дийцина: хьо хьоьхуш хилла, адам безам хилла, цхьа минот кхин меттиг тIе лаьттан а, тIе хьоьгуш а. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) доьзалчу адам харцонца хьахо ха хилла, дукха ха юкъаметтиг а, шира хьоьгу болх а хьан ду. Хьоьнан хьоьхуш дукха [caregiver self-care guide](/caregiving/caregiver-self-care/) тIе ю.
 
-## When should I call a doctor?
+## Доктор мичара гулар?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Хаам, хьайна кхетам, я хийцам сакхах хилла я дукха йохадеш хилла сацам, доктора сакхах гулар. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) дийцина: сакхах я харцонца хийцаш дог-ойла, масала инфекци я дарман хийцам хилла, доктора сакхах дийца деш. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) дийцина: инфекци, дарманаш, дегнаш хийцам, дукхахь я дегнаш долу ма-хьоьхуш я, кхин кхин кхетам делирий, хьайна кхетам ца кхеташ, харцонца хьехар лаьцна. Адам лаьцна ю хьаьрхан хилла, 112 я кхайкха.

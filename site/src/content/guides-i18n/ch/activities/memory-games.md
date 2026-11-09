@@ -1,34 +1,33 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Memory Games para Manhoben yan Demensia: Gentle, Ti Eksamen"
+seoTitle: "Mejot na Memory Games para Demensia, Ideas Mamaolek"
+description: "Matching, piktura yan card games para manhoben ni guaha demensia, yan manera para ma-jugar ni taya' eksamen: piktura manhalom, menos na pareha, ti guaha puntos, sumasangan."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Memory games para manhoben ni guaha demensia mas maolek na ti depende gi
+  memoria. Ma'jugar i matching games ni manhalom i piktura, usa kuatro pat sais
+  na piksat, ma'jugar kumu un grupo yan ti guaha puntos. Mas faisil ma'reconoce
+  un piktura ki ma'recuerda. I kuestion ginen i ma'gosi, ti i resulta.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "I klasikon na memory games ma tago i kåtta, ya esta ma eksamen i kosa ni difisil para i demensia. Lalaye na i piktura manhalom."
+  - "Dikike na piesa, dangkulu na piktura yan un chålan kada tiempo mantiene i hugot na pleasant."
+  - "Ma'jugar kumu un grupo, tumurno ya ayuda, ya ti guaha puntos. Nadie debe ma-pone gi apuron."
+  - "Taya' memory game ni ma-prueba na ma'tråta, ma'dinimi pat ma'para i demensia. Ma'jugar pot i ma'pasa tiempo kon-ta."
+  - "Para kuanton mañaina todavia. Sumasangan put i piktura sen hinasso."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Hafa na memory game ma'ña' para taotao ni guaha demensia?"
+    a: "Matching game ni dangkulu, familiar na piktura ni siña mantiene manhalom, kumu Picture pairs ni sina kuatro pat sais na piksat. Ma'gosi i gaige para hanao i pareha ni ma'lalaye, ya taya' eksamen para i memoria ni kotto. Find the same ta'lo mas faisil, ni un piktura para ma-matchea gi dos pat kuatro na kinalamten."
+  - q: "Ma'ayuda i memory games para demensia?"
+    a: "Taya' memory game ni ma-prueba na ma'tråta, ma'dinimi pat ma'para i demensia. Gi Cochrane review, i evidensia put computer brain training ti ma'ina para ma'na' si siña ma'prebiene i demensia. Taya' pot i games siña usa kumu manera para ma'pasa tiempo kon-mami. Ma'chuli para ma'gosi yan para kumpanía."
+  - q: "Debe yu' ma'jugar klasikon Concentration kon taotao ni guaha demensia?"
+    a: "Mantiempo, guaha manggaige todavia, espesiat yan dikike na numiro kåtta. Si ma'nu-nu'i pot i kåtta, tuma'ña' ma'bira i kåtta manhalom ya ma'fa'tinas i pareha yan. Esta ma'tuge' i matching ya ma'kaga' i eksamen put memoria."
+  - q: "Hafa memory games ma'ña' para manhoben gi grupon?"
+    a: "Picture bingo yan un tumatawag gi screen, ma'kumplota i familiar na dinanñe' gi halom, yan conversation cards. Ma'jugar asta mapega i kada kåtta yan taya' ma'kanta hayi ma'contesta, ni taya' manmasedi."
+  - q: "Guaha libre na memory games para manhoben gi internet?"
+    a: "Guaha. I games gi este na site, kinekontra Picture pairs, Find the same, Photo pairs yan Picture puzzle, libre, ti debe ma'rehistra, ya ma'usa gi telifon, tablet pat kompiuta. Taya' timer pat puntos gi kada usun."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +49,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Gi "memory games para manhoben" ya guaha mas na ma'sangan, lalo na para hinasso ni makonnekta kon i kosa ni maiyak ni pagåo: kåtta ni tumago, kuentan oras, nibel yan puntos. Para taotao ni guaha demensia, esos na kosa ma'konbierte i huego gi un eksamen put kosa ni mapotmas dificil. I mismo na games siña ma'jugar gi mas gentle na manera. Este na pahina ma'sangan put kinu, yan ma'lista i games ni maolek para kada stage.
 
-## Why do classic memory games frustrate people with dementia?
+## Pot hafa i klasikon na memory games ma'fa'fanma'taigue para i taotao ni guaha demensia?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Pot i ma'usa ma'hanao para mantiene nuebu na impormasion gi hinasso, ya esta gi primet na sinas ni ma'afekta ni Alzheimer's, i kinu mas komun na kinalamten para demensia. I [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ma'sangan na i mas komun na sintomas gi primet na Alzheimer's i dinifisil para mamemoria nuebu na impormasion. Gi klasikon Concentration, ma'bira i dos kåtta, ma'recuerda hayi ni manlalaknos, ya ma'usa kuatro minuto despues. Esta nuebu na impormasion, ma'mantiene ya ma'recuerda.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Sino guaha timer, puntos pat buzzer para i kontra, ma'recuerda i taotao i kosa ni taya' siña, gi meggai ni taotao ni ta'lo. Siempre manma'fan ma'gi'i ni manggaige para ma'jugar.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Ma'reconoce i kosa ni ha'ani yan ma'siña, ti mismo na dinifisil. Ma'chechetnun i segundo na tasa kuando guaha dos tasa gi mata. Esta, i tiempo na ma'ña' i matching ya ma'kaga' i memory test.
 
-## How do you make a memory game gentle?
+## Kon'mo ta'hanao i memory game gentle?
 
-These adjustments work for card games, board games and games on a screen.
+Esta na ajustes ma'usa para card games, board games yan games gi screen.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Ma'tuge' i piktura manhalom.** Ma'matchea i piktura ni siña ma'ina ya esta un tinatitiyi na game, ya mas siempre satisfaktotio.
+2. **Usa dikike na piesa.** Ma'komienza yan dos pat tres na pareha. Mas na ta'lo si ma'siña ti dinifisil ya ma'nisisita mas.
+3. **Chågo dangkulu, familiar, adulto na piktura.** Un tasa, un girasol, un bangka. Ti cartoon, ti mamaladong na lugat.
+4. **Ma'jugar kumu un grupo.** "Ta bisita i aso" en lugat de "tumuru hao." Ma'tumurno ma'chapas yan ma'ayuda.
+5. **Ma'kaga' i puntos.** Taya' nisisidåt para manmana'gana. Si ma'nå'i, "ma'siña ta" sufisiente.
+6. **Ti ma'kompiti kon i relos.** Taya' timer, ya ti ma'apura entre turnos.
+7. **Ma'sangan put i piktura.** "Hungok i bangka. Ti hu'nå na ma'sail hao?" I kombersasion mismo a menudo i pinakamaolek na parti.
+8. **Para gi maolek na lugat.** Ma'espiha despues ni matchea, mientras todavia pleasant.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+I [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) guaha mismo na espiritu gi konsiehu heneral: ma'sosotos i aktibidat yan i ma'siña i taotao, ma'obserba si ma'frustra, ya ma'sigura na sina ma'sisiente siña.
 
-## Gentle memory and matching games to try
+## Gentle na memory yan matching games para ma'prueba
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (matching yan piktura ma'li'e)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) guaha matching game yan dangkulu na piktura yan 4 asta 12 na piesa. I piktura siña manma'li'e, ya esta put ma'sangan i pareha, taya' put ma'recuerda hayi. Ma'komienza yan kuatro piesa. Para taotao gi primet na stage ni gusto gi mas na desafio, siña ma'cambia para **Hidden pictures**, pero ma'fanfaltos para ma'li'e i piktura gi momento ni taya' na pleasant.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) ma'li'e un piktura gi tataiguen yan dos asta kuatro kinalamten gi bahu. Tap i ma'matchea. Este i mas faisil na matching game gi site, ya ma'konsedi para taotao ni dinifisil i grid ni mafunas, kuntodu manmaseha gi mamasaina gi ultimo na stage yan kumpanian.
 
 ### Photo pairs (family photo memory game)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) ma'cambia i litratu ni ma'chuli hao gi matching game: i aso, i hardin, i kasa gi lalo. I familiar na ha'ani yan lugat a menudo ma'sangan mas ki kualkiera na stock picture. I litratu manmanetnat gi browser mo ya taya' ma'upload.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ma'fa'na'i hao para ma'tuge' kada piktura gi basket ni debe, kumu kosina pat hardin. I sinot ma'usa i konosimiento ni guaha anaite, ti i memoria ni kotto.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) ma'katta un piktura gi 4 pat 9 na piesa. Tap dos piesa para ma'cambia asta mamaisu i piktura. I kompletu na piktura manma'li'e gi screen kumu gaiya.
 
-### Real cards on the table
+### Kåtta reåt gi lamesa
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Taya' nisisidåt para screen. Ma'chuli i pareha gi dos baraha pat gi un set na piktura. Ma'tuge' manhalom gi dos linea ya ma'bira i pareha kon-mami. Despues, ma'sosotos put kolot pat palo. I [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ma'lista i card games yan board games kumu aktibidat para i primet na stage.
 
-## Which memory games suit each stage?
+## Ya'mo na memory games ma'ña' para kada stage?
 
-Stages are loose labels. Go by what the person enjoys today.
+I stages guaha ma'ña' na nengkanno. Ma'sigi i ma'gosi i taotao gi kada diha.
 
-| Stage | Games that often fit | How to set them up |
+| Stage | Games ni a menudo ma'ña' | Kon'mo ma'chilalang |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Primet | Picture pairs, Photo pairs, Picture puzzle yan 9 na piesa, familiar na card games | Ma'chuli i taotao. Siña tumuru i piesa si gumosi, pero ma'kaga' i puntos si ma'na'chatkilo |
+| Tinaitai | Picture pairs yan 4 asta 6 na piesa manhalom, Find the same, Sort together | Piktura siempre ma'hahalom. Ma'chapas kon-ha ya ma'tumurno ma'ayuda |
+| Ultimo | Find the same yan 2 na kinalamten, ma'tatitiyi un dangkulu na piktura juntos | Mamaisu. Hao ma'su'hon i tablet; hao ma'tuge' pat tatitiyi ya ma'hungok |
 
-## Do memory games help with dementia?
+## Ma'ayuda pot i memory games para demensia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Taya' memory game ni ma-prueba na ma'tråta, ma'dinimi pat ma'para i demensia. I [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) put computerized cognitive training para taotao ni mild cognitive impairment ma'hanao na i evidensia dinifisil ma'sangan si ma'prebiene i demensia. I gaiya-mami put [brain games yan demensia](/brain-health/brain-games/) ma'sangan i ma'sasangan yan taya' ni estudio.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Taya' pot i games debe ma'chuli. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ma'sugiera na ma'chuli i pleasant, ti i achievement. Dies minutos ma'matchea piktura yan ma'sangan put-ha siña ser un maolek na parti gi diha.
 
-## What about memory games for seniors without dementia?
+## Kon'mo put memory games para manhoben ti guaha demensia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Si un manhoben ni taya' problema gi memoria gusto i puzzles ni ma'kuenta oras, puntos yan nibel ni mas dinifisil, taya' malo. Ti debe ma'siguro na protektao ni demensia; taya' game ni ma-prueba. I gentle na bersion ni guaha gi anti maolek mismo para ma'jugar i generasion huntos: un apu yan un dikike na nietu siña ma'matchea piktura kumu un grupo, ya taya' ni ma-eksamen.
 
-## When should you stop or change the game?
+## Kuandu debe ta'lo pat ma'cambia i game?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Maneyak, ma'tulak i tablet, ma'sangan "taya' kapaces yu'" pat ma'tinituhon, esta sinenias para ma'fasi pat ma'para. Ma'prueba menos na piesa, ma'tuge' i piktura manhalom, ma'cambia para [Find the same](/games/find-the-same/), pat ma'tatitiyi i piktura ya ma'sangan. Si taya' ha'ani para jugar, esta maolek mismo. I gaiya-mami put [kon'mo ma'jugar huntos](/caregiving/how-to-play-together/) guaha mas put ritmo yan ma'ayuda.

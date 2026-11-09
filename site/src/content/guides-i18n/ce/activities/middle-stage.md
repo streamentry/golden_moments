@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Деменцин юкъара хан: сийсаз гӀуллакхаш"
+seoTitle: "Деменцин юкъара хан: сийсаз гӀуллакхаш"
+description: "Деменцин юкъара ханна сийсаз гӀуллакхаш: пайда дар барам, оаьзда, музыка, сураташ а, сийсаз аьтто-гӀуллакхаш а, цхьа аьнна хьаьжжина кхиъ а, пхеа дӀахӀуттуш а."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Деменцин юкъара ханна гӀуллакхаш сийсазчу, дагахь буьйлабелчу а, цхьа аьнна
+  цхьаьна гӀалӀазех дӀаяьккхина бу: барам кхуллар, оаьзда дӀахӀуттар, тхан
+  кхиъ, музыка, гӀаьлли шедар, суратийн аьлбом а, сийсаз суратийн гӀуллакхаш а.
+  Хьалха тӀе кхиъ, цхьа хьалха беш ала, тӀом-дархка гӀуллакхаш шу хьалхара
+  хьамаш, гӀуллакха дӀахӀуттуш. ХӀора кхачам, бен уьйш дезар ма ду.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Дагахь бу гӀуллакхаш ахьара барамна хӀоттам бу, цунна пайда а, ницкъ а ду."
+  - "Аьлча дацар, гӀо дан, цхьа аьнна хьалха беш аьлар а, цхьа доккха хаттар дацар, шен ницкъ а дӀаяздан."
+  - "ТӀом-дархка декъ шу хьалхара хьамаш, цунна кхиъ хьалха гӀуллакха хилла кхачам бу."
+  - "ТӀом беха хьаьжжи, цунна шен гӀуллакха лелаш ма ду. Ала дӀахӀуттуш, мичха, охӀа бакъ дацар."
+  - "Шен кхиъ, цхьа декъ дан, йа хӀора кхачар, — деш гӀуллакхаш ду."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Мичхаш гӀуллакхаш деза деменцин юкъара ханна?"
+    a: "Сийсазчу, дагахь буьйлабелчу, кӀорде дан гӀуллакхаш хала дуьйцу: оаьзда дӀахӀуттар, пхеа кхиъ, тхан кхиъ, дӀаяьккхар, музыка, тӀом хӀорабо дӀахӀуттуш а, суратийн аьлбом а. Цхьа гӀуллакха цхьаьна декъа цхьаьна гӀалӀазех дӀаяьккхе, шу цхьаьна дан."
+  - q: "Деменцин дозуш вайна шена гӀуллакха дӀахӀуттуш мичха дӀахӀуттуш?"
+    a: "Хьалха тӀе ахӀ кхиъ, шен гӀуллакха дӀахӀуттуш дӀалуьйш: «Соьга хьалха хӀора оаьзда кхуллуш хӀоттуш тарло?» Дукха адам дӀатӀехьа хьоьжу, амма дӀахӀуттар цхьаьна тӀехьа ду. Цхьа декъ хьалха ахӀ даккхийла, кхиъ дийна хӀора дӀалуьйш."
+  - q: "Цхьа гӀуллакха дан дӀахӀуттуш доккха даьлча, мичха хан ду?"
+    a: "ДӀадоллу гӀуллакх дӀалуьйш кхайкха, таронаш нийса ду. Иза дагахь оьшу цхьа хала кхеташ а, шен дӀадаьккхина йа шен бакъда хала ду. Хъагбаларш ма дӀахӀуттуш, дӀадоллу гӀуллакх дӀалуьйш: цхьа мишта оьшу оаьзда, йа кхиъ дийна музыка кхуллуш."
+  - q: "Цуьнан гӀуллакх дӀадаьккхина дукха шен хьаьжжи, мичха хан ду?"
+    a: "Иза ала ма дӀахӀуттуш ду, хӀора дан ма ду. Оаьзда декъа кхуллина йа тарелкаш цхьаьна ахь, иза шен ницкъ ма дуьхьало. Шен бакъ дӀахӀуттуш буьйлабелча, къаьсттина ишта шен ницкъ ду, иза дагахь ма дӀалуьйш."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Деменцин юкъара хан, масала, дукха хан ю, и хан гӀуллакхаш хьалха тӀе хьаьжжина хьаьжжина дезар ю. Дешнаш хала хьоьжу, хьаьжжина хьамаш лаьттина, гӀуллакх дӀахӀуттар кхин хала хилла. Амма цунна дагахь ницкъ а, шен кхиъ а дукха вайна хьуьйцу. Цхьа декъ кхиъ хьалха, юкъара ханна адам дукха гӀуллакх дан тарло, къаьсттина дагахь бу оаьзда, музыка а, сураташ а, шу цунна тӀехьа кхиъ дийна.
 
-## What activities work well in middle-stage dementia?
+## Мичха гӀуллакхаш юкъара деменцина ханна хала ду?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Сийсазчу, дагахь буьйлабелчу, оаьзда кхуллу гӀуллакхаш цхьаьна декъа дӀаяьккхина хала ду. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) дӀадуьйцу: хьалха тӀе ахь дӀахӀуттуш оьшу дац, гӀуллакхаш шен кхиъ хан дӀахӀуттуш ду: тӀеххьара кхиъ дан, шен кхиъ тӀе хьаьжжар, музыка дӀахӀуттар, йа гӀаьлли шедар.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) дӀадуьйцу: иза ханна адам дукха дагахь бу, шен пайда ду а, цхьа хьалха тӀе ахь хилла. Юкъара ханна дӀаяздина гӀуллакхаш: оаьзда дӀахӀуттар, тарелкаш кхуллар, оаьзда дӀасайлар, сийсаз кхиъ, музыка тӀе дӀахӀуттар, гӀаьлли шедар, сийсаз сураташ ала, суратийн аьлбом хьоьжар.
 
-## How do you set up an activity so it works?
+## ГӀуллакх мичха дӀахӀуттуш ду, хала лелаш?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Дукха гӀуллакх дӀаяьккхуш лела хьалха тӀе ду. Иза [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) а, [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) а дӀадуьйцина хьалха тӀе дукха пайда ду:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Ахьа хала дӀасайла.** Телевизор дӀадаха, оьрша дӀаяккха, гӀуллакхна оьшу дӀаоьцуш дӀахӀоьттина дитта.
+2. **Шен хьалха дӀалуьйш.** Оаьзда кхуллуш йа ма дӀахӀуттуш шен хьалха дӀаоьцуш, кхин хӀора дӀалуьйш: «Соьга хьалха хӀора кхуллуш тарло?»
+3. **Хьоьжу, тӀехьа хьаьжжи.** Цхьа декъ дӀахӀуттуш. ТӀом хӀорабо, шен кӀор кхуллуш, масала, тарелка кхуда кхиъ.
+4. **Цхьа декъ цхьаьна.** «Оаьзда цхьа декъа кхуллуш» дукха хала ду, «кхузахь оаьзда ала, цуьнан тӀе ахь кхуллуш» аьлча.
+5. **Шен хьалха цхьа декъа ала, доккха хаттар ма дӀалуьйш.** «Кхузахь тӀе ахь кхийла, йа корна хьала?» аьлча, цхьа декъ кхиъ ахьа хала ду, «Мичха хан дуьхьало?» аьлча, дукха хала ду.
+6. **ТӀом-дархка декъ шен ахь дӀахӀуттуш.** Шу дӀахӀуттуш декъ, цуьнан кхиъ — адам. Шу тӀеххьарчу декъ хьуьйш, цунна кхиъ шен сан кхуллуш.
+7. **Цуьнан пайда дӀахӀуттуш.** «Иза тарелкаш Ӏаьнбар-динан ханна ду» аьлча, гӀуллакх дагахь бу.
+8. **Хьоьжа тӀе хьаьжжи, гӀуллакх дӀахӀуттуш.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) дӀадуьйцу: хьоьжа бен а, шен пайда а, сийсаз а ду.
 
-## Activity ideas for the middle stage
+## Юкъара ханна гӀуллакхаш
 
-### Useful jobs
+### Пайда дар гӀуллакхаш
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Оаьзда, шел оаьзда дӀасайлар.** Сийсаз, декъ ахь ю оьшу хьамаш пайда дуьйцу. ДӀайолу оаьзда дӀасайла, дӀадирзар, цхьа дӀаьхьа кхуллар.
+- **Оаьзда цхьаьна дӀасайлар.** Цхьа декъа, цхьа хьалха тӀе, дӀасайлар. Ахь дӀаьхьа, ахь кхетар.
+- **Цхьа тарелка дӀасайлар, йа кхуллар.** ГӀо-динана ах дукха дагахь ю ма дӀатӀуьйш. Шен декъа кхуллуш тарло, шен кӀор кхуллуш декъ ду.
+- **Тарелкаш кхуллар.** Цхьа декъа гӀо-динан дӀаяьккхар, цхьа декъа шен хьалха дӀаоьцуш.
+- **ДӀахӀуттуш, масала, къона кхуллар.** Кхузахь ма тӀехьа кхиъ, шен тарло ма тӀеххьарчу ма тӀеоьшу.
+- **Кхузахь гӀо дӀасайлар, кхайкха.** Шен, цхьа, хьамаш хьалха дӀахӀуттуш.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Дукха гӀуллакх [Пайда дар гӀуллакхаш](/activities/household-tasks/) гӀалӀазехь ду.
 
-### Music and movement
+### Музыка а, тӀом а
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Цхьа хьалха музыка дӀалуьйш.** Шен дӀалуьйш, дукха адам кхийна ханна музыка дӀалуьйш. ГӀуллакх [музыка гӀуллакхаш](/activities/music/) лаьцна ду.
+- **Хьаьжжина тӀом дан.** Шен, кхиъ, йа цхьа декъа аьлча а, дӀахӀуттуш ду. Кхиъ дийна хан а ду.
+- **Балуна цхьа декъа хӀора.** Иза дукха доьшу, йа дӀахӀуттуш тарло, кхиъ дийна.
+- **Цхьаьна гӀаьлли шедар.** Шен гӀоьланаш шедар, шу цхьаьна, шен кхиъ, цхьа хала ду.
 
-### Pictures and stories
+### Сураташ а, цхьа а
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Суратийн аьлбом хьоьжар.** Хала аьлча ма дӀалуьйш, сураташ хьоьжар а, шен кхиъ а: «Иза машен хьоьжа. Соьга аьлча, иза лаьцна.» [Суратийн гӀуллакхаш](/activities/reminiscence/) лаьцна ду.
+- **Цхьа карташ дӀахӀуттуш.** [Цхьа карташ](/games/conversation-cards/) цхьа сурат, цхьа кхеташ кхиъ кхуллуш ду, кхузахь тӀе ма ду.
+- **Шу цхьаьна хиннна кино хьоьжар.** Цхьа дукха доьшу кино дӀалуьйш, цхьа гӀуллакх тӀе хьаьжжи, кхиъ дийна.
 
-### Simple, pressure-free games
+### Сийсаз, тӀом-дархка гӀуллакхаш
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Сураташ цхьаьна ахь цхьа хӀорабо.** [Суратийн цхьа](/games/picture-pairs/) хьоьжар, сураташ хьоьжуш, кхиъ тарло, дагахь ма мича.
+- **Цхьа хьоьжар.** [Цхьа хьоьжар](/games/find-the-same/) цхьа сурат, ши йа дарба кхеташ дӀалуьйш.
+- **Цхьаьна дӀасайлар.** [Цхьаьна дӀасайлар](/games/sort-together/) — оаьзда дӀасайлар экран тӀе: сурат дӀахӀуттуш, цуьнан корзина тӀе.
+- **Суратийн бинго.** [Суратийн бинго](/games/picture-bingo/) ханна, цхьа адамаш ахь дукха хала ду.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+ГӀуллакх дагахь ма дӀалуьйш, кхузахь хьалха тӀе, дӀалуьйш. Цхьа ма тӀехьа хьалха [шу цхьаьна мичха дан тарло](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## ТӀом-дархка декъа гӀуллакх дӀахӀуттуш
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+ТӀом-дархка йа дӀахӀуттуш хьаьжжина ахь дукха цхьа аьлча ду. Family Caregiver Alliance дӀадуьйцу: адам, масала, шкаф дӀаоьцуш хилла, иза кхиъ дийна шен кхиъ а, пайда а дан дагахь ду. Alzheimer's Association дӀадуьйцу: иза кхиъ ахь дӀахӀуттуш, дӀахӀуттуш оьшу гӀуллакх дӀахӀуттуш, ма дӀахӀуттуш.
 
-| What you see | Something to offer |
+| Мичха хьоьжу | Мичха дӀахӀуттуш |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Стол тӀе дӀаоьцуш, йа тӀе хаттар | ТӀом кхуллу, стол шедар хала кхеташ |
+| ГӀорзар, йа тоьхна тӀе кхиъ | Дукха доьшу музыка, тӀом хӀорабо тарло |
+| Ящикаш, йа шкаф дӀаоьцуш | Корзина оаьзда, йа оаьзда дӀасайлар |
+| Цхьа хаттар тӀехьа дӀалуьйш | Ницкъ, тӀехьа музыка, йа цхьа гӀуллакх шу цхьаьна |
+| Хьаьжжина ахь | Шу цхьаьна хан, йа карта кхуллуш |
+| Деньгийн хан тӀе ахь ницкъ дац | Дукха оьшу гӀуллакх, хала кхиъ; см. [деньгийн хан тӀе ахь](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Мичха хан хӀора кхачам, йа гӀуллакх дӀахӀуттуш
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+ХӀора кхачам, тӀом ма тарло, гӀуллакх тӀе шен ахь кхийна, масала: цхьа дӀаьхьа, ницкъ дац, тӀом ма тарло, «Соьга ма тарло» аьлча. Alzheimer's Association дӀадуьйцу: хан дӀахӀуттуш тӀехьа, йа гӀуллакх дӀахӀуттуш сийсаз. Ма дӀахӀуттуш. ДӀадаккхар ма тарло: тӀом, йа гӀуллакх хала ду. См. [кхеташ ма ду](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+ХӀора кхачар — деш ду. Цхьаьна, шен тхан лелаш, аьлча тарло. Кхиъ дийна хан ма тарло, [юкъара ханна гӀуллакхаш](/activities/late-stage/) оьшу, а, [101 гӀуллакх](/activities/ideas/) кхин дукха тарло.

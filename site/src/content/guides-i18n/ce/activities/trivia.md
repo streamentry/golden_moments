@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Деменцин адамашна аьлла викторина, стресс ца"
+seoTitle: "Деменцин адамашна викторина: зорбанаш жоьпашца"
+description: "Деменцин адамашна 50 аса зорба, жоьпаш ва хьахоьхьа дешнаш, викторина хилийтина стресс ца, адам цхьана ца хилош, йовзар бу."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Деменцин адамашна аьлла викторина хилла ма-дарра, хьо дар, тест ца хилош,
+  чулацам бу. Хьалхарчу дахарш тешаш зорбанаш тоьхна: дешнаш, ваханаш, бохаш ва
+  шен дахаран декхарш. Шира еха хилла жоьпаш доца, цхьана бовзаш цхьа жоьпа
+  гина ма бу. Жоьпа дина юкъара, оцу дешна цхьаьна чулацам хьалхе ца дитта. Оцу
+  "аьлла ва аьлла" зорбанаш, дерриг жоьпаш аьлла, хьалхарчу декхарш хилла
+  хенан дешнаш тоьхна.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Хьалхарчу дахарш тешаш зорбанаш тоьхна: дешнаш, ваханаш, бохаш, цхьаьна мотт, дахаран декхарш."
+  - "Цхьа жоьпа гина ма бу; хьо кхетам бина юкъаметтигаш доцу жоьпаш тоьхна, билгалабаьхна бу."
+  - "Жоьпа дина шена хаам бина ала, юха хьоьхуш. Цхьаьна хилла ца ма ву, оцу жоьпа хилла хьо чулацам хилла."
+  - "Балл ца, тхан зорба ца, цхьана адам жоьпа ца ма тоха. Жоьпаш дерриг адамашна дина хир ду."
+  - "Жоьпа хьехаш хилла гуш ву, аьлла ва аьлла зорбанаш тоьхна, жоьпа дош ца до."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Деменцин адамашна викторина дика дукха хилла ма бу?"
+    a: "Хилла мегаш бу, юкъара хилла ма бу. Alzheimer's Foundation of America фонд викторинан хьалхарчу хенан дукхахьа дешнаш тоьхна. Зорбанаш хьалхарчу дахарш тешаш тоьхна, жоьпаш тоьхна, цхьа адам ца хилийтина, жоьпаш чулацамна дукъ тухуш, тест доцу."
+  - q: "Деменцин викторинан мехала темаш дика хилла?"
+    a: "Хьалхарчу декхарш дика хилла: адаман сайн хенан цхьаьна йойлуш дешнаш, цхьаьна мотт, бохаш, спорт, дахар, цхьаьна декхарш. Хьалхе барамца, балл ца, хьалхаре дешнаш доцу тема ца тоьхна."
+  - q: "Дешна ба кхидийна ма цига викторина дахаран цхьаьна ма хилла?"
+    a: "Дерриг юкъара зорба дош, жоьпаш хьехаш хилла, цхьана адам ца ма тоха. Жоьпа хьуьнаш доцу, дерриг кхетам бина, лечу жоьпа дина аьлла хьо ма оьхуш. Жоьпа тохаш хьо юхасеха ма тоьхна, чулацам дукъ тоьхна."
+  - q: "Хьалхарчу хенан викторинан ордам ма хилла?"
+    a: "Жоьпа доцу зорбанаш тоьхна, масала: 'Кофе ма чай?' йа 'Саж ма шовда?'. Бохаш, дешнаш дуьхьа ца хилла, цхьаьна дуьхьа йоцца. Сурташ дуьхьа хьо дуьхьало ма болч, дуьхьа дош ма ду."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Викторина цхьаьна групповой дакъа ю, къоьллу дитарш, дийцарш ва дахаран махкахь хилла. Цхьаьна тест хилла, балл, цхьа адам жоьпа тоха, деменцин адам стресс хилла. Хьоьхуш хилла, дийцарш доцу, цхьаьна декхарш. Кхин 50 аса зорбанаш жоьпаш, хьахоьхьа дешнаш тоьхна, дукъ долуш, и тоьхна хилла.
 
-## How do you make trivia work for someone with dementia?
+## Деменцин адамашна викторина ца хилла, мичара хилла?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Хьалхарчу дахарш ма-дарра, мотт кхетам бина жоьпа, дерриг жоьпа дина.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Хьалхарчу дахар тешаш.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) дешнаш, хенан дахарш, ахча кхин декхарш ма-дарра. Дешнаш, ваханаш, дахаран декхарш хьалхарчу дахар тешаш, ахьа ма тухуш.
+2. **Жоьпаш дайча.** Ши йа кхо жоьпа долуш хьайга, мотт къобал хьо аьлла.
+3. **Зорбанаш юкъаметтан, царах сийлаллаш.** Доска йа таблет оьхуш, хьоьхуш дешнаш тоьхна.
+4. **Жоьпа шен дина.** Хьо кхетам йоцца, хьоьхуш: "Хьо ма нахаш, хьо ма кхетам." Дешна ма ду.
+5. **Балл ца.** Цхьана адамна, тхан тоьхна ца. Хьайга цифра лаьтта, цхьа дерриг дийна.
+6. **Цхьана адам жоьпа ца тохаш.** Адамашна жоьпаш юкъара дина. Цхьа хьоьхуш: "Цхьана пианино ву, хьо хьалха дела?"
+7. **Хьахоьхьа дешнаш тоьхна.** Жоьпа цхьаьна йолу ду; дийцарш тайна ду.
+8. **Хьехаш ма дукъ.** Кхо йа ши зорба, дийцарш тоьхна, дика ду.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) дешнаш дешнаш: стресс шерал ма, адам дерриг доцу хилла йолу хьо нисйин. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) хьалхарчу хенан викторина тоьхна. Цхьаьна хенан хенан ши жоьпа тоьхна, хьахоьхьа дешнаш дукъ тоьхна. Цхьаьна хенан, ший барам хьо тоьхна ца.
 
-## Music and entertainment trivia
+## Музыка а, хаам а викторина
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Жоьпа **жирхаш** ю. Адамах тоьхна: Motown хьалхе дахар долу адам цхьаьна, big band хьалхе долу адам цхьаьна.
 
-| Question | Choices | Talk about |
+| Зорба | Жоьпаш | Хьахоьхьа дош |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Хьо 'Рок-н-роллан тайп' аьлла, мила ву? | **Элвис Пресли**, Фрэнк Синатра, Бинг Кросби | Элвис телевизорехь хьо гуш вуьйтира? |
+| Ол' Блю Айз аьлла хьо мила дуй? | Дин Мартин, **Фрэнк Синатра**, Перри Комо | Синатран мила дош хьо кхеташ? |
+| Бинг Кросби белхан ма-дарра, "белхан, тохар..." | **Рождество**, къонах, цер | Цхьаьна дашна хьо ийцалахь |
+| Луи Армстронг "Какая чудесная..." кхетийна | День, **Мир**, Жизнь | Цхьаьна дахар хьо мичара тешаш? |
+| "Over the Rainbow" Джуди Гарланд кинотеатрехь мичара ву? | **Волшебник из страны Оз**, Унесённые ветром, Поющие под дождём | Хьо кинотеатрехь мила хилла? |
+| "Я люблю Люси" кинотеатрехь Люси мила ву? | **Люсиль Болл**, Дорис Дей, Бетти Уайт | Хьо шен дохаш мичара телевизор гуш ву? |
+| Трайгер аьлла ц1ен йолу ковбой мила ву? | **Рой Роджерс**, Джин Отри, Джон Уэйн | Хьо бохаш ковбоий тоьхна? |
+| "Тонайт Шоу" ша 30 шо мила хостийна? | Эд Салливан, **Джонни Карсон**, Боб Хоуп | Хьо телевизор гуш хьакхуьйна? |
+| 88 клавиш долу дешан мила ву? | Гитара, **пианино**, труба | Хьо мила дарра? |
+| Раз-два-три, раз-два-три дешан тайп мила ву? | **Вальс**, твист, танго | Хьо мичара ийцарш хьо? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Музыкан дахарш тешаш, [music activities for dementia](/activities/music/) хьо гуш.
 
-## Everyday life trivia
+## Дахаран викторина
 
-| Question | Choices | Talk about |
+| Зорба | Жоьпаш | Хьахоьхьа дош |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Холодильникаш дарца, цхьаьна хьо хьехна кхетийна... | **Мозан ящик**, духовка, чардан | Мила дитар хьехна? |
+| Стеклян бутылкехь хьо шен сийна мила дитар? | Почтальон, **молочник**, газетчик | Цхьаьна дахар дохар ма? |
+| Ротари телефон шо хьо мичара дистийна? | Кнопкаш, **хьелаш шовда**, цхьаьна дош | Хьо телефон дика ду ма? |
+| Model T машина мила хьехна? | **Форд**, Шевроле, Бьюик | Хьо мила машина хьо? |
+| Содовая фонтан мичара ду? | **Содовая фонтан**, пекарни, банк | Хьо мичара тохаш? |
+| Металлан пружина долу, лестницах хьо тохаш? | Йо-йо, **Слинки**, хула-хуп | Хьо мила дитарш хьо? |
+| Drive-in мичара ву? | **Машинехь киноэкран**, футбол, парад | Хьо мила хьекхарш хьо? |
+| Доллархьа мила сурт ду? | Линкольн, **Джордж Вашингтон**, Джефферсон | Хьалха доллар мичара тохаш? |
+| Центан мила сурт ду? | **Авраам Линкольн**, Вашингтон, Франклин | Хьалха центаш хьо банкехь дитарш? |
+| Школан автобус мичара кхоьллу? | Шира, **сар**, кхо | Хьо школе мичара ваьлла? |
 
-## Holidays, nature and places
+## Хьаьнаш, дешнаш а, ла а
 
-| Question | Choices | Talk about |
+| Зорба | Жоьпаш | Хьахоьхьа дош |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ноябрехь четверг, мила хьаьна ву? | День труда, **День благодарения**, День памяти | Хьо дукъ мичара лаьттина? |
+| Хэллоуинан фонарь мичара тохаш? | **Хэллоуин**, Пасха, Рождество | Хьо мичара Хэллоуин хьо? |
+| Четвертого июля Декларации мичара ву? | Прав, **Независимости**, Свободы | Хьо мичара салюташ гуш? |
+| Механ ден хьаьна ма ву? | Апрель, **май**, июнь | Хьо дохаш мичара хьаьна дитарш? |
+| Флагехь звезда мичара ду? | 48, **50**, 52 | 1959 шо 48 звезда. Жоьпа хьо кхетам бина |
+| Восточный берег мила океан ду? | Тихий, **Атлантический**, Северный Ледовитый | Хьо пляжехь мичара ва? |
+| Статуя Свободы мила ладаьнца ду? | Бостон, **Нью-Йорк**, Филадельфия | Хьо Нью-Йоркехь дира? |
+| Кийрий мичара тохаш? | Молоко, **мех**, шелк | Мех тостехь йа чайехь? |
+| Цхьаьна кхон мичара аьлла? | Жеребенок, **телка**, козленок | Хьо ферма ахь дира? |
+| Гарангехь хьо тохаш, мила йоккхучу сийна цветок? | Роза, **подсолнух**, тюльпан | Хьо хьелаш мичара дистийна? |
+| Кхаьт хьелаш 365, мила ду? | 365, **366**, 360 | Хьо кхетам бина дийцар хьо? |
+| Зимаьнца хьалха мила хан ду? | Осень, **весна**, лето | Хьо мила хан ву? |
 
-## Food and sports trivia
+## Хьаьнаш а, спорт а
 
-| Question | Choices | Talk about |
+| Зорба | Жоьпаш | Хьахоьхьа дош |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Изюм мичара тохаш? | Слива, **виноград**, вишня | Хьо школе изюм хьо? |
+| Чернослив мичара тохаш? | **Слива**, инжир, яблоко | Хьо дохаш чернослив мила дарра? |
+| Арахисан паста а... | **Джем**, сыр, ветчина | Крупный ма гладкий? |
+| Гуакамоле мичара дарца ю? | Горох, **авокадо**, огурец | Хьо оьрсаш мичара дарра? |
+| Благодарениен мила кекх ду? | **Тыквин**, лимонан, вишнан | Хьо мичара кекх тохаш? |
+| Бейсболан команда мила доьзал ю? | 7, **9**, 11 | Хьо мила команда хьо? |
+| Бейсболехь мила аут хуьлу? | Шира, **кхо**, пхьо | Хьо бал ма ваьлла? |
+| Бейб Рут мила спортехь дика ву? | Бокс, **бейсбол**, гольф | Хьо бал гуш? |
+| Стандартан гольф курсехь мила ямар ю? | 9, **18**, 24 | Хьо гольф йа мини-гольф хьо? |
+| Футболехь мичара тачдаш хуьлу? | **Футбол**, хоккей, баскетбол | Хьо дохаш футбол хьо? |
 
-## Familiar sayings
+## Дешнаш а, ваханаш а
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Дешнаш кхетийна, хенан мотт тешаш, дика жоьпа ю. Тхан [Finish the saying](/games/finish-the-saying/) хьо тоьхна, дукъ дешнаш.
 
-| Saying | Choices | Talk about |
+| Дешна | Жоьпаш | Хьахоьхьа дош |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Бакхахь денца, докторан... | **Доктор дуьхьал**, дождь дуьхьал, кот дуьхьал | Хьоьга мила аьлла хьо? |
+| Тайна йолу бедар, курашка... | Автобус, **курмаш**, поезд | Хьо йойшу вахар? |
+| Цхьаьна кхон хатийна ма хаташ... | **Хатийна**, йоккхуш, сайла | Хьо мичара тайна долу? |
+| Цхьаьна шелла аьлла... | **Хетар**, дош, тохар | Цхьаьна хьо кхетам бина хилла? |
+| Дахар мичара ву... | Хьаьнаш ма ву, **зорба**, кхечу | Мичара дахар чохь хьо? |
+| Лулаца... | **Бохам**, хьо, пхьа | Цхьаьна ма йолуш ма ву? |
+| Нявкаш ма рогехь... | **Серебро**, цхьа, ахча | Бокхан дахар хьо лаьттина? |
+| Дош болабоагаш... | **Болабо**, сийнаш, хьеха | Цхьаьна хьо кхетам хилла ма? |
 
-## This-or-that questions with no wrong answer
+## Жоьпа доцу "аьлла ва аьлла" зорбанаш
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Оцу зорбанаш дерриг хенан хьо мичара тоьхна, хьалхе хенаш ма ду, жоьпаш доцу. Хьо тохаш, хьо дийна, шен жоьпа лаьттина хьо ма.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Кофе ма чай?
+- Пляж ма тарсаш?
+- Сих-сиха ма цох?
+- Ког ма ма?
+- Хьаьна ма ма?
+- Тайна ма ма?
+- Тайна ма джунглия?
+- Хьо мила ма?
+- Радио ма пластинка?
+- Блинаш ма яйца?
+- Розаш ма ромашка?
+- Поездан ма машинан дахар?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Сурташца хилла хьоьхуш, [Conversation cards](/games/conversation-cards/) хьо гуш.
 
-## How do you run a trivia session in a care home or group?
+## Групповой викторина ма кхеташ, мичара хилла?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Адамаш доьзалехь хилла.** Гуш хьо, хьо хьо ма, телевизор ма.
+2. **Хьоьхуш ала: "Хьалхарчу хенан дешнаш ма ду, тхо мичара хьо кхетам бу."**
+3. **Зорба кхин цхьаьна хьоьхуш, жоьпаш доцу аьлла.**
+4. **Дерриг хьо жоьпа тохаш.** Дика жоьпа дукъ ма, дерриг хьо гуш.
+5. **Жоьпа дерриг адамашна дина.** Дерриг хьо хьехна дош.
+6. **Энергиех хьо дуьхьало.** Цхьа зорба дешнаш ханна хилла, хьо дуьхьала ма.
+7. **Хьо дика аьлла, дика дош йа тохаш ма хьо.** Дерриг адамаш дика кхеташ.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Кхин групповой хенаш, масала, [group activities for care homes](/activities/care-home-groups/) хьо гуш.
 
-## When to change the plan
+## Хенан плане ма хилла, мичара хилла?
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Адам тешаш, тахана, хьо дерриг ма хилла: жоьпа доцу, дешнаш тоьхна, йа "аьлла ва аьлла" зорбанаш. Дерриг дийцар дукъ ма хилла, хьо дика кхеташ. Хенан ма хилла, цхьаьна мотт ма, и хьо дика дукъ. Дукъ дешнаш ма, дийцар, шен ма дахар.

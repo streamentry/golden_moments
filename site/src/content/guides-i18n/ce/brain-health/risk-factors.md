@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Деменцин риск-факторш: Lancet-комиссин 14 фактор"
+seoTitle: "Деменцин риск-факторш: Lancet-комиссин 14 фактор"
+description: "2024-чу шарахь Lancet-комиссин цхьаьна дийцина 14 деменцин риск-фактор, жизнан этапашца, исследовательш аш цхьана хаам боьлху, доктора хьо ала ма-тохар."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024-чу шарахь Lancet-комиссин цхьаьна 14 деменцин риск-фактор, аш хийцахь
+  ло: кӏезиг белхан дуьххьара, хьо хьаьста, LDL холестерин юккъера хенан,
+  депрессси, кӏуьйгах эшам, цкъа бӏаьрхьа, шерийн дуьхьал, ханна жима
+  тӏехь, юккъера хенан шерий, гӏа, сахьт дешна, ӏаьвен чов ма-тохар дошо,
+  социальни сохьталлам, хьо луьйш, цкъа хьо кхеташ хьо. Аш дуккха адамаш
+  дукхаллин 45% хьо кхеташ. Цхьа адамна хаам боьлху ца лу.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "14 фактор жизнан дуккха хенна долу: цхьа шира хенан, ю юккъера хенан, кхо ахар хенан."
+  - "Юккъера хенан хьо тӏехь ма-тохар LDL холестерин, дукхаллин дакъа 7% хьо кхеташ, цхьа фактор лаьттан дукха."
+  - "Аш проценташ дукхаллин кхетамаш ю, цхьа хийцамаш ю. Цхьаьна хиллачунна дуккха ца хиллачунна ма-тохар хаам."
+  - "Хан а, гена а, цхьа адам ца хийца. 14 риск ма-тохар ца хуьлу, цхьа адам деменцех ца кхеташ."
+  - "Шерий, сахьт дешна а, ӏаьвен чов а ма-тохар кхочуш лу. Аш доктора хьо ала дӀахоьхьа."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Деменцин 14 хийцахь долу риск-фактор цхьаьна ма ю?"
+    a: "2024-чу шарахь Lancet-комиссин цхьаьна: кӏезиг белхан дуьххьара, хьо хьаьста, LDL холестерин, депрессси, кӏуьйгах эшам, физически дохо, шерий, гӏа, юккъера хенан шерий, хьо луьйш, ӏаьвен чов, шерийн тӏехь, социальни сохьталлам, дуьхьал чухьо ма-тохар ӏаьвен. Аш дуккха адамаш дукхаллин дакъа 45% хьо кхеташ."
+  - q: "Деменцин мила дукха риск-фактор ю?"
+    a: "Дуне дуккхачу адамна хьо тӏехь, Lancet-комиссин кхетам: юккъера хенан хьаьста а, LDL холестерин а, 7% хьо кхеташ, тӏаьхьа кӏезиг белхан дуьххьара а, социальни сохьталлам а, 5% хьо кхеташ. Цхьаьна адамна мила дукха ю, аш хан а, дохо а хьо тӏехь. Доктор лаьттан хьо хьо кхетош."
+  - q: "2024-чу шарахь кхо риск-фактор ма-тохар ю?"
+    a: "Хан. 2024-чу доклад 12 фактор ахь 2020-чу шарахь дийцинарехь, цхьаьна кхо фактор дӀахьош: юккъера хенан LDL (ма дукха) холестерин, ахар хенан ӏаьвен чов, ма-тохар хьо. Комиссин кхетам: аш дукхаллин 7% а, 2% а хьо кхеташ."
+  - q: "Хан хийцахь риск мила ю?"
+    a: "Ца хийца. Хан Альцгеймеран чов шерийн дукха хьо тӏехь цхьаьна ю, аш хийцахь ца ло. Гена а хийца дохо ю. Аш 14 фактор хийцахь ю, исследовательш хийцахь хиъ ло."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,104 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Риск-фактор — хьелаш, аш хьала дина шун деменци долуш ма-тохар. Иза кхин
+ларйина ца ло, ша деменцин мила хьо тӏехь ма-тохар ца хуьлу. Иза хьо
+кхочушдан: 2024-чу шарахь Lancet-комиссин цхьаьна 14 деменцин риск-фактор,
+аш хийцахь ло, аш исследовательш аш цхьана хаам боьлху, ша доктора ала
+дӀахоьхьа.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Дукхах кхетаме ма-тохар, кхин даьккхинчу исследованеш хьо тӏехь, [Деменци
+ма-тохар ло ца ло? Исследований хаам](/brain-health/can-dementia-be-prevented/)
+кхочушде. Иза общий хаам ю, медицинан консультаци ца ю; шу гӏо ма-тохар
+[медицинан хьакъ](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Деменцин 14 риск-фактор мила ю?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024-чу Lancet-комиссин](https://doi.org/10.1016/S0140-6736(24)01296-0),
+27 деменцин исследовательш аш дӀахо дина, цхьаьна 14 хийцахь риск-фактор
+дуне дуккхачу деменцин дукхаллин 45% хьо кхеташ. Лаьттан фактор процент
+дуккха адамаш кхин риск долуш ю, цуьнан хьо тӏехь 45% хьо кхеташ ма ю.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Риск-фактор | Жизнан этап | Дукхаллин дакъа | Исследованеш хаам | Шу хан ду |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Кӏезиг белхан дуьххьара | Шира хенан | 5% | Дешнан шерий дукха ю, риск дукха. Юккъера хенан хьо кхиъ ло, дешнан шерий дӀахьош, аш а хьо хийцахь. | Хан шу кхинчу кхин шу ма дешнан, хобба, курсаш, цхьаьна дохо: дешна, хобба. |
+| Хьо хьаьста | Юккъера хенан | 7% | Ца хьеш хьо хьаьста риск дукха ю. Исследованеш ахь хьо хьаьста хаам ю, риск лахь. | Хьо тӏехь хьаьста шу хьо доктора ала. Хьо хьаьста хьо аьлла, дӀаҳьаьхь. Хьаьстаийн кхин ло ца ло. |
+| LDL холестерин | Юккъера хенан (40 тӀехь) | 7% | Юккъера хенан LDL (ма дукха) холестерин риск дукха ю. Хийцахь ло статин, амма ахар хенан исследованеш аш ца гойтуш. | Доктора ала, шун холестерин хьо тӏехь ма-тохар, цуьнан хьо тӏехь аьлла. |
+| Депрессси | Юккъера хенан | 3% | Депрессси риск дукха ю. Ахар хенан депрессси деменцин цхьа хьелаш ю. | Доктора ала, хан хьо кхеташ хеттараш 2 кӏиранан тӏехь. Депрессси кхочушдан лу. |
+| Цкъа бӏаьрхьа | Юккъера хенан | 3% | Хьо кхеташ цкъа бӏаьрхьа, цхьа адам хан а, хьо а, спорт а, риск дукха ю. | Шлем тӏехь велосипедан, спортан хьо. Хьо бӏаьрхьа тӏехь доктора ала, хьо дӀахьош. |
+| Физически дохо ца дина | Юккъера хенан | 2% | Дохо дина, спорт дина адамаш деменцех ца кхеташ. Исследованеш дукха ца ю. | Хьо кхеташ дохо дика ю, цхьаьна дохо кхочуш. Шу [дохон хаам](/brain-health/exercise/) кхочушде. |
+| Диабет | Юккъера хенан | 2% | Диабет, юккъера хенан дуьххьара хьо кхеташ, риск дукха ю. | Сахьт дешна тӏехь ма-тохар. Диабет хьо бӏаьрхьа, шу доктора ала дӀахоьхьа. |
+| Шерий | Юккъера хенан | 2% | Шерий риск дукха ю. Шерийн дӀахьош адамаш, шерий ца дина адамашна риск ца лу. | Хьо тӏехь, шерий дӀасхьа лу: шу гӏо ма-тохар. Хан дӀасхьа кхочуш. |
+| Юккъера тӏехь ӏаьвен | Юккъера хенан | 2% | Юккъера хенан тӏехь ӏаьвен риск дукха ю. Цхьа гӏо шерий дӀахьош. | Юккъера хенан тӏехь, доктора ала шун хьо тӏехь ма-тохар. Тӏехь хьо тӏехь. |
+| Ӏаьвен чов | Юккъера хенан | 1% | Юккъера хенан ӏаьвен чов риск дукха ю, цуьнан диабет риск дукха ю. | Доктора ала шун тӏехь ӏаьвен дика ю. Кхин ӏаьвен ца дӀахьош, доктора консультаци ца дина. |
+| Дукха алкогол | Юккъера хенан | 1% | Дукха алкогол риск дукха ю. Дукха алкогол ца дӀахьош риск лахь. | Доктора ала, шун дика дукха ю, хьо дохо дукха ю. |
+| Социальни сохьталлам | Ахар хенан | 5% | Адамаш кхин ца хьо риск дукха ю. | Хьо кхин адамашца хан дӀахьош. Шу [социальни сохьталлам хаам](/brain-health/social-connection/) кхочушде. |
+| Ӏаьвен чов | Ахар хенан | 3% | Ӏаьвен чов ма тохар дукха ю, риск дукха ю. Исследованеш ӏаьвен дика ю, риск лахь. | Хьо ма дукха, политике ю. Хьо ӏаьвен чов кхочуш, дукха ӏаьвен дийцинарехь хьо хьаьста. |
+| Ма-тохар ӏаьвен | Ахар хенан | 2% | Ма-тохар ӏаьвен риск дукха ю. Цхьа сакхта исследование ю, катаракт операци риск лахь. | Хан хьо ӏаьвен тӏехь хан. Катаракт хьо кхочуш лу ма-тохар доктора ала. |
 
-## How should I read these percentages?
+## Проценташ хаам хьо кхетарш ма-тохар?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Дика. Lancet-комиссин доклад хьо кхетарш дукхаш ю:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Аш адамаш ца ю, дукхаллин кхетам ю.** University College London
+  [доклад хаам](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  дийцина: риск лахь дукхаллин дохо дика ю, цхьа адам деменцех ца кхеташ.
+- **Хийцахь ю, ца ю.** Авторш цхьа фактор лаьттан хийцахь, амма цхьа хийцамаш
+  ца хийцахь ю.
+- **Дуне дукхаллин хаам ю.** Дукха хаам богаш ца ю, кхин ца ю.
+- **Цхьа проценташ дукха ю.** 2% риск дукха адамна ца ю, дукха адамна хьо.
 
-## Which risk factors were added in 2024?
+## Мила риск-фактор 2024-чу шарахь дӀахьош?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024-чу доклад 12 фактор ахь 2020-чу шарахь дийцинарехь, кхо фактор дӀахьош:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Юккъера хенан LDL (ма дукха) холестерин**, дукхаллин 7% хьо кхеташ.
+- **Ахар хенан ма-тохар ӏаьвен**, дукхаллин 2% хьо кхеташ.
 
-## What risk factors cannot be changed?
+## Мила риск-фактор хийцахь ца ло?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Альцгеймеран Национальни институт дийцина,
+[хан Альцгеймеран дукха хьо тӏехь риск ю](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+цуьнан хийцахь ца ло. Гена а хьо тӏехь ю; цхьа гена, APOE, Альцгеймеран риск
+хийца. Институт дийцина, исследовательш дукха адамашна Альцгеймеран мила
+хьо кхетар ца ю. Lancet-комиссин дийцина, хийцахь риск гена хьо тӏехь цхьаьна
+лахь ма-тохар.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Хан а, гена а дукха ю, дукха адамаш 14 риск-фактор ца долуш деменцех кхеташ.
+Аш цхьа адаман ца ю.
 
-## What does the trial evidence say about changing these risks?
+## Исследованеш хаам риск хийцахь мила ю?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Риск-фактор деменцин хьо тӏехь ю, амма хийцахь ло ца ло — аш кхетош ма ю.
+Цхьа мисалш:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Хьаьста.** SPRINT MIND исследованеш дика хьаьста дохо хьо тӏехь, цхьа
+  ӏаьвен хьо ца лу. Деменцин ца кхеташ, амма исследованеш жима ю, аш ца
+  гойтуш ([SPRINT MIND JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Хьо хьаьста.** Lancet-комиссин кхо шерий хьо хьаьста исследование дийцина,
+  хан кхин ца дина. Риск дукха адамаш хьо хьаьста дукха ю. Шу
+  [хьо хьаьста хаам](/brain-health/hearing/) кхочушде.
+- **Физически дохо.** Альцгеймеран Национальни институт дийцина, дохо ца дина
+  цхьа исследование ца ю, амма дохо хан хьо кхеташ ма-тохар цхьа гӏо
+  ду ([NIA хаам](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Деменци ахь кхеташ ма кхин исследованеш жима а, дукха а ю. Иза кхин
+хаам ю, амма исследование хьо ца ю.
 
-## What about sleep and diet?
+## Шерий а, дохо а хаам мила ю?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Комиссин шерий а, дохо а кхетар дина, амма иза ца дира, хаам цхьа ца ю.
+Шу [шерий](/brain-health/sleep/) а, [дохо](/brain-health/diet/) а хаам кхочуш.
 
-## Talk with a doctor
+## Доктора ала дӀахоьхьа
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Шира хан доктора ала хьо тӏехь хан ю. Шу иза хаам боьлху:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Шун тӏехь хан, сахьт дешна а, холестерин а — мила хьо ю, цхьа гӏо ю ма-тохар?
+- Шун хьаьста а, ӏаьвен а кхочуш ма-тохар?
+- Шун дохо дика ю, дукха ма-тохар?
+- Шун дохо ма-тохар, хьо тӏехь ма-тохар?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Хийцахь дохо, дохо, дохо, шерий ма-тохар, добавка хьо тӏехь ма-тохар,
+доктора ала дӀахоьхьа. Хан гӏо ма-тохар, цхьаьна адам кхин хьо шен хьо
+тӏехь, хан бӏаьрхьа ма-тохар, хьо тӏехь хьо тӏехь ма-тохар, ша **112** ала.

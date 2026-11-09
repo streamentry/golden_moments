@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Trabahun Gi Kanton Kumu Aktibidat Para Taotao ni Demensia"
+seoTitle: "Aktibidat Gi Kanton Para i Demensia: Diario na Trabahu"
+description: "Pa'go, u fa'gasi, u mamaisen i lamasa yan simple na kukina pueden ser aktibidat ni meaningful para i taotao ni demensia. Kumu u na'setup, u ajusta, yan u mantiene segura."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Diario na trabahun gi kanton kumu u fa'gasi i towel, u fa'gasi i medyas, u
+  mamaisen i lamasa, u lilimpia i counter, u ma'regalu i tanom yan u ayuda gi
+  simple na kukina pueden dalalo' na manera para i taotao ni gaige yan i demensia
+  u ayuda. Eskoge i trabahu ni konnosi-ña, u sumisiha gi un pasu-pasu, u kasi
+  hamyo i peligru ni chaddek pat manuetnu, yan u sangan i pumatisipa ki i
+  ma'na'ma'ayuda pot "maisa" na manera.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Mismo na trabahu ni konnosi-ña pueden ayudaki i taotao u sumenti na siña ayuda yan parte gi famagu'on, ni sea mas importante ki kuantu maisa i trabahu."
+  - "Pacha' kada trabahu gi sinikkat na pasu, mamuestra ki ti sinangan, yan kalladu tumuge' i pasu ni ha'ani mas difisil."
+  - "Sigura i kuchiyu, produktos para lilimpia yan dishwasher pods, yan lagu i stove knob covers pat automatic shut-off antes di kumuke hamyo."
+  - "I tinupe na tower ti nesesita na u tupe ginen i taotao. Si un tiempo na debi di u tupe, hu'nina despues yan gi lugat ni ti maluta."
+  - "Si i trabahu ha'ahalang frustrasion, cambia gi mas fasil na pasu, tatiyi otro tiempo, pat sumiha ta'ya'."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Hayi na trabahu gi kanton siña tumulong i taotao ni gaige yan i demensia?"
+    a: "Mafumalu na taotao siña para u fa'gasi i lalaman, u mamapatsa i medyas, u mamaisen i kuchiyu, u mamaisen i lamasa, u lilimpia i counter, u lilimpia i polbu, u nanakhan i tanom pat u mahuli i batter gi bowl. Eskoge trabahu ni hineni-ña gi pasao na tiempo yan u adapta ya i kapasidat ni tumungo gi tiempo. Gi despues na tiempo, meggai kosa na moben pat un ti maisa, pot ehemplu u sumangoi i napkins, pueden sufisiente."
+  - q: "Segura pa para i taotao ni gaige yan i demensia u tulaika gi kusina?"
+    a: "Pueden, ya sino gi maipe' na superbisión yan maisa na setup. Tuge' i kuchiyu, produktos para lilimpia yan kosa ni chaddek lugat ki para u alkansa, usa i stove knob covers pat automatic shut-off, yan na'hasso i taotao un segura na trabahu, pot ehemplu u lulamlam i gulaya, u tahuyi pat u mamaisen i plato. Ti sina un ma'ggang i taotao sola yan i estufa ni kumukuti."
+  - q: "Ya hafa si ma'gasi pat ma'fa'chuli i kosa?"
+    a: "Dehu na ti ta fa'nana. I fine'na-ta i tiempon ma'na yan i sentimiento na maayuda, ti i pirfeton na resulta. Si i kosa nesesitåo na mapresisa, espera hasta despues yan hafa ilo' gi tiempo ni ti mamana i taotao, ya ti sumentimiento na ma'mamamarigidu."
+  - q: "Ya hafa si ti sina ha'ayuda?"
+    a: "Un ti yan siña ha'ahalang na i trabahu ma'ayuda ahe' ni dinangkulu, mahalang, pat ma'na'kanso gi tiempo. Ti ta fa'na'pa'pus. Sumi'ayi un mas simple na klasi, enbitá i taotao para u sumangsang hao, pat hapmo otro tiempo gi uma."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Mafumalu na taotao ni gaige yan i demensia ma'gaige ya ma'manneha i uma, ma'kriya i famagu'on pat ma'gasi i tiempon chalan, sigi ha'ani. Ma'hasso ki manhoben ma'enkarga siha ni trabahu gi kanton pueden ha'chule' i "hagu para tumaitai gi uma-ta" gi manera ni ti manhahalom ni otro aktibidat. Este na pahina ma'kubre i mismo trabahu ni buena, kumu u na'setup, kumu u ajusta siha ya ma'a'ayuda, yan kumu u mantiene segura i kusina yan i kuatton lalaman.
 
-## Why do everyday chores work well as activities?
+## Taiguini i trabahun kanton ma'ayuda komo aktibidat?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+I trabahu gi kanton ma'ayuda pot ha'ani konnosi-ña yan gai i tinitiyi-ña na propositu. I National Institute on Aging ha lista i ma'hugas i plato, u mamaisen i lamasa, u ma'sweep, u lilimpia i polbu, u sumoporta i kattas, u fa'gasi i lalaman yan u sumoporta i recycling komo gi meggai aktibidat diario ni "pueden gusto i taotao ni gaige yan i Alzheimer's" ([daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)). I Alzheimer's Association ha nota na i trabahu kumu u mamaisen i lamasa pueden [ayuda i taotao u sumenti na parte ginen i uma](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+I kanton na trabahu tiene rason pot ki u tutuhu. "Pot fabot, hao yan yu' ya ma'fa'gasi este na tower?" ma'na'fasil na tumanges ki "Gustasi hao na u fa'aktibidat?"
 
-## Which household tasks are good to try?
+## Hayi na trabahun uma ma'propopone para u tutuhu?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Tutuhu gi trabahu ni nakesta i taotao gi pasao na tiempo, despues ma'ajusta ni hayi kapasidat-ña gi taya'.
 
-### Laundry and linens
+### Labai yan linens
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Fa'gasi i tower yan i washcloths.** Na'hulo' i hilera ni hinasu na ti dinangkulu. I tower ti ma'gasi ni ti manmaprotehi: ti hay manera ni ti korehu para u fa'gasi.
+- **Mamapatsa i medyas.** Pone i minagi na tiempo gi lamasa. Si dinifisil u sumiha i pares, usa dos pat tres na kolot ni ti maparehu.
+- **Mamaisen yan u fa'pila.** I napkins, pillowcases pat dish towels pueden mamaisen ya u fa'pila. Ma'ayuda este gi despues na tiempo, kuanto i fa'gasi ma'mas meggai na pasu.
 
-### Table and kitchen
+### Lamasa yan kusina
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Mamaisen i lamasa.** Pone un setting komo modelo ya u kopia i taotao. Si ti mapropio, na'hulo' un kosa kada biahi: "Hayi plato, un tenedor para kada plato."
+- **Mamapila i kutchara.** Hanom i tinidong tenedor, kutchara yan kutchilyu para mantekiya gi tabla ya u mapila gi tray ni mamaisen. Lagu i kuchiyu ni chaddek.
+- **Mamalimpio i plato.** Plastic pat plato ni ti ma'bogbog yan un tower ni malambot siña mafasil na trabahu ni segura.
+- **Lilimpia i lamasa pat counter.** Un tela ni hamyo yan un lugat ni ti meggai kosa. I Alzheimer's Association ha sugiri na u na'hulo' un tela si kumuha i taotao i lamasa gi lalaman-ña, ya u tulaika i mobimiento ni dinangkulu para ser mas amanu.
 
-### Around the house
+### Gi uma
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Lilimpia i polbu.** Un suave na duster yan meggai na malaolao na lugat, pot ehemplu i coffee table pat bookshelf.
+- **Mamaisen i surat.** Na'hulo' i junk mail yan catalogs para u mamaisen gi pilas: kulalaiyi, recycle, huyong despues. Hanom i billing yan checks gi otro lugat.
+- **Mamaisen i recycling.** Hanom i lata, botella yan papel gi sepåråo na bin.
+- **Sweep.** Un chiki na broom gi patio pat gi kusina, si malaolao ha'i i balance.
+- **Ma'regalu i tanom.** Un chiki na lata ni manmalamlak yan meggai na tanom gi fasil na alkanse.
 
-### Simple cooking with supervision
+### Simple na kukina yan superbisión
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+I kukina pueden ha'chule' i fuetten sentimiento ni ma'gasi. I NIA ha sugiri na u na'hulo' i taotao u kuekuentalao i ingredientes, u mamidi, u hahalo, pat u tuge', pat simple na u na'kuentuhan otro taotao kumu u fa'na'chai un plato ni gusto-ña. Buenas trabahu siha:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- u lulamlam i gulaya pat fruta
+- u ha'halo i batter pat i cold salad
+- u mamalatte i letsugas
+- u mamantekiya i tostada gi kuchiyu ni ti chaddek
+- u pone i cookie dough gi tray
+- u pone i toppings gi pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Si dinifisil u mamidi, i Alzheimer's Association ha sugiri na hao u acaba i pamidi ya u na'hulo' otro pasu, pot ehemplu u hahalo.
 
-## How do I set up a chore so it goes well?
+## Kumu yu' u na'setup i trabahu para u maluku?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Pili i maisa na tiempo.** Eskoge i parte i ha'ani ni i taotao sigi malaolao yan kalma. Para meggai na taotao este i kalan.
+2. **Sanaolao i lugat.** Un trabahu, un lamasa, ti meggai otro kosa gi mesa.
+3. **Enbita, ti asigna.** "Malago' yu' tumulong hao gi estos" ma'mas maluku ki "Oras para u fa'gasi i lalaman."
+4. **Mamuestra i pinilu.** Fa'gasi un tower malamlam, despues na'hulo' i sigiente. Mamuestra ma'mas klaru ki umeksplika.
+5. **Un pasu kada biahi.** Meggai na instruksion sa'ani pueden ma'fanhålom. Espera hasta acaba i un pasu antes di manombra i sigiente.
+6. **Tumutuhu siha gi lugat.** I mismo trabahu gi nahanen-ta pareho siña ma'siente kumu kumpanía, ti superbisión.
+7. **Hatsa i trabahu, ti i resulta.** "Mamaulaw este" pat "Tatiyi kuentu hami kumu un gustasi i linens" ayuda i kuentusyon sin testing hafa mismo na taotao.
 
-## How do I adapt chores as abilities change?
+## Kumu yu' u ajusta i trabahu gi kanton anai ma'ani i kapasidat?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+I kapasidat ma'hiyong gi tiempo yan kalkulu ginen gi diario. I Alzheimer's Association ha sugiri na u mamuba tumungo gi mas simple, mas ma'repiti na trabahu anai u ma'progresa i sakit.
 
-| If this has become hard | Try this instead |
+| Si esta ha'i difisil | Ma'pråtika ni mas ma'ayuda |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Mamaisen i dakkulu na sapot | Fa'gasi i washcloths pat mamaisen i napkins |
+| Mamaisen un lamasa sumaga | Pone un napkin gi kada asiento |
+| Mamaisen i surat komo kategoriyas | Pila i sobre gi un pilas |
+| Tumuge' un reketa | Mahalo', pat ma'chule' sumaga ya ma'ginen gi taya' mientres hao kumukuti |
+| Sweep un kuatton floor entero | Lilimpia un chiki na lamasa |
+| Ti sina gumimen i trabahu | Sumangsang yan hao ya ma'kumpaña hao mientres ha'i u fa'gasi |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Ma'ayuda i manmimira. I NIA ha nota na meggai na taotao mansiente ma'mira simple, ya esta un maisa na manera para u parte.
 
-## How do I keep household tasks safe?
+## Kumu yu' u mantiene segura i trabahun uma?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+I seguridat primet, espesiåt gi kusina. I [home safety tips para caregivers gi Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ni i NIA ha sugiri ginen:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Ma'na'lock pat tuge' i produktos para lilimpia, lagu i laundry detergent pods, ni pueden parehu ki kandi.
+- Ma'na'gi i kuchiyu, siksoron yan power tools gi lugat ni ma'lock.
+- Ma'na'gi i safety knobs yan automatic shut-off switch gi estufa.
+- Pone i "Stop" pat "Very hot" na sign gi tinaktak i oven, toaster yan plantsa, ya ti ha'ahalang sunog.
+- Ma'na'ajusta i water heater gi 120°F para ti ha'ani malaksa i pipa.
+- Tuge' i artificial na fruta yan magnets ni ma'hugas kumu kuankuan, ya pueden parehu ki kuankuan.
 
-A few more practical habits help:
+Meggai pa na praktikat na ayuda:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Taitiyi gi kuatto anai siña ma'usa i estufa, oven pat un matulaikai na kosa.
+- Usa dish ni ti ma'bogbog para u mamalimpio yan u mamaisen i lamasa.
+- Mantiene dry yan maklaro i floor anai u na'sweep pat u na'mop.
+- Si i taotao kao ha usa i tools, i Alzheimer's Association ha sugiri na u na'gi i peligru ni kosa gi taller, ya i trabahu ni segura, pot ehemplu u sanding un pidasu tahla, siña todabia ma'disfruta.
 
-## What if they do it "wrong"?
+## Anai hao "ti maisa" u fa'chuli?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Dehu. Un tower ni fa'chuli gi tres ti halba gi mitad ti sina tumatge gi tower. I Alzheimer's Association ha sangan na i mas impotante, i tiempon ma'pasa hamyo yan i taotao ma'siente na maayuda, ti hafa ha'chuli i tower mapropio. Si gumimen nesesita na u tutuhu, espera hasta despues yan u fa'chuli gi lugat ni ti manmamira.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Mapacha' i korehe gi mismo na tiempo siña ma'chule' i trabahu ni ma'gasi gi rekuerdo ni hafa ha'lalala'. "Grasias, dakkulu ha'ayuda hao" casi siempre i mas maisa na kosa para u sangan.
 
-## When should we stop?
+## Kuándo debi di u para?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Para pat cambia anai hao u ha'hatsa i sinyas ni frustrasion, kanson pat ti interesao. Ti maisa ni u para antes di tiempo, ti fuetten failure. Hao siña:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- cambia para i mas fasil na pasu
+- tumuge' para i mas malaolao, pot ehemplu i musica pat un kopa kafe
+- tatiyi despues pat gi otro diha
+- sumiha ta'ya'
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Anai i taotao sangan "Ti", ti hao ha'cha'chåchåk. Hatsa [hafa u fa'chuli anai i taotao ha sangan ti](/caregiving/when-they-say-no/) para gentle na manera u ma'responde.
 
-## Low-effort extras for a quieter moment
+## Simple na ekstra para un kalma na tiempo
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Anai ti posible i fisikal na trabahu, u mamaisen yan u mapareha pot siña sumiha sentao. [Sort Together](/games/sort-together/) ha ha'chule' hao u tuge' i pinitura gi kestas kusina pat tano, yan [Picture Pairs](/games/picture-pairs/) ha'i un gentle na matching game ni dankulu na pinitura ya ti hay timer. [Conversation Cards](/games/conversation-cards/) meggai na prompts ni ma'hasso i uma yan famagu'on ni maneha ki kafe despues ma'acaba i trabahu.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Para ayuda gi ma'ayuda i trabahu gi kada diha, hatsa i nuebu na gia ni [calm daily routine](/activities/daily-routine/). Para meggai na ideas segun i stage, hatsa i [middle-stage activities](/activities/middle-stage/).

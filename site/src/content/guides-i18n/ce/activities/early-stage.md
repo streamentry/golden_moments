@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Деменцин эхь-хенан ерзаш"
+seoTitle: "Деменцин эхь-хенан ерзаш: шуна долу хьехамаш"
+description: "Деменцин эхь-хенан ерзаш: хобби, ловзарш, гулам, язъяр, пландар цхьаьна. Жима хийцамаш адамаш шайн ерзашка болу хенахь дуьхьа ахь хилахь."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Деменцин эхь-хенан хенахь дукха адамаш шайн дуьхьа долу ерзаш дуьйцу цхьаьна
+  дуьйцу: хобби, карта а, ловзарш а, цIеххьана а, цIенхьа а, гулам а, диине
+  ерзаш а, клубаш а, Ӏаьдаман болх а. Цхьа-цхьа хийцамаш дукха ду: жима тоьлла
+  кха, жима гулам, язъяр зама а, шен пландар а, цхьана хьехархо а. Адам эшаш
+  долу хьалха, шен оьздангаллин мерза сахьт дуьйцуш ма деха.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Эхь-хенахь дукха адамаш шайн дахарехь хьаьжча дахар дуьйцу. Ерзаш, сахьт, хийцамаш тоьхна, амма дукх дуьйцуш йолуш ма ду."
+  - "Адамо шен хьалха мегар ду хьоьхуш ахь эшаш, а хийцам бахь санна, дуьйцахь хьоьхуш ахь ма дарра."
+  - "Жима тоьлла кха, яхь хенан хан а, жима гулам а, дукха дуьхьал хуьлу."
+  - "Хан ду адамо шен дахарна долу ерзаш цхьана хьалха дуьйцу, даьлча йа шен къамеловш оьмар."
+  - "Ловзарш оьздангаллин тIехь дуьйцуш шу. Дешаран санна долу хьехамаш ца тоьхна."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Деменцин эхь-хенан хенахь мичара ерзаш мега?"
+    a: "Хьоьгагаь адам шена хьалха долу ерзаш: карта, ловзарш, цIеххьана цIа-дарш, гулам, язъяр, диине ерзаш, клубаш а, Ӏаьдаман болх а. Шуна санна хийцам хилахь: жима йа Ӏаьлаьш йа олхазарш. Дешар, хьоьхуш яздар а, шен дахаран китаб дуьйцу а эхь-хенан хенахь дуьхьа ахь хилахь."
+  - q: "Аьтто яда, адам тIехьа ма дуьхьал?"
+    a: "Адам мичара аьтто хьоьгаш, хьехам хан-хьан ахь дуьхьа. Цхьана дешан йа оьртан шен ахь дуьхьа ахь хилахь, мичара ахь йо ахь дуьхьа: цхьа дош йа цIе ма кхеташ хьехам. Хьаьжар хилахь ца, адам шен хьоьхуш цIеххьана-дар, хан дукха йо а."
+  - q: "Деменцин эхь-хенан адам ерзаш ахь дуьхьа мегар ду?"
+    a: "Хьоьгагаь, адам шен мегар хилахь. Хьалха долу хобби дукха дуьхьа ду, амма дукха адам керлачу ерзаш долу: деменцин дуьхьа долу кхеташ, сурт-кхаьлан классаш йа дешаман клубаш. Цхьа хан ца дуьхьа, ма дуьхьал яьккхахь, хьоьгаш ахь хьаьжа."
+  - q: "Эхь-хенан хенахь хийцамаш-дешаран ловзарш мичара хуьлу?"
+    a: "Цхьа-цхьа адамаш ловзарш а, дешнаш а ма ловзар йолу, и оьздангаллин мерза ду. Цхьа а аппа йа ловзар деменци дарбан, даккхар даьнна йа дохийр гIо ма дуьйцуш ду. Ловзар адамо чохь стресс йа хьалха хьан гIеннаш оьзда хуьлча, цунна тIехь доккхуш яьккха."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Деменцин эхь-хенан хенахь дукха адамаш шайн хьалхара дахаран санна дахар дуьйцу. Цара болх бан мегаш ду, Ӏаьдаман болх бан мегаш ду, кхеташ ваьлла, шайн дийнахь декхар дагадаха. Ерзаш дукха дуьхьа йоцу хьоьхуш, жима хийцамаш шуна ерзаш шайн оьздангаллин мерза дахьа. Шу ахь цхьа-цхьа адамаш ладугIа ма ду, шу тIехьа-тIехь доьзал санна ду: тIехьа дуьхьа, цара пландар дуьйцу, хьаьжар хилахь йо.
 
-## What activities are good in early-stage dementia?
+## Деменцин эхь-хенан хенахь мичара ерзаш дуьйцу?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Эхь-хенан хенахь дуьхьа ерзаш, адамо шен оьздангаллин мерза долу ерзаш ду, жима тоьлла. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) шен ерзаш дуьйцу: карта а, ловзарш а, гулам а, гулам-цIеххьана а, цIенхьа а, цIеххьана цIа-дарш, язъяр а, сурт-кхаьлан а, Ӏаьдаман болх а, хьоьхуш яздар а, дешнан дуьхьа хьоьгаш а, цхьаьна хьоьхуш а, къаьмнийн дуьйцар а.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Дукха хийцам ерзаш дахарехь ца, амма хенахь ду. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) дуьйцу, эхь-хенан хенахь адамо шен мерзахь долу ерзаш тIехь ца хуьлу, цунна кхетта: цхьа стаг, хьалха дукха доккхуш долу ерзаш тIехь, жима тоьлла кха хьалха хуьлуш. Ахь ма тIехьа дуьйцуш, цхьа хьалхара адам цхьаьна хийца.
 
-## Ask first, and agree on how to help
+## Хьаьжа хьехам, цхьа хьалхара тIехь аьтто кхиа
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association-н эхь-хенан хенан хьехам](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ерзашка болу хьехамаш дуьйцу:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **ТIехьа хьаьжа.** «Клубан кхеташ тIехь мичара дукха ахь дуьхьа?» — хьаьжарехь хьоьгаш дуьйцу, тIехьа ма кхетаьш.
+- **Оьртан ахь дуьхьа мегар.** Хьаьжар хилахь ца, адам дуьхьа ахь ма хуьлуш, цунна хьалха йо, оьртан даьлча ца, хьоьгаш ахь хьехам.
+- **Цхьа хьоьхуш цIе ла.** Цхьа дош йа цхьа ахь кхиа, мичара дуьйцу «хьаьжар хилахь, йо», ловзарехь цIе ма кхеташ.
+- **Дукха хан тIехьа хьаьжа.** Хьаьжар тIехь ца тоьхна, ма дукх, ма жима йо.
 
-## Activity ideas for the early stage
+## Эхь-хенан ерзаш
 
-### Keep up roles and hobbies
+### Болх а, хобби а тоьхна
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Хан тIехь ерзаш тоьхна.** Кхо дийнахь тIехь Ӏаьдаман болх, кхеташ йа клуб дахарна шен кхиа дуьхьал ду. Стресс хилахь, жима йа яхь ерзаш мичара дукха дуьхьа хуьлу.
+- **Жаьмам цхьаьна пландар.** Цхьа хан тIехь гулам хьалха дукха доккхуш хилахь, Alzheimer's Association дуьйцу: адамо дешнашка нуьцкъ, шен хан тIехь дуьхьа ахь гулам а, тIехь а яздар а дуьйцу.
+- **Цхьаьна шура а, зуьйна а.** Хьалхара дешна реци ахь цхьаьна ла. Хьалха ингредиентш цхьа-цхьа санна лахь, цIеххьана а кхиа а, кхетта.
+- **Ираз-кхиа.** Цхьаьна ираз кхиа: ханна шен ираз кхиа, мичара ираз ахь хьехам. Хьоьгаш яздар а, ираз а дуьйцу.
+- **Цхьа гIо-хьоьхуш ма ийцар.** Кхиа йа тIехь, сирадан хьоьхуш ла, мегар хилахь — цхьа кхетта.
 
-### Games for enjoyment
+### Ловзарш оьздангаллин тIехь
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Карта а, ловзарш а ла.** Мичара ловзарш дукха дуьхьа ду. Команда санна ловзар, адам дуьхьа ца кхетта, очко сурт ца, я йо ца.
+- **Дешнан хьаьгIа ахь ма ла.** Жима тоьлла дешнан хьаьгIа [дешнан хьаьгIа](/games/word-search/) гулам тIехь я, я шен хан тIехь печатан тIехь.
+- **Пазлаш ла.** Пазлан шу хьоьгаш, оьздангаллин тIехь. [Сурт-пазл](/games/picture-puzzle/) жима тоьлла ахь ма. [Деменцин пазлаш](/activities/puzzles/) хьоьхуш цхьа-цхьа ахь хьехам.
+- **Оьздангаллин тIехь викторина.** Цхьаьна команда тIехь викторина дукхa адамаш дуьхьа ду. Тест санна хуьлча, [жима викторина дешнаш](/activities/trivia/) ахь ма — цхьа ответ, очко ца.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Ловзарш хьоьхуш оьздангаллин тIехь хьан. Цхьана ловзар деменци дарбан йа даккхуш доккхуш ма дуьйцуш ду; [ловзарш: ишта хуьлу](/brain-health/brain-games/) тIехь ма хьаьжа.
 
-### Write, reflect and record
+### Яздар, кхетар а, дешар а
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Дешаран китаб.** Alzheimer's Association дуьйцу: хьоьгаш дешаран китаб, адам шен цхьа-цхьа ханна шен хьоьгаш яздар. Цхьа-ши тIехь дукха ду.
+- **Шен дахаран китаб.** Эхь-хенахь адам дуьхьа шен сурташ ма, цхьа-цхьа дешнаш яздар йа дуьйцу ахь ма — [дешаран ерзаш](/activities/reminiscence/) тIехь ма хьаьжа.
+- **Хьоьхуш яздар.** Нана, гIеххь, йа шен кхин кхеташ хьоьхуш цхьа-ши тIехь хуьлу, цара дуьхьа.
+- **Сурташ тIехь дуьйцар.** [Сурт-цхьана](/games/photo-pairs/) доьзалан сурташ ахь ловзар ла, [кхеташ карта](/games/conversation-cards/) дуьйцар хьоьгаш ду.
 
-### Go out and move
+### Гулам а, къах а
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) дуьйцу: гуламаш дуьхьа ахь ма, цхьа-ши хан тIехь дукха йо. Адам шен дийнахь дуьхьал хан тIехь хьаьжа, дукха даьлча ца.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Жима кхетар.** Музей, театр йа сурт-кхаьлан хьаьжар, тоьлла хан тIехь дукха.
+- **Иршаш.** NIA дуьйцу: хьалха хан тIехь бассейн.
+- **Гулам-гулам а, сурт-кхаьлан а.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) дуьйцу: сурт-кхаьлан, тай-чи, йога, иршаш а, гулам-гулам а, деменцин дуьхьа долу хан.
+- **Ираз-кхиа а, кафе а.** Цхьа бахам ц1ахь деменцин адамаш а, шайн кхеташ а цхьаьна хьоьгаш ду.
 
-## Small changes that keep activities enjoyable
+## Жима хийцамаш, ерзаш оьздангаллин тIехь
 
-| If this is getting harder | Try this |
+| Ахь дуьхьа мичара болу | Ахь дуьхьа мегар |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Яхь а, хьала а тоьлла | Тоьлла хан тIехь ахь, жима кхетар хилахь, цхьа кхетта цхьаьна |
+| ЦIе дукха дуьхьа дахар | ЦIе хан-хьан цIе ахь, кхеташ ла, нишан-цIе дагадаха |
+| Хьалха дукха доккхуш ерзаш тIехь | Хьоьгаш яздар йа, дешнаш хьалха цхьа-цхьа санна ла |
+| Тоьлла хан тIехь ахь | Жима гулам, хан тIехь цхьа кхетта, тоьлла дийнахь ма кхиа |
+| Очко тIехь дукха | Команда тIехь ловзар, ловзарш жима ла, очко ца |
+| Дешнаш тIехь дукха | Хан ла; цхьа дош ахь ма, цхьа-шен агIо хилахь |
 
-## When to slow down
+## Мичара хьаьжа, жима ло
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Ерзаш оьздангаллин тIехь дукх стресс хилахь, цхьа хьалха ма кхиа. Дукха тоьхна, ерзаш ца дуьхьа, «Ас дуьхьал ца ду» дуьйцар — тIехь ма хьаьжа, хьоьгаш дуьйцу. Цхьа-цхьа дуьхьа жима ерзаш кхиа хуьлу. Адам дукха ерзаш ахь ма дуьхьа хуьлу, [хьалхара ерзаш](/activities/middle-stage/) дуьхьа ду. Кхеташ дуьйцар тIехь, [дуьйцар хьоьгаш](/caregiving/communication-tips/) тIехь ма хьаьжа, дукха ерзаш [101 ерзаш](/activities/ideas/) тIехь.
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Шуна а хьоьгаш дуьйцу. Эхь-хенан хенахь шайн доьзал хьоьгаш ду; [шун шен дахар](/caregiving/caregiver-self-care/) тIехь ма хьаьжа.

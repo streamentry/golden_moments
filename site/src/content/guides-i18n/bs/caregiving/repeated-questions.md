@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Kada osoba s demencijom stalno postavlja isto pitanje"
+seoTitle: "Demencija i ponavljana pitanja: šta reći i kako pomoći"
+description: "Zašto osoba koja živi s demencijom ponavlja isto pitanje, mirni načini odgovora, jednostavna pomagala i kada iznenadna promjena zahtijeva ljekara."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Ponavljana pitanja su česta kod demencije: osoba obično ne pamti da ih je
+  postavila, a pitanje često nosi brigu. Odgovarajte mirno i kratko, kao da je
+  pitanje prvi put, reagujte na osjećanje iza njega i nikada ne kažite „Već ste
+  pitali.“ Zapišite odgovor tamo gdje ga mogu vidjeti, spominjite događaje tek
+  kratko prije njih i ponudite prijatnu zajedničku aktivnost. Iznenadna promjena
+  zahtijeva ljekara.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Osoba obično ne pamti da je pitala; to nije namjerno."
+  - "Pitanje često skriva osjećanje, na primjer brigu zbog pregleda ili želju da se osjeća sigurno."
+  - "Odgovarajte mirno, kratko i ljubazno, kao da je pitanje prvi put. Nikada ne kažite „Već ste pitali.“"
+  - "Bilješka, bijela ploča, sat ili kalendar na vidnom mjestu mogu odgovoriti na pitanje umjesto vas."
+  - "Stresne događaje spominjite tek kratko prije njih."
+  - "Uzmite kratku pauzu kad vam treba i pozovite ljekara zbog svake iznenadne promjene."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Zašto moj tata s demencijom stalno postavlja isto pitanje?"
+    a: "Demencija utiče na kratkoročno pamćenje, pa on zaista možda ne pamti da je pitao ili da je čuo odgovor. Pitanje često nosi i osjećanje, kao što je briga šta slijedi ili potreba za uvjeravanjem. Odgovor na to osjećanje obično više pomaže nego ponavljanje činjenica."
+  - q: "Da li da kažem da su me to već pitali?"
+    a: "Ne. To im ne može pomoći da se sjete, a može djelovati kao ispravka. Organizacije za demenciju savjetuju da se svaki put mirno odgovori, kao da je pitanje prvi put, i da odgovor bude kratak."
+  - q: "Da li pomaže to da odgovor zapišem?"
+    a: "Može, dok osoba još može čitati. Bilješka, bijela ploča s današnjim planom, velik sat ili kalendar na mjestu gdje često gleda omogućavaju joj da sama provjeri odgovor. Blago pokažite na to, umjesto da kažete „Rekla sam vam.“"
+  - q: "Kada da pričam o pregledima ili izlascima?"
+    a: "Blizu vremena. Spominjanje pregleda kod doktora ili putovanja nekoliko dana unaprijed može se pretvoriti u sate zabrinutih pitanja. Recite im tek kratko prije, mirno, uz to šta slijedi."
+  - q: "Kada je ponavljanje razlog da pozovem ljekara?"
+    a: "Ako pitanja, zbunjenost ili promjena ponašanja iznenada nastanu ili se znatno pogoršaju tokom sati ili dana, odmah pozovite njihovog ljekara. Infekcija, novi lijek, bol, zatvor stolice ili dehidracija mogu izazvati iznenadnu zbunjenost koja se zove delirij i zahtijeva brzu njegu."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„Kad je pregled kod doktora?“ Deset minuta kasnije: „Kad je pregled kod doktora?“ Ponavljanje istog pitanja iznova jedan je od najzamornijih dijelova brige o osobi koja živi s demencijom. Vrlo je često, nije namjerno, a postoje mirni načini odgovora koji čine dan lakšim za oboje.
 
-## Why does someone with dementia ask the same question over and over?
+## Zašto osoba s demencijom stalno postavlja isto pitanje?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Uglavnom zbog pamćenja. Demencija utiče na kratkoročno pamćenje, pa osoba često ne pamti da je pitala ili ne pamti odgovor. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) opisuje postavljanje istih pitanja više puta kao čest i očekivan pojav.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Pitanje često nosi i osjećanje. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) objašnjava da ponovljeno pitanje može izražavati brigu, potrebu za pomoći ili nemir i nesigurnost, te da osoba često traži utjehu i poznato okruženje. „Kada idemo?“ može zapravo značiti „Brine me odlazak.“ Dosada, strah, buka i promjene u rutini mogu sve to pokrenuti, a ponovljeno pitanje može ukazivati i na neku potrebu, na primjer potrebu za toaletom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Šta da kažem?
 
-Answer calmly and briefly, as if it were the first time.
+Odgovorite mirno i kratko, kao da je pitanje prvi put.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Držite odgovor kratkim i uvijek istim.** „Pregled je u 14:00. Ja ću biti s vama.“ Dosljedan odgovor lakše se prihvata.
+- **Odgovorite na osjećanje.** „Pitate se za pregled. Danas je poslijepodne i ja ću nas odvesti. Ne morate ništa raditi.“
+- **Koristite topao glas i nježan dodir**, ako im prija dodir. Alzheimer's Association savjetuje da ostanete mirni i da ne koristite logiku niti se raspravljate.
+- **Dajte odgovor koji traže**, koliko god puta treba. Alzheimer's Association kaže da ga ponovite koliko god puta pitaju.
 
-## What should I avoid?
+## Šta da izbjegavate?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„Već ste me to pitali.“** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) savjetuje da ne ukazujete na to da su to upravo pitali. To ne može pomoći da se sjete, a može djelovati kao ukor.
+- **Duga objašnjenja.** Više riječi znači više toga za zaboraviti.
+- **Uzdisanje, prevrtanje očima ili oštar ton.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) savjetuje strpljenje i da ne pokazujete frustraciju. To je teško; pogledajte dio o pauzama ispod.
 
-## Simple tools that answer the question for you
+## Jednostavna pomagala koja odgovaraju umjesto vas
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Dok osoba još može čitati, napisan odgovor koji može vidjeti često pomaže više nego usmeni.
 
-| Tool | How to use it |
+| Pomagalo | Kako ga koristiti |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Bilješka velikim slovima | „Pregled danas u 14:00. Ana će voziti.“ Stavite je tamo gdje najčešće gledaju |
+| Bijela ploča | Današnji plan u tri ili četiri reda; obrišite i ponovo napišite svako jutro |
+| Velik sat s danom i datumom | Pomaže kod „Koji je danas dan?“ i „Je li već vrijeme?“ |
+| Kalendar | Precrtavajte svaki dan; zaokružite sljedeći posjet |
+| Poznate fotografije | Fotografija osobe koja dolazi može odgovoriti na pitanje „Ko dolazi?“ |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Ove ideje dolaze od [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) i [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Blago pokažite na bilješku („Pogledajmo zajedno ploču“), umjesto da kažete „To smo zapisali za vas.“
 
-## Tell them about events close to the time
+## Recite im za događaje tek kratko prije
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Spominjanje pregleda ili izleta nekoliko dana unaprijed može se pretvoriti u sate zabrinutih pitanja. Family Caregiver Alliance i Alzheimer's Los Angeles savjetuju da o planovima, posebno o stresnim, kao što su pregledi kod doktora ili kupanje, govorite tek kratko prije nego što se dogode. Zatim recite šta slijedi, korak po korak.
 
-## Activities that can shift attention
+## Aktivnosti koje mogu preusmjeriti pažnju
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Kad odgovorite i priznate osjećanje, mirna i prijatna aktivnost može pomoći, posebno ako je dosada iza pitanja. Svi izvori navedeni gore predlažu preusmjeravanje na nešto što osoba voli.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Kratka, laka igra zajedno.** [Parovi slika](/games/picture-pairs/) drže slike vidljivima, pa ništa ne mora da se pamti.
+2. **Poznat posao.** Slaganje peškira, sortiranje čarapa ili postavljanje stola. [Sortiranje zajedno](/games/sort-together/) je verzija na ekranu.
+3. **Razgovor o nečemu što vole.** [Kartice za razgovor](/games/conversation-cards/) nude otvorena pitanja bez tačnih odgovora.
+4. **Muzika, šetnja ili užina.** National Institute on Aging navodi ih među jednostavnim načinima preusmjeravanja.
+5. **Tiha pauza.** Sjedite zajedno, gledajte kroz prozor ili isprobajte zajednički trenutak [mirnog disanja](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+Ako se vrate na pitanje, ponovo odgovorite, ljubazno. To je u redu.
 
-## Look for patterns
+## Tražite obrasce
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association predlaže da primijetite da li se pitanja javljaju u određeno doba dana, oko određenih ljudi ili na određenim mjestima. Ako uvijek počnu prije dolaska posjetilaca ili u kasno popodne, možete se unaprijed pripremiti: bilješka o posjeti, poznata aktivnost spremna, mirnija soba. Naš vodič o [mirnim aktivnostima u kasno popodne](/caregiving/late-day-restlessness/) može pomoći ako su večeri najteže.
 
-## Take care of yourself
+## Brinite o sebi
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Odgovarati na isto pitanje za dvadeseti put je iscrpljujuće. Ako osjećate da strpljenje ponestaje, a osoba je sigurna, izađite u drugu prostoriju na nekoliko minuta i udahnite, kao što predlaže [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) potiče njegovatelje da traže pomoć i razmotre privremeni smještaj za odmor (respite care). Više ideja nalazi se u našem vodiču o [brizi o sebi za njegovatelje](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Kada da pozovem ljekara?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Pozovite njihovog ljekara odmah ako pitanja, zbunjenost ili promjena ponašanja iznenada nastanu ili se znatno pogoršaju tokom sati ili dana. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) kaže da iznenadnu ili brzo promjenjivu promjenu ponašanja, posebno nakon infekcije ili promjene lijeka, treba odmah prijaviti ljekaru. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) objašnjava da infekcija, lijekovi, dehidracija, bol ili zatvor stolice mogu izazvati delirij, iznenadnu i tešku zbunjenost koja zahtijeva brzo liječenje. Pozovite 112 ako je nekome u opasnosti.

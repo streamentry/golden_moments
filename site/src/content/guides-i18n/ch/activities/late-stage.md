@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Aktibidåt Para i Úttimo na Demensia, Gi Kama yan Silia"
+seoTitle: "Aktibidåt Para Demensia: Ideas Gi Kama yan Silia"
+description: "Mañaemmo na aktibidåt para i úttimo na demensia, parehu para i taotao ni gi kama pat silia: mùsika, tutuhon, lektura alto, tunog yan i taimanu ma sen gai hamyo, kon nuebu siha ni seguridåt."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Gi úttimo na estådu ni demensia, i aktibidåt manmatungo gi sintidu yan gi
+  makompañia-mu: mamuna mùsika ni gaige gi tataotao, mahalom i kamot, mangaige
+  i kamot yan lotion, lektura alto, mahanao i litråtu, tunog ni hinasso, yan
+  sumiente gi bentåna pat hålom tano. Siha este ma fanmamaila' gi kama pat
+  silia. Na'tuge i tiempo ni maimi, hanao i fasu yan kamot para kumfot, yan
+  hanao na i hinemlo ta'lo gi ma'pos siha na aktibidåt.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Todavia gai ha'ånimo. Gi úttimo na estådu, i tiempo manhålom gi sintidu."
+  - "Mùsika, mahalom na tutuhon, boses ni familiåt, yan suabe na gamgam siha, sigun meggai na biahe manmaña i taotao kuanto i palabra ti siña."
+  - "Kasi todu i ideas gi este ya u na'siña para i taotao ni gi kama pat silia."
+  - "Ha'ånimo ha'åni i fasu, kamot, yan respiración para kumfot pat dikumfot, yan para ha'alåkku kuandu gai sintoma ni dañu."
+  - "Ti tuge i tiniki na lådu, yan i kanen pat dånko ayu ha'ånimo i kuidao na tim, pot i pillu pot ña'lå' siña ti seguru."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Håfa na aktibidåt siña hu fa'tinas yan i taotao ni gai úttimo na demensia ni gi kama?"
+    a: "Hanao i mùsika ni ha gusta, ålak i kamot, fa'na'dan i kamot yan lotion, lektura alto gi libro pat rasun na ha gusta, sumiente litrått, pat hanao tunog ni suabe ni hinasso. Hålom i kurtinas para siña ha li'e i hinemlo. Sesyon ni koddo yan kalma, gi unu na kosas kada biahe, normal na taiguihi."
+  - q: "Siña toda i taotao ni gai úttimo na demensia ha gusta i mùsika?"
+    a: "Meggai siña. I Alzheimer's Association ha nota na asta gi úttimo na estådu, i taotao siña ha sangan kumo ha dulalak pat ha kanta yan un kansion ni ha hasso di i ti' kriånsa. Hanao mùsika ni ha gusta kuando dikike pa'go, yan tunas i volume."
+  - q: "Taimanu hu sen tungo' kon ha gusta un aktibidåt?"
+    a: "Hanao ha' i tiniki na sinya: kumfot i kuetpo, mas suabe na litrått, tinago ha' i mata, humming, ha'aprieta i kamot pat mas dinaña na respiración. Ha'iyu, ha'ålak i kamot, ha'atma, pat ha' ko'ko siña mamuna dolor pat dikumfot. Kon måtto este, para yu' ya hålom yan sangåni i kuidao na tim kon sige."
+  - q: "Ma'å' gaige hu bisita kon ti ha konosi yu' todabía?"
+    a: "Ya. I National Institute on Aging ha nota na ha'åni i presensia-mu siña mañaemmo, yan i tutuhon, mùsika, yan kuentos siña todabía manaifresku gi demensia ni gaige gi tinaddong. I lingguåhe-mu yan tutuhon-mu siña ma'å'iyi asta kuandu i nåna-mu ti."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Gi úttimo na estådu ni demensia, i taotao siña ti hinasso mås na palabra, nisisita ayuda gi todu i kutturan kada diha, yan manggai gi kama pat silia gi meggai na uras. Siña ha sangan kumo ti guaha tiempo para hacer huyong håfa. Guaha. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ha nota na guaha gi i tataotao-na ni todabía manggaige, yan gi este na estådu, i tiempo manhålom gi sintidu. Mùsika, tutuhon, boses ni familiåt, yan i kalma-mu na makompañia siña todabía mannana' konsuelo yan mamaila' tiempo ni konekta.
 
-## What activities help in late-stage dementia?
+## Håfa na aktibidåt ayuda gi úttimo na estådu ni demensia?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Simple na aktibidåt ni sintidu yan tahtaotao na makompañia ayuda mås gi úttimo na estådu. I Alzheimer's Association ha suggest i mamuna mùsika ni ha gusta, lektura parte ni libro ni gai significådo, mangaige i kamot yan lotion ni gai ha' gusto, yan sumiente hamyo gi hålom tano kuandu maolek i tiempo. I [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ha na'lalao kuentos, mamuna litrått, tutuhon pat fa'na'dan, mùsika, tunog ni hinasso pat tunog ni tano, yan ha sangan na i presensia-mu mismu siña mañaemmo.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+I [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ha nota na i taotao gi úttimo na estådu sigun meggai na siña gai kinalamten ni manhålom gi ha'ånimo ni guaha ha' ni para konsuelo, yan ha suggest simple na aktibidåt ni sintidu, muebu tinigi, muba ni bufanda, mùsika, bisita ni animåt, tutuhon ni taotao, yan art libre.
 
-## Activities for someone in bed or a chair
+## Aktibidåt para i taotao gi kama pat silia
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Hanao i mùsikan-ña.** Hanao kanta ni para i tiempo ni dikike, pat para i fe pat familia. Tunas i volume yan sumiente kumetmi. Gi todabía, guaha taotao ni ha tap i liga pat ha hum. Mira [aktibidåt mùsika](/activities/music/).
+2. **Ålak i kamot.** Ålak i kamot yan dinanga muna' i thumb, este i aktibidåt. Ågang hafa ni ma'hå'ås antes.
+3. **Fa'na'dan i kamot dinaña.** Hålom ha' lotion gi palmas-mu yan fa'na'dan gi wrist asta gi fingertips. Hanao lotion ni ti gai alulu, pat alulu ni ha gusta i taotao kumo ha tulaika i kanti-na.
+4. **Lektura alto.** Un poema ni ha gusta, parte ni libro ni ha gusta, scripture pat i páhina ni espottsu. I ritmo i boses-mu mas importånte kesi i palabra siha.
+5. **Kuenta un kuento.** Gågao hafa ni un biahe familia pat i un fecha ni ma'casa. Ti nisisita un tinestigu.
+6. **Sumiente litrått.** Hålom un litråtu dankolo yan gi taddong i mata, yan deskribi gi suabe na tinigi. Ti sumåsaga hao ni håyi i taitai gi litrått.
+7. **Ma'na'hålom un ma'sen tuge.** Un kudalan i sinakking-pat, un nainas fleece, pat un ma'sen animåt. I NIA ha suggest para ha'na' i taotao un kudalan sinakking mientras manmuebi, ansi ti ha agang i kamot-mu pat i muebles.
+8. **Hanao tunog ni tano.** Ulan, ga'a, pat kanton ha'ånimo gi lågo na bolumen siña ha tutuhon i kuartu ni maruido.
+9. **Fa'tinas i hinemlo gi hålom.** Hålom i kurtinas, pone un bird feeder gi hinasson bentåna, pat ma'trai guaha bulak pat ahi ni umaisa yan hahatsa.
+10. **Sumiente gi hålom tano.** Kuandu siña ma'sienta i taotao gi wheelchair, guaha minuto gi sombra gi un mañaemmo na diha siña para mamanaolek.
+11. **Kuidao i pilu pat na'hålom malanao na sinakking.** Maisa yan maolek na kuidao, yan malanao na sinakking para i kamot yan hinasso siña mana'siña.
+12. **Muebi suabe yan mùsika.** Ma'tutuhon un nina'lak bufanda, pat mabubukka i kamot siha gi ritmo gi un kanta. Para i stretches yan muebi i gaseng, pidi un physical therapist pat nurse para ensiña ha' måtto siguro na manera primero.
+13. **Hanao art libre.** Ma'tutuhon non-toxic na pentura gi dankolo na papet yan sponge pat ha' kamot, gi ma'guia ni enao. Ti guaha rinisultaon ni mas maolek.
+14. **Ma'sesetbi bisita ni animåt.** Un animåt ni kalma gi kama pat gi kuetpo, kuandu i taotao gusto i animåt yan i lugat siña.
+15. **Ma'respira mamanaolek.** Sumiente kumetmi yan respiran dinaña yan audible. [Calm breathing](/games/calm-breathing/) siña ha ma'pace ambos, yan hågu ha' todu i kumu'un yan para.
+16. **Sumiente gi hinemlo.** Sumiente kasi, hum, tutuhon pat lektura kalma. I presensia-mu mismu sufisiente.
 
-## How to share an activity at this stage
+## Taimanu hu comparte un aktibidåt gi este na estådu
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Kumekuenta gi atdaonon.** Kuenta hao ni nåna-mu yan i nåna-mu, yan gosa dinaña yan suabe antes di tutuhon.
+- **Manosu un kosas kada biahe.** Apaga i TV antes di mamuna mùsika. Hanao un sensu kada biahe.
+- **Hanao kotta.** Algun minuto siña sufisiente. Mas maolek kumu manmaolek i sinanmeggai na kottos gi todu i diha ki un mas dankolo na sesyon.
+- **Primero, ma'sendi.** Chequea na maolek i suporta i taotao. I NIA ha suggest un lap board para ha'sosotra i brasu yan ha'suporta i tinaddong kuandu ma'sienta.
+- **Ma'obserba i respuesta.** Kamot ni kalma, mas suabe na litrått, kontaktu di mata pat humming ha sangan konsuelo. I NIA ha nota na i iyu, ha'iyu, ha'guaiya i parte di lusu pat ha' ma'atasa na agitasion siña sigñu dolor. Para, yan sangåni i kuidao na tim.
 
-## A quick guide by sense
+## Un mapotbe na ginigiya siha sigun i sintidu
 
-| Sense | Ideas | Take care |
+| Sintidu | Ideas | Gi kuidao |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Hinasso | Mùsika ni ha gusta, boses-mu ni ma'lektura, tunog ni tano | Tunas i bolumen; un tunog kada biahe |
+| Tutuhon | Fa'na'dan i kamot, ålak i kamot, suabe na tela, malanao na sinakking | Pidi pat ågang primero; chequea na i panit ti masalåppen pat maluta |
+| Litrått | Litråtu, bulak, i halom ni bentåna, un dinaña na video ni tano | Ma'hålom gi taddong i mata; manhålom liwat, ti tumutugsa |
+| Mangaige | Lotion ni ha gusta, bulak ni mahatsa, kafe ni ma'gira gi hasso | Ti ma'hålom gi duru na mangaige; chequea i alerhiya yan respiración |
+| Mamaila' | Un ki'ki na taste ni ha gusta | Solo i kanen yan tekstura ni i kuidao na tim sigi na seguru |
 
-## Safety at this stage
+## Seguridåt gi este na estådu
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Ti maolek i chumochoku gi úttimo na estådu, yan i NIA ha na'hålom na esta siña ha aumenta i riesgo ni sumaktaki. Ti na'hålom kosas ki dikike gi tinago-mu, yan solo ha tuge kanen pat dånko gi tekstura yan posisiona ni i kuidao na tim ha recommend. Chequea i panit dinaña durante aktibidåt ni tutuhon, pot i panit siña fanhokak pat masalåppen fasil. Para mås gi seguru na aktibidåt ni sintidu, mira [aktibidåt ni sintidu](/activities/sensory/).
 
-## Looking after yourself too
+## Kuida i nuestro mismu
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+I kuidao gi úttimo na estådu ti fasil, ni fisikåt pat emosyonåt, kumu gi tataotao pat gi bisita gi care home. I hospice yan palliative care na tim siña ayuda gi kumfot, suporta yan plånu, yan i NIA ha lista esta kumu un tinestigu ni ayuda. Mamaila' yan kalma na bisita manmaolek; mira [bisita un taotao ni gai demensia](/activities/visiting/). Kon hågu manlidåhi grupo, [aktibidåt gi care home](/activities/care-home-groups/) guaha ideas para ma'adapta i sesyon. Ya, fabot lee [caregiver self-care](/caregiving/caregiver-self-care/): i descanso parte di maolek na kuidao.

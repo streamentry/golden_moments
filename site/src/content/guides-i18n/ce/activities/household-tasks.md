@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Дахаран барамаш деменци йолу адамашна"
+seoTitle: "Деменцин барамаш: дийнахьийн кхетамаш"
+description: "Кир тешар, гIуллакхаш сортировать, стол хIитто а, гIаьттина мацах кхехкарш а деменци йолу адамашна мехала барамаш ду. Center а, цхьана гуо хьакхар а, дуьйцург хийцар а."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Дийнахьийн гIуллакхаш, важарш тешар, гIаьттина нилесаш сортировать, стол
+  хIитто, стенаш хьеха, цветаш цIе шеа а, гIаьттина мацах кхехкар а деменци
+  йолу адамаш шуна дика дахар. Цхьа барам хийцадеш шин, цхьана гуо тIаьхьа
+  кхечу тIехь гIоьвлар, хьаьзалаш а, гурам а лов, тIехь доккха чIогIа дIаоьцу
+  чIогIа кхечу кIел нисдар.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Цхьана цIеха барамаш адам кхетадеш шуна дахар йолуш, и а, хан дешаш яхар йолуш, цхьана дахар ду."
+  - "Цхьана барам цхьана гуо тIаьхьа кхетадеш, гIаьттина деш ахь а, кхетош гIуллакх кхуза."
+  - "БIаьхьа доккхуьйш кIел, хьакхар а, карат хьоьнгар а, цIехъа кхуза а, кхуза газ шинах кхеташ чо гуш."
+  - "Тешаш важарш гIаьттина тешар ца лор ду. Цхьана дика тешар декхар ца лор, тIаьхьа лелорцарш, мехала ца хьоьнарш."
+  - "Барам мехала лелорцарш, цхьана дакъа тешар, тIаьхьа хан дIаеш, я тIехь чIогIа хьоьнарш гIуллакх яц."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Деменци йолу адам цхьа барамаш тешар шуна дакхелад?"
+    a: "Доккха адамаш тешар кхин хIум: важарш тешар, кепараш хьакхар, карат хьоьнгар, стол хIитто, стенаш хьеха, кIеш тешар, пхьагIар тIехь пхьоьйш. Дахаран кхуьнан барам лелорцарш тIаьхьа дIаоьцу. ТIаьхьа доьзалах кIел цхьана тешар мехала ду."
+  - q: "Деменци йолу адамаш маьхьара кхин кхеташ мехала ду?"
+    a: "Иза мехала ду, цIийцарш хьакхар, цхьана гуо тIаьхьа кхин шен дика кхиссар. Карат, хьоьнгар а, цIехъа кхуза а, дудал хьоьнгар а дикарг ца хьоьнарш. Цхьана тIехь дIаоьцуш бен дакхелад газ ца лор."
+  - q: "Таккхар тешар я ца хьоьнарш хIума ду?"
+    a: "ДIатIе ма. КIеш яц ду, адам кхетаде мехала кхин, адам дIаовзийтар ду. ТIехь доккха лелорцарш ма дуьйцург ма, адам ца вийцеш, тIаьхьа, адам кхин ца войгна."
+  - q: "Цуьнан кIел ца бера тIехь гIуллакх ду?"
+    a: "Иза шен кепара хIума дар вуьйцу. Хан шуна мехала декхар, ца лаьттарш барам кхин гуш, я дийнахьан кхин хан дIаяхьош."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Деменци йолу адамаш ша дегIа гIуллакх, цхьа доьзал тIе, я барам тIе, кхеташ дIа-оьцу. Цуьнан доьзалах ца дахаран барамаш тешар вайн тIехь ша лелорцарш, цхьа барам кхуза ду. ХIокху агIо тIехь важарш цIеххьана дешар, цуьнан шу барам дIа-баш, хийцадеш цхьа агIо чохь дешар, гIаьттина кIеш а, кхин хIума а мехала хьаьзалаш тIехь.
 
-## Why do everyday chores work well as activities?
+## Мичара дийнахьийн барамаш мехала ду?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Барамаш мехала ду, цуьнан ма кхетар ду, цуьнан цхьа мана ду. Национальный институт старения (NIA) дийнахьийн барамашан цхьа могаш тIехь, мацах кхехкар, стол хIитто, цхьан-хьо дигар тешар, ахь доьзалан дахар кхиа дацар, гIаьттина ца лор ду: [дийнахьийн барамаш, деменци йолу адамаш шуна дика ду](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association кхеташ ду, стол хIитто тIе кхиа адам [доьзалан цхьана шен дахар](https://www.alz.org/help-support/caregiving/daily-care/activities) хIоьттинарш ду.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Барам цхьана дахар тIе тешар мехала ду. «ХIокху важарш тешахь хьо мехала ду?» дуьйцу ма, «Хан тIехь доьзалах хIокху дахаран барам хьоьнгар?» дуьйцу ца.
 
-## Which household tasks are good to try?
+## Мичара барамаш хьо тешахь мехала ду?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Цхьана барам, адам шен дахар ца кхетар, я шен хан лелор дегIа тешар.
 
-### Laundry and linens
+### Кир а, пхьагIар а
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Тешаш важарш а, тхьаьнгар а.** КIеш кIонцан нисдар, цхьа баш цхьа паьлахь. Важарш, цхьа дика тешар ца лор ду.
+- **Сортировать тешаш цхьана гIуллакх.** Стол тIе тешаш цхьа нисдар. Кхин цхьа тIехь вилар цхьа гучуваьлла, цхьа ца дешар.
+- **ТIехь шатIа доладар, тешар.** Салфеткаш, подушкаш я кIеш тешар хьоьнгар. ТIаьхьа хан дIаоьцуш мехала ду.
 
-### Table and kitchen
+### Стол а, кIеш а
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Стол хIитто.** Цхьана тIехь адам хьакхар, цхьана дешаш кхуза. Цхьа хIума кхуза: «Хаан ду вуьйтар вуьйтаде».
+- **ТIехь кIеш тешар.** КIеш тешаш цхьа чохь шайна дика хIума хIитто.
+- **Тешар, дакъа кIеш тешар.** Пластик кIеш, дакъа ца галорш, тIехь тешаш ваьлла.
+- **Стол, сколмаш тIе цIеххьана тешар.** Чорхо тIехь, хIитто — Alzheimer's Association кхеташ ду, цхьа адам стол кхийтадеш шуна кIеш вуьйтар ду, хIокху кепара иза мехала барам ду.
 
-### Around the house
+### КхечIа цIеххьана
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **ЦIеххьана даьсар.** Цхьа дакъа дакхар а, шатIа кIонцан тIехь ма, стол тIехь цхьана хIума.
+- **Почта сортировать.** Цхьана кепара, каталогаш, тIехь пхьагIар, нилийш: хIума, тешар, тIаьхьа дIаяхьа. Дикарг а, шайна кепараш ца тIехь.
+- **Ца тIехь тешар.** Цхьана тIехь тешаш, пхьагIар, чIогIа бакъах кхеташ.
+- **Шуьйра тешар.** КIеш шуьйра тIехь, дика бекхаш.
+- **Цхьан хIум лоьхар.** Цхьан лоьхар, шиен мацах хIума.
 
-### Simple cooking with supervision
+### Цхьана кхуза кхехкар, карат тIехь
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Кхехкарш доккхуьйш адаман кхин дика хIума кхиа. NIA кхеташ ду: адам шен важарш тешаш, тIехь мацах, стол кхуза я тайа, я кхин адам цхьа дика кхехкар кхиссар. Мехала барамаш:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- кIеш я важарш ахь доккхуш
+- кирш тIе гIалаш тIехь кхуза
+- шуьйрш шуьйрш тIехь кхехкар
+- тIаьхьа боккхуьйш кIеш хьоьнгар
+- кIехар тIехь цхьа хIума кхеташ
+- пицца тIехь хIума хьакхар
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Хан дIаоьцуш тешар дукх ду, Alzheimer's Association кхеташ ду: хIокху хьо кхиссар, тIаьхьа кхин цхьа барам тешар, цхьана кхеташ — кхуза.
 
-## How do I set up a chore so it goes well?
+## Барам мехала гIуллакх хIокху дIаеш?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Хан дIаоьцу.** Дийнахьан дикарг адам кIел ду, я хан дIа ду. Цхьана ханна, цхьана кхеташ — дийнахь.
+2. **Чо ца тIехь.** Цхьа барам, цхьа тIехь. Чо тIехь кхин хIума ца лор.
+3. **Ма дуьйцу, дIаяхьа ца.** «Хаан хьоьнгар мехала дуй?» хьо дIаоьцу. «Кхин хан ду, важарш тешахь» ца дуьйцу.
+4. **Цхьа гуо хьакхар.** ДIа тешар, цхьа гуо гIоьвлар, тIаьхьа кхин. Хьакхар цхьа ладог ду.
+5. **Цхьа дакъа цхьа гуо.** Дукх барам цхьана дешар — адам ца хьоьнарш. Цхьа дакъа лелорцар, тIаьхьа кхин.
+6. **Цхьана тIехь ма.** КхечIа тIе доккхуш барам — кхеташ, доьзалан дахар.
+7. **Барамах дуьйцу, мохк ца.** «ХIокху важарш шуна гIалаш ду» я «Тхан даьхьа кIел ду, хьо дийнахьан ца дешар?» дуьйцу хьо, адам ца кхийтаде.
 
-## How do I adapt chores as abilities change?
+## Барам хийцарш, адам хийцарш?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Адам хийцаш ду хан тIе, дийнахь кхин тIе. Alzheimer's Association кхеташ ду: дахар кхин деш, барамаш кхин дешар, даьхьа дешар тIе.
 
-| If this has become hard | Try this instead |
+| Ца хьоьнарш | Хьоьнгар кхин |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Доккха шуьйрш тешар | КIеш тешар, салфеткаш тешар |
+| Стол тIе дукх хIума | Цхьа салфетка цхьа кIел |
+| Почта категорешна сортировать | Конверты цхьа гIоьвлар |
+| Рецепт кхуза | Карат хьоьнгар, я кхеташ, дегнаш ла |
+| Цхьа хьоьнгар шуьйра | Цхьа жима стол бекхар |
+| Барам тешар, ца тешар | Адам вуьйтаде, хьо тIехь вуьйцу |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Кхеташ тIехь ца лор. NIA кхеташ ду: цхьана адам кхеташ деш, цуьнан кхин дика хIума ду — кхеташ тIехь вуьйтар.
 
-## How do I keep household tasks safe?
+## Кепара кIел хьакхар, гIаьттина дахар?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+ДIатIе тIехь дика кхуза. NIA [деменци йолу адамашан кIелан безпека тIе](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) дуьйцу:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Кирш, кIеш тешаш, пхьагIар тешаш хьакхар я дIаьхьа дIаяхьа — дикарг а, кхин хIума лелорцарш.
+- Кирш, хьакхар, шуьйрш тIе баш хьакхар.
+- Кхуьнан тIе тIехь кхуза я кхин гIуллакх.
+- «Стоп» я «Хан тIехь» цIе кхуза — кепараш, духовка, тостер, утюг тIе.
+- Шуьйра тIехь 49°C (120°F) лакхо дацар, ца тIехь цIе яц.
+- Гамна кхуза хIума, я магнитш, кхуза — ца дешар.
 
-A few more practical habits help:
+Кхин дика кхехкарш:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Духовка, кхуьнан хIума я хьакхар дIаяхьа — кIел тIе ма дешар.
+- Дакъа ца галорш тешар, стол хIитто.
+- ТIехь кхуза я шуьйра тIехь, дикарг кхуза.
+- Адам кхин тIехь хIума деш, Alzheimer's Association кхеташ ду: хIокху хIума хIитто, цхьана хIума — шуьйра тIехь, тешар мехала.
 
-## What if they do it "wrong"?
+## Таккхар «ца дика» хьо дешахь?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+ДIатIе ма. Тешаш, ца дика тешар — тешаш, важар ду. Alzheimer's Association кхеташ ду: хан доьзалах кIел ду, адам мехала кхин, цуьнан кхин дика тешар ца лор. Хан тIехь доккха барам вуьйтар, тIаьхьа, адам ца вийцеш.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Тешар тIехь ца дуьйцу. Цхьана барам, адам дIаоьцуш, цуьнан хан кхуза. «Дика, кхин хIума шуна мехала дуй» дуьйцу — хьоьнгар дика ду.
 
-## When should we stop?
+## Хан тIехь лоьхар?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+ДIатIе я хийца, тешар, мехала дукх ца хьоьнарш. ДIаьхьа ма кхеташ ду: лаьтта, чIогIа тIехь ма. Тешаш кхин ду:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- цхьана барам кхуза
+- тIехь кхин, мацах, я кхеташ дIа-цIе
+- кхин хан я кхин дийнахь
+- цхьа хан гIоьвлар
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Адам «ца» ду, тешар ца лор. [Цхьа ца дуьйцучу вIа](/caregiving/when-they-say-no/) кхеташ ду, цуьнан дика кхуза.
 
-## Low-effort extras for a quieter moment
+## Кхин кепара, цхьа калах
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Цхьан хIума ца лор ду, стол тIехь цхьа хIума кхеташ лор. [Sort Together](/games/sort-together/) — цIеххьана пицца ца, [Picture Pairs](/games/picture-pairs/) — дика хIума кхуза, хан ца. [Conversation Cards](/games/conversation-cards/) — доьзалан, кIелан дуьйцург, кофе тIаьхьа.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Дийнахьан барам тIехь [дахаран дика хан](/activities/daily-routine/) тIехь ма. Кхин кепараш [доккха хан](/activities/middle-stage/) тIехь.

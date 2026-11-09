@@ -1,32 +1,32 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Деменци йолу стагашна дарбанаш"
+seoTitle: "Деменци йолу стагашна дарбанаш: дийнатехан идеяш"
+description: "Деменци йолу стагашна дарбанийн идеяш: шайн бизнес, хобби а, дахаран бакъонаш тIе гулдина, стереотипаш ца. Дарба хийцар безаме хьакха тIехьа."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Деменци йолу стагах лаьтта дарбанаш хьакха цуьнан шен дахарах: шен бизнес,
+  шен хобби а, шен дийнатехан бакъонаш. Офисан бедар кехаташ тIехьа долу стаг
+  кехаташ цхьаьна туьйсу, механик тоьмарш тIехьа долу стаг тоьмарш цхьаьна
+  туьйсу, спортан безам долу стаг хьаьнан довзарш хьамш. Стагаш дитарна
+  безаме долу дарбанаш хийцина, цуьнан пол ца лаьтта, ах цунна хьакха.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Хьакха цуьнан шен кхетам: цуьнан болх, хобби, бакъонаш а, цуьнан ойланаш а."
+  - "Дарбанаш шен дагара маьIна долу, масала кепан тоьмарш къастор, машина ювор я доска кечьор, хьакха безаме бу, цу дарбанаш класса тIехьа долу дарбанаш ца."
+  - "Шен стаг бен тоьмаш я спорт безам ца долу. Хьакха стагаш хьакха, музыка, кхеташ, сурт а, цхьаьна кхеташ а безам бу. Цуьнан хьалхара дийцар хьаьжча, цуьнан дахарах кхиамдар дарба хьакха."
+  - "Болх-дарба безаме тIехьа дарбанаш ма-дийнатехан хьакхаш ца туьйсу хьо хьалха бу, цуьнан ойлане кхетам дитарна доьзна, масала безаме дарбанаш тIехьа тIаьхьа."
+  - "«Ца» ала хьакха бу. Цунна дарба хьоьгуш ца, дарба лакхара. Дийнатехан дарба дитар кхиамдар хьакха."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Деменци йолу стагаш мила дарбанаш безам бу?"
+    a: "Цхьа дарбанийн дийцар дакъа ца лаьтта, хIунда аьтто стагийн безам адамийн безам кхиамах деза. Хьакха дарбанаш цуьнан бизнес тIехьа долу дарбанаш ю, масала кехаташ къастор я бедарш цхьаьна туьйсу, хобби тIехьа долу дарбанаш ю: балцар, машинаш, музыка, кхеташ я спорт. Хьайна ца дахьа мила дарба дитарна хьакха дарбанаш хьакха."
+  - q: "Сан дада группан дарбанашка ца догIу. Хьо мила дарба хьакха ас?"
+    a: "Иш адам, стаг я цIийнаш, класса тIехьа долу я ца-сийлахь ойла долу дарбанаш ца догIу. Дарба хьакха ас безаме: «Хьо сан хьалха кехаташ къастор дIаоьхьа?». Цхьа жима группа я цхьаьна шена хьакха хьала дарба, къаста хьалха лакхара кIонт ца долу."
+  - q: "Ма цуьнан бакъонаш долу дарбанаш безам бу?"
+    a: "Хьо, къастор долу хьакха а, дарба безаме долу а хьакха. Дарба хийцар тIехьа долу тоьмаш, къастош я кепанаш ца хьакха, масала йодад тIехьа, тоьмарш ювох тIехьа тIаьхьа я тоьмарш шуй-зама тIехьа. Alzheimer's Association хьакха суьртаба хьакха, хьо къастор кепанаш ца хьакха ма дарбанаш ах безаме бу."
+  - q: "Цо уьш цуьнан болх хьакхаш бу. Ма дарба цунна ца ойла ду?"
+    a: "Цуьнан хьакхаш ца туьйсу ала, хьо дарба болх тIехьа хьакха. Дарба ал дарба, къастош кехаташ я болхаш хьакха, цуьнан хIунда болх меле хьо дарба хьакха, масала кехаташ тIехьа хьакха я файл дитар."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Адамаш деменци йолу стагашна дарбанаш хьаьжа, хIунда аьтто уьш хьакхаш дарбанаш дIадоьзна ца хилла. Хьо дика ойла бу. Амма жоп ма ду «стагийн» дарбанийн дийцар ца, а хьакха ду — иза стаг хьакха. Цуьнан болх, цуьнан шен кхиамах хьакха, хIунда цуьнан дахар хийцина, цуьнан ойла шен дакъа. Дарба хийцар адам дахьа бу. Адамаш кхеташ, сурт, музыка, цIа дахьа дарбаш безаме ду, стаг машинаш а, бейсбол а безаме хилла.
 
-## How do I find activities he will actually enjoy?
+## Хьакха дарбанаш, цуьнан безам бу
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Дийцар цуьнан дахарах дуьйцучу деза. Alzheimer's Association кхеташ дийцар дахьа [дийнатехан план](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) цуьнан безаме, ца-безаме, хьалха дахар кхетам, цуьнан дийнатехан дахар хийцина кхиамах хьакха. Хьо ойла яло:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Цуьнан болх мила ву?** Офис, ферма, завод, хьоьгу, армин, маркетинг, кхетаран, машина дахар, цуьнан цIа?
+- **Цуьнан хобби мила ву?** Балцар, карта, кIепе, спорт, цIа, музыка, кху хан, машина гаражехь?
+- **Цуьнан бакъонаш мила ду?** Йолу ювер кофе, газет? Хан ахь хьаьжар? Шарахь машина ювор?
+- **Цхьа ма-дарба а дохкуш ахь ца дохьа?** Alzheimer's Association кхеташ: стаг шен дарба ца дохьа, масала ювор, хийцина дарба бакъонаш тIехьа хилла.
+- **Мила дарба тIехьа ца хилла?** Цхьаьна спорт тоха безам бу, цхьаьна ас хийцина я тIаьхьа ца хилла. Цуьнан безам, мила я дохкуш ца хилла, хьо тIехьа гIо.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Цуьнан кхеташ, дешаш я цуьнан тийна хьакха дарба тIехьа, сан лел кечам бу.
 
-## Activity ideas based on past work
+## Шен бизнес тIехьа дарбанаш
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association хьакха дика дешнаш: офисан бедар кехаташ тIехьа дарбанаш туьйсу, масала коьрта я хьалха даьха, кехаташ «тIе тIаьхьа» хьахо, я ферма бедар цIа дарба хьакха. Ма бараман болхан дарбанаш дагадаха.
 
-| Past work | Activity ideas | Simpler version |
+| Шен болх | Дарбанан идеяш | ТIаьхьарчу версе |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Офис я бизнес | Кехаташ папкешка, конверташ тIе тIаьхьа, список хьакха, стол юкъ дакъа | Конверташ тIе тIаьхьа; кехат кIоргIаш коробкешка |
+| Тоьмар я механик | Чистый тоьмарш, болташ, шайбаш къастор; болташ хьехан тIе тIехьа; тоьмарш каталогаш хьакха | Дакъа къастор, ши шаьш |
+| Ферма я цIа | Ювор, сад шиллор, сахьа, сад хьаьжар | Цхьаьна цIа тIехьа доьхка; туьйсу хьоьгу |
+| Армин | Банташ дийцар, цIеран стол хьакха, хан хьаьжар хьо сурта, безаме хилла | Цхьаьна дахарх музыка тIе |
+| Маркетинг я хьо кхетам | Адамаш хьакха, хьоьгу хьоьгу, купон къастор | Дешка хьалха дIаоьхьа, салам ала |
+| Кхетар | Дешна, книгаш хьакха, сурташ тема тIехьа къастор | Цхьаьна сурт книга тIе ас |
+| Машина я транспорт | Карташ я кхеташ машинаш журналш, машина ювор | ТIаьхьа хьоьгу машинаш шилар |
+| Цуьнан цIа, дахар | Кхетар туьйсу, дарба шира, цхьаьна дохкар | Салфетки тайкхаш; кIоргIаш йоьгIар |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Армин тIехьа ойланаш кхеташ дацар. Цуьнан бакъонаш хьакха, дийцар дика кхиамдар дIа, хIунда цуьнан ойланаш тIаьхьа тIехьа.
 
-## Activity ideas based on hobbies
+## Хобби тIехьа дарбанаш
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Тоьмар дарба.** Дика дакъа хьакха я сурт ала. Alzheimer's Association хьакха, стаг шира дарба хьакха.
+2. **Балцар.** Балцаран куьйгал къастор, журналш хьакха, я хьоьгу шаьш тIе.
+3. **Машина.** Машина ювор, хром ювор, классикан машинаш сурташ хьакха, я хьо пассажир хилла.
+4. **Спорт.** Классикан тоха я хайзар хьакха, жима мяч тоха, гольф мяч ковр тIе, бейсбол карташ къастор.
+5. **Карта а, игра а.** Цхьа хьоьгу карта, домино, я карта къастор. Цхьаьна дарба, балх ца дохьа.
+6. **Музыка.** Цуьнан кхетамах, цуьнан безаме ансамбль я хьакха дешнаш. Хьо [музыкан дарбанийн гайд](/activities/music/) хьаьжа.
+7. **Ювор а, кIоргIаш а.** Бистаяш ювор, соус тIе, бургерш шаьш, цуьнан чили кIоргIа дуьйцар, хьо кIоргIа дайна.
+8. **Газет.** Alzheimer's Association кхеташ: стаг ма-газет дакъа хьакха, амма цуьнан шен дакъа ца хилла хьо. Кофе, газет дахар тIехьа, йоьхIа ган хьо.
+9. **Тоьмар хьакха.** Стагашна жима дакъа хьакха ма-тоьмарш. Ахь хьакха дакъа, цуьнан кепан дакъа.
+10. **Цхьа ма-хьакха.** Хьо тIехьа дарба, ма-хьакха тIе гIо. NIA кхеташ: [кхетар, ювор я хьо таIар](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) хьакха безаме дарбанаш.
 
-## How do I offer an activity without it feeling like busywork?
+## Дарба болх ца хьакха, хIинца кхиамдар хьакха
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Дарба хьакха реална кхиам дIа. Alzheimer's Association кхеташ: «Хьо сан хьалха дIаоьхьа ас?» хьакха, дарба дахар тIехьа хьакха. Хьо дешнаш хьаьжа:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Ахь ма кехаташ къастош?» (тест хилла)
+- «Сан шира кехаташ тоьмарш къастош хилла, сан шен шкаф тIе. Хьо дика дIа?» (дарба хилла)
 
-Other tips:
+Иза тIаьхьа дешнаш:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Дакъа материалаш.** Чистый тоьмарш, дакъа каталогаш, дакъа конверташ.
+- **Цхьаьна дарба.** Ши адам цхьаьна дарба — цхьаьна дахар. Цхьа адам цхьа хьаьжар — тIаьхьа.
+- **Ца дакъа.** Болташ цхьа кепан ца тIе, ца тIе. Хьо дарба дика хилла.
+- **Цуьнан тIаьхьа.** Alzheimer's Association кхеташ: хьоьгу адамаш шен дарба хьакха, амма хийцина. Хьо дарба тIехьа.
 
-## How do I adapt as things change?
+## Хийцина ас, дарба хийцош ма ду
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Деменци кхиамдар, Alzheimer's Association кхеташ: дарбанаш даккхар хьакха, хийцина дарба, цхьаьна дарба дахар тIехьа. Стаг шен тоьмарш лаьттина цхьаьна шен кепар дIа, хIинца кхиамдар цхьаьна тоьмар тIе я ювор тIе хьаьжа. Ахь хьо дарба хьаьжар дарба хилла.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Цуьнан шен хьакха кхетам цхьаьна хьакхаш, шен кхетам тайнарш хьо цIа дарба кхиамах. Alzheimer's Association кхеташ: профессионал художник шен хьакхаш хийцина, амма дарба хьакха художник хьакха. Тоьмар хьакха дарба хьакха.
 
-## Safety with work-style tasks
+## Болх-дарбанийн безаме
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Тоьмарш, туьсарш, шайбаш, шурш тIе тIехьа доьхка.
+- Растворитель, бензин, химийн кепанаш цхьаьна дохка.
+- Машинан ачкаш, хьо ма тIе хьо, хIунда ас ца туьйсу.
+- Барамах дарба хьо хьаьжа.
+- Жима дакъа ца туьйсу хьо.
 
-## What if he says no?
+## Хьо «ца» ма-аллахь ас?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Цуьнан ца дахьа. «Ца» ала кхеташ: дарба хьоьгуш, хийцина я шен хан кхиамдар ца. Alzheimer's Association кхеташ: ца хьакха дарба. Цхьа дарба, цхьа хан я цхьаьна хьоьгуш хилла. Гайд [хьо «ца» аллахь хIинца](/caregiving/when-they-say-no/) хьаьжа.
 
-## Games and conversation that fit
+## Игра а, дувцар а, цуьнан безаме бу
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) — англисан хьакха ц1ердошт, Америкин дешнаш. [Conversation Cards](/games/conversation-cards/) — хьакха дешнаш тема тIехьа, тест ца, дувцар хьакха. [Picture Puzzle](/games/picture-puzzle/) — сурт дика хилла, пазлаш хийцина. Жима [Word Search](/games/word-search/) — печатан, хьо кIоргIа дешка тIе каландар. Цуьнан хьалха дахарах дувцар, ца тест, хьо [reminiscence гайд](/activities/reminiscence/) хьаьжа.

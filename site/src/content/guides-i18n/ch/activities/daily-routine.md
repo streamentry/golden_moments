@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Mamaolek na Rutina Para Taotao ni Dementia"
+seoTitle: "Rutinan Dementia Diario: Ehemplo Ga'chong Na Aina"
+description: "Ehemplo ni aduas para taotao ni manggaige ni dementia, gi komidas, aktividat yan descanso gi maseha na fino'. Guaha tinige' para un fa'tinas i rutina-mu yan para un ma-adapta gi tiempon ginen maolek."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Na rutina ginen gi maolek ayuda gumuti gi tiempon ginen fanggi'ot, komidas,
+  kuidao pot i taotao yan fanggi'ot gi kinasi-kasi. Fa'chalan i aktividat
+  prinsipåt gi tiempon ki i taotao mamaolek ha' i tinituhon-na, yan fa'na'
+  ni aktividat yan descanso. Fa'tinas gi ginen i kostumbren taotao gi tiempon
+  makyo', tulaika ki ti todu minuto ha' malago', ma'å'ayuda ginen lugat yan
+  mamuebe kada aduas, yan ma-chachalan i plånu siempre na nisisita i aduas.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Mismo oras para fanggi'ot, komidas, kuidao yan fanggi'ot ma'å'ayuda para i aduas guaha pattun ni manmaolek."
+  - "Pone i aktividat prinsipåt gi mamaolek na tiempo, ginen manhaddong i mañaña."
+  - "Ti todu minuto para ma'lleno. I descanso yan tiempon tranquilo parte gi rutina."
+  - "Lugat, mumuebe kada aduas yan ti sumen-na sumåsaga mås-lagu pot i tiempo yan ti sumen-na kafe gi kinasi-kasi pot ayuda pot manggaige gi kinasi-kasi ginen ti pa'go."
+  - "I rutina guaha tinige', ti lai. Ma-cha'ng, ma-ccheka pat ma-ngangangga' ayu siha gi tiempon mamamaisa."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Pot håfa mafatinas i rutina para taotao ni dementia?"
+    a: "Un aduas ni guaha pattun ma'å'ayuda manmaolek ni manmaisa'ina ni taotao ni manggaige ni dementia. I Alzheimer's Association ha nota na i aduas ni maplåni ha ayuda i ma'ayuda gumuti ginen gi tiempon para un tulaika gi kinasi-kasi yan dinanche ni maolek. Ayuda lokkue i manggaige na masumasaga i tiempon-ñiha."
+  - q: "Håfa i maolek na plånun aduas para taotao ni dementia?"
+    a: "Ti guaha un plånu ni mas maolek. Un maolek ha' ha kumuentos i fanggi'ot, komidas yan fanggi'ot gi mismo oras, pone i kuidao pesonåt yan aktividat prinsipåt gi tiempon ki i taotao mamaolek ha' i tinituhon-na, guaha tiempo gi fanu' pat gi fa'nu' i bentana, yan ha dàba tiempo para descanso. Fa'tinas gi ginen manmaloffan i taotao."
+  - q: "Ha' na debi di manmaloffan i taotao ni dementia gi tiempon kada aduas?"
+    a: "Un pitchu na descanso ma'å'ayuda, espesiåtmente despues di almuerso. I National Institute on Aging ha nota na debi di ti manmanmaloffan lagu pat manmaloffan gi kinasi-kasi, ya i kumanse ti manmaloffan ha' ma'å'ayuda i kinasi-kasi ginen kinasi-kasi. Ti tayuyuti ha' sinahi ni dinanche, un taigi ni dukturå-ñiha."
+  - q: "Håfa si un ti masaga i rutina?"
+    a: "Dimention tinige' gi momento, ya ti sumen-na un chachalan lokkue gi otro tiempo pat otro manera. Ti masaga i taotao ginen minalåk, ma'å'ayuda, mahihiyong pat sen ti manmamaisa. I rutina guaha para ma'å'ayuda i aduas, ya fa'tinas i rutina ni ti fa'fa'tinas."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Na rutina maolek ayuda para i aduas guaha pattun ni manmaisa'ina: manhaddong, komidas, guaha målåo na aktividat, descanso, yan matulaika gi mismo tiempon. Ayuda para ti manggaige ni tiempo yan para un guaha plånu gi momento ni ayu siha ni debi di un ma'nå'ña ni'ña' håfa sigi. I rutina gi tinanon esta ehemplo, ti regla. Un gi punto ha' para fa'tinas, despues un ma-ayek i aduas ni para i taotao ni un kuida.
 
-## Why does a daily routine help?
+## Pot håfa ayuda i rutina diario?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ayuda i rutina maolek pot i kostumbre ni manmaisa'ina manmaolek ha' para tumuge' kompara ni nuebo. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ha sangan na i aduas ni maplåni ha ayuda para ti gaige i tiempo ha' sumåsaga håfa sigi, ya ha' gaige tiempon para aktividat ni manmasaga. Ha nota lokkue na i regulåt na tiempon para manhaddong yan ma'lak ha' ayuda para i problema gi guaiya yan i fanggi'ot gi kinasi-kasi. I [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ha sangan na kumuenta i banjo, fanmamaiyi yan kumome gi mismo tiempon kada aduas, komu parte gi tinenon tranquilo gi tiinas-hu, ya i [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ha rekomenda lokkue na mantiene i mismo rutina.
 
-## A sample gentle day
+## Un ehemplo gi aduas tranquilo
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+I tiempo ginen ehemplo ha' esta. Fa'chalan i aduas kumplidu para ma-iyak gi tiempon ni taotao ha' i tinituhon-na.
 
-| Time | What happens | Ideas | On a harder day |
+| Oras | Håfa ma'gås | Ideas | Gi maisa'ina na dia |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Manhaddong, banjo, fanmamaiyi | Mismo orden kada aduas; pone i kamesa gi orden ni manmaisuette | Ma'na' i kuidao simple; un kamisa mafresko ya bai ha' |
+| 8:45 a.m. | Komidas gi kalamma | Kafe yan peppet ni mamaisa'ina, pat radio | Kume' kinetnan tranquilo, ti guaha pisa para ma'chachalan |
+| 9:30 a.m. | Aktividat prinsipåt | Falåta labåda, gålu, huerta, lakiyi na biahi pat lakiyi na lakao | Ma'na' bersion ni mappot, pat deha ha' un ma'taitai taiguennao |
+| 10:30 a.m. | Tiempon tranquilo | Musika, album ni litråtu, pat sumåsaga gi bentana | Descanso gi tinanon silya |
+| 11:00 a.m. | Ayuda gi almuerso | Hugas gulaisu, pone i mesa | Un kuenta; hao ha' ma'pet i taotao |
+| 12:00 p.m. | Almuerso yan ma'limpia | Tuhot i mesa, pluma pipasu gaiinas | Ti guaha ma'limpia |
+| 1:00 p.m. | Lalao descanso | Sahi i sakkan, musika ni tranquilo | Mismo |
+| 2:00 p.m. | Hatyan pat ma'aktibo | Lakao, sinenan pachon, hugas tanom, tira globo | Sumåsaga gi bentana ni mapåpa |
+| 3:00 p.m. | Sosiåt pat kriatibu | Visita, ti'iyi, [picture pairs](/games/picture-pairs/), pentura, kartas | Un tasa ya un meriendan para tumotos |
+| 4:30 p.m. | Tiempon para ma'enrenta | Kortina sinadu, lampåra mapalas, un aktividat tranquilo komu ma'fanfa'lulun tiyångan | Musika familiåt, ti ma'daulak |
+| 5:30 p.m. | Hapunan | Ayuda para ma'trapos pat pone i mesa | Komida simple yan familiåt |
+| 6:30 p.m. | Tiempon junto gi aprigu | Ma'cho'ña gi postre, kartas, palabra favorito, masahe gi lima | Tranquilo na kompanian |
+| 8:00 p.m. | Rutina para matulaika | Banju pat hugas, pantalon ni matulaika, musika tranquilo, lampåra baba | Ma'ñålek todu; sinusedi gi primet |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Este ehemplo sumusundi i fotma ni ehemplo ni plånu ginen i Alzheimer's Association para i primet yan medio na istaho, ni ma'nina ginen personal care yan almuerso gi kinasi-kasi ya kumokse gi chores, lakao, musika, descanso yan visita asta hapunan, ma'cho'ña ginen tiempon pasao yan manmapareparehu para matulaika.
 
-## How do you build your own routine?
+## Pot håfa un ma'na' i rutina-mu?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Kumuenta ha' gi kostumbre ni manmaisa'ina i taotao, ti ginen tablan. I Alzheimer's Association ha sangan na debi di un mamensa esta siha antes un plånu:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Håfa malago', håfa ti malago', i kinalamten yan interes-ñiha.**
+- **Håfa manmaloffan gi tiempon makyo'.** Un taotao ni maloffan manhaddong ha' debi di sumåsaga ha' manhaddong gi lakao. Un taotao ni manmaloffan gi kinasi-kasi pot ti sumen-na malago' gi ocho gi kinasi-kasi.
+- **Tiempon mamaolek.** Pone i banju, lakiyi yan aktividat prinsipåt gi hilo'.
+- **Gaige tiempo** para komidas, hugas yan pulan, ya ti umatasi.
+- **Regulåt na tiempon** para manhaddong yan para matulaika.
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Hilo' na fonte ha' sangan lokkue na kumuenta mantiene ni mañaisugon ni chores gi guma', komidas, personal care, aktividat kriatibu, aktividat fisikat, tiempon sosiåt, aktividat espiritual yan momento ni ti planeao, komu ni guaha amigu ni tumutuge'.
 
-### Try it for a week, then adjust
+### Ma'tulaika gi siette, despues ma'na' klalo'
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Mamentene un nota ni simple kada aduas. I Alzheimer's Association ha sangan na un mapregunta håfa i aktividat ni mås maolek yan pot håfa, si guaha tiempo ni taiguennao ni ti tumuge' pat ni ti gaige ha' gi chocho', yan si i plånu ni ti ma'plåna ma'taitai pat ma'fanhasso. Mantiene håfa ni maolek ya para ma'na' håfa ni ti.
 
-### Make it visible
+### Ma'taitai
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Si i taotao mana'tulaika ti manma'lalaen, guaha whiteboard pat kåttan ni grandi ni letra ni i plånu gi aduas ayu siha. Ma'na' koddo: "Komidas. Lakao yan Sarah. Almuerso. Descanso." Guaha taotao ni mas maolek si ti manma'sangan ha' ginen tinige'; i Family Caregiver Alliance ha sangan na ti debi di un ma'chachalan i plånu asta ha' nu uchan ma'å'ayuda, si ha' lulu' pat kumekeha.
 
-## How to adapt the routine
+## Kumu un ma'adapta i rutina
 
-### Leave room to breathe
+### Ma'na' lugåt para ma'resepira
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ti ma'lleno todu minuto. I Alzheimer's Association ha tinanon na i taotao nisisita un balanse entre aktividat yan descanso ya pot ventaha nisisita mås mañaisa na descanso. Si pareha manmaloffan, ma'laggaiyi pat ma'chasalao, ma'cho'ña pat ma'pokpok ha' aktividat pat descanso.
 
-### Protect the late afternoon
+### Ma'protehi i fin di kada tiempo
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Meggai taotao manmamaloffan mås gi kinasi-kasi ya ha' i liti ha' manmalågu. I NIA ha sangan na debi di guaha tiempon fa'nu' pat gi bentana para sinhi kada aduas, aktibu kada aduas ti ma'planeha meggai, ti kumome kafe pat alkohot gi kinasi-kasi, ya ti manmaloffan lagu gi kinasi-kasi. Meggai familia lokkue ha' sumålå ma'na' ha' kortina yan lampåra antes di kinasi-kasi. Ha' tiyångan [late-day restlessness](/caregiving/late-day-restlessness/) yan [sleep](/brain-health/sleep/).
 
-### Change it as needs change
+### Fa'chalan i rutina ya i nisisidåt chumachalan
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Primet na istaho:** planea i rutina junto. I taotao siña malago' un plånu ni manmaekrit ni siña manma'nå'ña ha' mismo.
+- **Medio na istaho:** un ma'lidång mås. Aktividat ni mañaisa, mås descanso yan meggai trabahu ni familiåt; ha' tiyångan [middle-stage activities](/activities/middle-stage/).
+- **Late na istaho:** i rutina ma'sentro gi komfort, komidas yan kuidao, yan momento ni mañaisa ni sentidu komu musika pat masahe gi lima entre; ha' tiyångan [late-stage activities](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Fa'tinas i aktividat, ti i fotma
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Mantiene komidas, descanso yan matulaika maolek, ya fa'chalan i aktividat entre. I [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ha sangan na un prueba diferente aktividat gi diferente dia para ma'mantiene interesånte i huyong. Puedi un bai hasso gi Lunes, ma'huerta gi Martes yan ma'lalatlat litråtu gi Miyerkules. I [101 activity ideas](/activities/ideas/) yan [household tasks](/activities/household-tasks/) ma'sen ayuda para mapupuno i tiempon.
 
-## When the day goes sideways
+## Kuånto i aduas ti ma'gåsi
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Guaha dias ti manmasigi ni plånu. Mafaloffan, ma'gasi maluti, un chålan ni dukturå pat cha'mo'ng i tiempo siña ma'taimanu todu. Ma'nå'ña i plånu, sigi i basiko (kinakanno, inayek, descanso, komfort) yan tumuge' lamani. Si i taotao ti maleffa håfa, ha' tiyångan [when they say no](/caregiving/when-they-say-no/). Un pitchu respiran dinimo, kumu [calm breathing](/games/calm-breathing/), siña ayuda hamyo para ma'nå'ña.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+I rutina-mu lokkue importante. Fa'na' break para hågu mismo, yan usa familia pat un servisio ni para ma'cho'ña respite para guaha regulåt na tiempon para un descansa. Ha' tiyångan [caregiver self-care](/caregiving/caregiver-self-care/).

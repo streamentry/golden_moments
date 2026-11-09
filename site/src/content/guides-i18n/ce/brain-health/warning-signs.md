@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Деменцин хьалхара билгалш а, докторна вахар а"
+seoTitle: "Деменцин хьалхара билгалш а, докторна вахар а"
+description: "Деменцин хьалхара бакъбаьхна билгалш, оьмрин хьалхара кхиамца юкъара хийцамех дуьззина дуй, зен дохуш долу эмбар хьолаш, докторна вахар хьалха дашо гӀо."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Ваха дохуш долу зен дохар, сиха дуьйна хьехам цхьаьна дохар, хан я хӀора дохуш дуьйцар а, хийцамаш
+  кхетам я хӀукмах дохуш долу хьолаш деменцин хьалхара билгалш хила мегар ду. Дукха оьрсийн хьолаш а,
+  тироидан хьолаш, В12 витамин ца лууш, эм-тӀехьа дарар, депрессех а, хан хьолаш а, цхьаьна хийцамаш
+  кхечу хьолаш ма-дарра. Цхьаьна хьехам дацаш бу кхетар эм-тӀехьа кхетаран гӀалаш. Хьехан дуьйцар
+  хан-хиллах кхетар ло.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Оьрсийн хьалхара зен дохар оьмрин хьалхара дукха хилар ду; ваха дохуш долу хийцамаш хьан хьокхучу ла хьехамаш лаьттар."
+  - "Alzheimer's Association шен 10 хьалхара билгалш дуьйцу, цу тӀе кхечу оьмрин хийцам харжар."
+  - "Тироидан хьолаш, В12 витамин ца лууш, эм-тӀехьа дарар, депрессех, инфекцех а, хан хьолаш а зен дохуш доьхуш хила мегар ду, цхьаьна эмбар ду."
+  - "Деменцин кхетар цхьаьна хьехам кхетаран гӀалаш дацаш; онлайн тесташ а, шен-шен тесташ а ца дарж."
+  - "Цхьаьна хан, дийнах а, дийнаш а ханна дохуш хьо аьттулахь, тӀаьхьа хьалхара доккхачу эмбар хила мегар ду, цу тӀе кхетар эм-тӀехьа ярташ мехала ду."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Зен дохар оьмрин цхьаьна хилийтар ду я?"
+    a: "Цхьаьна хилийтар ду. National Institute on Aging дуьйцу, цхьаьна хан шайн цхьаьна хилар я каштан бохам кхиамца хилар дуьззина ду. Деменци оьмрин цхьаьна хилийтар дацаш ду. Зен дохар, цу тӀе хьан дуьхьала харжар, коьрта хьехам дохар (масала, машина тоьхар, телефон тӀе кхетар я хьаьжа ша хьакхар) докторна вахар хьалха гӀо ду."
+  - q: "Зен дохар деменцин дуьхьал дацаш ца хилар хила мегар ду я?"
+    a: "Хила мегар ду. National Institute on Aging дуьйцу тироидан, бӀарах я миллех хьолаш, эм-тӀехьа дарар, депрессе а, стресс а, В12 витамин ца лууш, араваь дуьхьало дарар, хан хьолаш, инфекцаш а, тӀеххьара лоьхучу зиянаш а. Цхьаьна хьолаш эм-тӀехьа ца хилла, цу тӀе докторан хьехам дорах тӀехьа ду."
+  - q: "Сан ца лууш шен кхетар деменцин тест дан сан?"
+    a: "Ца. Деменцин кхетар цхьаьна хьехам кхетаран гӀалаш дацаш ду: хан хьолан дийцар, физикан тест, зен а, дегнаш а тесташ, хьо-лабораторан тесташ а, хан-хиллах брейн-скан а. Докторан дукха хьехам тесташ а цхьаьна сан кхетар деменцин дуьхьал цхьаьна ца дацаш ду."
+  - q: "Стаг сихачу дохуш хьо аьттулахь, сан ма дуьхьал?"
+    a: "Хьо кхо докторна вахар тӀехьа. Цхьаьна дохуш долу аьттула Veterans Affairs дуьйцу медицинан хьолах. Адаман сийлахь медицинан дуьхьал вахар я 112 тӀе аьттулахь. Адаман хьо тӀе ца дарж, эмбарш ма-дарра. Эмаш ханна ма кхетта."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Шен я шун тӀаьхьа адамин зен дохар, я хьо дезар адамин зен дохар, хан кхетар дукха ду. Ди агӀо хьо докторна вахар хан дезаш хилар кхетар а, вахар хьалха гӀо дар а. Ма-дарра, ди агӀо деменци цхьаьна хилар ца дуьйцу. **Деменцин кхетар цхьаьна хьехам кхетаран гӀалаш дацаш ду**, а дукха зен дохуш долу хьолаш деменци ца хиларца ма-дарра. Онлайн тесташ а, шен-шен тесташ а ца дарж.
 
-## What are the early signs of dementia?
+## Деменцин хьалхара билгалш мила ду?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) шен 10 хьалхара билгалш дуьйцу. Цу тӀе оьмрин хийцам харжар а дуьйцу. Ди бакъо дийцар:
 
-| Sign worth checking | More typical with age |
+| Хьехам дохуш долу билгалш | Оьмрин хьалхара дукха хийцам |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Зен дохар, цо гӀо дохуш долу кхетар, масала, тӀаьхьа хьалхара хан дохар я цхьаьна хьехам дохуш дуьйцар | Цхьаьна хан яхь я ер ца лууш, тӀаьхьа цуьнан тӀе дахар |
+| Кхетар я кхиамаш кхочушдан дохар, масала, хьалхара кхетам тӀе дохар я хьаьжа дохар | Цхьаьна аьттулахь кхетар лакхара ца дарар |
+| Коьрта хьолаш тӀе дохар кхочушдан, цхьаьна ахь ца дохар, кхеча стаг я кхечу хьолаш тӀе | Цхьаьна хан микроволновка я телевизор тӀе кхетар лакхара ца дохар |
+| Хан, сохьта я хьо ханна ву, цу тӀе дохар ца лууш | Сохьта дийна дохар ца лууш, тӀаьхьа цуьнан кхетар |
+| Хьежаш я дуьйна ду, я ца дуьйна дохар, я тӀе хьаьжа дохуш долу хан дохар ца лууш | Цхьаьна хан хьежар ца лууш, цо дуьйцу кхетар |
+| Дуьйцу цхьаьна хьехам дохар, масала, дуьйцар юкъара я аьттулахь дохуш ца хилар | Цхьаьна хьехам дохуш ца дарар, тӀаьхьа цхьаьна дохар |
+| Дохуш долу ша тӀе, хан я тӀаьхьа дохуш долу хьолаш | Цхьаьна хан тӀе тӀехьа дохуш ца дарар, тӀаьхьа цуьнан тӀе дахар |
+| Цхьаьна аьттулахь дохар дохуш ца лууш, масала, сийсаза я кхетар | Цхьаьна аьттулахь кхетар дохуш ца лууш, цо дуьйцар |
+| Коьрта хьолаш тӀе ца дохар, хан я кхеча дарар, я дешар ца лууш | Цхьаьна хан дохар ца дохар, хан дохуш дуьйцар |
+| Мехала хийцам тӀе я хьо тӀаьхьа ца дохар, масала, ца хьежаш я сийсаза дохар | Цхьаьна хан дохар ца лууш, тӀаьхьа дуьйцу |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Цхьаьна билгалш цхьаьна деменци ма-хилар. Коьрта хьолаш тӀе **хийцам кхетар** ца дарар, цхьаьна стаг шен хан-хиллах тӀе хийцам дохуш долу хьолаш. Хьо хьан ца дохуш долу хийцам йоккхах а дукха ду.
 
-## How is normal aging different from dementia?
+## Оьмрин кхиамца деменци ца хилар хила мегар ду?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) дуьйцу, дукха оьмрин адамаш цхьаьна хан тӀе кхетар дохуш долу хьолаш ца лууш, я цхьаьна хьехам тӀаьхьа ца дахар. Цу хьолаш дукха ду, кхетар дохуш лаьтта. **Деменци оьмрин хьалхара дукха хилар ца ду.** Коьрта зен дохар хьолаш дийнах а, машина тоьхар, телефон тӀе кхетар я хьаьжа ша хьакхар дукха харцар.
 
-The NIA suggests talking with a doctor if someone:
+NIA дуьйцу докторна вахар дукха шо, стаг хьолаш:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Хьехаш дукха цхьаьна хьехам дохар
+- Хан, сохьта хьалхара хьежаш я тӀе дахар
+- Дукха кхетам я дешар тӀе дохуш долу кхетар ца лууш
+- Хан, адамаш я хьежаш тӀе дукха хийцам дохар
+- Шен тӀе ца дохар, масала, хӀора ца хилар, бохам дохуш ца лууш, ца тӀеххьара ца дохар
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Цхьаьна стаг **зен дохар цхьаьна хьолаш (MCI)** дуьйцу. Иш дукха зен дохар я кхетар дохар кхо оьмрин адамаш тӀе дукха, амма дийнах а шен дахар тӀе дуьйцар. NIA дуьйцу, MCI Alzheimer's хьалхара билгалш хила мегар ду, амма цхьаьна MCI хьолах доккхачу стаг Alzheimer's кхеташ ца дохар.
 
-## What else can cause memory problems?
+## Зен дохар мила кхеча хьолаш хила мегар ду?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Деменцин кхеча дукха хьолаш зен дохуш долу, а цхьаьна эмаш хьолаш сихачу хила мегар ду. NIA дуьйцу:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Тироидан, бӀарах я миллех хьолаш**
+- **Эм-тӀехьа дарар**
+- **Депрессе а, стресс а**
+- **В12 витамин ца лууш** я хьаьжа ца дохуш долу дукха
+- **Хан хьолаш**
+- **Араваь я наркотик дохар**
+- **Инфекцаш, тромбаш я дешаш** брейнех
+- **Коьрта зен дохар**, масала, сотрясение
+- **Стресс я дечиг**, масала, пенсие я цхьаьна стаг дохар
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Цхьаьна хьехам я хьежар хьолаш а дохуш хила мегар ду; тӀаьхьа [хьехам гайд](/brain-health/hearing/). Иш шо докторан медосмотр мила дукха ду. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) дуьйцу, докторш дукха тироидан хьолаш, витаминан ца лууш а, инфекци а, цу хьолаш кхетар цхьаьна кровь тесташ дохуш. Сихара [хан](/brain-health/sleep/) а, депрессе тӀе кхетар а хьехам дохар ду.
 
-## Sudden confusion is an emergency
+## Сиха хьехам ца лууш хьехам ду
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Цхьаьна хан, сохьта дийнах а, дийнаш а, шийла дохуш долу сиха ца лууш, эм-тӀехьа ярташ хьехам дезар ду.** Иш хила мегар ду хьехам. [VA дуьйцу](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) хьехам медицинан аьттула ду, а дуьйцу стаган докторан тӀе ваха я 112 тӀе сиха дохар. Билгалш:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Кхетар я сийсаза тӀе хийцам
+- Хьехам дохуш дуьйцар кхетар ца лууш
+- Дукха кхетар ца дохар
+- Хан дукха дохар я цхьаьна ма-дарра, я дукха сихачу тӀе гӀуллакхаш
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Иш адамаш тӀе хила мегар ду, деменци тӀе лаьтташ адамаш тӀе а. [NHS](https://www.nhs.uk/symptoms/confusion/) дуьйцу, дукха хьолаш инфекци (туьгин инфекци оьмрин адамаш тӀе дукха), цхьаьна хан, диабет тӀе цхьаьна сиха ца дохар, коьрта зен дохар а, цхьаьна эмаш а. ГӀо хан тӀе стаг тӀе хьо дохуш долу, ша тӀе кхетар кхиамца а, хьехам кхетар дохуш. Дукха хьехаш ца хьахьа, а цуьнан эмаш кхетар.
 
-## How do I prepare for the doctor's appointment?
+## Докторан вахар хьалха мила дохар дезар?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Сиха вахар хьехам дохуш долу дешар. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) дуьйцу мила дезар:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Хийцамаш дешар** зен, безам а, дахар тӀе, хьехам примерашца, я хан хьехам
+2. **ТӀаьхьа а, хьан а сиха хьолаш**, зен дохуш долу кхетар хьолаш а
+3. **Хьан эмаш, рецепташ а, аптекан эмаш**
+4. **Витаминаш я добавкаш** хьан
+5. **Шен хьехаш**, масала, мила тесташ дохуш, хан тӀе хьехам дохуш, а кхетар тӀе шен хан
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Иш дукха адам тӀе, стаг я хьо тӀе хьехар адам хила мегар ду, шен кхетар тӀе. [NIA дуьйцу](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), докторш адаман а, цхьаьна ша-тӀе кхетар адамаш тӀе хьехаш дохуш: сиха, эмаш, дийнах дохар, ца лууш хийцамаш. Докторш цхьаьна дукха:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Зен, кхетам, дохар, юкъара а, дешар тесташ дохар
+- Кровь, туьгин а, кхеча тесташ дохар кхеча хьолаш харжар
+- Депрессе я кхеча психикан хьолаш харжар
+- КТ я МРТ брейн-сканаш дохар
+- Специалист тӀе вахар, масала, гериатр, невролог, геропсихиатр я нейропсихолог
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA дуьйцу, зен дохуш долу кхетар харжар ялийнарг ялта шеран профилактикан медосмотр тӀе ду, иш ханна хьехам дохар сиха ду. Докторш дукха тесташ ца хилар кхетар цхьаьна деменци ма-дарра. Иш харцар хьалхара хьежар ду, а кхетар дукха хан я вахар хила мегар ду. NIA дуьйцу, зен дохуш долу стаг докторна 6–12 шо тӀехьа вахар дезар ду.
 
-## Raising the subject kindly
+## Хьехам кхиамца дийцар
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Кхечу стаг тӀе хьо дезаш хилар, цхьаьна сийсаза хан, цхьаьна кхетар кхиамца. Цхьаьна хьехам дийцар, хьо харжа дохуш долу хьолаш, цуьнан дахар тӀе кхетар ца дохуш. Хан тӀе сиха дохар ца дохуш, я дукха дохуш юкъара хьехам дийцар сиха хила мегар ду. Стаг тӀе кхетар ца дохуш, цуьнан тӀе хьехам дохуш, цуьнан тӀе хьехар адам хила мегар ду. Шен [дешар хьехам](/caregiving/communication-tips/) сиха хила мегар ду.
 
-## Talk with a doctor
+## Докторан тӀе дешар
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Хьо зен, кхетар, безам я дахар тӀе ца лууш хийцамаш харжар, кхиамца а, дукха а дохуш, докторна хан ярташ хьехам дохар. Сохьта сийсаза дохар хан тӀе, 112 я стаган докторан тӀе ваха. Хьалхара харжар хьо сиха ду: цхьаьна хьолаш дохуш долу эмаш, а деменци хила хьолах тӀаьхьа хан а, тӀаьхьа кхетар дохар а. Шен кхетар тӀе хьо дахар хьо тӀе дохуш; хьо [шен кхетар хьехам](/caregiving/caregiver-self-care/) дуьйна ду.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ди агӀо дешар бу, медицинан хьехам ца ду. Ди [медицинан дуьхьал хьехам](/medical-disclaimer/) дуьйна ду.

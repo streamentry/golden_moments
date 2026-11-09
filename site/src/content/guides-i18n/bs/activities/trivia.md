@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Lagani kviz za starije s demencijom, bez pritiska"
+seoTitle: "Pitanja za kviz za starije s demencijom, sa odgovorima"
+description: "50 lakih pitanja za kviz za starije osobe s demencijom, sa ponuđenim odgovorima i temama za razgovor, plus kako voditi kviz da se niko ne osjeća ispitanim."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Lagani kviz za starije osobe s demencijom funkcioniše kad liči na razgovor, a
+  ne na test. Pitajte o stvarima naučenim davno, poput starih pjesama, izreka,
+  praznika i svakodnevnog života, i uvijek ponudite dva ili tri izbora. Odgovor
+  recite slobodno, nikog ne izdvajajte, izostavite bodove i iskoristite svaki
+  odgovor kao početak priče. Pitanja „ovo ili ono“ bez pogrešnog odgovora
+  pogodna su za kasnije faze.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Pitajte o odavno poznatim stvarima: pjesmama, izrekama, praznicima, hrani i svakodnevnom životu iz prošlih godina."
+  - "Ponudite dva ili tri izbora, kako bi se odgovor mogao prepoznati, a ne prisjetiti."
+  - "Recite odgovor toplo i idite dalje. Svako nagađanje koje pokrene priču je dobro nagađanje."
+  - "Bez bodova, bez takmičenja timova i bez prozivanja jedne osobe. Neka odgovori dolaze iz cijele prostorije."
+  - "Kad izbor između odgovora postane težak, prijeđite na pitanja „ovo ili ono“ bez tačnog odgovora."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Je li kviz dobra aktivnost za osobe s demencijom?"
+    a: "Može biti, ako se vodi nježno. Alzheimer's Foundation of America navodi kviz među aktivnostima za rani stadij. Držite se pitanja o temama koje su odavno poznate, nudite izbore, nikad ne stavljajte jednu osobu pod pritisak i odgovore tretirajte kao put ka razgovoru, a ne kao test."
+  - q: "Koje teme najbolje funkcionišu za kviz o demenciji?"
+    a: "Najbolje funkcionišu stvari naučene davno: popularne pjesme i pjevači iz mladosti te osobe, poznate izreke, praznici, hrana, sport i svakodnevni život, poput dostave mlijeka i telefona s brojčanikom. Izbjegavajte novosti i sve što traži da se zapamti nešto iz ranije u toku sesije."
+  - q: "Kako voditi kviz u domu za stare bez da se bilo ko postidi?"
+    a: "Pročitajte svako pitanje cijeloj grupi, pokažite ili recite izbore i dozvolite odgovore od svakoga. Ne prozivajte pojedince i ne vodite bodove. Odgovor recite s osmijehom, šta god da je neko pogodio, i postavite dodatno pitanje, npr. „Ko je ovdje nekad išao u ljetno kino pod vedrim nebom?“, da se razgovor pretvori u priče."
+  - q: "Šta mogu raditi umjesto kviza u kasnijim fazama?"
+    a: "Pređite na pitanja bez pogrešnog odgovora, poput „Kafa ili čaj?“ ili „More ili planine?“, i na dovršavanje poznatih izreka ili pjesama zajedno. Dobro funkcioniše i gledanje slika i zajedničko opisivanje."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Kviz je jedna od najtraženijih grupnih aktivnosti u domovima za stare i dnevnim programima, a mnoge porodice ga igraju i za kuhinjskim stolom. Ako se igra na uobičajen način, s bodovima i jednom osobom koja odgovara, može osobu s demencijom da učini da se osjeća izloženo pritisku. Ako se vodi nježno, to je živahan način da se čuju priče. Ispod su 50 lakih pitanja s ponuđenim odgovorima i nečim o čemu se može razgovarati uz svako, a nakon toga kako voditi jednu sesiju.
 
-## How do you make trivia work for someone with dementia?
+## Kako napraviti da kviz bude dobar za osobu s demencijom?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Neka se radi o prepoznavanju i prisjećanju stvari iz davnine, i neka svaki odgovor bude dobrodošao.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Pitajte o dalekoj prošlosti.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) kaže da je najčešći rani simptom Alchajmerove bolesti teškoća da se zapamti nedavno naučeno. Pjesme, izreke i svakodnevni život od prije decenija često su lakši teren.
+2. **Uvijek dajte izbor.** Odabrati tačan odgovor između dva ili tri mnogo je lakše nego ga smisliti iz nule.
+3. **Čitajte pitanja naglas i pokažite ih velikim slovima.** Bijela tabla ili tablet koji se drži uvis pomaže ljudima koji slabije čuju.
+4. **Odgovor recite slobodno.** Ako niko ne zna, recite ga toplo i nastavite dalje. Nikad „Hajde, pa znate ovo.“
+5. **Bez bodova.** Ni za pojedince ni za stolove. Ako ljudi žele broj, vodite jedan zbir za cijelu grupu.
+6. **Nikad ne prozivajte jednu osobu.** Neka odgovori dolaze od bilo koga. Kad ste sami s osobom, odgovorite zajedno: „Mislim da je to klavir. A šta vi mislite?“
+7. **Iskoristite temu za razgovor.** Odgovor je početak, a ne kraj. Priče su pravi cilj.
+8. **Neka bude kratko.** Deset pitanja s pričama između njih sasvim je dovoljno.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) daje osnovno pravilo jednostavno: pazite na frustraciju i pobrinite se da se osoba osjeća uspješnom. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) navodi kviz među aktivnostima za rani stadij. U srednjem stadiju držite se dva izbora i oslonite se na teme za razgovor. Kasnije prijeđite na pitanja tipa „ovo ili ono“ niže u tekstu.
 
-## Music and entertainment trivia
+## Muzika i zabava
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Odgovor je **podebljan**. Prilagodite ih osobi: neko ko je odrastao uz Motown želi druge pjevače od nekoga ko je odrastao uz džez orkestre.
 
-| Question | Choices | Talk about |
+| Pitanje | Ponuđeni odgovori | Tema za razgovor |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Koga su nazivali kraljem rock and rolla? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Jeste li ikad gledali Elvisa na televiziji? |
+| Koji pjevač je dobio nadimak Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Koja Sinatrina pjesma vam je najdraža? |
+| Bing Crosby je sanjao o bijelom... | **Božiću**, vjenčanju, domu | Otpjevajte zajedno jedan stih |
+| Louis Armstrong pjeva „Kakav divan...“ | Dan, **svijet**, život | Šta vam je divno na svijetu? |
+| „Over the Rainbow“ pjeva Judy Garland u kojem filmu? | **Čarobnjak iz Oza**, Prohujalo sa vihorom, Pjevajući pod kišom | Gdje ste gledali svoje omiljene filmove? |
+| Ko je glumio Lucy u seriji „I Love Lucy“? | **Lucille Ball**, Doris Day, Betty White | Koje emisije je vaša porodica gledala zajedno? |
+| Koji kauboj je jahao konja po imenu Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Jeste li se u djetinjstvu igrali kauboja? |
+| Ko je vodio emisiju „The Tonight Show“ 30 godina? | Ed Sullivan, **Johnny Carson**, Bob Hope | Jeste li kasno ostajali budni da gledate TV? |
+| Koji instrument ima 88 tipki? | Gitara, **klavir**, truba | Je li neko u vašoj porodici svirao? |
+| Koji ples se broji jedan-dva-tri, jedan-dva-tri? | **Valcer**, twist, tango | Gdje ste izlazili na ples? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Za više o muzici pogledajte [muzičke aktivnosti za demenciju](/activities/music/).
 
-## Everyday life trivia
+## Svakodnevni život
 
-| Question | Choices | Talk about |
+| Pitanje | Ponuđeni odgovori | Tema za razgovor |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Prije frižidera, mnogi su hranu držali hladnom u... | **kutiji s ledom**, pećnici, potkrovlju | Ko je donosio led? |
+| Ko je donosio mlijeko na kućni prag u staklenim bocama? | Poštar, **mljekar**, dostavljač novina | Šta je još donošeno na kućni prag? |
+| Kako se birao broj na telefonu s brojčanikom? | Pritiskanjem dugmadi, **okretanjem brojčanika**, razgovorom s njim | Ispričajte mi o telefonu u vašoj kući |
+| Gdje su se proizvodili automobili Zastava 101? | Tuzla, **Kragujevac**, Zenica | Jeste li imali neki automobil iz tog vremena? |
+| Gdje su se nekad kupovali sladoled i sokovi? | **U slastičarnici**, u pekari, u banci | Šta ste naručivali na šanku? |
+| Koja igračka je metalna opruga koja može da „šeta“ niz stepenice? | Jojo, **Slinky**, obruč | Koje ste igračke voljeli? |
+| Ljetno kino pod otvorenim nebom bilo je mjesto gdje se gledali... | **filmovi na otvorenom**, utakmice, parade | Sa kim ste išli? |
+| Koji je glavni grad BiH? | Mostar, **Sarajevo**, Banja Luka | Jeste li ikad bili u Sarajevu? |
+| Koji grad leži na obalama rijeke Vrbas? | Tuzla, **Banja Luka**, Zenica | Jeste li ikad posjetili taj grad? |
+| Koja je boja neba po vedrom danu? | Crvena, **plava**, zelena | Kako ste išli u školu? |
 
-## Holidays, nature and places
+## Praznici, priroda i mjesta
 
-| Question | Choices | Talk about |
+| Pitanje | Ponuđeni odgovori | Tema za razgovor |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Uz koji praznik se kiti jelka? | Uskrs, **Božić**, Bajram | Šta je uvijek bilo na vašem stolu? |
+| Koji praznik se obilježava farbanjem jaja? | Bajram, **Uskrs**, Đurđevdan | Ko je u vašoj porodici farbao jaja? |
+| Kog datuma se obilježava Međunarodni dan žena? | 1. maj, **8. mart**, 25. decembar | Kako ste ga obilježavali u porodici? |
+| Koji mjesec je najkraći u godini? | **Februar**, april, juni | Šta vam se sviđa kod zime? |
+| Koja je najviša planina u BiH? | Bjelašnica, **Maglić**, Vranica | Jeste li ikad bili u planini? |
+| Koje more je uz Neum? | Crno more, **Jadransko more**, Egejsko more | Jeste li ljeti išli na more? |
+| Koji grad ima Stari most? | Tuzla, **Mostar**, Bihać | Jeste li ikad vidjeli stari most? |
+| Šta prave pčele? | Mlijeko, **med**, svilu | Med na tostu ili u čaju? |
+| Kako se zove mlado kravice? | Ždrijebe, **tele**, jare | Jeste li ikad živjeli blizu farme? |
+| Koji visoki žuti cvijet je poznat po tome što se okreće prema suncu? | Ruža, **suncokret**, tulipan | Šta je raslo u vašoj bašti? |
+| Koliko dana ima prestupna godina? | 365, **366**, 360 | Ispričajte mi o rođendanu koji pamtite |
+| Koje godišnje doba dolazi poslije zime? | Jesen, **proljeće**, ljeto | Koje je vaše omiljeno godišnje doba? |
 
-## Food and sports trivia
+## Hrana i sport
 
-| Question | Choices | Talk about |
+| Pitanje | Ponuđeni odgovori | Tema za razgovor |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Grožđice su osušeno... | Šljive, **grožđe**, trešnje | Jeste li nekad stavljali grožđice u đačku užinu? |
+| Suve šljive su osušene... | **Šljive**, smokve, jabuke | Ko je u vašoj porodici volio suve šljive? |
+| Ajvar se pravi uglavnom od... | Krompira, **paprike**, krastavaca | Jeste li nekad sami pravili ajvar? |
+| Koje jelo se pravi od tankih slojeva tijesta? | Krofne, **burek**, kifle | Ko je pravio najbolji burek? |
+| Koji desert je cijela jabuka punjena orasima? | **Tufahija**, krofne, pita | Koji desert ste najviše voleli? |
+| Koliko igrača ima fudbalski tim na terenu? | 9, **11**, 7 | Za koji tim ste navijali? |
+| Koliko poluvremena ima fudbalska utakmica? | Jedno, **dva**, tri | Jeste li nekad igrali fudbal na ulici? |
+| Koji sport se igra malom bijelom loptom preko stola s mrežom? | **Stolni tenis**, badminton, golf | Jeste li nekad igrali stolni tenis? |
+| Koliko krugova ima na olimpijskoj zastavi? | 4, **5**, 6 | Koje Olimpijske igre ste pratili na TV-u? |
+| Koji sport se igra loptom i košem? | **Košarka**, hokej, odbojka | Ko je u vašoj kući gledao košarku? |
 
-## Familiar sayings
+## Poznate izreke
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Dovršavanje izreke vuče na jezik naučen davno i često ide lako. Pogledajte i našu igru [Dovrši poslovicu](/games/finish-the-saying/).
 
-| Saying | Choices | Talk about |
+| Izreka | Ponuđeni odgovori | Tema za razgovor |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Rana ptica hvata... | **crva**, autobus, voz | Jeste li rani ustajač? |
+| Ne hvali dan prije... | **večeri**, zore, jutra | Jeste li nekad držali kokoši? |
+| Bez muke nema... | **nauke**, sreće, ljubavi | Ko je u vašoj porodici učio strpljivo? |
+| Dom je tamo gdje je... | **srce**, vrt, kuhinja | Šta neko mjesto čini domom? |
+| Bolje ... nego nikad | **kasno**, rano, sutra | Ko je u vašoj porodici uvijek kasnio? |
+| Nema zla bez... | **dobra**, sreće, sunca | Ispričajte mi o nekoj sretnoj slučajnosti. |
+| Djela govore glasnije od... | **riječi**, muzike, groma | Ko je to govorio u vašoj porodici? |
+| Ko drugome jamu kopa, sam u nju... | **upada**, izlazi, ostaje | Kako ste to shvatali kao dijete? |
 
-## This-or-that questions with no wrong answer
+## Pitanja „ovo ili ono“ bez pogrešnog odgovora
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Ova pitanja odgovaraju svim fazama, uključujući kasniju, jer nema šta pogrešno odgovoriti. Pitajte, slušajte, a podijelite i svoj odgovor.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafa ili čaj?
+- More ili planine?
+- Psi ili mačke?
+- Ljeto ili zima?
+- Pita ili kolač?
+- Ples ili gledanje?
+- Izlazak ili zalazak sunca?
+- Trijem ispred kuće ili dvorište?
+- Radio ili ploče?
+- Palačinke ili jaja?
+- Ruže ili tratinčice?
+- Putovanje vozom ili autom?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Za pitanja uz slike isprobajte našu štampanu igru [Kartice za razgovor](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Kako voditi sesiju kviza u domu ili grupi?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Posjednite ljude tako da vide i čuju.** Slušni aparati uključeni, naočare na nosu, TV isključen.
+2. **Predstavite kviz kao razgovor.** „Imam nekoliko pitanja o starim vremenima, a kladim se da znate više od mene.“
+3. **Pročitajte svako pitanje dvaput i pokažite izbore velikim slovima.**
+4. **Prihvatajte odgovore iz bilo kog dijela prostorije.** Ponovite dobre odgovore da ih svi čuju.
+5. **Recite tačan odgovor za sve,** pa postavite temu za razgovor cijeloj grupi.
+6. **Pratite raspoloženje.** Ako jedno pitanje pokrene deset minuta priča, neka tako bude.
+7. **Završite pjesmom ili rundom „ovo ili ono“,** da svi završe nečim lakim.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Za ostale grupne formate, uključujući bingo sa slikama i zajedničko pjevanje, pogledajte [grupne aktivnosti za domove za stare](/activities/care-home-groups/).
 
-## When to change the plan
+## Kada promijeniti plan
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Ako neko djeluje zabrinuto, utihne ili više puta kaže „Ne znam“, olakšajte: svedite na dva izbora, odgovarajte zajedno ili pređite na pitanja „ovo ili ono“. Ako grupa želi cijelo popodne razgovarati o jednom pitanju, to je uspjeh. Cilj nikad nisu bili tačni odgovori. Cilj je bilo vrijeme u dobrom društvu.

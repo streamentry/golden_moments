@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Kefluniañ ur tablezenn pe ur pellgomzer"
+seoTitle: "Kefluniañ ur tablezenn evit an den gant ar demañs"
+description: "Kefluniadur pazenn-ha-pazenn evit an den gant ar demañs: stlennet ouzh un arload, testenn brasoc'h, kemennadennoù nebeutoc'h, ur skramm sioul ha mouezh frealz."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Lakit ur tablezenn pe ur pellgomzer da vezañ simploc'h a-raok e roit anezhi.
+  Stlennit anezhi ouzh un arload gant Guided Access war iPad ha iPhone pe gant
+  app pinning war Android, pe implijit Assistive Access evit Apple evit ur
+  gerc'hadur simploc'h. Brasaat ar skritur, diweredekait kemennadennoù, miret
+  nebeut arloadoù war ur bajenn degemer hepken, reizhit ar vouezh, implijit ur
+  stevell ha bevennit aotreoù an arloadoù. Implijit an dra-mañ asambles, gant
+  oberennoù n'int ket war ur skramm.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ha app pinning (Android) a virez ar skramm war un arload nes ma digloazit anezhi."
+  - "Assistive Access a Apple a ginnig ur gerc'hadur simploc'h, savet evit tud gant diskuizhioù an anaoudegezh."
+  - "Brasaat ar skritur ha diweredekaat kemennadennoù ha pop-ups evit na vo netra a ziaoufe pe a gonfuz."
+  - "Miret nebeut arloadoù anavezet war ur bajenn degemer hepken, ha reizhit ar vouezh a-raok kregiñ."
+  - "Ur stevell ha ul lec'h stank evit ar gargañ a ra ma vo aesoc'h an dra-mañ da implijout ha da gavout."
+  - "Gwiriit aotreoù an arloadoù ha rannadur ar roadennoù: HIPAA (lezenn ar Stadoù-Unanet) ne warez ket dre-holl ar pezh a vez miret war ur stumm personel."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Penaos stankañ un den gant ar demañs da chom en un arload war un iPad?"
+    a: "Pignit Guided Access en Settings > Accessibility > Guided Access ha lakit ur baskodenn. Digorit an arload, friktit teir gwech ar bouton uhel (pe ar bouton Home war iPadoù kozh), ha pouezit Start. An iPad a chom en arload-se nes ma vo enrollet ar baskodenn gant unan bennak."
+  - q: "Penaos stankañ ur bluenn Android war un arload?"
+    a: "Pignit app pinning en arload Settings, dre vras dindan Security (pe Security & location) > Advanced > App pinning. Digorit an arload, digorit Overview, pouezit war ikon an arload en traoñ ha pouezit Pin. Ho PIN, patrom pe ger-tremen a vo ezhomm evit dilemel."
+  - q: "Ha diogel eo implijout Guided Access war pellgomzer an den?"
+    a: "Bezit prudant. Apple a lavar ne vez ket Crash Detection na Emergency Services e-pad Guided Access. Mar en em skuizh an den war e bellgomzer evit galvoù bras, implijit Guided Access hepken pa vezit ganeoc'h, pe soñjit en Assistive Access en he lec'h."
+  - q: "Pegement a skramm zo mat evit an den gant ar demañs?"
+    a: "Ket niverenn resis. Sesioù berr, asambles, kemmesket gant kerzhadennoù, sonerezh, labourioù an ti ha kaozeadenn a ro un deiz kreñvoc'h eget mare hir en unan gant ur skramm. Ma kaver ar stevell a laka an den da fallagrin pe a ziskar an oberennoù all, implijit anezhi nebeutoc'h."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Ur tablezenn a c'hall bezañ un doare kaer da rannañ skeudennoù, sonerezh ha lodennoù simpl. Ur wech all e c'hall bezañ dic'hortoz: ur fri disuspet a zigor un arload all, ur gemennadenn a bop war-wel, ar testenn a zo re fin, pe ar skramm a zeu du e-kreiz ur c'hoari. Un tamm kefluniadur ganeoc'h a ziverk the darn vrasañ anezho.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+An treuzkas-se a implij ar sanaj integret e iPhone, iPad ha Android. Anvioù ar bannoù a c'hall cheñch etre stumm ar meziant hag ar c'hompagnunezhioù. Ma welit un dra disheñvel, heuilhit ar bajenn Apple pe Google a zo liammet evit ho meziant. Gwnit ar gefluniadur ho-unan a-raok ma vo asambles.
 
-## Should someone with dementia use a tablet or phone?
+## Ha dleet an den gant ar demañs implijout ur tablezenn pe ur pellgomzer?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Dibenn an den. Kalz a dud a blij o implijout ur tablezenn gant unan tost dezhe, hag en em soñj ne vefe ket evit ober anezhi hepken. Kregit gant implijout asambles anezhi, gant un arload digoret, e-pad un nebeud munutennoù. Ma verr dezhe, kenderc'hit. Ma kaver dezhe kemerañ kaoz pe diaesterioù, ur sell war skeudennoù, pajennoù moullet pe sonerezh a c'hallfe bezañ gwelloc'h evito. Hor [oberennoù da voulc'hañ](/activities/printable/) a zo unan eus ar c'hengred-se.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Ar tablezenn a zo fetis muioc'h eget ur pellgomzer: ar skramm hag ar skeudennoù a zo brasoc'h, ha n'eo ket ivez linenn yec'hed an den.
 
-## How do I lock a tablet or phone to one app?
+## Penaos stankañ ur tablezenn pe ur pellgomzer war un arload?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Implijit Guided Access war iPhone ha iPad, pe app pinning war Android. An daou a virez ar skramm war un arload hepken betek ma enrollit ur c'hod, ken ne c'hall ur friktur dic'hortoz pe ur fiñvadenn digeriñ un dra all.
 
-### iPad and iPhone: Guided Access
+### iPad ha iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Adalek [ar c'helenn Apple evit Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Digorit **Settings**, pouezit **Accessibility**, ha goude pouezit **Guided Access** ha pignit anezhi.
+2. Dindan **Passcode Settings**, lakit ur baskodenn Guided Access. Gallout a rit ivez aotreañ Face ID pe Touch ID.
+3. Dre c'hoant: dindan **Display Auto-Lock**, dibabit an amzer a vo ar skramm stard, ken ne vo ket du e-kreiz ur c'hoari.
+4. Digorit an arload a fell deoc'h implijout.
+5. Friktit teir gwech ar bouton kostez (iPhone), ar bouton uhel (iPad), pe ar bouton Home war ar meziantoù kozh.
+6. Dre c'hoant: kelc'hit an darnoù eus ar skramm na fell ket deoc'h e vefent degemeret gant an taol-dorn. Pouezit **Options** (pe **Session Settings**) evit diweredekaat ar bouton mouezh pe evit stankañ tro ar skramm.
+7. Pouezit **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Evit echui ar sesion, friktit an hevelep bouton adarre, enrollit ar baskodenn ha pouezit **End**. Apple a lavar ne vez ket ar memes tra war meziantoù kozh, a-wechoù e vez graet gant ur friktur daou wech.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Pouezus:** Apple a lavar ne vez ket Crash Detection na Emergency Services e-pad ur sesion Guided Access. Na lezit ket Guided Access o redek war ur pellgomzer a c'hall an den bezañ ezhomm anezhi evit galvoù bras.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Adalek [skoazell Android Google war stlennadur skramm](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Digorit an arload **Settings**.
+2. Pouezit **Security** (pe **Security & location**), goude **Advanced**, ha goude **App pinning**. Ma n'az kavit ket, gwiriit pajennoù skoazell ho stumm-meziant.
+3. Pignit **App pinning**. Ho PIN, patrom pe ger-tremen a vo ezhomm evit dilemel.
+4. Digorit an arload a fell deoc'h. Lakit ho biz war-gil betek kreiz ar skramm ha daliit evit digor Overview (pe pouezit Overview gant ar bazenn 3 botoù).
+5. En traoñ d'an diaraog an arload, pouezit war ikon an arload, ha goude pouezit **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Evit dilemel gant ar c'hemmañ dre dizhadennoù, lakit ho biz war-gil ha daliit. Gant an hent 3 botoù, daliit Back ha Overview. Gant an hent 2 botoù, daliit Back ha Home. Neuze enrollit ho PIN, patrom pe ger-tremen.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ur mod simploc'h evit an iPhone pe an iPad a-bezh?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ya. Assistive Access a Apple a dremen ar bajenn degemer boas gant ur bajenn simploc'h. [Apple a ziskrifa](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) anezhi evel ur stumm evit ober an iPhone aesoc'h da implijout dre-gont gant tud gant diskuizhioù an anaoudegezh, gant elfennoù brasoc'h war ar skramm ha muioc'h a zresoù pennañ. Apple a ginnig [an hevelep dresoù war iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Piv a bar en-dro.** Apple a lavar e vefe ur c'hefridi kredus, evel ur familh pe ur soñjer a anavez an den, a sikour da zibab an arloadoù hag an dresoù.
+- **Penaos kregiñ.** Ewit da **Settings > Accessibility > Assistive Access**, pouezit **Set Up Assistive Access**, ha goude **Continue**.
+- **Arloadoù.** Dibabit an arloadoù a zeuio war wel. Un nebeud arloadoù Apple zo ganto stummoù simploc'h, ha an arloadoù all a c'hall bezañ ouzhpennet en o stumm arverus.
+- **Gerc'hadur.** Dibabit **Rows** (ur roll lenn aes) pe **Grid** (elfennoù brasoc'h a ziskouez skeudennoù ha binvioù).
+- **Baskodenn.** Lakit ur baskodenn Assistive Access dishañval evit moned, dont er-maez pe cheñch an arventennoù. Apple a lavar e kendalc'h ur Kont Apple a-bouez e-pad ar stumm, rak hep anezhañ, ur baskodenn ankouaet a dalv adderaouekaat ar meziant.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access a c'hall mont mat gant an den a implij e vezant bemdez. Guided Access pe app pinning a zo buanoc'h evit ur sesion c'hoari asambles.
 
-## How do I make text and pictures bigger?
+## Penaos brasaat an testenn hag ar skeudennoù?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Kreskit ment an testenn hag ar skramm, ha gwiriit goude ma c'hall ar botoù mont en skramm.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ha iPad.** Evel e [c'helenn Apple war ment an testenn](https://support.apple.com/en-us/102453), ec'h ez **Settings > Display & Brightness > Text Size** ha liesañ ar barrad. Evit testenn brasoc'h c'hoazh, ec'h ez **Settings > Accessibility > Display & Text Size > Larger Text**. Apple a lavar e c'hall testenn bras re lakaat botoù diaesoc'h da bouezañ, neuze kempenn ma'z eo ret.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Evel e [skoazell Google war an testenn hag ar stumm-skramm](https://support.google.com/accessibility/android/answer/11183305?hl=en), digorit **Settings** ha klaskit **Font size**, ha lakit ar barrad da glañv. Klaskit **Display size** evit brasaat an holl draoù war ar skramm. Gallout a rit ivez pignañ **Bold text** dindan **Accessibility > Display size and text**. Ur wech all ne heuilh ket un arload an arventennoù-se.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+En c'hoarioù evel [Picture Pairs](/games/picture-pairs/) ha [Find the Same](/games/find-the-same/), gallout a rit ivez dibab tuchennoù pe dibaboù nebeutoc'h, a ziskar ar skramm simploc'h.
 
-## How do I stop notifications and pop-ups?
+## Penaos paouez ar c'hemennadennoù hag ar pop-ups?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Diweredekait kemennadennoù an arloadoù n'ho-pezit ket ezhomm anezho, hag implijit Do Not Disturb e-pad an oberennoù.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ha iPad.** Ewit da **Settings > Notifications**, pouezit war un arload dindan **Notification Style**, ha diweredekait **Allow Notifications** ([kelenn Apple war kemennadennoù](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Evit lakaat kemennadennoù, galvoù ha kemennoù da chom mud un tamm, digorit Dalc'h Kontrol ha pignit **Do Not Disturb** adalek ar bouton **Focus** ([skoazell Apple war Do Not Disturb](https://support.apple.com/en-us/105112)). Gallout a rit kempenn an amzer dindan **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Sachit war-raok ar skramm adalek kreiz hag pouezit **Do Not Disturb**, pe ewit da **Settings > Modes > Do Not Disturb** ([skoazell Google war Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Dindan **Notification filters** gallout a rit dibab an dud hag an arloadoù a c'hall c'hoazh degas kemennadennoù. An arventennoù a zisheñv a-zoare ar stumm-meziant.
 
-## How do I make a simple home screen?
+## Penaos ober ur bajenn degemer simpl?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Miret nebeut arloadoù anavezet war ur wel, ha diverkit an re all dre ar wel. N'eus ket un arventenn singl evit se; ur c'hlanaj eo, ha dilemel traoù a-vihanik.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Dibabit tri pe c'hwec'h arload.** Da skouer, skeudennoù, sonerezh, un arload galvoù video ha ur c'hoari.
+- **Lakit anezho war ar bajenn kentañ,** en un tachenn bep gwech, ha diskarzhit an holl re all war an eil bajenn pe en ur foldenn.
+- **Implijit ur fond sklaer ha plaen,** evel ul liv unan pe ur skeudenn anavezet, evit ma sevo an ikoniennoù.
+- **Dilemel an arloadoù na c'hallit ket hep.** Un nebeud arloadoù a zo, ur gudennoù nebeutoc'h a c'hallfe gonfuziñ ha roadennoù nebeutoc'h a vo dastumet.
+- **Soñjit en Assistive Access** war an dresoù Apple, ma fell deoc'h ma rankfe ar stumm ober an dra-mañ evidoc'h.
 
-## What about volume and sound?
+## Penaos ar mouezh hag ar son?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Reizhit ar vouezh evel ma karit a-raok ma roit ar stumm. Gant Guided Access, gallout a rit diweredekaat ar bouton mouezh, rak ne vo ket cheñchet e-pad an oberenn. Gwiriit ec'h int en-dro ha n'int ket fall ar sikourourioù kleved.
 
-## Where should the tablet live?
+## Pelec'h e tlefe chom ar tablezenn?
 
-Give it a stand and a permanent charging spot.
+Roit dezhi ur stevell ha ul lec'h sklaer evit ar gargañ.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Ur stevell pe ur gasell** a zalc'h ar tablezenn start war an taol, ken na rank den ebet he zalc'hañ, ha ne vo ket diaes lakaat anezhi war-lec'h.
+- **Un tachenn a chom en he lec'h,** dreist-holl ur stevell gargañ war ur foñs en ur c'hambr a implijit bemdez. Ar stumm a vo bev-bep-tro hag e-giz an hini a vez enni.
+- **Diminuañ an digresk.** Lakit ar skramm a-gostez ur prenestr disheol.
 
-## How much screen time is okay?
+## Pegement a skramm zo mat?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+N'eus ket un niver mennoz eus ar munutennoù. Klaskit sesioù berr, asambles, evel un darn eus un deiz a leun a gemer perzh ivez ar gerzhadennoù, ar sonerezh, al labourioù an ti, ar gaozeadenn hag an amzer en-dro. Rak an nosvezhioù prizhus a c'hall kreskiñ ar fallagrin dir-zroadus, lakit an oberennoù skramm e-kreiz an deiz, a-vremañ. Gwelit [oberennoù lenn diwezh an deiz](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Implijout ar tablezenn asambles, ha n'eo ket evel ur sitter, a zo muioc'h a gevredigezh. Hor gidenn war [c'hoari asambles](/caregiving/how-to-play-together/) a ziskouez penaos.
 
-## How do I protect their privacy on the device?
+## Penaos mirout privezded an den war ar stumm?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Lakit ar bodadoù da dastum nebeutoc'h a ditouroù, ha na soñjit ket e kuzh al lezenn yec'hed a gempenn. Departamant Yec'hed hag Servijoù Den ar Stadoù-Unanet (HHS) a [ziskouez](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ne warez ket dre-holl reolennoù HIPAA (lezenn ar Stadoù-Unanet) ar roadennoù yec'hed miret pe implijet gant pellgomzerioù hag tabletennoù personel. Ervat, ne warez ket HIPAA ar roadennoù enlakaet en arloadoù evit implij personel, nemet ma tlefe an arload deuout eus ur skoazeller yec'hed kevrinet, eus ur c'hontrad yec'hed pe eus unan eus o c'hevredidi busnes.
 
-HHS suggests:
+Ar HHS a gefridi:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- kaout kuit d'an arloadoù diaezus pe dizanv, dreist-holl ar re "dieub";
+- na vefe ket roet aotre d'an arloadoù da wiriañ al lec'h m'emaoc'h, nemet ma'z eo ret, evel evit ar c'harto.
 
-Also consider:
+Soñjit ivez e:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Implijit ur baskodenn** war ar stumm, hag enrollit anezhi en ul lec'h diogel.
+- **Gwiriit an aotreoù** evit ar skeudennoù, ar c'hamera, ar voutin, ar c'houdadennoù ha al lec'hiadur, hag diweredekait an re n'o deus ezhomm anezho ebet.
+- **Gwiriit petra zastum an arload** a-raok e staliañ. Ho [gidenn war dibab arloadoù ha c'hoarioù evit tud gant an demañs](/caregiving/choosing-apps-and-games/) en deus ur roll gwiriañ evit ar prevezded.
+- **Bezit prudant gant skeudennoù ar familh.** Rannit hepken skeudennoù a vefe aes d'an den bezañ, ha gouzout pelec'h e miret ar skeudennoù gant an arload. E [Photo Pairs](/games/photo-pairs/), ar skeudennoù a zibabit a chom en ho merdeer.
+- **Diweredekait an prenadennoù en arload** pe dilemel ar re a zo enrollet ouzh kont an den a implij.
