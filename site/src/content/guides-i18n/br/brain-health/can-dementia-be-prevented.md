@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Ha ar dementia a c'haller stankañ? Petra lavar an enklaskoù"
+seoTitle: "Ha ar dementia a c'haller stankañ? Petra lavar an enklaskoù"
+description: "Petra a gavas an Lancet Commission 2024 hag ar c'hlaskoù bras diwar-benn gwaskañ ar riskoù dementia, petra n'int ket bet kavet ganto, ha pazioù da gaozeal anezho gant ur medisin."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Den ebet ne c'hall addonañ e vo stanket ar dementia. Ar Lancet Commission 2024
+  a amzeas emañ tost an hanter eus ar c'hazhoù dementia dre an bed a vez kevreet
+  gant 14 riskoù a c'haller cheñch, evel an tansion uhel, kollet ar vouezh hag ar
+  Iaouankiz ... (ar reoliezh). Ar c'hlaskoù a ziskouez disoc'hoù bihan war an
+  testoù soñj, n'int ket ur bruderezh e vez gwelloc'h ar c'hazhoù dementia.
+  Lod bras a ra an holl traoù "mat" ha dementia a zo warnezho c'hoazh, ha
+  n'eo fazi nemet da zen ebet.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Ar Lancet Commission 2024 a gevreas 45% pe tro-“ar c'hazhoù dementia dre an bed gant 14 riskoù a c'haller cheñch. Un amzeadenn a boblañs eo, n'eo ket ur garantez a-zioc'h un den dibar."
+  - "Lakaat ar riskoù da vihanaat a dalv d'ober d'an tud ar c'hementad, n'eo ket d'ober da unan ebet bezañ dieub eus ar dementia."
+  - "Ar c'hlaskoù bras evel FINGER, US POINTER ha SPRINT MIND a gavas disoc'hoù bihan war an testoù soñj pe war an dizoursi bihan dre an amzer, met den ebet n'en deus diskouezet e stank ar programm buhez ar dementia."
+  - "An oad eo an dra vrasañ a zo anavezet evel risk evit an Alzheimer, ha n'hall ket bezañ cheñchet. Lod bras gant buhezioù yac'h a zo c'hoazh gant ar dementia."
+  - "An dra a vez studiet ar muiañ, evel ober gant an tansion uhel, ober gant ar skouarn-skeud ha chom bev, a dalv d'ober anezhe gant ho medisin rak a skoazell ivez ho yec'hed en traoù all."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Ha ar dementia a c'haller stankañ?"
+    a: "N'eus stumm diskouezet ebet da stankañ ar dementia evit unan bennak. An enklaskoù a zisko e c'hall lakaat an tansion uhel, ar c'hollet kleved n'eo ket bet soñjet ouzh-han pe ar mogerioù da vihanaat ar c'hazh dementia dre an holl pe da zerc'hel anezhañ diwezhatoc'h. Ar c'hanse eo, n'eo ket ur gwarantez."
+  - q: "Petra a dalv an 45% eus Lancet Commission?"
+    a: "Ar Lancet Commission 2024 a amzeas emañ tost an 45% eus ar c'hazhoù dementia dre an bed kevreet gant 14 riskoù a c'hallfe, en takad, bezañ cheñchet. An amzeadenn a dermen e kaus ar riskoù ar c'hazhoù, hag ar skrivagnerien a nodas e c'hall bezañ kevreadennoù a-hanter nemetken. Anezhañ a ziskouez ar bobloù hag n'hall ket lavarout dit petra eo riskoù un den dreist."
+  - q: "M'en doa ma zad pe ma mamm buhez yac'h, perak en deus kavet ar dementia?"
+    a: "An oad, ar c'henlinad hag kalz a dra n'hall den ebet reoli a zo kalz e-kreiz ar dementia. Skrivagnerien ar Lancet Commission a notas ne c'hall ket lakaat ar riskoù da vihanaat evit ar bobloù garantiñ ne vo ket dieub unan bennak eus ar dementia. Un diagnoz n'eo ket arwez e oa bet ur c'hazh gant unan bennak."
+  - q: "Ha diwezh e tro 65 vloaz, ez eo re ziwezhat da lakaat ar riskoù da vihanaat?"
+    a: "Ar Lancet Commission a lavar n'eo biskoazh re abred pe re ziwezhat da lakaat ar riskoù da vihanaat, neuze ma'z eo ar muiañ eus an testeni e-kreiz ar vuhez. Trezhañ kluzioù ha gwelet kollet, chom bev hag en em gavout gant an dud a zo ar pezhioù a veze studiet evel labourioù diwezhañ ar vuhez. Komzit gant ur medisin diwar-benn an dra a glot ouzh ho yec'hed."
+  - q: "Ha ar c'hoarioù soñj pe an dibaboù dibar a stank ar dementia?"
+    a: "Den ebet kent ne z-eo bet kadarnaet ne stank ar dementia dre ur c'hoari, ur boued, un ouzhpenn pe ur mogerezh. Ur c'hlask tri bloaz gant ar mogerezh MIND n'en deus kavet disheñvelder ebet a bouez e soñj e-keñver ur mogerezh kontrollañ, ha n'eo ket bet diskouezet e vefe ar meur a effetoù a zo bet gwelet en testeni enklaskoù ar c'hoarioù soñj ha ziskouezet e vezont war an arloadoù."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ma'z oc'h o kempenn un den gant ar dementia, pe ma'hoc'h eus gwelet ho tad pe ho mamm o vevañ ganti, emaoc'h c'hoazh oc'h soñjal ma c'haller bezañ lakaet da chom e-maez, ha ma c'haller lakaat anezhañ da zont ouzhpenn ac'hanoc'h. Ar bajenn-mañ a ra an dra a lavar an enklaskoù en-dro, e yezh plaen. Berr eo ar respont: den ebet ne c'hall addonañ e vo stanket ar dementia, met an enklaskoù a ziskouez e c'haller lakaat da vihanaat kement-all riskoù, ha ma vihanaer anezho en un tachenn bras, e c'hall bezañ nebeutoc'h a dud o vont gant ar dementia pe e c'hallo kregiñ diwezhatoc'h.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Keleier ho-ped oc'h, ha n'eo ket ur gonsaoz medisinel. Sellit ouzh hor [kemenn fazi medisinel](/medical-disclaimer/) ha komzit gant ur medisin diwar-benn ho yec'hed.
 
-## Can dementia be prevented?
+## Ha ar dementia a c'haller stankañ?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+N'eus stumm diskouezet ebet da stankañ ar dementia evit unan bennak. Ar Institut Nasional evit an Oad (NIA) a lavar penaos, n'eo bet diskouezet ebet c'hoazh [e c'haller stankañ an Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), ha ke e vez kavet strategioù addaleet, hag e vez skiant war-dro pe ne vefe ket mat.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ar pezh a ziskouez an enklaskoù eo e vez kevreet stadoù yec'hed hag arferioù gant ur c'hazh uhelroc'h a dementia. Pa vez izelaet ar riskoù-se dre an holl bobl, e c'hall bezañ nebeutoc'h a dud o vont gant ar dementia, pe e c'hallint kregiñ diwezhatoc'h. Dispar eo se diouzh ur garantez.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Un arwez a zo a levezon : e 2024, ar Lancet Commission a zisklêrias ez eo bet izelaet ar c'hreskadur eus an dud kozh gant ar dementia e kreizhbro uhel, evel an Stadoù-Unanet ha Breizh-Veur. Ar skrivagnerien a soñj e vez ar pezh-se abalamour da ur skol gwelloc'h, ur yec'hed gwelloc'h ha gwelloc'h hentoù-goad en-dro d'an denn buhez, herezh [diverrañ Collège Londrez](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Petra gavas ar Lancet Commission 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Ar Lancet Commission diwar-benn stankañ, kempenn ha kempenn ar dementia zo ur strollad 27 ker-skiant war ar dementia, a studi an testeni bep un nebeud bloavezhioù. Hiroc'h, o zroidigezh 2024 a enrollas **14 risk** a c'haller cheñch, ha ne amzeas emañ ez eus anezho asambles **tost an hanter (45% tro-dro) eus ar c'hazhoù dementia dre an bed**. Dre ger ar skrivagnerien, ar c'hazhoù-se a c'hallfe, *en takad*, bezañ stanket pe dalc'het pell ma vefe lamet ar riskoù ([Danevell Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+An 14 risk, strollet dre amzer ar vuhez m'eo kreñvañ an testeni :
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Dibenn ar vuhez :** dreist-holl skol bihan.
+- **E-kreiz ar vuhez (tro-dro 40 da 65 vloaz) :** kollet ar vouezh, kolesterol LDL ("fall"), glac'har, bezañ bet kastizet e benn, diouer a labour korf, diabetez, tabut, tansion uhel, lous, ha evañ a-spilh.
+- **Diwezh ar vuhez :** dilojerezh sokial, ajonk an aer, ha kollet ar gwelet n'eo ket bet tretet.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+An daou ziwezhañ a zo bet ouzhpennet e 2024 : kolesterol LDL uhel ha kollet ar gwelet n'eo ket bet tretet. Ar riskoù a dalv an darn vrasañ eus ar c'hazhoù anezho a oa kollet ar vouezh hag ar kolesterol LDL uhel (tro-dro 7% pep unan), war-lerc'h skol bihan hag dilojerezh sokial (tro-dro 5% pep unan).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Hor [bajenn ar riskoù](/brain-health/risk-factors/) a ginnig an 14 a-bezh en un taolenn, gant ar pezh a ziskouez an enklaskoù hag ar pezh a c'hallit ober.
 
-### What the 45% figure does not mean
+### Petra n'amzeas ket an 45%
 
-It is easy to misread this number, so it helps to be precise:
+Aes eo kompren fall an niver-se, neuze ret eo bezañ resis :
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Un amzeadenn boblañs eo.** Disklêriañ a ra kazhoù dementia dre an bed, n'eo ket ho c'hanse nag hini ho tad pe ho mamm.
+- **Kemer a ra e-keñver kaus ha disoc'h.** Ar skrivagnerien a lavar ne gemmerent nemet ar riskoù gant un testeni kadarn, met ez eus lod a gevredigezhioù nemet evit un darn. Da skouer, glac'har e-pad an oad a c'hall bezañ, weithiau, ur merkañ kentañ eus ar dementia, ha n'eo ket ur c'hauz.
+- **Ne garantez netra d'un den dibar.** Diskouez a ra an danevell UCL e labour ar riskoù a dalv d'ar bobl, ha n'eo ket ur garantez e c'hall unan bennak chom dieub eus ar dementia.
+- **Ar hanter all n'eo ket displeget gant ar riskoù-se.** An oad, ar c'henlinad, hag ar c'hazhoù n'eo ket anavezet c'hoazh gant ar skiantourien a ya war-zu an hanter all.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Petra eo an disheñvelder etre "lakaat ar riskoù da vihanaat" hag "stankañ"?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Lakaat ar riskoù da vihanaat** a dalv izelaat an dizoursi. Ma vihanaont o gwask an tansion en ur strollad bras, e c'hallfe bezañ nebeutoc'h anezho gant ar dementia dros kalz bloavezhioù eget hep se. Ur pezh anezhe a chomo gant ar c'hlenved c'hoazh.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Stankañ** a dalv lakaat un dra da vezañ diwar-benn. Evit ar dementia, n'eo ket un dra a c'hall an enklaskoù addaleañ d'an neb a vefe.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ar skiantourien a gomz ivez diwar-benn **dale**. Ar Lancet Commission a zigas testeni nevez e c'hall lakaat da chom pell ar pad ma kregiñ ar dementia ha berraat ar pad a dremen un den o vevañ gant yec'hed fall. Kement-se a c'hall bezañ pouezus meur a hini d'an den hag d'e familh, ha n'eo nemet un nebeud bloavezhioù.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+War al lec'hienn-mañ, implijout a reomp "lakaat ar riskoù da vihanaat" ha "kevreet gant" dre vriz. Pa welit ur produ, ur c'hemmarc'h pe ur programm a addaouiñ "stankañ an Alzheimer", bezit paour warnezhañ. Ar NIA a lavar ez ho pez gwelet ur medisin a-raok klask ur pilul pe un tretadenn a addaou stankañ an Alzheimer, rak an traoù-se a c'hall bezañ dinerzh, kollet arc'hant, pe an daou.
 
-## What have large trials found?
+## Petra a ziskouez ar c'hlaskoù bras?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Studioù arsellet (a welet ar pezh a c'hoarvez d'an dud dre an amzer) a c'hall diskouez kevreadennoù. Ar c'hlaskoù dre zegemer, e-lec'h ma vez lakaet an dud en ur programm pe en ur strollad kemm dre zegouezh, a zo ar prouenn gwashoc'h. Setu petra a ziskouezas un nebeud eus ar c'hlaskoù brudetañ.
 
-### FINGER (Finland)
+### FINGER (Finlande)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Enrollet e voe 1 260 den eus 60 da 77 vloaz e-pad ar c'hlask FINGER, a oa a-ratoz en un dizoursi uheloc'h a dementia. An hanter a dapas ur programm daou vloaz a gonsaoz boued, a gorf, a c'hoariou soñj war ar urzhiataer hag ur gwiriadur war yec'hed ar c'halon hag ar gwazhioù ; an hanter all a dapas kuzuliadennoù yec'hed a-bezh. Ar strollad programm a oa un nebeud gwelloc'h war un hollad testoù soñj, un disheñvelder bihan met a-enor war-dro an niver ([Klask FINGER er Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Ar c'hlask a zalc'has testoù, n'eo ket diagnozoù dementia.
 
-### US POINTER (United States)
+### US POINTER (Stadoù-Unanet)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+Enrollet e voe 2 111 den eus 60 da 79 vloaz e-pad US POINTER, o vezañ diobererien, gant ur boued dizadorus ha riskoù all. An daou strollad a voe pedet da vezañ dreist pa ran korf ha soñj, da zebriñ gwelloc'h, da chom en emglev ha da wiriekaat yec'hed ar c'halon. Unan a gavas ur programm stag ha gouarnet, an hini all a gemeras e lakad e-unan. Dros daou vloaz, gwelloc'h e voe testenioù soñj **e-pad an daou strollad**, ha nebeutoc'h a-vad en strollad stag ([Klask US POINTER en JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Ar skrivagnerien a lavar e rankont kaout muioc'h a heuliadur evit gouzout hag ar disheñvelder a dalv d'ar vuhez pemdeziek. Dre ma n'oa strollad "chom hep kemm" ebet, ne c'hall ar c'hlask lavarout peseurt skoazell a roas an daou programm dre-hont d'un dra hep kemm.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (ar gwask)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND a studias 9 361 den ruz eus Stadoù-Unanet 50 vloaz pe muioc'h gant tansion uhel. Lakaet e voent ouzh ur palier tansion izeloc'h (taol uhel dindan 120) pe ouzh ar palier boutin (dindan 140). Ar palier izeloc'h a lakaas ar **c'hollet kleved bihan** da vihanaat er-maez, ur c'hamm eus kollet kof ha soñj a c'hall dont a-raok ar dementia. Evit ar **dementia tebet**, ez eo bet nebeutoc'h a gazhoù en hanter gant ar palier izeloc'h, met ne oa ket ur disheñvelder a-enor dre ar stadistikoù. Echu e voe ar c'hlask buan hag e oa nebeutoc'h a gazhoù dementia eget ar c'hortoz, neuze marteze ne oa ket bras-tre evit respont d'ar goulenn-se ([SPRINT MIND en JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Petra a ziskouez an adkemerioù
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Un adwelet Cochrane 2021 a gavas naontek klask bras eus programmoù a ginnig keñver meur a risk ouzh-unan, gant meur a 18 000 den. Kavet e voe ur skoazell bihan war an testoù soñj, met **n'eo bet kavet disheñvelder dre-holl en niver a dud a gazhas dementia** en daou gemmadenn o doa mezuret anezhañ ([Adwelet Cochrane war ar strategioù liesrisk](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Un adwelet 2017 gant an Akademiezhioù Stadoù-Unanet diwar-benn Skiantoù, Injenerezh ha Medisin, dastumet gant an NIA, a gavas testeni "lusk met diaesaet" evit tri doare : kempenn an tansion uhel, kreskiñ an obererezh korf, ha labourioù soñj.
 
-## Does it matter when you start?
+## Ha pegoulz e tlefe kregiñ ganti?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Kuzuliadenn ar Lancet Commission a zo lakaat ar riskoù da vihanaat kerkent ha ma c'haller hag dal ar pezh a c'hall da virout ; "an abretañ, ar gwelloc'h" hag "ar pelloc'h, ar gwelloc'h". Lavar a ra ivez n'eo biskoazh re abred pe re ziwezhat da lakaat ar riskoù da vihanaat. Ar muiañ eus an testeni a zo e-kreiz ar vuhez, tro-dro 40 da 65 vloaz, met ez eus riskoù all, evel kollet ar gwelet hag en em dennañ diouzh an dud, a c'hall bezañ labour a dalvez c'hoazh diwezhatoc'h.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Lavar a ra an danevell e zo bremañ testeni kadarnoc'h e vez un efedt brasoc'h gant ur risk pa vez kendalc'h dihunv. Da skouer, diabetez a grog e-kreiz ar vuhez a sell ouzh e vezañ pouezusoc'h eget diabetez a grog diwezhatoc'h.
 
-## Is dementia risk the same for everyone?
+## Ar memes risk a zo evit an holl?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ket. Ar Lancet Commission a gavas e kargont ar bobloù e broioù a varc'had izel-kreizenn, an dud eus strolladoù bihan, ha re a arc'hant izel ar muiañ eus ar riskoù-se, ha setu ar dementia a grog e-pad un oad yaouankoc'h. Kalz eus ar riskoù a zo kevreet gant amstaloù n'o deus ket dibabet an dud, evel nerzh ar skol a oa bet dezho e yaouankiz, an aer el lec'h m'emaint o chom, ha petra ha ma c'haller kaout boued yac'h e-tro ha stank.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Setu perak e vez kuzuliadennoù ar Lancet Commission lakaet d'ar gouarnamant ken hag d'an dud : skol vat evit an holl vugale, an aer glanoc'h, mirlevioù da lakaat ar fumerezh da vihanaat, nebeutoc'h a c'hrenn hag a zour en boued gwerzhet e kreizennoù ha tavarnioù, ha skouer-skouarn evit an holl a en deus ezhomm. Ar stourm personel a bouez, met ivez ar bed m'emaint o chom. Ne vez ket ur fazi enne ma vez roet ur diagnoz da unan bennak.
 
-## What are the honest limits of this research?
+## Petra eo bevennoù gwir ar c'hlaskoù-mañ?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Kemer a ra kalz bloavezhioù ar dementia da c'hoarvezout**, met ar pezh a bad ar c'hlaskoù eo daou da bemp bloaz. Evit mezuriñ ar dementia hec'h-unan, ha n'eo ket nemet an testoù soñj, ez eus ezhomm a studioù pell-tre hag a-vras-tre.
+- **Ar pezh a veskañ ar c'hlaskoù eo an testoù soñj.** Ur gwelloc'h bihan war un test n'hall ket lavarout e vo nebeutoc'h a dud o vont gant ar dementia pe e vo aesoc'h ar vuhez pemdeziek.
+- **Ar gwirvoded a zo aliesoc'h yac'hoc'h ha desket** eget an dud a-bep-devez. Ar Lancet Commission a notas e tegouezh ar muiañ eus an testeni eus broioù a varc'had uhel, ha n'eo ket bet dilojet ar strolladoù bihan a-vat.
+- **Ur re a gevredigezhioù a red an daou-du.** Bezañ nebeutoc'h a labour pe a gevredigezh a c'hall bezañ ur soñj kentañ eus ar dementia, n'eo ket hepken ur c'haus.
+- **Ar c'hlaskoù boued n'int ket bet mat betek-henn.** Ur c'hlask tri bloaz gant ar mogerezh MIND n'en deus kavet disheñvelder ebet a bouez e soñj e-keñver ur mogerezh kontrollañ. Gwelit hor [bajenn boued](/brain-health/diet/).
+- **N'eo ket bet diskouezet e stank ar c'hoarioù soñj ar dementia.** Gwelit hor [bajenn ar c'hoarioù soñj ha ar dementia](/brain-health/brain-games/).
+- **Diwar an dizebriñ n'eus nemet un nebeud testeni evit an dud.** Ha gallout a ra bezañ dic'hallus evit an oadourien. Gwelit hor [bajenn an dizebriñ](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ma oa unan bennak o veza gwellañ pep tra, perak en deus kavet ar dementia c'hoazh?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Abalamour ne vez ket ar dementia nemet ur frouezh a zibaboù. Lavar a ra an NIA e [an oad a zo ar risk vrasañ anavezet evit an Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), ha den ebet ne c'hall cheñch anezhi. Ar c'henlinad a zo e-barzh ivez. Ha ne gompren ar skiantourien ket c'hoazh petra a laka an Alzheimer da c'hoarvezout e kalz tud. Ha ma vefe lamet an 14 risk en holl, a-hend-all e lavar kuzuliadenn ar Lancet Commission hec'h-unan e chom muioc'h eget an hanter eus ar c'hazhoù hep bezañ displeget.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Neuze, ma c'hempenneoc'h un den a c'hoarie, a zebre mat, n'eo ket ebet tabut ganeañ ha kavet en deus ar dementia c'hoazh, ne oa ket bet fazi enn-han nag enoc'h. Ma'z eo unan bennak en ur vevañ gant ar dementia hec'h-unan, n'eo ket bet ho fazi. Ar c'hiz eo ar c'henaouriezh e kalz familhoù, met n'eo ket meret. Ar pezh a bouez bremañ eo kefiz, kemmenn hag amzerioù mat, hag hor [c'hanvezh a oberioù](/activities/ideas/) hag hor [skouer-skoazell evit an hini a gempenn](/caregiving/caregiver-self-care/) a zo ur plas mat evit kregiñ.
 
-## What steps can you talk over with a doctor?
+## Petra a c'hall bezañ komzet gant ur medisin?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Setu ar pezhioù a vez studiet ar muiañ. Mont a reont da vezañ kaozeet e-pad an emwelout ar medisin, rak ar muiañ anezho a skoaz ivez yec'hed ar c'halon, ar c'hoant-buhez ha an emreizh, pegement a vo o levezon war ar dementia en-dro.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tansion gwad.** Goulennit petra eo ho niverioù ha petra eo ar pal a glot ouzh ho stad. An Lancet Commission a sikour da lakaat ar taol uhel da 130 pe nebeutoc'h adalek tro-dro 40 vloaz, met an dra a glot ouzh un oadour a zo fiñvet diwar e yec'hed hollek.
+2. **Klevet.** Goulennit ur wiriadur klevet, ha ma vefe mat dezhoc'h ur skouarn-skeud. Hor [bajenn ar c'hlevet](/brain-health/hearing/) a zispleg an enklaskoù.
+3. **Gwelet.** Gwiriit ho kwelioù alies ha goulennit ma c'haller tretiñ kraf evel ar c'hlacherezh.
+4. **Kolesterol.** Goulennit ma tlefe gwiriañ ho kolesterol LDL ha ma tlefe cheñch un dra.
+5. **Sukr ar gwad.** Ma'hoc'h eus diabetez, goulennit penaos e c'hallit e stourm en un doare diogel.
+6. **Soñj.** Ar glac'har zo bevet hag a c'hall bezañ tretet. Lavarit d'ho medisin ma'hoc'h bet o santout e-tro daou sizhun pe muioc'h, pe ma'z eo aet ho chetu kaout plijadur en traoù.
+7. **Tabut ha evañ.** Goulennit ober skoazell evit lakaat tabut da vezañ dilezet, ha petra eo ar bevennoù diogel evit evañ.
+8. **Mouezh.** Goulennit peseurt labour korf a zo diogel evidoc'h. Hor [bajenn ar gorf](/brain-health/exercise/) a zo ur bern soñjoù.
+9. **Diwall ar benn.** Gwiskit ur c'hasko evit marc'hogiñ hag ar c'hembouloù kenstok, ha goulennit diwar-benn stankañ kouezhadennoù.
+10. **Chom en darempred.** An amzer gant tud all a zo ur pezh eus ur vuhez yec'h. Gwelit hor [bajenn an darempred sokial](/brain-health/social-connection/), ha [kousked](/brain-health/sleep/) ivez.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+A-raok cheñch medisinoù, boued, pilulioù, dizebriñ pe labour korf, komzit gant ho medisin da gentañ, dreist-holl ma'hoc'h eus kleñved ar c'halon, diabetez, un istor a gouezhadennoù, pe ma'hoc'h bet o chom gant ar dementia dija.
 
-## Talk with a doctor
+## Komzit gant ur medisin
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ma'z eus traoù nevez gant ar soñj pe ar c'hoari a-zo a fiz ac'hanoc'h, en ho-unan pe en unan all, kemerit eur prened. An NIA a notas e [c'hall bezañ kabestr all da zalvoudoù soñj](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), evel efedoù ar medisinoù, kleñvedoù an tiroid, glac'har pe niver izel a vitamin B12, ha ez eus lod eus ar poanioù-se a vez tec'het ma vez tretet ar c'habestr. Hor [bajenn kemennoù](/brain-health/warning-signs/) a zispleg petra da welet.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Goulennit skoazell prim** rak cheñchamantoù buan : sorc'h buan, gwanaat pe bezañ dizent war un tu d'ar c'horf, digompren ar gomz, pe ur poan penn kreñv a c'hall bezañ arwezioù ur strok pe ur c'hleñved all a vank. Galvit **112**.
 
-## Where Golden Moments fits
+## Petra a dalv Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments a ra arc'hadoù simpl a vez rannet, evel [kartenn kaozeal](/games/conversation-cards/), [bingo luc'hskeudennoù](/games/picture-bingo/) ha [pausadenn anaoudegezh bras](/games/calm-breathing/). Evit plijadur ha brezhegennoù ensemble emaint. N'int ket ur gwellaat, ha ne stankont ket na ne ziarc'hont ket ar dementia.

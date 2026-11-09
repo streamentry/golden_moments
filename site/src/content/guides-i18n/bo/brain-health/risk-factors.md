@@ -1,33 +1,31 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "བརྗེད་ནོར་ནད་ཀྱི་ཉེན་ཁའི་རྒྱུ་རྐྱེན་ 14 ལ་ལཱན་སེཊ་ཚོགས་འདུས་མིང་བཏགས་པ"
+seoTitle: "བརྗེད་ནོར་ནད་ཀྱི་ཉེན་ཁ་ 14 ལ་ལཱན་སེཊ་ཚོགས་འདུ"
+description: "2024 ལོའི་ལཱན་སེཊ་ཚོགས་འདུས་མིང་བཏགས་པའི་བརྗེད་ནོར་ནད་ཀྱི་འགྱུར་ཐུབ་པའི་ཉེན་ཁ་ 14 དུས་ཚོད་ཀྱི་རིམ་པས་བསྡུས་པ། ཞིབ་འཇུག་གིས་སྦྲེལ་བའི་ཆ་འཕྲིན་དང་ནད་པ་ལྟ་བུའི་ཁྱེད་རང་གིས་སྨན་པ་དང་བསམ་གཞིགས་བྱེད་ཐུབ་པ་དེ་ཡང་ཡོད།"
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 ལོའི་ལཱན་སེཊ་ཚོགས་འདུས་བརྗེད་ནོར་ནད་ཀྱི་འགྱུར་ཐུབ་པའི་ཉེན་ཁ་ 14 མིང་བཏགས་ཡོད། དེ་ཁོ་ན་ནི་སློབ་གྲྭའི་ལོ་རྒྱུས་ཉུང་བ།
+  ཐོས་ཚོར་ཉམས་པ། LDL ཁྲག་གི་ཚིལ་མདོག་མཐོ་བ། སེམས་ཁྲལ། མགོ་བོ་ལ་གནོད་པ།
+  ལུས་རྩོལ་མི་བྱེད་པ། ཀྲུ་ཤུལ། ཤས་ཀྱི་ཆུ་ཚད་མཐོ་བ། ཁྲག་ཤས་མཐོ་བ། ལུས་ཀྱི་ཆ་ཚད་མང་བ།
+  རྒྱ་ཚད་མ་བསྐྱེད་པའི་མི་ཆེན་པོ། སྤྱི་ཚོགས་ནང་མི་མཉམ་བཞུགས་པ། རླུང་གི་ཉེས་གནས་དང་། མིག་ཚའི་ཉེས་པ་ལ་ཁ་ཕར་མ་བྱས་པ། དེ་དག་གིས་ཐུན་མཚམས་སུ་ལོ་འབུམ་ཕྲག་ཉིས་ཀྱི་ནང་ཚན་པ་ཚུན་བརྗེད་ནོར་ནད་ཀྱི་ཚེ་རབས་ནང་མཐུན་པར་བཞག་ཡོད། ཡིན་ནའང་སྒྲིག་ཚུལ་ཅིག་ཀྱང་ཁྱོན་པ་ཡོད་མེད་ཀྱི་གྲུབ་གནས་མེད།
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "ཉེན་ཁའི་རྒྱུ་རྐྱེན་ 14 ནི་སྐྱེ་བའི་ཚེ་སྐབས་ཡོངས་ལ་ཁྱབ་ཡོད། སྐྱེ་བའི་ཐོག་མ་ཡོད་ཚད་ 1 ནི་ལོ་ལྔ་ཡིན་ན་ལོ་སྔ་མ་ནས་འདིར་ལ། ལོ་ཁ་ཤས་ཡོད་པའི་དུས་ཚོད་ནང་ 10 དང་ཚེ་དགུང་མང་པོའི་ནང་ 3 ཡོད།"
+  - "ཐོས་ཚོར་ཉམས་པ་དང་ལོ་ཁ་ཤས་ཡོད་པའི་ LDL ཁྲག་ཚིལ་མདོག་མཐོ་བ་ཚོ་ནི་ས་གླིང་འདིའི་བརྗེད་ནོར་ནད་ཀྱི་ཁ་ཤས་ 7% ཙམ་ལ་འབྲེལ་བ་ཡོད། གཞན་ཕྱོགས་ཀྱི་ཉེན་ཁ་གཅིག་ཡིན་ན་ཁ་ཆེ་བ་ཡིན།"
+  - "དེ་ཚོ་ནི་མི་མང་པོའི་འདེམས་སྒྲུབ་ཡིན་པ་དང་། རྒྱུ་ཁོལ་གྱི་འབྲེལ་བ་ཡོད་པར་བསམ་པའི་ཐ་སྙད་ཅན་ཡིན། འབྲེལ་བ་ཁ་ཤས་ནི་རྒྱུ་མཚན་ཡིན་པ་ཚང་མ་མ་ཡིན།"
+  - "དུས་ཚོད་དང་རིགས་རྒྱུད་ལྟ་བུ་ཁྱེད་རང་གིས་བསྒྱུར་མི་ཐུབ་པའི་ཉེན་ཁ་ཆེན་པོ་ཡང་ཡོད། ཉེན་ཁ་ 14 བསྐྱུར་བ་གིས་མི་གང་ཡང་བརྗེད་ནོར་ནད་ལས་སྲུང་ཞེས་ངེས་པ་མེད།"
+  - "ཁྲག་ཤས་བརྟགས་པ། ཐོས་པ་དང་མིག་ལྟ་བུ་ཚོད་ལྟ་བྱེད་པ་ལྟ་བུའི་རིམ་པ་གཙོ་བོ་ཚོ་ནི་ལུས་པོའི་གནས་ཚུལ་གཞན་ལ་ཡང་ཕན་པ་ཡིན། སྨན་པ་དང་བསམ་གཞིགས་བྱེད་རིགས་ཡིན།"
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "བརྗེད་ནོར་ནད་ཀྱི་འགྱུར་ཐུབ་པའི་ཉེན་ཁ་ 14 གང་ཡིན་ནམ།"
+    a: "2024 ལོའི་ལཱན་སེཊ་ཚོགས་འདུས་ཤེས་ཡོན་ཉུང་བ། ཐོས་ཚོར་ཉམས་པ། LDL ཁྲག་ཚིལ་མདོག་མཐོ་བ། སེམས་ཁྲལ། མགོ་བོ་ལ་གནོད་པ། ལུས་རྩོལ་མི་བྱེད་པ། ཀྲུ་ཤུལ། ཤས་ཀྱི་ཆུ་ཚད་མཐོ་བ། ཁྲག་ཤས་མཐོ་བ། ལུས་ཀྱི་ཆ་ཚད་མང་བ། ཆུ་ཚད་ལས་ལྷག་པ། སྤྱི་ཚོགས་ནང་མི་མཉམ་བཞུགས་པ། རླུང་གི་ཉེས་གནས་དང་མིག་ཚའི་ཉེས་པ་ལ་ཁ་ཕར་མ་བྱས་པ་ཡིན། ཚང་མ་ཁྱབ་ཚུལ་གྱིས་བརྗེད་ནོར་ནད་ཀྱི་ཚེ་རབས་ཁ་ཤས་ཆ་ཉུང་ཙམ་ལ་འབྲེལ་བ་ཡོད།"
+  - q: "བརྗེད་ནོར་ནད་ཀྱི་ཉེན་ཁ་གང་གི་ནང་ནས་ཆེ་ཤོས་ཡིན་ནམ།"
+    a: "ས་གླིང་འདིའི་མི་མང་པོའི་ནང་ནས་ལྟ་ན། ལཱན་སེཊ་ཚོགས་འདུས་ལོ་ཁ་ཤས་ཡོད་པའི་ཐོས་ཚོར་ཉམས་པ་དང་ LDL ཁྲག་ཚིལ་མདོག་མཐོ་བ་གཉིས་ནི་ཚེ་རབས་ཁ་ཤས་ 7% ཙམ་ལ་འབྲེལ་བ་ཡོད་པར་བསྒྲུབས། དེའི་རྗེས་སུ་སློབ་གྲྭའི་ལོ་རྒྱུས་ཉུང་བ་དང་སྤྱི་ཚོགས་ནང་མི་མཉམ་བཞུགས་པ་གཉིས་ནི་ཁ་ཤས་ 5% ཙམ་ཡིན། ཁྱེད་རང་གི་ཐོག་ཏུ་གང་ཆེ་བ་ནི་ཁྱེད་རང་གི་ལུས་པོའི་གནས་ཚུལ་ལ་ལྟོས་ཏེ། ཟླ་མགོ་སྨན་པ་ལ་བསམ་གཞིགས་བྱེད་པ་ལེགས་ཤོས་ཡིན།"
+  - q: "ལོ་ 2024 ནང་ཉེན་ཁ་གསར་པ་གཉིས་ཁ་སྣོན་བྱས་སམ།"
+    a: "ཡིན། 2024 ལོའི་ཞིབ་འབྲས་ནང་ 2020 ལོའི་ཉེན་ཁ་ 12 ལ་ཁ་སྣོན་དུ། ལོ་ཁ་ཤས་ཡོད་པའི་ LDL (ངན་པའི་) ཁྲག་ཚིལ་མདོག་མཐོ་བ་དང་། ཚེ་དགུང་ཕྱི་མའི་ཚེ་སྐབས་སུ་ལྟ་ཚད་མ་བཅོས་པའི་ཉེས་པ་གཉིས་ཁ་སྣོན་བྱས་ཡོད། ལཱན་སེཊ་ཚོགས་འདུས་ཀྱིས་དེ་གཉིས་ལ་ཁ་ཤས་ 7% དང་ 2% ཙམ་གྱི་ནད་རིགས་དང་འབྲེལ་བ་ཡོད་པར་བསྒྲུབས།"
+  - q: "ལོ་ཚད་ནི་འགྱུར་ཐུབ་པའི་ཉེན་ཁ་ཞིག་ཡིན་ནམ།"
+    a: "མ་ཡིན། ལོ་ཚད་ནི་ཨལ་ཛ་ཧའི་མར་ནད་ཀྱི་ཉེན་ཁ་ཆེན་པོ་ཤོས་ཡིན་པ་དང་། ཁྱེད་རང་གིས་བསྒྱུར་མི་ཐུབ། རིགས་རྒྱུད་ཀྱང་ཆ་ཤས་ཡོད། ཤོག་ཁ་འདིའི་ཉེན་ཁ་ 14 ནི་ཞིབ་འཇུག་གིས་འགྱུར་ཐུབ་པར་བལྟས་པ་ཡིན།"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +47,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+ཉེན་ཁའི་རྒྱུ་རྐྱེན་ནི་ནད་ཅིག་ཐོན་པའི་སྲིད་པ་མཐོ་བར་འབྲེལ་བ་ཡོད་པའི་ཆ་ཤས་ཞིག་ཡིན། ཁ་ཤས་ན་དེ་ནི་རྒྱུ་མཚན་མ་ཡིན་ཞིང་། ཉེན་ཁ་ཡོད་ན་བརྗེད་ནོར་ནད་ཐོན་ངེས་ཡིན་ཞེས་ཀྱང་མ་ཡིན། ཤོག་ཁ་འདིར་ 2024 ལོའི་ལཱན་སེཊ་ཚོགས་འདུས་འགྱུར་ཐུབ་པར་བཤད་པའི་བརྗེད་ནོར་ནད་ཀྱི་ཉེན་ཁ་ 14 དང་། དེ་དག་དང་འབྲེལ་བའི་ཞིབ་འཇུག་གི་ཆ་འཕྲིན་། ཁྱེད་རང་གིས་སྨན་པ་དང་བསམ་གཞིགས་བྱེད་ཐུབ་པའི་དོན་ཚན་ཚོ་བསྟན་ཡོད།
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+ཞིབ་འཇུག་ཆེ་བ་ཚུ་དང་། ཁྱད་པར་དུ་ཆེ་དཔེའི་བརྟག་དཔྱད་ཀྱིས་ཅི་འཐོབ་པ་ལ་ཆ་འཕྲིན་ཤེས་འདོད་ན། [བརྗེད་ནོར་ནད་སྲུང་ཐུབ་གམ། ཞིབ་འཇུག་གིས་ཅི་བཤད་ཡོད་པ།](/brain-health/can-dementia-be-prevented/) ལ་བལྟ་རོགས། འདི་ནི་སྤྱིར་གྱི་ཆ་འཕྲིན་ཡིན་གྱི་སྨན་གྱི་ལམ་སྟོན་མ་ཡིན། [སྨན་རིག་གི་གསལ་བརྡ་](/medical-disclaimer/) ཀྱང་བལྟ་རོགས།
 
-## What are the 14 risk factors for dementia?
+## བརྗེད་ནོར་ནད་ཀྱི་ཉེན་ཁའི་རྒྱུ་རྐྱེན་ 14 གང་ཡིན།
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 ལོའི་ལཱན་སེཊ་ཚོགས་འདུ](https://doi.org/10.1016/S0140-6736(24)01296-0)། འདིར་བརྗེད་ནོར་ནད་ཀྱི་མཁས་པ་ 27 ཀྱིས་བྲིས་པ་ཡིན་ཞིང་། ཉེན་ཁའི་རྒྱུ་རྐྱེན་འགྱུར་ཐུབ་པ་ 14 ཚང་མ་ཁྱབ་ཚུལ་གྱིས་ས་གླིང་འདིའི་བརྗེད་ནོར་ནད་ཀྱི་ཁ་ཤས་ 45% ཙམ་ལ་འབྲེལ་བ་ཡོད་པར་བསྒྲུབས་ཡོད། འོག་ཏུ་ཡོད་པའི་རྒྱུ་རྐྱེན་རེ་རེའི་ཚད་ནི་ས་གླིང་འདིའི་ཚེ་རབས་ཀྱི་ནང་ནས་དེ་དང་འབྲེལ་བའི་ཁ་ཤས་ཀྱི་ལྟ་སྟངས་ཡིན་པ་དང་། ཁ་ཤས་ཀྱི་ཐོ་ཡ་དུ་ཡོད་པས་སྡེ་ཚོགས་ནས་ 45% ཀྱི་ནང་ཚུད་ཡོད་པ་ཡིན། ཚང་མ་མཉམ་གྱི་ཁ་ཤས་ཀྱི་འགྲེལ་བ་མ་བྱེད་པའི་ཐོག་ཏུ་མི་ཚོ་ལ་ཉེན་ཁ་ཧ་ཅང་ལུག་མང་བ་ཡོད་པས། ཚད་གཞི་ཚང་མ་ཤར་པ་ནི་མ་ཡིན།
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| ཉེན་ཁའི་རྒྱུ་རྐྱེན | སྐྱེ་བའི་རིམ་པ | ཁ་ཤས་ཀྱི་ཚད | ཞིབ་འཇུག་གིས་སྦྲེལ་བ | ཁྱེད་ཀྱིས་བྱེད་ཐུབ་པ |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| ཤེས་ཡོན་ཉུང་བ | སྐྱེ་བའི་ཐོག་མ | 5% | སློབ་ཡོན་ཉུང་བ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། ལོ་ཚད་འགོ་ཚེ་ཤེས་ཡོན་ཉུང་བའི་མི་ཡང་། ལོ་ཁ་ཤས་ཡོད་པའི་དུས་ཚོད་ནང་སེམས་ཀྱི་ལས་ཀ་ལེགས་པོ་བྱས་ན་ཉེན་ཁ་ཉུང་བར་སྣང་། | ལོ་ཚད་ཅི་ཡང་རུང་། དེབ་ཀློག་པ། སྡུག་རྩེད། སློབ་གྲྭ་ལ་ཞུགས་པ་དང་མི་གཞན་དང་རྩེད་མོ་བྱེད་པ་ལྟ་བུ་བྱས་ཀྱང་བཟོ་གྲལ་ཡོད། |
+| ཐོས་ཚོར་ཉམས་པ | ལོ་ཁ་ཤས་ཡོད་པ | 7% | རྒྱུ་མཚན་ཐོས་ཚོར་ཉམས་པ་མ་སོས་པ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། རྗེས་སུ་ཤེས་རྟོགས་བྱེད་པའི་ཞིབ་འཇུག་ལས་ཐོས་ཚོར་ཐོག་པ་བེད་སྤྱོད་བྱེད་པ་ནི་ཉེན་ཁ་ཉུང་བར་འབྲེལ་ཡོད། | ཐོས་ཚོར་བརྟག་དཔྱད་བྱེད། ཐོས་ཚོར་ཐོག་པ་ལ་སྨན་པས་བསྒྲིགས་ན་སྐྱོན་མེད་དམ་ཞེས་དྲིས། སྐད་ཆེན་པོའི་སྒྲ་ལས་རང་ཚུགས་སྲུང་། |
+| LDL ཁྲག་ཚིལ་མདོག་མཐོ་བ | ལོ་ཁ་ཤས་ཡོད་པ (ལོ་བཞི་བཅུ་ཙམ་ནས) | 7% | ལོ་ཁ་ཤས་ཡོད་པའི་ LDL ("ངན་པའི་") ཁྲག་ཚིལ་མདོག་མཐོ་བ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། རྗེས་དཔྱད་ཀྱི་ཞིབ་འཇུག་ལས་སྟ་ཊིན་བེད་སྤྱོད་ཉུང་བར་འབྲེལ་བ་སྣང་ཡང་། ཚེ་དགུང་ཕྱི་མའི་བརྟག་དཔྱད་ལས་འདི་ངེས་པར་མ་སྟོན་པ། | ཁྱེད་ཀྱི་ཁྲག་ཚིལ་བརྟག་དགོས་མེད་དང་། དགོས་ན་ག་དེ་བྱ་དགོས་པ་སྨན་པར་དྲིས། |
+| སེམས་ཁྲལ | ལོ་ཁ་ཤས་ཡོད་པ | 3% | སེམས་ཁྲལ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། ཚེ་དགུང་ཕྱི་མར་སེམས་ཁྲལ་ནི་བརྗེད་ནོར་ནད་ཀྱི་སྔོན་རྟགས་ཡང་ཡིན་ཐུབ། | སེམས་ཁམས་ཉམས་པ་ངོ་མ་འདི་ཉིན་གཅིག་ཡག་ཤོས་ 2 ལས་ལྷག་པ་ན་སྨན་པར་བརྡ་སྤྲོད། སེམས་ཁྲལ་སྨན་གྱིས་ཕན་ཐུབ། |
+| མགོ་བོ་ལ་གནོད་པ | ལོ་ཁ་ཤས་ཡོད་པ | 3% | མགོ་བོ་ལ་ཡུལ་ཚུལ་ཅི་ཡང་རུང་ལས་གནོད་པ་སྲིད་ན་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། རྩེད་མོའི་ཁུ་གུ་ནང་གི་གནོད་པ་ཡང་ཚུད་ཡོད། | རྟ་ཤིང་དང་རྩེད་མོ་ཁྲོལ་བེད་པ་ལ་མགོ་ཟམ་བཏགས། ལྷུང་བ་སྲུང་ཚུལ་ལ་དྲིས། མགོ་བོ་ལ་གནོད་ཕྱིན་ནས་ངལ་གསོ་བྱས་ཏེ་བརྟག་དགོས། |
+| ལུས་རྩོལ་མི་བྱེད་པ | ལོ་ཁ་ཤས་ཡོད་པ | 2% | ལུས་རྩོལ་བྱེད་པ་དང་རྩེད་མོ་ཉམས་ཞིམ་བྱེད་པའི་མི་ཚོ་ནི་བརྗེད་ནོར་ནད་ཐོན་པ་དོགས་སྲིད་ཉུང་། ཞིབ་འཇུག་གི་ཤུགས་ཅི་ཡོད་ཀྱང་ལིམ་ཏོ་ཡོད། | ཁྱེད་ལ་ཉེན་ཁ་མེད་པའི་ལུས་རྩོལ་ག་ཚོད་ཡིན་པ་སྨན་པར་དྲིས། [ལུས་རྩོལ་གྱི་ལམ་སྟོན](/brain-health/exercise/) ལ་བལྟ་རོགས། |
+| ཀྲུ་ཤུལ | ལོ་ཁ་ཤས་ཡོད་པ | 2% | ཀྲུ་ཤུལ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། ཚེ་ལོ་ཡུན་རིང་ཞིག་གི་ནང་ཡོད་ན་ཡང་ཉེན་ཁ་ཆེ་བ། | ཀྲུ་ཤུལ་སེལ་ཐུབ་པའི་རོགས་སྐྱོར་ལ་དྲིས། ཚེ་རབས་ག་དུས་ཡིན་ཀྱང་ཀྲུ་ཤུལ་སྤོངས་ན་ཕན་པ་ཡིན། |
+| ཤས་ཀྱི་ཆུ་ཚད་མཐོ་བ | ལོ་ཁ་ཤས་ཡོད་པ | 2% | ལོ་ཁ་ཤས་ཡོད་པའི་ཤས་ཀྱི་ཆུ་ཚད་མཐོ་བ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། སྨན་ཀྱི་རྗེས་དཔྱད་ཁ་ཤས་ལས་ཆུ་ཚད་མགོ་ཚུད་ཡོད་པས་བརྗེད་ནོར་ནད་ཉུང་བར་འབྲེལ་བ་ཡོད། | ཁྱེད་ཀྱི་གྲངས་ཀ་ཤེས་པ། ཁ་གཞན་ནི་བཅོས་སྒྲིགས་ཀྱི་རྒྱུ་ཆ་ཡོད་ན་ཤེས་པ། སྨན་པར་ཆུ་ཚད་གཏན་འཁེལ་དྲིས། |
+| ཁྲག་ཤས་མཐོ་བ | ལོ་ཁ་ཤས་ཡོད་པ | 2% | ལོ་ཁ་ཤས་ཡོད་པའི་ཁྲག་ཤས་མཐོ་བ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། | ཁྲག་ཤས་བརྟག་དགོས། ཐད་པའི་ནད་ཡོད་ན་སྨན་པའི་སྡེར་ཚུ་དང་ལྷན་ཏེ་ཕན་ཚུན་ལ་འཛིན་ཐུབ་པ་ཡོད། |
+| ལུས་ཀྱི་ཆ་ཚད་མང་བ | ལོ་ཁ་ཤས་ཡོད་པ | 1% | ལོ་ཁ་ཤས་ཡོད་པའི་ལུས་ཀྱི་ཆ་ཚད་མང་བ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། ཐད་པའི་ནད་ཀྱི་ཉེན་ཁ་ཡང་ཡར་སྐྱོད་བྱེད། | ཁྱེད་ལ་ཆ་ཚད་ཞིག་ཡོད་པ་སྨན་པར་དྲིས། རྒྱལ་བ་ལ་ཤོས་ཀྱི་རིམ་པ་བྱས་ན་སྨན་པའི་སྤྱིར་ཡོ་དྲིས་མེད་པར་མི་ཆོག |
+| ཆུ་ཚད་ལས་ལྷག་པ | ལོ་ཁ་ཤས་ཡོད་པ | 1% | ཆུ་ཚད་ལས་ལྷག་པ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། ཆུ་ཚད་ཞུ་བ་ནི་ཉེན་ཁ་ཉུང་བར་འབྲེལ་བ་ཡོད། | ཁྱེད་ལ་ཆུ་ཚད་ཀྱི་ཚད་བཟང་པོ་ག་དུ་ཡིན་པ་སྨན་པར་དྲིས། ཁྱེད་ཀྱི་སྨན་ལ་ཡང་འབྲེལ་བ་ཡོད་པས་གོ་ཞིབ་ཡོད། |
+| སྤྱི་ཚོགས་ནང་མི་མཉམ་བཞུགས་པ | ཚེ་དགུང་ཕྱི་མ | 5% | སྤྱི་ཚོགས་དང་འདྲེན་འབྲེལ་ཉུང་བ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། | ཁྱེད་ལ་དགའ་བའི་ཐབས་ལམ་གྱིས་མི་ཁ་ཤས་དང་འབྲེལ་བ་བརྟན་བཞག། [སྤྱི་ཚོགས་འབྲེལ་བའི་ལམ་སྟོན](/brain-health/social-connection/) ལ་བལྟ་རོགས། |
+| རླུང་གི་ཉེས་གནས | ཚེ་དགུང་ཕྱི་མ | 3% | རླུང་ཉེས་ཆེ་བའི་ས་ཁུལ་ན་བསྡད་པ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། རླུང་སྐྱོང་ཆེ་བ་ནི་ཉེན་ཁ་ཉུང་བར་འབྲེལ་བ་ཡོད། | ཁྲིམས་གཞུང་གི་དོན་གནད་ཆེ་བ་ཡིན། ས་ཁུལ་གྱི་རླུང་ཉེས་ཀྱི་བརྡ་རྟགས་ལ་བལྟ་ཞིང་། རླུང་ཉེས་ཆེན་པོའི་ཉིན་ཚོ་ཕྱི་ཁར་ཡུན་རིང་མི་བསྡད། |
+| མིག་ཚའི་ཉེས་པ་ལ་ཁ་ཕར་མ་བྱས་པ | ཚེ་དགུང་ཕྱི་མ | 2% | མིག་ཚ་ལེགས་པོ་མ་ཡིན་པ་ནི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡིན། ཨ་མེ་རི་ཀའི་ཞིབ་འཇུག་ཆེན་པོ་ཞིག་ལས་མིག་ཁ་ཤུན་བཅོས་པ་ནི་ཉེན་ཁ་ཉུང་བར་འབྲེལ་ཡོད་པར་སྟོན། | མིག་ལྟ་ཚོད་ལྟ་རྣམ་པར་བྱེད། མིག་ཁ་ཤུན་ལ་སོགས་པ་ནད་བཅོས་ཐུབ་མེད་དམ་ཞེས་དྲིས། |
 
-## How should I read these percentages?
+## ཉེན་ཁའི་ཚད་གྲངས་འདི་ཀློག་བྱ་ཚུལ་ག་དུ་ཡིན།
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+ཞེན་པོ་ཞིག་ཀློག་དགོས། ལཱན་སེཊ་ཚོགས་འདུའི་ཞིབ་འབྲས་ནང་གནད་དོན་ཁ་ཤས་ཡོད་པ་ཚུ་དྲན་པ་ཡིན།
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **ཚད་གྲངས་འདི་ནི་མི་ཚོགས་ཀྱི་འདེམས་སྒྲུབ་ཡིན་གྱི་མི་གཅིག་གི་ཚད་མ་ཡིན།** ཡུ་ནི་ཝར་སི་ཊི་གི་ལཱན་སེཊ་ཚོགས་འདུ་ལ་ཡོད་པའི་[ཕྱིར་བསྡུས](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ནང་། ཉེན་ཁ་ཉུང་བ་ནི་མི་ཚོགས་ཁྱབ་ཚུལ་གྱིས་ལས་ཀ་བྱེད་ཀྱང་། མི་གཅིག་གི་བརྗེད་ནོར་ནད་ལས་སྲུང་ཞེས་ངེས་པ་མེད་ཅེས་བཤད།
+- **རྒྱུ་ཁོལ་གྱི་འབྲེལ་བ་ཡོད་པར་བསམ་ཡོད།** བསྡུ་བ་པོ་ཚོས་རྒྱུ་མཚན་ངེས་པ་ཡོད་པའི་ཉེན་ཁ་ཁོ་ནར་བསྡུས་ཀྱང་། འབྲེལ་བ་ཁ་ཤས་ནི་ཆ་ཤས་ཙམ་རྒྱུ་མཚན་ཡིན་པར་བཤད།
+- **ས་གླིང་ཚང་མའི་ཚད་གྲངས་ཡིན།** གནས་ཚུལ་གཞི་ཐོག་མཐོ་ཡོད་པའི་ས་ཁུལ་ནས་བསྡུ་ལེན་མང་ཤོས་ཡིན་པས། ཁྱེད་ཀྱི་ས་ཁུལ་ཡང་ངེས་པར་འདྲ་མི་ཡིན།
+- **ཉེན་ཁ་ཆུང་ཡང་གནད་དོན་ཡོད།** མི་ཚོ་ 2% ལ་འབྲེལ་བའི་ཉེན་ཁ་ཞིག་ཡང་ས་གླིང་ཁྱབ་ཁོངས་སུ་མི་མང་པོ་ལ་ལོགས་ཡོད།
 
-## Which risk factors were added in 2024?
+## ལོ་ 2024 ལ་ཉེན་ཁ་གང་ཞིག་ཁ་སྣོན་བྱས་པ་ཡིན།
 
-The 2024 report added two factors to the 12 named in 2020:
+ལོ་ 2024 ཡི་ཞིབ་འབྲས་ནང་ 2020 ལོའི་ཉེན་ཁ་ 12 ལ་ཁ་སྣོན་གཉིས་ཡོད།
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **ལོ་ཁ་ཤས་ཡོད་པའི་ LDL ཁྲག་ཚིལ་མདོག་མཐོ་བ།** ཁ་ཤས་ 7% ཙམ་ལ་འབྲེལ་བ་ཡོད།
+- **ཚེ་དགུང་ཕྱི་མར་མིག་ཚ་ཤུན་མ་བཅོས་པ།** ཁ་ཤས་ 2% ཙམ་ལ་འབྲེལ་བ་ཡོད།
 
-## What risk factors cannot be changed?
+## གནས་ཚུལ་འགྱུར་མི་ཐུབ་པའི་ཉེན་ཁ་གང་ཡིན།
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+ཨ་མེ་རི་ཀའི་རྒྱལ་ཁབ་ཀྱི་ཚེ་དགུང་ཞིབ་ཁང་ (NIA) གིས། [ལོ་ཚད་ནི་ཨལ་ཛ་ཧའི་མར་ནད་ཀྱི་ཉེན་ཁ་ཆེན་པོ་ཤོས་ཡིན་པ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) དང་། ཁྱེད་རང་གིས་བསྒྱུར་མི་ཐུབ་ཅེས་བཤད། རིགས་རྒྱུད་ཀྱང་ཆ་ཤས་ཡོད། རིགས་རྒྱུད་ཀྱི་ཁ་ཤས་ཤེས་ཡོད་པ་ཞིག་ནི་APOE ཟེར། NIA གིས་ཁ་སྣོན་དུ། མི་ཁ་ཤས་ལ་ཨལ་ཛ་ཧའི་མར་ནད་གང་གིས་བྱུང་བ་ཡིན་པ་དེ་ལྟ་ཞིབ་པའི་ཤེས་རིག་ཚུད་མེད་ཅེས་བཤད། ལཱན་སེཊ་ཚོགས་འདུས་ཀྱང་འགྱུར་ཐུབ་པའི་ཉེན་ཁ་ནི་མི་ཁྱད་པར་ཅི་ཡིན་ཡང་བསྐྱུར་ཆོག་ཅེས་བཤད།
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+ལོ་ཚད་དང་རིགས་རྒྱུད་ཆེན་པོར་བརྟེན་པས། ཉེན་ཁ་ 14 མེད་པའི་མི་མང་པོ་ཡང་བརྗེད་ནོར་ནད་ཐོན་ཡོད། དེ་ནི་སྐྱོན་གང་གི་ཡང་མ་ཡིན།
 
-## What does the trial evidence say about changing these risks?
+## ཉེན་ཁ་འདི་བསྒྱུར་བའི་ཞིབ་འཇུག་ཅི་བཤད་ཡོད།
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+ཉེན་ཁའི་རྒྱུ་རྐྱེན་དང་བརྗེད་ནོར་ནད་འབྲེལ་བ་སྦྲེལ་པ་ནི་ཉེན་ཁ་བསྒྱུར་པས་བརྗེད་ནོར་ནད་ཉུང་བར་འགྲུབ་པ་ལས་གཞན་ཡིན། འདིར་ཞིབ་འཇུག་གི་གནས་ཚུལ་དཔེ་ཁ་ཤས་བཀོད།
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **ཁྲག་ཤས།** SPRINT MIND ཞིབ་འཇུག་ནང་ཁྲག་ཤས་ཀྱི་དམིགས་ཚད་ཉུང་བ་གྱིས་ཤེས་རྟོགས་ཀྱི་ཉེས་པ་ཆུང་བ་ལ་ཁྱད་པར་ཆེན་པོ་ཡོད། འོན་ཀྱང་བརྗེད་ནོར་ནད་ཡོད་པར་ཁྱད་པར་མ་ཐོན། ཞིབ་འཇུག་ཆུང་ངུ་ཡིན་པའི་སྐྱོན་ཡང་དོགས་སྲིད་ ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/))།
+- **ཐོས་ཚོར་ཐོག་པ།** ལཱན་སེཊ་ཚོགས་འདུས་ལོ་གསུམ་གྱི་ཐོས་ཚོར་ཐོག་པའི་ཞིབ་འཇུག་ཞིག་བཤད་པ་ལ། བློ་རིག་ལ་ཁྱབ་ཚུལ་གྱི་ཕན་ཡོན་མེད་པ་དང་། ཉེན་ཁ་མཐོ་བའི་ཁྱད་ཚོགས་ནང་ཕན་ཡོན་ཡོད་པར་བཤད། རྗེས་དཔྱད་ཀྱི་ཐོས་ཚོར་ཐོག་པ་བེད་སྤྱོད་ཉུང་བ་ནི་ཉེན་ཁ་ཉུང་བར་འབྲེལ་བ་ཡོད། [ཐོས་ཚོར་ལམ་སྟོན](/brain-health/hearing/) ཡང་བལྟ་རོགས།
+- **ལུས་རྩོལ།** NIA གིས་ལུས་རྩོལ་གྱིས་བརྗེད་ནོར་ནད་སྔར་སྲུང་ཐུབ་ཅེས་ངེས་པའི་ཞིབ་འཇུག་གི་སྒྲུབ་བྱེད་མི་འདང་བར་བཤད། འོན་ཀྱང་ཞིབ་འཇུག་ཁ་ཤས་ནས་དུས་རབས་ཀྱི་ཉམས་པ་ལ་ཕན་ཐུབ་པར་བཤད་ཡོད་ ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))།
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+བརྗེད་ནོར་ནད་ཐོན་པ་ལ་ཞིབ་བྱེད་པའི་ཞིབ་འཇུག་རིང་པོ་ནི་དུས་ཚོད་དང་དངུལ་འབྱུང་ཆེ་བས། ཉེན་ཁ་མང་པོའི་སྒྲུབ་བྱེད་ནི་ལོ་ཡུན་རིང་ནས་མི་ཚོ་རྗེས་འཇུག་ཐོག་ནས་འབྱུང་བ་ཡིན། དེ་ཡང་ཕན་ཐོགས་ཆེ་ཡང་ཞིབ་འཇུག་ལས་ཉུང་བ་ཡིན།
 
-## What about sleep and diet?
+## གཉིད་དང་ཟས་ཀྱི་སྐོར་ལ་ཅི་ཡོད།
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+ལཱན་སེཊ་ཚོགས་འདུས་གཉིད་དང་ཟས་ལ་ཞིབ་བཤེར་བྱས་ཡང་། སྒྲུབ་བྱེད་བརྟན་པོ་མེད་པས་ཁ་གྲངས་ལ་སྣོན་མ་བྱས། [གཉིད་](/brain-health/sleep/) དང་ [ཟས་](/brain-health/diet/) ཀྱི་ལམ་སྟོན་ནང་ཤེས་ཡོད་པ་བཤད་ཡོད།
 
-## Talk with a doctor
+## སྨན་པ་དང་བཤད་པ།
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+ལོ་རེའི་ལུས་ཞིབ་ལ་དུས་ཚོད་ཡག་ཡོད་པས་དོན་དེ་ཚུ་བཤད་པར་ཁ་ཡིག་བྱ་རོགས། ཁྱེད་ཀྱིས་ཤོག་ཁ་འདི་དྲངས་ནས་འདི་ལྟ་བུ་དྲིས་ཆོག
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- ངའི་ཁྲག་ཤས་དང་ཁྲག་ཚིལ་མདོག་ལ་ཅི་འདྲ་ཡོད་པ་དང་། ཁ་ཤས་ལ་བཅོས་དགོས་ཡོད་མེད།
+- ངས་ཐོས་པ་དང་མིག་བརྟག་དགོས་མེད་དམ།
+- ང་ལ་བྱེད་བཞིན་པའི་ལུས་རྩོལ་དེ་བདེ་མོ་དང་ལྕོགས་པ་ཡིན་ནམ།
+- ངའི་སྨན་ཁ་ཤས་ལ་བརྗེད་པ་དང་བསམ་པ་ལ་གནོད་པ་སྲིད་དམ།
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+སྨན་བདེ་ཆེན་ཁ་ཤས་ཀྱི་དུས་ཚོད་ལ་སྨན་བཅོས་ལག་ལེན་དང་། ཟས་ཚོས་ཤིང་སྐོན་བཅོས། ལུས་རྩོལ་དང་རྒྱ་རྫས་འགྱུར་དགོས་ན་སྔོན་ལ་སྨན་པར་གསོལ་བཤད་རོགས། ཁྱེད་རང་གམ་ཁྱེད་ཀྱིས་སྐྱབས་འཚོལ་བའི་མི་ལ་རེས་མེད་དུ་འཁྲུལ་པ་དང་། ལག་གཡས་གཡོན་ཅིག་ནུ་བ་དང་། ངག་འབོད་དཀའ་བ་བྱུང་ན་ཁྱེད་ཀྱི་ས་ཁུལ་གྱི་སྐྱབས་འཚོལ་ཨང་གྲངས་ལ་ཁ་པར་གཏོང་རོགས།

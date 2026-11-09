@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Pa c'houlenn an den gant demañs c'hoazh mont en-dro d'ti"
+seoTitle: "Demañs: pa c'houlenn mont en-dro d'ti, petra lavaret"
+description: "Perak e c'houlenn un den a vev gant demañs mont en-dro d'ti pa vez dija e-barzh, petra lavaret, obererezhioù kalm da glask ha penaos derc'hel anezhañ diogel."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Pa c'houlenn un den gant demañs c'hoazh mont en-dro d'ti, "ti" a dalv alies ur
+  santad surentez pe ul lec'h eus ar gorollad, n'eo ket un annez. Na ahuzit ket
+  dezhañ ez eo e-barzh. Asentit d'ar santad, lavarit dezhañ e vez diogel, goulennit
+  dezhañ diwar-benn e ti, neuze trosit mat war-lerc'h d'un skeudenn, un ton
+  sonerezh, ur mirlonk, ur veaj bihan pe ur labour simpl. Gwiriit an naon, an dour,
+  al lec'h-dour pe ar poan. Ma c'hoarvez brav en un taol, galvit o medisin.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Mont en-dro d'ti\" a dalv alies \"n'on ket en surentez na en unvez,\" n'eo ket ur goulenn ur chomlec'h."
+  - "Diskuizh pe ober ma'z eo e-barzh a lakaat ar fizierezh da greskiñ. Respontit d'ar santad ontañ."
+  - "Goulennit dezhañ diwar-benn e ti, neuze proponit skeudennoù, sonerezh, ur mirlonk, ur veaj pe ul labour simpl."
+  - "Gwiriit an dra a c'haller reizhañ: naon, dour, al lec'h-dour, poan, tomder pe yender, sin, skuizhder."
+  - "Ma c'hoarvez bep fin-deiz, e c'hallfe bezañ sundowning; un deremmadur sioul hag ur sklaerijenn vat a c'hall skoazellañ."
+  - "Soñjit er surentez ma klask mont kuit, ha galvit o medisin evit ar cheñchamant bras diabarzh."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Perak e c'houlenn ma mamm gant demañs mont en-dro d'ti pa vez e-barzh?"
+    a: "Gallout a ra ar demañs ober ar gambrioù ouzhpenn-se da vezañ dic'hallus, ha weithiañ e santer ez eus un den o chom en ur mare kent er vuhez. \"Ti\" a c'hall tegouezhout gant un ti vugale pe nemetken gant ar santad bezañ diogel ha par. Respont d'ar santad a vez alies gwelloc'h eget diskouez dezhi pelec'h ez eo."
+  - q: "Petra a lavaran pa c'houlennont mont en-dro d'ti?"
+    a: "Klaskit \"Diogel e vez amañ, hag emaon o chom ganeoc'h,\" neuze \"Lavarit din diwar-benn ho ti.\" Harzit, rannit ur skeudenn pe ur ganenn, ha proponit un dafariad pe ur veaj berr. Diwezhatit lavarout \"Ti eo, emaoc'h amañ,\" evel ur reizhadenn, rak se a c'hall bezañ santet evel lavarout deoc'h e kamm."
+  - q: "Ha mat eo lavarout e vo mont en-dro d'ti diwezhatoc'h?"
+    a: "Disheñvel eo an dra etre familhoù hag aozadurioù ar demañs. Meur a hini a grog gant ur c'homfort onest hag un dreuzkas, hag a gadw ur gaberenn nann tener evit an deiz ma vefe ar wir o kaout nemetken ur reuz d'ar mare na c'hall an den sevel outi. Pep tra a zibabit, bezit tener hag estlammus, ha n'ho ped ket ur c'hoari ouzh e santad eus ar bed."
+  - q: "Petra a rankan ober ma klask mont kuit an ti?"
+    a: "Chomit kalm ha kerzhit ganti da vezañ n'ho pezh ket sachet; ur veaj berr a laka alies ar c'hoant da badout. Lakit a-raok amzer lamadennoù surentez, evel ur brazelenn ID, klokerezh pe dorioù a sonerezh ha ur skeudenn nevez tost. Ma vez kollet, kregit da glask diouzhtu, ha galvit 112 ma n'ho peus ket kavet en 15 munud, o lavarout e vez demañs an den."
+  - q: "Pegoulz e rankan galvout ur medisin?"
+    a: "Galvit o medisin buan ma kregi ar goulenn pe ar goulioù bennak en un taol, pe ma a waskoc'h gant an amzer dre an eurioù pe an devezhioù, dreist-holl gant tomder, medisin nevez pe arwezioù un heñkodenn dourel. Ar goulioù bennak en un taol a c'hall bezañ delirium, a vez degemeret e-keñver ar gwella skoazell. Galvit 112 ma vez un den en arriskl."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Mont en-dro d'ti a fell din." Evit meur a familh e vez unan eus ar pezhioù kaletañ da glevout, dreist-holl pa vez an den a zo ganeoc'h o chom en he gambr-chomañ he-unan. Boutin eo, gallout a ra c'hoarvezout e pep kam eus ar demañs, ha bez' ez eus doareoù kalm ha praktikel da respont. Ar bajenn-mañ a zisklêr petra a dalv ar gerioù alies, petra lavaret, obererezhioù a c'hall skoazellañ en eil, ha penaos derc'hel anezhañ diogel.
 
-## Why does someone with dementia keep asking to go home?
+## Perak e c'houlenn un den gant demañs mont en-dro d'ti c'hoazh?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Alies, "ti" a zo ur santad moarvat, n'eo ket ul lec'h. Al Alzheimer's Society a ziskouez ez eo ur santad c'homfort pe surentez, pe ur ti eus ar c'horn-bro, dre ma n'eo ket ar ger hag ar gwalc'h. Ar demañs a c'hall ober ar gambrioù boas da vezañ dic'hallus, hag an den a c'hall santout e vev en ur mare kent eus he vuhez, pa oa ti ar vugaleaj pe al lec'h ma'z eo bet magerezh he bugale.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Ar gerioù a c'hall ivez bezañ arwez ez eus un dra all fall bremañ: en naon, en dour, o vezañ c'hoazh ezhomm mont d'al lec'h-dour, o c'hoanañ, tomm pe yen dija, skuizh, unan-bennak, spontet gant ar son pe gant ar c'halz. Degas a ra [Institut Nasional ar Kozhni (National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ar poanioù, ar son, an unaniezh, ar cheñchamantoù e reizh hag ar medisinoù e-touez abegoù ar c'hounaoueg.
 
-## What should I say when they ask to go home?
+## Petra a lavaran pa lavaront e fell dezho mont en-dro d'ti?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Respontit d'ar santad, ha n'ho peus ket da respont d'ar gerioù. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gendalc'h ne ranker ket klask lakaat an den da gredout e c'hall bezañ en-dro: he fromoù a zo gwir, neuze respontit gant ur c'homfort hag un asurañs da gentañ, ha goude kasit anezhañ da-fiskal.
 
-Phrases that often help:
+Frazennoù a zo alies talvoudus:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Anavezit ar santad.** "Un tamm a zo, emaoc'h o kaout c'hoant da vont en-dro d'ho ti."
+- **Asurit.** "Diogel e vez amañ, hag emaon o chom ganeoc'h." An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) a gynnig ar gerioù simpl "Diogel e vez amañ."
+- **Pedit d'ober kof.** "Lavarit din diwar-benn ho ti. Penaos e oa ho kegin?" Goulenn diwar-benn ar bed kent a zo alies gwelloc'h eget goulennoù diwar-benn an hiziv.
+- **Ober un dra asambles.** "Gwelomp ur mezad te a-raok," pe "Ha ne sikouromp ket din gant ar veilhoù-mañ?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Un ton tener ha ul lamm dorn war ar breac'h, ma'z eo plijet gantañ an tuchadenn, a c'hall lavarout muioc'h eget ar gerioù.
 
-## What should I avoid?
+## Petra a zlefe ober en desped?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Diskuizh pe esplikañ.** "Emaout o chom amañ bremañ" pe "Ar ti-mañ eo bet ho ti abaoe 40 bloaz" a bed anezhañ da asantiñ ouzh un dra a ra ar demañs da vezañ diaes d'ober, ha gallout a ra sentout evel lavarout deoc'h e kamm.
+- **Goulennadennoù.** "Ne gofiit ket?" pe "Peseurt chomlec'h eo?" a laka pouez.
+- **Serriñ an dor gant kounnar.** Ma vez tec'het, chomit kalm ha kerzhit ganti. Ur veaj berr asambles a laka alies ar c'hoant da badout.
+- **Prizañ.** Roit amzer dezhañ da gomzout diwar-benn ar ti a-raok cheñch an danvez.
 
-## Activities that can help in the moment
+## Obererezhioù a c'hall skoazellañ e-pad an hevelep mare
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Goude bezañ asantet ar santad, un obererezh kalm ha gouest a c'hall distreiñ an attachamant hep e zifennañ.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Sellet ouzh skeudennoù ar ti hag an tud.** Troit ar pajennoù ha lavarit traoù ("Sellit ouzh al liorzh-mañ") kentoc'h eget goulennañ. War un telefon pe ur tablez, [Photo pairs](/games/photo-pairs/) a droio skeudennoù ho familh da ur c'hoari parañ ter, hag ar skeudennoù a chom war ho trevnadenn.
+2. **Komzit diwar-benn ar ti.** [Conversation cards](/games/conversation-cards/) a ginnig goulennoù digor diwar-benn tiez, kegin, kostezoù ha goudoù, hep respontoù reizh.
+3. **Lakait ar sonerezh a garont.** An Institut Nasional ar Kozhni a rik ar sonerezh lenn e-touez an taolioù da lenañ ar c'hounaoueg. Sellit ouzh hor [skouerioù sonerezh](/activities/music/).
+4. **Un dafariad pe un dourad.** An naon hag an dour a c'hall sembl bezañ dizanv. Ur banne te pe ur bleustr a yao ivez evel ur fae bihan a vezañ en ti.
+5. **Mont en ur veaj pe chom en-dro.** Ar mouezhiadenn hag ar sklaerijenn a sikour, dreist-holl a-raok kreiz-deiz.
+6. **Ur labour a zo anavezet dezhañ.** Pliañ dilhad, rannañ al lanv pe dournañ al louzoù a c'hall digas en-dro ar santad bezañ o vaout ur ti.
+7. **Diskleriñ an dra.** Diffodañ ar skramm, diminuiñ ar son hag ar sklaerijenn, ha klaskit ur paouez [anal kalm](/games/calm-breathing/) asambles.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Ma ne zeu ket ur pezh d'ober, klaskit unan all diwezhatoc'h. Chom asambles en distaouenn a zo ivez un disoc'h mat.
 
-## Check for a cause you can fix
+## Gwiriit ur c'hontrol a c'hallfe reizhañ
 
-| Check | What to try |
+| Gwiriadenn | Petra a glaskit |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Naon pe dour | Proponit un dour ha ur bajenn vihan |
+| Ezhomm mont d'al lec'h-dour | Proponit mont d'al lec'h-dour, gant kalm ha hep bec'h |
+| Poan pe diaezamant | Sellit ouzh arwezioù evel dremmoù, deuziñ ur rann eus ar c'horf pe kempenn, ha lavarit d'o medisin |
+| Re domm pe re yen | Kemmit ur saez pe tomder ar gambr |
+| Son pe kalz tud | Mont en ur gambr dic'hallusoc'h, diffodañ ar skramm |
+| Skuizh pe re stlejet | Repaouiñ, lakaat ar sklaerijenn bouzar, sonerezh tener |
+| Diwezh an deiz | Sellit ouzh ar rann war ar sundowning a-is |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+An Alzheimer's Society a gynnig derc'hel un notenn berr eus pegoulz e c'houlenn an den, evel a-raok ar boued, goude gwelet tud, pe da goañv-deiz. Patromoù a laka hag a ra d'ober kentoc'h.
 
-## Is it okay to tell a white lie?
+## Ha mat eo lavarout ur gaozeadenn wenn?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Un dadl gwir eo, ha familhoù a zo a zo kalonekoc'h a zeu a-benn en disheñvel ferzhioù. An Alzheimer's Society a lavar n'eus ket ur respont reizh: gaozeadennoù nann a c'hall lakaat un tamm tud da vezañ fiziet, neuze diskouezit ar pezh a zo gwellañ evit buhez an den ha bezit padus. E Penn Memory Center, gwelet an daou gerc'hener eo ar wirionez an dra dre ziouer ha ne vez asantet ur gaozeadenn nann tener nemet pa n'hall ket an den prosesañ ur wirionez bennak, ha ne lavarit ket e vefe mac'h e wirioneged.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Meur a dud a gav ur hent-kreiz a zo mat: ur c'homfort onest hag un dreuzkas da gentañ ("Chom a raimp amañ abardaez, hag emaon amañ ganeoc'h"), hep dadal diwar-benn pelec'h ez eo ar ti.
 
-## What if it happens every afternoon or evening?
+## Ha petra a zlefe ober ma c'hoarvez bep fin-deiz pe bep abardaez?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Ar bec'h a gregi pe a waska diwezh an deiz a vez alies galvet sundowning. An [Institut Nasional ar Kozhni](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) a gynnig un deremmadur sioul, sklaerijenn an deiz hag oberiantizoù, nann a gousk diwezhatoc'h, ha nann a gafe pe alkol diwezh an deiz. Lakaat ar sklaerijenn da vont a-raok an noz a c'hall skoazellañ ivez. Sellit ouzh hor skrid war [oberiantizoù kalm diwezh an deiz](/caregiving/late-day-restlessness/) evit muioc'h a sedoù.
 
-## Keeping them safe if they try to leave
+## Derc'hel anezhañ diogel ma klask mont kuit
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Goulenn mont en-dro d'ti a c'hall kas d'ar c'herzh diouzhtu. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) a estim e c'hall c'hwec'h den ouzh deg a dud a vev gant demañs kerzhout da nebeut unwaith.
 
-**Prepare ahead:**
+**Prientiñ a-raok:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Ur brazelenn ID pe ur brazelenn yec'hedel gant hen anv ha da niverenn telefon, ha lizherennoù en dilhad. An [Institut Nasional ar Kozhni](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) a zegas evezh war MedicAlert ha programm Safe and Found an Alzheimer's Association, a c'hall kosta arc'hant.
+- Ur c'hlokerezh pe un alarm dor, ha serrerezhioù lakaet uhel pe izel. Na serrit ket an den en ur gambr en unan.
+- Ur skeudenn nevez tost, ha ul listenn a-zivout al lec'hioù a c'hallfe kerzhout enno, evel ur ti kozh pe al labourva.
+- Lavarit d'ho kestrezh tud a fiziañs, ha roit dezho ho niverenn.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ma vez kollet:** kregit da glask diouzhtu; an Alzheimer's Association a lavar ez eo kavet alies an dud a-benn 1,5 mildir. Ma n'ho peus ket kavet anezhañ en 15 munud, galvit 112 ha lavarit e vez demañs an den. Galvit 112 diouzhtu ma vez un den en arriskl.
 
-## When should I call a doctor?
+## Pegoulz e rankan galvout ar medisin?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Galvit o medisin buan ma kregi ar goulenn pe ar goulioù bennak en un taol, pe ma a waskoc'h gant an amzer dre an eurioù pe an devezhioù. An [Institut Nasional ar Kozhni](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a lavar e vez gwiriet diouzhtu ar c'hemmoù bras pe buan en ur bersonenn, dreist-holl goude un heñkodenn pe ur c'hemm medisin. Ar goulioù bennak en un taol a c'hall bezañ delirium, a lavar an [NHS](https://www.nhs.uk/symptoms/confusion/) ez eus ezhomm skoazell kentoc'h; an heñkodennoù dour a zo ur c'hraouenn boutin en tud kozh.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Skoazell a ra ivez menegiñ ur patrom a bad d'an degemer nesañ, rak poan, skouer izel, kousk fall pe efedoù ar medisinoù a c'hall bezañ e-barzh.

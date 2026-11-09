@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Arvezioù er-maez ha liester evit tud gant dementia"
+seoTitle: "Liester hag arvezioù er-maez evit dementia"
+description: "Ideoù liester ha dreist-tro evit tud o vevañ gant dementia, gant gwelyoù uhel, potoù ha tiliadoù surentez a-enep an tomder, an heol ha kuzh-kas."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Al liester hag an amzer e-maez a c'hall bezañ un obererezh kalm hag anavezet
+  evit an hini a zo o vevañ gant dementia. Klaskit dourañ, plantañ louzoù,
+  lemel bleunioù tremenet pe ur batad berr en ur porzh serret. Implijit gwelyoù
+  uhel pe ur taolenn evit na vo ket ret da zen gouriziñ, na vo ket binvioù
+  lemm hag louzoù fall, mont er-maez e-pad an eurioù fresk eus an deiz, hag
+  chom bepred gant an hini.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Tremenoù liester simpl evel dourañ, plantañ hadoù en potoù, flaired louzoù ha dastum bleunioù a c'hall bezañ graet o chom war-sav pe azezet."
+  - "Gwelyoù uhel, potoù ha ur taolenn kevelet a laka al liester da vezañ da uhelder ar gorf ha a laosk risk ar c'hoarzhadoù."
+  - "Distroit binvioù lemm, louzoù spilhennek pe reaktiñ, ha kement a zo kalz-gwenwin. Gwelit n'eo ket kemmesket an douar gant boued."
+  - "An tomder a c'hall bezañ dangerus evit tud kozh. Mont er-maez e-kerzh an deiz pe dre an nozvezh, degasit dour ha skeud, ha dont en-ti pa vez arwezioù a fred."
+  - "Kalz tud o vevañ gant dementia a vale a-benn un devezh pe zegouezh. Chomit gant an hini er-maez hag al lun ur sined nevez ha an ID ganeoc'h."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Pe obererezhioù liester a c'hall ober un den gant dementia?"
+    a: "Dourañ al louzoù, plantañ hadoù en potoù bihan, flaired ha liesañ louzoù, dilemel bleunioù tremenet, dastum legumaj, aozañ bleunioù tailhet hag ober ur bal war un hent a zo dibab mat. En ti, ur potig louzoù war ur prenestr pe ur bann douar war ur taolenn serret a zo mat. Dibabit an dra a ren hervez ar pezh a blije d'an hini kent hag a c'hall ober bremañ en un doare kysur."
+  - q: "Penaos mirout un den gant dementia a-enep an tomder?"
+    a: "Lakaat an amzer e-maez e-kerzh an deiz fresk, da viken, ha dont en-tu-hont ne vefe ket hir, ha kinnig dour alies. Dibabit ur skeud, ur chapelenn gant ur skouer ledan, dilhad tenn ha sklaer ha sunscreen. Tud kozh a zo dalc'het gwelloc'h a-enep salvedigezh an tomder, ha reizhadur, fentañ pe fazi a c'hall bezañ arwezioù kentoc'h. Ma weloc'h an arwezioù-se, dont en-ti da yenaat war-stroll."
+  - q: "Penaos mont er-maez mar eo tu d'ezhañ mont da goll?"
+    a: "Chomit gant an hini a-hed an amzer, implijit ur frank pe ur liester serret gant un urzh serret, ha lakait un arc'hant pe ur gartenn ID en he dorn. Kadwit ur sined nevez. Mar eo kollet an hini, Alzheimer's Association a lâr galvit an 112 mar n'eo ket kavet e-barzh 15 munud."
+  - q: "Petra ma n'hon eus liester ebet?"
+    a: "Un nebeud potoù war un porzh, ur gaotenn prenestr pe ur bann louzoù war an taolenn-boued a zo ret. Gallout a reer ivez mont da welet ur park, ul liester publik pe ul liester kumuniezh. Azezañ e-maez ha selaouiñ an eostoned a vez ivez un obererezh e-maez."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Evit kalz tud emañ al liester e-touez al lec'hioù anavezetañ ganto. Kloc'hañ, dourañ ha dastum bleunioù a implij tresoù bet desket abaoe pell, ha bezañ e-maez a ro awel fresk, sklêrijenn an heol ha kanaouenn al evned. An Institut Nasional ar Heneiz (NIA) a rollas evel obererezhioù a c'hall tud gant Alzheimer plijout ganto: ober gant al louzoù, plantañ bleunioù ha legumaj, ha [komz diwar-benn penaos e kresk al louzoù](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Ar bajenn-mañ a ziskouez petra da glask, penaos ober ar liester da vezañ aesoc'h da implij, ha penaos mirout surentez gant an tomder, an heol ha kerzhet diwar-gont.
 
-## What outdoor and gardening activities work well?
+## Petra a labour mat evit obererezhioù er-maez ha liester?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+An obererezhioù gwellañ a zo simpl, anavezet ha gallout a reer o chom war-sav pe azezet. Dibabit diwar an dra a blije d'an hini kent.
 
-### In the garden
+### En ul liester
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Dourañ.** Ur c'hanneg dour bihan ha skañv pe ur fri dour a zo dalc'het dre ziwar ha ur nebeud potoù a zo tost. Dourañ en deus un deroù klok ha ur fin klok ha n'eo ket diaes ober gantañ fall.
+2. **Plantañ hadoù en potoù.** Lâret a ra Alzheimer's Foundation of America e c'hall ar re a zo o plantañ hadoù en potoù bihan [gwelet anezho o kreskiñ](https://alzfdn.org/dementia-activity-gardening/). Hadoù bras evel ar fasol, ar blodenn-heol pe ar pesklen a zo aesoc'h da zourn.
+3. **Dilemel bleunioù tremenet.** Dilemel ar bleunioù tremenet dre zorn a zo ur gweledigezh deuz ur labour dous ha adober. Dibabit louzoù hep spilhennoù.
+4. **Dastum legumaj pe louzoù.** Tomatez bihan, fasol ha louzoù a zo aes da dastum ha plijus da zebriñ. Degasit anezho en-ti da implij d'al lounaer.
+5. **Flaired ha tañvaat louzoù.** Rosmarin, menta ha lavanda a zo gant ur c'hwerv kriz ha plijus. Frotit ur pazenn etre ho biz ha tremenit anezhi a-dreuz an trein.
+6. **Lemel un hent pe ur porzh.** Ur balenn skañv war ul lec'h plat ha sec'h, mar eo sur ar stlaboñ.
+7. **Leuniañ ur gwalenn evit ar bempoù.** Azezit goude asambl ha gwelit piv a zeu da welet.
 
-### Indoors, when going out is not possible
+### En ti, pa n'eo ket posupl mont er-maez
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Ul liester louzoù war ur prenestr**, gant basilik, persilh pe sivi.
+- **Plantañ war ur taolenn serret.** Lâret a ra an AFA e c'hall ober gant taolioù evel en ur stalioù-debriñ evit derc'hel an douar en ul lec'h, ha lakaat an douar gant potoù bihan.
+- **Aozañ bleunioù** gant bleunioù toull hag louzoù eus al liester pe eus ur stal-debriñ.
+- **Bleunioù lakaet en ur bajenn** eus ur bouked, ha goude e c'haller o lakaat war kartennoù. Gwelit [arzoù ha kenstrivañ](/activities/arts-and-crafts/) evit muioc'h.
+- **Ober sachedoù lavanda pe rozenn**, un idea all eus an AFA a zalc'h c'hwerv al liester en ti.
 
-### Getting out and about
+### Mont er-maez hag e-pad ar mare
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Ur batad berr** en-dro d'ar c'hornad, en ur park pe en ur gerdi-liester, gant ur vaz didrouz ha ul lec'h evit azezañ.
+- **Azezañ e-maez** war ur porzh pe ur bank evit selaouiñ an evned ha sentiñ an avel. Un obererezh klok ynvalidañ eo hennezh e-unan.
+- **Mont da welet ul liester publik** e-kerzh un eur didrouz. Lâret a ra an NHS e kaver lec'hioù gant liesterioù sensorel, gant louzoù c'hwerv, nerzhioù ha dourioù.
+- **Lakaat ar gwelioù da boueta pe gwelet an evned** e-kichen ul lenn, o chom pell diouzh an dour.
 
-## How do I make a garden easier to use?
+## Penaos ober ar liester da vezañ aesoc'h da implij?
 
-Bring the garden up to the person, not the other way around.
+Lakait al liester d'an hini, ne vefe ket d'ar c'hontrol.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Gwelyoù uhel pe potoù uhel** e-tro uhelder ar gorf, evit na vo ket ret gouriziñ na plegañ.
+- **Potoù war ur taolenn** a labour evit tud a implij ur gadeireoù-rod pe a gar azezañ.
+- **Hentoù ledan ha lakaet en-dro**, hep mein dislouet pe pibi o c'hoarvezañ dreist, evit lakaat ar c'hoarzhadoù da vezañ nebeutoc'h.
+- **Azezlec'hioù gant krogerezh ha skeud** en hent, evit ma vefe bepred ar gwele posupl.
+- **Ostilhoù gant dorn tev ha malus** a zo aes da zerc'hel. Heuilhit ar spiliadoù, an tailhoù ha kement a zo fin.
+- **Ul lec'h gant ur frank serret** e c'hall an hini ergerzhiñ dieub, o chom tost da-geñver.
 
-## Which plants should I avoid?
+## Pe louzoù a dlefe ober kuit ac'hanta?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Dibabit louzoù a c'hall bezañ touchet hep kemer kalz a berzh, ha dreist-holl a c'hall bezañ tastet hep danger. Lâret a ra an AFA e vefe gwelloc'h implijout louzoù n'ouzhont ket a vez an dienez ganto, gwiriañ alergioù, ha bezañ attentivus ouzh an hini a c'hall kemer an douar evit boued. Keleier surentez ar gêr an NIA a lâr e tlefe tennañ pe serriñ al louzoù gwenwinus.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Distroit ar rozennoù spilhennek, ar gaktuzennoù hag al louzoù a zo gant sav a glem ar c'hroc'hen.
+- Gwiriit kement a zo dezhañ, gant ur greizenn kontrol-gwenwin pe ul liester lec'hel, a-raok plantañ.
+- Ar blijadurioù anavezet a c'hall degas tennadoù plijus en-dro. Lâret a ra an AFA ez eus rozennoù ha kaktus Nedeleg evel skouerioù. Dibabit rummadoù hep spilhennoù.
+- Mirit an tenner, ar pezhioù-lazh ha lazhadur ar gwelioù en ul lec'h serret, ha n'implijit ket anezho en takadoù a c'hall an hini tizhout.
 
-## How do I stay safe in the heat and sun?
+## Penaos mirout surentez gant an tomder hag an heol?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Lakaat an amzer e-maez a-enep an amzer. Lâret a ra an NIA e vez tud kozh dalc'het gwelloc'h a-enep [an afleuriadur a-ziwar an tomder](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), abalamour ma sav ar c'horf gant ar c'hemmoù temperadur, ha ma zo evezh en medisinoù war an doare ma tremen ar c'horf an tomder.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Mont er-maez a-raok pe goude.** Chomit a-enep kreiz an deiz e miz tomm. Gwelit ar meneg a vez sentet, n'eo ket hepken an temperadur.
+- **Kinnig dour alies.** Na lezit ket an hini da lavarout e zo sec'hed warnañ. Chomit a-enep alkool hag evaj kaféino en tomder.
+- **Dilhadit mat.** Dilhad sklaer ha ledan, ur chapelenn gant ur skouer ledan ha spektolennoù heol.
+- **Implijit sunscreen.** Lâret a ra an NIA ez eus da gaout SPF 15 pe uheloc'h a c'hall gwareziñ a-enep an UV, ha da adlakaat dre an deiz.
+- **Dibabit ur skeud.** Lakait ar taolenn-plantañ dindan ur wezenn pe un umbrella.
+- **Dalc'hit berr.** Ur bloavezh berr e-maez a c'hall bezañ ret, dreist-holl en deizioù tomm.
+- **Gwelit an arwezioù kentoc'h.** Lâret a ra an NIA e c'hall bezañ poan-penn, fentañ, reizhadur pe fazi arwezioù a afleuriadur an tomder. Un den gant dementia a c'hall ne lavar ket dit ne vez ket mat outañ, neuze gwelit he fizh ha he emzalc'h. Dont en-ti, kreiñ gant dour ha ul lien fresk, ha kavout skoazell medisinel mar na wellaat ket buan. Ur fazi tomder kreñv, gant arwezioù evel kouezhañ, fentañ pe croc'hen sec'h ruz, zo ur gwall ret: galvit ar 112.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Ar yenijenn a bouez ivez. En-dro d'ar goañv, dalc'hit an amzer e-maez berr hag gwelit mat e vez tomm ha sec'h an divrec'h hag an dreid.
 
-## How do I handle wandering when we go outside?
+## Penaos merañ ar gerzh pa vezer e-maez?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Chomit gant an hini bep-tro ma vez er-maez. Lâret a ra Alzheimer's Association [e vez c'hwec'h tud en-dro-warn o vevañ gant dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) a gerzh dre nebeutañ an unan, ha kalz anezho a ra se muioc'h eget unan. Gallout a ra en ul lec'h bennak e-kerzh ar vuhezh.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Dalc'hit e-kont ar c'hennoù a zo e [keleier an NIA evit kerzhet ha koll an hent](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease):
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Lakaat an hini da wisket un ID pe ur gartenn medisinel gant e anv, e chomlec'h ha ho telefon, pe merkañ e zilhad.
+- Kadwit ur sined pe ur video nevez eus an hini.
+- Lâret d'ho kestizien e c'hall an hini kerzhet.
+- Serriñ ar porzh gant ur frank ha ur frank serret.
+- Na lezit ket un den gant istor kerzhadoù da chom hep an hini a ro evezh dezhañ.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Lâret a ra Alzheimer's Association ivez e tlefe krouiñ lec'hioù e-barzh ha e-maez a c'haller ergerzhiñ diarvar, ha kaout an obererezhioù pa vez an diskuiet ar muiañ. Ur batad e ul liester serret ha diarvar a c'hall klotañ mat gant an diskuiet a zo a-zivout an eur diwezhañ. Gwelit hon [keleier diwar-benn an diskuiet a-zivout an eur diwezhañ](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Mar eo kollet an hini, lâret a ra Alzheimer's Association e tlefe klask e-kichen a-stroll ha galvout an 112 mar n'eo ket kavet e-barzh 15 munud. Lavarit d'ar poliserien e vez dementia gant an hini.
 
-## How do I adapt gardening as things change?
+## Penaos addasiñ al liester pa vez kemmoù?
 
-| If this has become hard | Try this instead |
+| Ma'z eo bet diaes | Klaskit an dra-mañ en he flas |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Plantañ ur gwele a-bezh | Plantañ ur hadenn en ur pot |
+| Dilemel louzoù gwall (dismantrout ar gwall-louzoù diouzh ar re vat) | Dourañ, pe dilemel ar bleunioù tremenet a zo sklaer |
+| Kerzhet en liester | Azezañ en ur taolenn gant ur bann douar ha ul louzoù |
+| Mont er-maez a-bezh | Ur pot louzoù war an taolenn-boued, pe ur plasenn tost d'ur prenestr digor |
+| Ober un tra bennak | Azezañ e-maez asambl, selaouiñ ha gwelet |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Dibab an hini a fell dezhañ gwelet ho labour. Lâret a ra an NIA e c'hall bezañ mat lezel an hini da welet hepken ma'z eo se ar pezh a blij dezhañ.
 
-## When should we head inside?
+## Pryd e tlefe mont en-ti?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Dont en-ti pa vez an hini skuizh, tomm, oc'h, diskuiet pe prest da echuiñ. Ur zekvet berr, plijus, a zo gwelloc'h eget un eurvezh hir a zeu d'ober kaour. Chom kentoc'h a zo ur fin vat.
 
-## Bring the garden indoors on screen
+## Degas al liester war ar skramm
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+En deizioù glav, [Sort Together](/games/sort-together/) en deus ur c'hoc'h liester evit dilenn ar skeudennoù, ha [Conversation Cards](/games/conversation-cards/) a zo gant goulennoù digor a c'hall kas da gontadennoù diwar-benn al liester. Ma tiskenn en-ti gant ur fentañ, [Calm Breathing](/games/calm-breathing/) a ro ur pause lent ha tavut a c'hallit rannañ. Evit muioc'h a idoù boazet war an douch, an c'hwerv ha ar son, gwelit hon [keleier obererezhioù sensorel](/activities/sensory/).

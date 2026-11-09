@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Kevredigezh hag yec'hed ar spered: unanvezh ha demañs"
+seoTitle: "Unanvezh, dibab kevredigezh ha risk demañs"
+description: "Penaos e vez liammet an unanvezh hag ar dibab kevredigezh gant risk demañs, petra lavaras Surgeon General ar Stadoù-Unanet, ha lod a jedoù simpl evit derc'hel kevredigezh asambles."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Ar studioù a lak an dibab kevredigezh hag an unanvezh e-pad an oad da liammañ gant un risk uheloc a zemañs.
+  Komisiwn Lancet 2024 a varn e c'hallfe an dibab kevredigezh bezañ tu da zegas tost da 5% eus ar c'houlennoù, met
+  an darn vrasañ eus al liamm a c'hallfe bezañ demañs kentañ o tegas an hini a yeña da gilañ diouzh ar re all. Derc'hel
+  darempred, rannañ ur c'hoant boutin ha skoazell gant ar c'hlev a sikour ar gevredigezh. Evit an dud a vev gant demañs,
+  an oberiantizoù rannet a bouez evit al lodenn a laouenidigezh ha mado ar vuhez.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Komisiwn Lancet a rollas an dibab kevredigezh e-pad an oad evel unan eus 14 abeg riskus a c'hallfe bezañ kemmet a-enep demañs, tost da 5% eus ar c'houlennoù."
+  - "Lazhadeg 2023 Surgeon General ar Stadoù-Unanet a liammas an unanvezh padus hag an dibab gant ur risk tost da 50% uheloc a zemañs e-touez an dud kozh."
+  - "Dre vras, al lodenn vrasañ eus an disoc'hoù a zeu eus evezhiadennoù, ha demañs kentañ a c'hall ivez lakaat an dud da gilañ diouzh ar re all."
+  - "Kollet ar c'hleved hag ar gwelet, chom e-unan hag ar c'hiz a glevet a gresk ar risk eus an dibab."
+  - "Evit an dud a vev gant demañs, oberiantizoù laouen rannet a sikour mado ar vuhez; an dra pennañ eo ar darempred, n'eo ket an dibaboù."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Ha kaout unanvezh a gas demañs?"
+    a: "N'eo ket bet diskouezet c'hoazh. Kalz studioù a liamm an unanvezh hag an dibab gant ur risk uheloc a zemañs, met kemmoù kentañ en ene a c'hall ivez lakaat an dud da dennañ diwar-zu ar re all. Derc'hel darempred a zo mat evit ar c'hoarvezh hag ar yec'hed rak ar pezh a vez graet, ha dleout a reer ober anezhañ en ho c'hazh."
+  - q: "Petra eo an disheñvelder etre unanvezh ha dibab kevredigezh?"
+    a: "Dibab kevredigezh a dalv kaout nebeut a dud da zarempredañ gant ar re a vez. Unanvezh a zo ar santimant enoc'hus a vezañ e-unan pe disheñvelet. Gallout a rit chom e-unan hep bezañ unan, pe santout unanvezh e-kreiz ur bobl."
+  - q: "Penaos e c'hallan skoazellañ ma zad, pe ma mamm, a vev gant demañs da zerc'hel darempred?"
+    a: "An darempredoù berr ha rakgwelet a dalv gwelloc'h. Klaskit ur fonenn pe ur c'hi-vidiañ bep sizhun, un oberiant boutin war an taol-debriñ, ur c'hafe evit an dud a gollo ar c'hof, pe ur gweladenn gant ul loen pe ho bugale. Derc'hit ar strolladoù bihan ha tawel, ha lezit an den da reizhañ ar c'hemm."
+  - q: "Pe e kavfen skoazell lec'hel evit un den kozh dibab?"
+    a: "Klaskit gant ar servijoù publik lec'hel evit an dud kozh (ar c'hreizennoù kumun, ar c'hevredigezhioù evit an oad, ar gouarnamant lec'hel) a c'hall lakaat ac'hanoc'h e-kerzh ar programmoù ha ar skoazell d'ar veaj. Gallout a rit ivez goulenn gant ho meziner."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Krouet eo an dud evit bezañ asambles, ha ne chang ket an dra-se gant an oad. Ar studioù a liamm an unanvezh hag an dibab kevredigezh e-pad an oad gant ur risk uheloc a zemañs, ha gant ur risk uheloc a glefioù-kalon ha a yec'hed spered. Ar c'herzhded ne c'hall ket c'hoazh lâret pegement eus al liamm a zo abeg ha disoc'h. Bezañ a ra ebet e-kerzh ar bajenn-mañ an disoc'hoù a ziskouez an evezhiadennoù, al lakadennoù pleustr evit derc'hel kevredigezh, ha perak e talv ar c'hemmoù boutin ken bras evit an dud a vev dija gant demañs.
 
-## Are loneliness and isolation linked with dementia?
+## Ha unanvezh ha dibab a zo liammet gant demañs?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Ya, kalz studioù a liamm anezhe, met ne vez ket anavezet penaos e kendalc'h al liamm. [Komisiwn Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) a rollas an dibab kevredigezh e-pad an oad evel unan eus 14 abeg riskus a c'hallfe bezañ kemmet. [Diverradenn UCL eus an danevell](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) a lâr tost da 5% eus ar c'houlennoù demañs e-bed an hollad.
 
-What the evidence shows:
+Ar pezh a ziskouez an disoc'hoù:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Darempred dinerv, risk uheloc.** Komisiwn Lancet a zeskrив daou adwel a liamme ur darempred dinerotoc ouzh ur risk uheloc a zemañs. Unan a gavas tost da 57% a risk uheloc, hag egile tost da 18%.
+- **Unanvezh ivez.** Kavet e voe liammet an unanvezh, ar santimant bezañ dishual diouzh ar re all, gant ur risk uheloc a zemañs e-touez meur a adwel.
+- **Barn Surgeon General.** E miz Mae 2023 e rollas Surgeon General ar Stadoù-Unanet [un lazhadeg war an unanvezh hag an dibab](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Lâret a ra e c'hall an unanvezh padus hag an dibab kreskañ ar risk a zemañs tost da 50% e-touez an dud kozh. Liammet e voe ivez an darempred fall gant ur risk 29% uheloc a glefioù-kalon hag ur risk 32% uheloc a voullgoll.
+- **Penaos e vez kavet.** [Danevell an Akademioù Nationel](https://www.ncbi.nlm.nih.gov/books/NBK557972/) a gavas e vez dibab kevredigezh gant tost da 24% eus an dud a zo 65 vloaz pe hiroc'h e Stadoù-Unanet ha a chom en o zi.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Un diwallidigezh a bouez: Komisiwn Lancet a notenn e c'hall an dud dilezel gweredoù kevredigezh e-pad ar mare kentañ a zemañs, pa n'eo ket bet diskouezet c'hoazh. Setu e c'hall un darn eus al liamm bezañ demañs o tegas an dilezel, ha n'eo ket an dilezel hepken o tegas ar risk. Dre vras, eus evezhiadennoù e tont bron holl disoc'hoù an dra-se.
 
-## What is the difference between loneliness and isolation?
+## Peseurt disheñvelder zo etre unanvezh ha dibab?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Institut Nationel an Oad (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) a azasa an dra evel-henn. **Dibab kevredigezh** a dalv kaout nebeut a darempredoù, pe nebeut a dud da zarempredañ bep tro. **Unanvezh** a zo ar santimant enoc'hus a vezañ dishual pe dibarzh. Un den a c'hall chom e-unan gant laouenidigezh, ha ur re all a c'hall santout unanvezh e-kreiz un ti leun.
 
-The NIA lists factors that raise the risk of both:
+An NIA a rollas an abegoù a greskas ar risk eus an eil hag eus egile:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Kollet ar c'hleved pe ar gwelet
+- Diaes kerzhout, pe nann a gerc'hadur
+- Chom e-unan, pe ur c'hollad bras evel marv ar priedad pe an erlec'hiadur
+- Chañj e-pad ar c'hof pe ar soñj
+- Kargiñ gant unan kar a zo klañv
+- Poania arc'hant pe stankoù yez
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Ar c'hleved a zo dre-vras un abeg. Lâret a ra an NIA e c'hall an dud na glevont ket mat tennañ diwar-zu ar re all, rak ar gaozeadenn a vez diaes pe fazius. Hon [lenn ar c'hleved hag ar yec'hed ar spered](/brain-health/hearing/) a gav gwiriadennoù ar c'hleved ha skeudennoù-c'hlev a c'hallit prenañ hep resis.
 
-## Practical ways to stay connected
+## Penaos derc'hel kevredigezh
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+An NIA a ginnig meur a jedenn. Dibabit unan pe zaou a glot ganeoc'h:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Kemerit darempredoù boutin.** Un eur sañset bep deiz pe bep sizhun evit galvout, skrivañ pe kas ur c'harta d'ar familh, d'ar mignoned pe d'ar strollad amezeien.
+- **Implijit galvoù video pe kontrolloù-komzer.** Mar eo nevez an teknologiezh, meur a levraourezh kumun ha kreizenn kumun a ro klasoù. Gwelit [hon lenn galvoù telefon hag video](/activities/phone-and-video-calls/).
+- **Kemerit perzh en un dra bennak.** Ur c'hentel, ur strollad relijiel, ur strollad kerzhout pe un ober gwirvoluzh a ro darempredoù deoc'h hag un talvoudegezh.
+- **Adkavit un hobi kozh** pe deskit unan nevez gant tud all.
+- **Sevel gant tud all.** Gwelloc'h eo mont war-raok gant ur mignon pe ur strollad. [Hon lenn ober-gorf](/brain-health/exercise/) a zo e-barzh dibaboù laouen.
+- **Soñjit en ul loen** mar gellit bezañ evezh outañ.
+- **Implijit servijoù lec'hel.** Kreizennoù an oad, Kevredigezhioù an oad lec'hel hag ar Eldercare Locator a c'hall lakaat ac'hanoc'h war-du programmoù ha skoazell d'ar veaj.
 
-## Why do shared activities matter in dementia?
+## Perak e talv ar c'hemmoù boutin e-keit demañs?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Evit an hini a vev dija gant demañs, ar darempred a zo evit al laouenidigezh, an easted ha santout e vez kendalc'het, n'eo ket evit digreskañ ar risk. Komisiwn Lancet a lâr e sikour an oberiantizoù an dud gant demañs da zerc'hel al laouenidigezh hag ar pezh a dalv. [Kevredigezh Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) a notenn, en ouzhpenn da wellaat mado ar vuhez, e c'hall an oberiantizoù digreskañ kemmoù evel mont-tro pe enkrez. An [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a ouzhpenn e rankfe an dud gant Alzheimer bezañ aktivel ha ober an traoù a blij dezho.
 
-Ideas that work well:
+Jedennoù a zo mat:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Sellit ouzh skeudennoù asambles.** [Kartennoù ar gaozeadenn](/games/conversation-cards/) a ro lavarennoù digor, hep prof, evel "Lavarit din diwar-benn...". Gwelit [hon lenn adsoñj](/activities/reminiscence/).
+2. **Lakait ar c'hêr da c'hoari asambles.** [Kevrinioù skeudennoù](/games/picture-pairs/) a zal skeudennoù gwelus hag n'eus ni amzer ni points, neuze ne vez pwysi ebet. Hon lenn war [penaos c'hoari asambles](/caregiving/how-to-play-together/) a ro awennoù.
+3. **Implijit skeudennoù ho familh.** [Kevrinioù luc'hskeudennoù](/games/photo-pairs/) a droio ar skeudennoù a zibabit en ur c'hoari kevrinioù, ha chom a raio ar skeudennoù war ho dibaus.
+4. **Dastumit tud asambles.** [Bingo skeudennoù](/games/picture-bingo/) a azasa d'an emvodoù familh ha d'[ar strolladoù en ti-kar](/activities/care-home-groups/).
+5. **Rannit ar sonerezh, al labourioù pe al liorzh.** Gwelit [oberiantizoù sonerezh](/activities/music/), [labourioù ar ger](/activities/household-tasks/) ha hor roll klok a [sonjoù oberiantizoù](/activities/ideas/).
+6. **Gwellaat ar gweladennoù.** Hon [lenn war ar gweladennoù](/activities/visiting/) a zispleg gweladennoù berr ha tev a blij d'an holl.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Mirit ar pezh a zo bihan ha hep bec'h. Un ti tawel gant unan pe daou a dalv gwelloc'h matezh eget ur strollad bras. Mar skuiz an den pe mar koll an enor, mat eo sevel. Ober tea asambles a zo ivez un disoc'h vat.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Evit an hini a vev e-unan gant demañs, an NIA a gemm da gavout un den fiet a c'hall dont da welet pe da galvout dre video a-viskoazh ha bezañ ar re da gelaouiñ e kas a vrasañ. Notenn a ra ivez ur c'hafe evit an dud a gollo ar c'hof, ul lec'h kenvreuriezh tawel evit an dud gant koll ar c'hof hag o familhoù.
 
-## Caregivers get lonely too
+## Ar re a ro kalon d'an dud all a zo unan ivez
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+An NIA a rollas kargiñ gant ur c'harantez evel abeg da zibab kevredigezh. Mirit un tamm amzer evit ho mignoned, strolladoù skoazell ha repos. Hon [lenn war ar prederiezh evit ho c'hiz ho-unan](/caregiving/caregiver-self-care/) a ro jedennoù pleustr.
 
-## Talk with a doctor
+## Komzit gant ur meziner
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ma santit pe ma santer ar re a garit unanvezh pe dibab ar pezh a vrasañ a amzer, lavarit an dra-se d'ur meziner. An NIA a bousk an dud da zislavarañ kemmoù bras en o buhez, evel ur maro en ti, evit ma kompren ar meziner an holl. Santout tristoc'h dre sizhunioù a c'hall bezañ ur c'hleñved, ha gellout a rer he dizhout. Mar eo bet en ur c'hoazh ma'z eus unan kozh a oa aet da zibab diouzh mignoned pe diouzh oberiantizoù a blije dezhañ, hennezh a dle bezañ menegiet ivez d'ur meziner. Lennit [arwezioù kentañ ha pegoulz kaout ur meziner](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ar bajenn-mañ a zo titouroù hollek, n'eo ket kuzul medisinel. Gwelit [hon disklêriadur medisinel](/medical-disclaimer/).

@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Ur gerioù-deiz eeun evit tud gant an dementiezh"
+seoTitle: "Gerioù-deiz an dementiezh: ur skouer hegarat"
+description: "Un deiz-skouer hegarat evit an hini a vev gant an dementiezh, gant debriñ, labourioù ha poaniñ en un rummad stabil, ha penaos krouiñ ho frammoù ha degemer anezhe en deizioù kaletoc'h."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Ur gerioù-deiz eeun a dalv evit sevel, debriñ, soursted ha gwele en ur
+  wezh bennak bep a zeiz, a laka al labour pennañ pa vez an hini a zo a-enep
+  da vezañ hanter-sentus, ha a gempenn labour ha poaniñ. Krouit anezhañ diwar
+  doareoù bevañs an hini a zo bet a-viken, n'hoc'h ket anezhañ ledan a-walc'h
+  a-wechoù, ha kemmit ar frammoù a-vicher pa vez ret.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Amzerioù stabil evit sevel, debriñ, soursted ha gwele a ro ur stumm anavezet d'an deiz."
+  - "Lakit al labour pennañ e pred gwellañ an hini, alies er mintin."
+  - "Na lenwit ket pep munud. Poaniñ ha amzer a dawelder a zo tu eus ar gerioù-deiz."
+  - "Sklaer-heol, obererezh bep deiz hag en em denniñ dre-ziwezh ha dre-zivez, a c'hall skoazellañ gant ar c'hiriegezh diwezhat ar pemdeziek."
+  - "Ur gerioù-deiz a zo ur sturier, n'eo ket ul lezenn. Kemmit, berraat pe lezit kuit tra ebet en deizioù kaletoc'h."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Perak e tegas ur gerioù-deiz da dud gant an dementiezh?"
+    a: "Un deiz a c'hallit diouer a laka nebeutoc'h a zibaboù ha a zisterridigezhioù, ha kavet e vez gant kalz tud a vev gant an dementiezh eo un dra a gonforte. Notennet a ra Alzheimer's Association e lak un deiz kempennet ac'hanoc'h da gaout nebeutoc'h a amzer da soñjal petra ober, ha muioc'h a amzer evit an traoù a blij dezhañ ha dezhoc'h. Skoazell a ra ivez da glaskerien kempenn o deiz o-unan."
+  - q: "Petra eo ur gerioù-deiz vat evit an hini a vev gant an dementiezh?"
+    a: "N'eus ket ur gerioù-deiz reizh hepken. Ur re vat a laka sevel, debriñ ha gwele en un amzer nebeut-meur heñvel, a laka ar veajoù personel hag al labour pennañ pa vez an hini en e wellañ stad, a ro ur plij d'ober en-dro pe tost d'ur prenestr, hag a lez ur plas evit ar poaniñ. Savet e vez diwar penaos en deus bevet an hini a-viken."
+  - q: "Ha dle an hini a vev gant an dementiezh kousket en deiz?"
+    a: "Ur poaniñ berr a c'hall skoazellañ, dreist-holl goude debriñ de greisteiz. Lakaat a ra National Institute on Aging da ziskoulm kousket hir ha kousket a-ziwezh en deiz, rak ma vez an hini ankouaet pe kousket fall a c'hall ouzhpennañ ouzh ar c'hiriegezh diwezhat ar pemdeziek. Ma'z eo ar c'housk ur gudenn wir, kaozeit gant ho doktor."
+  - q: "Ha ma nac'h an hini da heuliñ ar gerioù-deiz?"
+    a: "Lezit kuit evit ar mare, klaskit adarre diwezhatoc'h pe en un doare all. Gwrac'hañ a c'hall tegas e vez skuizh an hini, klañv, poanius pe n'eo ket paret c'hoazh. Ar gerioù-deiz zo evit ma vo hegaratoc'h an deiz, neuze plegit anezhañ, na lakit ket ar pezh ne c'hall ket ar bed."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Ur gerioù-deiz eeun a ro ur stumm dare d'an deiz: sevel, debriñ, un dra bennak da labourat, poaniñ, ha kousket, a bep a zo en amzerioù heñvel. Ur stumm a lak nebeutoc'h a zibaboù hag a zisterridigezhioù, hag a ro un dorn-kein dielfennet evit ar mareoù ma vefe ret dezhoc'h soñjal petra a rankfe ober c'hoazh. Ar gerioù-deiz amañ a zo ur skouer, n'eo ket ul lezenn. Implijit anezhañ evel ur c'hentañ dra, ha stummit anezhañ diwar an hini a bourmenit.
 
-## Why does a daily routine help?
+## Perak e skoda ar gerioù-deiz?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Skoazellañ a ra ur gerioù-deiz stabil rak ar patromoù anavezet a zo aesoc'h da heuliñ eget re nevez. Lavaret a ra [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) e vez graet nebeutoc'h a amzer da soñjal petra ober ha muioc'h a amzer evit an obererezhioù a blij, hag notennet a ra e c'hall amzerioù bennak evit sevel ha kousket skoazellañ a-enep kudennoù kousk ha kiriegezh diwezhat ar pemdeziek. Lakaat a ra [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) e c'hall ar folc'hañ, ar gwiskañ ha debriñ en un amzer heñvel bep deiz kaout ac'hanoc'h ur ti kempenn, hag a-berzh ar [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ivez a argymell ober kement-se gant ar memes arferioù.
 
-## A sample gentle day
+## Un deiz-skouer hegarat
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Ne vez nemet skouerioù ar c'hizidi. Diskarzhit an deiz a-bezh a-raok pe a-ziwezhat evit heñvelaat ouzh rimm an hini.
 
-| Time | What happens | Ideas | On a harder day |
+| Eur | Petra a c'hoarvez | Soñjoù | Un deiz kalet |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Sevel, golchañ, gwisken | An heñvel urzh bep deiz; lakit an dillad en-dro d'an urzh m'int gwisket | Dalit ar prederioù simpl; ur chemiz nevez a zo a-walc'h |
+| 8:45 a.m. | Debriñ kentañ | Kafe ha kazetenn lennet gant ur vouezh, pe ar radio | Debrit asambles gant hiniennigezh, na vez ket goulennet kaozeal |
+| 9:30 a.m. | Labour pennañ | Plegañ dilhad, pobañ, labourat ar gwaregi, ur promenad berr pe ur baleadenn | Ur stumm berrañ, pe lezit anezhañ da welet ac'hanoc'h o ober |
+| 10:30 a.m. | Amzer a dawelder | Sonerezh, un albomenn luniau, pe azezadenn tost d'ur prenestr | Poaniñ en ur c'hador pennañ |
+| 11:00 a.m. | Skoazell evit debriñ de greisteiz | Golchañ legumaj, staliañ an daol | C'hwi a gouk; int a ra kompagnunezh deoc'h |
+| 12:00 a.m. | Debriñ de greisteiz ha rejañ | Sklaeriñ an daol, sec'hañ meur a blad | Tremenit ar chomlec'hioù |
+| 1:00 p.m. | Poaniñ berr | Troad war ur skabell, sonerezh vuan | Memes tra |
+| 2:00 p.m. | En-under pe bev | Promenad, amzer war an dorenn, dour d'al lujedoù, taoliñ ur balan | Azezit tost d'ur prenestr heol |
+| 3:00 p.m. | Kenglev pe krouiñ | Ur vizit, ur c'houlenn, [kublennoù luc'hskeudennoù](/games/picture-pairs/), livañ, kartoù | Un evaj hag un dorn-boued asambles |
+| 4:30 p.m. | Amzer da vourrañ | Serriñ al lenn, lakaat ar goulioù, un dra kalm evel plegañ lastezennoù | Sonerezh a anavezont, tro vuan |
+| 5:30 p.m. | Goañv | Skoazellañ da lakaat daou pe staliañ an daol | Boued simpl, anavezet |
+| 6:30 p.m. | Abadenn asambles | Kaozeal war ar pastell, kartoù, ur film a blij, ur massach dorn | Kompagnunezh bevet |
+| 8:00 p.m. | Kenskoazell gwele | Bagad pe golchadenn, dilhad-gwele, sonerezh vuan, goulioù izel | Berrait pep tra; ar confort a zo kentañ |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Heuliañ a ra ar skouer-mañ furm skouer-gerioù deiz Alzheimer's Association evit ar c'hamaradoù kentañ hag ar c'hanol, a dremen eus ar personelaj hag ar boued kentañ d'al labourioù, ar promenadoù, ar sonerezh, ar poaniñ hag ar weladennoù betek ar goañv, ar kaozeal war an amzer dremenet hag ar paratoadenn evit ar gwele.
 
-## How do you build your own routine?
+## Penaos krouiñ ho ker-deiz ho-unan?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Kregiñ a rit diwar penaos en deus bevet an hini a-viken, n'eo ket diwar ur sturier. Alzheimer's Association a bropoz ma soñjit a-raok ho steuziadenn e-keit-se:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ar pezh a blij dezhañ ha ar pezh n'eo ket.** An hini a sav abred hag a veze o vont gant ar c'hi a zo c'hoazh ganti mont abred. Un hini a labour di-noz n'en deus ket c'hoant da gommañ da 8 a.m.
+- **Penaos e tremene an deiz gwechall.** Ar pezh a bep a zo bet a-viken a c'hall bezañ kenderc'hel.
+- **Amzer ar wellañ.** Lakit ar molc'hañ, ar veajoù hag al labour pennañ en amzer-se.
+- **Amzer a-walc'h** evit debriñ, golchañ ha gwisken, evit na vez ket prizet hini.
+- **Amzerioù sevel ha gwele reizh.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Kinnig a ra an hini heñvel-se ivez kemmesk a labourioù an ti, a debriñ, a labourioù a c'hrouidigezh, a labourioù korf, a gompagnunezh, a obererezhioù spirit, hag a bennadoù dispar, evel ma tegas ur mignon en-tu.
 
-### Try it for a week, then adjust
+### Klaskit ur sizhun, neuze adaptit
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Mirit un notenn sempl bep deiz. Alzheimer's Association a bropoz goulenn pe obererezhioù a zo bet ar gwellañ ha perak, pe e oa amzerioù gant ur bern traoù pe gant netra da ober, ha ma oa ar plegadennoù dispar plijus pe ma oant kauzioù a enkrez. Mirit ar pezh a gerzh ha kemmit ar pezh ne gerzh ket.
 
-### Make it visible
+### Lakit anezhañ gwelus
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ma c'hall an hini lenn c'hoazh, ur bloavezenn gwenn pe ur c'harta gant ur skritur bras gant plan an deiz a c'hall bezañ ur fiñvadenn. Bezit berr: « Debriñ. Promenad gant Sarah. Debriñ de greisteiz. Poaniñ. » Un nebeud a zo gwelloc'h hep gouzout a-raok pell; Family Caregiver Alliance a bropoz na gaozit ket a-zivout ar plegadennoù betek ar mare m'int c'hoazh a-dostoc'h, ma'z int kaus a enkrez.
 
-## How to adapt the routine
+## Penaos adaptiñ ar gerioù-deiz
 
-### Leave room to breathe
+### Lezit ur plas evit anaval
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Na lenwit ket pep munud. Alzheimer's Association a lak un dra pouezus war an dra e vez ret d'an hini un dreuzvarn etre labour hag amzer a dawelder hag e c'hall bezañ ret dezhañ muioc'h a bauzioù. Ma seller outañ evel tenn, direizh pe fall, kemmit ar labour pe poaniñ.
 
-### Protect the late afternoon
+### Mirit an abadenn diwezhat
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Kalz tud a gav mui a aoun pa vez moan an heol. Lakaat a ra NIA da c'hortoz amzer a-zehou pe tost d'ur prenestr evit sklaer-heol bep deiz, bezañ bev bep deiz hep kemer re a bleustr, dilezel ar c'hafe ha an alkool diwezhat en deiz, ha ma'z eo ar c'housk hir diwezhat en deiz nac'het. Kavout a ra kalz familiennoù ivez e skoaz serriñ al lenn hag enlakaat ar goulioù a-raok ar noz. Gwelet [kiriegezh diwezhat ar pemdeziek](/caregiving/late-day-restlessness/) ha [kousk](/brain-health/sleep/).
 
-### Change it as needs change
+### Kemmit pa gemm ar pezhioù a vez ret
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Kentañ fazenn:** sevel ar gerioù-deiz asambles. Gallout a ra an hini c'hoant bezañ un amzeromm skrivet gant e zorn e-unan.
+- **Fazenn ar c'hreiz:** c'hwi a gas muioc'h. Obererezhioù berrañ, poaniñ muioc'h ha kalz labourioù anavezet; gwelet [obererezhioù ar fazenn-greiz](/activities/middle-stage/).
+- **Fazenn ziwezhañ:** ar gerioù-deiz a dro war ar confort, ar boued ha ar prederioù, gant momantoù berr a skiant evel sonerezh pe ur massach dorn etre-zoc'h; gwelet [obererezhioù ar fazenn ziwezhañ](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Kemmit an obererezhioù, nann ar frammoù
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Mirit debriñ, poaniñ ha kousk stabil, ha kemmit an obererezhioù a zo etre-zoc'h. Lakaat a ra [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) da glask obererezhioù disheñvel en deizioù disheñvel evit derc'hel traoù dudius. Gallout a rit pobañ d'al Lun, labourat ar gwaregi d'ar Meurzh ha sellet ouzh luniau d'ar Merc'her. Hor [101 idea obererezh](/activities/ideas/) ha [labourioù an ti](/activities/household-tasks/) a c'hall leuniañ al lejoù.
 
-## When the day goes sideways
+## Pa vez an deiz diaes
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Un nebeud deizioù ne heuliint plan ebet. Ur c'hlañvedigezh, un nozvezh fall, ur weladenn gant ar gwarizierez pe un cheñchamant amzer a c'hall lakaat an dra a-bezh a-gostez. Lezit kuit ar plan, mirit ar pezhioù diazez (boued, dour, poaniñ, confort) ha klaskit adarre war-lerc'h. Ma nac'h an hini eus un dra, gwelet [pa lavar re a-enep](/caregiving/when-they-say-no/). Ur pazenn anaoudegezh a-stroll asambles, evel [anaoudegezh kalm](/games/calm-breathing/), a c'hall skoazellañ ac'hanoc'h ­­­da adloc'hañ.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Pouezus eo ivez ho ker-deiz c'hwi-hunan. Lakit poanioù evidoc'h-hoc'h-unan ha goulennit ouzh kerent pe ur servij soulaj da gemer ho lec'h un tamm amzer bep sizhun. Gwelet [soursted ar c'hiriegerien](/caregiving/caregiver-self-care/).

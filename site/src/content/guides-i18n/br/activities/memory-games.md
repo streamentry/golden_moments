@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Jeuioù memor evit tud gant dementia: stummoù eeun"
+seoTitle: "Jeuioù memor gant dementia: ideoù eeun"
+description: "Jeuioù kevatal, skeudennoù ha kartoù evit tud kozh gant dementia, gant skeudennoù war-wel, nebeutoc'h a baraoù hag hep sonerezh."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Jeuioù memor evit tud kozh gant dementia a zo gwelloc'h pa ne dalc'hont ket war ar memor. Lakit ar skeudennoù war-wel, implijit pevar pe c'hwec'h kartenn, c'hoariit en ur skipailh ha laoskit ar sonerezh. Gwelet ur skeudenn zo aesoc'h eget kofiañ unan. Ar plijadur, ha n'eo ket un disoc'h, a zo an dra pennañ.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Ar jeuioù memor klasel a guz ar kartoù, ha se a brof ar pezh a zo diaes gant dementia. Lakit ar skeudennoù war-wel en o lec'h."
+  - "Nebeutoc'h a rannoù, skeudennoù brasoc'h ha ur dibab un eil wech ar wezh a jom ar c'hoari plijus."
+  - "C'hoariit en ur skipailh, kemmit an dro ha skoazellit. Den ebet na zlefe bezañ lakaet en ur plas enkrez."
+  - "N'eus bet diskouezet ebet ez a ur c'hoari memor da dretiñ, da zibrediñ pe da stankañ dementia. C'hoariit rak plijus eo un amzer kenhevredel gant ar re a garit."
+  - "Paouezit pa vez c'hoazh plijus. Komz diwar-benn ar skeudennoù a zo un disoc'h mat."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Petra eo ur c'hoari memor mat evit ur re gant dementia?"
+    a: "Ur c'hoari kevatal gant skeudennoù brasoc'h ha familiar, a c'hall chom war-wel, evel Paraoù skeudennoù gant pevar pe c'hwec'h kartenn. Kavout ar c'hefeleg ur skeudenn a welit a zo plijus hep ma vez testet ho memor berr. Kavout ar memes a zo c'hoazh aesoc'h, gant ur skeudenn da glotiñ eus daou pe pevar dibab."
+  - q: "Ar jeuioù memor a sikour an dementia?"
+    a: "N'eus bet diskouezet ebet ez a ur c'hoari memor da dretiñ, da zibrediñ pe da stankañ dementia. Ur sell Cochrane en deus kavet n'eo ket bet skoet kenañ an testenioù war ar c'henstriviñ kompiuterel evit lavarout hag-eñ e stankont dementia. Ar c'hoariioù a c'hall c'hoazh bezañ un doare tom da dremen an amzer asambles. Dibabit anezho evit al lipadenn hag ar c'hevredigezh."
+  - q: "Ha dleus c'hoari Concentration klasel gant an hini a zo gant dementia?"
+    a: "Da gentañ, un nebeud a blij c'hoazh ganto, dreist-holl gant nebeud a gartenn. Mar kaver abeg da gofiañ pelec'h emaint, lakit ar c'hartennoù war-wel hag en em gavit asambles da gavout ar paraoù. Se a vir ar c'hevatal hag a lamm ar prouv memor."
+  - q: "Petra eo jeuioù memor mat evit tud kozh en ur strollad?"
+    a: "Bingo ar skeudennoù gant unan a gemenn war ar skramm, lavarout e-kerzh ar pezhioù lavarioù familiar, ha kartennoù kaozeal a zo mat evit strolladoù. Lakit ar c'hoari betek ma vez leun pep kartenn, ha na lavarit ket piv a respontas, evit na vefe den dibarzhet."
+  - q: "Ez eus jeuioù memor dieub evit tud kozh en internet?"
+    a: "Ya. Ar jeuioù war al lec'hienn-mañ, Paraoù skeudennoù, Kavout ar memes, Paraoù foto ha Pezh-c'hoari skeudenn, a zo dieub, ne fell ket ur c'hont dezho, hag a labour war pellgomzerioù, tabletoù ha urzhiataerioù. Hini ebet n'en deus un amzeger pe ur sturnadenn."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Klaskit "jeuioù memor evit tud kozh" en ur moteled, hag e kavot an tra a vez kavet alies: kartennoù kuzh, amzeroù, pennadoù ha sammadoù. Evit an hini a vev gant dementia, ar c'hoarioù-se a droio ar c'hoari en ur prouv eus an dra a zo bet diaes dezhañ. Ar memes c'hoarioù a c'hall bezañ c'hoariet en un doare dousoc'h. Ar bajenn-mañ a ziskouez penaos ober, hag a rollo c'hoarioù a labour mat e pep kam.
 
-## Why do classic memory games frustrate people with dementia?
+## Perak e kas ar jeuioù memor klasel traoù fall d'an dud gant dementia?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Abalamour e reizh ar c'hoarioù-se da zal ur c'hodad nevez en e spered, an dra a gemm kentañ dre ar Alzheimer, an abeg boutin ar dementia. [Kevredigezh Alzheimer](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) a lavar ez eo an arwez kentañ boutin Alzheimer ar mankout a gof evit ar pezhioù nevez desket. En Concentration klasel, e troc'hit daou gartenn, e tegasit kof eus o lec'h, hag e implijit an titour ur minutenn goude. Se a zo un odeil nevez, miret ha kavet adarre.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Ouzhpenn, un amzeger, ur sturnadenn pe ur bozell evit ar fazioù a zo, ha ne vez ket lakaet ar c'hoarier en he blas. Un dra zo, pa vez kavet an hini ne c'hell ket ober, hag en diabarzh ur re a garit. Alies e chom an dud e-unan en ur mod didrouz gant ar c'hoari.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Gwelet ur pezh a welit zo ul labour all, ha peurliesañ aesoc'h. Plijus eo klask an eil teuzell pa vez an daou welet. Ar c'hiz eo derc'hel ar c'hevatal, ha lemel ar prouv memor.
 
-## How do you make a memory game gentle?
+## Penaos ober ur c'hoari memor dousoc'h?
 
-These adjustments work for card games, board games and games on a screen.
+Ar c'hemmoù-mañ a labour evit ar c'hoarioù kartenn, ar c'hoarioù taolenn hag ar c'hoarioù war ur skramm.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Lakit ar skeudennoù war-wel.** Kevatal skeudennoù a welit a zo c'hoazh ur c'hoari wir, ha alies un hini plijus.
+2. **Implijit nebeutoc'h a bezhioù.** Kregit gant daou pe dri pār. Ouzhpennit muioc'h nemet ma'z eo re aes ha ma fell dezho muioc'h.
+3. **Dibabit skeudennoù brasoc'h, familiar ha evit oberourien.** Ur gwaer-te, ur bleunienn-heol, ur voutailh. Ket skeudennoù bagouilhoù, ha ket sinennoù lusket.
+4. **C'hoariit en ur skipailh.** "Klaskomp ar c'hi" en lec'h "tro ac'hanoc'h". Kemmit an dro, diskouezit ha skoazellit.
+5. **Laoskit ar sammad.** Den ebet n'en deus ezhomm trec'hiñ. Ma c'houlenn an hini, ur "graet hon eus" a zo ret.
+6. **Na redit ket gant an amzeger.** Amzeroù ebet, ha ne vez ket prizet an dro etre an taolioù.
+7. **Komzit diwar-benn ar skeudennoù.** "Sellit ar voutailh-se. Ha bet oc'h war ar mor gant ur voutailh?" Ar gaozeadenn a zo alies an tra gwellañ.
+8. **Paouezit en ur poent vat.** Echuit ar c'hoari goude ur c'heñveriadenn, pa chom plijus c'hoazh.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Roet a ra [Institud Broadel an Henaj](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) an un spered evel kuzul hollek: kevatal an ober d'an hini a c'hall ober, evezhiit ar fiñvder ha lakit an hini da santout e c'hall ober gant ar pezh a ra.
 
-## Gentle memory and matching games to try
+## Jeuioù memor ha kevatal dousoc'h da glask
 
-### Picture pairs (matching with pictures showing)
+### Paraoù skeudennoù (kevatal gant skeudennoù war-wel)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Paraoù skeudennoù](/games/picture-pairs/) a zo ur c'hoari kevatal gant skeudennoù brasoc'h ha 4 da 12 kartenn. Gallout a reont chom war-wel, ha setu ez eo kavout ar paraoù, n'eo ket kofiañ pelec'h e oant. Kregit gant pevar kartenn. Evit an hini a zo en e gamm kentañ ha a fell dezhañ un tamm dreistoc'h, c'hallit mont d'ar **Skeudennoù kuzh**, met distroit d'ar skeudennoù war-wel ma vez diaes ouzhpenn.
 
-### Find the same
+### Kavout ar memes
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Kavout ar memes](/games/find-the-same/) a ziskouez ur skeudenn en he c'horn uhel ha daou pe bevar dibab dindan. Pignit war an hini a glot. Ar c'hoari eeunañ eo war al lec'hienn ha mat eo d'an dud a gav ur c'hradell leun re prin, en o zouez tud a zo e-touez ar gamm diwezhañ gant unan a sav kichen outo.
 
-### Photo pairs (family photo memory game)
+### Paraoù foto (c'hoari memor gant foto ar familh)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Paraoù foto](/games/photo-pairs/) a laka ar pezhioù foto a zibabit en ur c'hoari kevatal: ar c'hi, al liorzh, ti al lenn. An dud a welit ha lec'hioù familiar a zeuz alies ur gaozeadenn gwelloc'h eget skeudennoù stok. An skeudennoù a chom en ho merdeer ha n'int ket kaset en-dro ebet.
 
-### Sort together
+### Rummañ asambles
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Rummañ asambles](/games/sort-together/) a c'houlenn ac'hanoc'h lakaat pep skeudenn en ur bask a glot, evel ar gegin pe al liorzh. Rummañ a sav war an anaoudegezh hir-amzer eus penaos e vez an traoù, ha n'eo ket war ar memor berr.
 
-### Picture puzzle
+### Pezh-c'hoari skeudenn
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Pezh-c'hoari skeudenn](/games/picture-puzzle/) a dorr ur skeudenn e 4 pe 9 pezh. Pignit war daou bezh evit o c'heñgediñ betek ma vez ar skeudenn leun. Ar skeudenn klok a chom war-wel evel sikour.
 
-### Real cards on the table
+### Kartennoù gwir war an taol
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+N'eus ezhomm ebet eus ur skramm. Tennit paraoù kevatal eus daou baket kartennoù pe eus ur strollad kartennoù skeudennoù. Lakit anezho war-wel en daou renk, hag en em gavit asambles da gavout ar paraoù. Diwezhatoc'h, rummit anezho dre liv pe dre seurt. [Kevredigezh Alzheimer Amerika](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a enrollas ar c'hoarioù kartenn hag ar c'hoarioù taolenn e-touez an oberiantizoù evit ar gamm kentañ.
 
-## Which memory games suit each stage?
+## Pe jeuioù memor a glot gant pep gamm?
 
-Stages are loose labels. Go by what the person enjoys today.
+Hervez an dra a vez e stad an hini, e vez ar gamm ur seurt tro. Heuilhit ar pezh a blij dezhañ hiziv.
 
-| Stage | Games that often fit | How to set them up |
+| Gamm | Kemennadoù a glot alies | Penaos e vez lakaet e-barzh |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Kentañ | Paraoù skeudennoù, Paraoù foto, Pezh-c'hoari skeudenn gant 9 pezh, kartennoù familiar | Lakit anezhañ da zibab. Gallout a reer troadenn ouzh ar pezhioù mar plij dezhañ; laoskit ar sammad mar fell gantañ |
+| Etre | Paraoù skeudennoù gant 4 da 6 pezh war-wel, Kavout ar memes, Rummañ asambles | Skeudennoù bepred war-wel. Kit a-dreuz dezhañ ha kemmit an dro, skoazellit |
+| Diwezhañ | Kavout ar memes gant 2 dibab, sellet ouzh ur skeudenn brasoc'h asambles | Berr-tre. Dalc'hit ar tablez, hag an hini a bign pe a sell hag a glevo |
 
-## Do memory games help with dementia?
+## Ha skoazell a reont ar c'hoarioù memor ouzh an dementia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+N'eus bet diskouezet ebet ez a ur c'hoari memor da dretiñ, da zibrediñ pe da stankañ dementia. Ur [sell Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) war ar c'henstriviñ kompiuterel evit an dud gant ur gwall evezh ysgafn en deus kavet n'eo ket bet skoet kenañ an testenioù evit lavarout hag-eñ e stankont dementia. Hor c'hidenn war [c'hoarioù an oberiantiz ha dementia](/brain-health/brain-games/) a ziskouez ar pezh a ziskouez ar studioù ha ar pezh na ziskouez ket.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Se n'eo ket un abeg da zilezel ar c'hoarioù. [Kevredigezh Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) a gusul da sellet ouzh al lipadenn, n'eo ket ouzh ar gwellaat. Dek munud a skeudennoù da baraat ha komz diwar o fenn a c'hall bezañ ur rann gwir vat eus an deiz.
 
-## What about memory games for seniors without dementia?
+## Pe jeuioù memor a zo evit tud kozh hep dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Mar plij d'un oberour kozh hep kudennoù memor c'hoari gant amzeroù, sammadoù ha gradoù uheloc'h, n'eo ket fall. Met n'ho pezh ket fiañs e vo ur wir-gwarez a-enep dementia; ne vez ket diskouezet ez a ur c'hoari. Ar stummoù eeun a-us a labour mat ivez pa c'hoari ar re eus diferantiezhioù an oad asambles: ur c'hozh-tad gant dementia ha bugel yaouank a c'hall paraat skeudennoù en ur skipailh, hep ma vez testet an ul hini na re all.
 
-## When should you stop or change the game?
+## Pryd e tlefe paouezañ pe cheñch ar c'hoari?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Ur sispadenn, skubañ ar tablez kuit, lavarout "ne c'hallan ket ober kement-se" pe bezañ fiñv a zo ur sin evit lakaat anezhañ eeunoc'h pe paouezañ. Klaskit nebeutoc'h a bezhioù, lakit ar skeudennoù war-wel, troit da [Kavout ar memes](/games/find-the-same/), pe sellit nemet ouzh ar skeudennoù hag ober kaozeadenn. Mar na fell ket dezhañ c'hoari ebet, ne vern. Hor c'hidenn war [penaos c'hoari asambles](/caregiving/how-to-play-together/) a zo kalz a-ziwar-benn ar gwellañ kas an traoù ha skoazell.

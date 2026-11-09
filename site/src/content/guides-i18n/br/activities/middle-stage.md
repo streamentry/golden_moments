@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Stad kreiz an dementia a vez alies ar stad hiraña, hag e teu da vezañ ret skoazell gwir d'an oberiantizoù. Gerioù a zeu ken diaes, an urzhioù a vez kemmesket, ha kregiñ gant tra vennag a seblant diaes. Met ar fiñvoù da vezañ talvoudus hag en-keñver a zalc'h alies. Gant un dra bennak a stummañ, un den e stad kreiz a c'hall c'hoazh plijout a-walc'h, dreist-holl gant al labourioù anavezet, ar sonerezh hag al luniennoù graet asambles ac'hanoc'h.
 
-## What activities work well in middle-stage dementia?
+## Peseurt oberiantizoù a labour mat e stad kreiz an dementia?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Dibaboù berr, anavezet, dare-dorn ha rannet e stummoù dibar a labour gwelloc'h. Kevredigezh Alzheimer [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) a lavar ne rankit ket inventiñ traoù nevez: an oberiantizoù a c'hall bezañ ur pennad eus ar vuhezskol a-bep-devez, evel ober debriñ asambles, labourat al liorzh, selaouiñ sonerezh pe mont en-dro.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+Fondation Alzheimer Amerika [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a zisklêr ez eus alies en ar stad-mañ ur c'hoant kreñv da vezañ talvoudus pe da gofiñ ouzh un dra, hag ez eus ezhomm skoazell evit kregiñ pe kenderc'hel gant an oberiantizoù. Roll ar stad kreiz a sach e-barzh plegañ lerennoù, golchiñ ar platoù, rannañ ar sokennoù, gweladennoù anaoudegezh, dañsal gant sonerezh anavezet, mont en-dro gant guidañ, kanañ asambles, pentriñ simpl ha sellet ouzh albomoù luniennoù.
 
-## How do you set up an activity so it works?
+## Penaos e stummit un oberiant evit ma labour?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Ar pezh a bouez brasañ a zo ar stummañ. Ar gwiskadennoù-mañ, a zo tennet eus [Kevredigezh Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) hag eus [Kenstag an Dic'hirourien](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), a zo an disoc'h brasañ:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Lakait ar plas da vezañ glan.** Diffoñsit ar skramañ, serrit an dor ha lakit war-wel nemet ar pezh a zo ezhomm evit an oberiant.
+2. **Kregiñ ganeoc'h.** Kregiñ da blegañ pe da strinkañ ha pedit anezhañ da zont: "Ha c'hallfec'h skoazellañ ac'hanon?"
+3. **Diskouezit, neuze gortozit.** Diskouezit un step. Poentit pe gidit gant ho totenn, evel diskouez e-pleg ar blat.
+4. **Un step ur wech.** "Plegit en daou" a zo aesoc'h eget "plegit an holl hag astennit anezho dre liv".
+5. **Reizhit daou dibab, ha na goulennit ket digor.** "Ar tooloù glas pe ar re wenn?" a zo aesoc'h da respont eget "Petra a fell deoc'h ober?"
+6. **Ober ar pezh a zo kaletañ c'hwi-unan.** C'hwi a viez, ec'h ober ar strinkañ. C'hwi a dresk ar gwiñv, ec'h ober an hanter-bloaz.
+7. **Roit un abeg dezhañ.** "Ar napkins-mañ a zo evit debriñ Sul" a lak al labour da vezañ wir.
+8. **Lezit anezhañ da sellet mar fell dezhañ.** [Institut Nasional ar Heñvelder](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a lavar e c'hall bezañ plijus ivez sellet hepken.
 
-## Activity ideas for the middle stage
+## Ideoù oberiantizoù evit stad kreiz
 
-### Useful jobs
+### Labourioù talvoudus
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Plegit toalioù ha lodenn-golc'hiñ.** Traoù bihan ha plat a zo aesañ. Ur paner lodennoù-golc'hiñ tomm a c'hall bezañ pleget, lazhet ha adpleget.
+- **Pareañ sokennoù.** Kregiñ gant nebeud pareoù disheñvel. Rannañ dre liv hepken a zo mat ivez.
+- **Golchiñ pe sec'hiñ platoù diskar.** Dour tomm gant sós a zo plijus evit an daouarn. Sec'hiñ o chom azezet a zo aesoc'h evit ar gwaregennoù.
+- **Staliañ an daol.** Roit ur seurt tra ur wech, hag staliit ur plas ac'hanoc'h evel skouer.
+- **Skoazellañ evit debriñ.** Golchiñ patatez, ruilhañ salad pe lakaat ur bolzh da droiñ. C'hwi a zo a-du gant ar gontellou ha an tomder.
+- **Skubañ, lazhañ pe gwiskañ.** Ur stoup evit an daol, un eskob skañv evit ar porched.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Gwelit [labourioù ti](/activities/household-tasks/) evit kalz.
 
-### Music and movement
+### Sonerezh ha dizalc'h
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Kanañ ar re gozh anavezet.** Kregiñ da ganañ ac'hanoc'h; kalz a dud a dostaas gant ar c'hanaouennoù o deus anavezet abaoe pell. Gwelit [oberiantizoù sonerezh](/activities/music/).
+- **Dañsal dieub.** Pignat, skuilhañ pe fiñvañ evel a blij. A-azezet a zo mat ivez.
+- **Taolet ur balon.** Chom a ra gant ur c'hoari lent ha aes da zalc'hañ adalek ur seza.
+- **Mont en-dro gant guidañ.** Kerzhit ur chapell berr hag anavezet asambles, a-gevret doare ma skoazell.
 
-### Pictures and stories
+### Luniennoù ha istorioù
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Sellet ouzh un albom luniennoù.** Komz diwar-benn an dra a welit en-lec'h goulennoù: "Sellit ouzh ar c'harr-se. Lavarit din diwar he fenn." Gwelit [oberiantizoù kofiañ](/activities/reminiscence/).
+- **Implijit kartenn-gwir.** [Kartennoù-gwir](/games/conversation-cards/) a bar ul luniañ gant ur gemenn digor, hep kwiz.
+- **Gwelet ur film kozh asambles.** Dibabit unan anavezet, chomit tost hag arsav ur fazh evit paouez.
 
-### Simple, pressure-free games
+### C'hoarioù simpl, hep pouez
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Pareoù luniennoù gant al luniennoù da welet.** [Pareoù luniennoù](/games/picture-pairs/) a laka al luniennoù da chom gwelet, ken e tegouezh an dra da welet, ha n'eo ket da gofiañ.
+- **Kavit ar memes.** [Kavit ar memes](/games/find-the-same/) a ziskouez ul luniañ hag nemetañ daou pe pevar dibab.
+- **Rannañ asambles.** [Rannañ asambles](/games/sort-together/) a zo evel rannañ al lienerezh en ekran: pokit ul luniañ, ha neuze e voutin.
+- **Bingo gant luniennoù.** [Bingo gant luniennoù](/games/picture-bingo/) a labour mat evit emvodoù tiez ha strolladoù.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ma teu ur c'hoari da vezañ kas-nerzh, paouezit ha graet ur pezh all. Gwelit [penaos c'hoari asambles](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Troiñ an dizalc'h e oberiant
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Dizalc'h pe bezañ ouzh ober an hevelep tra a vez alies gant un abeg. Kenstag an Dic'hirourien a lavar e c'hall un den a zalc'h o vrasañ ur c'hloz a vez o vont e-kerzh ur sentidigezh bezañ dic'hoari ha talvoudus. Kevredigezh Alzheimer a ginnig troiñ an nerzh-se e oberiant heñvel, kentoc'h eget he stokañ.
 
-| What you see | Something to offer |
+| Petra a welit | Petra da ginnig |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Frotañ pe bigañ ouzh ur taol | Ur lien fresk ha goulenn dezhañ sec'hañ an daol |
+| Troadoù dizalc'h pe tapañ | Sonerezh gant ur rizh sklaer da dapañ pe da grediñ dezhi |
+| Diskarzhañ tiroerioù pe kloz | Ur paner dilhad pe lodennoù-golc'hiñ da blegañ ha da rannañ |
+| Goulenn an hevelep goulenn en-dro | Asur, ha neuze ur ganaouen pe ul labour da rannañ |
+| Kerzhat en-dro | Mont en-dro asambles, pe ul labour a gas traoù |
+| Digalonted diwezhatañ an deiz | Ul labour dinerv hag anavezet e sklêrijenn vat; gwelit [dizalc'h diwezhatañ an deiz](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Pegoulz paouezañ pe cheñch doare
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Paouezit pa welit arwezioù a skuizder, a nec'hder, a vezh bezañ mezh pe a dedennoù, evel tremen gant an daelioù, fronañ, pellaat traoù pe lavarout "ne c'hallan ket". Kevredigezh Alzheimer a ginnig klask en-dro dre ur prantad-deiz disheñvel pe gant an oberiant gwelloc'h aes. Arabat rediñ. Un nac'hadenn a c'hall dont eus ar spi pe eus ar pezh a zo re ziaes; gwelit [pa lavar nann](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Paouezañ a-raok a zo mat. Setu ivez azezañ asambles gant ur banne te. Pa vo an gallusted o tont da vezañ bihanoc'h, marteze e klotfe an dibaboù e [oberiantizoù diwezhañ ar vuhez](/activities/late-stage/) gwelloc'h, hag e kav [101 oberiant](/activities/ideas/) kalz muioc'h da glask.

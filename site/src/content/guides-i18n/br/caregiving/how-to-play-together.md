@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Penaos c'hoari gant unan a zo tapet gant an dementia"
+description: "Gidoù pleustr evit c'hoari gant unan a vev gant an dementia: staliañ, mirout ar mener, na reizhiñ ket ar fazioù, aesaat ar c'hoari hag anavezout pegoulz echuiñ."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Sellit ouzh ur c'hoari evel un amzer asambles, ha nann evel ur prouva.
+  Dibabit un eur bad hag a sav ar spered, azezit kichen-ha-kichen en ur gambr
+  hep bruched, ha kinnigit ur c'hoari simpl. Lakit an den da reiñ ar mener, na
+  reizhit ket ar fazioù didruez, aesaat ar c'hoari pa welit an droug kentañ, ha
+  troit ar skeudennoù e kaozeadenn. Echuit pa c'hoarvez c'hoazh mat. Echuiñ
+  abred, pe just sellet asambles, zo ur gwir disoc'h mat.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Ar pal eo plijadur ha kevelerezh, nann echuiñ pe gounit ar respontoù mat."
+  - "Staliit kentañ: gambr hep bruched, sklaerijenn vat, sprouzhoù ha skouarn-ouezh war-n-ho, TV diffoet, ur c'hoari prest."
+  - "Na reizhit ket ar fazioù didruez. Lavarit « Klaskomp an doare-mañ » pe kenderc'hit atav."
+  - "Aesaat ar c'hoari a-raok ma kreskfe ar riv: skeudennoù nebeutoc'h, dibaboù nebeutoc'h, skeudennoù da chom gwelus."
+  - "Implijit skeudennoù evel kregin evit istorioù gant « Lavarit din diwar-benn... » e-lec'h « Ho pefe soñj eus...? »"
+  - "Echuit p'hoarvez skuizder pe trubuilh. Echuiñ abred a zo ur gwir, n'eo ket ur fazi."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Peseurt hirder a rankomp c'hoari ur c'hoari?"
+    a: "N'eus hirder reizh ebet. Evit meur a zen, un nebeud munutenn a zo a-walc'h, ha deiz zo ur gwezh hepken a zo ret. Sellit ouzh an den hag ne sellit ket ouzh an eur, ha echuit p'hal c'hoazh a-walc'h o welet."
+  - q: "Dlefen lezel anezhañ da orin pe ober evel na welfen ket ar fazioù?"
+    a: "Er c'hoari boas, hep pres, n'eus netra da gaout pe da gollet. Ma n'eo ket trubuilhus an droug evit an den, lezit anezhañ. Ma ve trubuilhus evezhiañ, sikouritit en diskred pe aesaat ar c'hoari hep lakaat an droug war-wel."
+  - q: "Ha ma fell dezhañ gwelet ac'hanoc'h o c'hoari?"
+    a: "Mat eo. Ar National Institute on Aging a lak da soñj e c'hall un den nemetken gwelet, mar plij dezhañ gwelloc'h. Kaozeit diwar-benn an dra a welit ha pedit anezhañ da skeudenna pe dibab pa fell dezhañ."
+  - q: "Ha c'hoariioù-mañ a zo ur mod da brouiñ ar vemor?"
+    a: "Ket. Hor c'hoariioù a zo traoù simpl boas evit plijadur ha kaozeadennoù. N'int ket ur prouva memor, n'int ket evit mezuriñ netra, ha n'int ket ur remedi evit an dementia."
+  - q: "Peseurt c'hoari a zo gwelloc'h da gregiñ ganti?"
+    a: "Kregit gant an hini a zo simploc'h a glot gant an den. Pared skeudennoù gant pevar banne ha skeudennoù da chom gwelus, pe Kavout ar memes gant daou dibab, a zo deroù pleustr. Kartennoù kaozeadenn a glot mat ma plij dezhañ kaozeal kentoc'h eget stokal."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Ur c'hoari mat gant unan a vev gant an dementia n'eo ket ur strif. Ur pezh a welit a zo daou den azezet tost-tost, o tiskwel war skeudennoù, o rederiñ gant ur c'hontadenn, o kaozeal diwar-benn an dra a zeu d'ober. Ar c'hoari n'eo nemet un abeg da ober un amzer asambles.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ar c'hiz-mañ a ginnig penaos staliañ, penaos mirout ar mener, petra lavarout pa vez « fazi », penaos aesaat pe kreñvaat ur c'hoari, penaos troiñ anezhañ e kaozeadenn, ha penaos anavezout pegoulz echuiñ. Mont a ra gant hor [c'hoariioù](/games/) ha gant ar c'hoariioù all, kartoù, pozelloù ha c'hoariioù-taolenn, a zo dija en ho ti.
 
-## What is the best way to play a game with someone who has dementia?
+## Petra eo ar gwellañ mod da c'hoari gant unan a zo gant an dementia?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Lakit ho spered war al levr, n'eo ket war an disoc'h. Se eo ar gwir kuzul eus [gidoù Alzheimer's Association diwar-benn an obererezhioù](https://www.alz.org/help-support/caregiving/daily-care/activities): diazezit war an talvoudegezhioù a chom en den, skoazellit anezhañ da gregiñ, graet ar pennoù diaes ac'hanoc'h, ha na zegemerit ket ha na reizhit ket an obererezhioù didruez.
 
-In practice that means:
+En arvest, emañ an dra-mañ e-barzh:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Azezit tost dezhañ, n'eo ket a-gontrol.** Kichen-ha-kichen e c'hallit gwelet an skramm pe an taolenn ha skoazellañ a zeu da vezañ labour asambles, ha n'eo ket evel ur gwelet.
+- **Kinnigit ur c'hoari ur wech.** Ur menu a zibaboù a c'hall ober evel ur prouva a-raok ma kregfe netra.
+- **Heuilhit o c'hentelioù.** Ma fell dezhañ pouezañ war ar skeudennoù en o drefn e-unan, kaozeal diwar-benn ur skeudenn dek munutenn, pe chom a-benn daou dro, se eo ar c'hoari an deiz-mañ.
+- **Kontit ar pleustroù vat, n'eo ket ar c'hoari graet.** Ur fri, un istor pe un eur bad hanter-eur a zo ar pal a glaskit.
 
-## How do I set up before we start?
+## Penaos staliañ a-raok kregiñ?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Un nebeud munutenn a staliañ a zistro meur a drao a laka tud da reiñ ar blam d'ar c'hoari mem.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Dibabit an eur gwellañ en deiz.** Ar [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a argas planniñ ar c'hirri hag an obererezhioù d'an eur m'emañ an den en e stad gwellañ. Evit meur a zen, se a vez en kreiz-deiz. Ar fredenn a zo ordinal dreist a-wechoù; gwelit [obererezhioù distaol eus an fredenn](/caregiving/late-day-restlessness/).
+2. **Lakit ar gambr da vezañ hep bruched.** Diffoit an TV hag ar radio, ha serrit an nor ma c'hallit. Ar [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a argas lakaat bevennoù war ar son hag ar pezhioù a zister a-raok kaozeal.
+3. **Gwiriit ar c'hysur da gentañ.** Ur banne dour tost, ur gwelet ar prened a-raok, ur seder c'hysur, ha sprouzhoù ha skouarn-ouezh war-n-ho.
+4. **Sklaeraat ar gambr mat.** Sklaerijenn vat, glas ha hep glouarn war ar skramm a laka ar skeudennoù da vezañ aesoc'h da welet.
+5. **Lakit ar c'hoari prest a-raok azezañ.** Digorit anezhañ, diuzit an arventennoù hag arreit ar son ho-unan. Goude, troit ar skramm tuad outo.  Evit gourdrouzioù evit an tablez pe ar bellgomzer, gwelit [staliañ an tablez pe ar bellgomzer](/caregiving/tablets-and-screens/).
+6. **Stokit ar benveg.** Ur stal pe ur c'hoad a zalc'h an tablez a-sav a laka ne vo ket ret da zaouarn da zal ebet, hag e vo aesoc'h diskwel.
 
-## How do I invite them without pressure?
+## Penaos bouzelezh ac'hanoc'h evit kregiñ hep pres?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Lakit ar bedadenn da vezañ dishiañ ha da vezañ aes da zirollañ. Setu kelennoù a glot mat:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- « Kavet em eus skeudennoù gwer. Fellout a rafe deoc'h sellet outo asambles? »
+- « Ha skoazellit ac'hanon gant ar c'hoari-mañ? Azezet on ha n'ouian ket penaos mont en-dro. »
+- « Fellout a rafe deoc'h ar bleunioù pe al loenned an deiz-mañ? » (un dibab etre daou zo aesoc'h eget ur goulenn digor)
+- « Ur c'harta a rankan ober evit da c'hoar. Pe liv a rankfe bezañ ganti? »
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Ar Alzheimer's Association a argav lavarout d'an den pourquoi ar c'hoari, evel ober ur c'harta evit ur mignon, rak un abeg a ro ur ster d'ar c'hoari. Goulenn skoazell a zo mat c'hoazh, rak an den a santo ez eo talvoudus.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ma lavar an den « ket », degemerit. Klaskit adarre diwezhatoc'h pe proponit ur pezh all. Hor [gwiriad diwar-benn penaos ober pa lavar an den ket](/caregiving/when-they-say-no/) a ya pelloc'h.
 
-## How long should a game last, and how fast should we go?
+## Pegement a dle ur c'hoari padout, ha pegen buan e tlefe mont?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Lakit an den da reiñ ar mener, ha kemerit evezh ober sesionoù berr. N'eus ket a dreuzkaozioù stank evit an hirder gwellañ evit ur c'hoari boas. Daou pe pemp munutenn a dawel a c'hall bezañ un obererezh a-bezh.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Gortozit un tamm hiroc'h eget ar pezh a zo naturel.** Ar NIA a lavar lakaat muioc'h a amzer evit ma respont an den hag evit na zistroc'h ket ganti. Kontit betek dek e-barzh ho penn a-raok skoazellañ.
+- **Unan ha unan.** Roit un instruktion simpl hag berr (« Stokit ur skeudenn »), ha goortozit. Diskouezit, n'eo ket ret displegañ: pouezit war al lec'h da stokañ.
+- **Pausennoù a-zoare.** Ma sav an den evit kaozeal diwar-benn ur skeudenn, ar c'hoari a c'hall gortoz. Ne rankit ket prizañ.
+- **Lezit anezhañ da sellet.** Ar NIA a notenn e fell da zoare tud sellet, ha se a zo un dibab talvoudus.
 
-## Should I correct wrong answers?
+## Ha dleen reizhiñ ar fazioù?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ket. Reizhiñ ar fazioù a-nevez ha no a-nevez a lak an den da soñjal e vez fazielet, hag a-hend-all e kredit e reiñ skoazell dezhañ. Ar Alzheimer's Association a argav na reizhit ket an obererezhioù didruez. Er c'hoari, gwall vezh ur fazi n'eo nemet didruez.
 
-| Instead of | Try |
+| Dre-se | Klaskit |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| « Nann, se a zo fall. » | « Klaskomp an doare-mañ. » (ur skouer a ro ar NIA) |
+| « N'eo ket a glot. Sellit c'hoazh. » | Na lavarit netra ha kemerit an tro war-lerc'h, pe « Oh, daou eo ruz an dviz. » |
+| « Ouzout a rit piv eo an hini-mañ? » | « Lavarit din diwar-benn ar skeudenn-mañ. » |
+| « Graet hoc'h eus an hini-mañ c'hoazh. » | « Ur mat eo. Ni a arall. » |
+| « Deuit, gouzout a rit an dra-mañ. » | « Fellout a rafe deoc'h e welfen fin ar c'hoari? » |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Ma kraou ur fazi an den dre fikadur, skoazellit en diskred. Lakit ar skeudenn reizh war-wel, kemerit an tro ho-unan, pe aesaat ar c'hoari evit an tro war-lerc'h. Ma eo ur saozenn gant un fin fentus, rit gant an den. Hir eo e c'hallfe bezañ gwelloc'h.
 
-## How do I make a game easier or harder?
+## Penaos aesaat pe kreñvaat ur c'hoari?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Azasit ar c'hoari d'an den d'an deiz, ha n'eo ket d'ur sadon. An hini zo ar memes a c'hallfe bezañ ur stumm simploc'h gant an noz eget a-vigoù. Kentañ a-bazh ar NIA a zo kavout an obererezh a glot gant ar pezh a c'hall an den ober, ha gwiriañ e santo bezañ kavet gant ar pleustr.
 
-| Game | Make it easier | Make it a little harder |
+| C'hoari | Aesaat | Kreñvaat un tamm |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Pared skeudennoù](/games/picture-pairs/) | Kregit gant 4 skeudenn ha lakit ar skeudennoù da chom gwelus | Muioc'h a skeudennoù, pe kuzhat ar skeudennoù ma'z eo c'hoant dezhañ |
+| [Kavout ar memes](/games/find-the-same/) | 2 dibab | Betek 4 dibab |
+| [Renkañ asambles](/games/sort-together/) | Deoc'h int an skeudenn, hi a ziskouez ar basenn | Stokañ an daou, skeudenn ha basenn, dre o-unan |
+| [Enigma skeudenn](/games/picture-puzzle/) | 4 tamm, kaozeal diwar-benn ar skeudenn a-bezh da gentañ | 9 tamm |
+| [Echuiñ al lavar](/games/finish-the-saying/) | Diskouezit fin al lavar, ha lavarit anezhi asambles | Lezit anezhañ da lavarout fin al lavar a-raok stokañ |
+| [Klask ar gerioù](/games/word-search/) | Imprimit anezhañ, klaskit ur ger asambles, pouezit war e lizherenn kentañ | Lezit anezhañ da zibab ar ger war-lerc'h da glask |
+| [Liverezh](/games/coloring/) | Dibabit daou liv, hi a zibab etre-ze | Dibabit an holl livioù gant an den |
+| [Kartennoù kaozeadenn](/games/conversation-cards/) | Sellet ouzh ar skeudenn asambles hepken | Implijit ar c'heñver digor war ar c'harta |
+| [Pared lud](/games/photo-pairs/) | Un nebeud luc'hskeudennoù eus ar familh a blij dezhañ | Ouzhpennañ muioc'h a luc'hskeudennoù |
+| [Bingo skeudennoù](/games/picture-bingo/) | Un harper a azez gant pep c'hoarier | Ar c'hoarierien a laka o marc'hoù war o c'hartoù |
+| [Anaoudegezh bevaus](/games/calm-breathing/) | Azezit ha sellit ouzh an dra asambles | Anaeañ war-lerc'h, gant ur bazh |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Arwezioù ez eo ar c'hoari re galet: sioulded hir a zo gwelet gant an tenn, n'eo ket dre soñjal, lavarioù ripetet « n'hallan ket », stlejañ ar benveg kuit, pe fazioù a ra d'ezho droug. Arwezioù ez eo re aes: fal, pe lavarout e zo bugale. Ma c'hoarvez se, degemerit ha troit d'un dra a sell ouzhpenn gant ur bennad ger, ur pozell ur skeudenn wir, pe kaozeal diwar-benn ur skeudenn eus an labour a rae en amzer dremenet.
 
-## How do I turn a game into a conversation?
+## Penaos troiñ ur c'hoari e kaozeadenn?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Implijit pep skeudenn evel ur bedadenn da gaozeal, ha kemerit an dra a lavar an den evel ur respont mat. Evit meur a familh, se eo ar pezh gwellañ eus ar c'hoari.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Goulennit kestioù digor, n'eus fazi ebet.** « Petra welit? » « Piv a blij dit? » « Lavarit din diwar-benn ur gegin evel-hont. »
+- **Kontit ho istor da gentañ.** « Ma mamm-gozh en doa ur c'hi evel-hont. » Ho istor a laka mat dezhañ kontañ unan ganti.
+- **Heuilhit an troadenn.** Ma kas ur skeudenn ur c'harr d'un istor eus ur veach, an istor a zo an obererezh. Lezit ar c'hoari dor.
+- **Na zeskit ket ar wirioù.** E reminiscence, ar pal eo ur gaozeadenn blijus, muioc'h eget ar munudoù reizh. Ma kemm an istor eus an taol diwezhañ, plijit gant ar stumm nevez.
+- **Implijit ar prennadennoù a zo enno.** [Echuiñ al lavar](/games/finish-the-saying/) a heul pep lavar gant ur prennadenn kaozeal, ha [Kartennoù kaozeadenn](/games/conversation-cards/) a zo bet savet evit ar pezh-mañ. [Pared lud](/games/photo-pairs/) a implij ho luc'hskeudennoù familh, ha se a zeu alies da bignat istorioù a zo ar pinvidikañ.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Muioc'h a sonjoù zo en hor c'helenn [obererezhioù reminiscence](/activities/reminiscence/) hag en [awennadoù kaozeal](/caregiving/communication-tips/).
 
-## When should we stop?
+## Pegoulz e tlefe echuiñ?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Echuit pa welit an arwezioù kentañ a skuizder pe a dristidigezh, ha dreist-holl ur sed a-raok. Ar Alzheimer's Association a argav echuiñ pe cheñch an obererezh pa vez aezhet an attention pe pa greskfe ar frustradur.
 
-Watch for:
+Gwelit:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- bouc'hiñ, kouezhañ war-gil pe lazhet al lagad diouzh an skramm;
+- diaes, sevel, pe goulenn mont kuit;
+- huanadennoù, respontoù berr, pe « n'on ket mat er c'hoari-mañ »;
+- stokañ hap pe stlejañ ar benveg kuit;
+- deraouiñ, kounnarzh, pe kemm bras en he c'hiz.
 
-How to stop well:
+Penaos echuiñ mat:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Echuit gant un dra hegarat.** Un dra a c'hall ober hep pres, pe ur skeudenn ma c'hallit admirout.
+- **Lakit anezhañ war ho menoz.** « Un tamm te a rafe mat din. Echuiñ aman? » a zeu a-enep pep arvest e kaozeadenn a ziwar ar fazi.
+- **Dont da ur ober korfel pe lenus.** Ur veaj berr, ur bred, diplegañ dilhad, pe sonerezh.
+- **Lavarit un dra tener.** « Plijet em eus bezañ gant ac'hanoc'h. » N'eus ket a veuleziñ evit bezañ « gwelloc'h gwellet », nemet ar plijadur eus an amzer asambles.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Echuiñ abred, cheñch ar c'hiz, pe lezel ar c'hoari hag azezañ asambles a zo holl disoc'hioù mat.
 
-## Can we play in a group or over a video call?
+## Hag hon eus ur c'hoari war ur strollad pe dre ur c'halvoud video?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ya, gant ur staliadur bennak e-touez. Gant ur strollad, derc'hit anezhañ gant un nebeud tud, azezit harperien kichen ouzh ar re a bezh ret dezho, ha dibabit ur c'hoari gant ur pal boas. [Bingo skeudennoù](/games/picture-bingo/) en deus kartoù da imprimiñ hag ur galver war ar skramm evit ar strolladoù. Gwelit [obererezhioù evit strolladoù en ostalaj kaozioù](/activities/care-home-groups/) evit muioc'h.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Dre ur galv video, an den a zo war al lenn a c'hall deskrivañ ur skeudenn tra ma stok unan en ti ha tap. Derc'hit ar galvoù berr ha familhek. Hor c'helenn diwar-benn [galvoù bellgomz ha video](/activities/phone-and-video-calls/) a zo muioc'h a gunuzioù.
 
-## What if a game just isn't working?
+## Petra ober ma ne chom ket ar c'hoari?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Deiziou zo ne dalv netra, ha n'eo ket ur gwel diwar-benn ac'hanoc'h na diwar-benn an den. Lakit ar c'hoari da gostez ha klaskit un eur all, ur c'hoari all, pe netra. Meur a obererezh vat n'en deus netra da welet gant ar skramm: sonerezh, pleustrañ liez, sellet ouzh un albom luc'hskeudennoù, pe ur veaj berr. Gwelit hor [gwiriadoù diwar-benn an obererezhioù](/activities/ideas/) evit muioc'h.

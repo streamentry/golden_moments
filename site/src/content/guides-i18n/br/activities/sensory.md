@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Obererezhioù sensorial evit tud gant demañs"
+seoTitle: "Obererezhioù sensorial demañs: Ideoù ha diogelroez"
+description: "Obererezhioù sensorial evit tud gant demañs: masaj an daouarn, korbelloù stoff, sonioù natur, ha notennoù diogelroez evit tagadenn ha alergiezh."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Obererezhioù sensorial a implij ar pemp sentad: tañva, c'hwezh, blaz, son ha
+  gwel. Ur masaj daouarn mall, ur gorbell stoff, leuziadennoù frest da
+  c'hwezhiañ, sonioù natur pe evezhiañ ar binioned o tremen dre ar prenestr.
+  Mat int evit an holl stadoù, ha dreist-holl diwezhatoc'h. Gwiriit a-raok
+  ar riskoù tagadenn, an alergiezhioù, kudennoù ar c'hroc'hen ha sensitivelezh
+  d'ar c'hwezh, proponit unan dre unan, ha paouezit mar welit ez eus enkrez
+  ouzh an den.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Obererezhioù sensorial n'o deus ket respontoù reizh ebet, a laka ez labourint e pep stad, ha dreist-holl en gwele pe war ur c'hador."
+  - "Proponit ur sentad dre unan en ur c'hambr sioul, ha goulennit pe kemennit a-raok merzout."
+  - "Dizoloit an traoù bihan ha tra a zo heñvel ouzh boued hep bezañ, rak an dud a c'hall lakaat traoù en o genoù."
+  - "Gwiriit alergiezhioù, kudennoù ar c'hroc'hen ha kudennoù anaoudegezh a-raok implij kreionioù, leuziadennoù pe boued."
+  - "N'eus ket a bruderezh kredus e skoazell an aromaterapiezh evit arwezioù an demañs; implijit c'hwezhioù nemet evit plijadur simpl, ma'z eo ret."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Petra eo obererezhioù sensorial mat evit unan gant demañs?"
+    a: "Ideoù simpl eo masaj mall an daouarn gant kreion, implij stoffoù bolc'h, c'hwezhiañ leuziadennoù frest pe kafe, selaouiñ ar sonioù pe ar sonioù natur a blij d'an den, evezhiañ evned pe ur votoù-pesked, ha tastaouiñ un dra karet en ur stlenn diogel. Proponit unan dre unan ha gwelit penaos e respont an den."
+  - q: "Ha diogel eo an obererezhioù sensorial evit unan a laka traoù en e c'henoù?"
+    a: "Gallout a reont, gant soursi. Implijit nemet traoù bras na c'hallont ket bezañ lounket, dizoloit tout tra bihan pe bec'hus, hag mirit ar c'hreonioù, ar soavoù hag ar produioù leuziet pell diouzh an dorn goude, rak a c'hall bezañ heñvel ouzh boued pe bezañ c'hwezh boued. Chomit gant an den en amzer a-bezh."
+  - q: "Ha skoazell a ra an aromaterapiezh d'an demañs?"
+    a: "Ur sellad Cochrane n'en deus kavet ebet a bruderezh kredus e skoazell an aromaterapiezh evit tud gant demañs, daoust ma oa ar studioù bihan ha diheñvel. Ma plij d'an den ur c'hwezh yenañ ha anaoudek, mat eo, met dizoloit ar en-olioù kreñv, dreist-holl pa'z eus kudennoù anal pe alergiezh."
+  - q: "Petra eo ur 'fidget apron' pe ur c'horf obererezh?"
+    a: "Ur pezh stoff eo, ur c'hrec'hell pe ur blankedenn gouliet, gant traoù da zaouarn bastet startik warnañ, evel botoù bras, skeudennoù, ribenn ha plegadennoù gwiniz. Roit d'an daouarn bevaet un dra da zerc'hel warnañ. Gwiriit alies ma n'eus netra dic'hlu a c'hallfe bezañ dilamet."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Obererezhioù sensorial a implij ar pemp sentad: tañva, c'hwezh, blaz, son ha gwel. N'o deus ket cheñchamant eus ar memor, ne gavont ket ar pazennoù ha n'eus respont reizh ebet ennañ, setu ez int mat e pep stad. Ar pezh a bouez brasañ eo diwezhatoc'h. Dre ar [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) e welomp e stad diwezhat ar bed a vez kemeret dreist-holl dre ar sentadoù, ha ma c'hallit diskouez ho kenderc'hel dre dañva, son, gwel, blaz ha c'hwezh. Un nebeud gwiriadennoù diogelroez a laka an obererezhioù-mañ da vezañ lorc'hus evit an holl.
 
-## What are sensory activities for dementia?
+## Petra eo an obererezhioù sensorial evit an demañs?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Obererezhioù sensorial eo traoù simpl en-dro d'ur sentad dre unan, evel tañva ar stoff, c'hwezhiañ leuziadennoù pe selaouiñ ar glav. Lâret a ra an [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e vez ret alies kreizennaat an obererezhioù stad diwezhat war ar sentadoù, ha meneg a reer ennañ ar sonerezh, an traoù da dañva ha da zalc'hiñ, hag ar masaj an daouarn. Dre [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e teu da vezañ notennet e c'hall ar re a zo en stad diwezhat bezañ en ur gefiañs kreñv da zerc'hel un dra tost d'ar c'horf evit kaout confort.
 
-## Sensory ideas, sense by sense
+## Ideoù sensorial, sentad dre sentad
 
-### Touch
+### Tañva
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Masaj an daouarn.** Tomañ ur sav kreion etre ho daouarn ha stlejañ mall eus an arn-dorn betek blegennoù ar bizied. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) a verk masaj gant kreion hep c'hwezh evit ar confort.
+- **Gorbell stoff.** Karrezennoù bras a veloù, korduroy, fleece, satin ha gwlan da stlejañ, plegañ ha komz diwar-benn.
+- **Lien tomm.** Ur sachad lien tomm, dourek, evit an daouarn un devezh yen. Testit an tomder war ho arn-dorn da gentañ.
+- **Krec'hell pe blankedenn obererezh.** Botoù bras, skeudennoù, ribenn ha plegadennoù gwiniz warno, startik bastet.
+- **Plegañ ha lakaat en-unvan.** Ur sachad lien glan pe liveri da blegañ, stokañ ha plegañ en-dro.
+- **Un dra mell da zerc'hel.** Ur blankedenn fleece, ur c'houssin pe ur loen mell evel-just, proponet dre fazi, n'eo ket evel ur c'hoari.
 
-### Smell
+### C'hwezh
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Leuziadennoù frest.** Frotit mentez, rosmarin, basilik pe lavanndr etre ho biz hag hastit anezho tro-dro.
+- **C'hwezhioù ar gegin.** Kafe o vrouenn, bara o rostañ, kanell pe ur c'houlzhenn o vezañ diskoulmet e-tro.
+- **Bleunioù.** Degasit un nebeud bleunioù frest eus al liorzh pe eus ar marc'hadour.
+- **Ul lestr anaoudek.** Ar sav pe ar c'helc'h a implijent atav, ma c'hall o c'hroc'hen degemer anezho.
 
-### Taste
+### Blaz
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Ur blaz karet.** Ur gerrig stlenn eus un dra a garont, evel sos aval, pouding pe kreizhig, en ur stummad a c'hallont degemer a-surentez.
+- **Skoazell evit ar pobadur.** Tastaouiñ frouezh pe ur sed glasad tra ma'z eus pobadur ganeoc'h.
+- **Dibennoù al lodenn.** Frouezh amzer-hañv e-pad an hañv, sidr tomm e-pad an hanv-yest, servijet en un tomder diogel.
 
-### Sound
+### Son
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Sonerezh karet.** Kanaouennoù anaoudek gant ur vouezh vuan; gwelet [obererezhioù sonerezh](/activities/music/).
+- **Sonioù natur.** Glav, morioù pe ganerezh evned. Notennet a ra an NIA e sikour an hirvoudoù, ar son gwenn ha sonioù natur tennañ kalz tud.
+- **Ho vouezh.** Lenn a-uhel, gwrizienniñ pe kontañ un istor.
+- **Instrumantoù simpl.** Ur c'hrom-zarn, ur shaker pe ur gloc'h evit son a-gevret gant ar sonerezh.
 
-### Sight
+### Gwel
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Sellet dre ar prenestr.** Un tredanell loen a-ziavaez ar prenestr, flaziennoù o tistreiñ d'ar gêr, pe erc'h o kouezhañ.
+- **Ur pesk-tank pe ur video mall.** Gwiskerezh mall hep son uhel.
+- **Skeudennoù bras.** Ur skeudenn splann ur wech, daliet a-live al lagad.
+- **Liwioù ha patromoù.** Lakaat e rummoù tamm stoff liwiek, bleunioù pe lienoù liwiek, pe ur bajenn livañ simpl eus [liwioù](/games/coloring/).
+- **En-dro.** An NHS a ginnig liorzhoù sensorial gant plant c'hwezhus, gwiadoù ha dourioù. Gwelet [obererezhioù liorzh ha labour-douar](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Penaos grouiñ ur boest sensorial
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Dibabit ur sujed** a sikour buhez an den: ar mor, al liorzh, ar gegin, al labourva, ar gwiadañ.
+2. **Dibabit pemp pe c'hwec'h tra bras ha diogel,** evel ur voger vras, ur spatulenn koad, ur galoun vuan, ur sachad lavanndr sec'h serret, pe ur bloc'h koad lisk.
+3. **Gwiriit pep tra** evit pezhioù bihan, boulc'hioù lemm, kerdin a zivout ha tra a c'hall torriñ.
+4. **Dougit ur tra dre unan.** Roit-han d'an den, deskrivit anezhañ hag ankouaguzit an den da enklask.
+5. **Lakait ar boest da vont en-dro goude** evit ma chomo dibar, ha gwiriit an traoù adarre a-raok an devezh war-lerc'h.
 
-## Safety first
+## Diogelroez da gentañ
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Obererezhioù sensorial a zo mell, met un nebeud riskoù a bouez. Un nebeud tud gant demañs a gemer traoù nann-boued evit boued, ha gouest e vez ar glujañ dreist an amzer; lâret a ra an NIA e kaout ar glujañ e-pad ar stad diwezhat a gresk ar riskoù tagadenn.
 
-| Risk | What to do |
+| Risk | Petra ober |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Tagadenn | Implijit nemet traoù re vras evit bezañ lounket. Na boutoned, pilioù, moneioù, bigi pe krennjouetoù dishañv en ur boest. Proponit boued nemet gant ar stummoù a lavar ar skipailh a c'hall bezañ diogel. |
+| Traoù a heñvel ouzh boued | An NIA a gonsel serriñ kreionioù, soavoù, shampooings ha parfumoù, o vezañ c'hall bezañ heñvel ouzh boued pe c'hwezh boued, ha dilemel ar frouezh gwenn. Lakait ar produioù a sensorial da vont en-dro goude implij. |
+| Alergiezhioù | Gwiriit alergiezhioù da gnaoù, latex, gwlan, plant pe c'hwezhioù a-raok kregiñ. |
+| C'hwezhioù kreñv | Chomit eus parfumoù kreñv hag en-olioù kreñv, dreist-holl pa'z eus askma pe kudennoù anal all. C'hwezhioù naturel ha yen a zo mat. |
+| Kroc'hen | Gwiriit ha n'eus ket kroc'hen glizet, torret pe fragil a-raok ar masaj. Implijit ur pouez mall ha paouezit mar kwilh an den. |
+| Tomder | Testit lienoù tomm ha dourioù tomm war ho arn-dorn da gentañ. |
+| Tresadoù lemm pe toksik | Tresadoù lemm, gwer pe degasadennoù toksik evit labour-dorn n'eus ebet. |
 
-## Does aromatherapy help?
+## Ha skoazell a ra an aromaterapiezh?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Dre ziouer, ne ra ket kalz. Ur [sellad Cochrane diwar-benn an aromaterapiezh evit an demañs](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) en deus gwelet 13 studi gant 708 den, pep hini en tiez-kenkoulz, hag n'en deus kavet ebet a bruderezh kredus eus ar vuiañ. Ar studioù a oa bihan, ar disoc'h a oa diheñvel ha kemennet e oa gwall aloubet ar riskoù. Ma plij d'an den ur c'hwezh yenañ, evel lavanndr eus al liorzh, mat eo rannañ anezhi. N'eo ket un triñkad.
 
-## How to offer a sensory activity
+## Penaos proponiñ un obererezh sensorial
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Dibabit ur mare sioul** ha diffoddit an TV.
+- **Tostait a-raok,** lavarit an anv ha goulennit pe kemennit a-raok merzout: « Am eus kreion. Fellout a ra deoc'h ma rinn ur masaj d'ho daouarn? »
+- **Proponit unan dre unan** evit na vefe ket re.
+- **Gwelit an respont.** Ur fas dostoc'h, daouarn dibouezh pe ur fri a zo arwezioù mat. Tennañ kuit, lakaat ur fri a-dreuz pe bezañ dinerzh a lavar paouezañ.
+- **Chomit berr.** Pemp munud sioul a zo ur sesion mat.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Un nebeud anaskadenn a-unvan evel [an analadenn sioul](/games/calm-breathing/) a c'hall bezañ ur fin dre fazi. Evit muioc'h a ideoù a-dal ar gwele, gwelit [obererezhioù stad diwezhat](/activities/late-stage/), ha evit an enkrez tro an abardaez, gwelit [dinerzhded an deiz diwezhat](/caregiving/late-day-restlessness/).
