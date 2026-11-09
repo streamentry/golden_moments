@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Garddio a Gweithgareddau Awyr Agored i Bobl â Dementia"
+seoTitle: "Garddio a Gweithgareddau Awyr Agored gyda Dementia"
+description: "Syniadau garddio ac awyr agored i bobl sy'n byw gyda dementia, gyda gwelyau uchel, planhigion mewn potiau, a chyngor diogelwch ar wres, haul a chrwydro."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Gall garddio a threulio amser yn yr awyr agored fod yn weithgaredd tawel a
+  chyfarwydd i rywun sy'n byw gyda dementia. Rhowch gynnig ar ddyfrio, plannu
+  perlysiau mewn potiau, tynnu blodau wedi gwywo neu fynd am dro byr mewn iard
+  â ffens. Defnyddiwch welyau uchel neu fwrdd fel nad oes angen i neb benlinio,
+  osgowch offer miniog a phlanhigion gwenwynig, ewch allan yn ystod rhan oerach
+  y dydd, ac arhoswch gyda'r person bob amser.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Mae tasgau gardd syml fel dyfrio, plannu hadau, arogli perlysiau a dewis blodau yn bosibl wrth sefyll neu wrth eistedd."
+  - "Mae gwelyau uchel, cynwysyddion a bwrdd dan do yn dod â'r ardd i uchder y canol ac yn lleihau'r perygl o gwympo."
+  - "Osgowch offer miniog, planhigion pigog neu sy'n llidio'r croen, ac unrhyw beth gwenwynig. Gwyliwch rhag camgymryd pridd am fwyd."
+  - "Gall gwres fod yn beryglus i oedolion hŷn. Ewch allan yn gynnar neu'n hwyr, ewch â dŵr a chysgod gyda chi, a dewch i mewn ar yr arwydd cyntaf o anghysur."
+  - "Mae llawer o bobl sy'n byw gyda dementia yn crwydro ar ryw adeg. Arhoswch gyda'r person yn yr awyr agored a chedwch lun diweddar a dull adnabod wrth law."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Pa weithgareddau garddio all person â dementia eu gwneud?"
+    a: "Mae dyfrio planhigion, plannu hadau mewn potiau bach, arogli a chyffwrdd perlysiau, tynnu blodau wedi gwywo, casglu llysiau, trefnu blodau wedi'u torri ac ysgubo llwybr i gyd yn ddewisiadau da. Y tu mewn, mae pot perlysiau ar silff ffenestr neu hambwrdd pridd ar fwrdd wedi'i orchuddio yn gweithio'n dda. Dewiswch y dasg yn ôl yr hyn yr oedd y person yn ei fwynhau o'r blaen a'r hyn y gall ei wneud yn gyfforddus nawr."
+  - q: "Sut alla i gadw rhywun â dementia yn ddiogel yn y gwres?"
+    a: "Cynlluniwch amser yn yr awyr agored ar gyfer y bore cynnar neu'r noswaith oerach, cadwch ef yn fyr, a chynnig dŵr yn aml. Dewiswch gysgod, het â brim llydan, dillad ysgafn llac ac eli haul. Mae oedolion hŷn mewn mwy o berygl o salwch oherwydd gwres, a gall dryswch, pendro neu gyfog fod yn arwyddion rhybudd, felly ewch i mewn ac oeri i lawr ar unwaith os byddwch yn sylwi arnyn nhw."
+  - q: "Sut gallwn fynd allan os yw'n tueddu i grwydro?"
+    a: "Arhoswch gyda'r person drwy'r amser, defnyddiwch iard neu ardd â ffens a giât wedi'i chau, a gwnewch yn siŵr ei fod yn gwisgo breichled adnabod neu'n cario dull adnabod. Cadwch lun diweddar wrth law. Os bydd y person ar goll, mae Cymdeithas Alzheimer yn cynghori ffonio 999 os na chaiff ei ganfod o fewn 15 munud."
+  - q: "Beth os nad oes gennym ardd?"
+    a: "Mae ychydig o botiau ar y veranda, blwch ffenestr, neu hambwrdd o berlysiau ar fwrdd y gegin yn ddigon. Gallwch hefyd ymweld â pharc, gardd gyhoeddus neu ardd gymunedol. Mae eistedd y tu allan a gwrando ar yr adar yn weithgaredd awyr agored hefyd."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+I lawer o bobl, yr ardd yw un o'r lleoedd mwyaf cyfarwydd iddyn nhw. Mae palu, dyfrio a dewis blodau yn defnyddio sgiliau a ddysgwyd amser maith yn ôl, ac mae bod y tu allan yn dod ag aer ffres, golau haul a chân yr adar. Mae'r National Institute on Aging yn rhestru gofalu am blanhigion, plannu blodau a llysiau, a [siarad am sut mae'r planhigion yn tyfu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ymhlith gweithgareddau y gall pobl ag Alzheimer eu mwynhau. Mae'r dudalen hon yn ymdrin â beth i'w roi cynnig arno, sut i wneud gardd yn haws i'w defnyddio, a sut i gadw'n ddiogel gyda gwres, haul a chrwydro.
 
-## What outdoor and gardening activities work well?
+## Pa weithgareddau garddio ac awyr agored sy'n gweithio'n dda?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Y tasgau gorau yw'r rhai syml, cyfarwydd y gellir eu gwneud wrth sefyll neu wrth eistedd. Dewiswch yn ôl yr hyn yr oedd y person yn arfer ei fwynhau.
 
-### In the garden
+### Yn yr ardd
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Dyfrio.** Can dyfrio bach, ysgafn neu ben pibell ysgafn ac ychydig o botiau o fewn cyrraedd. Mae gan ddyfrio ddechrau a diwedd clir, ac mae'n anodd ei wneud yn anghywir.
+2. **Plannu hadau mewn potiau.** Mae'r Alzheimer's Foundation of America yn awgrymu plannu hadau mewn potiau bach a [gwylio nhw'n tyfu](https://alzfdn.org/dementia-activity-gardening/). Mae hadau mawr fel ffa, blodau haul neu bys yn haws i'w trin.
+3. **Tynnu blodau wedi gwywo.** Mae tynnu blodau wedi pylu â'r dwylo yn dasg ysgafn ac ailadroddus. Dewiswch blanhigion heb ddrain.
+4. **Casglu llysiau neu berlysiau.** Mae tomatos ceirios, ffa a pherlysiau yn hawdd i'w casglu ac yn braf i'w blasu. Dewch â nhw i mewn i'w defnyddio amser cinio.
+5. **Arogli a chyffwrdd perlysiau.** Mae gan rhosmari, mint a lafant arogleuon cryf, dymunol. Rhwbiwch ddeilen rhwng eich bysedd a'i throsglwyddo.
+6. **Ysgubo llwybr neu batio.** Brwsh ysgafn ar arwyneb gwastad, sych, os yw'r cydbwysedd yn gadarn.
+7. **Llenwi bwydwr adar.** Yna eisteddwch gyda'ch gilydd i wylio pwy sy'n dod i ymweld.
 
-### Indoors, when going out is not possible
+### Y tu mewn, pan nad yw'n bosibl mynd allan
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Gardd berlysiau ar silff ffenestr** gyda basil, persli neu gennin syfi.
+- **Plannu mewn potiau ar fwrdd wedi'i orchuddio.** Mae'r AFA yn awgrymu defnyddio hambyrddau tebyg i rai caffeteria i gadw'r pridd mewn un man a symud pridd gyda chwpanau bach.
+- **Trefnu blodau** gyda blodau wedi'u torri a dail o'r iard neu o'r siop groser.
+- **Gwasgu blodau** o fwced, i'w gludo ar gardiau yn ddiweddarach. Gweler [celf a chrefft](/activities/arts-and-crafts/) am fwy.
+- **Gwneud sachau lafant neu rosyn**, syniad arall gan yr AFA sy'n dod ag arogl yr ardd y tu mewn.
 
-### Getting out and about
+### Mynd allan ac o gwmpas
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Taith gerdded fer** o amgylch y bloc, parc neu ganolfan arddio, ar gyflymder araf gyda lle i eistedd.
+- **Eistedd y tu allan** ar veranda neu fainc i wrando ar yr adar a theimlo'r awel. Mae hyn yn weithgaredd cyflawn ynddo'i hun.
+- **Ymweld â gardd gyhoeddus** yn ystod cyfnod tawel o'r dydd. Mae'r NHS yn nodi bod gan rai lleoedd erddi synhwyraidd gyda phlanhigion persawrus, gweadau a nodweddion dŵr.
+- **Bwydo hwyaid neu wylio adar** wrth bwll lleol, gan gadw pellter diogel o ymyl y dŵr.
 
-## How do I make a garden easier to use?
+## Sut alla i wneud gardd yn haws i'w defnyddio?
 
-Bring the garden up to the person, not the other way around.
+Dewch â'r ardd at y person, nid y ffordd arall.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Gwelyau uchel neu blanhigwyr tal** tua uchder y canol, fel nad oes angen penlinio na phlygu.
+- **Cynwysyddion ar fwrdd** sy'n gweithio i bobl sy'n defnyddio cadair olwyn neu sy'n well ganddyn nhw eistedd.
+- **Llwybrau llydan, gwastad** heb gerrig rhydd na phibelli ar eu traws, sy'n lleihau'r perygl o faglu.
+- **Seddi gyda breichiau a chysgod** ar hyd y ffordd, fel bod gorffwys bob amser yn ddewis.
+- **Offer gyda dolenni trwchus, meddal** sy'n hawdd eu gafael. Hepgorwch siswrn tocio, cyllyll ac unrhyw beth miniog.
+- **Ardal â ffens a giât wedi'i chau** y gall y person ei harchwilio'n rhydd tra byddwch chi'n aros gerllaw.
 
-## Which plants should I avoid?
+## Pa blanhigion ddylwn i eu hosgoi?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Dewiswch blanhigion sy'n ddiogel i'w cyffwrdd ac, yn ddelfrydol, yn ddiogel os cânt eu blasu. Mae'r AFA yn cynghori defnyddio planhigion nad ydynt fel arfer yn llidio'r croen, gwirio am alergeddau, a gwylio'n ofalus unrhyw un a allai gamgymryd pridd am fwyd. Mae cyngor diogelwch cartref yr NIA yn cynnwys tynnu planhigion gwenwynig neu eu cloi i ffwrdd.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Osgowch rosynnau pigog, cactws, a phlanhigion â sudd sy'n llidio'r croen.
+- Gwiriwch unrhyw blanhigyn nad ydych yn siŵr amdano gyda chanolfan rheoli gwenwyn neu ganolfan arddio leol cyn plannu.
+- Gall hen ffefrynnau ddod â theimladau dymunol yn ôl. Mae'r AFA yn crybwyll rhosynnau a chactws y Nadolig fel enghreifftiau. Dewiswch fathau heb ddrain.
+- Cadwch wrtaith, plaladdwyr a lladdwyr chwyn wedi'u cloi i ffwrdd, a pheidiwch â'u defnyddio mewn mannau y gall y person eu cyrraedd.
 
-## How do I stay safe in the heat and sun?
+## Sut alla i gadw'n ddiogel yn y gwres a'r haul?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Cynlluniwch amser yn yr awyr agored o amgylch y tywydd. Mae'r NIA yn esbonio bod oedolion hŷn mewn mwy o berygl o [salwch sy'n gysylltiedig â gwres](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), yn rhannol oherwydd bod y corff yn addasu'n llai da i newidiadau tymheredd a bod rhai meddyginiaethau yn effeithio ar sut mae'r corff yn ymdrin â gwres.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Ewch allan yn gynnar neu'n hwyr.** Osgowch ganol y dydd yn ystod misoedd cynnes. Gwiriwch y mynegai gwres, nid y tymheredd yn unig.
+- **Cynigiwch ddŵr yn aml.** Peidiwch ag aros i'r person ddweud bod syched arno. Osgowch alcohol a diodydd â chaffein yn y gwres.
+- **Gwisgwch yn addas.** Dillad lliw golau, llac, het â brim llydan a sbectol haul.
+- **Defnyddiwch eli haul.** Mae'r NIA yn argymell eli haul sbectrwm eang SPF 15 neu uwch, wedi'i roi eto yn ystod y dydd.
+- **Dewiswch gysgod.** Gosodwch y bwrdd potio o dan goeden neu ymbarél.
+- **Cadwch ef yn fyr.** Gall cyfnod byr y tu allan fod yn ddigon, yn enwedig ar ddiwrnodau cynnes.
+- **Gwyliwch am arwyddion rhybudd.** Mae'r NIA yn rhestru cur pen, dryswch, pendro neu gyfog fel arwyddion posibl o salwch oherwydd gwres. Efallai na fydd person â dementia yn dweud wrthych ei fod yn teimlo'n sâl, felly gwyliwch ei wyneb a'i ymddygiad. Ewch i mewn, oeri i lawr gyda dŵr a lliain oer, a cheisiwch gymorth meddygol os nad yw'n gwella'n gyflym. Mae strôc wres, gydag arwyddion fel llewygu, dryswch, neu groen sych a choch, yn argyfwng meddygol: ffoniwch 999.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Mae tywydd oer yn bwysig hefyd. Yn y gaeaf, cadwch amser yn yr awyr agored yn fyr a gwnewch yn siŵr bod dwylo a thraed yn aros yn gynnes ac yn sych.
 
-## How do I handle wandering when we go outside?
+## Sut alla i ddelio â chrwydro pan fyddwn yn mynd allan?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Arhoswch gyda'r person pryd bynnag y bydd yn yr awyr agored. Dywed Cymdeithas Alzheimer y bydd [chwech o bob 10 o bobl sy'n byw gyda dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) yn crwydro o leiaf unwaith, ac mae llawer yn gwneud hynny fwy nag unwaith. Gall ddigwydd ar unrhyw gam.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Mae [cyngor yr NIA ar grwydro a mynd ar goll](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) yn cynnwys:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Gwnewch yn siŵr bod y person yn gwisgo breichled adnabod neu feddygol gyda'i enw, ei gyfeiriad a'ch rhif ffôn, neu labelwch ei ddillad.
+- Cadwch lun neu fideo diweddar o'r person.
+- Rhowch wybod i gymdogion y gallai'r person grwydro.
+- Diogelwch yr iard gyda ffens a giât wedi'i chloi.
+- Peidiwch â gadael rhywun sydd â hanes o grwydro heb oruchwyliaeth.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Mae Cymdeithas Alzheimer hefyd yn awgrymu creu mannau dan do ac awyr agored y gellir eu harchwilio'n ddiogel, a chynllunio gweithgareddau ar adeg o'r dydd pan mae aflonyddwch yn fwyaf tebygol. Gall taith gerdded mewn gardd ddiogel, gaeedig fod yn addas ar gyfer aflonyddwch ddiwedd y dydd. Gweler ein canllaw i [aflonyddwch ddiwedd y dydd](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Os bydd y person ar goll, mae Cymdeithas Alzheimer yn cynghori chwilio'r ardal gyfagos ar unwaith a ffonio 999 os na chaiff ei ganfod o fewn 15 munud. Dywedwch wrth yr heddlu fod gan y person ddementia.
 
-## How do I adapt gardening as things change?
+## Sut alla i addasu garddio wrth i bethau newid?
 
-| If this has become hard | Try this instead |
+| Os yw hyn wedi mynd yn anodd | Rhowch gynnig ar hyn yn lle |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Plannu gwely cyfan | Plannu un hedyn mewn un pot |
+| Chwynnu (gwahaniaethu rhwng chwyn a phlanhigion) | Dyfrio, neu dynnu blodau amlwg sydd wedi gwywo |
+| Cerdded o amgylch yr ardd | Eistedd wrth fwrdd gyda hambwrdd o bridd a phlanhigyn |
+| Mynd allan o gwbl | Pot o berlysiau ar fwrdd y gegin, neu sedd wrth ffenestr agored |
+| Gwneud unrhyw dasg | Eistedd y tu allan gyda'ch gilydd, gwrando ac edrych |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Mae'n well gan rai pobl wylio chi'n gweithio. Mae'r NIA yn nodi ei bod yn iawn gadael i berson wylio yn unig os mai dyna beth mae'n ei fwynhau.
 
-## When should we head inside?
+## Pryd ddylem fynd i mewn?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Ewch i mewn pan fydd y person yn edrych yn flinedig, yn boeth, yn oer, yn anesmwyth neu'n barod i orffen. Mae deg munud byr, dymunol yn well na phrynhawn hir sy'n gorffen mewn gofid. Mae gorffen yn gynnar yn ganlyniad da.
 
-## Bring the garden indoors on screen
+## Dewch â'r ardd i mewn ar y sgrin
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Ar ddiwrnodau glawog, mae gan [Sort Together](/games/sort-together/) fasged ardd ar gyfer didoli lluniau, ac mae [Conversation Cards](/games/conversation-cards/) yn cynnwys cwestiynau agored a all arwain at straeon am yr ardd. Os byddwch yn dod i mewn o'r gwres yn teimlo ar frys, mae [Calm Breathing](/games/calm-breathing/) yn cynnig saib araf, tawel y gallwch ei rannu. Am fwy o syniadau sy'n defnyddio cyffyrddiad, arogl a sain, gweler ein [canllaw gweithgareddau synhwyraidd](/activities/sensory/).

@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Деменципе тӳлевсӗр ӗҫ хатӗрӗсем"
+seoTitle: "Деменципе тӳлевсӗр ӗҫ хатӗрӗсем: пысӑк шрифт"
+description: "Деменципе тӳлевсӗр ӗҫ хатӗрӗсем: пысӑк шрифтлӑ сӑмах тупмалли, сӑрламалли, калаҫу карточкисемпе ӳкерчӗклӗ бинго, ҫавӑн пекех пичетлеме пулӑшакан сӗнӳсем."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments деменципе тӳлевсӗр ӗҫ хатӗрӗсем сӗнет: пысӑк шрифтлӑ сӑмах
+  тупмалли, сӑрламалли страницӑсем, ӳкерчӗклӗ калаҫу карточкисемпе ӳкерчӗклӗ
+  бинго карточкисем. Кирлӗ вылякан страницӑна уҫӑр та унти «Пичетле»
+  кнопкӑпа усӑ курӑр. Пысӑк, йӑсӑр шрифтпа, хулӑм хутӑмлӑх тивӗҫлӗ, пӗр
+  страницӑра пӗр ӗҫ кӑна хӑварӑр. Тепӗр хут усӑ курас страницӑсене
+  ламинациленӗ пулсан лайӑх. Ҫемье пурнӑҫӗн страници е кулленхи график
+  пеккисем те усӑллӑ.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Эпир сӗнекен ӗҫ хатӗрӗсем тӳлевсӗр: «Сӑмах тупмалли», «Сӑрламалли», «Калаҫу карточкисем» тата «Ӳкерчӗклӗ бинго». Кашни вылякан страницинче «Пичетле» кнопка пур."
+  - "Пысӑк, йӑсӑр шрифтпа, йӗрке айӑнман текстпа пичетлӗр; пӗр страницӑра пӗр ӗҫ кӑна хӑварӑр."
+  - "Хулӑм хутӑмлӑх картон е йывӑртах тумлампа пичетленӗ страницӑна тытса тӑма ансатрах, вӑл ҫӗрехех чӗрленмесӗр ларатӗ. Страницӑсене ламинациленӗ пулсан, вӗсемпе ҫӗрме майлӑ маркерпа тепӗр хут усӑ курма пулать."
+  - "Киле хатӗрленӗ страницӑсем — сӑмахран, ҫемье пурнӑҫӗн страници, кулленхи график е алӑксем валли ӳкерчӗклӗ паллӑсем — ансат та кирлӗ."
+  - "Пичетленӗ страница — сӗнӳ, вӑл ҫырмалли ӗҫ мар. Ӑна пӗр пайне кӑна туса пӑрахма та, ним те туман та юрать."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Сирӗн деменципе тӳлевсӗр ӗҫ хатӗрӗсем тӳлевсӗр-и?"
+    a: "Ҫапла. Ку сайтра «Сӑмах тупмалли», «Сӑрламалли», «Калаҫу карточкисем» тата «Ӳкерчӗклӗ бинго» страницӑсемпе тӳлевсӗр усӑ курма тата пичетлеме пулать. Вырнаҫӑва уҫӑр та «Пичетле» кнопка ҫине пусӑр."
+  - q: "Деменципе пурӑнакан ҫын валли мӗнле пичетлемелли ӗҫсем лайӑхрах?"
+    a: "Лайӑх пичетлемелли ӗҫсем ансат, уҫӑ, асли ҫын валли кирлӗ: сӑмахсем ҫурӑмла кӑна тата аялти пусне кайса тӑракан пысӑк шрифтлӑ сӑмах тупмалли, уҫӑ контурлӑ сӑрламалли страницӑсем, калаҫӑва пуҫаракан ӳкерчӗклӗ карточкӑсем тата ушкӑн валли ӳкерчӗклӗ бинго. Ӗҫе ҫыннӑн кӑсӑклӑхӗсемпе хальхи майӗсемпе килӗштерӗр, пӗр страницӑра пӗр ӗҫ кӑна хӑварӑр."
+  - q: "Пичетлемелли ӗҫсене курма тата усӑ курма мӗнле ансатрах тума пулать?"
+    a: "Пысӑк, йӑсӑр шрифт, шурӑ е тӗсӗ-пуҫӗ сарӑ хут тумлам ҫинче тӗксӗм кӗпе, ҫителӗклӗ уҫӑ вырӑн усӑ курӑр. Страница тӳрӗ выртса тӑрас тесен, ӑна хулӑм хутӑмлӑх картон ҫине пичетлӗр, йӑлтӑртатнинчен хӳтӗленме мат тумлам суйлӑр, страница ӳкме планшет е шывма канмалли хутӑм усӑ курӑр. Ламинаципе страницӑсем ытларах тӑсӑлаҫҫӗ."
+  - q: "Сирӗн ӗҫсене пытару пӳлӗмӗ е кунти программа валли пичетлеме пулать-и?"
+    a: "Пулать. Ӗҫ ӗнерлевҫӗсем пирӗн страницӑсене пурӑнакансемпе ушкӑнсем валли пичетлейме пултараҫҫӗ. «Ӳкерчӗклӗ бинго» ушкӑнсем валли хатӗрленӗ, унта экран ҫинчи ҫынкалавҫӑ та пур — ӑна ноутбук, телевизор е проектор ҫинче кӑтартма пулать."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Хӑш-пӗр чухне чи лайӑх ӗҫ — апатлану сӗтелӗ хушшинче хутӑм тата ручка. Пичетлемелли ӗҫсем валли зарядка, пароль е экран кирлӗ мар, вӗсене пӗр-пӗрне курма кайсан е ушкӑн патне илсе кайма ҫӑмӑл. Ку страницӑра пирӗн сайтри тӳлевсӗр пичетлемелли ӗҫсем, вӗсене курма тата тытса тӑма ансат пултӑр тесен мӗнле пичетлемеллине, ҫавӑн пекех ҫемйӗсемпе ӗҫ ӗнерлевҫӗсем усӑ курма пултаракан пӗр-ик ансат хатӗр страницӑна ҫырса паратпӑр.
 
-## What free printable activities do you offer?
+## Эсир мӗнле тӳлевсӗр пичетлемелли ӗҫсем сӗнетӗр?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Эпир тӑватӑ тӳлевсӗр ӗҫ хатӗрӗ сӗнетпӗр. Ҫак вылякан страницӑсенчен кирлине уҫӑр та пичетлеме йӗркеленӗ версине илме **«Пичетле»** кнопкӑпа усӑ курӑр.
 
-| Printable | What it is | Good for |
+| Ӗҫ хатӗрӗ | Мӗн вӑл | Кам валли лайӑх |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Сӑмах тупмалли](/games/word-search/) | Сӑмахсем ҫурӑмла кӑна тата аялти пусне кайса тӑракан пысӑк шрифтлӑ сӑмах тупмалли | Ручкӑпа лӑпкӑ вӑхӑт; юмах тупмалли юратнӑ ҫын валли |
+| [Сӑрламалли](/games/coloring/) | Пичетлеме е экран ҫинче сӑрлама май паракан сӑрламалли страницӑсем | Лӑпкӑ, пултарулӑхлӑ вӑхӑт; пулӑшуллӑ кирлӗ тапхӑрта та |
+| [Калаҫу карточкисем](/games/conversation-cards/) | Темӑпа уйрӑлнӑ, уҫӑ ыйтусӑр калаҫма сӗнекен ӳкерчӗклӗ карточкӑсем | Пӗр-пӗрне курнисем, шӑнкӑравсем, ҫемье апатланӑвӗ, аса илӳ ушкӑнӗсем |
+| [Ӳкерчӗклӗ бинго](/games/picture-bingo/) | Хисепсем вырӑнне ӳкерчӗксемпе бинго карточкисем, ҫавӑн пекех экран ҫинчи ҫынкалавҫӑ | Пытару пӳлӗмӗсем, кунти программӑсем, ҫемье пухӑнӑвӗсем |
 
-### Large-print word search
+### Пысӑк шрифтлӑ сӑмах тупмалли
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Сӑмах тупмалли](/games/word-search/) страницӑра пысӑк саспаллисем усӑ курӑнаҫҫӗ, сӑмахсем ҫурӑмла кӑна тата аялти пусне тӑраҫҫӗ — диагональ е каялла ҫырнӑ сӑмахсем ҫук. Ӑна пӗрле тӑвӑр: пӗри списокран сӑмаха вулатӑ, тепри ӑна шырапӑ. Сӑмах тупасси йывӑр пулсан, кашни сӑмахӑн малтанхи саспаллине пӗрле палӑртма та, е списокри сӑмахсене сасӑпа вуласа кашнине калаҫса тухма та пулать.
 
-### Coloring pages
+### Сӑрламалли страницӑсем
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Сӑрламалли](/games/coloring/) страницӑсене маркерсемпе е тӗслӗ карандашсемпе сӑрлама пичетлеме, е планшет ҫинче тӗсе суйласа ӳкерчӗк пайне пусса сӑрлама пулать. Пичетленӗ страницӑсем валли хулӑм маркерсемпе пӗр вӑхӑтра сахал тӗс кӑна сӗнӗр. Сӑрламалли ӗҫе асли ҫын валли тивӗҫлӗ те лӑпкӑ тытма мӗнле пултараканне пирӗн [ӑсталӑхпа тӳрлетӳ ӗҫӗсем пирки сӗнӳре](/activities/arts-and-crafts/) вулама пулать.
 
-### Conversation cards
+### Калаҫу карточкисем
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Калаҫу карточкисем](/games/conversation-cards/) страницӑра уҫӑ ӳкерчӗкпе уҫӑ сӗнӳ пӗрле — сӑмахран, «Манӑн ҫапла каласа пар-ха...» е «Эсӗ мӗн куратӑн?» пеккисем. Вӗсем ыйтусӑр калаҫма сӗнекен сӑмахсем, экзамен ыйтӑвӗсем мар. Карточкӑсене пичетлесе, касса уйӑрса, пӗр-пӗрне курма кайсан сумкӑра е телефон патӗнче хӑварма пулать. Вӗсем [аса илӳ](/activities/reminiscence/) ушкӑнӗсенче те лайӑх ӗҫлеҫҫӗ.
 
-### Picture bingo cards
+### Ӳкерчӗклӗ бинго карточкисем
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Ӳкерчӗклӗ бинго](/games/picture-bingo/) карточкисенче хисепсем вырӑнне ӳкерчӗксем пур. Кашни вылякан валли пӗр карточка пичетлӗр те экран ҫинчи ҫынкалавҫӑпа ноутбук, телевизор е проектор урлӑ усӑ курӑр. Пурин карточки те туллин тултариччен выляма сӗнетпӗр — ҫапла пӗр ҫын та хӑварӑнса юлмасть. Ирте пурнӑҫламалли мӗнле ӗнерлемеллине [пытару пӳлӗмӗсем валли ушкӑн ӗҫӗсем](/activities/care-home-groups/) страницӑра вулама пулать.
 
-## How do I print activities so they are easy to use?
+## Ӗҫсене мӗнле пичетлесен усӑ курма ансатрах?
 
-Small changes in how you print make a big difference.
+Пичетленӗ майлӑ пӗчӗк улшӑнусем те нумай пулӑшаҫҫӗ.
 
-### Make it easy to see
+### Курма ансат тӑвӑр
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Пысӑк, йӑсӑр шрифт.** Страница ҫине ҫывӑхакан чи пысӑк шрифт виҫине суйлӑр. Чаклӑ е ҫырулӑх шрифтӗсене усӑ курмалла мар.
+- **Йӗрке айӑнмалли.** Шурӑ е тӗсӗ-пуҫӗ сарӑ хут ҫинче тӗксӗм кӗпе. Шупка сӑрӑ е тӗслӗ фонсене ан суйлӑр.
+- **Мат хутӑм** ҫутӑ ҫутӑра йӑлтӑртатнине чакарма пулӑшать.
+- **Куҫпа илтнине тӗрӗслӗр.** Alzheimer's Association палӑртнӑ тӑрӑх, куҫпа илтӳ йывӑрлӑхӗсем калаҫма йывӑрттарас килеҫҫӗ, ҫавна май вӗсене тап-тӑрӑ тӗрӗстерме сӗнет. Ҫутӑ, тӳрӗ лампа та пулӑшать.
 
-### Make it easy to hold
+### Тытса тӑма ансат тӑвӑр
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Хулӑм картон е йывӑртах хутӑм** тӳрӗ выртса ларатӑ, ҫӗклеме ансатрах, темиҫе хут усӑ курсан та лайӑх тӑрать.
+- **Планшет** е шывма канмалли хутӑм страница ӳкнине чарса лартать.
+- **Хулӑм маркерсем е тӑрӑм карандашсем** ҫинҫе ручкӑсенчен тытса тӑма ансатрах.
 
-### Make it reusable
+### Тепӗр хут усӑ курма йӗркелӗр
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Страницӑсене ламинацилӗр** е уҫӑ тӳрӗшсем шывӗнчи хучӗр. Сӑмах тупмаллипе бинго карточкисем ҫинче ҫӗрме майлӑ маркерпа ҫырса, каярах тасатса пӑрахма пулать.
+- **Йӑлтӑртатни йывӑрлатать пулсан** мат ламинаци пакетӗсене суйлӑр, тытса тӑма меллӗр пултӑр тесен, ламинациленӗ карточкӑсен кӗтесӗсене качкӑпа кӑнтӑрлӑр.
+- **Суйласа илнӗ страницӑсене** пӗр папкӑра хӑварӑр — ҫапла кашни эрнене ҫав страницӑна тепӗр хут пичетлеме кирлӗ мар.
 
-### Keep it simple
+### Ансат тытӑр
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Пӗр страницӑра пӗр ӗҫ кӑна.** Темиҫе ӗҫ пӗр-пӗрин ҫине пысӑкнӑ вырӑнне пӗр сӑмах тупмалли е пӗр ӳкерчӗк кӑна хӑварӑр.
+- **Ҫителӗклӗ шурӑ вырӑн.** Тулли тулнӑ страница йывӑр туйӑнма пултарать.
+- **Пулсан, вуланӑ инструкцисемсӗр.** Мӗн тума кирлине кӑтартса парӑр.
+- **Страницӑна пӗчӗклетӗр.** Тулли страница ытла нумай пулсан, ӑна ҫурӑмпа касӑр е хучӗр, ҫапла пӗр пайӗ кӑна курӑнӗ.
 
-## Other useful printables you can make at home
+## Килте мӗнле ытти кирлӗ хатӗрсем тума пулать?
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Кашни кирлӗ пичетлемелли хатӗр — вылякан ӗҫ мар. Ҫаккисене текст процессорӗпе тата принтерпа ансат хатӗрлеме пулать.
 
-### A life-story page
+### Ҫын пурнӑҫӗн страници
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Пӗр страница ҫинчи «эпӗ пирки» кӗске информаци: сӑн ӳкерчӗк, ҫын хӑйӗн мӗнле чӗннине юратни, ӑҫта ӳснӗ, мӗн ӗҫленӗ, ҫемйи, юратнӑ апат-ҫимӗҫ, кӗвӗсем, ҫавӑн пекех ӑна лӑплантаракан е йӑлӑхтаракан япаласем. Dementia Australia ҫын пурнӑҫӗ, кӑсӑклӑхӗсемпе пӗлтерӗшлӗ ҫынсем ҫинчен калакан [аса илӳ кӗнеки](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) хатӗрлеме сӗнет — вӑл пӗр-пӗрне курма килекенсене тата пӑхакансене пулӑшать, калаҫӑва пуҫарма май парать.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Ҫак страница больницӑра е ҫӗнӗ пытару вырӑнӗнче уйрӑмах кирлӗ. NIA больница ӗҫченӗсене ҫынӑн кулленхи йӗрки, хӑйӗн мӗнле чӗннине юратни, юратнипе юратманни, йӑлӑхтарма пултаракан япаласем тата ыратнине сӑмахсӑр мӗнле палӑртни ҫинчен пӗлтерекен [харпӑр информаци страници](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) пама сӗнет.
 
-### A daily schedule
+### Кулленхи график
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Кун валли пысӑк, ансат график: вӑхӑт, пӗр-ик сӑмах тата кашни пай валли пӗчӗк ӳкерчӗк — ирхи апатлану, ҫӳремелли, каҫхи апатлану, кану, кӗвӗ, каҫхи апатлану. Alzheimer's Association хатӗрленӗ [кулленхи пӑхмалӑх плана](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) кун йӗркине ҫыннӑн чи лайӑх вӑхӑчӗсемпе килӗштерме, вӑранса тухмалли тата ҫывӑрма выртмалли вӑхӑта йӗркелле тытма, ӗҫпе канӑҫа вырӑнла шарма сӗнет. Графика куҫ умӗнче, сӑмахран, холодильник ҫинче ҫакӑр, анчах та ӑна йӑмшак тытӑр. Ытларах пирӗн [кулленхи йӗрке пирки сӗнӳре](/activities/daily-routine/) вулама пулать.
 
-### Picture labels for rooms and drawers
+### Пӳлӗмсемпе туртмӑшсем валли ӳкерчӗклӗ паллӑсем
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA ванне пӳлӗмне, ҫывӑрмалли пӳлӗме тата кухняна палӑртма йӑлтӑр тӗслӗ паллӑсем е ансат ӳкерчӗксем [усӑ курма сӗнет](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Ҫав шухӑша туртмӑшсемпе шкафсем валли те усӑ курма пулать: нускал туртмӑшӗнче нускал ӳкерчӗкӗ, курка шкафӗнче курка ӳкерчӗкӗ. Пичетлӗр, ламинацилӗр тата ҫакӑр.
 
-### A sorting set
+### Уйӑрмалли комплект
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Икӗ ансат ушкӑнран — сӑмахран, улма-ҫырласемпе чечексем е хатӗр-хӗтӗрсемпе кухня япалисем — ӳкерчӗксене картон ҫине пичетлӗр. Вӗсене касса уйӑрӑр та пӗрле икӗ корзинӑна уйӑрӑр. Ҫак ӗҫӗн экран ҫинчи версийӗ — [Пӗрле уйӑрмалли](/games/sort-together/).
 
-### Song lyric sheets
+### Юрӑ сӑмахӗсемпе страницӑсем
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Пӗрле юрлама пӗр-ик юратнӑ юрӑн сӑмахӗсене питӗ пысӑк шрифтпа пичетлӗр. Нумай вуламаннисем те страницӑна тытса калаҫма киленме пултараҫҫӗ.
 
-### A family photo page
+### Ҫемье сӑн ӳкерчӗксен страници
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Пӗр страницӑра тӑватӑран улттӑ таран ҫемье сӑн ӳкерчӗкӗ, кашни ӳкерчӗк айӗнче ятне ҫырса. Ӑна сӗтел ҫине выртса, кам та кирек илсе калаҫма пултарать. Паллисене кура пӗр-пӗрне курма килекенсемпе ӗҫченсем те калаҫӑва хутшӑнма пултараҫҫӗ, «Ку кам-ши?» тесе ыйтма кирлӗ мар.
 
-### A recipe card
+### Апат рецепчӗкӗ
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Ҫемье юратнӑ рецепта пысӑк шрифтпа пичетлӗр. Унпа пӗрле апат хатӗрлеме, е кайран иртнӗ апатланусем ҫинчен калаҫма пулать.
 
-## How do I offer a printable without it feeling like homework?
+## Пичетленӗ ӗҫе мӗнле сӗнме — вӑл ҫырмалли ӗҫ пек туйӑнмасӑр?
 
-Present it as something to share, not a test.
+Ӑна тӗрӗслев мар, пӗрле тӑвас ӗҫ пек кӑтартӑр.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Ларӑр та хӑвӑрах пуҫлӑр.** «Эпӗ ку сӑмах тупмаллине тӑватӑп. “Пахча” сӑмахне пӗрле тупар-и?»
+- **Пӗрле ӗҫлӗр.** Майпа ылмашӑр, е пӗри тупать, тепри ҫаврать.
+- **Тӗрӗс е тӗрӗс мар тесе нихӑҫан та ан палӑртӑр.** Alzheimer's Association [килти ӗҫсем ҫинчен сӗннӗ ку сӗнӳре](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) результат ҫине мар, процесс ҫине, ӳсӗм ҫине мар, кӑмӑл ҫине пӑхма сӗнет.
+- **Страницӑсене кунта-вунта хӑварӑр.** Ҫав сӗнӳре альбомсене, сӑн ӳкерчӗклӗ кӗнекисене е вара журналсене ҫӑмӑл вырӑнсенче хӑварма сӗннӗ. Пичетленӗ карточкӑсемпе сӑн страницӑсем те ҫавӑн пекех сӗтел айӗнче выртаҫма пултараҫҫӗ.
+- **Кирле чухне чарӑнӑр.** Ҫурӑ сӑрланӑ страница та лайӑх каҫ. Страницӑна хупса чай ӗҫме ларасси те лайӑх.
 
-## Where to find more
+## Ытларах ӑҫтa тупма пулать
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Пирӗн мӗнпур [вырнаҫӑвсемпе пичетлемелли ӗҫсене](/games/) пӑхӑр, е хут тумламсӑр та, хут тумлампа та ытти сӗнӳсем валли [кашни тапхӑр валли ӗҫсем](/activities/ideas/) страницӑна куҫӑр.

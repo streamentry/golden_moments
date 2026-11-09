@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND тата Средиземномор диетӑсем тата деменци: тӗпчевсем мӗн каласа параҫҫӗ"
+seoTitle: "MIND диета тата деменци: тӗпчевсем мӗн каласа параҫҫӗ"
+description: "MIND тата Средиземномор диетӑсем тата деменци пирки тӗпчевсем мӗн каласа параҫҫӗ, 2023 ҫулхи пысӑк тӗпчев мӗнле палӑртнине тата деменципе пурӑнакан ҫынна апатлантара пӗлни пирки."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Хӑш-пӗр вӑхӑт иртрекен тӗпчевсенче Средиземномор тӗсӗ е MIND диета деменци тӑвӑмлӑх хисепне чакарма пултара тесе ҫыхӑннӑ. Анчах вара ку ҫыхӑнусем пурте пӗр пек вырӑн пулмаҫҫӗ. 2023 ҫулта ирттернӗ MIND диетӑн виҫӗ ҫуллӑх тӗрӗс тӗпчевӗ шухӑш тӗлӗвӗ е миҫе сканерлавӗ ҫинчен пӗр пекех вырӑнсӑр уйрӑмлӑх тупман. Деменципе чарса лартма пултарнӑ апат е хушма тӗрлӗх ҫук. Деменципе пурӑнакан ҫын валли чи важлӑ — тивӗҫлӗ тын тата ҫиҫе ыйтса илсе ҫити пирки кӑсӑкланни.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Хӑш-пӗр вӑхӑт иртрекен тӗпчевсенче Средиземномор тата MIND тӗсӗ апатлану юрӑмӗ деменци тӑвӑмлӑх хисепне чакартарать тесе ҫыхӑннӑ, анчах пур тӗпчев те пӗр пек мар."
+  - "2023 ҫулта 604 ҫултан пысӑкрах ҫынпа ирттернӗ тӗпчевре MIND диетӑпа апатланакансем виҫӗ ҫул хушши шухӑш тӗлӗвӗ тата миҫе сканировани ҫинчен контроль диетӑпа апатланакансенчен пӗр пекех пулнӑ."
+  - "Карттин каялли нывӑрӑш институчӗ (National Institute on Aging) калать: деменципе чарса лартма пӗлтерекен пӗр конкретлӑ апат е вара тӗрлӗмелле апат ҫук. Витаминсем е хушма тӗрлӗхсем те деменципе чарса лартма кирлӗ вӗсем тесе ҫирӗп пӗлтермесшӗн."
+  - "Кӑвакал, йывӑҫҫи, хӑяр, пӗтӗм тум тумламӑш, чӗр чӳрӗпе тивӗҫлӗ апатлану юрӑмӗ ҫӗрӗ кунлӑх сывалӑшне, мӗнле пулин те ҫӳллӗ ҫан, сахара чирӗ тата пысӑк вӑйӑ вӗри пирки тӑвӑмлӑх хисепсене пулӑшма пултарать."
+  - "Деменципе пурӑнакан ҫын валли пӗр-пӗр чӗлхе хӗрринчен чиперле пуҫлӑ апатсем, пайӑрлӑ пӗлӗксем, лӑпкӑ вӑхӑтри апатлану тата яланах ҫиҫе парни — пӗр конкретлӑ диетаран ытларах важлӑ пулма пултарать."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "MIND диета деменципе чарса лартма пултараяттăн-и?"
+    a: "Ку хисеп ҫинчен ҫирӗп пӗлтерме пулмасть. Вӑхӑт иртрекен тӗпчевсенче MIND диетӑпа деменци тӑвӑмлӑх хисепӗ чакартнӑ тесе ҫыхӑннӑ, анчах 2023 ҫулта ирттернӗ виҫӗ ҫуллӑх тӗрӗс тӗпчевре MIND диетӑпа апатланакансемпе контроль диетӑпа апатланакансен шухӑш тӗлӗвӗ тата миҫе сканировани ҫинчен пӗр пекех уйрӑмлӑх тупӑнман. Иккӗш йышӗн те сахалтан пӗр пекех ситӗннӗ тата пӗр пекех йывӑрлӑх ҫукленнӗ."
+  - q: "MIND диета тата Средиземномор диетӑн хушшинче мӗн уйрӑмлӑх?"
+    a: "Средиземномор диетӑнче нумай кӑвакал, йывӑҫҫи, пӗтӗм тум тумламӑш, хӑяр, чӗр чӳрӗ тата зӗрӗт майӑп, сахалтан хырӑ чӗр чӳрӗ, чӗкеҫ тата тӗттӗмсем. MIND диета вара ку юрӑма ҫӗрӗ кунлӑх вӗри тӑрӑх DASH диетӑпа пӗрлештернӗ тата кӑвакалсен хушшинче тӗрӗсех кӑвакал япала тата курӑк янтӑрӗсем ҫинче лайӑхрах тимлӗх кӑтартнӑ, хырӑ чӗр чӳрӗ, тӗттӗм, сыр, пуҫ савӑрни е сарӑ туни ҫинчен сахаллан тытма хӑнӑхтарать."
+  - q: "Альцгеймер чирӗпе чарса лартма пултарнӑ апатсем е хушма тӗрлӗхсем пур-и?"
+    a: "Ҫук. Карттин каялли нывӑрӑш институчӗ калать: Альцгеймер чирӗ е ҫул тултарнӑ вӑхӑтра шухӑш пӗлтерӗшӗн тӳпемӗпе чарса лартма пӗлтерекен пӗр конкретлӑ апат е апатран тухса ярни ҫинчен ҫирӗп пӗлтерӗш ҫук. Витаминсем е хушма тӗрлӗхсем те Альцгеймер чирӗпе чарса лартма кирлӗ тесе ҫирӗп пӗлтермен. Хушма тӗрлӗх илесшӗн пулсан, сехетлӗхпе врачпа калаҫма кирлӗ."
+  - q: "Деменципе пурӑнакан ҫын валли мӗнле апатсем чи ҫӗтеслӗ пулӗ?"
+    a: "Чиперле пуҫлӑ, алпа илме ҫӗтеслӗ апатсем, мӗнле пулин те сандвич пайӗ, тавра кусӑк пайӗ, чӗр чӳрӗ кусӑксем е варнӑ кӑвакал кусӑксем, хирӗҫрен алпа ытти апат илесрен чи ҫӗтеслӗ. Чавса ҫи е йӗтерсе ҫи аван мар пулсан, нимӗн тата ҫӗпленӗ апатсем пулӑшма пултараҫҫӗ — мӗнле пулин те вӗреннӗ чӗкеҫ, яблокӑн пюресӗ е ачасем сырӗ. Ӑшӑ тытнӑ чухне е ялкка пӑхнӑ чухне врачтан йӗтерме хаклав ыйтма кирлӗ."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,87 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+"Миҫе суллӑш тӑрӑх ҫӗрӗ йӗркелӳллӗ апатлану" деменципе чарса лартма пултарать тесе вуласа пыратӑр. Чи тӗрӗс картина — сахалрах. Хӑш-пӗр апатлану юрӑмӗсем вӑхӑт иртрекен тӗпчевсенче деменци тӑвӑмлӑх хисеппе ҫыхӑннӑ, анчах вара чи ҫирӗп тӗпчев пурин те пӗлтерӗш кӑтартман. Ку страницӑра иккӗшне те пӗлтерсе, тепӗр енне — деменципе пурӑнакан ҫын валли чи важлӑ мӗн пулнине каласа паратпӑр: тивӗҫлӗ тын тата ҫиҫе ыйтса илсе ҫити, кайран вара ку апатран кӑмӑл тупни.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Ку — пӗтӗмӗшле пӗлӗм кӑна, медицина советӗ мар. Апатлану юрӑмне хуратма е тепӗр ҫын валли хуратма вырӑслас пулсан, врачпа е диетологпа калаҫма кирлӗ. Пирӗн [медицина ӗҫне кӑтартнипе ҫыхӑннӑ](/medical-disclaimer/) пӗлтерӗшне пӑхӑр.
 
-## What are the Mediterranean and MIND diets?
+## Мӗн вӗсем — Средиземномор тата MIND диетӑсем?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Карттин каялли нывӑрӑш институчӗ (NIA) вӗсене ку пек ӑнлантарать ([NIA апат тата Альцгеймер чирӗ пирки](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Средиземномор диета:** нумай йывӑҫҫи, кӑвакал, пӗтӗм тум тумламӑш, хӑяр, чӗр чӳрӗпе диңгез чӗр чӳрӗ, зӗрӗт майӑп, сахалтан хырӑ чӗр чӳрӗ, чӗкеҫ тата тӗттӗмсем.
+- **MIND диета** (Mediterranean–DASH Intervention for Neurodegenerative Delay, шухӑш пӗлтерӗшӗн тӳпемӗнчен сарӑлтса тӑракан чирсем хыҫҫӑн): Средиземномор диета тата ҫӗрӗ кунлӑх вӗри тӑрӑх DASH диетӑн пӗрлешӗвӗ. Кунта тӗрӗсех кӑвакал, чылайрах — симӗс кӑвакал япала, курӑк янтӑрӗсем; пӗтӗм тум тумламӑш, хӑяр, чӑрмӑш, эрнере чӗр чӳрӗ кемӗншӗн; зӗрӗт майӑп. Хырӑ чӗр чӳрӗ, тӗттӗмсем, сыр, пуҫ савӑрни е сарӑ туни, сарӑлса туяннӑ е чапартан илнӗ апатсене сахаллан тытать.
 
-## Do these diets lower dementia risk?
+## Ку диетӑсем деменци тӑвӑмлӑх хисепне чакартарать-и?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Пӗлтерӗшсем пӗр пек мар. NIA калать: хӑш-пӗр вӑхӑт иртрекен тӗпчевсенче Средиземномор тата MIND диетӑпа апатланни хырӑ чӗр чӳрӗ, тӳпмелле йывӑр, сахара пуян Америкӑ тӗсӗ апатлану юрӑмӗпе танлаштарнӑ чухне деменци тӑвӑмлӑх хисепӗ сахалрах пулнине ҫыхӑнтарнӑ. Анчах пур тӗпчев те пӗр пекех каламаҫҫӗ.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 ҫулхи Lancet комиссия вӗрентекен тӗпчевсене тӗрӗсрех тишкернӗ ([Lancet комиссия](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Когорт тӗпчевсен пӗр тишкерӗвӗпе апатлану хаклавӗ лайӑхрах пулнӑ ҫынсен хушшинче деменци тӑвӑмлӑх хисепӗ 20% кӗрех пахаллах пулнӑ тесе кӑтартнӑ.
+- Виҫӗ когортпа ирттернӗ пысӑкрах тишкерӗвӗ MIND диетӑна тӗрӗсрех тытнӑ ҫынсен хушшинче деменци тӑвӑмлӑх хисепӗ сахалрах пулнине ҫыхӑнтарнӑ.
+- Анчах вара вӑтам ҫулта 28 025 ҫынпа пӗр 20 ҫул хушши тӗрӗсрех пӑхса тӑракан Швеци тӗпчевӗре сунӑтлӑ диета тытни е Средиземномор диетӑна тӗрӗсрех кирекенни деменци тӑвӑмлӑх хисепне чакартман тесе кӑтартнӑ.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Вӑхӑт иртрекен тӗпчевсем тӑвӑмлӑха ҫирӗп пӗлтерме пулмаҫҫӗ. Ку тӗсӗ диетӑпа апатланакансем ытти майӗпе те уйрӑмлӑ пулма пултараҫҫӗ, мӗнле пулин те кирлӗ вырӑн, вӗренӳ, физикӑлла активлӑх тата медицина пулӑшу çине.
 
-## What did the 2023 MIND diet trial find?
+Комисси тӗпчевсене пӗтӗмлетсе калать: лайӑх диета деменципе чарса лартма пултарать тесе ҫирӗп пӗлтерӗш ҫук, анчах нумай йывӑҫҫи тата кӑвакал çине, ультра-обработаннӑ апатсенчен сахаллан тытни нумай сывалӑш валли аван тата пире тивӗҫлӗ тӑвӑмлӑх хисепсене, мӗнле пулин те тăваттăм, диабет тата ҫӳллӗ ҫан вӗри, хускатма пултарать. Диета вара комисси каланӑ [14 тӑвӑмлӑх хисепӗ](/brain-health/risk-factors/) хушшине кӗртмен.
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+## 2023 ҫулхи MIND диета тӗпчевӗ мӗн кӑтартрӗ?
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+Чи ҫирӗп тӗрӗс тӗпчев 2023 ҫулта New England Journal of Medicine журналӗнче вырнаҫнӑ ([MIND диета тӗпчевӗ](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-### Why might the trial have found no difference?
+- **Кампа:** Чикаго тата Бостон тирӗпе пурӑнакан, шухӑш тӗлӗвӗ те савӑнтарман 604 ҫын, 65 ҫултан пысӑкрах. Вӗсен хушшинче деменципе чирлӗ тата, йывӑрлӑх тытнӑ, апатлану юрӑмӗ те лайӑх мар ҫынсем.
+- **Мӗн тумлӑ:** виҫӗ ҫул хушши икшер йышӑн: пӗр йыш MIND диетӑна тытнӑ, тепӗр йыш — хӑйсен йӗркипе апатланнӑ. Иккӗ йышӗн те кунти 250 килокалори сахаллатма, диетологсемпе яланах консультаци тумалла пулнӑ.
+- **Тӗп результат:** шухӑш тӗлӗвӗ тӗрӗслевӗ иккӗ йышӑн те сахалтан лайӑхланнӑ. Йышсем хушшинче уйрӑмлӑх пӗчӗк пулнӑ тата **статистика тӑрӑх чӗнтермесӗр** пулнӑ. Миҫе сканированире те иккӗ йышӑн пӗр пекех улшӑнусем курӑннӑ.
+- **Йывӑрлӑх:** иккӗ йышӗн те пӗр пекех тӗрлӗшпе 5 килограмм (пӗршер 11 фунт) йывӑрлӑх ҫукленнӗ.
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+### Мӗншӗн тӗпчевре уйрӑмлӑх тупӑнман?
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Тӗпчевҫисем хӑш-пӗр сылтӑмсене кӑтартнӑ:
 
-## What about specific foods and supplements?
+- Контроль йышӗн те апатлану юрӑмне лайӑхлатнӑ, хӑйсен йывӑрлӑхне пӗр пекех ҫукленнине ку пӗлтерме пултарать.
+- Яланах пӗр тӗс тӗрӗслев тумалла пулни тӑвӑмӗнчен те тӗплӗв пулма пултарать: ҫынсем тӗрӗслеве виҫевлӗ туса пымалла.
+- Виҫӗ ҫул — улшӑнусене курма сахалрах вӑхӑт пулма пултарать.
+- Тӗпчевре пуян вӗренӳллӗ, Европа ывӑл-емӗрӗ пуҫтаракан ҫынсем кӑна пулнӑ, ҫавӑнпа результатсем пур ҫынна та кирлӗ мар пулма пултараҫҫӗ.
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Тӗрӗс пӗтӗмлетӳ: MIND диета виҫӗ ҫул хушши калори сахаллатнӑ тӗрӗс апатлану юрӑмӗнчен лайӑхрах пулман. Ку — лайӑх апатлану пӗлтерӗшсӗр тесе пӗлтермест. Ку пӗлтерет: пӗр конкретлӑ диета деменципе чарса лартма пултарать тесе кӗтеҫҫӗн пулмалла мар.
 
-## How can eating stay healthy and enjoyable?
+## Пӗр-пӗр апатсем е хушма тӗрлӗхсем пирки мӗн калать?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+NIA калать: Альцгеймер чирӗ е ҫул тултарнӑ вӑхӑтра шухӑш пӗлтерӗшӗн тӳпемӗпе чарса лартма пӗлтерекен пӗр конкретлӑ апат е апатран тухса ярни ҫинчен ҫирӗп пӗлтерӗш ҫук. Курӑк янтӑрӗсем, симӗс кӑвакал тата куркума тӗрлӗ те тӗпчеме пулнӑ, анчах ҫирӗп пӗлтерӗш тупӑнман. NIA те калать: Альцгеймер чирӗпе чарса лартма витаминосем е хушма тӗрлӗхсем ҫирӗп пӗлтермен тата вӗсем ҫав вӑхӑтри тӗллевпе советланмаҫҫӗ. Ку юрӑмпа каялла ҫукласа ярнӑ, Альцгеймер чирӗпе чарса лартма тата мӗн те пулиншӗн сата янӑ продуктисем хӑрушлӑ пулма, акча ҫухатма е иккӗшне те тумалла пулма пултараҫҫӗ, вӗсем хирӗҫре вырнаҫнӑ медикаментсемпе пӗрле усӑ курма теветле пултараҫҫӗ. Ҫавӑнпа пӗрнине те пробамалла пулсан — врачпа калаҫма кирлӗ ([NIA Альцгеймер чирӗпе чарса лартни пирки](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+## Апатлану лайӑх тата кӑмӑлпа ярӑнма мӗнле пулӑшма пулать?
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Пӗтӗмӗшле пуҫтарнӑ ҫултан пысӑк ҫынсем валли тӗллев — чӑнлӑха май, юлташлӑ тата савӑнтарас килнӗ апат, тӗрӗс план мар:
 
-## How can you help someone with dementia eat well?
+- **Юлташлӑ апатсем ҫине куҫ тӑвӑр.** Средиземномор юрӑмӗнче пулнӑ апатсене усӑ курӑр: кӑвакал, йывӑҫҫи, хӑяр, пӗтӗм тум тумламӑш, чӗр чӳрӗ, зӗрӗт майӑп.
+- **Юратнӑ тӗттӗмсене усӑ курма пӑрахӑр.** Кӑмӑл тата апат ыйтни тӗлӗп тытни — чылайрах ҫултан пысӑк вӑхӑтра особӑнно важлӑ.
+- **Малалла пурӑнакансемпе пӗрле ҫитӗр.** Мӗншӗн те пулин пӗрле апатлану — лайӑх компан.
+- **Пӗрле пусӑр.** Кӑвакал сурса тӑвасси е хӑйла варма ҫӳреме хушма — лайӑх пӗрле ӗҫ; пӑхӑр [киҫе ӗҫӗсем](/activities/household-tasks/). Юратнӑ ҫемье рецепчӗ те [асӑрхану](/activities/reminiscence/) ҫине халӑх килтерме пултарать.
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Ҫултан пысӑк ҫынсем врачпа калаҫмасӑр калори ҫуклетме е йывӑрлӑх ҫуклетме тытӑнмалла мар. Пост та ҫав тӗслӗхпе хӑрушлӑх ҫитермелле. Пирӗн [пост пирки ҫулчӗ](/brain-health/fasting/) пӑхӑр.
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+## Деменципе пурӑнакан ҫынна апатлантара пӗлме мӗнле пулӑшма пулать?
 
-### Signs to tell the doctor about
+Деменципе пурӑнакан ҫын валли чи важлӑ — **тивӗҫлӗ тын тата ҫиҫе** ыйтса илни. Альцгеймер ассоциаци калать: ҫын апат ҫине асран ӑнланмаҫҫӗ, упраса илнӗ тесе шутламаҫҫӗ, е суйлавсем хыҫҫӑн аталанмаҫҫӗ, ҫавӑнпа апатлану тӳпемӗ ҫукланни поведени улшӑнусемне хускатма тата йывӑрлӑх ҫуклетме пултарать ([Альцгеймер ассоциаци апат тата апатлану пирки](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Ку советсем Альцгеймер ассоциаци, NIA тата Альцгеймер общество ҫинчен илнӗ:
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+1. **Чиперле пуҫлӑ апатсем парӑр.** Алпа илме ҫӗтеслӗ кусӑксем, мӗнле пулин те сандвич кусӑксем, тавра кусӑксем, чӗр чӳрӗ вӗреннӗ кусӑксем, апельсин хушӑмӗ е варнӑ кӑвакал кусӑксем — ҫын алпа кӑна илсе ҫиерме пултарать, хӗрринчен усӑ курмасӑр.
+2. **Стол ҫинче контраст усӑ курӑр.** Курӑм улшӑнни апатпа тӑваткал хушшинче уйрӑма кирлӗх тӑвать. Ак ҫӗр пӗлӗк е чашка контрастлӑ салфетка ҫинче — пулӑшма пултарать. Ӑшӑ рисуноклӑ пӗлӗксемпе салфеткӑсемпе усӑ курма чарӑр.
+3. **Вӑхӑтри кӑна икӗ е пӗр апат парӑр.** Тулли пӗлӗк — аталанма тӑвать.
+4. **Апатлану лӑпкӑ пултӑр.** Телевизор сӳнтерӗр, стол ҫине сахал кӑна вырнаҫтарӑр, ҫите пӗрремӗш вӑхӑт парӑр. NIA калать: аванрах пырса е тимлӗмелле хӑнӑхтарас ҫинчен шухӑшлама пултарать.
+5. **Пӗчӗк чӗрӗпе питле илме парӑр.** NIA калать: пӗчӗк пӗчӗксемпе питле илме парни, апат сахал илсе тӑракан чухне лайӑхрах пултарать ([NIA лайӑх апатлантара пӗлме советсем](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Ҫиҫе парнине манӑшмар.** Кун хушшинче пӗчӗк пӗчӗкпе шыв е ытти эсир юратнӑ унта парӑр, шыв пуян апатсем те — мӗнле пулин те йывӑҫҫи, суп, коктейль, пюре. Шыв кӑмӑл килмест пулсан, NIA калать: сок, хупӑ шыв, бульон, сӗт, кофе е чәй кӑвакан тумламӑшне проба тумалла.
+7. **Температурана тӗрӗслӗр.** Ҫын апат е ун чи ытла ыйтнине тӗрӗс пӗлмесен те пулма пултарать.
+8. **Усатма хастарлантарӑр.** Тарелка вырӑнне кӳрпе, пысӑк туйӑмлӑ алӑпа хӗрри, кӑверчӗк унта пуҫлӑ чашка — пулӑшма пултараҫҫӗ. Тӗрӗс мар пулнипе пичетлеме кирлӗ мар.
+9. **Апат чавса ҫиме тивӗҫлӗ туса парӑр.** Кусӑксене пӗчӗкленсе парӑр е нимӗн тата ҫӗпленӗ апатсем парӑр. Ҫын апат ҫине ыйтса тӑрӑх ашӑ тытсан е ялкка пӑхсан — врачпа калаҫма кирлӗ.
+10. **Мӗншӗн те пулин хӑнӑхтарас ҫинчен шухӑшлама.** NIA калать: Альцгеймер чирӗн вӗҫӗ ҫулӗнче апат ыйтни естественно сахалланать.
 
-## Talk with a doctor
+### Врачпа калаҫма кирлӗ палӑртусем
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Йывӑрлӑх ҫуклени, апатран чарӑну, вӑй ҫукланни е чӑрса пыни — апат тата ҫиҫе тивӗҫлӗ мар пулнине пӗлтерме пултараҫҫӗ. Альцгеймер общество калать: шӑл тисем е протезсем хыҫҫӑн аван мар, кӑмӑлсӑрлӑх, кӗреке тата медикамент улшӑннисем те апат ыйтнине чакартаратаҫҫӗ ([Альцгеймер общество апетит тата деменци пирки](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Сывлӑх ҫукланнин палӑртусем — кӗтес хушши курӑк, ҫуйхӑрланни, чӗре хӑвӑрт пыни тата галлюцинацисем ([NIA деменципе пурӑнакан ҫынсен тин медицинӑлла проблемӑсем пирки](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+## Врачпа калаҫӑр
+
+Хӑй валли е тепӗр ҫын валли апатлану юрӑмне пысӑкран хуратма вырӑслас пулсан — сехетлӗхпе врачпа е диетологпа калаҫма кирлӗ, чылайрах пулин диабет, пӗрне чирӗ, йӗтерме аван марлӑх е юхса кайнипе ҫыхӑннӑ. Деменципе пурӑнакан ҫын валли кун хушши мӗн чухлӗ апат тата ҫиҫе ыйтса илмелле тесе ыйтма тата диетолог е хушма тӗрлӗх пулӑшӗ пултаракан пулнине тӗрӗс пӗлме советлас пулать.
+
+Яланах хӑрушлӑ пулсан пулӑшӗ ыйтӑр: ялкка пӑхсан, сасартакан шухӑшлану, тӗттӗм ҫуйхӑрлану е тасалса каю.

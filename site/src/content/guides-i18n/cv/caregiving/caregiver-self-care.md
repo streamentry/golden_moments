@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Пӗччен тытса тӑракансем валли: кану, пулӑшу тата ӗҫсӗрленни паллисӗм"
+seoTitle: "Пӗччен тытнипе: кану, пулӑшу тата хӑвна пӑхни"
+description: "Пӗччен тытса тӑракан ҫын ӗҫсӗрленнин паллисӗм, кану тата пулӑшу ушкӑнӗсене мӗнле тупмалли, АКШри тӳлевсӗр шӑнкӑрав шухӑшӗсем."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Деменципе пурӑнакан ҫынна пӗччен тытса тӑрасси — йывӑр ӗҫ. Хӑвна пӑхасси те ун
+  пайӗ. Вӑй ҫухални, йӑлтах ӑшӑхланни, ҫывӑр ӗнтӗленни, тусран-юлташран
+  уйрӑлни пек асӑрхаттару паллисӗне сӑнаса тӑрӑр. Ытти ҫынсенчен ятарлӑ
+  пулӑшу ыйтӑр, кану пулӑшӑвӗпе усӑ курӑр, пулӑшу ушкӑнне хутшӑнӑр. АКШра
+  тӳлевсӗр пулӑшу — Alzheimer’s Association 24/7 Helpline (1-800-272-3900) тата
+  Eldercare Locator (1-800-677-1116).
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Ӗҫсӗрленни час-часах вӑй ҫухалнипе, йӑлтах ӑшӑхланнипе, ҫывӑр җӗтленнипе, салху килнипе тата хӑвӑн сывлӑхӑна пӑхма маннипе палӑрать."
+  - "Кану пулӑшӑвӗ сире темиҫе сехетрен темиҫе эрнере таран кану парать — килте те, пӑхса тӑмалли вырӑнта та."
+  - "Пулӑшма пултаракан ӗҫсене ятарлӑса ыйтӑр; нумай ҫын пулӑшасшӑн, анчах мӗнле пулӑшмаллине пӗлмест."
+  - "Alzheimer’s Association 24/7 Helpline (1-800-272-3900) пӗр кунсерен тӳлевсӗр тата вӑрттӑнлӑхпа пулӑшать."
+  - "Eldercare Locator (1-800-677-1116) вырӑнти пулӑшусемпе, ҫав шутра сирӗн Area Agency on Aging организацийӗпе, ҫыхӑнтарать."
+  - "Хӑвӑра хӑрушлӑхра туйсан, 988 çине шӑнкӑравлӑр е ҫырӑр. Тӳрех хӑрушлӑх пулсан, 112 çине шӑнкӑравлӑр."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Пӗччен тытса тӑракан ҫын ӗҫсӗрленнин паллисӗм мӗнсем?"
+    a: "Час-часах палӑракан паллисене вӑй ҫухални, хӑрушлӑх туйӑмӗ, йӑлтах ҫилленни е чӑтӑмсӑрланни, ҫывӑр йывӑрланни, салху туйӑмӗ е шанчӑк ҫухални, тусран-юлташран уйрӑлни, пуҫ ыратни е ырату, хӑвӑн апатланнине, хускануне е тухтӑр патне ҫӳрени катартни кӗрет. Ку паллисӗсем тӑтӑшах палӑрсан, тухтӑрпа калаҫӑр."
+  - q: "Манӑн тавра кану пулӑшӑвне мӗнле тупмалла?"
+    a: "Eldercare Locator (1-800-677-1116 е eldercare.acl.gov) урлӑ вырӑнти Area Agency on Aging организацийӗпе паллашма пултаратӑр, ARCH National Respite Locator Service е Alzheimer’s Association Helpline (1-800-272-3900) шӑнкӑравӗпе те усӑ курма пулать. Ҫемье, туссем тата ирӗклӗ пулӑшакансем те кану вӑхӑтне туса параймаҫҫӗ."
+  - q: "Medicare кану пулӑшӑвӗ валли тӳлеме-и?"
+    a: "National Institute on Aging пӗлтернӗ тӑрӑх, хоспис пулӑшӑвӗ илекен ҫын валли Medicare больницӑра е пӗлтерӗшлӗ пӑхса тӑмалли учрежденире пӗр хушшинче тӑракан пилӗк кун таран кану пулӑшӑвӗн тӳлевӗн чылайӑшне тӳлет. Ытти часрах сахал страховани кану пулӑшӑвне тӳлемест; Medicaid тата хӑш-пӗр вӑрӑм вӑхӑтлӑ пӑхса тӑмалли страхови планӗсем пулӑшма пултараҫҫӗ."
+  - q: "Alzheimer’s Association Helpline чӑнах та тӳлевсӗр тата каҫпа та уҫӑ-и?"
+    a: "Ҫапла. Alzheimer’s Association пӗлтернӗ тӑрӑх, 1-800-272-3900 Helpline — тӳлевсӗр, вӑрттӑнлӑхпа тата ҫулталӑкри 365 кун те, пӗр кунсерен ӗҫлекен шӑнкӑрав. Икӗ чӗлхеллӗ ӗҫченсем е куҫаруҫӑсем урлӑ нумай чӗлхепе пулӑшма пултараҫҫӗ. Реле сервисӗ валли 711 çине шӑнкӑравлӑр."
+  - q: "Пӗччен тытнирен канма — хӑвна кӑна кӑтарту-и?"
+    a: "Ҫук. Кану сире малалла та пӗччен тытса тӑма вӑй парать. Ҫавӑн пекех эсир пӗччен тытса тӑракан ҫын валли те ҫӗнӗ ҫынсемпе тата ӗҫсемпе паллашни лайӑх пулма пултарать. Нумай пӗччен тытса тӑракансем каярах: «Пулӑшу аванрах ыйтнӑ пулттӑм-ши», — теҫҫӗ."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,92 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Ентешӗн эсир деменципе пурӑнакан ҫынна пӗччен тытса тӑратӑр пулсан, ку страницӑна каҫ вӑхӑтра, ывӑнса, тата тунмалли ӗҫсем туллипе хальлӗхе туса пӗтерменнине шутласа вулатӑр. Ку — ахаль ҫук. Хӑвна пӑхасси — пурне те туса пӗтернӗ хыҫҫӑн парӑнтаракан преми мар. Вӑл сире малалла та ӗҫлеме май парать.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ку страницӑра ӗҫсӗрленнин паллисӗсем, чӑн кану тупасси, пулӑшу тупмалли вырӑнсем тата паян та шӑнкӑравлама пултаракан АКШри тӳлевсӗр шӑнкӑрав шухӑшӗсем пирки калаҫнӑ.
 
-## What are the signs of caregiver burnout?
+## Пӗччен тытса тӑракан ҫын ӗҫсӗрленнин паллисӗм мӗнсем?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Ӗҫсӗрленни час-часах майӗпен килет, ҫавна май хӑвӑн асӑрхаттару паллисене пӗлни пулӑшать. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) пӗччен тытса тӑракан ҫын стресӗн ҫак паллисӗсене аса илнине сӑнарлать:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- вӑй ҫухални, хӑрушлӑхра выртни е пӑшӑрханни туйӑмӗ;
+- ҫӑмӑлтан ҫилленни е чӑтӑмсӑрланни;
+- пӗчченхи кӑна калаҫурах усӑ курас килменни;
+- ыттисемпе ҫыхӑну ҫухални;
+- ҫывӑр йывӑрланни е ҫывӑра ситменни;
+- салху, шанчӑксӑрлӑх туйӑмӗ е малтан киленӗ ӗҫсене кӑмӑл тухманни;
+- час-часах пуҫ ыратни, ырату е ытти физиклӑ йывӑрлӑхсем;
+- хӑвӑн валли хускану тума е сывлӑхлӑ апат хатӗрлеме вӑхӑт ҫитменни;
+- ҫумаллине манса кайни е хӑвна пӑхма манни;
+- эрех е лекарствӑсемпе, ҫав шутра врач prescription тунӑ лекарствӑсемпе, тӗрӗс мар усӑ курни.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ҫавӑн пекех чиррен анланса пӑрахассине (denial), эсир пӗччен тытса тӑракан ҫын çине ҫилленнине, малашне пула пӑшӑрханнине, тимлӗ шухӑшлама йывӑрланнине тата сывлӑх йывӑрлӑхӗсене те палӑртать. Ку паллисӗсем тӑтӑшах пулсан, тухтӑрпа калаҫма сӗнет.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA сӗнни: вӑй ҫителӗклӗ пӗтсе лариччен кӗтсе тӑмарӑр. Паллӑсене ирттерех асӑрхарӑр та хӑйсене пулӑшма тытӑнӑр.
 
-## What can I do today, in five minutes?
+## Паян пилӗк минут хушшинчи мӗн тума пулать?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Пӗчӗк канусем те пӗлтерӗшлӗ. Вӗсем ӗҫсӗрленнине пӗтӗмпех пӗтермеҫҫӗ, анчах йывӑр каҫа ирттерме пулӑшма пултараҫҫӗ.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Тулаш каҫа тухӑр.** Эсир пӗччен тытса тӑракан ҫын хӑрушсӑр тата лӑпкӑ вырӑнта пурӑннӑ чухне террасӑра ларӑр е ҫыру ящичӗ патне ҫӳрӗр.
+- **Майӗпен сывлӑр.** Йывӑр ыйтӑва хуравламас умӗн темиҫе хут майӗпен сывлӑр. [Calm Breathing](/games/calm-breathing/) ӗҫӗпе эсир пӗччен тытса тӑракан ҫынпа пӗрле те кӑштах канма пултаратӑр.
+- **Шыв ӗҫӗр те нимӗн те ҫиӗр.** Хӑвӑн апатланнине манаҫҫӗ.
+- **Пӗр тусӑна ҫыру ярӑр.** Ним те ыйтма мар, ҫыхӑну тума кӑна.
+- **Хӑвӑра ырӑ сӑмах калӑр.** NIA [хӑвна пӑхни пирки канашӗнче](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ҫак сӑмахсене калама сӗнет: «Эпӗ пултаратнӑ таран тӑрӑшатӑп», «Эпӗ тулли тӗп-тулли мар, ку йӗркесӗллӗ», «Эпир пӗрле лӑпкӑ пулнӑ самантсене хаклатӑп».
 
-## What is respite care, and how do I get it?
+## Кану пулӑшӑвӗ мӗн вӑл тата ӑна мӗнле илме пулать?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Кану пулӑшӑвӗ — эсир пӗччен тытса тӑракан ҫынна кӗскӗ вӑхӑтлӑ пӑхса тӑни. Ку вӑхӑтра эсир канма пултаратӑр. NIA [кану пулӑшӑвӗ пирки страницинче](https://www.nia.nih.gov/health/caregiving/what-respite-care) ӑна темиҫе сехетрен темиҫе эрнере таран туса май пуррине, вӑл килте, сывлӑх ӗҫӗ учрежденийӗнче е кунти пӑхса тӑмалли центрта пулма пултарнине ӑнлантарать.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) тӗрлӗ вариантсене палӑртать:
 
-| Type | What it is |
+| Тӗсӗ | Мӗн вӑл |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Килти пулӑшу | Тус, ҫемье тӗлӗнчен ҫын, ирӗклӗ пулӑшакан е тӳлевлӗ пӑхса тӑракан ҫын киле килет |
+| Кунти пӑхса тӑмалли центр | Хӑрушсӑр ушкӑнра кӗвӗ, ӳнер пек планлӑ ӗҫсем; час-часах куҫару тата апатлану те пур |
+| Каҫ ӳкерни е кӗскӗ вӑхӑтлӑ выртни | Вӑрӑм вӑхӑтлӑ пӑхса тӑмалли учреждени ҫынна пӗр каҫ, темиҫе кун е темиҫе эрне пӑхать |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Кам тӳлет?** NIA пӗлтернӗ тӑрӑх, ҫемье, туссем е ирӗклӗ пулӑшакансем тӳлевсӗр пулӑшма пултараҫҫӗ. Профессионаллӑ пулӑшӑва сехетӗшӗн е кунӗшӗн тӳлеҫҫӗ. Хоспис пулӑшӑвӗ илекен ҫын валли Medicare больницӑра е пӗлтерӗшлӗ пӑхса тӑмалли учрежденире тӑракан пилӗк кун таран кану пулӑшӑвӗн тӳлевӗн чылайӑшне тӳлет. Medicaid пулӑшма пултарать. Сахал страховани ытларах чухне кану пулӑшӑвне тӳлемест, анчах хӑш-пӗр вӑрӑм вӑхӑтлӑ пӑхса тӑмалли страхови планӗсем пулӑшма пултараҫҫӗ.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Сӗнӳ:** Alzheimer’s Association кану пулӑшакан провайдерсене хӑрушлӑх ҫук чухне паллашса пӑхма сӗнет. Ҫавна май тӳрех пулӑшу кирлӗ пулсан, вӗсем хатӗр пулӗҫ.
 
-## Where can I find help near me?
+## Манӑн тавра пулӑшу мӗнле тупмалла?
 
-Several free US services can point you to local help.
+АКШра тӳлевсӗр пулӑшакан хӑш-пӗр сервиссем сире вырӑнти ресурссене тупма пулӑшаҫҫӗ.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer’s Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) — тӳлевсӗр тата вӑрттӑнлӑхпа ӗҫлекен шӑнкӑрав. Ӑна ҫулталӑкри 365 кун те, пӗр кунсерен тытса юлма пулать. Икӗ чӗлхеллӗ ӗҫченсем е куҫаруҫӑсем урлӑ 200 чӗлхерен ытларах чӗлхепе пулӑшаҫҫӗ. Реле сервисӗ валли 711 çине шӑнкӑравлӑр. Эсир хӑйсен пурнӑҫӗн улшӑнӑвӗсем, йывӑрлӑхсем, пӗччен тытса тӑракан ҫын стресӗ, кану вариантӗсем, вырӑнти программӑсем пирки калаҫма пултаратӑр; ытларах вӑрӑм сӳтсе явмалли калаҫу ыйтма та май пур. Ӗҫченсем медицини канашӗ пармаҫҫӗ.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) — Administration for Community Living пырса тӑракан пӗлтерӗшлӗ сервис. Вӑл ват ҫынсемпе вӗсен ҫемйисем валли пулӑшусемпе ҫыхӑнтарать. Шӑнкӑравлама, ҫыру яма, онлайн чатра калаҫма е электронлӑ ҫыру ярма, ҫавӑн пекех вырӑн тӑрӑх шырав тума пулать. Вӑл сире вырӑнти Area Agency on Aging организацийӗ патне йӗркеле.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) штат тӑрӑх кану пулӑшакансене тупма пулӑшать. Эсир пурӑнакан штатра ун пек организаци пур пулсан, малтан сирӗн State Respite Coalition е Lifespan Respite программине шӑнкӑравлама сӗнет. ARCH хӑйӗнче провайдерсене тӗрӗслеменнине палӑртать, ҫавна май вӗсен опытне тата информацине хӑвӑр тӗрӗслӗр.
 
-## How do I find a support group?
+## Пулӑшу ушкӑнне мӗнле тупмалла?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline çине шӑнкӑравлӑр е таврари ушкӑнсене интернетра шырар. Alzheimer’s Association [пӗччен тытса тӑракансем валли тата деменципе пурӑнакан ҫынсем валли пулӑшу ушкӑнӗсем ирттерет](https://www.alz.org/help-support/community/support-groups) — пурнӑҫра та, онлайн та. Ушкӑнсене вӗренӗ фасилитаторсем ертсе пыраҫҫӗ. Хӑш-пӗр вырӑнсенче ятарлӑ ушкӑнсем те пур, сӑмахран, ҫитӗннӗ ачасем пӗччен тытса тӑракансем валли е ҫамрӑкрах пуҫланнӑ Alzheimer’s чирӗпе пурӑнакан ҫынсем валли. Ҫавӑн пекех ALZConnected пур — пӗччен тытса тӑракансем опытпа пайланма пултаракан тӳлевсӗр онлайн пӗрлешӳ.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Пулӑшу ушкӑнӗ — хӑрушсӑр калаҫма, ҫав ӗҫе ирттернӗ ҫынсенчен усӑллӑ сӗнӳсем илме тата пӗчченхӗ кӑна пулманнине туйма вырӑн. Пӗрремӗш ушкӑн килӗшмесен, тепӗрне пӑхӑр.
 
-## How do I ask family and friends for help?
+## Ҫемйерен тата тусран-юлташран пулӑшу мӗнле ыйтмалла?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Ятарлӑса ыйтӑр. Нумай ҫын пулӑшасшӑн, анчах мӗн сӗнме майлине пӗлмест. NIA ҫакна сӗнет:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Ыттисем туса пултаракан ӗҫсен списокне тӑвӑр** та вӗсене кам валли мӗн кирлӗне суйлама парӑр.
+- **Ыйтни йывӑр пулсан, пӗчӗкрен пуҫлӑр.**
+- **Ӗҫе ҫын патне килӗштерӗр.** Апат хатӗрлеме юратакан тӑван эрне кунӗ каҫхи апат парса килет. Документсемпе ӗҫлеме пӗлекен куршӑ ҫырусемпе пулӑшать.
+- **Пурнӑҫра калаҫни йывӑр пулсан, ҫыру е sms ярӑр.**
+- **Пулӑшу сӗннӗ чухне каламалли сӑмахсене малтанах шухӑшлӑр:** «Тархасшӑн, ыйтнӑшӑн. Эпӗ сана ҫапла пулӑшма ыйтатӑп».
+- **Хӑш-пӗр ҫынсем килӗшмессине шута илӗр** те ҫавна хӑвӑра айӑплама ан тытӑнӑр.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ытти сӗнӳсем: тахҫамӑра пӗр каҫ эсир пӗччен тытса тӑракан ҫын патӗнче ларас тесе ыйтӑр, ӑна кӗскӗ выляма илсе тухма е килсе пӗрле выляма ыйтӑр. [Пӗрле выляни пирки канашпа](/caregiving/how-to-play-together/) ҫыхӑнакан ҫынсемпе пайланма ҫӑмӑл.
 
-## What if something happened to me?
+## Манпа нимӗн те пулсан мӗн?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Хальхинче ахаль план тӑвӑр. NIA ҫемйепе е ҫывӑх туссемпе мӗн пулсан кам ӗҫе йышӑннине палӑртма, хӑрушлӑх чухне шӑнкӑравламалли номерсене, лекарствӑсене, пулӑшакан хӑйсен пурнӑҫӗ канашӗсене тата юратнӑ ӗҫсене ҫырса хумалли тетрадь тытма сӗнет. Alzheimer’s Association ҫавӑн пекех ҫынӑн тухтӑрӗсен контакчӗсене тата ҫӗнӗ лекарствӑсен списокне ҫӑмӑл вырӑнта упрама сӗнет.
 
-## When should I get professional or urgent help?
+## Мӗнле чухне профессионаллӑ е тӳрех пулӑшу кирлӗ?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Стресс паллисӗсем тӑтӑшах палӑрсан, салху туйӑмӗ пулсан е хӑвӑра май килмест тесе туйсан, тухтӑрпа калаҫӑр. Эсир пӗччен тытса тӑракан ҫын пулнине тухтӑра калӑр. NIA пӗлтернӗ тӑрӑх, консультантсем тата социаллӑ ӗҫченсем йывӑр туйӑмсемпе тата план тӑвӑвӗпе пулӑшма пултараҫҫӗ; Medicare, Medicaid тата хӑш-пӗр сахал страхови планӗсем психика сывлӑхӗ пулӑшӑвӗн хӑш-пӗр пайне тӳлеме пултараҫҫӗ.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Хӑвӑра хӑрушлӑхра туйсан е хӑвӑра сӳнтерме шухӑш килсен, [988 Suicide & Crisis Lifeline](https://988lifeline.org/) шӑнкӑравӗ патне 988 çине шӑнкӑравлӑр е ҫырӑр. Вӑл тӳлевсӗр тата пӗр кунсерен уҫӑ. Кама та халь тӗк хӑрушлӑх пулсан, 112 çине шӑнкӑравлӑр.
 
-## Can shared activities give me a break too?
+## Пӗрле ӗҫлеме май паракан ӗҫсем сире те кану параҫҫӗ-и?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Хӑш чухне — ҫапла. Иккӗшӗ те килӗшӳллӗн туса пултаракан лӑпкӑ ӗҫ кунӑн лайӑх пайӗ пулма пултарать — авалхи юррисене итлесси, сӑнӳкерчӗксене пӑхасси е тӗрӗс хурав ыйтман [Conversation Cards](/games/conversation-cards/) пек вылямалли ӗҫ. Эсир пӗччен тытса тӑракан ҫын ыттисемпе пӗрле пулма юратсан, ват ҫынсем центрӗнче е кунти программӑра [Picture Bingo](/games/picture-bingo/) пек ушкӑн ӗҫӗ сире пӗр сехет хушши кану парать. [Пӑхса тӑмалли вырӑнри ушкӑнсем валли сӗнӳсемпе](/activities/care-home-groups/) паллашӑр.

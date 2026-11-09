@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gweithgareddau Dementia am Ddim i'w Hargraffu"
+seoTitle: "Gweithgareddau Dementia i'w Hargraffu: Print Mawr"
+description: "Gweithgareddau dementia am ddim i'w hargraffu: chwilair print mawr, tudalennau lliwio, cardiau sgwrs a bingo lluniau, gyda chyngor ar argraffu."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Mae Golden Moments yn cynnig gweithgareddau dementia am ddim i'w hargraffu:
+  chwilair print mawr, tudalennau lliwio, cardiau sgwrs â lluniau a cardiau
+  bingo lluniau. Agorwch unrhyw dudalen gêm a defnyddiwch ei botwm Argraffu.
+  Argraffwch mewn print mawr, plaen ar bapur trwchus, cadwch un dasg ar bob
+  tudalen, a lamineiddiwch dudalennau rydych am eu hailddefnyddio. Gall
+  deunyddiau syml rydych yn eu gwneud gartref, fel tudalen stori bywyd neu
+  amserlen ddyddiol, helpu hefyd.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Mae ein gweithgareddau i'w hargraffu am ddim: Chwilair, Lliwio, Cardiau Sgwrs a Bingo Lluniau. Mae botwm Argraffu ar bob tudalen gêm."
+  - "Argraffwch mewn print mawr, plaen gyda chyferbyniad cryf, a chadwch un dasg ar bob tudalen."
+  - "Mae papur trwchus neu gardfwrdd yn haws i'w ddal ac yn llai tebygol o grychu. Gallwch lamineiddio tudalennau i'w hailddefnyddio gyda marcwyr sych."
+  - "Mae deunyddiau syml rydych yn eu gwneud gartref, fel tudalen stori bywyd, amserlen ddyddiol neu labeli lluniau ar ddrysau, yn ddefnyddiol."
+  - "Mae tudalen wedi'i hargraffu yn wahoddiad, nid yn waith cartref. Mae gwneud rhan ohoni, neu ddim ohoni, yn iawn."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "A yw eich gweithgareddau dementia i'w hargraffu am ddim?"
+    a: "Ydyn. Mae'r tudalennau Chwilair, Lliwio, Cardiau Sgwrs a Bingo Lluniau ar y wefan hon am ddim i'w defnyddio a'u hargraffu. Agorwch dudalen y gêm a defnyddiwch y botwm Argraffu."
+  - q: "Pa weithgareddau i'w hargraffu sydd orau ar gyfer dementia?"
+    a: "Y deunyddiau gorau i'w hargraffu yw'r rhai syml, clir ac addas i oedolion: chwilair print mawr gyda geiriau ar draws ac i lawr yn unig, tudalennau lliwio gydag amlinelliadau clir, cardiau lluniau sy'n dechrau sgwrs, a bingo lluniau ar gyfer grwpiau. Dewiswch weithgaredd sy'n cyd-fynd â diddordebau a galluoedd presennol y person, a chadwch un dasg ar bob tudalen."
+  - q: "Sut gallaf wneud deunyddiau i'w hargraffu yn haws i'w gweld a'u defnyddio?"
+    a: "Defnyddiwch print mawr, plaen, inc tywyll ar bapur gwyn neu hufen, a digon o le. Argraffwch ar bapur trwchus neu gardfwrdd fel bod y dudalen yn aros yn wastad, dewiswch bapur matte i leihau disgleirdeb, a defnyddiwch glipfwrdd neu fat gwrthlithro i gadw'r dudalen yn llonydd. Mae lamineiddio yn helpu tudalennau i bara."
+  - q: "A allaf argraffu eich gweithgareddau ar gyfer cartref gofal neu raglen ddydd?"
+    a: "Gallwch. Mae croeso i staff gweithgareddau argraffu ein tudalennau ar gyfer trigolion a grwpiau. Mae Bingo Lluniau wedi'i gynllunio ar gyfer grwpiau ac mae'n cynnwys galwr ar y sgrin y gallwch ei ddangos ar deledu neu daflunydd."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Weithiau, y gweithgaredd gorau yw dalen o bapur a beiro wrth fwrdd y gegin. Nid oes angen gwefru deunyddiau i'w hargraffu, nid oes angen cyfrineiriau na sgrin, ac maen nhw'n hawdd i'w dod ag ymweliad neu i grŵp. Mae'r dudalen hon yn disgrifio'r gweithgareddau am ddim ar ein gwefan y gallwch eu hargraffu, sut i'w hargraffu fel eu bod yn hawdd i'w gweld a'u dal, ac ychydig o ddeunyddiau syml y gallwch eu gwneud gartref y mae teuluoedd a staff gweithgareddau yn eu cael yn ddefnyddiol.
 
-## What free printable activities do you offer?
+## Pa weithgareddau am ddim y gallwch eu hargraffu rydym yn eu cynnig?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Rydym yn cynnig pedwar deunydd i'w hargraffu am ddim. Agorwch unrhyw un o'r tudalennau gêm hyn a defnyddiwch y botwm **Argraffu** i gael fersiwn sy'n hawdd ei hargraffu.
 
-| Printable | What it is | Good for |
+| I'w hargraffu | Beth ydyw | Yn addas ar gyfer |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Chwilair](/games/word-search/) | Chwilair print mawr gyda geiriau ar draws ac i lawr yn unig | Amser tawel gyda beiro; rhywun a oedd yn mwynhau posau |
+| [Lliwio](/games/coloring/) | Tudalennau lliwio i'w hargraffu, neu i'w lliwio ar y sgrin | Amser hamddenol a chreadigol; unrhyw gam gyda chymorth |
+| [Cardiau Sgwrs](/games/conversation-cards/) | Cardiau lluniau gyda chwestiynau agored i ddechrau sgwrs, yn ôl thema | Ymweliadau, galwadau, prydau bwyd teuluol, grwpiau atgofion |
+| [Bingo Lluniau](/games/picture-bingo/) | Cardiau bingo gyda lluniau yn lle rhifau, ynghyd â galwr ar y sgrin | Cartrefi gofal, rhaglenni dydd, cyfarfodydd teuluol |
 
-### Large-print word search
+### Chwilair print mawr
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Mae'r [Chwilair](/games/word-search/) yn defnyddio llythrennau mawr ac yn cadw geiriau ar draws ac i lawr yn unig, heb groesliniau na geiriau am yn ôl. Gweithiwch arno gyda'ch gilydd: mae un person yn darllen gair o'r rhestr, a'r llall yn edrych amdano. Os yw dod o hyd i eiriau yn mynd yn anodd, rhowch gynnig ar gylchu llythyren gyntaf pob gair gyda'ch gilydd, neu'n syml darllenwch y rhestr eiriau'n uchel a siarad am bob gair.
 
-### Coloring pages
+### Tudalennau lliwio
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Gallwch argraffu tudalennau [Lliwio](/games/coloring/) ar gyfer marcwyr neu bensiliau lliw, neu eu lliwio ar dabled drwy dapio lliw ac yna ran o'r llun. Ar gyfer tudalennau wedi'u hargraffu, cynigiwch farcwyr trwchus ac ychydig o liwiau ar y tro. Ewch i'n [canllaw celf a chrefft](/activities/arts-and-crafts/) am ffyrdd o gadw lliwio'n addas i oedolion ac yn hamddenol.
 
-### Conversation cards
+### Cardiau sgwrs
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+Mae [Cardiau Sgwrs](/games/conversation-cards/) yn paru llun clir â chwestiwn agored, fel „Dywedwch wrthyf am...” neu „Beth rydych chi'n ei weld?” Maen nhw wedi'u hysgrifennu fel gwahoddiadau agored, nid cwestiynau prawf. Argraffwch set, torrwch y cardiau ar wahân, a chadwch ychydig mewn bag ar gyfer ymweliadau neu wrth ymyl y ffôn ar gyfer galwadau. Maen nhw hefyd yn gweithio'n dda mewn grwpiau [atgofion](/activities/reminiscence/).
 
-### Picture bingo cards
+### Cardiau bingo lluniau
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Mae cardiau [Bingo Lluniau](/games/picture-bingo/) yn defnyddio lluniau yn lle rhifau. Argraffwch un cerdyn i bob chwaraewr a defnyddiwch y galwr ar y sgrin ar liniadur, teledu neu daflunydd. Rydym yn awgrymu galw nes bod cerdyn pawb yn llawn, fel nad oes neb yn cael ei adael allan. Ewch i [weithgareddau grŵp ar gyfer cartrefi gofal](/activities/care-home-groups/) i weld sut i gynnal sesiwn.
 
-## How do I print activities so they are easy to use?
+## Sut gallaf argraffu gweithgareddau fel eu bod yn hawdd i'w defnyddio?
 
-Small changes in how you print make a big difference.
+Gall newidiadau bach yn y ffordd rydych yn argraffu wneud gwahaniaeth mawr.
 
-### Make it easy to see
+### Gwnewch hi'n hawdd ei gweld
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Print mawr, plaen.** Defnyddiwch y gosodiad print mwyaf sy'n dal i ffitio ar y dudalen. Osgowch ffontiau addurnedig neu sgript.
+- **Cyferbyniad cryf.** Inc tywyll ar bapur gwyn neu hufen. Peidiwch â defnyddio llwyd golau neu gefndiroedd lliw.
+- **Mae papur matte** yn lleihau disgleirdeb o dan oleuadau llachar.
+- **Gwiriwch sbectol a goleuo.** Mae Cymdeithas Alzheimer yn nodi y gall problemau â'r golwg a'r clyw wneud cyfathrebu'n anoddach, ac yn awgrymu eu gwirio'n rheolaidd. Mae lamp lachar, wastad yn helpu hefyd.
 
-### Make it easy to hold
+### Gwnewch hi'n hawdd ei dal
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Mae papur trwchus neu gardfwrdd** yn aros yn wastad, yn haws i'w godi, ac yn para'n well gyda defnydd dro ar ôl tro.
+- **Mae clipfwrdd** neu fat bwrdd gwrthlithro yn cadw'r dudalen rhag llithro.
+- **Mae marcwyr trwchus neu bensiliau bras** yn haws i'w gafael na beiros tenau.
 
-### Make it reusable
+### Gwnewch hi'n aildefnyddiadwy
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Lamineiddiwch dudalennau** neu rhowch nhw mewn amddiffynwyr dalennau tryloyw. Defnyddiwch farcwyr sych ar chwilair a cardiau bingo, yna sychwch yn lân.
+- **Dewiswch amlenni matte** os yw disgleirdeb yn broblem, a **throwlio corneli** cardiau wedi'u lamineiddio gyda siswrn fel eu bod yn gyfforddus i'w trin.
+- **Cadwch ffolder** o hoff dudalennau fel nad oes angen i chi argraffu'r un dudalen bob wythnos.
 
-### Keep it simple
+### Cadwch hi'n syml
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Un dasg ar bob tudalen.** Un chwilair neu un llun, nid sawl gweithgaredd wedi'u gwasgu at ei gilydd.
+- **Digon o le gwyn.** Gall tudalen brysur deimlo'n llethol.
+- **Dim cyfarwyddiadau i'w darllen, lle bo modd.** Dangoswch i'r person beth i'w wneud yn lle hynny.
+- **Torrwch ddalennau i lawr.** Os yw tudalen lawn yn ormod, torrwch hi'n hanner neu plygwch hi fel mai dim ond rhan sy'n weladwy.
 
-## Other useful printables you can make at home
+## Pa ddeunyddiau defnyddiol eraill y gallwch eu gwneud gartref?
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Nid gêm yw pob deunydd defnyddiol i'w hargraffu. Mae'r rhain yn hawdd i'w gwneud gyda phrosesydd geiriau ac argraffydd.
 
-### A life-story page
+### Tudalen stori bywyd
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Dalen „amdanaf i” ar un dudalen gyda llun, yr enw y mae'r person yn hoffi cael ei alw, ble y cawsant eu magu, eu gwaith, eu teulu, eu hoff fwydydd, cerddoriaeth a'r pethau sy'n eu cysuro neu'n eu cynhyrfu. Mae Dementia Australia yn awgrymu [llyfr atgofion](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) gyda manylion am fywyd y person, eu hoff bethau a phobl bwysig, i helpu ymwelwyr a gofalwyr ac i sbarduno sgwrs.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Mae'n arbennig o ddefnyddiol mewn ysbytai a lleoliadau gofal newydd. Mae'r NIA yn argymell rhoi [dalen wybodaeth bersonol](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) i staff yr ysbyty sy'n cynnwys trefn ddyddiol y person, yr enw y mae'n well ganddo, pethau mae'n eu hoffi a'u casáu, pethau a allai achosi straen, ac arwyddion di-eiriau o boen.
 
-### A daily schedule
+### Amserlen ddyddiol
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Amserlen syml, fawr ar gyfer y dydd gydag amseroedd, ychydig eiriau a llun bach ar gyfer pob rhan: brecwast, taith gerdded, cinio, gorffwys, cerddoriaeth, swper. Mae [cynllun gofal dyddiol](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) Cymdeithas Alzheimer yn awgrymu cynllunio o amgylch amseroedd gorau'r dydd i'r person, gydag amseroedd rheolaidd i ddeffro a mynd i'r gwely a chydbwysedd rhwng gweithgaredd a gorffwys. Rhowch hi ar lefel y llygaid, efallai ar yr oergell, a chadwch hi'n hyblyg. Ewch i'n [canllaw trefn ddyddiol](/activities/daily-routine/) am ragor.
 
-### Picture labels for rooms and drawers
+### Labeli lluniau ar gyfer ystafelloedd a droriau
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Mae'r NIA yn awgrymu defnyddio arwyddion llachar neu luniau syml i [labelu'r ystafell ymolchi, yr ystafell wely a'r gegin](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Mae'r un syniad yn gweithio ar gyfer droriau a chypyrddau: llun o sanau ar ddrôr y sanau, cwpanau ar gwpwrdd y cwpanau. Argraffwch, lamineiddiwch a'u tapio i fyny.
 
-### A sorting set
+### Set ddidoli
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Argraffwch luniau o ddau gategori syml, fel ffrwythau a blodau neu offer ac eitemau cegin, ar gardfwrdd. Torrwch nhw ar wahân a'u didoli'n dau fasged gyda'ch gilydd. Fersiwn y sgrin o hyn yw [Trefnu gyda'ch Gilydd](/games/sort-together/).
 
-### Song lyric sheets
+### Taflenni geiriau caneuon
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Argraffwch eiriau ychydig o hoff ganeuon mewn print mawr iawn ar gyfer canu gyda'ch gilydd. Gall hyd yn oed pobl nad ydynt bellach yn darllen llawer fwynhau dal y daflen.
 
-### A family photo page
+### Tudalen lluniau teulu
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Un dudalen gyda phedwar i chwe llun teulu mawr, gyda henw cyntaf o dan bob un. Gall aros ar y bwrdd i unrhyw un ei godi a siarad amdani. Mae labeli'n helpu ymwelwyr a staff i ymuno â'r sgwrs, ac nid oes angen i neb ofyn „Pwy yw hwn?”
 
-### A recipe card
+### Cerdyn rysáit
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Argraffwch hoff rysáit deuluol mewn print mawr. Defnyddiwch hi i goginio gyda'ch gilydd, neu'n syml i siarad am brydau bwyd o'r gorffennol.
 
-## How do I offer a printable without it feeling like homework?
+## Sut gallaf gynnig deunydd i'w hargraffu heb iddo deimlo fel gwaith cartref?
 
-Present it as something to share, not a test.
+Cyflwynwch ef fel rhywbeth i'w rannu, nid prawf.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Eisteddwch i lawr a dechreuwch ei wneud eich hun.** „Rwy'n gwneud y chwilair hwn. Hoffech chi fy helpu i ddod o hyd i 'gardd'?”
+- **Gweithiwch gyda'ch gilydd.** Cymrwch eich tro, neu mae un person yn dod o hyd i'r gair a'r llall yn ei gylchu.
+- **Peidiwch byth â'i farcio'n gywir neu'n anghywir.** Mae canllaw Cymdeithas Alzheimer ar [weithgareddau gartref](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) yn cynghori canolbwyntio ar y broses, nid y canlyniad, ac ar fwynhad yn hytrach na chyflawniad.
+- **Gadewch dudalennau allan.** Mae'r un canllaw yn awgrymu gosod llyfrau lloffion, albymau lluniau neu hen gylchgronau mewn mannau hawdd eu cyrraedd. Gall cardiau wedi'u hargraffu a thudalennau lluniau eistedd ar fwrdd ochr yn yr un ffordd.
+- **Stopiwch pryd bynnag y mynnwch.** Mae hanner tudalen liwio yn brynhawn braf. Mae rhoi'r dudalen i ffwrdd a chael paned hefyd yn iawn.
 
-## Where to find more
+## Ble i ddod o hyd i ragor
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Porwch ein holl [gemau a deunyddiau i'w hargraffu](/games/), neu ewch i [weithgareddau ar gyfer pob cam](/activities/ideas/) am ragor o syniadau, gyda phapur a hebddo.

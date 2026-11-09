@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Posau i Bobl â Dementia: Jig-so, Geiriau ac Ar-lein"
+seoTitle: "Posau ar gyfer Dementia: Jig-so a Geiriau"
+description: "Sut i ddewis posau jig-so, geiriau ac ar-lein i rywun â dementia: maint darnau, lluniau, print bras, gwneud gyda'ch gilydd, a phryd i'w symleiddio."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Y pos gorau i rywun â dementia yw un y gall ei orffen gydag ychydig o help a'i
+  fwynhau ar hyd y ffordd. Dewiswch bosau jig-so gyda llai o ddarnau, darnau mwy
+  a llun clir i oedolion, cadwch lun y bocs i'w weld, a threfnwch y darnau ymyl
+  yn gyntaf. Mae chwilair a chroeseiriau yn gweithio orau mewn print bras. Mae
+  posau ar-lein hawdd gyda phedwar darn yn addas ar gyfer y cam canol. Stopiwch
+  tra ei fod yn hwyl.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Dewiswch yn ôl sut mae'n mynd, nid yn ôl label cam: os yw pos yn teimlo fel gwaith, rhowch gynnig ar un gyda llai o ddarnau."
+  - "Mae darnau mawr, cadarn a llun clir gydag ardaloedd lliw amlwg yn haws na darnau bach iawn a darnau mawr o awyr."
+  - "Mae lluniau i oedolion yn bwysig. Gerddi, ceginau, ceir ac anifeiliaid, nid cartwnau."
+  - "Gwneud gyda'ch gilydd yw'r pwynt. Rhowch ddarnau drosodd, trefnwch yr ymylon, cadwch gaead y bocs i'w weld."
+  - "Mae chwilair print bras a phosau ar-lein hawdd gyda 4 neu 9 darn ar gael am ddim ar y wefan hon."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Sawl darn pos sydd orau i rywun â dementia?"
+    a: "Nid oes un rhif cywir. Gall rhywun a arferai wneud posau 1,000 darn ddal i fwynhau cannoedd o ddarnau yn gynnar, tra bod eraill yn gwneud orau gyda dwsin neu fwy o ddarnau mawr. Os yw pos yn teimlo fel gwaith neu'n achosi rhwystredigaeth, symudwch i lai o ddarnau. Mae gan ein pos Llun ar-lein 4 neu 9 darn."
+  - q: "A yw posau jig-so yn dda i bobl â dementia?"
+    a: "Mae llawer o bobl yn eu mwynhau, yn enwedig os oeddent yn hoffi posau o'r blaen. Mae pos yn rhoi rhywbeth i'r dwylo ei wneud, nod clir a llun i siarad amdano. Nid oes pos wedi'i ddangos i drin na llacio dementia, felly dewiswch nhw er mwyn mwynhad a chwmni."
+  - q: "Beth alla i ei wneud pan na all rhywun reoli jig-so mwyach?"
+    a: "Gwnewch ef yn llai a gwnewch fwy ohono eich hun: rhowch un darn drosodd ar y tro, neu gadewch ychydig o'r darnau olaf iddyn nhw. Rhowch gynnig ar bos ar-lein 4 darn, trefnu darnau yn ôl lliw, neu edrych ar y llun gorffenedig gyda'ch gilydd."
+  - q: "A yw croeseiriau a chwilair yn addas ar gyfer dementia?"
+    a: "Gallant fod yn y cam cynnar, mewn print bras. Mae chwilair gyda geiriau ar draws ac i lawr yn unig yn haws nag un gyda geiriau ar letraws neu am yn ôl. Darllenwch y cliwiau neu'r rhestr eiriau ar lafar a gweithiwch arno gyda'ch gilydd."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Mae jig-so wedi'i wasgaru ar fwrdd y gegin yn un o'r gweithgareddau hawsaf i'w rannu. Gallwch chi eistedd gyda'ch gilydd heb fod angen siarad, mae'r llun yn rhoi rhywbeth i chi sgwrsio amdano, ac mae rhoi'r darn olaf i mewn yn teimlo'n dda. Fodd bynnag, mae angen i bosau newid wrth i dementia newid. Gall pos sy'n rhy anodd droi prynhawn tawel yn un rhwystredig. Mae'r dudalen hon yn ymdrin â sut i ddewis a gosod posau jig-so, posau geiriau a phosau ar-lein hawdd, a beth i'w wneud pan fyddant yn mynd yn anodd.
 
-## Are puzzles good for people with dementia?
+## A yw posau yn dda i bobl â dementia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Mae llawer o bobl yn eu mwynhau, yn enwedig y rhai a arferai wneud posau o'r blaen. Mae [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yn rhestru chwilio am eiriau, gemau cardiau a gemau bwrdd ymhlith gweithgareddau ar gyfer y cam cynnar, ac mae'r [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yn sôn am gemau a phosau ar-lein ar dabledi fel un ffordd o aros yn ymgysylltiedig.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Nid triniaeth yw posau. Nid oes pos wedi'i ddangos i lacio na stopio dementia; mae ein canllaw i [gemau ymennydd a dementia](/brain-health/brain-games/) yn esbonio'r ymchwil. Y rheswm dros wneud pos yw y gall fod yn awr braf, ymgolli ynddi gyda'ch gilydd. Mae [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yn ei grynhoi: canolbwyntiwch ar fwynhad, nid cyflawniad.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Sut ydych chi'n dewis pos jig-so i rywun â dementia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Ewch yn ôl yr hyn y mae'r person yn ei fwynhau a sut aeth y pos diwethaf, nid yn ôl label cam.
 
-### Number of pieces
+### Nifer y darnau
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Nid oes rhif cywir. Efallai y bydd rhywun sydd wedi bod yn gwneud posau drwy'i oes yn dal i fwynhau cannoedd o ddarnau yn gynnar, tra bod rhywun arall yn hapusaf gyda dwsin. Rheol ymarferol: os oedd y pos diwethaf yn teimlo fel gwaith, dewiswch un gyda tua hanner y darnau. Os cafodd ei orffen yn gyflym ac roeddent eisiau mwy, ewch i fyny ychydig.
 
-### Piece size and feel
+### Maint a theimlad y darnau
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Darnau mwy** yn haws i'w gweld, eu codi a'u troi.
+- **Darnau trwchus, cadarn** yn aros yn eu lle ac yn goroesi cael eu gollwng.
+- **Gorffeniad di-flewyn** yn lleihau llacharedd o dan lampau a ffenestri.
+- **Osgowch ddarnau bach iawn** os gallai'r person roi pethau yn ei geg, sy'n gallu digwydd yn nes ymlaen mewn dementia.
 
-### The picture
+### Y llun
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Pynciau i oedolion.** Gerddi, ceginau, hen geir, anifeiliaid fferm, tref ar lan y môr, hoff gamp. Nid cartwnau nac unrhyw beth sy'n edrych fel tegan i blant.
+- **Ardaloedd lliw amlwg.** Mae ysgubor goch, cwch glas a chae gwyrdd yn haws nag awyr sy'n llenwi hanner y pos.
+- **Cyfarwydd a phersonol.** Mae llun o le y buont yn byw ynddo neu hobï yr oeddent yn ei garu yn rhoi digon i chi siarad amdano. Gall rhai siopau argraffu droi llun teulu yn bos jig-so.
 
-## How do you do a puzzle together?
+## Sut ydych chi'n gwneud pos gyda'ch gilydd?
 
-Set it up so the person can get straight to the enjoyable part.
+Trefnwch ef fel bod y person yn gallu mynd yn syth at y rhan braf.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Dewiswch fan da.** Golau da, cadair gyda breichiau, a bwrdd neu hambwrdd lle gall y pos aros allan.
+2. **Gosodwch gaead y bocs i fyny** lle gall y ddau ohonoch ei weld.
+3. **Trowch y darnau wyneb i fyny** cyn dechrau.
+4. **Trefnwch yr ymylon** eich hun, neu gwnewch y ffin yn gyntaf a gadewch y canol iddyn nhw.
+5. **Grwpiwch ddarnau yn ôl lliw** mewn ychydig o hambyrddau bas neu blatiau.
+6. **Rhowch un darn drosodd ar y tro** os yw'r pentwr yn ormod. "Rwy'n meddwl bod y darn hwn yn rhan o'r ysgubor."
+7. **Siaradwch am y llun,** nid y cynnydd. "Mae hwnna'n edrych fel y cwch oedd gan fy nhad."
+8. **Gadewch ef allan.** Dewch yn ôl ato dros sawl diwrnod. Does dim brys.
+9. **Stopiwch ar nodyn da,** ar ôl i ddarn fynd i mewn, tra ei fod yn dal i deimlo'n braf.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn cynghori helpu'r person i ddechrau, gwylio am rwystredigaeth a gadael iddyn nhw wylio'n unig os ydynt yn mwynhau hynny'n fwy. Mae gwylio chi'n rhoi darnau i mewn, a thynnu sylw at le gallai un fynd, yn dal yn cymryd rhan.
 
-## Easy online puzzles
+## Posau ar-lein hawdd
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Mae gan bos ar dabled rai manteision go iawn: dim darnau coll, lluniau mawr sy'n llenwi'r sgrin, a dim bwrdd i'w glirio.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Mae ein [pos Llun](/games/picture-puzzle/) rhad ac am ddim yn torri llun yn 4 neu 9 darn. Tapiwch ddau ddarn i'w cyfnewid nes bod y llun yn gyfan. Mae'r llun cyflawn yn aros ar y sgrin fel canllaw, does dim amserydd, a gallwch chi stopio ar unrhyw adeg. Mae pedwar darn yn addas i lawer o bobl yn y cam canol gyda rhywun wrth eu hymyl.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Am chwarae â lluniau sy'n fwy syml byth, rhowch gynnig ar [Dod o hyd i'r un fath](/games/find-the-same/), lle rydych chi'n tapio'r llun sy'n cyfateb i'r un ar y top, neu [Trefnu gyda'ch gilydd](/games/sort-together/), lle mae lluniau'n mynd i fasgedi fel y gegin neu'r ardd.
 
-## Word puzzles: word searches and crosswords
+## Posau geiriau: chwilair a chroeseiriau
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Mae posau geiriau'n addas i bobl a oedd bob amser yn eu mwynhau, fel arfer yn gynharach mewn dementia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Chwilair print bras.** Mae ein [Chwilair](/games/word-search/) rhad ac am ddim yn defnyddio llythrennau mawr a dim ond ychydig o eiriau, ar draws ac i lawr, byth ar letraws nac am yn ôl. Chwaraewch ef ar y sgrin neu ei argraffu.
+- **Darllenwch y rhestr ar lafar.** Mae un person yn darllen gair, a'r llall yn chwilio amdano. Mae cylchu'r llythyren gyntaf yn unig yn iawn.
+- **Gall croeseiriau print bras** o lyfrau posau weithio'n gynnar. Darllenwch y cliwiau ar lafar, rhannwch y beiro a llenwch yr atebion gyda'ch gilydd. Mae croeseiriau hawdd ar thema yn well na rhai cryptig.
+- **Siaradwch am y geiriau.** Gall "Gardd" arwain at ddeg munud yn sôn am domatos.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Am fwy o weithgareddau papur a sut i'w hargraffu fel eu bod yn hawdd i'w gweld a'u dal, gweler [gweithgareddau dementia i'w hargraffu am ddim](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Pa bosau sy'n addas i bob cam?
 
-Stages overlap, and good and hard days are normal.
+Mae camau'n gorgyffwrdd, ac mae dyddiau da ac anodd yn normal.
 
-| Stage | Puzzles that often fit | Your role |
+| Cam | Posau sy'n aml yn addas | Eich rôl chi |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Cynnar | Posau jig-so cyfarwydd gyda llai o ddarnau nag o'r blaen, croeseiriau a chwilair print bras, posau ar-lein 9 darn | Partner: gadewch iddyn nhw ddewis, helpwch pan ofynnir amdano |
+| Canol | Posau jig-so gyda thua dwsin o ddarnau mawr, posau ar-lein 4 darn, chwilair wedi'i ddarllen ar lafar gyda'ch gilydd | Paratowch, trefnwch ddarnau, rhowch un darn drosodd ar y tro |
+| Hwyr | Edrych ar lun gorffenedig gyda'ch gilydd, Dod o hyd i'r un fath gyda dau lun, trin ychydig o ddarnau mawr | Dewch ag ef atyn nhw; eich cwmni chi yw'r gweithgaredd |
 
-## When should you make a puzzle easier, or stop?
+## Pryd ddylech chi wneud pos yn haws, neu stopio?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Gwyliwch am ochneidio, gwthio darnau i ffwrdd, dweud "Alla i ddim" dro ar ôl tro neu edrychiadau pryderus. Mae'r rhain yn arwyddion i newid rhywbeth, nid i ddal ati.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Gwnewch ef yn llai.** Llai o ddarnau, neu gadewch dim ond y darnau olaf iddyn nhw.
+- **Gwnewch fwy ohono eich hun** a gwahoddwch nhw i helpu gyda'r rhannau hawdd.
+- **Newidiwch i rywbeth tebyg:** trefnu darnau yn ôl lliw, pos ar-lein 4 darn, neu [lliwio](/games/coloring/).
+- **Stopiwch.** Rhowch ef o'r neilltu a chael paned. Gallwch ddod yn ôl ato ddiwrnod arall, neu beidio o gwbl.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Os yw posau'n dechrau teimlo fel atgof o'r hyn sy'n anodd, mae'n iawn eu rhoi o'r neilltu. Mae llawer o ffyrdd eraill o dreulio amser da gyda'ch gilydd; mae ein [101 o syniadau gweithgareddau](/activities/ideas/) yn lle da i edrych.

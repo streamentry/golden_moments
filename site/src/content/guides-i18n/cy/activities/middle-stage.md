@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Gweithgareddau ar gyfer Dementia Canol Gam"
+seoTitle: "Gweithgareddau Dementia Canol Gam: Syniadau Syml"
+description: "Gweithgareddau syml ar gyfer dementia canol gam: tasgau defnyddiol, cerddoriaeth, lluniau a gemau hawdd, gyda chamau gosod a ffyrdd i droi aflonyddwch yn rhywbeth i'w wneud."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Mewn dementia canol gam, y gweithgareddau gorau yw rhai byr, cyfarwydd wedi'u
+  rhannu'n gamau sengl: plygu dillad golchi, paru sanau, golchi llestri, canu,
+  mynd am dro dan arweiniad, albymau lluniau a gemau lluniau syml. Paratowch
+  bethau, dangoswch y cam cyntaf, cymerwch drosodd y rhannau anodd a rhowch
+  bwrpas i'r gweithgaredd. Stopiwch pan fydd yn peidio â bod yn braf.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Yn aml, tasgau cyfarwydd o amgylch y tŷ sy'n gweithio orau oherwydd eu bod yn teimlo'n ddefnyddiol ac yn oedolyn."
+  - "Dangoswch yn hytrach na dweud, cynigiwch un cam ar y tro, a rhowch ddau ddewis syml yn lle cwestiynau agored."
+  - "Cymerwch drosodd y rhan anoddaf fel bod y person yn gallu gwneud y rhan foddhaus."
+  - "Yn aml, gall ymddygiad aflonydd olygu bod angen rhywbeth i'w wneud ar y person. Cynigiwch weithgaredd sy'n cyd-fynd yn lle dweud na."
+  - "Mae gwylio, helpu ychydig, neu stopio'n gynnar i gyd yn iawn."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Pa weithgareddau sy'n dda ar gyfer dementia canol gam?"
+    a: "Fel arfer, gweithgareddau byr, cyfarwydd, ymarferol sy'n gweithio orau: plygu tywelion, paru sanau, golchi llestri, gosod y bwrdd, canu ynghyd ag hen ffefrynnau, mynd am dro dan arweiniad, edrych ar albymau lluniau a gemau lluniau syml. Rhannwch bob un yn gamau sengl a gwnewch ef gyda'ch gilydd."
+  - q: "Sut ydw i'n annog rhywun â dementia i ddechrau gweithgaredd?"
+    a: "Paratowch bopeth ymlaen llaw, yna dechreuwch y gweithgaredd eich hun a gofynnwch iddyn nhw helpu: 'Allech chi roi help llaw i mi gyda'r tywelion hyn?' Mae llawer o bobl eisiau cymryd rhan ond yn ei chael hi'n anodd dechrau. Fel arfer mae dangos y cam cyntaf yn gweithio'n well nag esbonio."
+  - q: "Beth ddylwn i ei wneud pan fyddan nhw'n dal i wneud rhywbeth drosodd a thro?"
+    a: "Yn aml mae ailadrodd yn ddiniwed a gall fod yn arwydd bod y person eisiau teimlo'n brysur neu fod angen sicrwydd arno. Yn lle cywiro, cynigiwch weithgaredd sy'n cyd-fynd â'r symudiad, fel basged o liain golchi i'w plygu neu gân i'w chanu gyda'ch gilydd."
+  - q: "Beth os ydyn nhw'n gwneud y gweithgaredd yn anghywir?"
+    a: "Os yw'n ddiniwed, gadewch iddo fod. Nid yw'n bwysig os yw tywelion wedi'u plygu'n wahanol neu os yw llwyau yn y lle anghywir. Gall cywiro deimlo fel beirniadaeth, tra bod gwneud pethau yn eu ffordd nhw yn gadael iddyn nhw deimlo'n galluog ac yn ddefnyddiol."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Yn aml, canol gam dementia yw'r un hiraf, a dyma pryd mae gweithgareddau'n dechrau bod angen cefnogaeth wirioneddol. Mae geiriau'n dod yn llai rhwydd, mae camau'n mynd ar gymysg, a gall dechrau unrhyw beth deimlo'n anodd. Ond fel arfer mae'r awydd i fod yn ddefnyddiol ac i gymryd rhan yn aros. Gydag ychydig o baratoi, gall person yng nghanol gam dementia ddal i fwynhau llawer iawn o bethau, yn enwedig tasgau cyfarwydd, cerddoriaeth a lluniau wrth eu gwneud ochr yn ochr â chi.
 
-## What activities work well in middle-stage dementia?
+## Pa weithgareddau sy'n gweithio'n dda mewn dementia canol gam?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Mae gweithgareddau byr, cyfarwydd, ymarferol wedi'u rhannu'n gamau sengl yn gweithio orau. Dywed yr [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) nad oes angen i chi ddyfeisio pethau newydd i'w gwneud: gall gweithgareddau fod yn rhan o fywyd bob dydd, fel paratoi cinio gyda'ch gilydd, garddio, gwrando ar gerddoriaeth neu fynd am dro.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+Mae'r [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yn nodi bod pobl yn y cam hwn yn aml ag angen cryf i deimlo bod ganddyn nhw bwrpas neu i ofalu am rywbeth, a bod angen help arnynt i ddechrau neu barhau â gweithgareddau. Mae ei restr ar gyfer canol gam yn cynnwys plygu dillad golchi, golchi llestri, paru sanau, ymarfer corff hawdd, dawnsio i gerddoriaeth gyfarwydd, mynd am dro dan arweiniad, canu gyda'ch gilydd, peintio syml ac edrych drwy albymau lluniau.
 
-## How do you set up an activity so it works?
+## Sut ydych chi'n paratoi gweithgaredd fel ei fod yn gweithio?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Mae'r rhan fwyaf o weithgareddau'n llwyddo neu'n methu wrth eu paratoi. Mae'r arferion hyn, sy'n dod o'r [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a'r [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), yn gwneud y gwahaniaeth mwyaf:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Cliriwch y lle.** Diffoddwch y teledu, caewch y drws a rhowch allan dim ond yr hyn sydd ei angen ar gyfer y gweithgaredd.
+2. **Dechreuwch eich hun.** Dechreuwch blygu neu droi a gwahoddwch nhw i ymuno: "Allech chi fy helpu i gyda hyn?"
+3. **Dangoswch, yna arhoswch.** Dangoswch un cam. Pwyntiwch neu arweiniwch â'ch llaw, er enghraifft drwy ddangos ble mae'r plât yn mynd.
+4. **Rhowch un cam ar y tro.** Mae "Plygwch e yn ei hanner" yn haws na "plygwch y rhain a'u pentyrru yn ôl lliw."
+5. **Cynigiwch ddau ddewis, nid cwestiynau agored.** Mae "Y tywelion glas neu'r rhai gwyn?" yn haws i'w ateb na "Beth ydych chi eisiau ei wneud?"
+6. **Gwnewch y rhan anodd eich hun.** Chi sy'n mesur, nhw sy'n troi. Chi sy'n edafu'r nodwydd, nhw sy'n dirwyn yr edafedd.
+7. **Rhowch reswm iddo.** Mae "Mae'r napcynau hyn ar gyfer cinio dydd Sul" yn gwneud i'r dasg deimlo'n bwrpasol.
+8. **Gadewch iddyn nhw wylio os yw'n well ganddyn nhw.** Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn nodi y gall gwylio yn unig fod yn bleserus hefyd.
 
-## Activity ideas for the middle stage
+## Syniadau ar gyfer gweithgareddau yn y canol gam
 
-### Useful jobs
+### Tasgau defnyddiol
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Plygu tywelion a lliain golchi.** Eitemau bach, gwastad yw'r rhai hawsaf. Gellir plygu, llyfnu ac ailblygu basged o liain golchi cynnes.
+- **Paru sanau.** Dechreuwch gydag ychydig o barau gwahanol iawn. Mae didoli yn ôl lliw yn unig yn iawn hefyd.
+- **Golchi neu sychu llestri di-dor.** Mae dŵr cynnes, sebonllyd yn braf ar y dwylo. Mae sychu wrth eistedd yn haws ar y coesau.
+- **Gosod y bwrdd.** Rhowch un math o eitem ar y tro, a gosodwch un lle eich hun fel enghraifft.
+- **Helpu gyda chinio.** Golchi tatws, rhwygo letys neu droi powlen. Chi sy'n trin cyllyll a gwres.
+- **Ysgubo, tynnu llwch neu lanhau.** Lliain ar gyfer y bwrdd, ysgub ysgafn ar gyfer y cyntedd.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Gweler [tasgau o amgylch y tŷ](/activities/household-tasks/) am lawer mwy.
 
-### Music and movement
+### Cerddoriaeth a symud
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Canu hen ffefrynnau.** Dechreuwch ganu eich hun; mae llawer o bobl yn ymuno ar ganeuon maen nhw wedi'u hadnabod ers degawdau. Gweler [gweithgareddau cerddoriaeth](/activities/music/).
+- **Dawnsio'n rhydd.** Siglwch, curwch ddwylo neu symudwch sut bynnag sy'n teimlo'n dda. Mae eistedd yn iawn.
+- **Taflu balŵn.** Mae'n symud yn araf ac yn hawdd ei ddal o gadair.
+- **Mynd am dro dan arweiniad.** Ewch am dro byr, cyfarwydd gyda'ch gilydd, fraich ym mraich os yw hynny'n helpu.
 
-### Pictures and stories
+### Lluniau a straeon
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Edrych drwy albwm lluniau.** Gwnewch sylwadau ar yr hyn rydych chi'n ei weld yn lle gofyn cwestiynau: "Edrychwch ar y car yna. Dywedwch wrtha i amdano." Gweler [gweithgareddau atgofion](/activities/reminiscence/).
+- **Defnyddio cardiau sgwrsio.** Mae [cardiau sgwrsio](/games/conversation-cards/) yn paru llun ag anogiad agored, heb gwis.
+- **Gwylio hen ffilm gyda'ch gilydd.** Dewiswch un gyfarwydd, arhoswch gerllaw ac oedi am seibiannau.
 
-### Simple, pressure-free games
+### Gemau syml, heb bwysau
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Parau lluniau gyda'r lluniau i'w gweld.** Mae [parau lluniau](/games/picture-pairs/) yn gadael i'r lluniau aros i'w gweld, felly mae'n ymwneud â sylwi, nid cofio.
+- **Dod o hyd i'r un peth.** Mae [dod o hyd i'r un peth](/games/find-the-same/) yn dangos un llun a dim ond dau i bedwar dewis.
+- **Trefnu gyda'ch gilydd.** Mae [trefnu gyda'ch gilydd](/games/sort-together/) fel trefnu'r dillad golchi ar y sgrin: tapiwch lun, yna ei fasged.
+- **Bingo lluniau.** Mae [bingo lluniau](/games/picture-bingo/) yn gweithio'n dda ar gyfer cyfarfodydd teuluol a grwpiau.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Os yw gêm yn dechrau achosi rhwystredigaeth, stopiwch a gwnewch rywbeth arall. Gweler [sut i chwarae gyda'ch gilydd](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Troi aflonyddwch yn weithgaredd
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Yn aml mae rheswm dros ymddygiad aflonydd neu ailadroddus. Mae'r Family Caregiver Alliance yn nodi y gall person sy'n dal i wagio cwpwrdd fod yn ceisio diwallu angen i deimlo'n brysur ac yn gynhyrchiol. Mae'r Alzheimer's Association yn awgrymu troi egni o'r fath at weithgaredd sy'n cyd-fynd, yn hytrach na'i stopio.
 
-| What you see | Something to offer |
+| Yr hyn rydych chi'n ei weld | Rhywbeth i'w gynnig |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Rhwbio neu bigo wrth fwrdd | Lliain llaith a chais i lanhau'r bwrdd |
+| Traed aflonydd neu dapio | Cerddoriaeth â churiad clir i dapio neu guro dwylo gyda hi |
+| Gwagio droriau neu gypyrddau | Basged o ddillad neu liain golchi i'w plygu a'u trefnu |
+| Gofyn yr un cwestiwn eto | Sicrwydd, yna cân neu dasg i'w rhannu |
+| Cerdded yn ôl ac ymlaen | Mynd am dro gyda'ch gilydd, neu dasg sy'n golygu cario pethau |
+| Anesmwythder yn hwyr yn y prynhawn | Tasg dawel, gyfarwydd mewn golau da; gweler [aflonyddwch yn hwyr yn y dydd](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Pryd i stopio neu newid trywydd
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Stopiwch pan welwch chi arwyddion o flinder, rhwystredigaeth, embaras neu ddiflastod, fel symud yn aflonydd, cau eich aeliau, gwthio pethau i ffwrdd neu ddweud "Alla i ddim." Mae'r Alzheimer's Association yn awgrymu rhoi cynnig arall arni ar adeg wahanol o'r dydd neu wneud y gweithgaredd yn symlach. Peidiwch â gorfodi. Gall gwrthod ddod o ofn neu oherwydd bod y dasg yn rhy anodd; gweler [pan fyddan nhw'n dweud na](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Mae dod i ben yn gynnar yn iawn. Mae eistedd gyda'ch gilydd gyda phaned o de hefyd yn iawn. Wrth i alluoedd newid ymhellach, gall y syniadau yn [gweithgareddau cam hwyr](/activities/late-stage/) fod yn fwy addas, ac mae [101 o weithgareddau](/activities/ideas/) â llawer mwy i roi cynnig arnyn nhw.

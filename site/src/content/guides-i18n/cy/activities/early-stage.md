@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Gweithgareddau ar gyfer dementia cam cynnar"
+seoTitle: "Gweithgareddau dementia cam cynnar: syniadau addas"
+description: "Syniadau gweithgaredd ar gyfer dementia cam cynnar: hobïau, gemau, mynd allan, ysgrifennu a chynllunio gyda’n gilydd, gyda newidiadau bach sy’n helpu’r person i fwynhau ac i arwain."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Yng ngham cynnar dementia, gall y rhan fwyaf o bobl barhau i wneud yr hyn maen nhw’n ei fwynhau: hobïau,
+  cardiau a gemau bwrdd, coginio, garddio, cerdded, clybiau, gweithgareddau ffydd a
+  gwirfoddoli. Y prif newidiadau yw grwpiau llai, mynd allan am gyfnodau byrrach, cynlluniau
+  ysgrifenedig syml a phartner gerllaw. Gofynnwch i’r person pa help maen nhw ei eisiau,
+  a gadewch iddyn nhw arwain.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Mae’r rhan fwyaf o bobl yn y cam cynnar yn byw’n eithaf annibynnol. Fel arfer, mae angen addasu gweithgareddau, nid eu newid yn llwyr."
+  - "Gofynnwch i’r person pa gefnogaeth maen nhw ei heisiau, a chytunwch ar signal syml i ddangos pryd mae croeso i chi helpu."
+  - "Yn aml, mae grwpiau llai, amseroedd tawelach a mynd allan am gyfnodau byrrach yn gwneud gwahaniaeth mawr."
+  - "Mae hwn yn amser da i’r person arwain prosiectau am eu bywyd eu hunain, fel dyddiadur neu lyfr stori bywyd."
+  - "Dewiswch gemau er mwyn mwynhad. Peidiwch â pharhau â dim sy’n dechrau teimlo fel prawf."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Pa weithgareddau sy’n addas ar gyfer dementia cam cynnar?"
+    a: "Fel arfer, yr un rhai y mae’r person eisoes yn eu mwynhau: cardiau, gemau bwrdd, coginio, garddio, cerdded, cerddoriaeth, gweithgareddau ffydd, clybiau a gwirfoddoli. Efallai y bydd angen eu gwneud yn fyrrach, yn dawelach neu’n symlach. Mae cadw dyddiadur, ysgrifennu llythyrau a gwneud llyfr stori bywyd hefyd yn addas iawn yn y cam hwn."
+  - q: "Sut alla i helpu heb gymryd drosodd?"
+    a: "Gofynnwch pa fath o help y mae’r person ei eisiau, a holwch yn aml. Cytunwch ar ymadrodd neu ar nod sy’n golygu ei bod yn iawn i chi gamu i mewn, er enghraifft pan nad yw gair neu enw’n dod i’r cof. Os nad oes risg i ddiogelwch, gadewch iddyn nhw ei wneud yn eu ffordd eu hunain, hyd yn oed os yw’n cymryd mwy o amser."
+  - q: "A ddylai rhywun â dementia cam cynnar roi cynnig ar weithgareddau newydd?"
+    a: "Gall, os yw’n dymuno. Fel arfer, mae’n haws cadw at hobïau cyfarwydd, ond mae llawer o bobl yn mwynhau rhywbeth newydd, fel grŵp cerdded sy’n gyfeillgar i bobl sy’n byw gyda dementia, dosbarth celf neu grŵp canu. Rhowch gynnig arni unwaith heb bwysau a gweld sut mae’n teimlo."
+  - q: "A yw apiau hyfforddi’r ymennydd yn werth eu defnyddio yn y cam cynnar?"
+    a: "Mae rhai pobl yn mwynhau posau a gemau geiriau, ac mae’r mwynhad hwnnw’n ddigon o reswm ynddo’i hun. Nid oes unrhyw ap na gêm wedi dangos ei fod yn trin, yn arafu nac yn atal dementia. Os yw gêm yn achosi straen neu’n gwneud i’r person deimlo ei fod yn methu, rhowch hi o’r neilltu."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Yng ngham cynnar dementia, mae llawer o bobl yn dal i fyw yn debyg iawn i’r ffordd roedden nhw’n byw o’r blaen. Efallai eu bod yn gweithio, yn gwirfoddoli, yn gweld ffrindiau ac yn trefnu llawer o’u diwrnod eu hunain. Fel arfer, nid oes angen newid gweithgareddau’n llwyr; dim ond gwneud ychydig o addasiadau fel eu bod yn parhau i fod yn fwynhadwy. Mae eich rôl chi’n debycach i fod yn bartner nag yn ofalwr: rhywun sy’n cefnogi, yn cynllunio gyda’r person ac yn camu i mewn dim ond pan ofynnir amdani.
 
-## What activities are good in early-stage dementia?
+## Pa weithgareddau sy’n addas yng ngham cynnar dementia?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Y gweithgareddau gorau yn y cam cynnar fel arfer yw’r rhai y mae’r person eisoes yn eu caru, wedi’u gwneud ychydig yn haws. Mae [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yn rhestru syniadau fel gemau cardiau a bwrdd, chwilio am eiriau, cerdded, dawnsio, garddio, trefnu blodau, adrodd straeon, paentio, cerddoriaeth, cadw dyddiadur, ysgrifennu llythyrau, gwneud llyfr lloffion, coginio a thraddodiadau gwyliau.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Yr hyn sy’n newid yn aml yw’r lleoliad, nid y gweithgaredd. Mae [Cymdeithas Alzheimer’s](https://www.alz.org/help-support/caregiving/daily-care/activities) yn nodi y gall pobl yn y cam cynnar ddechrau tynnu’n ôl o bethau roedden nhw’n eu mwynhau, ac yn rhoi enghraifft o rywun sy’n teimlo dan bwysau mewn parti mawr ond sy’n gwneud yn well mewn grŵp bach. Siaradwch yn agored am yr hyn sy’n teimlo’n anoddach, ac addaswch gyda’n gilydd.
 
-## Ask first, and agree on how to help
+## Gofynnwch yn gyntaf, a chytuno sut i helpu
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Mae [canllawiau cam cynnar Cymdeithas Alzheimer’s](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) yn awgrymu ychydig o arferion sy’n berthnasol i weithgareddau hefyd:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Gofynnwch yn uniongyrchol.** Mae „Beth fyddai’n gwneud clwb llyfrau’n haws i chi?” yn cael ateb gwell na dyfalu.
+- **Cymryd yn ganiataol y gallant wneud.** Os nad oes risg i ddiogelwch, gadewch i’r person roi cynnig arni, a rhowch anogaeth yn hytrach na chymryd drosodd.
+- **Cytunwch ar signal.** Dewiswch ymadrodd neu nod sy’n golygu „mae’n iawn i chi gamu i mewn”, er enghraifft pan nad yw enw’n dod i’r cof yn ystod gêm gardiau.
+- **Holwch yn rheolaidd.** Gofynnwch a yw faint o help yn teimlo’n iawn, gormod neu ddim digon.
 
-## Activity ideas for the early stage
+## Syniadau gweithgaredd ar gyfer y cam cynnar
 
-### Keep up roles and hobbies
+### Cadw at rolau a hobïau
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Cadw at ymrwymiad rheolaidd.** Mae sifft wirfoddoli wythnosol, côr neu glwb yn rhoi trefn i’r wythnos. Os yw’n dod yn straenus, efallai y bydd rôl fyrrach neu dawelach yn fwy addas.
+- **Cynllunio prydau bwyd gyda’n gilydd.** Os yw siopa bwyd wedi dod yn rhwystredig, mae Cymdeithas Alzheimer’s yn awgrymu gofyn i’r person helpu i gynllunio bwydlen yr wythnos ac ysgrifennu’r rhestr.
+- **Coginio a phobi.** Dilynwch hoff rysáit gyda’n gilydd. Gosodwch y cynhwysion mewn trefn cyn dechrau, fel bod y camau’n glir.
+- **Garddio.** Cynlluniwch wely blodau neu lysiau, dewiswch hadau neu blanhigion a gwnewch y gwaith gyda’n gilydd. Mae rhestr ysgrifenedig o swyddi garddio’r wythnos yn helpu.
+- **Cadw at grefft.** Gall gwaith coed, gwnïo, gwau neu adeiladu modelau barhau gyda phatrymau symlach a goleuadau da.
 
-### Games for enjoyment
+### Gemau er mwyn mwynhad
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Chwarae cardiau a gemau bwrdd.** Mae gemau cyfarwydd yn haws. Chwaraewch mewn timau fel nad oes neb dan bwysau, a chadwch sgôr yn llac neu peidiwch â chadw sgôr o gwbl.
+- **Rhoi cynnig ar chwilio am eiriau print mawr.** Gallwch chwarae ein [chwilio am eiriau](/games/word-search/) ar y sgrin neu ei argraffu ar gyfer eiliad dawel.
+- **Gwneud posau jig-so.** Dewiswch nifer o ddarnau sy’n teimlo’n ymlaciol, nid yn heriol. Mae [pos llun](/games/picture-puzzle/) yn fersiwn fyr ar y sgrin, ac mae ein canllaw i [bosau ar gyfer dementia](/activities/puzzles/) yn helpu i ddewis un.
+- **Ymuno â chwis er hwyl.** Mae rhai pobl wrth eu bodd gyda noson gwis tîm. Os yw’n dechrau teimlo fel prawf, dewiswch rywbeth arall, neu rhowch gynnig ar ein [cwestiynau cwis hawdd](/activities/trivia/), sy’n dod gyda dewisiadau ateb a dim sgôr.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Mae gemau yma er mwyn pleser. Nid oes unrhyw gêm wedi dangos ei bod yn trin nac yn arafu dementia; darllenwch fwy yn [gemau ymennydd: beth mae’r ymchwil yn ei ddweud](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Ysgrifennu, myfyrio a chofnodi
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Cadw dyddiadur.** Mae Cymdeithas Alzheimer’s yn awgrymu cadw dyddiadur fel un ffordd o weithio drwy deimladau ar ôl diagnosis. Mae ychydig linellau’r dydd yn ddigon.
+- **Arwain llyfr stori bywyd.** Mae’r cam cynnar yn amser da i’r person ddewis eu lluniau eu hunain ac ysgrifennu neu ddweud y straeon y tu ôl iddyn nhw. Gweler [gweithgareddau hel atgofion](/activities/reminiscence/).
+- **Ysgrifennu llythyrau.** Gall llythyr at ŵyr neu wyres, hen ffrind neu gyn-gydweithiwr fod yn ystyrlon i’r ddwy ochr.
+- **Sgwrsio drwy luniau.** Mae [parau lluniau](/games/photo-pairs/) yn troi lluniau teulu’n gêm baru ysgafn, ac mae [cardiau sgwrs](/games/conversation-cards/) yn rhoi man cychwyn hawdd ar gyfer sgwrs.
 
-### Go out and move
+### Mynd allan a symud
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Mae’r [Sefydliad Cenedlaethol ar Heneiddio](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn awgrymu parhau â mynd allan cyfarwydd cyhyd â’ch bod chi’ch dau’n teimlo’n gyfforddus. Cynlluniwch ar gyfer amser gorau’r dydd i’r person a cheisiwch beidio â’u gwneud yn rhy hir.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Teithiau diwylliannol byr.** Amgueddfa, matinee neu arddangosfa gelf, yn ddelfrydol ar adeg dawelach.
+- **Nofio.** Mae’r NIA yn awgrymu mynd i’r pwll ar adeg dawel o’r dydd.
+- **Grwpiau cerdded a dosbarthiadau dawns.** Mae’r [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yn sôn am ddawns, tai chi, ioga, nofio a grwpiau cerdded, a sesiynau sy’n gyfeillgar i bobl sy’n byw gyda dementia lle maen nhw ar gael.
+- **Grwpiau canu a chaffis cof.** Grwpiau ymlaciol lle gall pobl sy’n byw gyda dementia a’u partneriaid gwrdd ag eraill yn yr un sefyllfa.
 
-## Small changes that keep activities enjoyable
+## Newidiadau bach sy’n helpu gweithgareddau i aros yn fwynhadwy
 
-| If this is getting harder | Try this |
+| Os yw hyn yn mynd yn anoddach | Rhowch gynnig ar hyn |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Lleoedd prysur neu swnllyd | Ewch ar adegau tawel, dewiswch grwpiau llai, eisteddwch ar ymyl yr ystafell |
+| Cofio enwau newydd | Cyflwynwch bobl wrth eu henw bob tro; gofynnwch i grwpiau ddefnyddio bathodynnau enwau |
+| Dilyn cynlluniau â sawl cam | Ysgrifennwch y camau i lawr, neu gosodwch bopeth mewn trefn yn gyntaf |
+| Blino | Mynd allan am gyfnodau byrrach, gorffwys wedyn, dim byd arall wedi’i gynllunio’r diwrnod hwnnw |
+| Cadw trefn mewn gêm | Chwaraewch mewn timau, symleiddiwch y rheolau, neu peidiwch â chadw sgôr |
+| Dod o hyd i eiriau | Rhowch amser; cynigiwch air dim ond os yw eich signal cytûn yn dweud gwneud hynny |
 
-## When to slow down
+## Pryd i arafu
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Stopiwch neu newidiwch weithgaredd pan fydd yn dod â mwy o straen na phleser. Mae rhwystredigaeth dro ar ôl tro, osgoi hobï neu ddweud „alla i ddim mwyach” yn werth sgwrs dyner, nid gwthio ymlaen. Yn aml, yr ateb yw fersiwn lai o’r un peth. Pan fydd y person angen mwy o help i ddechrau a dilyn camau, gall y syniadau yn [gweithgareddau’r cam canol](/activities/middle-stage/) fod yn fwy addas. I gael mwy o wybodaeth am sgwrsio cefnogol, gweler [awgrymiadau cyfathrebu](/caregiving/communication-tips/), ac i gael llawer mwy o syniadau, gweler [101 o weithgareddau](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Mae partneriaid angen cefnogaeth hefyd. Mae’r cam cynnar yn amser da i adeiladu eich rhwydwaith cymorth eich hun; gweler [hunanofal i ofalwyr](/caregiving/caregiver-self-care/).

@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Деменцирен хӳтӗленме пулать-и? Тӗпчевсем мӗн теҫҫӗ"
+seoTitle: "Деменцирен хӳтӗленме пулать-и? Тӗпчевсем мӗн теҫҫӗ"
+description: "2024 ҫулхи «Ланцет» комиссийӗпе пысӑк тӗрӗслевсем деменци рискне чакарма май килни, ҫавӑн пекех тупманни тата врачпа сӳтсе явмалли утӑмсем пирки мӗн тупнине каласа параҫҫӗ."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Деменцирен хӳтӗленетпӗр тесе нихӑҫан та шанчӑк памалла мар. 2024 ҫулхи
+  «Ланцет» комиссийӗ тӗнчери деменци случакисен пӗр хиреҫинчен ытларахӗшӗ
+  улшӑнма пултаракан 14 рискупа, сӑмахран, юн ҫыни, илтӳ ҫухалӑвӗпе хускану
+  ҫитменнипе, ҫыхӑннӑ тесе хакланӑ. Тӗрӗслевсем шухӑшлав тӗрӗсленӗ тӗрӗсӗсенче
+  пӗчӗк улшӑнусем кӑтартнӑ, анчах деменци случакисем чакнине ҫирӗплетмен. Кашнине
+  те лайӑх туса пурӑнакан ҫынсенчен те хӑш-пӗрисем деменципе апатланаҫҫӗ, ку
+  никамӑн та айӑпӗ мар.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 ҫулхи «Ланцет» комиссийӗ тӗнчери деменци случакисен 45% йышӗнчи улшӑнма пултаракан 14 рискупа ҫыхӑннӑ тесе палӑртнӑ. Ку — пӗтӗм халӑх валли хаклав, харпӑр ҫын валли шанчӑк мар."
+  - "Риск чакарни — пӗтӗм халӑх хушшинчи пулма пултараслӑха чакарни. Ку харпӑр ҫын деменцирен хӳтӗлене тесе пӗлтермест."
+  - "FINGER, US POINTER тата SPRINT MIND пек пысӑк тӗрӗслевсем шухӑшлав тӗрӗсленӗ тӗрӗсӗсенче е пӗчӗк пусăм шухӑшлав йывăрлăхĕнче пӗчӗк лайӑхрах пулнине кӑтартнӑ, анчах вӗсенчен нихӑшӗ те пурнӑҫ йĕркине улăштарни деменцирен хӳтĕленет тесе çирĕплетмен."
+  - "Усĕм — Альцгеймер чирĕ валли пĕлтерĕшлĕ рисксенчен пĕрремĕшĕ, ăна улăштарма май çук. Тĕрлĕ лайăх хăнăху пуррипе те нумай çынсенче деменци пуçланать."
+  - "Чылай чух тĕпчевсене кĕртнĕ утăмсене, сăмахран, юн çынине тĕрĕсленипе, илтÿ аппарачĕсемпе усă курассине тата хускану туса пурăнассине, врачпа сÿтсе явмалла, мĕншĕн тесен вĕсем сывлăха урăх енчен те лайăхлатма пултараççĕ."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Деменцирен хӳтӗленме пулать-и?"
+    a: "Харпӑр ҫын валли деменцирен хӳтӗленмелли ҫирӗплетнӗ мел ҫук. Тӗпчевсем хӑш-пӗр рисксене, сӑмахран, юн ҫыни, тӳрлетмен илтӳ ҫухалӑвӗ тата тӗтӗм ӗҫесси, чакартасси пӗтӗм халӑх хушшинчи деменци пулма пултараслӑха чакартма е вӑл пуҫланнине каҫартма пултарать тесе кӑтартма пултараҫҫӗ. Ку — пулма пултараслӑхсем, шанчӑксем мар."
+  - q: "«Ланцет» комиссийӗн 45% цифри мӗн пӗлтерет?"
+    a: "2024 ҫулхи «Ланцет» комиссийӗ тӗнчери деменци случакисен 45% йышӗнчи улшӑнма пултаракан 14 рискупа ҫыхӑннӑ тесе хакланӑ. Ку хаклав ҫав рисксем деменци сӑлтавӗ пулнӑ тесе шутланать, анчах авторсем хӑш-пӗр ҫыхӑнусем пӗр пайне кӑна сӑлтавлӑ пулма пултарассине палӑртнӑ. Вӑл пӗтӗм халӑха пӗлтерет, харпӑр ҫынӑн рискине каламасть."
+  - q: "Манӑн ашшӗм-амӑшӗм лайӑх пурнӑҫ йӗркипе пурӑннӑ пулсан та, мӗншӗн вӗсенче деменци пуҫланчӗ?"
+    a: "Усӗм, генсемпе никамӑн та улшӑнма пултарайман нумай фактор деменцире пысӑк вырӑн йышӑнаҫҫӗ. «Ланцет» комиссийӗн авторӗсем пӗтӗм халӑхри риска чакартни харпӑр ҫынӑн деменцирен хӳтӗленӗвне шанчӑклать тесе пӗлтермест тене палӑртнӑ. Диагноз — нихӑшӗ те ӗҫне лайӑх туманнине кӑтартакан паллӑ мар."
+  - q: "65 ҫултан кайсан деменци риска чакартма кайран-и?"
+    a: "«Ланцет» комиссийӗ риска чакартма иртӗнрех те, кайран та мар, вӑтам ҫулсенче те пулма май пур тет. Анчах тӗпчевсен чылайӑшӗ аслӑ вӑйра пурӑннӑ вӑхӑта ҫыхӑннӑ. Илтӳпе курӑнакан йывӑрлӑхсене тӳрлетни, хусканни тата ҫынсемпе ҫыхӑну тытса пыни — вӑтам ҫулсенче тӗрӗсленнӗ утӑмсем. Санӑн сывлӑхӑна мӗн юрӑхлӑрине врачпа сӳтсе явӑр."
+  - q: "Миме вӑййисем е ятарлӑ апатлану йӗрки деменцирен хӳтӗленме пулӑшаҫҫӗ-и?"
+    a: "Нимӗнле вӑйӑ, апат, ҫимӗҫу е апатлану йӗрки те деменцирен хӳтӗленет тесе ҫирӗплетнӗ мар. MIND апатлану йӗркине виҫӗ ҫул тӗрӗсленӗ тӗрӗслевре шухӑшлав енчен контроль апатлану йӗркинчен пӗлтерӗшлӗ уйрӑмлӑх тупӑнман, суту тата вырӑс миме вӑййисен приложенисенче те тӗпчевсенчи пек эффектсем пуррине кӑтартнӑ мар."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Енчен те эсир деменципе пурӑнакан ҫыншӑн пӑхса тӑратӑр е ашшӗ-амӑшӗ унпа пурӑннине курнӑ пулсан, унтан хӳтӗленме пулчӗ-и, эпӗ хамӑн хӳтӗленме пултаратӑп-и тесе шухӑшланӑ пулма пултаратӑр. Ку страница тӗпчевсем чӑнах мӗн калани пирки анлӑнмалла сӑмахсемпе каласа парать. Кӗскерӗшле хурав: нихӑш ҫын та деменцирен хӳтӗленетпӗр тесе шанчӑк пама пултараймасть, анчах тӗпчевсем хӑш-пӗр рисксене чакартма май пуррине, тата вӗсене пӗтӗм халӑх хушшинче чакартни деменци пуҫланакан ҫынсем сахалрах пулнине е вӑл каҫрах пуҫланнине пӗлтерме пултарнине кӑтартма пултараҫҫӗ.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Ку — пӗтӗмӗшле информаци кӑна, медицина канашӗ мар. Тархасшӑн, пирӗн [медицина ят сӑмахӗпе](/medical-disclaimer/) паллашӑр та хӑвӑн сывлӑхӑр пирки врачпа калаҫӑр.
 
-## Can dementia be prevented?
+## Деменцирен хӳтӗленме пулать-и?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Харпӑр ҫын валли деменцирен хӳтӗленмелли ҫирӗплетнӗ мел ҫук. Националлӑ ватлану институчӗ (NIA) [Альцгеймер чирӗнчен хӳтӗленет тесе ҫирӗплетнӗ нимӗн те ҫук-ха](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) тенӗ, анчах тӗпчевҫӗсем шанчӑклӑ мелсене тупнӑ тата мӗн ӗҫлеме, мӗн ӗҫлемесрен пултарнине ӑнланса пыраҫҫӗ.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Тӗпчевсем *чӑнах та* кӑтартни: хӑш-пӗр сывлӑх тӑрӑмӗсемпе хӑнӑхусем деменци пуҫланма пултараслӑх ывӑррах пулнипе ҫыхӑннӑ. Ку рисксем пӗтӗм халӑх хушшинче чакрах пулсан, деменци пуҫланакан ҫынсем сахалрах пулма е вӑл каҫрах вӑхӑтра пуҫланма пултарать. Ку шанчӑкран тӗрлӗрен уйрӑлса тӑрать.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Шанчӑклӑ паллӑсем те пур: 2024 ҫулхи «Ланцет» комиссийӗ хӑш-пӗр пуян ҫӗршывсенче, ҫав шутра АПШ тата Пӗрлешӳллӗ Патшалӑхра, ватӑ ҫынсен хушшинче деменципе апатланакансен пайӗ чакнине каланӑ. [Лондон университетӗ коллегийӗн отчёчӗ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) тӑрӑх, авторсем ку лайӑхрах вӗренӳпе, лайӑхрах медицина пулӑшӑвӗпе тата пурнӑҫ вӑхӑтӗнче юн йӗркисен сиенленӗвӗ сахалрах пулнипе ҫыхӑннӑ пулма пултарать тесе шутлаҫҫӗ.
 
-## What did the 2024 Lancet Commission find?
+## 2024 ҫулхи «Ланцет» комиссийӗ мӗн тупрӗ?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Деменцирен хӳтӗленӳ, хутшӑну тата пӑхни пирки «Ланцет» комиссийӗ — кашни хӑш ҫулта ҫаккине тӗрӗслекен 27 деменци тӗпчевҫинчен тӑракан ушкӑн. 2024 ҫулхи отчёчӗнче улшӑнма пултаракан **14 риск факторӗ** палӑртнӑ, тата вӗсем пӗрле **тӗнчери деменци случакисен пӗр хиреҫинчен ытларахне (45% йышӗнче)** ҫыхӑнтараҫҫӗ тесе хакланӑ. Авторсем каланӑ тӑрӑх, рисксене пӗтерме пулнӑ пулсан, ҫак случакисенчен хӳтӗленме е вӗсене каҫартма *теорипе* май пулнӑ ([2024 ҫулхи «Ланцет» комиссийӗн отчёчӗ](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 фактор, тӗпчевӗсем вӑтамрах курӑннӑ пурнӑҫ тапхӑрӗпе уйӑрнӑ:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Ача чухне:** вӗренӳ сахал.
+- **Аслӑ вӑйра (40—65 ҫул хушши):** илтӳ ҫухалӑвӗ, юн ҫынӗнче ЛПП («наҫар») холестерин ытла пулни, депресси, пуҫ суранӑвӗ, хускану ҫитменни, диабет, тӗтӗм ӗҫни, юн ҫыни, ытла йывӑрлӑх тата ытларах эрех ӗҫни.
+- **Ватӑ ҫулсенче:** уҫӑлса юлни, сывлӑш пӑсӑлни тата тӳрлетмен курас ҫухалӑвӗ.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 ҫулта ҫӗнӗрен хушӑннисем — юн ҫынӗнче ЛПП холестерин ытла пулнипе тӳрлетмен курас ҫухалӑвӗ. Случакисенчи пысӑкрах пайпа ҫыхӑннӑ факторсем — илтӳ ҫухалӑвӗпе юн ҫынӗнче ЛПП холестерин ытла пулни (кашнине 7% йышӗнче), ун хыҫҫӑн вӗренӳ сахал пулнипе уҫӑлса юлни (кашнине 5% йышӗнче).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Пирӗн [риск факторӗсем пирки кӑтарту](/brain-health/risk-factors/)-ра пур 14 фактор таблицӑра, тӗпчевсем мӗнпе ҫыхӑнтараҫҫӗ тата мӗн тума май пуррине кӑтартнӑ.
 
-### What the 45% figure does not mean
+### 45% цифри мӗн пӗлтермест
 
-It is easy to misread this number, so it helps to be precise:
+Ку хисепе йӑнӑш анлӑнма ҫӑмӑл, ҫавна май ӑна уҫӑмлатса калама кирлӗ:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ку — пӗтӗм халӑх валли хаклав.** Вӑл тӗнчери деменци случакисене пӗлтерет, сирӗн е эсир пӑхса тӑракан ҫынӑн пулма пултараслӑхне мар.
+- **Ку сӑлтавпа тӗллев ҫыхӑннине шутланать.** Авторсем вӗсенче ҫирӗп тӗпчев пур рисксене кӑна кӗртнӗ тесе калаҫҫӗ, анчах хӑш-пӗр ҫыхӑнусем пӗр пайне кӑна сӑлтавлӑ пулма пултараҫҫӗ. Сӑмахран, ватӑ ҫулсенчи депресси хӑш чухне деменцин малтанхи палли пулма пултарать, сӑлтавӗ мар.
+- **Вӑл харпӑр ҫын валли нимӗн те шанчӑкламасть.** Лондон университетӗ коллегийӗн кӗскен ӑнлантарӑвӗ каланӑ тӑрӑх, риска чакартни пӗтӗм халӑх шайӗнче ӗҫлет, харпӑр ҫынӑн деменцирен хӳтӗленнине шанчӑкламасть.
+- **Ытти хиреҫ рисксемпе ăнлантарӑнман.** Усĕм, генсемпе ӑлӑмсем хальлӗхе пӗтӗмпех ӑнланман сӑлтавсем ытларах пайне йышӑнаҫҫӗ.
 
-## What is the difference between "risk reduction" and "prevention"?
+## «Риска чакартни» тата «хӳтӗленни» хушшинче мӗнле уйрӑмлӑх пур?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Риска чакартни** — пулма пултараслӑха чакартни. Пысӑк ушкӑнри ҫынсем юн ҫынне чакартсан, вӗсенчен темиҫе ҫултан деменципе апатланакан ҫынсем, унсӑр пулнипе танлаштарсан, сахалрах пулма пултараҫҫӗ. Ҫав ушкӑнри хӑш-пӗр ҫынсенче вӑл пулин те пуҫланӗ.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Хӳтӗленни** нимӗнле чир те пӗтӗмпех пулмалла мар тесе пӗлтерет. Деменци пирки тӗпчевсем паян харпӑр ҫын валли ҫакна шанчӑклать тесе калаяймаҫҫӗ.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Тӗпчевҫӗсем ҫавӑн пекех **каҫартни** пирки те калаҫҫӗ. «Ланцет» комиссийӗ риска чакартни деменци пуҫланнине каҫартма тата ҫын сывлӑхӗ аванрах чухне пурӑннӑ вӑхӑта кӗскелетме пултарни пирки ҫӗнӗ ҫирӗплетӳсем пуррине палӑртать. Темиҫе ҫул каҫарни те ҫыншӑн тата унӑн ҫемйишӗн валли пысӑк пӗлтерӗшлӗ пулма пултарать.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Ку сайтра эпир юри кӑна «риска чакартни» тата «ҫыхӑннӑ» тесе усӑ куратпӑр. Енчен те эсир «Альцгеймер чирӗнчен хӳтӗленет» текен продукта, ҫимӗҫӳ е программа курсан, асӑрхануллӑ пулӑр. NIA Альцгеймер чирӗнчен хӳтӗленет текен эмел е апатлану мелне усӑ курас умӗн врачпа сӳтсе явма сӗнет, мӗншӗн тесен ҫакӑн пек хатӗрсем хӑрушӑ, укҫа ҫухатасси е иккӗшӗ те пулма пултараҫҫӗ.
 
-## What have large trials found?
+## Пысӑк тӗрӗслевсем мӗн тупрӗ?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Тӗрӗсленӗ тӗпчевсем (ҫынсем ҫинчен вӑхӑт иртнӗ май мӗн пулнине сӑнанӑ) ҫыхӑнусене кӑтартма пултараҫҫӗ. Ҫынсене программа е танлаштару ушкӑнне ӑнсӑртран палӑртса лартакан рандомизациленӗ тӗрӗслевсем — ытларах ҫирӗп тӗрӗсленӳ мелӗ. Чи паллӑ тӗрӗслевсенчен хӑш-пӗрисем мӗн тупнине вара пӑхӑпӑр.
 
-### FINGER (Finland)
+### FINGER (Финлянди)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER тӗрӗслевӗ 60—77 ҫулти, деменци риски ытларах 1260 ҫынна пухнӑ. Пӗр пайне икӗ ҫул хушши апатлану канашӗ, хускану, компьютер миме вӑййисемпе юн-тӑван йӗркисене тӗрӗслени кӗртнӗ программа панӑ; тепӗр пайне пӗтӗмӗшле сывлӑх канашӗ кӑна панӑ. Программа илнӗ ушкӑн шухӑшлав тӗрӗсленӗ тӗрӗсӗсенче пӗчӗкрен лайӑхрах результат кӑтартнӑ, вӑл — пӗчӗк, анчах статистикӑпа пӗлтерӗшлӗ уйрӑмлӑх ([FINGER тӗрӗслевӗ «Ланцет» журналӗнче](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Тӗрӗслев диагнозсене мар, тӗрӗсленӳ результатӗсене виҫенӗ.
 
-### US POINTER (United States)
+### US POINTER (АПШ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER тӗрӗслевӗ 60—79 ҫулти, хускану ҫитмен, апатлану йӗрки лайӑхрах мар тата ытти рисксем пур 2111 ҫынна пухнӑ. Икӗ ушкӑна та хусканма, шухӑшласа ӗҫлеме, лайӑхрах ҫиме, ҫынсемпе ҫыхӑнма тата юн-тӑван сывлӑхне тӗрӗслеме хавхалантарнӑ. Пӗр ушкӑн йӗркеленӗ, наставник пулӑшнӑ программа илнӗ; тепри хӑй тӗллӗн ӗҫленӗ. Икӗ ҫултан **икӗ ушкӑнра та** шухӑшлав тӗрӗсленӗ тӗрӗсӗсен результатӗ лайӑхланнӑ, йӗркеленӗ ушкӑнра пӗчӗкрен ытларах ([US POINTER тӗрӗслевӗ JAMA журналӗнче](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Авторсем каланӑ тӑрӑх, ку уйрӑмлӑх кулленхи пурнӑҫра пӗлтерӗшлӗ-и тесе пӗлес тесен, ытларах тӗрӗслемелле. «Нимӗн те тумаҫҫӗ» тенӗ ушкӑн пулманран, тӗрӗслев кашни программӑн нимӗн те улшӑнманнипе танлаштарсан мӗн чухлӗ пулӑшнине каламасть.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (юн ҫыни)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND тӗрӗслевӗ юн ҫыни пур 50 ҫултан пултаруллӑ 9361 американлӑ ҫынпа ӗҫленӗ. Вӗсене юн ҫыни валли чакрах тӗллев (ҫӳлти хисеп 120-рен сахал) е йӗркеллӗ тӗллев (140-ран сахал) панӑ. Чакрах тӗллев **пӗчӗк пусӑм шухӑшлав йывӑрлӑхне** пӗлтерӗшлӗ чакартнӑ, ку — деменци умӗн пулма пултаракан аса илӳпе шухӑшлав йывӑрлӑхӗ. **Пулма пултаракан деменци** тӗлӗшпе чакрах тӗллевлӗ ушкӑнра случакисем сахалрах пулнӑ, анчах ку уйрӑмлӑх статистикӑпа пӗлтерӗшлӗ пулман. Тӗрӗслевӗ маларах вӗҫленнӗ тата деменци случакисем шутланинчен сахалрах пулнӑ, ҫавна май вӑл ҫак ыйтӑва хуравлама пӗчӗк пулма пултарать ([SPRINT MIND тӗрӗслевӗ JAMA журналӗнче](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Тӗрӗслевсене пӗтӗмлетни мӗн кӑтартать
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 ҫулхи Cochrane пӗтӗмлетӗвӗ темиҫе риска пӗр вӑхӑтра улшӑнма тӑрӑшакан программӑсем пирки 18 000 ҫынтан ытларах пуррипе тӑваттӑ пысӑк тӗрӗслеве пӗрле пухнӑ. Вӑл шухӑшлав тӗрӗсленӗ тӗрӗсӗсенче пӗчӗк лайӑхлану кӑтартнӑ, анчах ҫакна виҫенӗ икӗ тӗрӗслевре **деменци пуҫланнӑ ҫынсен йышӗнче уҫӑмлӑ уйрӑмлӑх ҫук** пулнӑ ([Cochrane пӗтӗмлетӗвӗ](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+NIA ӑнлантарнӑ тӑрӑх, НАШ-ӑн 2017 ҫулхи пӗтӗмлетӗвӗ виҫӗ мел валли «шанчӑклӑ, анчах ҫирӗплетӳ ҫитмен» ҫирӗплетӳсем тупнӑ: юн ҫынине тӳрлетни, хусканӑва ытла туни тата шухӑшлавпа вӗренӳ.
 
-## Does it matter when you start?
+## Хӑҫан пуҫласси пӗлтерӗшлӗ-и?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+«Ланцет» комиссийӗн канашӗ: рисксене чи иртӗнрех чакартса пуҫламалла тата вӗсене чи вӑрӑмрах чухне чакарса тӑмалла: «чи иртӗнрех — чи лайӑх» тата «чи вӑрӑмрах — чи лайӑх». Вӑл ҫавӑн пекех риска чакартма иртӗнрех те, кайран та мар тет. Тӗпчевсен чылайӑшӗ аслӑ вӑйра, 40—65 ҫул хушшинче пурӑннӑ вӑхӑта ҫыхӑннӑ, анчах курас ҫухалӑвӗ е уҫӑлса юлни пек хӑш-пӗр факторсем — ватӑ ҫулсенчи рисксем, вӗсен тӗлӗшпе утӑм туни унта та пӗлтерӗшлӗ пулма пултарать.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Отчёт каланӑ тӑрӑх, халӗ риска вӑрӑмрах чухне тытса пыни ытларах витӗм кӳрет тесе кӑтартакан ҫирӗплетӳсем ытларах. Сӑмахран, аслӑ вӑйра пуҫланнӑ диабет каҫрах пуҫланнинчен ытларах пӗлтерӗшлӗ пулма пултарать.
 
-## Is dementia risk the same for everyone?
+## Деменци риски пур ҫыншӑн та пӗр пек-и?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ҫук. Комисси сахал пурӑнатлӑхлӑ тата аслӑ пурӑнатлӑхлӑ ҫӗршывсенчи ҫынсен, кӗҫенлӗх ушкӑнӗсенчи ҫынсен тата укҫа сахал ҫынсен ҫак рисксенчен ытларах тытса пурӑннине тупнӑ; ҫавна май вӗсенче деменци ав вӑйра пуҫланма пултарать. Нумай рисксем ҫынсем хӑйсем суйламан лару-тӑрӑвпа ҫыхӑннӑ: ача чухне илнӗ вӗренӳ пахалӑхӗ, пурӑнакан вырӑнри сывлӑш, сывлӑха лайӑх апат ҫывӑх тата юнлӑ пулни.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Ҫавна май Комисси канашӗсене ҫынсем ҫеҫ мар, правительствӑсем валли те каланӑ: пур ачана та лайӑх вӗренӳ, тасарах сывлӑш, тӗтӗм ӗҫессине чакартмалли мелсем, магазинсенче тата ҫимелли вырӑнсенче сутнӑ апатра сакӑр тата тӑвар сахалрах лартни, кирлӗ пур ҫынна та илтӳ аппарачӗсем. Ҫын хӑй ӗҫлени пӗлтерӗшлӗ, анчах ҫынсем пурӑнакан тӗнче те пӗлтерӗшлӗ. Ку диагнозшӑн никама та айӑплама кирлӗ маррине кӑтартакан тепӗр сӑлтав.
 
-## What are the honest limits of this research?
+## Ҫак тӗпчевсен чӑнлӑх чакӗсем мӗнсем?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Деменци унтӑн-ҫунтӑн тапхӑрсем хушшинче аталанать**, анчах тӗрӗслевсен чылайӑшӗ иккӗрен пиллӗк ҫул таран тӑсӑлаҫҫӗ. Тӗрӗсленӳсене мар, хӑй деменцине виҫеме питӗ вӑрӑм тата питӗ пысӑк тӗпчевсем кирлӗ.
+- **Тӗрӗслевсен чылайӑшӗ шухӑшлав тӗрӗсленӗ тӗрӗсӗсене виҫет.** Тӗрӗсре пӗчӗк лайӑхлану деменци пуҫланакан ҫынсем сахалрах пулӗ е кулленхи пурнӑҫ ҫӑмӑлрах пулӗ тесе пӗлтермест.
+- **Волонтёрсем чылай чухне** пӗтӗм халӑхран лайӑхрах сывлӑхлӑ тата ытларах вӗреннӗ пулма пултараҫҫӗ. «Ланцет» комиссийӗ тӗпчевсен чылайӑшӗ халӗ те пуян ҫӗршывсенчен килнине тата кӗҫенлӗх ушкӑнӗсем ҫителӗксӗр хутшӑннине палӑртать.
+- **Хӑш-пӗр ҫыхӑнусем икӗ енлӗ те ӗҫлеҫҫӗ.** Сахалрах хусканни е ҫынсенчен уҫӑлса юлни деменцин малтанхи тӗллевӗ пулма пултарать, сӑлтавӗ кӑна мар.
+- **Апатлану пирки тӗрӗслевсем халӗлле шанчӑка ҫитмен кӑтартнӑ.** MIND апатлану йӗркине виҫӗ ҫул тӗрӗсленӗ тӗрӗслевре шухӑшлав енчен контроль апатлану йӗркинчен пӗлтерӗшлӗ уйрӑмлӑх тупӑнман. Пирӗн [апатлану кӑтартӑвне](/brain-health/diet/) пӑхӑр.
+- **Миме вӑййисем деменцирен хӳтӗленет тесе ҫирӗплетнӗ мар.** Пирӗн [миме вӑййисемпе деменци пирки кӑтартӑва](/brain-health/brain-games/) пӑхӑр.
+- **Ҫимеллӗ вӑхӑтра апат ҫименни (пост) пирки ҫынсем хушшинче тӗпчевсем питӗ сахал**, тата вӑл ватӑ ҫынсем валли хӑрушӑ пулма пултарать. Пирӗн [пост пирки кӑтартӑва](/brain-health/fasting/) пӑхӑр.
 
-## If someone did everything "right", why did they still get dementia?
+## Тахҫан та ҫын кашнине те лайӑх тунӑ пулсан, мӗншӗн унта деменци пуҫланчӗ?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Мӗншӗн тесен деменци — суйлавсем кӑна результатӗ мар. NIA [усӗм — Альцгеймер чирӗ валли чи пӗлтерӗшлӗ риск факторӗ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) тет, тата ăна никам та улăштарма пултараймасть. Генсем те вырӑн йышӑнаҫҫӗ. Чылай чухне Альцгеймер чирӗ мӗншӗн пуҫланнине ӑлӑмсем хальлӗхе тӗплӗн ӑнланман. 14 риск факторӗнчен кашнине те пӗтернӗ пулсан та, «Ланцет» комиссийӗн хӑйӗн хаклавӗпе случакисен пӗр хиреҫинчен ытларахӗшӗн сӑлтавӗ ăнлантарӑнман юлать.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Ҫавна май енчен те эсир хусканнӑ, лайӑх ҫинӗ, тӗтӗм ӗҫмен, анчах деменципе апатланнӑ ҫыншӑн пӑхса тӑратӑр пулсан, унӑн е сирӗн айӑпӑр ҫук. Енчен те эсир хӑвӑр деменципе пурӑнатӑр пулсан, ку сирӗн айӑп мар. Айӑп туйӑмӗ ҫемйисен хушшинче тӗл пулакан япала, анчах вӑл тӗрӗс мар. Халӗ чи пӗлтерӗшлӗ — ҫӑмӑллӑх, ҫыхӑну тата лайӑх кунсем. Пирӗн [ӗҫ-хӗл канашӗсем](/activities/ideas/) тата [пӑхса тӑракан ҫыншӑн хӑйӗн пӑхмалли кӑтарту](/caregiving/caregiver-self-care/) пуҫламалли лайӑх вырӑнсем.
 
-## What steps can you talk over with a doctor?
+## Врачпа мӗнле утӑмсене сӳтсе явма пулать?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ку енсем чи нумай тӗрӗсленнисем. Вӗсем пирки тӗрӗслев вӑхӑтӗнче калаҫма юрать, мӗншӗн тесен чылайӑшӗ юн-тӑван сывлӑхне, кӑмӑл тӑрӑмне тата хӑй тӑллӑн пурӑнассине те лайӑхлатма пултараҫҫӗ, деменци ҫине витӗмӗ мӗнле пулнинчен пӑхмасӑр.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Юн ҫыни.** Хисепсене мӗнле пулнине тата сире мӗнле тӗллев юрӑхлӑ пулнине ыйтӑр. «Ланцет» комиссийӗ 40 ҫултан пуҫласа ҫӳлти хисеп 130 е унтан сахалрах пулмаллине сӗнет, анчах ватӑ ҫын валли тӗрӗс тӗллев унӑн пӗтӗм сывлӑхӗнчен килет.
+2. **Илтӳ.** Илте тӗрӗслетме ыйтӑр тата илтӳ аппарачӗсем пулӑшма пултараҫҫӗ-и тесе пӑхӑр. Пирӗн [илтӳ кӑтартӑвӗ](/brain-health/hearing/) тӗпчевсене ӑнлантарать.
+3. **Куҫ.** Куҫсене тӑтӑш тӗрӗслеттерӗр тата катаракта пек йывӑрлӑхсене тӳрлетме май пур-и тесе ыйтӑр.
+4. **Холестерин.** ЛПП холестеринне тӗрӗслемелле-и тата нимӗн те улшӑнмалла-и тесе ыйтӑр.
+5. **Юнри сакӑр.** Диабет пур пулсан, ăна хӑрушсӑр мӗнле тытса пымаллине ыйтӑр.
+6. **Кӑмӑл тӑрӑмӗ.** Депресси тӗл пулать тата ăна тӳрлетме май пур. Икӗ эрнерен ытла вӑхӑт хушши кӑмӑлӑр пӑсӑлса тӑнӑ е япаласем кӑсӑкланма пӑрахнӑ пулсан, врачпа калаҫӑр.
+7. **Тӗтӗм ӗҫнипе эрех.** Тӗтӗм ӗҫессине пӑрахма пулӑшакан мелсемпе эрехшӗн хӑрушсӑр чарусем пирки ыйтӑр.
+8. **Хускану.** Сире мӗнле хускану хӑрушсӑр пулнине ыйтӑр. Пирӗн [хускану кӑтартӑвӗнче](/brain-health/exercise/) канашсем пур.
+9. **Пуҫа хӳтӗлени.** Велосипедпа ҫӳрес тесен е хускануллӑ вӑйӑсем тытӑнсан шлем тӑхӑнӑр, ӳкнине сӗнсе хӳтӗленӳ пирки ыйтӑр.
+10. **Ҫынсемпе ҫыхӑну.** Ҫынсемпе пӗрле вӑхӑт ирттерни сывлӑхлӑ пурнӑҫ пайӗ. Пирӗн [ҫынсемпе ҫыхӑну](/brain-health/social-connection/) пирки кӑтартӑва пӑхӑр, [ҫывӑрни](/brain-health/sleep/) пирки те.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Эмеле, апатлану йӗркине, ҫимӗҫӳсене, поста е хусканӑва улӑштарас умӗн малтанах врачпа калаҫӑр, уйрӑмах юн-тӑван чирӗсем, диабет, ӳкнӗ ӑс-тӑн пур пулсан е эсир деменципе пурӑнатӑр пулсан.
 
-## Talk with a doctor
+## Врачпа калаҫӑр
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Енчен те эсир хӑвӑн е урӑх ҫын асра юлнипе шухӑшлавӗнче хумхануллӑ улшӑнусем асӑрхатӑр пулсан, врач патне вӗҫкӗн ӗҫес каҫӑр. NIA палӑртнӑ тӑрӑх, [аса илӳ йывӑрлӑхӗсен урӑх сӑлтавӗсем](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) пулма пултараҫҫӗ: эмел витӗмӗ, щитовиднӑй железа йывӑрлӑхӗсем, депресси е B12 витамин ҫитменни. Сӑлтава тӳрлетсен, хӑш-пӗр йывӑрлӑхсем ирӗлме пултараҫҫӗ. Пирӗн [асӑрхаттармалли паллӑсем кӑтартӑвӗ](/brain-health/warning-signs/) мӗн çине тимлĕ пулмаллине ăнлантарать.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Кӑшт йывӑрлӑхсене чылай ҫухатмалла:** ҫӑпах килнӗ ӑнкарулӑх, пӗр енчелли хытӑ вӑй ҫухалӑвӗ е чаканни, калаҫма йывӑрланни е ҫывӑх пуҫ ыратни — инсульт е ытти хӑрушӑ тӑрӑмӑн паллисем пулма пултараҫҫӗ. 112 ҫине шӑнкӑравлӑр.
 
-## Where Golden Moments fits
+## Golden Moments ӑҫта пулӑшма пултарать
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments [калаҫу карттичӗсем](/games/conversation-cards/), [сӑнӳкерчӗклӗ бинго](/games/picture-bingo/) тата [лӑпкӑ тӑвакан сывлани паузи](/games/calm-breathing/) пек ансат пӗрле ӗҫлемелли ӗҫсем туса хатӗрлет. Вӗсем — киленес тата пӗрле вӑхӑт ирттерес тӗллевпе. Вӗсем — апатлану мелӗ мар, тата деменцирен хӳтӗлемеҫҫӗ е ăна чакартмаҫҫӗ.
