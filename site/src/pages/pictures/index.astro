@@ -1,6 +1,7 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
 import { PICTURES, pictureUrl, type PictureCategory } from '../../data/pictures';
+import manifest from '../../../public/illustrations/manifest.json';
 
 // English only for now; the games show these names in every language.
 const GROUPS: { category: PictureCategory; title: string }[] = [
@@ -13,12 +14,26 @@ const GROUPS: { category: PictureCategory; title: string }[] = [
   { category: 'sky', title: 'Weather and sky' },
 ];
 const groups = GROUPS.map((g) => ({ ...g, pictures: PICTURES.filter((p) => p.category === g.category) }));
-const count = PICTURES.length;
+// Later drawings (public/illustrations/*.webp), English names only for now.
+const MORE: { category: string; title: string }[] = [
+  { category: 'home', title: 'More around the house' },
+  { category: 'food', title: 'Food and drink' },
+  { category: 'animals', title: 'More animals' },
+  { category: 'outdoors', title: 'Outdoors' },
+  { category: 'travel', title: 'More ways to travel' },
+  { category: 'music-and-play', title: 'Music and play' },
+];
+const moreGroups = MORE.map((g) => ({
+  ...g,
+  id: `more-${g.category}`,
+  pictures: manifest.illustrations.filter((i) => i.category === g.category),
+})).filter((g) => g.pictures.length > 0);
+const count = PICTURES.length + manifest.illustrations.length;
 ---
 <PageLayout
   title="Pictures to look at together"
-  seoTitle="Printable pictures for dementia: 80+ simple drawings"
-  description={`${count} clear, friendly drawings of everyday things to look at, talk about or print. The same pictures appear in the free games here and in the Golden Moments app.`}
+  seoTitle="Printable pictures for dementia: 180+ simple drawings"
+  description={`${count} clear, friendly drawings of everyday things to look at, talk about or print. The Golden Moments app uses all of them; the free games here use the first set.`}
   path="/pictures/"
   crumb="Pictures"
   lede={`${count} friendly drawings of everyday things: a teapot, a sleepy owl, a red bus. Look at one together, talk about it, or print a few for the table.`}
@@ -27,6 +42,7 @@ const count = PICTURES.length;
   <nav class="pic-jump" aria-label="Picture groups">
     <ul>
       {groups.map((g) => <li><a href={`#${g.category}`}>{g.title}</a></li>)}
+      {moreGroups.map((g) => <li><a href={`#${g.id}`}>{g.title}</a></li>)}
     </ul>
   </nav>
 
@@ -40,6 +56,21 @@ const count = PICTURES.length;
               <li>
                 <a class={`pic-print pic-print--${i % 4}`} href={pictureUrl(p.id)}>
                   <img src={pictureUrl(p.id)} alt="" width="240" height="240" loading="lazy" decoding="async" />
+                  <span class="pic-name">{p.name}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+      {moreGroups.map((g) => (
+        <section aria-labelledby={g.id} class="pic-group">
+          <h2 id={g.id}>{g.title}</h2>
+          <ul class="pic-grid">
+            {g.pictures.map((p, i) => (
+              <li>
+                <a class={`pic-print pic-print--${i % 4}`} href={`/illustrations/${p.id}.webp`}>
+                  <img src={`/illustrations/${p.id}.webp`} alt="" width="240" height="240" loading="lazy" decoding="async" />
                   <span class="pic-name">{p.name}</span>
                 </a>
               </li>
