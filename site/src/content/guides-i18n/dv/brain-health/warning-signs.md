@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "ޑިމެންޝިއާގެ ފުރަތަމަ ޢަލާމާތްތަކާއި ޑޮކްޓަރަކަށް ދާންޖެހޭ ވަގުތު"
+seoTitle: "ޑިމެންޝިއާގެ ފުރަތަމަ ޢަލާމާތްތަކާއި ޑޮކްޓަރަކަށް ދާންޖެހޭ ވަގުތު"
+description: "ޑިމެންޝިއާގެ ޢާންމު ފުރަތަމަ ޢަލާމާތްތައް، އުމުރުން އަންނަ ބަދަލުތަކާ ތަފާތު، ފަރުވާ ކުރެވޭ ސަބަބުތަކާއި ޑޮކްޓަރު ބައްދަލުވުމަށް ތައްޔާރުވާނެ ގޮތް."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  ދުވަހުން ދުވަހަށް ކުރާ ކަންކަމަށް ހުރަސް އަރާ ހަނދާން ގެއްލުން، ޢާދަކޮށް ކުރާ ކަންކަން ކުރުމުގައި ދަތިވުން، ވަގުތާއި ތަނާ ބެހޭ ގޮތުން އޮޅުންބޮޅުން އުންމުން، އަދި މޫޑުން ނުވަތަ ނިންމުންތަކުގައި އަންނަ ބަދަލުތައް ޑިމެންޝިއާގެ ފުރަތަމަ ޢަލާމާތްތަކެއް ކަމަށް ވެދާނެ. ތައިރޮއިޑް މައްސަލަ، ވިޓަމިން B12 މަދުވުން، ބޭސްތަކުގެ އަސަރު، ޑިޕްރެޝަން އަދި ނިދުމުގެ މައްސަލަތައް ހިމެނޭ ގޮތުން އެހެން ޙާލަތްތަކުންވެސް މިފަދަ ބަދަލުތައް އުފެދިދާނެ. ޑިމެންޝިއާ ކަނޑައެޅިދާނީ ތަޢުލީމީ ލައިސަންސް ހުރި ކްލިނިޝަނަކަށް އެކަނި. އެކަންކަން ވޭން ގެންދާ އޮޅުންބޮޅުންތަކަށް ވަގުތުން ފަރުވާ ހޯދަން ޖެހެއެވެ.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "ކޮންމެ ދުވަހަކު ވެސް ކުޑަ ކުޑަ ކަންތައް ހަނދާން ނެތުން އުމުރާއެކު ޢާންމުކޮށް ދެއްކޭ؛ ދުވަހުން ދުވަހަށް ކުރާ ކަންކަމަށް ހުރަސް އަރާ ބަދަލުތައް ބަލައިލުން ރަނގަޅެވެ."
+  - "އަލްޒައިމާސް އެސޯސިއޭޝަނުން 10 އިންޒާރީ ޢަލާމާތެއް ބަޔާންކޮށްފައިވާއިރު، އެކޮންމެ ޢަލާމާތެއްގެ ގާތުގައި އުމުރާއެކު ޢާންމުކޮށް ދެއްކޭ ބަދަލެއް ވެސް ދައްކާލައިދެއެވެ."
+  - "ތައިރޮއިޑް މައްސަލަ، ވިޓަމިން B12 މަދުވުން، ބޭސްތަކުގެ އަސަރު، ޑިޕްރެޝަން، އިންފެކްޝަން އަދި ނިދުމުގެ މައްސަލަތަކުން ހަނދާނަށް އަސަރުކުރެވިދާނެ، އަދި ބައެއް ޙާލަތްތަކަށް ފަރުވާ ލިބިދާނެ."
+  - "ޑިމެންޝިއާ ކަނޑައެޅިދާނީ ތަޢުލީމީ ލައިސަންސް ހުރި ކްލިނިޝަނަކަށް އެކަނި؛ އޮންލައިން ސުވާލުތަކާއި އަމިއްލަ ޓެސްޓްތަކުން ނުކަނޑައެޅޭނެ."
+  - "ގަޑިތަކެއް ނުވަތަ ދުވަސްތަކެއްގެ ތެރޭގައި އެކަންކަން ވޭން ގެންދާ އޮޅުންބޮޅުން ޑެލިރިއަމް ކަމަށް ވެދާނެ، އަދި އެކަމަށް ވަގުތުން ފަރުވާ ބޭނުންވެއެވެ."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "ހަނދާން ނެތުން އުމުރާއެކު އަންނަ ޢާންމު ކަމެއްތަ؟"
+    a: "ބައެއް މިންވަރަކަށް އެއީ ޢާންމު ކަމެކެވެ. ނޭޝަނަލް އިންސްޓިޓިއުޓް އޮން އޭޖިންގ ބުނަނީ، ކޮންމެ ދުވަހަކު ވެސް އެއްޗެއް ބަހައްޓާފައި ޖެހިގެން ދިއުން ނުވަތަ ބިލެއް ހަނދާން ނެތުން އާންމުކޮށް އުމުރާއެކު އަންނަ ހަލުވި ހަނދާން ނެތުމެކެވެ. ޑިމެންޝިއާ އަކީ އުމުރާއެކު އަންނަ ޢާންމު ކަމެއް ނޫނެވެ. ގަޑި ދުއްވުން، ފޯނު ބޭނުންކުރުން ނުވަތަ ގެއަށް ދާ މަގު ހޯދުން ފަދަ ދުވަހުން ދުވަހަށް ކުރާ ކަންކަން ދަތިކޮށްލާ ހަނދާން މައްސަލަތަކެއް އޮތްނަމަ، ޑޮކްޓަރަކަށް ދައްކާލުން ރަނގަޅެވެ."
+  - q: "ޑިމެންޝިއާ ނޫން އެހެން ކަމަކުންވެސް ހަނދާން މައްސަލަ އުފެދިދާނެތަ؟"
+    a: "އާދެ، އުފެދިދާނެ. ނޭޝަނަލް އިންސްޓިޓިއުޓް އޮން އޭޖިންގ ދައްކާ ސަބަބުތަކުގެ ތެރޭގައި ތައިރޮއިޑް، ގުރުދާ ނުވަތަ ލިވަރުގެ މައްސަލަ، ބޭސްތަކުގެ އަސަރު، ޑިޕްރެޝަން އަދި އެންޒައިއަޓީ، ވިޓަމިން B12 މަދުވުން، މަސްތުވާތަކެތި ބޭނުންކުރުން، ނިދުމުގެ މައްސަލަ، އިންފެކްޝަން އަދި ބޮލުގައި ލައްގާ ޒަހަމްތައް ހިމެނެއެވެ. މިކަންކަމުގެ ތެރެއިން ބައެއް ކަންކަން ފަރުވާ ކުރުމުން ރަނގަޅުވެދާނެ. އެހެންކަމުން، ޑޮކްޓަރު ޗެކްއަޕެއް ކުރުމުގެ އަގު ހުރެއެވެ."
+  - q: "ގޭގައި ތިބެގެން ޑިމެންޝިއާ ހުރިތޯ ބެލޭނެތަ؟"
+    a: "ނޫން، ނުބެލޭނެ. ޑިމެންޝިއާ ކަނޑައެޅިދާނީ ތަޢުލީމީ ލައިސަންސް ހުރި ކްލިނިޝަނަކަށް އެކަނި. އެކަމަށް ބޭނުންވަނީ މެޑިކަލް ތާރީޚް، ހަށިގަނޑު ބެލުން، ހަނދާނާއި ވިސްނުމުގެ ޓެސްޓްތައް، ލެބޯޓަރީ ޓެސްޓްތައް، އަދި ބައެއް ފަހަރު ބްރެއިން ސްކޭންތަކެވެ. ޑޮކްޓަރުން ބޭނުންކުރާ ކުރު ޓެސްޓްތަކުން ވެސް އެކަނި ޑިމެންޝިއާ ކަނޑައެޅޭނެ ކަމެއް ނެތެވެ."
+  - q: "މީހަކު އެކަންކަން ވޭން ގެން އޮޅުންބޮޅުން ފެށިއްޖެ ނަމަ ކުރަންޖެހޭނީ ކޮންކަމެއްތަ؟"
+    a: "ވަގުތުން ފަރުވާ ހޯދައްވާ. އެކަންކަން ވޭން ގެން އަންނަ އޮޅުންބޮޅުން ޑެލިރިއަމް ކަމަށް ވެދާނެ. ވީއޭ އިން ބުނަނީ އެއީ މެޑިކަލް އިމަޖެންސީއެއް ކަމަށާއި، ވަގުތުން އެ މީހާގެ ހެލްތު ކެއާ ޕްރޮވައިޑަރަށް ގުޅާލަން ނުވަތަ 119 އަށް ގުޅާލަން ޖެހޭނެ ކަމަށެވެ. އެ މީހާގެ އަރިހުގައި ހުންނަވާ، އަދި އެ މީހާ ބޭނުންކުރާ ބޭސްތައް ނޯޓުކޮށް ބަހައްޓަވާ."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+ތިބާގެ އަމިއްލަ ހަނދާނުގައި، ނުވަތަ ތިބާ ލޯބިކުރާ މީހެއްގެ ހަނދާނުގައި ބަދަލުތަކެއް ފާހަގަކުރުން ބިރު އައިދާނެ. ޑޮކްޓަރަކަށް ބައްދަލުވުމަށް ވަގުތު ހަމަޖެހިފައިވަނީ ކޮން އިރަކުންތޯ ނިންމުމަށާއި، އެ ބައްދަލުވުމަށް ތައްޔާރުވާނެ ގޮތް ދެނެގަތުމަށް މި ޞަފްޙާ އެހީތެރިވެދާނެ. ނަމަވެސް، މީހަކަށް ޑިމެންޝިއާ ހުރިތޯ މި ޞަފްޙާއިން ނުކަނޑައެޅޭނެ. **ޑިމެންޝިއާ ކަނޑައެޅިދާނީ ތަޢުލީމީ ލައިސަންސް ހުރި ކްލިނިޝަނަކަށް އެކަނި**، އަދި ހަނދާން މައްސަލަ އުފައްދާ ގިނަ ޙާލަތްތަކަކީ ޑިމެންޝިއާ ނޫން ކަންކަމެވެ. އޮންލައިން ސުވާލުތަކަށް ނުވަތަ އަމިއްލަ ޓެސްޓްތަކަށް ބަރޯސާ ނުކުރައްވާ.
 
-## What are the early signs of dementia?
+## ޑިމެންޝިއާގެ ފުރަތަމަ ޢަލާމާތްތަކަކީ ކޮބައިތަ؟
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[އަލްޒައިމާސް އެސޯސިއޭޝަނުން](https://www.alz.org/alzheimers-dementia/10_signs) ފުރަތަމަ 10 ޢަލާމާތެއް ބަޔާންކޮށްފައިވެއެވެ. އެ ތަނުގައި އެކޮންމެ ޢަލާމާތެއް އުމުރާއެކު ޢާންމުކޮށް ދެއްކޭ ބަދަލަކާ އަޅާކިޔާލައިދެއެވެ. އަޅުގަނޑުމެންގެ ބަހުން ކިޔާލައިފިނަމަ:
 
-| Sign worth checking | More typical with age |
+| ބަލައިލުން ބޭނުންވާ ޢަލާމާތް | އުމުރާއެކު ޢާންމުކޮށް ދެއްކޭ ކަންތައްތައް |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| ދުވަހުން ދުވަހަށް ކުރާ ކަންކަމަށް ހުރަސް އަރާ ހަނދާން ގެއްލުން؛ މިސާލަކަށް ފަހުން ދިމާވި ކަންތައް ހަނދާން ނެތުން ނުވަތަ އެއް ކަމެއް ތަކުރާރުކޮށް އަހާލުން | ކޮންމެ ދުވަހަކު ވެސް ނަމެއް ނުވަތަ ބައްދަލުވުމެއް ހަނދާން ނެތިގެން ފަހުން ހަނދާން އައުން |
+| ޕްލޭން ކުރުމުގައި ނުވަތަ މައްސަލަ ހައްލުކުރުމުގައި ދަތިވުން؛ މިސާލަކަށް ޢާދަކޮށް ކުރާ ރެސިޕީއެއްގެ ފަހަތުން ދިޔުން ނުވަތަ ބިލްތަކުގެ ހިސާބު ބަލަހައްޓުން | ގޭގެ ބިލްތަކުގައި ކޮންމެ ދުވަހަކު ވެސް ކުޑަ ކުށެއް ދިމާވުން |
+| ގޭގައި، މަސައްކަތް ކުރާ ތަނުގައި ނުވަތަ ބޭރުގައި ޢާދަކޮށް ކުރާ ކަންތައް ނިންމަން ދަތިވުން | ކޮންމެ ދުވަހަކު ވެސް މައިކްރޯވޭވް ސެޓިންގ ނުވަތަ ޓީވީ ޝޯއެއް ރެކޯޑު ކުރުމަށް އެހީ ބޭނުންވުން |
+| ތާރީޚް، މޫސުން ނުވަތަ ތިބާ ހުރި ތަން ހަނދާން ނެތުން | ހަފްތާގެ ދުވަސް ކުށްވެގެން ފަހުން އަނބުރާ ހަނދާން އައުން |
+| ދުރުމިން ދެނެގަތުމުގައި، ކިޔުމުގައި ނުވަތަ ކުލަ ވަކިކުރުމުގައި އާ ދަތިކަމެއް ފެނުން | ކެޓަރެކްޓް ސަބަބުން ލޮލުގެ ނުރުގައި އަންނަ ބަދަލުތައް |
+| ބަސްތަކާ ގުޅޭ ގޮތުން އާ މައްސަލަތަކެއް؛ މިސާލަކަށް ވާހަކަ ދެއްކަމުން ދާއިރު މެދުގައި ހުއްޓުން ނުވަތަ އެއްޗެހިން ނުބައި ނަމަކުން ގޮވުން | ކޮންމެ ދުވަހަކު ވެސް ރަނގަޅު ބަސް ހޯދަން ދަތިވުން |
+| އެއްޗެހި އާދަކާ ޚިލާފު ތަންތަނުގައި ބަހައްޓައި، އެ އެއްޗެހި ހޯދަން އަނބުރާ ހިނގާފައިވާ މަގު ނޭނގުން | ކޮންމެ ދުވަހަކު ވެސް އެއްޗެއް ބަހައްޓާފައި ޖެހިގެން ދިއުމަށް ފަހު ހޯދުން |
+| ފައިސާ ބެހެއްޓުމުގައި ނުވަތަ އަމިއްލަ ނަޒާފަތުގައި ފަދަ ކަންކަމުގައި ރަނގަޅު ނިންމުންތަކެއް ނުނެގުން | ކޮންމެ ދުވަހަކު ވެސް ކުޑަ ނުބައި ނިންމުމެއް ނެގުން |
+| ޝައުޤުވެރި ކަންކަމާ، މަސައްކަތާ ނުވަތަ މުޖުތަމަޢީ ޙަރަކާތްތަކުން ދުރުވެގަތުން | ކޮންމެ ދުވަހަކު ވެސް އާއިލާއާ ނުވަތަ މުޖުތަމަޢީ ހަރަކާތަކަށް ދިޔުމަށް ހިތް ނުދިމާވުން |
+| މޫޑުގައި ނުވަތަ ޝަޚްޞިއްޔަތުގައި ބަދަލުތައް؛ މިސާލަކަށް އޮޅުންބޮޅުން އުންމުން، ޝައްކު ކުރުން، ބިރުވެރިވުން ނުވަތަ ހިތާމަވެރިވުން | ކަންކަން ކުރާ ގޮތްގޮތަށް ޢާދަވެފައިވާތީ، ރޫޓީނެއް ބަދަލުވުމުން ރުޅި އަރާވުން |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+އެއް ޢަލާމާތެއް އެކަނި ފެނުމުން ޑިމެންޝިއާ ކަމަށް ނުވެއެވެ. މުހިންމީ **އެ މީހަކަށް ޢާންމުކޮށް ހުރި ޙާލަތާ އެއްކޮށް އަންނަ ބަދަލެއް**، ޚާއްޞަކޮށް އެ ބަދަލު ދުވަހުން ދުވަހަށް ކުރާ ކަންކަން ދަތިކޮށްލަން ފެށިއްޖެ ނަމައެވެ.
 
-## How is normal aging different from dementia?
+## އުމުރާއެކު އަންނަ ޢާންމު ބަދަލާ ޑިމެންޝިއާ ތަފާތުވަނީ ކިހިނެއް؟
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[ނޭޝަނަލް އިންސްޓިޓިއުޓް އޮން އޭޖިންގ (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) ބުނަނީ، ގިނަ އުމުރުން ދުވަސްވީ މީހުން ކަންތައް ހަނދާން އައުމަށް ކުރިންނަށް ވުރެ ވަގުތު ނަގާ ކަމަށް، ނުވަތަ ކޮންމެ ދުވަހަކު ވެސް އެއްޗެހި ބަހައްޓާފައި ޖެހިގެން ދިއުމަށް ނުވަތަ ބިލެއް ހަނދާން ނެތުމަށް ފާހަގަކުރާ ކަމަށެވެ. މިއީ ޢާންމުކޮށް ހަލުވި ހަނދާން ނެތުމުގެ ޢަލާމާތްތަކެވެ. **ޑިމެންޝިއާ އަކީ އުމުރާއެކު އަންނަ ޢާންމު ކަމެއް ނޫނެވެ.** ބޮޑެތި ހަނދާން މައްސަލަތަކުން ގަޑި ދުއްވުން، ފޯނު ބޭނުންކުރުން ނުވަތަ ގެއަށް ދާ މަގު ހޯދުން ފަދަ ދުވަހުން ދުވަހަށް ކުރާ ކަންކަން ދަތިކޮށްލައެވެ.
 
-The NIA suggests talking with a doctor if someone:
+NIA އިރުޝާދު ދެނީ، މީހަކު މި ކަންތައް ކުރަން ފެށިއްޖެ ނަމަ ޑޮކްޓަރަކާ ވާހަކަ ދައްކަން ބޭނުން ކަމަށެވެ:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- އެއް ސުވާލު ތަކުރާރުކޮށް އަހާލުން
+- ކުރިން ރަނގަޅަށް ދަންނަ ތަންތަނުގައި މަގު ގެއްލުން
+- ރެސިޕީ ނުވަތަ އިރުޝާދުތަކުގެ ފަހަތުން ދިޔުމަށް ދަތިވުން
+- ވަގުތާ، މީހުންނާއި ތަންތަނާ ބެހޭ ގޮތުން ކުރިންނަށް ވުރެ އޮޅުންބޮޅުން އުންމުން
+- އަމިއްލަ ބަލަހައްޓުން ހުއްޓާލުން؛ މިސާލަކަށް ރަނގަޅަށް ނުކެއުން، ގާތުނުގަންނާނުލުން ނުވަތަ ސަލާމަތް ނޫން ގޮތްގޮތަށް ހިނގާލުން
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+ބައެއް މީހުންނަށް **ހަލުވި ކޮގްނިޓިވް އިމްޕެއަރމަންޓް (MCI)** އޮތް ކަމަށް ފާހަގަކުރެވިދާނެ. އޭގެ މާނައަކީ އެ މީހުންގެ އުމުރުގެ އެހެން މީހުންނަށް ވުރެ ހަނދާން ނުވަތަ ވިސްނުމުގެ މައްސަލަ އިތުރަށް އޮތް ނަމަވެސް، ދުވަހުން ދުވަހަށް ކުރާ ކަންކަން ކުރެވޭ މިންވަރު ދެމެހެއްޓިފައި ހުރުމެވެ. NIA ބުނަނީ، MCI އަކީ އަލްޒައިމާސް ޑިޒީޒްގެ ފުރަތަމަ ޢަލާމާތެއް ކަމަށް ވެދާނެ ނަމަވެސް، MCI ހުރި ހުރިހާ މީހުންނަށް އެ ބަލި ނުޖެހެއެވެ.
 
-## What else can cause memory problems?
+## ހަނދާން މައްސަލަ އުފެދޭ އެހެން ސަބަބުތަކަކީ ކޮބައިތަ؟
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+ޑިމެންޝިއާ ނޫން ގިނަ ކަންކަމަކުންވެސް ހަނދާނަށް އަސަރުކުރެވިދާނެ، އަދި ބައެއް ކަންކަން ފަރުވާ ކުރުމުން ރަނގަޅުވެދާނެ. NIA ދައްކާ ސަބަބުތަކުގެ ތެރޭގައި މިއެންމެ ހިމެނެއެވެ:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **ތައިރޮއިޑް، ގުރުދާ ނުވަތަ ލިވަރުގެ މައްސަލަ**
+- **ބޭސްތަކުގެ އަސަރު**
+- **ޑިޕްރެޝަން އަދި އެންޒައިއަޓީ**
+- **ވިޓަމިން B12 މަދުވުން** ނުވަތަ ޞިއްޙަތަށް ރަނގަޅު ކާނާ ނުކެއުން
+- **ނިދުމުގެ މައްސަލަ**
+- **މަސްތުވާތަކެތި ނުވަތަ ޑްރަގް ނުބައި ގޮތަށް ބޭނުންކުރުން**
+- ބޮލުގައި އުފެދޭ **އިންފެކްޝަން، ލޭގެ ގޮށި ނުވަތަ ޓިއުމަރ**
+- **ބޮލުގައި ލައްގާ ޒަހަމް**، މިސާލަކަށް ކޮންކަޝަން
+- **ބޮޑު ބިރުވެރިކަމެއް ނުވަތަ ހިތާމަ**، މިސާލަކަށް ރިޓަޔަރ ވުން ނުވަތަ ދެމިއޮންނަ މީހަކު ވަޑައިގަތުން
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+އަޑު އިވުމާއި ފެނުމުގެ މައްސަލަތަކުންވެސް އޮޅުންބޮޅުން ކަމަށް ހީވިދާނެ؛ އަޅުގަނޑުމެންގެ [އަޑު އިވުމާ ބެހޭ ލަފާ](/brain-health/hearing/) ބައްލަވާ. މީގެ ސަބަބުން ޑޮކްޓަރު ޗެކްއަޕެއް ކުރުމަކީ މުހިންމު ކަމެކެވެ. [އަލްޒައިމާސް އެސޯސިއޭޝަން](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ބުނާ ގޮތުގައި، ތައިރޮއިޑް މައްސަލަ، ވިޓަމިން މަދުވުން އަދި އިންފެކްޝަން ހުރިތޯ ބެލުމަށް ޑޮކްޓަރުން ގިނަ ފަހަރަށް ލޭގެ ޓެސްޓްތައް ހަމަޖައްސަވައެވެ. [ރަނގަޅު ނިދުން](/brain-health/sleep/) ލިބުމާއި ޑިޕްރެޝަން ހުރިނަމަ އެކަމަށް ފަރުވާ ހޯދުމާ ބެހޭ ކަންކަން ވެސް ޑޮކްޓަރަށް ދައްކައިލުން ރަނގަޅެވެ.
 
-## Sudden confusion is an emergency
+## އެކަންކަން ވޭން ގެން އަންނަ އޮޅުންބޮޅުން އަކީ އިމަޖެންސީއެއް
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**ގަޑިތަކެއް ނުވަތަ ދުވަސްތަކެއްގެ ތެރޭގައި އަންނަ އޮޅުންބޮޅުންތަކަށް ވަގުތުން މެޑިކަލް ފަރުވާ ބޭނުންވެއެވެ.** އެއީ ޑެލިރިއަމް ކަމަށް ވެދާނެ. [ވީއޭ ބަޔާންކުރާ ގޮތުގައި](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ޑެލިރިއަމް އަކީ މެޑިކަލް އިމަޖެންސީއެއް ކަމަށާއި، ވަގުތުން އެ މީހާގެ ހެލްތު ކެއާ ޕްރޮވައިޑަރަށް ގުޅާލަން ނުވަތަ 119 އަށް ގުޅާލަން އިރުޝާދު ދެއެވެ. ޢަލާމާތްތަކުގެ ތެރޭގައި މިއެންމެ ހިމެނެއެވެ:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- ސާފުކޮށް ވިސްނުމުގެ ގާބިލިއްޔަތު މައްޗަށާއި ތިރިއަށް ބަދަލުވުން
+- ސަމާލުކަން ދިނުމަށް ދަތިވުން
+- ވިސްނުން ތަރުތީބު ނެތިގެން ދިއުން
+- ޢާންމުކޮށް ދެއްކޭ މިންވަރަށް ވުރެ ނިދިވެރިވުން، ނުވަތަ ޢާންމު މިންވަރަށް ވުރެ ހަލުވިނުލައި ހިނގާލުން
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+މިއީ ކޮންމެ މީހަކަށްވެސް ދިމާވެދާނެ ކަމެއް؛ މިހާތަނަށް ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހުންނަށް ވެސް މިކަން ދިމާވެދާނެ. [NHS](https://www.nhs.uk/symptoms/confusion/) ބުނާ ގޮތުގައި، ޢާންމު ސަބަބުތަކުގެ ތެރޭގައި އިންފެކްޝަން (އުމުރުން ދުވަސްވީ މީހުންނާއި ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހުންނަށް ޔޫރިނަރީ ޓްރެކްޓް އިންފެކްޝަން ޢާންމުކޮށް ދެއްކެއެވެ)، ސްޓްރޯކް، ޑަޔަބިޓިސް ހުރި މީހުންނަށް ލޭގެ ޝަކަރު މަދުވުން، ބޮލުގައި ލައްގާ ޒަހަމް އަދި ބައެއް ބޭސްތައް ހިމެނެއެވެ. ފަރުވާ ލިބެން މަޑުކުރަމުން ދާ އިރު، އެ މީހާގެ އަރިހުގައި ހުންނަވާ، ކުރު ސާދާ ބަސްތަކުން ހިތްހަމަ ދެއްވާ، ގިނަ ސުވާލު ނުކުރައްވާ، އަދި އެ މީހާ ބޭނުންކުރާ ބޭސްތައް ނޯޓުކޮށް ބަހައްޓަވާ.
 
-## How do I prepare for the doctor's appointment?
+## ޑޮކްޓަރު ބައްދަލުވުމަށް ތައްޔާރުވާނީ ކިހިނެއް؟
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+ރަނގަޅު ބައްދަލުވުމެއްގެ ފެށުން އަންނަނީ ރަނގަޅު ނޯޓުތަކުންނެވެ. [އަލްޒައިމާސް އެސޯސިއޭޝަނުން](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) އިރުޝާދު ދެނީ މި ކަންތައް ގެންދިޔުމަށެވެ:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **ހަނދާނާ، މޫޑާއި މިސްރާބުގައި އައި ބަދަލުތަކުގެ ލިސްޓެއް**؛ ތަފްސީލީ މިސާލުތަކާއި އެ ބަދަލުތައް ފެށުނީ ގާތްގަނޑަކަށް ކޮން އިރަކުން ކަމާ އެކު
+2. **ކުރިން ހުރި އަދި މިހާރު ހުރި ޞިއްޙީ މައްސަލަތައް**؛ އާއިލާގެ ތާރީޚުގައި ހަނދާން މައްސަލަ ހުރިނަމަ އެކަން ވެސް ހިމަނައިގެން
+3. **ޑޮކްޓަރު ލިޔުނު ހުރިހާ ބޭހާއި ފަރމަސީން ނެގޭ ބޭސްތައް**
+4. **ބޭނުންކުރާ ހުރިހާ ވިޓަމިން ނުވަތަ ސަޕްލިމެންޓް**
+5. **ތިބާގެ ސުވާލުތައް**؛ މިސާލަކަށް ކޮން ޓެސްޓްތަކެއް ކުރާނެތޯ، އެ ޓެސްޓްތަކަށް ކިތަންމެ ވަގުތު ނަގާނެތޯ، އަދި ނަތީޖާ ލިބޭނީ ކޮން އިރަކުންތޯ
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+އެ މީހާ ރަނގަޅަށް ދަންނަ އާއިލާގެ މެމްބަރަކު ނުވަތަ ރަހުމަތްތެރިއަކު އެކުގައި ގެންދިއުމުން ވެސް ބޮޑަށް އެހީތެރިވެދާނެ. [NIA ބަޔާންކުރާ ގޮތުގައި](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ޑޮކްޓަރުން އެ މީހާގެ ކައިރީގައާއި އާއިލާގެ މެމްބަރެއްގެ ކައިރީގައި ޞިއްޙަތާ، ބޭސްތަކާ، ދުވަހުން ދުވަހަށް ކުރާ ކަންކަމާއި މިސްރާބުގައި އައި ބަދަލުތަކާ ބެހޭ ގޮތުން ސުވާލު ކުރެއްވިދާނެ. ޑޮކްޓަރުން މި ކަންކަމެއް ވެސް ކުރެއްވިދާނެ:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- ހަނދާން، މައްސަލަ ހައްލުކުރުން، ސަމާލުކަން ދިނުން، ގުނުން އަދި ބަސް ބޭނުންކުރުން ބެލުމަށް ޓެސްޓްތައް ކުރެއްވުން
+- އެހެން ސަބަބުތައް ހޯދުމަށް ލޭ، ކުޑަކަމުދާ ތަން އަދި އެހެނިހެން ޓެސްޓްތައް ހަމަޖައްސަވާލުން
+- ޑިޕްރެޝަން ނުވަތަ އެހެން ނަފްސާނީ ޙާލަތެއް ހުރިތޯ ބެއްލެވުން
+- CT ނުވަތަ MRI ފަދަ ބްރެއިން ސްކޭންތައް ހަމަޖައްސަވާލުން
+- ޖެރިއަޓްރިޝަން، ނިއުރޮލޮޖިސްޓް، ޖެރިއަޓްރިކް ސައިކިއަޓްރިސްޓް ނުވަތަ ނިއުރޮސައިކޮލޮޖިސްޓް ފަދަ ތަޚައްޞުޞް ޑޮކްޓަރަކަށް ރެފަރ ކުރެއްވުން
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA ބުނަނީ، ކޮގްނިޓިވް އެސެސްމަންޓަކީ މެޑިކެއާ އެނުއަލް ވެލްނަސް ވިޒިޓުގެ ކޮންމެ ހިނދަކު ހިމެނޭނެ ބައެކެވެ. އެހެންކަމުން، ޝައްކު ހިތަށް އަރާ ކަންކަން ދައްކައިލުމަށް އެއީ ރަނގަޅު ފުރުޞަތެކެވެ. ޑޮކްޓަރުން ބޭނުންކުރާ ކުރު ޓެސްޓްތަކުން ވެސް އެކަނި ޑިމެންޝިއާ ކަނޑައެޅޭނެ ކަމެއް ނެތެވެ. އެއީ ފުރިހަމަ އެސެސްމަންޓަކަށް ދާން ނަގާ ފުރަތަމަ ފިޔަވަޅެކެވެ. ޑައިގްނޯސިސް ކަނޑައެޅުމަށް އެއް ބައްދަލުވުމަށް ވުރެ ގިނަ ވަގުތު ނަގާފާނެ. NIA އިރުޝާދު ދެނީ، ހަނދާން މައްސަލަ ހުރި މީހުން ކޮންމެ 6 އިން 12 މަހަކު ޑޮކްޓަރަށް ދައްކައިލަން ޖެހޭ ކަމަށެވެ.
 
-## Raising the subject kindly
+## އެ ކަމާ ބެހޭ ވާހަކަ އުފުލުމަށް ދައްކާނީ ކިހިނެއް؟
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+ތިބާ އެހެން މީހަކާ ބެހޭ ގޮތުން ޝައްކުކުރާ ނަމަ، ހަމަޖެހިފައިވާ، އަމިއްލަ ވަގުތެއް ހޮވާލައްވާ. ތިބާ ފާހަގަކުރި ކަންކަން ތަފްސީލަކާ އެކު ބުނައްވާ، އެކަން ކުށް ކަމަށް ނުދައްކައި އެ މީހާގެ ޞިއްޙަތާ ބެހޭ ޝައުޤުވެރިކަމެއްގެ ގޮތުގައި ވާހަކަ ދައްކައްވާ. ޢާންމު ހެލްތު ޗެކްއަޕެއް ކުރުމަށް ހުށަހެޅުމުން، އެ ކަމަށް މައްޗަށް ބިރު ނުޖެހިދާނެ. ނިންމުންތަކުގައި އެ މީހާ ހިމަނާ، އަދި އެ މީހަކީ ބޮޑު މީހަކު ކަމުގައި ވާ މިންވަރަށް އިޙްތިރާމާ އެކު ވާހަކަ ދައްކައްވާ. އަޅުގަނޑުމެންގެ [ވާހަކަ ދެއްކުމުގެ ލަފާތައް](/caregiving/communication-tips/) އެހީތެރިވެދާނެ.
 
-## Talk with a doctor
+## ޑޮކްޓަރަކާ ވާހަކަ ދައްކަވާ
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+ހަނދާނާ، ވިސްނުމާ، މޫޑާ ނުވަތަ ދުވަހުން ދުވަހަށް ކުރެވޭ ކަންކަމުގައި އާ ބަދަލުތަކެއް ފެންނަން ފެށި، އެ ބަދަލުތައް ދެމިގެންދާ ނަމަ، ޕްރައިމަރީ ކެއާ ޑޮކްޓަރަކަށް ބައްދަލުވުމެއް ހަމަޖައްސަވާ. އެކަންކަން ވޭން ގެން އަންނަ އޮޅުންބޮޅުން ފެންނަ ނަމަ، ވަގުތުން 119 އަށް ގުޅާލައްވާ ނުވަތަ އެ މީހާގެ ހެލްތު ކެއާ ޕްރޮވައިޑަރަށް ގުޅާލައްވާ. ކުރިން ބަލައިލުމުން، ފަރުވާ ކުރެވޭ ސަބަބުތައް ހޯދައިގަނެވިދާނެ، އަދި އެއީ ޑިމެންޝިއާ ނަމަ ވެސް ކުރިއަށް ހިނގާނެ ގޮތް ހަމަޖެއްސުމަށާއި އެހީތެރިކަން ހޯދުމަށް އިތުރު ވަގުތު ލިބިދާނެ. މި ކަންކަމުގެ ތެރޭގައި ތިބާގެ އަމިއްލަ ޙާލަތަށް ވެސް ސަމާލުކަން ދެއްވާ؛ އަޅުގަނޑުމެންގެ [ބަލަމުންދާ މީހުންގެ އަމިއްލަ ބަލަހައްޓުމާ ބެހޭ ލަފާ](/caregiving/caregiver-self-care/) ބައްލަވާ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+މި ޞަފްޙާއަކީ ޢާންމު މަޢުލޫމާތެއް؛ މެޑިކަލް އިރުޝާދެއް ނޫނެވެ. އަޅުގަނޑުމެންގެ [މެޑިކަލް ޑިސްކްލެއިމަރ](/medical-disclaimer/) ބައްލަވާ.
