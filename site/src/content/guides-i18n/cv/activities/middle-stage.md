@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Вăтам тапхăрти деменци вăхăтĕн ĕҫ-хĕлĕсем"
+seoTitle: "Вăтам тапхăрти деменци: ансат ĕҫ-хĕл сăлтавĕсем"
+description: "Вăтам тапхăрти деменци вăхăтĕнче кирлĕ ĕҫсем, кĕвĕ, сăнÿкерчĕксемпе ансат вăйясем. Хатĕрленÿ тата хăрушлăха ĕҫе куçарас мелĕсем."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Вăтам тапхăрти деменци вăхăтĕнче чи лайăх ĕҫ-хĕлĕсем — кĕскерех, паллă тата
+  пĕр-пĕр ушкăнпа тăвассисем: căмсана çÿреле, нускисене ушкăнла, тавассене
+  çу, юрла, йĕркеленĕ уçăлса çÿрени, сăнÿкерчĕк альбомĕсемпе ансат сăнÿкерчĕк
+  вăййисем. Йĕркелесе хăварăр, пĕрремĕш ушкăна кăтартăр, йывăр пайсене хăвăр
+  тăвăр, ĕҫе тĕллев парăр. Килĕштермесен чарăнăр.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Килти паллă ĕҫсем час-часах чи лайăх ĕçлеççĕ, мĕншĕн тесен вĕсем кирлĕ тата аслă ĕҫ пек туйăнтараççĕ."
+  - "Калаçтарнине мар, кăтартăр; пĕрре пĕр ушкăн парăр тата уçă с ыйтăв вырăнне икĕ ансат суйлав сĕнĕр."
+  - "Чи йывăр пайне хăвăр тăвăр, анчах савăнăçлă пайне çынна хăй тăвас май парăр."
+  - "Хăрушсăр лартăм час-часах çын ĕçлеме тăрăшнине кăтартать. «Ан тăвăр» тенине вырăнне лайăх ĕҫ сĕнĕр."
+  - "Пăхса ларни, сахал пулăшни е ирттерех чарăнни те аван."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Вăтам тапхăрти деменци вăхăтĕнче мĕнле ĕҫ-хĕлсем лайăх?"
+    a: "Кĕскерех, паллă, алăпа тăвас ĕҫсем час-часах лайăх ĕçлеççĕ: ал тутăрĕсене çÿреле, нускисене мăшăрла, тавассене çу, сĕтел хатĕрле, юратнă кĕвĕсене пĕрле юрла, йĕркеленĕ уçăлса çÿре, сăнÿкерчĕк альбомĕсене пăх тата ансат сăнÿкерчĕк вăййисем. Кашнине пĕр-пĕр ушкăнпа пайласа пĕрле тăвăр."
+  - q: "Деменципе пурăнакан çынна ĕҫе пуçарма мĕнле пулăшмалла?"
+    a: "Пурне те хатĕрлесе хунăр, кайран ĕҫе хăвăр пуçласа ăна пулăшма йыхрăвлăр: «Ку ал тутăрĕсемпе пулăшма пултаратăр-и?» Нумай çын хутшăнма кăмăлать, анчах пуçарма йывăр туйăнать. Пĕрремĕш ушкăна кăтартни ăнлантарнинчен лайăхрах ĕçлет."
+  - q: "Вăл çав ĕҫе тепĕр хут туса пынă чухне мĕн тăвăр?"
+    a: "Тепĕр хутланни час-часах хăрушсăр, çын ĕçлесе ларма е çителĕклĕх туйма кăмăлани пулма пултарать. Тÿрлетме тăрăшăннине вырăнне çав хускануна лайăх ĕҫ сĕнĕр: çÿрелме ал тутăр корзинчи е пĕрле юрламалли юрă."
+  - q: "Ĕҫе тĕрĕс мар тăвнă чухне мĕн тăвăр?"
+    a: "Хăрушсăр пулсан, çавăн пекех хăварăр. Ал тутăрĕсем урăхла çÿреленни е кашăксем урăх вырăнта ларни пĕлтерĕшсĕр. Тÿрлетни ятлама пек туйăнма пултарать, анчах унăн йĕркипе тăвасси хăйне пултаруллă тума пулăшать."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Деменцин вăтам тапхăрĕ час-часах чи вăрăм, çав вăхăтра ĕҫ-хĕлĕсем чăнах пулăшăва кирлĕ тăваççĕ. Сăмахсем йывăррах тупăнаççĕ, ушкăнсем пăтранса пыраççĕ, ĕҫе пуçласси те йывăр пулма пултарать. Анчах кирлĕ тата пĕрле ĕçлеме кăмăлани час-часах юлать. Сахал хатĕрленÿпе вăтам тапхăрти деменципе пурăнакан çын нумай ĕçрен килĕшÿ тума пултарать, уйрăмах паллă ĕҫсене, кĕве тата сăнÿкерчĕксене сирĕнпе пĕрле тăвать пулсан.
 
-## What activities work well in middle-stage dementia?
+## Вăтам тапхăрти деменци вăхăтĕнче мĕнле ĕҫ-хĕлсем лайăх ĕçлеççĕ?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Кĕскерех, паллă, алăпа тăвас ĕҫсем, кашнине пĕр-пĕр ушкăнпа пайланă чухне, чи лайăх ĕçлеççĕ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) палăртнă тăрăх, çĕнĕ ĕҫсем шухăшласа кăларма кирлĕ мар: вĕсем кулленхи пурнăç пайĕ пулма пултараççĕ, сăмахран, пĕрле апат хатĕрлени, пахча ĕçĕ, кĕвĕ итлени е уçăлса çÿрени.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) çырнă тăрăх, ку тапхăрра çынсем час-часах хăйсене кирлĕ туйма е ташăш çине пăхма кăмăлаççĕ, çавăнпа ĕҫе пуçарма е малалла тăсма пулăшăва кирлĕ тăваççĕ. Вăтам тапхăр валли сĕннĕ ĕҫсен хушшинче căмсана çÿрелени, тавассене çуни, нускисене ушкăнлани, ансат хускану, паллă кĕвĕсемпе ташă, йĕркеленĕ уçăлса çÿрени, пĕрле юрлани, ансат сăрни тата сăнÿкерчĕк альбомĕсене пăхни пур.
 
-## How do you set up an activity so it works?
+## Ĕҫе лайăх ирттерме мĕнле хатĕрленмелле?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Нумай ĕҫсен йăнăшĕпе ăнăçу хатĕрленÿре. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) тата [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) сĕннĕ çак хăнăхусем чи нумай пулăшаççĕ:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Вырăна уçăмлатăр.** Телевизора сÿнтерĕр, алăка хупăр тата ĕҫ валли кирлĕ япаласене кăна тухăр.
+2. **Ĕҫе хăвăр пуçлăр.** Çÿрелме е пăтăртма пуçлăр та ăна чĕнĕр: «Кунпа пулăшма пултаратăр-и?»
+3. **Кăтартăр, кайран кĕтĕр.** Пĕр ушкăна кăтартăр. Алăпа кăтартма пулать, сăмахран, тăрăлкăна ăçта хума кирлине.
+4. **Пĕрре пĕр ушкăн парăр.** «Çурлама икĕ пайла» — «вĕсене çÿрелесе тĕсĕпе вырнаçтар» тенинчен ансатрах.
+5. **Икĕ суйлав парăр, уçă ыйтăв мар.** «Кăвак ал тутăрĕсем е шуррисем?» — «Мĕн тăвасшăн эсир?» ыйтăвĕнчен хуравлама ансатрах.
+6. **Йывăр пайне хăвăр тăвăр.** Эсир виçетĕр, вăл пăтăртать. Эсир йĕп çитеретĕр, вăл çипе çавăрать.
+7. **Ĕҫе тĕллев парăр.** «Ку салфеткăсем вырсарни апатшăн» тенни ĕҫе чăннипе кирлĕ тума пулăшать.
+8. **Кăмăл пулсан пăхса ларас май парăр.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) палăртнă тăрăх, пăхса ларни те килĕшÿлĕ пулма пултарать.
 
-## Activity ideas for the middle stage
+## Вăтам тапхăр валли ĕҫ-хĕл сăлтавĕсем
 
-### Useful jobs
+### Кирлĕ ĕҫсем
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Ал тутăрĕсене çÿреле.** Пĕчĕк, лаптак япаласем чи ансат. Вăри ал тутăр корзинкине çÿрелме, тÿрлетме тата тепĕр хут çÿрелме пулать.
+- **Нускисене мăшăрла.** Питĕрĕшлĕ икĕ-виçĕ мăшăрпа пуçлăр. Тĕсне кура кăна ушкăнлани те аван.
+- **Вăранман тавассене çу е типĕтле.** Вăри, купăкаллă шыв аллисене хăтлă туйăнтарать. Ларса типĕтлени урасене çăмăлрах.
+- **Сĕтел хатĕрле.** Пĕр хутра пĕр тĕс япала парăр тата пĕр вырăна хăвăр хатĕрлесе кăтартăр.
+- **Апат хатĕрлеме пулăш.** Çĕр улмисене çу, салат çурăсене çĕр, пăтăра çине пăтăрт. Çĕçĕкпе вĕрисене эсир тытăр.
+- **Çÿп, тĕпĕр е шăл.** Сĕтел валли тутăр, ура валли çăмăл çÿпкă.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Ытти сăлтавсене [килти ĕҫсем](/activities/household-tasks/) страницинче тупма пулать.
 
-### Music and movement
+### Кĕвĕпе хускану
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Юратнă кĕвĕсене юрла.** Хăвăр юрлама пуçлăр; нумай çын ун чухнехи пĕлнĕ кĕвĕсене пĕрле юрлать. [Кĕвĕ ĕҫ-хĕлĕсем](/activities/music/) страницине пăхăр.
+- **Ирĕклĕн ташă.** Çавăрăнса, алă çапса е мĕнле килĕшет çавăн пек хусканăр. Ларса та пулать.
+- **Шăркăнчăкпа выля.** Вăл иртсе хусканать, пуканран та тытаççĕ.
+- **Йĕркеленĕ уçăлса çÿрĕ.** Кĕске, паллă çулпа пĕрле çÿрĕр; кирлĕ пулсан, алăран тытса.
 
-### Pictures and stories
+### Сăнÿкерчĕксемпе калавсем
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Сăнÿкерчĕк альбомĕсене пăхăр.** Ыйтăвсем вырăнне курăнни çинчен калаçăр: «Ку машинăна пăхăр-ха. Ун çинчен каласа парăр-и». [Аса илÿ ĕҫ-хĕлĕсем](/activities/reminiscence/) страницине пăхăр.
+- **Калаçу карттисене усă курăр.** [Калаçу карттисем](/games/conversation-cards/) сăнÿкерчĕкпе ыйтусăр, уçă сăмах майлă сĕннине пăраççĕ.
+- **Пĕрле авалхи фильм пăхăр.** Паллă фильм суйлăр, аякрах ларăр тата канма вăхăт парăр.
 
-### Simple, pressure-free games
+### Ансат, пусарусăр вăййисем
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Сăнÿкерчĕксем уçă мăшăрсем.** [Сăнÿкерчĕксем мăшăрĕ](/games/picture-pairs/) сăнÿкерчĕксене курăмалли тăвать, çавна май аса илме мар, асăрхамлама пулать.
+- **Пĕр пеккине туп.** [Пĕр пеккине туп](/games/find-the-same/) пĕр сăнÿкерчĕк кăтартать тата икĕрен тăваттăн суйлав парать.
+- **Пĕрле ушкăнла.** [Пĕрле ушкăнла](/games/sort-together/) экран çинче căмсана ушкăнланă пек: сăнÿкерчĕке пусăр, кайран унăн корзинне.
+- **Сăнÿкерчĕк бинго.** [Сăнÿкерчĕк бинго](/games/picture-bingo/) çемье тата ушкăн валли лайăх.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Вăйă çынна йăлăхтарма пуçласан, чарăнăр та урăх ĕҫ тăвăр. [Пĕрле мĕнле вылямалли](/caregiving/how-to-play-together/) страницине пăхăр.
 
-## Turning restlessness into an activity
+## Хăрушлăха ĕҫе куçарасси
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Хăрушсăр лартăм е тепĕр хутланакан хусканусен сăлтавĕ пулма пултарать. Family Caregiver Alliance палăртнă тăрăх, шкапа тап-таша пуçтаракан çын хăйне ĕçлесе тата кирлĕ тума кăмăлнине пурнăçлама тăрăшма пултарать. Alzheimer's Association çав вăйне чарса лартнине вырăнне ăна лайăх ĕҫе куçарма сĕнет.
 
-| What you see | Something to offer |
+| Эсир мĕн куратăр | Мĕн сĕнме пулать |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Сĕтел çине ыталаса е чĕпĕлтесе ларни | Нÿрĕк тутăр тата сĕтеле шăлма ыйтни |
+| Хăрушсăр ура е çапни | Уçăм тактлă кĕвĕ, унпа пĕрле çапма е алă çапма |
+| Ещĕксене е шкапсене пуçтарни | Çÿрелме тата ушкăнлама căмсана е ал тутăр корзинчи |
+| Çав ыйтăва тепĕр хут ыйтни | Çитетлĕх парăр, кайран пĕрле юрă е ĕҫ сĕнĕр |
+| Ҫаврăнса çÿрени | Пĕрле уçăлса çÿрени е япаласене çÿремелли ĕҫ |
+| Каçхи хăрушлăх | Çутă вырăнта лăпкă, паллă ĕҫ; [каçхи хăрушлăх](/caregiving/late-day-restlessness/) страницине пăхăр |
 
-## When to stop or change course
+## Хăçан чарăнмалла е ĕҫе улăштармалла
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Ывăнни, йăлăхтарни, намăсланни е кăмăлсăрланни паллисене курсан чарăнăр: хăрушсăр лартăм, çÿне çĕрни, япаласене çĕне каяни е «Эпĕ пултараймастăп» тенни. Alzheimer's Association урăх вăхăтра тепĕр хут туса пăхма е ĕҫе ансатрах тума сĕнет. Вăй кĕртмен. Йышăнни хăраса е ĕҫ ытла йывăр пулнăран килме пултарать; [хăçан вăл «çук» тет](/caregiving/when-they-say-no/) страницине пăхăр.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Ирттерех чарăнни те аван. Пĕрле ларса чей ĕçни те аван. Пултарулăхсем улшăннă май [юлашки тапхăр ĕҫ-хĕлĕсем](/activities/late-stage/) лайăхрах килĕшме пултараççĕ, [101 ĕҫ-хĕл](/activities/ideas/) страницинче те нумай сăлтав пур.

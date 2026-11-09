@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Деменциллĕ çынпа телефонпа видео шăнкăрав ĕçĕсем"
+seoTitle: "Деменциллĕ çынпа видео шăнкăрав ĕçĕсем"
+description: "Инçе пурăнакан çемьесем валли: видео тата телефон шăнкăравĕсенче пĕрле ĕçлемелли предложенисем, пулăшакан çын валли сăмахсем."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Деменциллĕ çынпа шăнкăравсем кĕскерех, йĕркеллĕ тата пĕр-пĕрне пĕрле ĕçлеме
+  май паракан чухне лайăхрах иртеççĕ. Сăмахран, чĕр-чун е сад-уя кăтартма,
+  сăнÿкерсемпе пăхма, сассипе вулама, юратнă юрра юрлама е пĕрле экран
+  урлă вăйă выляма пулать. Май килсен, кашни кун пĕр вăхăтра шăнкăрăр, пĕр
+  вăхăтра пĕр çын кăна калаçмалла, ун патĕнче пурăнакан çынран пулăшма ыйтăр.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Пĕр ĕç шăнкăрава йĕрке кĕртет тата калаçу йывăрлăхне чакарса лартать. Пĕрле тума ансат ĕçе шухăшласа хурăр."
+  - "Кашни кун пĕр вăхăтра кĕскерех, йĕркеллĕ шăнкăравсем хăш чухне вăрăм, тĕлĕнмелле шăнкăравсенчен лайăхрах пулма пултараççĕ."
+  - "Пĕр вăхăтра пĕр çын кăна калаçмалла. Нумай çын пĕрле калаçнă чухне, илтме те йывăр пулма пултарать."
+  - "Ун патĕнче пурăнакан пулăшакан çын хатĕре хатĕрлеме, çын патĕнче ларма тата вăйă е сăнÿкер валли «алăсене» пулма пултарать."
+  - "Паян шăнкăрав килĕшмерĕ пулсан, ăна ырă кăмăлпа вĕçлĕр. Ыран тепре шăнкăрма юрать."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Деменциллĕ çынпа видео шăнкăравра мĕн тума пулать?"
+    a: "Пĕр ансат ĕç шухăшласа хурăр: садне, чĕр-чунне е кухнăна кăтартăр; авалхи сăнÿкерсемпе пĕрле пăхăр; кĕске сăвă е çыру вуласа парăр; вăл юратнă юрра юрлăр; пĕрле вăхăтра пĕр апат хатĕрлĕр; е пĕрле экран урлă кăмăлла сăнÿкер вăййине вылăр. Ĕçсем шăнкăрава тĕллев параççĕ, çапла çын калаçăва хăй çине йышăнмалла мар."
+  - q: "Видео шăнкăрав мĕн чухлĕ вăрăм пулмалла?"
+    a: "Чылай чухне эсир шутланинчен кĕскерех. Çын хăвăрт ывăннă чухне пиллĕк ырă самант та çителĕклĕ пулма пултарать. Кашни кун пĕр вăхăтра йĕркеллĕ шăнкăрасси хăш чухне кашни шăнкăравăн вăрăмлăхĕнчен пĕлтерĕшлĕрех пулма пултарать."
+  - q: "Видео шăнкăрав вăл валли йывăр е канăçсăрлантарса ятарĕ пулсан мĕн тăвас?"
+    a: "Хăш-пĕр çынсем экран çинчи сăнÿкере йывăр туса илме пултараççĕ. Ахаль телефон шăнкăравне, пулăшакан çын лăпкă вăхăтра кăтартма пултаракан видео çырса илнине е почтăпа çыру, сăнÿкер яма тăрăшăр. Шăнкăрав лайăх иртмерĕ пулсан, ăна ырă кăмăлпа вĕçлĕр те урăх кун е урăх вăхăтра тепре тăрăшăр."
+  - q: "Аннем телефонпа усă курма пĕлмест пулсан, видео шăнкăрава мĕнле пулăшмалла?"
+    a: "Çемье йышĕнчен пĕр çынран, килти пулăшу çынĕнчен е пăхса тăракан вырăнти ĕçченĕнчен шăнкăрава пуçарма тата хатĕре тытса тăма е лартса хурма ыйтăр. Пăхса тăракан вырăнсенче чылай чухне çемьесене видео шăнкăравпа пулăшаççĕ, çавна май мĕн предложенисем пуррине ыйтăр. Пысăк экранлă, сассине илтĕрех тума пултаракан тата хăма тăракан планшет пурри пурне те çăмăлрах тăвать."
+  - q: "Видео шăнкăрав урлă пĕрле выляма пулать-и?"
+    a: "Пулать. Самай ансат мел: пĕр çын видео приложенипе хăйĕн экране пайлашать, тепĕр çын мĕнле сăнÿкере пусмаллине калать. Е ун патĕнче пулăшакан çын планшетра çав вăйăна уçса эсир калаçнă тăрăх пусать. Вăхăт чикки те, очкопа шутлавĕ те çук вăйăсене суйлăр."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Деменциллĕ çынран инçе пурăнни пулăшайман туйăм килтерме пултарать. Телефонпа видео шăнкăравсем çумне çывăхасси пек мар, анчах та лайăх хатĕрленсен, чăн çыхăну саманчĕсем парма пултараççĕ. Ахаль калаçу вырăнне пĕрле тума ансат ĕç шухăшласси нумай чухне лайăхрах. Ку страницăра видео тата телефон урлă ĕçлеме май паракан ĕçсем, шăнкăрава мĕнле йĕркелемелли тата ун патĕнче пурăнакан çын мĕнле пулăшма пултарни çинчен каланă.
 
-## Why plan an activity for a call?
+## Мĕншĕн шăнкăрав валли ĕç шухăшламалла?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Ĕç шăнкăрава йĕрке кĕртет. «Мĕнле пурăнатăр? Паян мĕн тăрăр?» ыйтăвĕсем çынран аса илме тата каласа парма ыйтаççĕ, ку вара йывăр та йывăрлăх кÿтерекен те пулма пултарать. «Пăхăр, помидорсем пиçнĕ» ыйтăвĕ çынран ним те ыймасть.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association уçса кăтартнă тăрăх, нумай çынпа пĕрле видео калаçу йывăр пулма пултарать, çавăнпа та [шăнкăрава йĕрке кĕртме](https://www.alz.org/help-support/caregiving/holidays) юрра юрлама е сăнÿкерсемпе пайлашма сĕнет.
 
-## What activities work on a video call?
+## Видео шăнкăравра мĕнле ĕçсем ирттерме пулать?
 
-### Show and tell
+### Кăтартса калани
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Хăвăрăн тĕнчене ун патне илсе килĕр. Камерана сад урлă айĕннĕн куçарăр, йыттине кăтартăр, мĕн пиçернине кăтартăр, ача ÿкерчĕкне кÿрсе ярăр е телефонпа чÿречерен юр кăтартăр. Куратăр çине ансат сăмахсемпе калаçăр тата хуравлама май парса кĕтсе тăрăр. Ыйтусем кирлĕ мар.
 
-### Look at photos together
+### Сăнÿкерсемпе пĕрле пăхни
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Авалхи сăнÿкере камера умне тытăр е экрана пайласа пĕрре кăна пысăк сăнÿкерсем кăтартăр. Куракан çинчен калаçăр: «Асаттен картузне пăхăр-ха». «Ку кам?» е «Аса илес-и?» темелли ыйтусем ан парăр. Çын кама тĕрĕс мар каланĕ пулсан та, ăна йывăрлатма ан тăрăшăр. Кăмăлла сăмахсем валли пирĕн [аса илÿ кĕнекине](/activities/reminiscence/) пăхăр.
 
-### Read aloud
+### Сассипе вуласси
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Кĕске сăвă, псалом, шăнкăравра ача патĕнче пурăнакан ача кĕнеки, тăванран çыру е вăл юратнă кĕнекен пайне вуласа парăр. Сассипе вулани çынна хуравлама кирлĕ мар лăпкă илтме май парать.
 
-### Sing or listen to music together
+### Пĕрле юрласси е кĕвĕ итлесси
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Вăл лайăх пĕлекен юрра юрлăр е хăвăрăн енчен юратнă кĕвве ярса илттерĕр. Нумай çынсем валли юрлаççĕ те, калаçассинчен ансатрах пулма пултарать. Пирĕн [кĕвĕ ĕçĕсем кĕнекине](/activities/music/) пăхăр.
 
-### Cook or bake at the same time
+### Пĕр вăхăтра апат хатĕрлесси е çĕклеме пĕçересси
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association пĕрле апат хатĕрлеме видео шăнкăрав йĕркелеме сĕнет. Икĕ кухнăра та шăнкăрава хатĕрлĕр. Ун патĕнче пурăнакан çын пĕр-пĕр япалана пăтратма е тăхтанса пăхма пултарать, эсир вăл юратнă рецепта пăхса ĕçлеме пултаратăр.
 
-### Watch something together
+### Пĕрле ниме пăхни
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Alzheimer's Association урăх килсенчен пĕр вăхăтра юратнă фильм пăхма тата телефон е видео урлă калаçма та сĕнет. Деменциллĕ çын валли тулли фильм вырăнне кĕске сыпăк, авалхи телепередача е уçăлса пăхасси лайăхрах пулма пултарать.
 
-### Play a gentle game on a shared screen
+### Пĕрле экран урлă кăмăлла вăйă вылясси
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Нумай видео шăнкăрав приложенийĕсем экрана пайлашма май параççĕ. Эсир вăйăна уçатăр тата пусатăр; çын мĕнле сăнÿкере суйламаллине калать е кăтартать. Е ун патĕнче пулăшакан çын планшетра çав вăйăна уçса, эсир калаçнă тăрăх вăл валли пусать.
 
-Games that work well this way:
+Кун пек выляма лайăх килĕшекен вăйăсем:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Сăмах вĕçне туп](/games/finish-the-saying/):** эсир паллă сăмаха вулатăр, вăл вĕçне калать, кайран чĕнни илтĕнет.
+- **[Сăнÿкер пĕрлешĕвĕ](/games/picture-pairs/):** пысăк сăнÿкерлă кăмăлла тупсăм вăййи; сăнÿкерсем уçă тăма пултараççĕ, вăхăт чикки те, очко та çук.
+- **[Калаçу карточкисем](/games/conversation-cards/):** пĕрле калаçма сăнÿкер тата уçă ыйту.
+- **[Сăнÿкер парĕсем](/games/photo-pairs/):** хăвăр хатĕрĕнче суйланă сăнÿкерсенчен тунă тупсăм вăййи. Сăнÿкерсем сирĕн браузерта пурăнаççĕ, çын вĕсене сирĕн пайланă экран урлă курать.
 
-### Recorded messages
+### Çырса хунă калаçусем
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Тĕрĕс вăхăтри шăнкăравсем йывăр пулнă чухне, кĕске видео çырса ярăр: салам, юрра е сада çÿрев. Пулăшакан çын ăна лăпкă вăхăтра çын киленнĕ чухлĕ кăтартма пултарать. Alzheimer's Association ачасем парнепе уçни пек самантсене çырса яма калать.
 
-## What about plain phone calls?
+## Ахаль телефон шăнкăравĕсем мĕнле?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Телефон шăнкăравĕсем халĕ те пĕлтерĕшлĕ. Dementia Australia [кашни кун пĕр вăхăтра шăнкăрма](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) тата вашкăмар, мăшăр хăвармар сĕнет, мĕншĕн тесен деменциллĕ çынсем валли калаçăва кĕме вăхăт кирлĕ пулма пултарать. Телефонпа:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Хăвăра тата çынпа çыхăннине тĕррĕн калăр: «Салам, Атте, ку эпĕ, хĕрÿ Энни».
+- Айĕннĕн, кĕске предложенисемпе, пĕр самантра пĕр шухăш кăна калаçăр.
+- Çынран ыйтмалла мар, хыпар парăр: «Каялла санăн аш-какай рецепчĕпе апат хатĕрлерĕм».
+- Кĕске сăвă вуласа парăр е юратнă юррин куплетне юрлăр.
+- Кĕскерех тытăр тата ырă сăмахпа вĕçлĕр.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia калаçу йывăрланнă чухне видео шăнкăрав пулăшма пултарнине асăнать, мĕншĕн тесен çын сирĕн питне курать. Телефон шăнкăравĕсем йывăрланнине туйăр пулсан, видеона тăрăшăр е хирĕçлех.
 
-## How do I set up a video call that works?
+## Видео шăнкăрава мĕнле лайăх йĕркелемелле?
 
-**Before the call:**
+**Шăнкăрав умĕн:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Йĕркеллĕ вăхăт суйлăр**: çын чылай чухне çывăхнă пулнă вăхăта суйлăр та унпа усă курăр. Йĕрке пулăшать.
+2. **Ун патĕнче пулăшакан çынпа калаçăр.** Кун умĕн çырса хăварни йĕркелеме пулăшать.
+3. **Хатĕре тĕрĕслĕр.** Хăма тăракан планшет телефонран ансатрах. Унăн зарядки пуррине, экран çутă тата сасси илтĕрех пулнине тĕрĕслĕр. Приложени çырса пани пур пулсан тата çын вулама юратнă пулсан, ăна ĕçлеттерĕр.
+4. **Пĕр ĕç шухăшласа хурăр** тата кирлĕ япала хатĕрлĕр.
 
-**During the call:**
+**Шăнкăрав вăхăтĕнче:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Камера патĕнче ларăр**, çутă вырăнта, чÿрече хыçне мар, ун енне.
+- **Кашни хут хăвăра палăртăр**: ята тата çынпа çыхăннине калăр.
+- **Пĕр вăхăтра пĕр çын кăна калаçмалла.** Alzheimer's Association пĕрле калаçни деменциллĕ çынсем валли те, илтесси йывăр çынсем валли те йывăр пулнине палăртать. Нумай тăван пĕрле кĕрсен, йĕркепе калаçăр е иккĕ-виççĕ çын кăна пултăр.
+- **Пĕр вăхăтра пĕр ыйту кăна ыйтăр.** Family Caregiver Alliance [«çапла/çук» хуравлă ансат ыйтусем](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) ыйтма тата май килсен вариантсем кăтартма сĕнет.
+- **Вăрăм шăплăхсене кĕтĕр.** Хуравне кĕтсе тăрăр. Çын сăмах шыракан пек пулсан, сăмах сĕнме юрать.
+- **Питпе тата сасăпа калаçăр.** Йăл кулăр, çăлкуçне ĕçлеттерĕр тата ырă кăмăлпа калаçăр. Нумай чухне ăслăлăх сăмахран ытларах калать.
+- **Тÿрлетме ан тăрăшăр.** Çын тĕрĕс мар каланĕ пулсан та, ăна çавăн пекех хăварăр.
 
-**Ending the call:**
+**Шăнкăрава вĕçлени:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Çын ывăнмаларан малтан, лайăх самантра вĕçлĕр.
+- Кашни хут пĕр евĕрлĕ çухалăр: «Ыран каçхи апат вăхăтĕнче тепре шăнкăратăп. Санпа юрататăп».
+- Шăнкăрава ан вăрăмлатăр.
 
-## Tips for the helper on site
+## Ун патĕнче пулăшакан çын валли сăмахсем
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Шăнкăрава йĕркелекен упăшкана, килти пулăшу çынĕ, пичче/аппа е ĕçчен пулсан, эсир ку тĕлĕнÿ ирттерме майпаратăр.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Лăпкă вырăн хатĕрлĕр.** Телевизора сÿнтерĕр тата алăка хупăр.
+- **Шăнкăрава хăвăр пуçарăр,** кайран планшета тăракан вырăнĕнче парăр е куç çийĕнче тытса тăрăр.
+- **Ун умĕнче мар, айккинче ларăр.** Сирĕн пурри çынна шантарать. Кирлĕ пулсан, кăмăлла сĕнĕр: «Пăх-ха, ку Энни».
+- **Алăсемпе пулăшăр.** Сăнÿкерсене кÿрсе ярăр, вăйăра пусăр, пÿлĕме кăтартма планшета çавăрăр.
+- **Ывăннине е канăçсăрланнине асăрхăр** тата шăнкăрава вĕçлемелли вăхăта çыхăннă çынна пĕлтерĕр.
+- **Шăнкăракан çынна мĕн лайăх килнине калăр.** «Унăн йытти питĕ лайăх килчĕ» тесе калани тепĕр шăнкăрава йĕркелеме пулăшать.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA инçе пурăнакан тăвансене ват çынна [телефонăн майĕсене вĕренме](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) пулăшма сĕнет, видео шăнкăравсем те пур. Каялла этапсенче чылай чухне хатĕрпе пулăшакан çын пĕтĕмпех ĕçлеме тивĕ. Ку та юрать.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Çын пăхса тăракан вырăнта пурăннă чухне, Alzheimer's Foundation of America учреждени çемьене видео шăнкăравпа пулăшать-и тесе ыйтма сĕнет. AFA çемьесем ĕçченсем урлă сăнÿкерсемпе пайлашма тата юратнă çĕклек е кĕске хăтлăху япалисем яма пултарнине калать, анчах учреждени мĕн кирлĕ тесе палăртнине малтан ыйтмалла.
 
-## What if the call doesn't go well?
+## Шăнкăрав лайăх иртмерĕ пулсан мĕн тумалла?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Хăш-пĕр шăнкăравсем йывăр, вял е канăçсăрлантарса яракан пулма пултараççĕ. Ку сирĕн айăп мар, тата шăнкăравсем кирлĕ мар тени те мар.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Çын экрана йывăр туса илнине туйăр пулсан, телефон шăнкăравне е çырса хунă калаçăва куçăрăр.
+- Вăл канăçсăрланнă пулсан, туйăмне илтĕрех хуравлăр, шантару сăмахĕсем калăр тата ырă кăмăлпа вĕçлĕр.
+- Пĕр вăхăтра шăнкăравсем час-часах йывăрланса пынă пулсан, урăх вăхăта тăрăшăр.
+- Вăл сире урăх çын шутланĕ пулсан та, ырă кăмăлпа ĕçлĕр.
 
-It is fine to end early. A short, warm call is a good outcome.
+Шăнкăрава иртех вĕçлеме юрать. Кĕске, ырă шăнкăрав та лайăх результат.
 
-## Between calls
+## Шăнкăравсем хушшинче
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Урăх мелсемпе те çыхăнуллă пулăр. Dementia Australia открытка, электронлă çыру, сăнÿкер е пĕчĕк парне яма сĕнет. Эрнере пĕр хут пысăк сăнÿкерлă тата кĕске çырăва кăтартакан открытка тепĕр хут та тепĕр хут та вулама пулма пултарать. Пулăшакан çын патне яма пултаракан печатласа илни [калаçу карточкисем](/games/conversation-cards/) тепĕр шăнкăрав валли хатĕр тема параççĕ.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Планшет суйлама тата йĕркелеме пирĕн [планшетсемпе экрансем](/caregiving/tablets-and-screens/) страницине пăхăр. Тĕррĕн тĕл пулни çинчен [пулăшу çине çÿресси](/activities/visiting/) страницинче вularăр.

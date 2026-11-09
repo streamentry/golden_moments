@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Деменципе пурăнакан çын валли кунти йĕрке"
+seoTitle: "Деменци тата кунти йĕрке: çутă кун примерĕ"
+description: "Деменципе пурăнакан çын валли çутă кун примерĕ: апатлану, ĕç тата кану вăхăчĕсем. Хăвăр йĕрке туса хăма та йывăр кунсенче улăштарма та пулать."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Çутă кунти йĕрке тăраннине, апатланнине, хăйне тивĕçтернине тата çывăрма
+  выртнине пĕр вăхăтра тытса тăрать, чи пысăк ĕçе çын чи лайăх хăйсене
+  туйнă вăхăта лартать, ĕçпе кана та танлаштарать. Йĕркене çын пурнăçĕпе
+  килĕштерĕр, тулли кунне ĕçпе тултармăр, кашни кун çутă та хускану та
+  пултăр, йывăр кунсенче йĕркене кирлĕ пек улăштарăр.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Тăранни, апатланни, хăйне тивĕçтерни тата çывăрни пĕр вăхăтра пулсан, кунне паллахлă тума пулăшать."
+  - "Чи пысăк ĕçе çын хăйне чи лайăх туйнă вăхăта лартăр, чылай чухне ирхине."
+  - "Кашни самантне ĕçпе тултармăр. Кану та лăпкă вăхăт та йĕркене пырса кĕреççĕ."
+  - "Кунти çутă, кашни кун хускану, каç кăштах çывăрма ан выртăр тата каç кава ларас ĕçме ан йăрăр: ку каçхине йĕркелĕхсĕрлĕхсĕрех пулма пулăшма пултарать."
+  - "Йĕрке — ертÿ, йĕрке мар. Йывăр кунсенче мĕнпурне улăштарма, кĕскетме е хăварма пулать."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Мĕншĕн деменципе пурăнакан çын валли кунти йĕрке кирлĕ?"
+    a: "Малтанах паллă кунта çĕнĕ йышăнусемпе шухăш çинчен йывăрлăхсене чакармасть, ку нумай деменципе пурăнакан çыншăн лăпкăлăха паратать. Alzheimer's Association палăртнă тăрăх, йĕркеленĕ кун мĕн тумаллине шухăшласа ларма сахал вăхăт ыйтать тата иккĕн те килĕшÿллĕ ĕçсемпе усă курма ытларах вăхăт парать. Çавăн пекех вăл эсир хăвăр кунне те йĕркелеме пулăшать."
+  - q: "Деменципе пурăнакан çын валли лайăх кунти график мĕнле?"
+    a: "Пĕртен-пĕр тĕрĕс график çук. Лайăх график тăраннине, апатланнине тата çывăрнине пĕр вăхăтра тытса тăрать, хăйне тивĕçтернине тата чи пысăк ĕçе çын хăйне чи лайăх туйнă вăхăта лартать, урамра е чÿрече патĕнче вăхăт хурать тата кана вăхăт парать. Ăна çын мĕнле пурăннă-ши, çавна тăрса йĕркелĕр."
+  - q: "Деменципе пурăнакан çын кунти çывăрмалла-и?"
+    a: "Кĕске кану, чылай чухне апатланнă хыççăн, усăллă пулма пултарать. National Institute on Aging каçхине вăрăм çывăрăвран та кун каçĕнче çывăрса ларасран та чарса тăма сĕнет, мĕншĕн тесен лайăх çывăрманни каçхине йĕркелĕхсĕрлĕхсĕрех тума пултарать. Çывăрасси чăн-чăн йывăрлăх пулсан, врачпа калаçăр."
+  - q: "Вăл йĕрке хыççăн пымасан мĕн тумалла?"
+    a: "Хальхи вăхăтра хăварăр та каярах тепĕр майпа тăрăшса пăхăр. Ан килĕшни çын ывăннă, чирлĕ, ыратнă е хальлĕхе хатĕр мар пулнине кăтартма пултарать. Йĕрке кунне çăмăлрах тума пулăшас тесе пур, çавна май вăлăмран çын вǎй тумăр."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Çутă йĕрке кун валли паллă йĕрке парать: тăранни, апатланни, пĕчĕк ĕç, кану тата çывăрни пĕр-пĕрне çывăх вăхăтра. Вăл йышăнусене тата кĕтменлĕхсене чакарма пулăшать, тата эсир мĕн тумаллине пĕлмен чухне те план парать. Аяларахри йĕрке — сăн мар, пример кăна. Ăна пуçламăш пек илĕр те эсир пăхса тăракан çын патне мая килтерĕр.
 
-## Why does a daily routine help?
+## Кунти йĕрке мĕншĕн пулăшать?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Тĕрĕс йĕрке пулăшать, мĕншĕн тесен паллă ĕçсем çĕннисенчен ансатрах килеççĕ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) каланă тăрăх, йĕркеленĕ кун мĕн тумаллине шухăшласа ларма сахал вăхăт ыйтать тата кăмăлла ĕçсемпе усă курма ытларах вăхăт парать. Çавăн пекех вăл тăрану тата çывăрма выртну вăхăчĕсем пĕр пек пулни çывăрас йывăрлăхсене тата каçхине йĕркелĕхсĕрлĕхсĕрех пулнине чакарма пулăшма пултарнине палăртать. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) лăпкă кил-çуртшăн кĕпе шывăна кĕнине, тумланнине тата апатланнине кашни кун пĕр вăхăтра тăвас тесе сĕнет, [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) те пĕр евĕрлĕ йĕркене сыхласа хăма сĕнет.
 
-## A sample gentle day
+## Çутă кун примерĕ
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Вăхăтсем — пример кăна. Пĕтĕм кунне çын хăйĕн ритмĕпе килĕштерсе маларах е каярах куçарăр.
 
-| Time | What happens | Ideas | On a harder day |
+| Вăхăт | Мĕн пулать | Сăнсем | Йывăр кунпа |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 ирхине | Тăранни, çăвăнни, тумланни | Кашни кун пĕр йĕркепе; тумсене тăхăнмалли йĕркепе хатĕрлĕр | Пĕчĕк ĕçсем кăна тăвăр; çĕнĕ кĕпе те çителĕклĕ |
+| 8:45 ирхине | Ирхи апат | Кава тата саспа вулакан хаçат е радио | Пĕрле лăпкăх апатланăр, калаçма ан васкăр |
+| 9:30 ирхине | Чи пысăк ĕç | Тум тирпей лартни, апат пĕçерни, пахча ĕçĕ, кĕске çÿре тухни е уçни | Кĕскерех вариант е эсир ĕçлетĕр, вăл сăнать |
+| 10:30 ирхине | Лăпкă вăхăт | Кĕвĕ, сăнÿкерчĕксемпе альбом е чÿрече патĕнче ларни | Юратнă креслара канни |
+| 11:00 ирхине | Каçхи апата хатĕрлеме пулăшни | Пахча çимĕçне çăвăнни, сĕтел хатĕрлени | Эсир пĕçеретĕр, вăл юнашар пулать |
+| 12:00 каçхи | Каçхи апат тата тирпейлени | Сĕтеле шăлни, темĕшĕн таса типĕтлени | Килти ĕçсене хăварăр |
+| 1:00 каçхине | Кĕске кану | Урасене çĕклесе, çемĕ кĕвĕ | Çавăн пекех |
+| 2:00 каçхине | Урамра е хускану | Уçни, подъезд умĕнче ларни, ÿсентăрансене шывлани, шарпа ырлаçтарни | Хĕвел çутăллă чÿрече патĕнче ларни |
+| 3:00 каçхине | Пĕрле е творчествăллă ĕç | Çыравçă кĕни, шăнкăрав, [сăнÿкерчĕксене пĕр-пĕринпе йĕркелени](/games/picture-pairs/), сăн ÿкерни, карта | Пĕрле ĕçмелли е çимелли |
+| 4:30 каçхине | Лăплану вăхăчĕ | Каррисене хупни, çутă çунтарни, тум тирпейлени пек лăпкă ĕç | Паллă кĕвĕ, сахал сасă |
+| 5:30 каçхине | Каçхи апат | Пăтăртма е сĕтел лартма пулăшни | Ансат, паллă апат |
+| 6:30 каçхине | Каç пĕрле | Пылак хыççăн аса илни, карта, юратнă передачă, алă массажĕ | Лăпкă пĕрлĕх |
+| 8:00 каçхине | Çывăрма хатĕрленни | Кĕпе шывăна кĕни е çăвăнни, çывăрмалли тум, çемĕ кĕвĕ, сахал çутă | Пурне те кĕскетерĕр; хăтлăлăх малтан |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ку пример Alzheimer's Association хăйĕн малтанхи тата вăтамранхи этапсем валли панă пример графикне йăлăнать: хăйне тивĕçтернинчен тата ирхи апатран пуçласа, килти ĕçсем, уçни, кĕвĕ, кану тата çыравçăсем урлă каçхи апата, аса илнине тата çывăрма хатĕрленнине çитни.
 
-## How do you build your own routine?
+## Хăвăр йĕрке мĕнле тумалла?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Схемăран мар, çын пурăннă майран пуçлăр. Alzheimer's Association йĕрке тума пуçлаиччен çак йышăнусене шухăшлама сĕнет:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Çын мĕн юратнине, мĕн юратманнине, мĕн пултарнине тата мĕнпе кăсăкланнине.**
+- **Вăл авал кунне мĕнле ирттернĕ.** Ирхине иртех тăракан тата йытăпа уçма тухакан çын халь те ирхине уçма тухма пултарать. Каçăн çÿреме юратакан çын 8:00 ирхине пуçланнине пăхмасть пулма пултарать.
+- **Кунти чи лайăх вăхăчĕ.** Кĕпе шывăна кĕнине, çÿре тухнине тата чи пысăк ĕçе унта лартăр.
+- **Апатлану, çăвăнни тата тумланни валли çителĕклĕ вăхăт**, вăскассăр пулмаллине шухăшласа.
+- **Тăрану тата çывăрма выртну вăхăчĕсем пĕр пек пулмалла.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Çав çăлкуçра килти ĕçсем, апатлану, хăйне тивĕçтерни, творчествăллă ĕçсем, хускану, пĕр-пĕринпе пĕрле вăхăт ирттерни, тĕнпе ĕçсем тата, сăмахран, тус килсе кĕни пек йĕркесĕр лăпкă самантсем те пулмаллине палăртнă.
 
-### Try it for a week, then adjust
+### Пĕр эрне тăрăшса пăхăр та улăштарăр
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Кашни кун пĕчĕк çырса хăварăр. Alzheimer's Association мĕнле ĕçсем чи лайăх пынă, мĕншĕн, хăш вăхăтра ытла нумай ĕç пулнă е вара ытла сахал пулнă, йĕркесĕр плансем килĕшÿллĕ пулнă-и е шухăш çитернĕ-и тесе ыйтма сĕнет. Кирлĕ ĕçсене упрарăр, усăсăррисене улăштарăр.
 
-### Make it visible
+### Ăна курăнать тăвăр
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Енчен те çын вулама пултарать пулсан, кунти планне доска çинче е пысăк саспалли карточкăра çырса хума лăпкăлăх парма пултарать. Кĕскерех тăвăр: «Ирхи апат. Сарăпа уçни. Каçхи апат. Кану.» Хăш-пĕр çын малтанах пĕлме юратмасть; Family Caregiver Alliance, енчен те ку шухăш çитерет пулсан, плансем çинчен вĕсем пулас умĕн кăна калаçма сĕнет.
 
-## How to adapt the routine
+## Йĕркене мĕнле улăштармалла
 
-### Leave room to breathe
+### Сывлăх вăхăт хăварăр
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Кашни самантне ĕçпе тултармăр. Alzheimer's Association палăртнă тăрăх, çын валли ĕçпе кану танлашăвĕ кирлĕ тата вăлăм час-часах ытларах кана вăхăт кирлĕ пулма пултарать. Енчен те вăл йăлăхтарса, тимлĕсĕр е йĕркелĕхсĕрех пулса кайсан, ĕçе улăштарăр е кану вăхăтĕ тăвăр.
 
-### Protect the late afternoon
+### Каçхине çыхлăр
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Нумай çыншăн хĕвел анса кайнă май йĕркелĕхсĕрлĕх ÿсет. NIA кашни кун урамра е чÿрече патĕнче çутăра пулма, ытла нумай ĕç планламасăр хускăнакан пулма, каç кава тата эрех ларас ĕçмĕçсене чарма, каç вăрăм çывăрăвсене те чакарма сĕнет. Хăш-пĕр çемье хĕвел анма çитетиччен каррисене хупса çутă çунтарнине те лайăх тесе шутлать. [Каçхине йĕркелĕхсĕрлĕхсĕрех пулни](/caregiving/late-day-restlessness/) тата [çывăрасси](/brain-health/sleep/) çинчен ытларах пĕлме пулать.
 
-### Change it as needs change
+### Ыйтăвсем улшăннă май йĕркене те улăштарăр
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Малтанхи этап:** йĕркене пĕрле планлăр. Çын хăй графикне тытса пынăна юратма пултарать.
+- **Вăтамранхи этап:** эсир ытларах ертсе пыратăр. Ĕçсене кĕскетерĕр, кана вăхăта ытларах тăвăр, паллă ĕçсене тытса тăрăр; [вăтамранхи этапра ĕçсем](/activities/middle-stage/) пăхăр.
+- **Юлашки этап:** йĕрке хăтлăлăх, апатлану тата пăхни çине ларса тăрать, хушшинче кĕвĕ е алă массажĕ пек кĕске вăхăтсем пулма пултараççĕ; [юлашки этапра ĕçсем](/activities/late-stage/) пăхăр.
 
-### Vary the activities, not the frame
+### Йĕркене мар, ĕçсене улăштарăр
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Апатланăвă, канăвă тата çывăрăвă тĕрĕсрех тăрăр, вĕсем хушшинчи ĕçсене улăштарса ларăр. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) кăсăклану хăвармасăр тĕрлĕ кунсенче тĕрлĕ ĕçсем туса пăхма сĕнет. Сăмахран, тунти кун пĕçерме, ытарни кун пахчара ĕçлеме, юн кун сăнÿкерчĕксене пăхма пулать. [101 ĕç сăнĕ](/activities/ideas/) тата [килти ĕçсем](/activities/household-tasks/) çак вырăнсене тултарма пулăшаççĕ.
 
-## When the day goes sideways
+## Кун йĕркене пăхмасан
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Хăш-пĕр кунсенче нимĕн те планпа пымасть. Чир, усăл каç, врач килни е çанталăк улшăнни пурне те йĕркесĕр тăвасшăн. Плана хăварăр, чи кирлĕ япаласене (апат, ĕçмелли, кану, хăтлăлăх) тытса тăрăр та ыран тепре тăрăшса пăхăр. Енчен те çын мĕнпуринчен те антарсан, [вăл «çук» тенĕ чухне](/caregiving/when-they-say-no/) пăхăр. Пĕрле çутă сывланăвĕ, сăмахран [лăпкă сывлани](/games/calm-breathing/) пек, иккĕнне те çĕне вăхăт пуçлама пулăшма пултарать.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Сирĕн хăвăр йĕркÿ те пĕлтерĕшлĕ. Хăвăр валли те кану вăхăтĕ йĕркелĕр, тата çемьере е respite службуна тĕрĕс тăрăх канма пулăшма ыйтăр. [Пăхса тăракан çын хăйне тивĕçтерни](/caregiving/caregiver-self-care/) пăхăр.

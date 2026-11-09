@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Деменципе пурӑнакан ҫынсем валли головоломкӑсем"
+seoTitle: "Деменци валли головоломкӑсем: пазл тата сӑмах"
+description: "Деменципе пурӑнакан ҫын валли пазл, сӑмах тата онлайн головоломкӑсене мӗнле суйламалли: пайӑсем, сӑн, пысӑк шрифт, пӗрле ӗҫлемелли мелсем."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Деменципе пурӑнакан ҫын валли чи лайӑх головоломкӑ — вӑл ҫӑмӑл пулӑшупа
+  тӑвас ҫине килекен тата ӗҫ вӑхӑтӗнче киленӳ кӳрекенни. Пайӑсем сахалрах
+  тата пысӑкрах, сӑнӗ уҫӑрах пулмалла. Коробкӑри сӑна умӗнче хӑварӑр, малтан
+  хӗррисене пуҫтарӑр. Сӑмах шыравӗсемпе кроссвордсем пысӑк шрифтпа лайӑхрах
+  пулнӑ. Тӑватӑ пайлӑ ансат онлайн пазлсем вӑтамран вӑтамри сыпӑкра лайӑх
+  килӗшме пултараҫҫӗ. Киленнӗ чухне чарӑнӑр.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Сыпӑк ячӗпе мар, ӗҫ мӗнле пыраканне пӑхса суйлӑр: головоломкӑ йывӑр пулсан, пайӑсем сахалрах пулнисене тытӑнса пӑхӑр."
+  - "Пысӑк, ҫирӗп пайӑсем тата тӗрлӗ тӗс кӑтартакан уҫӑ сӑн пӗчӗк пайӑсене тата пысӑк ҫут тӗсрисенчен ансатрах."
+  - "Сӑнсем вӑтам ҫын валли пулмалла: сад, кухня, машине, чӗр-чун, анчах та мультфильм мар."
+  - "Тӗпӗ — пӗрле ӗҫлеме. Пайӑсене пӑрахса парӑр, хӗррисене уйӑрӑр, коробкӑ хупӑрӗсене умӗнче хӑварӑр."
+  - "Пысӑк шрифтлӑ сӑмах шыравӗсем тата 4 е 9 пайлӑ ансат онлайн пазлсем ку сайтра тӳлевсӗр пур."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Деменципе пурӑнакан ҫын валли пазлӑн миҫе пайӗ лайӑхрах?"
+    a: "Пӗр йышши тӗрӗс хисеп ҫук. 1000 пайлӑ пазлсем тытса ӗҫлекен ҫын малтанах темшӗн ҫӗр пайлӑ пазлпа та савӑнма пултарать, ыттисем валли вара пысӑк пӗр-ик ҫӗр пайӗ ҫеҫ лайӑхрах. Пазл йывӑр туйӑнсан е йӑлӑхтарсан, пайӑсене чакар. Пирӗн онлайн Сӑн пазлӗнче 4 е 9 пайӗ пур."
+  - q: "Деменципе пурӑнакан ҫынсем валли пазлсем лайӑх-и?"
+    a: "Нумай ҫынсем вӗсене юратаҫҫӗ, уйрӑмах унччен пазлсем тытса ӗҫленӗ пулсан. Пазл алӑсем валли ӗҫ парать, уҫӑ тӗллев кӑтартать тата сӑн ҫинчен калаҫма май парать. Нимӗнле пазл та деменцине сиплеме е вӑл вӑрӑмланнине чарма пулин те кӑтартнӑ мар, ҫавна май вӗсене киленӳпе пӗрле вӑхӑт ирттерме суйлӑр."
+  - q: "Ҫын пазл туса пӗтереймен чухне мӗн тума пулать?"
+    a: "Ӑна пӗчӗкрех тӑвӑр та ытларах хӑвӑр тӑвӑр: кашни пайне пӗрре-пӗрре парӑр е юлашки темшӗн пайне кӑтартса хӑварӑр. 4 пайлӑ онлайн пазлпа, тӗсӗпе пайӑсем уйӑрнипе е пӗтернӗ сӑна пӗрле пӑхнипе ӗҫлеме пулать."
+  - q: "Кроссвордсемпе сӑмах шыравӗсем деменци валли килӗшеҫҫӗ-и?"
+    a: "Малтанхи сыпӑкра, пысӑк шрифтпа, вӗсем килӗшме пултараҫҫӗ. Сӑмахсем ҫеҫ ансат енне тата аялалла вырнаҫнӑ сӑмах шыравӗсем диагональпе е каялла вырнаҫнӑсене илсен ансатрах. Ыйтӑвсене е сӑмахсем йышне сасӑпа вуласа парӑр та пӗрле ӗҫлӗр."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Апатланмалли сӗтел ҫинче сарнӑ пазл — пӗрле ӗҫлеме чи ансат мелсенчен пӗри. Эсир нумай калаҫмасӑр та пӗрле ларама пултаратӑр, сӑн калаҫма сӑлтав парать, юлашки пайне лартни те киленӳлӗ. Анчах та деменци улшӑннӑ май пазлсене те улӑштармалла. Ытла йывӑр пазл лӑпкӑ каҫа йӑлӑхтаруллӑ тума пултарать. Ку страницӑра пазлсене, сӑмах головоломкӑсене тата ансат онлайн пазлсене мӗнле суйламаллине, хатӗрлемеллине тата вӗсем йывӑрлансан мӗн тумаллине ҫырнӑ.
 
-## Are puzzles good for people with dementia?
+## Деменципе пурӑнакан ҫынсем валли пазлсем лайӑх-и?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Нумай ҫынсем вӗсене юратаҫҫӗ, уйрӑмах унччен пазлсем тытса ӗҫленӗ пулсан. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) малтанхи сыпӑк валли ӗҫсен хушшинче сӑмах тупмалли ӗҫсене, карта тата сӗтел ҫинчи вӑйӑсене асӑнать. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) вара планшетра онлайн вӑйӑсемпе пазлсем хутшӑнма май паранине палӑртать.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Пазлсем — сиплев мелӗ мар. Нимӗнле пазл та деменцине чакартма е чарма пулин те кӑтартнӑ мар; [миме вӑйӑсемпе деменци](/brain-health/brain-games/) ҫинчен пирӗн страницӑра тӗпчевӗсем ҫинчен ҫырнӑ. Пазлпа ӗҫлемелли сӑлтав — вӑл пӗрле киленӳллӗ тата кӑсӑклануллӑ вӑхӑт парма пултарать. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ҫапла калать: тӗпӗ — киленӳ, тӗллеве ҫитни мар.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Деменципе пурӑнакан ҫын валли пазл мӗнле суйламалла?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Сыпӑк ячӗпе мар, ҫын мӗн юратнине тата юлашки пазл мӗнле пынӑне пӑхӑр.
 
-### Number of pieces
+### Пайӑсен хисепӗ
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Пӗр тӗрӗс хисеп ҫук. Пазл юратса ӗҫлекен ҫын малтанах темшӗн ҫӗр пайлӑ пазлпа савӑнма пултарать, ытти ҫын вара пӗр-ик ҫӗр пысӑк пайпа ырӑрах. Усӑллӑ меслет: юлашки пазл йывӑр пулнӑ пулсан, пайӑсем ҫурӑхрах пулнисене суйлӑр. Хӑвӑрт пӗтнӗ те тата тӑвасшӑн пулнӑ пулсан, пӗчӗкрах ытла тытӑнса пӑхӑр.
 
-### Piece size and feel
+### Пайӑсен пысӑклӑхӗ тата калӑпӑшӗ
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Пысӑк пайӑсене** курма, тытса илме тата ҫавӑрма ансатрах.
+- **Хулӑм, ҫирӗп пайӑсем** вырӑнӗнче лараҫҫӗ тата ӳксен те сиенмеҫҫӗ.
+- **Ялкӑшсӑр хыҫалӑх** лампа е чӳрече ҫутинче йӑлтӑртатнине чакарма пулӑшать.
+- **Пӗчӗк пайӑсене** ан суйлӑр, ҫын япаласене ҫӑварӗнчен хӑвасшан пулсан. Деменци вӑрӑмланнӑ май ку пулӑма пултарать.
 
-### The picture
+### Сӑн
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Вӑтам ҫын валли сӑнсем.** Сад, кухня, кивӗ машине, хуҫалти чӗр-чун, тинӗс хӗрринчи поселок е юратнӑ спорт тӗлӗшӗ. Мультфильмсене е ачасем вӑйӑҫне евӗрлӗ япаласене ан суйлӑр.
+- **Уҫӑ уйрӑм тӗссем.** Хӗрлӗ пӳрт, кӑвак кӑмака тата симӗс уй пазлӑн пӗр чарӑмне тултарнӑ пӗр тӗсреллӗ тӳпере илсен ансатрах.
+- **Паллакан тата ҫынна ҫывӑх сӑн.** Ҫын пурӑннӑ вырӑн е вӑл юратнӑ ӗҫ сӑнӗ калаҫма нумай темӑ парать. Хӑш-пӗр типографисем ҫемье сӑнне пазла куҫарма пултараҫҫӗ.
 
-## How do you do a puzzle together?
+## Пазлпа пӗрле мӗнле ӗҫлемелле?
 
-Set it up so the person can get straight to the enjoyable part.
+Ҫын киленӳллӗ пайӗнчен тӳрех пуҫлама пултарччӑр тесе хатӗрлӗр.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Лайӑх вырӑн суйлӑр.** Ҫутӑ, алӑ пуҫакан пукан тата пазл каҫӑрта вырнаҫас сӗтел е поднос кирлӗ.
+2. **Коробкӑ хупӑрӗсене** иккӗш те курмалли вырӑна лартӑр.
+3. **Пуҫиччен** мӗнпур пайӑсене сӑнӗсем ҫӳлелле ҫавӑрӑр.
+4. **Хӗррисене** хӑвӑр уйӑрӑр е малтан хӗрӗсене тӑвӑр та варрине унӑн валли хӑварӑр.
+5. **Пайӑсене тӗсӗпе** пӗр-ик темиҫе тӑкӑна е турилкӑна уйӑрӑр.
+6. **Пайӑсем ытла нумай пулсан,** пӗрре-пӗрре парӑр. «Ку пай пӳрт пайӗ пулма пултарать», тенине калама пулать.
+7. **Усӑва мар, сӑна** калаҫӑр. «Ку кӑмака манӑн аттен кӑмакине аса илтерет».
+8. **Пазла вӑл вырӑнта хӑварӑр.** Темшӗн кун хушшинче ун патне таврӑнма пулать. Васкамасӑр.
+9. **Лайӑх самантра чарӑнӑр:** пӗр пай ларнӑ хыҫҫӑн, халӗ те кӑсӑклануллӑ чухне.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ҫынна пуҫлама пулӑшма, йӑлӑхтарнине тишкерме тата унӑн пӑхас кӑмӑл килсен пӑхма ирӗк парма сӗнет. Санӑн пайӑсене лартнине пӑхни е пай ӑҫта ларма пултарнине кӑтартни те ӗҫе хутшӑнни.
 
-## Easy online puzzles
+## Ансат онлайн пазлсем
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Планшетри пазлсен чӑнлайӑн лайӑх енӗсем пур: ҫухалмалли пайсем ҫук, экран тулли пысӑк сӑнсем пур, сӗтеле тасатма та кирлӗ мар.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Пирӗн тӳлевсӗр [Picture puzzle](/games/picture-puzzle/) вӑйӑ сӑна 4 е 9 пайа пайлать. Икӗ пайне пусса вырӑнӗсене улӑштартӑр, сӑн тулли пултӑр. Тулли сӑн пулӑшуллӑ образ пек умӗнче ларать, вӑхӑт шутлакан ҫук, эсир хӑш самантра та чарӑнма пултаратӑр. Тӑватӑ пай вӑтамран вӑтамри сыпӑкра, айӗнче ҫын пулсан, нумай ҫын валли килӗшет.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Ытти те ансат сӑн вӑйӑсем кирлӗ пулсан, [Find the same](/games/find-the-same/) вӑйӑпа ӗҫлесе пӑхӑр: унта ҫӳлерехри сӑнпа пӗрешкел сӑна пусса суйламасть, е [Sort together](/games/sort-together/) вӑйӑпа: унта сӑнсене кухня е сад пек корзинӑсене уйӑрмалла.
 
-## Word puzzles: word searches and crosswords
+## Сӑмах головоломкӗсем: сӑмах шыравӗсемпе кроссвордсем
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Сӑмах головоломкӗсем яланах вӗсене юратнӑ ҫынсем валли, чылай чухне деменцин малтанхи сыпӑкӗнче, лайӑх килӗшеҫҫӗ.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Пысӑк шрифтлӑ сӑмах шыравӗ.** Пирӗн тӳлевсӗр [Word search](/games/word-search/) вӑйӑра пысӑк саспаллисем тата сахал сӑмахсем ҫеҫ пур, вӗсем ҫеҫ ансат енне тата аялалла вырнаҫнӑ, диагональпе е каялла мар. Экран ҫинче вылӑр е пичетлӗр.
+- **Йышне сасӑпа вулӑр.** Пӗр ҫын сӑмаха вулать, тепри шырать. Пӗрремӗш саспаллине ҫеҫ ҫаврӑнса кӑтартни те юрӗ.
+- **Головоломкӑ кӗнекисенчи пысӑк шрифтлӑ кроссвордсем** малтанах килӗшме пултараҫҫӗ. Ыйтӑвсене сасӑпа вулӑр, ручкӑпа пӗрле ӗҫлӗр те хуравсене пӗрле ҫырӑр. Ансат, пӗр темӑлӑ кроссвордсем йывӑррисенчен лайӑхрах.
+- **Сӑмахсем ҫинчен калаҫӑр.** «Сад» сӑмахӗ вунӑ минут помидор ҫинчен калаҫӑва куҫарма пултарать.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Хутран ӗҫлемелли ытти ӗҫсемпе вӗсене курма тата тытма ансат пултӑр тесе мӗнле пичетлемеллине [тӳлевсӗр пичетлемелли деменци ӗҫӗсем](/activities/printable/) страницӑра пӑхма пулать.
 
-## Which puzzles suit each stage?
+## Хӑш сыпӑкра мӗнле пазлсем килӗшеҫҫӗ?
 
-Stages overlap, and good and hard days are normal.
+Сыпӑксем пӗр-пӗринпе вырнаҫма пултараҫҫӗ, лайӑх та йывӑр кунсем те пулни нормаллӑ.
 
-| Stage | Puzzles that often fit | Your role |
+| Сыпӑк | Чылай чухне килӗшекен пазлсем | Санӑн ӗҫӳ |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Малтанхи | Малтанхинчен пайӑсем сахалрах паллакан пазлсем, пысӑк шрифтлӑ кроссвордсемпе сӑмах шыравӗсем, 9 пайлӑ онлайн пазлсем | Партнер пулӑр: вӑл хӑй суйласси, ыйтнӑ чухне пулӑшни |
+| Вӑтамран вӑтам | Пӗр-ик ҫӗр пысӑк пайлӑ пазлсем, 4 пайлӑ онлайн пазлсем, пӗрле вуласа ӗҫлемелли сӑмах шыравӗсем | Хатӗрлӗр, пайӑсене уйӑрӑр, пӗрре-пӗрре парӑр |
+| Юлашки | Пӗтернӗ сӑна пӗрле пӑхни, икӗ сӑнлӑ Find the same, темшӗн пысӑк пайпа ӗҫлени | Вӑйӑна ун патне илсе килӗр; санӑн пӗрле пулни — ӗҫ |
 
-## When should you make a puzzle easier, or stop?
+## Пазла хӑҫан ансатрах тумалла е чарӑнмалла?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Сывлӑх туртнине, пайӑсене йӗппи-пишшипе ирттернине, «эп пултараймастӑп» тени тӗлӗннине е пӑшӑрхануллӑ пӑхнине асӑрхатӑр. Ку — улшӑну кирлӗ тени, малалла ывӑтмалла тени мар.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Пӗчӗкрех тӑвӑр.** Пайӑсене чакарӑр е юлашки темшӗн пайне ҫеҫ хӑварӑр.
+- **Ытларах хӑвӑр тӑвӑр** та ансат пайӗсенче пулӑшма сӗнӗр.
+- **Ун патӗнчерех урӑх ӗҫе куҫӑр:** пайӑсене тӗсӗпе уйӑрни, 4 пайлӑ онлайн пазл е [сӑрлама ӗҫӗ](/games/coloring/).
+- **Чарӑнӑр.** Пазла аякра хӑварӑр та пӗр стакан чей ӗҫӗр. Тепӗр кун таврӑнма пулать, е пӗтӗмпех таврӑнмасӑр та юлама пулать.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Пазлсем йывӑрри ҫинчен аса илтерекеннипе туйӑнсан, вӗсенчен пӑрахӑҫлама та юрӗ. Пӗрле ырӑ вӑхӑт ирттерме нумай ытти мел пур; пирӗн [101 ӗҫ тӗлӗшӗ](/activities/ideas/) страницӑра шыраса пӑхма пулать.

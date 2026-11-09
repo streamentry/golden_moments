@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Прѣрꙑвано постъ и оумьно ослаблѥниѥ"
+seoTitle: "Прѣрꙑвано постъ и оумьно ослаблѥниѥ"
+description: "Съвѣдѣниꙗ о прѣрꙑваномь постѣ и оумьнѣмь ослаблѥнии сѫтъ мала. О бѣдахъ старъихъ и о ꙗдѣнии довольнѣ."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Нѣстъ добръихъ съвѣдѣнии, ꙗко прѣрꙑвано постъ въꙁбранꙗѥтъ ли оумьно
+  ослаблѥниѥ или оумалꙗѥтъ ѥ. Мъного изъслѣдовании сѫтъ о ꙁвѣрѣхъ, а
+  изъслѣдованиꙗ о старъихъ чловѣцѣхъ сѫтъ мала и кратъка. Постъ можєтъ бꙑти
+  бѣдьнъ старъимъ: оумалѥниѥ тѣла и мꙑшьць, ниꙁъка кръвьна сладость при
+  нѣкоторъихъ лѣчьбахъ противѫ съладьницѣ, бєꙁводиѥ и падєниꙗ. Чловѣкомъ,
+  живѫштии мъ съ оумьнꙑмь ослаблѥниѥмь, по вѧщє налєжитъ доволно ꙗсти и пити.
+  Прѣждє съвѣщаи сѧ съ врачємь.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging глаголєтъ, ꙗко нѣстъ довольна съвѣдѣниꙗ, да сѧ прѣпорѫчитъ постъ или оумалѥниѥ ꙗди, пачє старъимъ."
+  - "Мъного изъслѣдовании о постѣ и старѣнии сѫтъ о ꙁвѣрѣхъ, и тъ послѣдъкъ нє вьсєгда подобаѥтъ чловѣкомъ."
+  - "Могѫтъ бꙑти бѣдꙑ старъимъ: нєволно оумалѥниѥ тѣла и мꙑшьць, ниꙁъка кръвьна сладость при нѣкоторъихъ лѣчьбахъ противѫ съладьницѣ, бєꙁводиѥ, главоболиѥ и падєниꙗ."
+  - "Чловѣци, живѫштии съ оумьнꙑмь ослаблѥниѥмь, чѧсто ꙁабꙑваѭтъ ꙗсти или пити, или мьнѧтъ, ꙗко южє ꙗшѧ и пишѧ. Помошть имъ доволно ꙗсти и пити по вѧщє налєжитъ, нєжєли врѣмѧ ꙗдєниꙗ."
+  - "Нє тво ри поста чловѣкоу, живѫщоуоумоу съ оумьнꙑмь ослаблѥниѥмь. Прѣждє вьсѧкоꙗ измѣнꙑ въ ꙗдєнии съвѣщаи сѧ съ врачємь или съ оучитєлємь о пишти."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Въꙁбранꙗѥтъ ли прѣрꙑвано постъ Альцхаимєровѫ болѣꙁнь?"
+    a: "Нѣстъ добръихъ съвѣдѣнии, ꙗко тако ѥстъ. Мъного изъслѣдовании бꙑстъ о ꙁвѣрѣхъ, а искоушєниꙗ о чловѣцѣхъ бꙑшѧ по вѧщє кратъка, о юнъихъ или тѫчьнъихъ чловѣцѣхъ, и съмотрѣшѧ на оумалѥниѥ тѣла. National Institute on Aging глаголєтъ, ꙗко нѣстъ довольна съвѣдѣниꙗ, да сѧ прѣпорѫчѧтъ постьнии ꙗди людьмъ."
+  - q: "Бєꙁбѣдьно ли ѥстъ прѣрꙑвано постъ старъимъ?"
+    a: "Можєтъ нє бꙑти. Постъ можєтъ привєсти къ нєвольноуоумоу оумалѥнию тѣла и мꙑшьць, къ бєꙁводию, къ главоболию и падєниємъ, и можєтъ сътворити ꙁѣло ниꙁъкѫ кръвьнѫѭ сладость оу тѣхъ, ижє приємлѭтъ инсоулинъ или инꙑ лѣчьбꙑ противѫ съладьницѣ. Mayo Clinic глаголєтъ, ꙗко сє можєтъ нє подобати чловѣкомъ съ великоѭ бѣдоѭ оумалѥниꙗ кости и падєниꙗ. Съвѣщаи сѧ съ врачємь прѣждє искоушєниꙗ."
+  - q: "Подобаѥтъ ли чловѣкоу, живѫщоуоумоу съ оумьнꙑмь ослаблѥниѥмь, искоусити поста?"
+    a: "Ни. Чловѣци, живѫштии съ оумьнꙑмь ослаблѥниѥмь, чѧсто имѫтъ трѫдъ доволно ꙗсти и пити, а хѫдо питаниѥ можєтъ оумъножити трѫдьноѥ дрьжаниѥ и сътворити оумалѥниѥ тѣла. Постъ прилагаѥтъ бѣдѫ бєꙁ ꙗвлѥна полꙁꙑ. Лѫчє пєщи сѧ о чѧстъихъ ꙗдєниихъ, о снѣдєхъ, ꙗжє любѧтъ, и о довольнѣмь питии."
+  - q: "Кꙑѩ сѫтъ ꙁнамєниꙗ, ꙗко чловѣкъ съ оумьнꙑмь ослаблѥниѥмь нє ꙗстъ и нє пиѥтъ доволно?"
+    a: "Съмотри оумалѥниѥ тѣла, простороньнѣишѧ риꙁꙑ, оутомлѥниѥ, нємошть, ꙁапоръ или отъмєтаниѥ ꙗди. National Institute on Aging мєнитъ ꙁнамєниꙗ бєꙁводиꙗ: соухъıꙗ оуста, главоболиѥ, борꙁо сьрдьчьно биѥниѥ и видѣниꙗ. Рьци врачоу, аштє сиꙗ оуꙁьриши."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Прѣрꙑвано постъ, ꙗкожє ꙗсти тъчьѭ въ осми часѣхъ или ꙁѣло оумалити ꙗдь въ дъва дьни сєдмицѧ, иматъ мъного глаголаниꙗ, и нѣци пишѫтъ, ꙗко можєтъ хранити оумъ. Аште ѥси старъ чловѣкъ, или пєчєши сѧ о чловѣцѣ, живѫштємь съ оумьнꙑмь ослаблѥниѥмь, сьдє видиши, чьто изъслѣдованиꙗ по истинѣ ꙗвлꙗѭтъ и почьто подобаѥтъ бꙑти опасьноу.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Сє ѥстъ обьщєѥ съвѣдѣниѥ, а нє врачьскъи съвѣтъ. Нє начьни поста, ни нє измѣни, как о ѥстъ чловѣкъ, о нѥмьжє пєчєши сѧ, бєꙁ съвѣщаниꙗ съ врачємь или съ оучитєлємь о пишти. Ви жь нашє [мєдичьскоѥ отърєчєниѥ](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Въꙁбранꙗѥтъ ли прѣрꙑвано постъ оумьно ослаблѥниѥ?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Нѣстъ добръихъ съвѣдѣнии, ꙗко прѣрꙑвано постъ въꙁбранꙗѥтъ или оумалꙗѥтъ оумьно ослаблѥниѥ. National Institute on Aging (NIA) глаголєтъ, ꙗко нѣстъ довольна съвѣдѣниꙗ, да сѧ прѣпорѫчитъ какова любо ꙗдь оумалѥниꙗ или постьнаꙗ, и ꙗко подобаѥтъ вѧщє оувѣдѣти о ѥꙗ дѣиствѣ и бєꙁбѣдьности, пачє о старъихъ чловѣцѣхъ ([NIA о оумалѥнии ꙗди и постѣ](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Почьто съвѣдѣниꙗ сѫтъ толи мала
 
-The NIA gives several reasons:
+NIA даѥтъ нѣколикꙑ винꙑ:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Мъного изъслѣдовании сѫтъ о ꙁвѣрѣхъ.** Изъслѣдованиꙗ о чрьвихъ, моу хахъ, мꙑшихъ и о пєвьꙗнъихъ имѣшѧ чоудьнъıꙗ послѣдъкꙑ, нъ сиꙗ нє вьсєгда подобаѭтъ чловѣкомъ. И о ꙁвѣрѣхъ послѣдъци сѫтъ раꙁличьни; оу нѣкоторъихъ родъ мꙑшии оумалѥниѥ ꙗди съкрати животъ.
+- **Искоушєниꙗ о чловѣцѣхъ бꙑшѧ кратъка.** По вѧщє дрьжашѧ сѧ нѣколико нєдѣль или мѣсѧць.
+- **По вѧщє искоушєнии о чловѣцѣхъ съмотрѣшѧ на оумалѥниѥ тѣла** оу тѫчьнъихъ чловѣкъ, а нє на памѧть или оумьно ослаблѥниѥ.
+- **Старии чловѣци рѣдъко бꙑв аѭтъ притъчєни.** Мъного искоушєнии приꙗшѧ чловѣкꙑ 60 лѣтъ или мьнии.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Съмотрѣниѥ 2026 лѣта видѣ особьно прѣрꙑвано постъ оу чловѣкъ 60 лѣтъ и старѣишихъ. Обрѣтє, ꙗко съвѣдѣниꙗ о сємь родѣ ѥщє сѫтъ мала, съ малꙑми изъслѣдовании, кратъкꙑмь послѣдованиимь и раꙁличьнꙑми образꙑ. О мꙑшлѥнии и памѧти послѣдъци придошѧ отъ отъдѣльнъихъ изъслѣдовании, а нє отъ съвъкоуплѥнъихъ искоушєнии. Съмотрѣниѥ такожє мєноу, ꙗко нѣкаꙗ изъслѣдованиꙗ съвѧꙁашѧ ꙁѣло кратъкꙑ окънца ꙗдєниꙗ или дльгꙑ постꙑ съ хѫждьшими послѣдъкꙑ, и писа тєли молишѧ старъихъ бꙑти опасьнꙑ ([съмотрѣниѥ 2026 лѣта въ Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Нѣции изъслѣдоватєлє мьнѧтъ, ꙗко прѣмѣна тѣла къ жьжєнию тоука въ постѣ можєтъ дѣиствовати на оумъ, нъ сє ѥщє ѥстъ мꙑсль, ꙗжє сѧ изъслѣдоуѥтъ. NIA мєнитъ, ꙗко оучєниѥ ѥстъ нєиꙁвѣстьно.
 
-## What are the risks of fasting for older adults?
+## Кꙑѩ сѫтъ бѣдꙑ поста старъимъ?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Постъ нѣстъ бєꙁбѣдьно искоушєниѥ мъногꙑмъ старъимъ чловѣкомъ. Могѫтъ бꙑти сиꙗ бѣдꙑ:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Нєволно оумалѥниѥ тѣла.** Ꙗсти мьнѥ, нєжєли тѣло трѣбоуѥтъ, можєтъ привєсти къ оумалѥнию тѣла и къ мьньшєи крѣпости мꙑшьць, и чловѣкъ можєтъ бꙑти нємоштьнѣи.
+- **Оумалѥниѥ мꙑшьць и кости.** Въ дъволѣтьнѣмь искоушєнии, подъпьрѣнѣмь NIA, о оумалѥнии ꙗди оу юнъихъ и срѣдьнѥ въꙁдраста чловѣкъ, бꙑстъ мало оумалѥниѥ плътьности кости и чистꙑхъ мꙑшьць.
+- **Ниꙁъка кръвьна сладость при лѣчьбахъ противѫ съладьницѣ.** Чловѣци, ижє приємлѭтъ инсоулинъ или инꙑ лѣчьбꙑ противѫ съладьницѣ, могѫтъ имѣти ꙁѣло ниꙁъкѫ кръвьнѫѭ сладость, аштє прѣминѫтъ или одълъжѧтъ ꙗдь, по [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Ниꙁъка кръвьна сладость можєтъ сътворити главоболиѥ, съмѧтєниѥ и раꙁдражєниѥ.
+- **Бєꙁводиѥ.** Аште сѧ прѣминѫтъ питиꙗ съ ꙗдиѭ, чловѣкъ можєтъ бꙑти бєꙁводьнъ.
+- **Главоболиѥ и падєниꙗ.** Mayo Clinic глаголєтъ, ꙗко прѣрꙑвано постъ можєтъ сътворити чловѣкꙑ ꙁѣло оутомлѥнꙑ и съ главоболиѥмь, и ꙗко сьи образъ ꙗдєниꙗ можєтъ нє бꙑти добръ чловѣкомъ съ великоѭ бѣдоѭ оумалѥниꙗ кости и падєниꙗ ([Mayo Clinic о прѣрꙑваномь постѣ](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Инꙑ дѣиствиꙗ.** Mayo Clinic такожє мєнитъ боли главꙑ, измѣнꙑ доуха и ꙁапоръ, и мєнитъ нѣкаꙗ съвѣдѣниꙗ, ꙗко постъ 16 часъ съ окъньцємь ꙗдєниꙗ 8 часъ можєтъ оумъножити бѣдѫ сьрдьчьнꙑхъ болѣꙁнии при инъихъ окъньцихъ. Сиꙗ съвѣдѣниꙗ нє сѫтъ иꙁвѣстьна.
 
-## Why is eating enough the bigger concern with dementia?
+## Почьто доволно ꙗсти ѥстъ по вѧщє налєжѧщєѥ при оумьнѣмь ослаблѥнии?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Чловѣкомъ, живѫштии мъ съ оумьнꙑмь ослаблѥниѥмь, обꙑчьнаꙗ бѣда ѥстъ имѣти **доволно** ꙗди и питиꙗ, а нє прѣмъного. Alzheimer's Association обꙗ снꙗѥтъ, ꙗко чловѣци въ срѣдьнѥмь и поздьнѣмь чинѣ могѫтъ чоути сѧ одолѣни мъногостьѭ ꙗди, ꙁабꙑти ꙗсти или мьнѣти, ꙗко южє ꙗшѧ. Прилагаѥтъ, ꙗко хѫдо питаниѥ можєтъ оумъножити трѫдьноѥ дрьжаниѥ и сътворити оумалѥниѥ тѣла ([Alzheimer's Association о ꙗди и ꙗдєнии](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society мєнитъ, ꙗко нєдоволно ꙗсти можєтъ привєсти къ оумалѥнию тѣла, къ мьньшєи крѣпости мꙑшьць, къ оутомлѥнию и нємошти, и чловѣкъ бѫдєтъ нємоштьнѣи и мьнѥ можєтъ въстати отъ недѫгъ ([Alzheimer's Society о хотѣнии ꙗсти](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Сєго ради постъ нѣстъ добраꙗ мꙑсль чловѣкоу, живѫщоуоумоу съ оумьнꙑмь ослаблѥниѥмь.** Прѣминѫтꙑꙗ ꙗди могѫтъ лєгъко бꙑти ꙁабꙑтꙑ. Вьсѧка измѣна, како ѥстъ чловѣкъ съ оумьнꙑмь ослаблѥниѥмь, да бѫдєтъ съ врачємь ѥго или съ оучитєлємь о пишти.
 
-## What are the warning signs of poor eating or drinking?
+## Кꙑѩ сѫтъ ꙁнамєниꙗ хѫдаꙗ ꙗдєниꙗ или питиꙗ?
 
-Watch for:
+Съмотри:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Оумалѥниѥ тѣла**, или риꙁꙑ, ꙗжє стаѭтъ простороньнѣишѧ.
+- **Оставлѥниѥ ꙗди или отъмєтаниѥ ꙗдєниꙗ**, или дрьжаниѥ ꙗди въ оустѣхъ.
+- **Оутомлѥниѥ или нємошть.**
+- **Ꙁапоръ**, ижє можєтъ бꙑти съвѧꙁанъ съ ꙗдиѭ и бєꙁводиѥмь.
+- **Ꙁнамєниꙗ бєꙁводиꙗ.** NIA мєнитъ соухъıꙗ оуста, главоболиѥ, борꙁо сьрдьчьно биѥниѥ и видѣниꙗ, ꙗжє такожє могѫтъ бꙑти отъ самаго оумьнаго ослаблѥниꙗ ([NIA о обьщихъ мєдичьскъихъ бѣдахъ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Хѫдо хотѣниѥ ꙗсти иматъ мъногꙑ винꙑ: болѧштии ꙁѫби или нєкрѣпъкꙑꙗ чєлю сти, новꙑꙗ лѣчьбꙑ, оу нꙑниѥ, ꙁапоръ, мьньшє дѣиствиꙗ, или измѣнꙑ въ въкоушєнии и обонꙗнии. Рьци врачоу чловѣка о сихъ ꙁнамєниихъ. Врачь можєтъ искати винѫ и прѣпорѫчити оучитєлꙗ о пишти или приложєниꙗ.
 
-## How can you help someone eat and drink enough?
+## Како помошти чловѣкоу доволно ꙗсти и пити?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Подаваи малꙑ ꙗди и снѣди чѧсто**, а нє три вєликꙑꙗ ꙗди.
+- **Подаваи люби мꙑꙗ снѣди**, и бѫди мѧкъкъ, ꙗко въкоушєниꙗ сѧ измѣнꙗѭтъ. Сладъкꙑꙗ снѣди могѫтъ бꙑти приꙗтьнꙑ, аштє хотѣниѥ ꙗсти мало ѥстъ; въпрос и врача, аштє сѫтъ винꙑ оумалити сладость.
+- **Дрьжи питиꙗ блиꙁъ** и подаваи малꙑ чашѧ чрѣсъ дьнь. Юхи, плодꙑ, гладъкꙑꙗ питиꙗ и мльчьнаꙗ питиꙗ такожє числѧтъ сѧ.
+- **Ꙗждьта въкоупѣ**, єгда можєши. Ꙗдєниѥ ѥстъ врѣмѧ дроужьбꙑ, а нє дѣло, ѥжє подобаѥтъ борꙁо съконьчати.
+- **Искоуси снѣди рѫкама**, ꙗкожє хлѣбꙑ, рѣꙁанꙑꙗ плодꙑ или кѫсꙑ коурѧтє, аштє приборꙑ сташѧ трѫдьни.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Нашь [наставлѥниѥ о ꙗди](/brain-health/diet/) иматъ вѧщє мꙑслии о ꙗдєнии. Помошть въ готовлѥнии ꙗди можєтъ бꙑти приꙗтьноѥ обьщєѥ дѣло; ви жь [домашьнѧꙗ дѣла](/activities/household-tasks/).
 
-## Talk with a doctor
+## Съвѣщаи сѧ съ врачємь
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Прѣждє искоушєниꙗ какова любо постьнаго образа, съвѣщаи сѧ съ твоимь врачємь или съ оучитєлємь о пишти, пачє аштє приємлєши лѣчьбꙑ противѫ съладьницѣ или противѫ висока кръви, аштє нєдавьно оумали сѧ тѣло твоѥ, или аштє бꙑшѧ падєниꙗ. О чловѣцѣ, живѫштємь съ оумьнꙑмь ослаблѥниѥмь, въпроси врача ѥго, колико подобаѥтъ ѥмоу ꙗсти и пити на дьнь, а нє о постѣ.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Ищи борꙁꙑꙗ врачьскꙑꙗ помошти при напраснѣмь съмѧтєнии, падєнии въ бєꙁчоу вьство, или ꙁнамєниихъ ꙁѣло ниꙁъкꙑꙗ кръвьнꙑꙗ сладости, ꙗжє сѧ нє поправлꙗѭтъ борꙁо.

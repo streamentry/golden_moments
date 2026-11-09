@@ -1,36 +1,37 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Попечєниѥ о себѣ: отъдъхъ и помощь"
+seoTitle: "Попечєниѥ о себѣ: отъдъхъ и помощь"
+description: "Знамєниꙗ оутрѹждєниꙗ попєчитєлꙗ, како обрѣсти отъдъхъ и подъкрѣплєниѥ, и бєсплатьныꙗ помощиѩ въ Съѥдинєныхъ Дрьжавахъ."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
+  Попєчитєльство о чловѣцѣ живѫштємь съ памѧти ослаблєниѥмь трѹдьно ѥсть, и
+  попєчєниѥ о себѣ чѧсть сєго дѣла ѥсть. Вьнимай знамєниꙗмъ: оутрѹждєниѥ,
+  раздражєниѥ, зъло съпаниѥ и оудалєниѥ отъ дроугъ. Проси о помощи о
+  опрѣдѣлєныхъ дѣлѣхъ, приими отъдъхъ и пристѫпи къ събороу подъкрѣплєниꙗ.
+  Бєсплатьнаꙗ помощь въ Съѥдинєныхъ Дрьжавахъ: дьньно-нощьнаꙗ линиꙗ
+  Alzheimer's Association на 1-800-272-3900 и Eldercare Locator на
   1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Оутрѹждєниѥ попєчитєлꙗ чѧсто ꙗвлꙗѥтъ сѧ оутомлєниѥмь, раздражєниѥмь, зълъмь съпаниѥмь, печалиѭ и оставлєниѥмь попєчєниꙗ о своѥмь съдравии."
+  - "Отъдъхъ даѥтъ ти врѣмѧ покоꙗ, отъ нѣколицѣхъ часъ до нѣколицѣхъ нєдѣль, въ домоу или въ мѣстѣ попєчєниꙗ."
+  - "Проси о помощи о опрѣдѣлєныхъ дѣлѣхъ; мъноѕи хотѧтъ помошти, нъ нє вѣдѧтъ како."
+  - "Дьньно-нощьнаꙗ линиꙗ Alzheimer's Association (1-800-272-3900) даѥтъ бєсплатьно и таино подъкрѣплєниѥ въ вьсꙗко врѣмѧ."
+  - "Eldercare Locator (1-800-677-1116) съвѧзоуѥтъ тѧ съ мѣстьными слоужьбами, въ томь числѣ съ мѣстьною слоужьбою за старѣишѧѩ."
+  - "Аштє чоуѥши сѧ въ нѫжди, възови или напиши 988. Въ напраснѣи бѣдѣ възови мѣстьноѥ число съкораꙗ помошти."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Каꙗ сѫтъ знамєниꙗ оутрѹждєниꙗ попєчитєлꙗ?"
+    a: "Обьштаꙗ знамєниꙗ сѫтъ: чоути сѧ оутомлєноу, отѧготєноу или трєвожьноу, лєгъко гнѣвати сѧ или тєрпѣниѥ гоубити, имѣти трѹдъ съ съпаниѥмь, чоути печаль или бєзнадєжьностъ, оудалꙗти сꙗ отъ дроугъ, чѧсто имѣти болѣзнь главы или инѫ болѣзнь, и оставлꙗти своѭ ꙗдь, движєниѥ или врачьскоѥ попєчєниѥ. Аштє таковаꙗ знамєниꙗ бꙑваѭтъ чѧсто, глаголи съ своимь врачємь."
+  - q: "Како обрѧштѫ отъдъхъ близъ мєнє?"
+    a: "Начьни съ Eldercare Locator (1-800-677-1116 или eldercare.acl.gov), да обрѧштєши мѣстьноую слоужьбоу за старѣишѧѩ, или съ ARCH National Respite Locator Service, или съ линиѥѭ Alzheimer's Association на 1-800-272-3900. Родъ, дроуѕи и добровольци такожє могѫтъ дати отъдъхъ."
+  - q: "Плащаѥтъ ли Medicare за отъдъхъ?"
+    a: "За чловѣка, ижє приѥмлєтъ попєчєниѥ въ коньци жиꙁни, Medicare покрываѥтъ большѫѭ чѧсть цѣны до пѧти по рѧдоу дьнии отъдъха въ больници или въ оумѣлѣи обитѣли попєчєниꙗ, по словєсємь National Institute on Aging. Большьство чѧстьныхъ съдравьныхъ оутврьждєнии нє покрываѥтъ отъдъха; Medicaid и нѣкотории плановє дльгааго попєчєниꙗ могѫтъ помошти."
+  - q: "Линиꙗ Alzheimer's Association въ истинѫ ли бєсплатьна и отъврьста въ ношти?"
+    a: "Ѥи. Alzheimer's Association глаголєтъ, ꙗко ѥѩ линиꙗ на 1-800-272-3900 ѥсть бєсплатьна, таина и отъврьста дьнь и ношть, 365 дьнии въ лѣтѣ, съ помоштиѭ на мъногыхъ ѩꙁыцѣхъ. За слоужьбоу прѣдаꙗниꙗ възови 711."
+  - q: "Самолюбиѥ ли ѥсть прити отъдъхъ отъ попєчитєльства?"
+    a: "Нѣстъ. Покоѥниѥ помагаѥтъ ти продльжити попєчєниѥ, а отъдъхъ можєтъ дати чловѣкоу, о нємьжє пєчєши сѧ, инѫ бєсѣдоу и инѫ дѣтєль. Мъноѕи попєчитєлє послѣди глаголѭтъ, ꙗко хотѣли бꙑ раньшє просити помошти."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Аштє пєчєши сѧ о чловѣцѣ живѫштємь съ памѧти ослаблєниѥмь, можєтъ бꙑти чьтєши сиѥ поꙁдѣ, оутомлєнъ и съ чрѣдою дѣлъ, ѩжє нє сътвори. То ѥсть обꙑчьно. Попєчєниѥ о себѣ нѣстъ излишьство, ни мьꙁда по съконьчании вьсєго. То ѥсть то, ѥжє помагаѥтъ ти прѣбꙑвати.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Си страница глаголєтъ о знамєниихъ оутрѹждєниꙗ, како приѩти истиньнъ отъдъхъ, къдє обрѣсти подъкрѣплєниѥ, и о бєсплатьныхъ помоштьныхъ линиꙗхъ въ Съѥдинєныхъ Дрьжавахъ, къ нимьжє можєши дьньсь възъвати.
 
-## What are the signs of caregiver burnout?
+## Каꙗ сѫтъ знамєниꙗ оутрѹждєниꙗ попєчитєлꙗ?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Оутрѹждєниѥ чѧсто приходитъ тихо, тѣмьжє добрѣ ѥсть ꙁнати своꙗ знамєниꙗ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) поминаѥтъ знамєниꙗ напѧжєниꙗ попєчитєлꙗ, въ нихъжє:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- чоути сѧ оутомлєноу, отѧготєноу или трєвожьноу;
+- лєгъко гнѣвати сѧ или тєрпѣниѥ гоубити;
+- чоути сѧ ѥдиномоу или далєчє отъ инѣхъ;
+- имѣти трѹдъ съ съпаниѥмь, или нє съпати довльно;
+- чоути печаль или бєзнадєжьностъ, или гоубити радость о томь, ѥжє прѣждє любилъ ѥси;
+- чѧсто имѣти болѣзнь главы, болѣзнь тѣла или инѫ тѣлєсьноу нєпокоѥность;
+- нє имѣти врѣмєнє на движєниѥ или на доброу ꙗдь за сѧ;
+- оставлꙗти оумꙑваниѥ или ино попєчєниѥ о себѣ;
+- ꙁлѣ оупотрѣблꙗти вино или лѣкꙑ, въ томь числѣ прѣписаныꙗ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) прилагаѥтъ и ина знамєниꙗ: отъмєтаниѥ болѣꙁни, гнѣвъ на чловѣка («тъ тъчьѭ оупорьнъ ѥсть»), трєвогоу о грѧдѫштємь, трѹдъ въ съмъıшлєнии и тѣлєсьныꙗ бѣдꙑ. Съвѣтоуѥтъ глаголати съ врачємь, аштє таковаꙗ знамєниꙗ ꙗвлꙗѭтъ сѧ чѧсто.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Съвѣтъ NIA ѥсть нє ждати, доньдєжє бѫдєши съвьсѣмь отѧготєнъ. Раньшє оуꙁнаи своꙗ знамєниꙗ и прииꙗти дѣло.
 
-## What can I do today, in five minutes?
+## Чьто могоу сътворити дьньсь, въ пѧть минѫтъ?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Малыи отъдъхъ такожє иматъ цѣноу. Ни ѥдино отъ сихъ нє оукротитъ оутрѹждєниꙗ до коньца, нъ можєтъ помошти прѣити трѹдьно пополоудьниѥ.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Иꙁиди вънъ.** Сѧди на праꙃѣ или иди до врата, ѥгда чловѣкъ ѥсть въ бєꙁбѣдьнѣ и тихѣ.
+- **Дꙑши тихо.** Нѣколико тихъ дꙑхании прѣждє отъвѣта на трѹдьнъ въпросъ. Можєши такожє подълити [Тихоѥ дꙑханиѥ](/games/calm-breathing/) съ чловѣкомь, о нємьжє пєчєши сѧ.
+- **Пии водѫ и ꙗжь нѣчьто.** Лєгъко ѥсть ꙁабꙑти своѭ ꙗдь.
+- **Напиши дроугоу.** Нє да просиши нѣчєсо, нъ да бѫдєши съвѧꙁанъ.
+- **Рьци себѣ добръ глаголъ.** [Настаѥниѥ NIA о попєчєнии о себѣ](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) прѣдълагаѥтъ словєса: «Творѭ, ѥликоже могоу», «Нѣсмь съврьшєнъ, и то добрѣ ѥсть», и «Възрадоуѭ сѧ врѣмєнємь, ѥгда можємъ бꙑти въкоупѣ въ мирѣ».
 
-## What is respite care, and how do I get it?
+## Чьто ѥсть отъдъхъ, и како ѥго приѩти?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Отъдъхъ ѥсть кратъко врѣмѧ попєчєниꙗ о чловѣцѣ, о нємьжє пєчєши сѧ, да тꙑ могоу почити. [Страница NIA о отъдъсѣ](https://www.nia.nih.gov/health/caregiving/what-respite-care) обꙗвлꙗѥтъ, ꙗко то можєтъ трьпѣти отъ нѣколицѣхъ часъ до нѣколицѣхъ нєдѣль и бꙑти въ домоу, въ мѣстѣ попєчєниꙗ или въ дьньнѣмь съборѣ за старѣишѧѩ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) описоуѥтъ обьштѧꙗ обраꙁꙑ:
 
-| Type | What it is |
+| Обраꙁъ | Чьто то ѥсть |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Помощь въ домоу | Дроугъ, родьствьникъ, добровольць или наѩтъ съпѫтьникъ или слоуга приходитъ въ домъ |
+| Дьньнъ съборъ | Оустрѡѥныꙗ дѣтєли, ꙗко мѹсикиꙗ и живопись, въ бєꙁбѣдьнѣ дроужинѣ; чѧсто бꙑваѥтъ и пѫть и ꙗдь |
+| Нощьноѥ или кратъко прѣбꙑваниѥ | Обитѣль дльгааго попєчєниꙗ приѥмлєтъ чловѣка на ношть, на нѣколико дьнии или на нѣколико нєдѣль |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Къто плащаѥтъ?** По словєсємь NIA, отъдъхъ отъ рода, дроугъ или добровольць можєтъ бꙑти бєꙁ цѣны. Слоужьбꙑ оумѣлъıихъ людии плащаѭтъ сѧ на часъ или на дьнь. За чловѣка, ижє приѥмлєтъ попєчєниѥ въ коньци жиꙁни, Medicare покрываѥтъ большѫѭ чѧсть цѣны до пѧти по рѧдоу дьнии отъдъха въ больници или въ оумѣлѣи обитѣли попєчєниꙗ. Medicaid можєтъ помошти. Большьство чѧстьныхъ съдравьныхъ оутврьждєнии нє покрываѥтъ отъдъха, нъ нѣкотории плановє дльгааго попєчєниꙗ то творѧтъ.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Съвѣтъ:** Alzheimer's Association съвѣтоуѥтъ искоусити слоужьбꙑ отъдъха въ врѣмѧ бєꙁ напраснꙑѩ нѫждѧ, да бѫдѫтъ готови, аштє вънєꙁапоу въстрѣбоуѥши помошти.
 
-## Where can I find help near me?
+## Къдє могоу обрѣсти помощь близъ мєнє?
 
-Several free US services can point you to local help.
+Нѣколико бєсплатьныхъ слоужьбъ въ Съѥдинєныхъ Дрьжавахъ могѫтъ оукаꙁати тєбѣ мѣстьноу помощь.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Дьньно-нощьнаꙗ линиꙗ Alzheimer's Association: 1-800-272-3900.** [Линиꙗ](https://www.alz.org/help-support/resources/helpline) ѥсть бєсплатьна и таина, отъврьста дьнь и ношть вьсѧкого дьнє въ лѣтѣ, съ помоштиѭ на болє чєтꙑрь сътъ ѩꙁꙑкъ чрѣꙁь дъвоѩꙁꙑчьнꙑѩ слоугꙑ или прѣвѡдитєлѧ. За слоужьбоу прѣдаꙗниꙗ възови 711. Можєши глаголати о иꙁмѣнєнии дѣтєли, о напѧжєнии попєчитєлꙗ, о обраꙁѣхъ отъдъха, о мѣстьныхъ слоужьбахъ и о инѣхъ, и просити дльгѫ бєсѣдоу съ съвѣтьникомь попєчєниꙗ. Слоугꙑ нє даѭтъ врачьскааго съвѣта.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), обьштєна слоужьба Administration for Community Living, съвѧзоуѥтъ тѧ съ слоужьбами за старѣишѧѩ и ихъ родъ. Можєши възъвати, написати, бєсѣдовати на сѣти или посълати писаниѥ, или искати по мѣстоу. Си слоужьба можєтъ оукаꙁати мѣстьноу слоужьбоу за старѣишѧѩ.
+- **ARCH National Respite Locator Service.** [ARCH исканиѥ отъдъха](https://archrespite.org/caregiver-resources/respitelocator/) помагаѥтъ обрѣсти слоужьбꙑ отъдъха по дрьжавамъ, и съвѣтоуѥтъ прьвѣѥ обраꙁити сѧ къ дрьжавьномоу съвѣтоу отъдъха, аштє ѥсть. ARCH глаголєтъ, ꙗко нє испꙑтаваѥтъ слоужьбъ, тѣмьжє самъ прѣглѧдаи ихъ искоусъ и съвѣдѣниꙗ.
 
-## How do I find a support group?
+## Како обрѧштѫ съборъ подъкрѣплєниꙗ?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Въпроси линиѭ помошти или поишти въ сѣти съборꙑ близъ тєбє. Alzheimer's Association [оустраꙗѥтъ съборꙑ подъкрѣплєниꙗ](https://www.alz.org/help-support/community/support-groups) за попєчитєлѧ и за чловѣкꙑ живѫштѧѩ съ памѧти ослаблєниѥмь, лицємь къ лицоу и на сѣти, съ наоучєнꙑими водитєли. Мъноꙁи мѣста имѫтъ и особьнꙑѩ съборꙑ, на пр. за вьꙁрастьнꙑѩ попєчитєлѧ или за чловѣкꙑ съ раньнѥю болѣꙁниѭ. Иматъ такожє ALZConnected, бєсплатьнъ съборъ на сѣти, идєжє попєчитєлє дѣлѧтъ сѧ съвѣтꙑ.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Съборъ подъкрѣплєниꙗ можєтъ бꙑти мѣсто, идєжє можєши иꙁрєшти своѥ чоувьство бєꙁ осѫждєниꙗ, приѩти польꙁьнꙑ съвѣтъ отъ тѣхъ, ижє то вѣдѧтъ, и чоути сѧ нє ѥдиномоу. Аштє прьвъи съборъ нє подобьнъ ти ѥсть, искоуси инъ.
 
-## How do I ask family and friends for help?
+## Како просити рода и дроугъ о помошти?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Бѫди ꙗсєнъ. Мъноѕи хотѧтъ помошти, нъ нє вѣдѧтъ чьто прѣдъложити. NIA съвѣтоуѥтъ:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Дрьжи съписъкъ** дѣлъ, ꙗжє инiи могѫтъ приѩти, и даи имъ иꙁбърати.
+- **Начьни мало**, аштє трѹдьно ѥсть просити.
+- **Приложи дѣло къ чловѣкоу.** Братоучѧдъ, ижє любитъ варити, приноситъ вєчєрѭ въ чєтвьртъкъ. Съсѣдъ, ижє добръ ѥсть съ писаньми, помагаѥтъ съ боумажинами.
+- **Напиши писаниѥ или вѣсть**, аштє трѹдьно ѥсть просити лицємь къ лицоу.
+- **Приоуготови отъвѣтъ**, ѥгда къто прѣдълагаѥтъ помощь: «Благо ти дароуѭ, ꙗко въпроси. Сє ѥсть, ѥжє можєши сътворити».
+- **Чаи и отъвѣта “нѣ”** и нє приимаи ѥго ꙗко своѭ винѫ.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Иныꙗ мꙑсли: попроси кого, да посѣдитъ съ чловѣкомь ѥдно пополоудьниѥ въ нєдѣли, да идєтъ съ нимь на кратъкъ исходъ, или да посѣтитъ и игрѧтъ въкоупѣ. [Наше настаѥниѥ о съмѣстьнѣи игрѣ](/caregiving/how-to-play-together/) лєгъко ѥсть подълити съ посѣтитєли.
 
-## What if something happened to me?
+## Чьто аштє съ мъноѭ чьто слоучитъ сѧ?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Сътвори простъ ꙁапасънъ планъ нꙑнѣ. NIA съвѣтоуѥтъ рѣшити съ родъмь или близъкꙑими дроугꙑ, къто бꙑ въстѫпилъ, и дрьжати тєтрадь съ напраснꙑими числами, лѣкꙑ, съвѣтꙑ о дѣтєли, ѩжє помагаѭтъ, и любимиꙗ дѣтєли. Alzheimer's Association такожє съвѣтоуѥтъ дрьжати врачьскѧ съвѧꙁи чловѣка и новъ съписъкъ лѣкъ на оудобьнѣ мѣстѣ.
 
-## When should I get professional or urgent help?
+## Къгда подобаѥтъ искати оумѣлоу или напрасноу помощь?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Глаголи съ врачємь, аштє знамєниꙗ напѧжєниꙗ бꙑваѭтъ чѧсто, аштє чоуѥши сѧ въ печали, или аштє трѹдьно ти ѥсть прѣбꙑвати. Рьци врачоу, ꙗко ѥси попєчитєль. NIA поминаѥтъ, ꙗко съвѣтьници и обьщьнии слоугꙑ могѫтъ помошти съ трѹдьнꙑими чоувьствꙑ и съ оустрѡѥниѥмь, и ꙗко Medicare, Medicaid и нѣкотории чѧстьнии плановє могѫтъ покрыти нѣкоторѫѭ цѣноу оумьнааго съдравиꙗ.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Аштє чоуѥши сѧ въ нѫжди или имаши мꙑсли о врѣждєнии себѣ, възови или напиши 988, да обрѧштєши [988 Suicide & Crisis Lifeline](https://988lifeline.org/), бєсплатьно и отъврьсто 24/7. Аштє къто ѥсть въ напраснѣи бѣдѣ, възови мѣстьноѥ число съкораꙗ помошти.
 
-## Can shared activities give me a break too?
+## Могѫтъ ли съмѣстьныꙗ дѣтєли дати и тєбѣ отъдъхъ?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Иногда могѫтъ. Тихаꙗ дѣтєль, ѭжє оба любитє, можєтъ бꙑти кротъча чѧсть дьнє и за тѧ, и за чловѣка, о нємьжє пєчєши сѧ: слоушати старыꙗ пѣсни, ꙁьрѣти на обраꙁꙑ, или игра ꙗко [Бєсѣдьныꙗ картицѧ](/games/conversation-cards/), ѩжє нє трѣбоуѥтъ правааго отъвѣта. Аштє чловѣкъ любитъ дроужиноу, съборьнаꙗ игра [Обраꙁьноѥ бинго](/games/picture-bingo/) въ мѣстѣ за старѣишѧѩ или въ дьньнѣи слоужьбѣ можєтъ дати ти часъ отъдъха. Виждь [дѣтєли за съборꙑ въ мѣстѣ попєчєниꙗ](/activities/care-home-groups/).

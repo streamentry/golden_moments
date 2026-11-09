@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Съвѣти о бесѣдѣ съ чловѣкомь живѫщимь съ оумьнъмь ослаблѥниѥмь"
+seoTitle: "Бесѣда при оумьнѣмь ослаблѥнии: что рещи"
+description: "Како бесѣдовати съ чловѣкомь живѫщимь съ оумьнъмь ослаблѥниѥмь: како приготувати бесѣдѫ, что рещи вьмѣсто въпрошаниꙗ и исправлѥниꙗ, и како послоушати."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Бесѣдоуите въ тихѣ мѣстѣ, зрите къ чловѣкоу, наречѣте ѥго имѧ и глаголите
+  тихо, кратькꙑими и простꙑими словесꙑ. Въпрашаите по ѥдиномоу въпросоу,
+  подаваите дъвѣ възможьности вьмѣсто широкꙑихъ въпросъ, и ждите дльже неже
+  ѥстъ обꙑчаи. Не прите, не исправлꙗите и не испꙑтаите. Отъвѣщаваите на
+  чоуство, ѥже ѥстъ за словесꙑ, и ꙗко словеса оскѫдѣѭтъ, бесѣдоуите
+  прикосновениѥмь, гласомь, образомь лица и съ обьщими образꙑ.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Оумалите шѹмъ и сътворите очьнъ съꙋзъ прѣжде бесѣдꙑ."
+  - "Глаголите кратькꙑими словесꙑ, по ѥдинои мꙑсли, и имена вьмѣсто онъ, она или они."
+  - "Подаваите изборъ отъ дъвою или въпросъ „да“ ли „ни“, а не широкꙑ въпросꙑ."
+  - "Ждите отъвѣта. Аще не разоумѣѭтъ, повьторите та же словеса, потомь рьцѣте инако."
+  - "Не прите и не исправлꙗите. Отъвѣщаваите на чоуство, ѥже ѥстъ за словесꙑ."
+  - "Ѥгда словеса оскѫдѣѭтъ, бесѣдоуите прикосновениѥмь, гласомь, образомь лица и съ обьщими образꙑ."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Чьто не подобаѥтъ рещи чловѣкоу съ оумьнъмь ослаблѥниѥмь?"
+    a: "Оукони сѧ испꙑтаниꙗ („Помьниши ли…?“), исправлѥниꙗ („То нѣстъ право“), напоминаниꙗ о оутратахъ („Оуже рѣхъ ти“) и бесѣдꙑ о чловѣцѣ ꙗко аще нѣстъ тоу. Оукони сѧ дѣтьска рѣчи. Сицеѥ часто твори стѫдъ или печаль, а не помагаѥтъ."
+  - q: "Подобаѥтъ ли ми исправлꙗти, ѥгда погрѣшаѥтъ въ вѣщи?"
+    a: "Обꙑчаино ни. Аще погрѣшьна вѣщь нѣстъ врѣдьна, остави ѭ. Прѣниѥ рѣдъко измѣнꙗѥтъ мꙑсль чловѣка, а часто ѥго оскорблꙗѥтъ. Вьними, како сѧ чоуѥтъ и чьто ѥмоу нꙑнѣ трѣбѣ ѥстъ."
+  - q: "Чьто сътворити, ѥгда не може обрѣсти словесе?"
+    a: "Прьвѣѥ даи ѥмоу врѣмѧ. Аще видиши, ꙗко трѫждаѥтъ сѧ, можеши тихо подати слово или оцѣнити, чьто хощетъ рещи, и въпросити. Показаниѥ рѫкоѭ, движениꙗ и образи такожде могѫтъ помагати."
+  - q: "Како бесѣдовати съ чловѣкомь въ поздьнѣи степени оумьнаго ослаблѥниꙗ, иже рѣдъко глаголѥтъ?"
+    a: "Пристѫпи съ прѣда, рьци, къто ѥси, и глаголи тихꙑмь гласомь и лѣгъкꙑмь прикосновениѥмь. Съмотри лица и тѣла, да оувѣси чоуства. Твоѥ присѫтьствиѥ, знаѥма пѣснь или дрьжаниѥ за рѫкѫ можетъ много рещи безъ словесъ."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Оумьноѥ ослаблѥниѥ можетъ сътворити трѫдьно обрѣсти словеса, послѣдовати дльгоу словесоу или отълѫчити шѹмъ окрьстъ. Сиꙗ не значатъ, ꙗко чловѣкъ прѣста желати съѫза съ инѣми. Малꙑ измѣнꙑ въ томь, како приготоуѥши бесѣдѫ, како глаголѥши и како послоушаѥши, могѫтъ сътворити бесѣдѫ лѣгъчьшѫ и тишиишѫ за оба.
 
-## What are the most important tips for talking with someone who has dementia?
+## Кꙑѩ сѫтъ наиважьнѣиши съвѣти о бесѣдѣ съ чловѣкомь живѫщимь съ оумьнъмь ослаблѥниѥмь?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Привлѣци ѥго вьниманиѥ, съхрани простотѫ и бѫди тръпѣливъ. Аще помьниши тъчьѭ пѧть вѣщии:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Оутиши мѣсто и зрии къ нѥмоу.** Оугаси образьникъ, сѧди въ ровьнь очима и нарьци ѥго имѧ.
+2. **Рьци по ѥдинои вѣщи.** Кратька словеса, ѥдина мꙑсль, ѥдинъ въпросъ.
+3. **Подаждь изборъ отъ дъвою.** «Чаи или кава?» лѣгъче ѥстъ неже «Чьто хощеши?»
+4. **Жди.** Даи боле врѣмене на отъвѣтъ, неже ти сѧ мнитъ ѥстьство, и не прѣсѣкаи.
+5. **Николиже не прите и не испꙑтаите.** Отъвѣщаи на то, како сѧ чоуѥтъ, а не на то, правꙑ ли сѫтъ вѣщи.
 
-## How should I start a conversation?
+## Како подобаѥтъ ми начѧти бесѣдѫ?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Приготоуи тако, да чловѣкъ можетъ вьнѧти тебѣ. [Съвѣтъ Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) велитъ прьвѣѥ оумалити шѹмъ: оугаси радио или образьникъ, затвори завѣсѫ или двьри, или иди въ тишеѥ мѣсто.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Пристѫпи съ прѣда.** Приходъ съ зади или съ странꙑ можетъ оустрашити.
+- **Рьци, къто ѥси.** «Здравьствоуи, отьче, азъ ѥсмь Сара, дъщи твоꙗ». Се помагаѥтъ, да не ищетъ твоѥго имене.
+- **Бѫди въ ровьнь ѥмоу.** Аще сѣдитъ, сѧди или приклони сѧ, да очи бѫдѫтъ въ ровьнь.
+- **Вьними лицоу и гласоу своѥмоу.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) съвѣтоуѥтъ вьнимати гласоу, силѣ, образоу лица и тѣла, и дрьжати теплъ и простъ образъ.
+- **Оувѣри сѧ, ꙗко очила и слоуховꙑ помагачѣ сѫтъ на мѣстѣ.** Трѫдьно ѥстъ слѣдовати бесѣдѣ, ѥѩже не можеши добрѣ видѣти или слꙑшати.
 
-## How should I phrase what I say?
+## Како подобаѥтъ ми глаголати словеса своꙗ?
 
-Use simple words, short sentences and a calm, low voice.
+Глаголи простꙑими словесꙑ, кратькꙑими словесꙑ и тихꙑмь, низъкꙑмь гласомь.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **По ѥдинои мꙑсли въ словеси.** «Облѣцѣмъ ризѫ. Потомь изидемъ вънъ». А не обоѥ въ ѥдиномь дъхновении.
+- **Оупотрѣблꙗи имена, а не мѣстоимениꙗ.** «Тета Жанъ позъва» ꙗснѣѥ ѥстъ неже «Она позъва».
+- **Гласъ низъкъ, а не силенъ.** Family Caregiver Alliance съвѣтоуѥтъ низъкъ гласъ паче възвꙑшена.
+- **Повьтори, потомь прѣрьци.** Аще не разоумѣ, повьтори та же словеса ѥдиною. Аще не помагаѥтъ, пожди мало и рьци инѣми словесꙑ.
+- **Покажи и рьци.** Покажи на чашѫ, подьнеси двѣ ризѣ или покажи прьвꙑи стѫпъ.
+- **Бесѣдоуи къ нѥмоу, а не о нѥмь.** NIA остерѣгаѥтъ, да не глаголѥши о чловѣцѣ ꙗко аще нѣстъ тоу, и да не оупотрѣблꙗѥши дѣтьскꙑ рѣчи.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA подаѥтъ простѣиша образьцѧ обꙑчьнꙑихъ въпросъ. Се сѫтъ образьци въ томь же доусѣ:
 
-| Instead of | Try |
+| Вьмѣсто | Рьци |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Чьто хощеши на вечерѭ?» | «Хощеши ли рꙑбѫ или кѹрѧ?» |
+| «Како сѧ чоуѥши?» | «Чоуѥши ли сѧ оутрѫжденъ?» |
+| «Алъчьнъ ли ѥси?» | «Вечерꙗ бѫдетъ готова по пѧти минѫтахъ». |
+| «Тако сего не твориши». | «Да попꙑтаѥмъ сице». |
+| «Помьниши ли нашь пѫть къ ѥзероу?» | «Помышлꙗхъ о нашемь пѫти къ ѥзероу. Повѣжь ми, чьто ти бѣ любо». |
+| «Оуже рѣхъ ти». | Отъвѣщаи пакꙑ, тихо, ꙗко въ прьвоѥ. |
 
-## How do I listen well?
+## Како добрѣ послоушати?
 
-Listen for the meaning and the feeling, not just the words.
+Послоушаи съмꙑсла и чоустьва, а не тъчьѭ словесъ.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Жди.** Мльчаниѥ часто ѥстъ врѣмѧ мꙑшлѥниꙗ. Съчисли тихо до десѧти прѣжде неже вьнидеши.
+- **Подаждь слово тъчьѭ аще оувѧзнѫ.** Family Caregiver Alliance глаголѥтъ, ꙗко лѣпо ѥстъ прѣдъложити словеса, ѥгда чловѣкъ трѫждаѥтъ сѧ.
+- **Провѣри, чьто слꙑша.** [Съвѣтъ Alzheimer’s Association о бесѣдѣ](https://www.alz.org/help-support/caregiving/daily-care/communications) велитъ искати съмꙑсла за словесꙑ и повьторити ѥго, да оувѣси, аще разоумѣ. «Печеши ли сѧ о колесници?»
+- **Съмотри лице и тѣло.** Ꙗко рѣчь бꙑваѥтъ трѫдьнѣиша, NIA пишеть, ꙗко образъ лица можетъ ꙗснѣѥ показати печаль, гнѣвъ или мѫкѫ неже словеса.
+- **Приими печали вь сьрьды.** Аще и печаль ѥстъ о погрѣшьнѣи вѣщи, чоуство ѥстъ истиньно.
 
-## What if they say something that is not true?
+## Чьто аще речетъ нѣчто, ѥже нѣстъ истиньно?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Не прите сѧ. Рѣдъко можеши побѣдити, а чловѣкъ можетъ чоути сѧ постꙑжденъ или оустрашенъ. Паче того съѫзи сѧ съ чоуствъмь, потомь тихо прѣиди къ иномоу.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance съвѣтоуѥтъ прьвѣѥ познати чоуство, потомь обрьнѫти бесѣдѫ. На примѣръ, аще мати твоꙗ тврьдитъ, ꙗко подобаѥтъ ѥи поѩти дѣти изъ оучилища:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Вьмѣсто: «Мати, дѣти твоꙗ оуже възрастошѧ. То бѣ прѣдъ четыри десѧти лѣтъ».
+- Рьци: «Тꙑ бѣ милостива мати. Повѣжь ми о томь, како поимааше ѩ. Хощевѣ ли прьвѣѥ мало снѣсти?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association такожде съвѣтоуѥтъ не прѣти сѧ о словесехъ, съ нимиже не съглашаѥши сѧ. Избери врѣмѧ: аще погрѣшьно мьнѣниѥ нѣстъ врѣдьно, остави ѥ.
 
-## How does communication change as dementia progresses?
+## Како измѣнꙗѥтъ сѧ бесѣда, ѥгда оумьноѥ ослаблѥниѥ растетъ?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Потрѣбꙑ измѣнꙗѭтъ сѧ съ врѣменемь, тѣмьже измѣнꙗи и свои образъ. Alzheimer’s Association описоуѥтъ три широка врѣмена:
 
-| Stage | What helps |
+| Врѣмѧ | Чьто помагаѥтъ |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Раньнѣѥ | Не мьни, ꙗко не можетъ бесѣдовати. Привлѣци ѥго въ бесѣдꙑ, глаголи къ нѥмоу прямо, въпрашаи, каковѫ помощь хощетъ, и оупотрѣби веселость, аще помагаѥтъ. |
+| Срѣдьнѣѥ | Бесѣда ѥдинъ къ ѥдиномоу въ тихѣ мѣстѣ. Глаголи тихо, дрьжи очьнъ съꙋзъ, оупотрѣблꙗи въпросꙑ „да“ ли „ни“, даи заповѣди по стѫпьмъ и не оукарꙗи ни исправлꙗи. |
+| Поздьнѣѥ | Пристѫпи съ прѣда и рьци, къто ѥси. Пободри показаниѥ рѫкоѭ и движениꙗ. Оупотрѣби прикосновениѥ, гласꙑ, видѣниꙗ и вони. Николиже не глаголи, ꙗко аще нѣстъ тоу. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Вьсꙗкъ чловѣкъ ѥстъ инъ, и тъ же чловѣкъ можетъ имѣти добрꙑ и трѫдьнꙑ дьни. Отъвѣщаи на то, каковъ ѥстъ нꙑнѣ, а не на имѧ.
 
-## Can pictures and activities make conversation easier?
+## Могѫтъ ли образи и дѣꙗниꙗ оулѣгъчити бесѣдѫ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Да. Обьщь образъ оумалꙗѥтъ тѧгостъ и даѥтъ вама нѣчто, на ньже могоста зрѣти и показати.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Образьни подвижници.** [Conversation Cards](/games/conversation-cards/) подаѭтъ образꙑ съ отъврьстꙑми въпросꙑ, иже николиже не испꙑтаѭтъ.
+- **Родьниꙗ образи.** [Photo Pairs](/games/photo-pairs/) творитъ изъ образъ, ѩже избереши, тихѫ игрѫ съчетаниꙗ, и то часто пробѫждаѥтъ повѣсти.
+- **Знаѥма словеса.** [Finish the Saying](/games/finish-the-saying/) оупотрѣблꙗѥтъ добрѣ знаѥма словеса, по нихъже слѣдоуѥтъ подвижникъ къ бесѣдѣ.
+- **Игри съчетаниꙗ ꙗко подътврьждениѥ.** [Picture Pairs](/games/picture-pairs/) даѥтъ рѫкама дѣло, доньдеже бесѣдоуѥта.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Виждь [како играти въкоупѣ](/caregiving/how-to-play-together/) и [дѣꙗниꙗ памѧти](/activities/reminiscence/). О посѣщениихъ и зъваниихъ чьти наши съвѣти о [посѣщениихъ](/activities/visiting/) и [телефоньнꙑихъ и видимꙑихъ зъваниихъ](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Чьто аще погѹблѭ тръпѣниѥ?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Се бꙑваѥтъ вьсѣмъ. NIA съвѣтоуѥтъ, аще сѧ раздразниши, да възьмеши врѣмѧ оутихнѫти. Изи въ инѫ храминѫ, дꙑши тихо нѣколико кратъ, и възврати сѧ, ѥгда можеши. Можеши пакꙑ начѧти бесѣдѫ, и чловѣкъ можетъ лѣпо отъвѣщати на твою тишинѫ. Аще раздражениѥ бꙑваѥтъ присно, то ѥстъ знамениѥ, ꙗко трѣбоуѥши боле помощи, а не ꙗко не оуспѣваѥши. Нашь съвѣтъ о [попечении о себѣ](/caregiving/caregiver-self-care/) показоуѥтъ, къде обрѣсти помощь.

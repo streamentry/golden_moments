@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Съставьницѧ за чловѣкы съ ослаблѥниѥмъ памѧти"
+seoTitle: "Съставьницѧ при ослаблѥнии памѧти"
+description: "Како избьрати съставьницѧ и словєсьнꙑꙗ игрꙑ за чловѣка съ ослаблѥниѥмъ памѧти: чѧсти, образы, крѫпьнꙑꙗ боукꙑ и съвькоупьно дѣло."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Добра съставьница за чловѣка съ ослаблѥниѥмъ памѧти ѥстъ та, ѭже
+  можетъ съконьчати съ малоѭ помощию и радовати сѧ по пѫти. Избери
+  съставьницѧ съ мьньшєѭ чѧстиѭ, крѫпьнъими чѧстьми и ꙗснъимъ образомъ
+  за възрастьнꙑѧ. Дрьжи образъ отъ ковъчьга прѣдъ очима и пьрвоѥ събери
+  краинꙑѧ чѧсти. Словєсьнꙑꙗ исканиꙗ и крьстословицѧ сѫтъ добрѣ въ
+  крѫпьнꙑхъ боукъвахъ. Лєгъкꙑꙗ съставьницѧ на мрѣжи о чєтꙑрьхъ чѧстьхъ
+  подають сѧ въ срѣдьнѥмъ врѣмєни. Прѣстани, ѥгда радость ѥстъ.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Избираи по томоу, како идєтъ, а нє по имени врѣмєнє: ащє съставьница кажєтъ сѧ трѫдьна, покоуси съ мьньшєѭ чѧстиѭ."
+  - "Крѫпьнꙑꙗ и твьрдꙑꙗ чѧсти и ꙗснъ образъ съ различьнъими цвѣтꙑ сѫтъ лєгъчє, нєжєли малыꙗ чѧсти и велико нєбо."
+  - "Образи за възрастьнꙑѧ сѫтъ важьни: садовє, коухьнѧ, колєсьницѧ и животьна, а нє дѣтьскꙑꙗ образꙑ."
+  - "Съвькоупьно дѣлати ѥстъ цѣль. Подаваи чѧсти, събираи краꙗ, дрьжи образъ отъ ковъчьга прѣдъ очима."
+  - "Словєсьнꙑꙗ исканиꙗ крѫпьнъими боукъвами и лєгъкꙑꙗ съставьницѧ на мрѣжи о 4 или 9 чѧстьхъ сѫтъ свободьнꙑ на сємь мѣстѣ."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Колико чѧстии съставьницѧ добро ѥстъ за чловѣка съ ослаблѥниѥмъ памѧти?"
+    a: "Нѣстъ ѥдиного праваго числа. Чловѣкъ, ижє прѣждє творашє съставьницѧ о тꙑсѧщи чѧстии, можетъ радовати сѧ сътъмь чѧстии въ ранѥѥ врѣмѧ, а инъ добро творитъ съ мало чѧстии крѫпьнꙑхъ. Ащє съставьница кажєтъ сѧ трѫдьна или творитъ пєчаль, прѣиди къ мьньшєи чѧсти. Наша съставьница образа на мрѣжи иматъ 4 или 9 чѧстии."
+  - q: "Сѫтъ ли съставьницѧ добрꙑ за чловѣкы живѫштѧѧ съ ослаблѥниѥмъ памѧти?"
+    a: "Мъноѕи радоуѭтъ сѧ ими, пачє ащє любьꙗахѫ съставьницѧ прѣждє. Съставьница даѥтъ рѫкама дѣло, ꙗснѫ цѣль и образъ, о нємьжє можєши глаголати. Ни ѥдина съставьница нє ꙗви сѧ лѣчити или оудрьжати ослаблѥниѥ памѧти, тѣмьжє избираи ѩ ради радости и събєсѣдованиꙗ."
+  - q: "Чьто творити, ѥгда чловѣкъ оужє нє можетъ дѣлати съставьницѧ?"
+    a: "Сътвори ѭ мьньшѫ и сътвори самъ болє: подаваи ѥдинѫ чѧсть по ѥдинои, или остави тъкъмо послѣдьнѧѩ нѣколикꙑ чѧсти за нь. Покоуси съставьницѫ о 4 чѧстьхъ на мрѣжи, събираниѥ чѧстии по цвѣтоу, или просто съмотрѣниѥ съконьчана образа въкоупѣ."
+  - q: "Подобають ли крьстословицѧ и словєсьнꙑꙗ исканиꙗ при ослаблѥнии памѧти?"
+    a: "Могѫтъ подобати въ ранѥѥ врѣмѧ, въ крѫпьнꙑхъ боукъвахъ. Словєсьнꙑꙗ исканиꙗ съ словєсꙑ тъкъмо по прѧмоу и вънизъ сѫтъ лєгъчє, нєжєли съ косъими или въспѧть словєсꙑ. Чьти въпрашаниꙗ или съписъкъ словєсъ въслоухъ и дѣлаита въкоупѣ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Съставьница, разложєна на трапєзѣ, ѥстъ ѥдино отъ наилєгъчьшихъ дѣлъ, ꙗжє можєши дѣлити. Можєта сѣдѣти въкоупѣ бєзъ нѫждѧ мъногꙑхъ словєсъ, образъ даѥтъ винѫ къ бєсѣдѣ, и положєниѥ послѣдьнѧѩ чѧсти радоуѥтъ. Нъ съставьницѧ трѣбоуѭтъ измѣнєниꙗ, ѥгда ослаблѥниѥ памѧти измѣнꙗѥтъ сѧ. Съставьница, ꙗжє ѥстъ прѣтрѫдьна, можетъ прѣтворити тихъ часъ въ пєчальнъ. Си страница покажєтъ, како избьрати и оуготовати съставьницѧ, словєсьнꙑꙗ игрꙑ и лєгъкꙑꙗ съставьницѧ на мрѣжи, и чьто творити, ѥгда бѫдѫтъ трѫдьнꙑ.
 
-## Are puzzles good for people with dementia?
+## Добрꙑ ли сѫтъ съставьницѧ за чловѣкы съ ослаблѥниѥмъ памѧти?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Мъноѕи радоуѭтъ сѧ ими, пачє ти, ижє творахѫ съставьницѧ прѣждє. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) поминаѥтъ словєсьнꙑꙗ исканиꙗ, игрꙑ съ картами и дъщьчьнꙑꙗ игрꙑ мєждоу дѣлꙑ за ранѥѥ врѣмѧ, а [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) поминаѥтъ игрꙑ и съставьницѧ на дъщицахъ ꙗко ѥдинъ пѫть прѣбꙑвати въ дѣлѣ.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Съставьницѧ нє сѫтъ лѣчьба. Ни ѥдина съставьница нє ꙗви сѧ оудрьжати или оуставити ослаблѥниѥ памѧти; нашь пѫть о [играхъ оумьнꙑхъ и ослаблѥнии памѧти](/brain-health/brain-games/) изꙗснꙗѥтъ изъслѣдованиꙗ. Вина творити съставьницѫ ѥстъ та, ꙗко може быти приꙗтьнъ и въниматєльнъ часъ въкоупѣ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) съвъкоуплꙗѥтъ: вънимаи радости, а нє оуспѣхоу.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Како избьрати съставьницѫ за чловѣка съ ослаблѥниѥмъ памѧти?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Съмотри, чьто чловѣкоу любо и како идє послѣдьнꙗꙗ съставьница, а нє по имени врѣмєнє.
 
-### Number of pieces
+### Число чѧстии
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Нѣстъ праваго числа. Чловѣкъ, ижє любьꙗшє съставьницѧ вьсє житию, можетъ радовати сѧ сътъмь чѧстии въ ранѥѥ врѣмѧ, а инъ ѥстъ наиболє радостьнъ съ мало чѧстии. Приꙗтьно правило: ащє послѣдьнꙗꙗ съставьница бѣ ꙗко трѫдъ, избери ѭ съ половинѫ чѧстии. Ащє бꙑстъ съконьчана скоро и чловѣкъ хотѣашє болє, възыди мало.
 
-### Piece size and feel
+### Величина и чоутиѥ чѧстии
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Крѫпьнꙑꙗ чѧсти** сѫтъ лєгъчє видѣти, възѧти и обратити.
+- **Тлъстꙑꙗ и твьрдꙑꙗ чѧсти** стоѭтъ добрѣ и трьпѧтъ падєниѥ.
+- **Нєбльщѧщии сѧ видъ** оумалꙗѥтъ свѣтъ отъ свѣтильникъ и окънъ.
+- **Нє избираи малꙑхъ чѧстии**, ащє чловѣкъ можетъ вълагати вєщи въ оуста, ꙗко сє можетъ быти поздѣѥ при ослаблѥнии памѧти.
 
-### The picture
+### Образъ
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Образи за възрастьнꙑѧ.** Садовє, коухьнѧ, старꙑꙗ колєсьницѧ, сєльскаꙗ животьна, приморьскъ градъ, любима игра. Нє дѣтьскꙑꙗ образꙑ и нє вєщи, ꙗжє подобѧтъ сѧ игрѫшкамъ.
+- **Различьнꙑ мѣста цвѣта.** Чрьвєнъ хлѣвъ, синь корабль и зєлєно полє сѫтъ лєгъчє, нєжєли нєбо, ꙗко напльнꙗѥтъ половинѫ съставьницѧ.
+- **Знаѥмо и ближьнєѥ.** Образъ мѣста, идєжє чловѣкъ живꙗашє, или любима дѣла даѥтъ мъного винъ къ бєсѣдѣ. Нѣкотории пєчатьници могѫтъ сътворити съставьницѫ отъ образа родьствьна.
 
-## How do you do a puzzle together?
+## Како дѣлати съставьницѫ въкоупѣ?
 
-Set it up so the person can get straight to the enjoyable part.
+Оуготови тако, да чловѣкъ можетъ начѧти право отъ радостьна дѣла.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Избери добро мѣсто.** Добръ свѣтъ, сѣдалищє съ рѫкама и трапєза или дъска, идєжє съставьница можетъ лєжати.
+2. **Постави врьхъ ковъчьга** тако, да оба видита и.
+3. **Обрати чѧсти лицємь горѣ** прѣждє начѧла.
+4. **Събери краинꙑѧ чѧсти** самъ, или сътвори окраинѫ пьрвоѥ и остави срѣдоу ѥмоу.
+5. **Събери чѧсти по цвѣтоу** въ нѣколикꙑ плитъкꙑ мисꙑ или блюда.
+6. **Подаваи ѥдинѫ чѧсть по ѥдинои**, ащє коупъ ѥстъ прѣвєликъ. «Мьню, ꙗко си чѧсть ѥстъ отъ хлѣва.»
+7. **Глаголи о образѣ**, а нє о поспѣхѣ. «Сє подобитъ сѧ кораблю, ижє имѣашє отьць мои.»
+8. **Остави ѭ.** Възврати сѧ къ нєи въ нѣколикꙑ дьни. Нѣстъ спѣха.
+9. **Прѣстани въ добро врѣмѧ**, по положєнии чѧсти, ѥгда ѥщє ѥстъ приꙗтьно.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) съвѣтоуѥтъ помагати чловѣкоу начѧти, съмотрити пєчаль и оставити ѥго просто съмотрити, ащє то ѥмоу болє любо. Съмотрѣниѥ, како тꙑ полагаѥши чѧсти, и оуказаниѥ, къдє чѧсть можетъ лєжати, ѥстъ тако жє оучѧстиѥ.
 
-## Easy online puzzles
+## Лєгъкꙑꙗ съставьницѧ на мрѣжи
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Съставьница на дъщицѣ иматъ добрꙑѩ странꙑ: нѣстъ погѫблѥнꙑхъ чѧстии, образы сѫтъ крѫпьни и напльнꙗѭтъ видъ, и нє трѣбѣ чистити трапєзꙑ.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Наша свободьна [Съставьница образа](/games/picture-puzzle/) рѣжєтъ образъ на 4 или 9 чѧстии. Коснєши сѧ двѣма чѧстьма, да измѣниши ѩ мѣстꙑ, доньдєжє образъ бѫдєтъ цѣлъ. Съконьчанъ образъ остаѥтъ на видѣ ꙗко помощь, нѣстъ часомѣра, и можєши прѣстати въ коѥ врѣмѧ. Чєтꙑри чѧсти подобають мъногꙑмъ въ срѣдьнѥмъ врѣмєни, ѥгда нѣкъто ѥстъ близъ.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+За ѥщє простѣишєѥ дѣло съ образы, покоуси [Найди тожьдє](/games/find-the-same/), идєжє коснєши сѧ образа, ижє подобитъ сѧ образоу горѣ, или [Събираимъ въкоупѣ](/games/sort-together/), идєжє образы идѫтъ въ кошьницѧ, ꙗко коухьнꙗ или садъ.
 
-## Word puzzles: word searches and crosswords
+## Словєсьнꙑꙗ игрꙑ: словєсьнꙑꙗ исканиꙗ и крьстословицѧ
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Словєсьнꙑꙗ игрꙑ подобають чловѣкомъ, ижє любьꙗахѫ ѩ прѣждє, пачє въ ранѥѥ врѣмѧ ослаблѥниꙗ памѧти.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Словєсьно исканиѥ крѫпьнъими боукъвами.** Нашь свободьнъ [Поискъ словєсъ](/games/word-search/) иматъ вєликꙑѩ боукꙑ и тъкъмо мало словєсъ, по прѧмоу и вънизъ, николи косо или въспѧть. Можєши дѣлати на видѣ или пєчатати.
+- **Чьти съписъкъ въслоухъ.** Ѥдинъ чьтєтъ слово, дроугъ ищєтъ ѥ. Добрѣ ѥстъ и окрѫжити тъкъмо пьрвѫ боукъвѫ.
+- **Крьстословицѧ крѫпьнъими боукъвами** отъ кънигъ игръ могѫтъ подобати въ ранѥѥ врѣмѧ. Чьти въпрашаниꙗ въслоухъ, дѣлита пьсало и напльнита отъвѣтꙑ въкоупѣ. Лєгъкꙑꙗ крьстословицѧ о ѥдинои тємѣ сѫтъ добрѣ, нєжєли мѫдрꙑꙗ.
+- **Глаголита о словєсєхъ.** Слово «садъ» можетъ вєсти къ дєсѧти миноутамъ бєсѣдꙑ о помидорѣхъ.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+За болє дѣлъ на боумагѣ и како пєчатати ѩ, да бѫдѫтъ лєгъка видѣти и дрьжати, виждь [свободьнꙑѩ дѣла на пєчать](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Кꙑѩ съставьницѧ подобають коѥмоу врѣмєни?
 
-Stages overlap, and good and hard days are normal.
+Врѣмєна прѣходѧтъ ѥдино въ дроуго, и добрии и трѫдьнии дьни сѫтъ обꙑчьни.
 
-| Stage | Puzzles that often fit | Your role |
+| Врѣмѧ | Съставьницѧ, ꙗжє чѧсто подобають | Твоꙗ помощь |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Ранѥѥ | Знаѥмꙑꙗ съставьницѧ съ мьньшєѭ чѧстиѭ нєжєли прѣждє, крьстословицѧ и словєсьнꙑꙗ исканиꙗ крѫпьнъими боукъвами, съставьницѧ на мрѣжи о 9 чѧстьхъ | Събєсѣдьникъ: остави ѥмоу избьрати, помагаи, ѥгда проситъ |
+| Срѣдьнєѥ | Съставьницѧ о мало крѫпьнꙑхъ чѧстьхъ, съставьницѧ на мрѣжи о 4 чѧстьхъ, словєсьно исканиѥ чьтєно въслоухъ въкоупѣ | Оуготови, събери чѧсти, подаваи ѥдинѫ по ѥдинои |
+| Поздьнѥѥ | Съмотрѣниѥ съконьчана образа въкоупѣ, Найди тожьдє съ двѣма образома, дрьжаниѥ нѣколикꙑхъ крѫпьнꙑхъ чѧстии | Принєси дѣло къ нємоу; твоѥ бꙑти близъ ѥстъ дѣло |
 
-## When should you make a puzzle easier, or stop?
+## Къгда сътворити съставьницѫ лєгъчє или прѣстати?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Съмотри въздꙑханиꙗ, отътлаканьѥ чѧстии, чѧстꙑѩ словєса «нє могѫ» или пєчальнꙑѩ очи. Си сѫтъ знамєниꙗ измѣнити нѣчьто, а нє налєгати.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Сътвори мьньшє.** Мьньшє чѧстии, или остави тъкъмо послѣдьнѧѩ нѣколикꙑ.
+- **Сътвори самъ болє** и позови ѥго помагати въ лєгъкꙑхъ чѧстьхъ.
+- **Прѣиди къ иномоу близъ:** събираниѥ чѧстии по цвѣтоу, съставьница о 4 чѧстьхъ на мрѣжи, или [цвѣщєниѥ](/games/coloring/).
+- **Прѣстани.** Отъложи ѭ и испита чашѫ чаю. Можєши възвратити сѧ инъ дьнь, или николи.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ащє съставьницѧ начьнѫтъ быти ꙗко напоминаниѥ о трѫдьнѣмь, добро ѥстъ оставити ѩ. Сѫтъ мъноѕи инии пѫтиѥ прѣбꙑти добро врѣмѧ въкоупѣ; нашь [101 мꙑсль о дѣлѣхъ](/activities/ideas/) ѥстъ добро мѣсто искати.

@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Деменцин малтанхи тапхăрĕнче ĕçсем"
+seoTitle: "Деменцин малтанхи тапхăрĕнче ĕçсем: сăнсем"
+description: "Деменцин малтанхи тапхăрĕнче ĕçе юрăхлă сăнсем: хобби, вăйăсем, урамра çÿрев, çырса хурни тата пĕрле планласси."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Деменцин малтанхи тапхăрĕнче чылайăш çын хăйĕн кăмăлпа тăвас ĕçсене малалла
+  тума пултарать: хобби, карта тата вăйăсем, апат-çимĕç хатĕрлесси, пахча ĕçĕ,
+  уçăлса çÿресси, клубсем, тĕн тата волонтерлă ĕç. Тĕп улшăнусем — пĕчĕк ушкăнсем,
+  кĕскерех вăхăтлă çÿревсем, ансат çырса хума плансем тата аякра пулăшакан çын.
+  Эсир пăхса тăракан çынран мĕнле пулăшу кирлĕне ыйтăр, ĕçе унăн йĕркелес хăварăр.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Малтанхи тапхăрĕнче чылайăш çын хăйне йĕркелесе пурăнать. Ĕçсене улăштармалла мар, йĕркелемелле пулать."
+  - "Эсир пăхса тăракан çынран мĕнле пулăшу кирлĕне ыйтăр та, пулăшу хăтлă чухне калама пĕрле паллă тăвăр."
+  - "Пĕчĕк ушкăнсем, шăпрах вăхăтсем тата кĕскерех çÿревсем чылай чухне питĕ пулăшаççĕ."
+  - "Ку вăхăтра эсир пăхса тăракан çын хăйĕн пурнăçĕ çинчен проектсене — сăмахран, кун-çул кĕнекине — йĕркелеме пултарать."
+  - "Вăйăсене кăмăл кÿрес тĕллевпе суйлăр. Тĕрĕслев пек туйăн паракан ĕçсене ан тăвăр."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Деменцин малтанхи тапхăрĕнче мĕнле ĕçсем лайăх?"
+    a: "Ытларах чухне эсир пăхса тăракан çын хăйĕн юратса тăвас ĕçсем: карта, вăйăсем, апат хатĕрлесси, пахча ĕçĕ, уçăлса çÿресси, кĕвĕ, тĕн ĕçĕсем, клубсем тата волонтерлă ĕç. Вĕсене кĕскерех, шăпрах е ансатрах тăвас пулать. Дневник çырни, çырусем çырни тата кун-çул кĕнеки хатĕрлени те ку тапхăрĕ валли лайăх."
+  - q: "Ĕçе хăй çине илмен пулăшма мĕнле?"
+    a: "Мĕнле пулăшу кирлĕне ыйтса пĕлĕр, час-часах тепĕр хут ыйтăр. Пулăшма юрăхлă чухне — сăмахран, сăмах е ят аса килмен чухне — çумне кĕме пĕр сăмах е паллă пĕрлештерĕр. Хăрушсăрлăх çук пулсан, ĕçе вăрттăнрах пулсан та, унăн хăй мелĕпе тума ирĕк парăр."
+  - q: "Деменци малтанхи тапхăрĕнче çĕнĕ ĕçсем тăрăшма юрать-и?"
+    a: "Кăмăл пур пулсан, юрать. Паллашă ĕçсем ытларах ансат, анчах чылайăш çын çĕнĕ ĕçрен те — сăмахран, деменципе пурăнакан çынсем валли уçăлса çÿрес ушкăнĕнчен, ÿкерчĕк урокĕнчен е юрă ушкăнĕнчен — кăмăл илме пултарать. Пĕрре тĕллевсĕр тĕрĕслесе пăхăр, мĕнле туйăн парать-ши."
+  - q: "Малтанхи тапхăрĕнче «миме вĕрентекен» приложенисем усăллă-и?"
+    a: "Хăш-пĕр çынсем головоломкăсене тата сăмах вăййисене юратаççĕ, вĕсен çав кăмăлĕ çеç те усăллă. Нимĕнле приложени те е вăйă та деменцине тупрама, чарма е вăл пымасть тесе çирĕплетмен. Вăйă ырату парсан е эсир пăхса тăракан çын хăйне йăнăшать тесе шутласан, ăна хăварăр."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Деменцин малтанхи тапхăрĕнче чылайăш çын малтанхи пекех пурăнать. Вĕсем ĕçлеме, волонтер пулма, туссемпе тĕл пулма тата кунне хăйсем йĕркелеме пултараççĕ. Ĕçсене улăштармалла мар; вĕсем кăмăллă пулса юлчĕ тесе кăштах пĕчĕк улшăнусем кăна кирлĕ. Сирĕн вырăн пăхса тăракан çынран ытларах юлашки çын вырăнĕ пек: пулăшакан, пĕрле планлакан тата ыйтнă чухне кăна çумне кĕрекен.
 
-## What activities are good in early-stage dementia?
+## Деменцин малтанхи тапхăрĕнче мĕнле ĕçсем лайăх?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Малтанхи тапхăрĕнче чи лайăх ĕçсем — эсир пăхса тăракан çын авалтан юратса тăвас ĕçсем, анчах вĕсене пĕчĕк те ансатрах туса. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) карта тата вăйăсем, сăмах тупмалли ĕçсем, уçăлса çÿресси, ташă, пахча ĕçĕ, чечексем йĕркелени, калавсем калани, ÿкерни, кĕвĕ, дневник, çырусем çырни, скрапбукинг, апат хатĕрлесси тата уяв традицисене сăнларать.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Ытларах чухне улшăнать ĕç мар, унăн лару-тăрăвĕ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) малтанхи тапхăрĕнчи çынсем хăйсен юратнă ĕçсенчен каялла чакма пултараççĕ тесе палăртать тата пысăк уявра çын алăкнă чухне пĕчĕк ушкăнра лайăхрах туйăнать тесе тĕслĕх парать. Мĕн йывăр пулнине уçă калаçăр та пĕрле йĕркелĕр.
 
-## Ask first, and agree on how to help
+## Малтанах ыйтăр та, мĕнле пулăшма пĕрлешĕр
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association малтанхи тапхăрĕ валли сĕнĕвĕсем](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ĕçсемпе те çыхăннă хăш-пĕр майлă хăнăхусене сĕнет:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Тÿрремĕн ыйтăр.** «Санăн валли кĕнеке клубĕ мĕнле ансатрах пулĕ?» — шухăшлама çавăнтан лайăхрах.
+- **Çын пултарать тесе шутлăр.** Хăрушсăрлăх çук пулсан, эсир пăхса тăракан çынна хăй тăрăшма ирĕк парăр, ĕçе хăй çине илмен чĕнтĕр.
+- **Паллă пĕрлештерĕр.** «Çумне кĕме юрать» тенине пĕлтерекен сăмах е паллă суйлăр — сăмахран, карта вăййинче ят аса килмен чухне.
+- **Тăтăшах ыйтса тăрăр.** Пулăшăв виçи килĕшет-и, ытла нумай-и е ытла сахал-и тесе ыйтăр.
 
-## Activity ideas for the early stage
+## Малтанхи тапхăрĕ валли ĕç сăнсем
 
-### Keep up roles and hobbies
+### Вырăнсемпе хоббисене сыхласа хăварăр
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Яланхи ĕçе малалла тăвăр.** Эрнере пĕрре волонтерлă ĕç, хор е клуб эрнене йĕрке парать. Ырату пулса пынă чухне кĕскерех е шăпрах вырăн лайăхрах пулма пултарать.
+- **Апат-çимĕçe пĕрле планлăр.** Кибет çине çÿресси йывăрланнă пулсан, Alzheimer's Association эсир пăхса тăракан çынна эрнен апат-çимĕç менюне планлама тата список çырма ыйтма сĕнет.
+- **Пĕрле апат пĕçерĕр.** Юратнă рецепта пăхса пĕрле ĕçлĕр. Пуçламас умĕн япаласене йĕрке тăрăх вырнаçтарăр, çапла кашни утăм курăнать.
+- **Пахчара ĕçлĕр.** Пахча вырăнне планлăр, вăррисем е чечексем суйлăр тата ĕçе пĕрле тăвăр. Эрнен пахча ĕçĕсен çырса хунă списокĕ пулăшать.
+- **Хоббине малалла тăвăр.** Вăрман ĕçĕ, вĕрни, чăмах вĕрни е модельсем тăвасси ансатрах ÿкерчĕксемпе тата лайăх çутăпа малалла пыме пултарать.
 
-### Games for enjoyment
+### Кăмăл кÿрес тĕллевпе вăйăсем
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Карта тата вăйăсемпе вылăр.** Паллашă вăйăсем чи ансат. Командăпа вылăр, çапла никам та пĕччен хуралмасть, шутне ансатрах тытăр е шутсăр вылăр.
+- **Пысăк çырса хунă сăмах тупмалли вăйă тăрăшăр.** [word search](/games/word-search/) вăййине экран çинче те, шăпрах вăхăтра пичетлесе те выляма пулать.
+- **Пазлсем пухăр.** Йывăр мар, лăпкă тăвас шайĕпе пайăрка суйлăр. [Picture puzzle](/games/picture-puzzle/) — экран çинчи кĕске вариант, тата [деменци валли пазлсем](/activities/puzzles/) сăнĕвĕмĕре вăл мĕнле суйламаллине ăнлантарать.
+- **Командăпа викторинăна хутшăнăр.** Хăш-пĕр çынсем командă викторинăсене юратаççĕ. Вăл тĕрĕслев пек туйăн паранса, урăх ĕç суйлăр е [ансат викторина ыйтăвĕсемпе](/activities/trivia/) тĕрĕслĕр — вĕсенче хурав вариантĕсем пур, шут та çук.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Кунта вăйăсем — кăмăл кÿрес тĕллевпе кăна. Нимĕнле вăйă та деменцине тупраймасть е чармасть тесе çирĕплетмен; тĕплĕнрех [миме вĕрентекен вăйăсем: тĕпчевсем мĕн калаççĕ](/brain-health/brain-games/) пайра вулама пулать.
 
-### Write, reflect and record
+### Çырăр, шухăшлăр, аса илĕр
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Дневник тытăр.** Alzheimer's Association диагноз хыпарĕ хыççăн туйăмсене ĕçлесе хăварма дневник çырнине сĕнет. Кунсерен каштах сăмах та çителĕклĕ.
+- **Кун-çул кĕнекине йĕркелĕр.** Малтанхи тапхăрĕ — эсир пăхса тăракан çын хăйĕн сăнӳкерчĕксене суйлама тата вĕсем çинчен калавсене çырма е калама лайăх вăхăт. [Аса илӳ ĕçĕсем](/activities/reminiscence/) пайĕпе паллашăр.
+- **Çырусем çырăр.** Ачине, тусна е малтанхи ĕçтешне çырнă çыру икĕ енчен те пĕлтерĕшлĕ пулма пултарать.
+- **Сăнӳкерчĕксем çинчен калаçăр.** [Photo pairs](/games/photo-pairs/) çемье сăнӳкерчĕксене лăпкă пĕрлештермелли вăйă тăвать, [conversation cards](/games/conversation-cards/) вара калаçу пуçлама ансат сăнсем парать.
 
-### Go out and move
+### Тулаш çине тухăр, хускалăр
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) иккĕшĕр те лăпкă туйăнă чухне паллашă çÿревсене малалла тума сĕнет. Вĕсене эсир пăхса тăракан çын валли чи лайăх вăхăтра планлăр тата ытла вăрăмлатмарăр.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Кĕске культурăлла çÿревсем.** Музей, кунти спектакль е ÿкерчĕк кăтартăвĕ — шăпрах вăхăтра пулсан лайăхрах.
+- **Ишев.** NIA кунě шăпрах вăхăтсенче бассейна кайма сĕнет.
+- **Уçăлса çÿрес ушкăнĕсем тата ташă урокĕсем.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ташă, тайцзи, йога, ишев тата уçăлса çÿрес ушкăнĕсене, пур пулсан, деменципе пурăнакан çынсем валли лару-тăрăвсемпе сессисене асăнать.
+- **Юрă ушкăнĕсем тата «аса илӳ» тĕл пулăвĕсем.** Деменципе пурăнакан çынсемпе вĕсене пăхса тăракан çынсем пĕр-пĕринпе тĕл пулма пултаракан лăпкă ушкăнсем.
 
-## Small changes that keep activities enjoyable
+## Ĕçсене кăмăллă тăвас пĕчĕк улшăнусем
 
-| If this is getting harder | Try this |
+| Енчен те йывăрланнă пулсан | Çапла тĕрĕслĕр |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Нумай çынлă е шавлă вырăнсем | Шăпрах вăхăтра кайăр, пĕчĕк ушкăн суйлăр, пÿлĕм хĕрринче ларар |
+| Çĕнĕ ятсене аса илесси | Кашни хутра çынсене ятпа паллаштарăр; ушкăнсенчен ят карточкисемпе усă курма ыйтăр |
+| Нумай утăмлă плансем | Утăмсене çырса хурăр е малтанах пурне те йĕрке тăрăх вырнаçтарăр |
+| Ывăнни | Кĕскерех çÿревсем, хыççăн кану, çав кун валли урăх ĕç ан планлăр |
+| Вăйăра шут тытса пыни | Командăпа вылăр, йĕркесене ансатлатăр е шута ан тытăр |
+| Сăмах тупасси | Вăхăт парăр; пĕрлештернĕ паллă çеç кăтартнă чухне сăмах сĕнĕр |
 
-## When to slow down
+## Мĕн чухне чакарма
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Ĕç кăмăлран ытла ырату парнă чухне ăна чарăр е улăштарăр. Яланах алăкни, хоббирен пăрăнни е «эп куна тума та пултараймастăп» тенни — тискере çыннисем мар, çутă калаçу пуçламалли сăлтавсем. Ытларах чухне çав ĕçĕн пĕчĕкрех вариантĕ усăллă. Эсир пăхса тăракан çынна ĕçе пуçлама тата утăмсене тăсма ытларах пулăшу кирлĕ пулсан, [вăтам тапхăрĕн ĕçĕсем](/activities/middle-stage/) сăнĕвĕсем лайăхрах килĕшме пултараççĕ. Çутă калаçу çинчен ытларах [калаçу сĕнĕвĕсем](/caregiving/communication-tips/) пайĕнче, анлăрах сăнсем валли [101 ĕç](/activities/ideas/) пайĕнче вулама пулать.
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Юлашки çынсене те пулăшу кирлĕ. Малтанхи тапхăрĕ — хăвăн валли та пулăшакан çыхăнусем тăвас лайăх вăхăт; [пăхса тăракан çын хăйĕн çине пăхни](/caregiving/caregiver-self-care/) пайĕпе паллашăр.

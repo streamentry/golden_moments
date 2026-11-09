@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Како играти съ чловѣкомь съ памѧти ѿѧтиѥмь"
+seoTitle: "Игры съ чловѣкомь съ памѧти ѿѧтиѥмь"
+description: "Простъ наставникъ: како играти съ чловѣкомь, живѫщимь съ памѧти ѿѧтиѥмь — оуготованиѥ, тишина, не исправлꙗти, оулєгчєниѥ и коньць."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Игрѫ приимѣтє ꙗко врѣмѧ въкоупѣ, а нє ꙗко искоушєниѥ. Избєрѣтє тихо врѣмѧ
+  дьнє, сѧдѣта рѧдомь въ тихои храминѣ и прѣдъложита ѥдиноу простоу игрѫ.
+  Оставитє чловѣкоу свои мѣръ, нє исправлꙗитє бєзьврѣдьнъихъ грѣшєнии, при
+  пьрвѣмь знамєнии троуда оулєгчита игрѫ и обрꙑтєтє образъ въ бєсѣдѫ.
+  Прѣстанѣта, доколѣ ѥщє добро ѥсть. Рано коньчати или просто съмотрити
+  въкоупѣ ѥсть добръ исходъ.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Цѣль ѥсть радость и съвѧзь, а нє съврьшєниѥ или правии отъвѣти."
+  - "Прѣждє оуготовита: тихаꙗ храминѣ, добръ свѣтъ, очьнъи стькла и слоуховъи помоштьници на мѣстѣ, тєлєвизоръ оугашєнъ, ѥдина игра готова."
+  - "Нє исправлꙗитє бєзьврѣдьнъихъ грѣшєнии. Рьцѣта «Попытаимъ сицє» или просто продължита."
+  - "Оулєгчита игрѫ прѣждє нєгодованиꙗ: мьнѣѥ образъ, мьнѣѥ избора, образи ꙗвлєни оставьтє."
+  - "Образи бѫдѫтъ начѧло повѣсти: рьцѣтє «Повѣжь ми о...» вьмѣсто «Помьниши ли...?»"
+  - "Прѣстанѣта при пьрвъихъ знамєниихъ оуморѥниꙗ или пєчали. Рано прѣстати ѥсть оуспѣхъ, а нє нєоудольство."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Колико врѣмєнє подобаѥть играти?"
+    a: "Нѣсть ѥдиного праваго врѣмєнє. Мъногъимь довълѣють нѣколико минѫтъ, а инъгда ѥдинъ крѫгъ довьлѥѥть. Съмотритє на чловѣка, а нє на часъ, и прѣстанѣта, доколѣ ѥщє видить сѧ съпокоинъ."
+  - q: "Подобаѥть ли дати ѥмоу побѣдити или творити сѧ, ꙗко нє вижѫ грѣшєниꙗ?"
+    a: "Въ съвькоупьнѣи тихои игрѣ нѣсть чьто побѣдити или погоубити. Ащє грѣшєниѥ нє троудить чловѣка, оставитє ѥ. Ащє видить сѧ, ꙗко троудить, тихо помозѣтє или оулєгчита игрѫ бєзъ оуказаниꙗ."
+  - q: "Чьто, ащє хочєть пачє съмотрити, како азъ играѭ?"
+    a: "То добро ѥсть. National Institute on Aging съвѣтъ даѥть оставити чловѣкоу просто съмотрити, ащє томоу радоуѥть сѧ пачє. Глаголита о томь, ѥжє видита, и призъовѣта ѥго оуказати или избьрати, ѥгда хощєть."
+  - q: "Сѫть ли си игры искоушєниѥ памѧти?"
+    a: "Ни. Нашѧ игры сѫть простъи съвькоупьнъи дѣꙗниꙗ ради радости и бєсѣдъі. Тъи нє сѫть искоушєниѥ памѧти, ничьсогожє нє мѣрѧть и нє сѫть лѣчьба памѧти ѿѧтиꙗ."
+  - q: "Коѭ игрѫ добрѣѥ начинати?"
+    a: "Начьнѣта отъ наипростьѥишѧꙗ, ꙗжє подобьна чловѣкоу. Picture Pairs съ 4 плочицами и ꙗвлєнъими образъі или Find the Same съ двѣма изборама сѫть тихъи начѧтъци. Conversation Cards добрѣ подъходѧть, ащє чловѣкъ любить бєсѣдовати пачє нєжє тъкати."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Добраꙗ игра съ чловѣкомь, живѫщимь съ памѧти ѿѧтиѥмь, нє подобить сѧ сътѧзаниѭ. Та подобить сѧ двѣма чловѣкома, сѣдѧщима близъ, оуказѫщима на образъі, смѣѭщима сѧ отъ рєчєниꙗ и бєсѣдоующима о томь, ѥжє приходить. Игра ѥсть тъкъмо вина быти въкоупѣ.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Сь наставникъ кажєть, како оуготовати, како дрьжати мѣръ игръі, чьто рєщи, ѥгда чьто авить сѧ «зьлѣ», како сътворити вьсѧкоу игрѫ льжьшѫ или мало трѫдьнѣишѫ, како обрѣсти бєсѣдѫ и како разоумѣти, къгда прѣстати. Сє дѣиствоуѥть и за нашѧ [игры](/games/) и за картъі, складьницѧ и дъскънъıѧ игры, ꙗжє оужє иматє.
 
-## What is the best way to play a game with someone who has dementia?
+## Къи ѥсть добръ пѫть играти съ чловѣкомь съ памѧти ѿѧтиѥмь?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Съмотритє на радость, а нє на оуспѣхъ. То ѥсть главьнъи съвѣтъ отъ [наставлєниꙗ Alzheimer's Association о дѣꙗниихъ](https://www.alz.org/help-support/caregiving/daily-care/activities): опьрѣтє сѧ на оумѣниꙗ, ꙗжє чловѣкъ ѥщє имать, помозѣтє ѥмоу начѧти, съврьшитє трѫдьнъи части сами и нє оукарꙗитє ни исправлꙗитє бєзьврѣдьнъихъ дѣꙗнии.
 
-In practice that means:
+Въ дѣлѣ сє значитъ:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Сѧдѣта рѧдомь, а нє противѫ.** Къгда сѧдита рѧдомь, оба видита экранъ или столъ, и помошть авлꙗѥть сѧ ꙗко съработа, а нє ꙗко надъзоръ.
+- **Прѣдъложита ѥдиноу игрѫ въ ѥдино врѣмѧ.** Мъногоѥ избираниѥ можєть авити сѧ ꙗко искоушєниѥ прѣждє начѧла.
+- **Послѣдоуита ѥго пѫти.** Ащє хочєть тъкати образъі въ своѥмь чинѹ, бєсѣдовати о ѥдиномь образѣ дєсѧть минѫтъ или прѣстати по двою крѫгоу, то ѥсть дьньшьнꙗꙗ игра.
+- **Чьтѣта добръи часъı, а нє съврьшєнъи крѫгъі.** Оусмивъ, повѣсть или тихъ полъ часа сѫть исходъ, ѥгожє ищєта.
 
-## How do I set up before we start?
+## Како оуготовати прѣждє начѧла?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Нѣколико минѫтъ оуготованиꙗ оудрьжить мъного нєгодованиꙗ, ѥжє чловѣци часто винѧть самоу игрѫ.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Избєрѣтє добрѣишєѥ врѣмѧ дьнє.** [Наставлєниѥ National Institute on Aging (NIA) о прилагожьствѣ дѣꙗнии](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) съвѣтъ даѥть строити дѣꙗниꙗ въ то врѣмѧ дьнє, къгда чловѣкъ ѥсть въ добрѣишємь състоꙗнии. Мъногъимь то ѥсть по срѣдѣ оутра. Поздьнъи полоудьнь часто трѫдьнѣи; видитє [тихъи дѣꙗниꙗ поздьнꙗго полоудьнє](/caregiving/late-day-restlessness/).
+2. **Сътворитє храминѫ тихѫ.** Оугаситє тєлєвизоръ и гласило и затворитє двьри, ащє можєтє. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) съвѣтъ даѥть оумьнити шоумъ и мѧтєжь прѣждє бєсѣдъі.
+3. **Прьвѣѥ съмотритє оу добьствѣ.** Питиѥ близъ, потрѣба въ хоульствоу прѣждє, оудобьно сѣдалищє, очьнъи стькла и слоуховъи помоштьници на мѣстѣ.
+4. **Добрѣ освѣтитє мѣсто.** Ꙗръкъ, равьнъ свѣтъ бєзъ блистаниꙗ на экранѣ помагаѥть видѣти образъі.
+5. **Оуготовитє игрѫ прѣждє сѣдѣниꙗ.** Отъвьрзѣтє ѭ, избєрѣтє оуставъі и гласъ сами. Потомь обрꙑтѣтє экранъ къ нємоу. За съвѣтъі о дъщицѣ видитє [оустроѥниѥ дъщицѧ или тєлєфона](/caregiving/tablets-and-screens/).
+6. **Поставитє оустроиство.** Стоꙗло или обложька, ꙗжє дрьжить дъщицѫ прѧмо, да никътожє нє дрьжить ѥѩ, и оуказати лєгчѣѥ ѥсть.
 
-## How do I invite them without pressure?
+## Како призъвати бєзъ нѫжьдѧ?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Сътворитє призъваниѥ просто и льгъко отърєщи. Сицєвъи рѣчи часто добрѣ подъходѧть:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Обрѣтохъ образъі сада. Хощєши ли съмотрити ѩ съ мъноѭ?»
+- «Можєши ли ми помошти съ сєю складьницєѭ? Азъ нє вѣмь, како.»
+- «Хощєши ли дьньсь цвѣтъі или птицѧ?» (изборъ мєждоу двѣма лєгчѣи ѥсть нєжє отъврьстъ въпросъ)
+- «Творѭ книжицѫ сєстрѣ твоѥи. Коѭ краскѫ да избєрѭ?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association съвѣтъ даѥть изъꙗснити винѫ дѣꙗниꙗ, на примѣръ сътворити книжицѫ дроугоу, понєжє вина даѥть ѥмоу съмъіслъ. Просити помошти такождє помагаѥть, понєжє чловѣкъ чоуѥть сѧ потрѣбьнъ.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ащє рєчєть «ни», приимѣтє то. Попытаита пакъі поздѣѥ или прѣдъложита ино. Нашь наставникъ [чьто творити, ѥгда рєчєть «ни»](/caregiving/when-they-say-no/) кажєть болѣ.
 
-## How long should a game last, and how fast should we go?
+## Колико врѣмєнє трьваѥть игра и колико скоро ходити?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Оставитє чловѣкоу свои мѣръ и мыслитє о кратъцѣхъ часѣхъ. Нѣсть извѣстьнаꙗ наилѹчьшаꙗ дльгота за съвькоупьноу игрѫ. Дъвѣ до пѧти тихъ минѫтъ могѫтъ быти цѣло дѣꙗниѥ.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Жьдѣта дльжѣ, нєжє авлꙗѥть сѧ обытьно.** NIA съвѣтъ даѥть дати болѣ врѣмєнє на отъвѣтъ и нє прѣсѣкати. Почьтѣта до дєсѧти въ оумѣ прѣждє помошти.
+- **По ѥдинои стѫпьни.** Даита ѥдино кратъко повєлѣниѥ («Тъкни образъ»), потомь ждита. Покажита, а нє тълъкоуита: оукажита, къдє тъкнѫти.
+- **Покоита сѧ свободьно.** Ащє прѣстанєть бєсѣдовати о образѣ, игра можєть ждати. Нѣсть потрѣбъі спѣшити.
+- **Оставитє ѥмоу съмотрити.** NIA кажєть, ꙗко нѣции хочѫть пачє съмотрити, и то ѥсть добръ изборъ.
 
-## Should I correct wrong answers?
+## Подобаѥть ли исправлꙗти нєправъи отъвѣтъі?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ни. Тихо исправлꙗти чловѣка пакъі и пакъі кажєть ѥмоу, ꙗко нє оуспѣваѥть, ащє и добрѣ мыслитє. Alzheimer's Association съвѣтъ даѥть нє оукарꙗти и нє исправлꙗти бєзьврѣдьнъихъ дѣꙗнии. Въ игрѣ почти вьсꙗко грѣшєниѥ ѥсть бєзьврѣдьно.
 
-| Instead of | Try |
+| Вьмѣсто | Попытаитє |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Ни, то нє право.» | «Попытаимъ сицє.» (примѣръ, ижє даѥть NIA) |
+| «То нє съвъпадєниѥ. Съмотри пакъі.» | Ничєсогожє нє рьцѣта и възьмѣта слѣдоуѭщии ходъ, или «О, оба сѫть чрьвлєна.» |
+| «Помьниши ли, къто сє ѥсть?» | «Повѣжь ми о сємь образѣ.» |
+| «То оужє сътвори.» | «То добро ѥсть. Сътворимъ пакъі.» |
+| «Нѫ, тъі вѣси сє.» | «Хощєши ли, да покажѫ коньць?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Ащє грѣшєниѥ ꙗвѣ троудить ѥго, помозѣтє тихо. Оукажитє на правъи образъ, възьмѣтє ходъ сами или оулєгчита игрѫ въ слѣдоуѭщємь крѫзѣ. Ащє рєчєниѥ коньчаѥть сѧ смѣшьно, посмѣита сѧ въкоупѣ. Ѥго коньць можєть быти лѹчии.
 
-## How do I make a game easier or harder?
+## Како сътворити игрѫ льжьшѫ или мало трѫдьнѣишѫ?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Прилаганта игрѫ къ чловѣкоу въ тъ дьнь, а нє къ имєни стѫпєни. Тъждє чловѣкъ можєть трѣбовати простѣишєѥ вєчєромь нєжє оутромь. Пьрвъи съвѣтъ NIA ѥсть съгласити дѣꙗниѥ съ тѣмь, ѥжє чловѣкъ можєть, и оустрoити, да чоуѥть сѧ оуспѣшьнъ.
 
-| Game | Make it easier | Make it a little harder |
+| Игра | Сътворитє льжьшє | Сътворитє мало трѫдьнѣѥ |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Начьнѣта съ 4 плочицами и оставитє образъі ꙗвлєнъі | Болѣ плочицъ или съкръита образъі, ащє то лєгъко |
+| [Find the Same](/games/find-the-same/) | 2 избора | До 4 изборъ |
+| [Sort Together](/games/sort-together/) | Въі дрьжитє образъ, онъ оуказоуѥть на кошьницѫ | Тъ тъкнєть образъ и кошьницѫ самъ |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 чѧсти, прьвѣѥ бєсѣдоуита о цѣлѣмь образѣ | 9 чѧстии |
+| [Finish the Saying](/games/finish-the-saying/) | Покажитє коньць, потомь рьцѣта въкоупѣ | Оставитє ѥмоу рєщи коньць прѣждє тъканьꙗ |
+| [Word Search](/games/word-search/) | Напєчатаита, ищита ѥдино слово въкоупѣ, оукажита пьрвоѭ боукъвѫ | Оставитє ѥмоу избьрати слѣдоуѭщєѥ слово |
+| [Coloring](/games/coloring/) | Въі избєрѣта двѣ краскѣ, онъ избєрєть мєждоу нима | Тъ избєрєть вьсѧ краскъі |
+| [Conversation Cards](/games/conversation-cards/) | Просто съмотрита на образъ въкоупѣ | Оупотрѣбита отъврьстъи въпросъі на картѣ |
+| [Photo Pairs](/games/photo-pairs/) | Нѣколико любьмъихъ родьнъихъ образъ | Приложитє болѣ образъ |
+| [Picture Bingo](/games/picture-bingo/) | Помоштьникъ сѧдить при комьждо игрьци | Игрьци отъмѣчаѭть свои картъі сами |
+| [Calm Breathing](/games/calm-breathing/) | Просто сѧдѣта и съмотрита въкоупѣ | Дъішита тихо въкоупѣ |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Знамєниꙗ, ꙗко игра ѥсть прѣтрѫдьна: дльгъи покои съ пєчалиѭ, а нє съ мъішлєниѥмь, чѧстъи рѣчи «нє могѫ», отъталаниѥ оустроиства или грѣшєниꙗ, ꙗжє троудѧть ѥго. Знамєниꙗ, ꙗко можєть быти прѣльгъка: нѹда или рѣчь, ꙗко то ѥсть дѣтьско. Ащє сє боудєть, почьтѣтє то и прѣмѣнита на чьто, ѥжє авлꙗѥть сѧ възьрасло, на примѣръ исканиѥ словєсъ, складьницѫ отъ истиньнааго образа или бєсѣдѫ о образѣ прѣжьнꙗго дѣла.
 
-## How do I turn a game into a conversation?
+## Како обрѣсти бєсѣдѫ отъ игръі?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Оупотрѣбита вьсꙗкъ образъ ꙗко призъваниѥ къ бєсѣдѣ и приимѣта вьсє, ѥжє рєчєть, ꙗко добръ отъвѣтъ. Мъногъимь родинамь сє ѥсть наилѹчьшаꙗ чѧсть игръі.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Въпрашаита отъврьсто, бєзъ нєправаго отъвѣта.** «Чьто видиши?» «Коѥ любиши?» «Повѣжь ми о сицєи коухьни.»
+- **Прьвѣѥ повѣжитє въі.** «Баба моꙗ имѣ пьса подобьна сємоу.» Ваша повѣсть оулєгчить ѥмоу повѣдати свою.
+- **Идѣта по пѫти повѣсти.** Ащє образъ колєсницѧ вєдєть къ повѣсти о пѫти, повѣсть ѥсть дѣꙗниѥ. Оставитє игрѫ.
+- **Нє искоушаита истинъі.** Въ въспоминаниї приꙗтьна бєсѣда болѣи имать цѣнѫ нєжє правъи дробьнъıѧ рѣчи. Ащє повѣсть измѣнить сѧ отъ прѣжьнꙗго, радоуита сѧ новои.
+- **Оупотрѣбита въложєнъи въпросъі.** [Finish the Saying](/games/finish-the-saying/) по коѥмьждо рєчєнии даѥть въпросъ за бєсѣдѫ, а [Conversation Cards](/games/conversation-cards/) сътворєнъі сѫть за то. [Photo Pairs](/games/photo-pairs/) оупотрѣблꙗѥть вашѧ родьнъıѧ образъı, и ти часто въздвигаѭть богатъи повѣсти.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Болѣ мъіслии ѥсть въ нашиихъ наставницѣхъ о [дѣꙗниихъ въспоминаниꙗ](/activities/reminiscence/) и [съвѣтѣхъ о бєсѣдѣ](/caregiving/communication-tips/).
 
-## When should we stop?
+## Къгда подобаѥть прѣстати?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Прѣстанѣта при пьрвъихъ знамєниихъ оуморѥниꙗ или пєчали, а добрѣѥ мало прѣждє. Alzheimer's Association съвѣтъ даѥть прѣстати или измѣнити дѣꙗниѥ, ѥгда въниманиѥ оухoдить или нєгодованиѥ въстaѥть.
 
-Watch for:
+Съмотрита на:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- зѣваниѥ, ослабьно сѣдѣниѥ или очи, отходѧщѧ отъ экрана;
+- нєпокои, въстаниѥ или просѧщєѥ отити;
+- въздъіханиѥ, кратъкъи отъвѣтъі или «Азъ нєсъмь добръ въ семь»;
+- тъканиѥ бєзъ чина или отъталаниѥ оустроиства;
+- сльзъі, раздражьство или наглѫ измѣнѫ настроѥниꙗ.
 
-How to stop well:
+Како добро прѣстати:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Съврьшита на льгъцѣмь.** Ѥщє ѥдино съвъпадєниѥ, ѥжє можєть сътворити, или послѣдьнии образъ за оудивлєниѥ.
+- **Рьцѣта о себѣ.** «Хощѫ чашѫ чаꙗ. Прѣстанємъ ли здѣ?» Сє нє кажєть, ꙗко нє добро сътвори.
+- **Прѣидѣта къ тѣлєсьноу или тихоу.** Кратъка ходьба, ꙗдь, съгъıбаниѥ платъ или пѣснь.
+- **Рьцѣта нѣчьто топло.** «Радъ бѣхъ съ тобоѭ сє творити.» Нє хвала за «право», нъ радость о врѣмєни въкоупѣ.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Рано прѣстати, измѣнити мысль или оставити игрѫ и просто сѣдѣти въкоупѣ — вьсє то сѫть добръи исходи.
 
-## Can we play in a group or over a video call?
+## Можємъ ли играти въ дроужинѣ или чрѣзъ видѣниѥ?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Да, съ малъıмь оуготованиѥмь. Въ дроужинѣ дрьжитє мало чловѣкъ, посадитє помоштьникъі подлѣ тѣхъ, иже трѣбоують, и избєрѣтє игрѫ съ ꙗвьнъıмь съвькоупьнъıмь съмотрєниѥмь. [Picture Bingo](/games/picture-bingo/) имать пєчатьнъıѧ картъı и зъваниѥ на экранѣ за дроужинъı. Видитє [дѣꙗниꙗ за дроужинъі въ домоу пєчали](/activities/care-home-groups/) за болѣ.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Чрѣзъ видѣниѥ чловѣкъ на зовѣ можєть описати образъ, а чловѣкъ въ храминѣ оуказоуѥть и тъкнєть. Дрьжитє зъваниꙗ кратъка и знаѥма. Нашь наставникъ о [тєлєфоньнъихъ и видьнъихъ зъваниихъ](/activities/phone-and-video-calls/) имать болѣ съвѣтъ.
 
-## What if a game just isn't working?
+## Чьто, ащє игра нє дѣиствоуѥть?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Нѣции дьни ничьтожє нє подасть сѧ, и то нѣсть вина ваша ни ѥго. Отъложитє игрѫ и пытаита въ ино врѣмѧ дьнє, съ иноѭ игроѭ или бєзъ игръі. Мъного добръихъ дѣꙗнии нє имѫть ничєсогожє съ экранъі: пѣснь, съгъıбаниѥ платъ, съмотрєниѥ образъ въ родьнѣи кънизѣ или кратъка ходьба. Видитє нашѧ [мъıсли о дѣꙗниихъ](/activities/ideas/) за болѣ.

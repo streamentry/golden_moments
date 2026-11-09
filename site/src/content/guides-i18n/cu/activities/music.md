@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Моусикїиска дѣла при оумьнѣмъ ослаблениї"
+seoTitle: "Моусикїꙗ при оумьнѣмъ ослаблениї: съвѣти"
+description: "Како дѣлити сѧ моусикїѥѭ съ человѣкомъ живѫштемъ съ оумьнымъ ослаблениѥмъ: свои пѣсньныи съборъ по врѣменємъ и родомъ, 15 простыхъ дѣлъ и съвѣти за всѧкъ чинъ."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Моусикїꙗ ѥстъ ѥдино отъ наипростѣишихъ дѣлъ, ѥже дѣлити съ человѣкомъ
+  живѫштемъ съ оумьнымъ ослаблениѥмъ. Състави свои пѣсньныи съборъ отъ
+  моусикїѩ ѥго юности, вѣры и рода, поущаи ѭ безъ възвѣштениї и безъ инаго
+  шума, и поитє, плєштитє рѫкама, кꙑваитє сѧ или просто слоушаитє въкоупѣ.
+  Избєри тихѫ или живѫ моусикїѭ по чиноу, дрьжи гласъ тихъ и прѣстани, ащє
+  пѣснь оскръблꙗѥтъ ѥго.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Наилѣпьши ѥстъ свои моусикїꙗ: роди, ѩжє люблꙗашє въ юности, и моусикїꙗ отъ ѥго вѣры, обычаꙗ и родьныхъ събытиї."
+  - "Поущаи ѥдино дѣло въ врѣмѧ, безъ възвѣштениї и ꙗко видѣниѥ исклюючєно."
+  - "Пѣниѥ, плєсканиѥ рѫкама, кꙑваниѥ и просто слоушаниѥ вьсѧ сѫтъ пѫтиѥ причѧштєниꙗ."
+  - "Оупотрѣби тишѣишѫ моусикїѭ за оупокоѥниѥ, а живѣишѫ за въздвижєниѥ доуха, и назираи како отъвѣштꙗѥтъ человѣкъ."
+  - "Изслѣдованиꙗ о оустроѥныхъ моусикїискыхъ съборѣхъ сѫтъ оумалєна; прѣдълагаѥмъ моусикїѭ ꙗко приꙗтьно дѣлєниѥ, а нє ꙗко лѣчьбѫ."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Кꙑꙗ моусикїꙗ ѥстъ наидобра за человѣка живѫшта съ оумьнымъ ослаблениѥмъ?"
+    a: "Моусикїꙗ, ѭжє человѣкъ знаѥтъ и любить отъ дльга врѣмєнє, чѧсто отъ дєсѧтихъ и дъва дєсѧтихъ лѣтъ жиꙁни, и моусикїꙗ отъ ѥго вѣры, обычаꙗ и родьныхъ праꙁдьникъ. Ащє възможьно ѥстъ, да изберєтъ самъ. Съмотри ѥго лицє и тѣло, да оувѣси чьто любить, и остави то, ѥжє видитъ сѧ оскръблꙗти ѥго."
+  - q: "Подобаѥтъ ли оупотрѣблꙗти слоушала?"
+    a: "Нѣции человѣци любятъ слоушала, занє тъи заграждаѭтъ шоумъ, а дроуꙃии обрѣтаѭтъ ѩ нєприꙗтьна или съмѫтъна. Попробоуи прьвѣѥ гласникъ, да можєши слоушати въкоупѣ. Ащє оупотрѣблꙗѥши слоушала, дрьжи гласъ ниꙁъкъ и бѫди блиꙁъ."
+  - q: "Можєтъ ли моусикїꙗ помошти при нєпокоѥниї или съмѫштєниї?"
+    a: "Тиха, ꙁнаѥма моусикїꙗ можєтъ помошти сътворити мирьнъ чинъ, и Alzheimerʼs Association съвѣтоуѥтъ оупотрѣблꙗти моусикїѭ за сътворєниѥ жєлаѥмааго чиноу. Сє нє дѣѥтъ сѧ въсєгда. Ащє человѣкъ ѥстъ въ мѫцѣ, провѣри тако жє болѣꙁнь, гладъ, шоумъ или оутомлєниѥ."
+  - q: "Могѫтъ ли человѣци въ поꙁдьнѣмъ чиноу оумьнааго ослаблєниꙗ ѥщє наслаждати сѧ моусикїѥѭ?"
+    a: "Мъноꙃи могѫтъ. Alzheimerʼs Association поминаѥтъ, ꙗко человѣкъ въ поꙁдьнѣмъ чиноу можєтъ ѥщє оударꙗти мѣрѫ или пѣти съ пѣсниѭ отъ дѣтьства. Сѧди блиꙁъ, поущаи моусикїѭ тихо и дрьжи ѥго рѫкѫ или кꙑваи сѧ съ нимь."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Моусикїꙗ ѥстъ ѥдино отъ наипростѣишихъ дѣлъ, ѥжє можєши дѣлити съ человѣкомъ живѫштемъ съ оумьнымъ ослаблениѥмъ. Она ничьсожє нє проситъ: ни правыхъ отъвѣтовъ, ни стопъ за слѣдованиѥ. Ꙁнаѥма пѣснь можєтъ принєсти оусмѣхъ, топътаниѥ ногъ или нѣколико словєсъ съпѣтыхъ, и въ дьнь, ѥгда бєсѣда ѥстъ трѫдьна. Вьсє, ѥгожє трѣбоуѥши, ѥстъ права моусикїꙗ за сєго чловѣка и тихъ часъ, да ѭ поустиши.
 
-## What music activities work for people with dementia?
+## Каꙗ моусикїиска дѣла дѣють добро при оумьнѣмъ ослаблениї?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Слоушаниѥ, пѣниѥ, плєсканиѥ рѫкама, кꙑваниѥ и бєсѣда о моусикїи вьсѧ дѣють добро. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) съвѣтоуѥтъ поущати моусикїѭ, бєсѣдовати о моусикїи и творьци, пѣти или плѧсати съ ꙁнаѥмами пѣсньми, и ходити на съборы или моусикїиска дѣла въ обьштинѣ. [Alzheimerʼs Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) притъкаѥтъ, ꙗко движєниѥ, ꙗкожє плєсканиѥ или плѧсаниѥ, можєтъ приложити радость, и ꙗко моусикїꙗ можєтъ бꙑти пѫть съвѧꙁаниꙗ, ѥгда словєса станѫтъ трѫдьна.
 
-## How do you build a personal playlist?
+## Како съставити свои пѣсньныи съборъ?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Наиполєꙁьнѣишєѥ, ѥжє можєши сътворити, ѥстъ съборъ пѣснии, ѩжє имѫтъ значєниѥ за сєго чловѣка. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) тако жє поминаѥтъ моусикїѭ съ своимъ значєниѥмъ. Сє ѥстъ простъ пѫть, да ѥго съставиши.
 
-### Start with their life
+### Начи съ ѥго жиꙁниѭ
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Ѥго дєсѧта и дъва дєсѧти лѣта.** Помысли, чьто бѣашє на гласѣхъ, на плѧсаниїхъ и въ видѣниїхъ, ѥгда бѣашє юнъ.
+- **Вєлици чиноу.** Моусикїꙗ на ѥго брацѣ, прьвъ плѧсъ, любима моусикїꙗ пѫти рода.
+- **Вѣра и обычаи.** Пѣсни вѣры, дѫховьна моусикїꙗ или пѣсни на прьвомъ ѥго ѩꙁыцѣ.
+- **Дѣло и слоужьба.** Походьна моусикїꙗ, дѣльныꙗ пѣсни или моусикїꙗ съвѧꙁана съ врѣмєнємъ въ воиньствѣ.
+- **Чьто помьнитъ родъ.** Въпроси братиѭ, чѧда и старыѧ дроугы, чьто въсєгда поущаахѫ или поꙗхѫ.
 
-### Think in genres, not just songs
+### Мꙑсли родꙑ, а нє тъкъмо пѣсньми
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ащє нє вѣси отъкѫдє начѧти, попробоуи по нѣколико часинъ отъ сихъ родовъ и назираи отъвѣтъ: вєлика моусикїꙗ и свингъ, доу-вопъ, Мотоунъ и соулъ, раньнъ рокъ и ролъ, моусикїꙗ сєла, блоуграсъ, пѣсни вѣры, пѣсни отъ видѣниї, джаꙁъ, латиньска моусикїꙗ ꙗкожє болєро или мариачи, полъка, народьна и класьна моусикїꙗ. Съхрани то, ѥжє приноситъ оусмѣхъ или топътаниѥ ногъ; остави то, ѥжє приноситъ намръштєниѥ.
 
-### Make it easy to play
+### Сътвори ѭ лєгъкѫ за поущаниѥ
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Бєꙁ възвѣштениї.** Alzheimerʼs Association прѣдъостєрєгаѥтъ, ꙗко възвѣштєниꙗ могѫтъ сътворити съмѫштєниѥ. Оупотрѣби съхранєнѫ моусикїѭ, крѫгы, плочѫ или слоужьбѫ бєꙁ възвѣштєниї.
+- **Ѥдино просто орѫдиѥ.** Гласникъ съ ѥдиноѭ вєликѫ пѫговицєѭ или съборъ пѣснии готовъ, да къто любо можєтъ начѧти.
+- **Дъва кратька събора.** Тихъ съборъ за оупокоѥниѥ и живъ съборъ за въздвижєниѥ доуха.
+- **Ꙁнаменаи.** Напиши имѧ чловѣка и «любима моусикїꙗ» на орѫдии, да родъ и слоужитєлє въ посѣштєниї могѫтъ ѥѥ оупотрѣбити.
 
-## 15 music activities to try
+## 15 моусикїискыхъ дѣлъ за попростьство
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Слоушаи въкоупѣ.** Сѧди рѧдомъ бєꙁ инааго дѣла. Слоушаниѥ ѥстъ цѣло дѣло.
+2. **Пои въкоупѣ.** Начи пѣти самъ. Жьжьнаниѥ или движєниѥ оустънъ съ словєсꙑ тако жє ѥстъ причѧштєниѥ.
+3. **Плєшти или оударꙗи мѣрѫ.** Оударꙗи колѣна, трапєꙃѫ или оупотрѣби малъ рѫчьнъ боубьнъ или трѧсило.
+4. **Тихъ плѧсъ.** Дрьжита сѧ за рѫцѣ и кꙑваита сѧ въ поварьници, или плѧшита сѣдѧшта, движѫшта рѫцѣ въкоупѣ.
+5. **Плѧсъ съ платъцємъ.** Махаи льгъкꙑми платъци по мѣрѣ моусикїѩ, стоѩ или сѣдѧ.
+6. **Бєсѣдоуи о моусикїи.** Приꙁъваи, а нє искоушаи: «Сє слꙑшитъ сѧ ꙗко плѧсалищє. Повѣжь ми о плѧсаниїхъ.» Николи жє нє въпрашаи «Помьниши ли си сѭ пѣснь?»
+7. **Поусти цѣлъ съборъ.** Поусти плочѫ, ѭжє люблꙗашє, отъ начала до конца, съ кавѫ.
+8. **Съмотри окровъ събора.** Стари окрови плочъ сѫтъ добри за бєсѣдѫ о одѣниї, колєсницахъ и лицихъ.
+9. **Съмотри моусикїиско видѣниѥ.** Моусикїиско видѣниѥ или съборъ отъ ѥго врѣмєнє ѥстъ добръ за вєчєръ. Прѣстаи за почиваниѥ.
+10. **Играи на орѫдии, ѥжє знаѥтъ.** Прѣжьнии пѣвьць на клавирѣхъ или гѫслѣхъ можєтъ наслаждати сѧ простымъ играньмь. Поꙁдѣѥ довьлѣѥтъ иꙁбирати нѣколико ꙁвѫковъ въкоупѣ.
+11. **Моусикїꙗ при дѣлѣ.** Поущаи любимыꙗ пѣсни, ѥгда съгъваѥши риꙁꙑ или оустраꙗѥши трапєꙃѫ.
+12. **Оутрьнꙗꙗ пѣснь.** Начи всѧкъ дьнь тои жє вєсєлѫ пѣсниѭ ꙗко часть обычаꙗ.
+13. **Пои пѣсни вѣры.** Поущаи моусикїѭ отъ ѥго вѣрьнааго обычаꙗ и поитє въкоупѣ.
+14. **Присѧди къ пѣвьчьскоу събороу.** NHS поминаѥтъ пѣвьчьскыѧ съборꙑ ꙗко добры за доухъ и добро бꙑтиѥ. Въпроси блиꙁъ о съборѣхъ добрыхъ за чловѣкꙑ съ оумьнымъ ослаблениѥмъ.
+15. **Иди на живѫ моусикїѭ.** Кратькъ обьштьнъ съборъ или моусикїꙗ подъ нєбєсьмь. Сѧди блиꙁъ исхода и иꙁиди, ѥгда хощєши.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+За льгькѫ игрѫ съ словєсꙑ и ꙁнаѥмами рєчєньми попробоуи [доконьчаи рєчєниѥ](/games/finish-the-saying/), иде жє въсєгда можєши покаꙁати коньць.
 
-## Matching music to the moment
+## Прилагоди моусикїѭ къ чиноу
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimerʼs Association съвѣтоуѥтъ оупотрѣблꙗти моусикїѭ за сътворєниѥ жєлаѥмааго чиноу: тихѫ моусикїѭ за мирьнъ чинъ и живѫ пѣснь отъ юности чловѣка за въздвижєниѥ доуха.
 
-| Moment | Try | Tip |
+| Чинъ | Попробоуи | Съвѣтъ |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Въстаниѥ | Ꙁнаѥма, вєсєла пѣснь | Та жє пѣснь коѥго жє оутра бꙑваѥтъ тихъ ꙁнакъ |
+| Дѣла | Живыꙗ любимыꙗ пѣсни | Моусикїꙗ можєтъ сътворити дѣло ꙗко дрѫжьство |
+| Ꙗдєниѥ | Тиха моусикїꙗ бєꙁ словєсъ | Дрьжи ѭ тихѫ, да нє борєтъ сѧ съ ꙗдєниѥмь |
+| Поꙁдьнъ дьнь | Тиха, ꙁнаѥма моусикїꙗ въ добрѣ свѣтѣ | Вижь [поꙁдьнє нєпокоѥниѥ](/caregiving/late-day-restlessness/) |
+| Лѧганиѥ | Помальна, тиха моусикїꙗ | Съниꙁи гласъ и свѣтъ въкоупѣ |
+| Поꙁдьнъ чинъ | Наилюбимыꙗ ѥго пѣсни, ѥло тихо | Сѧди блиꙁъ и дрьжи рѫкѫ |
 
-## Tips for a good experience
+## Съвѣти за добро искоусьство
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Исключи инъ шоумъ.** Alzheimerʼs Association съвѣтоуѥтъ ꙁатворити окна и двьри и исклюючити видѣниѥ, да моусикїꙗ бѫдєтъ ѥдинъ ꙁвѫкъ.
+- **Дрьжи гласъ тихъ.** Моусикїꙗ да бѫдєтъ приꙗтьна, а нє силъна. Ащє человѣкъ оупотрѣблꙗѥтъ слоушала за слꙑшаниѥ, оувѣри сѧ, ꙗко сѫтъ на мѣстѣ и дѣють добро; вижь [слꙑшаниѥ](/brain-health/hearing/).
+- **Назираи пєчальны съвѧꙁи.** Нѣкоторыꙗ пѣсни приносѧтъ пєчаль, брань или потєрѫ. Ащє пѣснь оскръблꙗѥтъ ѥго, оутѣши ѥго и измѣни ѭ.
+- **Да вєдєтъ онъ.** Ащє възможьно ѥстъ, да изберєтъ человѣкъ моусикїѭ, и приими отърєчєниѥ.
+- **Прѣстани въ всѧко врѣмѧ.** Пѧть часинъ моусикїѩ ѥстъ добро дѣло. И исклюючити ѭ и сѣдѣти тихо тако жє ѥстъ добро.
 
-## What does the research say about music and dementia?
+## Чьто глаголютъ иꙁслѣдованиꙗ о моусикїи и оумьнѣмъ ослаблениї?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Съвѣдѣтєльство ѥстъ оумалєно. [Прѣглѧдъ Cochrane 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) съмотривъ 30 иꙁслѣдованиї о оустроѥныхъ моусикїискыхъ съборѣхъ, чѧсто съ съборꙑ въ домохъ попєчєниꙗ. Обрѣтє, ꙗко си събори вѣроꙗтьно мало оумальꙗхѫ ꙁнамєниꙗ оуныниꙗ противѫ обычьноу попєчєниѭ, нъ нє обрѣтє ꙗсъна дѣиства на нєпокоѥниѥ, добро бꙑтиѥ или мꙑшлєниѥ и памѧть, ни дѣиствъ, ѩжє прѣбꙑвъша по коньци съборовъ.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Мꙑ дѣлимъ сѧ моусикїѥѭ, занє ѥстъ приꙗтьнъ и тишъкъ пѫть проводити врѣмѧ въкоупѣ, а нє ꙗко лѣчьбѫ. За съборьныꙗ чинꙑ вижь [дѣла въ съборѣ въ домоу попєчєниꙗ](/activities/care-home-groups/); за оупотрѣблєниѥ моусикїѩ съ обраꙁꙑ и повѣстьми вижь [дѣла въспоминаниꙗ](/activities/reminiscence/).
