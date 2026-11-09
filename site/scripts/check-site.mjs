@@ -32,8 +32,8 @@ const BANNED = [
   /\bdementia sufferers?\b/i,
 ];
 /** Context that makes a banned phrase acceptable (it is being denied or quoted as a question). */
-// "aita" is the Nauru negation (used in src/i18n/ui/na.json); the list is otherwise English-only.
-const ALLOWED_CONTEXT = /\b(aita|no|none|nothing|unproven|not|never|nor|don[’']t|doesn[’']t|does not|cannot|can[’']t|without|claim|claims|claimed|claiming|unsupported|deceptive|whether|if|ftc|lumosity|marketing|be wary|be cautious|beware|watch out|promise|promises|promising)\b|\?/i;
+// "aita" and "eab" are Nauru negations (src/i18n/ui/na.json); the list is otherwise English-only.
+const ALLOWED_CONTEXT = /\b(aita|eab|no|none|nothing|unproven|not|never|nor|don[’']t|doesn[’']t|does not|cannot|can[’']t|without|claim|claims|claimed|claiming|unsupported|deceptive|whether|if|ftc|lumosity|marketing|be wary|be cautious|beware|watch out|promise|promises|promising)\b|\?/i;
 
 const errors = [];
 const warnings = [];
