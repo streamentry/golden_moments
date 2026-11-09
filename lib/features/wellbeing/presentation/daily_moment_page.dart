@@ -103,11 +103,7 @@ class _DailyMomentPageState extends State<DailyMomentPage> {
                           ),
                   ),
                   const SizedBox(height: gmSpaceLg),
-                  Text(
-                    prompt,
-                    textAlign: TextAlign.center,
-                    style: theme.textTheme.titleLarge,
-                  ),
+                  Text(prompt, style: theme.textTheme.titleLarge),
                   const SizedBox(height: gmSpaceLg),
                   if (_saved)
                     Text(

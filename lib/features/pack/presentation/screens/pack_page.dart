@@ -227,7 +227,6 @@ class _WaitingForChoicesState extends State<_WaitingForChoices> {
               Text(
                 context.l10n.packChoicesSlow,
                 style: theme.textTheme.bodyLarge,
-                textAlign: TextAlign.center,
               ),
               const SizedBox(height: gmSpaceMd),
               OutlinedButton.icon(
@@ -302,7 +301,6 @@ class _EmptyState extends StatelessWidget {
               style: theme.textTheme.bodyMedium?.copyWith(
                 color: theme.colorScheme.onSurfaceVariant,
               ),
-              textAlign: TextAlign.center,
             ),
           ],
         ),

@@ -399,10 +399,7 @@ class _ErrorView extends StatelessWidget {
                 textAlign: TextAlign.center,
               ),
               const SizedBox(height: gmSpaceSm),
-              Text(
-                parentContext.l10n.gameErrorBody,
-                textAlign: TextAlign.center,
-              ),
+              Text(parentContext.l10n.gameErrorBody),
               const SizedBox(height: gmSpaceLg),
               GmOutlineButton(
                 label: parentContext.l10n.gameGoBack,

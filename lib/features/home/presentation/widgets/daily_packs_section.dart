@@ -154,7 +154,6 @@ class _EmptyState extends StatelessWidget {
             style: theme.textTheme.bodyMedium?.copyWith(
               color: theme.colorScheme.onSurfaceVariant,
             ),
-            textAlign: TextAlign.center,
           ),
         ],
       ),
