@@ -10,6 +10,7 @@ import JsonLd from '../components/JsonLd.astro';
 import Analytics from '../components/Analytics.astro';
 import { SITE, absoluteUrl } from '../lib/site';
 import { fontPreloads } from '../lib/fonts';
+import { fitDescription } from '../lib/meta-description';
 import { composeTitle } from '../lib/seo-title';
 import { DEFAULT_LOCALE, isIndexable, localeInfo, localePath, splitLocale } from '../i18n/locales';
 import { PUBLISHED, ui } from '../i18n/ui';
@@ -53,6 +54,8 @@ const blockIndexing = noindex || !isIndexable(lang);
 const alternates = blockIndexing ? [] : PUBLISHED.filter((l) => available.includes(l.code) && isIndexable(l.code));
 // The brand suffix gives way when it would push the title past what search results show.
 const fullTitle = rawTitle ? title : composeTitle(title, t.common.titleSuffix);
+// Translations often run past the 170 width that search results show; fit them.
+const metaDescription = fitDescription(description);
 const canonical = absoluteUrl(Astro.url.pathname);
 const ogImage = absoluteUrl(image);
 const altText = imageAlt ?? t.common.defaultImageAlt;
@@ -68,7 +71,7 @@ const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
     {analytics && <Analytics />}
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={metaDescription} />
     <link rel="canonical" href={canonical} />
     {
       alternates.length > 1 &&
@@ -95,7 +98,7 @@ const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
     <meta property="og:locale" content={locale.og} />
     {alternates.filter((l) => l.code !== lang).map((l) => <meta property="og:locale:alternate" content={l.og} />)}
     <meta property="og:title" content={fullTitle} />
-    <meta property="og:description" content={description} />
+    <meta property="og:description" content={metaDescription} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
@@ -103,7 +106,7 @@ const detectLanguage = lang === DEFAULT_LOCALE && path === '/';
     <meta property="og:image:alt" content={altText} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:description" content={metaDescription} />
     <meta name="twitter:image" content={ogImage} />
     <meta name="twitter:image:alt" content={altText} />
     <meta name="apple-itunes-app" content="app-id=6749312459" />
