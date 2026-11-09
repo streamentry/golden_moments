@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Тихъ дьньнъ чинъ за человѣка съ оумьнымъ ослаблениемь"
+seoTitle: "Дьньнъ чинъ при оумьнѣмь ослаблении: образъ дьне"
+description: "Свободьнъ образъ дьне за человѣка съ оумьнымъ ослаблениемь, съ ѣдью, дѣлы и покоемъ, и како устроити свои чинъ и измѣнити и въ тѧжькъ дьнь."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Тихъ дьньнъ чинъ дрьжитъ въстаниѥ, ѣдь, попечениѥ о тѣлеси и лѥганиѥ въ
+  тъжде часъ, полагаѥтъ главьноѥ дѣло въ врѣмѧ, ѥгда человѣкъ наипаче
+  бьдръ ѥстъ, и съмѣшаѥтъ дѣло съ покоемь. Съзидаи и отъ житиꙗ и обычая
+  того человѣка, дрьжи и свободьнъ, а не прѣпльненъ, искаи свѣта дьньнаго и
+  движениꙗ на вьсꙗкъ дьнь, и измѣнꙗи промыслъ свободьно, ѥгда дьнь того
+  проситъ.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Постояньни часове за въстаниѥ, ѣдь, попечениѥ и лѥганиѥ даѭтъ дьни знаѥмъ образъ."
+  - "Положи главьноѥ дѣло въ доброѥ врѣмѧ дьне за того человѣка, чѧсто заоутра."
+  - "Не напльнꙗи вьсѣкоѥ врѣмѧ. Покои и тишина сѫтъ часть чина."
+  - "Свѣтъ дьньнъ, дьньноѥ движениѥ и оутрьганиѥ дльгъ позьдьнъ сънъ и позьдьнаго пиꙗниꙗ съ кофеиномь могѫтъ помощи противѫ позьдьнꙗго безпокоꙗ."
+  - "Чинъ ѥстъ водитель, а не законъ. Прѣмѣни, съкрати или остави чьто любо въ тѧжькъ дьнь."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Почьто чинъ помагаѥтъ человѣкоу съ оумьнымъ ослаблениемь?"
+    a: "Прѣдвидимъ дьнь иматъ мьнѣѥ рѣшениꙗ и нечаянъ, ѥже мънозѣмъ живѫштиимъ съ оумьнымъ ослаблениемь бываѥтъ оутѣшениѥмь. Alzheimer's Association глаголетъ, ꙗко промышлѥнъ дьнь даѥтъ мьнѣ врѣмене размыслити, чьто творити, и болѣ врѣмене за дѣла, ѩже оба любита. То тъкмо помагаѥтъ пекѫштииимъсѧ дрьжати свои дьнь."
+  - q: "Къи ѥстъ добръ дьньнъ чинъ за человѣка съ оумьнымъ ослаблениемь?"
+    a: "Нѣстъ ѥдинъ правъ чинъ. Добръ чинъ дрьжитъ въстаниѥ, ѣдь и лѥганиѥ въ тъжде часъ, полагаѥтъ попечениѥ о тѣлеси и главьноѥ дѣло, ѥгда человѣкъ наилѣпѣ ѥстъ, иматъ врѣмѧ вънѣ или при окънѣ, и оставлꙗѥтъ мѣсто за покои. Съзидаи и по томоу, како человѣкъ вьсегда жилъ ѥстъ."
+  - q: "Подобаѥтъ ли человѣкоу съ оумьнымъ ослаблениемь почивати дьньмь?"
+    a: "Кратъкъ покои може помощи, паче по обѣдѣ. National Institute on Aging съвѣтоуѥтъ не имѣти дльгъ сънъ и дрѣманиꙗ позьдѣ дьньмь, понеже прѣоуморениѥ или зълъ покои можетъ приложити къ позьдьн҄емоу безпокоꙗ. Аще сънъ ѥстъ истиноѥ трудьство, глаголи съ врачемь ѥго."
+  - q: "Чьто аще не хощетъ дрьжати чина?"
+    a: "Остави то нынѣ и покоуси пакъ послѣди или инакъ. Отъмєтаниѥ може значити, ꙗко ѥстъ оуморенъ, нездравъ, въ болѣзни или просто не готовъ. Чинъ ѥстъ, да дьнь бѫдетъ лєгъчии, тѣмьже прѣклони и, а не ноуди."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Тихъ чинъ даѥтъ дьни знаѥмъ образъ: въстаниѥ, ѣдь, мало дѣла, покои и лѥганиѥ въ тъжде часъ. То оумалꙗѥтъ рѣшениꙗ и нечаянꙗ, и даѥтъ ти промыслъ въ часъ, въ ньже бы инъ мыслити, чьто творити. Сь чинъ низоу ѥстъ образъ, а не законъ. Приими и ꙗко начало, потомьже сътвори и по человѣкоу, о немьже печетесѧ.
 
-## Why does a daily routine help?
+## Почьто дьньнъ чинъ помагаѥтъ?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Постояньнъ чинъ помагаѥтъ, понеже знаѥми образи лєгъче сѫтъ слѣдовати, неже нови. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) глаголетъ, ꙗко промышлѥнъ дьнь значить мьнѣ врѣмене на рѣшениѥ, чьто творити, и болѣ врѣмене за радостьнаꙗ дѣла, и поминаѥтъ, ꙗко постояньни часове въстаниꙗ и лѥганиꙗ могѫтъ помощи при трѫдѣ съна и позьдьнѣмь безпокои. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) съвѣтоуѥтъ мыти, облѣщи и ѣсти въ тъжде часъ вьсꙗкъ дьнь ꙗко часть тихаго домоу, и [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) тъко съвѣтоуѥтъ дрьжати тъжде чины.
 
-## A sample gentle day
+## Образъ тихаго дьне
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Часове сѫтъ тъкмо образи. Прѣдвигни вьсь дьнь ранѣѥ или позьдѣѥ, да съвъпадетъ съ своиимь ритъмомь того человѣка.
 
-| Time | What happens | Ideas | On a harder day |
+| Часъ | Чьто бываѥтъ | Мысли | Въ тѧжькъ дьнь |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 заоутра | Въстаниѥ, оумытиѥ, облѣчениѥ | Тъжде рѧдъ вьсꙗкъ дьнь; положи ризы въ рѧдъ, ꙗко облачѧтъсѧ | Дрьжи попечениѥ просто; чиста срачица довьлѣѥтъ |
+| 8:45 заоутра | Заоутрьнꙗꙗ ѣдь | Кафа и новины прочьтены въ гласъ, или радио | ѣдита въкоупѣ тихо, безъ ноуждѧ бесѣды |
+| 9:30 заоутра | Главьноѥ дѣло | Съгъбати ризы, пєщи, дѣлати въ садоу, кратъкъ исходъ или хождениѥ | Кратъчаѥѥ видъ, или да видитъ тѧ творѧща |
+| 10:30 заоутра | Тихъ часъ | Мѫсикиꙗ, книга образъ, или сѣдѣниѥ при окънѣ | Покои въ любьнѣмь сѣдалищи |
+| 11:00 заоутра | Помощь при обѣдѣ | Оумыти зелие, прѣстроити трапезѫ | Ты вари, а онъ или она бѫди съ тобоѭ |
+| 12:00 попладьнє | Обѣдъ и оутрьганиѥ | Отьрѣти трапезѫ, осѫшити нѣколико съсѫдъ | Остави домашьнꙗꙗ дѣла |
+| 1:00 попладьнє | Кратъкъ покои | Нозѣ горѣ, тиха мѫсикиꙗ | Тъко |
+| 2:00 попладьнє | Вънѣ или движениѥ | Хождениѥ, сѣдѣниѥ на прѣдъдвьрьи, полиꙗти растениꙗ, мѧтати балонъ | Сѣдѣти при окънѣ съ слъньцемь |
+| 3:00 попладьнє | Съ людьми или творениѥ | Посѣщениѥ, зъваниѥ, [picture pairs](/games/picture-pairs/), цвѣтописаниѥ, карти | Питиѥ и брашьно въкоупѣ |
+| 4:30 попладьнє | Часъ оукроштаниꙗ | Затворити занавѣси, въжєщи свѣтъ, тихо дѣло ꙗко съгъбаниѥ плата | Знаѥма мѫсикиꙗ, тихъ гласъ |
+| 5:30 вечера | Вечерѧ | Помощь мѣшати или прѣстроити трапезѫ | Просто, знаѥмо брашьно |
+| 6:30 вечера | Вечеръ въкоупѣ | Поминаниѥ по слѣдьнѣи ѣди, карти, любимо видѣниѥ, помазаниѥ рѫкоу | Тихо събьство |
+| 8:00 вечера | Чинъ лѥганиꙗ | Кѫпаниѥ или оумытиѥ, нощьнꙗꙗ риза, тиха мѫсикиꙗ, малъ свѣтъ | Съкрати вьсє; оутѣшениѥ прьвѣѥ |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Сь образъ слѣдоуѥтъ образъ самаго Alzheimer's Association за ранѧꙗ и срѣдьнꙗꙗ врѣмена, иже идеть отъ попечениꙗ о тѣлеси и заоутрьнꙗꙗ ѣди чрѣзъ домашьнꙗꙗ дѣла, хождениꙗ, мѫсикиѭ, покои и посѣщениꙗ до вечерѧ, поминаниꙗ и готовлѥниꙗ къ лѥганию.
 
-## How do you build your own routine?
+## Како сътворити свои чинъ?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Начьни отъ того, како человѣкъ вьсегда жилъ ѥстъ, а не отъ таблицѧ. Alzheimer's Association съвѣтоуѥтъ помыслити сиꙗ прѣжде промысла:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ѥго любь, нєлюбь, силѫ и ѫтьнѫ сътѧзаниꙗ.**
+- **Како прѣжде проводилъ ѥстъ свои дьнь.** Ранъ въстаѩи, иже вьсегда ходилъ ѥстъ съ пьсомь, да ходитъ и нꙑнѣ ранъ. Нощьнъ человѣкъ не възлюбитъ начала въ 8:00 заоутра.
+- **Ѥго доброѥ врѣмѧ дьне.** Положи тоу мытиѥ, исходъ и главьноѥ дѣло.
+- **Довьлѣ врѣмене** за ѣдь, мытиѥ и облѣчениѥ, да ничьтоже не бѫдетъ съ тъщаниємь.
+- **Постояньни часове въстаниꙗ и лѥганиꙗ.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Тъжде источникъ съвѣтоуѥтъ положити мѣсѧнинѫ домашьнъ дѣлъ, ѣдъ, попечениꙗ о тѣлеси, творьнъ дѣлъ, движениꙗ тѣла, врѣмене съ людьми, доуховьнааго дѣла и самородьнъ часъ, ꙗко пришьствиѥ дроуга.
 
-### Try it for a week, then adjust
+### Покоуси ѥдиноу сєдмицѫ, потомьже измѣни
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Дрьжи простоу запискѫ вьсꙗкъ дьнь. Alzheimer's Association съвѣтоуѥтъ въпрашати, каꙗ дѣла бѣшѧ наилѣпьшаꙗ и почьто, бѣахѫ ли часове съ прѣмъногымь или съ прѣмалымь дѣлъмь, и бѣахѫ ли самородьни промысли радостьни или творишѧ печаль. Дрьжи, ѥже дѣлаѥтъ, и измѣни, ѥже не дѣлаѥтъ.
 
-### Make it visible
+### Сътвори и видимъ
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Аще человѣкъ ѥще можетъ чьсти, бѣла дъска или карта съ вєликъ словесъ о дьньнѣмь промыслѣ може быти оутѣшениѥмь. Дрьжи ѥ кратъко: «Заоутрьнꙗꙗ ѣдь. Хождениѥ съ Сарою. Обѣдъ. Покои.» Инии лѣпѣ сѫтъ безъ знаниꙗ напредъ; Family Caregiver Alliance съвѣтоуѥтъ не глаголати о промыслѣхъ прѣжде, неже бѫдѫтъ близъ, аще то творитъ печаль.
 
-## How to adapt the routine
+## Како измѣнити чинъ
 
-### Leave room to breathe
+### Остави мѣсто за дыханиѥ
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Не напльнꙗи вьсѣкоѥ врѣмѧ. Alzheimer's Association глаголетъ, ꙗко человѣкоу трѣбѣ ѥстъ мѣра дѣла и покоꙗ, и може трѣбовати чѧстьишъ прѣстань. Аще видитъсѧ скѫдьнъ, расточенъ или гнѣвьнъ, прѣмѣни дѣло или даи покои.
 
-### Protect the late afternoon
+### Съблюди позьдьн҄ии попладьнє
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Мъноѕи бываѭтъ болѣ безпокоини, ѥгда свѣтъ дьньнъ оумалꙗѥтъсѧ. NIA съвѣтоуѥтъ врѣмѧ вънѣ или при окънѣ за свѣтъ дьньнъ вьсꙗкъ дьнь, движениѥ вьсꙗкъ дьнь безъ прѣмънога промысла, оутрьганиѥ кофеина и вина позьдѣ дьньмь, и не имѣти дльгъ сънъ позьдѣ дьньмь. Нѣкоторъ родины тъко обрѣтаѭтъ добро затворити занавѣси и въжєщи свѣтъ прѣжде сѫмрака. Виждь [late-day restlessness](/caregiving/late-day-restlessness/) и [sleep](/brain-health/sleep/).
 
-### Change it as needs change
+### Измѣнꙗи и, ѥгда трѣбованиꙗ мѣнѧтъсѧ
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Рано врѣмѧ:** промышлꙗи чинъ въкоупѣ. Чловѣкъ може хотѣти писанъ чинъ, иже самъ дрьжитъ.
+- **Срѣдьнє врѣмѧ:** ты водиши болѣ. Кратъчаꙗ дѣла, болѣ покоꙗ и мъного знаѥмъ работъ; виждь [middle-stage activities](/activities/middle-stage/).
+- **Позьдьнє врѣмѧ:** чинъ стоить о оутѣшении, ѣди и попечении, съ кратъкъ чѫвьствьнъ часомь, ꙗко мѫсикиꙗ или помазаниѥ рѫкоу; виждь [late-stage activities](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Мѣнꙗи дѣла, а не образъ
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Дрьжи ѣдь, покои и лѥганиѥ постоянно, а мѣнꙗи дѣла междоу ими. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) съвѣтоуѥтъ покоусити различьна дѣла въ различьнъ дьни, да бѫдетъ житиѥ добрѣѥ. Можеши пєщи въ понєдѣльникъ, дѣлати въ садоу въ въторьникъ и зьрѣти образъ въ срѣдѫ. Наши [101 activity ideas](/activities/ideas/) и [household tasks](/activities/household-tasks/) могѫтъ напльнити та мѣста.
 
-## When the day goes sideways
+## Ѥгда дьнь не идеть по промыслоу
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Нѣции дьни не послѣдоуѭтъ никомоу промыслоу. Недѫгъ, зъла нощь, пришьствиѥ врача или измѣна врѣмене могутъ прѣвратити вьсє. Остави промыслъ, дрьжи главьнаꙗ (брашно, питиѥ, покои, оутѣшениѥ) и покоуси оутрѣ пакъ. Аще человѣкъ чьтото отъмєщетъ, виждь [when they say no](/caregiving/when-they-say-no/). Тихъ часъ дыханиꙗ въкоупѣ, ꙗко [calm breathing](/games/calm-breathing/), можетъ помошти обѣма оукротити сѧ.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Твои чинъ тъко важьнъ ѥстъ. Сътвори мѣсто за свои покои и проси родинѫ или слоужьбѫ оупокоѥниꙗ, да прииметъ твоѥ врѣмѧ. Виждь [caregiver self-care](/caregiving/caregiver-self-care/).

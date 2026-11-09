@@ -1,36 +1,34 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "ᑭᔭᐦᑖᐏᐣ: ᓇᐢᑯᐦᑖᐏᐣ, ᐏᒋᐦᐃᐏᐣ ᒥᓇ ᓭᐢᑭᓯᐏᐣ"
+seoTitle: "ᐊᓯᓂᐢᑭᐏ ᑲᓇᐍᔨᒥᐟ ᑭᔭᐦᑖᐏᐣ: ᓇᐢᑯᐦᑖᐏᐣ"
+description: "ᓭᐢᑭᓯᐏᐣ ᑲᓇᐍᔨᒧᐏᐣ ᑕᐱᐢᑯᐨ, ᑖᓂᐢᐱ ᑲᑭ ᒥᐢᑲᒥᐟ ᓇᐢᑯᐦᑖᐏᐣ ᒥᓇ ᐏᒋᐦᐃᐏᐣ, ᒥᓇ ᓇᒪᐢᑯᑐᐏᐣ ᐏᒋᐦᐃᐏᐣ ᐅᐦᒋ US, ᑳᐃᐢᐱᐢᑳᐠ Alzheimer's Association 24/7 ᐏᒋᐦᐃᐏᐣ 1-800-272-3900 ᒥᓇ Eldercare Locator 1-800-677-1116."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  ᐊᐘ ᑲᑭᐢᐢᑫᔨᒪᐟ ᐊᐏᔭᐢ ᑲᐚᐸᐦᑖᐟ ᐊᓯᓂᐢᑭᐏ ᑲᓇᐍᔨᒧᐏᐣ ᐊᔭᐘᐨ ᓭᐢᑭᓯᐘᐣ. ᑭᔭ ᑭᔭᐦᑖᐏᐣ ᐯᔭᐠ ᐃᐢᐱ ᐅᒪ ᐅᑐᐦᑖᐏᐣ.
+  ᑲᓇᐚᐸᐦᑕ ᑭᐢᑫᔨᐦᑖᑲᐣ ᑭᓭᐢᑭᓯᐏᐣ, ᑖᐱᐢᑯᐨ ᓂᐚᐸᐦᑖᐏᐣ, ᑭᓯᐍᔨᐦᑕᒧᐏᐣ, ᓇᒪ ᒥᔪ ᓂᐹᐏᐣ, ᒥᓇ ᐊᐏᔭᐠ ᐅᐦᒋ ᐘᔭᐑᐏᐣ.
+  ᓇᑐᑕᐍ ᐏᒋᐦᐃᐏᐣ ᑕᐱᐢᑯᐨ ᐅᑐᐦᑖᐏᐣ, ᐊᐱᒋ ᓇᐢᑯᐦᑖᐏᐣ, ᒥᓇ ᐏᒋᐦᐃᐏ ᒪᐘᒋᐦᐃᑐᐏᐣ. ᓇᒪᐢᑯᑐᐏᐣ ᐏᒋᐦᐃᐏᐣ ᐅᐦᒋ US ᐃᑖᐘ
+  Alzheimer's Association 24/7 ᐏᒋᐦᐃᐏᐣ 1-800-272-3900 ᒥᓇ Eldercare Locator 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "ᓭᐢᑭᓯᐏᐣ ᑕᐱᐢᑯᐨ ᓂᐚᐸᐦᑖᐏᐣ, ᑭᓯᐍᔨᐦᑕᒧᐏᐣ, ᓇᒪ ᒥᔪ ᓂᐹᐏᐣ, ᑲᐢᑫᔨᒧᐏᐣ, ᒥᓇ ᑭᔭ ᒪᐢᑭᐦᑭᐏᐣ ᓇᑲᑕᒧᐏᐣ ᐊᐸᐦᑖᐏᐣ ᐅᐦᒋ ᓂᐚᐸᒋᐦᐃᑲᓂᐘᐣ."
+  - "ᓇᐢᑯᐦᑖᐏᐣ ᑭᒥᔭᐤ ᓇᐢᑯᐦᑖᐏᐣ, ᑕᐱᐢᑯᐨ ᐱᐢᑯᐢ ᐃᐢᑯᓂᐠ ᐃᐢᑯᑕᐣ ᓂᓯᑐ ᐱᓯᒼ, ᐏᑭᐦᐠ ᐅᑖᐦ ᒪᐢᑭᐦᑭᐏᐣ ᐃᑌ."
+  - "ᓇᑐᑕᐍ ᐏᒋᐦᐃᐏᐣ ᑕᐱᐢᑯᐨ ᐅᑐᐦᑖᐏᐣ; ᒥᐦᒉᐟ ᐊᐏᔭᐠ ᓄᐦᑌ ᐏᒋᐦᐃᐍᐘᐠ ᒫᑲ ᓇᒪ ᑭᐢᑫᔨᐦᑕᒧᐘᐠ ᑖᓂᐢᐱ ᑲᑭ ᐃᐢᐱ ᐏᒋᐦᐃᐍᐟ."
+  - "Alzheimer's Association 24/7 ᐏᒋᐦᐃᐏᐣ (1-800-272-3900) ᒥᔭᐤ ᓇᒪᐢᑯᑐᐏᐣ, ᑲᒥᔭᐢᑎᐣ ᐏᒋᐦᐃᐏᐣ ᑳᑭᐢᐢᑳᐠ ᑕᐱᐢᑯᐨ."
+  - "Eldercare Locator (1-800-677-1116) ᑭᐊᓱᐘᒋᐦᐃᑯᐣ ᐅᐦᒋ ᐃᑌ ᐏᒋᐦᐃᐏᐣ, ᑳᐃᐢᐱᐢᑳᐠ ᑭᔭ ᐃᑌ ᐅᑭᒪᐏ ᐏᒋᐦᐃᐏᐣ ᐅᒋ Area Agency on Aging."
+  - "ᑭᐢᐱᓇ ᒪᓯᓇᐦᐃᑲᓂᐘᐣ ᐃᐢᐱ ᐃᑖᔭᐣ, ᓯᒼᐸᐦᐃᑲᓐ ᒪᑲ ᒪᓯᓇᐦᐃᑲᓐ 988. ᑭᐢᐱᓇ ᑫᐦᑕᐱᓯᐣ ᐃᐢᐱ ᐃᐢᐸᔨᐣ, ᓯᒼᐸᐦᐃᑲᓐ 911."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "ᑖᓂᐢᐱ ᑲᓇᐚᐸᐦᑕᒪᐣ ᑲᓇᐍᔨᒧᐏᐣ ᓭᐢᑭᓯᐏᐣ?"
+    a: "ᑕᐱᐢᑯᐨ ᑭᐢᑫᔨᐦᑖᑲᐣ ᐃᑖᐘ: ᓂᐚᐸᐦᑖᐏᐣ, ᒪᓯᓇᐦᐃᑲᓂᐘᐣ ᒪᑲ ᓭᐢᑭᓯᐏᐣ, ᐘᔭᐑᐏᐣ ᑭᓯᐍᔨᐦᑕᒧᐏᐣ, ᓇᒪ ᒥᔪ ᓂᐹᐏᐣ, ᑲᐢᑫᔨᒧᐏᐣ ᒪᑲ ᓇᒪ ᐸᑯ ᐊᐸᒋᐦᐃᑲᓂᐘᐣ, ᐊᐏᔭᐠ ᐅᐦᒋ ᐘᔭᐑᐏᐣ, ᑕᐦᑭᐏ ᐢᑎᐠᐘᓂᐚᐸᐦᑖᐏᐣ ᒪᑲ ᐊᐦᑯᓯᐏᐣ, ᒥᓇ ᑭᔭ ᒥᒋᓱᐏᐣ, ᐸᒥᐸᔨᐏᐣ ᒪᑲ ᒪᐢᑭᐦᑭᐏᐣ ᓇᑲᑕᒧᐏᐣ ᐊᐸᐦᑖᐏᐣ. ᑭᐢᐱᓇ ᐅᐦᐃ ᑕᐦᑭᐏ ᓂᐚᐸᒋᐦᐃᑲᓂᐘᐠ, ᐊᔭᒥᐦᒋ ᒪᐢᑭᐦᑭᐏᐢᑭᓯᐘ."
+  - q: "ᑖᓂᐢᐱ ᑲᑭ ᒥᐢᑲᒪᐣ ᓇᐢᑯᐦᑖᐏᐣ ᐱᐦᒋ ᓃᔭ ᐃᑌ?"
+    a: "ᒫᒋᐢᑕ Eldercare Locator (1-800-677-1116 ᒪᑲ eldercare.acl.gov) ᑲᑭ ᓇᑲᐢᑯᐘᐟ ᑭᔭ ᐃᑌ ᐅᑭᒪᐏ ᐏᒋᐦᐃᐏᐣ ᐅᒋ Area Agency on Aging, ARCH National Respite Locator Service, ᒪᑲ Alzheimer's Association ᐏᒋᐦᐃᐏᐣ 1-800-272-3900. ᐏᑳᐦᑎᐘᑲᐣ, ᐏᑐᐦᑖᐘᑲᐣ ᒥᓇ ᐏᒋᐦᐃᐍᐘᐠ ᑲᔭᐢ ᑲᑭ ᐏᒋᐦᐃᐍᐘᐠ ᓇᐢᑯᐦᑖᐏᐣ ᐅᐦᒋ."
+  - q: "ᒋᐦᑭ ᓇ ᑎᐸᐦᐃᑲᓂᐘᐣ Medicare ᓇᐢᑯᐦᑖᐏᐣ ᐅᐦᒋ?"
+    a: "ᐊᐘ ᑲᐅᑖᐱᐢᑳᐟ hospice ᐏᒋᐦᐃᐏᐣ, Medicare ᒥᐢᑕᐦᐃ ᑎᐸᐦᐃᑲᓂᐘᐣ ᒥᐦᒉᐟ ᓂᔭᓄ ᑳᑭᓯᑲᐠ ᑕᐱᐢᑯᐨ ᓇᐢᑯᐦᑖᐏᐣ ᐊᐢᐱᑕᓂᐘᐠ ᒪᑲ ᐅᑭᒪᐏ ᒪᐢᑭᐦᑭᐏᐣ ᐃᑌ, ᐃᑖᐤ National Institute on Aging. ᒥᐦᒉᐟ ᐱᐦᒋ ᒪᐢᑭᐦᑭᐏᐣ ᑎᐸᐦᐃᑲᓂᐘᐣ ᓇᒪ ᑎᐸᐦᐃᑲᓂᐘᐣ ᓇᐢᑯᐦᑖᐏᐣ; Medicaid ᒥᓇ ᑕᐱᐢᑯᐨ ᑭᓄᓭ ᒪᐢᑭᐦᑭᐏᐣ ᑎᐸᐦᐃᑲᓂᐘᐣ ᑲᔭᐢ ᑲᑭ ᐏᒋᐦᐃᑲᓂᐘᐣ."
+  - q: "ᒋᐦᑭ ᓇ ᓇᒪᐢᑯᑐᐏᐣ ᒥᓇ ᑳᑭᐢᐢᑳᐠ ᐃᐢᐸᔨᐣ ᑎᐱᐢᑯᐨ ᐊᐘ Alzheimer's Association ᐏᒋᐦᐃᐏᐣ?"
+    a: "ᐁᐦᐁ. Alzheimer's Association ᐃᑖᐤ ᐅᒪ ᐏᒋᐦᐃᐏᐣ 1-800-272-3900 ᓇᒪᐢᑯᑐᐏᐣ, ᑲᒥᔭᐢᑎᐣ, ᒥᓇ ᐊᐏᔭᐠ ᐊᔭᐘᐠ 24 ᑕᐱᐢᑯᐨ, 365 ᑭᓯᑲᐘ, ᐏᒋᐦᐃᐏᐣ ᒥᐦᒉᐟ ᐊᔭᒥᐦᐃᐏᓇ ᐅᐦᒋ. ᑎᐱᐢᑯᐨ 711 ᐅᐦᒋ relay ᐏᒋᐦᐃᐏᐣ."
+  - q: "ᒋᐦᑭ ᓇ ᒪᔭᑕᐣ ᓇᐢᑯᐦᑖᐏᐣ ᐅᑖᐱᓇᒪᐣ ᑲᓇᐍᔨᒧᐏᐣ ᐅᐦᒋ?"
+    a: "ᓇᒪᐏᔭ. ᓇᐢᑯᐦᑖᐏᐣ ᑭᐏᒋᐦᐃᑯᐣ ᑲᔭᐢ ᑲᓇᐍᔨᒧᐏᐣ ᐅᐦᒋ, ᒥᓇ ᐊᐘ ᑲᓇᐍᔨᒪᐟ ᑲᔭᐢ ᓇᓇᑐ ᐊᐏᔭ ᒥᓇ ᓇᓇᑐ ᐅᑐᐦᑖᐏᐣ ᐅᑖᐱᐢᑳᐤ. ᒥᐦᒉᐟ ᑲᓇᐍᔨᒧᐘᐠ ᐅᑖᐦ ᐃᑖᐘᐠ ᑖᐱᐢᑯᐨ ᑭᓄᐦᑌ ᓇᑐᑕᐍᐘᐠ ᐏᒋᐦᐃᐏᐣ."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +65,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+ᑭᐢᐱᓇ ᑭᓇᐍᔨᒪᐟ ᐊᐏᔭᐢ ᑲᐚᐸᐦᑖᐟ ᐊᓯᓂᐢᑭᐏ ᑲᓇᐍᔨᒧᐏᐣ, ᑲᔭᐢ ᐅᒪ ᒪᓯᓇᐦᐃᑲᓐ ᑭᐊᔭᒥᐦᑖᐣ ᑎᐱᐢᑯᐨ, ᓂᐚᐸᐦᑖᔭᐣ, ᒥᓇ ᒥᐦᒉᐟ ᐅᑐᐦᑖᐏᓇ ᓇᒪ ᑭᑭᓯᐦᑖᐣ. ᐁᑿ ᐃᐢᐱ ᐃᐢᐸᔨᐣ. ᑭᔭ ᑭᔭᐦᑖᐏᐣ ᓇᒪ ᒥᔪ ᒥᔨᐦᑖᐏᐣ ᒪᑲ ᑎᐸᐦᐃᑲᓂᐘᐣ ᑭᐢᐱᓇ ᑭᑭᓯᐦᑖᐣ ᑲᐦᑭᔭᐤ. ᐁᑿ ᑲᐏᒋᐦᐃᑯᐟ ᑲᔭᐢ ᐸᒥᐸᔨᔭᐣ.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+ᐅᒪ ᒪᓯᓇᐦᐃᑲᓐ ᐘᐃᐦᑐᒪᑲᓐ ᑭᐢᑫᔨᐦᑖᑲᐣ ᓭᐢᑭᓯᐏᐣ, ᑖᓂᐢᐱ ᑲᑭ ᐅᑖᐱᓇᒪᐣ ᓇᐢᑯᐦᑖᐏᐣ, ᑖᓂᑌ ᑲᑭ ᒥᐢᑲᒪᐣ ᐏᒋᐦᐃᐏᐣ, ᒥᓇ ᓇᒪᐢᑯᑐᐏᐣ ᐏᒋᐦᐃᐏᐣ ᐅᐦᒋ US ᑲᑭ ᓯᒼᐸᐦᐃᑲᓐ ᐊᓄᐦᐨ.
 
-## What are the signs of caregiver burnout?
+## ᑖᓂᐢᐱ ᑲᓇᐚᐸᐦᑕᒪᐣ ᑲᓇᐍᔨᒧᐏᐣ ᓭᐢᑭᓯᐏᐣ?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+ᓭᐢᑭᓯᐏᐣ ᑕᐱᐢᑯᐨ ᐸᐦᐯᔭᐠ ᐱᒋ ᐃᐢᐸᔨᐣ, ᐁᑿ ᒥᔪ ᑭᐢᑫᔨᐦᑕᒪᐣ ᑭᔭ ᑭᐢᑫᔨᐦᑖᑲᐣ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ᐘᐃᐦᑐᒪᑲᓐ ᑭᐢᑫᔨᐦᑖᑲᐣ ᑲᓇᐍᔨᒧᐏᐣ ᓭᐢᑭᓯᐏᐣ, ᑳᐃᐢᐱᐢᑳᐠ:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- ᓂᐚᐸᐦᑖᐏᐣ, ᒪᓯᓇᐦᐃᑲᓂᐘᐣ ᒪᑲ ᓭᐢᑭᓯᐏᐣ;
+- ᐘᔭᐑᐏᐣ ᑭᓯᐍᔨᐦᑕᒧᐏᐣ ᒪᑲ ᓇᒪ ᐸᐦᐯᔭᐠ ᐊᐱᐦᑖᐏᐣ;
+- ᐱᐦᑯ ᐃᑖᐏᐣ ᒪᑲ ᐊᐏᔭᐠ ᐅᐦᒋ ᐘᔭᐑᐏᐣ;
+- ᓇᒪ ᒥᔪ ᓂᐹᐏᐣ, ᒪᑲ ᓇᒪ ᑖᐱᐢᑯᐨ ᓂᐹᐏᐣ;
+- ᑲᐢᑫᔨᒧᐏᐣ ᒪᑲ ᓇᒪ ᐸᑯ ᐊᐸᒋᐦᐃᑲᓂᐘᐣ, ᒪᑲ ᓇᒪ ᒥᔪ ᐃᑖᐏᐣ ᑫᑯᓇᐣ ᑳᒥᔪ ᐃᑖᔭᐣ;
+- ᑕᐦᑭᐏ ᐢᑎᐠᐘᓂᐚᐸᐦᑖᐏᐣ, ᐊᐦᑯᓯᐏᐣ ᒪᑲ ᑯᑕᐠ ᒪᐢᑭᐦᑭᐏᐣ ᐊᔭᐃᒥᓯᐏᐣ;
+- ᓇᒪ ᑕᐱᐢᑯᐨ ᐸᒥᐸᔨᐏᐣ ᒪᑲ ᒥᔪ ᒥᒋᓱᐏᐣ ᐅᐦᒋ ᑭᔭ ᑎᐱᔭᐤ;
+- ᐸᐦᑭᓯᓃᐏᐣ ᒪᑲ ᑯᑕᐠ ᑭᔭ ᑲᓇᐍᔨᒧᐏᐣ ᐊᐸᐦᑖᐏᐣ;
+- ᐃᐢᑯᑌᐘᐳᐏᐣ ᒪᑲ ᒪᐢᑭᐦᑭᐏᐣ ᐊᐸᒋᐦᐃᑲᓂᐘᐣ ᓇᒪ ᒥᔪ ᐃᐢᐱ ᐊᐸᒋᐦᐃᑲᓂᐘᐣ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ᒥᓇ ᐘᐃᐦᑐᒪᑲᓐ ᑭᐢᑫᔨᐦᑖᑲᐣ ᑖᐱᐢᑯᐨ ᓇᒪ ᑕᐸᐍᐦᑕᒧᐏᐣ ᐊᔭᐃᒥᓯᐏᐣ, ᑭᓯᐍᔨᐦᑕᒧᐏᐣ ᐊᐘ ᑲᓇᐍᔨᒪᐟ ᐅᐦᒋ, ᓭᐢᑭᓯᐏᐣ ᐅᐦᒋ ᓂᑲᓂ ᐃᐢᐸᔨᐣ, ᓇᒪ ᒥᔪ ᒪᒋᐦᑖᐏᐣ, ᒥᓇ ᒪᐢᑭᐦᑭᐏᐣ ᐊᔭᐃᒥᓯᐏᐣ ᑲᓭᐢᑭᐦᐃᑯᐟ. ᐃᑖᐤ ᐊᔭᒥᐦᒋ ᒪᐢᑭᐦᑭᐏᐢᑭᓯᐘ ᑭᐢᐱᓇ ᐅᐦᐃ ᑕᐦᑭᐏ ᓂᐚᐸᒋᐦᐃᑲᓂᐘᐠ.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA ᐅᒪ ᐏᐦᑖᒪᑫᐏᐣ ᓇᒪ ᐯᔭᑯ ᐊᐱ ᐃᐢᑯ ᒪᓯᓇᐦᐃᑲᓂᐘᐣ. ᐘᐱᐢᑎ ᑭᐢᑫᔨᐦᑕ ᑭᐢᑫᔨᐦᑖᑲᐣ ᒥᓇ ᑐᑕᐢᑲᒧ.
 
-## What can I do today, in five minutes?
+## ᑖᓂᐱ ᑲᑭ ᑐᑕᒪᐣ ᐊᓄᐦᐨ, ᓂᔭᓄ ᒥᓂᑐᐣ ᐱᐦᒋ?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+ᐊᐱᓯᓯᐤ ᓇᐢᑯᐦᑖᐏᐣ ᐊᐸᒋᐦᐃᑲᓂᐘᐣ. ᐅᐦᐃ ᓇᒪ ᒥᓯᐍ ᑲᓯᐦᐃᑲᓂᐘᐣ ᓭᐢᑭᓯᐏᐣ, ᒫᑲ ᑲᔭᐢ ᑭᐏᒋᐦᐃᑯᐣ ᐊᔭᐦᑭ ᑭᓯᑲᐤ ᐱᐦᒋ.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **ᐘᔭᐑ ᐃᑕ.** ᐊᐱ ᐘᔭᐑᑎᕽ ᒪᑲ ᐱᒧᐦᑌ ᒪᓯᓇᐦᐃᑲᓐ ᐃᐢᑯᑕᐣ, ᑭᐢᐱᓇ ᐊᐘ ᑲᓇᐍᔨᒪᐟ ᐊᔭᐘᐣ ᒥᓇ ᐸᔭᐦᑖᐤ.
+- **ᐸᐦᐯᔭᐠ ᓀᐦᑖ.** ᐸᐦᐯᔭᐠ ᓀᐦᑖᐏᐣ ᒫᓇ ᓇᐢᑯᐘᐢᑕᐘᐟ ᐊᔭᐃᒥᓯᐏᐣ. ᑲᔭᐢ ᑭᑭ ᐏᒋ ᐅᑖᐱᓇᒪᐣ [Calm Breathing](/games/calm-breathing/) ᓇᐢᑯᐦᑖᐏᐣ ᐊᐘ ᑲᓇᐍᔨᒪᐟ ᐊᐢᑭ.
+- **ᒥᓂᐦᑫ ᓂᐱ ᒥᓇ ᒥᒋᓱ.** ᐘᔭᐑᐏᐣ ᐘᓂᑭᐢᑲᓐ ᑭᔭ ᒥᒋᓱᐏᐣ.
+- **ᒪᓯᓇᐦᐃᑲᓐ ᐯᔭᐠ ᐏᑐᐦᑖᐘᑲᐣ.** ᓇᒪ ᓇᑐᑕᐍᐏᐣ ᐅᐦᒋ, ᐯᔭᑯ ᐊᔭᒥᐦᐃᑐᐏᐣ ᐅᐦᒋ.
+- **ᒥᔪ ᐃᑌ ᑭᔭ ᐅᐦᒋ.** NIA ᐅᒪ [ᑭᔭᐦᑖᐏᐣ ᐘᐃᐦᑐᒪᑲᓐ](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ᒥᔭᐤ ᐃᑌᐏᓇ ᑖᐱᐢᑯᐨ "ᓂᑐᑕᒪᐣ ᑲᑭ ᐃᐢᐸᔨᔭᐣ," "ᓇᒪ ᓂᒥᔪᓯᓂᓂᐘᐣ, ᒥᓇ ᐁᑿ ᓇᒪᐏᔭ," ᒥᓇ "ᓂᑲ ᒥᔪ ᐊᐱᐦᑖᐣ ᑭᐢᐱᓇ ᒥᔪ ᐏᒋᐦᐃᑐᔮᐠ."
 
-## What is respite care, and how do I get it?
+## ᑖᓂᐱ ᐃᐢᐱ ᐃᐢᐸᔨᐣ ᓇᐢᑯᐦᑖᐏᐣ, ᒥᓇ ᑖᓂᐢᐱ ᑲᑭ ᐅᑖᐱᓇᒪᐣ?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+ᓇᐢᑯᐦᑖᐏᐣ ᐃᐢᐱ ᐃᐢᐸᔨᐣ ᐊᐱᓯᓯᐤ ᑲᓇᐍᔨᒧᐏᐣ ᐊᐘ ᑲᓇᐍᔨᒪᐟ ᐅᐦᒋ, ᑲᑭ ᓇᐢᑯᐦᑖᔭᐣ. NIA ᐅᒪ [ᓇᐢᑯᐦᑖᐏᐣ ᒪᓯᓇᐦᐃᑲᓐ](https://www.nia.nih.gov/health/caregiving/what-respite-care) ᐘᐃᐦᑐᒪᑲᓐ ᑲᑭ ᐃᐢᐸᔨᐣ ᐱᐢᑯᐢ ᐃᐢᑯᓂᐠ ᐃᐢᑯᑕᐣ ᓂᓯᑐ ᐱᓯᒼ, ᒥᓇ ᑲᑭ ᐃᐢᐸᔨᐣ ᐏᑭᐦᐠ, ᒪᐢᑭᐦᑭᐏᐣ ᐃᑌ ᒪᑲ ᐊᐏᔭᐠ ᑭᓯᑲᐏ ᐊᐱᐏᐣ ᐃᑌ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) ᐘᐃᐦᑐᒪᑲᓐ ᑕᐱᐢᑯᐨ ᐃᐢᐱ ᐃᐢᐸᔨᐣ:
 
-| Type | What it is |
+| ᐃᐢᐱ ᐃᐢᐸᔨᐣ | ᑖᓂᐱ ᐃᐢᐱ ᐃᐢᐸᔨᐣ |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| ᐏᑭᐦᐠ ᐏᒋᐦᐃᐏᐣ | ᐏᑐᐦᑖᐘᑲᐣ, ᐏᑳᐦᑎᐘᑲᐣ, ᐏᒋᐦᐃᐍᐘᐠ ᒪᑲ ᑎᐸᐦᐃᑲᓂᐘᐣ ᐏᒋᐦᐃᐍᐘᐠ ᐱᐦᒋ ᐃᑖᐘᐠ ᐏᑭᐦᐠ |
+| ᐊᐏᔭᐠ ᑭᓯᑲᐏ ᐊᐱᐏᐣ ᐃᑌ | ᑲᓇᐘᐸᑕᐣ ᐅᑐᐦᑖᐏᐣ ᑖᐱᐢᑯᐨ ᓂᑲᒧᐏᐣ ᒥᓇ ᒪᓯᓇᐦᐃᑲᓐ ᐅᐦᒋ ᒥᔪ ᐊᐏᔭᐠ ᐃᑌ; ᐱᒧᐦᑌᐏᐣ ᒥᓇ ᒥᒋᓱᐏᐣ ᑕᐦᑭᐏ ᒥᔭᐘᐣ |
+| ᑎᐱᐢᑯᐨ ᒪᑲ ᐊᐱᓯᓯᐤ ᐊᐱᐏᐣ | ᑭᓄᓭ ᑲᓇᐍᔨᒧᐏᐣ ᐃᑌ ᑲᓇᐍᔨᒪᐟ ᐊᐘ ᐯᔭᐠ ᑎᐱᐢᑯᐨ, ᐱᐢᑯᐢ ᑭᓯᑲᐘ ᒪᑲ ᐱᐢᑯᐢ ᐱᓯᒼ |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**ᐊᐍᓇ ᑲᑎᐸᐦᐃᑫᐟ?** NIA ᐅᐦᒋ, ᐏᑳᐦᑎᐘᑲᐣ, ᐏᑐᐦᑖᐘᑲᐣ ᒪᑲ ᐏᒋᐦᐃᐍᐘᐠ ᐅᐦᒋ ᓇᐢᑯᐦᑖᐏᐣ ᑲᔭᐢ ᓇᒪᐢᑯᑐᐏᐣ. ᐅᑭᒪᐏ ᐏᒋᐦᐃᐏᐣ ᑎᐸᐦᐃᑲᓂᐘᐣ ᐱᐢᑯᐢ ᐃᐢᑯᓂᐠ ᒪᑲ ᑭᓯᑲᐤ ᐅᐦᒋ. ᐊᐘ ᑲᐅᑖᐱᐢᑳᐟ hospice ᐏᒋᐦᐃᐏᐣ, Medicare ᒥᐢᑕᐦᐃ ᑎᐸᐦᐃᑲᓂᐘᐣ ᒥᐦᒉᐟ ᓂᔭᓄ ᑳᑭᓯᑲᐠ ᑕᐱᐢᑯᐨ ᓇᐢᑯᐦᑖᐏᐣ ᐊᐢᐱᑕᓂᐘᐠ ᒪᑲ ᐅᑭᒪᐏ ᒪᐢᑭᐦᑭᐏᐣ ᐃᑌ. Medicaid ᑲᔭᐢ ᑲᑭ ᐏᒋᐦᐃᑲᓂᐘᐣ. ᒥᐦᒉᐟ ᐱᐦᒋ ᒪᐢᑭᐦᑭᐏᐣ ᑎᐸᐦᐃᑲᓂᐘᐣ ᓇᒪ ᑎᐸᐦᐃᑲᓂᐘᐣ ᓇᐢᑯᐦᑖᐏᐣ, ᒫᑲ ᑕᐱᐢᑯᐨ ᑭᓄᓭ ᒪᐢᑭᐦᑭᐏᐣ ᑎᐸᐦᐃᑲᓂᐘᐣ ᑲᔭᐢ ᑎᐸᐦᐃᑲᓂᐘᐣ.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**ᐏᐦᑖᒪᑫᐏᐣ:** Alzheimer's Association ᐃᑖᐤ ᑲᑭ ᑲᐦᑭᔭᐣ ᓇᐢᑯᐦᑖᐏᐣ ᐏᒋᐦᐃᐍᐘᐠ ᓇᒪ ᒪᓯᓇᐦᐃᑲᓂᐘᐣ ᐃᐢᐱ ᐃᐢᐸᔨᐣ, ᑲᑭ ᐚᐸᒥᓯᐘᐠ ᑭᐢᐱᓇ ᐘᔭᐑᐏᐣ ᓇᑐᑕᐍᐘᐠ ᐏᒋᐦᐃᐏᐣ.
 
-## Where can I find help near me?
+## ᑖᓂᑌ ᑲᑭ ᒥᐢᑲᒪᐣ ᐏᒋᐦᐃᐏᐣ ᐱᐦᒋ ᓃᔭ ᐃᑌ?
 
-Several free US services can point you to local help.
+ᐱᐢᑯᐢ ᓇᒪᐢᑯᑐᐏᐣ ᐏᒋᐦᐃᐏᐣ ᐅᐦᒋ US ᑲᑭ ᐏᒋᐦᐃᑯᐣ ᐅᐦᒋ ᐃᑌ ᐏᒋᐦᐃᐏᐣ.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 ᐏᒋᐦᐃᐏᐣ: 1-800-272-3900.** [ᐏᒋᐦᐃᐏᐣ](https://www.alz.org/help-support/resources/helpline) ᓇᒪᐢᑯᑐᐏᐣ ᒥᓇ ᑲᒥᔭᐢᑎᐣ, ᐊᐏᔭᐠ ᐊᔭᐘᐠ ᑳᑭᐢᐢᑳᐠ ᑕᐱᐢᑯᐨ 365 ᑭᓯᑲᐘ, ᐏᒋᐦᐃᐏᐣ ᐊᐸᐦᑕᐣ 200 ᐊᔭᒥᐦᐃᐏᓇ ᐅᐦᒋ. ᑎᐱᐢᑯᐨ 711 ᐅᐦᒋ relay ᐏᒋᐦᐃᐏᐣ. ᑲᑭ ᐊᔭᒥᐦᐃᑐᐣ ᐅᐦᒋ ᐃᐢᐱ ᒪᔭᑭᓯᐏᐣ, ᑲᓇᐍᔨᒧᐏᐣ ᓭᐢᑭᓯᐏᐣ, ᓇᐢᑯᐦᑖᐏᐣ ᐃᐢᐱ ᐃᐢᐸᔨᐣ, ᐃᑌ ᐅᑐᐦᑖᐏᐣ ᒥᓇ ᒥᓇ ᑯᑕᐠ, ᒥᓇ ᑲᑭ ᓇᑐᑕᐍᐣ ᑭᓄᓭ ᐊᔭᒥᐦᐃᑐᐏᐣ ᐅᐦᒋ ᑲᓇᐍᔨᒧᐏᐣ ᐏᒋᐦᐃᐍᐘᐠ. ᐊᐏᔭᐠ ᓇᒪ ᒥᔭᐘᐠ ᒪᐢᑭᐦᑭᐏᐣ ᐏᐦᑖᒪᑫᐏᐣ.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), ᐅᒪ ᐏᒋᐦᐃᐏᐣ ᐅᒋ Administration for Community Living, ᑭᐊᓱᐘᒋᐦᐃᑯᐣ ᐅᐦᒋ ᐏᒋᐦᐃᐏᐣ ᑲᑭ ᐅᑖᐱᐢᑳᐠ ᐅᑭᒪᐘᐠ ᒥᓇ ᐏᑳᐦᑎᐘᑲᐣ. ᑲᑭ ᓯᒼᐸᐦᐃᑲᐣ, ᒪᓯᓇᐦᐃᑲᐣ, ᐊᔭᒥᐦᐃᑐᐣ ᐅᓂᓕᐣ ᒪᑲ ᒪᓯᓇᐦᐃᑲᐣ, ᒪᑲ ᓇᓇᑐ ᓃᑕᐘᐣ ᐅᐦᒋ ᐃᑌ. ᑲᔭᐢ ᑭᐏᒋᐦᐃᑯᐣ ᐅᐦᒋ ᑭᔭ ᐃᑌ ᐅᑭᒪᐏ ᐏᒋᐦᐃᐏᐣ ᐅᒋ Area Agency on Aging.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ᑭᐏᒋᐦᐃᑯᐣ ᑲᑭ ᒥᐢᑲᒪᐣ ᓇᐢᑯᐦᑖᐏᐣ ᐏᒋᐦᐃᐍᐘᐠ ᐅᐦᒋ ᐊᐢᑭ, ᒥᓇ ᐃᑖᐤ ᑲᑭ ᓇᑲᐢᑯᐘᐟ ᑭᔭ State Respite Coalition ᒪᑲ Lifespan Respite ᐅᑐᐦᑖᐏᐣ ᓂᑲᓐ ᑭᐢᐱᓇ ᐊᔭᐘᐣ ᐃᑌ. ARCH ᐃᑖᐤ ᓇᒪ ᑲᓇᐚᐸᐦᑕᒪᐘᐠ ᐏᒋᐦᐃᐍᐘᐠ, ᐁᑿ ᑭᔭ ᑲᓇᐚᐸᐦᑕ ᐅᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᒥᓇ ᐅᐦᒋ ᐃᐢᐱ ᐃᐢᐸᔨᐘᐠ.
 
-## How do I find a support group?
+## ᑖᓂᐢᐱ ᑲᑭ ᒥᐢᑲᒪᐣ ᐏᒋᐦᐃᑐᐏᐣ ᒪᐘᒋᐦᐃᑐᐏᐣ?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+ᓇᑐᑕᐍ ᐏᒋᐦᐃᐏᐣ ᒪᑲ ᓇᓇᑐ ᐅᓂᓕᐣ ᐅᐦᒋ ᒪᐘᒋᐦᐃᑐᐏᐣ ᐱᐦᒋ ᑭᔭ ᐃᑌ. Alzheimer's Association [ᐅᑐᐦᑖᐤ ᐏᒋᐦᐃᑐᐏᐣ ᒪᐘᒋᐦᐃᑐᐏᐣ](https://www.alz.org/help-support/community/support-groups) ᐅᐦᒋ ᑲᓇᐍᔨᒧᐘᐠ ᒥᓇ ᐊᐏᔭᐠ ᑲᐚᐸᐦᑖᐟ ᐊᓯᓂᐢᑭᐏ ᑲᓇᐍᔨᒧᐏᐣ, ᐘᐸᒥᐦᑎᑐᐏᐣ ᒥᓇ ᐅᓂᓕᐣ, ᑲᓇᐘᐸᑕᐘᐠ ᑲᑭᐢᑭᓄᐦᐊᒪᑭᐟ. ᒥᐦᒉᐟ ᐃᑌᓇ ᒥᓇ ᒥᔭᐘᐣ ᐱᐦᒋ ᒪᐘᒋᐦᐃᑐᐏᐣ, ᑖᐱᐢᑯᐨ ᐅᐦᒋ ᐅᑭᒪᐏ ᑲᓇᐍᔨᒧᐘᐠ ᒪᑲ ᐊᐏᔭᐠ ᑲᐚᐸᐦᑖᐟ ᐅᐢᑭ ᒪᑲ ᒫᒋᐢᑕ ᐊᓯᓂᐢᑭᐏ ᑲᓇᐍᔨᒧᐏᐣ. ᒥᓇ ᐅᑐᐦᑖᐤ ALZConnected, ᓇᒪᐢᑯᑐᐏᐣ ᐅᓂᓕᐣ ᒪᐘᒋᐦᐃᑐᐏᐣ ᑖᓂᑌ ᑲᓇᐍᔨᒧᐘᐠ ᑲᐊᔭᒥᐦᐃᑐᐟ ᐏᐦᑖᒪᑫᐏᐣ.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+ᐏᒋᐦᐃᑐᐏᐣ ᒪᐘᒋᐦᐃᑐᐏᐣ ᑲᔭᐢ ᒥᔪ ᐃᑌ ᑲᑭ ᐊᔭᒥᐦᐃᑐᔭᐣ ᓇᒪ ᐅᓱᐘᒥᐦᑖᐏᐣ, ᑲᑭ ᑭᐢᑭᓄᐦᐊᒪᑭᐟ ᒥᔪ ᐅᑐᐦᑖᐏᐣ ᐅᐦᒋ ᐊᐏᔭᐠ ᑳᑭ ᐃᐢᐸᔨᐟ, ᒥᓇ ᓇᒪ ᐱᐦᑯ ᐃᑖᐏᐣ. ᑭᐢᐱᓇ ᓂᑲᓐ ᒪᐘᒋᐦᐃᑐᐏᐣ ᓇᒪ ᒥᔪ ᐃᐢᐸᔨᐣ, ᑲᐦᑭᔭ ᑯᑕᐠ.
 
-## How do I ask family and friends for help?
+## ᑖᓂᐢᐱ ᑲᑭ ᓇᑐᑕᐍᐘᐠ ᐏᑳᐦᑎᐘᑲᐣ ᒥᓇ ᐏᑐᐦᑖᐘᑲᐣ ᐏᒋᐦᐃᐏᐣ?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+ᐘᐃᐦᑕ ᑕᐱᐢᑯᐨ. ᒥᐦᒉᐟ ᐊᐏᔭᐠ ᓄᐦᑌ ᐏᒋᐦᐃᐍᐘᐠ ᒫᑲ ᓇᒪ ᑭᐢᑫᔨᐦᑕᒧᐘᐠ ᑖᓂᐱ ᑲᑭ ᒥᔭᐟ. NIA ᐃᑖᐤ:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **ᐅᒋᐦᑖ ᒪᓯᓇᐦᐃᑲᓐ** ᐅᐦᒋ ᐅᑐᐦᑖᐏᓇ ᑲᑭ ᐅᑖᐱᓇᒪᐘᐠ ᑯᑕᐠ ᐊᐏᔭᐠ, ᒥᓇ ᐸᑯ ᐊᐏᔭ ᓇᐘᑖᐤ.
+- **ᒫᒋᐢᑕ ᐊᐱᓯᓯᐤ** ᑭᐢᐱᓇ ᐊᔭᐃᒥᓯᐏᐣ ᓭᐢᑭᓯᐣ.
+- **ᐅᑐᐦᑖᐏᐣ ᓇᓇᐢᑯᒧ ᐊᐘ ᐅᐦᒋ.** ᐊᐘ ᑲᒥᔪ ᑭᓯᓯᑫᐟ ᐸᑌ ᒥᒋᓱᐏᐣ ᑎᐱᐢᑯᐨ ᐊᔭᒥᐦᐁᐏ ᑭᓯᑲᐘ. ᐊᐘ ᐏᑐᐦᑖᐘᑲᐣ ᑲᒥᔪ ᒪᓯᓇᐦᐃᑫᐟ ᐏᒋᐦᐃᐍᐤ ᒪᓯᓇᐦᐃᑲᓐ ᐅᐦᒋ.
+- **ᒪᓯᓇᐦᐃᑲᐣ ᒪᑲ ᒪᓯᓇᐦᐃᑲᐣ** ᑭᐢᐱᓇ ᓇᒪ ᒥᔪ ᐃᑖᔭᐣ ᐘᐸᒥᐦᑎᑐᐏᐣ ᐅᐦᒋ ᓇᑐᑕᐍᐏᐣ.
+- **ᐚᐸᒥᓯ ᓇᐢᑯᐘᐢᑕᒧᐏᐣ** ᑭᐢᐱᓇ ᐊᐏᔭ ᐏᒋᐦᐃᐍᐟ: "ᒥᔪ ᓇᑐᑕᐍᔭᐣ. ᐁᑿ ᑲᑭ ᐃᐢᐱ ᐏᒋᐦᐃᔭᐣ."
+- **ᐸᑯ ᐊᔭᐘᐠ ᓇᒪ ᐃᑖᐏᐣ** ᒥᓇ ᐁᑲ ᒪᔭᑕ ᑭᓯᐍᔨᐦᑕᒪᐣ.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+ᑯᑕᐠ ᐃᑌᐏᓇ: ᓇᑐᑕᐍ ᐊᐏᔭ ᑲᑭ ᐊᐱ ᐊᐘ ᐯᔭᐠ ᑭᓯᑲᐏ ᐊᐸᐦᑕᐣ ᐱᐦᒋ ᐯᔭᐠ ᐱᓯᒼ, ᑲᑭ ᐱᒧᐦᑌᐦᐃᑫᐟ ᐊᐱᓯᓯᐤ, ᒪᑲ ᑲᑭ ᐅᑖᐱᓇᒪᐟ ᒥᓇ ᒪᑕᐍ ᐊᐢᑭ. ᓃᐦᐃ [ᒥᔪ ᐏᒋ ᒪᑕᐍᐏᐣ ᐘᐃᐦᑐᒪᑲᓐ](/caregiving/how-to-play-together/) ᐘᔭᐑᐏᐣ ᑲᑭ ᐊᔭᒥᐦᐃᑯᐟ ᓇᑲᐢᑯᐍᐘᐠ.
 
-## What if something happened to me?
+## ᑖᓂᐱ ᑭᐢᐱᓇ ᑯᑕᐠ ᐃᐢᐸᔨᐣ ᓃᔭ ᐅᐦᒋ?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+ᐅᒋᐦᑖ ᐊᐱᓯᓯᐤ ᓇᐢᑯᐘᐢᑕᒧᐏᐣ ᐊᓄᐦᐨ. NIA ᐃᑖᐤ ᑲᑭ ᐏᔭᐢᑕᒪᐣ ᐏᑳᐦᑎᐘᑲᐣ ᒥᓇ ᐏᑐᐦᑖᐘᑲᐣ ᐊᐍᓇ ᑲᐏᒋᐦᐃᑫᐟ, ᒥᓇ ᑲᑭ ᑲᓇᐘᐸᑕᒪᐣ ᒪᓯᓇᐦᐃᑲᓐ ᐅᐦᒋ ᒪᓯᓇᐦᐃᑲᓇ, ᒪᐢᑭᐦᑭᐏᐣ, ᐃᐢᐱ ᒪᔭᑭᓯᐏᐣ ᐏᐦᑖᒪᑫᐏᐣ ᑲᐏᒋᐦᐃᑲᓂᐘᐣ, ᒥᓇ ᒥᔪ ᐅᑐᐦᑖᐏᐣ. Alzheimer's Association ᒥᓇ ᐃᑖᐤ ᑲᑭ ᑲᓇᐘᐸᑕᒪᐣ ᐊᐘ ᐅᒪ ᒪᐢᑭᐦᑭᐏᐣ ᓇᑲᐢᑯᐘᑲᐣ ᒥᓇ ᐅᓱᑭ ᒪᐢᑭᐦᑭᐏᐣ ᒪᓯᓇᐦᐃᑲᓐ ᐘᔭᐑᐏᐣ ᑲᑭ ᒥᐢᑲᒪᐣ.
 
-## When should I get professional or urgent help?
+## ᑖᓂᐢᐱ ᑭᐢᐱᓇ ᓇᑐᑕᐍᔭᐣ ᐅᑭᒪᐏ ᒪᑲ ᐘᔭᐑᐏᐣ ᐏᒋᐦᐃᐏᐣ?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+ᐊᔭᒥᐦᒋ ᒪᐢᑭᐦᑭᐏᐢᑭᓯᐘ ᑭᐢᐱᓇ ᓭᐢᑭᓯᐏᐣ ᑭᐢᑫᔨᐦᑖᑲᐣ ᑕᐦᑭᐏ ᓂᐚᐸᒋᐦᐃᑲᓂᐘᐠ, ᑭᐢᐱᓇ ᑲᐢᑫᔨᒧᔭᐣ, ᒪᑲ ᑭᐢᐱᓇ ᓇᒪ ᑭᑭ ᑭᓯᐦᑖᐣ ᐃᐢᐱ ᐃᐢᐸᔨᐣ. ᐘᐃᐦᑕ ᒪᐢᑭᐦᑭᐏᐢᑭᓯᐘ ᑭᔭ ᑲᓇᐍᔨᒧᔭᐣ. NIA ᐃᑖᐤ ᐊᔭᒥᐦᐃᐍᐘᐠ ᒥᓇ ᒪᐘᒋᐦᐃᑐᐏᐣ ᐅᑭᒪᐘᐠ ᑲᑭ ᐏᒋᐦᐃᑯᐘᐠ ᐅᐦᒋ ᐊᔭᐃᒥᓯᐏᐣ ᒥᓇ ᐘᐱᐢᑎ ᐘᐃᐦᑕᒧᐏᐣ, ᒥᓇ Medicare, Medicaid ᒥᓇ ᑕᐱᐢᑯᐨ ᐱᐦᒋ ᒪᐢᑭᐦᑭᐏᐣ ᑎᐸᐦᐃᑲᓂᐘᐣ ᑲᔭᐢ ᑎᐸᐦᐃᑲᓂᐘᐣ ᑕᐱᐢᑯᐨ ᒪᒋᐦᑖᐏᐣ ᒪᐢᑭᐦᑭᐏᐣ ᐅᐦᒋ.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+ᑭᐢᐱᓇ ᒪᓯᓇᐦᐃᑲᓂᐘᐣ ᐃᐢᐱ ᐃᑖᔭᐣ ᒪᑲ ᒪᒋᐦᑖᐏᐣ ᐊᔭᐘᐣ ᑭᔭ ᐅᐦᒋ ᐊᐦᑯᓯᐏᐣ, ᓯᒼᐸᐦᐃᑲᐣ ᒪᑲ ᒪᓯᓇᐦᐃᑲᐣ 988 ᑲᑭ ᓇᑲᐢᑯᐘᐟ [988 Suicide & Crisis Lifeline](https://988lifeline.org/), ᓇᒪᐢᑯᑐᐏᐣ ᒥᓇ ᐊᔭᐘᐣ 24/7. ᑭᐢᐱᓇ ᐊᐏᔭ ᐊᔭᐘᐣ ᑫᐦᑕᐱᓯᐣ ᐃᐢᐱ ᐃᐢᐸᔨᐣ, ᓯᒼᐸᐦᐃᑲᐣ 911.
 
-## Can shared activities give me a break too?
+## ᒋᐦᑭ ᓇ ᒥᔪ ᐏᒋ ᐅᑐᐦᑖᐏᐣ ᑭᐏᒋᐦᐃᑯᐣ ᓇᐢᑯᐦᑖᐏᐣ ᑲᔭᐢ?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+ᑕᐱᐢᑯᐨ ᐁᐦᐁ. ᐸᔭᐦᑖᐏᐣ ᐅᑐᐦᑖᐏᐣ ᑲᒥᔪ ᐃᑖᔭᐣ ᓂᐢᑐ ᑲᔭᐢ ᒥᔪ ᐃᐢᐸᔨᐣ ᑭᔭ ᐅᐦᒋ ᑭᓯᑲᐤ ᐱᐦᒋ ᒥᓇ ᐊᐘ ᑲᓇᐍᔨᒪᐟ: ᓇᑐᑕᒧᐏᐣ ᑲᔭᐢ ᓂᑲᒧᐏᐣ, ᑲᓇᐚᐸᐦᑕᒧᐏᐣ ᒪᓯᓇᐦᐃᑲᓇ, ᒪᑲ ᒪᑕᐍᐏᐣ ᑖᐱᐢᑯᐨ [Conversation Cards](/games/conversation-cards/) ᓇᒪ ᓇᑐᑕᐍᐣ ᒥᔪ ᓇᐢᑯᐘᐢᑕᒧᐏᐣ. ᑭᐢᐱᓇ ᐊᐘ ᒥᔪ ᐃᑖᐤ ᐊᐏᔭᐠ ᐊᐢᑭ, ᒪᐘᒋᐦᐃᑐᐏᐣ ᒪᑕᐍᐏᐣ ᑖᐱᐢᑯᐨ [Picture Bingo](/games/picture-bingo/) ᐅᑭᒪᐏ ᐊᐱᐏᐣ ᐃᑌ ᒪᑲ ᐊᐏᔭᐠ ᑭᓯᑲᐏ ᐅᑐᐦᑖᐏᐣ ᐃᑌ ᑲᔭᐢ ᑭᒥᔭᐤ ᐯᔭᐠ ᐃᐢᑯᓂᐠ ᓇᐢᑯᐦᑖᐏᐣ. ᑲᓇᐚᐸᐦᑕ [ᐅᑐᐦᑖᐏᐣ ᐅᐦᒋ ᑲᓇᐍᔨᒧᐏᐣ ᐃᑌ ᒪᐘᒋᐦᐃᑐᐏᐣ](/activities/care-home-groups/) ᐅᐦᒋ ᒥᓇ ᐃᑌᐏᓇ.
