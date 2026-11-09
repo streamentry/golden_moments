@@ -347,7 +347,8 @@
     "exportarchive",
     "xcodebuild",
     "androidpublisher",
-    "gserviceaccount"
+    "gserviceaccount",
+    "jarfile"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",
