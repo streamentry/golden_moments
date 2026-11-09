@@ -36,7 +36,7 @@ and dignity matter more than completion, engagement, or a score.
 | Store copy or acquisition | [Metadata](metadata/app-store.en-US.json), [ASO](docs/strategy/us-aso.md) |
 | Category, growth, languages or new modes | [Plan](docs/plan/README.md) (proposal, not status) |
 | Screenshots | [Capture specification](docs/specs/screenshots.md) |
-| Verification or release | [Status](docs/specs/release-status.json), [release checklist](docs/release/1.3.0.md) |
+| Verification or release | [Status](docs/specs/release-status.json), [release checklist](docs/release/1.3.0.md), [publishing with keys and APIs](docs/release/publishing-with-api.md) |
 | Why these practices | [Dated primary sources](docs/engineering/sources.md) |
 
 Current code establishes behavior; specifications establish intended behavior;
