@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "As immen mei demintens itselde wer en wer freget"
+seoTitle: "Demintens en deselde fragen: wat jo sizze kinne"
+description: "Wêrom in persoan dy't mei demintens libbet deselde fraach werhellet, rêstige manieren om te antwurdzjen, handige tips en wannear in dokter nedich is."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Werhelle fragen komme faak foar by demintens: de persoan ûnthâldt meastentiids
+  net dat er de fraach al steld hat, en de fraach giet faak oer in soarch.
+  Antwurdzje rêstich en koart, as wie it de earste kear, en gean yn op it gefoel
+  efter de fraach. Sis nea: „Dat ha jo al frege.” Skriuw it antwurd dêr't se it
+  sjen kinne, fertel oer ôfspraken pas koart foarôf, en bied in noflike
+  aktiviteit oan. By in hommelse feroaring is it goed om de dokter te beljen.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "De persoan ûnthâldt meastentiids net dat er de fraach al steld hat; it is net mei opsetsin."
+  - "Efter de fraach sit faak in gefoel, lykas soarch oer in ôfspraak of it ferlet om jo feilich te fielen."
+  - "Antwurdzje rêstich, koart en freonlik, as wie it de earste kear. Sis nea: „Dat ha jo al frege.”"
+  - "In briefke, in wyt boerd, in klok of in kalinder op it sicht kin it antwurd foar jo jaan."
+  - "Fertel oer spannende dingen pas koart foardat se barre."
+  - "Nim in koarte skoft as jo dy nedich hawwe, en belje in dokter by elke hommelse feroaring."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Wêrom bliuwt myn heit mei demintens deselde fraach stellen?"
+    a: "Demintens hat ynfloed op it koarte-termynûnthâld, dus hy kin echt fergetten wêze dat hy de fraach al steld hat of it antwurd heard hat. Faak sit der ek in gefoel efter, lykas soarch oer wat der komt of it ferlet om gerêststeld te wurden. As jo op dat gefoel yngeane, helpt dat meastentiids mear as de feiten werhelje."
+  - q: "Moat ik sizze dat se de fraach al steld hawwe?"
+    a: "Nee. It kin har net helpe om it te ûnthâlden en it kin fiele as berispe. Organisaasjes op it mêd fan demintens riede oan om elke kear rêstich te antwurdzjen, as wie it de earste kear, en it antwurd koart te hâlden."
+  - q: "Helpt it om it antwurd op te skriuwen?"
+    a: "Dat kin, salang't de persoan noch lêze kin. In briefke, in wyt boerd mei it plan fan hjoed, in grutte klok of in kalinder op in plak dêr't se faak sjogge, lit har sels it antwurd sjen. Wiis der sêft op ynstee fan te sizzen: „Dat haw ik jo al ferteld.”"
+  - q: "Wannear moat ik oer ôfspraken of útstapkes prate?"
+    a: "Koart foarôf. As jo dagen fan tefoaren oer in doktersbesite of in útstapke fertelle, kin dat liede ta oeren fol soarge fragen. Fertel it koart foarôf, rêstich, en lis út wat der dêrop folget."
+  - q: "Wannear is werheljen in reden om in dokter te beljen?"
+    a: "As fragen, betizing of gedrach hommels feroarje of yn oeren of dagen folle minder wurde, nim dan gau kontakt op mei de dokter. In ynfeksje, in nij medisyn, pine, ferstopping of te min floeistof kinne hommelse betizing feroarsaakje, delyrium neamd, dêr't gau help foar nedich is."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„Hoe let is de dokter?” Tsien minuten letter: „Hoe let is de dokter?” Deselde fraach hieltyd wer hearre is ien fan de dreechste dielen fan soargje foar in persoan dy't mei demintens libbet. It komt faak foar, it is net mei opsetsin, en der binne rêstige manieren om te antwurdzjen dy't de dei foar jimme beiden makliker meitsje kinne.
 
-## Why does someone with dementia ask the same question over and over?
+## Wêrom stelt immen mei demintens deselde fraach hieltyd wer?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Meast troch it ûnthâld. Demintens hat ynfloed op it koarte-termynûnthâld, dus de persoan ûnthâldt faak net dat er de fraach steld hat, of net wat it antwurd wie. De [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) beskriuwt it faak stellen fan deselde fragen as gewoan en te ferwachtsjen.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Faak sit der ek in gefoel efter de fraach. De [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) leit út dat in werhelle fraach in soarch, in fraach om help, of eangstme en ûnfeilichheid útdrukke kin, en dat de persoan faak treast en wat bekends siket. „Wannear geane wy?” kin eins betsjutte: „Ik bin benaud foar it fuortgean.” Ferfeling, eangstme, lûd en feroaringen yn de deistige gewoanten kinne it útlokje, en in werhelle fraach kin ek wize op in behoefte, lykas nei it húske gean ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Wat kin ik it bêste sizze?
 
-Answer calmly and briefly, as if it were the first time.
+Antwurdzje rêstich en koart, as wie it de earste kear.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Hâld it antwurd koart en itselde.** „De dokter is om twa oere. Ik gean mei dy mei.” In antwurd dat itselde bliuwt, is makliker om op te nimmen.
+- **Gean yn op it gefoel.** „Do tinkst oan de dokter. It is fanmiddei, en ik ryd ús. Do hoechst neat te dwaan.”
+- **Brûk in waarme stim en in sêfte oanrekking,** as de persoan dat noflik fynt. De Alzheimer's Association riedt oan om rêstich te bliuwen en gjin logika of rûzje te brûken.
+- **Jou it antwurd dêr't se nei freegje,** sa faak as nedich. De Alzheimer's Association seit dat jo it sa faak werhelje kinne as se freegje.
 
-## What should I avoid?
+## Wat is better om net te dwaan?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„Dat ha jo my al frege.”** De [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) riedt ôf om te sizzen dat se de fraach krekt steld hawwe. It kin har net helpe om it te ûnthâlden, en it kin fiele as berispe.
+- **Lange útlis.** Hoe mear wurden, hoe mear der fergetten wurde kin.
+- **Sûgje, mei de eagen rôlje of in skerpe toan.** It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) riedt oan om geduldich te bliuwen en jo frustraasje net sjen te litten. Dat is dreech; sjoch hjirûnder by it diel oer skoften.
 
-## Simple tools that answer the question for you
+## Ienfâldige hulpmiddelen dy't it antwurd foar jo jaan
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Salang't de persoan noch lêze kin, helpt in skriftlik antwurd op it sicht faak better as in sprutsen antwurd.
 
-| Tool | How to use it |
+| Hulpmiddel | Hoe't jo it brûke kinne |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| In briefke mei grutte letters | „Dokter hjoed om 14.00 oere. Mary rydt.” Hingje it op dêr't se it faaks sjen |
+| In wyt boerd | It plan fan hjoed yn trije of fjouwer rigels; fetsje it elke moarns ôf en skriuw it opnij |
+| In grutte klok mei dei en datum | Helpt by „Hokker dei is it?” en „Is it al tiid?” |
+| In kalinder | Krús elke dei ôf; set in rûntsje om it folgjende besite |
+| Bekende foto's | In foto fan de persoan dy't komt, kin antwurd jaan op „Wa komt op besite?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Dizze ideeën komme fan de [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) en [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Wiis der sêft op („Lit ús tegearre nei it boerd sjen”) ynstee fan te sizzen: „Ik haw it foar dy opskreaun.”
 
-## Tell them about events close to the time
+## Fertel oer dingen koart foarôf
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+As jo dagen fan tefoaren oer in ôfspraak of útstapke fertelle, kin dat liede ta oeren fol soarge fragen. De Family Caregiver Alliance en Alzheimer's Los Angeles stelle beide foar om oer plannen te praten, benammen spannende saken lykas doktersbesites of in bad, pas koart foardat se barre. Fertel dan stap foar stap wat der folgjende bart.
 
-## Activities that can shift attention
+## Aktiviteiten dy't de oandacht ferskowe kinne
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+As jo antwurden hawwe en yngean binne op it gefoel, kin in rêstige, noflike aktiviteit helpe, benammen as ferfeling efter de fragen sit. Elke boarne hjirboppe stelt foar om oer te gean op iets dat de persoan leuk fynt.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **In koart, maklik spultsje tegearre.** [Picture pairs](/games/picture-pairs/) lit de ôfbyldings sichtber, dus der hoecht neat ûnthâlden te wurden.
+2. **In bekende taak.** Hânniken foldwaan, sokken sortearje of de tafel dekke. [Sort together](/games/sort-together/) is dêr in ferzje fan op it skerm.
+3. **Prate oer iets dat se leuk fine.** [Conversation cards](/games/conversation-cards/) jouwe iepen fragen sûnder goede of ferkearde antwurden.
+4. **Muzyk, in kuierke of in hapke.** It National Institute on Aging neamt dizze as ienfâldige manieren om de oandacht te ferskowen.
+5. **In rêstich momint.** Sit tegearre, sjoch nei bûten, of probearje tegearre in momint fan [calm breathing](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+As se weromkomme op de fraach, antwurdzje dan nochris, freonlik. Dat is goed.
 
-## Look for patterns
+## Sjoch nei patroanen
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+De Alzheimer's Association stelt foar om op te letten oft de fragen op bepaalde tiden fan de dei, by bepaalde minsken of op bepaalde plakken komme. As se altyd begjinne foardat besite komt, of yn de lette middei, kinne jo dêrfoar planne: in briefke oer it besite, in bekende aktiviteit klear, in rêstiger keamer. Us gids oer [rêstige aktiviteiten yn de lette middei](/caregiving/late-day-restlessness/) kin helpe as de jûnen it dreechst binne.
 
-## Take care of yourself
+## Soargje ek foar josels
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Deselde fraach foar de tweintichste kear beäntwurdzje is wurch. As jo fiele dat jo geduld opraakt en de persoan feilich is, gean dan in pear minuten nei in oare keamer en sykje rêst, sa't [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) foarstelt. It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) moediget minsken dy't soargje oan om help te freegjen en oan respitsoarch te tinken. Mear ideeën steane yn ús [gids oer selssoarch by it soargjen](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Wannear moat ik in dokter belje?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Belje gau de dokter as fragen, betizing of gedrach hommels feroarje of yn oeren of dagen folle minder wurde. It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) seit dat hommels of gau feroarjend gedrach, benammen nei in ynfeksje of in feroaring yn medisinen, daliks mei in dokter besprutsen wurde moat. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) leit út dat in ynfeksje, medisinen, te min floeistof, pine of ferstopping delyrium feroarsaakje kinne, in hommelse, swiere betizing dêr't gau behanneling foar nedich is. Belje 112 as immen yn gefaar is.

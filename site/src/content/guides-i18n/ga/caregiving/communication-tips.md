@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Leideanna cumarsáide do dhuine a bhfuil néaltrú air"
+seoTitle: "Leideanna cumarsáide néaltrú: cad a rá agus a sheachaint"
+description: "Bealaí praiticiúla chun labhairt le duine atá ag maireachtáil le néaltrú: conas comhrá a ullmhú, cad a rá in ionad ceistiúcháin nó ceartúcháin, agus conas éisteacht."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Labhair áit éigin ciúin, tabhair aghaidh ar an duine, bain úsáid as a ainm,
+  agus labhair go mall i n-abairtí gearra simplí. Cuir ceist amháin ag an am,
+  tairg dhá rogha in ionad ceisteanna oscailte, agus fan níos faide ná mar a
+  bhraitheann nádúrtha. Ná hargóint, ná ceartaigh, ná cuir ceisteanna cuimhne.
+  Freagair don mhothúchán atá taobh thiar de na focail, agus bain úsáid as
+  teagmháil, pictiúir agus gothaí de réir mar a éiríonn an chaint níos deacra.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Laghdaigh an torann cúlra agus déan teagmháil súl sula dtosaíonn tú ag caint."
+  - "Bain úsáid as abairtí gearra, smaoineamh amháin ag an am, agus ainmneacha in ionad sé, sí nó siad."
+  - "Tairg rogha idir dhá rud, nó ceist le freagra tá nó níl, in ionad ceisteanna oscailte."
+  - "Fan le freagra. Mura dtuigtear iad, déan na focail chéanna arís, ansin bain triail as focail nua."
+  - "Ná hargóint ná ná ceartaigh. Freagair don mhothúchán atá taobh thiar den méid a deir siad."
+  - "De réir mar a théann focail i léig, déan cumarsáid trí theagmháil, ton, léiriú aghaidhe agus pictiúir chomhroinnte."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Cad nár cheart a rá le duine a bhfuil néaltrú air?"
+    a: "Seachain ceistiúchán (“An cuimhin leat...?”), ceartú (“Tá sé sin mícheart”), meabhrúcháin faoi chaillteanais (“Dúirt mé leat cheana”) agus labhairt fúthu amhail is nach bhfuil siad i láthair. Seachain caint linbh. Is minic a chuireann siad seo náire nó anacair ar dhuine gan cabhrú."
+  - q: "Ar cheart dom iad a cheartú nuair a bhíonn an t-eolas mícheart acu?"
+    a: "De ghnáth, ní cheart. Má tá fíric mhícheart neamhdhíobhálach, lig di. Is annamh a athraíonn argóint intinn an duine agus is minic a chuireann sí as dóibh. Dírigh ar an dóigh a mhothaíonn siad agus ar a bhfuil de dhíth orthu anois."
+  - q: "Cad ba cheart dom a dhéanamh nuair nach féidir leo focal a aimsiú?"
+    a: "Tabhair am dóibh ar dtús. Má tá deacracht shoiléir orthu, tá sé ceart focal a thairiscint go socair nó buille faoi thuairim a thabhairt faoi cad atá i gceist acu agus seiceáil. Is féidir le pointeáil, gothaí agus pictiúir cabhrú freisin."
+  - q: "Conas is féidir liom labhairt le duine atá i néaltrú déanach agus nach labhraíonn ach go hannamh?"
+    a: "Téigh chucu ón taobh tosaigh, abair cé tú féin, agus bain úsáid as guth socair agus teagmháil bhog. Breathnaigh ar aghaidheanna agus ar theanga choirp le mothúcháin a thuiscint. Is féidir le do láthair, amhrán a bhfuil aithne orthu air nó lámha a choinneáil go leor a chur in iúl gan focail."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Is féidir go mbeidh sé níos deacra focail a aimsiú, abairt fhada a leanúint, nó torann cúlra a chur as an áireamh nuair a bhíonn néaltrú ar dhuine. Ní chiallaíonn sé sin gur stop an duine ag iarraidh teagmháil a dhéanamh. Is féidir le hathruithe beaga ar an dóigh a n-ullmhaíonn tú comhrá, ar an dóigh a labhraíonn tú agus ar an dóigh a n-éisteann tú an chaint a dhéanamh níos éasca agus níos ciúine daoibh beirt.
 
-## What are the most important tips for talking with someone who has dementia?
+## Cad iad na leideanna is tábhachtaí chun labhairt le duine a bhfuil néaltrú air?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Faigh a n-aird, coinnigh rudaí simplí, agus bí foighneach. Mura gcuimhníonn tú ach ar chúig rud:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ciúnaigh an seomra agus tabhair aghaidh orthu.** Múch an teilifís, suigh ar leibhéal na súl, agus bain úsáid as a n-ainm.
+2. **Abair rud amháin ag an am.** Abairtí gearra, smaoineamh amháin, ceist amháin.
+3. **Tairg rogha idir dhá rud.** Is fusa “Tae nó caife?” ná “Cad ba mhaith leat?”
+4. **Fan.** Tabhair níos mó ama le freagra ná mar a bhraitheann nádúrtha, agus déan iarracht gan cur isteach orthu.
+5. **Ná hargóint ná ná cuir ceisteanna cuimhne.** Freagair don dóigh a mhothaíonn siad, ní do cibé an bhfuil na fíricí ceart.
 
-## How should I start a conversation?
+## Conas ba cheart dom comhrá a thosú?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ullmhaigh rudaí ionas gur féidir leis an duine díriú ort. Molann [treoir Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) torann a theorannú ar dtús: múch an raidió nó an teilifís, dún na cuirtíní nó an doras, nó bog go háit níos ciúine.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Téigh chucu ón taobh tosaigh.** Is féidir le teacht ón gcúl nó ón taobh scanradh a chur orthu.
+- **Abair cé tú féin.** “Dia dhuit, a Dhaid, Sarah atá anseo, d’iníon.” Sábhálann sé seo orthu a bheith ag cuardach d’ainm.
+- **Téigh síos go dtí a leibhéal.** Má tá siad ina suí, suigh nó téigh ar do ghlúine ionas go mbeidh bhur súile ar an leibhéal céanna.
+- **Tabhair aire do d’aghaidh agus do do thon.** Molann an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a bheith feasach ar do thon, ar airde do ghutha, ar do léiriú aghaidhe agus ar theanga do choirp, agus iarracht a dhéanamh bheith cineálta agus socair.
+- **Seiceáil go bhfuil spéaclaí agus áiseanna éisteachta orthu.** Tá sé deacair comhrá a leanúint mura féidir leat é a fheiceáil nó a chloisteáil i gceart.
 
-## How should I phrase what I say?
+## Conas ba cheart dom an méid a deirim a chur in iúl?
 
-Use simple words, short sentences and a calm, low voice.
+Bain úsáid as focail shimplí, abairtí gearra agus guth socair íseal.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Smaoineamh amháin in aghaidh na habairte.** “Cuirimis ort do chóta. Ansin rachaimid amach.” Ná habair an dá rud in aon anáil amháin.
+- **Bain úsáid as ainmneacha, ní forainmneacha.** Is soiléire “Ghlaoigh Aintín Máire” ná “Ghlaoigh sí”.
+- **Ísligh do ghuth, ná ardaigh é.** Molann Family Caregiver Alliance guth níos ísle seachas guth níos airde.
+- **Déan arís é, ansin athraigh na focail.** Mura thuig siad, abair na focail chéanna arís uair amháin. Mura n-oibríonn sé sin, fan nóiméad agus bain triail as focail éagsúla.
+- **Taispeáin chomh maith le hinsint.** Dírigh ar an cupán, coinnigh suas an dá gheansaí, nó taispeáin an chéad chéim.
+- **Labhair leo, ní fúthu.** Tugann an NIA rabhadh gan labhairt faoin duine amhail is nach bhfuil siad i láthair, agus gan “caint linbh”.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Molann an NIA leaganacha níos simplí de cheisteanna coitianta. Seo samplaí sa spiorad sin:
 
-| Instead of | Try |
+| In ionad | Bain triail as |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “Cad ba mhaith leat don dinnéar?” | “Ar mhaith leat iasc nó sicín?” |
+| “Conas atá tú ag mothú?” | “An bhfuil tuirse ort?” |
+| “An bhfuil ocras ort?” | “Beidh an dinnéar réidh i gceann cúig nóiméad.” |
+| “Níl sin an bealach ceart chun é a dhéanamh.” | “Bainimis triail as ar an mbealach seo.” |
+| “An cuimhin leat ár dturas go dtí an loch?” | “Bhí mé ag smaoineamh ar ár dturas go dtí an loch. Inis dom cad a thaitin leat faoi.” |
+| “Dúirt mé leat cheana.” | Freagair arís, go cineálta, amhail is dá mba den chéad uair é. |
 
-## How do I listen well?
+## Conas is féidir liom éisteacht go maith?
 
-Listen for the meaning and the feeling, not just the words.
+Éist leis an gciall agus leis an mothúchán, ní hamháin leis na focail.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Fan.** Is minic gur am machnaimh atá sa tost. Comhair go mall go dtí a deich sula dtagann tú isteach.
+- **Tairg focal ach amháin má tá siad i bhfostú.** Deir Family Caregiver Alliance go bhfuil sé ceart focail a mholadh nuair a bhíonn deacracht ar dhuine.
+- **Seiceáil an rud a chuala tú.** Molann [treoir cumarsáide Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/communications) an chiall atá taobh thiar de na focail a lorg agus í a athrá lena sheiceáil gur thuig tú. “An bhfuil imní ort faoin gcarr?”
+- **Breathnaigh ar a n-aghaidh agus ar a gcorp.** De réir mar a éiríonn an chaint níos deacra, tugann an NIA faoi deara, is féidir go léireoidh gothaí aghaidhe brón, fearg nó frustrachas níos soiléire ná focail.
+- **Glac imní dáiríre.** Fiú má tá imní bunaithe ar fhíric mhícheart, tá an mothúchán fíor.
 
-## What if they say something that is not true?
+## Cad a tharlaíonn má deir siad rud nach bhfuil fíor?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ná hargóint. Is beag seans go n-éireoidh leat, agus d’fhéadfadh an duine a bheith náirithe nó scanraithe sa deireadh. Ina áit sin, déan nasc leis an mothúchán agus ansin bog ar aghaidh go réidh.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Molann Family Caregiver Alliance an mothúchán a aithint sula ndéanann tú atreorú. Mar shampla, má mhaíonn do mháthair go gcaithfidh sí na páistí a bhailiú ón scoil:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- In ionad: “A Mham, tá do pháistí fásta. Bhí sin ceithre scór bliain ó shin.”
+- Bain triail as: “Bhí tú i gcónaí chomh cúramach sin mar mháthair. Inis dom faoin mbailiú ón scoil. An mbeimis ag ithe sneaice ar dtús?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Molann Alzheimer’s Association freisin gan argóint a dhéanamh faoi ráitis nach n-aontaíonn tú leo. Roghnaigh do chuid nóiméad: má tá creideamh mícheart neamhdhíobhálach, lig dó.
 
-## How does communication change as dementia progresses?
+## Conas a athraíonn cumarsáid de réir mar a théann néaltrú ar aghaidh?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Athraíonn riachtanais le himeacht ama, mar sin coigeartaigh do chur chuige. Déanann Alzheimer’s Association cur síos ar thrí chéim leathana:
 
-| Stage | What helps |
+| Céim | Cad a chabhraíonn |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Luath | Ná glac leis nach féidir leo cumarsáid a dhéanamh. Cuir san áireamh iad i gcomhráite, labhair leo go díreach, fiafraigh dóibh cén tacaíocht atá uathu, agus bain úsáid as greann má chabhraíonn sé. |
+| Lár | Comhráite duine le duine in áit chiúin. Labhair go mall, coinnigh teagmháil súl, bain úsáid as ceisteanna le freagra tá nó níl, tabhair treoracha céim ar chéim, agus ná cáin ná ná ceartaigh. |
+| Déanach | Téigh chucu ón taobh tosaigh agus abair cé tú féin. Spreag pointeáil agus gothaí. Bain úsáid as teagmháil, fuaimeanna, radhairc agus boladh. Ná labhair riamh amhail is nach bhfuil siad ann. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Tá gach duine difriúil, agus d’fhéadfadh laethanta maithe agus laethanta deacra a bheith ag an duine céanna. Freagair don dóigh a bhfuil siad anois, ní do lipéad.
 
-## Can pictures and activities make conversation easier?
+## An féidir le pictiúir agus gníomhaíochtaí comhrá a dhéanamh níos éasca?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Is féidir. Baintear an brú de nuair a bhíonn pictiúr roinnte agaibh, agus tugann sé rud éigin daoibh beirt le breathnú air agus le pointeáil chuige.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Leideanna pictiúir.** Tugann [Conversation Cards](/games/conversation-cards/) pictiúir le ceisteanna oscailte nach ndéanann ceistiúchán riamh.
+- **Grianghraif teaghlaigh.** Déanann [Photo Pairs](/games/photo-pairs/) cluiche meaitseála socair as grianghraif a roghnaíonn tú, rud a spreagann scéalta go minic.
+- **Nathanna aitheanta.** Úsáideann [Finish the Saying](/games/finish-the-saying/) nathanna coitianta, agus ina dhiaidh sin leid chainte.
+- **Cluichí meaitseála mar chúlra.** Tugann [Picture Pairs](/games/picture-pairs/) rud éigin le déanamh le do lámha agus tú ag comhrá.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Féach [conas cluichí a imirt le chéile](/caregiving/how-to-play-together/) agus [gníomhaíochtaí athchuimhniúcháin](/activities/reminiscence/) le haghaidh tuilleadh. Maidir le cuairteanna agus glaonna, léigh ár dtreoracha maidir le [cuairt a thabhairt](/activities/visiting/) agus [glaonna gutháin agus físe](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Cad a tharlaíonn má chailleann mé m’fhoighne?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Tarlaíonn sé do gach duine. Molann an NIA, má éiríonn tú frustrachas, go dtógann tú tamall le socrú síos. Téigh isteach i seomra eile, tóg cúpla anáil mhall, agus tar ar ais nuair is féidir leat. Is féidir leat an comhrá a thosú arís i gcónaí, agus seans maith go bhfreagróidh an duine do do ghiúmar níos ciúine. Má bhíonn frustrachas ann i gcónaí, is comhartha é go bhfuil níos mó tacaíochta de dhíth ort, ní gur theip ort. Tá áiteanna le dul chucu ar thóir cabhrach inár dtreoir faoi [féinchúram do chúramóirí](/caregiving/caregiver-self-care/).

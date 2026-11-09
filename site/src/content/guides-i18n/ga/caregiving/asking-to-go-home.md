@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Nuair a bhíonn duine le néaltrú ag iarraidh dul abhaile"
+seoTitle: "Duine le néaltrú ag iarraidh dul abhaile"
+description: "Cén fáth a mbíonn duine atá ag maireachtáil le néaltrú ag iarraidh dul abhaile fiú nuair atá sé sa bhaile, cad a déarfaidh tú, gníomhaíochtaí suaimhneacha le triail, agus conas é a choinneáil slán má dhéanann sé iarracht imeacht."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Nuair a bhíonn duine atá ag maireachtáil le néaltrú ag iarraidh dul abhaile go minic, is mothúchán slándála nó áit ón am atá caite a bhíonn i gceist leis an bhfocal 'abhaile', ní an foirgneamh ina bhfuil sé. Ná déan argóint leis nach bhfuil sé sa bhaile. Aithin an mothúchán, tabhair cinnte dó go bhfuil sé slán, fiafraigh dó faoi a bhaile, ansin bog go réidh chuig grianghraif, ceol, sneaiceanna, siúlóid nó tasc simplí. Seiceáil an bhfuil ocras, tart, gá leis an leithreas nó pian air. Má thosaíonn sé go tobann, glaoigh ar dhochtúir an duine sin.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "Is minic a chiallaíonn 'Ba mhaith liom dul abhaile' ná 'Ní bhraitheann mé slán ná socair anseo', ní iarraidh ar sheoladh ar bith."
+  - "Is gnách go ndéanann argóint nó iarracht a chruthú go bhfuil sé sa bhaile an t-anacair níos measa. Freagair an mothúchán seachas na focail."
+  - "Iarr air labhairt faoi a bhaile, ansin tabhair grianghraif, ceol, sneaiceanna, siúlóid nó tasc simplí dó."
+  - "Seiceáil rud éigin is féidir a dheisiú: ocras, tart, an leithreas, pian, bheith ró-the nó ró-fhuar, torann, tuirse."
+  - "Má tharlaíonn sé gach tráthnóna déanach, d'fhéadfadh sé a bheith mar gheall ar shundowning; is féidir le gnáthamh seasta agus solas maith cabhrú leis sin."
+  - "Déan plean don tsábháilteacht má dhéanann sé iarracht imeacht, agus glaoigh ar dhochtúir an duine sin má thagann athrú tobann air."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Cén fáth go mbíonn mo mháthair atá ag maireachtáil le néaltrú ag iarraidh dul abhaile go minic nuair atá sí sa bhaile?"
+    a: "Is féidir le néaltrú seomraí eolacha a dhéanamh aisteach, agus bíonn daoine ag mothú uaireanta go bhfuil siad ag maireachtáil i dtréimhse níos luaithe dá saol. D'fhéadfadh go gciallódh 'abhaile' teach óige nó go simplí an mothúchán slándála agus compoird. Is gnách go n-oibríonn sé níos fearr an mothúchán sin a fhreagairt ná a chur in iúl di cá bhfuil sí."
+  - q: "Cad ba chóir dom a rá nuair a iarrann siad dul abhaile?"
+    a: "Déan iarracht 'Tá tú slán anseo, agus tá mé fágtha leat', ansin 'Inis dom faoi do bhaile.' Éist, roinn grianghraf nó amhrán leis, agus tairg deoch nó siúlóid ghearr dó. Seachain 'Tá tú sa bhaile anois' mar cheartú, mar is féidir go mbraitheann sé sin mar a bheadh á rá leis go bhfuil sé mícheart."
+  - q: "An bhfuil sé ceart go leor a rá go rachaimid abhaile níos déanaí?"
+    a: "Tá tuairimí éagsúla ag teaghlaigh agus ag eagraíochtaí néaltrú ar an gceist seo. Tosaíonn go leor le sólás macánta agus atreorú, agus coinníonn siad bréag bhog don am nuair nach mbeadh an fhírinne in ann a bheith oibrithe amach ag an duine gan mórán anacair. Cibé rud a roghnaíonn tú, bí cineálta agus comhsheasmhach, agus ná déan magadh ar a thuiscint ar an réaltacht riamh."
+  - q: "Cad má dhéanann siad iarracht an teach a fhágáil?"
+    a: "Bí socair agus siúil in éineacht leo seachas bac a chur orthu; is minic go socraíonn siúlóid ghearr an t-uaigneas sin. Cuir bearta sábháilteachta i bhfeidhm roimh ré, cosúil le bráisléad aitheantais, cloigíní ar na doirse agus grianghraf le déanaí. Má théann siad ar iarraidh, tosaigh ag cuardach láithreach, agus glaoigh ar 112 mura bhfuil tú tar éis iad a aimsiú laistigh de 15 nóiméad, ag rá go bhfuil néaltrú ar an duine."
+  - q: "Cathain ba chóir dom glaoch ar dhochtúir?"
+    a: "Glaoigh ar dhochtúir an duine sin go pras má thosaíonn an iarraidh nó an mhearbhall go tobann, nó má éiríonn sé i bhfad níos measa thar uaireanta nó laethanta, go háirithe má bhíonn fiabhras ann, cógas nua á ghlacadh aige nó comharthaí ionfhabhtaithe conradh na fuail. D'fhéadfadh mearbhall tobann a bheith ina dheilíriam, agus teastaíonn cúram práinneach leis. Glaoigh ar 112 má bhíonn aon duine i mbaol."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +62,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Ba mhaith liom dul abhaile." Is é seo ceann de na rudaí is deacra a chloistear i go leor teaghlaigh, go háirithe nuair atá an duine a bhfuil tú ag tabhairt aire dó ina sheomra suí féin. Tarlaíonn sé go coitianta, is féidir leis tarlú ag aon chéim den néaltrú, agus tá bealaí socracha praiticiúla ann chun freagairt dó. Clúdaíonn an leathanach seo cad is brí leis na focail go minic, cad a déarfaidh tú, gníomhaíochtaí a d'fhéadfadh cabhrú sa nóiméad, agus conas fanacht slán.
 
-## Why does someone with dementia keep asking to go home?
+## Cén fáth go mbíonn duine atá ag maireachtáil le néaltrú ag iarraidh dul abhaile go minic?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Go hiondúil, is mothúchán seachas áit é an 'abhaile'. De réir Alzheimer’s Society, is mothúchán compoird agus slándála é, nó teach ón am atá caite, seachas an teach féin. Is féidir le néaltrú seomraí eolacha a dhéanamh aisteach, agus d'fhéadfadh go mbraitheann an duine go bhfuil sé ina chónaí i dtréimhse níos luaithe dá shaol, nuair a bhí a bhaile ina theach óige nó ina áit ar bhain sé a pháistí amach ann.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+D'fhéadfadh na focail a bheith ina chomhartha freisin go bhfuil rud éigin eile cearr ag an am sin: b'fhéidir go bhfuil ocras nó tart air, go bhfuil gá leis an leithreas, go bhfuil pian air, go bhfuil sé ró-the nó ró-fhuar, tuirseach, uaigneach, scanraithe nó curtha trína chéile ag torann. Liostaíonn an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) pian, torann, uaigneas, athruithe ar ghnáthamh agus cógais i measc na gcúiseanna a d'fhéadfadh corraíl a chruthú.
 
-## What should I say when they ask to go home?
+## Cad ba chóir dom a rá nuair a iarrann siad dul abhaile?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Freagair an mothúchán, ní na focail. Molann an [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gan iarracht a dhéanamh ar an duine a chur ina luí go bhfuil sé mícheart: tá a mhothúcháin fíor, mar sin tabhair sólás agus dearbhú dó ar dtús, ansin atreoraigh go réidh é.
 
-Phrases that often help:
+Seo roinnt frásaí a d'fhéadfadh cabhrú:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Aithin an mothúchán.** "Is cosúil go bhfuil cumha ort as do bhaile."
+- **Tabhair dearbhú.** "Tá tú slán anseo, agus tá mé fágtha leat." Molann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) na focail shimplí "Tá tú slán anseo."
+- **Tabhair cuireadh cuimhní a roinnt.** "Inis dom faoi do bhaile. Cad a bhí i do chistin mar sin?" Is gnách go mbíonn ceisteanna faoin am i bhfad níos compoirdí ná ceisteanna faoin lá inniu.
+- **Tairg rud éigin a dhéanamh le chéile.** "Déanaimis cupán tae ar dtús," nó "Ar mhaith leat cabhrú liom leis na tuáillí seo?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Is féidir le ton teasúil agus lámh ar a ghéag, má thaitníonn teagmháil leis, níos mó a rá ná na focail féin.
 
-## What should I avoid?
+## Cad ba chóir dom a sheachaint?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Argóint nó míniú.** "Tá tú i do chónaí anseo anois" nó "Seo do bhaile le 40 bliain" iarrann ar an duine glacadh le rud atá deacair dá néaltrú glacadh leis, agus is féidir go mbraitheann sé sin mar a bheadh á rá leis go bhfuil sé mícheart.
+- **Ceistiú.** "Nach cuimhin leat?" nó "Cad é an seoladh?" cuireann brú leis.
+- **An doras a bhlocáil le fearg.** Má thosaíonn siad ag dul amach, bí socair agus siúil in éineacht leo. Is minic go socraíonn siúlóid ghearr in éineacht leis an uaigneas sin.
+- **Deifir.** Tabhair am dó labhairt faoina bhaile sula n-athraíonn tú ábhar an chomhrá.
 
-## Activities that can help in the moment
+## Gníomhaíochtaí a d'fhéadfadh cabhrú sa nóiméad
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Tar éis duit an mothúchán a aithint, is féidir le gníomhaíocht shocair eolach aird a aistriú gan é a chur ar leataobh.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Féach ar ghrianghraif den bhaile agus den teaghlach.** Cas na leathanaigh agus déan tráchtanna ("Féach ar an ngairdín sin") seachas ceisteanna a chur. Ar fhón nó táibléad, déanann [Photo pairs](/games/photo-pairs/) do ghrianghraif teaghlaigh féin ina gcluiche meaitseála bog, agus fanann na grianghraif ar do ghléas féin.
+2. **Labhairt faoin mbaile.** Tugann [Conversation cards](/games/conversation-cards/) leid oscailte faoi thithe, cistineacha, comharsana agus laethanta saoire, gan freagra ceart ar bith.
+3. **Seinn ceol is ansa leis.** Liostaíonn an National Institute on Aging ceol suaimhneach mar bhealach chun corraíl a mhaolú. Féach ár [gníomhaíochtaí ceoil](/activities/music/).
+4. **Bíodh sneaiceanna nó deoch aige.** Is féidir le ocras agus tart a bheith cosúil le neamhsheasamh. Is deas freisin cupán tae nó sóidín is fearr leis a bheith ina nós beag atá bainteach leis an mbaile.
+5. **Téigh ag siúl nó suí amuigh.** Cabhraíonn gluaiseacht agus solas an lae, go háirithe níos luaithe sa lá.
+6. **Tabhair jab eolach dó.** Is féidir le fillteadh níocháin, miasanna a shórtáil nó plandaí a uisciú an mothúchán a thabhairt ar ais go raibh sé i mbun a thí.
+7. **Moilligh gach rud.** Múch an teilifís, laghdaigh an torann agus an lonradh, agus déan sos [análú socair](/games/calm-breathing/) le chéile.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Mura n-oibríonn smaoineamh amháin, bain triail as ceann eile níos déanaí. Is toradh maith é suí go ciúin le chéile freisin.
 
-## Check for a cause you can fix
+## Seiceáil cúis is féidir a dheisiú
 
-| Check | What to try |
+| Seiceáil | Cad le triail |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Ocras nó tart | Tairg deoch agus sneaiceanna beaga |
+| Gá leis an leithreas | Tairg cuairt ar an leithreas, go socair agus gan mórán cainte |
+| Pian nó míchompord | Féach le haghaidh comharthaí cosúil le griméireacht, cuid den chorp a shealbhú nó constipation, agus cuir in iúl do dhochtúir an duine sin |
+| Ró-the nó ró-fhuar | Cuir sraith éadaigh leis nó bain di, nó coigeartaigh teocht an tseomra |
+| Torann nó plódú | Bog chuig seomra níos ciúine, múch an teilifís |
+| Tuirse nó ró-spreagadh | Lig dó scíth a ligean, déan an seomra a dorcha, seinn ceol bog |
+| Tráthnóna déanach | Féach an chuid faoi shundowning thíos |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Molann Alzheimer’s Society log gearr a choinneáil den am a tharlaíonn an iarraidh, mar shampla roimh bhéilí, tar éis cuairteoirí, nó ag breacadh an lae. Déanann patrúin níos éasca é a phleanáil roimh ré.
 
-## Is it okay to tell a white lie?
+## An bhfuil sé ceart go leor bréag bhog a insint?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Is díospóireacht fhíor í seo, agus tagann teaghlaigh chineálta ar bhealaí éagsúla. Deir Alzheimer’s Society nach bhfuil freagra amháin ceart: is féidir le bréaga a dhéanamh go mbeadh daoine níos amhrasacha, mar sin cinntigh cad is fearr don duine agus bí comhsheasmhach. Ag an Penn Memory Center, is é tuairim an chomh-stiúrthóra gurb é an fhírinne an réamhshocrú, agus nach bhfuil bréag bhog inghlactha ach amháin nuair nach féidir leis an duine fírinne áirithe a phróiseáil, agus nár cheart magadh a dhéanamh ar a réaltacht riamh.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Is minic a oibríonn bealach lárnach do chúramóirí: sólás macánta agus atreorú ar dtús ("Fanfaimid anseo anocht, agus tá mé ceart anseo leat"), gan argóint faoi cá bhfuil an baile.
 
-## What if it happens every afternoon or evening?
+## Cad má tharlaíonn sé gach tráthnóna nó tráthnóna déanach?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Is minic a dtugtar sundowning ar neamhsheasamh a thosaíonn nó a éiríonn níos measa sa tráthnóna déanach. Molann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) gnáthamh seasta, solas an lae agus gníomhaíocht laethúil, níos lú codlata déanacha, agus gan caiféin nó alcól déanach sa lá. Is féidir le soilse a chur ar siúl sula dtiteann an dorchadas cabhrú freisin. Tá tuilleadh eolais inár dtreoir faoi [ghníomhaíochtaí suaimhneacha sa tráthnóna déanach](/caregiving/late-day-restlessness/).
 
-## Keeping them safe if they try to leave
+## Coinnigh slán iad má dhéanann siad iarracht imeacht
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Is féidir leis an iarraidh dul abhaile a bheith mar chúis le fánaíocht. Measann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) go ndéanfaidh seis as gach deichniúr duine atá ag maireachtáil le néaltrú fánaíocht uair amháin ar a laghad.
 
-**Prepare ahead:**
+**Déan ullmhúchán roimh ré:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Bráisléad aitheantais nó míochaine le hainm an duine agus d'uimhir ghutháin, agus lipéid ina gcuid éadaí. Luann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) clár MedicAlert agus Alzheimer’s Association Safe and Found, a d'fhéadfadh costas a bheith leo.
+- Cloigín dorais nó aláram, agus glais suite ard nó íseal. Ná cuir an duine faoi ghlas ina aonar riamh.
+- Grianghraf le déanaí ón duine, agus liosta d'áiteanna a d'fhéadfadh sé a bheith ag iarraidh dul chuici, mar shampla a iar-theach nó áit oibre.
+- Inis do chomharsana muiníneacha, agus tabhair d'uimhir ghutháin dóibh.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Má théann siad ar iarraidh:** tosaigh ag cuardach láithreach; deir an Alzheimer’s Association go n-aimsítear go leor daoine laistigh de 1.5 míle. Mura bhfuil tú tar éis iad a aimsiú laistigh de 15 nóiméad, glaoigh ar 112 agus abair go bhfuil néaltrú ar an duine. Glaoigh ar 112 láithreach má bhíonn aon duine i mbaol.
 
-## When should I call a doctor?
+## Cathain ba chóir dom glaoch ar dhochtúir?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Glaoigh ar dhochtúir an duine sin go pras má thosaíonn an iarraidh nó an mhearbhall go tobann, nó má éiríonn sé i bhfad níos measa thar uaireanta nó laethanta. Deir an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) gur chóir iompar tobann nó a athraíonn go tapa a sheiceáil láithreach, go háirithe tar éis ionfhabhtaithe nó athrú ar chógais. D'fhéadfadh mearbhall tobann a bheith ina dheilíriam, agus deir an [NHS](https://www.nhs.uk/symptoms/confusion/) go dteastaíonn cúnamh práinneach leis; is cúis choitianta in daoine scothaosta iad ionfhabhtuithe conradh na fuail.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Is féidir freisin patrún seasta a lua ag an gcéad choinne eile, mar is féidir go bhfuil baint ag pian, meon íseal, fadhbanna codlata nó fo-iarmhairtí cógais leis an iompar sin.

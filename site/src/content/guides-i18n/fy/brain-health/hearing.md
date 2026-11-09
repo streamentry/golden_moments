@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Gehoarferlies en risiko op demens: wat ûndersyk lit sjen"
+seoTitle: "Gehoarferlies en demens: wat ûndersyk lit sjen"
+description: "Wêrom gehoarferlies in wichtige risikofaktor is foar demens, wat de ACHIEVE-proef echt fûn, en hoe't jo gehoar kontrolearje litte kinne."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  De Lancet-kommisje fan 2024 neamt gehoarferlies ien fan de grutste oan te passen risikofaktoaren
+  foar demens. Yn de ACHIEVE-proef fertragen gehoarapparaten de ôfname yn tinken oer it algemien
+  net, hoewol't in groep mei heger risiko minder ôfname liet sjen. Gehoarapparaten helpe by
+  petearen en it deistich libben, hoe dan ek. Lit jo gehoar kontrolearje, tink oer in
+  gehoarapparaat op resept of sûnder resept, en praat mei in dokter.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "De Lancet-kommisje skat dat gehoarferlies goed is foar sawat 7% fan demens wrâldwiid, lyk oan it grutste diel ûnder 14 faktoaren."
+  - "Yn de ACHIEVE-proef mei 977 âldere folwoeksenen feroaren gehoarapparaten de ôfname yn tinken yn trije jier oer it algemien net."
+  - "Yn in lytsere groep mei heger risiko binnen ACHIEVE wie de ôfname yn tinken 48% stadiger mei gehoarapparaten; dit moat noch befêstige wurde."
+  - "Sûnt oktober 2022 kinne folwoeksenen yn de FS mei licht oant matich gehoarferlies FDA-regulearre gehoarapparaten sûnder resept keapje."
+  - "Net behannele sichtferlies waard yn 2024 tafoege as risikofaktor foar demens, dus eachkontroles binne ek wichtich."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Foarkomme gehoarapparaten demens?"
+    a: "Dat is net bewiisd. De ACHIEVE-proef fûn oer trije jier gjin algemien effekt op de ôfname yn tinken, hoewol't ien groep mei heger risiko it better die. Gehoarapparaten binne dochs it beskôgjen wurdich, om't se petearen, feiligens en it deistich libben makliker meitsje."
+  - q: "Wa kin gehoarapparaten sûnder resept keapje?"
+    a: "De FDA lit folwoeksenen fan 18 jier en âlder mei licht oant matich gehoarferlies OTC-gehoarapparaten yn winkels of online sûnder resept keapje. Se binne net bedoeld foar slim gehoarferlies. Elkenien mei earpine, floeistof út it ear, duizeligens of hommels feroaringen yn it hearren moat earst nei in dokter."
+  - q: "Kin gehoarferlies lykje op demens?"
+    a: "Soms wol. It National Institute on Aging merkt op dat âldere minsken dy't net goed hearre soms ferkeard oansjoen wurde as yn 'e war of net meiwurkjend. In gehoarkontrole is in ferstannige stap as immen him weromlûkt of mist wat der sein wurdt."
+  - q: "Hoe faak moatte âldere folwoeksenen harren eagen kontrolearje litte?"
+    a: "It National Institute on Aging advisearret nei 60 jier elk jier of om it jier in eachûndersyk mei ferwide pupillen, of sa't jo eachsoarchferliener oanrikkemandearret. Minsken mei sûkersykte of hege bloeddruk hawwe meastentiids teminsten ien kear yn 't jier ien nedich."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Gehoarferlies komt faak foar op âldere leeftyd, en ûndersikers nimme it serieus as risikofaktor foar demens. Dat makket gehoarapparaten net in bewiisde manier om demens foar te kommen; de bêste proef oant no ta hie mingde resultaten. Dizze side leit út wat it ûndersyk lit sjen, hoe't jo jo gehoar kontrolearje litte kinne, wat gehoarapparaten sûnder resept yn de FS binne, en hoe't jo petearen makliker meitsje kinne.
 
-## Why does hearing matter for brain health?
+## Wêrom is hearren wichtich foar de sûnens fan it brein?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Gehoarferlies is keppele oan in heger risiko op demens. De [Lancet-kommisje fan 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) skat dat it goed is foar sawat 7% fan demens wrâldwiid. Dat bringt it op gelike hichte mei heech LDL-cholesterol as it grutste diel ûnder de 14 oan te passen risikofaktoaren yn it model fan de kommisje, neffens [de gearfetting fan UCL fan it rapport](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Wichtige befiningen fan de kommisje:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Heger risiko by gehoarferlies.** Yn har gearfoege analyze fan seis ûndersiken fan hege kwaliteit hienen minsken mei gehoarferlies sawat 37% mear kâns op demens as minsken mei normaal hearren.
+- **Mear ferlies, mear risiko.** Stúdzjes dy't nei de earnst seagen, fûnen dat it risiko omheech gie as it hearren minder waard.
+- **Mooglike redenen, noch net bewiisd.** Ideeën binne ûnder oare iensumens en josels weromlûke, depresje, minder prikkels foar it brein, en de ekstra mentale ynspanning dy't harkjen freget.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Gehoarferlies komt faak foar. It [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) seit dat sawat ien tredde fan âldere folwoeksenen der mei te krijen hat, en dat de kâns tanimt mei de leeftyd.
 
-## What did the ACHIEVE hearing aid trial find?
+## Wat fûn de ACHIEVE-proef mei gehoarapparaten?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE wie de earste randomisearre proef oer gehoarapparaten en de ôfname yn tinken. De resultaten wurde faak ferkeard werjûn, dus hjir binne de details út it [publisearre proefrapport](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Wa diene mei:** 977 folwoeksenen fan 70 oant 84 jier mei net behannele gehoarferlies en sûnder grutte swierrichheden mei tinken, op fjouwer lokaasjes yn 'e FS.
+- **Wat waard fergelike:** De helte krige gehoarapparaten plus begeliedingspetearen mei in audiospecialist. De oare helte krige in programma mei sûnensynformaasje oer sûn âlder wurde.
+- **Haadresultaat:** Nei trije jier wie der oer it algemien **gjin ferskil** yn de ôfname yn tinken tusken de twa groepen.
+- **Resultaat yn in subgroep:** De proef wierf dielnimmers út twa boarnen. 238 minsken kamen út in lang rinnend hert-sûnensûndersyk (ARIC), en as groep hienen se in heger risiko op ôfname yn tinken. Yn dizze groep wie de ôfname **48% stadiger** mei gehoarapparaten. Under de 739 sûne frijwilligers út 'e mienskip wie der gjin dúdlik effekt.
 
-How to read this honestly:
+Hoe't jo dit earlik lêze kinne:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- It algemiene antwurd wie: gjin effekt.
+- De befining yn 'e subgroep wie fan tefoaren pland, mar kaam út in twadde analyze fan in lytsere groep. It moat yn oare stúdzjes befêstige wurde.
+- Dielnimmers wisten yn hokker programma se sieten, en dat kin resultaten beynfloedzje.
+- De Lancet-kommisje lêst it bewiis sa dat gehoarapparaten benammen nuttich lykje foar minsken dy't gehoarferlies hawwe tegearre mei oare risikofaktoaren foar demens.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+De konklúzje is dat gehoarapparaten gjin bewiisde manier binne om demens foar te kommen. Se helpe minsken wol om te hearren, mei te dwaan oan petearen en ferbûn te bliuwen, en dat is op himsels al reden genôch om se te beskôgjen.
 
-## How do I know if hearing should be checked?
+## Hoe wit ik oft it gehoar kontrolearre wurde moat?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+It NIA riedt oan om nei in dokter te gean as jo of de persoan dêr't jo foar soargje:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Muoite hat om minsken oan 'e telefoan te begripen
+- It dreech fynt om petearen te folgjen as twa of mear minsken prate
+- Faak freget oft minsken wat werhelje wolle
+- De tv sa hurd set dat oaren deroer klage
+- Muoite hat om spraak te begripen as der eftergrûnlûd is
+- Tinkt dat oare minsken lûke te mompeljen
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Begjin by in húsdokter, dy't jo trochferwize kin nei in audiospecialist of in keal-, noas- en eardokter. Ierenfet yn it ear is in gewoane oarsaak fan gehoarferlies dêr't in dokter nei sjen kin. **Hommels gehoarferlies is in medyske needsaak**, en it NIA advisearret om daliks nei in dokter te gean.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Gehoarferlies kin fersin wurde mei betizing. It NIA merkt op dat âldere minsken dy't net goed hearre soms ferkeard oansjoen wurde as yn 'e war, net reagearjend of net meiwurkjend. As immen dy't jo leaf hawwe him weromlûkt of mist wat der sein wurdt, is in gehoarkontrole in goede earste stap.
 
-## What are over-the-counter hearing aids?
+## Wat binne gehoarapparaten sûnder resept?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Sûnt 17 oktober 2022 hat de [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) in kategory gehoarapparaten sûnder resept (OTC) tastien. Sa ferskille se fan gehoarapparaten op resept:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Eigenskip | OTC-gehoarapparaten | Gehoarapparaten op resept |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Foar wa't se binne | Folwoeksenen fan 18 jier en âlder mei licht oant matich gehoarferlies | Elk nivo fan gehoarferlies, elke leeftyd |
+| Wêr't jo se krije | Yn winkels of online, sûnder ûndersyk of resept | Fia in erkende gehoarspesjalist |
+| Ynstellen | Jo passe de ynstellingen sels oan, faak mei in app | In spesjalist programmeart se foar jo gehoar |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+De FDA seit dat OTC-apparaten net bedoeld binne foar slim of tige slim gehoarferlies. It advisearret om nei in dokter te gean, leafst in keal-, noas- en eardokter, foar't jo keapje as jo it folgjende hawwe:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Earpine of ûngemak
+- Floeistof, pus of bloed út it ear yn 'e ôfrûne seis moannen
+- Hommelse of wikseljende feroaringen yn it hearren
+- Minder hearren yn ien ear, of suzen yn mar ien ear
+- Duizeligens of draaisucht
+- In protte ierenfet
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+It wennen oan gehoarapparaten freget oefening, dus kontrolearje it retourbelied foar't jo keapje, sa't de FDA oanrikkemandearret. It NIA suggerearret om te freegjen oft jo fersekering in diel fan de kosten fergoedet. Foar immen dy't mei demens libbet, kin in audiospecialist helpe te bepalen hokker soarte apparaat en ynstelling deistich it maklikst te brûken is.
 
-## How can I talk more easily with someone who has hearing loss?
+## Hoe kin ik makliker prate mei immen dy't gehoarferlies hat?
 
-The NIA suggests:
+It NIA suggerearret:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Sjoch de persoan oan en hâld eachkontakt**, yn goed ljocht, sadat hy of sy jo lippen en útdrukkingen sjen kin.
+2. **Sykje in rêstich plak.** Set de tv út of gean fuort fan lûd.
+3. **Praat in bytsje hurder, mar rôp net.** Praat natuerlik en yn in rêstich tempo.
+4. **Hâld jo mûle frij.** Yt net, sûgje net op kauwgom en bedek jo mûle net wylst jo prate.
+5. **Formulearje opnij yn stee fan werhelje** as der wat mist wurdt.
+6. **Ien persoan tagelyk.** Soargje yn in groep derfoar dat de persoan der by belutsen wurdt.
+7. **Wês geduldich en freegje hoe't jo helpe kinne.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Dizze tips wurkje goed tegearre mei ús [kommunikaasjetips by demens](/caregiving/communication-tips/). Aktiviteiten mei bylden nimme ek de druk fan it harkjen fuort. [Byldpearken](/games/picture-pairs/) en [Petearkaarten](/games/conversation-cards/) wurkje mei wat jo sjogge, en [Meitsje it sizzen ôf](/games/finish-the-saying/) lit jo it ein sjen yn stee fan sizze. Foar petearen op ôfstân, sjoch ús gids oer [petearen mei telefoan en fideo](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Sjen docht ek ta
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Yn 2024 foege de Lancet-kommisje net behannele sichtferlies ta as nije risikofaktor. De gearfetting fan UCL skat dit op sawat 2% fan gefallen fan demens, en de kommisje riedt oan om screening en behanneling foar sichtproblemen foar elkenien beskikber te meitsjen. It [NIA advisearret](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) nei 60 jier elk jier of om it jier in eachûndersyk mei ferwide pupillen, en ek om de sterkte fan jo bril te kontrolearjen. Sels lytse feroaringen yn it sjen kinne it risiko op fallen ferheegje.
 
-## Talk with a doctor
+## Praat mei in dokter
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Freegje in dokter nei kontroles fan gehoar en sicht as jo ien fan 'e boppesteande sinjalen opmerkje. Sykje daliks help by hommels gehoarferlies, earpine of floeistof út it ear. As jo soargje foar immen dy't mei demens libbet, fertel de dokter fan dy persoan dan oer feroaringen yn hearren of sjen, om't dy ynfloed hawwe kinne op stimming, feiligens en hoe goed de persoan mei dwaan kin.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Dizze side is algemiene ynformaasje, gjin medysk advys. Sjoch ús [medyske disclaimer](/medical-disclaimer/). Lês mear oer [sosjaal kontakt en de sûnens fan it brein](/brain-health/social-connection/).

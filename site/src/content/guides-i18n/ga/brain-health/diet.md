@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Aistí bia MIND agus na Meánmhara agus néaltrú: Cad a deir an taighde"
+seoTitle: "Aiste bia MIND agus néaltrú: Cad a deir an taighde"
+description: "Cad a deir an taighde faoi aistí bia MIND agus na Meánmhara agus néaltrú, cén fáth nach bhfuair triail mhór buntáiste soiléir, agus conas cabhrú le duine atá ina chónaí le néaltrú ithe go maith."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Ceanglaíonn staidéir bhreathnaithe patrúin ithe i stíl na Meánmhara agus
+  MIND le riosca néaltrú níos ísle, ach ní i gcónaí. I dtriail randamach trí
+  bliana ar an aiste bia MIND, a foilsíodh in 2023, ní bhfuarthas aon difríocht
+  shuntasach sa smaointeoireacht ná i scananna inchinne i gcomparáid le haste
+  bia rialaithe. Níl sé cruthaithe go gcuireann aon bhia ná forlíonadh cosc ar
+  néaltrú. Do dhaoine atá ina gcónaí le néaltrú, is é an rud is tábhachtaí ná
+  go leor bia agus deochanna a fháil.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Ceanglaíonn roinnt staidéar, ach ní gach ceann díobh, a leanann daoine le himeacht ama patrúin ithe na Meánmhara agus MIND le riosca néaltrú níos ísle."
+  - "I dtriail in 2023 ar 604 duine aosach níos sine, ní dheachaigh daoine ar an aiste bia MIND níos fearr ar thástálacha smaointeoireachta ná ar scananna inchinne ná daoine ar aiste bia rialaithe tar éis trí bliana."
+  - "Deir an Institiúid Náisiúnta um Aosú nach bhfuil aon fhianaise ann gur féidir le bia áirithe a ithe nó a sheachaint cosc a chur ar Alzheimer, agus nach bhfuil aon vitimín ná forlíonadh cruthaithe chun cosc a chur air."
+  - "Tacaíonn aiste bia atá saibhir i nglasraí, torthaí, pónairí, gránaigh iomlána agus iasc le sláinte an chroí agus d’fhéadfadh sé cabhrú le rioscaí ar nós brú fola ard agus diaibéiteas."
+  - "Do dhaoine atá ina gcónaí le néaltrú, is minic a bhíonn bia méara, plátaí codarsnacha, amanna béile ciúine agus deochanna rialta níos tábhachtaí ná aon aiste bia ar leith."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "An gcuireann an t-aiste bia MIND cosc ar néaltrú?"
+    a: "Ní léir go ndéanann. Cheangail staidéir bhreathnaithe an t-aiste bia MIND le riosca níos ísle, ach i dtriail randamach trí bliana a foilsíodh in 2023 ní bhfuarthas aon difríocht shuntasach i dtorthaí tástálacha smaointeoireachta ná i scananna inchinne idir daoine ar an aiste bia MIND agus daoine ar aiste bia rialaithe. Tháinig feabhas beag ar an dá ghrúpa agus chaill siad meáchan cosúil lena chéile."
+  - q: "Cad é an difríocht idir an t-aiste bia MIND agus aiste bia na Meánmhara?"
+    a: "Cuireann aiste bia na Meánmhara béim ar ghlasraí, torthaí, gránaigh iomlána, pónairí, iasc agus ola olóige, agus gan mórán feola deirge ná milseáin. Meascann an t-aiste bia MIND í le haste bia DASH don bhrú fola agus cuireann sé béim bhreise ar ghlasraí duilleacha glasa agus caora, agus teorann sé feoil dhearg, milseáin, cáis, im agus bia friochta."
+  - q: "An bhfuil bianna nó forlíonta ann a chuireann cosc ar Alzheimer?"
+    a: "Níl. Deir an Institiúid Náisiúnta um Aosú nach bhfuil aon fhianaise ann gur féidir le bia áirithe a ithe nó a sheachaint cosc a chur ar Alzheimer ná ar mheath cognaíoch a bhaineann le haois, agus nach bhfuil aon vitimín ná forlíonadh cruthaithe chun cosc a chur ar Alzheimer. Labhair le dochtúir sula nglacann tú forlíonta."
+  - q: "Cad iad na bianna is fusa do dhuine atá ina chónaí le néaltrú a ithe?"
+    a: "Is minic a bhíonn bianna méara beagmhéide, ar nós píosaí ceapaire, píosaí sicín, codanna oráiste nó píosaí glasraí galaithe, níos fusa ná sceanra a úsáid. Má tá sé deacair cogaint nó slogadh, is féidir le bianna boga ar nós uibheacha scrofa, anlann úll nó cáis teachín cabhrú. Cuir ceist ar an dochtúir faoi mheasúnú slogtha má tharlaíonn casacht nó tachtadh."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+B’fhéidir gur léigh tú gur féidir le haste bia ‘sláintiúil don inchinn’ Alzheimer a choinneáil amach. Tá an pictiúr fíor níos cúinge ná sin. Ceanglaítear roinnt patrún ithe le riosca níos ísle i staidéir a leanann daoine le himeacht ama, ach ní bhfuair an triail is fearr go dtí seo buntáiste soiléir. Míníonn an leathanach seo an dá thaobh, agus ansin díríonn sé ar an rud is tábhachtaí de ghnáth do dhuine atá ina chónaí le néaltrú cheana féin: go leor bia agus deochanna a fháil, agus taitneamh a bhaint astu.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Is eolas ginearálta é seo, ní comhairle leighis. Labhair le dochtúir nó le diaitéiteach cláraithe sula n-athraíonn tú d’aiste bia féin nó aiste bia duine eile. Féach ar ár [séanadh leighis](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Cad iad aistí bia na Meánmhara agus MIND?
 
-The National Institute on Aging (NIA) describes them this way
+Déanann an Institiúid Náisiúnta um Aosú (NIA) cur síos orthu mar seo a leanas
 ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Aiste bia na Meánmhara:** neart torthaí, glasraí, gránaigh iomlána, pónairí, iasc agus bia mara, agus ola olóige, le méideanna beaga feola deirge, uibheacha agus milseán.
+- **Aiste bia MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): meascán d’aiste bia na Meánmhara agus d’aiste bia DASH don bhrú fola. Cuireann sé glasraí chun tosaigh, go háirithe cinn duilleacha glasa; caora; gránaigh iomlána; pónairí; cnónna; iasc uair sa tseachtain ar a laghad; agus ola olóige. Teorann sé feoil dhearg, milseáin, cáis, im nó margairín, agus bia friochta nó mearbhia.
 
-## Do these diets lower dementia risk?
+## An laghdaíonn na haistí bia seo riosca néaltrú?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Tá an fhianaise measctha. Deir an NIA go bhfuil roinnt staidéar breathnaithe, ach ní gach ceann, tar éis patrúin ithe na Meánmhara agus MIND a cheangal le riosca néaltrú níos ísle i gcomparáid le haste bia i stíl an Iarthair ina mbíonn níos mó feola deirge, saille sáithithe agus siúcra.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Rinne Coimisiún Lancet 2024 athbhreithniú níos mionsonraithe ar an taighde
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Cheangail athbhreithniú amháin ar staidéir chohórt caighdeán ard aiste bia le riosca néaltrú a bhí thart ar 20% níos ísle.
+- Cheangail anailís níos mó ar thrí chohórt cloí níos dlúithe leis an aiste bia MIND le riosca níos ísle.
+- Ach i staidéar sa tSualainn a lean 28,025 duine meánaosta ar feadh thart ar 20 bliain ní bhfuarthas riosca níos ísle le haistí bia molta ná le haste bia i stíl na Meánmhara.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Ní féidir le staidéir bhreathnaithe cúis agus éifeacht a chruthú. Is minic go mbíonn difríochtaí eile ag daoine a itheann mar seo freisin, ar nós ioncaim, oideachais, aclaíochta agus rochtana ar chúram sláinte. Tháinig an Coimisiún ar an gconclúid nach bhfuil dóthain fianaise ann le rá go gcuireann aistí bia sláintiúla cosc díreach ar néaltrú, cé go bhfuil sé maith do go leor riochtaí sláinte neart torthaí agus glasraí a ithe agus níos lú bia ultraphróiseáilte a ithe, agus go mbíonn tionchar aige sin ar fhachtóirí riosca ar nós murtall, diaibéiteas agus brú fola ard. Níor chuir sé aiste bia lena liosta de [14 fhachtóir riosca](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Cad a fuair triail aiste bia MIND in 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
+Ba í an tástáil is láidre go dtí seo ná triail randamach a foilsíodh sa New England Journal of Medicine in 2023
 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Cé:** 604 duine fásta 65 bliain d’aois nó níos sine i gceantair Chicago agus Boston, gan fadhbanna smaointeoireachta, a raibh gaol gairid acu le néaltrú, a raibh róthrom orthu, agus a raibh aiste bia nach raibh chomh sláintiúil acu ar dtús.
+- **Cad:** ar feadh trí bliana, lean leath acu an t-aiste bia MIND agus lean an leath eile a ngnáthaiste bia. Iarradh ar an dá ghrúpa thart ar 250 calra níos lú sa lá a ithe agus fuair siad comhairliúchán rialta ó dhiaitéitigh chláraithe.
+- **Toradh:** tháinig feabhas beag ar thorthaí tástálacha smaointeoireachta sa **dá** ghrúpa. Bhí an difríocht idir na grúpaí beag agus **ní raibh sí suntasach go staitistiúil**. Léirigh scananna inchinne athruithe cosúil lena chéile sa dá ghrúpa freisin.
+- **Meáchan:** chaill an dá ghrúpa thart ar 5 chileagram (thart ar 11 phunt).
 
-### Why might the trial have found no difference?
+### Cén fáth nach bhféadfadh difríocht a bheith aimsithe sa triail?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Mhol na taighdeoirí cúpla fáth. Is dócha gur chuir an grúpa rialaithe feabhas ar a aiste bia freisin, ós rud é gur chaill siad méid cosúil meáchain. Is féidir le tástáil arís agus arís eile torthaí a fheabhsú inti féin, de réir mar a théann daoine i dtaithí ar na tástálacha. B’fhéidir go raibh trí bliana ró-ghearr. Bhí an chuid is mó de na rannpháirtithe ardoilte agus de bhunadh Eorpach, mar sin b’fhéidir nach mbaineann na torthaí le gach duine.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Mar sin is é an achoimre mhacánta ná: ní dheachaigh an t-aiste bia MIND níos fearr ná aiste bia ciallmhar le níos lú calraí thar thrí bliana. Ní chiallaíonn sé sin go bhfuil ithe sláintiúil gan tairbhe. Ciallaíonn sé nár cheart do dhuine ar bith a bheith ag súil go gcuirfidh aiste bia ar leith cosc ar néaltrú.
 
-## What about specific foods and supplements?
+## Cad faoi bhianna agus forlíonta ar leith?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
+Deir an NIA nach bhfuil aon fhianaise ann gur féidir le bia áirithe a ithe nó a sheachaint cosc a chur ar Alzheimer ná ar mheath cognaíoch a bhaineann le haois. Rinneadh staidéar ar ghormáin, ar ghlasraí duilleacha agus ar thuirmiric, gan chruthúnas. Deir an NIA freisin nach bhfuil aon vitimín ná forlíonadh cruthaithe chun cosc a chur ar Alzheimer, agus ní mholtar aon cheann acu chun na críche sin. Tugann an NIA rabhadh go bhféadfadh táirgí gan chruthúnas a dhíoltar chun cosc a chur ar Alzheimer a bheith neamhshábháilte, ina gcur amú airgid, nó an dá rud, agus go bhféadfadh siad cur isteach ar chógais ordaithe, mar sin seiceáil le dochtúir sula mbaineann tú triail as aon cheann acu
 ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Conas is féidir le hithe fanacht sláintiúil agus taitneamhach?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Don chuid is mó de dhaoine fásta níos sine, is é an aidhm ná bia atá cothaitheach, eolach agus taitneamhach, ní plean dian:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Tóg béilí timpeall ar bhianna a thaitníonn leat** ó phatrún na Meánmhara: glasraí, torthaí, pónairí, gránaigh iomlána, iasc agus ola olóige.
+- **Coinnigh na milseoga is fearr leat.** Tá taitneamh agus goile tábhachtach, go háirithe níos déanaí sa saol.
+- **Ith le daoine eile** nuair is féidir leat. Is comhluadar maith é béilí a roinnt.
+- **Cócaráil le chéile.** Is gníomhaíocht chomhroinnte mhaith é glasraí a ní nó pota a chorraí; féach [tascanna tí](/activities/household-tasks/). Is féidir le hoideas teaghlaigh is fearr leat [cuimhní a spreagadh](/activities/reminiscence/) freisin.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Níor cheart do dhaoine fásta níos sine calraí a ghearradh ná meáchan a chailleadh gan labhairt le dochtúir, agus tá rioscaí breise ag baint le troscadh. Féach ar ár [dtreoir faoi throscadh](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Conas is féidir leat cabhrú le duine atá ina chónaí le néaltrú ithe go maith?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
+Do dhaoine atá ina gcónaí le néaltrú, is é **go leor** bia agus deochanna a fháil an príomhábhar imní de ghnáth. Tugann Cumann Alzheimer faoi deara go bhféadfadh daoine dearmad a dhéanamh bia a ithe, a cheapadh gur ith siad cheana féin, nó mothú faoi léigear ag roghanna, agus go bhféadfadh droch-chothú airíonna iompair a mhéadú agus caillteanas meáchain a chur faoi de
 ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Tagann na smaointe seo ó Chumann Alzheimer, an NIA agus Cumann Alzheimer:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
+1. **Tairg bia méara.** Ligeann píosaí beagmhéide atá éasca le piocadh suas, ar nós píosaí ceapaire, píosaí sicín, bataí éisc, codanna oráiste nó brocailí galaithe, do dhuine iad féin a bheathú gan sceanra.
+2. **Bain úsáid as codarsnacht ar an mbord.** Is féidir le hathruithe sa radharc é a dhéanamh deacair bia a idirdhealú ón bpláta. Is féidir le plátaí nó babhlaí bána ar mhata boird codarsnachta cabhrú. Seachain miasa agus éadaí boird le patrúin orthu.
+3. **Freastail ar bhia nó dhó ag an am.** Is féidir le pláta lán a bheith ró-mhór.
+4. **Coinnigh amanna béile ciúine.** Múch an teilifís, coinnigh an bord simplí, agus tabhair neart ama. Molann an NIA gan deifir a dhéanamh ná brú a chur ar an duine.
+5. **Tairg béilí beaga agus sneaiceanna go minic.** Molann an NIA béilí níos lú níos minice agus sneaiceanna ardfhuinnimh má níl an duine ag ithe go leor
    ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+6. **Cabhraigh le deochanna.** Tairg cupáin bheaga uisce nó deochanna eile i rith an lae, chomh maith le bianna ina bhfuil neart uisce ar nós torthaí, anraith, croitheadh bainne agus smúdaí. Mura bhfuil an duine ag iarraidh uisce, molann an NIA sú, uisce blaistithe, brat, bainne, nó caife nó tae gan chaiféin a thriail.
+7. **Seiceáil an teocht.** B’fhéidir nach dtabharfadh duine faoi deara go bhfuil bia nó deoch ró-the.
+8. **Cuir sceanra agus cupáin in oiriúint.** Is féidir le babhlaí in ionad plátaí, spúnóga le hanlaí móra, agus cupáin le claibíní ithe a dhéanamh níos fusa. Ná bí buartha faoi shlacht.
+9. **Déan bia níos fusa le cogaint agus le slogadh.** Gearr bia ina phíosaí beaga nó tairg bianna boga. Má bhíonn casacht nó tachtadh ar an duine agus iad ag ithe, inis dá ndochtúir.
+10. **Seachain beathú éigeantach.** Tugann an NIA faoi deara go laghdaíonn an goile go nádúrtha sna céimeanna déanacha de Alzheimer.
 
-### Signs to tell the doctor about
+### Comharthaí ar cheart duit a insint don dochtúir
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
+Is féidir le caillteanas meáchain, diúltú bia, tuirse nó laige a bheith ina gcomharthaí nach bhfuil duine ag ithe go leor. Tugann Cumann Alzheimer faoi deara gur féidir le fiacla nó cíor fiacla tinn, dúlagar, constipation agus athruithe ar chógais an goile a laghdú freisin
 ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
+I measc na gcomharthaí díhiodráitithe a liostaíonn an NIA tá béal tirim, meadhrán, ráta croí tapa agus siabhránachtaí
 ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Labhair le dochtúir
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Sula ndéanann tú athruithe móra ar d’aiste bia féin, nó ar aiste bia aon duine eile, labhair le dochtúir nó le diaitéiteach cláraithe, go háirithe má tá diaibéiteas, galar duáin, fadhbanna slogtha nó caillteanas meáchain le déanaí ort. Do dhuine atá ina chónaí le néaltrú, fiafraigh cé mhéad ba chóir dóibh a bheith ag iarraidh a ithe agus a ól gach lá, agus an bhféadfadh diaitéiteach nó forlíonta cabhrú.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Faigh cabhair phráinneach má tá duine ag tachtadh, nó má bhíonn mearbhall tobann, meadhrán trom nó laige orthu.

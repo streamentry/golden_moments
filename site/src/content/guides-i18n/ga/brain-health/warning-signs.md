@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Comharthaí Luatha Néaltraithe agus Cathain Dul go Dochtúir"
+seoTitle: "Comharthaí Luatha Néaltraithe agus Cathain Dul go Dochtúir"
+description: "Comharthaí luatha néaltraithe, an difríocht idir iad agus gnáth-aosú, cúiseanna inchoireáilte le fadhbanna cuimhne, agus ullmhú do choinne dochtúra."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Is féidir gur comharthaí luatha néaltraithe iad caillteanas cuimhne a chuireann isteach ar an saol
+  laethúil, deacracht le tascanna coitianta, mearbhall faoi am nó áit, agus athruithe ar ghiúmar nó ar
+  bhreithiúnas. Is féidir le go leor riochtaí eile, lena n-áirítear fadhbanna thyroid, leibhéal íseal
+  vitimín B12, fo-iarsmaí cógais, dúlagar agus fadhbanna codlata, athruithe cosúla a chur faoi deara.
+  Ní féidir ach le cliniceoir cáilithe diagnóis a dhéanamh. Má thagann mearbhall gan mhoill, tá cúram
+  práinneach ag teastáil.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Bíonn dearmad ó am go chéile coitianta le haois; is fiú athruithe a chuireann isteach ar an saol laethúil a sheiceáil."
+  - "Déanann an Alzheimer's Association cur síos ar 10 gcomhartha rabhaidh, agus athrú a bhaineann le haois tugtha le gach ceann mar chomparáid."
+  - "Is féidir le fadhbanna thyroid, leibhéal íseal vitimín B12, fo-iarsmaí cógais, dúlagar, ionfhabhtuithe agus fadhbanna codlata tionchar a imirt ar an gcuimhne, agus is féidir cuid acu a chóireáil."
+  - "Ní féidir ach le cliniceoir cáilithe néaltrú a dhiagnóisiú; ní féidir le tráth na gceist ná le féin-tástálacha ar líne é sin a dhéanamh."
+  - "D’fhéadfadh mearbhall a thosaíonn go tobann, thar uaireanta nó laethanta, a bheith ina mhearbhall géar agus bíonn cúram leighis práinneach ag teastáil."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "An bhfuil dearmad mar ghnáthchuid den aosú?"
+    a: "Bíonn roinnt dearmad ann, sea. Deir an National Institute on Aging gur dearmad éadrom a bhaineann le haois is mó a bhíonn i gceist nuair a chuirtear rudaí amú ó am go chéile nó nuair a dhéantar dearmad ar bhille. Ní gnáthchuid den aosú é an néaltrú. Is fiú fadhbanna cuimhne a fhágann go mbíonn sé deacair tascanna laethúla a dhéanamh, mar thiomáint, an fón a úsáid nó an bealach abhaile a aimsiú, a phlé le dochtúir."
+  - q: "An féidir le rud éigin seachas néaltrú a bheith ina chúis le fadhbanna cuimhne?"
+    a: "Is féidir. Luann an National Institute on Aging fadhbanna thyroid, duáin nó ae, fo-iarsmaí cógais, dúlagar agus imní, leibhéal íseal vitimín B12, mí-úsáid alcóil, fadhbanna codlata, ionfhabhtuithe agus gortuithe cloiginn, i measc rudaí eile. Tagann feabhas ar chuid acu seo nuair a chóireáiltear iad, agus is ceann de na cúiseanna é sin a bhfuil seiceáil leighis tábhachtach."
+  - q: "An féidir liom duine a thástáil le haghaidh néaltraithe sa bhaile?"
+    a: "Ní féidir. Ní féidir ach le cliniceoir cáilithe néaltrú a dhiagnóisiú, trí stair leighis, scrúdú fisiceach, tástálacha cuimhne agus smaointeoireachta, tástálacha saotharlainne agus, uaireanta, scananna inchinne. Ní leor fiú na tástálacha gairide a úsáideann dochtúirí ina n-aonar chun néaltrú a dhiagnóisiú."
+  - q: "Cad ba cheart dom a dhéanamh má éiríonn duine mearbhallach go tobann?"
+    a: "Faigh cabhair leighis láithreach. D’fhéadfadh mearbhall géar a bheith i gceist, agus déanann an VA cur síos air mar éigeandáil leighis. Glaoigh ar sholáthraí cúraim sláinte an duine láithreach nó glaoigh ar 112 nó 999, fan in aice leo, agus déan nóta ar aon chógais a thógann siad."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Is féidir leis a bheith scanrúil athruithe a thabhairt faoi deara i do chuimhne féin, nó i gcuimhne duine atá gar duit. Is féidir leis an leathanach seo cabhrú leat cinneadh a dhéanamh cathain coinní le dochtúir a dhéanamh agus conas ullmhú dó. Ní féidir leis a rá an bhfuil néaltrú ar dhuine ar bith. **Ní féidir ach le cliniceoir cáilithe néaltrú a dhiagnóisiú**, agus ní néaltrú ar chor ar bith iad go leor riochtaí a chruthaíonn fadhbanna cuimhne. Ná bí ag brath ar thráth na gceist ná ar fhéin-tástálacha ar líne.
 
-## What are the early signs of dementia?
+## Cad iad comharthaí luatha an néaltraithe?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+Déanann an [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/10_signs) cur síos ar 10 gcomhartha luatha. Tugann sé athrú a bhaineann le haois mar chomparáid le gach ceann acu. Inár bhfocail féin:
 
-| Sign worth checking | More typical with age |
+| Comhartha ar fiú é a sheiceáil | Níos coitianta le haois |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Caillteanas cuimhne a chuireann isteach ar an saol laethúil, mar shampla imeachtaí le déanaí a dhearmad nó an rud céanna a fhiafraí arís agus arís eile | Ainm nó coinne a dhearmad uaireanta agus cuimhneamh air níos déanaí |
+| Deacracht le pleanáil nó le fadhbanna a réiteach, mar shampla oideas coitianta a leanúint nó súil a choinneáil ar bhillí | Botún ó am go chéile le billí tí |
+| Deacracht tascanna coitianta a chríochnú sa bhaile, ag an obair nó amuigh | Cúnamh a bheith ag teastáil anois is arís le socrú micreathonnáin nó le clár teilifíse a thaifeadadh |
+| Amach ar an dáta, ar an séasúr nó ar an áit ina bhfuil tú | An lá den tseachtain a chur amú, ansin é a oibriú amach |
+| Deacracht nua le fad a mheas, le léamh nó le dathanna a aithint óna chéile | Athruithe radhairc de bharr catarachtaí |
+| Fadhbanna nua le focail, mar shampla stopadh i lár comhrá nó ainmneacha míchearta a thabhairt ar rudaí | Deacracht ó am go chéile an focal ceart a aimsiú |
+| Rudaí a chur in áiteanna neamhghnácha agus gan a bheith in ann do chéimeanna a rianú siar | Rudaí a chur amú anois is arís agus iad a aimsiú trí do chéimeanna a rianú siar |
+| Drochbhreithiúnas, mar shampla le hairgead nó le cúram pearsanta | Drochchinneadh ó am go chéile a dhéanamh |
+| Tarraingt siar ó chaitheamh aimsire, ón obair nó ó ghníomhaíochtaí sóisialta | Gan fonn a bheith ort uaireanta dul chuig imeacht teaghlaigh nó sóisialta |
+| Athruithe ar ghiúmar nó ar phearsantacht, mar shampla éirí mearbhallach, amhrasach, eaglach nó imníoch | Nósanna seanbhunaithe a bheith agat agus éirí míshásta nuair a chuirtear isteach ar ghnáthamh |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Ní chiallaíonn comhartha amháin néaltrú. Is é an pointe tábhachtach ná **athrú ar a bhfuil gnáth don duine sin**, go háirithe nuair a fhágann sé go mbíonn an saol laethúil níos deacra.
 
-## How is normal aging different from dementia?
+## Cén difríocht atá idir gnáth-aosú agus néaltrú?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+Deir an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) go dtugann go leor daoine níos sine faoi deara go n-athghlaonn siad rudaí níos moille, nó go gcuireann siad rudaí amú nó go ndéanann siad dearmad ar bhille ó am go chéile. Is comharthaí dearmad éadrom iad seo de ghnáth. **Ní gnáthchuid den aosú é an néaltrú.** Fágann fadhbanna cuimhne tromchúiseacha go mbíonn sé deacair gníomhaíochtaí laethúla a dhéanamh, mar thiomáint, an fón a úsáid nó an bealach abhaile a aimsiú.
 
-The NIA suggests talking with a doctor if someone:
+Molann an NIA labhairt le dochtúir má dhéanann duine:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Na ceisteanna céanna a fhiafraí arís agus arís eile
+- Dul amú in áiteanna a raibh aithne mhaith acu orthu roimhe seo
+- A bheith deacair oidis nó treoracha a leanúint
+- Éirí níos mearbhaillí faoi am, faoi dhaoine agus faoi áiteanna
+- Stopadh ag tabhairt aire dóibh féin, mar shampla droch-ithe, gan níochán nó iompar nach bhfuil sábháilte
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Bíonn **lagú cognaíoch éadrom (MCI)** ar roinnt daoine. Ciallaíonn sé sin go mbíonn níos mó fadhbanna cuimhne nó smaointeoireachta acu ná mar atá ag daoine eile dá n-aois, ach go mbíonn siad fós in ann an saol ó lá go lá a bhainistiú. Deir an NIA go bhféadfadh MCI a bheith ina chomhartha luath ar Alzheimer, ach ní fhorbraíonn gach duine a bhfuil MCI air é.
 
-## What else can cause memory problems?
+## Cad eile is féidir a bheith ina chúis le fadhbanna cuimhne?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Is féidir le go leor rudaí seachas néaltrú tionchar a imirt ar an gcuimhne, agus tagann feabhas ar roinnt acu le cóireáil. Luann an NIA:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Fadhbanna thyroid, duáin nó ae**
+- **Fo-iarsmaí cógais**
+- **Dúlagar agus imní**
+- **Leibhéal íseal vitimín B12** nó gan dóthain bia folláin a ithe
+- **Fadhbanna codlata**
+- **Mí-úsáid alcóil nó drugaí**
+- **Ionfhabhtuithe, clotanna fola nó siadaí** san inchinn
+- **Gortú cloiginn**, mar shampla comhtholgadh
+- **Strus mór nó brón**, mar shampla dul ar scor nó céile a chailleadh
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Is féidir fadhbanna éisteachta agus radhairc a mheascadh le mearbhall freisin; féach ár [treoir faoin éisteacht](/brain-health/hearing/). Sin é an fáth a bhfuil seiceáil leighis tábhachtach. De réir an [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), is minic a ordaíonn dochtúirí obair fola chun fadhbanna thyroid, easnaimh vitimín agus ionfhabhtú a sheiceáil. Is fiú [codladh](/brain-health/sleep/) maith agus cóireáil ar dhúlagar a lua freisin.
 
-## Sudden confusion is an emergency
+## Is éigeandáil é mearbhall tobann
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Má thagann mearbhall go tapa, thar uaireanta nó laethanta, tá cúram leighis práinneach ag teastáil.** D’fhéadfadh gur mearbhall géar atá i gceist. Déanann an [VA cur síos ar mhearbhall géar](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) mar éigeandáil leighis agus molann sé glaoch ar sholáthraí cúraim sláinte an duine láithreach nó glaoch ar 112 nó 999. I measc na gcomharthaí tá:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Athruithe sa chumas smaoineamh go soiléir
+- Deacracht aird a thabhairt
+- Smaointeoireacht neamheagraithe
+- A bheith thar a bheith codlatach, nó thar a bheith corraithe agus suaite
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Is féidir leis seo tarlú do dhuine ar bith, lena n-áirítear daoine atá ag maireachtáil le néaltrú cheana féin. De réir an [NHS](https://www.nhs.uk/symptoms/confusion/), i measc na gcúiseanna coitianta tá ionfhabhtuithe (bíonn ionfhabhtuithe sa chonair urinary coitianta i measc daoine níos sine agus daoine atá ag maireachtáil le néaltrú), stróc, siúcra fola íseal i measc daoine a bhfuil diaibéiteas orthu, gortú cloiginn agus roinnt cógas. Agus tú ag fanacht ar chabhair, fan in aice leis an duine agus tabhair suaimhneas dóibh le focail ghearra shimplí. Ná cuir go leor ceisteanna orthu, agus déan nóta ar aon chógais a thógann siad.
 
-## How do I prepare for the doctor's appointment?
+## Conas is féidir liom ullmhú don choinne leis an dochtúir?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Tosaíonn coinne mhaith le nótaí maithe. Molann an [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) na rudaí seo a leanas a thabhairt leat:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Liosta de na hathruithe** ar chuimhne, ar ghiúmar agus ar iompar, le samplaí sonracha agus tuairim faoin am ar thosaigh siad
+2. **Fadhbanna sláinte san am atá caite agus faoi láthair**, lena n-áirítear stair teaghlaigh ar bith le fadhbanna cuimhne
+3. **Gach cógas ar oideas agus thar an gcuntar**
+4. **Aon vitimíní nó forlíonta**
+5. **Do cheisteanna**, mar shampla cén tástálacha a dhéanfar, cá fhad a thógfaidh siad agus cathain a bheidh torthaí ar fáil
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Cuidíonn sé freisin ball teaghlaigh nó cara a bhfuil aithne mhaith acu ar an duine a thabhairt leat. Míníonn an [NIA](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) go bhféadfadh dochtúirí ceisteanna a chur ar an duine agus ar bhall teaghlaigh faoi shláinte, faoi chógais, faoi ghníomhaíochtaí laethúla agus faoi athruithe ar iompar. Féadfaidh dochtúirí freisin:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Tástálacha a thabhairt ar chuimhne, ar réiteach fadhbanna, ar aird, ar chomhaireamh agus ar theanga
+- Obair fola, fuail agus tástálacha eile a ordú chun cúiseanna eile a lorg
+- Seiceáil le haghaidh dúlagair nó riochtaí eile meabhairshláinte
+- Scananna inchinne ar nós CT nó MRI a ordú
+- Atreorú chuig speisialtóir, mar shampla geiriatraí, néareolaí, síciatraí geiriatrach nó néarshíceolaí
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Tugann an NIA faoi deara gur cuid riachtanach de Chuairt Bhliantúil Folláine Medicare í measúnú cognaíoch, agus d’fhéadfadh sé sin a bheith ina dheis nádúrtha chun imní a lua. Ní leor fiú na tástálacha gairide a úsáideann dochtúirí ina n-aonar chun néaltrú a dhiagnóisiú. Is céim tosaigh iad i dtreo measúnaithe níos iomláine, agus d’fhéadfadh níos mó ná cuairt amháin a bheith ag teastáil le haghaidh diagnóis. Molann an NIA do dhaoine a bhfuil fadhbanna cuimhne orthu filleadh ar an dochtúir gach 6 go 12 mhí.
 
-## Raising the subject kindly
+## An t-ábhar a phlé go cineálta
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Má tá imní ort faoi dhuine eile, roghnaigh nóiméad ciúin príobháideach. Labhair faoi rudaí sonracha a thug tú faoi deara, agus cuir i láthair iad mar imní faoina sláinte seachas mar cháineadh. Is féidir go mbraithfidh moladh faoi sheiceáil ghinearálta níos lú scanrúil. Cuir an duine san áireamh sna cinntí agus labhair leo mar an duine fásta atá iontu. D’fhéadfadh ár [leideanna cumarsáide](/caregiving/communication-tips/) a bheith cabhrach.
 
-## Talk with a doctor
+## Labhair le dochtúir
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Má thugann tú faoi deara athruithe ar chuimhne, ar smaointeoireacht, ar ghiúmar nó ar chumas laethúil atá nua agus a leanann ar aghaidh, déan coinne le dochtúir cúraim phríomhúil. Má thagann mearbhall go tobann, glaoigh ar 112 nó 999 nó ar sholáthraí cúraim sláinte an duine láithreach. Ciallaíonn seiceáil luath gur féidir cúiseanna inchoireáilte a aimsiú agus, más néaltrú atá i gceist, go mbíonn níos mó ama ann chun pleanáil agus chun tacaíocht a fháil. Tabhair aire duit féin tríd an tréimhse seo freisin; féach ár [treoir faoi fhéinchúram do chúramóirí](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Is eolas ginearálta é an leathanach seo, ní comhairle leighis. Féach ár [séanadh leighis](/medical-disclaimer/).

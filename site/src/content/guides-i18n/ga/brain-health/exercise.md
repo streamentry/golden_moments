@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Aclaíocht agus Sláinte na hInchinne"
+seoTitle: "Aclaíocht agus Néaltrú: Cad a Deir an Taighde"
+description: "Cad a léiríonn taighde faoi ghníomhaíocht fhisiciúil agus riosca néaltrú, chomh maith le bealaí sábháilte taitneamhacha le bogadh."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Léiríonn staidéir go bhfuil baint ag gníomhaíocht fhisiciúil rialta le riosca néaltrú níos
+  ísle, agus liostaíonn Coimisiún Lancet 2024 neamhghníomhaíocht fhisiciúil mar cheann de 14
+  fhachtóir riosca ar féidir iad a athrú. Níor chruthaigh trialacha go gcuireann aclaíocht cosc
+  ar néaltrú. Cuidíonn gluaiseacht fós le neart, cothromaíocht, giúmar agus codladh, mar sin is
+  fiú siúl, aclaíochtaí cathaoireach agus damhsa a dhéanamh ar a son féin. Labhair le dochtúir
+  sula dtosaíonn tú ar rud nua.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Ar an meán, bíonn riosca néaltrú níos ísle ag daoine atá gníomhach go fisiciúil, ach tagann sé seo den chuid is mó ó staidéir bhreathnaithe, ní ó thrialacha."
+  - "Ní bhfuair triail aclaíochta cúig bliana i measc daoine scothaosta aon difríocht shoiléir i scileanna smaointeoireachta idir grúpaí."
+  - "Clúdaíonn treoir an CDC do dhaoine fásta 65 bliain d’aois agus níos sine gníomhaíochtaí aeróbacha, neartaithe matán agus cothromaíochta, agus deir sí gur fearr beagán gníomhaíochta ná gan aon ghníomhaíocht."
+  - "I gcás daoine a bhfuil néaltrú orthu, tá gluaiseacht ghearr, aithnidiúil, chomhroinnte, mar shiúl laethúil nó cluichí ina suí, níos tábhachtaí ná aon sprioc."
+  - "Titeann níos mó ná duine scothaosta as gach ceathrar gach bliain, mar sin tá obair chothromaíochta agus spás sábháilte thar a bheith tábhachtach."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "An féidir le haclaíocht cosc a chur ar néaltrú?"
+    a: "Ní féidir le haon duine é sin a ghealladh. Léiríonn go leor staidéar go bhfuil baint ag a bheith gníomhach le riosca néaltrú níos ísle, ach níor léirigh trialacha cliniciúla go gcuireann aclaíocht cosc air. Tá go leor buntáistí eile cruthaithe ag baint le haclaíocht, mar sin is fiú í a dhéanamh fós."
+  - q: "An bhfuil sé sábháilte do dhuine a bhfuil néaltrú air nó uirthi aclaíocht a dhéanamh?"
+    a: "De ghnáth, le roinnt pleanála. Molann an National Institute on Aging labhairt le dochtúir an duine sula dtosaítear ar ghnáthamh nua, bróga compordacha a roghnú, uisce a thairiscint, agus seisiúin a choinneáil gearr. Stop má bhíonn an duine tuirseach, míchothrom nó míshásta."
+  - q: "Cad iad na haclaíochtaí is féidir a dhéanamh agus tú i do shuí?"
+    a: "I measc na roghanna agus tú i do shuí tá síneadh cathaoireach nó ióga cathaoireach, balún nó liathróid bhog a chaitheamh, málaí pónairí a chaitheamh, cannaí anraith a ardú, bannaí síneadh agus rothaitheoirí coise. Is roghanna maithe iad seo nuair a bhíonn siúl deacair."
+  - q: "Cad a tharlaíonn mura bhfuil fonn ar an duine bogadh?"
+    a: "Ná brúigh air nó uirthi. Bain triail eile as ar ball, bí páirteach féin, cuir ceol aitheanta leis, nó déan tasc de ghluaiseacht, mar shampla scuabadh nó plandaí a uisce. Is leor siúl gearr go dtí an bosca poist, agus is leor suí lasmuigh le chéile freisin."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Tá a bheith gníomhach ar cheann de na nósanna is mó a ndéantar staidéar orthu i dtaighde ar shláinte na hinchinne. Léiríonn staidéir go bhfuil baint aige le riosca néaltrú níos ísle, ach níor chruthaigh siad go gcuireann aclaíocht cosc ar néaltrú. Is cinnte go gcuidíonn gluaiseacht le neart, cothromaíocht, giúmar agus codladh ag aon aois. Clúdaíonn an leathanach seo a bhfuil le rá ag an taighde, cé mhéad gníomhaíochta a mholtar do dhaoine scothaosta, agus bealaí séimhe le bogadh in éineacht le duine a bhfuil néaltrú air nó uirthi.
 
-## Does exercise lower the risk of dementia?
+## An laghdaíonn aclaíocht an riosca néaltrú?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Tugann taighde le fios gur lú an seans go bhforbróidh néaltrú i ndaoine atá gníomhach go fisiciúil, ach tá teorainneacha leis an bhfianaise. Liostaíonn [Coimisiún Lancet 2024 ar néaltrú](https://doi.org/10.1016/S0140-6736(24)01296-0) neamhghníomhaíocht fhisiciúil mar cheann de 14 fhachtóir riosca ar féidir iad a athrú. Le chéile, tugann na 14 fhachtóir seo cuntas ar thart ar 45% den néaltrú ar fud an domhain ina shamhail.
 
-Here is what the evidence looks like:
+Seo mar a léiríonn an fhianaise é:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Tugann staidéir bhreathnaithe treo amháin.** Fuair athbhreithniú ar 58 staidéar, a phléann an Coimisiún, go raibh riosca néaltrú thart ar 20% níos ísle ag daoine a bhí gníomhach go fisiciúil. Bhí an difríocht ba mhó idir daoine a bhí beagnach neamhghníomhach go hiomlán agus iad siúd a rinne ar a laghad roinnt gníomhaíochta.
+- **D’fhéadfadh an nasc dul sa dá threo.** Tugann an Coimisiún faoi deara go bhféadfadh neamhghníomhaíocht an riosca a mhéadú. Tugann sé faoi deara freisin go bhféadfadh athruithe luatha san inchinn a bhaineann le néaltrú, a thosaíonn blianta roimh dhiagnóis, daoine a dhéanamh níos lú gníomhaí.
+- **Níl trialacha chomh soiléir.** I dtriail amháin, sannadh 945 duine scothaosta, le meánaois 78 bliain, do chúig bliana d’aclaíocht mhaoirsithe faoi dhó sa tseachtain nó do ghrúpa comparáide. Ag an deireadh, ní raibh difríocht shoiléir sna scileanna smaointeoireachta idir na grúpaí. Bhí go leor daoine sa ghrúpa comparáide gníomhach freisin, rud a fhágann go bhfuil an toradh níos deacra a léamh.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+Cuireann an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) in iúl go soiléir é. Níor léiríodh nasc soiléir idir gníomhaíocht fhisiciúil agus cosc ar ghalar Alzheimer, agus níl dóthain fianaise ó thrialacha ann le rá go gcuireann aclaíocht cosc air nó go moillíonn sí é. Laghdaíonn aclaíocht fós an riosca titimí, dúlagair, diaibéitis, brú fola ard agus stróc. Tá baint ag cuid de na riochtaí sin féin le meath cognaíoch.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Is é an teachtaireacht mhacánta ná bogadh mar go gcuidíonn sé leat mothú agus feidhmiú níos fearr inniu. Is bónas féideartha é aon bhuntáiste don inchinn, ní gealltanas.
 
-## How much activity do older adults need?
+## Cé mhéad gníomhaíochta atá de dhíth ar dhaoine scothaosta?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+Molann [treoir an CDC do dhaoine fásta 65 bliain d’aois agus níos sine](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) trí chineál gníomhaíochta gach seachtain:
 
-| Type | Weekly amount | Examples |
+| Cineál | Méid seachtainiúil | Samplaí |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aeróbach | 150 nóiméad ar a laghad de ghníomhaíocht mheasartha, mar shampla 30 nóiméad ar 5 lá | Siúl beo, damhsa, aeróbaic uisce |
+| Neartú matán | 2 lá ar a laghad, ag oibriú na bpríomhghrúpaí matán go léir | Meáchain éadroma nó cannaí anraith a ardú, bannaí síneadh |
+| Cothromaíocht | Go rialta | Siúl sáil le sáil, seasamh suas as cathaoir |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Is spriocanna iad seo, ní riachtanais tosaigh. Deir an CDC mura féidir leat iad a bhaint amach, ba chóir duit a bheith chomh gníomhach agus is féidir leat de réir do chumais agus do shláinte. Is fearr beagán gníomhaíochta ná gan aon ghníomhaíocht.
 
-## Gentle ways to move for older adults
+## Bealaí séimhe le bogadh do dhaoine scothaosta
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Siúil le comhluadar.** Cuireann siúl laethúil le cara, comharsa nó grúpa siúil comhrá agus sábháilteacht leis.
+- **Aclaíochtaí cathaoireach.** Tógann ardú lámh agus tú i do shuí, ciorcail rúitín, máirseáil ar an áit agus ióga cathaoireach neart gan riosca cothromaíochta.
+- **Damhsa sa chistin.** Cuir ceol ó dhéagóirí agus ó fichidí an duine air agus luasc, tapáil nó coiscéim. Tá smaointe inár [dtreoir ar ghníomhaíochtaí ceoil](/activities/music/).
+- **Neart le rudaí tí.** Ardaigh buidéil uisce líonta nó cannaí anraith agus tú ag breathnú ar chlár is fearr leat.
+- **Garraíodóireacht nó obair tí.** Áirítear plandaí a uisce, rácáil, scuabadh agus níocháin a fhilleadh. Féach [gníomhaíochtaí amuigh faoin aer agus garraíodóireachta](/activities/outdoor-and-gardening/) agus [tascanna tí](/activities/household-tasks/).
+- **Aclaíocht uisce.** Liostaíonn an NIA ranganna aeróbaice uisce mar rogha amháin do dhaoine a mbíonn aclaíocht ar thalamh tirim deacair ar a n-altanna.
 
-## How to exercise with someone living with dementia
+## Conas aclaíocht a dhéanamh le duine a bhfuil néaltrú air nó uirthi
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+I gcás duine a bhfuil néaltrú air nó uirthi, is é an aidhm compord, taitneamh agus cumais laethúla a choinneáil, ní uimhir a bhaint amach. Deir an NIA go gcuidíonn gníomhaíocht fhisiciúil le matáin, hailt agus croí duine a bhfuil galar Alzheimer air nó uirthi a choinneáil i riocht maith, agus gur féidir léi giúmar agus codladh a fheabhsú freisin. Labhair lena dhochtúir nó lena dochtúir sula dtosaíonn tú ar ghnáthamh nua. I measc na leideanna ó [threoir cúramóirí an NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) tá:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Siúil le chéile gach lá.** Roghnaigh cosán sábháilte, aitheanta atá saor ó chonstaicí. Má shiúlann an duine ina aonar, is smaoineamh maith bráisléad aitheantais le d’uimhir ghutháin.
+2. **Bain triail as físeáin aclaíochta do dhaoine scothaosta.** Déan iad le chéile, i do shuí nó i do sheasamh.
+3. **Coinnigh seisiúin gearr.** D’fhéadfadh go n-oibreodh roinnt “mionchleachtaí” gearra níos fearr ná cleachtadh fada amháin.
+4. **Cuir ceol leis.** Fágann amhráin aitheanta gur mothaíonn gluaiseacht cosúil le gníomhaíocht, ní le tasc. Damhsa má bhaineann an duine taitneamh as.
+5. **Tairg uisce agus bróga compordacha.** Tairg uisce nó sú le linn agus tar éis aclaíochta, agus roghnaigh éadaí compordacha agus bróga a oireann go maith agus atá déanta le haghaidh aclaíochta.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Má bhíonn siúl deacair, molann [treoir an NIA ar chúram a thabhairt do dhuine a bhfuil galar Alzheimer air nó uirthi](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) roghanna ina suí. Ina measc tá aclaíochtaí cathaoireach nó ióga, málaí pónairí a chaitheamh, liathróid bhog nó balún a chaitheamh, bannaí síneadh, rudaí tí éadroma a ardú, agus rothaitheoirí coise. Áirítear poist shimplí cosúil le scuabadh agus deannach a bhaint freisin.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Bí réadúil faoi cad is féidir le gluaiseacht a dhéanamh. Ní bhfuair Coimisiún Lancet aon fhianaise go laghdaíonn aclaíocht athruithe iompraíochta ar nós corraíl. Bog le chéile mar gur féidir leis mothú go maith, ní mar bhealach chun tráthnóna deacair a “réiteach”. Má deir an duine nach bhfuil, tá sé sin ceart go leor. Tá bealaí séimhe lenár dtreoir [nuair a deir siad nach bhfuil](/caregiving/when-they-say-no/) chun triail eile a bhaint as ar ball. Is toradh maith é críochnú go luath, nó suí lasmuigh le chéile.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Tar éis bogadh, is féidir le sos ciúin ar nós [Análú Ciúin](/games/calm-breathing/) cabhrú libh beirt socrú. Maidir le gníomhaíocht ina suí le gluaiseacht bhog lámh, oibríonn [Sórtáil le Chéile](/games/sort-together/) agus [Biongó Pictiúr](/games/picture-bingo/) go maith ag bord.
 
-## Balance and fall safety
+## Cothromaíocht agus sábháilteacht titime
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Bíonn titimí coitianta agus tromchúiseach. [Tuairiscíonn an CDC](https://www.cdc.gov/falls/data-research/facts-stats/index.html) go dtiteann níos mó ná duine scothaosta as gach ceathrar gach bliain, ach insíonn níos lú ná leath díobh dá ndochtúir. Má thiteann tú uair amháin, déantar an seans go dtitfidh tú arís a dhúbailt. I measc na bhfachtóirí riosca a liostaíonn an CDC tá:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Laige sna cosa agus sna cromáin
+- Deacracht le siúl agus cothromaíocht
+- Roinnt míochainí, lena n-áirítear suanlathaigh agus roinnt frithdhúlagrán
+- Fadhbanna radhairc
+- Pian coise nó coisbheart neamhfheiliúnach
+- Guaiseanna sa bhaile ar nós tranglam, rugaí caite agus céimeanna briste
 
-To move more safely:
+Chun bogadh ar bhealach níos sábháilte:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Bain úsáid as cathaoir dhaingean** gan rothaí, agus coinnigh cuntar nó ráille in aice láimhe le haghaidh aclaíochtaí ina seasamh.
+- **Glan an spás** de rugaí, cordaí agus tranglam ar dtús.
+- **Bog go mall agus tú ag seasamh suas**, agus stop má bhraitheann an duine meadhrán nó míchothrom.
+- **Caith bróga tacúla**, ní stocaí nó slipéir scaoilte.
+- **Cleacht cothromaíocht gar do thacaíocht.** Is samplaí de ghníomhaíochtaí cothromaíochta ón CDC iad seasamh suas as cathaoir agus siúl sáil le sáil.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+Molann an CDC gur chóir do dhuine scothaosta a thiteann agus a bhuaileann a cheann dochtúir a fheiceáil láithreach, go háirithe má thógann sé nó sí tanaitheoirí fola.
 
-## Talk with a doctor
+## Labhair le dochtúir
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Labhair le dochtúir sula dtosaíonn tú ar ghnáthamh aclaíochta nua, go háirithe do dhuine a bhfuil fadhbanna croí nó scamhóg, pian sna hailt, fadhbanna cothromaíochta, nó néaltrú air nó uirthi. Is féidir le dochtúir nó teiripeoir fisiciúil gníomhaíochtaí sábháilte a mholadh agus seiceáil an dtéann míochainí i bhfeidhm ar chothromaíocht. Inis don dochtúir faoi aon titim, fiú ceann gan ghortú. Má ghortaíonn rud éigin nó má mhothaíonn sé mícheart le linn aclaíochta, stop. I gcás pian tobann sa chliabhrach, deacracht análaithe, nó mearbhall tobann, glaoigh ar 112 nó ar 999.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Is eolas ginearálta é an leathanach seo, ní comhairle leighis. Féach ár [séanadh leighis](/medical-disclaimer/). Chun an pictiúr iomlán a fháil, léigh [cad a deir taighde faoi fhachtóirí riosca néaltrú](/brain-health/risk-factors/) agus [an féidir cosc a chur ar néaltrú](/brain-health/can-dementia-be-prevented/).

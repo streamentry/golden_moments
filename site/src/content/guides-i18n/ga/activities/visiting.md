@@ -1,34 +1,36 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Cuairt a thabhairt ar dhuine le néaltrú"
+seoTitle: "Cuairt ar dhuine le néaltrú: comhairle agus smaointe"
+description: "Cad le déanamh ar cuairt ar dhuine le néaltrú i gcúram cuimhne, i dteach altranais nó san ospidéal: cad a thabhairt leat, gníomhaíochtaí simplí agus slán a fhágáil."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Nuair a thugann tú cuairt ar dhuine le néaltrú i gcúram cuimhne nó san
+  ospidéal, coinnigh simplí é: abair d’ainm nuair a thagann tú isteach, tabhair
+  leat rud éigin le roinnt, mar ghrianghraif, ceol nó sneaic is fearr leo, agus
+  déan rud amháin éasca le chéile. Is minic a théann cuairteanna níos giorra
+  agus níos rialta níos fearr ná cinn fhada, annamha. Déan plean le haghaidh
+  slán socair agus rialta, ionas go mbeidh sé níos éasca oraibh beirt nuair a
+  bhíonn tú ag imeacht.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Beannaigh don duine as a ainm agus abair cé tú féin, ionas nach mbeidh orthu é a oibriú amach: ‘Dia duit, a Mhamaí, is mise Susan, d’iníon.’"
+  - "Tabhair leat rud nó dhó le roinnt, mar albam grianghraf, an ceol is fearr leo, blaincéad bog nó sneaic a bhfuil cead tugtha ag an fhoireann dó."
+  - "Is minic a théann cuairteanna gearra rialta níos fearr ná cinn fhada, annamha. Is tábhachtaí do láithreacht ná an méid a deir tú."
+  - "San ospidéal, tabhair leathanaigh amháin faisnéise faoin duine don fhoireann agus inis don dochtúir láithreach faoi aon athrú tobann."
+  - "Déan plean don imeacht: abair cá fhad is féidir leat fanacht, bain úsáid as an tslán chéanna gach uair, agus imigh gan fanacht rófhada."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Cad ba chóir dom a thabhairt liom ar cuairt ar dhuine le néaltrú?"
+    a: "Tabhair leat rud éigin le roinnt, seachas rud a chuireann tástáil orthu. Oibríonn albam beag grianghraf, seinmliosta de na hamhráin is fearr leo, blaincéad bog, lóis láimhe, iris faoi sheanchaitheamh aimsire, nó sneaic a bhfuil cead tugtha ag an fhoireann dó go maith. I dteach cúraim, is féidir le grianghraif teaghlaigh agus rudaí coitianta cuidiú leis an seomra a mhothú níos cosúla leis an mbaile."
+  - q: "Cá fhad ba chóir dom fanacht ar cuairt ar dhuine le néaltrú?"
+    a: "Níl fad ceart ann. Faigheann a lán teaghlach amach go n-oibríonn cuairteanna níos giorra agus níos minice níos fearr ná cinn fhada, annamha, mar go bhféadfadh an duine tuirse a fháil go tapa agus b’fhéidir nach cuimhin leo cá fhad a d’fhan tú. Bí ag faire ar chomharthaí tuirse agus imigh agus an chuairt fós taitneamhach."
+  - q: "Cad a déarfaidh mé nuair a iarrann siad dul abhaile?"
+    a: "Freagair an mothúchán, ní na focail. Is minic a chiallaíonn ‘Ba mhaith liom dul abhaile’ ‘Níl mé compordach nó sábháilte.’ Bain triail as ‘Inis dom faoi do theach,’ féach ar ghrianghraif le chéile, nó tairg siúlóid nó sneaic. Is minic a chuireann argóint nó míniú faoi cén fáth nach féidir leo imeacht níos mó imní orthu."
+  - q: "Cad a tharlaíonn mura n-aithníonn siad mé?"
+    a: "Is féidir go ngortóidh sé sin, ach déan iarracht gan iad a cheartú ná a fhiafraí ‘Nach bhfuil a fhios agat cé mise?’ Cuir tú féin in aithne go cineálta agus go simplí agus bain taitneamh as an am le chéile. Is minic go mbíonn daoine fós ag baint taitnimh as comhluadar agus go mbraitheann siad teas na cuairte fiú nuair nach bhfuil siad in ann a aithint cé tú."
+  - q: "Conas is féidir liom cabhrú le linn fanachta san ospidéal?"
+    a: "Fan leis an duine nuair is féidir leat, cuidigh leo ithe agus ól, agus tabhair leat rudaí coitianta ar nós grianghraif. Tabhair leathanaigh don fhoireann ina liostaítear a ngnáthamh, an t-ainm is fearr leo, na rudaí a thaitníonn leo, na rudaí nach dtaitníonn leo agus comharthaí pian. Inis don dochtúir láithreach má fheictear duit go bhfuil an duine tobann níos measa nó difriúil, mar is féidir le mearbhall tobann a bheith ina chomhartha ar fhadhb leighis."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +55,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Is féidir go mbeidh a lán mothúchán ag baint le cuairt a thabhairt ar dhuine a bhfuil grá agat dó nó di i gcúram cuimhne, i dteach altranais nó san ospidéal. B’fhéidir go bhfuil tú ag smaoineamh cad a déarfaidh tú, cad a thabharfaidh tú leat, nó an bhfuil aon mhaith sa chuairt mura gcuimhneoidh siad uirthi. Tá fiúntas inti. Tugann an National Institute on Aging le fios go mbíonn taitneamh ag daoine le néaltrú Alzheimer [as comhluadar go minic](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fiú nuair nach cuimhin leo cé atá ar cuairt. Tugann an leathanach seo céimeanna praiticiúla roimh an gcuairt, le linn na cuairte agus ina diaidh, chomh maith le comhairle ar leith le haghaidh fanachta san ospidéal.
 
-## How do I get ready for a visit?
+## Conas is féidir liom ullmhú don chuairt?
 
-A little planning makes the visit easier for both of you.
+Cuidíonn beagán pleanála leis an gcuairt a dhéanamh níos éasca oraibh beirt.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Roghnaigh dea-am.** Molann Dementia Australia cuairt a thabhairt nuair is gnách go mbíonn an duine is airdeallaí, a bhíonn go minic ar maidin nó thart ar mheán lae. Molann an Family Caregiver Alliance foghlaim faoi sceideal na háite agus cuairt a thabhairt le linn [saor ama seachas am gníomhaíochta](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Labhair leis an fhoireann.** Fiafraigh conas a bhí an duine inniu, agus seiceáil aon rialacha faoi bhia, peataí nó turais amach.
+- **Pacáil mála beag cuairte.** Is leor rud nó dhó le roinnt (féach an liosta thíos).
+- **Déan plean le haghaidh cúpla ábhar cainte.** B’fhéidir nach mbeidh nuacht ag an duine le roinnt, mar sin tabhair leat do chuid féin: nuacht teaghlaigh, an aimsir, cluiche, nó scéal greannmhar.
+- **Socraigh do chuid ionchas féin.** Beidh roinnt cuairteanna te agus lán cainte. Beidh cinn eile ciúin nó deacair. Tá an dá cheann sin gnáth.
 
-## What should I bring?
+## Cad ba chóir dom a thabhairt liom?
 
-Bring things to share, not things that test. Good choices include:
+Tabhair leat rudaí le roinnt, ní rudaí a chuireann tástáil orthu. I measc roghanna maithe tá:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Albam beag grianghraf** le grianghraif mhóra shoiléire. Cuir lipéid orthu ar chúl don fhoireann.
+- **Seinmliosta** de na hamhráin is fearr leo ar fhón, le cluasáin shimplí nó callaire beag.
+- **Rud bog le coinneáil,** mar blaincéad, scaif nó geansaí coitianta.
+- **Lóis láimhe** le haghaidh suathaireacht láimhe mhín, má thaitníonn teagmháil leis an duine.
+- **Iris nó leabhar pictiúr** faoi sheansuim, mar gharraíodóireacht, carranna, éin nó cócaireacht.
+- **Sneaic is fearr leo,** má deir an fhoireann go bhfuil sé sábháilte.
+- **Rudaí coitianta don seomra.** Molann an Family Caregiver Alliance bláthanna, plandaí, pictiúir teaghlaigh agus saothar ealaíne, nó póstaer mór de ghrianghraif teaghlaigh ón am atá thart.
+- **Táibléad,** chun féachaint ar ghrianghraif teaghlaigh nó chun cluiche ciúin a imirt le chéile.
 
-## What can we do together during a visit?
+## Cad is féidir linn a dhéanamh le chéile le linn na cuairte?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Nuair a dhéanann sibh rud éigin le chéile, baintear an brú den chomhrá. Molann Dementia Australia féachaint ar ghrianghraif, ceird éasca, síológa a chur, ceol, sneaic a roinnt, nó siúlóid ghearr timpeall na háite. Seo cúpla smaoineamh eile:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Féach ar ghrianghraif.** Luaigh an méid a fheiceann tú: “Féach ar an hata sin.” “Tá an trá sin go hálainn.” Lig don duine treorú a thabhairt. Seachain “Cé hé seo?”
+2. **Seinn ceol agus can.** Is féidir le hamhráin choitianta an giúmar a ardú agus nóiméad comhroinnte a thabhairt, fiú nuair a bhíonn comhrá deacair.
+3. **Téigh ar shiúlóid ghearr.** Molann an Family Caregiver Alliance siúl timpeall na háite, go háirithe sa ghairdín má tá ceann ann. Is siúlóid í turas i gcathaoir rothaí freisin.
+4. **Tabhair suathaireacht láimhe.** Is féidir le beagán lóise agus strócanna mall ar na lámha a bheith suaimhneach.
+5. **Cuidigh le grúmaeireacht.** Luann Dementia Australia an ghruaig a scuabadh, na hingne a phéinteáil nó cabhrú leis an duine éadaí is fearr leo a chur orthu, má thaitníonn sé leo.
+6. **Imir cluiche simplí.** Molann an Family Caregiver Alliance cártaí, dóiminónna, nó cibé cluiche a d’imir an duine tráth. Ar tháibléad, is féidir [Picture Pairs](/games/picture-pairs/) a imirt agus na pictiúir le feiceáil agus gan uaineadóir. Déanann [Photo Pairs](/games/photo-pairs/) cluiche meaitseála as grianghraif a roghnaíonn tú, agus fanann na grianghraif i do bhrabhsálaí.
+7. **Féach ar rud éigin le chéile.** Molann an Family Caregiver Alliance greannscannáin agus seanscannáin. Fiú mura féidir leis an duine an scéal a leanúint, is féidir libh suí gar dá chéile agus an t-am a roinnt.
+8. **Léigh os ard.** Dán gearr, sliocht is fearr leat, nó litir ó bhall teaghlaigh.
+9. **Suigh le chéile.** Is fíorchuairt é lámha a choinneáil nó suí go ciúin. Tugann an Alzheimer’s Association le fios go bhfuil sé ceart go leor mura bhfuil a fhios agat cad a déarfaidh tú, agus gurb í do láithreacht an rud is tábhachtaí.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Is féidir le [Conversation Cards](/games/conversation-cards/) cabhrú nuair a ritheann tú as rudaí le rá. Tá pictiúr agus leid oscailte ar gach cárta.
 
-## How should I talk during the visit?
+## Conas ba chóir dom labhairt le linn na cuairte?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Cuir tú féin in aithne gach uair.** “Dia duit, a Dhaid, is mise Mark, do mhac.” Molann an NIA do chuairteoirí iad féin a chur in aithne go hachomair chun comhrá a thosú.
+- **Téigh chucu ón tosach** agus suigh ar leibhéal na súl.
+- **Ná ceartaigh ná ná hargóintigh.** Tugann an NIA comhairle do chuairteoirí gan an duine a cheartú má dhéanann siad botún nó má dhéanann siad dearmad ar rud éigin.
+- **Bí foighneach** nuair a bhíonn sé deacair focail a aimsiú. Tabhair go leor ama.
+- **Freagair mothúcháin.** Má fheictear duit go bhfuil an duine brónach nó buartha, aithnigh é sin sula n-athraíonn tú an t-ábhar.
+- **Seachain ceisteanna mar thriail** ar nós “An cuimhin leat mé?” nó “Cad a d’ith tú don lón?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Féach ár [leideanna cumarsáide](/caregiving/communication-tips/) le haghaidh tuilleadh eolais.
 
-## What do I do when they say "I want to go home"?
+## Cad a dhéanfaidh mé nuair a deir siad “Ba mhaith liom dul abhaile”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Freagair an mothúchán atá taobh thiar de na focail (téann ár dtreoir faoi [nuair a leanann duine ag iarraidh dul abhaile](/caregiving/asking-to-go-home/) níos doimhne). Míníonn an Family Caregiver Alliance gur dóigh gur bealach é “Ba mhaith liom dul abhaile” le rá “Níl mé compordach,” agus molann siad freagraí ar nós “Inis dom faoi do theach” nó “Cad é an rud is fearr leat faoi do theach?” Cuireann Dementia Australia leis gur féidir le “baile” am nó áit a chiallaíonn ina raibh an duine sábháilte, mar an óige.
 
-Try:
+Bain triail as:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- an mothúchán a aithint: “Tá an chuma air go mbraitheann tú uaigneach as an mbaile.”
+- sólás a thairiscint trí theagmháil, má tá fáilte roimhe
+- féachaint ar ghrianghraif nó labhairt faoin teach teaghlaigh
+- siúlóid, deoch nó sneaic a thairiscint
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Seachain argóint nó míniú faoi cén fáth nach féidir leo imeacht. Is annamh a chuidíonn sé agus is minic a chuireann sé leis an imní.
 
-## How long should a visit be?
+## Cá fhad ba chóir do chuairt a bheith?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Is minic a oibríonn cuairteanna níos giorra agus níos minice níos fearr. Tugann an Family Caregiver Alliance le fios nach cuimhin leis an duine de ghnáth ar fhan tú cúig nóiméad nó cúig huaire, agus molann siad gur féidir le trí chuairt ghearra sa tseachtain a bheith níos fearr ná cuairt fhada amháin. Deir Dementia Australia nach bhfuil líon ceart cuairteanna ná fad ceart ann.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Sna chéad seachtainí tar éis bogadh isteach i gcúram cuimhne, molann an Family Caregiver Alliance cuairt a thabhairt go minic, agus ansin socrú de réir a chéile isteach i bpatrún rialta. Fiafraigh den fhoireann cad atá á fheiceáil acu.
 
-## How do I leave without upsetting them?
+## Conas is féidir liom imeacht gan iad a chur as?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Is minic gurb é imeacht an chuid is deacra. Molann Dementia Australia:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Abair cá fhad is féidir leat fanacht nuair a thagann tú.** “Is féidir liom fanacht ar feadh uair an chloig, ansin tá mé ag dul ag siopadóireacht.”
+- **Bain úsáid as gníomhaíocht mar chríoch nádúrtha.** “Nuair a chríochnaímid an t-amhrán seo, beidh mé ag imeacht.”
+- **Déan é a amú le béile nó le gníomhaíocht,** nó iarr ar an fhoireann cabhrú leis an duine socrú isteach i rud éigin eile.
+- **Coinnigh an slán gearr agus mar an gcéanna gach uair.** Is féidir le fanacht rófhada, leithscéalta a ghabháil nó fanacht “beagán eile” slán níos deacra a dhéanamh amach anseo.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Tar éis duit imeacht, is gnáth brón a mhothú. Lig duit féin scíth a ligean. Má chuir an chuairt as don duine, is gnách go mbeidh an fhoireann in ann cabhrú leo socrú go luath ina dhiaidh sin.
 
-## Visiting someone with dementia in the hospital
+## Cuairt a thabhairt ar dhuine le néaltrú san ospidéal
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Tá ospidéal glórach, aineoil agus lán de strainséirí, rud a d’fhéadfadh a bheith an-deacair do dhuine atá ina chónaí le néaltrú. Molann treoir an NIA faoi [duine le néaltrú Alzheimer a thabhairt chuig an ospidéal](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital):
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Iarr ar dhuine fanacht leis an duine** a mhéid is féidir: ball teaghlaigh, cara iontaofa nó cúramóir fostaithe.
+- **Tabhair leathanaigh faisnéise pearsanta don fhoireann** ina liostaítear gnáthamh an duine, an t-ainm is fearr leo, na rudaí a thaitníonn leo agus nach dtaitníonn leo, rudaí a d’fhéadfadh iad a chur as, agus comharthaí pian nach mbíonn i bhfocail. Cuir cóipeanna sa seomra agus ag stáisiún na n-altraí.
+- **Cuidigh le hithe agus le hól.** Is féidir le daoine scothaosta easpa cothaithe a fháil san ospidéal. Oscail coimeádáin, cuidigh le béilí, ith le chéile, agus tairg deochanna.
+- **Tabhair leat rudaí compordacha** ar nós grianghraif nó rudaí spioradálta.
+- **Laghdaigh an torann.** Múch an teilifís agus laghdaigh torann an fhóin agus an idirchum.
+- **Bain triail as deasghnátha suaimhneacha,** mar cheol bog, léamh, paidir, amhránaíocht nó féachaint trí sheanghrianghraif.
+- **Spreag gluaiseacht thart** a mhéid is sábháilte é, le cead na foirne.
+- **Inis don dochtúir láithreach má fheictear duit go bhfuil an duine tobann níos measa nó difriúil.** Míníonn an NIA gur féidir le mearbhall trom tobann, ar a dtugtar mearbhall géar, a bheith mar thoradh ar fhadhbanna ar nós ionfhabhtaithe, fiabhrais, díhiodráitithe nó fo-iarsmaí cógas, agus go bhfuil gá le haird leighis.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Is féidir gurb í cuairt ghearr shocair le duine coitianta agus amhrán is fearr leat an chuid is compordaí den lá san ospidéal.
 
-## Bringing children on a visit
+## Páistí a thabhairt ar cuairt
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Is féidir le páistí a lán teasa a thabhairt leo. Ullmhaigh iad roimh ré le focail shimplí, mhacánta, coinnigh an chuairt gearr, agus tabhair jab beag dóibh, mar líníocht a thaispeáint nó grianghraf a thabhairt ar láimh. Molann an NIA gur féidir le páistí agus le daoine le néaltrú Alzheimer taitneamh a bhaint as gníomhaíochtaí simplí le chéile, mar fhéachaint trí albam grianghraf nó éisteacht le ceol. Molann Dementia Australia mála beag de shneaiceanna nó de rudaí ciúine a phacáil chun páistí óga a choinneáil gnóthach.
 
-## Take care of yourself too
+## Tabhair aire duit féin freisin
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Is féidir le cuairteanna a bheith tuirsiúil agus mothúchánach, go háirithe má tá athrú mór tagtha ar an duine. Tá sé ceart go leor cuairt a thabhairt níos lú minice má theastaíonn sé uait, cara a thabhairt leat mar thacaíocht, nó imeacht go luath ar lá deacair. Le haghaidh smaointe faoi aire a thabhairt duit féin, féach [féinchúram do chúramóirí](/caregiving/caregiver-self-care/). Má tá tú i do chónaí i bhfad uaidh, féach ár dtreoir faoi [ghlaonna gutháin agus físeáin](/activities/phone-and-video-calls/).

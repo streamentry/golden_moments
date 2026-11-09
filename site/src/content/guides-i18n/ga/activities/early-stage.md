@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Gníomhaíochtaí do Néaltrú Luathchéime"
+seoTitle: "Gníomhaíochtaí Néaltrú Luathchéime a Oireann"
+description: "Smaointe gníomhaíochta do néaltrú luathchéime: caitheamh aimsire, cluichí, turais, scríobh agus pleanáil le chéile, le hathruithe beaga a choinníonn an duine ag baint taitnimh astu agus i gceannas."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  I néaltrú luathchéime, is féidir le formhór na ndaoine leanúint ar aghaidh
+  leis na rudaí a thaitníonn leo: caitheamh aimsire, cártaí agus cluichí cláir,
+  cócaireacht, garraíodóireacht, siúl, clubanna, gníomhaíochtaí creidimh agus
+  obair dheonach. Is iad na príomhathruithe ná grúpaí níos lú, turais níos
+  giorra, pleananna simplí scríofa agus comhpháirtí in aice láimhe. Fiafraigh
+  den duine cén chabhair atá uathu, agus lig dóibh a bheith i gceannas.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Maireann formhór na ndaoine sa chéim luath go measartha neamhspleách. De ghnáth ní mór gníomhaíochtaí a choigeartú, ní a chur ina n-áit."
+  - "Fiafraigh den duine cén tacaíocht atá uathu, agus aontaigh ar chomhartha simplí a thaispeánfaidh cathain a bheidh fáilte roimh chabhair."
+  - "Is minic a dhéanann grúpaí níos lú, amanna níos ciúine agus turais níos giorra difríocht mhór."
+  - "Is deis mhaith í seo don duine tionscadail faoina saol féin a threorú, mar shampla dialann nó leabhar scéalta saoil."
+  - "Roghnaigh cluichí le haghaidh taitneamh. Fág i leataobh aon rud a thosaíonn ag mothú mar thástáil."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Cad iad na gníomhaíochtaí atá oiriúnach do néaltrú luathchéime?"
+    a: "De ghnáth, na cinn chéanna a thaitníonn leis an duine cheana féin: cártaí, cluichí cláir, cócaireacht, garraíodóireacht, siúl, ceol, gníomhaíochtaí creidimh, clubanna agus obair dheonach. B’fhéidir go mbeidh ort iad a dhéanamh níos giorra, níos ciúine nó níos simplí. Oireann dialann a choinneáil, litreacha a scríobh agus leabhar scéalta saoil a dhéanamh don chéim seo freisin."
+  - q: "Conas is féidir liom cabhrú gan smacht a ghlacadh?"
+    a: "Fiafraigh cén cineál cabhrach atá ag teastáil ón duine, agus seiceáil leo go minic. Aontaigh ar fhrása nó ar chomhartha cinn a chiallaíonn go bhfuil sé ceart go leor cabhrú, mar shampla nuair nach dtagann focal nó ainm chun cuimhne. Mura bhfuil aon riosca sábháilteachta ann, lig dóibh é a dhéanamh ar a mbealach féin, fiú má thógann sé níos faide."
+  - q: "Ar cheart do dhuine le néaltrú luathchéime triail a bhaint as gníomhaíochtaí nua?"
+    a: "Ba cheart, má tá fonn orthu. Is fusa caitheamh aimsire a bhfuil taithí acu air de ghnáth, ach baineann go leor daoine taitneamh as rud éigin nua, mar shampla grúpa siúil atá oiriúnach do dhaoine le néaltrú, rang ealaíne nó grúpa amhránaíochta. Bain triail as uair amháin gan brú agus féach conas a mhothaíonn sé."
+  - q: "An fiú aipeanna traenála inchinne sa chéim luath?"
+    a: "Baineann daoine áirithe taitneamh as puzail agus cluichí focal, agus is leor an taitneamh sin ann féin. Níor léiríodh go gcóiríonn, go moillíonn ná go stopann aon aip ná cluiche néaltrú. Má chuireann cluiche strus ar an duine nó má bhraitheann siad go bhfuil teip orthu, cuir i leataobh é."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+I gcéim luath an néaltrú, maireann go leor daoine ar an mbealach céanna agus a rinne siad cheana. B’fhéidir go n-oibríonn siad, go ndéanann siad obair dheonach, go mbuaileann siad le cairde agus go mbainistíonn siad cuid mhór dá lá féin. De ghnáth ní gá gníomhaíochtaí a chur in áit cinn eile; ní gá ach cúpla coigeartú a dhéanamh ionas go mbeidh siad taitneamhach fós. Tá do ról níos cosúla le comhpháirtí ná le cúramóir: duine a thugann tacaíocht, a dhéanann pleananna leo agus a chuidíonn ach nuair a iarrtar orthu.
 
-## What activities are good in early-stage dementia?
+## Cad iad na gníomhaíochtaí atá oiriúnach do néaltrú luathchéime?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Is iad na gníomhaíochtaí is fearr sa chéim luath na cinn is breá leis an duine cheana féin, agus iad beagán níos éasca. Luann an [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) smaointe ar nós cluichí cártaí agus cláir, cuardaigh focal, siúl, damhsa, garraíodóireacht, bláthanna a shocrú, scéalaíocht, péinteáil, ceol, dialann a choinneáil, litreacha a scríobh, leabhair ghearrthóg a dhéanamh, cócaireacht agus traidisiúin saoire.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Is minic gurb é an suíomh a athraíonn, ní an ghníomhaíocht. Tugann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) faoi deara go bhféadfadh daoine sa chéim luath tosú ag tarraingt siar ó rudaí a thaitin leo, agus tugann sé an sampla de dhuine a mhothaíonn ró-ualach ag cóisir mhór ach a éiríonn níos fearr leo i ngrúpa beag. Labhair go hoscailte faoi na rudaí atá níos deacra, agus déan coigeartuithe le chéile.
 
-## Ask first, and agree on how to help
+## Fiafraigh ar dtús, agus aontaigh conas cabhrú
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Molann [treoir na Alzheimer's Association don chéim luath](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) cúpla nós a oibríonn le gníomhaíochtaí freisin:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Fiafraigh go díreach.** Tugann “Cad a d’fhágfadh an club leabhar níos éasca duit?” freagra níos fearr ná buille faoi thuairim.
+- **Glac leis gur féidir leo.** Mura bhfuil aon riosca sábháilteachta ann, lig don duine iarracht a dhéanamh, agus tabhair spreagadh dóibh in áit an jab a thógáil ort féin.
+- **Aontaigh ar chomhartha.** Roghnaigh frása nó comhartha cinn a chiallaíonn “tá sé ceart go leor cabhrú anois,” mar shampla nuair nach dtagann ainm chun cuimhne le linn cluiche cártaí.
+- **Seiceáil leo go rialta.** Fiafraigh an mothaíonn an méid cabhrach ceart, an iomarca nó róbheag.
 
-## Activity ideas for the early stage
+## Smaointe gníomhaíochta don chéim luath
 
-### Keep up roles and hobbies
+### Coinnigh róil agus caitheamh aimsire ar bun
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Coinnigh gealltanas rialta.** Tugann seal seachtainiúil oibre deonaí, cór nó club cruth don tseachtain. Má éiríonn sé strusmhar, b’fhéidir go n-oirfeadh ról níos giorra nó níos ciúine níos fearr.
+- **Pleanáil béilí le chéile.** Má tá siopadóireacht grósaera frustrachas anois, molann an Alzheimer's Association iarraidh ar an duine cabhrú le biachlár na seachtaine a phleanáil agus an liosta a scríobh ina ionad.
+- **Cócaireacht agus bácáil.** Lean oideas is breá leat le chéile. Cuir na comhábhair amach in ord sula dtosaíonn tú, ionas go mbeidh na céimeanna le feiceáil.
+- **Garraíodóireacht.** Pleanáil leaba, roghnaigh síolta nó plandaí agus déan an obair le chéile. Cabhraíonn liosta scríofa de phoist ghairdín na seachtaine.
+- **Coinnigh ceird ar siúl.** Is féidir leanúint le hobair adhmaid, fuála, cniotála nó samhail-thógáil le patrúin níos simplí agus soilsiú maith.
 
-### Games for enjoyment
+### Cluichí le haghaidh taitneamh
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Imir cártaí agus cluichí cláir.** Is fusa cluichí a bhfuil aithne orthu. Imir i bhfoirne ionas nach mbeidh aon duine faoi bhrú, agus coinnigh an scór simplí nó ná coinnigh scór ar chor ar bith.
+- **Bain triail as cuardach focal le cló mór.** Is féidir ár [gcuardach focal](/games/word-search/) a imirt ar an scáileán nó a phriontáil le haghaidh nóiméad ciúin.
+- **Déan puzail mhearmis.** Roghnaigh líon píosaí a mhothaíonn suaimhneach, ní dúshlánach. Is leagan gearr ar an scáileán é [puzal pictiúr](/games/picture-puzzle/), agus tugann ár dtreoir faoi [phuzail le haghaidh néaltrú](/activities/puzzles/) cabhair le ceann a roghnú.
+- **Bí páirteach i dtráth na gceist le haghaidh spraoi.** Baineann daoine áirithe an-taitneamh as oíche tráth na gceist foirne. Má thosaíonn sé ag mothú mar thástáil, roghnaigh rud éigin eile, nó bain triail as ár [gceisteanna tráth na gceist éasca](/activities/trivia/), a bhfuil roghanna freagraí leo agus gan scór.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Tá cluichí ann le haghaidh pléisiúir anseo. Níor léiríodh go gcóiríonn ná go moillíonn aon chluiche néaltrú; léigh tuilleadh in [cluichí inchinne: cad a deir an taighde](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Scríobh, machnaigh agus taifead
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Coinnigh dialann.** Molann an Alzheimer's Association dialann a choinneáil mar bhealach amháin le mothúcháin a láimhseáil tar éis diagnóis. Is leor cúpla líne sa lá.
+- **Treoigh leabhar scéalta saoil.** Is deis mhaith í an chéim luath don duine a ngrianghraif féin a roghnú agus na scéalta taobh thiar díobh a scríobh nó a dheachtú. Féach [gníomhaíochtaí cuimhneacháin](/activities/reminiscence/).
+- **Scríobh litreacha.** Is féidir le litir chuig garmhac nó gariníon, seanchara nó iarchomhghleacaí a bheith tábhachtach don dá thaobh.
+- **Labhair faoi ghrianghraif.** Déanann [péirí grianghraf](/games/photo-pairs/) cluiche meaitseála socair as grianghraif teaghlaigh, agus tugann [cártaí comhrá](/games/conversation-cards/) pointí tosaigh éasca do chomhrá.
 
-### Go out and move
+### Téigh amach agus bog
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Molann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) leanúint le turais a bhfuil aithne orthu chomh fada agus atá sibh beirt compordach leo. Pleanáil iad don chuid is fearr den lá don duine agus ná lig dóibh dul ar aghaidh rófhada.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Turais chultúrtha ghearra.** Músaem, léiriú tráthnóna nó taispeántas ealaíne, go hidéalach ag tráth níos ciúine.
+- **Snámh.** Molann an NIA linn snámha le linn tréimhse chiúin den lá.
+- **Grúpaí siúil agus ranganna damhsa.** Luann an [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) damhsa, tai chi, yoga, snámh agus grúpaí siúil, agus seisiúin atá oiriúnach do dhaoine le néaltrú nuair atá siad ar fáil.
+- **Grúpaí amhránaíochta agus caiféanna cuimhne.** Grúpaí suaimhneacha inar féidir le daoine atá ina gcónaí le néaltrú agus a gcomhpháirtithe bualadh le daoine eile sa chás céanna.
 
-## Small changes that keep activities enjoyable
+## Athruithe beaga a choinníonn gníomhaíochtaí taitneamhach
 
-| If this is getting harder | Try this |
+| Má tá sé seo ag éirí níos deacra | Bain triail as seo |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Áiteanna gnóthacha nó glóracha | Téigh ag amanna ciúine, roghnaigh grúpaí níos lú, suigh ar imeall an tseomra |
+| Ainmneacha nua a chuimhneamh | Cuir daoine in aithne de réir ainm gach uair; iarr ar ghrúpaí clibeanna ainm a úsáid |
+| Pleananna ilchéime a leanúint | Scríobh na céimeanna síos, nó cuir gach rud amach in ord ar dtús |
+| Éirí tuirseach | Turais níos giorra, scíth ina dhiaidh sin, gan aon rud eile beartaithe don lá sin |
+| Súil a choinneáil ar chluiche | Imir i bhfoirne, simpligh na rialacha, nó ná coinnigh scór |
+| Focail a aimsiú | Tabhair am dóibh; tairg focal amháin má thugann an comhartha a d’aontaigh sibh le fios é sin |
 
-## When to slow down
+## Cathain is ceart moilliú
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Stop nó athraigh gníomhaíocht nuair a thugann sí níos mó struis ná pléisiúir. Is fiú comhrá socair a bheith agat faoi fhrustrachas arís agus arís eile, faoi sheachaint caitheamh aimsire nó nuair a deir duine “níl mé in ann é sin a dhéanamh níos mó”, seachas brú a chur orthu. Go minic is é an freagra ná leagan níos lú den rud céanna. Nuair a theastaíonn níos mó cabhrach ón duine chun tosú agus céimeanna a leanúint, b’fhéidir go n-oirfidh na smaointe i [ngníomhaíochtaí don mheánchéim](/activities/middle-stage/) níos fearr. Le haghaidh tuilleadh faoi chomhrá tacúil, féach [leideanna cumarsáide](/caregiving/communication-tips/), agus le haghaidh i bhfad níos mó smaointe, féach [101 gníomhaíocht](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Tá tacaíocht de dhíth ar chomhpháirtithe freisin. Is deis mhaith í an chéim luath do líonra tacaíochta féin a thógáil; féach [féinchúram do chúramóirí](/caregiving/caregiver-self-care/).

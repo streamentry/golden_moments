@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Caillteanas Éisteachta agus Riosca Néaltraithe"
+seoTitle: "Caillteanas Éisteachta agus Néaltrú: An Taighde"
+description: "Cén fáth a bhfuil caillteanas éisteachta ina fhachtóir riosca néaltraithe, cad a fuair triail ACHIEVE, agus conas éisteacht a sheiceáil."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Ainmníonn Coimisiún Lancet 2024 caillteanas éisteachta mar cheann de na fachtóirí riosca
+  inathraithe is mó don néaltrú. I dtriail ACHIEVE, níor mhoilligh áiseanna éisteachta meath
+  cognaíoch ar an iomlán, cé gur léirigh foghrúpa a raibh riosca níos airde air meath níos lú.
+  Cuidíonn áiseanna éisteachta le comhrá agus leis an saol laethúil ar aon chaoi. Faigh seiceáil
+  éisteachta, smaoinigh ar áiseanna ar oideas nó thar an gcuntar, agus labhair le dochtúir.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Measann Coimisiún Lancet go bhfuil thart ar 7% de chásanna néaltraithe ar fud an domhain bainteach le caillteanas éisteachta, an sciar is mó i measc 14 fhachtóir."
+  - "I dtriail ACHIEVE ar 977 duine níos sine, níor athraigh áiseanna éisteachta an meath cognaíoch thar thréimhse trí bliana ar an iomlán."
+  - "I ngrúpa níos lú a raibh riosca níos airde air laistigh de ACHIEVE, bhí an meath cognaíoch 48% níos moille le háiseanna éisteachta; ní mór é seo a dhearbhú."
+  - "Ó Dheireadh Fómhair 2022, is féidir le daoine fásta sna Stáit Aontaithe a cheapann go bhfuil caillteanas éisteachta éadrom go measartha acu áiseanna éisteachta atá rialáilte ag an FDA a cheannach thar an gcuntar."
+  - "Cuireadh caillteanas radhairc neamhchóireáilte leis mar fhachtóir riosca néaltraithe in 2024, mar sin tá tábhacht le scrúduithe súl freisin."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "An gcuireann áiseanna éisteachta cosc ar néaltrú?"
+    a: "Níl sé sin cruthaithe. Níor aimsigh triail ACHIEVE aon éifeacht iomlán ar mheath cognaíoch thar thréimhse trí bliana, cé gur éirigh níos fearr le grúpa amháin a raibh riosca níos airde air. Is fiú smaoineamh ar áiseanna éisteachta fós mar go ndéanann siad comhrá, sábháilteacht agus an saol laethúil níos éasca."
+  - q: "Cé atá in ann áiseanna éisteachta thar an gcuntar a cheannach?"
+    a: "Ceadaíonn an FDA do dhaoine fásta 18 mbliana d’aois agus níos sine a cheapann go bhfuil caillteanas éisteachta éadrom go measartha acu áiseanna éisteachta OTC a cheannach i siopaí nó ar líne gan oideas. Níl siad i gceist do chaillteanas éisteachta trom. Ba cheart do dhuine ar bith a bhfuil pian chluas, sreabhán ón gcluas, meadhrán nó athruithe tobanna éisteachta air dul chuig dochtúir ar dtús."
+  - q: "An féidir le caillteanas éisteachta a bheith cosúil le néaltrú?"
+    a: "Uaireanta. Tugann an National Institute on Aging faoi deara go gceaptar uaireanta go bhfuil daoine níos sine atá in ann éisteacht go maith mearbhall nó neamh-chomhoibríoch. Is céim chiallmhar í seiceáil éisteachta nuair a bhíonn an chuma ar dhuine go bhfuil sé nó sí ag tarraingt siar nó ag cailleadh an méid a deirtear."
+  - q: "Cé chomh minic ba cheart do dhaoine fásta níos sine a súile a sheiceáil?"
+    a: "Molann an National Institute on Aging scrúdú súl le leathnú na ndaltaí gach bliain nó dhó tar éis 60 bliain d’aois, nó mar a mholann do ghairmí cúraim súl. De ghnáth bíonn gá le scrúdú den chineál sin uair sa bhliain ar a laghad ag daoine a bhfuil diaibéiteas nó brú fola ard orthu."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Tá caillteanas éisteachta coitianta níos déanaí sa saol, agus glacann taighdeoirí go dáiríre leis mar fhachtóir riosca néaltraithe. Ní chiallaíonn sé sin gur bealach cruthaithe é áiseanna éisteachta chun néaltrú a chosc; bhí torthaí measctha ag an triail is fearr go dtí seo. Míníonn an leathanach seo cad a léiríonn an taighde, conas éisteacht a sheiceáil, cad iad áiseanna éisteachta thar an gcuntar sna Stáit Aontaithe, agus conas comhrá a dhéanamh níos éasca.
 
-## Why does hearing matter for brain health?
+## Cén fáth a bhfuil an éisteacht tábhachtach do shláinte na hinchinne?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Tá baint ag caillteanas éisteachta le riosca níos airde néaltraithe. Measann [Coimisiún Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) go bhfuil thart ar 7% de chásanna néaltraithe ar fud an domhain bainteach leis. Cuireann sé sin ar chomhchéim é le colaistéaról ard LDL mar an sciar is mó i measc na 14 fhachtóir riosca inathraithe i múnla an Choimisiúin, de réir [achoimre UCL ar an tuarascáil](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Príomhthorthaí ón gCoimisiún:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Riosca níos airde le caillteanas éisteachta.** Ina anailís chomhthiomsaithe ar sé staidéar ardchaighdeáin, bhí riosca néaltraithe thart ar 37% níos airde ag daoine a raibh caillteanas éisteachta orthu ná ag daoine a raibh gnáthéisteacht acu.
+- **Níos mó caillteanais, níos mó riosca.** Fuair staidéir a bhreathnaigh ar dhéine an chaillteanais go raibh an riosca ag méadú de réir mar a bhí an éisteacht ag dul in olcas.
+- **Cúiseanna féideartha, gan a bheith cruthaithe fós.** I measc na smaointe tá uaigneas agus tarraingt siar, dúlagar, níos lú spreagtha don inchinn, agus an iarracht mheabhrach bhreise a bhaineann le héisteacht.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Tá caillteanas éisteachta coitianta. Deir an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) go mbíonn sé ar thart ar aon trian de dhaoine fásta níos sine, agus go n-ardaíonn an seans le haois.
 
-## What did the ACHIEVE hearing aid trial find?
+## Cad a fuair triail áiseanna éisteachta ACHIEVE?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+Ba í ACHIEVE an chéad triail randamaithe ar áiseanna éisteachta agus ar mheath cognaíoch. Is minic a thuairiscítear a torthaí go mícheart, mar sin seo na sonraí ón [tuarascáil fhoilsithe ar an triail](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Cé a ghlac páirt:** 977 duine fásta idir 70 agus 84 bliain d’aois a raibh caillteanas éisteachta neamhchóireáilte orthu agus gan fadhbanna suntasacha smaointeoireachta, ag ceithre shuíomh pobail sna Stáit Aontaithe.
+- **Cad a cuireadh i gcomparáid:** Fuair leath acu áiseanna éisteachta chomh maith le seisiúin chomhairleoireachta le clos-eolaí. Fuair an leath eile clár oideachais sláinte faoi aosú sláintiúil.
+- **An phríomhthoradh:** Tar éis trí bliana, **ní raibh aon difríocht** sa mheath cognaíoch idir an dá ghrúpa ar an iomlán.
+- **Toradh an fhoghrúpa:** Tháinig rannpháirtithe na trialach ó dhá fhoinse. Tháinig 238 duine ó staidéar fadtéarmach ar shláinte an chroí (ARIC), agus mar ghrúpa bhí riosca níos airde meatha cognaíoch orthu. Sa ghrúpa seo, bhí an meath **48% níos moille** le háiseanna éisteachta. I measc na 739 saorálaí sláintiúil ón bpobal, ní raibh aon éifeacht shoiléir ann.
 
-How to read this honestly:
+Conas é seo a léamh go macánta:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ba é an freagra iomlán ná nach raibh aon éifeacht ann.
+- Bhí toradh an fhoghrúpa beartaithe roimh ré, ach tháinig sé ó anailís thánaisteach ar ghrúpa níos lú. Ní mór é a dhearbhú i staidéir eile.
+- Bhí a fhios ag na rannpháirtithe cén clár a bhí siad ann, rud a d’fhéadfadh tionchar a imirt ar na torthaí.
+- Léann Coimisiún Lancet an fhianaise mar léiriú go bhfuil an chuma ar an scéal go bhfuil áiseanna éisteachta cabhrach go háirithe do dhaoine a bhfuil caillteanas éisteachta orthu in éineacht le fachtóirí riosca néaltraithe eile.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Is é an bunphointe ná nach bealach cruthaithe iad áiseanna éisteachta chun néaltrú a chosc. Cuidíonn siad le daoine éisteacht, páirt a ghlacadh i gcomhráite agus fanacht ceangailte, agus is cúis mhaith sin iontu féin iad a mheas.
 
-## How do I know if hearing should be checked?
+## Cén chaoi a bhfuil a fhios agam ar cheart an éisteacht a sheiceáil?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+Molann an NIA dul chuig dochtúir má bhíonn deacracht agatsa nó ag an duine a bhfuil cúram á dhéanamh agat air nó uirthi:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Daoine a thuiscint ar an teileafón
+- Comhráite a leanúint nuair a bhíonn beirt nó níos mó ag caint
+- Iarratas ar dhaoine rudaí a rá arís go minic
+- An teilifís a ardú chomh hard sin go mbíonn daoine eile ag gearán
+- Caint a thuiscint nuair a bhíonn torann sa chúlra
+- An tuairim go mbíonn daoine eile ag monabhar
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Tosaigh le dochtúir ginearálta, a d’fhéadfadh tú a chur chuig clos-eolaí (speisialtóir éisteachta) nó chuig dochtúir cluaise, sróine agus scornaí. Is cúis choitianta le caillteanas éisteachta í carnadh céarach cluaise, rud ar féidir le dochtúir a sheiceáil. **Is géarchéim leighis é caillteanas tobann éisteachta**, agus molann an NIA dul chuig dochtúir láithreach.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Is féidir caillteanas éisteachta a mheascadh suas le mearbhall. Tugann an NIA faoi deara go gceaptar uaireanta go bhfuil daoine níos sine nach n-éisteann go maith mearbhall, neamhfhreagrach nó neamh-chomhoibríoch. Má bhíonn an chuma ar dhuine muinteartha go bhfuil sé nó sí ag tarraingt siar nó nach bhfuil an méid a deirtear á thuiscint aige nó aici, is céim luath mhaith í seiceáil éisteachta.
 
-## What are over-the-counter hearing aids?
+## Cad iad áiseanna éisteachta thar an gcuntar?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Ón 17 Deireadh Fómhair 2022, tá catagóir áiseanna éisteachta thar an gcuntar (OTC) ceadaithe ag an [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know). Seo comparáid eatarthu agus áiseanna ar oideas:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Gné | Áiseanna éisteachta OTC | Áiseanna éisteachta ar oideas |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Cé dóibh | Daoine fásta 18 mbliana d’aois agus níos sine a cheapann go bhfuil caillteanas éisteachta éadrom go measartha orthu | Aon leibhéal caillteanais éisteachta, aon aois |
+| Cá bhfaighidh tú iad | Siopaí nó ar líne, gan scrúdú ná oideas | Trí ghairmí éisteachta ceadúnaithe |
+| Feistiú | Coigeartaíonn tú na socruithe tú féin, go minic le haip | Déanann gairmí iad a chlárú do d’éisteacht |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+Deir an FDA nach bhfuil áiseanna OTC i gceist do chaillteanas éisteachta trom nó an-trom. Molann sé dul chuig dochtúir, speisialtóir cluaise, sróine agus scornaí más fearr, sula gceannaíonn tú ceann má tá ort:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Pian nó míchompord sa chluas
+- Sreabhán, pus nó fuil ón gcluas le sé mhí anuas
+- Athruithe tobanna nó luaineacha éisteachta
+- Éisteacht níos measa i gcluas amháin, nó gliogar i gcluas amháin amháin
+- Meadhrán nó vertigo
+- A lán céarach cluaise
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Tógann sé cleachtadh dul i dtaithí ar áiseanna éisteachta, mar sin seiceáil an polasaí tuairisceáin sula gceannaíonn tú, mar a mholann an FDA. Molann an NIA fiafraí an gclúdaíonn d’árachas cuid den chostas. Do dhuine atá ina chónaí le néaltrú, is féidir le clos-eolaí cabhrú le cinneadh a dhéanamh faoi cén cineál áise agus feistiú a bheidh is éasca a bhainistiú ó lá go lá.
 
-## How can I talk more easily with someone who has hearing loss?
+## Conas is féidir liom labhairt níos éasca le duine a bhfuil caillteanas éisteachta air nó uirthi?
 
-The NIA suggests:
+Molann an NIA:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Bí ag féachaint ar an duine agus coinnigh teagmháil súl**, i solas maith, ionas go bhfeiceann sé nó sí do bhéil agus do chuid léirithe.
+2. **Aimsigh áit chiúin.** Múch an teilifís nó bog ar shiúl ón torann.
+3. **Labhair beagán níos airde, ach ná béic.** Labhair go nádúrtha agus ar luas réasúnta.
+4. **Coinnigh do bhéal soiléir.** Ná hith, ná cog gum ná ná clúdaigh do bhéal agus tú ag caint.
+5. **Athfhrásaigh in áit an rud céanna a rá arís** nuair a chailltear rud éigin.
+6. **Duine amháin ag an am.** I ngrúpa, déan iarracht an duine a chur san áireamh.
+7. **Bí foighneach agus fiafraigh conas is féidir leat cabhrú.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Oibríonn na leideanna seo go maith in éineacht lenár [leideanna cumarsáide maidir le néaltrú](/caregiving/communication-tips/). Laghdaíonn gníomhaíochtaí bunaithe ar phictiúir an brú a bhaineann le héisteacht freisin. Oibríonn [Picture Pairs](/games/picture-pairs/) agus [Conversation Cards](/games/conversation-cards/) tríd an méid a fheiceann tú, agus ligeann [Finish the Saying](/games/finish-the-saying/) duit an deireadh a thaispeáint in ionad é a rá. Maidir le glaonna, féach ár dtreoir ar [ghlaonna teileafóin agus físe](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Tá an radharc tábhachtach freisin
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+In 2024 chuir Coimisiún Lancet caillteanas radhairc neamhchóireáilte leis mar fhachtóir riosca nua. Cuireann achoimre UCL thart ar 2% de chásanna néaltraithe i leith an fhachtóra seo, agus molann an Coimisiún go mbeadh scagthástáil agus cóireáil ar fáil do gach duine le haghaidh fadhbanna radhairc. [Molann an NIA](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) scrúdú súl le leathnú na ndaltaí gach bliain nó dhó tar éis 60 bliain d’aois, agus oideas na spéaclaí a sheiceáil freisin. Is féidir le fiú athruithe beaga sa radharc an riosca titim a mhéadú.
 
-## Talk with a doctor
+## Labhair le dochtúir
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Cuir ceist ar dhochtúir faoi sheiceálacha éisteachta agus radhairc má thugann tú faoi deara aon cheann de na comharthaí thuas. Faigh cúram láithreach i gcás caillteanas tobann éisteachta, pian chluas, nó sreabhán ón gcluas. Má thugann tú cúram do dhuine atá ina chónaí le néaltrú, inis dá dhochtúir nó dá dochtúir faoi athruithe éisteachta nó radhairc, mar is féidir leo tionchar a imirt ar ghiúmar, ar shábháilteacht agus ar an gcumas a bhíonn ag an duine páirt a ghlacadh.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Is faisnéis ghinearálta í an leathanach seo, ní comhairle leighis í. Féach ár [séanadh leighis](/medical-disclaimer/). Léigh tuilleadh faoi [nasc sóisialta agus sláinte na hinchinne](/brain-health/social-connection/).

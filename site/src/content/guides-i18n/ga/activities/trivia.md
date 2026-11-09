@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Tráth na gCeist Éasca gan Bhrú"
+seoTitle: "Ceisteanna Tráth na gCeist do Sheanóirí le Néaltrú"
+description: "50 ceist thráth na gceist do sheanóirí le néaltrú, le roghanna freagraí agus pointí cainte, chomh maith le conas é a reáchtáil gan bhrú ar éinne."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Oibríonn tráth na gceist éasca do dhaoine atá ag maireachtáil le néaltrú nuair
+  a bhraitheann sé cosúil le comhrá, ní le scrúdú. Cuir ceisteanna faoi rudaí a
+  foghlaimíodh fadó, mar shampla seanamhráin, seanfhocail, laethanta saoire agus
+  an saol laethúil, agus tabhair dhá nó trí rogha i gcónaí. Abair an freagra go
+  cineálta, ná cuir aon duine ar leith faoi spotsolas, ná coinnigh scór, agus
+  bain úsáid as gach freagra chun scéal a thosú. Oireann ceisteanna “seo nó
+  siúd” gan freagra mícheart do chéimeanna níos déanaí.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Cuir ceisteanna faoi rudaí a bhfuil aithne fhada orthu: amhráin, seanfhocail, laethanta saoire, bia agus an saol laethúil ó bhlianta fada ó shin."
+  - "Tabhair dhá nó trí rogha ionas gur féidir an freagra a aithint seachas é a thabhairt chun cuimhne."
+  - "Abair an freagra go cineálta agus lean ar aghaidh. Is buille maith é aon tuairim a thosaíonn scéal."
+  - "Gan pointí, gan foirne ag rásaíocht, gan glaoch ar dhuine amháin. Lig do fhreagraí teacht ón seomra ar fad."
+  - "Nuair a éiríonn sé deacair rogha a dhéanamh idir freagraí, athraigh go ceisteanna “seo nó siúd” gan freagra ceart."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "An gníomhaíocht mhaith í tráth na gceist do dhaoine atá ag maireachtáil le néaltrú?"
+    a: "Is féidir, má dhéantar go réidh í. Liostaíonn an Alzheimer's Foundation of America tráth na gceist i measc gníomhaíochtaí don chéim luath. Coinnigh ceisteanna faoi ábhair a bhfuil aithne fhada orthu, tabhair roghanna, ná cuir aon duine amháin faoi spotsolas, agus féach ar na freagraí mar bhealach isteach i gcomhrá seachas mar scrúdú."
+  - q: "Cad iad na hábhair is fearr le haghaidh tráth na gceist néaltrú?"
+    a: "Is minic gurb iad na rudaí a foghlaimíodh fadó is fearr: amhráin mhóréilimh agus amhránaithe ó óige an duine, seanfhocail aithnidiúla, laethanta saoire, bia, spórt, agus an saol laethúil mar sheachadtaí bainne agus gutháin rothlacha. Seachain nuacht le déanaí agus aon rud a éilíonn cuimhneamh ar rud éigin níos luaithe sa seisiún."
+  - q: "Conas is féidir liom tráth na gceist a reáchtáil i dteach cúraim gan náire a chur ar éinne?"
+    a: "Léigh gach ceist don ghrúpa ar fad, taispeáin nó abair na roghanna, agus cuir fáilte roimh fhreagraí ó éinne. Ná glaoigh ar dhaoine aonair ná ná coinnigh scór. Abair an freagra le meangadh gáire, is cuma cén tuairim a tugadh, agus cuir ceist leantach mar “An raibh aon duine anseo riamh ag scannán tiomána isteach?” chun é a iompú ina scéalta."
+  - q: "Cad is féidir liom a dhéanamh in ionad tráth na gceist i gcéimeanna níos déanaí?"
+    a: "Athraigh go ceisteanna gan freagra mícheart, mar shampla “Caife nó tae?” nó “Trá nó sléibhte?”, agus go seanfhocail nó amhráin aithnidiúla a chríochnú le chéile. Oibríonn sé go maith freisin breathnú ar phictiúir agus cur síos a dhéanamh orthu le chéile."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Tá tráth na gceist ar cheann de na gníomhaíochtaí grúpa is mó a iarrtar i dtithe cúraim agus i gcláir lae, agus imríonn go leor teaghlach é ag an mbord cistine freisin. Nuair a dhéantar ar an ngnáthbhealach é, le pointí agus duine amháin ag freagairt, d’fhéadfadh sé go mbraithfeadh duine atá ag maireachtáil le néaltrú go bhfuil sé nó sí faoi spotsolas. Nuair a dhéantar go réidh é, is bealach bríomhar é chun scéalta a chloisteáil. Anseo thíos tá 50 ceist éasca le roghanna freagraí agus rud éigin le labhairt faoi do gach ceann, agus ansin conas seisiún a reáchtáil.
 
-## How do you make trivia work for someone with dementia?
+## Conas is féidir tráth na gceist a chur in oiriúint do dhuine atá ag maireachtáil le néaltrú?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Bíodh sé faoi rudaí fadó a aithint agus a chuimhneamh, agus bíodh fáilte roimh gach freagra.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Cuir ceisteanna faoin am atá thart.** Deir an [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) gurb é an comhartha luath is coitianta de ghalar Alzheimer deacracht le cuimhneamh ar fhaisnéis nua a foghlaimíodh. Is minic gur ábhar níos éasca iad amhráin, seanfhocail agus an saol laethúil ó scór bliain ó shin.
+2. **Tabhair roghanna i gcónaí.** Tá sé i bhfad níos éasca an freagra ceart a roghnú as dhá nó trí rogha ná é a thabhairt as do cheann féin.
+3. **Léigh na ceisteanna os ard agus taispeáin iad go mór.** Cuidíonn clár bán nó táibléad a choinneáil suas le daoine nach gcloiseann chomh maith.
+4. **Tabhair an freagra go saor.** Mura bhfuil a fhios ag aon duine, abair go cineálta é agus lean ar aghaidh. Ná habair riamh “Seo anois, tá a fhios agat é seo.”
+5. **Gan scór.** Ní do dhaoine aonair ná do bhoird. Más mian le daoine uimhir, coinnigh iomlán amháin don ghrúpa.
+6. **Ná glaoigh ar dhuine amháin riamh.** Lig do fhreagraí teacht ó éinne. I gcomhrá duine le duine, freagair le chéile: “Sílim gurb é an pianó é. Cad a shíleann tú?”
+7. **Bain úsáid as an bpointe cainte.** Is tús é an freagra, ní deireadh. Is iad na scéalta an fíorsprioc.
+8. **Coinnigh gearr é.** Is leor deich gceist le scéalta eatarthu.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+Cuireann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) an riail lárnach go simplí: bí ag faire amach le haghaidh frustrachais agus déan cinnte go mbraitheann an duine rathúil. Liostaíonn an [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) tráth na gceist i measc gníomhaíochtaí don chéim luath. Sa lárchéim, fan le dhá rogha agus braith ar na pointí cainte. Níos déanaí, athraigh go dtí na ceisteanna “seo nó siúd” thíos.
 
-## Music and entertainment trivia
+## Tráth na gceist ceoil agus siamsaíochta
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Tá an freagra i **gcló trom**. Cuir iad seo in oiriúint don duine: beidh amhránaithe difriúla ag teastáil ó dhuine a d’fhás aníos le Motown ná ó dhuine a d’fhás aníos le bannaí móra.
 
-| Question | Choices | Talk about |
+| Ceist | Roghanna | Labhair faoi |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Cé a dtugtaí Rí an Rac-cheoil air? | **Elvis Presley**, Frank Sinatra, Bing Crosby | An bhfaca tú Elvis ar an teilifís riamh? |
+| Cén t-amhránaí ar tugadh an leasainm Ol' Blue Eyes air? | Dean Martin, **Frank Sinatra**, Perry Como | Cén t-amhrán Sinatra is fearr leat? |
+| Bhí Bing Crosby ag brionglóideach faoi... bán. | **Nollaig**, bainis, teach | Can líne le chéile |
+| Chan Louis Armstrong “What a Wonderful...” | Lá, **Domhan**, Saol | Cad a chuireann áthas ort sa domhan? |
+| Cé a chan “Over the Rainbow” sa scannán “The Wizard of Oz”? | **Judy Garland**, Doris Day, Lucille Ball | Cá bhfeiceá do scannáin is fearr leat? |
+| Cé a bhí sa phríomhról mar Lucy i “I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Cad iad na cláir a d’fhéach do theaghlach orthu le chéile? |
+| Cén buachaill bó a mharcaigh capall darbh ainm Trigger? | **Roy Rogers**, Gene Autry, John Wayne | An mbíodh tú ag imirt buachaillí bó agus cailíní bó mar pháiste? |
+| Cé a chuir “The Tonight Show” i láthair ar feadh 30 bliain? | Ed Sullivan, **Johnny Carson**, Bob Hope | An bhfanfá suas go déanach ag féachaint ar an teilifís? |
+| Cén uirlis a bhfuil 88 eochair uirthi? | Giotár, **pianó**, trumpa | An raibh aon duine i do theaghlach ag seinm? |
+| Cén damhsa a chomhairtear a haon, a dó, a trí, a haon, a dó, a trí? | **Valsa**, an twist, tangó | Cá rachá ag damhsa? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Chun tuilleadh faoi cheol a léamh, féach [gníomhaíochtaí ceoil do néaltrú](/activities/music/).
 
-## Everyday life trivia
+## Tráth na gceist faoin saol laethúil
 
-| Question | Choices | Talk about |
+| Ceist | Roghanna | Labhair faoi |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Sular tháinig cuisneoirí, choimeád go leor tithe bia fuar i... | **mbosca oighir**, oigheann, áiléar | Cé a sheachadaíodh an t-oighear? |
+| Cé a thugadh bainne go dtí an doras i mbuidéil ghloine? | Fear an phoist, **fear an bhainne**, buachaill an nuachtáin | Cad eile a sheachadaíodh go dtí an teach? |
+| Conas a dhialálacha tú guthán rothlach? | Cnaipí a bhrú, **roth a chasadh**, labhairt leis | Inis dom faoin nguthán i do theach |
+| Cén comhlacht a rinne carr an Model T? | **Ford**, Chevrolet, Buick | Inis dom faoi charr a thaitin leat |
+| Cá bhfaighfeá “soda jerk”? | **Ag scamhóg súda**, ag bácús, ag banc | Cad a d’ordaíodh agat ag an gcuntar? |
+| Cén bréagán atá ina sprionga mhiotail ar féidir léi siúl síos staighre? | Yo-yo, **Slinky**, fonsa lúibe | Cad iad na bréagáin ab ansa leat? |
+| Áit a raibh “drive-in” ann chun féachaint ar... | **scannáin as do charr**, cluichí liathróide, paráidí | Cé a chuaigh leat? |
+| Cé hé an duine ar an mbonn dollar amháin? | Lincoln, **George Washington**, Jefferson | Cad a cheannaíodh le dollar an uair sin? |
+| Cé hé an duine ar an pingin? | **Abraham Lincoln**, Washington, Franklin | An sábhálfá pinginí i jar an uair sin? |
+| Cén dath a bhíonn ar bhus scoile de ghnáth? | Dearg, **buí**, gorm | Conas a rachadh tú ar scoil? |
 
-## Holidays, nature and places
+## Laethanta saoire, an dúlra agus áiteanna
 
-| Question | Choices | Talk about |
+| Ceist | Roghanna | Labhair faoi |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Cén lá saoire atá ar an gceathrú Déardaoin i mí na Samhna? | Lá an Lucht Oibre, **Lá an Altaithe**, Lá Cuimhneacháin | Cad a bhí ar do bhord i gcónaí? |
+| Do cén lá saoire a dhéantar lóchrainn phuimcín? | **Oíche Shamhna**, Domhnach Cásca, Nollaig | Inis dom faoi Oíche Shamhna san áit ar fhás tú aníos |
+| Ceiliúrann an Ceathrú Iúil Dearbhú na... | gCeart, **Neamhspleáchais**, Saoirse | Cá bhféachfá ar thinte ealaíne? |
+| Cén mhí ina bhfuil Lá na Máthar? | Aibreán, **Bealtaine**, Meitheamh | Conas a cheiliúraigh do theaghlach é? |
+| Cé mhéad réalta atá ar bhratach Mheiriceá? | 48, **50**, 52 | Bhí 48 réalta ar an mbratach go dtí 1959. Is cuimhne mhaith ceachtar acu |
+| Cén t-aigéan atá ar an gcósta thoir? | An tAigéan Ciúin, **an tAtlantach**, an tAigéan Artach | An ndeachá go dtí an trá riamh? |
+| Cén chathair ina bhfuil Dealbh na Saoirse? | Bostún, **Nua-Eabhrac**, Philadelphia | An raibh tú i Nua-Eabhrac riamh? |
+| Cad a dhéanann beacha? | Bainne, **mil**, síoda | Mil ar thóst nó i tae? |
+| Cad a thugtar ar lao óg? | Searrach, **lao**, meannán | An raibh cónaí ort in aice le feirm riamh? |
+| Cén bláth ard buí atá cáiliúil as casadh i dtreo na gréine? | Rós, **lus na gréine**, tiúilip | Cad a d’fhás i do ghairdín? |
+| Cé mhéad lá atá i mbliain bhisigh? | 365, **366**, 360 | Inis dom faoi lá breithe a chuimhníonn tú |
+| Cén séasúr a thagann tar éis an gheimhridh? | An fómhar, **an t-earrach**, an samhradh | Cén séasúr is fearr leat? |
 
-## Food and sports trivia
+## Tráth na gceist bia agus spóirt
 
-| Question | Choices | Talk about |
+| Ceist | Roghanna | Labhair faoi |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Is iad rísíní ná... triomaithe. | plumaí, **fíonchaora**, silíní | An gcuirfeá rísíní i lóin? |
+| Is iad prúnaí ná... triomaithe. | **plumaí**, fígeanna, úlla | Cé i do theaghlach a raibh dúil mhór acu i bprúnaí? |
+| Im piseanna talún agus... | **subh**, cáis, liamhás | Garbh nó mín? |
+| Déantar guacamole den chuid is mó as... | pis, **avocados**, cúcamar | Cad iad na tumthaí a thagadh amach ag cóisirí? |
+| Cén pióg is ansa ar Lá an Altaithe? | **Pióg phuimcín**, pióg líomóide, pióg shilíní | Cén pióg a dhéanfá? |
+| Cé mhéad imreoir a bhíonn ar an bpáirc ag foireann baseball? | 7, **9**, 11 | Cén fhoireann a dtacófá léi? |
+| Cé mhéad stailc a dhéanann “amach” sa baseball? | Dhá cheann, **trí cinn**, ceithre cinn | An imríodh tú liathróid riamh? |
+| Cén spórt a raibh clú ar Babe Ruth ann? | Dornálaíocht, **baseball**, galf | An rachá chuig cluichí liathróide? |
+| Cé mhéad poll atá ar ghnáthchúrsa gailf? | 9, **18**, 24 | An d’imir tú galf riamh, nó mionghalf? |
+| Cén spórt ina scórálann tú “touchdown”? | **Peil Mheiriceánach**, haca, cispheil | Cé a d’fhéachfadh ar pheil i do theach? |
 
-## Familiar sayings
+## Seanfhocail aithnidiúla
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Tarraingíonn críochnú seanfhocal ar theanga a foghlaimíodh fadó agus is minic a thagann sé go héasca. Tá i bhfad níos mó inár gcluiche [Finish the saying](/games/finish-the-saying/), le tapáil chun aon deireadh a thaispeáint.
 
-| Saying | Choices | Talk about |
+| Seanfhocal | Roghanna | Labhair faoi |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Úll sa lá agus... | **fág an dochtúir i do shláinte**, ná bí buartha, bí sona | Cé a deireadh é seo leat? |
+| An té a éiríonn go moch... | sroicheann sé an bus, **beireann sé ar an mbia**, sroicheann sé an traein | An duine maidine thú? |
+| Ná bí ag comhaireamh do chearc... | **sula ngorann siad**, sula gcodlaíonn siad, sula gcanann siad | An raibh sicíní ag do theaghlach? |
+| Pingin a choiglítear is pingin a... | **thuilltear**, chailltear, chaitear | Cé ab fhearr ag coigilt i do theaghlach? |
+| Is ann a bhíonn an croí... | a bhíonn an gairdín, **a bhíonn an baile**, a bhíonn an chistin | Cad a chuireann mothú baile ar áit? |
+| Is fearr go mall ná... | go luath, **go brách**, brónach | Cé a bhí déanach i gcónaí? |
+| Bíonn taobh geal le gach... | **scamall**, spúnóg, bonn | Inis dom faoi phosa ádhúil |
+| Is treise gníomh ná... | **briathar**, ceol, toirneach | Inis dom faoi dhuine a deireadh é sin |
 
-## This-or-that questions with no wrong answer
+## Ceisteanna “seo nó siúd” gan freagra mícheart
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Oireann na ceisteanna seo do gach céim, lena n-áirítear níos déanaí, mar níl aon rud le fáil ceart. Fiafraigh, éist, agus roinn do fhreagra féin freisin.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Caife nó tae?
+- Trá nó sléibhte?
+- Madraí nó cait?
+- Samhradh nó geimhreadh?
+- Pióg nó císte?
+- Damhsa nó féachaint?
+- Éirí na gréine nó luí na gréine?
+- Póirse tosaigh nó clós cúil?
+- Raidió nó ceirníní?
+- Pancóga nó uibheacha?
+- Rósanna nó nóiníní?
+- Turas traenach nó turas bóthair?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Chun leideanna comhrá a théann le pictiúir a fháil, bain triail as ár [Conversation cards](/games/conversation-cards/) inphriontáilte.
 
-## How do you run a trivia session in a care home or group?
+## Conas seisiún tráth na gceist a reáchtáil i dteach cúraim nó i ngrúpa?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Suigh daoine ionas go bhfeiceann agus go gcloiseann siad.** Áiseanna éisteachta istigh, spéaclaí orthu, an teilifís múchta.
+2. **Cuir in aithne é mar chomhrá.** “Tá cúpla ceist agam faoi na seanlaethanta, agus geallaim go bhfuil níos mó ar eolas agaibhse ná agamsa.”
+3. **Léigh gach ceist faoi dhó agus taispeáin na roghanna go mór.**
+4. **Cuir fáilte roimh fhreagraí ó áit ar bith sa seomra.** Déan freagraí maithe arís ionas go gcloiseann gach duine iad.
+5. **Abair an freagra do gach duine,** ansin cuir an pointe cainte ar an seomra.
+6. **Lean fuinneamh an ghrúpa.** Má thosaíonn ceist amháin deich nóiméad scéalaíochta, lig di.
+7. **Críochnaigh le hamhrán nó le babhta “seo nó siúd”,** ionas go gcríochnaíonn gach duine le rud éigin éasca.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Chun formáidí grúpa eile a fháil, lena n-áirítear biongó pictiúr agus amhránaíocht le chéile, féach [gníomhaíochtaí grúpa do thithe cúraim](/activities/care-home-groups/).
 
-## When to change the plan
+## Cathain is ceart an plean a athrú
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Má bhreathnaíonn duine buartha, má éiríonn sé nó sí ciúin nó má deir sé nó sí “Níl a fhios agam” níos mó ná uair amháin, déan níos éasca é: laghdaigh go dtí dhá rogha, freagair le chéile, nó athraigh go ceisteanna “seo nó siúd”. Más fearr leis an ngrúpa labhairt faoi cheist amháin ar feadh an tráthnóna, is rath é sin. Ní raibh na freagraí cearta mar sprioc riamh. Ba é an sprioc am i ndea-chuideachta.
