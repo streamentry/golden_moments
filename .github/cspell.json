@@ -338,7 +338,17 @@
     "Zinnia",
     "resvg",
     "webp",
-    "Nesta"
+    "Nesta",
+    "appstoreconnect",
+    "lumi",
+    "mobileprovision",
+    "keytool",
+    "printcert",
+    "exportarchive",
+    "xcodebuild",
+    "androidpublisher",
+    "gserviceaccount",
+    "jarfile"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",
