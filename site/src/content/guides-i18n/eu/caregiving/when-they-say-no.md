@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Dementzia duen pertsonak jarduera bat egiteari uko egiten dionean"
+seoTitle: "Dementzia duen pertsonak jarduerari uko egitean"
+description: "Zergatik uko egin edo haserretu daitekeen dementzia duen pertsona bat jarduera batekin, zer probatu, zer saihestu eta noiz deitu medikuari."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Dementzia duen norbaitek ezetz dioenean, onartu lasai eta saiatu berriro
+  geroago edo eskaini beste zerbait. Uko egiteak arrazoiren bat izan ohi du:
+  zeregina zail edo umeentzakoegia iruditzen zaio, nekatuta dago, mina du,
+  gose da edo zaratarekin gainezka sentitzen da. Ez eztabaidatu eta ez
+  behartu. Sinplifikatu, eskaini bi aukera edo eskatu laguntza. Bat-bateko
+  aldaketek edo azkar aldatzen den jokabideak, batez ere infekzio edo
+  botika berri baten ondoren, medikuarengana eraman behar dute berehala.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Ez» bat errespetatu beharreko erantzuna da, ez gainditu beharreko arazo bat."
+  - "Uko egiteak kausa bat izan ohi du: zailegia, umeentzakoegia, nekea, ondoezik egotea, deseroso egotea edo gainezka egotea."
+  - "Atzera egin, itxaron eta saiatu geroago, beste une batean edo bertsio errazago batekin."
+  - "Haien laguntza eskatzeak hobeto funtzionatzen du zerbait egitea eskatzea baino."
+  - "Ez eztabaidatu, ez behartu, ez galdetu eta ez zuzendu. Begiratu zeure buruari, ea presaka edo gehiegi hurbiltzen ari zaren."
+  - "Bat-bateko jokabide-aldaketak edo azkar aldatzen direnak, batez ere infekzio edo botika berriekin, berehala kontsultatu behar dira medikuarekin."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ondo al dago jarduerak erabat alde batera uztea?"
+    a: "Bai, edozein egunetan. Elkarrekin eseri, musika entzun edo ingurua begiratzea nahikoa izan daiteke. Norbaitek asteetan ezer disfrutatzeari uzten badio, aipatu medikuari; aldarte baxua, mina edo beste osasun-arazo batzuk egon daitezke tartean."
+  - q: "Zergatik uko egiten diote lehen maite zituzten gauzei?"
+    a: "Antzinako zaletasun bat frustragarria izan daiteke orain dementziak zaildu dituen trebetasunak eskatzen dituenean, eta pertsonak lotsa senti dezake. Saiatu jarduera beraren zati errazago batekin, adibidez botoiak sailkatzen josi beharrean, edo lorategiko irudiak ikusten landatu beharrean."
+  - q: "Saiatu behar al naiz konbentzitzen?"
+    a: "Ez. Norbait dementziak zaildu duen zerbait egitera bultzatzea ezaguna da haserrea pizteko arrazoitzat. Onartu eza, aldatu gaia eta eskaini berriro geroago edo beste modu batean."
+  - q: "Noiz da jokabide-aldaketa bat larrialdia?"
+    a: "Deitu 112ra norbait arriskuan badago edo larrialdi mediko baten zantzuak baditu. Bat-bateko nahasmendurako edo ordu edo egun gutxitan azkar aldatzen den jokabiderako, batez ere sukarra, infekzioa edo botika berri bat badago, jarri harremanetan berehala medikuarekin."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Dena prestatzen duzu, joko bat edo paseo bat eskaintzen duzu, eta «Ez» entzuten duzu. Edo jarduera ondo hasten da eta tableta alde batera bultzatuta eta hitz zakar batekin amaitzen da. Gogorra da, eta oso ohikoa da. Uko egitea eta frustrazioa mezu bat izan ohi dira, ez tematasuna. Mezua zein den ulertzen saiatzeak askotan erakusten du zer probatu hurrena.
 
-## Why does someone with dementia refuse activities?
+## Zergatik uko egiten diote dementzia duten pertsonek jarduerei?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Normalean arrazoiren bat egoten da, nahiz eta pertsonak ezin duen hitzez adierazi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) erakundeak dio erresistentziak pertsonak ezin duela zeregina egin edo saiatzeko beldur dela adieraz dezakeela. Ohiko kausak hauek dira:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Zailegia iruditzen zaio.** Jarduerak orain dementziak zaildu dituen trebetasunak eskatzen ditu, eta norbaiten aurrean huts egitea lotsagarria da.
+- **Umeentzakoegia iruditzen zaio.** Helduek marrazki bizidunetako irudiak, haurrentzako tonuak eta haurrentzat egindako itxura duten jarduerak antzematen dituzte.
+- **Nekea.** Pertsona askok energia gutxiago dute egunaren amaieran. Ikus [arratsalde amaierako jarduera lasaiak](/caregiving/late-day-restlessness/).
+- **Deserosotasun fisikoa.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) erakundeak mina, lo falta, ikusteko edo entzuteko zailtasunak, idorreria, gosea, egarria eta botika berrien albo-ondorioak aipatzen ditu ondoezaren kausa posible gisa.
+- **Gehiegi gertatzen ari da.** Telebista ozenak, hainbat elkarrizketak edo jendez betetako gela batek gainezka egin dezakete.
+- **Bultzatuta sentitzea.** NIAk dio Alzheimer gaixotasunak oso zaildu duen zerbait egitera bultzatzea, edo gertaerak edo pertsonak gogoratzera behartzea, haserrearen kausa izan daitekeela.
+- **Aldarte baxua.** Gauzekiko interesa galtzea depresioaren zantzua izan daiteke, eta komeni da medikuarekin aipatu.
+- **Besterik gabe, ez du nahi.** Helduek badute ezetz esateko eskubidea.
 
-## What should I try when they say no?
+## Zer probatu behar dut ezetz dioenean?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Onartu eza lasai, eta gero aldatu zerbait: unea, jarduera, zailtasuna edo eskatzeko modua.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Utzi oraingoz.** «Ondo da. Agian geroago». Gero, jarraitu beste zerbaitekin hasperenik egin gabe.
+2. **Saiatu berriro geroago.** Alzheimer's Association erakundeak geroago edo eguneko beste une batean berriro saiatzea iradokitzen du.
+3. **Txikiago egin.** Parekatze bat joko oso baten ordez. Eskuoihal bat arropa-saskiaren ordez. Irudi gutxiago, aukera gutxiago, irudiak ikusgai utzita.
+4. **Eskaini bi aukera.** «Txorien irudiak ikusi nahi dituzu ala musika pixka bat entzun?». Aukera batek kontrol-sentsazioa itzultzen lagun dezake.
+5. **Eskatu laguntza, ez emaitza.** «Hauek sailkatzen lagunduko didazu?» edo «Esango al didazu zein kolore geratzen den hobekien?». Beharrezkoa sentitzea oso desberdina da proban jartzea baino.
+6. **Hasi zuk zeuk.** Hasi jarduera haien ondoan, ezer eskatu gabe. Pertsona askok bat egiten dute zerbait gertatzen ari denean, eta bat egiten ez badute ere, elkarrekin denbora eman duzue.
+7. **Aldatu zerbait fisiko edo lasaigarrira.** Paseo labur bat, musika, mokadu bat, arropa tolestea edo elkarrekin egindako [arnasketa lasai](/games/calm-breathing/) une bat. NIAk arreta musikara, liburu batera edo paseo batera bideratzea iradokitzen du.
+8. **Utzi bere erara egiten.** Arauak esaten dutenetik bestera jokatu nahi badute, jarraitu haiekin. Alzheimer's Association erakundeak malgua izatea gomendatzen du.
 
-## What should I say when they get frustrated?
+## Zer esan behar dut frustrazioa agertzen denean?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Moteldu, jaitsi ahotsa eta lasaitu. [Haserreari buruzko Alzheimer's Association gida](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)k atzera egitea eta baimena eskatzea iradokitzen du, adierazpen lasai eta positiboak erabiltzea, eta bi aukeren arteko aukera gidatu bat eskaintzea. Ildo horretako esaldiak:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Sentitzen dut, hau nekagarria da. Utz dezagun».
+- «Ondo ari zara. Hemen nago zure ondoan».
+- «Denbora duzu beste zerbaitetan laguntzeko?»
+- «Nahiago duzu te bat hartu?».
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Gero, amaitu jarduera arazorik gabe. Gure [komunikazio-aholkuetan](/caregiving/communication-tips/) gehiago aurkituko duzu zer esan jakiteko.
 
-## What should I avoid?
+## Zer saihestu behar dut?
 
-Some natural reactions tend to make things worse.
+Erreakzio natural batzuek egoera okerrera egin dezakete.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Eztabaidatzea edo behartzea.** «Ea, beste bat bakarrik» edo «Hau asko gustatzen zaizu» esateak gutxitan laguntzen du.
+- **Galdetzea edo zuzentzea.** «Badakizu zer den hau» edo «Ez, hori ez da zuzena» esateak presioa gehitzen du.
+- **Pertsonaltzat hartzea.** NIAk gogorarazten du gaixotasunak eragiten dituela aldaketa horiek, ez pertsonak.
+- **Gehiegi hurbiltzea edo presaka ibiltzea.** Alzheimer's Association erakundeak gomendatzen du ez oihukatzea, ez alarma erakustea, ez izkinatzea, ez gehiegi hurbiltzea, ez eustea, ez kritikatzea, ez ezikusiarena egitea eta ez eztabaidatzea, eta pertsonaren ikusmen-eremutik kanpoko mugimendu bortitzak saihestea.
+- **Errua erabiltzea.** «Hau dena zuretzat prestatu dut» esateak biei uzten digu okerrago sentituta.
+- **Etiketatzea.** «Tematia» edo «zaila» esateak benetako arrazoia ezkutatzen du eta konpontzea zailtzen du.
 
-## How can I find out what is behind repeated refusals?
+## Nola jakin dezaket zer dagoen behin eta berrizko ukoen atzean?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Idatzi ohar sinple bat astebete edo bi astez. NIAk dio jokabide-aldaketen jarraipena egiteak zaintzaileei eta osasun-arloko profesionalei lagun diezaiekeela eredua antzematen eta kausa ulertzen.
 
-Jot down:
+Idatzi:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- eguneko ordua;
+- zer eskaini zenuen eta nola eskatu zenuen;
+- zer gertatzen ari zen inguruan (zarata, bisitariak, telebista);
+- nola lo egin zuen, jan eta edan, eta noiz joan zen azkenekoz komuneraino;
+- botika berriren bat edo azkenaldiko gaixotasunen bat.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Ereduak askotan azkar agertzen dira: arratsaldeko 4etatik aurrera bakarrik gertatzen diren ukoak, joko jakin batekin bakarrik, edo telebista piztuta dagoenean bakarrik. Family Caregiver Alliance erakundearen [dementziaren jokabideei buruzko gida](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)k honela dio: ezin dugu pertsona aldatu, baina bai gure jokabidea eta ingurunea.
 
-## When should I talk to a doctor about refusal or frustration?
+## Noiz hitz egin behar dut medikuarekin uko egiteari edo frustrazioari buruz?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Hitz egin medikuarekin jokabidea bat-batean, azkar edo gaixotasun-zantzuekin batera aldatzen denean. NIAk dio jokabidean bat-bateko aldaketak edo azkar aldatzen direnak, batez ere pertsonak infekzio bat izan badu edo botiketan aldaketak izan baditu, berehala jakinarazi behar zaizkiola medikuari.
 
-Contact their doctor promptly if you notice:
+Jarri harremanetan berehala medikuarekin hauetako bat ikusten baduzu:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- bat-bateko nahasmena edo ordu edo egun gutxitan aldaketa handia;
+- min-zantzuak, hala nola keinuak egitea, gorputzeko atal bat babestea edo mugitzeko zailtasun berria;
+- sukarra edo infekzio baten beste zantzu batzuk;
+- botika berriak edo aldatutako botikak, eta ondoren jokabidean aldaketa bat;
+- ia guztiarekiko interesa galtzea, negar gogoa edo erretiratzea, aste pare bat baino gehiago irauten badu;
+- jateari edo edateari uko egitea.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association erakundeak azterketa mediko osoa gomendatzen du jokabide-sintomak dituen edozein pertsonarentzat, batez ere bat-batean agertzen direnean. Family Caregiver Alliance erakundeak ere lehenik medikuarekin egiaztatzea gomendatzen du, jokabide-arazoek kausa mediko bat izan dezaketelako. Ez hasi, ez utzi eta ez aldatu botikarik mediku edo farmazialari batekin hitz egin gabe.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Norbaitek arriskuan badago edo larrialdi mediko baten zantzuak badaude, deitu 112ra. NIAk iradokitzen du larrialdi-zentrora deitzean pertsonak dementzia duela esatea.
 
-## Is it okay if we do nothing at all?
+## Ondo al dago ezer ez egitea?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Bai. Egun batzuetan jarduerarik onena jarduerarik ez egitea da: elkarrekin eseri, eskuak hartu, disko gogokoen bat entzun edo leihotik txoriak begiratu. Hori ez da porrota. Gure [elkarrekin jolasteko gida](/caregiving/how-to-play-together/)k azaltzen du zergatik izan daitekeen erabaki egokia goiz amaitzea, edo ez hastea ere.

@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Dementziaren lehen seinaleak eta noiz joan medikuarengana"
+seoTitle: "Dementziaren lehen seinaleak eta noiz joan medikuarengana"
+description: "Dementziaren lehen seinale arruntak, zahartzaroarekin zer desberdintasun duten, memoria-arazoen kausa tratagarriak eta medikuarenera joateko prestatzeko aholkuak."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Eguneroko bizitza oztopatzen duen memoria-galera, ohiko zereginetan zailtasunak, denborari edo
+  lekuari buruzko nahasmendua, eta umore- edo erabaki-aldaketak dementziaren lehen seinaleak izan
+  daitezke. Beste egoera askok ere antzeko aldaketak eragin ditzakete, hala nola tiroide-arazoek,
+  B12 bitamina baxuak, botiken albo-ondorioek, depresioak eta lo-arazoek. Kualifikatutako
+  osasun-profesional batek bakarrik egin dezake diagnostikoa. Bat-bateko nahasmenduak premiazko
+  arreta behar du.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Noizbehinkako ahanztura arrunta da adinarekin; eguneroko bizitza oztopatzen duten aldaketak egiaztatzea merezi dute."
+  - "Alzheimer's Association erakundeak 10 abisu-seinale deskribatzen ditu, eta bakoitza adinarekin lotutako ohiko aldaketa batekin alderatzen du."
+  - "Tiroide-arazoek, B12 bitamina baxuak, botiken albo-ondorioek, depresioak, infekzioek eta lo-arazoek memoria eragin dezakete, eta batzuk tratagarriak dira."
+  - "Kualifikatutako osasun-profesional batek bakarrik diagnostika dezake dementzia; lineako galderek eta auto-probek ezin dute."
+  - "Ordu gutxitan edo egun gutxitan bat-batean agertzen den nahasmendua delirioa izan daiteke, eta premiazko arreta medikoa behar du."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Ahanztura zahartzaroaren parte normala al da?"
+    a: "Pixka bat bai. National Institute on Aging erakundeak dio gauzak noizbehinka gaizki jartzea edo faktura bat ahaztea, normalean, adinarekin lotutako ahanztura arina dela. Dementzia ez da zahartzaroaren parte normala. Gidatzea, telefonoa erabiltzea edo etxera itzultzeko bidea aurkitzea bezalako eguneroko zereginak zailtzen dituzten memoria-arazoak medikuarekin egiaztatzea merezi dute."
+  - q: "Dementziaz gain, beste zerbaitek eragin al ditzake memoria-arazoak?"
+    a: "Bai. National Institute on Aging erakundeak aipatzen ditu, besteak beste, tiroide-, giltzurrun- edo gibeleko arazoak, botiken albo-ondorioak, depresioa eta antsietatea, B12 bitamina baxua, alkoholaren gehiegikeria, lo-arazoak, infekzioak eta buruko lesioak. Horietako batzuk hobetu egin daitezke tratamenduarekin, eta horregatik da garrantzitsua medikuaren azterketa."
+  - q: "Etxean froga al dezaket norbaitek dementzia duen?"
+    a: "Ez. Kualifikatutako osasun-profesional batek bakarrik diagnostika dezake dementzia, historia medikoa, azterketa fisikoa, memoria- eta pentsamendu-probak, laborategiko probak eta, batzuetan, garuneko irudi-probak erabilita. Medikuek erabiltzen dituzten proba laburrak ere ez dira nahikoak, berez, dementzia diagnostikatzeko."
+  - q: "Zer egin behar dut norbait bat-batean nahasten bada?"
+    a: "Eskatu laguntza medikoa berehala. Bat-bateko nahasmendua delirioa izan daiteke, eta VA erakundeak dio premiazko larrialdi medikoa dela. Deitu pertsonaren osasun-hornitzaileari berehala edo deitu 112ra, egon haren ondoan, eta idatzi hartzen dituen botikak."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Zure memorian aldaketak nabaritzea, edo maite duzun norbaitengan, beldurgarria izan daiteke. Orrialde honek medikuarenera joateko hitzordua noiz eskatu erabakitzen lagun diezazuke, eta nola prestatu. Ezin dizu esan inork dementzia duen ala ez. **Kualifikatutako osasun-profesional batek bakarrik diagnostika dezake dementzia**, eta memoria-arazoak eragiten dituzten egoera asko ez dira batere dementzia. Mesedez, ez fidatu lineako galderekin edo auto-probekin.
 
-## What are the early signs of dementia?
+## Zein dira dementziaren lehen seinaleak?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) erakundeak 10 lehen seinale deskribatzen ditu. Bakoitza adinarekin lotutako ohiko aldaketa batekin alderatzen du. Gure hitzetan:
 
-| Sign worth checking | More typical with age |
+| Egiaztatzea merezi duen seinalea | Adinarekin ohikoagoa dena |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Eguneroko bizitza oztopatzen duen memoria-galera, hala nola azken gertaerak ahaztea edo gauza bera behin eta berriro galdetzea | Batzuetan izen bat edo hitzordu bat ahaztea, eta geroago gogoratzea |
+| Planak egiteko edo arazoak konpontzeko zailtasunak, hala nola ohiko errezeta bat jarraitzea edo fakturen jarraipena egitea | Noizbehinkako akats bat etxeko fakturekin |
+| Etxean, lanean edo kanpoan ohiko zereginak amaitzeko zailtasuna | Noizbehinka mikrouhin-labearen doikuntzarako edo telebista-saio bat grabatzeko laguntza behar izatea |
+| Datei, urtaroei edo non zauden jakiteko zailtasuna | Asteko egunean nahastea, eta gero argitzea |
+| Distantziak neurtzeko, irakurtzeko edo koloreak bereizteko zailtasun berriak | Begietako aldaketak, kataraten ondoriozkoak |
+| Hitzekin arazo berriak izatea, hala nola elkarrizketaren erdian gelditzea edo gauzei izen okerra jartzea | Batzuetan hitz egokia aurkitzeko zailtasuna izatea |
+| Gauzak ohikoak ez diren lekuetan jartzea eta egindako bidea ezin berriro jarraitzea | Gauzak noizbehinka gaizki jartzea eta egindako bidea jarraituz aurkitzea |
+| Erabaki txarrak hartzea, adibidez diruarekin edo norberaren zaintzarekin | Noizbehinkako erabaki txar bat hartzea |
+| Zaletasunetatik, lanetik edo gizarte-jardueretatik urruntzea | Batzuetan familia- edo gizarte-ekitaldi batera joateko gogorik ez izatea |
+| Umorean edo nortasunean aldaketak izatea, hala nola nahasita, mesfidati, beldurti edo urduri egotea | Gauzak egiteko modu finkoak izatea, eta errutina aldatzen denean haserretzea |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Seinale batek bakarrik ez du esan nahi dementzia dagoenik. Garrantzitsuena **pertsona horrentzat ohikoa denarekiko aldaketa** da, batez ere eguneroko bizitza zailtzen badu.
 
-## How is normal aging different from dementia?
+## Zertan bereizten dira ohiko zahartzea eta dementzia?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) erakundeak dio adineko heldu askok nabaritzen dutela gauzak motelago gogoratzen dituztela, edo batzuetan gauzak gaizki jartzen dituztela edo faktura bat ahazten dutela. Horiek, normalean, ahanztura arinaren seinaleak dira. **Dementzia ez da zahartzaroaren parte normala.** Memoria-arazo larriek eguneroko jarduerak zailtzen dituzte, hala nola gidatzea, telefonoa erabiltzea edo etxera itzultzeko bidea aurkitzea.
 
-The NIA suggests talking with a doctor if someone:
+NIAk iradokitzen du medikuarekin hitz egitea norbaitek honako hauek baditu:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Galdera berak behin eta berriro egiten baditu
+- Ongi ezagutzen zituen lekuetan galtzen bada
+- Errezetak edo jarraibideak jarraitzeko zailtasunak baditu
+- Denborari, pertsonei eta lekuei buruz gero eta nahasiago badago
+- Bere burua zaintzeari uzten badio, adibidez gaizki jaten badu, ez bada garbitzen edo modu ez-seguruan jokatzen badu
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Pertsona batzuek **narriadura kognitibo arina (MCI)** dute. Horrek esan nahi du beren adineko beste batzuek baino memoria- edo pentsamendu-arazo gehiago dituztela, baina oraindik eguneroko bizitza kudeatzen dutela. NIAk dio MCI Alzheimerraren hasierako seinale bat izan daitekeela, baina MCI duten guztiek ez dute Alzheimerra garatzen.
 
-## What else can cause memory problems?
+## Zer gehiago eragin dezake memoria-arazoak?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Dementziaz gain, gauza askok eragin dezakete memoria, eta batzuk hobetu egiten dira tratamenduarekin. NIAk honako hauek aipatzen ditu:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Tiroide-, giltzurrun- edo gibeleko arazoak**
+- **Botiken albo-ondorioak**
+- **Depresioa eta antsietatea**
+- **B12 bitamina baxua** edo elikagai osasungarri nahikorik ez jatea
+- **Lo-arazoak**
+- **Alkoholaren edo drogen gehiegikeria**
+- **Infekzioak, odol-koaguluak edo tumoreak** garunean
+- **Buruko lesioa**, hala nola garuneko kommozioa
+- **Estres edo dolu handia**, hala nola erretiroa edo bikotekidea galtzea
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Entzumen- eta ikusmen-arazoak ere nahasmenarekin nahas daitezke; ikusi gure [entzumenerako gida](/brain-health/hearing/). Horregatik da garrantzitsua medikuaren azterketa. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) erakundearen arabera, medikuek askotan odol-analisiak eskatzen dituzte tiroide-arazoak, bitamina-gabeziak eta infekzioak egiaztatzeko. [Lo ona](/brain-health/sleep/) izatea eta depresioa tratatzea ere aipatzeko moduko gaiak dira.
 
-## Sudden confusion is an emergency
+## Bat-bateko nahasmendua larrialdia da
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Ordu gutxitan edo egun gutxitan azkar agertzen den nahasmenduak premiazko arreta medikoa behar du.** Delirioa izan daiteke. [VA erakundeak dio delirioa](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) premiazko larrialdi medikoa dela, eta gomendatzen du berehala pertsonaren osasun-hornitzaileari deitzea edo 112ra deitzea. Seinaleak hauek dira:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Argi pentsatzeko gaitasunean gorabeherak izatea
+- Arreta jartzeko zailtasuna
+- Pentsamendu desantolatua
+- Ohikoa baino loguratsuago egotea, edo ohikoa baino urduriago eta ezinegonago egotea
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Edozeini gerta dakieke hori, dagoeneko dementziarekin bizi diren pertsonei barne. [NHS](https://www.nhs.uk/symptoms/confusion/) erakundearen arabera, ohiko kausen artean daude infekzioak (gernu-traktuko infekzioak ohikoak dira adineko pertsonengan eta dementzia duten pertsonengan), iktusa, odoleko azukre baxua diabetesa duten pertsonengan, buruko lesioa eta botika batzuk. Laguntza iritsi arte, egon pertsonaren ondoan eta lasaitu hitz labur eta errazekin. Ez egin galdera asko, eta idatzi hartzen dituen botikak.
 
-## How do I prepare for the doctor's appointment?
+## Nola prestatu medikuaren hitzordua?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Hitzordu on bat ohar onekin hasten da. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) erakundeak gomendatzen du honako hauek eramatea:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Aldaketen zerrenda bat**: memorian, umorean eta jokabidean izandako aldaketak, adibide zehatzekin eta noiz hasi ziren gutxi gorabehera adierazita
+2. **Iraganeko eta oraingo osasun-arazoak**, familia-aurrekariak barne, memoria-arazoak egon badira
+3. **Errezetadun botika guztiak eta errezetarik gabeko botikak**
+4. **Bitaminak edo osagarriak**
+5. **Zure galderak**, adibidez zer proba egingo diren, zenbat denbora beharko duten eta emaitzak noiz jasoko dituzun
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Lagungarria da, halaber, pertsona ondo ezagutzen duen senideren bat edo lagun bat eramatea. [NIAk azaltzen du](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) medikuek pertsonari zein senideren bati galdetu diezaieketela osasunari, botikei, eguneroko jarduerei eta jokabide-aldaketei buruz. Medikuek, gainera, honako hauek egin ditzakete:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Memoria, arazoak konpontzea, arreta, zenbatzea eta hizkuntza neurtzeko probak egitea
+- Beste kausa batzuk bilatzeko odol-, gernu- eta beste proba batzuk eskatzea
+- Depresioa edo beste osasun mentaleko egoera batzuk egiaztatzea
+- Garuneko irudi-probak eskatzea, hala nola CT edo MRI
+- Espezialista batengana bidaltzea, hala nola geriatra, neurologo, psikiatra geriatriko edo neuropsikologo batengana
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIAk adierazten du ebaluazio kognitiboa Medicareko Urteko Ongizate Bisitaren derrigorrezko zatia dela, eta hori une egokia izan daiteke kezkak azaltzeko. Medikuek erabiltzen dituzten proba laburrak ere ez dira nahikoak, berez, dementzia diagnostikatzeko. Ebaluazio osoago baterako lehen urratsa dira, eta diagnostikoak bisita bat baino gehiago behar izan ditzake. NIAk gomendatzen du memoria-arazoak dituzten pertsonek 6 eta 12 hilabetero itzultzea medikuarengana.
 
-## Raising the subject kindly
+## Gaia adeitasunez planteatzea
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Beste norbaitengatik kezkatuta bazaude, aukeratu une lasai eta pribatu bat. Nabaritu dituzun gauza zehatzez hitz egin, haren osasunarekiko kezka gisa, ez kritika gisa. Osasun-azterketa orokor bat iradokitzea ez da hain kezkagarria izan ohi. Sartu pertsona erabakietan eta hitz egin heldu bati bezala. Gure [komunikazio-aholkuak](/caregiving/communication-tips/) lagungarriak izan daitezke.
 
-## Talk with a doctor
+## Hitz egin mediku batekin
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Memorian, pentsamenduan, umorean edo eguneroko gaitasunetan berriak diren eta errepikatzen diren aldaketak nabaritzen badituzu, eskatu hitzordua lehen mailako arretako medikuarekin. Bat-bateko nahasmendua izanez gero, deitu 112ra edo pertsonaren osasun-hornitzaileari berehala. Goiz egiaztatzeak aukera ematen du kausa tratagarriak aurkitzeko, eta, dementzia bada, denbora gehiago dago planak egiteko eta laguntza bilatzeko. Zaindu zeure burua prozesu honetan; ikusi gure [zaintzailearen autolaguntzarako gida](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Orrialde hau informazio orokorra da, ez aholku medikoa. Ikusi gure [mediku-oharra](/medical-disclaimer/).

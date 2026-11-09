@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Prebenitu al daiteke dementzia? Ikerketek diotena"
+seoTitle: "Prebenitu al daiteke dementzia? Ikerketek diotena"
+description: "2024ko Lancet Batzordeak eta saiakuntza nagusiek dementzia-arriskua gutxitzeari buruz aurkitu zutena, zer ez zuten aurkitu, eta medikuarekin komentatzeko urratsak."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Inork ezin du agindu dementzia prebenituko denik. 2024ko Lancet Batzordeak
+  kalkulatu zuen mundu osoko dementzia kasuen ia erdia alda daitezkeen 14
+  arrisku-faktorerekin lotuta dagoela, hala nola tentsio altua, entzumen-galera
+  eta jarduera fisiko eza. Saiakuntzek pentsamendu-probetan eragin txikiak
+  erakusten dituzte, ez dementzia kasu gutxiagoren frogarik. «Dena ondo» egiten
+  duten pertsona askok ere dementzia garatzen dute, eta ez da inoren errua.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024ko Lancet Batzordeak mundu osoko dementzia kasuen % 45 inguru alda daitezkeen 14 arrisku-faktorerekin lotu zituen. Biztanleria osoari buruzko kalkulu bat da, ez berme pertsonala."
+  - "Arriskua gutxitzeak biztanleria oso batean probabilitateak murriztea esan nahi du. Ez du esan nahi pertsona jakin batek dementzia saihestu dezakeenik."
+  - "FINGER, US POINTER eta SPRINT MIND bezalako saiakuntza handiek onura txikiak aurkitu zituzten pentsamendu-probetan edo narriadura kognitibo arinean, baina batek ere ez zuen frogatu bizimodu-programa batek dementzia prebenitzen duenik."
+  - "Adina da Alzheimer gaixotasunaren arrisku-faktore ezagun handiena, eta ezin da aldatu. Ohitura osasungarriak dituzten pertsona askok ere dementzia garatzen dute."
+  - "Gehien aztertu diren urratsak, hala nola tentsio altua tratatzea, audifonoak erabiltzea eta aktibo egotea, medikuarekin komentatzea merezi dute, beste alderdi batzuetan ere osasunerako lagungarriak direlako."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Prebenitu al daiteke dementzia?"
+    a: "Ez dago dementzia pertsona jakin batean prebenitzeko modu frogaturik. Ikerketek iradokitzen dute zenbait arrisku gutxitzeak, hala nola tentsio altua, tratatu gabeko entzumen-galera eta erretzea, biztanleria batean dementzia izateko aukera gutxitu edo hasiera atzeratu dezakeela. Probabilitateak dira, ez promesak."
+  - q: "Zer esan nahi du Lancet Batzordearen % 45eko zifrak?"
+    a: "2024ko Lancet Batzordeak kalkulatu zuen mundu osoko dementzia kasuen % 45 inguru, teorian, alda litezkeen 14 arrisku-faktorerekin lotuta daudela. Kalkuluak faktore horiek dementzia eragiten dutela suposatzen du, eta egileek adierazi dute lotura batzuk partzialki soilik kausalak izan daitezkeela. Biztanleria osoak deskribatzen ditu, eta ez du pertsona baten arrisku indibiduala adierazten."
+  - q: "Nire gurasoak bizimodu osasungarria bazuen, zergatik garatu zuen dementzia?"
+    a: "Adinak, geneek eta inork kontrolatzen ez dituen beste faktore askok zeregin handia dute dementzian. Lancet Batzordeko egileek adierazi dute biztanleria batean arriskua gutxitzeak ez duela bermatzen pertsona jakin batek dementzia saihestuko duenik. Diagnostiko bat ez da inork huts egin duen seinale."
+  - q: "Beranduegi al da dementzia-arriskua gutxitzeko 65 urtetik aurrera?"
+    a: "Lancet Batzordeak dio ez dela inoiz goizegi edo beranduegi arriskua murrizteko, nahiz eta ebidentzia gehiena helduaroari buruzkoa izan. Entzumen- eta ikusmen-arazoak tratatzea, aktibo egotea eta besteekin harremanetan egotea geroago aztertu diren urratsen adibideak dira. Hitz egin medikuarekin zure osasunera egokitzen denaz."
+  - q: "Burmuin-jolasak edo dieta bereziek prebenitzen al dute dementzia?"
+    a: "Ez da frogatu inolako jolas, elikagai, osagarri edo dietak dementzia prebenitzen duenik. MIND dietari buruzko hiru urteko saiakuntza batek ez zuen alde esanguratsurik aurkitu pentsamenduan kontrol-dieta batekin alderatuta, eta ez da frogatu burmuina entrenatzeko aplikazio komertzialek ikerketa-saiakuntzetan ikusten diren ondorioak dituztenik."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,129 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Dementzia duen pertsona bat zaintzen ari bazara, edo guraso batek dementziarekin bizi izana ikusi baduzu, ziurrenik galdetu diozu zeure buruari ea geldiarazi zitekeen, eta ea zuk zeure buruarengan gerta dadin saihestu dezakezun. Orrialde honetan, ikerketek benetan zer dioten azaltzen dugu, hizkera argian. Erantzun laburra: inork ezin du agindu dementzia prebenituko denik, baina ikerketek iradokitzen dute zenbait arrisku gutxitu daitezkeela, eta biztanleria oso batean arrisku horiek gutxitzeak pertsona gutxiagok dementzia garatzea edo geroago garatzea ekar dezakeela.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Hau informazio orokorra da, ez aholku medikoa. Irakurri gure [mediku-oharra](/medical-disclaimer/) eta hitz egin medikuarekin zure osasunari buruz.
 
-## Can dementia be prevented?
+## Prebenitu al daiteke dementzia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Ez dago pertsona jakin batean dementzia prebenitzeko modu frogaturik. National Institute on Aging (NIA) erakundeak dio [oraindik ez dela ezer frogatu Alzheimerra prebenitzeko](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), baina ikertzaileek estrategia itxaropengarriak aurkitu dituzte eta zer funtziona dezakeen eta zer ez ikasten ari dira.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ikerketek erakusten dutena da osasun-egoera eta ohitura batzuk dementzia izateko aukera handiagoarekin lotuta daudela. Arrisku horiek biztanleria oso batean txikiagoak direnean, baliteke pertsona gutxiagok dementzia garatzea, edo geroago garatzea. Hori oso desberdina da berme batetik.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Itxaropenerako seinale bat: 2024ko Lancet Batzordeak jakinarazi zuen diru-sarrera handiko herrialde batzuetan, AEBetan eta Erresuma Batuan barne, dementzia duten adineko pertsonen proportzioa jaitsi egin dela. Egileen ustez, hori, neurri batean, hezkuntza hobeari, osasun-arreta hobeari eta bizitza osoan odol-hodieetan kalte gutxiago izateari zor zaie, [University College London erakundeak txostenari buruz egindako laburpenaren](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) arabera.
 
-## What did the 2024 Lancet Commission find?
+## Zer aurkitu zuen 2024ko Lancet Batzordeak?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Dementziaren prebentzioari, esku-hartzeari eta zainketari buruzko Lancet Batzordea dementziaren arloko 27 ikertzailek osatzen dute, eta urte gutxiro ebidentzia berrikusten dute. 2024ko txostenean, alda daitezkeen **14 arrisku-faktore** izendatu zituzten, eta kalkulatu zuten elkarrekin **mundu osoko dementzia kasuen ia erdia ( % 45 inguru)** direla. Egileen hitzetan, kasu horiek *teorian* prebenitu edo atzeratu zitezkeen arriskuak kenduko balira
+([2024ko Lancet Batzordearen txostena](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 faktoreak, ebidentzia sendoena dagoen bizitza-etaparen arabera multzokatuta:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Bizitzako lehen urteak:** hezkuntza maila txikiagoa.
+- **Helduaroa (gutxi gorabehera 40 eta 65 urte bitartean):** entzumen-galera, LDL («txarra») kolesterol altua, depresioa, buruko lesioa, jarduera fisiko eza, diabetesa, erretzea, tentsio altua, obesitatea eta alkohol-kontsumo handia.
+- **Geroagoko bizitza:** isolamendu soziala, airearen kutsadura eta tratatu gabeko ikusmen-galera.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024an gehitutako bi faktore berriak LDL kolesterol altua eta tratatu gabeko ikusmen-galera izan ziren. Kasuen zatirik handienarekin lotutako faktoreak entzumen-galera eta LDL kolesterol altua izan ziren (bakoitza % 7 inguru), eta ondoren hezkuntza maila txikiagoa eta isolamendu soziala (bakoitza % 5 inguru).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Gure [arrisku-faktoreen gida](/brain-health/risk-factors/) 14 faktoreak taula batean azaltzen ditu, ikerketek zer lotzen duten eta zer egin dezakezun adierazita.
 
-### What the 45% figure does not mean
+### Zer ez duen esan nahi % 45eko zifrak
 
-It is easy to misread this number, so it helps to be precise:
+Erraza da zenbaki hau gaizki interpretatzea; beraz, komeni da zehatza izatea:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Biztanleria osoari buruzko kalkulu bat da.** Mundu osoko dementzia kasuak deskribatzen ditu, ez zure aukerak edo zure gurasoen aukerak.
+- **Kausa eta ondorioa suposatzen ditu.** Egileek diote ebidentzia sinesgarria zuten arrisku-faktoreak soilik sartu zituztela, baina lotura batzuk partzialki soilik kausalak izan daitezkeela. Adibidez, bizitzako azken etapetako depresioa batzuetan dementziaren hasierako sintoma bat izan daiteke, ez kausa bat.
+- **Ez du ezer bermatzen pertsona jakin batentzat.** UCLren laburpenak dio arriskua gutxitzeak biztanleria mailan eragiten duela, eta ez duela bermatzen pertsona jakin batek dementzia saihestuko duenik.
+- **Beste erdia ez dago faktore horiekin azaldua.** Adinak, geneek eta zientzialariek oraindik ulertzen ez dituzten kausetan dago gainerakoa.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Zein da «arriskua gutxitzearen» eta «prebentzioaren» arteko aldea?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Arriskua gutxitzea** probabilitateak murriztea da. Pertsona talde handi batek tentsioa jaitsi egiten badu, baliteke haietako gutxiagok dementzia garatzea urte askoren buruan, bestela garatuko luketenarekin alderatuta. Talde horretako pertsona batzuek hala ere garatuko dute.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prebentzioak** zerbait guztiz gertatzea eragoztea iradokitzen du. Dementziaren kasuan, ikerketek ezin diote hori gaur inori agindu.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ikertzaileek **atzerapenaz** ere hitz egiten dute. Lancet Batzordeak dio ebidentzia berriak iradokitzen duela arriskua gutxitzeak dementziaren hasiera atzeratu eta pertsona batek osasun txarrarekin bizi duen denbora laburtu dezakeela. Urte gutxi batzuetako atzerapen batek ere garrantzi handia izan dezake pertsona batentzat eta haren familiarentzat.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Gune honetan, nahita erabiltzen ditugu «arriskua gutxitu» eta «lotuta egon». «Alzheimerra prebenitzea» agintzen duen produktu, osagarri edo programa bat ikusten duzunean, kontuz ibili. NIAk gomendatzen du medikuarekin kontsultatzea Alzheimerra prebenitzea agintzen duen pilula edo tratamendu bat probatu aurretik, produktu horiek ez-seguruak, diru-galerak edo biak izan daitezkeelako.
 
-## What have large trials found?
+## Zer aurkitu dute saiakuntza handiek?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Behaketa-azterketek (denboran zehar pertsonekin zer gertatzen den ikusten dutenek) loturak erakutsi ditzakete. Ausazko saiakuntzak, non pertsonak zoriz esleitzen diren programa batera edo konparazio-talde batera, proba sendoagoak dira. Hona hemen saiakuntza ezagunenetako batzuek aurkitu zutena.
 
-### FINGER (Finland)
+### FINGER (Finlandia)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER saiakuntzan 60 eta 77 urte bitarteko 1.260 helduk parte hartu zuten, dementzia izateko arrisku handiagoa zutenak. Erdiak bi urteko programa bat jaso zuen: dieta-aholkularitza, ariketa fisikoa, ordenagailuko burmuin-ariketak eta bihotz- eta odol-hodien osasunaren jarraipena; beste erdiak osasun-aholku orokorrak jaso zituen. Programa-taldeak apur bat emaitza hobeak lortu zituen pentsamendu-proba multzo batean, alde txiki baina estatistikoki esanguratsua
+([FINGER saiakuntza The Lancet aldizkarian](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Saiakuntzak proben emaitzak neurtu zituen, ez dementzia-diagnostikoak.
 
-### US POINTER (United States)
+### US POINTER (Ameriketako Estatu Batuak)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER saiakuntzan 60 eta 79 urte bitarteko 2.111 helduk parte hartu zuten, ez-aktiboak zirenak, dieta ez hain osasungarria zutenak eta beste arrisku-faktore batzuk zituztenak. Bi taldeak fisikoki eta mentalki aktiboago izatera, hobeto jatera, harreman sozialak mantentzera eta bihotz-osasuna zaintzera animatu zituzten. Talde batek egituratutako programa bat jaso zuen, entrenatzailearekin; besteak bere kabuz gidatu zuen. Bi urtean, pentsamendu-proben emaitzak **bi** taldeetan hobetu ziren, eta apur bat gehiago egituratutako taldean
+([US POINTER saiakuntza JAMA aldizkarian](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Egileek diote jarraipen gehiago behar dela jakiteko alde horrek eguneroko bizitzan garrantzirik duen. «Ezer ez egin» talde bat ez zegoenez, saiakuntzak ezin du esan programa bakoitzak zenbat lagundu zuen ezer ez aldatzearekin alderatuta.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tentsio arteriala)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND saiakuntzak tentsio altua zuten 50 urtetik gorako 9.361 heldu estatubatuar aztertu zituen. Tentsio-helburu baxuago batera (goiko zenbakia 120tik behera) edo helburu estandarrera (140tik behera) esleitu zituzten. Helburu baxuagoak **narriadura kognitibo arina** nabarmen murriztu zuen, hau da, dementziaren aurretik ager daitekeen memoria- eta pentsamendu-arazoen etapa bat. **Litekeen dementziaren** kasuan, kasu gutxiago egon ziren helburu baxuagoko taldean, baina aldea ez zen estatistikoki esanguratsua. Saiakuntza goiz amaitu zen eta espero baino dementzia kasu gutxiago izan zituen; beraz, baliteke txikiegia izatea galdera horri erantzuteko
+([SPRINT MIND JAMA aldizkarian](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Berrikuspenek zer dioten
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021eko Cochrane berrikuspen batek hainbat arriskuri aldi berean heltzen dieten programen bederatzi saiakuntza handi bildu zituen, 18.000 pertsona baino gehiagorekin. Pentsamendu-probetan onura txiki bat aurkitu zuen, baina **ez zuen alde argirik aurkitu zenbat pertsonak garatu zuten dementzia** neurtu zuten bi saiakuntzetan
+([esku-hartze anitzeko programen Cochrane berrikuspena](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+National Academies of Sciences, Engineering, and Medicine erakundearen 2017ko berrikuspen batek, NIAk laburtua, ebidentzia «itzaropengarria baina ez erabakigarria» aurkitu zuen hiru ikuspegirentzat: tentsio altua kudeatzea, jarduera fisikoa handitzea eta entrenamendu kognitiboa.
 
-## Does it matter when you start?
+## Garrantzia al du noiz hasten zaren?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Batzordearen aholkua da arriskuak ahalik eta goizen gutxitzea eta ahalik eta denbora luzeenean baxu mantentzea: «zenbat eta lehenago, orduan eta hobeto» eta «zenbat eta luzeago, orduan eta hobeto». Halaber, dio ez dela inoiz goizegi edo beranduegi arriskua murrizteko. Ebidentzia gehiena helduaroari buruzkoa da, gutxi gorabehera 40 eta 65 urte bitartekoa, baina faktore batzuk, hala nola ikusmen-galera eta isolamendu soziala, bizitzako geroagoko etapetako arriskuak dira, eta oraindik zentzuzkoa izan daiteke horietan jardutea.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Txostenak dio orain ebidentzia sendoagoa dagoela arrisku batekiko esposizio luzeagoak eragin handiagoa duela adierazteko. Adibidez, helduaroan hasten den diabetesak geroago hasten denak baino garrantzi handiagoa duela dirudi.
 
-## Is dementia risk the same for everyone?
+## Berdina al da dementzia-arriskua pertsona guztientzat?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ez. Batzordeak ikusi zuen diru-sarrera txiki eta ertaineko herrialdeetako pertsonek, gutxiengoetako pertsonek eta diru gutxiago duten pertsonek askotan arrisku horietako gehiago dituztela; beraz, dementzia gazteago garatzeko joera egon daiteke. Arrisku asko pertsonak aukeratu ez zituzten egoerekin lotuta daude, hala nola haurtzaroan jaso zuten hezkuntzaren kalitatea, bizi diren airea edo elikagai osasungarriak eskuragarri eta hurbil dauden.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Horregatik, Batzordearen gomendioak gobernuei zuzenduta daude, pertsonei bezainbeste: haur guztientzako hezkuntza ona, aire garbiagoa, erretzea murrizteko neurriak, dendetan eta jatetxeetan saltzen den janarian azukre eta gatz gutxiago, eta behar duen ororentzat audifonoak. Norberaren ahaleginak garrantzia du, baina baita pertsonek bizi duten inguruneak ere. Hori da diagnostiko batengatik inor erruduntzat ez jotzeko beste arrazoi bat.
 
-## What are the honest limits of this research?
+## Zein dira ikerketa honen muga zintzoak?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementziak hamarkadak behar ditu garatzeko**, baina saiakuntza gehienek bi eta bost urte bitartean irauten dute. Dementzia bera neurtzeko, ez soilik proben emaitzak, oso ikerketa luze eta handiak behar dira.
+- **Saiakuntza gehienek pentsamendu-probak neurtzen dituzte.** Proba bateko hobekuntza txiki batek ez du zertan esan nahi pertsona gutxiagok garatuko dutenik dementzia edo eguneroko bizitza errazagoa izango denik.
+- **Boluntarioak askotan osasuntsuagoak** eta heziketa maila handiagokoak izaten dira biztanleria orokorra baino. Lancet Batzordeak dio ebidentzia gehiena oraindik diru-sarrera handiko herrialdeetatik datorrela eta gutxiengo-taldeak gutxiegi ordezkatuta daudela.
+- **Lotura batzuk bi norabidekoak dira.** Ez hain aktibo edo ez hain sozial izatea dementziaren hasierako ondorioa izan daiteke, ez soilik kausa bat.
+- **Dieta-saiakuntzek emaitza etsigarriak eman dituzte orain arte.** MIND dietari buruzko hiru urteko saiakuntza batek ez zuen alde esanguratsurik aurkitu pentsamenduan kontrol-dieta batekin alderatuta. Ikusi gure [dietaren gida](/brain-health/diet/).
+- **Ez dago frogatuta burmuin-jolasek dementzia prebenitzen dutenik.** Ikusi gure [burmuin-jolasei eta dementziari buruzko gida](/brain-health/brain-games/).
+- **Baraualdiari buruzko giza ebidentzia oso mugatua da**, eta arriskutsua izan daiteke adineko pertsonentzat. Ikusi gure [baraualdiaren gida](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Norbaitek «dena ondo» egin bazuen, zergatik garatu zuen hala ere dementzia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Dementzia ez delako aukeren ondorio hutsa. NIAk dio [adina dela Alzheimer gaixotasunaren arrisku-faktore ezagun handiena](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), eta inork ezin du aldatu. Geneek ere zeregina dute. Eta zientzialariek oraindik ez dute guztiz ulertzen zerk eragiten duen Alzheimerra pertsona gehienetan. 14 arrisku-faktoreak guztiak kenduko balira ere, Lancet Batzordearen kalkuluak berak kasuen erdia baino gehiago azaldu gabe uzten du.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Beraz, ariketa fisikoa egiten zuen, ondo jaten zuen, inoiz erre ez zuen eta hala ere dementzia garatu zuen pertsona bat zaintzen ari bazara, ez zen ezer gaizki egin haren aldetik, ezta zure aldetik ere. Zu zeu dementziarekin bizi bazara, ez da zure errua. Errudun sentitzea ohikoa da familietan, baina ez da bidezkoa. Orain garrantzitsuena erosotasuna, lotura eta egun onak dira; hasteko, gure [jarduera-ideiak](/activities/ideas/) eta [zaintzailearen autolaguntzarako gida](/caregiving/caregiver-self-care/) begira ditzakezu.
 
-## What steps can you talk over with a doctor?
+## Zer urrats komentatu ditzakezu medikuarekin?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Hauek dira gehien aztertu diren arloak. Osasun-azterketa batean aipatzekoak dira, gehienek bihotz-osasunean, aldartean eta autonomian ere laguntzen dutelako, dementzian izan dezaketen eragina edozein dela ere.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tentsio arteriala.** Galdetu zein diren zure balioak eta zein helburuk egokitzen zaizun. Lancet Batzordeak iradokitzen du 40 urte ingurutik aurrera goiko zenbakia 130 edo txikiagoa izatea helburu izatea, baina adineko pertsona batentzat helburu egokia haren osasun orokorraren araberakoa da.
+2. **Entzumena.** Eskatu entzumen-proba bat, eta galdetu ea audifonoek lagunduko luketen. Gure [entzumenaren gidak](/brain-health/hearing/) ikerketa azaltzen du.
+3. **Ikusmena.** Egin begi-azterketak aldizka eta galdetu ea begi-lausoa bezalako arazoak trata daitezkeen.
+4. **Kolesterola.** Galdetu ea zure LDL kolesterola neurtu behar den eta ea zerbait aldatu behar den.
+5. **Odoleko azukrea.** Diabetesa baduzu, galdetu nola kudeatu segurtasunez.
+6. **Aldartea.** Depresioa ohikoa da eta tratagarria da. Esan medikuari triste sentitu bazara edo gauzekiko interesa galdu baduzu bi aste baino gehiagoz.
+7. **Erretzea eta alkohola.** Galdetu erretzeari uzteko laguntzari buruz eta alkoholaren muga seguruei buruz.
+8. **Mugimendua.** Galdetu zein jarduera mota den segurua zuretzat. Gure [ariketa fisikoaren gidak](/brain-health/exercise/) ideiak ditu.
+9. **Burua babestea.** Erabili kaskoa bizikletan ibiltzean eta kontaktu-kiroletan, eta galdetu erorketak prebenitzeari buruz.
+10. **Harremanetan egotea.** Besteekin denbora pasatzea bizitza osasuntsu baten parte da. Ikusi gure [harreman sozialen gida](/brain-health/social-connection/), eta baita [loaren gida](/brain-health/sleep/) ere.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Sendagaiak, dieta, osagarriak, baraualdia edo ariketa fisikoa aldatu aurretik, hitz egin lehenik medikuarekin, batez ere bihotzeko gaixotasunik baduzu, diabetesa baduzu, erorketak izandako aurrekariak badituzu edo dagoeneko dementziarekin bizi bazara.
 
-## Talk with a doctor
+## Hitz egin medikuarekin
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Zuengan edo beste norbaitengan kezka sortzen dizuten memoria- edo pentsamendu-aldaketak nabaritzen badituzu, hartu hitzordua. NIAk dio [memoria-arazoek beste kausa batzuk izan ditzaketela](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), hala nola sendagaien albo-ondorioak, tiroide-arazoak, depresioa edo B12 bitamina gutxi izatea, eta arazo horietako batzuk desagertu egiten direla kausa tratatzen denean. Gure [abisu-seinaleen gidak](/brain-health/warning-signs/) zer aztertu behar den azaltzen du.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Eskatu berehalako laguntza** bat-bateko aldaketak gertatzen badira: bat-bateko nahasmena, gorputzaren alde bateko ahultasuna edo sorgortasuna, hitz egiteko zailtasuna edo buruko min larria garuneko isuriaren edo beste larrialdi baten seinaleak izan daitezke. Deitu 112ra.
 
-## Where Golden Moments fits
+## Non sartzen da Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments aplikazioak elkarrekin egiteko jarduera errazak eskaintzen ditu, hala nola [elkarrizketa-txartelak](/games/conversation-cards/), [irudi-bingoa](/games/picture-bingo/) eta [arnasketa lasaiko une bat](/games/calm-breathing/). Gozatzeko eta elkarrekin denbora pasatzeko dira. Ez dira tratamendu bat, eta ez dute dementzia prebenitzen edo moteltzen.

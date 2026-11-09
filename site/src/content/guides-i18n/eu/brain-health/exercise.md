@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Ariketa fisikoa eta garuna: ikerketak eta segurtasuna"
+seoTitle: "Ariketa fisikoa eta dementzia: ikerketak dioena"
+description: "Ikerketek jarduera fisikoaren eta dementzia-arriskuaren artean zer lotura ikusten duten, eta adinekoentzat mugitzeko modu seguru eta atseginak."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Ikerketek lotura ikusten dute ohiko jarduera fisikoaren eta dementzia-arrisku txikiagoaren
+  artean, eta 2024ko Lancet Batzordeak jarduera fisikorik eza alda daitezkeen 14 arrisku-faktoreetako
+  bat dela dio. Saiakuntza klinikoek ez dute frogatu ariketak dementzia prebenitzen duenik.
+  Hala ere, mugimenduak indarra, oreka, aldartea eta loa hobetzen laguntzen du; beraz, merezi
+  du ibiltzea, aulkian ariketak egitea edo dantzatzea, berez onak direlako. Kontsultatu
+  medikuarekin zerbait berria hasi aurretik.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Fisiko aktibo diren pertsonek, batez beste, dementzia-arrisku txikiagoa dute, baina hori batez ere behaketa-ikerketetatik dator, ez saiakuntza klinikoetatik."
+  - "Adinekoekin egindako bost urteko ariketa-saiakuntza batean ez zen aurkitu talde bakoitzeko pentsamendu-trebetasunetan alde argirik."
+  - "65 urte edo gehiagoko helduentzako CDCren jarraibideek ariketa aerobikoak, muskuluak indartzekoak eta orekakoak hartzen dituzte barne, eta diote zerbait egitea ezer ez egitea baino hobea dela."
+  - "Dementziarekin bizi den pertsona batentzat, mugimendu laburra, ezaguna eta partekatua —adibidez, eguneroko paseo bat edo eserita egindako jolasak— garrantzitsuagoa da edozein helburu baino."
+  - "Lau adinekotik batek baino gehiagok erorketa bat izaten du urtero; beraz, oreka lantzea eta leku segurua izatea dira lehen urratsak."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Ariketa fisikoak dementzia prebenitu dezake?"
+    a: "Inork ezin du hori ziurtatu. Ikerketa askok lotura ikusten dute aktibo egotearen eta dementzia-arrisku txikiagoaren artean, baina saiakuntza klinikoek ez dute erakutsi ariketak dementzia prebenitzen duenik. Ariketak beste onura frogatu asko ditu; beraz, merezi du egitea."
+  - q: "Segurua al da dementziarekin bizi den pertsona batek ariketa egitea?"
+    a: "Normalean bai, plan pixka batekin. Zahartzaroaren Institutu Nazionalak (NIA) gomendatzen du errutina berri bat hasi aurretik pertsonaren medikuarekin kontsultatzea, oinetako erosoak aukeratzea, ura eskaintzea eta saioak labur mantentzea. Gelditu pertsona nekatuta, orekarik gabe edo ezinegon ikusten baduzu."
+  - q: "Zer ariketa egin daitezke eserita?"
+    a: "Eserita egiteko aukeren artean daude aulkiko luzaketak edo aulkiko yoga, globo bat edo pilota bigun bat botatzea, babarrun-zakuen jokoa, zopa-latak altxatzea, banda elastikoekin luzaketak egitea eta pedalen ariketa-tresnak erabiltzea. Aukera onak dira ibiltzea zaila denean."
+  - q: "Zer egin pertsonak ez badu mugitu nahi?"
+    a: "Ez presionatu. Saiatu berriro geroago, egin ariketa harekin batera, jarri musika ezaguna, edo bihurtu mugimendua lan txiki batean, adibidez, erratza pasatzea edo landareak ureztatzea. Postontzirainoko paseo labur batek ere balio du, eta kanpoan elkarrekin eserita egoteak ere bai."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Aktibo egotea da garunaren osasunari buruz gehien ikertu den ohituretako bat. Ikerketek dementzia-arrisku txikiagoarekin lotzen dute, baina ez dute frogatu ariketak dementzia prebenitzen duenik. Argi dagoena da mugimenduak indarra, oreka, aldartea eta loa hobetzen laguntzen duela edozein adinetan. Orrialde honetan azaltzen dugu ikerketek zer dioten, adinekoek zenbat jarduera egitea gomendatzen den, eta dementziarekin bizi den pertsona batekin astiro mugitzeko modu samurrak.
 
-## Does exercise lower the risk of dementia?
+## Ariketak dementzia-arriskua murrizten al du?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Ikerketen arabera, fisiko aktibo diren pertsonek dementzia izateko aukera txikiagoa dute, baina frogak mugak ditu. [Dementziari buruzko 2024ko Lancet Batzordeak](https://doi.org/10.1016/S0140-6736(24)01296-0) jarduera fisikorik eza alda daitezkeen 14 arrisku-faktoreetako bat dela dio. Batzordearen ereduaren arabera, 14 faktore horiek mundu osoko dementziaren % 45 inguru azaltzen dute.
 
-Here is what the evidence looks like:
+Hona hemen frogek zer erakusten duten:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Behaketa-ikerketek norabide bera adierazten dute.** Batzordeak aztertutako 58 ikerketako berrikuspen batean ikusi zen fisiko aktibo ziren pertsonek % 20 inguruko dementzia-arrisku txikiagoa zutela. Alderik handiena ia erabat inaktibo ziren pertsonen eta gutxienez jarduera pixka bat egiten zutenen artean agertu zen.
+- **Loturak bi norabide izan ditzake.** Batzordeak dio inaktibo egoteak arriskua handitu dezakeela. Halaber, dio dementziaren hasierako garun-aldaketek —diagnostikoa baino urte batzuk lehenago hasten direnak— pertsonak ez hain aktibo bihur ditzaketela.
+- **Saiakuntza klinikoak ez dira hain argiak.** Saiakuntza batean, 945 adineko (batez beste 78 urtekoak) bi taldetan banatu zituzten: talde batek bost urtez astean bi aldiz gainbegiratutako ariketa egin zuen, eta beste taldeak ez. Azkenean, pentsamendu-trebetasunetan ez zen alde argirik ikusi. Konparazio-taldeko pertsona asko ere aktiboak ziren, eta horrek emaitza interpretatzea zailtzen du.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Zahartzaroaren Institutu Nazionalak (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) argi dio. Ez da frogatu jarduera fisikoaren eta Alzheimerra prebenitzearen arteko lotura argirik, eta ez dago nahikoa saiakuntza-frogarik esateko ariketak hura prebenitzen edo moteltzen duenik. Hala ere, ariketak erorketen, depresioaren, diabetesaren, hipertentsioaren eta iktusaren arriskua murrizten du. Baldintza horietako batzuk, era berean, narriadura kognitiboarekin lotuta daude.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Mezurik zintzoena hau da: mugitu zaitez gaur hobeto sentitzen eta hobeto ibiltzen laguntzen dizulako. Garunarentzako edozein onura litekeena da, ez promesa bat.
 
-## How much activity do older adults need?
+## Zenbat jarduera behar dute adinekoek?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[65 urte edo gehiagoko helduentzako CDCren jarraibideek](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) hiru jarduera mota gomendatzen dituzte astero:
 
-| Type | Weekly amount | Examples |
+| Mota | Asteko kopurua | Adibideak |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobikoa | Gutxienez 150 minutu jarduera moderatua, adibidez 5 egunetan 30 minutuz | Ibiltze bizia, dantzatzea, uretako aerobika |
+| Muskuluak indartzea | Gutxienez 2 egun, muskulu-talde nagusi guztiak landuz | Pisu arinak edo zopa-latak altxatzea, banda elastikoak erabiltzea |
+| Oreka | Maiz | Orpo-puntak jarraituz ibiltzea, aulki batetik altxatzea |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Helburuak dira, ez hasteko baldintzak. CDCk dio helburu horietara iristen ez bazara, egin ahal duzun neurrian eta zure osasunak uzten dizun neurrian jardun behar duzula aktibo. Zerbait egitea ezer ez egitea baino hobea da.
 
-## Gentle ways to move for older adults
+## Adinekoentzat mugitzeko modu samurrak
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Ibili lagunekin.** Lagun, auzokide edo ibiltzeko talde batekin egunero ibiltzeak elkarrizketa eta segurtasuna ematen ditu.
+- **Aulkian ariketak.** Besoak altxatzea eserita, orkatilen biraketak, lekuan martxatzea eta aulkiko yoga indarra lantzeko moduak dira, oreka arriskurik gabe.
+- **Dantzatu sukaldean.** Jarri zaintzen duzun pertsonaren nerabezaroan edo gaztaroan entzuten zuen musika, eta kulunkatu, erritmoa markatu edo pausoak eman. Gure [musika-jardueren gidan](/activities/music/) ideiak aurkituko dituzu.
+- **Etxeko gauzekin indarra landu.** Altzatu ur-botilak edo zopa-latak gogoko saio bat ikusten duzun bitartean.
+- **Lorategian aritu edo etxeko lanak egin.** Landareak ureztatzea, hostoak biltzea, erratza pasatzea eta arropa tolestea ere jarduera dira. Ikus [kanpoko jarduerak eta lorezaintza](/activities/outdoor-and-gardening/) eta [etxeko lanak](/activities/household-tasks/).
+- **Uretan ariketak.** NIAk uretako aerobika eskolak aipatzen ditu lurrean ariketak egitea artikulazioentzat gogorra den pertsonentzat.
 
-## How to exercise with someone living with dementia
+## Nola egin ariketa dementziarekin bizi den pertsona batekin
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Dementziarekin bizi den pertsona batentzat, helburua erosotasuna, gozamena eta eguneroko trebetasunak mantentzea da, ez zenbaki jakin bat lortzea. NIAk dio jarduera fisikoak Alzheimerra duen pertsonaren muskuluak, artikulazioak eta bihotza egoera onean mantentzen laguntzen duela, eta aldartea eta loa ere hobetu ditzakeela. Kontsultatu medikuarekin errutina berri bat hasi aurretik. [NIAren zaintza-gidako](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) aholku batzuk:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Ibili elkarrekin egunero.** Aukeratu oztoporik gabeko bide seguru eta ezagun bat. Pertsonak bakarrik ibiltzen badu, komeni da zure telefono-zenbakia duen identifikazio-eskumuturrekoa eramatea.
+2. **Probatu adinekoentzako ariketa-bideoak.** Jarraitu elkarrekin, eserita edo zutik.
+3. **Mantendu saioak labur.** «Mini-ariketa» labur batzuek saio luze batek baino hobeto funtziona dezakete.
+4. **Gehitu musika.** Abesti ezagunek mugimendua jarduera atsegin bihurtzen dute, ez lan bat. Dantzatu pertsonak gozatzen badu.
+5. **Eskaini ura eta oinetako erosoak.** Eskaini ura edo zukua ariketan zehar eta ondoren, eta aukeratu arropa erosoa eta ariketarako egindako oinetako egokiak.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ibiltzea zaila bada, [Alzheimerra duen pertsona bat zaintzeko NIAren gidak](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) eserita egiteko aukerak proposatzen ditu. Besteak beste, aulkian ariketak edo yoga, babarrun-zakuen jokoa, pilota bigun bat edo globo bat botatzea, banda elastikoekin luzaketak, etxeko gauza arinak altxatzea eta pedalen ariketa-tresnak. Lan sinpleak, hala nola erratza pasatzea edo hautsa kentzea, ere baliagarriak dira.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Izan errealista mugimenduak zer egin dezakeen jakiteko. Lancet Batzordeak ez zuen aurkitu frogarik ariketak jokabide-aldaketak, hala nola asaldura, murrizten dituenik. Mugitu zaitezte elkarrekin ondo senti daitekeelako, ez arratsalde zail bat konpontzeko modu gisa. Pertsonak ezetz esaten badu, ez dago arazorik. Gure [ezetz esaten duenean](/caregiving/when-they-say-no/) gidak modu samurrak eskaintzen ditu geroago berriro saiatzeko. Lehenago amaitzea, edo kanpoan elkarrekin eserita egotea, emaitza ona da.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Mugitu ondoren, geldialdi lasai batek, adibidez [Arnasketa lasaia](/games/calm-breathing/), biei lasaitzen lagun diezazueke. Mahaian eserita, besoak astiro mugitzeko jarduera baterako, [Elkarrekin sailkatu](/games/sort-together/) eta [Irudien bingoa](/games/picture-bingo/) aukera egokiak dira.
 
-## Balance and fall safety
+## Oreka eta erorketen aurkako segurtasuna
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Erorketak ohikoak dira eta larriak izan daitezke. [CDCk jakinarazten du](https://www.cdc.gov/falls/data-research/facts-stats/index.html) lau adinekotik batek baino gehiagok erorketa bat izaten duela urtero, baina erdiek baino gutxiagok esaten diote medikuari. Behin erortzeak berriro erortzeko aukera bikoizten du. CDCk aipatzen dituen arrisku-faktoreak hauek dira:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Hanketako eta aldaketako ahultasuna
+- Ibiltzeko eta orekari eusteko zailtasunak
+- Zenbait sendagai, hala nola lasaigarriak eta antidepresibo batzuk
+- Ikusmen-arazoak
+- Oinetako mina edo oinetako desegokiak
+- Etxeko arriskuak, hala nola gauzak sakabanatuta egotea, alfonbra solteak eta eskailera-maila hondatuak
 
-To move more safely:
+Seguruago mugitzeko:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Erabili aulki sendo bat**, gurpilik gabea, eta izan eskura sukalde-gainekoa edo baranda bat zutik egindako ariketetarako.
+- **Garbitu eremua** alfonbrak, kableak eta gauzak kenduz hasi aurretik.
+- **Altxatu astiro**, eta gelditu pertsona zorabiatuta edo orekarik gabe sentitzen bada.
+- **Erabili oinetako egokiak**, ez galtzerdiak edo txapin solteak.
+- **Landu oreka euskarriren batetik gertu.** Aulki batetik altxatzea eta orpo-puntak jarraituz ibiltzea CDCk emandako oreka-jardueren adibideak dira.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDCk gomendatzen du erori eta buruan kolpea hartzen duen adineko batek berehala medikuarengana joatea, batez ere odol-argaltzaileak hartzen baditu.
 
-## Talk with a doctor
+## Hitz egin medikuarekin
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Kontsultatu medikuarekin ariketa-errutina berri bat hasi aurretik, batez ere bihotzeko edo biriketako arazoak, artikulazioetako mina, oreka-arazoak edo dementzia dituen norbaitentzat. Mediku batek edo fisioterapeuta batek jarduera seguruak iradoki ditzake eta sendagaiek orekari eragiten dioten egiaztatu. Kontatu medikuari edozein erorketaren berri, lesiorik izan ez badu ere. Ariketa egitean zerbait mingarria edo arraroa bada, gelditu. Bat-bateko bularreko mina, arnasa hartzeko zailtasuna edo bat-bateko nahasmendua izanez gero, deitu 112ra.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Orrialde hau informazio orokorra da, ez aholku medikoa. Ikus gure [mediku-oharra](/medical-disclaimer/). Ikuspegi zabalagoa nahi baduzu, irakurri [ikerketek dementzia-arrisku-faktoreei buruz zer dioten](/brain-health/risk-factors/) eta [dementzia prebenitu daitekeen ala ez](/brain-health/can-dementia-be-prevented/).

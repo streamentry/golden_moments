@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Golle ngam worɓe wonduɓe e mboros majje"
+seoTitle: "Golle ngam worɓe wonduɓe e mboros majje"
+description: "Miijooji golle ngam worɓe wonduɓe e mboros majje, tuugniiɗi e gollal, fannuuji e caɗeele maɓɓe, e ballal ngam waylude ɗe e kisal."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Golle ɓurɗe moƴƴude ngam gorko wonduɗo e mboros majje ngoni e nguurndam
+  makko kanko: gollal ngal o gollunoo, fannuuji ɗi o yiɗunoo e caɗeele ɗe o
+  waɗunoo ñalnde kala. Gorko gollunooɗo biro ina waawi yiɗde leemtaade kaayitaaji,
+  mekanisee ina waawi yiɗde huutoraade kaɓirɗe laaɓtuɗe, yarlitiiɗo fijirde ina
+  waawi yiɗde fijirde ɓooynde. Fannuuji ina ceerti hakkunde yimɓe, ɗum noon
+  fuɗɗo e neɗɗo oo, wonaa e nde o gorko.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Fuɗɗo e daartol nguurndam gorko oo: gollal makko, fannuuji makko, caɗeele makko e ko o waɗtunoo."
+  - "Golle jogiiɗe faandaare goonga, ko wayi no leemtaade kaɓirɗe, lootude oto walla njirlaade lekki, ina keewi weldeede ɓuri golle nannduɗe e ekkitaari."
+  - "Wonaa kala gorko yiɗi kaɓirɗe walla fijirde. Woɗɓe ina njiɗi defirde, jimɗi, remirde, ñeeñal walla toppitaade woɗɓe. Naamno, ƴeew, tee jokku e ko o yiɗi."
+  - "Waɗ golle nannduɗe e gollal kisɗe so ittude kaɓirɗe muusɗe e so ndeenkaade, tee newnanaa ɗe so mbaawka makko ina wayla."
+  - "Jaabaade « alaa » ina yamiraa. Hokkir mo fannu, wonaa yamiroore, tee eto kadi ñalnde woɗnde."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Hol golle worɓe wonduɓe e mboros majje njiɗata?"
+    a: "Alaa doggol gootol, sabi fannuuji worɓe ina ceerti hono mo woni kala. Nokkuuji moƴƴi ngam fuɗɗaade ko golle jokkondirɗe e gollal makko ɓooyngal, ko wayi no leemtaade kaayitaaji walla leemtaade boltuuji e ekruuji, wondude e fannuuji ɗi o yiɗunoo, ko wayi no liƴƴugol, otooji, jimɗi, defirde walla fijirde. Ƴeew ko o fuɗɗoto kanko, tee jokku e mum."
+  - q: "Baaba am ina saloo golle dental. Ko honɗum mbaaw-mi waɗde?"
+    a: "Yimɓe heewɓe, worɓe e rewɓe fof, ina caloo golle nannduɗe e ekkitaari walla nannduɗe e golle sukaaɓe. Eto rokkude mo golle: « Aɗa waawi wallude mi leemtaade ɗeɗoo? » Fedde tokkoose walla waktu gooto e gooto ina waawi weldeede ɓuri suudu heewngo yimɓe."
+  - q: "Hara ina hisi accu mi jaɓa mo huutoraade kaɓirɗe?"
+    a: "E ndeenka tan e kaɓirɗe kisɗe. Ittu kaɓirɗe kuurɗe, laɓɓe e kala ko muusi, tee hokku mo golle ko wayi no njirlaade alluwal lekki, leemtaade kaɓirɗe laaɓtuɗe, walla ƴetteede boltuuji mawɗi e juuɗe. Alzheimer’s Association ina wasiyaa ittude geɗe bonɗe e nokku gollirdu ngam golle ko wayi no njirlaade ina waawi jokkude weldeede e kisal."
+  - q: "O gollunoo ko gollal mawngal. Hara golle newɗe ina waawi memminɗe mo?"
+    a: "Ina waawi so ɗe kolliraa ko golle meere. Hollu golle ɗen ko ballal goongawal, huutoro geɗe mawɓe, tee suɓo ko nanndi e gollal makko ɓooyngal, ko wayi no ƴeewtaade doggol, leemtaade fiilde walla wallude teeltaade neldu. So tawii o waɗunoo ko o heewi faamude, golle jokkondirɗe kono ceertuɗe ina waawi ɓurde weldeede e yerondirgol."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Yimɓe ina keewi yiylaade « golle ngam worɓe wonduɓe e mboros majje » sabi wasiyaaji keewɗi ndokkaaki ko yahdi e gorko mo ngon-ɗaa e toppitaade. Miijo ngoo ina moƴƴi. Kono jaabawol ngol wonaa doggol golle « worɓe tan ». Ko fuɗɗaade e gorko oo gooto: ko o gollunoo, ko o waɗunoo e weekenduuji makko, e ko waɗunoo mo yiyde hoore makko ina nafa. Fannuuji ina ceerti e yimɓe fof. Worɓe heewɓe ina njiɗi defirde, remirde, natde walla yimde, rewɓe heewɓe ina njiɗi otooji e baseball.
 
-## How do I find activities he will actually enjoy?
+## Hol no tawir-mi golle ɗe o yiɗat tigi?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Fuɗɗo e daartol nguurndam makko. Alzheimer’s Association ina wasiyaa mahde [teelte ñalngu](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) tuugniiɗe e ko neɗɗo oo yiɗi, ko o yiɗaa, ko o waawi e fannuuji makko, e no o yuɓɓinnoo ñalawma makko ɓooyɗo. Naamno hoore maa:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Ko honɗum wonnoo gollal makko?** Biro, ndemri, fannu gollirdu, gollal juuɗe, konu, yeeyde, jannginde, dogginde laana, walla gollal suudu?
+- **Ko honɗum o waɗunoo e waktu weltaare makko?** Liƴƴugol, kaarteeji, gollal lekki, fijirde, juulirde, jimɗi, defirde, walla oto e garaas?
+- **Hol caɗeele makko?** Kaafe e jaaynde kala subaka? Ƴeewtaade asamaan? Lootude oto kala asaweere?
+- **Ko honɗum o fuɗɗoto haa jooni kanko?** Fedde ndee ina hollude so neɗɗo ina fuɗɗoo golle tawa naamnaaka, ko wayi no fiiɓude leydi, golle ɗen ina mbaawi wontude huunde e caɗeele ñalnde kala.
+- **Ko honɗum o dogata?** Woɓɓe ina njiɗi ƴeewde fijirde; woɗɓe ina njogii satteende sabu yaawre e hito. Ƴeew so tawii o ina weltii, o ina anndude walla o ina seytude.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Haal kadi e ɓesngu e yiɓɓe ɓooyɓe. Ɓe ina mbaawi siftorde fannuuji ɓennuɗi e nguurndam ñalnde kala.
 
-## Activity ideas based on past work
+## Miijooji golle tuugniiɗe e gollal ɓooyngal
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association ina hokku yeru laaɓtundu: gorko gollunooɗo biro ina waawi yiɗde golle leemtagol, ko wayi no waɗde mbuuɗu e mooftirde, wallude teeltaade neldu walla waɗde doggol golle, tawa gorko gollunooɗo ndemri walla remirde ina waawi yiɗde gollaade e nder koɗal. Miijo ngoo ina yahdi e golle keewɗe.
 
-| Past work | Activity ideas | Simpler version |
+| Gollal ɓooyngal | Miijooji golle | Yamre newnde |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Biro walla njulaagu | Leemtaade kaayitaaji e dosiyeeji, maande dewaluuji, ƴeewtaade doggol, leemtaade tiiroowal biro | Joɗɗinde dewaluuji; waɗde pinse kaayitaaji e boyet |
+| Gollal juuɗe walla mekanik | Leemtaade boltuuji, ekruuji e rondelle laaɓtuɗe; ƴetteede boltuuji mawɗi e juuɗe; ƴeewde kataloogu kaɓirɗe | Leemtaade e njuuteendi e koppuuji ɗiɗi |
+| Ndemri walla toppitaade leydi | Ndiyugol, waɗde puɗi e korɗe, fittude ɗuhɗi, ƴeewtaade koɗal | Jooɗaade yaasin tawa on ngon-ɗon e gollaade; jogitaade paakeeji abbere |
+| Konu | Laɓɓinde pade, leemtaade tiiroowal, ƴeewde nate gollal konu so o yiɗi ɗum | Heɗaade jimɗi jamaanu nguu |
+| Yeeyde walla jaɓɓorgal kiliyaneeji | Jaɓɓaade gasteeji, senndude neemaaji, leemtaade kupoŋaaji | Jooɗaade sara baafal ngam salminaade |
+| Jannginde | Janngude e sawto, leemtaade defte, leemtaade nate e fannuuji | Ƴeewde deftere nate e mon |
+| Dogginde laana walla yahrude e laawol | Ƴeewde kartuuji walla jurnaaluuji otooji ɓooyɗi, lootude oto | Ƴeewde otooji ina ndoga e yeeyirde |
+| Suudu e ɓesngu | Taggude dolokkaaji, teeltaade taabal, wallude defirde | Follitaade sarwetteeji; jillude |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Won e ciftorɗe, ko wayi no gollal konu, ina mbaawi addude miijooji tiiɗɗi. Jokku e ko o yiɗi, waɗ haalaaji baɗte ɓooyɗo ko welɗi, tee waylu haala ngal e newaare so tawii o ina anndude.
 
-## Activity ideas based on hobbies
+## Miijooji golle tuugniiɗe e fannuuji
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Gollal lekki.** Njirlaade alluwal lekki laaɓngal walla natde suudu colli kit. Alzheimer’s Association ina wasiyaa ittude kaɓirɗe e geɗe bonɗe e nokku gollirdu lekki ngam golle ko wayi no njirlaade ina waawi jokkude weldeede e kisal.
+2. **Liƴƴugol.** Leemtaade boyet kaɓirɗe liƴƴugol caggal ittude kuufe, ƴeewde jurnaaluuji liƴƴugol, walla jooɗaade sara weendu e mon.
+3. **Otooji.** Lootude oto, laɓɓinde krom, ƴeewde nate otooji ɓooyɗi, walla yahde e laawol ko waaɗo.
+4. **Fijirde.** Ƴeewde fijirde ɓooynde walla tummbitte, weddaade balon lewruɗo, waɗde baluuji golf e leydi, walla leemtaade kaarteeji baseball.
+5. **Kaarteeji e fijaaji.** Juɓɓingol newngol kaarteeji ɗi o anndi, dominooji, walla huppitaade kaarteeji ngam yiytude nannduɗi. Waɗ ɗum e newaare tee accu limtugol toɓɓe.
+6. **Jimɗi.** Jimɗi jamaanu sukaaɓe makko e duuɓi makko 20, fedde jimɗi nde o yiɗi, walla jimol diine. Ƴeew [dewtere amen golle jimɗi](/activities/music/).
+7. **Defirde e grolle.** Lootude leggal, jillude nekke, feewnude bergereeji, walla sifaade no o defiratnoo suli makko lolluɗo tawa on ngon-ɗon e defirde ndee.
+8. **Jaaynde.** Alzheimer’s Association ina hollude neɗɗo janngunooɗo jaaynde sahaa kala ina waawi jokkude yiɗde ɗum, hay so o waawataa faamde fof. Kaafe e jaaynde ina mbaawi heddude e subaka.
+9. **Mahde.** Kit moɗel e geɗe mawɗe walla geɗe mahugol newɗe ngam mawɓe. Suɓo geɗe newɗe jogitaade.
+10. **Toppaade huunde.** Ñamminnude puccu, hebbinde colli ñaamdu, walla ndiyde puɗi. NIA ina jeytinde [ñamminnude, toppitaade walla yaadu e puccu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e golle yimɓe ina mbaawi yiɗde.
 
-## How do I offer an activity without it feeling like busywork?
+## Hol no rokkir-mi golle tawa ɗe nanndataa e golle meere?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Hollu ɗum ko ballal goongawal. Alzheimer’s Association ina wasiyaa naamnaade « Aɗa waawi wallude mi? » tee jokkondirde golle ɗen e faandaare. Yerondir:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- « Aɗa yiɗi leemtaade boltuuji ɗii? » (ina nanndi e ƴeewndol)
+- « Mi soodii paake kaɓirɗe jillondirɗe tee miɗo sokli leemtaade ɗe hade mi feewnaade etajeere ndee. Aɗa waawi wallude mi? » (ina nanndi e golle)
 
-Other tips:
+Wasiyaaji goɗɗi:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Huutoro geɗe mawɓe.** Kaɓirɗe goonga caggal ittude ceŋe muusɗe, kataloogu goonga, dewaluuji goonga.
+- **Golloɗee sara-sara.** Yimɓe ɗiɗo ina ngolla golle goote ko wondoore. Gooto ina ƴeewa goɗɗo ko ndeenka tan.
+- **Hoto feewnitaa.** So boltuuji ndoni e koppu moƴƴaani, accu ɗum non. Ko ɓuri himmude ko waktu mo ngon-ɗon e mon e miijo wonde ina nafa.
+- **Wallu mo fuɗɗaade.** Alzheimer’s Association ina hollude yimɓe heewɓe ina njogii faale waɗde geɗe kono ina caɗee e maɓɓe yuɓɓinde e fuɗɗaade. Waɗee goɗngol aranol ngol e mon.
 
-## How do I adapt as things change?
+## Hol no waylir-mi tawa geɗe ina mbayla?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+So mboros majje ina yeeso, Alzheimer’s Association ina wasiyaa naatnude golle ɓurɗe newde e ɓurɗe hucciteede, tee heblaade wonde neɗɗo oo ina waawi waɗde fannu ɓurɗo famɗude. Gorko mahunooɗo moteeruuji ɓooyɗo ina waawi yiɗde jooni jogitaade kilaa laaɓɗo e haalude baɗte otooji, walla ƴeewde ma tawa aɗa golla. Ƴeewde ko tawtugol kadi.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+So tawii o waɗunoo ko o heewi faamude, golle jokkondirɗe ina mbaawi ɓurde weldeede e gollal makko ɓooyngal. Fedde ndee ina hollude neɗɗo natnoowo nate ina waawi seytude sabu bayle e golle makko, tawa neɗɗo natnoowo ngam weltaare ina waawi yiɗde feere hesere. Goonga ngoo ina yahdi kadi e mahnoowo lekki mawɗo.
 
-## Safety with work-style tasks
+## Kisal e golle nannduɗe e gollal
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Ittu kaɓirɗe kuurɗe, laɓɓe, pointeeji e wisuuji jogiiɗe ceŋe muusɗe.
+- Sokaa jolooje pentir, petorol e kemikaaji.
+- Suuɗ coktirɗe oto so tawii o dogataa oto hande kadi.
+- Ndeen kala golle nokku gollirdu lekki e koɗal.
+- Suɓo geɗe mawɗe ɗe neɗɗo waawataa moɗde.
 
-## What if he says no?
+## Hol ko waɗeten so o jaabii alaa?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Hollu teddungal. Jaabawol « alaa » ina waawi firtude wonde golle ɗen ina tiiɗi, ina nanndi e golle sukaaɓe, walla ɗe moƴƴaani hannde. Alzheimer’s Association ina reentina haɗde forsude mo. Eto golle goɗɗe, waktu goɗɗo, walla jooɗee tan e mon. Ƴeew [ko waɗeten so o jaabii alaa](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Fijaaji e yeewtere ɗe yahdi
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) ina huutoro konguɗi Amerik anndaaɗi tee ina uddita yeewtere. [Conversation Cards](/games/conversation-cards/) ina jogii naamne udditiiɗe, tawa alaa ƴeewndol, leemtaaɗe e fannuuji, ɗe ina mbaawi udditde daartol baɗte gollal e fannuuji. [Picture Puzzle](/games/picture-puzzle/) ina waɗa natal fof ina yiya tawa on ngon-ɗon e waylude geɗe, tee [Word Search](/games/word-search/) e binndi mawndi ina waawi winnditeede tee waɗeede e biro e taabal defirde. Ngam laawol haalude baɗte ɓooyɗo makko tawa ƴeewndaaka mo, ƴeew [dewtere amen ciftorgol](/activities/reminiscence/).

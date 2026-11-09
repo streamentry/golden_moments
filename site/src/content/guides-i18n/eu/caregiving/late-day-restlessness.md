@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Ilunabarreko ezinegona: arratsalde lasaiak dementzia dutenentzat"
+seoTitle: "Ilunabarreko ezinegona: arratsalde lasaiak"
+description: "Errutina leunak, gelako aldaketak eta jarduera lasaiak, dementzian arratsalde amaierako ezinegona arintzen lagun dezaketenak, eta noiz deitu medikuari."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Ilunabarreko ezinegona arratsalde amaieran edo gauean hasi edo okertu ohi den
+  ezinegona, nahasmendua edo suminkortasuna da. Lagun dezaketen pauso praktikoak
+  hauek dira: eguneroko errutina egonkorra, egunean lehenago argia eta jarduera,
+  beranduagoko loaldi gutxiago, kafeina gutxiago, barruko argi biziak ilundu
+  aurretik, etxe lasaiagoa, eta jarduera lasaiak, hala nola musika, argazkiak edo
+  arropa tolestea. Sintoma berriek edo okerragoek medikuaren azterketa behar dute.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Ilunabarreko ezinegonak argia gutxitzen denean hasi edo okertu ohi den ezinegona edo nahasmendua esan nahi du."
+  - "Jarri ahalegin handiagoa eskatzen duten lanak, irteerak eta bainua goizean edo arratsalde hasieran."
+  - "Argi naturalak, eguneroko ibilaldi batek, beranduagoko loaldi gutxiagok eta egun amaierako kafeina gutxiagok arratsaldeak lasaiagoak izaten lagun dezakete."
+  - "Piztu argiak ilundu aurretik, jaitsi zarata, eta pasatu jarduera lasai eta ezagunetara."
+  - "Eraman erregistro labur bat eragileak antzemateko, eta mantendu lasai eta lasaigarri ezinegona hasten denean."
+  - "Joan medikuarengana sintoma berriak edo okerragoak badaude: minak, infekzioak edo sendagaiek eragina izan dezakete."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Zein ordutan gertatu ohi da ilunabarreko ezinegona?"
+    a: "Normalean arratsalde amaieran edo iluntze hasieran hasi edo okertu ohi da, argia gutxitzen denean. Ordu zehatza pertsona bakoitzaren arabera aldatzen da; horregatik, aste batean edo bitan erregistro labur bat eramatea lagungarria izan daiteke."
+  - q: "Zein jarduerak lagun dezakete ilunabarreko ezinegonarekin?"
+    a: "Arratsalde amaieran, jarduera lasai, ezagun eta ahalegin gutxikoak izaten dira egokienak: musika lasaia, argazkiak begiratzea, telebistako saio edo film gogoko bat, arropa tolestea, ibilaldi labur bat edo elkarrekin zerbait jatea. Utzi jarduera berriak edo zailagoak egunerako lehenagoko orduetarako."
+  - q: "Ilunabarreko ezinegona arazoren medikoren baten seinale izan daiteke?"
+    a: "Osasun-arazo batzuek okertu dezakete, hala nola minak, gernu-infekzioak bezalako infekzioak, lo-arazoak edo sendagaien albo-ondorioak. Ezinegona berria, bat-batekoa edo gero eta handiagoa bada, jarri harremanetan pertsonaren medikuarekin."
+  - q: "Medikuari galdetu behar diot ilunabarreko ezinegonarako sendagairen bati buruz?"
+    a: "Hori medikuarekin hitz egiteko gaia da. Alzheimer's Association erakundeak dio, oro har, sendagairik gabeko ikuspegiak lehenesten direla, eta arratsaldeko asaldurarako edozein sendagai arriskuak eta onurak kontuan hartu ondoren soilik aztertu behar dela. Orrialde honek ez du sendagaiei buruzko aholkua ematen."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Familia askok patroi bera antzematen dute: goizak nahiko lasaiak izaten dira, baina arratsaldea aurrera joan ahala, dementzia duen pertsona ezinegon, urduri, nahasita edo suminduta jartzen da. Baliteke alde batetik bestera ibiltzea, «etxera joan» nahi izatea etxean dagoenean ere, edo erraz haserretzea. Horri ilunabarreko ezinegona esaten zaio askotan.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Ez dago konponbide bakarra, baina egunaren erritmoan, gelan eta eskaintzen dituzun jarduera motetan egindako aldaketek arratsalde amaierak lasaiagoak izaten lagun dezakete. Orrialde honek National Institute on Aging eta Alzheimer's Association erakundeen aholku praktikoak eta sendagairik gabekoak biltzen ditu. Ez da aholku medikoa. Sintomak berriak, bat-batekoak edo gero eta okerragoak badira, hitz egin pertsonaren medikuarekin.
 
-## What is sundowning?
+## Zer da ilunabarreko ezinegona?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Ilunabarreko ezinegona argia gutxitzen hasten denean, arratsalde amaieran edo iluntze hasieran, hasi edo okertu ohi den ezinegona, asaldura, suminkortasuna edo nahasmendua da. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) erakundeak dio gehiegi nekatuta egoteak egun amaierako ezinegona handitu dezakeela.
 
-## What can make late-day restlessness worse?
+## Zerk okertu dezake egun amaierako ezinegona?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Hainbat faktoreren eragina egon daiteke, askotan batera. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) erakundeak honako faktore hauek aipatzen ditu:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- egun oso baten ondoren nekatuta egotea;
+- ingurune berriak edo nahasgarriak;
+- «barneko gorputz-erlojua» desorekaturik egotea, eta horren ondorioz egunez logura eta gauez esna egotea;
+- argi gutxi eta itzalak, nahasgarriak izan daitezkeenak;
+- inguruko pertsonen estresa edo frustrazioa nabaritzea;
+- lo gutxiago behar izatea, heldu helduagoetan ohikoa dena.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIAk asalduraren kausa orokorragoak ere aipatzen ditu, besteak beste mina, depresioa edo estresa, atseden gutxiegi, idorreria, zarata gehiegi edo jende gehiegi, eta zenbait sendagai edo sendagaien arteko elkarrekintzak.
 
-## How can I plan the day to make evenings calmer?
+## Nola antola dezaket eguna arratsaldeak lasaiagoak izan daitezen?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Eraman ahalegin handiagoa eskatzen duten gauzak lehenago, eta mantendu arratsalde amaiera leun eta aurreikusgarri. Bai NIAk bai Alzheimer's Association erakundeak errutina erregularra gomendatzen dute. Hona hemen adibide bat, zure egoerara egokitzeko:
 
-| Time | What may help |
+| Ordua | Zer lagun dezakeen |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Goiza | Hitzorduak, bainua, irteerak eta ahalegina eskatzen duen edozein zeregin, jende asko erneago egoten denean |
+| Goiz amaiera | Kanpoan edo leiho eguzkitsu baten ondoan denbora pasatzea; ibilaldi bat edo beste jarduera bat |
+| Eguerdia | Bazkari handiagoa (Alzheimer's Association erakundeak bazkari handiagoa eta arratsaldeko otordu arinagoa iradokitzen ditu) |
+| Arratsalde hasiera | Beharrezkoa bada atseden hartzea, baina saihestu egun amaierako loaldi luzeak |
+| Arratsalde erdialdea eta amaiera | Jarduera lasai eta ezagunak; askaria eta edaria; kafeinik ez |
+| Ilundu aurretik | Piztu barruko argiak eta itxi gortinak ilundu aurretik |
+| Arratsaldea-gauea | Otordu arinagoa, musika lasaia, estimulu gutxi, lo egiteko orduko errutina egonkorra |
 
-A few specific points from the sources:
+Iturriek aipatzen dituzten puntu zehatz batzuk:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Argi naturala.** NIAk iradokitzen du egunero kanpoan edo leiho baten ondoan denbora antolatzea eguzki-argia jasotzeko.
+- **Eguneroko mugimendua, baina gehiegi ez.** Saiatu egunero fisikoki aktibo egoten jarduera gehiegi planifikatu gabe, dio NIAk.
+- **Egun amaierako edariak.** Saihestu alkohola eta kafeina duten edariak, hala nola kafea edo kola, egun amaieran (NIA). Alzheimer's Association erakundeak nikotina ere aipatzen du.
+- **Loaldiak.** Saihestu egun amaieran loaldi luzeak egitea edo lokartuta geratzea (NIA). Alzheimer's Association erakundeak iradokitzen du egunez lo egitea mugatzea, gaueko loak arazoak ematen baditu.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Egun egonkor bat antolatzeko ideia gehiago jasotzeko, ikusi [eguneroko errutinako jarduerak](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Nola egin dezaket etxea lasaiago arratsalde amaieran?
 
-Reduce noise, add light and keep familiar things close.
+Murriztu zarata, gehitu argia eta mantendu gauza ezagunak eskura.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Argiztapen bizia eta orekatua.** Alzheimer's Association erakundeak gomendatzen du etxea ondo argiztatuta mantentzea arratsaldean. Piztu argiak itzalak agertu aurretik.
+- **Zarata gutxiago.** Itzali edo jaitsi telebista eta irratia, eta mugatu bisitak edo etxeko lan zaratatsuak ordu horietan. Alzheimer's Association erakundeak iradokitzen du arratsaldeko estimuluak murriztea, hala nola telebista, etxeko lanak eta musika ozena.
+- **Erosotasun ezagunak.** NIAk musika lasaia eta etxean inguruan gauza eta argazki maiteak izatea iradokitzen du.
+- **Erosotasun-egiaztapenak.** Alzheimer's Association erakundeak gomendatzen du mina, gosea, egarria, idorreria, maskuria beteta egotea, nekea, infekzioak eta azaleko narritadura egiaztatzea, eta gela tenperatura erosoan mantentzea.
+- **Zure egoera.** Pertsonak ingurukoen estresa nabaritzen dute. NIAk iradokitzen du erritmoa moteltzea eta lasaitzen saiatzea, zure kezkak tentsioa handitzen ari badira.
 
-## What calm activities can we do in the late afternoon?
+## Zer jarduera lasai egin ditzakegu arratsalde amaieran?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Aukeratu ezagunak, presarik gabekoak eta erraz uzteko moduko jarduerak. Alzheimer's Association erakundeak jarduera lasaigarriak iradokitzen ditu, hala nola musika lasaia, argazkiak edo film gogoko bat, eta elkarrekin ibilaldi bat ezinegona arintzeko. NIAk iradokitzen ditu askaria edo edaria, telebistako saio gogoko bat, musika, ibilaldi bat, irakurtzea edo etxeko lan erraz bat, adibidez arropa tolestea.
 
-Ideas to try:
+Probatzeko ideiak:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Tolestu arropa elkarrekin.** NIAk horrelako etxeko lan errazak iradokitzen ditu. Eskuoihalak erraz erabiltzekoak dira, eta lanak amaiera argia du.
+2. **Jarri musika gogokoa.** Gaztaroan ezagututako abesti ezagunak, bolumen baxuan. Abestiarekin tartekatzea ere baliagarria da. Ideia gehiago: [musika-jarduerak](/activities/music/).
+3. **Begiratu argazkiak.** Argazki-album bat edo familiako argazki batzuk [Photo Pairs](/games/photo-pairs/) jokoan, irudiak ikusgai utzita, elkarrizketa lasai baterako aukera izan daitezke.
+4. **Egin ibilaldi labur bat.** Lorategian, auzoan edo pasilloan zehar, ilundu aurretik.
+5. **Partekatu askari bat eta edari bat.** Zerbait erraza, epela eta kafeinik gabea, elkarrekin mahaian.
+6. **Parekatze leuna.** [Picture Pairs](/games/picture-pairs/) lau laukirekin eta irudiak ikusgai erraz hasteko eta erraz uzteko modukoa da.
+7. **Margotzea.** [Coloring](/games/coloring/) pantailan edo orrialde inprimatu batean, amaitzeko helbururik gabe.
+8. **Begiratu eta hitz egin.** [Conversation Cards](/games/conversation-cards/) jokoak irudi bat eta galdera ireki bat eskaintzen ditu. Begiratzea besterik ez da behar.
+9. **Arnasketa-etenaldi bat.** [Calm Breathing](/games/calm-breathing/) zuk zeuk hasi eta amaitzen duzun etenaldi motel eta lasaia da.
+10. **Eskuko lanak.** Botoiak edo galtzerdiak sailkatzea, manta leun bat lausotzea edo objektu ezagun bat eskuetan hartzea. Ikusi [zentzumenezko jarduerak](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Saihestu joko berriak, irteera lanpetuak eta memoria edo arreta handia eskatzen duen edozer egun amaieran. Utzi horiek goizerako.
 
-## What should I do when restlessness starts?
+## Zer egin behar dut ezinegona hasten denean?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Mantendu lasai, lasaitu pertsona, eta bideratu arretaz beste zerbaitetara. NIAk iradokiten du lasai hitz egitea, pertsonaren kezkak entzutea, eztabaidak saihestea, seguru dagoela adieraztea, eta ukitu leun bat erabiltzea lagungarria bada. Ondoren, saiatu arreta beste zerbaitetara eramaten: askari bat, edari bat, musika edo ibilaldi bat.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association erakundeak honelako esaldiak iradokitzen ditu: «Hemen seguru zaude» eta «Sentitzen dut horrela sentitzea», eta argia gehitzea, erritmoa moteltzea eta estimuluak mugatzea gomendatzen du. Ez arrapalatu, ez inguratu, ez eutsi pertsonari, eta ez eztabaidatu harekin.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Pertsona oldarkor jartzen bada, NIAk gomendatzen du distantzia seguruan egotea jokabidea amaitu arte. Larrialdiren bat badago, deitu 112ra eta azaldu pertsonak dementzia duela.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+[Komunikazioa](/caregiving/communication-tips/) eta [«ez» esaten duenean zer egin](/caregiving/when-they-say-no/) gure gidetan hitz lasaigarriei buruzko informazio gehiago aurkituko duzu.
 
-## How do I find the triggers?
+## Nola aurki ditzaket eragileak?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Eraman erregistro labur bat aste batean edo bitan. Alzheimer's Association erakundeak gomendatzen du ilunabarreko ezinegonaren atariko uneetan zer gertatzen den idaztea eragileak identifikatzeko. Idatzi ezinegona hasi den ordua, aurreko ordubetean zer gertatu den, loaldiak, otorduak eta edariak, bisitak, zarata eta argia. Eraman erregistroa medikuarengana. NIAk dio jokabide-aldaketen jarraipena egiteak lagun diezaiekeela zaintzaileei eta osasun-profesionalei patroi bat antzematen.
 
-## When should I call a doctor about sundowning?
+## Noiz deitu behar diot medikuari ilunabarreko ezinegonagatik?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Jarri harremanetan pertsonaren medikuarekin ezinegona berria bada, bat-batean okertu bada edo beste aldaketa batzuekin batera agertzen bada. NIAk dio jokabide-aldaketa bat-batekoak edo azkar aldatzen direnak, batez ere infekzio baten ondoren edo sendagaietan aldaketa berriak egin ondoren, berehala jakinarazi behar zaizkiola medikuari.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Eskatu medikuari arratsaldeak zailagoak egin ditzaketen arrazoiak aztertzeko. Alzheimer's Association erakundeak arazo fisikoak aipatzen ditu, hala nola gernu-infekzioak, inkontinentzia, hanka ezinegonaren sindromea eta loaren apneak, eta iradokitzen du galdetzea zein ordutan den egokiena sendagai bakoitza hartzeko. NIAk mina, idorreria eta sendagaien albo-ondorioak edo elkarrekintzak aipatzen ditu asalduraren kausa posibleen artean.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association erakundeak dio, oro har, Alzheimerrarekin lotutako lo-arazoetarako sendagairik gabeko ikuspegiak lehenesten direla, eta egun amaierako asaldurarako sendagaiak huts egiten badute soilik aztertu behar direla, arriskuak eta onurak kontuan hartu ondoren. Erabaki hori medikuarena da. Ez hasi, ez utzi eta ez aldatu inolako sendagairik, lorik edo osagarririk medikuaren aholkua izan gabe.
 
-## How do I get through the evenings myself?
+## Nola atera aurrera nik arratsaldeetan?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Arratsalde amaierak zaintzaile baten eguneko unerik zailenetakoak izan daitezke. Ahal baduzu, eskatu senide, lagun edo ordainpeko laguntzaile bati asteko egun batzuetan arratsalde amaiera hartzeko, ordu batez bada ere. [Zaintzaileen autozaintzari](/caregiving/caregiver-self-care/) buruzko gure gidak atseden-aukerak eta Alzheimer's Association erakundearen doako 24/7 laguntza-telefonoa jasotzen ditu.

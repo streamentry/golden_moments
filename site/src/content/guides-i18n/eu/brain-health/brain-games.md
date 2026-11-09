@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Burmuineko jokoek dementzia prebenitzen al dute?"
+seoTitle: "Burmuineko jokoak eta dementzia: ebidentzia"
+description: "Ikerketek burmuineko jokoei eta dementziari buruz diotena: estimulazio kognitiboa, ordenagailuko entrenamendua, ACTIVE saiakuntza eta FTCren Lumosity kasua."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ez da frogatu burmuineko jokoren batek dementzia prebenitzen duenik.
+  Ordenagailuko garun-entrenamenduak, batez ere, praktikatu egiten diren
+  zereginetan hobetzen laguntzen du. ACTIVE saiakuntzako azterketa batek
+  abiadura-entrenamendu jakin bat eta indartze-saioak egitea 20 urteren
+  buruan dementzia diagnostiko gutxiagorekin lotu zuen, aurkikuntza mugatua.
+  Dementziarekin bizi diren pertsonentzat, taldeko estimulazio kognitiboak
+  onura txikiak eta epe laburrekoak erakusten ditu. Jokoak onena da
+  dibertitzeko eta elkarrekin egoteko gozatzea.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Garun-entrenamenduari buruzko ikerketek erakusten dute jendea praktikatu egiten dituen zereginetan hobetzen dela, baina askoz ebidentzia gutxiago dago hori eguneroko bizitzara eramaten denik."
+  - "ACTIVE saiakuntzan, abiadura-entrenamendu jakin bat eta indartze-saioak egin zituzten pertsonek bakarrik izan zituzten dementzia diagnostiko gutxiago 20 urteren buruan. Indartze-saiorik gabeko abiadura-entrenamenduak, memoria-entrenamenduak eta arrazoiketa-entrenamenduak ez zuten hori erakutsi."
+  - "2016an, Lumosityren enpresak 2 milioi dolar ordaindu zituen FTCren salaketak konpontzeko, dementzia atzeratzeari buruzko baieztapenak egiteko behar adina oinarri zientifiko ez zuela argudiatuta."
+  - "Dementzia arina edo ertaina duten pertsonentzat, estimulazio kognitiboko taldeek onura txikiak eta epe laburrekoak erakusten dituzte pentsamenduan, eta onura argiagoak komunikazioan eta harreman sozialetan."
+  - "Golden Moments jokoak gozatzeko eta elkarrekin denbora pasatzeko dira. Ez dira tratamendu bat, eta ez dute dementzia prebenitzen edo moteltzen."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Burmuineko jokoek Alzheimerra prebenitzen al dute?"
+    a: "Ez da frogatu burmuineko jokoren batek Alzheimerra edo beste dementzia mota bat prebenitzen duenik. National Institute on Aging erakundeak dio ez dagoela nahikoa ebidentzia garun-entrenamendurako aplikazio komertzialek ikerketa saiakuntzetan ikusi diren ondorio berak dituztenik. Hala ere, jokoak denbora atsegina pasatzeko modu bat izan daitezke."
+  - q: "Zer aurkitu zuen ACTIVE saiakuntzak abiadura-entrenamenduari eta dementziari buruz?"
+    a: "2026ko azterketa batek ACTIVE saiakuntzako parte-hartzaileak 20 urtez Medicare erregistroekin lotu zituen. Abiadura-entrenamendua eta gutxienez indartze-saio bat egin zuten pertsonek dementzia diagnostikatuaren tasa txikiagoa izan zuten entrenamendurik jaso ez zuen taldearekin alderatuta. Indartze-saiorik gabeko abiadura-entrenamenduak, eta memoria- edo arrazoiketa-entrenamenduak, ez zuten ondorio nabarmenik erakutsi."
+  - q: "Puzzleak eta jokoak onak al dira dementzia duen pertsona batentzat?"
+    a: "Bai, pertsonak gozatzen badu. Taldeko estimulazio kognitiboak, hitz-jokoak, puzzleak, musika eta elkarrizketa barne hartzen dituena, onura txikiak eta epe laburrekoak erakusten ditu pentsamenduan, eta onura argiagoak komunikazioan eta harreman sozialetan. Helburu egokia da pertsonak gozatzea, ez proba bateko emaitza bat lortzea."
+  - q: "Zergatik jarri zion FTCk isuna Lumosityri?"
+    a: "2016an, Federal Trade Commission erakundeak salatu zuen Lumos Labs enpresak bere jokoei buruzko baieztapenak egiten zituela, adibidez adinarekin lotutako narriadura eta dementzia atzeratzen zituztela esanez, horiek babesteko behar adina oinarri zientifikorik gabe. Enpresak 2 milioi dolar ordaintzea onartu zuen, eta etorkizunean halako baieztapenak egiteko ebidentzia zientifiko fidagarria izatea."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,171 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Burmuineko jokoak nonahi daude, eta askok adimena gazte mantentzen lagunduko dutela agintzen dute. Dementziarekin bizi den pertsona bat zaintzen baduzu, edo zure oroimenaz kezkatuta bazaude, normala da joko horiek lagungarri izan litezkeen galdetzea. Hemen duzu ikerketek benetan erakusten dutena, alde baikorrak zein ez hain baikorrak barne.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Informazio orokorra da hau, ez mediku-aholkua. Ikusi gure
+[mediku-oharra](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Burmuineko jokoek dementzia prebenitzen al dute?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ez da frogatu burmuineko jokoren batek dementzia prebenitzen duenik. National Institute on
+Aging (NIA) erakundeak gomendatzen du kontuz ibiltzea ordenagailuko eta sareko
+jokoek oroimena hobetu dezaketela dioten baieztapenekin, eta dio ez dagoela nahikoa
+ebidentzia garun-entrenamendurako aplikazio komertzial batek saiakuntza klinikoetan
+probatu den entrenamenduaren ondorio bera duenik ([NIA, Alzheimerra prebenitzeari buruz](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Horrek ez du esan nahi jokoak alferrikakoak direnik. Esan nahi du haien balioa
+gozamenean, elkarrekin egotean eta errutinan dagoela, ez inor dementziatik babestean.
 
-## What is "near transfer", and why does it matter?
+## Zer da «transferentzia hurbila», eta zergatik da garrantzitsua?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Zeregin bat praktikatzen duzunean, normalean zeregin horretan hobetzen zara. Ikertzaileek
+hori entrenamenduaren ondorioa deitzen dute. Galdera zailagoa da hobekuntza hori
+beste gauza batzuetara **transferitzen** den: antzeko zereginetara (transferentzia
+hurbila) edo eguneroko bizitzara, adibidez hitzorduak gogoratzea edo dirua kudeatzea
+(transferentzia urruna).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016ko azterketa garrantzitsu batek garun-entrenamenduko enpresek beren ebidentziarik
+onena zela esaten zuten ikerketak aztertu zituen. Aurkitu zuen ebidentzia zabala
+dagoela jendea entrenatutako zereginetan hobetzen dela esateko, ebidentzia gutxiago
+dagoela estuki lotutako zereginetan hobetzen dela esateko, eta ebidentzia gutxi
+dagoela entrenamenduak eguneroko pentsamendua hobetzen duela esateko. Ikerketa
+askok diseinu-arazoak ere zituzten, eta horrek ondorio sendoak ateratzea zailtzen zuen
+([Simons eta lankideak, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Zer diote azterketek ordenagailuko garun-entrenamenduari buruz?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane azterketek, eskuragarri dauden saiakuntzarik onenak biltzen dituztenek,
+gutxienez 12 aste iraun zuten ordenagailuko entrenamenduak aztertu dituzte:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **65 urte edo gehiagoko heldu osasuntsuak:** zortzi saiakuntza, 1.183 pertsonarekin.
+  Ebidentziaren kalitatea baxua edo oso baxua zen. Liteke onura txiki bat egotea
+  entrenamenduaren ondoren, baina ez dago ebidentzia argirik horrek irauten duenik
+  ([Cochrane azterketa, heldu zahar osasuntsuak](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Narriadura kognitibo arina duten pertsonak:** zortzi saiakuntza, 660 pertsonarekin.
+  Saiakuntza bakar batek ere ez zuen jakinarazi pertsonek dementzia garatu zuten ala ez,
+  eta ebidentzia ahulegia zen ondorioak ateratzeko
+  ([Cochrane azterketa, narriadura kognitibo arina](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Zer aurkitu zuen ACTIVE saiakuntzak?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE Estatu Batuetako saiakuntza handi bat da. 1998an hasi zen, 65 urte edo
+gehiagoko 2.802 heldurekin; modu independentean bizi ziren, eta ez zuten memoria-
+edo pentsamendu-arazo nabarmenik. Pertsonak ausaz esleitu zituzten hiru talde
+txikiko entrenamendu motatako batera (informazioa prozesatzeko abiadura, memoria
+edo arrazoiketa) edo kontakturik gabeko talde batera. Entrenamendua gehienez hamar
+saio izan zen, bost edo sei astetan banatuta. Lehen saio gehienak amaitu zituzten
+pertsona batzuei **indartze-saioak** ere eskaini zizkieten ausaz, urtebete eta
+hiru urte inguru geroago.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Abiadura-entrenamenduan, informazio bisuala gero eta denbora-tarte laburragoetan
+ikusi eta prozesatu behar zen, pertsonak hobetu ahala zailtasuna egokituz.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026an, ikertzaileek 2.021 parte-hartzaile beren Medicare erregistroekin lotu zituzten
+20 urtez ([ACTIVEren 20 urteko azterketa](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Hauxe aurkitu zuten zehazki:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Abiadura-entrenamendua eta gutxienez indartze-saio bat:** dementzia diagnostikatuaren
+  tasa txikiagoa kontakturik gabeko taldearekin alderatuta (arrisku-erlazioa 0,75;
+  gutxi gorabehera, % 25eko tasa txikiagoa).
+- **Indartze-saiorik gabeko abiadura-entrenamendua:** ez zen tasa txikiagorik ikusi.
+- **Memoria- edo arrazoiketa-entrenamendua:** ez zuen ondorio nabarmenik izan dementzia
+  diagnostikoetan.
+- **Entrenamendu-talde bakoitza bere osotasunean, kontakturik gabeko taldearekin
+  alderatuta:** tasa txikiagoetarako joera egon zen, baina ez zen estatistikoki
+  esanguratsua.
 
-### The limits of this finding
+### Aurkikuntza honen mugak
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- **Gainbegiratutako abiadura-entrenamendu mota jakin bati eta indartze-saioei**
+  dagokie, ez burmuineko jokoei oro har.
+- Emaitza esanguratsua **azpitalde** batean agertu zen (lehen saio gehienak amaitu
+  eta indartze-saioak eskaini zitzaizkien pertsonetan), ez abiadura-talde osoan.
+- Dementzia **Medicare erreklamazioetako diagnostiko-kodeen** bidez neurtu zen, ez
+  pertsona bakoitza aztertuta. Jatorrizko parte-hartzaileen laurden bat inguru kanpoan
+  utzi zuten, Medicare Advantage programan zeudelako eta hark ez duelako erreklamazio-
+  erregistro osoak.
+- Parte-hartzaileek ez zuten pentsamendu-arazo nabarmenik hasi zirenean. Emaitzek ez
+  dute ezer esaten **dagoeneko dementziarekin bizi diren pertsonentzako** jokoei buruz.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Interesgarria den emaitza da, eta ikerketa gehiago merezi du. Ez da froga bat
+aplikazio batek dementzia prebenitzen duenik.
 
-## What did the FTC say about Lumosity?
+## Zer esan zuen FTCk Lumosityri buruz?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016ko urtarrilean, Lumos Labs enpresak, Lumosityren egileak, 2 milioi dolar
+ordaintzea onartu zuen, Federal Trade Commission erakundearen publizitate
+engainagarriari buruzko salaketak konpontzeko. FTCk esan zuen enpresak, behar
+adina oinarri zientifikorik gabe, baieztatzen zuela bere jokoek lana eta ikasketak
+hobetu zitzaketela, eta adinarekin lotutako narriadura, narriadura kognitibo arina,
+dementzia eta Alzheimerra atzeratu zitzaketela. Aginduaren arabera, enpresak
+ebidentzia zientifiko sendoa eta fidagarria izan behar du etorkizunean halako
+baieztapenak egin aurretik ([FTCren prentsa-oharra](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Familientzako mezua: mesfidatu oroimena babestuko duela edo dementzia prebenituko
+duela agintzen duen edozein joko, aplikazio edo programarekin.
 
-## Can games help someone who already has dementia?
+## Jokoei esker lagundu al daiteke dementzia duen pertsona bat?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Egun ona apur bat hobe egiten lagun dezakete, eta hori oso garrantzitsua da. Gehien
+ikertu den ikuspegia **estimulazio kognitiboa** da: taldean gozatzeko jarduerak,
+hala nola eztabaidak, oroitzapenak, hitz-jokoak, puzzleak eta musika, normalean
+bideratzaile batek gidatutako talde txiki batean.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Dementzia arina edo ertaina duten 2.766 pertsonarekin egindako 37 saiakuntzari
+buruzko 2023ko Cochrane azterketa batek hau aurkitu zuen
+([Cochrane azterketa, estimulazio kognitiboa](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **onura txiki bat eta epe laburrekoa** pentsamendu-probetan (kalitate ertaineko
+  ebidentzia);
+- **hobekuntza klinikoki garrantzitsuak komunikazioan eta harreman sozialetan**
+  (kalitate handiko ebidentzia, ikerketa kopuru txikiago batetik);
+- **onura arinak** bizi-kalitatean, aldartean eta portaeran.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Onurak batez ere hamar aste inguruko programen ondoren neurtu ziren, eta ikerketa
+gutxik egiaztatu zuten irauten zuten ala ez. Estimulazio kognitiboa talde-programa
+egituratua denez, emaitza hauek ez dira automatikoki aplikatzen pertsona batek
+tabletan bakarrik jolas egiten duenean.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024ko Lancet Batzordeak ere dio jarduera-programak garrantzitsuak direla
+dementziarekin bizi diren pertsonentzat, gozamena eta helburua mantentzen laguntzeko
+([Lancet Batzordea](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Zertarako dira onak benetan jokoak?
 
-When chosen well, games can offer:
+Ondo aukeratuta, jokoek hau eskain dezakete:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Gozamena.** Ordu erdi atsegin batek berez du balioa.
+- **Lotura.** Elkarren ondoan jolasteak partekatzeko zerbait erraza ematen du,
+  elkarrizketa zaila denean. Ikusi [nola jolastu elkarrekin](/caregiving/how-to-play-together/).
+- **Errutina.** Egunero ordu berean egiten den jarduera ezagun batek lasaitasuna
+  ekar dezake.
+- **Konfiantza.** Pertsonak oraindik ondo egin ditzakeen gauzetara egokitutako
+  jarduerek gai sentitzea lagun dezakete, ez aztertuta sentitzea.
+- **Elkarrizketa.** Irudi batek edo esaera ezagun batek istorio bat irekitzeko
+  bidea eman dezake. Probatu [elkarrizketa-txartelak](/games/conversation-cards/) edo
+  [amaitu esaera](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Zer saihestu: denboragailuak, puntuazioak, boladak eta oroimen-proba baten antza
+duen edozer. Pertsona frustratzen bada, gelditu. Lehenago amaitzea, edo besterik
+gabe elkarrekin egotea, emaitza ona da. Gure [aplikazioak eta jokoak aukeratzeko gida](/caregiving/choosing-apps-and-games/)
+kontrol-zerrenda bat du.
 
-## Where Golden Moments fits
+## Non kokatzen da Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments jokoak, hala nola [irudi-bikoteak](/games/picture-pairs/),
+[irudi-puzzlea](/games/picture-puzzle/) eta
+[letra handiko hitz-zopa](/games/word-search/), gozatzeko eta elkarrekin denbora
+pasatzeko eginda daude. Ez dute erlojurik eta ez dute puntuaziorik. **Ez** dira
+tratamendu bat, eta **ez** dute dementzia prebenitzen edo moteltzen. Nahiago dugu
+hori argi esan, inolako jokok bete ezin duen zerbait agindu baino.
 
-## Talk with a doctor
+## Hitz egin mediku batekin
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Zeure buruaren edo zaintzen duzun pertsonaren oroimen-aldaketen inguruan kezkatuta
+bazaude, joan medikuarengana, ez fidatu aplikazio batean soilik. Mediku batek arrazoi
+tratagarririk dagoen azter dezake, eta ebidentziarik onena duten urratsei buruz hitz
+egin dezake, adibidez odol-presioa kontrolatzea edo entzumena egiaztatzea. Ikusi
+[Dementzia prebenitu al daiteke?](/brain-health/can-dementia-be-prevented/) informazio
+gehiagorako. Bat-bateko nahasmena edo beste bat-bateko aldaketaren bat gertatzen bada,
+bilatu berehala mediku-laguntza.

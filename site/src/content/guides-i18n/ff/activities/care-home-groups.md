@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Golle dental e majjere hakkil: Famminorde wonannde"
+seoTitle: "Golle dental e majjere hakkil: Bingo, jimɗi, tinndinooje"
+description: "Golle dental wonannde toppitooɓe: bingo nate, jimɗi e tinndinooje, e ballal jooɗorgal, ɓetol dental e no wonndirde e kala neɗɗo."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Golle dental moƴƴe e toppitaare walla e laawol ñalawma ko juutɗe seeɗa,
+  anndaande e newiinde naatde e kala tolno: bingo nate, jimɗi, jooɗorɗe
+  tinndinooje, dillere newiinde e fijirde kelmeendi wondude. So tawii ena
+  waawi, mooftu dental tokoose, jooɗin yimɓe haa kala neɗɗo ena yii e nana,
+  hokku yamiroore wootere laaɓtunde laawol gootol, tee ebbo darnde newiinde
+  e feere yaltude deeƴre wonannde kala mo yiɗi ɗum.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Dental tokoose ina golla ɓurɗe laawol gootol e dental mawngal, tee ina hokku yimɓe ɓurɓe fartaŋŋe wallitde, wonaa tan ndaarde."
+  - "Jooɗin yimɓe e tagofeere walla feccere kuddu, ɓadii ardiiɗo, e miijagol e nanagol e yiiyagol, tee ñif background."
+  - "Ebbo kala gollal e tolnooji ɗiɗi walla tati, ngam yimɓe jogiiɓe baawɗe ceertuɗe fof ena mbaawi naatde."
+  - "Reen e naamnitte, limoore e foolooɓe. Bingo nate ena waawi fijireede haa kala neɗɗo heɓa kartal timmungal."
+  - "Yaltude law, ndaarde walla ɗaanagol seeɗa ena moƴƴi. Heɓ balloowo hebulaaɗo ngam wallude kala mo yiɗi nokku deeƴɗo."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Hol ɓetol dental moƴƴol wonannde golle majjere hakkil?"
+    a: "Alaa limoore wootere moƴƴere, tee ɗum ena fawii e yimɓe wonduɓe toon, suudu ndun e no ballooɓe ɓe ngoni. Goomu keewɗu ina tawi dental tokoose ena walla kala neɗɗo yiyde, nanude e wallitde, tawi jooɗorɗe mawɗe ina ɓurta heddinde yimɓe e ndaarde. So a waɗii jooɗorde mawnde, ɓeydu ballooɓe walla yarlitiiɓe jooɗotooɓe hakkunde yimɓe ngam wallude gooto walla ɗiɗo fof."
+  - q: "Hol no mi waɗirta dental jogowal baawɗe ceertuɗe?"
+    a: "Ebbo laawi keewɗi ngam naatde e kala gollal. E jimɗi wondude, won e yimɓe ina njima kala kelme, woɗɓe ina pica kuɓɓe walla ina mummina, woɗɓe ina njogii kuɓɓol dillere. E bingo nate, won e yimɓe ina njiyta nate mum en tigi, tawi balloowo ina toɓɓana woɗɓe. Jooɗin yimɓe ɓurɓe soklude ballal ɓadii balloowo walla yarlitiɗo."
+  - q: "Hol no mi fijirta bingo nate tawa wonaa hawre?"
+    a: "Noddu kala natal haa kartal kala neɗɗo timma, ngam hay gooto heddotaako. Haal e natal kala nde arata, tee accu dokke foolooɓe walla hokku kala neɗɗo dokkal gootal tokoosel. Faandaare nden ko hakkilal wondungal e yeewtere, wonaa mo adii timminde."
+  - q: "Miɗo waawi huutoraade fijirɗe mon e yaynirde mawnde e dental?"
+    a: "Eey. Fijirɗe amen ina ngolla e wanngorde geese, ɗum noon aɗa waawi udditde ɗe e ordinateer walla alluwel jokkondirangel e tele walla porjektoor. Picture Bingo ina waɗi karte binndeteeɗe e noddirgel yaynirde. Finish the Saying e Picture Pairs kadi ina ngolla no feewi e yaynirde mawnde, tawi gooto ina tappana dental ngal."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ndee famminorde ko wonannde ardinooɓe golle, goomu toppitaare e hooreeɓe laawol ñalawma. Ende hollita peeje dental gollotooɗe, ebbo suudu, no waɗirtee gollal gootol ngam yimɓe jogiiɓe baawɗe ceertuɗe, e no huutortee karte bingo binndeteeɗe amen e fijirɗe yaynirde mawnde. Ko woni ɗoo fof ina faandaare e ɓuttu, jokkondiral e cuɓagol. Hay huunde ɗoo wonaa ƴeewndo.
 
-## What makes a group activity work in memory care?
+## Hol ko waɗata gollal dental yahda no feewi e toppitaare majjere hakkil?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Gollal dental moƴƴal ko anndaangal, juutngal seeɗa, newingal naatde e kala tolno, tee alaa tiiɗnaare. [Demtante goomu toppitaare majjere hakkil](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) Alzheimer’s Association ina sifa naatgol faayiidinngol ko huunde wallitnde himmeeji e cuɓorɗe neɗɗo, tee ina addana cuɓagol e weltaare, hay so majjere hakkil nden ina tiiɗi. Fiilannde hono ndee ina jeya kadi wonde laawi gadiiɗi ina keewi tuugnoraade jooɗorɗe mawɗe ɗiɗo walla gootel ñalnde kala, ɗe yimɓe wonduɓe toon keewi tawtoraade tan e ndaarde.
 
-That points to a few practical rules:
+Ɗum ina holla sarɗiiji seeɗa gollotooɗi:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Ko anndaa ina ɓuri kesum.** Jimɗi, tinndinooje, nate e piiji iwɗi e duuɓi sukaaku yimɓe wonduɓe toon ina newnan naatde.
+- **Ko juutaa seeɗa ina ɓuri ko juuti.** Ebbo fotde hakkilal mo dental maa keewi jogiireede, e nokku dartorgal natura ngal hakkunde.
+- **Waɗde ina ɓuri ndaarde.** Hokku kala neɗɗo huunde nde jogoo, nde tappoo, nde suɓoo walla nde haala.
+- **Tolnooji keewɗi, gollal gootal.** Waɗ e nder mum laawi newɗi e ɓurɗi tiiɗde ngam wallitde.
+- **Alaa foolooɓe, alaa limoore.** Peeje hawre ina mbaawi waɗde woɗɓe ina njiyaa ko ɓe keɓaani.
 
-## How big should the group be?
+## Dental ngal foti wonde ko ɓuri mawnude?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Ko tokoosi ina ɓura newde. Alzheimer’s Association ina hollita wonde neɗɗo mo dental mawngal ina metta, ena waawi jokkondirde no ɓuri moƴƴirde e dental tokoosel. Alaa limoore wootere moƴƴere. Ɗum ena fawii e yimɓe wonduɓe toon, suudu ndun e no ballooɓe e yarlitiiɓe ɓe ngoni.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Ƴeewndo naftowal: kala neɗɗo ena waawi yiyde yeeso ardiiɗo, nanude no feewi e yettaade balloowo e hojomaaji seeɗa? So wonaa ɗum, feccu dental ngal, ɓeydu ballooɓe walla yah to suudu ɓurndu tokoosude.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+E jooɗorde mawnde, wano jooɗorde jimɗi e waktu fiiwande, jooɗin ballooɓe e yarlitiiɓe hakkunde yimɓe wonduɓe toon, wonaa e daɗi suudu ndun.
 
-## How should I set up the room and seating?
+## Hol no mi ebbirta suudu ndun e jooɗorgal ngal?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Tagofeere walla feccere kuddu.** Demtante goomu ngal ina sifa tagofeere lollirnde ko moƴƴere e nokku mawɗo ngam kala neɗɗo jooɗaade e tagofeere, tawa alaa hito background.
+- **Ardiiɗo ina ɓadii tee e tolno gite.** Jooɗo so tawii ena waawi, wonaa darii.
+- **Nanagol e yiiyagol ko adii.** Jooɗin yimɓe jogiiɓe caɗeele nanagol ɓadii ardiiɗo, e fannu mum moƴƴo. Ƴeewto lunette e kaɓirɗe nanagol ina ɓornaa. Alzheimer’s Association ina hollita caɗeele yiiyagol e nanagol ena mbaawi saɗtinde jokkondiral.
+- **Annoore ina iwa caggal yimɓe, wonaa caggal maa.** Reen e jooɗinde hay gooto fadde henorde jalbunde.
+- **Ñif tele e raadiyo.** Alzheimer’s Association ina wasiyaa ittude hitooji liddotooɗi e golle jimɗi.
+- **Yeewtere wootere laawol gootol.** Haalaaji liddondirɗi ina caɗi yimɓe wonduɓe e majjere hakkil e yimɓe jogiiɓe caɗeele nanagol, ko Alzheimer’s Association holliri e [famminde mum e waktu fiiwande](https://www.alz.org/help-support/caregiving/holidays).
+- **Yaltirɗe laaɓtuɗe e nokku deeƴɗo.** Kala mo yiɗi yaltude foti waawde ɗum no newiri, tawa ena woodi balloowo yahdooɗo e makko.
 
-## Group activity ideas
+## Miijooji golle dental
 
-### Picture bingo
+### Bingo nate
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo nate ina lomtina limooje nate laaɓtuɗe, wano samowaar, rawaandu walla piindi, ngam hay gooto soklaani reende limoore juutnde walla janngude binndol tokoosol.
 
-**How to run it:**
+**Hol no waɗirtee:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Winndito kartal gootal e mo woni kala to hello [Picture Bingo](/games/picture-bingo/) e butoŋ Winndito. Kaartal tekkuɗo ina newi jogeede. Aɗa waawi lamiineede ngam huutoraade kadi.
+2. Hokku maarkeeji mawɗi newɗi jogeede, wano jetooji poker, ommbooje walla taƴe kaartal.
+3. Huutoro noddirgel yaynirde e tele walla porjektoor ngam kala neɗɗo yii natal ngal tawa a ina nodda innde mayre.
+4. Dartu caggal natal kala tee noddu yeewtere seeɗa: “Won mo yiɗi haalude rawaandu mo o anndunoo?” walla “Hol ko njiyton e ndee?”
+5. Jokku noddude haa kartal fof timma. Kala neɗɗo ina timmina.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**No waaɗirtee:** Huutoro kareeji seeɗa wonannde yimɓe yiya ɓe kartal timmungal ina heewi. Balloowo ena waawi toɓɓande natal jahdowal wonannde mo yiɗi ballal. Won e yimɓe ena mbaawi yiɗde jogaade kartal natal noddirgel ngal e hollude dental ngal.
 
-### Sing-alongs
+### Jimɗi wondude
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Jimɗi ko gootol e golle dental ɓurɗe yiɗeede. Alzheimer’s Association ina hollita wonde hay e tolnooji sakkitiiɗi, neɗɗo ena waawi waawde [tappude diidol walla yimde jimol gila e sukaaku](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Hol no waɗirtee:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Suɓo jimɗi ɗi yimɓe wonduɓe toon mawnori, wonaa ko ardiiɗo yiɗi. Naamno ɓesngu kala neɗɗo ko o yiɗnoo.
+- Huutoro jimɗi tawa alaa ɓaŋŋine, ɗi Fedde ndee holliri ena mbaawi jiiɓde.
+- Winndito kelmeendi e alkule mawɗe wonannde ɓe njanngata, kono woto waɗ ɗum waajibii.
+- Hokku kuɓɓe dillere, dholle jungo walla leppi ngam wewtaade.
+- Semmbin picaade kuɓɓe e dillere, tee mooftu daande e tolno welngo.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**No waaɗirtee:** Won e yimɓe maa njim kala kelme, woɗɓe maa mummina, woɗɓe maa tappu koyngal, woɗɓe maa kettito tan. Ɗii fof ina moƴƴi. Yiy [famminorde amen golle jimɗi](/activities/music/) ngam ɓeydaade.
 
-### Reminiscence groups
+### Jooɗorɗe tinndinooje
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Jooɗorde tinndinooje ina moobondira e hoorewol gootol, wano ñalɗi duɗal, otooji adanɗi, defte walla ceeɗu, huutoraade nate, piiji e jimɗi. Faandaare nden ko yeewtere welnde, wonaa siftorde teddunde.
 
-**How to run it:**
+**Hol no waɗirtee:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Suɓo hoorewol gootol tee addaa piiji seeɗa ɗi yimɓe mbaawi jogeede: masiŋ jolnirɗo, ganndo bal, hunuko, walla deftere aawdiiji.
+2. Yantir huunde wootere laawol gootol. Naamno naamnitte udditiiɗe: “Haalan am e ndee,” “Hol ko njiytaa?” “Hol mo huutortonoo huunde wa ndee?”
+3. Jaɓ kala jaabawol. Woto feewtin hay ñalnde walla kabaaru.
+4. Tiindin yeewtere ndee faade e tinndinooje welɗe. Demtante goomu ngal ina hollita wonde toppitooɓe poti tiindinde tinndinooje feewde e tinndinooje welɗe, wonaa ɗe mbaawi mettinde.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) ina hokku karte nate binndeteeɗe e naamnitte udditiiɗe e hoorewol kala, ɗe ngollotooɗe no feewi ngam fuɗɗaade yeewtere. Miijooji goɗɗi ina tawaa e [famminorde amen tinndinooje](/activities/reminiscence/).
 
-### Finish the saying
+### Timminde tinndinol
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Tinndinooje anndaaɗe (“Ndiyam e ndiyam ina waɗa...”) ina nodda dental ngal fof jaabaade timmal ngal goofol. Hollu [Finish the Saying](/games/finish-the-saying/) e yaynirde mawnde tee accu dental ngal jaaboo e daande wootere. Ena woodi naamnal haala caggal tinndinol kala. So hay gooto wiyaani timmal ngal, hollu ɗum tee yah yeeso. Alaa moƴƴere walla bonnere.
 
-### Large-print word search, together
+### Yiytugol kelmeendi e alkule mawɗe, wondude
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Yaynir [Word Search](/games/word-search/) e alkule mawɗe e yaynirde, tee njiyton kelmeendi ɗii e dental, walla winndito kopiiji wonannde ɓe njiɗi gollaade keeriiɗo e taabal ngal. Kelmeendi ɗii ina njaha tan faya bannge ñaamo e bannge les.
 
-### Gentle movement
+### Dillaare deeƴnde
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Foftere jooɗiiɗe, yantirde bal deeƴɗo walla balon, walla dillaare e jooɗorde e jimɗi anndaaɗi. Hollu dillere kala, wonaa sifaade tan.
 
-### Sorting and matching at the table
+### Sennugol e jahdingol e taabal
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Taabe tokoose tati walla nay ina mbaawi sennude nate, taƴe leppi walla kaɓirɗe maafe wondude. E yaynirde, [Picture Pairs](/games/picture-pairs/) ena waawi fijireede tawa nate ɗee ina kolliraa, tawi gooto ina tappa tawa taabal ngal ina haala e natal kala.
 
-## How do I use your games on a big screen?
+## Hol no mi huutortoo fijirɗe mon e yaynirde mawnde?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Fijirɗe amen ina ngolla e wanngorde geese, ɗum noon aɗa waawi huutoraade ɗe e tele walla porjektoor tawa a aafaani hay huunde.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Uddit fijirde ndee e ordinateer walla alluwel jokkondirangel e yaynirde rewrude e ɓoggi walla weftugol.
+2. Waɗ wanngorde ndee timmu yaynirde tee toɗɗo hito e tolno welngo.
+3. Ardiiɗo gooto ina waawi tappude tawa dental ngal ina nodda cuɓorɗe ɗee. Walla hokku alluwel neɗɗo wonɗo toon mo yiɗi fartaŋŋe.
+4. Dartu sahaa kala nde dental ngal hebi. Fijirɗe ɗee alaa waktuuji, limoore walla timmingol tiiɗnaaɗo.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) e [Conversation Cards](/games/conversation-cards/) ina keewi yahdude no feewi e goomu. Yiy cuɓorɗe goɗɗe fof to [hello fijirɗe amen](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Hol no mi waaɗirta gollal gootol ngam baawɗe ceertuɗe?
 
-Plan at least three ways to join every activity.
+Ebbo ko famɗi fof laawi tati ngam naatde e kala gollal.
 
-| Activity | More independent | Some support | Most support |
+| Gollal | Ko ɓuri hoore mum | Ballal seeɗa | Ballal ɓurɗo |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo nate | Ina yiyta tee ina huɓɓa nate mum | Balloowo ina toɓɓa; neɗɗo oo ina huɓɓa | Ina jogii kartal natal; ina heɗoo e ina ndaara |
+| Jimɗi wondude | Ina yima, ina suɓoo jimol garowol | Ina mummina, ina pica kuɓɓe, ina huutoroo kuɓɓol dillere | Ina heɗoo, ina jogii lefol, ina tappa jungo |
+| Tinndinooje | Ina holla tinndinooje | Ina jaaboo eey walla alaa walla ina toɓɓa | Ina jogii tee ina meemaa huunde ndee |
+| Yiytugol kelmeendi | Ina golla e koppi mum | Ina yiyta kelmeendi e yaynirde mawnde e balloowo | Ina heɗoo nde kelmeendi ɗii njanngiraa |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Wonannde yimɓe wonɓe e tolnooji sakkitiiɗi, NHS ina hollita wonde golle ina keewi soklude wonde ɓurɗe newde tee ina tuugnii ɓurɗe e meeɗe, wano jimɗi, piiji memmeteeɗi e moosgol juuɗe. Waktu gooto e gooto, e nder walla caggal dental ngal, ena waawi yahdude e mum ɓurɗe dental ngal tigi. Yiy [golle tolnooji sakkitiiɗi](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Hol no ardinooɓe poti haalirde e dental?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Hollit hoore maa kala laawol, tee huutoro innde nde kala neɗɗo yiɗi.
+- Haal soria, hokku yamiroore wootere laawol gootol, tee hollu hade maa haalude.
+- Naamno noddite udditiiɗe (“Haalan am e...”) walla cuɓorɗe newɗe, wonaa naamnitte ƴeewndo (“Aɗa siftora...?”).
+- Woto feewtin. Yetto kala neɗɗo e kala ballal mum.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Ɓeydaare e ɗum ina tawaa e [hollitte jokkondiral](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Timminde no feewi, e accude yimɓe mbalta
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Dartugol ko battane moƴƴere. Ƴeewto maande wonde neɗɗo ina tampi, ina fiirta walla ina metti, tee heɓ balloowo ngam wewtaade yahdugol walla jooɗorde deeƴnde woɗnde. Neɗɗo ɗaaniiɗo seeɗa e nder jimɗi wondude ena waawi wonde tan ina ɓuttu.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Timmu kala dental e laawol gootol, e jimol anndaangal walla yettode newnde, ngam timmal ngal ina ɓuttu tee ina fannditaa. Caggal ɗum, winndu seeɗa ko yahdi no feewi e ko kala neɗɗo weli. Ɗee tinndinooje ina mbaɗa jooɗorde aroore ɓurnde moƴƴude.

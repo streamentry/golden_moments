@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Loa eta garunaren osasuna: ikerketak eta ohiturak"
+seoTitle: "Loa eta dementzia: ikerketak iradokitzen duena"
+description: "Ikerketek loaren eta dementzia-arriskuaren artean zer iradokitzen duten, garuna garbitzeari buruzko ikerketa oraindik goiztiarra denean, eta lo-ohitura praktikoak."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Epe luzeko zenbait ikerketek adin ertainean lo gutxi egitea dementzia-arrisku handiagoarekin
+  lotzen dute, eta laborategiko ikerketek iradokitzen dute loak garunak hondakinak garbitzen
+  lagun dezakeela. Ebidentzia hori oraindik goiztiarra da, eta 2024ko Lancet Batzordeak ez zuen
+  loa arrisku-faktore aldagarri gisa zerrendatu. Lo-ohitura erregularrek eguneroko ongizatean
+  lagun dezakete. Dementzian lo-arazoak ohikoak dira, eta komeni da medikuari kontatzea.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "25 urtez 8.000 pertsona ingururi jarraitu zien Erresuma Batuko ikerketa batek adin ertainean sei ordu edo gutxiago lo egitea dementzia-arrisku handiagoarekin lotu zuen."
+  - "Loaren aldaketak dementziaren hasierako seinale bat ere izan daitezke; horregatik, zaila da kausa eta ondorioa bereiztea."
+  - "Loak garunetik beta-amiloidea garbitzeari buruzko ikerketa benetakoa da, baina goiztiarra; gehiena saguetan egindakoa da."
+  - "Loaren apnea ohikoa da, trata daiteke eta ikerketetan dementziarekin lotuta agertu da; zurrunga ozenak eta egunez logura izatea egiaztatzea merezi du."
+  - "Ez hasi, ez utzi eta ez aldatu inoiz loaren aurkako sendagairik edo lo-laguntzailerik medikuaren baimenik gabe."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Lo txarrak Alzheimerra eragiten al du?"
+    a: "Hori ez da frogatu. Zenbait ikerketek lo gutxi egitea dementzia-arrisku handiagoarekin lotzen dute, baina dementziak berak loa nahasten du, askotan diagnostikoa baino urte batzuk lehenago. 2024ko Lancet Batzordeak ebidentzia ez zela nahikoa koherentea iritzi zion loa arrisku-faktore aldagarri gisa zerrendatzeko."
+  - q: "Zenbat lo egin behar dute adineko helduek?"
+    a: "Zahartzeari buruzko Institutu Nazionalaren arabera, adineko helduek beste helduek adina lo egin behar dute, gauero 7 eta 9 ordu artean. Adineko pertsona askok lehenago oheratzen dira eta lehenago esnatzen dira; ohikoa da."
+  - q: "Zergatik egiten du lo egunez eta esnatzen da gauez dementzia duen pertsona batek?"
+    a: "Dementziak gorputzaren ordularian eragin dezake, eta lo egiteko eta esnatzeko orduak nahas daitezke. Minak, aspertzeak, goseak edo sendagaien albo-ondorioek ere eragina izan dezakete. Eguneko argiak, eguneroko jarduerak eta arratsaldeko errutina lasai batek lagun dezakete. Medikuak trata daitezkeen arrazoiak azter ditzake."
+  - q: "Lo-laguntzailerik eman behar diot zaintzen dudan pertsonari?"
+    a: "Hitz egin lehenik haren medikuarekin, errezetarik gabeko produktuei buruz ere bai. Zahartzeari buruzko Institutu Nazionalak dio Alzheimerra duten pertsonetan loaren aurkako sendagai batzuek zorabio, erorketa eta nahasmen arriskua handitu dezaketela."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Loak eta garunaren osasunak lotura argia dute, baina lotura hori nola ematen den oraindik ikertzen ari dira. Zenbait ikerketek lo gutxi egitea dementzia-arrisku handiagoarekin lotzen dute. Aldi berean, dementziak askotan loa nahasten du. Orrialde honek azaltzen du ikerketek zer erakusten duten eta zer ez, lo-ohitura praktikoak ematen ditu, eta dementzian ohikoak diren lo-arazoak lantzen ditu. Ez du loaren aurkako sendagaiei buruzko aholkurik ematen; gai hori medikuarekin hitz egin beharrekoa da.
 
-## Is poor sleep linked with dementia?
+## Lo txarra dementziarekin lotuta al dago?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Epe luzeko zenbait ikerketek lo gutxi egitea dementzia-arrisku handiagoarekin lotzen dute, baina ebidentzia ez dago erabat argi.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Erresuma Batuko 25 urteko ikerketa.** Ikertzaileek 8.000 heldu inguru jarraitu zituzten [Whitehall II ikerketan](https://www.nature.com/articles/s41467-021-22354-2). 50 edo 60 urterekin sei ordu edo gutxiago lo egiten zuten pertsonek gerora dementzia izateko arrisku handiagoa izan zuten zazpi ordu lo egiten zutenek baino. 50, 60 eta 70 urterekin sei ordu edo gutxiago lo egiten zutenek arrisku % 30 inguru handiagoa izan zuten zazpi ordu erregularki lo egiten zutenekin alderatuta. Behaketa-ikerketa izan zen; beraz, lotura bat erakusten du, ez kausa bat.
+- **Lancet Batzordearen iritzia.** [2024ko Lancet Batzordeak](https://doi.org/10.1016/S0140-6736(24)01296-0) ez zuen loa gehitu bere 14 arrisku-faktore aldagarrien zerrendara. Ebidentzia ez zela nahikoa koherentea iritzi zuen. Arrazoi bat «alderantzizko kausalitatea» da: dementziaren garun-aldaketak diagnostikoa baino urte batzuk lehenago hasten dira eta loa nahas dezakete. Ikerketa handi batean, lo luzearen eta dementziaren arteko lotura desagertu egin zen jarraipeneko lehen bost urteak alde batera utzi zirenean.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Beraz, noizean behin gau txar bat izatea ez da kezkatzeko arrazoia. Kalitatezko lo erregularra lortzen saiatzea merezi du, gaur egungo aldarteari, erne egoteari eta segurtasunari laguntzen dielako.
 
-## What is the "brain-clearing" sleep research?
+## Zer da loak «garuna garbitzeari» buruzko ikerketa?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Agian irakurri duzu loak garuna «garbitzen» duela. Ideia hori benetako ikerketatik dator, baina goiztiarra da.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Saguetan.** 2013ko ikerketa batek, [NIHk deskribatua](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), aurkitu zuen garun-zelulen arteko espazioa % 60 inguru handitzen zela saguak lo zeudenean. Fluidoa errazago mugitzen zen garunean zehar, ikertzaileek sistema glinfatikoa deitzen duten bidez. Beta-amiloidea, Alzheimerrarekin lotutako proteina bat, azkarrago garbitzen zen lo zeuden saguen garunetik.
+- **Pertsonetan.** [2018ko ikerketa txiki](https://www.pnas.org/doi/10.1073/pnas.1721694115) batek 22 eta 72 urte bitarteko 20 heldu osasuntsu aztertu zituen gau normal baten ondoren eta lorik egin gabeko gau baten ondoren. Lorik gabeko gauaren ondoren, beta-amiloidearen garun-eskaneatze seinale bat % 5 inguru igo zen hipokanpoa barne hartzen duen eremu batean, oroimenerako garrantzitsua den eskualdea. Egileek ebidentzia preliminarra zela esan zuten. Ez zekiten aldaketa hori atsedenaren ondoren desagertzen den edo garbiketa motelagoa edo amiloide gehiago sortzea islatzen duen.
+- **Bi noranzkoetan eragiten du.** Lancet Batzordeak adierazi du amiloidearen metaketak berak adineko helduen loa nahas dezakeela.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Aurkitze hauek laguntzen dute ulertzen zergatik interesatzen zaien loa ikertzaileei. Ez dute erakusten lo hobeak Alzheimerra prebenitzen duenik.
 
-## What sleep habits may help?
+## Zer lo-ohiturak izan daitezke lagungarri?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Adineko helduek gauero 7 eta 9 ordu artean lo egin behar dute, beste helduek bezala, [Zahartzeari buruzko Institutu Nazionalaren (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) arabera. Hauek dira haren gomendioetako batzuk:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Mantendu ordutegi erregularra.** Joan ohera eta jaiki egunero ordu berean, asteburuetan ere.
+- **Sortu lasaitzeko errutina bat.** Irakurri, entzun musika lasaia edo hartu bainu epel bat oheratu aurretik.
+- **Egin logela erosoa,** ez beroegi eta ez hotzegi.
+- **Mugatu kafeina egunean berandu.** Kafeak, teak, freskagarriek eta txokolateak esna eduki zaitzakete.
+- **Saihestu alkohola,** kopuru txikietan ere, NIAtik aholkatzen duten bezala.
+- **Saihestu otordu handiak oheratu aurreko bi edo hiru orduetan,** eta edari ugari egunean berandu.
+- **Egin ariketa erregularki, baina ez oheratu aurreko 3 orduetan.** Ikusi gure [ariketari buruzko gida](/brain-health/exercise/).
+- **Utzi pantailak logelatik kanpo.** NIAtik gomendatzen dute han ez ikustea telebista eta ez erabiltzea ordenagailua, telefonoa edo tableta.
+- **Saihestu arratsaldeko edo gaueko siestak,** ahal baduzu.
 
-## Sleep problems in dementia
+## Lo-arazoak dementzian
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Loaren aldaketak ohikoak dira dementzian. [NIAk zerrendatzen du](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) gehiegi edo gutxiegi lo egitea, gauean askotan esnatzea eta egunez siesta asko egitea. Iluntzeko ezinegona ere deskribatzen du: eguzkia sartu ahala hasten edo okertzen den ezinegona, urduritasuna edo nahasmena.
 
-Caregiver tips from the NIA include:
+NIAren zaintzaileentzako aholkuak hauek dira:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Hartu eguzki-argia eta mugitu goiz.** Atera kanpora edo eseri leiho ondoan egunez, eta lagundu pertsonari egunero aktibo egoten. Argi biziak gorputzaren ordularia berrezartzen lagun dezake.
+2. **Planifikatu jarduera biziagoak goizerako.** Saiatu goizean bainatzen edo eguerdian otordu nagusia egiten.
+3. **Mantendu siestak labur eta goiz.** Mugatu egunean berandu lokartzea.
+4. **Egin arratsaldea lasai.** Jaitsi argiak, murriztu zarata eta jarri musika lasaia, pertsonak gustuko badu. Gure [iluntzeko ezinegonari buruzko gidak](/caregiving/late-day-restlessness/) ideia gehiago ditu.
+5. **Mantendu oheratzeko errutina egonkorra.** NIaren adibide bat da gauero ordu berean ozen irakurtzea. [Eguneroko errutina egonkor](/activities/daily-routine/) batek ere laguntzen du.
+6. **Mugatu kafeina eta alkohola.**
+7. **Erabili gaueko argi txikiak** logelan, pasilloan eta bainugelan.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Gauean esnatzeen kasuan, NIAren [etxeko segurtasun-aholkuen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) artean daude gaueko argi txikiak edo argi-sentsore automatikoak, komunean heldulekuak jartzea, eskailera-ertzetan kolore biziko zinta jartzea eta sendagaiak itxitako leku batean gordetzea.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Arratsaldeko jarduera labur eta lasai batek biei lasaitzen lagun diezazueke. Probatu [Arnasketa Lasaia](/games/calm-breathing/) ariketa motela edo [Elkarrizketa Txartelak](/games/conversation-cards/) lasai batzuk. Saihestu ohera joan aurretik pizgarria den edozer, eta gelditu pertsonak nahikoa duenean.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Lo hautsiak zaintzaileak ere nekatzen ditu. Gure [zaintzailearen autolaguntzari buruzko gidak](/caregiving/caregiver-self-care/) atseden hartzeko eta laguntza lortzeko moduak azaltzen ditu.
 
-## What about sleep apnea?
+## Eta loaren apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Loaren apneak loaldian arnasa hartzeko etenaldi laburrak eragiten ditu, askotan gauean behin baino gehiagotan. NIAtik diote tratatzen ez bada, tentsio altua, iktusa edo memoria-galera bezalako arazoak ekar ditzakeela. Seinaleak dira zurrunga ozenak eta egunez logura izatea, eta pertsona askok ez dakite apnea dutela. Lancet Batzordeak 11 ikerketaren berrikuspen bat deskribatzen du; bertan, loaren apnea zuten pertsonek dementzia izateko arrisku % 43 inguru handiagoa zuten. Hala ere, ikerketa gutxik hartu zuten pisua kontuan; beraz, lotura ez da ziurra.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Loaren apnea diagnostikatu eta trata daiteke. NIAtik adierazten dute CPAP makinak ia beti laguntzen duela. Zuk edo zaintzen duzun pertsonak zurrunga ozenak egiten baditu, loaldian arnasa hartzeari uzten badio edo egunez logura handia badu, esan medikuari.
 
-## A note about sleep medicines
+## Loaren aurkako sendagaiei buruzko oharra
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ez dugu loaren aurkako sendagaiei edo osagarriei buruzko aholkurik ematen. NIAtik diote loaren aurkako sendagaiek denbora laburrean lagun dezaketela, baina ez direla insomnioaren sendabidea. Halaber, adierazten du Alzheimerra duten pertsonei lo egiten laguntzeko ematen zaizkien sendagai batzuek zorabio, erorketa eta nahasmen arriskua handitu dezaketela. Ez hasi, ez utzi eta ez aldatu inoiz loaren aurkako sendagairik, errezetarik gabeko lo-laguntzaileak barne, medikuarekin edo farmazialariarekin hitz egin gabe.
 
-## Talk with a doctor
+## Hitz egin medikuarekin
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Joan medikuarengana zuk edo zaintzen duzun pertsonak beti nekatuta bazaude, gau gehienetan lo egiteko arazoak badituzue, zurrunga ozenak egiten badituzue edo gauean arnasa hartzeko etenaldiak badituzue. Dementzian lo-arazoek jarraitzen badute, [NIAtik aholkatzen dute](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) medikuaren aholkua eskatzea. Azterketa batek mina, beste lo-arazoren bat, gaixotasun bat edo sendagai baten albo-ondorioa bezalako arrazoiak aurki ditzake. Bat-bateko nahasmenak, edo loaren bat-bateko aldaketa batek nahasmenarekin batera agertzeak, premiazko arreta behar du. Irakurri [noiz joan medikuarengana](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Orrialde hau informazio orokorra da, ez mediku-aholkua. Ikusi gure [mediku-oharra](/medical-disclaimer/).
