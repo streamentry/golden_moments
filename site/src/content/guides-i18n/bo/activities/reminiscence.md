@@ -1,32 +1,28 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "དྲན་སྐོལ་གྱི་ཉམས་སྤྲོ། བསམ་དྲན་སྒམ་དང་ཚེ་རབས་ཀྱི་པར་ཆ།"
+seoTitle: "བརྗེད་ནད་ཀྱི་དྲན་སྐོལ་ཉམས་སྤྲོ། འདྲི་བ་མེད་པའི་ཐབས་ལམ།"
+description: "བརྗེད་ནད་ཡོད་པའི་ཁོང་དང་འདྲི་བ་མེད་པར་དྲན་པ་མཉམ་སྤྱོད་བྱེད་ཐབས། པར་ཁ་བརྡ་དང་། བསམ་དྲན་སྒམ་དང་ཚེ་རབས་ཀྱི་དེབ་ཀྱི་ཐབས་ཚུལ། ཚིག་སྐད་ཞི་བདེ་ཐོག་ཏུ་འཚོལ་བ།"
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  དྲན་སྐོལ་ནི་པར་ཁ། རྫས་ཆ། གླུ་དབྱངས་དང་ཚེ་རབས་ཀྱི་གཏམ་བརྒྱུད་ནས་སྔོན་མའི་དུས་ཀྱི་ཉམས་སྤྲོ་མཉམ་དུ་ལེན་པ་ཡིན། དྲན་སྒམ་ཞིག་བཟོ། ཚེ་རབས་ཀྱི་དེབ་ཆུང་ངུ་ཞིག་སྒྲིག། ཡང་ན་པར་ཁ་མཉམ་དུ་བལྟ། འདྲི་བ་ནམ་ཡང་མ་བྱེད་ཅིག། “ཁྱེད་དྲན་ཡོད་དམ།” དང་ “འདི་གང་ཡིན།” ཞེས་མ་བརྗོད་པར། “འདི་ལ་ཁྱེད་ཀྱིས་གསུང་ཞིག” ལྟ་བུའི་ཁ་ཕྱོགས་ཀྱི་ཚིག་བཀོད་ཤིག། གཏམ་དགའ་བདེ་བ་ཡིན་པ་ཞིག་གི་ཚེ། གནས་ཚུལ་ངེས་པ་ཡིན་པ་ལས་ཀྱང་ཕན་ཆེ།
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "དྲན་སྐོལ་ནི་གཏམ་ཞིག་ཡིན་གྱི་བརྟག་ཞིབ་མ་ཡིན། ངེས་པ་དེ་གལ་ཆེ་མ་ཡིན། ཉམས་སྤྲོ་ཡོད་པ་དེ་གལ་ཆེ་ཆེ།"
+  - "“ཁྱེད་དྲན་ཡོད་དམ…?” དང་ “འདི་གང་ཡིན།” ཞེས་པ་དེ་ལ་བསམ་འཆར་དང་། “ཉིན་དེ་ལ་གསུང་ཞིག” ལྟ་བུའི་འདྲི་བ་བཀོད་ཤིག"
+  - "ཁོང་གི་ཚེ་ལོ་ནས་ཡིན་པའི་རྫས་ཆ་ཕྱོགས་ཤིག་གི་བསམ་དྲན་སྒམ་ནི་ལག་པ་དང་གཏམ་ལ་དམིགས་པའི་རྟེན་ཞིག་སྦྱིན།"
+  - "ཚེ་རབས་ཀྱི་དེབ་ཞིག་གིས་ཕྲུ་གུ་དང་བསྐྱོར་བ་དང་། ཉེ་འཁོར་ཁ་ཤས་ལ་ཁོང་གི་ཁོངས་སུ་མ་ཡིན་པར། ཁོང་གི་མི་ཚེ་ཡོངས་ལ་ཤེས་ཐུབ་པར་རོགས།"
+  - "དྲན་པ་ཞིག་གིས་སེམས་ཁ་སྨུག་པ་བསྐྱེད་ན། སྔོན་ལ་སེམས་ཞི་བ་སྐྱེལ་ཞིག ནེ་ནེ་དེ་ལས་ཞི་བདེ་འགྲོ་ཞིག"
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "བརྗེད་ནད་ཡོད་པའི་མི་ལ་དྲན་སྐོལ་ནི་ཅི་ཡིན།"
+    a: "དྲན་སྐོལ་ནི་པར་ཁ། རྫས་ཆ། གླུ་དབྱངས་ཡང་ན་བརྙན་ལ་སོགས་པའི་རོགས་སྐྱོར་དང་བཅས་པའི་དྲན་པ་དང་སྔོན་མའི་མྱོང་ཚུལ་མཉམ་སྤྲོད་བྱེད་པ་ཡིན། གཅིག་ལ་གཅིག་ཡང་ན་སྡེ་ཚོགས་ཀྱི་ནང་དུ་ཡོང་ཐུབ། དམིགས་ཡུལ་ནི་ཉམས་དགའ་བ་དང་དོན་ཆེན་པོ་ཡོད་པའི་གཏམ་ཞིག་ཡིན་གྱི། མི་དེས་ཅི་དྲན་ཐུབ་པ་བརྟག་པ་མ་ཡིན།"
+  - q: "ངས་ “ཁྱེད་དྲན་ཡོད་དམ།” ཞེས་འདྲི་མི་རུང་བའི་རྒྱུ་མཚན་ཅི་ཡིན།"
+    a: "དྲན་པ་བརྟག་པའི་འདྲི་བ་ནི་དྲན་མི་ཐུབ་པའི་སྐབས་སུ་མི་དེ་ལ་ཁ་ཆད་དང་སེམས་ཁམས་ཟབ་པོར་འགྱུར་ཐུབ། National Institute on Aging གིས་མི་ཞིག་ལ་ཅི་ཞིག་ཡང་ན་གང་ཞིག་དྲན་ཡོད་མེད་འདྲི་བ་ནི་བཅུག་མི་རུང་བའི་ཐ་སྙད་ཡིན་པར་བཀོད་ཡོད། དེའི་ཆ་ཤས་སུ་ཁྱེད་ཀྱིས་མཐོང་བ་ལ་བསམ་འཆར་སྤྲོད་ཅིག དེ་ནས་མི་དེས་གང་དགའ་བ་བཤད་ཐུབ་པར་སྒོ་ཕྱེ།"
+  - q: "བསམ་དྲན་སྒམ་ནང་དུ་ཅི་བཅུག་རུང་།"
+    a: "མི་ཚེའི་ནང་ནས་བདེ་བ་དང་བརྟན་པའི་རྫས་ཆ་རྣམས་འདེམས་ཤིག་ དཔེར་ན་ལས་ཀའི་རྟགས། རྩེད་རྩལ་གྱི་ཡོ་བྱད། མགུལ་རས་དགའ་བ། ཤོག་འཕྲིན། ཟས་ཀྱི་ཚུལ་ཤོག ཀླད་རྒྱན་དང་པར་ཆའི་ཡི་གེ་འདྲ་བ་ལ་སོགས་པ། ཁ་ཤས་ལྕགས་མཐོན་ཤོས་ཡང་ན་ཤིང་སྦྲེལ་ཆུང་ཚོ་དང་། འབྱུང་བ་མི་ཐུབ་པའི་ཡུལ་མ་བདེ་འགྱུར་བའི་རྫས་ཆ་ཡང་སྤོང་ཤིག"
+  - q: "ཁོང་གིས་གནས་ཚུལ་ནོར་བ་བྱུང་ན་ཅི་བྱེད།"
+    a: "དེ་ལ་བརླག་ཤིག དཔེར་ན་ཁྱེད་ཀྱི་ཨ་མ་གིས་པར་ཁ་ནང་གི་མི་ནི་ཁྱོད་ཀྱི་ཕྱི་མོ་ཡིན་ཞེས་བསམ་ཡང་། ཕྱི་མོ་ཡིན་པ་ནི་ཡང་ཁྱོད་ཀྱི་གནས་དང་འབྲེལ་བ་ཡིན། ནོར་བ་བསྒྱུར་ན་ཉམས་དགའ་བའི་སྐབས་དེ་བརྟག་པ་ལྟར་འགྱུར་བས། ཁོང་གི་བཤད་ཚུལ་ལ་འབྲེལ་ཞིག ཉམས་ཞིག་མཉམ་དུ་སྤྲོ།"
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +37,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+དྲན་སྐོལ་ནི་སྔོན་མའི་དུས་ཀྱི་ཉམས་སྤྲོ་མཉམ་དུ་ལེན་པ་ཞིག་ཡིན། བརྗེད་ནད་ཡོད་པའི་མང་པོའི་ཁ་ན་དུས་ཀྱི་ཉིན་དེ་གཟའ་འདིའི་ཉིན་ལ་ལྷག་པར་ཡིད་ལ་གསལ་པོ་ཡོད་པ་ཡིན། པར་ཁ། རྣམ་ཤེས་ཀྱི་རྫས་ཆ། གླུ་དབྱངས་དང་ཚེ་རབས་ཀྱི་གཏམ་ཀྱིས་ཁ་དུས་དེ་དག་ཕྱེ་ཐུབ། ཁྱེད་ཀྱིས་ཉམས་དགའ་བ་མཉམ་དུ་བསྐྲུན་ཐུབ། ཀུན་ནས་བཟུང་སྲིད་པའི་ཁྲིམས་ནི་གཏམ་ཡིན་ཀྱི་འདྲི་བ་མ་ཡིན་པ་ཞིག
 
-## What is reminiscence, and how is it different from quizzing?
+## དྲན་སྐོལ་ཞེས་བྱ་བ་གང་ཡིན། དེ་འདྲི་བ་ལས་ཁྱད་པར་ཅི་ཡོད།
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+དྲན་སྐོལ་ནི་པར་ཁ། རྫས་ཆ། གླུ་དབྱངས་ཡང་ན་བརྙན་ཁ་ལ་སོགས་པའི་བརྒྱུད་ནས་སྔོན་མའི་དྲན་པ་མཉམ་སྤྲོད་བྱེད་པ་ཡིན། ཁོང་གི་རང་གི་འགྲོ་སྟངས་ཀྱི་ཚད་ནས་བྱེད་དགོས། [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) གིས་དེ་ནི་པར་ཁ། རྫས་ཆ། བརྙན་ཁ་ཡང་ན་གླུ་དབྱངས་ཀྱི་རོགས་སྐྱོར་དང་བཅས་ནས་སྔོན་མའི་མྱོང་བ་དང་ཚེ་རབས་མཉམ་སྤྲོད་བྱེད་པར་བཤད་ཡོད། འདྲི་བ་ནི་ཁ་ཁྱད་པར་ཅན་ཡིན། དེས་མི་དེ་ལ་ངེས་པའི་ལན་འདོན་དགོས་པར་བྱེད་པས་ཁ་ཆད་དང་སེམས་སྡུག་པ་བསྐྱེད་ཐུབ།
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) གིས་མི་ཞིག་ལ་ཁོང་དྲན་ཡོད་མེད་ཀྱི་ཡུལ་ཞིག་ཡང་ན་མི་ཞིག་འདྲི་བ་ནི་སྤོང་དགོས་པའི་ནང་དུ་བཀོད་ཡོད། [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) གིས་ཉེ་བའི་དྲན་པ་ལ་བརྟེན་པའི་འདྲི་བ་སྤོང་ཞིང་། ཐག་རིང་བའི་སྔོན་མ་ལ་གཏམ་བྱེད་པར་བཤད་ཡོད།
 
-| Instead of | Try |
+| མི་འོས་པའི་ཚིག | འདི་ལྟར་བརྗོད་ཤིག |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “ཁྱེད་ཀྱིས་འདི་དྲན་ཡོད་དམ།” | “ཉིན་དེ་བདེ་བ་ཞིག་ལྟར་སྣང་། ཁྱེད་ཀྱིས་དེ་ལ་གསུང་ཞིག” |
+| “འདི་གང་ཡིན།” | “འདི་ནི་སྐྱེས་མཚུངས་ཨ་ནེ་རོཟ་ཁ་སྐམ་ཡུལ་ལ་ཡོད་པ་ཡིན། མགོ་ཐོད་འདི་ལ་ལྟ་ཤིག” |
+| “འདི་ལོ་ནམ་ཡིན་ནམ།” | “འདི་ནི་རྙིང་པའི་ཁྱིམ་ཡིན་ཟེར། ཁྱེད་ཀྱིས་དེར་སྡོད་པ་ཅི་འདྲ་ཡིན་པ་གསུང་ཞིག” |
+| “མ་ཡིན། དེ་ནི་བིལ་མ་ཡིན་ཀྱི་ཕྲང་ཡིན།” | “ཁོང་ཤིན་ཏུ་སྐྱིད་པོ་ཡོད་པ་ཡིན་ནོ།” |
+| “ཁྱེད་ཀྱིས་དེ་སྔ་ནས་བཤད་ཟིན།” | “ངས་ཚེ་རབས་དེ་ཤིན་ཏུ་དགའ།” |
 
-## How do you talk about photos without quizzing?
+## པར་ཁ་ལ་འདྲི་བ་མེད་པར་གཏམ་བྱེད་ཚུལ།
 
-Lead with what you see, then leave room for the person to add something if they wish.
+ཁྱེད་ཀྱིས་མཐོང་བ་ལས་སྔོན་དུ་བཤད། ཁྱེད་ཡང་ན་ཁོང་ཡང་སྣུམ་ཚན་ཞིག་ཟེར་ཞིང་།
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **གཅིག་ཁར་འདུག་ཤིག** ཁྱེད་ཀྱིས་ཤོག་བྱང་ལ་གཅིག་གཞན་ལ་བལྟས་ནས་ཁོང་ལ་འདྲི་བ་ཞིག་སྤྲོད་མི་དགོས།
+2. **པར་ཁ་ཁ་ཤས་འདེམས་ཤིག** པར་ཁ་ལྔ་ནི་སྒམ་ཆེན་ཡོད་པ་ལས་ལྷག་ཏུ་ཡོད། ཤིང་ཆེ་ཞིང་གསལ་པོའི་པར་ཁ་ལ་ཕན་ཆེ།
+3. **མི་དེ་ཁྱེད་ཀྱིས་ཡོང་བ་བཤད་ཤིག** “འདི་ནི་ཁྱེད་དང་ཕ་བོས་བཟའ་ཁང་ཉིན་དེ་ལ་ཡོད་པ་ཡིན།” ཞེས་བཤད་ན་གནོད་སྐྱོན་མེད་པར་སྣང་།
+4. **ཡན་ལག་ཁ་ཤས་ལ་བསམ་བཞིན་བཤད་ཤིག** ཡོ་བྱད་ལྟ་བུའི་ཁ་བྱང་ཁྲིམ་གཟུགས། ཤིང་དང་། ཟས། གནམ་གཤིས་ལ་སོགས་པ། “ཤིང་འདི་རྡོ་རྡོ་ཡོད་པ་མཐོང་། ཤིན་ཏུ་གསལ་ཡོད།”
+5. **བསྐུལ་ཞིང་ཁེངས་མ་བྱེད་ཤིག** “ཁྱེད་ཀྱིས་… གསུང་ཞིག།” ཡང་ན་“ཁྱེད་ཀྱིས་ཅི་མཐོང་།” ཞེས་འདྲི། འཕྲལ་ཁ་སྐྱེད་མ་བྱུང་ན་ཡང་ངན་པ་མ་ཡིན།
+6. **ཁོང་གི་ཕྱོགས་ལ་བརྟེན་ཤིག** ཁོང་ཅི་ཡང་མ་འདྲ་བའི་གཏམ་ཞིག་འགྲོ་ན་དེའི་རྗེས་སུ་ཕྱིན།
+7. **ཉམས་དགའ་ཡོད་ཚེ་བཅད་ཤིག** ཁོང་ཤིན་ཏུ་ངལ་བའི་ཡུད་ཚོད་མ་ཐག་པའི་སྔོན་ཁྱབ་ཤིག
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+སྟེགས་བུ་མངོན་ཀ་ཡོད་པའི་པར་ཁ་ཁྱེད་ཀྱིས་ལག་ཁྱེར་དུ་ཡོད་པ་ལ། [གཏམ་ཀྱི་སྐོར་པ་ཆ](/games/conversation-cards/) བལྟ་ཤིག གང་ཡང་རང་གི་མི་རིགས་ཀྱི་པར་ཁ་ལ་ཁ་སྐོང་བྱེད་པའི་ནང་མཚུངས་རྩེད་མོ་ཞིག་ཡང་བྱེད་ཐུབ། [པར་ཁ་ཅིག་བཟོས་ཤིག](/games/photo-pairs/) ཁྱེད་ཀྱིས་འདེམས་པའི་པར་ཁ་རྣམས་ཁྱེད་ཀྱི་ཤོག་ལྷམ་ལ་གནས་སོ།
 
-## How do you make a memory box?
+## བསམ་དྲན་སྒམ་ཞིག་ཇི་ལྟར་བཟོ་ཚུལ།
 
-A memory box is a container of objects from the person's life to handle and talk about.
+བསམ་དྲན་སྒམ་ནི་ཁོང་གི་མི་ཚེའི་རྫས་ཆ་ཁ་ཤས་བསྡུས་པའི་སྒམ་ཞིག་ཡིན། དེ་ལ་ལག་ལེན་བྱེད་ཅིང་གཏམ་བྱེད་པར་ཡིན།
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **སྒམ་བརྟན་པ་ཞིག་འདེམས།** ཁ་སྒོ་ལེགས་སུ་ཕྱེ་ཐུབ་པ། དཔེར་ན་ཤུ་ཕྲན་སྒམ། ཅོད་པན་སྒམ། ཡང་ན་ཤིང་སྒམ་ཆུང་ལ་སོགས་པ།
+2. **བརྗོད་བྱ་ཡང་ན་སྣ་ཚོགས་འདེམས།** ལས་ཀ། རྩེད་རྩལ། གནས་ཡུལ། ལོ་བཅུ་ཞིག་གི་ནང་མི་ཚེ། ཡང་ན་ཆ་མཉམ་གྱི་ཚུལ།
+3. **རྫས་ཆ་བདེ་བ་ཞིག་སྡུད།** ཁ་གྲངས་ལྔ་བཅུ་བཞི་ཡོད་ན་ལེགས་སོ།
+4. **རིན་ཐང་ཆེ་བའི་རྫས་ཆ་གི་པར་ཡོད་ན་ཁ་ཤས་བསྐྲུན་ཤིག** ཆ་མེད་པའི་པར་ཡིག་ཆ་གི་འདྲ་བ་ཞིག་བཟོ་ཞིང་བདག་ཤུལ་ཆེ་བ་ཉར་ཤིག
+5. **རྫས་ཆ་གཅིག་ཅིག་ནས་ཕྱིར་འབུད་ཅིག** གཅིག་འཐེན་ནས་ཁོང་ལ་སྤྲོད། ཅི་ཞིག་གསུང་། གཏམ་གང་ཐོན་པ་བལྟ།
 
-Ideas to include:
+བསྡུས་པའི་རིགས་ཁ་ཤས།
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **ལས་ཀ།** མིང་ཚིགས་ཀྱི་རྟགས། ལག་ཆ་ཆུང་ཀུ། ལས་ཀའི་ཁ་ཡིག། གླེང་དེབ་ཀྱི་ཤོག་རྟགས།
+- **ཁྱིམ་ཚང་།** ཁོང་ཀྱི་ལག་བྲིས་ཀྱི་ཟས་ཀྱི་ཤོག་རྟགས། ཁ་ཕྱེ་རས། མགུལ་རས་ཡང་ན་ཐོད་ཡུ།
+- **རྩེད་རྩལ་དང་དགའ་བ།** ཉ་འཛིན་གྱི་ཚིགས་ལ་ཡོད་པ་མ་ཡིན་པ། ཤིང་བཅིང་ཀྱི་རྡོ། དཔྱིད་ཀྱི་ཤིང་སྨན། ཤོག་བུའི་ཁ་ཡིག།
+- **ས་ཆ།** ཤོག་ཁ་ཡིག། ས་ཁ། ཁྱེད་རང་གི་ཡུལ་གྱི་གླེང་གཞི་ཤོག་ཤུལ།
+- **མི་རིགས།** པར་ཁ་འདྲ་བ། བུ་ཆུང་གི་རི་མོ། མགྲོན་ཁྱེད་ཀྱི་ཡིག་ཆ།
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+ཁ་གདོང་ཆེ་བ་ཡོད་པའི་རྫས་ཆ། ཟ་ན་ཟོས་ཆེན་གཟུགས་ལྟ་བུ་ཆུང་ཀུའི་རྫས། དང་ཡང་ངོ་མཚར་ཟེར་བའི་ཁ་བྱང་ཁ་ཤས་སྤོང་ཤིག་འདོད་ན་གནས་ནས་བཞག།
 
-## How do you make a life-story book?
+## ཚེ་རབས་ཀྱི་དེབ་ཞིག་ཇི་ལྟར་བཟོ་ཚུལ།
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+ཚེ་རབས་ཀྱི་དེབ་ནི་ཁོང་གི་མི་ཚེའི་པར་ཁ་དང་ཡིག་ཚིག་ཆུང་ངུ་མཉམ་པའི་ཁ་བཀོད་ཞིག་ཡིན། དེ་ནི་མཉམ་དུ་བལྟ་ཐུབ་པ་ཞིག་ཡིན། དེས་ཉེ་འཁོར་བ་དང་ཁྲི་པ་ལ་ཁོང་གི་ཡོངས་ཚུལ་ལ་བལྟ་ཐུབ་པར་ཕན།
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **དཔེ་གཟུགས་འདེམས།** སྒམ་ཁ་ཡོད་པའི་ཤོག་ལྷམ་གྱི་ཁ་ཡིག། པར་དེབ་པར་ཆ། ཡང་ན་ལག་ཐོགས་ཀྱི་སྟོན་བརྙན་ཞིག།
+2. **གནས་ཚད་ཁ་ཤས་སྒྲིག** བྱིས་པའི་དུས། སློབ་གྲྭ། ལས་ཀ། མི་རིགས། སྡོད་ཡུལ། ཆོས་ལུགས། རྩེད་རྩལ། ཟས་དང་གླུ་དབྱངས་ལ་སོགས་པ།
+3. **ཤོག་ཤོག་ལ་པར་ཁ་གཅིག་གམ་གཉིས་བཀོད་ཅིག** ཡིག་ཚིག་ཆུང་ངུ་ཞིག་ཡིག་འབྲུ་ཆེ་བའི་ཚུལ་གྱིས། “མེ་རི་ཁྱིམ་ཚོགས་ནས་ལོ་ཉི་ཤུ་ཡིན་པ་ན་སྡེ་ཁང་ལ་ལས་ཀ་ལ་འགོ་བཙུགས།”
+4. **དགའ་ཚུལ་དང་ཚུལ་ཁྲིམས་བཀོད།** “ཇ་ནང་བདེ་ཚུལ་ལ་ཟོས། ཉིན་གཟའ་ཟླ་བའི་ཆོས་གླུ་ལ་དགའ། གླུ་ཆེ་བའི་ཁ་བོད་ལ་མི་དགའ།” དེས་ཁོང་ལ་ཞིབ་འཇུག་བྱེད་མཁན་ཡོངས་ལ་ཕན།
+5. **ཁོང་ཉིད་ཀྱི་འདོད་ཚུལ་ཆ་ཚང་ནས་ཞུགས་ཤིག** ཁོང་གིས་པར་ཁ་འདེམས་པ། གཏམ་བཤད་པ། ཡང་ན་མཉམ་དུ་ལྟ་བ་སོགས་ཁོང་དགའ་བ་ཙམ་དུ།
+6. **རྒྱུན་དུ་སྣོན་ཤིག** ཆ་ཚང་ནས་མ་ཐུག་ཀྱང་ཕན་པ་ཡོད།
 
-## More reminiscence ideas
+## དྲན་སྐོལ་གྱི་ཐབས་ལམ་གཞན་དག
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **སྔོན་ཆད་ཀྱི་གླུ་དབྱངས་ཀྱི་སྒྲ་སྒྲིག་ཞིག་གཏོང་ཞིང་། ཁོང་སེམས་ལ་ཇི་ལྟར་ཁ་ཕྱེ་བའི་གཏམ་བྱེད།** [གླུ་དབྱངས་ཀྱི་ལས་ཁུངས](/activities/music/) བལྟ་ཤིག
+- **རྒྱལ་ཁབ་ཀྱི་ཞིང་ཁྲོད་ཀྱི་བརྙན་ཡང་ན་ཁྲོ་ཁ་ནང་གི་ཡུལ་ཚེ་རབས་བལྟ།**
+- **ཁ་ཚོད་མི་ཡ་མཚན་ཞིག་ཟོས་ཤིག** དེའི་དྲི་ཞིམ་ལ་གཏམ་བྱེད་པའི་གཏམ་འགྱོ་བ་ཡིན།
+- **ཁོང་གི་ཡུལ་ཤུལ་ཀྱི་ས་ཁ་ལ་བལྟ་ཞིང་ཤུལ་ཤུལ་ལམ་ཁ་ལ་མཐོང་ཤིག**
+- **རྙིང་པའི་ཆོང་ཤོག་ཡང་ན་གསར་གླེང་ཤོག་ལ་ལྟ་ཞིང་། རིན་ཐང་། ལུགས་སྟངས་དང་ཐོག་ཁ་ཅི་འདྲ་ཡོད་པ་གཏམ་བྱེད།**
+- **ཁོང་གི་གསུང་རྟོགས་ཁ་བྱང་ཞིག་བསྐྱར་ཉར་བྱེད།** ཁོང་གི་ཤད་བསྐྱོད་ཀྱིས་གནས་ཐོག་དང་ཁྱིམ་ཚང་ལ་ཕན་པའི་ཐོག་ལ་ཉར་ཤིག
+- **སྐད་འབོད་ནང་ལ་པར་ཁ་གཅིག་ཡོད་དུས་བསྟན་ཤིག** བརྙན་འཕྲིན་ནང་པར་ཁ་གཅིག་མཐོང་ཐུབ་པར་ཕུལ། [ཁ་པར་ཀྱི་སྐད་འབོད་](/activities/phone-and-video-calls/) བལྟ་ཤིག
+- **ཁྱེད་ཀྱིས་ཕྱིར་འགྲོ་བའི་སྐབས་ཤིག་གི་པར་ཁ་ཡང་ན་རྫས་ཆ་ཞིག་ཁྱེར་ཤིག** དེས་མཇལ་འཕྲད་ལ་ཁ་ཕྱེ་ཚུལ་གཅིག་སྦྱིན། [མཇལ་འཕྲད་](/activities/visiting/) བལྟ་ཤིག
 
-## What if a memory is painful?
+## དྲན་པ་ཞིག་སེམས་ཁ་སྨུག་པ་ཡིན་ན་ཅི་བྱེད།
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+དྲན་པ་ཁ་ཤས་ནི་སྐྱོ་སྐྲག་དང་། སྐྱེ་བོ་ཁ་ཤས་ཀྱིས་སེམས་ནུབ་པ་སྐྱེད་ཐུབ། ཁོང་ཁྲོ་བ་ཡང་ན་སེམས་འཇིགས་པ་བྱུང་ན། ཞིག་སྟེགས་ནས་ཞི་བདེ་བྱེད། ཁོང་ལ་སྐྱོན་ཚུལ་ཡང་ན་ཚེ་རབས་ཀྱི་གཏམ་མེད་པར་བསྒྱུར། ཅི་བྱུང་བ་ལ་རྩོད་ཅིག་མ་བྱེད། Family Caregiver Alliance གིས་མི་ཞིག་ལ་ཁོང་ནོར་བ་ཡིན་ཞེས་ངེས་གཏན་གྱི་གསུང་རྒྱུ་ལ་འགོག་ཅིང་། ཁོང་གིས་བསྟན་པའི་སེམས་ཚོར་ལ་ལན་བཏབ་པར་བཤད་ཡོད། ཁོང་གིས་ཤི་བ་ཤོང་ཡོད་པའི་མི་ཞིག་ཡོད་པ་ལྟར་གཏམ་བྱེད་ན། སེམས་ཚོར་ལ་ལན་བཏབ་ཤིག “ཁྱེད་ཀྱིས་ཁོང་ལ་བསམ་སྐུམ་ཡོད། ཁོང་གི་ཐད་ཀྱི་གསུང་ཞིག།”
 
-## What does the research say?
+## ཞིབ་འཇུག་གིས་ཅི་སྨྲས།
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[དྲན་སྐོལ་ཀྱི་Cochrane ཞིབ་འཇུག](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) ལ་ཞིབ་འཇུག་ཚུལ་ཁ་ཤས་དང་མི་ ༡,༩༧༢ ལ་ཁྱབ་ཡོད། ཁོང་གིས་འབྲས་བུ་རྒྱུན་མི་ལྡན། ཆུང་ལ་སྡུད་སྟངས་དང་ས་ཆ་ལ་བརྟེན་ནས་ཁྱད་པར་ཡོད་པར་གསལ། མི་ལ་གནོད་པའི་དཔྱད་ཚུལ་མེད་པར་གསལ། ང་ཚོས་དྲན་སྐོལ་བཤད་པ་ནི་སྐྱིད་པོ་དང་དོན་ཆེན་པོའི་དུས་ཚོད་མཉམ་དུ་ཡོད་ཐུབ་པའི་ཕྱིར་ཡིན། འཆི་གསོ་བྱེད་ཐབས་ཞིག་ཡིན་པར་མ་ཡིན། གཏམ་བྱེད་ཚུལ་ཤིན་ཏུ་སླ་བ་ལ་ཞིབ་ཆ་དགོས་ན་ [གཏམ་བྱེད་ཀྱི་ཞལ་འདོན་](/caregiving/communication-tips/) བལྟ་ཤིག

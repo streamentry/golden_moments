@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gratis na Aktibidåt para Imprimi gi Demensia"
+seoTitle: "Gratis na Aktibidåt para Imprimi gi Demensia: Dankolo na Letra"
+description: "Gratis na aktibidåt para imprimi gi demensia: tinige' palabras na dankolo na letra, kulot, kåttan kumbetsasion, bingo ni imahen, yan tinituhon para maimprimi ni maolek."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments nina'ofresi gratis na aktibidåt para imprimi gi demensia: tinige'
+  palabras na dankolo na letra, kulot, kåttan kumbetsasion yan bingo ni imahen.
+  Hu'ånao bai hu lalasa kualkuiera na pahina ya usa i botón Imprimi. Imprimi gi
+  dankolo ya ma'ålang na letra gi papet ni grueso, ya kada pahina hafa uno na
+  tatiyi. Ma'lamina i pahina ni ha'ånao hu usa ta'lo. Taiguennao na imprimi siha
+  ni fihu, kutturan, pat hilo' i tiempo, ti guaha bali ayuda.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "I aktibidåt imprimi siha gratis: Tinige' Palabras, Kulot, Kåttan Kumbetsasion yan Bingo ni Imahen. Kada pahina ham ma'gå' i botón Imprimi."
+  - "Imprimi gi dankolo ya ma'ålang na letra yan fuette na kuton, ya kada pahina hafa uno na tatiyi."
+  - "Papet ni grueso pat kartulina ma'fasil para mahånao ya ti fásil malagu'. Ma'lamina i pahina para ma'usa ta'lo yan marker na ti ma'bura."
+  - "Imprimi ni hagas hit, ta'lo i pahina ni hinasso' i lina'la', i tiempon kada dia pat i letreru gi pulotan para ma'fasil."
+  - "Pahina ni ma'imprimi na'na' gi'eyayu, ti tatiyi. Mañe'lu pat ti mañe'lu, maolek."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Gratis ha' i aktibidåt para imprimi gi demensia?"
+    a: "Hunggan. I Tinige' Palabras, Kulot, Kåttan Kumbetsasion yan Bingo ni Imahen na pahina gi este na website gratis para usa yan imprimi. Hu'ånao i pahina ni dinanña' yan usa i botón Imprimi."
+  - q: "Hafa i aktibidåt imprimi ni mas maolek para demensia?"
+    a: "I mas maolek na imprimi mañe'lu, klaru, ya para adulto: tinige' palabras na dankolo na letra gi tinacho' yan gi tilaiyan, kulot ni klaru na lineas, kåttan imahen ni manhahasso' kumbetsasion, yan bingo ni imahen para grupu. Ina'annok i aktibidat i interes yan kapasidåt i taotao ya kada pahina hafa uno na tatiyi."
+  - q: "Kómo ha' ma'fasil i imprimi para mahalom yan usa?"
+    a: "Usa dankolo, ma'ålang na letra, tinta na mamaolek gi papet na kulot pat krema, yan gaige na espasio. Imprimi gi papet ni grueso pat kartulina para ti malisto i pahina, ya usa papet ni ti makilek para ti mahasso' i kilu'. Usa tabla pat alfombra ni ti malagu' para ti muebe i pahina. I lamina ha ayuda ni para ma'tulaika."
+  - q: "Siña hu imprimi i aktibidat-ta para gi lugat kuidao pat programa ni tiempo?"
+    a: "Hunggan. Ma'fanaisa i stafi ni aktibidat ni para u imprimi i pahina-ta para residentes yan grupu. I Bingo ni Imahen mafanagan para grupu ya guaha i tinituhon na tumatawag gi ekran ni siña hu ha'lalaknos gi TV pat proyekto."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Sigi na i mejot na aktibidat guini' na papel yan lapis gi lamesa gi kusina. I imprimi ti nisisita karga, password pat ekran, ya fásil mahalom para visita pat grupu. Este na pahina tinilaika i gratis na aktibidåt imprimi gi nuestra na website, kómo ma'imprimi ni maolek para fásil mahalom yan hu'ånao, yan siha imprimi ginen kasa ni mañe'lu ni familia yan stafi ni aktibidat ha usa.
 
-## What free printable activities do you offer?
+## Hafa i gratis na aktibidåt imprimi ni nina'ofresi ham?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Kuatro i gratis na imprimi ni nina'ofresi ham. Hu'ånao kualkuiera ni pahina-hit yan usa i botón **Imprimi** para kumplitu i bersion ni fásil ma'imprimi.
 
-| Printable | What it is | Good for |
+| Imprimi | Hafa este | Ma'pos para |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Tinige' Palabras](/games/word-search/) | Tinige' palabras na dankolo na letra, ya i palabras ginen tinacho' yan gi tilaiyan solamente | Tiempo kuiteru yan pluma; taotao ni ma'gusto i puzzle |
+| [Kulot](/games/coloring/) | Pahina para kulot ni ma'imprimi, pat para kulot gi ekran | Tiempo ni manhålom yan kreatibu; kualkuiera na stage ni guaha ayuda |
+| [Kåttan Kumbetsasion](/games/conversation-cards/) | Kåttan imahen ni guaha na mahalom na kumbetsasion ni ti preguntan kuiz, ginen tema | Visita, tilifon, almusåno familia, grupon rikuerdo |
+| [Bingo ni Imahen](/games/picture-bingo/) | Kåttan bingo ni imahen ni tinilaika numiru, yan tinituhon gi ekran | Lugat kuidao, programa ni tiempo, reunion familia |
 
-### Large-print word search
+### Tinige' palabras na dankolo na letra
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+I [Tinige' Palabras](/games/word-search/) guaha dankolo na letra ya i palabras ginen tinacho' yan gi tilaiyan solamente, ti guaha dayagonat pat palabras ni ma'tagu' atras. Chumuchule' yan i taotao: usa na pesona ha lalaknos i palabras gi lista, i otro ha tatinige'. Sino mas difisin tumige' palabras, sakkan tinilaika i primet letra kada palabras, pat lalaknos ya gi'ilek i lista i palabras ya nå'an ginen kada usa.
 
-### Coloring pages
+### Pahina para kulot
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+I [Kulot](/games/coloring/) siña imprimi para marker pat lapis na kolot, pat kulotan gi tablet ni mamuno' kolot, ya dispues i pattes gi imahen. Para pahina ni ma'imprimi, nina'ofresi marker na grueso ya uno pat dos kolot kada tiempo. Ha'lo' i [gaseta arte yan manufaktura](/activities/arts-and-crafts/) para lugat ni ma'usa kulot gi manhålom yan adulto.
 
-### Conversation cards
+### Kåttan kumbetsasion
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+I [Kåttan Kumbetsasion](/games/conversation-cards/) ha tuge' i imahen ni klaru yan un prompt ni hålom, kumu "Na'lalaknos yo' hao..." pat "Hafa nina'ma'ta?" Mañe'lu mañe'håmyo na imbitasion, ti pregunta kuiz. Imprimi un set, kotta i kåttan, ya gumuardan sumen gi bolsa para visita pat gi sinot tilifon para tilifon. Mañe'lu siha guini gi grupon [rikuerdo](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kåttan bingo ni imahen
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+I [Bingo ni Imahen](/games/picture-bingo/) kåttan ha usa imahen ya ti numiru. Imprimi un kåttan para kada manhuma'ga, ya usa i tinituhon gi ekran gi laptop, TV pat proyektor. Ha sugiere na ma'tatawag asta ma'fanhenchi kåttan todos, ya ti guaha malagu'. Lalaknos i [aktibidat grupu para lugat kuidao](/activities/care-home-groups/) para kumu u tinilaika un sesion.
 
-## How do I print activities so they are easy to use?
+## Kómo hu imprimi i aktibidat ya fásil usa?
 
-Small changes in how you print make a big difference.
+Mamalaʼi na tinilaika gi kumu imprimi ha fa'na'maolek.
 
-### Make it easy to see
+### Fásil mahalom
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Dankolo, ma'ålang na letra.** Usa i mas dankolo na setting ni taiguini gi pahina. Ti usa letra ni makonfusu pat letra skrit.
+- **Fuetti na kontraste.** Tinta ni ma'ålang gi papet ni blanku pat krema. Ti usa kolot ni makeskes pat fondo ni kulan.
+- **Papet ni matte** ha ayuda ni ti ma'hålom i lisin gi lampa.
+- **Chule' i lentes yan lås.** I Alzheimer's Association ha sangan na i problemas gi lalaknos yan hinengge siña ha machangge i kumunikasion, ya ha sugiere na chumule' regularmente. Un lampa ni ma'ålang yan parehu ha ayuda.
 
-### Make it easy to hold
+### Fásil mahålom
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Papet ni grueso pat kartulina** ha fa'sossegu i pahina, fásil ma'agang, ya ha aguanta ni ma'usa siempre.
+- **Un tabla** pat plasemat ni ti malagu' ha fa'hasso' i pahina ti ma'fanhulas.
+- **Marker na grueso pat lapis ni ma'ålang** fásil mahålom kumpara ti luma'ya.
 
-### Make it reusable
+### Fásil ma'usa ta'lo
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Ma'lamina i pahina** pat sumabi gi sobre ni klaru. Usa marker na ti ma'bura gi tinige' palabras yan kåttan bingo, dispues ha lingkok.
+- **Chule' bolsa ni matte** kumu lisin ni kumon guaha, ya **ma'gumutbo i kanton** kåttan ni malaminan ginen tisera para komodu ma'agang.
+- **Ma'tuge' un file** gi favorito-hu para ti mapuprinta i mismo pahina kada simåna.
 
-### Keep it simple
+### Ma'fanmaolek
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Uno na tatiyi kada pahina.** Uno na tinige' palabras pat uno na imahen, ti mañe'lu na aktibidåt ni mafana' hålom.
+- **Gaige na espasio blanku.** Un pahina ni makonfusu siña ha machangge.
+- **Ti guaha instruksion ni tiniliyi, kuanto siña.** Ensåna i taotao i kosa ni para hu hasi.
+- **Hagas i papet ki'ki'.** Kumu sumen dankolo i pahina, gupu i pahina pat fanfeldas para guaha i paggot ha li'e'.
 
-## Other useful printables you can make at home
+## Otro na imprimi ni maolek ni siña hu hasi gi kasa
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ti i mismo guaha imprimi ni ma'na'maolek ni hu juga. Este mañe'lu para hu hasi yan programan prosesamiento yan impreta.
 
-### A life-story page
+### Un pahina ni istoria-hu
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Un pahina "pot hami" ni guaha imahen, i nåmbre ni ma'ganao i taotao ni ma'nå'an, hafa i lugat ni ha'rihi, i tinaegu-na, familia, kumidan fabutu, musika yan i ma'ayuda pat ma'fa'tristi. I Dementia Australia ha sugiere un [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ni guaha detalyo gi i vidan i taotao, i gustu-na yan i importanti na mañe'lu, para ayuda i visitånti yan i kuidadot ya para fanhålom i kumunikasion.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Mas dinanña' gi hospital yan lugat kuidao ni mañe'lu. I NIA ha rekomenda na u na'i stafi hospital un [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ni guaha i rutina i taotao, nåmbre ni ma'ganao, gustu yan disgustu, posible na triggers, yan senåles ti ma'såsaga ni dolu.
 
-### A daily schedule
+### Un horario kada dia
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Un dankolo, fásil na horario para i dia yan tiempo yan kuåtro pat lima palabras yan un ki'ki'-na imahen para kada parte: alamosåno, lakkat, almusåno, deskanso, musika, kenan. I [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ni Alzheimer's Association ha sugiere na planeha ginen i mejores tiempo i taotao, ni regular na tiempo para uma'ati yan para tumaitai, yan bålansi entre aktibidat yan deskanso. Pega gi nibel mata-hu, sigi gi nevera, ya guaha flekshibilidat. Lalaknos i [gaiya rutina diario](/activities/daily-routine/) para mas.
 
-### Picture labels for rooms and drawers
+### Imahen labels para kuarto yan kajon
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+I NIA ha sugiere na usa siñåt ni ma'å'a'ese na kolot pat simple na imahen para [ma'label i banu, kuarto yan kusina](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Parehu na idea para kajon yan kabinet: imahen ni medyas gi kajon ni medyas, tasa gi kabinet ni tasa. Imprimi, lamina, ya tape gi lugat.
 
-### A sorting set
+### Un set ni sosotta
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Imprimi imahen ginen dos simple na kategoria, kumu fruta yan lulu pat herramienta yan kosas kusina, gi papet ni kartulina. Kotta ya sosotta yan i tinituhon gi dos bason. I bersion gi ekran nu esti na aktibidat i [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Papet ni letra musika
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Imprimi i letra ni sembalu na musika gi dankolo na letra para un sing-along. Sigi i taotao ni ti maså' lalaknos siña ha gusto humuyong i papet.
 
-### A family photo page
+### Pahina ni retrato familia
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Un pahina ni kuåtro pat sais dankolo na retrato familia, kada usa guaha nånan nåmbre gi bahu. Siña un lamesa para mahålom pat mapiki' ni todu. I label ha ayuda i visitånti yan stafi para u komparti i kumberesasion, ya ti guaha nisisita aksa "Hayi este?"
 
-### A recipe card
+### Kåtta ni resetan
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Imprimi un resetan familia ni ma'ganao gi dankolo na letra. Usa para kumuke' hamyo, pat simpre para hålom hafa i kumidan gi pasådo.
 
-## How do I offer a printable without it feeling like homework?
+## Kómo hu ofresi un imprimi sin ma'hålom kumu tatiyi?
 
-Present it as something to share, not a test.
+Prisenta i imprimi kumu kosa para komparti, ti kumu eksamen.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Sumentao ya kumomenisa hao mismo.** "Ha'lo' yo' este na tinige' palabras. Hånao bai hu ayuda yo' para hu fanmanilaika 'garden'?"
+- **Chumuchule'.** Ma'turno, pat usa tumige' ya i otro ha circle.
+- **Ti ma'na' kualkuiera ni maolek pat malo.** I gaiya Alzheimer's Association guia ni [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ha sugiere na chuli' i fino'-na i proseso, ti i resulta, ya i dibetsión, ti i logro.
+- **Å'å'ak pahina.** I mismo guia ha sugiere na pone i scrapbooks, album retrato pat magasin ni mas såga gi lugat ni fásil nåfanu. I kåttan imprimi yan pahina retrato siña gi mesa-tilaiyan gi mismo na manera.
+- **Para kualkuiera tiempo nu hågu.** Mitad na pahina kulot guaha un maolek na aftetnon. Parehu i mamumuno'na pahina ya umonra un tasa ti.
 
-## Where to find more
+## Gi mas ni ma'fanuchan
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Chule' todu i [dinanña' yan imprimi](/games/), pat hålom i [aktibidat para kada stage](/activities/ideas/) para mas idea, ni guaha pat ti guaha papet.

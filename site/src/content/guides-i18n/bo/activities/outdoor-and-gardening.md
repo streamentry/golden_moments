@@ -1,32 +1,28 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "བརྗེད་ནོར་ནད་ཀྱི་མི་ལ་ཕྱི་རོལ་དང་ཞིང་ཚལ་གྱི་ལས་ཀ"
+seoTitle: "བརྗེད་ནོར་ནད་ལ་ཞིང་ཚལ་དང་ཕྱི་རོལ་གྱི་ལས་ཀ"
+description: "བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མི་ལ་ཞིང་ཚལ་དང་ཕྱི་རོལ་གྱི་ལས་ཀའི་འདེམས་ཚུལ། ཤིང་ཁུང་དང་ཟོན་ཆུང་ཀྱི་ཞིང་ཚལ། ཚ་ཤུགས་ཉི་ཟེར་དང་འགྱོ་འཕྲོད་ཀྱི་ཉེན་ཁ་ལ་ཞིབ་ཚགས།"
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མི་ལ་ཞིང་ཚལ་གྱི་ལས་ཀ་དང་ཕྱི་རོལ་ཏུ་དུས་ཚོད་བསྒྱུར་བ་ནི་ཞི་བདེ་དང་ཤེས་པའི་ལས་ཀ་ཞིག་ཡིན་ཐུབ། ཆུ་ཆུ་བསྐྱུར་བ་དང་རྩྭ་ཐང་གི་རོ་ཚ་བཙུགས་པ། མེ་ཏོག་གི་མགོ་བཅད་པ་ཡང་ན་ཤིང་ཁུང་གི་སྟེང་ནས་ཆུང་ཀུ་ཞིག་འགྲོ་བ་སོགས་བཅོས་ཆོག ཤིང་ཁུང་མཐོ་བ་ཡང་ན་ཤོག་ཁྲི་ཞིག་བསྐྱར་ནས་སྐུ་མདུན་མ་ལྷུང་བ་ལ་ཞིབ་ཚགས་གནང་། རྣོ་ཆས་དང་སྡུག་ཤིང་དང་ཚོད་ཀྱི་ཤིང་རྩྭ་ལ་འདེད་ཐབས་ཆོད། ཉི་ཟེར་གྱི་ཚོད་ཆེ་བ་ལས་ཐབས་ཤེས་པ་དང་། དུས་ཆེན་པོ་ལ་སྔོན་ཤོས་ཡང་ན་མཇུག་ཏུ་ཕྱིར་འཐེན་ཞིག་གནང་། ཡང་བསྐྱར་རྟག་ཏུ་མི་དེ་དང་ཅིག་ཁར་ཡོད་པར་བྱེད་དགོས།
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "ཆུ་ཆུ་བསྐྱུར་བ། ས་བོན་སྦྱང་བ། རོ་ཚ་དྲི་ཞིམ་གྱི་རོ་ཚ་ཟིན་པ་དང་མེ་ཏོག་བཅད་པ་སོགས་ནི་ལངས་ཏེ་ཡང་ན་སྡོད་ནས་བྱེད་ཆོག་པ་ཡིན།"
+  - "ཤིང་ཁུང་མཐོ་བ། ཟོན་ཆུང་དང་ཤིང་ཁུང་གི་སྟེང་གི་ཁང་ཁྲི་ནི་ཞིང་ཚལ་ཁ་ཆུ་ཚུན་ཆད་ཀྱི་མཐོ་ཚད་ལ་བཀོད་ནས་ལྷུང་ཉེན་ཆུང་བར་བྱེད།"
+  - "རྣོ་ཆས་ཁ་ཤས་དང་། སྡུག་ཤིང་ཡང་ན་ལུས་སྐྲག་བྱེད་པའི་རྩྭ་ཤིང་དང་། ནུས་པའི་ཡི་གེ་ཚོ་ལ་འདེད་ཐབས་ཆོད། ས་ཞིང་ཟས་ཡིན་ནོ་སྙམ་ནས་མི་ཁེངས་པ་ཡོད་མེད་ལ་བལྟ་དགོས།"
+  - "ཚ་ཤུགས་ནི་ཆེ་བའི་དུས་ཀྱི་མི་ཚོར་ཉེན་ཁ་ཡོད་ཐུབ། སྐྱེས་རབས་ཆེ་བའི་མི་ཚོས་ཀྱང་ཚ་ཤུགས་ཀྱི་ནད་ལ་ཉེན་ཁ་མཐོ་ཡོད། སྔ་ཉིན་ཡང་ན་རྗེས་ཉིན་ལ་ཕྱིར་འཐེན་ཞིག་གནང་། ཆུ་དང་གྲིབ་མ་ཡོད་པར་བྱེད། ཁོང་ལ་ཁ་མ་ཐག་ཏུ་བཟོ་མི་དགོས་པར་མ་ཐག་ཏུ་ནང་ཁང་དུ་ཕྱིར་ལོག་ཞིག་གནང་།"
+  - "བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མང་པོ་ཞིག་ལ་དུས་ཚོད་ཅིག་ཏུ་ཞག་ལ་ཁྱབ་འགྲོ་བྱེད་ཐུབ། ཕྱི་རོལ་དུ་མི་དང་རྟག་ཏུ་ཅིག་ཁར་ཡོད་པར་བྱེད། ཉིན་རབས་ཀྱི་པར་དང་ངོས་འཛིན་ཡིག་ཆ་ཅིག་ཁོང་ཚོའི་མདུན་ཁ་ན་ཡོད་པར་བྱེད།"
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མིས་ཞིང་ཚལ་གྱི་ལས་ཀ་ག་འདྲ་བྱེད་ཐུབ་ཀྱི་ཡོད།"
+    a: "ཆུ་བསྐྱུར་བ། ས་བོན་ཆུང་ཀུ་ཚོ་ལ་བཙུགས་པ། རོ་ཚ་དྲི་ཞིམ་ཟིན་པ་དང་ལག་ཁྱེར་བ། མེ་ཏོག་གི་མགོ་བཅད་པ། ཤིང་ཏོག་ལེན་པ་དང་མེ་ཏོག་སྦྲེལ་བ་དང་ལམ་བསྐུ་བ་སོགས་ཐམས་ཅད་ཡག་པོ་ཡིན། ནང་ཁང་ན་ཤིང་ཁུང་གི་སྟེང་ནས་རོ་ཚ་ཁ་ཆུང་ཞིག་ཡང་ན་ཁྲི་ཤེལ་ཕུབ་ནས་ས་ཡ་ཁྲི་ཞིག་ཡང་ལེགས་པོ་ཡིན། ལས་ཀ་གང་བྱེད་པ་དེ་ནི་མི་དེས་སྔོན་མགྲིན་པའི་ཡིན་བཟོས་དང་ད་ལྟ་ངལ་མེད་པར་བྱེད་ཐུབ་པ་ལ་བརྟེན་དགོས།"
+  - q: "ཚ་ཤུགས་ཀྱི་ཚེ་བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མི་ཉེན་ཆེན་ལས་སྐྱོབ་བྱེད་ཐབས་ག་འདྲ་ཡོད།"
+    a: "ཕྱི་རོལ་གྱི་དུས་ཚོད་ནི་ཉི་ཟེར་གྱི་ཚ་ཤུགས་ཆུང་བའི་ཞོགས་ཀ་དང་ཐོ་ཀ་ལ་བཀོད་ནས་ཐུང་ངུ་ལ་བྱེད། ཆུ་ཡང་ཡང་ལན་མང་པོ་བཏང་། གྲིབ་མ་དང་མགོ་ཤུབས་ཆེན་པོ་དང་སྣམ་ཆ་ཡང་ཅན་ལ་ཟོས་པའི་ཉེན་བསྲུང་བྱེད། ཚ་ཤུགས་ཀྱི་ནད་ཀྱི་ཉེན་ཁ་ནི་སྐྱེས་རབས་ཆེ་བའི་མི་ཚོ་ལ་མཐོ་ཡོད། མགོ་ཟུར་དང་ལྷགས་ཤུགས་ཅན་དང་ཟས་སྐྱུག་སོགས་མཚོན་བྱེད་ཀྱི་ཚེ་ཁྱེད་རང་དང་མཉམ་དུ་ནང་དུ་ཕྱིར་ལོག་ཞིག་གནང་ནས་སྐྱེ་ཚོགས་སུ་མ་ཐག་དུ་བསིལ་ཚད་བྱེད།"
+  - q: "ཁོང་ཚོ་འགྱོ་འཕྲོད་བྱེད་ཡོད་ན་ཕྱི་རོལ་དུ་ཇི་ལྟར་འགྲོ་ཐུབ་ཀྱི་ཡོད།"
+    a: "མི་དེ་དང་ཡུན་རིང་ཅིག་ཁར་ཡོད་པར་བྱེད། ཤིང་ཁུང་ཡང་ན་ཞིང་ཚལ་ལ་ལྕགས་སྒོ་བརྒྱབ་པའི་རྡོ་རྩིག་སྒོ་ལ་བརྟེན། ཁོང་ལ་ཉིན་རབས་ཀྱི་ངོས་འཛིན་རྒྱན་ཡང་ན་ཡིག་ཆ་ཅིག་ཡོད་པར་བྱེད། ཉིན་རབས་ཀྱི་པར་གསར་པ་ཞིག་ཡོད་པར་བྱེད། མི་བཟུང་ནས་ཡོད་མེད་མ་ཤེས་ན། Alzheimer's Association ནས་ཕྱོགས་ཀྱི་མིག་ཚོགས་ཀྱི་ནང་དུ་ཚད་མེད་ཅན་ཁ་ཤས་ཀྱི་ནང་དུ་མ་རྙེད་ན་ཁྱེད་ཀྱི་ས་ཁུལ་གྱི་སྐྱབས་འབོད་ཨང་ལ་ཁ་པར་གཏོང་དགོས་ཞེས་བཤད།"
+  - q: "ང་ཚོ་ལ་ཞིང་ཚལ་མེད་ན་ག་དེ་ཡོད་ཀྱི་ཡོད།"
+    a: "ཤོག་རྣམས་ནང་ངོས་སུ་ཟོན་ཆུང་ཁ་ཤས་དང་ཚོས་ཁང་གི་སྒྲོམ་ཁ་ཡང་ན་རོ་ཚ་ཀྱི་ཤིང་ཁུང་ཞིག་ཡོད་ན་ལེགས་པོ་ཡིན། ཞིང་ཚལ་སྤྱིའི་ཚལ་ཁང་ཡང་ན་ཚོགས་པའི་ཞིང་ཚལ་ལ་ཡང་འགྲོ་ཆོག བྱ་སྒྲ་ཉན་དགོས་པའི་ཕྱི་རོལ་ལ་སྡོད་པ་ཡང་ཕྱི་རོལ་གྱི་ལས་ཀ་ཞིག་ཡིན།"
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +47,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+ཁ་ཤས་ཀྱི་མི་ཚོར་ཞིང་ཚལ་ནི་ཁོང་ཚོ་ཤེས་པའི་ས་ཆ་ཁ་ཤས་ཤིག་ཡིན། ས་ཁྲུད་བྱེད་པ། ཆུ་ཆུ་བསྐྱུར་བ། མེ་ཏོག་བཅད་པ་སོགས་ནི་ཡུན་རིང་པོའི་སྔོན་ནས་བསླབས་པའི་ཤེས་ཡོན་ཡིན། ཕྱི་རོལ་དུ་འདུག་པས་རླུང་གསར་པ། ཉི་ཟེར། བྱ་སྒྲ་ཐོབ་ཆོག National Institute on Aging ནས་ཤིང་རྩྭ་སྐྱོང་བ། མེ་ཏོག་དང་ཏཱ་ཤི་བསྐྱེད་པ། དང་ [ཞིང་ཚལ་གྱི་ཤིང་ཚོ་ཇི་ལྟར་སྐྱེ་བ་ལ་བཤད་པ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ནི་ Alzheimer's ནད་ཀྱི་མི་ཚོས་དགའ་ཐུབ་པའི་ལས་ཀ་ཁ་ཤས་ཡིན་ཞེས་བཤད། ཤོག་ངོས་འདིར་ཁྱེད་ཀྱིས་སྔོན་ལ་བརྟག་དགོས་པའི་ལས་ཀ་དང་། ཞིང་ཚལ་ཅིག་ག་ཏེ་བེད་སྤྱོད་བྱེད་ཐུབ་པའི་ཐབས་ཤེས། ཚ་ཤུགས་ཉི་ཟེར་དང་འགྱོ་འཕྲོད་གྱི་ཉེན་ཁ་ལས་སྐྱོབ་པའི་ཐབས་ཤེས་ཀྱང་བཤད་ཡོད།
 
-## What outdoor and gardening activities work well?
+## ཕྱི་རོལ་དང་ཞིང་ཚལ་གྱི་ལས་ཀ་གང་ལ་ལེགས་པོ་ཐོན་ཡོད།
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+ལས་ཀ་ལེགས་པོ་ནི་སླ་བ། ཤེས་པ་ཡོད་པ། ལངས་ནས་ཡང་ན་འདུག་ནས་བྱེད་ཆོག་པ་ཡིན། མི་དེས་སྔོན་ནས་དགའ་བའི་ལས་ཀ་ལ་བརྟེན་ནས་འདེམས།
 
-### In the garden
+### ཞིང་ཚལ་ནང་གི་ལས་ཀ
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **ཆུ་བསྐྱུར་བ།** ཆུ་ཚད་ཆུང་བ་དང་སྦྲང་ཆུ་མགོ་མོ་ཡ་བཏབ་ཏེ་ཟོན་ཆུང་ཁ་ཤས་ལག་མཐིལ་ནས་ཐོབ་ཐུབ་པ་ཞིག ཆུ་བསྐྱུར་བ་ནི་མགོ་ཚུགས་དང་མཇུག་ཚུགས་གསལ་བ་ཡིན་ནས་ནོར་འཁྲུལ་དཀའ།
+2. **ཟོན་ཆུང་ནང་ས་བོན་བཙུགས་པ།** Alzheimer's Foundation of America ནས་ཟོན་ཆུང་ཆུང་ཀུ་ནང་ས་བོན་བཙུགས་ནས་[ཤིང་སྐྱེས་པ་ལ་ལྟ་བ](https://alzfdn.org/dementia-activity-gardening/) འདེམས་གསུངས། ས་བོན་ཆེན་པོ་ཚོ་ལྟ་བུ་ར་བ། མེ་ཏོག་སྲེན་མོ། ཨ་ནུ་ཏེ་སོགས་ལག་ཏུ་ལེན་སླ།
+3. **མེ་ཏོག་མགོ་བཅད་པ།** ཁ་ཤོས་ཀྱི་མེ་ཏོག་ཞུམ་པོ་ལག་ཏུ་བཅད་པ་ནི་ཞི་བདེའི་དུས་རིང་ཐེངས་མང་བའི་ལས་ཀ་ཡིན། མགོ་ཁྲ་མེད་པའི་རོ་ཚ་འདེམས།
+4. **ཤིང་ཏོག་དང་རོ་ཚ་ལེན་པ།** མེ་ཏོག་དམར་ཆུང་། ར་བ། རོ་ཚ་སོགས་ལེན་སླ་ཞིང་རོ་ལ་ཟོས་བདེ། ཉིན་ཕྱེད་ཀྱི་ཟས་སུ་ཟོས་ཆོག
+5. **རོ་ཚ་དྲི་ཞིམ་ཟིན་པ་དང་ལག་ཁྱེར་བ།** ཤིང་ཤུན་ཏ། སྐྱེས་ཤིང་། ཤིང་ཀ་སོགས་དྲི་ཞིམ་ཤུགས་ཆེ་བ་ཡིན། ལོ་མ་ཞིག་ལག་པའི་མཐིལ་ནས་འཇོག་པ་དང་མདུན་དུ་བཏང་ནས་ཟིན།
+6. **ལམ་ཡང་ན་ཐོག་ཁ་བསྐུ་བ།** ས་མཉམ་པ་དང་སྐམ་པོ་ལ་ཤིང་སྡོང་ཆུང་ཆུང་གིས་བསྐུ་ཆོག་པ་ཡིན། ལུས་ཀྱི་སྙོམས་པ་བརྟན་པ་ན་ཡིན།
+7. **བྱ་ཟས་ཁྲོད་ཀྱི་བཀང་བ།** དེ་ནས་ཅིག་ཁར་འདུག་ནས་གང་ཞིག་ཕེབས་པ་ལ་ལྟ་བ།
 
-### Indoors, when going out is not possible
+### ནང་ཁང་ནང་གི་ལས་ཀ། ཕྱི་རོལ་དུ་མི་ཆོག་པའི་ཚེ།
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **ཉི་མ་ཕྱོགས་ཀྱི་ཤིང་ཁུང་ཟ་བའི་རོ་ཚ།** ཞོ་ཤིང་། ཞྭ་ཤུ། ཆུ་གྲོ་སོགས་ཀྱི་ཆུང་ཀུ།
+- **ཁང་ཁྲི་སྟེང་གི་ས་ཡ་ཁྲི་ཞིག་ལ་ཟོན་བཙུགས་པ།** Alzheimer's Foundation of America ནས་ས་ཡ་ཆ་ཚོགས་རྣམས་ནང་དུ་བཅུག་ནས་ས་ཆ་གནས་འཛིན་བྱེད་པ་དང་། ས་ཡ་ཆུང་ཀུ་ཚོས་སོག་ཞིང་བསྐྱོད་པ་བཤད་ཡོད།
+- **མེ་ཏོག་བཀོད་པ།** ཞིང་ནས་ཡང་ན་ཚོང་ཁང་ནས་ལེན་པའི་མེ་ཏོག་དང་ལོ་མ་ཚོས་ཀྱིས་བཀོད་ཆོག
+- **མེ་ཏོག་ཡངས་པ་ཁ་ཤས་ཀྱི་ཤོག་བུ་ཞིག་ནང་ནས་གོ་ནས་ཁ་དཔར་ལ་སྦྱོར་བ།** [ཕྱོགས་ཀྱི་ལས་ཀ་དང་དཔེ་རིས་](/activities/arts-and-crafts/) ལ་ལྟ་ཞིག་གནང་།
+- **ཤིང་ཏུ་ཞིམ་པོ་ཞིག་ཟིན་ནས་ལེ་ཡོལ་དང་ཤིང་ཀ་ཞིག་གི་དྲི་ཞིམ་ནང་ཁང་ནང་དུ་འཇོག་པ།** AFA ནས་བསམ་པའི་ཐ་སྙད་ཅིག་ཡིན།
 
-### Getting out and about
+### ཕྱིར་འཐེན་དང་འགྲོ་སྤྱོད་བྱེད་པ།
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **ཐུང་ངུ་ཞིག་ལམ་སྟེང་དུ་འགྲོ་བ།** ལམ་གྲོང་ཁྱེར་ཡང་ན་སྐྱིད་ཁང་ཡང་ན་ཞིང་ཚལ་ཁང་ལ་སོང་ནས། ཁྱེད་རང་གིས་ལྟོས་ཚོད་བཟང་པོ་དང་ཅིག་ཁར་འགྲོ་དགོས།
+- **ཁང་སྟེང་ངམ་ཕྱི་སྒྲིག་གི་སྟེང་དུ་འདུག་ནས་བྱ་སྒྲ་ཉན་པ་དང་རླུང་ལ་རེག་པ།** འདི་ནི་ཡ་ཏུ་ངོ་བོ་ཉིད་ཀྱིས་ཆ་ཚང་བའི་ལས་ཀ་ཡིན།
+- **ཞིང་ཚལ་གྱི་ས་བཞག་ཞིང་ཚལ་ལ་ཞིམ་པོ་ཞིག་ཕེབས་པ།** NHS ནས་ཞིང་ཚལ་ཁ་ཤས་ལ་དྲི་ཞིམ་གྱི་རོ་ཚ་དང་། ཁ་འགྲེང་གི་རེག་ཚོར་དང་ཆུ་ལྷམས་སོགས་ཡོད་པར་བཤད།
+- **ཆུ་ཚལ་ཡང་ན་ཆུ་མཚོར་བྱ་ལ་ཟས་སྦྱིན་པ་དང་བྱ་ལ་ལྟ་བ།** ཆུ་མཚོའི་མཐའ་ལས་ཐག་ཝེ་བ་ཞིག་ཏུ་སྡོད་དགོས།
 
-## How do I make a garden easier to use?
+## ཞིང་ཚལ་ཅིག་ལ་བེད་སྤྱོད་སླ་བར་ག་ཡ་བྱེད་དགོས།
 
-Bring the garden up to the person, not the other way around.
+མི་དེ་ཞིང་ཚལ་ཏུ་ཕེབས་པའི་ཐབས་ལ་ལྟོས་མ་ཐག ཞིང་ཚལ་དེ་མི་དེའི་ཉེ་བར་བཀོད་དགོས།
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **ཤིང་ཁུང་མཐོ་བ་ཡང་ན་ཟོན་ཆུང་མཐོ་བ།** ས་ཆ་ལ་ལྟོས་མ་ཐག་མཐོ་ཚད་ཁ་ཆུ་ཚུན་ཆད་ཀྱི་ས་ཐང་ཡིན་པས་གུག་དགོས་མེད།
+- **ཁང་ཁྲི་སྟེང་གི་ཟོན་ཆུང་།** འཁོར་ཐག་ལ་བརྟེན་པའམ་འདུག་ནས་བྱེད་འདོད་པའི་མི་ལ་ལེགས་པོ་ཡིན།
+- **ལམ་ཡངས་མགོ་མཉམ་པ།** ཆར་ཆུའི་རྡོ་དང་ཆུ་ཐིག་ལམ་ལ་མ་བཞག་པ་ཡིན་པས་ལྷུང་ཉེན་ཆུང་བ།
+- **ལག་པ་ཆེན་པོ་དང་གྲིབ་མ་ཡོད་པའི་ཁྲི་།** ཁ་ཤས་ལ་ངལ་གསོ་བྱེད་ཐུབ་པ།
+- **ལག་ལ་འཛིན་སླ་བའི་ཆས་སུ་མཐུག་པོ་དང་ཆུ་མོ་ཡོད་པ།** རྣོ་ཆས། སྐྱིག་ཆས། སྲན་པ་ལ་སོགས་པ་སྤོང་དགོས།
+- **སྒོ་ལྕགས་བཏགས་པའི་སྲུང་ཁང་ཡང་ན་སྒོ་བརྒྱབ་པ།** མི་དེས་རང་དགར་ཞིག་ཏུ་ཚོལ་ཆོག་ཅིང་ཁྱེད་རང་ཉེ་འདབས་སུ་ཡོད་པར་བྱེད།
 
-## Which plants should I avoid?
+## ཅི་ཡི་རྩི་ཤིང་ཚོ་བཀག་དགོས་ཡོད།
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+ལག་ཏུ་རེག་པ་བདེ་བ་དང་། ཁ་ཏེ་ཞིག་ལེན་ཡང་ཉེན་མེད་པའི་ཤིང་རྩི་ཚོ་འདེམས་དགོས། AFA ནས་ཤིང་རྩི་ཚོས་པོས་ཆགས་པ་དང་། ཁ་ཏེ་ནུས་མེད་བྱེད་པ་ཚོ་སྤོང་བ། ས་གཞི་ཟས་ཡིན་ནོ་ཞེས་ངོས་བཟུང་བའི་མི་ལ་ལྟ་བ་འཚོལ་གསུངས། NIA ནས་ཁྱིམ་གྱི་ཉེན་སྲུང་གི་བརྡ་བྱེད་པ་ལ་ཤིང་ཚོ་ཉེན་ཆེ་བ་བཤིག་པ་ཡང་ཡོད་པར་བཤད།
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- རྒྱ་ཤིང་སྐྲ་དང་། ཤིང་རྩི་སྐྲ་མང་། བརྡ་ཡངས་པ་ཁ་ཤས་ཤིང་རྩི་ལས་འདེད་དགོས།
+- ཁྱེད་རང་ངེས་པ་མེད་པའི་ཤིང་རྩི་ཚོ་ཅི་ཡང་བཙུགས་སྔོན་ལ་ནད་ཀྱི་ཚོགས་ཁང་ཡང་ན་ས་ཁུལ་གྱི་ཞིང་ཚལ་ཁང་ནས་བརྟག་དགོས།
+- སྔོན་ཤོས་ཀྱི་མེ་ཏོག་ཚོས་ཁ་ཤས་ཀྱི་སེམས་པ་ཞིམ་པོ་ལ་འགྲོ་ཐུབ། AFA ནས་རྒྱ་སྐད་སྲན་མེ་དང་ཟླ་ཚེས་ཀྱི་ཤིང་ཚོ་ལ་དཔེ་བཏོན། སྐྲ་མེད་པའི་རིགས་ཁ་ཤས་སྤྱད་དགོས།
+- ཞིང་ཚལ་ནང་གི་ཁ་སྲེག་དང་སྣུམ་ཚ་དང་སྨན་མ་ཚོ་སྒོ་བརྒྱབ་ནས་སྒོ་ལྕགས་ཀྱིས་བཟུང་བ་དང་། མི་དེས་ཉེ་བར་ཐོབ་ཐུབ་པའི་ས་ཆ་ལ་མི་སྤྱོད་པ།
 
-## How do I stay safe in the heat and sun?
+## ཚ་ཤུགས་དང་ཉི་ཟེར་གྱི་ཚེ་ག་འདྲ་ཉེན་བསྲུང་བྱེད་དགོས།
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+དུས་ཚོད་ནི་གནམ་གནས་ལ་བརྟེན་ནས་བཀོད་དགོས། NIA ནས་བཤད་པ་ལྟར་སྐྱེས་རབས་ཆེ་བའི་མི་ཚོ་ནི་[ཚ་ཤུགས་ཀྱི་ནད](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) ལ་ཉེན་ཁ་མཐོ་ཡོད། ལུས་ཁམས་ཀྱིས་ཚ་ཚད་འགྱུར་བ་ལ་ཐུགས་མ་ཚོད་པ་དང་། ཁ་ཤས་ཀྱི་སྨན་ཚོས་ལུས་ཁམས་ཀྱིས་ཚ་ཤུགས་འཛིན་པའི་ཆ་ལ་ཡང་ཐེ་ཚོམ་འདོན་ཐུབ་པའི་རྐྱེན་ཡོད།
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **སྔ་ཉིན་ཡང་ན་རྗེས་ཉིན་ལ་ཕྱིར་འགྲོ།** ཟླ་བ་ཚ་ཤུགས་ཆེ་བའི་ཚེ་ཉིན་ཕྱེད་ལ་སྣོན་པ་སྤོང་། ཚ་ཚད་ཁོ་ན་མ་ཡིན་པར་ཚ་ཚད་ཀྱི་རྣམ་པ་ཡང་བལྟ་དགོས།
+- **ཆུ་ཡང་ཡང་ལན་མང་པོ་བཏང་།** མི་དེས་སྐྱོ་བ་མེད་པར་སྐོང་བར་མི་སྨྲ་བར་མ་སྔོན་ལ་སྦྱིན་དགོས། ཚ་ཤུགས་ཀྱི་ཚེ་རྒྱུ་ཐང་དང་ཆུ་འཐུང་ཡང་ཆེན་པོ་བཏང་མི་དགོས།
+- **ཡོ་བྱད་ཚོད་པ་ཞིག་གོས་པ།** ཁ་ཅིག་འོད་དཀར་དང་སྐམ་པོ་གོས་ཡོ་ཟ་ཅིག། མགོ་ཟུར་ཆེན་པོ་དང་། མིག་ཤུལ་གྱི་ཡི་གེ་དང་།
+- **ཉི་ཟེར་གྱི་སྐྲ་སྲུང་སྐྱོབ་བྱེད་པ།** NIA ནས་SPF 15 དང་ཆ་མཐོ་བའི་ལྷག་ཁྱབ་ཅན་གྱི་སྐྲ་སྲུང་སྨན་ཡོད་པ་དང་། ཉིན་མོར་ཡང་བསྐྱར་བཏང་དགོས་བཤད།
+- **གྲིབ་མ་འདེམས་པ།** ཤིང་ཡང་ན་གྲིབ་ཤིང་གི་འོག་ཏུ་ཟོན་བཀོད་ཆོག
+- **དུས་ཚོད་ཐུང་ངུར་བྱེད་པ།** ཚ་བའི་ཉིན་ལ་ཕྱི་རོལ་གྱི་དུས་ཚོད་ཐུང་ངུ་ཡང་ལགས།
+- **བརྡ་རྟགས་ལ་ལྟ་ཞིག་གནང་།** NIA ནས་མགོ་ནད། ཁ་སྐད་རྣམ་གཡེངས། ལུས་ཀྱི་སྙོམས་མེད་པ། ཟས་སྐྱུག་སོགས་ཚ་ཤུགས་ཀྱི་ནད་གི་བརྡ་རྟགས་ཡིན་ཐུབ་པར་བཤད། ཞེ་ཆུང་ཡིན་ནའང་བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མི་ཞིག་གིས་ནད་པར་སྨྲ་མི་ནུས་པས་ངོ་སྤྲོད་དང་སྤྱོད་ལམ་ལ་ལྟ་དགོས། ནང་ཁང་དུ་ཕྱིར་ཞུ་ནས་ཆུ་དང་མ་ཆུ་ཡ་ལ་བཏུས་ཏེ་སྐྱེ་བོ་བྱེད། ཤིན་ཏུ་མ་དག་ན་སྨན་པའི་རོགས་རམ་འཚོལ་དགོས། ཚ་ཤུགས་ཀྱི་ནད་ཀྱི་བརྡ་རྟགས་ནི་ལྷ་ཞེན། ཁ་སྐད་ཀྱི་རྣམ་གཡེངས། ཤ་ཚོས་ཡ་སྤྲིན་གྱི་པགས་པ་སོགས་ཡོད་ན་ནི་སྐྱབས་ཀྱི་ངན་ཚབས་ཡིན་པས། ཁྱེད་ཀྱི་ས་ཁུལ་གྱི་སྐྱབས་འབོད་ཨང་ལ་ཁ་པར་གཏོང་།
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+སྟོད་ཚེས་ལ་ཡང་ཁྱད་པར་ཡོད། དགུན་ཀའི་ཚེ་ཕྱི་རོལ་གྱི་དུས་ཚོད་ཐུང་ངུར་བྱེད་ནས་ལག་པ་དང་རྐང་པ་དྲོད་ཅིང་སྐམ་པོ་ཡོད་པར་བྱེད་དགོས།
 
-## How do I handle wandering when we go outside?
+## ཕྱི་རོལ་དུ་ཕྱིན་པའི་ཚེ་འགྱོ་འཕྲོད་ག་ཚོད་ལ་འདེབས་དགོས།
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+མི་དེ་ཕྱི་རོལ་ན་ཡོད་པའི་ཚེ་ཡང་ཡང་ཁྱེད་རང་གིས་དུས་རྒྱུན་དུ་ཉེ་འདབས་སུ་ཡོད་དགོས། Alzheimer's Association ནས་བཤད་པ་ལྟར། [བརྗེད་ནོར་ནད་དང་ལྡན་པའི་མི་ཚོ་ནང་ནས་ལྔ་བཅུ་ན་དྲུག་](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ནི་ཐེངས་གཅིག་ཀྱང་འགྱོ་འཕྲོད་བྱེད་པ་ཡིན། ཁ་ཤས་ཀྱི་ཚེ་ཡང་ཡང་བྱེད་ཀྱི་ཡོད། འདི་ནི་རིམ་པ་ཅི་ཡང་ནས་བྱུང་ཐུབ།
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA ནས་[འགྱོ་འཕྲོད་དང་ལམ་ནོར་བའི་ཐབས་ཤེས](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ལ་བསྡུ་ནས་བཤད་པ་ལ།
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- མི་དེས་མིང་། ཁྱིམ་ཁ། ཁྱེད་རང་གི་ཁ་པར་ཨང་ཚོགས་པའི་ངོས་འཛིན་ཡང་ན་སྨན་གྱི་རྒྱན་གོས་ཁྲིམ་ཡོད་པར་བྱེད། ཡང་ན་གོས་ལ་ཡིག་རྟགས་བཀོད།
+- མི་དེའི་ཉིན་རབས་ཀྱི་པར་ཡང་ན་བརྙན་ཅིག་ཡོད་པར་བྱེད།
+- གྲོགས་པོ་ཁྱིམ་གཤིས་ལ་མི་དེ་འགྱོ་འཕྲོད་བྱེད་ཐུབ་པར་བརྡ་སྤྲོད།
+- ཞིང་གི་ཚུ་ལ་ཤིང་ཁུང་དང་ལྕགས་སྒོ་བརྒྱབ་པའི་སྒོ་ལས་ཟླམ་བྱེད།
+- འགྱོ་འཕྲོད་གྱི་རྒྱུན་ལྡན་ཡོད་པའི་མི་ལ་ཁྱེད་རང་མེད་པར་མ་བཞག།
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association ནས་ཡང་ཕྱི་ནང་གི་ས་ཁུལ་ཉེན་མེད་པར་ཚོལ་བཞིན་པ་ཡོད་པའི་ས་ཆ་གསར་ཞིག་བཟོ་ཐུབ་པ་དང་། རང་བྱུང་མི་ཚོ་ཞི་བ་མེད་པའི་དུས་ཚོད་ལ་ལས་ཀ་བཀོད་པར་སྨྲས། ཉིན་ཕྱི་མཐར་ཞི་བ་མེད་པའི་ཚེ་རྩྭ་སྡེ་ཉེན་ཆུང་བའི་ཞིང་ཚལ་གྱི་ཕྱི་འགྲོ་ཞིག་ཡང་ལེགས་པོ་ཡིན། [ཉིན་ཕྱི་མའི་ཞི་མེད་ཀྱི་ལམ་ཡིག](/caregiving/late-day-restlessness/) ལ་ལྟ་ཞིག་གནང་།
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+མི་དེ་ཡང་བཟོ་མེད་པ་ཡོད་ན། Alzheimer's Association ནས་ས་ཆ་ནེ་བར་ཚོལ་བ་མགྱོགས་པོ་ཞིག་ཚུར་དགོས་པ་དང་། ལྔ་བཅུའི་ནང་མ་རྙེད་ན་ཁྱེད་ཀྱི་ས་ཁུལ་གྱི་སྐྱབས་འབོད་ཨང་ལ་ཁ་པར་གཏོང་དགོས་ཞེས་བཤད། མི་དེ་ལ་བརྗེད་ནོར་ནད་ཡོད་པ་ལ་སྲིད་ཁང་གི་ལས་བྱེད་ལ་སྨྲས་དགོས།
 
-## How do I adapt gardening as things change?
+## ཞིང་ཚལ་ལས་ཀ་བསྒྱུར་བའི་ཚེ་ག་འདྲ་བསྒྱུར་དགོས།
 
-| If this has become hard | Try this instead |
+| ད་ལྟ་ཕན་ཚུན་ཕྱིན་པའི་ལས་ཀ | ཚབ་ཏུ་བྱེད་པ |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| ས་ཐང་ཡོངས་ལ་ས་བོན་བཙུགས་པ། | ཟོན་ཆུང་གཅིག་ལ་ས་བོན་གཅིག་བཙུགས་པ། |
+| རྩྭ་སྨན་སེལ་བ་དང་རྩྭ་ཤིང་ལ་ཁྱད་པར་ཤེས་པ། | ཆུ་བསྐྱུར་བ་ཡང་ན་གསལ་བའི་མེ་ཏོག་ཞུམ་པོ་བཅད་པ། |
+| ཞིང་ཚལ་ནང་ལ་འགྲོ་ཕོ་ཐག་ལ། | ཟོན་ཁྲི་ལ་འདུག་ནས་ས་ཡ་དང་ཤིང་ཁུང་ཞིག་དང་ཅིག་ཁར་བཞག་པ། |
+| ཕྱི་རོལ་དུ་འགྲོ་མི་ཐུབ་པ། | ཐབས་ལ་རོ་ཚ་ཟོན་ཆུང་། ཡང་ན་སྒོ་སྒྲིག་བྱེད་པའི་ཁ་དང་པོ་ནས་སྐྱེ་བ་བཀོད་པ། |
+| ལས་ཀ་གང་ཡང་མ་བྱེད་པ། | ཅིག་ཁར་ཕྱི་རོལ་དུ་འདུག་ནས་ཉན་པ་དང་ལྟ་བ་ལ་སྐྱིད་པོ། |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+མི་ཁ་ཤས་ཁྱེད་རང་ལས་ཀ་བྱེད་པ་ལ་ལྟ་བ་ལ་དགའ། NIA ནས་མི་དེ་ཉིད་ལྟ་བ་ལ་ཆོག་པ་ཡིན་ན་ཡང་ཡོད་ཅེས་བཤད་པ་ཡིན།
 
-## When should we head inside?
+## ནང་ཁང་དུ་ཕྱིར་ཞུ་དགོས་པའི་དུས་ག་འདྲ་ཡིན།
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+མི་དེ་ངལ་ཆེ་བ། ཚ་བ། གྲང་བ། རྒོད་བ། ཡང་ན་ལས་ཀ་མཇུག་བསྡུ་ལ་སྲེལ་བ་འདྲ་བ་དང་། ཕྱིར་ཞུ་ཆོག དུས་ཚོད་ཐུང་ངུ་དགའ་སྐྱིད་ཅན་ཞིག་ནི་ཉིན་ཆ་རིང་པོ་ཞིག་གི་སྡུག་བསྔལ་བཞིན་ཐག་བཅད་པ་ལས་ལེགས་པོ་ཡིན། དུས་སྔར་མཇུག་བསྡུ་བ་ཡང་ལེགས་པའི་འབྲས་བུ་ཡིན།
 
-## Bring the garden indoors on screen
+## ཤོག་ཁ་ལ་ཞིང་ཚལ་ནང་ལ་འདྲེན་པ།
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+ཆར་བའི་ཉིན་ལ། [Sort Together](/games/sort-together/) ནང་ལ་ཞིང་ཚལ་གྱི་ཁ་ཆུང་ཞིག་ཡོད་པ་ཡིན་ཤིང་། [Conversation Cards](/games/conversation-cards/) ནང་ལ་ཞིང་ཚལ་གྱི་སྙན་ངག་ཁ་ཕྱེ་བ་ཚོ་ཡོད། ཚ་ཤུགས་ནས་ཕྱིར་ཡོང་ནས་མགྱོགས་སྐད་ཅན་མ་ཡིན་ན། [Calm Breathing](/games/calm-breathing/) ནང་ལ་ཞི་བདེའི་སྣུམ་ཚ་ཞིག་ལ་ཁྱེད་རང་གཉིས་ཀ་མཉམ་དུ་བསྒྲིག་ཆོག། ལག་ཏུ་རེག་པ་དང་དྲི་ཞིམ་དང་སྒྲ་ལ་བརྟེན་པའི་ཐབས་གཞན་ཡང་འདོད་ན། [སྣ་ཚོགས་ཀྱི་ལས་ཀ་ཆ་ཚང་](/activities/sensory/) ལ་ལྟ་ཞིག་གནང་།

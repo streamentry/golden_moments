@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Aktibidåt Memoria: Kahon Memoria, Istorian Tiempo, Litråtu"
+seoTitle: "Aktibidåt Memoria Para Demensia: Ideas Taya' Kuestion"
+description: "Manera para kumparti memoria yan taotao ni gaige yan demensia taya' kuestion: hasso gi litråtu, kahon memoria yan lebbon istorian tiempo, yan fasu ni mantieni hinasso."
+translatedFrom: 2026-10-25
 section: activities
 order: 6
 updated: 2026-10-25
-translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Memoria siña ma gosa i tiempo pasao hamyo gi tinailaya, gi litråtu, gi
+  kosas, gi musika yan gi kuentos. Machoka' kahon memoria, machomnä' lebbon
+  istorian tiempo, pat machichiya litråtu side by side. Taya' kuestion: taya'
+  "¿Hu rekuetda?" yan "¿Hayi esti?" yan hasso gi kumbidasion siha taiguin
+  "Hagu sumangån hafa esti." I kalålaki na kombetsasion mås importante ki
+  mapos i hinasso.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Memoria kombetsasion yan taya' tes. Taya' malångu i hinasso; i gosa i importante."
+  - "Chule' 'Rekuetda hao?' yan 'Hayi esti?' komentårio yan kumbidasion taiguin 'Hagu sumangån i kumekuenta gi kuådun.'"
+  - "Kahon memoria gi kosas gi tinailaya i taotao ya ha na'å i manos yan kombetsasion ginen ma'aguanta."
+  - "Lebbon istorian tiempo ayuda i familia, i bisitånti yan i tiniente siha para ma kakonuese i taotao, taya' solo i diagnosis."
+  - "Kuandu i memoria ma na'triste, ayuda pa'go yan despues dingu ya dandan machanggé."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Hafa i reminiscence para taotao ni gaige yan demensia?"
+    a: "Reminiscence ti'ä ma sahi i memoria yan kinalamten tiempo pasao, a'ån ma na'siña ginen litråtu, kosas, musika pat video. Siña esta ma'hasso kumekuenta ya gi grupu. I minagahet i kombetsasion ni maolek yan mañaguaguaiyu, taya' ma tesi kuentos ni siña ma hasso i taotao."
+  - q: "Pot hafa taya' u na'fa'tinas 'Rekuetda hao?'"
+    a: "I kuestion ni ma tesi i memoria siña na'a'agang i taotao pat na'mangguaiyas kuandu i tinaiguen ti machocho. I National Institute on Aging ma lista i pregunta kon ha rekuetda hao pat hay i taotao yan i kosas kumu guinaiya ni u ha'na' guatu. Komenta gi hafa ma faisen, ya ha dålo' i taotao sumangån hafa tiene i gustu."
+  - q: "Hafa i u na'guaha gi kahon memoria?"
+    a: "Machocho kosas ni maseguru yan matiniti, ni ma konekta gi kinalamten i taotao: hinasso ni chinatli, hobby, bufanda ni gustu, postcard, recipe card, suvenir ni deporte pat kopia litråtu. Chule' kosas ni manmatatalam, kosas ki'ike ni siña ma tragu, yan orihinåt ni taya' u ma ripara."
+  - q: "Ya kuandu manma'lalågo i fakto?"
+    a: "Dålo' lokpe'. Si Nanå-mu ha sangan na i litråtu i tiha-na pat i prima-na, ya taya' problema. Ma kuetreppi i kuentos ni ha kuekuenta ya gosa yan hao. I maneran na kuentos ni maolek ma kumple' yan ma'pet ma'ta'lo'."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Reminiscence ti'ä ma sahi i gosa i tiempo pasao hamyo. Para siha na taotao ni gaige yan demensia, i memoria gi hiniti'ng i tiempo sinangån mås klaru ki i ma'å gi ayer pat gi takhilo'. Litråtu, kosas familiåt, musika yan kuentos siña ma hafa'ot i memoria ya ma na'ma'pos hamyo gi kumberiyon. I unu ni na'historia: esti kombetsasion, taya' tes.
 
-## What is reminiscence, and how is it different from quizzing?
+## Hafa i reminiscence, yan kao ma'diferente gi kuestion?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Reminiscence ti'ä ma sahi i memoria ginen litråtu, kosas, musika pat video, gi i ritmon i taotao. I [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ha nana'ån ni ti'ä ma sahi i kinalamten pasao yan kuentos ginen litråtu, kosas, video pat musika, gi lebbon pat gi tablet. I kuestion ma'diferente: ma tulaika i taotao para u na'å tinaiguen ni maolek, ya esti siña na'a'agang i taotao gi lugåt gi gosa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+I [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ha lista i pregunta kon ha rekuetda hao pat hay i taotao yan kosas kumu guinaiya ni u ha'na' guatu. I [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ha sugiere para ta na'lalå i kuestion ni ma tuge' gi memoria ki'ike, ya ta kuenta mås gi tiempo ni mås lalålo' pasao.
 
-| Instead of | Try |
+| Gi lugåt | Ina'ma |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "¿Hu rekuetda esta?" | "Esti parÉce un diha ni maolek. Hagu sumangån hafa."|
+| "¿Hayi esti?" | "Esta si Tiha Rose gi tasi. Hagu tunas i sombrero." |
+| "¿Taimanu na tiempo esti?" | "Esti parÉce i mamaila na gima'. Hafa i tinaiguen gi ayu na lugåt?" |
+| "Taya', esti ti si Bill, si Frank." | "Parehu hao mås ayu ya guaha gi kantan." |
+| "Hu ana'ån ya hao esta." | "Gustu yu' i kuentos-mu." |
 
-## How do you talk about photos without quizzing?
+## Taiquen manhasso i litråtu taya' kuestion?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Kumekuenta gi hafa ni hao ha vulas, ya dålo' lugåt para i taotao u ha na'siña ti'ä kualkuiera kosas kuandu siña.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Sumetmo side by side.** Sumetmo gi tinaktak i álbum para mañaguaiyu ta vulas, taya' ta tesi gi lamesa.
+2. **Chule' sumåga litråtu.** Limang litråtu ni maolek mås bunitu ki i tutuma na libru. I litråtu ni dångkulo yan klaru mås sinafu.
+3. **Hagu mismo ha na'å i taotao siha.** "Esti ta'lo yan si Tata gi diha-mu na ma'casa" ya taya' presion.
+4. **Komenta gi detalye.** Kosas ni mañaguaiyu, kareta, tinaiguen, tiempo, kåra siha. "Ayu na kareta. Parehu dankulo."
+5. **Kumumbida, taya' fuetsa.** "Hagu sumangån..." pat "Hafa mismo ha vulas?" I ti'ä mamamaila hinasso, ya maolek.
+6. **Sigi i ginagao.** Si ha kuenta otro na kosas, sigi.
+7. **Para kuandu gaiy gosa.** Estuba i álbum antes di mangga'ot i taotao.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Para litråtu ni ma'å ya ma'hasso, chäyi [conversation cards](/games/conversation-cards/). Para ma tatiyi litråtu-mu familiåt gi maolek na matching game, chäyi [photo pairs](/games/photo-pairs/); i litråtu ni ma'na'siña gi-hu ti'ä ha'ni gi browser-mu.
 
-## How do you make a memory box?
+## Hafa maneran ma'chocho i kahon memoria?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+I kahon memoria ti'ä kontenedot ni kosas ginen tiempo ni taotao, para ma tutuma yan ma kuenta.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Machocho kahon ni matiniti.** Kumu kahon sapatos, kahon sombrero pat kofre ki'ike ni kahoh.
+2. **Chule' tema pat mikla.** Trabaho, hobby, lugåt, dikada, pat kosas taiguin.
+3. **Machocho kosas ni maseguru.** Lima asta dies na kosas guaha bai ma tuge' na para u kuminisensia.
+4. **Machocho kopia para kosas ni mahalålom.** Kopia litråtu yan dokumento ni taya' u ma sueltåo, ya gardåo i orihinåt.
+5. **Nå'i kosas guatu un-un.** Nå'i unu, kuenta hafa, ya tatanggo hafa i kuentos.
 
-Ideas to include:
+Kosas ni para u fanå'ån:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Trabaho:** badge ni nombre, tiki ki'ike, parche ni uniforme, libro ni kuenta, pin ni nurse, libron kanusinero ginen diner.
+- **Hinasso:** recipe card ni tinitiyi-ña, tela para plåto, bufanda pat kurbata ni gustu.
+- **Hobby:** pesca ni kuentos sin gancho, baseball, bola yarn, paketi semia.
+- **Lugåt:** postcard, mapa, suvenir turista, rekoto ni litiku gi lugåt siha.
+- **Familia:** kopia litråtu, dibuhu patgon, imbitasion kasamentu.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Dåñu i kosas matalam, kosas ki'ike ni siña ma tragu, yan kualkuiera kosas ni siña ma nå'i memoria ni nakkutos, sino sabi na mampos.
 
-## How do you make a life-story book?
+## Hafa maneran ma'chocho i lebbon istorian tiempo?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+I lebbon istorian tiempo ti'ä simpleng álbum ginen litråtu yan kottos ki'ike para i tiempon taotao. Ti'ä kosas para ma tatiyi yan hamyo, ya ayuda i bisitånti yan tiniente siha u ma komprende i taotao ni tinatetnu.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Chule' fotma.** Binder yan sheet protectors, lebbon litråtu ni ma'imprenta, pat slideshow gi tablet.
+2. **Plånu sigun gi påtte siha.** Patgon, eskuela, trabaho, familia, lugåt ni ma'å, fe', hobby, komidan gustu yan musika.
+3. **Mamuna un pat dos litråtu gi kada påhina** yan kottos ki'ike ni dångkulo ni letra: "Mary, 22 anos, mangtutuna trabaho gi bangku."
+4. **Nå'i gustu yan rutina.** "Ta'lo kafe yan lechi. Gustu yan himno gi Dominggo. Ti gustu TV ni hasso." Esti ayuda para i hahasso ni manmakuidåo.
+5. **Hagu ma'ayuda i taotao** kuanto ha gana, sumangån litråtu, kuenta istorian, pat sigi ha'å i kosas ma'lalao.
+6. **Sigi ma nå'i.** Taya' nisisidåt ma kumple' para ma usa.
 
-## More reminiscence ideas
+## Otro na ideas para reminiscence
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Na'lalao musika ginen kinalamten** yan kuenta hafa ha na'hasso. Chäyi [music activities](/activities/music/).
+- **Ma'å home movies pat palabra TV** gi dikada ni gustu.
+- **Kumuchina plåto ni gi patgon** ya dåña i suha ni ha guia i kuentos.
+- **Ma'å mapa** i lugåt ni tinatetnu-ña ya kuenta i kaminu ni maasdiko.
+- **Fanhasso katalogo pat magasin** ya kuenta prisio, fasion yan kareta.
+- **Rekord i istorian** gi telifon, ki permiso-ña, para i familia.
+- **Ma'compon durante i tiempo ni ma'å video call.** Hålong un litråtu durante video call; chäyi [phone and video calls](/activities/phone-and-video-calls/).
+- **Usa litråtu pat kosas kuandu bisita.** Ma'å hafa ya u mamafasil i bisita; chäyi [visiting](/activities/visiting/).
 
-## What if a memory is painful?
+## Hafa kuandu i memoria ma'na'triste?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Sigun na memoria siña ma na'triste, pat ma'siente i sensiasion na pinasu pat mata'lo'. Kuandu i taotao ma'na'trabiesu, para, ma'komporta, ya dandan machanggé i tema pat i aktibidat. Taya' ma'diskutan i ma'å. I Family Caregiver Alliance ha tulaika ta'ala' na ma'konbensi i taotao ni ti'ä ma'å, ya ta responde gi sintimiento ni ma'ekspresa, ya mismo ha ma'lalålo'. Kuandu ha kuenta gi taotao ni ma'mamate kumu ha'ån gi tinatetnu, responde gi sintimiento: "Ma'ana'ån ya hao. Hagu sumangån hafa ha guaha."
 
-## What does the research say?
+## Hafa i ma'å gi investigasion?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+I [Cochrane review ginen reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ni ma'komprende 22 trials yan 1,972 na taotao, sumuelåo na i efektos taya' kontinuåo, ki'ike, ya malalålo' sigun i lugåt yan forma. Ti sinangån nå'an ni danña para taotao ni gaige yan demensia. Ma sugiere i reminiscence sa' siña ha na'fanmaolek yan importante i tiempo juntos, taya' kumu tratamiento. Para mås informasion gi kombetsasion ni fasil, chäyi [communication tips](/caregiving/communication-tips/).

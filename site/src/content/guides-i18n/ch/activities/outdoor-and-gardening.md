@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Aktividåt Gi Tinanom yan Fuera para Taotao ni Gai Demensia"
+seoTitle: "Tinanom yan Aktividåt Fuera para Demensia"
+description: "Ideas para aktividåt gi tinanom yan fuera para taotao ni gai demensia, ya-ma'ayuda gi kahon tinanom, tiestu tanom, yan tinina para gi kalot, sun yan manhalu'u."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Gi tinanom yan gi fuera siña na'ma'ayuda para i taotao ni gai demensia.
+  Sigi este: manhånom tanom, mamunu yerbas gi tiestu, mamuno' flores ni
+  manmatåi, pat mangaenhan gi kapa' ni hinalom gi tinituhon ni hakkat. Usa
+  kahon tinanom pat lamesa para ti debi di manhaddong, ti usa kuchiyon yan
+  tanom ni gai tatak, ya manhalom gi tiempon mas malamlam gi mafañot, ya
+  siempre gumimen yan i taotao.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Ti diskarga na aktividåt gi tinanom, taiguini manhånom, mama'ulan simiyas, manma'amot yerbas, yan mamunu flores, siña mafa'tinas gi pumupo pat gi tumalo'."
+  - "Kahon tinanom, tiestu, yan lamesa ni tinanom ma'chocho i tinanom para gi kanton i sakkan, ya mas ti ma'ayuda manhulat."
+  - "Ti usa kuchiyon, tinituhon ni gai tatak, pat tanom ni gai lalala. Sumusungon na i tuna ti ma'atkihi ni kumana' guini."
+  - "I kuestion siña mo'na para i manhåhan mas dañoso. Manhalom gi malamlam pat gi hulo', nagi hanom yan sinenta, ya mañohngon gi momento ni ma'pos i tiempo na maguf."
+  - "Gi mamaila' na taotao ni gai demensia, sigon manhalu'u gi sumagaye na tiempo. Sigi gumimen yan i taotao gi fuera, ya gai retrato yan ID gi kulan."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Hayi na aktividåt gi tinanom siña mafa'tinas i taotao ni gai demensia?"
+    a: "Manhånom tanom, mamunu simiyas gi tiestu pekeñu, mamaila' yan manhaftos yerbas, mamuno' flores ni manmatåi, mamuno' gulasa, mangaenhan flores ni manmamaila', yan manmalulu' i tinituhon ni hakkat, todo esta ufa'tinas. Gi hilo', i tiestu yerba gi kanton bentana pat i bandeha ni tano' gi lamesa ni gai tatak ufa'tinas. Eskoge i aktividåt sigon i ayuda na i taotao ginen i tiempo ma'ayuda pat i ufa'tinas agupu."
+  - q: "Taiguini siña ma'ayuda i taotao ni gai demensia gi kalot?"
+    a: "Planea i tiempon fuera gi tiempon mafresko gi adeliñu pat gi hulo', ma'ayuda ti dinanña, ya nåña' hanom sigi. Eskoge i tumalo', sombrero ni dakkon, tinanom ligeru, yan sunscreen. I manmamaila' manhåhan mas dañoso para sakkan i kalot, ya i gai kanana', hulo', pat sakkan na manguiyek siña na sinangan, ya kumana' gi hilo' ya matutuhgas sa' ma'ayuda."
+  - q: "Taiguini siña sumåsaga gi fuera kuandu i taotao manhalu'u?"
+    a: "Sigi yan i taotao todo tiempo, usa kahon pat tinanom ni gai kerkas yan mapuno'ña i patta, ya sigura na guaiya ID gi lamasa pat gai ID gi tiestu. Sigi retrato sakkan gi kulan. Kuandu ti gai i taotao, i Alzheimer's Association ma'ayuda na ma'lagu i 911 kuandu ti ma'alåkku gi 15 minutos."
+  - q: "Kao ti gai tinanom?"
+    a: "Mamaila' na tiestu gi balkon, kaha ni bentana, pat bandeha ni yerbas gi lamesa ni kusina dumi'ong. Siña tatkaha parke, tinanom ni pupbliku, pat tinanom ni komunidåt. Pumupo gi fuera ya ma'nunuk i paluma' esta siña na aktividåt gi fuera."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Para mamaila' na taotao, i tinanom mismo i uno ni para mas manmasusedi siha ni sumåsaga gi hinasso. Manhånom, manmamatta, yan mamuno' flores ni manmanaiklåru i aktividåt ni manmanhanao anai takhilo'. Ya i fuera ma'ayuda i hinasso ni manmalaknos, i hangin ni fresko, i suni, yan i mamaila' na pa'a. I National Institute on Aging ma'å' na i manmamaila' manmatuge' i tinanom, mamuno' flores yan gulasa, yan [mamafa'tinas gi kumentåt put kon manmatalaleng i tinanom](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) siña mana'sedi put i Alzheimer's. Este na pahina ha na'ma'lag hayi i debi di u gaige, kon taiguini ma'ayuda i tinanom mas fasil, ya kon taiguini sigi sigura gi kalot, sun, yan manhalu'u.
 
-## What outdoor and gardening activities work well?
+## Hayi na aktividåt gi fuera yan tinanom ma'ayuda?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+I mas ma'ayuda na tinituhon manhåhan simple, manmafamilia, ya siña mafa'tinas gi pumupo pat tumalo'. Mana'ma'pos sigun i kosas ni ma'gof manmatinas i taotao anai takhilo'.
 
-### In the garden
+### Gi tinanom
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Manhånom.** Gai ma'ahi na hånom ni ligeru pat siñaga ni makpa' ni hånom, yan mamaila' tiestu ni siña ma'alcansa. I manhånom gai kumentåt yan fatto, ya ti mafa'tinas makkat.
+2. **Mamaila' simiyas gi tiestu.** I Alzheimer's Foundation of America ma'ufresi na mamaila' simiyas gi tiestu pekeñu yan [manmamaila' ni manmamaisen](https://alzfdn.org/dementia-activity-gardening/). I dakkon simiyas, siha takhilo' i fasoli, girasol, pat guisantes, mas fasil na manhalom.
+3. **Mamuno' flores ni manmatåi.** Manpinça i flores ni manmatåi gi mano' ni ti manmaunu, ya guini uno ni maluluk ya manmatinas. Chuli' tinanom ni ti gai tinik.
+4. **Mamuno' gulasa pat yerbas.** Tomates, fasoli, yan yerbas fasil na manmamuno' ya sabroso. Matuge' gi kusina para i almuerzo.
+5. **Mamaila' yan manmalalak i yerbas.** Rosemary, menta, yan lavanda gai tinaelo' ni manmadulse. Manhålom i uno ni hoja gi entre i dida' ya pasa gi hinasso.
+6. **Manhalala' i patio pat dalan.** Usa kamaleño ligeru gi tinituhon ni patta yan ti mamåtos, kao ti taimanu.
+7. **Manhålom i kaha ni pinakpak.** Despues pumupo hamyo ya manmaneggon hayi na manmamaisen i manmanaiklåru.
 
-### Indoors, when going out is not possible
+### Gi hilo', kuandu ti siña mo'na fuera
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Tinanom ni yerbas gi bentana**, takhilo' albaka, perehil, pat siboyas.
+- **Manhåtsa tiestu gi lamesa ni gai tatak.** I AFA ma'ufresi na usa bandeha ni gai kanton para ma'chocho i tano' gi uno na lugat, ya mamaila' tano' ni kumutsara.
+- **Mamuno' flores** ginen i gulasa pat hoja ginen i tinanom pat i tienda.
+- **Flores ni manmaprensa**, ginen i ramu ni flores, despues manmanmalaknos gi kåtta. Ma'ayuda [aktividåt ni artes yan manofisio](/activities/arts-and-crafts/) para mas.
+- **Mamaila' sachet ni lavanda pat rosas**, otro ideya ni AFA ni ma'ayuda manmantieni i sinenta ni tinanom gi hilo'.
 
-### Getting out and about
+### Manmanhalu'u yan manmamaila' gi fuera
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Manhalala' ti dayi**, gi kalle, gi parke, pat gi tinanom ni fuente, gi mafañot na minenhot, yan lugat para pumupo.
+- **Manpumupo gi fuera** gi balkon pat banko para manmanggu' i paluma' yan manmanhålom i hangin. Este na aktividåt sumisiste na lokkue'.
+- **Manma'chocho i tinanom ni pupbliku** gi tiempon ti manmeggot na taotao. I NHS ma'ufresi na mamaisen na sumåsaga siha ni tinanom ni sensory, ni gai tinaelo', tinituhon, yan hånom.
+- **Mamanhanåo pato pat mamaila' paluma'** gi lagu ni gai tasi, sigi distancia gi hinanao i tasi.
 
-## How do I make a garden easier to use?
+## Taiguini ma'chocho i tinanom para mas fasil?
 
-Bring the garden up to the person, not the other way around.
+Ma'anåo i tinanom para i taotao, ti i taotao ma'anåo para i tinanom.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Kahon tinanom pat tiestu ni manhåtsa** gi takhilo' hinasso, ya ti debi di manhaddong pat manmanggaddong.
+- **Tiestu gi lamesa** ma'ayuda para i manggaigi ni gai silya di ruedas pat ni manmaprefiere pumupo.
+- **Dalan ni ancho yan patta** ti gai ma'gas na tano' pat hose gi tinituhon, para ti dumankolo' i taotao.
+- **Silya ni gai kamot yan sombra** gi tinanom, para ti debi di tumaleng.
+- **Gaduan ni gai kastiga, ya ma'nå'i ti ma'toke.** Ti usa pruner, kuchiyon, pat kosas ni dañoso.
+- **Lugat ni dinaña gi kinerkas ni gai tuge' yan gaige**, na siña manenhanao i taotao, ya humuyong ta' yo' gi hilo'.
 
-## Which plants should I avoid?
+## Hayi na tinanom debi di u tungo'?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Mamili tinanom ni sigura para tomak, ya gi mas ma'ayuda, sigura kuandu ma'lamen. I AFA ma'ufresi na usa tinanom ni ti maseha manmamaguma' i kalan, ma'chocho i alerhía, yan siña ma'kuenta i manmamaila' na taotao ni ha tuma' i tano' na kumana'. I consejos ni NIA para i fuerte ni gai ma'nå'i gi hilo' gai ti mamaisen na manmanhahanao pat manmanmaluknu i tinanom ni dañoso.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Ti usa tinituhon ni gai tinik, kaktus, yan tinanom ni gai sap ni mamaguma' i kalan.
+- Kuandu ti sigura hayi na tinanom, chule' ginen i centro ni poison control pat i tienda ni tinanom.
+- I tinanom ni manmaseha ma'ayuda manmaleluk i maolek ni hinasso. I AFA ha na'ma'lag i rosas yan i cactus ni Navidad. Mamili i ti gai tinik.
+- Ma'ola' i fertilizante, pesticida, yan kosas ni mamatai i pa'a gi lugat, ya ti usa gi lugat ni siña tomak i taotao.
 
-## How do I stay safe in the heat and sun?
+## Taiguini sigura gi kalot yan sun?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planea i tiempon fuera sigun i tiempo. I NIA ha na'klaro na i manhåhan mas dañoso gai [sakkan ni taotao ni gai dinani sakkan gi kalot](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), ya parte ni i tiniki' ti gai ma'ayuda manmamoddong i kalot, yan i sakkan na gamot ma'chocho kon taiguini manmanfa'tinas i tiniki' i kalot.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Manhalom gi mafresko pat gi hulo'.** Ti usa i tiempo ni mambobo gi manmamaila' na kalot. Chule' i heat index, ti i temperatura solu'.
+- **Nåña' hanom sigi.** Ti espera i taotao ni manmatinas hao. Ti usa alkohol pat kafeina gi kalot.
+- **Usa tinanom ni manma'chocho.** Tinanom ligeru yan koloran ma'sen, sombrero ni dakkon, yan lentes ni sol.
+- **Usa sunscreen.** I NIA ha rekomenda ni broad-spectrum SPF 15 pat dakkon, ya ma'usa sigi gi tiempo.
+- **Mamili sombra.** Na'pos i lamesa ni tiestu gi papa' i kahayo pat payong.
+- **Ti makkat ni tiempo.** Uno ni mamaila' na tiempon fuera siña gai dinanña, sigun gi kalot na tiempo.
+- **Mamaila' i sensoha ni ti maolek.** I NIA ha lista ni dolor di kabeza, kinanana', hulo', pat sakkan na siña ma'sinangan ni kalot. I taotao ni gai demensia siña ti manmanma'ulan na ti maolek hao, ya guaiya i kåra yan i kumpottamiento. Mañohngon gi hilo', na'hanom yan tinanom fresko, ya chule' tatinas medikåt kuandu ti manmaolek gi malague'. I kalot ni dañoso, ni gai sinangan takhilo' manmagaigue, kanana', pat kulot ti mamaisen, esta emergencia medikåt: lalagu i 911.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+I tiempon kalamtes importånte tuma'. Gi tininu, mas fasil ti tiempon fuera, ya sigura na manmamaila' i lima yan tiñas dumi'ong yan ma'uchi.
 
-## How do I handle wandering when we go outside?
+## Taiguini manhalu'u kuandu manhålom gi fuera?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Sigi yan i taotao kuandu gai fuera. I Alzheimer's Association ha na'klaro na [unu gi sais na taotao ni gai demensia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) siña manhalu'u dankolo' uno, ya manmatinas manhalu'u mas ki uno. Siña mapasa gi kualkiera na stage.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+I [consejos ni NIA put manhalu'u yan ma'ayuda](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) gai:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Sigura na guaiya ID pat medical bracelet ni gai nagan, direksion, yan numero ta' telepono, pat ma'lalaknos i sunmalulu'.
+- Sigi retrato pat video nuebu ni taotao.
+- Na'sosyego i bisinu na i taotao siña manhalu'u.
+- Sigura i tinanom ni fence yan gate ni ma'lak.
+- Ti sumåsaga i taotao ni gai hestoria ni manhalu'u sin siha sumusubre.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+I Alzheimer's Association ma'ufresi lokkue' na sumåsaga kuarto yan tinanom gi fuera ni siña manma'ufresi sigura, ya planea aktividåt gi tiempon kuandu manmamaila' i manmamanhot. Uno ni pasiñu gi tinanom ni sigura pat siña ma'ayuda para i [manmanhot gi ma'pos i kuentos](/caregiving/late-day-restlessness/). Para i gía ni manmanhot gi ma'pos i kuentos, hålom.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Kuandu i taotao ti gai, i Alzheimer's Association ma'ufresi na sumalaga i manhalom gi tinanom gi mismo tiempo ya lalagu i 911 kuandu ti ma'alåkku gi 15 minutos. Ågang i pulisia na i taotao gai demensia.
 
-## How do I adapt gardening as things change?
+## Taiguini ma'adåpta i tinanom kuandu manmamaila' i kosas?
 
-| If this has become hard | Try this instead |
+| Kuandu esta manmahirap | Sigi este |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Mamuno' uno na kama ni tinanom | Mamuno' uno na simiyas gi uno na tiestu |
+| Mamunu sen yan tinanom (manmamaila' yan gai tinanom) | Manhånom, pat mamuno' flores ni manmatåi ni manmaila' |
+| Manhalala' gi tinanom | Pumupo gi lamesa yan bandeha ni tano' yan uno na tinanom |
+| Mafuera solu' | Uno na tiestu yerbas gi lamesa ni kusina, pat silya gi kanton bentana ni manmabuka |
+| Mañasiña gi tinituhon | Pumupo gi fuera yan hamyo, manmamaila' yan manmanhålom |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Sumisiste na manmamaila' na taotao mambobo mandi-mandi. I NIA ha na'klaro na ti malo' i ma'lalaknos i taotao gi tinanom kuandu esta i ma'gof manmatinas.
 
-## When should we head inside?
+## Kuándo debi di mañohngon gi hilo'?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Mañohngon gi hilo' kuandu i taotao manmamaila' na manmanhot, manmanmoddong, manmanmalamlam, manmanaiklåru, pat esta manmamaisen na ma'pos. Uno ni mandi-mandi na dies minutos ma'ayuda kesi uno na mas makkat na aktividåt ni ma'pos gi sakkan. Ma'pos mas tenmprano ginen ti gai esta ma'pos na maolek.
 
-## Bring the garden indoors on screen
+## Tuge' i tinanom gi hilo' gi pantalla
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Gi tiempo ni manmaloka', [Sort Together](/games/sort-together/) gai kanasta ni tinanom para manmaclasifika i retrato, yan [Conversation Cards](/games/conversation-cards/) gai pregunta abiertu ni siña ma'ayuda i kuentos put tinanom. Kuandu manmatinas ka ma'pos ginen i kalot, [Calm Breathing](/games/calm-breathing/) ma'ayuda na pausa ni makkat yan kalmao ni siña hamyo ma'chocho. Para mas ideya ni manmasusedi gi tomak, sumåsaga, yan suni, humuyong gi [giya para aktividåt sensoriales](/activities/sensory/).

@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Деменци йолу стагах хенара оьздангалла: хьехам"
+description: "Практически гайд: деменци йолу стагах хенара оьздангалла хилар, тийсинарг, ханна, дуьззина дийцар, оьздангаллаш дуьззина дар, дагалар хьалха."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Оьздангаллин хенар тест ца хиларг хьоьжуш. Дийцарна ханна лар йолуш, шира
+  стаг кхеттар яла, хьолах ца хьоьжуш цхьа оьздангалла кхайкх. Ханна шу бохуш
+  йолу стагах, цхьаьна дуьззина дийцар гӏоьнан хьолах яхка, оьздангалла
+  ма-ха хилар хьо кхийтина. Дагалар хьалха тӏаьхьа ца хилла, гуш хилла. Цхьа
+  гӏуллакх хилла шу хьалха хьоккхуш йа цхьа гуш дийцар — кхин хьолах ма-ха ду.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Оьздангаллин кӏел — дахар а, цхьа дукха а хилар, кхин ца хилар."
+  - "Хенара тийсинарг: кӏорга лар, гӏуллакх гӏелчи, очки а, хӏуьртиш а тайна."
+  - "Цхьана тийсинарг ца дитт. Шу бохуш «Ма-ха дуьззина дийца» йа цхьа хилла."
+  - "Дагалар хьалха оьздангалла дуьззина дийца: гӏуллакх ца дукха, лар кхин хилла."
+  - "Гуш дийцарна «Хьо ма-ха дийц...» ца, «Дийца шу кхин...» бохуш."
+  - "Тайна ханна йа дагалар хьалха тӏаьхьа. Тӏаьхьа тайна хилар — гуш ма-ха ду."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Оьздангалла хьан дукха ханна хилла?"
+    a: "Кхин кӏел ханна хилар вуьйцу. Дукха стаг шира минут хилла дуьззина ду, цхьа дийцар ма-ха кхин ду. Ханна ца хьоьжуш стагах хьоьжуш, гуш ларйо тайна."
+  - q: "Тхо дагадаккхар йа ца дагадаккхар сан хьолах?"
+    a: "Ца. Цхьа оьздангалла ма-ха дуйла, дуьззина ду. Стагах дагалар ма-ха ду, тхо хилла шу ма-ха дийцо. Хьоьжуш ца ду, тхо тест ца ду."
+  - q: "Стаг ца ма-ха дуьззина хьоьжуш хьо?"
+    a: "Хилла ду. Национальный институт старения (NIA) дийцарна, стаг ма-ха дуьззина хьоьжуш ца лелаш, тхо хьо хьоьжуш ма-ха хилла. Хьо дийцар дийца, хьо кхайкх хьан дохка йа кхолла хьоьжуш."
+  - q: "Цхьана оьздангалла хенара тест ду?"
+    a: "Ца. Тхан оьздангаллаш дуьззина, дийцарна дахар. Тхо тест ца ду, тхо хьохна, цхьа дуьззина ца дийцо, деменцин лечение ца ду."
+  - q: "Цхьа оьздангалла карадаккхар хьа?"
+    a: "Стагах дуьззина дукха оьздангалла хьоьжуш. Дуьззина ма-ха оьздангалла: четыре гӏуллакх лар йолуш, яхка лар йолуш йа два хьоьжуш шира хьохар. Дийцарна гӏуллакх, цхьа дийцар хьа-ха ма-ха."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Деменци йолу стагах хенара оьздангалла цхьа тест ца лело. Цуьнан хьолах шу кхоьллина, шу тӏехьа ярна, сурт тӏехьа хилла, дийцарна кӏорга хилла, кхин дийцар йолу. Оьздангалла цхьа хенан тайпана дукха хилар вуьйцу.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Гайд хенара тийсинарг, ханна лар, кхин хьолах хьоьжуш, оьздангаллаш дуьззина а йа ма-ха а дар, дийцарна дахар, тӏаьхьа тайна хилар. Цуьнан дукха [оьздангаллаш](/games/) хенара, цхьа карташ, пазлаш а, стол а тайна.
 
-## What is the best way to play a game with someone who has dementia?
+## Деменци йолу стагах хенара оьздангалла хьо мел кхиъ?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Оьздангаллин кӏел — дахар, цхьа дукха ца. [Alzheimer's Association гайд](https://www.alz.org/help-support/caregiving/daily-care/activities) дийцарна: стаг хьоьжуш цхьа хилла, стаг кхайкх, дукха хьалха хьо хьоккхуш, ца дийцар йа тийсина хилла ца.
 
-In practice that means:
+Хенара иштта дукха:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Шун дегайовзар, ца дукха.** Цхьа тайна шу тӏехьа ярна, экран йа стол хьоьжуш.
+- **Цхьа оьздангалла тайна.** Дукха кхайкх оьздангалла ца лелаш, кхин ца хилла.
+- **Стаг хьоьжуш.** Цхьа хьолах йолу, цхьаьна дийцар 10 минут хилла, йа цхьа хенара 2 шира хилла — иштта хенар бу.
+- **Тайна дахар, ца дукха.** Гуш, дийцар йа цхьа гуш ханна — иштта кӏел бу.
 
-## How do I set up before we start?
+## Тийсина хьалха мел ларо?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Цхьа минут тийсинар дагалар хьалха ца хилла ду.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Шун дукха ханна хьоьжуш.** [Национальный институт старения (NIA)](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) дийцарна: дукха ханна хенара тийсинарг, стаг дукха дуьззина. Дукха стагах — дийцар баъ. Тӏаьхьа кхин хьохар кхин хьолах, [тӏаьхьа кхин хенара](/caregiving/late-day-restlessness/).
+2. **Цхьа цхьа тайна.** ТВ а, радио а дагалар, дарбанхо ца дукха. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) дийцарна: дийцар хьалха шовда ца ду.
+3. **Цхьа хьолах хьоьжуш.** Дукха тӏаьхьа, тувалла, дуьззина кӏорга, очки а, слуховой аппарат а тайна.
+4. **Хенар яхка.** Яхка, ца хьо хьоьжуш, экран тӏехьа ца гӏо.
+5. **Оьздангалла тийсина хьалха.** Экран тайна, шу хилла кхайкх, гӏуллакх шу хилла. Тӏаьхьа экран стагах дӏа ма. Планшет тайна [тийсинарг](/caregiving/tablets-and-screens/).
+6. **Экран кхайкх.** Стенд йа кейс хилла, стаг кхайкх ца ду, тайна йолу.
 
-## How do I invite them without pressure?
+## Стаг ца дагалар хьо хьоккхуш?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Хьо кхайкх дагалар ца хилла, ца дукха. Дукха дуьззина дийцар:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Сад-огород сурт ларйо. Шу тхо хьоьжуш ма хьо?»
+- «Хьо кхайкх пазл. Хьо дукха ма ду, тхо кхайкх ца ду.»
+- «Цхьа цхьа гӏуллакх ма-ха ду — цхьа йа кхо?» (шира дукха ма-ха — хьоьжуш ца дукха)
+- «Шун кхайкх карточка ма кхоьллина. Иштта цвет ма-ха ду?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Национальный институт старения дийцарна, оьздангаллин хьолах дийца, цхьа хьолах — иштта дукха. Хьоьжуш йолу стаг ца дукха, стаг кхайкх хилла.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Стаг ца дагалар кхин хьо, кхин ханна хьо хьоккхуш. [Гайд, ца дагалар хьалха мел ларо](/caregiving/when-they-say-no/) хьо гӏуллакх.
 
-## How long should a game last, and how fast should we go?
+## Оьздангалла мел ханна хилла, тхо мел дуьззина?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Стаг хьоьжуш ханна хилла. Дукха хенан оьздангалла цхьа ца хилла. Шира-пхи минут дукха стагах дуьззина ду.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Хенар дукха тӏаьхьа дуьззина.** NIA дийцарна: стагах дукха ханна хилла жаьвап ца, дийцар йа гӏуллакх ца. Хьо цхьа шира тийсина йолу.
+- **Цхьа гӏуллакх.** Цхьа дийцар: «Шу хьо тайна» бохуш, тӏаьхьа дийца. Цхьана хьоьжуш ма ду.
+- **Тайна хилла.** Стаг хьоьжуш цхьа ханна ма хилла — оьздангалла тайна ма ду. Цхьа ханна гуш хилла, ца дуьззина ма хилла.
+- **Хьо хьоьжуш.** NIA дийцарна: стаг хьоьжуш дукха ма-ха дуьззина. Иштта хилла — иштта хьо.
 
-## Should I correct wrong answers?
+## Жаьвап дукха дуьззина кхайкх хилла?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ца. Цхьа дукха дийцар кхайкх дукха хьолах ца дукха. Family Caregiver Alliance дийцарна: цхьа хьолах яхка — хилла ца, дукха тайна.
 
-| Instead of | Try |
+| Ца дукха | Дукха |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Ца, иштта ца ду.» | «Хьо тӏаьхьа дийца.» (NIA дийцарна иштта хилла) |
+| «Иштта ца ду. Хьо хьоьжуш.» | Ца дийцо, кхин гӏуллакх тайна йа кхин ханна хьо. Йа: «Иштта цвет, цхьа хьолах.» |
+| «Шу дагадеш ма-ха?» | «Иштта сурт дийца.» |
+| «Хьо дукха дийца, шу ма-ха.» | «Иштта дуьззина гӏуллакх. Тхо кхин дийцар.» |
+| «Хьо дукха ма ду, шу иштта ма ду.» | «Хьо хьоккхуш. Тхо кхин дуьззина.» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Жаьвап дукха хилла дагалар, хьо дуьззина кхайкх йа хьо гӏуллакх. Дийцар хьо кхин ма-ха ду. Стаг дийцар бохуш, хьо кхин кхайкх ма ду — хьо ма-ха.
 
-## How do I make a game easier or harder?
+## Оьздангалла дуьззина йа хьоккхуш мел хилла?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Дукха хьолах дукха хилла. Иштта хьо оьздангалла хьо:
 
-| Game | Make it easier | Make it a little harder |
+| Оьздангалла | Дуьззина хилла | Ма-ха хилла |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | 4 сурт, сурт тӏехьа ларйо | Дукха сурт, йа сурт тӏехьа ца ларо |
+| [Find the Same](/games/find-the-same/) | 2 жаьвап | 4 жаьвап кхин |
+| [Sort Together](/games/sort-together/) | Хьо сурт, стаг корзина йолу | Стаг сурт а, корзина а тайна |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 пазл, хилла дийцар тӏехьа | 9 пазл |
+| [Finish the Saying](/games/finish-the-saying/) | Тӏаьхьа хилла, цхьа дийца тӏехьа | Стаг тӏаьхьа дийца, тайна кхин |
+| [Word Search](/games/word-search/) | Печатать, цхьа хилла, цхьа буква хьоьжуш | Стаг кхин хилла хьоьжуш |
+| [Coloring](/games/coloring/) | Хьо 2 цвет, стаг шен хилла | Стаг дукха цвет |
+| [Conversation Cards](/games/conversation-cards/) | Сурт тӏехьа хилла хьоьжуш | Карточка тӏехьа хилла дийцар |
+| [Photo Pairs](/games/photo-pairs/) | Цхьа дуьззина, кхайкх дукха сурт | Кхин сурт |
+| [Picture Bingo](/games/picture-bingo/) | Цхьа хьо хилла, стаг кхайкх | Стаг шен карточка |
+| [Calm Breathing](/games/calm-breathing/) | Тайна, тӏехьа хьоьжуш | Шен хьолах ма-ха тувалла |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Оьздангалла ма-ха дуйла: тӏаьхьа дуьззина, хьо дагалар, стаг ца дукха дийцар. Ма-ха дуйла дукха ма-ха: стаг ма дукха, хьо тайна, дагалар, ма-ха дийцар. Иштта, дийцар хилла дуьззина оьздангалла ма-ха — цхьа дийцар, гӏуллакх, дешнаш, кхин.
 
-## How do I turn a game into a conversation?
+## Оьздангалла дийцарна мел хилла?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Сурт хьалха дийцар хилла. Стаг жаьвап дукха дуьззина.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Хьо дийца, жаьвап ца дукха.** «Мел хьоьжу?» «Хьо мел кхин?» «Иштта кхин дуьззина...»
+- **Хьо шен дийца дукха.** «Сан нана цхьа иштта хилла.» Хьо дийцар, стаг дийцар дукха.
+- **Дийцар ма-ха тӏаьхьа.** Сурт тӏехьа дийцар цхьа хилла, оьздангалла тӏаьхьа — дийцар тӏехьа.
+- **Факташ ца хьоьжо.** Дийцарна, хьо дуьззина ма хилла. Дийцар кхин хилла — дуьззина хьо.
+- **Оьздангалла дукха хилла.** [Finish the Saying](/games/finish-the-saying/) дукха дийцар хилла, [Conversation Cards](/games/conversation-cards/) дийцар дукха. [Photo Pairs](/games/photo-pairs/) — шен сурт, дукха дийцар.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Дукха дийцар [дахар дийцар](/activities/reminiscence/) а, [дийцар кхийтар](/caregiving/communication-tips/) а тайна.
 
-## When should we stop?
+## Тӏаьхьа дукха мел хилла?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Тайна, хьо тийсинарг, гуш ларйо, тӏаьхьа кхин — цхьа хьолах хьоьжуш. Хьо дукха тӏаьхьа, хьо ма-ха.
 
-Watch for:
+Хьоьжуш:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- хитарш, тувар, экран тӏехьа ца хьоьжуш;
+- дӏа дӏаяхка, дӏа йахка, йа тайна ма ду;
+- дийцарна ца хьо, йа «Сан ца хилла» бохуш;
+- дӏа тайна йа экран дӏаяхка;
+- гуш, зувалла, тӏаьхьа кхин хьолах.
 
-How to stop well:
+Хенара тайна иштта:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Оьздангалла цхьа дуьззина дийца.** Цхьа дийцар хилла, йа тӏаьхьа сурт.
+- **Хьо тайна.** «Сан чай хилла ма-ха ду. Тхо тайна ма?» Стаг ца дукха.
+- **Тӏаьхьа дуьззина кхайкх.** Цхьа кхин ханна, йа хилла, музыка.
+- **Дийца шу дийцар.** «Иштта дуьззина, шу тхо кхайкх.» Цхьа тӏаьхьа ца хилла.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Тайна ханна, гӏуллакх ца хилла, йа оьздангалла тайна хилла — иштта дуьззина хилла.
 
-## Can we play in a group or over a video call?
+## Оьздангалла кхин хьо хилла йа видеозвонок?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Хилла ду, цхьа кхин тийсинарг. Кхин хьо хилла: дукха ца, стаг хьоккхуш. Цхьа тайна [Picture Bingo](/games/picture-bingo/) карточка хилла, кхин хьо кхайкх. [Тхо дукха хьо](/activities/care-home-groups/) — цхьа дукха.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Видеозвонокан, звонок тайна стаг сурт дийца, цхьа тайна хьо дагалар. Звонок ханна ма-ха. Дукха [телефон а, видеозвонок а гайд](/activities/phone-and-video-calls/).
 
-## What if a game just isn't working?
+## Оьздангалла дуьззина ца хилла?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Цхьа дуьззина ца хилла, иштта дукха. Дукха ца хилла хьо а, стаг а. Оьздангалла тайна, кхин ханна йа кхин оьздангалла, йа оьздангалла ца. Дукха оьздангаллаш экран ца хилла: музыка, полотенце дӏаяхка, фотоальбом хьоьжуш, цхьа кхин дукха. [Оьздангаллин дукха](/activities/ideas/) хьоьжуш.

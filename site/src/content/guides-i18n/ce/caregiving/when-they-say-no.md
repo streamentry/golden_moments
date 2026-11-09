@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Деменцин дарж йолу адам аьтто ца бо я дагахь дог дуьйцу"
+seoTitle: "Деменцин дарж йолу адам аьтто ца бо"
+description: "Деменцин дарж йолу адам аьтто ца бо я дагахь дог дуьйцу. Хиларан бакъо, мичча кхин аьтто хьахьа, мичча ца хьажа, я хенан доктор тIе ахь."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Деменцин дарж йолу адам "ца" ала хиллехь, хьо аьтто кхузахь ца догIуш,
+  хенахь я кхин аьтто хьахьа. "Ца" хиларан бакъо бу: аьтто дукха дика ца ду,
+  шу сийсаза ду, цу ма-дарра хьо бу, я шовда дукха ду. Ца хьоьгахь,
+  кхин ца дийрза. Хьо кхин хьахьа, цхьа-шийтта аьтто ца деш, я хьо аьтто
+  хьахьа. Дуьхьа-ца дуьйцу, хенахь я кхин мичча ду дукха доктор тIе ахь
+  дуьйцу, хьо дуьйцу цхьа-шийтта хенахь.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "\"Ца\" хиларан жаар ду, кхин маьлхо йолу хьехам ца ду."
+  - "\"Ца\" хиларан бакъо бу: дукха дика ца ду, дукха сийсаза ду, шу сийсаза, ма-дарра, я шовда дукха ду."
+  - "Цхьа-шийтта хьо дуьйцу, кхин хенахь я кхин тIарт ахь цхьа-шийтта хьахьа."
+  - "Хьо мичча дуй, шу хьахьа гIо хьо кхочуш ду, цу аьтто ца боьлу хьо."
+  - "Дуьхьа-ца, кхин дуьйцу, кхин хьо тIе ахь ца дуьйцу. Цхьа-шийтта дагахь хьо хьахьа ца деш."
+  - "Хенахь дуьйцу я сийсаза хиларан бакъо, цу я хенахь я, сийсаза хиларан дакъа доктор тIе ахь дуьйцу шуьйга."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Цхьа-шийтта хенахь аьтто ца бо, цуьнан бакъо ду?"
+    a: "Хьо дуй. Цхьа дийнан хенахь аьтто ца бо, цуьнан хьо дуй. Цхьа-шийтта юк, музыка я дуьхьа дийна ма-дарра ду. Хенахь йовзийна, шу дукха аьтто ца бо, доктор тIе ахь дуьйцу, хьо бу дог я дукха ма-дарра дуьйцу."
+  - q: "Цхьа аьтто шу дукха йовзийна бо, цуьнан ца боьлу мичча?"
+    a: "Цу аьтто хьо дукха хьахьа, цу аьтто цхьа-шийтта хьо тIе. Деменци дукха дийрзина, цу аьтто йовзийна шу хьо дуй, шу гIо ца боьлу. Хьо шу цхьа хьахьа, мичча аьтто хьахьа, я дуьхьа хьо аьтто бохьу ца, дагах аьтто ца хьо."
+  - q: "Хьо хьехам ца дуьйцу мичча?"
+    a: "Ца. Деменци дукха доьхна тIе хьо хьехам дуьйцу, цу дог дукха дуьйцу. Ца хиларан кхин аьтто хьахьа, тIаьхьа я кхин юкъ дуьйцу, я хенахь кхин бакъо кхин ахь дуьйцу."
+  - q: "Хенахь мичча дог дуьйцу хиллехь, цу шолгIа дуьйцу?"
+    a: "Хьо шовда я ма-дарра дуй хиллехь, 112 дуьйцу. Шовда бу дукха, дийнан я дийнан хенахь, цхьа-шийтта хенахь я, хьо доктор тIе ахь хьо дуьйцу, я дуьхьа дийна я вуьйцу, я кхин мичча ду ахь."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Шу хьоьга аьтто бу: хьо аьтто хьахьа, я тIе дуьйцу, я дуьйцу "Ца" ала. Я аьттон хенахь дукха хьо дуьйцу, я хьо аьтто дуьйцу, я хьо бу дог ала я дагахь дог дуьйцу. Цу хьоьга дукха ду, я дукха дийна ду. Хьо дуйцу дагахь хьо бу: "Ца" бу жаар, кхин дуьйцу.
 
-## Why does someone with dementia refuse activities?
+## Деменцин дарж йолу адам мичча аьтто ца бо?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Цхьа бакъо йолу бу, хьо йовзийна ца ду, я адам аьтто ца бо. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ойлуш: "Ца" ала ду аьтто деш ца ду, я аьтто хьахьа йолу ду. Дукха хьоьга:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Цу аьтто дукха сийсаза ду.** Аьтто деменци дукха сийсаза деш ду, я адам йийна ду шу гIо хилла.
+- **Цу аьтто бу мичча ду.** Йолу адамаш сурт я дуьхьа хьо сурт, дукха я маьлхо, кхин мичча ду.
+- **Шовда.** Дукха адам хенахь дийна шовда дуй. Гуьйре [хенахь тIаьхьа аьтто](/caregiving/late-day-restlessness/) гIо ца.
+- **Физически дуьхьа.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ойлуш: дуьхьа, уьйгIа дийна ца, дуьхьа-дуьхьа, цхьа-шийтта мичча, я кхин дуьхьа гIо дуй.
+- **Шовда дукха.** Тлуьйна дуьхьа, дукха адам, я дукха ди ма-дарра ду.
+- **Дуьхьа хьо хьехам.** NIA дуьйцу: хьо хьехам дуьхьа хьо дуьхьа, цу дог хьо дуьхьа.
+- **Дог ца дуьйцу.** Цхьа аьтто ца боьлу хенахь дог дуьйцу, цу дукха доктор тIе ахь дуьйцу.
+- **Шу дуйцу ца бо.** Адам "ца" ала дуй.
 
-## What should I try when they say no?
+## "Ца" ала хьоьга, мичча аьтто хьахьа?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Ца дуьйцу дийна, цхьа хьо дуьйцу: хенахь, аьтто, сийсаза я хьо дуьйцу.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Цу дийна хьо кхоьхна.** "Цу дика ду. Тlаьхьа цхьа хенахь." Тlаьхьа кхин дуьйцу, цхьа ойлуш ма-дарра.
+2. **Тlаьхьа хьо кхин.** Alzheimer's Association дуьйцу: тlаьхьа хенахь я кхин хенахь хьо кхин.
+3. **Жима хьо дуьйцу.** Цхьа бакъо, цхьа таращ, цхьа дукха. Хьо дуьйцу кхин сурт.
+4. **Хьо шо ду.** "Хьо бакъо бу сурт, я музыка?" Шо хьо дуьйцу дог хьо.
+5. **Хьо дуьйцу гIо, кхин ца.** "Хьо гIо бохьу?" я "Хьо хьоьга дика ду мичча?" Хьо дуьйцу дукха бу.
+6. **Хьо кхин юкъ.** Хьо аьтто хьахьа хьоьга, хьо ца дуьйцу. Дукха адам хьо юкъ кхин.
+7. **Физически я дийна аьтто.** Жима юкъ, музыка, юк, кхин [тIаьхьа хенахь](/games/calm-breathing/). NIA дуьйцу: музыка, кинга я юкъ.
+8. **Хьо мичча дуйцу.** Хьо ца дуьйцу, хьо дуьйцу хьо мичча.
 
-## What should I say when they get frustrated?
+## Дог дуьйцу хиллехь, мичча ала?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Тlаьхьа дийна, дуьхьа дийна, хьо гIо дуьйцу. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) дуьйцу: хьо дуьйцу, кхин дуьйцу, я хьо дуьйцу. Цхьа ойлуш:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Шу хьоьга сийсаза ду, цу ца хьо дуьйцу. Цхьа дийна."
+- "Шу дика дуй. Хьо хьоьга ду."
+- "Хьо хенахь кхин цхьа аьтто гIо дуй?"
+- "Ас чай дуьйцу?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Тlаьхьа аьтто ца дуьйцу, хьо дуьйцу. Шу [аьтто дуьйцу](/caregiving/communication-tips/) кхин ахь.
 
-## What should I avoid?
+## Мичча ца хьажа?
 
-Some natural reactions tend to make things worse.
+Хьо дуьйцу, дукха дуьхьа хьо дуьйцу.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Хьо дуьйцу дуьхьа.** "Дуй ца дуьйцу" я "Цхьа дуьйцу хьо".
+- **Хьо дуьйцу, я хьо дуьйцу.** "Цу дуьйцу" я "Хьо хьоьга дукха".
+- **Хьо дуьйцу, хьо дуьйцу.** Хьо дуьйцу, хьо кхин дуьйцу, дукха адам дуьйцу.
+- **Дукха тIе хьо дуьйцу.** Alzheimer's Association дуьйцу: дуьхьа кхин ца дуьйцу, гIо ца, тlе ца, я тlаьхьа дуьхьа хьо дуьйцу.
+- **Хьо тIе дуьйцу.** "Ас шу хьоьга дуьйцу" дог ала.
+- **Цхьа ойлуш.** "Хьо дуьйцу" я "Хьо дукха хьо дуьйцу" — дукха дуьхьа дуьйцу.
 
-## How can I find out what is behind repeated refusals?
+## Мичча дуьйцу дуьхьа цхьа аьтто ца бохьу хенахь?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Цхьа дийна я хьо дуьйцу, хьо дуьйцу. NIA дуьйцу: дуьйцу дуьхьа хьо дуьйцу.
 
-Jot down:
+Дуьйцу:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- хенахь;
+- хьо аьтто, мичча хьо дуьйцу;
+- хьо дуьйцу (шовда, адам, TV);
+- хьо шо, юк, хьо мичча;
+- кхин юк, кхин дуьхьа.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Дукха хенахь дуьйцу: 16:00 тIаьхьа ца, цхьа аьтто ца, я TV хьо дуьйцу. Family Caregiver Alliance [дуьйцу](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ойлуш: адам хьо ца дуьйцу, хьо дуьйцу мичча хьо дуьйцу я дийна.
 
-## When should I talk to a doctor about refusal or frustration?
+## Доктор тIе мичча вала хьо дуьйцу аьтто ца бо?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Доктор тIе вала, дог хиллехь дукха, цхьа-шийтта я дуьхьа дийна. NIA дуьйцу: дог хиллехь, цхьа-шийтта, я дуьхьа хьо, доктор тIе дуьйцу.
 
-Contact their doctor promptly if you notice:
+Доктор тIе ахь дуьйцу:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- цхьа-шийтта дуьхьа я дийна хьо дуьйцу;
+- дуьхьа, дуьхьа хьо кхин дуьйцу;
+- шовда, я дуьхьа хьо дуьйцу;
+- кхин хьо дуьйцу, я кхин дуьйцу, дуьхьа дийна;
+- дукха дог, цхьа-шийтта хьо дуьйцу, хьо дуьйцу дийна ца;
+- юк я шо ца дуьйцу.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association дуьйцу: дог хиллехь дукха доктор тIе ахь дуьйцу. Family Caregiver Alliance дуьйцу: доктор тIе ахь дуьйцу, хьо дуьйцу дог дуьйцу. Хьо дуьйцу, хьо кхин ца дуьйцу, я кхин дуьйцу, дуьхьа доктор я аптекарь тIе дуьйцу.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Хьо хьехам я дуьхьа, дуьйцу 112. NIA дуьйцу: дуьйцу хьо, шу хьо дуьйцу.
 
-## Is it okay if we do nothing at all?
+## Хьо дуьйцу ца дуьйцу, дика ду?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Дика ду. Цхьа дийна дукха аьтто ца ду: хьо дуьйцу, кхин дуьйцу, я шу музыка, я кинга. Цу хьоьга дуьйцу ца. Шу [юкъ дуьйцу](/caregiving/how-to-play-together/) ахь дуьйцу, мичча ца дуьйцу, я тlаьхьа дуьйцу дика ду.
