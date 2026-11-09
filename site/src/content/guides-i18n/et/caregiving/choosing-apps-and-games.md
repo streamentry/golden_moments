@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kuidas valida dementsusrakke ja mänge"
+seoTitle: "Dementsusrakenduste ja mängude valik: kontrollnimekiri"
+description: "Hooldaja kontrollnimekiri dementsusrakenduste ja mängude valimiseks: alustage eesmärgist, vältige taimereid ja reklaame, kontrollige privaatsust ning lugege väiteid hoolikalt."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Alustage sellest, mida soovite rakenduselt: õrna ergutust, meenutamist,
+  rahu või ühist aega. Seejärel valige rakendus, mis sobib inimese
+  praeguste võimetega, pakkudes suuri pilte, ilma taimerite, punktide ja
+  reklaamideta ning lihtsa võimalusega peatuda. Kontrollige, milliseid
+  andmeid rakendus kogub ja kas saate need kustutada. Suhtuge ettevaatlikult
+  väidetesse, et rakendus ennetab või ravib dementsust; üks uuring ei ole tõestus.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Otsustage esmalt eesmärk: ergutus, meenutamine, rahu või ühisus vajavad eri rakendusi."
+  - "Sobitage rakendus inimese päeva võimetega, mitte staadiumi sildiga, ning hoidke juhtelemendid lihtsad."
+  - "Jätke vahele rakendused, millel on taimerid, punktid, elud, seeriad, reklaamid või ostusoovitused."
+  - "Kontrollige andmete kogumist, jagamist ja kustutamist. HIPAA ei hõlma tavaliselt tarbijarakendusi."
+  - "Olge skeptiline väidete suhtes, nagu „ennetab dementsust“. Üks uuring või paremad tulemused rakenduses ei ole tõestus."
+  - "Golden Moments on meelelahutuslik tegevus. See ei esita kliinilisi väiteid."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Kas ajumängud võivad dementsust ennetada?"
+    a: "Head tõendusmaterjali selle kohta, et kaubanduslikud ajumängude rakendused dementsust ennetaksid või aeglustaksid, ei ole. National Institute on Aging ütleb, et pole piisavalt tõendeid, et kaubanduslikult saadaolevad ajutreeningu rakendused annaksid sama mõju kui struktureeritud treening, mida testiti ühes suuremas uuringus. Valige rakendusi naudingu ja ühise aja jaoks, mitte ravimina."
+  - q: "Kas dementsusrakendust kaitseb HIPAA?"
+    a: "Tavaliselt mitte. HIPAA kehtib üldjuhul tervishoiuteenuse osutajate, ravikindlustusplaanide ja nende äripartnerite kohta. Rakendus, mille laadite alla ise, ei ole tavaliselt kaitstud, välja arvatud juhul, kui selle pakub üks neist. FTC Health Breach Notification Rule hõlmab paljusid terviserakendusi, mida HIPAA ei kata."
+  - q: "Milline peaks hea dementsusmäng välja nägema?"
+    a: "Suured ja selged pildid ning tekst, igal ekraanil üks ilmne tegevus, ilma taimeri või punktideta, vigade puhul ei tohi olla signaale, reklaame ei tohi olla ning peab olema lihtne viis paus teha või lõpetada. See peaks tunduma täiskasvanutele mõelduna ja teise inimesel peaks olema lihtne kaasa lüüa."
+  - q: "Kas Golden Moments väidab, et see aitab mälu?"
+    a: "Ei. Golden Moments pakub lihtsaid ühiseid tegevusi naudingu ja vestluse jaoks. See ei diagnoosi, ravi, ennet ega mõõda dementsust ning me ei esita väiteid mälu või mõtlemise kohta."
+  - q: "Kas peaksin dementsusrakenduse eest maksma?"
+    a: "Proovige esmalt tasuta võimalusi või tasuta prooviperioode ning jälgige paari nädala jooksul, kuidas inimene reageerib. Rakenduse eest maksmine ei muuda seda tõhusamaks. Enne tellimuse vormistamist kontrollige, kuidas seda tühistada."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Rakendustepoed on täis mänge, mis on mõeldud eakatele, mälu toetamiseks või dementsusega inimestele. Mõned on läbimõeldult tehtud. Teised lisavad meditsiiniliselt kõlavaid lubadusi, taimereid, mis muudavad mängu testiks, või reklaame ja andmekogumist. See leht aitab teil iga rakendust ise hinnata. Me ei sea teisi tooteid paremusjärjestusse ega arvusta neid.
 
-## What should I decide before choosing a dementia app?
+## Mida peaksin enne dementsusrakenduse valimist otsustama?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Otsustage, mida soovite rakenduselt. „Mäng emale“ võib tähendada väga erinevaid asju ning ühe eesmärgi jaoks sobiv valik ei pruugi teise jaoks sobida.
 
-| Goal | What it looks like | What to look for |
+| Eesmärk | Kuidas see välja näeb | Mida otsida |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Õrn ergutus | Sobitamine, sorteerimine, lihtsad pusled, sõnamängud | Kohandatav raskusaste, nähtaval püsivad pildid, ajasurveta |
+| Meenutamine | Vanad fotod, tuttavad ütlused, nooruspõlve muusika | Enda fotod, avatud küsimused, ilma kontrollküsimusteta |
+| Rahu | Aeglased visuaalid, vaiksed helid, hingamine, loodus | Lihtne alustada ja lõpetada, ei midagi vilkuvat, ei üllatusi |
+| Ühisus | Koos mängimine või vestlemine, kas kohapeal või videokõne teel | Mõeldud kahele inimesele, vestlust toetavad vihjed |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Uuringud struktureeritud „kognitiivse ergutuse“ kohta dementsusega inimeste seas hõlmavad enamasti koolitatud töötajate juhitud rühmatunde, kus arutatakse, mängitakse sõna- ja puslemänge, kuulatakse muusikat ning tehakse loovaid tegevusi. [Cochrane’i ülevaade](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) leidis keskmiselt väikese kasu, mis uuringute lõikes erines. Selline sotsiaalne ja mitmekesine programm ei ole sama mis üksi kasutatav rakendus, seega vaadake igat rakendust kui üht ühist tegevust paljude seas.
 
-## How do I know if an app fits the person's abilities?
+## Kuidas teada, kas rakendus sobib inimese võimetega?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Jälgige, kuidas inimene reageerib, mitte diagnoosi või staadiumi silti. Kahel inimesel „samas staadiumis“ võivad nägemine, kuulmine, käte osavus, keel ja ekraanidega mugavus olla väga erinevad. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) soovitab arvestada varasemaid huvisid ja praeguseid võimeid ning keskenduda naudingule, mitte saavutusele.
 
-Signs of a good fit:
+Hea sobivuse märgid:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- inimene alustab või liitub ilma suure veenmiseta;
+- ta naeratab, kommenteerib või jutustab loo;
+- vead ei paista teda häirivat;
+- ta on rahul, kui on aeg lõpetada.
 
-Signs it is a poor fit:
+Halva sobivuse märgid:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- korduv „ma ei oska“ või „see on rumal“;
+- segadus selle üle, kuhu puudutada;
+- pettumus, piinlikkus või seadme eemale lükkamine;
+- tegevus toimib ainult siis, kui teie teete peaaegu kõik ära.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Ärevus või pahameel on märk, mitte asi, millest läbi suruda. Vaadake [mida teha, kui inimene ütleb ei](/caregiving/when-they-say-no/). Rakendusteväliste ideede jaoks staadiumi järgi vaadake [varajase staadiumi](/activities/early-stage/) ja [hilise staadiumi](/activities/late-stage/) tegevusi.
 
-## What design features should I look for or avoid?
+## Milliseid kujunduse omadusi peaksin otsima või vältima?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Otsige rahulikku, lihtsat ja täiskasvanulikku kujundust ning vältige kõike, mis tekitab survet.
 
-| Look for | Be wary of |
+| Otsige | Olge ettevaatlik |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Suured pildid ja tekst, tugev kontrast | Väikesed ikoonid, segased ekraanid |
+| Üks selge tegevus ekraanil | Palju nuppe, menüüsid või mitme sammuga juhised |
+| Taimer puudub või on välja lülitatav | Tagurpidi loendus, kiirusboonused, „võida oma aeg“ |
+| Punktid puuduvad või tagasiside on õrn | Punktid, elud, seeriad, edetabelid, „aju vanus“ |
+| Vigu käsitletakse vaikselt | Signaalid, punased ristid, sõnumid „Vale“ |
+| Täiskasvanulikud, päriselust pärit pildid | Multifilmilikud või lapsikud teemad |
+| Töötab võrguühenduseta, alustamiseks pole kontot vaja | Nõuab registreerumist, sisselogimist või sisu allalaadimist |
+| Lihtne paus ja lõpetamine | Hüpikaknad, mis paluvad edasi mängida või rakendust hinnata |
+| Reklaame pole, hind on selge (ühekordne või tellimus) | Reklaamid, õnneriistad, sagedased ostusoovitused |
+| Teisel inimesel on lihtne kaasa lüüa | Ainult üksikmäng, võistluslik ülesehitus |
 
-Ads and purchase prompts are easy to tap by accident.
+Reklaame ja ostusoovitusi on lihtne kogemata puudutada.
 
-## How do I check an app's privacy?
+## Kuidas kontrollida rakenduse privaatsust?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Kontrollige, mida rakendus kogub, kellega seda jagatakse ja kas saate andmed kustutada. Enne paigaldamist:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Lugege poe privaatsuse kokkuvõtet.** Google Play [andmeturbega seotud jaotis](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ja App Store’i [privaatsusteabe jaotis](https://support.apple.com/en-us/102399) näitavad, milliseid andmetüüpe rakendus võib koguda ja jagada. Mõlemad ettevõtted märgivad, et selle teabe esitavad arendajad ise, seega on see alguspunkt, mitte audit.
+2. **Küsige, kas rakendus vajab kontot.** Kui rakendus näitab ainult pilte või lihtsaid mänge, ei pruugi tal olla põhjust teada teie nime, e-posti aadressi ega sünnikuupäeva.
+3. **Kontrollige õigusi.** Kas sobitamismäng vajab tõesti asukohta, kontakte, mikrofoni või kogu teie fotokogu? Lülitage välja kõik, mida see ei vaja.
+4. **Vaadake reklaame ja analüütikat.** Reklaami- ja jälgimisvahendid võivad saata teavet rakenduse kasutamise kohta teistele ettevõtetele.
+5. **Uurige, kuhu fotod lähevad.** Kui lisate perefotosid, kas need jäävad seadmesse või laaditakse serverisse üles? Kas saate need eemaldada?
+6. **Kontrollige kustutamist.** Otsige privaatsuspoliitikast või andmete kokkuvõttest teavet andmete ja konto kustutamise kohta. Rakendus, mis ütleb, et andmeid ei saa kustutada, vajab eriti ettevaatlikku suhtumist, eriti kui see sisaldab fotosid või terviseandmeid.
+7. **Lugege privaatsuspoliitikat**, et saada selged vastused, mida kogutakse, miks, kui kaua ja kellega seda jagatakse.
 
-### Does HIPAA protect information in dementia apps?
+### Kas HIPAA kaitseb teavet dementsusrakendustes?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Tavaliselt mitte, mis üllatab paljusid inimesi. Ameerika Ühendriikide tervishoiu- ja sotsiaalministeerium [selgitab](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), et HIPAA kehtib ravikindlustusplaanide, enamiku tervishoiuteenuse osutajate, tervishoiu infosüsteemide ja nende äripartnerite kohta. Enamasti ei kaitse see andmeid, mille sisestate isiklikuks kasutamiseks mõeldud rakendusse, välja arvatud juhul, kui rakenduse pakkus HIPAA kohustuslane või selle äripartner. Rakendustepoest pärit „dementsusrakendus“ jääb sageli HIPAA reguleerimisalast välja, isegi kui see räägib tervisest.
 
-### What protects health data in apps that HIPAA does not cover?
+### Mis kaitseb terviseandmeid rakendustes, mida HIPAA ei kata?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Paljusid neist katab Föderaalse Kaubanduskomisjoni Health Breach Notification Rule. 2024. aastal [viis FTC lõpule muudatused](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), mis selgitavad, et reegel kehtib terviserakenduste ja sarnaste tehnoloogiate kohta, mida HIPAA ei kata. „Andmeleke“ hõlmab ka volitamata avalikustamist, mitte ainult häkkimist, ning ettevõtted peavad teavitama mõjutatud inimesi ja FTC-d. See on turvavõrk pärast midagi halba, mitte lubadus, et rakendus kogub ainult vajalikku.
 
-## How should I read claims about research and evidence?
+## Kuidas peaksin lugema väiteid uuringute ja tõendite kohta?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Lugege tõendite kohta käivaid väiteid aeglaselt ning olge kõige skeptilisem suurimate lubaduste suhtes. Küsimused, mida esitada:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Mida täpselt uuriti?** Ühe treeningprogrammi uuring ei näita, et iga mäng rakenduses toimib samamoodi.
+- **Keda uuriti?** Tulemused tervetel eakatel ei pruugi kehtida inimese kohta, kellel on dementsus.
+- **Mida mõõdeti?** Mängus paremaks saamine erineb muutustest igapäevaelus, vestluses, meeleolus või iseseisvuses.
+- **Kui tugev on uuring?** Randomiseeritud kontrollitud uuring (RCT) võrdleb rühma, kes kasutab rakendust, rühmaga, kes seda ei kasuta. See on hea ülesehitus, kuid üks väike või lühike RCT ei ole tõestus. Otsige mitut uuringut sõltumatutelt uurijatelt, mille tulemused on kooskõlas.
+- **Kas väidetakse, et see muudab haigust?** Uuring, mis näitab väikesi paranemisi testis, ei ole tõend, et rakendus aeglustab, ennetab või ravib dementsust.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Agingi leht [kognitiivse tervise ja eakate kohta](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) kirjeldab suurt NIH rahastatud struktureeritud kognitiivse treeningu uuringut ning hoiatab seejärel lugejaid väidete eest, et teatud arvuti- ja veebimängud võivad mälu ja mõtlemist parandada. Lehel öeldakse, et praegu ei ole piisavalt tõendeid, et kaubanduslikult saadaolevad ajutreeningu rakendused annaksid sama mõju kui selles uuringus testitud treening. Lisateavet leiate meie juhendist [ajumängude ja tõendusmaterjali kohta](/brain-health/brain-games/) ning [mida uuringud ütlevad dementsuse ennetamise kohta](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Milline on avalik näide eksitavast väitest?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016. aasta jaanuaris [teatas FTC kokkuleppest](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity, „ajutreeningu“ programmi, loojatega. FTC väitis, et ettevõte esitas piisavate tõenditeta väiteid, nagu aitaksid selle mängud viivitada vanusega seotud kognitiivse langusega ning kaitsta kerge kognitiivse häire, dementsuse ja Alzheimeri tõve eest. Ettevõte nõustus maksma 2 miljonit dollarit ning peab tulevikus selliste väidete esitamiseks omama pädevaid ja usaldusväärseid teaduslikke tõendeid. See juhtum tuletab kasulikult meelde, et turunduskeel ei ole tõend.
 
-### Which words are red flags?
+### Millised sõnad on hoiatusmärgid?
 
-Be cautious when an app or ad says it:
+Olge ettevaatlik, kui rakendus või reklaam ütleb, et see:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- „ennetab“, „pöörab tagasi“, „peatab“ või „ravib“ dementsust või Alzheimeri tõbe;
+- on „kliiniliselt tõestatud“, nimetamata uuringut, selles osalejaid ja seda, mida mõõdeti;
+- annab „aju vanuse“ või mälu hinde, mis vihjab diagnoosile;
+- „teravdab“, „võimendab“ või „treenib“ aju;
+- kasutab isiklikke lugusid tõendusena.
 
-If you are unsure about a claim, ask the person's doctor.
+Kui te pole väites kindel, küsige inimese arstilt.
 
-## Where does Golden Moments fit?
+## Kuhu Golden Moments sobib?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments pakub lihtsaid ühiseid tegevusi, mitte mälutesti, teraapiat ega meditsiinilist nõu. Meie mängud, nagu [Pildipaarid](/games/picture-pairs/), [Vestluskaardid](/games/conversation-cards/), [Fotopaarid](/games/photo-pairs/), [Pildibingo](/games/picture-bingo/) ja [Rahulik hingamine](/games/calm-breathing/), on loodud naudingu ja vestluse jaoks. Need ei diagnoosi, ravi, ennet ega mõõda dementsust ning me ei esita väiteid mälu või mõtlemise kohta.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Teeme ka tasuta rakenduse, [Golden Moments iPhone’ile, iPadile ja Androidile](/app/). Selles on õrn piltide sobitamine suurte plaatidega, mängud teie valitud perefotodega ja võrguühenduseta töötavad pildipaketid, ilma konto, reklaamide, taimeri või punktideta. Sama kontrollnimekiri kehtib ka siin: App Store’i privaatsussildil on kirjas „Andmeid ei koguta“ ning [rakenduse privaatsuspoliitika](/app-privacy/) selgitab, kus fotokoopiad hoitakse.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Eelistame, et hindate meid ise, mitte ei usaldaks meid pimesi. Kasutage selle lehe kontrollnimekirja, lugege meie [privaatsuslehte](/privacy/) ja [meditsiinilist lahtiütlust](/medical-disclaimer/) ning lõpetage kõige kasutamine, ka meie oma, kui see ei sobi inimesele, kelle eest hoolitsete.
 
-## What is a sensible way to try a new app?
+## Milline on mõistlik viis uut rakendust proovida?
 
-Try it together for a couple of weeks and watch what happens.
+Proovige seda koos paari nädala jooksul ja jälgige, mis juhtub.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Seadistage see esmalt valmis**, kasutades meie [tahvelarvuti ja telefoni seadistamise juhendit](/caregiving/tablets-and-screens/), ning alustage kõige lihtsamast tasemest.
+2. **Hoidke seansid lühikesed,** pange tähele naeratust, vestlust ja rahu ning lõpetage heal hetkel.
+3. **Loobuge sellest, kui see tekitab pettumust,** ükskõik kui kõrgelt seda hinnatakse.

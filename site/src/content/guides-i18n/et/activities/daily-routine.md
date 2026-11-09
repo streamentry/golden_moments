@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Õrn päevakava dementsusega inimese jaoks"
+seoTitle: "Dementsus ja päevakava: paindlik näidispäev"
+description: "Paindlik näidispäev dementsusega inimesele: söögiajad, tegevused ja puhkus ühtlases rütmis ning nõuanded, kuidas kava koostada ja raskematel päevadel kohandada."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Õrn päevakava hoiab ärkamise, söögikordade, igapäevase hoolduse ja uneaja
+  ligikaudu samadel kellaaegadel, asetab peamise tegevuse aega, mil inimene on
+  kõige erksam, ning tasakaalustab tegevuse ja puhkuse. Koostage kava inimese
+  seniste harjumuste põhjal, hoidke see pigem lõdva kui tihedana, lisage iga
+  päev päevavalgust ja liikumist ning muutke plaani julgelt, kui päev seda
+  nõuab.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ühtlased ajad ärkamiseks, söömiseks, hoolduseks ja magamaminekuks annavad päevale tuttava raami."
+  - "Asetage peamine tegevus inimese parimale ajale päevas, sageli hommikusse."
+  - "Ärge täitke iga minutit. Puhkus ja vaikne aeg on samuti päevakava osa."
+  - "Päevavalgus, igapäevane liikumine ning pikkade hiliste uinakute ja hilise kofeiini vältimine võivad aidata hilisõhtuse rahutuse korral."
+  - "Päevakava on juhis, mitte reegel. Vahetage, lühendage või jätke raskematel päevadel midagi vahele."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Miks on päevakava dementsusega inimesele kasulik?"
+    a: "Ettearvatav päev tähendab vähem otsuseid ja üllatusi, mis võib paljudele dementsusega inimestele pakkuda kindlustunnet. Alzheimer's Association märgib, et kavandatud päeva korral kulutate vähem aega sellele, mida teha, ja rohkem aega tegevustele, mis teile mõlemale rõõmu pakuvad. Samuti aitab see hooldajal oma päeva paremini jaotada."
+  - q: "Milline on hea päevakava dementsusega inimesele?"
+    a: "Ühtset õiget kava ei ole. Hea kava hoiab ärkamise, söögikordade ja uneaja ligikaudu samal ajal, asetab igapäevase hoolduse ja peamise tegevuse inimese parimasse aega, sisaldab aega väljas või akna lähedal ning jätab ruumi puhkuseks. Koostage see selle järgi, kuidas inimene on alati elanud."
+  - q: "Kas dementsusega inimene peaks päeval uinakut tegema?"
+    a: "Lühike puhkus võib aidata, eriti pärast lõunat. National Institute on Aging soovitab vältida pikki uinakuid ja hilist tukastamist, sest väsimus või halb puhkus võivad hilisõhtust rahutust suurendada. Kui uni on tõeline probleem, rääkige sellest tema arstiga."
+  - q: "Mis siis, kui ta keeldub päevakava järgimast?"
+    a: "Laske sellel praegu olla ja proovige hiljem uuesti või teistmoodi. Keeldumine võib tähendada, et ta on väsinud, haige, tal on valusid või ta lihtsalt ei ole valmis. Päevakava eesmärk on päeva kergemaks teha, seega kohandage seda, mitte ärge sundige."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Õrn päevakava annab päevale tuttava raami: ärkamine, söögikorrad, veidi tegevust, puhkus ja magamaminek ligikaudu samadel kellaaegadel. See vähendab otsuste ja üllatuste hulka ning annab teile plaani nende hetkede jaoks, mil te muidu mõtleksite, mida järgmisena teha. Allolev päevakava on näidis, mitte reegel. Kasutage seda lähtepunktina ja kujundage see vastavalt inimesele, kelle eest hoolitsete.
 
-## Why does a daily routine help?
+## Miks päevakava aitab?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ühtlane päevakava aitab seetõttu, et tuttavaid mustreid on kergem järgida kui uusi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ütleb, et kavandatud päev tähendab vähem aega otsustamisele, mida teha, ja rohkem aega nauditavateks tegevusteks. Samuti märgib ta, et korrapärased ärkamis- ja magamaminekuajad võivad aidata uneprobleemide ja hilisõhtuse rahutuse korral. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) soovitab rahuliku kodukeskkonna osana pesemist, riietumist ja söömist samadel kellaaegadel ning ka [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) soovitab hoida samu rutiine.
 
-## A sample gentle day
+## Näidis õrnast päevast
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Kellaajad on ainult näited. Nihutage kogu päeva varem või hilisemaks vastavalt inimese enda rütmile.
 
-| Time | What happens | Ideas | On a harder day |
+| Kellaaeg | Mis toimub | Ideed | Raskemal päeval |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8.00 | Ärkamine, pesemine, riietumine | Iga päev samas järjekorras; pange riided valmis kandmise järjekorras | Hoidke hooldus lihtne; puhas särk on piisav |
+| 8.45 | Hommikusöök | Kohv ja valjusti loetud ajaleht või raadio | Sööge koos vaikselt, ilma vestluseta survestamata |
+| 9.30 | Peamine tegevus | Pesu voltimine, küpsetamine, aiatöö, lühike väljas käik või jalutuskäik | Lühem versioon või laske tal vaadata, kuidas teie teete |
+| 10.30 | Vaikne aeg | Muusika, fotoalbum või akna ääres istumine | Puhkus lemmiktoolis |
+| 11.00 | Abi lõunasöögi juures | Köögiviljade pesemine, laua katmine | Teie valmistate toitu; tema hoiab teile seltsi |
+| 12.00 | Lõunasöök ja korrastamine | Laua pühkimine, mõne nõu kuivatamine | Jätke majapidamistööd vahele |
+| 13.00 | Lühike puhkus | Jalad üles, vaikne muusika | Sama |
+| 14.00 | Õues või aktiivne aeg | Jalutuskäik, veranda, taimede kastmine, õhupalli loopimine | Istuge päikeselise akna ääres |
+| 15.00 | Seltskondlik või loominguline aeg | Külastus, kõne, [pildipaarid](/games/picture-pairs/), värvimine, kaardid | Jook ja väike suupiste koos |
+| 16.30 | Rahunemise aeg | Kardinad kinni, tuled põlema, rahulik tegevus nagu pesulappide voltimine | Tuttav muusika, vähe müra |
+| 17.30 | Õhtusöök | Abi segamisel või laua katmisel | Lihtne, tuttav toit |
+| 18.30 | Õhtu koos | Mälestuste meenutamine magustoidu kõrvale, kaardid, lemmiksaade, kätemassaaž | Vaikne koosviibimine |
+| 20.00 | Õhtune rutiin | Vann või pesemine, pidžaama, vaikne muusika, hämar valgus | Lühendage kõike; mugavus on esikohal |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+See näidis järgib Alzheimer's Associationi enda varajase ja keskmise staadiumi näidiskava ülesehitust, mis liigub igapäevasest hooldusest ja hommikusöögist majapidamistööde, jalutuskäikude, muusika, puhkuse ja külastuste kaudu õhtusöögi, mälestuste meenutamise ja magamaminekuks valmistumiseni.
 
-## How do you build your own routine?
+## Kuidas koostada oma päevakava?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Alustage sellest, kuidas inimene on alati elanud, mitte tabelist. Alzheimer's Association soovitab enne planeerimist mõelda järgmisele:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Tema meeldivused, ebameeldivused, tugevused ja huvid.**
+- **Kuidas ta oma päeva tavaliselt veetis.** Varajane ärkaja, kes alati koeraga jalutas, võiks ka edaspidi vara jalutada. Õhtuinimene ei pruugi kunagi nautida algust kell 8.00.
+- **Tema parim aeg päevas.** Asetage pesemine, väljas käimine ja peamine tegevus sellesse aega.
+- **Piisavalt aega** söögiks, pesemiseks ja riietumiseks, et miski ei toimuks kiirustades.
+- **Korrapärased ärkamis- ja magamaminekuajad.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Sama allikas soovitab lisada erinevaid tegevusi: majapidamistöid, söögikordi, igapäevast hooldust, loomingulisi tegevusi, füüsilist aktiivsust, seltskondlikku aega, vaimset tegevust ja spontaanseid hetki, näiteks sõbra ootamatut külastust.
 
-### Try it for a week, then adjust
+### Proovige nädal aega ja kohandage
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Tehke iga päev lühike märge. Alzheimer's Association soovitab küsida, millised tegevused toimisid kõige paremini ja miks, kas oli aegu, mil toimus liiga palju või liiga vähe, ning kas spontaansed plaanid olid nauditavad või tekitasid muret. Jätke alles see, mis toimib, ja muutke seda, mis ei toimi.
 
-### Make it visible
+### Tehke see nähtavaks
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Kui inimene saab veel lugeda, võib päeva plaaniga tahvel või suure trükiga kaart pakkuda kindlustunnet. Hoidke see lühike: „Hommikusöök. Jalutuskäik Saaraga. Lõunasöök. Puhkus.” Mõnel inimesel on parem, kui ta ei tea plaanidest kaua ette; Family Caregiver Alliance soovitab plaane arutada alles vahetult enne toimumist, kui see muret tekitab.
 
-## How to adapt the routine
+## Kuidas päevakava kohandada
 
-### Leave room to breathe
+### Jätke ruumi hingamiseks
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ärge täitke iga minutit. Alzheimer's Association rõhutab, et inimesel on vaja tasakaalu tegevuse ja puhkuse vahel ning tal võib olla vaja sagedasemaid pause. Kui ta tundub tüdinud, hajevil või ärritunud, vahetage tegevust või tehke paus.
 
-### Protect the late afternoon
+### Kaitske hilist pärastlõunat
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Paljud inimesed muutuvad rahutumaks, kui päevavalgus hääbub. NIA soovitab iga päev veeta aega väljas või akna juures päikesevalguse käes, olla iga päev aktiivne ilma päeva üle koormamata, vältida hilisel päeval kofeiini ja alkoholi ning hoiduda hilistest pikkadest uinakutest. Mõned pered leiavad, et aitab ka kardinate sulgemine ja tulede sisselülitamine enne videvikku. Vaadake ka lehti [hilisõhtune rahutus](/caregiving/late-day-restlessness/) ja [uni](/brain-health/sleep/).
 
-### Change it as needs change
+### Muutke kava vastavalt vajadustele
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Varajane staadium:** koostage päevakava koos. Inimene võib soovida kirjalikku kava, mida ta ise haldab.
+- **Keskmine staadium:** teie juhite rohkem. Lühemad tegevused, rohkem puhkust ja palju tuttavaid toimetusi; vaadake lehte [keskmise staadiumi tegevused](/activities/middle-stage/).
+- **Hiline staadium:** päevakava keskendub mugavusele, söögikordadele ja hooldusele, mille vahele mahuvad lühikesed meeltekogemused, näiteks muusika või kätemassaaž; vaadake lehte [hilise staadiumi tegevused](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Vahetage tegevusi, mitte raamistikku
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Hoidke söögikorrad, puhkus ja magamaminekuaeg ühtlasena ning vahetage nende vahele jäävaid tegevusi. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) soovitab proovida eri päevadel erinevaid tegevusi, et hoida päeva huvitavana. Võite esmaspäeval küpsetada, teisipäeval aiatööd teha ja kolmapäeval fotosid vaadata. Meie lehed [101 tegevusideed](/activities/ideas/) ja [majapidamistööd](/activities/household-tasks/) aitavad neid aegu täita.
 
-## When the day goes sideways
+## Kui päev ei lähe plaanipäraselt
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Mõnel päeval ei järgi miski plaani. Haigus, halb öö, arsti visiit või ilma muutus võib kõik sassi ajada. Jätke plaan sinnapaika, hoolitsege põhiasjade eest (toit, jook, puhkus, mugavus) ja proovige homme uuesti. Kui inimene millestki keeldub, vaadake lehte [kui ta ütleb ei](/caregiving/when-they-say-no/). Ühine aeglane hingamispaus, näiteks [rahulik hingamine](/games/calm-breathing/), võib aidata teil mõlemal taas rahuneda.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ka teie enda päevakava on oluline. Lisage sellesse pause enda jaoks ning paluge perel või asendushoolduse teenusel katta teile regulaarne vaba aeg. Vaadake lehte [hooldaja enesehool](/caregiving/caregiver-self-care/).

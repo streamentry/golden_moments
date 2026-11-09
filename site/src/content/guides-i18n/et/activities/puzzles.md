@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Pusled dementsusega inimestele: mosaiik-, sõna- ja lihtsad veebipusled"
+seoTitle: "Pusled dementsusega inimestele: mosaiik ja sõnad"
+description: "Kuidas valida dementsusega inimesele mosaiik-, sõna- ja veebipuslesid: tükkide suurus, pilt, suur trükk, koos tegemine ja lihtsustamine."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Parim pusle dementsusega inimesele on selline, mille ta saab väikese abiga
+  valmis ja millest tal on hea meel. Vali mosaiikpildid, millel on vähem ja
+  suuremaid tükke ning selge täiskasvanulik pilt, hoia karbi pilti nähtaval ja
+  sorteeri esmalt servatükid. Sõnaotsingud ja ristsõnad sobivad kõige paremini
+  suures trükis. Lihtsad neljatükilised veebipusled sobivad sageli haiguse
+  keskmises staadiumis. Lõpeta, kuni on lõbus.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Vali selle järgi, kuidas läheb, mitte staadiumi nimetuse järgi: kui pusle tundub vaevarikas, proovi vähemate tükkidega."
+  - "Suured ja tugevad tükid ning selge pilt eristuvate värvialadega on lihtsamad kui pisikesed tükid ja suur taevas."
+  - "Täiskasvanulikud pildid on olulised. Aiad, köögid, autod ja loomad, mitte multifilmid."
+  - "Koos tegemine ongi mõte. Ulata tükke, sorteeri servi ja hoia karbi kaant nähtaval."
+  - "Selles saidil on tasuta saadaval suure trükiga sõnaotsingud ja lihtsad 4- või 9-tükilised veebipusled."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Mitu pusletükki sobib dementsusega inimesele kõige paremini?"
+    a: "Ühtainust õiget arvu ei ole. Inimene, kes varem tegi 1000-tükilisi puslesid, võib haiguse alguses nautida endiselt mõnesajast tükist koosnevaid puslesid, samas kui teisele sobivad kõige paremini kümmekond suurt tükki. Kui pusle tundub vaevarikas või tekitab pettumust, mine vähemate tükkide juurde. Meie veebis olev Pildipusle on 4 või 9 tükiga."
+  - q: "Kas mosaiikpusled sobivad dementsusega inimestele?"
+    a: "Paljud inimesed naudivad neid, eriti kui neile meeldisid pusled ka varem. Pusle annab kätele tegevust, selge eesmärgi ja pildi, millest rääkida. Ühegi pusle puhul ei ole näidatud, et see raviks või aeglustaks dementsust, seega vali need naudingu ja seltsi pärast."
+  - q: "Mida teha, kui inimene ei saa enam mosaiikpildiga hakkama?"
+    a: "Tee pusle väiksemaks ja tee ise rohkem ära: ulata korraga üks tükk või jäta talle alles vaid viimased paar tükki. Proovi 4-tükilist veebipuslet, tükkide värvi järgi sorteerimist või lihtsalt valmis pildi koos vaatamist."
+  - q: "Kas ristsõnad ja sõnaotsingud sobivad dementsuse korral?"
+    a: "Need võivad sobida haiguse varajases staadiumis, kui need on suures trükis. Sõnaotsingud, kus sõnad on ainult paremalt vasakule ja ülevalt alla, on lihtsamad kui need, kus sõnad on ka diagonaalis või tagurpidi. Loe vihjed või sõnade loend valjusti ette ja tehke puslet koos."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Söögilauale laotatud mosaiikpilt on üks lihtsamaid tegevusi, mida koos jagada. Saate istuda kõrvuti ka siis, kui juttu ei ole, pilt annab vestluseks ainest ja viimase tüki paigale panemine pakub head tunnet. Dementsuse muutudes tuleb ka puslesid muuta. Liiga raske pusle võib rahuliku pärastlõuna muuta masendavaks. Sellel lehel leiad nõuandeid, kuidas valida ja ette valmistada mosaiik-, sõna- ja lihtsaid veebipuslesid ning mida teha siis, kui need muutuvad raskeks.
 
-## Are puzzles good for people with dementia?
+## Kas pusled sobivad dementsusega inimestele?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Paljud inimesed naudivad neid, eriti need, kellele pusled ka varem meeldisid. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) loetleb haiguse varajase staadiumi tegevuste hulgas sõnaotsingud, kaardimängud ja lauamängud ning [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mainib tahvelarvutites mängitavaid veebimänge ja puslesid ühe võimalusena tegevuses püsida.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Pusled ei ole ravi. Ühegi pusle puhul ei ole näidatud, et see aeglustaks või peataks dementsust; meie juhend [ajumängudest ja dementsusest](/brain-health/brain-games/) selgitab uurimusi. Puslet tasub teha seepärast, et see võib olla mõnus ja kaasahaarav ühine aeg. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) võtab selle kokku nii: keskendu naudingule, mitte saavutusele.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kuidas valida dementsusega inimesele mosaiikpusle?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Lähtu sellest, mis inimesele meeldib ja kuidas eelmine pusle läks, mitte staadiumi nimetusest.
 
-### Number of pieces
+### Tükkide arv
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Õiget arvu ei ole. Eluaegne puslede sõber võib haiguse alguses endiselt nautida mõnesajast tükist koosnevaid puslesid, samas kui keegi teine tunneb end kõige paremini kümmekonna tükiga. Praktiline reegel: kui eelmine pusle tundus vaevarikas, vali uus, millel on umbes poole vähem tükke. Kui see sai kiiresti valmis ja inimene tahtis veel, mine veidi suuremaks.
 
-### Piece size and feel
+### Tükkide suurus ja tunnetus
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Suuremad tükid** on kergemini nähtavad, haaratavad ja keeratavad.
+- **Paksud ja tugevad tükid** püsivad paigal ja taluvad maha kukkumist.
+- **Matt pind** vähendab lampide ja akende peegeldust.
+- **Väldi pisikesi tükke**, kui inimene võib asju suhu panna, mis võib dementsuse hilisemas staadiumis juhtuda.
 
-### The picture
+### Pilt
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Täiskasvanulikud teemad.** Aiad, köögid, vanad autod, talu loomad, mereäärne linn, lemmikspordiala. Mitte multifilmid ega midagi, mis meenutab laste mänguasja.
+- **Eristuvad värvialad.** Punane laut, sinine paat ja roheline põld on lihtsamad kui taevas, mis täidab poole puslest.
+- **Tuttav ja isiklik.** Pilt kohast, kus inimene on elanud, või hobist, mida ta on armastanud, annab palju jututeemasid. Mõned trükikojad saavad pererahvast pusleks teha.
 
-## How do you do a puzzle together?
+## Kuidas puslet koos teha?
 
-Set it up so the person can get straight to the enjoyable part.
+Valmista see ette nii, et inimene saaks kohe meeldiva osa juurde asuda.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Vali sobiv koht.** Hea valgus, käetugedega tool ja laud või alus, kuhu pusle võib jääda.
+2. **Pane karbi kaas püsti** nii, et teil mõlemal oleks seda hea vaadata.
+3. **Keera tükid enne alustamist pildipool ülespoole.**
+4. **Sorteeri servatükid** ise välja või tee esmalt raam ja jäta keskosa inimesele.
+5. **Rühmita tükid värvi järgi** mõnda madalasse alustassi või taldrikule.
+6. **Ulata korraga üks tükk**, kui hunnik tundub ülejõukäiv. „Ma arvan, et see tükk kuulub lauda juurde.“
+7. **Räägi pildist,** mitte edenemisest. „See meenutab paati, mis mu isal oli.“
+8. **Jäta pusle välja.** Tule selle juurde mitme päeva jooksul tagasi. Pole põhjust kiirustada.
+9. **Lõpeta hea hetke juures,** näiteks siis, kui üks tükk on paigas ja tunne on veel mõnus.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) soovitab aidata inimesel alustada, jälgida pettumust ja lasta tal lihtsalt vaadata, kui see talle rohkem meeldib. Ka see, kui inimene vaatab, kuidas sina tükke paned, ja osutab, kuhu mõni tükk võiks minna, on osalemine.
 
-## Easy online puzzles
+## Lihtsad veebipusled
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tahvelarvutis puslel on mitmeid päris häid eeliseid: tükid ei kao ära, ekraani täidavad suured pildid ja lauda pole vaja koristada.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Meie tasuta [Pildipusle](/games/picture-puzzle/) jagab pildi 4 või 9 tükiks. Puuduta kahte tükki, et neid vahetada, kuni pilt on tervik. Terve pilt jääb abiks ekraanile, taimerit ei ole ja saad igal hetkel lõpetada. Neli tükki sobib paljudele inimestele haiguse keskmises staadiumis, kui keegi on kõrval.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Veelgi lihtsamaks pildimänguks proovi mängu [Leia sama](/games/find-the-same/), kus puudutad pilti, mis sobib ülal oleva pildiga, või mängu [Sorteeri koos](/games/sort-together/), kus pildid pannakse korvidesse, näiteks kööki või aeda.
 
-## Word puzzles: word searches and crosswords
+## Sõnapusled: sõnaotsingud ja ristsõnad
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Sõnapusled sobivad inimestele, kellele need on alati meeldinud, tavaliselt haiguse varasemas staadiumis.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Suure trükiga sõnaotsing.** Meie tasuta [Sõnaotsing](/games/word-search/) kasutab suuri tähti ja vaid mõnda sõna, mis kulgevad paremalt vasakule ja ülevalt alla, mitte kunagi diagonaalis ega tagurpidi. Mängi seda ekraanil või prindi välja.
+- **Loe loend valjusti ette.** Üks inimene loeb sõna, teine otsib selle üles. Piisab ka sellest, kui ring ümber teha ainult esimesele tähele.
+- **Suure trükiga ristsõnad** pusleraamatutest võivad haiguse alguses sobida. Loe vihjed valjusti ette, jagage pliiatsit ja täitke vastused koos. Lihtsad teemakohased ristsõnad sobivad paremini kui mõistatuslikud ristsõnad.
+- **Rääkige sõnadest.** „Aed“ võib viia kümneminutilise jutuni tomatitest.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Rohkem pabermänge ja nõuandeid, kuidas neid hõlpsasti nähtavaks ja hoitavaks printida, leiad lehelt [tasuta prinditavad tegevused dementsusega inimestele](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Millised pusled sobivad igas staadiumis?
 
-Stages overlap, and good and hard days are normal.
+Staadiumid kattuvad ning head ja raskemad päevad on tavalised.
 
-| Stage | Puzzles that often fit | Your role |
+| Staadium | Sageli sobivad pusled | Sinu roll |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Varajane | Tuttavad mosaiikpildid, millel on varem harjutust vähem tükke, suure trükiga ristsõnad ja sõnaotsingud, 9-tükilised veebipusled | Partner: lase inimesel valida, aita siis, kui ta palub |
+| Keskmine | Mosaiikpildid kümmekonna suure tükiga, 4-tükilised veebipusled, koos valjusti loetav sõnaotsing | Valmista ette, sorteeri tükid, ulata korraga üks tükk |
+| Hiline | Valmis pildi koos vaatamine, Leia sama kahe pildiga, mõne suure tüki käes hoidmine | Too tegevus inimese juurde; sinu seltskond ongi tegevus |
 
-## When should you make a puzzle easier, or stop?
+## Millal teha pusle lihtsamaks või lõpetada?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Pane tähele ohkamist, tükkide eemale lükkamist, korduvat „ma ei saa“ või murelikku ilmet. Need on märgid, et midagi tuleks muuta, mitte edasi suruda.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Tee see väiksemaks.** Vähem tükke või jäta inimesele alles ainult viimased paar.
+- **Tee ise rohkem ära** ja kutsu inimene aitama lihtsamate osade juures.
+- **Vaheta lähedalasuva tegevuse vastu:** tükkide sorteerimine värvi järgi, 4-tükiline veebipusle või [värvimine](/games/coloring/).
+- **Lõpeta.** Pane pusle kõrvale ja jooge tass teed. Võite mõnel teisel päeval tagasi tulla või ka mitte.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Kui pusled hakkavad tunduma meenutusena sellest, mis on raske, on täiesti sobiv need sinnapaika jätta. Koos toredat aega veeta saab veel paljudel viisidel; meie [101 tegevusideed](/activities/ideas/) on hea koht, kust edasi vaadata.

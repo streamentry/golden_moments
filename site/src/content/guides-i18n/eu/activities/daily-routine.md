@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Demenzia duen pertsonarentzat eguneroko errutina lasaia"
+seoTitle: "Demenzia eta eguneroko errutina: egun malgu baten adibidea"
+description: "Demenzia duen pertsonarentzat egun malgu baten adibidea: otorduak, jarduerak eta atsedena erritmo egonkorrean, nola prestatu eta egun zailetan nola moldatu."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Eguneroko errutina lasai batek esnatzea, otorduak, zainketa pertsonala eta
+  oheratzea ordu bertsuan mantentzen ditu, jarduera nagusia pertsona erneago
+  dagoen unean jartzen du, eta jarduera eta atsedena orekatzen ditu. Prestatu
+  pertsonak bizitza osoan izan dituen ohituretan oinarrituta, mantendu malgua
+  eta ez bete gehiegi, bilatu egunero argi naturala eta mugimendua, eta aldatu
+  plana lasai egunak hala eskatzen duenean.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Esnatzeko, otorduetarako, zainketarako eta oheratzeko ordu egonkorrek eguna antolatzen laguntzen dute."
+  - "Jarri jarduera nagusia pertsonarentzat eguneko unerik onenean, askotan goizean."
+  - "Ez bete minutu guztiak. Atsedena eta une lasaiak ere errutinaren parte dira."
+  - "Argi naturalak, eguneroko mugimenduak eta arratsalde amaierako loaldi luzeak edo kafeina saihesteak arratsaldeko ezinegonari aurre egiten lagun dezakete."
+  - "Errutina gida bat da, ez arau bat. Aldatu, laburtu edo utzi alde batera edozer egun zailetan."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Zergatik da lagungarria errutina bat demenzia duen pertsonarentzat?"
+    a: "Egun aurreikusgarri batek erabaki eta ustekabe gutxiago esan nahi du, eta demenzia duten pertsona askorentzat hori lasaigarria izan daiteke. Alzheimer's Association erakundeak dio eguna planifikatuta denbora gutxiago ematen duzula zer egin pentsatzen eta denbora gehiago elkarrekin gozatzen dituzuen gauzetan. Zaintzaileei ere lagun diezaieke beren eguna neurriz antolatzen."
+  - q: "Zein da demenzia duen pertsonarentzat eguneroko ordutegi egokia?"
+    a: "Ez dago ordutegi zuzen bakar bat. Ona den batek esnatzea, otorduak eta oheratzea ordu bertsuan mantentzen ditu, zainketa pertsonala eta jarduera nagusia pertsona hoberen dagoen unean jartzen ditu, kanpoan edo leiho ondoan egoteko denbora uzten du, eta atsedenetarako tartea gordetzen du. Prestatu pertsonak beti bizi izan duen moduan oinarrituta."
+  - q: "Demenzia duen pertsonak siesta egin beharko luke egunean zehar?"
+    a: "Atseden labur batek lagun dezake, batez ere bazkalondoan. National Institute on Aging erakundeak iradokitzen du egunean zehar loaldi luzeak eta arratsalde amaierako lokartzea saihestea, oso nekatuta egoteak edo ongi atseden hartu ezak arratsaldeko ezinegona handitu baitezake. Loa benetako arazoa bada, hitz egin haren medikuarekin."
+  - q: "Zer egin errutina jarraitzeari uko egiten badio?"
+    a: "Utzi oraingoz eta saiatu berriro geroago edo beste modu batean. Uko egiteak nekatuta dagoela, ondoezik dagoela, mina duela edo prest ez dagoela adieraz dezake. Errutinaren helburua eguna erraztea da; beraz, malgutu plana, ez behartu."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Errutina lasai batek egunari forma ezagun bat ematen dio: jaikitzea, otorduak, jarduera txiki bat, atsedena eta oheratzea, gutxi gorabehera ordu beretan. Erabakiak eta ustekabeak gutxitzen ditu, eta plana ematen dizu hurrena zer egin pentsatzen geratuko zinakeen uneetarako. Beheko errutina adibide bat da, ez arau bat. Erabili abiapuntu gisa, eta moldatu zaintzen duzun pertsonaren arabera.
 
-## Why does a daily routine help?
+## Zergatik laguntzen du eguneroko errutinak?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Errutina egonkorrak laguntzen du, patroi ezagunak errazago jarraitzen direlako patroi berriak baino. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) erakundeak dio eguna planifikatuta denbora gutxiago ematen dela zer egin erabakitzen eta denbora gehiago jarduera atseginetarako, eta adierazten du esnatzeko eta oheratzeko ordu erregularrek lo arazoetan eta arratsaldeko ezinegonean lagun dezaketela. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) erakundeak iradokitzen du egunero ordu beretan bainatzea, janztea eta jatea, etxe lasai baten parte gisa, eta [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) erakundeak ere gomendatzen du ohitura berak mantentzea.
 
-## A sample gentle day
+## Egun lasai baten adibidea
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Orduak adibide hutsak dira. Aurreratu edo atzeratu egun osoa pertsonaren bere erritmora egokitzeko.
 
-| Time | What happens | Ideas | On a harder day |
+| Ordua | Zer gertatzen da | Ideiak | Egun zailago batean |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 | Esnatzea, garbitzea, janztea | Egunero ordena bera; prestatu arropa janzteko ordenan | Mantendu zainketa erraza; alkandora garbi bat nahikoa da |
+| 8:45 | Gosaria | Kafea eta egunkaria ozen irakurrita, edo irratia | Jan elkarrekin lasai, hitz egiteko presiorik gabe |
+| 9:30 | Jarduera nagusia | Arropa tolestu, zerbait prestatu, lorategian aritu, irteera labur bat edo paseo bat | Bertsio laburragoa, edo utzi zuri begira egiten duzun bitartean |
+| 10:30 | Une lasaia | Musika, argazki album bat edo leiho ondoan eseri | Atseden hartu gogoko aulki batean |
+| 11:00 | Bazkarian lagundu | Barazkiak garbitu, mahaia jarri | Zuk sukaldatu; hark konpainia egin |
+| 12:00 | Bazkaria eta jasotzea | Mahaia garbitu, plater batzuk lehortu | Utzi etxeko lanak alde batera |
+| 13:00 | Atseden laburra | Oinak gora, musika leuna | Berdin |
+| 14:00 | Kanpoan edo mugimenduan | Paseoa, atarian egotea, landareak ureztatu, puxika bat pasatu | Eseri eguzkia sartzen den leiho ondoan |
+| 15:00 | Harremana edo sormena | Bisita bat, dei bat, [picture pairs](/games/picture-pairs/), margotu, kartak | Edari bat eta mokadu bat elkarrekin |
+| 16:30 | Lasaitzeko unea | Errezelak itxi, argiak piztu, lan lasai bat, esate baterako eskuoihalak tolestea | Musika ezaguna, zarata gutxi |
+| 17:30 | Afaria | Nahasten lagundu edo mahaia jarri | Janari erraza eta ezaguna |
+| 18:30 | Arratsaldea elkarrekin | Postrearekin oroitzapenak partekatu, kartak, gogoko saio bat, esku-masaje bat | Konpainia lasaia |
+| 20:00 | Oheratzeko errutina | Bainua edo garbiketa, pijama, musika leuna, argi gutxi | Laburtu dena; erosotasuna lehenik |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Adibide honek Alzheimer's Association erakundeak hasierako eta erdiko faseetarako proposatzen duen eguneroko planaren antzeko egitura jarraitzen du: zainketa pertsonaletik eta gosaritik hasi, etxeko lanak, paseoak, musika, atsedena eta bisitak egin, eta afariarekin, oroitzapenekin eta oheratzeko prestaketarekin amaitu.
 
-## How do you build your own routine?
+## Nola prestatu zure errutina?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Hasi pertsonak beti bizi izan duen modutik, ez taula batetik. Alzheimer's Association erakundeak iradokitzen du planifikatu aurretik honako hauek kontuan hartzea:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Zer gustatzen zaion, zer ez, zein diren haren indarguneak eta interesak.**
+- **Nola igarotzen zuen eguna lehen.** Beti goiz jaiki eta txakurra paseatzera ateratzen zenak goizean paseatzen jarraitu beharko luke. Gaueko pertsona bati agian ez zaio inoiz gustatuko goizeko 8etan hastea.
+- **Eguneko unerik onena.** Jarri ordu horretan bainua, irteerak eta jarduera nagusia.
+- **Denbora nahikoa** otorduetarako, garbitzeko eta janzteko, presarik gabe egin ahal izateko.
+- **Esnatzeko eta oheratzeko ordu erregularrak.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Iturri berak iradokitzen du jarduera mota desberdinak uztartzea: etxeko lanak, otorduak, zainketa pertsonala, jarduera sortzaileak, jarduera fisikoa, harremanetarako denbora, jarduera espiritualak eta bat-bateko uneak, adibidez lagun bat bisitan etortzea.
 
-### Try it for a week, then adjust
+### Probatu astebetez, eta gero moldatu
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Idatzi ohar labur bat egunero. Alzheimer's Association erakundeak iradokitzen du galdetzea zein jarduerak funtzionatu duten ondoen eta zergatik, ea gehiegi edo gutxiegi egiteko uneak egon diren, eta bat-bateko planak atseginak izan diren ala kezka sortu duten. Gorde ondo funtzionatzen duena eta aldatu funtzionatzen ez duena.
 
-### Make it visible
+### Egin ikusgai
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Pertsonak oraindik irakurtzen badu, arbela bat edo letra handiko txartel bat, eguneko planarekin, lasaigarria izan daiteke. Mantendu laburra: «Gosaria. Paseoa Sararekin. Bazkaria. Atsedena». Pertsona batzuei hobeto doa askoz lehenago planak jakin gabe; Family Caregiver Alliance erakundeak iradokitzen du planak gertatu baino pixka bat lehenago bakarrik komentatzea, kezka sortzen badute.
 
-## How to adapt the routine
+## Nola moldatu errutina
 
-### Leave room to breathe
+### Utzi arnasa hartzeko tartea
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ez bete minutu guztiak. Alzheimer's Association erakundeak azpimarratzen du pertsonak jarduera eta atsedenaren arteko oreka behar duela, eta agian atsedenaldi maizagoak beharko dituela. Aspertuta, arreta galduta edo urduri ikusten baduzu, aldatu jarduera edo utzi atseden hartzen.
 
-### Protect the late afternoon
+### Zaindu arratsalde amaiera
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Pertsona asko urduriago jartzen dira eguzkia jaisten denean. NIAk iradokitzen du egunero kanpoan edo leiho ondoan denbora pasatzea eguzki argia jasotzeko, egunero aktibo egotea gehiegi planifikatu gabe, arratsalde amaieran kafeina eta alkohola saihestea, eta arratsalde amaierako loaldi luzeak ez sustatzea. Familia batzuei lagungarria egiten zaie ilundu aurretik errezelak ixtea eta argiak piztea. Ikus [arratsaldeko ezinegona](/caregiving/late-day-restlessness/) eta [loa](/brain-health/sleep/).
 
-### Change it as needs change
+### Aldatu beharrak aldatzen diren heinean
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Hasierako fasea:** planifikatu errutina elkarrekin. Pertsonak agian bere kabuz kudeatzeko idatzizko ordutegi bat nahi izango du.
+- **Erdiko fasea:** zuk gidatuko duzu gehiago. Jarduera laburragoak, atseden gehiago eta lan ezagun ugari; ikus [erdiko faseko jarduerak](/activities/middle-stage/).
+- **Azken fasea:** errutina erosotasunean, otorduetan eta zainketan oinarritzen da, tartean zentzumen-une laburrekin, hala nola musika edo esku-masaje bat; ikus [azken faseko jarduerak](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Aldatu jarduerak, ez egitura
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Mantendu otorduak, atsedena eta oheratzea egonkor, eta txandakatu tarteko jarduerak. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) erakundeak iradokitzen du jarduera desberdinak egun desberdinetan probatzea gauzak interesgarri mantentzeko. Adibidez, astelehenean zerbait prestatu, asteartean lorategian aritu eta asteazkenean argazkiak begiratu. Gure [101 jarduera-ideiek](/activities/ideas/) eta [etxeko lanei](/activities/household-tasks/) buruzko orriek tarte horiek betetzen lagun dezakete.
 
-## When the day goes sideways
+## Eguna planetik ateratzen denean
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Egun batzuek ez dute inolako planik jarraituko. Gaixotasunak, gau txar batek, medikuaren bisita batek edo eguraldi aldaketa batek dena nahas dezakete. Utzi plana, mantendu oinarrizkoak (janaria, edaria, atsedena, erosotasuna) eta saiatu berriro bihar. Pertsonak zerbaiti uko egiten badio, ikus [ezetz esaten duenean](/caregiving/when-they-say-no/). Elkarrekin arnasa lasai hartzeko une batek, adibidez [calm breathing](/games/calm-breathing/) ariketak, biei lagun diezazueke berriro lasaitzen.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Zure errutina ere garrantzitsua da. Gorde atsedenaldiak zeuretzat, eta eskatu familiari edo aldi baterako laguntza zerbitzu bati ohiko atseden denbora estaltzeko. Ikus [zaintzaileen autolaguntza](/caregiving/caregiver-self-care/).

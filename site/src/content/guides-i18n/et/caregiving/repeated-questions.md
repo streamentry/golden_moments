@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Kui dementsusega inimene küsib ikka ja jälle sama"
+seoTitle: "Dementsus ja korduvad küsimused: mida öelda ja teha"
+description: "Miks dementsusega inimene küsib sama küsimust korduvalt, kuidas rahulikult vastata, millised abivahendid aitavad ja millal on vaja arsti poole pöörduda."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Korduvad küsimused on dementsuse korral tavalised: inimene tavaliselt ei
+  mäleta, et ta on küsinud, ja küsimuse taga on tihti mure. Vastake rahulikult
+  ja lühidalt, nagu esimest korda, ning vastake küsimuse taga olevale
+  tundele. Ärge kunagi öelge „te juba küsisite”. Kirjutage vastus kohta, kus
+  ta seda näeb, rääkige sündmustest alles vahetult enne nende toimumist ja
+  pakkuge mõnusat tegevust. Järsku tekkinud muutuse korral on vaja arsti
+  poole pöörduda.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Inimene tavaliselt ei mäleta, et ta on küsinud; see ei ole tahtlik."
+  - "Küsimuse taga on tihti tunne, näiteks mure kokkusaamise pärast või soov tunda end turvaliselt."
+  - "Vastake rahulikult, lühidalt ja lahkelt, nagu esimest korda. Ärge kunagi öelge „te juba küsisite”."
+  - "Märge, tahvel, kell või kalender nähtaval kohal võib vastata küsimuse teie eest."
+  - "Rääkige pingelistest sündmustest alles vahetult enne nende toimumist."
+  - "Tehke endale vajaduse korral lühike paus ja helistage arstile, kui märkate järsku tekkinud muutust."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Miks mu dementsusega isa küsib ikka ja jälle sama küsimust?"
+    a: "Dementsus mõjutab lühimälu, nii et ta võib tõesti mitte mäletada, et ta on küsinud või vastust kuulnud. Sageli on küsimuse taga ka tunne, näiteks mure selle pärast, mis edasi saab, või vajadus kinnituse järele. Sellele tundele vastamine aitab tavaliselt rohkem kui faktide kordamine."
+  - q: "Kas ma peaksin talle ütlema, et ta on seda juba küsinud?"
+    a: "Ei. See ei aita tal meenutada ja võib tunduda nagu noomitus. Dementsusega tegelevad organisatsioonid soovitavad vastata iga kord rahulikult, nagu esimest korda, ja hoida vastus lühike."
+  - q: "Kas vastuse üleskirjutamine aitab?"
+    a: "See võib aidata seni, kuni inimene suudab veel lugeda. Märge, tahvel tänase päevakavaga, suur kell või kalender kohas, kuhu ta tihti vaatab, võimaldavad tal vastust ise kontrollida. Osutage sellele õrnalt, mitte öelge „ma ju ütlesin teile”."
+  - q: "Millal peaksin rääkima arsti juures käimisest või väljasõitudest?"
+    a: "Vahetult enne toimumist. Kui rääkida arsti juures käimisest või reisist mitu päeva ette, võib see põhjustada tundidepikkust murelikku küsimist. Rääkige sellest vahetult enne, rahulikult ja selgitage, mis järgmisena juhtub."
+  - q: "Millal on korduv küsimine põhjus arsti poole pöörduda?"
+    a: "Kui küsimused, segadus või käitumine muutuvad järsult või halvenevad tundide või päevade jooksul palju, helistage viivitamata tema arstile. Nakkus, uus ravim, valu, kõhukinnisus või vedelikupuudus võivad põhjustada järsku segadust, mida nimetatakse deliiriumiks ja mis vajab kiiret abi. Kui keegi on ohus, helistage 112."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„Mis kell arst tuleb?” Kümme minutit hiljem: „Mis kell arst tuleb?” Sama küsimuse kuulmine ikka ja jälle on üks väsitavamaid asju dementsusega inimese eest hoolitsemisel. See on väga tavaline, see ei ole tahtlik ja on rahulikke viise vastamiseks, mis teevad päeva teile mõlemale kergemaks.
 
-## Why does someone with dementia ask the same question over and over?
+## Miks dementsusega inimene küsib sama küsimust uuesti ja uuesti?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Enamasti mälu tõttu. Dementsus mõjutab lühimälu, nii et inimene ei mäleta sageli, et ta on küsinud, või ei mäleta vastust. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) kirjeldab küsimuste korduvat esitamist kui tavalist ja oodatavat.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Küsimuse taga on tihti ka tunne. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) selgitab, et korduv küsimus võib väljendada muret, abipalvet või ärevust ja ebakindlust ning et inimene otsib sageli lohutust ja tuttavlikkust. „Millal me läheme?” võib tegelikult tähendada „Ma olen mineku pärast närvis”. Igavus, hirm, müra ja muutused päevakavas võivad seda esile kutsuda ning korduv küsimus võib viidata ka vajadusele, näiteks tualetikäigule ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Mida ma peaksin vastama?
 
-Answer calmly and briefly, as if it were the first time.
+Vastake rahulikult ja lühidalt, nagu esimest korda.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Hoidke vastus lühike ja ühesugune.** „Arst võtab vastu kell kaks. Ma olen teiega koos.” Ühtlane vastus on kergemini mõistetav.
+- **Vastake tundele.** „Te mõtlete arsti vastuvõtu peale. See on täna pärastlõunal ja ma sõidutan meid. Teil pole vaja midagi teha.”
+- **Kasutage sooja häält ja õrna puudutust,** kui inimesele puudutused meeldivad. Alzheimer's Association soovitab jääda rahulikuks ega kasutada loogikat ega vaielda.
+- **Andke vastus, mida inimene otsib,** nii mitu korda kui vaja. Alzheimer's Association ütleb, et vastust võib korrata nii mitu korda, kui ta küsib.
 
-## What should I avoid?
+## Mida peaksin vältima?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„Te juba küsisite seda.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) soovitab mitte juhtida tähelepanu sellele, et inimene just küsis. See ei aita tal meenutada ja võib tunduda nagu noomimine.
+- **Pikki selgitusi.** Mida rohkem sõnu, seda rohkem on unustada.
+- **Ohkamist, silmade pööritamist või teravat tooni.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) soovitab kannatlikkust ega soovita frustratsiooni välja näidata. See on raske; vaadake allpool lõiku pauside kohta.
 
-## Simple tools that answer the question for you
+## Lihtsad abivahendid, mis vastavad teie eest
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Seni, kuni inimene suudab veel lugeda, aitab nähtaval kohal olev kirjalik vastus sageli rohkem kui suuline.
 
-| Tool | How to use it |
+| Abivahend | Kuidas seda kasutada |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Suurte tähtedega märge | „Arst täna kell 14. Maire sõidutab.” Pange see kohta, kuhu ta kõige rohkem vaatab |
+| Tahvel | Tänane päevakava kolme-nelja reaga; pühkige hommikul puhtaks ja kirjutage uuesti |
+| Suur kell päeva ja kuupäevaga | Aitab küsimuste „Mis päev täna on?” ja „Kas on juba aeg?” puhul |
+| Kalender | Tõmmake iga päev maha; tehke järgmisele visiidile ring ümber |
+| Tuttavad fotod | Foto inimesest, kes tuleb külla, võib vastata küsimusele „Kes tuleb külla?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Need mõtted pärinevad [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ja [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) allikatest. Osutage märkmele õrnalt („Vaatame tahvlit koos”), mitte öelge „Ma kirjutasin selle teile üles”.
 
-## Tell them about events close to the time
+## Rääkige sündmustest vahetult enne toimumist
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Kui rääkida kokkusaamisest või väljasõidust mitu päeva ette, võib see põhjustada tundidepikkust murelikku küsimist. Family Caregiver Alliance ja Alzheimer's Los Angeles soovitavad mõlemad rääkida plaanidest, eriti pingelistest, nagu arsti juures käimine või pesemine, alles vahetult enne nende toimumist. Seejärel selgitage rahulikult, mis järgmisena juhtub, üks samm korraga.
 
-## Activities that can shift attention
+## Tegevused, mis võivad tähelepanu suunata
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Kui olete vastanud ja tundega arvestanud, võib rahulik ja meeldiv tegevus aidata, eriti kui küsimuste taga on igavus. Kõik ülaltoodud allikad soovitavad suunata tähelepanu millelegi, mis inimesele meeldib.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Lühike ja lihtne mäng koos.** [Picture pairs](/games/picture-pairs/) hoiab pildid nähtaval, nii et midagi ei pea meeles pidama.
+2. **Tuttav tegevus.** Rätikute voltimine, sokkide sorteerimine või laua katmine. [Sort together](/games/sort-together/) on selle ekraaniversioon.
+3. **Rääkimine millestki, mis talle meeldib.** [Conversation cards](/games/conversation-cards/) pakuvad avatud küsimusi, millel pole õigeid vastuseid.
+4. **Muusika, jalutuskäik või suupiste.** National Institute on Aging nimetab neid lihtsate tähelepanu suunamise viisidena.
+5. **Rahulik paus.** Istuge koos, vaadake aknast välja või proovige koos [calm breathing](/games/calm-breathing/) hetke.
 
-If they return to the question, answer it again, kindly. That is fine.
+Kui inimene tuleb küsimuse juurde tagasi, vastake uuesti lahkelt. See on täiesti sobiv.
 
-## Look for patterns
+## Pöörake tähelepanu korduvatele mustritele
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association soovitab jälgida, kas küsimused tulevad teatud kellaaegadel, teatud inimeste juuresolekul või teatud kohtades. Kui need algavad alati enne külaliste saabumist või hilisel pärastlõunal, saate ette planeerida: märge külaskäigu kohta, valmis tuttav tegevus, vaiksem ruum. Meie juhend [rahulike hilispärastlõunaste tegevuste kohta](/caregiving/late-day-restlessness/) võib aidata, kui õhtud on kõige raskemad.
 
-## Take care of yourself
+## Hoolitsege ka enda eest
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Sama küsimusele kahekümnendat korda vastamine on kurnav. Kui tunnete, et kannatus hakkab otsa saama, ja inimene on ohutus kohas, minge mõneks minutiks teise tuppa ja hingake, nagu soovitab [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) julgustab hooldajaid abi küsima ja kaaluge asendushoolduse võimalust. Rohkem mõtteid leiate meie [hooldaja enesehoolduse juhendist](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Millal peaksin arsti poole pöörduma?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Helistage viivitamata tema arstile, kui küsimused, segadus või käitumine muutuvad järsult või halvenevad tundide või päevade jooksul palju. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ütleb, et järsku või kiiresti muutuvast käitumisest, eriti pärast nakkust või ravimi vahetamist, tuleks viivitamata arstile teada anda. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) selgitab, et nakkus, ravimid, vedelikupuudus, valu või kõhukinnisus võivad põhjustada deliiriumi ehk järsku ja tõsist segasusseisundit, mis vajab kiiret ravi. Kui keegi on ohus, helistage 112.

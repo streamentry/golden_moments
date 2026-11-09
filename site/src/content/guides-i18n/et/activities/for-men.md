@@ -1,32 +1,32 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Tegevused dementsusega meestele"
+seoTitle: "Tegevused dementsusega meestele: elulähedased ideed"
+description: "Tegevusideed dementsusega elavatele meestele, mis lähtuvad tema varasemast tööst, hobidest ja rutiinidest, koos nõuannetega turvaliseks kohandamiseks."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Parimad tegevused dementsusega elavale mehele tulevad tema enda elust:
+  tööst, mida ta tegi, hobidest, mida ta armastas, ja igapäevastest harjumustest,
+  mida ta hoidis. Endine kontoritöötaja võib nautida paberite sorteerimist,
+  mehaanik puhaste tööriistade käsitlemist ja spordihuviline vana mängu.
+  Huvid on meestel erinevad, seetõttu lähtuge inimesest, mitte tema soost.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Alustage selle mehe enda loost: tema tööst, hobidest, harjumustest ja sellest, mille üle ta uhke oli."
+  - "Selge eesmärgiga ülesanded, nagu tarvikute sorteerimine, auto pesemine või puidu lihvimine, sobivad sageli paremini kui tegevused, mis tunduvad nagu tund."
+  - "Kõik mehed ei armasta tööriistu ega sporti. Paljudele meeldivad ka toiduvalmistamine, muusika, aiandus, kunst või teiste eest hoolitsemine. Küsige, jälgige ja järgige tema juhtimist."
+  - "Muutke töölaadsed ülesanded turvaliseks, eemaldades teravad tööriistad ja olles läheduses, ning lihtsustage neid vastavalt oskuste muutumisele."
+  - "Ei ütlemine on lubatud. Pakuge rolli, mitte ülesannet, ja proovige teisel päeval uuesti."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Milliseid tegevusi dementsusega mehed naudivad?"
+    a: "Ühtset nimekirja ei ole, sest meeste huvid on sama erinevad kui kõigil teistel. Head lähtekohad on tema varasema tööga seotud ülesanded, näiteks paberite korrastamine või mutrite ja poltide sorteerimine, ning hobid, mida ta armastas, näiteks kalapüük, autod, muusika, toiduvalmistamine või sport. Jälgige, mida ta omal käel teeb, ja toetuge sellele."
+  - q: "Mu isa keeldub rühmategevustest. Mida ma saan teha?"
+    a: "Paljud inimesed, nii mehed kui naised, ütlevad ära tegevustest, mis tunduvad nagu tund või lapsekesksed. Pakuge selle asemel abistavat ülesannet: „Kas saaksid aidata mul need sorteerida?” Väiksem seltskond või kahekesi veedetud aeg võib tunduda mugavam kui suur ruum."
+  - q: "Kas on ohutu lasta tal tööriistu kasutada?"
+    a: "Ainult järelevalve all ja ohutute tööriistadega. Eemaldage elektritööriistad, terad ja kõik teravad esemed ning pakkuge ülesandeid, nagu puuklotsi lihvimine, puhaste tarvikute sorteerimine või suurte poltide käsitsi kinni keeramine. Alzheimeri Ühing soovitab eemaldada töökojast ohtlikud esemed, et näiteks lihvimist saaks endiselt turvaliselt nautida."
+  - q: "Ta oli spetsialist. Kas lihtsad ülesanded võivad tunduda alandavad?"
+    a: "Need võivad nii tunduda, kui neid esitatakse lihtsalt ajaviitena. Pakkuge ülesannet päris abina, kasutage täiskasvanutele sobivaid vahendeid ja valige midagi, mis on tema endise rolliga sarnane, näiteks nimekirja üle vaatamine, kausta korrastamine või postituse kokkupanekul aitamine. Kui ta oli milleski väga osav, võib sellega seotud, kuid teistsugune tegevus tunduda vähem nagu võrdlus."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Inimesed otsivad sageli teavet „tegevuste kohta dementsusega meestele”, sest tavalised soovitused ei tundu nende lähedasele sobivat. See mure on mõistetav. Vastus ei peitu aga „mehelike” tegevuste nimekirjas. Alustage sellest konkreetsest mehest: millega ta elatist teenis, kuidas ta nädalavahetusi veetis ja mis aitas tal tunda end kasulikuna. Huvid on kõigil erinevad. Paljudele meestele meeldib süüa teha, aias tööd teha, maalida või laulda ning paljudele naistele meeldivad autod ja pesapall.
 
-## How do I find activities he will actually enjoy?
+## Kuidas leida tegevusi, mis talle tõesti meeldivad?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Alustage tema eluloo tundmaõppimisest. Alzheimeri Ühing soovitab koostada [igapäevakava](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan), mis arvestab inimese meeldimisi, vastumeelsusi, tugevaid külgi ja huvisid ning seda, kuidas ta oma päeva varem korraldas. Mõelge järgmistele küsimustele:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Mis oli tema töö?** Kontor, talu, tehas, oskustöö, sõjavägi, müük, õpetamine, sõidukijuhtimine või kodu?
+- **Millega ta vabal ajal tegeles?** Kalapüük, kaardimängud, puutöö, sport, kirik, muusika, toiduvalmistamine või garaažis auto kallal nokitsemine?
+- **Millised olid tema harjumused?** Kohv ja ajaleht igal hommikul? Ilma kontrollimine? Auto pesemine laupäeviti?
+- **Mida ta ikka veel ise alustab?** Ühing märgib, et kui inimene alustab ülesandeid ise, näiteks põranda pühkimist, võivad need ülesanded muutuda osa igapäevarutiinist.
+- **Mida ta väldib?** Mõnele inimesele meeldib sporti vaadata, teisi võib tempo ja müra häirida. Pange tähele, millal ta tundub rõõmus, ärev või ärritunud.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Rääkige ka pereliikmete ja vanade sõpradega. Nemad võivad mäletada huvisid, mis igapäevaelust on taandunud.
 
-## Activity ideas based on past work
+## Varasema töö põhjal sobivad tegevusideed
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimeri Ühing toob selge näite: endine kontoritöötaja võib nautida korrastamist, näiteks müntide hoidikusse panemist, postituse kokkupanekul aitamist või tegemisnimekirja koostamist, samas kui endine põllumees või aednik võib nautida õues töötamist. Sama mõte sobib paljude ametite puhul.
 
-| Past work | Activity ideas | Simpler version |
+| Varasem töö | Tegevusideed | Lihtsam variant |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Kontor või äri | Paberite kaustadesse sorteerimine, ümbrikele templite löömine, nimekirja üle vaatamine, lauasahtli korrastamine | Ümbrike virna ladumine; kirjaklambrite karpi panemine |
+| Oskustöö või mehaanika | Puhaste mutrite, poltide ja seibide sorteerimine; suurte poltide käsitsi kinni keeramine; tööriistakataloogide vaatamine | Suuruse järgi kahte tassi sorteerimine |
+| Põllumajandus või haljastus | Kastmine, taimede ümberistutamine, lehtede riisumine, aia üle vaatamine | Istumine õues teie töötamise ajal; seemnepakendite hoidmine |
+| Sõjavägi | Kingade läikima hõõrumine, sahtli korrastamine, teenistusaegsete fotode vaatamine, kui see talle meeldib | Sellest ajast pärit muusika kuulamine |
+| Müük või klienditeenindus | Külastajate tervitamine, suupistete jagamine, kupongide sorteerimine | Ukse juures istumine ja tere ütlemine |
+| Õpetamine | Valjusti lugemine, raamatute korrastamine, piltide teemade kaupa sorteerimine | Koos pildiraamatu vaatamine |
+| Sõidukijuhtimine või transport | Kaartide või vanade autoajakirjade vaatamine, auto pesemine | Autode möödumist verandal jälgimine |
+| Kodu ja pere | Pesu voltimine, laua katmine, õhtusöögi valmistamisel aitamine | Salvrätikute silumine; segamine |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Mõned mälestused, näiteks sõjaväeteenistus, võivad esile kutsuda tugevaid tundeid. Järgige tema juhtimist, hoidke minevikust rääkimine positiivse ja vahetage teemat õrnalt, kui ta tundub kurb või rahutu.
 
-## Activity ideas based on hobbies
+## Hobide põhjal sobivad tegevusideed
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Puutöö.** Siledaks lihvitud puuklotsi lihvimine või linnumaja komplekti värvimine. Alzheimeri Ühing soovitab eemaldada töökojast ohtlikud materjalid ja tööriistad, et sellist tegevust nagu lihvimine saaks nautida turvaliselt.
+2. **Kalapüük.** Kalastuskasti sorteerimine pärast konksude eemaldamist, kalastusajakirjade sirvimine või koos tiigi ääres istumine.
+3. **Autod.** Auto pesemine, kroomi läikima hõõrumine, vanade autode fotode vaatamine või sõidul kaasasõitjana olemine.
+4. **Sport.** Vana mängu või kokkuvõtete vaatamine, pehme palli viskamine, golfipallide paigutamine vaibale või pesapallikaartide sorteerimine.
+5. **Kaardid ja mängud.** Lihtne tuttava kaardimängu voor, doomino või kaartide ümberpööramine paari leidmiseks. Hoidke tegevus rahulikuna ja jätke punktiarvestus ära.
+6. **Muusika.** Laulud tema teismeeast ja kahekümnendatest, lemmikbänd või vaimulik laul. Vaadake ka meie [muusikaga seotud tegevuste juhendit](/activities/music/).
+7. **Toiduvalmistamine ja grillimine.** Köögiviljade pesemine, kastme segamine, kotlettide vormimine või selle kirjeldamine, kuidas ta oma kuulsat tšillit valmistas, samal ajal kui teie seda teete.
+8. **Ajaleht.** Alzheimeri Ühing märgib, et inimene, kes luges alati ajalehte, võib sellest endiselt rõõmu tunda ka siis, kui ta ei suuda sisust täielikult aru saada. Kohv ja ajaleht võivad hommikusse endiselt kuuluda.
+9. **Ehitamine.** Suurte tükkidega mudelikomplektid või lihtsad täiskasvanutele mõeldud ehituskomplektid. Valige tükid, mida on lihtne hoida.
+10. **Kellegi või millegi eest hoolitsemine.** Lemmiklooma toitmine, linnumaja täitmine või taimede kastmine. NIA loetleb [lemmiklooma toitmise, hooldamise või jalutamise](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tegevuste hulgas, millest inimesed võivad rõõmu tunda.
 
-## How do I offer an activity without it feeling like busywork?
+## Kuidas pakkuda tegevust nii, et see ei tunduks mõttetu ajaviitena?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Esitage see päris abina. Alzheimeri Ühing soovitab küsida: „Kas saaksid mind palun aidata?” ja siduda ülesanne selge eesmärgiga. Võrrelge:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Kas tahad need poldid sorteerida?” (kõlab nagu katse)
+- „Ostsin segatud koti tarvikuid ja mul on need vaja enne riiuli parandamist ära sorteerida. Kas aitaksid mind?” (kõlab nagu päris ülesanne)
 
-Other tips:
+Veel nõuandeid:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Kasutage täiskasvanutele sobivaid vahendeid.** Päris tööriistad ilma teravate servadeta, päris kataloogid, päris ümbrikud.
+- **Tehke kõrvuti.** Kui kaks inimest teevad koos üht tööd, on see selts. Kui üks inimene ainult vaatab, võib see tunduda järelevalvena.
+- **Ärge parandage.** Kui poldid satuvad valesse tassi, las nad olla. Oluline on koos veedetud aeg ja tunne, et ta on kasulik.
+- **Aidake tal alustada.** Alzheimeri Ühing märgib, et paljudel inimestel on endiselt soov midagi teha, kuid neil võib olla raske asju korraldada ja alustada. Tehke esimene samm koos.
 
-## How do I adapt as things change?
+## Kuidas kohandada tegevusi muutuste korral?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Dementsuse süvenedes soovitab Alzheimeri Ühing pakkuda lihtsamaid ja korduvamaid ülesandeid ning olla valmis selleks, et inimene võtab vähem aktiivse rolli. Mees, kes kunagi mootoreid ümber ehitas, võib nüüd nautida puhta mutrivõtme käes hoidmist ja autodest rääkimist või teie töötamise vaatamist. Ka vaatamine on osalemine.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Kui ta oli milleski väga osav, võib sellega seotud tegevus sobida paremini kui tema endine töö. Ühing märgib, et kutseline kunstnik võib oma oskuste muutumise pärast pettuda, samas kui harrastaja võib uues tegevuses rõõmu leida. Sama võib kehtida ka osava tisleri puhul.
 
-## Safety with work-style tasks
+## Ohutus töölaadsete ülesannete puhul
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Eemaldage elektritööriistad, terad, naelad ja teravate otstega kruvid.
+- Pange värnitsalahusti, bensiin ja kemikaalid lukku.
+- Hoidke autosõtmeid varjul, kui ta enam ei sõida.
+- Olge töökoja- ja aiaülesannete juures alati läheduses.
+- Valige suured tükid, mida ei saa alla neelata.
 
-## What if he says no?
+## Mida teha, kui ta ütleb ei?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Austage seda. Ei võib tähendada, et ülesanne tundub liiga raske, liiga lapsekeelne või lihtsalt täna sobimatu. Alzheimeri Ühing hoiatab, et tegevust ei tohiks peale sundida. Proovige teist ülesannet, teist aega või istuge lihtsalt koos. Vaadake ka juhendit [mida teha, kui ta ütleb ei](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Sobivad mängud ja vestlused
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Lõpeta ütlus](/games/finish-the-saying/) kasutab tuttavaid vanasõnu ja kõnekäänusid ning annab võimaluse vestluseks. [Vestluskaardid](/games/conversation-cards/) pakuvad avatud küsimusi teemade kaupa, ilma testimiseta, ning võivad avada lugusid tööst ja hobidest. [Pildipusle](/games/picture-puzzle/) hoiab kogu pildi nähtaval, samal ajal kui te tükke vahetate, ning suure trükiga [Sõnaotsing](/games/word-search/) on võimalik välja printida ja köögilaual pliiatsiga lahendada. Viise, kuidas rääkida tema minevikust ilma teda testimata, leiate meie [meenutustegevuste juhendist](/activities/reminiscence/).

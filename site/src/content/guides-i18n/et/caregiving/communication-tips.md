@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Nõuanded vestlemiseks dementsusega inimesega"
+seoTitle: "Dementsuse korral suhtlemine: mida öelda ja vältida"
+description: "Praktilised nõuanded vestlemiseks dementsusega inimesega: kuidas vestlust alustada, mida öelda parandamise või küsitlemise asemel ning kuidas kuulata."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Vestelge vaikses kohas, pöörduge inimese poole, kasutage tema nime ja rääkige
+  aeglaselt lühikeste, lihtsate lausetega. Esitage korraga üks küsimus, pakkuge
+  avatud küsimuste asemel kahte valikut ja oodake kauem, kui tavaliselt
+  loomulik tundub. Ärge vaidlege, parandage ega küsitlege. Vastake sõnade taga
+  olevale tundele ning kasutage puudutust, pilte ja žeste, kui kõne muutub
+  raskemaks.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Vähendage taustamüra ja looge silmside enne, kui rääkimist alustate."
+  - "Kasutage lühikesi lauseid, korraga ühte mõtet ja asesõnade asemel nimesid."
+  - "Pakkuge kahe valiku või jah-ei küsimuse võimalust, mitte avatud küsimusi."
+  - "Oodake vastust. Kui teist ei saada aru, korrake samu sõnu ja proovige siis teisi."
+  - "Ärge vaidlege ega parandage. Vastake sellele tundele, mis sõnade taga on."
+  - "Kui sõnad kaovad, suhelge puudutuse, hääletooni, näoilme ja ühiste piltide kaudu."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Mida ei tohiks dementsusega inimesele öelda?"
+    a: "Vältige küsitlemist („Kas mäletate...?”), parandamist („See on vale”), meenutamist kaotustest („Ma juba ütlesin teile”) ja rääkimist inimesest nii, nagu teda poleks kohal. Vältige ka lapsekeelt. See tekitab sageli piinlikkust või ahastust ega aita."
+  - q: "Kas ma peaksin inimese sõnu parandama, kui ta eksib faktides?"
+    a: "Tavaliselt mitte. Kui eksimus on kahjutu, laske sellel olla. Vaidlemine muudab harva inimese arvamust ja teeb ta sageli kurvaks. Keskenduge sellele, mida ta praegu tunneb ja mida ta vajab."
+  - q: "Mida teha, kui inimene ei leia õiget sõna?"
+    a: "Andke talle kõigepealt aega. Kui ta näeb selgelt vaeva, võite sõna õrnalt pakkuda või oletada, mida ta mõtleb, ja seda kontrollida. Aitavad ka osutamine, žestid ja pildid."
+  - q: "Kuidas vestelda inimesega, kellel on kaugelearenenud dementsus ja kes räägib harva?"
+    a: "Läheneges eestpoolt, öelge, kes te olete, ning kasutage rahulikku häält ja õrna puudutust. Jälgige nägu ja kehakeelt, et mõista tundeid. Teie kohalolu, tuttav laul või käest kinni hoidmine võivad öelda väga palju ka ilma sõnadeta."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementsus võib muuta sõnade leidmise, pika lause jälgimise või taustamüra kõrval keskendumise raskemaks. See ei tähenda, et inimene ei tahaks enam suhelda. Väikesed muudatused selles, kuidas te vestlust ette valmistate, kuidas räägite ja kuidas kuulata, võivad vestlemise muuta teile mõlemale lihtsamaks ja rahulikumaks.
 
-## What are the most important tips for talking with someone who has dementia?
+## Millised on kõige olulisemad nõuanded vestlemiseks dementsusega inimesega?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Pälvige inimese tähelepanu, hoidke vestlus lihtsana ja olge kannatlik. Kui jätate meelde ainult viis asja:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Muutke ruum vaikseks ja pöörduge inimese poole.** Lülitage teler välja, istuge silmade kõrgusele ja kasutage tema nime.
+2. **Öelge korraga üks asi.** Lühikesed laused, üks mõte, üks küsimus.
+3. **Pakkuge kahte valikut.** „Tee või kohv?” on lihtsam kui „Mida te tahaksite?”
+4. **Oodake.** Andke vastamiseks rohkem aega, kui tavaliselt loomulik tundub, ja püüdke mitte vahele segada.
+5. **Ärge kunagi vaidlege ega küsitlege.** Vastake sellele, kuidas inimene end tunneb, mitte sellele, kas faktid on õiged.
 
-## How should I start a conversation?
+## Kuidas vestlust alustada?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Seadke olukord nii, et inimene saaks keskenduda teile. [Family Caregiver Alliance’i juhend](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) soovitab kõigepealt müra vähendada: lülitage raadio või teler välja, sulgege kardinad või uks või minge vaiksemasse kohta.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Läheneges eestpoolt.** Selja tagant või küljelt lähenemine võib inimese ehmatada.
+- **Öelge, kes te olete.** „Tere, isa, siin on Sigrid, teie tütar.” See hoiab ära olukorra, kus inimene peab teie nime otsima.
+- **Istuge inimese kõrgusele.** Kui ta istub, istuge või põlvitage nii, et teie silmad oleksid samal kõrgusel.
+- **Jälgige oma nägu ja hääletooni.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) soovitab pöörata tähelepanu hääletoonile, helitugevusele, näoilmele ja kehakeelele ning rääkida soe ja asjalik toon.
+- **Veenduge, et prillid ja kuuldeaparaadid on olemas.** On raske vestlust jälgida, kui te ei näe ega kuule kõike selgelt.
 
-## How should I phrase what I say?
+## Kuidas oma sõnu valida?
 
-Use simple words, short sentences and a calm, low voice.
+Kasutage lihtsaid sõnu, lühikesi lauseid ja rahulikku, madalat häält.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Üks mõte lause kohta.** „Paneme jope selga. Siis läheme õue.” Mitte mõlemat korraga.
+- **Kasutage nimesid, mitte asesõnu.** „Tädi Maie helistas” on selgem kui „Tema helistas”.
+- **Rääkige pigem madalamalt kui valjemalt.** Family Caregiver Alliance soovitab tõsta hääle asemel pigem häält madalamaks muuta.
+- **Korrake ja sõnastage siis ümber.** Kui inimene ei saanud aru, korrake samu sõnu üks kord. Kui see ei aita, oodake veidi ja proovige teisi sõnu.
+- **Näidake ja ka öelge.** Osutage tassile, tõstke kaks kampsunit esile või näidake esimene samm ette.
+- **Rääkige temaga, mitte temast.** NIA hoiatab, et inimesest ei tohiks rääkida nii, nagu teda poleks kohal, ega kasutada lapsekeelt.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA soovitab tavaliste küsimuste lihtsamaid versioone. Siin on selle vaimus näiteid:
 
-| Instead of | Try |
+| Selle asemel | Proovige nii |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| „Mida te õhtusöögiks tahate?” | „Kas te tahate kala või kana?” |
+| „Kuidas te end tunnete?” | „Kas te tunnete end väsinuna?” |
+| „Kas teil on kõht tühi?” | „Õhtusöök on viie minuti pärast valmis.” |
+| „Nii seda ei tehta.” | „Proovime niimoodi.” |
+| „Kas mäletate meie reisi järve äärde?” | „Mõtlesin meie reisile järve äärde. Rääkige, mis teile seal meeldis.” |
+| „Ma juba ütlesin teile.” | Vastake uuesti, lahkelt, nagu esimest korda. |
 
-## How do I listen well?
+## Kuidas hästi kuulata?
 
-Listen for the meaning and the feeling, not just the words.
+Kuulake tähendust ja tunnet, mitte ainult sõnu.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Oodake.** Vaikus on sageli mõtlemise aeg. Loendage aeglaselt kümneni, enne kui vahele astute.
+- **Pakkuge sõna ainult siis, kui inimene on kinni.** Family Caregiver Alliance ütleb, et kui inimene näeb vaeva, võib sõnu pakkuda.
+- **Kontrollige, mida kuulsit.** [Alzheimer’s Associationi suhtlemisjuhend](https://www.alz.org/help-support/caregiving/daily-care/communications) soovitab otsida sõnade taga olevat tähendust ja seda oma sõnadega korrata, et veenduda arusaamises. „Te olete auto pärast mures?”
+- **Jälgige inimese nägu ja kehakeelt.** Kui kõne muutub raskemaks, märgib NIA, võivad näoilmed näidata kurbust, viha või pettumust selgemalt kui sõnad.
+- **Võtke muresid tõsiselt.** Isegi kui mure põhineb ekslikul faktil, on tunne päris.
 
-## What if they say something that is not true?
+## Mis siis, kui inimene ütleb midagi, mis pole tõsi?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ärge vaidlege. Te ei muuda tõenäoliselt tema arvamust ja inimene võib tunda end piinlikult või hirmunult. Selle asemel võtke ühendust tundega ja liikuge siis õrnalt edasi.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance soovitab enne ümber suunamist tunnet tunnustada. Näiteks kui teie ema väidab, et ta peab lapsed koolist ära tooma:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Selle asemel: „Ema, sinu lapsed on juba suured. See oli nelikümmend aastat tagasi.”
+- Proovige nii: „Sa oled alati olnud nii hooliv ema. Räägi mulle, kuidas sa neid ära tõid. Kas sööme enne midagi väikest?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association soovitab samuti mitte vaielda väidete üle, millega te ei nõustu. Valige hetki: kui ekslik arvamus on kahjutu, laske sellel olla.
 
-## How does communication change as dementia progresses?
+## Kuidas suhtlemine dementsuse süvenedes muutub?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Vajadused muutuvad aja jooksul, seetõttu kohandage oma viisi. Alzheimer’s Association kirjeldab kolme üldist etappi:
 
-| Stage | What helps |
+| Etapp | Mis aitab |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Varajane | Ärge eeldage, et inimene ei suuda suhelda. Kaasake teda vestlustesse, rääkige temaga otse, küsige, millist toetust ta soovib, ja kasutage huumorit, kui see sobib. |
+| Keskmine | Vestelge üksi vaikses kohas. Rääkige aeglaselt, hoidke silmsidet, kasutage jah-ei küsimusi, andke juhiseid samm-sammult ning ärge kritiseerige ega parandage. |
+| Hiline | Läheneges eestpoolt ja öelge, kes te olete. Julgustage osutama ja žeste kasutama. Kasutage puudutust, helisid, pilte, vaateid ja lõhnu. Ärge kunagi rääkige nii, nagu inimest poleks kohal. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Iga inimene on erinev ja samal inimesel võivad olla paremad ja raskemad päevad. Vastake sellele, kuidas tal praegu läheb, mitte sildile.
 
-## Can pictures and activities make conversation easier?
+## Kas pildid ja tegevused võivad vestlemist lihtsamaks teha?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Jah. Ühine pilt vähendab survet ja annab teile mõlemale midagi, mida vaadata ja millele osutada.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Pildid vestluse alustamiseks.** [Conversation Cards](/games/conversation-cards/) pakuvad pilte ja avatud küsimusi, mis kunagi ei küsitle.
+- **Perepildid.** [Photo Pairs](/games/photo-pairs/) muudab teie valitud fotod õrnaks sobitamise mänguks, mis sageli kutsub esile mälestusi.
+- **Tuttavad ütlused.** [Finish the Saying](/games/finish-the-saying/) kasutab tuntud ütlusi, millele järgneb vestlussoovitus.
+- **Sobitamise mängud taustal.** [Picture Pairs](/games/picture-pairs/) annab kätele tegevuse, samal ajal kui vestlete.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Lisateavet leiate lehtedelt [kuidas koos mängida](/caregiving/how-to-play-together/) ja [meenutavad tegevused](/activities/reminiscence/). Külastuste ja kõnede kohta lugege meie juhendeid [külastamine](/activities/visiting/) ning [telefoni- ja videokõned](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Mis siis, kui mul saab kannatus otsa?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Nii juhtub kõigiga. NIA soovitab, et kui tunnete pettumust, võtke aega rahunemiseks. Minge teise tuppa, hingake mõni kord aeglaselt ja tulge tagasi, kui saate. Vestlust saab alati uuesti alustada ja inimene võib teie rahulikumale meeleolule hästi vastata. Kui pettumus muutub pidevaks, on see märk sellest, et vajate rohkem tuge, mitte sellest, et teil midagi ei õnnestu. Meie juhend [hooldaja enesehoolest](/caregiving/caregiver-self-care/) pakub kohti, kust abi otsida.

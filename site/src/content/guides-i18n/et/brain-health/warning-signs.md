@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Dementsuse varajased tunnused ja millal arsti juurde minna"
+seoTitle: "Dementsuse varajased tunnused ja millal arsti juurde minna"
+description: "Dementsuse levinumad varajased tunnused, erinevus tavalisest vananemisest, mäluprobleemide ravitavad põhjused ja ettevalmistus arsti vastuvõtuks."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Igapäevaelu segav mälukaotus, raskused tuttavate tegevustega, segadus aja või koha osas
+  ning muutused meeleolus või otsustusvõimes võivad olla dementsuse varajased tunnused. Ka paljud
+  muud seisundid, sealhulgas kilpnäärmehäired, B12-vitamiini puudus, ravimite kõrvaltoimed,
+  depressioon ja unehäired, võivad põhjustada sarnaseid muutusi. Ainult kvalifitseeritud arst
+  saab diagnoosi panna. Äkiline segadusseisund vajab kiiret abi.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Aeg-ajalt unustamine on vananedes tavaline; igapäevaelu segavad muutused tasub ära kontrollida."
+  - "Alzheimeri Ühing kirjeldab 10 hoiatavat tunnust ja toob igaühe kõrvale võrdluseks tavapärase vanusega seotud muutuse."
+  - "Kilpnäärmehäired, B12-vitamiini puudus, ravimite kõrvaltoimed, depressioon, infektsioonid ja unehäired võivad kõik mälu mõjutada ning osa neist on ravitavad."
+  - "Ainult kvalifitseeritud arst saab dementsust diagnoosida; veebi küsitlused ja enesetestid ei saa seda teha."
+  - "Segadus, mis tekib äkitselt tundide või päevade jooksul, võib olla deliirium ja vajab kiiret arstiabi."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Kas unustamine on vananemise normaalne osa?"
+    a: "Mõnevõrra küll. National Institute on Aging ütleb, et asjade aeg-ajalt valesse kohta panemine või arve unustamine on tavaliselt kerge, vanusega seotud unustamine. Dementsus ei ole vananemise normaalne osa. Mäluprobleemid, mis muudavad igapäevased toimingud, nagu autojuhtimine, telefoni kasutamine või koju tee leidmine, raskeks, tasub arstiga üle kontrollida."
+  - q: "Kas mäluprobleemidel võib olla ka muu põhjus kui dementsus?"
+    a: "Jah. National Institute on Aging toob muuhulgas esile kilpnäärme-, neeru- või maksaprobleemid, ravimite kõrvaltoimed, depressiooni ja ärevuse, B12-vitamiini puuduse, alkoholi liigse tarbimise, unehäired, infektsioonid ja peavigastused. Mõni neist võib pärast ravi leeveneda ning see on üks põhjus, miks arsti kontroll on oluline."
+  - q: "Kas dementsust saab kodus testida?"
+    a: "Ei. Ainult kvalifitseeritud arst saab dementsust diagnoosida, kasutades haiguslugu, füüsilist uuringut, mälu ja mõtlemise teste, laborianalüüse ning mõnikord ajuskaneeringuid. Isegi lühikesed testid, mida arstid kasutavad, ei ole diagnoosi panemiseks üksi piisavad."
+  - q: "Mida teha, kui inimene muutub äkitselt segaseks?"
+    a: "Otsige kohe arstiabi. Äkiline segadus võib olla deliirium, mida VA kirjeldab meditsiinilise hädaolukorrana. Helistage inimese tervishoiuteenuse osutajale või helistage numbril 112, jääge inimese juurde ja pange kirja, milliseid ravimeid ta võtab."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Märkate, et teie enda mälu või kellegi lähedase mälu on muutunud? See võib olla hirmutav. See leht aitab otsustada, millal arsti vastuvõtule aeg broneerida ja kuidas selleks valmistuda. See leht ei saa öelda, kas kellelgi on dementsus. **Ainult kvalifitseeritud arst saab dementsust diagnoosida** ning paljud seisundid, mis mäluprobleeme põhjustavad, ei ole üldse dementsus. Palun ärge tuginege veebi küsitlustele ega enesetestidele.
 
-## What are the early signs of dementia?
+## Millised on dementsuse varajased tunnused?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimeri Ühing](https://www.alz.org/alzheimers-dementia/10_signs) kirjeldab 10 varajast tunnust. Iga tunnuse kõrval on võrdluseks toodud tavapärane vanusega seotud muutus. Oma sõnadega:
 
-| Sign worth checking | More typical with age |
+| Tunnus, mis tasub kontrollida | Vananedes pigem tavaline |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Igapäevaelu segav mälukaotus, näiteks hiljutiste sündmuste unustamine või sama küsimuse ikka ja jälle küsimine | Mõne nime või kokkusaamise unustamine ja hiljem meenutamine |
+| Raskused planeerimise või probleemide lahendamisega, näiteks tuttava retsepti järgimine või arvete pidamine | Aeg-ajalt mõni viga majapidamisarvetega |
+| Raskused tuttavate tegevuste lõpetamisega kodus, tööl või väljas olles | Vahetevahel abi vajamine mikrolaineahju seadistamisel või telesaate salvestamisel |
+| Kuupäevade, aastaaegade või asukoha tajumise kadumine | Nädalapäeva segamini ajamine ja seejärel selle välja mõtlemine |
+| Uued raskused vahemaade hindamisel, lugemisel või värvide eristamisel | Nägemise muutused katarakti tõttu |
+| Uued raskused sõnadega, näiteks lause keskel peatumine või asjadele vale nime andmine | Vahetevahel sobiva sõna leidmisega vaeva nägemine |
+| Asjade panemine ebatavalistesse kohtadesse ja sammude tagasijälgimise raskus | Asjade aeg-ajalt kaotamine ja nende leidmine samme tagasi jälgides |
+| Kehv otsustusvõime, näiteks rahaasjades või isikliku hügieeni juures | Aeg-ajalt mõne ebasoodsa otsuse tegemine |
+| Hobidest, tööst või seltskondlikust tegevusest taandumine | Vahetevahel vähene soov pere- või seltskondlikule üritusele minna |
+| Muutused meeleolus või isiksuses, näiteks segaduses, kahtlustav, hirmunud või ärev olemine | Harjumuspärased tegutsemisviisid ja ärritumine, kui rutiin muutub |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Üks tunnus üksi ei tähenda dementsust. Oluline on **muutus võrreldes sellega, mis on selle inimese jaoks tavaline**, eriti kui see muudab igapäevaelu raskemaks.
 
-## How is normal aging different from dementia?
+## Mille poolest erineb tavaline vananemine dementsusest?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) ütleb, et paljud vanemad inimesed märkavad, et meenutavad asju aeglasemalt või panevad mõnikord asju valesse kohta või unustavad arve. Need on tavaliselt kerge unustamise tunnused. **Dementsus ei ole vananemise normaalne osa.** Tõsised mäluprobleemid muudavad igapäevased tegevused raskeks, näiteks autojuhtimise, telefoni kasutamise või koju tee leidmise.
 
-The NIA suggests talking with a doctor if someone:
+NIA soovitab arstiga rääkida, kui inimene:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Küsib ikka ja jälle samu küsimusi
+- Eksib kohtades, mida ta varem hästi tundis
+- Saab vaevu hakkama retseptide või juhiste järgimisega
+- On aja, inimeste ja kohtade osas järjest segasem
+- Lakkab enda eest hoolitsemast, näiteks sööb halvasti, ei pese end või käitub ohtlikult
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Mõnel inimesel on **kerge kognitiivne häire (MCI)**. See tähendab rohkem mälu- või mõtlemisprobleeme kui teistel samas vanuses, kuid igapäevaeluga saadakse siiski hakkama. NIA ütleb, et MCI võib olla Alzheimeri tõve varajane tunnus, kuid mitte kõigil, kellel on MCI, see haigus välja ei kujune.
 
-## What else can cause memory problems?
+## Mis veel võib mäluprobleeme põhjustada?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Paljud muud asjad peale dementsuse võivad mälu mõjutada ning osa neist läheb ravi korral paremaks. NIA toob esile:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Kilpnäärme-, neeru- või maksaprobleemid**
+- **Ravimite kõrvaltoimed**
+- **Depressioon ja ärevus**
+- **B12-vitamiini puudus** või ebapiisav tervislik toitumine
+- **Unehäired**
+- **Alkoholi või uimastite liigtarvitamine**
+- **Infektsioonid, verehüübed või kasvajad** ajus
+- **Peavigastus**, näiteks põrutus
+- **Tugev stress või lein**, näiteks pensionile jäämine või abikaasa kaotus
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Kuulmis- ja nägemisprobleeme võib samuti segadusega segi ajada; vaadake meie [kuulmisjuhendit](/brain-health/hearing/). Seepärast on arsti kontroll oluline. [Alzheimeri Ühingu](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) andmetel tellivad arstid sageli vereanalüüse, et kontrollida kilpnäärmeprobleeme, vitamiinipuudust ja infektsioone. Tasub rääkida ka heast [unest](/brain-health/sleep/) ja depressiooni ravist.
 
-## Sudden confusion is an emergency
+## Äkiline segadus on hädaolukord
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Segadus, mis tekib kiiresti tundide või päevade jooksul, vajab kiiret arstiabi.** See võib olla deliirium. [VA kirjeldab deliiriumi](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) meditsiinilise hädaolukorrana ja soovitab kohe helistada inimese tervishoiuteenuse osutajale või helistada numbril 112. Tunnuste hulka kuuluvad:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Selge mõtlemise võime kõikumine
+- Raskused tähelepanu koondamisel
+- Segane mõtlemine
+- Ebatavaliselt suur unisus või ebatavaliselt suur rahutus ja ärrituvus
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+See võib juhtuda igaühega, sealhulgas inimestega, kes juba elavad dementsusega. [NHS-i](https://www.nhs.uk/symptoms/confusion/) andmetel on levinumad põhjused infektsioonid (kuseteede infektsioonid on vanematel inimestel ja dementsusega inimestel levinud), insult, madal veresuhkur diabeediga inimestel, peavigastus ja mõned ravimid. Abi oodates jääge inimese juurde ja rahustage teda lühikeste, lihtsate sõnadega. Ärge esitage palju küsimusi ning pange kirja, milliseid ravimeid ta võtab.
 
-## How do I prepare for the doctor's appointment?
+## Kuidas arsti vastuvõtuks valmistuda?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Hea vastuvõtt algab headest märkmetest. [Alzheimeri Ühing](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) soovitab kaasa võtta:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Loetelu muutustest** mälus, meeleolus ja käitumises koos konkreetsete näidete ja ligikaudse algusajaga
+2. **Varasemad ja praegused terviseprobleemid**, sealhulgas perekonna anamnees mäluprobleemide osas
+3. **Kõik retsepti- ja käsimüügiravimid**
+4. **Kõik vitamiinid või toidulisandid**
+5. **Oma küsimused**, näiteks milliseid uuringuid tehakse, kui kaua need kestavad ja millal tulemused saabuvad
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Samuti aitab kaasa võtta pereliige või sõber, kes inimest hästi tunneb. [NIA selgitab](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), et arstid võivad küsida nii inimeselt kui ka pereliikmelt tervise, ravimite, igapäevaste tegevuste ja käitumise muutuste kohta. Arstid võivad ka:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Teha mälu, probleemilahenduse, tähelepanu, loendamise ja keele teste
+- Tellida vere-, uriini- ja muid analüüse, et otsida teisi põhjusi
+- Kontrollida depressiooni või muid vaimse tervise seisundeid
+- Tellida ajuskaneeringuid, näiteks kompuutertomograafia või MRT
+- Suunata eriarsti juurde, näiteks geriaatri, neuroloogi, geriaatrilise psühhiaatri või neuropsühholoogi juurde
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA märgib, et kognitiivse seisundi hindamine on Medicare’i iga-aastase ennetava tervisekontrolli (Annual Wellness Visit) kohustuslik osa, mis võib olla loomulik hetk murede üles tõstmiseks. Isegi lühikesed testid, mida arstid kasutavad, ei ole diagnoosi panemiseks üksi piisavad. Need on esimene samm põhjalikuma hindamise suunas ning diagnoosimiseks võib kuluda rohkem kui üks visiit. NIA soovitab, et mäluprobleemidega inimesed käiksid arsti juures kontrollis iga 6–12 kuu tagant.
 
-## Raising the subject kindly
+## Kuidas teemat hoolivalt üles võtta
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Kui muretsete kellegi teise pärast, valige rahulik ja privaatne hetk. Rääkige konkreetsetest asjadest, mida olete märganud, ja sõnastage need muretsemisena inimese tervise pärast, mitte kriitikana. Ettepanek teha üldine tervisekontroll võib tunduda vähem hirmutav. Kaasake inimene otsustesse ja rääkige temaga kui täiskasvanuga. Meie [suhtlemisnõuanded](/caregiving/communication-tips/) võivad aidata.
 
-## Talk with a doctor
+## Rääkige arstiga
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Kui märkate mälus, mõtlemises, meeleolus või igapäevastes võimetes muutusi, mis on uued ja korduvad, broneerige aeg perearsti vastuvõtule. Äkilise segaduse korral helistage numbril 112 või inimese tervishoiuteenuse osutajale kohe. Varajane kontroll tähendab, et ravitavad põhjused saab üles leida ning kui tegemist on dementsusega, on planeerimiseks ja toe leidmiseks rohkem aega. Hoolitsege selle käigus ka enda eest; vaadake meie [hooldaja enesehoiu juhendit](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+See leht on üldine teave, mitte meditsiiniline nõuanne. Vaadake meie [meditsiinilist lahtiütlust](/medical-disclaimer/).

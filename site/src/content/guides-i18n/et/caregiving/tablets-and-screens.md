@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Tahvelarvuti või telefoni seadistamine dementsusega inimesele"
+seoTitle: "Tahvelarvuti või telefoni seadistamine dementsusega inimesele"
+description: "Samm-sammuline tahvelarvuti ja telefoni seadistamine dementsusega inimesele: lukustage ühte rakendusse, suurendage teksti, vähendage teavitusi, lihtsustage avakuva, seadistage heli ja privaatsus."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Muutke tahvelarvuti või telefon enne üleandmist lihtsamaks. Lukustage see
+  iPadis ja iPhone'is funktsiooniga Guided Access või Androidis rakenduse
+  kinnitamisega ühte rakendusse või kasutage Apple'i funktsiooni Assistive
+  Access lihtsama vaate jaoks. Suurendage teksti, vaigistage teavitused,
+  jätke ühele avakuvale vaid mõned rakendused, seadistage heli, kasutage
+  alust ja piirake rakenduste õigusi. Kasutage seadet koos ning lisaks ka
+  ekraanivälistele tegevustele.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ja rakenduse kinnitamine (Android) hoiavad ekraani ühes rakenduses, kuni Te selle avate."
+  - "Apple'i Assistive Access pakub lihtsamat vaadet, mis on mõeldud kognitiivsete raskustega inimestele."
+  - "Suurendage teksti ning lülitage teavitused ja hüpikaknad välja, et miski ei segaks ega tekitaks segadust."
+  - "Jätke ühele avakuvale vaid mõned tuttavad rakendused ja seadistage heli enne alustamist."
+  - "Alus ja laadimiskoht, mis kunagi ei muutu, muudavad seadme kasutamise ja leidmise lihtsamaks."
+  - "Vaadake üle rakenduste õigused ja andmete jagamine: HIPAA ei kaitse tavaliselt isiklikus seadmes olevaid andmeid."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Kuidas takistada dementsusega inimesel iPadis rakendusest lahkumist?"
+    a: "Lülitage sisse Guided Access menüüs Settings > Accessibility > Guided Access ja määrake pääsukood. Avage rakendus, klõpsake ülemist nuppu (või vanematel iPadidel kodunuppu) kolm korda ja puudutage Start. iPad jääb sellesse rakendusse, kuni keegi sisestab pääsukoodi."
+  - q: "Kuidas lukustada Androidi tahvelarvuti ühte rakendusse?"
+    a: "Lülitage rakenduse kinnitamine sisse rakenduses Settings, tavaliselt jaotises Security (mõnikord Security & location) > Advanced > App pinning. Seejärel avage rakendus, avage Overview, puudutage rakenduse ikooni üleval ja puudutage Pin. Kinnituse eemaldamiseks on vaja Teie PIN-koodi, mustrit või parooli."
+  - q: "Kas Guided Accessi kasutamine inimese enda telefonis on ohutu?"
+    a: "Olge ettevaatlik. Apple ütleb, et Crash Detection ja Emergency Services ei ole Guided Accessi kasutamise ajal saadaval. Kui inimene vajab oma telefoni hädaabikõnede tegemiseks, kasutage Guided Accessi ainult siis, kui olete temaga koos, või kaaluge hoopis Assistive Accessi."
+  - q: "Kui palju ekraaniaega sobib dementsusega inimesele?"
+    a: "Kindlat arvu ei ole. Lühikesed koos veedetud hetked, mida vaheldavad jalutuskäigud, muusika, majapidamistööd ja vestlused, teevad päeva sisukamaks kui pikad üksinda ekraani ees veedetud ajad. Kui seade tekitab pahameelt või tõrjub teisi tegevusi kõrvale, kasutage seda vähem."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tahvelarvuti võib olla tore viis pilte, muusikat ja lihtsaid mänge koos jagada. Samas võib see tekitada segadust: juhuslik puudutus avab teise rakenduse, ekraanile ilmub teavitus, tekst on liiga väike või ekraan läheb mängu keskel tumedaks. Väike ettevalmistus Teie poolt lahendab enamiku nendest muredest.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Need sammud kasutavad iPhone'i, iPadi ja Androidi sisseehitatud seadeid. Menüüde nimed võivad tarkvaraversioonide ja seadmetootjate lõikes erineda, nii et kui midagi tundub teisiti, vaadake oma seadme kohta lingitud Apple'i või Google'i juhendit. Tehke seadistused ise valmis enne, kui koos laua taha istute.
 
-## Should someone with dementia use a tablet or phone?
+## Kas dementsusega inimene peaks tahvelarvutit või telefoni kasutama?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+See sõltub inimesest. Paljudele inimestele meeldib tahvelarvutit kasutada siis, kui keegi on nende kõrval, isegi kui nad ei saaks sellega üksi hakkama. Alustage sellest, et kasutate seadet koos, hoides avatud ühte rakendust mõne minuti jooksul. Kui see toob rõõmu ja vestlust, jätkake. Kui see tekitab segadust või pahameelt, võib fotoalbum, prinditud lehed või muusika paremini sobida. Üks võimalus on meie [prinditavad tegevused](/activities/printable/).
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tahvelarvutit on tavaliselt lihtsam kasutada kui telefoni: ekraan ja pildid on suuremad ning see ei ole ühtlasi inimese hädaabikõnede vahend.
 
-## How do I lock a tablet or phone to one app?
+## Kuidas lukustada tahvelarvuti või telefon ühte rakendusse?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Kasutage iPhone'is ja iPadis Guided Accessi või Androidis rakenduse kinnitamist. Mõlemad hoiavad ekraani ühes rakenduses, kuni sisestate koodi, nii et juhuslik puudutus või libistus ei saa midagi muud avada.
 
-### iPad and iPhone: Guided Access
+### iPad ja iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple'i Guided Accessi juhiste](https://support.apple.com/en-us/111795) põhjal:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Avage **Settings**, puudutage **Accessibility**, seejärel puudutage **Guided Access** ja lülitage see sisse.
+2. Jaotises **Passcode Settings** määrake Guided Accessi pääsukood. Samuti saate lubada Face ID või Touch ID kasutamise.
+3. Valikuline: jaotises **Display Auto-Lock** valige, kui kiiresti ekraan seansi ajal lukustub, et see ei läheks mängu keskel tumedaks.
+4. Avage rakendus, mida soovite kasutada.
+5. Klõpsake küljenuppu (iPhone), ülemist nuppu (iPad) või vanematel seadmetel kodunuppu kolm korda.
+6. Valikuline: tehke ring ümber ekraaniosadele, millele puudutused ei peaks mõjuma. Puudutage **Options** (või **Session Settings**), et lülitada välja helinupud või peatada ekraani pööramine.
+7. Puudutage **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Seansi lõpetamiseks klõpsake sama nuppu uuesti kolm korda, sisestage pääsukood ja puudutage **End**. Apple märgib, et mõnes vanemas tarkvaraversioonis tuleb selle asemel topeltklõpsata.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Tähtis:** Apple ütleb, et Crash Detection ja Emergency Services ei ole Guided Accessi seansi ajal saadaval. Ärge jätke Guided Accessi sisse telefonis, mida inimene võib vajada hädaabikõnede tegemiseks.
 
-### Android: app pinning
+### Android: rakenduse kinnitamine
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google'i Androidi abi](https://support.google.com/android/answer/9455138?hl=en) põhjal ekraani kinnitamise kohta:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Avage rakendus **Settings**.
+2. Puudutage **Security** (või **Security & location**), seejärel **Advanced** ja siis **App pinning**. Kui Te seda ei leia, vaadake oma seadmetootja abilehti.
+3. Lülitage **App pinning** sisse. Kinnituse eemaldamiseks on vaja Teie PIN-koodi, mustrit või parooli.
+4. Avage soovitud rakendus. Pühkige ekraani keskele ja hoidke, et avada Overview (või puudutage 3-nupulise navigeerimise korral Overview'd).
+5. Rakenduse eelvaate ülaosas puudutage rakenduse ikooni ja seejärel **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Kinnituse eemaldamiseks pühkige žestnavigeerimise korral üles ja hoidke. 3-nupulise navigeerimise korral puudutage ja hoidke nuppe Back ja Overview. 2-nupulise navigeerimise korral puudutage ja hoidke nuppe Back ja Home. Seejärel sisestage oma PIN-kood, muster või parool.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Kas kogu iPhone'i või iPadi jaoks on olemas lihtsam režiim?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Jah. Apple'i Assistive Access asendab tavalise avakuva lihtsamaga. [Apple kirjeldab seda](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) lahendusena, mis on mõeldud iPhone'i kasutamise lihtsustamiseks kognitiivsete raskustega inimestele, pakkudes suuremaid ekraanielemente ja selgemalt keskendunud funktsioone. Apple pakub [sama funktsiooni ka iPadis](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Kes selle seadistab.** Apple soovitab, et seadistamisel aitaks usaldusväärne toetaja, näiteks pereliige või hooldaja, kes inimest tunneb ja aitab valida sobivad rakendused ja funktsioonid.
+- **Kust alustada.** Avage **Settings > Accessibility > Assistive Access**, puudutage **Set Up Assistive Access** ja seejärel **Continue**.
+- **Rakendused.** Teie valite, millised rakendused kuvatakse. Mõnel Apple'i rakendusel on eraldi lihtsustatud versioon ning enamiku teiste rakenduste saate lisada nende tavapärases kujunduses.
+- **Paigutus.** Valige **Rows** (kergesti loetav loend) või **Grid** (suuremad elemendid, mis toovad esile pildid ja ikoonid).
+- **Pääsukood.** Määrate eraldi Assistive Accessi pääsukoodi sisenemiseks, väljumiseks või seadete muutmiseks. Apple soovitab seadistamise ajal lisada ka taastamiseks mõeldud Apple'i konto, sest ilma selleta tähendab unustatud pääsukood seadme lähtestamist.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access võib sobida inimesele, kes kasutab oma seadet iga päev. Guided Access või rakenduse kinnitamine sobib kiiremini ühise mänguhetke jaoks.
 
-## How do I make text and pictures bigger?
+## Kuidas muuta tekst ja pildid suuremaks?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Suurendage teksti ja ekraanielementide suurust ning kontrollige seejärel, kas nupud mahuvad ikka ekraanile.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ja iPad.** [Apple'i fondisuuruse juhiste](https://support.apple.com/en-us/102453) järgi avage **Settings > Display & Brightness > Text Size** ja lohistage liugurit. Veelgi suurema teksti jaoks avage **Settings > Accessibility > Display & Text Size > Larger Text**. Apple märgib, et väga suur tekst võib muuta mõne nupu puudutamise raskemaks, nii et vajadusel kohandage seadeid.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google'i teksti ja kuva seadete abi](https://support.google.com/accessibility/android/answer/11183305?hl=en) järgi avage **Settings** ja otsige **Font size**, seejärel liigutage liugurit. Otsige **Display size**, et muuta kõike ekraanil suuremaks. Samuti saate jaotises **Accessibility > Display size and text** sisse lülitada **Bold text**. Mõned rakendused ei järgi neid seadeid.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Mängudes nagu [Picture Pairs](/games/picture-pairs/) ja [Find the Same](/games/find-the-same/) saate valida ka vähem kaarte või valikuid, mis hoiab ekraanipildi lihtsamana.
 
-## How do I stop notifications and pop-ups?
+## Kuidas peatada teavitused ja hüpikaknad?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Lülitage välja nende rakenduste teavitused, mida Te ei vaja, ja kasutage tegevuste ajal režiimi Do Not Disturb.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ja iPad.** Avage **Settings > Notifications**, puudutage rakendust jaotises **Notification Style** ning lülitage välja **Allow Notifications** ([Apple'i teavituste seadete juhend](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Kõnede, hoiatuste ja teavituste ajutiseks vaigistamiseks avage Control Center ja lülitage nupu **Focus** alt sisse **Do Not Disturb** ([Apple'i Do Not Disturb abi](https://support.apple.com/en-us/105112)). Selle saate ajastada jaotises **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Pühkige ekraani ülaservast alla ja puudutage **Do Not Disturb** või avage **Settings > Modes > Do Not Disturb** ([Google'i Do Not Disturb abi](https://support.google.com/android/answer/9069335?hl=en)). Jaotises **Notification filters** saate valida, millised inimesed ja rakendused võivad endiselt läbi pääseda. Seaded erinevad seadmetootjate lõikes.
 
-## How do I make a simple home screen?
+## Kuidas luua lihtne avakuva?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Jätke ühele ekraanile mõned tuttavad rakendused ja viige ülejäänud vaatest eemale. Selleks ei ole ühtainust seadet; oluline on segadust vähendada.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Valige kolm kuni kuus rakendust.** Näiteks fotod, muusika, videokõnerakendus ja üks mäng.
+- **Pange need esimesele ekraanile** alati samadesse kohtadesse ning viige kõik muu teisele ekraanile või kausta.
+- **Kasutage lihtsat ja hea kontrastsusega taustapilti,** näiteks üht värvi või ühte tuttavat fotot, et ikoonid paistaksid hästi välja.
+- **Kustutage rakendused, mida Te ei vaja.** Vähem rakendusi tähendab vähem segaduse võimalusi ja vähem kogutavaid andmeid.
+- **Kaaluge Apple'i seadmetes Assistive Accessi,** kui soovite, et seade teeks selle Teie eest.
 
-## What about volume and sound?
+## Kuidas on lood heli ja helitugevusega?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Seadistage mugav helitugevus enne, kui annate seadme üle. Guided Accessiga saate helinupud välja lülitada, et heli ei muutuks tegevuse keskel. Kontrollige, et kuuldeaparaadid on sees ja töötavad.
 
-## Where should the tablet live?
+## Kus peaks tahvelarvuti olema?
 
-Give it a stand and a permanent charging spot.
+Andke sellele alus ja püsiv laadimiskoht.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Alus või ümbris,** mis hoiab tahvelarvutit laual püsti, tähendab, et keegi ei pea seda käes hoidma ning piltidele on lihtsam osutada.
+- **Üks laadimiskoht,** mis kunagi ei muutu, soovitavalt laadimisalus laual toas, kus viibite iga päev. Nii on tahvelarvuti alati laetud ja alati samas kohas.
+- **Vähendage läiget.** Asetage ekraan nii, et ere aken ei paistaks otse sellele.
 
-## How much screen time is okay?
+## Kui palju ekraaniaega sobib?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Õiget minutite arvu ei ole. Püüdke hoida ekraaniaega lühikeste ja koos veedetud hetkedena osana sisukast päevast, kuhu kuuluvad ka liikumine, muusika, majapidamistööd, vestlused ja väljas olemine. Kuna tegus õhtu võib hilisõhtust rahutust lisada, kaaluge ekraanitegevuste jätmist päeva varasemasse ossa. Vaadake [rahustavaid hilisõhtupooliku tegevusi](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Tahvelarvuti kasutamine koos, mitte lapsehoidjana, hoiab selle kogemuse ühise ja seltskondlikuna. Meie juhend [mängimisest koos](/caregiving/how-to-play-together/) selgitab, kuidas seda teha.
 
-## How do I protect their privacy on the device?
+## Kuidas kaitsta seadmes inimese privaatsust?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Piirake seda, mida rakendused võivad koguda, ja ärge eeldage, et terviseandmete privaatsusseadus seda katab. USA tervishoiuministeerium (HHS) [selgitab](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), et HIPAA reeglid ei kaitse tavaliselt terviseteavet, mis on salvestatud isiklikesse telefonidesse ja tahvelarvutitesse või millele nende kaudu ligi päästakse. Enamasti ei kaitse HIPAA ka andmeid, mis on sisestatud isiklikuks kasutamiseks mõeldud rakendustesse, välja arvatud juhul, kui rakendus pärineb HIPAA alla kuuluvast tervishoiuteenuse osutajast, tervisekindlustusplaanist või nende äripartnerilt.
 
-HHS suggests:
+HHS soovitab:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- vältida tarbetuid või juhuslikke rakendusi, eriti „tasuta” rakendusi;
+- mitte anda rakendustele juurdepääsu asukohale, kui nad seda tõesti ei vaja, näiteks nagu kaardirakendused.
 
-Also consider:
+Lisaks kaaluge järgmist:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Kasutage seadmes pääsukoodi** ja hoidke selle märge turvalises kohas.
+- **Vaadake üle õigused** fotodele, kaamerale, mikrofonile, kontaktidele ja asukohale ning lülitage välja kõik, mida rakendus ei vaja.
+- **Kontrollige enne paigaldamist,** mida rakendus kogub. Meie juhendis [dementsusega inimestele mõeldud rakenduste ja mängude valimine](/caregiving/choosing-apps-and-games/) on privaatsuse kontrollnimekiri.
+- **Olge perefotodega ettevaatlik.** Jagage ainult fotosid, millega inimene oleks rahul, ja teadke, kuhu rakendus need salvestab. Mängus [Photo Pairs](/games/photo-pairs/) jäävad Teie valitud fotod Teie brauserisse.
+- **Lülitage rakendusesisesed ostud välja** või eemaldage makseandmed kontodelt, mida inimene kasutab.

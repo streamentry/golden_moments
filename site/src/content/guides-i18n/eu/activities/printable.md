@@ -1,33 +1,35 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Dementzia-jarduera inprimagarri doakoak"
+seoTitle: "Dementzia-jarduera inprimagarriak: letra handia"
+description: "Dementzia-jarduera inprimagarri doakoak: letra handiko hitz bilaketa, koloreztatzeko orriak, elkarrizketa-txartelak eta irudi-bingoa, ondo inprimatzeko aholkuak."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments-ek dementzia duten pertsonentzako jarduera inprimagarri doakoak
+  eskaintzen ditu: letra handiko hitz bilaketa, koloreztatzeko orriak, irudiak
+  dituzten elkarrizketa-txartelak eta irudi-bingoko txartelak. Ireki edozein
+  joko-orri eta erabili bertako Inprimatu botoia. Inprimatu letra handi eta
+  argiarekin, paper lodian, eta jarri zeregin bakarra orri bakoitzean.
+  Plastifikatu berrerabili nahi dituzun orriak. Etxean egindako inprimagarri
+  sinpleek ere laguntzen dute, hala nola bizitza-istorioaren orri batek edo
+  eguneroko ordutegi batek.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Gure jarduera inprimagarriak doakoak dira: Hitz Bilaketa, Koloreztatu, Elkarrizketa-txartelak eta Irudi Bingoa. Joko-orri bakoitzean Inprimatu botoia dago."
+  - "Inprimatu letra handi eta argiarekin, kontraste sendoarekin, eta jarri zeregin bakarra orri bakoitzean."
+  - "Paper lodia edo kartulina errazago eusten da eta zailago zimurtzen da. Plastifikatu orriak arbel-markagailuekin berrerabiltzeko."
+  - "Etxean egindako inprimagarri sinpleak erabilgarriak dira, hala nola bizitza-istorioaren orria, eguneroko ordutegia edo ateetarako irudi-etiketak."
+  - "Inprimatutako orria gonbidapen bat da, ez etxerako lana. Zati bat egitea, edo ezer ez egitea, ondo dago."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Zuen dementzia-jarduera inprimagarriak doakoak al dira?"
+    a: "Bai. Webgune honetako Hitz Bilaketa, Koloreztatu, Elkarrizketa-txartelak eta Irudi Bingoa orriak doan erabil eta inprima daitezke. Ireki joko-orria eta erabili Inprimatu botoia."
+  - q: "Zein jarduera inprimagarri dira egokienak dementzia duten pertsonentzat?"
+    a: "Inprimagarri egokienak sinpleak, argiak eta helduentzako modukoak dira: letra handiko hitz bilaketa hitzak soilik eskuinera eta behera dituena, ingerada argiko koloreztatzeko orriak, elkarrizketa hasteko irudi-txartelak, eta taldeentzako irudi-bingoa. Egokitu jarduera pertsonaren interesetara eta une horretako gaitasunetara, eta jarri zeregin bakarra orri bakoitzean."
+  - q: "Nola egin ditzaket inprimagarriak errazago ikusi eta erabiltzeko?"
+    a: "Erabili letra handi eta argia, tinta iluna paper zuri edo kremaren gainean, eta utzi tarte asko. Inprimatu paper lodian edo kartulinan orria laua gera dadin, aukeratu paper matea distira gutxitzeko, eta erabili idazketa-ohola edo irristagaitza orriak mugitu ez dadin. Plastifikatzeak orriak iraunarazten laguntzen du."
+  - q: "Inprima ditzaket zuen jarduerak egoitza edo eguneko zentro baterako?"
+    a: "Bai. Jarduera-arduradunak ongi etorriak dira gure orriak egoiliar eta taldeentzat inprimatzera. Irudi Bingoa taldeetarako pentsatuta dago, eta pantailako deitzaile bat du telebista edo proiektore batean erakusteko."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +54,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Batzuetan, jarduerarik onena paperezko orri bat eta boligrafo bat dira, sukaldeko mahai gainean. Inprimagarriek ez dute kargarik, pasahitzik ezta pantailarik behar, eta erraza da bisita batera edo talde batera eramatea. Orrialde honetan azaltzen ditugu gure webguneko jarduera inprimagarri doakoak, nola inprimatu erraz ikusi eta eusteko, eta etxean egiteko inprimagarri sinple batzuk, familiek eta jarduera-arduradunek erabilgarri aurkitzen dituztenak.
 
-## What free printable activities do you offer?
+## Zein jarduera inprimagarri doako eskaintzen dituzue?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Lau inprimagarri doako eskaintzen ditugu. Ireki joko-orri hauetako edozein eta erabili **Inprimatu** botoia inprimatzeko bertsio egokia lortzeko.
 
-| Printable | What it is | Good for |
+| Inprimagarria | Zer den | Norentzat egokia |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Hitz Bilaketa](/games/word-search/) | Letra handiko hitz bilaketa, hitzak soilik eskuinera eta behera dituena | Boligrafoarekin lasai egiteko; puzzleak gustuko zituen norbaitentzat |
+| [Koloreztatu](/games/coloring/) | Koloreztatzeko orriak, inprimatzeko edo pantailan koloreztatzeko | Sormenezko denbora lasaia; laguntzarekin edozein unetan |
+| [Elkarrizketa-txartelak](/games/conversation-cards/) | Gaiaren araberako irudi-txartelak, elkarrizketa irekirako gonbiteekin, galdetegi moduan gabe | Bisitak, deiak, familiako bazkariak, oroitzapen-taldeak |
+| [Irudi Bingoa](/games/picture-bingo/) | Zenbakien ordez irudiak dituzten bingo-txartelak, pantailako deitzailearekin | Zaintza-etxeak, eguneko programak, familiako bilerak |
 
-### Large-print word search
+### Letra handiko hitz bilaketa
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Hitz Bilaketa](/games/word-search/) jokoak letra handiak erabiltzen ditu, eta hitzak soilik eskuinera eta behera jartzen ditu, diagonalik eta atzeranzko hitzik gabe. Egin elkarrekin: pertsona batek zerrendako hitz bat irakurtzen du, eta besteak bilatzen du. Hitzak aurkitzea zaila egiten bada, saia zaitezte elkarrekin hitz bakoitzaren lehen letra inguratzera, edo irakurri hitz-zerrenda ozenki eta hitz bakoitzari buruz hitz egin.
 
-### Coloring pages
+### Koloreztatzeko orriak
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Koloreztatu](/games/coloring/) orriak inprima daitezke errotuladoreekin edo koloretako arkatzekin erabiltzeko, edo tabletan koloreztatu kolore bat eta irudiaren zati bat ukituta. Inprimatutako orrietarako, eskaini errotuladore lodiak eta kolore gutxi aldi berean. Ikusi gure [arte eta eskulanen gida](/activities/arts-and-crafts/) koloreztatzea helduentzako moduan eta lasai mantentzeko ideiak lortzeko.
 
-### Conversation cards
+### Elkarrizketa-txartelak
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Elkarrizketa-txartelak](/games/conversation-cards/) jokoak irudi argi bat eta gonbite ireki bat uztartzen ditu, adibidez «Kontadazu honi buruz...» edo «Zer ikusten duzu?». Gonbite ireki gisa idatzita daude, ez galdetegi moduan. Inprimatu sorta bat, moztu txartelak, eta gorde batzuk poltsa batean bisitetarako edo telefonoaren ondoan deietarako. [Oroitzapen](/activities/reminiscence/) taldeetan ere ondo funtzionatzen dute.
 
-### Picture bingo cards
+### Irudi-bingoko txartelak
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Irudi Bingoa](/games/picture-bingo/) txartelek irudiak erabiltzen dituzte zenbakien ordez. Inprimatu txartel bat jokalari bakoitzeko, eta erabili pantailako deitzailea ordenagailu eramangarri, telebista edo proiektore batean. Guztion txartela bete arte jarraitzea gomendatzen dugu, inor kanpoan geratu ez dadin. Ikusi [zaintza-etxeetako talde-jarduerak](/activities/care-home-groups/) saio bat nola antolatzeko.
 
-## How do I print activities so they are easy to use?
+## Nola inprimatu jarduerak erraz erabiltzeko?
 
-Small changes in how you print make a big difference.
+Inprimatzeko moduan egindako aldaketa txikiek alde handia egiten dute.
 
-### Make it easy to see
+### Erraz ikusteko moduan jarri
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Letra handi eta argia.** Erabili orrian sartzen den inprimatze-ezarpenik handiena. Saihestu letra apainduak edo eskuz idatzitako itxurakoak.
+- **Kontraste sendoa.** Tinta iluna paper zuri edo kremaren gainean. Saihestu gris argia edo koloretako atzeko planoak.
+- **Paper mateak** distira gutxitzen du argi indartsuen azpian.
+- **Egiaztatu betaurrekoak eta argiztapena.** Alzheimer's Association-ek dio ikusmen- edo entzumen-arazoek komunikazioa zaildu dezaketela, eta aldian behin egiaztatzea gomendatzen du. Lanpara argi eta uniforme batek ere laguntzen du.
 
-### Make it easy to hold
+### Erraz eusteko moduan jarri
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Paper lodia edo kartulina** laua geratzen da, errazago hartzen da, eta erabilera errepikatua ondo jasaten du.
+- **Idazketa-ohola** edo mahai-azpiko irristagaitzak orria mugitu ez dadin laguntzen du.
+- **Errotuladore lodiak edo arkatz lodiek** errazago heltzen dira boligrafo meheak baino.
 
-### Make it reusable
+### Berrerabilgarria izan dadin
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Plastifikatu orriak** edo sartu babes-zorro gardenetan. Erabili arbel-markagailuak hitz bilaketetan eta bingo-txarteletan, eta garbitu ondoren.
+- **Aukeratu zorro mateak** distira arazoa bada, eta **biribildu ertzak** plastifikatutako txarteletan guraizeekin, erosoago eusteko.
+- **Gorde gogokoen karpeta bat**, astero orri bera inprimatu behar ez izateko.
 
-### Keep it simple
+### Sinple mantendu
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Zeregin bakarra orri bakoitzean.** Hitz bilaketa bakarra edo irudi bakarra, ez jarduera asko elkarrekin pilatuta.
+- **Tarte zuri asko.** Oso betetako orri batek larritasuna sor dezake.
+- **Ahal denean, irakurtzeko jarraibiderik ez.** Erakutsi zer egin hitzak baino gehiago erabiliz.
+- **Moztu orriak.** Orri osoa gehiegi bada, moztu erditik edo tolestu zati bat bakarrik ikus dadin.
 
-## Other useful printables you can make at home
+## Etxean egin ditzakezun beste inprimagarri erabilgarri batzuk
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Inprimagarri erabilgarri guztiak ez dira jolasak. Hauek erraz egiten dira testu-prozesadore batekin eta inprimagailuarekin.
 
-### A life-story page
+### Bizitza-istorioaren orria
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Orri bakarreko «ni buruz» fitxa bat: argazki bat, pertsonak erabiltzea gustuko duen izena, non hazi zen, lana, familia, janari gogokoenak, musika, eta lasaitzen edo gogaitzen duten gauzak. Dementia Australia-k [oroitzapen-liburu](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) bat gomendatzen du, pertsonaren bizitzari, gustuei eta pertsona garrantzitsuei buruzko xehetasunekin, bisitari eta zaintzaileei laguntzeko eta elkarrizketa bultzatzeko.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Bereziki erabilgarria da ospitaleetan eta zainketa-ingurune berrietan. NIAk gomendatzen du ospitaleko langileei [informazio pertsonaleko orri](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) bat ematea, pertsonaren errutina, nahiago duen izena, gustuak eta gustuko ez dituen gauzak, gerta daitezkeen eragileak eta minaren seinale ez-berbalak jasota.
 
-### A daily schedule
+### Eguneroko ordutegia
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Egunerako ordutegi handi eta sinple bat, orduak, hitz gutxi batzuk eta irudi txiki bat atal bakoitzerako: gosaria, paseo bat, bazkaria, atsedenaldia, musika, afaria. Alzheimer's Association-en [eguneroko zainketa-planak](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) iradokitzen du pertsonaren eguneko unerik onenen arabera planifikatzea, esnatzeko eta oheratzeko ordu erregularrekin eta jarduera eta atsedenaren arteko oreka mantenduz. Jarri begien parean, adibidez hozkailuan, eta mantendu malgua. Ikusi gure [eguneroko errutinaren gida](/activities/daily-routine/) informazio gehiagorako.
 
-### Picture labels for rooms and drawers
+### Gela eta tiraderetarako irudi-etiketak
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIAk iradokitzen du kolore biziko seinaleak edo irudi sinpleak erabiltzea [komuna, logela eta sukaldea etiketatzeko](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Ideia bera balio du tiradera eta armairuetarako: galtzerdien irudia galtzerdien tiraderan, katiluena katiluen armairuan. Inprimatu, plastifikatu eta itsatsi.
 
-### A sorting set
+### Sailkatzeko sorta bat
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Inprimatu bi kategoria sinpletako irudiak, adibidez frutak eta loreak edo tresnak eta sukaldeko gauzak, kartulinan. Moztu eta sailkatu bi saskitan elkarrekin. Pantailako bertsioa [Elkarrekin Sailkatu](/games/sort-together/) da.
 
-### Song lyric sheets
+### Abestien hitzen orriak
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Inprimatu abesti gogoko batzuen hitzak letra oso handian, elkarrekin abesteko. Gaur egun asko irakurtzen ez duten pertsonek ere atsegin izan dezakete orria eskuetan izatea.
 
-### A family photo page
+### Familiako argazkien orria
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Orri bakarra lau edo sei familiako argazki handirekin, bakoitzaren azpian izen propioa idatzita. Mahaian utz daiteke, edonork hartu eta hari buruz hitz egiteko. Etiketek bisitari eta langileei elkarrizketan parte hartzen laguntzen diete, eta inork ez du galdetu beharrik «Nor da hau?».
 
-### A recipe card
+### Errezeta-txartela
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Inprimatu familiako errezeta gogoko bat letra handian. Erabili elkarrekin sukaldatzeko, edo besterik gabe iraganeko bazkariei buruz hitz egiteko.
 
-## How do I offer a printable without it feeling like homework?
+## Nola eskaini inprimagarri bat etxerako lana iruditu gabe?
 
-Present it as something to share, not a test.
+Partekatzeko zerbait bezala aurkeztu, ez proba bat bezala.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Eseri eta hasi zuk zeuk.** «Hitz bilaketa hau egiten ari naiz. Lagunduko didazu ‘lorategia’ aurkitzen?»
+- **Egin elkarrekin.** Txandakatu, edo pertsona batek aurkitu eta besteak inguratu.
+- **Ez markatu inoiz ondo edo gaizki.** Alzheimer's Association-en [etxeko jarduerei buruzko gidak](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) gomendatzen du prozesuan jartzea arreta, ez emaitzan, eta gozamenean, ez lorpenetan.
+- **Utzi orriak eskura.** Gida berak iradokitzen du ebakin-liburuak, argazki-albumak edo aldizkari zaharrak eskura dauden lekuetan jartzea. Inprimatutako txartelak eta argazki-orriak modu berean utz daitezke alboko mahai batean.
+- **Gelditu nahi duzuenean.** Koloreztatzeko orri erdia egitea arratsalde ederra da. Orria gorde eta te bat hartzea ere bai.
 
-## Where to find more
+## Gehiago aurkitzeko
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Arakatu gure [jolas eta inprimagarri guztiak](/games/), edo ikusi [une bakoitzerako jarduerak](/activities/ideas/) ideia gehiagorako, paperarekin eta paperik gabe.

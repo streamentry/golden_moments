@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Mälestustegevused: mälukastid, elulood ja fotod"
+seoTitle: "Mälestustegevused dementsuse korral: ilma küsitluseta"
+description: "Kuidas jagada mälestusi dementsusega inimesega ilma küsitlemata: fotodest rääkimine, mälukastid ja elulood ning fraasid, mis hoiavad meeleolu rahulikuna."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Mälestustegevus tähendab minevikust koos rõõmu tundmist fotode, esemete,
+  muusika ja lugude abil. Tehke mälukast, koostage lihtne elulookoostöö või
+  vaadake fotosid kõrvuti. Ärge kunagi küsitlege: jätke vahele „Kas mäletad?“
+  ja „Kes see on?“ ning kasutage avatud kutseid nagu „Räägi mulle sellest“.
+  Soe vestlus on tähtsam kui faktide täpsus.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Mälestustegevus on vestlus, mitte test. Täpsus ei loe, rõõm loeb."
+  - "Asendage „Kas mäletad...?“ ja „Kes see on?“ kommentaaride ja kutsetega, näiteks „Räägi mulle sellest päevast“."
+  - "Mälukast inimese eluga seotud esemetega annab kätele ja vestlusele midagi, millest kinni hoida."
+  - "Elulookoostöö aitab perel, külalistel ja hooldajatel tunda inimest, mitte ainult diagnoosi."
+  - "Kui mälestus toob kurbuse, pakkuge esmalt lohutust ja liikuge õrnalt edasi."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Mis on mälestustegevus dementsusega inimeste jaoks?"
+    a: "Mälestustegevus on mälestuste ja varasemate kogemuste jagamine, sageli fotode, esemete, muusika või videote abil. See võib toimuda kahekesi või rühmas. Eesmärk on meeldiv ja tähenduslik vestlus, mitte selle kontrollimine, mida inimene suudab meenutada."
+  - q: "Miks ma ei peaks küsima „Kas mäletad?“"
+    a: "Küsimused, mis kontrollivad mälu, võivad tekitada inimeses piinlikkust või ärevust, kui vastus ei tule meelde. National Institute on Aging loetleb asjade seas, mida tasub vältida, ka küsimuse, kas keegi mäletab midagi või kedagi. Kommenteerige hoopis seda, mida näete, ja laske inimesel lisada seda, mida ta soovib."
+  - q: "Mida panna mälukasti?"
+    a: "Valige turvalised ja vastupidavad esemed, mis on seotud inimese eluga: töövahendid, hobivarustus, lemmiksall, postkaardid, retseptikaardid, spordisuveniirid või fotode koopiad. Vältige teravaid esemeid, väikseid esemeid, mida võib alla neelata, ja asendamatuid originaale."
+  - q: "Mis siis, kui ta ajab faktid segamini?"
+    a: "Laske sel minna. Kui teie ema ütleb, et fotol on tema õde, kuigi tegelikult on seal tema nõbu, on see täiesti korras. Parandamine muudab sooja hetke kontrolliks. Jätkake selle looga, mida ta räägib, ja nautige seda koos."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Mälestustegevus tähendab lihtsalt minevikust koos rõõmu tundmist. Paljude dementsusega inimeste jaoks on aastakümnete tagused mälestused selgemad kui see, mis juhtus täna hommikul. Fotod, tuttavad esemed, muusika ja lood võivad need mälestused esile tuua ning anda teile midagi sooja, mida jagada. Üks reegel kehtib alati: see on vestlus, mitte kunagi küsitlus.
 
-## What is reminiscence, and how is it different from quizzing?
+## Mis on mälestustegevus ja mille poolest see erineb küsitlemisest?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Mälestustegevus on mälestuste jagamine fotode, esemete, muusika või videote abil inimese enda tempos. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) kirjeldab seda kui varasemate kogemuste ja lugude jagamist fotode, esemete, videote või muusika toel, kas raamatus või tahvelarvutis. Küsitlemine on midagi muud: see nõuab inimeselt õiget vastust ja võib rõõmu asemel tekitada piinlikkust.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) loetleb välditavate asjade seas ka küsimuse, kas inimene mäletab midagi või kedagi. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) soovitab vältida küsimusi, mis tuginevad lühiajalisele mälule, ning rääkida hoopis kaugemast minevikust.
 
-| Instead of | Try |
+| Selle asemel | Proovige nii |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „Kas sa mäletad seda?“ | „See tundub olevat rõõmus päev. Räägi mulle sellest.“ |
+| „Kes see on?“ | „Siin on tädi Rose rannas. Vaata seda mütsi.“ |
+| „Mis aastal see oli?“ | „See näeb välja nagu vana maja. Milline oli seal elada?“ |
+| „Ei, see pole Bill, see on Frank.“ | „Ta näeb väga lõbus välja.“ |
+| „Sa oled seda juba rääkinud.“ | „Mulle väga meeldib see lugu.“ |
 
-## How do you talk about photos without quizzing?
+## Kuidas rääkida fotodest ilma küsitlemata?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Alustage sellest, mida näete, ja jätke inimesel ruumi midagi lisada, kui ta soovib.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Istuge kõrvuti.** Hoidke albumit enda vahel, et vaataks koos, mitte ei kontrolliks teineteist laua tagant.
+2. **Valige mõned fotod.** Viis head fotot on parem kui terve kast. Suured ja selged fotod sobivad kõige paremini.
+3. **Nimetage inimesed ise.** „Siin olete sina ja isa oma pulmapäeval“ vähendab pinget.
+4. **Kommenteerige üksikasju.** Riided, autod, toit, ilm, näod. „Milline auto. See näeb nii läikiv välja.“
+5. **Kutsuge, ärge nõudke.** „Räägi mulle...“ või „Mida sa märkad?“ Vaikus on täiesti sobiv.
+6. **Järgige tema juhatust.** Kui ta hakkab rääkima millestki hoopis muust, minge sellega kaasa.
+7. **Lõpetage siis, kui on veel mõnus.** Pange album kinni enne, kui väsimus peale tuleb.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Valmis pildiküsimuste jaoks proovige [vestluskaarte](/games/conversation-cards/). Et muuta oma perefotod õrnaks sobitamismänguks, proovige [fotopaare](/games/photo-pairs/); fotod, mille valite, jäävad teie brauserisse.
 
-## How do you make a memory box?
+## Kuidas teha mälukasti?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Mälukast on karp inimese eluga seotud esemetega, mida saab käes hoida ja mille üle vestelda.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Valige vastupidav kast**, mida on lihtne avada, näiteks kingakarp, kübarakarp või väike puidust kirst.
+2. **Valige teema või segage.** Töö, hobi, koht, kümnend või natuke kõigest.
+3. **Koguge turvalisi esemeid.** Alustuseks piisab viiest kuni kümnest esemest.
+4. **Kasutage väärtuslike asjade koopiaid.** Kopeerige asendamatud fotod ja dokumendid ning hoidke originaalid turvaliselt.
+5. **Võtke esemed välja ükshaaval.** Andke üks ese kätte, öelge selle kohta midagi ja vaadake, kuhu vestlus läheb.
 
-Ideas to include:
+Mida sisse panna:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Töö:** nimesilt, väike tööriist, vormi embleem, pearaamat, õe märk, sööklast pärit kokaraamat.
+- **Kodu:** nende käekirjaga retseptikaart, köögirätik, lemmiksall või lips.
+- **Hobid:** konksuta õngekonks, pesapall, lõngakera, seemnepakike.
+- **Kohad:** postkaardid, kaardid, reisisuveniir, kodulinna ajalehelõige.
+- **Pere:** fotode koopiad, lapse joonistus, pulmakutse.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Jätke välja teravad esemed, väikesed esemed, mida võib alla neelata, ning kõik, mis võib tuua valusaid mälestusi, välja arvatud juhul, kui teate, et see on teretulnud.
 
-## How do you make a life-story book?
+## Kuidas koostada elulookoostöö?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Elulookoostöö on lihtne album fotode ja lühikeste pealkirjadega inimese elust. Seda on hea koos vaadata ning see aitab külalistel ja hooldajatel näha terviklikku inimest.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Valige vorm.** Kaust kiletaskutega, trükitud fotoalbum või slaidiseanss tahvelarvutis.
+2. **Plaanige mõned jaotised.** Lapsepõlv, kool, töö, pere, elukohad, usk, hobid, lemmiktoidud ja muusika.
+3. **Lisage igale lehele üks või kaks fotot** koos lühikese ja suure kirjaga pealkirjaga: „Mari, 22-aastane, alustamas tööd pangas.“
+4. **Lisage meeldimised ja harjumused.** „Joob kohvi piimaga. Armastab pühapäevaseid kirikulaule. Ei armasta valju televiisorit.“ See aitab igaühel, kes tema eest hoolitseb.
+5. **Kaasake inimest** nii palju, kui ta soovib: fotode valimisel, lugude rääkimisel või lihtsalt protsessi jälgimisel.
+6. **Täiendage järjepidevalt.** See ei pea olema valmis, et sellest kasu oleks.
 
-## More reminiscence ideas
+## Veel ideid mälestustegevusteks
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Mängige muusikat tema noorusajast** ja rääkige sellest, kuhu see teda viib. Vaadake [muusikategevusi](/activities/music/).
+- **Vaadake koduvideoid või telesaateid** tema lemmikkümnenditest.
+- **Valmistage lapsepõlvest tuttav toit** ja laske lõhnadel vestlust juhtida.
+- **Vaadake tema kodulinna kaarti** ja jälgige tuttavaid tänavaid.
+- **Vaadake vanu katalooge või ajakirju** ning rääkige hindadest, moest ja autodest.
+- **Salvestage tema lood** telefoniga, tema nõusolekul, pere jaoks.
+- **Jagage kõnede ajal.** Näidake videokõne ajal ühte fotot; vaadake [telefoni- ja videokõnesid](/activities/phone-and-video-calls/).
+- **Võtke külastusele kaasa foto või ese.** See annab külastusele lihtsa fookuse; vaadake [külastamist](/activities/visiting/).
 
-## What if a memory is painful?
+## Mis siis, kui mälestus on valus?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Mõned mälestused toovad esile leina, kahetsust või hirmu. Kui inimene muutub kurvaks, peatuge, pakkuge lohutust ja vahetage õrnalt teemat või tegevust. Ärge vaielge selle üle, mis juhtus. Family Caregiver Alliance soovitab mitte üritada inimest veenda, et ta eksib, ning reageerida hoopis tunnetele, mida ta väljendab, sest need on päriselt olemas. Kui ta räägib kellestki, kes on surnud, nagu oleks see inimene elus, vastake tunde tasandil: „Sa igatsed teda. Räägi mulle temast.“
 
-## What does the research say?
+## Mida ütlevad uuringud?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane’i ülevaade mälestustegevusest](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), mis hõlmas 22 uuringut ja 1972 inimest, leidis, et mõjud olid ebaühtlased, väikesed ja erinesid olenevalt keskkonnast ja vormist. See ei leidnud tõendeid kahju kohta dementsusega inimestele. Soovitame mälestustegevust sellepärast, et see võib pakkuda sooja ja tähenduslikku koosveedetud aega, mitte ravimeetodina. Rohkem lihtsa vestluse kohta leiate lehelt [suhtlemisnõuanded](/caregiving/communication-tips/).
