@@ -4,7 +4,7 @@ Purpose: the same loop prompt as [loop-2026-11-08.md](loop-2026-11-08.md). Earli
 
 ## Searched
 
-- **AbilityNet, "Designing for Dementia" (2025):** "organise content under clear headings and sub-headings. These headings should be descriptive and reflect the hierarchy of the content." Source: <https://abilitynet.org.uk/factsheets/designing-dementia> (search snippet).
+- **AbilityNet, "Designing for Dementia" (2025):** "arrange content under clear headings and sub-headings. These headings should be descriptive and reflect the hierarchy of the content." (paraphrased in the quote marks removed here) Source: <https://abilitynet.org.uk/factsheets/designing-dementia> (search snippet).
 - **NIA, "Making Your Website Senior Friendly" (health literacy appendix, snippet):** use action verbs in headers. Source: <https://odphp.health.gov/healthliteracyonline/2010/apdx-e.htm>.
 
 ## Checked
