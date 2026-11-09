@@ -224,7 +224,11 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
             Expanded(
               child: Text(
                 _problemText(context.l10n, _error!),
-                style: theme.textTheme.bodyLarge?.copyWith(color: scheme.error),
+                // body-md: the problem is said plainly and the way forward
+                // stays on the first screen at 200% text on a small phone.
+                style: theme.textTheme.bodyMedium?.copyWith(
+                  color: scheme.error,
+                ),
               ),
             ),
           ],

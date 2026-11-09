@@ -213,13 +213,14 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
       padding: const EdgeInsets.all(gmSpaceLg),
       children: [
         // Feedback sits where the eye lands after the view returns to the
-        // picture, so it is seen even at large text.
+        // picture, so it is seen even at large text. It uses body-md, one
+        // step below the reading size, so the picture stays in view below it.
         if (_status != null) ...[
           Semantics(
             liveRegion: true,
             child: Text(
               _statusText(l10n, _status!),
-              style: textTheme.bodyLarge,
+              style: textTheme.bodyMedium,
             ),
           ),
           const SizedBox(height: gmSpaceMd),

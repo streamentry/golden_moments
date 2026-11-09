@@ -145,6 +145,19 @@ void main() {
       expect(theme.chipTheme.labelStyle?.fontFamily, gmFontFamily);
     });
 
+    test('reading text is set at 1.5 line height or more (WCAG 1.4.12)', () {
+      // WCAG 1.4.12 asks that users can set line height to 1.5 without loss;
+      // the authored reading text should already sit at that level.
+      final styles = theme.textTheme;
+      for (final style in [
+        styles.bodyLarge,
+        styles.bodyMedium,
+        styles.bodySmall,
+      ]) {
+        expect(style?.height, greaterThanOrEqualTo(1.5));
+      }
+    });
+
     test('both bundled families are declared with their licenses', () {
       final pubspec = File('pubspec.yaml').readAsStringSync();
       expect(pubspec, contains('family: $gmFontFamily'));
