@@ -36,6 +36,21 @@
       ]
     },
     {
+      "id": "generated-illustrations",
+      "paths": [
+        "assets/images/illustrations/"
+      ],
+      "source": "Generated on 2026-11-08 with the Codex CLI image generation tool, prompted per subject with assets/images/pictures/apple.webp as the style reference; prompt text lives in the commit that added them",
+      "derivation": "Each PNG was resized to 720px and stored as lossy WebP (Pillow, quality 88); manifest.json lists id, English name and category; site/public/illustrations/ holds identical copies",
+      "used_by": "available to the app and the website; not yet wired into a game, picture list or page",
+      "rights_status": "unreviewed",
+      "missing": [
+        "a person's review of the tool's terms for commercial use of generated images and of whether the store listing needs an AI-generated-content disclosure",
+        "human check for tile-size recognizability, near-duplicates and anything distressing",
+        "translated names before any picture is added to a game or the picture library"
+      ]
+    },
+    {
       "id": "font-roboto",
       "paths": [
         "assets/fonts/Roboto-Regular.ttf",
