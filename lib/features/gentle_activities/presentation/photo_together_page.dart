@@ -265,7 +265,6 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
           const SizedBox(height: gmSpaceMd),
           Text(
             prompts[_index % prompts.length],
-            textAlign: TextAlign.center,
             style: textTheme.headlineSmall,
           ),
         ],
