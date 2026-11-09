@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Tembiapo ka'aguy ha okahápe dementiagua ndive"
+seoTitle: "Ñemitỹ ha tembiapo okahápe dementiagua ndive"
+description: "Ñe'ẽporã ñemitỹ ha tembiapo okahápe rehegua ava oñeñangarekóva dementiagua ndive, yvyjera yvate, ñana ñembyaty ha tekorosãrã aku, kuarahy ha jeikove'ỹ rehegua."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Ñemitỹ ha ára jeporu oka gotyo ikatu oiko tembiapo py'aguapy ha ojekuaáva peteĩ
+  tapicha oñeñangarekóva dementiagua-pe g̃uarã. Eñeha'ã emongaru ka'avo y reheve,
+  embyaty ka'avo ñana'ỹme, emboguévo yvoty itujámava térã eguata mbyky peteĩ korapy
+  ijokapypyrépe. Eipuru yvyjera yvate térã mesa ani hag̃ua oĩ oñesũva, emboyke
+  tembipuru hãi, ka'avo iñati'ỹva térã ipohyikuaáva, eho okápe ára ro'ysãvévape, ha
+  eime meme pe tapicha ndive.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Tembiapo hasy'ỹva ka'aguýpe, ha'éva ka'avo ñemongaru, ñana'ã ñembo'y, ka'avo ñañandu ha yvoty ñembyaty, ikatu ojejapo oñembo'ývo térã oguapývo."
+  - "Yvyjera yvate, ñana ñembyatyryru ha mesa ijaho'ipyre ogueru ka'aguy ku'akue gotyo ha omomichĩ ka'arupytykuaa."
+  - "Emboyke tembipuru hãi, ka'avo iñati'ỹva térã ombohasýva, ha opa mba'e ipohyikuaáva. Emaña ani hag̃ua yvy oñembojehe'a tembi'u ramo."
+  - "Aku ikatu imarã kakuaa yvypóra itujavévape g̃uarã. Eho korãitépe térã ka'arupytũme, eraha y ha kuarahy'ã, ha eike ógape eñandu vove mba'e vai."
+  - "Heta tapicha oñeñangarekóva dementiagua rehe oguata okañy sapy'ánte. Eime meme pe tapicha ndive okahápe ha ereko peteĩ ta'anga pyahu ha jehechakuaa hi'aguĩva."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Mba'e tembiapo ñemitỹ rehegua ikatu ojapo peteĩ tapicha oñeñangarekóva dementiagua rehe?"
+    a: "Ka'avo ñemongaru, ñana'ã ñembo'y ñana'ỹ michĩme, ka'avo ñañandu ha ñepoko, yvoty itujámava ñembogue, ka'avo ñembyaty, yvoty ñemohenda ha tape ñemopotĩ ha'e poravorã iporãva. Óga ryepýpe, peteĩ ka'avo ñana'ỹ ovetã jerére térã yvy peteĩ bandejápe mesa ijaho'ipyrépe ikatu avei iporã. Eiporavo tembiapo pe tapicha oipotávare yma ha ikatúva ojapo py'aguapýpe ko'ág̃a."
+  - q: "Mba'éichapa añangarekóta peteĩ tapicha oñeñangarekóva dementiagua rehe aku aja?"
+    a: "Emohenda ára okahápe g̃uarã korãitépe térã ka'arupytũme, ára ro'ysãvévape, embojave mbyky, ha eme'ẽ y jepi. Eiporavo kuarahy'ã, akã'ã ipypukúva, ao vevúi ha ijokuaáva ha kuarahy'ã pohã. Kakuaa yvypóra itujavéva oguereko riesgo tuichaveva hasy aku rehegua, ha iñakãñandu vai, akãnundu térã py'ajere ikatu ohechauka mba'e vai, upévare eike ógape ha eñemo'ỹ pya'e ehecha vove."
+  - q: "Mba'éichapa ikatu roho okápe ha'e oguata okañýrõ jepi?"
+    a: "Eime pe tapicha ndive opa ára pukukue, eipuru peteĩ korapy térã ka'aguy ijokapypyre ha okẽ ijokapyrépe, ha ehecháke oguereko peteĩ pulsera jehechakuaáre térã ogueraha jehechakuaa. Ereko peteĩ ta'anga pyahu hi'aguĩva. Pe tapicha okañýrõ, Alzheimer's Association omombe'u ehenói hag̃ua 911 ndojejuhúiramo 15 aravo'i rire."
+  - q: "Mba'e jajapóta ndajaipóriramo ka'aguy?"
+    a: "Mbohapy ñana'ỹ peteĩ korapýpe, peteĩ ovetã ñana'ỹ, térã ka'avo peteĩ bandejápe tembi'u renda mesápe iporãma. Ikatu avei rejeho peteĩ yvotyty, peteĩ ka'aguy opavave g̃uarã térã peteĩ ka'aguy tavayguakuérape g̃uarã. Oguapy okahápe ha ehendu guyra pu ikatu avei ha'e tembiapo okahápe g̃uarã."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Heta tapichápe g̃uarã, ka'aguy ha'e peteĩ tenda oikuaaporãvéva. Yvy jo'o, ñemongaru ha yvoty ñembyaty oipuru katupyry oñembokatupyrýva ymaite guive, ha oĩramo okahápe ogueru pytu pyahu, kuarahy resa ha guyra pu. National Institute on Aging omombe'u ka'avo ñangareko, yvoty ha ka'avo ñembo'y, ha [ñe'ẽ ka'avo mba'éichapa okakuaa rehegua](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tembiapo apytépe ikatúva ohayhu tapicha oñeñangarekóva Alzheimer rehe. Ko kuatiarogue omyesakã mba'e ikatu eñeha'ã, mba'éichapa ejapo ka'aguy ndahasýiva ijepuru, ha mba'éichapa eñemo'ã aku, kuarahy ha jeikove'ỹgui.
 
-## What outdoor and gardening activities work well?
+## Mba'e tembiapo okahápe ha ñemitỹ rehegua oiko porãve?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Tembiapo iporãvéva ndahasýi, ojekuaáva ha ikatu ojejapo oñembo'ývo térã oguapývo. Eiporavo pe tapicha ohayhúva yma rehehápe.
 
-### In the garden
+### Ka'aguýpe
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Ñemongaru.** Peteĩ kambuchi michĩ ha vevúi térã peteĩ ysyry mbojereha mbeguéva ha mbovymi ñana'ỹ hi'aguĩva. Ñemongaru oguereko ñepyrũ ha ñemohu'ã hesakãva ha ndahasýi ojejavy hag̃ua.
+2. **Ñana'ã ñembo'y ñana'ỹme.** Alzheimer's Foundation of America omombe'u eñembyaty hag̃ua ñana'ã ñana'ỹ michĩme ha [ehecha mba'éichapa okakuaa](https://alzfdn.org/dementia-activity-gardening/). Ñana'ã tuicháva, kumanda, girasol térã arveja-icha, ndahasýi ojepoko hag̃ua.
+3. **Yvoty itujámava ñembogue.** Embojey pógui yvoty ho'áva ha'e tembiapo mbeguéva ha oje'e'ỹva hetajey. Eiporavo ka'avo iñati'ỹva.
+4. **Ka'avo térã ka'avo ñana ñembyaty.** Tomate michĩ, kumanda ha ka'avo ñana ndahasýi oñembyaty ha iporã oñe'ũ hag̃ua. Eregueru ógape eipuru hag̃ua karu'ípe.
+5. **Ka'avo ñañandu ha ñepoko.** Romero, menta ha lavanda oguereko hyakuã hatã ha iporãva. Emongu'e peteĩ hogue pokuéra pa'ũme ha eme'ẽ oñandu hag̃ua.
+6. **Tape térã patio ñemopotĩ.** Peteĩ escoba vevúi peteĩ yvyjoja ha itĩva ári, oñembo'y porãrõ gueteri.
+7. **Guyra tembi'u ñemyenyhẽ.** Upéi peguapy oñondive ha pehecha mávapa ou.
 
-### Indoors, when going out is not possible
+### Óga ryepýpe, ndaikatúiramo jeho okápe
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Peteĩ ka'avo ñana'ỹ ovetã jerére** albahaca, perejil térã ciboulette reheve.
+- **Ñembyaty mesa ijaho'ipyrépe.** AFA omombe'u eipuru hag̃ua bandeja tembi'u renda rehegua eñongatu hag̃ua yvy peteĩ tendápe ha egueraha yvy kóta michĩme.
+- **Yvoty ñemohenda** yvoty ñekytĩpyre ha hogue korapýgui térã ñemuha guive.
+- **Yvoty ñemomirĩ** peteĩ ramillete rehegua, upe rire oñemboja hag̃ua kuatia'atãme. Ehecha [tembiapo arte ha popegua](/activities/arts-and-crafts/) hetave hag̃ua.
+- **Lavanda térã rosa mboguaha ñejapo**, ambue idea AFA rehegua oguerúva ka'aguy hyakuã ógape.
 
-### Getting out and about
+### Osẽvo okápe
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Jeguata mbyky** tape jerére, yvotýty térã ka'avo ñemuha rupi, mbeguekatu ha oĩhápe tenda oguapy hag̃ua.
+- **Oguapy okahápe** peteĩ korapýpe térã apykápe ehendu hag̃ua guyra pu ha eñandu pytu. Kóva ha'e tembiapo peteĩnteva avei.
+- **Jeho peteĩ ka'aguy opavave g̃uarã** ára py'aguapýpe. NHS omombe'u oĩha tenda oguerekóva ka'aguy oñandupyrãva, ka'avo hyakuãva, ipoko rereko ha y reheve.
+- **Ypeka ñemongaru térã guyra jehecha** yno'õ jerére, eime mombyry y rembe'ýgui tekorosãrã.
 
-## How do I make a garden easier to use?
+## Mba'éichapa ajapo ka'aguy ndahasýiva ijepuru?
 
-Bring the garden up to the person, not the other way around.
+Egueru ka'aguy pe tapicha hi'aguĩ, ndaha'éi pe tapicha ka'aguy gotyo.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Yvyjera yvate térã ñana ñembyatyryru yvate** ku'akue rupi he'ise ani oñesũ térã oñakãity.
+- **Ñana ñembyatyryru mesáre** iporã tapicha oiporúva silla de rueda térã oipotáva oguapy.
+- **Tape ipypuku ha ijoja** itakua'ỹ ha ysyrýỹre omomichĩ ka'arupytykuaa.
+- **Apyka ijyva reheve ha kuarahy'ãme** tape pukukue, ikatu hag̃uáicha opytu jepi opa ára.
+- **Tembipuru ijyva mbyky ha mbovu reheve** ndahasýiva oñemotenonde hag̃ua. Ani eipuru tijera ka'avo rehegua, kyse ha mba'e hãi.
+- **Tenda ijokapypyre ha okẽ ijokapyrépe** pe tapicha ikatúva oikundaha sãso nde reime hi'aguĩvo.
 
-## Which plants should I avoid?
+## Mba'e ka'avo amboykeva'erã?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Eiporavo ka'avo iporãva oñepoko hag̃ua ha, ikatúramo, iporãva ani hag̃ua imarã oje'úramo jepe. AFA omombe'u eipuru hag̃ua ka'avo ndohasýiva jepi pire, ehechajey alergia rehegua, ha emaña porã ani hag̃ua oĩ ombojehe'áva yvy tembi'u ramo. NIA he'i tekorosãrã ógape rehegua embogue térã eñongatu hag̃ua ka'avo ipohyikuaáva okẽ mbotyhápe.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Emboyke rosa iñati'ỹva, kaktus ha ka'avo oguerekóva tyry ombohasýva pire.
+- Ehechajey peteĩ ka'avo ndereikuaaporãiramo peteĩ tendápe oipytyvõva pohyikuaa rehegua térã ka'avo ñemuha rendápe emboty mboyve.
+- Ka'avo ojekuaaporãva ikatu ogueru jey ñeñandu porã. AFA omombe'u rosa ha kaktus Navidad rehegua techapyrãramo. Eiporavo ichugui iñati'ỹva.
+- Eñongatu pohã ñemongaru hag̃ua, pohã ñakãity rehegua ha ñana ñani rehegua okẽ mbotyhápe, ha ani eipuru tenda pe tapicha ikatúvape oho.
 
-## How do I stay safe in the heat and sun?
+## Mba'éichapa añemo'ãta aku ha kuarahýgui?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Emohenda ára okahápe g̃uarã ára rehehápe. NIA omyesakã kakuaa yvypóra itujavéva oguerekóha riesgo tuichaveva [hasy aku rehegua](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), peteĩ hendápe pe tete ndojokupytýigui porãve umi ñemoambue aku rehegua ha oĩ pohã ombyaihápe mba'éichapa pe tete omba'apo aku ndive.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Eho korãitépe térã ka'arupytũme.** Emboyke ára mbyte ára hakúvape. Ehecha aku índice, ndaha'éi temperatura añónte.
+- **Eme'ẽ y jepi.** Ani eha'ãrõ pe tapicha he'i hag̃ua iñy'uhéiha. Emboyke kaguy ha mba'e ho'ysãva cafeína reheve aku aja.
+- **Emonde ao hekopete.** Ao isa'yju ha ijokuaáva, akã'ã ipypukúva ha tesa'ã kuarahy rehegua.
+- **Eipuru kuarahy'ã pohã.** NIA omombe'u eipuru hag̃ua ipypukúva kuarahy opaichagua rehe, SPF 15 térã hetave, ha ejapo jey ára pukukue.
+- **Eiporavo kuarahy'ã.** Emoĩ mesa ñembyaty hag̃ua yvyra térã paraguasúpe.
+- **Embojave mbyky.** Peteĩ jehasami mbyky okahápe ikatu iporãma, ára hakúvape.
+- **Emaña kyhyjerã rehe.** NIA omombe'u akãrasy, iñakãñandu vai, akãnundu térã py'ajere ikatuha ha'e kyhyjerã hasy aku rehegua. Peteĩ tapicha oñeñangarekóva dementiagua rehe ikatu noñe'ẽi ndéve oñandu vaiha, upévare emaña hova ha heko rehe. Eike ógape, eñemo'ỹ y reheve ha ao ro'ysã reheve, ha eheka pytyvõ pohanohára ndopytu porã pya'e vove. Golpe de calor, kyhyjerã reheve ha'éva ka'aru, iñakãñandu vai térã pire itĩ ha pytã, ha'e peteĩ mba'e vai pya'e oñeñangarekova'erã: ehenói 911.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Ára ro'y avei tuichamba'e. Araro'ýpe, embojave mbyky okahápe ha ehecháke ipo ha ipy opytu ha itĩ.
 
-## How do I handle wandering when we go outside?
+## Mba'éichapa añangarekóta jeikove'ỹ rehe roho jave okápe?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Eime pe tapicha ndive opa ára osẽramo okápe. Alzheimer's Association omombe'u [poteĩ 10 tapichágui 6 oñeñangarekóva dementiagua rehe](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) oguata okañy taha'e peteĩ jeýpe, ha heta ojapo hetajey. Ikatu oiko opa etapa aja.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA [ñe'ẽporã jeikove'ỹ ha okañy rehegua](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) omoinge:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Ehecháke pe tapicha oguereko jehechakuaa térã pulsera pohanohára rehegua hérava, henda ha nde pumbyry reheve, térã emoĩ jehechakuaa hao rehe.
+- Ereko peteĩ ta'anga térã ta'angamýi pyahu pe tapicha rehegua.
+- Emombe'u ijogayguakuérape pe tapicha ikatuha oguata okañy.
+- Ejoko korapy peteĩ kora ha okẽ mbotyhápe.
+- Ani eheja peteĩ tapicha oguatáva okañy meme oñeñangareko'ỹre.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association omombe'u avei ejapo hag̃ua tenda ógape ha okahápe ikatúva ojeikundaha tekorosãme, ha emohenda tembiapo ára pehẽngue pe tapicha oñandu'ỹve hag̃ua. Peteĩ jeguata peteĩ ka'aguy tekorosãme ha ijokapypyrépe ikatu iporã ka'arupytũ jave oñandu'ỹve hag̃ua. Ehecha ore kuatiarogue [ka'arupytũ jave oñandu'ỹve rehegua](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Pe tapicha okañýramo, Alzheimer's Association omombe'u eheka hag̃ua hi'aguĩ pya'e ha ehenói hag̃ua 911 ndojejuhúiramo 15 aravo'i rire. Emombe'u policía-pe pe tapicha oñeñangarekóva dementiagua rehe.
 
-## How do I adapt gardening as things change?
+## Mba'éichapa amohenda ñemitỹ oñemoambue jave mba'e?
 
-| If this has become hard | Try this instead |
+| Péva hasyrõ ko'ág̃a | Eñeha'ã kóva |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Ñembyaty peteĩ yvyjera tuichaitereípe | Ñembyaty peteĩ ñana'ã peteĩ ñana'ỹme |
+| Ñana ñani ñembogue (ojeikuaa hag̃ua ñana ñanígui) | Ñemongaru, térã yvoty ho'áva ñembogue |
+| Jeguata ka'aguy jerére | Oguapy mesápe peteĩ bandeja yvy reheve ha ka'avo reheve |
+| Osẽ okápe | Peteĩ ka'avo ñana'ỹ tembi'u renda mesápe, térã oguapy ovetã ijuruja jerére |
+| Ojapo oimeraẽ tembiapo | Oguapy oñondive okahápe, ehendu ha emaña |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Oĩ tapicha oipotáva omaña nde remba'apo aja. NIA omombe'u ikatuha eheja pe tapicha omaña mante, péicha ohayhúrõ.
 
-## When should we head inside?
+## Araka'épa jaikeva'erã jey ógape?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Eike pe tapicha haku, iro'y, oñandu porã'ỹ, térã oipota opytu vove. Pa aravo'i py'aguapy ha porã iporãve peteĩ ka'aru pukúva opáva ñemondýipe. Opa voi ha'e peteĩ mba'e porã.
 
-## Bring the garden indoors on screen
+## Egueru ka'aguy ógape pantallápe
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Ára ama vove, [Sort Together](/games/sort-together/) oguereko peteĩ ajaka ka'aguy rehegua ta'anga ñemohenda hag̃ua, ha [Conversation Cards](/games/conversation-cards/) omoinge porandu ijuruja ikatúva ogueraha ka'aguy rembiasakue gotyo. Peju aku guive ha peñandu pya'e hag̃ua, [Calm Breathing](/games/calm-breathing/) ome'ẽ peteĩ pausa mbegue ha kirirĩ ikatúva peñemoirũ. Hetave idea hag̃ua oñemopyendáva jepoko, hyakuã ha tyapu rehe, ehecha ore [kuatiarogue tembiapo oñandupyrãva rehegua](/activities/sensory/).

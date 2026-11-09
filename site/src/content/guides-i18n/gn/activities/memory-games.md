@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Ñembosarái mandu'arã tapichakuérape oikovéva demensia ndive"
+seoTitle: "Ñembosarái mandu'arã demensiagua, mborayhu reheve"
+description: "Ñembosarái joja, ta'anga ha kárta rehegua tapichakuérape oikovéva demensia ndive, ha mba'éichapa ñañembosarái avave ani hag̃ua oñandu oñeha'ãrõva: ta'anga ojehechaukáva, sa'ive pehẽ, puntuación'ỹre, oñondivepa."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Umi ñembosarái mandu'arã tapichakuérape oikovéva demensia ndive iporãve
+  oñembosaráiramo mandu'a'ỹre. Eñembosarái ta'anga joja reheve ta'anga
+  ojehechaukáva, eipuru 4 térã 6 pehẽ, peñembosarái oñondivepa ha eheja
+  puntuación. Ndahekýi ojehechakuaa peteĩ ta'anga oñemandu'a hag̃ua, upévare
+  eiporavo ñembosarái opa mba'e oĩva jehechahápe. Pe vy'a, ndaha'éi peteĩ
+  resultado, ha'e pe jehupytyrã.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Umi ñembosarái mandu'arã ypykue oñomi umi kárta, ha upéva oha'ã pe demensia ojapo hasyvéva. Eheja umi ta'anga ojehechaukáva."
+  - "Sa'ive pehẽ, ta'anga tuichave ha peteĩ poravokuaa peteĩ jeýpe omantene pe ñembosarái vy'apópe."
+  - "Peñembosarái oñondivepa, peñepytyvõ jey jey ha eheja puntuación. Avave ndaipóriva'erã oñemohenda oñeha'ã hag̃ua."
+  - "Ndaipóri ñembosarái mandu'arã ojehechaukáva oñepohano, omombegue térã omombyta demensia. Peñembosarái pórke ha'e peteĩ ára porã oñondive."
+  - "Epyta vy'a gueteri aja. Ñe'ẽ umi ta'anga rehe avei ha'e peteĩ resultado porã."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Mba'e ñembosarái mandu'arã iporã peteĩ tapicha oikovéva demensia ndive?"
+    a: "Peteĩ ñembosarái joja ta'anga tuicha ha ojekuaáva reheve, ikatúva opyta ojehechaukáva, Picture pairs oñemoĩva 4 térã 6 pehẽme. Ojejuhu peteĩ ta'anga mokõiháva ojehechahápe ombovy'a oñeha'ã'ỹre mandu'a pya'évare. Find the same ndahasyieterei, peteĩ ta'anga oñembojojáva 2 térã 4 poravokuaágui."
+  - q: "Umi ñembosarái mandu'arã oipytyvõpa demensiape?"
+    a: "Ndaipóri ñembosarái mandu'arã ojehechaukáva oñepohano, omombegue térã omombyta demensia; peteĩ jehechajey Cochrane ohechakuaa umi kuaapy tembiapokue kombutadórape oñembokatupyrýva rehegua ndaipohýiva he'i hag̃ua omboykéta demensia. Umi ñembosarái ikatu gueteri ha'e peteĩ mba'e porã ojapo hag̃ua oñondive. Eiporavo vy'a ha oñondivepa rehehápe."
+  - q: "Añembosaráiva'erãpa Concentration ypykue peteĩ tapicha orekóva demensia ndive?"
+    a: "Ñepyrũme, oĩ tapicha ovy'aitereíva gueteri, peteĩ michĩmi kárta reheve. Nemandu'arõ jeýramo moõpa oĩ hague umi kárta ombohasa vy'a'ỹ, embojere umi kárta ojehechaukávo ha pejuhu umi joja oñondive. Upéicha opyta pe joja ha ojehejarei pe ñeha'ã mandu'arã."
+  - q: "Mba'e ñembosarái mandu'arã iporã aty tapichakuérape?"
+    a: "Picture bingo peteĩ oñehenóiva pantállape, ñe'ẽ ypykue oñemohu'ãva ayvúpe ha kárta ñe'ẽmongeta rehegua oñemoĩ porã atyhápe. Peñembosarái opa kárta hu'ã meve ha ani pehenói mávapa ombohovái, avave ani hag̃ua oñandu oñembojerovia'ỹva."
+  - q: "Oĩpa ñembosarái mandu'arã reigua tapichakuérape online?"
+    a: "Heẽ. Umi ñembosarái ko tendápe, umíva apytépe Picture pairs, Find the same, Photo pairs ha Picture puzzle, reigua, noikotevẽi rejeregistra ha omba'apo pumbyry, tabléta ha kombutadórape. Avave ndorekói aravo'ãha térã puntuación."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Eheka ramo "memory games for seniors", heta mba'e ejuhúva ojapo umi tapichápe g̃uarã oipotáva omokyre'ỹ akã: kárta ñemi, aravo'ãha, nivel ha puntuación. Peteĩ tapicha oikovéva demensia ndive, ko'ã mba'e ombohasa peteĩ ñembosarái ñeha'ãme pe mba'e hasyvéva rehe. Umi ñembosarái oñembosarái avei ikatu mborayhuve reheve. Ko kuatiarogue ohechauka mba'éichapa, ha omombe'u umi ñembosarái oñemoĩ porãva peteĩteĩ etapa rehe.
 
-## Why do classic memory games frustrate people with dementia?
+## Mba'érepa umi ñembosarái mandu'arã ypykue omomba'easy umi tapicha oikovéva demensia ndive?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Oipuru rupi marandu pyahu oñeñongatu hag̃ua akãme, ha upéva tuichaite jave ha'e pe primer mba'e oñembyaiha Alzheimer ndive, ha'eva pe demensia ojehechavéva. Pe [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) he'i Alzheimer ñe'ã pyahuvéva ha'e hasy oñemandu'a hag̃ua umi mba'e oñeikumby pyahúva rehe. Concentration ypykuépe, embojere mokõi kárta, nemandu'a moõpa oĩ hague, ha eipuru upéva peteĩ aravo'ípe. Upéva ha'e marandu pyahu, oñeñongatúva ha oñemandu'ajeýva.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Emoĩve aravo'ãha, puntuación térã tyapu mbohovái vai rehe, upéicharõ pe tapicha oñemomandu'a pe mba'e ndaikatúiva ojapo, peteĩ tapicha ohayhuetéva renondépe. Heta tapicha kirirĩhápe oheja ñembosarái.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Ojehechakuaa peteĩ mba'e ojehechahápe ha'e ambue tembiapo ha tuichaite jave ndahasyietereíva. Ojehechauka mokõiha tasa peteĩjeýpe oĩramo mokõive jehechahápe ombovy'a. Upévare pe mba'e porã ha'e oñeñongatu pe joja ha ojehejarei pe ñeha'ã mandu'arã.
 
-## How do you make a memory game gentle?
+## Mba'éichapa oñembohasa peteĩ ñembosarái mandu'arã mborayhuve reheve?
 
-These adjustments work for card games, board games and games on a screen.
+Ko'ã ñemoambue omba'apo kárta rehe, ñembosarái mesa rehegua ha ñembosarái pantállape.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Eheja umi ta'anga ojehechaukáva.** Oñembojoja ta'anga ojehechahápe ha'e gueteri ñembosarái añete, ha heta jave ombovy'a.
+2. **Eipuru sa'ive pehẽ.** Eñepyrũ mokõi térã mbohapy joja reheve. Emoĩve hetave ojehecha ndahasýiramo ha oipotárõ hetave añoite.
+3. **Eiporavo ta'anga tuicha, ojekuaáva ha kakuaáva rehegua.** Peteĩ tasa, peteĩ girasol, peteĩ yga ñemongaru. Ani ta'anga mitãme g̃uarã térã ta'anga hetaiterei mba'e reheve.
+4. **Peñembosarái oñondivepa.** "Jajuhúkena umi jagua" peteĩva "nde turno" rendaguépe. Peñepytyvõ jey jey pehechauka aja.
+5. **Eheja puntuación.** Avave noikotevẽi opu'ã. Oporandúramo, peteĩ "jajapo" añónte iporãma.
+6. **Ani eñemyaña aravo rehe.** Ndaipóri aravo'ãha, ha ani eñemyaña peteĩ poravokuégui ambuépe.
+7. **Peñe'ẽ umi ta'anga rehe.** "Ehecha ko yga ñemongaru. Remongaru ygapype jeyma'arã?" Pe ñe'ẽmongeta ha'e heta jave pe mba'e iporãvéva.
+8. **Epyta peteĩ ára porãme.** Emohu'ã peteĩ joja rire, vy'a gueteri aja.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Pe [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ome'ẽ peteĩchaite ñe'ẽ ñepytyvõrã: embojoja pe tembiapo pe tapicha ikatúva ojapo reheve, ehecha vy'a'ỹramo, ha ehecha oñandu porã hag̃ua.
 
-## Gentle memory and matching games to try
+## Ñembosarái mandu'arã ha joja mborayhu rehegua eha'ã hag̃ua
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (joja ta'anga ojehechaukáva reheve)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) ha'e peteĩ ñembosarái joja ta'anga tuicha reheve ha 4 térã 12 pehẽ. Umi ta'anga ikatu opyta ojehechaukáva, upévare ha'e ojuhu hag̃ua mokõiháva, ndaha'éi oñemandu'a moõpa oĩ hague. Eñepyrũ 4 pehẽ reheve. Peteĩ tapicha etapa ñepyrũme g̃uarã ohayhúva peteĩ tembiporu hasyve, ikatu emoambue **Hidden pictures**-pe, ha katu eju jey ta'anga ojehechaukávape sapy'ánte ndavy'áiramo.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) ohechauka peteĩ ta'anga yvategotyo ha 2 térã 4 poravokuaa iguýpe. Epoko pe oñembojojáva. Ha'e pe ñembosarái joja ndahasyivéva ko tendápe ha oñemoĩ porã umi tapichápe g̃uarã ohecháva peteĩ ta'ãnga aty tuichaiterei, umíva apytépe heta oĩva etapa paha gotyo oĩramo peteĩ tapicha ijykére.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (ñembosarái mandu'arã ta'anga familia reheve)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) ombohasa umi ta'anga reiporavóva peteĩ ñembosarái jojáme: jagua, korapy, yga rokái. Tova ha tenda ojekuaáva heta jave omoheñói ñe'ẽmongeta hetave peteĩ ta'anga oiméma rehe. Umi ta'anga opyta nde kundahára ryepýpe ha araka'eve noñemondói.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ojerure remoĩ hag̃ua peteĩteĩ ta'anga ajakápe oĩva'erãháme, techapyrãrõ kosina térã korapy. Ñemohenda oipuru kuaapy arepýva mba'éichapa omba'apo ko yvóra, ndaha'éi mandu'a pya'e.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) omoĩ'ỹ peteĩ ta'anga 4 térã 9 pehẽme. Epoko mokõi pehẽ emoambue hag̃ua peve pe ta'anga oĩmbávo. Pe ta'anga opa'ỹva opyta pantállape ñepytyvõrãramo.
 
-### Real cards on the table
+### Kárta añete mesa ári
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ndoikotevẽi peteĩ pantalla. Eipe'a umi joja mokõi kárta atyguágui térã peteĩ ta'anga kárta atyguágui. Emoĩ ojehechaukáva mokõi tysýipe ha pejuhu umi joja oñondive. Upéi rire, emohenda sa'y térã ysaja rehe. Pe [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) omombe'u kárta rehegua ha ñembosarái mesa rehegua tembiapo etapa ñepyrũme g̃uarã apytépe.
 
-## Which memory games suit each stage?
+## Mba'e ñembosarái mandu'arã oñemoĩ porã peteĩteĩ etapape?
 
-Stages are loose labels. Go by what the person enjoys today.
+Umi etapa ha'e téra ndajesarekóiva hetaiterei. Ehecha mba'épa ombovy'a pe tapicha ko árape.
 
-| Stage | Games that often fit | How to set them up |
+| Etapa | Ñembosarái oñemoĩ porãva heta jave | Mba'éichapa oñemboheko |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Ñepyrũ | Picture pairs, Photo pairs, Picture puzzle 9 pehẽ reheve, kárta ypykue ojekuaáva | Eheja toiporavo. Umi pehẽ ikatu ojejere ohayhúramo; eheja puntuación ombyasy ramo |
+| Mbyte | Picture pairs 4 térã 6 pehẽ ojehechaukáva reheve, Find the same, Sort together | Ta'anga ojehechaukáva tapiaite. Eguapy ijykére ha peñepytyvõ jey jey |
+| Paha | Find the same 2 poravokuaa reheve, ojehecha oñondive peteĩ ta'anga tuicha | Michĩmi ára. Nde rereko tabléta; ha'e ohechauka, térã omaña ha ohendu añoite |
 
-## Do memory games help with dementia?
+## Umi ñembosarái mandu'arã oipytyvõpa demensiape?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ndaipóri ñembosarái mandu'arã ojehechaukáva oñepohano, omombegue térã omombyta demensia. Peteĩ [jehechajey Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) tembiapokue kombutadórape oñembokatupyrýva rehegua umi tapicha orekóva apytu'ũ akã mbykývape g̃uarã ohechakuaa umi kuaapy ndaipohýi he'i hag̃ua omboykéta demensia. Ore ñemyesakã [ñembosarái akã rehegua ha demensia](/brain-health/brain-games/) rehegua omyesakã mba'épa ohechauka ha ndohechaukái umi jehapykueho.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Upéva ndaha'éi mba'e jaheja hag̃ua ñembosarái. Pe [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) oñe'ẽ ñepytyvõrã vy'áre ehecha hag̃ua, ndaha'éi jehupytyrãre. 10 aravo'i peve oñembojoja ta'anga ha oñeñe'ẽ hese ikatu ha'e peteĩ mba'e porã añete pe árape.
 
-## What about memory games for seniors without dementia?
+## Mba'épa umi ñembosarái mandu'arã tapichakuérape ndorekóiva demensia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Peteĩ kakuaáva ndorekóiva apañuãi mandu'a rehe ohayhúramo ñembosarái aravo'ãha reheve, puntuación ha nivel hasyve, ndaipóri mba'e vai upévape. Ani añoite rejerovia upéva nemo'ãta demensiagui; ndaipóri ñembosarái ojehechaukáva upéva rehegua. Umi tembiapo mborayhu rehegua yvategua avei oñemoĩ porã oñembosaráiramo peteĩchagua tapicha: peteĩ sy térã jarýi oikovéva demensia ndive ha peteĩ temiarirõ ikatu oñombojoja ta'anga oñondivepa, peteĩva avei oñeha'ã'ỹre.
 
-## When should you stop or change the game?
+## Araka'épa iporã oñepyta térã oñemoambue pe ñembosarái?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Ñepytu'u, oñemomýi tabléta, he'i "ndaikatúi ajapo" térã ojehecha py'apy rehe ha'e mba'e ohechaukáva oñembohasýive térã oñepytava'erãha. Eha'ã sa'ive pehẽ reheve, embojere umi ta'anga ojehechaukávo, emoambue [Find the same](/games/find-the-same/)-pe, térã emaña añoite umi ta'angáre ha peñe'ẽ. Ndoipotairamo oñembosarái, upéva avei iporã. Ore ñemyesakã [mba'éichapa ñañembosarái oñondive](/caregiving/how-to-play-together/) rehegua oreko hetave pya'ekue ha ñepytyvõ rehegua.

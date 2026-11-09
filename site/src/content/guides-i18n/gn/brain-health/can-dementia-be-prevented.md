@@ -1,35 +1,34 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "¿Ikatu piko oñemboyke demencia? Mba’e he’i jehapereka"
+seoTitle: "¿Ikatu oñemboyke demencia? Mba’e he’i jehapereka"
+description: "Mba’e ojuhu Lancet Commission 2024 ha ambue jehapereka guasu demencia vaíkua rehegua, mba’e ndojuhúiva, ha mba’épa ikatu oñeñe’ẽ hague pohanohára ndive."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Avave ndaikatúi he’i oñemboykétaha demencia. Lancet Commission 2024 omombe’u
+  opa tetãme demencia oikóva rupi 45 % oñembojoajuha 14 mba’e ikatúva oñemoambue,
+  techapyrã tuguy ojupi, ñahendu vai térã ndojejapói tembiapo. Jehapereka ohechauka
+  michĩmi mba’e oikoha ñeimo’ã rape, ndaha’éi ohechaukaha oĩve hag̃ua sa’ive demencia.
+  Hetaiterei tapicha ojejapóva porã avei ikatu oguereko demencia, ha ndaha’éi avave mba’e.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet Commission 2024 omombe’u opa tetãme demencia oikóva rupi 45 % oñembojoajuha 14 mba’e ikatúva oñemoambue. Upéva ha’e peteĩ jehechami opa tetãme g̃uarã, ndaha’éi peteĩ tapicha añónte g̃uarã."
+  - "Oñemboguejy hag̃ua vaíkua he’ise oñemboguejy pe esperánsa opa ava aty apytépe. Ndaha’éi peteĩ tapicha ikatuha oñeñomi demenciagui."
+  - "Jehapereka guasu FINGER, US POINTER ha SPRINT MIND-icha ohechauka pytyvõ michĩ ñeimo’ã rape térã ñeimo’ã vai mbykýpe, ha’eve ndohai avave ohechaukaha peteĩ tembiapo reko porãva oñemboykeha demencia."
+  - "Ary ha’e pe vaíkua tuichavéva ojekuaáva Alzheimer rehegua, ha upéva ndaikatúi oñemoambue. Hetaiterei tapicha orekóva reko porã ikatu oguereko demencia."
+  - "Umi tembiapo jepiveguáicha ojehaperekáva, techapyrã oñepohano hag̃ua tuguy ojupi, ojepuru hag̃ua ñahenduha térã ojejapo hag̃ua tembiapo, iporã oñeñe’ẽ hague pohanohára ndive, ikatu avei opytyvõ ambue reko resãi rupi."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "¿Ikatu piko oñemboyke demencia?"
+    a: "Ndaipóri mba’e ojehechaukáva ikatúva oñemboyke demencia peteĩ tapicha añónte g̃uarã. Jehapereka he’i oñemboguejy ramo vaíkua, techapyrã tuguy ojupi, ñahendu vai ñepohano’ỹ térã pitarã, ikatu oñemboguejy demencia esperánsa opa ava aty apytépe térã oñemboare hag̃ua oñepyrũvo. Ko’ãva ha’e esperánsa, ndaha’éi ñe’ẽme’ẽ."
+  - q: "Mba’e he’ise pe 45 % Lancet Commission omombe’úva?"
+    a: "Lancet Commission 2024 omombe’u opa tetãme demencia oikóva rupi 45 % oñembojoajuha 14 mba’e ikatúva oñemoambue. Pe jehechami oipota ko’ã mba’e omoheñóiha demencia, ha umi ohaihára omombe’u hikuái oĩ mba’e ikatúva oñembojoaju mbovymi añónte. Omombe’u opa ava aty rehegua ha ndohechaukái peteĩ tapicha añónte vaíkua."
+  - q: "Che sy térã che ru oiko porãramo jepe, mba’érepa oguereko demencia?"
+    a: "Ary, pehẽnguekuéra ha hetaiterei mba’e avave ndaikatúiva oñangareko ipokuaáva tuicha demenciápe. Lancet Commission ohaihára omombe’u oñemboguejy ramo vaíkua opa ava aty apytépe, ndoje’éi peteĩ tapicha oñeñomitaha demenciagui. Peteĩ oñemombe’uva’erã ndaha’éi avave ndaikatúi porãiva ra’ãnga."
+  - q: "¿Iparevémapa oñemboguejy hag̃ua demencia vaíkua ohasávo 65 ary?"
+    a: "Lancet Commission he’i araka’eve ndaha’éi voi térã itujaiterei oñemboguejy hag̃ua vaíkua, jepe heta mba’e ojehechaukáva omombe’u tekove mbyte rehegua. Ñahendu ha tesa oĩ vai ñepohano, ojejapo tembiapo ha oñeñongatu tapicha ambue ndive ha’e peteĩchagua tembiapo tujakuépe g̃uarã ojehaperekáva. Eñe’ẽ pohanohára ndive ejesareko hag̃ua mba’épa oikóta ne reko resãirehe."
+  - q: "¿Ñembosarái akã rehegua térã tembi’u peteĩchagua oñemboyke piko demencia?"
+    a: "Ndaipóri ñembosarái, tembi’u, pohã ñemongu’e térã tembi’u rape ojehechaukáva ikatúva oñemboyke demencia. Peteĩ jehapereka mbohapy ary pukukue MIND tembi’u rape rehegua ndohechaukái ambue tuicháva ñeimo’ãme peteĩ tembi’u ambue ndive oñembojojávo, ha ñembosarái akã rehegua ojehepyme’ẽva ndojehechaukái orekóva pe mba’e ojehúva jehaperekápe."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +62,145 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Reñangarekórõ peteĩ tapicha oikovéva demenciandi, térã rehecha ramo nde sy térã nde ru oiko hague upéva ndive, ikatu reñeporandu oikovépa ikatu oñemboyke hague, ha ikatu piko oñemboyke nde rehe oiko hag̃ua. Ko kuatiarogue omombe’u mba’e he’i jehapereka, ñe’ẽ ndahasývape. Mbykýpe: avave ndaikatúi he’i oñemboykétaha demencia, ha’eve jehapereka he’i oĩ vaíkua ikatúva oñemboguejy, ha oñemboguejy ramo opa ava aty apytépe ikatu sa’ive tapicha oguereko demencia térã ikatu oguereko upe rireve.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Kóva ha’e marandu opaichagua, ndaha’éi pohanohára ñe’ẽme’ẽ. Eikuaami ore
+[ñemombe’u pohanohára rehegua](/medical-disclaimer/) ha eñe’ẽ pohanohára ndive nde reko resãi rehe.
 
-## Can dementia be prevented?
+## ¿Ikatu piko oñemboyke demencia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Ndaipóri mba’e ojehechaukáva ikatúva oñemboyke demencia peteĩ tapicha añónte g̃uarã. National
+Institute on Aging (NIA) he’i, jepe
+[ndaipóri gueteri ojehechaukáva ikatúva oñemboyke Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+umi ohaperekáva ojuhu tape ikatúva opytyvõ ha oikuaa ohóvo mba’épa ikatu ha mba’épa ikatu’ỹ opytyvõ.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Mba’e jehapereka ohechaukáva ha’e oĩ reko resãi ha jepokuaa oñembojoajúva tuichave hag̃ua demencia esperánsa. Oñemboguejy ramo ko’ã vaíkua opa ava aty apytépe, ikatu sa’ive tapicha oguereko demencia, térã ikatu oguereko upe rireve hekove pukukue aja. Upéva iñambue tuicha peteĩ ñe’ẽme’ẽgui.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Peteĩ mba’e omokyre’ỹva: Lancet Commission 2024 omombe’u oĩ tetã iviruhetãvévape, Estados Unidos ha Reino Unido avei, sa’ivehague tapicha itujavévagui oguerekóva demencia. Umi ohaihára oimo’ã kóva ikatu oiko mbo’e porãve, ñangareko reko resãi porãve ha sa’ive vai tuguy rape rehegua hekove pukukue aja rupi, omombe’u haguéicha
+[University College London omyesakãvo pe marandu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Mba’e ojuhu Lancet Commission 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission demencia ñemboyke, ñepytyvõ ha ñangareko rehegua ha’e peteĩ aty 27 demencia ohaperekáva rehegua, ojesarekóva jehaperekáre ary’i ohasávo. Hikuái marandu 2024 omombe’u **14 mba’e vaíkua** ikatúva oñemoambue, ha omombe’u opaite oñondive oñembojoajuha **demencia oikóva rupi 45 % jave opa tetãme**. Umi ohaihára he’i haguéicha, ko’ã mba’e ikatu *jepivegua rupi* oñemboyke térã oñemboare oñeipe’árõ umi vaíkua
+([Lancet Commission marandu 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Umi 14 mba’e, oñemboja’óva pe tekove ára ojehechaukahápe umi mba’e:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Tekove ñepyrũme:** sa’ive mbo’e.
+- **Tekove mbyte (40 guive 65 ary peve):** ñahendu vai, LDL (“vai”) colesterol yvate, py’apy vai, akã oñembyaíva, ndojejapói tembiapo, diabetes, pitarã, tuguy ojupi, tetyma tuichaiterei ha ka’u hetaiterei.
+- **Tekove tujakuépe:** jeiko ha’eño, yvytu ñembyai ha tesa oĩ vai ñepohano’ỹ.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Mokõi mba’e pyahúva oñembojoapyva’ekue 2024-pe ha’e LDL colesterol yvate ha tesa oĩ vai ñepohano’ỹ. Umi mba’e oñembojoajúva hetave demenciandi ha’e ñahendu vai ha LDL colesterol yvate (peteĩteĩ 7 % jave), upéi sa’ive mbo’e ha jeiko ha’eño (peteĩteĩ 5 % jave).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Ore [kuatiarogue vaíkua rehegua](/brain-health/risk-factors/) ohasa opa 14 rehe peteĩ táblape, mba’e he’i jehapereka ha mba’épa ikatu rejapo.
 
-### What the 45% figure does not mean
+### Mba’e pe 45 % ndohe’iséi
 
-It is easy to misread this number, so it helps to be precise:
+Ndahasýi oñentende vai ko papaha, upévare iporã oñemyesakã porã:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ha’e peteĩ jehechami opa tetãme g̃uarã.** Omombe’u demencia oikóva opa yvy ape ári, ndaha’éi nde esperánsa térã nde sy térã nde ru esperánsa.
+- **Oipota ha’eha mba’e omoheñóiva.** Umi ohaihára he’i omoĩ hague vaíkua orekóva mba’e ohechaukáva porã, ha’eve oĩ mba’e ikatúva oñembojoaju mbovymi añónte. Techapyrã, py’apy vai tujakuépe ikatu avei peteĩ demencia ra’ãnga ñepyrũ, ndaha’éi upe mba’e omoheñóiva.
+- **Ndoje’éi mba’eve peteĩ tapicha añónte rehe.** UCL omombe’u oñemboguejy vaíkua opytyvõha opa ava aty apytépe ha ndoje’éi peteĩ tapicha oñeñomitaha demenciagui.
+- **Pe ambue mbohapyha ndojeikuaái ko’ã mba’égui.** Ary, pehẽnguekuéra ha mba’e umi arandukuaahára ndoikuaáiva gueteri omopyenda pe hembýva.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Mba’e iñambue “vaíkua ñemboguejy” ha “ñemboyke” apytépe?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Vaíkua ñemboguejy** he’ise oñemboguejy pe esperánsa. Peteĩ aty guasu tapicha oñemboguejy ramo tuguy ojupi, ikatu sa’ive hikuái apytégui oguereko demencia heta ary aja, oñembojojáramo oñemboguejy’ỹva rehe. Oĩva’erã hikuái apytégui oguerekóta upevére.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Ñemboyke** he’ise peteĩ mba’e ani hag̃ua oiko. Demencia rehegua, upéva ndaha’éi mba’e jehapereka ikatúva he’i avavépe ko árape.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Umi ohaperekáva omombe’u avei **ñemboare** rehe. Lancet Commission omombe’u oĩ mba’e pyahu ohechaukáva oñemboguejy ramo vaíkua ikatu omomýi araka’épa oñepyrũ demencia ha ombykýi pe ára tapicha oikove oĩ vai aja. Peteĩ ñemboare mokõi térã mbohapy ary rehegua ikatu tuicha peteĩ tapicha ha hogaygua-kuérape g̃uarã.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Ko tendápe, jaipuru “ñemboguejy vaíkua” ha “oñembojoaju” jajeipotágui. Rehecha ramo peteĩ mba’e, pohã ñemongu’e térã tembiapo he’íva “oñemboyke Alzheimer”, ejepy’amongeta porã. NIA he’i eñe’ẽ hague pohanohára ndive eipuru mboyve oimeraẽ pohã térã ñepohano he’íva oñemboykeha Alzheimer, ko’ã mba’e ikatu vai, hepy’ỹ térã mokõivéva.
 
-## What have large trials found?
+## Mba’e ojuhu jehapereka guasu?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Jehapereka ohecháva mba’épa oiko tapichakuérape ára pukukue aja ikatu ohechauka mba’e oñembojoajúva. Jehapereka oñemboja’óva po’a rupive, oĩhápe tapicha oñeme’ẽva peteĩ tembiapópe térã peteĩ aty oñembojojávo rehegua, ha’e pe jehecha mbaretevéva. Kóina mba’e ojuhu oĩ jehapereka ojekuaavéva apytégui.
 
-### FINGER (Finland)
+### FINGER (Finlandia)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Jehapereka FINGER oike 1.260 tapicha 60 guive 77 ary peve, orekóva vaíkua tuichave demencia rehegua. Mbohapyha oñeme’ẽ chupekuéra mokõi ary pukukue tembiapo tembi’u ñe’ẽme’ẽ, tembiapo, ñembosarái akã rehegua computadora rupive ha ñeha’ã py’a ha tuguy rape reko resãi rehegua; ambue mbohapyha ohupyty ñe’ẽme’ẽ reko resãi opaichagua rehegua. Pe aty tembiapo rehegua oiko porãve michĩmi peteĩ aty ñeimo’ã rape, peteĩ iñambue michĩ ha’eve hechapyrãva
+([jehapereka FINGER The Lancet-pe](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Pe jehapereka oha’ã ñeimo’ã rape, ndaha’éi demencia oñemombe’úva.
 
-### US POINTER (United States)
+### US POINTER (Estados Unidos)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER oike 2.111 tapicha 60 guive 79 ary peve, ndojapóiva tembiapo hetaiterei, orekóva tembi’u ndaha’éiva iporãvéva ha orekóva ambue vaíkua. Mokõive aty oñemokyre’ỹ ojapo hag̃ua hetave tembiapo teterã ha akã rehegua, ho’u porãve hag̃ua, oiko hag̃ua tapicha ambue ndive ha oñangareko hag̃ua py’a reko resãire. Peteĩ aty ohupyty tembiapo oñemboguapýva, orekóva ñepytyvõhára; ambue oipuru ijehegui. Mokõi ary aja, ñeimo’ã rape iporãve **mokõivéva** atýpe, ha iporãve michĩmi pe aty oñemboguapývape
+([jehapereka US POINTER JAMA-pe](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Umi ohaihára he’i tekotevẽha oñehesa’ỹijo hetave ojekuaa hag̃ua pe iñambue oreko piko mba’e porã ára ha ára rekovépe. Ndaipórigui aty “ndojapói mba’eve”, pe jehapereka ndaikatúi he’i mboy pytyvõpa ome’ẽ peteĩteĩ tembiapo oñembojojáramo ndojejapóiramo mba’eve rehe.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tuguy ojupi)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND ohapereka 9.361 tapicha Estados Unidospegua 50 ary guive ha orekóva tuguy ojupi. Oñeme’ẽ chupekuéra peteĩ tuguy ojupi ohupytyséva michĩvéva (yvateve 120 guýpe) térã pe ohupytyséva tapiagua (140 guýpe). Pe ohupytyséva michĩvéva omboguejy hechapyrã hag̃uáicha **ñeimo’ã vai mbykymi**, peteĩ ára mandu’a ha ñeimo’ã apañuái rehegua ikatúva oiko demencia mboyve. **Ikatuha demencia** rehegua, sa’ive oiko pe aty ohupytyséva michĩvévape, ha’eve pe iñambue ndaha’éi hechapyrãva. Pe jehapereka opa pya’e ha oĩ sa’ive demencia ojehechávo oñeha’arõvagui, upévare ikatu michĩeterei ombohovái hag̃ua upe porandu
+([SPRINT MIND JAMA-pe](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Mba’e ombojoaju umi jehechajey
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Peteĩ jehechajey Cochrane 2021 rehegua ombojoaju porundy jehapereka guasu tembiapo rehegua oñangarekóva heta vaíkuare, 18.000 tapicha rupi. Ojuhu peteĩ pytyvõ michĩ ñeimo’ã rape, ha’eve **ndaipóri iñambue hesakãva mboy tapichápa oguereko demencia** mokõi jehaperekápe oha’ãva’ekue upéva
+([Cochrane jehechajey tembiapo heta mba’e rehegua](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Peteĩ jehechajey 2017 rehegua National Academies of Sciences, Engineering, and Medicine-gui, NIA omyesakãva, ojuhu mba’e “omokyre’ỹva ha’eve noñemohu’ãiva gueteri” mbohapy tape rehegua: tuguy ojupi ñangareko, tembiapo ñembohetave ha ñembokatupyry akã rehegua.
 
-## Does it matter when you start?
+## ¿Iporã piko araka’épa oñepyrũ?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Commission ñe’ẽme’ẽ ha’e oñemboguejy vaíkua pya’e ikatuháicha ha oñeñongatu michĩ hag̃ua heta ára ikatuháicha: “pya’eve, iporãve” ha “heta árave, iporãve”. Omombe’u avei araka’eve ndaha’éi voi térã itujaiterei oñemboguejy hag̃ua vaíkua. Heta mba’e ojehechaukáva omombe’u tekove mbyte rehegua, 40 guive 65 ary peve jave, ha’eve oĩ mba’e, tesa oĩ vai ha jeiko ha’eño-icha, ha’e vaíkua tujakuépe g̃uarã ikatúva gueteri oñejapo mba’e hese.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Pe marandu he’i ko’áğa oĩ mba’e mbaretevéva ohechaukáva vaíkua oikove heta ára ramo tuichave hag̃ua iñemohatã. Techapyrã, diabetes oñepyrũva tekove mbyte aja tuichaveva’erã diabetes oñepyrũva upe rireve rehe.
 
-## Is dementia risk the same for everyone?
+## ¿Peteĩchaite piko demencia vaíkua opa tapichápe g̃uarã?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nahániri. Pe Comisión ojuhu tapicha oikovéva tetã iviru sa’ivévape ha mbytepegua, tapicha aty michĩvagui ha tapicha iviru sa’ivéva oguereko hetave ko’ã vaíkua, upévare demencia ikatu oñepyrũ pya’eve chupekuéra. Heta vaíkua oñembojoaju mba’e tapicha ndoiporavóiva rehe, techapyrã mbo’e porãngue ohupyty hague mitãme, yvytu oikohápe ha tembi’u porã ikatu piko ojogua térã oĩ hína hi’aguĩme.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Upévare Comisión ñe’ẽme’ẽ oñeha’ã tetã rekuái ha avei tapicha peteĩteĩme: mbo’e porã opa mitãme g̃uarã, yvytu potĩve, mba’e ojapóva omboguejy hag̃ua pitarã, sa’ive eiratã ha juky tembi’u oñevendéva ñemuha ha karu tendápe, ha ñahenduha opavavépe oikotevẽvape g̃uarã. Tapicha peteĩteĩ ñeha’ã iporã, ha’eve iporã avei pe yvóra tapicha oikohápe. Kóva ha’e avei peteĩ mba’e ani hag̃ua avave ñemomarangatu peteĩ oñemombe’uva’erãre.
 
-## What are the honest limits of this research?
+## Mba’épa umi mba’e jehapereka ndaikatúiva he’i porãite?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demencia ojapo heta ary pukukue aja**, ha’eve heta jehapereka oiko mokõi guive po ary peve. Ojeha’ã hag̃ua demencia añete, ndaha’éi ñeimo’ã rape añónte, tekotevẽ jehapereka ipuku ha tuichaitereíva.
+- **Heta jehapereka oha’ã ñeimo’ã rape.** Peteĩ porãve michĩ peteĩ ñeimo’ã rape ndaha’éi katuete sa’ive tapicha oguerekóta demencia térã ndahasyietereivéima ára ha ára rekovépe.
+- **Umi oipytyvõva ikatu orekove reko resãi** ha mbo’e hetave opa ava rehegua. Lancet Commission omombe’u heta mba’e ojehechaukáva ou gueteri tetã iviruhetãvagui ha umi aty michĩva ndojepresentái hetaiterei.
+- **Oĩ mba’e oñembojoajúva mokõive gotyo.** Ndojejapói ramo tembiapo térã ndaipóri tapicha ambue ndive ikatu ha’e demencia ra’ãnga ñepyrũ, ndaha’éi upe mba’e omoheñóiva añónte.
+- **Jehapereka tembi’u rehegua ndohechaukái gueteri mba’e tuicha.** Peteĩ jehapereka mbohapy ary pukukue MIND tembi’u rape rehegua ndohechaukái ambue tuicháva ñeimo’ãme peteĩ tembi’u ambue ndive oñembojojávo. Ema’ẽ ore [kuatiarogue tembi’u rehegua](/brain-health/diet/).
+- **Ndojehechaukái ñembosarái akã rehegua ikatuha oñemboyke demencia.** Ema’ẽ ore kuatiarogue [ñembosarái akã rehegua ha demencia](/brain-health/brain-games/).
+- **Karume’ỹ mba’e rehegua orekove michĩeterei mba’e ojehechaukáva tapicha apytépe**, ha ikatu vai tapicha itujavévape g̃uarã. Ema’ẽ ore [kuatiarogue karume’ỹ rehegua](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Peteĩ tapicha ojapo porãmba ramo opa mba’e, mba’érepa oguereko demencia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Demencia ndaha’éigui jeporavo añoite rembiapokue. NIA he’i
+[ary ha’e pe vaíkua tuichavéva ojekuaáva Alzheimer rehegua](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ha avave ndaikatúi omoambue upéva. Pehẽnguekuéra oreko vore. Ha umi arandukuaahára ndoikuaái gueteri porãite mba’épa omoheñói Alzheimer hetave tapichápe. Ojeipe’áta jave jepe opa 14 vaíkua, Lancet Commission jehechami voi oheja hetave mbohapyhágui oñemyesakã’ỹva.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Upévare, reñangarekórõ peteĩ tapicha ojapova’ekue tembiapo, ho’úva porã, ndopitái ha’eve oguereko demencia, ndaipóri mba’e vai oñembyai hague hendágui térã nendágui. Reikove ramo demenciandi, ndaha’éi ne rembiapo vai. Ñemomarangatu ojehecha hetaiterei hogaygua apytépe, ha’eve ndojeipotáiva. Ko’áğa iporã ha’e py’aguapy, joaju ha ára porã, ha ore [tembiapo rape](/activities/ideas/) ha
+[kuatiarogue ñangarekohára oñangareko hag̃ua ijehegui](/caregiving/caregiver-self-care/) ha’e peteĩ tenda porã oñepyrũ hag̃ua.
 
-## What steps can you talk over with a doctor?
+## Mba’e tembiapópa ikatu oñeñe’ẽ pohanohára ndive?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ko’ãva ha’e umi tenda ojehaperekavéva. Iporã oñemombe’u peteĩ jehechápe, hetaiterei hikuái opytyvõ avei py’a reko resãi, py’aguapy ha jeiko ijeheguípe, oikóta taha’e mba’épa demencia rehe.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tuguy ojupi.** Eporandu mba’épa ne papaha ha mba’e ohupytysépa iporã ndéve g̃uarã. Lancet Commission he’i ikatuha oñeha’ã oho hag̃ua pe yvateve 130 térã guýpe 40 ary guive, ha’eve pe ohupytyséva iporãva tapicha itujavévape g̃uarã oñembojoaju hekove reko resãi rehe.
+2. **Ñahendu.** Ejerure ñahendu jehecha, ha oipytyvõtapa ñahenduha. Ore
+   [kuatiarogue ñahendu rehegua](/brain-health/hearing/) omyesakã pe jehapereka.
+3. **Tesa.** Ejejapo tesa jehecha meme ha eporandu ikatu piko oñepohano mba’e tesa apañuái, katarata-icha.
+4. **Colesterol.** Eporandu ikatu piko oñeha’ã ne LDL colesterol ha ikatu piko oñemoambue mba’e.
+5. **Tuguy eiratã.** Erekórõ diabetes, eporandu mba’éichapa ikatu oñangareko tekorosãme.
+6. **Py’aguapy.** Py’apy vai ojehecha meme ha ikatu oñepohano. Emombe’u pohanohára ndive reñandu ramo ne py’a vai térã nderevy’ái mba’evére mokõi arapokõindyve.
+7. **Pitarã ha ka’u.** Ejerure pytyvõ reipota hag̃ua reheja pitarã ha eporandu ka’u rehegua tekorosãme.
+8. **Jeku’e.** Eporandu mba’eichagua tembiapopa tekorosã ndéve g̃uarã. Ore
+   [kuatiarogue tembiapo rehegua](/brain-health/exercise/) oreko tembiapo rape.
+9. **Akã ñangareko.** Eipuru akã ñangarekohára eguatávo vici ha eñembosarái ramo, ha eporandu je’a’ỹ hag̃ua.
+10. **Oñongatu tapicha ambue ndive.** Ára ohasáva tapicha ambue ndive ha’e peteĩ tekove porã pehẽ. Ema’ẽ ore kuatiarogue [joaju avakuéra ndive](/brain-health/social-connection/) rehegua, ha avei [ke](/brain-health/sleep/) rehegua.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Emoambue mboyve pohã, tembi’u, pohã ñemongu’e, karume’ỹ térã tembiapo, eñe’ẽ raẽ pohanohára ndive, hetave hag̃ua eguerekórõ py’a mba’asy, diabetes, re’áva rire térã reikove hína demenciandi.
 
-## Talk with a doctor
+## Eñe’ẽ pohanohára ndive
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Rehecha ramo mandu’a térã ñeimo’ã ñemoambue nembohoryháva, nde rehe térã ambue rehe, ehejami peteĩ jehecha. NIA omombe’u
+[mandu’a apañuái ikatu oreko ambue mba’e omoheñóiva](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+techapyrã pohã rembiapokue vai, tiroides apañuái, py’apy vai térã vitamina B12 sa’ive, ha oĩ ko’ã apañuái ikatúva opa oñepohano vove pe mba’e omoheñóiva. Ore
+[kuatiarogue ra’ãnga rehegua](/brain-health/warning-signs/) omyesakã mba’épa ikatu rehecha.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Eheka pytyvõ pya’e** ñemoambue sapy’agua rehe: akã jere sapy’a, kangue térã andu’ỹ peteĩ ykére, apañuái ñe’ẽme, térã akã rasy tuicha ikatu ha’e peteĩ mba’asy py’a ha tuguy rape rehegua térã ambue mba’e pya’e oikotevẽva. Ehenói 911.
 
-## Where Golden Moments fits
+## Mba’épe oĩ Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ojapo tembiapo ndahasýiva oñondive hag̃ua, techapyrã
+[ñe’ẽñemi kuatia’atã](/games/conversation-cards/),
+[ta’ãnga bingo](/games/picture-bingo/) ha
+[pytu’u jeroky py’aguapýva](/games/calm-breathing/). Ha’e ovy’a ha ára oñondive hag̃ua g̃uarã. Ndaha’éi ñepohano, ha noñemboykéi térã nomombeguéi demencia.

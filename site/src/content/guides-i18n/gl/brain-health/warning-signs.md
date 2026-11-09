@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Sinais temperás de demencia e cando acudir ao médico"
+seoTitle: "Sinais temperás de demencia e cando acudir ao médico"
+description: "Sinais temperás comúns de demencia, en que se diferencian do envellecemento habitual, causas tratables de problemas de memoria e como prepararse para a consulta."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  A perda de memoria que dificulta a vida diaria, os problemas coas tarefas habituais, a confusión
+  sobre o tempo ou o lugar e os cambios de humor ou de criterio poden ser sinais temperás de
+  demencia. Moitas outras condicións, como problemas de tiroide, niveis baixos de vitamina B12,
+  efectos secundarios de medicamentos, depresión e problemas de sono, poden causar cambios
+  semellantes. Só un profesional sanitario cualificado pode facer un diagnóstico. A confusión
+  repentina require atención urxente.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Algúns esquecementos ocasionais son comúns coa idade; os cambios que dificultan a vida diaria merecen unha revisión."
+  - "A Alzheimer's Association describe 10 sinais de alerta e acompaña cada un cun cambio típico relacionado coa idade para poder comparalos."
+  - "Os problemas de tiroide, os niveis baixos de vitamina B12, os efectos secundarios de medicamentos, a depresión, as infeccións e os problemas de sono poden afectar á memoria, e algúns teñen tratamento."
+  - "Só un profesional sanitario cualificado pode diagnosticar a demencia; os cuestionarios e as autoavaliacións en liña non poden facelo."
+  - "A confusión que aparece de repente, en cuestión de horas ou días, pode ser delirium e require atención médica urxente."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "É normal esquecer cousas coa idade?"
+    a: "En parte, si. O National Institute on Aging indica que perder algunha cousa de vez en cando ou esquecer unha factura adoita ser un esquecemento leve relacionado coa idade. A demencia non é unha parte normal do envellecemento. Os problemas de memoria que dificultan tarefas cotiás como conducir, usar o teléfono ou atopar o camiño de volta á casa merecen unha consulta co médico."
+  - q: "Poden os problemas de memoria ter outra causa que non sexa a demencia?"
+    a: "Si. O National Institute on Aging menciona, entre outras, problemas de tiroide, ril ou fígado, efectos secundarios de medicamentos, depresión e ansiedade, niveis baixos de vitamina B12, consumo problemático de alcohol, problemas de sono, infeccións e lesións na cabeza. Algúns destes problemas melloran cando se tratan, e por iso é importante unha revisión médica."
+  - q: "Podo avaliar se alguén ten demencia na casa?"
+    a: "Non. Só un profesional sanitario cualificado pode diagnosticar a demencia, mediante a historia clínica, unha exploración física, probas de memoria e pensamento, análises e, ás veces, probas de imaxe do cerebro. Mesmo as probas breves que usan os médicos non abonda por si soas para diagnosticar a demencia."
+  - q: "Que debo facer se alguén se confunde de repente?"
+    a: "Busque axuda médica de inmediato. A confusión repentina pode ser delirium, que o VA describe como unha urxencia médica. Chame de inmediato ao profesional sanitario da persoa ou ao 112, quede con ela e tome nota dos medicamentos que toma."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Notar cambios na súa propia memoria, ou na memoria dunha persoa querida, pode ser preocupante. Esta páxina pode axudarlle a decidir cando pedir cita co médico e como prepararse para a consulta. Non pode dicirlle se alguén ten demencia. **Só un profesional sanitario cualificado pode diagnosticar a demencia**, e moitas condicións que causan problemas de memoria non son demencia. Por favor, non se basee en cuestionarios nin autoavaliacións en liña.
 
-## What are the early signs of dementia?
+## Cales son os sinais temperás de demencia?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+A [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describe 10 sinais temperás. Acompaña cada un cun cambio típico relacionado coa idade para poder comparalos. Coas nosas propias palabras:
 
-| Sign worth checking | More typical with age |
+| Sinal que convén revisar | Máis habitual coa idade |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Perda de memoria que dificulta a vida diaria, como esquecer feitos recentes ou preguntar o mesmo unha e outra vez | Esquecer ás veces un nome ou unha cita e lembralo despois |
+| Dificultade para planificar ou resolver problemas, como seguir unha receita coñecida ou levar as contas da casa | Cometer algún erro ocasional coas contas da casa |
+| Dificultade para rematar tarefas habituais na casa, no traballo ou fóra | Necesitar axuda de cando en vez cunha función do microondas ou para gravar un programa de televisión |
+| Perder a noción das datas, as estacións ou o lugar onde se está | Equivocarse co día da semana e deducilo despois |
+| Novas dificultades para calcular distancias, ler ou distinguir cores | Cambios na vista por mor das cataratas |
+| Novos problemas coas palabras, como interromperse a metade dunha conversa ou chamar as cousas por un nome incorrecto | Custarlle ás veces atopar a palabra adecuada |
+| Deixar cousas en lugares pouco habituais e non ser quen de refacer os pasos | Perder cousas de cando en vez e atopalas refacendo os pasos |
+| Falta de criterio, por exemplo co diñeiro ou co aseo persoal | Tomar algunha decisión pouco acertada de vez en cando |
+| Afastarse de afeccións, do traballo ou de actividades sociais | Non ter ganas ás veces de ir a unha actividade familiar ou social |
+| Cambios de humor ou de personalidade, como mostrarse confuso, desconfiado, medorento ou ansioso | Ter costumes moi arraigados e irritarse cando se altera unha rutina |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Un só sinal non significa demencia. O importante é un **cambio respecto do que é habitual para esa persoa**, sobre todo se fai máis difícil a vida diaria.
 
-## How is normal aging different from dementia?
+## En que se diferencia o envellecemento normal da demencia?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) indica que moitas persoas maiores notan que lembran as cousas máis amodo, ou que ás veces perden obxectos ou esquecen unha factura. Adoitan ser sinais de esquecemento leve. **A demencia non é unha parte normal do envellecemento.** Os problemas serios de memoria dificultan actividades cotiás como conducir, usar o teléfono ou atopar o camiño de volta á casa.
 
-The NIA suggests talking with a doctor if someone:
+O NIA aconsella falar co médico se alguén:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Fai as mesmas preguntas unha e outra vez
+- Se perde en lugares que antes coñecía ben
+- Ten dificultade para seguir receitas ou indicacións
+- Está máis confuso co tempo, as persoas e os lugares
+- Deixa de coidarse, por exemplo comendo mal, sen asearse ou con condutas pouco seguras
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Algunhas persoas teñen **deterioración cognitiva leve (MCI, polas súas siglas en inglés)**. Isto significa ter máis problemas de memoria ou pensamento ca outras persoas da súa idade, pero aínda así conseguir levar a vida diaria. O NIA indica que a MCI pode ser un sinal temperán de alzhéimer, pero non todas as persoas con MCI acaban desenvolvéndoo.
 
-## What else can cause memory problems?
+## Que outras cousas poden causar problemas de memoria?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Moitas cousas distintas da demencia poden afectar á memoria, e algunhas melloran co tratamento. O NIA menciona:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problemas de tiroide, ril ou fígado**
+- **Efectos secundarios de medicamentos**
+- **Depresión e ansiedade**
+- **Niveis baixos de vitamina B12** ou unha alimentación pouco saudable
+- **Problemas de sono**
+- **Consumo problemático de alcohol ou drogas**
+- **Infeccións, coágulos de sangue ou tumores** no cerebro
+- **Lesións na cabeza**, como unha conmoción cerebral
+- **Estrés intenso ou duelo**, como a xubilación ou a perda do cónxuxe
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Os problemas de audición e vista tamén poden confundirse con desorientación; consulte a nosa [guía sobre a audición](/brain-health/hearing/). Por iso é importante unha revisión médica. Segundo a [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), os médicos adoitan pedir análises de sangue para comprobar problemas de tiroide, deficiencias de vitaminas e infeccións. Tamén convén comentar un bo [sono](/brain-health/sleep/) e o tratamento da depresión.
 
-## Sudden confusion is an emergency
+## A confusión repentina é unha urxencia
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**A confusión que aparece de forma rápida, en cuestión de horas ou días, require atención médica urxente.** Pode ser delirium. O [VA describe o delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) como unha urxencia médica e recomenda chamar de inmediato ao profesional sanitario da persoa ou ao 112. Entre os sinais están:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Altibaixos na capacidade de pensar con claridade
+- Dificultade para prestar atención
+- Pensamento desordenado
+- Estar moito máis adormecido do habitual, ou moito máis inquedo e axitado
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Isto pode ocorrerlle a calquera persoa, tamén a quen xa vive con demencia. Segundo o [NHS](https://www.nhs.uk/symptoms/confusion/), entre as causas comúns están as infeccións (as infeccións urinarias son frecuentes nas persoas maiores e nas persoas que viven con demencia), o ictus, o nivel baixo de azucre en sangue en persoas con diabetes, as lesións na cabeza e algúns medicamentos. Mentres agarda axuda, quede coa persoa e tranquilícea con palabras breves e sinxelas. Non lle faga moitas preguntas e tome nota dos medicamentos que toma.
 
-## How do I prepare for the doctor's appointment?
+## Como me preparo para a cita co médico?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Unha boa consulta comeza con boas notas. A [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suxire levar:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Unha lista dos cambios** na memoria, o humor e o comportamento, con exemplos concretos e unha idea aproximada de cando comezaron
+2. **Os problemas de saúde actuais e pasados**, incluída calquera historia familiar de problemas de memoria
+3. **Todos os medicamentos con receita e sen receita**
+4. **Calquera vitamina ou suplemento**
+5. **As súas preguntas**, por exemplo que probas se van facer, canto tempo levan e cando chegarán os resultados
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Tamén axuda ir acompañado dun familiar ou amigo que coñeza ben á persoa. O [NIA explica](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) que os médicos poden preguntar tanto á persoa como a un familiar sobre a saúde, os medicamentos, as actividades diarias e os cambios de comportamento. Os médicos tamén poden:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Facer probas de memoria, resolución de problemas, atención, cálculo e linguaxe
+- Pedir análises de sangue, urina e outras probas para buscar outras causas
+- Avaliar se hai depresión ou outras condicións de saúde mental
+- Pedir probas de imaxe do cerebro, como unha TAC ou unha resonancia magnética
+- Derivar a un especialista, como un xeriatra, neurólogo, psiquiatra xeriátrico ou neuropsicólogo
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+O NIA sinala que unha avaliación cognitiva forma parte obrigatoria da visita anual de benestar de Medicare, o que pode ser un bo momento para comentar estas preocupacións. Mesmo as probas breves que usan os médicos non abonda por si soas para diagnosticar a demencia. Son un primeiro paso cara a unha avaliación máis completa, e o diagnóstico pode requirir máis dunha visita. O NIA recomenda que as persoas con problemas de memoria volvan ao médico cada 6 ou 12 meses.
 
-## Raising the subject kindly
+## Como abordar o tema con respecto
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Se lle preocupa outra persoa, escolla un momento tranquilo e privado. Fale de cousas concretas que observou, desde a preocupación pola súa saúde e non desde a crítica. Suxerir unha revisión xeral pode resultar menos alarmante. Inclúa a persoa nas decisións e fálle como á persoa adulta que é. Os nosos [consellos de comunicación](/caregiving/communication-tips/) poden ser útiles.
 
-## Talk with a doctor
+## Fale co médico
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Se nota cambios na memoria, o pensamento, o humor ou as habilidades cotiás que son novos e se manteñen, pida cita co médico de atención primaria. Se hai confusión repentina, chame ao 112 ou ao profesional sanitario da persoa de inmediato. Facer unha revisión cedo permite detectar causas tratables e, se se trata de demencia, deixa máis tempo para planificar e buscar apoio. Coide tamén de si mesma ou de si mesmo durante este proceso; consulte a nosa [guía de coidado persoal para persoas coidadoras](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Esta páxina ofrece información xeral, non consello médico. Consulte o noso [aviso legal médico](/medical-disclaimer/).

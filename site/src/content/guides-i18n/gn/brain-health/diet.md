@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Tembi'u MIND ha Mediterráneo ha hesarái: mba'épa ojehecha"
+seoTitle: "Tembi'u MIND ha hesarái: mba'épa ojehecha"
+description: "Mba'épa ojehecha tembi'u MIND ha Mediterráneo rehe hesarái rehegua, mba'ére peteĩ jehechajey tuicháva ndohechaukái mba'eve, ha mba'éicha ikatu ñepytyvõ peteĩ tapicha orekóva hesarái oguero'upaite."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Umi mba'ekuaarã ojehecháva ára pukukuépe ohechauka tembi'u peteĩva joajuva rehe ha tembi'u MIND rehe ikatu ogueromombyky hesarái ñembyai, hákatu ndaha'é peteĩteĩva jave. Peteĩ ñepytyvõ mbohapy ary pukukue tembi'u MIND rehegua, ojehechaukáva 2023-pe, ndohechaukái mba'e tuicháva iñakã ñembosarái térã iakã ojehecháva rehe oñembojoaju tembi'u oĩramovéva rehe. Ndaipóri tembi'u térã pytyvõrã ojehecha porãva omboyke hag̃ua hesarái. Umi tapicha orekóva hesarái-pe, oguero'u ha oguy'u tetãme ha'e mba'e tuichavéva.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Oĩ mba'ekuaarã, hákatu ndaha'é opa mba'ekuaarã, ohecháva ára pukukuépe tembi'u joajuva Mediterráneo rehe ha tembi'u MIND rehe ogueromombyky ikatu hesarái ñembyai."
+  - "Peteĩ ñepytyvõ 604 tapicha kuimba'e ha kuña itujáva rehegua 2023-pe, umi tembi'u MIND rehe oikóva ndovaléive iñakã ñembosaráipe térã iakã ojehecháva-pe oñembojoaju umi oĩva tembi'u ambuéva rehe mbohapy ary rire."
+  - "Instituto Nacional de Envejecimiento he'i ndaipóri mba'eve ohechaukáva tembi'u térã jejoko peteĩ tembi'u reheguáva ikatu omboyke térã oguereko Alzheimer's, ha ndaipóri mba'e pytyvõrã térã vitamina ojehecha porãva omboyke hag̃ua chupe."
+  - "Peteĩ tembi'u heko henyhẽva ka'avo, yva, kumanda, ogapypegua ha pira omoakã porã pytu rehe ha ikatu omopyenda umi mba'e ikatu ombotavy hesarái, taha'e juku'a tuicháva térã akanundu."
+  - "Umi tapicha orekóva hesarái-pe, tembi'u ijyvatépe guareva ha'e ikatu ojegueraha po rupive, plahata ojojoguáva, tembi'u oñeme'ẽva pytu porãme ha oguy'u jepiveguáva ha'e tuichavéva tembi'u peteĩteĩ reheve."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "¿Tembi'u MIND omboyke hesarái ñembyai?"
+    a: "Ndojehechái gueteri. Umi mba'ekuaarã ojehecháva ára pukukuépe ohechauka tembi'u MIND rehegua ogueromombyky ikatu hesarái ñembyai, hákatu peteĩ ñepytyvõ mbohapy ary pukukue ojehechaukáva 2023-pe ndohechaukái mba'e tuicháva iñakã ñembosarái-pe térã iakã ojehecháva-pe umi tembi'u MIND rehe oikóva ha umi tembi'u ambuéva rehe oikóva apytépe. Mokõive aty oñemoaranduve michĩmi ha oguerekove peteĩcha peso."
+  - q: "Mba'épa ojuavy tembi'u MIND ha tembi'u Mediterráneo?"
+    a: "Tembi'u Mediterráneo omomba'e ka'avo, yva, ogapypegua, kumanda, pira ha aceite de oliva, michĩmi vore so'o pytã, tembi'u ryguasu ha tembi'u he'ẽva. Tembi'u MIND oñemoñondive tembi'u Mediterráneo ha tembi'u DASH juku'a rapére ha omomba'e ka'avo hovyũ, yva frutilla ha ambue, ogapypegua, kumanda, nuez, pira peteĩ jey térã hetave arapokõindy, ha aceite de oliva. Oñeñongatu so'o pytã, tembi'u he'ẽva, kesu, kandy ha tembi'u oñembojyva térã fast food reheve."
+  - q: "¿Oĩ tembi'u térã pytyvõrã omboyke vaíva Alzheimer's?"
+    a: "Nahániri. Instituto Nacional de Envejecimiento he'i ndaipóri mba'e ohechaukáva tembi'u térã jejoko peteĩ tembi'u reheguáva ikatu omboyke Alzheimer's térã ñakãkue ijeheguíva rehe, ha ndaipóri vitamina térã pytyvõrã ojehecha porãva omboyke hag̃ua Alzheimer's. Eñe'ẽ pohãnohára ndive ejapo mboyve mba'e pytyvõrã."
+  - q: "Mba'épa tembi'u ndahasýiva oguero'u peteĩ tapicha orekóva hesarái?"
+    a: "Tembi'u ijyvatépe guareva ha'e ikatu ojepuru po rupive, taha'e vore sándwich rehegua, vore so'o ryguasu rehegua, pedazo naranja rehegua térã ka'avo oñemopotĩva. Oimérõ hasy hekove térã ñenguy'u, tembi'u hykuãva taha'e tembi'u ryguasu oñembosarambi vaíva, puré manzana térã kesu blando ikatu ombohapé. Eporandu pohãnohára ndive ñepytyvõ rehe umi ñenguy'u térã ahy'o oiko jave."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Ikatu hína reñemoarandu peteĩ tembi'u ikatúva "omombarete iñakã" omboyke hag̃ua Alzheimer's. Hákatu mba'e oikóva michĩmive. Oĩ tembi'u aty ojojoguáva ohechaukáva ikatu ogueromombyky hesarái ñembyai umi mba'ekuaarã ojehecháva ára pukukuépe, hákatu peteĩ ñepytyvõ tuichavéva ndohechaukái mba'e tuicháva ojepytyvõ hag̃ua. Ko kuatia ohechauka mokõive mba'e, ha upéi ojechauka mba'épa tuichavéva oiko hag̃ua peteĩ tapicha oĩmavoi orekóva hesarái: oguero'u ha oguy'u tetãme, ha oguerohoryve chupe.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Ko marandu ha'e marandu jepiveguáva, ndaha'é ñe'ẽme'e pohãnohára rehegua. Eñe'ẽ pohãnohára térã peteĩ kuimba'e ha kuña oikuaáva tembi'u rehe ejapo mboyve mba'e ñemoambue nde rehe térã ambuéva rehe. Ehecha ore [ñe'ẽme'e pohãnohára rehegua](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Mba'épa ha'e tembi'u Mediterráneo ha tembi'u MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Instituto Nacional de Envejecimiento (NIA) he'i ko'áicha
+([NIA tembi'u ha Alzheimer's rehegua](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Tembi'u Mediterráneo:** hetaiterei yva, ka'avo, ogapypegua, kumanda, pira ha ysyrypuku rehegua, ha aceite de oliva. Michĩmi vore so'o pytã, tembi'u ryguasu ha tembi'u he'ẽva.
+- **Tembi'u MIND** (Mediterráneo–DASH Intervención para retrasar ñembyai neurológico): oñemoñondive tembi'u Mediterráneo ha tembi'u DASH juku'a rapére. Oĩ hepyka ka'avo, avei ka'avo hovyũ, yva frutilla ha ambue, ogapypegua, kumanda, nuez, pira peteĩ jey térã hetave arapokõindy ha aceite de oliva. Oñeñongatu so'o pytã, tembi'u he'ẽva, kesu, kandy térã margarina, ha tembi'u oñembojyva térã fast food reheve.
 
-## Do these diets lower dementia risk?
+## ¿Tembi'u ko'áva ogueromombyky hesarái ñembyai?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Mba'ekuaarã ojuavy. NIA he'i oĩ mba'ekuaarã ojehecháva ára pukukuépe ohechauka tembi'u Mediterráneo ha tembi'u MIND rehegua ogueromombyky ikatu hesarái ñembyai oñembojoaju tembi'u estilo occidental rehe, oguerekóva hetaiterei so'o pytã, grasa saturada ha azúca.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Comisión Lancet 2024-pe ojehechajey mba'ekuaarã hetaveve
+([Comisión Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Peteĩ jehechajey ojehupytyva aty rehegua ohechauka tembi'u heko porãva ogueromombyky ikatu 20% hesarái ñembyai rehe.
+- Peteĩ jehechajey tuichavéva mbohapy aty rehegua ohechauka oikóva tembi'u MIND reheve ogueromombyky ikatu hesarái ñembyai rehe.
+- Hákatu peteĩ jeheka Suecia-pe ojehupytyva 28.025 tapicha mitãrusu ha mbaraka rehegua 20 ary pukukuépe ndohechaukái ogueromombyky ikatu peteĩva reheve térã tembi'u estilo mediterráneo reheve.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Umi mba'ekuaarã ojehecháva ára pukukuépe ndaikatúi ohechauka mba'e oiko añetéva. Umi tapicha tembi'u ko'ichagua o'u ha'e oĩ avei ambue mba'e ojuavyva, taha'e pirapire, mbo'ehao, ejercicio ha jeike pohãnoha rehe. Comisión he'i ndaipóri gueteri mba'ekuaarã oikóva ohechauka tembi'u heko porãva omboyke añetéva hesarái ñembyai, hákatu oguero'u hetaiterei yva ha ka'avo ha michĩve tembi'u oñemboheko'ỹva heko porã heta mba'e rehe ha omopyenda umi mba'e ikatu ombotavy hesarái, taha'e jekuru, akanundu ha juku'a tuicháva. Ndoiporuái tembi'u umi [14 mba'e ikatu ombotavy hesarái](/brain-health/risk-factors/) rysýipe.
 
-## What did the 2023 MIND diet trial find?
+## Mba'épa ojehecha ñepytyvõ tembi'u MIND rehegua 2023-pe?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Ñepytyvõ ojehecha porãvéva ha'e peteĩ ñepytyvõ oñembojoajúva ojehechaukáva New England Journal of Medicine-pe 2023-pe
+([Ñepytyvõ tembi'u MIND rehegua](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Máva:** 604 tapicha 65 ary térã hetave, Chicago ha Boston peg̃uarã, ndorekói gueteri ñembosarái iñakã rehegua, oguerekóva peteĩ jerovia hesarái rehegua, itujavéva ha oguerekóva tembi'u ndoiko porãiva.
+- **Mba'épa ojapo:** mbohapy ary pukukuépe, peteĩ aty oikuti tembi'u MIND rehe ha ambue aty oikuti hendivekuéra tembi'u hembiapove. Mokõive aty oñeporandúva oguero'u 250 caloría sa'ive ára peteĩteĩme ha oguerekóva ñepytyvõ jepiveguáva pohãnoha tembi'u rehegua.
+- **Mba'épa ojehecha:** iñakã ñembosarái oñemoaranduve michĩmi **mokõive aty** peve. Mba'e ojuavyva aty mokõive apytépe ha'e michĩ ha **ndaha'é significativo estadísticamente**. Iakã ojehecháva avei ohechauka ñemoambue ojoguáva mokõive aty peve.
+- **Peso:** mokõive aty oguejy peteĩ voi 5 kilo (11 libra ojehechápe).
 
-### Why might the trial have found no difference?
+### Mba'érepa ñepytyvõ ndohechaukái mba'e ojuavyva?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Umi omba'apo hag̃ua ojehechauka heta mba'e. Aty oikuti tembi'u hembiapove ikatu avei oñemoañete porãve tembi'u rehe, ojehecha hague oguejy peso ojoguáva. Jehechajey jepiveguáva ikatu ombohekoporãve umi resultado, tapicha oikuaa porãve jehechakuaa. Mbohapy ary ikatu ndaha'é oikóva. Hetave oĩmba hetaiterei mbo'ehao ha heñói peteĩ tetãme añoitépe, upévare umi resultado ikatu ndaha'é opa tapicha rehegua.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Upéicha rupi, ñe'ẽ añeteté ha'e: tembi'u MIND ndoiporãvéi tembi'u oñemboguata porãva ha oñemboguejyva caloría rehe mbohapy ary pukukuépe. Ko'áva ndahupytýi tembi'u heko porãva ndoikói mba'eve. Oje'é nde ha'e nderejeroviaiva peteĩ tembi'u peteĩteĩ omboyke hag̃ua hesarái ñembyai.
 
-## What about specific foods and supplements?
+## Mba'épa tembi'u térã pytyvõrã rehegua?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA he'i ndaipóri mba'e ohechaukáva tembi'u térã jejoko peteĩ tembi'u reheguáva ikatu omboyke Alzheimer's térã ñakãkue ijeheguíva rehe. Arándano, ka'avo hovyũ ha cúrcuma ojehechajey, hákatu ndaipóri jehechaukakue. NIA avei he'i ndaipóri vitamina térã pytyvõrã ojehecha porãva omboyke hag̃ua Alzheimer's, ha ndaiporu avaíva ko mba'épe. NIA omomarandu umi pytyvõrã ojehepyme'ẽva ndorekói jehechaukakue omboyke hag̃ua Alzheimer's ikatu ha'e ivaíva, oipuru pirapire vai térã mokõive, ha ikatu ombotove pohã ojehepyme'ẽva, upévare eñe'ẽ pohãnohára ndive ejapo mboyve
+([NIA hesarái ñembyai omboyke rehegua](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Mba'éicha ikatu tembi'u teteporã ha oguerohory?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Hetave itujáva rehegua, tembi'u jehupyty ha'e tembi'u ñembyasy'ỹva, ojehechakuaáva ha oguerohoryva, ndaha'é tembi'u oñeporandúva mba'eve. Ko'áicha ikatu rejapo:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Eñepyrũ tembi'u reipotáva rehe** oĩva tembi'u estilo mediterráneope: ka'avo, yva, kumanda, ogapypegua, pira ha aceite de oliva.
+- **Eñongatu tembi'u reipotáva avei.** Oguero'u ha oguerohory ha'e mba'e tuicháva, avei itujave.
+- **Eju'u ambuéva ndive** eikekuaa jave. Tembi'u oñeme'ẽva hendivekuéra heko porã.
+- **Eñemono'õ tembi'u apohare.** Hekove ka'avo térã myendy peteĩ ita'ãnguápe ha'e peteĩ tembiapo porã oñembojoajúva ambuéva ndive; ehecha [tembiapo peteĩteĩva óga pegua](/activities/household-tasks/). Peteĩ tembi'u rogayguakuéra ojehechakuaáva avei ikatu omombarete [ñe'ẽ oñemomandu'a rehegua](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Umi itujáva ndovalei oguejy peso térã omomichĩ caloría eñe'ẽ'ỹre pohãnohára ndive, ha ayuno oguerekóva mba'e vai. Ehecha ore [ñembohape ayuno rehegua](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Mba'éicha ikatu ñepytyvõ peteĩ tapicha orekóva hesarái oguero'u porãve?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Umi tapicha orekóva hesarái-pe, **oguero'u ha oguy'u tetãme** ha'e mba'e tuichavéva. Asociación Alzheimer's he'i ikatu hesarái ombohesarái chupe oguero'u térã oimo'ã oúma, térã ndohasýi ojeporavo tembi'u rehe, ha tembi'u ndoikói porãva ikatu ombohetave mba'e vai térã ombotuicha pyahu
+([Asociación Alzheimer's tembi'u ha u rehegua](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Ko'ã tembiapo ou Asociación Alzheimer's, NIA ha Asociación Alzheimer's Reino Unido guive:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Eme'ẽ tembi'u ikatúva ojegueraha po rupive.** Vore michĩva ha ikatúva ojepuru po, taha'e vore sándwich, vore so'o ryguasu, palito pira, pedazo naranja térã ka'avo oñemopotĩva, omoneĩ chupe heñói hendete kuatia'a'ỹre.
+2. **Eipuru plahata ojovake.** Ñembosarái resa rehegua ikatu hasy ohechakuaa tembi'u ha plahata. Peteĩ plahata morotĩ térã peteĩ kuatia ojovakeva og̃uahẽ porãve. Ani reipuru plahata ha mesa oĩva ta'anga hetáva reheve.
+3. **Eme'ẽ peteĩ térã mokõi tembi'u añoite.** Peteĩ plahata henyhẽva ikatu ombotavy chupe.
+4. **Emboheko tembi'u pytu porãme.** Eipe'a televisión, emomichĩ mba'e oĩva mesa ári, ha eme'ẽ aravo opyta hag̃ua. NIA ombohovái ani rejapo pya'e térã reñepytyvõ.
+5. **Eme'ẽ tembi'u michĩ ha jepiveguáva.** NIA ombohovái tembi'u sa'ive ha hetave jey, térã tembi'u hetaitereíva caloría rehegua ndoguero'u porãi jave
+   ([NIA ñepytyvõ oguero'u porã rehegua](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Epytyvõ oguy'u rehe.** Eme'ẽ y térã ambue bebida sa'imi ára pukukuépe, ha avei tembi'u hetaitereíva y rehegua taha'e yva, sopa, leche batida térã batido. Ndohaséi jave y rehe, NIA ombohovái eipuru jugo, y oñembovyva, caldo, leche, café térã té sin cafeína.
+7. **Ehecha tembi'u ha bebida temperatura rehe.** Ikatu ndohesa'ỹijo chupe tembi'u térã bebida ijatata térã itesãi.
+8. **Emoambue tembi'u ha bebida rupytyha rehe.** Akã'i plahata rendápe, kuatia po tuicháva rehegua, ha vaso orekóva tapa ikatu ombohapéve. Ani rejepy'apyva'ekue ipoha rapére.
+9. **Embohapé tembi'u hekove ha ñenguy'u rehe.** Emomichĩ tembi'u térã eme'ẽ tembi'u hykuãva. Oñenguy'u térã ahy'o oiko jave tembi'u jave, eñe'ẽ pohãnohára ndive.
+10. **Ani repoko pya'e.** NIA he'i tembi'u jehupyty ojeguejy jeheguiete Alzheimer's pahápe.
 
-### Signs to tell the doctor about
+### Mba'épa ndeve nde'e pohãnohára ndive
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Peso ñemboguejy, rejehi tembi'u rehe, kane'õ térã osẽpuku ikatu ohechauka ndaoguero'úi tetãme. Asociación Alzheimer's he'i nambi vai térã dentadura ndoikói porãva, py'andýi, ñembyasy opytáva térã ñemoambue pohã rehegua avei ikatu omomichĩ tembi'u jehupyty
+([Asociación Alzheimer's tembi'u jehupyty michĩ rehegua](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Umi mba'e ohechaukáva y ndoguerekói tetãme NIA he'i taha'e jurujá vai, yvyryrýi, pytu pya'e ha hechapy
+([NIA mba'e vai jepiveguáva Alzheimer's rehegua](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Eñe'ẽ pohãnohára ndive
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Ejapo mboyve mba'e tuicháva ñemoambue nde tembi'u rehe térã ambuéva rehe, eñe'ẽ pohãnohára térã peteĩ kuimba'e ha kuña oikuaáva tembi'u rehe, avei orekórõ diabetes, renales mba'e, hasy ñenguy'u térã peso ñemboguejy pyahu. Peteĩ tapicha orekóva hesarái-pe, eporandu mba'éichapa oguero'u ha oguy'u tetãme, ha oiméne oipuru pohãnoha tembi'u rehegua térã pytyvõrã.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Eguerekova'erã ñepytyvõ pya'e oimérõ peteĩ tapicha oahýi, térã oiko pya'e ñembosarái, yvyryrýi tuicháva térã ojegua.

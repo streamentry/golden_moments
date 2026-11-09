@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Pe tapicha demencia reheve ojapojey jave porandu"
+seoTitle: "Demencia: ojapojey jave porandu, mba’épa rejapóta"
+description: "Mba’érepa pe ava oikovéva demencia reheve ojapojey porandu, mba’éicha embohovái py’aguapýpe, tembiporu oipytyvõva ha araka’épa ehenói va’erã pohanohárape."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Oñemohendajey jave porandu, ojehecha meme demencia reheve: pe tapicha
+  sapy’ánte nemandu’ái oporandu hague, ha upe porandu oguereko jepi peteĩ
+  jepy’apy. Embohovái py’aguapýpe ha mbykýpe, peteĩha jey ramo guáicha,
+  ehechakuaa pe añeteva ikatu hague, ha ani eréijey “nde rejerurema”. Ehai
+  pe mbohovái ohechakuaahápe, emombe’u jeýnte umi mba’e oikotáva hi’aguĩva
+  mboyve, ha eme’ẽ chupe peteĩ tembiapo vy’apópe guarã. Oñemoambue pya’e
+  jave, ehenói pohanohárape.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Pe tapicha sapy’ánte nemandu’ái oporandu hague; ndaha’éi oipotaiterei rupi."
+  - "Pe porandu oñomi jepi peteĩ ñeñandu, techapyrã jepy’apy peteĩ jehechaukarã rehe térã oipotaháicha oĩ tekorosãme."
+  - "Embohovái py’aguapýpe, mbykýpe ha mborayhúpe, peteĩha jey ramo guáicha. Ani eréijey “nde rejerurema”."
+  - "Peteĩ kuatiajehaipyre, pizarra, arapapaha térã arapapaha guasu ohechaukáva ikatu ombohovái nderehe."
+  - "Emombe’u jeýnte umi mba’e ikatuva omojepy’apy hi’aguĩva mboyve."
+  - "Eñepytu’u michĩmi tekotevẽ jave, ha ehenói pohanohárape oĩramo peteĩ ñemoambue pya’e."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Mba’érepa che ru demencia reheve ojapojey peteĩchagua porandu?"
+    a: "Demencia ombyai pe mandu’a pyahu, upévare ikatu añetehápe nemandu’ái oporandu hague térã ohendu hague pe mbohovái. Jepiveguáicha pe porandu oguereko avei peteĩ ñeñandu, techapyrã jepy’apy mba’épa ojehútava rehe térã oikotevẽ añetegua oñemoñeñandu porã hag̃ua. Embohovái hag̃ua upe ñeñandúpe ikatu oipytyvõve ejapojey hag̃ua mba’épa oikóta."
+  - q: "Amombe’u va’erã chupe oporandu hague ra’e?"
+    a: "Ani. Ndikatúi oipytyvõ chupe nemandu’a hag̃ua ha ikatu oñandu peteĩ ñemoñe’ẽ ramo guáicha. Umi aty oñangarekóva demencia reheve omombe’u embohovái hag̃ua py’aguapýpe peteĩteĩ jey, peteĩha jey ramo guáicha, ha eheja hag̃ua pe mbohovái mbykýpe."
+  - q: "Oipytyvõpa ehai hag̃ua pe mbohovái?"
+    a: "Ikatu, pe tapicha omoñe’ẽkuaa gueteri jave. Peteĩ kuatiajehaipyre, pizarra ko árape guarã, arapapaha guasu térã arapapaha guasu oĩva ohesáiva ohecha memehápe omoneĩ chupe ohechajey hag̃ua pe mbohovái. Ehechauka mbeguekatu chupe, ani eréijey “amombe’úma ndéve”."
+  - q: "Araka’épa amombe’u va’erã jehechaukarã térã jeho rehegua?"
+    a: "Hi’aguĩ mboyve. Emombe’u jave peteĩ jehechaukarã pohanohára ndive térã peteĩ jeho heta ára mboyve, ikatu oñemoambue heta aravo porandu jepy’apypýpe. Emombe’u chupe hi’aguĩ mboyve, py’aguapýpe, mba’épa ojehútava upéi."
+  - q: "Araka’épa pe ñemohendajey ha’e peteĩ mba’e ehenói hag̃ua pohanohárape?"
+    a: "Oñemoambue pya’e térã oñembyaiete jave umi porandu, pe javy térã pe jeiko heta aravo térã ára pukukue aja, ehenói pya’e pohanohárape. Mba’asy vai, pohã pyahu, hasy, tye ñyñýi térã y’uhéĩ ikatu omoheñói peteĩ javy pya’e hérava delirium, oikotevẽva ñangareko pya’e."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“Araka’etépa pe jehechaukarã pohanohára ndive?” Pa aravo’i rire: “Araka’etépa pe jehechaukarã pohanohára ndive?” Ehendu jave peteĩchagua porandu hetajey, ha’e peteĩ mba’e omokane’õvéva reñangareko jave peteĩ ava oikovéva demencia reheve. Ojehecha meme, ndaha’éi oipotaiterei rupi, ha oĩ tape py’aguapy embohovái hag̃ua ikatúva ombohapeve pe ára mokõivéva peẽme guarã.
 
-## Why does someone with dementia ask the same question over and over?
+## Mba’érepa peteĩ ava demencia reheve ojapojey porandu?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Hetave jey pe mandu’a rehe. Demencia ombyai pe mandu’a pyahu, upévare pe tapicha sapy’ánte nemandu’ái oporandu hague térã nemandu’ái pe mbohovái rehe. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) omombe’u porandu heta jey ha’eha peteĩ mba’e ojehecháva meme ha oñeha’ãrõva.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Pe porandu oguereko jepi avei peteĩ ñeñandu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) omyesakã peteĩ porandu oñemohendajeýva ikatuha ohechauka jepy’apy, peteĩ jerure pytyvõ térã kyhyje ha tekorosã’ỹ, ha pe tapicha oheka jepi py’aguapy ha mba’e ojekuaámava. “Araka’épa jaháta?” ikatu he’ise añetehápe “Chepy’apy ahata haguére”. Pe kane’õ, kyhyje, tyapu ha ñemoambue pe jepokuaa ára ha árape ikatu omoñepyrũ upe mba’e, ha peteĩ porandu oñemohendajeýva ikatu avei ohechauka peteĩ tekotevẽ, techapyrã oho hag̃ua bañome ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Mba’épa amombe’u va’erã?
 
-Answer calmly and briefly, as if it were the first time.
+Embohovái py’aguapýpe ha mbykýpe, peteĩha jey ramo guáicha.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Eheja pe mbohovái mbykýpe ha peteĩchagua.** “Pe jehechaukarã oĩ mokõi aravo ka’aru. Che añe’ẽta nendive.” Peteĩ mbohovái peteĩchagua ndahasýive oñemog̃uahẽ hag̃ua chupe.
+- **Embohovái pe ñeñandúpe.** “Reñeporandu pe jehechaukarã rehe. Oĩ ko ka’aru, ha che agueraháta ñandéve. Ndaipóri mba’eve rejapo va’erã.”
+- **Eipuru peteĩ ñe’ẽ mborayhu ha peteĩ jepoko mbegue**, ohayhu ramo jepoko. Alzheimer's Association omombe’u eñepytu’u hag̃ua ha ani eipuru ñe’ẽmbyry térã ñombohovái.
+- **Eme’ẽ pe mbohovái ohekáva**, heta jey oikotevẽháicha. Alzheimer's Association he’i ejapojey hag̃ua ikatuháicha heta jey oporandu.
 
-## What should I avoid?
+## Mba’épa ani ajapo?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“Nde rejerurema chéve upe mba’e.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) omombe’u ani hag̃ua ehechauka oporandu ramóva. Ndikatúi oipytyvõ chupe nemandu’a hag̃ua, ha ikatu oñandu oñemoñe’ẽramo chupe.
+- **Ñemyesakã ipuku.** Hetave ñe’ẽ ome’ẽ hetave mba’e oñemboyke hag̃ua.
+- **Ñepytu’umbu guasu, tesa ñemomýi térã ñe’ẽ hatã.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) omombe’u eguereko hag̃ua py’aguapy ha ani ehechauka ndepochy. Upe hasy; ehecha pe vore ñepytu’u rehegua ko’ápe yvýpe.
 
-## Simple tools that answer the question for you
+## Tembiporu simple ombohovaíva nderehe
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Pe tapicha omoñe’ẽkuaa gueteri jave, peteĩ mbohovái ojehaíva ohechahápe ikatu oipytyvõve peteĩ mbohovái oñe’ẽvagui.
 
-| Tool | How to use it |
+| Tembiporu | Mba’éichapa eipuru |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Peteĩ kuatiajehaipyre tai guasúpe | “Jehechaukarã ko árape mokõi aravo ka’aru. Mary ogueraháta”. Emoĩ ohesáiva ohecha memehápe |
+| Peteĩ pizarra | Ko árape guarã mbohapy térã irundy rysýi; embogue ha ehai jey peteĩteĩ pyharevekue |
+| Peteĩ arapapaha guasu ára ha arange reheve | Oipytyvõ “Mba’e árapa ko’ág̃a?” ha “Hi’ãg̃uima piko?” porandúpe |
+| Peteĩ arapapaha guasu | Ehai peteĩ kyta peteĩteĩ árape; emboyke pe jehechaukarã oúva |
+| Ta’anga ojekuaámava | Peteĩ ta’anga pe tapicha ohótava rehegua ikatu ombohovái “Mávapa ou?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Ko’ã temimo’ã ou [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ha [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) guive. Ehechauka pe kuatiajehaipyre mbeguekatu (“Jahechamína pe pizarrape oñondive”) ani eréijey “Ahaíma ndéve guarã”.
 
-## Tell them about events close to the time
+## Emombe’u chupe umi mba’e ojehútava hi’aguĩ mboyve
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Emombe’u jave peteĩ jehechaukarã térã jeho heta ára mboyve, ikatu oñemoambue heta aravo porandu jepy’apypýpe. Family Caregiver Alliance ha Alzheimer's Los Angeles mokõivéva omombe’u oñe’ẽ hag̃ua umi tembiaporã rehe, avei umi omojepy’apýva, techapyrã jehechaukarã pohanohára ndive térã ñjahuka, jeýnte hi’aguĩ mboyve. Upéi emombe’u mba’épa ojehútava upéi, peteĩ peteĩme.
 
-## Activities that can shift attention
+## Tembiapo ikatúva omombue pe jesareko
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Rembohovái ha rehechakuaa rire pe ñeñandu, peteĩ tembiapo py’aguapy ha vy’apópe guarã ikatu oipytyvõ, avei pe kane’õ rupi oñepyrũramo umi porandu. Opaite kuatia ko’ápe yvate omombe’u egueraha hag̃ua jesareko peteĩ mba’e pe tapicha ohayhúvape.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Peteĩ ñembosarái mbyky ha ndahasýiva oñondive.** [Picture pairs](/games/picture-pairs/) ohechauka opaite ta’anga, upévare ndaipóri tekotevẽ nemandu’a hag̃ua.
+2. **Peteĩ tembiapo ojekuaámava.** Emboypy ao de toalla, emohenda ao peteĩ hendápe térã emohenda mesa. [Sort together](/games/sort-together/) ha’e peteĩchagua tembiapo pantallápe.
+3. **Eñe’ẽ peteĩ mba’e ohayhúva rehe.** [Conversation cards](/games/conversation-cards/) ome’ẽ porandu ijurujáva, ndorekóiva mbohovái hekopete.
+4. **Purahéi, jeguata térã peteĩ tembi’u michĩ.** National Institute on Aging omombe’u ko’ã mba’e peteĩ tape simple egueraha hag̃ua jesareko.
+5. **Peteĩ ñepytu’u kirirĩháme.** Eguapy oñondive, ehecha okápe gotyo, térã eha’ã peteĩ aravo [calm breathing](/games/calm-breathing/) oñondive.
 
-If they return to the question, answer it again, kindly. That is fine.
+Ojevy jeyramo upe porandúpe, embohovái jey, mborayhúpe. Upéva iporã.
 
-## Look for patterns
+## Eheka umi jepokuaa jepi oikóva
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association omombe’u ehecha hag̃ua umi porandu oúpa peteĩ aravo árape, peteĩ tapicha ndive térã peteĩ tendápe. Osẽmemeramo tapicha ou mboyve térã ka’aru paha gotyo, ikatu rembyaty mboyve: peteĩ kuatiajehaipyre pe jeike rehegua, peteĩ tembiapo ojekuaámava oĩmbáma, peteĩ koty kirirĩve. Ore guía [tembiapo py’aguapy ka’aru pahápe](/caregiving/late-day-restlessness/) ikatu oipytyvõ hasyve ramo pyharekue.
 
-## Take care of yourself
+## Eñangareko ndejehe
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Embohovái jey hag̃ua peteĩchagua porandu mokõipa jey omokane’õ. Reñandu ramo nde py’aguapy opa hína ha pe tapicha oĩ tekorosãme, eho ambue kotýpe sapy’ami ha eñepytu’u, [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) omombe’uháicha. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) omokyre’ỹ umi oñangarekóvape ojerure hag̃ua pytyvõ ha ojehecha hag̃ua ñepytu’u aravo (respite care). Hetave temimo’ã oĩ ore [guía oñangarekoha ijeheguáva](/caregiving/caregiver-self-care/) ryepýpe.
 
-## When should I call a doctor?
+## Araka’épa ehenói va’erã pohanohárape?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Ehenói pya’e pohanohárape oñemoambue pya’e térã oñembyaiete jave umi porandu, pe javy térã pe jeiko heta aravo térã ára pukukue aja. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) he’i pe jeiko oñemoambuéva pya’e térã oñemoambuéva pya’eterei, avei peteĩ mba’asy vai térã pohã ñemoambue rire, ojehechaukava’erãha pohanohárape pya’e. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) omyesakã mba’asy vai, pohã, y’uhéĩ, hasy térã tye ñyñýi ikatuha omoheñói delirium, peteĩ javy pya’e ha tuicha oikotevẽva pohanopyre pya’e. Ehenói 911 oĩramo máva vai危险 (peligro)me.

@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Jeike oñeñangarekóva demencia rehe ndive"
+seoTitle: "Jeike: mba’épa ejapo ha mba’épa egueraha"
+description: "Mba’épa ejapo eike jave oñeñangarekóva demencia rehe ndive: mba’épa egueraha, tembiaporã ndahasýiva, jeike mbykýva ha esẽ porã hag̃ua."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Eike jave pe tapicha reñangarekóva rehe ndive oñeñangarekoha térã ospitálpe,
+  eheja ndahasýiva: emombe’u nde réra reg̃uahẽvo, egueraha peteĩ mba’e peju
+  porã hag̃ua, techapyrã ta’ãnga, purahéi térã peteĩ tembi’u oipotáva, ha
+  pejapo peteĩ mba’e ndahasýiva oñondive. Jeike mbykýva ha meme oiko porãve
+  jepi umi jeike ipuku ha sapy’ávagui. Eñemohenda esẽ hag̃ua py’aguapýpe ha
+  peteĩchaite, péicha ndahasýivéta esẽ nendive ha hendive avei.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Ema’ẽ héra rehe pe tapicha rehe ha emombe’u mávapa nde, ani hag̃ua oñeha’ã oikuaa nde rehe: «Mba’éichapa, sy, che Susan, nde rajy»."
+  - "Egueraha peteĩ térã mokõi mba’e peju porã hag̃ua, techapyrã peteĩ ta’ãnga ryru, purahéi oipotáva, peteĩ ahoja morotĩ térã tembi’u oñeñangarekóva omoneĩva."
+  - "Jeike mbykýva ha meme oiko porãve jepi umi jeike ipuku ha sapy’ávagui. Nde reimeha tuicha mba’e, ndaha’éi mba’épa ere."
+  - "Ospitálpe, eme’ẽ oñeñangarekóvape peteĩ kuatia peteĩ togue rehegua pe tapicha rehe ha emombe’u pya’e pohanohárape oĩramo peteĩ mba’e iñambue pya’etereíva."
+  - "Eñemohenda esẽ hag̃ua: emombe’u mboy ára repytáta, eipuru peteĩchaite pe ñema’ẽma eho hag̃ua, ha eho ani reheja sapy’ami."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Mba’épa egueru va’erã eike jave peteĩ tapicha oñeñangarekóva demencia rehe ndive?"
+    a: "Egueru peteĩ mba’e peju porã hag̃ua, ndaha’éi peteĩ mba’e oñeñe’ẽ hag̃ua hese. Peteĩ ta’ãnga ryru michĩ, peteĩ purahéi rysýi umi ohayhuvéva rehegua, peteĩ ahoja morotĩ, poguy kangue, peteĩ aranduka peteĩ tembiapo mboyveguáva rehegua térã tembi’u oñeñangarekóva omoneĩva, opa ko’ãva ikatu iporã. Oñeñangarekoha rógape, óga pehẽngue ta’ãnga ha mba’e oikuaáva ikatu avei ojapo pe koty oñeñandu hag̃ua hógaicha."
+  - q: "Mboy ára aipytáta eike jave peteĩ tapicha oñeñangarekóva demencia rehe ndive?"
+    a: "Ndaipóri peteĩ ára hekopete. Heta familia ohechakuaa jeike mbykýva ha meme iporãveha umi ipuku ha sapy’ávagui, pe tapicha ikatu oñekane pya’e ha ikatu nandomandu’ái mboy ára repyta hague. Ehecha oñekanerõ ha eho pe jeike gueteri iporã jave."
+  - q: "Mba’épa ha’e va’erã oporandu jave oho hag̃ua hógape?"
+    a: "Embohovái mba’épa oñandu, ndaha’éi umi ñe’ẽ. «Aha hógape» he’ise jepi «Nañeñandu porãi térã tekorosãme». Eha’ã erévo: «Emombe’u chéve nde róga rehegua», pehecha ta’ãnga oñondive, térã eñe’ẽ peguata térã pe’u hag̃ua peteĩ mba’e. Ñombohovái térã ñemyesakã mba’érepa ndaikatúi oho sapy’ánte omoĩve py’apy."
+  - q: "Mba’épa ajapóta che ndaikuaáiramo?"
+    a: "Ikatu nandi, hákatu ani eñeha’ã emyatyrõ térã eporandu «Nde reikuaáipa mávapa che». Eñemombe’u py’aporãme ha ndahasýi, ha pevy’a pe ára oñondive. Heta tapicha oikove gueteri ovy’a oĩramo ambue héndive ha oñandu pe jeike mborayhu, jepe ndaikatúiramo oikuaa mávapa nde."
+  - q: "Mba’éichapa aikatu aipytyvõ ospitálpe?"
+    a: "Epyta pe tapicha ndive ikatúramo, eipytyvõ ho’u ha hoy’u hag̃ua, ha egueraha mba’e oikuaáva ta’ãngáramo. Eme’ẽ oñeñangarekóvape peteĩ kuatia ohechaukáva héra jepokuaa, héra oipotáva, mba’épa ohayhu ha ndoipotái, ha mba’éichapa ohechauka hasy. Emombe’u pya’e pohanohárape pe tapicha oñeñandu vaiete térã iñambuéramo sapy’aitépe, pe iñakã ñemokõi pya’etéva ikatu hechauka peteĩ apañuãi pohanohára oñangarekova’erã."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Eike jave peteĩ tapicha rehayhúva ndive oñeñangarekoha rógape, ambue oñeñangarekoha rógape térã ospitálpe, ikatu regueru heta mba’e oñandúva. Ikatu reñeporandu mba’épa eréta, mba’épa egueraháta, térã pe jeike hekopete piko nandomandu’áiramo hese. Hekopete. National Institute on Aging omombe’u umi tapicha oguerekóva Alzheimer [ovy’aha jepi oĩramo ambue héndive](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jepe nandomandu’ái mávapa pe ojeikeva. Ko kuatiarogue ome’ẽ tembiaporã eike mboyve, eime aja ha eho rire, avei tembiapokuaa ospitálpe reime hag̃ua.
 
-## How do I get ready for a visit?
+## Mba’éichapa añembosako’i jeike hag̃ua?
 
-A little planning makes the visit easier for both of you.
+Peteĩ ñemohenda michĩ ojapo pe jeike ndahasýivéta nendive ha hendive avei.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Eiporavo peteĩ ára porã.** Dementia Australia he’i eike hag̃ua pe tapicha jepi iñaranduvéva jave, hetaiterei tapichápe pyhare térã ka’aru jave. Family Caregiver Alliance he’i reikuaa hag̃ua pe tenda jepokuaa ha eike hag̃ua [ára sã’ỹme, ndaha’éi tembiapo aja](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Eporandu oñeñangarekóvape.** Eporandu mba’éichapa oĩ pe tapicha ko árape, ha ehecha oĩpa peteĩ teko tembi’úre, mymba rehe térã osẽ hag̃ua.
+- **Embyaty peteĩ jeike ryru michĩ.** Peteĩ térã mokõi mba’e peju porã hag̃ua ha’evéima (ehecha pe tysýi ko’águi).
+- **Eñemohenda peteĩva ñe’ẽme’ẽrã.** Pe tapicha ikatu ndoguerekói marandu omoherakuã hag̃ua, upévare egueru ne mba’e: familia marandu, ára rehegua, peteĩ ñembosarái, peteĩ tembiasakue ovy’áva.
+- **Eñemohenda nde jeha’arõ.** Heta jeike ikatu haku ha oñeñe’ẽ porã. Ambue ikatu kirirĩ térã hasy. Mokõivéva hekopegua.
 
-## What should I bring?
+## Mba’épa agueraháta?
 
-Bring things to share, not things that test. Good choices include:
+Egueraha mba’e peju porã hag̃ua, ndaha’éi mba’e oñeha’ãva. Mba’e iporãva:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Peteĩ ta’ãnga ryru michĩ** ta’ãnga tuicha ha hesakãva reheve. Ehai ijyvy gotyo oñeñangarekóva hag̃ua.
+- **Peteĩ purahéi rysýi** umi ohayhuvéva rehegua pumbyrýpe, apysape ndahasýiva térã purahẽihai michĩ reheve.
+- **Peteĩ mba’e morotĩ oñopytyvõ hag̃ua,** techapyrã peteĩ ahoja oikuaáva, ajúra térã ao raty.
+- **Poguy kangue** popyte ñepichy mborayhu hag̃ua, pe tapicha ohayhúramo oñepoko.
+- **Peteĩ aranduka térã ta’ãnga aranduka** peteĩ tembiapo mboyveguáva rehegua, techapyrã yvoty ñangareko, mba’yrumýi, guyra térã tembi’u apo.
+- **Peteĩ tembi’u oipotáva,** oñeñangarekóva he’íramo hekorosãha.
+- **Mba’e oikuaáva koty hag̃ua.** Family Caregiver Alliance he’i yvoty, ka’avo, familia ta’ãnga ha ta’ãnga apo, térã peteĩ ta’ãnga tuicha familia rehegua yma guaréva.
+- **Peteĩ tembipurupyahu,** pehecha hag̃ua familia ta’ãnga térã peñembosarái py’aguapýpe oñondive.
 
-## What can we do together during a visit?
+## Mba’épa ikatu jajapo oñondive jeike aja?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Pejapo peteĩ mba’e oñondive ombogue pe ñomboja ñe’ẽme’ẽre. Dementia Australia he’i pehecha ta’ãnga, peteĩ tembiapo popegua ndahasýiva, ñemitỹ ñe’ẽ, purahéi, peju tembi’u, térã peguata pe tenda jerére. Ambue apokuaa:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Pehecha ta’ãnga.** Ehechauka mba’épa rehecha: «Ehecha pe akãngao». «Ko yrembe’y iporãiterei». Eheja pe tapicha oisãmbyhy. Ani eporandu «Mávapa kóva».
+2. **Pepurahéi ha peñepurahéi.** Purahéi oikuaáva ikatu omopu’ã pe py’a ha ome’ẽ peteĩ ára oñondivegua, jepe hasyramo oñeñe’ẽ.
+3. **Peguata sapy’ami.** Family Caregiver Alliance he’i peguata hag̃ua pe tenda jerére, yvotyty rupi oĩramo. Peteĩ ñeguata apyka’aguýpe avei iporã.
+4. **Eme’ẽ peteĩ popyte ñepichy.** Peteĩ kangue michĩ ha popyte ñepichy mbegue ikatu omopy’aguapy.
+5. **Eipytyvõ ñemoĩ porãme.** Dementia Australia omombe’u akã ñañoha, poapy ñembohysýi térã eipytyvõ pe tapicha oñemoĩ hag̃ua peteĩ ao ohayhúva, ohayhúramo.
+6. **Peñembosarái peteĩ ñembosarái ndahasýiva rehe.** Family Caregiver Alliance omombe’u karéta, dominó, térã mba’e pe tapicha oñembosarái va’ekue. Peteĩ tembipurupyahúpe, [Picture Pairs](/games/picture-pairs/) ikatu oñembosarái ta’ãnga ojehechaukávo ha aravo’ỹre. [Photo Pairs](/games/photo-pairs/) ojapo nde reiporavóva ta’ãngágui peteĩ ñembosarái joaju hag̃ua, ha umi ta’ãnga opyta nde kundahára ryepýpe.
+7. **Pehecha peteĩ mba’e oñondive.** Family Caregiver Alliance he’i ñembosarái pukarã ha ta’ãngamýi tuja. Pe tapicha ndohapykuehokuaáiramo jepe pe tembiasakue, ikatu peguapy hi’aguĩ ha peju pe ára.
+8. **Emoñe’ẽ hatãme.** Peteĩ ñe’ẽpoty mbykýva, peteĩ vore oipotáva, térã peteĩ kuatia familia apytégui.
+9. **Peguapy mante oñondive.** Peñopytyvõ térã peguapy kirirĩme ha’e peteĩ jeike añete. Alzheimer’s Association omombe’u iporãha ndoikuaáiramo mba’épa eréta, ha nde reimeha tuichavéva.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) ikatu ne pytyvõ ndereguerekovéimarõ mba’épa eréta. Peteĩteĩ karéta oguereko peteĩ ta’ãnga ha peteĩ ñe’ẽñepyrũ ijuruja.
 
-## How should I talk during the visit?
+## Mba’éichapa añe’ẽta jeike aja?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Eñemombe’u opa jeiképe.** «Mba’éichapa, Túva, che Mark, nde ra’y». NIA he’i umi ojeikeva oñemombe’u hag̃ua sapy’ámi oñe’ẽ ñepyrũ hag̃ua.
+- **Eju tenonde gotyo** ha eguapy hesa renondépe.
+- **Ani emyatyrõ térã embohovái.** NIA omombe’u umi ojeikévape ani omyatyrõ pe tapicha ojavýramo térã nandomandu’áiramo peteĩ mba’e rehe.
+- **Eñepyta py’aguapýpe** oñeha’ãramo ojuhu ñe’ẽ. Eme’ẽ heta ára.
+- **Embohovái oñandúvare.** Pe tapicha oñeñandu vy’arõ térã py’apýramo, emoneĩ upe mba’e embohasa mboyve ambue ñe’ẽme.
+- **Ani eporandu porandu ñeha’ãva** «Reikuaápa mávapa che» térã «Mba’épa re’u karu jave» ichagua.
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Ehecha ore [ñomongeta rembiapokuaa](/caregiving/communication-tips/) reikuaave hag̃ua.
 
-## What do I do when they say "I want to go home"?
+## Mba’épa ajapóta he’íramo «Aha hógape»?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Embohovái pe ñe’ẽ rapykuéri oñandúva rehe (ore tape [oporandu meme jave oho hag̃ua hógape](/caregiving/asking-to-go-home/) ohóve). Family Caregiver Alliance omyesakã «Aha hógape» ha’e jepi he’ise hag̃ua «Nañeñandu porãi», ha he’i embohovái hag̃ua «Emombe’u chéve nde róga rehegua» térã «Mba’épa nde reipotavéva nde rógape». Dementia Australia omoĩve «hóga» ikatu he’ise peteĩ ára térã tenda pe tapicha oñandu haguépe tekorosãme, techapyrã imitãme.
 
-Try:
+Eha’ã:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- emoneĩvo oñandúva: «Hi’ã chéve ndéve reikuaa nde róga».
+- eme’ẽvo py’aguapy ñepoko rupive, oipotáramo
+- ehechávo ta’ãnga térã oñeñe’ẽvo familia róga rehe
+- eñe’ẽvo peguata, hoy’u térã ho’u hag̃ua peteĩ mba’e
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Ani embohovái térã emyesakã mba’érepa ndaikatúi oho. Ndopytyvõi jepi ha hetave jey omoĩve py’apy.
 
-## How long should a visit be?
+## Mboy ára ipukúta peteĩ jeike?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Mbykýva ha meme oiko porãve jepi. Family Caregiver Alliance omombe’u pe tapicha ndomandu’ái jepi repyta pa’ỹ térã po ára, ha he’i mbohapy jeike mbykýva arapokõindýpe ikatu iporãve peteĩ ipukúvagui. Dementia Australia he’i ndaipóri jeike papapy hekopete térã ipukukue hekopete.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Umi arapokõindy peteĩva oñeñangarekoha rógape ova rire, Family Caregiver Alliance he’i eike hag̃ua meme, upéi mbeguekatu eguahẽ hag̃ua peteĩ jepokuaa meme. Eporandu oñeñangarekóvape mba’épa ohecha.
 
-## How do I leave without upsetting them?
+## Mba’éichapa aha ani haguã omopy’apy?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Esẽ ha’e pe hasyvéva ikatu. Dementia Australia he’i:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Emombe’u mboy ára repytáta reg̃uahẽvo.** «Aikatu apyta peteĩ aravo, upéi aha ajogua».
+- **Eipuru peteĩ tembiapo esẽ hag̃ua porãme.** «Jahupytýramo ko purahéi, aháta».
+- **Eñemohenda karu térã tembiapo rehe,** térã ejerure oñeñangarekóvape oipytyvõ hag̃ua pe tapicha oñeñandu porã ambue mba’épe.
+- **Eheja pe ñema’ẽma mbykýva ha peteĩchaite opa jey.** Repyta sapy’ami, rejeperdona térã repyta «michĩve» ikatu ombohasyve umi ñema’ẽma tenonde gotyo.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Eho rire, hekopegua reñandu vy’a’ỹ. Eheja repytu’u. Pe tapicha oñemyangekóiramo, oñeñangarekóva ikatu oipytyvõ oñeñandu porã hag̃ua pya’e upe rire.
 
-## Visiting someone with dementia in the hospital
+## Jeike peteĩ tapicha oñeñangarekóva demencia rehe ndive ospitálpe
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Ospitál ha’e peteĩ tenda hyapu, ndaha’éiva oikuaáva ha henyhẽva tapicha ndoikuaáivagui, ha upéva ikatu hasy peteĩ tapicha oñeñangarekóva demencia rehe. NIA tape [ogueraha hag̃ua peteĩ tapicha oguerekóva Alzheimer ospitálpe](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) he’i:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Oĩ va’erã peteĩ tapicha pe tapicha ndive** ikatuháicha: familia apytégui, peteĩ angirũ jeroviaha térã peteĩ oñeñangarekóva ojehepyme’ẽva.
+- **Eme’ẽ oñeñangarekóvape peteĩ kuatia marandu tee rehegua** pe tapicha jepokuaa, héra oipotáva, mba’épa ohayhu ha ndoipotái, mba’épa ikatu omomyakã, ha mba’éichapa ohechauka hasy ñe’ẽ’ỹme. Eheja mokõi kópiape kotýpe ha oñeñangarekóva tendápe.
+- **Eipytyvõ ho’u ha hoy’u hag̃ua.** Umi kakuaáva ikatu oñemboyke karu’ỹme ospitálpe. Eipe’a umi mba’yru ryru, eipytyvõ karu jave, pe’u oñondive, ha eikuave’ẽ y.
+- **Egueraha mba’e omopy’aguapýva** ta’ãngáramo térã mba’e jerovia rehegua.
+- **Emboguejy pe tyapu.** Embogue ta’ãngamýi ha emboguejy pumbyry ha ñe’ẽñemi tyapu.
+- **Eha’ã jepokuaa omopy’aguapýva,** techapyrã purahéi kirirĩ, ñemoñe’ẽ, ñembo’e, ñepurahéi térã ta’ãnga tuja ñema’ẽ.
+- **Emokyre’ỹ omýi hag̃ua** hekorosãháicha, oñeñangarekóva omoneĩramo.
+- **Emombe’u pya’e pohanohárape pe tapicha oñeñandu vaiete térã iñambuéramo sapy’aitépe.** NIA omyesakã pe iñakã ñemokõi pya’e ha tuicha, hérava delirium, ikatu ojehu mba’e rupi mba’asyñembo, akãnundu, y ñemboyke térã pohã rapykuere, ha oikotevẽ pohanohára ñangareko.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Peteĩ jeike mbykýva ha py’aguapýva peteĩ tova oikuaáva ha peteĩ purahéi oipotáva reheve ikatu ha’e pe mba’e omopy’aguapývéva peteĩ ára ospitálpe.
 
-## Bringing children on a visit
+## Ojegueraha mitã jeiképe
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Mitã ikatu ogueru heta mborayhu. Embo’éma chupekuéra mboyve ñe’ẽ ndahasýi ha añetépe, eheja pe jeike mbykýva, ha eme’ẽ chupekuéra peteĩ tembiapo, techapyrã ohechauka hag̃ua peteĩ ta’ãnga omoĩva’ekue térã ome’ẽ hag̃ua peteĩ ta’ãnga. NIA he’i mitã ha umi tapicha oguerekóva Alzheimer ikatu ovy’a tembiapo ndahasýiva oñondive, techapyrã ohecha hag̃ua peteĩ ta’ãnga ryru térã ohendu purahéi. Dementia Australia he’i egueru hag̃ua peteĩ ryru michĩ tembi’u térã mba’e kirirĩ reheve mitã michĩ oñembosarái hag̃ua.
 
-## Take care of yourself too
+## Eñangareko nde rehe avei
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Jeike ikatu nekane ha nembohasa’asy, pe tapicha iñambuete ramoite. Iporã eike sa’ive reikotevẽramo, egueraha peteĩ angirũ ne pytyvõ hag̃ua, térã eho pya’eve peteĩ ára hasývape. Eikuaasevéramo mba’éichapa eñangarekóta nde rehe, ehecha [oñeñangarekóva jeñangareko](/caregiving/caregiver-self-care/). Reikóramo mombyry, ehecha ore tape [pumbyry ha ta’ãngamýi ñehenói](/activities/phone-and-video-calls/) rehegua.

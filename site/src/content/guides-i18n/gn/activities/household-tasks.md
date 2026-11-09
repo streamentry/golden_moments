@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Tembiapo óga pegua: jeporu demencia reheve"
+seoTitle: "Tembiapo óga pegua demencia ndive"
+description: "Ao ñemboja, mba'e ñemohenda ha tembi'u ñembosako'i ikatu ñepytyvõ tapichakuérape oikovéva demencia reheve. Mba'éichapa ñemboguata ha oñangareko."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Tembiapo ára ha ára, ha'eháicha toalla ñemboja, medias ñembojoaju, mesa
+  ñembosako'i, mostrador ñemopotĩ, yvoty ñemongaru térã tembi'u ñembosako'ípe
+  ñepytyvõ, ikatu ome'ẽ peteĩ hendápe oipytyvõ hag̃ua pe tapicha oikovéva
+  demencia reheve. Eiporavo tembiapo oikuaáva, eipe'a peteĩ tembiapo'ỹme,
+  emboguýke haimbe, haku ha mba'e pohãiva ikatúva ombyai, ha emomba'eguasu
+  pe ñepytyvõ, ndaha'éi ojejapo porãpa.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Tembiapo ojekuaáva ikatu oipytyvõ pe tapichápe oñandu hag̃ua oikotevẽha ha oĩha hógape; kóva ikatu tuichave pe tembiapo ojejapo porãgui."
+  - "Eipe'a peteĩteĩ tembiapo'ỹme, ehechauka ha ndaha'éi eñe'ẽnte, ha eipytyvõ kirirĩhápe oimeraẽva tembiapo'ỹ hasývape g̃uarã."
+  - "Eñongatu haimbe, mba'e pohãiva ha detergente cápsula, ha emoĩ tapa cocina perilla térã peteĩ mba'e oñemboty ijeheguíva eñembosako'ívo tembi'u hendive."
+  - "Natekotevẽi oñemboja jey toalla ojehechaukávo pe tapichápe. Tekotevẽramo rejapo jey, ejapo upe rire ha ohecha'ỹme, ani hag̃ua oñandu oñemoĩporãha hese."
+  - "Peteĩ tembiapo omboykeramo, ekambia peteĩ tembiapo'ỹ ndahasýivape, eha'ã jey ambue jave, térã eguapy hendive."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Mba'e tembiapo óga pegua ikatu oipytyvõ gueteri peteĩ tapicha oikovéva demencia reheve?"
+    a: "Heta tapicha ikatu gueteri oñemboja ao, ombojoaju medias, omohenda cubierto, ombosako'i mesa, omopotĩ mostrador, omokã, otypei, omongaru yvoty térã ombojopyru tembi'u. Eiporavo tembiapo pe tapicha ojapova'ekue ha embojoja ikatúva ojapo ko'ág̃a rehe. Etapa ipahápevove, peteĩ mba'e ojepojáva meme, ha'eháicha servilleta ñemomýi, ikatu hetãma."
+  - q: "Oĩporãpa peteĩ tapicha oikovéva demencia reheve oipytyvõ hag̃ua kocinápe?"
+    a: "Ikatu, oñangarekóva oñema'ẽ porãramo ha oñemboguata porãramo. Eñongatu haimbe, mba'e pohãiva ha oimeraẽva mba'e haku, eipuru tapa cocina perilla térã mba'e oñemboty ijeheguíva, ha eme'ẽ chupe tembiapo oĩporãva, ha'eháicha verdura ñemopotĩ, ñembojehe'a térã plato ñemoĩ. Aníke araka'eve eheja ha'eño ojepurúvo cocina."
+  - q: "Mba'épa oiko oñemboja vai térã omohyrũramo mba'e?"
+    a: "Eheja upéicha. Jahekáva ha'e oñeno oñondive ha oñandu oipytyvõha, ndaha'éi peteĩ tembiapo iporãitereíva. Oĩramo mba'e tekotevẽva oñemoĩporã jey, eha'ãrõ upe rire ha ejapo pe tapicha ohecha'ỹme, ani hag̃ua oñandu oñemoĩporãha hese."
+  - q: "Mba'épa oiko nombohováiramo oñepytyvõ hag̃ua?"
+    a: "Peteĩ «nahániri» ikatu he'ise pe tembiapo hasy, hesakã'ỹ térã kane'õ ko'ág̃a. Ani emyanyhẽ. Eha'ã peteĩ peteĩchagua ndahasýivéva, eipepirũta chupe oĩ hag̃ua nendive, térã eporandu jey ára ambuépe iporãvévape."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Heta tapicha oikovéva demencia reheve omba'apókuri heta ary óga oñangarekóvo, familia omongakuaávo térã peteĩ tendápe oñemba'apo porã hag̃ua. Ojejeruréramo chupe oipytyvõ hag̃ua tembiapo añetépe, ikatu he'i «nde reime gueteri ko rógape» peteĩ hendápe ambue tembiapo hetave ndaikatúiva. Ko kuatiarogue ohechauka mba'e tembiapo oñeha'ãva porãve, mba'éichapa oñemboguata, mba'éichapa oñemoambue mba'e iñambuévo, ha mba'éichapa oñangareko cocina ha ao ñemopotĩha rendápe.
 
-## Why do everyday chores work well as activities?
+## Mba'érepa tembiapo ára ha ára oiko porã tembiapo ramo?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Tembiapo oiko porã ojekuaágui ha orekógui peteĩ mba'e hesakãva oñepyrũ hag̃ua. National Institute on Aging omombe'u mba'yrumýi ñemopotĩ, mesa ñembosako'i, ñetypei, ñemokã, kuatiañe'ẽ ñemohenda, ao ñemboja ha mba'e ojepurujeyva ñemohenda umi [tembiapo ára ha ára ikatúva ovy'a tapichakuéra orekóva Alzheimer rehe](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) apytépe. Alzheimer's Association he'i tembiapo ha'eháicha mesa ñembosako'i ikatuha oipytyvõ pe tapichápe [oñandu hag̃ua peteĩ mba'e tuicháva hógape](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Avei tembiapo oguereko hendive voi mba'érepa oñepyrũ. «Ikatúpa rembohéra che rehe ko toallakuérape?» ndahasýi oñembohovái hag̃ua «Reipotápa rejapo peteĩ tembiapo?» gui.
 
-## Which household tasks are good to try?
+## Mba'e tembiapo óga pegua oñeha'ãkuaa?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Eñepyrũ tembiapo pe tapicha ojapova'ekue reheve, upéi embojoja ikatúva ojapo ko'ág̃a rehe.
 
-### Laundry and linens
+### Ao ha yvyra ao
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Toalla ha ao ñemboja.** Eme'ẽ chupe peteĩ ajaka ao michĩ ha plano reheve. Toalla ndahasýi: ndaipóri hendáicha vai oñemboja hag̃ua.
+- **Medias ñembojoaju.** Emoĩ peteĩ aty oñembojehe'áva mesa ári. Joaju topa hasýramo ojehecha, eipuru mokõi térã mbohapy sa'y iñambuetéva año.
+- **Ñemomýi ha ñemohenda.** Servilleta, almohada ao térã tembi'u ao ikatu oñemomýi ha oñemohenda. Kóva oiko porã upe rire, oñembojaramo heta tembiapo'ỹ.
 
-### Table and kitchen
+### Mesa ha cocina
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Mesa ñembosako'i.** Emoĩ peteĩ mesa ñembosako'i techaukáramo ha eheja pe tapichápe ojapo haguéicha. Hetaitereíramo, eme'ẽ peteĩ mba'e peteĩteĩ: «Ko'ápe oĩ peteĩ tenedor peteĩteĩ plato-pe g̃uarã.»
+- **Cubierto ñemohenda.** Embojehe'a tenedor, kuimbe ha cuchillo mantequilla ipotĩva peteĩ mba'yrúpe ha emohenda peteĩ tábla oñemboja'ỹvape. Eheja haimbe haimbe'ỹva okápe.
+- **Mba'yrumýi ñemokã.** Plato plástico térã oñembyaíva'ỹva ha peteĩ ao ñanduti ombojapo ko tembiapo oĩporãva.
+- **Mesa térã mostrador ñemopotĩ.** Peteĩ ao hykue ha peteĩ tenda mopotĩ. Alzheimer's Association omombe'u oñeme'ẽkuaa peteĩ ao peteĩ tapicha oñepyrũramo omopotĩ mesa ipo reheve, omoambuévo peteĩ mba'e ojejapo kirirĩ peteĩ mba'e oikóva rehe.
 
-### Around the house
+### Hóga jerére
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Ñemokã.** Peteĩ ñemokãha ñanduti ha mbovymi tenda hatãva, ha'eháicha mesa michĩ térã aranduka renda.
+- **Kuatiañe'ẽ ñemohenda.** Eme'ẽ kuatiañe'ẽ oñemondóva rei ha revista oñemohenda hag̃ua atykuérape: ñongatu, ojepurujey hag̃ua, oñemboja'o upe rire. Eñongatu kuatiañe'ẽ viru rehegua ha cheque ambue tendápe.
+- **Mba'e ojepurujeyva ñemohenda.** Lata, botella ha kuatia ipotĩva mba'yrúpe iñambuévape.
+- **Ñetypei.** Peteĩ escoba michĩ patio térã cocina yvýpe, opyta porãramo oñembo'y.
+- **Yvoty ñemongaru.** Peteĩ regadera michĩ ha ivevúiva ha mbovymi yvoty ndahasýiva ojehupyty.
 
-### Simple cooking with supervision
+### Tembi'u ñembosako'i oñema'ẽ porãva reheve
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Tembi'u ñembosako'i ikatu ogueru jey ñeñandu porã ha hakuaitéva. NIA omombe'u ikatuha oñeheja pe tapichápe ombyaty mba'e oñeikotevẽva, oha'ã, ombojehe'a ha omono'õ, térã he'i ambuépe mba'éichapa oñembosako'i peteĩ tembi'u ohayhúva. Tembiapo porãva ha'e:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- verdura térã yva ñemopotĩ
+- masa térã ensalada ro'ysã ñembojehe'a
+- lechuga ñemboja'o
+- pan tostado mantequilla ñemoĩ peteĩ cuchillo haimbe'ỹva reheve
+- galleta masa ñemoĩ peteĩ bandejápe
+- pizza ári mba'e ñemoĩ
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ñeha'ã hasýramo, Alzheimer's Association omombe'u nde ikatuha rejapo pe ñeha'ã ha upéi eme'ẽ ambue tembiapo'ỹ, ha'eháicha ñembojehe'a.
 
-## How do I set up a chore so it goes well?
+## Mba'éichapa amboguata tembiapo oiko porã hag̃ua?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Eiporavo ára ha aravo iporãva.** Eiporavo pe aravo pe tapicha opytu'u ha opyta py'aguapývape jepi. Hetaitereípe g̃uarã kóva ha'e pyharevekue.
+2. **Emopotĩ pe tenda.** Peteĩ tembiapo, peteĩ tenda, mba'eve ambue mesa ári.
+3. **Eipepirũ, ani emondo.** «Ikatúpa rembohéra che rehe ko'ã mba'ére?» oiko porãve «Ko'ág̃a oñemboja ao.» gui.
+4. **Ehechauka peteĩha.** Eñemboja peteĩ toalla mbeguekatu, upéi eme'ẽ ambue. Ñehechauka hesakãve ñemyesakãgui.
+5. **Eme'ẽ peteĩ tembiapo'ỹ peteĩteĩ.** Heta ñembohape peteĩ jave ikatu omonguerái. Eha'ãrõ peteĩ tembiapo'ỹ opa mboyve emombe'u ambue.
+6. **Emba'apo oñondive.** Pejapo peteĩ tembiapo oñondive oñandu peteĩ jekopyty, ndaha'éi oñema'ẽ hag̃ua.
+7. **Eñe'ẽ pe tembiapo rehe, ndaha'éi pe resultado rehe.** «Ko'ãva imbykyporãiterei» térã «Emombe'umína chéve mba'éichapa reñongatuse ao renda» oñepyrũkuaa ñomongeta oha'ã'ỹre avavépe.
 
-## How do I adapt chores as abilities change?
+## Mba'éichapa amoambue tembiapo ikatúva ojapo oñambuévo?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Ikatúva ojapo iñambue ára jave ha ára peteĩteĩme avei. Alzheimer's Association omombe'u oñehasa hag̃ua tembiapo ndahasýivéva ha ojepojáva meme rehe oñakãrapu'ãvo pe mba'asy.
 
-| If this has become hard | Try this instead |
+| Kóva hasýramo | Eha'ã kóva |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Sábana tuicháva ñemboja | Ao ñemboja michĩ térã servilleta ñemomýi |
+| Mesa tuicháva ñembosako'i | Peteĩ servilleta ñemoĩ peteĩteĩ tendápe |
+| Kuatiañe'ẽ ñemohenda atykuérape | Sobrekuéra ñemohenda peteĩ atýpe |
+| Tembi'u rape ñemoañete | Ñembojehe'a, térã ojehecha ha oñeha'ã che ajapo aja tembi'u |
+| Yvy tuicháva ñetypei | Peteĩ mesa michĩ ñemopotĩ |
+| Pe tembiapo añete | Oguapy nendive ha oĩ nendive reñemba'apóvo |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Ñema'ẽ avei ha'e ñepytyvõ. NIA he'i oĩ tapicha ovy'áva ojehechávo año, ha upéva ha'e peteĩ hendápe porã oñepytyvõ hag̃ua.
 
-## How do I keep household tasks safe?
+## Mba'éichapa amboguata tembiapo óga pegua oĩporã hag̃ua?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Tekorosã oñemotenonde, cocina-pe hetave. [Ñe'ẽtekuaa tekorosã rehegua Alzheimer ñangarekohára-pe g̃uarã](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) NIA ome'ẽva omoinge:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Eñongatu térã emboguýke mba'e pohãiva, detergente cápsula avei, ikatúva ojehecha mbujapéicha.
+- Eñongatu haimbe, tijera ha tembipuru oñembotýva peteĩ tenda oñembotývape.
+- Emoĩ tapa tekorosã ha peteĩ mba'e oñemboty ijeheguíva cocina-pe.
+- Emoĩ marandu «Epyta» térã «Hakueterei» horno, tostadora ha plancha jerére, ani hag̃ua okái.
+- Emoĩ y hakuha 120°F-pe omomichĩ hag̃ua pe oñehai haguã.
+- Emboguýke yva japu ha imán hi'upyva tembi'u rehegua, ikatúva ojehecha hi'úva ramo.
 
-A few more practical habits help:
+Ambue tembiapo porã oipytyvõ avei:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Epyta kotýpe ojepurúvo cocina, horno térã peteĩ tembipuru haimbe'ỹva.
+- Eipuru plato oñembyaíva'ỹva oñemokã ha oñembosako'ívo mesa.
+- Eñongatu yvy ipotĩ ha isỹi oñetypei térã oñemopotĩ aja.
+- Pe tapicha oipurúva'ekue tembipuru, Alzheimer's Association omombe'u oñemboguýkuaa mba'e ikatúva ombyai taller-gui, upéicha ikatu gueteri ojapo tembiapo oĩporãva, ha'eháicha yvyra ñemomýi.
 
-## What if they do it "wrong"?
+## Mba'épa oiko ojaporamo «vai»?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Eheja upéicha. Peteĩ toalla oñembojava mbohapy hendápe mokõi rendaguépe avei toalla oñembojava. Alzheimer's Association he'i hesakãporã: pe tuichavéva ha'e oñeno oñondive ha pe tapicha oñandu oipytyvõha, ndaha'éi toalla oñemboja porãpa. Oĩramo mba'e tekotevẽ añetehápe oñemoĩporã jey, eha'ãrõ upe rire ha ejapo ohecha'ỹme.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Ñemoĩporã ko'ág̃a ikatu omoambue peteĩ tembiapo vy'águi peteĩ mandu'a mba'e okañyva reheguápe. «Aguyje, che pytyvõeterei» ha'e jepi pe oñe'ẽva'erã.
 
-## When should we stop?
+## Araka'épa japytu'u va'erã?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Epyta térã ekambia rehecháramo oñemboyke, kane'õ térã ndohovéima. Japytu'u pya'e ha'e mba'e porã, ndaha'éi jejavy. Ikatu:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- ekambia peteĩ tembiapo'ỹ ndahasýivévape
+- rehasa peteĩ mba'e opytu'úva gotyo, ha'eháicha purahéi térã peteĩ kafe
+- eha'ã jey upe rire térã ambue árape
+- eguapy hendive año
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Pe tapicha he'íramo nahániri, ani emyanyhẽ. Ehecha [mba'épa ejapóta he'íramo nahániri](/caregiving/when-they-say-no/) eikuaa hag̃ua mba'éichapa embohovái mbeguekatu.
 
-## Low-effort extras for a quieter moment
+## Ambue mba'e ndahasýiva peteĩ aravo kirirĩme g̃uarã
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Ndaikatúiramoguáicha ojapo tembiapo, ñemohenda ha ñembojoaju ikatu gueteri ojapo oñeguapývo. [Sort Together](/games/sort-together/) oheja reheja ta'anga aty cocina térã yvotyty rendápe, ha [Picture Pairs](/games/picture-pairs/) ha'e peteĩ ñembosarái joaju rehegua kirirĩ, ta'anga tuicháva reheve ha aravo'ỹre. [Conversation Cards](/games/conversation-cards/) oguereko porandu juruja óga ha familia rehegua oiko porãva peteĩ kafe ndive opa rire pe tembiapo.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Eikotevẽvérõ pytyvõ emohenda hag̃ua tembiapo ára pukukue, ehecha ore ñembohape [ára jeporu py'aguapýva rehegua](/activities/daily-routine/). Eikotevẽvérõ ambue tembiporu peteĩteĩ etapa rehegua, ehecha [tembiapo etapa mbytepegua](/activities/middle-stage/).

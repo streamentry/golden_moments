@@ -1,33 +1,31 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Ñe'ẽmondyi mba'eichapa oñe'ẽta tapicha dementia reheve"
+seoTitle: "Dementia ñe'ẽmondyi: mba'e jeýpa ha mba'e ne'ĩrã"
+description: "Mba'e ojapokuaa ñane ñe'ẽ ndojehejáiva: mba'éichapa oñemboheko ñomongeta, mba'e jeýpa eñe'ẽ hag̃ua ha mba'éichapa ehendu."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Eñe'ẽ tenda ijyke'ỹre, eñemboja'o, eipuru ava réra, ha eñe'ẽ pya'e'ỹ ha ñe'ẽsyi'ỹme.
+  Eporandu peteĩ ñe'ẽme año, eipuru mokõi jeporavo ñe'ẽndy jurure hag̃ua, ha eha'arõ hetave mba'e he'ise hag̃uáicha.
+  Ani eñorairõ, embohovái térã eporandu mba'e oikóvagui. Embohovái tembiaporã ojehechaukáva ñe'ẽme, ha eipuru jepokuaa, ta'anga ha jehechauka ñe'ẽ oho jeývo.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Embogue mbaraka ha eñomboja'o eñe'ẽ mboyve."
+  - "Eipuru ñe'ẽsyi, peteĩ tembiaporã año, ha réra avei he, ha, ha'ekuéra rendaguépe."
+  - "Eme'ẽ mokõi jeporavo térã porandu 'heẽ térã nahániri', porandu ijururekuéva rendaguépe."
+  - "Eha'arõ mbohovái. Nderehecháirõ, embojevy peteĩ ñe'ẽ año, upéi eñe'ẽ ambue ñe'ẽme."
+  - "Ani eñorairõ térã embohovái. Embohovái tembiaporã ohechaukáva ñe'ẽme."
+  - "Ñe'ẽ oho jeývo, eñe'ẽ jepokuaa, ñe'ẽmba'e, techaukaha ha ta'anga reheve."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Mba'e ndaikatúi ajapo tapicha dementia reheve oñomongetakuévo?"
+    a: "Ani eporandu (\"¿Eremembera...?\") , ani embohovái jejavy (\"Oĩvai\"), ani eremi ohasámava rehe (\"Aipota ayeséva\"), ha ani eñe'ẽ hese peteĩva ndaha'éirõ oĩhápe. Ani eñe'ẽ mitãramo. Kóva ikatu ombohasy térã ombyasy hese, ha ndikatúi nepytyvõ."
+  - q: "¿Akatúva ajapo ojejavy hag̃ua mba'e?"
+    a: "Jepémo nahániri. Oĩramo jejavy ndaikatúiva ombyai, ehejarei. Ñorairõ ndikatúi omboguevi peteĩ tapicha jepensar, ha ikatu ombohory. Emba'apo tembiaporã ohechaukáva hese ha mba'e oikotevẽ ko'ág̃a."
+  - q: "¿Mba'épa ajapóta ndaikatúiramo ojejuhu ñe'ẽ?"
+    a: "Emoĩ aravo raẽ. Ojejerure heta jave, ikatu eipytyvõ ñe'ẽve térã ehecha mba'épa he'ise ha eporandu. Jepokuaa, jehechauka ha ta'anga avei nepytyvõkua."
+  - q: "¿Mba'épa ajapóta tapicha dementia pahápe, ñe'ẽ sa'ivéva?"
+    a: "Eju tenonde gotyo, eremi nde réra, eipuru ñe'ẽmbarete ha jepokuaa mbegue. Ehecha rova ha tetekuéra ohechauka mba'épa oikuaa. Ne reñói, purahéi ojekuaáva térã ñepokuaa ndaha'éi ñe'ẽ rupive avei ikatu nehechauka."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +41,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia ikatu ombyai ñe'ẽ jeheka, ñe'ẽ jepi jehayhu, térã mbaraka ñemohenda. Kóva ndaha'éi he'ise tapicha nomomba'éiha jehe'a. Ñemoambue michĩva ñomongeta rupyty, ñe'ẽ ha ehendu rupive ikatu omombegue ha omokyre'ỹ ñe'ẽ mokõive.
 
-## What are the most important tips for talking with someone who has dementia?
+## Mba'eveichapa nepytyvõkuaa añetehápe eñe'ẽ hag̃ua tapicha dementia reheve?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Eñepytyvõ chupe, eñe'ẽ michĩme, ha eha'arõ. Nde reñembyatýramo po mba'e año:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Emombytu'u tenda ha eñemboja'o.** Embogue televisor, eguapy ojoheguápe, ha eipuru héra.
+2. **Eñe'ẽ peteĩ ñe'ẽme año.** Ñe'ẽsyi, peteĩ tembiaporã, peteĩ porandu.
+3. **Eme'ẽ mokõi jeporavo.** "Kaká térã café?" ndahasyiete "Mba'épa reipotavéva?"
+4. **Eha'arõ.** Eme'ẽ aravo hetave mbohovái hag̃ua nde reikuaávaicha, ha ani ereheja.
+5. **Ani eñorairõ térã eporandu mba'e oikóvagui.** Embohovái mba'éicha ohechakuaa, ndaha'éi oĩporãpa mba'éichapa oiko.
 
-## How should I start a conversation?
+## Mba'éichapa amboheko ñomongeta?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Emboheko mba'e oñe'ẽ hag̃ua chupe. Pe [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) he'i embogue raẽ mbaraka: embogue radio térã televisor, emboty ovetã térã koty, térã eho tenda ijyke'ỹvépe.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Eju tenonde gotyo.** Tapykuépe térã yke gotyo ju jepeju ikatu omombarete.
+- **Eremi nde réra.** "Mba'éichapa Dad, ha'e Sarah, nememby kuña." Kóva neheja chupe nderehekavéima nde réra.
+- **Eñemoĩ ojoheguápe.** Oguapýramo, eguapy térã eñekunu'ũ oñondive ijyva ojoheguápe.
+- **Ehecha rova ha ñe'ẽmba'e.** Pe [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) he'i eñangareko ñe'ẽmba'e, pu'aka, rova ha tetekuéra, ha eñe'ẽ mbegue, hekokatu ha ñembohoryme.
+- **Ehecha ojeporúva ta'anga ha ohendúva.** Ndahasyiete oñomongeta nderehecháiramo ha nderehendúiramo porã.
 
-## How should I phrase what I say?
+## Mba'éichapa aipuru ñe'ẽ?
 
-Use simple words, short sentences and a calm, low voice.
+Eipuru ñe'ẽ michĩ, ñe'ẽsyi ha ñe'ẽ mbegue, ijyva'yre.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Peteĩ tembiaporã ñe'ẽme año.** "Jaha ñañemondy ao. Upéi jajaha okápe." Ndaha'éi mokõi ñe'ẽme año.
+- **Eipuru réra, pronombre rendaguépe.** "Tía Jean oñomongeta" hekoporãve "Ha'e oñomongeta" gui.
+- **Eipuru ñe'ẽ ijyva'yre, ndaha'éi pu'akave.** Family Caregiver Alliance he'i iporãve ñe'ẽ ijyva'yre eipuru pu'aka.
+- **Embojevy, upéi emboambue ñe'ẽ.** Ndohecháiramo, embojevy peteĩ jey ñe'ẽ peteĩcha. Ndikatúiramo, eha'arõ ha eipuru ambue ñe'ẽ.
+- **Ehechauka ha eñe'ẽ avei.** Ehecha kupa rehe, emoĩ mokõi ao rehe, térã ehechauka peteĩ paso raẽ.
+- **Eñe'ẽ chupe, ndaha'éi hese.** NIA he'i ani eñe'ẽ tapicha rehe peteĩva ndaha'éirõ oĩhápe, ha ani eñe'ẽ mitãramo.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA he'i ikatu eipuru porandu michĩvéva. Ko'ã techapyrã:
 
-| Instead of | Try |
+| Térã | Eipuru kóva |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Mba'épa reipotavéva tembi'u hag̃ua?" | "Pira térã gallina reipotápa?" |
+| "Mba'éichapa reñe'ẽ?" | "Rekypáva térã nahániri?" |
+| "Rekai térã nahániri?" | "Tembi'u oĩma aravo po rire." |
+| "Ndaha'éi péicha." | "Jaha ko'ápe jajapo." |
+| "¿Eremembera ñande viaje yguasu rehe?" | "Aimo'ã ñande viaje yguasu rehe. Eremi mba'épa erechaukavéva chupe." |
+| "Aipota ayeséva." | Embohovái jey, kuarahy'ãme, peteĩhaichaite. |
 
-## How do I listen well?
+## Mba'éichapa ahendu porã?
 
-Listen for the meaning and the feeling, not just the words.
+Ahendu he'iséva ha tembiaporã ohechaukáva, ndaha'éi ñe'ẽ año.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Eha'arõ.** Kirirĩha ikatu he'ise omoheñói. Ehesa'ỹijo po aravo mboyve emoinge.
+- **Eme'ẽ ñe'ẽ ojejuhu'ỹ jave año.** Family Caregiver Alliance he'i porã eipytyvõ ñe'ẽve ojejerure jave.
+- **Ehecha mba'épa rehendu.** [Alzheimer's Association ñe'ẽmondyi](https://www.alz.org/help-support/caregiving/daily-care/communications) he'i ehecha he'iséva ñe'ẽme ha embojevy eporandu hag̃ua "Rembyasy kára rehe?"
+- **Ehecha rova ha tetekuéra.** Ñe'ẽ oho jeývo, NIA he'i rova ikatu ohechauka vy'a'ỹ, pi'a ha py'apyve ñe'ẽgui.
+- **Eñembohovái py'apyre.** Jepémo oúva jejavy rehe, tembiaporã ohechaukáva añete.
 
-## What if they say something that is not true?
+## Mba'épa ajapóta he'ívo mba'e ndoikóiva?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ani eñorairõ. Nderohendúi, ha ikatu ombyasy térã ombopy'apy tapicha. Eñemboja'o tembiaporã rehe, upéi emokyre'ỹ.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance he'i emombe'u raẽ tembiaporã, upéi emokyre'ỹ. Techapyrã, sy he'ívo ohoha mitãnguéra mbo'ehaópe:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Térã: "Sy, nemitãnguéra oñemoarandu. Poteĩ ára ohasa."
+- Porãve: "Tavete nde mitãndy. Eremi mba'éicha eho hikuái. Jaha ñañembosako'i tembi'u raẽ."
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association avei he'i ani eñorairõ ñe'ẽ nderehechaporãiramo. Eporavo aravo: mba'e oĩramo jejavy ndoikóiramo, ehejarei año.
 
-## How does communication change as dementia progresses?
+## Mba'éichapa oñemoambue ñe'ẽmondyi dementia oho jeývo?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Oikotevẽ oñemoambue, ha upévare emboheko nde jehecha. Alzheimer's Association omoĩ mbohapy peteĩháva:
 
-| Stage | What helps |
+| Etapa | Mba'épa nepytyvõ |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Peve | Ani eimo'ã ndaikatúi oñomongeta. Emoinge ñomongetápe, eñe'ẽ chupe, eporandu mba'épa oikotevẽ, ha eipuru humor porãramo. |
+| Mbyte | Peteĩ oñondive tenda ijyke'ỹpe. Eñe'ẽ mbegue, eñomboja'o, eipuru porandu heẽ/nahániri, emombe'u paso paso, ha ani ere jevy térã embohovái. |
+| Paha | Eju tenonde gotyo ha eremi nde réra. Eipytyvõ jepokuaa ha jehechauka. Eipuru jepokuaa, ñe'ẽ, techaukaha ha hũ. Ani eñe'ẽ hese peteĩva ndaha'éirõ oĩhápe. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Tapicha peteĩteĩva iñambue, ha peteĩ tapicha ikatu oĩ porã ha oĩ hasy ára. Embohovái ko'ág̃a oĩháicha, ndaha'éi ñe'ẽ rendaguépe.
 
-## Can pictures and activities make conversation easier?
+## ¿Ikatu ta'anga ha tembiapo nepytyvõ ñomongetápe?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Hẽe. Ta'anga peteĩva neheja py'apy'ỹ ha ome'ẽ mba'e oñe'ẽ hag̃ua mokõive.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ta'anga ñe'ẽmondyi.** [Conversation Cards](/games/conversation-cards/) ome'ẽ ta'anga porandu ndaha'éiva porandu mba'e oikóvagui.
+- **Ñane rogaygua ta'anga.** [Photo Pairs](/games/photo-pairs/) ojapo ta'anga rejeporavóva jokoha michĩme, ha kóva ikatu omoñepyrũ mba'e remomandu'ávagui.
+- **Ñe'ẽ ojekuaáva.** [Finish the Saying](/games/finish-the-saying/) oipuru ñe'ẽ ojekuaáva Estados Unidos pegua, upéi porandu ñe'ẽmondyi.
+- **Jokoha ta'anga.** [Picture Pairs](/games/picture-pairs/) ome'ẽ po tembiapo oñomongetávo.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Ehecha [mba'éichapa jajapo juego oñondive](/caregiving/how-to-play-together/) ha [tembiapo momandu'ã rehegua](/activities/reminiscence/) hetave hag̃ua. Tembiaporã ha ñe'ẽ porãngue, eñe'ẽ [tembiaporã ñembosarái](/activities/visiting/) ha [telefone ha video ñe'ẽ](/activities/phone-and-video-calls/) rehe.
 
-## What if I lose my patience?
+## Mba'épa ajapóta ndikatúiramo ahayhuve?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Oiko opavavépe. NIA he'i nderehayhuvéiramo, eho tenda ambuépe, eñe'ẽ mbegue, ha eju jey reñembovy'a'ỹ rire. Ikatu reñepyrũ jey ñomongeta, ha tapicha ikatu ombohovái nde ñe'ẽmbegueve. Oiko jepi py'apy, kóva he'ise reikotevẽ pytyvõ, ndaha'éi nde reñembyai. Ñane guía [caregiver self-care](/caregiving/caregiver-self-care/) ome'ẽ tenda rehova hag̃ua.

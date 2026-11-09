@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Tembiapo aty rehegua demencia ndive: ñemongu'e"
+seoTitle: "Tembiapo aty rehegua demencia ndive: bingo ha purahéi"
+description: "Tembiapo aty rehegua ñangareko ha tembiaporãrenda-pe g̃uarã: ta'anga bingo, purahéi oñembopu ha ñomongeta, oñeñangareko hag̃ua jehechauka ha aty tuichakue rehe."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Tembiapo aty iporãva ñangareko ha tembiaporãrenda-pe ikatu ha'e mbykymi,
+  ojekuaáva ha ndahasýi oike hag̃ua opaichagua rupi: ta'anga bingo, purahéi
+  oñembopu, ñomongeta aty, jeku'e mbegue ha ñe'ẽ ñembosarái oñondive. Eñongatu
+  aty michĩmi ikatúramo, emoguapy mayma ohecha ha ohendu hag̃ua, eme'ẽ peteĩ
+  jeku'e hesakãva peteĩteĩ, ha embohysýi peteĩ rape ndahasýiva ha peteĩ tape
+  osẽ hag̃ua kirirĩhápe oikotevẽvape g̃uarã.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Aty michĩvéva ikatu oiko porãve peteĩ tembiaporã tuichaitereíva rangue, ha omoneĩ hetave tapicha oike hag̃ua tembiapópe, ndaha'éi ohecha añoite."
+  - "Emoguapy tapichakuéra jerehápe térã kavaju ryepýpe, mbo'ehára ykére, oñeñangareko hag̃ua ohendu ha ohecha rehe ha oñembogue hag̃ua tyapu ambue."
+  - "Emoĩ tembiapo peteĩteĩ mokõi térã mbohapy hendápe, ikatu hag̃uáicha opaichagua katupyry rehegua tapicha oike oñondive."
+  - "Ani eporandu, ani embohéra térã eiporavo ohasa hag̃ua. Ta'anga bingo ikatu oñemboguata opavave ohupytývo ikuatia henyhẽva."
+  - "Osẽ voive, ohecha térã oke sapy'a rei ndaipóri vai. Eguereko peteĩ tapicha pytyvõha oĩmbáma omba'apo hag̃ua oipotávape g̃uarã peteĩ tenda kirirĩve."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Mboy tapicha iporã peteĩ aty demencia rehegua tembiaporãme g̃uarã?"
+    a: "Ndaipóri peteĩ papapy hekopete, ha odepende oikoháre, koty rehe ha mboy tapicha pytyvõha oĩre. Heta aty ohupyty aty michĩvévape opavave ohecha, ohendu ha oike hag̃ua, péicha tembiaporã koty tuichávape hetave tapicha ohecha añoite. Emoĩramo tembiaporã tuicháva, emoĩve tapicha pytyvõha térã oipytyvõséva oguapýva tapichakuéra apytépe ha oipytyvõ hag̃ua peteĩ térã mokõime."
+  - q: "Mba'éichapa aikuaa tembiapo aty opaichagua katupyry rehegua ndive?"
+    a: "Emoĩ hetave hendáicha ikatu oike tembiapo peteĩteĩme. Purahéi oñembopu aja, oĩ opurahéiva opa ñe'ẽ, oĩ ojepokóva térã oñe'ẽngurúva, ha oĩ ojagarraíva peteĩ mba'e otyapúva. Ta'anga bingo-pe, oĩ ojuhúva ita'anga, péicha peteĩ pytyvõha ohechauka ambuépe g̃uarã. Emoguapy oikotevẽvéva pytyvõ peteĩ tapicha pytyvõha térã oipytyvõséva ykére."
+  - q: "Mba'éichapa añembosarái ta'anga bingo ani hag̃ua oñembohéra?"
+    a: "Ehenói opa ta'anga peve opavave ikuatia henyhẽ peve, péicha avave ndojehejái okápe. Eñe'ẽ peteĩteĩ ta'anga rehe osẽvo, ha ani eme'ẽ mba'e ohasa hag̃ua, térã eme'ẽ opavavépe peteĩ mba'e michĩ peteĩchagua. Pe tuichaite ha'e oñondive oñema'ẽ ha oñeñomongeta, ndaha'éi mávapa oho raẽve."
+  - q: "Ikatúpa aiporu pende tembiaporã peteĩ ta'anga tuichávape aty ndive?"
+    a: "Ikatu. Ore tembiaporã oiko peteĩ ñanduti kundahárape, upévare ikatu eipe'a peteĩ computadora térã tableta-pe oñembojoajúva tele térã proyector rehe. Ta'anga bingo oguereko kuatia ikatu oñemboguapy ha peteĩ ohenóiva ta'angápe. Osẽ porã avei ta'anga tuichávape: Pe ñe'ẽ oñemohu'ãva ha Ta'anga joaju, peteĩ tapicha ojopóvo aty rérape."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ko ñemongu'e ojejapo tembiaporã moakãha, aty ñangarekohára ha tembiaporãrenda moakãha-pe g̃uarã. Oñe'ẽ tembiapo aty rehegua oikóva, koty ñembosako'i rehe, peteĩ tembiapo ñembojoaju opaichagua katupyry rehegua ndive, ha mba'éichapa ikatu eiporu ore kuatia bingo ha tembiaporã ta'anga tuichávape. Opa ko'ápe oñeha'ã teko py'aguapy, joaju ha jeporavo rehe. Ndaipóri ko'ápe mba'eve aranduchauka.
 
-## What makes a group activity work in memory care?
+## Mba'épa ojapo peteĩ tembiapo aty oiko porã hag̃ua demencia ñangarekópe?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Peteĩ tembiapo aty iporãva ha'e ojekuaáva, mbykymi, ndahasýi oike hag̃ua opaichagua rupi ha oĩva jejopy'ỹre. [Alzheimer's Association Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) omombe'u pe jepysokue he'iséva oipytyvõ tapicha rembipota ha oipotáva rehe, ha omoneĩ jeporavo ha osẽ porã, jepe demencia hatãvéramo jepe. Upe kuatia avei he'i heta tembiaporã tuichaitereíva oiporu peteĩ térã mokõi tembiapo tuicháva ára peteĩme, ha upepe tapichakuéra hetajey oike sapy'aite añoite.
 
-That points to a few practical rules:
+Upéva ohechauka peteĩva tembiapo ikatu hag̃uáicha:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Ojekuaáva iporãve peteĩ pyahúgui.** Purahéi, ñe'ẽ, ta'anga ha mba'e tapichakuéra imitã guaregua ndive ndahasýive oike.
+- **Mbykymi iporãve pukúgui.** Eplanifika nde aty ojeroviaha peve, ha emoĩ peteĩ pa'ũ ikatu hag̃uáicha oñepyta mbyte rupi.
+- **Ojapo iporãve ohecha rangue.** Eme'ẽ mayma peteĩ mba'e ojagarra, ojopy, oiporavo térã he'i hag̃ua.
+- **Heta hendáicha, peteĩ tembiapo.** Emoĩ hendáicha ndahasýiva ha hasyvéva oike hag̃ua.
+- **Ani oĩ ohasáva, ani oĩ papapy.** Ñembohéra oheja ambuépe oñeñandu vaiete ohayhúramoguáicha.
 
-## How big should the group be?
+## Mboy tapicha iporã pe atýpe g̃uarã?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Michĩvéva jepive ndahasyive. Alzheimer's Association he'i peteĩ tapicha ohayhu'ỹva aty tuicháva ikatu oñeñomongeta porãve aty michĩvévape. Ndaipóri peteĩ papapy hekopete. Odepende oikoháre, koty rehe ha mboy tapicha pytyvõha ha oipytyvõséva oĩre.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Peteĩ aranduchauka oipytyvõva: ikatúpa mayma ohecha mbo'ehára rova, ohendu hesakã ha oĩ peteĩ pytyvõha oğuahẽkuaáva chupekuéra pya'e? Ndikatúiramo, emboja'o pe aty, emoĩve pytyvõha, térã eho peteĩ koty michĩvévape.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Tembiaporã tuichávape, peteĩ karuaguasu aja, emoguapy tapicha pytyvõha ha oipytyvõséva tapichakuéra apytépe, ndaha'éi ykére añoite.
 
-## How should I set up the room and seating?
+## Mba'éichapa añembosako'i koty ha jehechauka?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Jerehápe térã kavaju ryepýpe.** Tembiapo ñemomandu'a he'i pe aty jerehápe oiko porãve peteĩ tendápe tuichaiterei mayma oguapy hag̃ua jerehápe, tyapu ambue'ỹre.
+- **Mbo'ehára hi'aguĩ ha tesa ykére.** Eguapy ikatúramo, ani eñembo'y.
+- **Ñehendu ha jehecha raẽ.** Emoguapy nahenduporãiva mbo'ehára ykére, ijyke iporãvéva gotyo. Ehecha hag̃ua oñemoĩ hague tesa renondaha ha ñehenduha. Alzheimer's Association he'i jehecha ha ñehendu apañuái ikatu ombohasyve ñomongeta.
+- **Tendy tapichakuéra huguýgui, ndaha'éi nde huguýgui.** Ani emoguapy avave ohechátava peteĩ ovetã tesape.
+- **Embogue tele ha radio.** Alzheimer's Association he'i ani oĩ tyapu ambue tembiapo purahéi aja.
+- **Peteĩ ñomongeta peteĩ jave.** Ñe'ẽ oñondivepa hasy tapicha oikovévape demencia reheve ha nahenduporãivape g̃uarã, he'i haguéicha Alzheimer's Association iñemomandu'ápe [arete rehegua](https://www.alz.org/help-support/caregiving/holidays).
+- **Tape osẽ hag̃ua hesakã ha peteĩ tenda kirirĩ.** Oimeraẽ oipotáva osẽ ikatu oho ndahasýi, peteĩ tapicha pytyvõha ndive.
 
-## Group activity ideas
+## Tembiapo aty rehegua ñepytyvõ
 
-### Picture bingo
+### Ta'anga bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Ta'anga bingo omoambue papapy ta'anga hesakãvare, peteĩ kambuchí, jagua térã poty ichagua, péicha avave noikotevẽi ohapykueho peteĩ papapy puku térã omoñe'ẽ tai michĩ.
 
-**How to run it:**
+**Mba'éichapa oñemboguata:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Emonguatia peteĩ kuatia tapicha peteĩteĩme ore [Ta'anga bingo](/games/picture-bingo/) roguépe pe votõ Ñemboguapy rupive. Kuatia hatãve ndahasýive oñembyaty. Ikatu oñemboty ojeporu jey hag̃ua.
+2. Eme'ẽ techaukaha ndahasýiva ojagarra hag̃ua, poker chip, botella ñemboty térã kuatia oñembo'ai va'ekue ichagua.
+3. Eiporu pe ohenóiva ta'angápe tele térã proyector-pe opavave ohecha hag̃ua ta'anga rehenóivo héra.
+4. Epyta sapy'a ta'anga peteĩteĩ rire ha eipepirũ peteĩ ñe'ẽ mbykymi: «Oĩpa omombe'uséva peteĩ jagua oikuaa va'ekue rehe?» térã «Mba'épa pehecha ko'ápe?»
+5. Ehenói meme opa kuatia henyhẽ peve. Opavave ohupyty opa.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Ñembojoaju:** Eiporu sa'y michĩve oimeraẽ ohayhu'ỹvape g̃uarã kuatia henyhẽva. Peteĩ pytyvõha ikatu ohechauka ta'anga ojoajúva oikotevẽvape g̃uarã. Ambue ikatu oipota ojagarra pe ta'anga ohenóiva ha ohechauka atýpe.
 
-### Sing-alongs
+### Purahéi oñembopu
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Purahéi ha'e peteĩ tembiapo aty ojehayhuvéva. Alzheimer's Association he'i jepe pe etapa pahaitevévape, peteĩ tapicha ikatu [ojepokokuaa peteĩ purahéi térã opurahéi peteĩ purahéi imitã guare](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Mba'éichapa oñemboguata:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Eiporavo purahéi tapichakuéra imitãme ohendu va'ekue, ndaha'éi mbo'ehára oipotáva. Eporandu hogayguakuérape mba'épa ojehayhu peteĩteĩme.
+- Eiporu purahéi marandu'ỹre, Alzheimer's Association he'i ikatuha ombojehe'a.
+- Emonguatia ñe'ẽ purahéi tuichaiterei omoñe'ẽsévape g̃uarã, ha katu ani ejerure.
+- Eme'ẽ mba'e otyapúva, tambor popegua térã ao michĩ omomýi hag̃ua.
+- Emokyre'ỹ ojepoko ha jeku'e rehe, ha eñongatu tyapu py'aguapýpe.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Ñembojoaju:** Oĩ opurahéitava opa ñe'ẽ, oĩ oñe'ẽngurutava, oĩ ojepokotava ipy rehe, ha oĩ ohendútava añoite. Opa ko'ã ovale. Ehechave ore [ñemongu'e tembiapo purahéi rehegua](/activities/music/)-pe.
 
-### Reminiscence groups
+### Ñomongeta aty yma guare rehe
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Ñomongeta aty yma guare rehe oñembyaty peteĩ téma jerére, mbo'ehao ára, peteĩha mba'yrumýi, kosina térã araroku, oipurúvo ta'anga, mba'e ha purahéi. Pe jeheka ha'e ñomongeta vy'apavẽ, ndaha'éi nemandu'a hekopete.
 
-**How to run it:**
+**Mba'éichapa oñemboguata:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Eiporavo peteĩ téma ha eru peteĩva mba'e tapichakuéra ikatu ojagarra hag̃ua: peteĩ jehe'a popegua, peteĩ béisbol guante, peteĩ akãrague, peteĩ yvoty ñemitỹ kuatiañe'ẽ.
+2. Ehasa peteĩ mba'e peteĩ jave. Eporandu juruja: «Emombe'u chéve kóva rehe», «Mba'épa rehecha?» «Mávapa oiporu peteĩ mba'e kóicha?»
+3. Emog̃uahẽ porã opa mbohovái. Ani emyatyrõ arange térã mba'e hekopete.
+4. Eguata ñomongeta mandu'a vy'apavẽ gotyo. Tembiapo ñemomandu'a he'i tapicha ñangarekohára ikatu ogueraha mandu'a vy'apavẽ gotyo, ani umi ikatúva ombyai py'a.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Ñomongeta kuatia](/games/conversation-cards/) ome'ẽ kuatia ta'angáva oñemboguapykuaáva porandu juruja reheve téma rupive, oiko porãva ñepyrũ hag̃ua ñomongeta. Hetave ñe'ẽpytyvõ oĩ ore [ñemongu'e mandu'a yma guare rehegua](/activities/reminiscence/)-pe.
 
-### Finish the saying
+### Emoĩ pe ñe'ẽ oñemohu'ãva
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Ñe'ẽ ojekuaáva («Peteĩ mbujape ñongatupyre ha'e peteĩ mbujape...») oipepirũ opavave ombohovái hag̃ua oñondive pe paha. Ehechauka [Pe ñe'ẽ oñemohu'ãva](/games/finish-the-saying/) ta'anga tuichávape ha eheja atýpe ombohovái peteĩ ñe'ẽme. Oĩ peteĩ porandu ñomongeta rehegua peteĩteĩ ñe'ẽ rire. Avave nombohovoíramo pe paha, ehechauka ha eku'e tenonde. Ndaipóri hekopete térã vai.
 
-### Large-print word search, together
+### Ñe'ẽ jeheka tuichaiterei oñondive
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Ehechauka [Ñe'ẽ jeheka](/games/word-search/) ta'anga tuichaiterei peteĩ ta'angápe ha eheka ñe'ẽ aty ramo, térã emonguatia umi ohayhúvape g̃uarã omba'apo hag̃ua mesa ári. Ñe'ẽ oho akatúa ha yvýpe gotyo añoite.
 
-### Gentle movement
+### Jeku'e mbegue
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Jeipyso mbegue oguapývo, peteĩ apu'a térã globo mbegue ñembohasa, térã jeroky apyka ári purahéi ojekuaáva reheve. Ehechauka peteĩteĩ jeku'e, ani emombe'u añoite.
 
-### Sorting and matching at the table
+### Ñemohenda ha ñembojoaju mesa ári
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Mesa michĩ mbohapy térã irundy tapicha rehegua ikatu omohenda ta'anga, ao pehẽngue térã tembiporu mesa rehegua oñondive. Ta'angápe, [Ta'anga joaju](/games/picture-pairs/) ikatu oñembosarái ta'anga ohechaukáva, peteĩ tapicha ojopóvo mesa oñe'ẽvo ta'anga peteĩteĩ rehe.
 
-## How do I use your games on a big screen?
+## Mba'éichapa aiporu pende tembiaporã ta'anga tuichávape?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ore tembiaporã oiko peteĩ ñanduti kundahárape, upévare ikatu eiporu tele térã proyector-pe emoĩ'ỹre mba'eve.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Eipe'a tembiaporã peteĩ computadora térã tableta-pe oñembojoajúva ta'angápe cable térã ñemondo rupive.
+2. Ejapo pe kundahára tuichaiterei ha emohenda tyapu py'aguapýpe.
+3. Peteĩ moakãha ojopy ha pe aty ohenói oiporavóva. Térã embohasa peteĩ tableta oipotávape g̃uarã peteĩ jey.
+4. Epyta pe aty oĩmbáma vove. Umi tembiaporã ndorekói aravo ñongatuha, papapy térã ñemohu'ã jerurepyre.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Ta'anga bingo](/games/picture-bingo/), [Pe ñe'ẽ oñemohu'ãva](/games/finish-the-saying/), [Ta'anga joaju](/games/picture-pairs/) ha [Ñomongeta kuatia](/games/conversation-cards/) oiko porãve aty ndive. Ehecha opa hendáicha ore [tembiaporã roguépe](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Mba'éichapa ambojoaju peteĩ tembiaporã opaichagua katupyry rehegua ndive?
 
-Plan at least three ways to join every activity.
+Emoĩ michĩveháicha mbohapy hendáicha oike hag̃ua tembiapo peteĩteĩme.
 
-| Activity | More independent | Some support | Most support |
+| Tembiaporã | Ijeheguíva | Pytyvõ michĩmi | Pytyvõ hetave |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Ta'anga bingo | Ojuhu ha ohupi ita'anga | Pytyvõha ohechauka; tapicha ohupi | Ojagarra peteĩ ta'anga kuatia; ohendu ha ohecha |
+| Purahéi oñembopu | Opurahéi, oiporavo purahéi tenondegua | Oñe'ẽnguru, ojepoko, oiporu mba'e otyapúva | Ohendu, ojagarra peteĩ ao michĩ, ojepoko ipo |
+| Ñomongeta yma guare | Omombe'u tembiasakue | Ombohovái heẽ térã nahániri térã ohechauka | Ojagarra ha oñandu pe mba'e |
+| Ñe'ẽ jeheka | Omba'apo ikuatia rehe | Ojuhu ñe'ẽ ta'anga tuichávape peteĩ pytyvõha ndive | Ohendu oñemoñe'ẽvo ñe'ẽ |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Tapicha etapa pahaitépe oĩvape g̃uarã, NHS he'i tembiapo tekotevẽ jepive ndahasýive ha oñema'ẽve hag̃ua andu rehe, purahéi, mba'e oñeñandúva ha po ñepichy ichagua. Peteĩ jave mokõi tapicha ndive aty aja térã rire ikatu oiko porãve chupekuéra g̃uarã pe aty guive. Ehecha [tembiapo etapa pahaite rehegua](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Mba'éichapa oñe'ẽva'erã moakãha aty aja?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Ejehechauka peteĩteĩ jey, ha eiporu peteĩteĩ héra oipotaháicha.
+- Eñe'ẽ mbeguekatu, eme'ẽ peteĩ jeku'e peteĩ jave, ha ehechauka raẽ emombe'u mboyve.
+- Eporandu juruja («Emombe'u chéve...») térã poravo ndahasýi, ani aranduchauka («Nemandu'ápa...?»).
+- Ani emyatyrõ. Eaguyje maymáva ikatupyry rehe.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Hetave ko'ãva rehegua oĩ ore [ñomongeta ñepytyvõ](/caregiving/communication-tips/)-pe.
 
-## Ending well, and letting people leave
+## Ñemohu'ã porã ha tapichakuérape osẽ hag̃ua
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Ñepyta ha'e peteĩ mba'e porã. Emaña hag̃ua oĩpa kane'õva, ndoikói kirirĩ térã oñeñandu vai, ha eguereko peteĩ pytyvõha ome'ẽ hag̃ua peteĩ jeku'e térã peteĩ jehechauka kirirĩ ambue tendápe. Peteĩ tapicha oke sapy'a purahéi aja ikatu oĩ py'aguapýpe añoite.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Emohu'ã opa aty peteĩchaite, peteĩ purahéi ojekuaáva térã peteĩ aguyje mbykymi reheve, péicha pe paha oñeñandu kirirĩ ha ojeha'arõva. Upéi rire, ehai michĩmi mba'épa oiko porã ha mávapa ovy'a mba'e rehe. Umi jehaipyre ojapo pe tembiapo tenondegua iporãve.

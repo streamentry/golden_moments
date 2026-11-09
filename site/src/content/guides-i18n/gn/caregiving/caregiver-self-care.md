@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Eñangareko ndejehe: pytu'u, pytyvõ ha kane'õ jehechauka"
+seoTitle: "Ñangarekohára ñangareko ijehe: pytu'u ha pytyvõ"
+description: "Mba'éichapa ojehechakuaa ñangarekohára kane'õ, moõpa ojuhukuaa pytu'u ha aty pytyvõha, ha pumbyry EE.UU.-pe reigua, Alzheimer's Association 24/7 Helpline ha Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Hasy oñangareko peteĩ tapicha oikovévape demencia reheve, ha eñangareko
+  ndejehe avei pe tembiapo peteĩ vore. Emaña umi jehechauka ikatúva oĩva,
+  techapyrã kane'õ, pochy, ke vai ha jeipe'a angirũnguágui. Ejerure pytyvõ
+  tembiapo hesakãvape, eipuru pytu'u ñangarekópe g̃uarã, ha eike peteĩ aty
+  pytyvõhápe. EE.UU.-pe oĩ pytyvõ rei: Alzheimer's Association 24/7 Helpline
+  1-800-272-3900-pe ha Eldercare Locator 1-800-677-1116-pe.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Kane'õ ojehechakuaa jepi kane'õ, pochy, ke vai, ñembyasy ha nde rekove resãi jeheja rupi."
+  - "Pytu'u ñangarekópe g̃uarã ome'ẽ ndéve peteĩ pytu'u, aravo'ígui heta arapokõindy peve, nde rógape térã peteĩ tenda ñangarekoha."
+  - "Ejerure pytyvõ tembiapo hesakãvape; heta tapicha oipytyvõse, ha ndikatúi oikuaa mba'éichapa."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) ome'ẽ pytyvõ rei ha ñemi, ára ha pyhare."
+  - "Eldercare Locator (1-800-677-1116) ombojoaju nde pytyvõha tendaguávare, nde Area Agency on Aging avei."
+  - "Reñandu ramo tekotevẽ vai, ehenói térã emondo ñe'ẽ 988-pe. Oĩramo mba'e iñemergénte, ehenói 911-pe."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Mba'épa umi jehechauka ñangarekohára kane'õ rehegua?"
+    a: "Umi jehechauka ojehechavéva ha'e kane'õ, ijetu'ueterei térã jepy'apy, pochy pya'e, ke hasy, ñembyasy térã jerovia'ỹ, jeipe'a angirũnguágui, akãrasy térã tasy jepi, ha nde karu, jetepyso térã pohanohára jeheja. Ko'ã jehechauka oiko jepi ramo, eñe'ẽ nde pohanohára ndive."
+  - q: "Mba'éichapa ajuhukuaa pytu'u ñangarekópe g̃uarã che ag̃uihápe?"
+    a: "Eñepyrũ Eldercare Locator rupive (1-800-677-1116 térã eldercare.acl.gov) eguahẽ hag̃ua nde Area Agency on Aging-pe, ARCH National Respite Locator Service-pe, térã Alzheimer's Association Helpline-pe 1-800-272-3900-pe. Nde rogaygua, angirũ ha voluntario-kuéra ikatu avei ome'ẽ pytu'u."
+  - q: "Medicare ohepyme'ẽ pytu'u ñangarekópe g̃uarã?"
+    a: "Peteĩ tapicha ohupytýramo ñangareko hospice, Medicare ohepyme'ẽ hetave pe repy pe pytu'u ñangarekópe g̃uarã ohasáva 5 ára joapy'ỹre ospitálpe térã tenda ñangarekoha katupyrýpe, he'i haguéicha National Institute on Aging. Hetave seguro tesãigua ndohupytýi pytu'u; Medicaid ha peteĩva seguro ñangareko pukukue rehegua ikatu opytyvõ."
+  - q: "Alzheimer's Association Helpline añetehápe rei ha oĩ pyhare avei piko?"
+    a: "Héẽ. Alzheimer's Association he'i hikuái Helpline 1-800-272-3900-pe ha'eha rei, ñemi ha oĩ tapicha oporopytyvõva ára ha pyhare, 365 ára ary pukukue, pytyvõ heta ñe'ẽme. Ehenói 711-pe servicio de relevo-pe g̃uarã."
+  - q: "Añaña piko ajepy'amongeta che ñangareko tembiapógui?"
+    a: "Nahániri. Pytu'u nepytyvõ reñangareko hag̃ua gueteri, ha pytu'u ikatu avei ome'ẽ pe tapicha reñangarekóvape ambue tapicha ha tembiapo pyahu. Heta ñangarekohára he'i upéi oipotaha'erãmo jerure pytyvõ mboyve."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Reñangarekóramo peteĩ tapicha oikovévape demencia reheve, ikatu remoñe'ẽ ko kuatiarogue pyharekue, kane'õme, ha peteĩ tysýi mba'e rejapova'erãme. Upéva oiko jepi. Eñangareko ndejehe ndaha'éi mba'e reporurã térã peteĩ jopói rejapopa rire opa mba'e. Ha'e mba'e nepytyvõva reñangareko hag̃ua gueteri.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ko kuatiarogue oñe'ẽ kane'õ jehechaukáról, mba'éichapa eguerekokuaa peteĩ pytu'u añete, moõpa ejuhukuaa pytyvõ, ha moõpa ehenóikuaa ko árape EE.UU.-pe, rei.
 
-## What are the signs of caregiver burnout?
+## Mba'épa umi jehechauka ñangarekohára kane'õ rehegua?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Kane'õ oike mbeguekatu, upévare iporã reikuaa ne jehechauka. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) omombe'u jehechauka ñangarekohára jepy'apygua, ko'ãva apytépe:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- reñandu kane'õ, ijetu'ueterei térã jepy'apy;
+- repochy térã nde py'arasy pya'e;
+- reñandu ha'eño térã jeipe'a ambue tapichágui;
+- ke hasy, térã nderekei porã;
+- reñandu ñembyasy térã jerovia'ỹ, térã nderesarái mba'e vy'águi reporuvakue;
+- akãrasy, tasy térã ambue mba'asy teterete jepi;
+- ndereguerekói aravo nde jetepyso térã tembi'u porã nde g̃uarã;
+- rejeheja nde jahýi térã ambue ñangareko ndejehe g̃uarã;
+- reipuru vai kaguy térã mba'epohã, pohãhára ome'ẽva'ekue avei.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ombojoapy avei jehechauka ha'eháicha pe mba'asy ñembotuicha'ỹ, pochy pe tapicha rehe ("ha'e oñemoĩnte vai"), jepy'apy tenonderã rehe, hasy jesareko ha mba'asy teterete ohovapáva. Ombo'e eñe'ẽ hag̃ua nde pohanohára ndive oĩ jepi ramo ko'ã jehechauka.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA omombe'u ani reha'ãrõ peve reñandu porãmba'ỹmbaite. Ehecha ne jehechauka voi ha ejapo mba'e.
 
-## What can I do today, in five minutes?
+## Mba'épa ikatu ajapo ko árape, 5 aravo'ípe?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Pytu'u michĩva avei iporã. Ko'ã mba'e nombogue mo'ãi kane'õ, ha ikatu nepytyvõ peteĩ ka'aru hasýpe.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Esẽ okápe.** Eguapy korapýpe térã eguata pe kuatiañe'ẽ ryru peve, pe tapicha oĩ porãramo ha py'aguapýpe.
+- **Repytu'u mbeguekatúpe.** Jepytu'u mbeguekatu peteĩva ndaikatúi ramo embohovái peteĩ porandu hasy. Ikatu avei eñomoirũ pe tapicha reñangarekóvare peteĩ pytu'u [Jepytu'u py'aguapýpe](/games/calm-breathing/) reheve.
+- **Hey'u y ha ekaru mba'e.** Ndahasýi ñande resarái ñande karu rehe.
+- **Emondo peteĩ ñe'ẽ ne angirũme.** Ndaikatúi rejerure mba'eve, eñomongeta hag̃ua añónte.
+- **Eñe'ẽ porã ndejehe.** NIA [kuatiañe'ẽ eñangareko hag̃ua ndejehe](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) omombe'u ñe'ẽ ha'eháicha: «Ajapo che katupyry», «Che ndaiporãi opa mba'épe, ha upéva oĩ porã», ha «Avy'áta umi ára roime jave oñondive py'aguapýpe».
 
-## What is respite care, and how do I get it?
+## Mba'épa pytu'u ñangarekópe g̃uarã, ha mba'éichapa ajuhukuaa?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Pytu'u ñangarekópe g̃uarã ha'e ñangareko sapy'agua pe tapicha reñangarekóvape g̃uarã, ikatu hag̃uáicha repytu'u. NIA [kuatiarogue pytu'u rehegua](https://www.nia.nih.gov/health/caregiving/what-respite-care) omyesakã ikatuha ohasa aravo'ígui heta arapokõindy peve ha ikatu oiko nde rógape, peteĩ tenda pohanoháraróga térã peteĩ centro de día-pe.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) omombe'u umi hague ojehechavéva:
 
-| Type | What it is |
+| Hágue | Mba'épa |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Pytyvõ ógape | Peteĩ angirũ, rogaygua, voluntario térã peteĩ tapicha oñepyrũva térã pytyvõhára oúva ógape |
+| Centro de día | Tembiapo oñemboguapýva ha'eháicha purahéi ha arte, peteĩ aty oñangarekóvape; oĩ jepi ygarata ha tembi'u |
+| Pyhare térã sapy'agua | Peteĩ tenda ñangareko pukukue rehegua oñangareko pe tapicha rehe peteĩ pyhare, peteĩva ára térã arapokõindy |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Máva ohepyme'ẽ?** NIA he'i haguéicha, pytu'u rogaygua, angirũ térã voluntario ome'ẽva ikatu nomba'evéi. Pytyvõhára katupyrygua ohepyme'ẽ aravo térã ára rehe. Peteĩ tapicha ohupytýramo ñangareko hospice, Medicare ohepyme'ẽ hetave pe repy pe pytu'u ohasáva 5 ára joapy'ỹre ospitálpe térã tenda ñangarekoha katupyrýpe. Medicaid ikatu opytyvõ. Hetave seguro tesãigua ndohupytýi pytu'u, ha katu peteĩva seguro ñangareko pukukue rehegua ikatu.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Ñe'ẽporã:** Alzheimer's Association he'i iporãha eñeha'ã pytu'u ome'ẽva ndive ndaha'éi jave iñemergénte, ikatu hag̃uáicha oĩma reikotevẽ vove pytyvõ.
 
-## Where can I find help near me?
+## Moõpa ajuhukuaa pytyvõ che ag̃uihápe?
 
-Several free US services can point you to local help.
+Heta servicio EE.UU.-pegua rei ikatu ohechauka ndéve pytyvõ tendaguáva.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) ha'e rei ha ñemi, oĩ tapicha oporopytyvõva ára ha pyhare opa ára arýpe, pytyvõ hetave 200 ñe'ẽme tapicha oñe'ẽkuaa mokõi ñe'ẽme térã ñe'ẽasa reheve. Ehenói 711-pe servicio de relevo-pe g̃uarã. Ikatu eñe'ẽ tekopy ñemoambue, ñangarekohára jepy'apy, pytu'u poravorã, tembiaporape tendaguáva ha hetave rehe, ha ejerure eñe'ẽve hag̃ua peteĩ pytyvõhára ndive. Umi oporopytyvõva nome'ẽi consejo pohanohára rehegua.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), peteĩ servicio opavavépe g̃uarã Administration for Community Living-gua, ombojoaju nde pytyvõha kakuaáva ha irogayguakuérape g̃uarã. Ikatu ehenói, emondo ñe'ẽ, eñe'ẽ ñandutípe térã emondo correo electrónico tapicha oñembokatupyrývape, térã eheka tendáre. Ikatu ohechauka ndéve nde Area Agency on Aging tendaguáva.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) nepytyvõ rejuhu hag̃ua pytu'u ome'ẽha estado rehe, ha omombe'u eñe'ẽ raẽ hag̃ua nde State Respite Coalition térã Lifespan Respite program ndive, oĩramo nde estado-pe. ARCH he'i ndohechái umi ome'ẽha, upévare ehecha nde poite iñarandu ha hikuái rapykuere.
 
-## How do I find a support group?
+## Mba'éichapa ajuhukuaa peteĩ aty pytyvõha?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Eporandu Helpline-pe térã eheka ñandutípe aty nde ag̃uihápe. Alzheimer's Association [omongu'e aty pytyvõha](https://www.alz.org/help-support/community/support-groups) ñangarekohára ha tapicha oikovévape demencia reheve g̃uarã, oĩhápe térã ñandutípe, tapicha oñembokatupyrýva omotenondéva. Heta tendápe oĩ avei aty hesakãva, techapyrã ñangarekohára kakuaávape g̃uarã térã tapicha orekóvape Alzheimer hi'áva térã iñepyrũrãme g̃uarã. Oguereko avei ALZConnected, peteĩ aty ñandutiguáva rei, ñangarekohára omoherakuãhápe ñe'ẽporã.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Aty pytyvõha ikatu ha'e peteĩ tenda eñe'ẽ hag̃ua oporohusga'ỹre, eñemoarandu hag̃ua tembiapo porã tapicha ohasava'ekue upérupi rehe, ha reñandu hag̃ua ndereha'eñói. Peteĩ aty ndojoguerái ramo ndéve, eñeha'ã ambuépe.
 
-## How do I ask family and friends for help?
+## Mba'éichapa ajerurekuaa pytyvõ che rogaygua ha angirũme?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Ere hesakãva. Heta tapicha oipytyvõse, ha ndoikuaái mba'épa ikatu ome'ẽ. NIA omombe'u:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Eguereko peteĩ tysýi** tembiapo ambue ikatúva ojapo, ha eheja tapichakuéra oiporavo.
+- **Eñepyrũ michĩgui** hasy ramo ejerure.
+- **Embojoaju pe tembiapo pe tapicha ndive.** Pe rogaygua oipotáva ojapo tembi'u ogueru tembi'u ararundy jave. Pe tapicha oikóva ag̃ui oikuaaitereíva kuatiarehe opytyvõ kuatia rehe.
+- **Emondo ñe'ẽ térã correo electrónico** hasy ramo ejerure oĩhápe.
+- **Eñembokatupyry peteĩ ñembohovái** oĩramo ome'ẽséva pytyvõ: «Aguyje reporandu haguére. Kóva ikatu rejapo».
+- **Eha'ãrõ ikatuha oĩ he'íva nahániri** ha ani ndepochy upévare.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ambue idea: ejerure peteĩ tapichápe oiko hag̃ua pe tapicha ndive peteĩ ka'aru arapokõindýpe, ogueraha hag̃ua osẽ sapy'ami, térã oho ohecha ha oñembosarái oñondive. Ore [ñe'ẽporã oñembosarái hag̃ua oñondive](/caregiving/how-to-play-together/) ndahasýi emoherakuã tapicha ohechátavape.
 
-## What if something happened to me?
+## Mba'épa oiko che rehe mba'e ramo?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Ejapo ko'ág̃a peteĩ tembiaporape mbykymi ñepytyvõrã. NIA omombe'u eñe'ẽ hag̃ua rogaygua térã angirũ ndive mávapa ikatu ohupyty, ha eguereko peteĩ kuatiañe'ẽme papapy iñemergénte rehegua, pohã, mba'e oikóva porã tekopy rehe ha tembiapo vy'áva. Alzheimer's Association omombe'u avei eguereko hag̃ua pe tapicha pohanohára jehero ha pohã tysýi ipyahúva ndahasýiva ojejuhu hag̃ua.
 
-## When should I get professional or urgent help?
+## Araka'épa aikotevẽ pytyvõ katupyry térã pya'e?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Eñe'ẽ nde pohanohára ndive oĩ jepi ramo jepy'apy jehechauka, reñandu ñembyasy ramo, térã hasy ramo ndéve. Emombe'u nde pohanohára ndéve nde ha'eha ñangarekohára. NIA he'i umi pytyvõhára ñe'ã ha tembiapoha social ikatuha opytyvõ ñe'andu hasy ha tembiaporape rehe, ha Medicare, Medicaid ha peteĩva seguro tesãigua ikatuha ohepyme'ẽ peteĩva pytyvõ ñe'ã resãi rehegua.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Reñandu ramo tekotevẽ vai térã eimo'ã ramo reñehundi ndejehe, ehenói térã emondo ñe'ẽ 988-pe eguahẽ hag̃ua [988 Suicide & Crisis Lifeline](https://988lifeline.org/)-pe, rei ha oĩ 24/7. Oĩramo peteĩ tapicha oñembyaípe ko'ág̃aite, ehenói 911-pe.
 
-## Can shared activities give me a break too?
+## Umi tembiapo oñondive ikatu avei ome'ẽ chéve pytu'u?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Ikatu sapy'apy'a. Peteĩ tembiapo py'aguapy peẽ mokõivéva peporuvy'a ikatu ha'e peteĩ pehẽngue mbykymi porãve ndéve ha pe tapicha reñangarekóvape g̃uarã: ehendu purahéi yma guare, emaña ta'angáre, térã peteĩ ñembosarái ha'eháicha [Ñomongeta Kuatia](/games/conversation-cards/) noikotevẽiva mbohovái oĩporãva. Pe tapicha ovy'áramo tapicha ndive, peteĩ aty [Ta'anga Bingo](/games/picture-bingo/) reheve peteĩ centro kakuaávape térã tembiaporape ára pukukue reheguápe ikatu ome'ẽ ndéve peteĩ aravo pytu'u. Ehecha [tembiapo aty tenda ñangarekope g̃uarã](/activities/care-home-groups/) rehegua eguereko hag̃ua idea.

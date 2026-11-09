@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Ke ha apytuha resãi: mba'épa jehapykueho he'i"
+seoTitle: "Ke ha demencia: mba'épa jehapykueho he'i"
+description: "Mba'épa jehapykueho he'i ke ha demencia rehegua, mba'érepa oñeikuaa'ỹva gueteri apytuha omopotĩva apytu'ũ rehegua, ha mba'e ikatu oipytyvõ ke porã hag̃ua."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Oĩ jehapykueho puku ohaiha ke sa'ive ary mbytepe ikatuha ojoaju demencia riesgo tuichave rehe,
+  ha laboratorio-pe jehapykueho he'i apytuha ikatuha oipytyvõ apytu'ũ omopotĩ hag̃ua mba'e
+  ndoikói vaíva. Ko marandu nda'iporãi gueteri, ha 2024 Lancet Commission nomoĩri ke umi mba'e
+  ikatúva oñemoambue demencia riesgo omomichĩ hag̃ua apytépe. Ke jepivegua oipytyvõ nde reñandu
+  porãve hag̃ua ára ha ára. Ke apañuãi demencia reheve ojehecha meme ha iporã oñemombe'u
+  pohanohárape.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Peteĩ jehapykueho Reino Unido-gua ohechákuri 25 ary pukukue ohupytývo 8.000 tapicha, ha ohechakuaa oke seis aravo térã sa'ive ary mbytepe ojoaju demencia riesgo tuichave rehe."
+  - "Ke ñemoambue ikatu avei demencia ñeñepyrũ ra'ãnga, upévare hasy ja'e mba'épa ohechauka mba'e."
+  - "Jehapykueho apytuha omopotĩva beta-amyloid apytu'ũgui añete, ha katu nda'iporãi gueteri; hetave ojejapo anguja rehe."
+  - "Apytuha apnea ojehecha meme, ikatu oñepohano ha jehapykueho-pe ojoaju demencia rehe; ikororõ térã kane'õ ára pukukue iporã oñehesa'ỹijo."
+  - "Ani remoñepyrũ, ani repyta térã ani remoambue pohã térã mba'e oipytyvõva ke hag̃ua pohanohára he'ỹre."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "¿Ke vai omoheñói Alzheimer's?"
+    a: "Upéva ndojehechái gueteri. Oĩ jehapykueho ombojoajúva ke mbyky demencia riesgo tuichave rehe, ha katu demencia voi omyaña ke, hetajey oñemboaje mboyve. 2024 Lancet Commission ohecha ko marandu noĩporãiha oñemoĩ hag̃ua ke umi mba'e ikatúva oñemoambue demencia riesgo omomichĩ hag̃ua apytépe."
+  - q: "¿Mboy aravo oikotevẽ oke ava tuichavéva?"
+    a: "National Institute on Aging he'i ava tuichavéva oikotevẽha oke peichaite ambue tapicha, 7 guive 9 aravo peve peteĩ pyhare. Heta ava tuichavéva oho oke ha opu'ã voi kuri itujavéva reheve, ha upéva ojehecha meme."
+  - q: "¿Mba'érepa peteĩ tapicha oikovéva demencia reheve oke ára ha opáy pyhare?"
+    a: "Demencia ikatu omyaña tetekuéra aravo jepivegua, upévare oke ha opáy ára oñembojehe'a. Hasy, kane'õ'ỹ, ñembyahýi térã pohã mba'e vai apytégui ikatu avei oñemboguapy. Tendy pytã, tembiapo ára pukukue ha peteĩ jepivegua pyhare kangy ikatu oipytyvõ. Peteĩ pohanohára ikatu oheka mba'e ikatúva oñepohano."
+  - q: "¿Ame'ẽva'erã piko peteĩ mba'e oipytyvõva ke hag̃ua pe tapicha añangarekóva rehe?"
+    a: "Eñe'ẽ raẽ hendive ipohanohára, umi mba'e ojeguáva pohã'ỹre avei rehegua. National Institute on Aging he'i oĩ pohã ke rehegua ikatúva oipytyvõ sapy'ami, ha katu ombohetave pe arriesgo akãnga'u, ho'a ha iñakã ñemokañy tapicha orekóva Alzheimer's-pe g̃uarã."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ke ha apytu'ũ resãi oñembojoaju, ha katu mba'éichapa oñembojoaju oñeikuaa gueteri. Oĩ jehapykueho ombojoajúva ke mbyky demencia riesgo tuichave rehe. Demencia, ambueháicha, hetajey omyaña ke. Ko kuatia omyesakã mba'épa jehapykueho ohechauka ha ndohechaukái, ome'ẽ ke porã hag̃ua peteĩva rehegua, ha oñe'ẽ ke apañuãi rehegua ojehecháva meme demencia-pe. Ndoguerahái ñe'ẽ pohã ke rehegua; upéva oñeñe'ẽva'erã pohanohára ndive.
 
-## Is poor sleep linked with dementia?
+## ¿Ke vai ojoaju piko demencia rehe?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Oĩ jehapykueho puku ombojoajúva ke mbyky demencia riesgo tuichave rehe, ha katu ko marandu nda'ijapopái gueteri.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Peteĩ jehapykueho Reino Unido-gua 25 ary pukukue.** Ñeha'ãrãhára ohapykueho 8.000 tapicha rupi [Whitehall II jehapykuehópe](https://www.nature.com/articles/s41467-021-22354-2). Umi tapicha okeva'ekue seis aravo térã sa'ive 50 térã 60 ary oguerekóvo oreko demencia riesgo tuichave upe rire umi okeva'ekue siete aravo reheve. Umi okeva'ekue seis aravo térã sa'ive 50, 60 ha 70 ary oguerekóvo oreko demencia riesgo tuichave 30% rupi umi oke jepive siete aravo reheve. Kóva ha'e peteĩ jehapykueho ohecháva mante, upévare ohechauka peteĩ joajuha, ndaha'éi peteĩ mba'e ohechaukáva mba'e.
+- **Lancet Commission remimo'ã.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) nomoĩri ke umi 14 mba'e ikatúva oñemoambue demencia riesgo omomichĩ hag̃ua apytépe. Ohecha ko marandu noĩporãiha. Peteĩ mba'e ha'e “reverse causation”: demencia omoambuéva apytu'ũ oñepyrũ heta ary oñemboaje mboyve ha ikatu omyaña ke. Peteĩ jehapykueho tuichávape, peteĩ joajuha ke puku ha demencia apytépe okañy oñemboyke rire umi peteĩha cinco ary jehapykueho.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Upévare, peteĩ pyhare ndoikéi porãiva sapy'ánte ndaha'éi mba'e reñemotenondéva'erã. Ke jepivegua ha porã iporã oñeha'ã, oipytyvõ rupi tekopy'ỹ, ojesarekóva hag̃ua ha tekorosã ára ko'ápe.
 
-## What is the "brain-clearing" sleep research?
+## Mba'épa pe jehapykueho “apytu'ũ mopotĩha” ke rehegua?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Ikatu remoñe'ẽ hague ke “omopotĩha” apytu'ũ. Ko idea ou jehapykueho añetégui, ha katu nda'iporãi gueteri.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Anguja rehe.** Peteĩ jehapykueho 2013-gua [NIH omombe'úva](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ojuhu pe pa'ũ apytu'ũ ra'y apytépe ituichave 60% rupi anguja oke jave. Y syry osyry porãve apytu'ũ rupi, umi ñeha'ãrãhára ohenóiva sistema glymphatic rupive. Beta-amyloid, peteĩ proteína ojoajúva Alzheimer's rehe, oñemopotĩ pya'eve umi anguja okeva apytu'ũgui.
+- **Tapicha rehe.** Peteĩ [jehapykueho michĩ 2018-gua](https://www.pnas.org/doi/10.1073/pnas.1721694115) ohecha 20 tapicha resãi 22 guive 72 ary peve peteĩ pyhare porã rire ha peteĩ pyhare ndoikéi rire. Upe pyhare ndoikéi rire, peteĩ ta'ãnga apytu'ũ rehegua ohechauka beta-amyloid tuichave 5% rupi peteĩ tendápe oĩháme hippocampus, peteĩ pehẽngue iñimportánteva mandu'a hag̃ua. Umi haihára ombohéra kóva marandu ñepyrũrã. Ndoikuaái pe ñemoambue opa piko opytu'u jey rire, térã ohechauka piko oñemopotĩ mbegueve térã oñembohetave beta-amyloid.
+- **Oiko mokõive hendáicha.** Lancet Commission he'i amyloid ñembyaty ikatu voi omyaña ke ava tuichavévape.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ko'ã mba'e ojejuhúva oipytyvõ oñentende hag̃ua mba'érepa umi ñeha'ãrãhára ointeresa ke rehe. Ndohechaukái ke porãve omboykeha Alzheimer's.
 
-## What sleep habits may help?
+## Mba'e ke jepivegua ikatu oipytyvõ?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Ava tuichavéva oikotevẽ oke 7 guive 9 aravo peve peteĩ pyhare, peichaite ambue tapicha, [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) he'i haguéicha. Umi oñe'ẽva'ekue apytépe oĩ:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Eguereko peteĩ aravo jepivegua.** Eho oke ha epu'ã pe aravópe peteĩchaite, arapokõindy jepe.
+- **Ejapo peteĩ jepivegua opytu'u mboyve.** Emoñe'ẽ, ehendu purahéi kangy térã ejahu'u y taku opytu'u mboyve.
+- **Ejapo nde koty keha tory,** ndahakuetereí ha ndaro'ysãietereí.
+- **Emomichĩ cafeína ka'aru rire.** Café, té, gaseosa ha chocolate ikatu nde rerapy opytu'u hag̃uáme.
+- **Ani re'u alcohol,** michĩmi jepe, NIA he'i.
+- **Ani rekaru tuicha opytu'u mboyve mokõi térã mbohapy aravo,** ha ani re'u hetaiterei ka'aru rire.
+- **Ejapo ejercicio jepivegua, ha katu ani ejapo opytu'u mboyve 3 aravo.** Ehecha ore [guía ejercicio rehegua](/brain-health/exercise/).
+- **Eheja pantalla okápe nde koty kehágui.** NIA he'i ani rehecha TV térã ani reipuru computadora, pumbyry térã tableta upépe.
+- **Ani reke ka'aru rire térã pyharekue** ikatúramo.
 
-## Sleep problems in dementia
+## Ke apañuãi demencia-pe
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Ke ñemoambue ojehecha meme demencia-pe. [NIA omombe'u](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) oke hetaiterei térã sa'ive, opáy heta jey pyhare, ha oke hetaiterei ára pukukue. Omombe'u avei sundowning: akãrasy, py'amokõi térã iñakã ñemokañy oñepyrũva térã oñembohetavéva kuarahy oike gotyo.
 
-Caregiver tips from the NIA include:
+Umi ñe'ẽ pytyvõ NIA ome'ẽva oñangarekóvape g̃uarã:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Eguereko tendy pytã ha jeku'e pyhareve.** Esẽ okápe térã eguapy ovetã ykére ára pukukue, ha eipytyvõ pe tapicha oikove hag̃ua ára ha ára. Tendy hatã ikatu oipytyvõ omohenda jey hag̃ua tetekuéra aravo jepivegua.
+2. **Emoĩ tembiapo heta mbareteva pyhareve.** Eha'ã ejahu pyhareve térã eguereko tembi'u tuichavéva asaje pyte.
+3. **Eheja ke sapy'ami ha pyhareve.** Emomichĩ oke ka'aru rire.
+4. **Ejapo pyharekue py'aguapy.** Emboguejy tendy, emomichĩ tyapu ha eñembopurahéi kangy pe tapicha ohayhúramo. Ore guía [akãrasy ka'aru rire rehegua](/caregiving/late-day-restlessness/) ome'ẽve idea.
+5. **Eguereko peteĩ jepivegua keha jave peteĩchaite.** Emoñe'ẽ hatã pe aravópe peteĩchaite peteĩ pyhare ha peteĩ pyhare ha'e peteĩ techapyrã NIA ome'ẽva. Peteĩ [jepivegua ára ha ára](/activities/daily-routine/) oipytyvõ avei.
+6. **Emomichĩ cafeína ha alcohol.**
+7. **Eipuru tendy michĩ pyharekue g̃uarã** koty kehápe, pasillo-pe ha baño-pe.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Opáy pyharekue hag̃ua, NIA [ñe'ẽ pytyvõ óga rekorosã rehegua](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) omoinge tendy michĩ térã tendy ojehendýva ijeheguiete, mba'e ojepyhy hag̃ua baño-pe, cinta sa'y hatã escalera rembe'ýpe, ha pohã oñeñongatúva peteĩ tendápe ojejokóva.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Peteĩ tembiapo mbyky ha kirirĩháme pyharekue ikatu ne pytyvõ peẽ mokõivépe pepytu'u hag̃ua. Eha'ã peteĩ sapy'aite mbegue [Calm Breathing](/games/calm-breathing/) térã peteĩva [Conversation Cards](/games/conversation-cards/) py'aguapýpe. Ani ejapo mba'e omokyre'ỹva opytu'u mboyve, ha epyta pe tapicha ohóramo gueteri.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ke ñemondoro omokangy avei oñangarekóvape. Ore [guía oñangarekóva rekorosãrã](/caregiving/caregiver-self-care/) oñe'ẽ mba'éichapa ikatu opytu'u ha ohupyty pytyvõ.
 
-## What about sleep apnea?
+## ¿Mba'e apytuha apnea rehegua?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Apytuha apnea oheja pytuhẽ sa'i ke aja, hetajey peteĩ pyhare pukukue. NIA he'i noñepohanóiramo ikatu ogueru apañuãi tuguy presión yvate, stroke térã mandu'a ñemboguejy. Umi ta'ãnga apytépe oĩ ikororõ ha oñandu kane'õ ára pukukue, ha hetaiterei tapicha ndoikuaái orekóha. Lancet Commission omombe'u peteĩ jehechajey 11 jehapykueho rehegua, upépe umi tapicha oreko apytuha apnea oreko demencia riesgo tuichave 40% rupi. Heta umi jehapykueho ndohechái pe tuichakue tetekuéra rehegua, upévare pe joajuha ndoikatuvéi oñe'ẽ porã.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Apytuha apnea ikatu oñemboaje ha oñepohano. NIA he'i peteĩ máquina CPAP oipytyvõ meme. Nde térã pe tapicha reñangarekóva ikororõiterei, opytu'úvo oñembo'y pytuhẽ, térã ikane'õiterei ára pukukue, emombe'u pohanohárape.
 
-## A note about sleep medicines
+## Peteĩ marandu pohã ke rehegua
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Noroikuave'ẽi pohã térã suplemento ke rehegua. NIA he'i pohã ke rehegua ikatu oipytyvõ sapy'ami, ha katu ndaha'éi insomnio rembiapokue. Omombe'u avei oĩ pohã oñeme'ẽva tapicha orekóva Alzheimer's oke hag̃ua ikatúva ombohetave arriesgo akãnga'u, ho'a ha iñakã ñemokañy. Ani remoñepyrũ, ani repyta térã ani remoambue peteĩ pohã ke rehegua, umi ojeguáva pohã'ỹre avei, oñeñe'ẽỹre pohanohára térã farmacéutico ndive.
 
-## Talk with a doctor
+## Eñe'ẽ pohanohára ndive
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Ehecha pohanohára nde térã pe tapicha reñangarekóva ikanéirõ meme, hasýramo oke hetave pyhare, ikororõramo hatã, térã opytu'u pyhare oñembo'y pytuhẽ. Ke apañuãi demencia-pe opytáramo, [NIA he'i](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) iporãha ojeheka pohanohára ñe'ẽ pytyvõ. Peteĩ jehechajey ikatu ojuhu mba'e ohechaukáva, taha'e hasy, ambue apytuha apañuãi, peteĩ mba'asy térã pohã mba'e vai. Iñakã ñemokañy sapy'a, térã ke ñemoambue sapy'a iñakã ñemokañy ndive, oikotevẽ ñangareko pya'e. Emoñe'ẽ [araka'épa iporã ojehecha pohanohára](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ko kuatia ha'e marandu general, ndaha'éi pohanohára ñe'ẽ pytyvõ. Ehecha ore [marandu pohanohára rehegua'ỹ](/medical-disclaimer/).

@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Porandu ndahasýi demencia reheve oikovévape, jejopy'ỹre"
+seoTitle: "Porandu ndahasýi demencia reheve oikovévape, mbohovái reheve"
+description: "50 porandu ndahasýi demencia reheve oikovéva kakuaávape g̃uarã, mbohovái poravopyre ha ñemongeta reheve, ha mba'éichapa oñemboguata jejopy'ỹre."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Porandu ndahasýi demencia reheve oikovévape g̃uarã oiko porã oñeñandu
+  jave ñomongeta ramo, ndaha'éi aranduchauka. Eporandu mba'e ojeikuaáva
+  yma guare rehe, purahéi, ñe'ẽnga, arete ha tekove ára ha ára rehegua,
+  ha eme'ẽ meme mokõi térã mbohapy poravopyre. Eme'ẽ mbohovái py'aguapýpe,
+  aníke eñemoĩ peteĩ tapicháre, eheja pe jeipapa, ha eipuru peteĩteĩ
+  mbohovái oñepyrũ hag̃ua peteĩ tembiasakue. Porandu “kóva térã péva”,
+  mbohovái vai'ỹre, oiko porãve tenondeve gotyo.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Eporandu mba'e ojeikuaáva are guare rehe: purahéi, ñe'ẽnga, arete, tembi'u ha tekove ára ha ára yma guare."
+  - "Eme'ẽ mokõi térã mbohapy poravopyre ikatu hag̃uáicha ojehechakuaa pe mbohovái, oñemandu'ỹre."
+  - "Ere py'aguapýpe pe mbohovái ha eku'e. Oimeraẽ ñeimo'ã omoñepyrũva peteĩ tembiasakue ha'e peteĩ ñeimo'ã porã."
+  - "Ani jeipapa, ani aty oñorairõ, ani ehenói peteĩ tapicha año. Eheja umi mbohovái tou opaite atyguágui."
+  - "Ijetu'u vove ojeporavo hag̃ua mbohovái apytégui, emoambue porandu “kóva térã péva” rehe, mbohovái oĩporãva'ỹre."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "¿Iporãpa umi porandu demencia reheve oikovévape g̃uarã?"
+    a: "Ikatu, oñemboguata mbeguekatu ramo. Alzheimer's Foundation of America omombe'u umi porandu tembiaporã peteĩha etapa-pe g̃uarã apytépe. Eguereko porandu mba'e ojeikuaáva are guare rehe, eme'ẽ poravopyre, aníke emoĩ peteĩ tapicha año tenonderãme, ha ehecha umi mbohovái ñomongetarã ramo, ndaha'éi aranduchaukaramo."
+  - q: "¿Mba'e témapa oiko porãve porandu demencia reheve oikovévape g̃uarã?"
+    a: "Mba'e ojeikuaáva ymaite guare oiko porãve jepi: purahéi ha purahéihára ojekuaáva pe tapicha mitã rerekue, ñe'ẽnga ojeikuaáva, arete, tembi'u, ñembosarái ha tekove ára ha ára, kamby jegueraha térã pumbyry ojereóva. Emboyke marandu pyahu ha oimeraẽ mba'e oikotevẽva oñemandu'u hag̃ua mba'e oiko va'ekue ko aty aja."
+  - q: "¿Mba'éichapa amboguata porandu aty guasu peteĩ ñangarekohápe ani hag̃ua avave oñetĩ?"
+    a: "Emoñe'ẽ peteĩteĩ porandu opaite aty-pe, ehechauka térã ere umi poravopyre, ha emoneĩ oimeraẽva ombohovái. Aníke ehenói tapicha peteĩteĩme térã eguereko jeipapa. Ere pe mbohovái pytu'u reheve oimeraẽva oñeimo'ãva'ekue, ha eporandu upéi, “¿Mávapa ko'ápe oho va'ekue ta'ãngamýi ojehecháva mba'yrumýigui?”, emoambue hag̃ua tembiasakue-pe."
+  - q: "¿Mba'épa ikatu ajapo porandu rendaguépe etapa tenondeveguápe?"
+    a: "Emoambue porandu mbohovái vai'ỹvape, “¿Kafé térã ka'a?” térã “¿Y rembe'y térã yvyty?”, ha emoĩmba ñe'ẽnga térã purahéi ojeikuaáva oñembotuicha hag̃ua oñondive. Ojehecha jave ta'anga ha oñemombe'u oñondive avei oiko porã."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,134 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Umi porandu ha'e peteĩ tembiaporã ojejerurévéva aty guasúpe ñangarekorenda ha ára pukukue programápe, ha heta familia oñembosarái avei tembi'u róga mesápe. Oñemboguata jave jepiveguáicha, jeipapa ha peteĩ tapicha ombohovái reheve, ikatu ombohasa asy demencia reheve oikóva oñeñandu hag̃ua oñemoĩ hague tenonderãme. Oñemboguata jave mbeguekatu, ha'e peteĩ tape vy'a henduhápe tembiasakue. Ko'ápe oĩ 50 porandu ndahasýi mbohovái poravopyre reheve ha mba'e oñeñomongetakuaa peteĩteĩ rehe, upéi mba'éichapa oñemboguata peteĩ aty.
 
-## How do you make trivia work for someone with dementia?
+## ¿Mba'éichapa ikatu oiko porã porandu demencia reheve oikóva ndive?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Ejapo ojehechakuaa ha oñemandu'u hag̃ua mba'e yma guare rehegua, ha emoneĩ opaite mbohovái.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Eporandu ymaite guare rehe.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) he'i pe techapyrã tenonderãgua ojehechavéva Alzheimer's-pe ha'e hasy oñemandu'u hag̃ua marandu pyahu ojeikuaáva. Purahéi, ñe'ẽnga ha tekove ára ha ára heta ary rasýgui ikatu ndahasýive.
+2. **Eme'ẽ meme poravopyre.** Ojeporavo pe mbohovái oĩporãva mokõi térã mbohapy apytégui ndahasyivéva ojejuhu hag̃ua mba'eve'ỹgui.
+3. **Emoñe'ẽ porandu hatã ha ehechauka tuicháva.** Peteĩ kuatia morotĩ térã peteĩ tembipuru'i ojejoko yvate ikatu oipytyvõ umi nahenduporãivévape.
+4. **Eme'ẽ pe mbohovái sãso.** Avave ndoikuaáiramo, ere py'aguapýpe ha eku'e. Aníke “Eju, nde reikuaa kóva”.
+5. **Ani jeipapa.** Ndaha'éi tapicha peteĩteĩme ha ndaha'éi mesa peteĩteĩme. Oipotáramo peteĩ papapy, eguereko peteĩ papapy aty guasu rehegua.
+6. **Aníke ehenói peteĩ tapicha.** Eheja umi mbohovái tou oimeraẽvagui. Mokõi tapicha año oñondive, pembohovái oñondive: “Che aimo'ã ha'e piano. ¿Nde mba'épa ere?”.
+7. **Eipuru pe ñomongeta.** Pe mbohovái ha'e ñepyrũ, ndaha'éi paha. Tembiasakue ha'e pe hu'uete.
+8. **Eguereko mbykýpe.** Pa porandu, tembiasakue pa'ũme, hetaiterei.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) omombe'u pe tembiapoukapy mbykýpe: emaña ñeko'õi rehe ha ehecha pe tapicha oñeñandu porã hag̃ua. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) omombe'u umi porandu tembiaporã peteĩha etapa-pe g̃uarã apytépe. Mbyte etapa-pe, eguereko mokõi poravopyre año ha eipuru umi ñomongeta. Upéi rire, emoambue porandu “kóva térã péva” rehe ko'águi tenonderãme.
 
-## Music and entertainment trivia
+## Porandu purahéi ha vy'arã rehegua
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Pe mbohovái oĩ **hũvaitépe**. Emohenda ko'ã porandu pe tapicha rehe: peteĩ okakuaáva Motown ndive oikotevẽ purahéihára ambuéva peteĩ okakuaáva aty guasu purahéiva ndive.
 
-| Question | Choices | Talk about |
+| Porandu | Poravopyre | Ñomongeta |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| ¿Mávapa oñehenói Rock and Roll Ruvicha? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ¿Rehecha raka'e Elvis tevépe? |
+| ¿Mba'e purahéihárapa oñehenói Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | ¿Mba'e Sinatra purahéipa nde rehayhuvéva? |
+| Bing Crosby oke va'ekue peteĩ Navidad morotĩ... rehe | **Navidad**, menda, óga | Pejapurahéi peteĩ joaju oñondive |
+| Louis Armstrong opurahéi va'ekue “What a Wonderful...” | Ára, **Yvy**, Tekove | ¿Mba'épa ojapo ko yvy iporãitereíva ndéve g̃uarã? |
+| ¿Mba'e ta'ãngamýipépe Judy Garland opurahéi “Over the Rainbow”? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | ¿Moõpa rehecha nde ta'ãngamýi rehayhuvéva? |
+| ¿Mávapa ha'e Lucy “I Love Lucy”-pe? | **Lucille Ball**, Doris Day, Betty White | ¿Mba'e tembiapo rehechapa pe familia ohecha oñondive? |
+| ¿Mba'e vaqueropa oguata va'ekue peteĩ kavaju hérava Trigger ári? | **Roy Rogers**, Gene Autry, John Wayne | ¿Reñembosarái va'ekue vaquero ramo mitãme? |
+| ¿Mávapa omotenonde va'ekue “The Tonight Show” 30 ary pukukue? | Ed Sullivan, **Johnny Carson**, Bob Hope | ¿Repytu'u pyhareve rehecha hag̃ua téve? |
+| ¿Mba'e tembipuru purahéipápa oreko 88 tecla? | Mbaraka, **piano**, putuũ | ¿Oĩpa nde familiágui ombopu va'ekue? |
+| ¿Mba'e jerokýpa oñepapa peteĩ-mokõi-mbohapy, peteĩ-mokõi-mbohapy? | **Vals**, twist, tango | ¿Moõpa peho va'ekue pejeroky hag̃ua? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Purahéi rehegua hetave hag̃ua, ehecha [tembiaporã purahéi rehegua demencia reheve oikovévape g̃uarã](/activities/music/).
 
-## Everyday life trivia
+## Porandu tekove ára ha ára rehegua
 
-| Question | Choices | Talk about |
+| Porandu | Poravopyre | Ñomongeta |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Mba'yru ro'ysã mboyve, heta óga oñongatu va'ekue tembi'u ro'ysãme peteĩ... | **Hy'ỹi ryru**, tatapỹi, óga yvategua | ¿Mávapa ogueru va'ekue hy'ỹi? |
+| ¿Mávapa ogueru va'ekue kamby okẽme hyakuã itatĩme? | Kuatiaha, **kamby gueruhára**, kuatia'i gueruhára | ¿Mba'e ambuépa ogueru va'ekue ógape? |
+| ¿Mba'éichapa eñembohéra va'ekue pumbyry ojereóvape? | Embopu votõ, **ejere peteĩ rueda**, eñe'ẽ chupe | Emombe'u chéve pe pumbyry oĩva'ekue nde rógape rehegua |
+| ¿Mba'e atyguasúpa ojapo va'ekue mba'yrumýi Model T? | **Ford**, Chevrolet, Buick | Emombe'u chéve peteĩ mba'yrumýi rehayhuva'ekue rehegua |
+| ¿Moõpa rejuhukuaa va'ekue peteĩ “soda jerk”? | **Peteĩ soda ñemuha**, panadería, virurenda | ¿Mba'épa rejerure va'ekue pe mesápe? |
+| ¿Mba'e ñembosaráipápa ha'e peteĩ itakua resorte ikatúva oguata yvy gotyo? | Yo-yo, **Slinky**, hula hoop | ¿Mba'e ñembosaráipápa rehayhu va'ekue? |
+| “Drive-in” ha'e peteĩ tenda ojehecha hag̃ua... | **Ta'ãngamýi ne mba'yrumýigui**, ñembosarái, desfile | ¿Mávandi reheho va'ekue? |
+| ¿Máva ra'ãngapa oĩ peteĩ dóla kuatiápe? | Lincoln, **George Washington**, Jefferson | ¿Mba'épa ikatu ojogua peteĩ dóla upe ára rupi? |
+| ¿Máva ra'ãngapa oĩ peteĩ centávope? | **Abraham Lincoln**, Washington, Franklin | ¿Reñongatu va'ekue centávo peteĩ hyakuãme upe ára rupi? |
+| ¿Mba'e sa'ýpa jepi mbo'ehao mba'yrumýi? | Pytã, **sa'yju**, hovy | ¿Mba'éichapa reho va'ekue mbo'ehaópe? |
 
-## Holidays, nature and places
+## Porandu arete, ñande yvy ha tenda rehegua
 
-| Question | Choices | Talk about |
+| Porandu | Poravopyre | Ñomongeta |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| ¿Mba'e aretépa oĩ jasypa irundyha arapoteĩ Noviembre-pe? | Labor Day, **Thanksgiving**, Memorial Day | ¿Mba'épa oĩ meme va'ekue ne mesa ári? |
+| ¿Mba'e aretépe g̃uarãpa ojapo jack-o'-lantern? | **Halloween**, Pascua, Navidad | Emombe'u chéve Halloween rehegua reñakãrapu'áva tenda rupi |
+| 4 jasypoteĩ ohechaukáta Declaración de... | Derecho, **Sacha**, Isãsó | ¿Moõpa rehecha va'ekue tataindy? |
+| ¿Mba'e jasýpepa oĩ Sy Ára? | Jasyrundy, **Jasypo**, Jasypoteĩ | ¿Mba'éichapa nde rogata omomorã va'ekue? |
+| ¿Mboy mbyjapa oĩ poyvi Estados Unidos-pegua rehe? | 48, **50**, 52 | Pe poyvi oreko 48 mbyja 1959 peve. Mokõivéva ha'e mandu'a porã |
+| ¿Mba'e para reheguápa oĩ Kuarahy Ñesẽ ykére? | Pacífico, **Atlántico**, Ártico | ¿Reho va'ekue peteĩ jey y rembe'ýpe? |
+| ¿Mba'e távape oĩ pe Kuñakarai Isãsógui? | Boston, **Nueva York**, Filadelfia | ¿Rehómapa Nueva York-pe? |
+| ¿Mba'épa ojapo eiru? | Kamby, **eirete**, ao ysaja | ¿Eirete pan ári térã ka'ápe? |
+| Peteĩ vaka ra'y oñehenói... | Kavaju ra'y, **vaka ra'y**, kavara ra'y | ¿Reiko va'ekue peteĩ jey peteĩ kokue jerére? |
+| ¿Mba'e yvoty yvate sa'yjúpa ojeikuaa ojere hag̃ua kuarahy rehe? | Poty, **girasol**, tulipán | ¿Mba'épa okakuaa va'ekue nde yvotýpe? |
+| ¿Mboy árapa oĩ peteĩ ary oñembohetavévape? | 365, **366**, 360 | Emombe'u chéve peteĩ aramboty nemandu'áva rehegua |
+| ¿Mba'e ára rokýipa ou ro'y rire? | Araro'y, **arapoty**, arahaku | ¿Mba'e ára rokýpa nde rehayhuvéva? |
 
-## Food and sports trivia
+## Porandu tembi'u ha ñembosarái rehegua
 
-| Question | Choices | Talk about |
+| Porandu | Poravopyre | Ñomongeta |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Pasas de uva ha'e uva... | Ciruela, **uva**, guinda | ¿Remoĩ va'ekue pasas tembi'u ryepýpe? |
+| Ciruela pasa ha'e ciruela... | **Ciruela**, higo, guyva | ¿Mávapa nde familiágui ohayhu va'ekue ciruela pasa? |
+| Mantequilla de maní ha... | **Mermelada**, kesu, so'o | ¿Oñemboja'o térã sỹi? |
+| Guacamole ojapo jepi... | Arveja, **aguacate**, pepino | ¿Mba'e mba'e ñemoñáipa osẽ va'ekue atyhápe? |
+| ¿Mba'e pastelpa ojehayhu Thanksgiving-pe? | **Andaí**, limón, guinda | ¿Mba'e pastelpa rejapo va'ekue? |
+| ¿Mboy ñembosaráihárapa oĩ peteĩ baseball atyguasu ñu rehe? | 7, **9**, 11 | ¿Mba'e atýpape repytyvõ va'ekue? |
+| ¿Mboy strike-pa oikotevẽ ojeipe'a hag̃ua baseball-pe? | Mokõi, **mbohapy**, irundy | ¿Reñembosarái va'ekue peteĩ jey? |
+| ¿Mba'e ñembosaráipépe Babe Ruth ojeikuaa va'ekue? | Ñorairõ puño rehegua, **baseball**, golf | ¿Reho va'ekue ñembosarái jehechápe? |
+| ¿Mboy kuárapa oĩ peteĩ golf ñembosarái renda jepivépe? | 9, **18**, 24 | ¿Reñembosarái va'ekue golf, térã mini golf? |
+| ¿Mba'e ñembosaráipépe ojehupyty peteĩ touchdown? | **Fútbol americano**, hockey, baloncesto | ¿Mávapa ohecha va'ekue fútbol americano nde rógape? |
 
-## Familiar sayings
+## Ñe'ẽnga ojeikuaáva
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Ñe'ẽnga ñembotuicha oipuru ñe'ẽ ojeikuaáva yma guare ha sapy'ánte ndahasýi. Ore [Ñe'ẽnga ñembotuicha](/games/finish-the-saying/) ñembosaráipe oĩ hetave, peteĩ jepoko reheve ohechauka hag̃ua oimeraẽ paha.
 
-| Saying | Choices | Talk about |
+| Ñe'ẽnga | Poravopyre | Ñomongeta |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Peteĩ yva peteĩ árape omomombyry pe... | **Pohanohára**, ama, mbarakaja | ¿Mávapa he'i va'ekue kóva ndéve? |
+| Guyra opu'ãva korõíme ojagarra pe... | Mba'yrumýi, **sevo'i**, tren | ¿Nde korõigua? |
+| Aníke epapa ne ryguasu omoñembota mboyve... | **Hẽi**, oke, opurahéi | ¿Oñongatu va'ekue ryguasu nde rogata? |
+| Peteĩ viru'i oñeñongatúva ha'e peteĩ viru'i... | **Ojehupytýva**, okañýva, ojeipurúva | ¿Mávapa ha'e va'ekue ñongatuhára nde familíape? |
+| Óga ha'e pe tenda oĩhápe pe... | Yvoty, **korasõ**, tembi'u renda | ¿Mba'épa ojapo peteĩ tenda oñeñandu hag̃ua ógaramo? |
+| Iporãve peteĩ jehasa areve... | Kuarahyẽ, **araka'eve**, ñerõ | ¿Mávapa ohasa are meme va'ekue? |
+| Opaite arai oguereko peteĩ... | **Henda sakã**, kuimbe, viru'i | Emombe'u chéve peteĩ mba'e porã ojehu sapy'a rehegua |
 
-## This-or-that questions with no wrong answer
+## Porandu “kóva térã péva”, mbohovái vai'ỹre
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Ko'ã porandu oiko porã opaite etapápe, pe tenondeveguápe avei, ndorekóigui mba'e ojejavykuaa. Eporandu, ehendu, ha emombe'u avei ne mbohovái.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- ¿Kafé térã ka'a?
+- ¿Y rembe'y térã yvyty?
+- ¿Jagua térã mbarakaja?
+- ¿Arahaku térã ro'y?
+- ¿Pastel térã torta?
+- ¿Jeroky térã jehecha?
+- ¿Kuarahy ñesẽ térã kuarahy reike?
+- ¿Korapy tenondegua térã korapy huguaitĩgua?
+- ¿Radio térã disco?
+- ¿Tortilla térã ryguasu rupi'a?
+- ¿Poty térã margarita?
+- ¿Tren rupi jeho térã tape rupi jeho?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Ñomongetarã ta'anga reheve hag̃ua, eipuru ore [Ñomongeta kuatia'i](/games/conversation-cards/) ikatúva oñembokuatia.
 
-## How do you run a trivia session in a care home or group?
+## ¿Mba'éichapa oñemboguata peteĩ porandu aty ñangarekorendápe térã aty guasúpe?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Emoĩ tapichakuéra ikatu hag̃uáicha ohecha ha ohendu.** Tyapuha oĩ porã, tesa'ỹijoaju oĩ porã, téve oñembogue.
+2. **Emoñepyrũ ñomongeta ramo.** “Areko heta porandu yma ára rehegua, ha aimo'ã peikuaa chégui hetave.”
+3. **Emoñe'ẽ peteĩteĩ porandu mokõi jey ha ehechauka poravopyre tuicháva.**
+4. **Emoneĩ mbohovái tou oimeraẽ tenda aty guasúgui.** Ejapo jey mbohovái porã ikatu hag̃uáicha opaite ohendu.
+5. **Ere pe mbohovái opavavépe g̃uarã,** upéi eporandu ñomongeta rehegua aty guasúpe.
+6. **Ehapykueho pe vy'a.** Peteĩ porandu omoñepyrũramo pa aravo'i tembiasakue, eheja toiko.
+7. **Emohu'ã peteĩ purahéi térã peteĩ porandu “kóva térã péva” reheve,** ikatu hag̃uáicha opaite opa peteĩ mba'e ndahasýiva reheve.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Aty ambuéva hag̃ua, picture bingo ha purahéi oñondive, ehecha [tembiaporã aty guasu rehegua ñangarekorendápe g̃uarã](/activities/care-home-groups/).
 
-## When to change the plan
+## Araka'épa oñemoambue pe tembiporu
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Oĩramo oñeñandu jepy'apy, okirirĩ térã he'i “Ndaikuaái” peteĩ jeygui hetave, ejapo ndahasýive: eguereko mokõi poravopyre año, pembohovái oñondive, térã emoambue porandu “kóva térã péva” rehe. Pe aty oipotavéramo oñeñomongeta peteĩ porandu rehe ka'aru pukukue, upéva ha'e peteĩ mba'e porã. Pe hu'u ndaha'éikuri araka'eve mbohovái oĩporãva. Ha'ekuri ára oñehasa porã hag̃uáicha aty porãme.

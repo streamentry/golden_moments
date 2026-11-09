@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Tembiapo imprimíble demencia peg̃uarã"
+seoTitle: "Tembiapo imprimíble demencia peg̃uarã: tai tuicháva"
+description: "Tembiapo imprimíble demencia peg̃uarã rei: ñeʼẽ jeheka tai tuicháva, taʼanga ñembohysýi, ñeʼẽmongeta ha bingo taʼangáva, ha mbaʼéichapa ikatu oñemonguatia porãve."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments omeʼẽ tembiapo imprimíble demencia peg̃uarã rei: ñeʼẽ jeheka
+  tai tuicháva, taʼanga ñembohysýi, ñeʼẽmongeta ha bingo taʼangáva. Eike oimeraẽ
+  ñembosarái roguépe ha eipuru pe votõ Imprimir. Emonguatia tai tuicháva ha
+  hesakãva reheve, kuatia hatãvape, peteĩ tembiapo añoite kuatia peteĩteĩme, ha
+  eforra umi kuatia reipuru jeyséva hag̃ua rotulador oñemboguekuaávape g̃uarã.
+  Umi kuatia isimpléva oñembohérava nde rógape, peteĩ kuatia nde rekove rehegua
+  térã peteĩ tembiaporã ára pukukue, avei oipytyvõ.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Ñande tembiapo imprimíble rei niko: Ñeʼẽ jeheka, Ñembohysýi, Kuatia ñeʼẽmongetagua ha Bingo taʼangáva. Peteĩteĩ ñembosarái rogue oguereko peteĩ votõ Imprimir."
+  - "Emonguatia tai tuicháva ha hesakãva, oñembojoja porãva reheve, ha eheja peteĩ tembiapo añoite kuatia peteĩteĩme."
+  - "Kuatia hatã térã cartulina ndahasýi ojopy ha ndahasyi oñapytĩ. Eforra umi kuatia eipuru jey hag̃ua rotulador oñemboguekuaáva reheve."
+  - "Umi kuatia oñembohérava nde rógape, peteĩ kuatia nde rekove rehegua, peteĩ tembiaporã ára pukukue térã taʼanga okẽme g̃uarã, isimpléva ha oiporúva."
+  - "Peteĩ kuatia oñemonguatiavaʼekue haʼe peteĩ ñepepirũ, ndahaʼéi tembiapo oñemeʼẽvaʼekue. Oĩ porã ojapo michĩmi térã ndojapói ramo jepe."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Piko ñande tembiapo imprimíble demencia peg̃uarã rei?"
+    a: "Heẽ. Umi rogue Ñeʼẽ jeheka, Ñembohysýi, Kuatia ñeʼẽmongetagua ha Bingo taʼangáva ko tendápe rei ojepuru ha oñemonguatia hag̃ua. Eike pe ñembosarái roguépe ha eipuru pe votõ Imprimir."
+  - q: "Mbaʼe tembiapo imprimíble iporãve demencia peg̃uarã?"
+    a: "Umi imprimíble iporãvéva isimpléva, hesakãva ha kakuaapegua: peteĩ ñeʼẽ jeheka tai tuicháva, umi ñeʼẽ oho akatúape ha yvýpe añoite; taʼanga ñembohysýi línea hesakãva reheve; kuatia taʼangáva omoñepyrũva ñeʼẽmongeta; ha bingo taʼangáva aty peg̃uarã. Eiporavo pe tembiapo pe tapicha reñangarekóva oipotáva ha ikatúva koʼág̃a rupi, ha eheja peteĩ tembiapo añoite kuatia peteĩteĩme."
+  - q: "Mbaʼéichapa ikatu ajapo umi imprimíble hasyʼỹve hag̃ua rehecha ha ojepuru?"
+    a: "Eipuru tai tuicháva ha hesakãva, tinta hũ kuatia morotĩ térã morotĩngy rehe, ha paʼũ heta. Emonguatia kuatia hatã térã cartulinape ikatu hag̃uáicha pe kuatia opyta joja, eiporavo kuatia nomimbipa ani hag̃ua omimbi tesape, ha eipuru peteĩ tabla sujetador térã peteĩ ahoja nomýiva ani hag̃ua pe kuatia omýi. Oñeforráramo pe kuatia opyta porãve."
+  - q: "Ikatu piko amonguatia pene tembiapo peteĩ óga oñangarekóvape térã peteĩ aty ára pukukue peg̃uarã?"
+    a: "Ikatu. Umi tembiguái ombaʼapóva tembiapo rehe ikatu omonguatia ore rogue umi tapicha ha aty oikovéva upépe peg̃uarã. Bingo taʼangáva oñemoheñói aty peg̃uarã ha oguereko peteĩ henóiha pantallápe ikatu rehechaukáva peteĩ tevépe térã proyector reheve."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Sapyʼánte pe tembiapo iporãvéva haʼe peteĩ kuatia ha peteĩ haiha mesa jerére. Umi imprimíble noikotevẽi ojekarga, ndojerurei ñeʼẽñemi ha ndorekói pantalla, ha ndahasýi ojegueraha peteĩ jeike térã peteĩ aty haguã. Ko kuatiarogue omombeʼu umi tembiapo imprimíble rei ore tendápe oĩva, mbaʼéichapa oñemonguatia ikatu hag̃uáicha ojehecha ha ojepyso porã, ha mbovymi kuatia isimpléva oñembohérava nde rógape, umi familia ha tembiguái ombaʼapóva tembiapo rehe oipurúva.
 
-## What free printable activities do you offer?
+## Mbaʼe tembiapo imprimíble rei roikuaveʼẽ?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Roikuaveʼẽ irundy imprimíble rei. Eike oimeraẽva koʼã ñembosarái roguépe ha eipuru pe votõ **Imprimir** ereko hag̃ua peteĩ versión ikatúva oñemonguatia porã.
 
-| Printable | What it is | Good for |
+| Imprimíble | Mbaʼépa | Avave peg̃uarã iporã |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Ñeʼẽ jeheka](/games/word-search/) | Peteĩ ñeʼẽ jeheka tai tuicháva, umi ñeʼẽ oho akatúape ha yvýpe añoite | Ára kirirĩme peteĩ haiha reheve; pe tapicha ohayhúvaʼekue umi jerureháva |
+| [Ñembohysýi](/games/coloring/) | Taʼanga ñembohysýi ikatúva oñemonguatia térã oñembohysýi pantallápe | Ára pyʼaguapy ha heñói hag̃ua; oimeraẽ jave, oĩramo oipytyvõva |
+| [Kuatia ñeʼẽmongetagua](/games/conversation-cards/) | Kuatia taʼangáva oñeʼẽreíva jerurepyre juruja reheve, tema rupive | Jeike, ñehenói, karu familia reheve, aty manduʼápe g̃uarã |
+| [Bingo taʼangáva](/games/picture-bingo/) | Kuatia bingo taʼangáva, papapy rangue, ha peteĩ henóiha pantallápe | Óga oñangarekóva, aty ára pukukue, aty familia reheve |
 
-### Large-print word search
+### Ñeʼẽ jeheka tai tuicháva
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Ñeʼẽ jeheka](/games/word-search/) oipuru tai tuicháva ha ombohupa umi ñeʼẽ oho hag̃ua akatúape ha yvýpe añoite, ndaipóri diagonal ni ñeʼẽ ojereva. Embaʼapo oñondive: peteĩ omoñeʼẽ peteĩ ñeʼẽ tysýigui, ambue oheka. Ndaikatúiramo ojejuhu umi ñeʼẽ, eñehaʼã pehecha oñondive peteĩteĩ ñeʼẽ tai peteĩha, térã pemoñeʼẽ pe tysýi hatãme ha peñeʼẽ peteĩteĩ ñeʼẽ rehe.
 
-### Coloring pages
+### Taʼanga ñembohysýi
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Umi taʼanga [Ñembohysýi](/games/coloring/) ikatu oñemonguatia marcador térã lápiz saʼy reheve g̃uarã, térã oñembohysýi peteĩ tablet-pe, ojepoko peteĩ saʼy ha upéi peteĩ pehẽngue taʼangágui. Umi kuatia oñemonguatiavape g̃uarã, eikuaveʼẽ marcador anambusu ha mbovymi saʼy añoite peteĩ jave. Ehecha ore [ñemyesakã tembiapo popegua rehegua](/activities/arts-and-crafts/) ikatu hag̃uáicha pe ñembohysýi opyta kakuaapegua ha pyʼaguapy.
 
-### Conversation cards
+### Kuatia ñeʼẽmongetagua
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Kuatia ñeʼangarekógua](/games/conversation-cards/) ombojoaju peteĩ taʼanga hesakãva peteĩ ñeʼẽre juruja reheve, “Eremína chéve…” térã “Mbaʼépa rehecha”, techapyrãramo. Ojehai ñepepirũ juruja ramo, ndahaʼéi jerurepyre aranduchaukarã. Emonguatia peteĩ aty, eikytĩ, ha eñongatu mbovymi peteĩ vósape jeikerã térã pumbyry jerére ñehenóirã g̃uarã. Avei oiko porã aty [manduʼápe g̃uarã](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kuatia bingo taʼangáva
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Umi kuatia [Bingo taʼangáva](/games/picture-bingo/) oipuru taʼanga papapy rangue. Emonguatia peteĩ kuatia peteĩteĩ ñembosaráihárape g̃uarã ha eipuru pe henóiha pantallápe peteĩ laptop, tevé térã proyector reheve. Roikuaveʼẽ pehenói peve opaite kuatia henyhẽ mboyve, ani hag̃ua oĩ ojehejareíva. Ehecha [tembiapo aty peg̃uarã óga oñangarekóvape](/activities/care-home-groups/) mbaʼéichapa oñemboguata peteĩ aty.
 
-## How do I print activities so they are easy to use?
+## Mbaʼéichapa amonguatia tembiapo hasyʼỹ hag̃ua ojepuru?
 
-Small changes in how you print make a big difference.
+Umi ñemoambue michĩmi mbaʼéichapa remonguatia oipytyvõ tuicha.
 
-### Make it easy to see
+### Ejapo hasyʼỹ hag̃ua rehecha
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Tai tuicháva ha hesakãva.** Eipuru pe tai tuichavéva ikatúva oike pe kuatiápe. Ani reipuru tai jeguata térã ijysaja vai.
+- **Oñembojoja porã.** Tinta hũ kuatia morotĩ térã morotĩngy rehe. Eheja tinta morotĩeterei térã tuguaʼi saʼyva.
+- **Kuatia nomimbipa** omomichĩ pe mimbipá tesape hatãme.
+- **Ehecha umi anteojo ha pe tesape.** Alzheimer’s Association omombeʼu umi apañuái jehecha ha jehendu rehegua ikatuha ombohasy pe ñeʼẽmongeta, ha oikuaveʼẽ ojehechajey meme hag̃ua. Peteĩ lámpara hatã ha joja avei oipytyvõ.
 
-### Make it easy to hold
+### Ejapo hasyʼỹ hag̃ua ojepyso
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Kuatia hatã térã cartulina** opyta joja, ndahasyi ojupi, ha oñorairõ ojepuru jey jave.
+- **Peteĩ tabla sujetador** térã peteĩ ahoja nomýiva omombyta pe kuatia ani hag̃ua omýi.
+- **Marcador anambusu térã lápiz hũg̃uaiterei** ndahasyi ojepyso lápiz poiʼi hag̃ua.
 
-### Make it reusable
+### Ejapo ikatu hag̃uáicha ojepuru jey
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Eforra umi kuatia** térã emoinge peteĩ funda hesakãvape. Eipuru rotulador oñemboguekuaáva ñeʼẽ jeheka ha bingo kuatiápe, ha upéi embogue.
+- **Eiporavo funda nomimbipa** oĩramo apañuái pe mimbipáre, ha **emboyke pe juru** umi kuatia forradovaʼekue tijera reheve ndahasýi hag̃ua ojepyso.
+- **Eñongatu peteĩ karpéta** umi reipotavévape ani hag̃ua remonguatia jey pe kuatia peteĩcha opa arapokõindy.
 
-### Keep it simple
+### Eñongatu isimplépe
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Peteĩ tembiapo añoite kuatia peteĩteĩme.** Peteĩ ñeʼẽ jeheka térã peteĩ taʼanga añoite, ndahaʼéi heta tembiapo oñembojoapáva.
+- **Paʼũ morotĩ heta.** Peteĩ kuatia henyhẽetereíva ikatu ombyasy.
+- **Ani hag̃ua oñemoñeʼẽvaʼerã, ikatúramo.** Ehechauka pe tapichápe mbaʼépa ojapóta.
+- **Eikytĩ pe kuatia.** Tuichaiterei ramo, eikytĩ mbytépe térã embojere ikatu hag̃uáicha ojehecha pehẽngue añoite.
 
-## Other useful printables you can make at home
+## Ambue kuatia iporúva ikatúva ajapo nde rógape
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ndaopavavéi kuatia oipytyvõva haʼe ñembosarái. Koʼãva ndahasyi ojapo peteĩ procesador de texto ha peteĩ impresora reheve.
 
-### A life-story page
+### Peteĩ kuatia nde rekove rehegua
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Peteĩ kuatia peteĩ roguéva “che rehegua”, peteĩ taʼanga, pe téra pe tapicha oipotáva oñehenói hague, moõpa okakuaa, hembiapo, hogayguakuéra, hembiʼu, purahéi ohayhúva ha mbaʼépa omopyʼaguapy térã omomyakỹ. Dementia Australia oikuaveʼẽ peteĩ [aranduka manduʼáva](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) oguerekóva marandu pe tapicha rekove, oipotáva ha umi tapicha iñimportanteva rehegua, ikatu hag̃uáicha oipytyvõ umi ohóva ha oñangarekóvape ha omoñepyrũ ñeʼẽmongeta.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Iporãiterei ospitálpe ha tenda pyahu oñangarekóvape. NIA oikuaveʼẽ omeʼẽ hag̃ua umi ospitálpe ombaʼapóvape peteĩ [kuatia marandu tee rehegua](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) oguerekóva pe tapicha jepokuaa ára pukukue, téra oipotáva, oipotáva ha ndoipotáiva, mbaʼépa ikatu omomyakỹ, ha mbaʼéichapa ohechauka hasy oñeʼẽʼỹre.
 
-### A daily schedule
+### Peteĩ tembiaporã ára pukukue
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Peteĩ tembiaporã ára pukukue tuicha ha isimpléva, ára ha aravo reheve, mbovymi ñeʼẽ ha peteĩ taʼanga michĩmi peteĩteĩ pehẽnguépe g̃uarã: rambosa, jekuʼe, karu, pytuʼu, purahéi, karu pyhare. Pe [tembiaporã ára pukukue](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) Alzheimer’s Association-gua oikuaveʼẽ oñemboguata hag̃ua pe tapicha ára iporãvéva rehe, opuʼã ha oke jave peteĩcha, ha oñembojoaju hag̃ua tembiapo ha pytuʼu. Emoĩ tesa renondépe, ikatu ramírõ refrigerador rehe, ha ehejarei ijepysove hag̃ua. Ehecha ore [ñemyesakã tembiaporã ára pukukue rehegua](/activities/daily-routine/) hetave hag̃ua.
 
-### Picture labels for rooms and drawers
+### Taʼanga ñembohéra koty ha cajón peg̃uarã
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA oikuaveʼẽ oipuru hag̃ua taʼangahai saʼy hatãva térã taʼanga isimpléva [oñembohéra hag̃ua ñemopotĩha, keha ha kosina](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Pe jehechami peteĩcha oiko cajón ha armario peg̃uarã: peteĩ taʼanga ao pehẽngue rehe cajón ao pehẽnguégui, tasa rehe armario tasa rehegua. Emonguatia, eforra ha emboja.
 
-### A sorting set
+### Peteĩ aty oñemohendáva
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Emonguatia taʼanga mokõi aty isimpléva rehegua, yva ha yvoty térã tembipuru ha mbaʼe kosinagua, cartulinape. Eikytĩ ha emohenda mokõi ajakaʼípe oñondive. Kóva pantallápe oĩ [Ñamohenda oñondive](/games/sort-together/) ramo.
 
-### Song lyric sheets
+### Kuatia purahéi ñeʼẽ rehegua
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Emonguatia mbovymi purahéi ohayhúva ñeʼẽ tai tuichaitereívape oñepurahéi hag̃ua oñondive. Umi tapicha nomoñeʼẽivéima hetaiterei ikatu ohayhu ojepyso pe kuatia.
 
-### A family photo page
+### Peteĩ kuatia taʼanga familia rehegua
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Peteĩ kuatia peteĩ roguéva irundy térã poteĩ taʼanga familia tuicháva reheve, peteĩteĩme oguerekóva peteĩ téra ypykue. Ikatu opyta mesa ári opavave ojagarra ha oñeʼẽ hag̃ua hese. Umi téra oipytyvõ umi ohóva ha ombaʼapóvape oike hag̃ua ñeʼẽmongetápe, ha avave noikotevẽi oporandu “Mávapa kóva”.
 
-### A recipe card
+### Peteĩ kuatia tembiʼu apo rehegua
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Emonguatia peteĩ tembiʼu apo familia ohayhúva tai tuichávape. Eipuru ojejapo hag̃ua tembiʼu oñondive, térã oñeʼẽ hag̃ua añoite tembiʼu ymaguare rehe.
 
-## How do I offer a printable without it feeling like homework?
+## Mbaʼéichapa aikuaaʼuka peteĩ imprimíble ani hag̃ua oñeñandu tembiapo oñemeʼẽvaʼekue ramo?
 
-Present it as something to share, not a test.
+Ehechauka mbaʼe oñembojaʼóva ramo, ndahaʼéi peteĩ aranduchauka.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Eguapy ha eñepyrũ nde.** “Aipota ajapo ko ñeʼẽ jeheka. Reipytyvõsépa chéve ajuhu hag̃ua ‘yvyoty’”.
+- **Pembiapo oñondive.** Pejopyru, térã peteĩ ojuhu ha ambue omongurusu.
+- **Ani emombeʼu arakaʼeve hekoporã térã hendapeʼỹva.** Pe ñemyesakã [tembiapo óga pegua](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) Alzheimer’s Association-gua oikuaveʼẽ oñemaʼẽ hag̃ua pe tapére, ndahaʼéi pe osẽvape, ha pe vyʼáre, ndahaʼéi pe oñemoañetévare.
+- **Eheja umi kuatia oĩ haguére.** Pe ñemyesakã peteĩcha oikuaveʼẽ oñemoĩ hag̃ua aranduka manduʼáva, aranduka taʼangagua térã aranduka ymaguaréva tenda ndahasýiva ojehupyty hag̃ua. Kuatia ñeʼẽmongetagua ha kuatia taʼangagua ikatu opyta mesa yképe péicha avei.
+- **Epyta ejapóvo reipotavépe.** Peteĩ taʼanga ñembohysýi mbytépe haʼe peteĩ kaʼaru porã. Avei oĩ porã oñemboyke pe kuatia ha oñeʼu peteĩ mate térã kafé.
 
-## Where to find more
+## Moõpa ikatu ajuhu hetave
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Ehechami opa ore [ñembosarái ha imprimíble](/games/), térã ehecha [tembiapo opa jave g̃uarã](/activities/ideas/) ereko hag̃ua hetave idea, kuatia reheve ha kuatiaʼỹre.
