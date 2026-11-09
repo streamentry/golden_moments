@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Tra ta Persoon lesh Meenaghtys Gobbal Obbyr"
+seoTitle: "Tra ta Persoon lesh Meenaghtys Gobbal Obbyr"
+description: "Cre'n fa oddys persoon ta beaghey marish meenaghtys gobbal ny goll er-lheh marish obbyr, cre oddys oo prowal, cre lhisagh oo shaghney, as tra lhisagh lhiaghtee fakin eh."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Tra ta persoon lesh meenaghtys gra "cha nel", goaill rish dy feagh as prowal
+  reesht ny traarey elley ny cur red ennagh elley da. Dy mennick ta oyr ec
+  gobbal: foddee yn obbyr t'er ny hoilshaghey dy ve ro ghoillee ny ro ghientynagh,
+  foddee ad skee, ayns pian, accryssagh ny fo tooilley sheean. Ny arganey as ny
+  jean lhiettrimys. Jean eh ny sassey, cur daa reih daue, ny briaght orroo dy
+  chooney lhiat. Lhisagh caghlaa obbragh doaltattym ny tappee, er lheh lurg
+  doghan ny lheeys noa, goll gys lhiaghtee dy tappee.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Ta \"cha nel\" ny freggyrt dy lhisagh oo goaill rish, cha nel eh doilleeid dy lhisagh oo cosney."
+  - "Dy mennick ta oyr ec gobbal: ro ghoillee, ro ghientynagh, skee, doghan, neu-chesmadagh, ny fo tooilley."
+  - "Tuittym erash, fuirraght, as prowal reesht ny traarey elley ny lesh cummey ny sassey."
+  - "Ta briaght son cooney gobbraghey ny share na briaght orroo jannoo reddyn er nyn son hene."
+  - "Ny arganey, ny jean lhiettrimys, ny jean briaghtyn-prowal ny cur stiagh. Jeeagh ort hene my t'ou ro siyragh ny ro faggys."
+  - "Lhisagh caghlaa obbragh doaltattym ny tappee, er lheh marish doghan ny lheeys noa, goll gys lhiaghtee er-y-chooyl."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Vel eh kiart dy lhiggey daue gobbal obbraghyn dy bollagh?"
+    a: "Ta, er laa erbee. Foddee dy vel eh dy liooar soie cooidjagh, clashtyn kiaull ny jeeaghyn magh ass yn uinnag. My s'treishtys persoon dy chur taitnys er red erbee harrish shiaghtinyn, insh da'n lhiaghtee oc, er-yn-oyr dy vod drogh aigney, pian ny doilleeidyn slaynt elley ve bentyn rish."
+  - q: "Cre'n fa t'ad gobbal reddyn by vie lhieu roie?"
+    a: "Foddee shenn chummaght goll er-lheh tra t'eh nish shirrey schleioilyn ta meenaghtys er n'yannoo ny s'doillee, as foddee yn persoon gennaghtyn nearey. Prowal ayrn ny sassey jeh'n un obbyr, myr sampleyr reaghey crammanyn ayns ynnyd jeh whaalley, ny jeeaghyn er jallooyn garey ayns ynnyd jeh cummal lossreeyn."
+  - q: "Lhisagh mee prowal dy chur orroo caghlaa nyn aigney?"
+    a: "Cha lhisagh. Ta cur er persoon jannoo red ta meenaghtys er n'yannoo doillee ny enney myr red ta cur er imnea. Goaill rish y \"cha nel\", caghlaa yn chooish, as cur eh daue reesht ny sanmey ny ayns aght elley."
+  - q: "Tra vees caghlaa ayns ymmyrkey ny stayd jeean?"
+    a: "Cur fys er 999 my ta persoon ayns gaue ny my ta cowraghyn erbee oc jeh stayd lheeys jeean. Son mee-hushtey doaltattym ny ymmyrkey ta caghlaa dy tappee harrish ooryn ny laghyn, er lheh marish chiass, doghan ny lheeys noa, cur fys er y lhiaghtee oc er-y-chooyl."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+T'ou kiartaghey dy chooilley red, cur gamman ny shooyl daue, as clashtyn "Cha nel." Ny ta'n obbyr goaill toshiaght dy mie as jerrey lesh tablet er ny yeigh ersooyl as fockle geyre. T'eh cur er dy chooilley houney, as t'eh feer chadjin. Dy mennick ta gobbal as goll er-lheh ny çhaghteraght, cha nel eh creoghys. My oddys oo toiggal cre ta'n çhaghteraght, foddee eh soilshaghey dhyt cre dy hroailt ny lurg.
 
-## Why does someone with dementia refuse activities?
+## Cre'n fa ta persoon lesh meenaghtys gobbal obbraghyn?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Dy mennick ta oyr ayn, ga dy vel eh doillee da'n persoon cur eh ayns fockleyn. Ta'n [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gra dy vod shassoo noi gobbraghey çheet er yn oyr nagh vod yn persoon yn obbyr y yannoo ny dy vel aggle er eh y phrowal. Ta oyryn cadjin goaill stiagh:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **T'eh er ny hoilshaghey dy ve ro ghoillee.** Ta'n obbyr nish shirrey schleioilyn ta meenaghtys er n'yannoo doillee, as t'eh cur nearey orroo failley kiongoyrt rish persoon ennagh.
+- **T'eh er ny hoilshaghey dy ve ro ghientynagh.** Ta sleih aasit cur tastey da jallooyn gientynagh, coraaghyn arranagh as obbraghyn jeeaghyn myr dy row ad jeant son paitçhyn.
+- **Skeeys.** Ta ny sloo bree ec ymmodee sleih ny sanmey 'sy laa. Jeeagh er [obbyraghyn feagh 'sy fastyr anmagh](/caregiving/late-day-restlessness/).
+- **Neu-chesmadys corp.** Ta'n [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) soilshaghey pian, fardail cadley, doilleeidyn fakin ny clashtyn, coamrey, accrys, paays as eiyrtyssyn lheeys noa myr oyryn foddee ve ec trimshey.
+- **Tooilley ry-heet er.** Foddee çhellveeish feiyr, ymmodee co-loayrtyn ny shamyr lane dy ve ro vooar.
+- **Gennaghtyn er nyn stroial.** Ta'n NIA enmys cur er persoon jannoo red ta Alzheimer's er n'yannoo feer ghoillee, ny dy chooinaghtyn er reddyn ny sleih, myr oyr son imnea.
+- **Drogh aigney.** Foddee coayl taitnys ayns reddyn ve ny cowrey jeh trimshey cree, as ta shen feeu insh da lhiaghtee.
+- **Cha nel ad geearree eh, shen ooilley.** Ta kiart ec sleih aasit dy ghra "cha nel".
 
-## What should I try when they say no?
+## Cre oddys oo prowal tra t'ad gra "cha nel"?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Goaill rish y "cha nel" dy feagh, eisht caghlaa red ennagh: yn traa, yn obbyr, yn doilleeid ny yn aght t'ou briaght.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Lhig da ve son y traa t'ayn.** "Ta shen mie dy liooar. Foddee ny sanmey." Eisht gow er ash gys red ennagh elley gyn osney.
+2. **Prowal reesht ny sanmey.** Ta'n Alzheimer's Association coyrlaghey dy hroailt reesht ny sanmey, ny ec traa elley jeh'n laa.
+3. **Jean eh ny sloo.** Un chooilleeney ayns ynnyd jeh gamman slane. Un towl ayns ynnyd jeh baskad ny ghareeyn. Ny sloo jallooyn, ny sloo reihyssyn, jallooyn faagit ry-akin.
+4. **Cur daa reih daue.** "Share lhiat jeeaghyn er ny jallooyn eeanlee ny clashtyn kiaull?" Ta reih cur erash ennaghtyn dy reill.
+5. **Briaght son cooney ayns ynnyd jeh prowal.** "Oddys oo cooney lhiam ad y reaghey?" ny "Oddys oo ginsh dou cre'n daah ta jeeaghyn share?" T'eh er-lheh gennaghtyn dy vel feme orroo na gennaghtyn dy vel ad er nyn browal.
+6. **Toshiaght eh oo hene.** Cur toshiaght er yn obbyr rish lhiattee ad gyn briaght. Ta ymmodee sleih goaill ayrn tra ta red ennagh goll er hannah, as mannagh vel ad, t'ou foast er cheau traa cooidjagh.
+7. **Gow gys red corpagh ny feagh.** Shooyl giare, kiaull, greim dy ee, fillaghey ghareeyn, ny tammylt [ennal feagh](/games/calm-breathing/) cooidjagh. Ta'n NIA coyrlaghey dy hyndaa yn aire gys kiaull, lioar ny shooyl.
+8. **Lhig daue eh y yannoo er yn aght oc hene.** My t'ad geearree cloie er aght elley na ta ny reillyn gra, gow marish. Ta'n Alzheimer's Association coyrlaghey dy ve lhiggey lesh.
 
-## What should I say when they get frustrated?
+## Cre oddys oo gra tra t'ad goll er-lheh?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Jean ny sloo, lhig da dty choraa ve ny injilley as cur gerjagh daue. Ta [stoo Alzheimer's Association mychione imnea](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) coyrlaghey dy huittym erash as briaght son kied, gra reddyn feagh as mie, as cur reih stiurit eddyr daa reih. Raaueyn ayns y spyrryd shen:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Ta mee beggey, ta'n fer shoh cur er dy chooilley. Lhig dooin scuirr."
+- "T'ou jannoo dy mie. Ta mee ayns shoh mayrt."
+- "Vel traa ayd dy chooney lhiam lesh red ennagh elley?"
+- "Jeanmayd giu cappan dy hey ayns ynnyd jeh?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Eisht cur jerrey er yn obbyr gyn jannoo red mooar jeh. Ta tooilley ayns nyn [coyrleyn co-loayrt](/caregiving/communication-tips/).
 
-## What should I avoid?
+## Cre lhisagh oo shaghney?
 
-Some natural reactions tend to make things worse.
+Foddee ymmodee freggyrtyn dooghyssagh cur reddyn ny smessey.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Arganey ny lhiettrimys.** "Tar, un red elley ny lomarcan" ny "S'gooidsave lhiat shoh" cha nel eh cooney dy mennick.
+- **Briaghtyn-prowal ny cur stiagh.** "T'ou toiggal cre ta shoh" ny "Cha nel, ta'n fer shen aggairagh" cur tooilley tranlaase er.
+- **Goaill eh dy persoonagh.** Ta'n NIA cur cooinaghtyn da kiarailtee dy nee yn ghooghys, cha nee yn persoon, ta cur er ny caghlaaghyn shoh.
+- **Crammaghyn ny siyr.** Ta'n Alzheimer's Association coyrlaghey gyn dty choraa y hroggal, gyn aggle y yeeaghyn, gyn yn persoon y chorneil, y chramman, y chumrail, y choyrt fo chrosh, gyn geamagh as gyn arganey maroo, as dy haghney caghlaaghyn doaltattym ass yn shilley oc.
+- **Jannoo ymmyd jeh cooilleeney-loght.** "Ren mee kiartaghey ooilley shoh er dty hon" faagey ny s'messey diu nyn neesht.
+- **Cur enmyn orroo.** Ta "creoi" ny "doillee" follaghey yn oyr firrinagh as jannoo eh ny s'doillee dy chaghlaa.
 
-## How can I find out what is behind repeated refusals?
+## Kys oddys oo feddyn magh cre ta er cooyl gobbal reesht as reesht?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Jean noteyn aashagh son shiaghtin ny ghaa. Ta'n NIA gra dy vod coontey caghlaaghyn ayns ymmyrkey cooney lesh kiarailtee as shirveishaghyn slaynt feddyn magh patrone as toiggal yn oyr.
 
-Jot down:
+Screeu sheese:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- traa yn laa;
+- cre hug oo daue as kys ren oo briaght;
+- cre va goll er mygeayrt y mysh (sheean, goaldee, çhellveeish);
+- kys ren ad cadley, gee as giu, as tra ren ad ymmyd jeh'n chamyr-y-ghlenney er jerrey;
+- lheeys erbee noa ny doghan er y gherrid.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Dy mennick ta patronyn ry-akin dy tappee: gobbal nagh vel taghyrt agh lurg 4 d.fastyr, agh lesh gamman er lheh, ny agh tra ta'n çhellveeish er. Ta [stoo Family Caregiver Alliance mychione ymmyrkey meenaghtys](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) cur eh dy aashagh: cha nod mayd caghlaa yn persoon, agh foddee mayd caghlaa nyn ymmyrkey hene as y çhymmyltaght.
 
-## When should I talk to a doctor about refusal or frustration?
+## Tra lhisagh mee loayrt rish lhiaghtee mychione gobbal ny goll er-lheh?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Loayr rish lhiaghtee tra ta ymmyrkey caghlaa dy doaltattym, dy tappee, ny marish cowraghyn doghan. Ta'n NIA gra dy lhisagh caghlaaghyn doaltattym ny tappee ayns ymmyrkey, er lheh my ta doghan er ve ec y phersoon ny caghlaaghyn lheeys er y gherrid, ve currit gys tastey lhiaghtee er-y-chooyl.
 
-Contact their doctor promptly if you notice:
+Cur fys er y lhiaghtee oc dy tappee my hee oo:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- mee-hushtey doaltattym ny caghlaa mooar harrish ooryn ny laghyn;
+- cowraghyn pian, myr sampleyr crampaghey, coadey ayrn jeh'n chorp, ny doilleeid noa lesh gleashaghey;
+- chiass ny cowraghyn elley jeh doghan;
+- lheeys noa ny er ny chaghlaa as caghlaa ayns ymmyrkey ny lurg;
+- coayl taitnys ayns bunnys dy chooilley red, jeir ny tayrn erash fud ny h-ashoonyn;
+- gobbal bee ny jough.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Ta'n Alzheimer's Association coyrlaghey scrutaght lheeys lane son peiagh erbee lesh cowraghyn ymmyrkey, er lheh tra t'ad jeeaghyn dy doaltattym. Ta Family Caregiver Alliance myrgeddin coyrlaghey dy loayrt rish y lhiaghtee hoshiaght, er-yn-oyr dy vod oyr lheeys ve ec doilleeidyn ymmyrkey. Ny toshighey, ny scuirr ny ny jean caghlaa er lheeys erbee gyn loayrt rish lhiaghtee ny pharmaseyder.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+My ta peiagh erbee ayns gaue ny my ta cowraghyn erbee ayns jeh stayd lheeys jeean, cur fys er 999. Ta'n NIA coyrlaghey dy insh da'n fer-freagyrtee dy vel meenaghtys er y phersoon.
 
-## Is it okay if we do nothing at all?
+## Vel eh kiart mannagh vel shin jannoo red erbee?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ta. Laa ennagh, yn obbyr share t'ayn gyn obbyr erbee: soie cooidjagh, cummal laueyn, clashtyn recortyssyn ennoil, ny jeeaghyn er eeanlee ass yn uinnag. Cha nel shen failleil. Ta nyn [stoo mychione cloie cooidjagh](/caregiving/how-to-play-together/) soilshaghey cre'n fa foddee scuirr dy moghey, ny gyn toshiaght er chor erbee, ve yn reih chair.

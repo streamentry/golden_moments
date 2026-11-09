@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Obbraghyn son Meenaghtys S’jerree, ayns Lhiabbee ny Caairrey"
+seoTitle: "Obbraghyn Meenaghtys S’jerree: Lhiabbee as Caairrey"
+description: "Obbraghyn meen son meenaghtys s’jerree, goaill stiagh persoon ayns lhiabbee ny caairrey: kiaull, bentyn, lhaih magh, sheeanyn as ve marish, marish noteyn shickyr."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Ayns meenaghtys s’jerree, ta obbraghyn bentyn rish ny tushteyghyn as rish
+  dty heshaght: cloie kiaull ennoil, cummal laue, masshey laue dy moal,
+  lhaih magh, jeeaghyn er jallooyn, sheeanyn nature as soie ec uinnag ny
+  mooie. Ta ad shoh gobbraghey ayns lhiabbee ny caairrey. Cum traa ghiare,
+  jeeagh er eddinyn as laueyn son comfort, as cooinnee dy vel ve kionfenish
+  ny obbyr hene.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ta kiangley foast jantagh. ’Sy çhiaght s’jerree, ta’n persoon gennaghtyn y theihll trooid ny tushteyghyn erskyn ooilley."
+  - "Ta kiaull, bentyn meen, coraaghyn ennoil as reddyn bog dy chummal dy mennick roshtyn gys sleih tra nagh vel focklyn gobbraghey ny smoo."
+  - "Ta bunnys dagh eie ayns shoh gobbraghey son persoon ayns lhiabbee ny caairrey."
+  - "Jeeagh son comfort as neu-chofford ayns yn eddin, ny laueyn as yn ennal, as scuirr ec cowrey erbee dy anvea."
+  - "Shaghney reddyn beggey, as cur bee ny jough er-lheh myr ta’n skimmee kiarail coyrlaghey, er-yn-oyr dy vod sluggey çheet dy ve neu-hickyr."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Cre ny obbraghyn oddys oo jannoo marish persoon ta cummal marish meenaghtys s’jerree as t’eh ny t’ee ayns lhiabbee?"
+    a: "Cloie y chiaull smoo ennoil oc, cum y laue oc, cur masshey laue moal daue lesh ooyl, lhaih magh ass lioar ny padjer s’laik lhieu, jeeagh er jallooyn, ny cloie sheeanyn nature meen. Foshl y coodag uinnag dy vod ad fakin mooie. Ta traa ghiare, sheeoil lesh un red ec y traa dy mennick gobbraghey share."
+  - q: "Vod sleih ta cummal marish meenaghtys s’jerree foast goaill soylley ass kiaull?"
+    a: "Ta ymmodee jeu foddey. Ta’n Alzheimer’s Association gra dy vod persoon, eer ’sy çhiaght s’jerree, foast tappey dy chooilleeney ny goaill arrane vo’n aegid oc. Reih kiaull v’ad graihagh er tra v’ad ny s’aa, as cum y sheean injil."
+  - q: "Kys oddym toiggal my t’ad goaill soylley ass obbyr?"
+    a: "Jeeagh son cowraghyn beggey: geayltyn feayshil, eddin ny s’meeley, jeeaghyn ’sy tooill, hummaal, laue dy ghreimmey ny ennal ny s’moal. Foddee crampyn eddin, tayrn ersooyl, neu-fea ny geam dy vel ad neu-choffordagh ny ayns pian. My hee oo ad shoh, scuirr as insh da’n skimmee kiarail my t’ad tannaghtyn."
+  - q: "Vel eh feeu cur shilley orroo mannagh vel ad cur enney orrym ny smoo?"
+    a: "Ta. Ta’n National Institute on Aging gra dy vod ve kionfenish ny lomarcan cur fea, as dy vod bentyn, kiaull as skeealyn foast cur gerjagh ayns meenaghtys er-ash. Foddee dy bee dty choraa as dty ventyn ennoil eer tra nagh vel dt’ennym."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Ayns y çhiaght s’jerree dy veenaghtys, foddee dy vel persoon loayrt feer veg, feme cooney lesh dagh kiarail gaghlaa as caa mooar jeh’n laa ayns lhiabbee ny caairrey. Foddee eh gennaghtyn nagh vel veg faagit dy yannoo ry-cheilley. Ta. Ta’n [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) gra dy vod paart jeh’n persoon hene tannaghtyn, as ec y traa shoh ta’n theihll er ny hennaghtyn erskyn ooilley trooid ny tushteyghyn. Foddee kiaull, bentyn, coraa ennoil as dty heshaght sheeoil foast cur gerjagh as shallidyn dy chiangley.
 
-## What activities help in late-stage dementia?
+## Cre ny obbraghyn ta cooney ayns meenaghtys s’jerree?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Ta obbraghyn tushtee aashagh as sheshaght sheeoil cooney smoo ’sy çhiaght s’jerree. Ta’n Alzheimer’s Association coyrlaghey cloie kiaull ennoil, lhaih ayrnyn jeh lioaryn scanshoil, rubbal ooyl lesh soar ennoil er y chrackan, as soie mooie ry-cheilley er laa aalin. Ta’n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) cur rish skeealyn, jallooyn, bentyn meen ny masshey, as kiaull, sheean bane ny sheeanyn nature, as t’eh gra dy vod dty enish ny lomarcan cur fea.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+Ta’n [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) gra dy vel feme lajer ec sleih ’sy çhiaght s’jerree dy mennick dy chummal red ennagh faggys daue son gerjagh, as t’eh coyrlaghey obbraghyn tushtee aashagh, sheeyntyn meen, gleashaghey scarf, kiaull, shilley beiyn, bentyn dooinney as ellyn seyr.
 
-## Activities for someone in bed or a chair
+## Obbraghyn son persoon ayns lhiabbee ny caairrey
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Cloie yn chiaull oc.** Reih arraneyn vo’n aegid oc, veih’n chredjue oc ny veih’n lught-thie oc. Cum y sheean injil as soie faggys daue. Eer nish, ta paart dy leih tappey meoir ny hummaal. Jeeagh er [obbraghyn kiaull](/activities/music/).
+2. **Cum ad er laue.** Ta cummal laue, lesh stroakey meen yn oard-veg, ny obbyr hene. Abbyr hoshiaght cre t’ou jannoo.
+3. **Cur masshey laue moal.** Çhiow beggan ooyl ayns dty vassyn as stroak veih’n uillin gys barr ny meoiryn. Reih ooyl gyn soar, ny soar v’ad dy kinjagh graihagh er my ta’n crackan oc cur lesh.
+4. **Lhaih magh.** Daan ennoil, ayrn ass lioar deyr, screeuyn crauee ny duillag spoyrt. Ta rihm dty choraa ny s’scanshoil na ny focklyn.
+5. **Insh skeeal.** Loayr mychione troailt lught-thie ny’n laa ren ad poosey. Cha lhiass dhyt freggyrtyn.
+6. **Jeeagh er jallooyn.** Cum un jalloo mooar ec y traa ec leval ny sooillyn as cur coontey jeh dy çheh. Shaghney briaght quoi t’ayn.
+7. **Cur red bog dy chummal.** Eaddagh-thallee fillit, peesh dy phloog ny beisht veg bog. Ta’n NIA coyrlaghey cur eaddagh-thallee da’n persoon dy chummal tra t’ad er nyn ngleashaghey, dy vel eh ny sloo laik lhieu greimmey ort ny er y thie-stoyr.
+8. **Cloie sheeanyn nature.** Foddee fliaghey, tonnyn ny kiaull eean ec sheean injil cur fea da shamyr feiyr.
+9. **Cur yn cheu-mooie stiagh.** Foshl ny coodaghyn uinnag, cur beealtee eean çheu-mooie jeh’n uinnag, ny cur stiagh kuse dy vlaaghyn noa ny duillagyn dy yeeaghyn orroo as dy ventyn roo.
+10. **Gow mooie.** My oddys y persoon soie ayns caairrey-queeyl, foddee kuse dy vinnidyn ’sy scaa er laa meein ve feer aalin.
+11. **Broo y folt oc ny cur eaddagh çheh daue.** Foddee kiarail meen, moal as eaddagh çheh son laueyn as eddin gennaghtyn kiarailagh.
+12. **Gleashaghey dy meen marish kiaull.** Crouee scarf eddrym ry-cheilley, ny craa ny laueyn lesh rihm arrane. Son sheeyntyn as gleashaghey altyn, briagh da fir-lhee fys-chorp ny ben-voirr dy yeeaghyn dhyt aghtyn sauçhey hoshiaght.
+13. **Jean ellyn seyr.** Skeayl daah nagh vel dewol er pabyr mooar lesh sponge ny laue, fo stiurey dty laue hene. Cha nel torryn cair.
+14. **Cur failt er shilley beiyn.** Peht sheeoil er y lhiabbee ny er y ghlioon, my row yn persoon graihagh er beiyn as my ta’n ynnyd cur kied da.
+15. **Jean ennal dy moal ry-cheilley.** Soie faggys daue as jean ennal dy moal as dy akin. Foddee [Ennal Fea](/games/calm-breathing/) coyrt coyrle diuish y jees, as t’ou goaill toshiaght as scuirr.
+16. **Bee ny lomarcan kionfenish.** Soie faggys, hum, snaie ny lhaih dy sheeoil. Ta ve kionfenish dy liooar.
 
-## How to share an activity at this stage
+## Kys dy rheynn obbyr ec y traa shoh
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Tar er y hoshiaght.** Abbyr yn ennym oc as dt’ennym hene, as loayr dy moal as dy meen roish my vennys oo roo.
+- **Cur un red ec y traa.** Cur y çhellveeish ass roish cloie kiaull. Jean un tushtey ec y traa.
+- **Cum eh giare.** Foddee kuse dy vinnidyn ve dy liooar. Ta ymmodee shallidyn ghiare trooid y laa ny share na un traa liauyr.
+- **Jean ad coffordagh hoshiaght.** Jeeagh dy vel y persoon coadit dy mie. Ta’n NIA coyrlaghey boayrd-glioon dy chur y laueyn er as dy chooney lesh y chorp uachtaragh tra t’ad soie seose.
+- **Jeeagh er y freggyrt.** Ta laueyn feayshil, eddin ny s’meeley, jeeaghyn ’sy tooill ny hummaal cowraghey comfort. Ta’n NIA gra dy vod geamyn, crampyn eddin, coadey ayrn jeh’n chorp ny anvea doaltattym ve ny cowraghyn dy phian. Scuirr, as insh da’n skimmee kiarail.
 
-## A quick guide by sense
+## Coyrle tappee lurg tushtey
 
-| Sense | Ideas | Take care |
+| Tushtey | Eieyn | Cur tastey |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Clashtyn | Kiaull ennoil, dty choraa lhaih, sheeanyn nature | Cum y sheean injil; un sheean ec y traa |
+| Bentyn | Masshey laue, cummal laue, eaddagh bog, eaddagh çheh | Briagh ny cur raaue hoshiaght; jeeagh nagh vel y crackan jiarg ny brisht |
+| Fakin | Jallooyn, blaaghyn, yn reayrt veih’n uinnag, feeshan nature moal | Cum reddyn ec leval ny sooillyn; soilshey mie, gyn sollyssid |
+| Soar | Ooyl ennoil, blaaghyn noa, coffey er y ghoaill faggys | Shaghney soaryn lajer; jeeagh son allergaghyn as ennal |
+| Blas | Blass beg jeh blas ennoil | Ny lomarcan bee as teaystyn ta’n skimmee kiarail gra dy vel ad sauçhey |
 
-## Safety at this stage
+## Sauçhys ec y traa shoh
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Foddee sluggey çheet dy ve doillee ’sy çhiaght s’jerree, as ta’n NIA cur raaue dy vel shen cur rish y ghaue dy phlooghey. Ny faag reddyn beggey er-gerrey, as ny cur agh bee ny jough ayns ny teaystyn as ny staydyn ta’n skimmee kiarail coyrlaghey. Jeeagh er y chrackan dy meen liorish obbraghyn bentyn, er-yn-oyr dy vod y crackan raip ny broo dy aashagh. Son tooilley mychione eieyn tushtee sauçhey, jeeagh er [obbraghyn tushtee](/activities/sensory/).
 
-## Looking after yourself too
+## Kiarail ort hene myrgeddin
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Ta kiarail ’sy çhiaght s’jerree creoi er y chorp as er ny faireyghyn, eddyr ec y thie ny liorish shilley er thie kiarail. Foddee skimmee hospys as kiarail gerjaghee cooney lesh comfort, cooney as plannal, as ta’n NIA cur ad myr bun dy chooney. Ta shilley ghiare, heeoil feeu; jeeagh er [cur shilley er persoon ta cummal marish meenaghtys](/activities/visiting/). My t’ou stiurey possanyn, ta [obbraghyn possan ayns thieyn kiarail](/activities/care-home-groups/) cur eieyn son coyrt sessoonyn er-lheh. As lhaih my saillt [kiarail ort hene son kiarailderyn](/caregiving/caregiver-self-care/): ta fea ny ayrn dy chiarail dy mie.

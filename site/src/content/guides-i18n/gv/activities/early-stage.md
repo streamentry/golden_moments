@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Cummaghtyn son Jarrooaght Cooinaghtyn ayns y Toshiaght"
+seoTitle: "Cummaghtyn ayns Toshiaght Jarrooaght Cooinaghtyn"
+description: "Raaueyn cummaght son toshiaght jarrooaght cooinaghtyn: cummaghtyn, gamman, troailt, screeu as jannoo plannyn cooidjagh, lesh caghlaaghyn beggey dy chooney lesh y persoon."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Ayns toshiaght jarrooaght cooinaghtyn, foddee yn chooid smoo dy leih tannaghtyn
+  goll er lesh ny reddyn ta taitnys oc ayn: cummaghtyn, kaartyn as claare-gamman,
+  cooilleeney, gaarlaghey, shooyl, possanyn, credjue as obbyr sharroo. Ny caghlaaghyn
+  mooarey ta possanyn ny sloo, troailt ny giare, plannyn screeut aashagh as
+  sheshey er-gerrey. Feysht da'n persoon cre'n cooney t'ad geearree, as lhig daue
+  cur yn eiyrtys.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Ta'n chooid smoo dy leih ayns y toshiaght beaghey dy mie er nyn son hene. Ta cummaghtyn dy cadjin feme er caghlaa, cha nel feme er coayl ad."
+  - "Feysht da'n persoon cre'n cooney t'ad geearree, as cur-jee riyr er cowrey aashagh tra ta cooney failt."
+  - "Ta possanyn ny sloo, traaghyn ny s'feayr as troailt ny giare cur rish caghlaa mooar dy mennick."
+  - "Shoh traa mie da'n persoon cur yn eiyrtys er shaleeghyn mychione nyn mea hene, myr lioar-vree ny lioar-skeeal bea."
+  - "Reih gamman son taitnys. Faag magh red erbee ta goaill toshiaght dy ve myr prowal."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Cre ny cummaghtyn ta mie son toshiaght jarrooaght cooinaghtyn?"
+    a: "Dy cadjin, ny reddyn cheddin ta'n persoon hannah goaill taitnys ayndoo: kaartyn, claare-gamman, cooilleeney, gaarlaghey, shooyl, kiaull, cummaghtyn credjue, possanyn as obbyr sharroo. Foddee eh ve ymmydoil ad y yannoo ny giare, ny s'feayr ny ny s'aasey. Ta screeu lioar-vree, screeu lettyryn as jannoo lioar-skeeal bea cooie da'n stayd shoh myrgeddin."
+  - q: "Kys oddym cooney gyn goaill harrish?"
+    a: "Feysht cre'n sorch dy chooney ta'n persoon geearree, as jeeagh reesht dy mennick. Cur-jee riyr er fockle ny craa meanagh ta gra dy vel eh mie dy heet stiagh, myr sampleyr tra nagh vel fockle ny ennym cheet. Mannagh vel gaue sauçhey ayn, lhig daue eh y yannoo er nyn aght hene, ga dy vel eh goaill ny smoo dy hraa."
+  - q: "Lhisagh peiagh lesh jarrooaght cooinaghtyn ayns y toshiaght prowal cummaghtyn noa?"
+    a: "Lhisagh, my t'ad geearree. Ta cummaghtyn ennagh ny sassey, agh ta ymmodee sleih goaill taitnys ayns red ennagh noa, myr possan shooyl cooie da jarrooaght cooinaghtyn, brastyl ellyn ny possan arrane. Prow eh un cheayrt gyn tranlaase as jeeagh kys t'eh gennaghtyn."
+  - q: "Vel appyn traenal inchyn feeu ayns y toshiaght?"
+    a: "Ta taitnys ec paart dy leih ayns meeryn-fockle as gamman focklyn, as ta'n taitnys shen dy liooar. Cha nel eh er ny hoilshaghey dy vel app ny gamman erbee lheihys, moalley ny scuirr jarrooaght cooinaghtyn. My ta gamman cur er tranlaase ny jannoo er y persoon dy vel ad failleil, cur sheese eh."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Ayns toshiaght jarrooaght cooinaghtyn, ta ymmodee sleih foast beaghey myr v'ad roie. Foddee ad gobbraghey, jannoo obbyr sharroo, fakin caarjyn as stiurey yn chooid smoo jeh'n laa oc hene. Cha nel feme er cummaghtyn y choayl; ta feme er kuse dy chaghlaaghyn beggey dy reayll ad taitnyssagh. Ta dty churrym ny smoo myr sheshey na kiaralagh: peiagh ta cur cooney, jannoo plannyn maroo as cheet stiagh agh tra ta ad shirrey eh.
 
-## What activities are good in early-stage dementia?
+## Cre ny cummaghtyn ta mie ayns toshiaght jarrooaght cooinaghtyn?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Ny cummaghtyn share ayns y toshiaght, dy cadjin, t'ad ny reddyn ta'n persoon hannah graihagh er, jeant red beg ny sassey. Ta'n [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) cur raaueyn myr kaartyn as claare-gamman, shirrey focklyn, shooyl, daunsin, gaarlaghey, soiaghey blaa, insh skeealyn, jannoo jalloonyn, kiaull, screeu lioar-vree, screeu lettyryn, jannoo lioaryn-scrap, cooilleeney as tradishoonyn feailley.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Ny ta goll er caghlaa, dy mennick, she yn ynnyd, cha nee yn cummaght hene. Ta'n [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gra dy vod sleih ayns y toshiaght toshiaght dy hayrn ad hene er-ash veih reddyn v'ad goaill taitnys ayndoo, as t'ad cur sampleyr jeh peiagh ta gennaghtyn rouyr ec feailley vooar agh ta ny s'creeney ayns possan beg. Loayr dy foshlit mychione ny ta ny s'cruaie, as cur caghlaa er cooidjagh.
 
-## Ask first, and agree on how to help
+## Feysht hoshiaght, as cur-jee riyr er kys dy chooney
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Ta [stiurey toshiaght Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) cur coyrle er kuse dy chliaghtaghyn ta bentyn rish cummaghtyn myrgeddin:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Feysht jeeragh.** Ta "Cre yinnagh clube lioaryn ny sassey dhyt?" cur freggyrt ny share na ourys.
+- **Gow rish dy vod ad.** Mannagh vel gaue sauçhey ayn, lhig da'n persoon prowal, as cur greinnaghey ayns ynnyd goaill harrish.
+- **Cur-jee riyr er cowrey.** Reih fockle ny craa meanagh ta gra "t'eh mie dy heet stiagh," myr sampleyr tra nagh vel ennym cheet ayns gamman kaartyn.
+- **Jeeagh reesht dy mennick.** Feysht vel yn earroo dy chooney gennaghtyn kiart, rouyr ny ro veg.
 
-## Activity ideas for the early stage
+## Raaueyn cummaght son y toshiaght
 
-### Keep up roles and hobbies
+### Cum seose roilyn as cummaghtyn
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Cum obbyr reiltagh.** Ta shirveish obbyr sharroo gagh shiaghtin, coir ny clube cur cummey er y chiaghtin. My t'eh cheet dy ve tranlaasit, foddee dy bee roal ny s'giare ny ny s'feayr ny share.
+- **Jean plannyn bee cooidjagh.** My ta kionnaghey bee er jeet dy ve doillee, ta'n Alzheimer's Association coyrlaghey dy hirrey er y persoon cooney lesh plannyn y vee as screeu yn rolley.
+- **Jean cooilleeney as fuinney.** Eiyr er resept ennoil cooidjagh. Cur ny stoo magh ayns oardagh roish my toshee oo, myr shen dy vel ny keimyn ry-akin.
+- **Obbraghey 'sy gharey.** Jean plann son lhiabbee, reih rassyn ny lossreyn as jean yn obbyr cooidjagh. Ta rolley screeut jeh obbraghyn y gharey 'sy chiaghtin cooney.
+- **Cum seose keird.** Foddee obbyr-fuygh, whaaley, snaie ny troggal modelyn goll er lesh pattyryn ny sassey as soilshey mie.
 
-### Games for enjoyment
+### Gamman son taitnys
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Cloie kaartyn as claare-gamman.** She gamman ennagh ny sassey. Cloie er possanyn myr nagh vel peiagh erbee er y spot, as cum coontey dy meeley ny ny jean eh eddyr.
+- **Prow shirrey focklyn lesh clou mooar.** Foddee yn [shirrey focklyn](/games/word-search/) ain ve cloiet er y skrin ny prentit son tammylt feagh.
+- **Jean meeryn-jalloo.** Reih earroo dy pheeshyn ta gennaghtyn feagh, cha nee doillee. Ta [meeryn-jalloo](/games/picture-puzzle/) ny chooid giare er y skrin, as ta'n stiurey ain mychione [meeryn-fockle son jarrooaght cooinaghtyn](/activities/puzzles/) cur cooney lesh reih.
+- **Gow ayrn ayns trivia son taitnys.** Ta ram sleih graihagh er oie trivia possan. My t'eh goaill toshiaght dy ve myr prowal, reih red ennagh elley, ny prow nyn [feyshtyn trivia aashagh](/activities/trivia/), ta lesh reihghyn freggyrt as gyn coontey.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Ta gamman son taitnys ayns shoh. Cha nel eh er ny hoilshaghey dy vel gamman erbee lheihys ny moalley jarrooaght cooinaghtyn; lhaih tooilley ayns [gamman inchyn: cre ta'n rannsagh gra](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Screeu, smooinaghtyn as recortyssyn
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Cum lioar-vree.** Ta'n Alzheimer's Association coyrlaghey screeu lioar-vree myr aght dy obbraghey trooid ennaghtyn lurg feddyn magh. Ta kuse dy linteyryn 'sy laa dy liooar.
+- **Cur yn eiyrtys er lioar-skeeal bea.** Ta'n toshiaght ny hraa mie da'n persoon nyn jallooyn hene y reih as screeu ny insh ny skeealyn nyn yeï. Jeeagh er [cummaghtyn cooinaghtyn](/activities/reminiscence/).
+- **Screeu lettyryn.** Foddee screeuyn da oanluckan, shenn charrey ny shenn cho-obbragh ve scanshoil da'n daa heu.
+- **Loayrt trooid jallooyn.** Ta [paaryn jalloo](/games/photo-pairs/) jannoo gamman cochiangley meein jeh jallooyn lught-thie, as ta [kaartyn coloayrtys](/games/conversation-cards/) cur toshiaghtyn aashagh son coloayrtys.
 
-### Go out and move
+### Goll magh as glenney
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Ta'n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) coyrlaghey dy chumrail seose troailt ennagh choud's as ta shiuish nyn neesht coamrit. Jean plannyn son y traa share 'sy laa da'n persoon, as ny lhig daue goll er ro foddey.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Troailt giare cultooroil.** Thie-tashtee, cloie 'syn astyr ny taishbynys ellyn, ec traa ny s'feayr my vees eh jantagh.
+- **Snaue.** Ta'n NIA coyrlaghey linn-snaue ec traa meeley 'sy laa.
+- **Possanyn shooyl as brastyllyn daunsin.** Ta'n [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) gymmydey daunsin, tai chi, yoga, snaue as possanyn shooyl, as shirveishyn cooie da jarrooaght cooinaghtyn raad t'ad ry-gheddyn.
+- **Possanyn arrane as caffeeghyn cooinaghtyn.** Possanyn feagh raad oddys sleih ta beaghey lesh jarrooaght cooinaghtyn as nyn sheshaghyn meeiteil rish feallagh elley 'sy stayd cheddin.
 
-## Small changes that keep activities enjoyable
+## Caghlaaghyn beggey ta freayll cummaghtyn taitnyssagh
 
-| If this is getting harder | Try this |
+| My t'eh shoh ny s'cruaie | Prow shoh |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Boaylyn throng ny feiyr | Goll ec traaghyn feayr, reih possanyn ny sloo, soie ec oirr y chamyr |
+| Cooinaghtyn enmyn noa | Cur enney er sleih liorish ennym dagh keayrt; shirrey er possanyn cowraghyn-enmyn y usal |
+| Eiyrtyssyn lesh ymmodee keimyn | Screeu ny keimyn sheese, ny cur dagh nhee ayns oardagh hoshiaght |
+| Goll skee | Troailt ny giare, aash lurg shen, gyn plannyn elley yn laa shen |
+| Freayll coontey ayns gamman | Cloie er possanyn, jean ny reillyn ny sassey, ny ny jean coontey |
+| Feddyn focklyn | Cur traa; cur fockle stiagh agh my ta'n cowrey ayd gra dy vel eh mie |
 
-## When to slow down
+## Tra dy vel eh orroo lhiggey shaghey
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Scuirr ny jean caghlaa er cummaght tra ta eh cur lesh ny smoo dy hranlaase na taitnys. Ta frustyraght goll rish, shaghney cummaght ny gra "cha noddym eh y yannoo arragh" feeu coloayrtys meen, cha nee broo. Dy mennick, she cooid ny sloo jeh'n red cheddin yn ansoor. Tra ta'n persoon feme ny smoo dy chooney dy gholl toshiaght as dy eiyrt er keimyn, foddee dy bee ny raaueyn ayns [cummaghtyn 'sy vean](/activities/middle-stage/) ny share. Son tooilley mychione coloayrtys cooneyoil, jeeagh er [coyrle coloayrtys](/caregiving/communication-tips/), as son ymmodee raaueyn elley, jeeagh er [101 cummaght](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ta feme ec sheshaghyn er cooney myrgeddin. Ta'n toshiaght ny hraa mie dy hroggal dty lhiannoo hene dy chooney; jeeagh er [kiarail-hene son kiaralaghyn](/caregiving/caregiver-self-care/).

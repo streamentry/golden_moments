@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Tra ta persoon lesh coayl cooinaghtyn geearree goll thie"
+seoTitle: "Coayl cooinaghtyn: geearree goll thie"
+description: "Cre'n fa ta persoon ta beaghey lesh coayl cooinaghtyn geearree goll thie eer tra t'eh thie, cre dy ghra, obbraghyn kiun dy hroailt, as kiarail son sauçhys."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Tra ta persoon lesh coayl cooinaghtyn geearree goll thie, ta "thie" mennick
+  cowraghey da ennaghtyn dy hauçhys ny boayl ass y traa t'er gholl shaghey, cha
+  nee thie er-lheh. Ny jean arganey dy vel ad thie. Cur tastey da'n ennaght,
+  jean ad shickyr dy vel ad sauchey, briaght mychione thie, as eisht gow lesh
+  ad dy meen gys jallooyn, kiaull, bee beg, shooyl ny obbyr aashagh. Jeeagh son
+  accrys, paays, y thie-beaghee ny pian. My t'eh goaill toshiaght doaltattym,
+  cur feysht er y lhiaghtee oc.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "Ta \"By vie lhiam goll thie\" mennick cowraghey \"Cha nel mee gennaghtyn sauchey ny settled,\" cha nee shirrey son enmys ynnyd."
+  - "Ta arganey ny prowal dy vel ad thie mennick jannoo imnea ny smessey. Cur freggyrt da'n ennaght ny ynnyd jeh."
+  - "Briaght daue ginsh dhyt mychione thie, as eisht cur roish jallooyn, kiaull, bee beg, shooyl ny obbyr aashagh."
+  - "Jeeagh son red ennagh oddys oo cur lesh kione: accrys, paays, y thie-beaghee, pian, ro çheh ny ro oayllagh, feiyr, skeeys."
+  - "My t'eh taghyrt dagh fastyr anmagh, foddee dy vel eh \"sundowning\"; foddee dy jean cliaghtey shickyr as soilshey mie cooney."
+  - "Jean plannen son sauçhys my t'ad prowal goll magh, as cur feysht er y lhiaghtee oc mychione caghlaa erbee doaltattym."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Cre'n fa ta my voir lesh coayl cooinaghtyn geearree goll thie eer tra t'ee thie?"
+    a: "Foddee coayl cooinaghtyn jannoo shamyryn ennagh gennaghtyn quaagh, as ayns traa foddee sleih gennaghtyn dy vel ad ayns traa s'leaie 'sy vea oc. Foddee dy vel \"thie\" cowraghey da thie yn aegid ny ynrican yn ennaght dy ve sauchey as gerjoil. Ta freggyrt da'n ennaght shen mennick gobbraghey ny share na soilshaghey cre'n boayl t'ee ayn."
+  - q: "Cre lhisagh mee gra tra t'ad geearree goll thie?"
+    a: "Prowal \"T'ou sauchey ayns shoh, as bee'm tannaghtyn mayrt,\" as eisht \"Insh dou mychione dty hie.\" Eaisht, cur jalloo ny arrane er bun, as cur roish jough ny shooyl giare. Jean shaghney \"T'ou thie\" myr oghsan, son foddee eh gennaghtyn gollrish dy vel ad goll er gra dy vel ad fo marranys."
+  - q: "Vel eh mie gra dy jig mayd thie ny sanmey?"
+    a: "Ta lughtyn-thie as sheshaghtyn coayl cooinaghtyn gobbraghey er aghtyn elley er y chooish shoh. Ta ymmodee goaill toshiaght lesh gerjaghey firrinagh as cur-lesh-ey ayns aght elley, as goaill breag veg meen ynrican tra nagh jinnagh y firrinys agh cur imnea er y phersoon nagh vod eh gobbraghey lesh. Cre-erbee t'ou reih, bee dwoaieagh as shickyr, as ny jean craidey erbee er yn aght t'adsyn dy hoiggal y theihll."
+  - q: "Cre my t'ad prowal goll magh ass y thie?"
+    a: "Fuirree kiune as shooyl maroo ny ynnyd jeu cur lhiettrimys orroo; ta shooyl giare mennick cur shee er y yeearree. Cur greienyn sauçhys ayns ynnyd ro-laue, myr sampleyr bracelet ID, cleayshyn dorrys as jalloo noa. My t'ad goll er coayl, toshsee shirrey chelleeragh, as cur feysht er 999 mannagh vel oo er n'gheddyn ad cheusthie jeh 15 minnidyn, as insh dy vel coayl cooinaghtyn er y phersoon."
+  - q: "Cuin lhisagh mee cur feysht er lhiaghtee?"
+    a: "Cur feysht er y lhiaghtee oc dy tappee my ta'n yeearree ny y vaynrys goaill toshiaght doaltattym ny goll ny smessey harrish ooraghyn ny laghyn, er-lheh lesh chiass, medicine noa ny cowraghyn doghan çheshvean. Foddee marringys doaltattym ve delirium, as ta feme er kiarail çhelleeragh. Cur feysht er 999 my ta peiagh erbee ayns gaue."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"By vie lhiam goll thie." Da ymmodee lughtyn-thie, she shoh fer jeh ny reddyn s'doillee dy chlashtyn, er-lheh tra ta'n persoon t'ou kiarail er y hon ny hoie ayns y chamyr-vaghee echey hene. T'eh cadjin, foddee eh taghyrt ec traa erbee lesh coayl cooinaghtyn, as ta aghtyn kiune, ymmydoil ayn dy chur freggyrt. Ta'n duillag shoh soilshaghey cre ta ny focklyn mennick cowraghey, cre dy ghra, obbraghyn oddys cooney 'sy traa, as kys dy hannaghtyn sauchey.
 
-## Why does someone with dementia keep asking to go home?
+## Cre'n fa ta persoon lesh coayl cooinaghtyn geearree goll thie dy mennick?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Dy cadjin, she ennaght t'ayn ayns "thie" ny smoo na boayl. Ta Alzheimer's Society cur sheese eh myr ennaght dy gerjagh as sauçhys, ny thie ass y traa t'er gholl shaghey, cha nee yn thie hene. Foddee coayl cooinaghtyn jannoo shamyryn ennagh jeeaghyn quaagh, as foddee persoon ennaghtyn dy vel eh beaghey ayns traa s'leaie 'sy vea, tra va thie ny thie aegid ny yn boayl raad ren ad troggal y cloan oc.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Foddee ny focklyn ve cowrey myrgeddin dy vel red ennagh elley aggairagh nish: ta accrys orroo, ta paays orroo, ta feme oc er y thie-beaghee, ta pian orroo, t'ad ro çheh ny ro oayllagh, skee, lonesome, agglit, ny fo laad feiyr. Ta [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) cur pian, feiyr, lonesomenys, caghlaaghyn ayns cliaghtey as medicineyn er y rolley myr oyryn son imnea.
 
-## What should I say when they ask to go home?
+## Cre lhisagh mee gra tra t'ad geearree goll thie?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Cur freggyrt da'n ennaght, cha nee da ny focklyn. Ta [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) coyrle nagh jean oo prowal cur er y phersoon dy ghoail rish dy vel ad fo marranys: ta ny ennaghtyn oc firrinagh, myr shen cur freggyrt lesh gerjaghey as shickyrys hoshiaght, as eisht cur-lesh-ey dy meen ayns aght elley.
 
-Phrases that often help:
+Raaghyn ta mennick cooney:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Enmys yn ennaght.** "T'eh jeeaghyn gollrish dy vel oo laccal thie."
+- **Cur shickyrys.** "T'ou sauchey ayns shoh, as bee'm tannaghtyn mayrt." Ta [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) cur roish ny focklyn aashagh "T'ou sauchey ayns shoh."
+- **Cur cuirrey da cooinaghtyn.** "Insh dou mychione dty hie. Cre va dty chione-chookey gollrish?" Ta briaghtyn mychione y traa foddey er dy henney mennick ny sassey na briaghtyn mychione jiu.
+- **Cur roish red ennagh ry yannoo ry-cheilley.** "Lhig dooin tay ghoaill hoshiaght," ny "Jean oo cooney lhiam lesh ny towllyn shoh?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Foddee coraa çheh as laue er y roih, my s'mie lhieu bentyn rish, gra ny smoo na ny focklyn.
 
-## What should I avoid?
+## Cre lhisagh mee shaghney?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Arganey ny soilshaghey.** Ta "T'ou beaghey ayns shoh nish" ny "She shoh dty hie son 40 blein" shirrey orroo dy ghoail rish red ta coayl cooinaghtyn jannoo doillee dy ghoail rish, as foddee eh gennaghtyn gollrish dy vel ad goll er gra dy vel ad fo marranys.
+- **Ceistey gollrish scrutaght.** Ta "Nagh vel cooinaght ayd?" ny "Cre'n enmys ynnyd?" cur er laad.
+- **Cur lhiettrimys er y dorrys lesh corree.** My t'ad goll magh, fuirree kiune as shooyl maroo. Ta shooyl giare ry-cheilley mennick cur shee er y yeearree.
+- **Siyr.** Cur traa daue dy loayrt mychione thie roish my vel oo caghlaa y chooish.
 
-## Activities that can help in the moment
+## Obbraghyn oddys cooney 'sy traa
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Lurg da oo cur tastey da'n ennaght, foddee obbyr kiune, ennagh cur-lesh-ey dty aigney gyn cur-beaghey da'n ennaght.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Jeeagh er jallooyn jeh thie as lught-thie.** Chyndaa ny duillagyn as jean focklyn beggey ("Jeeagh er y gharey shen") ny ynnyd jeu briaght ceistey. Er foon ny tablet, ta [Photo pairs](/games/photo-pairs/) chyndaa dty challooyn lught-thie hene gys cloie cochiangley meen, as ta ny jallooyn tannaghtyn er dty ghaue hene.
+2. **Loayrt mychione thie.** Ta [Conversation cards](/games/conversation-cards/) cur roish imraaghyn foshlit mychione thieyn, cione-chookeyn, naboonyn as laghyn seyrey, gyn freggyrt kiart erbee.
+3. **Cloie kiaull s'mie lhieu.** Ta National Institute on Aging cur kiaull kiune er y rolley myr aght dy chur shee er imnea. Jeeagh er nyn [obbyraghyn kiaullee](/activities/music/).
+4. **Cur bee ny jough daue.** Foddee accrys as paays jeeaghyn gollrish neu-shee. Ta cappan dy hey ny red mie s'mie lhieu myrgeddin cliaghtey beg dy ve ec y thie.
+5. **Gow shooyl ny soie mooie.** Ta gluaiseaght as soilshey y laa cooney, er-lheh ny s'leaie 'sy laa.
+6. **Cur obbyr ennagh daue.** Foddee filleydh eaddagh, sorçhal greienyn bee ny cur ushtey er lossreeyn cur er ash yn ennaght dy reill thie.
+7. **Jean dy chooilley red ny s'moalley.** Cur y çhellveeish magh, lhiggey lesh feiyr as soilshey gial, as prowal [tayrn ennal dy kiune](/games/calm-breathing/) ry-cheilley.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Mannagh vel un red gobbraghey, prowal red elley ny sanmey. Ta soie kiune ry-cheilley myrgeddin cooid vie.
 
-## Check for a cause you can fix
+## Jeeagh son oyr oddys oo cur lesh kione
 
-| Check | What to try |
+| Jeeagh | Cre dy hroailt |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Accrys ny paays | Cur jough as bee beg |
+| Feme er y thie-beaghee | Cur roish goll gys y thie-beaghee, dy kiune as gyn fuss |
+| Pian ny neu-gherjagh | Jeeagh son cowraghyn myr jeeaghyn pianagh, cummal ayrn jeh'n chorp ny glenid, as insh da'n lhiaghtee oc |
+| Ro çheh ny ro oayllagh | Caghlaa brat ny çhiass y hamyr |
+| Feiyr ny rouyr sleih | Gow gys shamyr ny s'chiunee, cur y çhellveeish magh |
+| Skee ny fo laad rouyr | Fuirree, jean y shamyr ny s'dorraghey, cloie kiaull meen |
+| Fastyr anmagh | Jeeagh er y rheynn mychione sundowning heese |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Ta Alzheimer's Society coyrle dy chur lioar veg cooinaghtyn mychione tra ta'n yeearree taghyrt, myr sampleyr roish bee, lurg shirreyderyn, ny ec cooish ny hoie. Ta patranyn jannoo eh ny sassey dy yannoo plannen ro-laue.
 
-## Is it okay to tell a white lie?
+## Vel eh mie ginsh breag veg?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+She cooish firrinagh t'ayn, as ta lughtyn-thie dwoaieagh goll gys boaylyn elley. Ta Alzheimer's Society gra nagh vel un freggyrt kiart ayn: foddee breagyn cur er paart dy 'leih ve ny s'amharusagh, myr shen jean briwnys son foays y phersoon as bee shickyr. Ec Penn Memory Center, ta'n co-stiuree gra dy nee yn firrinys y bun-roie, as dy vel breag veg meen lowit ynrican tra nagh vod y persoon gobbraghey lesh firrinys er-lheh, as nagh lhisagh oo rieau craidey er yn aght t'ad dy hoiggal y theihll.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Ta ymmodee kiarailderyn feddyn aght meanagh: gerjaghey firrinagh as cur-lesh-ey ayns aght elley hoshiaght ("Fuirree mayd ayns shoh noght, as ta mee ayns shoh mayrt"), gyn arganey mychione cre'n boayl ta thie.
 
-## What if it happens every afternoon or evening?
+## Cre my t'eh taghyrt dagh fastyr ny oie?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Ta neu-shee ta goaill toshiaght ny goll ny smessey 'sy fastyr anmagh mennick enmyssit sundowning. Ta [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) coyrle cliaghtey shickyr, soilshey y ghrian as obbyr dagh laa, ny sloo cadley 'sy lhing, as gyn caffeine ny alcohol 'sy lhing. Foddee cur soilsheyn er roish cooish ny hoie cooney myrgeddin. Ta nyn goyrle mychione [obbyraghyn kiune 'sy fastyr anmagh](/caregiving/late-day-restlessness/) cur tooilley.
 
-## Keeping them safe if they try to leave
+## Freayll ad sauchey my t'ad prowal goll magh
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Foddee geearree goll thie leeideil gys shooyl ersooyl. Ta [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) goaill rish dy jig shey ass jeih persoonyn ta beaghey lesh coayl cooinaghtyn dy ve shooyl ersooyl un cheayrt ec y chooid sloo.
 
-**Prepare ahead:**
+**Jean aarloo ro-laue:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Bracelet ID ny lheihys lesh yn ennym oc as dty earroo çhellvane, as lioaryn er yn eaddagh oc. Ta [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) cur enney er y chlaare MedicAlert as Alzheimer's Association Safe and Found, as foddee costys ve bentyn daue.
+- Cleaysh dorrys ny raaue, as glaseyn currit er yn yrjid heose ny injil. Ny jean rieau y persoon y ghlasey stiagh ny lomarcan.
+- Jalloo faggys noa, as rolley jeh boaylyn oddagh ad goll huc, myr sampleyr thie ny boayl obbree roie.
+- Insh da naboonyn ta oo treishteil, as cur dty earroo daue.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**My t'ad goll er coayl:** toshsee shirrey chelleeragh; ta Alzheimer's Association gra dy vel ymmodee feddynit cheusthie jeh 1.5 meeilley. Mannagh vel oo er n'gheddyn ad cheusthie jeh 15 minnidyn, cur feysht er 999 as gra dy vel coayl cooinaghtyn er y phersoon. Cur feysht er 999 chelleeragh my ta peiagh erbee ayns gaue.
 
-## When should I call a doctor?
+## Cuin lhisagh mee cur feysht er lhiaghtee?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Cur feysht er y lhiaghtee oc dy tappee my ta'n yeearree ny y vaynrys goaill toshiaght doaltattym, ny goll ny smessey harrish ooraghyn ny laghyn. Ta [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) gra dy lhisagh ymmyrkey doaltattym ny caghlaa tappee, er-lheh lurg doghan ny caghlaa medicine, ve jeeaghit er chelleeragh. Foddee marringys doaltattym ve delirium, as ta [NHS](https://www.nhs.uk/symptoms/confusion/) gra dy vel feme er cooney çhelleeragh; ta doghanyn çheshvean ny oyr cadjin ayns sleih shinney.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Ta cooney ayn myrgeddin dy insh da'n lhiaghtee ec y chied reaghey mychione patranyn shickyr, son foddee pian, trimshey, feyshtyn cadlee ny fo-eiyrtyssyn medicine ve goaill ayrn.

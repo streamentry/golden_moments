@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Cadley as Slaynt Ynçhyn: Toshiaght Ronsaghey"
+seoTitle: "Cadley as Mee-chooinaghtyn: Toshiaght Ronsaghey"
+description: "Cre ta ronsaghey dy ghra mychione cadley as gaue mee-chooinaghtyn, cre'n fa ta'n ronsaghey glenney-ynçhyn foast ayns e toshiaght, as cliaghtaghyn cadley ymmydoil."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Ta studeyryn foddey cheangley cadley giare ayns mean eash rish gaue ny s'yrjey dy vee-chooinaghtyn,
+  as ta ronsaghey ayns laboraghtyn soilshaghey magh dy vod cadley cooney lesh yn ynçhyn broo ghlanney
+  magh. Ta'n toshiaght shoh foast ayns e toshiaght, as cha ren Co-vriwnys Lancet 2024 cadley y
+  chur er y rolley dy housaneyn gaue oddys ve caghlaait. Ta cliaghtaghyn cadley reiltagh cooney lesh
+  y stayd t'ort dagh laa. Ta doilleeidyn cadley ayns mee-chooinaghtyn cadjin, as ta feeu loayrt roo
+  rish docteyr.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Ren studeyr ayns Bretin, ren jeeaghyn er mysh 8,000 dy 'leih rish 25 bleeaney, cadley shey ooryn ny sloo ayns mean eash y cheangley rish gaue ny s'yrjey dy vee-chooinaghtyn."
+  - "Foddee caghlaaghyn cadley ve myr cowrey moghey dy vee-chooinaghtyn, myr shen t'eh doillee gra quoi va roie as quoi ren geiyrt."
+  - "Ta ronsaghey mychione cadley glenney beta-amyloid ass yn ynçhyn firrinagh agh ayns e toshiaght, mooarane jeh ayns lughyn."
+  - "Ta apnea cadley cadjin, oddys ve kiarit, as t'eh cheanglit rish mee-chooinaghtyn ayns studeyryn; ta snore ard as laccal cadley 'sy laa feeu jeeaghyn orroo."
+  - "Ny toshee, ny scuirr ny ny caghlaa cummey cadley ny cooney cadley erbee gyn docteyr."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Vel drogh chadley cur er Alzheimer?"
+    a: "Cha nel shen er ny hoilshaghey. Ta studeyryn ennagh cheangley cadley giare rish gaue ny s'yrjey dy vee-chooinaghtyn, agh ta mee-chooinaghtyn hene cur drogh orroo er cadley, mennick bleeantyn roish breearrey. Hug Co-vriwnys Lancet 2024 briwnys nagh row yn toshiaght shickyr dy liooar dy chur cadley er y rolley dy housaneyn gaue oddys ve caghlaait."
+  - q: "Cre wheesh dy chadley ta feme ec sleih shinney?"
+    a: "Ta'n Instityd Ashoonagh er Lannidys (NIA) gra dy vel feme ec sleih shinney er mysh yn un earroo as sleih elley, 7 gys 9 ooryn 'syn oie. Ta ram sleih shinney goll dy lhie as girree ny s'leaie na v'ad cliaghtey, as ta shen cadjin."
+  - q: "Cre'n fa ta persoon lesh mee-chooinaghtyn cadley 'sy laa as doostey 'syn oie?"
+    a: "Foddee mee-chooinaghtyn cur er clag y chorp, myr shen dy vel traa cadley as traa doostey noi-ry-hoi. Foddee pian, laccal reddyn dy yannoo, accrys ny foillyn lhiassidyn ve ayn myrgeddin. Foddee soilshey yn laa, obbraghey dagh laa as cliaghtey feagh 'syn astyr cooney. Foddee docteyr jeeaghyn son oyryn oddys ve kiarit."
+  - q: "Lhisagh mee cooney cadley y chur da'n phersoon ta mee kiarail er e hon?"
+    a: "Loayr rish y docteyr oc hoshiaght, goaill stiagh mychione stoo oddys oo kionnaghey gyn oardagh. Ta'n Instityd Ashoonagh er Lannidys (NIA) cur tastey dy vod paart dy chummaghyn cadley cur er y gaue dy haaghys, tuittymyn as mee-hushtey ayns sleih lesh Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ta cadley as slaynt ynçhyn ceanglit dy baghtal, agh ta sleih foast gobbraghey magh kys t'ad ceanglit. Ta studeyryn ennagh cheangley cadley giare rish gaue ny s'yrjey dy vee-chooinaghtyn. Er y laue elley, ta mee-chooinaghtyn mennick cur drogh orroo er cadley. Ta'n duillag shoh soilshaghey magh cre ta'n ronsaghey dy hoilshaghey as nagh vel eh, cur cliaghtaghyn cadley ymmydoil, as loayrt mychione doilleeidyn cadley ta cadjin ayns mee-chooinaghtyn. Cha nel eh cur coyrle mychione cummaghyn cadley; lhisagh y chooish shen ve loayrit rish docteyr.
 
-## Is poor sleep linked with dementia?
+## Vel drogh chadley ceanglit rish mee-chooinaghtyn?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Ta studeyryn foddey ennagh cheangley cadley giare rish gaue ny s'yrjey dy vee-chooinaghtyn, agh cha nel yn toshiaght shickyr foast.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Studeyr 25 bleeaney ayns Bretin.** Ren roonsheyderyn jeeaghyn er mysh 8,000 dy 'leih ayns [studeyr Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Va gaue ny s'yrjey dy vee-chooinaghtyn ny lurg ec sleih ren cadley shey ooryn ny sloo ec eash 50 ny 60 na sleih ren cadley shiaght ooryn. Va gaue mysh 30% ny s'yrjey ec sleih ren cadley shey ooryn ny sloo ec 50, 60 as 70 na sleih ren cadley shiaght ooryn dy reiltagh. Va shoh ny studeyr jeeagh-erriu, myr shen t'eh soilshaghey kiangley, cha nee oyr.
+- **Briwnys Cho-vriwnys Lancet.** Cha ren [Co-vriwnys Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) cadley y chur er e rolley dy 14 housaneyn gaue oddys ve caghlaait. Hug eh briwnys nagh row yn toshiaght shickyr dy liooar. Un oyr: ta caghlaaghyn ayns yn ynçhyn voish mee-chooinaghtyn goaill toshiaght bleeantyn roish breearrey, as foddee ad cur drogh orroo er cadley. Ayns un studeyr mooar, hie kiangley eddyr cadley foddey as mee-chooinaghtyn ersooyl tra va ny chied queig bleeaney dy eiyrtys currit er-lheh.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Myr shen, cha nel oie ghiare ny keayrtyn ny oyr imnea. Ta cadley reiltagh, mie feeu shirrey er y fa dy vel eh cooney lesh stayd aignagh, alertys as sauçhys jiu.
 
-## What is the "brain-clearing" sleep research?
+## Cre ta'n ronsaghey "glenney yn ynçhyn" ayns cadley?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Foddee dy vel oo er lhaih dy vel cadley "glanney" yn ynçhyn. Ta'n smooinaght shen çheet voish ronsaghey firrinagh, agh t'eh ayns e toshiaght.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Ayns lughyn.** Ren studeyr ayns 2013, [soilsheet ec NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), feddyn magh dy ren yn boayl eddyr killagyn ynçhyn gaase mysh 60% tra va lughyn ny chadley. Ren ushtey shiaulley trooid yn ynçhyn ny sassey, trooid ny ta roonsheyderyn gra rish y chorys glymphatic. Ren beta-amyloid, proteen cheanglit rish Alzheimer, glenney ny s'tappee ass ynçhyn lughyn ren cadley.
+- **Ayns sleih.** Ren [studeyr beg ayns 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) scannane y chur er 20 persoon slayntoil, 22 gys 72 bleeaney d'eash, lurg oie chadjin as lurg oie gyn cadley. Lurg yn oie gyn cadley, ren cowrey ayns scannane ynçhyn son beta-amyloid gaase mysh 5% ayns boayl goaill stiagh yn hippocampus, ayrn scanshoil son cooinaghtyn. Dennee ny h-ughdaryn shoh toshiaght ro-laue. Cha row fys oc row yn caghlaa goll ersooyl lurg aash, ny row eh çheet voish glenney ny s'leaie ny voish ny smoo amyloid ve jeant.
+- **T'eh gobbraghey daa raad.** Ta Co-vriwnys Lancet cur tastey dy vod cruinnaghey amyloid hene cur drogh orroo er cadley ayns sleih shinney.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ta ny feddynyn shoh cooney dy hoilshaghey cre'n fa ta roonsheyderyn goaill sym 'sy chadley. Cha nel ad soilshaghey dy vel cadley ny share lhiettal Alzheimer.
 
-## What sleep habits may help?
+## Cre ny cliaghtaghyn cadley oddys cooney?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Ta feme ec sleih shinney er mysh 7 gys 9 ooryn dy chadley 'syn oie, yn un earroo as sleih elley, rere yn [Instityd Ashoonagh er Lannidys (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Ta ny coyrleyn echey goaill stiagh:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Cum traa reiltagh.** Gow dy lhie as irree ec yn un traa dagh laa, eer er jerrey-shiaghtinyn.
+- **Croo cliaghtey feagh.** Lhaih, eaisht rish kiaull sheeoil ny gow faasey çheh roish lhie.
+- **Jean y shamyr lhiabbagh gerjoil,** cha nel eh ro çheh ny ro ouyr.
+- **Cum smoo lesh caffeine ayns y laa anmagh.** Foddee coffey, tey, soda as çhocolaat cur ort tannaghtyn dooisht.
+- **Jean shaghney yn yough,** eer beggan, ta'n NIA coyrlaghey.
+- **Jean shaghney bee mooar cheusthie jeh daa ny tree ooryn roish lhie,** as jough mooar ayns y laa anmagh.
+- **Obbree dy reiltagh, agh cha nel eh cheusthie jeh 3 ooryn roish lhie.** Jeeagh er y [lhiass-choontey obbraghey ain](/brain-health/exercise/).
+- **Cum skreeynyn ass y shamyr lhiabbagh.** Ta'n NIA coyrlaghey gyn jeeaghyn er y çhellveeish ny ymmyd y yannoo jeh co-earrooder, çhellvane ny taiblet ayns shen.
+- **Jean shaghney traaghyn cadley ayns y laa anmagh ny 'syn astyr** my oddys oo.
 
-## Sleep problems in dementia
+## Doilleeidyn cadley ayns mee-chooinaghtyn
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Ta caghlaaghyn ayns cadley cadjin ayns mee-chooinaghtyn. Ta'n [NIA cur stiagh](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) cadley lane ny ro veg, doostey ymmodee keayrtyn 'syn oie, as traaghyn cadley mooar 'sy laa. T'eh cur coontey myrgeddin jeh sundowning: neu-fea, imnea ny mee-hushtey ta goaill toshiaght ny gaase ny s'troshey myr ta soilshey yn laa goll ersooyl.
 
-Caregiver tips from the NIA include:
+Ta coyrleyn son sleih ta cur kiarail, voish NIA, goaill stiagh:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Faigh soilshey yn laa as gleashaght moghey.** Gow magh ny soie rish uinnag 'sy laa, as cooin lesh y phersoon ve goll er dagh laa. Foddee soilshey sollys cooney dy chaghlaa clag y chorp.
+2. **Screeud obbraghyn breeoil son y voghrey.** Jean eab dy gholl er faasey 'sy voghrey ny dy ghoaill y vee smoo ec y vean-laa.
+3. **Cum traaghyn cadley giare as moghey.** Cum smoo lesh traaghyn cadley ayns y laa anmagh.
+4. **Jean yn astyr feagh.** Insh soilshey, lhiettal feiyr, as cloie kiaull sheeoil my ta'n persoon goaill soylley jeh. Ta ny smoo coyrleyn ayns y lhiass-choontey ain er [neu-fea ayns y laa anmagh](/caregiving/late-day-restlessness/).
+5. **Cum cliaghtey lhie reiltagh.** Ta lhaih magh ec yn un traa dagh oie ny sampleyr veih NIA. Ta [cliaghtey laaoil reiltagh](/activities/daily-routine/) cooney myrgeddin.
+6. **Cum smoo lesh caffeine as yn yough.**
+7. **Jean ymmyd jeh soilsheenyn oie** 'sy shamyr lhiabbagh, 'sy halley as 'sy chamyr vaaish.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Son doostey 'syn oie, ta [coyrleyn sauçhys thie](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) NIA goaill stiagh soilsheenyn oie ny tasteryn soilshey hene-obbragh, barranyn greimmey 'sy chamyr vaaish, tape daahit er oirranyn steppyn, as cummaghyn currit ayns boayl fo ghlass.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Foddee obbyr ghiare, feagh ayns yn astyr cooney lesh ooilley ve feagh. Jean eab dy ghoaill tammylt dy [Ennal Feagh](/games/calm-breathing/) ny paart dy [Chartyn Comraaghey](/games/conversation-cards/) ayns aght feagh. Jean shaghney reddyn greesaghey er-gerrey da lhie, as scuirr tra ta'n persoon er nyannoo dy liooar.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ta cadley brisht cur laadey er sleih ta cur kiarail myrgeddin. Ta y [lhiass-choontey ain son sleih ta cur kiarail hene](/caregiving/caregiver-self-care/) loayrt mychione raaidyn dy gheddyn aash as cooney.
 
-## What about sleep apnea?
+## As apnea cadley?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Ta apnea cadley cur er ennal scuirr son tammylt beg 'sy chadley, mennick ymmodee keayrtyn 'syn oie. Ta NIA gra, mannagh vel eh kiarit, dy vod eh cur lesh doilleeidyn gollrish tranlaase-folley ard, stroke ny coayl cooinaghtyn. Ta cowraghyn goaill stiagh snore ard as laccal cadley 'sy laa, as cha nel fys ec ram sleih dy vel eh orroo. Ta Co-vriwnys Lancet cur coontey jeh aavriwnys 11 studeyr ayn va gaue mysh 43% ny s'yrjey dy vee-chooinaghtyn ec sleih lesh apnea cadley. Cha ren monney jeh ny studeyryn shen cur geill da troshid, agh, myr shen ta'n kiangley neu-hickyr.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Oddys apnea cadley ve feddynit magh as kiarit. Ta NIA cur tastey dy vel inneen CPAP cooney dy mennick. My ta uss ny'n persoon ta oo kiarail er e hon snore dy ard, scuirr veih ennal 'sy chadley, ny feer chadlagh 'sy laa, insh da docteyr.
 
-## A note about sleep medicines
+## Fockle mychione cummaghyn cadley
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Cha nel shin cur coyrle mychione cummaghyn cadley ny stoo elley. Ta NIA cur tastey dy vod cummaghyn cadley cooney son tammylt giare agh nagh vel ad kiarail son neu-chadley. T'eh cur tastey myrgeddin dy vod paart dy chummaghyn currit dy chooney lesh sleih lesh Alzheimer cadley cur er y gaue dy haaghys, tuittymyn as mee-hushtey. Ny toshee, ny scuirr ny ny caghlaa cummey cadley erbee, goaill stiagh cooney cadley oddys oo kionnaghey gyn oardagh, gyn loayrt rish docteyr ny pharmaseyr.
 
-## Talk with a doctor
+## Loayr rish docteyr
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Jeeagh er docteyr my ta uss ny'n persoon ta oo kiarail er e hon hames skee, as doilleeid cadley oc bunnys dagh oie, snore dy ard, ny scuirr veih ennal 'syn oie. My ta doilleeidyn cadley ayns mee-chooinaghtyn tannaghtyn, ta [NIA coyrlaghey](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) coyrle leigh y hirrey. Foddee scrutaghey cur magh oyryn gollrish pian, doilleeid cadley elley, doghan ny foill lhiassid. Ta feme er kiarail çhelleeragh son mee-hushtey obbragh, ny caghlaa obbragh ayns cadley marish mee-hushtey. Lhaih [tra lhisagh oo jeeaghyn er docteyr](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+She fysseree cadjin t'ayn 'sy duillag shoh, cha nee coyrle leigh. Jeeagh er y [jiooldey leigh ain](/medical-disclaimer/).

@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Mba’éichapa oñembosako’i peteĩ tablet térã pumbyry peteĩ tapicha oikovévape demensia reheve"
+seoTitle: "Ñembosako’i tablet térã pumbyry demensia reheve"
+description: "Mba’éichapa oñembosako’i tablet ha pumbyry peteĩ tapicha oikovévape demensia reheve: peteĩ tembiporu’i año, tai tuichave, marandu’ỹ, peteĩ tenda peteĩcha, tyapu ha tekoñemi."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Ejapo pe tablet térã pumbyry hasy’ỹve eme’ẽ mboyve. Eñongatu peteĩ
+  tembiporu’i añoite Guided Access rupive iPad ha iPhone-pe térã app pinning
+  rupive Android-pe, térã eiporu Apple Assistive Access peteĩ jehechauka
+  hasy’ỹvéva hag̃ua. Eguereko tai tuichave, embogue marandu ha jehechauka
+  oikéva, eheja tembiporu’i michĩmi peteĩ tendápe añoite, emohenda tyapu
+  oñepyrũ mboyve, eiporu peteĩ yjokoha ha ehecha tembiporu’i ñemoneĩ. Eiporu
+  oñondive, avei umi tembiapo pantalla’ỹ reheve.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ha app pinning (Android) oheja pe pantalla peteĩ tembiporu’ípe pe nde reraha peve."
+  - "Apple Assistive Access ome’ẽ peteĩ jehechauka hasy’ỹvéva ojejapóva tapichakuéra oikovévape apytu’ũ hekopete reheve guarã."
+  - "Ejapo tai tuichave ha embogue marandu ha jehechauka oikéva ani hag̃ua oĩ omopa’ũ térã ombojehe’a."
+  - "Eheja tembiporu’i ojekuaávante michĩmi peteĩ tendápe añoite, ha emohenda tyapu oñepyrũ mboyve."
+  - "Peteĩ yjokoha ha peteĩ tenda oñembohývape araka’eve nomýiva ojapo pe tembiporu ndahasýive hag̃ua ojeporu ha ojejuhu."
+  - "Ehechajey tembiporu’i ñemoneĩ ha mba’éichapa oñemboja’o marandu: HIPAA tuicha jave nomo’ãi pe oñeñongatúva peteĩ tembiporu’ípe nde mba’e."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Mba’éichapa ajoko peteĩ tapicha oikovéva demensia reheve ani hag̃ua osẽ peteĩ tembiporu’ígui iPad-pe?"
+    a: "Emyandy Guided Access Settings > Accessibility > Guided Access-pe ha emoĩ peteĩ ñe’ẽñemi. Eipe’a pe tembiporu’i reiporúvape, ejopy mbohapy jey pe botón yvategua (térã pe botón Home umi iPad tujápe), ha eñopẽ Start. Pe iPad opyta upe tembiporu’ípe oĩ peve oike pe ñe’ẽñemi."
+  - q: "Mba’éichapa añongatu peteĩ tablet Android peteĩ tembiporu’ípe añoite?"
+    a: "Emyandy app pinning pe tembiporu’i Settings-pe, hetave jave Security (sapy’ánte Security & location) > Advanced > App pinning guýpe. Upéi eipe’a pe tembiporu’i, eipe’a Overview, eñopẽ pe tembiporu’i ra’ãnga yvategua ha eñopẽ Pin. Nde PIN, patrón térã ñe’ẽñemi tekotevẽ oñembogue hag̃ua."
+  - q: "Hesyĩpa ojeporu Guided Access pe tapicha pumbyry teetépe?"
+    a: "Ejesareko porã. Apple he’i Crash Detection ha Emergency Services ndoikói Guided Access oikóvo. Pe tapicha oikotevẽramo ipumbyry ohenói hag̃ua peteĩ número pytyvõrã pya’e, eiporu Guided Access nde reime oñondive añoite, térã ehecha Assistive Access."
+  - q: "Mboy áraite ikatu oiporu pantalla peteĩ tapicha oikovéva demensia reheve?"
+    a: "Ndaipóri peteĩ papapy oĩva. Tembiapo mbykymi, oñondive jajapóva, oñembojehe’áva jeguata, purahéi, tembiapo óga ha ñomongeta reheve, ikatu ojapo peteĩ ára oĩporãvéva umi aravo puku oñeñandúvagui pantalla renondépe. Pe tembiporu omoñeko’õi térã omboykéramo ambue tembiapo, eiporu sa’ive."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Peteĩ tablet ikatu peteĩ tape porã oñemoherakuã hag̃ua ta’anga, purahéi ha ñembosarái hasy’ỹ. Avei ikatu ombojehe’a: peteĩ jepoko sapy’a oipe’a ambue tembiporu’i, osẽ peteĩ marandu, pe tai michĩeterei, térã pe pantalla oñembogue pe ñembosarái apytépe. Peteĩ ñembosako’i michĩ nde rejapóva ikatu omyatyrõ heta ko’ã mba’e.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Ko’ã tape oiporu ñemoĩporã oĩmava iPhone, iPad ha Android-pe. Umi téra menú ikatu iñambu software versión ha tembiporu apohare reheve, upévare oĩramo ojehechaukáva ambuéicha, eike Apple térã Google kuatiarogue joajúvape nde tembiporu’ípe g̃uarã. Ejapo pe ñembosako’i nde, jaikutu mboyve oñondive.
 
-## Should someone with dementia use a tablet or phone?
+## Ikatúpa peteĩ tapicha oikovéva demensia reheve oiporu tablet térã pumbyry?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Odepende pe tapicháre. Heta tapicha ovy’a oiporúvo tablet oĩramo ambue hendive, jepe ndaikatúiramo oiporu ha’eño. Eñepyrũ eiporúvo oñondive, peteĩ tembiporu’i ijurujávape, minúto michĩmípe. Oguereko vy’a ha ñomongeta, eguereko. Oguereko jehe’a térã ñeko’õi, ikatu peteĩ álbum ta’angagua, kuatiarogue imprimíva térã purahéi oĩporãve chupe. Ore [tembiapo imprimíva](/activities/printable/) ha’e peteĩ ambue tape.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tablet tuicha jave ndahasyivéima pumbyrygui: pe pantalla ha ta’angakuéra tuichave, ha avei ndaha’éi pe tapicha pumbyry oikotevẽva oñehenói hag̃ua pytyvõrã pya’e.
 
-## How do I lock a tablet or phone to one app?
+## Mba’éichapa añongatu peteĩ tablet térã pumbyry peteĩ tembiporu’ípe añoite?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Eiporu Guided Access iPhone ha iPad-pe, térã app pinning Android-pe. Mokõivéva oheja pe pantalla peteĩ tembiporu’ípe añoite nde reikévo peve peteĩ papapy, upéicha peteĩ jepoko térã jepichy sapy’a ndaikatúi oipe’a ambue mba’e.
 
-### iPad and iPhone: Guided Access
+### iPad ha iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple rembiapoukapy Guided Access rehegua](https://support.apple.com/en-us/111795) rupi:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Eipe’a **Settings**, eñopẽ **Accessibility**, upéi eñopẽ **Guided Access** ha emyandy.
+2. **Passcode Settings** guýpe, emoĩ peteĩ ñe’ẽñemi Guided Access-pe g̃uarã. Avei ikatu reipe’a Face ID térã Touch ID.
+3. Eipotárõ: **Display Auto-Lock** guýpe, eiporavo mba’éicha pya’e pe pantalla oñemboty tembiapo aja, ani hag̃ua oñembogue pe ñembosarái apytépe.
+4. Eipe’a pe tembiporu’i reiporuseva.
+5. Ejopy mbohapy jey pe botón yke (iPhone), pe botón yvategua (iPad), térã pe botón Home umi tembiporu itujávape.
+6. Eipotárõ: ehai peteĩ jerére pe pantalla vore rehe ani hag̃ua oñembohovái jepokópe. Eñopẽ **Options** (térã **Session Settings**) embogue hag̃ua pe botón tyapu térã ani hag̃ua pe pantalla ojere.
+7. Eñopẽ **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Ejokose jave pe tembiapo, ejopy jey mbohapy jey pe peteĩchagua botón, eike pe ñe’ẽñemi rupive ha eñopẽ **End**. Apple he’i umi software versión tujápe ikatu rejopy mokõi jey.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Mba’e tuicháva:** Apple he’i Crash Detection ha Emergency Services ndoikói Guided Access tembiapo aja. Ani reheja Guided Access oikóva peteĩ pumbyrýpe pe tapicha ikatuha oikotevẽ oñehenói hag̃ua peteĩ número pytyvõrã pya’e.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google Android pytyvõ app pinning rehegua](https://support.google.com/android/answer/9455138?hl=en) rupi:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Eipe’a pe tembiporu’i **Settings**.
+2. Eñopẽ **Security** (térã **Security & location**), upéi **Advanced**, upéi **App pinning**. Nderejuhúiramo, ehecha nde tembiporu apohare kuatiarogue pytyvõ.
+3. Emyandy **App pinning**. Nde PIN, patrón térã ñe’ẽñemi tekotevẽ oñembogue hag̃ua.
+4. Eipe’a pe tembiporu’i reiporuseva. Emongu’e yvate pe pantalla mbyte gotyo ha eñongatu eipe’a hag̃ua Overview (térã eñopẽ Overview 3 botón jeguataha reheve).
+5. Pe tembiporu’i jehechauka yvateguápe, eñopẽ pe tembiporu’i ra’ãnga, upéi eñopẽ **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Emboguese pin gesture jeguataha rupive, emongu’e yvate ha eñongatu. 3 botón jeguataha rupive, eñongatu Back ha Overview. 2 botón jeguataha rupive, eñongatu Back ha Home. Upéi eike nde PIN, patrón térã ñe’ẽñemi rupive.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Oĩpa peteĩ teko hasy’ỹvéva iPhone térã iPad tuichahápe g̃uarã?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Hẽe. Apple Assistive Access omoambu’e pe tenda tenonderã jepigua peteĩ hasy’ỹvévare. [Apple omombe’u](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ojejapohague iPhone hasy’ỹve hag̃ua tapichakuéra oikovévape apytu’ũ hekopete reheve guarã oiporu hag̃ua ijehegui, umi mba’e tuichave pantalla reheve ha tembiapo oñemotenondéva reheve. Apple ome’ẽ [pe peteĩchagua tembiapo iPad-pe](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Mávapa ombosako’i.** Apple omoakã peteĩ pytyvõhára jeroviapyrã, techapyrã peteĩ pehẽngue térã tapicha oñangarekóva oikuaáva pe tapicháre, oipytyvõ hag̃ua oiporavo tembiporu’i ha tembiapo.
+- **Moõpa oñepyrũ.** Eike **Settings > Accessibility > Assistive Access**, eñopẽ **Set Up Assistive Access**, upéi **Continue**.
+- **Tembiporu’i.** Nde reiporavo mba’e tembiporu’i ojehecha. Heta Apple tembiporu’i oguereko peteĩchagua hasy’ỹvéva, ha hetave ambue tembiporu’i ikatu oñembojoapy ijysaja jepiguápe.
+- **Jehechauka.** Eiporavo **Rows** (tysýi ndahasyíva oñemoñe’ẽ) térã **Grid** (mba’e tuichave omotenondéva ta’anga ha ra’ãnga).
+- **Ñe’ẽñemi.** Nde remoĩ peteĩ ñe’ẽñemi Assistive Access-pe g̃uarã jeike, ñesẽ térã ñemoĩporã ñemoambu’e hag̃ua. Apple omoakã emohenda hag̃ua peteĩ Apple Account jeguerujeyrã ñembosako’i aja, oñemboykéramo pe ñe’ẽñemi ha ndaipóriramo upe, tekotevẽ oñepyrũ jey pe tembiporu.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ikatu oĩporã peteĩ tapichápe oiporúva hembiaporã ára ha ára. Guided Access térã app pinning ipya’eve peteĩ ñembosarái oñemoherakuãvape g̃uarã.
 
-## How do I make text and pictures bigger?
+## Mba’éichapa ajapo tai ha ta’anga tuichave?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Embotuicha pe tai ha pe jehechauka tuichakue, upéi ehecha pe botónkuéra oike gueteri pantalla rehe.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ha iPad.** [Apple rembiapoukapy tai tuichakue rehegua](https://support.apple.com/en-us/102453) rupi, eike **Settings > Display & Brightness > Text Size** ha emongu’e pe jeiporavoha. Tai tuichaitereíve g̃uarã, eike **Settings > Accessibility > Display & Text Size > Larger Text**. Apple he’i tai tuichaiterei ikatuha ojapo heta botón hasy’ve jepoko hag̃ua, upévare emohenda tekotevẽramo.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google pytyvõ tai ha jehechauka ñemoĩporã rehegua](https://support.google.com/accessibility/android/answer/11183305?hl=en) rupi, eipe’a **Settings** ha eheka **Font size**, upéi emongu’e pe jeiporavoha. Eheka **Display size** embohetave hag̃ua opa mba’e pantalla rehegua. Avei ikatu emyandy **Bold text** **Accessibility > Display size and text** guýpe. Heta tembiporu’i ndojapói ko’ã ñemoĩporã.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Ñembosaráipe [Picture Pairs](/games/picture-pairs/) ha [Find the Same](/games/find-the-same/) avei ikatu reiporavo sa’ive ta’anga térã poravopyrã, upéva oheja mba’e hasy’ỹve pantalla rehe.
 
-## How do I stop notifications and pop-ups?
+## Mba’éichapa ajoko marandu ha jehechauka oikéva?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Embogue marandu umi tembiporu’i reikotevẽ’ỹvagui, ha eiporu Do Not Disturb tembiapo aja.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ha iPad.** Eike **Settings > Notifications**, eñopẽ peteĩ tembiporu’i **Notification Style** guýpe, ha embogue **Allow Notifications** ([Apple rembiapoukapy marandu ñemoĩporã rehegua](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Embogue sapy’ami hag̃ua ñehenói, jehechaukaha ha marandu, eipe’a Control Center ha emyandy **Do Not Disturb** pe botón **Focus** guive ([Apple pytyvõ Do Not Disturb rehegua](https://support.apple.com/en-us/105112)). Ikatu remohenda aravo **Settings > Focus > Do Not Disturb > Set a Schedule** guýpe.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Emongu’e yvy gotyo pe pantalla yvategui ha eñopẽ **Do Not Disturb**, térã eike **Settings > Modes > Do Not Disturb** ([Google pytyvõ Do Not Disturb rehegua](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters** guýpe ikatu reiporavo máva tapicha ha mba’e tembiporu’i ikatu ohasa gueteri. Ñemoĩporã iñambu tembiporu apohare reheve.
 
-## How do I make a simple home screen?
+## Mba’éichapa ajapo peteĩ tenda tenonderã hasy’ỹ?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Eheja tembiporu’i ojekuaáva michĩmi peteĩ tendápe ha emongu’e ambuéva ani hag̃ua ojehecha. Ndaipóri peteĩ ñemoĩporã añoite kóvape g̃uarã; ojehupyty oipe’aiterei pe oñembojehe’áva.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Eiporavo mbohapy guive poteĩ tembiporu’íme peve.** Techapyrã, ta’angakuéra, purahéi, peteĩ tembiporu’i oñehenói hag̃ua ta’anga rupive ha peteĩ ñembosarái.
+- **Emoĩ peteĩha tendápe,** peteĩchagua tenda ári tapiagua, ha emongu’e ambuéva mokõiha tendápe térã peteĩ ñongatuhápe.
+- **Eiporu peteĩ ta’anga tugua’ỹ, isa’y oñembojoajúva porã,** techapyrã peteĩ sa’y año térã peteĩ ta’anga ojekuaáva, pe ra’ãngakuéra ojehecha porã hag̃ua.
+- **Embogue tembiporu’i reikotevẽ’ỹva.** Sa’ive tembiporu’i he’ise sa’ive jehe’a ha sa’ive marandu oñembyaty.
+- **Ehecha Assistive Access** Apple tembiporu’ípe, reikuaaséramo pe tembiporu ojejapo hag̃ua kóva ndéve g̃uarã.
 
-## What about volume and sound?
+## Ha tyapu rehegua?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Emohenda peteĩ tyapu oĩporãva eme’ẽ mboyve pe tembiporu. Guided Access reheve, ikatu embogue pe botón tyapu ani hag̃ua oñemoambue tembiapo apytépe. Ehecha umi apysatĩ oñehendúva oĩ ha oiko porã.
 
-## Where should the tablet live?
+## Moõpa opyta va’erã pe tablet?
 
-Give it a stand and a permanent charging spot.
+Eme’ẽ chupe peteĩ yjokoha ha peteĩ tenda oñembohývape araka’eve nomýiva.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Peteĩ yjokoha térã ñongatuha** ohejáva pe tablet oñembo’y mesa ári he’ise avave noñongatúi va’erã, ha ndahasyive ojehechauka.
+- **Peteĩ tenda oñembohývape** araka’eve nomýiva, iporãvéva peteĩ yjokoha ñembohyha mesa ári peteĩ koty roiporúva ára ha ára. Pe tablet oĩ akóinte henyhẽva ha oĩ akóinte peteĩchagua tendápe.
+- **Emomichĩ tesape.** Emoĩ pe pantalla ani hag̃ua oike hendápe peteĩ ovetã hesakãva.
 
-## How much screen time is okay?
+## Mboy áraite ikatu oiporu pantalla?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ndaipóri papapy minúto rehegua oĩporãva. Eñeha’ã tembiapo mbykymi, oñondive jajapóva, peteĩ hendáicha peteĩ ára henyhẽvape avei oguerekóva jekutu, purahéi, tembiapo óga, ñomongeta ha ára okápe. Ka’aru pytũmby ikatuha ombohetave ñeko’õi ára pahápe, ikatu ehecha reiporu hag̃ua tembiapo pantalla rehegua ára pukukue gotyo. Ehecha [tembiapo py’aguapy ka’aru pytũmbýpe g̃uarã](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Jaiporúvo tablet oñondive, ndaha’éi oñangarekohára ramo, oheja opytu’u porãve. Ore kuatia [mba’éichapa ñañembosarái oñondive](/caregiving/how-to-play-together/) omyesakã mba’éichapa.
 
-## How do I protect their privacy on the device?
+## Mba’éichapa amo’ã ikangy pe tembiporu’ípe?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Emomichĩ mba’e ikatu ombyaty tembiporu’i, ha ani eroviáke léi tekoñemi resãi rehegua omo’ãtaha opa mba’e. U.S. Department of Health and Human Services (HHS) [omyesakã](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) umi HIPAA regla tuicha jave nomo’ãiha marandu resãi rehegua oñeñongatúva térã oikeha pumbyry ha tablet nde mba’épe. Hetave jave, HIPAA avei nomo’ãi marandu ojehaíva tembiporu’ípe ojeporu hag̃ua jehegui, pe tembiporu’i ndoguerekóiramo peteĩ me’ẽhára resãi, plan resãi térã ijaty pytyvõhára.
 
-HHS suggests:
+HHS omoakã:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- ani eiporu tembiporu’i tekotevẽ’ỹ térã sapy’agua, ko’ỹtete umi «rei»;
+- ani eme’ẽ tembiporu’ípe jeike tenda reheguápe oikotevẽ’ỹramo, techapyrã mapa.
 
-Also consider:
+Avei ehecha:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Eiporu peteĩ ñe’ẽñemi** pe tembiporu’ípe, ha eñongatu peteĩ jehaipy tenda hesegúrape.
+- **Ehechajey ñemoneĩ** ta’anga, cámara, puhoe, je’ekuaarã ha tenda rehegua, ha embogue oimeraẽ tembiporu’i ndoikotevẽíva.
+- **Ehecha mba’épa ombyaty peteĩ tembiporu’i** oñemboguapy mboyve. Ore kuatia [mba’éichapa eiporavo tembiporu’i ha ñembosarái demensia rehegua](/caregiving/choosing-apps-and-games/) oguereko peteĩ tysýi tekoñemi rehegua.
+- **Ejesareko porã pehẽngue ta’angáre.** Emoherakuã ta’anga pe tapicha oĩporãva añoite reheve, ha eikuaa moõpa oñeñongatu peteĩ tembiporu’ípe. [Photo Pairs](/games/photo-pairs/)-pe, umi ta’anga reiporavóva opyta nde kundahára ryepýpe.
+- **Embogue jejogua tembiporu’i pype** térã eipe’a mba’e jehepyme’ẽ pe cuenta pe tapicha oiporúvagui.

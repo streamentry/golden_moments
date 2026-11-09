@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kiaull as cloie marish persoon lesh mee-huggeyrys"
+description: "Coyrle ymmydoil son cloie gamman marish persoon ta cummal lesh mee-huggeyrys: soiaghey rolaue, goll dy meein, gyn kiartaghey, as cur jerrey traa t’eh cooie."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Jeeagh er y ghamman myr traa ry-cheilley, cha nee prowal. Reih traa feagh
+  jeh’n laa, soie rish y cheu jeh’n persoon ayns shamyr feagh, as cur stiagh un
+  ghamman aashagh. Lhig da’n persoon y keim y reih, ny jean kiartaghey botchyn
+  nagh vel scanshoil, jean y ghamman ny sassey tra t’eh jeeaghyn doillee, as
+  jean jallooyn ny thoshiaght son co-loayrtys. Cur jerrey tra t’eh foast
+  taitnyssagh. Ta jerrey roish traa, ny jeeaghyn ry-cheilley, ny chooilleenys
+  mie.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "She taitnys as cochiangley yn aigney, cha nee cur jerrey er ny feddyn freggyrtyn kiart."
+  - "Soieaghey rolaue: shamyr feagh, soilshey mie, speckleyryn as claaseyn-cloaie er, y çhellveeish ass, as un ghamman aarloo."
+  - "Ny jean kiartaghey botchyn nagh vel scanshoil. Abbyr \"Lhig dooin eh y phrowal myr shoh\" ny gow er dty hoshiaght."
+  - "Jean y ghamman ny sassey roish my vees frustyraght troggal: ny sloo jallooyn, ny sloo reihyssyn, ny jallooyn faagit ry-akin."
+  - "Jean jallooyn ny thoshiaght son skeealyn lesh \"Insh dou mychione...\" ayns ynnyd jeh \"Vel cooinaght ayd er...?\""
+  - "Cur jerrey ec y chied cowrey jeh skeeys ny imnea. She cooilleenys eh cur jerrey roish traa, cha nee failleil."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Caid foddee mayd cloie gamman?"
+    a: "Cha nel traa kiart ayn. Da ymmodee sleih, ta kuse dy vinnidyn dy liooar, as laaghyn ennagh ta un cheayrt dy liooar. Jeeagh er y persoon, cha nee er y chlag, as cur jerrey choud’s t’ad foast feagh."
+  - q: "Lhisagh dou lhiggey daue cosney ny lhiggey er nagh vel mee fakin botchyn?"
+    a: "Ayns gamman cochiangle, feagh, cha nel red erbee dy chosney ny dy choayl. Mannagh vel botch cur skeeys er y persoon, lhig eh goll shaghey. My t’eh jeeaghyn dy vel eh cur skeeys orroo, cur cooney dy meein ny jean y ghamman ny sassey gyn eh y chur ayns fockleyn."
+  - q: "Cre my baillish daue jeeaghyn orrym cloie?"
+    a: "Ta shen mie dy liooar. Ta’n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gra dy vel eh cooie lhiggey da persoon jeeaghyn er ny lomarcan my t’ad goaill taitnys ass shen ny smoo. Loayr mychione ny t’ou fakin as cuir cuirrey orroo dy phointal ny reih traa erbee sailloo."
+  - q: "Vel ny gammanyn shoh son prowal cooinaghtyn?"
+    a: "Cha nel. She obbraghyn cochiangle aashagh son taitnys as co-loayrtys t’ayn ayns ny gammanyn ain. Cha nel ad nyn browal cooinaghtyn, cha nel ad towse red erbee, as cha nel ad nyn lheeys son mee-huggeyrys."
+  - q: "Cre’n gamman share dy gholl toshiaght lesh?"
+    a: "Toshiaght lesh y fer sassey ta cooie da’n persoon. Ta [Picture Pairs](/games/picture-pairs/) lesh 4 brikkagyn as jallooyn faagit ry-akin, ny [Find the Same](/games/find-the-same/) lesh 2 reihyssyn, ny toshiaghtyn meein. Ta [Conversation Cards](/games/conversation-cards/) gobbraghey dy mie my s’laik lesh y persoon taggloo ny smoo na tappey."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Cha nel gamman mie marish persoon ta cummal lesh mee-huggeyrys goll er cummey cohirrey. T’eh goll er cummey daa pheiagh soie cooidjagh, pointal rish jallooyn, gearey ec raa, as taggloo mychione red erbee hig hood. She oyr yn ghamman dy chur traa ry-cheilley.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ta’n coyrle shoh cur cooney lesh soiaghey rolaue, lesh keim y ghamman, lesh ny t’ou dy ghra tra ta red goll “marran”, lesh jannoo gamman erbee ny sassey ny red beg ny s’doillee, lesh jannoo co-loayrtys jeh, as lesh toiggal tra dy chur jerrey. T’eh gobbraghey son ny [gammanyn ain](/games/) as son kaartyn, meeryn-meerey as gammanyn boayrd t’ayds hannah.
 
-## What is the best way to play a game with someone who has dementia?
+## Cre’n aght share dy chloie gamman marish persoon lesh mee-huggeyrys?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Cur dty aigney er taitnys, cha nee er cooilleeney. Shen bun y choyrle voish [coyrle yn Alzheimer’s Association mychione obbraghyn](https://www.alz.org/help-support/caregiving/daily-care/activities): trog er ny schleiyn ta foast ec y persoon, cur cooney daue toshiaght, jean uss ny ayrnyn doillee, as ny jean oghsan ny kiartaghey obbraghyn nagh vel scanshoil.
 
-In practice that means:
+Ayns laa gagh laa, ta shen er y hon:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Soie rish y cheu oc, cha nee noi oc.** My t’ou soie ry-cheilley, foddee ooilley y scaailean ny yn boayrd y akin, as ta cooney goll er cummey obbyr ry-cheilley.
+- **Cur stiagh un ghamman ec y traa.** Foddee reih mennick goaill er cummey prowal roish my vel red erbee er toshiaght.
+- **Eiyr er nyn aigney hene.** My bailloo tappey er ny jallooyn ayns nyn oardagh hene, taggloo mychione un valloo rish jeih minnidyn, ny scuirr lurg daa cheayrt, shen y ghamman jiu.
+- **Cooinnee ny traaghyn mie, cha nee ny keayrtyn jeant.** She mwyllin, skeeal ny lieh oor feagh y chooilleenys t’ou shirrey.
 
-## How do I set up before we start?
+## Kys neem’s soiaghey rolaue?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Ta kuse dy vinnidyn dy hoiaghey cur shaghey y chooid smoo jeh’n vrasnaght ta sleih dy mennick cur er y ghamman hene.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Reih y traa share daue ’sy laa.** Ta [coyrle y National Institute on Aging (NIA) mychione caghlaa obbraghyn](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gra dy vel eh mie obbraghyn y chur ayns traa tra ta’n persoon ec y chooid share. Da ymmodee sleih, ta shen meein ’sy voghrey. Ta’n fastyr anmagh ny s’doillee dy mennick; jeeagh [obbraghyn feagh ’sy fastyr anmagh](/caregiving/late-day-restlessness/).
+2. **Jean y shamyr feagh.** Cur y çhellveeish as y radio ass, as dooin y dorrys my oddys oo. Ta’n [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) coyrlaghey dy vel eh mie beggan jeh’n vee-choraa y lhiettal roish my toshee oo loayrt.
+3. **Jeeagh er y vea-ys hoshiaght.** Jough er-gerrey, cheet er y chamyr rolaue, stoyl cooie, as speckleyryn as claaseyn-cloaie er.
+4. **Cur soilshey mie er yn ynnyd.** Ta soilshey gial, cairagh gyn soilshey loandagh er y scaailean jannoo jallooyn ny sassey dy akin.
+5. **Jean y ghamman aarloo roish my soieys oo.** Foshil eh, reih ny reaghaghyn as y choraa uss hene. Eisht chyndaa y scaailean nyn gour. Son coyrle tablet, jeeagh [soiaghey tablet ny foon](/caregiving/tablets-and-screens/).
+6. **Cur y greie seose.** Ta shassoo ny coodagh ta cummal y tablet seose gobbraghey dy mie, as t’eh ny sassey dy phointal.
 
-## How do I invite them without pressure?
+## Kys neem’s cuirrey orroo gyn tranlaase?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Jean y cuirrey meein as aashagh dy ghra “cha lhiam”. Shoh kuse dy raaaghyn ta gobbraghey dy mie:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Hooar mee kuse dy jallooyn jeh’n gharey. Bailt lhiat jeeaghyn orroo marym?"
+- "Oddagh oo cooney lhiam lesh y veer-meerey shoh? Ta mee er choayl."
+- "By vie lhiat ny blaaghyn ny ny ushagyn jiu?" (ta reih jeh jees ny sassey na feysht foshlit)
+- "Ta mee jannoo kaart da dty huyr. Cre’n daah lhisagh shoh ve?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Ta’n Alzheimer’s Association coyrlaghey dy vel eh mie oyr y chur da obbyr, myr sampleyr kaart y yannoo da carrey, kyndagh rish dy vel keeall ayn. T’eh gobbraghey dy mie myrgeddin dy hirrey cooney, son t’eh cur er y persoon gennaghtyn ymmydoil.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+My jir ad “cha lhiam”, jean soiaghey jeh. Prow reesht ny s’anmey ny cur red elley. Ta tooilley ayns y choyrle ain [cre dy yannoo tra jir ad “cha lhiam”](/caregiving/when-they-say-no/).
 
-## How long should a game last, and how fast should we go?
+## Caid lhisagh gamman goaill, as cre cho tappee?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Lhig da’n persoon y keim y reih, as jean plannyn son traaghyn giare. Cha nel traa kiart er lheh son gamman cochiangle. Foddee daa ny queig minnidyn feagh ve obbyr lane.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Fuirree ny sodjey na t’ou jerkal rish.** Ta’n NIA coyrlaghey dy chur ny smoo traa da persoon dy reggyrt as gyn brishey stiagh. Coont dys jeih ayns dty chione roish my jig oo dy chooney.
+- **Un cheum ec y traa.** Cur un oardagh giare (“Tap er jalloo”), eisht fuirree. Jean eh y hoilshaghey ayns ynnyd jeh eh y hoilshaghey magh: pointeil raad dy happey.
+- **Scuirr dy seyr.** My scuirr ad dy loayrt mychione jalloo, foddee yn ghamman fuirraghtyn. Cha lhisagh eh ve siyragh.
+- **Lhig daue jeeaghyn.** Ta’n NIA gra dy vel paart dy leih ny s’aassee lesh jeeaghyn, as ta shen reih mie.
 
-## Should I correct wrong answers?
+## Lhisagh dou freggyrtyn marran y chiartee?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Cha lhisagh. Ta kiartaghey persoon dy meein, er-ash as er-ash, ginsh daue dy vel ad failleil, ga dy vel uss shirrey cooney. Ta’n Alzheimer’s Association coyrlaghey gyn oghsan ny kiartaghey obbraghyn nagh vel scanshoil. Ayns gamman, cha nel y chooid smoo dy votchyn scanshoil.
 
-| Instead of | Try |
+| Ayns ynnyd jeh | Prow shoh |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Cha nee, ta shen marran." | "Lhig dooin eh y phrowal myr shoh." (sampleyr ta’n NIA cur) |
+| "Cha nel ad shen co-laik. Jeeagh reesht." | Abbyr veg, ny gow y chied cheayrt elley, ny "Oh, ta’n jees jeu jiarg." |
+| "Vel cooinaght ayd er quoi eh shoh?" | "Insh dou mychione y jalloo shoh." |
+| "Ren oo shen hannah." | "Ta shen fer mie. Lhig dooin eh y yannoo reesht." |
+| "Tar er, ta fys ayd er shoh." | "Bailt lhiam y jerrey y hoilshaghey?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+My t’ou fakin dy vel botch dy jarroo cur frustyraght orroo, cur cooney dy kiune. Pointeil rish y jalloo kiart, gow turn uss hene, ny jean y ghamman ny sassey ’sy chied cheayrt elley. My ta jerrey marran, agh greannagh, er raa, gear ec y traa cheddin. Foddee dy vel y jerrey ocshare ny share.
 
-## How do I make a game easier or harder?
+## Kys neem’s gamman ny sassey ny beggan ny s’doillee?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Caghlaa y ghamman da’n persoon er y laa, cha nee da lipaid. Foddee dy bee feme ec yn un persoon er cummey ny sassey ’syn astyr na ’sy voghrey. Ta’n chied choyrle ec y NIA dy choardail y ghamman rish ny oddys y persoon y yannoo as dy yannoo shickyr dy vel ad gennaghtyn dy vel ad jannoo dy mie.
 
-| Game | Make it easier | Make it a little harder |
+| Gamman | Jean eh ny sassey | Jean eh beggan ny s’doillee |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Toshiaght lesh 4 brikkagyn as faag ny jallooyn ry-akin | Ny smoo brikkagyn, ny follee ny jallooyn my t’eh cooie |
+| [Find the Same](/games/find-the-same/) | 2 reihyssyn | Derrey 4 reihyssyn |
+| [Sort Together](/games/sort-together/) | Cum uss y jalloo, lhig daue pointeil rish y vaskad | Lhig daue tappey er y jalloo as er y vaskad ad hene |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 meer, loayr mychione y jalloo lane hoshiaght | 9 meer |
+| [Finish the Saying](/games/finish-the-saying/) | Soilsh y jerrey, eisht abbyr eh ry-cheilley | Lhig daue y jerrey y ghra roish tappey |
+| [Word Search](/games/word-search/) | Prental eh, shir un ockle ry-cheilley, pointeil rish y chied lettyr | Lhig daue yn chied ockle elley y reih |
+| [Coloring](/games/coloring/) | Reih uss daa ghaah, lhig daue reih eddyr oc | Lhig daue ooilley ny daaghyn y reih |
+| [Conversation Cards](/games/conversation-cards/) | Jeeaghyn er y jalloo ry-cheilley ny lomarcan | Jean ymmyd jeh ny feyshtyn foshlit er y chaartey |
+| [Photo Pairs](/games/photo-pairs/) | Beggan jallooyn-lught-thie deyr | Cur tooilley jallooyn stiagh |
+| [Picture Bingo](/games/picture-bingo/) | Soie fer-coonee marish dagh cloieder | Lhig da cloiederyn nyn gaarteyn y chowraghey ad hene |
+| [Calm Breathing](/games/calm-breathing/) | Soie as jeeaghyn er ry-cheilley | Ennal dy meein ry-cheilley |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Cowraghyn dy vel y gamman ro dhoillee: paaysyn foddey ta jeeaghyn imneagh, “cha noddym” er-ash as er-ash, y greie y phuttyl ersooyl, ny botchyn ta cur skeeys orroo. Cowraghyn dy vod eh ve ro aashagh: dorraghys, ny gra dy vel eh ro “lhiannooagh”. My taghyr shen, jean soiaghey jeh as gow erash gys red ta gennaghtyn ny smoo aasit, myr shen ronsaghey fockle, meer-meerey jeh jalloo firrinagh, ny loayrt mychione jalloo jeh’n obbyr oc ’sy traa t’er ngoll shaghey.
 
-## How do I turn a game into a conversation?
+## Kys neem’s co-loayrtys jeh gamman?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Jean dagh jalloo ny chuirrey dy loayrt, as gow rish red erbee jir ad myr freggyrt mie. Da ymmodee lught-thie, shoh y chooid share jeh cloie.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Cur feyshtyn foshlit, gyn freggyrt marran.** "Cre t’ou fakin?" "Quoi jeu s’laik lhiat?" "Insh dou mychione coggyl goll rish shoh."
+- **Jean skeeal uss hene hoshiaght.** "Va moddey goll rish shoh ec my warree." Ta dty skeeal uss cur eh ny sassey daue skeeal y insh.
+- **Eiyr er y skeeal.** My ta jalloo gleashtan goll erash gys skeeal mychione troailt, she’n skeeal yn obbyr. Faag y gamman er pause.
+- **Ny jean eh y chiartee.** Ayns cooinaghtyn, ta co-loayrtys taitnyssagh ny smoo scanshoil na feyshtyn cruinn. My hig y skeeal er caghlaa veih’n cheayrt s’jerree, gow taitnys ass y lhiass noa.
+- **Jean ymmyd jeh ny coyrleyn ’sy ghamman.** Ta [Finish the Saying](/games/finish-the-saying/) cur feysht loayrt lurg dagh raa, as ta [Conversation Cards](/games/conversation-cards/) jeant son shoh. Ta [Photo Pairs](/games/photo-pairs/) jannoo ymmyd jeh jallooyn lught-thie eu hene, as t’ad dy mennick cur er skeealyn yirree.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Ta tooilley smooinaghtyn ayns ny coyrleyn ain mychione [obbraghyn cooinaghtyn](/activities/reminiscence/) as [coyrle co-loayrtys](/caregiving/communication-tips/).
 
-## When should we stop?
+## Tra lhisagh shin cur jerrey?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Cur jerrey ec y chied cowraghyn dy skeeys ny imnea, as share dy liooar red beg roish shen. Ta’n Alzheimer’s Association coyrlaghey dy scuirr ny dy chaghlaa obbyr tra ta’n aigney goll ersooyl ny frustyraght troggal.
 
-Watch for:
+Jeeagh son:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- meenaghey, croymmey, ny sooillyn goll ersooyl voish y scaailean;
+- coraa, seose, ny shirrey goll;
+- osnaghey, freggyrtyn giare, ny “cha nel mee mie ec shoh”;
+- tappey gyn tort, ny y greie y phuttyl ersooyl;
+- jeir, farg, ny caghlaa çhelleeragh ayns imnea.
 
-How to stop well:
+Kys dy chur jerrey dy mie:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Cur jerrey er red aashagh.** Un cho-laik s’jerree oddys ad y yannoo, ny jalloo s’jerree dy yeeaghyn er.
+- **Jean eh mychione uss hene.** "By vie lhiam cappan dy hey. Jean mayd scuirr ayns shoh?" cha nel eh cur orroo gennaghtyn dy ren ad dy marran.
+- **Gow erash gys red so-chooie ny feagh.** Shooyl giare, blass, filleeadyn y fillaghey, ny kiaull.
+- **Abbyr red reen.** "By haittin lhiam shen y yannoo mayrt." Cha nel eh mychione “eh y yannoo kiart”, agh taitnys jeh’n traa ry-cheilley.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Ta cur jerrey roish traa, caghlaa plannyn, ny faagail y ghamman as soie ry-cheilley, ooilley ny chooilleenys mie.
 
-## Can we play in a group or over a video call?
+## Oddagh shin cloie ayns possan ny harrish feysht-çhellveeish?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Oddagh, lesh beggan dy hoiaghey. Ayns possan, cum eh gys kuse dy leih, soie cooneyderyn marish peiagh erbee ta feme cooney, as reih gamman lesh un aigney cochiangle. Ta kaartyn prentit as feyshteyder er y scaailean ec [Picture Bingo](/games/picture-bingo/) son possanyn. Jeeagh [obbraghyn son possanyn ayns thie-kiarail](/activities/care-home-groups/) son tooilley.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Harrish feysht-çhellveeish, foddee yn persoon er y çhellvane jalloo y chur sheese choud’s ta persoon ayns y shamyr pointal as tappey. Cum ny çhellvanyn giare as ennoil. Ta coyrle ain mychione [çhellvanyn as feyshtyn-çhellveeish](/activities/phone-and-video-calls/).
 
-## What if a game just isn't working?
+## Cre my ta gamman er chor erbee nagh vel gobbraghey?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Ta laaghyn ayn nagh vel red erbee gobbraghey, as cha nel shen dy ghra red erbee mychione uss ny mychione adsyn. Cur y gamman ersooyl as prow reesht traa elley ’sy laa, gamman elley, ny gyn gamman erbee. Ta ymmodee obbraghyn mie nagh vel bentyn rish scaaileanyn: kiaull, filleeadyn y fillaghey, jeeaghyn trooid lioar-jallooyn, ny shooyl giare. Jeeagh er ny [smooinaghtyn obbree ain](/activities/ideas/) son tooilley.

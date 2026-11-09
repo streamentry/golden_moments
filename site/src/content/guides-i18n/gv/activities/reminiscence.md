@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Cooinaghtyn: Kishtey, Skeealyn as Jallooyn"
+seoTitle: "Obbraghyn Cooinaghtyn son Dementia: Fegooish Quizzyn"
+description: "Kys dy rheynn cooinaghtyn marish persoon ta cummal lesh dementia fegooish quizzyn: jallooyn, kishtey cooinaghtyn as lioaryn skeeal bea, lesh raaghyn aashagh."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Ta cooinaghtyn er coontey jeh goaill soylley jeh’n traa t’er ngoll shaghey
+  ry-cheilley, lesh jallooyn, reddyn, kiaull as skeealyn. Jean kishtey
+  cooinaghtyn, trog lioar skeeal bea aashagh, ny jeeagh er jallooyn ry-cheilley.
+  Ny jean quiz erbee: lhig shaghey “Vel cooinaght ayd?” as “Quoi t’ayn shoh?”
+  as jean ymmyd jeh cuirraghyn foshlit myr “Insh dou mychione shoh.” Ta
+  coloayrtys çheh ny smoo scanshoil na fakin dagh nhee dy kiart.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "She coloayrtys t’ayn, cha nee prawal. Cha nel eh scanshoil dy ve kiart; ta goaill soylley scanshoil."
+  - "Caghlaa ‘Vel cooinaght ayd...?’ as ‘Quoi t’ayn shoh?’ gys focklyn as cuirraghyn myr ‘Insh dou mychione yn laa shoh.’"
+  - "Ta kishtey cooinaghtyn lesh reddyn veih bea yn persoon cur red ennagh da ny laueyn as da’n coloayrtys."
+  - "Ta lioar skeeal bea cooney lesh lught-thie, keayrtee as lught-kiarail dy hoiggal yn persoon, cha nee ynrican y diagnoos."
+  - "My ta cooinaght cur trimshey er, cur gerjagh hoshiaght as gow er dty hoshiaght dy meen."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Cre ta cooinaghtyn er son sleih ta cummal lesh dementia?"
+    a: "She rheynn cooinaghtyn as eashyn t’er ngoll shaghey t’ayn, dy mennick lesh cooney jallooyn, reddyn, kiaull ny feeshanyn. Foddee eh taghyrt un er un ny ayns possan. She coloayrtys taitnyssagh as scanshoil y chooish, cha nee prawal cre foddee yn persoon cooinaghtyn."
+  - q: "Cre’n fa nagh lhisagh mee briaght ‘Vel cooinaght ayd?’"
+    a: "Foddee feyshtyn ta prawal cooinaghtyn cur er persoon gennaghtyn nearey ny imneagh tra nagh vel ansoor ry-heet. Ta’n National Institute on Aging cur stiagh briaght my vel cooinaght ec persoon er red ennagh ny er peiagh ennagh mastey ny reddyn dy haghney. Abbyr red ennagh mychione ny t’ou fakin, as lhig da’n persoon cur stiagh red erbee by vie lhieu."
+  - q: "Cre lhisagh mee cur ayns kishtey cooinaghtyn?"
+    a: "Reih reddyn sauçhey, lajer ta bentyn rish bea yn persoon: reddyn obbree, reddyn giennaghtyn, scaairyn smoo deyr, cartyn-post, cartyn resoonyn, cooinaghtyn spoyrt ny coipyn jeh jallooyn. Ny jean ymmyd jeh reddyn geyre, reddyn beggey oddagh ve sluggey, ny reddyn asliee nagh vod oo cur er ash."
+  - q: "Cre my ta ny fysseree oc neu-chiart?"
+    a: "Lhig shaghey eh. My ta dty voir gra dy vel yn jalloo jeeish jeh e shuyr tra t’eh jeh e co-inneen, ta shen mie dy liooar. Ta kiartaghey chyndaa traa çheh gys prawal. Eiyr er y skeeal t’ad ginsh as gow soylley jeh ry-cheilley."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Ta cooinaghtyn goaill toshiaght er goaill soylley jeh’n traa t’er ngoll shaghey ry-cheilley. Son ymmodee sleih ta cummal lesh dementia, foddee cooinaghtyn veih bleeantyn er dy henney tannaghtyn ny s’glarey na ny haghyr moghrey jiu. Foddee jallooyn, reddyn ennoil, kiaull as skeealyn fosley ny cooinaghtyn shen as cur red çheh diu dy rheynn. Yn un rool: she coloayrtys t’ayn, cha nee quiz rieau.
 
-## What is reminiscence, and how is it different from quizzing?
+## Cre ta cooinaghtyn, as cre’n aght t’eh anchasley rish quiz?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+She rheynn cooinaghtyn t’ayn trooid jallooyn, reddyn, kiaull ny feeshan, ec astyr yn persoon hene. Ta’n [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) cur coontey jeh myr rheynn eashyn as skeealyn t’er ngoll shaghey lesh cooney jallooyn, reddyn, feeshanyn ny kiaull, ayns lioar ny er taablet. Ta quiz anchasley: t’eh shirrey er y persoon cur ansoor kiart, as foddee shen cur nearey ayns ynnyd jeh soylley.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+Ta’n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) cur stiagh briaght my vel cooinaght ec persoon er red ennagh ny er peiagh ennagh mastey ny reddyn dy haghney. Ta’n [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) coyrlaghey dy haghney feyshtyn ta croghey er cooinaghtyn giare as dy loayrt mychione yn traa foddey er dy henney ayns ynnyd jeh.
 
-| Instead of | Try |
+| Ayns ynnyd jeh | Jean eh shoh |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “Vel cooinaght ayd er shoh?” | “Ta shoh jeeaghyn myr laa maynrey. Insh dou mychione.” |
+| “Quoi t’ayn shoh?” | “Shoh Aunt Rose er y traie. Jeeagh er yn edd shen.” |
+| “Cre’n vlein v’ayn?” | “Ta shoh jeeaghyn myr y thie shenn. Cre v’eh myr cummal ayns shen?” |
+| “Cha nee, cha nee Bill t’ayn, she Frank t’ayn.” | “T’eh jeeaghyn dy row eh lane dy aitt.” |
+| “D’insh oo shen dou hannah.” | “S’mie lhiam y skeeal shen.” |
 
-## How do you talk about photos without quizzing?
+## Kys t’ou loayrt mychione jallooyn fegooish quiz?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Toshiaght lesh ny t’ou fakin, as eisht faag reamys da’n persoon dy chur red ennagh stiagh my by vie lhieu.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Soie lhiattee ry lhiattee.** Cum yn albym eddyr iu myr shen dy vel shiu jeeaghyn ry-cheilley, cha nee prawal harrish boayrd.
+2. **Reih kuse dy jallooyn.** Ta queig jallooyn mie ny share na lane kishtey. Ta prentyn mooarey, glen gobbraghey share.
+3. **Enmys sleih oo hene.** “Shoh uss as Dad er laa yn phoosey eu” t’eh goaill ersooyl y tranlaase.
+4. **Abbyr red ennagh mychione myn-chooishyn.** Eaddagh, gleashtanyn, bee, emshir, eddinyn. “Cre’n gleashtan. T’eh jeeaghyn cha sollyssagh.”
+5. **Cur cuirrey, cha nee geam.** “Insh dou mychione...” ny “Cre t’ou fakin?” Ta shassoo tost mie dy liooar.
+6. **Eiyr orroo.** My t’ad loayrt mychione red ennagh elley, gow maroo.
+7. **Scuirr choud’s t’eh taitnyssagh.** Doon yn albym roish my vees ad skee.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Son cuirraghyn jalloo aarloo, jean eab er [conversation cards](/games/conversation-cards/). Dy hyndaa ny jallooyn lught-thie ayd hene gys cloie co-chochiangle aashagh, jean eab er [photo pairs](/games/photo-pairs/); ta ny jallooyn t’ou reih tannaghtyn ayns dty yeeagheyder.
 
-## How do you make a memory box?
+## Kys t’ou jannoo kishtey cooinaghtyn?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+She coyr dy reddyn veih bea yn persoon t’ayn dy ghoaill ayns laue as dy loayrt mychione.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Reih kishtey lajer** ta aashagh dy oscail, myr sampleyr kishtey braag, kishtey edd ny kishtey beg fuygh.
+2. **Reih cooish ny mestey.** Obbyr, giennaght, boayl, eash, ny beggan dy chooilley red.
+3. **Cruinnaghey reddyn sauçhey.** Ta queig gys jeih reddyn dy liooar dy thoshiaght.
+4. **Jean ymmyd jeh coipyn jeh reddyn deyr.** Jean coipyn jeh jallooyn as docamadyn asliee as freill ny firrinagh sauçhey.
+5. **Gow magh un nhee ec y traa.** Cur eh daue, abbyr red ennagh my-e-chione, as fakin raad ta’n coloayrtys goll.
 
-Ideas to include:
+Reddyn oddys oo cur stiagh:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Obbyr:** badge ennym, greie beg, peesh uniform, lioar coontey, pin altys ny lioar-chookery veih caa.
+- **Thie:** cart resoon ayns nyn screeu hene, aanrit çhibbyr, scaairyn ny cooat smoo deyr.
+- **Giennaghtyn:** breag-eeastee fegooish dooan, bluckan base, cruinn sniengan, poage rass.
+- **Buill:** cartyn-post, caslyssyn-thallooin, cooinaghtyn troailt, peesh dy phabyr-naight ynnydoil.
+- **Lught-thie:** coipyn jeh jallooyn, jalloo jeant ec paitçhey, cuirrey poosey.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Faag magh reddyn geyre, reddyn beggey oddagh ve sluggey, as red erbee oddagh cur cooinaghtyn trimshagh er, mannagh vel oo shickyr dy vel eh failt.
 
-## How do you make a life-story book?
+## Kys t’ou jannoo lioar skeeal bea?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+She albym aashagh t’ayn jeh jallooyn as fo-screeunyn giare mychione bea yn persoon. T’eh red mie dy yeeaghyn er ry-cheilley, as t’eh cooney lesh keayrtee as lught-kiarail dy akin yn persoon slane.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Reih cummey.** Bindeil lesh coodaghyn duillag, lioar-jallooyn prentit, ny taishbyney er taablet.
+2. **Jean plan son kuse dy rheynnyn.** Oikan, scoill, obbyr, lught-thie, buill v’ad cummal ayndoo, credjue, giennaghtyn, bee as kiaull smoo deyr lhieu.
+3. **Cur un ny daa halloo er dagh duillag** lesh fo-screeuyn giare, mooarey: “Mary, 22 bleeaney d’eash, goaill toshiaght er obbyr ec y vanc.”
+4. **Cur stiagh reddyn s’mie lhieu as cliaghtaghyn.** “T’ee goaill caa lesh bainney. S’mie lhee arraneyn Jedoonee. Cha mie lhee çhellvee feiyr.” Ta shen cooney lesh peiagh erbee ta kiarail orroo.
+5. **Cur yn persoon stiagh** wheesh as by vie lhieu, reih jallooyn, ginsh skeealyn ny jus jeeaghyn er.
+6. **Jean eh ny smoo.** Cha lhiass da ve jeant dy ve ymmydoil.
 
-## More reminiscence ideas
+## Tooilley ideaaghyn cooinaghtyn
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Cloie kiaull veih’n aegid oc** as loayrt mychione yn boayl t’eh cur ad. Jeeagh er [obbraghyn kiaullee](/activities/music/).
+- **Jeeagh er fillymyn thie ny claaghyn çhellvee** veih ny jeihaghyn s’mie lhieu.
+- **Jean aarlaghey bee veih’n oikan oc** as lhig da ny soar millish leeideil y coloayrtys.
+- **Jeeagh er caslys-thalloo** jeh’n valley oc as ronsaghey straidyn ennoil.
+- **Cum catalogyn ny earishlioaryn shenn** as loayrt mychione praghyssyn, aash as gleashtanyn.
+- **Recortyss ny skeealyn oc** er çhellvane, lesh kied, son y lught-thie.
+- **Rheynn ayns feyshtyn.** Cum seose un jalloo ayns feysht feeshan; jeeagh er [feyshtyn çhellvane as feeshan](/activities/phone-and-video-calls/).
+- **Cur lhiat jalloo ny red tra t’ou çheet dy yeeaghyn orroo.** T’eh cur cooish aashagh da’n cheet; jeeagh er [çheet dy yeeaghyn](/activities/visiting/).
 
-## What if a memory is painful?
+## Cre my ta cooinaght trimshagh?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Foddee paart dy chooinaghtyn cur trimsey, arrys ny aggle er. My ta’n persoon goll dy ve seaghnit, scuirr, cur gerjagh daue as chyndaa yn chooish ny yn obbyr dy meen. Ny jean arganey mychione ny haghyr. Ta’n Family Caregiver Alliance coyrlaghey nagh jean oo eab dy choyrlaghey persoon dy vel ad neu-chiart as dy jean oo freggyrt da ny feyshtyn t’ad soilshaghey magh, ta firrinagh. My t’ad loayrt mychione peiagh t’er ngeddyn baase myr dy beagh ad bio foast, freggyr da’n ennaghtyn: “Ta treih ort nyn yeï. Insh dou mychione.”
 
-## What does the research say?
+## Cre ta’n rannsagh gra?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Hooar [aavriwnys Cochrane jeh cooinaghtyn](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), goaill stiagh 22 prowal as 1,972 persoon, dy row ny eiyrtyssyn neu-chonsistent, beg as anchasley lurg yn ynnyd as y chummey. Cha dooar eh feanish jeh assee da sleih ta cummal lesh dementia. Ta shin coyrlaghey cooinaghtyn er-yn-oyr dy vod ad cur traa çheh as scanshoil diu ry-cheilley, cha nee myr lheeys. Son tooilley mychione coloayrtys aashagh, jeeagh er [oyryn loayrt](/caregiving/communication-tips/).

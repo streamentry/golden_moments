@@ -1,32 +1,28 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Aaght laa meaynagh son peiagh ta cummal lesh demensh"
+seoTitle: "Aaght laa son demensh: sample laa"
+description: "Sample laa dy hee son peiagh ta cummal lesh demensh, lesh beaghey, cloie as scaa ayns creenaght chadjin, as kys dy yannoo dty hene as dy chaghlaa eh er laa crampey."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Ta aaght laa meaynagh cur crig chadjin da doostey, beaghey, kerraghey corp as cadley ec traa dy bollagh. Cur y cloie smoo ec y traa s'urryssagh da'n pheiagh, co-chruinnaght cloie as scaa, jean ymmyd jeh soilshey laa as gleashaght dagh laa, as yannoo dt'aaght ve bog choud's ta feme, as chaghlaa eh dy seyr tra ta'n laa jannoo feme er shen.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Cur traa dy bollagh son doostey, beaghey, kerraghey as cadley dy chur crig chadjin da'n laa."
+  - "Cur y cloie smoo ec y traa s'feeu da'n pheiagh, dy mennick 'sy voghrey."
+  - "Ny lhig da dagh minnid ve lane. Ta scaa as traa sheeoil ayrn jeh'n aaght."
+  - "Foddys soilshey laa, gleashaght dagh laa, as cur yn arragh er cadley liauyr tardy as caaffey tardy cooney lesh cadley sheeoil sy traa tardy."
+  - "Ta'n aaght ny stiuireyder, cha nee sarrey. Foddee oo ceaghil, giarey ny lhig eh ayn er laa crampey."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Cre'n fa ta aaght laa cooney da peiagh ta cummal lesh demensh?"
+    a: "Ta laa cadjin jannoo beggan ny smoo smooinaghtyn as yindys, as ta shin clashtyn dy vel ymmodee jeusyn ta cummal lesh demensh feddyn shoh meaynagh. Ta'n Alzheimer's Association gra dy vel laa caghlaaagh cur lhiat less obbyr ayns smooinaghtyn cre red y yannoo, as smoo traa son reddyn ta shiu braew dy yannoo ry-cheilley. Ta shoh myrgeddin cooney lesh fer y churam stiurey e laa hene."
+  - q: "Cre'n aaght mie t'ayn son peiagh ta cummal lesh demensh?"
+    a: "Cha nel un aaght kiart dy-liooar erbee ayn. Ta un mie freayll doostey, beaghey as cadley ec traa dy bollagh, cur kerraghey corp as y cloie smoo ec y traa s'urryssagh da'n pheiagh, cur traa magh ass thie ny rish uinnag, as faagail traa son scaa. Jean eh er yn aght va'n pheiagh er n'ymmyd dy chur er as da."
+  - q: "Lhisagh peiagh ta cummal lesh demensh cadley ayns y laa?"
+    a: "Foddee scaa giarey cooney, dy mennick lurg y mea. Ta'n National Institute on Aging coyrlaghey nagh lhisagh oo lhiassaghey cadley liauyr ny cadley tardy 'sy laa, er-y-fa dy vod bheith ro-äyragh ny gyn cadley mie cur rish caghlaaghyn sy traa tardy. My ta feme er cadley dy jarroo, loayr rish nyn doctor."
+  - q: "Cre ta shiu jannoo my ta ad jannoo noi yn aaght?"
+    a: "Faag eh son y traa shoh as prow reesht ny ayns aght elley. Foddee yn oyr ve dy vel ad skelloil, gyn slaynt mie, ayns pian ny gyn ablid ayns shen y traa. Ta'n aaght ayn dy yannoo yn laa ny s'assey, myr shen chaghlaa eh roish dy chur er ad."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +41,78 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Ta aaght meaynagh cur crig chadjin da'n laa: doostey, beaghey, beggan cloie, scaa as cadley ec traa dy bollagh. Ta shoh cur sheese yn earroo dy smooinaghtyn as yindys, as cur çhione daue tra veagh oo gra cre y yannoo. Cha nee sarrey yn aaght ta ry-hoi shoh, t'eh ny sample. Jean ymmyd jeh my toshiaght, as yannoo eh co-chaslyssagh rish y pheiagh t'ou dy chur curam da.
 
-## Why does a daily routine help?
+## Cre'n fa ta aaght laa cooney?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ta pattyryn chadjin ny s'aashagh da eiyrt er na pattyryn noa. Ta'n [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) gra dy vel laa caghlaaagh cur lhiat less traa ayns smooinaghtyn cre y yannoo as smoo traa son cloie ta braew daue, as myrgeddin dy vod traa dy bollagh son doostey as goll er cadley cooney lesh caghlaaghyn cadley as caghlaaghyn sy traa tardy. Ta'n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) coyrlaghey dy yannoo ollee, coamrey as beaghey ec yn un traa dagh laa my ayrn jeh thie sheeoil, as ta'n [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) myrgeddin coyrlaghey freayll aaghtyn cadjin.
 
-## A sample gentle day
+## Sample laa meaynagh
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Cha nel ny traa ny sarrey, t'ad ny sample. Cur yn laa slane ro-lhiasagh ny lurg y creenaght hene echey y pheiagh.
 
-| Time | What happens | Ideas | On a harder day |
+| Traa | Cre ta goll er | Smyshyn | Er laa crampey |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 er y voghrey | Doostey, niee, coamrey | Yn un ordyr dagh laa; cur coamrey magh ayns yn ordyr oc | Jean kerraghey giarey; ta cassad noa dy liooar |
+| 8:45 er y voghrey | Beaghey | Caifee as naight lhaiht dy ard, ny radio | Beaghey ry-cheilley dy sheeoil, gyn broie er loayrt |
+| 9:30 er y voghrey | Yn cloie smoo | Ynnee dy-ee, beaghey, garey, çheet magh giarey ny shooyll giarey | Lhig da ve ny smoo giarey, ny jeeagh ort jannoo eh |
+| 10:30 er y voghrey | Traa sheeoil | Kiaull, co-chruinnaght jallooyn, ny soie rish uinnag | Scaa ayns stoyl s'vie lesh |
+| 11:00 er y voghrey | Cooney lesh y mea | Niee glassyn, soiaghey yn boayrd | T'ou uss cooney; lhig daue shirveish dhyt |
+| 12:00 er y voghrey | Mea as glenney seose | Scryss yn boayrd, sych beggan jeh ny soieghyn | Faag ny obbraghyn thie |
+| 1:00 er y yeurey | Scaa giarey | Cassyn seose, kiaull bog | Yn un red |
+| 2:00 er y yeurey | Magh ass thie ny gleashaght | Shooyll, traa er yn ard-thie, ushtey lusyn, ceau balloon | Soie rish uinnag ayns soilshey greiney |
+| 3:00 er y yeurey | Co-hirveish ny cruthaght | Çhaghteraght, phone, [jallooyn co-chosoylagh](/games/picture-pairs/), daah, cairdyn | Meeryn as snaie ry-cheilley |
+| 4:30 er y yeurey | Troggal sheese | Kioortyn doonee, soilshey er, obbyr sheeoil myr giarrey neuchassyn | Kiaull chadjin, beggan sheean |
+| 5:30 er y yeurey | Shinney | Cooney lesh sturral ny soiaghey yn boayrd | Bee simplagh, chadjin |
+| 6:30 er y yeurey | Fastyr ry-cheilley | Cooinaghtyn harrish meeish, cairdyn, clashtyn show s'vie, massage laue | Co-hirveish sheeoil |
+| 8:00 er y astyr | Aaght cadley | Ollee ny niee, paaghyn cadley, kiaull bog, soilshey eeym | Giarey dy chooilley red; meaynid yn chied red |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ta'n sample shoh geiyrt er crig hene yn Alzheimer's Association son y chied as mean ayrn, ta troailt veih kerraghey corp as beaghey trooid obbraghyn thie, shooyll, kiaull, scaa as çhaghteraght gys shinney, cooinaghtyn as soiaghey son cadley.
 
-## How do you build your own routine?
+## Kys ta shiu jannoo dty aaght hene?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Toshiaght lesh yn aght va'n pheiagh er n'ymmyd dy chur er as da, cha nee lesh cooidjer. Ta'n Alzheimer's Association coyrlaghey smooinaghtyn er ny reddyn shoh roish cur yn aaght ayn:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ny ta braew as ny ta roie daue, nyn niart as nyn jeeanid.**
+- **Yn aght va ad er chur er nyn laa.** My va fer doostey moghrey as rieau shooyll y moddey, lhig daue shooyll moghrey foast. Foddee nagh jean fer-oie braew jeh toshiaght ec 8 er y voghrey rieau.
+- **Yn traa s'urryssagh oc.** Cur ollee, çheet magh ny y cloie smoo ayns shen.
+- **Dy liooar traa** son beaghey, niee as coamrey, nagh bee reddyn ro tappee.
+- **Doostey as cadley ec traa dy bollagh.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ta'n un bunney coyrlaghey cur stiagh obbraghyn thie, beaghey, kerraghey corp, cloie cruthaghtagh, gleashaght corp, co-hirveish, cloie spyrrydagh as minnidyn gyn caghlaa, myr dy jinnagh car çheet stiagh gyn raaue.
 
-### Try it for a week, then adjust
+### Prow eh son shiaghtin, eisht caghlaa
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Cur ny ta goll er ayns notey simplagh dagh laa. Ta'n Alzheimer's Association coyrlaghey feysht: cre'n cloie va ny s'feeu as cre'n fa? Row tooilley ry-yannoo ny ro veg ry-yannoo ec traa ennagh? Va caghlaaghyn gyn cummalaght braew ny va ad cur imnea?
 
-### Make it visible
+Freill ny ta gobbraghey as caghlaa ny nagh vel gobbraghey.
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+### Jean eh ry-akin
 
-## How to adapt the routine
+My oddys y pheiagh foast lhaih, foddee boayrd varney ny caard mooar lesh caghlaaghyn yn laa cur meaynid daue. Freill eh giarey: "Beaghey. Shooyll marish Sarah. Mea. Scaa." Ta shin clashtyn dy vel ymmodee ny s'feeragh gyn fys er yn ollagh roie; ta'n Family Caregiver Alliance coyrlaghey nagh lhisagh oo loayrt mychione caghlaaghyn derrey jeeragh roish ad my ta shoh cur imnea orroo.
 
-### Leave room to breathe
+## Kys dy chaghlaa yn aaght
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+### Faag traa dy haanney
 
-### Protect the late afternoon
+Ny lhig da dagh minnid ve lane. Ta'n Alzheimer's Association dy arrey gra dy vel feme er y pheiagh er co-chruinnaght cloie as scaa as foddee ad feme er brishey ny smoo min. My t'eh jeeaghyn skee, er-chummey ny drogh ymmyd, ceaghil cloie ny lhig da scaa.
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+### Coadee yn traa tardy
 
-### Change it as needs change
+Ta ymmodee dy-ghoostey ny smoo sy traa tardy choud's t'eh cheet dorragh. Ta'n NIA coyrlaghey traa magh ass thie ny rish uinnag son soilshey laa dagh laa, ve bio dagh laa gyn tooilley caghlaa, cur yn arragh er caaffey as buidh tardy, as lhiggey sheese er cadley liauyr tardy. Ta ram teaghyn feddyn dy vel dooney ny kioortyn as cur soilshey er roish yn oie cooney. Jeeagh er [caghlaaghyn sy traa tardy](/caregiving/late-day-restlessness/) as [cadley](/brain-health/sleep/).
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+### Caghlaa eh my ta feme caghlaa
 
-### Vary the activities, not the frame
+- **Çhiaghtin vooar:** caghlaa yn aaght ry-cheilley. Foddee y pheiagh geearree cooidjer scruit oc hene.
+- **Mean ayrn:** t'ou uss stiurey ny smoo. Cloie ny s'giarey, ny smoo scaa as ymmodee obbraghyn chadjin; jeeagh er [cloie ayns mean ayrn](/activities/middle-stage/).
+- **Ayrn s'jerree:** ta'n aaght er mayrn er meaynid, beaghey as kerraghey, lesh minnidyn giarey dy chlashtyn myr kiaull ny massage laue eddyr oc; jeeagh er [cloie ayns ayrn s'jerree](/activities/late-stage/).
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+### Ceaghil ny cloie, cha nee yn crig
 
-## When the day goes sideways
+Freill beaghey, scaa as cadley seyr, as ceaghil ny cloie eddyr oc. Ta'n [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) coyrlaghey prow cloie elley er laa elley dy chur ymmodee. Foddee oo beaghey er Mayn, garey er Jerdein, as jeeagh er jallooyn er Jeheiney. Foddee nyn [101 smooinaghtyn cloie](/activities/ideas/) as [obbraghyn thie](/activities/household-tasks/) lhieeney ny voayrdyn shen.
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+## Tra ta'n laa goll ass yn aght
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Bee laa ennagh gyn aaght erbee. Foddee slaynt-beg, oie olk, çhaghteraght voish yn docteyr ny caghlaa ayns emshyr cur dy chooilley red ass yn aght. Faag yn aaght, freill ny reddyn bunneydagh (bee, ushtey, scaa, meaynid) as prow reesht yn laa ny-yei. My ta'n pheiagh jannoo noi red ennagh, jeeagh er [tra t'ad gra cha nel](/caregiving/when-they-say-no/). Foddee scaa aanrit ry-cheilley, myr [aanrit sheeoil](/games/calm-breathing/), cooney diuish ny-neesht dy chur arrey reesht.
+
+Ta dty aaght hene myrgeddin feme ayn. Cur brishey ayns dty hon, as shirveish çheer ny shirveish scaa voish lught-thie ny elley dy ghoaill yn traa dy lhiggey dhyt scaa. Jeeagh er [kerraghey da'n fer churam](/caregiving/caregiver-self-care/).

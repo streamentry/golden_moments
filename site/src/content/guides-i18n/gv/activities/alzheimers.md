@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Obbraghyn as Gamman son Sleih lesh Alzheimer"
+seoTitle: "Obbraghyn as Gamman Alzheimer: Raaueyn liorish Stayd"
+description: "Obbraghyn as gamman son sleih lesh Alzheimer ec dagh stayd, troggit er schleiyn as cooinaghtyn foddey ta dy mennick tannaghtyn, marish gamman nastee ry chloie ry cheilley."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Ta obbraghyn mie son persoon lesh Alzheimer croghey er ny reddyn ta tannaghtyn
+  foddey: schleiyn cliaghtey, shenn arraneyn, obbraghyn laaoil ta enney oc orroo,
+  as ny keintyssyn. Sy toshiaght, foddee cartyn, gamman boayrd, cooinerys as
+  troailtyn gobbraghey foast. Sy vean, jean eab er filley, sorçhal, goaill arrane,
+  albymyn jalloo as gamman jalloo aashagh. Traa foddey er y gherrid, she kiaull,
+  bentyn as sheshaght ta scanshoil. Jean reih liorish kys ta’n persoon jiu.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "She Alzheimer yn oyr smoo cadjin jeh jarroo-enney, myr shen ta raaueyn obbree son jarroo-enney cooie da myrgeddin."
+  - "Ta fysseree noa dy mennick ny s’doillee hoshiaght, agh foddee schleiyn as arraneyn ynsit foddey er dy henney tannaghtyn ny sodjey. Trogg er ny reddyn shen."
+  - "Ta staydyn cheet harrish y cheilley, as ta laaghyn mie as laaghyn doillee cadjin. Jean reih liorish ny oddys y persoon jannoo as goaill soylley jeh jiu."
+  - "Reih gamman gyn timer, gyn coontey, as gyn feyshtyn, as lhig da jallooyn tannaghtyn ry-akin."
+  - "Ta jeeaghyn, cummal red ennagh, ny ny lomarcan soie ry cheilley ooilley coontit myr goaill ayrn."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Cre ny obbraghyn ta mie son persoon lesh Alzheimer?"
+    a: "Obbraghyn enney oc orroo, jeant beggan ny s’aasey: filley eaddagh, cur yn boayrd, cooinerys ry cheilley, kiaull as goaill arrane, jeeaghyn er jallooyn, shooyl, gaarley, as traa marish baagh. Foddee gamman jalloo aashagh, jigsawyn aashagh as cartyn coloayrtys gobbraghey son ymmodee sleih myrgeddin. Jean reih ny ta’n persoon er hroailt rieau as jean eh maroo."
+  - q: "Vel gamman mie son sleih lesh Alzheimer?"
+    a: "Foddee gamman ve aght taitnyssagh dy cheau traa ry cheilley my ta’n persoon goaill soylley jeu. Cha nel eh er ny hoilshaghey dy vel gamman erbee goaill rish, moalley ny scuirr Alzheimer, myr shen reih gamman son taitnys: jallooyn mooarey, beggan reihyssyn, as gyn timer, coontey ny sheeanyn son ansoor neu-chiart."
+  - q: "Vel anchaslys eddyr obbraghyn son jarroo-enney as obbraghyn son Alzheimer?"
+    a: "Er y chooid smoo, cha nel. She galar Alzheimer yn oyr smoo cadjin jeh jarroo-enney, as ta ny h-raaueyn obbree cheddin cooie. Yn red ta cooney lesh Alzheimer, shen dy vel cooinaghtyn noa dy mennick goll ersooyl hoshiaght, myr shen ta obbraghyn troggit er shenn schleiyn, arraneyn as cliaghtaghyn dy mennick goll ny s’assey."
+  - q: "Cre oddys persoon lesh Alzheimer sy stayd anmagh goaill soylley jeh foast?"
+    a: "Yn chiaull s’fendeil oc, messey laue meein, reddyn bog dy chummal, lhaih daue, soie mooie, as sheshaght persoon ta treishteil oc ayn. Cum eh giare as sheeoil, as jeeagh er yn eddin as y corp oc dy akin cre t’ad dy hoilchin."
+  - q: "Kys oddym cur persoon lesh Alzheimer dy ghoaill sym ayns obbyr?"
+    a: "Briaght son cooney ayns ynnyd jeh fockley magh obbyr, cur dy chooilley red magh hoshiaght, as toshee uss hene myr shen oddys adsyn cheet stiagh. Ta reih yn traa jeh’n laa tra t’ad ec y chooid share oc cur caghlaa mooar. My jir ad “cha jean”, jean eab reesht ny s’anmey ny cur cooid ny sloo daue."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+My ta persoon deyr lhiat lesh Alzheimer, foddee dy vel oo er n’akin hannah dy vel reddyn ennagh goll ersooyl dy tappee as reddyn elley tannaghtyn. Foddee ad jarrood yn eam phoyll moghrey jiu, agh foast goaill arrane dagh fockle jeh arrane, filley towlley myr v’ad rieau, ny rheynn cartyn gyn smooinaghtyn. Ta obbraghyn mie troggit er ny schleiyn shen ta tannaghtyn. Ta’n duillag shoh soilshaghey cre’n fa, eisht cur raaueyn son dagh stayd as ny gamman nastee er y ynnyd shoh ta cooie daue.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Vel Alzheimer anchasley rish jarroo-enney tra ta shin loayrt mychione obbraghyn?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Cha nel monney. She “jarroo-enney” yn fockle mooar, as she galar Alzheimer yn oyr smoo cadjin jeh: ta’n [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) gra dy vel eh cur stiagh 60 gys 80 ‘sy cheead jeh cooishyn jarroo-enney. Ta bunnys dy chooilley red screeut mychione obbraghyn son jarroo-enney cooie da Alzheimer, goaill stiagh yn [101 raaue obbree ain](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Yn red ta ymmydoil dy hoiggal, shen yn oardagh cadjin jeh caghlaa. Ta’n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) soilshaghey dy vel Alzheimer hoshiaght jannoo assee da ny ayrnyn jeh’n inchyn bentyn rish cooinaghtyn, as ny s’anmey bentyn rish glare, resoonaght as ymmyrkey sheshoil. Ta’n Alzheimer's Association gra dy vel yn cowrey toshee smoo cadjin doilleeid cooinaghtyn fysseree noa. Ta dagh persoon anchasley, as ta oayllyn co-chast oc ec ymmodee sleih, agh ta’n patrún shoh cur coyrle mychione ny ta dy mennick gobbraghey.
 
-## What kinds of activities suit Alzheimer's best?
+## Cre’n sorch dy obbraghyn ta cooie share da Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Ta obbraghyn ta croghey er tushtey shenn as cliaghtey dy mennick goll ny s’assey na obbraghyn ta laccal red noa y ynsaghey as y chummal ayns cooinaghtyn.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Schleiyn cliaghtey foddey.** Ta’n Alzheimer's Association gra dy vod persoon foast cloie arraneyn aashagh v’ad er ynsaghey er y phianney foddey er dy henney. Ta snaidyraght, shliawin fuygh, scughey cartyn, fuinney flooyr as filley eaddagh goll rish shen.
+- **Shenn arraneyn as kiaull enney oc orroo.** Ta ymmodee sleih foast toiggal dagh fockle jeh arraneyn voish nyn aegid, arraneyn crauee as arraneyn nyn mpoosee. Jeeagh er [obbraghyn kiaullee](/activities/music/).
+- **Obbraghyn laaoil lesh ymmyd.** Ta’n [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cur stiagh niee greieyn, cur yn boayrd, sorçhal stogganyn as filley eaddagh myr obbraghyn foddee sleih goaill soylley jeu. Ta enney ymmydoil scanshoil.
+- **Aghin ayns ynnyd jeh cooinaghtyn.** Ta cowraghey magh y jalloo ta co-chosoylag ny s’assey na enmys eh ass cooinaghtyn. Shen-y-fa ta gamman jalloo lesh dy chooilley red ry-akin gobbraghey ny share na feyshtyn.
+- **Ny keintyssyn.** Ta bentyn, soar, çhiass, blas as sheean foast cowraghey mooar foddey lurg da focklyn goll ny s’doillee. Jeeagh er [obbraghyn keintyssagh](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Ny ta dy mennick ny s’doillee: reddyn erbee lesh clag, reillyn noa dy ynsaghey, ymmodee keimyn dy chooinaghtyn, ny feyshtyn ta proovey cooinaghtyn, myr sampleyr “Vel cooinaght ayd quoi shoh?” Ta ny reddyn shen cur yn ayrn doillee jeh Alzheimer er y hoshiaght.
 
-## Activities for early-stage Alzheimer's
+## Obbraghyn son Alzheimer sy toshiaght
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Sy toshiaght, ta’n [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) gra dy vod persoon foast gimman, obbraghey as goaill ayrn ayns reddyn sheshoil, choud’s t’ad cur tastey da jarroodyn beg gollrish jarrood focklyn enney oc orroo ny c’raad ta reddyn. Yn aght share, shen gobbraghey ry cheilley: briaght cre by vie lhieu tannaghtyn dy yannoo as cre’n cooney by vie lhieu.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Cum seose ny cummaghtyn t’ad er chliaghtey.** Golf, bridge, whaaley, possan kiaullee as possanyn keeill, lesh caghlaaghyn beg gollrish possanyn ny sloo as traaghyn ny s’chee.
+2. **Cloie cartyn as gamman boayrd enney oc orroo.** Ta’n [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) cur stiagh feyshtyn-fysseree, ronsaghey focklyn, gamman cartyn as gamman boayrd son y toshiaght. Cloie myr skimmee my ta coontey goaill toshiaght dy chur seaghyn orroo, ny faag y coontey ersooyl dy bollagh.
+3. **Jean cooinerys ry cheilley.** Lhig daue cur lesh resipee t’ad toiggal dy mie choud’s t’ou uss cooney lesh lhaih ny keimyn.
+4. **Toshiaght projeyct bea-skeeal.** Jallooyn, resipeeyn as skeealyn ayns lioar-scrap t’ad stiurey. Jeeagh er [obbraghyn cooinaghtyn](/activities/reminiscence/).
+5. **Gow magh er troailtyn.** Boayrd-gee s’fendeil oc ec traa sheeoil, thie-tashtee son cuirrey giare, ny shooyl ‘sy phark.
+6. **Jean eab er jigsawyn as feyshtyn-fockle t’ad reih.** Crosh-focklyn lesh clou mooar, ronsaghey focklyn as jigsawyn. Jeeagh er [jigsawyn son jarroo-enney](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Tooilley raaueyn: [obbraghyn son y toshiaght](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Obbraghyn son Alzheimer sy vean
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Ta’n Alzheimer's Association cur sheese y vean myr y stayd s’liauyr dy cadjin, as gra dy vod eh tannaghtyn ymmodee bleeaney. Ta focklyn goll trooid, ta seaghyn cheet ny s’assey, as ta’n persoon feme cooney ny smoo. Ta’n Alzheimer's Foundation of America gra myrgeddin dy vel feme cooney ec ymmodee sleih dy chur toshiaght er obbraghyn ny dy chumrail ad goll. Ta dty churrym caghlaa gys cur reddyn er bun, soilshaghey ayns ynnyd jeh soilshaghey lesh focklyn, as goaill harrish ny ayrnyn doillee.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Filley, sorçhal as co-choardail.** Towlyn, stogganyn, greieyn argid, crammaneyn liorish daah. Obbraghyn firrinagh, jeant ry cheilley.
+2. **Gow arrane as gleash rish kiaull.** Bwoailley bassyn, craa ny daunsin ‘sy chione-cookey. Gow toshiaght er goaill arrane uss hene as lhig daue cheet stiagh.
+3. **Jeeagh trooid albymyn jalloo.** Cur sheese ny t’ou fakin as cuirrey skeealyn: “Cre’n gleas shen. Insh dou my-e-chione.” Gow rish ny h-enmyn t’ad ymmydey.
+4. **Cloie gamman jalloo aashagh.** [Picture pairs](/games/picture-pairs/) lesh kiare gys shey leacyn as jallooyn faagit ry-akin, ny [Find the same](/games/find-the-same/) lesh daa ny tree reihyssyn.
+5. **Cur jerrey er raaghyn enney oc orroo.** “Unnish ’sy laa…” Ta raaghyn ynsit foddey er dy henney dy mennick cheet dy aashagh. Jean eab er [Finish the saying](/games/finish-the-saying/), raad oddys oo soilshaghey dagh jerrey lesh un chramman.
+6. **Cur ushtey as kiarail er lossreeyn.** Pottaghyn sthie ny lhiabbee troggit, lesh kishtey-ushtey beg.
+7. **Jean gamman co-choardail ass jallooyn lught-thie.** Ta [Photo pairs](/games/photo-pairs/) gymmydey jallooyn t’ou reih er dty ghaairey hene, as cha vel ad goll magh ass.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Tooilley raaueyn: [obbraghyn son y vean](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Obbraghyn son Alzheimer sy stayd anmagh
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Sy stayd anmagh, ta’n Alzheimer's Association gra dy vel sleih coayl yn ablid dy reggyrt da’n çhymmyltaght oc as dy chumrail coloayrtys, ga dy vod ad foast gra focklyn ny raaghyn. Nish ta obbyr çheet dy ve gerjagh as kiangley, currit huggey raad ta’n persoon gee tannaghtyn.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Cloie yn chiaull s’fendeil oc** dy meein, gyn y çhellveeish gobbraghey noi.
+2. **Cur messey laue** lesh lotion lesh soar s’mie lhieu.
+3. **Cur reddyn bog daue dy chummal:** brat çheh, floo-anmey ny clagh meein.
+4. **Lhaih dy ard** psalmyn, arraneyn ny skeeal enney oc orroo. Ta’n rythm ny s’scanshoil na’n vree.
+5. **Soie mooie** fo scaa, ny rish uinnag lesh eeanlee dy yeeaghyn orroo.
+6. **Jeeagh er un jalloo vooar ry cheilley.** Lus-ny-greiney ny moddey lane skaa-rish tablet, choud’s t’ou gra ny t’ou fakin.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Tooilley raaueyn: [obbraghyn son y stayd anmagh](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Cre ny gamman ta gobbraghey son persoon lesh Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Reih gamman raad nagh vod red erbee goll marran. Ta dagh gamman er y ynnyd shoh nastee, goll er jeeagheyder, as gyn timer, coontey ny goaill rish.
 
-| Game | What you do | Often suits |
+| Gamman | Cre t’ou jannoo | Dy mennick cooie da |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Co-choardail jallooyn mooarey; foddee ad tannaghtyn foshlit | Toshiaght as mean |
+| [Find the same](/games/find-the-same/) | Crig er y jalloo ta co-chosoylag rish y fer ec y vullagh | Mean as stayd anmagh, lesh cooney |
+| [Finish the saying](/games/finish-the-saying/) | Reih yn fockle s’jerree jeh raagh enney, ny soilshaghey eh | Toshiaght as mean |
+| [Picture puzzle](/games/picture-puzzle/) | Caghlaa 4 ny 9 meeraghyn back ayns ynnyd, lesh y jalloo ry-akin | Toshiaght as mean |
+| [Conversation cards](/games/conversation-cards/) | Jalloo as feysht foshlit dy loayrt my-e-chione | Dagh stayd, marish persoon dy loayrt rish |
+| [Photo pairs](/games/photo-pairs/) | Gamman co-choardail jeant ass dty jallooyn hene | Toshiaght as mean |
+| [Coloring](/games/coloring/) | Crig er daah, eisht ayrn jeh jalloo; ny prental eh | Dagh stayd, lesh cooney |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Son coyrle mychione soie ry cheilley, wheesh dy chooney dy chur as tra dy scuirr, lhaih [kys dy chloie gamman marish persoon ta cummal lesh jarroo-enney](/caregiving/how-to-play-together/). My t’ou smooinaghtyn mychione “gamman cooinaghtyn”, jeeagh er [gamman cooinaghtyn son shenn sleih lesh jarroo-enney](/activities/memory-games/).
 
-## How to make any activity easier
+## Kys dy yannoo dagh obbyr ny s’aasey
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Ta coyrle yn NIA cheet gys kuse dy chliaghtaghyn: co-choardail yn obbyr rish ny oddys y persoon jannoo, cooney lhieu toshiaght, jeeagh son seaghyn, jean shickyr dy vel ad gennaghtyn dy ren ad dy mie, as lhig daue ny lomarcan jeeaghyn my she shen by vie lhieu.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Reih yn traa jeh’n laa tra t’ad ec y chooid share oc,** as cum ny keayrtyn giare.
+- **Cur dy chooilley red magh hoshiaght** myr shen oddys oo toshiaght chelleeragh.
+- **Cuirrey, ny jean sarey.** Ta “Odd oo cooney lhiam?” gobbraghey ny share na “Traa son obbyr.”
+- **Jean y chied cheim uss hene** as lhig daue cheet stiagh.
+- **Cur un cheim as un reih ec y traa.**
+- **Lhig da ve jeant er yn aght ock hene.** Ta towlyn cammagh mie dy liooar.
+- **Scuirr choud’s t’eh foast taitnyssagh.** Ta cur jerrey er ny s’leaie ny red mie, cha nee marranys. My jir ad “cha jean”, jeeagh er [tra ta persoon lesh jarroo-enney gra cha jean](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+Ta’n [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gra eh dy aashagh: cur yn taitnys roish yn eiyrtys.

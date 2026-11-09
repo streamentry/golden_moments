@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Trivia Aashagh son Shenn Ayryn lesh Meehrys-chooinaghtyn"
+seoTitle: "Feyshtyn Trivia son Shenn Ayryn lesh Meehrys-chooinaghtyn"
+description: "50 feysht trivia aashagh son shenn ayryn lesh meehrys-chooinaghtyn, lesh reihyssyn as cooishyn loayrt, as myr t'ou cur trivia er e hoshiaght gyn tranlaase."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Ta trivia aashagh son shenn ayryn lesh meehrys-chooinaghtyn gobbraghey dy mie
+  tra t'eh goll er myr coloayrtys, cha nel myr prowal. Cur feyshtyn mychione
+  reddyn ynsit foddey er dy henney, lheid as arraneyn shenn, raaghyn, laaghyn
+  feaill as bea gaghlaa, as cur daa ny tree reihyssyn dy kinjagh. Abbyr y
+  freggyrt dy kenjal, ny jean peiagh er lheh y eam, jean lhiattee jeh'n score,
+  as jean ymmyd jeh dagh freggyrt dy chur skeeal er bun. Ta feyshtyn “shoh ny
+  shen” gyn freggyrt cair cooie son ny jerrey keimyn.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Cur feyshtyn mychione reddyn ennoil foddey: arraneyn, raaghyn, laaghyn feaill, bee as bea gaghlaa veih bleeantyn er dy henney."
+  - "Cur daa ny tree reihyssyn myr shen dy vod y freggyrt ve er ny ennaghtyn ayns ynnyd ve er ny chur rish."
+  - "Abbyr y freggyrt dy kenjal as gow er dty hoshiaght. Ta feysht erbee ta cur skeeal er bun ny feysht mie."
+  - "Gyn poyntyn, gyn skimmee geiyrt ry-cheilley, gyn eam er peiagh er lheh. Lhig da freggyrtyn cheet voish y slane çhamyr."
+  - "Tra ta reih eddyr freggyrtyn goll er dy creoi, caghlaa gys feyshtyn shoh-ny-shen gyn freggyrt cair."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Vel trivia ny chooid vie son persoonyn ta cummal marish meehrys-chooinaghtyn?"
+    a: "Foddee eh ve, my t'eh er ny chur er e hoshiaght dy meen. Ta'n Alzheimer's Foundation of America cur trivia er y rolley mastey reddyn dy yannoo son y chied cheim. Freill feyshtyn mychione cooishyn ennoil foddey, cur reihyssyn, ny jean peiagh er lheh y chur fo tranlaase, as jean ymmyd jeh ny freggyrtyn dy chur coloayrtys er bun ayns ynnyd prowal."
+  - q: "Cre ny cooishyn ta gobbraghey share son trivia mychione meehrys-chooinaghtyn?"
+    a: "Ta reddyn ynsit foddey er dy henney gobbraghey share dy mennick: arraneyn as arraneyderyn ennoil veih aegid y phersoon, raaghyn ennoil, laaghyn feaill, bee, spoyrt, as bea gaghlaa lheid as livrey bainney as fowyn crowal. Shaghyn naight noa as red erbee ta laccal cooinaghtyn er red ennagh veih ny s'leaie 'sy cheayrt."
+  - q: "Kys oddym trivia y chur er e hoshiaght ayns thie-kiarail gyn peiagh erbee y chur er nah?"
+    a: "Lhaih dagh feysht da'n slane possan, jeeagh ny abbyr ny reihyssyn, as cur failt roish freggyrtyn voish peiagh erbee. Ny jean eam er persoonyn er lheh ny freill score. Abbyr y freggyrt lesh bannaaghey, cre-erbee v'er ny insh, as cur feysht elley lheid as ‘Quoi ayns shoh hie rieau gys drive-in?’ dy hyndaa eh gys skeealyn."
+  - q: "Cre oddym y yannoo ayns ynnyd trivia ayns ny jerrey keimyn?"
+    a: "Caghlaa gys feyshtyn gyn freggyrt cair, lheid as ‘Caffee ny tey?’ ny ‘Traie ny sleityn?’, as gys cur jerrey er raaghyn ny arraneyn ennoil ry-cheilley. Ta jeeaghyn er jallooyn as cur coontey jeu ry-cheilley gobbraghey dy mie myrgeddin."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Ta trivia ny chooid ta ymmodee sleih shirrey son possanyn ayns thieyn-kiarail as claaghyn laa, as ta ymmodee lughtyn-thie cloie eh ec y voayrd-choggyr myrgeddin. My t'eh er ny chur er e hoshiaght 'sy aght cadjin, lesh poyntyn as un phersoon freggyrt, foddee eh cur er persoon ta cummal marish meehrys-chooinaghtyn gennaghtyn fo tranlaase. My t'eh er ny chur er e hoshiaght dy meen, t'eh ny aght bio dy chlashtyn skeealyn. Heese ta 50 feysht aashagh lesh reihyssyn as red ennagh dy loayrt mychione son dagh fer, as eisht myr t'ou cur cheayrt er e hoshiaght.
 
-## How do you make trivia work for someone with dementia?
+## Kys oddys oo trivia y yannoo gobbraghey son persoon ta cummal marish meehrys-chooinaghtyn?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Jean eh mychione ennaghtyn as cooinaghtyn er reddyn foddey er dy henney, as jean dagh freggyrt ny resoon dy chur failt.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Cur feyshtyn mychione yn traa foddey er dy henney.** Ta'n [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) gra dy vel anchaslys cooinaghtyn er fysseree noa ynsit yn cowrey s'cadjin ayns y chied cheim jeh Galar Alzheimer. Dy mennick ta arraneyn, raaghyn as bea gaghlaa veih jeihghyn er dy henney ny s'assey.
+2. **Cur reihyssyn dy kinjagh.** Ta reih y freggyrt cair veih jees ny tree ny s'assey na cur eh rish voish veg.
+3. **Lhaih feyshtyn magh as jeeagh ad dy mooar.** Ta boayrd-geal ny taablet er ny chummal seose cooney lesh sleih nagh vel clashtyn cha mie.
+4. **Abbyr y freggyrt dy arryltagh.** Mannagh vel fys ec peiagh erbee, abbyr eh dy kenjal as gow er dty hoshiaght. Ny abbyr rieau "Tar, ta fys ayd er shoh."
+5. **Gyn score.** Cha nel son persoonyn er lheh as cha nel son buird. My ta sleih geearree earroo, freill un oorlane son y phossan.
+6. **Ny jean eam er peiagh er lheh rieau.** Lhig da freggyrtyn cheet voish peiagh erbee. Ayns coloayrtys un-as-un, freggyr ry-cheilley: "Ta mee smooinaghtyn dy nee yn piano v'ayn. Cre t'ou uss smooinaghtyn?"
+7. **Jean ymmyd jeh'n chooish loayrt.** She toshiaght yn freggyrt, cha nee y jerrey. She skeealyn yn firrinagh obbyr.
+8. **Freill eh giare.** Ta jeih feysht lesh skeealyn eddyr ad dy liooar.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+Ta'n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cur y rool chadjin dy aashagh: jeeagh son seaghyn as jean shickyr dy vel y persoon gennaghtyn dy vel eh jannoo dy mie. Ta'n [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) cur trivia er y rolley mastey reddyn dy yannoo son y chied cheim. Ayns y cheim veanagh, freill gys daa reih as crog er ny cooishyn loayrt. Ny s'anmey, caghlaa gys ny feyshtyn shoh-ny-shen heese.
 
-## Music and entertainment trivia
+## Trivia kiaull as taitnys
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Ta'n freggyrt ayns **clou trome**. Cur ad er y phersoon: foddee dy jean persoon ren gaase seose lesh Motown geearree arraneyderyn elley na persoon ren gaase seose lesh big bands.
 
-| Question | Choices | Talk about |
+| Feysht | Reihyssyn | Loayr mychione |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Quoi va enmyssit yn Ree jeh Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Honnick oo rieau Elvis er y çhellveeish? |
+| C'red va'n arraneyder va enmyssit Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | C'red yn arrane Sinatra share lhiat? |
+| Va Bing Crosby dreamal jeh Nollick... | **Bane**, poosee, thie | Gow arrane ry-cheilley |
+| Ren Louis Armstrong goaill arrane "What a Wonderful..." | Day, **World**, Life | Cre ta cur er y theihll ve yindyssagh dhyt? |
+| Va "Over the Rainbow" er ny ghoaill arrane liorish Judy Garland ayns cre'n scannane? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | C'raad ren oo fakin dty scannanyn share? |
+| Quoi ren cloie Lucy ayns "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Cre ny claaghyn ren dty lught-thie jeeaghyn orroo ry-cheilley? |
+| C'red yn cowboy ren markiaghey er cabbyl enmyssit Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Ren oo cloie cowboys myr paitçhey? |
+| Quoi ren cur "The Tonight Show" er e hoshiaght son 30 bleeaney? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ren oo tannaghtyn seose anmagh dy yeeaghyn er çhellveeish? |
+| C'red yn greinney-kiaullee ta 88 ogheryn echey? | Gitar, **piano**, cayrn | Row peiagh erbee ayns dty lught-thie cloie? |
+| C'red yn dauns t'er ny choontey un-jees-tree, un-jees-tree? | **Waltz**, twist, tango | C'raad hie oo dy ghaunsin? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Son tooilley mychione kiaull, jeeagh [reddyn kiaull son meehrys-chooinaghtyn](/activities/music/).
 
-## Everyday life trivia
+## Trivia bea gaghlaa
 
-| Question | Choices | Talk about |
+| Feysht | Reihyssyn | Loayr mychione |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Roish rioyderyn, va ymmodee thieyn freayll bee feayr ayns... | **Kishtey rio**, oghe, lout | Quoi ren livrey yn rio? |
+| Quoi ren cur bainney gys y dorrys ayns boteilyn glonney? | Yn dooinney-post, **yn dooinney-bainney**, yn dooinney-pabyr | Cre elley va er ny livrey gys y thie? |
+| Kys ren oo daaill fowyn crowal? | Brastey crammanyn, **chyndaa queeyl**, loayrt rish | Insh dou mychione yn fowyn ayns dty hie |
+| C'red yn cheshaght ren y ghleashtan Model T? | **Ford**, Chevrolet, Buick | Insh dou mychione gleashtan by vie lhiat |
+| C'raad yinnagh oo feddyn soda jerk? | **Ec cassan soda**, ec beeckerey, ayns banc | Cre ren oo cur magh ec y chounter? |
+| C'red yn gaih ta spraal meain oddys shooyl sheese greeshyn? | Yo-yo, **Slinky**, hula hoop | Cre ny gaihyn by vie lhiat? |
+| Va drive-in ynnyd dy yeeaghyn er... | **Scannanyn veih dty ghleashtan**, gammanyn bluckan, parradyn | Quoi hie mayrt? |
+| C'ling ta er y villag un-dollar? | Lincoln, **George Washington**, Jefferson | Cre yinnagh dollar kionnaghey ec y traa shen? |
+| C'ling ta er y phing? | **Abraham Lincoln**, Washington, Franklin | Ren oo sauail pingyn ayns saagh ec y traa shen? |
+| C'red yn daah dy mennick t'er bus scoill? | Jiarg, **bwee**, gorrym | Kys hie oo gys y scoill? |
 
-## Holidays, nature and places
+## Laaghyn feaill, dooghys as boayllyn
 
-| Question | Choices | Talk about |
+| Feysht | Reihyssyn | Loayr mychione |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| C'red y laa feaill t'er y chiarroo Jeheiney ayns Mee Houney? | Labor Day, **Thanksgiving**, Memorial Day | Cre va dy kinjagh er dty voayrd? |
+| Ta jack-o'-lanterns er nyn yannoo son cre'n laa feaill? | **Oie Houney (Halloween)**, Caisht, Nollick | Insh dou mychione Oie Houney raad ren oo gaase seose |
+| Ta'n Chiarroo Luanistyn (Fourth of July) cur arrym er y Fockley-magh jeh... | Cairys, **Seyr-snys**, Seyrsnys | C'raad ren oo jeeaghyn er aile-skyall? |
+| Ta Laa ny Mayrey ayns cre'n vee? | Averil, **Boaldyn**, Mean Souree | Kys ren dty lught-thie y chur er y hoshiaght? |
+| Cre whilleen rollage t'er brattagh America? | 48, **50**, 52 | Va 48 rollage er y vrattagh derrey 1959. Ta dagh freggyrt ny chooinaghtyn mie |
+| C'red yn keayn t'er y Choast Heear? | Y Keayn Sheear, **Y Keayn Atlanteagh**, Y Keayn Arctagh | Hie oo rieau gys y traie? |
+| Ayns cre'n ard-valley ta Jalloo Seyrsnys? | Boston, **New York**, Philadelphia | Vel oo er ve ayns New York? |
+| Cre ta shellanyn jannoo? | Bainney, **mill**, sheeidey | Mill er arroo ny ayns tey? |
+| Ta lheiye bwoirrin enmyssit... | Lhiannoo-cabbyl, **lheiye**, mannan | Ren oo rieau cummal er-gerrey da balley? |
+| C'red y blaa ard bwee ta ennoil son chyndaa gys y ghrian? | Rose, **lus ny greiney**, tulip | Cre ren gaase ayns dty gharey? |
+| Cre whilleen laa t'ayn ayns blein lhiap? | 365, **366**, 360 | Insh dou mychione laa-ruggyree t'ayns dty chooinaghtyn |
+| C'red yn imbagh ta cheet lurg geurey? | Fouyr, **arragh**, sourey | C'red yn imbagh share lhiat? |
 
-## Food and sports trivia
+## Trivia bee as spoyrt
 
-| Question | Choices | Talk about |
+| Feysht | Reihyssyn | Loayr mychione |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| She... ta er nyn jirrym ta raisinyn | Plumbyn, **fioonyn-deyrey**, sherrinyn | Ren oo cur raisinyn ayns lhongyn? |
+| She... ta er nyn jirrym ta prunes | **Plumbyn**, figgyn, ooylyn | Quoi ayns dty lught-thie by vie lesh prunes? |
+| Eeym phlaasee as... | **Jelly**, caashey, muick | Cragh ny meein? |
+| Ta guacamole jeant son y chooid smoo ass... | Pishyr, **avocadoyn**, cucrambyn | Cre ny dips va ry-gheddyn ec cuirraghyn? |
+| C'red y phei ta feer ennoil ec Thanksgiving? | **Pumkin**, limon, sherrin | C'red y phei ren oo jannoo? |
+| Cre whilleen cloieder ta ec skimmee baseball er y vagher? | 7, **9**, 11 | C'red y skimmee ren oo cur dty chymmey da? |
+| Cre whilleen builley ta cur magh ayns baseball? | Jees, **tree**, kiare | Ren oo rieau cloie bluckan? |
+| Va Babe Ruth ennoil son cre'n spoyrt? | Fightsaght, **baseball**, golf | Hie oo rieau gys gamman bluckan? |
+| Cre whilleen towl t'er coorse golf cadjin? | 9, **18**, 24 | Vel oo er chloie golf rieau, ny mini golf? |
+| Ayns cre'n spoyrt t'ou cosney touchdown? | **Football**, hockey, bluckan-kishtey | Quoi ren jeeaghyn er football ec y thie eu? |
 
-## Familiar sayings
+## Raaghyn ennoil
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Ta cur jerrey er raaghyn croghey er glare ynsit foddey er dy henney as dy mennick t'eh cheet dy aashagh. Ta ymmodee elley ec y ghamman ain [Cur jerrey er y raagh](/games/finish-the-saying/), lesh cramman dy yeeaghyn dagh jerrey.
 
-| Saying | Choices | Talk about |
+| Raagh | Reihyssyn | Loayr mychione |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Quoi va gra shoh rhyt? |
+| The early bird catches the... | Bus, **worm**, train | Vel oo dty phersoon moghrey? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Row kiarkyn ec dty lught-thie? |
+| A penny saved is a penny... | **Earned**, lost, spent | Quoi va'n saualtagh ayns dty lught-thie? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Cre ta cur er boayl gennaghtyn myr thie? |
+| Better late than... | Early, **never**, sorry | Quoi va dy kinjagh anmagh? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Insh dou mychione red mie ren taghyrt |
+| Actions speak louder than... | **Words**, music, thunder | Insh dou mychione persoon ren gra shen |
 
-## This-or-that questions with no wrong answer
+## Feyshtyn shoh-ny-shen gyn freggyrt cair
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Ta ad shoh cooie son dagh keim, goaill stiagh ny jerrey keimyn, er-yn-oyr nagh vel red erbee dy gheddyn cair. Cur y feysht, eaisht, as jean dty reggyrt hene y chur myrgeddin.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Caffee ny tey?
+- Traie ny sleityn?
+- Moddee ny kayt?
+- Sourey ny geurey?
+- Pei ny berreen?
+- Daunsin ny jeeaghyn?
+- Girree ny lhie ny greiney?
+- Poarch toshiaght ny garey cooyl?
+- Radio ny recortyssyn?
+- Pancogyn ny oohyn?
+- Rosyn ny daisies?
+- Turrys traen ny turrys raad?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Son coyrleyn coloayrt marish jallooyn, jean eab er ny [Cairdyn coloayrt](/games/conversation-cards/) clouit ain.
 
-## How do you run a trivia session in a care home or group?
+## Kys t'ou cur cheayrt trivia er e hoshiaght ayns thie-kiarail ny possan?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Soie sleih myr shen dy vod ad fakin as clashtyn.** Cloaneyn-clashtyn stiagh, speçhoilyn orroo, as y çhellveeish ass.
+2. **Cur toshiaght da myr coloayrtys.** "Ta kuse dy eyshtyn aym mychione ny laghyn shenn, as ta mee shickyr dy vel ny smoo fys eu na ta aym's."
+3. **Lhaih dagh feysht daa cheayrt as jeeagh ny reihyssyn dy mooar.**
+4. **Cur failt roish freggyrtyn voish boayl erbee 'sy chamyr.** Jean freggyrtyn mie y aachur myr shen dy vel dagh peiagh clashtyn.
+5. **Abbyr y freggyrt son dagh ooilley pheiagh,** eisht cur y feysht loayrt da'n chamyr.
+6. **Jean eiyrtys er yn bree.** My ta un feysht cur toshiaght da jeih minnidyn dy skeealyn, lhig da.
+7. **Cur jerrey lesh arrane ny cruinnaght shoh-ny-shen,** myr shen dy vel dagh peiagh cur jerrey er red aashagh.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Son cummey possan elley, goaill stiagh bingo jallooyn as goaill arrane ry-cheilley, jeeagh [reddyn dy yannoo ayns possanyn son thieyn-kiarail](/activities/care-home-groups/).
 
-## When to change the plan
+## Tra dy chaghlaa yn plann
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+My ta persoon jeeaghyn imneagh, goll ny host, ny gra "Cha nel fys aym" ny smoo na un cheayrt, jean eh ny s'assey: lhig da daa reih, freggyr ry-cheilley, ny caghlaa gys feyshtyn shoh-ny-shen. My baillish y phossan loayrt mychione un feysht ooilley'n fastyr, she soar v'ayn. Cha row y chooish rieau ny freggyrtyn cair. She traa ayns sheshaght vie v'ayn.

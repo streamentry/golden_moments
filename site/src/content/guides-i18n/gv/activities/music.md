@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Obbraghyn Kiaull son Sleih lesh Co-ennymys"
+seoTitle: "Obbraghyn Kiaull son Co-ennymys: Rollooyn as Smooinaghtyn"
+description: "Kys dy rheynn kiaull rish fer ennagh ta cummal lesh co-ennymys: croo rolley kiaull persoonagh liorish eash as sorçh, 15 obbraghyn kiaull aashagh, as coyrle son dagh stayd."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Ta kiaull ny red yindyssagh aashagh dy rheynn rish fer ennagh ta cummal lesh
+  co-ennymys. Croo rolley kiaull persoonagh veih’n chiaull jeh’n aegid oc, nyn
+  gredjue as nyn lught-thie, cloie eh gyn feyshtyn ny feiyr çheu-chooylloo, as
+  goaill arrane, bashtal, crommey ny just clashtyn ry cheilley. Reih kiaull
+  sheeoil ny kiaull bio dy chur cooie rish y traa, freill y çheean meen, as
+  scuirr my ta arrane cur seaghyn orroo.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Ta kiaull persoonagh gobbraghey share: ny sorçhyn chiaull va graih oc orroo myr dooinney aeg ny ben aeg, marish kiaull veih’n chredjue, cultoor as taghyrtyn lught-thie oc."
+  - "Cloie un red ec y traa, gyn feyshtyn as y chellveeish er ny chastey."
+  - "Ta goaill arrane, bashtal, crommey as just clashtyn ooilley aghtyn dy ghoaill ayrn."
+  - "Jean ymmyd jeh kiaull ny s’sheeoil dy chur shee er as kiaull ny s’bio dy hroggal y chree, as jeeagh kys ta’n persoon freggyrt."
+  - "Ta’n rannsagh er shirveishyn kiaull er nyn gurneil coon; ta shin coyrlaghey kiaull myr red taitnyssagh dy rheynn, cha nee couyr."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Cre’n sorçh chiaull share son fer ennagh lesh co-ennymys?"
+    a: "Kiaull ta’n persoon er n’ennaghtyn as er ve graihagh er rish foddey, dy mennick veih’n eash jeig as feed oc, marish kiaull veih’n chredjue, cultoor as cooishyn lught-thie oc. My oddys oo, lhig daue reih. Jeeagh er yn eddin as y corp oc dy hoiggal cre s’gooidsave lhieu, as jean shaghey red erbee ta jeeaghyn dy chur seaghyn orroo."
+  - q: "Lhisagh dou ymmyd y yannoo jeh clashtynaghyn?"
+    a: "Ta paart dy leih goaill soylley jeh clashtynaghyn er-yn-oyr dy vel ad cur magh feiyr, as ta feallagh elley feddyn ad neu-chooie ny doillee. Jean eab er loayreyder hoshiaght my oddys shiu clashtyn ry cheilley. My t’ou gymmydey clashtynaghyn, freill y çheean injil as fuirri er-gerrey."
+  - q: "Vod kiaull cooney lesh anvea ny imnea?"
+    a: "Foddee kiaull sheeoil, ennagh cooney dy chroo aght sheeoil, as ta’n Alzheimer’s Association coyrlaghey ymmyd y yannoo jeh kiaull dy chur er bun yn aght t’ou geearree. Cha nel eh gobbraghey dagh keayrt. My ta’n persoon seaghnit, jeeagh son pian, accrys, feiyr ny skeeys myrgeddin."
+  - q: "Vod sleih lesh co-ennymys ayns y stayd jerree foast goaill soylley jeh kiaull?"
+    a: "Foddee mooarane jeu. Ta’n Alzheimer’s Association gra dy vod persoon ayns y stayd jerree foast bashtal rish y cheim ny goaill arrane marish arrane veih’n aegid oc. Soie er-gerrey, cloie kiaull dy meen as cum y laue oc ny cromm ry cheilley."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Ta kiaull ny red yindyssagh aashagh dy rheynn rish fer ennagh ta cummal lesh co-ennymys. Cha nel eh geearree veg: cha nel freggyrtyn kiart, cha nel ceumyn dy eiyrt orroo. Foddee arrane ennagh cur smiley, cass bashtal ny fockle ny ghaa er nyn goaill marish, eer er laa tra ta taggloo doillee. Cha nel oo laccal agh y chiaull kiart son y persoon shoh as tammylt feagh dy chloie eh.
 
-## What music activities work for people with dementia?
+## Cre ny obbraghyn kiaull ta gobbraghey son sleih lesh co-ennymys?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Ta clashtyn, goaill arrane, bashtal, crommey as loayrt mychione kiaull gobbraghey dy mie. Ta’n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) coyrlaghey kiaull y chloie, loayrt mychione y chiaull as yn ellyneyder, goaill arrane ny daunsin rish arraneyn ennagh, as goll dys cuirraghyn kiaullee ny claaghyn ayns y cho-phobble. Ta’n [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) gra myrgeddin dy vod gleashaght lheid as bashtal ny daunsin cur rish y taitnys, as dy vod kiaull ve ny aght dy cheet ry cheilley erreish da focklyn ve doillee.
 
-## How do you build a personal playlist?
+## Kys t’ou croo rolley kiaull persoonagh?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Yn red smoo ymmydoil oddys oo jannoo, shen rolley kiaull ta keeallagh da’n persoon shoh. Ta’n [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) myrgeddin cur geill da chiaull lesh keeall persoonagh. Shoh aght aashagh dy chroo fer.
 
-### Start with their life
+### Toshiaght lesh y vea oc
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Yn eash jeig as feed oc.** Smooinee er cre va er y radio, ec daunsin as ayns scannanyn tra v’ad aeg.
+- **Tammyllyn mooarey.** Yn chiaull ec y phoosey oc, y chied dauns, ny albym mie son troailt lught-thie.
+- **Credjue as cultoor.** Arraneyn-crauee, kiaull spyrrydoil, ny arraneyn ayns y chied çhengey oc.
+- **Obbyr as shirveish.** Possanyn kiaullee, arraneyn obbree, ny kiaull bentyn rish traa ayns y çhirveish chaggee.
+- **Cre ta’n lught-thie cooinaghtyn.** Feysht da braaraghyn as shuyraghyn, paitçhyn as shenn chaarjyn cre v’ad dy kinjagh cloie ny goaill.
 
-### Think in genres, not just songs
+### Smooinee ayns sorçhyn, cha nee arraneyn ny lomarcan
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Mannagh vel oo shickyr raad dy gholl er hoshiaght, jean eab er tammylt beg jeh dagh fer shoh as jeeagh er y freggyrt: big band as swing, doo-wop, Motown as soul, rock and roll moghey, country and western, bluegrass, arraneyn-crauee, arraneyn Broadway, jazz, kiaull Ladjynagh lheid as boleros ny mariachi, polka, kiaull theayagh as kiaull chlassicagh. Freill shen ta cur smiley ny cass bashtal; jean shaghey shen ta cur jymmoose.
 
-### Make it easy to play
+### Jean eh aashagh dy chloie
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Gyn feyshtyn.** Ta’n Alzheimer’s Association cur raaue dy vod feyshtyn cur marranys. Jean ymmyd jeh kiaull er ny laadey sheese, CD-yn, claaraghyn ny shirveish gyn feyshtyn.
+- **Un ghaaire aashagh.** Loayreyder lesh un chramman mooar, ny rolley kiaull er ny chur er-lheh as aarloo, myr shen dy vod peiagh erbee toshiaght eh.
+- **Daa rolley ghiare.** Rolley sheeoil son shee as rolley bio son troggal y chree.
+- **Cur lipaid er.** Screeu ennym y phersoon as “kiaull share” er y ghaaire, myr shen dy vod lught-thie as lught-obbee cur ymmyd jeh myrgeddin.
 
-## 15 music activities to try
+## 15 obbraghyn kiaull dy eab
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Clashtyn ry cheilley.** Soie lhiattee ry lhiattee gyn red erbee elley goll er. Ta clashtyn obbyr lane.
+2. **Goaill arrane marish.** Toshiaght goaill arrane uss hene. Ta cronnane ny glenney ny focklyn dy liooar.
+3. **Bashtal ny tappal y cheim.** Bwoailley ny glioonyn, tappal y voayrd, ny ymmyd y yannoo jeh drumaig ny craa beg.
+4. **Daunsin moal.** Cum laueyn as cromm ayns y choggyl, ny dauns ny hoie, gleashaghey ny roihaghyn ry cheilley.
+5. **Daunsin lesh scarfyn.** Craa scarfyn eddrym ayns traa rish y chiaull, ny shassoo ny ny hoie.
+6. **Loayrt mychione y chiaull.** Cur cuirrey, ny jean prowal: “Ta shoh jeeaghyn gollrish halley daunsin. Insh dou mychione ny daunsin.” Ny jean rieau briaght “Vel cooinaght ayd er yn arrane shoh?”
+7. **Cloie albym lane.** Cur er claar va graih oc er, veih toshiaght gys jerrey, marish caafe.
+8. **Jeeagh er coodaghyn albym.** Ta shenn choodaghyn claar mie son loayrt mychione coamrey, gleashtanyn as eddinyn.
+9. **Jeeagh er kiaull-chloie.** Ta kiaull-chloie ny cuirrey kiaullee er scannan veih’n eash oc mie son fastyr. Scuirr son tammylt.
+10. **Cloie greie chiaullee t’ad toiggal.** Foddee fer va cloie yn piano ny yn gitar goaill soylley jeh cloie aashagh. Ny s’anmey, ta reih magh kuse dy noteyn ry cheilley dy liooar.
+11. **Kiaull choud’s t’ou gobbraghey.** Cloie arraneyn share choud’s t’ou filley eaddagh ny cur y voayrd.
+12. **Arrane moghrey.** Toshiaght dagh laa lesh yn un arrane gennal myr ayrn jeh’n choorse laaoil.
+13. **Goaill arraneyn-crauee.** Cloie kiaull veih’n chredjue oc as goaill arrane ry cheilley.
+14. **Goll stiagh ayns possan arrane.** Ta’n NHS cur sheese possanyn arrane myr red mie son imnea as slaynt vie. Feysht ayns ynnyd mychione possanyn arrane cooie son co-ennymys.
+15. **Goll dys kiaull bio.** Cuirrey kiaullee ghiare ayns y cho-phobble ny possan çheumooie. Soie er-gerrey da’n dorrys as immee traa erbee s’laik lhiat.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Son obbyr eddrym lesh focklyn ennagh, jean eab er [cur jerrey er y raa](/games/finish-the-saying/), raad oddys oo dagh keayrt soilshaghey yn jerrey.
 
-## Matching music to the moment
+## Cur kiaull cooie rish y traa
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Ta’n Alzheimer’s Association coyrlaghey ymmyd y yannoo jeh kiaull dy chroo yn aght t’ou geearree: kiaull sheeoil son aght feagh, as arrane bio veih aegid fer ennagh dy hroggal y chree.
 
-| Moment | Try | Tip |
+| Tammyl | Jean eab er | Coyrle |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Girree | Arrane ennagh, gennal | Yn un arrane dagh moghrey t’eh cowrey meen |
+| Obbraghyn thie | Arraneyn bio share | Foddee kiaull cur er obbyr ve myr sheshaght |
+| Bee | Kiaull greie meen | Freill eh injil nagh bee eh goaill ynnyd jeh gee |
+| Fastyr anmagh | Kiaull sheeoil, ennagh ayns soilshey mie | Jeeagh er [anvea fastyr anmagh](/caregiving/late-day-restlessness/) |
+| Traa lhiabbee | Kiaull moal, meen | Leodaghey y çheean as ny soiljaghyn ry cheilley |
+| Stayd jerree | Ny arraneyn s’ferr lheu, feer veen | Soie er-gerrey as cum laue |
 
-## Tips for a good experience
+## Coyrle son traa mie
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Cur magh feiyr elley.** Ta’n Alzheimer’s Association coyrlaghey dooney uinnagyn as dorrysyn as castey y chellveeish, myr shen dy nee kiaull yn ynrican sheean.
+- **Freill y çheean meen.** Lhisagh kiaull ve cooie, cha nee ard. My ta’n persoon gymmydey cooneyderyn clashtyn, jean shickyr dy vel ad ayn as gobbraghey; jeeagh er [clashtyn](/brain-health/hearing/).
+- **Jeeagh son cooinaghtyn trimshagh.** Ta paart dy arraneyn cur lesh trimshey, caggey ny coayl. My ta arrane cur seaghyn orroo, cur gerjagh daue as caghlaa eh.
+- **Lhig daue stiurey.** My oddys eh, lhig da’n phersoon reih y chiaull, as goaill rish “cha nel”.
+- **Scuirr traa erbee.** Ta queig minnidyn dy chiaull obbyr mie. Myrgeddin ta castey eh as soie dy feagh.
 
-## What does the research say about music and dementia?
+## Cre ta’n rannsagh gra mychione kiaull as co-ennymys?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Ta’n toshiaghtys coon. Ren [Cochrane review 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) jeeaghyn er 30 studeyrys er shirveishyn kiaull er nyn gurneil, dy mennick marish possanyn ayns thieyn kiarail. Hooar eh magh dy row ny shirveishyn shoh te laik dy lhiasaghey cowraghyn trimshid beggan, cosoylit rish kiarail cadjin, agh cha row eh feddyn eiyrtys baghtal er anvea, slaynt vie ny smooinaghtyn as cooinaghtyn, as cha row eiyrtyssyn erbee tannaghtyn erreish da ny shirveishyn jerrey.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Ta shin rheynn kiaull er-yn-oyr dy nee aght taitnyssagh, feagh dy cheau traa ry cheilley eh, cha nee couyr. Son buill-phossan, jeeagh er [obbraghyn possan ayns thieyn kiarail](/activities/care-home-groups/); son ymmyd kiaull marish jallooyn as skeealyn, jeeagh er [obbraghyn cooinaghtyn](/activities/reminiscence/).

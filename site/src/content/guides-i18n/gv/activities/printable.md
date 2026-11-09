@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Obbraghyn Clou Meebhrys Nastee"
+seoTitle: "Obbraghyn Clou Meebhrys: Clou Mooar"
+description: "Obbraghyn clou meehrys nastee: ronsaghey fockleyn ayns clou mooar, duillagyn daah, kaartyn loayrt as bingo jalloo, as coyrle son clou ad dy mie."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Ta Golden Moments cur obbraghyn clou meehrys nastee: ronsaghey fockleyn ayns
+  clou mooar, duillagyn daah, kaartyn loayrt lesh jallooyn as kaartyn bingo
+  jalloo. Fosgley duillag ghamman erbee as jean ymmyd jeh'n chramman Clou. Clou
+  ayns clou mooar, plain lesh caghlaa lajer, freill un obbyr er dagh duillag, as
+  jean duillagyn y lamaanagh my t'ou laccal ad y ymmyd reesht. Ta obbraghyn clou
+  aashagh jeant ec y thie, myr duillag skeeal-bea ny claar-laa, ymmydoil myrgeddin.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Ta ny hobbraghyn clou ain nastee: Ronsaghey Fockleyn, Daah, Kaartyn Loayrt as Bingo Jalloo. Ta cramman Clou er dagh duillag ghamman."
+  - "Clou ayns clou mooar, plain lesh caghlaa lajer, as freill un obbyr er dagh duillag."
+  - "Ta paabyr trom ny kaart stoo sassey dy chummal as ny sassey dy chrampley. Jean duillagyn y lamaanagh dy ymmyd ad reesht lesh markeryn chirrym."
+  - "Ta obbraghyn clou jeant ec y thie, myr duillag skeeal-bea, claar-laa ny lipaidyn jalloo son dorrysyn, aashagh as ymmydoil."
+  - "Ta duillag chlou ny cuirrey, cha nee obbyr scoill. Dy yannoo ayrn jeh, ny veg jeh, ta shen dy mie."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Vel ny hobbraghyn clou meehrys eu nastee?"
+    a: "Ta. Ta ny duillagyn Ronsaghey Fockleyn, Daah, Kaartyn Loayrt as Bingo Jalloo er y ynnyd-eggey shoh nastee dy ymmyd as dy chlou. Fosgley duillag y ghamman as jean ymmyd jeh'n chramman Clou."
+  - q: "Cre ny hobbraghyn clou ta share son meehrys?"
+    a: "Ta ny hobbraghyn clou share aashagh, baghtal as son deiney as mraane aegey: ronsaghey fockleyn ayns clou mooar lesh fockleyn erskyn as sheese ynrican, duillagyn daah lesh coryssyn baghtal, kaartyn jalloo ta goaill toshiaght er taggloo, as bingo jalloo son possanyn. Cur yn obbyr gys taitnysyn as ny reddyn oddys yn persoon jannoo nish, as freill un obbyr er dagh duillag."
+  - q: "Kys oddym obbraghyn clou y yannoo ny sassey dy akin as dy ymmyd?"
+    a: "Jean ymmyd jeh clou mooar, plain, inc doo er paabyr bane ny baaney, as ram reamys. Clou er paabyr trom ny kaart stoo dy jean y duillag tannaghtyn cronnal, reih paabyr gyn soilshey dy ghiareaghey soilshey, as jean ymmyd jeh cliob-bwoard ny mattey gyn-sleayney dy reayll y duillag nyn doss. Ta lamaanaghey cooney lesh duillagyn tannaghtyn."
+  - q: "Oddym ny hobbraghyn eu y chlou son thie kiarail ny claare laa?"
+    a: "Oddiu. Ta failt roish lught obbree obbraghyn ny duillagyn ain y chlou son cummaltee as possanyn. Ta Bingo Jalloo jeant son possanyn as ta feddan-çhirrym er y scaaean ry hoilshaghey er çhellveeish ny çhentagh-prowaltee."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Keayrt ennagh, yn obbyr share, she duillag paabyr as pen ec y voayrd-choshtee. Cha lhiass da obbraghyn clou çhargey, focklyn-follit ny scaaean, as t'ad aashagh dy chur lhieu er keayrt ny gys possan. Ta'n duillag shoh cur-my-ner ny hobbraghyn clou nastee er yn ynnyd ain, kys dy chlou ad dy ve aashagh dy akin as dy chummal, as kuse dy obbraghyn clou aashagh jeant ec y thie ta ymmydoil da lught-thie as lught obbree obbraghyn.
 
-## What free printable activities do you offer?
+## Cre ny hobbraghyn clou nastee ta shiu cur?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Ta kiare obbraghyn clou nastee ain. Fosgley fer erbee jeh ny duillagyn ghamman shoh as jean ymmyd jeh'n chramman **Clou** dy gheddyn cummey aashagh dy chlou.
 
-| Printable | What it is | Good for |
+| Obbyr clou | Cre t'ayn | Mie son |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Ronsaghey Fockleyn](/games/word-search/) | Ronsaghey fockleyn ayns clou mooar lesh fockleyn erskyn as sheese ynrican | Traa sheeoil lesh pen; persoon va soie lesh towlanyn |
+| [Daah](/games/coloring/) | Duillagyn daah dy chlou, ny dy daahey er scaaean | Traa feagh as creeney; ec dagh traa lesh cooney |
+| [Kaartyn Loayrt](/games/conversation-cards/) | Kaartyn jalloo lesh cuirraghyn foshlit, gyn quiz, liorish cooish | Keayrtyn, founyn, bee lught-thie, possanyn cooinaghtyn |
+| [Bingo Jalloo](/games/picture-bingo/) | Kaartyn bingo lesh jallooyn ayns ynnyd earrooyn, marish feddan-çhirrym er y scaaean | Thieyn kiarail, claaghyn laa, chaglymyn lught-thie |
 
-### Large-print word search
+### Ronsaghey fockleyn ayns clou mooar
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Ta'n [Ronsaghey Fockleyn](/games/word-search/) gymmydey lettyryn mooarey as freayll fockleyn erskyn as sheese ynrican, gyn fockleyn çheusthie ny er-ash. Obbraghey er ry-cheilley: ta un persoon lhaih fockle ass y rolley, as ta'n fer elley jeeaghyn er y hon. My ta feddyn fockleyn goll er doillee, jean shiu prowal cruinnaghey y chied lettre jeh dagh fockle ry-cheilley, ny lhaih y rolley fockleyn dy ard as loayrt mychione dagh fockle.
 
-### Coloring pages
+### Duillagyn daah
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Oddys duillagyn [Daah](/games/coloring/) ve clouit son markeryn ny penshyn daahit, ny daahit er tablet liorish criggal er daa, eisht er ayrn jeh'n jalloo. Son duillagyn clouit, cur markeryn thiu as kuse dy ghaghyn ec y traa. Jeeagh er nyn [lanyn obbraghyn ellyn as keirdey](/activities/arts-and-crafts/) son aghtyn dy reayll daah son deiney as mraane aegey as feagh.
 
-### Conversation cards
+### Kaartyn loayrt
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+Ta [Kaartyn Loayrt](/games/conversation-cards/) cur jalloo baghtal marish cuirrey foshlit, myr sampleyr «Insh dou mychione...» ny «Cre t'ou fakin?» T'ad scruit myr cuirraghyn foshlit, cha nee feyshtyn quiz. Clou sett, giarey ad veih-my-cheilley, as freill kuse ayns poagey son keayrtyn ny rish y çhellvane son founyn. T'ad gobbraghey dy mie myrgeddin ayns possanyn [cooinaghtyn](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kaartyn bingo jalloo
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Ta kaartyn [Bingo Jalloo](/games/picture-bingo/) gymmydey jallooyn ayns ynnyd earrooyn. Clou un chart son dagh cloieder as jean ymmyd jeh'n feddan-çhirrym er y scaaean er laptop, çhellveeish ny çhentagh-prowaltee. Ta shin cur coyrle dy eam derrey ta kaart dagh persoon lane, dy vel ooilley goaill ayrn. Jeeagh er [obbraghyn possan son thieyn kiarail](/activities/care-home-groups/) son kys dy chur lesh sheshaght er e hoshiaght.
 
-## How do I print activities so they are easy to use?
+## Kys oddym obbraghyn y chlou dy ve aashagh dy ymmyd?
 
-Small changes in how you print make a big difference.
+Ta caghlaaghyn beggey ayns yn aght t'ou clou cur caghlaa mooar.
 
-### Make it easy to see
+### Jean eh aashagh dy akin
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Clou mooar, plain.** Jean ymmyd jeh'n rheamys clou smoo oddys foast ve er y duillag. Jean shaghney lettyryn aalin ny scriptyn.
+- **Caghlaa lajer.** Inc doo er paabyr bane ny baaney. Jean shaghney lheeah ghlass ny cooyllyn daahit.
+- **Paabyr gyn soilshey** ta lhiettal soilshey fo soiljyn gial.
+- **Jeeagh er speckleyr as soilshey.** Ta'n Alzheimer's Association gra dy vod doilleeidyn rish fakin as clashtyn cur taggloo er doillee, as t'ad cur coyrle ad y heeyney dy reiltagh. Ta laanrey gial, co-chiart cooney myrgeddin.
 
-### Make it easy to hold
+### Jean eh aashagh dy chummal
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Paabyr trom ny kaart stoo** ta tannaghtyn cronnal, ny sassey dy hroggal, as shassoo rish ymmyd reesht as reesht.
+- **Cliob-bwoard** ny mattey bwoayrd gyn-sleayney ta reayll y duillag voish sleayney.
+- **Markeryn thiu ny penshyn mooarey** ta ny sassey dy ghrammey na pennyn thanney.
 
-### Make it reusable
+### Jean eh ry-ymmyd reesht
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Jean duillagyn y lamaanagh** ny cur ad ayns coodaghyn follan glen. Jean ymmyd jeh markeryn chirrym er ronsaghey fockleyn as kaartyn bingo, eisht rub ad glen.
+- **Reih poaghyn gyn soilshey** my ta soilshey ny chooish, as **cruinnaghey ny corneilyn** jeh kaartyn laamaanit lesh sniasseyderyn dy vel ad souyr dy chummal.
+- **Freill fillag** jeh obbraghyn share nagh lhiass diu y duillag cheddin y chlou dagh shiaghtin.
 
-### Keep it simple
+### Freill eh aashagh
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Un obbyr er dagh duillag.** Un ronsaghey fockle ny un jalloo, cha nee ram obbraghyn er un duillag.
+- **Ram reamys bane.** Foddee duillag lane gennaghtyn ro lane.
+- **Gyn saraghyn dy lhaih, my oddys eh ve.** Jean soilshaghey da'n phersoon cre dy yannoo ayns ynnyd.
+- **Giarey ny duillagyn.** My ta duillag lane ro vooar, giarey eh 'sy lieh ny filley eh dy vel ayrn ynrican ry akin.
 
-## Other useful printables you can make at home
+## Obbraghyn clou ymmydoil elley oddys oo y yannoo ec y thie
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Cha nee gamman dagh obbyr clou ymmydoil. Ta ad shoh aashagh dy yannoo lesh claare fockleyn as clouder.
 
-### A life-story page
+### Duillag skeeal-bea
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Duillag un-laue «mychione mish» lesh jalloo, yn ennym s'mie lesh y phersoon ve enmyssit, raad ren eh ny ee gaase seose, obbyr, lught-thie, bee, kiaull as reddyn ta cur gerjagh ny ta cur seaghyn. Ta Dementia Australia cur coyrle [lioar chooinaghtyn](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) lesh fysseree mychione bea, reddyn s'mie lesh, as persooneyn scanshoil, dy chooney lesh keayrtee as lught-kiarail as dy ghoaill toshiaght er taggloo.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+T'eh feer ymmydoil ayns ospytylyn as boaylyn kiarail noa. Ta'n NIA cur coyrle dy chur da lught obbree yn ospytyl [duillag fys persoonagh](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) mychione cliaghtey yn phersoon, yn ennym share lesh, reddyn s'mie lesh as nagh mie lesh, reddyn oddys corree y chur er, as cowraghyn pian gyn fockleyn.
 
-### A daily schedule
+### Claar-laa
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Claar-laa mooar, aashagh son y laa lesh traa, kuse dy ocklyn as jalloo beg son dagh ayrn: brishey-trostee, shooyl, lhong, feea, kiaull, jinnair. Ta [claar kiarail laaoil](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) yn Alzheimer's Association cur coyrle dy phlanal mygeayrt ny traaghyn share jeh'n laa son y phersoon, lesh traa doostey as traa lhiabbagh reiltagh as co-heks obbyr as feea. Cur eh seose ec leval ny sooillyn, foddee er y çhamyr, as freill eh lheh. Jeeagh er nyn [lanyn cliaghtey laaoil](/activities/daily-routine/) son tooilley.
 
-### Picture labels for rooms and drawers
+### Lipaidyn jalloo son shamyryn as trosseyn
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Ta'n NIA cur coyrle dy ymmyd cowraghyn daahit gial ny jallooyn aashagh dy [lipaid y çhamyr-vraaroil, y çhamyr-lhiabbagh as y çhamyr-choshtee](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Ta'n un eie gobbraghey son trosseyn as cooidyn: jalloo jeh garraneyn er y trosse garraneyn, cappanyn er y chooid chappanyn. Clou, lamaanaghey as taishbyney ad.
 
-### A sorting set
+### Sett sorçhal
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Clou jallooyn jeh daa horçh aashagh, myr mess as blaaaghyn ny greienyn as reddyn-choshtee, er kaart stoo. Giarey ad veih-my-cheilley as sorçhal ad ayns daa vaskad ry-cheilley. She yn cummey er y scaaean jeh shoh [Sorçhal Ry-cheilley](/games/sort-together/).
 
-### Song lyric sheets
+### Duillagyn rane
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Clou goan kuse dy arraneyn share ayns clou feer vooar son goaill arrane ry-cheilley. Foddee dy jean eer adsyn nagh vel lhaih mooar arragh soie lesh y duillag y chummal.
 
-### A family photo page
+### Duillag jallooyn lught-thie
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Un duillag lesh kiare gys shey jallooyn mooarey lught-thie, dagh fer lesh chied ennym fo. Foddee eh ve er y voayrd son peiagh erbee dy hroggal as loayrt my-e-chione. Ta lipaidyn cooney lesh keayrtee as lught obbree goaill ayrn 'sy taggloo, as cha lhiass da peiagh erbee feysht «Quoi shoh?»
 
-### A recipe card
+### Kaart resipee
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Clou resipee lught-thie share ayns clou mooar. Jean ymmyd jeh dy ghiennaghtyn ry-cheilley, ny dy loayrt ynrican mychione bee jeh'n traa hie.
 
-## How do I offer a printable without it feeling like homework?
+## Kys oddym obbyr clou y chur gyn eh dy ve goll rish obbyr scoill?
 
-Present it as something to share, not a test.
+Cur eh myr red dy rheynn, cha nee prowal.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Soie sheese as toshee eh oo hene.** «Ta mee jannoo yn ronsaghey fockleyn shoh. Jean oo cooney lhiam 'garey' y gheddyn?»
+- **Obbraghey ry-cheilley.** Gow shiu kiarail, ny ta un persoon feddyn as yn fer elley cruinnaghey.
+- **Ny jean eh y chowraghey kiart ny neu-chiart.** Ta lioar [obbraghyn ec y thie](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) yn Alzheimer's Association cur coyrle dy chur geill da'n phróiseas, cha nee da'n jerrey, as da taitnys ny smoo na cooilleeney.
+- **Faag duillagyn magh.** Ta'n un lioar cur coyrle dy chur lioaryn-scrap, albymyn jalloo ny earishlioaryn shenn ayns boaylyn aashagh dy roshtey. Foddee kaartyn clouit as duillagyn jalloo ve er boayrd lhiattee 'syn un aght.
+- **Scuirr traa erbee s'mie lhiat.** Ta lieh duillag daahit fastyr mie. Myrgeddin ta cur y duillag ersooyl as goaill cappan dy hey.
 
-## Where to find more
+## Raad dy gheddyn tooilley
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Jeeagh er ooilley ny [ghammanyn as obbraghyn clou ain](/games/), ny jeeagh er [obbraghyn son dagh traa](/activities/ideas/) son ny smoo eieyn, lesh paabyr as gyn paabyr.
